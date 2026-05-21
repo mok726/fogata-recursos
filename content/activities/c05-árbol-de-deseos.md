@@ -1,0 +1,34 @@
+﻿---
+title: "C.05 ÁRBOL DE DESEOS"
+duration: "1-2 horas"
+age:
+  - "manada"
+  - "scouts"
+materials:
+  - "Hojas, corteza, piedras planas"
+  - "Pegamento no tóxico"
+  - "Marcadores ecológicos"
+tools:
+  - "Ninguna"
+competencies:
+  - "Creatividad"
+  - "Reflexión grupal"
+  - "Conciencia ecológica"
+responsible: "Scouter o líder artístico"
+ods:
+  - "11"
+tags:
+  - "Insignia de los Bosques"
+---
+
+# C.05 ÁRBOL DE DESEOS
+
+## Resumen
+Crea un collage con deseos escritos en materiales naturales del bosque.
+
+## Desarrollo
+Recolecten materiales del bosque que se pueden usar como papel (por ej. **corteza**, hojas, etc.). Escriban deseos sobre estos y luego úsenlos para crear un gran collage de un árbol - o un grupo de árboles, si tienen suficientes deseos. Sus deseos pueden ser para ustedes mismos, para sus amigos y sus familias o para todo el mundo. ¡Asegúrense de enviar fotografías de sus árboles de deseos a **yunga@fao.org**!
+
+## Cierre
+¿Qué deseos compartidos surgieron en el grupo? ¿Por qué?
+
