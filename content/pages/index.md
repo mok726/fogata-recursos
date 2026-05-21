@@ -1,6 +1,6 @@
 ---
 title: Fogata Recursos
-layout: base.njk
+layout: base
 ---
 
 # Fogata Recursos
