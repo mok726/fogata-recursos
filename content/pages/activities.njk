@@ -1,0 +1,18 @@
+---
+layout: base
+title: Actividades
+permalink: /activities/
+---
+
+<h1>Actividades</h1>
+
+<ul>
+{% for activity in collections.activities %}
+  <li>
+    <a href="{{ activity.url }}">
+      {{ activity.data.title }}
+    </a>
+  </li>
+{% endfor %}
+</ul>
+

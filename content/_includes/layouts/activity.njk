@@ -1,0 +1,50 @@
+---
+layout: base
+---
+
+<article>
+
+  <h1>{{ title }}</h1>
+
+  <p>{{ description }}</p>
+
+  <hr>
+
+  <h2>Información</h2>
+
+  <ul>
+    <li><strong>Duración:</strong> {{ duration }}</li>
+    <li><strong>Dificultad:</strong> {{ difficulty }}</li>
+    <li><strong>Modalidad:</strong> {{ indoor_outdoor }}</li>
+  </ul>
+
+  <h2>Grupos etarios</h2>
+
+  <ul>
+    {% for item in age_group %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>ODS</h2>
+
+  <ul>
+    {% for item in sdgs %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <h2>Insignias</h2>
+
+  <ul>
+    {% for item in badges %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+
+  {{ content | safe }}
+
+</article>
+
