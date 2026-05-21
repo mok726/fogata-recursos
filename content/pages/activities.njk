@@ -6,13 +6,46 @@ permalink: /activities/
 
 <h1>Actividades</h1>
 
-<ul>
+<div class="card-grid">
+
 {% for activity in collections.activities %}
-  <li>
-    <a href="{{ activity.url }}">
-      {{ activity.data.title }}
-    </a>
-  </li>
+
+  <article class="card">
+
+    <h3>
+      <a href="{{ activity.url }}">
+        {{ activity.data.title }}
+      </a>
+    </h3>
+
+    <p>
+      {{ activity.data.description }}
+    </p>
+
+    <div class="card-meta">
+      ⏱ {{ activity.data.duration }}
+    </div>
+
+    <div>
+      {% for group in activity.data.age_group %}
+        <span class="badge">
+          {{ group }}
+        </span>
+      {% endfor %}
+    </div>
+
+    <div>
+      {% for sdg in activity.data.sdgs %}
+        <span class="badge">
+          ODS {{ sdg }}
+        </span>
+      {% endfor %}
+    </div>
+
+  </article>
+
 {% endfor %}
-</ul>
+
+</div>
+
 

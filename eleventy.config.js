@@ -1,5 +1,7 @@
 module.exports = function(eleventyConfig) {
 
+  eleventyConfig.addPassthroughCopy("content/css");
+
   eleventyConfig.addCollection("activities", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/activities/*.md");
   });

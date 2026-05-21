@@ -1,0 +1,39 @@
+---
+layout: base
+---
+
+<h1>{{ title }}</h1>
+
+<p>{{ description }}</p>
+
+<hr>
+
+{{ content | safe }}
+
+<hr>
+
+<h2>Actividades relacionadas</h2>
+
+<ul>
+{% for activity in collections.activities %}
+
+  {% if activity.data.badges %}
+
+    {% for badge in activity.data.badges %}
+
+      {% if badge == badge_id %}
+
+        <li>
+          <a href="{{ activity.url }}">
+            {{ activity.data.title }}
+          </a>
+        </li>
+
+      {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+{% endfor %}
+</ul>
