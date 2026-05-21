@@ -35,7 +35,7 @@ sdgs:
   - 13
   - 15
 
-badges:
+activity_badges:
   - Polinizadores
 
 educational_objectives:

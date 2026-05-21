@@ -81,13 +81,25 @@
 
   <div class="badge-header">
 
-    {% if badges %}
-      {% for badge in badges %}
-        <img
-          src="/imagenes/insignias/{{ badge | slugify }}.png"
-          alt="{{ badge }}">
-      {% endfor %}
-    {% endif %}
+{% if activity_badges %}
+{% for badge in activity_badges  %}
+
+{% if badge.id %}
+  {% set badgeId = badge.id %}
+  {% set badgeName = badge.name %}
+{% else %}
+  {% set badgeId = badge | slugify %}
+  {% set badgeName = badge %}
+{% endif %}
+
+<img
+  src="/imagenes/insignias/{{ badgeId }}.png"
+  alt="{{ badgeName }}"
+>
+
+  {% endfor %}
+{% endif %}
+
 
     <div>
       <h1>{{ title }}</h1>

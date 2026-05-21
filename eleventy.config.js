@@ -4,6 +4,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("imagenes");
 
 
+
   eleventyConfig.addCollection("activities", function(collectionApi) {
     return collectionApi.getFilteredByGlob("content/activities/*.md");
   });
