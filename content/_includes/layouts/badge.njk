@@ -2,9 +2,23 @@
 layout: base
 ---
 
-<h1>{{ title }}</h1>
+<div class="badge-header">
 
-<p>{{ description }}</p>
+  <img
+    class="badge-logo"
+    src="/imagenes/insignias/{{ badge_id | lower }}.png"
+    alt="{{ title }}"
+  >
+
+  <div>
+
+    <h1>{{ title }}</h1>
+
+    <p>{{ description }}</p>
+
+  </div>
+
+</div>
 
 <hr>
 
@@ -14,7 +28,8 @@ layout: base
 
 <h2>Actividades relacionadas</h2>
 
-<ul>
+<div class="card-grid">
+
 {% for activity in collections.activities %}
 
   {% if activity.data.badges %}
@@ -23,11 +38,17 @@ layout: base
 
       {% if badge == badge_id %}
 
-        <li>
-          <a href="{{ activity.url }}">
-            {{ activity.data.title }}
-          </a>
-        </li>
+        <article class="card">
+
+          <h3>
+            <a href="{{ activity.url }}">
+              {{ activity.data.title }}
+            </a>
+          </h3>
+
+          <p>{{ activity.data.description }}</p>
+
+        </article>
 
       {% endif %}
 
@@ -36,4 +57,7 @@ layout: base
   {% endif %}
 
 {% endfor %}
-</ul>
+
+</div>
+
+
