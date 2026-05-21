@@ -1,50 +1,152 @@
----
-layout: base
----
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title }} - Fogata Recursos</title>
 
-<article>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: auto;
+      max-width: 900px;
+      padding: 1rem;
+      line-height: 1.6;
+      background: #f5f5f5;
+      color: #222;
+    }
 
-  <h1>{{ title }}</h1>
+    .card {
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
 
-  <p>{{ description }}</p>
+    .badge-header {
+      display: flex;
+      gap: 1rem;
+      align-items: center;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
 
-  <hr>
+    .badge-header img {
+      width: 90px;
+      border-radius: 10px;
+    }
 
-  <h2>Información</h2>
+    .sdg-list {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
 
-  <ul>
-    <li><strong>Duración:</strong> {{ duration }}</li>
-    <li><strong>Dificultad:</strong> {{ difficulty }}</li>
-    <li><strong>Modalidad:</strong> {{ indoor_outdoor }}</li>
-  </ul>
+    .sdg-list img {
+      width: 64px;
+      border-radius: 6px;
+    }
 
-  <h2>Grupos etarios</h2>
+    .meta {
+      background: #f0f0f0;
+      padding: 1rem;
+      border-radius: 8px;
+      margin: 1rem 0;
+    }
 
-  <ul>
-    {% for item in age_group %}
-      <li>{{ item }}</li>
+    ul {
+      padding-left: 1.2rem;
+    }
+
+    @media (max-width: 600px) {
+      .badge-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .badge-header img {
+        width: 70px;
+      }
+
+      .sdg-list img {
+        width: 52px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="card">
+
+  <div class="badge-header">
+
+    {% if badges %}
+      {% for badge in badges %}
+        <img
+          src="/imagenes/insignias/{{ badge | slugify }}.png"
+          alt="{{ badge }}">
+      {% endfor %}
+    {% endif %}
+
+    <div>
+      <h1>{{ title }}</h1>
+
+      {% if description %}
+        <p>{{ description }}</p>
+      {% endif %}
+    </div>
+
+  </div>
+
+  <div class="meta">
+
+    {% if age_group %}
+      <p>
+        <strong>Grupo etario:</strong>
+        {{ age_group | join(", ") }}
+      </p>
+    {% endif %}
+
+    {% if duration %}
+      <p>
+        <strong>Duración:</strong>
+        {{ duration }}
+      </p>
+    {% endif %}
+
+    {% if tags %}
+      <p>
+        <strong>Tags:</strong>
+        {{ tags | join(", ") }}
+      </p>
+    {% endif %}
+
+  </div>
+
+  {% if materials %}
+    <h2>Materiales</h2>
+
+    <ul>
+      {% for item in materials %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <h2>ODS relacionados</h2>
+
+  <div class="sdg-list">
+    {% for sdg in sdgs %}
+      <img
+        src="/imagenes/ods/ods-{{ sdg }}.png"
+        alt="ODS {{ sdg }}">
     {% endfor %}
-  </ul>
+  </div>
 
-  <h2>ODS</h2>
+</div>
 
-  <ul>
-    {% for item in sdgs %}
-      <li>{{ item }}</li>
-    {% endfor %}
-  </ul>
+</body>
+</html>
 
-  <h2>Insignias</h2>
-
-  <ul>
-    {% for item in badges %}
-      <li>{{ item }}</li>
-    {% endfor %}
-  </ul>
-
-  <hr>
-
-  {{ content | safe }}
-
-</article>
 
