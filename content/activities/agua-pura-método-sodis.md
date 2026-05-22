@@ -1,57 +1,82 @@
 ﻿---
 title: "Agua Pura (Método SODIS)"
+
 duration: "15 min"
 
+
 layout: layouts/activity.njk
+
 permalink: "/activities/agua-pura-método-sodis/"
+
 description: Aprende a purificar agua utilizando la energía del Sol y el método SODIS..
+
+
 summary: >
-	 Aprende a purificar agua utilizando la energía del Sol y el método SODIS.
+   Aprende a purificar agua utilizando la energía del Sol y el método SODIS.
+
 
 author: Mariano Cosentino
+
 source: Fogata de Recursos
+
 branch:
+
   - Naturaleza
+
 categories:
+
+
 age:
   - "scouts"
   - "caminantes"
   - "rovers"
+
 age_group:
   - "scouts"
   - "caminantes"
   - "rovers"
+
 materials:
   - "Botella de PET transparente, agua de fuente natural, superficie reflectante"
+
 tools:
   - "Ninguna"
+
 competencies:
   - "Conciencia Ambiental, Experimentación Científica"
+
 responsible: "Sinodal o Dirigente a cargo"
+
 ods:
   - "6"
   - "13"
+
 sdgs:
   - "6"
   - "13"
 
+
 activity_badges:
-  - Polinizadores
+  - "Go Solar"
 
 educational_objectives:
   - Comprender 
   - Promover 
   - Fomentar 
 
+
 preparation: >
   Preparar 
   .
+
 location:
   - Exterior
+
 indoor_outdoor: outdoor
 difficulty: facil
 tags:
   - "Go Solar"
+
 ---
 
 # Agua Pura (Método SODIS)

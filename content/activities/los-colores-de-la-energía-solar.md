@@ -1,59 +1,86 @@
 ﻿---
 title: "Los Colores de la Energía Solar"
+
 duration: "45 min"
 
+
 layout: layouts/activity.njk
+
 permalink: "/activities/los-colores-de-la-energía-solar/"
+
 description: Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol..
+
+
 summary: >
-	 Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol.
+   Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol.
+
 
 author: Mariano Cosentino
+
 source: Fogata de Recursos
+
 branch:
+
   - Naturaleza
+
 categories:
+
+
 age:
+  - "castores"
   - "manada"
   - "scouts"
   - "caminantes"
   - "rovers"
+
 age_group:
+  - "castores"
   - "manada"
   - "scouts"
   - "caminantes"
   - "rovers"
+
 materials:
   - "Botellas de plástico, pinturas de diferentes colores, agua, termómetro"
+
 tools:
   - "Pinceles, termómetro"
+
 competencies:
   - "Pensamiento Crítico, Conciencia Ambiental, Experimentación Científica"
+
 responsible: "Sinodal o Dirigente a cargo"
+
 ods:
   - "7"
   - "13"
+
 sdgs:
   - "7"
   - "13"
 
+
 activity_badges:
-  - Polinizadores
+  - "Go Solar"
 
 educational_objectives:
   - Comprender 
   - Promover 
   - Fomentar 
 
+
 preparation: >
   Preparar 
   .
+
 location:
   - Exterior
+
 indoor_outdoor: outdoor
 difficulty: facil
 tags:
   - "Go Solar"
+
 ---
 
 # Los Colores de la Energía Solar

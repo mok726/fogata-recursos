@@ -12,7 +12,7 @@ description: Aprende sobre la potencia de la luz del Sol mientras creas arte uti
 
 
 summary: >
-	 Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar.
+   Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar.
 
 
 author: Mariano Cosentino

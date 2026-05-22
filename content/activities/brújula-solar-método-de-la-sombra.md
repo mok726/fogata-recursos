@@ -12,7 +12,7 @@ description: Aprende a orientarte utilizando la sombra de un palo y el movimient
 
 
 summary: >
-	 Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol.
+   Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol.
 
 
 author: Mariano Cosentino

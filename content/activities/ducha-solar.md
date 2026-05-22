@@ -1,57 +1,82 @@
 ﻿---
 title: "Ducha Solar"
+
 duration: "1 - 2 h"
 
+
 layout: layouts/activity.njk
+
 permalink: "/activities/ducha-solar/"
+
 description: Aprende a construir una ducha solar y descubre cómo funciona..
+
+
 summary: >
-	 Aprende a construir una ducha solar y descubre cómo funciona.
+   Aprende a construir una ducha solar y descubre cómo funciona.
+
 
 author: Mariano Cosentino
+
 source: Fogata de Recursos
+
 branch:
+
   - Naturaleza
+
 categories:
+
+
 age:
   - "scouts"
   - "caminantes"
   - "rovers"
+
 age_group:
   - "scouts"
   - "caminantes"
   - "rovers"
+
 materials:
   - "Materiales según el instructivo de Ducha de Sol"
+
 tools:
   - "Herramientas según el instructivo de Ducha de Sol"
+
 competencies:
   - "Conciencia Ambiental, Aprendizaje Práctico"
+
 responsible: "Sinodal o Dirigente a cargo"
+
 ods:
   - "7"
   - "13"
+
 sdgs:
   - "7"
   - "13"
 
+
 activity_badges:
-  - Polinizadores
+  - "Go Solar"
 
 educational_objectives:
   - Comprender 
   - Promover 
   - Fomentar 
 
+
 preparation: >
   Preparar 
   .
+
 location:
   - Exterior
+
 indoor_outdoor: outdoor
 difficulty: facil
 tags:
   - "Go Solar"
+
 ---
 
 # Ducha Solar
