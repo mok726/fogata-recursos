@@ -57,7 +57,7 @@ sdgs:
 
 
 activity_badges:
-  - "Go Solar"
+- "GoSolar"
 
 educational_objectives:
   - Comprender 
