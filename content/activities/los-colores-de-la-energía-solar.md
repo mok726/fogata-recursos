@@ -1,7 +1,22 @@
 ﻿---
 title: "Los Colores de la Energía Solar"
 duration: "45 min"
+
+layout: layouts/activity.njk
+permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\arte-solar.md/"
+description: Construcción de refugios para insectos polinizadores.
+summary: >
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
+categories:
 age:
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
   - "manada"
   - "scouts"
   - "caminantes"
@@ -16,6 +31,23 @@ responsible: "Sinodal o Dirigente a cargo"
 ods:
   - "7"
   - "13"
+sdgs:
+  - "7"
+  - "13"
+activity_badges:
+  - Polinizadores
+educational_objectives:
+  - Comprender la importancia de los polinizadores
+  - Promover el cuidado de la biodiversidad
+  - Fomentar el trabajo en equipo
+
+preparation: >
+  Preparar previamente ejemplos de refugios y organizar
+  los materiales en estaciones de trabajo.
+location:
+  - Exterior
+indoor_outdoor: outdoor
+difficulty: facil
 tags:
   - "Go Solar"
 ---

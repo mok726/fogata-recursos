@@ -1,7 +1,21 @@
 ﻿---
 title: "Agua Pura (Método SODIS)"
 duration: "15 min"
+
+layout: layouts/activity.njk
+permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\colectando-agua.md/"
+description: Construcción de refugios para insectos polinizadores.
+summary: >
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
+categories:
 age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
   - "scouts"
   - "caminantes"
   - "rovers"
@@ -15,6 +29,23 @@ responsible: "Sinodal o Dirigente a cargo"
 ods:
   - "6"
   - "13"
+sdgs:
+  - "6"
+  - "13"
+activity_badges:
+  - Polinizadores
+educational_objectives:
+  - Comprender la importancia de los polinizadores
+  - Promover el cuidado de la biodiversidad
+  - Fomentar el trabajo en equipo
+
+preparation: >
+  Preparar previamente ejemplos de refugios y organizar
+  los materiales en estaciones de trabajo.
+location:
+  - Exterior
+indoor_outdoor: outdoor
+difficulty: facil
 tags:
   - "Go Solar"
 ---
