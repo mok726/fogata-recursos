@@ -1,0 +1,35 @@
+---
+layout: layouts/base.njk
+title: Insignias
+---
+
+<h1>Insignias</h1>
+
+<div class="grid">
+
+  {% for badge in badges %}
+
+    <a href="/badges/{{ badge.id }}/">
+
+      <div class="card">
+
+        <img
+          class="badge"
+          src="/imagenes/insignias/{{ badge.id }}.png"
+          alt="{{ badge.name }}">
+
+        <div class="card-content">
+
+          <h2>{{ badge.name }}</h2>
+
+        </div>
+
+      </div>
+
+    </a>
+
+  {% endfor %}
+
+</div>
+
+

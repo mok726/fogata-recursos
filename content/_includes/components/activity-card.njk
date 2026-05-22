@@ -1,0 +1,55 @@
+<div class="card">
+
+  {% if activity.data.activity_badges  %}
+
+	{% set badge = activity.data.activity_badges [0] %}
+
+	{% if badge.id %}
+	  {% set badgeId = badge.id %}
+	  {% set badgeName = badge.name %}
+	{% else %}
+	  {% set badgeId = badge | slugify %}
+	  {% set badgeName = badge %}
+	{% endif %}
+
+	<img
+	  class="badge"
+	  src="/imagenes/insignias/{{ badgeId }}.png"
+	  alt="{{ badgeName }}">
+
+  {% endif %}
+
+  <div class="card-content">
+
+    <h2>{{ activity.data.title }}</h2>
+
+    {% if activity.data.description %}
+      <p>{{ activity.data.description }}</p>
+    {% endif %}
+
+    <div class="meta">
+
+      {% if activity.data.age_group %}
+        {{ activity.data.age_group | join(", ") }}
+      {% endif %}
+
+      {% if activity.data.duration %}
+        • {{ activity.data.duration }}
+      {% endif %}
+
+    </div>
+
+    <div class="sdgs">
+
+      {% for sdg in activity.data.sdgs %}
+        <img
+          src="/imagenes/ods/ods-{{ sdg }}.png"
+          alt="ODS {{ sdg }}">
+      {% endfor %}
+
+    </div>
+
+  </div>
+
+</div>
+

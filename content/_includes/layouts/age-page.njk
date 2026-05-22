@@ -89,48 +89,7 @@
 
     <a href="{{ activity.url }}">
 
-      <div class="card">
-
-        {% if activity.data.badges %}
-
-          {% set badge = activity.data.badges[0] %}
-
-          <img
-            class="badge"
-            src="/imagenes/insignias/{{ badge | slugify }}.png"
-            alt="{{ badge }}">
-
-        {% endif %}
-
-        <div class="card-content">
-
-          <h2>{{ activity.data.title }}</h2>
-
-          {% if activity.data.description %}
-            <p>{{ activity.data.description }}</p>
-          {% endif %}
-
-          <div class="meta">
-
-            {% if activity.data.duration %}
-              {{ activity.data.duration }}
-            {% endif %}
-
-          </div>
-
-          <div class="sdgs">
-
-            {% for sdg in activity.data.sdgs %}
-              <img
-                src="/imagenes/ods/ods-{{ sdg }}.png"
-                alt="ODS {{ sdg }}">
-            {% endfor %}
-
-          </div>
-
-        </div>
-
-      </div>
+	{% include "components/activity-card.njk" %}
 
     </a>
 

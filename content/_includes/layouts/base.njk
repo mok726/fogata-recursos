@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+
+  <link rel="stylesheet" href="/css/main.css">
+
+  <title>
+    {% if title %}
+      {{ title }} - Fogata de Recursos
+    {% else %}
+      Fogata de Recursos
+    {% endif %}
+  </title>
+</head>
+
+<body>
+
+{% include "components/navbar.njk" %}
+
+
+  {{ content | safe }}
+
+</body>
+
+</html>

@@ -1,0 +1,34 @@
+---
+layout: layouts/base.njk
+title: Edades
+---
+
+<h1>Grupos Etarios</h1>
+
+<div class="grid">
+
+  {% for age in ageGroups %}
+
+    <a href="/edades/{{ age.id }}/">
+
+      <div class="card">
+
+        <div class="card-content">
+
+          <h2>{{ age.name }}</h2>
+
+          {% if age.description %}
+            <p>{{ age.description }}</p>
+          {% endif %}
+
+        </div>
+
+      </div>
+
+    </a>
+
+  {% endfor %}
+
+</div>
+
+

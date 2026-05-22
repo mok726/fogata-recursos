@@ -1,73 +1,6 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>ODS {{ sdg.id }} - Fogata Recursos</title>
-
-  <style>
-
-    body {
-      font-family: Arial, sans-serif;
-      margin: auto;
-      max-width: 1200px;
-      padding: 1rem;
-      background: #f5f5f5;
-      color: #222;
-    }
-
-    .header {
-      display: flex;
-      gap: 2rem;
-      align-items: center;
-      margin-bottom: 2rem;
-      flex-wrap: wrap;
-    }
-
-    .header img {
-      width: 180px;
-      border-radius: 12px;
-      background: white;
-      padding: 1rem;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-      gap: 1rem;
-    }
-
-    .card {
-      background: white;
-      border-radius: 12px;
-      overflow: hidden;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-    }
-
-    .card-content {
-      padding: 1rem;
-    }
-
-    .sdgs {
-      display: flex;
-      gap: 0.3rem;
-      flex-wrap: wrap;
-      margin-top: 1rem;
-    }
-
-    .sdgs img {
-      width: 42px;
-      border-radius: 4px;
-    }
-
-    a {
-      text-decoration: none;
-      color: inherit;
-    }
-
-  </style>
-</head>
-
-<body>
+---
+layout: layouts/base.njk
+---
 
 <div class="header">
 
@@ -91,41 +24,16 @@
 
   {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
 
-    <a href="{{ activity.url }}">
+	<a href="{{ activity.url }}">
 
-      <div class="card">
+	  {% include "components/activity-card.njk" %}
 
-        <div class="card-content">
-
-          <h2>{{ activity.data.title }}</h2>
-
-          {% if activity.data.description %}
-            <p>{{ activity.data.description }}</p>
-          {% endif %}
-
-          <div class="sdgs">
-
-            {% for item in activity.data.sdgs %}
-              <img
-                src="/imagenes/ods/ods-{{ item }}.png"
-                alt="ODS {{ item }}">
-            {% endfor %}
-
-          </div>
-
-        </div>
-
-      </div>
-
-    </a>
-
+	</a>
   {% endif %}
 
 {% endfor %}
 
 </div>
 
-</body>
-</html>
 
 
