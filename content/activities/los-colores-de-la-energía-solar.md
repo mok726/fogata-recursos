@@ -3,9 +3,11 @@ title: "Los Colores de la Energía Solar"
 duration: "45 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\arte-solar.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/los-colores-de-la-energía-solar/"
+description: Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol..
 summary: >
+	 Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -34,16 +36,18 @@ ods:
 sdgs:
   - "7"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

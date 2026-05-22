@@ -3,9 +3,11 @@ title: "Brújula Solar (Método del Reloj)"
 duration: "45 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\reloj-de-sol.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/brújula-solar-método-del-reloj/"
+description: Aprende a orientarte utilizando un reloj analógico y la posición del Sol..
 summary: >
+	 Aprende a orientarte utilizando un reloj analógico y la posición del Sol.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "4"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

@@ -3,9 +3,11 @@ title: "Ozono y Quemaduras de Sol"
 duration: "30 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\lentes-solares.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/ozono-y-quemaduras-de-sol/"
+description: Aprende sobre los riesgos del ozono y cómo proteger tu piel de las quemaduras solares..
 summary: >
+	 Aprende sobre los riesgos del ozono y cómo proteger tu piel de las quemaduras solares.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "3"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

@@ -3,9 +3,11 @@ title: "Horno Solar - Cocina Solar"
 duration: "2 h"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\agua-pura-método-sodis.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/horno-solar---cocina-solar/"
+description: Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol..
 summary: >
+	 Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "7"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

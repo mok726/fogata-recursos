@@ -3,9 +3,11 @@ title: "Concurso Solar"
 duration: "30 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\una-comida-solar.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/concurso-solar/"
+description: Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva..
 summary: >
+	 Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "4"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

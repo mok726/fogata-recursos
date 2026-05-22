@@ -3,9 +3,11 @@ title: "Lentes Solares"
 duration: "30 - 45 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\brújula-solar-método-de-la-sombra.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/lentes-solares/"
+description: Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV. Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre..
 summary: >
+	 Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV. Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -34,16 +36,18 @@ ods:
 sdgs:
   - "3"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

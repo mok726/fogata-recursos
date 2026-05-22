@@ -3,9 +3,11 @@ title: "Colectando Agua"
 duration: "30 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\ozono-y-quemaduras-de-sol.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/colectando-agua/"
+description: Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar..
 summary: >
+	 Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "6"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

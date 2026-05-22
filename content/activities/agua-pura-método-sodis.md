@@ -3,9 +3,11 @@ title: "Agua Pura (Método SODIS)"
 duration: "15 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\colectando-agua.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/agua-pura-método-sodis/"
+description: Aprende a purificar agua utilizando la energía del Sol y el método SODIS..
 summary: >
+	 Aprende a purificar agua utilizando la energía del Sol y el método SODIS.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "6"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

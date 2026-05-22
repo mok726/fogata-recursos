@@ -3,9 +3,11 @@ title: "Reloj de Sol"
 duration: "45 min"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\los-colores-de-la-energía-solar.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/reloj-de-sol/"
+description: Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo..
 summary: >
+	 Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -34,16 +36,18 @@ ods:
 sdgs:
   - "4"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

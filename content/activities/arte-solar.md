@@ -3,9 +3,11 @@ title: "Arte Solar"
 duration: "15 min - 1 h"
 
 layout: layouts/activity.njk
-permalink: "/activities//"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/arte-solar/"
+description: Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar..
 summary: >
+	 Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -34,16 +36,18 @@ ods:
 sdgs:
   - "7"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor

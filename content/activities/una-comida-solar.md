@@ -3,9 +3,11 @@ title: "Una Comida Solar"
 duration: "1 - 2 h"
 
 layout: layouts/activity.njk
-permalink: "/activities/G:\My Drive\Scouts\SAN PABLO\Manada\WEB Fichas\herramientas\..\content\activities\horno-solar---cocina-solar.md/"
-description: Construcción de refugios para insectos polinizadores.
+permalink: "/activities/una-comida-solar/"
+description: Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos..
 summary: >
+	 Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos.
+
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -32,16 +34,18 @@ ods:
 sdgs:
   - "7"
   - "13"
+
 activity_badges:
   - Polinizadores
+
 educational_objectives:
-  - Comprender la importancia de los polinizadores
-  - Promover el cuidado de la biodiversidad
-  - Fomentar el trabajo en equipo
+  - Comprender 
+  - Promover 
+  - Fomentar 
 
 preparation: >
-  Preparar previamente ejemplos de refugios y organizar
-  los materiales en estaciones de trabajo.
+  Preparar 
+  .
 location:
   - Exterior
 indoor_outdoor: outdoor
