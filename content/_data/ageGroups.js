@@ -3,10 +3,15 @@ module.exports = function() {
   return [
 
     {
+      id: "castores",
+      name: "Castores"
+    },
+    
+    {
       id: "manada",
       name: "Manada"
     },
-
+    
     {
       id: "unidad-scout",
       name: "Unidad Scout"
