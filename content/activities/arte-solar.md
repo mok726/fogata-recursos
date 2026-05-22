@@ -1,59 +1,86 @@
 ﻿---
 title: "Arte Solar"
+
 duration: "15 min - 1 h"
 
+
 layout: layouts/activity.njk
+
 permalink: "/activities/arte-solar/"
+
 description: Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar..
+
+
 summary: >
 	 Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar.
 
+
 author: Mariano Cosentino
+
 source: Fogata de Recursos
+
 branch:
+
   - Naturaleza
+
 categories:
+
+
 age:
+  - "castores"
   - "manada"
   - "scouts"
   - "caminantes"
   - "rovers"
+
 age_group:
+  - "castores"
   - "manada"
   - "scouts"
   - "caminantes"
   - "rovers"
+
 materials:
   - "Lupas, tablas de madera, agua, anteojos de Sol con protección UV"
+
 tools:
   - "Lápiz, balde de agua"
+
 competencies:
   - "Pensamiento Crítico, Creatividad, Conciencia Ambiental"
+
 responsible: "Sinodal o Dirigente a cargo"
+
 ods:
   - "7"
   - "13"
+
 sdgs:
   - "7"
   - "13"
 
+
 activity_badges:
-  - Polinizadores
+  - "Go Solar"
 
 educational_objectives:
   - Comprender 
   - Promover 
   - Fomentar 
 
+
 preparation: >
   Preparar 
   .
+
 location:
   - Exterior
+
 indoor_outdoor: outdoor
 difficulty: facil
 tags:
   - "Go Solar"
+
 ---
 
 # Arte Solar

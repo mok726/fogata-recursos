@@ -1,57 +1,82 @@
 ﻿---
 title: "Brújula Solar (Método de la Sombra)"
+
 duration: "45 min"
 
+
 layout: layouts/activity.njk
+
 permalink: "/activities/brújula-solar-método-de-la-sombra/"
+
 description: Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol..
+
+
 summary: >
 	 Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol.
 
+
 author: Mariano Cosentino
+
 source: Fogata de Recursos
+
 branch:
+
   - Naturaleza
+
 categories:
+
+
 age:
   - "scouts"
   - "caminantes"
   - "rovers"
+
 age_group:
   - "scouts"
   - "caminantes"
   - "rovers"
+
 materials:
   - "Palo o rama, piedras"
+
 tools:
   - "Ninguna"
+
 competencies:
   - "Pensamiento Crítico, Orientación, Aprendizaje Práctico"
+
 responsible: "Sinodal o Dirigente a cargo"
+
 ods:
   - "4"
   - "13"
+
 sdgs:
   - "4"
   - "13"
 
+
 activity_badges:
-  - Polinizadores
+  - "Go Solar"
 
 educational_objectives:
   - Comprender 
   - Promover 
   - Fomentar 
 
+
 preparation: >
   Preparar 
   .
+
 location:
   - Exterior
+
 indoor_outdoor: outdoor
 difficulty: facil
 tags:
   - "Go Solar"
+
 ---
 
 # Brújula Solar (Método de la Sombra)
