@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>ODS {{ sdg.id }} - Fogata Recursos</title>
+  <title>Rama {{ age.id }} - Fogata de Recursos</title>
 
   <style>
 
@@ -47,14 +47,14 @@
       padding: 1rem;
     }
 
-    .sdgs {
+    .age {
       display: flex;
       gap: 0.3rem;
       flex-wrap: wrap;
       margin-top: 1rem;
     }
 
-    .sdgs img {
+    .age img {
       width: 42px;
       border-radius: 4px;
     }
@@ -72,14 +72,14 @@
 <div class="header">
 
   <img
-    src="/imagenes/ods/ods-{{ sdg.id }}.png"
-    alt="ODS {{ sdg.id }}">
+    src="/imagenes/edades/{{ age.id }}.png"
+    alt="Rama {{ age.id }}">
 
   <div>
-    <h1>ODS {{ sdg.id }}</h1>
+    <h1>Rama {{ age.id }}</h1>
 
     <p>
-      {{ sdg.name }}
+      {{ age.name }}
     </p>
   </div>
 
@@ -89,7 +89,7 @@
 
 {% for activity in collections.activities %}
 
-  {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
+  {% if activity.data.ageGroups and (age.id in activity.data.ageGroups) %}
 
     <a href="{{ activity.url }}">
 
@@ -103,12 +103,12 @@
             <p>{{ activity.data.description }}</p>
           {% endif %}
 
-          <div class="sdgs">
+          <div class="age">
 
-            {% for item in activity.data.sdgs %}
+            {% for item in activity.data.ageGroups %}
               <img
-                src="/imagenes/ods/ods-{{ item }}.png"
-                alt="ODS {{ item }}">
+                src="/imagenes/edades/{{ item }}.png"
+                alt="Rama {{ item }}">
             {% endfor %}
 
           </div>
