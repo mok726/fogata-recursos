@@ -1,55 +1,108 @@
 <div class="card">
 
-  {% if activity.data.activity_badges  %}
+  {% set badge = null %}
 
-	{% set badge = activity.data.activity_badges [0] %}
+{% if activity.data.activity_badges and activity.data.activity_badges.length %}
 
-	{% if badge.id %}
-	  {% set badgeId = badge.id %}
-	  {% set badgeName = badge.name %}
-	{% else %}
-	  {% set badgeId = badge | slugify %}
-	  {% set badgeName = badge %}
-	{% endif %}
+  {% set rawBadge = activity.data.activity_badges[0] %}
 
-	<img
-	  class="badge"
-	  src="/imagenes/insignias/{{ badgeId }}.png"
-	  alt="{{ badgeName }}">
+  {% if rawBadge.id %}
+
+    {% set badge = rawBadge %}
+
+  {% else %}
+
+    {% set badge = {
+      "id": rawBadge | slugify,
+      "name": rawBadge
+    } %}
+
+  {% endif %}
+
+  {% elif activity.data.badges and activity.data.badges.length %}
+
+    {% set rawBadge = activity.data.badges[0] %}
+
+    {% if rawBadge.id %}
+
+      {% set badge = rawBadge %}
+
+    {% else %}
+
+      {% set badge = {
+        "id": rawBadge | slugify,
+        "name": rawBadge
+      } %}
+
+    {% endif %}
+
+  {% endif %}
+
+  {% if badge %}
+
+    <div class="card-image">
+
+      <img
+        class="badge"
+        src="/imagenes/insignias/{{ badge.id }}.png"
+        alt="{{ badge.name }}">
+
+    </div>
 
   {% endif %}
 
   <div class="card-content">
 
-    <h2>{{ activity.data.title }}</h2>
+    <h2>
+      {{ activity.data.title }}
+    </h2>
 
     {% if activity.data.description %}
-      <p>{{ activity.data.description }}</p>
+
+      <p class="card-description">
+        {{ activity.data.description }}
+      </p>
+
     {% endif %}
 
     <div class="meta">
 
       {% if activity.data.age_group %}
-        {{ activity.data.age_group | join(", ") }}
+
+        <span class="chip">
+          {{ activity.data.age_group | join(", ") }}
+        </span>
+
       {% endif %}
 
       {% if activity.data.duration %}
-        • {{ activity.data.duration }}
+
+        <span class="chip">
+          {{ activity.data.duration }}
+        </span>
+
       {% endif %}
 
     </div>
 
-    <div class="sdgs">
+    {% if activity.data.sdgs %}
 
-      {% for sdg in activity.data.sdgs %}
-        <img
-          src="/imagenes/ods/ods-{{ sdg }}.png"
-          alt="ODS {{ sdg }}">
-      {% endfor %}
+      <div class="sdgs">
 
-    </div>
+        {% for sdg in activity.data.sdgs %}
+
+          <img
+            src="/imagenes/ods/ods-{{ sdg }}.png"
+            alt="ODS {{ sdg }}">
+
+        {% endfor %}
+
+      </div>
+
+    {% endif %}
 
   </div>
 
 </div>
+
 

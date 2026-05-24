@@ -1,0 +1,168 @@
+---
+title: Fogata de Recursos
+layout: base
+permalink: /
+---
+
+<section class="home-hero">
+
+  <div class="home-hero-content">
+
+    <h1>
+      Fogata de Recursos
+    </h1>
+
+    <p>
+      Actividades scouts, recursos educativos e ideas pedagógicas
+      para dirigentes, educadores y comunidades.
+    </p>
+
+    <div class="hero-actions">
+
+      <a class="hero-button" href="/activities/">
+        Explorar actividades
+      </a>
+
+      <a class="hero-button secondary" href="/badges/">
+        Ver insignias
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section>
+
+  <h2>
+    Explorar
+  </h2>
+
+  <div class="grid">
+
+    <a href="/activities/">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            Actividades
+          </h2>
+
+          <p>
+            Explorar dinámicas, juegos, talleres y propuestas educativas.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+    <a href="/badges/">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            Insignias
+          </h2>
+
+          <p>
+            Actividades relacionadas con insignias y progresión.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+    <a href="/ods/">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            ODS
+          </h2>
+
+          <p>
+            Explorar actividades vinculadas a Objetivos de Desarrollo Sostenible.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+    <a href="/edades/">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            Edades
+          </h2>
+
+          <p>
+            Buscar propuestas adaptadas a cada rama scout.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+  </div>
+
+</section>
+
+<section>
+
+  <h2>
+    Sobre el proyecto
+  </h2>
+
+  <p>
+    Fogata de Recursos busca construir una biblioteca educativa scout
+    abierta, navegable y reutilizable.
+  </p>
+
+  <ul>
+    <li>búsqueda de actividades</li>
+    <li>exploración pedagógica</li>
+    <li>reutilización de recursos</li>
+    <li>educación ambiental</li>
+    <li>trabajo por competencias</li>
+    <li>actividades vinculadas a ODS</li>
+  </ul>
+
+</section>
+
+<section>
+
+  <h2>
+    Actividades destacadas
+  </h2>
+
+  <div class="grid">
+
+    {% for activity in collections.activities | reverse %}
+
+      {% if loop.index <= 3 %}
+
+        <a href="{{ activity.url }}">
+
+          {% include "components/activity-card.njk" %}
+
+        </a>
+
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</section>
+
+

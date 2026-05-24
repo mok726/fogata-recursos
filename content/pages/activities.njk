@@ -1,0 +1,33 @@
+---
+title: Actividades
+layout: base.njk
+permalink: /activities/
+---
+
+<section class="page-header">
+
+  <h1>
+    Actividades
+  </h1>
+
+  <p>
+    Biblioteca de actividades educativas scouts de Fogata de Recursos.
+  </p>
+
+</section>
+
+<div class="grid">
+
+  {% for activity in collections.activities %}
+
+    <a href="{{ activity.url }}">
+
+{% set activityItem = activity %}
+
+{% include "components/activity-card.njk" %}
+    </a>
+
+  {% endfor %}
+
+</div>
+

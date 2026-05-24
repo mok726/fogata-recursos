@@ -1,88 +1,229 @@
 ---
-layout: layouts/base.njk
+layout: base.njk
 ---
 
+<article class="activity-page">
 
-<div class="card">
+  {% set badge = null %}
 
-  <div class="badge-header">
+  {% if activity_badges and activity_badges.length %}
 
-{% if activity_badges %}
-{% for badge in activity_badges  %}
+    {% set rawBadge = activity_badges[0] %}
 
-{% if badge.id %}
-  {% set badgeId = badge.id %}
-  {% set badgeName = badge.name %}
-{% else %}
-  {% set badgeId = badge | slugify %}
-  {% set badgeName = badge %}
-{% endif %}
+    {% if rawBadge.id %}
 
-<img
-  src="/imagenes/insignias/{{ badgeId }}.png"
-  alt="{{ badgeName }}"
->
+      {% set badge = rawBadge %}
 
-  {% endfor %}
-{% endif %}
+    {% else %}
 
+      {% set badge = {
+        "id": rawBadge | slugify,
+        "name": rawBadge
+      } %}
 
-    <div>
-      <h1>{{ title }}</h1>
-
-      {% if description %}
-        <p>{{ description }}</p>
-      {% endif %}
-    </div>
-
-  </div>
-
-  <div class="meta">
-
-    {% if age_group %}
-      <p>
-        <strong>Grupo etario:</strong>
-        {{ age_group | join(", ") }}
-      </p>
     {% endif %}
 
-    {% if duration %}
-      <p>
-        <strong>Duración:</strong>
-        {{ duration }}
-      </p>
-    {% endif %}
-
-    {% if tags %}
-      <p>
-        <strong>Tags:</strong>
-        {{ tags | join(", ") }}
-      </p>
-    {% endif %}
-
-  </div>
-
-  {% if materials %}
-    <h2>Materiales</h2>
-
-    <ul>
-      {% for item in materials %}
-        <li>{{ item }}</li>
-      {% endfor %}
-    </ul>
   {% endif %}
 
-  <h2>ODS relacionados</h2>
+  <header class="activity-hero">
 
-  <div class="sdg-list">
-    {% for sdg in sdgs %}
-      <img
-        src="/imagenes/ods/ods-{{ sdg }}.png"
-        alt="ODS {{ sdg }}">
+    {% if badge %}
+
+      <div class="activity-badge">
+
+        <img
+          src="/imagenes/insignias/{{ badge.id }}.png"
+          alt="{{ badge.name }}">
+
+      </div>
+
+    {% endif %}
+
+    <div class="activity-hero-content">
+
+      <h1>
+        {{ title }}
+      </h1>
+
+      {% if description %}
+
+        <p class="activity-description">
+          {{ description }}
+        </p>
+
+      {% endif %}
+
+      <div class="meta">
+
+        {% if age_group %}
+
+          <span class="chip">
+            {{ age_group | join(", ") }}
+          </span>
+
+        {% endif %}
+
+        {% if duration %}
+
+          <span class="chip">
+            {{ duration }}
+          </span>
+
+        {% endif %}
+
+        {% if difficulty %}
+
+          <span class="chip">
+            {{ difficulty }}
+          </span>
+
+        {% endif %}
+
+      </div>
+
+
+<div class="activity-tags">
+
+  {% if categories %}
+
+    {% for category in categories %}
+
+      <span class="tag">
+        {{ category }}
+      </span>
+
     {% endfor %}
-  </div>
+
+  {% endif %}
+
+  {% if location %}
+
+    {% for place in location %}
+
+      <span class="tag">
+        {{ place }}
+      </span>
+
+    {% endfor %}
+
+  {% endif %}
 
 </div>
 
+
+
+      {% if sdgs %}
+
+        <div class="sdgs">
+
+          {% for sdg in sdgs %}
+
+            <a href="/ods/{{ sdg }}/">
+
+              <img
+                src="/imagenes/ods/ods-{{ sdg }}.png"
+                alt="ODS {{ sdg }}">
+
+            </a>
+
+          {% endfor %}
+
+        </div>
+
+      {% endif %}
+
+    </div>
+
+  </header>
+
+  {% if materials %}
+
+    <section class="info-box">
+
+      <h2>
+        Materiales
+      </h2>
+
+      <ul>
+
+        {% for item in materials %}
+
+          <li>
+            {{ item }}
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </section>
+
+  {% endif %}
+
+  {% if educational_objectives %}
+
+    <section class="info-box">
+
+      <h2>
+        Objetivos educativos
+      </h2>
+
+      <ul>
+
+        {% for item in educational_objectives %}
+
+          <li>
+            {{ item }}
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </section>
+
+  {% endif %}
+
+  <section class="activity-content">
+
+    {{ content | safe }}
+
+  </section>
+
+
+
+{% set related = collections.activities | slice(0, 3) %}
+
+<section class="related-section">
+
+  <h2>
+    Actividades relacionadas
+  </h2>
+
+  <div class="grid">
+
+    {% for item in related %}
+
+      {% if item.url != page.url %}
+
+        <a href="{{ item.url }}">
+
+{% set activity = item %}
+
+{% include "components/activity-card.njk" %}
+
+        </a>
+
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</section>
+
+
+
+</article>
 
 

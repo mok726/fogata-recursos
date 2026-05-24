@@ -11,7 +11,7 @@ summary: >
   y reciclados.
 
 author: Mariano Cosentino
-source: Fogata Recursos
+source: Fogata de Recursos
 
 age_group:
   - Manada
