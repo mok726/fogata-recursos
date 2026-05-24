@@ -114,3 +114,36 @@ a {
 }
 
 
+
+.footer {
+  margin-top: 3rem;
+  padding: 2rem;
+
+  background: white;
+  border-radius: 12px;
+
+  text-align: center;
+
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+.footer-links {
+  margin-top: 1rem;
+
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #222;
+  font-weight: bold;
+}
+
+.footer a:hover {
+  opacity: 0.7;
+}
+
+
