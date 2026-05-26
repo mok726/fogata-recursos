@@ -1,6 +1,6 @@
 ---
 title: Fogata de Recursos
-layout: base
+layout: layouts/base.njk
 permalink: /
 ---
 
@@ -33,7 +33,7 @@ permalink: /
 
 </section>
 
-<section>
+<section class="section-spacing">
 
   <h2>
     Explorar
@@ -117,7 +117,7 @@ permalink: /
 
 </section>
 
-<section>
+<section class="section-spacing">
 
   <h2>
     Sobre el proyecto
@@ -139,7 +139,7 @@ permalink: /
 
 </section>
 
-<section>
+<section class="section-spacing">
 
   <h2>
     Actividades destacadas
@@ -147,11 +147,11 @@ permalink: /
 
   <div class="grid">
 
-    {% for activity in collections.activities | reverse %}
+    {% for activityItem in collections.activities | reverse %}
 
       {% if loop.index <= 3 %}
 
-        <a href="{{ activity.url }}">
+        <a href="{{ activityItem.url }}">
 
           {% include "components/activity-card.njk" %}
 

@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+---
+
+<section class="taxonomy-header">
+
+  {% if image %}
+
+    <div class="taxonomy-image">
+
+      <img
+        src="{{ image }}"
+        alt="{{ title }}">
+
+    </div>
+
+  {% endif %}
+
+  <div class="taxonomy-content">
+
+    <h1>
+      {{ title }}
+    </h1>
+
+    {% if description %}
+
+      <p>
+        {{ description }}
+      </p>
+
+    {% endif %}
+
+  </div>
+
+</section>
+
+<div class="grid">
+
+  {% for activityItem in activities %}
+
+    <a href="{{ activityItem.url }}">
+
+      {% include "components/activity-card.njk" %}
+
+    </a>
+
+  {% endfor %}
+
+</div>
+
+
+

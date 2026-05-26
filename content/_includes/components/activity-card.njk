@@ -1,10 +1,10 @@
-<div class="card">
+{% set cardActivity = activity or item %}
 
-  {% set badge = null %}
+{% set badge = null %}
 
-{% if activity.data.activity_badges and activity.data.activity_badges.length %}
+{% if cardActivity.data.activity_badges and cardActivity.data.activity_badges.length %}
 
-  {% set rawBadge = activity.data.activity_badges[0] %}
+  {% set rawBadge = cardActivity.data.activity_badges[0] %}
 
   {% if rawBadge.id %}
 
@@ -19,31 +19,15 @@
 
   {% endif %}
 
-  {% elif activity.data.badges and activity.data.badges.length %}
+{% endif %}
 
-    {% set rawBadge = activity.data.badges[0] %}
-
-    {% if rawBadge.id %}
-
-      {% set badge = rawBadge %}
-
-    {% else %}
-
-      {% set badge = {
-        "id": rawBadge | slugify,
-        "name": rawBadge
-      } %}
-
-    {% endif %}
-
-  {% endif %}
+<article class="card activity-card">
 
   {% if badge %}
 
-    <div class="card-image">
+    <div class="activity-card-badge">
 
       <img
-        class="badge"
         src="/imagenes/insignias/{{ badge.id }}.png"
         alt="{{ badge.name }}">
 
@@ -53,56 +37,44 @@
 
   <div class="card-content">
 
-    <h2>
-      {{ activity.data.title }}
-    </h2>
+    <h3>
+      {{ cardActivity.data.title }}
+    </h3>
 
-    {% if activity.data.description %}
+    {% if cardActivity.data.description %}
 
-      <p class="card-description">
-        {{ activity.data.description }}
+      <p>
+        {{ cardActivity.data.description }}
       </p>
 
     {% endif %}
 
-    <div class="meta">
+    <div class="card-meta">
 
-      {% if activity.data.age_group %}
+      {% if cardActivity.data.age_group %}
 
-        <span class="chip">
-          {{ activity.data.age_group | join(", ") }}
-        </span>
+        {% for age in cardActivity.data.age_group %}
+
+          <span class="chip">
+            {{ age }}
+          </span>
+
+        {% endfor %}
 
       {% endif %}
 
-      {% if activity.data.duration %}
+      {% if cardActivity.data.duration %}
 
         <span class="chip">
-          {{ activity.data.duration }}
+          {{ cardActivity.data.duration }}
         </span>
 
       {% endif %}
 
     </div>
 
-    {% if activity.data.sdgs %}
-
-      <div class="sdgs">
-
-        {% for sdg in activity.data.sdgs %}
-
-          <img
-            src="/imagenes/ods/ods-{{ sdg }}.png"
-            alt="ODS {{ sdg }}">
-
-        {% endfor %}
-
-      </div>
-
-    {% endif %}
-
   </div>
 
-</div>
+</article>
 
 

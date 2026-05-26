@@ -1,0 +1,117 @@
+/* =========================
+   GRID
+========================= */
+
+.grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(300px, 1fr));
+
+  gap: 1.5rem;
+
+  margin-top: 2rem;
+}
+
+/* =========================
+   CARD
+========================= */
+
+.card {
+  display: flex;
+  flex-direction: column;
+
+  height: 100%;
+
+  background: white;
+
+  border-radius: 20px;
+
+  overflow: hidden;
+
+  box-shadow:
+    0 4px 14px rgba(0,0,0,0.08);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+
+  box-shadow:
+    0 12px 28px rgba(0,0,0,0.14);
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+
+  flex: 1;
+
+  padding: 1.3rem;
+}
+
+.card-content h2,
+.card-content h3 {
+  margin-top: 0;
+
+  margin-bottom: 0.8rem;
+
+  line-height: 1.3;
+
+  color: #243526;
+}
+
+.card-content p {
+  color: #555;
+
+  line-height: 1.6;
+
+  flex: 1;
+}
+
+/* =========================
+   ACTIVITY CARD
+========================= */
+
+.activity-card {
+  height: 100%;
+}
+
+.activity-card-badge {
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  padding:
+    1.5rem
+    1.5rem
+    0.5rem;
+}
+
+.activity-card-badge img {
+  width: 82px;
+  height: 82px;
+
+  object-fit: contain;
+}
+
+/* =========================
+   META
+========================= */
+
+.card-meta {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 0.5rem;
+
+  margin-top: 1rem;
+}
+
+

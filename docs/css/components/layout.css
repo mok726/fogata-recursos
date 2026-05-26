@@ -1,0 +1,220 @@
+body {
+  font-family: Arial, sans-serif;
+
+  margin: 0;
+
+  background: #f5f5f5;
+
+  color: #222;
+
+  line-height: 1.6;
+}
+
+/* =========================
+   GLOBAL
+========================= */
+
+main {
+  max-width: 1200px;
+
+  margin: auto;
+
+  padding: 2rem 1.5rem;
+}
+
+section {
+  margin-bottom: 4rem;
+}
+
+a {
+  color: inherit;
+
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* =========================
+   NAVBAR
+========================= */
+
+.navbar {
+  background: white;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.06);
+
+  padding: 1rem 1.5rem;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  gap: 1rem;
+
+  flex-wrap: wrap;
+}
+
+.navbar > a {
+  font-size: 1.3rem;
+
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+
+  gap: 1rem;
+
+  flex-wrap: wrap;
+}
+
+.nav-links a {
+  font-weight: 600;
+
+  opacity: 0.85;
+
+  transition: opacity 0.2s ease;
+}
+
+.nav-links a:hover {
+  opacity: 1;
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+.footer {
+  background: white;
+
+  margin-top: 5rem;
+
+  padding: 3rem 1.5rem;
+
+  text-align: center;
+
+  box-shadow:
+    0 -2px 8px rgba(0,0,0,0.04);
+}
+
+.footer p {
+  margin: 0.5rem 0;
+}
+
+.footer-links {
+  display: flex;
+
+  justify-content: center;
+
+  gap: 1rem;
+
+  flex-wrap: wrap;
+
+  margin-top: 1rem;
+}
+
+/* =========================
+   COMMON
+========================= */
+
+.chip {
+  background: #edf2e7;
+
+  color: #42513b;
+
+  padding: 0.35rem 0.8rem;
+
+  border-radius: 999px;
+
+  font-size: 0.85rem;
+
+  font-weight: 600;
+}
+
+.meta {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 0.5rem;
+}
+
+/* =========================
+   TAXONOMY HEADER
+========================= */
+
+.taxonomy-header {
+  display: flex;
+
+  align-items: center;
+
+  gap: 2rem;
+
+  background: white;
+
+  border-radius: 18px;
+
+  padding: 2rem;
+
+  margin-bottom: 3rem;
+
+  box-shadow:
+    0 4px 14px rgba(0,0,0,0.08);
+
+  flex-wrap: wrap;
+}
+
+.taxonomy-image {
+  width: 120px;
+
+  height: 120px;
+
+  object-fit: contain;
+}
+
+.taxonomy-content {
+  flex: 1;
+
+  min-width: 280px;
+}
+
+.taxonomy-content h1 {
+  margin-top: 0;
+
+  margin-bottom: 0.5rem;
+}
+
+.taxonomy-content p {
+  color: #555;
+
+  margin: 0;
+}
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 700px) {
+
+  main {
+    padding: 1.2rem;
+  }
+
+  .navbar {
+    flex-direction: column;
+
+    align-items: flex-start;
+  }
+
+  .taxonomy-header {
+    padding: 1.5rem;
+  }
+
+}
+
+

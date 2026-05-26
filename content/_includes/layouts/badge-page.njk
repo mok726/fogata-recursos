@@ -1,31 +1,41 @@
 ---
 layout: layouts/base.njk
 ---
-<div class="header">
+
+<section class="taxonomy-header">
 
   <img
+    class="taxonomy-image"
     src="/imagenes/insignias/{{ badge.id }}.png"
     alt="{{ badge.name }}">
 
-  <div>
-    <h1>{{ badge.name }}</h1>
+  <div class="taxonomy-content">
+
+    <h1>
+      {{ badge.name }}
+    </h1>
 
     <p>
       Actividades relacionadas con la insignia {{ badge.name }}.
     </p>
+
   </div>
 
-</div>
+</section>
 
-<div class="grid">
 
-{% for activity in collections.activities %}
 
-  {% if activity.data.activity_badges %}
+<section>
 
-    {% for item in activity.data.activity_badges %}
-{% if item | slugify == badge.id %}
+  <div class="grid">
+
+    {% for activity in collections.activities %}
+
+      {% if activity | activityHasBadge(badge.id) %}
+
         <a href="{{ activity.url }}">
+
+          {% set activityItem = activity %}
 
           {% include "components/activity-card.njk" %}
 
@@ -35,10 +45,8 @@ layout: layouts/base.njk
 
     {% endfor %}
 
-  {% endif %}
+  </div>
 
-{% endfor %}
-</div>
-
+</section>
 
 

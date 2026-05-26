@@ -1,0 +1,157 @@
+.activity-page {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* =========================
+   HERO
+========================= */
+
+.activity-hero {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+
+  background: white;
+
+  border-radius: 18px;
+
+  padding: 2rem;
+
+  margin-bottom: 2rem;
+
+  box-shadow:
+    0 4px 14px rgba(0,0,0,0.08);
+
+  flex-wrap: wrap;
+}
+
+.activity-badge img {
+  width: 220px;
+  max-width: 100%;
+}
+
+.activity-hero-content {
+  flex: 1;
+  min-width: 280px;
+}
+
+.activity-description {
+  font-size: 1.1rem;
+  line-height: 1.7;
+
+  color: #555;
+
+  margin-top: 1rem;
+}
+
+/* =========================
+   TAGS
+========================= */
+
+.activity-tags {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.5rem;
+
+  margin-top: 1rem;
+}
+
+.tag {
+  background: #eef5ea;
+
+  color: #355b38;
+
+  padding: 0.35rem 0.7rem;
+
+  border-radius: 999px;
+
+  font-size: 0.85rem;
+
+  font-weight: 600;
+}
+
+/* =========================
+   SDGS
+========================= */
+
+.sdgs {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 0.5rem;
+
+  margin-top: 1rem;
+}
+
+.activity-page .sdgs img {
+  width: 36px;
+}
+
+/* =========================
+   INFO BOX
+========================= */
+
+.info-box {
+  background: white;
+
+  border-radius: 16px;
+
+  padding: 1.5rem;
+
+  margin-top: 2rem;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.06);
+}
+
+.info-box h2 {
+  margin-top: 0;
+}
+
+/* =========================
+   CONTENT
+========================= */
+
+.activity-content {
+  background: white;
+
+  border-radius: 18px;
+
+  padding: 2rem;
+
+  margin-top: 3rem;
+
+  box-shadow:
+    0 4px 14px rgba(0,0,0,0.08);
+
+  line-height: 1.8;
+}
+
+.activity-content h1 {
+  display: none;
+}
+
+.activity-content h2 {
+  margin-top: 3rem;
+
+  color: #2c4a2f;
+}
+
+.activity-content p,
+.activity-content li {
+  max-width: 70ch;
+}
+
+/* =========================
+   RELATED
+========================= */
+
+.related-section {
+  margin-top: 3rem;
+}
+
+.related-section h2 {
+  margin-bottom: 1.5rem;
+}
