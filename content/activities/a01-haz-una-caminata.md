@@ -1,6 +1,5 @@
 ﻿---
 title: A.01 HAZ UNA CAMINATA
-duration: 2 horas
 layout: layouts/activity.njk
 permalink: "/activities/a01-haz-una-caminata/"
 description: Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES. Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema..
@@ -19,13 +18,7 @@ branch:
   - Naturaleza
 
 categories:
-
-
-age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+duration: 2 horas
 
 age_group:
   - "manada"
