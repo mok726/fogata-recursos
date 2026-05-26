@@ -1,32 +1,87 @@
 ﻿---
 title: A.01 HAZ UNA CAMINATA
 duration: 2 horas
+layout: layouts/activity.njk
+permalink: "/activities/a01-haz-una-caminata/"
+description: Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES. Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema..
+
+
+summary: >
+   Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES. Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema.
+
+
+author: Mariano Cosentino
+
+source: Fogata de Recursos
+
+branch:
+
+  - Naturaleza
+
+categories:
+
+
 age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+
+age_group:
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+
 materials:
-  - Piedras
-  - Tierra
-  - Hojas secas
-  - Ramillas
-  - Piel de serpiente o plumas
-  - Pegamento
-  - Cartulina o papel grande
+  - "Piedras"
+  - "Tierra"
+  - "Hojas secas"
+  - "Ramillas"
+  - "Piel de serpiente o plumas"
+  - "Pegamento"
+  - "Cartulina o papel grande"
+
 tools:
-  - Bolsas para recolectar
-  - Guantes (opcional)
+  - "Bolsas para recolectar"
+  - "Guantes (opcional)"
+
 competencies:
-  - Observación científica
-  - Creatividad
-  - Trabajo en equipo
-  - Conciencia ecológica
-responsible: Scouter o educador ambiental
+  - "Observación científica"
+  - "Creatividad"
+  - "Trabajo en equipo"
+  - "Conciencia ecológica"
+
+responsible: "Scouter o educador ambiental"
+
 ods:
-  - 15
+  - "15"
+
+sdgs:
+  - "15"
+
+
+activity_badges:
+- "InsigniadelosBosques"
+
+educational_objectives:
+  - Comprender 
+  - Promover 
+  - Fomentar 
+
+
+preparation: >
+  Preparar 
+  .
+
+location:
+  - Exterior
+
+indoor_outdoor: outdoor
+difficulty: facil
 tags:
-  - Insignia de los Bosques
+  - "Insignia de los Bosques"
+
 ---
 
 # A.01 HAZ UNA CAMINATA
