@@ -1,32 +1,32 @@
 ﻿---
-title: "A.01 HAZ UNA CAMINATA"
-duration: "2 horas"
+title: A.01 HAZ UNA CAMINATA
+duration: 2 horas
 age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Piedras"
-  - "Tierra"
-  - "Hojas secas"
-  - "Ramillas"
-  - "Piel de serpiente o plumas"
-  - "Pegamento"
-  - "Cartulina o papel grande"
+  - Piedras
+  - Tierra
+  - Hojas secas
+  - Ramillas
+  - Piel de serpiente o plumas
+  - Pegamento
+  - Cartulina o papel grande
 tools:
-  - "Bolsas para recolectar"
-  - "Guantes (opcional)"
+  - Bolsas para recolectar
+  - Guantes (opcional)
 competencies:
-  - "Observación científica"
-  - "Creatividad"
-  - "Trabajo en equipo"
-  - "Conciencia ecológica"
-responsible: "Scouter o educador ambiental"
+  - Observación científica
+  - Creatividad
+  - Trabajo en equipo
+  - Conciencia ecológica
+responsible: Scouter o educador ambiental
 ods:
-  - "15"
+  - 15
 tags:
-  - "Insignia de los Bosques"
+  - Insignia de los Bosques
 ---
 
 # A.01 HAZ UNA CAMINATA
