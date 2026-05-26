@@ -1,4 +1,4 @@
-﻿---
+---
 title: A.01 HAZ UNA CAMINATA
 layout: layouts/activity.njk
 permalink: "/activities/a01-haz-una-caminata/"
