@@ -2,80 +2,69 @@
 title: A.01 HAZ UNA CAMINATA
 layout: layouts/activity.njk
 permalink: "/activities/a01-haz-una-caminata/"
-description: Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES. Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema..
 
+description: Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES. Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema.
 
 summary: >
-   Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES. Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema.
-
+  Actividad práctica de educación ambiental donde los participantes
+  construyen refugios para insectos utilizando materiales naturales
+  y reciclados.
 
 author: Mariano Cosentino
-
 source: Fogata de Recursos
 
-branch:
+age_group:
+  - Manada
+  - Unidad Scout
 
+branch:
   - Naturaleza
 
 categories:
-duration: 2 horas
+  - Biodiversidad
+  - Medioambiente
+  - Ciencia
 
-age_group:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
-
-materials:
-  - "Piedras"
-  - "Tierra"
-  - "Hojas secas"
-  - "Ramillas"
-  - "Piel de serpiente o plumas"
-  - "Pegamento"
-  - "Cartulina o papel grande"
-
-tools:
-  - "Bolsas para recolectar"
-  - "Guantes (opcional)"
-
-competencies:
-  - "Observación científica"
-  - "Creatividad"
-  - "Trabajo en equipo"
-  - "Conciencia ecológica"
-
-responsible: "Scouter o educador ambiental"
-
-ods:
-  - "15"
+tags:
+  - Bosques
+  - biodiversidad
 
 sdgs:
-  - "15"
-
+  - 15
 
 activity_badges:
-- "InsigniadelosBosques"
+  - Bosques
 
 educational_objectives:
-  - Comprender 
-  - Promover 
-  - Fomentar 
+  - Comprender la importancia de los Bosques
+  - Promover el cuidado de la Bosques
+  - Fomentar el trabajo en equipo
 
+competencies:
+  - Observación
+  - Trabajo manual
+  - Conciencia ambiental
+
+duration: 90 minutos
+
+materials:
+  - Piedras
+  - Cañas
+  - Piñas
+  - Hojas
+  - Tierra
 
 preparation: >
-  Preparar 
-  .
+  Preparar .
 
 location:
   - Exterior
 
 indoor_outdoor: outdoor
-difficulty: facil
-tags:
-  - "Insignia de los Bosques"
 
+difficulty: facil
 ---
+
 
 # A.01 HAZ UNA CAMINATA
 
