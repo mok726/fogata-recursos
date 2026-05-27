@@ -33,7 +33,69 @@ permalink: /
 
 </section>
 
+
+<section class="search-box">
+
+  <input
+    id="search-input"
+    type="text"
+    placeholder="Buscar actividades, ODS, insignias o temas...">
+
+  <div id="search-results" class="search-results"></div>
+
+<script type="module">
+
+import * as pagefind from "/pagefind/pagefind.js";
+
+const input =
+  document.getElementById("search-input");
+
+const resultsContainer =
+  document.getElementById("search-results");
+
+input.addEventListener("input", async () => {
+
+  const query = input.value.trim();
+
+  if (query.length < 2) {
+
+    resultsContainer.innerHTML = "";
+
+    return;
+  }
+
+  const search = await pagefind.search(query);
+
+  const results = await Promise.all(
+    search.results.slice(0, 8).map(r => r.data())
+  );
+
+  resultsContainer.innerHTML = results.map(r => `
+
+    <div class="search-result">
+
+      <a href="${r.url}">
+        ${r.meta.title || "Sin título"}
+      </a>
+
+      <p>
+        ${r.excerpt || ""}
+      </p>
+
+    </div>
+
+  `).join("");
+
+});
+
+</script>
+
+</section>
+
+
 <section class="section-spacing">
+
+
 
   <h2>
     Explorar
@@ -139,11 +201,27 @@ permalink: /
 
 </section>
 
-<section class="section-spacing">
+<section class="featured-section">
 
-  <h2>
-    Actividades destacadas
-  </h2>
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Actividades destacadas
+      </h2>
+
+      <p>
+        Algunas de las últimas actividades incorporadas al proyecto.
+      </p>
+
+    </div>
+
+    <a class="hero-button secondary" href="/activities/">
+      Ver todas
+    </a>
+
+  </div>
 
   <div class="grid">
 
@@ -166,3 +244,38 @@ permalink: /
 </section>
 
 
+<section>
+
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Explorar por temas
+      </h2>
+
+      <p>
+        Accesos rápidos a categorías educativas frecuentes.
+      </p>
+
+    </div>
+
+  </div>
+
+  <div class="tag-cloud">
+
+    {% for tag in tags %}
+
+      <a
+        class="tag-link"
+        href="/activities/?search={{ tag | url }}">
+
+        {{ tag }}
+
+      </a>
+
+    {% endfor %}
+
+  </div>
+
+</section>

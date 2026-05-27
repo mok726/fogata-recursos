@@ -2,30 +2,52 @@
 <html lang="es">
 
 <head>
+
   <meta charset="UTF-8">
 
-<link rel="stylesheet" href="/css/main.css">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
   <title>
+
     {% if title %}
+
       {{ title }} - Fogata de Recursos
+
     {% else %}
+
       Fogata de Recursos
+
     {% endif %}
+
   </title>
+
+  <meta
+    name="description"
+    content="Biblioteca scout de actividades, juegos y recursos educativos reutilizables.">
+
+  <link
+    rel="stylesheet"
+    href="/css/main.css">
+
 </head>
 
 <body>
 
-{% include "components/navbar.njk" %}
-
+  {% include "components/navbar.njk" %}
 
   <main class="page-container">
+
     {{ content | safe }}
+
   </main>
 
-
   {% include "components/footer.njk" %}
+
+  <script src="/pagefind/pagefind-ui.js"></script>
 
 </body>
 
 </html>
+

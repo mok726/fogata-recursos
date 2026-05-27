@@ -2,9 +2,9 @@
 layout: layouts/base.njk
 ---
 
-<section class="taxonomy-header">
+<section class="page-header">
 
-  <div class="taxonomy-content">
+  <div>
 
     <h1>
       {{ age.name }}
@@ -18,30 +18,22 @@ layout: layouts/base.njk
 
 </section>
 
+<div class="grid">
 
+  {% for activity in collections.activities %}
 
-<section>
+    {% if activity.data.age_group and (age.name in activity.data.age_group) %}
 
-  <div class="grid">
+      <a href="{{ activity.url }}">
 
-    {% for activity in collections.activities %}
+        {% set activity = activity %}
 
-      {% if activity | activityHasAge(age.name) %}
+        {% include "components/activity-card.njk" %}
 
-        <a href="{{ activity.url }}">
+      </a>
 
-          {% set activityItem = activity %}
+    {% endif %}
 
-          {% include "components/activity-card.njk" %}
+  {% endfor %}
 
-        </a>
-
-      {% endif %}
-
-    {% endfor %}
-
-  </div>
-
-</section>
-
-
+</div>

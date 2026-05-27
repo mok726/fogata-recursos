@@ -2,14 +2,13 @@
 layout: layouts/base.njk
 ---
 
-<section class="taxonomy-header">
+<section class="page-header">
 
   <img
-    class="taxonomy-image"
     src="/imagenes/ods/ods-{{ sdg.id }}.png"
     alt="ODS {{ sdg.id }}">
 
-  <div class="taxonomy-content">
+  <div>
 
     <h1>
       ODS {{ sdg.id }}
@@ -23,30 +22,22 @@ layout: layouts/base.njk
 
 </section>
 
+<div class="grid">
 
+  {% for activity in collections.activities %}
 
-<section>
+    {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
 
-  <div class="grid">
+      <a href="{{ activity.url }}">
 
-    {% for activity in collections.activities %}
+        {% set activity = activity %}
 
-      {% if activity | activityHasSdg(sdg.id) %}
+        {% include "components/activity-card.njk" %}
 
-        <a href="{{ activity.url }}">
+      </a>
 
-          {% set activityItem = activity %}
+    {% endif %}
 
-          {% include "components/activity-card.njk" %}
+  {% endfor %}
 
-        </a>
-
-      {% endif %}
-
-    {% endfor %}
-
-  </div>
-
-</section>
-
-
+</div>

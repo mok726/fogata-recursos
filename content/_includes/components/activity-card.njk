@@ -1,35 +1,28 @@
-{% set cardActivity = activity or item %}
+{% set item = activity.data %}
 
-{% set badge = null %}
+<div class="card activity-card">
 
-{% if cardActivity.data.activity_badges and cardActivity.data.activity_badges.length %}
+  {% if item.activity_badges and item.activity_badges.length %}
 
-  {% set rawBadge = cardActivity.data.activity_badges[0] %}
+    {% set rawBadge = item.activity_badges[0] %}
 
-  {% if rawBadge.id %}
+    {% if rawBadge.id %}
 
-    {% set badge = rawBadge %}
+      {% set badgeId = rawBadge.id %}
+      {% set badgeName = rawBadge.name %}
 
-  {% else %}
+    {% else %}
 
-    {% set badge = {
-      "id": rawBadge | slugify,
-      "name": rawBadge
-    } %}
+      {% set badgeId = rawBadge | slugify %}
+      {% set badgeName = rawBadge %}
 
-  {% endif %}
-
-{% endif %}
-
-<article class="card activity-card">
-
-  {% if badge %}
+    {% endif %}
 
     <div class="activity-card-badge">
 
       <img
-        src="/imagenes/insignias/{{ badge.id }}.png"
-        alt="{{ badge.name }}">
+        src="/imagenes/insignias/{{ badgeId }}.png"
+        alt="{{ badgeName }}">
 
     </div>
 
@@ -38,22 +31,22 @@
   <div class="card-content">
 
     <h3>
-      {{ cardActivity.data.title }}
+      {{ item.title }}
     </h3>
 
-    {% if cardActivity.data.description %}
+    {% if item.description %}
 
       <p>
-        {{ cardActivity.data.description }}
+        {{ item.description | truncate(140) }}
       </p>
 
     {% endif %}
 
     <div class="card-meta">
 
-      {% if cardActivity.data.age_group %}
+      {% if item.age_group %}
 
-        {% for age in cardActivity.data.age_group %}
+        {% for age in item.age_group.slice(0,2) %}
 
           <span class="chip">
             {{ age }}
@@ -63,10 +56,10 @@
 
       {% endif %}
 
-      {% if cardActivity.data.duration %}
+      {% if item.duration %}
 
         <span class="chip">
-          {{ cardActivity.data.duration }}
+          {{ item.duration }}
         </span>
 
       {% endif %}
@@ -75,6 +68,5 @@
 
   </div>
 
-</article>
-
+</div>
 

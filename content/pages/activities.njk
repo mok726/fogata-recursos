@@ -4,30 +4,165 @@ layout: layouts/base.njk
 permalink: /activities/
 ---
 
-<section class="page-header">
+<section class="listing-header">
 
-  <h1>
-    Actividades
-  </h1>
+  <div>
 
-  <p>
-    Biblioteca de actividades educativas scouts de Fogata de Recursos.
-  </p>
+    <h1>
+      Actividades
+    </h1>
+
+    <p>
+      Explorá dinámicas, juegos, talleres y propuestas educativas scouts.
+    </p>
+
+  </div>
+
+  <div class="listing-search">
+
+    <input
+      type="text"
+      id="activity-search"
+      placeholder="Buscar actividades...">
+
+  </div>
 
 </section>
 
-<div class="grid">
+<div id="activity-count" class="results-count">
+  Mostrando todas las actividades
+</div>
 
-  {% for activity in collections.activities %}
+<div class="grid" id="activities-grid">
 
-    <a href="{{ activity.url }}">
+{% for activity in collections.activities | reverse %}
 
-{% set activityItem = activity %}
+  <a
+    href="{{ activity.url }}"
+    class="searchable-card"
+    data-title="{{ activity.data.title | lower }}"
+    data-description="{{ activity.data.description | default('') | lower }}"
+data-age="{{ (activity.data.age_group or []) | join(' ') | lower }}"
+data-badges="{{ (activity.data.activity_badges or []) | dump | lower }}"
+data-sdgs="{{ (activity.data.sdgs or []) | dump | lower }}">
 
-{% include "components/activity-card.njk" %}
-    </a>
+    {% include "components/activity-card.njk" %}
 
-  {% endfor %}
+  </a>
+
+{% endfor %}
 
 </div>
 
+<script>
+
+const searchInput =
+  document.getElementById("activity-search");
+
+const cards =
+  document.querySelectorAll(".searchable-card");
+
+const count =
+  document.getElementById("activity-count");
+
+function runSearch() {
+
+  const params =
+    new URLSearchParams(window.location.search);
+
+  if (params.get("search") && !searchInput.value) {
+
+    searchInput.value =
+      params.get("search");
+
+  }
+
+  const query =
+    searchInput.value
+      .toLowerCase()
+      .trim();
+
+  let visible = 0;
+
+  cards.forEach(card => {
+
+    const text = [
+
+      card.dataset.title,
+      card.dataset.description,
+      card.dataset.age,
+      card.dataset.badges,
+      card.dataset.sdgs
+
+    ].join(" ");
+
+    const match =
+      text.includes(query);
+
+    card.style.display =
+      match ? "" : "none";
+
+    if (match) {
+      visible++;
+    }
+
+  });
+
+  if (query.length === 0) {
+
+    count.innerText =
+      `Mostrando todas las actividades (${visible})`;
+
+  } else {
+
+    count.innerText =
+      `Resultados encontrados: ${visible}`;
+
+  }
+
+  const visibleCards =
+    Array.from(cards).filter(card =>
+      card.style.display !== "none"
+    );
+
+  const oldEmpty =
+    document.getElementById("empty-state");
+
+  if (oldEmpty) {
+    oldEmpty.remove();
+  }
+
+  if (visibleCards.length === 0) {
+
+    const empty =
+      document.createElement("div");
+
+    empty.id = "empty-state";
+
+    empty.className = "empty-state";
+
+    empty.innerHTML = `
+      <h2>No se encontraron actividades</h2>
+
+      <p>
+        Probá otra búsqueda
+        o explorá otras categorías.
+      </p>
+    `;
+
+    document
+      .getElementById("activities-grid")
+      .after(empty);
+
+  }
+
+}
+
+searchInput.addEventListener(
+  "input",
+  runSearch
+);
+
+runSearch();
+
+</script>

@@ -2,59 +2,83 @@
 <html lang="es">
 
 <head>
+
   <meta charset="UTF-8">
 
-<link rel="stylesheet" href="/css/main.css">
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
   <title>
+
     
+
       Fogata de Recursos - Fogata de Recursos
+
     
+
   </title>
+
+  <meta
+    name="description"
+    content="Biblioteca scout de actividades, juegos y recursos educativos reutilizables.">
+
+  <link
+    rel="stylesheet"
+    href="/css/main.css">
+
 </head>
 
 <body>
 
-<header class="site-header">
+  <nav class="navbar">
 
-  <div class="header-container">
+  <div class="navbar-left">
 
-    <div class="site-title">
-
-      <a href="/">
-        Fogata de Recursos
-      </a>
-
-    </div>
-
-    <nav class="main-nav">
-
-      <a href="/activities/">
-        Actividades
-      </a>
-
-      <a href="/badges/">
-        Insignias
-      </a>
-
-      <a href="/ods/">
-        ODS
-      </a>
-
-      <a href="/edades/">
-        Edades
-      </a>
-
-    </nav>
+    <a class="navbar-brand" href="/">
+      Fogata de Recursos
+    </a>
 
   </div>
 
-</header>
+  <div class="navbar-center">
 
+    <a href="/activities/">
+      Actividades
+    </a>
 
+    <a href="/badges/">
+      Insignias
+    </a>
 
+    <a href="/ods/">
+      ODS
+    </a>
+
+    <a href="/edades/">
+      Edades
+    </a>
+
+  </div>
+
+  <div class="navbar-right">
+
+    <button
+      id="search-toggle"
+      class="search-button"
+      type="button">
+
+      Buscar
+
+    </button>
+
+  </div>
+
+</nav>
 
 
   <main class="page-container">
+
     
 <section class="home-hero">
 
@@ -85,7 +109,69 @@
 
 </section>
 
+
+<section class="search-box">
+
+  <input
+    id="search-input"
+    type="text"
+    placeholder="Buscar actividades, ODS, insignias o temas...">
+
+  <div id="search-results" class="search-results"></div>
+
+<script type="module">
+
+import * as pagefind from "/pagefind/pagefind.js";
+
+const input =
+  document.getElementById("search-input");
+
+const resultsContainer =
+  document.getElementById("search-results");
+
+input.addEventListener("input", async () => {
+
+  const query = input.value.trim();
+
+  if (query.length < 2) {
+
+    resultsContainer.innerHTML = "";
+
+    return;
+  }
+
+  const search = await pagefind.search(query);
+
+  const results = await Promise.all(
+    search.results.slice(0, 8).map(r => r.data())
+  );
+
+  resultsContainer.innerHTML = results.map(r => `
+
+    <div class="search-result">
+
+      <a href="${r.url}">
+        ${r.meta.title || "Sin título"}
+      </a>
+
+      <p>
+        ${r.excerpt || ""}
+      </p>
+
+    </div>
+
+  `).join("");
+
+});
+
+</script>
+
+</section>
+
+
 <section class="section-spacing">
+
+
 
   <h2>
     Explorar
@@ -191,11 +277,27 @@
 
 </section>
 
-<section class="section-spacing">
+<section class="featured-section">
 
-  <h2>
-    Actividades destacadas
-  </h2>
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Actividades destacadas
+      </h2>
+
+      <p>
+        Algunas de las últimas actividades incorporadas al proyecto.
+      </p>
+
+    </div>
+
+    <a class="hero-button secondary" href="/activities/">
+      Ver todas
+    </a>
+
+  </div>
 
   <div class="grid">
 
@@ -203,15 +305,11 @@
 
       
 
-        <a href="/activities/visitar-una-hacienda-y-un-mercado/">
+        <a href="/activities/a04-cinco-cosas-buenas/">
 
           
 
-
-
-
-
-<article class="card activity-card">
+<div class="card activity-card">
 
   
 
@@ -233,8 +331,7 @@
 
   </div>
 
-</article>
-
+</div>
 
 
 
@@ -246,15 +343,11 @@
 
       
 
-        <a href="/activities/visitar-un-tiradero-de-basura-local/">
+        <a href="/activities/trabajando-como-alfarero/">
 
           
 
-
-
-
-
-<article class="card activity-card">
+<div class="card activity-card">
 
   
 
@@ -276,8 +369,7 @@
 
   </div>
 
-</article>
-
+</div>
 
 
 
@@ -289,15 +381,11 @@
 
       
 
-        <a href="/activities/visitar-un-mercado-local/">
+        <a href="/activities/c02-los-bosques-y-el-fuego/">
 
           
 
-
-
-
-
-<article class="card activity-card">
+<div class="card activity-card">
 
   
 
@@ -319,16 +407,11 @@
 
   </div>
 
-</article>
-
+</div>
 
 
 
         </a>
-
-      
-
-    
 
       
 
@@ -2187,25 +2270,481 @@
 </section>
 
 
+<section>
+
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Explorar por temas
+      </h2>
+
+      <p>
+        Accesos rápidos a categorías educativas frecuentes.
+      </p>
+
+    </div>
+
+  </div>
+
+  <div class="tag-cloud">
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=aire libre">
+
+        aire libre
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=agua">
+
+        agua
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=ambiente">
+
+        ambiente
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=animales">
+
+        animales
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=arte">
+
+        arte
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=astronomía">
+
+        astronomía
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=biodiversidad">
+
+        biodiversidad
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=bosques">
+
+        bosques
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=campamento">
+
+        campamento
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=cambio climático">
+
+        cambio climático
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=ciencia">
+
+        ciencia
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=cocina">
+
+        cocina
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=comunidad">
+
+        comunidad
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=construcción">
+
+        construcción
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=creatividad">
+
+        creatividad
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=debate">
+
+        debate
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=ecología">
+
+        ecología
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=energía">
+
+        energía
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=exploración">
+
+        exploración
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=expresión">
+
+        expresión
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=forestal">
+
+        forestal
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=huerta">
+
+        huerta
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=investigación">
+
+        investigación
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=juego">
+
+        juego
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=liderazgo">
+
+        liderazgo
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=manualidades">
+
+        manualidades
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=naturaleza">
+
+        naturaleza
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=observación">
+
+        observación
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=ODS">
+
+        ODS
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=orientación">
+
+        orientación
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=reciclaje">
+
+        reciclaje
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=reflexión">
+
+        reflexión
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=salud">
+
+        salud
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=sostenibilidad">
+
+        sostenibilidad
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=suelo">
+
+        suelo
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=supervivencia">
+
+        supervivencia
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=tecnología">
+
+        tecnología
+
+      </a>
+
+    
+
+      <a
+        class="tag-link"
+        href="/activities/?search=trabajo en equipo">
+
+        trabajo en equipo
+
+      </a>
+
+    
+
+  </div>
+
+</section>
+
 
   </main>
 
+  <footer class="footer">
 
-  <footer class="site-footer">
+  <div class="footer-grid">
 
-  <p>
-    Fogata de Recursos
-  </p>
+    <div>
 
-  <p>
-    Recursos educativos scouts abiertos y reutilizables.
-  </p>
+      <h3>
+        Fogata de Recursos
+      </h3>
+
+      <p>
+        Biblioteca abierta de actividades scouts,
+        educación ambiental y recursos pedagógicos.
+      </p>
+
+    </div>
+
+    <div>
+
+      <h4>
+        Explorar
+      </h4>
+
+      <div class="footer-links">
+
+        <a href="/activities/">
+          Actividades
+        </a>
+
+        <a href="/badges/">
+          Insignias
+        </a>
+
+        <a href="/ods/">
+          ODS
+        </a>
+
+        <a href="/edades/">
+          Edades
+        </a>
+
+      </div>
+
+    </div>
+
+    <div>
+
+      <h4>
+        Proyecto
+      </h4>
+
+      <p>
+        Recursos reutilizables y abiertos
+        para dirigentes y educadores scouts.
+      </p>
+
+    </div>
+
+  </div>
 
 </footer>
 
 
-
+  <script src="/pagefind/pagefind-ui.js"></script>
 
 </body>
 
 </html>
+

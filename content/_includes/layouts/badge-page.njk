@@ -2,14 +2,13 @@
 layout: layouts/base.njk
 ---
 
-<section class="taxonomy-header">
+<section class="page-header">
 
   <img
-    class="taxonomy-image"
     src="/imagenes/insignias/{{ badge.id }}.png"
     alt="{{ badge.name }}">
 
-  <div class="taxonomy-content">
+  <div>
 
     <h1>
       {{ badge.name }}
@@ -23,30 +22,30 @@ layout: layouts/base.njk
 
 </section>
 
+<div class="grid">
 
+  {% for activity in collections.activities %}
 
-<section>
+    {% if activity.data.activity_badges %}
 
-  <div class="grid">
+      {% for item in activity.data.activity_badges %}
 
-    {% for activity in collections.activities %}
+        {% if item | slugify == badge.id %}
 
-      {% if activity | activityHasBadge(badge.id) %}
+          <a href="{{ activity.url }}">
 
-        <a href="{{ activity.url }}">
+            {% set activity = activity %}
 
-          {% set activityItem = activity %}
+            {% include "components/activity-card.njk" %}
 
-          {% include "components/activity-card.njk" %}
+          </a>
 
-        </a>
+        {% endif %}
 
-      {% endif %}
+      {% endfor %}
 
-    {% endfor %}
+    {% endif %}
 
-  </div>
+  {% endfor %}
 
-</section>
-
-
+</div>

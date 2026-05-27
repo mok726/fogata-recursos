@@ -4,6 +4,29 @@ layout: layouts/base.njk
 
 <article class="activity-page">
 
+  <nav class="breadcrumbs">
+
+    <a href="/">
+      Inicio
+    </a>
+
+    <span>
+      /
+    </span>
+
+    <a href="/activities/">
+      Actividades
+    </a>
+
+    <span>
+      /
+    </span>
+
+    <span>
+      {{ title }}
+    </span>
+
+  </nav>
   {% set badge = null %}
 
   {% if activity_badges and activity_badges.length %}
@@ -192,8 +215,7 @@ layout: layouts/base.njk
 
 
 
-{% set related = collections.activities | slice(0, 3) %}
-
+{% set related = collections.activities | reverse %}
 <section class="related-section">
 
   <h2>
@@ -203,6 +225,8 @@ layout: layouts/base.njk
   <div class="grid">
 
     {% for item in related %}
+
+  {% if loop.index <= 4 %}
 
       {% if item.url != page.url %}
 
@@ -214,9 +238,12 @@ layout: layouts/base.njk
 
         </a>
 
-      {% endif %}
+            {% endif %}
 
-    {% endfor %}
+    {% endif %}
+
+  {% endfor %}
+
 
   </div>
 

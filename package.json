@@ -4,7 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:11ty": "eleventy",
+    "build:search": "pagefind --site docs",
+    "build": "npm run build:11ty && npm run build:search",
+    "serve": "npx @11ty/eleventy --serve",
+    "dev": "npm run build && npm run serve"
   },
   "repository": {
     "type": "git",
@@ -19,6 +23,7 @@
   },
   "homepage": "https://github.com/mok726/fogata-recursos#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.5"
+    "@11ty/eleventy": "^3.1.5",
+    "pagefind": "^1.5.2"
   }
 }
