@@ -1,56 +1,33 @@
 module.exports = function(eleventyConfig) {
 
-  /*
-  =========================
-  STATIC FILES
-  =========================
-  */
-
   eleventyConfig.addPassthroughCopy("content/css");
 
   eleventyConfig.addPassthroughCopy("imagenes");
 
-  eleventyConfig.addPassthroughCopy({
-    "node_modules/pagefind/dist": "pagefind"
-  });
+  eleventyConfig.addCollection(
+    "activities",
+    function(collectionApi) {
 
+      return collectionApi
+        .getFilteredByGlob(
+          "content/activities/*.md"
+        );
 
-
-  /*
-  =========================
-  COLLECTIONS
-  =========================
-  */
-
-  eleventyConfig.addCollection("activities", function(collectionApi) {
-
-    return collectionApi.getFilteredByGlob(
-      "content/activities/*.md"
-    );
-
-  });
-
-
-
-  /*
-  =========================
-  CONFIG
-  =========================
-  */
+    }
+  );
 
   return {
 
+    pathPrefix: "/fogata-recursos/",
+
     dir: {
-
       input: "content",
-
       includes: "_includes",
-
       output: "docs"
-
     }
 
   };
 
 };
+
 
