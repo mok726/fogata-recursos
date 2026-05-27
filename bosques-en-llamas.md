@@ -1,35 +1,25 @@
 ﻿---
 title: "D.13 BOSQUES EN LLAMAS"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/bosques-en-llamas/
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-en-llamas/"
 description: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
 summary: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Folletos de prevención de incendios"
   - "Cuaderno"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Conocimiento ecológico"
   - "Prevención de riesgos"
   - "Comunicación"
-ods:
-  - "13"
-  - "15"
-sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # D.13 BOSQUES EN LLAMAS
 
 ## Resumen

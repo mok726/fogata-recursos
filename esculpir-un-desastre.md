@@ -1,17 +1,14 @@
 ﻿---
 title: "C.14 ESCULPIR UN DESASTRE"
 duration: "3-4 horas"
-layout: layouts/activity.njk
-permalink: /activities/esculpir-un-desastre/
+layout: "layouts/activity.njk"
+permalink: "/activities/esculpir-un-desastre/"
 description: "Tallar una escultura en madera inspirada en desastres naturales."
 summary: "Tallar una escultura en madera inspirada en desastres naturales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Madera recuperada o sostenible"
   - "Herramientas de tallado seguras"
@@ -22,14 +19,9 @@ competencies:
   - "Expresión artística"
   - "Manejo de emociones"
   - "Conciencia ambiental"
-ods:
-  - "11"
-  - "13"
-sdgs:
-  - "11"
-  - "13"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.14 ESCULPIR UN DESASTRE
 
 ## Resumen

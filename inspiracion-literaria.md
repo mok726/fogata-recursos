@@ -1,33 +1,25 @@
 ﻿---
 title: "C.08 INSPIRACIÓN LITERARIA"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/inspiracion-literaria/
+layout: "layouts/activity.njk"
+permalink: "/activities/inspiracion-literaria/"
 description: "Lee obras literarias sobre bosques y analiza su representación."
 summary: "Lee obras literarias sobre bosques y analiza su representación."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Libros o textos literarios"
   - "Cuaderno"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Análisis crítico"
   - "Expresión escrita"
   - "Empatía literaria"
-ods:
-  - "4"
-sdgs:
-  - "4"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.08 INSPIRACIÓN LITERARIA
 
 ## Resumen

@@ -1,32 +1,25 @@
 ﻿---
 title: "C.03 APRENDER JUGANDO"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/aprender-jugando/
+layout: "layouts/activity.njk"
+permalink: "/activities/aprender-jugando/"
 description: "Investiga juegos tradicionales de culturas forestales y juega tres de ellos."
 summary: "Investiga juegos tradicionales de culturas forestales y juega tres de ellos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Materiales para juegos (cuerdas, pelotas, etc.)"
   - "Información sobre juegos tradicionales"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Trabajo en equipo"
   - "Conocimiento intercultural"
   - "Coordinación física"
-ods:
-  - "4"
-sdgs:
-  - "4"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.03 APRENDER JUGANDO
 
 ## Resumen

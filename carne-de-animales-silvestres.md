@@ -1,34 +1,25 @@
 ﻿---
 title: "D.08 CARNE DE ANIMALES SILVESTRES"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/carne-de-animales-silvestres/
+layout: "layouts/activity.njk"
+permalink: "/activities/carne-de-animales-silvestres/"
 description: "Analiza el impacto de la caza de subsistencia en bosques y debate soluciones."
 summary: "Analiza el impacto de la caza de subsistencia en bosques y debate soluciones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Recursos sobre caza sostenible"
   - "Cuaderno"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Pensamiento crítico"
   - "Conciencia intercultural"
   - "Solución de problemas"
-ods:
-  - "2"
-  - "15"
-sdgs:
-  - "2"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # D.08 CARNE DE ANIMALES SILVESTRES
 
 ## Resumen

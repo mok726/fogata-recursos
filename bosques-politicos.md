@@ -1,34 +1,25 @@
 ﻿---
 title: "C.19 BOSQUES POLÍTICOS"
 duration: "3 horas"
-layout: layouts/activity.njk
-permalink: /activities/bosques-politicos/
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-politicos/"
 description: "Investiga movimientos sociales que usaron bosques como símbolo de resistencia."
 summary: "Investiga movimientos sociales que usaron bosques como símbolo de resistencia."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Recursos históricos"
   - "Equipo de grabación (opcional)"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Investigación histórica"
   - "Expresión política"
   - "Conciencia social"
-ods:
-  - "16"
-  - "17"
-sdgs:
-  - "16"
-  - "17"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.19 BOSQUES POLÍTICOS
 
 ## Resumen

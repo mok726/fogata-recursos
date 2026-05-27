@@ -1,36 +1,30 @@
 ﻿---
 title: "D.01 LOS BOSQUES BAJO AMENAZA"
 duration: "3-4 horas"
-layout: layouts/activity.njk
-permalink: /activities/los-bosques-bajo-amenaza/
-description: "Actividad obligatoria para la categoría - LOS BOSQUES EN PELIGRO.
-Crea un collage o póster sobre amenazas a bosques locales y globales, y propone soluciones."
-summary: "Actividad obligatoria para la categoría - LOS BOSQUES EN PELIGRO.
-Crea un collage o póster sobre amenazas a bosques locales y globales, y propone soluciones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+layout: "layouts/activity.njk"
+permalink: "/activities/los-bosques-bajo-amenaza/"
+description: |
+  Actividad obligatoria para la categoría: LOS BOSQUES EN PELIGRO.
+  Crea un collage o póster sobre amenazas a bosques locales y globales, y propone soluciones.
+summary: |
+  Actividad obligatoria para la categoría: LOS BOSQUES EN PELIGRO.
+  Crea un collage o póster sobre amenazas a bosques locales y globales, y propone soluciones.
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Recortes de revistas/periódicos"
   - "Cartulina o papel grande"
   - "Pegamento"
-tools:
-  - "Tijeras"
+tools: "Tijeras"
 competencies:
   - "Conciencia ambiental"
   - "Creatividad"
   - "Comunicación visual"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # D.01 LOS BOSQUES BAJO AMENAZA
 
 ## Resumen

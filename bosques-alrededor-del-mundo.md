@@ -1,32 +1,25 @@
 ﻿---
 title: "C.06 BOSQUES ALREDEDOR DEL MUNDO"
 duration: "1 hora"
-layout: layouts/activity.njk
-permalink: /activities/bosques-alrededor-del-mundo/
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-alrededor-del-mundo/"
 description: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
 summary: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Mapa mundial"
   - "Marcadores"
   - "Lista de idiomas"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Conocimiento lingüístico"
   - "Geografía cultural"
-ods:
-  - "4"
-sdgs:
-  - "4"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.06 BOSQUES ALREDEDOR DEL MUNDO
 
 ## Resumen

@@ -1,34 +1,25 @@
 ﻿---
 title: "B.09 ECOTURISMO"
 duration: "4-5 horas (investigación + extensión)"
-layout: layouts/activity.njk
-permalink: /activities/ecoturismo/
+layout: "layouts/activity.njk"
+permalink: "/activities/ecoturismo/"
 description: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
 summary: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Recursos de investigación"
   - "Materiales para folleto (opcional)"
-tools:
-  - "Cámara (opcional)"
+tools: "Cámara (opcional)"
 competencies:
   - "Investigación"
   - "Diseño gráfico"
   - "Pensamiento empresarial"
-ods:
-  - "8"
-  - "12"
-sdgs:
-  - "8"
-  - "12"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.09 ECOTURISMO
 
 ## Resumen

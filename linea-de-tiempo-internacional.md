@@ -1,35 +1,26 @@
 ﻿---
 title: "B.14 LÍNEA DE TIEMPO INTERNACIONAL"
 duration: "3 horas"
-layout: layouts/activity.njk
-permalink: /activities/linea-de-tiempo-internacional/
+layout: "layouts/activity.njk"
+permalink: "/activities/linea-de-tiempo-internacional/"
 description: "Crea una línea de tiempo sobre eventos clave relacionados con bosques y cambio climático."
 summary: "Crea una línea de tiempo sobre eventos clave relacionados con bosques y cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Papel grande o cartulina"
   - "Marcadores"
   - "Recursos históricos"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Investigación histórica"
   - "Organización visual"
   - "Conciencia global"
-ods:
-  - "13"
-  - "17"
-sdgs:
-  - "13"
-  - "17"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.14 LÍNEA DE TIEMPO INTERNACIONAL
 
 ## Resumen

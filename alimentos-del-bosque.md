@@ -1,35 +1,25 @@
 ﻿---
 title: "C.11 ALIMENTOS DEL BOSQUE"
 duration: "3 horas (investigación + preparación)"
-layout: layouts/activity.njk
-permalink: /activities/alimentos-del-bosque/
+layout: "layouts/activity.njk"
+permalink: "/activities/alimentos-del-bosque/"
 description: "Investiga alimentos silvestres y prepara una comida con ingredientes forestales."
 summary: "Investiga alimentos silvestres y prepara una comida con ingredientes forestales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Ingredientes forestales seguros (identificados por expertos)"
   - "Utensilios de cocina"
-tools:
-  - "Guía de plantas comestibles"
+tools: "Guía de plantas comestibles"
 competencies:
   - "Conocimiento culinario"
   - "Seguridad alimentaria"
   - "Trabajo en equipo"
-ods:
-  - "2"
-  - "12"
-sdgs:
-  - "2"
-  - "12"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.11 ALIMENTOS DEL BOSQUE
 
 ## Resumen

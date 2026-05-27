@@ -1,33 +1,25 @@
 ﻿---
 title: "C.17 LA VIDA EN LOS ÁRBOLES"
 duration: "3 horas"
-layout: layouts/activity.njk
-permalink: /activities/la-vida-en-los-arboles/
+layout: "layouts/activity.njk"
+permalink: "/activities/la-vida-en-los-arboles/"
 description: "Investiga culturas que construyen casas en árboles y haz una réplica."
 summary: "Investiga culturas que construyen casas en árboles y haz una réplica."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Materiales para maqueta (palos, hojas, etc.)"
   - "Pegamento"
-tools:
-  - "Tijeras"
+tools: "Tijeras"
 competencies:
   - "Investigación cultural"
   - "Habilidades manuales"
   - "Diseño"
-ods:
-  - "11"
-sdgs:
-  - "11"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.17 LA VIDA EN LOS ÁRBOLES
 
 ## Resumen

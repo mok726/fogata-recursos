@@ -1,19 +1,14 @@
 ﻿---
 title: "A.08 PLÁNTULAS"
 duration: "2-3 horas (incluyendo seguimiento)"
-layout: layouts/activity.njk
-permalink: /activities/plantulas/
+layout: "layouts/activity.njk"
+permalink: "/activities/plantulas/"
 description: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
 summary: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Plántulas de árboles"
   - "Pala"
@@ -26,12 +21,9 @@ competencies:
   - "Trabajo en equipo"
   - "Responsabilidad ambiental"
   - "Conocimiento práctico"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # A.08 PLÁNTULAS
 
 ## Resumen

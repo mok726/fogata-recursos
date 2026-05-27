@@ -1,34 +1,25 @@
 ﻿---
 title: "D.03 TALA DE ÁRBOLES"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/tala-de-arboles/
+layout: "layouts/activity.njk"
+permalink: "/activities/tala-de-arboles/"
 description: "Invita a un experto en tala sostenible y debate sobre consumo responsable de madera."
 summary: "Invita a un experto en tala sostenible y debate sobre consumo responsable de madera."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Ejemplos de productos madereros (opcional)"
   - "Cuaderno para notas"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Pensamiento crítico"
   - "Conciencia de consumo"
   - "Diálogo constructivo"
-ods:
-  - "12"
-  - "15"
-sdgs:
-  - "12"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # D.03 TALA DE ÁRBOLES
 
 ## Resumen

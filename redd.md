@@ -1,34 +1,25 @@
 ﻿---
 title: "B.16 REDD+"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/redd/
+layout: "layouts/activity.njk"
+permalink: "/activities/redd/"
 description: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
 summary: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Equipo de grabación (opcional)"
   - "Recursos sobre REDD+"
-tools:
-  - "Computadora (opcional)"
+tools: "Computadora (opcional)"
 competencies:
   - "Comunicación"
   - "Análisis crítico"
   - "Conciencia climática"
-ods:
-  - "13"
-  - "15"
-sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.16 REDD+
 
 ## Resumen

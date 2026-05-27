@@ -1,36 +1,26 @@
 ﻿---
 title: "B.08 CAMBIANDO CON EL CLIMA"
 duration: "3 horas"
-layout: layouts/activity.njk
-permalink: /activities/cambiando-con-el-clima/
+layout: "layouts/activity.njk"
+permalink: "/activities/cambiando-con-el-clima/"
 description: "Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas."
 summary: "Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Cartulinas"
   - "Marcadores"
   - "Recursos sobre cambio climático"
-tools:
-  - "Tijeras"
+tools: "Tijeras"
 competencies:
   - "Análisis científico"
   - "Creatividad"
   - "Conciencia climática"
-ods:
-  - "13"
-  - "15"
-sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.08 CAMBIANDO CON EL CLIMA
 
 ## Resumen

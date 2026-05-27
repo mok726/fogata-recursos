@@ -1,33 +1,26 @@
 ﻿---
 title: "C.05 ÁRBOL DE DESEOS"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/arbol-de-deseos/
+layout: "layouts/activity.njk"
+permalink: "/activities/arbol-de-deseos/"
 description: "Crea un collage con deseos escritos en materiales naturales del bosque."
 summary: "Crea un collage con deseos escritos en materiales naturales del bosque."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Hojas, corteza, piedras planas"
   - "Pegamento no tóxico"
   - "Marcadores ecológicos"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Creatividad"
   - "Reflexión grupal"
   - "Conciencia ecológica"
-ods:
-  - "11"
-sdgs:
-  - "11"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.05 ÁRBOL DE DESEOS
 
 ## Resumen

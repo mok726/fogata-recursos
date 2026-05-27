@@ -1,33 +1,25 @@
 ﻿---
 title: "B.03 LA SEGURIDAD ES PRIMERO"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/la-seguridad-es-primero/
+layout: "layouts/activity.njk"
+permalink: "/activities/la-seguridad-es-primero/"
 description: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
 summary: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Cuaderno"
   - "Lápiz"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Conciencia de riesgos"
   - "Organización"
   - "Investigación"
-ods:
-  - "8"
-sdgs:
-  - "8"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.03 LA SEGURIDAD ES PRIMERO
 
 ## Resumen

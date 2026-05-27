@@ -1,33 +1,25 @@
 ﻿---
 title: "B.05 TREPANDO ÁRBOLES"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/trepando-arboles/
+layout: "layouts/activity.njk"
+permalink: "/activities/trepando-arboles/"
 description: "Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad."
 summary: "Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Cuaderno para investigación"
   - "Equipo de seguridad (arnés, cascos, etc.) si se realiza la extensión"
-tools:
-  - "Equipo de escalada (opcional)"
+tools: "Equipo de escalada (opcional)"
 competencies:
   - "Investigación"
   - "Conciencia de seguridad"
   - "Habilidades físicas"
-ods:
-  - "8"
-sdgs:
-  - "8"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.05 TREPANDO ÁRBOLES
 
 ## Resumen

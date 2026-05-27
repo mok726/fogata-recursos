@@ -1,35 +1,25 @@
 ﻿---
 title: "B.15 AMENAZAS NATURALES"
 duration: "2-3 horas"
-layout: layouts/activity.njk
-permalink: /activities/amenazas-naturales/
+layout: "layouts/activity.njk"
+permalink: "/activities/amenazas-naturales/"
 description: "Investiga un desastre natural donde los bosques influyeron en su impacto y presenta un reportaje."
 summary: "Investiga un desastre natural donde los bosques influyeron en su impacto y presenta un reportaje."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Recursos sobre desastres naturales"
   - "Materiales para presentación"
-tools:
-  - "Cámara o grabadora (opcional)"
+tools: "Cámara o grabadora (opcional)"
 competencies:
   - "Investigación"
   - "Comunicación"
   - "Pensamiento crítico"
-ods:
-  - "11"
-  - "13"
-sdgs:
-  - "11"
-  - "13"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.15 AMENAZAS NATURALES
 
 ## Resumen

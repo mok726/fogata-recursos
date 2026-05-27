@@ -1,18 +1,14 @@
 ﻿---
 title: "D.14 DESENTERRANDO LA SUCIEDAD"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/desenterrando-la-suciedad/
+layout: "layouts/activity.njk"
+permalink: "/activities/desenterrando-la-suciedad/"
 description: "Investiga tipos de contaminación en bosques locales y propón soluciones."
 summary: "Investiga tipos de contaminación en bosques locales y propón soluciones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Bolsas para recolectar muestras (opcional)"
   - "Cuaderno"
@@ -23,14 +19,9 @@ competencies:
   - "Investigación de campo"
   - "Pensamiento crítico"
   - "Advocacy"
-ods:
-  - "6"
-  - "15"
-sdgs:
-  - "6"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # D.14 DESENTERRANDO LA SUCIEDAD
 
 ## Resumen

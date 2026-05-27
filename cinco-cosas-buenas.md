@@ -1,32 +1,25 @@
 ﻿---
 title: "A.04 CINCO COSAS BUENAS"
 duration: "1 hora"
-layout: layouts/activity.njk
-permalink: /activities/cinco-cosas-buenas/
+layout: "layouts/activity.njk"
+permalink: "/activities/cinco-cosas-buenas/"
 description: "Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo."
 summary: "Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Papel"
   - "Lápices de colores o marcadores"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Pensamiento crítico"
   - "Expresión artística"
   - "Conciencia ambiental"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # A.04 CINCO COSAS BUENAS
 
 ## Resumen

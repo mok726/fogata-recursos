@@ -1,19 +1,14 @@
 ﻿---
 title: "A.03 SONIDOS Y SEÑALES"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/sonidos-y-senales/
+layout: "layouts/activity.njk"
+permalink: "/activities/sonidos-y-senales/"
 description: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
 summary: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Cuaderno de campo"
   - "Lápiz"
@@ -25,12 +20,9 @@ competencies:
   - "Observación científica"
   - "Paciencia"
   - "Conocimiento ecológico"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # A.03 SONIDOS Y SEÑALES
 
 ## Resumen

@@ -1,31 +1,24 @@
 ﻿---
 title: "B.04 EMPLEOS FORESTALES"
 duration: "1 hora"
-layout: layouts/activity.njk
-permalink: /activities/empleos-forestales/
+layout: "layouts/activity.njk"
+permalink: "/activities/empleos-forestales/"
 description: "Enumera empleos vinculados a bosques y juega a adivinanzas con tu grupo."
 summary: "Enumera empleos vinculados a bosques y juega a adivinanzas con tu grupo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Papel"
   - "Lápiz"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Trabajo en equipo"
   - "Conocimiento laboral"
-ods:
-  - "8"
-sdgs:
-  - "8"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.04 EMPLEOS FORESTALES
 
 ## Resumen

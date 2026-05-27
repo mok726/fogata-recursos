@@ -1,20 +1,18 @@
 ﻿---
 title: "B.01 BOSQUES LLENOS DE VIDA"
 duration: "3-4 horas (investigación + presentación)"
-layout: layouts/activity.njk
-permalink: /activities/bosques-llenos-de-vida/
-description: "Actividad obligatoria para la categoría - LOS BOSQUES EN USO.
-Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas."
-summary: "Actividad obligatoria para la categoría - LOS BOSQUES EN USO.
-Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-llenos-de-vida/"
+description: |
+  Actividad obligatoria para la categoría: LOS BOSQUES EN USO.
+  Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas.
+summary: |
+  Actividad obligatoria para la categoría: LOS BOSQUES EN USO.
+  Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas.
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Libros o recursos en línea"
   - "Materiales para presentación (cartulina, pinturas, etc.)"
@@ -25,14 +23,9 @@ competencies:
   - "Investigación"
   - "Pensamiento crítico"
   - "Comunicación creativa"
-ods:
-  - "8"
-  - "15"
-sdgs:
-  - "8"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.01 BOSQUES LLENOS DE VIDA
 
 ## Resumen

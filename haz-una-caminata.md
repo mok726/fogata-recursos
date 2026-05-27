@@ -1,21 +1,18 @@
 ﻿---
 title: "A.01 HAZ UNA CAMINATA"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/haz-una-caminata/
-description: "Actividad obligatoria para la categoría - LA VIDA DE LOS BOSQUES.
-Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema."
-summary: "Actividad obligatoria para la categoría - LA VIDA DE LOS BOSQUES.
-Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema."
-author: Mariano Cosentino
-source: Fogata de Recursos
+layout: "layouts/activity.njk"
+permalink: "/activities/haz-una-caminata/"
+description: |
+  Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES.
+  Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema.
+summary: |
+  Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES.
+  Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema.
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Piedras"
   - "Tierra"
@@ -32,12 +29,9 @@ competencies:
   - "Creatividad"
   - "Trabajo en equipo"
   - "Conciencia ecológica"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # A.01 HAZ UNA CAMINATA
 
 ## Resumen

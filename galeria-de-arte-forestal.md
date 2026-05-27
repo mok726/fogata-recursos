@@ -1,34 +1,25 @@
 ﻿---
 title: "C.10 GALERÍA DE ARTE FORESTAL"
 duration: "3-4 horas (creación + exhibición)"
-layout: layouts/activity.njk
-permalink: /activities/galeria-de-arte-forestal/
+layout: "layouts/activity.njk"
+permalink: "/activities/galeria-de-arte-forestal/"
 description: "Crea obras de arte inspiradas en bosques y organiza una exhibición."
 summary: "Crea obras de arte inspiradas en bosques y organiza una exhibición."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Pinturas, arcilla, materiales reciclados"
   - "Espacio para exhibición"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Expresión artística"
   - "Comunicación"
   - "Organización"
-ods:
-  - "11"
-sdgs:
-  - "11"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.10 GALERÍA DE ARTE FORESTAL
 
 ## Resumen

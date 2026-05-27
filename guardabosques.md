@@ -1,33 +1,25 @@
 ﻿---
 title: "B.06 GUARDABOSQUES"
 duration: "2-3 horas (incluyendo entrevista y presentación)"
-layout: layouts/activity.njk
-permalink: /activities/guardabosques/
+layout: "layouts/activity.njk"
+permalink: "/activities/guardabosques/"
 description: "Entrevista a un guardabosques sobre su trabajo en áreas protegidas."
 summary: "Entrevista a un guardabosques sobre su trabajo en áreas protegidas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Cuaderno"
   - "Grabadora o cámara (opcional)"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Comunicación"
   - "Empatía"
   - "Conocimiento de conservación"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.06 GUARDABOSQUES
 
 ## Resumen

@@ -1,32 +1,25 @@
 ﻿---
 title: "B.11 LOS BOSQUES Y LAS NN. UU."
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/los-bosques-y-las-nn-uu/
+layout: "layouts/activity.njk"
+permalink: "/activities/los-bosques-y-las-nn-uu/"
 description: "Investiga el trabajo de dos agencias de la ONU relacionadas con bosques."
 summary: "Investiga el trabajo de dos agencias de la ONU relacionadas con bosques."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Acceso a internet o libros"
   - "Papel para notas"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Investigación"
   - "Conciencia global"
   - "Análisis crítico"
-ods:
-  - "17"
-sdgs:
-  - "17"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.11 LOS BOSQUES Y LAS NN. UU.
 
 ## Resumen

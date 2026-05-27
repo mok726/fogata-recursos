@@ -1,34 +1,25 @@
 ﻿---
 title: "C.18 INFORME DE PRENSA"
 duration: "4-5 horas (entrevista + producción)"
-layout: layouts/activity.njk
-permalink: /activities/informe-de-prensa/
+layout: "layouts/activity.njk"
+permalink: "/activities/informe-de-prensa/"
 description: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
 summary: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Grabadora o cámara (opcional)"
   - "Cuaderno"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Comunicación"
   - "Empatía intercultural"
   - "Periodismo ético"
-ods:
-  - "10"
-  - "16"
-sdgs:
-  - "10"
-  - "16"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.18 INFORME DE PRENSA
 
 ## Resumen

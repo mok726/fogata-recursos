@@ -1,35 +1,25 @@
 ﻿---
 title: "A.10 UN BOSQUE PARA TODAS LAS ESTACIONES"
 duration: "Variada (2 visitas + trabajo creativo)"
-layout: layouts/activity.njk
-permalink: /activities/un-bosque-para-todas-las-estaciones/
+layout: "layouts/activity.njk"
+permalink: "/activities/un-bosque-para-todas-las-estaciones/"
 description: "Visita un bosque en dos estaciones diferentes y compara tus observaciones."
 summary: "Visita un bosque en dos estaciones diferentes y compara tus observaciones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Cuaderno de campo"
   - "Cámara (opcional)"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Observación a largo plazo"
   - "Análisis comparativo"
   - "Expresión creativa"
-ods:
-  - "13"
-  - "15"
-sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # A.10 UN BOSQUE PARA TODAS LAS ESTACIONES
 
 ## Resumen

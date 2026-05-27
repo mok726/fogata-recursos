@@ -1,32 +1,25 @@
 ﻿---
 title: "C.07 TU DEPORTE"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/tu-deporte/
+layout: "layouts/activity.njk"
+permalink: "/activities/tu-deporte/"
 description: "Inventa un deporte que se juegue en el bosque y explora su relación con el entorno."
 summary: "Inventa un deporte que se juegue en el bosque y explora su relación con el entorno."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Materiales deportivos (pelotas, cuerdas, etc.)"
   - "Objetos naturales (piñas, ramas)"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Innovación"
   - "Trabajo en equipo"
   - "Adaptabilidad"
-ods:
-  - "3"
-sdgs:
-  - "3"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.07 TU DEPORTE
 
 ## Resumen

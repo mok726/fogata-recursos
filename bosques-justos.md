@@ -1,33 +1,23 @@
 ﻿---
 title: "B.12 BOSQUES JUSTOS"
 duration: "1-2 horas"
-layout: layouts/activity.njk
-permalink: /activities/bosques-justos/
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-justos/"
 description: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
 summary: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
-materials:
-  - "Documentos sobre políticas forestales (opcional)"
-tools:
-  - "Ninguna"
+  - "Naturaleza"
+materials: "Documentos sobre políticas forestales (opcional)"
+tools: "Ninguna"
 competencies:
   - "Debate"
   - "Conciencia social"
   - "Pensamiento político"
-ods:
-  - "10"
-  - "16"
-sdgs:
-  - "10"
-  - "16"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # B.12 BOSQUES JUSTOS
 
 ## Resumen

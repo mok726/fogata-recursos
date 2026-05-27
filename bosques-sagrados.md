@@ -1,32 +1,25 @@
 ﻿---
 title: "C.12 BOSQUES SAGRADOS"
 duration: "2 horas"
-layout: layouts/activity.njk
-permalink: /activities/bosques-sagrados/
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-sagrados/"
 description: "Investiga tres comunidades que consideren sagrados a los bosques."
 summary: "Investiga tres comunidades que consideren sagrados a los bosques."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "caminantes"
-  - "rovers"
+  - "Naturaleza"
 materials:
   - "Recursos sobre culturas y religiones"
   - "Cuaderno"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Investigación intercultural"
   - "Respeto religioso"
   - "Pensamiento crítico"
-ods:
-  - "16"
-sdgs:
-  - "16"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # C.12 BOSQUES SAGRADOS
 
 ## Resumen

@@ -1,32 +1,25 @@
 ﻿---
 title: "D.06 LOS BOSQUES Y TÚ"
 duration: "1 hora"
-layout: layouts/activity.njk
-permalink: /activities/los-bosques-y-tu/
+layout: "layouts/activity.njk"
+permalink: "/activities/los-bosques-y-tu/"
 description: "Reflexiona sobre la importancia de un bosque local y escribe un reporte personal."
 summary: "Reflexiona sobre la importancia de un bosque local y escribe un reporte personal."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author: "Mariano Cosentino"
+source: "Fogata de Recursos"
 branch:
-  - Naturaleza
-age:
-  - "manada"
-  - "scouts"
+  - "Naturaleza"
 materials:
   - "Papel"
   - "Lápiz"
-tools:
-  - "Ninguna"
+tools: "Ninguna"
 competencies:
   - "Reflexión personal"
   - "Empatía ambiental"
   - "Expresión escrita"
-ods:
-  - "15"
-sdgs:
-  - "15"
-activity_badges: "bosques"
+tags: "Insignia de los Bosques"
 ---
+
 # D.06 LOS BOSQUES Y TÚ
 
 ## Resumen
