@@ -9,8 +9,7 @@ title: Edades
 
   {% for age in ageGroups %}
 
-    <a href="/edades/{{ age.id }}/">
-
+<a href="{{ ('/edades/' + age.id + '/') | url }}">
       <div class="card">
 
         <div class="card-content">

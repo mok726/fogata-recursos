@@ -10,7 +10,7 @@ layout: layouts/base.njk
 {% for activityItem in collections.activities %}
 
 
-<a href="{{ activityItem.url }}">
+<a href="{{ activityItem.url  | url  }}">
 
   {% include "components/activity-card.njk" %}
 

@@ -38,7 +38,7 @@ permalink: /activities/
 {% for activity in collections.activities | reverse %}
 
   <a
-    href="{{ activity.url }}"
+    href="{{ activity.url  | url }}"
     class="searchable-card"
     data-title="{{ activity.data.title | lower }}"
     data-description="{{ activity.data.description | default('') | lower }}"

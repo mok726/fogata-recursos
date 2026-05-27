@@ -9,13 +9,12 @@ title: ODS
 
   {% for sdg in allSdgs  %}
 
-    <a href="/ods/{{ sdg.id }}/">
-
+<a href="{{ ('/ods/' + sdg.id + '/') | url }}">
       <div class="card">
 
         <img
           class="badge"
-          src="/imagenes/ods/ods-{{ sdg.id }}.png"
+src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
           alt="ODS {{ sdg.id }}">
 
         <div class="card-content">

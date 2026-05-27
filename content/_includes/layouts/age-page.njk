@@ -24,7 +24,7 @@ layout: layouts/base.njk
 
     {% if activity.data.age_group and (age.name in activity.data.age_group) %}
 
-      <a href="{{ activity.url }}">
+      <a href="{{ activity.url  | url }}">
 
         {% set activity = activity %}
 

@@ -9,13 +9,12 @@ title: Insignias
 
   {% for badge in badges %}
 
-    <a href="/badges/{{ badge.id }}/">
-
+<a href="{{ ('/badges/' + badge.id + '/') | url }}">
       <div class="card">
 
         <img
           class="badge"
-          src="/imagenes/insignias/{{ badge.id }}.png"
+src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
           alt="{{ badge.name }}">
 
         <div class="card-content">

@@ -6,7 +6,7 @@ layout: layouts/base.njk
 
   <img
     class="badge-logo"
-    src="/imagenes/insignias/{{ badge_id | lower }}.png"
+src="{{ ('/imagenes/insignias/' + (badge_id | lower) + '.png') | url }}"
     alt="{{ title }}"
   >
 
@@ -41,7 +41,7 @@ layout: layouts/base.njk
         <article class="card">
 
           <h3>
-            <a href="{{ activity.url }}">
+            <a href="{{ activity.url  | url }}">
               {{ activity.data.title }}
             </a>
           </h3>

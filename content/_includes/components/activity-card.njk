@@ -21,7 +21,7 @@
     <div class="activity-card-badge">
 
       <img
-        src="/imagenes/insignias/{{ badgeId }}.png"
+src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
         alt="{{ badgeName }}">
 
     </div>

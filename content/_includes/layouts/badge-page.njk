@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <section class="page-header">
 
   <img
-    src="/imagenes/insignias/{{ badge.id }}.png"
+src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
     alt="{{ badge.name }}">
 
   <div>
@@ -32,7 +32,7 @@ layout: layouts/base.njk
 
         {% if item | slugify == badge.id %}
 
-          <a href="{{ activity.url }}">
+          <a href="{{ activity.url  | url }}">
 
             {% set activity = activity %}
 

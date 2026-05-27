@@ -1,44 +1,29 @@
 <nav class="navbar">
 
-  <div class="navbar-left">
+  <a href="{{ '/' | url }}">
+    Fogata de Recursos
+  </a>
 
-    <a class="navbar-brand" href="/">
-      Fogata de Recursos
-    </a>
+  <div class="nav-links">
 
-  </div>
-
-  <div class="navbar-center">
-
-    <a href="/activities/">
+    <a href="{{ '/activities/' | url }}">
       Actividades
     </a>
 
-    <a href="/badges/">
+    <a href="{{ '/badges/' | url }}">
       Insignias
     </a>
 
-    <a href="/ods/">
+    <a href="{{ '/ods/' | url }}">
       ODS
     </a>
 
-    <a href="/edades/">
+    <a href="{{ '/edades/' | url }}">
       Edades
     </a>
 
   </div>
 
-  <div class="navbar-right">
-
-    <button
-      id="search-toggle"
-      class="search-button"
-      type="button">
-
-      Buscar
-
-    </button>
-
-  </div>
-
 </nav>
+
+

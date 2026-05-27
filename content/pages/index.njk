@@ -19,11 +19,11 @@ permalink: /
 
     <div class="hero-actions">
 
-      <a class="hero-button" href="/activities/">
+      <a class="hero-button" href="{{ '/activities/' | url }}">
         Explorar actividades
       </a>
 
-      <a class="hero-button secondary" href="/badges/">
+      <a class="hero-button secondary" href="{{ '/badges/' | url }}">
         Ver insignias
       </a>
 
@@ -103,7 +103,7 @@ input.addEventListener("input", async () => {
 
   <div class="grid">
 
-    <a href="/activities/">
+    <a href="{{ '/activities/' | url }}">
 
       <div class="card">
         <div class="card-content">
@@ -121,7 +121,7 @@ input.addEventListener("input", async () => {
 
     </a>
 
-    <a href="/badges/">
+    <a href="{{ '/badges/' | url }}">
 
       <div class="card">
         <div class="card-content">
@@ -139,7 +139,7 @@ input.addEventListener("input", async () => {
 
     </a>
 
-    <a href="/ods/">
+    <a href="{{ '/ods/' | url }}">
 
       <div class="card">
         <div class="card-content">
@@ -157,7 +157,7 @@ input.addEventListener("input", async () => {
 
     </a>
 
-    <a href="/edades/">
+    <a href="{{ '/edades/' | url }}">
 
       <div class="card">
         <div class="card-content">
@@ -217,7 +217,7 @@ input.addEventListener("input", async () => {
 
     </div>
 
-    <a class="hero-button secondary" href="/activities/">
+    <a class="hero-button secondary" href="{{ '/activities/' | url }}">
       Ver todas
     </a>
 
@@ -229,7 +229,7 @@ input.addEventListener("input", async () => {
 
       {% if loop.index <= 3 %}
 
-        <a href="{{ activityItem.url }}">
+        <a href="{{ activityItem.url | url  }}">
 
           {% include "components/activity-card.njk" %}
 
@@ -268,7 +268,7 @@ input.addEventListener("input", async () => {
 
       <a
         class="tag-link"
-        href="/activities/?search={{ tag | url }}">
+        href="{{ ('/activities/?search=' + tag) | url }}">
 
         {{ tag }}
 
