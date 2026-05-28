@@ -31,11 +31,11 @@ competencies:
   - Empatía histórica
 responsible: Scouter o líder cultural
 ods:
-  - 11
-  - 16
+  - "11"
+  - "16"
 sdgs:
-  - 11
-  - 16
+  - "11"
+  - "16"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

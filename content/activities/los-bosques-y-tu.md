@@ -24,8 +24,8 @@ competencies:
   - Empatía ambiental
   - Expresión escrita
 responsible: Scouter
-ods: 15
-sdgs: 15
+ods: "15"
+sdgs: "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

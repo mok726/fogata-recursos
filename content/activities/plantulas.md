@@ -32,8 +32,8 @@ competencies:
   - Responsabilidad ambiental
   - Conocimiento práctico
 responsible: Scouter o guardabosques
-ods: 15
-sdgs: 15
+ods: "15"
+sdgs: "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

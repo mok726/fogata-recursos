@@ -26,8 +26,8 @@ competencies:
   - Empatía
   - Conocimiento de conservación
 responsible: Scouter o guardabosques invitado
-ods: 15
-sdgs: 15
+ods: "15"
+sdgs: "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

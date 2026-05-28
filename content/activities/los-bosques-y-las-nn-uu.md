@@ -24,8 +24,8 @@ competencies:
   - Conciencia global
   - Análisis crítico
 responsible: Scouter o profesor de ciencias políticas
-ods: 17
-sdgs: 17
+ods: "17"
+sdgs: "17"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

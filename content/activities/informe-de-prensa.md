@@ -25,11 +25,11 @@ competencies:
   - Periodismo ético
 responsible: Scouter o periodista
 ods:
-  - 10
-  - 16
+  - "10"
+  - "16"
 sdgs:
-  - 10
-  - 16
+  - "10"
+  - "16"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

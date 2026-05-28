@@ -24,8 +24,8 @@ competencies:
   - Conocimiento intercultural
   - Coordinación física
 responsible: Scouter o líder de juegos
-ods: 4
-sdgs: 4
+ods: "4"
+sdgs: "4"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

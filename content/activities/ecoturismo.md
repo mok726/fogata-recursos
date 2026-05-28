@@ -25,11 +25,11 @@ competencies:
   - Pensamiento empresarial
 responsible: Scouter o experto en turismo
 ods:
-  - 8
-  - 12
+  - "8"
+  - "12"
 sdgs:
-  - 8
-  - 12
+  - "8"
+  - "12"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

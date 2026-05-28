@@ -32,11 +32,11 @@ competencies:
   - Educación entre pares
 responsible: Scouter o educador
 ods:
-  - 1
-  - 12
+  - "1"
+  - "12"
 sdgs:
-  - 1
-  - 12
+  - "1"
+  - "12"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

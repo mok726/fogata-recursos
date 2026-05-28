@@ -24,8 +24,8 @@ competencies:
   - Trabajo en equipo
   - Adaptabilidad
 responsible: Scouter o líder deportivo
-ods: 3
-sdgs: 3
+ods: "3"
+sdgs: "3"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

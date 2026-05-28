@@ -24,8 +24,8 @@ competencies:
   - Escucha activa
   - Coordinación
 responsible: Scouter o músico
-ods: 11
-sdgs: 11
+ods: "11"
+sdgs: "11"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

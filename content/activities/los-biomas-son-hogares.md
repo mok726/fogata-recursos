@@ -34,11 +34,11 @@ competencies:
   - Comunicación oral
 responsible: Scouter o profesor de ciencias
 ods:
-  - 13
-  - 15
+  - "13"
+  - "15"
 sdgs:
-  - 13
-  - 15
+  - "13"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

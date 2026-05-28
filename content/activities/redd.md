@@ -25,11 +25,11 @@ competencies:
   - Conciencia climática
 responsible: Scouter o experto en políticas ambientales
 ods:
-  - 13
-  - 15
+  - "13"
+  - "15"
 sdgs:
-  - 13
-  - 15
+  - "13"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

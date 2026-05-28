@@ -23,8 +23,8 @@ competencies:
   - Trabajo en equipo
   - Conocimiento laboral
 responsible: Scouter
-ods: 8
-sdgs: 8
+ods: "8"
+sdgs: "8"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

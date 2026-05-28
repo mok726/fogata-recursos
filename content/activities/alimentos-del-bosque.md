@@ -27,11 +27,11 @@ competencies:
   - Trabajo en equipo
 responsible: Scouter o experto en botánica
 ods:
-  - 2
-  - 12
+  - "2"
+  - "12"
 sdgs:
-  - 2
-  - 12
+  - "2"
+  - "12"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

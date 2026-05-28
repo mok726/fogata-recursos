@@ -34,11 +34,11 @@ competencies:
   - Responsabilidad
 responsible: Scouter o experto en seguridad
 ods:
-  - 11
-  - 12
+  - "11"
+  - "12"
 sdgs:
-  - 11
-  - 12
+  - "11"
+  - "12"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

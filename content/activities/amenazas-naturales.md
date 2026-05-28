@@ -27,11 +27,11 @@ competencies:
   - Pensamiento crítico
 responsible: Scouter o experto en gestión de riesgos
 ods:
-  - 11
-  - 13
+  - "11"
+  - "13"
 sdgs:
-  - 11
-  - 13
+  - "11"
+  - "13"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

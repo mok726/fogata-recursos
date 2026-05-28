@@ -29,11 +29,11 @@ competencies:
   - Interpretación de datos
 responsible: Scouter o científico invitado
 ods:
-  - 13
-  - 15
+  - "13"
+  - "15"
 sdgs:
-  - 13
-  - 15
+  - "13"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

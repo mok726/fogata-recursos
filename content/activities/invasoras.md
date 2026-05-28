@@ -26,8 +26,8 @@ competencies:
   - Solución de problemas
   - Conciencia global
 responsible: Scouter o ecólogo
-ods: 15
-sdgs: 15
+ods: "15"
+sdgs: "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

@@ -25,11 +25,11 @@ competencies:
   - Diálogo constructivo
 responsible: Scouter o ingeniero forestal
 ods:
-  - 12
-  - 15
+  - "12"
+  - "15"
 sdgs:
-  - 12
-  - 15
+  - "12"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

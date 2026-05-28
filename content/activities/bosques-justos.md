@@ -23,11 +23,11 @@ competencies:
   - Pensamiento político
 responsible: Scouter o líder comunitario
 ods:
-  - 10
-  - 16
+  - "10"
+  - "16"
 sdgs:
-  - 10
-  - 16
+  - "10"
+  - "16"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

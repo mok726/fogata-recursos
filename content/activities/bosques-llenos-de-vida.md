@@ -33,11 +33,11 @@ competencies:
   - Comunicación creativa
 responsible: Scouter o líder de proyecto
 ods:
-  - 8
-  - 15
+  - "8"
+  - "15"
 sdgs:
-  - 8
-  - 15
+  - "8"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

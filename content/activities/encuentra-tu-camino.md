@@ -26,8 +26,8 @@ competencies:
   - Supervivencia
   - Adaptabilidad
 responsible: Scouter o experto en orientación
-ods: 4
-sdgs: 4
+ods: "4"
+sdgs: "4"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

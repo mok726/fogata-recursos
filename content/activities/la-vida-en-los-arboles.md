@@ -26,8 +26,8 @@ competencies:
   - Habilidades manuales
   - Diseño
 responsible: Scouter o arquitecto
-ods: 11
-sdgs: 11
+ods: "11"
+sdgs: "11"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

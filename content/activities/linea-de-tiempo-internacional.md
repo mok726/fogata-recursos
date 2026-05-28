@@ -26,11 +26,11 @@ competencies:
   - Conciencia global
 responsible: Scouter o historiador ambiental
 ods:
-  - 13
-  - 17
+  - "13"
+  - "17"
 sdgs:
-  - 13
-  - 17
+  - "13"
+  - "17"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

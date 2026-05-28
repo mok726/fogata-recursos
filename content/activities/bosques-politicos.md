@@ -25,11 +25,11 @@ competencies:
   - Conciencia social
 responsible: Scouter o activista ambiental
 ods:
-  - 16
-  - 17
+  - "16"
+  - "17"
 sdgs:
-  - 16
-  - 17
+  - "16"
+  - "17"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

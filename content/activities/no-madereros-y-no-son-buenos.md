@@ -30,8 +30,8 @@ competencies:
   - Investigación
   - Toma de decisiones éticas
 responsible: Scouter o activista ambiental
-ods: 12
-sdgs: 12
+ods: "12"
+sdgs: "12"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

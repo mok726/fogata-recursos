@@ -25,8 +25,8 @@ competencies:
   - Trabajo en equipo
   - Geografía crítica
 responsible: Scouter o geógrafo
-ods: 15
-sdgs: 15
+ods: "15"
+sdgs: "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

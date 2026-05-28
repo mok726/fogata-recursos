@@ -24,8 +24,8 @@ competencies:
   - Creatividad
   - Habilidades de supervivencia
 responsible: Scouter o guía outdoor
-ods: 12
-sdgs: 12
+ods: "12"
+sdgs: "12"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

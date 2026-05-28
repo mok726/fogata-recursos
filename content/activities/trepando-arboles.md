@@ -26,8 +26,8 @@ competencies:
   - Conciencia de seguridad
   - Habilidades físicas
 responsible: Scouter o experto en arboricultura
-ods: 8
-sdgs: 8
+ods: "8"
+sdgs: "8"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

@@ -25,11 +25,11 @@ competencies:
   - Conciencia agrícola
 responsible: Scouter o agrónomo
 ods:
-  - 2
-  - 15
+  - "2"
+  - "15"
 sdgs:
-  - 2
-  - 15
+  - "2"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

@@ -24,8 +24,8 @@ competencies:
   - Conocimiento lingüístico
   - Geografía cultural
 responsible: Scouter o profesor de idiomas
-ods: 4
-sdgs: 4
+ods: "4"
+sdgs: "4"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

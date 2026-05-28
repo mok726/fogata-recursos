@@ -28,8 +28,8 @@ competencies:
   - Comunicación
   - Organización
 responsible: Scouter o artista invitado
-ods: 11
-sdgs: 11
+ods: "11"
+sdgs: "11"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

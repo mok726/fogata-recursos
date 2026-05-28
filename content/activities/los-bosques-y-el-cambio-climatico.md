@@ -24,8 +24,8 @@ competencies:
   - Conciencia climática
   - Pensamiento sistémico
 responsible: Scouter o climatólogo
-ods: 13
-sdgs: 13
+ods: "13"
+sdgs: "13"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

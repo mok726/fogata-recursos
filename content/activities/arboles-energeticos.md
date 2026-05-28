@@ -28,11 +28,11 @@ competencies:
   - Creatividad
 responsible: Scouter o ingeniero ambiental
 ods:
-  - 7
-  - 9
+  - "7"
+  - "9"
 sdgs:
-  - 7
-  - 9
+  - "7"
+  - "9"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

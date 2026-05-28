@@ -27,11 +27,11 @@ competencies:
   - Conciencia ambiental
 responsible: Scouter o artista
 ods:
-  - 11
-  - 13
+  - "11"
+  - "13"
 sdgs:
-  - 11
-  - 13
+  - "11"
+  - "13"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

@@ -33,8 +33,8 @@ competencies:
   - Diseño gráfico
   - Empatía ecológica
 responsible: Scouter o biólogo invitado
-ods: 15
-sdgs: 15
+ods: "15"
+sdgs: "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---

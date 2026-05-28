@@ -29,11 +29,11 @@ competencies:
   - Advocacy
 responsible: Scouter o químico ambiental
 ods:
-  - 6
-  - 15
+  - "6"
+  - "15"
 sdgs:
-  - 6
-  - 15
+  - "6"
+  - "15"
 activity_badges: bosques
 tags: Insignia de los Bosques
 ---
