@@ -1,21 +1,30 @@
 ﻿---
-title: "Investigaciones tormentosas"
-duration: "1-2 días"
+title: Investigaciones tormentosas
+duration: 1-2 días
+layout: layouts/activity.njk
+permalink: /activities/investigaciones-tormentosas/
+description: "Los participantes investigan los fenómenos de El Niño y La Niña."
+summary: "Los participantes investigan los fenómenos de El Niño y La Niña."
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
-materials:
-  - "Acceso a internet, papel, lápices."
-tools:
-  - "Investigación, análisis."
-competencies:
-  - "Maestro/profesor/dirigente."
-responsible: "ODS 13"
-ods:
-  []
-tags:
-  []
+  - scouts
+  - caminantes
+  - rovers
+age_group:
+  - scouts
+  - caminantes
+  - rovers
+materials: Acceso a internet, papel, lápices.
+tools: Investigación, análisis.
+competencies: Maestro/profesor/dirigente.
+responsible: ODS 13
+ods: ""
+sdgs: ""
+activity_badges: ""
+tags: ""
 ---
 
 # Investigaciones tormentosas
@@ -28,4 +37,3 @@ Los participantes investigan cuándo ocurrieron por última vez estos fenómenos
 
 ## Cierre
 Los hallazgos se presentan en grupo.
-

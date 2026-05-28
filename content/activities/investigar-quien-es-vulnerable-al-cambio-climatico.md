@@ -1,14 +1,14 @@
 ﻿---
-title: Impacto del cambio climático en la alimentación
+title: Investigar quién es vulnerable al cambio climático
 duration: 1 mes
 layout: layouts/activity.njk
-permalink: /activities/impacto-del-cambio-climatico-en-la-alimentacion/
+permalink: /activities/investigar-quien-es-vulnerable-al-cambio-climatico/
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta la producción de alimentos.
+  Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta la producción de alimentos.
+  Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
 author: Mariano Cosentino
 source: Fogata de Recursos
 branch:
@@ -25,28 +25,28 @@ materials:
 tools: No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
-  - Comunicación
+  - Investigación y análisis
 responsible: Responsable del grupo Scout
 ods:
-  - "2"
   - "13"
+  - "10"
 sdgs:
-  - "2"
   - "13"
+  - "10"
 activity_badges: insigniadeseguridadalimentariaycambioclimático
 tags: Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
-# Impacto del cambio climático en la alimentación
+# Investigar quién es vulnerable al cambio climático
 
 ## Resumen
 Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
-Aprende cómo el cambio climático afecta la producción de alimentos.
+Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
 
 ## Desarrollo
-¿Cómo puede un cambio en los patrones del clima llevar al hambre?
-Aprende sobre los impactos del cambio climático en nuestros alimentos, agua y nutrición.
-Comparte esta información con tu clase, grupo o amigos.
+Investiga quién es especialmente vulnerable al cambio climático.
+¿Dónde viven?
+¿Qué puedes hacer para ayudarlos?
 
 ## Cierre
-Reflexiona sobre cómo el cambio climático afecta la seguridad alimentaria.
+Reflexiona sobre cómo el cambio climático afecta a las comunidades más vulnerables.
