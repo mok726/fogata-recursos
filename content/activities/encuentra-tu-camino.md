@@ -1,35 +1,35 @@
 ﻿---
-title: "ENCUENTRA TU CAMINO"
-duration: "2-3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/encuentra-tu-camino/"
+title: ENCUENTRA TU CAMINO
+duration: 2-3 horas
+layout: layouts/activity.njk
+permalink: /activities/encuentra-tu-camino/
 description: "Participa en una actividad de orientación usando mapas en un bosque."
 summary: "Participa en una actividad de orientación usando mapas en un bosque."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Mapa del bosque"
-  - "Brújula (opcional)"
-tools: "Brújula"
+  - Mapa del bosque
+  - Brújula (opcional)
+tools: Brújula
 competencies:
-  - "Orientación espacial"
-  - "Supervivencia"
-  - "Adaptabilidad"
-responsible: "Scouter o experto en orientación"
-ods: "4"
-sdgs: "4"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Orientación espacial
+  - Supervivencia
+  - Adaptabilidad
+responsible: Scouter o experto en orientación
+ods: 4
+sdgs: 4
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # ENCUENTRA TU CAMINO

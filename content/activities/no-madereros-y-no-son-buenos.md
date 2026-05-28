@@ -1,39 +1,39 @@
 ﻿---
-title: "NO MADEREROS Y NO SON BUENOS"
-duration: "1 hora"
-layout: "layouts/activity.njk"
-permalink: "/activities/no-madereros-y-no-son-buenos/"
+title: NO MADEREROS Y NO SON BUENOS
+duration: 1 hora
+layout: layouts/activity.njk
+permalink: /activities/no-madereros-y-no-son-buenos/
 description: |
   Identifica productos no madereros dañinos en tu hogar (ej.
   aceite de palma).
 summary: |
   Identifica productos no madereros dañinos en tu hogar (ej.
   aceite de palma).
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Etiquetas de productos alimenticios/cosméticos"
-  - "Lista de ingredientes nocivos"
-tools: "Ninguna"
+  - Etiquetas de productos alimenticios/cosméticos
+  - Lista de ingredientes nocivos
+tools: Ninguna
 competencies:
-  - "Conciencia de consumo"
-  - "Investigación"
-  - "Toma de decisiones éticas"
-responsible: "Scouter o activista ambiental"
-ods: "12"
-sdgs: "12"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Conciencia de consumo
+  - Investigación
+  - Toma de decisiones éticas
+responsible: Scouter o activista ambiental
+ods: 12
+sdgs: 12
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # NO MADEREROS Y NO SON BUENOS

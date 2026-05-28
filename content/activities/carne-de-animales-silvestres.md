@@ -1,37 +1,37 @@
 ﻿---
-title: "CARNE DE ANIMALES SILVESTRES"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/carne-de-animales-silvestres/"
+title: CARNE DE ANIMALES SILVESTRES
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/carne-de-animales-silvestres/
 description: "Analiza el impacto de la caza de subsistencia en bosques y debate soluciones."
 summary: "Analiza el impacto de la caza de subsistencia en bosques y debate soluciones."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Recursos sobre caza sostenible"
-  - "Cuaderno"
-tools: "Ninguna"
+  - Recursos sobre caza sostenible
+  - Cuaderno
+tools: Ninguna
 competencies:
-  - "Pensamiento crítico"
-  - "Conciencia intercultural"
-  - "Solución de problemas"
-responsible: "Scouter o antropólogo"
+  - Pensamiento crítico
+  - Conciencia intercultural
+  - Solución de problemas
+responsible: Scouter o antropólogo
 ods:
-  - "2"
-  - "15"
+  - 2
+  - 15
 sdgs:
-  - "2"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 2
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # CARNE DE ANIMALES SILVESTRES

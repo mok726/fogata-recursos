@@ -1,37 +1,37 @@
 ﻿---
-title: "TALA DE ÁRBOLES"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/tala-de-arboles/"
+title: TALA DE ÁRBOLES
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/tala-de-arboles/
 description: "Invita a un experto en tala sostenible y debate sobre consumo responsable de madera."
 summary: "Invita a un experto en tala sostenible y debate sobre consumo responsable de madera."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Ejemplos de productos madereros (opcional)"
-  - "Cuaderno para notas"
-tools: "Ninguna"
+  - Ejemplos de productos madereros (opcional)
+  - Cuaderno para notas
+tools: Ninguna
 competencies:
-  - "Pensamiento crítico"
-  - "Conciencia de consumo"
-  - "Diálogo constructivo"
-responsible: "Scouter o ingeniero forestal"
+  - Pensamiento crítico
+  - Conciencia de consumo
+  - Diálogo constructivo
+responsible: Scouter o ingeniero forestal
 ods:
-  - "12"
-  - "15"
+  - 12
+  - 15
 sdgs:
-  - "12"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 12
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # TALA DE ÁRBOLES

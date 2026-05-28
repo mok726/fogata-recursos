@@ -1,35 +1,35 @@
 ﻿---
-title: "¡INVASORAS!"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/invasoras/"
+title: ¡INVASORAS!
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/invasoras/
 description: "Investiga especies invasoras en tu área y propón medidas de prevención."
 summary: "Investiga especies invasoras en tu área y propón medidas de prevención."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Guías de especies locales"
-  - "Papel para notas"
-tools: "Lupa (opcional)"
+  - Guías de especies locales
+  - Papel para notas
+tools: Lupa (opcional)
 competencies:
-  - "Investigación"
-  - "Solución de problemas"
-  - "Conciencia global"
-responsible: "Scouter o ecólogo"
-ods: "15"
-sdgs: "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Investigación
+  - Solución de problemas
+  - Conciencia global
+responsible: Scouter o ecólogo
+ods: 15
+sdgs: 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # ¡INVASORAS!

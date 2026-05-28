@@ -1,41 +1,41 @@
 ﻿---
-title: "ANILLOS ANUALES"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/anillos-anuales/"
+title: ANILLOS ANUALES
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/anillos-anuales/
 description: "Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia."
 summary: "Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Tocón de árbol o tronco cortado"
-  - "Papel para póster"
-  - "Lápices o marcadores"
+  - Tocón de árbol o tronco cortado
+  - Papel para póster
+  - Lápices o marcadores
 tools:
-  - "Lupa (opcional)"
-  - "Regla"
+  - Lupa (opcional)
+  - Regla
 competencies:
-  - "Análisis científico"
-  - "Interpretación de datos"
-responsible: "Scouter o científico invitado"
+  - Análisis científico
+  - Interpretación de datos
+responsible: Scouter o científico invitado
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 13
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # ANILLOS ANUALES

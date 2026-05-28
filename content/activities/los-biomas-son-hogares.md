@@ -1,46 +1,46 @@
 ﻿---
-title: "LOS BIOMAS SON HOGARES"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/los-biomas-son-hogares/"
+title: LOS BIOMAS SON HOGARES
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/los-biomas-son-hogares/
 description: |
   Actividad obligatoria para la categoría - LA VIDA DE LOS BOSQUES.
   Aprende sobre los biomas forestales, sus características y ubicaciones en el mundo.
 summary: |
   Actividad obligatoria para la categoría - LA VIDA DE LOS BOSQUES.
   Aprende sobre los biomas forestales, sus características y ubicaciones en el mundo.
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Libros o recursos digitales sobre biomas"
-  - "Papel y lápices para dibujar"
-  - "Tarjetas para el juego de parejas (opcional)"
-tools: "Ninguna"
+  - Libros o recursos digitales sobre biomas
+  - Papel y lápices para dibujar
+  - Tarjetas para el juego de parejas (opcional)
+tools: Ninguna
 competencies:
-  - "Investigación"
-  - "Pensamiento crítico"
-  - "Comunicación oral"
-responsible: "Scouter o profesor de ciencias"
+  - Investigación
+  - Pensamiento crítico
+  - Comunicación oral
+responsible: Scouter o profesor de ciencias
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 13
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # LOS BIOMAS SON HOGARES

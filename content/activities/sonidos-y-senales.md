@@ -1,40 +1,40 @@
 ﻿---
-title: "SONIDOS Y SEÑALES"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/sonidos-y-senales/"
+title: SONIDOS Y SEÑALES
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/sonidos-y-senales/
 description: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
 summary: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Cuaderno de campo"
-  - "Lápiz"
-  - "Bolsa para muestras (opcional)"
+  - Cuaderno de campo
+  - Lápiz
+  - Bolsa para muestras (opcional)
 tools:
-  - "Guía de huellas de animales"
-  - "Lupa (opcional)"
+  - Guía de huellas de animales
+  - Lupa (opcional)
 competencies:
-  - "Observación científica"
-  - "Paciencia"
-  - "Conocimiento ecológico"
-responsible: "Scouter o guía de naturaleza"
-ods: "15"
-sdgs: "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Observación científica
+  - Paciencia
+  - Conocimiento ecológico
+responsible: Scouter o guía de naturaleza
+ods: 15
+sdgs: 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # SONIDOS Y SEÑALES

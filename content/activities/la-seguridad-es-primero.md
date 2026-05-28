@@ -1,35 +1,35 @@
 ﻿---
-title: "LA SEGURIDAD ES PRIMERO"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/la-seguridad-es-primero/"
+title: LA SEGURIDAD ES PRIMERO
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/la-seguridad-es-primero/
 description: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
 summary: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Cuaderno"
-  - "Lápiz"
-tools: "Ninguna"
+  - Cuaderno
+  - Lápiz
+tools: Ninguna
 competencies:
-  - "Conciencia de riesgos"
-  - "Organización"
-  - "Investigación"
-responsible: "Scouter o profesional forestal"
-ods: "8"
-sdgs: "8"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Conciencia de riesgos
+  - Organización
+  - Investigación
+responsible: Scouter o profesional forestal
+ods: 8
+sdgs: 8
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # LA SEGURIDAD ES PRIMERO

@@ -1,33 +1,33 @@
 ﻿---
-title: "BOSQUES ALREDEDOR DEL MUNDO"
-duration: "1 hora"
-layout: "layouts/activity.njk"
-permalink: "/activities/bosques-alrededor-del-mundo/"
+title: BOSQUES ALREDEDOR DEL MUNDO
+duration: 1 hora
+layout: layouts/activity.njk
+permalink: /activities/bosques-alrededor-del-mundo/
 description: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
 summary: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Mapa mundial"
-  - "Marcadores"
-  - "Lista de idiomas"
-tools: "Ninguna"
+  - Mapa mundial
+  - Marcadores
+  - Lista de idiomas
+tools: Ninguna
 competencies:
-  - "Conocimiento lingüístico"
-  - "Geografía cultural"
-responsible: "Scouter o profesor de idiomas"
-ods: "4"
-sdgs: "4"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Conocimiento lingüístico
+  - Geografía cultural
+responsible: Scouter o profesor de idiomas
+ods: 4
+sdgs: 4
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # BOSQUES ALREDEDOR DEL MUNDO

@@ -1,33 +1,33 @@
 ﻿---
-title: "LOS BOSQUES Y LAS NN. UU."
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/los-bosques-y-las-nn-uu/"
+title: LOS BOSQUES Y LAS NN. UU.
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/los-bosques-y-las-nn-uu/
 description: "Investiga el trabajo de dos agencias de la ONU relacionadas con bosques."
 summary: "Investiga el trabajo de dos agencias de la ONU relacionadas con bosques."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Acceso a internet o libros"
-  - "Papel para notas"
-tools: "Ninguna"
+  - Acceso a internet o libros
+  - Papel para notas
+tools: Ninguna
 competencies:
-  - "Investigación"
-  - "Conciencia global"
-  - "Análisis crítico"
-responsible: "Scouter o profesor de ciencias políticas"
-ods: "17"
-sdgs: "17"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Investigación
+  - Conciencia global
+  - Análisis crítico
+responsible: Scouter o profesor de ciencias políticas
+ods: 17
+sdgs: 17
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # LOS BOSQUES Y LAS NN. UU.

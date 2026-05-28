@@ -1,34 +1,34 @@
 ﻿---
-title: "EL DESTINO DE LOS BOSQUES"
-duration: "3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/el-destino-de-los-bosques/"
+title: EL DESTINO DE LOS BOSQUES
+duration: 3 horas
+layout: layouts/activity.njk
+permalink: /activities/el-destino-de-los-bosques/
 description: "Investiga la pérdida de cobertura forestal por continente y crea pósteres comparativos."
 summary: "Investiga la pérdida de cobertura forestal por continente y crea pósteres comparativos."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Mapas mundiales"
-  - "Datos estadísticos (en línea o libros)"
-  - "Marcadores"
-tools: "Ninguna"
+  - Mapas mundiales
+  - Datos estadísticos (en línea o libros)
+  - Marcadores
+tools: Ninguna
 competencies:
-  - "Análisis de datos"
-  - "Trabajo en equipo"
-  - "Geografía crítica"
-responsible: "Scouter o geógrafo"
-ods: "15"
-sdgs: "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Análisis de datos
+  - Trabajo en equipo
+  - Geografía crítica
+responsible: Scouter o geógrafo
+ods: 15
+sdgs: 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # EL DESTINO DE LOS BOSQUES

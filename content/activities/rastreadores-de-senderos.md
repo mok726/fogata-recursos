@@ -1,35 +1,35 @@
 ﻿---
-title: "RASTREADORES DE SENDEROS"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/rastreadores-de-senderos/"
+title: RASTREADORES DE SENDEROS
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/rastreadores-de-senderos/
 description: "Aprende símbolos de senderos y diseña una ruta para otro grupo."
 summary: "Aprende símbolos de senderos y diseña una ruta para otro grupo."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Materiales para marcar senderos (piedras, ramas)"
-  - "Cuaderno para registrar símbolos"
-tools: "Ninguna"
+  - Materiales para marcar senderos (piedras, ramas)
+  - Cuaderno para registrar símbolos
+tools: Ninguna
 competencies:
-  - "Trabajo en equipo"
-  - "Conocimiento tradicional"
-  - "Liderazgo"
-responsible: "Scouter o guía de senderismo"
-ods: "11"
-sdgs: "11"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Trabajo en equipo
+  - Conocimiento tradicional
+  - Liderazgo
+responsible: Scouter o guía de senderismo
+ods: 11
+sdgs: 11
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # RASTREADORES DE SENDEROS

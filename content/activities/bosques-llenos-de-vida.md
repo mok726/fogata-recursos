@@ -1,45 +1,45 @@
 ﻿---
-title: "BOSQUES LLENOS DE VIDA"
-duration: "3-4 horas (investigación + presentación)"
-layout: "layouts/activity.njk"
-permalink: "/activities/bosques-llenos-de-vida/"
+title: BOSQUES LLENOS DE VIDA
+duration: 3-4 horas (investigación + presentación)
+layout: layouts/activity.njk
+permalink: /activities/bosques-llenos-de-vida/
 description: |
   Actividad obligatoria para la categoría - LOS BOSQUES EN USO.
   Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas.
 summary: |
   Actividad obligatoria para la categoría - LOS BOSQUES EN USO.
   Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas.
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Libros o recursos en línea"
-  - "Materiales para presentación (cartulina, pinturas, etc.)"
+  - Libros o recursos en línea
+  - Materiales para presentación (cartulina, pinturas, etc.)
 tools:
-  - "Computadora (opcional para investigación)"
-  - "Cámara (opcional)"
+  - Computadora (opcional para investigación)
+  - Cámara (opcional)
 competencies:
-  - "Investigación"
-  - "Pensamiento crítico"
-  - "Comunicación creativa"
-responsible: "Scouter o líder de proyecto"
+  - Investigación
+  - Pensamiento crítico
+  - Comunicación creativa
+responsible: Scouter o líder de proyecto
 ods:
-  - "8"
-  - "15"
+  - 8
+  - 15
 sdgs:
-  - "8"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 8
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # BOSQUES LLENOS DE VIDA

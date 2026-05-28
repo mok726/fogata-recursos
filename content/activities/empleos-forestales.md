@@ -1,32 +1,32 @@
 ﻿---
-title: "EMPLEOS FORESTALES"
-duration: "1 hora"
-layout: "layouts/activity.njk"
-permalink: "/activities/empleos-forestales/"
+title: EMPLEOS FORESTALES
+duration: 1 hora
+layout: layouts/activity.njk
+permalink: /activities/empleos-forestales/
 description: "Enumera empleos vinculados a bosques y juega a adivinanzas con tu grupo."
 summary: "Enumera empleos vinculados a bosques y juega a adivinanzas con tu grupo."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Papel"
-  - "Lápiz"
-tools: "Ninguna"
+  - Papel
+  - Lápiz
+tools: Ninguna
 competencies:
-  - "Trabajo en equipo"
-  - "Conocimiento laboral"
-responsible: "Scouter"
-ods: "8"
-sdgs: "8"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Trabajo en equipo
+  - Conocimiento laboral
+responsible: Scouter
+ods: 8
+sdgs: 8
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # EMPLEOS FORESTALES

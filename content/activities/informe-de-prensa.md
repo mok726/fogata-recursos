@@ -1,37 +1,37 @@
 ﻿---
-title: "INFORME DE PRENSA"
-duration: "4-5 horas (entrevista + producción)"
-layout: "layouts/activity.njk"
-permalink: "/activities/informe-de-prensa/"
+title: INFORME DE PRENSA
+duration: 4-5 horas (entrevista + producción)
+layout: layouts/activity.njk
+permalink: /activities/informe-de-prensa/
 description: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
 summary: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Grabadora o cámara (opcional)"
-  - "Cuaderno"
-tools: "Ninguna"
+  - Grabadora o cámara (opcional)
+  - Cuaderno
+tools: Ninguna
 competencies:
-  - "Comunicación"
-  - "Empatía intercultural"
-  - "Periodismo ético"
-responsible: "Scouter o periodista"
+  - Comunicación
+  - Empatía intercultural
+  - Periodismo ético
+responsible: Scouter o periodista
 ods:
-  - "10"
-  - "16"
+  - 10
+  - 16
 sdgs:
-  - "10"
-  - "16"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 10
+  - 16
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # INFORME DE PRENSA

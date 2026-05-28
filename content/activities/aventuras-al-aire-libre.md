@@ -1,33 +1,33 @@
 ﻿---
-title: "AVENTURAS AL AIRE LIBRE"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/aventuras-al-aire-libre/"
+title: AVENTURAS AL AIRE LIBRE
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/aventuras-al-aire-libre/
 description: "Enumera actividades recreativas en bosques y crea una guía ilustrada."
 summary: "Enumera actividades recreativas en bosques y crea una guía ilustrada."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Papel"
-  - "Lápices de colores o fotos (opcional)"
-tools: "Ninguna"
+  - Papel
+  - Lápices de colores o fotos (opcional)
+tools: Ninguna
 competencies:
-  - "Planificación"
-  - "Creatividad"
-  - "Habilidades de supervivencia"
-responsible: "Scouter o guía outdoor"
-ods: "12"
-sdgs: "12"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Planificación
+  - Creatividad
+  - Habilidades de supervivencia
+responsible: Scouter o guía outdoor
+ods: 12
+sdgs: 12
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # AVENTURAS AL AIRE LIBRE

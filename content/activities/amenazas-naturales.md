@@ -1,39 +1,39 @@
 ﻿---
-title: "AMENAZAS NATURALES"
-duration: "2-3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/amenazas-naturales/"
+title: AMENAZAS NATURALES
+duration: 2-3 horas
+layout: layouts/activity.njk
+permalink: /activities/amenazas-naturales/
 description: "Investiga un desastre natural donde los bosques influyeron en su impacto y presenta un reportaje."
 summary: "Investiga un desastre natural donde los bosques influyeron en su impacto y presenta un reportaje."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Recursos sobre desastres naturales"
-  - "Materiales para presentación"
-tools: "Cámara o grabadora (opcional)"
+  - Recursos sobre desastres naturales
+  - Materiales para presentación
+tools: Cámara o grabadora (opcional)
 competencies:
-  - "Investigación"
-  - "Comunicación"
-  - "Pensamiento crítico"
-responsible: "Scouter o experto en gestión de riesgos"
+  - Investigación
+  - Comunicación
+  - Pensamiento crítico
+responsible: Scouter o experto en gestión de riesgos
 ods:
-  - "11"
-  - "13"
+  - 11
+  - 13
 sdgs:
-  - "11"
-  - "13"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 11
+  - 13
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # AMENAZAS NATURALES

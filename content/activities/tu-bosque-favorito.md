@@ -1,35 +1,35 @@
 ﻿---
-title: "TU BOSQUE FAVORITO"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/tu-bosque-favorito/"
+title: TU BOSQUE FAVORITO
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/tu-bosque-favorito/
 description: "Investiga un bosque icónico global, sus amenazas y acciones de conservación."
 summary: "Investiga un bosque icónico global, sus amenazas y acciones de conservación."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Fotos o artículos sobre el bosque"
-  - "Cartulina"
-tools: "Ninguna"
+  - Fotos o artículos sobre el bosque
+  - Cartulina
+tools: Ninguna
 competencies:
-  - "Investigación"
-  - "Diseño"
-  - "Advocacy"
-responsible: "Scouter o conservacionista"
-ods: "15"
-sdgs: "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Investigación
+  - Diseño
+  - Advocacy
+responsible: Scouter o conservacionista
+ods: 15
+sdgs: 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # TU BOSQUE FAVORITO

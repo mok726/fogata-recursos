@@ -1,37 +1,37 @@
 ﻿---
-title: "ECOTURISMO"
-duration: "4-5 horas (investigación + extensión)"
-layout: "layouts/activity.njk"
-permalink: "/activities/ecoturismo/"
+title: ECOTURISMO
+duration: 4-5 horas (investigación + extensión)
+layout: layouts/activity.njk
+permalink: /activities/ecoturismo/
 description: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
 summary: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Recursos de investigación"
-  - "Materiales para folleto (opcional)"
-tools: "Cámara (opcional)"
+  - Recursos de investigación
+  - Materiales para folleto (opcional)
+tools: Cámara (opcional)
 competencies:
-  - "Investigación"
-  - "Diseño gráfico"
-  - "Pensamiento empresarial"
-responsible: "Scouter o experto en turismo"
+  - Investigación
+  - Diseño gráfico
+  - Pensamiento empresarial
+responsible: Scouter o experto en turismo
 ods:
-  - "8"
-  - "12"
+  - 8
+  - 12
 sdgs:
-  - "8"
-  - "12"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 8
+  - 12
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # ECOTURISMO

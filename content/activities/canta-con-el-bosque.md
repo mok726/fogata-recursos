@@ -1,33 +1,33 @@
 ﻿---
-title: "CANTA CON EL BOSQUE"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/canta-con-el-bosque/"
+title: CANTA CON EL BOSQUE
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/canta-con-el-bosque/
 description: "Compón una canción sobre bosques y acompaña con instrumentos naturales."
 summary: "Compón una canción sobre bosques y acompaña con instrumentos naturales."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Instrumentos naturales (hojas, ramas, piedras)"
-  - "Grabadora (opcional)"
-tools: "Ninguna"
+  - Instrumentos naturales (hojas, ramas, piedras)
+  - Grabadora (opcional)
+tools: Ninguna
 competencies:
-  - "Creatividad musical"
-  - "Escucha activa"
-  - "Coordinación"
-responsible: "Scouter o músico"
-ods: "11"
-sdgs: "11"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Creatividad musical
+  - Escucha activa
+  - Coordinación
+responsible: Scouter o músico
+ods: 11
+sdgs: 11
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # CANTA CON EL BOSQUE

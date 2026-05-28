@@ -1,46 +1,46 @@
 ﻿---
-title: "LOS BOSQUES Y EL FUEGO"
-duration: "2-3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/los-bosques-y-el-fuego/"
+title: LOS BOSQUES Y EL FUEGO
+duration: 2-3 horas
+layout: layouts/activity.njk
+permalink: /activities/los-bosques-y-el-fuego/
 description: |
   Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Aprende a hacer fogatas seguras e investiga su importancia cultural.
 summary: |
   Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Aprende a hacer fogatas seguras e investiga su importancia cultural.
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Leña segura"
-  - "Alimentos para asar (opcional)"
-  - "Extintor o agua (seguridad)"
+  - Leña segura
+  - Alimentos para asar (opcional)
+  - Extintor o agua (seguridad)
 tools:
-  - "Cerillos o encendedor (manejado por adultos)"
-  - "Guantes resistentes al calor"
+  - Cerillos o encendedor (manejado por adultos)
+  - Guantes resistentes al calor
 competencies:
-  - "Supervivencia"
-  - "Conocimiento cultural"
-  - "Responsabilidad"
-responsible: "Scouter o experto en seguridad"
+  - Supervivencia
+  - Conocimiento cultural
+  - Responsabilidad
+responsible: Scouter o experto en seguridad
 ods:
-  - "11"
-  - "12"
+  - 11
+  - 12
 sdgs:
-  - "11"
-  - "12"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 11
+  - 12
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # LOS BOSQUES Y EL FUEGO

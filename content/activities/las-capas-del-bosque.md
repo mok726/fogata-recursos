@@ -1,32 +1,32 @@
 ﻿---
-title: "LAS CAPAS DEL BOSQUE"
-duration: "1 hora"
-layout: "layouts/activity.njk"
-permalink: "/activities/las-capas-del-bosque/"
+title: LAS CAPAS DEL BOSQUE
+duration: 1 hora
+layout: layouts/activity.njk
+permalink: /activities/las-capas-del-bosque/
 description: "Dibuja y etiqueta las capas verticales de un bosque (suelo, sotobosque, dosel, etc.)."
 summary: "Dibuja y etiqueta las capas verticales de un bosque (suelo, sotobosque, dosel, etc.)."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Papel"
-  - "Lápices de colores o marcadores"
-tools: "Ninguna"
+  - Papel
+  - Lápices de colores o marcadores
+tools: Ninguna
 competencies:
-  - "Conocimiento ecológico"
-  - "Expresión gráfica"
-responsible: "Scouter o educador ambiental"
-ods: "15"
-sdgs: "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Conocimiento ecológico
+  - Expresión gráfica
+responsible: Scouter o educador ambiental
+ods: 15
+sdgs: 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # LAS CAPAS DEL BOSQUE

@@ -1,37 +1,37 @@
 ﻿---
-title: "REDD+"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/redd/"
+title: REDD+
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/redd/
 description: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
 summary: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Equipo de grabación (opcional)"
-  - "Recursos sobre REDD+"
-tools: "Computadora (opcional)"
+  - Equipo de grabación (opcional)
+  - Recursos sobre REDD+
+tools: Computadora (opcional)
 competencies:
-  - "Comunicación"
-  - "Análisis crítico"
-  - "Conciencia climática"
-responsible: "Scouter o experto en políticas ambientales"
+  - Comunicación
+  - Análisis crítico
+  - Conciencia climática
+responsible: Scouter o experto en políticas ambientales
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 13
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # REDD+

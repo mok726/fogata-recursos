@@ -1,42 +1,42 @@
 ﻿---
-title: "PERDIENDO BIODIVERSIDAD"
-duration: "2-3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/perdiendo-biodiversidad/"
+title: PERDIENDO BIODIVERSIDAD
+duration: 2-3 horas
+layout: layouts/activity.njk
+permalink: /activities/perdiendo-biodiversidad/
 description: |
   Actividad obligatoria para la categoría - LOS BOSQUES EN PELIGRO.
   Investiga un animal forestal en peligro de extinción y diseña un póster de conservación.
 summary: |
   Actividad obligatoria para la categoría - LOS BOSQUES EN PELIGRO.
   Investiga un animal forestal en peligro de extinción y diseña un póster de conservación.
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "manada"
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - manada
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Papel para póster"
-  - "Lápices de colores o marcadores"
-  - "Recursos sobre especies en peligro"
-tools: "Ninguna"
+  - Papel para póster
+  - Lápices de colores o marcadores
+  - Recursos sobre especies en peligro
+tools: Ninguna
 competencies:
-  - "Investigación científica"
-  - "Diseño gráfico"
-  - "Empatía ecológica"
-responsible: "Scouter o biólogo invitado"
-ods: "15"
-sdgs: "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Investigación científica
+  - Diseño gráfico
+  - Empatía ecológica
+responsible: Scouter o biólogo invitado
+ods: 15
+sdgs: 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # PERDIENDO BIODIVERSIDAD

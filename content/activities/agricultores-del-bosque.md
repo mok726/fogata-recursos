@@ -1,37 +1,37 @@
 ﻿---
-title: "AGRICULTORES DEL BOSQUE"
-duration: "2-3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/agricultores-del-bosque/"
+title: AGRICULTORES DEL BOSQUE
+duration: 2-3 horas
+layout: layouts/activity.njk
+permalink: /activities/agricultores-del-bosque/
 description: "Investiga cultivos forestales y representa su impacto en la biodiversidad."
 summary: "Investiga cultivos forestales y representa su impacto en la biodiversidad."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Materiales para modelo o cómic"
-  - "Recursos sobre agricultura forestal"
-tools: "Ninguna"
+  - Materiales para modelo o cómic
+  - Recursos sobre agricultura forestal
+tools: Ninguna
 competencies:
-  - "Investigación"
-  - "Creatividad"
-  - "Conciencia agrícola"
-responsible: "Scouter o agrónomo"
+  - Investigación
+  - Creatividad
+  - Conciencia agrícola
+responsible: Scouter o agrónomo
 ods:
-  - "2"
-  - "15"
+  - 2
+  - 15
 sdgs:
-  - "2"
-  - "15"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - 2
+  - 15
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # AGRICULTORES DEL BOSQUE

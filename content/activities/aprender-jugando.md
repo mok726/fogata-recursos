@@ -1,33 +1,33 @@
 ﻿---
-title: "APRENDER JUGANDO"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/aprender-jugando/"
+title: APRENDER JUGANDO
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/aprender-jugando/
 description: "Investiga juegos tradicionales de culturas forestales y juega tres de ellos."
 summary: "Investiga juegos tradicionales de culturas forestales y juega tres de ellos."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Materiales para juegos (cuerdas, pelotas, etc.)"
-  - "Información sobre juegos tradicionales"
-tools: "Ninguna"
+  - Materiales para juegos (cuerdas, pelotas, etc.)
+  - Información sobre juegos tradicionales
+tools: Ninguna
 competencies:
-  - "Trabajo en equipo"
-  - "Conocimiento intercultural"
-  - "Coordinación física"
-responsible: "Scouter o líder de juegos"
-ods: "4"
-sdgs: "4"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Trabajo en equipo
+  - Conocimiento intercultural
+  - Coordinación física
+responsible: Scouter o líder de juegos
+ods: 4
+sdgs: 4
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # APRENDER JUGANDO

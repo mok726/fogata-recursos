@@ -1,33 +1,33 @@
 ﻿---
-title: "BOSQUES SAGRADOS"
-duration: "2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/bosques-sagrados/"
+title: BOSQUES SAGRADOS
+duration: 2 horas
+layout: layouts/activity.njk
+permalink: /activities/bosques-sagrados/
 description: "Investiga tres comunidades que consideren sagrados a los bosques."
 summary: "Investiga tres comunidades que consideren sagrados a los bosques."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 age_group:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
 materials:
-  - "Recursos sobre culturas y religiones"
-  - "Cuaderno"
-tools: "Ninguna"
+  - Recursos sobre culturas y religiones
+  - Cuaderno
+tools: Ninguna
 competencies:
-  - "Investigación intercultural"
-  - "Respeto religioso"
-  - "Pensamiento crítico"
-responsible: "Scouter o líder religioso"
-ods: "16"
-sdgs: "16"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Investigación intercultural
+  - Respeto religioso
+  - Pensamiento crítico
+responsible: Scouter o líder religioso
+ods: 16
+sdgs: 16
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # BOSQUES SAGRADOS

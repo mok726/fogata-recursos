@@ -1,35 +1,35 @@
 ﻿---
-title: "LA VIDA EN LOS ÁRBOLES"
-duration: "3 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/la-vida-en-los-arboles/"
+title: LA VIDA EN LOS ÁRBOLES
+duration: 3 horas
+layout: layouts/activity.njk
+permalink: /activities/la-vida-en-los-arboles/
 description: "Investiga culturas que construyen casas en árboles y haz una réplica."
 summary: "Investiga culturas que construyen casas en árboles y haz una réplica."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 age_group:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
+  - scouts
+  - caminantes
+  - rovers
 materials:
-  - "Materiales para maqueta (palos, hojas, etc.)"
-  - "Pegamento"
-tools: "Tijeras"
+  - Materiales para maqueta (palos, hojas, etc.)
+  - Pegamento
+tools: Tijeras
 competencies:
-  - "Investigación cultural"
-  - "Habilidades manuales"
-  - "Diseño"
-responsible: "Scouter o arquitecto"
-ods: "11"
-sdgs: "11"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Investigación cultural
+  - Habilidades manuales
+  - Diseño
+responsible: Scouter o arquitecto
+ods: 11
+sdgs: 11
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # LA VIDA EN LOS ÁRBOLES

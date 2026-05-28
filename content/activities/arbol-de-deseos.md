@@ -1,34 +1,34 @@
 ﻿---
-title: "ÁRBOL DE DESEOS"
-duration: "1-2 horas"
-layout: "layouts/activity.njk"
-permalink: "/activities/arbol-de-deseos/"
+title: ÁRBOL DE DESEOS
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/arbol-de-deseos/
 description: "Crea un collage con deseos escritos en materiales naturales del bosque."
 summary: "Crea un collage con deseos escritos en materiales naturales del bosque."
-author: "Mariano Cosentino"
-source: "Fogata de Recursos"
+author: Mariano Cosentino
+source: Fogata de Recursos
 branch:
-  - "Naturaleza"
+  - Naturaleza
 age:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 age_group:
-  - "manada"
-  - "scouts"
+  - manada
+  - scouts
 materials:
-  - "Hojas, corteza, piedras planas"
-  - "Pegamento no tóxico"
-  - "Marcadores ecológicos"
-tools: "Ninguna"
+  - Hojas, corteza, piedras planas
+  - Pegamento no tóxico
+  - Marcadores ecológicos
+tools: Ninguna
 competencies:
-  - "Creatividad"
-  - "Reflexión grupal"
-  - "Conciencia ecológica"
-responsible: "Scouter o líder artístico"
-ods: "11"
-sdgs: "11"
-activity_badges: "bosques"
-tags: "Insignia de los Bosques"
+  - Creatividad
+  - Reflexión grupal
+  - Conciencia ecológica
+responsible: Scouter o líder artístico
+ods: 11
+sdgs: 11
+activity_badges: bosques
+tags: Insignia de los Bosques
 ---
 
 # ÁRBOL DE DESEOS
