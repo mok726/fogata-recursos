@@ -1,21 +1,30 @@
 ﻿---
-title: "Saneamiento en el Suelo"
-duration: "1-2 horas"
+title: Saneamiento en el Suelo
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/saneamiento-en-el-suelo/
+description: "Investiga cómo el suelo filtra el agua."
+summary: "Investiga cómo el suelo filtra el agua."
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "scouts"
-  - "caminantes"
-  - "rovers"
-materials:
-  - "Muestras de suelo * Agua * Recipientes"
-tools:
-  - "Ninguna"
-competencies:
-  - "Investigación * Conciencia científica"
-responsible: "Maestro/Dirigente"
-ods:
-  - "15"
-tags:
-  - "Insignia de los Suelos"
+  - scouts
+  - caminantes
+  - rovers
+age_group:
+  - scouts
+  - caminantes
+  - rovers
+materials: Muestras de suelo * Agua * Recipientes
+tools: Ninguna
+competencies: Investigación * Conciencia científica
+responsible: Maestro/Dirigente
+ods: "15"
+sdgs: "15"
+activity_badges: suelos
+tags: Insignia de los Suelos
 ---
 
 # Saneamiento en el Suelo
@@ -28,4 +37,3 @@ Recolecta muestras de suelo y realiza un experimento para ver cómo el suelo rem
 
 ## Cierre
 Discute cómo el suelo actúa como un filtro natural.
-
