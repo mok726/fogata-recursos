@@ -1,22 +1,32 @@
 ﻿---
-title: "Debate Comunitario"
-duration: "120"
+title: Debate Comunitario
+duration: 120
+layout: layouts/activity.njk
+permalink: /activities/debate-comunitario/
+description: "Simula un debate entre sectores (gobierno, empresas) sobre un tema energético local."
+summary: "Simula un debate entre sectores (gobierno, empresas) sobre un tema energético local."
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
+  - caminantes
+  - rovers
+age_group:
+  - caminantes
+  - rovers
 materials:
-  - "Roles predefinidos"
-  - "Datos locales"
-tools:
-  - "Ninguna"
+  - Roles predefinidos
+  - Datos locales
+tools: Ninguna
 competencies:
-  - "Negociación"
-  - "Ciudadanía activa"
-responsible: "Educador Scout/ Guiadora AGA"
-ods:
-  - "17"
-tags:
-  - "Insignia de Energía"
+  - Negociación
+  - Ciudadanía activa
+responsible: Educador Scout/ Guiadora AGA
+ods: "17"
+sdgs: "17"
+activity_badges: insigniadeenergía
+tags: Insignia de Energía
 ---
 
 # Debate Comunitario
@@ -25,8 +35,8 @@ tags:
 Simula un debate entre sectores (gobierno, empresas) sobre un tema energético local.
 
 ## Desarrollo
-Divididos en equipos, representen distintos actores (ej: alcaldía, ONG). Argumenten sobre un proyecto (ej: instalación de paneles solares).
+Divididos en equipos, representen distintos actores (ej: alcaldía, ONG).
+Argumenten sobre un proyecto (ej: instalación de paneles solares).
 
 ## Cierre
 ¿Lograron un consenso? ¿Qué aprendieron?
-

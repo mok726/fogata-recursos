@@ -26,8 +26,7 @@ competencies:
 responsible: Scouter o líder religioso
 ods: "16"
 sdgs: "16"
-activity_badges:
-  - bosques
+activity_badges: bosques
 tags: Insignia de los Bosques
 ---
 

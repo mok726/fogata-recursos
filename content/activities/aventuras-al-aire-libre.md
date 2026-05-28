@@ -26,8 +26,7 @@ competencies:
 responsible: Scouter o guía outdoor
 ods: "12"
 sdgs: "12"
-activity_badges:
-  - bosques
+activity_badges: bosques
 tags: Insignia de los Bosques
 ---
 
