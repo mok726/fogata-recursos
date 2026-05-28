@@ -24,6 +24,7 @@
   "homepage": "https://github.com/mok726/fogata-recursos#readme",
   "devDependencies": {
     "@11ty/eleventy": "^3.1.5",
+    "@quasibit/eleventy-plugin-sitemap": "^2.2.0",
     "pagefind": "^1.5.2"
   }
 }

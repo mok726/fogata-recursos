@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="{{ site.language }}">
 
 <head>
 
@@ -9,25 +9,111 @@
     name="viewport"
     content="width=device-width, initial-scale=1.0">
 
-  <title>
-
+  {% set pageTitle %}
     {% if title %}
-
-      {{ title }} - Fogata de Recursos
-
+      {{ title }} - {{ site.name }}
     {% else %}
-
-      Fogata de Recursos
-
+      {{ site.name }}
     {% endif %}
+  {% endset %}
 
+  {% set pageDescription %}
+    {% if description %}
+      {{ description }}
+    {% else %}
+      {{ site.description }}
+    {% endif %}
+  {% endset %}
+
+  {% set canonicalUrl %}
+    {{ site.url }}{{ page.url | url }}
+  {% endset %}
+
+  <title>
+    {{ pageTitle | trim }}
   </title>
 
   <meta
     name="description"
-    content="Biblioteca scout de actividades, juegos y recursos educativos reutilizables.">
+    content="{{ pageDescription | trim }}">
 
-<link rel="stylesheet" href="{{ '/css/main.css' | url }}">
+  <meta
+    name="theme-color"
+    content="#355b38">
+
+  <meta
+    name="author"
+    content="{{ site.author }}">
+
+  <link
+    rel="canonical"
+    href="{{ canonicalUrl | trim }}">
+
+  <link
+    rel="icon"
+    type="image/png"
+    href="{{ '/imagenes/favicon.png' | url }}">
+
+  <!-- OpenGraph -->
+
+  <meta
+    property="og:type"
+    content="website">
+
+  <meta
+    property="og:site_name"
+    content="{{ site.name }}">
+
+  <meta
+    property="og:title"
+    content="{{ pageTitle | trim }}">
+
+  <meta
+    property="og:description"
+    content="{{ pageDescription | trim }}">
+
+  <meta
+    property="og:url"
+    content="{{ canonicalUrl | trim }}">
+
+  <meta
+    property="og:image"
+    content="{{ site.url }}{{ '/imagenes/social-preview.jpg' | url }}">
+
+  <!-- Twitter -->
+
+  <meta
+    name="twitter:card"
+    content="summary_large_image">
+
+  <meta
+    name="twitter:title"
+    content="{{ pageTitle | trim }}">
+
+  <meta
+    name="twitter:description"
+    content="{{ pageDescription | trim }}">
+
+  <meta
+    name="twitter:image"
+    content="{{ site.url }}{{ '/imagenes/social-preview.jpg' | url }}">
+
+  <!-- Performance -->
+
+  <link
+    rel="preconnect"
+    href="https://fonts.googleapis.com">
+
+  <link
+    rel="preconnect"
+    href="https://fonts.gstatic.com"
+    crossorigin>
+
+  <!-- CSS -->
+
+  <link
+    rel="stylesheet"
+    href="{{ '/css/main.css' | url }}">
 
 </head>
 
@@ -43,9 +129,10 @@
 
   {% include "components/footer.njk" %}
 
-<script src="{{ '/pagefind/pagefind-ui.js' | url }}"></script>
+  <script
+    src="{{ '/pagefind/pagefind-ui.js' | url }}">
+  </script>
 
 </body>
 
 </html>
-

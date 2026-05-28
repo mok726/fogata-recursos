@@ -190,3 +190,55 @@
 }
 
 
+/* =========================
+   HOVER IMPROVEMENTS
+========================= */
+
+.grid a:hover .card h2,
+.grid a:hover .card h3 {
+  color: #355b38;
+}
+
+/* =========================
+   FEATURED CARD EMPHASIS
+========================= */
+
+.featured-section .card {
+  border:
+    1px solid rgba(53,91,56,0.08);
+}
+
+/* =========================
+   EMPTY STATES
+========================= */
+
+.empty-state {
+  background: white;
+
+  border-radius: 20px;
+
+  padding:
+    3rem
+    2rem;
+
+  margin-top: 2rem;
+
+  text-align: center;
+
+  box-shadow:
+    0 2px 10px rgba(0,0,0,0.06);
+}
+
+.empty-state h2 {
+  margin-top: 0;
+}
+
+.empty-state p {
+  max-width: 50ch;
+
+  margin:
+    1rem auto 0;
+
+  color: #667067;
+}
+

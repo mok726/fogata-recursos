@@ -1,8 +1,18 @@
+const sitemapPlugin =
+  require("@quasibit/eleventy-plugin-sitemap");
+
+const site =
+  require("./content/_data/site.js");
+
 module.exports = function(eleventyConfig) {
 
-  eleventyConfig.addPassthroughCopy("content/css");
+  eleventyConfig.addPassthroughCopy(
+    "content/css"
+  );
 
-  eleventyConfig.addPassthroughCopy("imagenes");
+  eleventyConfig.addPassthroughCopy(
+    "imagenes"
+  );
 
   eleventyConfig.addCollection(
     "activities",
@@ -16,9 +26,20 @@ module.exports = function(eleventyConfig) {
     }
   );
 
+  eleventyConfig.addPlugin(
+    sitemapPlugin,
+    {
+      sitemap: {
+        hostname:
+          `${site.url}${site.pathPrefix}/`
+      }
+    }
+  );
+
   return {
 
-    pathPrefix: "/fogata-recursos/",
+    pathPrefix:
+      site.pathPrefix,
 
     dir: {
       input: "content",
@@ -29,5 +50,3 @@ module.exports = function(eleventyConfig) {
   };
 
 };
-
-
