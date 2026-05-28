@@ -35,24 +35,24 @@ permalink: /activities/
 
 <div class="grid" id="activities-grid">
 
-{% for activity in collections.activities | reverse %}
+{% for activity in collections.activitiesSorted | reverse %}
 
-  <a
-    href="{{ activity.url  | url }}"
-    class="searchable-card"
-    data-title="{{ activity.data.title | lower }}"
-    data-description="{{ activity.data.description | default('') | lower }}"
-data-age="{{ (activity.data.age_group or []) | join(' ') | lower }}"
-data-badges="{{ (activity.data.activity_badges or []) | dump | lower }}"
-data-sdgs="{{ (activity.data.sdgs or []) | dump | lower }}">
+<div
+  class="searchable-card"
+  data-title="{{ activity.data.title | lower }}"
+  data-description="{{ activity.data.description | default('') | lower }}"
+  data-age="{{ (activity.data.age_group or []) | join(' ') | lower }}"
+  data-badges="{{ (activity.data.activity_badges or []) | dump | lower }}"
+  data-sdgs="{{ (activity.data.sdgs or []) | dump | lower }}">
+{% set item = activity.data %}
+{% set activityUrl = activity.url %}
+  {% include "components/activity-card.njk" %}
 
-    {% include "components/activity-card.njk" %}
-
-  </a>
-
+</div>
 {% endfor %}
 
 </div>
+
 
 <script>
 
@@ -65,22 +65,40 @@ const cards =
 const count =
   document.getElementById("activity-count");
 
-function runSearch() {
-
-  const params =
-    new URLSearchParams(window.location.search);
-
-  if (params.get("search") && !searchInput.value) {
-
-    searchInput.value =
-      params.get("search");
-
-  }
+function runSearch(updateUrl = true) {
 
   const query =
     searchInput.value
       .toLowerCase()
       .trim();
+
+  if (updateUrl) {
+
+    const url =
+      new URL(window.location);
+
+    if (query.length > 0) {
+
+      url.searchParams.set(
+        "search",
+        query
+      );
+
+    } else {
+
+      url.searchParams.delete(
+        "search"
+      );
+
+    }
+
+    window.history.replaceState(
+      {},
+      "",
+      url
+    );
+
+  }
 
   let visible = 0;
 
@@ -153,16 +171,27 @@ function runSearch() {
     document
       .getElementById("activities-grid")
       .after(empty);
-
   }
+
+}
+
+const params =
+  new URLSearchParams(
+    window.location.search
+  );
+
+if (params.get("search")) {
+
+  searchInput.value =
+    params.get("search");
 
 }
 
 searchInput.addEventListener(
   "input",
-  runSearch
+  () => runSearch(true)
 );
 
-runSearch();
+runSearch(false);
 
 </script>

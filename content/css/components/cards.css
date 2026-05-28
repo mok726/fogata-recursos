@@ -242,3 +242,62 @@
   color: #667067;
 }
 
+/* =========================
+   AGE CHIPS
+========================= */
+
+.age-chip {
+  text-decoration: none;
+
+  transition:
+    transform 0.15s ease,
+    opacity 0.15s ease;
+}
+
+.age-chip:hover {
+  transform: translateY(-2px);
+
+  opacity: 0.9;
+}
+
+/* =========================
+   BADGE LINKS
+========================= */
+
+.activity-card-badge {
+  transition:
+    transform 0.15s ease;
+}
+
+.activity-card-badge:hover {
+  transform: scale(1.05);
+}
+
+/* =========================
+   BETTER CARDS
+========================= */
+
+.activity-card {
+  border:
+    1px solid rgba(0,0,0,0.04);
+}
+
+.activity-card .card-content {
+  gap: 0.8rem;
+}
+
+.activity-card h3 {
+  margin-bottom: 0;
+}
+
+
+.card-title-link,
+.card-description-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.card-title-link:hover {
+  text-decoration: underline;
+}
+

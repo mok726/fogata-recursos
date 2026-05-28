@@ -28,7 +28,8 @@ competencies:
 responsible: Scouter o profesor de literatura
 ods: "4"
 sdgs: "4"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

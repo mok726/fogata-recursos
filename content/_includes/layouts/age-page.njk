@@ -20,17 +20,23 @@ layout: layouts/base.njk
 
 <div class="grid">
 
-  {% for activity in collections.activities %}
+  {% for activity in collections.activitiesSorted %}
 
-    {% if activity.data.age_group and (age.name in activity.data.age_group) %}
+    {% if activity.data.age_group %}
 
-      <a href="{{ activity.url  | url }}">
+      {% for item in activity.data.age_group %}
 
-        {% set activity = activity %}
+        {% set ageInfo = item | normalizeAge(ageGroups) %}
 
-        {% include "components/activity-card.njk" %}
+        {% if ageInfo.id == age.id %}
 
-      </a>
+{% set item = activity.data %}
+{% set activityUrl = activity.url %}
+          {% include "components/activity-card.njk" %}
+
+        {% endif %}
+
+      {% endfor %}
 
     {% endif %}
 

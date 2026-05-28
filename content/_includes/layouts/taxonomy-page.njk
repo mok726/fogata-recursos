@@ -38,15 +38,10 @@ layout: layouts/base.njk
 
   {% for activityItem in activities %}
 
-    <a href="{{ activityItem.url  | url }}">
-
-      {% include "components/activity-card.njk" %}
-
-    </a>
+{% set item = activityItem.data %}
+{% set activityUrl = activityItem.url %}
+    {% include "components/activity-card.njk" %}
 
   {% endfor %}
 
 </div>
-
-
-

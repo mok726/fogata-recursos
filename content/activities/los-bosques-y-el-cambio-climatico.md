@@ -26,7 +26,8 @@ competencies:
 responsible: Scouter o climatólogo
 ods: "13"
 sdgs: "13"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

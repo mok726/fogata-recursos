@@ -1,6 +1,7 @@
-{% set item = activity.data %}
-
-<div class="card activity-card">
+<a
+  class="card activity-card"
+  href="{{ activityUrl | url }}"
+>
 
   {% if item.activity_badges and item.activity_badges.length %}
 
@@ -14,14 +15,14 @@
     {% else %}
 
       {% set badgeId = rawBadge | slugify %}
-      {% set badgeName = rawBadge %}
+      {% set badgeName = rawBadge | smartTitle %}
 
     {% endif %}
 
     <div class="activity-card-badge">
 
       <img
-src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
+        src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
         alt="{{ badgeName }}">
 
     </div>
@@ -31,7 +32,7 @@ src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
   <div class="card-content">
 
     <h3>
-      {{ item.title }}
+      {{ item.title | smartTitle }}
     </h3>
 
     {% if item.description %}
@@ -48,8 +49,18 @@ src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
 
         {% for age in item.age_group.slice(0,2) %}
 
-          <span class="chip">
-            {{ age }}
+          {% set ageInfo = age | normalizeAge(ageGroups) %}
+
+          <span
+            class="chip age-chip"
+            style="
+              background: {{ ageInfo.color }}22;
+              color: {{ ageInfo.color }};
+            "
+          >
+
+            {{ ageInfo.name }}
+
           </span>
 
         {% endfor %}
@@ -68,5 +79,6 @@ src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
 
   </div>
 
-</div>
+</a>
+
 

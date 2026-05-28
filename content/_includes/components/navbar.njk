@@ -1,10 +1,18 @@
 <nav class="navbar">
 
-  <a href="{{ '/' | url }}">
-    Fogata de Recursos
-  </a>
+  <div class="navbar-left">
 
-  <div class="nav-links">
+    <a
+      class="navbar-brand"
+      href="{{ '/' | url }}">
+
+      🔥 Fogata de Recursos
+
+    </a>
+
+  </div>
+
+  <div class="navbar-center">
 
     <a href="{{ '/activities/' | url }}">
       Actividades
@@ -24,6 +32,16 @@
 
   </div>
 
+  <div class="navbar-right">
+
+    <a
+      class="search-button"
+      href="{{ '/activities/' | url }}">
+
+      Buscar
+
+    </a>
+
+  </div>
+
 </nav>
-
-

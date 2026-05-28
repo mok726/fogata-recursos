@@ -5,7 +5,7 @@ layout: layouts/base.njk
 <section class="page-header">
 
   <img
-src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
+    src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
     alt="{{ badge.name }}">
 
   <div>
@@ -14,38 +14,79 @@ src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
       {{ badge.name }}
     </h1>
 
-    <p>
-      Actividades relacionadas con la insignia {{ badge.name }}.
-    </p>
+    {% if badge.description %}
+
+      <p>
+        {{ badge.description }}
+      </p>
+
+    {% endif %}
 
   </div>
 
 </section>
 
-<div class="grid">
+{% if badge.sources and badge.sources.length %}
 
-  {% for activity in collections.activities %}
+  <section class="info-box">
 
-    {% if activity.data.activity_badges %}
+    <h2>
+      Fuentes y referencias
+    </h2>
 
-      {% for item in activity.data.activity_badges %}
+    <ul>
 
-        {% if item | slugify == badge.id %}
+      {% for source in badge.sources %}
 
-          <a href="{{ activity.url  | url }}">
+        <li>
 
-            {% set activity = activity %}
+          <a
+            href="{{ source.url }}"
+            target="_blank"
+            rel="noopener">
 
-            {% include "components/activity-card.njk" %}
+            {{ source.name }}
 
           </a>
 
-        {% endif %}
+        </li>
 
       {% endfor %}
 
-    {% endif %}
+    </ul>
 
-  {% endfor %}
+  </section>
 
-</div>
+{% endif %}
+
+<section class="section-spacing">
+
+  <h2>
+    Actividades relacionadas
+  </h2>
+
+  <div class="grid">
+
+    {% for activity in collections.activitiesSorted %}
+
+      {% if activity.data.activity_badges %}
+
+        {% for item in activity.data.activity_badges %}
+
+          {% if (item | slugify) == (badge.id | slugify) %}
+
+{% set item = activity.data %}
+{% set activityUrl = activity.url %}
+{% include "components/activity-card.njk" %}
+          {% endif %}
+
+        {% endfor %}
+
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</section>
+

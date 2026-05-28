@@ -30,7 +30,8 @@ ods:
 sdgs:
   - "16"
   - "17"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

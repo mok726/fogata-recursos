@@ -26,7 +26,8 @@ competencies:
 responsible: Scouter o líder de grupo
 ods: "15"
 sdgs: "15"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

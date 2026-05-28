@@ -26,7 +26,8 @@ competencies:
 responsible: Scouter o líder deportivo
 ods: "3"
 sdgs: "3"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

@@ -225,16 +225,14 @@ input.addEventListener("input", async () => {
 
   <div class="grid">
 
-    {% for activityItem in collections.activities | reverse %}
+{% for activityItem in collections.activitiesSorted %}
 
       {% if loop.index <= 3 %}
 
-        <a href="{{ activityItem.url | url  }}">
+{% set item = activityItem.data %}
+{% set activityUrl = activityItem.url %}
 
-          {% include "components/activity-card.njk" %}
-
-        </a>
-
+{% include "components/activity-card.njk" %}
       {% endif %}
 
     {% endfor %}

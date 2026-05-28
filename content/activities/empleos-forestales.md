@@ -25,7 +25,8 @@ competencies:
 responsible: Scouter
 ods: "8"
 sdgs: "8"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

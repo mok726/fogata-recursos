@@ -42,7 +42,8 @@ competencies:
 responsible: Scouter o educador ambiental
 ods: "15"
 sdgs: "15"
-activity_badges: bosques
+activity_badges:
+  - bosques
 tags: Insignia de los Bosques
 ---
 

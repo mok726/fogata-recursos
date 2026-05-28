@@ -24,17 +24,13 @@ src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
 
 <div class="grid">
 
-  {% for activity in collections.activities %}
+  {% for activity in collections.activitiesSorted %}
 
     {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
 
-      <a href="{{ activity.url  | url }}">
-
-        {% set activity = activity %}
-
-        {% include "components/activity-card.njk" %}
-
-      </a>
+{% set item = activity.data %}
+{% set activityUrl = activity.url %}
+{% include "components/activity-card.njk" %}
 
     {% endif %}
 

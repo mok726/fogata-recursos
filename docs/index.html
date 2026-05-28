@@ -3,6 +3,10 @@
 
 <head>
 
+<meta
+  name="generator"
+  content="Eleventy">
+
   <meta charset="UTF-8">
 
   <meta
@@ -107,11 +111,19 @@
 
   <nav class="navbar">
 
-  <a href="/fogata-recursos/">
-    Fogata de Recursos
-  </a>
+  <div class="navbar-left">
 
-  <div class="nav-links">
+    <a
+      class="navbar-brand"
+      href="/fogata-recursos/">
+
+      🔥 Fogata de Recursos
+
+    </a>
+
+  </div>
+
+  <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
       Actividades
@@ -131,9 +143,19 @@
 
   </div>
 
+  <div class="navbar-right">
+
+    <a
+      class="search-button"
+      href="/fogata-recursos/activities/">
+
+      Buscar
+
+    </a>
+
+  </div>
+
 </nav>
-
-
 
 
   <main class="page-container">
@@ -360,22 +382,24 @@ input.addEventListener("input", async () => {
 
   <div class="grid">
 
-    
+
 
       
 
-        <a href="/fogata-recursos/activities/usando-la-madera/">
 
-          
 
-<div class="card activity-card">
+
+<a
+  class="card activity-card"
+  href="/fogata-recursos/activities/al-blog/"
+>
 
   
 
   <div class="card-content">
 
     <h3>
-      
+      ¡Al Blog!
     </h3>
 
     
@@ -386,15 +410,19 @@ input.addEventListener("input", async () => {
 
       
 
+        <span class="chip">
+          Varias horas (depende del blog)
+        </span>
+
+      
+
     </div>
 
   </div>
 
-</div>
+</a>
 
 
-
-        </a>
 
       
 
@@ -402,18 +430,127 @@ input.addEventListener("input", async () => {
 
       
 
-        <a href="/fogata-recursos/activities/un-bosque-para-todas-las-estaciones/">
 
-          
 
-<div class="card activity-card">
+
+<a
+  class="card activity-card"
+  href="/fogata-recursos/activities/biopiratas/"
+>
+
+  
+
+    
+
+    
+
+      
+      
+
+    
+
+    <div class="activity-card-badge">
+
+      <img
+        src="/fogata-recursos/imagenes/insignias/bosques.png"
+        alt="Bosques">
+
+    </div>
 
   
 
   <div class="card-content">
 
     <h3>
+      ¡Biopiratas!
+    </h3>
+
+    
+
+      <p>
+        Organiza un debate sobre bioprospección vs.
+biopiratería en medicina tradicional.
+
+      </p>
+
+    
+
+    <div class="card-meta">
+
       
+
+        
+
+          
+
+          <span
+            class="chip age-chip"
+            style="
+              background: #1976d222;
+              color: #1976d2;
+            "
+          >
+
+            Caminantes
+
+          </span>
+
+        
+
+          
+
+          <span
+            class="chip age-chip"
+            style="
+              background: #c6282822;
+              color: #c62828;
+            "
+          >
+
+            Rovers
+
+          </span>
+
+        
+
+      
+
+      
+
+        <span class="chip">
+          2 horas
+        </span>
+
+      
+
+    </div>
+
+  </div>
+
+</a>
+
+
+
+      
+
+    
+
+      
+
+
+
+
+<a
+  class="card activity-card"
+  href="/fogata-recursos/activities/caminando-con-gafas-de-alimentos-puestas/"
+>
+
+  
+
+  <div class="card-content">
+
+    <h3>
+      ¡Caminando Con Gafas De Alimentos Puestas!
     </h3>
 
     
@@ -424,41 +561,9 @@ input.addEventListener("input", async () => {
 
       
 
-    </div>
-
-  </div>
-
-</div>
-
-
-
-        </a>
-
-      
-
-    
-
-      
-
-        <a href="/fogata-recursos/activities/tu-deporte/">
-
-          
-
-<div class="card activity-card">
-
-  
-
-  <div class="card-content">
-
-    <h3>
-      
-    </h3>
-
-    
-
-    <div class="card-meta">
-
-      
+        <span class="chip">
+          1 hora
+        </span>
 
       
 
@@ -466,11 +571,9 @@ input.addEventListener("input", async () => {
 
   </div>
 
-</div>
+</a>
 
 
-
-        </a>
 
       
 
@@ -2740,31 +2843,65 @@ input.addEventListener("input", async () => {
 
   <footer class="footer">
 
-  <p>
-    Fogata de Recursos
-  </p>
+  <div class="footer-grid">
 
-  <p>
-    Recursos educativos scouts abiertos y reutilizables.
-  </p>
+    <div>
 
-  <div class="footer-links">
+      <h3>
+        Fogata de Recursos
+      </h3>
 
-    <a href="/fogata-recursos/activities/">
-      Actividades
-    </a>
+      <p>
+        Biblioteca abierta de actividades scouts,
+        recursos educativos y propuestas pedagógicas.
+      </p>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    </div>
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+    <div>
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+      <h4>
+        Explorar
+      </h4>
+
+      <div class="footer-links">
+
+        <a href="/fogata-recursos/activities/">
+          Actividades
+        </a>
+
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+      </div>
+
+    </div>
+
+    <div>
+
+      <h4>
+        Proyecto
+      </h4>
+
+      <p>
+        Repositorio educativo scout reutilizable
+        pensado para dirigentes, docentes y comunidades.
+      </p>
+
+      <p>
+        © Fogata de Recursos
+      </p>
+
+    </div>
 
   </div>
 
