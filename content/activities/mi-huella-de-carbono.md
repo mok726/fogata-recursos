@@ -1,21 +1,32 @@
 ﻿---
-title: "Mi Huella de Carbono"
-duration: "30"
+title: Mi Huella de Carbono
+duration: 30
+layout: layouts/activity.njk
+permalink: /activities/mi-huella-de-carbono/
+description: "Juego para identificar acciones personales contra el cambio climático."
+summary: "Juego para identificar acciones personales contra el cambio climático."
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "manada"
+  - castores
+  - manada
+age_group:
+  - castores
+  - manada
 materials:
-  - "Pelota"
-  - "Música"
-tools:
-  - "Reproductor de audio"
+  - Pelota
+  - Música
+tools: Reproductor de audio
 competencies:
-  - "Conciencia climática"
-  - "Rapidez mental"
-responsible: "Educador Scout/ Guiadora AGA"
-ods:
-  - "13"
-tags:
-  - "Insignia de Energía"
+  - Conciencia climática
+  - Rapidez mental
+responsible: Educador Scout/ Guiadora AGA
+ods: "13"
+sdgs: "13"
+activity_badges: insigniadeenergía
+tags: Insignia de Energía
 ---
 
 # Mi Huella de Carbono
@@ -24,8 +35,8 @@ tags:
 Juego para identificar acciones personales contra el cambio climático.
 
 ## Desarrollo
-En círculo, pasa una pelota con música. Al detenerse, quien la tenga dice una acción para reducir su huella (ej: apagar luces).
+En círculo, pasa una pelota con música.
+Al detenerse, quien la tenga dice una acción para reducir su huella (ej: apagar luces).
 
 ## Cierre
 ¿Qué acción fue la más creativa? ¿Cuál implementarás?
-

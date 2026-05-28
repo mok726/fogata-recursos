@@ -1,32 +1,49 @@
 ﻿---
-title: "Organizar una colecta de donaciones"
-duration: "1 mes"
+title: Organizar una colecta de donaciones
+duration: 1 mes
+layout: layouts/activity.njk
+permalink: /activities/organizar-una-colecta-de-donaciones/
+description: |
+  Esta actividad es parte del grupo de actividades - Actúa.
+  Recoge ropa, libros y otros bienes para donar.
+summary: |
+  Esta actividad es parte del grupo de actividades - Actúa.
+  Recoge ropa, libros y otros bienes para donar.
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "caminantes"
-  - "rovers"
-materials:
-  - "No se requieren materiales específicos"
-tools:
-  - "No se requieren herramientas específicas"
+  - caminantes
+  - rovers
+age_group:
+  - caminantes
+  - rovers
+materials: No se requieren materiales específicos
+tools: No se requieren herramientas específicas
 competencies:
-  - "Conciencia social"
-  - "Liderazgo y organización"
-responsible: "Responsable del grupo Scout"
+  - Conciencia social
+  - Liderazgo y organización
+responsible: Responsable del grupo Scout
 ods:
   - "1"
   - "12"
-tags:
-  - "Insignia de Seguridad Alimentaria y Cambio Climático"
+sdgs:
+  - "1"
+  - "12"
+activity_badges: insigniadeseguridadalimentariaycambioclimático
+tags: Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Organizar una colecta de donaciones
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Actúa. Recoge ropa, libros y otros bienes para donar.
+Esta actividad es parte del grupo de actividades: Actúa.
+Recoge ropa, libros y otros bienes para donar.
 
 ## Desarrollo
-Organiza una colecta puerta a puerta de ropa, muebles, libros, juguetes, bienes enlatados, etc. y dónalos o véndelos para contribuir con organizaciones benéficas.
+Organiza una colecta puerta a puerta de ropa, muebles, libros, juguetes, bienes enlatados, etc.
+y dónalos o véndelos para contribuir con organizaciones benéficas.
 
 ## Cierre
 Reflexiona sobre cómo la solidaridad puede mejorar la vida de los demás.
-
