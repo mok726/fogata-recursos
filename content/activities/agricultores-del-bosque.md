@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "caminantes"
+  - "rovers"
 materials:
   - "Materiales para modelo o cómic"
   - "Recursos sobre agricultura forestal"
@@ -17,6 +23,14 @@ competencies:
   - "Investigación"
   - "Creatividad"
   - "Conciencia agrícola"
+responsible: "Scouter o agrónomo"
+ods:
+  - "2"
+  - "15"
+sdgs:
+  - "2"
+  - "15"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

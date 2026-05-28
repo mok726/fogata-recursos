@@ -9,6 +9,14 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Materiales para marcar senderos (piedras, ramas)"
   - "Cuaderno para registrar símbolos"
@@ -17,6 +25,10 @@ competencies:
   - "Trabajo en equipo"
   - "Conocimiento tradicional"
   - "Liderazgo"
+responsible: "Scouter o guía de senderismo"
+ods: "11"
+sdgs: "11"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

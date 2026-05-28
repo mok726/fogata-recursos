@@ -13,6 +13,16 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Libros o recursos digitales sobre biomas"
   - "Papel y lápices para dibujar"
@@ -22,6 +32,14 @@ competencies:
   - "Investigación"
   - "Pensamiento crítico"
   - "Comunicación oral"
+responsible: "Scouter o profesor de ciencias"
+ods:
+  - "13"
+  - "15"
+sdgs:
+  - "13"
+  - "15"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

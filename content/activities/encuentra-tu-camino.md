@@ -9,6 +9,14 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Mapa del bosque"
   - "Brújula (opcional)"
@@ -17,6 +25,10 @@ competencies:
   - "Orientación espacial"
   - "Supervivencia"
   - "Adaptabilidad"
+responsible: "Scouter o experto en orientación"
+ods: "4"
+sdgs: "4"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

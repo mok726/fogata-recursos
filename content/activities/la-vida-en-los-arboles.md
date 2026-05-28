@@ -9,6 +9,14 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Materiales para maqueta (palos, hojas, etc.)"
   - "Pegamento"
@@ -17,6 +25,10 @@ competencies:
   - "Investigación cultural"
   - "Habilidades manuales"
   - "Diseño"
+responsible: "Scouter o arquitecto"
+ods: "11"
+sdgs: "11"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

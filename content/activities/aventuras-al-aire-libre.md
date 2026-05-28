@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "manada"
+  - "scouts"
+age_group:
+  - "manada"
+  - "scouts"
 materials:
   - "Papel"
   - "Lápices de colores o fotos (opcional)"
@@ -17,6 +23,10 @@ competencies:
   - "Planificación"
   - "Creatividad"
   - "Habilidades de supervivencia"
+responsible: "Scouter o guía outdoor"
+ods: "12"
+sdgs: "12"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

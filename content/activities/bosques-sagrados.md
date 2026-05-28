@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "caminantes"
+  - "rovers"
 materials:
   - "Recursos sobre culturas y religiones"
   - "Cuaderno"
@@ -17,6 +23,10 @@ competencies:
   - "Investigación intercultural"
   - "Respeto religioso"
   - "Pensamiento crítico"
+responsible: "Scouter o líder religioso"
+ods: "16"
+sdgs: "16"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

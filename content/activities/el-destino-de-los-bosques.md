@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "caminantes"
+  - "rovers"
 materials:
   - "Mapas mundiales"
   - "Datos estadísticos (en línea o libros)"
@@ -18,6 +24,10 @@ competencies:
   - "Análisis de datos"
   - "Trabajo en equipo"
   - "Geografía crítica"
+responsible: "Scouter o geógrafo"
+ods: "15"
+sdgs: "15"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

@@ -9,6 +9,16 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "manada"
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Pinturas, arcilla, materiales reciclados"
   - "Espacio para exhibición"
@@ -17,6 +27,10 @@ competencies:
   - "Expresión artística"
   - "Comunicación"
   - "Organización"
+responsible: "Scouter o artista invitado"
+ods: "11"
+sdgs: "11"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

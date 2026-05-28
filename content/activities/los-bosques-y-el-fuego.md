@@ -13,6 +13,14 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Leña segura"
   - "Alimentos para asar (opcional)"
@@ -24,6 +32,14 @@ competencies:
   - "Supervivencia"
   - "Conocimiento cultural"
   - "Responsabilidad"
+responsible: "Scouter o experto en seguridad"
+ods:
+  - "11"
+  - "12"
+sdgs:
+  - "11"
+  - "12"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

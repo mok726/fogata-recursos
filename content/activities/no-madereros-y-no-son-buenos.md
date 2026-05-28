@@ -13,6 +13,14 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Etiquetas de productos alimenticios/cosméticos"
   - "Lista de ingredientes nocivos"
@@ -21,6 +29,10 @@ competencies:
   - "Conciencia de consumo"
   - "Investigación"
   - "Toma de decisiones éticas"
+responsible: "Scouter o activista ambiental"
+ods: "12"
+sdgs: "12"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

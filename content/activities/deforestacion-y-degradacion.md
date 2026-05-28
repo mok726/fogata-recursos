@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "caminantes"
+  - "rovers"
 materials:
   - "Datos estadísticos (FAO, ministerios ambientales)"
   - "Materiales para presentación creativa"
@@ -17,6 +23,10 @@ competencies:
   - "Análisis de datos"
   - "Comunicación creativa"
   - "Pensamiento político"
+responsible: "Scouter o economista ambiental"
+ods: "15"
+sdgs: "15"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

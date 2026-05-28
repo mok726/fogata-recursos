@@ -13,6 +13,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "caminantes"
+  - "rovers"
 materials:
   - "Recursos sobre biopiratería"
   - "Tarjetas para roles de debate"
@@ -21,6 +27,14 @@ competencies:
   - "Debate"
   - "Empatía"
   - "Conocimiento ético"
+responsible: "Scouter o moderador experto"
+ods:
+  - "3"
+  - "16"
+sdgs:
+  - "3"
+  - "16"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

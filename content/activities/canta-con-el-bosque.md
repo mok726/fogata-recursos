@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "manada"
+  - "scouts"
+age_group:
+  - "manada"
+  - "scouts"
 materials:
   - "Instrumentos naturales (hojas, ramas, piedras)"
   - "Grabadora (opcional)"
@@ -17,6 +23,10 @@ competencies:
   - "Creatividad musical"
   - "Escucha activa"
   - "Coordinación"
+responsible: "Scouter o músico"
+ods: "11"
+sdgs: "11"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

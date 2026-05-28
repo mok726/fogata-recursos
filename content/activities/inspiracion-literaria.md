@@ -9,6 +9,14 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "scouts"
+  - "caminantes"
+  - "rovers"
 materials:
   - "Libros o textos literarios"
   - "Cuaderno"
@@ -17,6 +25,10 @@ competencies:
   - "Análisis crítico"
   - "Expresión escrita"
   - "Empatía literaria"
+responsible: "Scouter o profesor de literatura"
+ods: "4"
+sdgs: "4"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 

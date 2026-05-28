@@ -9,6 +9,12 @@ author: "Mariano Cosentino"
 source: "Fogata de Recursos"
 branch:
   - "Naturaleza"
+age:
+  - "caminantes"
+  - "rovers"
+age_group:
+  - "caminantes"
+  - "rovers"
 materials:
   - "Ejemplos de productos madereros (opcional)"
   - "Cuaderno para notas"
@@ -17,6 +23,14 @@ competencies:
   - "Pensamiento crítico"
   - "Conciencia de consumo"
   - "Diálogo constructivo"
+responsible: "Scouter o ingeniero forestal"
+ods:
+  - "12"
+  - "15"
+sdgs:
+  - "12"
+  - "15"
+activity_badges: "bosques"
 tags: "Insignia de los Bosques"
 ---
 
