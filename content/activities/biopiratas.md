@@ -1,5 +1,5 @@
 ﻿---
-title: "B.13 ¡BIOPIRATAS!"
+title: "¡BIOPIRATAS!"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biopiratas/"
@@ -24,7 +24,7 @@ competencies:
 tags: "Insignia de los Bosques"
 ---
 
-# B.13 ¡BIOPIRATAS!
+# ¡BIOPIRATAS!
 
 ## Resumen
 Organiza un debate sobre bioprospección vs.
