@@ -1,24 +1,39 @@
 ﻿---
-title: "Entendiendo los Pesticidas"
-duration: "1-2 horas"
+title: Entendiendo los Pesticidas
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/entendiendo-los-pesticidas/
+description: "Investiga cómo los pesticidas afectan a los polinizadores."
+summary: "Investiga cómo los pesticidas afectan a los polinizadores."
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "manada"
+  - castores
+  - manada
+age_group:
+  - castores
+  - manada
 materials:
-  - "Información sobre pesticidas"
-  - "Papel y lápiz para notas"
-tools:
-  []
+  - Información sobre pesticidas
+  - Papel y lápiz para notas
+tools: ""
 competencies:
-  - "Investigación"
-  - "Conocimiento científico"
-  - "Conciencia ambiental"
-responsible: "Responsable del grupo"
+  - Investigación
+  - Conocimiento científico
+  - Conciencia ambiental
+responsible: Responsable del grupo
 ods:
   - "15"
   - "2"
   - "17"
-tags:
-  - "Insignia de Polinizadores"
+sdgs:
+  - "15"
+  - "2"
+  - "17"
+activity_badges: insigniadepolinizadores
+tags: Insignia de Polinizadores
 ---
 
 # Entendiendo los Pesticidas
@@ -27,8 +42,12 @@ tags:
 Investiga cómo los pesticidas afectan a los polinizadores.
 
 ## Desarrollo
-1. Investiga qué tipos de pesticidas son más dañinos para los polinizadores. 2. Aprende cómo se usan estos pesticidas en tu área. 3. Crea una presentación sobre alternativas no tóxicas y organiza un evento para compartir esta información con jardineros locales.
+1.
+Investiga qué tipos de pesticidas son más dañinos para los polinizadores.
+2.
+Aprende cómo se usan estos pesticidas en tu área.
+3.
+Crea una presentación sobre alternativas no tóxicas y organiza un evento para compartir esta información con jardineros locales.
 
 ## Cierre
 ¿Qué pesticidas son más dañinos para los polinizadores? ¿Cómo podemos reducir su uso?
-

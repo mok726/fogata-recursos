@@ -1,23 +1,37 @@
 ﻿---
-title: "El Factor Nutricional"
-duration: "1-2 horas"
+title: El Factor Nutricional
+duration: 1-2 horas
+layout: layouts/activity.njk
+permalink: /activities/el-factor-nutricional/
+description: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
+summary: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
+author: Mariano Cosentino
+source: Fogata de Recursos
+branch:
+  - Naturaleza
 age:
-  - "manada"
+  - castores
+  - manada
+age_group:
+  - castores
+  - manada
 materials:
-  - "Papel y lápiz para notas"
-  - "Cámara (opcional)"
-tools:
-  []
+  - Papel y lápiz para notas
+  - Cámara (opcional)
+tools: ""
 competencies:
-  - "Investigación"
-  - "Conocimiento científico"
-  - "Conciencia alimentaria"
-responsible: "Responsable del grupo"
+  - Investigación
+  - Conocimiento científico
+  - Conciencia alimentaria
+responsible: Responsable del grupo
 ods:
   - "2"
   - "15"
-tags:
-  - "Insignia de Polinizadores"
+sdgs:
+  - "2"
+  - "15"
+activity_badges: insigniadepolinizadores
+tags: Insignia de Polinizadores
 ---
 
 # El Factor Nutricional
@@ -26,8 +40,12 @@ tags:
 Investiga cómo la disminución de polinizadores afecta la nutrición global.
 
 ## Desarrollo
-1. Investiga qué nutrientes desaparecerían si los polinizadores disminuyen. 2. Aprende por qué estos nutrientes son importantes para la salud. 3. Crea una presentación o historia fotográfica con tus hallazgos.
+1.
+Investiga qué nutrientes desaparecerían si los polinizadores disminuyen.
+2.
+Aprende por qué estos nutrientes son importantes para la salud.
+3.
+Crea una presentación o historia fotográfica con tus hallazgos.
 
 ## Cierre
 ¿Qué nutrientes dependen de los polinizadores? ¿Cómo podemos asegurar una dieta nutritiva para todos?
-
