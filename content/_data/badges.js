@@ -8,13 +8,21 @@ module.exports = function () {
         "Actividades vinculadas a agricultura sostenible y alimentación.",
       summary:
         "La insignia de Agricultura promueve la comprensión de los sistemas de producción de alimentos y su impacto en el medio ambiente.\n\nExplora la relación entre agricultura, clima y seguridad alimentaria, fomentando prácticas sostenibles y consumo responsable.",
-      logo: "https://www.fao.org/yunga/images/badges/agriculture.png",
+      logo: "/imagenes/insignias/agricultura.png",
       sources: [
         {
           name: "YUNGA Agriculture Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/agriculture/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: []
     },
 
@@ -25,13 +33,21 @@ module.exports = function () {
         "Exploración, conservación y educación forestal.",
       summary:
         "La insignia de Bosques promueve la comprensión del rol de los bosques como ecosistemas esenciales para la biodiversidad y el clima.\n\nFomenta la conservación y el uso sostenible de los recursos forestales.",
-      logo: "https://www.fao.org/yunga/images/badges/forests.png",
+      logo: "/imagenes/insignias/bosques.png",
       sources: [
         {
           name: "YUNGA Forest Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/forests/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Forests Challenge Badge Booklet",
@@ -50,13 +66,21 @@ module.exports = function () {
         "Actividades sobre igualdad, inclusión y derechos.",
       summary:
         "La insignia de Género promueve la igualdad, la inclusión y el respeto entre personas.\n\nFomenta la reflexión sobre roles sociales y derechos humanos.",
-      logo: "https://www.fao.org/yunga/images/badges/gender.png",
+      logo: "/imagenes/insignias/genero.png",
       sources: [
         {
           name: "YUNGA Gender Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/gender/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: []
     },
 
@@ -67,13 +91,21 @@ module.exports = function () {
         "Hábitos saludables y alimentación.",
       summary:
         "La insignia de Nutrición promueve una alimentación equilibrada y saludable.\n\nFomenta la relación entre dieta, salud y sostenibilidad alimentaria.",
-      logo: "https://www.fao.org/yunga/images/badges/nutrition.png",
+      logo: "/imagenes/insignias/nutricion.png",
       sources: [
         {
           name: "YUNGA Nutrition Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/nutrition/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Nutrition Challenge Badge Booklet",
@@ -92,13 +124,21 @@ module.exports = function () {
         "Plastic Tide Turners Challenge.",
       summary:
         "La insignia Plastic Tide Turners aborda la contaminación por plásticos en océanos y ecosistemas.\n\nPromueve reducción, reutilización y reciclaje.",
-      logo: "https://www.fao.org/yunga/images/badges/plastic-tide-turner.png",
+      logo: "/imagenes/insignias/ptt.png",
       sources: [
         {
           name: "Plastic Tide Turners Challenge Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/plastic-tide-turner/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Plastic Tide Turners Challenge Booklet",
@@ -117,13 +157,21 @@ module.exports = function () {
         "Conservación y uso responsable del agua.",
       summary:
         "La insignia de Agua promueve la comprensión del ciclo del agua y su importancia.\n\nFomenta su uso responsable y conservación.",
-      logo: "https://www.fao.org/yunga/images/badges/water.png",
+      logo: "/imagenes/insignias/agua.png",
       sources: [
         {
           name: "YUNGA Water Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/water/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Water Challenge Badge Booklet",
@@ -141,11 +189,63 @@ module.exports = function () {
       description:
         "Energía solar y sostenibilidad.",
       summary:
-        "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética.",
-      logo: null,
+        "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética. Parte del programa SCOUT",
+      logo: "/imagenes/insignias/gosolar.png",
       sources: [],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: []
     },
+
+    {
+      id: "sacc",
+      name: "Seguridad Alimentaria",
+      description:
+        "Seguridad Alimentaria",
+      summary:
+        "La insignia Seguridad Alimentaria",
+      logo: "/imagenes/insignias/seguridadalimentaria.png",  //https://www.fao.org/typo3temp/pics/1d0b6c2a30.jpg
+      sources: [],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
+      documents: []
+    },
+
+
+    {
+      id: "cfn",
+      name: "Campeones de la Naturaleza",
+      description:
+        "Cuidado del planeta y sostenibilidad.",
+      summary:
+        "La insignia promueve el cuidado del planeta. y es parte del programa SCOUT",
+      logo: "/imagenes/insignias/cfn.png",
+      sources: [],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
+      documents: []
+    },
+
+
+
 
     {
       id: "cambioclimatico",
@@ -154,13 +254,21 @@ module.exports = function () {
         "Educación ambiental y acción climática.",
       summary:
         "La insignia de Cambio Climático aborda causas y efectos del calentamiento global.\n\nPromueve acciones de mitigación y adaptación.",
-      logo: "https://www.fao.org/yunga/images/badges/climate-change.png",
+      logo: "/imagenes/insignias/cambioclimatico.png",  //https://www.fao.org/typo3temp/pics/c78dfee699.jpg",
       sources: [
         {
           name: "YUNGA Climate Change Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/climatechange/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Climate Change Challenge Badge Booklet",
@@ -179,13 +287,21 @@ module.exports = function () {
         "Participación, ciudadanía y liderazgo.",
       summary:
         "La insignia de Gobernanza promueve la participación ciudadana y la toma de decisiones.\n\nFomenta liderazgo y compromiso social.",
-      logo: "https://www.fao.org/yunga/images/badges/governance.png",
+      logo: "/imagenes/insignias/gobernanza.png",
       sources: [
         {
           name: "YUNGA Governance Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/governance/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: []
     },
 
@@ -196,13 +312,21 @@ module.exports = function () {
         "Conservación marina y ecosistemas acuáticos.",
       summary:
         "La insignia del Océano promueve la comprensión de los ecosistemas marinos.\n\nAborda contaminación y sobrepesca.",
-      logo: "https://www.fao.org/yunga/images/badges/ocean.png",
+      logo: "/imagenes/insignias/oceano.png",
       sources: [
         {
           name: "YUNGA The Ocean Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/theocean/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "The Ocean Challenge Badge Booklet",
@@ -221,13 +345,21 @@ module.exports = function () {
         "Reducción del riesgo de desastres.",
       summary:
         "La insignia de RRD promueve la preparación y resiliencia ante desastres naturales.\n\nFomenta la prevención y gestión del riesgo en comunidades.",
-      logo: "https://www.fao.org/yunga/images/badges/disaster-risk-reduction.png",
+      logo: "/imagenes/insignias/rrd.png",
       sources: [
         {
           name: "YUNGA Disaster Risk Reduction Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/disaster-risk-reduction/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Disaster Risk Reduction Challenge Badge Booklet",
@@ -246,13 +378,21 @@ module.exports = function () {
         "Conservación de especies y ecosistemas.",
       summary:
         "La insignia de Biodiversidad promueve la comprensión de la diversidad biológica.\n\nFomenta la observación y protección de ecosistemas y especies.",
-      logo: "https://www.fao.org/yunga/images/badges/biodiversity.png",
+      logo: "/imagenes/insignias/biodiversidad.png",
       sources: [
         {
           name: "YUNGA Biodiversity Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/biodiversity/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Biodiversity Challenge Badge Booklet",
@@ -271,13 +411,21 @@ module.exports = function () {
         "Uso responsable y sostenible de la energía.",
       summary:
         "La insignia de Energía promueve eficiencia energética y renovables.\n\nFomenta transición energética sostenible.",
-      logo: "https://www.fao.org/yunga/images/badges/energy.png",
+      logo: "/imagenes/insignias/energia.png",
       sources: [
         {
           name: "YUNGA Energy Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/energy/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Energy Challenge Badge Booklet",
@@ -296,13 +444,21 @@ module.exports = function () {
         "Seguridad alimentaria y conciencia social.",
       summary:
         "La insignia de Hambre sensibiliza sobre la inseguridad alimentaria global.\n\nPromueve acciones para reducir el hambre en el mundo.",
-      logo: "https://www.fao.org/yunga/images/badges/ending-hunger.png",
+      logo: "/imagenes/insignias/hambre.png",
       sources: [
         {
           name: "YUNGA Ending Hunger Badge",
           url: "https://www.fao.org/yunga/resources/challengebadges/ending-hunger/es/"
         }
       ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
       documents: [
         {
           title: "Ending Hunger Challenge Badge Booklet",
@@ -313,20 +469,28 @@ module.exports = function () {
         }
       ]
     },
-	{
+        {
   id: "suelos",
   name: "Suelos",
   description:
     "Conservación y uso sostenible del suelo como recurso esencial para la vida y la producción de alimentos.",
   summary:
     "La insignia de Suelos promueve la comprensión del suelo como un recurso vivo y fundamental para los ecosistemas.\n\nFomenta prácticas de conservación del suelo, prevención de la erosión y gestión sostenible de los recursos naturales.",
-  logo: null,
+  logo: "/imagenes/insignias/suelos.png",
   sources: [
     {
       name: "YUNGA Soils Badge",
       url: "https://www.fao.org/yunga/resources/challengebadges/soils/es/"
     }
   ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
   documents: [
     {
       title: "Soils Challenge Badge Booklet",
@@ -345,13 +509,21 @@ module.exports = function () {
     "Importancia ecológica de los insectos polinizadores y su rol en la biodiversidad y la producción de alimentos.",
   summary:
     "La insignia de Polinizadores ayuda a comprender el papel fundamental de las abejas y otros polinizadores en los ecosistemas.\n\nPromueve acciones para proteger los polinizadores y su hábitat, destacando su impacto en la seguridad alimentaria y la biodiversidad.",
-  logo: null,
+  logo: "/imagenes/insignias/polinizadores.png",
   sources: [
     {
       name: "YUNGA Pollinators Badge",
       url: "https://www.fao.org/yunga/resources/challengebadges/polinizadores/es/"
     }
   ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2021"
+  },
   documents: [
     {
       title: "Pollinators Challenge Badge Booklet",
@@ -361,6 +533,23 @@ module.exports = function () {
       image: "https://www.fao.org/typo3temp/pics/bb9ba75839.jpg"
     }
   ]
+}, 
+
+{
+  id: "general",
+  name: "Actividades Generales",
+  description:
+    "Actividades scouts sin una insignia específica asociada.",
+  logo: null,
+  generic: true,
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "MSC",
+    year: "2025"
+  },
 }
 
 

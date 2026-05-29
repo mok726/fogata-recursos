@@ -56,7 +56,7 @@ Instrucciones:
  - Recolecta vegetación verde y llena el agujero con ella.
  - Coloca un frasco en el centro del hoyo y cúbrelo con una lámina de plástico transparente.
  - Coloca una piedra pequeña en el centro de la lámina para provocar un hundimiento.
- - Deja que el Sol llegue directamente sobre el hoyo y observa qué sucede al pasar el tiempo (15 min).
+ - ja que el Sol llegue directamente sobre el hoyo y observa qué sucede al pasar el tiempo (15 min).
 2.
 Discusión:
  - ¿Cómo se forma el agua en el frasco?

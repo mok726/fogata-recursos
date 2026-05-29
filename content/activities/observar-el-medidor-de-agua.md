@@ -37,7 +37,7 @@ sdgs:
   - 6
   - 12
 activity_badges:
-  - insigniadeseguridadalimentariaycambioclimático
+  - sacc
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 ---

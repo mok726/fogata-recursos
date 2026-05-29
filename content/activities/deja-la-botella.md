@@ -33,7 +33,7 @@ ods:
 sdgs:
   - 12
 activity_badges:
-  - parchedelagua
+  - agua
 tags:
   - Parche del Agua
 ---

@@ -33,7 +33,7 @@ sdgs:
   - 15
   - 17
 activity_badges:
-  - insigniadepolinizadores
+  - polinizadores
 tags:
   - Insignia de Polinizadores
 ---

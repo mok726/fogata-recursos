@@ -23,7 +23,7 @@ materials:
 tools:
   - Computadora para investigación
 competencies:
-  - Debate
+  - bate
   - Pensamiento crítico
 responsible:
   - Líder de grupo
@@ -32,7 +32,7 @@ ods:
 sdgs:
   - 6
 activity_badges:
-  - parchedelagua
+  - agua
 tags:
   - Parche del Agua
 ---

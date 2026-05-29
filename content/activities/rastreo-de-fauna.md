@@ -28,7 +28,7 @@ tools:
   - Guía de rastreo (opcional)
 competencies:
   - Observación
-  - Deducción
+  - ducción
 responsible:
   - educador Scout
 ods:
@@ -36,7 +36,7 @@ ods:
 sdgs:
   - 15
 activity_badges:
-  - insigniabiodiversidad
+  - biodiversidad
 tags:
   - Insignia Biodiversidad
 ---

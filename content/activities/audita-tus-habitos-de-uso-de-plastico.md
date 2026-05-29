@@ -26,7 +26,7 @@ ods:
 sdgs:
   - 12
 activity_badges:
-  - parchedeplanetasano
+  - planetasano
 tags:
   - Parche de Planeta Sano
 ---

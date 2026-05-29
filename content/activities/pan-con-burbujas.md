@@ -34,7 +34,7 @@ ods:
 sdgs:
   - 12
 activity_badges:
-  - insigniadeenergía
+  - energía
 tags:
   - Insignia de Energía
 ---

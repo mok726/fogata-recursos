@@ -27,7 +27,7 @@ materials:
 tools:
   - Ninguna
 competencies:
-  - Debate
+  - bate
   - Empatía
 responsible:
   - educador Scout
@@ -38,7 +38,7 @@ sdgs:
   - 11
   - 15
 activity_badges:
-  - insigniabiodiversidad
+  - biodiversidad
 tags:
   - Insignia Biodiversidad
 ---

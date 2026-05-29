@@ -102,6 +102,23 @@ eleventyConfig.addCollection(
   );
 
 
+eleventyConfig.addFilter(
+  "nl2br",
+  function(text) {
+
+    if (!text) {
+      return "";
+    }
+
+    return text.replace(
+      /\n/g,
+      "<br>\n"
+    );
+
+  }
+);
+
+
 
 eleventyConfig.addFilter(
   "smartTitle2",
@@ -140,6 +157,39 @@ eleventyConfig.addFilter(
 
   }
 );
+
+
+
+eleventyConfig.addFilter(
+  "hasValidBadge",
+  function(activityBadges, badges) {
+
+    if (
+      !activityBadges ||
+      !activityBadges.length
+    ) {
+      return false;
+    }
+
+    const valid =
+      badges.map(
+        b => b.id.toLowerCase()
+      );
+
+    return activityBadges.some(
+      badge =>
+        valid.includes(
+          badge.toString()
+            .trim()
+            .toLowerCase()
+        )
+    );
+
+  }
+);
+
+
+
 
 
   return {

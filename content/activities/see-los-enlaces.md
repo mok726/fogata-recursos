@@ -28,7 +28,7 @@ sdgs:
   - 12
   - 13
 activity_badges:
-  - championsfornature
+  - cfn
 tags:
   - Champions for Nature
 ---

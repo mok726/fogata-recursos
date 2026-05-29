@@ -24,7 +24,7 @@ materials:
 tools:
   - Ninguna
 competencies:
-  - Debate * Conciencia ambiental
+  - bate * Conciencia ambiental
 responsible:
   - Maestro/Dirigente
 ods:

@@ -22,7 +22,7 @@ materials:
 tools:
   - Ninguna
 competencies:
-  - Debate
+  - bate
   - Conciencia social
   - Pensamiento político
 responsible:

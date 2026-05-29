@@ -59,7 +59,7 @@ Instrucciones:
  - Imprime o dibuja los lentes en un papel resistente.
  - Recorta las dos caras por los bordes de los lentes y los dos orificios centrales.
  - Pega una lámina oscura con protección UV en los orificios y luego une las dos caras.
- - Deja secar unos minutos y decora los lentes como desees.
+ - ja secar unos minutos y decora los lentes como desees.
 2.
 Precauciones:
  - Asegúrate de que la lámina oscura tenga protección UV.

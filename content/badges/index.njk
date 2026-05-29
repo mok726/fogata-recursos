@@ -3,23 +3,40 @@ layout: layouts/base.njk
 title: Insignias
 ---
 
-<h1>Insignias</h1>
+<h1>
+  Insignias
+</h1>
 
 <div class="grid">
 
   {% for badge in badges %}
 
-<a href="{{ ('/badges/' + badge.id + '/') | url }}">
+    <a href="{{ ('/badges/' + badge.id + '/') | url }}">
+
       <div class="card">
 
-        <img
-          class="badge"
-src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
-          alt="{{ badge.name }}">
+        {% if badge.logo and not badge.generic %}
+
+          <img
+            class="badge"
+            src="{{ badge.logo | url }}"
+            alt="{{ badge.name }}">
+
+        {% endif %}
 
         <div class="card-content">
 
-          <h2>{{ badge.name }}</h2>
+          <h2>
+            {{ badge.name }}
+          </h2>
+
+          {% if badge.description %}
+
+            <p>
+              {{ badge.description }}
+            </p>
+
+          {% endif %}
 
         </div>
 
@@ -29,6 +46,6 @@ src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
 
   {% endfor %}
 
-</div>
 
+</div>
 

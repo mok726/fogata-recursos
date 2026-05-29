@@ -301,3 +301,173 @@
   text-decoration: underline;
 }
 
+
+
+/* =========================
+   DOCUMENT CARDS
+========================= */
+
+.card img {
+/*  width: 100%;
+
+
+  background: #f3f3f3;
+*/
+  aspect-ratio: 4 / 3;
+
+  object-fit: cover;
+}
+
+.card-content a {
+  display: inline-block;
+
+  margin-top: 1rem;
+
+  font-weight: 600;
+
+  text-decoration: none;
+
+  color: #355b38;
+}
+
+.card-content a:hover {
+  text-decoration: underline;
+}
+
+.badge-summary {
+  margin-top: 1.2rem;
+
+  line-height: 1.75;
+
+  color: #4c554d;
+}
+
+
+
+/* =========================
+   DURATION CHIP
+========================= */
+
+.duration-chip {
+  background: #eef3ff;
+
+  color: #3657a7;
+
+  font-weight: 600;
+}
+
+/* =========================
+   SDG CHIP
+========================= */
+
+.sdg-chip {
+  background: #edf7ed;
+
+  color: #2f6b38;
+}
+
+/* =========================
+   FILTERS
+========================= */
+
+.listing-filters {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  gap: 1rem;
+
+  margin:
+    1rem 0
+    2rem;
+}
+
+.listing-filters select {
+  padding:
+    0.7rem
+    1rem;
+
+  border-radius: 12px;
+
+  border:
+    1px solid #d7dfd7;
+
+  background: white;
+
+  font-size: 0.95rem;
+}
+
+/* =========================
+   BETTER META WRAP
+========================= */
+
+.card-meta {
+  align-items: flex-start;
+}
+
+.age-chip {
+  white-space: normal;
+}
+
+
+
+
+/* =========================
+   AGE CHIP ICONS
+========================= */
+
+.age-chip {
+  display: inline-flex;
+
+  align-items: center;
+
+  gap: 0.45rem;
+}
+
+.age-chip-icon {
+  width: 40px;
+  height: 40px;
+
+  object-fit: contain;
+
+  flex-shrink: 0;
+}
+
+
+.age-chip-icon img {
+  width: 40px;
+  height: 40px;
+  background: transparent;
+}
+
+
+
+
+/* =========================
+   SDG ICONS
+========================= */
+
+.sdg-icon {
+  width: 50px;
+  height: 50px;
+
+  border-radius: 8px;
+
+  object-fit: cover;
+
+  box-shadow:
+    0 2px 6px rgba(0,0,0,0.08);
+}
+
+.sdg-icon img {
+  width: 50px;
+  height: 50px;
+  background: transparent;
+}
+
+
+
+.sdg-chip {
+  padding: 0;
+  background: transparent;
+}

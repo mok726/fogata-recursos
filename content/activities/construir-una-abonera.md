@@ -22,7 +22,7 @@ age_group:
   - caminantes
   - rovers
 materials:
-  - Desechos biodegradables
+  - sechos biodegradables
   - Madera vieja
 tools:
   - Herramientas de construcción (opcional)
@@ -38,7 +38,7 @@ sdgs:
   - 12
   - 15
 activity_badges:
-  - insigniadeseguridadalimentariaycambioclimático
+  - sacc
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 ---

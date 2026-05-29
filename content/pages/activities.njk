@@ -18,16 +18,59 @@ permalink: /activities/
 
   </div>
 
-  <div class="listing-search">
-
-    <input
-      type="text"
-      id="activity-search"
-      placeholder="Buscar actividades...">
-
-  </div>
-
 </section>
+
+<div class="listing-search">
+
+  <input
+    type="text"
+    id="activity-search"
+    placeholder="Buscar actividades...">
+
+</div>
+
+<div class="listing-filters">
+
+  <select id="age-filter">
+
+    <option value="">
+      Todas las ramas
+    </option>
+
+    {% for age in ageGroups %}
+
+      <option value="{{ age.id | lower }}">
+        {{ age.name }}
+      </option>
+
+    {% endfor %}
+
+  </select>
+
+  <select id="sdg-filter">
+
+    <option value="">
+      Todos los ODS
+    </option>
+
+
+{% for sdg in allSdgs %}
+
+  <option value="{{ sdg.id }}">
+
+    {% if sdg.id < 10 %}0{% endif %}{{ sdg.id }}
+    ·
+    {{ sdg.name }}
+
+  </option>
+
+{% endfor %}
+
+
+
+  </select>
+
+</div>
 
 <div id="activity-count" class="results-count">
   Mostrando todas las actividades
@@ -39,25 +82,38 @@ permalink: /activities/
 
 <div
   class="searchable-card"
+
   data-title="{{ activity.data.title | lower }}"
   data-description="{{ activity.data.description | default('') | lower }}"
+
   data-age="{{ (activity.data.age_group or []) | join(' ') | lower }}"
+
   data-badges="{{ (activity.data.activity_badges or []) | dump | lower }}"
-  data-sdgs="{{ (activity.data.sdgs or []) | dump | lower }}">
+
+  data-sdgs="{{ (activity.data.sdgs or []) | join(' ') | lower }}"
+>
+
 {% set item = activity.data %}
 {% set activityUrl = activity.url %}
-  {% include "components/activity-card.njk" %}
+
+{% include "components/activity-card.njk" %}
 
 </div>
+
 {% endfor %}
 
 </div>
-
 
 <script>
 
 const searchInput =
   document.getElementById("activity-search");
+
+const ageFilter =
+  document.getElementById("age-filter");
+
+const sdgFilter =
+  document.getElementById("sdg-filter");
 
 const cards =
   document.querySelectorAll(".searchable-card");
@@ -65,40 +121,22 @@ const cards =
 const count =
   document.getElementById("activity-count");
 
-function runSearch(updateUrl = true) {
+function runSearch() {
 
   const query =
     searchInput.value
       .toLowerCase()
       .trim();
 
-  if (updateUrl) {
+  const age =
+    ageFilter.value
+      .toLowerCase()
+      .trim();
 
-    const url =
-      new URL(window.location);
-
-    if (query.length > 0) {
-
-      url.searchParams.set(
-        "search",
-        query
-      );
-
-    } else {
-
-      url.searchParams.delete(
-        "search"
-      );
-
-    }
-
-    window.history.replaceState(
-      {},
-      "",
-      url
-    );
-
-  }
+  const sdg =
+    sdgFilter.value
+      .toLowerCase()
+      .trim();
 
   let visible = 0;
 
@@ -114,84 +152,53 @@ function runSearch(updateUrl = true) {
 
     ].join(" ");
 
-    const match =
+    const matchesSearch =
       text.includes(query);
 
-    card.style.display =
-      match ? "" : "none";
+    const matchesAge =
+      !age ||
+      card.dataset.age.includes(age);
 
-    if (match) {
+    const matchesSdg =
+      !sdg ||
+      card.dataset.sdgs.includes(sdg);
+
+    const visibleCard =
+      matchesSearch &&
+      matchesAge &&
+      matchesSdg;
+
+    card.style.display =
+      visibleCard ? "" : "none";
+
+    if (visibleCard) {
       visible++;
     }
 
   });
 
-  if (query.length === 0) {
-
-    count.innerText =
-      `Mostrando todas las actividades (${visible})`;
-
-  } else {
-
-    count.innerText =
-      `Resultados encontrados: ${visible}`;
-
-  }
-
-  const visibleCards =
-    Array.from(cards).filter(card =>
-      card.style.display !== "none"
-    );
-
-  const oldEmpty =
-    document.getElementById("empty-state");
-
-  if (oldEmpty) {
-    oldEmpty.remove();
-  }
-
-  if (visibleCards.length === 0) {
-
-    const empty =
-      document.createElement("div");
-
-    empty.id = "empty-state";
-
-    empty.className = "empty-state";
-
-    empty.innerHTML = `
-      <h2>No se encontraron actividades</h2>
-
-      <p>
-        Probá otra búsqueda
-        o explorá otras categorías.
-      </p>
-    `;
-
-    document
-      .getElementById("activities-grid")
-      .after(empty);
-  }
-
-}
-
-const params =
-  new URLSearchParams(
-    window.location.search
-  );
-
-if (params.get("search")) {
-
-  searchInput.value =
-    params.get("search");
+  count.innerText =
+    `Resultados encontrados: ${visible}`;
 
 }
 
 searchInput.addEventListener(
   "input",
-  () => runSearch(true)
+  runSearch
 );
 
-runSearch(false);
+ageFilter.addEventListener(
+  "change",
+  runSearch
+);
+
+sdgFilter.addEventListener(
+  "change",
+  runSearch
+);
+
+runSearch();
 
 </script>
+
+

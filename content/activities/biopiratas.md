@@ -27,7 +27,7 @@ materials:
 tools:
   - Ninguna
 competencies:
-  - Debate
+  - bate
   - Empatía
   - Conocimiento ético
 responsible:

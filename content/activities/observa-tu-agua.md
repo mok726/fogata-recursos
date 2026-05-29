@@ -34,7 +34,7 @@ ods:
 sdgs:
   - 6
 activity_badges:
-  - agua(obligatoria)
+  - agua
 tags:
   - Insignia del Agua (Obligatoria)
 ---

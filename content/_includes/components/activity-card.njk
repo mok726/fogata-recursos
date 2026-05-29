@@ -3,29 +3,47 @@
   href="{{ activityUrl | url }}"
 >
 
+  {% set badgeShown = false %}
+
   {% if item.activity_badges and item.activity_badges.length %}
 
-    {% set rawBadge = item.activity_badges[0] %}
+    {% for rawBadge in item.activity_badges %}
 
-    {% if rawBadge.id %}
+      {% if not badgeShown %}
 
-      {% set badgeId = rawBadge.id %}
-      {% set badgeName = rawBadge.name %}
+        {% if rawBadge.id %}
 
-    {% else %}
+          {% set badgeId = rawBadge.id %}
+          {% set badgeName = rawBadge.name %}
 
-      {% set badgeId = rawBadge | slugify %}
-      {% set badgeName = rawBadge | smartTitle %}
+        {% else %}
 
-    {% endif %}
+          {% set badgeId = rawBadge | slugify %}
+          {% set badgeName = rawBadge | smartTitle %}
 
-    <div class="activity-card-badge">
+        {% endif %}
 
-      <img
-        src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
-        alt="{{ badgeName }}">
+        {% for knownBadge in badges %}
 
-    </div>
+          {% if knownBadge.id == badgeId %}
+
+            {% set badgeShown = true %}
+
+            <div class="activity-card-badge">
+
+              <img
+                src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
+                alt="{{ badgeName }}">
+
+            </div>
+
+          {% endif %}
+
+        {% endfor %}
+
+      {% endif %}
+
+    {% endfor %}
 
   {% endif %}
 
@@ -38,7 +56,7 @@
     {% if item.description %}
 
       <p>
-        {{ item.description | truncate(140) }}
+        {{ item.description | truncate(160) }}
       </p>
 
     {% endif %}
@@ -47,7 +65,7 @@
 
       {% if item.age_group %}
 
-        {% for age in item.age_group.slice(0,2) %}
+        {% for age in item.age_group %}
 
           {% set ageInfo = age | normalizeAge(ageGroups) %}
 
@@ -59,7 +77,14 @@
             "
           >
 
-            {{ ageInfo.name }}
+{% if ageInfo.icon %}
+
+  <img
+    class="age-chip-icon"
+    src="{{ ('/imagenes/ramas/' + ageInfo.icon) | url }}"
+    alt="{{ ageInfo.name }}">
+
+{% endif %}
 
           </span>
 
@@ -67,13 +92,36 @@
 
       {% endif %}
 
+    </div>
+
+    <div class="card-meta">
+
       {% if item.duration %}
 
-        <span class="chip">
-          {{ item.duration }}
+        <span class="chip duration-chip">
+
+          ⏱ {{ item.duration }}
+
         </span>
 
       {% endif %}
+
+
+{% if item.sdgs and item.sdgs.length %}
+
+  {% for sdg in item.sdgs.slice(0,3) %}
+
+    <img
+      class="sdg-icon"
+      src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+      alt="ODS {{ sdg }}"
+      title="ODS {{ sdg }}">
+
+  {% endfor %}
+
+{% endif %}
+
+
 
     </div>
 

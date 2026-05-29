@@ -22,7 +22,7 @@ age_group:
 materials:
   - Acceso a internet, papel, lápices.
 tools:
-  - Debate, pensamiento crítico.
+  - bate, pensamiento crítico.
 competencies:
   - Maestro/profesor/dirigente.
 responsible:

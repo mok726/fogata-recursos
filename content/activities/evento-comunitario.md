@@ -38,7 +38,7 @@ sdgs:
   - 11
   - 17
 activity_badges:
-  - insigniabiodiversidad
+  - biodiversidad
 tags:
   - Insignia Biodiversidad
 ---

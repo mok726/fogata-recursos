@@ -29,7 +29,7 @@ ods:
 sdgs:
   - 15
 activity_badges:
-  - championsfornature
+  - cfn
 tags:
   - Champions for Nature
 ---
