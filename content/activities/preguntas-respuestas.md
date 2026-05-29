@@ -1,12 +1,14 @@
 ﻿---
-title: Preguntas & Respuestas
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/preguntas-respuestas/
+title: "Preguntas & Respuestas"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/preguntas-respuestas/"
 description: "Conduce una entrevista sobre los problemas del suelo en un país específico."
 summary: "Conduce una entrevista sobre los problemas del suelo en un país específico."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,22 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Libros/recursos en línea
-tools: Ninguna
-competencies: Investigación * Comunicación
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Investigación * Comunicación
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Preguntas & Respuestas

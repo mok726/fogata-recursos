@@ -1,12 +1,14 @@
 ﻿---
-title: ¡Qué gas!
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/que-gas/
+title: "¡Qué gas!"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/que-gas/"
 description: "Los participantes aprenden sobre los gases de efecto invernadero."
 summary: "Los participantes aprenden sobre los gases de efecto invernadero."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,18 @@ age:
 age_group:
   - manada
   - scouts
-materials: Tarjetas, lápices.
-tools: Juego interactivo, aprendizaje.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Tarjetas, lápices.
+tools:
+  - Juego interactivo, aprendizaje.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # ¡Qué gas!

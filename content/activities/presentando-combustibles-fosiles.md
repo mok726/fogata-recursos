@@ -1,12 +1,14 @@
 ﻿---
-title: Presentando Combustibles Fósiles
-duration: 150
-layout: layouts/activity.njk
-permalink: /activities/presentando-combustibles-fosiles/
+title: "Presentando Combustibles Fósiles"
+duration: "150"
+layout: "layouts/activity.njk"
+permalink: "/activities/presentando-combustibles-fosiles/"
 description: "Investiga y expone sobre un combustible fósil asignado."
 summary: "Investiga y expone sobre un combustible fósil asignado."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Trabajo colaborativo
   - Oratoria
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Presentando Combustibles Fósiles

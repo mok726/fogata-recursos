@@ -1,12 +1,14 @@
 ﻿---
-title: Mi Huella de Carbono
-duration: 30
-layout: layouts/activity.njk
-permalink: /activities/mi-huella-de-carbono/
+title: "Mi Huella de Carbono"
+duration: "30"
+layout: "layouts/activity.njk"
+permalink: "/activities/mi-huella-de-carbono/"
 description: "Juego para identificar acciones personales contra el cambio climático."
 summary: "Juego para identificar acciones personales contra el cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Pelota
   - Música
-tools: Reproductor de audio
+tools:
+  - Reproductor de audio
 competencies:
   - Conciencia climática
   - Rapidez mental
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Mi Huella de Carbono

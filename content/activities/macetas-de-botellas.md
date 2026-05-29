@@ -1,24 +1,33 @@
 ﻿---
-title: Macetas de botellas
-duration: 20 - 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/macetas-de-botellas/
+title: "Macetas de botellas"
+duration: "20 - 30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/macetas-de-botellas/"
 description: "Actividad que ayuda a los jóvenes a reutilizar botellas de plástico para crear macetas."
 summary: "Actividad que ayuda a los jóvenes a reutilizar botellas de plástico para crear macetas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Botella de agua de plástico, tijeras, semillas, tierra, cuerda
-tools: ""
-competencies: Pensamiento Crítico, Resolución de problemas
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Botella de agua de plástico, tijeras, semillas, tierra, cuerda
+tools:
+competencies:
+  - Pensamiento Crítico, Resolución de problemas
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Macetas de botellas

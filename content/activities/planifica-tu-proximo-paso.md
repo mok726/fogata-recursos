@@ -1,30 +1,37 @@
 ﻿---
-title: Planifica tu próximo paso
-duration: Abierta
-layout: layouts/activity.njk
-permalink: /activities/planifica-tu-proximo-paso/
+title: "Planifica tu próximo paso"
+duration: "Abierta"
+layout: "layouts/activity.njk"
+permalink: "/activities/planifica-tu-proximo-paso/"
 description: "Esta actividad guía a los participantes en la planificación de un proyecto de servicio comunitario relacionado con la sostenibilidad."
 summary: "Esta actividad guía a los participantes en la planificación de un proyecto de servicio comunitario relacionado con la sostenibilidad."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Pautas de proyectos de servicio comunitario
-tools: Ninguna
+age:
+age_group:
+materials:
+  - Pautas de proyectos de servicio comunitario
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Crítico
   - Planificación
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "11"
-  - "13"
+  - 11
+  - 13
 sdgs:
-  - "11"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 11
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Planifica tu próximo paso

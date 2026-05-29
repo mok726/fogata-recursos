@@ -1,12 +1,14 @@
 ﻿---
-title: Menú sin Polinizadores
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/menu-sin-polinizadores/
+title: "Menú sin Polinizadores"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/menu-sin-polinizadores/"
 description: "Crea un menú de una semana con alimentos que no dependan de los polinizadores."
 summary: "Crea un menú de una semana con alimentos que no dependan de los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,20 +20,23 @@ age_group:
 materials:
   - Papel y lápiz para crear el menú
   - Ingredientes para preparar las comidas (opcional)
-tools: ""
+tools:
 competencies:
   - Conciencia alimentaria
   - Creatividad
   - Trabajo en equipo
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "2"
-  - "15"
+  - 2
+  - 15
 sdgs:
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Menú sin Polinizadores

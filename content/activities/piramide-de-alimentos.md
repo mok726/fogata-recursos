@@ -1,32 +1,38 @@
 ﻿---
-title: Pirámide de alimentos
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/piramide-de-alimentos/
+title: "Pirámide de alimentos"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/piramide-de-alimentos/"
 description: "Esta actividad permite a los participantes comprender el impacto de sus elecciones de alimentos en el medio ambiente y su salud."
 summary: "Esta actividad permite a los participantes comprender el impacto de sus elecciones de alimentos en el medio ambiente y su salud."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Tabla para comida semanal
   - Pirámide de alimentos
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Autoconciencia
   - Pensamiento Crítico
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Pirámide de alimentos

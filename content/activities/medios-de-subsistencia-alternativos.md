@@ -1,16 +1,18 @@
 ﻿---
-title: MEDIOS DE SUBSISTENCIA ALTERNATIVOS
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/medios-de-subsistencia-alternativos/
+title: "MEDIOS DE SUBSISTENCIA ALTERNATIVOS"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/medios-de-subsistencia-alternativos/"
 description: |
   Actividad obligatoria para la categoría - LOS BOSQUES EN USO.
   Lista productos forestales usados para subsistencia y diseña un juego educativo.
 summary: |
   Actividad obligatoria para la categoría - LOS BOSQUES EN USO.
   Lista productos forestales usados para subsistencia y diseña un juego educativo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,20 +27,24 @@ materials:
   - Tarjetas o papel para el juego
   - Lápices
   - Ejemplos de productos forestales (opcional)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Creatividad
   - Conocimiento socioeconómico
   - Educación entre pares
-responsible: Scouter o educador
+responsible:
+  - Scouter o educador
 ods:
-  - "1"
-  - "12"
+  - 1
+  - 12
 sdgs:
-  - "1"
-  - "12"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 1
+  - 12
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # MEDIOS DE SUBSISTENCIA ALTERNATIVOS

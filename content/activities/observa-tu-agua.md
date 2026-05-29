@@ -1,33 +1,42 @@
 ﻿---
-title: Observa tu agua
+title: "Observa tu agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/observa-tu-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/observa-tu-agua/"
 description: |
   Registra el uso diario del agua en tu hogar y propone formas de ahorrar.
   **Actividad obligatoria para la categoría Usando el agua.**
 summary: |
   Registra el uso diario del agua en tu hogar y propone formas de ahorrar.
   **Actividad obligatoria para la categoría Usando el agua.**
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conciencia ambiental
   - Responsabilidad
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua(obligatoria)
-tags: Insignia del Agua (Obligatoria)
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua(obligatoria)
+tags:
+  - Insignia del Agua (Obligatoria)
 ---
 
 # Observa tu agua

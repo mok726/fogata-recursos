@@ -1,16 +1,18 @@
 ﻿---
-title: ¿Quién es un Polinizador?
-duration: 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/quien-es-un-polinizador/
+title: "¿Quién es un Polinizador?"
+duration: "30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/quien-es-un-polinizador/"
 description: |
   Divide en dos equipos y haz una lista de animales, aves e insectos, tanto polinizadores como no polinizadores.
   Luego, realiza un juego de preguntas para adivinar cuáles son polinizadores.
 summary: |
   Divide en dos equipos y haz una lista de animales, aves e insectos, tanto polinizadores como no polinizadores.
   Luego, realiza un juego de preguntas para adivinar cuáles son polinizadores.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,23 +21,27 @@ age:
 age_group:
   - castores
   - manada
-materials: Papel y lápiz para hacer listas
-tools: ""
+materials:
+  - Papel y lápiz para hacer listas
+tools:
 competencies:
   - Trabajo en equipo
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # ¿Quién es un Polinizador?

@@ -1,12 +1,14 @@
 ﻿---
-title: Mapea el impacto
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/mapea-el-impacto/
+title: "Mapea el impacto"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/mapea-el-impacto/"
 description: "Los participantes dibujan un mapa que muestra los impactos del cambio climático en diferentes regiones."
 summary: "Los participantes dibujan un mapa que muestra los impactos del cambio climático en diferentes regiones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,21 @@ age:
 age_group:
   - manada
   - scouts
-materials: Papel grande, lápices, colores.
-tools: ""
-competencies: Trabajo en equipo, creatividad.
-responsible: Maestro/profesor/dirigente.
-ods: "13"
-sdgs: "13"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+materials:
+  - Papel grande, lápices, colores.
+tools:
+competencies:
+  - Trabajo en equipo, creatividad.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Mapea el impacto

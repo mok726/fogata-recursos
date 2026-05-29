@@ -1,12 +1,14 @@
 ﻿---
-title: Observaciones astronómicas
-duration: 1-2 días
-layout: layouts/activity.njk
-permalink: /activities/observaciones-astronomicas/
+title: "Observaciones astronómicas"
+duration: "1-2 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/observaciones-astronomicas/"
 description: "Los participantes investigan cómo la órbita de la Tierra afecta el clima."
 summary: "Los participantes investigan cómo la órbita de la Tierra afecta el clima."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Acceso a internet, papel, lápices.
-tools: Investigación, análisis.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Acceso a internet, papel, lápices.
+tools:
+  - Investigación, análisis.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Observaciones astronómicas

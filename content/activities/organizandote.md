@@ -1,12 +1,14 @@
 ﻿---
-title: Organizándote
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/organizandote/
+title: "Organizándote"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/organizandote/"
 description: "Investiga organizaciones que trabajan en la conservación del suelo."
 summary: "Investiga organizaciones que trabajan en la conservación del suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,22 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Libros/recursos en línea
-tools: Ninguna
-competencies: Investigación * Conciencia global
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Investigación * Conciencia global
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Organizándote

@@ -1,16 +1,18 @@
 ﻿---
-title: Pasa la voz
-duration: Varias horas (depende del evento)
-layout: layouts/activity.njk
-permalink: /activities/pasa-la-voz/
+title: "Pasa la voz"
+duration: "Varias horas (depende del evento)"
+layout: "layouts/activity.njk"
+permalink: "/activities/pasa-la-voz/"
 description: |
   Actividad para organizar un evento comunitario sobre el agua y recaudar fondos para proyectos relacionados.
   **Esta actividad es obligatoria para la categoría E.**
 summary: |
   Actividad para organizar un evento comunitario sobre el agua y recaudar fondos para proyectos relacionados.
   **Esta actividad es obligatoria para la categoría E.**
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -28,11 +30,16 @@ tools:
 competencies:
   - Trabajo en equipo
   - Conciencia social
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Pasa la voz

@@ -1,12 +1,14 @@
 ﻿---
-title: No Desperdiciar
-duration: 10080 (1 semana)
-layout: layouts/activity.njk
-permalink: /activities/no-desperdiciar/
+title: "No Desperdiciar"
+duration: "10080 (1 semana)"
+layout: "layouts/activity.njk"
+permalink: "/activities/no-desperdiciar/"
 description: "Registra el desperdicio de comida en tu casa y propone soluciones."
 summary: "Registra el desperdicio de comida en tu casa y propone soluciones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Báscula (opcional)
   - Cuaderno
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conciencia alimentaria
   - Solución de problemas
-responsible: Educador Scout/ Guiadora AGA
-ods: "2"
-sdgs: "2"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 2
+sdgs:
+  - 2
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # No Desperdiciar

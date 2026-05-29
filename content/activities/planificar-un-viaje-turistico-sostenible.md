@@ -1,16 +1,18 @@
 ﻿---
-title: Planificar un viaje turístico sostenible
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/planificar-un-viaje-turistico-sostenible/
+title: "Planificar un viaje turístico sostenible"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/planificar-un-viaje-turistico-sostenible/"
 description: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Investiga sobre formas de viajar de manera sostenible.
 summary: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Investiga sobre formas de viajar de manera sostenible.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Planificación y organización
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Planificar un viaje turístico sostenible

@@ -1,32 +1,39 @@
 ﻿---
-title: Monitoreo de mis residuos
-duration: 2 semanas (4 horas cada una)
-layout: layouts/activity.njk
-permalink: /activities/monitoreo-de-mis-residuos/
+title: "Monitoreo de mis residuos"
+duration: "2 semanas (4 horas cada una)"
+layout: "layouts/activity.njk"
+permalink: "/activities/monitoreo-de-mis-residuos/"
 description: "Esta actividad permite a los participantes comprender la cantidad de residuos que producen y cómo pueden reducirlos."
 summary: "Esta actividad permite a los participantes comprender la cantidad de residuos que producen y cómo pueden reducirlos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Pluma y cuaderno
-tools: Ninguna
+age:
+age_group:
+materials:
+  - Pluma y cuaderno
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Autoconciencia
   - Pensamiento Crítico
   - Resolución de problemas
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Monitoreo de mis residuos

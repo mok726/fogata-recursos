@@ -1,16 +1,18 @@
 ﻿---
-title: Reciclar materiales peligrosos
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/reciclar-materiales-peligrosos/
+title: "Reciclar materiales peligrosos"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/reciclar-materiales-peligrosos/"
 description: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas.
 summary: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Materiales peligrosos (pilas, pinturas, etc.)
-tools: No se requieren herramientas específicas
+materials:
+  - Materiales peligrosos (pilas, pinturas, etc.)
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Responsabilidad
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "14"
+  - 12
+  - 14
 sdgs:
-  - "12"
-  - "14"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 14
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reciclar materiales peligrosos

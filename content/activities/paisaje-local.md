@@ -1,12 +1,14 @@
 ﻿---
-title: Paisaje Local
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/paisaje-local/
+title: "Paisaje Local"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/paisaje-local/"
 description: "Investiga qué tipos de ecosistemas existen en tu área y qué polinizadores los habitan."
 summary: "Investiga qué tipos de ecosistemas existen en tu área y qué polinizadores los habitan."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,16 +21,21 @@ materials:
   - Papel grande para el póster
   - Marcadores o materiales para dibujar
   - Información sobre los ecosistemas locales (opcional)
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Paisaje Local

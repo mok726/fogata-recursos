@@ -1,12 +1,14 @@
 ﻿---
-title: Ozono y Quemaduras de Sol
-duration: 30 min
-layout: layouts/activity.njk
-permalink: /activities/ozono-y-quemaduras-de-sol/
+title: "Ozono y Quemaduras de Sol"
+duration: "30 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/ozono-y-quemaduras-de-sol/"
 description: "Aprende sobre los riesgos del ozono y cómo proteger tu piel de las quemaduras solares."
 summary: "Aprende sobre los riesgos del ozono y cómo proteger tu piel de las quemaduras solares."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,18 +19,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Ninguno
-tools: Ninguna
-competencies: Conciencia Ambiental, Salud y Bienestar
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Ninguno
+tools:
+  - Ninguna
+competencies:
+  - Conciencia Ambiental, Salud y Bienestar
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "3"
-  - "13"
+  - 3
+  - 13
 sdgs:
-  - "3"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 3
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Ozono y Quemaduras de Sol

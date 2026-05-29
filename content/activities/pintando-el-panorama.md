@@ -1,12 +1,14 @@
 ﻿---
-title: Pintando el Panorama
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/pintando-el-panorama/
+title: "Pintando el Panorama"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/pintando-el-panorama/"
 description: "Crea dos pinturas - una que muestre el mundo con polinizadores y otra sin ellos."
 summary: "Crea dos pinturas - una que muestre el mundo con polinizadores y otra sin ellos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Pinturas y pinceles
   - Papel o lienzo para pintar
-tools: ""
+tools:
 competencies:
   - Creatividad
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo
-ods: "17"
-sdgs: "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 17
+sdgs:
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Pintando el Panorama

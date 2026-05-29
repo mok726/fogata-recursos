@@ -1,12 +1,14 @@
 ﻿---
-title: Rayos de Sol Móvil
-duration: 45
-layout: layouts/activity.njk
-permalink: /activities/rayos-de-sol-movil/
+title: "Rayos de Sol Móvil"
+duration: "45"
+layout: "layouts/activity.njk"
+permalink: "/activities/rayos-de-sol-movil/"
 description: "Crea un móvil que muestre 8 formas en que el Sol sustenta la vida."
 summary: "Crea un móvil que muestre 8 formas en que el Sol sustenta la vida."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,11 +27,16 @@ tools:
 competencies:
   - Creatividad
   - Conocimiento científico
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Rayos de Sol Móvil

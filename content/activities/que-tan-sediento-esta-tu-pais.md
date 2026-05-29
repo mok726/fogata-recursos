@@ -1,33 +1,42 @@
 ﻿---
-title: ¿Qué tan sediento está tu país?
+title: "¿Qué tan sediento está tu país?"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/que-tan-sediento-esta-tu-pais/
+layout: "layouts/activity.njk"
+permalink: "/activities/que-tan-sediento-esta-tu-pais/"
 description: |
   Investiga la situación hídrica en tu país.
   **Actividad obligatoria para la categoría El agua en peligro.**
 summary: |
   Investiga la situación hídrica en tu país.
   **Actividad obligatoria para la categoría El agua en peligro.**
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua(obligatoria)
-tags: Insignia del Agua (Obligatoria)
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua(obligatoria)
+tags:
+  - Insignia del Agua (Obligatoria)
 ---
 
 # ¿Qué tan sediento está tu país?

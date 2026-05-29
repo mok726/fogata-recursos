@@ -1,12 +1,14 @@
 ﻿---
-title: Protección contra la Contaminación
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/proteccion-contra-la-contaminacion/
+title: "Protección contra la Contaminación"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/proteccion-contra-la-contaminacion/"
 description: "Crea un póster sobre los efectos de la contaminación en el suelo."
 summary: "Crea un póster sobre los efectos de la contaminación en el suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Materiales para póster
-tools: Ninguna
-competencies: Creatividad * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Materiales para póster
+tools:
+  - Ninguna
+competencies:
+  - Creatividad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Protección contra la Contaminación

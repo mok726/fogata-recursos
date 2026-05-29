@@ -1,12 +1,14 @@
 ﻿---
-title: PATRONES DE CORTEZA
-duration: 2 horas
-layout: layouts/activity.njk
-permalink: /activities/patrones-de-corteza/
+title: "PATRONES DE CORTEZA"
+duration: "2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/patrones-de-corteza/"
 description: "Visita un arboreto y calca las cortezas de árboles inusuales, identificando sus nombres científicos."
 summary: "Visita un arboreto y calca las cortezas de árboles inusuales, identificando sus nombres científicos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -21,16 +23,22 @@ materials:
   - Papel de calco
   - Crayones o lápices de cera
   - Cuaderno de campo
-tools: Guía de árboles (opcional)
+tools:
+  - Guía de árboles (opcional)
 competencies:
   - Observación detallada
   - Investigación científica
   - Habilidades artísticas
-responsible: Scouter o botánico
-ods: "15"
-sdgs: "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter o botánico
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # PATRONES DE CORTEZA

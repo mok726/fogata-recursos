@@ -1,16 +1,18 @@
 ﻿---
-title: Organizar un bazar de intercambio de reciclaje
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/organizar-un-bazar-de-intercambio-de-reciclaje/
+title: "Organizar un bazar de intercambio de reciclaje"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/organizar-un-bazar-de-intercambio-de-reciclaje/"
 description: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Organiza un bazar para intercambiar objetos que ya no uses.
 summary: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Organiza un bazar para intercambiar objetos que ya no uses.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,16 +21,23 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Objetos para intercambiar
-tools: No se requieren herramientas específicas
+materials:
+  - Objetos para intercambiar
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Organización y liderazgo
-responsible: Responsable del grupo Scout
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Organizar un bazar de intercambio de reciclaje

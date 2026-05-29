@@ -1,12 +1,14 @@
 ﻿---
-title: Observando el Tiempo
-duration: Varias semanas
-layout: layouts/activity.njk
-permalink: /activities/observando-el-tiempo/
+title: "Observando el Tiempo"
+duration: "Varias semanas"
+layout: "layouts/activity.njk"
+permalink: "/activities/observando-el-tiempo/"
 description: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
 summary: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Cuaderno * Lápices
-tools: Ninguna
-competencies: Observación científica * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Cuaderno * Lápices
+tools:
+  - Ninguna
+competencies:
+  - Observación científica * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Observando el Tiempo

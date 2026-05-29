@@ -1,29 +1,38 @@
 ﻿---
-title: Planta de agua potable
+title: "Planta de agua potable"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/planta-de-agua-potable/
+layout: "layouts/activity.njk"
+permalink: "/activities/planta-de-agua-potable/"
 description: "Visita una planta de tratamiento de agua local."
 summary: "Visita una planta de tratamiento de agua local."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Cuaderno para notas
   - Acceso a la planta de tratamiento de agua
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Planta de agua potable

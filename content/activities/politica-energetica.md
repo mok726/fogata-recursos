@@ -1,28 +1,38 @@
 ﻿---
-title: Política Energética
-duration: 180
-layout: layouts/activity.njk
-permalink: /activities/politica-energetica/
+title: "Política Energética"
+duration: "180"
+layout: "layouts/activity.njk"
+permalink: "/activities/politica-energetica/"
 description: "Analiza las políticas de energía de tu país y propone mejoras."
 summary: "Analiza las políticas de energía de tu país y propone mejoras."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: rovers
-age_group: rovers
+age:
+  - rovers
+age_group:
+  - rovers
 materials:
   - Documentos gubernamentales
   - Cuaderno
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento crítico
   - Incidencia política
-responsible: Educador Scout/ Guiadora AGA
-ods: "16"
-sdgs: "16"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 16
+sdgs:
+  - 16
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Política Energética

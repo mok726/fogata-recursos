@@ -1,12 +1,14 @@
 ﻿---
-title: Pensar en voz alta
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/pensar-en-voz-alta/
+title: "Pensar en voz alta"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/pensar-en-voz-alta/"
 description: "Los participantes expresan sus sentimientos sobre el cambio climático."
 summary: "Los participantes expresan sus sentimientos sobre el cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,14 +21,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Papel, lápices, colores.
-tools: Creatividad, expresión escrita.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Papel, lápices, colores.
+tools:
+  - Creatividad, expresión escrita.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Pensar en voz alta

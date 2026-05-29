@@ -1,16 +1,18 @@
 ﻿---
-title: Organizar un campamento sostenible
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/organizar-un-campamento-sostenible/
+title: "Organizar un campamento sostenible"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/organizar-un-campamento-sostenible/"
 description: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Planea un campamento de verano amigable con el medio ambiente.
 summary: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Planea un campamento de verano amigable con el medio ambiente.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Liderazgo y organización
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 13
+  - 15
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Organizar un campamento sostenible

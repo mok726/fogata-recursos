@@ -1,12 +1,14 @@
 ﻿---
-title: Polinizadores y la Economía
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/polinizadores-y-la-economia/
+title: "Polinizadores y la Economía"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/polinizadores-y-la-economia/"
 description: "Investiga cómo la economía de tu país depende de los polinizadores."
 summary: "Investiga cómo la economía de tu país depende de los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,22 +20,25 @@ age_group:
 materials:
   - Información sobre la economía local
   - Papel y lápiz para notas
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia económica
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Polinizadores y la Economía

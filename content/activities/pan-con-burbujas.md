@@ -1,12 +1,14 @@
 ﻿---
-title: Pan con Burbujas
-duration: 180 (incluye horneado)
-layout: layouts/activity.njk
-permalink: /activities/pan-con-burbujas/
+title: "Pan con Burbujas"
+duration: "180 (incluye horneado)"
+layout: "layouts/activity.njk"
+permalink: "/activities/pan-con-burbujas/"
 description: "Hornea pan y observa cómo el CO₂ lo hace esponjar."
 summary: "Hornea pan y observa cómo el CO₂ lo hace esponjar."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,11 +27,16 @@ tools:
 competencies:
   - Cocina
   - Paciencia
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Pan con Burbujas

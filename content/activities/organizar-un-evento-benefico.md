@@ -1,16 +1,18 @@
 ﻿---
-title: Organizar un evento benéfico
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/organizar-un-evento-benefico/
+title: "Organizar un evento benéfico"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/organizar-un-evento-benefico/"
 description: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Organiza una carrera, concierto o bazar para recaudar fondos.
 summary: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Organiza una carrera, concierto o bazar para recaudar fondos.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia social
   - Liderazgo y organización
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "13"
-  - "17"
+  - 13
+  - 17
 sdgs:
-  - "13"
-  - "17"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 13
+  - 17
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Organizar un evento benéfico

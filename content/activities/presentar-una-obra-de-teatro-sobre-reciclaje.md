@@ -1,30 +1,41 @@
 ﻿---
-title: Presentar una obra de teatro sobre reciclaje
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/presentar-una-obra-de-teatro-sobre-reciclaje/
+title: "Presentar una obra de teatro sobre reciclaje"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/presentar-una-obra-de-teatro-sobre-reciclaje/"
 description: |
   Esta actividad es parte del grupo de actividades - Sé creativo.
   Crea una obra de teatro para promover el reciclaje.
 summary: |
   Esta actividad es parte del grupo de actividades - Sé creativo.
   Crea una obra de teatro para promover el reciclaje.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Creatividad y comunicación
-responsible: Responsable del grupo Scout
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Presentar una obra de teatro sobre reciclaje

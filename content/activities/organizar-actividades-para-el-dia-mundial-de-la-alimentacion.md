@@ -1,16 +1,18 @@
 ﻿---
-title: Organizar actividades para el Día Mundial de la Alimentación
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/organizar-actividades-para-el-dia-mundial-de-la-alimentacion/
+title: "Organizar actividades para el Día Mundial de la Alimentación"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/organizar-actividades-para-el-dia-mundial-de-la-alimentacion/"
 description: |
   Esta actividad es parte del grupo de actividades - Alza tu voz.
   Celebra el Día Mundial de la Alimentación con actividades educativas.
 summary: |
   Esta actividad es parte del grupo de actividades - Alza tu voz.
   Celebra el Día Mundial de la Alimentación con actividades educativas.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Materiales para actividades (papel, cartulina, etc.)
-tools: No se requieren herramientas específicas
+materials:
+  - Materiales para actividades (papel, cartulina, etc.)
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Liderazgo y organización
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "2"
-  - "12"
+  - 2
+  - 12
 sdgs:
-  - "2"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 2
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Organizar actividades para el Día Mundial de la Alimentación

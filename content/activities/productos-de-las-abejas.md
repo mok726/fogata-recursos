@@ -1,12 +1,14 @@
 ﻿---
-title: Productos de las Abejas
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/productos-de-las-abejas/
+title: "Productos de las Abejas"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/productos-de-las-abejas/"
 description: "Aprende sobre los productos que provienen de las abejas, como la miel, la cera de abejas y el polen."
 summary: "Aprende sobre los productos que provienen de las abejas, como la miel, la cera de abejas y el polen."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Información sobre productos de las abejas
   - Cámara (opcional)
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "8"
-sdgs: "8"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 8
+sdgs:
+  - 8
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Productos de las Abejas

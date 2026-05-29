@@ -1,12 +1,14 @@
 ﻿---
-title: Plantas de Poder
-duration: 90
-layout: layouts/activity.njk
-permalink: /activities/plantas-de-poder/
+title: "Plantas de Poder"
+duration: "90"
+layout: "layouts/activity.njk"
+permalink: "/activities/plantas-de-poder/"
 description: "Analiza cultivos usados como biocombustibles."
 summary: "Analiza cultivos usados como biocombustibles."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,20 +17,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Datos sobre biocombustibles
-tools: Ninguna
+materials:
+  - Datos sobre biocombustibles
+tools:
+  - Ninguna
 competencies:
   - Pensamiento crítico
   - Comunicación oral
-responsible: Educador Scout/ Guiadora AGA
+responsible:
+  - Educador Scout/ Guiadora AGA
 ods:
-  - "7"
-  - "2"
+  - 7
+  - 2
 sdgs:
-  - "7"
-  - "2"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+  - 7
+  - 2
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Plantas de Poder

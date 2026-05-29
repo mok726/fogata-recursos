@@ -1,26 +1,35 @@
 ﻿---
-title: Mínimo Impacto a la Naturaleza
-duration: 40 min
-layout: layouts/activity.njk
-permalink: /activities/minimo-impacto-a-la-naturaleza/
+title: "Mínimo Impacto a la Naturaleza"
+duration: "40 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/minimo-impacto-a-la-naturaleza/"
 description: "Esta actividad permite a los participantes explorar los efectos de la deforestación en la selva tropical."
 summary: "Esta actividad permite a los participantes explorar los efectos de la deforestación en la selva tropical."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Tarjetas 'Un mundo sin selva'
-tools: Ninguna
+age:
+age_group:
+materials:
+  - Tarjetas 'Un mundo sin selva'
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Anticipar el Futuro
-responsible: Sinodal o Dirigente a cargo
-ods: "15"
-sdgs: "15"
-activity_badges: championsfornature
-tags: Champions for Nature
+responsible:
+  - Sinodal o Dirigente a cargo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Mínimo Impacto a la Naturaleza

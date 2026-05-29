@@ -1,12 +1,14 @@
 ﻿---
-title: PLÁNTULAS
-duration: 2-3 horas (incluyendo seguimiento)
-layout: layouts/activity.njk
-permalink: /activities/plantulas/
+title: "PLÁNTULAS"
+duration: "2-3 horas (incluyendo seguimiento)"
+layout: "layouts/activity.njk"
+permalink: "/activities/plantulas/"
 description: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
 summary: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -31,11 +33,16 @@ competencies:
   - Trabajo en equipo
   - Responsabilidad ambiental
   - Conocimiento práctico
-responsible: Scouter o guardabosques
-ods: "15"
-sdgs: "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter o guardabosques
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # PLÁNTULAS

@@ -1,12 +1,14 @@
 ﻿---
-title: Pétalos y Polinizadores
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/petalos-y-polinizadores/
+title: "Pétalos y Polinizadores"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/petalos-y-polinizadores/"
 description: "Investiga qué polinizadores ayudan a tu flor favorita."
 summary: "Investiga qué polinizadores ayudan a tu flor favorita."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Papel y lápiz para registrar observaciones
   - Cámara (opcional)
-tools: ""
+tools:
 competencies:
   - Observación
   - Conocimiento científico
   - Trabajo en equipo
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Pétalos y Polinizadores

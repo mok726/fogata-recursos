@@ -1,16 +1,18 @@
 ﻿---
-title: Promover rutas seguras para bicicletas
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/promover-rutas-seguras-para-bicicletas/
+title: "Promover rutas seguras para bicicletas"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/promover-rutas-seguras-para-bicicletas/"
 description: |
   Esta actividad es parte del grupo de actividades - Alza tu voz.
   Inicia una campaña para crear rutas seguras para bicicletas.
 summary: |
   Esta actividad es parte del grupo de actividades - Alza tu voz.
   Inicia una campaña para crear rutas seguras para bicicletas.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Liderazgo y comunicación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "11"
-  - "13"
+  - 11
+  - 13
 sdgs:
-  - "11"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 11
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Promover rutas seguras para bicicletas

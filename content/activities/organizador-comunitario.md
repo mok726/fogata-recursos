@@ -1,16 +1,18 @@
 ﻿---
-title: Organizador comunitario
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/organizador-comunitario/
+title: "Organizador comunitario"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/organizador-comunitario/"
 description: |
   Esta actividad es obligatoria para la categoría Nuestro Mundo.
   Organiza un evento para elevar la conciencia pública sobre un tema local.
 summary: |
   Esta actividad es obligatoria para la categoría Nuestro Mundo.
   Organiza un evento para elevar la conciencia pública sobre un tema local.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Papel y lápiz
   - Materiales para pancartas y posters
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia social
   - Liderazgo y comunicación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "11"
-  - "13"
+  - 11
+  - 13
 sdgs:
-  - "11"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 11
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Organizador comunitario

@@ -1,27 +1,37 @@
 ﻿---
-title: Mímica de agua
+title: "Mímica de agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/mimica-de-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/mimica-de-agua/"
 description: "Juego de mímica con palabras relacionadas con el agua."
 summary: "Juego de mímica con palabras relacionadas con el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
-materials: Cartas con palabras relacionadas con el agua
-tools: No se requieren herramientas
+age:
+  - manada
+age_group:
+  - manada
+materials:
+  - Cartas con palabras relacionadas con el agua
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Trabajo en equipo
   - Comunicación
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Mímica de agua

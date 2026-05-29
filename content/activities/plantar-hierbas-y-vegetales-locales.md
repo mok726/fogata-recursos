@@ -1,36 +1,44 @@
 ﻿---
-title: Plantar hierbas y vegetales locales
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/plantar-hierbas-y-vegetales-locales/
+title: "Plantar hierbas y vegetales locales"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/plantar-hierbas-y-vegetales-locales/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Planta hierbas y vegetales que requieran menos agua.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Planta hierbas y vegetales que requieran menos agua.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Semillas de hierbas o vegetales
   - Macetas o espacio en el jardín
-tools: Herramientas de jardinería (opcional)
+tools:
+  - Herramientas de jardinería (opcional)
 competencies:
   - Conciencia ambiental
   - Habilidades de jardinería
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "15"
+  - 12
+  - 15
 sdgs:
-  - "12"
-  - "15"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 15
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Plantar hierbas y vegetales locales

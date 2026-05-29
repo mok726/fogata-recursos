@@ -1,32 +1,38 @@
 ﻿---
-title: Nuestro Planeta
-duration: Abierta
-layout: layouts/activity.njk
-permalink: /activities/nuestro-planeta/
+title: "Nuestro Planeta"
+duration: "Abierta"
+layout: "layouts/activity.njk"
+permalink: "/activities/nuestro-planeta/"
 description: "Esta actividad permite a los participantes aprender sobre los desafíos que enfrenta nuestro planeta y cómo pueden protegerlo."
 summary: "Esta actividad permite a los participantes aprender sobre los desafíos que enfrenta nuestro planeta y cómo pueden protegerlo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Acceso a internet
   - Pantalla/laptop/móvil
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Reflexión sobre normas y valores
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 13
+  - 15
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Nuestro Planeta

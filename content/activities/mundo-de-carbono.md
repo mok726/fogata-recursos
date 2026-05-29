@@ -1,12 +1,14 @@
 ﻿---
-title: Mundo de Carbono
-duration: 180
-layout: layouts/activity.njk
-permalink: /activities/mundo-de-carbono/
+title: "Mundo de Carbono"
+duration: "180"
+layout: "layouts/activity.njk"
+permalink: "/activities/mundo-de-carbono/"
 description: "Explora cómo el carbono circula en la naturaleza."
 summary: "Explora cómo el carbono circula en la naturaleza."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Cuaderno
   - Cámara (opcional)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Observación
   - Análisis crítico
-responsible: Educador Scout/ Guiadora AGA
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Mundo de Carbono

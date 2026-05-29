@@ -1,24 +1,33 @@
 ﻿---
-title: Operación contra la basura
-duration: 3 días
-layout: layouts/activity.njk
-permalink: /activities/operacion-contra-la-basura/
+title: "Operación contra la basura"
+duration: "3 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/operacion-contra-la-basura/"
 description: "Actividad que ayuda a los jóvenes a identificar las causas de tirar basura y la perspectiva de las personas."
 summary: "Actividad que ayuda a los jóvenes a identificar las causas de tirar basura y la perspectiva de las personas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Hoja para registrar los datos, formulario
-tools: ""
-competencies: Pensamiento Sistémico, Pensamiento Crítico, Reflexión sobre normas y valores
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Hoja para registrar los datos, formulario
+tools:
+competencies:
+  - Pensamiento Sistémico, Pensamiento Crítico, Reflexión sobre normas y valores
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Operación contra la basura

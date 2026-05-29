@@ -1,12 +1,14 @@
 ﻿---
-title: Midiendo el clima
-duration: 1-2 días
-layout: layouts/activity.njk
-permalink: /activities/midiendo-el-clima/
+title: "Midiendo el clima"
+duration: "1-2 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/midiendo-el-clima/"
 description: "Los participantes aprenden cómo se mide el clima."
 summary: "Los participantes aprenden cómo se mide el clima."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Instrumentos meteorológicos, papel, lápices.
-tools: Investigación, trabajo en equipo.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Instrumentos meteorológicos, papel, lápices.
+tools:
+  - Investigación, trabajo en equipo.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Midiendo el clima

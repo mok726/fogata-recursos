@@ -1,12 +1,14 @@
 ﻿---
-title: ¿QUIÉN SE COME A QUIÉN?
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/quien-se-come-a-quien/
+title: "¿QUIÉN SE COME A QUIÉN?"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/quien-se-come-a-quien/"
 description: "Crea una red alimentaria forestal usando dibujos, collage o modelos."
 summary: "Crea una red alimentaria forestal usando dibujos, collage o modelos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -20,15 +22,21 @@ materials:
   - Tijeras
   - Pegamento
   - Materiales para modelo (opcional)
-tools: Tijeras
+tools:
+  - Tijeras
 competencies:
   - Comprensión ecológica
   - Creatividad
-responsible: Scouter o profesor de ciencias
-ods: "15"
-sdgs: "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter o profesor de ciencias
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # ¿QUIÉN SE COME A QUIÉN?

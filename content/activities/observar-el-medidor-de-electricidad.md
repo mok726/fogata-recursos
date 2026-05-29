@@ -1,34 +1,43 @@
 ﻿---
-title: Observar el medidor de electricidad
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/observar-el-medidor-de-electricidad/
+title: "Observar el medidor de electricidad"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/observar-el-medidor-de-electricidad/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Observa el medidor de electricidad de tu casa y aprende a reducir el consumo de energía.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Observa el medidor de electricidad de tu casa y aprende a reducir el consumo de energía.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: Medidor de electricidad (supervisado por un adulto)
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - Medidor de electricidad (supervisado por un adulto)
 competencies:
   - Conciencia ambiental
   - Observación y análisis
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "12"
+  - 7
+  - 12
 sdgs:
-  - "7"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Observar el medidor de electricidad

@@ -1,27 +1,37 @@
 ﻿---
-title: Presiones pintadas
+title: "Presiones pintadas"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/presiones-pintadas/
+layout: "layouts/activity.njk"
+permalink: "/activities/presiones-pintadas/"
 description: "Crea un póster sobre las presiones que afectan los suministros de agua."
 summary: "Crea un póster sobre las presiones que afectan los suministros de agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Materiales para el póster (papel, lápices, pinturas, etc.)
-tools: No se requieren herramientas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Materiales para el póster (papel, lápices, pinturas, etc.)
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Conciencia ambiental
   - Comunicación
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Presiones pintadas

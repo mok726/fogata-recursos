@@ -1,12 +1,14 @@
 ﻿---
-title: Patrulla del Parque
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/patrulla-del-parque/
+title: "Patrulla del Parque"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/patrulla-del-parque/"
 description: "Explora los parques locales y evalúa qué tan amigables son para los polinizadores."
 summary: "Explora los parques locales y evalúa qué tan amigables son para los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Papel y lápiz para tomar notas
   - Guía de evaluación de parques (opcional)
-tools: ""
+tools:
 competencies:
   - Observación
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo
-ods: "17"
-sdgs: "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 17
+sdgs:
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Patrulla del Parque

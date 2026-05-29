@@ -1,16 +1,18 @@
 ﻿---
-title: Modelo de Generación Energética
-duration: 180
-layout: layouts/activity.njk
-permalink: /activities/modelo-de-generacion-energetica/
+title: "Modelo de Generación Energética"
+duration: "180"
+layout: "layouts/activity.njk"
+permalink: "/activities/modelo-de-generacion-energetica/"
 description: |
   Actividad obligatoria para la categoría - FUENTES DE ENERGÍA E IMPACTOS.
   Investiga fuentes de energía en tu país y construye un modelo con materiales reciclados.
 summary: |
   Actividad obligatoria para la categoría - FUENTES DE ENERGÍA E IMPACTOS.
   Investiga fuentes de energía en tu país y construye un modelo con materiales reciclados.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -30,15 +32,18 @@ competencies:
   - Investigación
   - Creatividad
   - Conciencia ambiental
-responsible: Educador Scout/ Guiadora AGA
+responsible:
+  - Educador Scout/ Guiadora AGA
 ods:
-  - "7"
-  - "12"
+  - 7
+  - 12
 sdgs:
-  - "7"
-  - "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+  - 7
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Modelo de Generación Energética

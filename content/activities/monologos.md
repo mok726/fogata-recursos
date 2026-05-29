@@ -1,12 +1,14 @@
 ﻿---
-title: Monólogos
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/monologos/
+title: "Monólogos"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/monologos/"
 description: "Organiza un debate sobre los pros y contras del monocultivo."
 summary: "Organiza un debate sobre los pros y contras del monocultivo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,22 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Libros/recursos en línea
-tools: Ninguna
-competencies: Debate * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Debate * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Monólogos

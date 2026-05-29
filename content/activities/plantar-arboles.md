@@ -1,34 +1,43 @@
 ﻿---
-title: Plantar árboles
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/plantar-arboles/
+title: "Plantar árboles"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/plantar-arboles/"
 description: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Participa en un proyecto para plantar árboles.
 summary: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Participa en un proyecto para plantar árboles.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Árboles o semillas
-tools: Pala, regadera, etc.
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Árboles o semillas
+tools:
+  - Pala, regadera, etc.
 competencies:
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 13
+  - 15
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Plantar árboles
