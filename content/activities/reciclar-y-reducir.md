@@ -1,33 +1,39 @@
 ﻿---
-title: Reciclar y reducir
-duration: 10 -15 min
-layout: layouts/activity.njk
-permalink: /activities/reciclar-y-reducir/
+title: "Reciclar y reducir"
+duration: "10 -15 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/reciclar-y-reducir/"
 description: "Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable."
 summary: "Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Tarjetas de reciclaje
   - Cajas o superficies para clasificar
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Colaboración
   - Pensamiento Crítico
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Reciclar y reducir

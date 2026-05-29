@@ -1,12 +1,14 @@
 ﻿---
-title: Salud
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/salud/
+title: "Salud"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/salud/"
 description: "Actividad para aprender sobre enfermedades relacionadas con el agua y cómo prevenirlas."
 summary: "Actividad para aprender sobre enfermedades relacionadas con el agua y cómo prevenirlas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Materiales para póster o folleto
   - Información sobre enfermedades
-tools: Computadora para investigación
+tools:
+  - Computadora para investigación
 competencies:
   - Conciencia sanitaria
   - Comunicación
-responsible: Líder de grupo
-ods: "3"
-sdgs: "3"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 3
+sdgs:
+  - 3
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Salud

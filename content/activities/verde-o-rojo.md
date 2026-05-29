@@ -1,31 +1,38 @@
 ﻿---
-title: Verde o Rojo
-duration: 15 -20 min
-layout: layouts/activity.njk
-permalink: /activities/verde-o-rojo/
+title: "Verde o Rojo"
+duration: "15 -20 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/verde-o-rojo/"
 description: "Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad."
 summary: "Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Tarjetas verdes y rojas
-tools: Ninguna
+age:
+age_group:
+materials:
+  - Tarjetas verdes y rojas
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Pensamiento Crítico
   - Autoconciencia
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Verde o Rojo

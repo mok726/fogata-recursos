@@ -1,8 +1,8 @@
 ﻿---
-title: Reduce tu huella de cambio climático
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/reduce-tu-huella-de-cambio-climatico/
+title: "Reduce tu huella de cambio climático"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/reduce-tu-huella-de-cambio-climatico/"
 description: |
   Esta actividad es obligatoria para la categoría Nuestro Clima.
   Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente.
@@ -11,8 +11,10 @@ summary: |
   Esta actividad es obligatoria para la categoría Nuestro Clima.
   Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente.
   Haz una lista de formas para reducir tu impacto y sigue un plan durante un mes.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -21,21 +23,26 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Papel y lápiz para hacer la lista
-tools: No se requieren herramientas específicas
+materials:
+  - Papel y lápiz para hacer la lista
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Planificación y organización
   - Comunicación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reduce tu huella de cambio climático

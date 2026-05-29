@@ -1,12 +1,14 @@
 ﻿---
-title: Visita a una Granja de Abejas
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/visita-a-una-granja-de-abejas/
+title: "Visita a una Granja de Abejas"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/visita-a-una-granja-de-abejas/"
 description: "Visita una operación apícola local para aprender más sobre su trabajo."
 summary: "Visita una operación apícola local para aprender más sobre su trabajo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,23 +17,27 @@ age:
 age_group:
   - castores
   - manada
-materials: Cámara o dispositivo para grabar (opcional)
-tools: ""
+materials:
+  - Cámara o dispositivo para grabar (opcional)
+tools:
 competencies:
   - Observación
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Visita a una Granja de Abejas

@@ -1,16 +1,18 @@
 ﻿---
-title: Suelos Globales
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/suelos-globales/
+title: "Suelos Globales"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/suelos-globales/"
 description: |
   Actividad obligatoria para la categoría 'El Suelo en Peligro'.
   Investiga sobre la degradación del suelo en diferentes partes del mundo.
 summary: |
   Actividad obligatoria para la categoría 'El Suelo en Peligro'.
   Investiga sobre la degradación del suelo en diferentes partes del mundo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -21,14 +23,22 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Mapas * Libros/recursos en línea
-tools: Ninguna
-competencies: Investigación * Conciencia global * Creatividad
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Mapas * Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Investigación * Conciencia global * Creatividad
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Suelos Globales

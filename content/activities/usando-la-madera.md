@@ -1,12 +1,14 @@
 ﻿---
-title: USANDO LA MADERA
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/usando-la-madera/
+title: "USANDO LA MADERA"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/usando-la-madera/"
 description: "Analiza el uso de la madera en tu hogar y debate pros/contras de su explotación."
 summary: "Analiza el uso de la madera en tu hogar y debate pros/contras de su explotación."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Papel
   - Lápiz
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento crítico
   - Conciencia de consumo
-responsible: Scouter
-ods: "12"
-sdgs: "12"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # USANDO LA MADERA

@@ -1,12 +1,14 @@
 ﻿---
-title: Trabajando como Alfarero
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/trabajando-como-alfarero/
+title: "Trabajando como Alfarero"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/trabajando-como-alfarero/"
 description: "Visita un taller de alfarería y aprende a trabajar con arcilla."
 summary: "Visita un taller de alfarería y aprende a trabajar con arcilla."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Arcilla
-tools: Herramientas de alfarería
-competencies: Creatividad * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Arcilla
+tools:
+  - Herramientas de alfarería
+competencies:
+  - Creatividad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Trabajando como Alfarero

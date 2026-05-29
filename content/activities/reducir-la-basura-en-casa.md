@@ -1,30 +1,41 @@
 ﻿---
-title: Reducir la basura en casa
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/reducir-la-basura-en-casa/
+title: "Reducir la basura en casa"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/reducir-la-basura-en-casa/"
 description: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana.
 summary: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Planificación y organización
-responsible: Responsable del grupo Scout
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reducir la basura en casa

@@ -1,34 +1,43 @@
 ﻿---
-title: Reemplazar bombillas por ahorradoras de energía
-duration: 1 día
-layout: layouts/activity.njk
-permalink: /activities/reemplazar-bombillas-por-ahorradoras-de-energia/
+title: "Reemplazar bombillas por ahorradoras de energía"
+duration: "1 día"
+layout: "layouts/activity.njk"
+permalink: "/activities/reemplazar-bombillas-por-ahorradoras-de-energia/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Bombillas ahorradoras de energía
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Bombillas ahorradoras de energía
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Toma de decisiones
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "12"
+  - 7
+  - 12
 sdgs:
-  - "7"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reemplazar bombillas por ahorradoras de energía

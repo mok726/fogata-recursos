@@ -1,12 +1,14 @@
 ﻿---
-title: Una Comida Solar
-duration: 1 - 2 h
-layout: layouts/activity.njk
-permalink: /activities/una-comida-solar/
+title: "Una Comida Solar"
+duration: "1 - 2 h"
+layout: "layouts/activity.njk"
+permalink: "/activities/una-comida-solar/"
 description: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
 summary: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,18 +19,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Horno o cocina solar, ingredientes para cocinar
-tools: Utensilios de cocina
-competencies: Conciencia Ambiental, Aprendizaje Práctico
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Horno o cocina solar, ingredientes para cocinar
+tools:
+  - Utensilios de cocina
+competencies:
+  - Conciencia Ambiental, Aprendizaje Práctico
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "7"
-  - "13"
+  - 7
+  - 13
 sdgs:
-  - "7"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 7
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Una Comida Solar

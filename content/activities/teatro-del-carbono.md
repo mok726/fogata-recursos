@@ -1,12 +1,14 @@
 ﻿---
-title: Teatro del Carbono
-duration: 240
-layout: layouts/activity.njk
-permalink: /activities/teatro-del-carbono/
+title: "Teatro del Carbono"
+duration: "240"
+layout: "layouts/activity.njk"
+permalink: "/activities/teatro-del-carbono/"
 description: "Crea una obra o video sobre el ciclo del carbono."
 summary: "Crea una obra o video sobre el ciclo del carbono."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Disfraces (opcional)
   - Cámara (opcional)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Trabajo en equipo
   - Comunicación
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Teatro del Carbono

@@ -1,12 +1,14 @@
 ﻿---
-title: Suelos cálidos
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/suelos-calidos/
+title: "Suelos cálidos"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/suelos-calidos/"
 description: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
 summary: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,18 @@ age:
 age_group:
   - manada
   - scouts
-materials: Moldes, tierra, arena, agua, termómetros.
-tools: Experimentación, análisis.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Moldes, tierra, arena, agua, termómetros.
+tools:
+  - Experimentación, análisis.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Suelos cálidos

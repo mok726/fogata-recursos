@@ -1,29 +1,38 @@
 ﻿---
-title: Sed continental
+title: "Sed continental"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/sed-continental/
+layout: "layouts/activity.njk"
+permalink: "/activities/sed-continental/"
 description: "Investiga la distribución del agua en diferentes continentes."
 summary: "Investiga la distribución del agua en diferentes continentes."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Materiales para el póster (papel, lápices, etc.)
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Sed continental

@@ -1,34 +1,43 @@
 ﻿---
-title: Visitar un centro de reciclaje
-duration: 1 día
-layout: layouts/activity.njk
-permalink: /activities/visitar-un-centro-de-reciclaje/
+title: "Visitar un centro de reciclaje"
+duration: "1 día"
+layout: "layouts/activity.njk"
+permalink: "/activities/visitar-un-centro-de-reciclaje/"
 description: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Organiza una visita a un centro de reciclaje o planta de energía renovable.
 summary: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Organiza una visita a un centro de reciclaje o planta de energía renovable.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Aprendizaje práctico
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Visitar un centro de reciclaje

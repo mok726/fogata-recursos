@@ -1,16 +1,18 @@
 ﻿---
-title: Reducir tiempo frente a pantallas
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/reducir-tiempo-frente-a-pantallas/
+title: "Reducir tiempo frente a pantallas"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/reducir-tiempo-frente-a-pantallas/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Comprométete a usar menos tiempo el televisor o la computadora cada día.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Comprométete a usar menos tiempo el televisor o la computadora cada día.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - castores
   - manada
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Autodisciplina
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "3"
-  - "7"
+  - 3
+  - 7
 sdgs:
-  - "3"
-  - "7"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 3
+  - 7
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reducir tiempo frente a pantallas

@@ -1,12 +1,14 @@
 ﻿---
-title: ¿Y el Clima?
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/y-el-clima/
+title: "¿Y el Clima?"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/y-el-clima/"
 description: "Habla con expertos locales sobre cómo el cambio climático afecta a los polinizadores."
 summary: "Habla con expertos locales sobre cómo el cambio climático afecta a los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Cámara o dispositivo para grabar (opcional)
   - Papel y lápiz para notas
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # ¿Y el Clima?

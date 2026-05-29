@@ -1,34 +1,43 @@
 ﻿---
-title: Usar menos aire acondicionado y calefacción
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/usar-menos-aire-acondicionado-y-calefaccion/
+title: "Usar menos aire acondicionado y calefacción"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/usar-menos-aire-acondicionado-y-calefaccion/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Aprendizaje histórico
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "13"
+  - 7
+  - 13
 sdgs:
-  - "7"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Usar menos aire acondicionado y calefacción

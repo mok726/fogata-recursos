@@ -1,27 +1,37 @@
 ﻿---
-title: Saca el bardo que hay en ti
+title: "Saca el bardo que hay en ti"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/saca-el-bardo-que-hay-en-ti/
+layout: "layouts/activity.njk"
+permalink: "/activities/saca-el-bardo-que-hay-en-ti/"
 description: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
 summary: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Materiales para la obra de teatro (disfraces, accesorios, etc.)
-tools: No se requieren herramientas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Materiales para la obra de teatro (disfraces, accesorios, etc.)
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Trabajo en equipo
   - Comunicación
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Saca el bardo que hay en ti

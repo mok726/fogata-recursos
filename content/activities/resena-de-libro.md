@@ -1,12 +1,14 @@
 ﻿---
-title: Reseña de Libro
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/resena-de-libro/
+title: "Reseña de Libro"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/resena-de-libro/"
 description: "Lee un libro sobre polinizadores y comparte lo que aprendiste."
 summary: "Lee un libro sobre polinizadores y comparte lo que aprendiste."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Libro sobre polinizadores
   - Papel y lápiz para notas
-tools: ""
+tools:
 competencies:
   - Lectura
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Reseña de Libro

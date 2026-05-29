@@ -1,12 +1,14 @@
 ﻿---
-title: Señales en el Parque
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/senales-en-el-parque/
+title: "Señales en el Parque"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/senales-en-el-parque/"
 description: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
 summary: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Materiales para hacer las señales (cartón, marcadores, etc.)
   - Permiso de las autoridades del parque
-tools: ""
+tools:
 competencies:
   - Conciencia ambiental
   - Comunicación
   - Trabajo en equipo
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Señales en el Parque

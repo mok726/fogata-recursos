@@ -1,28 +1,36 @@
 ﻿---
-title: S.E.E los enlaces
-duration: 20 -30 min
-layout: layouts/activity.njk
-permalink: /activities/see-los-enlaces/
+title: "S.E.E los enlaces"
+duration: "20 -30 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/see-los-enlaces/"
 description: "Esta actividad permite a los participantes explorar los vínculos entre la sociedad, el medio ambiente y la economía."
 summary: "Esta actividad permite a los participantes explorar los vínculos entre la sociedad, el medio ambiente y la economía."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Dados de colores
-tools: Ninguna
-competencies: Colaboración
-responsible: Sinodal o Dirigente a cargo
+age:
+age_group:
+materials:
+  - Dados de colores
+tools:
+  - Ninguna
+competencies:
+  - Colaboración
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # S.E.E los enlaces

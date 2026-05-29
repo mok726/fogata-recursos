@@ -1,12 +1,14 @@
 ﻿---
-title: Seleccionar y Cultivar Árboles Frutales
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/seleccionar-y-cultivar-arboles-frutales/
+title: "Seleccionar y Cultivar Árboles Frutales"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/seleccionar-y-cultivar-arboles-frutales/"
 description: "Aprende a cultivar árboles frutales y cómo los polinizadores los ayudan."
 summary: "Aprende a cultivar árboles frutales y cómo los polinizadores los ayudan."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -27,11 +29,16 @@ competencies:
   - Trabajo manual
   - Observación
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Seleccionar y Cultivar Árboles Frutales

@@ -1,12 +1,14 @@
 ﻿---
-title: Sed de Poder
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/sed-de-poder/
+title: "Sed de Poder"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/sed-de-poder/"
 description: "Juego para aprender sobre pobreza energética global."
 summary: "Juego para aprender sobre pobreza energética global."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Mapa mundial
   - Computadora (para verificar datos)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conciencia global
   - Geopolítica
-responsible: Educador Scout/ Guiadora AGA
-ods: "1"
-sdgs: "1"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 1
+sdgs:
+  - 1
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Sed de Poder

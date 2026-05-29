@@ -1,30 +1,41 @@
 ﻿---
-title: Reemplazar productos innecesarios en la cocina
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/reemplazar-productos-innecesarios-en-la-cocina/
+title: "Reemplazar productos innecesarios en la cocina"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/reemplazar-productos-innecesarios-en-la-cocina/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Sustituye elementos innecesarios en tu cocina por alternativas sostenibles.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Sustituye elementos innecesarios en tu cocina por alternativas sostenibles.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Hábitos sostenibles
-responsible: Responsable del grupo Scout
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reemplazar productos innecesarios en la cocina

@@ -1,20 +1,22 @@
 ﻿---
-title: Tu vida ecológica
-duration: 10 -15 min
-layout: layouts/activity.njk
-permalink: /activities/tu-vida-ecologica/
+title: "Tu vida ecológica"
+duration: "10 -15 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/tu-vida-ecologica/"
 description: |
   Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos personales diarios.
   Los participantes reflexionan sobre sus hábitos de gestión de residuos y sugieren formas de mejorar sus prácticas.
 summary: |
   Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos personales diarios.
   Los participantes reflexionan sobre sus hábitos de gestión de residuos y sugieren formas de mejorar sus prácticas.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Gráfico de la casa sostenible
   - Rotuladores y papel
@@ -24,15 +26,18 @@ tools:
 competencies:
   - Pensamiento Crítico
   - Autoconciencia
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Tu vida ecológica

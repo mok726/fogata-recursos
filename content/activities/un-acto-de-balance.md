@@ -1,12 +1,14 @@
 ﻿---
-title: Un acto de balance
-duration: 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/un-acto-de-balance/
+title: "Un acto de balance"
+duration: "30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/un-acto-de-balance/"
 description: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
 summary: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,16 +17,23 @@ age:
 age_group:
   - manada
   - scouts
-materials: Libro pesado
-tools: Espacio abierto
+materials:
+  - Libro pesado
+tools:
+  - Espacio abierto
 competencies:
   - Empatía
   - Conciencia social
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Un acto de balance

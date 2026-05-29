@@ -1,12 +1,14 @@
 ﻿---
-title: Ser una Mariposa Social
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/ser-una-mariposa-social/
+title: "Ser una Mariposa Social"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/ser-una-mariposa-social/"
 description: "Lanza una campaña en redes sociales para informar y movilizar a tus amigos y familiares a ayudar a los polinizadores."
 summary: "Lanza una campaña en redes sociales para informar y movilizar a tus amigos y familiares a ayudar a los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,17 +17,23 @@ age:
 age_group:
   - castores
   - manada
-materials: Dispositivo con acceso a redes sociales
-tools: ""
+materials:
+  - Dispositivo con acceso a redes sociales
+tools:
 competencies:
   - Comunicación
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: Responsable del grupo
-ods: "17"
-sdgs: "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 17
+sdgs:
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Ser una Mariposa Social

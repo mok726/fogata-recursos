@@ -1,12 +1,14 @@
 ﻿---
-title: Saltos Energéticos
-duration: 20
-layout: layouts/activity.njk
-permalink: /activities/saltos-energeticos/
+title: "Saltos Energéticos"
+duration: "20"
+layout: "layouts/activity.njk"
+permalink: "/activities/saltos-energeticos/"
 description: "Demuestra energía potencial/cinética con movimientos corporales."
 summary: "Demuestra energía potencial/cinética con movimientos corporales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,16 +17,23 @@ age:
 age_group:
   - castores
   - manada
-materials: Espacio abierto
-tools: Ninguna
+materials:
+  - Espacio abierto
+tools:
+  - Ninguna
 competencies:
   - Coordinación
   - Aprendizaje kinestésico
-responsible: Educador Scout/ Guiadora AGA
-ods: "3"
-sdgs: "3"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 3
+sdgs:
+  - 3
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Saltos Energéticos

@@ -1,12 +1,14 @@
 ﻿---
-title: Seleccionar y Consumir Miel
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/seleccionar-y-consumir-miel/
+title: "Seleccionar y Consumir Miel"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/seleccionar-y-consumir-miel/"
 description: "Aprende a elegir miel de calidad y cómo apoyar a los apicultores locales."
 summary: "Aprende a elegir miel de calidad y cómo apoyar a los apicultores locales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Miel local
   - Vaso de agua
-tools: ""
+tools:
 competencies:
   - Conciencia alimentaria
   - Conciencia ambiental
   - Responsabilidad
-responsible: Responsable del grupo
-ods: "8"
-sdgs: "8"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 8
+sdgs:
+  - 8
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Seleccionar y Consumir Miel

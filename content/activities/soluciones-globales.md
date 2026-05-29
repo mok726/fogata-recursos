@@ -1,12 +1,14 @@
 ﻿---
-title: Soluciones globales
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/soluciones-globales/
+title: "Soluciones globales"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/soluciones-globales/"
 description: "Actividad para investigar y experimentar con métodos de desalinización del agua."
 summary: "Actividad para investigar y experimentar con métodos de desalinización del agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Agua salada
   - Materiales para desalinización (botellas, plástico, etc.)
-tools: Herramientas de laboratorio (opcional)
+tools:
+  - Herramientas de laboratorio (opcional)
 competencies:
   - Investigación científica
   - Conciencia tecnológica
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Soluciones globales

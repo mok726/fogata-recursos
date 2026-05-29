@@ -1,34 +1,43 @@
 ﻿---
-title: Visitar una hacienda y un mercado
-duration: 1 día
-layout: layouts/activity.njk
-permalink: /activities/visitar-una-hacienda-y-un-mercado/
+title: "Visitar una hacienda y un mercado"
+duration: "1 día"
+layout: "layouts/activity.njk"
+permalink: "/activities/visitar-una-hacienda-y-un-mercado/"
 description: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Aprende sobre la producción local de alimentos.
 summary: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Aprende sobre la producción local de alimentos.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Aprendizaje práctico
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "2"
-  - "12"
+  - 2
+  - 12
 sdgs:
-  - "2"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 2
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Visitar una hacienda y un mercado

@@ -1,16 +1,18 @@
 ﻿---
-title: Reloj de Sol
-duration: 45 min
-layout: layouts/activity.njk
-permalink: /activities/reloj-de-sol/
+title: "Reloj de Sol"
+duration: "45 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/reloj-de-sol/"
 description: |
   Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas.
   Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo.
 summary: |
   Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas.
   Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,18 +27,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Plantilla del reloj de Sol, cartón o madera, pegamento, tijeras
-tools: Transportador, aguja, colores
-competencies: Pensamiento Crítico, Conciencia Ambiental, Aprendizaje Práctico
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Plantilla del reloj de Sol, cartón o madera, pegamento, tijeras
+tools:
+  - Transportador, aguja, colores
+competencies:
+  - Pensamiento Crítico, Conciencia Ambiental, Aprendizaje Práctico
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "4"
-  - "13"
+  - 4
+  - 13
 sdgs:
-  - "4"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 4
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Reloj de Sol

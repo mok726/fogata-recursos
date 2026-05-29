@@ -1,16 +1,18 @@
 ﻿---
-title: Unirse a la red Carboschools
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/unirse-a-la-red-carboschools/
+title: "Unirse a la red Carboschools"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/unirse-a-la-red-carboschools/"
 description: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Investiga si tu escuela puede unirse a la red Carboschools.
 summary: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Investiga si tu escuela puede unirse a la red Carboschools.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y análisis
-responsible: Responsable del grupo Scout
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Unirse a la red Carboschools

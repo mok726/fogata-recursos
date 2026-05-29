@@ -1,12 +1,14 @@
 ﻿---
-title: Sé un Polinizador
-duration: 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/se-un-polinizador/
+title: "Sé un Polinizador"
+duration: "30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/se-un-polinizador/"
 description: "Realiza la polinización tú mismo y aprende sobre el proceso."
 summary: "Realiza la polinización tú mismo y aprende sobre el proceso."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,22 +20,25 @@ age_group:
 materials:
   - Flores con polen
   - Pincel o dedo
-tools: ""
+tools:
 competencies:
   - Observación
   - Conocimiento científico
   - Trabajo manual
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Sé un Polinizador

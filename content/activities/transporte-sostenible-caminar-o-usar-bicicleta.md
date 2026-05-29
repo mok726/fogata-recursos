@@ -1,16 +1,18 @@
 ﻿---
-title: Transporte sostenible - caminar o usar bicicleta
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/transporte-sostenible-caminar-o-usar-bicicleta/
+title: "Transporte sostenible - caminar o usar bicicleta"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/transporte-sostenible-caminar-o-usar-bicicleta/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Bicicleta o transporte público
-tools: No se requieren herramientas específicas
+materials:
+  - Bicicleta o transporte público
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Planificación y organización
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "11"
-  - "13"
+  - 11
+  - 13
 sdgs:
-  - "11"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 11
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Transporte sostenible: caminar o usar bicicleta

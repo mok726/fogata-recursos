@@ -1,16 +1,18 @@
 ﻿---
-title: Recopilar información sobre desastres climáticos
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/recopilar-informacion-sobre-desastres-climaticos/
+title: "Recopilar información sobre desastres climáticos"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/recopilar-informacion-sobre-desastres-climaticos/"
 description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación.
+  Esta actividad es parte del grupo de actividades - Descubre.
+  Investiga sobre desastres relacionados con el clima.
 summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación.
-author: Mariano Cosentino
-source: Fogata de Recursos
+  Esta actividad es parte del grupo de actividades - Descubre.
+  Investiga sobre desastres relacionados con el clima.
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,32 +24,31 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y análisis
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "13"
-  - "2"
+  - 13
 sdgs:
-  - "13"
-  - "2"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Recopilar información sobre desastres climáticos
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
-Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación.
+Esta actividad es parte del grupo de actividades: Descubre.
+Investiga sobre desastres relacionados con el clima.
 
 ## Desarrollo
-Reúne información acerca de desastres relacionados al cambio climático como: sequías, lluvias fuertes, olas de calor, ciclones tropicales, inundaciones, tormentas, fuegos, entre otros.
-¿Cómo afectan la vida y la alimentación de las personas?
-Habla con tus amigos sobre la forma cómo responder ante estos desastres.
-Márcalos en un mapa del mundo o haz una presentación en tu escuela, biblioteca local o campamento juvenil.
+Reúne información sobre desastres relacionados con el tiempo y habla con tus amigos, tus maestros y con especialistas sobre cómo responder ante estos.
 
 ## Cierre
-Reflexiona sobre cómo los desastres climáticos afectan la seguridad alimentaria.
+Reflexiona sobre cómo los desastres climáticos afectan a las comunidades.

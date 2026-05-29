@@ -1,12 +1,14 @@
 ﻿---
-title: Relatos de viaje
-duration: 1-2 días
-layout: layouts/activity.njk
-permalink: /activities/relatos-de-viaje/
+title: "Relatos de viaje"
+duration: "1-2 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/relatos-de-viaje/"
 description: "Los participantes investigan un lugar del mundo y su relación con el cambio climático."
 summary: "Los participantes investigan un lugar del mundo y su relación con el cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,14 +21,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Acceso a internet, papel, lápices, colores.
-tools: Investigación, creatividad.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Acceso a internet, papel, lápices, colores.
+tools:
+  - Investigación, creatividad.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Relatos de viaje

@@ -1,12 +1,14 @@
 ﻿---
-title: Todo sobre la Polinización
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/todo-sobre-la-polinizacion/
+title: "Todo sobre la Polinización"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/todo-sobre-la-polinizacion/"
 description: "Aprende sobre los diferentes tipos de polinización y polinizadores."
 summary: "Aprende sobre los diferentes tipos de polinización y polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,22 +20,25 @@ age_group:
 materials:
   - Computadora o dispositivo para ver videos
   - Software de presentación (opcional)
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Todo sobre la Polinización

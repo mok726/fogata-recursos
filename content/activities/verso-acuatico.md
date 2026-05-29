@@ -1,29 +1,38 @@
 ﻿---
-title: Verso acuático
+title: "Verso acuático"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/verso-acuatico/
+layout: "layouts/activity.njk"
+permalink: "/activities/verso-acuatico/"
 description: "Escribe un poema humorístico sobre el agua."
 summary: "Escribe un poema humorístico sobre el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Cuaderno para notas
   - Lápices de colores (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Comunicación
   - Conciencia ambiental
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Verso acuático

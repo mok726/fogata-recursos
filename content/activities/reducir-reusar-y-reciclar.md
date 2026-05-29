@@ -1,16 +1,18 @@
 ﻿---
-title: Reducir, reusar y reciclar
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/reducir-reusar-y-reciclar/
+title: "Reducir, reusar y reciclar"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/reducir-reusar-y-reciclar/"
 description: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras.
 summary: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - castores
   - manada
-materials: Bolsas reusables
-tools: No se requieren herramientas específicas
+materials:
+  - Bolsas reusables
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Hábitos sostenibles
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "14"
+  - 12
+  - 14
 sdgs:
-  - "12"
-  - "14"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 14
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Reducir, reusar y reciclar

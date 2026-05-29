@@ -1,12 +1,14 @@
 ﻿---
-title: Sigue el flujo
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/sigue-el-flujo/
+title: "Sigue el flujo"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/sigue-el-flujo/"
 description: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
 summary: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,15 +21,21 @@ materials:
   - Papel
   - Lápices de colores
   - Marcadores
-tools: Regla
+tools:
+  - Regla
 competencies:
   - Pensamiento crítico
   - Conciencia ambiental
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Sigue el flujo

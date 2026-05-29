@@ -1,12 +1,14 @@
 ﻿---
-title: Un Regalo Acuático
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/un-regalo-acuatico/
+title: "Un Regalo Acuático"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/un-regalo-acuatico/"
 description: "Crea una fuente de agua para los polinizadores en tu jardín."
 summary: "Crea una fuente de agua para los polinizadores en tu jardín."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Recipiente poco profundo (plato, bebedero para pájaros)
   - Piedras pequeñas
-tools: ""
+tools:
 competencies:
   - Trabajo manual
   - Observación
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Un Regalo Acuático

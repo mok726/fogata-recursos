@@ -1,16 +1,18 @@
 ﻿---
-title: Separar contenedores de reciclaje
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/separar-contenedores-de-reciclaje/
+title: "Separar contenedores de reciclaje"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/separar-contenedores-de-reciclaje/"
 description: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Asegúrate de tener contenedores separados para reciclar.
 summary: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Asegúrate de tener contenedores separados para reciclar.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Contenedores para reciclaje
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Hábitos sostenibles
-responsible: Responsable del grupo Scout
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Separar contenedores de reciclaje

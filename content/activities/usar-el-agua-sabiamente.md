@@ -1,16 +1,18 @@
 ﻿---
-title: Usar el agua sabiamente
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/usar-el-agua-sabiamente/
+title: "Usar el agua sabiamente"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/usar-el-agua-sabiamente/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - castores
   - manada
-materials: Papel y lápiz para dibujar
-tools: No se requieren herramientas específicas
+materials:
+  - Papel y lápiz para dibujar
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Creatividad
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 6
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Usar el agua sabiamente
