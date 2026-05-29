@@ -1,16 +1,18 @@
 ﻿---
-title: Crear un grupo de investigación sobre el clima
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/crear-un-grupo-de-investigacion-sobre-el-clima/
+title: "Crear un grupo de investigación sobre el clima"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/crear-un-grupo-de-investigacion-sobre-el-clima/"
 description: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Diseña y lleva a cabo tu propio grupo de investigación.
 summary: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Diseña y lleva a cabo tu propio grupo de investigación.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: Instrumentos de medición (opcional)
+tools:
+  - Instrumentos de medición (opcional)
 competencies:
   - Conciencia ambiental
   - Investigación y análisis
-responsible: Responsable del grupo Scout
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Crear un grupo de investigación sobre el clima

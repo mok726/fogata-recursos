@@ -1,24 +1,33 @@
 ﻿---
-title: Confeccionar un cartel sobre contaminación marina
-duration: 30 - 40 minutos
-layout: layouts/activity.njk
-permalink: /activities/confeccionar-un-cartel-sobre-contaminacion-marina/
+title: "Confeccionar un cartel sobre contaminación marina"
+duration: "30 - 40 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/confeccionar-un-cartel-sobre-contaminacion-marina/"
 description: "Actividad que ayuda a los jóvenes a transmitir conciencia sobre la contaminación marina por plásticos."
 summary: "Actividad que ayuda a los jóvenes a transmitir conciencia sobre la contaminación marina por plásticos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Papel, lápices o plumas de dibujo
-tools: ""
-competencies: Pensamiento Sistémico, Reflexión sobre normas y valores
-responsible: Facilitador
-ods: "14"
-sdgs: "14"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Papel, lápices o plumas de dibujo
+tools:
+competencies:
+  - Pensamiento Sistémico, Reflexión sobre normas y valores
+responsible:
+  - Facilitador
+ods:
+  - 14
+sdgs:
+  - 14
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Confeccionar un cartel sobre contaminación marina

@@ -1,34 +1,43 @@
 ﻿---
-title: Comprar y usar papel reciclado
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/comprar-y-usar-papel-reciclado/
+title: "Comprar y usar papel reciclado"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/comprar-y-usar-papel-reciclado/"
 description: |
   Esta actividad es parte del grupo de actividades - Protege los Bosques.
   Compra y usa papel reciclado para la escuela y otras actividades.
 summary: |
   Esta actividad es parte del grupo de actividades - Protege los Bosques.
   Compra y usa papel reciclado para la escuela y otras actividades.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Papel reciclado
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Papel reciclado
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Consumo responsable
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "15"
+  - 12
+  - 15
 sdgs:
-  - "12"
-  - "15"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 15
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Comprar y usar papel reciclado

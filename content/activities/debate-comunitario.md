@@ -1,12 +1,14 @@
 ﻿---
-title: Debate Comunitario
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/debate-comunitario/
+title: "Debate Comunitario"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/debate-comunitario/"
 description: "Simula un debate entre sectores (gobierno, empresas) sobre un tema energético local."
 summary: "Simula un debate entre sectores (gobierno, empresas) sobre un tema energético local."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Roles predefinidos
   - Datos locales
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Negociación
   - Ciudadanía activa
-responsible: Educador Scout/ Guiadora AGA
-ods: "17"
-sdgs: "17"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 17
+sdgs:
+  - 17
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Debate Comunitario

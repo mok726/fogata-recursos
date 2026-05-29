@@ -1,12 +1,14 @@
 ﻿---
-title: Clima y estilos de vida
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/clima-y-estilos-de-vida/
+title: "Clima y estilos de vida"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/clima-y-estilos-de-vida/"
 description: "Los participantes investigan cómo el clima afecta la calidad de vida."
 summary: "Los participantes investigan cómo el clima afecta la calidad de vida."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Papel, lápices, colores.
-tools: Investigación, creatividad.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Papel, lápices, colores.
+tools:
+  - Investigación, creatividad.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Clima y estilos de vida

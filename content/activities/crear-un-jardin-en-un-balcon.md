@@ -1,12 +1,14 @@
 ﻿---
-title: Crear un Jardín en un Balcón
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/crear-un-jardin-en-un-balcon/
+title: "Crear un Jardín en un Balcón"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/crear-un-jardin-en-un-balcon/"
 description: "Si no tienes un jardín, crea un jardín en macetas en tu balcón."
 summary: "Si no tienes un jardín, crea un jardín en macetas en tu balcón."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -26,11 +28,16 @@ competencies:
   - Trabajo manual
   - Observación
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Crear un Jardín en un Balcón

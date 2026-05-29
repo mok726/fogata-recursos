@@ -1,24 +1,33 @@
 ﻿---
-title: Campaña de carteles
-duration: 15 - 20 minutos
-layout: layouts/activity.njk
-permalink: /activities/campana-de-carteles/
+title: "Campaña de carteles"
+duration: "15 - 20 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/campana-de-carteles/"
 description: "Actividad que anima a los jóvenes a crear carteles sobre la contaminación por plásticos."
 summary: "Actividad que anima a los jóvenes a crear carteles sobre la contaminación por plásticos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Hojas, materiales de artes plásticas
-tools: ""
-competencies: Pensamiento Sistémico, Reflexión sobre normas y valores
-responsible: Facilitador
-ods: "14"
-sdgs: "14"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Hojas, materiales de artes plásticas
+tools:
+competencies:
+  - Pensamiento Sistémico, Reflexión sobre normas y valores
+responsible:
+  - Facilitador
+ods:
+  - 14
+sdgs:
+  - 14
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Campaña de carteles

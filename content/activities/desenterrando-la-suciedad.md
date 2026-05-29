@@ -1,12 +1,14 @@
 ﻿---
-title: DESENTERRANDO LA SUCIEDAD
-duration: 2 horas
-layout: layouts/activity.njk
-permalink: /activities/desenterrando-la-suciedad/
+title: "DESENTERRANDO LA SUCIEDAD"
+duration: "2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/desenterrando-la-suciedad/"
 description: "Investiga tipos de contaminación en bosques locales y propón soluciones."
 summary: "Investiga tipos de contaminación en bosques locales y propón soluciones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -27,15 +29,18 @@ competencies:
   - Investigación de campo
   - Pensamiento crítico
   - Advocacy
-responsible: Scouter o químico ambiental
+responsible:
+  - Scouter o químico ambiental
 ods:
-  - "6"
-  - "15"
+  - 6
+  - 15
 sdgs:
-  - "6"
-  - "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 6
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # DESENTERRANDO LA SUCIEDAD

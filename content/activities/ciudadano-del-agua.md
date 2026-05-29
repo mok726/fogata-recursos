@@ -1,12 +1,14 @@
 ﻿---
-title: Ciudadano del agua
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/ciudadano-del-agua/
+title: "Ciudadano del agua"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/ciudadano-del-agua/"
 description: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
 summary: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Conciencia cívica
   - Comunicación
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Ciudadano del agua

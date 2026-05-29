@@ -1,12 +1,14 @@
 ﻿---
-title: Calificación de Carbono
-duration: 180
-layout: layouts/activity.njk
-permalink: /activities/calificacion-de-carbono/
+title: "Calificación de Carbono"
+duration: "180"
+layout: "layouts/activity.njk"
+permalink: "/activities/calificacion-de-carbono/"
 description: "Analiza emisiones de CO₂ por país y crea un póster."
 summary: "Analiza emisiones de CO₂ por país y crea un póster."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Análisis crítico
   - Diseño gráfico
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Calificación de Carbono

@@ -1,36 +1,44 @@
 ﻿---
-title: Cocinar una comida sana y sostenible
-duration: 1 día
-layout: layouts/activity.njk
-permalink: /activities/cocinar-una-comida-sana-y-sostenible/
+title: "Cocinar una comida sana y sostenible"
+duration: "1 día"
+layout: "layouts/activity.njk"
+permalink: "/activities/cocinar-una-comida-sana-y-sostenible/"
 description: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Aprende a cocinar una comida sana y amigable con el medio ambiente.
 summary: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Aprende a cocinar una comida sana y amigable con el medio ambiente.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Ingredientes locales
   - Utensilios de cocina
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Habilidades culinarias
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Cocinar una comida sana y sostenible

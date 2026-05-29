@@ -1,12 +1,14 @@
 ﻿---
-title: Campamento de Bajo Impacto
-duration: 2880 (2 días)
-layout: layouts/activity.njk
-permalink: /activities/campamento-de-bajo-impacto/
+title: "Campamento de Bajo Impacto"
+duration: "2880 (2 días)"
+layout: "layouts/activity.njk"
+permalink: "/activities/campamento-de-bajo-impacto/"
 description: "Planea una excursión scout con mínima huella de carbono."
 summary: "Planea una excursión scout con mínima huella de carbono."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Tiendas de campaña
   - Utensilios reutilizables
-tools: Calculadora de carbono
+tools:
+  - Calculadora de carbono
 competencies:
   - Planificación sostenible
   - Autosuficiencia
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Campamento de Bajo Impacto

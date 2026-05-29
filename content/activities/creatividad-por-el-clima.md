@@ -1,12 +1,14 @@
 ﻿---
-title: Creatividad por el clima
-duration: 1 día
-layout: layouts/activity.njk
-permalink: /activities/creatividad-por-el-clima/
+title: "Creatividad por el clima"
+duration: "1 día"
+layout: "layouts/activity.njk"
+permalink: "/activities/creatividad-por-el-clima/"
 description: "Los participantes crean materiales educativos sobre el cambio climático."
 summary: "Los participantes crean materiales educativos sobre el cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,18 +21,23 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Papel, lápices, colores, materiales de arte.
-tools: ""
-competencies: Creatividad, trabajo en equipo.
-responsible: Maestro/profesor/dirigente.
+materials:
+  - Papel, lápices, colores, materiales de arte.
+tools:
+competencies:
+  - Creatividad, trabajo en equipo.
+responsible:
+  - Maestro/profesor/dirigente.
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Creatividad por el clima

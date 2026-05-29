@@ -1,8 +1,8 @@
 ﻿---
-title: Crear un Zumbido
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/crear-un-zumbido/
+title: "Crear un Zumbido"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/crear-un-zumbido/"
 description: |
   Actividad obligatoria para la sección D - Tomar Acción.
   Organiza un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad.
@@ -11,8 +11,10 @@ summary: |
   Actividad obligatoria para la sección D - Tomar Acción.
   Organiza un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad.
   Demuestra cómo construir hoteles para abejas, plantar flores nativas y usar alternativas a los pesticidas.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,22 +27,25 @@ materials:
   - Materiales para construir hoteles para abejas
   - Semillas de flores nativas
   - Información sobre alternativas a los pesticidas
-tools: ""
+tools:
 competencies:
   - Organización
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Crear un Zumbido

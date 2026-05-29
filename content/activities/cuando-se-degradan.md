@@ -1,24 +1,33 @@
 ﻿---
-title: ¿Cuándo se degradan?
-duration: 12 semanas
-layout: layouts/activity.njk
-permalink: /activities/cuando-se-degradan/
+title: "¿Cuándo se degradan?"
+duration: "12 semanas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cuando-se-degradan/"
 description: "Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales."
 summary: "Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Residuos biodegradables y no biodegradables, hoja de trabajo
-tools: ""
-competencies: Pensamiento Sistémico, Reflexión sobre normas y valores
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Residuos biodegradables y no biodegradables, hoja de trabajo
+tools:
+competencies:
+  - Pensamiento Sistémico, Reflexión sobre normas y valores
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # ¿Cuándo se degradan?

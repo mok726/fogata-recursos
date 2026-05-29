@@ -1,16 +1,18 @@
 ﻿---
-title: Contactar con expertos en cambio climático
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/contactar-con-expertos-en-cambio-climatico/
+title: "Contactar con expertos en cambio climático"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/contactar-con-expertos-en-cambio-climatico/"
 description: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Ponte en contacto con científicos o grupos ambientales.
 summary: |
   Esta actividad es parte del grupo de actividades - Descubre.
   Ponte en contacto con científicos o grupos ambientales.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Comunicación y colaboración
-responsible: Responsable del grupo Scout
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Contactar con expertos en cambio climático

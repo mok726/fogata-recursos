@@ -1,29 +1,38 @@
 ﻿---
-title: Curso intensivo cultural
+title: "Curso intensivo cultural"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/curso-intensivo-cultural/
+layout: "layouts/activity.njk"
+permalink: "/activities/curso-intensivo-cultural/"
 description: "Investiga el significado cultural del agua en diferentes regiones."
 summary: "Investiga el significado cultural del agua en diferentes regiones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Acceso a internet (opcional)
   - Cuaderno para notas
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conocimiento cultural
   - Investigación
   - Comunicación
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Curso intensivo cultural

@@ -1,16 +1,18 @@
 ﻿---
-title: Cava Profundamente
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/cava-profundamente/
+title: "Cava Profundamente"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cava-profundamente/"
 description: |
   Actividad obligatoria para la categoría 'Todo sobre el Suelo'.
   Visita espacios naturales y examina el suelo, identificando sus características y biodiversidad.
 summary: |
   Actividad obligatoria para la categoría 'Todo sobre el Suelo'.
   Visita espacios naturales y examina el suelo, identificando sus características y biodiversidad.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,14 +21,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Tierra * Palas pequeñas * Cuaderno * Cámara (opcional)
-tools: Palas * Lupas
-competencies: Observación científica * Conciencia ambiental * Trabajo en equipo
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Tierra * Palas pequeñas * Cuaderno * Cámara (opcional)
+tools:
+  - Palas * Lupas
+competencies:
+  - Observación científica * Conciencia ambiental * Trabajo en equipo
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Cava Profundamente

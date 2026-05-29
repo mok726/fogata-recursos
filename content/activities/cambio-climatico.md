@@ -1,33 +1,40 @@
 ﻿---
-title: Cambio climático
+title: "Cambio climático"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/cambio-climatico/
+layout: "layouts/activity.njk"
+permalink: "/activities/cambio-climatico/"
 description: "Investiga los efectos del cambio climático en los recursos hídricos."
 summary: "Investiga los efectos del cambio climático en los recursos hídricos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "13"
+  - 6
+  - 13
 sdgs:
-  - "6"
-  - "13"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 13
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Cambio climático

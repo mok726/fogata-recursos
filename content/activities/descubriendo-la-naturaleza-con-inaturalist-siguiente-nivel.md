@@ -1,28 +1,36 @@
 ﻿---
-title: Descubriendo la Naturaleza con iNaturalist - Siguiente Nivel
-duration: 20 -30 min
-layout: layouts/activity.njk
-permalink: /activities/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel/
+title: "Descubriendo la Naturaleza con iNaturalist - Siguiente Nivel"
+duration: "20 -30 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel/"
 description: "Esta actividad permite a los participantes profundizar en el uso de la aplicación iNaturalist para identificar especies."
 summary: "Esta actividad permite a los participantes profundizar en el uso de la aplicación iNaturalist para identificar especies."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Aplicación iNaturalist
   - Dispositivo móvil
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Pensamiento Crítico
-responsible: Sinodal o Dirigente a cargo
-ods: "15"
-sdgs: "15"
-activity_badges: championsfornature
-tags: Champions for Nature
+responsible:
+  - Sinodal o Dirigente a cargo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Descubriendo la Naturaleza con iNaturalist - Siguiente Nivel

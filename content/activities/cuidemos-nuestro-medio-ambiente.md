@@ -1,8 +1,8 @@
 ﻿---
-title: Cuidemos nuestro medio ambiente
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/cuidemos-nuestro-medio-ambiente/
+title: "Cuidemos nuestro medio ambiente"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/cuidemos-nuestro-medio-ambiente/"
 description: |
   Esta actividad es obligatoria para la categoría Nuestro Clima.
   Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria.
@@ -13,27 +13,36 @@ summary: |
   Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria.
   Haz una lista de formas para reducir la cantidad de energía que usas.
   Sigue un plan durante al menos un mes y comparte tu experiencia.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Papel y lápiz para hacer la lista
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Papel y lápiz para hacer la lista
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Planificación y organización
   - Comunicación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "13"
+  - 7
+  - 13
 sdgs:
-  - "7"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Cuidemos nuestro medio ambiente

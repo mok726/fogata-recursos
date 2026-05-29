@@ -1,29 +1,38 @@
 ﻿---
-title: ¿De dónde viene tu agua?
+title: "¿De dónde viene tu agua?"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/de-donde-viene-tu-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/de-donde-viene-tu-agua/"
 description: "Investiga de dónde proviene el agua local y cómo se trata."
 summary: "Investiga de dónde proviene el agua local y cómo se trata."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Cuaderno para notas
   - Acceso a información local sobre el suministro de agua
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua(obligatoria)
-tags: Insignia del Agua (Obligatoria)
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua(obligatoria)
+tags:
+  - Insignia del Agua (Obligatoria)
 ---
 
 # ¿De dónde viene tu agua?

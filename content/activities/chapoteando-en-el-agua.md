@@ -1,33 +1,40 @@
 ﻿---
-title: Chapoteando en el agua
+title: "Chapoteando en el agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/chapoteando-en-el-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/chapoteando-en-el-agua/"
 description: "Observa charcos después de la lluvia y dibuja la vida alrededor de ellos."
 summary: "Observa charcos después de la lluvia y dibuja la vida alrededor de ellos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
+age:
+  - manada
+age_group:
+  - manada
 materials:
   - Cuaderno para notas
   - Lápices de colores
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Observación
   - Creatividad
   - Conciencia ambiental
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "15"
+  - 6
+  - 15
 sdgs:
-  - "6"
-  - "15"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 15
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Chapoteando en el agua

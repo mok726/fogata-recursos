@@ -1,16 +1,18 @@
 ﻿---
-title: Crear un jardín comunitario
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/crear-un-jardin-comunitario/
+title: "Crear un jardín comunitario"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/crear-un-jardin-comunitario/"
 description: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Empieza un jardín comunitario o únete a uno existente.
 summary: |
   Esta actividad es parte del grupo de actividades - Actúa.
   Empieza un jardín comunitario o únete a uno existente.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Semillas, tierra, macetas, etc.
-tools: Herramientas de jardinería (pala, regadera, etc.)
+materials:
+  - Semillas, tierra, macetas, etc.
+tools:
+  - Herramientas de jardinería (pala, regadera, etc.)
 competencies:
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "2"
-  - "15"
+  - 2
+  - 15
 sdgs:
-  - "2"
-  - "15"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 2
+  - 15
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Crear un jardín comunitario

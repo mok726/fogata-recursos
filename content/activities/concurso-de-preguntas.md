@@ -1,12 +1,14 @@
 ﻿---
-title: Concurso de preguntas
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/concurso-de-preguntas/
+title: "Concurso de preguntas"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/concurso-de-preguntas/"
 description: "Actividad para aprender sobre el agua y el saneamiento a través de un concurso de preguntas."
 summary: "Actividad para aprender sobre el agua y el saneamiento a través de un concurso de preguntas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Lista de preguntas
   - Papel y lápices
-tools: Temporizador (opcional)
+tools:
+  - Temporizador (opcional)
 competencies:
   - Trabajo en equipo
   - Aprendizaje activo
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Concurso de preguntas

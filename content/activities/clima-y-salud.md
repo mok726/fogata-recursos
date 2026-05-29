@@ -1,12 +1,14 @@
 ﻿---
-title: Clima y salud
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/clima-y-salud/
+title: "Clima y salud"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/clima-y-salud/"
 description: "Los participantes investigan cómo el clima afecta la salud."
 summary: "Los participantes investigan cómo el clima afecta la salud."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Acceso a internet, papel, lápices.
-tools: Investigación, comunicación.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 3, 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Acceso a internet, papel, lápices.
+tools:
+  - Investigación, comunicación.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 3, 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Clima y salud

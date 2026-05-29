@@ -1,12 +1,14 @@
 ﻿---
-title: Cambio climático y agricultura
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/cambio-climatico-y-agricultura/
+title: "Cambio climático y agricultura"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cambio-climatico-y-agricultura/"
 description: "Los participantes discuten cómo el cambio climático afecta la agricultura."
 summary: "Los participantes discuten cómo el cambio climático afecta la agricultura."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,18 +19,23 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Acceso a internet, cuadernos, lápices.
-tools: ""
-competencies: Análisis, comunicación.
-responsible: Maestro/profesor/dirigente.
+materials:
+  - Acceso a internet, cuadernos, lápices.
+tools:
+competencies:
+  - Análisis, comunicación.
+responsible:
+  - Maestro/profesor/dirigente.
 ods:
-  - "2"
-  - "13"
+  - 2
+  - 13
 sdgs:
-  - "2"
-  - "13"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+  - 2
+  - 13
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Cambio climático y agricultura

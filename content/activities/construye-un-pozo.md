@@ -1,12 +1,14 @@
 ﻿---
-title: Construye un pozo
-duration: Varias horas (depende del evento)
-layout: layouts/activity.njk
-permalink: /activities/construye-un-pozo/
+title: "Construye un pozo"
+duration: "Varias horas (depende del evento)"
+layout: "layouts/activity.njk"
+permalink: "/activities/construye-un-pozo/"
 description: "Actividad para investigar y recaudar fondos para proyectos de agua en comunidades necesitadas."
 summary: "Actividad para investigar y recaudar fondos para proyectos de agua en comunidades necesitadas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Trabajo en equipo
   - Conciencia social
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Construye un pozo

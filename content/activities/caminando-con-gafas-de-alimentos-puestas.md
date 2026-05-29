@@ -1,32 +1,39 @@
 ﻿---
-title: ¡Caminando con gafas de alimentos puestas!
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/caminando-con-gafas-de-alimentos-puestas/
+title: "¡Caminando con gafas de alimentos puestas!"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/caminando-con-gafas-de-alimentos-puestas/"
 description: "Esta actividad permite a los participantes prestar atención a los objetos en su vecindario asociados con el consumo y la producción de alimentos."
 summary: "Esta actividad permite a los participantes prestar atención a los objetos en su vecindario asociados con el consumo y la producción de alimentos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Ninguno
-tools: Ninguna
+age:
+age_group:
+materials:
+  - Ninguno
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Pensamiento Crítico
   - Anticipar el Futuro
   - Estratega
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # ¡Caminando con gafas de alimentos puestas!

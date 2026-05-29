@@ -1,12 +1,14 @@
 ﻿---
-title: Campaña Comunitaria
-duration: 1440 (1 mes)
-layout: layouts/activity.njk
-permalink: /activities/campana-comunitaria/
+title: "Campaña Comunitaria"
+duration: "1440 (1 mes)"
+layout: "layouts/activity.njk"
+permalink: "/activities/campana-comunitaria/"
 description: "Lanza una iniciativa local para promover energía limpia."
 summary: "Lanza una iniciativa local para promover energía limpia."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Volantes
   - Materiales para talleres
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Movilización social
   - Creatividad
-responsible: Educador Scout/ Guiadora AGA
-ods: "11"
-sdgs: "11"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 11
+sdgs:
+  - 11
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Campaña Comunitaria

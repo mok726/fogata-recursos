@@ -1,16 +1,18 @@
 ﻿---
-title: Construir una abonera
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/construir-una-abonera/
+title: "Construir una abonera"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/construir-una-abonera/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Aprende a construir una abonera para desechos biodegradables.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Aprende a construir una abonera para desechos biodegradables.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Desechos biodegradables
   - Madera vieja
-tools: Herramientas de construcción (opcional)
+tools:
+  - Herramientas de construcción (opcional)
 competencies:
   - Conciencia ambiental
   - Habilidades prácticas
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "15"
+  - 12
+  - 15
 sdgs:
-  - "12"
-  - "15"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 15
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Construir una abonera

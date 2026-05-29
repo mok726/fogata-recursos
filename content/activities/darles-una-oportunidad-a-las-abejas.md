@@ -1,16 +1,18 @@
 ﻿---
-title: Darles una Oportunidad a las Abejas
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/darles-una-oportunidad-a-las-abejas/
+title: "Darles una Oportunidad a las Abejas"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/darles-una-oportunidad-a-las-abejas/"
 description: |
   Actividad obligatoria para la sección D - Tomar Acción.
   Haz que tu jardín en casa o en la escuela sea más amigable para los polinizadores.
 summary: |
   Actividad obligatoria para la sección D - Tomar Acción.
   Haz que tu jardín en casa o en la escuela sea más amigable para los polinizadores.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -23,24 +25,27 @@ materials:
   - Semillas de flores nativas
   - Materiales para construir un hotel para abejas
   - Fuente de agua (opcional)
-tools: ""
+tools:
 competencies:
   - Trabajo manual
   - Conciencia ambiental
   - Observación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
-  - "8"
+  - 1
+  - 2
+  - 15
+  - 8
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-  - "8"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+  - 8
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Darles una Oportunidad a las Abejas

@@ -1,12 +1,14 @@
 ﻿---
-title: Deja la botella
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/deja-la-botella/
+title: "Deja la botella"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/deja-la-botella/"
 description: "Actividad para promover el uso de agua del grifo en lugar de agua embotellada."
 summary: "Actividad para promover el uso de agua del grifo en lugar de agua embotellada."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Conciencia ambiental
   - Comunicación
-responsible: Líder de grupo
-ods: "12"
-sdgs: "12"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Deja la botella

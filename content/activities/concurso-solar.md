@@ -1,12 +1,14 @@
 ﻿---
-title: Concurso Solar
-duration: 30 min
-layout: layouts/activity.njk
-permalink: /activities/concurso-solar/
+title: "Concurso Solar"
+duration: "30 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/concurso-solar/"
 description: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
 summary: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,18 +19,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Preguntas del cuestionario
-tools: Ninguna
-competencies: Pensamiento Crítico, Trabajo en Equipo
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Preguntas del cuestionario
+tools:
+  - Ninguna
+competencies:
+  - Pensamiento Crítico, Trabajo en Equipo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "4"
-  - "13"
+  - 4
+  - 13
 sdgs:
-  - "4"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 4
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Concurso Solar

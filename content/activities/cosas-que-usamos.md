@@ -1,12 +1,14 @@
 ﻿---
-title: Cosas que Usamos
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/cosas-que-usamos/
+title: "Cosas que Usamos"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cosas-que-usamos/"
 description: "Investiga cómo los polinizadores contribuyen a productos como aceites, semillas, nueces, fibras y medicinas."
 summary: "Investiga cómo los polinizadores contribuyen a productos como aceites, semillas, nueces, fibras y medicinas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Cámara (opcional)
   - Papel y lápiz para notas
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Cosas que Usamos

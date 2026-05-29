@@ -1,12 +1,14 @@
 ﻿---
-title: Canción del Viento o el Sol
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/cancion-del-viento-o-el-sol/
+title: "Canción del Viento o el Sol"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/cancion-del-viento-o-el-sol/"
 description: "Crea una canción sobre energía renovable usando melodías conocidas."
 summary: "Crea una canción sobre energía renovable usando melodías conocidas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Letras de canciones
   - Instrumentos (opcional)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Creatividad musical
   - Conciencia energética
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Canción del Viento o el Sol

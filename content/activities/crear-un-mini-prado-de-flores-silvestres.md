@@ -1,12 +1,14 @@
 ﻿---
-title: Crear un Mini Prado de Flores Silvestres
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/crear-un-mini-prado-de-flores-silvestres/
+title: "Crear un Mini Prado de Flores Silvestres"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/crear-un-mini-prado-de-flores-silvestres/"
 description: "Convierte un área de césped en un prado de flores silvestres para los polinizadores."
 summary: "Convierte un área de césped en un prado de flores silvestres para los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -28,11 +30,16 @@ competencies:
   - Trabajo manual
   - Observación
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Crear un Mini Prado de Flores Silvestres

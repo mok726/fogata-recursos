@@ -1,12 +1,14 @@
 ﻿---
-title: DEFORESTACIÓN Y DEGRADACIÓN
-duration: 2 horas
-layout: layouts/activity.njk
-permalink: /activities/deforestacion-y-degradacion/
+title: "DEFORESTACIÓN Y DEGRADACIÓN"
+duration: "2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/deforestacion-y-degradacion/"
 description: "Investiga tasas de deforestación en tu país y compáralas con el promedio mundial."
 summary: "Investiga tasas de deforestación en tu país y compáralas con el promedio mundial."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,22 @@ age_group:
 materials:
   - Datos estadísticos (FAO, ministerios ambientales)
   - Materiales para presentación creativa
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Análisis de datos
   - Comunicación creativa
   - Pensamiento político
-responsible: Scouter o economista ambiental
-ods: "15"
-sdgs: "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter o economista ambiental
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # DEFORESTACIÓN Y DEGRADACIÓN

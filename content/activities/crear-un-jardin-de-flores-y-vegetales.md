@@ -1,12 +1,14 @@
 ﻿---
-title: Crear un Jardín de Flores y Vegetales
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/crear-un-jardin-de-flores-y-vegetales/
+title: "Crear un Jardín de Flores y Vegetales"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/crear-un-jardin-de-flores-y-vegetales/"
 description: "Planta un jardín de flores y vegetales para atraer polinizadores."
 summary: "Planta un jardín de flores y vegetales para atraer polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -28,11 +30,16 @@ competencies:
   - Trabajo manual
   - Observación
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Crear un Jardín de Flores y Vegetales

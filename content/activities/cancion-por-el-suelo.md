@@ -1,12 +1,14 @@
 ﻿---
-title: Canción por el Suelo
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/cancion-por-el-suelo/
+title: "Canción por el Suelo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cancion-por-el-suelo/"
 description: "Crea una canción sobre los factores que dañan el suelo."
 summary: "Crea una canción sobre los factores que dañan el suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Ninguno
-tools: Ninguna
-competencies: Creatividad * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Ninguno
+tools:
+  - Ninguna
+competencies:
+  - Creatividad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Canción por el Suelo

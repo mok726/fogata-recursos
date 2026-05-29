@@ -1,24 +1,35 @@
 ﻿---
-title: Corre que te alcanzo
-duration: 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/corre-que-te-alcanzo/
+title: "Corre que te alcanzo"
+duration: "30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/corre-que-te-alcanzo/"
 description: "Los participantes juegan un juego que simula el impacto del cambio climático en los osos polares."
 summary: "Los participantes juegan un juego que simula el impacto del cambio climático en los osos polares."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
-materials: Hula hulas, espacio abierto.
-tools: ""
-competencies: Juego interactivo, trabajo en equipo.
-responsible: Maestro/profesor/dirigente.
-ods: "15"
-sdgs: "15"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+age:
+  - manada
+age_group:
+  - manada
+materials:
+  - Hula hulas, espacio abierto.
+tools:
+competencies:
+  - Juego interactivo, trabajo en equipo.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Corre que te alcanzo

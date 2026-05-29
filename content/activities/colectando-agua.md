@@ -1,16 +1,18 @@
 ﻿---
-title: Colectando Agua
-duration: 30 min
-layout: layouts/activity.njk
-permalink: /activities/colectando-agua/
+title: "Colectando Agua"
+duration: "30 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/colectando-agua/"
 description: |
   Aprende a recolectar agua utilizando la energía del Sol y la condensación.
   Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.
 summary: |
   Aprende a recolectar agua utilizando la energía del Sol y la condensación.
   Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -21,18 +23,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Pala, frasco o recipiente, lámina de plástico, piedras grandes, piedra pequeña, vegetación
-tools: Ninguna
-competencies: Conciencia Ambiental, Experimentación Científica
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Pala, frasco o recipiente, lámina de plástico, piedras grandes, piedra pequeña, vegetación
+tools:
+  - Ninguna
+competencies:
+  - Conciencia Ambiental, Experimentación Científica
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "6"
-  - "13"
+  - 6
+  - 13
 sdgs:
-  - "6"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 6
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Colectando Agua

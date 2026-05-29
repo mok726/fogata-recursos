@@ -1,16 +1,20 @@
 ﻿---
-title: Compañía de transporte marítimo
+title: "Compañía de transporte marítimo"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/compania-de-transporte-maritimo/
+layout: "layouts/activity.njk"
+permalink: "/activities/compania-de-transporte-maritimo/"
 description: "Construye barcos y balsas para entender el transporte de bienes por agua."
 summary: "Construye barcos y balsas para entender el transporte de bienes por agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
+age:
+  - manada
+age_group:
+  - manada
 materials:
   - Materiales para construir barcos (madera, papel, cartulina, etc.)
   - Tela para velas (opcional)
@@ -21,15 +25,17 @@ competencies:
   - Creatividad
   - Trabajo en equipo
   - Conciencia ambiental
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "9"
+  - 6
+  - 9
 sdgs:
-  - "6"
-  - "9"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 9
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Compañía de transporte marítimo

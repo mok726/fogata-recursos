@@ -1,12 +1,14 @@
 ﻿---
-title: Científicos incipientes
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/cientificos-incipientes/
+title: "Científicos incipientes"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cientificos-incipientes/"
 description: "Los participantes imaginan ser científicos que estudian el cambio climático."
 summary: "Los participantes imaginan ser científicos que estudian el cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,14 +21,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Acceso a internet, papel, lápices.
-tools: Investigación, pensamiento crítico.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Acceso a internet, papel, lápices.
+tools:
+  - Investigación, pensamiento crítico.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Científicos incipientes

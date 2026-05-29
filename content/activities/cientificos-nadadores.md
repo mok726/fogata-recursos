@@ -1,33 +1,40 @@
 ﻿---
-title: Científicos nadadores
+title: "Científicos nadadores"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/cientificos-nadadores/
+layout: "layouts/activity.njk"
+permalink: "/activities/cientificos-nadadores/"
 description: "Observa la vida acuática mientras nadas."
 summary: "Observa la vida acuática mientras nadas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Gafas o equipo para buceo
   - Cuaderno para notas
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Observación
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "14"
+  - 6
+  - 14
 sdgs:
-  - "6"
-  - "14"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 14
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Científicos nadadores

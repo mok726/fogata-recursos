@@ -1,16 +1,18 @@
 ﻿---
-title: Desafío Sin Electrónicos
-duration: 720 (1 mes)
-layout: layouts/activity.njk
-permalink: /activities/desafio-sin-electronicos/
+title: "Desafío Sin Electrónicos"
+duration: "720 (1 mes)"
+layout: "layouts/activity.njk"
+permalink: "/activities/desafio-sin-electronicos/"
 description: |
   Actividad obligatoria para la categoría - USO DE LA ENERGÍA.
   Vive sin dispositivos electrónicos durante un mes y registra tus experiencias.
 summary: |
   Actividad obligatoria para la categoría - USO DE LA ENERGÍA.
   Vive sin dispositivos electrónicos durante un mes y registra tus experiencias.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Cuaderno
   - Cronómetro
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Autodisciplina
   - Conciencia digital
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Desafío Sin Electrónicos

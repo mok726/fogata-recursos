@@ -1,12 +1,14 @@
 ﻿---
-title: Compromiso por el agua
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/compromiso-por-el-agua/
+title: "Compromiso por el agua"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/compromiso-por-el-agua/"
 description: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
 summary: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Certificados de compromiso
   - Lápices o bolígrafos
-tools: Computadora para diseño (opcional)
+tools:
+  - Computadora para diseño (opcional)
 competencies:
   - Conciencia ambiental
   - Comunicación
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Compromiso por el agua

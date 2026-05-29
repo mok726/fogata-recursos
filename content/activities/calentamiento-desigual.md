@@ -1,12 +1,14 @@
 ﻿---
-title: Calentamiento Desigual
-duration: 45
-layout: layouts/activity.njk
-permalink: /activities/calentamiento-desigual/
+title: "Calentamiento Desigual"
+duration: "45"
+layout: "layouts/activity.njk"
+permalink: "/activities/calentamiento-desigual/"
 description: "Demuestra cómo distintas superficies absorben calor."
 summary: "Demuestra cómo distintas superficies absorben calor."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,11 +27,16 @@ tools:
 competencies:
   - Análisis de datos
   - Conciencia ambiental
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Calentamiento Desigual

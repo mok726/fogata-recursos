@@ -1,12 +1,14 @@
 ﻿---
-title: Contra la Corriente
-duration: 1440 (1 día)
-layout: layouts/activity.njk
-permalink: /activities/contra-la-corriente/
+title: "Contra la Corriente"
+duration: "1440 (1 día)"
+layout: "layouts/activity.njk"
+permalink: "/activities/contra-la-corriente/"
 description: "Vive sin 3 actividades que requieran energía durante un día y lleva un diario."
 summary: "Vive sin 3 actividades que requieran energía durante un día y lleva un diario."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Cuaderno
   - Lápiz
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Autoconocimiento
   - Resiliencia
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Contra la Corriente

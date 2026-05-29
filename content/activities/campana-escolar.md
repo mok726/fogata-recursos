@@ -1,12 +1,14 @@
 ﻿---
-title: Campaña Escolar
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/campana-escolar/
+title: "Campaña Escolar"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/campana-escolar/"
 description: "Lanza una campaña de un mes en tu escuela para crear conciencia sobre los polinizadores."
 summary: "Lanza una campaña de un mes en tu escuela para crear conciencia sobre los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,20 +20,23 @@ age_group:
 materials:
   - Carteles y materiales para la campaña
   - Espacio para la mesa redonda
-tools: ""
+tools:
 competencies:
   - Organización
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "15"
-  - "17"
+  - 15
+  - 17
 sdgs:
-  - "15"
-  - "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 15
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Campaña Escolar

@@ -1,8 +1,8 @@
 ﻿---
-title: Construye un Hotel para Abejas
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/construye-un-hotel-para-abejas/
+title: "Construye un Hotel para Abejas"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/construye-un-hotel-para-abejas/"
 description: |
   Actividad obligatoria para la sección A - ¿Qué es un polinizador?
   Construye un hotel para abejas en tu hogar, escuela o jardín comunitario.
@@ -11,8 +11,10 @@ summary: |
   Actividad obligatoria para la sección A - ¿Qué es un polinizador?
   Construye un hotel para abejas en tu hogar, escuela o jardín comunitario.
   Monitorea el hotel para ver si atrae abejas y observa qué tipos de abejas lo visitan.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -32,17 +34,20 @@ competencies:
   - Trabajo manual
   - Observación
   - Conciencia ambiental
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Construye un Hotel para Abejas

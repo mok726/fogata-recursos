@@ -1,12 +1,14 @@
 ﻿---
-title: Camisetas Sucias
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/camisetas-sucias/
+title: "Camisetas Sucias"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/camisetas-sucias/"
 description: "Investiga cómo las fibras de tu ropa están relacionadas con el suelo."
 summary: "Investiga cómo las fibras de tu ropa están relacionadas con el suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Ropa con etiquetas * Libros/recursos en línea
-tools: Ninguna
-competencies: Investigación * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Ropa con etiquetas * Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Investigación * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Camisetas Sucias

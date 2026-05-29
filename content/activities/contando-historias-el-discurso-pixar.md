@@ -1,24 +1,34 @@
 ﻿---
-title: Contando historias - El Discurso Pixar
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/contando-historias-el-discurso-pixar/
+title: "Contando historias - El Discurso Pixar"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/contando-historias-el-discurso-pixar/"
 description: "Esta actividad permite a los participantes crear historias convincentes para abogar por la biodiversidad utilizando el formato de narrativa de Pixar."
 summary: "Esta actividad permite a los participantes crear historias convincentes para abogar por la biodiversidad utilizando el formato de narrativa de Pixar."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Papel y lápiz
-tools: Ninguna
-competencies: Colaboración
-responsible: Sinodal o Dirigente a cargo
-ods: "15"
-sdgs: "15"
-activity_badges: championsfornature
-tags: Champions for Nature
+age:
+age_group:
+materials:
+  - Papel y lápiz
+tools:
+  - Ninguna
+competencies:
+  - Colaboración
+responsible:
+  - Sinodal o Dirigente a cargo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Contando historias - El Discurso Pixar

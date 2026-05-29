@@ -1,30 +1,37 @@
 ﻿---
-title: Cuatro Esquinas
-duration: 20 -30 min
-layout: layouts/activity.njk
-permalink: /activities/cuatro-esquinas/
+title: "Cuatro Esquinas"
+duration: "20 -30 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/cuatro-esquinas/"
 description: "Esta actividad ayuda a los participantes a compartir opiniones relacionadas con la producción sostenible y a considerar las perspectivas de otros."
 summary: "Esta actividad ayuda a los participantes a compartir opiniones relacionadas con la producción sostenible y a considerar las perspectivas de otros."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Ninguno
-tools: Ninguna
+age:
+age_group:
+materials:
+  - Ninguno
+tools:
+  - Ninguna
 competencies:
   - Autoconciencia
   - Pensamiento Crítico
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Cuatro Esquinas
