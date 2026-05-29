@@ -1,12 +1,14 @@
 ﻿---
-title: Apoya a los Apicultores
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/apoya-a-los-apicultores/
+title: "Apoya a los Apicultores"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/apoya-a-los-apicultores/"
 description: "Organiza un día en tu escuela o centro comunitario para que los apicultores locales muestren y vendan sus productos."
 summary: "Organiza un día en tu escuela o centro comunitario para que los apicultores locales muestren y vendan sus productos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,21 @@ age_group:
 materials:
   - Carteles y folletos informativos
   - Espacio para el evento
-tools: ""
+tools:
 competencies:
   - Organización
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo
-ods: "8"
-sdgs: "8"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 8
+sdgs:
+  - 8
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Apoya a los Apicultores

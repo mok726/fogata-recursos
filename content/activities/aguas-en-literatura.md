@@ -1,29 +1,38 @@
 ﻿---
-title: Aguas en literatura
+title: "Aguas en literatura"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/aguas-en-literatura/
+layout: "layouts/activity.njk"
+permalink: "/activities/aguas-en-literatura/"
 description: "Explora el papel del agua en la literatura."
 summary: "Explora el papel del agua en la literatura."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Libro recomendado
   - Cuaderno para notas
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Lectura crítica
   - Conciencia ambiental
   - Comunicación
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Aguas en literatura

@@ -1,29 +1,37 @@
 ﻿---
-title: BioBlitz - Exploración del área natural
-duration: 2 horas (Semana 1), 4 horas (Semana 2)
-layout: layouts/activity.njk
-permalink: /activities/bioblitz-exploracion-del-area-natural/
+title: "BioBlitz - Exploración del área natural"
+duration: "2 horas (Semana 1), 4 horas (Semana 2)"
+layout: "layouts/activity.njk"
+permalink: "/activities/bioblitz-exploracion-del-area-natural/"
 description: "Esta actividad permite a los participantes identificar y registrar especies en un área natural."
 summary: "Esta actividad permite a los participantes identificar y registrar especies en un área natural."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Cuerda o aro de hula hula
   - Lupas
   - Cámara digital
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Colaboración
-responsible: Sinodal o Dirigente a cargo
-ods: "15"
-sdgs: "15"
-activity_badges: championsfornature
-tags: Champions for Nature
+responsible:
+  - Sinodal o Dirigente a cargo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # BioBlitz - Exploración del área natural

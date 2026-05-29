@@ -1,24 +1,33 @@
 ﻿---
-title: Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/audita-tus-habitos-de-uso-de-plasticos-y-averigua-a-donde-van-tus-residuos/
+title: "Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/audita-tus-habitos-de-uso-de-plasticos-y-averigua-a-donde-van-tus-residuos/"
 description: "Actividad que anima a los jóvenes a revisar sus hábitos de uso de plásticos y reducir su consumo."
 summary: "Actividad que anima a los jóvenes a revisar sus hábitos de uso de plásticos y reducir su consumo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Guía de mares limpios
-tools: ""
-competencies: Reflexión sobre normas y valores, Autoconciencia
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Guía de mares limpios
+tools:
+competencies:
+  - Reflexión sobre normas y valores, Autoconciencia
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos

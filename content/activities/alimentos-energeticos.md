@@ -1,12 +1,14 @@
 ﻿---
-title: Alimentos Energéticos
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/alimentos-energeticos/
+title: "Alimentos Energéticos"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/alimentos-energeticos/"
 description: "Juego de emparejar alimentos con su huella energética."
 summary: "Juego de emparejar alimentos con su huella energética."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Tarjetas
   - Datos de huella energética
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conciencia alimentaria
   - Cálculo matemático
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Alimentos Energéticos

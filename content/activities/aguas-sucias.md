@@ -1,29 +1,38 @@
 ﻿---
-title: Aguas sucias
+title: "Aguas sucias"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/aguas-sucias/
+layout: "layouts/activity.njk"
+permalink: "/activities/aguas-sucias/"
 description: "Investiga accidentes relacionados con la contaminación del agua."
 summary: "Investiga accidentes relacionados con la contaminación del agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Aguas sucias

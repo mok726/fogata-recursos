@@ -1,16 +1,18 @@
 ﻿---
-title: Adivina el ODS
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/adivina-el-ods/
+title: "Adivina el ODS"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/adivina-el-ods/"
 description: |
   Actividad obligatoria para la categoría - ENERGÍA PARA UN MUNDO MEJOR.
   Representa un ODS mediante una obra de teatro sin nombrarlo.
 summary: |
   Actividad obligatoria para la categoría - ENERGÍA PARA UN MUNDO MEJOR.
   Representa un ODS mediante una obra de teatro sin nombrarlo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,16 +21,23 @@ age:
 age_group:
   - manada
   - scouts
-materials: Tarjetas con nombres de ODS
-tools: Ninguna
+materials:
+  - Tarjetas con nombres de ODS
+tools:
+  - Ninguna
 competencies:
   - Creatividad
   - Comunicación no verbal
-responsible: Educador Scout/ Guiadora AGA
-ods: "4"
-sdgs: "4"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 4
+sdgs:
+  - 4
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Adivina el ODS

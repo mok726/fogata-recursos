@@ -1,12 +1,14 @@
 ﻿---
-title: Agua invisible
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/agua-invisible/
+title: "Agua invisible"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/agua-invisible/"
 description: "Los participantes aprenden sobre el agua invisible en los productos que usan."
 summary: "Los participantes aprenden sobre el agua invisible en los productos que usan."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,18 @@ age:
 age_group:
   - manada
   - scouts
-materials: Papel, lápices, adhesivos.
-tools: Observación, reflexión.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 6, 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Papel, lápices, adhesivos.
+tools:
+  - Observación, reflexión.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 6, 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Agua invisible

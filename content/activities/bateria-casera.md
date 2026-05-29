@@ -1,12 +1,14 @@
 ﻿---
-title: Batería Casera
-duration: 45
-layout: layouts/activity.njk
-permalink: /activities/bateria-casera/
+title: "Batería Casera"
+duration: "45"
+layout: "layouts/activity.njk"
+permalink: "/activities/bateria-casera/"
 description: "Construye una batería con materiales cotidianos."
 summary: "Construye una batería con materiales cotidianos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,15 +21,21 @@ materials:
   - Patata
   - Clavo galvanizado
   - Cables
-tools: Multímetro (opcional)
+tools:
+  - Multímetro (opcional)
 competencies:
   - Experimentación
   - Seguridad eléctrica
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Batería Casera

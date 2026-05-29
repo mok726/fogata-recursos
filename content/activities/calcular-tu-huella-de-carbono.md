@@ -1,16 +1,18 @@
 ﻿---
-title: Calcular tu huella de carbono
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/calcular-tu-huella-de-carbono/
+title: "Calcular tu huella de carbono"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/calcular-tu-huella-de-carbono/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Mide tu huella de cambio climático y haz un plan para reducirla.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Mide tu huella de cambio climático y haz un plan para reducirla.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Papel y lápiz
   - Acceso a internet (opcional)
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Planificación y organización
-responsible: Responsable del grupo Scout
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Calcular tu huella de carbono

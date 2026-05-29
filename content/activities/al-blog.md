@@ -1,12 +1,14 @@
 ﻿---
-title: ¡Al blog!
-duration: Varias horas (depende del blog)
-layout: layouts/activity.njk
-permalink: /activities/al-blog/
+title: "¡Al blog!"
+duration: "Varias horas (depende del blog)"
+layout: "layouts/activity.njk"
+permalink: "/activities/al-blog/"
 description: "Actividad para crear un blog sobre temas relacionados con el agua."
 summary: "Actividad para crear un blog sobre temas relacionados con el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Creatividad
   - Comunicación digital
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # ¡Al blog!

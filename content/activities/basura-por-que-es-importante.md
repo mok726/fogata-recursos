@@ -1,24 +1,33 @@
 ﻿---
-title: Basura... ¿por qué es importante?
-duration: 3 días
-layout: layouts/activity.njk
-permalink: /activities/basura-por-que-es-importante/
+title: "Basura... ¿por qué es importante?"
+duration: "3 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/basura-por-que-es-importante/"
 description: "Actividad que ayuda a los jóvenes a comprender el impacto de tirar basura y su relación con la contaminación por plásticos."
 summary: "Actividad que ayuda a los jóvenes a comprender el impacto de tirar basura y su relación con la contaminación por plásticos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Hoja para registrar los datos, formulario
-tools: ""
-competencies: Pensamiento Sistémico, Pensamiento Crítico, Reflexión sobre normas y valores
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Hoja para registrar los datos, formulario
+tools:
+competencies:
+  - Pensamiento Sistémico, Pensamiento Crítico, Reflexión sobre normas y valores
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Basura... ¿por qué es importante?

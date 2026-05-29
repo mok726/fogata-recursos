@@ -1,34 +1,43 @@
 ﻿---
-title: Ahorrar agua caliente y energía
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/ahorrar-agua-caliente-y-energia/
+title: "Ahorrar agua caliente y energía"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/ahorrar-agua-caliente-y-energia/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Hábitos sostenibles
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "6"
-  - "7"
+  - 6
+  - 7
 sdgs:
-  - "6"
-  - "7"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 6
+  - 7
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Ahorrar agua caliente y energía

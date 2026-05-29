@@ -1,12 +1,14 @@
 ﻿---
-title: Aliados Terrestres
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/aliados-terrestres/
+title: "Aliados Terrestres"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/aliados-terrestres/"
 description: "Investiga cómo las plantas y animales ayudan a mantener el suelo saludable."
 summary: "Investiga cómo las plantas y animales ayudan a mantener el suelo saludable."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Libros/recursos en línea
-tools: Ninguna
-competencies: Investigación * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Investigación * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Aliados Terrestres

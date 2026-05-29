@@ -1,8 +1,8 @@
 ﻿---
-title: Ayudantes de los ODS
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/ayudantes-de-los-ods/
+title: "Ayudantes de los ODS"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/ayudantes-de-los-ods/"
 description: |
   Actividad obligatoria para la sección B - ¿Por qué son importantes los polinizadores?
   Reflexiona en grupo sobre cómo los polinizadores están relacionados con los Objetivos de Desarrollo Sostenible (ODS).
@@ -11,8 +11,10 @@ summary: |
   Actividad obligatoria para la sección B - ¿Por qué son importantes los polinizadores?
   Reflexiona en grupo sobre cómo los polinizadores están relacionados con los Objetivos de Desarrollo Sostenible (ODS).
   Crea un póster para tu escuela o comunidad que explique cómo los polinizadores nos ayudan a alcanzar los ODS.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,16 +27,21 @@ materials:
   - Papel grande para el póster
   - Marcadores o materiales para dibujar
   - Información sobre los ODS (opcional)
-tools: ""
+tools:
 competencies:
   - Trabajo en equipo
   - Conciencia global
   - Comunicación
-responsible: Responsable del grupo
-ods: "17"
-sdgs: "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 17
+sdgs:
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Ayudantes de los ODS

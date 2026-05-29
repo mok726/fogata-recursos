@@ -1,12 +1,14 @@
 ﻿---
-title: BOSQUES EN LLAMAS
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/bosques-en-llamas/
+title: "BOSQUES EN LLAMAS"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/bosques-en-llamas/"
 description: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
 summary: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -20,20 +22,24 @@ age_group:
 materials:
   - Folletos de prevención de incendios
   - Cuaderno
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conocimiento ecológico
   - Prevención de riesgos
   - Comunicación
-responsible: Scouter o bombero forestal
+responsible:
+  - Scouter o bombero forestal
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 13
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # BOSQUES EN LLAMAS

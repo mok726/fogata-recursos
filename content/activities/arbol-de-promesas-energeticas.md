@@ -1,16 +1,18 @@
 ﻿---
-title: Árbol de Promesas Energéticas
-duration: 180
-layout: layouts/activity.njk
-permalink: /activities/arbol-de-promesas-energeticas/
+title: "Árbol de Promesas Energéticas"
+duration: "180"
+layout: "layouts/activity.njk"
+permalink: "/activities/arbol-de-promesas-energeticas/"
 description: |
   Actividad obligatoria para la categoría - TOMAR ACCIÓN.
   Crea un mural interactivo donde la comunidad pledge ahorrar energía.
 summary: |
   Actividad obligatoria para la categoría - TOMAR ACCIÓN.
   Crea un mural interactivo donde la comunidad pledge ahorrar energía.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -23,19 +25,23 @@ materials:
   - Papeles de colores
   - Cinta adhesiva
   - Marcadores
-tools: Cámara (opcional)
+tools:
+  - Cámara (opcional)
 competencies:
   - Liderazgo comunitario
   - Conciencia colectiva
-responsible: Educador Scout/ Guiadora AGA
+responsible:
+  - Educador Scout/ Guiadora AGA
 ods:
-  - "11"
-  - "12"
+  - 11
+  - 12
 sdgs:
-  - "11"
-  - "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+  - 11
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Árbol de Promesas Energéticas

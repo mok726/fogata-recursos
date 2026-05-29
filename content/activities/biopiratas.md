@@ -1,16 +1,18 @@
 ﻿---
-title: ¡BIOPIRATAS!
-duration: 2 horas
-layout: layouts/activity.njk
-permalink: /activities/biopiratas/
+title: "¡BIOPIRATAS!"
+duration: "2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/biopiratas/"
 description: |
   Organiza un debate sobre bioprospección vs.
   biopiratería en medicina tradicional.
 summary: |
   Organiza un debate sobre bioprospección vs.
   biopiratería en medicina tradicional.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,20 +24,24 @@ age_group:
 materials:
   - Recursos sobre biopiratería
   - Tarjetas para roles de debate
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Debate
   - Empatía
   - Conocimiento ético
-responsible: Scouter o moderador experto
+responsible:
+  - Scouter o moderador experto
 ods:
-  - "3"
-  - "16"
+  - 3
+  - 16
 sdgs:
-  - "3"
-  - "16"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 3
+  - 16
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # ¡BIOPIRATAS!

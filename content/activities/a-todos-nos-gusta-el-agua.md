@@ -1,33 +1,40 @@
 ﻿---
-title: A todos nos gusta el agua
+title: "A todos nos gusta el agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/a-todos-nos-gusta-el-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/a-todos-nos-gusta-el-agua/"
 description: "Visita un área al aire libre y observa cómo diferentes especies usan el agua."
 summary: "Visita un área al aire libre y observa cómo diferentes especies usan el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
+age:
+  - manada
+age_group:
+  - manada
 materials:
   - Cuaderno para notas
   - Cámara fotográfica (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Observación
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "15"
+  - 6
+  - 15
 sdgs:
-  - "6"
-  - "15"
-activity_badges: agua(obligatoria)
-tags: Insignia del Agua (Obligatoria)
+  - 6
+  - 15
+activity_badges:
+  - agua(obligatoria)
+tags:
+  - Insignia del Agua (Obligatoria)
 ---
 
 # A todos nos gusta el agua

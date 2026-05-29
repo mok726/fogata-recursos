@@ -1,16 +1,18 @@
 ﻿---
-title: Calcular el impacto ambiental de los alimentos
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/calcular-el-impacto-ambiental-de-los-alimentos/
+title: "Calcular el impacto ambiental de los alimentos"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/calcular-el-impacto-ambiental-de-los-alimentos/"
 description: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
 summary: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y análisis
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Calcular el impacto ambiental de los alimentos

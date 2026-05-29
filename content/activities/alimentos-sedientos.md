@@ -1,33 +1,40 @@
 ﻿---
-title: Alimentos sedientos
+title: "Alimentos sedientos"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/alimentos-sedientos/
+layout: "layouts/activity.njk"
+permalink: "/activities/alimentos-sedientos/"
 description: "Investiga cuánta agua se necesita para producir diferentes alimentos."
 summary: "Investiga cuánta agua se necesita para producir diferentes alimentos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conciencia ambiental
   - Pensamiento crítico
   - Responsabilidad
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 12
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Alimentos sedientos

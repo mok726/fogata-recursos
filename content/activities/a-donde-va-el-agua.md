@@ -1,29 +1,38 @@
 ﻿---
-title: ¿A dónde va el agua?
+title: "¿A dónde va el agua?"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/a-donde-va-el-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/a-donde-va-el-agua/"
 description: "Investiga el uso del agua en tu país."
 summary: "Investiga el uso del agua en tu país."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Acceso a internet (opcional)
   - Cuaderno para notas
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # ¿A dónde va el agua?

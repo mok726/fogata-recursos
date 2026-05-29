@@ -1,12 +1,14 @@
 ﻿---
-title: Artículo sobre Cambio Climático
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/articulo-sobre-cambio-climatico/
+title: "Artículo sobre Cambio Climático"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/articulo-sobre-cambio-climatico/"
 description: "Escribe un artículo periodístico sobre el impacto local del cambio climático."
 summary: "Escribe un artículo periodístico sobre el impacto local del cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Entrevistas (opcional)
   - Acceso a noticias
-tools: Computadora (opcional)
+tools:
+  - Computadora (opcional)
 competencies:
   - Redacción
   - Investigación
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Artículo sobre Cambio Climático

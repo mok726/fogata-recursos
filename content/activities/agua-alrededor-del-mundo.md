@@ -1,12 +1,14 @@
 ﻿---
-title: Agua alrededor del mundo
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/agua-alrededor-del-mundo/
+title: "Agua alrededor del mundo"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/agua-alrededor-del-mundo/"
 description: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
 summary: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Cuaderno de notas
   - Acceso a internet
-tools: Computadora para investigación
+tools:
+  - Computadora para investigación
 competencies:
   - Investigación
   - Conciencia global
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Agua alrededor del mundo

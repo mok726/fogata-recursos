@@ -1,12 +1,14 @@
 ﻿---
-title: Blogueando por la Energía
-duration: 1440 (1 mes)
-layout: layouts/activity.njk
-permalink: /activities/blogueando-por-la-energia/
+title: "Blogueando por la Energía"
+duration: "1440 (1 mes)"
+layout: "layouts/activity.njk"
+permalink: "/activities/blogueando-por-la-energia/"
 description: "Crea un blog grupal sobre sostenibilidad energética."
 summary: "Crea un blog grupal sobre sostenibilidad energética."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Computadora
   - Acceso a internet
-tools: Plataforma de blogging
+tools:
+  - Plataforma de blogging
 competencies:
   - Alfabetización digital
   - Persistencia
-responsible: Educador Scout/ Guiadora AGA
-ods: "9"
-sdgs: "9"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 9
+sdgs:
+  - 9
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Blogueando por la Energía

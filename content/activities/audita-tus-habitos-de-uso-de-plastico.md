@@ -1,24 +1,34 @@
 ﻿---
-title: Audita tus hábitos de uso de plástico
-duration: 15 - 20 minutos
-layout: layouts/activity.njk
-permalink: /activities/audita-tus-habitos-de-uso-de-plastico/
+title: "Audita tus hábitos de uso de plástico"
+duration: "15 - 20 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/audita-tus-habitos-de-uso-de-plastico/"
 description: "Esta actividad te hará pensar cómo puedes disminuir el uso de plástico en tu vida cotidiana y cómo contagiar a los demás a que hagan lo mismo."
 summary: "Esta actividad te hará pensar cómo puedes disminuir el uso de plástico en tu vida cotidiana y cómo contagiar a los demás a que hagan lo mismo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: No se necesitan materiales
-tools: Cuestionario de autoevaluación
-competencies: Pensamiento Crítico, Autoconciencia
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - No se necesitan materiales
+tools:
+  - Cuestionario de autoevaluación
+competencies:
+  - Pensamiento Crítico, Autoconciencia
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # Audita tus hábitos de uso de plástico
