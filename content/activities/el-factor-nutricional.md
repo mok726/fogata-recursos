@@ -1,12 +1,14 @@
 ﻿---
-title: El Factor Nutricional
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/el-factor-nutricional/
+title: "El Factor Nutricional"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-factor-nutricional/"
 description: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
 summary: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,20 +20,23 @@ age_group:
 materials:
   - Papel y lápiz para notas
   - Cámara (opcional)
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia alimentaria
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "2"
-  - "15"
+  - 2
+  - 15
 sdgs:
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # El Factor Nutricional

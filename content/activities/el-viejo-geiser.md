@@ -1,12 +1,14 @@
 ﻿---
-title: El Viejo Geiser
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/el-viejo-geiser/
+title: "El Viejo Geiser"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-viejo-geiser/"
 description: "Investiga sobre energía geotérmica y sus manifestaciones naturales."
 summary: "Investiga sobre energía geotérmica y sus manifestaciones naturales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Investigación
   - Diseño gráfico
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # El Viejo Geiser

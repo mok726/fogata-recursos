@@ -1,12 +1,14 @@
 ﻿---
-title: Experimento de Crecimiento
-duration: 168 (1 semana)
-layout: layouts/activity.njk
-permalink: /activities/experimento-de-crecimiento/
+title: "Experimento de Crecimiento"
+duration: "168 (1 semana)"
+layout: "layouts/activity.njk"
+permalink: "/activities/experimento-de-crecimiento/"
 description: "Demuestra cómo la luz solar afecta el crecimiento de las plantas."
 summary: "Demuestra cómo la luz solar afecta el crecimiento de las plantas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,11 +27,16 @@ tools:
 competencies:
   - Paciencia
   - Método científico
-responsible: Educador Scout/ Guiadora AGA
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Experimento de Crecimiento

@@ -1,8 +1,8 @@
 ﻿---
-title: Encuesta de Polinizadores
-duration: 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/encuesta-de-polinizadores/
+title: "Encuesta de Polinizadores"
+duration: "30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/encuesta-de-polinizadores/"
 description: |
   Actividad obligatoria para la sección A - ¿Qué es un polinizador?
   Realiza una encuesta de polinizadores en tu jardín, parque local o jardín escolar.
@@ -11,8 +11,10 @@ summary: |
   Actividad obligatoria para la sección A - ¿Qué es un polinizador?
   Realiza una encuesta de polinizadores en tu jardín, parque local o jardín escolar.
   Identifica y cuenta los polinizadores que ves, registra tus observaciones y toma fotos o dibuja los polinizadores que encuentres.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,22 +27,25 @@ materials:
   - Papel y lápiz para registrar observaciones
   - Cámara (opcional)
   - Guía de identificación de polinizadores (opcional)
-tools: ""
+tools:
 competencies:
   - Observación
   - Registro de datos
   - Trabajo en equipo
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Encuesta de Polinizadores

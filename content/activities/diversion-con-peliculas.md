@@ -1,12 +1,14 @@
 ﻿---
-title: Diversión con películas
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/diversion-con-peliculas/
+title: "Diversión con películas"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/diversion-con-peliculas/"
 description: "Los participantes ven un documental sobre el cambio climático y discuten sus impresiones."
 summary: "Los participantes ven un documental sobre el cambio climático y discuten sus impresiones."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,21 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Proyector, computadora, acceso a internet.
-tools: ""
-competencies: Análisis, trabajo en equipo.
-responsible: Maestro/profesor/dirigente.
-ods: "13"
-sdgs: "13"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+materials:
+  - Proyector, computadora, acceso a internet.
+tools:
+competencies:
+  - Análisis, trabajo en equipo.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Diversión con películas

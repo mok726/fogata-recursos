@@ -1,35 +1,44 @@
 ﻿---
-title: Entrevista sobre el uso de energía en el pasado
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/entrevista-sobre-el-uso-de-energia-en-el-pasado/
+title: "Entrevista sobre el uso de energía en el pasado"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/entrevista-sobre-el-uso-de-energia-en-el-pasado/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Papel y lápiz para dibujar
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Papel y lápiz para dibujar
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Entrevista y comunicación
   - Comparación histórica
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "13"
+  - 7
+  - 13
 sdgs:
-  - "7"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Entrevista sobre el uso de energía en el pasado

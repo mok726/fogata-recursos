@@ -1,31 +1,39 @@
 ﻿---
-title: El futuro del agua
+title: "El futuro del agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/el-futuro-del-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/el-futuro-del-agua/"
 description: "Diseña una casa o ciudad sostenible."
 summary: "Diseña una casa o ciudad sostenible."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
-materials: Materiales para dibujar o construir (papel, lápices, cartón, etc.)
-tools: No se requieren herramientas
+age:
+  - caminantes
+age_group:
+  - caminantes
+materials:
+  - Materiales para dibujar o construir (papel, lápices, cartón, etc.)
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "11"
+  - 6
+  - 11
 sdgs:
-  - "6"
-  - "11"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 11
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # El futuro del agua

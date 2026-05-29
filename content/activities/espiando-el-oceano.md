@@ -1,12 +1,14 @@
 ﻿---
-title: Espiando el océano
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/espiando-el-oceano/
+title: "Espiando el océano"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/espiando-el-oceano/"
 description: "Los participantes crean cajas para 'espiar' el océano y reflexionan sobre los impactos del cambio climático."
 summary: "Los participantes crean cajas para 'espiar' el océano y reflexionan sobre los impactos del cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,21 @@ age:
 age_group:
   - manada
   - scouts
-materials: Cajas recicladas, papel de seda, adhesivos, marcadores.
-tools: ""
-competencies: Creatividad, reflexión.
-responsible: Maestro/profesor/dirigente.
-ods: "14"
-sdgs: "14"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+materials:
+  - Cajas recicladas, papel de seda, adhesivos, marcadores.
+tools:
+competencies:
+  - Creatividad, reflexión.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 14
+sdgs:
+  - 14
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Espiando el océano

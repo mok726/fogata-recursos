@@ -1,12 +1,14 @@
 ﻿---
-title: Efecto Invernadero
-duration: 30
-layout: layouts/activity.njk
-permalink: /activities/efecto-invernadero/
+title: "Efecto Invernadero"
+duration: "30"
+layout: "layouts/activity.njk"
+permalink: "/activities/efecto-invernadero/"
 description: "Experimento para entender el calentamiento global."
 summary: "Experimento para entender el calentamiento global."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Pensamiento científico
   - Precisión
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Efecto Invernadero

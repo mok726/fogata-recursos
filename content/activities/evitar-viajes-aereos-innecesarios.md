@@ -1,16 +1,18 @@
 ﻿---
-title: Evitar viajes aéreos innecesarios
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/evitar-viajes-aereos-innecesarios/
+title: "Evitar viajes aéreos innecesarios"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/evitar-viajes-aereos-innecesarios/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,16 +21,23 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y planificación
-responsible: Responsable del grupo Scout
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Evitar viajes aéreos innecesarios

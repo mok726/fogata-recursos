@@ -1,12 +1,14 @@
 ﻿---
-title: Fondos para tu Favorito
-duration: 480
-layout: layouts/activity.njk
-permalink: /activities/fondos-para-tu-favorito/
+title: "Fondos para tu Favorito"
+duration: "480"
+layout: "layouts/activity.njk"
+permalink: "/activities/fondos-para-tu-favorito/"
 description: "Recauda dinero para un proyecto global de acceso a energía."
 summary: "Recauda dinero para un proyecto global de acceso a energía."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Materiales para manualidades
   - Alimentos para vender
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Emprendimiento
   - Solidaridad global
-responsible: Educador Scout/ Guiadora AGA
-ods: "1"
-sdgs: "1"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 1
+sdgs:
+  - 1
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Fondos para tu Favorito

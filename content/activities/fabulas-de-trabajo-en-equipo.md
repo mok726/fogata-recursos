@@ -1,24 +1,36 @@
 ﻿---
-title: Fábulas de Trabajo en Equipo
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/fabulas-de-trabajo-en-equipo/
+title: "Fábulas de Trabajo en Equipo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/fabulas-de-trabajo-en-equipo/"
 description: "Crea una historia colaborativa sobre los factores que forman el suelo."
 summary: "Crea una historia colaborativa sobre los factores que forman el suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: castores
-age_group: castores
-materials: Ninguno
-tools: Ninguna
-competencies: Creatividad * Trabajo en equipo * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+age:
+  - castores
+age_group:
+  - castores
+materials:
+  - Ninguno
+tools:
+  - Ninguna
+competencies:
+  - Creatividad * Trabajo en equipo * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Fábulas de Trabajo en Equipo

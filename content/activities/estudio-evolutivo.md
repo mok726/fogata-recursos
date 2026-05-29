@@ -1,12 +1,14 @@
 ﻿---
-title: Estudio Evolutivo
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/estudio-evolutivo/
+title: "Estudio Evolutivo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/estudio-evolutivo/"
 description: "Investiga cómo las flores y los polinizadores han evolucionado juntos."
 summary: "Investiga cómo las flores y los polinizadores han evolucionado juntos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,23 +17,27 @@ age:
 age_group:
   - castores
   - manada
-materials: Guía de flores y polinizadores nativos (opcional)
-tools: ""
+materials:
+  - Guía de flores y polinizadores nativos (opcional)
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Estudio Evolutivo

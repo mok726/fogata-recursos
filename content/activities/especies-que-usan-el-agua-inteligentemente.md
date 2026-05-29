@@ -1,12 +1,14 @@
 ﻿---
-title: ESPECIES QUE USAN EL AGUA INTELIGENTEMENTE
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/especies-que-usan-el-agua-inteligentemente/
+title: "ESPECIES QUE USAN EL AGUA INTELIGENTEMENTE"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/especies-que-usan-el-agua-inteligentemente/"
 description: "Estudia adaptaciones de especies forestales para sobrevivir a sequías."
 summary: "Estudia adaptaciones de especies forestales para sobrevivir a sequías."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -20,20 +22,24 @@ age_group:
 materials:
   - Guías de especies locales
   - Cuaderno
-tools: Lupa (opcional)
+tools:
+  - Lupa (opcional)
 competencies:
   - Observación científica
   - Pensamiento adaptativo
   - Conciencia climática
-responsible: Scouter o biólogo
+responsible:
+  - Scouter o biólogo
 ods:
-  - "13"
-  - "15"
+  - 13
+  - 15
 sdgs:
-  - "13"
-  - "15"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 13
+  - 15
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # ESPECIES QUE USAN EL AGUA INTELIGENTEMENTE

@@ -1,34 +1,43 @@
 ﻿---
-title: Filtro de agua
+title: "Filtro de agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/filtro-de-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/filtro-de-agua/"
 description: |
   Crea un filtro de agua casero y examina muestras de agua.
   **Actividad obligatoria para la categoría El agua en peligro.**
 summary: |
   Crea un filtro de agua casero y examina muestras de agua.
   **Actividad obligatoria para la categoría El agua en peligro.**
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Muestra de agua
   - Microscopio o lupa
   - Materiales para el filtro (arena, carbón, piedras, etc.)
-tools: Microscopio o lupa
+tools:
+  - Microscopio o lupa
 competencies:
   - Investigación científica
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua(obligatoria)
-tags: Insignia del Agua (Obligatoria)
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua(obligatoria)
+tags:
+  - Insignia del Agua (Obligatoria)
 ---
 
 # Filtro de agua

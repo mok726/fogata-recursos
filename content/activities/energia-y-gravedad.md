@@ -1,12 +1,14 @@
 ﻿---
-title: Energía y Gravedad
-duration: 30
-layout: layouts/activity.njk
-permalink: /activities/energia-y-gravedad/
+title: "Energía y Gravedad"
+duration: "30"
+layout: "layouts/activity.njk"
+permalink: "/activities/energia-y-gravedad/"
 description: "Experimento sobre energía potencial y cinética con rampas."
 summary: "Experimento sobre energía potencial y cinética con rampas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Rampa (cartón/tabla)
   - Objeto rodante
-tools: Cinta métrica (opcional)
+tools:
+  - Cinta métrica (opcional)
 competencies:
   - Observación científica
   - Aprendizaje práctico
-responsible: Educador Scout/ Guiadora AGA
-ods: "4"
-sdgs: "4"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 4
+sdgs:
+  - 4
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Energía y Gravedad

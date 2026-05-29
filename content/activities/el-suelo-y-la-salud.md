@@ -1,16 +1,18 @@
 ﻿---
-title: El Suelo y la Salud
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/el-suelo-y-la-salud/
+title: "El Suelo y la Salud"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-suelo-y-la-salud/"
 description: |
   Actividad obligatoria para la categoría 'Los Usos del Suelo'.
   Crea un póster sobre la conexión entre el suelo y la salud humana.
 summary: |
   Actividad obligatoria para la categoría 'Los Usos del Suelo'.
   Crea un póster sobre la conexión entre el suelo y la salud humana.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -21,18 +23,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Materiales para póster * Libros/recursos en línea
-tools: Ninguna
-competencies: Investigación * Creatividad * Conciencia ambiental
-responsible: Maestro/Dirigente
+materials:
+  - Materiales para póster * Libros/recursos en línea
+tools:
+  - Ninguna
+competencies:
+  - Investigación * Creatividad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
 ods:
-  - "3"
-  - "15"
+  - 3
+  - 15
 sdgs:
-  - "3"
-  - "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+  - 3
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # El Suelo y la Salud

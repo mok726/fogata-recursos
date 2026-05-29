@@ -1,33 +1,40 @@
 ﻿---
-title: Exploración acuática
+title: "Exploración acuática"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/exploracion-acuatica/
+layout: "layouts/activity.njk"
+permalink: "/activities/exploracion-acuatica/"
 description: "Investiga tu cuenca hidrográfica local."
 summary: "Investiga tu cuenca hidrográfica local."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Cámara fotográfica (opcional)
   - Materiales para dibujar (papel, lápices, etc.)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Comunicación
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "15"
+  - 6
+  - 15
 sdgs:
-  - "6"
-  - "15"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 15
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Exploración acuática

@@ -1,12 +1,14 @@
 ﻿---
-title: Energía y Pobreza
-duration: 90
-layout: layouts/activity.njk
-permalink: /activities/energia-y-pobreza/
+title: "Energía y Pobreza"
+duration: "90"
+layout: "layouts/activity.njk"
+permalink: "/activities/energia-y-pobreza/"
 description: "Lluvia de ideas sobre cómo la energía afecta la pobreza."
 summary: "Lluvia de ideas sobre cómo la energía afecta la pobreza."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,16 +17,23 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Pizarra o papelógrafo
-tools: Marcadores
+materials:
+  - Pizarra o papelógrafo
+tools:
+  - Marcadores
 competencies:
   - Pensamiento colectivo
   - Resolución de problemas
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Energía y Pobreza

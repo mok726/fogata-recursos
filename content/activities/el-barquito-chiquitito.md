@@ -1,12 +1,14 @@
 ﻿---
-title: El barquito chiquitito
-duration: 1.5 horas
-layout: layouts/activity.njk
-permalink: /activities/el-barquito-chiquitito/
+title: "El barquito chiquitito"
+duration: "1.5 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-barquito-chiquitito/"
 description: "Actividad para crear una canción sobre el agua y compartirla con la comunidad."
 summary: "Actividad para crear una canción sobre el agua y compartirla con la comunidad."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Letras de canciones
   - Instrumentos musicales (opcional)
-tools: Micrófono (opcional)
+tools:
+  - Micrófono (opcional)
 competencies:
   - Creatividad
   - Trabajo en equipo
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # El barquito chiquitito

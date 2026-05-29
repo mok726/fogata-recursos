@@ -1,12 +1,14 @@
 ﻿---
-title: Energía Renovable Comunitaria
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/energia-renovable-comunitaria/
+title: "Energía Renovable Comunitaria"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/energia-renovable-comunitaria/"
 description: "Investiga la fuente de energía de tu escuela/hogar."
 summary: "Investiga la fuente de energía de tu escuela/hogar."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,16 +17,23 @@ age:
 age_group:
   - scouts
   - caminantes
-materials: Datos locales de energía
-tools: Ninguna
+materials:
+  - Datos locales de energía
+tools:
+  - Ninguna
 competencies:
   - Conciencia cívica
   - Pensamiento sistémico
-responsible: Educador Scout/ Guiadora AGA
-ods: "11"
-sdgs: "11"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 11
+sdgs:
+  - 11
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Energía Renovable Comunitaria

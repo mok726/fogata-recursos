@@ -1,16 +1,18 @@
 ﻿---
-title: Excursión a una Granja
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/excursion-a-una-granja/
+title: "Excursión a una Granja"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/excursion-a-una-granja/"
 description: |
   Actividad obligatoria para la sección C - Preocupémonos por las abejas.
   Visita una granja local para aprender sobre agricultura sostenible y cómo protegen a los polinizadores.
 summary: |
   Actividad obligatoria para la sección C - Preocupémonos por las abejas.
   Visita una granja local para aprender sobre agricultura sostenible y cómo protegen a los polinizadores.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,23 +21,27 @@ age:
 age_group:
   - castores
   - manada
-materials: Cámara o dispositivo para grabar (opcional)
-tools: ""
+materials:
+  - Cámara o dispositivo para grabar (opcional)
+tools:
 competencies:
   - Observación
   - Conocimiento científico
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Excursión a una Granja

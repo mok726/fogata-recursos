@@ -1,16 +1,18 @@
 ﻿---
-title: Dibujos de Cadenas Alimenticias
-duration: 90
-layout: layouts/activity.njk
-permalink: /activities/dibujos-de-cadenas-alimenticias/
+title: "Dibujos de Cadenas Alimenticias"
+duration: "90"
+layout: "layouts/activity.njk"
+permalink: "/activities/dibujos-de-cadenas-alimenticias/"
 description: |
   Actividad obligatoria para la categoría - ENERGÍA ES VIDA.
   Dibuja una cadena alimenticia local y reflexiona sobre su conexión con el carbono.
 summary: |
   Actividad obligatoria para la categoría - ENERGÍA ES VIDA.
   Dibuja una cadena alimenticia local y reflexiona sobre su conexión con el carbono.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,15 +24,21 @@ age_group:
 materials:
   - Papel
   - Lápices de colores
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conciencia ecológica
   - Pensamiento crítico
-responsible: Educador Scout/ Guiadora AGA
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Dibujos de Cadenas Alimenticias

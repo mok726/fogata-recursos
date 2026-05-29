@@ -1,12 +1,14 @@
 ﻿---
-title: Elegir Alimentos Amigables con los Polinizadores
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/elegir-alimentos-amigables-con-los-polinizadores/
+title: "Elegir Alimentos Amigables con los Polinizadores"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/elegir-alimentos-amigables-con-los-polinizadores/"
 description: "Compra alimentos orgánicos y locales para apoyar a los polinizadores."
 summary: "Compra alimentos orgánicos y locales para apoyar a los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,21 +17,25 @@ age:
 age_group:
   - castores
   - manada
-materials: Lista de alimentos orgánicos y locales
-tools: ""
+materials:
+  - Lista de alimentos orgánicos y locales
+tools:
 competencies:
   - Conciencia alimentaria
   - Conciencia ambiental
   - Responsabilidad
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "2"
-  - "15"
+  - 2
+  - 15
 sdgs:
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Elegir Alimentos Amigables con los Polinizadores

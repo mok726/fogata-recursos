@@ -1,27 +1,37 @@
 ﻿---
-title: El baile del agua
+title: "El baile del agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/el-baile-del-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/el-baile-del-agua/"
 description: "Crea una coreografía inspirada en el movimiento del agua."
 summary: "Crea una coreografía inspirada en el movimiento del agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
-materials: No se requieren materiales
-tools: No se requieren herramientas
+age:
+  - manada
+age_group:
+  - manada
+materials:
+  - No se requieren materiales
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Expresión corporal
   - Trabajo en equipo
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # El baile del agua

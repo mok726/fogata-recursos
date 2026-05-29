@@ -1,33 +1,40 @@
 ﻿---
-title: El agua en tu armario
+title: "El agua en tu armario"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/el-agua-en-tu-armario/
+layout: "layouts/activity.njk"
+permalink: "/activities/el-agua-en-tu-armario/"
 description: "Investiga la huella hídrica de tus posesiones favoritas."
 summary: "Investiga la huella hídrica de tus posesiones favoritas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 12
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # El agua en tu armario

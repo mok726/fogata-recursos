@@ -1,16 +1,18 @@
 ﻿---
-title: Electrodomésticos ahorradores de energía
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/electrodomesticos-ahorradores-de-energia/
+title: "Electrodomésticos ahorradores de energía"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/electrodomesticos-ahorradores-de-energia/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Toma de decisiones
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "12"
+  - 7
+  - 12
 sdgs:
-  - "7"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Electrodomésticos ahorradores de energía

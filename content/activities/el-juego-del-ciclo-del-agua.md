@@ -1,33 +1,40 @@
 ﻿---
-title: El juego del ciclo del agua
+title: "El juego del ciclo del agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/el-juego-del-ciclo-del-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/el-juego-del-ciclo-del-agua/"
 description: "Actividad para aprender sobre el ciclo del agua."
 summary: "Actividad para aprender sobre el ciclo del agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
+age:
+  - manada
+age_group:
+  - manada
 materials:
   - Cartas con partes del ciclo del agua
   - Materiales para el experimento (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conocimiento científico
   - Creatividad
   - Trabajo en equipo
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "13"
+  - 6
+  - 13
 sdgs:
-  - "6"
-  - "13"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 13
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # El juego del ciclo del agua

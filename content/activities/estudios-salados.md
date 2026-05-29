@@ -1,30 +1,39 @@
 ﻿---
-title: Estudios salados
+title: "Estudios salados"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/estudios-salados/
+layout: "layouts/activity.njk"
+permalink: "/activities/estudios-salados/"
 description: "Experimenta con la desalinización del agua."
 summary: "Experimenta con la desalinización del agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Agua
   - Sal
   - Vaso
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación científica
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Estudios salados

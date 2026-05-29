@@ -1,12 +1,14 @@
 ﻿---
-title: Edificios Eficientes
-duration: 150
-layout: layouts/activity.njk
-permalink: /activities/edificios-eficientes/
+title: "Edificios Eficientes"
+duration: "150"
+layout: "layouts/activity.njk"
+permalink: "/activities/edificios-eficientes/"
 description: "Visita una construcción sostenible y haz una maqueta."
 summary: "Visita una construcción sostenible y haz una maqueta."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Diseño
   - Visión técnica
-responsible: Educador Scout/ Guiadora AGA
-ods: "9"
-sdgs: "9"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 9
+sdgs:
+  - 9
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Edificios Eficientes

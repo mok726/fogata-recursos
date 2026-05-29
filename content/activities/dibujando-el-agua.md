@@ -1,29 +1,38 @@
 ﻿---
-title: Dibujando el agua
+title: "Dibujando el agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/dibujando-el-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/dibujando-el-agua/"
 description: "Juego de Pictionary con palabras relacionadas con el agua."
 summary: "Juego de Pictionary con palabras relacionadas con el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
+age:
+  - manada
+age_group:
+  - manada
 materials:
   - Cartas con palabras relacionadas con el agua
   - Papel y lápices
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Trabajo en equipo
   - Comunicación
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Dibujando el agua

@@ -1,16 +1,18 @@
 ﻿---
-title: Exploración Energética
-duration: 240
-layout: layouts/activity.njk
-permalink: /activities/exploracion-energetica/
+title: "Exploración Energética"
+duration: "240"
+layout: "layouts/activity.njk"
+permalink: "/activities/exploracion-energetica/"
 description: |
   Actividad obligatoria para la categoría - FUENTES DE ENERGÍA E IMPACTOS.
   Visita una planta de generación de energía y escribe un artículo periodístico.
 summary: |
   Actividad obligatoria para la categoría - FUENTES DE ENERGÍA E IMPACTOS.
   Visita una planta de generación de energía y escribe un artículo periodístico.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Cuaderno
   - Cámara (opcional)
-tools: Transporte
+tools:
+  - Transporte
 competencies:
   - Observación
   - Comunicación escrita
-responsible: Educador Scout/ Guiadora AGA
+responsible:
+  - Educador Scout/ Guiadora AGA
 ods:
-  - "9"
-  - "13"
+  - 9
+  - 13
 sdgs:
-  - "9"
-  - "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+  - 9
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Exploración Energética

@@ -1,12 +1,14 @@
 ﻿---
-title: Echando Raíces
-duration: Varias semanas
-layout: layouts/activity.njk
-permalink: /activities/echando-raices/
+title: "Echando Raíces"
+duration: "Varias semanas"
+layout: "layouts/activity.njk"
+permalink: "/activities/echando-raices/"
 description: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
 summary: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Plantas o semillas * Compost * Herramientas de jardinería
-tools: Pala * Regadera
-competencies: Responsabilidad * Paciencia * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Plantas o semillas * Compost * Herramientas de jardinería
+tools:
+  - Pala * Regadera
+competencies:
+  - Responsabilidad * Paciencia * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Echando Raíces

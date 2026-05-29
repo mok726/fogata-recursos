@@ -1,12 +1,14 @@
 ﻿---
-title: Exposición de Arte Energético
-duration: 240
-layout: layouts/activity.njk
-permalink: /activities/exposicion-de-arte-energetico/
+title: "Exposición de Arte Energético"
+duration: "240"
+layout: "layouts/activity.njk"
+permalink: "/activities/exposicion-de-arte-energetico/"
 description: "Crea arte reciclado que represente el futuro energético y exhíbelo."
 summary: "Crea arte reciclado que represente el futuro energético y exhíbelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Expresión artística
   - Conciencia ecológica
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Exposición de Arte Energético

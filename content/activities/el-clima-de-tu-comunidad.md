@@ -1,12 +1,14 @@
 ﻿---
-title: El clima de tu comunidad
-duration: 1-2 días
-layout: layouts/activity.njk
-permalink: /activities/el-clima-de-tu-comunidad/
+title: "El clima de tu comunidad"
+duration: "1-2 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-clima-de-tu-comunidad/"
 description: "Los participantes investigan el clima local y su impacto."
 summary: "Los participantes investigan el clima local y su impacto."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,21 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Cuadernos, lápices, acceso a internet.
-tools: ""
-competencies: Investigación, análisis, comunicación.
-responsible: Maestro/profesor/dirigente.
-ods: "13"
-sdgs: "13"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+materials:
+  - Cuadernos, lápices, acceso a internet.
+tools:
+competencies:
+  - Investigación, análisis, comunicación.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # El clima de tu comunidad

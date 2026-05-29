@@ -1,12 +1,14 @@
 ﻿---
-title: Echa una Mirada al Suelo
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/echa-una-mirada-al-suelo/
+title: "Echa una Mirada al Suelo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/echa-una-mirada-al-suelo/"
 description: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
 summary: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Muestras de suelo * Microscopio/lupa
-tools: Microscopio/lupa
-competencies: Observación científica * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Muestras de suelo * Microscopio/lupa
+tools:
+  - Microscopio/lupa
+competencies:
+  - Observación científica * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Echa una Mirada al Suelo

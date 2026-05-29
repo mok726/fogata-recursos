@@ -1,29 +1,38 @@
 ﻿---
-title: ¿Dónde está el agua?
+title: "¿Dónde está el agua?"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/donde-esta-el-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/donde-esta-el-agua/"
 description: "Investiga la distribución del agua en el mundo."
 summary: "Investiga la distribución del agua en el mundo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Mapa del mundo
   - Lápices de colores
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conocimiento geográfico
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # ¿Dónde está el agua?

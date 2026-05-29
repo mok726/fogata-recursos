@@ -1,8 +1,8 @@
 ﻿---
-title: Frutas y Verduras Favoritas
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/frutas-y-verduras-favoritas/
+title: "Frutas y Verduras Favoritas"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/frutas-y-verduras-favoritas/"
 description: |
   Actividad obligatoria para la sección B - ¿Por qué son importantes los polinizadores?
   Investiga si tus cinco frutas y verduras favoritas dependen de los polinizadores para crecer.
@@ -11,8 +11,10 @@ summary: |
   Actividad obligatoria para la sección B - ¿Por qué son importantes los polinizadores?
   Investiga si tus cinco frutas y verduras favoritas dependen de los polinizadores para crecer.
   Prepara una historia fotográfica sobre tus frutas y verduras favoritas y su relación con los polinizadores.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,16 +27,21 @@ materials:
   - Cámara (opcional)
   - Papel y lápiz para notas
   - Semillas o plantas de tus frutas y verduras favoritas (opcional)
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia ambiental
-responsible: Responsable del grupo
-ods: "15"
-sdgs: "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+responsible:
+  - Responsable del grupo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Frutas y Verduras Favoritas

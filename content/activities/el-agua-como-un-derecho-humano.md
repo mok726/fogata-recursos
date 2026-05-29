@@ -1,12 +1,14 @@
 ﻿---
-title: El agua como un derecho humano
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/el-agua-como-un-derecho-humano/
+title: "El agua como un derecho humano"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-agua-como-un-derecho-humano/"
 description: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
 summary: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Información sobre derechos humanos
   - Acceso a internet
-tools: Computadora para investigación
+tools:
+  - Computadora para investigación
 competencies:
   - Pensamiento crítico
   - Conciencia social
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # El agua como un derecho humano

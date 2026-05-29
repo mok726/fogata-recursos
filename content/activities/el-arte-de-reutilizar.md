@@ -1,24 +1,33 @@
 ﻿---
-title: El Arte de Reutilizar
-duration: 30 - 40 minutos
-layout: layouts/activity.njk
-permalink: /activities/el-arte-de-reutilizar/
+title: "El Arte de Reutilizar"
+duration: "30 - 40 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-arte-de-reutilizar/"
 description: "Actividad que anima a los jóvenes a crear obras de arte con plásticos desechados."
 summary: "Actividad que anima a los jóvenes a crear obras de arte con plásticos desechados."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
-materials: Artículos descartables (latas, plástico, pajillas)
-tools: ""
-competencies: Reflexión sobre normas y valores, Colaboración
-responsible: Facilitador
-ods: "12"
-sdgs: "12"
-activity_badges: parchedeplanetasano
-tags: Parche de Planeta Sano
+age:
+age_group:
+materials:
+  - Artículos descartables (latas, plástico, pajillas)
+tools:
+competencies:
+  - Reflexión sobre normas y valores, Colaboración
+responsible:
+  - Facilitador
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - parchedeplanetasano
+tags:
+  - Parche de Planeta Sano
 ---
 
 # El Arte de Reutilizar

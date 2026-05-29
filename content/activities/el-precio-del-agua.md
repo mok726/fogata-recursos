@@ -1,12 +1,14 @@
 ﻿---
-title: El precio del agua
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/el-precio-del-agua/
+title: "El precio del agua"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-precio-del-agua/"
 description: "Actividad para debatir si el agua debería ser gratuita o tener un costo."
 summary: "Actividad para debatir si el agua debería ser gratuita o tener un costo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Información sobre el precio del agua
   - Acceso a internet
-tools: Computadora para investigación
+tools:
+  - Computadora para investigación
 competencies:
   - Debate
   - Pensamiento crítico
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # El precio del agua

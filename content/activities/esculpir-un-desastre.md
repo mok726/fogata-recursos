@@ -1,12 +1,14 @@
 ﻿---
-title: ESCULPIR UN DESASTRE
-duration: 3-4 horas
-layout: layouts/activity.njk
-permalink: /activities/esculpir-un-desastre/
+title: "ESCULPIR UN DESASTRE"
+duration: "3-4 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/esculpir-un-desastre/"
 description: "Tallar una escultura en madera inspirada en desastres naturales."
 summary: "Tallar una escultura en madera inspirada en desastres naturales."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,15 +27,18 @@ competencies:
   - Expresión artística
   - Manejo de emociones
   - Conciencia ambiental
-responsible: Scouter o artista
+responsible:
+  - Scouter o artista
 ods:
-  - "11"
-  - "13"
+  - 11
+  - 13
 sdgs:
-  - "11"
-  - "13"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 11
+  - 13
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # ESCULPIR UN DESASTRE

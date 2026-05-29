@@ -1,12 +1,14 @@
 ﻿---
-title: Energía en el Pasado
-duration: 90
-layout: layouts/activity.njk
-permalink: /activities/energia-en-el-pasado/
+title: "Energía en el Pasado"
+duration: "90"
+layout: "layouts/activity.njk"
+permalink: "/activities/energia-en-el-pasado/"
 description: "Compara el uso energético actual con el de generaciones anteriores."
 summary: "Compara el uso energético actual con el de generaciones anteriores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Cuaderno
   - Grabadora (opcional)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Empatía intergeneracional
   - Análisis histórico
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Energía en el Pasado

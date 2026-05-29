@@ -1,31 +1,41 @@
 ﻿---
-title: Es difícil pasarse del H2O
+title: "Es difícil pasarse del H2O"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/es-dificil-pasarse-del-h2o/
+layout: "layouts/activity.njk"
+permalink: "/activities/es-dificil-pasarse-del-h2o/"
 description: |
   Experimenta un día sin usar agua.
   **Actividad obligatoria para la categoría Usando el agua.**
 summary: |
   Experimenta un día sin usar agua.
   **Actividad obligatoria para la categoría Usando el agua.**
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales
-tools: No se requieren herramientas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales
+tools:
+  - No se requieren herramientas
 competencies:
   - Conciencia ambiental
   - Responsabilidad
   - Pensamiento crítico
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua(obligatoria)
-tags: Insignia del Agua (Obligatoria)
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua(obligatoria)
+tags:
+  - Insignia del Agua (Obligatoria)
 ---
 
 # Es difícil pasarse del H2O

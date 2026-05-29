@@ -1,12 +1,14 @@
 ﻿---
-title: Disecciona una Flor
-duration: 30 minutos
-layout: layouts/activity.njk
-permalink: /activities/disecciona-una-flor/
+title: "Disecciona una Flor"
+duration: "30 minutos"
+layout: "layouts/activity.njk"
+permalink: "/activities/disecciona-una-flor/"
 description: "Examina las partes de una flor y aprende cómo funciona la polinización."
 summary: "Examina las partes de una flor y aprende cómo funciona la polinización."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,22 +20,25 @@ age_group:
 materials:
   - Flores de diferentes tamaños y colores
   - Guía de partes de la flor (opcional)
-tools: ""
+tools:
 competencies:
   - Observación
   - Conocimiento científico
   - Trabajo en equipo
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
+  - 1
+  - 2
+  - 15
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Disecciona una Flor

@@ -1,12 +1,14 @@
 ﻿---
-title: Experimento Energético
-duration: 15
-layout: layouts/activity.njk
-permalink: /activities/experimento-energetico/
+title: "Experimento Energético"
+duration: "15"
+layout: "layouts/activity.njk"
+permalink: "/activities/experimento-energetico/"
 description: "Reacción química para observar conversión energética."
 summary: "Reacción química para observar conversión energética."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,15 +21,21 @@ materials:
   - Bicarbonato
   - Vinagre
   - Tazón grande
-tools: Cuchara
+tools:
+  - Cuchara
 competencies:
   - Observación
   - Pensamiento científico
-responsible: Educador Scout/ Guiadora AGA
-ods: "4"
-sdgs: "4"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 4
+sdgs:
+  - 4
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Experimento Energético

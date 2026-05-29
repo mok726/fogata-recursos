@@ -1,12 +1,14 @@
 ﻿---
-title: Escena Verde
-duration: 180
-layout: layouts/activity.njk
-permalink: /activities/escena-verde/
+title: "Escena Verde"
+duration: "180"
+layout: "layouts/activity.njk"
+permalink: "/activities/escena-verde/"
 description: "Organiza una fiesta sostenible con cero desperdicios y energía eficiente."
 summary: "Organiza una fiesta sostenible con cero desperdicios y energía eficiente."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Alimentos orgánicos
   - Vasos/tapetes reutilizables
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Planificación logística
   - Liderazgo
-responsible: Educador Scout/ Guiadora AGA
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Escena Verde

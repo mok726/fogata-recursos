@@ -1,34 +1,43 @@
 ﻿---
-title: Evitar el agua embotellada
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/evitar-el-agua-embotellada/
+title: "Evitar el agua embotellada"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/evitar-el-agua-embotellada/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Deja de comprar agua embotellada si el agua de tu grifo es segura.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Deja de comprar agua embotellada si el agua de tu grifo es segura.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Hábitos sostenibles
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 6
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Evitar el agua embotellada

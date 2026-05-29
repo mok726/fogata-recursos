@@ -1,16 +1,20 @@
 ﻿---
-title: Energía hidroeléctrica
+title: "Energía hidroeléctrica"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/energia-hidroelectrica/
+layout: "layouts/activity.njk"
+permalink: "/activities/energia-hidroelectrica/"
 description: "Construye un molino de agua para entender cómo se genera energía hidroeléctrica."
 summary: "Construye un molino de agua para entender cómo se genera energía hidroeléctrica."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Materiales para construir el molino (madera, cartón, etc.)
   - Acceso a internet (opcional)
@@ -21,15 +25,17 @@ competencies:
   - Creatividad
   - Conocimiento científico
   - Conciencia ambiental
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "7"
+  - 6
+  - 7
 sdgs:
-  - "6"
-  - "7"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 7
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Energía hidroeléctrica

@@ -1,12 +1,14 @@
 ﻿---
-title: Entendiendo los Pesticidas
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/entendiendo-los-pesticidas/
+title: "Entendiendo los Pesticidas"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/entendiendo-los-pesticidas/"
 description: "Investiga cómo los pesticidas afectan a los polinizadores."
 summary: "Investiga cómo los pesticidas afectan a los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,22 +20,25 @@ age_group:
 materials:
   - Información sobre pesticidas
   - Papel y lápiz para notas
-tools: ""
+tools:
 competencies:
   - Investigación
   - Conocimiento científico
   - Conciencia ambiental
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "15"
-  - "2"
-  - "17"
+  - 15
+  - 2
+  - 17
 sdgs:
-  - "15"
-  - "2"
-  - "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 15
+  - 2
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Entendiendo los Pesticidas

@@ -1,12 +1,14 @@
 ﻿---
-title: Fuerzas Locales
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/fuerzas-locales/
+title: "Fuerzas Locales"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/fuerzas-locales/"
 description: "Contacta a las autoridades ambientales locales para saber qué están haciendo para proteger a los polinizadores."
 summary: "Contacta a las autoridades ambientales locales para saber qué están haciendo para proteger a los polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,25 +17,29 @@ age:
 age_group:
   - castores
   - manada
-materials: Papel y lápiz para hacer listas de sugerencias
-tools: ""
+materials:
+  - Papel y lápiz para hacer listas de sugerencias
+tools:
 competencies:
   - Investigación
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "1"
-  - "2"
-  - "15"
-  - "17"
+  - 1
+  - 2
+  - 15
+  - 17
 sdgs:
-  - "1"
-  - "2"
-  - "15"
-  - "17"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 1
+  - 2
+  - 15
+  - 17
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Fuerzas Locales

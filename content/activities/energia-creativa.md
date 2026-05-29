@@ -1,12 +1,14 @@
 ﻿---
-title: Energía Creativa
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/energia-creativa/
+title: "Energía Creativa"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/energia-creativa/"
 description: "Inventa un método innovador de generación eléctrica y escribe un cuento."
 summary: "Inventa un método innovador de generación eléctrica y escribe un cuento."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Cuaderno
   - Lápices
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Innovación
   - Escritura creativa
-responsible: Educador Scout/ Guiadora AGA
-ods: "9"
-sdgs: "9"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 9
+sdgs:
+  - 9
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Energía Creativa

@@ -1,12 +1,14 @@
 ﻿---
-title: El gran debate sobre el clima
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/el-gran-debate-sobre-el-clima/
+title: "El gran debate sobre el clima"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/el-gran-debate-sobre-el-clima/"
 description: "Los participantes debaten si el cambio climático es natural o causado por el hombre."
 summary: "Los participantes debaten si el cambio climático es natural o causado por el hombre."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,18 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Acceso a internet, papel, lápices.
-tools: Debate, pensamiento crítico.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Acceso a internet, papel, lápices.
+tools:
+  - Debate, pensamiento crítico.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # El gran debate sobre el clima
