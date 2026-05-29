@@ -1,34 +1,41 @@
 ﻿---
-title: La gallina ciega
+title: "La gallina ciega"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/la-gallina-ciega/
+layout: "layouts/activity.njk"
+permalink: "/activities/la-gallina-ciega/"
 description: "Actividad para reflexionar sobre la importancia del agua en el cuerpo humano."
 summary: "Actividad para reflexionar sobre la importancia del agua en el cuerpo humano."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: manada
-age_group: manada
+age:
+  - manada
+age_group:
+  - manada
 materials:
   - Dibujo del cuerpo humano
   - Venda para los ojos
   - Alfiler o lápiz
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conciencia corporal
   - Creatividad
   - Comunicación
-responsible: ""
+responsible:
 ods:
-  - "3"
-  - "6"
+  - 3
+  - 6
 sdgs:
-  - "3"
-  - "6"
-activity_badges: agua
-tags: Insignia del Agua
+  - 3
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # La gallina ciega

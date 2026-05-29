@@ -1,12 +1,14 @@
 ﻿---
-title: Ideas descabelladas
-duration: 1 hora
-layout: layouts/activity.njk
-permalink: /activities/ideas-descabelladas/
+title: "Ideas descabelladas"
+duration: "1 hora"
+layout: "layouts/activity.njk"
+permalink: "/activities/ideas-descabelladas/"
 description: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
 summary: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,15 +21,21 @@ materials:
   - Papel
   - Lápices
   - Materiales para prototipos (opcional)
-tools: Herramientas de diseño (opcional)
+tools:
+  - Herramientas de diseño (opcional)
 competencies:
   - Creatividad
   - Resolución de problemas
-responsible: Líder de grupo
-ods: "6"
-sdgs: "6"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Ideas descabelladas

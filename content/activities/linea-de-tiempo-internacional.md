@@ -1,12 +1,14 @@
 ﻿---
-title: LÍNEA DE TIEMPO INTERNACIONAL
-duration: 3 horas
-layout: layouts/activity.njk
-permalink: /activities/linea-de-tiempo-internacional/
+title: "LÍNEA DE TIEMPO INTERNACIONAL"
+duration: "3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/linea-de-tiempo-internacional/"
 description: "Crea una línea de tiempo sobre eventos clave relacionados con bosques y cambio climático."
 summary: "Crea una línea de tiempo sobre eventos clave relacionados con bosques y cambio climático."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,24 @@ materials:
   - Papel grande o cartulina
   - Marcadores
   - Recursos históricos
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Investigación histórica
   - Organización visual
   - Conciencia global
-responsible: Scouter o historiador ambiental
+responsible:
+  - Scouter o historiador ambiental
 ods:
-  - "13"
-  - "17"
+  - 13
+  - 17
 sdgs:
-  - "13"
-  - "17"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 13
+  - 17
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # LÍNEA DE TIEMPO INTERNACIONAL

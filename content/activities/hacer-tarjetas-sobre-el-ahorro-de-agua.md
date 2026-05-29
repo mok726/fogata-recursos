@@ -1,34 +1,43 @@
 ﻿---
-title: Hacer tarjetas sobre el ahorro de agua
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/hacer-tarjetas-sobre-el-ahorro-de-agua/
+title: "Hacer tarjetas sobre el ahorro de agua"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/hacer-tarjetas-sobre-el-ahorro-de-agua/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Papel y lápiz para hacer las tarjetas
-tools: No se requieren herramientas específicas
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Papel y lápiz para hacer las tarjetas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "6"
-  - "4"
+  - 6
+  - 4
 sdgs:
-  - "6"
-  - "4"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 6
+  - 4
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Hacer tarjetas sobre el ahorro de agua

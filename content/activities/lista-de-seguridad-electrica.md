@@ -1,12 +1,14 @@
 ﻿---
-title: Lista de Seguridad Eléctrica
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/lista-de-seguridad-electrica/
+title: "Lista de Seguridad Eléctrica"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/lista-de-seguridad-electrica/"
 description: "Identifica riesgos energéticos en casa/escuela."
 summary: "Identifica riesgos energéticos en casa/escuela."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Cuaderno
   - Lápiz
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conciencia preventiva
   - Responsabilidad
-responsible: Educador Scout/ Guiadora AGA
-ods: "11"
-sdgs: "11"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 11
+sdgs:
+  - 11
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Lista de Seguridad Eléctrica

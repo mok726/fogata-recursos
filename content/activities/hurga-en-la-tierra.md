@@ -1,34 +1,41 @@
 ﻿---
-title: Hurga en la tierra
+title: "Hurga en la tierra"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/hurga-en-la-tierra/
+layout: "layouts/activity.njk"
+permalink: "/activities/hurga-en-la-tierra/"
 description: "Experimenta con la erosión del suelo causada por el agua."
 summary: "Experimenta con la erosión del suelo causada por el agua."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Diferentes tipos de suelo (arena, tierra, arcilla)
   - Agua
   - Jarra y regadera
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación científica
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "15"
+  - 6
+  - 15
 sdgs:
-  - "6"
-  - "15"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 15
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Hurga en la tierra

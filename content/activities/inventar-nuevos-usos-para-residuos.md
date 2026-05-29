@@ -1,16 +1,18 @@
 ﻿---
-title: Inventar nuevos usos para residuos
-duration: 1 semana
-layout: layouts/activity.njk
-permalink: /activities/inventar-nuevos-usos-para-residuos/
+title: "Inventar nuevos usos para residuos"
+duration: "1 semana"
+layout: "layouts/activity.njk"
+permalink: "/activities/inventar-nuevos-usos-para-residuos/"
 description: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas.
 summary: |
   Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
   Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,16 +21,23 @@ age:
 age_group:
   - castores
   - manada
-materials: Residuos domésticos (botellas, latas, etc.)
-tools: No se requieren herramientas específicas
+materials:
+  - Residuos domésticos (botellas, latas, etc.)
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Creatividad
-responsible: Responsable del grupo Scout
-ods: "12"
-sdgs: "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+responsible:
+  - Responsable del grupo Scout
+ods:
+  - 12
+sdgs:
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Inventar nuevos usos para residuos

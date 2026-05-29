@@ -1,16 +1,18 @@
 ﻿---
-title: HABITANTES INDÍGENAS
-duration: 3-4 horas (preparación + presentación)
-layout: layouts/activity.njk
-permalink: /activities/habitantes-indigenas/
+title: "HABITANTES INDÍGENAS"
+duration: "3-4 horas (preparación + presentación)"
+layout: "layouts/activity.njk"
+permalink: "/activities/habitantes-indigenas/"
 description: |
   Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Investiga leyendas indígenas sobre bosques y presenta una obra de teatro.
 summary: |
   Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Investiga leyendas indígenas sobre bosques y presenta una obra de teatro.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,20 +26,24 @@ age_group:
 materials:
   - Textos o recursos sobre leyendas indígenas
   - Disfraces o accesorios (opcional)
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Investigación cultural
   - Expresión artística
   - Empatía histórica
-responsible: Scouter o líder cultural
+responsible:
+  - Scouter o líder cultural
 ods:
-  - "11"
-  - "16"
+  - 11
+  - 16
 sdgs:
-  - "11"
-  - "16"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 11
+  - 16
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # HABITANTES INDÍGENAS

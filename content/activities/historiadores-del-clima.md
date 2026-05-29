@@ -1,12 +1,14 @@
 ﻿---
-title: Historiadores del clima
-duration: 1-2 días
-layout: layouts/activity.njk
-permalink: /activities/historiadores-del-clima/
+title: "Historiadores del clima"
+duration: "1-2 días"
+layout: "layouts/activity.njk"
+permalink: "/activities/historiadores-del-clima/"
 description: "Los participantes investigan la historia del clima de la Tierra."
 summary: "Los participantes investigan la historia del clima de la Tierra."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,14 +19,21 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Libros, acceso a internet, papel, lápices.
-tools: ""
-competencies: Investigación, creatividad.
-responsible: Maestro/profesor/dirigente.
-ods: "13"
-sdgs: "13"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+materials:
+  - Libros, acceso a internet, papel, lápices.
+tools:
+competencies:
+  - Investigación, creatividad.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Historiadores del clima

@@ -1,16 +1,18 @@
 ﻿---
-title: Instalación de paneles solares
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/instalacion-de-paneles-solares/
+title: "Instalación de paneles solares"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/instalacion-de-paneles-solares/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Energía.
   Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -19,20 +21,25 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: No se requieren materiales específicos
-tools: No se requieren herramientas específicas
+materials:
+  - No se requieren materiales específicos
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y planificación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "7"
-  - "13"
+  - 7
+  - 13
 sdgs:
-  - "7"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 7
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Instalación de paneles solares

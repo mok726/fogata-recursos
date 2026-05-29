@@ -1,33 +1,40 @@
 ﻿---
-title: Hogar dulce hogar
+title: "Hogar dulce hogar"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/hogar-dulce-hogar/
+layout: "layouts/activity.njk"
+permalink: "/activities/hogar-dulce-hogar/"
 description: "Investiga las adaptaciones de las especies acuáticas."
 summary: "Investiga las adaptaciones de las especies acuáticas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Acceso a internet (opcional)
   - Materiales para el póster (papel, lápices, etc.)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación científica
   - Conciencia ambiental
   - Creatividad
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "14"
+  - 6
+  - 14
 sdgs:
-  - "6"
-  - "14"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 14
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Hogar dulce hogar

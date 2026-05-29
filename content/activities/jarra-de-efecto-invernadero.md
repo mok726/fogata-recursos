@@ -1,12 +1,14 @@
 ﻿---
-title: Jarra de efecto invernadero
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/jarra-de-efecto-invernadero/
+title: "Jarra de efecto invernadero"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/jarra-de-efecto-invernadero/"
 description: "Los participantes realizan un experimento para entender el efecto invernadero."
 summary: "Los participantes realizan un experimento para entender el efecto invernadero."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,18 @@ age:
 age_group:
   - manada
   - scouts
-materials: Jarra, termómetros, lámpara solar.
-tools: Experimentación, análisis.
-competencies: Maestro/profesor/dirigente.
-responsible: ODS 13
-ods: ""
-sdgs: ""
-activity_badges: ""
-tags: ""
+materials:
+  - Jarra, termómetros, lámpara solar.
+tools:
+  - Experimentación, análisis.
+competencies:
+  - Maestro/profesor/dirigente.
+responsible:
+  - ODS 13
+ods:
+sdgs:
+activity_badges:
+tags:
 ---
 
 # Jarra de efecto invernadero

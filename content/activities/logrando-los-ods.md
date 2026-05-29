@@ -1,16 +1,18 @@
 ﻿---
-title: Logrando los ODS
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/logrando-los-ods/
+title: "Logrando los ODS"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/logrando-los-ods/"
 description: |
   Actividad obligatoria para la categoría - TOMAR ACCIÓN.
   Diseña un póster sobre un ODS y cómo contribuir a él.
 summary: |
   Actividad obligatoria para la categoría - TOMAR ACCIÓN.
   Diseña un póster sobre un ODS y cómo contribuir a él.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -28,11 +30,14 @@ tools:
 competencies:
   - Creatividad visual
   - Planificación
-responsible: Educador Scout/ Guiadora AGA
-ods: ""
-sdgs: ""
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+sdgs:
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Logrando los ODS

@@ -1,16 +1,18 @@
 ﻿---
-title: Lentes Solares
-duration: 30 - 45 min
-layout: layouts/activity.njk
-permalink: /activities/lentes-solares/
+title: "Lentes Solares"
+duration: "30 - 45 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/lentes-solares/"
 description: |
   Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV.
   Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre.
 summary: |
   Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV.
   Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -25,18 +27,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Impresión o dibujo de lentes solares, lámina de plástico oscura con protección UV, pegamento o cinta
-tools: Tijeras
-competencies: Conciencia Ambiental, Creatividad, Seguridad
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Impresión o dibujo de lentes solares, lámina de plástico oscura con protección UV, pegamento o cinta
+tools:
+  - Tijeras
+competencies:
+  - Conciencia Ambiental, Creatividad, Seguridad
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "3"
-  - "13"
+  - 3
+  - 13
 sdgs:
-  - "3"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 3
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Lentes Solares

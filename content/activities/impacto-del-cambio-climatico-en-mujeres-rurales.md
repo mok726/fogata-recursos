@@ -1,16 +1,18 @@
 ﻿---
-title: Impacto del cambio climático en mujeres rurales
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/impacto-del-cambio-climatico-en-mujeres-rurales/
+title: "Impacto del cambio climático en mujeres rurales"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/impacto-del-cambio-climatico-en-mujeres-rurales/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Aprende cómo el cambio climático afecta a las mujeres rurales.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Aprende cómo el cambio climático afecta a las mujeres rurales.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y análisis
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "5"
-  - "13"
+  - 5
+  - 13
 sdgs:
-  - "5"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 5
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Impacto del cambio climático en mujeres rurales

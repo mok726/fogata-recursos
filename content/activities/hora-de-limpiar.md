@@ -1,16 +1,18 @@
 ﻿---
-title: Hora de limpiar
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/hora-de-limpiar/
+title: "Hora de limpiar"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/hora-de-limpiar/"
 description: |
   Actividad para limpiar un río, estanque, lago o playa en tu área.
   **Esta actividad es obligatoria para la categoría E.**
 summary: |
   Actividad para limpiar un río, estanque, lago o playa en tu área.
   **Esta actividad es obligatoria para la categoría E.**
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -29,11 +31,16 @@ tools:
 competencies:
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: Líder de grupo
-ods: "14"
-sdgs: "14"
-activity_badges: parchedelagua
-tags: Parche del Agua
+responsible:
+  - Líder de grupo
+ods:
+  - 14
+sdgs:
+  - 14
+activity_badges:
+  - parchedelagua
+tags:
+  - Parche del Agua
 ---
 
 # Hora de limpiar

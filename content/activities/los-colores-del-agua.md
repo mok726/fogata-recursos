@@ -1,29 +1,38 @@
 ﻿---
-title: Los colores del agua
+title: "Los colores del agua"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/los-colores-del-agua/
+layout: "layouts/activity.njk"
+permalink: "/activities/los-colores-del-agua/"
 description: "Captura los diferentes colores y texturas del agua en fotografías."
 summary: "Captura los diferentes colores y texturas del agua en fotografías."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Cámara fotográfica
   - Impresora (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Creatividad
   - Observación
   - Conciencia ambiental
-responsible: ""
-ods: "6"
-sdgs: "6"
-activity_badges: agua
-tags: Insignia del Agua
+responsible:
+ods:
+  - 6
+sdgs:
+  - 6
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Los colores del agua

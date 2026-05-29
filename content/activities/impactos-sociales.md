@@ -1,12 +1,14 @@
 ﻿---
-title: Impactos Sociales
-duration: 150
-layout: layouts/activity.njk
-permalink: /activities/impactos-sociales/
+title: "Impactos Sociales"
+duration: "150"
+layout: "layouts/activity.njk"
+permalink: "/activities/impactos-sociales/"
 description: "Analiza efectos positivos/negativos de una central eléctrica en comunidades."
 summary: "Analiza efectos positivos/negativos de una central eléctrica en comunidades."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,15 +20,21 @@ age_group:
 materials:
   - Noticias locales
   - Cuaderno
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento crítico
   - Empatía social
-responsible: Educador Scout/ Guiadora AGA
-ods: "16"
-sdgs: "16"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 16
+sdgs:
+  - 16
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Impactos Sociales

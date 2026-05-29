@@ -1,28 +1,36 @@
 ﻿---
-title: La red de vida
-duration: 45 min
-layout: layouts/activity.njk
-permalink: /activities/la-red-de-vida/
+title: "La red de vida"
+duration: "45 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/la-red-de-vida/"
 description: "Esta actividad permite a los participantes explorar las conexiones entre las plantas y los animales en un ecosistema."
 summary: "Esta actividad permite a los participantes explorar las conexiones entre las plantas y los animales en un ecosistema."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Bola de cuerda
   - Tarjetas de plantas y animales
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Pensamiento Sistémico
   - Anticipar el Futuro
-responsible: Sinodal o Dirigente a cargo
-ods: "15"
-sdgs: "15"
-activity_badges: championsfornature
-tags: Champions for Nature
+responsible:
+  - Sinodal o Dirigente a cargo
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # La red de vida

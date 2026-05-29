@@ -1,12 +1,14 @@
 ﻿---
-title: La Hora del Planeta
-duration: 60
-layout: layouts/activity.njk
-permalink: /activities/la-hora-del-planeta/
+title: "La Hora del Planeta"
+duration: "60"
+layout: "layouts/activity.njk"
+permalink: "/activities/la-hora-del-planeta/"
 description: "Participa en esta iniciativa global apagando luces y organizando actividades sin energía."
 summary: "Participa en esta iniciativa global apagando luces y organizando actividades sin energía."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -20,15 +22,21 @@ age_group:
 materials:
   - Linternas (opcional)
   - Velas seguras
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Conciencia global
   - Adaptabilidad
-responsible: Educador Scout/ Guiadora AGA
-ods: "13"
-sdgs: "13"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # La Hora del Planeta

@@ -1,12 +1,14 @@
 ﻿---
-title: Gráficos del Suelo
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/graficos-del-suelo/
+title: "Gráficos del Suelo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/graficos-del-suelo/"
 description: "Crea una tira cómica sobre un superhéroe que protege el suelo."
 summary: "Crea una tira cómica sobre un superhéroe que protege el suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Papel * Lápices
-tools: Ninguna
-competencies: Creatividad * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Papel * Lápices
+tools:
+  - Ninguna
+competencies:
+  - Creatividad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Gráficos del Suelo

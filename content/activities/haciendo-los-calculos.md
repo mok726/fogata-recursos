@@ -1,33 +1,40 @@
 ﻿---
-title: Haciendo los cálculos
+title: "Haciendo los cálculos"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/haciendo-los-calculos/
+layout: "layouts/activity.njk"
+permalink: "/activities/haciendo-los-calculos/"
 description: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
 summary: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: caminantes
-age_group: caminantes
+age:
+  - caminantes
+age_group:
+  - caminantes
 materials:
   - Cuaderno para notas
   - Acceso a internet (opcional)
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 12
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Haciendo los cálculos

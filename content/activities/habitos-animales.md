@@ -1,12 +1,14 @@
 ﻿---
-title: Hábitos Animales
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/habitos-animales/
+title: "Hábitos Animales"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/habitos-animales/"
 description: "Observa cómo los animales interactúan con el suelo en un zoológico o parque."
 summary: "Observa cómo los animales interactúan con el suelo en un zoológico o parque."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Cámara (opcional) * Cuaderno * Lápices
-tools: Ninguna
-competencies: Observación científica * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Cámara (opcional) * Cuaderno * Lápices
+tools:
+  - Ninguna
+competencies:
+  - Observación científica * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Hábitos Animales

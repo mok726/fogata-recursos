@@ -1,33 +1,40 @@
 ﻿---
-title: Intercambio internacional de recetas
+title: "Intercambio internacional de recetas"
 duration: ""
-layout: layouts/activity.njk
-permalink: /activities/intercambio-internacional-de-recetas/
+layout: "layouts/activity.njk"
+permalink: "/activities/intercambio-internacional-de-recetas/"
 description: "Calcula la huella hídrica de tus recetas favoritas."
 summary: "Calcula la huella hídrica de tus recetas favoritas."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
+age:
+  - scouts
+age_group:
+  - scouts
 materials:
   - Recetas de diferentes países
   - Cuaderno para notas
-tools: No se requieren herramientas
+tools:
+  - No se requieren herramientas
 competencies:
   - Conciencia ambiental
   - Pensamiento crítico
   - Trabajo en equipo
-responsible: ""
+responsible:
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: agua
-tags: Insignia del Agua
+  - 6
+  - 12
+activity_badges:
+  - agua
+tags:
+  - Insignia del Agua
 ---
 
 # Intercambio internacional de recetas

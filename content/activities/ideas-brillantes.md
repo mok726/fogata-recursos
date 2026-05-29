@@ -1,12 +1,14 @@
 ﻿---
-title: Ideas Brillantes
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/ideas-brillantes/
+title: "Ideas Brillantes"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/ideas-brillantes/"
 description: "Investiga un proyecto global de energía sostenible y preséntalo."
 summary: "Investiga un proyecto global de energía sostenible y preséntalo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,19 +20,23 @@ age_group:
 materials:
   - Casos de estudio (enlaces web)
   - Material para presentación
-tools: Computadora (opcional)
+tools:
+  - Computadora (opcional)
 competencies:
   - Pensamiento aplicado
   - Oratoria
-responsible: Educador Scout/ Guiadora AGA
+responsible:
+  - Educador Scout/ Guiadora AGA
 ods:
-  - "6"
-  - "7"
+  - 6
+  - 7
 sdgs:
-  - "6"
-  - "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+  - 6
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Ideas Brillantes

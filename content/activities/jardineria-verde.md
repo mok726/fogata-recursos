@@ -1,12 +1,14 @@
 ﻿---
-title: Jardinería Verde
-duration: Varias semanas
-layout: layouts/activity.njk
-permalink: /activities/jardineria-verde/
+title: "Jardinería Verde"
+duration: "Varias semanas"
+layout: "layouts/activity.njk"
+permalink: "/activities/jardineria-verde/"
 description: "Prepara un recipiente de compost para mejorar el suelo en tu jardín o escuela."
 summary: "Prepara un recipiente de compost para mejorar el suelo en tu jardín o escuela."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Restos de comida * Hojas * Tierra
-tools: Pala * Recipiente para compost
-competencies: Responsabilidad * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Restos de comida * Hojas * Tierra
+tools:
+  - Pala * Recipiente para compost
+competencies:
+  - Responsabilidad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Jardinería Verde

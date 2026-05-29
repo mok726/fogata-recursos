@@ -1,12 +1,14 @@
 ﻿---
-title: Investigación Geotérmica
-duration: 120
-layout: layouts/activity.njk
-permalink: /activities/investigacion-geotermica/
+title: "Investigación Geotérmica"
+duration: "120"
+layout: "layouts/activity.njk"
+permalink: "/activities/investigacion-geotermica/"
 description: "Profundiza en cómo se usa la energía geotérmica."
 summary: "Profundiza en cómo se usa la energía geotérmica."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,16 +17,23 @@ age:
 age_group:
   - caminantes
   - rovers
-materials: Datos de consumo energético
-tools: Calculadora
+materials:
+  - Datos de consumo energético
+tools:
+  - Calculadora
 competencies:
   - Análisis numérico
   - Investigación
-responsible: Educador Scout/ Guiadora AGA
-ods: "7"
-sdgs: "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 7
+sdgs:
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Investigación Geotérmica

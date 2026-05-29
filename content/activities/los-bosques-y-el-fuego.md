@@ -1,16 +1,18 @@
 ﻿---
-title: LOS BOSQUES Y EL FUEGO
-duration: 2-3 horas
-layout: layouts/activity.njk
-permalink: /activities/los-bosques-y-el-fuego/
+title: "LOS BOSQUES Y EL FUEGO"
+duration: "2-3 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/los-bosques-y-el-fuego/"
 description: |
   Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Aprende a hacer fogatas seguras e investiga su importancia cultural.
 summary: |
   Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Aprende a hacer fogatas seguras e investiga su importancia cultural.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -32,15 +34,18 @@ competencies:
   - Supervivencia
   - Conocimiento cultural
   - Responsabilidad
-responsible: Scouter o experto en seguridad
+responsible:
+  - Scouter o experto en seguridad
 ods:
-  - "11"
-  - "12"
+  - 11
+  - 12
 sdgs:
-  - "11"
-  - "12"
-activity_badges: bosques
-tags: Insignia de los Bosques
+  - 11
+  - 12
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # LOS BOSQUES Y EL FUEGO

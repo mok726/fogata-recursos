@@ -1,12 +1,14 @@
 ﻿---
-title: Iluminando y Empoderando
-duration: 360
-layout: layouts/activity.njk
-permalink: /activities/iluminando-y-empoderando/
+title: "Iluminando y Empoderando"
+duration: "360"
+layout: "layouts/activity.njk"
+permalink: "/activities/iluminando-y-empoderando/"
 description: "Organiza un 'Día de Conciencia Energética' en tu comunidad."
 summary: "Organiza un 'Día de Conciencia Energética' en tu comunidad."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -24,11 +26,16 @@ tools:
 competencies:
   - Organización de eventos
   - Educación pública
-responsible: Educador Scout/ Guiadora AGA
-ods: "4"
-sdgs: "4"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+responsible:
+  - Educador Scout/ Guiadora AGA
+ods:
+  - 4
+sdgs:
+  - 4
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Iluminando y Empoderando

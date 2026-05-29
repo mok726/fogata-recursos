@@ -1,34 +1,43 @@
 ﻿---
-title: Lavar la ropa de manera eficiente
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/lavar-la-ropa-de-manera-eficiente/
+title: "Lavar la ropa de manera eficiente"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/lavar-la-ropa-de-manera-eficiente/"
 description: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla.
 summary: |
   Esta actividad es parte del grupo de actividades - Ahorra Agua.
   Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: scouts
-age_group: scouts
-materials: Ropa para lavar
-tools: Lavadora
+age:
+  - scouts
+age_group:
+  - scouts
+materials:
+  - Ropa para lavar
+tools:
+  - Lavadora
 competencies:
   - Conciencia ambiental
   - Hábitos sostenibles
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "6"
-  - "12"
+  - 6
+  - 12
 sdgs:
-  - "6"
-  - "12"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 6
+  - 12
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Lavar la ropa de manera eficiente

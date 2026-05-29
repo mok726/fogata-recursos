@@ -1,16 +1,18 @@
 ﻿---
-title: Lista de verificación de la huella ecológica
-duration: 10 -15 min
-layout: layouts/activity.njk
-permalink: /activities/lista-de-verificacion-de-la-huella-ecologica/
+title: "Lista de verificación de la huella ecológica"
+duration: "10 -15 min"
+layout: "layouts/activity.njk"
+permalink: "/activities/lista-de-verificacion-de-la-huella-ecologica/"
 description: "Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos."
 summary: "Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
-age: ""
-age_group: ""
+age:
+age_group:
 materials:
   - Versión online o impresa de la huella ecológica
   - Materiales de lectura
@@ -20,15 +22,18 @@ tools:
 competencies:
   - Pensamiento Crítico
   - Reflexión sobre normas y valores
-responsible: Sinodal o Dirigente a cargo
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: championsfornature
-tags: Champions for Nature
+  - 12
+  - 13
+activity_badges:
+  - championsfornature
+tags:
+  - Champions for Nature
 ---
 
 # Lista de verificación de la huella ecológica

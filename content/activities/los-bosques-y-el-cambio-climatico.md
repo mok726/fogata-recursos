@@ -1,12 +1,14 @@
 ﻿---
-title: LOS BOSQUES Y EL CAMBIO CLIMÁTICO
-duration: 2 horas
-layout: layouts/activity.njk
-permalink: /activities/los-bosques-y-el-cambio-climatico/
+title: "LOS BOSQUES Y EL CAMBIO CLIMÁTICO"
+duration: "2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/los-bosques-y-el-cambio-climatico/"
 description: "Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques."
 summary: "Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,16 +20,22 @@ age_group:
 materials:
   - Gráficos de composición atmosférica
   - Papel para notas
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Análisis científico
   - Conciencia climática
   - Pensamiento sistémico
-responsible: Scouter o climatólogo
-ods: "13"
-sdgs: "13"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter o climatólogo
+ods:
+  - 13
+sdgs:
+  - 13
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # LOS BOSQUES Y EL CAMBIO CLIMÁTICO

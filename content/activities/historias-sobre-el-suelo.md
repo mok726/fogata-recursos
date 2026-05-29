@@ -1,12 +1,14 @@
 ﻿---
-title: Historias sobre el Suelo
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/historias-sobre-el-suelo/
+title: "Historias sobre el Suelo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/historias-sobre-el-suelo/"
 description: "Escribe una autobiografía desde la perspectiva de una criatura que vive en el suelo."
 summary: "Escribe una autobiografía desde la perspectiva de una criatura que vive en el suelo."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Papel * Lápices
-tools: Ninguna
-competencies: Creatividad * Conciencia ambiental
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Papel * Lápices
+tools:
+  - Ninguna
+competencies:
+  - Creatividad * Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Historias sobre el Suelo

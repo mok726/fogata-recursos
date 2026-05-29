@@ -1,12 +1,14 @@
 ﻿---
-title: INSPIRACIÓN LITERARIA
-duration: 2 horas
-layout: layouts/activity.njk
-permalink: /activities/inspiracion-literaria/
+title: "INSPIRACIÓN LITERARIA"
+duration: "2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/inspiracion-literaria/"
 description: "Lee obras literarias sobre bosques y analiza su representación."
 summary: "Lee obras literarias sobre bosques y analiza su representación."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -20,16 +22,22 @@ age_group:
 materials:
   - Libros o textos literarios
   - Cuaderno
-tools: Ninguna
+tools:
+  - Ninguna
 competencies:
   - Análisis crítico
   - Expresión escrita
   - Empatía literaria
-responsible: Scouter o profesor de literatura
-ods: "4"
-sdgs: "4"
-activity_badges: bosques
-tags: Insignia de los Bosques
+responsible:
+  - Scouter o profesor de literatura
+ods:
+  - 4
+sdgs:
+  - 4
+activity_badges:
+  - bosques
+tags:
+  - Insignia de los Bosques
 ---
 
 # INSPIRACIÓN LITERARIA

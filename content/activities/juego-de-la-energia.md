@@ -1,12 +1,14 @@
 ﻿---
-title: Juego de la Energía
-duration: 30
-layout: layouts/activity.njk
-permalink: /activities/juego-de-la-energia/
+title: "Juego de la Energía"
+duration: "30"
+layout: "layouts/activity.njk"
+permalink: "/activities/juego-de-la-energia/"
 description: "Aprende sobre fuentes de energía mediante un juego de movimientos."
 summary: "Aprende sobre fuentes de energía mediante un juego de movimientos."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,20 +17,25 @@ age:
 age_group:
   - castores
   - manada
-materials: Espacio abierto
-tools: Ninguna
+materials:
+  - Espacio abierto
+tools:
+  - Ninguna
 competencies:
   - Trabajo en equipo
   - Coordinación física
-responsible: Educador Scout/ Guiadora AGA
+responsible:
+  - Educador Scout/ Guiadora AGA
 ods:
-  - "4"
-  - "7"
+  - 4
+  - 7
 sdgs:
-  - "4"
-  - "7"
-activity_badges: insigniadeenergía
-tags: Insignia de Energía
+  - 4
+  - 7
+activity_badges:
+  - insigniadeenergía
+tags:
+  - Insignia de Energía
 ---
 
 # Juego de la Energía

@@ -1,12 +1,14 @@
 ﻿---
-title: Increíbles animales que se adaptan
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/increibles-animales-que-se-adaptan/
+title: "Increíbles animales que se adaptan"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/increibles-animales-que-se-adaptan/"
 description: "Los participantes inventan un animal adaptado a su entorno."
 summary: "Los participantes inventan un animal adaptado a su entorno."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,21 @@ age:
 age_group:
   - manada
   - scouts
-materials: Papel, lápices, colores.
-tools: ""
-competencies: Creatividad, pensamiento crítico.
-responsible: Maestro/profesor/dirigente.
-ods: "15"
-sdgs: "15"
-activity_badges: cambioclimático
-tags: Insignia del Cambio Climático
+materials:
+  - Papel, lápices, colores.
+tools:
+competencies:
+  - Creatividad, pensamiento crítico.
+responsible:
+  - Maestro/profesor/dirigente.
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - cambioclimático
+tags:
+  - Insignia del Cambio Climático
 ---
 
 # Increíbles animales que se adaptan

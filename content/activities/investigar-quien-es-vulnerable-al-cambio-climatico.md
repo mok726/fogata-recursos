@@ -1,16 +1,18 @@
 ﻿---
-title: Investigar quién es vulnerable al cambio climático
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/investigar-quien-es-vulnerable-al-cambio-climatico/
+title: "Investigar quién es vulnerable al cambio climático"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/investigar-quien-es-vulnerable-al-cambio-climatico/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Investigación y análisis
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "13"
-  - "10"
+  - 13
+  - 10
 sdgs:
-  - "13"
-  - "10"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 13
+  - 10
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Investigar quién es vulnerable al cambio climático

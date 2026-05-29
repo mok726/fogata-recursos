@@ -1,12 +1,14 @@
 ﻿---
-title: Horno Solar - Cocina Solar
-duration: 2 h
-layout: layouts/activity.njk
-permalink: /activities/horno-solar-cocina-solar/
+title: "Horno Solar - Cocina Solar"
+duration: "2 h"
+layout: "layouts/activity.njk"
+permalink: "/activities/horno-solar-cocina-solar/"
 description: "Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol."
 summary: "Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -17,18 +19,24 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials: Materiales según el modelo de horno solar (ver anexo)
-tools: Herramientas según el modelo de horno solar
-competencies: Conciencia Ambiental, Aprendizaje Práctico, Creatividad
-responsible: Sinodal o Dirigente a cargo
+materials:
+  - Materiales según el modelo de horno solar (ver anexo)
+tools:
+  - Herramientas según el modelo de horno solar
+competencies:
+  - Conciencia Ambiental, Aprendizaje Práctico, Creatividad
+responsible:
+  - Sinodal o Dirigente a cargo
 ods:
-  - "7"
-  - "13"
+  - 7
+  - 13
 sdgs:
-  - "7"
-  - "13"
-activity_badges: gosolar
-tags: Go Solar
+  - 7
+  - 13
+activity_badges:
+  - gosolar
+tags:
+  - Go Solar
 ---
 
 # Horno Solar - Cocina Solar

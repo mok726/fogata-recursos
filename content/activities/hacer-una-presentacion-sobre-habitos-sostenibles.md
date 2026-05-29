@@ -1,16 +1,18 @@
 ﻿---
-title: Hacer una presentación sobre hábitos sostenibles
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/hacer-una-presentacion-sobre-habitos-sostenibles/
+title: "Hacer una presentación sobre hábitos sostenibles"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/hacer-una-presentacion-sobre-habitos-sostenibles/"
 description: |
   Esta actividad es parte del grupo de actividades - Alza tu voz.
   Presenta hábitos amigables con el medio ambiente en tu escuela o grupo.
 summary: |
   Esta actividad es parte del grupo de actividades - Alza tu voz.
   Presenta hábitos amigables con el medio ambiente en tu escuela o grupo.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Comunicación y liderazgo
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "12"
-  - "13"
+  - 12
+  - 13
 sdgs:
-  - "12"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 12
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Hacer una presentación sobre hábitos sostenibles

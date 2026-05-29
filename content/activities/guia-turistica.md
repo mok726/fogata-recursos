@@ -1,12 +1,14 @@
 ﻿---
-title: Guía Turística
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/guia-turistica/
+title: "Guía Turística"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/guia-turistica/"
 description: "Lleva a un amigo en un tour guiado sobre el suelo en tu jardín o parque local."
 summary: "Lleva a un amigo en un tour guiado sobre el suelo en tu jardín o parque local."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -15,14 +17,22 @@ age:
 age_group:
   - castores
   - scouts
-materials: Ninguno
-tools: Ninguna
-competencies: Conciencia ambiental * Comunicación
-responsible: Maestro/Dirigente
-ods: "15"
-sdgs: "15"
-activity_badges: suelos
-tags: Insignia de los Suelos
+materials:
+  - Ninguno
+tools:
+  - Ninguna
+competencies:
+  - Conciencia ambiental * Comunicación
+responsible:
+  - Maestro/Dirigente
+ods:
+  - 15
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+tags:
+  - Insignia de los Suelos
 ---
 
 # Guía Turística

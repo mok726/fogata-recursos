@@ -1,16 +1,18 @@
 ﻿---
-title: Impacto del cambio climático en la agricultura
-duration: 1 mes
-layout: layouts/activity.njk
-permalink: /activities/impacto-del-cambio-climatico-en-la-agricultura/
+title: "Impacto del cambio climático en la agricultura"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/impacto-del-cambio-climatico-en-la-agricultura/"
 description: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos.
 summary: |
   Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
   Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos.
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -22,19 +24,23 @@ age_group:
 materials:
   - Acceso a internet
   - Papel y lápiz
-tools: No se requieren herramientas específicas
+tools:
+  - No se requieren herramientas específicas
 competencies:
   - Conciencia ambiental
   - Comunicación
-responsible: Responsable del grupo Scout
+responsible:
+  - Responsable del grupo Scout
 ods:
-  - "2"
-  - "13"
+  - 2
+  - 13
 sdgs:
-  - "2"
-  - "13"
-activity_badges: insigniadeseguridadalimentariaycambioclimático
-tags: Insignia de Seguridad Alimentaria y Cambio Climático
+  - 2
+  - 13
+activity_badges:
+  - insigniadeseguridadalimentariaycambioclimático
+tags:
+  - Insignia de Seguridad Alimentaria y Cambio Climático
 ---
 
 # Impacto del cambio climático en la agricultura

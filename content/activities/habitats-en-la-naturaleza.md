@@ -1,12 +1,14 @@
 ﻿---
-title: Hábitats en la Naturaleza
-duration: 1-2 horas
-layout: layouts/activity.njk
-permalink: /activities/habitats-en-la-naturaleza/
+title: "Hábitats en la Naturaleza"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/habitats-en-la-naturaleza/"
 description: "Explora la naturaleza para identificar hábitats de polinizadores."
 summary: "Explora la naturaleza para identificar hábitats de polinizadores."
-author: Mariano Cosentino
-source: Fogata de Recursos
+author:
+  - Mariano Cosentino
+source:
+  - Fogata de Recursos
 branch:
   - Naturaleza
 age:
@@ -18,22 +20,25 @@ age_group:
 materials:
   - Papel y lápiz para hacer listas
   - Guía de identificación de hábitats (opcional)
-tools: ""
+tools:
 competencies:
   - Observación
   - Conciencia ambiental
   - Trabajo en equipo
-responsible: Responsable del grupo
+responsible:
+  - Responsable del grupo
 ods:
-  - "15"
-  - "13"
-  - "12"
+  - 15
+  - 13
+  - 12
 sdgs:
-  - "15"
-  - "13"
-  - "12"
-activity_badges: insigniadepolinizadores
-tags: Insignia de Polinizadores
+  - 15
+  - 13
+  - 12
+activity_badges:
+  - insigniadepolinizadores
+tags:
+  - Insignia de Polinizadores
 ---
 
 # Hábitats en la Naturaleza
