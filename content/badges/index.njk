@@ -9,42 +9,128 @@ title: Insignias
 
 <div class="grid">
 
-  {% for badge in badges %}
 
-    <a href="{{ ('/badges/' + badge.id + '/') | url }}">
+{% for badge in badges %}
 
-      <div class="card">
 
-        {% if badge.logo and not badge.generic %}
+{% set matchedActivities = [] %}
 
-          <img
-            class="badge"
-            src="{{ badge.logo | url }}"
-            alt="{{ badge.name }}">
+{% for activity in collections.activitiesSorted %}
+
+  {% set activityBadges =
+    activity.data.activity_badges or [] %}
+
+{% set shouldCount = false %}
+
+{% if badge.id == "general" %}
+
+  {% set validBadges = [] %}
+
+  {% for knownBadge in badges %}
+    {% set validBadges =
+      validBadges.concat([
+        knownBadge.id | slugify
+      ])
+    %}
+  {% endfor %}
+
+  {% if activityBadges.length == 0 %}
+
+    {% set shouldCount = true %}
+
+  {% else %}
+
+    {% set validMatches = [] %}
+
+    {% for itemBadge in activityBadges %}
+
+      {% if
+        (itemBadge | slugify)
+        in validBadges
+      %}
+        {% set validMatches =
+          validMatches.concat([true])
+        %}
+      {% endif %}
+
+    {% endfor %}
+
+    {% if validMatches.length == 0 %}
+      {% set shouldCount = true %}
+    {% endif %}
+
+  {% endif %}
+
+{% else %}
+
+  {% for itemBadge in activityBadges %}
+
+    {% if
+      (itemBadge | slugify)
+      ==
+      (badge.id | slugify)
+    %}
+
+      {% set shouldCount = true %}
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+
+{% if shouldCount %}
+{% set matchedActivities = matchedActivities.concat([1]) %}
+{% endif %}
+
+{% endfor %}
+
+
+  <a href="{{ ('/badges/' + badge.id + '/') | url }}">
+
+    <div class="card">
+
+      {% if badge.logo and not badge.generic %}
+
+        <img
+          class="badge"
+          src="{{ badge.logo | url }}"
+          alt="{{ badge.name }}">
+
+      {% endif %}
+
+      <div class="card-content">
+
+        <h2>
+          {{ badge.name }}
+        </h2>
+
+        {% if badge.description %}
+
+          <p>
+            {{ badge.description }}
+          </p>
 
         {% endif %}
 
-        <div class="card-content">
+        <div class="card-meta">
 
-          <h2>
-            {{ badge.name }}
-          </h2>
+          <span class="chip">
 
-          {% if badge.description %}
-
-            <p>
-              {{ badge.description }}
-            </p>
-
-          {% endif %}
+{{ matchedActivities.length }}
+actividad{% if matchedActivities.length != 1 %}es{% endif %}
+          </span>
 
         </div>
 
       </div>
 
-    </a>
+    </div>
 
-  {% endfor %}
+  </a>
+
+{% endfor %}
+
 
 
 </div>

@@ -63,34 +63,29 @@
 
     <div class="card-meta">
 
-      {% if item.age_group %}
 
-        {% for age in item.age_group %}
 
-          {% set ageInfo = age | normalizeAge(ageGroups) %}
+{% if item.age_group %}
 
-          <span
-            class="chip age-chip"
-            style="
-              background: {{ ageInfo.color }}22;
-              color: {{ ageInfo.color }};
-            "
-          >
+  {% for age in item.age_group %}
 
-{% if ageInfo.icon %}
+    {% set ageInfo = age | normalizeAge(ageGroups) %}
 
-  <img
-    class="age-chip-icon"
-    src="{{ ('/imagenes/ramas/' + ageInfo.icon) | url }}"
-    alt="{{ ageInfo.name }}">
+    {% if ageInfo.icon %}
+
+      <img
+        class="branch-icon"
+        src="{{ ('/imagenes/ramas/' + ageInfo.icon) | url }}"
+        alt="{{ ageInfo.name }}"
+        title="{{ ageInfo.name }}">
+
+    {% endif %}
+
+  {% endfor %}
 
 {% endif %}
 
-          </span>
 
-        {% endfor %}
-
-      {% endif %}
 
     </div>
 

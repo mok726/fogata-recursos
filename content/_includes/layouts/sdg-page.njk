@@ -2,10 +2,22 @@
 layout: layouts/base.njk
 ---
 
-<section class="page-header">
+{% set activityCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+  {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
+
+    {% set activityCount = activityCount + 1 %}
+
+  {% endif %}
+
+{% endfor %}
+
+<section class="page-header sdg-page-header">
 
   <img
-src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
+    src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
     alt="ODS {{ sdg.id }}">
 
   <div>
@@ -18,6 +30,10 @@ src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
       {{ sdg.name }}
     </p>
 
+    <p class="sdg-count">
+      {{ activityCount }} actividades relacionadas
+    </p>
+
   </div>
 
 </section>
@@ -28,12 +44,14 @@ src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
 
     {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
 
-{% set item = activity.data %}
-{% set activityUrl = activity.url %}
-{% include "components/activity-card.njk" %}
+      {% set item = activity.data %}
+      {% set activityUrl = activity.url %}
+
+      {% include "components/activity-card.njk" %}
 
     {% endif %}
 
   {% endfor %}
 
 </div>
+

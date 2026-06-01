@@ -3,18 +3,33 @@ layout: layouts/base.njk
 title: ODS
 ---
 
-<h1>Objetivos de Desarrollo Sostenible</h1>
+<h1>
+  Objetivos de Desarrollo Sostenible
+</h1>
 
 <div class="grid">
 
-  {% for sdg in allSdgs  %}
+  {% for sdg in allSdgs %}
 
-<a href="{{ ('/ods/' + sdg.id + '/') | url }}">
-      <div class="card">
+    {% set activityCount = 0 %}
+
+    {% for activity in collections.activitiesSorted %}
+
+      {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
+
+        {% set activityCount = activityCount + 1 %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    <a href="{{ ('/ods/' + sdg.id + '/') | url }}">
+
+      <div class="card sdg-card">
 
         <img
           class="badge"
-src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
+          src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
           alt="ODS {{ sdg.id }}">
 
         <div class="card-content">
@@ -27,6 +42,10 @@ src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
             {{ sdg.name }}
           </p>
 
+          <p class="sdg-count">
+            {{ activityCount }} actividades
+          </p>
+
         </div>
 
       </div>
@@ -36,5 +55,4 @@ src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
   {% endfor %}
 
 </div>
-
 

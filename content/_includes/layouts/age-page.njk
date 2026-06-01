@@ -2,7 +2,31 @@
 layout: layouts/base.njk
 ---
 
-<section class="page-header">
+{% set activityCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+  {% if activity.data.age_group %}
+
+    {% for item in activity.data.age_group %}
+
+      {% set ageInfo = item | normalizeAge(ageGroups) %}
+
+      {% if ageInfo.id == age.id %}
+        {% set activityCount = activityCount + 1 %}
+      {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+{% endfor %}
+
+<section class="page-header age-page-header">
+
+  <img
+    src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+    alt="{{ age.name }}">
 
   <div>
 
@@ -11,7 +35,7 @@ layout: layouts/base.njk
     </h1>
 
     <p>
-      Actividades recomendadas para {{ age.name }}.
+      {{ activityCount }} actividades disponibles para esta rama.
     </p>
 
   </div>
@@ -30,8 +54,9 @@ layout: layouts/base.njk
 
         {% if ageInfo.id == age.id %}
 
-{% set item = activity.data %}
-{% set activityUrl = activity.url %}
+          {% set item = activity.data %}
+          {% set activityUrl = activity.url %}
+
           {% include "components/activity-card.njk" %}
 
         {% endif %}
@@ -43,3 +68,5 @@ layout: layouts/base.njk
   {% endfor %}
 
 </div>
+
+
