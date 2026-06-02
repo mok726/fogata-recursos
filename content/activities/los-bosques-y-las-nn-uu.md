@@ -36,13 +36,13 @@ tags:
   - Insignia de los Bosques
 ## ====== References and attachments ======
 ##
- files:
-  - filepath: "/ruta/archivo1.pdf"
-    caption: "Descripción del archivo 1"
-    icon: "pdf"
-  - filepath: "/ruta/archivo2.jpg"
-    caption: "Descripción del archivo 2"
-    icon: "imagen"
+files:
+ - filepath: "/ruta/archivo1.pdf"
+   caption: "Descripción del archivo 1"
+   icon: "pdf"
+ - filepath: "/ruta/archivo2.jpg"
+   caption: "Descripción del archivo 2"
+   icon: "imagen"
 ##
 ## ===== INFORMACIÓN DE FOOTER =====
 ## references:
