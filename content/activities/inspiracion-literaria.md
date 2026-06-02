@@ -7,6 +7,8 @@ description: "Lee obras literarias sobre bosques y analiza su representación."
 summary: "Lee obras literarias sobre bosques y analiza su representación."
 author: "Mariano Cosentino"
 source: "YUNGA"
+<!-- image: "/imagenes/actividades/inspiracion-literaria.png" -->
+<!-- original: "False" -->
 branch: "Naturaleza"
 age:
   - scouts

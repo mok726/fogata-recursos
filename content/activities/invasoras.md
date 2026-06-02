@@ -7,6 +7,8 @@ description: "Investiga especies invasoras en tu área y propón medidas de prev
 summary: "Investiga especies invasoras en tu área y propón medidas de prevención."
 author: "Mariano Cosentino"
 source: "YUNGA"
+<!-- image: "/imagenes/actividades/invasoras.png" -->
+<!-- original: "False" -->
 branch: "Naturaleza"
 age:
   - scouts
