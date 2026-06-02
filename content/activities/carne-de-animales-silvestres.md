@@ -1,4 +1,4 @@
-﻿---
+---
 title: "CARNE DE ANIMALES SILVESTRES"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
@@ -8,7 +8,9 @@ summary: "Analiza el impacto de la caza de subsistencia en bosques y debate solu
 author:
   - Mariano Cosentino
 source:
-  - Fogata de Recursos
+  - YUNGA
+# image: "/imagenes/actividades/carne-de-animales-silvestres.png" # 
+# original: "False" # 
 branch:
   - Naturaleza
 age:
@@ -17,11 +19,6 @@ age:
 age_group:
   - caminantes
   - rovers
-materials:
-  - Recursos sobre caza sostenible
-  - Cuaderno
-tools:
-  - Ninguna
 competencies:
   - Pensamiento crítico
   - Conciencia intercultural
@@ -36,8 +33,47 @@ sdgs:
   - 15
 activity_badges:
   - bosques
+activity_code: "bosques-D08"
 tags:
   - Insignia de los Bosques
+## ====== References and attachments ======
+##
+## files:
+##  - filepath: "/ruta/archivo1.pdf"
+##    caption: "Descripción del archivo 1"
+##    icon: "pdf"
+##  - filepath: "/ruta/archivo2.jpg"
+##    caption: "Descripción del archivo 2"
+##    icon: "imagen"
+##
+## ===== INFORMACIÓN DE FOOTER =====
+## references:
+##   - title: "Pollinators Challenge Badge"
+##     author: "FAO"
+##     year: 2021
+##     series: "YUNGA Learning and Action Series – Challenge badges"
+##     issue: 12
+##     location: "Rome"
+##     url: "https://doi.org/10.4060/cb4803en"
+##
+## translation_notice:
+##   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
+##   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+##
+## license:
+##   name: "Creative Commons BY-NC-SA 3.0 IGO"
+##   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+##   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+##
+## attributions:
+##   - entity: "FAO"
+##     role: "Concepto original"
+##     year: 2021
+##   - entity: "Mariano"
+##     role: "Adaptación y compilación"
+##     year: 2025
+##
+
 ---
 
 # CARNE DE ANIMALES SILVESTRES
@@ -46,14 +82,7 @@ tags:
 Analiza el impacto de la caza de subsistencia en bosques y debate soluciones.
 
 ## Desarrollo
-La carne de animales silvestres (carne silvestre) es una fuente muy importante de proteínas para los hogares rurales (los hogares del campo) en algunas partes del mundo, como África Central.
-Desafortunadamente, las especies de animales de los cuales se obtiene la carne silvestre están desapareciendo a causa de la sobre-explotación.
-Encuentra tres países donde las personas coman carne de animales silvestres.
-¿Qué especies de animales comen?
-¿Cómo se las caza?
-¿Cuál es el impacto de la caza de carne de animales silvestres en los bosques?
-¿Qué crees que se debería hacer para abordar la ‘crisis de la carne de animales silvestres’?
-Comparte tus hallazgos con tu grupo.
+La carne de animales silvestres (carne silvestre) es una fuente muy importante de proteínas para los hogares rurales (los hogares del campo) en algunas partes del mundo, como África Central. Desafortunadamente, las especies de animales de los cuales se obtiene la carne silvestre están desapareciendo a causa de la sobre-explotación. Encuentra tres países donde las personas coman carne de animales silvestres. ¿Qué especies de animales comen? ¿Cómo se las caza? ¿Cuál es el impacto de la caza de carne de animales silvestres en los bosques? ¿Qué crees que se debería hacer para abordar la ‘crisis de la carne de animales silvestres’? Comparte tus hallazgos con tu grupo.
 
 ## Cierre
 ¿Cómo equilibrar las necesidades humanas y la conservación?
