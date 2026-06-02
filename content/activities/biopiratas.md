@@ -70,7 +70,7 @@ attributions:
     year: 2021
   - entity: "Mariano"
     role: "Adaptación y compilación"
-     year: 2025
+    year: 2025
 ##
 
 ---
