@@ -75,14 +75,14 @@ tags:
 ##   name: "Creative Commons BY-NC-SA 3.0 IGO"
 ##   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
 ##   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-##
- attributions:
-   - entity: "FAO"
-     role: "Concepto original"
-     year: 2021
-   - entity: "Mariano"
-     role: "Adaptación y compilación"
-     year: 2025
+#
+attributions:
+  - entity: "FAO"
+    role: "Concepto original"
+    year: 2021
+  - entity: "Mariano"
+    role: "Adaptación y compilación"
+    year: 2025
 ##
 
 ---

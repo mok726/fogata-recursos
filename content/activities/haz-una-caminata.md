@@ -66,14 +66,14 @@ tags:
 ##    icon: "imagen"
 ##
 ## ===== INFORMACIÓN DE FOOTER =====
- references:
-   - title: "Pollinators Challenge Badge"
-     author: "FAO"
-     year: 2021
-     series: "YUNGA Learning and Action Series – Challenge badges"
-     issue: 12
-     location: "Rome"
-     url: "https://doi.org/10.4060/cb4803en"
+references:
+  - title: "Pollinators Challenge Badge"
+    author: "FAO"
+    year: 2021
+    series: "YUNGA Learning and Action Series – Challenge badges"
+    issue: 12
+    location: "Rome"
+    url: "https://doi.org/10.4060/cb4803en"
 ##
 ## translation_notice:
 ##   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."

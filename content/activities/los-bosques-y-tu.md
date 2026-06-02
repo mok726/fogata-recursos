@@ -57,9 +57,9 @@ tags:
 ##     location: "Rome"
 ##     url: "https://doi.org/10.4060/cb4803en"
 ##
- translation_notice:
-   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+translation_notice:
+  es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
+  en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
 
 ## license:
 ##   name: "Creative Commons BY-NC-SA 3.0 IGO"

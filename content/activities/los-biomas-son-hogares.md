@@ -73,10 +73,10 @@ tags:
 ##   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
 ##   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
 ##
- license:
-   name: "Creative Commons BY-NC-SA 3.0 IGO"
-   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
 
 ## attributions:
 ##   - entity: "FAO"
