@@ -1,0 +1,127 @@
+<a
+  class="card activity-card"
+  href="{{ activityUrl | url }}"
+>
+
+  {% set badgeShown = false %}
+
+  {% if item.activity_badges and item.activity_badges.length %}
+
+    {% for rawBadge in item.activity_badges %}
+
+      {% if not badgeShown %}
+
+        {% if rawBadge.id %}
+
+          {% set badgeId = rawBadge.id %}
+          {% set badgeName = rawBadge.name %}
+
+        {% else %}
+
+          {% set badgeId = rawBadge | slugify %}
+          {% set badgeName = rawBadge | smartTitle %}
+
+        {% endif %}
+
+        {% for knownBadge in badges %}
+
+          {% if knownBadge.id == badgeId %}
+
+            {% set badgeShown = true %}
+
+            <div class="activity-card-badge">
+
+              <img
+                src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
+                alt="{{ badgeName }}">
+
+            </div>
+
+          {% endif %}
+
+        {% endfor %}
+
+      {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+  <div class="card-content">
+
+    <h3>
+      {{ item.title | smartTitle }}
+    </h3>
+
+    {% if item.description %}
+
+      <p>
+        {{ item.description | truncate(160) }}
+      </p>
+
+    {% endif %}
+
+    <div class="card-meta">
+
+
+
+{% if item.age_group %}
+
+  {% for age in item.age_group %}
+
+    {% set ageInfo = age | normalizeAge(ageGroups) %}
+
+    {% if ageInfo.icon %}
+
+      <img
+        class="branch-icon"
+        src="{{ ('/imagenes/ramas/' + ageInfo.icon) | url }}"
+        alt="{{ ageInfo.name }}"
+        title="{{ ageInfo.name }}">
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+
+
+
+    </div>
+
+    <div class="card-meta">
+
+      {% if item.duration %}
+
+        <span class="chip duration-chip">
+
+          ⏱ {{ item.duration }}
+
+        </span>
+
+      {% endif %}
+
+
+{% if item.sdgs and item.sdgs.length %}
+
+  {% for sdg in item.sdgs.slice(0,3) %}
+
+    <img
+      class="sdg-icon"
+      src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+      alt="ODS {{ sdg }}"
+      title="ODS {{ sdg }}">
+
+  {% endfor %}
+
+{% endif %}
+
+
+
+    </div>
+
+  </div>
+
+</a>
+
+

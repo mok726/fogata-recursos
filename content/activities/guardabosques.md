@@ -7,8 +7,7 @@ description: "Entrevista a un guardabosques sobre su trabajo en áreas protegida
 summary: "Entrevista a un guardabosques sobre su trabajo en áreas protegidas."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/guardabosques.png" -->
-<!-- original: "False" -->
+original: "True"
 branch: "Naturaleza"
 age:
   - scouts

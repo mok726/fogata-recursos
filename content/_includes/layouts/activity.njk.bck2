@@ -1,0 +1,321 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="activity-page">
+
+  <nav class="breadcrumbs">
+
+<a href="{{ '/' | url }}">
+      Inicio
+    </a>
+
+    <span>
+      /
+    </span>
+
+<a href="{{ '/activities/' | url }}">
+      Actividades
+    </a>
+
+    <span>
+      /
+    </span>
+
+    <span>
+     {{ title }}
+    </span>
+
+  </nav>
+  {% set badge = null %}
+
+  {% if activity_badges and activity_badges.length %}
+
+    {% set rawBadge = activity_badges[0] %}
+
+    {% if rawBadge.id %}
+
+      {% set badge = rawBadge %}
+
+    {% else %}
+
+      {% set badge = {
+        "id": rawBadge | slugify,
+        "name": rawBadge
+      } %}
+
+    {% endif %}
+
+  {% endif %}
+
+
+
+<header class="activity-hero">
+
+  {% set heroImage =
+    image
+    or '/imagenes/actividades/activity-card.png'
+  %}
+
+  <div class="activity-hero-banner">
+
+    <img
+      class="activity-hero-image"
+      src="{{ heroImage | url }}"
+      alt="{{ title }}">
+
+    <div class="activity-hero-overlay"></div>
+
+    {% if duration %}
+      <div class="activity-hero-duration">
+        ⏱ {{ duration }}
+      </div>
+    {% endif %}
+
+    {% if age_group %}
+      <div class="activity-hero-ages">
+
+        {% for age in age_group %}
+
+          {% set ageId = age | slugify %}
+          {% set ageData = null %}
+
+          {% for group in ageGroups %}
+            {% if group.id == ageId %}
+              {% set ageData = group %}
+            {% endif %}
+          {% endfor %}
+
+          {% if ageData and ageData.icon %}
+            <a href="{{ ('/edades/' + ageId + '/') | url }}">
+              <img
+                class="branch-icon"
+                src="{{ ('/imagenes/ramas/' + ageData.icon) | url }}"
+                alt="{{ ageData.name }}">
+            </a>
+          {% endif %}
+
+        {% endfor %}
+
+      </div>
+    {% endif %}
+
+    <div class="activity-hero-content">
+
+      <h1>
+        {{ title | title }}
+      </h1>
+
+      {% if description %}
+        <p class="activity-description">
+          {{ description }}
+        </p>
+      {% endif %}
+
+    </div>
+
+    {% if sdgs %}
+      <div class="activity-hero-sdgs">
+
+        {% for sdg in sdgs %}
+
+          <a href="{{ ('/ods/' + sdg + '/') | url }}">
+            <img
+              class="sdg-icon"
+              src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+              alt="ODS {{ sdg }}">
+          </a>
+
+        {% endfor %}
+
+      </div>
+    {% endif %}
+
+    <div class="activity-hero-bottom-right">
+
+      {% if activity_badges %}
+
+        <div class="activity-hero-badges">
+
+          {% for rawBadge in activity_badges %}
+
+            {% if rawBadge.id %}
+              {% set badgeId = rawBadge.id %}
+              {% set badgeName = rawBadge.name %}
+            {% else %}
+              {% set badgeId = rawBadge | slugify %}
+              {% set badgeName = rawBadge %}
+            {% endif %}
+
+            <a href="{{ ('/badges/' + badgeId + '/') | url }}">
+              <img
+                class="badge-icon"
+                src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
+                alt="{{ badgeName }}">
+            </a>
+
+          {% endfor %}
+
+        </div>
+
+      {% endif %}
+
+
+    </div>
+
+
+   {% if original %}
+     <div class="activity-original-banner">
+        Actividad original
+     </div>
+   {% endif %}
+
+
+  </div>
+
+</header>
+
+
+
+  {% if materials %}
+
+    <section class="info-box">
+
+      <h2>
+        Materiales
+      </h2>
+
+      <ul>
+
+        {% for item in materials %}
+
+          <li>
+            {{ item }}
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </section>
+
+  {% endif %}
+
+  {% if educational_objectives %}
+
+    <section class="info-box">
+
+      <h2>
+        Objetivos educativos
+      </h2>
+
+      <ul>
+
+        {% for item in educational_objectives %}
+
+          <li>
+            {{ item }}
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </section>
+
+  {% endif %}
+
+  <section class="activity-content">
+
+    {{ content | safe }}
+
+  </section>
+
+
+
+{% set related = collections.activitiesSorted | reverse %}
+<section class="related-section">
+
+  <h2>
+    Actividades relacionadas
+  </h2>
+
+  <div class="grid">
+
+    {% for item in related %}
+
+  {% if loop.index <= 4 %}
+
+      {% if item.url != page.url %}
+
+{% set relatedActivity = item %}
+{% set item = relatedActivity.data %}
+{% set activityUrl = relatedActivity.url %}
+
+{% include "components/activity-card.njk" %}
+            {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+
+  </div>
+
+</section>
+
+
+
+<footer class="activity-license">
+
+  {% if source or author %}
+
+    <div class="license-block">
+
+      <h3>
+        Créditos y origen
+      </h3>
+
+      <ul>
+
+        {% if author %}
+
+          <li>
+            Autor: {{ author }}
+          </li>
+
+        {% endif %}
+
+        {% if source %}
+
+          <li>
+            Fuente: {{ source }}
+          </li>
+
+        {% endif %}
+
+      </ul>
+
+    </div>
+
+  {% endif %}
+
+  <div class="license-block">
+
+    <h3>
+      Licencia y reutilización
+    </h3>
+
+    <p>
+      Este recurso forma parte de Fogata de Recursos
+      y busca facilitar la reutilización educativa scout.
+    </p>
+
+  </div>
+
+</footer>
+
+
+</article>
+
+

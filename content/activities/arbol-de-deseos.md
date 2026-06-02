@@ -7,8 +7,8 @@ description: "Crea un collage con deseos escritos en materiales naturales del bo
 summary: "Crea un collage con deseos escritos en materiales naturales del bosque."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/arbol-de-deseos.png" -->
-<!-- original: "False" -->
+# image: "/imagenes/actividades/arbol-de-deseos.png"
+# original: "False" 
 branch: "Naturaleza"
 age:
   - manada

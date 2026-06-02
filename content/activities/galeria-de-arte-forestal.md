@@ -7,8 +7,6 @@ description: "Crea obras de arte inspiradas en bosques y organiza una exhibició
 summary: "Crea obras de arte inspiradas en bosques y organiza una exhibición."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/galeria-de-arte-forestal.png" -->
-<!-- original: "False" -->
 branch: "Naturaleza"
 age:
   - manada

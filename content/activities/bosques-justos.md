@@ -7,8 +7,6 @@ description: "Debate sobre derechos de acceso y beneficios para comunidades fore
 summary: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/bosques-justos.png" -->
-<!-- original: "False" -->
 branch: "Naturaleza"
 age:
   - caminantes

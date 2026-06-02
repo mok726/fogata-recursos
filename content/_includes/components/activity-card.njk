@@ -1,127 +1,144 @@
-<a
-  class="card activity-card"
-  href="{{ activityUrl | url }}"
->
+<div class="card activity-card">
+  <div class="activity-card-hero">
+    <a
+      class="activity-card-main-link"
+      href="{{ activityUrl | url }}">
+      {% set activityImage =
+         item.image
+         or '/imagenes/actividades/activity-card.png'
+       %}
+      <img  class="activity-card-image"  src="{{ activityImage | url }}"  alt="{{ item.title }}">
+    </a>
+    {% if item.original %}
+      <div class="activity-original">
+    ‚≠   ê
+      </div>
+    {% endif %}
+    {% if item.duration %}
+      <div class="activity-duration">
+        ‚è± {{ item.duration }}
+      </div>
+    {% endif %}
+   </div>
+  <div class="card-content">
+    <div class="activity-title-row">
+      <h3>
+        <a          class="card-title-link"          href="{{ activityUrl | url }}">
+          {{ item.title | smartTitle }}
+        </a>
+      </h3>
+    </div>
+    {% if item.description %}
+      <p>
+        <a          class="card-description-link"          href="{{ activityUrl | url }}">
+          {{ item.description | truncate(160) }}
+        </a>
+      </p>
+    {% endif %}
 
-  {% set badgeShown = false %}
+    <div class="activity-meta-row activity-meta-row-1">
+      <div class="activity-ages">
+        {% if item.age_group %}
+          {% for age in item.age_group %}
 
-  {% if item.activity_badges and item.activity_badges.length %}
+            {% set ageInfo = age | normalizeAge(ageGroups) %}
 
-    {% for rawBadge in item.activity_badges %}
+            {% if ageInfo.icon %}
 
-      {% if not badgeShown %}
+              <a
+                href="{{ ('/edades/' + ageInfo.id + '/') | url }}">
 
-        {% if rawBadge.id %}
+                <img
+                  class="branch-icon"
+                  src="{{ ('/imagenes/ramas/' + ageInfo.icon) | url }}"
+                  alt="{{ ageInfo.name }}"
+                  title="{{ ageInfo.name }}">
 
-          {% set badgeId = rawBadge.id %}
-          {% set badgeName = rawBadge.name %}
+              </a>
 
-        {% else %}
+            {% endif %}
 
-          {% set badgeId = rawBadge | slugify %}
-          {% set badgeName = rawBadge | smartTitle %}
+          {% endfor %}
 
         {% endif %}
 
-        {% for knownBadge in badges %}
+      </div>
 
-          {% if knownBadge.id == badgeId %}
+      <div class="activity-files">
 
-            {% set badgeShown = true %}
+        {% if item.attachments and item.attachments.length %}
 
-            <div class="activity-card-badge">
+          üìé
 
-              <img
-                src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
-                alt="{{ badgeName }}">
+        {% endif %}
 
-            </div>
-
-          {% endif %}
-
-        {% endfor %}
-
-      {% endif %}
-
-    {% endfor %}
-
-  {% endif %}
-
-  <div class="card-content">
-
-    <h3>
-      {{ item.title | smartTitle }}
-    </h3>
-
-    {% if item.description %}
-
-      <p>
-        {{ item.description | truncate(160) }}
-      </p>
-
-    {% endif %}
-
-    <div class="card-meta">
-
-
-
-{% if item.age_group %}
-
-  {% for age in item.age_group %}
-
-    {% set ageInfo = age | normalizeAge(ageGroups) %}
-
-    {% if ageInfo.icon %}
-
-      <img
-        class="branch-icon"
-        src="{{ ('/imagenes/ramas/' + ageInfo.icon) | url }}"
-        alt="{{ ageInfo.name }}"
-        title="{{ ageInfo.name }}">
-
-    {% endif %}
-
-  {% endfor %}
-
-{% endif %}
-
-
+      </div>
 
     </div>
 
-    <div class="card-meta">
+    <div class="activity-meta-row activity-meta-row-2">
 
-      {% if item.duration %}
+      <div class="activity-sdgs">
 
-        <span class="chip duration-chip">
+        {% if item.sdgs and item.sdgs.length %}
 
-          ‚è± {{ item.duration }}
+          {% for sdg in item.sdgs.slice(0,3) %}
 
-        </span>
+            <a
+              href="{{ ('/ods/' + sdg + '/') | url }}">
 
-      {% endif %}
+              <img
+                class="sdg-icon"
+                src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+                alt="ODS {{ sdg }}"
+                title="ODS {{ sdg }}">
 
+            </a>
 
-{% if item.sdgs and item.sdgs.length %}
+          {% endfor %}
 
-  {% for sdg in item.sdgs.slice(0,3) %}
+        {% endif %}
 
-    <img
-      class="sdg-icon"
-      src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
-      alt="ODS {{ sdg }}"
-      title="ODS {{ sdg }}">
+      </div>
 
-  {% endfor %}
+      <div class="activity-badges">
 
-{% endif %}
+        {% if item.activity_badges %}
 
+          {% for rawBadge in item.activity_badges.slice(0,3) %}
 
+            {% if rawBadge.id %}
+
+              {% set badgeId = rawBadge.id %}
+              {% set badgeName = rawBadge.name %}
+
+            {% else %}
+
+              {% set badgeId = rawBadge | slugify %}
+              {% set badgeName = rawBadge | smartTitle %}
+
+            {% endif %}
+
+            <a
+              href="{{ ('/badges/' + badgeId + '/') | url }}">
+
+              <img
+                class="badge-icon"
+                src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
+                alt="{{ badgeName }}"
+                title="{{ badgeName }}">
+
+            </a>
+
+          {% endfor %}
+
+        {% endif %}
+
+      </div>
 
     </div>
 
   </div>
 
-</a>
-
+</div>
 

@@ -7,8 +7,8 @@ description: "Investiga fuentes de energía derivadas de bosques y diseña un mo
 summary: "Investiga fuentes de energía derivadas de bosques y diseña un modelo de invención."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/arboles-energeticos.png" -->
-<!-- original: "False" -->
+# image: "/imagenes/actividades/arboles-energeticos.png"
+# original: "False"
 branch: "Naturaleza"
 age:
   - scouts

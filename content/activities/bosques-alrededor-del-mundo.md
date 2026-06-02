@@ -7,8 +7,8 @@ description: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en u
 summary: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/bosques-alrededor-del-mundo.png" -->
-<!-- original: "False" -->
+# image: "/imagenes/actividades/bosques-alrededor-del-mundo.png" -->
+# original: "False" -->
 branch: "Naturaleza"
 age:
   - manada

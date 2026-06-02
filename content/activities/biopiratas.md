@@ -7,8 +7,8 @@ description: "Organiza un debate sobre bioprospección vs. biopiratería en medi
 summary: "Organiza un debate sobre bioprospección vs. biopiratería en medicina tradicional."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/biopiratas.png" -->
-<!-- original: "False" -->
+# image: "/imagenes/actividades/biopiratas.png"
+original: true
 branch: "Naturaleza"
 age:
   - caminantes

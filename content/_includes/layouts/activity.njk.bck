@@ -1,0 +1,331 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="activity-page">
+
+  <nav class="breadcrumbs">
+
+<a href="{{ '/' | url }}">
+      Inicio
+    </a>
+
+    <span>
+      /
+    </span>
+
+<a href="{{ '/activities/' | url }}">
+      Actividades
+    </a>
+
+    <span>
+      /
+    </span>
+
+    <span>
+     {{ title }}
+    </span>
+
+  </nav>
+  {% set badge = null %}
+
+  {% if activity_badges and activity_badges.length %}
+
+    {% set rawBadge = activity_badges[0] %}
+
+    {% if rawBadge.id %}
+
+      {% set badge = rawBadge %}
+
+    {% else %}
+
+      {% set badge = {
+        "id": rawBadge | slugify,
+        "name": rawBadge
+      } %}
+
+    {% endif %}
+
+  {% endif %}
+
+  <header class="activity-hero">
+
+    {% if badge %}
+
+<a
+  class="activity-badge"
+  href="{{ ('/badges/' + badge.id + '/') | url }}">
+        <img
+src="{{ ('/imagenes/insignias/' + badge.id + '.png') | url }}"
+          alt="{{ badge.name }}">
+
+      </a>
+
+    {% endif %}
+
+    <div class="activity-hero-content">
+
+      <h1>
+{{ title | title }}
+
+      </h1>
+
+      {% if description %}
+
+        <p class="activity-description">
+          {{ description }}
+        </p>
+
+      {% endif %}
+
+      <div class="meta">
+
+{% if age_group %}
+
+  {% for age in age_group %}
+
+    {% set ageId = age | slugify %}
+
+    {% set ageData = null %}
+
+    {% for group in ageGroups %}
+
+      {% if group.id == ageId %}
+
+        {% set ageData = group %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    <a
+      class="chip age-chip"
+      href="{{ ('/edades/' + ageId + '/') | url }}"
+
+      {% if ageData %}
+        style="background: {{ ageData.color }}22; color: {{ ageData.color }}"
+      {% endif %}
+    >
+
+      {{ age }}
+
+    </a>
+
+  {% endfor %}
+
+{% endif %}
+        {% if duration %}
+
+          <span class="chip">
+            {{ duration }}
+          </span>
+
+        {% endif %}
+
+        {% if difficulty %}
+
+          <span class="chip">
+            {{ difficulty }}
+          </span>
+
+        {% endif %}
+
+      </div>
+
+
+<div class="activity-tags">
+
+  {% if categories %}
+
+    {% for category in categories %}
+
+      <span class="tag">
+        {{ category }}
+      </span>
+
+    {% endfor %}
+
+  {% endif %}
+
+  {% if location %}
+
+    {% for place in location %}
+
+      <span class="tag">
+        {{ place }}
+      </span>
+
+    {% endfor %}
+
+  {% endif %}
+
+</div>
+
+
+
+      {% if sdgs %}
+
+        <div class="sdgs">
+
+          {% for sdg in sdgs %}
+
+<a href="{{ ('/ods/' + sdg + '/') | url }}">
+              <img
+
+src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+                alt="ODS {{ sdg }}">
+
+            </a>
+
+          {% endfor %}
+
+        </div>
+
+      {% endif %}
+
+    </div>
+
+  </header>
+
+  {% if materials %}
+
+    <section class="info-box">
+
+      <h2>
+        Materiales
+      </h2>
+
+      <ul>
+
+        {% for item in materials %}
+
+          <li>
+            {{ item }}
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </section>
+
+  {% endif %}
+
+  {% if educational_objectives %}
+
+    <section class="info-box">
+
+      <h2>
+        Objetivos educativos
+      </h2>
+
+      <ul>
+
+        {% for item in educational_objectives %}
+
+          <li>
+            {{ item }}
+          </li>
+
+        {% endfor %}
+
+      </ul>
+
+    </section>
+
+  {% endif %}
+
+  <section class="activity-content">
+
+    {{ content | safe }}
+
+  </section>
+
+
+
+{% set related = collections.activitiesSorted | reverse %}
+<section class="related-section">
+
+  <h2>
+    Actividades relacionadas
+  </h2>
+
+  <div class="grid">
+
+    {% for item in related %}
+
+  {% if loop.index <= 4 %}
+
+      {% if item.url != page.url %}
+
+{% set relatedActivity = item %}
+{% set item = relatedActivity.data %}
+{% set activityUrl = relatedActivity.url %}
+
+{% include "components/activity-card.njk" %}
+            {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+
+  </div>
+
+</section>
+
+
+
+<footer class="activity-license">
+
+  {% if source or author %}
+
+    <div class="license-block">
+
+      <h3>
+        Créditos y origen
+      </h3>
+
+      <ul>
+
+        {% if author %}
+
+          <li>
+            Autor: {{ author }}
+          </li>
+
+        {% endif %}
+
+        {% if source %}
+
+          <li>
+            Fuente: {{ source }}
+          </li>
+
+        {% endif %}
+
+      </ul>
+
+    </div>
+
+  {% endif %}
+
+  <div class="license-block">
+
+    <h3>
+      Licencia y reutilización
+    </h3>
+
+    <p>
+      Este recurso forma parte de Fogata de Recursos
+      y busca facilitar la reutilización educativa scout.
+    </p>
+
+  </div>
+
+</footer>
+
+
+</article>
+
+

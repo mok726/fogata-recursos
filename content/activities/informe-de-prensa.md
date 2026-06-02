@@ -7,8 +7,6 @@ description: "Entrevista a una persona indígena sobre desafíos forestales y pu
 summary: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/informe-de-prensa.png" -->
-<!-- original: "False" -->
 branch: "Naturaleza"
 age:
   - caminantes

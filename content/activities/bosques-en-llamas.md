@@ -7,8 +7,6 @@ description: "Investiga manejo de incendios forestales en tu región y prevenci�
 summary: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/bosques-en-llamas.png" -->
-<!-- original: "False" -->
 branch: "Naturaleza"
 age:
   - scouts

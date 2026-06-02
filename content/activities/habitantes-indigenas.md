@@ -4,15 +4,12 @@ duration: "3-4 horas (preparación + presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/habitantes-indigenas/"
 description: |
-  Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Investiga leyendas indígenas sobre bosques y presenta una obra de teatro.
 summary: |
-  Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA.
   Investiga leyendas indígenas sobre bosques y presenta una obra de teatro.
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/habitantes-indigenas.png" -->
-<!-- original: "False" -->
+original: True
 branch: "Naturaleza"
 age:
   - scouts

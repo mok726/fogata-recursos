@@ -7,8 +7,8 @@ description: "Enumera actividades recreativas en bosques y crea una guía ilustr
 summary: "Enumera actividades recreativas en bosques y crea una guía ilustrada."
 author: "Mariano Cosentino"
 source: "YUNGA"
-<!-- image: "/imagenes/actividades/aventuras-al-aire-libre.png" -->
-<!-- original: "False" -->
+# image: "/imagenes/actividades/aventuras-al-aire-libre.png"
+# original: "False"
 branch: "Naturaleza"
 age:
   - manada
