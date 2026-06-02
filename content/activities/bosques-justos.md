@@ -1,16 +1,15 @@
-﻿---
+---
 title: "BOSQUES JUSTOS"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-justos/"
 description: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
 summary: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
-author:
-  - Mariano Cosentino
-source:
-  - Fogata de Recursos
-branch:
-  - Naturaleza
+author: "Mariano Cosentino"
+source: "YUNGA"
+<!-- image: "/imagenes/actividades/bosques-justos.png" -->
+<!-- original: "False" -->
+branch: "Naturaleza"
 age:
   - caminantes
   - rovers
@@ -19,14 +18,11 @@ age_group:
   - rovers
 materials:
   - Documentos sobre políticas forestales (opcional)
-tools:
-  - Ninguna
 competencies:
-  - bate
+  - Debate
   - Conciencia social
   - Pensamiento político
-responsible:
-  - Scouter o líder comunitario
+responsible: "Scouter o líder comunitario"
 ods:
   - 10
   - 16
@@ -35,6 +31,7 @@ sdgs:
   - 16
 activity_badges:
   - bosques
+activity_code: "bosques-B12"
 tags:
   - Insignia de los Bosques
 ---
@@ -45,8 +42,7 @@ tags:
 Debate sobre derechos de acceso y beneficios para comunidades forestales.
 
 ## Desarrollo
-El derecho de acceso y la distribución de beneficios para las personas locales es un requisito fundamental para la gestión sostenible de los bosques y para la reducción de la pobreza en las áreas forestales rurales.
-Con tu grupo, discute sobre cómo se puede proteger este derecho dentro de las políticas de gestión forestal de tu gobierno.
+El derecho de acceso y la distribución de beneficios para las personas locales es un requisito fundamental para la gestión sostenible de los bosques y para la reducción de la pobreza en las áreas forestales rurales. Con tu grupo, discute sobre cómo se puede proteger este derecho dentro de las políticas de gestión forestal de tu gobierno.
 
 ## Cierre
 ¿Por qué es importante incluir a las comunidades locales en la gestión forestal?
