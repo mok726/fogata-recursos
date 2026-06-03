@@ -12,10 +12,11 @@ permalink: /
       Fogata de Recursos
     </h1>
 
-    <p>
-      Actividades scouts, recursos educativos e ideas pedagógicas
-      para dirigentes, educadores y comunidades.
-    </p>
+<p>
+  Biblioteca abierta de actividades scouts, juegos, talleres,
+  recursos educativos y propuestas pedagógicas para dirigentes,
+  educadores y comunidades.
+</p>
 
     <div class="hero-actions">
 
@@ -95,11 +96,24 @@ input.addEventListener("input", async () => {
 
 <section class="section-spacing">
 
+<section class="section-spacing">
 
+  <div class="section-header">
 
-  <h2>
-    Explorar
-  </h2>
+    <div>
+
+      <h2>
+        Explorar la biblioteca
+      </h2>
+
+      <p>
+        Navegá el contenido por actividades, insignias,
+        ramas scout y Objetivos de Desarrollo Sostenible.
+      </p>
+
+    </div>
+
+  </div>
 
   <div class="grid">
 
@@ -190,14 +204,14 @@ input.addEventListener("input", async () => {
     abierta, navegable y reutilizable.
   </p>
 
-  <ul>
-    <li>búsqueda de actividades</li>
-    <li>exploración pedagógica</li>
-    <li>reutilización de recursos</li>
-    <li>educación ambiental</li>
-    <li>trabajo por competencias</li>
-    <li>actividades vinculadas a ODS</li>
-  </ul>
+<ul>
+  <li>Búsqueda rápida de actividades y recursos.</li>
+  <li>Exploración por edades, insignias y ODS.</li>
+  <li>Reutilización y adaptación de propuestas educativas.</li>
+  <li>Educación ambiental y ciudadanía global.</li>
+  <li>Trabajo basado en competencias.</li>
+  <li>Repositorio abierto y colaborativo.</li>
+</ul>
 
 </section>
 
@@ -227,7 +241,7 @@ input.addEventListener("input", async () => {
 
 {% for activityItem in collections.activitiesSorted %}
 
-      {% if loop.index <= 3 %}
+      {% if loop.index <= 6 %}
 
 {% set item = activityItem.data %}
 {% set activityUrl = activityItem.url %}
@@ -252,10 +266,10 @@ input.addEventListener("input", async () => {
         Explorar por temas
       </h2>
 
-      <p>
-        Accesos rápidos a categorías educativas frecuentes.
-      </p>
-
+<p>
+  Temas frecuentes presentes en actividades, juegos,
+  proyectos y recursos educativos.
+</p>
     </div>
 
   </div>

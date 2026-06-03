@@ -509,12 +509,19 @@
 
 .activity-card-image {
   width: 100%;
-  height: 180px;
+  height: 220px;
 
   display: block;
-background: #4caf50;
+
   object-fit: cover;
+
+  transition:
+    transform 0.35s ease;
 }
+.activity-card:hover .activity-card-image {
+  transform: scale(1.05);
+}
+
 
 .activity-card-hero {
   position: relative;
@@ -550,7 +557,7 @@ background: #4caf50;
 }
 
 .activity-title-row h3 {
-  text-align: center;
+  text-align: left;
 }
 
 .activity-meta-row {
@@ -600,3 +607,30 @@ background: #4caf50;
 */
 }
 
+
+
+
+
+.activity-card {
+  overflow: hidden;
+}
+
+.activity-card-main-link {
+  display: block;
+  overflow: hidden;
+}
+
+.activity-duration,
+.activity-original {
+  backdrop-filter: blur(6px);
+}
+
+.activity-duration {
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.12);
+}
+
+.activity-original {
+  box-shadow:
+    0 2px 8px rgba(0,0,0,0.12);
+}

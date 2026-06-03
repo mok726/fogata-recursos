@@ -80,10 +80,9 @@
     property="og:url"
     content="{{ canonicalUrl | trim }}">
 
-  <meta
-    property="og:image"
-    content="{{ site.url }}{{ '/imagenes/social-preview.jpg' | url }}">
-
+<meta
+  property="og:image"
+  content="{{ site.url }}{{ site.pathPrefix }}/imagenes/social-preview.jpg">
   <!-- Twitter -->
 
   <meta
@@ -98,9 +97,9 @@
     name="twitter:description"
     content="{{ pageDescription | trim }}">
 
-  <meta
-    name="twitter:image"
-    content="{{ site.url }}{{ '/imagenes/social-preview.jpg' | url }}">
+<meta
+  name="twitter:image"
+  content="{{ site.url }}{{ site.pathPrefix }}/imagenes/social-preview.jpg">
 
   <!-- Performance -->
 
