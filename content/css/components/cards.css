@@ -634,3 +634,31 @@
   box-shadow:
     0 2px 8px rgba(0,0,0,0.12);
 }
+
+
+
+.activity-card {
+
+  display: flex;
+
+  flex-direction: column;
+
+  height: 100%;
+}
+
+.activity-card-image {
+
+  height: 220px;
+
+  object-fit: cover;
+}
+
+.activity-card:hover {
+
+  transform:
+    translateY(-4px);
+
+  transition:
+    transform .2s ease;
+}
+

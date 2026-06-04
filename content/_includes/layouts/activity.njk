@@ -103,14 +103,21 @@ layout: layouts/base.njk
     <div class="activity-hero-content">
 
       <h1>
-        {{ title | title }}
+        {{ title }}
       </h1>
 
-      {% if description %}
-        <p class="activity-description">
-          {{ summary }}
-        </p>
-      {% endif %}
+{% if summary %}
+  <p class="activity-description">
+    {{ summary }}
+  </p>
+
+{% elseif description %}
+
+  <p class="activity-description">
+    {{ description }}
+  </p>
+
+{% endif %}
 
     </div>
 
@@ -249,33 +256,223 @@ layout: layouts/base.njk
 
 {% endif %}
 
-  {% if materials %}
 
-    <section class="info-box">
 
-      <h2>
-        Materiales
-      </h2>
 
-      <ul>
+<section class="activity-main-layout">
 
-        {% for item in materials %}
+  <aside class="activity-sidebar">
 
-          <li>
-            {{ item }}
-          </li>
+    {% if duration or age_group %}
 
-        {% endfor %}
+      <div class="sidebar-card">
 
-      </ul>
+        <h2>Ficha técnica</h2>
 
-    </section>
+        {% if duration %}
+          <p><strong>Duración:</strong> {{ duration }}</p>
+        {% endif %}
 
+        {% if age_group %}
+          <p>
+            <strong>Ramas:</strong><br>
+            {{ age_group | join(", ") }}
+          </p>
+        {% endif %}
+
+      </div>
+
+    {% endif %}
+
+
+    {% if materials %}
+
+      <div class="sidebar-card">
+
+        <h2>Materiales</h2>
+
+        <ul>
+          {% for item in materials %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    {% endif %}
+
+{% if tools %}
+<div class="sidebar-card">
+
+  <h2>Herramientas</h2>
+
+  <ul>
+    {% for item in tools %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+</div>
+{% endif %}
+
+{% if competencies %}
+<div class="sidebar-card">
+
+  <h2>Competencias</h2>
+
+  <ul>
+    {% for item in competencies %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+
+</div>
+{% endif %}
+
+
+    {% if educational_objectives %}
+
+      <div class="sidebar-card">
+
+        <h2>Objetivos educativos</h2>
+
+        <ul>
+          {% for item in educational_objectives %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    {% endif %}
+
+
+    {% if competencies %}
+
+      <div class="sidebar-card">
+
+        <h2>Competencias</h2>
+
+        <ul>
+          {% for item in competencies %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    {% endif %}
+
+    {% if responsible %}
+
+      <div class="sidebar-card">
+
+        <h2>Responsables</h2>
+
+        {% if responsible is string %}
+
+          <p>{{ responsible }}</p>
+
+        {% else %}
+
+          <ul>
+            {% for item in responsible %}
+              <li>{{ item }}</li>
+            {% endfor %}
+          </ul>
+
+        {% endif %}
+
+      </div>
+
+    {% endif %}
+
+
+
+{% if required %}
+<div class="sidebar-card required-sidebar">
+
+  <h2>Actividad requerida</h2>
+
+  {% if required_category %}
+    <p>
+      Requerida para:
+      <strong>{{ required_category }}</strong>
+    </p>
   {% endif %}
+
+  {% if required_comment %}
+    <p>{{ required_comment }}</p>
+  {% endif %}
+
+</div>
+{% endif %}
+
+
+{% if files %}
+
+<div class="sidebar-card">
+
+  <h2>Archivos y recursos</h2>
+
+  <div class="sidebar-files">
+
+    {% for file in files %}
+
+      <a
+        class="sidebar-file"
+        href="{{ file.filepath }}">
+
+        <div class="sidebar-file-icon">
+
+          {% if file.icon == "pdf" %}
+            📄
+          {% elseif file.icon == "imagen" %}
+            🖼️
+          {% else %}
+            📦
+          {% endif %}
+
+        </div>
+
+        <div class="sidebar-file-info">
+
+          <strong>{{ file.icon | upper }}</strong>
+
+          <div>
+            {{ file.caption }}
+          </div>
+
+        </div>
+
+      </a>
+
+    {% endfor %}
+
+  </div>
+
+</div>
+
+{% endif %}
+
+
+
+
+  </aside>
+
+
+<section class="activity-content">
+
+  {{ content | safe }}
+
+</section>
+
+</section>
+
+
 
   {% if educational_objectives %}
 
-    <section class="info-box">
 
       <h2>
         Objetivos educativos
@@ -297,129 +494,21 @@ layout: layouts/base.njk
 
   {% endif %}
 
-  <section class="activity-content">
-
-    {{ content | safe }}
-
-  </section>
-
-
-{% if tools or competencies or responsible or required %}
-<section class="activity-metadata">
-
-  {% if tools %}
-  <div class="meta-card">
-    <h2>Herramientas</h2>
-    <ul>
-      {% for item in tools %}
-      <li>{{ item }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
-  {% if competencies %}
-  <div class="meta-card">
-    <h2>Competencias</h2>
-    <ul>
-      {% for item in competencies %}
-      <li>{{ item }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
-
-
-{% if responsible %}
-<div class="meta-card">
-
-  <h2>Responsables</h2>
-
-  {% if responsible is string %}
-
-    <p>{{ responsible }}</p>
-
-  {% else %}
-
-    <ul>
-
-      {% for item in responsible %}
-
-        <li>{{ item }}</li>
-
-      {% endfor %}
-
-    </ul>
-
-  {% endif %}
-
-</div>
-{% endif %}
-
-
-  {% if required %}
-  <div class="meta-card required-card">
-    <h2>Actividad requerida</h2>
-
-    {% if required_category %}
-      <p>
-        Requerida para:
-        <strong>{{ required_category }}</strong>
-      </p>
-    {% endif %}
-
-    {% if required_comment %}
-      <p>{{ required_comment }}</p>
-    {% endif %}
-
-  </div>
-  {% endif %}
-
-</section>
-{% endif %}
 
 
 
 
-{% if files %}
-<section class="activity-files">
-
-  <h2>Archivos y recursos</h2>
-
-  <div class="documents-grid">
-
-    {% for file in files %}
-
-      <a
-        class="document-card"
-        href="{{ file.filepath }}">
-
-        <div class="document-card-content">
-
-          <h3>
-            {{ file.icon | upper }}
-          </h3>
-
-          <p>
-            {{ file.caption }}
-          </p>
-
-        </div>
-
-      </a>
-
-    {% endfor %}
-
-  </div>
-
-</section>
-{% endif %}
 
 
+
+
+
+
+<footer class="activity-footer">
 
 
 {% if references %}
-<section class="activity-references">
+<section class="footer-card">
 
   <h2>Referencias</h2>
 
@@ -458,59 +547,6 @@ layout: layouts/base.njk
 
 </section>
 {% endif %}
-
-
-{% if translation_notice %}
-<section class="translation-notice">
-
-  <h2>Aviso de traducción</h2>
-
-  {% if translation_notice.es %}
-    <p>{{ translation_notice.es }}</p>
-  {% endif %}
-
-</section>
-{% endif %}
-
-
-
-
-{% set related = collections.activitiesSorted | reverse %}
-<section class="related-section">
-
-  <h2>
-    Actividades relacionadas
-  </h2>
-
-  <div class="grid">
-
-    {% for item in related %}
-
-  {% if loop.index <= 4 %}
-
-      {% if item.url != page.url %}
-
-{% set relatedActivity = item %}
-{% set item = relatedActivity.data %}
-{% set activityUrl = relatedActivity.url %}
-
-{% include "components/activity-card.njk" %}
-            {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-
-  </div>
-
-</section>
-
-
-
-<footer class="activity-footer">
-
-
 
 
 
@@ -590,6 +626,19 @@ layout: layouts/base.njk
   {% endif %}
 
 
+{% if translation_notice %}
+<section class="footer-card translation-card">
+
+  <h2>Aviso de traducción</h2>
+
+  {% if translation_notice.es %}
+    <p>{{ translation_notice.es }}</p>
+  {% endif %}
+
+</section>
+{% endif %}
+
+
 
   {% if source or author %}
 
@@ -614,6 +663,41 @@ layout: layouts/base.njk
   {% endif %}
 
 </footer>
+
+
+<hr class="activity-end-divider">
+
+{% set related = collections.activitiesSorted | reverse %}
+<section class="related-section">
+
+  <h2>
+    También te puede interesar
+  </h2>
+
+  <div class="grid">
+
+    {% for item in related %}
+
+      {% if loop.index <= 4 %}
+
+        {% if item.url != page.url %}
+
+          {% set relatedActivity = item %}
+          {% set item = relatedActivity.data %}
+          {% set activityUrl = relatedActivity.url %}
+
+          {% include "components/activity-card.njk" %}
+
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</section>
+
 
 
 

@@ -28,10 +28,10 @@
         </a>
       </h3>
     </div>
-    {% if item.description %}
+    {% if item.summary %}
       <p>
         <a          class="card-description-link"          href="{{ activityUrl | url }}">
-          {{ item.description | truncate(160) }}
+          {{ item.summary | truncate(120) }}
         </a>
       </p>
     {% endif %}
