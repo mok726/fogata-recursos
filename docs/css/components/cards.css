@@ -662,3 +662,30 @@
     transform .2s ease;
 }
 
+
+
+.related-section .activity-card {
+
+min-height:540px;
+
+}
+
+.related-section .activity-card-image {
+
+height:180px;
+
+}
+
+.related-section .sdg-icon {
+
+width:42px;
+height:42px;
+
+}
+
+.related-section .badge-icon {
+
+width:56px;
+height:56px;
+
+}

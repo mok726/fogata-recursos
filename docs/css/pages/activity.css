@@ -134,10 +134,39 @@
 }
 
 .activity-content h2 {
-  margin-top: 3rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
 
-  color: #2c4a2f;
+  padding: 0.85rem 1rem;
+
+  border-radius: 12px;
+
+  background: var(--surface-color);
+
+  border-left: 6px solid var(--primary-color);
+
+  font-size: 1.2rem;
+
 }
+
+
+.activity-content {
+  line-height: 1.7;
+}
+
+.activity-content p {
+  margin-bottom: 1rem;
+}
+
+.activity-content ul {
+  margin-bottom: 1rem;
+}
+
+.activity-content li {
+  margin-bottom: 0.4rem;
+}
+
+
 
 .activity-content p,
 .activity-content li {
@@ -210,6 +239,15 @@
 .activity-content th {
   background: #f4f4f4;
 }
+
+
+
+
+.activity-content h2:first-of-type {
+  background: #eef7ee;
+  border-left-color: #4c8f4c;
+}
+
 
 
 /* =========================
@@ -672,22 +710,36 @@
 ========================= */
 
 .activity-footer {
-  margin-top: 3rem;
 
-  display: flex;
-  flex-direction: column;
-  gap: 1.5rem;
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(280px, 1fr));
+
+  gap: 1rem;
+
+  margin-top: 2rem;
 }
+
+
 
 .footer-card {
   background: white;
 
-  border-radius: 18px;
-
-  padding: 1.5rem;
-
   box-shadow:
     0 4px 14px rgba(0,0,0,0.08);
+
+
+
+
+  border: 1px solid #e5e5e5;
+
+  border-radius: 12px;
+
+  padding: 1rem;
+
+  height: 100%;
+
 }
 
 .footer-card h2 {
@@ -1203,12 +1255,10 @@
 
 .activity-end-divider {
 
-  margin: 4rem 0;
+  margin: 3rem 0;
+  border: none;
+  border-top: 2px solid #e5e5e5;
 
-  border: 0;
-
-  border-top:
-    2px solid #dcdcdc;
 }
 
 
@@ -1282,4 +1332,379 @@
   border-top: 2px solid #e5e5e5;
 }
 
+
+.activity-summary-bar {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit,minmax(180px,1fr));
+
+  gap: 1rem;
+
+  margin: 2rem 0;
+}
+
+.summary-item {
+
+  background: white;
+
+  border-radius: 16px;
+
+  padding: 1rem;
+
+  box-shadow:
+    0 2px 8px rgba(0,0,0,.06);
+}
+
+.summary-label {
+
+  display: block;
+
+  font-size: .8rem;
+
+  color: #777;
+
+  text-transform: uppercase;
+
+  margin-bottom: .35rem;
+}
+
+.summary-value {
+
+  font-weight: 700;
+}
+
+
+.activity-sidebar {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: .75rem;
+}
+
+.sidebar-card {
+
+  margin: 0;
+}
+
+.sidebar-card h2 {
+
+  font-size: 1rem;
+
+  margin-bottom: .75rem;
+}
+
+
+
+
+.activity-summary-box {
+
+  background: #f5f8f3;
+
+  border-left: 5px solid #355b38;
+
+  padding: 1.25rem;
+
+  border-radius: 12px;
+
+  margin-bottom: 2rem;
+}
+
+.activity-summary-box h2 {
+
+  margin-top: 0;
+}
+
+
+
+
+.reference-grid {
+
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit,minmax(260px,1fr));
+
+  gap: 1rem;
+}
+
+.reference-card {
+
+  background: #fafafa;
+
+  border: 1px solid #e5e5e5;
+
+  border-radius: 12px;
+
+  padding: 1rem;
+}
+
+.reference-card strong {
+
+  display: block;
+
+  margin-bottom: .5rem;
+}
+
+.reference-card a {
+
+  display: inline-block;
+
+  margin-top: .75rem;
+}
+
+
+
+
+
+
+.related-section {
+
+  margin-top: 5rem;
+
+  padding-top: 3rem;
+
+  border-top: 2px solid #e5e5e5;
+}
+
+.activity-hero .badge-icon {
+
+  width: 90px;
+  height: 90px;
+}
+
+
+
+
+
+.activity-content h2 {
+  position: relative;
+}
+.activity-content h2:nth-of-type(2) {
+  border-left-color: #d89b18;
+}
+
+.activity-content h2:nth-of-type(3) {
+  border-left-color: #2e7d32;
+}
+
+.activity-content h2:nth-of-type(4) {
+  border-left-color: #1565c0;
+}
+
+
+
+/* Añade esto al final de tu CSS limpio */
+
+/* Sidebar específicos */
+.sidebar-sdgs,
+.sidebar-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.sidebar-sdgs img,
+.sidebar-badges img {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+}
+
+/* Tags en sidebar */
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag-pill {
+  background: #eef5ea;
+  color: #355b38;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  display: inline-block;
+}
+
+/* Required sidebar específico */
+.required-sidebar {
+  border-left: 4px solid #d4a017;
+}
+
+.required-sidebar p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+
+
+
+/* Grid para actividades relacionadas */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+/* Ajustes responsive para el grid */
+@media (max-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* ======================================
+MOCK LAYOUT V1
+====================================== */
+
+.activity-action-bar {
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+
+margin:2rem 0;
+
+padding:1rem 1.5rem;
+
+background:white;
+
+border-radius:18px;
+
+box-shadow:
+0 4px 14px rgba(0,0,0,.08);
+
+}
+
+.activity-action-right {
+
+display:flex;
+gap:.75rem;
+
+}
+
+.action-button {
+
+border:none;
+
+background:#355b38;
+color:white;
+
+padding:.7rem 1rem;
+
+border-radius:999px;
+
+cursor:pointer;
+
+font-weight:600;
+
+}
+
+.activity-layout {
+
+display:grid;
+
+grid-template-columns:
+300px
+minmax(0,1fr)
+280px;
+
+gap:2rem;
+
+margin-top:2rem;
+
+}
+
+.activity-sidebar {
+
+display:flex;
+flex-direction:column;
+
+gap:1rem;
+
+}
+
+.sidebar-card {
+
+background:white;
+
+border-radius:18px;
+
+padding:1.25rem;
+
+box-shadow:
+0 4px 14px rgba(0,0,0,.08);
+
+}
+
+.activity-content {
+
+background:white;
+
+border-radius:24px;
+
+padding:3rem;
+
+box-shadow:
+0 4px 14px rgba(0,0,0,.08);
+
+}
+
+.activity-content h2 {
+
+background:#f7f9f6;
+
+padding:1rem 1.25rem;
+
+border-radius:14px;
+
+border-left:6px solid #355b38;
+
+margin-top:2rem;
+
+}
+
+.sidebar-sdgs,
+.sidebar-badges {
+
+display:flex;
+flex-wrap:wrap;
+
+gap:.5rem;
+
+}
+
+.sidebar-sdgs img {
+
+width:48px;
+height:48px;
+
+}
+
+.sidebar-badges img {
+
+width:70px;
+height:70px;
+
+}
+
+@media (max-width:1100px) {
+
+.activity-layout {
+
+grid-template-columns:1fr;
+
+}
+
+}
 
