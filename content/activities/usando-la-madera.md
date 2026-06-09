@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/usando-la-madera.png" # 
+image: "/imagenes/actividades/usando-la-madera.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B07"
+image_prompt: "Young scouts ages 5-15 listing wooden items at home - furniture, doors, flooring, pencils, paper, books, utensils, toys, musical instruments, picture frames, tools. Discussing pros (renewable, biodegradable, carbon storage) and cons (deforestation, habitat loss). Learning about certified sustainable wood (FSC). Critical consumption, wood product awareness, forest-friendly choices atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior (hogar)"

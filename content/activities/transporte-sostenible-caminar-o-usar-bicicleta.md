@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.png" # 
+image: "/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X345"
+image_prompt: "Older scouts ages 16-20 walking or biking to school/work for at least one month. When not possible, using public transport or carpooling. Tracking CO2 savings. Active transport, fossil fuel reduction, personal health, urban mobility advocacy atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.png" # 
+image: "/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X343"
+image_prompt: "Older scouts ages 11-15 reducing AC and heating use. Lower thermostat in winter (wear sweater), close curtains in summer, nighttime ventilation. Learning traditional methods - wood stoves, adobe houses, cross-ventilation, shade trees. Historical energy wisdom, comfortable adaptation, energy literacy atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

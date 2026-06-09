@@ -1,15 +1,15 @@
 ---
-title: "Unirse a un Club de Apicultura"
+title: "Señales en el Parque"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/unirse-a-un-club-de-apicultura/"
-description: "Únete a un club de apicultura o crea uno en tu comunidad."
-summary: "Únete a un club de apicultura o crea uno en tu comunidad."
+permalink: "/activities/senales-en-el-parque/"
+description: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
+summary: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/unirse-a-un-club-de-apicultura.png"
+image: "/imagenes/actividades/senales-en-el-parque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -20,61 +20,65 @@ age_group:
   - castores
   - manada
 materials:
-  - Información sobre clubes de apicultura
+  - Materiales para hacer las señales (cartón
+  - marcadores
+  - etc.)
+  - Permiso de las autoridades del parque
 competencies:
-  - Trabajo en equipo
   - Conciencia ambiental
-  - Responsabilidad
+  - Comunicación
+  - Trabajo en equipo
 responsible:
   - Responsable del grupo
 ods:
-  - 8
+  - 15
 sdgs:
-  - 8
+  - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X117"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentina. Researching local beekeeping clubs online. Joining or starting club with friends and family. Meeting beekeepers, learning about hive management, swarm catching, honey harvesting. Long-term engagement, community building atmosphere."
+activity_code: "polinizadores-X104"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park. Creating signs with help and permission - This garden has pollinators, Please don't spray pesticides, Bee hotel nearby. Placing signs on posts. Park visitors reading. Community education, visible impact atmosphere."
 tags:
   - Insignia de Polinizadores
-location: "Interior / Exterior"
-participants: "3-15"
+location: "Exterior"
+participants: "4-10"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:
   - Servicio a los demás
-  - Investigación
+  - Sensibilización
 etiquetas:
-  - club de apicultura
-  - abejas
-  - apicultores
+  - señales
+  - parque
+  - educación
   - comunidad
-  - aprendizaje
+  - polinizadores
 category:
-  - Comunidad
-  - Agricultura
+  - Comunicación
   - Medio ambiente
+  - Educación
 skills:
-  - Trabajo en equipo
   - Conciencia ambiental
-  - Responsabilidad
+  - Comunicación
+  - Trabajo en equipo
 main_type: "Servicio a los demás"
-space_required: "Salón amplio o exterior"
+space_required: "Exterior abierto"
 special_materials:
-  - acceso a internet
-  - contacto con clubes locales
-prep_time: "30 min (investigación) + seguimiento"
+  - cartón impermeable o plástico
+  - marcadores
+  - postes o cinta
+prep_time: "30 min"
 scout_values:
   - Hermandad
+  - Naturaleza
   - Servicio a los demás
-  - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
+  - Servicio comunitario
 ludic_component: 3
-reflective_component: 4
+reflective_component: 3
 active_component: 2
 # ====== References and attachments ======
 #
@@ -124,15 +128,15 @@ active_component: 2
 
 ---
 
-# Unirse a un Club de Apicultura
+# Señales en el Parque
 
 ## Resumen
-Únete a un club de apicultura o crea uno en tu comunidad.
+Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores.
 
 ## Desarrollo
-1. Busca clubes de apicultura locales en línea o en mercados de agricultores.
-2. Únete a un club o crea uno nuevo con amigos y familiares.
-3. Aprende sobre la apicultura y cómo proteger a las abejas.
+1. Obtén permiso de las autoridades para colocar señales en un parque local.
+2. Crea señales que expliquen qué polinizadores viven en el área, por qué son importantes y cómo la comunidad puede ayudar.
+3. Coloca las señales en áreas visibles del parque.
 
 ## Cierre
-¿Qué aprendiste sobre la apicultura? ¿Cómo podemos apoyar a los apicultores y conservar las abejas?
+¿Cómo reaccionó la comunidad a las señales? ¿Qué preguntas hicieron sobre los polinizadores?

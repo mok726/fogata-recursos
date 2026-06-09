@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/trepando-arboles.png" # 
+image: "/imagenes/actividades/trepando-arboles.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B05"
+image_prompt: "Older scouts ages 11-21 researching jobs requiring tree climbing - arborist (tree trimmer), coconut harvester, fruit picker (mango, durian), maple syrup tapper, monkey-driven harvest (not real), ecotourism canopy guide, researcher (bird nest, bat, insect studies), fire lookout. Learning safety gear - harness, rope, helmet, spurs, lanyards. Optional supervised climbing. Occupational skills, arboriculture safety, physical challenge awareness atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior / Interior"

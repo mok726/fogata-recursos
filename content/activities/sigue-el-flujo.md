@@ -1,44 +1,45 @@
 ---
-title: "Unirse a la lucha contra el hambre"
-duration: "1 mes"
+title: "Sigue el flujo"
+duration: "1 hora"
 layout: "layouts/activity.njk"
-permalink: "/activities/unirse-a-la-lucha-contra-el-hambre/"
-description: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
-summary: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
+permalink: "/activities/sigue-el-flujo/"
+description: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
+summary: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/unirse-a-la-lucha-contra-el-hambre.png"
+image: "/imagenes/actividades/sigue-el-flujo.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
   - scouts
+  - caminantes
 age_group:
   - scouts
+  - caminantes
 materials:
-  - Acceso a internet
+  - Papel
+  - Lápices de colores
+  - Marcadores
+tools:
+  - Regla
 competencies:
-  - Conciencia social
-  - Participación global
+  - Pensamiento crítico
+  - Conciencia ambiental
 responsible:
-  - Responsable del grupo Scout
+  - Líder de grupo
 ods:
-  - 2
+  - 6
 sdgs:
-  - 2
+  - 6
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X397"
-image_prompt: "Older scouts ages 11-15 joining Feeding Minds online youth network. Connecting with young people worldwide fighting hunger and malnutrition. Learning about global food issues. Taking action - fundraising, awareness campaigns, advocacy. Global youth movement, anti-hunger activism, digital solidarity atmosphere."
-similar_activities: "https -//www.feedingminds.org/"
+  - del-agua
+activity_code: "del-agua-X293"
+image_prompt: "Older scouts ages 11-17 creating flow diagram showing how water affects every aspect of life - health, food production, education (girls spending hours collecting water), economy, dignity. Then alternative diagram showing impacts of water scarcity and contamination - disease, poverty, conflict, school absence. Systems thinking, water cycle of life, cause-effect visualization atmosphere."
 tags:
-  - Insignia de Seguridad Alimentaria y Cambio Climático
+  - Parche del Agua
 location: "Interior"
 participants: "4-15"
 complexity_execution: 2
@@ -46,29 +47,35 @@ complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:
-  - Participación
-  - Activismo
+  - Arte
+  - Reflexión
 etiquetas:
-  - lucha contra el hambre
-  - jóvenes
-  - mundial
-  - alimentación
-  - solidaridad
+  - agua
+  - diagrama
+  - flujo
+  - impacto
+  - saneamiento
 category:
-  - Activismo
-  - Derechos
-  - Alimentación
+  - Educación
+  - Agua
+  - Pensamiento sistémico
 skills:
-  - Conciencia social
-  - Participación global
-main_type: "Servicio a los demás"
+  - Pensamiento crítico
+  - Conciencia ambiental
+main_type: "Reflexión"
 space_required: "Salón amplio"
-prep_time: "20 min + seguimiento"
+special_materials:
+  - papel grande
+  - lápices de colores
+  - marcadores
+  - regla
+prep_time: "20 min"
+scout_values:
+  - Superación personal
 scout_method:
   - Educación por la acción
-  - Servicio comunitario
 ludic_component: 2
-reflective_component: 4
+reflective_component: 5
 active_component: 1
 # ====== References and attachments ======
 #
@@ -118,14 +125,13 @@ active_component: 1
 
 ---
 
-# Unirse a la lucha contra el hambre
+# Sigue el flujo
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Todos tienen derecho a la alimentación.
-Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
+Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida.
 
 ## Desarrollo
-Únete a los niños y a los jóvenes alrededor de todo el planeta para crear un mundo libre de hambre y malnutrición: www.feedingminds.org/yw/index_es.htm
+Crea un diagrama de flujo del ‘efecto filtración’ del agua en la vida de las personas. ¿Cuáles aspectos de nuestras vidas dependen del agua limpia y del saneamiento? Luego, dibuja la alternativa: ¿cómo impacta en la vida de las personas la falta de agua y saneamiento, o el acceso sólo a agua contaminada?
 
 ## Cierre
-Reflexiona sobre cómo puedes contribuir a un mundo libre de hambre.
+Reflexiona sobre la importancia del agua en la vida cotidiana y cómo su falta afecta a las comunidades.

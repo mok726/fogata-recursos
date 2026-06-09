@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png" # 
+image: "/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X31"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine public space (plaza or community center). Setting up exhibition with posters showing soil degradation, erosion, pollution. One scout explaining to passerby family. Another pointing at map. Passersby stopping to learn. Sunny day, trees in background. Educational, civic atmosphere."
 required: true
 required_for:
   - suelos-X

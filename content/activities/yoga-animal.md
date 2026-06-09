@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/yoga-animal.png" # 
+image: "/imagenes/actividades/yoga-animal.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D19"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) doing animal yoga poses - downward dog (dog), cat-cow (cat), cobra (snake), butterfly (butterfly), frog squat (frog), eagle arms (eagle), tree pose (tree). Older scouts leading younger. Learning animal names and movements. Kinesthetic learning, body awareness, fun physical activity, connection with animal biology atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

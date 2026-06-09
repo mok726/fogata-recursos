@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/visita-a-granjas.png" # 
+image: "/imagenes/actividades/visita-a-granjas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C10"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs visiting three different farms - conventional grain, organic vegetable, dairy, vineyard. Interviewing farmers about challenges (pests, drought, markets) and how biodiversity helps (natural pest control, pollination, soil health). Comparing sustainability. Agricultural systems thinking, real-world farming exposure, career exploration atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

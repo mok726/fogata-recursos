@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/verso-acuatico.png" # 
+image: "/imagenes/actividades/verso-acuatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,8 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X256"
+image_prompt: "Older scouts ages 11-15 writing humorous limerick about water use in agriculture, industry, or home. Example - There once was a rice field so proud,/It boasted and laughed very loud,/But rain went away,/And to its dismay,/That rice field was stuck in a cloud. Sharing poems, creating posters. Creative writing, humor, water awareness through poetry atmosphere."
+similar_activities: "http -//www.poetry4kids.com/blog/lessons/how-to-write-a-limerick"
 tags:
   - Insignia del Agua
 location: "Interior"

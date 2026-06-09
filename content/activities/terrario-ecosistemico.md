@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/terrario-ecosistemico.png" # 
+image: "/imagenes/actividades/terrario-ecosistemico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C28"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs collecting small plants, moss, seeds from local area (ditch, roadside). Planting in glass container with soil, rocks, charcoal. Creating closed or open terrarium. Watering and observing growth, condensation, possible tiny insects over weeks. Miniature ecosystem study, water cycle observation, patient gardening atmosphere."
+similar_activities: "http -//www.fullexperimentos.com/2010/08/construccion-de-un-terrario-casero.html"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

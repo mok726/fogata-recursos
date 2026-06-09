@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tala-de-arboles.png" # 
+image: "/imagenes/actividades/tala-de-arboles.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D03"
+image_prompt: "Older scouts ages 16-21 inviting sustainable forestry expert (forester, FSC auditor, forest engineer) to speak. Learning about reduced-impact logging, certification schemes (FSC, PEFC), chain of custody, endangered wood species (CITES appendix). Discussing consumer responsibility - asking for certified wood, avoiding tropical hardwoods from unsustainable sources, reclaimed wood, bamboo alternatives. Sustainable forestry, certified wood, responsible consumption, industry dialogue atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

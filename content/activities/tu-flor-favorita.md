@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tu-flor-favorita.png" # 
+image: "/imagenes/actividades/tu-flor-favorita.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X41"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing poems about flowers and soil. One child reading poem aloud about sunflower needing rich soil. Drawings of flowers with roots in soil on same paper. Colorful pencils. Warm, creative atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

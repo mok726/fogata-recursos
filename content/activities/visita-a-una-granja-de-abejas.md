@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/visita-a-una-granja-de-abejas.png" # 
+image: "/imagenes/actividades/visita-a-una-granja-de-abejas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X79"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine bee farm. Beekeeper in protective gear showing hive. Bees flying around. Scout asking question, another recording video on phone. One scout tasting honey sample. Educational, exciting, real-world learning atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Exterior"

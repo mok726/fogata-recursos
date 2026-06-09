@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/visitar-un-centro-de-reciclaje.png" # 
+image: "/imagenes/actividades/visitar-un-centro-de-reciclaje.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X310"
+image_prompt: "Older scouts ages 11-15 visiting recycling center or renewable energy plant (wind farm in Comahue, solar park). Seeing how materials are sorted, processed. Learning about energy generation. Talking with workers. Real-world waste management, renewable energy infrastructure, career exposure atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

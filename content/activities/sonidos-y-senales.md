@@ -1,84 +1,80 @@
 ---
-title: "Un Estudio de pH"
+title: "SONIDOS Y SEÑALES"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/un-estudio-de-ph/"
-description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
-summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+permalink: "/activities/sonidos-y-senales/"
+description: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
+summary: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/un-estudio-de-ph.png"
+image: "/imagenes/actividades/sonidos-y-senales.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
+  - manada
   - scouts
   - caminantes
   - rovers
 age_group:
+  - manada
   - scouts
   - caminantes
   - rovers
-materials:
-  - Muestras de suelo
-  - Kit de medición de pH
 tools:
-  - Kit de medición de pH
-competencies:
-  - Investigación
-  - Conciencia científica
+  - Guía de huellas de animales
+  - Lupa (opcional)
 responsible:
-  - Maestro/Dirigente
+  - Scouter o guía de naturaleza
 ods:
   - 15
 sdgs:
   - 15
 activity_badges:
-  - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+  - bosques
+activity_code: "bosques-A03"
+image_prompt: "Young scouts ages 5-21 early morning forest observation mission. Listening for bird calls, insect sounds, animal movements. Imitating sounds to get responses. Looking for tracks, fur, feathers, scat. Using field guide. Wildlife tracking, auditory ecology, patience, early morning nature connection atmosphere."
 tags:
-  - Insignia de los Suelos
-location: "Interior / Exterior"
+  - Insignia de los Bosques
+location: "Exterior"
 participants: "4-15"
-complexity_execution: 3
+complexity_execution: 2
 complexity_organizer: 3
 accessibility:
-  - Todas
+  - -Auditiva
+  - -Movilidad
 activity_type:
   - Investigación
-  - Aprender haciendo
+  - Observación
 etiquetas:
-  - pH
-  - suelo
-  - acidez
-  - medición
-  - biodiversidad
+  - sonidos
+  - animales
+  - huellas
+  - rastros
+  - observación
 category:
-  - Ciencia
-  - Química
-  - Medio ambiente
-skills:
-  - Investigación
-  - Conciencia científica
-main_type: "Investigación"
-space_required: "Salón chico o exterior"
-special_materials:
-  - kit de pH (tiras o líquido)
-  - muestras de suelo
-  - recipientes pequeños
-prep_time: "15 min"
-scout_values:
+  - Ecología
   - Naturaleza
+  - Biología
+skills:
+  - Observación científica
+  - Paciencia
+  - Conocimiento ecológico
+main_type: "Investigación"
+space_required: "Exterior abierto (bosque)"
+prep_time: "15 min + caminata temprano"
+scout_values:
+  - Perseverancia
   - Superación personal
 scout_method:
+  - Vida al aire libre
   - Aprender haciendo
   - Educación por la acción
 ludic_component: 3
 reflective_component: 4
-active_component: 2
+active_component: 3
 # ====== References and attachments ======
 #
 # files:
@@ -127,13 +123,13 @@ active_component: 2
 
 ---
 
-# Un Estudio de pH
+# SONIDOS Y SEÑALES
 
 ## Resumen
-Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales.
+Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque.
 
 ## Desarrollo
-Recolecta muestras de suelo y mide su pH. Compara los resultados con la información sobre qué plantas y animales pueden vivir en cada tipo de suelo.
+Muy temprano en la mañana, conduce una misión de observación en un bosque. Escucha los sonidos de los animales. Trata de imitar los sonidos para ver si los animales responden. Busca huellas de animales en el piso. ¿Puedes descifrar qué animal dejó el rastro? Intenta encontrar pistas como pelo de animal, plumas y heces (desechos de animales). Observa el **hábitat** en el que viven.
 
 ## Cierre
-Discute cómo el pH del suelo afecta la biodiversidad.
+¿Qué sonidos o rastros fueron más difíciles de identificar? ¿Cómo se relacionan los animales con su hábitat?

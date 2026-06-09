@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/unirse-a-la-red-carboschools.png" # 
+image: "/imagenes/actividades/unirse-a-la-red-carboschools.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X337"
+image_prompt: "Older scouts ages 16-20 researching Carboschools network (schools with rooftop CO2 monitors). Investigating if their school can join. Learning about atmospheric CO2 measurement, data submission, climate science curriculum. Contacting program coordinators. Citizen science, climate monitoring, school-community research partnership atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

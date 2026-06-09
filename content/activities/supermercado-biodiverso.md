@@ -1,69 +1,68 @@
 ---
-title: "Tiempo de descomposición de la basura"
-duration: "1 semana"
+title: "Supermercado biodiverso"
+duration: "1 hora"
 layout: "layouts/activity.njk"
-permalink: "/activities/tiempo-de-descomposicion-de-la-basura/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura.
+permalink: "/activities/supermercado-biodiverso/"
+description: "Investigación de diversidad genética."
+summary: "Investigación de diversidad genética."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/tiempo-de-descomposicion-de-la-basura.png"
+image: "/imagenes/actividades/supermercado-biodiverso.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
   - scouts
+  - caminantes
 age_group:
   - scouts
+  - caminantes
 competencies:
-  - Conciencia ambiental
-  - Investigación y análisis
+  - Observación
+  - Análisis comparativo
 responsible:
-  - Responsable del grupo Scout
+  - educador Scout
 ods:
+  - 2
   - 12
-  - 14
 sdgs:
+  - 2
   - 12
-  - 14
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X369"
-image_prompt: "Older scouts ages 11-15 researching decomposition times - paper napkin (2-4 weeks), banana peel (3-4 weeks), plastic bag (10-1000 years), styrofoam (never), glass (1 million years). Sharing findings. Eye-opening waste literacy, plastic awareness, long-term environmental impact understanding atmosphere."
+  - biodiversidad
+activity_code: "biodiversidad-C05"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) at supermarket. Counting number of plant species (carrots, lettuce, apples, oranges, broccoli). Finding species with multiple varieties - potatoes (white, red, purple, russet, fingerling). Counting how many varieties. Noting similarities and differences. Discussing importance of genetic diversity for crop resilience (disease resistance, climate adaptation). Agricultural biodiversity, real-world genetics, consumer awareness atmosphere."
 tags:
-  - Insignia de Seguridad Alimentaria y Cambio Climático
+  - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
 complexity_execution: 2
 complexity_organizer: 2
 accessibility:
-  - -Cognitiva
+  - -Visual
 activity_type:
   - Investigación
+  - Observación
 etiquetas:
-  - descomposición
-  - basura
-  - tiempo
-  - plástico
-  - orgánico
+  - supermercado
+  - diversidad genética
+  - variedades
+  - papas
+  - frutas
 category:
-  - Residuos
-  - Ecología
-  - Ciencia
+  - Agricultura
+  - Genética
+  - Consumo
 skills:
-  - Conciencia ambiental
-  - Investigación y análisis
+  - Observación
+  - Análisis comparativo
 main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "20 min"
+space_required: "Interior (supermercado)"
+prep_time: "10 min + visita"
 scout_values:
-  - Respeto al prójimo
+  - Sencillez y Austeridad
   - Superación personal
 scout_method:
   - Educación por la acción
@@ -118,14 +117,13 @@ active_component: 1
 
 ---
 
-# Tiempo de descomposición de la basura
+# Supermercado biodiverso
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
-Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura.
+Investigación de diversidad genética.
 
 ## Desarrollo
-Averigua cuánto tiempo se requiere para que algunos elementos de la basura común (servilletas de papel, cáscaras de huevo, bolsas plásticas, esponjas) se descompongan en un tiradero de basura. Compara esta información con tus padres, maestros y amigos.
+Visita un mercado o una tienda de comestibles. Busca ejemplos de diversidad de especies y diversidad genética, dos niveles de biodiversidad (el tercer nivel es la diversidad de ecosistemas). Cuenta el número de especies vegetales (como zanahorias, pepinos o lechugas). Encuentra una especie que tenga diversas variedades, por ejemplo, las papas. Éste es un ejemplo de diversidad genética dentro de una especie. ¿Cuántas variedades de papas hay? ¿En qué se asemejan? ¿En qué se diferencian? ¿Qué otros tipos de comida tienen múltiples variedades? ¿Por qué es importante tener diversidad genética en las plantas para cultivos? Comparte tus hallazgos con tu clase o tu grupo.
 
 ## Cierre
-Reflexiona sobre cómo el tiempo de descomposición de los residuos afecta al medio ambiente.
+¿Qué producto te sorprendió por su diversidad?

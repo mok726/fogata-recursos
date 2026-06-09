@@ -1,84 +1,83 @@
 ---
-title: "Un Estudio de pH"
-duration: "1-2 horas"
+title: "Soluciones globales"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/un-estudio-de-ph/"
-description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
-summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+permalink: "/activities/soluciones-globales/"
+description: "Actividad para investigar y experimentar con métodos de desalinización del agua."
+summary: "Actividad para investigar y experimentar con métodos de desalinización del agua."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/un-estudio-de-ph.png"
+image: "/imagenes/actividades/soluciones-globales.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
-  - scouts
   - caminantes
   - rovers
 age_group:
-  - scouts
   - caminantes
   - rovers
 materials:
-  - Muestras de suelo
-  - Kit de medición de pH
+  - Agua salada
+  - Materiales para desalinización (botellas
+  - plástico
+  - etc.)
 tools:
-  - Kit de medición de pH
-competencies:
-  - Investigación
-  - Conciencia científica
+  - Herramientas de laboratorio (opcional)
 responsible:
-  - Maestro/Dirigente
+  - Líder de grupo
 ods:
-  - 15
+  - 6
 sdgs:
-  - 15
+  - 6
 activity_badges:
-  - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+  - del-agua
+activity_code: "del-agua-X296"
+image_prompt: "Older scouts ages 14-21 building solar desalination still. Filling bowl with salt water, placing smaller cup inside, covering with plastic wrap, placing small weight on center. Sun evaporates water, condenses on plastic, drips into cup. Fresh water collected. Learning about desalination technology for water-scarce regions. Hands-on science, appropriate technology, global solutions atmosphere."
+similar_activities: "http -//sciencelllustrated.com.au/solar-desalination"
 tags:
-  - Insignia de los Suelos
-location: "Interior / Exterior"
-participants: "4-15"
+  - Parche del Agua
+location: "Exterior / Interior"
+participants: "4-10"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
-  - Todas
+  - -Visual
 activity_type:
-  - Investigación
-  - Aprender haciendo
-etiquetas:
-  - pH
-  - suelo
-  - acidez
-  - medición
-  - biodiversidad
-category:
+  - Experimentación
   - Ciencia
+etiquetas:
+  - desalinización
+  - agua salada
+  - solar
+  - experimento
+  - tecnología
+category:
   - Química
-  - Medio ambiente
+  - Tecnología
+  - Agua
 skills:
-  - Investigación
-  - Conciencia científica
-main_type: "Investigación"
-space_required: "Salón chico o exterior"
+  - Investigación científica
+  - Conciencia tecnológica
+main_type: "Experimentación"
+space_required: "Exterior abierto (soleado)"
 special_materials:
-  - kit de pH (tiras o líquido)
-  - muestras de suelo
-  - recipientes pequeños
-prep_time: "15 min"
+  - tazón
+  - vaso pequeño
+  - agua salada
+  - plástico transparente
+  - peso pequeño (piedra)
+prep_time: "15 min + tiempo de sol"
 scout_values:
-  - Naturaleza
   - Superación personal
 scout_method:
   - Aprender haciendo
   - Educación por la acción
 ludic_component: 3
 reflective_component: 4
-active_component: 2
+active_component: 1
 # ====== References and attachments ======
 #
 # files:
@@ -127,13 +126,13 @@ active_component: 2
 
 ---
 
-# Un Estudio de pH
+# Soluciones globales
 
 ## Resumen
-Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales.
+Actividad para investigar y experimentar con métodos de desalinización del agua.
 
 ## Desarrollo
-Recolecta muestras de suelo y mide su pH. Compara los resultados con la información sobre qué plantas y animales pueden vivir en cada tipo de suelo.
+Haz un poco de agua salada y trata de desalinizarla. Puedes intentar con estos métodos: http://sciencelllustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/ (en inglés).
 
 ## Cierre
-Discute cómo el pH del suelo afecta la biodiversidad.
+Reflexiona sobre cómo la tecnología puede ayudar a resolver la escasez de agua en el mundo.

@@ -1,15 +1,15 @@
 ---
-title: "Un Estudio de pH"
+title: "Sé un Ecoturista"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/un-estudio-de-ph/"
-description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
-summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+permalink: "/activities/se-un-ecoturista/"
+description: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
+summary: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/un-estudio-de-ph.png"
+image: "/imagenes/actividades/se-un-ecoturista.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -21,14 +21,9 @@ age_group:
   - scouts
   - caminantes
   - rovers
-materials:
-  - Muestras de suelo
-  - Kit de medición de pH
-tools:
-  - Kit de medición de pH
 competencies:
-  - Investigación
-  - Conciencia científica
+  - Conciencia ambiental
+  - Creatividad
 responsible:
   - Maestro/Dirigente
 ods:
@@ -37,47 +32,47 @@ sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+activity_code: "suelos-X69"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching ecotourism examples in Argentina (Iguazú, Bariloche, Iberá). Designing own ecotourism activity - nature walk with soil observation, educational signs about soil conservation. Maps, laptop for research. Creative, planning atmosphere."
 tags:
   - Insignia de los Suelos
-location: "Interior / Exterior"
+location: "Ambos"
 participants: "4-15"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
-  - Todas
+  - -Movilidad
 activity_type:
   - Investigación
-  - Aprender haciendo
+  - Creatividad
+  - Planificación
 etiquetas:
-  - pH
+  - ecoturismo
+  - Argentina
   - suelo
-  - acidez
-  - medición
-  - biodiversidad
+  - conservación
+  - diseño
 category:
-  - Ciencia
-  - Química
+  - Turismo
   - Medio ambiente
+  - Economía
 skills:
-  - Investigación
-  - Conciencia científica
+  - Conciencia ambiental
+  - Creatividad
 main_type: "Investigación"
-space_required: "Salón chico o exterior"
+space_required: "Salón amplio"
 special_materials:
-  - kit de pH (tiras o líquido)
-  - muestras de suelo
-  - recipientes pequeños
-prep_time: "15 min"
+  - acceso a internet
+  - mapa de Argentina (opcional)
+prep_time: "25 min"
 scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Aprender haciendo
   - Educación por la acción
+  - Vida al aire libre
 ludic_component: 3
-reflective_component: 4
+reflective_component: 3
 active_component: 2
 # ====== References and attachments ======
 #
@@ -127,13 +122,13 @@ active_component: 2
 
 ---
 
-# Un Estudio de pH
+# Sé un Ecoturista
 
 ## Resumen
-Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales.
+Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad.
 
 ## Desarrollo
-Recolecta muestras de suelo y mide su pH. Compara los resultados con la información sobre qué plantas y animales pueden vivir en cada tipo de suelo.
+Busca información sobre cómo el ecoturismo protege el suelo y diseña una actividad (caminata, observación de naturaleza, etc.).
 
 ## Cierre
-Discute cómo el pH del suelo afecta la biodiversidad.
+Reflexiona sobre cómo el ecoturismo puede ayudar a conservar el suelo.

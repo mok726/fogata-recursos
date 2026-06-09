@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tu-deporte.png" # 
+image: "/imagenes/actividades/tu-deporte.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C07"
+image_prompt: "Young scouts ages 5-15 inventing a sport to be played in the forest using natural elements - cone throwing, stick balancing relay, log rolling, tree tag, pinecone bowling, mushroom baseball, stream stone skipping, acorn golf, moss toss, bark frisbee. Playing the sport. Understanding how forest environment shapes game design. Active play in nature, creativity, physical activity, forest utilization awareness atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior (bosque)"

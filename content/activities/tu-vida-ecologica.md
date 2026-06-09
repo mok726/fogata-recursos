@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tu-vida-ecologica.png" # 
+image: "/imagenes/actividades/tu-vida-ecologica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X194"
+image_prompt: "Group of scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Large poster of sustainable house on wall. Teams discussing best practices for recycling, composting, saving water, reducing energy. Writing ideas on sticky notes. Pasting on house graphic. Sharing with group. Collaborative, home-focused sustainability atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

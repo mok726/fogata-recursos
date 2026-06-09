@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/trabajos-en-el-suelo.png" # 
+image: "/imagenes/actividades/trabajos-en-el-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X58"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Playing charades. One scout acting out farmer (digging, planting). Others guessing. Another acting geologist (examining rocks with magnifying glass). Lively, fun, career-awareness atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

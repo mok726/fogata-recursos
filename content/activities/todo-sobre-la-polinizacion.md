@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/todo-sobre-la-polinizacion.png" # 
+image: "/imagenes/actividades/todo-sobre-la-polinizacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X81"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Watching educational video about pollination on laptop or projector. Then creating simple presentation with drawings or slides. One scout explaining cross-pollination. Others listening. Modern, tech-integrated learning atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior"

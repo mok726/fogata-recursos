@@ -1,15 +1,15 @@
 ---
-title: "Unirse a un Club de Apicultura"
+title: "Ser Bueno para el Bien Global"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/unirse-a-un-club-de-apicultura/"
-description: "Únete a un club de apicultura o crea uno en tu comunidad."
-summary: "Únete a un club de apicultura o crea uno en tu comunidad."
+permalink: "/activities/ser-bueno-para-el-bien-global/"
+description: "Habla con tu familia sobre hacer un cambio en el estilo de vida para ayudar al planeta."
+summary: "Habla con tu familia sobre hacer un cambio en el estilo de vida para ayudar al planeta."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/unirse-a-un-club-de-apicultura.png"
+image: "/imagenes/actividades/ser-bueno-para-el-bien-global.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -20,62 +20,65 @@ age_group:
   - castores
   - manada
 materials:
-  - Información sobre clubes de apicultura
+  - Papel y lápiz para crear la lista de verificación
 competencies:
-  - Trabajo en equipo
   - Conciencia ambiental
+  - Trabajo en equipo
   - Responsabilidad
 responsible:
   - Responsable del grupo
 ods:
-  - 8
+  - 15
+  - 13
+  - 12
 sdgs:
-  - 8
+  - 15
+  - 13
+  - 12
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X117"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentina. Researching local beekeeping clubs online. Joining or starting club with friends and family. Meeting beekeepers, learning about hive management, swarm catching, honey harvesting. Long-term engagement, community building atmosphere."
+activity_code: "polinizadores-X103"
+image_prompt: "Young scout ages 5-10 at home in Argentina. Talking with family about changes - use fewer plastic bags, recycle, turn off lights. Creating checklist on fridge - reduce waste, buy local honey, plant flowers. Family discussing together. Checking progress weekly. Family teamwork, household change atmosphere."
 tags:
   - Insignia de Polinizadores
-location: "Interior / Exterior"
-participants: "3-15"
-complexity_execution: 3
-complexity_organizer: 3
+location: "Interior"
+participants: "2-10"
+complexity_execution: 1
+complexity_organizer: 1
 accessibility:
-  - -Visual
+  - -Cognitiva
 activity_type:
+  - Reflexión
   - Servicio a los demás
-  - Investigación
 etiquetas:
-  - club de apicultura
-  - abejas
-  - apicultores
-  - comunidad
-  - aprendizaje
+  - familia
+  - cambio de estilo de vida
+  - reciclaje
+  - consumo
+  - lista de verificación
 category:
-  - Comunidad
-  - Agricultura
+  - Hogar
   - Medio ambiente
+  - Consumo
 skills:
-  - Trabajo en equipo
   - Conciencia ambiental
+  - Trabajo en equipo
   - Responsabilidad
 main_type: "Servicio a los demás"
-space_required: "Salón amplio o exterior"
+space_required: "Salón chico (hogar)"
 special_materials:
-  - acceso a internet
-  - contacto con clubes locales
-prep_time: "30 min (investigación) + seguimiento"
+  - papel
+  - marcador
+prep_time: "15 min"
 scout_values:
-  - Hermandad
+  - Naturaleza
+  - Responsabilidad
   - Servicio a los demás
-  - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
-ludic_component: 3
+ludic_component: 2
 reflective_component: 4
-active_component: 2
+active_component: 1
 # ====== References and attachments ======
 #
 # files:
@@ -124,15 +127,15 @@ active_component: 2
 
 ---
 
-# Unirse a un Club de Apicultura
+# Ser Bueno para el Bien Global
 
 ## Resumen
-Únete a un club de apicultura o crea uno en tu comunidad.
+Habla con tu familia sobre hacer un cambio en el estilo de vida para ayudar al planeta.
 
 ## Desarrollo
-1. Busca clubes de apicultura locales en línea o en mercados de agricultores.
-2. Únete a un club o crea uno nuevo con amigos y familiares.
-3. Aprende sobre la apicultura y cómo proteger a las abejas.
+1. Habla con tu familia sobre hacer un cambio en casa, como reciclar más, conducir menos o usar menos productos empaquetados.
+2. Crea una lista de verificación y colócala en un lugar visible para que toda la familia la siga.
+3. Revisa periódicamente cómo va el progreso.
 
 ## Cierre
-¿Qué aprendiste sobre la apicultura? ¿Cómo podemos apoyar a los apicultores y conservar las abejas?
+¿Qué cambios implementó tu familia? ¿Cómo estos cambios ayudan a los polinizadores y al planeta?

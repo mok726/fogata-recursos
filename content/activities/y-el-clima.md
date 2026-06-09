@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/y-el-clima.png" # 
+image: "/imagenes/actividades/y-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X97"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentina. Interviewing local beekeeper or farmer via video call or in person. Asking how climate change (drought, temperature shifts) affects bees and flowers. Recording interview. Creating short video or blog post. Climate awareness, digital storytelling atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

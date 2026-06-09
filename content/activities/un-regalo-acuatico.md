@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/un-regalo-acuatico.png" # 
+image: "/imagenes/actividades/un-regalo-acuatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X105"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Creating shallow water source - plant saucer or bird bath with stones for insects to land. Filling with water. Placing near flowers. Later observing bees and butterflies drinking. Simple but vital act. Caring, observation atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tu-bosque-favorito.png" # 
+image: "/imagenes/actividades/tu-bosque-favorito.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D07"
+image_prompt: "Older scouts ages 11-21 choosing iconic global forest - Amazon Rainforest, Congo Basin, Taiga (Siberia), Białowieża Forest (Poland), Daintree Rainforest (Australia), Monteverde Cloud Forest (Costa Rica), Black Forest (Germany), Yakushima (Japan). Researching threats (deforestation, climate change, mining), conservation actions (protected areas, indigenous territories, ecotourism, certification). Creating poster with conservation strategy recommendations. Global forest appreciation, conservation planning, advocacy through design atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

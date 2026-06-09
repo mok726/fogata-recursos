@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/teatro-del-carbono.png" # 
+image: "/imagenes/actividades/teatro-del-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X144"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor stage. Creating short play about carbon cycle - plants as actors absorbing CO2, animals exhaling, decomposers, factories emitting. Performing for group. Creative, collaborative, educational theater atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

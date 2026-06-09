@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tintes-naturales.png" # 
+image: "/imagenes/actividades/tintes-naturales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C07"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine kitchen or scout room. Making natural dyes - onion skins (yellow/orange), beets (pink/red), turmeric (yellow), coffee (brown), red cabbage (blue/purple). Simmering plant material in water. Dipping natural fabric (cotton, wool) in dye bath. Observing colors. Discussing traditional textile practices. Natural chemistry, sustainable art, heritage craft atmosphere."
+similar_activities: "http -//www.pioneerthinking.com/naturaldyes.html"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/visitar-una-hacienda-y-un-mercado.png" # 
+image: "/imagenes/actividades/visitar-una-hacienda-y-un-mercado.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X311"
+image_prompt: "Older scouts ages 11-15 visiting both conventional and organic farms in Argentina (Pampas, Mendoza, etc.). Learning about crops (soy, corn, wheat), livestock (cattle, chickens), organic practices (no synthetic pesticides, composting). Comparing sustainability. Farm-to-table education, agricultural awareness, sustainable food systems atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

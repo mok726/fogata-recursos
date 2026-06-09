@@ -1,15 +1,15 @@
 ---
-title: "Un Estudio de pH"
-duration: "1-2 horas"
+title: "Suelos Globales"
+duration: "2-3 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/un-estudio-de-ph/"
-description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
-summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+permalink: "/activities/suelos-globales/"
+description: "Investiga sobre la degradación del suelo en diferentes partes del mundo."
+summary: "Investiga sobre la degradación del suelo en diferentes partes del mundo."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/un-estudio-de-ph.png"
+image: "/imagenes/actividades/suelos-globales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -22,13 +22,12 @@ age_group:
   - caminantes
   - rovers
 materials:
-  - Muestras de suelo
-  - Kit de medición de pH
-tools:
-  - Kit de medición de pH
+  - Mapas
+  - Libros/recursos en línea
 competencies:
   - Investigación
-  - Conciencia científica
+  - Conciencia global
+  - Creatividad
 responsible:
   - Maestro/Dirigente
 ods:
@@ -37,48 +36,55 @@ sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+activity_code: "suelos-X29"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing large world map highlighting regions with soil degradation (Africa, Asia, South America). Adding notes on causes - deforestation, overgrazing, pollution. Colorful markers. World map poster on wall. Bright lighting. Global awareness atmosphere."
+required: true
+required_for:
+  - suelos-X
+required_comment: "Actividad obligatoria"
 tags:
   - Insignia de los Suelos
-location: "Interior / Exterior"
-participants: "4-15"
+location: "Interior"
+participants: "4-20"
 complexity_execution: 3
-complexity_organizer: 3
+complexity_organizer: 2
 accessibility:
   - Todas
 activity_type:
   - Investigación
-  - Aprender haciendo
+  - Creatividad
+  - Arte
 etiquetas:
-  - pH
-  - suelo
-  - acidez
-  - medición
-  - biodiversidad
+  - degradación del suelo
+  - mundial
+  - mapa
+  - causas
+  - soluciones
 category:
-  - Ciencia
-  - Química
+  - Geografía
   - Medio ambiente
+  - Ciudadanía global
 skills:
   - Investigación
-  - Conciencia científica
-main_type: "Investigación"
-space_required: "Salón chico o exterior"
+  - Conciencia global
+  - Creatividad
+main_type: "Creatividad / Arte"
+space_required: "Salón amplio"
 special_materials:
-  - kit de pH (tiras o líquido)
-  - muestras de suelo
-  - recipientes pequeños
-prep_time: "15 min"
+  - mapa base para dibujar
+  - marcadores
+  - acceso a internet
+prep_time: "30 min"
 scout_values:
+  - Hermandad
   - Naturaleza
   - Superación personal
 scout_method:
-  - Aprender haciendo
+  - Sistema de patrullas
   - Educación por la acción
 ludic_component: 3
 reflective_component: 4
-active_component: 2
+active_component: 1
 # ====== References and attachments ======
 #
 # files:
@@ -127,13 +133,13 @@ active_component: 2
 
 ---
 
-# Un Estudio de pH
+# Suelos Globales
 
 ## Resumen
-Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales.
+Investiga sobre la degradación del suelo en diferentes partes del mundo.
 
 ## Desarrollo
-Recolecta muestras de suelo y mide su pH. Compara los resultados con la información sobre qué plantas y animales pueden vivir en cada tipo de suelo.
+Elige una región con suelos degradados y dibuja un mapa mostrando las áreas afectadas. Incluye información sobre causas e impacts.
 
 ## Cierre
-Discute cómo el pH del suelo afecta la biodiversidad.
+Presenta el mapa al grupo y discute las soluciones globales para la degradación del suelo.

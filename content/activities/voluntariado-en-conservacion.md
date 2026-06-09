@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/voluntariado-en-conservacion.png" # 
+image: "/imagenes/actividades/voluntariado-en-conservacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D31"
+image_prompt: "Older scouts ages 14-21 volunteering minimum 8 hours with conservation organization (bird monitoring, wildlife rescue, habitat restoration, park maintenance). Keeping log of activities, learning, impact. Reporting to group. Direct action, career exploration, commitment, hands-on conservation experience atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/verde-o-rojo.png" # 
+image: "/imagenes/actividades/verde-o-rojo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X195"
+image_prompt: "Group of scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Holding green (agree) or red (disagree) cards. Facilitator reads statements - Recycling is enough, I need a car, Meat has high footprint. Participants show cards. Discussing different opinions. Interactive, opinion-sharing, critical thinking atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/usar-el-libro-de-dibujos-sobre-el-derecho-a-la-alimentacion.png" # 
+image: "/imagenes/actividades/usar-el-libro-de-dibujos-sobre-el-derecho-a-la-alimentacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X396"
+image_prompt: "Young scouts ages 5-10 using educational comic book The Right to Food - A Window to the World'. Learning that every person has right to be free from hunger. Discussing food security"
+similar_activities: "global citizenship atmosphere.'"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/vigilancia-en-casa.png" # 
+image: "/imagenes/actividades/vigilancia-en-casa.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X67"
+image_prompt: "Young scout ages 5-15 (mixed) wearing neckerchief at home in Argentina (bedroom or kitchen). Making list on paper - turning off lights saves energy (less mining), not wasting water (less runoff). Creating reminder signs for family (stick on fridge). Pencils, markers, focused expression. Personal responsibility atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

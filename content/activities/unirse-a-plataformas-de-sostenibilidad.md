@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.png" # 
+image: "/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X378"
+image_prompt: "Older scouts ages 16-20 joining online sustainability platforms - UNEP Tunza, FAO Climate Youth, Unite for Climate, blogs. Learning from global community, sharing experiences, participating in challenges. Digital environmental education, global youth network, continuous learning atmosphere."
+similar_activities: "https -//www.unep.org/tunza"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

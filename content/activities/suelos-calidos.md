@@ -1,80 +1,83 @@
 ---
-title: "Un Estudio de pH"
+title: "Suelos cálidos"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/un-estudio-de-ph/"
-description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
-summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+permalink: "/activities/suelos-calidos/"
+description: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
+summary: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/un-estudio-de-ph.png"
+image: "/imagenes/actividades/suelos-calidos.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
+  - manada
   - scouts
-  - caminantes
-  - rovers
 age_group:
+  - manada
   - scouts
-  - caminantes
-  - rovers
 materials:
-  - Muestras de suelo
-  - Kit de medición de pH
-tools:
-  - Kit de medición de pH
+  - Moldes
+  - tierra
+  - arena
+  - agua
+  - termómetros.
 competencies:
-  - Investigación
-  - Conciencia científica
+  - Experimentación
+  - análisis.
 responsible:
-  - Maestro/Dirigente
+  - Maestro/profesor/dirigente.
 ods:
-  - 15
+  - 13
 sdgs:
-  - 15
+  - 13
 activity_badges:
-  - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+  - del-cambio-climatico
+activity_code: "del-cambio-climatico-X231"
+image_prompt: "Young scouts ages 5-15 filling containers with soil, sand, water. Placing in sun. Measuring temperature every 15 minutes. Comparing which heats up fastest (sand/soil) and which stays cooler (water). Discussing implications for urban heat islands, agriculture, climate adaptation. Hands-on science, albedo effect, real-world connections atmosphere."
 tags:
-  - Insignia de los Suelos
-location: "Interior / Exterior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+  - Insignia del Cambio Climático
+location: "Exterior"
+participants: "4-10"
+complexity_execution: 2
+complexity_organizer: 2
 accessibility:
-  - Todas
+  - -Movilidad
 activity_type:
-  - Investigación
-  - Aprender haciendo
+  - Experimentación
+  - Ciencia
 etiquetas:
-  - pH
-  - suelo
-  - acidez
-  - medición
-  - biodiversidad
+  - suelos
+  - calor
+  - absorción
+  - tierra
+  - arena
+  - agua
 category:
   - Ciencia
-  - Química
-  - Medio ambiente
+  - Suelos
+  - Clima
 skills:
-  - Investigación
-  - Conciencia científica
-main_type: "Investigación"
-space_required: "Salón chico o exterior"
+  - Experimentación
+  - análisis
+main_type: "Experimentación"
+space_required: "Exterior abierto"
 special_materials:
-  - kit de pH (tiras o líquido)
-  - muestras de suelo
-  - recipientes pequeños
-prep_time: "15 min"
+  - moldes o recipientes
+  - tierra
+  - arena
+  - agua
+  - termómetros (3)
+  - reloj
+prep_time: "15 min + mediciones"
 scout_values:
-  - Naturaleza
   - Superación personal
 scout_method:
   - Aprender haciendo
+  - Vida al aire libre
   - Educación por la acción
 ludic_component: 3
 reflective_component: 4
@@ -127,13 +130,13 @@ active_component: 2
 
 ---
 
-# Un Estudio de pH
+# Suelos cálidos
 
 ## Resumen
-Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales.
+Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor.
 
 ## Desarrollo
-Recolecta muestras de suelo y mide su pH. Compara los resultados con la información sobre qué plantas y animales pueden vivir en cada tipo de suelo.
+Los participantes llenan moldes con tierra, arena y agua, y miden cómo cada uno absorbe y retiene el calor.
 
 ## Cierre
-Discute cómo el pH del suelo afecta la biodiversidad.
+Los resultados se discuten en grupo.

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/visitar-un-tiradero-de-basura-local.png" # 
+image: "/imagenes/actividades/visitar-un-tiradero-de-basura-local.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X329"
+image_prompt: "Older scouts ages 16-20 visiting local landfill/ dump. Assessing sustainability - methane capture, leachate treatment, recycling rates, working conditions. Interviewing municipal authorities about solutions (recycling programs, composting, waste reduction). Waste management advocacy, environmental justice, policy research atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

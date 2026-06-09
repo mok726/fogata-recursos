@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/un-acto-de-balance.png" # 
+image: "/imagenes/actividades/un-acto-de-balance.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X291"
+image_prompt: "Young scouts ages 7-13 walking with heavy book balanced on head around garden or yard. Then imagining carrying heavy water container (20kg) for many kilometers on rough terrain, as millions do daily. Empathy building, understanding water collection burden, privilege awareness atmosphere."
 tags:
   - Parche del Agua
 location: "Exterior"

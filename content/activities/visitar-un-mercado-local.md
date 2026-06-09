@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/visitar-un-mercado-local.png" # 
+image: "/imagenes/actividades/visitar-un-mercado-local.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X308"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) visiting local Argentine market. Looking at local products - fruits, vegetables, honey, cheese, bread, crafts, wool textiles. Learning difference between local and imported goods. Discussing how buying local reduces transport emissions. Hands-on economic education, local food awareness atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"

@@ -1,15 +1,15 @@
 ---
-title: "Unirse a un Club de Apicultura"
+title: "Ser una Mariposa Social"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/unirse-a-un-club-de-apicultura/"
-description: "Únete a un club de apicultura o crea uno en tu comunidad."
-summary: "Únete a un club de apicultura o crea uno en tu comunidad."
+permalink: "/activities/ser-una-mariposa-social/"
+description: "Lanza una campaña en redes sociales para informar y movilizar a tus amigos y familiares a ayudar a los polinizadores."
+summary: "Lanza una campaña en redes sociales para informar y movilizar a tus amigos y familiares a ayudar a los polinizadores."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/unirse-a-un-club-de-apicultura.png"
+image: "/imagenes/actividades/ser-una-mariposa-social.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -20,62 +20,60 @@ age_group:
   - castores
   - manada
 materials:
-  - Información sobre clubes de apicultura
+  - Dispositivo con acceso a redes sociales
 competencies:
-  - Trabajo en equipo
+  - Comunicación
   - Conciencia ambiental
-  - Responsabilidad
+  - Trabajo en equipo
 responsible:
   - Responsable del grupo
 ods:
-  - 8
+  - 17
 sdgs:
-  - 8
+  - 17
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X117"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentina. Researching local beekeeping clubs online. Joining or starting club with friends and family. Meeting beekeepers, learning about hive management, swarm catching, honey harvesting. Long-term engagement, community building atmosphere."
+activity_code: "polinizadores-X108"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) using phone or computer in Argentine home or scout room. Creating social media post with photo of bee or flower. Writing actions - plant flowers, avoid pesticides, provide water. Using hashtags #SalvemosALasAbejas. Parents sharing. Digital advocacy, reach atmosphere."
 tags:
   - Insignia de Polinizadores
-location: "Interior / Exterior"
-participants: "3-15"
-complexity_execution: 3
-complexity_organizer: 3
+location: "Interior"
+participants: "2-10"
+complexity_execution: 2
+complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:
   - Servicio a los demás
-  - Investigación
+  - Comunicación
 etiquetas:
-  - club de apicultura
-  - abejas
-  - apicultores
-  - comunidad
-  - aprendizaje
+  - redes sociales
+  - campaña
+  - hashtag
+  - conciencia
+  - acción diaria
 category:
-  - Comunidad
-  - Agricultura
+  - Comunicación
+  - Tecnología
   - Medio ambiente
 skills:
-  - Trabajo en equipo
+  - Comunicación
   - Conciencia ambiental
-  - Responsabilidad
+  - Trabajo en equipo
 main_type: "Servicio a los demás"
-space_required: "Salón amplio o exterior"
+space_required: "Salón chico"
 special_materials:
-  - acceso a internet
-  - contacto con clubes locales
-prep_time: "30 min (investigación) + seguimiento"
+  - celular o computadora con acceso a redes
+prep_time: "20 min"
 scout_values:
   - Hermandad
+  - Naturaleza
   - Servicio a los demás
-  - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
 ludic_component: 3
-reflective_component: 4
-active_component: 2
+reflective_component: 3
+active_component: 1
 # ====== References and attachments ======
 #
 # files:
@@ -124,15 +122,15 @@ active_component: 2
 
 ---
 
-# Unirse a un Club de Apicultura
+# Ser una Mariposa Social
 
 ## Resumen
-Únete a un club de apicultura o crea uno en tu comunidad.
+Lanza una campaña en redes sociales para informar y movilizar a tus amigos y familiares a ayudar a los polinizadores.
 
 ## Desarrollo
-1. Busca clubes de apicultura locales en línea o en mercados de agricultores.
-2. Únete a un club o crea uno nuevo con amigos y familiares.
-3. Aprende sobre la apicultura y cómo proteger a las abejas.
+1. Lanza una campaña en redes sociales pidiendo a tus amigos y familiares que tomen una acción diaria para ayudar a los polinizadores.
+2. Proporciona instrucciones simples sobre cómo hacer sus jardines y estilos de vida más amigables para los polinizadores.
+3. Usa hashtags como #SalvemosALasAbejas o #DíaMundialDeLasAbejas.
 
 ## Cierre
-¿Qué aprendiste sobre la apicultura? ¿Cómo podemos apoyar a los apicultores y conservar las abejas?
+¿Cuántas personas se unieron a la campaña? ¿Qué acciones tomaron para ayudar a los polinizadores?

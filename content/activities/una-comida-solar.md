@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/una-comida-solar.png" # 
+image: "/imagenes/actividades/una-comida-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X129"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Using previously built solar oven. Preparing simple ingredients (rice, vegetables, water for tea). Placing pot inside oven. Waiting for sun to cook. Sharing solar-cooked meal together. Sustainable cooking, patience, community meal atmosphere."
 tags:
   - Go Solar
 location: "Exterior"

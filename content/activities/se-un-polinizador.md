@@ -1,83 +1,79 @@
 ---
-title: "Un Estudio de pH"
-duration: "1-2 horas"
+title: "Sé un Polinizador"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
-permalink: "/activities/un-estudio-de-ph/"
-description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
-summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+permalink: "/activities/se-un-polinizador/"
+description: "Realiza la polinización tú mismo y aprende sobre el proceso."
+summary: "Realiza la polinización tú mismo y aprende sobre el proceso."
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/un-estudio-de-ph.png"
+image: "/imagenes/actividades/se-un-polinizador.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
-  - scouts
-  - caminantes
-  - rovers
+  - castores
+  - manada
 age_group:
-  - scouts
-  - caminantes
-  - rovers
+  - castores
+  - manada
 materials:
-  - Muestras de suelo
-  - Kit de medición de pH
-tools:
-  - Kit de medición de pH
-competencies:
-  - Investigación
-  - Conciencia científica
+  - Flores con polen
+  - Pincel o dedo
 responsible:
-  - Maestro/Dirigente
+  - Responsable del grupo
 ods:
+  - 1
+  - 2
   - 15
 sdgs:
+  - 1
+  - 2
   - 15
 activity_badges:
-  - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+  - polinizadores
+activity_code: "polinizadores-X77"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. One scout using small paintbrush to collect yellow pollen from flower. Gently transferring pollen to another flower. Another scout using finger. Teacher or leader explaining process. Sunny day, flowering plants. Playful, educational atmosphere."
 tags:
-  - Insignia de los Suelos
-location: "Interior / Exterior"
+  - Insignia de Polinizadores
+location: "Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+complexity_execution: 1
+complexity_organizer: 1
 accessibility:
-  - Todas
+  - -Movilidad
 activity_type:
-  - Investigación
   - Aprender haciendo
+  - Juego
 etiquetas:
-  - pH
-  - suelo
-  - acidez
-  - medición
-  - biodiversidad
+  - polinización
+  - polen
+  - pincel
+  - flor
+  - reproducción
 category:
+  - Botánica
   - Ciencia
-  - Química
-  - Medio ambiente
+  - Naturaleza
 skills:
-  - Investigación
-  - Conciencia científica
-main_type: "Investigación"
-space_required: "Salón chico o exterior"
+  - Observación
+  - Conocimiento científico
+  - Trabajo manual
+main_type: "Aprender haciendo"
+space_required: "Exterior abierto"
 special_materials:
-  - kit de pH (tiras o líquido)
-  - muestras de suelo
-  - recipientes pequeños
-prep_time: "15 min"
+  - pinceles pequeños (1 por participante)
+prep_time: "10 min"
 scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
-ludic_component: 3
-reflective_component: 4
+  - Vida al aire libre
+ludic_component: 4
+reflective_component: 3
 active_component: 2
 # ====== References and attachments ======
 #
@@ -127,13 +123,16 @@ active_component: 2
 
 ---
 
-# Un Estudio de pH
+# Sé un Polinizador
 
 ## Resumen
-Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales.
+Realiza la polinización tú mismo y aprende sobre el proceso.
 
 ## Desarrollo
-Recolecta muestras de suelo y mide su pH. Compara los resultados con la información sobre qué plantas y animales pueden vivir en cada tipo de suelo.
+1. Encuentra una flor que tenga granos de polen.
+2. Usa un pincel o tu dedo para recolectar un poco de polen.
+3. Extiende el polen a otras flores.
+4. Imagina hacer esto para cientos de flores en un día.
 
 ## Cierre
-Discute cómo el pH del suelo afecta la biodiversidad.
+¿Qué aprendiste sobre el trabajo de los polinizadores? ¿Cómo podemos ayudar a los polinizadores en nuestra comunidad?

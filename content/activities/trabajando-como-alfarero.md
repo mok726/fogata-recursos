@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/trabajando-como-alfarero.png" # 
+image: "/imagenes/actividades/trabajando-como-alfarero.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X47"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine pottery workshop. Working with clay on pottery wheel or by hand. Potter demonstrating technique. One scout shaping bowl, another making small pot. Clay on hands, focused expressions. Shelves with finished pottery. Creative, hands-on atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

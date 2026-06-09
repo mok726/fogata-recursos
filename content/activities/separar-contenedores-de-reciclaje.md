@@ -1,74 +1,85 @@
 ---
-title: "Unirse a la lucha contra el hambre"
+title: "Separar contenedores de reciclaje"
 duration: "1 mes"
 layout: "layouts/activity.njk"
-permalink: "/activities/unirse-a-la-lucha-contra-el-hambre/"
+permalink: "/activities/separar-contenedores-de-reciclaje/"
 description: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
+  Esta actividad es parte del grupo de actividades - Actúa.
+  Asegúrate de tener contenedores separados para reciclar.
 summary: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
+  Esta actividad es parte del grupo de actividades - Actúa.
+  Asegúrate de tener contenedores separados para reciclar.
 author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/unirse-a-la-lucha-contra-el-hambre.png"
+image: "/imagenes/actividades/separar-contenedores-de-reciclaje.png"
 # original: "False" # 
 branch:
   - Naturaleza
 age:
-  - scouts
+  - castores
+  - manada
 age_group:
-  - scouts
+  - castores
+  - manada
 materials:
-  - Acceso a internet
+  - Contenedores para reciclaje
+  - Papel y lápiz
 competencies:
-  - Conciencia social
-  - Participación global
+  - Conciencia ambiental
+  - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
 ods:
-  - 2
+  - 12
 sdgs:
-  - 2
+  - 12
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X397"
-image_prompt: "Older scouts ages 11-15 joining Feeding Minds online youth network. Connecting with young people worldwide fighting hunger and malnutrition. Learning about global food issues. Taking action - fundraising, awareness campaigns, advocacy. Global youth movement, anti-hunger activism, digital solidarity atmosphere."
-similar_activities: "https -//www.feedingminds.org/"
+activity_code: "seguridad-alimentaria-y-cambio-climatico-X330"
+image_prompt: "Young scouts ages 5-10 setting up separate recycling bins at home and school - plastic, paper, cans, glass, biodegradable. Making labels for each bin. Learning proper sorting. Daily habit formation, waste separation, responsibility for recycling atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
+complexity_execution: 1
 complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:
-  - Participación
-  - Activismo
+  - Organización
+  - Reciclaje
 etiquetas:
-  - lucha contra el hambre
-  - jóvenes
-  - mundial
-  - alimentación
-  - solidaridad
+  - contenedores
+  - reciclaje
+  - separación
+  - plástico
+  - papel
+  - vidrio
+  - biodegradables
 category:
-  - Activismo
-  - Derechos
-  - Alimentación
+  - Reciclaje
+  - Hogar
+  - Escuela
 skills:
-  - Conciencia social
-  - Participación global
+  - Conciencia ambiental
+  - Hábitos sostenibles
 main_type: "Servicio a los demás"
-space_required: "Salón amplio"
-prep_time: "20 min + seguimiento"
+space_required: "Salón amplio (para crear) + hogar/escuela"
+special_materials:
+  - contenedores (cajas o baldes)
+  - papel
+  - marcadores
+  - pegamento
+  - tijeras
+prep_time: "20 min"
+scout_values:
+  - Responsabilidad
 scout_method:
   - Educación por la acción
-  - Servicio comunitario
-ludic_component: 2
-reflective_component: 4
+ludic_component: 3
+reflective_component: 2
 active_component: 1
 # ====== References and attachments ======
 #
@@ -118,14 +129,14 @@ active_component: 1
 
 ---
 
-# Unirse a la lucha contra el hambre
+# Separar contenedores de reciclaje
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Todos tienen derecho a la alimentación.
-Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
+Esta actividad es parte del grupo de actividades: Actúa.
+Asegúrate de tener contenedores separados para reciclar.
 
 ## Desarrollo
-Únete a los niños y a los jóvenes alrededor de todo el planeta para crear un mundo libre de hambre y malnutrición: www.feedingminds.org/yw/index_es.htm
+Asegúrate de tener contenedores separados para materiales de plástico, papel, latas, vidrios y materiales biodegradables en tu casa y en tu escuela. Haz letreros para cada contenedor.
 
 ## Cierre
-Reflexiona sobre cómo puedes contribuir a un mundo libre de hambre.
+Reflexiona sobre cómo la separación de residuos puede facilitar el reciclaje.

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/variedades-raras-de-cultivos.png" # 
+image: "/imagenes/actividades/variedades-raras-de-cultivos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C12"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine farms or farmers markets. Identifying 5 rare crop varieties (heirloom tomatoes, purple corn, native potatoes, local beans). Documenting their special characteristics, where grown, how differ from common varieties. Learning what threatens them (industrial agriculture, seed patents). Taking action - saving seeds, promoting at markets, planting in community garden. Crop diversity conservation, food sovereignty, genetic resource protection atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

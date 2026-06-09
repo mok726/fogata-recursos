@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/un-clima-que-da-vida.png" # 
+image: "/imagenes/actividades/un-clima-que-da-vida.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X226"
+image_prompt: "Scouts ages 5-21 interviewing family or community members about how climate affects their lives - farmers on growing seasons, fishers on fish migration, elderly on changing weather patterns. Sharing interviews with group. Community connection, climate relevance, oral history atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior / Exterior"

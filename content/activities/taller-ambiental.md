@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/taller-ambiental.png" # 
+image: "/imagenes/actividades/taller-ambiental.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D25"
+image_prompt: "Older scouts ages 14-21 designing and facilitating environmental workshop (composting, native plants, energy saving) for families and friends. Preparing materials, hands-on activities, discussion questions. Leading session. Peer education, public speaking, environmental literacy, community teaching atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/tour-guiado-de-cuenca.png" # 
+image: "/imagenes/actividades/tour-guiado-de-cuenca.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B02"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs leading community tour of local watershed. Pointing out natural water sources, agricultural runoff, industrial inputs. Explaining roles of aquatic plants and animals (algae, fish, macroinvertebrates). Inviting families to participate. Environmental education, public speaking, local water advocacy atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.png" # 
+image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-A10"
+image_prompt: "Older scouts ages 11-21 visiting same forest plot in two different seasons (spring/summer vs autumn/winter). Recording observations - leaf color, flowers, animal activity, temperature, sounds, smells. Creating photo collage or video or journal series. Seasonal forest ecology, long-term observation, phenology awareness, creative documentation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior"

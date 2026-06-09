@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/usar-el-agua-sabiamente.png" # 
+image: "/imagenes/actividades/usar-el-agua-sabiamente.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X353"
+image_prompt: "Young scouts ages 5-10 brainstorming water-saving tips - turn off tap while brushing, shorter showers, fix leaks, collect rainwater, water plants in evening. Drawing pictures. Displaying at home/school. Creative water conservation, visual communication, habit formation atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
