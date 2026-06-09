@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png" # 
+image: "/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png" 
 # original: "False" # 
 branch:
   - Naturaleza
