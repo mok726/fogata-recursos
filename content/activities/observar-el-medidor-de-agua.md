@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/observar-el-medidor-de-agua.png" # 
+image: "/imagenes/actividades/observar-el-medidor-de-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X358"
+image_prompt: "Older scouts ages 16-20 observing home water meter with adult supervision. Recording weekly consumption. Creating reduction plan (fix leaks, efficient appliances, behavioral changes). Implementing for one month. Measuring reduction. Water data literacy, consumption awareness, targeted conservation atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

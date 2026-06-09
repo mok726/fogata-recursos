@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png" # 
+image: "/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X372"
+image_prompt: "Older scouts ages 16-20 organizing swap meet/barter event - people bring unwanted items (clothes, books, toys, small furniture), exchange instead of buying new. Promoting circular economy, waste reduction, community building, event coordination atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

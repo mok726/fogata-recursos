@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/optimizar-el-uso-del-refrigerador.png" # 
+image: "/imagenes/actividades/optimizar-el-uso-del-refrigerador.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X383"
+image_prompt: "Older scouts ages 11-15 helping parents with refrigerator maintenance - proper temperature setting (not below 5°C), regular defrosting, cleaning coils, checking door seals. Learning that lower temperature wastes energy without preserving food better. Energy efficiency, appliance care, household sustainability atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

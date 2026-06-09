@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/operacion-contra-la-basura.png" # 
+image: "/imagenes/actividades/operacion-contra-la-basura.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -25,6 +25,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X19"
+image_prompt: "Public park in Argentina (green grass, benches, typical trees like jacarandás or ombúes, no flags), sunny day. Four young adults ages 18-25 (two men, two women, diverse - Asian features, Afro hair, two white with different hair colors) wearing casual clothes (t-shirts, jeans, sneakers, one with cap). Conducting surveys. One pair (curly hair woman, glasses man) interviewing middle-aged woman sitting on bench. Young woman holds clipboard with survey form and pen. Young man holds tablet showing simple bar charts with icons. Background another pair doing same with older man. Trash can visible with some litter next to it. Engaged, curious, friendly expressions. Sociological, community-focused, respectful atmosphere."
 location: "Exterior"
 participants: "6-20"
 complexity_execution: 3

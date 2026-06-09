@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/organizar-un-campamento-sostenible.png" # 
+image: "/imagenes/actividades/organizar-un-campamento-sostenible.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X336"
+image_prompt: "Older scouts ages 16-20 planning and organizing sustainable summer camp - local organic food, recycling and composting system, Leave No Trace principles, water conservation, solar power for charging, river/lake cleanup activity. Incorporating climate change and food security education for local participants. Sustainable event management, environmental education, camping skills atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

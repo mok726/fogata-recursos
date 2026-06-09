@@ -12,7 +12,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/observa-tu-agua.png" # 
+image: "/imagenes/actividades/observa-tu-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,8 @@ sdgs:
 activity_badges:
   - del-agua-obligatoria
 activity_code: "del-agua-obligatoria-X270"
+image_prompt: "Older scouts ages 11-15 keeping water diary at home - brushing teeth, showering, flushing toilet, washing dishes, laundry, watering plants. Calculating usage. Identifying waste (leaky faucets, long showers). Implementing savings - shorter showers, turning off tap while brushing. Comparing with friends. Making long-term commitment. Water conservation, household audit, behavior change atmosphere."
+similar_activities: "https -//water.usgs.gov/gotita/sc4.html"
 required: true
 required_for:
   - del-agua-obligatoria-X

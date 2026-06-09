@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/organizar-una-colecta-de-donaciones.png" # 
+image: "/imagenes/actividades/organizar-una-colecta-de-donaciones.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X334"
+image_prompt: "Older scouts ages 16-20 organizing door-to-door collection of clothes, books, toys, non-perishable food, small furniture. Donating to charities or selling to raise funds for cause. Reducing waste while helping others. Circular economy, solidarity, logistics coordination atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

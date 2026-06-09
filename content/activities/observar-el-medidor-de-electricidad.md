@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/observar-el-medidor-de-electricidad.png" # 
+image: "/imagenes/actividades/observar-el-medidor-de-electricidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X347"
+image_prompt: "Older scouts ages 11-15 observing home electricity meter with adult supervision. Checking if meter still spins after turning off lights. Identifying phantom loads (standby power). Recording weekly consumption. Reducing by unplugging devices. Energy monitoring, data literacy, standby power awareness, behavior change atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

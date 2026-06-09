@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png" # 
+image: "/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X327"
+image_prompt: "Older scouts ages 16-20 organizing World Food Day (Oct 16) activities - cooking competitions, nutrition workshops, poster contests, food waste awareness, local food tasting, panel discussions. Educating community on balanced diets, sustainable food choices, reducing food waste. Large-scale event planning, food systems education, community engagement atmosphere."
+similar_activities: "https -//www.fao.org/worldfoodday"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

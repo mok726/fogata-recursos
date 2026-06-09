@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/observando-el-tiempo.png" # 
+image: "/imagenes/actividades/observando-el-tiempo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X57"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Checking soil moisture after rain. Observing cracks in dry soil. Taking photos or drawing in journal over weeks. One scout touching soil, another writing date and observations. Sunny or cloudy day. Patient, scientific atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior"

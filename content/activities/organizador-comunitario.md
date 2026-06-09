@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/organizador-comunitario.png" # 
+image: "/imagenes/actividades/organizador-comunitario.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X338"
+image_prompt: "Older scouts ages 16-20 organizing community awareness event on local environmental issue. Setting specific goal. Creating banner and posters. Contacting local TV, radio, newspapers. Following 350.org 9-step plan. Engaging as many people as possible. Large-scale community organizing, media relations, civic leadership, impactful advocacy atmosphere."
+similar_activities: "https -//www.350.org/es/"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
