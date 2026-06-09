@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/impresiones-de-esporas-de-hongos.png" # 
+image: "/imagenes/actividades/impresiones-de-esporas-de-hongos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A08"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Collecting 3 non-poisonous mushrooms with adult supervision. Placing mushroom caps gill-side down on paper (white for dark spores, black for light spores). Covering with glass. After few hours, observing spore print patterns. Comparing species. Fungal diversity, scientific discovery atmosphere."
+similar_activities: "https -//www.unpocodetodo.info/setas/agar4.html"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

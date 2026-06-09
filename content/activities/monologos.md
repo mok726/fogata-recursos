@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/monologos.png" # 
+image: "/imagenes/actividades/monologos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X60"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Two teams sitting facing each other. One team arguing for monoculture (efficiency, higher yields). Other team arguing against (soil depletion, biodiversity loss). Leader moderating. Passionate, thoughtful debate atmosphere. Whiteboard with pros/cons columns."
 tags:
   - Insignia de los Suelos
 location: "Interior"

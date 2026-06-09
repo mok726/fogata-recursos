@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/logrando-los-ods.png" # 
+image: "/imagenes/actividades/logrando-los-ods.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ responsible:
 activity_badges:
   - energia
 activity_code: "energia-X185"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Choosing an SDG (Clean Energy, Climate Action, Responsible Consumption). Creating poster with concrete actions - use LED bulbs, walk to school, recycle, plant trees. Exhibiting in school or community center. Creative advocacy, public awareness atmosphere."
 required: true
 required_for:
   - energia-X

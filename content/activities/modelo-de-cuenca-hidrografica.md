@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/modelo-de-cuenca-hidrografica.png" # 
+image: "/imagenes/actividades/modelo-de-cuenca-hidrografica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B01"
+image_prompt: "Scouts ages 7-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor area. Building watershed model using soil, rocks, recycled containers. Creating mountains, valleys, river channels. Simulating rain with spray bottle, observing runoff from farm and industrial areas. Discussing how plants and animals use watershed. Hands-on hydrology, erosion awareness, systems thinking atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

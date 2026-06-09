@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mi-huella-de-carbono.png" # 
+image: "/imagenes/actividades/mi-huella-de-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X163"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Sitting in circle. Passing ball while music plays. When stops, person holding ball says action to reduce carbon footprint - turn off lights, walk to school, recycle, eat less meat. Fun, quick-thinking, climate awareness atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

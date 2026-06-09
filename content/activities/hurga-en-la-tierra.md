@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hurga-en-la-tierra.png" # 
+image: "/imagenes/actividades/hurga-en-la-tierra.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X257"
+image_prompt: "Older scouts ages 11-15 experimenting with soil erosion. Pouring water from pitcher (river) and watering can (rain) over different soil types - sand, clay, loam. Observing which erodes fastest. Discussing consequences - loss of farmland, water pollution. Hands-on earth science, erosion awareness, conservation solutions atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior"

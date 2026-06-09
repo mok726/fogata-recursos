@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/intercambio-internacional-de-recetas.png" # 
+image: "/imagenes/actividades/intercambio-internacional-de-recetas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X277"
+image_prompt: "Older scouts ages 11-15 writing favorite recipe, calculating water footprint of each ingredient. Comparing recipes - beef stew (high) vs vegetable soup (low). Voting on recipe to cook together. Cooking and eating. Food-water literacy, cross-cultural recipes, collaborative cooking atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

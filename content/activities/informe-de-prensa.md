@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/informe-de-prensa.png" # 
+image: "/imagenes/actividades/informe-de-prensa.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C18"
+image_prompt: "Older scouts ages 16-21 interviewing indigenous person (Mapuche, Guaraní, Wichí, Qom) about forest challenges - land rights, deforestation, resource extraction, cultural preservation, climate impacts. Writing newspaper article or creating radio show. Getting interviewee approval, fact-checking, potentially publishing locally. Ethical journalism, indigenous rights, amplifying marginalized voices, forest justice atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

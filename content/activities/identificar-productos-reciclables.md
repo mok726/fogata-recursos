@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/identificar-productos-reciclables.png" # 
+image: "/imagenes/actividades/identificar-productos-reciclables.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X371"
+image_prompt: "Older scouts ages 11-15 researching local recyclables - paper, plastic (#1,2), glass, aluminum, tin cans, cardboard. Learning how they're recycled. Creating signs for home/school recycling bins. Recycling literacy, waste sorting, community education atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

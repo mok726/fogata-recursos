@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/moda-sostenible.png" # 
+image: "/imagenes/actividades/moda-sostenible.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D18"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) creating fashion item or jewelry inspired by biodiversity using natural fibers (cotton, wool, linen) or recycled materials. Organizing biodiversity fashion show with group. Explaining materials and inspiration. Sustainable fashion, biomimicry, creative reuse, body confidence atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

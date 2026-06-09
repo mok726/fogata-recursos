@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.png" # 
+image: "/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X322"
+image_prompt: "Older scouts ages 11-15 inventing toys or games from recycled materials - cardboard box board game, bottle cap checkers, plastic bottle bowling, tin can stilts, milk carton boats. Testing with friends. Creative reuse, hands-on construction, play-based learning atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

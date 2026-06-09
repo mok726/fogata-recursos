@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-ciencia-del-agua.png" # 
+image: "/imagenes/actividades/la-ciencia-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X268"
+image_prompt: "Older scouts ages 14-17 researching water's unique properties - high specific heat, cohesion/adhesion, universal solvent, density anomaly (ice floats), surface tension. Learning how these support life. Sharing five most important facts. Chemistry/physics appreciation, water molecule wonder, scientific literacy atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

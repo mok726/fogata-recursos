@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png" # 
+image: "/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,8 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X04"
+image_prompt: "Four young scouts (7-10 years old, two boys, two girls, diverse ethnicities - Afro hair, blonde, braids) wearing scout neckerchiefs, sitting around wooden table in scout den in Argentina. Creating mosaic with colorful plastic bottle caps (red, blue, yellow, green). One gluing caps, one sorting caps, one placing final caps to complete flower design. Small hands carefully working. Glue bottles, scissors, markers on table. Children smiling and focused. Natural daylight from window showing Argentine suburban backyard. Creative, collaborative atmosphere."
+similar_activities: "https -//manualidades.facilisimo.com/como-hice-mi-primera-botella-mosaico_2240936.html\nhttps -//es.spiritsglass.com/blog/what-are-some-creative-uses-for-bottle-caps-1542385.html\nhttps -//www.univision.com/estilo-de-vida/asi-se-vive-mejor-hogar/5-manualidades-sencillas-hechas-con-tapas\nhttps -//artesanialara.es/botella-con-mosaico-de-dvds/"
 location: "Ambos"
 participants: "5-20"
 complexity_execution: 2

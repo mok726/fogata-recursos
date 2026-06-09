@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/meditaciones-en-el-museo.png" # 
+image: "/imagenes/actividades/meditaciones-en-el-museo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X50"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine museum (Museo de Bellas Artes or similar). Looking at ceramic pots and clay sculptures. Guide or scout leader explaining how clay comes from soil. One scout taking photo of pottery. Others reading informational plaques. Quiet, respectful, cultural atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

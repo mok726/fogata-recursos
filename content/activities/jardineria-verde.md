@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/jardineria-verde.png" # 
+image: "/imagenes/actividades/jardineria-verde.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X66"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or schoolyard. Building compost bin with food scraps, leaves, soil. One scout adding vegetable peels, another mixing with shovel. Container or pile in corner. Later checking decomposition progress. Sunny day. Sustainable, hands-on, patient atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior"

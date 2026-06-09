@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/juega-a-salvar-el-oceano.png" # 
+image: "/imagenes/actividades/juega-a-salvar-el-oceano.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -22,6 +22,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X03"
+image_prompt: "Close-up of small hands of child age 7-10 holding smartphone. Child has light brown skin. In background two other children (girl with pigtails, boy with glasses) watching over shoulder, curious expressions. Diverse group - white, Asian, mestizo. Casual colorful clothes (t-shirts with cartoon characters, shorts). Phone screen shows colorful ocean game with cartoon boat, fish, floating plastic bottles. Green checkmark symbol. Typical Argentine home or school setting. Bright blue and green colors. Playful, excited mood."
 location: "Interior"
 participants: "4-20"
 complexity_execution: 1

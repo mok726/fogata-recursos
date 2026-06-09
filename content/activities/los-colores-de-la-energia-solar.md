@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-colores-de-la-energia-solar.png" # 
+image: "/imagenes/actividades/los-colores-de-la-energia-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -48,6 +48,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X120"
+image_prompt: "Group of scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Plastic bottles painted different colors (white, black, red, blue, green) filled with water. Measuring temperature with thermometer before and after 30 minutes in sun. Recording results on clipboard. Comparing which bottle got hottest. Scientific investigation, data collection atmosphere."
 tags:
   - Go Solar
 location: "Exterior"

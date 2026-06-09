@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/midiendo-el-clima.png" # 
+image: "/imagenes/actividades/midiendo-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X230"
+image_prompt: "Older scouts ages 11-21 building a weather station - thermometer (temperature), rain gauge (precipitation), wind vane (direction), anemometer (wind speed), barometer (pressure). Installing in scout garden or school yard. Taking daily measurements. Contributing to local weather data or citizen science project. Hands-on meteorology, data collection, scientific equipment literacy atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Exterior"

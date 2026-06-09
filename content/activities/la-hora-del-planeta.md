@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-hora-del-planeta.png" # 
+image: "/imagenes/actividades/la-hora-del-planeta.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,8 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X186"
+image_prompt: "Group of scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor space on Earth Hour night (March, 8 -30pm). Turning off all lights. Doing shadow puppets, storytelling by candlelight or lanterns. Documenting with photos. Feeling energy dependence. Global solidarity, fun, awareness atmosphere."
+similar_activities: "https -//www.horadelplaneta.org/"
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

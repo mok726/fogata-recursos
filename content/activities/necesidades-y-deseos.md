@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/necesidades-y-deseos.png" # 
+image: "/imagenes/actividades/necesidades-y-deseos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -25,6 +25,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X10"
+image_prompt: "Four older teenagers ages 14-17 (two girls, two boys, diverse - Asian, Black, two white) sitting at large desk in classroom or community center in Argentina. Casual varied clothes - band t-shirt, flannel shirt, hoodie, dress. On desk large paper divided in two columns. Left column has water drop, bread, house icons. Right column has toy, decoration, gadget icons. Red arrow from right column to trash can symbol. Green arrow from left column to recycling symbol. One girl pointing at left column. One boy scratching chin thoughtfully. Small plant and glass of water on desk. Soft natural light from window. Introspective, thoughtful atmosphere."
 location: "Interior"
 participants: "6-20"
 complexity_execution: 2

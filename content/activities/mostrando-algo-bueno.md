@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mostrando-algo-bueno.png" # 
+image: "/imagenes/actividades/mostrando-algo-bueno.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X62"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Presenting about Soil Organic Matter (MOS) with poster showing decomposition cycle, nutrient retention, water holding capacity. One scout explaining how compost adds MOS. Others taking notes. Whiteboard with diagrams. Educational, science-focused atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

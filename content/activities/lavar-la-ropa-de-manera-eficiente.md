@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png" # 
+image: "/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X356"
+image_prompt: "Older scouts ages 11-15 adopting efficient laundry habits - full loads only, hang-drying clothes instead of dryer, using cold water when possible. Saving water, electricity, and detergent. Encouraging family and friends. Household efficiency, resource conservation, simple daily actions atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

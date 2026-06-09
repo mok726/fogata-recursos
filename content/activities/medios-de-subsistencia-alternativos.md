@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/medios-de-subsistencia-alternativos.png" # 
+image: "/imagenes/actividades/medios-de-subsistencia-alternativos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B02"
+image_prompt: "Older scouts ages 11-21 listing non-timber forest products - fruits, nuts, medicinal plants, mushrooms, latex, honey, fibers for crafts, bamboo. Creating educational matching game or board game about forest livelihoods. Forest economy awareness, informal sector recognition, peer education through play atmosphere."
 required: true
 required_for:
   - bosques-B

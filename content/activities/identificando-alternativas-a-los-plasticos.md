@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/identificando-alternativas-a-los-plasticos.png" # 
+image: "/imagenes/actividades/identificando-alternativas-a-los-plasticos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X09"
+image_prompt: "Scout meeting room in Argentina. Large blackboard divided in two columns. Left column shows drawings of plastic bottle, straw, bag. Right column shows glass bottle, metal straw, cloth bag. Scout leader standing in front holding chalk. Four older teenage scouts ages 14-17 (two girls, two boys, diverse - hijab, dyed blue hair, Afro, white) sitting at tables taking notes, wearing scout neckerchiefs. Bright even lighting from windows showing Argentine cityscape. Teenagers look analytical and engaged. Educational, solution-oriented atmosphere."
 location: "Interior"
 participants: "6-20"
 complexity_execution: 2

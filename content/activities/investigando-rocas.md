@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigando-rocas.png" # 
+image: "/imagenes/actividades/investigando-rocas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X35"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or scout room. Collecting rocks from ground. Examining them with magnifying glasses. Comparing colors, shapes, textures. One scout showing interesting rock to others. Notebook with drawings. Sunny outdoor or bright indoor setting. Curious, scientific atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior / Interior"

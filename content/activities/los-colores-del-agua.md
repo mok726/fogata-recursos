@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-colores-del-agua.png" # 
+image: "/imagenes/actividades/los-colores-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X259"
+image_prompt: "Older scouts ages 11-15 photographing water in different settings - river rapids (white foam), lake at sunset (orange/pink reflections), ocean waves (blue/green), puddle (muddy brown), ice crystals, steam. Printing favorites. Organizing photo exhibition for parents and friends. Artistic appreciation, observation skills, water beauty celebration atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior"

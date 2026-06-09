@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/modelo-de-generacion-energetica.png" # 
+image: "/imagenes/actividades/modelo-de-generacion-energetica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X147"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing map of Argentina marking energy sources - solar in north, wind in Patagonia, hydro in Comahue, fossil fuels in various regions. Building small model of renewable energy (wind turbine, solar panel) using recycled materials. Presenting to group. Engineering, environmental awareness atmosphere."
 required: true
 required_for:
   - energia-X

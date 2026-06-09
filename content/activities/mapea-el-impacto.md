@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mapea-el-impacto.png" # 
+image: "/imagenes/actividades/mapea-el-impacto.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X219"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing large world map. Labeling climate impacts - droughts in Africa, floods in Asia, melting ice in Arctic, wildfires in Australia, rising seas in Pacific islands. Collaborative mapping, global climate awareness, visual advocacy atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-gallina-ciega.png" # 
+image: "/imagenes/actividades/la-gallina-ciega.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X252"
+image_prompt: "Young scouts ages 5-10 in Argentine scout room. Blindfolded participant points to body part on large drawing. Tells story about water and that body part - eyes (tears), mouth (saliva, drinking), skin (sweat), blood (mostly water), brain (needs water to think). Learning water's role in human body. Fun, educational, body awareness atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

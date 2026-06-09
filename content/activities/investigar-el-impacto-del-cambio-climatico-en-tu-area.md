@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.png" # 
+image: "/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X313"
+image_prompt: "Older scouts ages 16-20 researching climate change impacts on their Argentine region - droughts in Cuyo, floods in Buenos Aires, glacial retreat in Andes, sea level rise in coastal areas, heat waves. Creating report. Discussing adaptation strategies with group. Local climate vulnerability, scientific research, community preparedness atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

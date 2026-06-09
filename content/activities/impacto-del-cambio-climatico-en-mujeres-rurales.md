@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.png" # 
+image: "/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X394"
+image_prompt: "Older scouts ages 16-20 researching gendered impacts of climate change - women rural farmers produce 45-80% of food in developing countries but have less access to resources. Climate change increases their workload (water collection, food production). Learning about intersection of gender, climate, and food security. Gender equality advocacy, climate justice, empowerment atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

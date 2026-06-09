@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-seguridad-es-primero.png" # 
+image: "/imagenes/actividades/la-seguridad-es-primero.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B03"
+image_prompt: "Older scouts ages 11-21 researching forest worker safety regulations - hard hats, steel-toed boots, hi-vis vests, gloves, hearing protection, fall protection, chainsaw safety. Creating safety checklist for forest visits. Occupational safety awareness, risk prevention, responsible forest recreation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

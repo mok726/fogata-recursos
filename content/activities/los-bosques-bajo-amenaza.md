@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-bosques-bajo-amenaza.png" # 
+image: "/imagenes/actividades/los-bosques-bajo-amenaza.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D01"
+image_prompt: "Older scouts ages 11-21 creating collage/poster about forest threats (deforestation for agriculture, illegal logging, fires, mining, infrastructure, invasive species, climate change) and solutions (sustainable forestry, protected areas, reforestation, certification, consumer choices). Artist statement explaining impacts and actions. Public exhibition. Environmental art, visual advocacy, forest conservation communication atmosphere."
 required: true
 required_for:
   - bosques-D

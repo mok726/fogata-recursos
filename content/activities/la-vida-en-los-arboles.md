@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-vida-en-los-arboles.png" # 
+image: "/imagenes/actividades/la-vida-en-los-arboles.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C17"
+image_prompt: "Older scouts ages 11-21 researching two tree-dwelling cultures - 1) Korowai people (Papua, Indonesia) build houses 6-50 meters high for protection, 2) Baka people (Congo Basin) build elevated platforms, 3) Amazonian tribes build raised dwellings for flood protection, 4) Pacific Northwest totem poles and cedar longhouses (not in trees but using forest materials). Building miniature replica (model) of one type of forest dwelling. Cultural architecture, indigenous housing, model-making skills, forest materials appreciation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

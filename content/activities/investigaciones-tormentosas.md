@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigaciones-tormentosas.png" # 
+image: "/imagenes/actividades/investigaciones-tormentosas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X246"
+image_prompt: "Older scouts ages 11-21 researching El Niño and La Niña - what they are, when they last occurred, impacts on global weather (droughts, floods, hurricanes). Connecting to climate change possibly intensifying cycles. Presenting findings. Climate oscillation literacy, extreme weather understanding, Pacific Ocean dynamics atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

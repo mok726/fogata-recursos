@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mundo-de-carbono.png" # 
+image: "/imagenes/actividades/mundo-de-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X140"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine forest or park. Observing trees absorbing CO2, animals exhaling, decomposing leaves releasing carbon. Taking photos, notes. Creating poster showing carbon cycle in local ecosystem. Field science, ecological observation atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior"

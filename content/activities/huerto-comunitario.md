@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/huerto-comunitario.png" # 
+image: "/imagenes/actividades/huerto-comunitario.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C06"
+image_prompt: "Scouts ages 7-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community garden or school garden. Planting diverse vegetables (tomatoes, lettuce, peppers), herbs (basil, mint), flowers (marigolds). Monitoring water and sunlight needs. Observing animal visitors - bees pollinating, birds eating pests, butterflies. Discussing garden as mini-ecosystem. Hands-on farming, ecological observation, community food production atmosphere."
+similar_activities: "http -//www.fao.org/docrep/009/a0218s/a0218s00.htm"
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

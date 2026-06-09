@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigar-iniciativas-locales.png" # 
+image: "/imagenes/actividades/investigar-iniciativas-locales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X307"
+image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs researching local environmental initiatives - recycling programs, tree planting, renewable energy projects, water conservation. Contacting municipality, environmental groups. Joining existing initiatives. Sharing findings with group. Civic engagement, community awareness, local action atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

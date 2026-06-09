@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/instalacion-de-paneles-solares.png" # 
+image: "/imagenes/actividades/instalacion-de-paneles-solares.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X352"
+image_prompt: "Older scouts ages 16-20 researching solar panel installation for home, school, or meeting place. Investigating government subsidies, donations, financing options. Presenting proposal. Renewable energy advocacy, project feasibility, technical and financial research atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

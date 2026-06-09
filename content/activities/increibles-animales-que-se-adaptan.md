@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/increibles-animales-que-se-adaptan.png" # 
+image: "/imagenes/actividades/increibles-animales-que-se-adaptan.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X215"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Imagining and inventing an animal adapted to a specific environment - desert (long ears for cooling), arctic (thick white fur), forest (camouflage). Drawing the animal and writing descriptions of adaptations. Exhibiting drawings. Creative biology, evolutionary thinking, art integration atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

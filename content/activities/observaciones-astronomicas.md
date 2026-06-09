@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/observaciones-astronomicas.png" # 
+image: "/imagenes/actividades/observaciones-astronomicas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X247"
+image_prompt: "Older scouts ages 11-21 researching Milankovitch cycles - how Earth's orbit eccentricity, axial tilt (obliquity), and precession affect climate over tens of thousands of years, triggering ice ages. Distinguishing from current rapid warming. Presenting findings. Deep time climate drivers, astronomical context, long-term perspective atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

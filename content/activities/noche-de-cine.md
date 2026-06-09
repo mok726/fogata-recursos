@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/noche-de-cine.png" # 
+image: "/imagenes/actividades/noche-de-cine.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -22,6 +22,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X02"
+image_prompt: "Six young scouts (7-10 years old, three boys, three girls, diverse ethnicities - Afro-descendant, white, mestizo) wearing scout uniforms with neckerchiefs, sitting on couch and floor in dark scout meeting room in Argentina. Watching large TV screen showing polluted ocean with plastic bottles and sad sea turtle trapped in plastic rings. Children have sad and surprised expressions. One little girl hand over mouth. One boy hugging stuffed animal. Dark room with blueish light from TV. Scout posters on walls. Serious, emotional atmosphere."
 location: "Interior"
 participants: "8-25"
 complexity_execution: 1

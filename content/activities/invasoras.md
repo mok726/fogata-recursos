@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/invasoras.png" # 
+image: "/imagenes/actividades/invasoras.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D04"
+image_prompt: "Older scouts ages 11-21 researching invasive species in Argentine forests - North American beaver (Tierra del Fuego) - devastating native forests, wild boar, European hare, English broom (shrub), lodgepole pine, Japanese wasp, starling, rainbow trout affecting native fish. Learning pathways (ballast water, pet trade, ornamental plants). Proposing prevention measures. Invasive species ecology, biosecurity awareness, ecosystem impact understanding atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

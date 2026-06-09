@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-bosques-y-tu.png" # 
+image: "/imagenes/actividades/los-bosques-y-tu.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D06"
+image_prompt: "Young scouts ages 5-15 reflecting on local forest or natural area they know. Writing personal report - What does this forest mean to me? What activities happen there? How would I feel if it disappeared? If no nearby forest - write why you'd like a forest nearby and how it would affect your life. Reading aloud to group. Personal connection to place, environmental grief/loss awareness, emotional literacy, forest valuation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

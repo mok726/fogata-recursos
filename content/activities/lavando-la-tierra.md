@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/lavando-la-tierra.png" # 
+image: "/imagenes/actividades/lavando-la-tierra.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X54"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large table with containers. Pouring water from watering can onto trays with different soils (sand, clay, loam). Watching how water creates channels, washes soil away. Comparing which soil erodes more. Muddy water. Scientific, hands-on atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior / Interior"

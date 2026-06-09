@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png" # 
+image: "/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X193"
+image_prompt: "Group of scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Completing ecological footprint worksheet on paper or tablet. Small groups discussing results. One scout showing chart. Facilitator explaining importance of reducing personal impact. Thoughtful, analytical, behavior-change atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

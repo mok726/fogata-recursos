@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/letreros-de-conservacion.png" # 
+image: "/imagenes/actividades/letreros-de-conservacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B11"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs collaborating with local authorities. Designing conservation signs for river/stream - No dumping, Protect our watershed, Clean water for wildlife. Painting on weather-resistant boards. Installing at access points with permission. Public education, civic engagement, environmental art atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

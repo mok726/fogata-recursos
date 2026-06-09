@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigacion-geotermica.png" # 
+image: "/imagenes/actividades/investigacion-geotermica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X156"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching geothermal systems (Iceland, New Zealand, local hot springs). Calculating potential energy savings if installed in community. Comparing costs vs benefits. Presenting findings. Technical, economic analysis atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

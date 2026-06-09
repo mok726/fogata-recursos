@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/juego-de-la-energia.png" # 
+image: "/imagenes/actividades/juego-de-la-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X149"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large hall. Caller shouts energy source - solar (lie down sunbathing), wind (spin like turbine), hydro (wave arms like water), fossil (stomp feet). Players act out. Laughing, moving, learning through play. Energetic, fun, kinesthetic learning atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior / Interior"

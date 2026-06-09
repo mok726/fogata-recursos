@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/linea-de-tiempo-internacional.png" # 
+image: "/imagenes/actividades/linea-de-tiempo-internacional.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B14"
+image_prompt: "Older scouts ages 16-21 creating timeline of key forest and climate events - 1972 Stockholm Conference, 1992 Rio Earth Summit (UNFCCC, CBD), 1997 Kyoto Protocol, 2005 REDD introduced, 2007 Bali Action Plan, 2010 Cancun Agreements (REDD+), 2015 Paris Agreement, 2021 Glasgow Leaders' Declaration on Forests. Mapping roles of governments, UN agencies, indigenous groups, NGOs. Climate policy history, forest diplomacy, institutional memory atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

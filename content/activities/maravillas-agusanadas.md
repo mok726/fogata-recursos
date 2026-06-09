@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/maravillas-agusanadas.png" # 
+image: "/imagenes/actividades/maravillas-agusanadas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X33"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Building wormery with clear container layered with soil and sand. Adding earthworms. One scout carefully placing worm, another adding soil. Container on table. Magnifying glass nearby. Excited faces watching worms burrow. Curiosity, wonder atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

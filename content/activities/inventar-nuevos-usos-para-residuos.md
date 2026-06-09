@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/inventar-nuevos-usos-para-residuos.png" # 
+image: "/imagenes/actividades/inventar-nuevos-usos-para-residuos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X366"
+image_prompt: "Young scouts ages 5-10 inventing new uses for household waste - plastic bottle planters, tin can pencil holders, cardboard box castles, jar snow globes. Creating art or toys. Creative reuse, upcycling, waste reduction through imagination atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

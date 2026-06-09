@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/impactos-sociales.png" # 
+image: "/imagenes/actividades/impactos-sociales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X181"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Analyzing case of power plant (hydro dam displacing communities, coal plant causing pollution, wind farm affecting landscapes). Reading testimonies. Debating trade-offs - clean energy vs community rights. Complex, ethical, civic engagement atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

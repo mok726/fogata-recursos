@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/lentes-solares.png" # 
+image: "/imagenes/actividades/lentes-solares.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -46,6 +46,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X124"
+image_prompt: "Young scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Cutting out sunglasses template from cardstock. Cutting holes for lenses. Gluing UV-protective dark plastic film over holes. Assembling front and back. Decorating with colors and stickers. Crafting, safety awareness, creative atmosphere."
 tags:
   - Go Solar
 location: "Interior"

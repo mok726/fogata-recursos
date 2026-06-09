@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/menu-sin-polinizadores.png" # 
+image: "/imagenes/actividades/menu-sin-polinizadores.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X94"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) at home or scout room. Creating menu without pollinator-dependent foods (wheat, corn, rice - wind pollinated). No apples, strawberries, almonds, pumpkin. Comparing with favorite foods menu. Realizing how many foods need bees. Food awareness, impactful atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior"

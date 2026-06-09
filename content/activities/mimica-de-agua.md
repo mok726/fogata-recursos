@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mimica-de-agua.png" # 
+image: "/imagenes/actividades/mimica-de-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X251"
+image_prompt: "Young scouts ages 5-10 creating water vocabulary cards - evaporation, condensation, precipitation, aquifer, sanitation, salty, muddy, droplet, river, ocean. Playing charades acting out words without speaking. Team guessing. Fun water vocabulary building, kinesthetic learning, creativity atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/iluminando-y-empoderando.png" # 
+image: "/imagenes/actividades/iluminando-y-empoderando.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X190"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or plaza. Organizing Energy Awareness Day. Stations - solar oven demonstration, LED vs incandescent comparison, energy-saving games, expert talks. Inviting local energy experts. Engaging community families. Large-scale event organization, public education, leadership atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior"

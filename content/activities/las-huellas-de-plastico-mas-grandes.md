@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/las-huellas-de-plastico-mas-grandes.png" # 
+image: "/imagenes/actividades/las-huellas-de-plastico-mas-grandes.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -22,6 +22,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X14"
+image_prompt: "Large outdoor camp or event场地 in Argentina (field with trees, mountains or hills in background, no flags). Three patrols of older teenage scouts ages 14-17 wearing uniforms with neckerchiefs. Each patrol has four members (mixed genders and ethnicities). Each patrol standing next to pile of plastic waste (bottles, cups, wrappers) forming small mountain. One scout from each patrol measuring height with measuring tape. Another scout writing measurements on large whiteboard leaderboard. Excited, competitive expressions, cheering. Sunset warm golden light. Tents and scout banners in background (symbols, no flags). Energetic, awareness-raising atmosphere."
 location: "Exterior"
 participants: "8-30"
 complexity_execution: 2

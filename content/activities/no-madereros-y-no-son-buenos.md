@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/no-madereros-y-no-son-buenos.png" # 
+image: "/imagenes/actividades/no-madereros-y-no-son-buenos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D11"
+image_prompt: "Older scouts ages 11-21 auditing home products (food - cookies, chocolate, margarine, instant noodles, ice cream, bread, pizza dough; cosmetics - shampoo, soap, lipstick, detergent) for unsustainable palm oil content (elaeis guineensis). Checking for RSPO certification (sustainable palm oil). Researching alternatives - products with certified sustainable palm oil, or palm-oil free (using shea butter, coconut oil, sunflower oil). Also investigating other non-timber forest products - rubber (unsustainable vs FSC-certified), natural latex, cork, bamboo (sustainable), Brazil nuts (responsible harvesting), rattan (unsustainable vs certified). Consumer power, deforestation-linked commodities, supply chain transparency, ethical shopping atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior (hogar)"

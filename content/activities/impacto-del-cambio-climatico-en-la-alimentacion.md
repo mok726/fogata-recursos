@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.png" # 
+image: "/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X392"
+image_prompt: "Older scouts ages 16-20 researching climate impacts on food systems - drought reduces crop yields, flooding destroys fields, heat waves harm livestock, ocean acidification affects fisheries. Learning link between climate and hunger. Sharing information with group/school. Climate-food nexus, food security advocacy, science communication atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

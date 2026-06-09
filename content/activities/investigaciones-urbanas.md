@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigaciones-urbanas.png" # 
+image: "/imagenes/actividades/investigaciones-urbanas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X244"
+image_prompt: "Older scouts ages 11-21 researching cities with highest CO2 emissions (Shanghai, Beijing, Los Angeles, Tokyo) and cities with successful reduction strategies (Copenhagen, Singapore, Vancouver, Curitiba). Learning about policies - congestion pricing, bike infrastructure, renewable energy, building efficiency. Presenting findings. Urban sustainability, climate policy, best practices atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

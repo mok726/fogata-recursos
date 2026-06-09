@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-ola-verde.png" # 
+image: "/imagenes/actividades/la-ola-verde.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D32"
+image_prompt: "Scouts of all ages participating in Green Wave campaign (May 22). Planting trees or native plants at exactly 10 -00 AM local time. Coordinating with schools worldwide. Joining global wave of biodiversity action. Using campaign materials. Global solidarity, simultaneous action, youth environmental movement, tree planting atmosphere."
+similar_activities: "http -//greenwave.cbd.int/"
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

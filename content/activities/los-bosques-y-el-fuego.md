@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-bosques-y-el-fuego.png" # 
+image: "/imagenes/actividades/los-bosques-y-el-fuego.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C02"
+image_prompt: "Older scouts ages 11-21 learning safe campfire building - clearing area, collecting tinder, kindling, fuelwood (different species - pine burns fast, oak burns slow). Building fire lay. Lighting with adult supervision. Having water bucket or extinguisher nearby. Toasting food. Discussing fire's cultural importance (rituals, ceremonies, storytelling) and dangers (wildfires). Fire safety, outdoor skills, cultural appreciation, risk management atmosphere."
 required: true
 required_for:
   - bosques-C

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-biomas-son-hogares.png" # 
+image: "/imagenes/actividades/los-biomas-son-hogares.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-A02"
+image_prompt: "Scouts ages 5-21 researching forest biomes - tropical rainforest (Amazon, Congo, SE Asia), temperate forest (Europe, Eastern US), boreal forest/taiga (Canada, Russia), Mediterranean forest. Learning characteristics, location, climate. Making matching game cards. Global forest literacy, biome diversity, interactive learning atmosphere."
 required: true
 required_for:
   - bosques-A

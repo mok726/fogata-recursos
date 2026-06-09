@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/la-red-de-vida.png" # 
+image: "/imagenes/actividades/la-red-de-vida.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X206"
+image_prompt: "Young scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Standing in circle, each with card of plant or animal (bee, flower, bird, tree, soil, butterfly, etc). One holds ball of yarn, throws to species they depend on, creating web. Then facilitator removes one species (bee goes extinct). Web collapses. Discussing interconnectedness. Powerful systems thinking, ecological interdependence lesson."
 tags:
   - Champions for Nature
 location: "Interior"

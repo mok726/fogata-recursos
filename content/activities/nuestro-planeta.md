@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/nuestro-planeta.png" # 
+image: "/imagenes/actividades/nuestro-planeta.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,8 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X208"
+image_prompt: "Scouts ages 11+ (mixed genders, diverse ethnicities) watching Netflix documentary Our Planet (episode choices - Forests, Fresh Water, Coastal Seas). After viewing, discussing challenges shown - habitat loss, climate change, species decline. Brainstorming actions to protect planet. Powerful imagery, emotional engagement, inspiration to act atmosphere."
+similar_activities: "https -//www.ourplanet.com/es/"
 tags:
   - Champions for Nature
 location: "Interior"

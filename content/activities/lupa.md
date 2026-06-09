@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/lupa.png" # 
+image: "/imagenes/actividades/lupa.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X260"
+image_prompt: "Older scouts ages 11-15 collecting water sample from stream or pond. Examining under magnifying glass or microscope. Drawing microscopic organisms - paramecium, amoeba, rotifers, algae. Returning sample. Discovering hidden aquatic life. Microbiology, biodiversity appreciation, scientific curiosity atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior / Interior"

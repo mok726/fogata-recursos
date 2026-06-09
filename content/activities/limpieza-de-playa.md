@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/limpieza-de-playa.png" # 
+image: "/imagenes/actividades/limpieza-de-playa.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B06"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine beach or riverbank. Collecting trash in bags with gloves and grabbers. Sorting and recording types of waste (plastics, fishing gear, glass). Weighing collected trash. Discussing sources and solutions. Monitoring area recovery over time. Environmental action, marine conservation, civic responsibility atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png" # 
+image: "/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X391"
+image_prompt: "Older scouts ages 16-20 researching climate vulnerable populations - small island nations (sea level rise), Arctic indigenous peoples (melting ice), Sub-Saharan Africa (drought), coastal communities (flooding), farmers (crop failure). Identifying ways to help - donations, advocacy, awareness. Climate justice, global inequality, solidarity and action atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

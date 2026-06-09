@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.png" # 
+image: "/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X395"
+image_prompt: "Older scouts ages 16-20 researching climate impacts on agriculture - changing growing seasons, heat stress on livestock, increased pests, soil degradation, water scarcity for irrigation, fisheries collapse. Sharing findings. Agricultural vulnerability, food production challenges, adaptation strategies awareness atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

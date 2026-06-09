@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mapa-de-contaminacion-local.png" # 
+image: "/imagenes/actividades/mapa-de-contaminacion-local.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A19"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing large map of community with natural features (river, park, trees) and human features (factory, road, farm). Identifying pollution sources - point (factory pipe) and diffuse (car exhaust, agricultural runoff). Drawing arrows connecting pollution to affected biodiversity. Systems thinking, environmental justice, spatial analysis atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

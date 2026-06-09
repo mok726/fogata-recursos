@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/inspeccion-de-salud.png" # 
+image: "/imagenes/actividades/inspeccion-de-salud.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X180"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching health impacts of pollution - asthma from particulate matter, respiratory diseases from fossil fuels, heat-related illnesses. Creating quiz for family/group. Sharing alarming statistics. Health advocacy, environmental justice atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

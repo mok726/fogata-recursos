@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/ideas-descabelladas.png" # 
+image: "/imagenes/actividades/ideas-descabelladas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X290"
+image_prompt: "Older scouts ages 14-21 brainstorming wild ideas for providing clean water - fog harvesting nets, solar-powered atmospheric water generators, portable desalination devices, pedal-powered water pumps, waterproof drone delivery. Choosing best idea, making simple prototype. Creative problem-solving, innovation mindset, water access solutions atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

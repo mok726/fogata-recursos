@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/juego-sobre-biodiversidad.png" # 
+image: "/imagenes/actividades/juego-sobre-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D16"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) designing board game or card game about biodiversity importance. Playing with younger scouts. Getting feedback. Observing which concepts are hardest to teach through game. Peer education, game-based learning, creative instructional design atmosphere."
+similar_activities: "www.bgci.org/education/article/443"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

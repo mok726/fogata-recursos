@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/monitoreo-de-mis-residuos.png" # 
+image: "/imagenes/actividades/monitoreo-de-mis-residuos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -29,6 +29,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X198"
+image_prompt: "Older scouts ages 11-14 (mixed genders, diverse ethnicities) at home or scout room. Tracking household waste for one week - weighing or counting trash, recycling, compost. Recording in notebook. Comparing stats with others. Visiting local waste management facility (recycling plant or landfill). Data collection, waste awareness, systems thinking atmosphere."
 tags:
   - Champions for Nature
 location: "Interior / Exterior"

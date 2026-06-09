@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/inspiracion-literaria.png" # 
+image: "/imagenes/actividades/inspiracion-literaria.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,8 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C08"
+image_prompt: "Older scouts ages 11-21 reading forest-themed literature - poems (Robert Frost - Stopping by Woods'"
+similar_activities: "The Giving Tree"
 tags:
   - Insignia de los Bosques
 location: "Interior"

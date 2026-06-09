@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/inicio-de-los-plasticos.png" # 
+image: "/imagenes/actividades/inicio-de-los-plasticos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X05"
+image_prompt: "Scout meeting room in Argentina. Scout leader standing in front of large blackboard with timeline drawn in chalk - small plastic icon on 1950 side, many plastic icons overflowing on today side. Five young scouts ages 7-10 sitting at desks wearing neckerchiefs. Three girls and two boys, diverse - indigenous features, Asian features, light skin with freckles. Holding survey forms with pencils. One boy raising hand. Children look curious and attentive. Bright fluorescent light. Educational atmosphere."
 location: "Interior"
 participants: "6-20"
 complexity_execution: 2

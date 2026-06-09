@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/lista-de-seguridad-electrica.png" # 
+image: "/imagenes/actividades/lista-de-seguridad-electrica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X168"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) with parent/adult at home. Walking through house checking for electrical hazards - exposed wires, overloaded outlets, cords under rugs, water near electronics. Creating correction list. Discussing with family. Safety awareness, preventive action atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

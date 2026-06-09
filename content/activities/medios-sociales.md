@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/medios-sociales.png" # 
+image: "/imagenes/actividades/medios-sociales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X72"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs (or casual clothes for photo) in Argentine home or scout room. Creating social media post about soil importance with photo of hands holding soil. Typing caption with facts (#SaveOurSoil). Phone or laptop. Another scout reading comments. Digital advocacy atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/mantenerla-limpia.png" # 
+image: "/imagenes/actividades/mantenerla-limpia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X272"
+image_prompt: "Older scouts ages 14-17 visiting local industry (factory, farm, food processing plant) that uses large amounts of water. Learning about wastewater treatment practices, where effluent goes, improvements over time. Discussing changes they would make if they owned business. Industrial water management, pollution prevention, corporate responsibility awareness atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior"

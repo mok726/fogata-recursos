@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hora-de-limpiar.png" # 
+image: "/imagenes/actividades/hora-de-limpiar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X300"
+image_prompt: "Scouts ages 11-17 organizing river, lake, or beach cleanup. Before/after photos. Using nets, gloves, trash bags. Safely removing trash without disturbing wildlife. Using collected plastic bottles for art project (collage, sculpture). Direct environmental action, water protection, visible impact, plastic art reuse atmosphere."
 tags:
   - Parche del Agua
 location: "Exterior"

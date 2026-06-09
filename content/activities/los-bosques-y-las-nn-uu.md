@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-bosques-y-las-nn-uu.png" # 
+image: "/imagenes/actividades/los-bosques-y-las-nn-uu.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B11"
+image_prompt: "Older scouts ages 16-21 researching two UN agencies working on forests - FAO (Food and Agriculture Organization - forestry division), UNEP (UN Environment Programme - forest ecosystems), UNDP (forest landscape restoration), UNFF (UN Forum on Forests). Learning their mandates, headquarters, founding dates, current projects. Global forest governance, multilateral environmental agreements, international cooperation understanding atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

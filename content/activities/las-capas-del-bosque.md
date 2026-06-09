@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/las-capas-del-bosque.png" # 
+image: "/imagenes/actividades/las-capas-del-bosque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-A06"
+image_prompt: "Young scouts ages 5-15 drawing forest layers - forest floor (leaf litter, fungi, decomposers), understory (shrubs, saplings, small animals), canopy (treetops, birds, insects), emergent (tallest trees). Labeling each layer. Understanding vertical stratification, habitat diversity, ecosystem structure atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

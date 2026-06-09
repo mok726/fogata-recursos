@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/los-bosques-y-el-cambio-climatico.png" # 
+image: "/imagenes/actividades/los-bosques-y-el-cambio-climatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D12"
+image_prompt: "Older scouts ages 16-21 comparing historical (pre-industrial) atmospheric composition - 280 ppm CO2, versus current (400+ ppm CO2). Methane (CH4) increase, nitrous oxide (N2O) increase. Causes - fossil fuel burning, deforestation, agriculture. Effects on forests - CO2 fertilization (initial growth increase) but also heat stress, drought, pests, fires, species migration. Discussing potential forest ecosystem collapse if CO2 continues rising. Climate science literacy, greenhouse effect, forest carbon cycle, mitigation urgency atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

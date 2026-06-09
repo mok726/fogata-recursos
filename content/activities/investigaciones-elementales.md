@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/investigaciones-elementales.png" # 
+image: "/imagenes/actividades/investigaciones-elementales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X38"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. One presenting at front with poster showing mineral icons (nitrogen, phosphorus, potassium). Periodic table on wall. Others sitting taking notes or asking questions. Laptop for research. Bright room. Academic, curious atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hotspots-de-biodiversidad.png" # 
+image: "/imagenes/actividades/hotspots-de-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D11"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning about biodiversity hotspots - areas with high endemism and high threat (35 hotspots worldwide - Madagascar, Philippines, Atlantic Forest, Mediterranean). Mapping them on world map. Taking online quiz. Discussing which most threatened and why. Global conservation prioritization, biogeography, threat analysis atmosphere."
+similar_activities: "http -//planetgreen.discovery.com/games-quizzes/biodiversity-hotspots-quiz"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/jarra-de-efecto-invernadero.png" # 
+image: "/imagenes/actividades/jarra-de-efecto-invernadero.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X241"
+image_prompt: "Young scouts ages 5-15 placing two thermometers under lamp - one inside glass jar (simulating greenhouse gases), one outside. Recording temperatures every 5 minutes. Comparing results - jar thermometer gets hotter. Discussing how greenhouse gases trap heat. Simple greenhouse effect demonstration, hands-on climate science atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

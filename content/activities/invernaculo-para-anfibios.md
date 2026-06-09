@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/invernaculo-para-anfibios.png" # 
+image: "/imagenes/actividades/invernaculo-para-anfibios.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B08"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs near Argentine pond or wetland. Building amphibian hibernaculum - pile of logs, stones, leaves in shallow depression. Creating shelter for frogs, toads, salamanders to overwinter. Monitoring for inhabitants over weeks. Amphibian conservation, habitat restoration, hands-on ecology atmosphere."
+similar_activities: "https -//www.rspb.org.uk/advice/gardening/reptiles_amphibians/hibernacula.asp"
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/juego-de-semillas.png" # 
+image: "/imagenes/actividades/juego-de-semillas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C03"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating matching game - cards with seeds (corn, bean, sunflower, pumpkin, quinoa) and cards with plant pictures or descriptions. Playing memory game with friends. Learning about native and traditional seeds. Agricultural biodiversity awareness through play, hands-on seed exploration atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

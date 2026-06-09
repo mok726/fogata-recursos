@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/horno-solar-cocina-solar.png" # 
+image: "/imagenes/actividades/horno-solar-cocina-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,8 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X128"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Building solar oven using cardboard box, aluminum foil, black paper, plastic cover. Assembling reflector panels. Placing pot with food inside. Positioning toward sun. Cooking simple food (rice, vegetables) or melting chocolate. Engineering, patience, sustainable cooking atmosphere."
+similar_activities: "https -//www.lanacion.com.ar/como-hacer-un-horno-solar-casero-nid2064372\nhttps -//www.solarcooking.org/plans/"
 tags:
   - Go Solar
 location: "Exterior"

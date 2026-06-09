@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/identificar-productos-sobre-empaquetados.png" # 
+image: "/imagenes/actividades/identificar-productos-sobre-empaquetados.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X385"
+image_prompt: "Older scouts ages 11-15 inspecting kitchen for over-packaged products - individually wrapped snacks, plastic-wrapped vegetables, excessive cardboard. Finding alternatives with less packaging (bulk bins, loose produce). Reducing packaging waste, consumer awareness, alternative shopping habits atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/midamos-la-energia.png" # 
+image: "/imagenes/actividades/midamos-la-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X170"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or at home. Examining electricity bills, identifying kWh usage, cost. Calculating daily consumption. Identifying biggest consumers (AC, heater, fridge). Proposing savings. Financial literacy, energy efficiency atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

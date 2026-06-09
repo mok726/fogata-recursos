@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/minimo-impacto-a-la-naturaleza.png" # 
+image: "/imagenes/actividades/minimo-impacto-a-la-naturaleza.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X205"
+image_prompt: "Young scouts ages 7-11 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Sorting cards showing effects of deforestation - habitat loss, climate change, soil erosion, extinction, indigenous displacement. Discussing how deforestation affects people, plants, animals. Brainstorming ways to reduce personal impact (reduce paper, sustainable palm oil). Rainforest awareness, global connection atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

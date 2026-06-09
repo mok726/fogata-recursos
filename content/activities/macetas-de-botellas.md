@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/macetas-de-botellas.png" # 
+image: "/imagenes/actividades/macetas-de-botellas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X12"
+image_prompt: "Sunny balcony or garden in Argentina. Three preadolescents ages 11-14 (one boy, two girls, diverse - curly dark hair, light skin with freckles, tan skin) wearing casual clothes (colorful t-shirts, shorts, sneakers). Three hanging planters made from recycled plastic bottles suspended from wooden beam. Each bottle cut horizontally, filled with soil, with small plant growing (basil, succulent, marigold). Bottles tied with rope. One girl holding watering can smiling. One boy pointing at plants proudly. More plastic bottles in background waiting to be transformed. Balcony with typical Argentine plants (geraniums, jasmine). Green, sustainable, joyful atmosphere."
 location: "Exterior"
 participants: "4-15"
 complexity_execution: 2
