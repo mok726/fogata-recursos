@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/canta-con-el-bosque.png" # 
+image: "/imagenes/actividades/canta-con-el-bosque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C09"
+image_prompt: "Young scouts ages 5-15 composing original song about forest (trees, animals, seasons, beauty, protection). Collecting natural materials to make instruments - leaf crinkles, stick drumming on hollow log, shaking seed pods, blowing across bottle, bird whistle, stone clapping, bark scraping. Performing song with natural instruments. Forest soundscape awareness, musical creativity, natural rhythm, environmental sound education atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior / Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/de-donde-viene-tu-agua.png" # 
+image: "/imagenes/actividades/de-donde-viene-tu-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua-obligatoria
 activity_code: "del-agua-obligatoria-X249"
+image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) researching local water source - river, lake, aquifer, reservoir. Learning about treatment plant processes. Comparing with another city or country. Presenting findings. Water literacy, infrastructure awareness, comparative analysis atmosphere."
 tags:
   - Insignia del Agua (Obligatoria)
 location: "Interior"

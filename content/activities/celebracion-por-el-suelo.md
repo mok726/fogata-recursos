@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/celebracion-por-el-suelo.png" # 
+image: "/imagenes/actividades/celebracion-por-el-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X30"
+image_prompt: "Large group of scouts of all ages (5-17, mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or community center. Setting up posters about soil. Tables with activities for children. Community members (families, elderly) walking around learning. Scouts giving short talks. Sunny day. Banners without flags. Joyful, community-service atmosphere."
 required: true
 required_for:
   - suelos-X

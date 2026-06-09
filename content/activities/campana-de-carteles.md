@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/campana-de-carteles.png" # 
+image: "/imagenes/actividades/campana-de-carteles.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -25,6 +25,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X16"
+image_prompt: "Scout meeting room in Argentina. Four older teenage scouts ages 14-17 (two girls, two boys, diverse - hijab, long hair in bun, short Afro hair, light skin with freckles) wearing scout neckerchiefs. Standing behind large table covered with art supplies - markers, colored pencils, large paper sheets, glue, scissors. Holding up finished posters. One poster shows sad sea turtle with plastic bag. Another shows beautiful clean ocean. Third shows three-arrow recycling symbol. Scouts smiling proudly. Smartphone on chair showing social media screen with heart and share icons (no text). Bright daylight from window. Creative, activist, collaborative atmosphere."
 location: "Interior"
 participants: "4-20"
 complexity_execution: 2

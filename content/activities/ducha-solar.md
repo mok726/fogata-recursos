@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/ducha-solar.png" # 
+image: "/imagenes/actividades/ducha-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X131"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area (campsite or home). Building solar shower using black hose coiled in sun, black plastic bag filled with water, or PVC pipe painted black. Elevating bag. Testing water temperature after sun exposure. Camping comfort, sustainable technology, hands-on engineering atmosphere."
+similar_activities: "https -//www.instructables.com/Solar-Shower-1/"
 tags:
   - Go Solar
 location: "Exterior"

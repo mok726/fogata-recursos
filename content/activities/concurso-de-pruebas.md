@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/concurso-de-pruebas.png" # 
+image: "/imagenes/actividades/concurso-de-pruebas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X34"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Two teams sitting facing each other. One leader reading question from card. Teams buzzing or raising hands to answer. Scorekeeper writing on whiteboard. Excited, competitive but friendly atmosphere. Bright room."
 tags:
   - Insignia de los Suelos
 location: "Interior"

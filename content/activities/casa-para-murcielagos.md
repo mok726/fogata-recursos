@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/casa-para-murcielagos.png" # 
+image: "/imagenes/actividades/casa-para-murcielagos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A12"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or backyard. Researching local bat species and their needs. Building bat house from untreated wood. Mounting on tall tree or pole facing appropriate direction. Monitoring for occupation over weeks. Bat conservation, pest control education, hands-on construction atmosphere."
+similar_activities: "https -//www.batcon.org/"
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

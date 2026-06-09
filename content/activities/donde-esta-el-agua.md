@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/donde-esta-el-agua.png" # 
+image: "/imagenes/actividades/donde-esta-el-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X264"
+image_prompt: "Older scouts ages 11-15 coloring world map showing freshwater distribution - Brazil (Amazon), Russia (Lake Baikal), Canada (Great Lakes), USA, China, India (water stressed). Discussing water inequality. Learning about water-scarce regions (Middle East, Africa). Global water awareness, geography, social justice atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

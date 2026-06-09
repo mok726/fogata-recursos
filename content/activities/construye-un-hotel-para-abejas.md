@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/construye-un-hotel-para-abejas.png" # 
+image: "/imagenes/actividades/construye-un-hotel-para-abejas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -45,6 +45,8 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X75"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or schoolyard. Building bee hotel with wooden blocks, bamboo stems, plastic bottle or wooden box as container. One scout drilling holes under adult supervision. Another inserting bamboo pieces. Finished bee hotel hanging on tree or wall. Hands-on, conservation atmosphere."
+similar_activities: "https -//www.ecologiaverde.com/como-hacer-un-hotel-de-insectos-paso-a-paso-2364.html\nhttps -//www.guiadejardineria.com/hotel-abejas-solitarias/"
 required: true
 required_for:
   - polinizadores-X

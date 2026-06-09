@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/concurso-de-preguntas.png" # 
+image: "/imagenes/actividades/concurso-de-preguntas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X295"
+image_prompt: "Older scouts ages 11-17 divided into Water Team and Sanitation Team. Each prepares quiz questions. Teams challenge each other. Team with most correct answers wins. Topics - water facts, treatment, conservation, toilets, hygiene, diseases. Fun competitive learning, water knowledge reinforcement, teamwork atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.png" # 
+image: "/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X315"
+image_prompt: "Older scouts ages 16-20 contacting climate scientists, meteorologists, environmental NGOs (Greenpeace, WWF, local groups), UN offices in Argentina. Learning about their work. Volunteering or joining activities. Professional networking, climate science exposure, active collaboration atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

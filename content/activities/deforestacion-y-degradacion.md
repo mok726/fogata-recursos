@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/deforestacion-y-degradacion.png" # 
+image: "/imagenes/actividades/deforestacion-y-degradacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D09"
+image_prompt: "Older scouts ages 16-21 researching Argentina's deforestation statistics - original forest cover (approx 70%), current forest cover, annual deforestation rate (approx 200,000-300,000 ha/year in Gran Chaco), primary drivers (soy expansion, cattle ranching), versus global averages. Presenting findings creatively - infographic, rap song, short play, animated video, museum exhibit. National deforestation context, policy advocacy (Ley de Bosques 26.331 enforcement), data communication skills, forest conservation advocacy atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/ciudadano-del-agua.png" # 
+image: "/imagenes/actividades/ciudadano-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X305"
+image_prompt: "Older scouts ages 14-21 writing to government representative (mayor, city council, water authority) about local water issue - leaky pipes, water fountain maintenance, stormwater pollution, river clean-up. Offering solution suggestions. Civic engagement, persuasive writing, local water advocacy atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

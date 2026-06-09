@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png" # 
+image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X340"
+image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) discussing energy consumption with family and leader. Making list of reduction actions - turn off lights, unplug devices, shorter showers, lower thermostat. Following plan for one month. Sharing experience with group. Energy conservation, behavior change, peer encouragement atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

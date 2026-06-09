@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cartas-por-las-renovables.png" # 
+image: "/imagenes/actividades/cartas-por-las-renovables.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X157"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching Argentina's renewable energy percentage. Writing formal letter to Energy Minister or local representative requesting more investment in solar, wind, geothermal. Crafting persuasive arguments. Political engagement, advocacy, formal writing atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/construir-un-modelo-de-energia-renovable.png" # 
+image: "/imagenes/actividades/construir-un-modelo-de-energia-renovable.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -44,6 +44,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X309"
+image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) building renewable energy model - solar oven from cardboard box, wind turbine from bottle and motor, water wheel. Researching how renewable energy works. Presenting model to group. Hands-on engineering, renewable energy literacy, creative construction atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

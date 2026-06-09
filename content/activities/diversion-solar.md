@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/diversion-solar.png" # 
+image: "/imagenes/actividades/diversion-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X154"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Placing crayon pieces on black paper. Using magnifying glass to focus sunlight, melting crayons into colorful patterns. Observing solar power in action. Creative, scientific, cautious (adult supervision) atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior"

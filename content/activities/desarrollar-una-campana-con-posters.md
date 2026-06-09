@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/desarrollar-una-campana-con-posters.png" # 
+image: "/imagenes/actividades/desarrollar-una-campana-con-posters.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -44,6 +44,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X325"
+image_prompt: "Older scouts ages 11-15 creating poster campaign for sustainable habits - turn off lights, walk/bike instead of drive, recycle, compost, use reusable bags. Displaying at school, neighborhood, sports center. Visual communication, behavior change, public awareness atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

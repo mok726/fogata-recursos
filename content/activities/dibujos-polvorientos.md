@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/dibujos-polvorientos.png" # 
+image: "/imagenes/actividades/dibujos-polvorientos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X44"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or scout room. Collecting different colored soils (red, brown, dark). Grinding into powder, mixing with water in small containers. Painting on paper with fingers or brushes. Colorful earth-toned artwork drying on table. Creative, messy, joyful atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior / Interior"

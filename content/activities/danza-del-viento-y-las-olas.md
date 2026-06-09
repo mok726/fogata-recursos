@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/danza-del-viento-y-las-olas.png" # 
+image: "/imagenes/actividades/danza-del-viento-y-las-olas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X139"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor space. Creating dance showing how sun heats air (rising arms) creating wind (swirling movements) and ocean currents (wave-like motions). Performing with music. Kinesthetic learning, artistic expression atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

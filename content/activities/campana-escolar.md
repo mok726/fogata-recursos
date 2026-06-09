@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/campana-escolar.png" # 
+image: "/imagenes/actividades/campana-escolar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X109"
+image_prompt: "Large group of scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine school. Month-long campaign - posters in hallways, assembly presentation, working with school gardener to plant flowers. Panel discussion with beekeeper and environmental officer. School-wide impact, systemic change atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

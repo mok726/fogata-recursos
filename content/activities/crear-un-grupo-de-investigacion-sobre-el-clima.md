@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.png" # 
+image: "/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X316"
+image_prompt: "Older scouts ages 16-20 forming climate research group. Taking daily weather measurements - temperature, rainfall, wind speed. Recording data. Analyzing trends over time. Comparing with historical data. Citizen science, data collection, climate literacy, scientific method atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"

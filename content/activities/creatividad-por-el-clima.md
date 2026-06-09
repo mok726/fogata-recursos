@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/creatividad-por-el-clima.png" # 
+image: "/imagenes/actividades/creatividad-por-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X213"
+image_prompt: "Group of scouts ages 5-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating educational materials about climate change - posters, brochures, drawings, poems. Colorful markers, paper, glue. Collaborative art. Later distributing to local schools or libraries. Creative climate advocacy, community education, teamwork atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

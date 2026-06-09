@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png" # 
+image: "/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,8 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X207"
+image_prompt: "Older scouts ages 13+ (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine natural area. Using iNaturalist app (not just Seek) to identify and log species observations. Taking photos, uploading to global database. Learning about research-grade observations. Contributing to citizen science. Discussing findings. Advanced biodiversity citizen science, real data contribution atmosphere."
+similar_activities: "https -//www.inaturalist.org/"
 tags:
   - Champions for Nature
 location: "Exterior"

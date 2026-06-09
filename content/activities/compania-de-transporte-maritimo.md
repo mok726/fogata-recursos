@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/compania-de-transporte-maritimo.png" # 
+image: "/imagenes/actividades/compania-de-transporte-maritimo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X276"
+image_prompt: "Young scouts ages 5-10 building boats with different materials - paper, foil, wood, plastic. Testing in water. Adding sails. Loading with cargo (stones). Racing boats. Learning about buoyancy, water transportation, trade. Hands-on physics, creativity, fun floating competition atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior"

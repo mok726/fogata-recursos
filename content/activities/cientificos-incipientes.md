@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cientificos-incipientes.png" # 
+image: "/imagenes/actividades/cientificos-incipientes.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X224"
+image_prompt: "Scouts ages 5-21 researching climate science careers - climatologist, glaciologist, atmospheric chemist, oceanographer, ecologist. Choosing one to represent. Explaining why they chose that specialty. Career exploration, science identity, climate science literacy atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

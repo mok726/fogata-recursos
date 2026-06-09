@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/echando-raices.png" # 
+image: "/imagenes/actividades/echando-raices.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X25"
+image_prompt: "Group of young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Planting a small tree or plant. One scout digging hole with shovel, another placing plant in soil, third pouring water from watering can. Soil and compost nearby. Trees and blue sky background. Cooperative, patient atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png" # 
+image: "/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X384"
+image_prompt: "Older scouts ages 11-15 cooking healthy, sustainable meal for family. Using local, seasonal, unpackaged ingredients. Making shopping list to avoid waste. Learning recipe, cooking skills. Sharing meal. Food literacy, sustainable cooking, family bonding, practical life skills atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (cocina)"

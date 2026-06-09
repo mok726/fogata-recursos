@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cuando-se-degradan.png" # 
+image: "/imagenes/actividades/cuando-se-degradan.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -22,6 +22,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X11"
+image_prompt: "Outdoor garden or schoolyard in Argentina. Three older teenage scouts ages 14-17 (girl with braids, boy with glasses and short Afro hair, girl with long straight hair) wearing scout neckerchiefs, kneeling next to six clear glass jars partially buried in soil in two rows. Each jar contains different waste - plastic bottle, paper, glass shard, banana peel, aluminum can, styrofoam cup. Small labels with week numbers (1,2,4,8,12,24). One scout holding clipboard and pencil writing observations. Another scout pointing at banana peel jar showing visible degradation. Sunny day, blue sky, trees. Scientific, patient atmosphere."
 location: "Exterior"
 participants: "5-20"
 complexity_execution: 2

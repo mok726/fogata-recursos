@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/conversacion-sobre-el-tiempo.png" # 
+image: "/imagenes/actividades/conversacion-sobre-el-tiempo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,8 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X227"
+image_prompt: "Scouts ages 5-21 interviewing elderly people about climate changes they've witnessed over decades - When I was young"
+similar_activities: "The river was higher. Recording and sharing stories. Intergenerational learning"
 tags:
   - Insignia del Cambio Climático
 location: "Interior / Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/concurso-solar.png" # 
+image: "/imagenes/actividades/concurso-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X130"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Teams competing in quiz about solar energy - how panels work, uses of sun, advantages of solar power. Scorekeeper on whiteboard. Excited, competitive, educational atmosphere."
 tags:
   - Go Solar
 location: "Interior"

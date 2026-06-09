@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/climas-cambiantes.png" # 
+image: "/imagenes/actividades/climas-cambiantes.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X52"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Panel discussion format. One scout presenting how soil stores carbon. Another discussing how rising temperatures affect soil health. Whiteboard with diagrams of carbon cycle. Serious, climate-aware atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

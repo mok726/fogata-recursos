@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/diario-de-alimentos.png" # 
+image: "/imagenes/actividades/diario-de-alimentos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X236"
+image_prompt: "Scouts ages 5-21 keeping food diary for one week - breakfast, lunch, dinner, snacks. Analyzing carbon footprint - meat (high), vegetables (low), local vs imported, processed vs whole. Preparing low-emission meal together (plant-based, local, seasonal). Sharing meal. Food system literacy, climate-friendly eating, collaborative cooking atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

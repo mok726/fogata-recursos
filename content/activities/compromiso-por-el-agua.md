@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/compromiso-por-el-agua.png" # 
+image: "/imagenes/actividades/compromiso-por-el-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X301"
+image_prompt: "Young scouts ages 7-13 convincing family and friends to save water. Creating Water Pledge certificates. Each person writes their specific commitment - shorter showers, turn off tap while brushing, fix leaks, water plants in evening. Following up on promises. Behavior change, persuasion skills, community impact, accountability atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

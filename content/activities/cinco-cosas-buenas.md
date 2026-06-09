@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cinco-cosas-buenas.png" # 
+image: "/imagenes/actividades/cinco-cosas-buenas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-A04"
+image_prompt: "Young scouts ages 5-15 listing 5 forest benefits - oxygen production, carbon storage, wildlife habitat, water regulation, wood products, recreation, medicine. Drawing picture showing importance. Reflecting on relevance to daily life. Creative environmental literacy, ecosystem services awareness, artistic expression atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cientificos-nadadores.png" # 
+image: "/imagenes/actividades/cientificos-nadadores.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X265"
+image_prompt: "Older scouts ages 14-17 who can swim, with adult supervision, snorkeling in safe river, lake, or sea near Argentina (Río de la Plata, Mar del Plata, lakes in Patagonia). Observing underwater life - fish, plants, rocks. Drawing what they saw. Aquatic biodiversity, safe water exploration, nature connection atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior"

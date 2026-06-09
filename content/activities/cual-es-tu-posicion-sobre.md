@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cual-es-tu-posicion-sobre.png" # 
+image: "/imagenes/actividades/cual-es-tu-posicion-sobre.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X199"
+image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Tape line on floor - strongly agree to strongly disagree. Facilitator reads statements about sustainability. Participants position themselves on line. Discussing why they chose that position. Exploring different values and perspectives. Deep reflection, values clarification atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

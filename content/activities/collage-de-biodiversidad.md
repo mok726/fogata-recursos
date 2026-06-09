@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/collage-de-biodiversidad.png" # 
+image: "/imagenes/actividades/collage-de-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D01"
+image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating collage representing three biodiversity levels - genetic (varieties of corn), species (different animals/plants), ecosystems (forest, ocean, desert). Cutting images from magazines, arranging on poster. Presenting to group, discussing interactions, importance, threats. Creative systems thinking, ecological literacy, visual communication atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

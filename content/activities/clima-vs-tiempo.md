@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/clima-vs-tiempo.png" # 
+image: "/imagenes/actividades/clima-vs-tiempo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -26,6 +26,8 @@ responsible:
 activity_badges:
   - ods-13
 activity_code: "ods-13-X216"
+image_prompt: "Comunicación / trabajo en equipo"
+similar_activities: "Hay una tormenta (tiempo). Participants run to correct side. Active learning"
 tags:
   - ODS 13
 location: "Insignia del Cambio Climático"

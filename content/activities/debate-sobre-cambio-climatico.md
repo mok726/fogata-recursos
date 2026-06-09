@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/debate-sobre-cambio-climatico.png" # 
+image: "/imagenes/actividades/debate-sobre-cambio-climatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X145"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Teams debating - how human activities (burning fossil fuels, deforestation) affect carbon cycle. Using scientific articles as evidence. Arguing solutions - renewable energy, reforestation, carbon capture. Serious, articulate, civic engagement atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

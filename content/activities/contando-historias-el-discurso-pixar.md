@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/contando-historias-el-discurso-pixar.png" # 
+image: "/imagenes/actividades/contando-historias-el-discurso-pixar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -26,6 +26,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X211"
+image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Using Pixar story structure (6 sentences) - Once upon a time, Every day, Until one day, Because of that, Because of that, Ever since then. Creating story about biodiversity loss or conservation. Sharing with group. Discussing how stories can inspire action. Creative storytelling, narrative advocacy, emotional connection atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

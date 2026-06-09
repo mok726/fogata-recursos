@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/circulo-de-biodiversidad.png" # 
+image: "/imagenes/actividades/circulo-de-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C31"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs around tree in Argentine forest. Marking 1-meter radius circle with string. Documenting every living thing inside - plants, mosses, lichens, fungi, insects, spiders, maybe small amphibian. Trying to identify species with guide and magnifying glass. Counting interactions (bee on flower, ant on aphid, fungus on root). Micro-ecosystem study, biodiversity intensity, scientific observation atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

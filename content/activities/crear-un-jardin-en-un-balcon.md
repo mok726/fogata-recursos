@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-jardin-en-un-balcon.png" # 
+image: "/imagenes/actividades/crear-un-jardin-en-un-balcon.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X112"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine balcony (apartment). Setting up large pots with drainage holes. Adding organic soil. Planting lavender, basil, rosemary, marigolds in pots. Watering with small watering can. Observing bees even in city! Urban conservation, balconies can help atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Exterior (balcón)"

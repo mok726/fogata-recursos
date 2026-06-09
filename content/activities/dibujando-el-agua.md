@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/dibujando-el-agua.png" # 
+image: "/imagenes/actividades/dibujando-el-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X258"
+image_prompt: "Young scouts ages 5-10 playing Water Pictionary. Water vocabulary words - river, lake, ocean, rain, cloud, tap, well, flood, drought, ice, steam, fish, boat. Drawing without words or letters. Team guessing. Fun vocabulary building, artistic expression, teamwork atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

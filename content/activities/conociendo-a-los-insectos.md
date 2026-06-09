@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/conociendo-a-los-insectos.png" # 
+image: "/imagenes/actividades/conociendo-a-los-insectos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X24"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in scout meeting room in Argentina. Creating posters about soil insects. One drawing earthworm, another drawing beetle. Magnifying glass on table. Reference books open. Colorful markers and paper. Bright daylight. Creative, curious atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

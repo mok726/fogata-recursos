@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/conservacion-in-situ-vs-ex-situ.png" # 
+image: "/imagenes/actividades/conservacion-in-situ-vs-ex-situ.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D13"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning about in-situ conservation (national parks, protected areas) vs ex-situ (zoos, botanical gardens, seed banks). Examples in Argentina - Los Glaciares National Park (in-situ), Ecoparque Buenos Aires (ex-situ zoo), Banco de Germoplasma INTA (ex-situ seed bank). Discussing when to use each, effectiveness. Conservation strategy evaluation, protected area management, ecological restoration atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

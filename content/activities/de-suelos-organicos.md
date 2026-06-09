@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/de-suelos-organicos.png" # 
+image: "/imagenes/actividades/de-suelos-organicos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X71"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine supermarket or scout room. Looking at organic certification labels on products. Researching how organic farming protects soil health (no synthetic pesticides, crop rotation). Preparing short presentation. Consumer-conscious atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior / Exterior"

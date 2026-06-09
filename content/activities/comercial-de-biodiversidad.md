@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/comercial-de-biodiversidad.png" # 
+image: "/imagenes/actividades/comercial-de-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D22"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) creating 30-60 second video commercial about biodiversity importance. Filming, editing. Uploading to YouTube (with parental permission). Tracking views and comments for one month. Reporting results to group. Media production, conservation messaging, digital literacy, impact measurement atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

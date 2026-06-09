@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.png" # 
+image: "/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X114"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine yard. Covering grass with cardboard. Adding compost layer. Waiting weeks. Later removing cardboard, scattering native wildflower seeds. Watering. Transforming lawn into pollinator meadow. Restoration project, patience atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Exterior"

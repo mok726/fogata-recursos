@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/corre-que-te-alcanzo.png" # 
+image: "/imagenes/actividades/corre-que-te-alcanzo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X221"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large hall. Polar bears chase seals. Hula hoops as safe ice floes. Climate change scenario - fewer ice floes (remove hoops). Polar bears struggle to catch seals. Game ends with discussion about how melting sea ice affects polar bears. Kinesthetic learning, climate empathy, active play atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Exterior / Interior"

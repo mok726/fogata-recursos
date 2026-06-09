@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/comprar-y-usar-papel-reciclado.png" # 
+image: "/imagenes/actividades/comprar-y-usar-papel-reciclado.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X361"
+image_prompt: "Older scouts ages 11-15 buying recycled paper for school. Printing double-sided, using email instead of print, reducing paper use. Encouraging family and school. Paper conservation, recycled products, digital alternatives atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cancon-del-ciclo-del-carbono.png" # 
+image: "/imagenes/actividades/cancon-del-ciclo-del-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X137"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing song lyrics about carbon cycle - photosynthesis, respiration, decomposition, fossil fuels. Using familiar melody or creating rap. Performing for group with clapping or instruments. Musical, creative, memorization atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

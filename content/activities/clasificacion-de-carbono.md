@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/clasificacion-de-carbono.png" # 
+image: "/imagenes/actividades/clasificacion-de-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X245"
+image_prompt: "Older scouts ages 11-21 researching CO2 emissions by country (total and per capita). Creating ranked poster - top emitters (China, USA, India, Russia) and per capita leaders (Qatar, Australia, US). Also showing low emitters. Discussing responsibility, historical emissions, development. Climate justice, data visualization, global inequality awareness atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

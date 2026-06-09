@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.png" # 
+image: "/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X319"
+image_prompt: "Young scouts ages 5-10 creating reminder stickers - Apágame (Turn me off). Placing on light switches, appliances, water faucets at home and school. Simple act of energy conservation awareness, creative design, habit reinforcement atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

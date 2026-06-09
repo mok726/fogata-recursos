@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/compartir-y-reusar-pertenencias.png" # 
+image: "/imagenes/actividades/compartir-y-reusar-pertenencias.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X365"
+image_prompt: "Older scouts ages 11-15 going through belongings, identifying items no longer needed. Donating, giving to friends, selling at garage sale. Repairing items to extend life. Sharing economy, waste reduction, generosity, mindful consumption atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

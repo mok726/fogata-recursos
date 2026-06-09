@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/colectando-agua.png" # 
+image: "/imagenes/actividades/colectando-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,8 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X126"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area (garden or campsite). Digging hole, filling with green vegetation. Placing container in center. Covering with clear plastic, sealing edges with stones. Placing small stone on plastic center over container. Waiting for condensation. Observing water droplets forming. Survival skill, scientific demonstration atmosphere."
+similar_activities: "https -//www.wikihow.com/Make-a-Solar-Still"
 tags:
   - Go Solar
 location: "Exterior"

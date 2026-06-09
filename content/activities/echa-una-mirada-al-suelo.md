@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/echa-una-mirada-al-suelo.png" # 
+image: "/imagenes/actividades/echa-una-mirada-al-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X37"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Looking at soil samples under microscope or magnifying glass. One scout carefully placing sample on slide. Others watching on screen or taking turns. Excited expressions seeing tiny organisms or particles. Notebooks with drawings. Bright room. Scientific wonder atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

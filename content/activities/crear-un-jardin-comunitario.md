@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-jardin-comunitario.png" # 
+image: "/imagenes/actividades/crear-un-jardin-comunitario.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -46,6 +46,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X333"
+image_prompt: "Older scouts ages 16-20 starting community or school garden. Planting vegetables (tomatoes, lettuce, peppers), herbs, flowers. Using compost, water efficient irrigation. Monitoring growth with photos/drawings. Sharing harvest. Food sovereignty, urban agriculture, community building, sustainable food production atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

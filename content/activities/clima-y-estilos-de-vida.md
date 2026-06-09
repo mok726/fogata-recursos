@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/clima-y-estilos-de-vida.png" # 
+image: "/imagenes/actividades/clima-y-estilos-de-vida.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X232"
+image_prompt: "Older scouts ages 11-21 researching how climate influences quality of life - where people vacation (beach vs mountains), outdoor recreation (skiing, swimming), health (heat waves, cold spells), clothing, housing design. Creating poster. Climate and society connections, adaptation strategies atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

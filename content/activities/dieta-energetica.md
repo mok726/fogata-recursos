@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/dieta-energetica.png" # 
+image: "/imagenes/actividades/dieta-energetica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A15"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) at home. Creating energy reduction plan - turning off lights, unplugging devices, walking/biking instead of driving, shorter showers. Implementing for 2 weeks. Tracking energy savings from bills or meter readings. Calculating CO2 reduction. Discussing how saving energy helps biodiversity (less habitat destruction for mining/drilling). Climate action, personal responsibility, quantitative thinking atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

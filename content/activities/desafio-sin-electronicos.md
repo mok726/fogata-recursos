@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/desafio-sin-electronicos.png" # 
+image: "/imagenes/actividades/desafio-sin-electronicos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X160"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) at home. One month challenge - limited electronics (TV, phone, computer). Tracking daily hours without devices. Finding alternative activities - reading, sports, board games, outdoor time. Journaling experience. At end, reflecting on dependence and benefits. Digital detox, self-discipline atmosphere."
 required: true
 required_for:
   - energia-X

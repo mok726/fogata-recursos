@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/diversion-con-peliculas.png" # 
+image: "/imagenes/actividades/diversion-con-peliculas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X218"
+image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) watching climate documentary (An Inconvenient Truth, Before the Flood, Our Planet). Discussing key messages, emotional responses, recommended actions. Creating group action plan based on documentary. Media literacy, climate education, collaborative planning atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png" # 
+image: "/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X373"
+image_prompt: "Older scouts ages 11-15 creating fashion show using recycled materials - newspaper dresses, bottle cap jewelry, cardboard hats, plastic bag capes. Modeling for audience. Creative reuse, upcycling fashion, artistic expression, environmental message atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

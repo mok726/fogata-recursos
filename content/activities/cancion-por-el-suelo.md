@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cancion-por-el-suelo.png" # 
+image: "/imagenes/actividades/cancion-por-el-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X53"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or campfire circle. Singing original song about soil protection with simple melody. One scout playing guitar or tapping rhythm. Others clapping and singing. Lyrics about erosion, pollution, and solutions. Joyful, musical, consciousness-raising atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior / Exterior"

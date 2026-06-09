@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cocina-solar.png" # 
+image: "/imagenes/actividades/cocina-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,8 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X167"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Building solar oven with pizza box lined with aluminum foil, plastic wrap cover, black paper. Placing food inside (s'mores, cheese melt). Positioning toward sun. Waiting patiently. Sustainable cooking, engineering patience atmosphere."
+similar_activities: "https -//www.solarcooking.org/plans/"
 tags:
   - Insignia de Energía
 location: "Exterior"

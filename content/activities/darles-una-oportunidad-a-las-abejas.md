@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/darles-una-oportunidad-a-las-abejas.png" # 
+image: "/imagenes/actividades/darles-una-oportunidad-a-las-abejas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,8 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X102"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine home or school garden. Planting native flowers in clusters. Adding bird bath with stones for water. Building simple bee hotel. Creating shelter with leaves and twigs. Before and after transformation. Hands-on conservation atmosphere."
+similar_activities: "https -//kidsgardening.org/ten-tips-to-help-pollinators/"
 required: true
 required_for:
   - polinizadores-X

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-diario-verde.png" # 
+image: "/imagenes/actividades/crear-un-diario-verde.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X374"
+image_prompt: "Older scouts ages 16-20 starting green journal - recording daily sustainable actions (energy saving, waste reduction, mindful consumption). Tracking progress, reflecting on challenges. Sharing insights with group. Self-reflection, habit tracking, mindfulness about environmental impact, journaling practice atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

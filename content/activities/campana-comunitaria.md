@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/campana-comunitaria.png" # 
+image: "/imagenes/actividades/campana-comunitaria.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X188"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community. Launching local clean energy campaign - battery collection (keeping toxics out of soil), energy efficiency workshop, LED lightbulb exchange. Using social media and flyers. Measuring impact (kg batteries collected, participants reached). Community organizing, environmental action, measurable impact atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

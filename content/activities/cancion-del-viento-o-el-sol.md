@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cancion-del-viento-o-el-sol.png" # 
+image: "/imagenes/actividades/cancion-del-viento-o-el-sol.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X150"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Rewriting lyrics of popular song about solar or wind energy. Example - Here Comes the Sun becomes Here Comes the Clean Power. Performing with clapping or instruments. Musical, creative, advocacy atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

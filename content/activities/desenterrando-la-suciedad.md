@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/desenterrando-la-suciedad.png" # 
+image: "/imagenes/actividades/desenterrando-la-suciedad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D14"
+image_prompt: "Older scouts ages 11-21 in groups investigating local forest pollution types - 1) Solid waste (illegal dumping, litter), 2) Water pollution (acid rain from industrial emissions, agricultural runoff, mine drainage), 3) Soil contamination (heavy metals, pesticides, oil spills), 4) Air pollution (particulate matter damaging leaves). Assessing severity, sources, biodiversity impacts (dying trees, missing amphibians, bird population declines). Proposing solutions - clean-up events, reporting illegal dumping, buffer zones, reducing fossil fuel use for acid rain, composting, proper disposal of hazardous waste. Presenting as news report. Pollution ecology, environmental justice, source identification, solutions journalism atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/construye-un-pozo.png" # 
+image: "/imagenes/actividades/construye-un-pozo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X302"
+image_prompt: "Older scouts ages 14-21 researching water charities - Charity - Water, WaterAid, UNICEF, local organizations. Choosing project (well in Africa, sanitation in Asia). Organizing fundraiser - bake sale, sponsored walk carrying water. Raising awareness about global water crisis. Fundraising, project selection, global citizenship, meaningful donation atmosphere."
 tags:
   - Parche del Agua
 location: "Interior / Exterior"

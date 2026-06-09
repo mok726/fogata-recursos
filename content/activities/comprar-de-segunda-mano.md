@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/comprar-de-segunda-mano.png" # 
+image: "/imagenes/actividades/comprar-de-segunda-mano.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X349"
+image_prompt: "Older scouts ages 11-15 buying second-hand items (books, clothes, furniture). Donating unneeded items. Learning that reusing saves energy (no new production). Circular economy, conscious consumption, thrift awareness atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"

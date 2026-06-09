@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png" # 
+image: "/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,8 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X203"
+image_prompt: "Young scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or garden. Using Seek app (iNaturalist) on phones/tablets to identify plants, insects, birds in real time. Pointing camera at leaf, flower, bug. App shows species name. Discussing what they found. Biodiversity discovery, citizen science, technology-in-nature atmosphere."
+similar_activities: "https -//www.inaturalist.org/pages/seek_app"
 tags:
   - Champions for Nature
 location: "Exterior"

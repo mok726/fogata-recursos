@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/consumo-y-especies-amenazadas.png" # 
+image: "/imagenes/actividades/consumo-y-especies-amenazadas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D06"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning how consumer choices impact endangered species - shark fin soup (sharks), beef (rainforest deforestation for cattle pasture), palm oil (orangutan habitat). Creating poster with region's most threatened species and challenges. Discussing how to change consumption habits. Ethical consumerism, supply chain awareness, personal responsibility atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

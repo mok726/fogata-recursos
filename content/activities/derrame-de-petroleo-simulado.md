@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/derrame-de-petroleo-simulado.png" # 
+image: "/imagenes/actividades/derrame-de-petroleo-simulado.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B13"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or backyard. Coating feather with vegetable or lubricating oil. Dipping clean feather and oiled feather in water. Observing how oiled feather no longer repels water, becomes heavy. Discussing real oil spill impacts on birds (hypothermia, inability to fly). Environmental awareness, toxic spill effects, empathy for wildlife atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

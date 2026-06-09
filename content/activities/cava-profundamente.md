@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cava-profundamente.png" # 
+image: "/imagenes/actividades/cava-profundamente.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X22"
+image_prompt: "Group of young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in an Argentine forest or park. Digging a small hole 30cm deep with small shovels. One scout examining soil with magnifying glass. Another taking notes on clipboard. One pointing at soil layers. Trees and grass around. Sunny day. Curious, scientific atmosphere."
 required: true
 required_for:
   - suelos-X

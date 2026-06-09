@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/dia-internacional-de-la-biodiversidad.png" # 
+image: "/imagenes/actividades/dia-internacional-de-la-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D24"
+image_prompt: "Older scouts ages 14-21 organizing community event for International Biodiversity Day (May 22). Activities - posters, songs, poems, art exhibition, concerts, theater, sports, quizzes, workshops, food tasting. Partnering with other groups. Measuring impact (attendance, media coverage, pledges). Large-scale event planning, community engagement, biodiversity celebration, leadership atmosphere."
+similar_activities: "https -//www.cbd.int/idb"
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

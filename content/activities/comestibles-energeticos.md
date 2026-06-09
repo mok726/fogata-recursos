@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/comestibles-energeticos.png" # 
+image: "/imagenes/actividades/comestibles-energeticos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -44,6 +44,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X243"
+image_prompt: "Scouts ages 5-21 researching energy use in food production - plowing, fertilizing, harvesting, transporting, processing, cooking. Comparing beef (high) vs lentils (low), local (low) vs imported (high). Preparing low-energy meal together (local, plant-based, seasonal). Sharing meal. Food energy literacy, sustainable eating, collaborative cooking atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

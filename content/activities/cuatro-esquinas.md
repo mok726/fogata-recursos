@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cuatro-esquinas.png" # 
+image: "/imagenes/actividades/cuatro-esquinas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X200"
+image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Four corners labeled with different options. Facilitator reads questions about sustainable consumption. Participants move to corner representing their opinion. Discussing choices with others in same corner, then sharing with whole group. Opinion-sharing, perspective-taking atmosphere."
 tags:
   - Champions for Nature
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.png" # 
+image: "/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X111"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden (home or school). Planning garden layout on paper. Preparing soil with compost. Planting flowers (lavender, marigold, sunflower) and vegetables (tomato, pumpkin). Watering. Observing bees visiting. Long-term project, hands-on learning atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Exterior"

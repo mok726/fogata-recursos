@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/disecciona-una-flor.png" # 
+image: "/imagenes/actividades/disecciona-una-flor.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X76"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Dissecting flowers on table. One scout carefully removing petal, another identifying stamen with magnifying glass. Flower diagram on poster for reference. Labeling parts (petal, stamen, pistil, sepal). Scientific curiosity, hands-on learning atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

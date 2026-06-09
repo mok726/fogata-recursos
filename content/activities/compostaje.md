@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/compostaje.png" # 
+image: "/imagenes/actividades/compostaje.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C08"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine backyard or school garden. Learning about composting - what is it, who are the workers (worms, bacteria, fungi). Building compost bin or pile with vegetable scraps, dry leaves, soil. Turning occasionally. Using finished compost in garden after 4-8 weeks. Closing nutrient loop, waste reduction, soil health atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

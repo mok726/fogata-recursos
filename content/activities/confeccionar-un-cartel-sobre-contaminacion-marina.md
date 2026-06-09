@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png" # 
+image: "/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -25,6 +25,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X21"
+image_prompt: "Scout meeting room in Argentina. Three young adults ages 18-25 (two women, one man, diverse - woman with dark skin and Afro puffs, woman with light skin and short pink hair, man with tan skin and beard) wearing scout neckerchiefs over casual clothes. Sitting on floor with art supplies spread around (markers, colored pencils, large paper sheets). Drawing large poster together. Poster shows split scene - left side clean ocean with fish and coral, right side polluted ocean with plastic bags, bottles, and sea turtle tangled in plastic rings. Center of poster has large wave symbol (no text). Young woman coloring ocean waves with blue markers. Another drawing fish. Man adding details to turtle. Finished posters from previous sessions leaning against wall. Bright daylight from large window. Passionate, creative, collaborative atmosphere. Group laughing and focused."
 location: "Interior"
 participants: "4-20"
 complexity_execution: 2

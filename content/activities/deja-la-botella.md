@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/deja-la-botella.png" # 
+image: "/imagenes/actividades/deja-la-botella.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X304"
+image_prompt: "Older scouts ages 14-21 researching tap water safety in area. Creating social media campaign encouraging tap water over bottled water - plastic waste, carbon footprint, microplastics, cost comparison. Educating community. Environmental advocacy, plastic pollution awareness, behavior change campaign atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

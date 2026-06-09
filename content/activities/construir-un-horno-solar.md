@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/construir-un-horno-solar.png" # 
+image: "/imagenes/actividades/construir-un-horno-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X390"
+image_prompt: "Older scouts ages 16-20 building solar oven from cardboard box, aluminum foil, glass or plastic cover, black paper. Cooking simple food (s'mores, cheese melt, vegetables) using sun's energy. Learning about renewable energy, passive solar cooking, appropriate technology. Hands-on engineering, sustainable cooking demonstration, solar energy appreciation atmosphere."
+similar_activities: "http -//www.sitiosolar.com/Horno%20Solar%20de%20caja.htm"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/crear-un-zumbido.png" # 
+image: "/imagenes/actividades/crear-un-zumbido.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X101"
+image_prompt: "Large group of scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or community center. World Bee Day event. Stations - building bee hotels, planting native flowers, learning about pesticide alternatives. Community families participating. Scouts demonstrating and explaining. Banners, joyful, community action atmosphere."
 required: true
 required_for:
   - polinizadores-X

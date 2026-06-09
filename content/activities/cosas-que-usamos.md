@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cosas-que-usamos.png" # 
+image: "/imagenes/actividades/cosas-que-usamos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X89"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching products from pollinated plants - cotton (clothes), almond oil, coffee, chocolate. One scout showing cotton t-shirt, another showing coffee beans. Connecting daily products to pollinators. Consumer awareness atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior"

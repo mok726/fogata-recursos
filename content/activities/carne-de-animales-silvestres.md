@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/carne-de-animales-silvestres.png" # 
+image: "/imagenes/actividades/carne-de-animales-silvestres.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D08"
+image_prompt: "Older scouts ages 16-21 researching bushmeat crisis in Central Africa (Gabon, Cameroon, Congo), Southeast Asia (Thailand, Vietnam), Amazon (Peru, Brazil). Species - duikers, primates, pangolins, tapirs, peccaries, turtles, rodents. Caza methods - wire snares, shotguns, dogs. Discussing drivers - poverty, lack of alternative protein, weak enforcement, logging roads providing access. Solutions - community-based wildlife management, sustainable hunting quotas, alternative protein sources (fish, chickens), law enforcement, sustainable livelihoods. Human-wildlife conflict, food security, cultural sensitivity, sustainable resource use debate atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

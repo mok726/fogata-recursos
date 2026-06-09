@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cartas-al-editor.png" # 
+image: "/imagenes/actividades/cartas-al-editor.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D28"
+image_prompt: "Older scouts ages 14-21 reading local newspaper for biodiversity articles. Selecting one article (development threatening wetland, pollution, species decline). Writing letter to editor expressing concern, offering solutions, calling for action. Mailing or emailing. Following up on publication. Media advocacy, persuasive writing, civic engagement atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

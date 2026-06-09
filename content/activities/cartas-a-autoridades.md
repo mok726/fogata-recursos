@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cartas-a-autoridades.png" # 
+image: "/imagenes/actividades/cartas-a-autoridades.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D30"
+image_prompt: "Older scouts ages 14-21 writing formal letter to local authorities (mayor, city council, environmental agency) about local biodiversity concern (lack of parks, pesticide spraying, creek pollution). Offering realistic solutions. Mailing or delivering. Following up on response. Advocacy, formal writing, persistent citizenship, political engagement atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/clima-y-salud.png" # 
+image: "/imagenes/actividades/clima-y-salud.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X229"
+image_prompt: "Older scouts ages 11-21 researching climate-sensitive diseases - malaria (spreading to new areas as temperatures rise), dengue, Lyme disease, heat stroke. Creating presentation on connections between climate change and health. Public health, climate impacts, scientific communication atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/construir-una-abonera.png" # 
+image: "/imagenes/actividades/construir-una-abonera.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X389"
+image_prompt: "Older scouts ages 16-20 building compost bin from wooden pallets or wire mesh. Collecting kitchen scraps (fruit/vegetable peels, eggshells, coffee grounds) and yard waste (leaves, grass). Learning decomposition, soil health, nutrient cycling, waste reduction. Hands-on composting, circular nutrient system, soil building atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

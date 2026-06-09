@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/curso-intensivo-cultural.png" # 
+image: "/imagenes/actividades/curso-intensivo-cultural.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -24,6 +24,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X266"
+image_prompt: "Older scouts ages 14-17 researching water significance in different cultures - Ganges River (Hinduism), Baptism (Christianity), Wudu (Islam), Rain dances (Native American), Songkran water festival (Thailand). Sharing findings. Cross-cultural understanding, spiritual connection to water, global traditions atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

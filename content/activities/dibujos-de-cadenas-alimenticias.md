@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/dibujos-de-cadenas-alimenticias.png" # 
+image: "/imagenes/actividades/dibujos-de-cadenas-alimenticias.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X133"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing local food chains - grass to rabbit to fox or flower to bee to bird. One scout showing drawing, explaining carbon cycle connection. Colorful posters. Ecological understanding, systems thinking atmosphere."
 required: true
 required_for:
   - energia-X

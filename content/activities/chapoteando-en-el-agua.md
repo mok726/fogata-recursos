@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/chapoteando-en-el-agua.png" # 
+image: "/imagenes/actividades/chapoteando-en-el-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X250"
+image_prompt: "Young scouts ages 5-10 observing puddles after rain near Argentine home. Drawing life inside and around - mosquito larvae, water striders, birds bathing, dog drinking. Monitoring how long puddles take to dry. Discussing where insects go when puddle disappears. Micro-habitat ecology, artistic documentation, nature curiosity atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior"

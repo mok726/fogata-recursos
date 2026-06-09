@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.png" # 
+image: "/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,8 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X118"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or scout room. Participating in citizen science project - counting bees in 15-minute period, uploading observations to app (iNaturalist or similar). Contributing real data to science. Learning they can help research. Empowering, scientific contribution atmosphere."
+similar_activities: "https -//www.inaturalist.org/projects/pollinators\nhttps -//www.greatsunflower.org/"
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"
