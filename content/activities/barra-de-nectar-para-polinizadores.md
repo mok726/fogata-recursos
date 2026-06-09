@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/barra-de-nectar-para-polinizadores.png" # 
+image: "/imagenes/actividades/barra-de-nectar-para-polinizadores.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A07"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Planting native flowers (lavender, salvia, verbena) that bloom at different times. Placing away from high traffic areas. Observing bees, butterflies, hoverflies visiting. Watering and caring for garden. Pollinator conservation, hands-on ecology atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

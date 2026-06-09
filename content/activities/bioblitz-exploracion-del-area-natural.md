@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bioblitz-exploracion-del-area-natural.png" # 
+image: "/imagenes/actividades/bioblitz-exploracion-del-area-natural.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -29,6 +29,8 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X204"
+image_prompt: "Young scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine natural area (park, forest, wetland). Marking plot with rope or hula hoop. Using magnifying glasses and cameras to find and document all species - plants, insects, spiders, birds within plot. Creating biodiversity inventory. Collaborative science, species discovery, nature immersion atmosphere."
+similar_activities: "https -//www.nationalgeographic.org/projects/bioblitz/"
 tags:
   - Champions for Nature
 location: "Exterior"

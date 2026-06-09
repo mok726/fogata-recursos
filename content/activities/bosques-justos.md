@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bosques-justos.png" # 
+image: "/imagenes/actividades/bosques-justos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B12"
+image_prompt: "Older scouts ages 16-21 discussing rights of indigenous and local communities to forest access and benefit sharing. How can forest management policies ensure fair distribution of resources? Topics - prior informed consent, traditional ecological knowledge, free trade agreements, certification schemes, REDD+ safeguards. Environmental justice, indigenous rights, policy debate atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

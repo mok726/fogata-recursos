@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/blogueando-por-la-energia.png" # 
+image: "/imagenes/actividades/blogueando-por-la-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X187"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or home. Creating group blog using free platform (WordPress, Blogger, Medium). Posting weekly tips, local energy news, interviews with experts. Promoting on social media. Analyzing which topics get most engagement. Digital literacy, content creation, persistence atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

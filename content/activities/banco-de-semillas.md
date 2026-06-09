@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/banco-de-semillas.png" # 
+image: "/imagenes/actividades/banco-de-semillas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C30"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) visiting seed bank (Banco de Germoplasma, INTA, or university collection). Learning what seed banks are, why they exist (crop diversity backup, extinction prevention, climate resilience). Seeing how seeds are stored (cold, dry). Asking how to get involved (seed saving, volunteering). Crop genetic conservation, food security, future-proofing agriculture atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

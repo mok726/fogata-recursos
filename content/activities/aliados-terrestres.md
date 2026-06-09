@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aliados-terrestres.png" # 
+image: "/imagenes/actividades/aliados-terrestres.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X56"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. One scout presenting poster about earthworms - how they aerate soil, create tunnels, decompose matter. Another presenting about plant roots holding soil. Others listening and asking questions. Educational, appreciative atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

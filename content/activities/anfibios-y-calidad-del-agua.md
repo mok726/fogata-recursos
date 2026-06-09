@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/anfibios-y-calidad-del-agua.png" # 
+image: "/imagenes/actividades/anfibios-y-calidad-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B22"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs near Argentine pond at dusk or night. Identifying local amphibians (frogs, toads). Using field guide. Observing skin moisture, toe webbing (aquatic adaptations). Discussing how amphibians are indicator species (sensitive to pollution). Learning about threats - chytrid fungus, habitat loss, pesticides. Amphibian ecology, bioindicator science, nocturnal exploration atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

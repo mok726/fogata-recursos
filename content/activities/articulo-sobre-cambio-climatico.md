@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/articulo-sobre-cambio-climatico.png" # 
+image: "/imagenes/actividades/articulo-sobre-cambio-climatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X146"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or library. Researching local climate impacts - droughts in Cuyo, floods in Buenos Aires, glacial retreat in Andes. Interviewing local farmers or experts. Writing newspaper-style article. Publishing to school or community. Journalistic, advocacy atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/calentamiento-desigual.png" # 
+image: "/imagenes/actividades/calentamiento-desigual.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X142"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Three containers - dark soil, sand, water. Thermometers in each. Recording temperatures every minute for 10 minutes. Dark soil heats fastest, water slowest. Discussing albedo effect, urban heat islands. Data analysis, climate science atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior"

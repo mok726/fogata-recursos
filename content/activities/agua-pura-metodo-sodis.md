@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/agua-pura-metodo-sodis.png" # 
+image: "/imagenes/actividades/agua-pura-metodo-sodis.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X127"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Filling clear PET bottles with water from natural source. Shaking to oxygenate. Placing on reflective surface (aluminum foil, white sheet). Leaving in direct sun for 6 hours. UV radiation kills pathogens. Learning low-tech water purification. Practical health technology atmosphere."
+similar_activities: "https -//www.who.int/water_sanitation_health/publications/sODIS_spanish.pdf"
 tags:
   - Go Solar
 location: "Exterior"

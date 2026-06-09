@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aventuras-linguisticas.png" # 
+image: "/imagenes/actividades/aventuras-linguisticas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -24,6 +24,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X254"
+image_prompt: "Young scouts ages 5-10 learning word for water in different languages - water (English), agua (Spanish), eau (French), Wasser (German), acqua (Italian), voda (Russian), maji (Swahili), mizu (Japanese). Creating tongue twister mixing words. Language diversity, global awareness, fun learning atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

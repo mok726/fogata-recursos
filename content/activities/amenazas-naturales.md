@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/amenazas-naturales.png" # 
+image: "/imagenes/actividades/amenazas-naturales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B15"
+image_prompt: "Older scouts ages 11-21 researching natural disaster where forests played mitigating or exacerbating role - mangroves reducing tsunami impact (2004 Indian Ocean), deforestation causing landslides (Philippines, Brazil), forest cover reducing flood severity (China), wildfire after drought. Creating news report (article, blog, radio, video). Disaster risk reduction, ecosystem-based adaptation, forest protective functions awareness atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

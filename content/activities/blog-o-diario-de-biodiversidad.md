@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/blog-o-diario-de-biodiversidad.png" # 
+image: "/imagenes/actividades/blog-o-diario-de-biodiversidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D26"
+image_prompt: "Older scouts ages 14-21 starting biodiversity blog (online) or journal (paper). Posting weekly - tips for youth (plant natives, reduce plastic, observe wildlife). Engaging readers via comments or school newspaper/radio. Tracking which topics get most response over month. Digital writing, science communication, youth voice, persistence atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

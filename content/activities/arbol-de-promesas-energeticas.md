@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arbol-de-promesas-energeticas.png" # 
+image: "/imagenes/actividades/arbol-de-promesas-energeticas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X184"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community center or school. Creating large tree mural on wall. Community members writing energy-saving pledges on paper leaves - turn off lights, unplug chargers, use less AC, hang-dry clothes. Pasting leaves on tree. Photographing. Community commitment, collective action atmosphere."
 required: true
 required_for:
   - energia-X

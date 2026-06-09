@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bosques-en-llamas.png" # 
+image: "/imagenes/actividades/bosques-en-llamas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D13"
+image_prompt: "Older scouts ages 11-21 researching local forest fire management - prescribed burns (for reducing fuel load, promoting fire-dependent species), wildfire suppression, community evacuation plans, fire danger rating systems (red flag warnings), campfire bans, Smokey Bear program (prevention education). Fire ecology - serotinous cones (pines need heat to open seeds), fire-adapted species (thick bark, resprouting after fire). Discussing role of climate change in worsening fires (longer fire season, drier fuels). Learning personal prevention measures - never leave campfire unattended, fully extinguish until cold to touch, avoid fireworks in dry areas, report suspicious fires. Fire ecology literacy, prevention education, community safety, climate-fire connection awareness atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/adivina-el-ods.png" # 
+image: "/imagenes/actividades/adivina-el-ods.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X175"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Teams draw SDG card (e.g., Clean Energy, Climate Action). Creating short skit without naming goal. Others guess. Using symbols - sun for solar, wind sounds for wind energy, dropping trash for responsible consumption. Creative, communication, SDG awareness atmosphere."
 required: true
 required_for:
   - energia-X

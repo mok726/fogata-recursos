@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arte-inspirado-en-el-mar.png" # 
+image: "/imagenes/actividades/arte-inspirado-en-el-mar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B14"
+image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching marine art and literature (Hokusai's Great Wave, Moby Dick, The Old Man and the Sea). Creating own artwork - painting of coral reef, clay sculpture of sea turtle, poem about whale. Expressing beauty and importance of marine biodiversity. Art for conservation, creative expression, ocean appreciation atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

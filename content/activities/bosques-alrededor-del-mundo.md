@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bosques-alrededor-del-mundo.png" # 
+image: "/imagenes/actividades/bosques-alrededor-del-mundo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C06"
+image_prompt: "Young scouts ages 5-15 learning words for forest and tree in 10 languages - English (forest/tree), Spanish (bosque/árbol), Portuguese (floresta/árvore), French (forêt/arbre), German (Wald/Baum), Italian (foresta/albero), Russian (лес/дерево), Mandarin (森林/树), Hindi (जंगल/पेड़), Swahili (msitu/mti). Writing on world map. Noting similarities between languages from same families. Linguistic diversity, cultural geography, language appreciation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

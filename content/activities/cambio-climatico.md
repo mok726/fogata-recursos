@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cambio-climatico.png" # 
+image: "/imagenes/actividades/cambio-climatico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,8 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X287"
+image_prompt: "Older scouts ages 14-17 researching climate change impacts on water - more intense floods, longer droughts, sea level rise, glacial melt (Andes), changing rainfall patterns. Connecting to natural disasters (hurricanes, floods). Exploring water management adaptation strategies - reservoirs, early warning systems, flood barriers. Climate-water nexus, disaster resilience, adaptation planning atmosphere."
+similar_activities: "https -//www.emdat.be/"
 tags:
   - Insignia del Agua
 location: "Interior"

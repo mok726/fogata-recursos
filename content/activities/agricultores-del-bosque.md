@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/agricultores-del-bosque.png" # 
+image: "/imagenes/actividades/agricultores-del-bosque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C16"
+image_prompt: "Older scouts ages 16-21 researching forest farming systems - 1) Traditional agroforestry (slash-and-burn rotation, shifting cultivation), 2) Home gardens (multi-story cropping), 3) Silvopasture (trees + livestock), 4) Shade-grown coffee/cacao, 5) Forest gardening (food forest design), 6) Indigenous swidden systems. Creating model, comic strip, or short illustrated novel showing how forest farming can enhance biodiversity. Traditional ecological knowledge, sustainable agriculture, forest conservation vs food production balance atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

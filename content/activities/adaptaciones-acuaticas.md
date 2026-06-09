@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/adaptaciones-acuaticas.png" # 
+image: "/imagenes/actividades/adaptaciones-acuaticas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B03"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnologies) wearing scout neckerchiefs in Argentine scout room. Comparing aquatic animal adaptations - fish gills and fins, dolphin echolocation, octopus camouflage, coral symbiosis. Discussing human inventions inspired by them - submarines (fish), sonar (dolphins), suction cups (octopus). If possible, visiting aquarium. Bioinspiration, marine biology, comparative anatomy atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

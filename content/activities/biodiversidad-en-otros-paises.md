@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/biodiversidad-en-otros-paises.png" # 
+image: "/imagenes/actividades/biodiversidad-en-otros-paises.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D05"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) in Argentine scout room. Choosing three countries to visit (Costa Rica, Madagascar, New Zealand). Researching ecosystems (rainforest, coral reef, alpine), national symbols (tree, flower, bird, animal), threats (deforestation, invasive species, poaching). Finding photos of nature. Global biodiversity awareness, comparative ecology, cultural appreciation atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

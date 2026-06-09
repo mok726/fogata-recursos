@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.png" # 
+image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X46"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs sitting in circle in Argentine scout room. Holding books (Jack and the Beanstalk, The Lorax). Discussing how soil appears in story. One scout reading passage aloud. Another pointing at illustration of magic beans growing. Cozy, literary atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/amenazas-locales.png" # 
+image: "/imagenes/actividades/amenazas-locales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X92"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Brainstorming threats to pollinators on whiteboard - pesticides, habitat loss, climate change. One scout writing. Group discussing solutions - plant native flowers, avoid pesticides. Serious, problem-solving atmosphere."
 required: true
 required_for:
   - polinizadores-X

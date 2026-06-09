@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aprender-a-coser-y-remendar-ropa.png" # 
+image: "/imagenes/actividades/aprender-a-coser-y-remendar-ropa.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X370"
+image_prompt: "Older scouts ages 16-20 learning sewing skills - buttons, hems, patches, mending holes. Extending clothing life, reducing textile waste. Practical life skills, slow fashion, resourcefulness, self-sufficiency atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

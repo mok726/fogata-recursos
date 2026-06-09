@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/articulando-energia.png" # 
+image: "/imagenes/actividades/articulando-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X179"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Cards with energy terms - renewable, fossil fuel, photovoltaic, geothermal, turbine, efficiency, carbon footprint. Describing without using the word. Others guess. Vocabulary building, quick thinking, communication skills atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

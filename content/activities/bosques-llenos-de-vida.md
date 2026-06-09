@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bosques-llenos-de-vida.png" # 
+image: "/imagenes/actividades/bosques-llenos-de-vida.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -44,6 +44,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B01"
+image_prompt: "Older scouts ages 11-21 researching local forest (Selva Misionera, Bosque Atlántico, Parque Nacional). Creating creative report - play, news show, website, poster covering forest type, cultural importance, livelihoods, threats, conservation efforts. Environmental research, creative communication, local forest stewardship atmosphere."
 required: true
 required_for:
   - bosques-B

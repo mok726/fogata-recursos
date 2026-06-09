@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/al-blog.png" # 
+image: "/imagenes/actividades/al-blog.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X306"
+image_prompt: "Older scouts ages 14-21 creating group blog about water topics - conservation tips, local water issues, poetry, stories, videos, infographics. Sharing with YUNGA. Inviting comments and followers. Digital storytelling, water advocacy, written and multimedia expression, global reach atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

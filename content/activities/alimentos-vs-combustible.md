@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/alimentos-vs-combustible.png" # 
+image: "/imagenes/actividades/alimentos-vs-combustible.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X158"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Debating food vs fuel - should crops be used for biofuels when people are hungry? One team arguing for biofuels (energy security), other for food first (hunger). Using scientific evidence. Ethical, complex, nuanced debate atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

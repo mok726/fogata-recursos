@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arte-solar.png" # 
+image: "/imagenes/actividades/arte-solar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -48,6 +48,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X119"
+image_prompt: "Group of scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Using magnifying glasses to focus sunlight on wooden boards, creating burned designs. One scout drawing sun, another writing name. Adult supervisor nearby. Bucket of water for safety. Sunglasses with UV protection. Hands-on, careful, creative atmosphere."
 tags:
   - Go Solar
 location: "Exterior"

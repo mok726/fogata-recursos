@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arte-futurista.png" # 
+image: "/imagenes/actividades/arte-futurista.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X234"
+image_prompt: "Young scouts ages 5-15 drawing their city in 100 years under climate change scenarios - sea walls if coastal, more trees and green roofs, solar panels everywhere, floating houses, vertical gardens. Exhibiting drawings. Climate futures, creative adaptation, hopeful or cautionary visions atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

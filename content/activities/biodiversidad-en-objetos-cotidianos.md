@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/biodiversidad-en-objetos-cotidianos.png" # 
+image: "/imagenes/actividades/biodiversidad-en-objetos-cotidianos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D09"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) in Argentine scout room. Choosing a room (classroom, living room). Identifying objects that come from biodiversity - wooden table from tree, cotton shirt from plant, wool sweater from sheep, paper from trees, leather shoes from cow. Creating collage showing connections. Discussing which has most complex origin chain. Material literacy, supply chain thinking, biodiversity connection awareness atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

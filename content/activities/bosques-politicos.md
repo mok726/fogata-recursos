@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bosques-politicos.png" # 
+image: "/imagenes/actividades/bosques-politicos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C19"
+image_prompt: "Older scouts ages 16-21 researching forest resistance movements - 1) Chipko movement (India, 1970s) - villagers hugging trees to prevent logging, 2) Green Belt Movement (Kenya, Wangari Maathai) - women planting trees for democracy and environment, 3) Amazon rubber tappers movement (Chico Mendes) - protecting forests and livelihoods, 4) Standing Rock (Dakota Access Pipeline) - indigenous water protectors. Presenting findings creatively - podcast, recited poem, dance, news report. Environmental activism, civil disobedience history, forest as political symbol, grassroots organizing atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

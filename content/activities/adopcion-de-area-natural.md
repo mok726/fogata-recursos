@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/adopcion-de-area-natural.png" # 
+image: "/imagenes/actividades/adopcion-de-area-natural.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C29"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs adopting a natural area (local park, stream corridor, vacant lot). Cleaning trash, removing invasive species. Making biodiversity inventory of plants and animals. Mapping species locations and dependencies (which butterfly on which flower). Presenting findings. Developing long-term protection plan. Land stewardship, ecological restoration, community leadership atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

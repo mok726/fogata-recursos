@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cambio-climatico-y-agricultura.png" # 
+image: "/imagenes/actividades/cambio-climatico-y-agricultura.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X220"
+image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) discussing how climate change affects local agriculture - changing growing seasons, drought impact on crops, new pests. Exploring solutions - drought-resistant varieties, irrigation, crop diversification. Summarizing in report or presentation. Food security, agricultural adaptation, regional focus atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

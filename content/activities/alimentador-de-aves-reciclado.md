@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/alimentador-de-aves-reciclado.png" # 
+image: "/imagenes/actividades/alimentador-de-aves-reciclado.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A04"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Building bird feeder from recycled plastic bottle or carton. Adding birdseed or fruit. Hanging on tree safe from cats. Observing and recording bird visitors for two weeks. Citizen science, backyard conservation, patience atmosphere."
+similar_activities: "http -//fieltro.net/como-hacer-un-alimentador-de-aves/"
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

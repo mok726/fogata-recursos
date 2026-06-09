@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bosques-sagrados.png" # 
+image: "/imagenes/actividades/bosques-sagrados.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C12"
+image_prompt: "Older scouts ages 16-21 researching three forest-sacred traditions - 1) India's sacred groves (Devarakadus) protected by local communities, 2) Japan's Shinto shrines in ancient forests (Chinju no Mori), 3) Indigenous Amazonian beliefs (Sachamama, earth spirits), 4) Celtic Druidic forest worship, 5) Native American forest spirituality. Learning about taboos, rituals, conservation outcomes. Spiritual ecology, religious diversity, indigenous worldviews, forest protection through sacred values atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

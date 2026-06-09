@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/barril-de-lluvia.png" # 
+image: "/imagenes/actividades/barril-de-lluvia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B12"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at home or school. Building rain barrel from clean recycled plastic barrel. Adding spigot at bottom, mesh screen to keep mosquitoes out, overflow outlet. Placing under downspout. Listing uses - watering garden, washing tools, flushing toilets. Calculating water savings. Water conservation, sustainable technology, hands-on plumbing atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

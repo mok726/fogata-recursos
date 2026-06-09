@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.png" # 
+image: "/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -25,6 +25,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X209"
+image_prompt: "Older scouts ages 11-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs visiting Argentine tree nursery (vivero). Learning how trees are grown from seeds, when to plant, which species are native. Touring greenhouses. Participating in planting activity if possible. Discussing reforestation benefits - carbon capture, habitat, soil retention. Hands-on forestry, native species appreciation atmosphere."
 tags:
   - Champions for Nature
 location: "Exterior"

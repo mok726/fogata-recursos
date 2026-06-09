@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arbol-de-deseos.png" # 
+image: "/imagenes/actividades/arbol-de-deseos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,8 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C05"
+image_prompt: "Scouts of all ages collecting natural materials (leaves, bark, smooth stones) as paper'. Writing wishes for themselves"
+similar_activities: "world. Creating large tree collage. Optional - photographing and sending to FAO Yunga program. Group reflection on shared wishes. Creative expression"
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/basura-por-que-es-importante.png" # 
+image: "/imagenes/actividades/basura-por-que-es-importante.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -25,6 +25,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X18"
+image_prompt: "Street in typical Argentine neighborhood (houses with bars on windows, sidewalk trees, no flags). Three young adults ages 18-25 (two women, one man, diverse - dark skin with braids, light skin with glasses, tan skin) wearing casual varied clothes (hoodie, denim jacket, colorful sweater). Walking on sidewalk with clipboards observing and taking notes. Ground has scattered litter - plastic bottle, fast food wrappers, plastic cup, cigarette butt. Background other pedestrians (older adults, family) walking past not noticing trash. One young woman pointing at litter with concerned expression. Thought bubble above her shows simple diagram - trash bag symbol pointing to plastic symbol pointing to damaged earth symbol. Overcast lighting typical of Argentine autumn. Investigative, civic-minded atmosphere."
 location: "Exterior"
 participants: "6-20"
 complexity_execution: 2

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.png" # 
+image: "/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -29,6 +29,7 @@ sdgs:
 activity_badges:
   - champions-for-nature
 activity_code: "champions-for-nature-X196"
+image_prompt: "Older scouts ages 11+ (mixed genders, diverse ethnicities) wearing scout neckerchiefs walking through Argentine neighborhood. Observing food-related objects - supermarket, restaurant, community garden, bakery, fruit shop, garbage bins with food waste. Creating food chain diagram based on observations. Discussing sustainability. Real-world investigation, systems thinking atmosphere."
 tags:
   - Champions for Nature
 location: "Exterior"

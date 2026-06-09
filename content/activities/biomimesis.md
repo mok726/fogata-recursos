@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/biomimesis.png" # 
+image: "/imagenes/actividades/biomimesis.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D21"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) in Argentine scout room. Learning biomimicry - nature-inspired inventions. Matching - excavador (mole/claw), paracaídas (maple seed), aletas (frog/duck feet), sonar (dolphin/bat), papel (wasp nest). Finding four more examples (velcro from burrs, bullet train from kingfisher, wind turbine from whale flippers, glue from mussels). Brainstorming current problems that could be solved with biomimicry. Innovation, nature as teacher, design thinking atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

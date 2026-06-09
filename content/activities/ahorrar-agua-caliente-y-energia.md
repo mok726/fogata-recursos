@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/ahorrar-agua-caliente-y-energia.png" # 
+image: "/imagenes/actividades/ahorrar-agua-caliente-y-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X354"
+image_prompt: "Older scouts ages 11-15 taking shorter showers, turning off water while soaping, collecting cold water while waiting for hot water (use for plants). Encouraging family. Saving both water and energy (heating). Water-energy nexus, behavioral change, simple impactful habits atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

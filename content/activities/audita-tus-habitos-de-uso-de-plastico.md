@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.png" # 
+image: "/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -27,6 +27,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X01"
+image_prompt: "Group of four preadolescents (11-14 years old, two girls, two boys, diverse ethnicities - light brown skin, white, Asian) sitting around a wooden table in a bright Argentine living room. On the table a large paper divided into three columns with recycling triangle, circular arrow, leaf symbols. Left side has plastic bottle, straw, bag. Right side has glass jar, metal straw, cloth bag. One girl holding pencil thoughtfully. Casual colorful clothes. Warm natural light from window with typical Argentine neighborhood view. Calm, reflective atmosphere."
 location: "Interior"
 participants: "6-15"
 complexity_execution: 2

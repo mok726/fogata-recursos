@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/brujula-solar-metodo-del-reloj.png" # 
+image: "/imagenes/actividades/brujula-solar-metodo-del-reloj.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X122"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Holding analog watch horizontally. Pointing 12 towards sun. Finding midpoint between hour hand and 12 to locate North. Practicing navigation skill. Learning to orient without compass. Practical outdoor skill atmosphere."
 tags:
   - Go Solar
 location: "Exterior"

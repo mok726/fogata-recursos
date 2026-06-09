@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aguas-sucias.png" # 
+image: "/imagenes/actividades/aguas-sucias.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X283"
+image_prompt: "Older scouts ages 14-17 researching recent water-related accidents in Argentina - Río Santiago pollution, Matanza-Riachuelo contamination, floods in La Plata (2013), droughts, mining spills. Creating case study with news clippings. Analyzing causes, damage to wildlife and livelihoods, prevention measures. Environmental disaster literacy, prevention advocacy, civic awareness atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior / Exterior"

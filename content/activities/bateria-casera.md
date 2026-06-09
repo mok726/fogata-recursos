@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bateria-casera.png" # 
+image: "/imagenes/actividades/bateria-casera.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,8 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X173"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room (adult supervision). Inserting galvanized nail and copper wire into potato. Connecting to multimeter to measure small voltage (0.5-1V). Understanding chemical energy to electrical energy conversion. Hands-on electricity, safe experimentation atmosphere."
+similar_activities: "https -//www.instructables.com/Potato-Battery/"
 tags:
   - Insignia de Energía
 location: "Interior"

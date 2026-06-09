@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/brujula-solar-metodo-de-la-sombra.png" # 
+image: "/imagenes/actividades/brujula-solar-metodo-de-la-sombra.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - go-solar
 activity_code: "go-solar-X123"
+image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Placing stick vertically in ground. Marking shadow tip with stone. Waiting 15 minutes. Marking new shadow tip. Drawing line between marks to find East-West line. Learning ancient navigation technique. Hands-on outdoor skill atmosphere."
 tags:
   - Go Solar
 location: "Exterior"

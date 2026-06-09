@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/buscando-la-suciedad.png" # 
+image: "/imagenes/actividades/buscando-la-suciedad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X61"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine neighborhood. Walking with clipboards, taking photos of pollution sources (illegal dump, litter, industrial runoff). One scout recording video report. Another interviewing local resident. Concerned, investigative, civic-minded atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior / Interior"

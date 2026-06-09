@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/adivinanzas-sobre-el-clima.png" # 
+image: "/imagenes/actividades/adivinanzas-sobre-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X238"
+image_prompt: "Young scouts ages 5-15 playing climate charades. Cards with terms - greenhouse effect, carbon footprint, renewable energy, melting glacier, solar power, drought, flood, reforestation. Acting out without words. Team guessing. Fun vocabulary building, kinesthetic learning, climate literacy through play atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cambiando-mentes.png" # 
+image: "/imagenes/actividades/cambiando-mentes.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -24,6 +24,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X13"
+image_prompt: "Living room of typical Argentine home (sofa, bookshelf, family photos without flags). Older teenage scout age 16 wearing scout uniform with neckerchief standing in front of laptop on small table. Laptop screen shows shocking image of beach covered in plastic waste. Four adults of different ages (parents and grandparents) sitting on couch and chairs - older woman gray hair, older man beard, middle-aged woman, middle-aged man. Thoughtful or concerned expressions. One adult nodding. One adult hand on chin. Teenager pointing at screen confidently. Warm lamp light. Respectful, persuasive atmosphere."
 location: "Interior"
 participants: "5-20"
 complexity_execution: 2

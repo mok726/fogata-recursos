@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/alimentos-del-bosque.png" # 
+image: "/imagenes/actividades/alimentos-del-bosque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C11"
+image_prompt: "Older scouts ages 11-21 learning about wild forest foods with expert forager or botanist. Identifying safe edible species - berries (blackberries, blueberries, elderberries), nuts (walnuts, hazelnuts, acorns after processing), mushrooms (with expert ONLY), wild greens (nettles, dandelion, sorrel), maple sap. Preparing forest meal together. SAFETY - absolute identification before eating. Traditional food systems, foraging ethics, wild food culinary skills, poison prevention awareness atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

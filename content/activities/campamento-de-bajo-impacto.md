@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/campamento-de-bajo-impacto.png" # 
+image: "/imagenes/actividades/campamento-de-bajo-impacto.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X192"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine campsite. Planning low-carbon camping - carpooling or public transport to site, using solar ovens for cooking, local organic food, reusable utensils, composting waste, leaving no trace. Calculating carbon savings. Documenting strategies. Practical sustainability, outdoor ethics, leadership atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/a-todos-nos-gusta-el-agua.png" # 
+image: "/imagenes/actividades/a-todos-nos-gusta-el-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua-obligatoria
 activity_code: "del-agua-obligatoria-X248"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine natural area (forest, wetland, farm, park). Observing how different species use water - frogs absorbing through skin, mosquitoes near stagnant water, birds bathing, plants near streams. Taking notes and photos. Creating poster about water importance. Ecological observation, biodiversity awareness, field science atmosphere."
 tags:
   - Insignia del Agua (Obligatoria)
 location: "Exterior"

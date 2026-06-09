@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/alimentos-sedientos.png" # 
+image: "/imagenes/actividades/alimentos-sedientos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X273"
+image_prompt: "Older scouts ages 11-15 researching water footprint of foods - beef (15,000 L/kg), pork (6,000), chicken (4,300), vegetables (300-500), grains (1,500), coffee (18,900 L/kg!). Tracking food diary for one week. Calculating virtual water consumption. Identifying most water-intensive foods. Committing to one change (meatless Mondays). Food-water literacy, sustainable eating, behavior change atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

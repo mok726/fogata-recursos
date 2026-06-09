@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png" # 
+image: "/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X312"
+image_prompt: "Older scouts ages 11-15 choosing a country (Italy, Thailand, Mexico, Ethiopia). Researching traditional foods, agricultural products, how climate affects crops. Creating presentation for school or library. Cultural food diversity, global agriculture awareness, public speaking atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

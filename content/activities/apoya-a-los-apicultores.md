@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/apoya-a-los-apicultores.png" # 
+image: "/imagenes/actividades/apoya-a-los-apicultores.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X106"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine school or community center. Organizing beekeeper fair. Local beekeepers selling honey, beeswax candles, propolis. Scouts explaining importance of supporting local beekeepers. Posters, samples. Community economic support atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

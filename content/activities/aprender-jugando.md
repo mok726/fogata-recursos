@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aprender-jugando.png" # 
+image: "/imagenes/actividades/aprender-jugando.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C03"
+image_prompt: "Young scouts ages 5-15 researching traditional games from forest-based cultures - Amazonian dart blowgun practice games, African tree climbing races, Indonesian bamboo games, Native American tracking games. Playing three games. Discussing values taught - cooperation, observation, respect for nature, patience, physical skill. Traditional games, cultural diversity, values-based learning, active play atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior / Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/agua-sin-fronteras.png" # 
+image: "/imagenes/actividades/agua-sin-fronteras.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X288"
+image_prompt: "Older scouts ages 14-17 learning about transboundary waters - Río de la Plata (Argentina-Uruguay), Amazon (multiple countries), Nile (11 countries), Indus (India-Pakistan). Role-playing countries negotiating water sharing. Mediators facilitating cooperation. Discussing real-life examples of water diplomacy. Conflict resolution, international cooperation, diplomatic skills atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/a-donde-va-el-agua.png" # 
+image: "/imagenes/actividades/a-donde-va-el-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X278"
+image_prompt: "Older scouts ages 14-17 researching Argentina's water use by sector - agriculture (70-80%, irrigation for soy, corn, wheat), industry (10-15%), domestic (10-15%), energy (hydroelectric). Identifying savings opportunities (improve irrigation efficiency, fix leaks). National water policy, resource management, data analysis atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

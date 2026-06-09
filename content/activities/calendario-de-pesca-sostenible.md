@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/calendario-de-pesca-sostenible.png" # 
+image: "/imagenes/actividades/calendario-de-pesca-sostenible.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B17"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching local fish spawning seasons. Creating calendar showing which fish species can be sustainably consumed each month. Including images and key facts. Exhibiting at school or community center. Sustainable seafood, marine conservation, responsible consumer education atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/alimentos-energeticos.png" # 
+image: "/imagenes/actividades/alimentos-energeticos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X172"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Matching food cards with energy footprint - beef (high - 25 kcal input per 1 kcal food), vegetables (low), cheese (medium). Discussing which foods have highest energy cost. Food choices, environmental impact awareness atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

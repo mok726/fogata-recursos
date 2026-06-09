@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/calcular-tu-huella-de-carbono.png" # 
+image: "/imagenes/actividades/calcular-tu-huella-de-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X348"
+image_prompt: "Older scouts ages 16-20 calculating personal carbon footprint using online calculator. Identifying highest impact activities (transportation, diet, home energy, consumption). Making reduction plan. Digital tools, quantitative self-awareness, targeted action planning atmosphere."
+similar_activities: "http -//www.myfootprint.org/"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

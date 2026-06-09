@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/adoptar-un-rio-o-lago.png" # 
+image: "/imagenes/actividades/adoptar-un-rio-o-lago.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X339"
+image_prompt: "Older scouts ages 16-20 adopting a local river, lake, or natural area. Organizing initial cleanup. Conducting regular monitoring - water quality, wildlife presence, litter accumulation, vegetation recovery. Documenting progress. Reporting to authorities. Long-term stewardship, habitat restoration, ongoing conservation commitment, citizen science monitoring atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arriba-en-el-aire-adaptaciones.png" # 
+image: "/imagenes/actividades/arriba-en-el-aire-adaptaciones.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A03"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or scout room. Observing flying animals - birds, butterflies, bees. Drawing wings, feathers, light body structures. Researching seed dispersal (parachute seeds, helicopter seeds). Creating posters about adaptations for air travel. Evolutionary biology, creative learning atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

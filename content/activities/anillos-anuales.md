@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/anillos-anuales.png" # 
+image: "/imagenes/actividades/anillos-anuales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-A07"
+image_prompt: "Older scouts ages 11-21 examining tree stump or cut log. Counting growth rings to determine age. Observing spacing - wide rings (good growing years), narrow rings (drought, competition, disease). Creating poster explaining tree's life history. Dendrochronology, climate history interpretation, scientific observation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior / Interior"

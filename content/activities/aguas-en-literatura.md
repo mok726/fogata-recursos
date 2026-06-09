@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aguas-en-literatura.png" # 
+image: "/imagenes/actividades/aguas-en-literatura.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X261"
+image_prompt: "Older scouts ages 14-17 reading novel where water plays important role - Huckleberry Finn (Mississippi River), The Old Man and the Sea (ocean), Life of Pi (ocean), The Swarm (ocean). Writing book review focusing on water's importance or symbolism. Literary analysis, environmental themes, critical reading atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

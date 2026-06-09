@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/alimentos-locales.png" # 
+image: "/imagenes/actividades/alimentos-locales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X228"
+image_prompt: "Scouts ages 5-21 researching local crops in Argentina - corn, wheat, soybeans, sunflowers, grapes (Mendoza), yerba mate, apples (Patagonia). How climate affects production - frost risk, drought, hail. Creating illustrated report. Local food systems, climate-agriculture connection, regional pride atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

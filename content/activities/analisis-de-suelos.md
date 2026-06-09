@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/analisis-de-suelos.png" # 
+image: "/imagenes/actividades/analisis-de-suelos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X23"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) sitting at tables in scout meeting room in Argentina. Each team has soil samples in small containers. One team presenting at front with poster showing soil types map. Others listening and taking notes. Microscopio on table. Bright classroom lighting. Educational, collaborative atmosphere."
 required: true
 required_for:
   - suelos-X

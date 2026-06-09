@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aprender-haciendo.png" # 
+image: "/imagenes/actividades/aprender-haciendo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -26,6 +26,8 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X08"
+image_prompt: "Preadolescent age 11-14 sitting on floor of typical Argentine living room. Light brown skin, short hair, casual clothes (jeans and colorful hoodie). Next to them friend (different ethnicity, glasses) helping. Old colorful t-shirt spread on floor, scissors, washable marker. Cutting sleeves and neckline following drawn lines. Next to them finished reusable bag from another t-shirt. Sunlight from window with typical Argentine neighborhood view. Focused, crafty atmosphere. Two teenagers of different genders and ethnicities working together."
+similar_activities: "https -//revolucionalegre.blogspot.com/2011/05/reutilizando-de-bolso-camiseta.html\nhttps -//www.diariouno.com.ar/sociedad/reciclaje-no-tires-tu-vieja-remera-o-camiseta-y-transformala-un-hermoso-bolso-hacer-las-compras-n1425730\nhttps -//www.tvazteca.com/aztecauno/estilo-de-vida/3-ideas-bolsas-patrones-tela-hechas-a-mano-el-paso-a-paso-y-sin-maquina-coser/\nhttps -//www.nuevoestilo.es/manualidades-diy/a61319595/bolsa-tela-diy-practica-hecha-camiseta-vieja-tijeras/\nhttps -//www.losandes.com.ar/por-las-redes/como-hacer-un-hermoso-bolso-a-la-moda-con-ropa-vieja-que-ya-no-usas"
 location: "Interior"
 participants: "4-15"
 complexity_execution: 2

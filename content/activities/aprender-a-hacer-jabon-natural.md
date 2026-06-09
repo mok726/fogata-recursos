@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aprender-a-hacer-jabon-natural.png" # 
+image: "/imagenes/actividades/aprender-a-hacer-jabon-natural.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -45,6 +45,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X323"
+image_prompt: "Older scouts ages 16-20 learning natural soap making from local artisan. Using oils, lye, natural additives (herbs, essential oils). Making soap, selling at fundraiser for river/lagoon clean-up campaign. Traditional craft, chemistry, social enterprise, water protection awareness atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

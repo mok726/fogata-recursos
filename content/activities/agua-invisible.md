@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/agua-invisible.png" # 
+image: "/imagenes/actividades/agua-invisible.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X237"
+image_prompt: "Young scouts ages 5-15 learning about virtual water - water hidden in products (1 apple = 125L water, 1 burger = 2400L, 1 cotton t-shirt = 2700L). Creating poster of daily virtual water use. Reflecting on water conservation beyond tap water. Water footprint awareness, consumption choices, resource literacy atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

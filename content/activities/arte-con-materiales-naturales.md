@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arte-con-materiales-naturales.png" # 
+image: "/imagenes/actividades/arte-con-materiales-naturales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D17"
+image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) collecting natural materials (leaves, twigs, stones, feathers, seed pods). Creating art - mandalas, collages, sculptures, nature frames. Exhibiting natural art with story and message about biodiversity. Nature-based creativity, land art, environmental expression atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/biodiversidad-en-el-menu.png" # 
+image: "/imagenes/actividades/biodiversidad-en-el-menu.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C02"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Discussing what makes healthy diet. Imagining if only one fruit, one vegetable, one meat existed. Considering nutritional deficiencies, disease risk, boring meals. Learning how biodiversity (many species) contributes to balanced nutrition. Food diversity awareness, critical thinking about monoculture diets atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

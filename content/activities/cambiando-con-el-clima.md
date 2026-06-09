@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/cambiando-con-el-clima.png" # 
+image: "/imagenes/actividades/cambiando-con-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B08"
+image_prompt: "Older scouts ages 11-21 comparing climate impacts on three forest biomes - mangroves (sea level rise, saltwater intrusion), montane forests (temperature shifts, species migration), boreal forest (permafrost thaw, fires, pests). Creating card matching game linking forest type to climate effects and feedback loops. Forest-climate science, interactive learning, carbon cycle understanding atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

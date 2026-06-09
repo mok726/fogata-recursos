@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/bioblitz.png" # 
+image: "/imagenes/actividades/bioblitz.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D23"
+image_prompt: "Scouts of all ages in Argentine natural area (schoolyard, park, garden). Documenting every species possible in 24 hours. Using cameras, magnifying glasses, field guides. Taking photos, notes, drawings. Uploading to BioBlitz gallery. Discovering surprising species. Intensive biodiversity survey, citizen science, team collaboration, excitement of discovery atmosphere."
+similar_activities: "http -//www.education.eol.org/bioblitz/activities"
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

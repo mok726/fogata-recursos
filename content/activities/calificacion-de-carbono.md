@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/calificacion-de-carbono.png" # 
+image: "/imagenes/actividades/calificacion-de-carbono.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X177"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching carbon emissions per capita for different countries - Argentina vs China vs USA vs Germany vs Kenya. Creating bar chart or map poster. Discussing factors - population, industry, energy sources, lifestyle. Data analysis, global comparison, critical thinking atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

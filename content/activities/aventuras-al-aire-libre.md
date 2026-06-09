@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/aventuras-al-aire-libre.png" # 
+image: "/imagenes/actividades/aventuras-al-aire-libre.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C04"
+image_prompt: "Young scouts ages 5-15 listing forest recreational activities - hiking, camping, birdwatching, photography, picnicking, nature journaling, rock climbing, fishing, canoeing, mountain biking, plant identification, stargazing. Creating illustrated guide for three activities (gear, clothing, safety, leave no trace principles). Doing at least one activity. Outdoor recreation planning, forest connection, responsible enjoyment atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

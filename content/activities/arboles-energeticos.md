@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arboles-energeticos.png" # 
+image: "/imagenes/actividades/arboles-energeticos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B10"
+image_prompt: "Older scouts ages 11-21 researching forest-based energy - firewood, charcoal, wood pellets, biomass power plants, bioethanol, biodiesel from forest residues, biogas from forest waste. Inventing new energy device from forest materials. Creating mini-model. Renewable energy innovation, biomass energy awareness, engineering creativity atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

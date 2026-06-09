@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png" 
+image: "/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -24,6 +24,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X17"
+image_prompt: "Bedroom desk in small Argentine apartment (city view through window, no flags). Young adult age 18-25 (gender neutral appearance, light brown skin, short hair) wearing casual clothes (simple t-shirt, sweater). Wall calendar showing current month with small plastic bottle icons on early days, crossed-out bottle icons on later days showing clear progress. Notebook on desk with hand-drawn bar chart showing line going down from week 1 to week 4 ending at half symbol (50% reduction). Smartphone showing Instagram profile with photos of plastic-free habits and heart icon. Hand (different skin tone, friend or partner) holding marker about to add final checkmark to calendar. Proud, accomplished atmosphere. Room has small plants and reusable water bottle."
 location: "Ambos"
 participants: "6-20"
 complexity_execution: 2

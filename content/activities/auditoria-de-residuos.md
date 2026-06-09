@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/auditoria-de-residuos.png" # 
+image: "/imagenes/actividades/auditoria-de-residuos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D27"
+image_prompt: "Older scouts ages 11-17 conducting waste audit at home or school. Collecting and sorting trash for one week - weigh or count by category (plastic, paper, organic, glass, metal, hazardous). Creating action plan to reduce waste - composting, reusable containers, avoiding single-use. Implementing plan. Measuring reduction percentage. Waste stream analysis, behavior change, quantitative environmentalism atmosphere."
+similar_activities: "http -//www.globalfootprints.org/pdf/waste_num34.pdf"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

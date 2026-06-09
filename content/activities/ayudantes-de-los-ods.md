@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/ayudantes-de-los-ods.png" # 
+image: "/imagenes/actividades/ayudantes-de-los-ods.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X84"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating large poster showing OSD goals related to pollinators (zero hunger, life on land, climate action). Drawing bees, flowers, food. One scout writing OSD number 15. Colorful markers. Collaborative, global awareness atmosphere."
 required: true
 required_for:
   - polinizadores-X

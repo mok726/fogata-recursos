@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/acuerdos-internacionales.png" # 
+image: "/imagenes/actividades/acuerdos-internacionales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D15"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Researching international agreements - Convention on Biological Diversity (CBD), CITES (endangered species trade), Ramsar (wetlands), Paris Agreement (climate). Creating poster or short play explaining key agreements. Discussing which most urgent. Global environmental governance, treaty awareness, multilateral cooperation atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

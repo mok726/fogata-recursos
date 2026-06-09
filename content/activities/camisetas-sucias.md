@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/camisetas-sucias.png" # 
+image: "/imagenes/actividades/camisetas-sucias.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X43"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Examining clothing labels on their own shirts or pants. One scout pointing at 100% cotton label. Another looking up on tablet how cotton grows in soil. Group discussion. Bright room. Educational, consumer-awareness atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

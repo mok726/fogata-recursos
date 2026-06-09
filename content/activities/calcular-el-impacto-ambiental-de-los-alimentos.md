@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.png" # 
+image: "/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X388"
+image_prompt: "Older scouts ages 16-20 researching environmental impact of foods - water footprint (beef 15,000 L/kg vs vegetables 300 L/kg), carbon emissions, land use. Creating comparison charts. Discussing dietary changes for lower impact. Sustainable diet literacy, data analysis, informed food choices atmosphere."
+similar_activities: "www.fao.org/nr/water/promotional.html"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

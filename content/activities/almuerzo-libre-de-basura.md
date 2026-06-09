@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/almuerzo-libre-de-basura.png" # 
+image: "/imagenes/actividades/almuerzo-libre-de-basura.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X382"
+image_prompt: "Older scouts ages 11-15 packing zero-waste lunch - reusable lunchbox, metal or glass container, cloth napkin, reusable water bottle, metal utensils (not disposable). Avoiding plastic wrap, bags, single-use items. Waste reduction at school, plastic-free habits, sustainable lunch practice atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (escuela)"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/agua-alrededor-del-mundo.png" # 
+image: "/imagenes/actividades/agua-alrededor-del-mundo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X289"
+image_prompt: "Scouts ages 11-17 interviewing friends from other countries or whose parents immigrated. Questions - Do you drink tap water? Is water scarce? Is it free? Expensive? Comparing water habits and conservation ideas. Cross-cultural water literacy, global perspective, interview skills atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

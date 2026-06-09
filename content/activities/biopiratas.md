@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/biopiratas.png" # 
+image: "/imagenes/actividades/biopiratas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B13"
+image_prompt: "Older scouts ages 16-21 debating bioprospecting vs biopiracy. One team represents pharmaceutical companies arguing for access to traditional knowledge for drug development. Other team represents indigenous groups arguing against exploitation without fair compensation and consent. Topics - patents, benefit-sharing (Nagoya Protocol), ethical research, cultural respect, prior informed consent. Ethical debate, intellectual property, indigenous rights, pharmaceutical industry understanding atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

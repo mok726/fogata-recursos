@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/arboles-nativos-en-peligro.png" # 
+image: "/imagenes/actividades/arboles-nativos-en-peligro.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C27"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs researching rare native tree species in Argentina (palo borracho, ceibo, araucaria). Learning why rare (habitat loss, overharvesting, invasive species). Understanding animal species that depend on them (birds, insects, mammals). Planting a young tree in appropriate location (school, park, restoration site). Monitoring growth. Direct conservation action, native species appreciation, habitat restoration atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"
