@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/estudio-evolutivo.png" # 
+image: "/imagenes/actividades/estudio-evolutivo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X233"
+image_prompt: "Scouts ages 5-21 choosing a species and researching its climate adaptations - polar bear (thick fur, blubber), camel (hump fat, long eyelashes), cactus (water storage, spines), penguin (huddling behavior). Creating report or drawing. Evolutionary biology, climate adaptation, natural history appreciation atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.png" # 
+image: "/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X115"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine farmers market. Talking to farmer about organic practices (no synthetic pesticides). Buying local honey, organic apples. Learning to read labels. Choosing food that supports pollinators. Consumer power, informed choices atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

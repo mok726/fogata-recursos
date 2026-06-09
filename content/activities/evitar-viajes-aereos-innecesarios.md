@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/evitar-viajes-aereos-innecesarios.png" # 
+image: "/imagenes/actividades/evitar-viajes-aereos-innecesarios.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X351"
+image_prompt: "Older scouts ages 16-20 researching carbon footprint of air travel. Choosing alternative transport (train, bus) for vacations when possible. Learning about carbon offsets (paying for renewable energy or reforestation). Climate-conscious travel, emissions awareness, offsetting education atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

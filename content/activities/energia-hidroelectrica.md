@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-hidroelectrica.png" # 
+image: "/imagenes/actividades/energia-hidroelectrica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -29,6 +29,8 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X275"
+image_prompt: "Older scouts ages 11-15 building water wheel model with cardboard, bottle caps, straws. Understanding how hydropower works - flowing water turns turbine generating electricity. Learning about renewable energy. Connecting to ancient water mills for grinding grain. Hands-on engineering, renewable energy appreciation, history of technology atmosphere."
+similar_activities: "https -//www.tyengineering.org/watermills_sp.pdf"
 tags:
   - Insignia del Agua
 location: "Interior / Exterior"

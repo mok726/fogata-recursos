@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-juego-del-globo.png" # 
+image: "/imagenes/actividades/el-juego-del-globo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X178"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Passing inflatable globe ball while music plays. When stops, person holding ball names a country and energy connection - oil from Saudi Arabia, lithium from Bolivia for batteries, solar panels from China. Global awareness, supply chain understanding atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

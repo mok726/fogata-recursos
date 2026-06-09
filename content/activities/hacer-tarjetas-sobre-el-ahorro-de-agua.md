@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.png" # 
+image: "/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X355"
+image_prompt: "Older scouts ages 11-15 creating flashcards with water-saving facts - bath (90L) vs shower 5min (30L), tap off while brushing (1L) vs running (6L). Presenting at school, doing quiz. Peer education, water literacy, engaging data communication atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

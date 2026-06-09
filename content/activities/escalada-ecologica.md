@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/escalada-ecologica.png" # 
+image: "/imagenes/actividades/escalada-ecologica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C26"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs hiking Argentine mountain (Andes foothills). Observing plant and animal life at different altitudes. Measuring temperature, humidity, wind. Noting species changes - lowland forest to highland shrubs to alpine tundra. Discussing why biodiversity changes with altitude (temperature, oxygen, growing season). Mountain ecology, altitudinal zonation, physical challenge, team expedition atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

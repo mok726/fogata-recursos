@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.png" # 
+image: "/imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X321"
+image_prompt: "Older scouts ages 11-15 making greeting cards from recycled materials - cardboard boxes, magazine cutouts, fabric scraps, buttons. Sending to family with message about recycling importance. Creative reuse, waste reduction, personal connection, artistic expression atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

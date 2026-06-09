@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-factor-nutricional.png" # 
+image: "/imagenes/actividades/el-factor-nutricional.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X98"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching nutrients from pollinator-dependent foods - vitamin C from oranges, calcium from almonds, antioxidants from berries. Creating poster showing colorful fruits and vegetables. Discussing what happens if pollinators disappear. Health and environment connection atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-y-gravedad.png" # 
+image: "/imagenes/actividades/energia-y-gravedad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X162"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large room. Building ramp with cardboard or board. Rolling ball or toy car from different heights. Observing how higher start (more potential energy) converts to faster speed (more kinetic). Real-world physics, hands-on learning atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

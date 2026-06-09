@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-en-la-rutina.png" # 
+image: "/imagenes/actividades/energia-en-la-rutina.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X159"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Listing daily activities and energy forms - eating (chemical from food), walking (kinetic), watching TV (electrical), sleeping (potential). Presenting one activity explaining energy conversion. Self-awareness, energy literacy atmosphere."
 required: true
 required_for:
   - energia-X

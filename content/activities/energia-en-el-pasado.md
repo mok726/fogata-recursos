@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-en-el-pasado.png" # 
+image: "/imagenes/actividades/energia-en-el-pasado.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X165"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or at home. Interviewing grandparents or elderly neighbors about energy use in their childhood - candles vs electric lights, wood stoves vs gas, walking vs cars. Creating comparison chart. Presenting to group. Intergenerational learning, historical perspective atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

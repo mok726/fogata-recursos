@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-juego-del-ciclo-del-agua.png" # 
+image: "/imagenes/actividades/el-juego-del-ciclo-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -29,6 +29,8 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X253"
+image_prompt: "Young scouts ages 5-10 learning water cycle. Creating cards - evaporation (sun heating water), condensation (clouds forming), precipitation (rain/snow), collection (rivers, lakes, oceans). Each child describes their role. Optional mini water cycle experiment in baggie. Hands-on hydrology, science vocabulary, collaborative learning atmosphere."
+similar_activities: "https -//thewaterproject.org/lesson-plans/create-a-mini-water-cycle"
 tags:
   - Insignia del Agua
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/entrevista-a-un-cientifico.png" # 
+image: "/imagenes/actividades/entrevista-a-un-cientifico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D10"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) interviewing local scientist (biologist, ecologist, zoologist) about biodiversity research. Preparing questions - What species do you study? What discoveries excite you? What threats concern you most? Recording interview (audio or video). Sharing with group. Science communication, career exposure, curiosity-driven learning atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

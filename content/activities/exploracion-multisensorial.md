@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-multisensorial.png" # 
+image: "/imagenes/actividades/exploracion-multisensorial.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D12"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) designing multi-sensory biodiversity lesson. Using at least two senses - touch (fur, leaves, bark), smell (spices, flowers), taste (honey, fruit), sound (bird calls, insect buzzing), sight (photos, videos). Teaching group about biodiversity components, interactions, threats, importance. Creative pedagogy, multi-sensory learning, peer education atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

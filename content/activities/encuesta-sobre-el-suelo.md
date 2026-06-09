@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/encuesta-sobre-el-suelo.png" # 
+image: "/imagenes/actividades/encuesta-sobre-el-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X26"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) in Argentine scout meeting room. Preparing survey results on large poster board. One scout presenting bar chart showing how people use soil (gardening, sports, construction). Others listening. Colorful charts and drawings. Bright room. Collaborative, community-focused atmosphere."
 required: true
 required_for:
   - suelos-X

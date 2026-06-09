@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/habitos-animales.png" # 
+image: "/imagenes/actividades/habitos-animales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X45"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine zoo or park. Watching animals (prairie dogs digging, elephant throwing dust, birds foraging). Drawing or taking notes on clipboards. One scout sketching burrow. Another writing observations. Sunny day. Curious, biological observation atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior"

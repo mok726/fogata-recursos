@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-debate-sobre-la-mg.png" # 
+image: "/imagenes/actividades/el-debate-sobre-la-mg.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X63"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. News report format. One group presenting arguments for GMOs (higher yields, pest resistance). Other group presenting concerns (soil impact, biodiversity). Leader facilitating. Serious, thoughtful, contemporary debate atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

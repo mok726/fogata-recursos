@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/encuesta-de-polinizadores.png" # 
+image: "/imagenes/actividades/encuesta-de-polinizadores.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X74"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Walking slowly along measured line with clipboards. Counting bees, butterflies on flowers. One scout pointing at bee on sunflower. Another writing tally marks. Third taking photo with phone. Sunny day, blooming flowers. Scientific curiosity, teamwork atmosphere."
 required: true
 required_for:
   - polinizadores-X

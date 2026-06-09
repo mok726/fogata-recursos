@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/esculpir-un-desastre.png" # 
+image: "/imagenes/actividades/esculpir-un-desastre.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C14"
+image_prompt: "Older scouts ages 16-21 carving sculpture from reclaimed wood (from storm-fallen trees, driftwood, or sustainably sourced wood) inspired by natural disasters - floods, hurricanes, earthquakes, wildfires, tsunamis, landslides. Discussing how art can help process trauma and loss. Using safe carving techniques with adult supervision. Art therapy, disaster resilience, upcycling wood, emotional expression through sculpture atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

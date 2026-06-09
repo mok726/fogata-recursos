@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hierbas-comestibles-silvestres.png" # 
+image: "/imagenes/actividades/hierbas-comestibles-silvestres.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C04"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) learning from indigenous elder or grandparent about wild edible herbs (dandelion, clover, wild onion). Creating collage with photos/drawings, names, uses. Emphasizing SAFETY - NEVER eat without expert confirmation. Traditional ecological knowledge, plant identification, cultural respect, food security atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

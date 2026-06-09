@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/historias-solares.png" # 
+image: "/imagenes/actividades/historias-solares.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X132"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating exhibition about sun worship in ancient cultures (Incas, Egyptians, Aztecs). One scout drawing Inti sun god, another writing facts. Cardboard displays on table. Collaborative research, historical learning atmosphere."
 required: true
 required_for:
   - energia-X

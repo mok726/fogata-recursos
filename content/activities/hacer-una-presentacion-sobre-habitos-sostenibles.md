@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png" # 
+image: "/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X326"
+image_prompt: "Older scouts ages 16-20 creating presentation on sustainable habits for school or university - energy-efficient lighting, paper recycling, heating/cooling efficiency, water conservation, waste reduction. Using slides, posters, demonstrations. Persuasive communication, environmental education, public speaking atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

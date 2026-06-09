@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/fragmentacion-de-habitats.png" # 
+image: "/imagenes/actividades/fragmentacion-de-habitats.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D14"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning how habitat fragmentation affects genetic diversity (smaller populations, inbreeding, reduced resilience). Role-playing stakeholders (mayor, biologist, indigenous person, affected animal, developer) discussing highway through forest. Debating how to balance development and conservation. Conflict resolution, multi-stakeholder negotiation, systems thinking atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

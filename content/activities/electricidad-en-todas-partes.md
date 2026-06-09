@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/electricidad-en-todas-partes.png" # 
+image: "/imagenes/actividades/electricidad-en-todas-partes.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X235"
+image_prompt: "Young scouts ages 5-10 at home. Counting light switches and electrical outlets in each room. Drawing pictures of how electricity is used in their home (lights, TV, computer, fridge). Sharing drawings with group. Discussing energy consumption and ways to reduce. Home energy audit, electricity awareness, conservation beginnings atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior (hogar)"

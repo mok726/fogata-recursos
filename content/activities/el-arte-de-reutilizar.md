@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-arte-de-reutilizar.png" # 
+image: "/imagenes/actividades/el-arte-de-reutilizar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -26,6 +26,7 @@ sdgs:
 activity_badges:
   - planeta-sano
 activity_code: "planeta-sano-X07"
+image_prompt: "Sunny Argentine beach or riverside. Four older teenage scouts (14-17 years old, two boys, two girls, diverse - long braids, short curly hair, buzzed hair) wearing scout uniforms with neckerchiefs. Collecting plastic waste (bottles, caps, straws) with gloves and cloth bags. Background shows completed large sculpture made from collected plastic waste shaped like sea turtle. One scout taking photo with smartphone. Blue sky with clouds. Scouts look proud and empowered. Argentine landscape, no flags. Empowering, creative atmosphere."
 location: "Exterior"
 participants: "5-25"
 complexity_execution: 2

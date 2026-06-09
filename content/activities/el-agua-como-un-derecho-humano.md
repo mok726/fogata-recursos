@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-agua-como-un-derecho-humano.png" # 
+image: "/imagenes/actividades/el-agua-como-un-derecho-humano.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X297"
+image_prompt: "Older scouts ages 14-21 researching UN declaration on water as human right (2010). Debating - Is water a right? Should it be free? What are governments' obligations? Discussing differing opinions. Human rights education, water justice, ethical reasoning atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/filtros-naturales.png" # 
+image: "/imagenes/actividades/filtros-naturales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B10"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching natural filters - oysters filter feed, moss absorbs pollutants, tree roots trap sediment. Building DIY water filter with plastic bottle, layers of gravel, sand, activated charcoal. Pouring dirty water through, collecting clean water below. Comparing efficiency of different materials. Nature-based solutions, water purification engineering, hands-on science atmosphere."
+similar_activities: "http -//library.thinkquest.org/04apr/00222/spanish/filter1.htm"
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

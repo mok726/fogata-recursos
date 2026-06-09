@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/espiando-el-oceano.png" # 
+image: "/imagenes/actividades/espiando-el-oceano.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X222"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) creating ocean diorama in recycled shoebox - fish, coral, seaweed. Then covering half with black paper to simulate biodiversity loss from ocean acidification, warming. Discussing how to protect marine ecosystems. Creative environmental education, ocean conservation, visual metaphor atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

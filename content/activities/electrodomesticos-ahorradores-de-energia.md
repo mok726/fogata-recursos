@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/electrodomesticos-ahorradores-de-energia.png" # 
+image: "/imagenes/actividades/electrodomesticos-ahorradores-de-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X350"
+image_prompt: "Older scouts ages 16-20 researching energy efficiency labels in Argentina (ENERGY STAR, IRAM, etc.). Discussing with parents when buying new appliances - fridge, washing machine, TV, car. Recommending efficient models. Consumer advocacy, energy literacy, family economics influence atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

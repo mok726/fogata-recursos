@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/fiesta-de-mascaras-marinas.png" # 
+image: "/imagenes/actividades/fiesta-de-mascaras-marinas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B24"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Marine costume party - each child dresses as marine animal (jellyfish, dolphin, octopus, sea star). Presenting 3 facts about their species. Playing marine-themed games (crab walk race, whale breathing game). Learning marine biodiversity through play, creative costumes, joyful ocean education atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

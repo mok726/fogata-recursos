@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/formas-de-energia.png" # 
+image: "/imagenes/actividades/formas-de-energia.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X169"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Teams draw energy type card - thermal (shivering/hot), mechanical (pushing/pulling), sound (clapping/shouting), light (flashlight movements), electrical (buzzing). Acting out without words. Others guess. Fun, kinesthetic, memorable learning atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

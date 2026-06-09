@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/especie-amenazada-local.png" # 
+image: "/imagenes/actividades/especie-amenazada-local.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D02"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs researching local threatened species (jaguar in Yungas, huemul deer in Patagonia, cardonal cactus). Learning about habitat, diet, predators, behavior, threats (deforestation, poaching, climate change). Writing story or creating play about ecosystem without that species. Conservation storytelling, empathy for endangered species, creative advocacy atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

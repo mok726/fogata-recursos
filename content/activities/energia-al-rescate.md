@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-al-rescate.png" # 
+image: "/imagenes/actividades/energia-al-rescate.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X174"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Groups choose an SDG (Zero Hunger, Quality Education, Clean Water). Discussing how energy access enables these goals - refrigeration for food, electricity for schools, pumps for water. Presenting connections. Global development, systems thinking atmosphere."
 required: true
 required_for:
   - energia-X

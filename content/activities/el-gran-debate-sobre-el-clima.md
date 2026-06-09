@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.png" # 
+image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X242"
+image_prompt: "Older scouts ages 11-21 divided into two teams debating - Is current climate change primarily natural or human-caused? Researching evidence - solar cycles vs CO2 emissions, ice core data, climate models. Presenting arguments. Rebuttals. Conclusion - overwhelming scientific consensus on human causation. Critical thinking, evidence evaluation, scientific literacy atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

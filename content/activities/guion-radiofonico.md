@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/guion-radiofonico.png" # 
+image: "/imagenes/actividades/guion-radiofonico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D20"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) writing radio script about local biodiversity issue (wetland protection, endangered species, forest conservation). Partnering with local radio station to record and broadcast. Voicing characters themselves. Mass communication, scriptwriting, audio production, community outreach atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

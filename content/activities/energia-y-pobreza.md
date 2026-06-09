@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-y-pobreza.png" # 
+image: "/imagenes/actividades/energia-y-pobreza.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X183"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Brainstorming how lack of electricity perpetuates poverty - no lights for studying, no refrigeration for vaccines, no machines for businesses. How energy access could break cycle - solar lamps for schools, solar water pumps, mini-grids for villages. Innovative solutions, systems thinking atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

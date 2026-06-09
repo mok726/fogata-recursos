@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hacer-papel-reciclado-casero.png" # 
+image: "/imagenes/actividades/hacer-papel-reciclado-casero.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -42,6 +42,8 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X362"
+image_prompt: "Older scouts ages 11-15 making recycled paper at home or school. Blending scrap paper with water, spreading on screen, pressing, drying. Creating new paper sheets. Hands-on recycling, circular economy, paper making craft, forest protection awareness atmosphere."
+similar_activities: "http -//www.hacerpapel.com/"
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

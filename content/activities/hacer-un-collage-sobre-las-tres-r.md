@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.png" # 
+image: "/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X367"
+image_prompt: "Older scouts ages 11-15 creating collage or poster explaining 3Rs - Reduce, Reuse, Recycle. Using magazine cutouts, drawings, examples. Displaying at school, church, community center. Visual communication, environmental education, creative advocacy atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/hogar-dulce-hogar.png" # 
+image: "/imagenes/actividades/hogar-dulce-hogar.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X269"
+image_prompt: "Older scouts ages 14-17 researching freshwater vs saltwater species adaptations - freshwater fish (osmoregulation), salmon (anadromous), eels (catadromous), marine fish (salt excretion). Comparing deep sea creatures (bioluminescence) and extremophiles. Creating labeled poster. Evolutionary biology, aquatic adaptation, comparative anatomy atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

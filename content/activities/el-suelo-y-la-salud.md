@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-suelo-y-la-salud.png" # 
+image: "/imagenes/actividades/el-suelo-y-la-salud.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X27"
+image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating posters showing connection between soil nutrients and human health. One drawing fruits and vegetables with mineral icons (iron, calcium). Another writing key facts. Colorful markers. Bright daylight. Educational, health-conscious atmosphere."
 required: true
 required_for:
   - suelos-X

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png" # 
+image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A02"
+image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs walking through Argentine neighborhood. Using binoculars to observe shrub level, mid-air between trees, and treetops. Noticing insects, birds, leaves, fungi at different heights. Recording observations in field notebook. Urban ecology, vertical biodiversity exploration atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

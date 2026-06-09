@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-suelo-en-escena.png" # 
+image: "/imagenes/actividades/el-suelo-en-escena.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X73"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor stage. Performing short play about farming community facing soil erosion. One scout playing farmer, another playing scientist, others playing community members. Simple props (hat, watering can). Audience of other scouts. Creative, dramatic, consciousness-raising atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior / Exterior"

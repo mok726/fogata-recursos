@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-viejo-geiser.png" # 
+image: "/imagenes/actividades/el-viejo-geiser.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X151"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or visiting thermal springs (e.g., Copahue, Termas de Río Hondo). Researching geothermal energy. Creating photo collage of geysers, hot springs, geothermal plants. Discussing potential for local energy. Visual learning, renewable energy appreciation atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

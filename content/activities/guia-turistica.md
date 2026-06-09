@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/guia-turistica.png" # 
+image: "/imagenes/actividades/guia-turistica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X64"
+image_prompt: "Young scout ages 5-15 (mixed) wearing neckerchief, guiding friend (civil clothes) through Argentine garden or park. Scout pointing at soil, showing earthworm, explaining how plants get nutrients from soil. Friend listening and asking questions. Magnifying glass in hand. Sunny day. Teaching, sharing knowledge atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Exterior"

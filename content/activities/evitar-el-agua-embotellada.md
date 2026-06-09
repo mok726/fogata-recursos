@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/evitar-el-agua-embotellada.png" # 
+image: "/imagenes/actividades/evitar-el-agua-embotellada.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X380"
+image_prompt: "Older scouts ages 11-15 researching local tap water safety. If safe, committing to stop buying bottled water. Learning about plastic production energy, transport emissions, waste crisis. Switching to reusable bottle. Plastic pollution awareness, water conservation, single-use plastic reduction atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/experimento-de-biogas.png" # 
+image: "/imagenes/actividades/experimento-de-biogas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A14"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or backyard. Filling plastic bottle with organic matter (soil, vegetable scraps). Covering opening with balloon. Placing in warm location. Observing balloon inflate over 5-10 days as microbes produce methane. Learning about decomposition, biogas, microorganisms. Scientific patience, microbiology discovery atmosphere."
+similar_activities: "https -//www.pge.com/microsite/safety_esw_ngsw/ngsw/basics/experiment2.html"
 tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/empujon-del-viento.png" # 
+image: "/imagenes/actividades/empujon-del-viento.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,8 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X134"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or garden. Building pinwheels with paper and straws. Testing in wind - blowing, running, natural breeze. Watching blades spin. Observing wind effects on leaves and flowers. Hands-on, windy day, playful learning atmosphere."
+similar_activities: "https -//www.firstpalette.com/craft/pinwheel.html"
 tags:
   - Insignia de Energía
 location: "Exterior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-de-estanque.png" # 
+image: "/imagenes/actividades/exploracion-de-estanque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B07"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine pond or stream. Using small net to collect water samples. Pouring into clear container. Observing macroinvertebrates (insect larvae, snails, worms) with magnifying glass or microscope. Identifying indicator species (clean water vs polluted water). Recording findings. Returning samples. Water quality biomonitoring, aquatic ecology, citizen science atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

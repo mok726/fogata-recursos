@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png" # 
+image: "/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D10"
+image_prompt: "Older scouts ages 11-21 studying drought adaptations in four forest species - 1) Conifer (pine) - needle-like leaves reduce water loss, deep taproot, 2) Bird (e.g., finch) - gets water from seeds and insects, can go long without drinking, 3) Fungus (mushroom) - mycelium network absorbs moisture from soil, can go dormant, 4) Wildflower (e.g., desert marigold) - short growing season timed with rains, deep taproot, water-storing tissues. Discussing climate change impacts on these strategies - longer/more severe droughts may exceed adaptive capacity. Climate-adaptive traits, forest resilience to climate change, species vulnerability assessment atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

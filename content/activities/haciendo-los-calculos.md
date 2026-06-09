@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/haciendo-los-calculos.png" # 
+image: "/imagenes/actividades/haciendo-los-calculos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X279"
+image_prompt: "Older scouts ages 14-17 listing water-using appliances - toilet, washing machine, dishwasher, shower. Researching water consumption per use. Comparing old vs efficient models - low-flow toilet (6L) vs old (15L), front-load washer (50L) vs top-load (150L). Calculating potential savings. Creating poster to encourage efficient appliance choices. Appliance literacy, water conservation, consumer advocacy atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior (hogar)"

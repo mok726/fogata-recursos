@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/excursion-a-una-granja.png" # 
+image: "/imagenes/actividades/excursion-a-una-granja.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X93"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine sustainable farm. Farmer showing cover crops, hedgerows for bees. Scout recording video interview. Another taking photos. Seeing pollinators on flowers. Learning how farming can help or harm bees. Real-world conservation atmosphere."
 required: true
 required_for:
   - polinizadores-X

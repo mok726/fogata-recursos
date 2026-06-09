@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-de-paginas-web.png" # 
+image: "/imagenes/actividades/exploracion-de-paginas-web.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D04"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) in Argentine scout room with computers/tablets. Exploring biodiversity websites (EOL, Biodiversity911). Playing matching games, interactive maps, online quizzes about species identification. Digital learning, self-paced exploration, technology for ecology atmosphere."
+similar_activities: "https -//eol.org/"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

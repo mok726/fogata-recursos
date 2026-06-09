@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-futuro-del-agua.png" # 
+image: "/imagenes/actividades/el-futuro-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X263"
+image_prompt: "Older scouts ages 14-17 designing sustainable city of future - rainwater harvesting, greywater recycling, permeable pavements, green roofs, water-efficient appliances, desalination plants. Drawing or building model. Presenting innovations. Future thinking, sustainable design, creative problem-solving atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

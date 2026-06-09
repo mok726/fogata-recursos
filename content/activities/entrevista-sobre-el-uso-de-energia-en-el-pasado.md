@@ -13,7 +13,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.png" # 
+image: "/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - seguridad-alimentaria-y-cambio-climatico
 activity_code: "seguridad-alimentaria-y-cambio-climatico-X344"
+image_prompt: "Older scouts ages 11-15 interviewing grandparents or elderly about childhood - house type, electricity, appliances, entertainment, transportation. Comparing energy use then vs now. Drawing differences and similarities. Intergenerational learning, historical energy perspective, appreciation of past lifestyle atmosphere."
 tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"

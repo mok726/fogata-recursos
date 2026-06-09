@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-baile-del-agua.png" # 
+image: "/imagenes/actividades/el-baile-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X255"
+image_prompt: "Young scouts ages 5-10 creating water dance choreography - gentle flowing movements for calm river, crashing waves for ocean, spinning for whirlpool, light drops for rain. Performing for families. Artistic expression, kinesthetic learning, water appreciation through movement atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior / Exterior"

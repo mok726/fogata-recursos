@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-de-bosque.png" # 
+image: "/imagenes/actividades/exploracion-de-bosque.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C24"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine forest. Mindful walk - looking up at canopy, down at leaf litter, under fallen logs. Closing eyes to listen (birds, wind). Smelling earth, pine. Touching bark textures, moss, soil. Drawing or writing sensory observations. Forest bathing (Shinrin-yoku), nature connection, mindfulness, sensory awareness atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

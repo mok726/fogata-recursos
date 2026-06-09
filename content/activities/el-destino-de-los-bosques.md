@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-destino-de-los-bosques.png" # 
+image: "/imagenes/actividades/el-destino-de-los-bosques.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-D05"
+image_prompt: "Older scouts ages 16-21 in continent teams researching forest cover and forest loss (FAO Global Forest Resources Assessment data). Creating comparative posters showing - total forest area, annual deforestation rate, primary causes (agriculture expansion, logging, fire), afforestation efforts. Patterns - South America (Amazon deforestation), Africa (woodfuel & agriculture), Asia (reforestation in China, losses in SE Asia), Europe (gain), North America (stable). Global forest trends, data analysis, cartographic presentation, comparative geography atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/guardabosques.png" # 
+image: "/imagenes/actividades/guardabosques.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B06"
+image_prompt: "Older scouts ages 11-21 interviewing park ranger (guardaparques) from Argentina's national parks - Iguazú, Nahuel Huapi, Los Glaciares, Tierra del Fuego. Asking about daily duties, seasonal changes, fire prevention, visitor management, wildlife monitoring, community relations. Conservation career insight, public service appreciation, oral history documentation atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"

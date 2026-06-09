@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/efecto-invernadero.png" # 
+image: "/imagenes/actividades/efecto-invernadero.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X141"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Two thermometers - one inside glass jar, one exposed. Recording temperatures every minute for 10 minutes. Comparing results - jar traps heat. Discussing greenhouse effect. Hands-on climate science, discovery atmosphere."
 tags:
   - Insignia de Energía
 location: "Exterior"

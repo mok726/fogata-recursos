@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-precio-del-agua.png" # 
+image: "/imagenes/actividades/el-precio-del-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X298"
+image_prompt: "Older scouts ages 14-21 debating - Should water be free or priced? Teams take different positions - free as human right vs pricing encourages conservation and funds infrastructure. Researching examples of each (Ireland free water, Chile privatized). Economics vs human rights, water pricing, policy debate atmosphere."
 tags:
   - Parche del Agua
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/experimento-con-tipos-de-suelo.png" # 
+image: "/imagenes/actividades/experimento-con-tipos-de-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C09"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or scout room. Digging soil profile. Filling 3 pots - topsoil (top 2cm), subsoil (15cm deep), deeper soil (50cm deep). Planting fast-growing seeds (radishes) in each. Measuring growth for 6-8 weeks. Comparing fertility. Discussing why topsoil erosion is serious problem for farmers. Soil science, plant growth experiment, agricultural importance atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

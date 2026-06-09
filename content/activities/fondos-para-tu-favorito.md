@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/fondos-para-tu-favorito.png" # 
+image: "/imagenes/actividades/fondos-para-tu-favorito.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X189"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community. Organizing bake sale or recycled crafts bazaar. Researching global energy access projects (Practical Action, SolarAid, Liter of Light). Donating proceeds. Selecting project based on impact. Fundraising, entrepreneurship, global solidarity atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

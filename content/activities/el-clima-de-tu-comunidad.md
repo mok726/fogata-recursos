@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-clima-de-tu-comunidad.png" # 
+image: "/imagenes/actividades/el-clima-de-tu-comunidad.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X214"
+image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs interviewing local farmers, shopkeepers, elderly residents about climate changes they've observed - changing rainfall, hotter summers, different growing seasons. Recording findings. Sharing with group. Local climate research, oral history, community connection atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior / Exterior"

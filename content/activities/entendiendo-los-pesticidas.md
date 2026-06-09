@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/entendiendo-los-pesticidas.png" # 
+image: "/imagenes/actividades/entendiendo-los-pesticidas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X99"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching pesticides harmful to bees (neonicotinoids). Creating simple guide to alternatives - neem oil, ladybugs, companion planting. Planning to share with local gardeners. Scientific and advocacy atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

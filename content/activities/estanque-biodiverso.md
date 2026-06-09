@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/estanque-biodiverso.png" # 
+image: "/imagenes/actividades/estanque-biodiverso.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B09"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine backyard or schoolyard. Digging pond basin, lining with impermeable liner. Adding native aquatic plants (cattails, lilies, rushes). Adding fish that eat mosquito larvae (Gambusia). Filling with water. Documenting species that colonize over time - frogs, insects, birds. Pond building, ecosystem creation, long-term monitoring atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

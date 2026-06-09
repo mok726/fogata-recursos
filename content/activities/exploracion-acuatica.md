@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-acuatica.png" # 
+image: "/imagenes/actividades/exploracion-acuatica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X267"
+image_prompt: "Older scouts ages 14-17 researching local watershed (Cuenca del Plata, etc.). Taking photos or drawing maps showing rivers, streams, wetlands. Including natural and human inputs (farms, industry). Creating exhibition with detailed illustrations of plant-animal-water interactions. Inviting family and teachers. Watershed literacy, ecological awareness, public education atmosphere."
 tags:
   - Insignia del Agua
 location: "Exterior / Interior"

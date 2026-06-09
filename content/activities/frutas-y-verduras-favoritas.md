@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/frutas-y-verduras-favoritas.png" # 
+image: "/imagenes/actividades/frutas-y-verduras-favoritas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X83"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Working on photo story about favorite fruits (apple, strawberry, tomato) and if they need pollinators. One scout gluing pictures of bees next to apple. Another researching on tablet. Creating colorful display. Food awareness, connection to nature atmosphere."
 required: true
 required_for:
   - polinizadores-X

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/experimento-energetico.png" # 
+image: "/imagenes/actividades/experimento-energetico.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X166"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor area. Adding baking soda to vinegar in large bowl. Watching fizzy reaction as CO2 gas bubbles up. Feeling temperature change. Discussing chemical potential energy converting to kinetic (gas expansion). Exciting, safe, wow-moment science atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

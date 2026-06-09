@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/fabulas-de-trabajo-en-equipo.png" # 
+image: "/imagenes/actividades/fabulas-de-trabajo-en-equipo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X32"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs sitting in circle on floor in Argentine scout room. Taking turns adding sentences to story about how soil forms (weather, time, animals, plants). One child speaking animatedly, others listening and laughing. Paper on floor with drawings. Bright room with colorful rug. Joyful, collaborative atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

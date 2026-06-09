@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-barquito-chiquitito.png" # 
+image: "/imagenes/actividades/el-barquito-chiquitito.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X292"
+image_prompt: "Young scouts ages 5-10 rewriting favorite song lyrics about water conservation. Example - Row Row Row Your Boat becomes Save Save Save Our Water. Group concert for community. Musical creativity, water advocacy, joyful performance atmosphere."
 tags:
   - Parche del Agua
 location: "Interior / Exterior"

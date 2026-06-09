@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.png" # 
+image: "/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C01"
+image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs interviewing grandparents or elders about traditional foods. Asking what they grew, cooked, ate as children. Recording responses. Comparing with modern diet. If possible, cooking traditional recipe together. Sharing findings with group or oral history project. Cultural preservation, intergenerational learning, agrobiodiversity awareness atmosphere."
+similar_activities: "www.diversityforlife.org/about-the-campaign/activities/oralhistory"
 tags:
   - Insignia Biodiversidad
 location: "Interior"

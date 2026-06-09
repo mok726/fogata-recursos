@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/encuentra-tu-camino.png" # 
+image: "/imagenes/actividades/encuentra-tu-camino.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C13"
+image_prompt: "Older scouts ages 11-21 participating in orienteering event in forest using map and compass. Finding checkpoints marked on map. Learning to read topographic contours, identify terrain features, take bearings, measure distance, navigate without GPS. Option for winter - orienteering on snowshoes or cross-country skis. Navigation skills, map reading, self-reliance, problem-solving in forest environment atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Exterior (bosque)"

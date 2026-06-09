@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/fuerzas-locales.png" # 
+image: "/imagenes/actividades/fuerzas-locales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X107"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing email or letter to local environmental authorities. Asking about pesticide bans, native flowers in parks. Drafting suggestions for pollinator protection. Advocating, civic engagement atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior"

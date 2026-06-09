@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/estudios-salados.png" # 
+image: "/imagenes/actividades/estudios-salados.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X262"
+image_prompt: "Older scouts ages 11-15 dissolving salt in water, leaving in warm place for days. Water evaporates, salt crystals remain. Learning about desalination process to obtain fresh water from salt water. Discussing real-world applications in water-scarce regions. Chemistry, evaporation, water scarcity solutions atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

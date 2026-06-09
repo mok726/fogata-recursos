@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/habitantes-indigenas.png" # 
+image: "/imagenes/actividades/habitantes-indigenas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C01"
+image_prompt: "Older scouts ages 11-21 researching indigenous forest legends from Argentina - Mapuche (Ngen spirits of nature), Guaraní (forest guardians), Yámana (Selk'nam) stories. Preparing short play. Optional extension - inviting indigenous speaker to talk about changing relationship with forests. Cultural respect, traditional ecological knowledge, artistic expression, intergenerational learning atmosphere."
 required: true
 required_for:
   - bosques-C

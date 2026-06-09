@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/evento-comunitario.png" # 
+image: "/imagenes/actividades/evento-comunitario.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -36,6 +36,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D34"
+image_prompt: "Older scouts ages 14-21 organizing large community awareness event on local biodiversity issue (save the wetland, ban plastic bags, create pollinator park). Setting specific goal. Making banner, posters. Contacting local TV, radio, newspapers for coverage. Attracting large crowd. Measuring policy or behavior change. Mass mobilization, media relations, large-scale event management, social change leadership atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

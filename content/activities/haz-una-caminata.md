@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/haz-una-caminata.png" # 
+image: "/imagenes/actividades/haz-una-caminata.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -48,6 +48,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-A01"
+image_prompt: "Group of scouts ages 5-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs walking through Argentine forest (Selva Misionera, Bosque Andino Patagónico, Monte, Parque Nacional). Collecting natural items - small stones, soil, dry leaves, twigs, feathers. Creating forest collage. Discussing each element's importance. Ecological observation, creative expression, forest appreciation atmosphere."
 required: true
 required_for:
   - bosques-A

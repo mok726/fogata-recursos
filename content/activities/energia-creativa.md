@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/energia-creativa.png" # 
+image: "/imagenes/actividades/energia-creativa.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -28,6 +28,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X176"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Imagining novel energy generation - dance floor generating electricity from footsteps, playground swings charging batteries, kinetic energy from dogs running. Writing creative story about implementation in community. Imaginative, futuristic, creative writing atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior"

@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/guia-de-campo-de-insectos.png" # 
+image: "/imagenes/actividades/guia-de-campo-de-insectos.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,8 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A09"
+image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine field or park. Catching insects with sweep net or pooter (aspirator). Placing in clear jars for observation. Identifying species using guide. Creating field guide pages with drawings and notes. Releasing insects. Entomology, scientific documentation, respect for life atmosphere."
+similar_activities: "https -//www.amentsoc.org/bug-club/fun/experiment-pooter.html"
 tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"

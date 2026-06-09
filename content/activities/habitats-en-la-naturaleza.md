@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/habitats-en-la-naturaleza.png" # 
+image: "/imagenes/actividades/habitats-en-la-naturaleza.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X95"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or natural area. Walking and looking for pollinator habitats - bee holes in ground, hollow stems, log piles, flowers. One scout pointing at bee entering hole. Writing list of habitats found. Discussing protection actions. Nature exploration, conservation atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Exterior"

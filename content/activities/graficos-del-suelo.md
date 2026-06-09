@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/graficos-del-suelo.png" # 
+image: "/imagenes/actividades/graficos-del-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X55"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing comic strips with superhero character (Captain Soil, Earth Guardian). Superhero fighting erosion monster or pollution villain. Colorful panels with action scenes. Markers, pencils, paper. Creative, imaginative atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

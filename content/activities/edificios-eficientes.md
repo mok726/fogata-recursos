@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/edificios-eficientes.png" # 
+image: "/imagenes/actividades/edificios-eficientes.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X171"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs visiting sustainable building in Argentina (LEED-certified, solar panels, green roof). Taking photos. Building model with cardboard, labeling efficient features - solar panels, double-glazed windows, insulation. Presenting. Sustainable architecture, future-thinking atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

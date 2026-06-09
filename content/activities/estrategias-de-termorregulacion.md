@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/estrategias-de-termorregulacion.png" # 
+image: "/imagenes/actividades/estrategias-de-termorregulacion.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -33,6 +33,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A13"
+image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Listing animal adaptations for heat (elephant ears, camel hump) and cold (polar bear fur, penguin huddling). Creating matching or memory game with animal cards. Playing together. Climate adaptation education through play, creative learning atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

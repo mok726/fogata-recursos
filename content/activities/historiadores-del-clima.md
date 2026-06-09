@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/historiadores-del-clima.png" # 
+image: "/imagenes/actividades/historiadores-del-clima.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -38,6 +38,7 @@ sdgs:
 activity_badges:
   - del-cambio-climatico
 activity_code: "del-cambio-climatico-X217"
+image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching Earth's climate history - ice ages, warm periods, mass extinctions related to climate. Creating illustrated timeline or drawings of past climate events. Displaying in school. Deep time perspective, paleoclimatology, creative presentation atmosphere."
 tags:
   - Insignia del Cambio Climático
 location: "Interior"

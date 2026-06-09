@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/especies-locales.png" # 
+image: "/imagenes/actividades/especies-locales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - polinizadores
 activity_code: "polinizadores-X80"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching local pollinators on tablet. One scout creating photo essay about native bumblebee. Photos printed or on screen. Presenting to group. Laptop, printed pictures, colorful display. Research, discovery atmosphere."
 tags:
   - Insignia de Polinizadores
 location: "Interior / Exterior"

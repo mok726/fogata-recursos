@@ -12,7 +12,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/es-dificil-pasarse-del-h2o.png" # 
+image: "/imagenes/actividades/es-dificil-pasarse-del-h2o.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -32,6 +32,7 @@ sdgs:
 activity_badges:
   - del-agua-obligatoria
 activity_code: "del-agua-obligatoria-X271"
+image_prompt: "Older scouts ages 11-15 experiencing one day without using water except drinking (for health). Can't wash hands, shower, flush toilet, brush teeth, do dishes, water plants, cook with water. Journaling difficulties. Empathizing with millions facing water scarcity daily. Making commitment to reduce water use. Empathy building, water value awareness, behavior change atmosphere."
 required: true
 required_for:
   - del-agua-obligatoria-X

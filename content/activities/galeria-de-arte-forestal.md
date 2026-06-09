@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/galeria-de-arte-forestal.png" # 
+image: "/imagenes/actividades/galeria-de-arte-forestal.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-C10"
+image_prompt: "Scouts of all ages creating forest-inspired artwork - paintings (landscapes, animals), drawings (leaf patterns, tree silhouettes), sculptures from wood, clay, recycled materials, charcoal rubbings, nature mandalas, leaf prints. Writing artist statement. Organizing gallery exhibition for family and friends. Forest appreciation through art, creative expression, public communication, event organization atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

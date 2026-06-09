@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/empleos-forestales.png" # 
+image: "/imagenes/actividades/empleos-forestales.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -31,6 +31,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B04"
+image_prompt: "Young scouts ages 5-15 listing forest-related jobs - forester, logger, park ranger, wildlife biologist, ecologist, botanist, tree planter, firefighter, timber cruiser, forest engineer, mushroom forager, honey harvester, ecotourism guide, woodworker, paper mill worker. Playing charades guessing forest jobs. Career exploration, forest economy awareness, fun kinesthetic learning atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior"

@@ -8,7 +8,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/el-agua-en-tu-armario.png" # 
+image: "/imagenes/actividades/el-agua-en-tu-armario.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -30,6 +30,7 @@ sdgs:
 activity_badges:
   - del-agua
 activity_code: "del-agua-X280"
+image_prompt: "Older scouts ages 14-17 listing 5 favorite possessions - jeans (10,000 L water to produce one pair), smartphone (13,000 L), leather shoes (8,000 L), t-shirt (2,700 L), laptop (20,000 L). Researching virtual water. Discussing surprising results. Comparing with others. Raising awareness about water embedded in consumer goods. Conscious consumption, supply chain thinking, material footprint atmosphere."
 tags:
   - Insignia del Agua
 location: "Interior"

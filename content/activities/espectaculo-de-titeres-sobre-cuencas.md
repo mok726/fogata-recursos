@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.png" # 
+image: "/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -40,6 +40,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B04"
+image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating puppets from socks, paper bags, or recycled materials. Writing short play about healthy vs polluted watershed. Contrasting storm drain water with natural stream. Performing for families. Creative environmental education, puppet theater, community outreach atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Interior"

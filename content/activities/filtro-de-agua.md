@@ -12,7 +12,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/filtro-de-agua.png" # 
+image: "/imagenes/actividades/filtro-de-agua.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -41,6 +41,8 @@ sdgs:
 activity_badges:
   - del-agua-obligatoria
 activity_code: "del-agua-obligatoria-X282"
+image_prompt: "Older scouts ages 11-15 collecting water sample from stream. Examining under microscope - see microorganisms, algae, maybe pollutants. Building water filter with plastic bottle, layers of gravel, sand, charcoal. Pouring dirty water through. Comparing before/after. Testing different sources - river, puddle, tap. NOT drinking. Water quality awareness, DIY filtration, hands-on environmental science atmosphere."
+similar_activities: "http -//library.thinkquest.org/04apr/00222/spanish/filter1.htm"
 required: true
 required_for:
   - del-agua-obligatoria-X

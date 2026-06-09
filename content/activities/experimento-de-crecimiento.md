@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/experimento-de-crecimiento.png" # 
+image: "/imagenes/actividades/experimento-de-crecimiento.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X136"
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine home or scout room. Planting seeds in two pots. One pot placed in sunny window, other in dark closet. Watering both equally. Measuring and recording growth daily for one week. Observing difference. Scientific method, patience, discovery atmosphere."
 tags:
   - Insignia de Energía
 location: "Interior / Exterior"

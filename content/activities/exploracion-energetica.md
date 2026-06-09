@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-energetica.png" # 
+image: "/imagenes/actividades/exploracion-energetica.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -35,6 +35,7 @@ sdgs:
 activity_badges:
   - energia
 activity_code: "energia-X148"
+image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine power plant (solar farm, wind park, hydroelectric dam). Touring facility, interviewing engineers. Taking photos, notes. Writing article about energy generation and environmental impacts. Real-world industry exposure, technical journalism atmosphere."
 required: true
 required_for:
   - energia-X

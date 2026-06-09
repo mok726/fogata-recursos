@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png" # 
+image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -37,6 +37,7 @@ sdgs:
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A01"
+image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Placing white sheet under low tree branch. Shaking branch vigorously. Observing insects, leaves, small organisms falling onto sheet. Examining with magnifying glasses. Discussing how creatures live above ground. Scientific discovery, hands-on ecology atmosphere."
 tags:
   - Insignia Biodiversidad
 location: "Exterior"

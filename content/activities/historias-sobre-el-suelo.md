@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/historias-sobre-el-suelo.png" # 
+image: "/imagenes/actividades/historias-sobre-el-suelo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -34,6 +34,7 @@ sdgs:
 activity_badges:
   - suelos
 activity_code: "suelos-X39"
+image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs sitting at tables in Argentine scout room. Writing or drawing stories from perspective of earthworm, beetle, or ant. One child showing drawing of worm underground. Colorful pencils, paper, focused expressions. Bright room. Creative, imaginative atmosphere."
 tags:
   - Insignia de los Suelos
 location: "Interior"

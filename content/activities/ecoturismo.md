@@ -9,7 +9,7 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-# image: "/imagenes/actividades/ecoturismo.png" # 
+image: "/imagenes/actividades/ecoturismo.png"
 # original: "False" # 
 branch:
   - Naturaleza
@@ -39,6 +39,7 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B09"
+image_prompt: "Older scouts ages 16-21 researching ecotourism examples that protect forests - Costa Rica (Monteverde Cloud Forest), Brazil (Amazon lodges), Kenya (forest canopy walks), Australia (Daintree). Creating travel brochure for imaginary local ecotourism destination. Sustainable tourism, economic incentives for conservation, community benefit, creative marketing atmosphere."
 tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"
