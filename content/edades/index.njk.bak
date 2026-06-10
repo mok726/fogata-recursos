@@ -1,0 +1,65 @@
+---
+layout: layouts/base.njk
+title: Edades
+---
+
+<h1>
+  Grupos Etarios
+</h1>
+
+<div class="grid">
+
+  {% for age in ageGroups %}
+
+    {% set activityCount = 0 %}
+
+    {% for activity in collections.activitiesSorted %}
+
+      {% if activity.data.age_group %}
+
+        {% for item in activity.data.age_group %}
+
+          {% set ageInfo = item | normalizeAge(ageGroups) %}
+
+          {% if ageInfo.id == age.id %}
+            {% set activityCount = activityCount + 1 %}
+          {% endif %}
+
+        {% endfor %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    <a href="{{ ('/edades/' + age.id + '/') | url }}">
+
+      <div
+        class="card age-card"
+        style="border-top: 6px solid {{ age.color }};"
+      >
+
+        <div class="card-content age-card-content">
+
+          <img
+            class="age-page-icon"
+            src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+            alt="{{ age.name }}">
+
+          <h2>
+            {{ age.name }}
+          </h2>
+
+          <p class="age-count">
+            {{ activityCount }} actividades
+          </p>
+
+        </div>
+
+      </div>
+
+    </a>
+
+  {% endfor %}
+
+</div>
+

@@ -1,0 +1,274 @@
+---
+layout: layouts/base.njk
+---
+
+{% set isKnownBadge = badge.name %}
+
+{% if not isKnownBadge %}
+  {% set inferredActivities = [] %}
+  {% for activity in collections.activitiesSorted %}
+{% set activityBadges = activity.data.activity_badges or [] %}
+{% set validBadges = [] %}
+{% for knownBadge in badges %}
+  {% set validBadges = validBadges.concat([knownBadge.id | slugify]) %}
+{% endfor %}
+
+{% if badge.id == "general" %}
+  {% if activityBadges.length == 0 %}
+    {% set showActivity = true %}
+  {% else %}
+    {% set validCount = 0 %}
+    {% for item in activityBadges %}
+      {% if (item | slugify) in validBadges %}
+        {% set validCount = validCount + 1 %}
+      {% endif %}
+    {% endfor %}
+    {% set showActivity = (validCount == 0) %}
+  {% endif %}
+{% else %}
+  {% set showActivity = false %}
+  {% for item in activityBadges %}
+    {% if (item | slugify) == (badge.id | slugify) %}
+      {% set showActivity = true %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% if showActivity %}
+          {% set inferredActivities = inferredActivities.concat([activity]) %}
+    {% endif %}
+  {% endfor %}
+  {% set badge = {
+    id: badge.id,
+    name: badge.id | smartTitle,
+    description: "Insignia detectada automáticamente desde actividades.",
+    summary: null,
+    logo: null,
+    generic: true,
+    inferredActivities: inferredActivities
+  } %}
+{% endif %}
+
+
+
+<section class="page-header">
+
+{% if badge.logo and not badge.generic %}
+  <img    src="{{ badge.logo | url }}"    alt="{{ badge.name }}">
+{% endif %}
+
+  <div>
+
+    <h1>
+      {{ badge.name }}
+    </h1>
+
+
+    {% if badge.description %}
+
+      <p>
+        {{ badge.description }}
+      </p>
+
+    {% endif %}
+
+    {% if badge.summary %}
+      <div class="badge-summary">
+        {{ badge.summary | nl2br | safe }}
+      </div>
+    {% endif %}
+
+  </div>
+
+</section>
+
+{% if badge.documents and badge.documents.length %}
+<section class="section-spacing">
+
+  <h2>
+    Documentos y recursos
+  </h2>
+
+  <div class="grid">
+
+    {% for doc in badge.documents %}
+      <div class="card">
+        {% if doc.image %}
+          <img            src="{{ doc.image }}"            alt="{{ doc.title_es or doc.title }}">
+        {% endif %}
+
+        <div class="card-content">
+          <h3>
+            {{ doc.title_es or doc.title }}
+          </h3>
+
+          <p>
+            Documento relacionado con la insignia.
+          </p>
+
+          <a            href="{{ doc.url }}"           target="_blank"            rel="noopener">
+            Abrir documento
+          </a>
+        </div>
+      </div>
+    {% endfor %}
+
+  </div>
+
+</section>
+{% endif %}
+
+{% if badge.sources and badge.sources.length %}
+<section class="info-box">
+
+  <h2>
+    Fuentes y referencias
+  </h2>
+
+  <ul>
+
+    {% for source in badge.sources %}
+      <li>
+        <a          href="{{ source.url }}"          target="_blank"          rel="noopener">
+          {{ source.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</section>
+{% endif %}
+
+{% if badge.license or badge.attribution %}
+<section class="info-box">
+
+  <h2>
+    Licencia y atribución
+  </h2>
+
+  {% if badge.license %}
+    <p>
+      Licencia:
+      <a
+        href="{{ badge.license.url }}"
+        target="_blank"
+        rel="noopener">
+        {{ badge.license.type }}
+      </a>
+    </p>
+  {% endif %}
+
+  {% if badge.attribution %}
+    <p>
+      Attribution:
+      {{ badge.attribution.organization }}
+      {% if badge.attribution.year %}
+        ({{ badge.attribution.year }})
+      {% endif %}
+    </p>
+  {% endif %}
+
+</section>
+{% endif %}
+
+<section class="section-spacing">
+
+  <h2>
+    Actividades relacionadas
+  </h2>
+
+
+
+
+  <div class="grid">
+
+{% set renderedCards = [] %}
+{% set activityCount = 0 %}
+{% for activity in collections.activitiesSorted %}
+  {% set activityBadges =
+    activity.data.activity_badges or [] %}
+  {% set validBadges = [] %}
+  {% for knownBadge in badges %}
+    {% set validBadges =
+      validBadges.concat([
+        knownBadge.id | slugify
+      ])
+    %}
+  {% endfor %}
+  {% set shouldRender = false %}
+  {% if badge.id == "general" %}
+    {% if activityBadges.length == 0 %}
+      {% set shouldRender = true %}
+    {% else %}
+      {% set validMatches = [] %}
+      {% for itemBadge in activityBadges %}
+        {% if
+          (itemBadge | slugify)
+          in validBadges
+        %}
+          {% set validMatches =
+            validMatches.concat([true])
+          %}
+        {% endif %}
+      {% endfor %}
+      {% if validMatches.length == 0 %}
+        {% set shouldRender = true %}
+      {% endif %}
+    {% endif %}
+  {% else %}
+    {% for itemBadge in activityBadges %}
+      {% if
+        (itemBadge | slugify)
+        ==
+        (badge.id | slugify)
+      %}
+        {% set shouldRender = true %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if shouldRender %}
+    {% set renderedCards =
+      renderedCards.concat([true])
+    %}
+    {% set item = activity.data %}
+    {% set activityUrl = activity.url %}
+
+    {% include "components/activity-card.njk" %}
+  {% endif %}
+{% endfor %}
+
+
+<div class="card-meta">
+
+  <span class="chip">
+
+{{ renderedCards.length }}
+actividad{% if renderedCards.length != 1 %}es{% endif %}
+
+  </span>
+
+</div>
+
+
+{% if renderedCards.length == 0 %}
+
+  <div class="empty-state">
+
+    <h2>
+      No hay actividades todavía
+    </h2>
+
+    <p>
+      Esta insignia todavía no tiene actividades asociadas.
+    </p>
+
+  </div>
+
+{% endif %}
+
+
+
+
+</section>
+
+

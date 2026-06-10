@@ -4,506 +4,297 @@ layout: layouts/base.njk
 
 <article class="activity-page">
 
-  {# ===== BREADCRUMBS ===== #}
-  <nav class="breadcrumbs">
-    <a href="{{ '/' | url }}">Inicio</a>
-    <span>/</span>
-    <a href="{{ '/activities/' | url }}">Actividades</a>
-    <span>/</span>
-    <span>{{ title }}</span>
-  </nav>
-
-  {# ===== HERO BANNER ===== #}
+  {# ===== HERO CON IMAGEN DE FONDO ===== #}
   {% set heroImage = image or '/imagenes/actividades/activity-card.png' %}
+  <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('{{ heroImage | url }}');">
+    <div class="activity-hero-container">
+      <div class="hero-left">
+        <div class="hero-category">{{ main_type or (etiquetas | first) or "Actividad" }}</div>
+        <h1 class="hero-title">{{ title | replace("!", "") }}</h1>
+        <p class="hero-description">{{ summary or description }}</p>
 
-  <header class="activity-hero">
-    <div class="activity-hero-banner">
-      <img class="activity-hero-image" src="{{ heroImage | url }}" alt="{{ title }}">
-      <div class="activity-hero-overlay"></div>
+<div class="hero-metrics">
+  <span><span class="material-symbols-outlined">groups</span> {{ participants or "N/E" }}</span>
+  <span><span class="material-symbols-outlined">schedule</span> {{ duration or "N/E" }}</span>
+  <span><span class="material-symbols-outlined">productivity</span> {{ age_group | ageRange }}</span>
+</div>
 
-      {# Duración #}
-      {% if duration %}
-        <div class="activity-hero-duration">⏱ {{ duration }}</div>
-      {% endif %}
-
-      {# Rangos de edad #}
-      {% if age_group %}
-        <div class="activity-hero-ages">
-          {% for age in age_group %}
-            {% set ageId = age | slugify %}
-            {% set ageData = null %}
-            {% for group in ageGroups %}
-              {% if group.id == ageId %}
-                {% set ageData = group %}
-              {% endif %}
+        <div class="hero-tags">
+          {% if etiquetas %}
+            {% for tag in etiquetas %}
+              {% set colorClass = ["green", "orange", "blue", "purple"][loop.index0 % 4] %}
+              <span class="hero-tag {{ colorClass }}">{{ tag }}</span>
             {% endfor %}
-            {% if ageData and ageData.icon %}
-              <a href="{{ ('/edades/' + ageId + '/') | url }}">
-                <img class="branch-icon" src="{{ ('/imagenes/ramas/' + ageData.icon) | url }}" alt="{{ ageData.name }}">
-              </a>
-            {% endif %}
-          {% endfor %}
+          {% endif %}
         </div>
+      </div>
+    </div>
+  </div>
+
+
+  {# Contenido central (90% ancho, centrado) #}
+  <div class="activity-content-wrapper">
+
+
+  {# ===== BREADCRUMB + ACCIONES ===== #}
+  <div class="activity-toolbar">
+    <nav class="breadcrumbs">
+      <a href="{{ '/' | url }}">Inicio</a> >
+      <a href="{{ '/activities/' | url }}">Actividades</a> >
+      <a href="#">{{ main_type or (etiquetas | first) or "Actividad" }}</a> >
+      <span>{{ title }}</span>
+    </nav>
+    <div class="toolbar-actions">
+      <button class="toolbar-btn"><span class="material-symbols-outlined">bookmark_border</span> Guardar</button>
+      <button class="toolbar-btn"><span class="material-symbols-outlined">share</span> Compartir</button>
+    </div>
+  </div>
+
+  {# ===== LAYOUT DE TRES COLUMNAS ===== #}
+
+
+
+  <div class="three-columns">
+
+    {# COLUMNA IZQUIERDA #}
+
+<aside class="col-left">
+  {# 1. INFORMACIÓN RÁPIDA #}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">format_list_bulleted</span> Información rápida</h3>
+    <ul class="info-list two-columns">
+      <li><span>Tipo de actividad:</span> {{ main_type or activity_type | first or "Dinámica" }}</li>
+      <li><span>Duración:</span> {{ duration or "N/E" }}</li>
+      <li><span>Participantes:</span> {{ participants or "N/E" }}</li>
+      <li><span>Edad:</span> {{ age_group | default([]) | ageRange }}</li>
+      <li><span>Espacio:</span> {{ location }}{% if space_required %} ({{ space_required }}){% endif %}</li>
+      <li><span>Complejidad:</span> {% if complexity_execution == 1 %}Baja{% elif complexity_execution == 2 %}Media{% elif complexity_execution == 3 %}Alta{% else %}N/E{% endif %}</li>
+      <li><span>Materiales principales:</span> {{ materials | default([]) | join(", ") or special_materials | default([]) | join(", ") or "No listados" }}</li>
+    </ul>
+  </div>
+
+  {# 2. MATERIALES (si existen) #}
+  {% if (materials | default([])) | length or (special_materials | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
+    <div class="tag-list">
+      {% for item in (materials | default([])) %}
+        <span class="tag">{{ item }}</span>
+      {% endfor %}
+      {% for item in (special_materials | default([])) %}
+        <span class="tag">{{ item }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 3. COMPETENCIAS (skills) #}
+  {% if (skills | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">track_changes</span> Competencias</h3>
+    <ul class="competence-list">
+      {% for skill in skills %}
+        <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {# 4. ODS RELACIONADOS #}
+  {% if (sdgs | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">public</span> ODS relacionados</h3>
+    <div class="ods-mini-grid">
+      {% for sdg in sdgs %}
+        <a href="{{ ('/ods/' + sdg + '/') | url }}" class="ods-mini-card">ODS {{ sdg }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 5. INSIGNIAS RELACIONADAS #}
+  {% if (activity_badges | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">military_tech</span> Insignias relacionadas</h3>
+    <div class="badges-mini">
+      {% for rawBadge in activity_badges %}
+        {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+        <img src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}" alt="" class="badge-large-icon">
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 6. CRÉDITOS #}
+  {% if (author | default([])) | length or (source | default([])) | length %}
+  <div class="info-card credits">
+    <h3><span class="material-symbols-outlined">edit_note</span> Créditos</h3>
+    {% if (author | default([])) | length %}<p><strong>Autor:</strong> {{ author | join(", ") }}</p>{% endif %}
+    {% if (source | default([])) | length %}<p><strong>Fuente:</strong> {{ source | join(", ") }}</p>{% endif %}
+  </div>
+  {% endif %}
+</aside>
+
+
+
+
+    {# COLUMNA CENTRAL #}
+
+<main class="col-center">
+  <div class="content-card">
+    <h2><span class="material-symbols-outlined">push_pin</span> Introducción</h2>
+    <p>{{ summary or description }}</p>
+  </div>
+
+  {% set sections = content | splitBySections %}
+  {% if sections | length %}
+    {# Si el filtro encuentra secciones, las mostramos cada una en su card #}
+    {% for section in sections %}
+<div class="content-card">
+  <h2>
+    {% if section.heading == "Resumen" %}<span class="material-symbols-outlined">menu_book</span>
+    {% elif section.heading == "Desarrollo" %}<span class="material-symbols-outlined">build</span>
+    {% elif section.heading == "Cierre" %}<span class="material-symbols-outlined">psychology</span>
+    {% elif section.heading == "Introducción" %}<span class="material-symbols-outlined">push_pin</span>
+    {% else %}📄{% endif %}
+    {{ section.heading }}
+  </h2>
+  <div class="markdown-content">{{ section.content | safe }}</div>
+</div>
+
+    {% endfor %}
+  {% else %}
+    {# Fallback: mostrar el contenido original sin dividir (para que no desaparezca) #}
+    <div class="content-card">
+      <h2>📄 Contenido completo</h2>
+      {{ content | safe }}
+    </div>
+  {% endif %}
+</main>
+
+
+
+    {# COLUMNA DERECHA #}
+    <aside class="col-right">
+      {% if skills %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
+        <ul class="competence-list">
+          {% for skill in skills %}
+            <li>{{ skill }}</li>
+          {% endfor %}
+        </ul>
+      </div>
       {% endif %}
 
-      {# Contenido principal del hero #}
-      <div class="activity-hero-content">
-        <h1>{{ title }}</h1>
-        {% if summary %}
-          <p class="activity-description">{{ summary }}</p>
-        {% elseif description %}
-          <p class="activity-description">{{ description }}</p>
-        {% endif %}
-      </div>
-
-      {# ODS en hero #}
       {% if sdgs %}
-        <div class="activity-hero-sdgs">
-          {% for sdg in sdgs %}
-            <a href="{{ ('/ods/' + sdg + '/') | url }}">
-              <img class="sdg-icon" src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}">
+
+<div class="sidebar-card">
+  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
+  <div class="sidebar-sdgs large-ods">
+    {% for sdg in sdgs %}
+      <a href="{{ ('/ods/' + sdg + '/') | url }}">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" class="ods-icon-large">
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+      {% endif %}
+
+      {% if files %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+          {% for file in files %}
+            <a href="{{ file.filepath }}" class="download-item">
+              📄 {{ file.caption }}
             </a>
           {% endfor %}
         </div>
-      {% endif %}
-
-      {# Badges en hero #}
-      <div class="activity-hero-bottom-right">
-        {% if activity_badges %}
-          <div class="activity-hero-badges">
-            {% for rawBadge in activity_badges %}
-              {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
-              {% set badgeName = rawBadge.name if rawBadge.id else rawBadge %}
-              <a href="{{ ('/badges/' + badgeId + '/') | url }}">
-                <img class="badge-icon" src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}" alt="{{ badgeName }}">
-              </a>
-            {% endfor %}
-          </div>
-        {% endif %}
       </div>
-
-      {# Actividad original #}
-      {% if original %}
-        <div class="activity-original-banner">Actividad original</div>
       {% endif %}
-    </div>
-  </header>
 
-
-
-
-{# ==========================================
-   ACTION BAR
-========================================== #}
-
-<div class="activity-action-bar">
-
-  <div class="activity-action-left">
-
-    <span class="activity-breadcrumb-short">
-      Actividades
-    </span>
+      {% if tags %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
+        <div class="tag-list">
+          {% for tag in tags if tag not in ['actividades', 'recurso'] %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </aside>
 
   </div>
 
-  <div class="activity-action-right">
-
-    <button class="action-button">
-      🔖 Guardar
-    </button>
-
-    <button class="action-button">
-      🔗 Compartir
-    </button>
-
-  </div>
-
-</div>
-
-
-{# ==========================================
-   MAIN LAYOUT
-========================================== #}
-
-<div class="activity-layout">
-
-  {# ======================================
-     LEFT SIDEBAR
-  ====================================== #}
-
-  <aside class="activity-sidebar">
-
-    <div class="sidebar-card">
-
-      <h2>📋 Información rápida</h2>
-
-      {% if ideal_for %}
-      <p><strong>Tipo:</strong> {{ ideal_for | join(", ") }}</p>
-      {% endif %}
-
-      {% if duration %}
-      <p><strong>Duración:</strong> {{ duration }}</p>
-      {% endif %}
-
-      {% if participants %}
-      <p><strong>Participantes:</strong> {{ participants }}</p>
-      {% endif %}
-
-      {% if age_group %}
-      <p><strong>Rama:</strong> {{ age_group | join(", ") }}</p>
-      {% endif %}
-
-      {% if location %}
-      <p><strong>Espacio:</strong> {{ location }}</p>
-      {% endif %}
-
-      {% if complexity %}
-      <p><strong>Complejidad:</strong> {{ complexity }}</p>
-      {% endif %}
-
-    </div>
-
-
-    {% if materials %}
-    <div class="sidebar-card">
-
-      <h2>🛠 Materiales</h2>
-
-      <ul>
-      {% for item in materials %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-
-    </div>
-    {% endif %}
-
-
-    {% if tools %}
-    <div class="sidebar-card">
-
-      <h2>🔧 Herramientas</h2>
-
-      <ul>
-      {% for item in tools %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-
-    </div>
-    {% endif %}
-
-
-    {% if competencies %}
-    <div class="sidebar-card">
-
-      <h2>🎯 Competencias</h2>
-
-      <ul>
-      {% for item in competencies %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-
-    </div>
-    {% endif %}
-
-
-    {% if educational_objectives %}
-    <div class="sidebar-card">
-
-      <h2>📚 Objetivos educativos</h2>
-
-      <ul>
-      {% for item in educational_objectives %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-
-    </div>
-    {% endif %}
-
-
-    {% if responsible %}
-    <div class="sidebar-card">
-
-      <h2>👥 Responsables</h2>
-
-      {% if responsible is string %}
-        <p>{{ responsible }}</p>
-      {% else %}
-        <ul>
-        {% for item in responsible %}
-          <li>{{ item }}</li>
-        {% endfor %}
-        </ul>
-      {% endif %}
-
-    </div>
-    {% endif %}
-
-
-    {% if required %}
-    <div class="sidebar-card required-sidebar">
-
-      <h2>⚠ Actividad requerida</h2>
-
-      {% if required_category %}
-      <p><strong>{{ required_category }}</strong></p>
-      {% endif %}
-
-      {% if required_comment %}
-      <p>{{ required_comment }}</p>
-      {% endif %}
-
-    </div>
-    {% endif %}
-
-  </aside>
-
-
-  {# ======================================
-     MAIN CONTENT
-  ====================================== #}
-
-  <section class="activity-content">
-
-    {% if summary %}
-    <div class="activity-summary-box">
-
-      <h2>Resumen</h2>
-
-      <p>{{ summary }}</p>
-
-    </div>
-    {% endif %}
-
-    {{ content | safe }}
-
-  </section>
-
-
-  {# ======================================
-     RIGHT SIDEBAR
-  ====================================== #}
-
-  <aside class="activity-sidebar">
-
-    {% if sdgs %}
-    <div class="sidebar-card">
-
-      <h2>🌎 ODS</h2>
-
-      <div class="sidebar-sdgs">
-
-        {% for sdg in sdgs %}
-
-          <a href="{{ ('/ods/' + sdg + '/') | url }}">
-
-            <img
-              class="sdg-icon"
-              src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
-              alt="ODS {{ sdg }}">
-
-          </a>
-
-        {% endfor %}
-
-      </div>
-
-    </div>
-    {% endif %}
-
-
-    {% if activity_badges %}
-    <div class="sidebar-card">
-
-      <h2>🏅 Insignias</h2>
-
-      <div class="sidebar-badges">
-
-        {% for rawBadge in activity_badges %}
-
-          {% if rawBadge.id %}
-            {% set badgeId = rawBadge.id %}
-          {% else %}
-            {% set badgeId = rawBadge | slugify %}
-          {% endif %}
-
-          <a href="{{ ('/badges/' + badgeId + '/') | url }}">
-
-            <img
-              class="badge-icon"
-              src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
-              alt="">
-
-          </a>
-
-        {% endfor %}
-
-      </div>
-
-    </div>
-    {% endif %}
-
-
-    {% if tags %}
-    <div class="sidebar-card">
-
-      <h2>🏷 Etiquetas</h2>
-
-      <div class="tag-cloud">
-
-        {% for tag in tags %}
-          <span class="tag-pill">{{ tag }}</span>
-        {% endfor %}
-
-      </div>
-
-    </div>
-    {% endif %}
-
-
-    {% if files %}
-    <div class="sidebar-card">
-
-      <h2>📎 Archivos</h2>
-
-      <div class="sidebar-files">
-
-        {% for file in files %}
-
-        <a
-          class="sidebar-file"
-          href="{{ file.filepath }}">
-
-          <div class="sidebar-file-icon">
-
-            {% if file.icon == "pdf" %}
-              📄
-            {% elseif file.icon == "imagen" %}
-              🖼️
-            {% else %}
-              📦
-            {% endif %}
-
-          </div>
-
-          <div class="sidebar-file-info">
-
-            <strong>{{ file.icon | upper }}</strong>
-
-            <div>{{ file.caption }}</div>
-
-          </div>
-
-        </a>
-
-        {% endfor %}
-
-      </div>
-
-    </div>
-    {% endif %}
-
-  </aside>
-
-</div>
-
-
-
-
-  {# ===== FOOTER ===== #}
-  <footer class="activity-footer">
-
-    {# Referencias #}
-    {% if references %}
-      <section class="footer-card">
-        <h2>📖 Referencias</h2>
-        <div class="reference-grid">
-          {% for ref in references %}
-            <div class="reference-card">
-              <strong>{{ ref.title }}</strong>
-              {% if ref.author %}<div>{{ ref.author }}</div>{% endif %}
-              {% if ref.year %}<div>{{ ref.year }}</div>{% endif %}
-              {% if ref.series %}<div>{{ ref.series }}</div>{% endif %}
-              {% if ref.url %}<a href="{{ ref.url }}">Ver documento</a>{% endif %}
-            </div>
-          {% endfor %}
-        </div>
-      </section>
-    {% endif %}
-
-    {# Atribuciones #}
-    {% if attributions %}
-      <section class="footer-card">
-        <h2>👏 Atribuciones</h2>
-        <ul>
-          {% for item in attributions %}
-            <li>
-              <strong>{{ item.entity }}</strong> — {{ item.role }}
-              {% if item.year %}({{ item.year }}){% endif %}
-            </li>
-          {% endfor %}
-        </ul>
-      </section>
-    {% endif %}
-
-    {# Licencia #}
-    {% if license %}
-      <section class="footer-card">
-        <h2>📜 Licencia</h2>
-        <div class="license-info">
-          {% if license.image %}
-            <img src="{{ license.image }}" alt="{{ license.name }}">
-          {% endif %}
-          <div>
-            <strong>{{ license.name }}</strong>
-            {% if license.url %}
-              <br><a href="{{ license.url }}" target="_blank">Ver licencia</a>
-            {% endif %}
-          </div>
-        </div>
-      </section>
-    {% endif %}
-
-    {# Aviso de traducción #}
+  {# ===== FILA INFERIOR DE INFORMACIÓN ===== #}
+  <div class="info-row">
     {% if translation_notice and translation_notice.es %}
-      <section class="footer-card translation-card">
-        <h2>🌐 Aviso de traducción</h2>
-        <p>{{ translation_notice.es }}</p>
-      </section>
+    <div class="info-card translation-card">
+      <h3>🌐 Nota sobre la traducción</h3>
+      <p>{{ translation_notice.es }}</p>
+      {% if references %}
+        {% for ref in references %}
+          {% if ref.url %}<p><strong>Versión original:</strong> <a href="{{ ref.url }}">{{ ref.title }}</a></p>{% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
     {% endif %}
 
-    {# Créditos #}
-    {% if source or author %}
-      <section class="footer-card">
-        <h2>💎 Créditos</h2>
-        <ul>
-          {% if author %}<li>Autor: {{ author }}</li>{% endif %}
-          {% if source %}<li>Fuente: {{ source }}</li>{% endif %}
-        </ul>
-      </section>
+    {% if references %}
+    <div class="info-card">
+      <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+      <ul>
+        {% for ref in references %}
+          <li><strong>{{ ref.title }}</strong> – {% if ref.author %}{{ ref.author }}{% endif %} {% if ref.year %}({{ ref.year }}){% endif %} {% if ref.url %}<a href="{{ ref.url }}">ver documento →</a>{% endif %}</li>
+        {% endfor %}
+      </ul>
+    </div>
     {% endif %}
-  </footer>
 
-  {# ===== SEPARADOR ===== #}
-  <hr class="activity-end-divider">
+    {% if responsible or prep_time or accessibility %}
+    <div class="info-card">
+      <h3><span class="material-symbols-outlined">groups</span> Responsable / requisitos</h3>
+      <p><strong>Responsable:</strong> {{ responsible }}</p>
+      {% if prep_time %}<p><strong>Tiempo preparación:</strong> {{ prep_time }}</p>{% endif %}
+      {% if accessibility %}<p><strong>Accesibilidad:</strong> {{ accessibility |  default([]) | join(", ") }}</p>{% endif %}
+    </div>
+    {% endif %}
+  </div>
 
   {# ===== ACTIVIDADES RELACIONADAS ===== #}
   {% set related = collections.activitiesSorted | reverse %}
   <section class="related-section">
-    <h2>✨ También te puede interesar</h2>
-    <div class="grid">
+    <h2><span class="material-symbols-outlined">stars</span> También te puede gustar</h2>
+    <div class="related-carousel">
       {% for item in related %}
         {% if loop.index <= 4 and item.url != page.url %}
           {% set relatedActivity = item %}
           {% set item = relatedActivity.data %}
           {% set activityUrl = relatedActivity.url %}
-          {% include "components/activity-card.njk" %}
+          <div class="related-card">
+            {% if item.image %}
+              <div class="related-img" style="background-image: url('{{ item.image | url }}');"></div>
+            {% endif %}
+            <div class="related-category">{{ item.main_type or "Actividad" }}</div>
+            <h3><a href="{{ activityUrl | url }}">{{ item.title }}</a></h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> {{ item.participants or participants }}</span>
+              <span><span class="material-symbols-outlined">schedule</span> {{ item.duration or duration }}</span>
+              <span><span class="material-symbols-outlined">cake</span> {{ item.age_group | ageRange }}</span>
+            </div>
+          </div>
         {% endif %}
       {% endfor %}
     </div>
   </section>
 
+
+
+  </div>
+
 </article>
+
+

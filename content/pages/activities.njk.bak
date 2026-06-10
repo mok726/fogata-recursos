@@ -1,0 +1,204 @@
+---
+title: Actividades
+layout: layouts/base.njk
+permalink: /activities/
+---
+
+<section class="listing-header">
+
+  <div>
+
+    <h1>
+      Actividades
+    </h1>
+
+    <p>
+      Explorá dinámicas, juegos, talleres y propuestas educativas scouts.
+    </p>
+
+  </div>
+
+</section>
+
+<div class="listing-search">
+
+  <input
+    type="text"
+    id="activity-search"
+    placeholder="Buscar actividades...">
+
+</div>
+
+<div class="listing-filters">
+
+  <select id="age-filter">
+
+    <option value="">
+      Todas las ramas
+    </option>
+
+    {% for age in ageGroups %}
+
+      <option value="{{ age.id | lower }}">
+        {{ age.name }}
+      </option>
+
+    {% endfor %}
+
+  </select>
+
+  <select id="sdg-filter">
+
+    <option value="">
+      Todos los ODS
+    </option>
+
+
+{% for sdg in allSdgs %}
+
+  <option value="{{ sdg.id }}">
+
+    {% if sdg.id < 10 %}0{% endif %}{{ sdg.id }}
+    ·
+    {{ sdg.name }}
+
+  </option>
+
+{% endfor %}
+
+
+
+  </select>
+
+</div>
+
+<div id="activity-count" class="results-count">
+  Mostrando todas las actividades
+</div>
+
+<div class="grid" id="activities-grid">
+
+{% for activity in collections.activitiesSorted | reverse %}
+
+<div
+  class="searchable-card"
+
+  data-title="{{ activity.data.title | lower }}"
+  data-description="{{ activity.data.description | default('') | lower }}"
+
+  data-age="{{ (activity.data.age_group or []) | join(' ') | lower }}"
+
+  data-badges="{{ (activity.data.activity_badges or []) | dump | lower }}"
+
+  data-sdgs="{{ (activity.data.sdgs or []) | join(' ') | lower }}"
+>
+
+{% set item = activity.data %}
+{% set activityUrl = activity.url %}
+
+{% include "components/activity-card.njk" %}
+
+</div>
+
+{% endfor %}
+
+</div>
+
+<script>
+
+const searchInput =
+  document.getElementById("activity-search");
+
+const ageFilter =
+  document.getElementById("age-filter");
+
+const sdgFilter =
+  document.getElementById("sdg-filter");
+
+const cards =
+  document.querySelectorAll(".searchable-card");
+
+const count =
+  document.getElementById("activity-count");
+
+function runSearch() {
+
+  const query =
+    searchInput.value
+      .toLowerCase()
+      .trim();
+
+  const age =
+    ageFilter.value
+      .toLowerCase()
+      .trim();
+
+  const sdg =
+    sdgFilter.value
+      .toLowerCase()
+      .trim();
+
+  let visible = 0;
+
+  cards.forEach(card => {
+
+    const text = [
+
+      card.dataset.title,
+      card.dataset.description,
+      card.dataset.age,
+      card.dataset.badges,
+      card.dataset.sdgs
+
+    ].join(" ");
+
+    const matchesSearch =
+      text.includes(query);
+
+    const matchesAge =
+      !age ||
+      card.dataset.age.includes(age);
+
+    const matchesSdg =
+      !sdg ||
+      card.dataset.sdgs.includes(sdg);
+
+    const visibleCard =
+      matchesSearch &&
+      matchesAge &&
+      matchesSdg;
+
+    card.style.display =
+      visibleCard ? "" : "none";
+
+    if (visibleCard) {
+      visible++;
+    }
+
+  });
+
+  count.innerText =
+    `Resultados encontrados: ${visible}`;
+
+}
+
+searchInput.addEventListener(
+  "input",
+  runSearch
+);
+
+ageFilter.addEventListener(
+  "change",
+  runSearch
+);
+
+sdgFilter.addEventListener(
+  "change",
+  runSearch
+);
+
+runSearch();
+
+</script>
+
+

@@ -1,0 +1,38 @@
+---
+permalink: 404.html
+layout: layouts/base.njk
+title: Página no encontrada
+---
+
+<section class="empty-state">
+
+  <h1>
+    404
+  </h1>
+
+  <p>
+    La página que buscás no existe
+    o fue movida.
+  </p>
+
+  <div class="hero-actions">
+
+    <a
+      class="hero-button"
+      href="{{ '/' | url }}">
+
+      Volver al inicio
+
+    </a>
+
+    <a
+      class="hero-button secondary"
+      href="{{ '/activities/' | url }}">
+
+      Explorar actividades
+
+    </a>
+
+  </div>
+
+</section>

@@ -1,0 +1,10 @@
+---
+pagination:
+  data: badges
+  size: 1
+  alias: badge
+
+permalink: "/badges/{{ badge.id }}/"
+
+layout: layouts/badge-page.njk
+---

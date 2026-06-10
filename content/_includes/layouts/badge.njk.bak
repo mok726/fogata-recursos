@@ -1,0 +1,136 @@
+---
+layout: layouts/base.njk
+---
+
+<div class="badge-header">
+
+  <img
+    class="badge-logo"
+src="{{ ('/imagenes/insignias/' + (badge_id | lower) + '.png') | url }}"
+    alt="{{ title }}"
+  >
+
+  <div>
+
+    <h1>{{ title }}</h1>
+
+    <p>{{ description }}</p>
+
+{% if badge.summary %}
+<section class="badge-summary">
+  {{ badge.summary | safe | nl2br }}
+</section>
+{% endif %}
+
+{% if badge.documents and badge.documents.length %}
+<section class="badge-documents">
+  <h2>Documentos</h2>
+
+  <div class="documents-grid">
+    {% for doc in badge.documents %}
+      <article class="document-card">
+        {% if doc.image %}
+          <img src="{{ doc.image }}" alt="{{ doc.title_es or doc.title }}">
+        {% endif %}
+
+        <div class="document-card-content">
+          <h3>{{ doc.title_es or doc.title }}</h3>
+
+          <a href="{{ doc.url }}" target="_blank" rel="noopener">
+            Ver documento
+          </a>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+{% if badge.sources and badge.sources.length %}
+<section class="badge-sources">
+  <h2>Fuentes</h2>
+
+  <ul>
+    {% for source in badge.sources %}
+      <li>
+        <a href="{{ source.url }}" target="_blank" rel="noopener">
+          {{ source.name }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if badge.license or badge.attribution %}
+<section class="badge-license">
+
+  {% if badge.license %}
+    <p>
+      <strong>Licencia:</strong>
+      <a href="{{ badge.license.url }}" target="_blank" rel="noopener">
+        {{ badge.license.type }}
+      </a>
+    </p>
+  {% endif %}
+
+  {% if badge.attribution %}
+    <p>
+      <strong>Atribución:</strong>
+      {{ badge.attribution.organization }}
+      {% if badge.attribution.year %}
+        ({{ badge.attribution.year }})
+      {% endif %}
+    </p>
+  {% endif %}
+
+</section>
+{% endif %}
+
+
+
+  </div>
+
+</div>
+
+<hr>
+
+{{ content | safe }}
+
+<hr>
+
+<h2>Actividades relacionadas</h2>
+
+<div class="card-grid">
+
+{% for activity in collections.activities %}
+
+  {% if activity.data.badges %}
+
+    {% for badge in activity.data.badges %}
+
+      {% if badge == badge_id %}
+
+        <article class="card">
+
+          <h3>
+            <a href="{{ activity.url  | url }}">
+              {{ activity.data.title }}
+            </a>
+          </h3>
+
+          <p>{{ activity.data.description }}</p>
+
+        </article>
+
+      {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+{% endfor %}
+
+</div>
+
+

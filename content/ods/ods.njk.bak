@@ -1,0 +1,12 @@
+---
+pagination:
+  data: allSdgs
+  size: 1
+  alias: sdg
+
+permalink: "/ods/{{ sdg.id }}/"
+
+layout: layouts/sdg-page.njk
+---
+
+

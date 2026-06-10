@@ -1,0 +1,293 @@
+---
+title: Fogata de Recursos
+layout: layouts/base.njk
+permalink: /
+---
+
+<section class="home-hero">
+
+  <div class="home-hero-content">
+
+    <h1>
+      Fogata de Recursos
+    </h1>
+
+<p>
+  Biblioteca abierta de actividades scouts, juegos, talleres,
+  recursos educativos y propuestas pedagógicas para dirigentes,
+  educadores y comunidades.
+</p>
+
+    <div class="hero-actions">
+
+      <a class="hero-button" href="{{ '/activities/' | url }}">
+        Explorar actividades
+      </a>
+
+      <a class="hero-button secondary" href="{{ '/badges/' | url }}">
+        Ver insignias
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+
+<section class="search-box">
+
+  <input
+    id="search-input"
+    type="text"
+    placeholder="Buscar actividades, ODS, insignias o temas...">
+
+  <div id="search-results" class="search-results"></div>
+
+<script type="module">
+
+import * as pagefind from "/pagefind/pagefind.js";
+
+const input =
+  document.getElementById("search-input");
+
+const resultsContainer =
+  document.getElementById("search-results");
+
+input.addEventListener("input", async () => {
+
+  const query = input.value.trim();
+
+  if (query.length < 2) {
+
+    resultsContainer.innerHTML = "";
+
+    return;
+  }
+
+  const search = await pagefind.search(query);
+
+  const results = await Promise.all(
+    search.results.slice(0, 8).map(r => r.data())
+  );
+
+  resultsContainer.innerHTML = results.map(r => `
+
+    <div class="search-result">
+
+      <a href="${r.url}">
+        ${r.meta.title || "Sin título"}
+      </a>
+
+      <p>
+        ${r.excerpt || ""}
+      </p>
+
+    </div>
+
+  `).join("");
+
+});
+
+</script>
+
+</section>
+
+
+<section class="section-spacing">
+
+<section class="section-spacing">
+
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Explorar la biblioteca
+      </h2>
+
+      <p>
+        Navegá el contenido por actividades, insignias,
+        ramas scout y Objetivos de Desarrollo Sostenible.
+      </p>
+
+    </div>
+
+  </div>
+
+  <div class="grid">
+
+    <a href="{{ '/activities/' | url }}">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            Actividades
+          </h2>
+
+          <p>
+            Explorar dinámicas, juegos, talleres y propuestas educativas.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+    <a href="{{ '/badges/' | url }}">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            Insignias
+          </h2>
+
+          <p>
+            Actividades relacionadas con insignias y progresión.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+    <a href="{{ '/ods/' | url }}">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            ODS
+          </h2>
+
+          <p>
+            Explorar actividades vinculadas a Objetivos de Desarrollo Sostenible.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+    <a href="{{ '/edades/' | url }}">
+
+      <div class="card">
+        <div class="card-content">
+
+          <h2>
+            Edades
+          </h2>
+
+          <p>
+            Buscar propuestas adaptadas a cada rama scout.
+          </p>
+
+        </div>
+      </div>
+
+    </a>
+
+  </div>
+
+</section>
+
+<section class="section-spacing">
+
+  <h2>
+    Sobre el proyecto
+  </h2>
+
+  <p>
+    Fogata de Recursos busca construir una biblioteca educativa scout
+    abierta, navegable y reutilizable.
+  </p>
+
+<ul>
+  <li>Búsqueda rápida de actividades y recursos.</li>
+  <li>Exploración por edades, insignias y ODS.</li>
+  <li>Reutilización y adaptación de propuestas educativas.</li>
+  <li>Educación ambiental y ciudadanía global.</li>
+  <li>Trabajo basado en competencias.</li>
+  <li>Repositorio abierto y colaborativo.</li>
+</ul>
+
+</section>
+
+<section class="featured-section">
+
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Actividades destacadas
+      </h2>
+
+      <p>
+        Algunas de las últimas actividades incorporadas al proyecto.
+      </p>
+
+    </div>
+
+    <a class="hero-button secondary" href="{{ '/activities/' | url }}">
+      Ver todas
+    </a>
+
+  </div>
+
+  <div class="grid">
+
+{% for activityItem in collections.activitiesSorted %}
+
+      {% if loop.index <= 6 %}
+
+{% set item = activityItem.data %}
+{% set activityUrl = activityItem.url %}
+
+{% include "components/activity-card.njk" %}
+      {% endif %}
+
+    {% endfor %}
+
+  </div>
+
+</section>
+
+
+<section>
+
+  <div class="section-header">
+
+    <div>
+
+      <h2>
+        Explorar por temas
+      </h2>
+
+<p>
+  Temas frecuentes presentes en actividades, juegos,
+  proyectos y recursos educativos.
+</p>
+    </div>
+
+  </div>
+
+  <div class="tag-cloud">
+
+    {% for tag in tags %}
+
+      <a
+        class="tag-link"
+        href="{{ ('/activities/?search=' + tag) | url }}">
+
+        {{ tag }}
+
+      </a>
+
+    {% endfor %}
+
+  </div>
+
+</section>

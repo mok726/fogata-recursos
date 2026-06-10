@@ -1,24 +1,19 @@
-body {
-  margin: 0;
+/* ==========================================
+   LAYOUT.CSS - ESTILOS GLOBALES Y ESTRUCTURALES
+   Versión consolidada para Fogata de Recursos
+========================================== */
 
-  font-family:
-    Inter,
-    Arial,
-    sans-serif;
-
-  background: #f4f6f3;
-
-  color: #1f2a20;
-
-  line-height: 1.6;
-}
-
-/* =========================
-   GLOBAL
-========================= */
-
+/* ---------- RESET & GLOBAL ---------- */
 * {
   box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: linear-gradient(to bottom, #eef3ec, #f7f9f6);
+  color: #1f2a20;
+  line-height: 1.6;
 }
 
 img {
@@ -27,121 +22,52 @@ img {
 
 a {
   color: inherit;
-
   text-decoration: none;
 }
 
-
-/* =========================
-   TYPOGRAPHY
-========================= */
-
-h1,
-h2,
-h3,
-h4 {
+/* ---------- TIPOGRAFÍA ---------- */
+h1, h2, h3, h4 {
   line-height: 1.2;
-
   color: #243526;
 }
 
-h1 {
-  font-size: 2.5rem;
-}
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.3rem; }
 
-h2 {
-  font-size: 1.9rem;
-}
-
-h3 {
-  font-size: 1.3rem;
-}
-
-
-/* =========================
-   CHIPS
-========================= */
-
+/* ---------- CHIPS Y ETIQUETAS ---------- */
 .chip {
   background: #e7efe4;
-
   color: #355b38;
-
-  padding:
-    0.4rem
-    0.8rem;
-
+  padding: 0.4rem 0.8rem;
   border-radius: 999px;
-
   font-size: 0.85rem;
-
   font-weight: 700;
 }
 
 .meta {
   display: flex;
-
   flex-wrap: wrap;
-
   gap: 0.5rem;
 }
 
-/* =========================
-   GENERIC HEADERS
-========================= */
-
-.page-header {
-  display: flex;
-
-  align-items: center;
-
-  gap: 1.5rem;
-
-  flex-wrap: wrap;
-
-  margin-bottom: 2rem;
-}
-
-.page-header img {
-  width: 120px;
-
-  height: 120px;
-
-  object-fit: contain;
-}
-
-
-/* =========================
-   NAVBAR V2
-========================= */
-
+/* ---------- NAVBAR (STICKY) ---------- */
 .navbar {
   position: sticky;
   top: 0;
   z-index: 1000;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
-
   gap: 1rem;
-
   background: rgba(255,255,255,0.92);
-
   backdrop-filter: blur(12px);
-
   padding: 1rem 1.5rem;
-
   border-radius: 0;
-
   margin-bottom: 0;
-
-  box-shadow:
-    0 2px 10px rgba(0,0,0,0.06);
-
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
   flex-wrap: wrap;
 }
-
 
 .navbar-left,
 .navbar-center,
@@ -159,7 +85,6 @@ h3 {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-
   font-weight: 700;
   font-size: 1.2rem;
 }
@@ -167,7 +92,6 @@ h3 {
 .navbar-brand img {
   width: 32px;
   height: 32px;
-
   object-fit: contain;
 }
 
@@ -181,16 +105,11 @@ h3 {
 
 .search-button {
   border: none;
-
   background: #2c5e37;
   color: white;
-
   padding: 0.7rem 1rem;
-
   border-radius: 10px;
-
   cursor: pointer;
-
   font-weight: 600;
 }
 
@@ -198,172 +117,112 @@ h3 {
   opacity: 0.9;
 }
 
-/* =========================
-   FOOTER V2
-========================= */
-
+/* ---------- FOOTER (ESTILO MOCK) ---------- */
 .footer {
   background: white;
-
   margin-top: 4rem;
-
-  padding: 2rem;
-
-  border-radius: 18px;
-
-  box-shadow:
-    0 2px 10px rgba(0,0,0,0.06);
+  border-radius: 28px 28px 0 0;
+  overflow: hidden;
+  box-shadow: 0 -2px 10px rgba(0,0,0,0.03);
 }
 
-.footer-grid {
-  display: grid;
-
-  grid-template-columns:
-    repeat(auto-fit, minmax(220px, 1fr));
-
+.footer-top {
+  background: linear-gradient(135deg, #eef5ea, #d9e8d4);
+  padding: 2rem;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
   gap: 2rem;
 }
 
-.footer h3,
-.footer h4 {
+.footer-slogan {
+  max-width: 40%;
+}
+
+.footer-slogan h3 {
+  font-size: 1.5rem;
+  color: #2e6b3d;
   margin-top: 0;
 }
 
-.footer p {
-  color: #666;
-  line-height: 1.6;
+.footer-newsletter h4 {
+  margin-bottom: 0.5rem;
 }
 
-.footer-links {
+.newsletter-form {
   display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
 }
 
-.footer-links a:hover {
-  color: #2c5e37;
+.newsletter-form input {
+  padding: 0.6rem 1rem;
+  border: 1px solid #ccc;
+  border-radius: 40px;
+  flex: 1;
 }
 
-/* =========================
-   PAGE CONTAINER
-========================= */
+.newsletter-form button {
+  background: #2e6b3d;
+  color: white;
+  border: none;
+  border-radius: 40px;
+  padding: 0.6rem 1.2rem;
+  cursor: pointer;
+}
 
+.footer-bottom {
+  background: #1f2937;
+  color: #e5e7eb;
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 2rem;
+}
+
+.footer-bottom a {
+  color: #cbd5e1;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.footer-bottom a:hover {
+  color: white;
+}
+
+@media (max-width: 700px) {
+  .footer-slogan {
+    max-width: 100%;
+  }
+  .footer-top {
+    flex-direction: column;
+  }
+}
+
+/* ---------- CONTENEDOR PRINCIPAL (FULL-WIDTH) ---------- */
 .page-container {
   min-height: 60vh;
   width: 100%;
-  max-width: 1200px;
-
-  margin: auto;
-
-  padding:
-    1rem
-    1.5rem
-    4rem;
+  max-width: none;
+  padding: 0;
+  margin: 0;
 }
 
-
-/* =========================
-   RESPONSIVE
-========================= */
-
-@media (max-width: 900px) {
-
-  .activity-hero {
-    flex-direction: column;
-    align-items: start;
-  }
-
-  .section-header,
-  .listing-header,
-  .navbar {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .navbar-center {
-    justify-content: center;
-  }
-
-  .navbar-right {
-    justify-content: center;
-  }
-
-  .hero-actions {
-    flex-direction: column;
-  }
-
-  .hero-button {
-    width: 100%;
-    text-align: center;
-  }
-
+/* ---------- SECCIONES Y ENCABEZADOS GENÉRICOS ---------- */
+.page-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
 }
 
-@media (max-width: 600px) {
-
-  body {
-    padding: 0.6rem;
-  }
-
-  .activity-content,
-  .activity-hero,
-  .info-box,
-  .footer,
-  .navbar {
-    padding: 1rem;
-  }
-
-  .card-content {
-    padding: 1rem;
-  }
-
-  .home-hero {
-    padding: 2rem 1.2rem;
-  }
-
-  .home-hero h1 {
-    font-size: 2rem;
-  }
-
+.page-header img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
 }
-
-
-/* =========================
-   EMPTY STATES
-========================= */
-
-.empty-state {
-  background: white;
-
-  border-radius: 18px;
-
-  padding: 3rem 2rem;
-
-  margin-top: 2rem;
-
-  text-align: center;
-
-  box-shadow:
-    0 2px 10px rgba(0,0,0,0.06);
-}
-
-.empty-state h2 {
-  margin-top: 0;
-}
-
-.empty-state p {
-  color: #666;
-
-  max-width: 50ch;
-
-  margin:
-    1rem auto 0;
-}
-
-
-/* =========================
-   SECTION LAYOUTS
-========================= */
 
 .section-spacing {
   margin-top: 4rem;
@@ -371,37 +230,25 @@ h3 {
 
 .section-header {
   display: flex;
-
   justify-content: space-between;
   align-items: end;
-
   gap: 1.5rem;
-
   flex-wrap: wrap;
-
   margin-bottom: 1rem;
 }
 
 .section-header p {
   margin-bottom: 0;
-
   color: #667067;
-
   max-width: 60ch;
 }
 
-/* =========================
-   LISTING HEADERS
-========================= */
-
+/* ---------- LISTADOS Y BÚSQUEDA ---------- */
 .listing-header {
   display: flex;
-
   justify-content: space-between;
   align-items: center;
-
   gap: 1.5rem;
-
   flex-wrap: wrap;
 }
 
@@ -412,34 +259,20 @@ h3 {
 .listing-search input,
 .search-box input {
   width: 100%;
-
-  padding:
-    0.9rem
-    1rem;
-
+  padding: 0.9rem 1rem;
   border: none;
-
   border-radius: 14px;
-
   background: white;
-
-  box-shadow:
-    0 2px 10px rgba(0,0,0,0.06);
-
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
   font-size: 1rem;
 }
 
 .results-count {
   margin-top: 1rem;
-
   color: #5f695f;
-
   font-size: 0.95rem;
+  font-weight: 600;
 }
-
-/* =========================
-   SEARCH
-========================= */
 
 .search-box {
   margin-top: 3rem;
@@ -447,107 +280,122 @@ h3 {
 
 .search-results {
   display: grid;
-
   gap: 1rem;
-
   margin-top: 1.5rem;
 }
 
 .search-result {
   background: white;
-
   border-radius: 18px;
-
   padding: 1rem 1.2rem;
-
-  box-shadow:
-    0 2px 10px rgba(0,0,0,0.06);
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
 }
 
 .search-result a {
   font-weight: 700;
-
   color: #24462a;
 }
 
 .search-result p {
   margin-bottom: 0;
-
   color: #667067;
 }
 
-/* =========================
-   BUTTONS
-========================= */
-
+/* ---------- BOTONES GENÉRICOS ---------- */
 .hero-button {
   display: inline-flex;
-
-  justify-content: center;
   align-items: center;
-
-  padding:
-    0.9rem
-    1.2rem;
-
+  justify-content: center;
+  padding: 0.9rem 1.3rem;
   border-radius: 14px;
-
-  background: #355b38;
-
+  background: #2c5e37;
   color: white;
-
   font-weight: 700;
-
-  transition:
-    transform 0.15s ease,
-    opacity 0.15s ease;
+  transition: transform 0.15s ease, opacity 0.15s ease;
 }
 
 .hero-button:hover {
   transform: translateY(-2px);
-
   opacity: 0.95;
 }
 
 .hero-button.secondary {
   background: white;
-
-  color: #355b38;
-
-  box-shadow:
-    inset 0 0 0 1px rgba(0,0,0,0.08);
+  color: #2c5e37;
+  border: 1px solid rgba(0,0,0,0.08);
 }
 
-/* =========================
-   RESPONSIVE
-========================= */
+/* ---------- INPUTS ---------- */
+input[type="text"] {
+  width: 100%;
+  padding: 1rem 1.2rem;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 14px;
+  background: white;
+  font-size: 1rem;
+  transition: border 0.15s ease, box-shadow 0.15s ease;
+}
 
+input[type="text"]:focus {
+  outline: none;
+  border-color: #2c5e37;
+  box-shadow: 0 0 0 4px rgba(44,94,55,0.12);
+}
+
+/* ---------- ESTADOS VACÍOS ---------- */
+.empty-state {
+  background: white;
+  border-radius: 18px;
+  padding: 3rem 2rem;
+  margin-top: 2rem;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+
+.empty-state h2 {
+  margin-top: 0;
+}
+
+.empty-state p {
+  color: #666;
+  max-width: 50ch;
+  margin: 1rem auto 0;
+}
+
+/* ---------- RESPONSIVE ---------- */
 @media (max-width: 900px) {
-
+  .activity-hero {
+    flex-direction: column;
+    align-items: start;
+  }
+  
   .section-header,
   .listing-header,
   .navbar {
     flex-direction: column;
-
     align-items: stretch;
   }
-
+  
+  .navbar-center,
+  .navbar-right {
+    justify-content: center;
+  }
+  
   .hero-actions {
     flex-direction: column;
   }
-
+  
   .hero-button {
     width: 100%;
+    text-align: center;
   }
-
 }
 
 @media (max-width: 600px) {
-
   body {
     padding: 0.6rem;
   }
-
+  
   .activity-content,
   .activity-hero,
   .info-box,
@@ -555,167 +403,18 @@ h3 {
   .navbar {
     padding: 1rem;
   }
-
+  
   .card-content {
     padding: 1rem;
   }
-
-}
-
-/* =========================
-   MODERN PAGE SPACING
-========================= */
-
-body {
-  background:
-    linear-gradient(
-      to bottom,
-      #eef3ec,
-      #f7f9f6
-    );
-}
-
-/* =========================
-   SECTION SPACING
-========================= */
-
-.section-spacing {
-  margin-top: 4rem;
-}
-
-/* =========================
-   SEARCH INPUTS
-========================= */
-
-input[type="text"] {
-  width: 100%;
-
-  padding:
-    1rem
-    1.2rem;
-
-  border:
-    1px solid rgba(0,0,0,0.08);
-
-  border-radius: 14px;
-
-  background: white;
-
-  font-size: 1rem;
-
-  transition:
-    border 0.15s ease,
-    box-shadow 0.15s ease;
-}
-
-input[type="text"]:focus {
-  outline: none;
-
-  border-color: #2c5e37;
-
-  box-shadow:
-    0 0 0 4px rgba(44,94,55,0.12);
-}
-
-/* =========================
-   SEARCH RESULTS
-========================= */
-
-.results-count {
-  margin-top: 1rem;
-
-  color: #666;
-
-  font-weight: 600;
-}
-
-/* =========================
-   HERO BUTTONS
-========================= */
-
-.hero-button {
-  display: inline-flex;
-
-  align-items: center;
-  justify-content: center;
-
-  padding:
-    0.9rem
-    1.3rem;
-
-  border-radius: 14px;
-
-  background: #2c5e37;
-
-  color: white;
-
-  font-weight: 700;
-
-  transition:
-    transform 0.15s ease,
-    opacity 0.15s ease;
-}
-
-.hero-button:hover {
-  transform: translateY(-2px);
-
-  opacity: 0.95;
-}
-
-.hero-button.secondary {
-  background: white;
-
-  color: #2c5e37;
-
-  border:
-    1px solid rgba(0,0,0,0.08);
+  
+  .home-hero {
+    padding: 2rem 1.2rem;
+  }
+  
+  .home-hero h1 {
+    font-size: 2rem;
+  }
 }
 
 
-/* =========================
-   LICENSE FOOTER
-========================= */
-
-.activity-license {
-  margin-top: 4rem;
-
-  display: grid;
-
-  gap: 1.5rem;
-
-  grid-template-columns:
-    repeat(auto-fit, minmax(280px, 1fr));
-}
-
-.license-block {
-  background: white;
-
-  border-radius: 18px;
-
-  padding: 1.5rem;
-
-  box-shadow:
-    0 2px 10px rgba(0,0,0,0.05);
-}
-
-.license-block h3 {
-  margin-top: 0;
-}
-
-.license-block ul {
-  padding-left: 1.2rem;
-}
-
-/* =========================
-   EXTERNAL LINKS
-========================= */
-
-.info-box a {
-  color: #2c5e37;
-
-  font-weight: 600;
-}
-
-.info-box a:hover {
-  text-decoration: underline;
-}

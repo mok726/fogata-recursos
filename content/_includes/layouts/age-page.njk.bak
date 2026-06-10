@@ -1,0 +1,72 @@
+---
+layout: layouts/base.njk
+---
+
+{% set activityCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+  {% if activity.data.age_group %}
+
+    {% for item in activity.data.age_group %}
+
+      {% set ageInfo = item | normalizeAge(ageGroups) %}
+
+      {% if ageInfo.id == age.id %}
+        {% set activityCount = activityCount + 1 %}
+      {% endif %}
+
+    {% endfor %}
+
+  {% endif %}
+
+{% endfor %}
+
+<section class="page-header age-page-header">
+
+  <img
+    src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+    alt="{{ age.name }}">
+
+  <div>
+
+    <h1>
+      {{ age.name }}
+    </h1>
+
+    <p>
+      {{ activityCount }} actividades disponibles para esta rama.
+    </p>
+
+  </div>
+
+</section>
+
+<div class="grid">
+
+  {% for activity in collections.activitiesSorted %}
+
+    {% if activity.data.age_group %}
+
+      {% for item in activity.data.age_group %}
+
+        {% set ageInfo = item | normalizeAge(ageGroups) %}
+
+        {% if ageInfo.id == age.id %}
+
+          {% set item = activity.data %}
+          {% set activityUrl = activity.url %}
+
+          {% include "components/activity-card.njk" %}
+
+        {% endif %}
+
+      {% endfor %}
+
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+
+

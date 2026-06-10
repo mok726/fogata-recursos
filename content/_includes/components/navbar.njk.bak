@@ -1,0 +1,58 @@
+<nav class="navbar">
+
+  <div class="navbar-left">
+
+    <a
+      class="navbar-brand"
+      href="{{ '/' | url }}"
+      aria-label="Fogata de Recursos - Inicio">
+
+      <img
+        src="{{ '/imagenes/favicon.png' | url }}"
+        alt=""
+        width="32"
+        height="32">
+
+      <span>
+        Fogata de Recursos
+      </span>
+
+    </a>
+
+  </div>
+
+  <div class="navbar-center">
+
+    <a href="{{ '/activities/' | url }}">
+      Actividades
+    </a>
+
+    <a href="{{ '/badges/' | url }}">
+      Insignias
+    </a>
+
+    <a href="{{ '/ods/' | url }}">
+      ODS
+    </a>
+
+    <a href="{{ '/edades/' | url }}">
+      Edades
+    </a>
+
+  </div>
+
+  <div class="navbar-right">
+
+    <a
+      class="search-button"
+      href="{{ '/activities/' | url }}">
+
+      Buscar
+
+    </a>
+
+  </div>
+
+</nav>
+
+
