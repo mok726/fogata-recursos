@@ -1,21 +1,21 @@
 ---
 title: "Energía al Rescate"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-al-rescate/"
 description: "Relaciona los ODS con el uso de energía en equipos."
 summary: "Relaciona los ODS con el uso de energía en equipos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-al-rescate.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -29,22 +29,38 @@ competencies:
   - Pensamiento global
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
-  - 17
 sdgs:
   - 7
   - 17
 activity_badges:
   - energia
-activity_code: "energia-X174"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Groups choose an SDG (Zero Hunger, Quality Education, Clean Water). Discussing how energy access enables these goals - refrigeration for food, electricity for schools, pumps for water. Presenting connections. Global development, systems thinking atmosphere."
+activity_code: "energia-X43"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 17
+rama_caminantes:
+  - 3
+  - 7
+  - 17
+rama_rovers:
+  - 7
+  - 17
+image_prompt: "An Argentine scout room, with a large poster of the Sustainable Development Goals (SDGs) on the wall in the center-left. A table with markers and paper, and a notebook with notes linking energy to SDG 2 (hambre cero), SDG 4 (educación), etc. The left side has space for text. On the far right side, a small group of tiny older scouts (11-17) sit, one presenting at the board, others listening, seen from a distance. The SDG and energy connection environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - ENERGÍA PARA UN MUNDO MEJOR"
+required_comment: "Actividad obligatoria para la categoría: ENERGÍA PARA UN MUNDO MEJOR"
 required_category: "ENERGÍA PARA UN MUNDO MEJOR"
 tags:
+  - ENERGÍA PARA UN MUNDO MEJOR
+  - energia
+  - ODS
+  - energía
+  - desarrollo sostenible
+  - alianzas
+  - impacto
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -55,12 +71,6 @@ accessibility:
 activity_type:
   - Investigación
   - Trabajo grupal
-etiquetas:
-  - ODS
-  - energía
-  - desarrollo sostenible
-  - alianzas
-  - impacto
 category:
   - Desarrollo sostenible
   - Energía
@@ -83,16 +93,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +119,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

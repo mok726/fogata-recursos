@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/estudio-evolutivo/"
 description: "Los participantes investigan cómo una especie se ha adaptado al clima."
 summary: "Los participantes investigan cómo una especie se ha adaptado al clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/estudio-evolutivo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,15 +31,28 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X233"
-image_prompt: "Scouts ages 5-21 choosing a species and researching its climate adaptations - polar bear (thick fur, blubber), camel (hump fat, long eyelashes), cactus (water storage, spines), penguin (huddling behavior). Creating report or drawing. Evolutionary biology, climate adaptation, natural history appreciation atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X20"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table in the center-left. On the table, a poster showing a long-tongued bee and a deep flower, and another of a hummingbird and a tubular flower. Books on evolution open. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit at the table, one pointing at the poster, another reading a book, seen from a distance. The coevolution research environment dominates."
 tags:
+  - cambioclimatico
+  - especie
+  - adaptación
+  - evolución
+  - clima
+  - entorno
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - especie
-  - adaptación
-  - evolución
-  - clima
-  - entorno
 category:
   - Biología evolutiva
   - Ecología
@@ -82,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

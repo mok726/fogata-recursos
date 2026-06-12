@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/estrategias-de-termorregulacion/"
 description: "Juego sobre adaptaciones climáticas."
 summary: "Juego sobre adaptaciones climáticas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/estrategias-de-termorregulacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,17 +24,32 @@ materials:
   - Imágenes de animales
 responsible:
   - educador Scout
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A13"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Listing animal adaptations for heat (elephant ears, camel hump) and cold (polar bear fur, penguin huddling). Creating matching or memory game with animal cards. Playing together. Climate adaptation education through play, creative learning atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a table in the center-left. Sets of animal cards (polar bear, camel, elephant, penguin) paired with adaptation cards (thick fur, hump fat, large ears, huddling). A matching game board. The left side has negative space for text. On the far right side, three tiny scouts (7-13) sit, one placing a card on the board, another flipping a card, seen from a distance. The climate adaptations game environment dominates."
 tags:
+  - biodiversidad
+  - termorregulación
+  - adaptaciones
+  - calor
+  - frío
+  - juego
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-20"
@@ -46,12 +61,6 @@ accessibility:
 activity_type:
   - Juego
   - Creatividad
-etiquetas:
-  - termorregulación
-  - adaptaciones
-  - calor
-  - frío
-  - juego
 category:
   - Biología
   - Clima
@@ -73,16 +82,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

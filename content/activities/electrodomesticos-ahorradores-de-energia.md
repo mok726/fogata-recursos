@@ -3,23 +3,19 @@ title: "Electrodomésticos ahorradores de energía"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/electrodomesticos-ahorradores-de-energia/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía.
+description: "Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía."
+summary: "Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/electrodomesticos-ahorradores-de-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Toma de decisiones
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 12
 sdgs:
   - 7
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X350"
-image_prompt: "Older scouts ages 16-20 researching energy efficiency labels in Argentina (ENERGY STAR, IRAM, etc.). Discussing with parents when buying new appliances - fridge, washing machine, TV, car. Recommending efficient models. Consumer advocacy, energy literacy, family economics influence atmosphere."
+  - sacc
+activity_code: "sacc-X44"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 12
+rama_caminantes:
+  - 3
+  - 7
+  - 12
+rama_rovers:
+  - 7
+  - 12
+image_prompt: "An Argentine home appliance store or scout room, with a refrigerator and a washing machine in the center-left. Energy efficiency labels (ENERGY STAR, IRAM) prominently displayed. A smartphone showing a comparison of energy consumption. The left side has negative space for text. On the far right side, two tiny older scouts (16-20) stand, one pointing at the label, the other holding a smartphone, seen from a distance. The energy efficient appliance research environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - electrodomésticos
+  - eficiencia
+  - etiquetas
+  - ahorro
+  - consumo
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-8"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Consejo
-etiquetas:
-  - electrodomésticos
-  - eficiencia
-  - etiquetas
-  - ahorro
-  - consumo
 category:
   - Energía
   - Hogar
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +111,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Electrodomésticos ahorradores de energía
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía.
 
 ## Desarrollo

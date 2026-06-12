@@ -1,21 +1,21 @@
 ---
 title: "Empujón del Viento"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/empujon-del-viento/"
 description: "Explora cómo el viento beneficia a plantas y animales, y construye un molinillo."
 summary: "Explora cómo el viento beneficia a plantas y animales, y construye un molinillo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/empujon-del-viento.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -31,16 +31,29 @@ competencies:
   - Trabajo manual
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X134"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or garden. Building pinwheels with paper and straws. Testing in wind - blowing, running, natural breeze. Watching blades spin. Observing wind effects on leaves and flowers. Hands-on, windy day, playful learning atmosphere."
-similar_activities: "https -//www.firstpalette.com/craft/pinwheel.html"
+activity_code: "energia-X03"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 7
+image_prompt: "An Argentine park or garden on a windy day. In the center-left, a pinwheel made of paper and a straw stuck in the ground or held by a small stick, spinning in the wind. Leaves blowing nearby. The left side has open space for text. On the far right side, two tiny young scouts (5-10) stand, one holding a pinwheel, the other watching it spin, seen from a distance. The wind energy play environment dominates."
+similar_activities:
+  - https://www.firstpalette.com/craft/pinwheel.html
 tags:
+  - energia
+  - viento
+  - molinillo
+  - polinización
+  - energía eólica
+  - observación
   - Insignia de Energía
 location: "Exterior"
 participants: "4-15"
@@ -51,12 +64,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Manualidad
-etiquetas:
-  - viento
-  - molinillo
-  - polinización
-  - energía eólica
-  - observación
 category:
   - Ciencia
   - Naturaleza
@@ -81,16 +88,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.firstpalette.com/craft/pinwheel.html"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +119,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

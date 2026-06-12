@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-suelo-en-escena/"
 description: "Crea una obra de teatro sobre una comunidad que depende del suelo."
 summary: "Crea una obra de teatro sobre una comunidad que depende del suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-suelo-en-escena.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -24,15 +24,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X73"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor stage. Performing short play about farming community facing soil erosion. One scout playing farmer, another playing scientist, others playing community members. Simple props (hat, watering can). Audience of other scouts. Creative, dramatic, consciousness-raising atmosphere."
+activity_code: "suelos-X52"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room or outdoor stage in Argentina. In the center-left, a simple stage area with a backdrop depicting a farm or village. A few props (hat, watering can, sign). The left side has space for text. On the far right side, a group of tiny scouts (5-15) perform a short play: one acting as a farmer, another as a scientist, others as community members, seen from a distance. The theatrical environmental education environment dominates."
 tags:
+  - suelos
+  - teatro
+  - obra
+  - comunidad
+  - suelo
+  - degradación
   - Insignia de los Suelos
 location: "Interior / Exterior"
 participants: "6-20"
@@ -45,12 +58,6 @@ activity_type:
   - Creatividad
   - Arte
   - Sensibilización
-etiquetas:
-  - teatro
-  - obra
-  - comunidad
-  - suelo
-  - degradación
 category:
   - Arte
   - Teatro
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

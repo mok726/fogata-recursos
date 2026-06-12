@@ -9,17 +9,17 @@ description: |
 summary: |
   Actividad para limpiar un río, estanque, lago o playa en tu área.
   Esta actividad es obligatoria para la categoría E.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hora-de-limpiar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -35,15 +35,28 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Líder de grupo
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X300"
-image_prompt: "Scouts ages 11-17 organizing river, lake, or beach cleanup. Before/after photos. Using nets, gloves, trash bags. Safely removing trash without disturbing wildlife. Using collected plastic bottles for art project (collage, sculpture). Direct environmental action, water protection, visible impact, plastic art reuse atmosphere."
+  - agua
+activity_code: "agua-X53"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine river, lake, or beach, with trash scattered on the shore in the center-left: plastic bottles, wrappers, a fishing net. A before photo on a sign, and a group of filled trash bags. The left side has open space for text. On the far right side, a group of tiny older scouts (11-17) spread out, one picking up a bottle with a grabber, another holding a bag, seen from a distance. The waterway cleanup environment dominates."
 tags:
+  - agua
+  - limpieza
+  - río
+  - lago
+  - playa
+  - basura
   - Parche del Agua
 location: "Exterior"
 participants: "6-25"
@@ -54,12 +67,6 @@ accessibility:
 activity_type:
   - Servicio
   - Limpieza
-etiquetas:
-  - limpieza
-  - río
-  - lago
-  - playa
-  - basura
 category:
   - Conservación
   - Agua
@@ -87,16 +94,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,15 +120,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

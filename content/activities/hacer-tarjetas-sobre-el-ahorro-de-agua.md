@@ -3,22 +3,19 @@ title: "Hacer tarjetas sobre el ahorro de agua"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/hacer-tarjetas-sobre-el-ahorro-de-agua/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela.
+description: "Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela."
+summary: "Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,17 +25,33 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 4
 sdgs:
   - 6
   - 4
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X355"
-image_prompt: "Older scouts ages 11-15 creating flashcards with water-saving facts - bath (90L) vs shower 5min (30L), tap off while brushing (1L) vs running (6L). Presenting at school, doing quiz. Peer education, water literacy, engaging data communication atmosphere."
+  - sacc
+activity_code: "sacc-X49"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 4
+rama_caminantes:
+  - 3
+  - 6
+  - 4
+rama_rovers:
+  - 6
+  - 4
+image_prompt: "An Argentine scout room, with a table in the center-left covered with flashcards showing water-saving facts: 'Bañera = 90L', 'Ducha 5 min = 30L', 'Lavarse los dientes con llave cerrada = 1L'. Colorful drawings and numbers. A small quiz bowl on the table. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one holding a flashcard, the other reading the fact aloud, seen from a distance. The water education flashcards environment dominates."
 tags:
+  - Ahorra Agua
+  - sacc
+  - tarjetas
+  - agua
+  - datos
+  - ahorro
+  - prueba
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "6-20"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Educación
   - Juego
-etiquetas:
-  - tarjetas
-  - agua
-  - datos
-  - ahorro
-  - prueba
 category:
   - Agua
   - Educación
@@ -78,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +112,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Hacer tarjetas sobre el ahorro de agua
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Agua.
 Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela.
 
 ## Desarrollo

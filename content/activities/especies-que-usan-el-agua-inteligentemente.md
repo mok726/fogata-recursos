@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/especies-que-usan-el-agua-inteligentemente/"
 description: "Estudia adaptaciones de especies forestales para sobrevivir a sequías."
 summary: "Estudia adaptaciones de especies forestales para sobrevivir a sequías."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -29,17 +28,32 @@ competencies:
   - Conciencia climática
 responsible:
   - Scouter o biólogo
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D10"
-image_prompt: "Older scouts ages 11-21 studying drought adaptations in four forest species - 1) Conifer (pine) - needle-like leaves reduce water loss, deep taproot, 2) Bird (e.g., finch) - gets water from seeds and insects, can go long without drinking, 3) Fungus (mushroom) - mycelium network absorbs moisture from soil, can go dormant, 4) Wildflower (e.g., desert marigold) - short growing season timed with rains, deep taproot, water-storing tissues. Discussing climate change impacts on these strategies - longer/more severe droughts may exceed adaptive capacity. Climate-adaptive traits, forest resilience to climate change, species vulnerability assessment atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a display board in the center-left showing drought adaptations in four species: conifer (needle leaves, deep roots), desert bird (gets water from seeds), fungus (mycelium dormancy), wildflower (short lifecycle timed with rains). A diagram of climate change impacts. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the conifer, the other at the fungus, seen from a distance. The drought adaptation research environment dominates."
 tags:
+  - bosques
+  - adaptación
+  - sequía
+  - estrés hídrico
+  - especies forestales
+  - resiliencia
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -49,12 +63,6 @@ accessibility:
   - -Visual
 activity_type:
   - Investigación
-etiquetas:
-  - adaptación
-  - sequía
-  - estrés hídrico
-  - especies forestales
-  - resiliencia
 category:
   - Ecología
   - Adaptación
@@ -75,16 +83,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

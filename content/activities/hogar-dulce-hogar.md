@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/hogar-dulce-hogar/"
 description: "Investiga las adaptaciones de las especies acuáticas."
 summary: "Investiga las adaptaciones de las especies acuáticas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hogar-dulce-hogar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 materials:
@@ -26,17 +27,32 @@ competencies:
   - Conciencia ambiental
   - Creatividad
 responsible:
-ods:
-  - 6
-  - 14
 sdgs:
   - 6
   - 14
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X269"
-image_prompt: "Older scouts ages 14-17 researching freshwater vs saltwater species adaptations - freshwater fish (osmoregulation), salmon (anadromous), eels (catadromous), marine fish (salt excretion). Comparing deep sea creatures (bioluminescence) and extremophiles. Creating labeled poster. Evolutionary biology, aquatic adaptation, comparative anatomy atmosphere."
+  - agua
+activity_code: "agua-X22"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 14
+rama_caminantes:
+  - 3
+  - 6
+  - 14
+rama_rovers:
+  - 6
+  - 14
+image_prompt: "An Argentine scout room, with a large poster in the center-left comparing freshwater and saltwater adaptations. Left side: freshwater fish (osmoregulation diagram), right side: salmon (anadromous), eel (catadromous), marine fish (salt excretion). Drawings of deep sea creatures (bioluminescence). The left side has space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at the salmon, the other at the bioluminescent fish, seen from a distance. The aquatic adaptations poster environment dominates."
 tags:
+  - agua
+  - adaptaciones
+  - agua dulce
+  - agua salada
+  - especies
+  - póster
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -47,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - adaptaciones
-  - agua dulce
-  - agua salada
-  - especies
-  - póster
 category:
   - Biología
   - Ecología
@@ -76,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

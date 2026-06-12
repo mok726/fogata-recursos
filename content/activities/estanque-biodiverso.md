@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/estanque-biodiverso/"
 description: "Creación de hábitat acuático."
 summary: "Creación de hábitat acuático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/estanque-biodiverso.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +30,32 @@ competencies:
   - Ecología aplicada
 responsible:
   - educador Scout
-ods:
-  - 6
-  - 14
 sdgs:
   - 6
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B09"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine backyard or schoolyard. Digging pond basin, lining with impermeable liner. Adding native aquatic plants (cattails, lilies, rushes). Adding fish that eat mosquito larvae (Gambusia). Filling with water. Documenting species that colonize over time - frogs, insects, birds. Pond building, ecosystem creation, long-term monitoring atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 14
+rama_caminantes:
+  - 3
+  - 6
+  - 14
+rama_rovers:
+  - 6
+  - 14
+image_prompt: "An Argentine backyard or schoolyard, with a newly dug pond lined with an impermeable liner in the center-left. Aquatic plants (cattails, lilies) planted, and water filling it. A sign 'Estanque Biodiverso'. The left side has open space for text. On the far right side, three tiny older scouts (14-21) stand, one holding a plant, another pouring water from a bucket, seen from a distance. The pond creation environment dominates."
 tags:
+  - biodiversidad
+  - estanque
+  - biodiverso
+  - nativo
+  - plantas acuáticas
+  - hábitat
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "6-15"
@@ -51,12 +66,6 @@ accessibility:
 activity_type:
   - Construcción
   - Restauración
-etiquetas:
-  - estanque
-  - biodiverso
-  - nativo
-  - plantas acuáticas
-  - hábitat
 category:
   - Ecología de humedales
   - Restauración
@@ -85,16 +94,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,15 +120,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

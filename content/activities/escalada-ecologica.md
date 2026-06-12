@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/escalada-ecologica/"
 description: "Estudio de biodiversidad por altitud."
 summary: "Estudio de biodiversidad por altitud."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/escalada-ecologica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -26,17 +26,31 @@ competencies:
   - Análisis ambiental
 responsible:
   - guía de montaña
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C26"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs hiking Argentine mountain (Andes foothills). Observing plant and animal life at different altitudes. Measuring temperature, humidity, wind. Noting species changes - lowland forest to highland shrubs to alpine tundra. Discussing why biodiversity changes with altitude (temperature, oxygen, growing season). Mountain ecology, altitudinal zonation, physical challenge, team expedition atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine mountain (Andes foothills) with distinct vegetation zones visible in the center-left: lowland forest, then shrubs, then alpine tundra at the top. A trail winding up. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) hike up the trail, one using a thermometer, another pointing at a plant change, seen from a distance. The altitude ecology hike environment dominates."
 tags:
+  - biodiversidad
+  - montaña
+  - altitud
+  - temperatura
+  - ecosistema
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "6-15"
@@ -48,12 +62,6 @@ activity_type:
   - Investigación
   - Exploración
   - Ecología
-etiquetas:
-  - montaña
-  - altitud
-  - biodiversidad
-  - temperatura
-  - ecosistema
 category:
   - Ecología de montaña
   - Geografía
@@ -74,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 5
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +108,6 @@ active_component: 5
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,35 +5,46 @@ layout: "layouts/activity.njk"
 permalink: "/activities/entendiendo-los-pesticidas/"
 description: "Investiga cómo los pesticidas afectan a los polinizadores."
 summary: "Investiga cómo los pesticidas afectan a los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/entendiendo-los-pesticidas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 15
-  - 2
-  - 17
 sdgs:
   - 15
   - 2
   - 17
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X99"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching pesticides harmful to bees (neonicotinoids). Creating simple guide to alternatives - neem oil, ladybugs, companion planting. Planning to share with local gardeners. Scientific and advocacy atmosphere."
+activity_code: "polinizadores-X26"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table in the center-left. On the table, a simple printed guide showing harmful pesticides (neonicotinoids) crossed out, and alternatives (neem oil, ladybugs) with checkmarks. A laptop with research page. The left side has space for text. On the far right side, tiny young scouts (5-10) sit at the table, one holding the guide, another typing on the laptop, seen from a distance. The scientific advocacy environment dominates."
 tags:
+  - polinizadores
+  - pesticidas
+  - neonicotinoides
+  - alternativas
+  - orgánico
+  - conciencia
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "4-15"
@@ -45,12 +56,6 @@ activity_type:
   - Investigación
   - Servicio
   - Sensibilización
-etiquetas:
-  - pesticidas
-  - neonicotinoides
-  - alternativas
-  - orgánico
-  - conciencia
 category:
   - Agricultura
   - Química
@@ -74,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

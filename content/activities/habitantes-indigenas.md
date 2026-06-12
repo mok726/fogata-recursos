@@ -1,22 +1,21 @@
 ---
 title: "HABITANTES INDÍGENAS"
-duration: "3-4 horas (preparación + presentación)"
+duration: "3-4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/habitantes-indigenas/"
 description: "Investiga leyendas indígenas sobre bosques y presenta una obra de teatro."
 summary: "Investiga leyendas indígenas sobre bosques y presenta una obra de teatro."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/habitantes-indigenas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,22 +29,37 @@ competencies:
   - Empatía histórica
 responsible:
   - Scouter o líder cultural
-ods:
-  - 11
-  - 16
 sdgs:
   - 11
   - 16
 activity_badges:
   - bosques
 activity_code: "bosques-C01"
-image_prompt: "Older scouts ages 11-21 researching indigenous forest legends from Argentina - Mapuche (Ngen spirits of nature), Guaraní (forest guardians), Yámana (Selk'nam) stories. Preparing short play. Optional extension - inviting indigenous speaker to talk about changing relationship with forests. Cultural respect, traditional ecological knowledge, artistic expression, intergenerational learning atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 16
+rama_caminantes:
+  - 3
+  - 11
+  - 16
+rama_rovers:
+  - 11
+  - 16
+image_prompt: "An Argentine scout room or outdoor stage, with a simple backdrop depicting a forest and a traditional dwelling. A group of scouts in simple costumes acting out a Mapuche or Guaraní legend about forest spirits. A small audience. The left side has negative space for text. On the far right side, the actors perform, one wearing a feathered headdress (representing a spirit), another holding a wooden staff, seen from a distance. The indigenous legend theater environment dominates."
 required: true
 required_for:
   - bosques-C
-required_comment: "Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA"
+required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES Y LA CULTURA"
 required_category: "LOS BOSQUES Y LA CULTURA"
 tags:
+  - LOS BOSQUES Y LA CULTURA
+  - bosques
+  - leyendas indígenas
+  - poblaciones originarias
+  - obra de teatro
+  - cultura
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "6-20"
@@ -57,12 +71,6 @@ accessibility:
 activity_type:
   - Arte
   - Teatro
-etiquetas:
-  - leyendas indígenas
-  - bosques
-  - poblaciones originarias
-  - obra de teatro
-  - cultura
 category:
   - Cultura
   - Teatro
@@ -83,16 +91,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +117,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

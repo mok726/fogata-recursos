@@ -8,16 +8,17 @@ description: |
 summary: |
   Crea un filtro de agua casero y examina muestras de agua.
   Actividad obligatoria para la categoría El agua en peligro.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/filtro-de-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -34,20 +35,34 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua-obligatoria
-activity_code: "del-agua-obligatoria-X282"
-image_prompt: "Older scouts ages 11-15 collecting water sample from stream. Examining under microscope - see microorganisms, algae, maybe pollutants. Building water filter with plastic bottle, layers of gravel, sand, charcoal. Pouring dirty water through. Comparing before/after. Testing different sources - river, puddle, tap. NOT drinking. Water quality awareness, DIY filtration, hands-on environmental science atmosphere."
-similar_activities: "http -//library.thinkquest.org/04apr/00222/spanish/filter1.htm"
+  - agua
+activity_code: "agua-X35"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine outdoor area or scout room, with a DIY water filter in the center-left: a plastic bottle cut in half, layers of gravel, sand, charcoal, and cotton. Dirty water being poured, clean water dripping into a cup. A microscope or magnifying glass for before/after comparison. The left side has open space for text. On the far right side, two tiny older scouts (11-15) kneel, one pouring dirty water, the other holding the cup of filtered water, seen from a distance. The water filter experiment environment dominates."
+similar_activities:
+  - http://library.thinkquest.org/04apr/00222/spanish/filter1.htm
 required: true
 required_for:
-  - del-agua-obligatoria-X
+  - agua-X
 required_comment: "Actividad obligatoria"
 tags:
+  - agua
+  - filtro de agua
+  - purificación
+  - muestra
+  - contaminantes
+  - experimento
   - Insignia del Agua (Obligatoria)
 location: "Exterior / Interior"
 participants: "4-10"
@@ -58,12 +73,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - filtro de agua
-  - purificación
-  - muestra
-  - contaminantes
-  - experimento
 category:
   - Química
   - Agua
@@ -93,16 +102,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://library.thinkquest.org/04apr/00222/spanish/filter1.htm"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://library.thinkquest.org/04apr/00222/spanish/filter1.htm"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -129,15 +136,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

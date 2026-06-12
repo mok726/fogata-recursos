@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/fiesta-de-mascaras-marinas/"
 description: "Actividad lúdica de aprendizaje."
 summary: "Actividad lúdica de aprendizaje."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/fiesta-de-mascaras-marinas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,15 +30,27 @@ competencies:
   - Comunicación
 responsible:
   - educador Scout
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B24"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Marine costume party - each child dresses as marine animal (jellyfish, dolphin, octopus, sea star). Presenting 3 facts about their species. Playing marine-themed games (crab walk race, whale breathing game). Learning marine biodiversity through play, creative costumes, joyful ocean education atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine scout room, with a table in the center-left covered with masks, costumes, and craft materials. Finished masks: jellyfish (transparent plastic), dolphin (blue cardboard), octopus (paper tentacles). The left side has negative space for text. On the far right side, a group of tiny young scouts (5-10) wear masks and costumes, one pretending to swim, another waving tentacles, seen from a distance. The marine costume party environment dominates."
 tags:
+  - biodiversidad
+  - máscaras
+  - animales marinos
+  - fiesta
+  - disfraces
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-25"
@@ -50,12 +62,6 @@ activity_type:
   - Juego
   - Arte
   - Disfraces
-etiquetas:
-  - máscaras
-  - animales marinos
-  - fiesta
-  - disfraces
-  - biodiversidad
 category:
   - Océano
   - Arte
@@ -81,16 +87,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +113,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

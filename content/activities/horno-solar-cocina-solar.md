@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/horno-solar-cocina-solar/"
 description: "Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol."
 summary: "Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/horno-solar-cocina-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,18 +26,34 @@ competencies:
   - Creatividad
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X128"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Building solar oven using cardboard box, aluminum foil, black paper, plastic cover. Assembling reflector panels. Placing pot with food inside. Positioning toward sun. Cooking simple food (rice, vegetables) or melting chocolate. Engineering, patience, sustainable cooking atmosphere."
-similar_activities: "https -//www.lanacion.com.ar/como-hacer-un-horno-solar-casero-nid2064372\nhttps -//www.solarcooking.org/plans/"
+  - gosolar
+activity_code: "gosolar-X10"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+  - 9
+image_prompt: "A sunny Argentine outdoor area. In the center-left, a solar oven made from a cardboard box lined with aluminum foil, with a black pot inside and a glass/plastic cover. The oven is angled toward the sun. A small tray of food (rice, vegetables) next to it. The left side has negative space for text. On the far right side, three tiny older scouts (10-21) kneel near the oven, one adjusting the angle, another holding a thermometer, seen from a distance. The solar cooking environment dominates."
+similar_activities:
+  - https://www.lanacion.com.ar/como-hacer-un-horno-solar-casero-nid2064372
+  - https://www.solarcooking.org/plans/
 tags:
+  - gosolar
+  - horno solar
+  - cocina solar
+  - construcción
+  - energía renovable
+  - cocinar
   - Go Solar
 location: "Exterior"
 participants: "4-12"
@@ -49,12 +64,6 @@ accessibility:
 activity_type:
   - Construcción
   - Aprender haciendo
-etiquetas:
-  - horno solar
-  - cocina solar
-  - construcción
-  - energía renovable
-  - cocinar
 category:
   - Tecnología
   - Energía
@@ -82,16 +91,14 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.lanacion.com.ar/como-hacer-un-horno-solar-casero-nid2064372"
+    caption: "Similares en la Web"
+    icon: "read_more"
+  - filepath: "https://www.solarcooking.org/plans/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +125,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

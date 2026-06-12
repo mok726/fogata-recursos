@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/historiadores-del-clima/"
 description: "Los participantes investigan la historia del clima de la Tierra."
 summary: "Los participantes investigan la historia del clima de la Tierra."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/historiadores-del-clima.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -31,15 +30,28 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X217"
-image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching Earth's climate history - ice ages, warm periods, mass extinctions related to climate. Creating illustrated timeline or drawings of past climate events. Displaying in school. Deep time perspective, paleoclimatology, creative presentation atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X04"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a long illustrated timeline on the wall in the center-left showing ice ages, warm periods, and mass extinctions. Drawings of woolly mammoths, dinosaurs, and early humans. A table with research books. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the timeline, the other holding a drawn illustration, seen from a distance. The paleoclimate research environment dominates."
 tags:
+  - cambioclimatico
+  - historia del clima
+  - edades de hielo
+  - investigación
+  - dibujos
+  - paleoclima
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - historia del clima
-  - edades de hielo
-  - investigación
-  - dibujos
-  - paleoclima
 category:
   - Clima
   - Historia
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

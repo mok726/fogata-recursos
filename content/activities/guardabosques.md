@@ -1,37 +1,49 @@
 ---
 title: "GUARDABOSQUES"
-duration: "2-3 horas (incluyendo entrevista y presentación)"
+duration: "2-3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/guardabosques/"
 description: "Entrevista a un guardabosques sobre su trabajo en áreas protegidas."
 summary: "Entrevista a un guardabosques sobre su trabajo en áreas protegidas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/guardabosques.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
 responsible:
   - Scouter o guardabosques invitado
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-B06"
-image_prompt: "Older scouts ages 11-21 interviewing park ranger (guardaparques) from Argentina's national parks - Iguazú, Nahuel Huapi, Los Glaciares, Tierra del Fuego. Asking about daily duties, seasonal changes, fire prevention, visitor management, wildlife monitoring, community relations. Conservation career insight, public service appreciation, oral history documentation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine national park or ranger station, with a park ranger (civilian, uniform) standing next to an information board in the center-left. A backpack and binoculars on a bench. A notebook and recorder. The left side has open space for text. On the far right side, a group of tiny older scouts (11-21) stand, one asking a question, another taking notes, seen from a distance. The park ranger interview environment dominates."
 tags:
+  - bosques
+  - guardabosques
+  - áreas protegidas
+  - parque nacional
+  - conservación
+  - entrevista
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-10"
@@ -42,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - guardabosques
-  - áreas protegidas
-  - parque nacional
-  - conservación
-  - entrevista
 category:
   - Conservación
   - Trabajo
@@ -68,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +100,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/guion-radiofonico/"
 description: "Comunicación masiva."
 summary: "Comunicación masiva."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/guion-radiofonico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,27 @@ competencies:
   - Storytelling
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D20"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) writing radio script about local biodiversity issue (wetland protection, endangered species, forest conservation). Partnering with local radio station to record and broadcast. Voicing characters themselves. Mass communication, scriptwriting, audio production, community outreach atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a microphone on a stand in the center-left, connected to a laptop. A notebook with a script for a radio show about local biodiversity. Headphones on the table. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand, one speaking into the microphone, the other holding the script, seen from a distance. The radio script recording environment dominates."
 tags:
+  - biodiversidad
+  - guión radiofónico
+  - comunidad
+  - radio
+  - difusión
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Escritura
   - Comunicación
-etiquetas:
-  - guión radiofónico
-  - biodiversidad
-  - comunidad
-  - radio
-  - difusión
 category:
   - Comunicación
   - Medios
@@ -77,16 +83,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

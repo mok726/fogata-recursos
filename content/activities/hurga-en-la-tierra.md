@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/hurga-en-la-tierra/"
 description: "Experimenta con la erosión del suelo causada por el agua."
 summary: "Experimenta con la erosión del suelo causada por el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hurga-en-la-tierra.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -27,17 +28,31 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
-  - 15
 sdgs:
   - 6
   - 15
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X257"
-image_prompt: "Older scouts ages 11-15 experimenting with soil erosion. Pouring water from pitcher (river) and watering can (rain) over different soil types - sand, clay, loam. Observing which erodes fastest. Discussing consequences - loss of farmland, water pollution. Hands-on earth science, erosion awareness, conservation solutions atmosphere."
+  - agua
+activity_code: "agua-X10"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 15
+rama_caminantes:
+  - 3
+  - 6
+  - 15
+rama_rovers:
+  - 6
+  - 15
+image_prompt: "An Argentine outdoor area, with trays of different soil types (sand, clay, loam) in the center-left. A watering can and a pitcher. Water is being poured, creating erosion channels. A clipboard with observations. The left side has open space for text. On the far right side, two tiny older scouts (11-15) kneel, one pouring water, the other pointing at the erosion, seen from a distance. The soil erosion experiment environment dominates."
 tags:
+  - agua
+  - erosión
+  - suelo
+  - experimento
+  - conservación
   - Insignia del Agua
 location: "Exterior"
 participants: "4-10"
@@ -48,12 +63,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - erosión
-  - suelo
-  - agua
-  - experimento
-  - conservación
 category:
   - Suelos
   - Agua
@@ -81,16 +90,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +116,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

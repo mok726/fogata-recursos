@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-acuatica/"
 description: "Investiga tu cuenca hidrográfica local."
 summary: "Investiga tu cuenca hidrográfica local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-acuatica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 materials:
@@ -26,17 +27,31 @@ competencies:
   - Conciencia ambiental
   - Comunicación
 responsible:
-ods:
-  - 6
-  - 15
 sdgs:
   - 6
   - 15
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X267"
-image_prompt: "Older scouts ages 14-17 researching local watershed (Cuenca del Plata, etc.). Taking photos or drawing maps showing rivers, streams, wetlands. Including natural and human inputs (farms, industry). Creating exhibition with detailed illustrations of plant-animal-water interactions. Inviting family and teachers. Watershed literacy, ecological awareness, public education atmosphere."
+  - agua
+activity_code: "agua-X20"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 15
+rama_caminantes:
+  - 3
+  - 6
+  - 15
+rama_rovers:
+  - 6
+  - 15
+image_prompt: "An Argentine scout room or community hall, with an exhibition on the wall in the center-left: a large map of the local watershed (Cuenca del Plata) with photos of rivers, farms, and industrial areas. Drawings of plants and animals interacting with water. A sign 'Cuenca Hidrográfica Local'. The left side has space for text. On the far right side, three tiny older scouts (14-17) stand, one pointing at the map, another explaining to civilian visitors, seen from a distance. The watershed exhibition environment dominates."
 tags:
+  - agua
+  - cuenca hidrográfica
+  - local
+  - investigación
+  - exhibición
   - Insignia del Agua
 location: "Exterior / Interior"
 participants: "4-15"
@@ -47,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Exposición
-etiquetas:
-  - cuenca hidrográfica
-  - local
-  - investigación
-  - exhibición
-  - agua
 category:
   - Hidrología
   - Ecología
@@ -78,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +113,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

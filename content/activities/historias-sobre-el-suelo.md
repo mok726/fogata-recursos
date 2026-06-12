@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/historias-sobre-el-suelo/"
 description: "Escribe una autobiografía desde la perspectiva de una criatura que vive en el suelo."
 summary: "Escribe una autobiografía desde la perspectiva de una criatura que vive en el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/historias-sobre-el-suelo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -27,15 +27,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X39"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs sitting at tables in Argentine scout room. Writing or drawing stories from perspective of earthworm, beetle, or ant. One child showing drawing of worm underground. Colorful pencils, paper, focused expressions. Bright room. Creative, imaginative atmosphere."
+activity_code: "suelos-X18"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with tables covered with paper and colorful pencils. In the center-left, drawings of earthworms, beetles, and ants underground. The left side has negative space for text. On the far right side, tiny young scouts (5-15) sit at the tables, one child showing a drawing of a worm, others focused on their stories, seen from a distance. The creative writing and drawing environment dominates."
 tags:
+  - suelos
+  - autobiografía
+  - criatura del suelo
+  - historia
+  - creatividad
+  - ecosistema
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -47,12 +60,6 @@ activity_type:
   - Creatividad
   - Arte
   - Reflexión
-etiquetas:
-  - autobiografía
-  - criatura del suelo
-  - historia
-  - creatividad
-  - ecosistema
 category:
   - Literatura
   - Arte
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

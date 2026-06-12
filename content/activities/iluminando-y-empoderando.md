@@ -1,21 +1,21 @@
 ---
 title: "Iluminando y Empoderando"
-duration: "360"
+duration: "6 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/iluminando-y-empoderando/"
 description: "Organiza un 'Día de Conciencia Energética' en tu comunidad."
 summary: "Organiza un 'Día de Conciencia Energética' en tu comunidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/iluminando-y-empoderando.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +30,28 @@ competencies:
   - Educación pública
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - energia
-activity_code: "energia-X190"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or plaza. Organizing Energy Awareness Day. Stations - solar oven demonstration, LED vs incandescent comparison, energy-saving games, expert talks. Inviting local energy experts. Engaging community families. Large-scale event organization, public education, leadership atmosphere."
+activity_code: "energia-X59"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine park or plaza on a sunny day. In the center-left, several stations: a solar oven demonstration, an LED vs incandescent comparison, energy-saving games, and a tent with experts. Families walking around. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) guide visitors, one explaining the solar oven, another pointing at a game, seen from a distance. The energy awareness day environment dominates."
 tags:
+  - energia
+  - día de conciencia
+  - energía
+  - stands
+  - juegos
+  - comunidad
   - Insignia de Energía
 location: "Exterior"
 participants: "20-100"
@@ -50,12 +63,6 @@ activity_type:
   - Organización
   - Educación
   - Evento
-etiquetas:
-  - día de conciencia
-  - energía
-  - stands
-  - juegos
-  - comunidad
 category:
   - Educación
   - Energía
@@ -79,16 +86,6 @@ scout_method:
   - Servicio comunitario
 ludic_component: 4
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

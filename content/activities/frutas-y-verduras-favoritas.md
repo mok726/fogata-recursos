@@ -5,35 +5,48 @@ layout: "layouts/activity.njk"
 permalink: "/activities/frutas-y-verduras-favoritas/"
 description: "Investiga si tus cinco frutas y verduras favoritas dependen de los polinizadores para crecer. Prepara una historia fotográfica sobre tus frutas y verduras favoritas y su relación con los polinizadores."
 summary: "Investiga si tus cinco frutas y verduras favoritas dependen de los polinizadores para crecer. Prepara una historia fotográfica sobre tus frutas y verduras favoritas y su relación con los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/frutas-y-verduras-favoritas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
+  - 2
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X83"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Working on photo story about favorite fruits (apple, strawberry, tomato) and if they need pollinators. One scout gluing pictures of bees next to apple. Another researching on tablet. Creating colorful display. Food awareness, connection to nature atmosphere."
+activity_code: "polinizadores-X10"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table in the center-left. On the table, a colorful display with photos of favorite fruits (apple, strawberry) and vegetables (tomato), each with a small drawing of a bee next to it. A tablet with research on pollination. The left side has space for text. On the far right side, tiny young scouts (5-10) sit at the table, one gluing photos, another reading from the tablet, seen from a distance. The food and pollinator connection environment dominates."
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - frutas
+  - verduras
+  - alimentos
+  - fotografía
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "4-15"
@@ -44,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - frutas
-  - verduras
-  - polinizadores
-  - alimentos
-  - fotografía
 category:
   - Alimentación
   - Agricultura
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

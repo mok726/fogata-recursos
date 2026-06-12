@@ -1,21 +1,21 @@
 ---
 title: "Energía y Gravedad"
-duration: "30"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-gravedad/"
 description: "Experimento sobre energía potencial y cinética con rampas."
 summary: "Experimento sobre energía potencial y cinética con rampas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-y-gravedad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -29,15 +29,28 @@ competencies:
   - Aprendizaje práctico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - energia
-activity_code: "energia-X162"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large room. Building ramp with cardboard or board. Rolling ball or toy car from different heights. Observing how higher start (more potential energy) converts to faster speed (more kinetic). Real-world physics, hands-on learning atmosphere."
+activity_code: "energia-X31"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine outdoor space or large room, with a ramp (cardboard or board) in the center-left, angled upward. A toy car or ball at the top. A measuring tape on the ground to measure how far it rolls. The left side has open space for text. On the far right side, two tiny scouts (7-13) kneel, one releasing the car at the top, the other measuring the distance, seen from a distance. The potential to kinetic energy environment dominates."
 tags:
+  - energia
+  - energía potencial
+  - energía cinética
+  - gravedad
+  - rampa
+  - movimiento
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "4-10"
@@ -48,12 +61,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Física
-etiquetas:
-  - energía potencial
-  - energía cinética
-  - gravedad
-  - rampa
-  - movimiento
 category:
   - Física
   - Ciencia
@@ -76,16 +83,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +109,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-precio-del-agua/"
 description: "Actividad para debatir si el agua debería ser gratuita o tener un costo."
 summary: "Actividad para debatir si el agua debería ser gratuita o tener un costo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-precio-del-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,15 +29,28 @@ competencies:
   - Pensamiento crítico
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X298"
-image_prompt: "Older scouts ages 14-21 debating - Should water be free or priced? Teams take different positions - free as human right vs pricing encourages conservation and funds infrastructure. Researching examples of each (Ireland free water, Chile privatized). Economics vs human rights, water pricing, policy debate atmosphere."
+  - agua
+activity_code: "agua-X51"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left divided into two columns: 'Agua gratuita' (free as human right) and 'Agua con precio' (pricing encourages conservation). Statistics from Ireland (free) and Chile (privatized). A table with data. The left side has space for text. On the far right side, two teams of tiny older scouts (14-21) sit facing each other, one team arguing for free, the other for pricing, seen from a distance. The water pricing debate environment dominates."
 tags:
+  - agua
+  - precio del agua
+  - gratuita
+  - costo
+  - debate
+  - economía
   - Parche del Agua
 location: "Interior"
 participants: "8-20"
@@ -48,12 +61,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Debate
-etiquetas:
-  - precio del agua
-  - gratuita
-  - costo
-  - debate
-  - economía
 category:
   - Economía
   - Agua
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

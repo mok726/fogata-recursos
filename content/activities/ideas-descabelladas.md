@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/ideas-descabelladas/"
 description: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
 summary: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ideas-descabelladas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +30,28 @@ competencies:
   - Resolución de problemas
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X290"
-image_prompt: "Older scouts ages 14-21 brainstorming wild ideas for providing clean water - fog harvesting nets, solar-powered atmospheric water generators, portable desalination devices, pedal-powered water pumps, waterproof drone delivery. Choosing best idea, making simple prototype. Creative problem-solving, innovation mindset, water access solutions atmosphere."
+  - agua
+activity_code: "agua-X43"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a table in the center-left covered with sketches and simple prototypes of creative water solutions: fog harvesting nets, a solar-powered atmospheric water generator, a pedal-powered pump, a waterproof drone for water delivery. Cardboard and recycled materials. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one holding a prototype, the other pointing at a sketch, seen from a distance. The water innovation brainstorming environment dominates."
 tags:
+  - agua
+  - innovación
+  - agua limpia
+  - ideas
+  - prototipo
+  - solución
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Creatividad
   - Diseño
-etiquetas:
-  - innovación
-  - agua limpia
-  - ideas
-  - prototipo
-  - solución
 category:
   - Innovación
   - Agua
@@ -80,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

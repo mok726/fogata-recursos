@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/estudios-salados/"
 description: "Experimenta con la desalinización del agua."
 summary: "Experimenta con la desalinización del agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/estudios-salados.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -25,15 +26,27 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X262"
-image_prompt: "Older scouts ages 11-15 dissolving salt in water, leaving in warm place for days. Water evaporates, salt crystals remain. Learning about desalination process to obtain fresh water from salt water. Discussing real-world applications in water-scarce regions. Chemistry, evaporation, water scarcity solutions atmosphere."
+  - agua
+activity_code: "agua-X15"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room or sunny windowsill, with a glass of salt water in the center-left. After several days, salt crystals have formed on the sides as water evaporated. A notebook with notes on desalination. The left side has space for text. On the far right side, a tiny older scout (11-15) sits, pointing at the salt crystals, another reads a book about desalination, seen from a distance. The salt water evaporation environment dominates."
 tags:
+  - agua
+  - desalinización
+  - sal
+  - evaporación
+  - agua dulce
   - Insignia del Agua
 location: "Interior"
 participants: "4-10"
@@ -44,12 +57,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - desalinización
-  - sal
-  - agua
-  - evaporación
-  - agua dulce
 category:
   - Química
   - Agua
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

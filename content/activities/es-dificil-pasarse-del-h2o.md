@@ -8,16 +8,17 @@ description: |
 summary: |
   Experimenta un día sin usar agua.
   Actividad obligatoria para la categoría Usando el agua.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/es-dificil-pasarse-del-h2o.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -25,19 +26,31 @@ competencies:
   - Responsabilidad
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua-obligatoria
-activity_code: "del-agua-obligatoria-X271"
-image_prompt: "Older scouts ages 11-15 experiencing one day without using water except drinking (for health). Can't wash hands, shower, flush toilet, brush teeth, do dishes, water plants, cook with water. Journaling difficulties. Empathizing with millions facing water scarcity daily. Making commitment to reduce water use. Empathy building, water value awareness, behavior change atmosphere."
+  - agua
+activity_code: "agua-X24"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine home, with a kitchen sink and bathroom visible in the center-left. A sign on the wall 'Día sin agua - excepto beber'. A notebook with a list of difficulties (no lavarse las manos, no tirar la cadena). The left side has open space for text. On the far right side, a tiny older scout (11-15) sits at a table, drinking from a glass, looking at the sink but not using it, seen from a distance. The water scarcity simulation environment dominates."
 required: true
 required_for:
-  - del-agua-obligatoria-X
+  - agua-X
 required_comment: "Actividad obligatoria"
 tags:
+  - agua
+  - día sin agua
+  - escasez
+  - empatía
+  - conciencia
   - Insignia del Agua (Obligatoria)
 location: "Interior (hogar)"
 participants: "2-8"
@@ -48,12 +61,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Desafío
-etiquetas:
-  - agua
-  - día sin agua
-  - escasez
-  - empatía
-  - conciencia
 category:
   - Agua
   - Conciencia
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Exploración Energética"
-duration: "240"
+duration: "4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-energetica/"
 description: "Visita una planta de generación de energía y escribe un artículo periodístico."
 summary: "Visita una planta de generación de energía y escribe un artículo periodístico."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-energetica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -26,22 +26,41 @@ competencies:
   - Comunicación escrita
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 9
-  - 13
 sdgs:
   - 9
   - 13
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X148"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine power plant (solar farm, wind park, hydroelectric dam). Touring facility, interviewing engineers. Taking photos, notes. Writing article about energy generation and environmental impacts. Real-world industry exposure, technical journalism atmosphere."
+activity_code: "energia-X17"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 9
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 9
+  - 13
+image_prompt: "An Argentine power plant (solar farm, wind park, or hydroelectric dam). In the center-left, a large wind turbine or solar panel array, with a small visitor path and an information sign. Hard hats on a bench. The left side has open space for text. On the far right side, a small group of tiny older scouts (14-21) walk with a civilian guide (engineer), one taking notes, another holding a camera, seen from a distance. The energy facility visit environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - FUENTES DE ENERGÍA E IMPACTOS"
+required_comment: "Actividad obligatoria para la categoría: FUENTES DE ENERGÍA E IMPACTOS"
 required_category: "FUENTES DE ENERGÍA E IMPACTOS"
 tags:
+  - FUENTES DE ENERGÍA E IMPACTOS
+  - energia
+  - central eléctrica
+  - visita
+  - artículo
+  - entrevista
+  - energía
   - Insignia de Energía
 location: "Exterior"
 participants: "5-20"
@@ -53,12 +72,6 @@ activity_type:
   - Investigación
   - Visita
   - Periodismo
-etiquetas:
-  - central eléctrica
-  - visita
-  - artículo
-  - entrevista
-  - energía
 category:
   - Energía
   - Industria
@@ -78,16 +91,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +117,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Formas de Energía"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/formas-de-energia/"
 description: "Teatro educativo sobre tipos de energía."
 summary: "Teatro educativo sobre tipos de energía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/formas-de-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,15 +24,28 @@ competencies:
   - Trabajo colaborativo
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - energia
-activity_code: "energia-X169"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Teams draw energy type card - thermal (shivering/hot), mechanical (pushing/pulling), sound (clapping/shouting), light (flashlight movements), electrical (buzzing). Acting out without words. Others guess. Fun, kinesthetic, memorable learning atmosphere."
+activity_code: "energia-X38"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine scout room, with an open space in the center-left. A stack of cards on the floor with energy type names (térmica, mecánica, sonora, etc.). The left side has negative space for text. On the far right side, a small group of tiny scouts (7-13) act out: one shivering (thermal), another pushing (mechanical), a third clapping (sound). Seen from a distance. The energy charades environment dominates."
 tags:
+  - energia
+  - energía
+  - formas
+  - térmica
+  - mecánica
+  - representación
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -44,12 +57,6 @@ activity_type:
   - Juego
   - Teatro
   - Kinestésico
-etiquetas:
-  - energía
-  - formas
-  - térmica
-  - mecánica
-  - representación
 category:
   - Física
   - Teatro
@@ -69,16 +76,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +102,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

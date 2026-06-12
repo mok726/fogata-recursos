@@ -1,21 +1,21 @@
 ---
 title: "Energía Renovable Comunitaria"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-renovable-comunitaria/"
 description: "Investiga la fuente de energía de tu escuela/hogar."
 summary: "Investiga la fuente de energía de tu escuela/hogar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-renovable-comunitaria.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +26,32 @@ competencies:
   - Pensamiento sistémico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 11
 sdgs:
   - 11
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X155"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching if school or home uses renewable energy (solar panels, green energy provider). Interviewing administrators or parents. Proposing improvements - solar water heater, energy efficiency. Civic engagement, practical problem-solving atmosphere."
+activity_code: "energia-X24"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 11
+rama_caminantes:
+  - 3
+  - 7
+  - 11
+rama_rovers:
+  - 7
+  - 11
+image_prompt: "An Argentine scout room, with a table in the center-left. On the table, a sample electricity bill, a laptop showing a green energy provider website, and a notebook with a list of proposed improvements (solar water heater, LED lights). The left side has negative space for text. On the far right side, two tiny older scouts (11-17) sit, one pointing at the bill, the other typing on the laptop, seen from a distance. The community energy research environment dominates."
 tags:
+  - energia
+  - energía renovable
+  - comunidad
+  - escuela
+  - sostenibilidad
+  - propuestas
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -45,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - energía renovable
-  - comunidad
-  - escuela
-  - sostenibilidad
-  - propuestas
 category:
   - Energía
   - Ciudadanía
@@ -73,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

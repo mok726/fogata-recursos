@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/especie-amenazada-local/"
 description: "Investigación sobre conservación."
 summary: "Investigación sobre conservación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/especie-amenazada-local.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -29,15 +29,28 @@ competencies:
   - Storytelling
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D02"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs researching local threatened species (jaguar in Yungas, huemul deer in Patagonia, cardonal cactus). Learning about habitat, diet, predators, behavior, threats (deforestation, poaching, climate change). Writing story or creating play about ecosystem without that species. Conservation storytelling, empathy for endangered species, creative advocacy atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a display board in the center-left showing research on a local threatened species (jaguar, huemul deer, cardonal cactus). Photos, maps, and a short story written next to it. The left side has space for text. On the far right side, two tiny older scouts (11-17) stand, one pointing at a photo of the jaguar, the other reading the story, seen from a distance. The endangered species research environment dominates."
 tags:
+  - biodiversidad
+  - especie amenazada
+  - extinción
+  - conservación
+  - historia
+  - teatro
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -50,12 +63,6 @@ activity_type:
   - Investigación
   - Arte
   - Narrativa
-etiquetas:
-  - especie amenazada
-  - extinción
-  - conservación
-  - historia
-  - teatro
 category:
   - Conservación
   - Biología
@@ -81,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +114,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

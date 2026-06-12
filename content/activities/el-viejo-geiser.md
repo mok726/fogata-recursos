@@ -1,21 +1,21 @@
 ---
 title: "El Viejo Geiser"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-viejo-geiser/"
 description: "Investiga sobre energía geotérmica y sus manifestaciones naturales."
 summary: "Investiga sobre energía geotérmica y sus manifestaciones naturales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-viejo-geiser.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +30,28 @@ competencies:
   - Diseño gráfico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X151"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or visiting thermal springs (e.g., Copahue, Termas de Río Hondo). Researching geothermal energy. Creating photo collage of geysers, hot springs, geothermal plants. Discussing potential for local energy. Visual learning, renewable energy appreciation atmosphere."
+activity_code: "energia-X20"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room, with a table in the center-left displaying a collage of geothermal features: photos of geysers, hot springs (Copahue, Termas de Río Hondo), and a diagram of geothermal power plant. The left side has space for text. On the far right side, two tiny older scouts (11-17) sit at the table, one gluing a photo, the other writing a label, seen from a distance. The geothermal energy collage environment dominates."
 tags:
+  - energia
+  - geiser
+  - energía geotérmica
+  - aguas termales
+  - collage
+  - Argentina
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "4-15"
@@ -50,12 +63,6 @@ activity_type:
   - Investigación
   - Arte
   - Collage
-etiquetas:
-  - geiser
-  - energía geotérmica
-  - aguas termales
-  - collage
-  - Argentina
 category:
   - Geología
   - Energía
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Energía y Pobreza"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-pobreza/"
 description: "Lluvia de ideas sobre cómo la energía afecta la pobreza."
 summary: "Lluvia de ideas sobre cómo la energía afecta la pobreza."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-y-pobreza.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,15 +28,28 @@ competencies:
   - Resolución de problemas
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X183"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Brainstorming how lack of electricity perpetuates poverty - no lights for studying, no refrigeration for vaccines, no machines for businesses. How energy access could break cycle - solar lamps for schools, solar water pumps, mini-grids for villages. Innovative solutions, systems thinking atmosphere."
+activity_code: "energia-X52"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left. On the board, a mind map: 'Pobreza' connected to 'falta de electricidad' -> 'no estudio nocturno', 'no refrigeración medicinas', 'no bombas de agua'. Solutions column: 'linternas solares', 'minirredes'. The left side has negative space for text. On the far right side, three tiny older scouts (14-21) sit, one writing on the board, another speaking, seen from a distance. The energy-poverty brainstorming environment dominates."
 tags:
+  - energia
+  - pobreza
+  - energía
+  - acceso
+  - soluciones
+  - desarrollo
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Lluvia de ideas
-etiquetas:
-  - pobreza
-  - energía
-  - acceso
-  - soluciones
-  - desarrollo
 category:
   - Desarrollo
   - Energía
@@ -73,16 +80,6 @@ scout_method:
   - Sistema de patrullas
 ludic_component: 2
 reflective_component: 5
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ reflective_component: 5
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

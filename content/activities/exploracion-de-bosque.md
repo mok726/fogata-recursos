@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-bosque/"
 description: "Conexión sensorial con la naturaleza."
 summary: "Conexión sensorial con la naturaleza."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-de-bosque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -26,15 +26,28 @@ competencies:
   - Exploración
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C24"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine forest. Mindful walk - looking up at canopy, down at leaf litter, under fallen logs. Closing eyes to listen (birds, wind). Smelling earth, pine. Touching bark textures, moss, soil. Drawing or writing sensory observations. Forest bathing (Shinrin-yoku), nature connection, mindfulness, sensory awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine forest, with a trail in the center-left. A fallen log with moss and fungi, a patch of leaf litter, and a tree with rough bark. A magnifying glass on a stump. The left side has open space for text. On the far right side, two tiny scouts (5-10) walk slowly, one closing eyes to listen, another touching bark, seen from a distance. The forest sensory exploration environment dominates."
 tags:
+  - biodiversidad
+  - bosque
+  - sentidos
+  - naturaleza
+  - exploración
+  - mindfulness
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Exploración
   - Mindfulness
-etiquetas:
-  - bosque
-  - sentidos
-  - naturaleza
-  - exploración
-  - mindfulness
 category:
   - Naturaleza
   - Educación
@@ -71,16 +78,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +104,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

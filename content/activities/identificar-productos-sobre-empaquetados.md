@@ -3,22 +3,19 @@ title: "Identificar productos sobre-empaquetados"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/identificar-productos-sobre-empaquetados/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Busca en tu cocina productos con envolturas innecesarias.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Busca en tu cocina productos con envolturas innecesarias.
+description: "Busca en tu cocina productos con envolturas innecesarias."
+summary: "Busca en tu cocina productos con envolturas innecesarias."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/identificar-productos-sobre-empaquetados.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,15 +23,29 @@ competencies:
   - Análisis y toma de decisiones
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X385"
-image_prompt: "Older scouts ages 11-15 inspecting kitchen for over-packaged products - individually wrapped snacks, plastic-wrapped vegetables, excessive cardboard. Finding alternatives with less packaging (bulk bins, loose produce). Reducing packaging waste, consumer awareness, alternative shopping habits atmosphere."
+  - sacc
+activity_code: "sacc-X79"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine kitchen pantry, with shelves in the center-left showing over-packaged items: individually wrapped cheese slices, plastic-wrapped cucumbers, a box of tea bags inside a plastic box. Next to them, bulk alternatives: loose cheese in a reusable container, unpackaged vegetables, loose tea in a jar. The left side has open space for text. On the far right side, a tiny older scout (11-15) stands, comparing the two, another scout holds a reusable bag, seen from a distance. The over-packaging awareness environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - sobre-empaquetado
+  - envolturas
+  - plástico
+  - residuos
+  - alternativas
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-10"
@@ -45,12 +56,6 @@ accessibility:
 activity_type:
   - Investigación
   - Análisis
-etiquetas:
-  - sobre-empaquetado
-  - envolturas
-  - plástico
-  - residuos
-  - alternativas
 category:
   - Residuos
   - Consumo
@@ -69,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,21 +101,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Identificar productos sobre-empaquetados
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Busca en tu cocina productos con envolturas innecesarias.
 
 ## Desarrollo

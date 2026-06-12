@@ -1,21 +1,21 @@
 ---
 title: "Fondos para tu Favorito"
-duration: "480"
+duration: "8 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fondos-para-tu-favorito/"
 description: "Recauda dinero para un proyecto global de acceso a energía."
 summary: "Recauda dinero para un proyecto global de acceso a energía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/fondos-para-tu-favorito.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,32 @@ competencies:
   - Solidaridad global
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 1
 sdgs:
   - 1
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X189"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community. Organizing bake sale or recycled crafts bazaar. Researching global energy access projects (Practical Action, SolarAid, Liter of Light). Donating proceeds. Selecting project based on impact. Fundraising, entrepreneurship, global solidarity atmosphere."
+activity_code: "energia-X58"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 1
+  - 7
+rama_caminantes:
+  - 3
+  - 1
+  - 7
+rama_rovers:
+  - 1
+  - 7
+image_prompt: "An Argentine scout room or outdoor bazaar. In the center-left, a table with homemade baked goods and recycled crafts for sale, a donation box, and a sign 'Recaudación para proyectos de energía global'. The left side has space for text. On the far right side, two tiny older scouts (11-17) stand behind the table, one holding a cake, the other taking money from a civilian customer, seen from a distance. The fundraising environment dominates."
 tags:
+  - energia
+  - recaudación
+  - fondos
+  - energía global
+  - venta
+  - donación
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "10-30"
@@ -47,12 +64,6 @@ activity_type:
   - Recaudación
   - Emprendimiento
   - Solidaridad
-etiquetas:
-  - recaudación
-  - fondos
-  - energía global
-  - venta
-  - donación
 category:
   - Emprendimiento
   - Economía
@@ -74,16 +85,6 @@ scout_method:
   - Servicio comunitario
 ludic_component: 3
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +111,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

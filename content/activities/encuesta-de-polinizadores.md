@@ -1,21 +1,21 @@
 ---
 title: "Encuesta de Polinizadores"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/encuesta-de-polinizadores/"
 description: "Realiza una encuesta de polinizadores en tu jardín, parque local o jardín escolar. Identifica y cuenta los polinizadores que ves, registra tus observaciones y toma fotos o dibuja los polinizadores que encuentres."
 summary: "Realiza una encuesta de polinizadores en tu jardín, parque local o jardín escolar. Identifica y cuenta los polinizadores que ves, registra tus observaciones y toma fotos o dibuja los polinizadores que encuentres."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/encuesta-de-polinizadores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -25,23 +25,33 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X74"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Walking slowly along measured line with clipboards. Counting bees, butterflies on flowers. One scout pointing at bee on sunflower. Another writing tally marks. Third taking photo with phone. Sunny day, blooming flowers. Scientific curiosity, teamwork atmosphere."
+activity_code: "polinizadores-X01"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine garden or park on a sunny day. In the center-left, a 50-meter line marked with a start and end point (small flags or stones). A clipboard with a tally sheet and a guide to pollinators lies on a bench. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) walk slowly along the line, one pointing at a bee on a flower, another writing on the clipboard, seen from a distance. The scientific observation environment dominates."
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - encuesta
+  - jardín
+  - observación
+  - identificación
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-15"
@@ -52,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - polinizadores
-  - encuesta
-  - jardín
-  - observación
-  - identificación
 category:
   - Ciencia
   - Naturaleza
@@ -81,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +111,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

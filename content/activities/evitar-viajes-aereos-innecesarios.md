@@ -3,23 +3,19 @@ title: "Evitar viajes aéreos innecesarios"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/evitar-viajes-aereos-innecesarios/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono.
+description: "Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono."
+summary: "Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/evitar-viajes-aereos-innecesarios.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,15 +24,29 @@ competencies:
   - Investigación y planificación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X351"
-image_prompt: "Older scouts ages 16-20 researching carbon footprint of air travel. Choosing alternative transport (train, bus) for vacations when possible. Learning about carbon offsets (paying for renewable energy or reforestation). Climate-conscious travel, emissions awareness, offsetting education atmosphere."
+  - sacc
+activity_code: "sacc-X45"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. Airplane routes highlighted in red, and train/bus routes in green. A laptop with a carbon calculator for flights. A notebook with alternatives (train, bus, carpool). The left side has space for text. On the far right side, two tiny older scouts (16-20) stand, one pointing at a train route, the other at an airplane route, seen from a distance. The low-carbon travel planning environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - aviones
+  - CO2
+  - viajes
+  - compensaciones
+  - carbono
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-8"
@@ -47,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Planificación
-etiquetas:
-  - aviones
-  - CO2
-  - viajes
-  - compensaciones
-  - carbono
 category:
   - Transporte
   - Clima
@@ -74,16 +78,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +105,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Evitar viajes aéreos innecesarios
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono.
 
 ## Desarrollo

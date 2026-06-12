@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/haciendo-los-calculos/"
 description: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
 summary: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/haciendo-los-calculos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,17 +22,31 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X279"
-image_prompt: "Older scouts ages 14-17 listing water-using appliances - toilet, washing machine, dishwasher, shower. Researching water consumption per use. Comparing old vs efficient models - low-flow toilet (6L) vs old (15L), front-load washer (50L) vs top-load (150L). Calculating potential savings. Creating poster to encourage efficient appliance choices. Appliance literacy, water conservation, consumer advocacy atmosphere."
+  - agua
+activity_code: "agua-X32"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine home, with a table in the center-left showing an electricity bill, a list of appliances (toilet, washing machine, dishwasher, shower) with old vs efficient water consumption (liters per use). A calculator and a notebook with savings calculations. The left side has open space for text. On the far right side, a tiny older scout (14-17) sits, using the calculator, a parent (civilian) looking over the shoulder, seen from a distance. The appliance water efficiency calculation environment dominates."
 tags:
+  - agua
+  - electrodomésticos
+  - consumo
+  - eficiencia
+  - ahorro
   - Insignia del Agua
 location: "Interior (hogar)"
 participants: "4-10"
@@ -42,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Cálculo
-etiquetas:
-  - electrodomésticos
-  - agua
-  - consumo
-  - eficiencia
-  - ahorro
 category:
   - Hogar
   - Agua
@@ -67,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

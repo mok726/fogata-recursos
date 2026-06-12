@@ -5,33 +5,44 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-factor-nutricional/"
 description: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
 summary: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-factor-nutricional.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X98"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching nutrients from pollinator-dependent foods - vitamin C from oranges, calcium from almonds, antioxidants from berries. Creating poster showing colorful fruits and vegetables. Discussing what happens if pollinators disappear. Health and environment connection atmosphere."
+activity_code: "polinizadores-X25"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a poster on the wall in the center-left showing colorful fruits and vegetables (oranges, almonds, berries) with labels of vitamins (C, calcium, antioxidants). A tablet with a nutrition website. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit at a table, one pointing at the poster, another reading from the tablet, seen from a distance. The nutrition and biodiversity environment dominates."
 tags:
+  - polinizadores
+  - nutrición
+  - vitaminas
+  - alimentos saludables
+  - dieta
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-15"
@@ -42,12 +53,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - nutrición
-  - polinizadores
-  - vitaminas
-  - alimentos saludables
-  - dieta
 category:
   - Nutrición
   - Salud
@@ -71,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

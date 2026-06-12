@@ -1,22 +1,21 @@
 ---
 title: "Entrevista sobre alimentos tradicionales"
-duration: "Variable (1-2 sesiones)"
+duration: "variable (1-2 sesiones)"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-sobre-alimentos-tradicionales/"
 description: "Recuperación de saberes alimentarios históricos."
 summary: "Recuperación de saberes alimentarios históricos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -31,18 +30,34 @@ competencies:
   - Preservación cultural
 responsible:
   - educador Scout
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C01"
-image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs interviewing grandparents or elders about traditional foods. Asking what they grew, cooked, ate as children. Recording responses. Comparing with modern diet. If possible, cooking traditional recipe together. Sharing findings with group or oral history project. Cultural preservation, intergenerational learning, agrobiodiversity awareness atmosphere."
-similar_activities: "www.diversityforlife.org/about-the-campaign/activities/oralhistory"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine home or scout room, with a comfortable chair in the center-left. A civilian grandparent sitting, holding a photo album. A notebook and a recorder on a small table. The left side has space for text. On the far right side, a tiny scout (11-21) sits, notebook in hand, asking questions, seen from a distance. The intergenerational food interview environment dominates."
+similar_activities:
+  - www.diversityforlife.org/about-the-campaign/activities/oralhistory
 tags:
+  - biodiversidad
+  - alimentos tradicionales
+  - abuelos
+  - historia oral
+  - cultivos
+  - biodiversidad alimentaria
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -53,12 +68,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - alimentos tradicionales
-  - abuelos
-  - historia oral
-  - cultivos
-  - biodiversidad alimentaria
 category:
   - Historia
   - Alimentación
@@ -76,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +111,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/esculpir-un-desastre/"
 description: "Tallar una escultura en madera inspirada en desastres naturales."
 summary: "Tallar una escultura en madera inspirada en desastres naturales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/esculpir-un-desastre.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +31,32 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Scouter o artista
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
   - bosques
 activity_code: "bosques-C14"
-image_prompt: "Older scouts ages 16-21 carving sculpture from reclaimed wood (from storm-fallen trees, driftwood, or sustainably sourced wood) inspired by natural disasters - floods, hurricanes, earthquakes, wildfires, tsunamis, landslides. Discussing how art can help process trauma and loss. Using safe carving techniques with adult supervision. Art therapy, disaster resilience, upcycling wood, emotional expression through sculpture atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine scout room or workshop, with a workbench in the center-left displaying a wood sculpture carved from reclaimed storm-fallen wood. The sculpture depicts a tree bent by wind or a wave from a tsunami. Carving tools (safety supervised) and sandpaper. The left side has negative space for text. On the far right side, a tiny older scout (16-21) stands, holding a carving tool, another holds the finished sculpture, seen from a distance. The disaster wood sculpture environment dominates."
 tags:
+  - bosques
+  - escultura
+  - madera recuperada
+  - desastres
+  - arte
+  - trauma
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-10"
@@ -53,12 +68,6 @@ accessibility:
 activity_type:
   - Arte
   - Terapia
-etiquetas:
-  - escultura
-  - madera recuperada
-  - desastres
-  - arte
-  - trauma
 category:
   - Arte
   - Resiliencia
@@ -86,16 +95,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +121,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

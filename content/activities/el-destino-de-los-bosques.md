@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-destino-de-los-bosques/"
 description: "Investiga la pérdida de cobertura forestal por continente y crea pósteres comparativos."
 summary: "Investiga la pérdida de cobertura forestal por continente y crea pósteres comparativos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-destino-de-los-bosques.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,15 +29,28 @@ competencies:
   - Geografía crítica
 responsible:
   - Scouter o geógrafo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D05"
-image_prompt: "Older scouts ages 16-21 in continent teams researching forest cover and forest loss (FAO Global Forest Resources Assessment data). Creating comparative posters showing - total forest area, annual deforestation rate, primary causes (agriculture expansion, logging, fire), afforestation efforts. Patterns - South America (Amazon deforestation), Africa (woodfuel & agriculture), Asia (reforestation in China, losses in SE Asia), Europe (gain), North America (stable). Global forest trends, data analysis, cartographic presentation, comparative geography atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a set of continent posters on the wall in the center-left (South America, Africa, Asia, Europe, North America). Each poster shows forest cover and deforestation rate (FAO data), with causes (agriculture, logging, fire). A bar chart comparing losses. The left side has negative space for text. On the far right side, a group of tiny older scouts (16-21) stand, one pointing at South America, another at Africa, discussing, seen from a distance. The global deforestation comparison environment dominates."
 tags:
+  - bosques
+  - deforestación
+  - cobertura forestal
+  - pérdida
+  - continentes
+  - estadísticas
   - Insignia de los Bosques
 location: "Interior"
 participants: "8-25"
@@ -48,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Datos
-etiquetas:
-  - deforestación
-  - cobertura forestal
-  - pérdida
-  - continentes
-  - estadísticas
 category:
   - Geografía
   - Datos
@@ -80,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

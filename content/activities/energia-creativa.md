@@ -1,35 +1,48 @@
 ---
 title: "Energía Creativa"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-creativa/"
 description: "Inventa un método innovador de generación eléctrica y escribe un cuento."
 summary: "Inventa un método innovador de generación eléctrica y escribe un cuento."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-creativa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 9
 sdgs:
   - 9
 activity_badges:
   - energia
-activity_code: "energia-X176"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Imagining novel energy generation - dance floor generating electricity from footsteps, playground swings charging batteries, kinetic energy from dogs running. Writing creative story about implementation in community. Imaginative, futuristic, creative writing atmosphere."
+activity_code: "energia-X45"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 9
+rama_caminantes:
+  - 3
+  - 9
+rama_rovers:
+  - 9
+image_prompt: "An Argentine scout room, with a table in the center-left. A notebook open to a page with a drawing of a fantastical energy invention (e.g., dance floor that generates electricity, playground swings charging batteries). Colored pencils scattered. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one drawing, the other writing a story, seen from a distance. The creative energy invention environment dominates."
 tags:
+  - energia
+  - energía
+  - innovación
+  - cuento
+  - generación
+  - creatividad
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -42,12 +55,6 @@ activity_type:
   - Creatividad
   - Escritura
   - Innovación
-etiquetas:
-  - energía
-  - innovación
-  - cuento
-  - generación
-  - creatividad
 category:
   - Energía
   - Literatura
@@ -65,16 +72,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -101,15 +98,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

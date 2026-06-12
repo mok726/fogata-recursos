@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/haz-una-caminata/"
 description: "Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema."
 summary: "Realiza una caminata por el bosque, recolecta elementos naturales y crea un collage para representar el ecosistema."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/haz-una-caminata.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -41,20 +39,34 @@ competencies:
   - Conciencia ecológica
 responsible:
   - Scouter o educador ambiental
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A01"
-image_prompt: "Group of scouts ages 5-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs walking through Argentine forest (Selva Misionera, Bosque Andino Patagónico, Monte, Parque Nacional). Collecting natural items - small stones, soil, dry leaves, twigs, feathers. Creating forest collage. Discussing each element's importance. Ecological observation, creative expression, forest appreciation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine forest (Selva Misionera or Bosque Andino Patagónico) on a sunny day, with a trail winding through trees in the center-left. Fallen leaves, a small stone, a feather on the ground. A basket or bag for collecting natural items. The left side has open space for text. On the far right side, a group of tiny scouts (5-21) walk along the trail, one picking up a leaf, another looking at a feather, seen from a distance. The forest walk and collection environment dominates."
 required: true
 required_for:
   - bosques-A
-required_comment: "Actividad obligatoria para la categoría - LA VIDA DE LOS BOSQUES"
+required_comment: "Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES"
 required_category: "LA VIDA DE LOS BOSQUES"
 tags:
+  - LA VIDA DE LOS BOSQUES
+  - bosques
+  - bosque
+  - caminata
+  - collage
+  - elementos naturales
+  - ecosistema
   - Insignia de los Bosques
 location: "Exterior"
 participants: "4-15"
@@ -65,12 +77,6 @@ accessibility:
 activity_type:
   - Arte
   - Exploración
-etiquetas:
-  - bosque
-  - caminata
-  - collage
-  - elementos naturales
-  - ecosistema
 category:
   - Arte
   - Ecología
@@ -98,16 +104,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -134,15 +130,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

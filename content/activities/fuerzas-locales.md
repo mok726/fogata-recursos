@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/fuerzas-locales/"
 description: "Contacta a las autoridades ambientales locales para saber qué están haciendo para proteger a los polinizadores."
 summary: "Contacta a las autoridades ambientales locales para saber qué están haciendo para proteger a los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/fuerzas-locales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -27,11 +27,6 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
-  - 17
 sdgs:
   - 1
   - 2
@@ -39,9 +34,24 @@ sdgs:
   - 17
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X107"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing email or letter to local environmental authorities. Asking about pesticide bans, native flowers in parks. Drafting suggestions for pollinator protection. Advocating, civic engagement atmosphere."
+activity_code: "polinizadores-X34"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left. The screen shows an email draft to local environmental authorities asking about pesticide bans and native flowers. A printed list of suggestions next to the laptop. The left side has space for text. On the far right side, two tiny young scouts (5-10) sit at the table, one typing, the other holding a paper with suggestions, seen from a distance. The civic engagement environment dominates."
 tags:
+  - polinizadores
+  - autoridades
+  - políticas públicas
+  - pesticidas
+  - flores nativas
+  - apicultura
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-10"
@@ -54,12 +64,6 @@ activity_type:
   - Investigación
   - Servicio
   - Ciudadanía
-etiquetas:
-  - autoridades
-  - políticas públicas
-  - pesticidas
-  - flores nativas
-  - apicultura
 category:
   - Política
   - Medio ambiente
@@ -83,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

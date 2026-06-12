@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/guia-de-campo-de-insectos/"
 description: "Creación de catálogo entomológico."
 summary: "Creación de catálogo entomológico."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/guia-de-campo-de-insectos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,16 +30,30 @@ competencies:
   - Documentación
 responsible:
   - entomólogo/educador
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A09"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine field or park. Catching insects with sweep net or pooter (aspirator). Placing in clear jars for observation. Identifying species using guide. Creating field guide pages with drawings and notes. Releasing insects. Entomology, scientific documentation, respect for life atmosphere."
-similar_activities: "https -//www.amentsoc.org/bug-club/fun/experiment-pooter.html"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine field or park, with a sweep net resting on the grass in the center-left. Several clear jars with captured insects (beetle, grasshopper, butterfly) on a cloth. A magnifying glass and a notebook with sketches. The left side has open space for text. On the far right side, two tiny older scouts (11-17) kneel, one holding a jar up to the light, the other drawing in the notebook, seen from a distance. The entomology field guide environment dominates."
+similar_activities:
+  - https://www.amentsoc.org/bug-club/fun/experiment-pooter.html
 tags:
+  - biodiversidad
+  - insectos
+  - guía de campo
+  - entomología
+  - captura
+  - identificación
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-12"
@@ -50,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Documentación
-etiquetas:
-  - insectos
-  - guía de campo
-  - entomología
-  - captura
-  - identificación
 category:
   - Entomología
   - Ciencia
@@ -75,16 +83,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.amentsoc.org/bug-club/fun/experiment-pooter.html"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +114,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

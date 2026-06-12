@@ -1,21 +1,21 @@
 ---
 title: "Energía en el Pasado"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-el-pasado/"
 description: "Compara el uso energético actual con el de generaciones anteriores."
 summary: "Compara el uso energético actual con el de generaciones anteriores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-en-el-pasado.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -24,15 +24,28 @@ competencies:
   - Análisis histórico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X165"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or at home. Interviewing grandparents or elderly neighbors about energy use in their childhood - candles vs electric lights, wood stoves vs gas, walking vs cars. Creating comparison chart. Presenting to group. Intergenerational learning, historical perspective atmosphere."
+activity_code: "energia-X34"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room or home, with a table in the center-left. A notebook with a two-column chart: 'Antes' (candles, wood stove, walking) and 'Ahora' (LED lights, gas stove, car). A photo of an elderly person. The left side has space for text. On the far right side, a tiny older scout (11-17) sits with a civilian grandparent, both pointing at the chart, seen from a distance. The intergenerational energy comparison environment dominates."
 tags:
+  - energia
+  - energía
+  - pasado
+  - abuelos
+  - entrevista
+  - comparación
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -44,12 +57,6 @@ activity_type:
   - Investigación
   - Entrevista
   - Comparación
-etiquetas:
-  - energía
-  - pasado
-  - abuelos
-  - entrevista
-  - comparación
 category:
   - Historia
   - Energía
@@ -68,16 +75,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +101,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

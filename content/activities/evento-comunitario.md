@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/evento-comunitario/"
 description: "Movilización social."
 summary: "Movilización social."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/evento-comunitario.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,31 @@ competencies:
   - Comunicación masiva
 responsible:
   - educador Scout
-ods:
-  - 11
-  - 17
 sdgs:
   - 11
   - 17
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D34"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 17
+rama_caminantes:
+  - 3
+  - 11
+  - 17
+rama_rovers:
+  - 11
+  - 17
 image_prompt: "Older scouts ages 14-21 organizing large community awareness event on local biodiversity issue (save the wetland, ban plastic bags, create pollinator park). Setting specific goal. Making banner, posters. Contacting local TV, radio, newspapers for coverage. Attracting large crowd. Measuring policy or behavior change. Mass mobilization, media relations, large-scale event management, social change leadership atmosphere."
 tags:
+  - biodiversidad
+  - evento comunitario
+  - conciencia
+  - movilización
+  - medios
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "30-200"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Evento
   - Organización
-etiquetas:
-  - evento comunitario
-  - biodiversidad
-  - conciencia
-  - movilización
-  - medios
 category:
   - Organización de eventos
   - Comunicación
@@ -73,16 +81,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 5
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +107,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

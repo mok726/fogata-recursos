@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/elegir-alimentos-amigables-con-los-polinizadores/"
 description: "Compra alimentos orgánicos y locales para apoyar a los polinizadores."
 summary: "Compra alimentos orgánicos y locales para apoyar a los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -27,17 +27,30 @@ competencies:
   - Responsabilidad
 responsible:
   - Responsable del grupo
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X115"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine farmers market. Talking to farmer about organic practices (no synthetic pesticides). Buying local honey, organic apples. Learning to read labels. Choosing food that supports pollinators. Consumer power, informed choices atmosphere."
+activity_code: "polinizadores-X42"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine farmers market on a sunny day. In the center-left, a stall with organic vegetables and fruits, and a sign 'Productos Locales y Orgánicos'. A civilian farmer talking to customers. The left side has open space for text. On the far right side, two tiny young scouts (5-10) stand with a civilian parent, one holding an apple, the other pointing at the sign, seen from a distance. The conscious shopping environment dominates."
 tags:
+  - polinizadores
+  - alimentos orgánicos
+  - locales
+  - agricultores
+  - consumo
+  - dieta
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "2-8"
@@ -49,12 +62,6 @@ activity_type:
   - Investigación
   - Reflexión
   - Servicio
-etiquetas:
-  - alimentos orgánicos
-  - locales
-  - agricultores
-  - consumo
-  - dieta
 category:
   - Alimentación
   - Agricultura
@@ -77,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +110,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

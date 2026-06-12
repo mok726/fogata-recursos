@@ -3,22 +3,19 @@ title: "Identificar productos reciclables"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/identificar-productos-reciclables/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Averigua qué productos son reciclables en tu vecindario y cómo se reciclan.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Averigua qué productos son reciclables en tu vecindario y cómo se reciclan.
+description: "Averigua qué productos son reciclables en tu vecindario y cómo se reciclan."
+summary: "Averigua qué productos son reciclables en tu vecindario y cómo se reciclan."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/identificar-productos-reciclables.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,15 +25,30 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X371"
-image_prompt: "Older scouts ages 11-15 researching local recyclables - paper, plastic (#1,2), glass, aluminum, tin cans, cardboard. Learning how they're recycled. Creating signs for home/school recycling bins. Recycling literacy, waste sorting, community education atmosphere."
+  - sacc
+activity_code: "sacc-X65"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left displaying common recyclable items: a plastic bottle (#1), a yogurt container (#5), a glass jar, an aluminum can, a cardboard box, a newspaper. Small bins labeled 'Plástico', 'Vidrio', 'Papel', 'Metal'. A recycling guide poster on the wall. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one dropping a bottle into the plastic bin, the other reading the guide, seen from a distance. The recyclable identification environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - reciclable
+  - productos
+  - plástico
+  - papel
+  - vidrio
+  - metal
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -47,13 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Educación
-etiquetas:
-  - reciclable
-  - productos
-  - plástico
-  - papel
-  - vidrio
-  - metal
 category:
   - Reciclaje
   - Educación
@@ -77,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Identificar productos reciclables
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Averigua qué productos son reciclables en tu vecindario y cómo se reciclan.
 
 ## Desarrollo

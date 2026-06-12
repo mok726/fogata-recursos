@@ -3,22 +3,19 @@ title: "Entrevista sobre el uso de energía en el pasado"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-sobre-el-uso-de-energia-en-el-pasado/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo.
+description: "Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo."
+summary: "Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -29,17 +26,33 @@ competencies:
   - Comparación histórica
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X344"
-image_prompt: "Older scouts ages 11-15 interviewing grandparents or elderly about childhood - house type, electricity, appliances, entertainment, transportation. Comparing energy use then vs now. Drawing differences and similarities. Intergenerational learning, historical energy perspective, appreciation of past lifestyle atmosphere."
+  - sacc
+activity_code: "sacc-X38"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine home, with a civilian grandparent sitting on a couch in the center-left, holding a vintage photo album showing an old house without many appliances. A notebook and a recorder on a coffee table. The left side has open space for text. On the far right side, a tiny older scout (11-15) sits on a chair, asking questions and writing answers, seen from a distance. The intergenerational energy interview environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - abuelo
+  - energía
+  - pasado
+  - comparación
+  - entrevista
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -50,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - abuelo
-  - energía
-  - pasado
-  - comparación
-  - entrevista
 category:
   - Historia
   - Energía
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Entrevista sobre el uso de energía en el pasado
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo.
 
 ## Desarrollo

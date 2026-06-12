@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/excursion-a-una-granja/"
 description: "Visita una granja local para aprender sobre agricultura sostenible y cómo protegen a los polinizadores."
 summary: "Visita una granja local para aprender sobre agricultura sostenible y cómo protegen a los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/excursion-a-una-granja.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -23,23 +23,33 @@ materials:
   - Cámara o dispositivo para grabar (opcional)
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X93"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine sustainable farm. Farmer showing cover crops, hedgerows for bees. Scout recording video interview. Another taking photos. Seeing pollinators on flowers. Learning how farming can help or harm bees. Real-world conservation atmosphere."
+activity_code: "polinizadores-X20"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine sustainable farm on a sunny day. In the center-left, a farmer (civilian, work clothes) points to a field with cover crops and hedgerows where bees are visible. A sign that says 'Pollinator Friendly'. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) stand with a phone recording video, one holding a camera, seen from a distance. The educational farm visit environment dominates."
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - granja
+  - agricultura sostenible
+  - visita
+  - video
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "5-20"
@@ -50,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio a los demás
-etiquetas:
-  - granja
-  - agricultura sostenible
-  - polinizadores
-  - visita
-  - video
 category:
   - Agricultura
   - Medio ambiente
@@ -79,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +109,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

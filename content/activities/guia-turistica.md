@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/guia-turistica/"
 description: "Lleva a un amigo en un tour guiado sobre el suelo en tu jardín o parque local."
 summary: "Lleva a un amigo en un tour guiado sobre el suelo en tu jardín o parque local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/guia-turistica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -24,15 +24,28 @@ competencies:
   - Comunicación
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X64"
-image_prompt: "Young scout ages 5-15 (mixed) wearing neckerchief, guiding friend (civil clothes) through Argentine garden or park. Scout pointing at soil, showing earthworm, explaining how plants get nutrients from soil. Friend listening and asking questions. Magnifying glass in hand. Sunny day. Teaching, sharing knowledge atmosphere."
+activity_code: "suelos-X43"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine garden or park on a sunny day. In the center-left, a magnifying glass on the ground next to a small patch of soil with an earthworm visible. A young civilian friend (casual clothes) stands listening. The left side has open space for text. On the far right side, a tiny scout (5-15) points at the soil and explains, seen from a distance. The peer-teaching environment dominates."
 tags:
+  - suelos
+  - tour
+  - guía
+  - suelo
+  - jardín
+  - educación
   - Insignia de los Suelos
 location: "Exterior"
 participants: "2-10"
@@ -43,12 +56,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Comunicación
-etiquetas:
-  - tour
-  - guía
-  - suelo
-  - jardín
-  - educación
 category:
   - Educación
   - Naturaleza
@@ -69,16 +76,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +102,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

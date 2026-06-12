@@ -5,16 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/electricidad-en-todas-partes/"
 description: "Los participantes cuentan los interruptores y tomas eléctricas en su casa."
 summary: "Los participantes cuentan los interruptores y tomas eléctricas en su casa."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/electricidad-en-todas-partes.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 materials:
@@ -26,17 +27,32 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X235"
-image_prompt: "Young scouts ages 5-10 at home. Counting light switches and electrical outlets in each room. Drawing pictures of how electricity is used in their home (lights, TV, computer, fridge). Sharing drawings with group. Discussing energy consumption and ways to reduce. Home energy audit, electricity awareness, conservation beginnings atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X22"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine home, with a hallway wall in the center-left showing light switches and electrical outlets. A child's drawing of a lamp, TV, and fridge with arrows labeled 'usa electricidad'. The left side has open space for text. On the far right side, a tiny young scout (5-10) stands, holding a clipboard and counting switches, a parent (civilian) behind, seen from a distance. The home electricity audit environment dominates."
 tags:
+  - cambioclimatico
+  - electricidad
+  - interruptores
+  - tomas
+  - consumo
+  - energía
   - Insignia del Cambio Climático
 location: "Interior (hogar)"
 participants: "2-10"
@@ -47,12 +63,6 @@ accessibility:
 activity_type:
   - Observación
   - Reflexión
-etiquetas:
-  - electricidad
-  - interruptores
-  - tomas
-  - consumo
-  - energía
 category:
   - Energía
   - Hogar
@@ -75,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

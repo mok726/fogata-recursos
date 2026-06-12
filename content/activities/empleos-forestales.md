@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/empleos-forestales/"
 description: "Enumera empleos vinculados a bosques y juega a adivinanzas con tu grupo."
 summary: "Enumera empleos vinculados a bosques y juega a adivinanzas con tu grupo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/empleos-forestales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,15 +24,28 @@ materials:
   - Lápiz
 responsible:
   - Scouter
-ods:
-  - 8
 sdgs:
   - 8
 activity_badges:
   - bosques
 activity_code: "bosques-B04"
-image_prompt: "Young scouts ages 5-15 listing forest-related jobs - forester, logger, park ranger, wildlife biologist, ecologist, botanist, tree planter, firefighter, timber cruiser, forest engineer, mushroom forager, honey harvester, ecotourism guide, woodworker, paper mill worker. Playing charades guessing forest jobs. Career exploration, forest economy awareness, fun kinesthetic learning atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 8
+rama_caminantes:
+  - 3
+  - 8
+rama_rovers:
+  - 8
+image_prompt: "An Argentine scout room, with a hat or bowl on a table in the center-left containing slips of paper with forest jobs (guardabosques, leñador, biólogo, bombero forestal, guía de ecoturismo). A charades game in progress. The left side has open space for text. On the far right side, a group of tiny scouts (5-15) sit, one acting out 'bombero forestal' (pretending to spray water), others guessing, seen from a distance. The forest jobs charades environment dominates."
 tags:
+  - bosques
+  - empleos forestales
+  - guardabosques
+  - leñador
+  - silvicultor
+  - biólogo
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
@@ -44,12 +57,6 @@ accessibility:
 activity_type:
   - Juego
   - Trabajo
-etiquetas:
-  - empleos forestales
-  - guardabosques
-  - leñador
-  - silvicultor
-  - biólogo
 category:
   - Trabajo
   - Economía
@@ -71,16 +78,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +104,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

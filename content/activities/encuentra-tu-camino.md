@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/encuentra-tu-camino/"
 description: "Participa en una actividad de orientación usando mapas en un bosque."
 summary: "Participa en una actividad de orientación usando mapas en un bosque."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/encuentra-tu-camino.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -32,15 +31,28 @@ competencies:
   - Adaptabilidad
 responsible:
   - Scouter o experto en orientación
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - bosques
 activity_code: "bosques-C13"
-image_prompt: "Older scouts ages 11-21 participating in orienteering event in forest using map and compass. Finding checkpoints marked on map. Learning to read topographic contours, identify terrain features, take bearings, measure distance, navigate without GPS. Option for winter - orienteering on snowshoes or cross-country skis. Navigation skills, map reading, self-reliance, problem-solving in forest environment atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine forest, with a map and compass on a fallen log in the center-left. An orienteering checkpoint (orange and white flag) visible in the distance. A scout checking the map. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one holding the map, the other the compass, looking at the terrain, seen from a distance. The orienteering environment dominates."
 tags:
+  - bosques
+  - orientación
+  - mapa
+  - brújula
+  - senderismo
+  - navegación
   - Insignia de los Bosques
 location: "Exterior (bosque)"
 participants: "4-15"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Orientación
   - Habilidad
-etiquetas:
-  - orientación
-  - mapa
-  - brújula
-  - senderismo
-  - navegación
 category:
   - Navegación
   - Supervivencia
@@ -83,16 +89,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +115,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

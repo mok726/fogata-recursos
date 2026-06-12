@@ -1,21 +1,21 @@
 ---
 title: "Historias Solares"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/historias-solares/"
 description: "Investiga el papel del Sol en culturas antiguas y crea una exposición."
 summary: "Investiga el papel del Sol en culturas antiguas y crea una exposición."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/historias-solares.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -32,22 +32,36 @@ competencies:
   - Comunicación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 4
-  - 7
 sdgs:
   - 4
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X132"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating exhibition about sun worship in ancient cultures (Incas, Egyptians, Aztecs). One scout drawing Inti sun god, another writing facts. Cardboard displays on table. Collaborative research, historical learning atmosphere."
+activity_code: "energia-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+  - 7
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 4
+  - 7
+image_prompt: "An Argentine scout room, with a table in the center-left displaying a cardboard exhibition about sun worship in ancient cultures (Incas, Egyptians). Drawings of Inti sun god, pyramids, and explanatory texts. The left side has space for text. On the far right side, three tiny scouts (7-13) sit at the table, one pointing at a drawing, another reading a text, seen from a distance. The cultural history exhibition environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - ENERGÍA ES VIDA"
+required_comment: "Actividad obligatoria para la categoría: ENERGÍA ES VIDA"
 required_category: "ENERGÍA ES VIDA"
 tags:
+  - ENERGÍA ES VIDA
+  - energia
+  - Sol
+  - culturas antiguas
+  - exposición
+  - historia
+  - energía solar
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -59,12 +73,6 @@ activity_type:
   - Investigación
   - Creatividad
   - Arte
-etiquetas:
-  - Sol
-  - culturas antiguas
-  - exposición
-  - historia
-  - energía solar
 category:
   - Historia
   - Cultura
@@ -89,16 +97,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -125,15 +123,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

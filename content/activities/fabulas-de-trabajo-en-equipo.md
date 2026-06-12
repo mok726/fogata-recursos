@@ -5,16 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/fabulas-de-trabajo-en-equipo/"
 description: "Crea una historia colaborativa sobre los factores que forman el suelo."
 summary: "Crea una historia colaborativa sobre los factores que forman el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/fabulas-de-trabajo-en-equipo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
+age: "5-6 años"
 age_group:
   - castores
 competencies:
@@ -23,15 +24,27 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X32"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs sitting in circle on floor in Argentine scout room. Taking turns adding sentences to story about how soil forms (weather, time, animals, plants). One child speaking animatedly, others listening and laughing. Paper on floor with drawings. Bright room with colorful rug. Joyful, collaborative atmosphere."
+activity_code: "suelos-X11"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a colorful rug on the floor. In the center-left, a large paper with drawings of soil formation factors (weather, time, animals, plants) lies on the rug. The left side has negative space for text. On the far right side, a circle of tiny young scouts (5-10) sit on the floor, one child speaking animatedly, the others listening and laughing, seen from a distance. The collaborative storytelling environment dominates."
 tags:
+  - suelos
+  - historia colaborativa
+  - factores del suelo
+  - creatividad
+  - trabajo en equipo
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-15"
@@ -43,11 +56,6 @@ activity_type:
   - Dinámica de grupos
   - Creatividad
   - Arte
-etiquetas:
-  - historia colaborativa
-  - factores del suelo
-  - creatividad
-  - trabajo en equipo
 category:
   - Educación
   - Arte
@@ -68,16 +76,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

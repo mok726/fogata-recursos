@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/filtros-naturales/"
 description: "Comparación de métodos de filtración."
 summary: "Comparación de métodos de filtración."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/filtros-naturales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,16 +30,30 @@ competencies:
   - Soluciones prácticas
 responsible:
   - educador Scout
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B10"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching natural filters - oysters filter feed, moss absorbs pollutants, tree roots trap sediment. Building DIY water filter with plastic bottle, layers of gravel, sand, activated charcoal. Pouring dirty water through, collecting clean water below. Comparing efficiency of different materials. Nature-based solutions, water purification engineering, hands-on science atmosphere."
-similar_activities: "http -//library.thinkquest.org/04apr/00222/spanish/filter1.htm"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a DIY water filter made from a plastic bottle in the center-left. Layers of gravel, sand, and activated charcoal. Dirty water being poured, and clean water dripping into a cup below. A comparison chart. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) kneel, one pouring water into the filter, the other holding the cup, seen from a distance. The natural filter experiment environment dominates."
+similar_activities:
+  - http://library.thinkquest.org/04apr/00222/spanish/filter1.htm
 tags:
+  - biodiversidad
+  - filtros
+  - agua
+  - ostras
+  - musgos
+  - filtración natural
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-10"
@@ -50,12 +64,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - filtros
-  - agua
-  - ostras
-  - musgos
-  - filtración natural
 category:
   - Hidrología
   - Ingeniería
@@ -82,16 +90,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://library.thinkquest.org/04apr/00222/spanish/filter1.htm"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://library.thinkquest.org/04apr/00222/spanish/filter1.htm"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +124,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

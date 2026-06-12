@@ -3,23 +3,19 @@ title: "Impacto del cambio climático en la agricultura"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/impacto-del-cambio-climatico-en-la-agricultura/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos.
+description: "Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos."
+summary: "Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
-  - 13
 sdgs:
   - 2
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X395"
-image_prompt: "Older scouts ages 16-20 researching climate impacts on agriculture - changing growing seasons, heat stress on livestock, increased pests, soil degradation, water scarcity for irrigation, fisheries collapse. Sharing findings. Agricultural vulnerability, food production challenges, adaptation strategies awareness atmosphere."
+  - sacc
+activity_code: "sacc-X89"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 13
+rama_caminantes:
+  - 3
+  - 2
+  - 13
+rama_rovers:
+  - 2
+  - 13
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a diagram: climate change effects on agriculture (heat stress on livestock, changing growing seasons, increased pests, water scarcity). A laptop with IPCC agriculture chapter and a notebook with adaptation strategies (agroforestry, drought-tolerant crops). The left side has negative space for text. On the far right side, two tiny older scouts (16-20) sit, one pointing at 'heat stress', the other writing, seen from a distance. The climate-agriculture research environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - agricultura
+  - cambio climático
+  - producción
+  - alimentos
+  - ganadería
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Comunicación
-etiquetas:
-  - agricultura
-  - cambio climático
-  - producción
-  - alimentos
-  - ganadería
 category:
   - Agricultura
   - Clima
@@ -76,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Impacto del cambio climático en la agricultura
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos.
 
 ## Desarrollo

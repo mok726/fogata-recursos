@@ -1,22 +1,21 @@
 ---
 title: "Huerto comunitario"
-duration: "Temporada completa"
+duration: "temporada completa"
 layout: "layouts/activity.njk"
 permalink: "/activities/huerto-comunitario/"
 description: "Cultivo de alimentos biodiversos."
 summary: "Cultivo de alimentos biodiversos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/huerto-comunitario.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
+age: "7-17 años"
 age_group:
   - manada
   - scouts
@@ -29,18 +28,33 @@ competencies:
   - Paciencia
 responsible:
   - educador Scout
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C06"
-image_prompt: "Scouts ages 7-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community garden or school garden. Planting diverse vegetables (tomatoes, lettuce, peppers), herbs (basil, mint), flowers (marigolds). Monitoring water and sunlight needs. Observing animal visitors - bees pollinating, birds eating pests, butterflies. Discussing garden as mini-ecosystem. Hands-on farming, ecological observation, community food production atmosphere."
-similar_activities: "http -//www.fao.org/docrep/009/a0218s/a0218s00.htm"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine community garden on a sunny day. In the center-left, raised beds with diverse vegetables (tomatoes, lettuce, peppers) and flowers. A sign 'Huerto Comunitario'. A watering can and a trowel on the soil. The left side has open space for text. On the far right side, a group of tiny scouts (7-17) kneel, one planting a seedling, another watering, a third pulling weeds, seen from a distance. The community garden environment dominates."
+similar_activities:
+  - http://www.fao.org/docrep/009/a0218s/a0218s00.htm
 tags:
+  - biodiversidad
+  - huerto
+  - alimentos
+  - jardín
+  - ecosistema
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-20"
@@ -51,12 +65,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio
-etiquetas:
-  - huerto
-  - biodiversidad
-  - alimentos
-  - jardín
-  - ecosistema
 category:
   - Agricultura
   - Ecología
@@ -78,16 +86,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://www.fao.org/docrep/009/a0218s/a0218s00.htm"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +117,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

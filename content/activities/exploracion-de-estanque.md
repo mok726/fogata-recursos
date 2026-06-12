@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-estanque/"
 description: "Análisis de calidad de agua."
 summary: "Análisis de calidad de agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-de-estanque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,17 +30,32 @@ competencies:
   - Documentación
 responsible:
   - educador Scout
-ods:
-  - 6
-  - 14
 sdgs:
   - 6
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B07"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine pond or stream. Using small net to collect water samples. Pouring into clear container. Observing macroinvertebrates (insect larvae, snails, worms) with magnifying glass or microscope. Identifying indicator species (clean water vs polluted water). Recording findings. Returning samples. Water quality biomonitoring, aquatic ecology, citizen science atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 14
+rama_caminantes:
+  - 3
+  - 6
+  - 14
+rama_rovers:
+  - 6
+  - 14
+image_prompt: "An Argentine pond or stream. In the center-left, a small net resting on the bank, a clear jar with water and visible macroinvertebrates (snail, insect larva), and a magnifying glass. A field guide to aquatic insects open. The left side has open space for text. On the far right side, two tiny scouts (7-13) kneel, one holding the jar up to the light, the other looking through the magnifying glass, seen from a distance. The pond life exploration environment dominates."
 tags:
+  - biodiversidad
+  - estanque
+  - agua
+  - macroinvertebrados
+  - calidad
+  - muestreo
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-12"
@@ -51,12 +66,6 @@ accessibility:
 activity_type:
   - Investigación
   - Exploración
-etiquetas:
-  - estanque
-  - agua
-  - macroinvertebrados
-  - calidad
-  - muestreo
 category:
   - Ecología acuática
   - Ciencia
@@ -76,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +111,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

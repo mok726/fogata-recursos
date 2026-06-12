@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/fragmentacion-de-habitats/"
 description: "Debate sobre sus impactos."
 summary: "Debate sobre sus impactos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/fragmentacion-de-habitats.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,32 @@ competencies:
   - Empatía
 responsible:
   - educador Scout
-ods:
-  - 11
-  - 15
 sdgs:
   - 11
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D14"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning how habitat fragmentation affects genetic diversity (smaller populations, inbreeding, reduced resilience). Role-playing stakeholders (mayor, biologist, indigenous person, affected animal, developer) discussing highway through forest. Debating how to balance development and conservation. Conflict resolution, multi-stakeholder negotiation, systems thinking atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 15
+rama_caminantes:
+  - 3
+  - 11
+  - 15
+rama_rovers:
+  - 11
+  - 15
+image_prompt: "An Argentine scout room, with a large paper in the center-left showing a diagram of a forest being cut by a highway, creating small isolated patches. Role cards (mayor, biólogo, indígena, animal, desarrollador) on a table. The left side has negative space for text. On the far right side, a group of tiny older scouts (14-21) sit in a circle, one holding a role card, another speaking, seen from a distance. The stakeholder simulation environment dominates."
 tags:
+  - biodiversidad
+  - fragmentación
+  - hábitats
+  - desarrollo
+  - conservación
+  - debate
   - Insignia Biodiversidad
 location: "Interior"
 participants: "8-25"
@@ -49,12 +64,6 @@ accessibility:
 activity_type:
   - Debate
   - Simulación
-etiquetas:
-  - fragmentación
-  - hábitats
-  - desarrollo
-  - conservación
-  - debate
 category:
   - Ecología
   - Urbanismo
@@ -78,16 +87,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

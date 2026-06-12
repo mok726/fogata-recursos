@@ -1,22 +1,21 @@
 ---
 title: "Exploración de biodiversidad aérea (ramas)"
-duration: "45-60 min"
+duration: "0.8-1 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-biodiversidad-aerea-ramas/"
 description: "Observación de especies en ramas cercanas al suelo."
 summary: "Observación de especies en ramas cercanas al suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - manada
@@ -30,15 +29,28 @@ competencies:
   - Conciencia ecológica
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A01"
-image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Placing white sheet under low tree branch. Shaking branch vigorously. Observing insects, leaves, small organisms falling onto sheet. Examining with magnifying glasses. Discussing how creatures live above ground. Scientific discovery, hands-on ecology atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden or park with a low tree branch in the center-left. A white sheet spread under the branch. Small insects, leaves, and twigs have fallen onto the sheet. A magnifying glass nearby. The left side has open space for text. On the far right side, two tiny young scouts (5-13) kneel near the sheet, one holding the magnifying glass, the other pointing at a fallen insect, seen from a distance. The branch shaking exploration environment dominates."
 tags:
+  - biodiversidad
+  - biodiversidad aérea
+  - ramas
+  - insectos
+  - exploración
+  - altura
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-12"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Exploración
-etiquetas:
-  - biodiversidad aérea
-  - ramas
-  - insectos
-  - exploración
-  - altura
 category:
   - Ecología
   - Naturaleza
@@ -77,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +109,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

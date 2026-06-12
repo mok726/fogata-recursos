@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-crecimiento/"
 description: "Demuestra cómo la luz solar afecta el crecimiento de las plantas."
 summary: "Demuestra cómo la luz solar afecta el crecimiento de las plantas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/experimento-de-crecimiento.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,28 @@ competencies:
   - Método científico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - energia
-activity_code: "energia-X136"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine home or scout room. Planting seeds in two pots. One pot placed in sunny window, other in dark closet. Watering both equally. Measuring and recording growth daily for one week. Observing difference. Scientific method, patience, discovery atmosphere."
+activity_code: "energia-X05"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine home or scout room, with a windowsill in the center-left. Two pots with identical soil and seeds: one placed in direct sunlight, the other inside a dark box or covered. A ruler and a growth chart on the wall. The left side has negative space for text. On the far right side, a tiny scout (7-13) kneels, measuring the sunny pot with a ruler, another stands watching, seen from a distance. The plant growth experiment environment dominates."
 tags:
+  - energia
+  - crecimiento
+  - plantas
+  - luz solar
+  - oscuridad
+  - experimento
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - crecimiento
-  - plantas
-  - luz solar
-  - oscuridad
-  - experimento
 category:
   - Botánica
   - Ciencia
@@ -72,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +105,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

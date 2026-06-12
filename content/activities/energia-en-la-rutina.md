@@ -1,21 +1,21 @@
 ---
 title: "Energía en la Rutina"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-la-rutina/"
 description: "Analiza cómo usas la energía en tus actividades diarias."
 summary: "Analiza cómo usas la energía en tus actividades diarias."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/energia-en-la-rutina.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,20 +24,34 @@ materials:
   - Lápices
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X159"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Listing daily activities and energy forms - eating (chemical from food), walking (kinetic), watching TV (electrical), sleeping (potential). Presenting one activity explaining energy conversion. Self-awareness, energy literacy atmosphere."
+activity_code: "energia-X28"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a daily routine timeline (wake up, eat, travel, school, sleep) with small icons representing energy forms (chemical, kinetic, electrical, thermal). The left side has negative space for text. On the far right side, three tiny scouts (7-13) sit, one standing and pointing at the board, another taking notes, seen from a distance. The daily energy reflection environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - USO DE LA ENERGÍA"
+required_comment: "Actividad obligatoria para la categoría: USO DE LA ENERGÍA"
 required_category: "USO DE LA ENERGÍA"
 tags:
+  - USO DE LA ENERGÍA
+  - energia
+  - rutina diaria
+  - energía
+  - conversión
+  - actividades
+  - optimización
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Autoconocimiento
-etiquetas:
-  - rutina diaria
-  - energía
-  - conversión
-  - actividades
-  - optimización
 category:
   - Autoconocimiento
   - Energía
@@ -74,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

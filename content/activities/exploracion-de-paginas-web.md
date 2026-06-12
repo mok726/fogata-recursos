@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-paginas-web/"
 description: "Navegación en plataformas científicas."
 summary: "Navegación en plataformas científicas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-de-paginas-web.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -23,18 +23,33 @@ materials:
   - Computadora/tableta con internet
 responsible:
   - educador Scout
-ods:
-  - 4
-  - 15
 sdgs:
   - 4
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D04"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) in Argentine scout room with computers/tablets. Exploring biodiversity websites (EOL, Biodiversity911). Playing matching games, interactive maps, online quizzes about species identification. Digital learning, self-paced exploration, technology for ecology atmosphere."
-similar_activities: "https -//eol.org/"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+  - 15
+rama_caminantes:
+  - 3
+  - 4
+  - 15
+rama_rovers:
+  - 4
+  - 15
+image_prompt: "An Argentine scout room, with a computer or tablet on a table in the center-left. The screen shows the EOL.org website with a matching game. A notebook with quiz answers. The left side has space for text. On the far right side, two tiny scouts (7-13) sit, one clicking on the screen, the other looking at the notebook, seen from a distance. The digital biodiversity exploration environment dominates."
+similar_activities:
+  - https://eol.org/
 tags:
+  - biodiversidad
+  - páginas web
+  - juegos en línea
+  - mapas
+  - quizzes
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-20"
@@ -45,12 +60,6 @@ accessibility:
 activity_type:
   - Juego
   - Exploración digital
-etiquetas:
-  - páginas web
-  - biodiversidad
-  - juegos en línea
-  - mapas
-  - quizzes
 category:
   - Tecnología
   - Ciencia
@@ -70,16 +79,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://eol.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

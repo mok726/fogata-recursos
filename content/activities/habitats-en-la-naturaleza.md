@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/habitats-en-la-naturaleza/"
 description: "Explora la naturaleza para identificar hábitats de polinizadores."
 summary: "Explora la naturaleza para identificar hábitats de polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/habitats-en-la-naturaleza.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,19 +28,30 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo
-ods:
-  - 15
-  - 13
-  - 12
 sdgs:
   - 15
   - 13
   - 12
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X95"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or natural area. Walking and looking for pollinator habitats - bee holes in ground, hollow stems, log piles, flowers. One scout pointing at bee entering hole. Writing list of habitats found. Discussing protection actions. Nature exploration, conservation atmosphere."
+activity_code: "polinizadores-X22"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine park or natural area on a sunny day. In the center-left, a fallen log with holes where bees might nest, and a patch of wildflowers. A clipboard with a list of habitats. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) walk slowly, one pointing at a hole in the ground, another writing on the clipboard, seen from a distance. The habitat exploration environment dominates."
 tags:
+  - polinizadores
+  - hábitats
+  - naturaleza
+  - colmenas
+  - nidos
+  - protección
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-15"
@@ -51,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - hábitats
-  - naturaleza
-  - colmenas
-  - nidos
-  - protección
 category:
   - Ecología
   - Naturaleza
@@ -78,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +109,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,23 +1,21 @@
 ---
 title: "GALERÍA DE ARTE FORESTAL"
-duration: "3-4 horas (creación + exhibición)"
+duration: "3-4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/galeria-de-arte-forestal/"
 description: "Crea obras de arte inspiradas en bosques y organiza una exhibición."
 summary: "Crea obras de arte inspiradas en bosques y organiza una exhibición."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/galeria-de-arte-forestal.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -34,15 +32,28 @@ competencies:
   - Organización
 responsible:
   - Scouter o artista invitado
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
   - bosques
 activity_code: "bosques-C10"
-image_prompt: "Scouts of all ages creating forest-inspired artwork - paintings (landscapes, animals), drawings (leaf patterns, tree silhouettes), sculptures from wood, clay, recycled materials, charcoal rubbings, nature mandalas, leaf prints. Writing artist statement. Organizing gallery exhibition for family and friends. Forest appreciation through art, creative expression, public communication, event organization atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine scout room or community hall, with an exhibition of forest-inspired artwork on the walls in the center-left: paintings of trees, leaf prints, wood sculptures, bark rubbings, nature mandalas. A sign 'Galería de Arte Forestal'. Civilian visitors walking. The left side has open space for text. On the far right side, two tiny scouts (5-21) stand, one pointing at a painting, the other explaining a sculpture to a visitor, seen from a distance. The forest art gallery environment dominates."
 tags:
+  - bosques
+  - galería
+  - arte forestal
+  - pintura
+  - escultura
+  - exposición
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-25"
@@ -54,12 +65,6 @@ accessibility:
 activity_type:
   - Arte
   - Exhibición
-etiquetas:
-  - galería
-  - arte forestal
-  - pintura
-  - escultura
-  - exposición
 category:
   - Arte
   - Bosque
@@ -88,16 +93,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -124,15 +119,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

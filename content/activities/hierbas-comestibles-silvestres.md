@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/hierbas-comestibles-silvestres/"
 description: "Identificación de plantas nativas."
 summary: "Identificación de plantas nativas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hierbas-comestibles-silvestres.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -31,17 +31,32 @@ competencies:
   - Seguridad alimentaria
 responsible:
   - experto local
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C04"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) learning from indigenous elder or grandparent about wild edible herbs (dandelion, clover, wild onion). Creating collage with photos/drawings, names, uses. Emphasizing SAFETY - NEVER eat without expert confirmation. Traditional ecological knowledge, plant identification, cultural respect, food security atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine outdoor area (field or forest edge) with a civilian elder (indigenous or grandparent) kneeling in the center-left, pointing to a wild plant (dandelion, clover). A basket with collected herbs. The left side has open space for text. On the far right side, two tiny older scouts (11-17) kneel, one taking a photo of the plant, the other writing in a notebook, seen from a distance. The traditional plant knowledge environment dominates."
 tags:
+  - biodiversidad
+  - hierbas comestibles
+  - plantas silvestres
+  - conocimiento tradicional
+  - collage
+  - usos
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-15"
@@ -53,12 +68,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - hierbas comestibles
-  - plantas silvestres
-  - conocimiento tradicional
-  - collage
-  - usos
 category:
   - Botánica
   - Etnobotánica
@@ -78,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +113,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

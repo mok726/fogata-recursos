@@ -3,23 +3,19 @@ title: "Hacer una presentación sobre hábitos sostenibles"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/hacer-una-presentacion-sobre-habitos-sostenibles/"
-description: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Presenta hábitos amigables con el medio ambiente en tu escuela o grupo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Presenta hábitos amigables con el medio ambiente en tu escuela o grupo.
+description: "Presenta hábitos amigables con el medio ambiente en tu escuela o grupo."
+summary: "Presenta hábitos amigables con el medio ambiente en tu escuela o grupo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Comunicación y liderazgo
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X326"
-image_prompt: "Older scouts ages 16-20 creating presentation on sustainable habits for school or university - energy-efficient lighting, paper recycling, heating/cooling efficiency, water conservation, waste reduction. Using slides, posters, demonstrations. Persuasive communication, environmental education, public speaking atmosphere."
+  - sacc
+activity_code: "sacc-X20"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room or school auditorium, with a projector screen in the center-left showing a slide with energy efficiency tips (LED bulbs, power strips, natural light). A laptop and a clicker. A small audience of scouts or classmates. The left side has space for text. On the far right side, a tiny older scout (16-20) stands at a podium, pointing at the screen, others seated listening, seen from a distance. The sustainable habits presentation environment dominates."
 tags:
+  - Alza tu voz
+  - sacc
+  - hábitos sostenibles
+  - presentación
+  - escuela
+  - ahorro
+  - reciclaje
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-20"
@@ -53,12 +65,6 @@ accessibility:
 activity_type:
   - Presentación
   - Educación
-etiquetas:
-  - hábitos sostenibles
-  - presentación
-  - escuela
-  - ahorro
-  - reciclaje
 category:
   - Educación
   - Comunicación
@@ -83,16 +89,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,21 +116,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Hacer una presentación sobre hábitos sostenibles
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Alza tu voz.
 Presenta hábitos amigables con el medio ambiente en tu escuela o grupo.
 
 ## Desarrollo

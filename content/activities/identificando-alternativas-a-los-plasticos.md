@@ -1,18 +1,21 @@
 ---
 title: "Identificando alternativas a los plásticos"
-duration: "15 - 20 minutos"
+duration: "15-20 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/identificando-alternativas-a-los-plasticos/"
 description: "Actividad que ayuda a los jóvenes a reducir el uso de productos plásticos mediante la búsqueda de alternativas."
 summary: "Actividad que ayuda a los jóvenes a reducir el uso de productos plásticos mediante la búsqueda de alternativas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/identificando-alternativas-a-los-plasticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Pizarra y tiza
 competencies:
@@ -20,14 +23,28 @@ competencies:
   - Autoconciencia
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 14
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X09"
-image_prompt: "Scout meeting room in Argentina. Large blackboard divided in two columns. Left column shows drawings of plastic bottle, straw, bag. Right column shows glass bottle, metal straw, cloth bag. Scout leader standing in front holding chalk. Four older teenage scouts ages 14-17 (two girls, two boys, diverse - hijab, dyed blue hair, Afro, white) sitting at tables taking notes, wearing scout neckerchiefs. Bright even lighting from windows showing Argentine cityscape. Teenagers look analytical and engaged. Educational, solution-oriented atmosphere."
+  - ptt
+activity_code: "ptt-X09"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+image_prompt: "A bright scout meeting room in Argentina, with a large blackboard dominating the left-center. The blackboard is divided into two columns: left side has drawings of plastic items, right side has drawings of eco-alternatives. Natural light from large windows. The left side is kept clean for text. On the far right side, a tiny group of older teenage scouts (14-17) sit at tables taking notes, seen from a distance. The blackboard and solution-oriented environment are the heroes."
+tags:
+  - ptt
+  - alternativas al plástico
+  - productos desechables
+  - lista de reemplazos
+  - consumo sostenible
 location: "Interior"
 participants: "6-20"
 complexity_execution: 2
@@ -37,11 +54,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Ideación
-etiquetas:
-  - alternativas al plástico
-  - productos desechables
-  - lista de reemplazos
-  - consumo sostenible
 category:
   - Medio ambiente
   - Ciencia
@@ -62,16 +74,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -98,15 +100,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

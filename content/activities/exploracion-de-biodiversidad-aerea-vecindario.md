@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-biodiversidad-aerea-vecindario/"
 description: "Recorrido para identificar especies en diferentes alturas."
 summary: "Recorrido para identificar especies en diferentes alturas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - manada
@@ -26,15 +25,28 @@ competencies:
   - Documentación
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A02"
-image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs walking through Argentine neighborhood. Using binoculars to observe shrub level, mid-air between trees, and treetops. Noticing insects, birds, leaves, fungi at different heights. Recording observations in field notebook. Urban ecology, vertical biodiversity exploration atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine neighborhood street with trees of different heights. In the center-left, a tall tree canopy, a shrub at mid-level, and a low bush. Binoculars resting on a fence. The left side has open space for text. On the far right side, three tiny scouts (5-13) walk, one looking up through binoculars, another pointing at a bird, a third writing in a field notebook, seen from a distance. The vertical biodiversity observation environment dominates."
 tags:
+  - biodiversidad
+  - vecindario
+  - alturas
+  - arbustos
+  - copas
+  - biodiversidad aérea
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -45,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Exploración
-etiquetas:
-  - vecindario
-  - alturas
-  - arbustos
-  - copas
-  - biodiversidad aérea
 category:
   - Ecología
   - Ciudad
@@ -69,16 +75,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +101,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

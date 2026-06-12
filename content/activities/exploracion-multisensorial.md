@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-multisensorial/"
 description: "Enseñanza creativa sobre biodiversidad."
 summary: "Enseñanza creativa sobre biodiversidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/exploracion-multisensorial.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -28,17 +28,31 @@ competencies:
   - Pedagogía
 responsible:
   - educador Scout
-ods:
-  - 4
-  - 15
 sdgs:
   - 4
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D12"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) designing multi-sensory biodiversity lesson. Using at least two senses - touch (fur, leaves, bark), smell (spices, flowers), taste (honey, fruit), sound (bird calls, insect buzzing), sight (photos, videos). Teaching group about biodiversity components, interactions, threats, importance. Creative pedagogy, multi-sensory learning, peer education atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+  - 15
+rama_caminantes:
+  - 3
+  - 4
+  - 15
+rama_rovers:
+  - 4
+  - 15
+image_prompt: "An Argentine scout room, with a table in the center-left covered with sensory materials: bowls of spices (smell), furs and leaves (touch), jars of honey (taste), a speaker with bird sounds (hearing), and photos (sight). A sign 'Aprende con los sentidos'. The left side has negative space for text. On the far right side, three tiny older scouts (11-17) stand, one smelling a spice, another touching a leaf, a third listening to the speaker, seen from a distance. The multi-sensory biodiversity teaching environment dominates."
 tags:
+  - biodiversidad
+  - multisensorial
+  - sentidos
+  - creatividad
+  - enseñanza
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -50,12 +64,6 @@ accessibility:
 activity_type:
   - Creatividad
   - Enseñanza
-etiquetas:
-  - multisensorial
-  - biodiversidad
-  - sentidos
-  - creatividad
-  - enseñanza
 category:
   - Educación
   - Arte
@@ -82,16 +90,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +116,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

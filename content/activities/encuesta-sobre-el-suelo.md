@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/encuesta-sobre-el-suelo/"
 description: "Realiza una encuesta para entender cómo las personas interactúan con el suelo."
 summary: "Realiza una encuesta para entender cómo las personas interactúan con el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/encuesta-sobre-el-suelo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -28,19 +28,32 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X26"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) in Argentine scout meeting room. Preparing survey results on large poster board. One scout presenting bar chart showing how people use soil (gardening, sports, construction). Others listening. Colorful charts and drawings. Bright room. Collaborative, community-focused atmosphere."
+activity_code: "suelos-X05"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a large poster board on an easel in the center-left. The poster shows a bar chart of survey results about how people use soil (gardening, sports, construction). Colorful charts and drawings. The left side has negative space for text. On the far right side, tiny scouts (5-15) stand or sit around the poster, one presenting, others listening, seen from a distance. The community survey environment dominates."
 required: true
 required_for:
   - suelos-X
 required_comment: "Actividad obligatoria"
 tags:
+  - suelos
+  - encuesta
+  - suelo
+  - comunidad
+  - exposición
+  - interacción
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -51,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio a los demás
-etiquetas:
-  - encuesta
-  - suelo
-  - comunidad
-  - exposición
-  - interacción
 category:
   - Sociología
   - Medio ambiente
@@ -80,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

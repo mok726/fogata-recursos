@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/especies-locales/"
 description: "Investiga cuáles son los principales polinizadores en tu región."
 summary: "Investiga cuáles son los principales polinizadores en tu región."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/especies-locales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -24,19 +24,30 @@ materials:
   - Guía de identificación de polinizadores (opcional)
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X80"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching local pollinators on tablet. One scout creating photo essay about native bumblebee. Photos printed or on screen. Presenting to group. Laptop, printed pictures, colorful display. Research, discovery atmosphere."
+activity_code: "polinizadores-X07"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table in the center-left covered with printed photos of local pollinators (bumblebee, butterfly, hummingbird). A tablet open to a research page. A photo essay display board being assembled. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit at the table, one gluing a photo, another writing a caption, seen from a distance. The research and presentation environment dominates."
 tags:
+  - polinizadores
+  - polinizadores locales
+  - región
+  - investigación
+  - ensayo fotográfico
+  - especies
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "4-20"
@@ -48,12 +59,6 @@ activity_type:
   - Investigación
   - Creatividad
   - Arte
-etiquetas:
-  - polinizadores locales
-  - región
-  - investigación
-  - ensayo fotográfico
-  - especies
 category:
   - Ciencia
   - Naturaleza
@@ -77,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

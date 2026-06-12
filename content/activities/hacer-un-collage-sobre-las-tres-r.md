@@ -9,16 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestro Clima.
   Haz un collage o un póster para explicar cómo reducir, reusar y reciclar.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -33,15 +34,28 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X367"
-image_prompt: "Older scouts ages 11-15 creating collage or poster explaining 3Rs - Reduce, Reuse, Recycle. Using magazine cutouts, drawings, examples. Displaying at school, church, community center. Visual communication, environmental education, creative advocacy atmosphere."
+  - sacc
+activity_code: "sacc-X61"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a large poster board on the wall in the center-left, divided into three sections: 'Reducir' (drawings of turning off lights, reusable bags), 'Reusar' (a jar, a cloth bag), 'Reciclar' (recycling bins). Magazine cutouts, glue, and markers on a table below. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) stand, one gluing a picture, the other drawing an arrow, seen from a distance. The 3R collage environment dominates."
 tags:
+  - sacc
+  - collage
+  - tres R
+  - reducir
+  - reusar
+  - reciclar
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-20"
@@ -52,12 +66,6 @@ accessibility:
 activity_type:
   - Arte
   - Educación
-etiquetas:
-  - collage
-  - tres R
-  - reducir
-  - reusar
-  - reciclar
 category:
   - Arte
   - Educación
@@ -85,16 +93,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,15 +119,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

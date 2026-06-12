@@ -3,22 +3,19 @@ title: "Evitar el agua embotellada"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/evitar-el-agua-embotellada/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Deja de comprar agua embotellada si el agua de tu grifo es segura.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Deja de comprar agua embotellada si el agua de tu grifo es segura.
+description: "Deja de comprar agua embotellada si el agua de tu grifo es segura."
+summary: "Deja de comprar agua embotellada si el agua de tu grifo es segura."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/evitar-el-agua-embotellada.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X380"
-image_prompt: "Older scouts ages 11-15 researching local tap water safety. If safe, committing to stop buying bottled water. Learning about plastic production energy, transport emissions, waste crisis. Switching to reusable bottle. Plastic pollution awareness, water conservation, single-use plastic reduction atmosphere."
+  - sacc
+activity_code: "sacc-X74"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine kitchen, with a reusable water bottle and a glass of tap water in the center-left. A plastic water bottle is shown crossed out with a red X. A chart comparing cost and environmental impact of bottled vs tap water. The left side has negative space for text. On the far right side, a tiny older scout (11-15) fills the reusable bottle from the tap, another scout holds the glass, seen from a distance. The tap water advocacy environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - agua embotellada
+  - plástico
+  - energía
+  - reciclaje
+  - grifo
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-10"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Hábito
   - Reflexión
-etiquetas:
-  - agua embotellada
-  - plástico
-  - energía
-  - reciclaje
-  - grifo
 category:
   - Agua
   - Plástico
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Evitar el agua embotellada
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Deja de comprar agua embotellada si el agua de tu grifo es segura.
 
 ## Desarrollo

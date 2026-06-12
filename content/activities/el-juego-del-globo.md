@@ -1,21 +1,21 @@
 ---
 title: "El Juego del Globo"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-juego-del-globo/"
 description: "Reflexiona sobre conexiones globales mediante un juego con un globo terráqueo."
 summary: "Reflexiona sobre conexiones globales mediante un juego con un globo terráqueo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-juego-del-globo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -26,15 +26,28 @@ competencies:
   - Geografía
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X178"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Passing inflatable globe ball while music plays. When stops, person holding ball names a country and energy connection - oil from Saudi Arabia, lithium from Bolivia for batteries, solar panels from China. Global awareness, supply chain understanding atmosphere."
+activity_code: "energia-X47"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with an inflatable globe ball on the floor in the center-left. The left side has space for text. On the far right side, a circle of tiny scouts (7-13) sit, one holding the globe and saying a country (e.g., 'Congo' - minerales para celular), then tossing it to another. Seen from a distance. The global energy connections game environment dominates."
 tags:
+  - energia
+  - globo terráqueo
+  - países
+  - energía
+  - minerales
+  - globalización
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -45,12 +58,6 @@ accessibility:
 activity_type:
   - Juego
   - Conciencia
-etiquetas:
-  - globo terráqueo
-  - países
-  - energía
-  - minerales
-  - globalización
 category:
   - Geografía
   - Energía
@@ -72,16 +79,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +105,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

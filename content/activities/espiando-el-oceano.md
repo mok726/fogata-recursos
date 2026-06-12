@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/espiando-el-oceano/"
 description: "Los participantes crean cajas para 'espiar' el océano y reflexionan sobre los impactos del cambio climático."
 summary: "Los participantes crean cajas para 'espiar' el océano y reflexionan sobre los impactos del cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/espiando-el-oceano.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -29,15 +29,28 @@ competencies:
   - reflexión.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X222"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) creating ocean diorama in recycled shoebox - fish, coral, seaweed. Then covering half with black paper to simulate biodiversity loss from ocean acidification, warming. Discussing how to protect marine ecosystems. Creative environmental education, ocean conservation, visual metaphor atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X09"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine scout room, with a shoebox diorama on a table in the center-left. Half of the box shows a vibrant ocean scene with fish and coral; the other half is covered with black paper, representing loss. A small sign 'Antes y Después'. The left side has negative space for text. On the far right side, two tiny young scouts (5-15) sit, one pointing at the colorful side, the other at the black side, seen from a distance. The ocean diorama reflection environment dominates."
 tags:
+  - cambioclimatico
+  - océano
+  - caja
+  - biodiversidad
+  - cambio climático
+  - reflexión
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -48,12 +61,6 @@ accessibility:
 activity_type:
   - Arte
   - Reflexión
-etiquetas:
-  - océano
-  - caja
-  - biodiversidad
-  - cambio climático
-  - reflexión
 category:
   - Arte
   - Océano
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 
