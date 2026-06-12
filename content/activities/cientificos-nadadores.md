@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cientificos-nadadores/"
 description: "Observa la vida acuática mientras nadas."
 summary: "Observa la vida acuática mientras nadas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cientificos-nadadores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,17 +22,32 @@ competencies:
   - Conciencia ambiental
   - Trabajo en equipo
 responsible:
-ods:
-  - 6
-  - 14
 sdgs:
   - 6
   - 14
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X265"
-image_prompt: "Older scouts ages 14-17 who can swim, with adult supervision, snorkeling in safe river, lake, or sea near Argentina (Río de la Plata, Mar del Plata, lakes in Patagonia). Observing underwater life - fish, plants, rocks. Drawing what they saw. Aquatic biodiversity, safe water exploration, nature connection atmosphere."
+  - agua
+activity_code: "agua-X18"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 14
+rama_caminantes:
+  - 3
+  - 6
+  - 14
+rama_rovers:
+  - 6
+  - 14
+image_prompt: "A safe Argentine river, lake, or sea (e.g., Mar del Plata) on a sunny day, with clear water in the center-left. Goggles and a snorkel on the shore. Underwater visible rocks and small fish. The left side has open space for text. On the far right side, a tiny older scout (14-17) swims with goggles, looking underwater, another scout watches from the shore, seen from a distance. The snorkeling biodiversity observation environment dominates."
 tags:
+  - agua
+  - nadar
+  - vida acuática
+  - observación
+  - río
+  - mar
   - Insignia del Agua
 location: "Exterior"
 participants: "4-10"
@@ -43,12 +59,6 @@ accessibility:
 activity_type:
   - Observación
   - Exploración
-etiquetas:
-  - nadar
-  - vida acuática
-  - observación
-  - río
-  - mar
 category:
   - Deporte
   - Ecología
@@ -69,16 +79,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +105,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

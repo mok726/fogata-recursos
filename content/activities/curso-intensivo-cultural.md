@@ -4,28 +4,41 @@ layout: "layouts/activity.njk"
 permalink: "/activities/curso-intensivo-cultural/"
 description: "Investiga el significado cultural del agua en diferentes regiones."
 summary: "Investiga el significado cultural del agua en diferentes regiones."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/curso-intensivo-cultural.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X266"
-image_prompt: "Older scouts ages 14-17 researching water significance in different cultures - Ganges River (Hinduism), Baptism (Christianity), Wudu (Islam), Rain dances (Native American), Songkran water festival (Thailand). Sharing findings. Cross-cultural understanding, spiritual connection to water, global traditions atmosphere."
+  - agua
+activity_code: "agua-X19"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a world map on the wall in the center-left showing icons of water in different cultures: Ganges River (Hinduism), baptism (Christianity), wudu (Islam), rain dance (Native American), Songkran (Thailand). A table with research notes. The left side has negative space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at the Ganges, the other at the baptism icon, seen from a distance. The water and culture research environment dominates."
 tags:
+  - agua
+  - cultura
+  - religión
+  - arte
+  - tradiciones
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -35,12 +48,6 @@ accessibility:
   - -Auditiva
 activity_type:
   - Investigación
-etiquetas:
-  - agua
-  - cultura
-  - religión
-  - arte
-  - tradiciones
 category:
   - Cultura
   - Antropología
@@ -60,16 +67,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -96,15 +93,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

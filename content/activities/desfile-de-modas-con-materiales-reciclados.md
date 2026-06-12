@@ -3,22 +3,19 @@ title: "Desfile de modas con materiales reciclados"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-de-modas-con-materiales-reciclados/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Haz un desfile de modas con vestuario elaborado con materiales reciclados.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Haz un desfile de modas con vestuario elaborado con materiales reciclados.
+description: "Haz un desfile de modas con vestuario elaborado con materiales reciclados."
+summary: "Haz un desfile de modas con vestuario elaborado con materiales reciclados."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -35,15 +32,29 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X373"
-image_prompt: "Older scouts ages 11-15 creating fashion show using recycled materials - newspaper dresses, bottle cap jewelry, cardboard hats, plastic bag capes. Modeling for audience. Creative reuse, upcycling fashion, artistic expression, environmental message atmosphere."
+  - sacc
+activity_code: "sacc-X67"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room or outdoor stage, with a makeshift runway in the center-left. Scouts wearing outfits made from recycled materials: newspaper dress, bottle cap jewelry, plastic bag cape, cardboard hat. A small audience of scouts and families. The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) walk the runway, one striking a pose, another showing off a cardboard hat, seen from a distance. The recycled fashion show environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - desfile
+  - modas
+  - reciclados
+  - vestuario
+  - creatividad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "6-20"
@@ -54,12 +65,6 @@ accessibility:
 activity_type:
   - Arte
   - Moda
-etiquetas:
-  - desfile
-  - modas
-  - reciclados
-  - vestuario
-  - creatividad
 category:
   - Arte
   - Reciclaje
@@ -92,16 +97,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -129,21 +124,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Desfile de modas con materiales reciclados
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Haz un desfile de modas con vestuario elaborado con materiales reciclados.
 
 ## Desarrollo

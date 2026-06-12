@@ -3,23 +3,19 @@ title: "Diseñar notas recordatorias para ahorrar energía"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/disenar-notas-recordatorias-para-ahorrar-energia/"
-description: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Crea notas para recordar apagar luces y aparatos eléctricos.
-summary: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Crea notas para recordar apagar luces y aparatos eléctricos.
+description: "Crea notas para recordar apagar luces y aparatos eléctricos."
+summary: "Crea notas para recordar apagar luces y aparatos eléctricos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -33,17 +29,33 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 12
 sdgs:
   - 7
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X319"
-image_prompt: "Young scouts ages 5-10 creating reminder stickers - Apágame (Turn me off). Placing on light switches, appliances, water faucets at home and school. Simple act of energy conservation awareness, creative design, habit reinforcement atmosphere."
+  - sacc
+activity_code: "sacc-X13"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 12
+rama_caminantes:
+  - 3
+  - 7
+  - 12
+rama_rovers:
+  - 7
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left covered with art supplies: paper, markers, stickers, and finished reminder signs saying 'Apágame' with light bulb and faucet drawings. A roll of tape. The left side has negative space for text. On the far right side, two tiny young scouts (5-10) sit, one coloring a sign, the other adding a sticker, seen from a distance. The energy reminder craft environment dominates."
 tags:
+  - Sé creativo
+  - sacc
+  - recordatorios
+  - ahorro de energía
+  - apagar
+  - luces
+  - agua
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -54,12 +66,6 @@ accessibility:
 activity_type:
   - Arte
   - Creatividad
-etiquetas:
-  - recordatorios
-  - ahorro de energía
-  - apagar
-  - luces
-  - agua
 category:
   - Hogar
   - Energía
@@ -83,16 +89,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,21 +116,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Diseñar notas recordatorias para ahorrar energía
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Sé creativo.
 Crea notas para recordar apagar luces y aparatos eléctricos.
 
 ## Desarrollo

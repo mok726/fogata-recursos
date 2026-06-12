@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/conservacion-in-situ-vs-ex-situ/"
 description: "Análisis de estrategias."
 summary: "Análisis de estrategias."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/conservacion-in-situ-vs-ex-situ.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,28 @@ competencies:
   - Evaluación
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D13"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning about in-situ conservation (national parks, protected areas) vs ex-situ (zoos, botanical gardens, seed banks). Examples in Argentina - Los Glaciares National Park (in-situ), Ecoparque Buenos Aires (ex-situ zoo), Banco de Germoplasma INTA (ex-situ seed bank). Discussing when to use each, effectiveness. Conservation strategy evaluation, protected area management, ecological restoration atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a poster on the wall in the center-left split into two columns: 'In-situ' (photo of Los Glaciares National Park) and 'Ex-situ' (photo of Ecoparque Buenos Aires and a seed bank). A table with data and examples. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the national park photo, the other at the seed bank, seen from a distance. The conservation strategies comparison environment dominates."
 tags:
+  - biodiversidad
+  - conservación in-situ
+  - ex-situ
+  - parques nacionales
+  - jardines botánicos
+  - bancos de semillas
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Comparación
-etiquetas:
-  - conservación in-situ
-  - ex-situ
-  - parques nacionales
-  - jardines botánicos
-  - bancos de semillas
 category:
   - Conservación
   - Biología
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

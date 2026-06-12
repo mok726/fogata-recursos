@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-salud/"
 description: "Los participantes investigan cómo el clima afecta la salud."
 summary: "Los participantes investigan cómo el clima afecta la salud."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/clima-y-salud.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,17 +29,31 @@ competencies:
   - comunicación.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 3
-  - 13
 sdgs:
   - 3
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X229"
-image_prompt: "Older scouts ages 11-21 researching climate-sensitive diseases - malaria (spreading to new areas as temperatures rise), dengue, Lyme disease, heat stroke. Creating presentation on connections between climate change and health. Public health, climate impacts, scientific communication atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X16"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 3
+  - 13
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a simple diagram: warmer temperatures → mosquitoes → malaria spreading. A laptop with WHO data and a notebook with presentation notes. The left side has space for text. On the far right side, two tiny older scouts (11-21) sit, one pointing at the diagram, the other typing, seen from a distance. The climate and health presentation environment dominates."
 tags:
+  - cambioclimatico
+  - enfermedad
+  - malaria
+  - clima
+  - salud
+  - presentación
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -51,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Presentación
-etiquetas:
-  - enfermedad
-  - malaria
-  - clima
-  - salud
-  - presentación
 category:
   - Salud
   - Clima
@@ -80,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

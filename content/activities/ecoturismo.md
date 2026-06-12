@@ -1,21 +1,21 @@
 ---
 title: "ECOTURISMO"
-duration: "4-5 horas (investigación + extensión)"
+duration: "4-5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ecoturismo/"
 description: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
 summary: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ecoturismo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +30,31 @@ competencies:
   - Pensamiento empresarial
 responsible:
   - Scouter o experto en turismo
-ods:
-  - 8
-  - 12
 sdgs:
   - 8
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-B09"
-image_prompt: "Older scouts ages 16-21 researching ecotourism examples that protect forests - Costa Rica (Monteverde Cloud Forest), Brazil (Amazon lodges), Kenya (forest canopy walks), Australia (Daintree). Creating travel brochure for imaginary local ecotourism destination. Sustainable tourism, economic incentives for conservation, community benefit, creative marketing atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 8
+  - 12
+rama_caminantes:
+  - 3
+  - 8
+  - 12
+rama_rovers:
+  - 8
+  - 12
+image_prompt: "An Argentine scout room, with a travel brochure on the wall in the center-left for an imaginary ecotourism destination (e.g., 'Bosque Andino - Vive la naturaleza'). Photos of canopy walks, local food, birdwatching. A laptop with research on real ecotourism examples. The left side has negative space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the brochure, the other holding a camera, seen from a distance. The ecotourism brochure design environment dominates."
 tags:
+  - bosques
+  - ecoturismo
+  - conservación
+  - comunidades locales
+  - turismo sostenible
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -51,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Diseño
-etiquetas:
-  - ecoturismo
-  - bosques
-  - conservación
-  - comunidades locales
-  - turismo sostenible
 category:
   - Turismo
   - Conservación
@@ -83,16 +91,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +117,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

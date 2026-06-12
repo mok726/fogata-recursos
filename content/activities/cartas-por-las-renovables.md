@@ -1,21 +1,21 @@
 ---
 title: "Cartas por las Renovables"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cartas-por-las-renovables/"
 description: "Escribe a autoridades para promover energías limpias."
 summary: "Escribe a autoridades para promover energías limpias."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cartas-por-las-renovables.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,15 +28,36 @@ competencies:
   - Ciudadanía activa
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 16
 sdgs:
   - 16
+  - 7
+  - 13
 activity_badges:
   - energia
-activity_code: "energia-X157"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching Argentina's renewable energy percentage. Writing formal letter to Energy Minister or local representative requesting more investment in solar, wind, geothermal. Crafting persuasive arguments. Political engagement, advocacy, formal writing atmosphere."
+activity_code: "energia-X26"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+  - 16
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+  - 16
+rama_rovers:
+  - 7
+  - 13
+  - 16
+image_prompt: "An Argentine scout room, with a table in the center-left. A laptop showing statistics of renewable energy in Argentina, a printed draft letter to the Energy Minister, and an envelope. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one reading the letter, the other holding a pen, seen from a distance. The advocacy letter writing environment dominates."
 tags:
+  - energia
+  - carta
+  - autoridades
+  - energías limpias
+  - renovables
+  - advocacy
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -48,12 +69,6 @@ activity_type:
   - Escritura
   - Ciudadanía
   - Activismo
-etiquetas:
-  - carta
-  - autoridades
-  - energías limpias
-  - renovables
-  - advocacy
 category:
   - Política
   - Energía
@@ -77,16 +92,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +118,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

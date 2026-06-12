@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-clima-de-tu-comunidad/"
 description: "Los participantes investigan el clima local y su impacto."
 summary: "Los participantes investigan el clima local y su impacto."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-clima-de-tu-comunidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +26,28 @@ competencies:
   - comunicación.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X214"
-image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs interviewing local farmers, shopkeepers, elderly residents about climate changes they've observed - changing rainfall, hotter summers, different growing seasons. Recording findings. Sharing with group. Local climate research, oral history, community connection atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X02"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine neighborhood street or rural area, with a bench in the center-left where a civilian elderly person sits. A notebook and a recorder on the bench. The left side has open space for text. On the far right side, a tiny older scout (11-21) stands, notebook in hand, interviewing the elder, another scout listening in the background, seen from a distance. The community climate interview environment dominates."
 tags:
+  - cambioclimatico
+  - clima local
+  - comunidad
+  - entrevistas
+  - impacto
+  - cambio climático
   - Insignia del Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - clima local
-  - comunidad
-  - entrevistas
-  - impacto
-  - cambio climático
 category:
   - Clima
   - Sociología
@@ -72,16 +78,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +104,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

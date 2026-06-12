@@ -5,24 +5,43 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cuando-se-degradan/"
 description: "Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales."
 summary: "Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cuando-se-degradan.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 15
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X11"
-image_prompt: "Outdoor garden or schoolyard in Argentina. Three older teenage scouts ages 14-17 (girl with braids, boy with glasses and short Afro hair, girl with long straight hair) wearing scout neckerchiefs, kneeling next to six clear glass jars partially buried in soil in two rows. Each jar contains different waste - plastic bottle, paper, glass shard, banana peel, aluminum can, styrofoam cup. Small labels with week numbers (1,2,4,8,12,24). One scout holding clipboard and pencil writing observations. Another scout pointing at banana peel jar showing visible degradation. Sunny day, blue sky, trees. Scientific, patient atmosphere."
+  - ptt
+activity_code: "ptt-X11"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 9
+image_prompt: "An outdoor garden or schoolyard in Argentina. In the center-left, six clear glass jars are partially buried in soil in two rows, each containing different waste: plastic bottle, paper, glass, banana peel, aluminum can, styrofoam cup. Small labels with week numbers. The left side has negative space for text. On the far right side, three tiny older teenage scouts (14-17) kneel next to the jars, one holding a clipboard, seen from a distance. The scientific experiment environment dominates."
+tags:
+  - ptt
+  - degradación
+  - residuos
+  - 12 semanas
+  - experimento
+  - gráfico de observación
 location: "Exterior"
 participants: "5-20"
 complexity_execution: 2
@@ -32,12 +51,6 @@ accessibility:
 activity_type:
   - Investigación
   - Experimento
-etiquetas:
-  - degradación
-  - residuos
-  - 12 semanas
-  - experimento
-  - gráfico de observación
 category:
   - Ciencia
   - Medio ambiente
@@ -62,16 +75,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -98,15 +101,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

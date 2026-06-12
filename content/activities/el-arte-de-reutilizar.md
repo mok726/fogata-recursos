@@ -1,32 +1,50 @@
 ---
 title: "El Arte de Reutilizar"
-duration: "30 - 40 minutos"
+duration: "30-40 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-arte-de-reutilizar/"
 description: "Actividad que anima a los jóvenes a crear obras de arte con plásticos desechados."
 summary: "Actividad que anima a los jóvenes a crear obras de arte con plásticos desechados."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-arte-de-reutilizar.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Artículos descartables (latas
   - plástico
   - pajillas)
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 14
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X07"
-image_prompt: "Sunny Argentine beach or riverside. Four older teenage scouts (14-17 years old, two boys, two girls, diverse - long braids, short curly hair, buzzed hair) wearing scout uniforms with neckerchiefs. Collecting plastic waste (bottles, caps, straws) with gloves and cloth bags. Background shows completed large sculpture made from collected plastic waste shaped like sea turtle. One scout taking photo with smartphone. Blue sky with clouds. Scouts look proud and empowered. Argentine landscape, no flags. Empowering, creative atmosphere."
+  - ptt
+activity_code: "ptt-X07"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 11
+image_prompt: "A sunny Argentine beach or riverside landscape filling most of the image. The left and center show a natural shore with waves, and in the middle distance a large sculpture made of plastic waste shaped like a sea turtle. Blue sky with clouds. The left side is airy for text. On the far right side, tiny distant figures of four older teenage scouts (14-17) collect plastic waste with gloves and bags. The environment and the sculpture are protagonists."
+tags:
+  - ptt
+  - arte
+  - plástico desechado
+  - residuos
+  - reciclaje
+  - redes sociales
 location: "Exterior"
 participants: "5-25"
 complexity_execution: 2
@@ -37,12 +55,6 @@ accessibility:
 activity_type:
   - Creatividad
   - Arte
-etiquetas:
-  - arte
-  - plástico desechado
-  - residuos
-  - reciclaje
-  - redes sociales
 category:
   - Arte
   - Medio ambiente
@@ -66,16 +78,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +104,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

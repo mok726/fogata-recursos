@@ -3,23 +3,19 @@ title: "Construir un horno solar"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/construir-un-horno-solar/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende a construir un horno solar para cocinar de manera sostenible.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende a construir un horno solar para cocinar de manera sostenible.
+description: "Aprende a construir un horno solar para cocinar de manera sostenible."
+summary: "Aprende a construir un horno solar para cocinar de manera sostenible."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/construir-un-horno-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,18 +26,35 @@ competencies:
   - Habilidades prácticas
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X390"
-image_prompt: "Older scouts ages 16-20 building solar oven from cardboard box, aluminum foil, glass or plastic cover, black paper. Cooking simple food (s'mores, cheese melt, vegetables) using sun's energy. Learning about renewable energy, passive solar cooking, appropriate technology. Hands-on engineering, sustainable cooking demonstration, solar energy appreciation atmosphere."
-similar_activities: "http -//www.sitiosolar.com/Horno%20Solar%20de%20caja.htm"
+  - sacc
+activity_code: "sacc-X84"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "A sunny Argentine outdoor area, with a cardboard box solar oven in the center-left, lined with aluminum foil and with a glass top. A black pot inside cooking a simple dish. A thermometer showing temperature. The left side has open space for text. On the far right side, two tiny older scouts (16-20) kneel, one adjusting the oven's angle toward the sun, the other checking the thermometer, seen from a distance. The solar oven building environment dominates."
+similar_activities:
+  - http://www.sitiosolar.com/Horno%20Solar%20de%20caja.htm
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - horno solar
+  - cocina solar
+  - energía renovable
+  - construcción
+  - cartón
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "4-10"
@@ -52,12 +65,6 @@ accessibility:
 activity_type:
   - Construcción
   - Energía
-etiquetas:
-  - horno solar
-  - cocina solar
-  - energía renovable
-  - construcción
-  - cartón
 category:
   - Energía
   - Tecnología
@@ -86,16 +93,14 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://www.sitiosolar.com/Horno%20Solar%20de%20caja.htm#procesodeconstruccion"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://www.sitiosolar.com/Horno%20Solar%20de%20caja.htm"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,21 +128,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Construir un horno solar
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Aprende a construir un horno solar para cocinar de manera sostenible.
 
 ## Desarrollo

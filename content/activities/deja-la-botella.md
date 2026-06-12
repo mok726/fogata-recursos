@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/deja-la-botella/"
 description: "Actividad para promover el uso de agua del grifo en lugar de agua embotellada."
 summary: "Actividad para promover el uso de agua del grifo en lugar de agua embotellada."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/deja-la-botella.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +30,28 @@ competencies:
   - Comunicación
 responsible:
   - Líder de grupo
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X304"
-image_prompt: "Older scouts ages 14-21 researching tap water safety in area. Creating social media campaign encouraging tap water over bottled water - plastic waste, carbon footprint, microplastics, cost comparison. Educating community. Environmental advocacy, plastic pollution awareness, behavior change campaign atmosphere."
+  - agua
+activity_code: "agua-X57"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left displaying a reusable water bottle next to a single-use plastic bottle, and a chart comparing cost and environmental impact. A smartphone showing a social media campaign with the hashtag '#DejaLaBotella'. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one holding the reusable bottle, the other typing on the phone, seen from a distance. The tap water campaign environment dominates."
 tags:
+  - agua
+  - agua embotellada
+  - grifo
+  - campaña
+  - plástico
+  - consumo
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
@@ -50,12 +63,6 @@ accessibility:
 activity_type:
   - Campaña
   - Activismo
-etiquetas:
-  - agua embotellada
-  - grifo
-  - campaña
-  - plástico
-  - consumo
 category:
   - Plástico
   - Agua
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/convertirse-en-un-cientifico-ciudadano/"
 description: "Participa en proyectos de ciencia ciudadana para ayudar a los polinizadores."
 summary: "Participa en proyectos de ciencia ciudadana para ayudar a los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -23,18 +23,31 @@ materials:
   - Dispositivo con acceso a internet
 responsible:
   - Responsable del grupo
-ods:
-  - 15
-  - 17
 sdgs:
   - 15
   - 17
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X118"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or scout room. Participating in citizen science project - counting bees in 15-minute period, uploading observations to app (iNaturalist or similar). Contributing real data to science. Learning they can help research. Empowering, scientific contribution atmosphere."
-similar_activities: "https -//www.inaturalist.org/projects/pollinators\nhttps -//www.greatsunflower.org/"
+activity_code: "polinizadores-X45"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine park or garden, with a smartphone on a tripod in the center-left, the screen showing a citizen science app (iNaturalist). A small notebook with a tally of observed pollinators. The left side has open space for text. On the far right side, two tiny young scouts (5-10) stand, one holding the phone, the other looking at a butterfly, seen from a distance. The citizen science observation environment dominates."
+similar_activities:
+  - https://www.inaturalist.org/projects/pollinators
+  - https://www.greatsunflower.org/
 tags:
+  - polinizadores
+  - ciencia ciudadana
+  - recolección de datos
+  - proyectos
+  - contribución
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "4-20"
@@ -45,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio a los demás
-etiquetas:
-  - ciencia ciudadana
-  - polinizadores
-  - recolección de datos
-  - proyectos
-  - contribución
 category:
   - Ciencia
   - Tecnología
@@ -71,16 +78,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.inaturalist.org/projects/pollinators"
+    caption: "Similares en la Web"
+    icon: "read_more"
+  - filepath: "https://www.greatsunflower.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +112,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

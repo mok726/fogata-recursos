@@ -9,16 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Aprende a cocinar una comida sana y amigable con el medio ambiente.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -29,17 +30,32 @@ competencies:
   - Habilidades culinarias
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X384"
-image_prompt: "Older scouts ages 11-15 cooking healthy, sustainable meal for family. Using local, seasonal, unpackaged ingredients. Making shopping list to avoid waste. Learning recipe, cooking skills. Sharing meal. Food literacy, sustainable cooking, family bonding, practical life skills atmosphere."
+  - sacc
+activity_code: "sacc-X78"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine kitchen, with a stove and a pot of cooking vegetables in the center-left. A cutting board with local seasonal ingredients (tomatoes, peppers, herbs). A shopping list with only local items. A plate with a finished meal. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) stand at the counter, one chopping vegetables, the other stirring the pot, seen from a distance. The sustainable cooking environment dominates."
 tags:
+  - sacc
+  - cocinar
+  - comida sana
+  - sostenible
+  - local
+  - receta
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (cocina)"
 participants: "4-8"
@@ -50,12 +66,6 @@ accessibility:
 activity_type:
   - Cocina
   - Aprendizaje
-etiquetas:
-  - cocinar
-  - comida sana
-  - sostenible
-  - local
-  - receta
 category:
   - Alimentación
   - Cocina
@@ -83,16 +93,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +119,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

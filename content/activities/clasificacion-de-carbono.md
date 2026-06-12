@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/clasificacion-de-carbono/"
 description: "Los participantes investigan las emisiones de CO2 por país."
 summary: "Los participantes investigan las emisiones de CO2 por país."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/clasificacion-de-carbono.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -31,15 +30,28 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X245"
-image_prompt: "Older scouts ages 11-21 researching CO2 emissions by country (total and per capita). Creating ranked poster - top emitters (China, USA, India, Russia) and per capita leaders (Qatar, Australia, US). Also showing low emitters. Discussing responsibility, historical emissions, development. Climate justice, data visualization, global inequality awareness atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X32"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a large poster on the wall in the center-left showing a bar chart of CO2 emissions per capita: Qatar (highest), USA, Australia, China, India, Kenya (lowest). A world map with color-coded countries. The left side has space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the Qatar bar, the other at Kenya, seen from a distance. The carbon emissions ranking environment dominates."
 tags:
+  - cambioclimatico
+  - emisiones CO2
+  - países
+  - ranking
+  - cartel
+  - datos
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - emisiones CO2
-  - países
-  - ranking
-  - cartel
-  - datos
 category:
   - Clima
   - Geografía
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

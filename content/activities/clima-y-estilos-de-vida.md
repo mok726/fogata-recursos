@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-estilos-de-vida/"
 description: "Los participantes investigan cómo el clima afecta la calidad de vida."
 summary: "Los participantes investigan cómo el clima afecta la calidad de vida."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/clima-y-estilos-de-vida.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +29,28 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X232"
-image_prompt: "Older scouts ages 11-21 researching how climate influences quality of life - where people vacation (beach vs mountains), outdoor recreation (skiing, swimming), health (heat waves, cold spells), clothing, housing design. Creating poster. Climate and society connections, adaptation strategies atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X19"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a poster board in the center-left divided into seasons: summer (beach, shorts), winter (snow, jacket), spring (flowers, hiking). Images cut from magazines. A notebook with research notes. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) sit, one gluing a picture, the other writing a caption, seen from a distance. The climate and lifestyle poster environment dominates."
 tags:
+  - cambioclimatico
+  - clima
+  - estilo de vida
+  - viajes
+  - recreación
+  - bienestar
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - clima
-  - estilo de vida
-  - viajes
-  - recreación
-  - bienestar
 category:
   - Sociología
   - Clima
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

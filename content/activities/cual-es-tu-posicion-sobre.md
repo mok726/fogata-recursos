@@ -1,35 +1,53 @@
 ---
 title: "¿Cuál es tu posición sobre...?"
-duration: "30 -40 min"
+duration: "30-40 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-es-tu-posicion-sobre/"
 description: "Esta actividad busca explorar las actitudes, valores y perspectivas de las personas sobre la sostenibilidad y la naturaleza."
 summary: "Esta actividad busca explorar las actitudes, valores y perspectivas de las personas sobre la sostenibilidad y la naturaleza."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cual-es-tu-posicion-sobre.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 competencies:
   - Pensamiento Sistémico
   - Autoconciencia
   - Pensamiento Crítico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X199"
-image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Tape line on floor - strongly agree to strongly disagree. Facilitator reads statements about sustainability. Participants position themselves on line. Discussing why they chose that position. Exploring different values and perspectives. Deep reflection, values clarification atmosphere."
+  - cfn
+activity_code: "cfn-X07"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a line of tape on the floor in the center-left. One end labeled 'Muy de acuerdo', the other 'Muy en desacuerdo'. The left side has negative space for text. On the far right side, a group of tiny older youths (15+) stand along the line, one at the 'de acuerdo' end, another in the middle, a third at the 'desacuerdo' end. Seen from a distance. The values line environment dominates."
 tags:
+  - cfn
+  - actitudes
+  - valores
+  - sostenibilidad
+  - línea de acuerdo
+  - perspectivas
   - Champions for Nature
 location: "Interior"
 participants: "6-20"
@@ -41,12 +59,6 @@ accessibility:
 activity_type:
   - Debate
   - Reflexión
-etiquetas:
-  - actitudes
-  - valores
-  - sostenibilidad
-  - línea de acuerdo
-  - perspectivas
 category:
   - Educación
   - Ética
@@ -69,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +107,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Edificios Eficientes"
-duration: "150"
+duration: "2.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/edificios-eficientes/"
 description: "Visita una construcción sostenible y haz una maqueta."
 summary: "Visita una construcción sostenible y haz una maqueta."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/edificios-eficientes.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,15 +31,31 @@ competencies:
   - Visión técnica
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 9
 sdgs:
   - 9
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X171"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs visiting sustainable building in Argentina (LEED-certified, solar panels, green roof). Taking photos. Building model with cardboard, labeling efficient features - solar panels, double-glazed windows, insulation. Presenting. Sustainable architecture, future-thinking atmosphere."
+activity_code: "energia-X40"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 9
+rama_caminantes:
+  - 3
+  - 7
+  - 9
+rama_rovers:
+  - 7
+  - 9
+image_prompt: "An Argentine scout room, with a table in the center-left. A scale model of a sustainable building made of cardboard, labeled with features: 'paneles solares', 'ventanas dobles', 'aislación'. A photo of a LEED-certified building on the wall. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at a solar panel on the model, the other holding a label, seen from a distance. The sustainable architecture model environment dominates."
 tags:
+  - energia
+  - edificio sostenible
+  - eficiencia energética
+  - paneles solares
+  - maqueta
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "4-15"
@@ -50,11 +66,6 @@ accessibility:
 activity_type:
   - Construcción
   - Investigación
-etiquetas:
-  - edificio sostenible
-  - eficiencia energética
-  - paneles solares
-  - maqueta
 category:
   - Arquitectura
   - Energía
@@ -79,16 +90,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +116,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

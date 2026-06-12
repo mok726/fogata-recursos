@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/de-suelos-organicos/"
 description: "Investiga productos orgánicos y de comercio justo en tu supermercado local."
 summary: "Investiga productos orgánicos y de comercio justo en tu supermercado local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/de-suelos-organicos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +25,30 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
+  - 12
+  - 2
 activity_badges:
   - suelos
-activity_code: "suelos-X71"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine supermarket or scout room. Looking at organic certification labels on products. Researching how organic farming protects soil health (no synthetic pesticides, crop rotation). Preparing short presentation. Consumer-conscious atmosphere."
+activity_code: "suelos-X50"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine supermarket aisle or scout room with product samples. In the center-left, a shelf with organic and fair-trade certified products (coffee, chocolate, vegetables). A smartphone showing a website about organic farming benefits for soil. The left side has space for text. On the far right side, tiny older scouts (11-17) stand holding products, examining labels, seen from a distance. The consumer-awareness environment dominates."
 tags:
+  - suelos
+  - orgánico
+  - comercio justo
+  - supermercado
+  - suelo
+  - consumo
   - Insignia de los Suelos
 location: "Interior / Exterior"
 participants: "4-20"
@@ -45,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - orgánico
-  - comercio justo
-  - supermercado
-  - suelo
-  - consumo
 category:
   - Economía
   - Consumo
@@ -73,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

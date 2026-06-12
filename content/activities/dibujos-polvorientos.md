@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-polvorientos/"
 description: "Crea pinturas usando tierra de diferentes colores."
 summary: "Crea pinturas usando tierra de diferentes colores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/dibujos-polvorientos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -28,15 +28,27 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X44"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or scout room. Collecting different colored soils (red, brown, dark). Grinding into powder, mixing with water in small containers. Painting on paper with fingers or brushes. Colorful earth-toned artwork drying on table. Creative, messy, joyful atmosphere."
+activity_code: "suelos-X23"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 11
+image_prompt: "An Argentine outdoor space or scout room. In the center-left, several small containers with different colored soils (red, brown, dark) ground into powder and mixed with water. Paintings made with earth tones drying on paper. The left side has space for text. On the far right side, tiny scouts (5-15) kneel or sit, using fingers or brushes to paint, with colorful earth-toned artwork, seen from a distance. The natural art environment dominates."
 tags:
+  - suelos
+  - pintura de tierra
+  - arte
+  - suelo
+  - colores
+  - creatividad
   - Insignia de los Suelos
 location: "Exterior / Interior"
 participants: "4-15"
@@ -49,12 +61,6 @@ activity_type:
   - Creatividad
   - Arte
   - Aprender haciendo
-etiquetas:
-  - pintura de tierra
-  - arte
-  - suelo
-  - colores
-  - creatividad
 category:
   - Arte
   - Medio ambiente
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +106,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

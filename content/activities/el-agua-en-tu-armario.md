@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-en-tu-armario/"
 description: "Investiga la huella hídrica de tus posesiones favoritas."
 summary: "Investiga la huella hídrica de tus posesiones favoritas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-agua-en-tu-armario.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,17 +22,32 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X280"
-image_prompt: "Older scouts ages 14-17 listing 5 favorite possessions - jeans (10,000 L water to produce one pair), smartphone (13,000 L), leather shoes (8,000 L), t-shirt (2,700 L), laptop (20,000 L). Researching virtual water. Discussing surprising results. Comparing with others. Raising awareness about water embedded in consumer goods. Conscious consumption, supply chain thinking, material footprint atmosphere."
+  - agua
+activity_code: "agua-X33"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine scout room or home, with a table in the center-left displaying favorite possessions: jeans (10,000 L), smartphone (13,000 L), leather shoes (8,000 L), t-shirt (2,700 L), laptop (20,000 L). Small water footprint labels next to each. A surprised expression on the scout. The left side has negative space for text. On the far right side, a tiny older scout (14-17) sits, holding the jeans, looking at the label, another points at the smartphone, seen from a distance. The virtual water in possessions environment dominates."
 tags:
+  - agua
+  - agua virtual
+  - productos
+  - jeans
+  - teléfono
+  - huella hídrica
   - Insignia del Agua
 location: "Interior"
 participants: "4-10"
@@ -41,12 +57,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - agua virtual
-  - productos
-  - jeans
-  - teléfono
-  - huella hídrica
 category:
   - Consumo
   - Agua
@@ -66,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

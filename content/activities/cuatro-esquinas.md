@@ -1,34 +1,52 @@
 ---
 title: "Cuatro Esquinas"
-duration: "20 -30 min"
+duration: "20-30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuatro-esquinas/"
 description: "Esta actividad ayuda a los participantes a compartir opiniones relacionadas con la producción sostenible y a considerar las perspectivas de otros."
 summary: "Esta actividad ayuda a los participantes a compartir opiniones relacionadas con la producción sostenible y a considerar las perspectivas de otros."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cuatro-esquinas.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 competencies:
   - Autoconciencia
   - Pensamiento Crítico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X200"
-image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Four corners labeled with different options. Facilitator reads questions about sustainable consumption. Participants move to corner representing their opinion. Discussing choices with others in same corner, then sharing with whole group. Opinion-sharing, perspective-taking atmosphere."
+  - cfn
+activity_code: "cfn-X08"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with four corners labeled with signs (A, B, C, D or options like 'Orgánico', 'Convencional', 'Local', 'Importado'). The left side has space for text. On the far right side, a group of tiny older youths (15+) move to different corners, some clustering, some alone, seen from a distance. The opinion corners environment dominates."
 tags:
+  - cfn
+  - cuatro esquinas
+  - opiniones
+  - consumo
+  - sostenibilidad
+  - decisiones
   - Champions for Nature
 location: "Interior"
 participants: "8-30"
@@ -39,12 +57,6 @@ accessibility:
 activity_type:
   - Debate
   - Juego
-etiquetas:
-  - cuatro esquinas
-  - opiniones
-  - consumo
-  - sostenibilidad
-  - decisiones
 category:
   - Educación
   - Debate
@@ -69,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +107,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

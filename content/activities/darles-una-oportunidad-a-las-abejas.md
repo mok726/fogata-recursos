@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/darles-una-oportunidad-a-las-abejas/"
 description: "Haz que tu jardín en casa o en la escuela sea más amigable para los polinizadores."
 summary: "Haz que tu jardín en casa o en la escuela sea más amigable para los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/darles-una-oportunidad-a-las-abejas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -29,11 +29,6 @@ competencies:
   - Observación
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
-  - 8
 sdgs:
   - 1
   - 2
@@ -41,14 +36,32 @@ sdgs:
   - 8
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X102"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine home or school garden. Planting native flowers in clusters. Adding bird bath with stones for water. Building simple bee hotel. Creating shelter with leaves and twigs. Before and after transformation. Hands-on conservation atmosphere."
-similar_activities: "https -//kidsgardening.org/ten-tips-to-help-pollinators/"
+activity_code: "polinizadores-X29"
+rama_lobatos:
+  - 1
+  - 4
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine home or school garden. In the center-left, a transformed garden: a cluster of native flowers, a shallow bird bath with stones, a simple bee hotel hanging on a fence, and a small pile of leaves and twigs. A 'before' photo on a small sign. The left side has space for text. On the far right side, tiny young scouts (5-10) kneel near the flowers, one pointing at a bee, another adding water to the bird bath, seen from a distance. The pollinator-friendly garden environment dominates."
+similar_activities:
+  - https://kidsgardening.org/ten-tips-to-help-pollinators/
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - jardín amigable
+  - flores nativas
+  - agua
+  - hotel de abejas
+  - hábitat
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "2-10"
@@ -59,12 +72,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
-etiquetas:
-  - jardín amigable
-  - flores nativas
-  - agua
-  - hotel de abejas
-  - hábitat
 category:
   - Jardinería
   - Medio ambiente
@@ -90,16 +97,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://kidsgardening.org/ten-tips-to-help-pollinators/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -126,15 +128,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

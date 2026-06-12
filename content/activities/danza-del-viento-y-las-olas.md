@@ -1,21 +1,21 @@
 ---
 title: "Danza del Viento y las Olas"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/danza-del-viento-y-las-olas/"
 description: "Representa con baile cómo el Sol crea vientos y olas."
 summary: "Representa con baile cómo el Sol crea vientos y olas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/danza-del-viento-y-las-olas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -26,15 +26,32 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X139"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor space. Creating dance showing how sun heats air (rising arms) creating wind (swirling movements) and ocean currents (wave-like motions). Performing with music. Kinesthetic learning, artistic expression atmosphere."
+activity_code: "energia-X08"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 7
+rama_caminantes:
+  - 3
+  - 13
+  - 7
+rama_rovers:
+  - 13
+  - 7
+image_prompt: "An Argentine scout room or outdoor space, with open floor area in the center-left. A speaker playing soft music with ocean sounds. The left side has space for text. On the far right side, a group of tiny scouts (7-13) dance with flowing movements: arms swirling like wind, bodies undulating like waves. Seen from a distance, their small figures expressing the elements. The dance environment dominates."
 tags:
+  - energia
+  - viento
+  - olas
+  - Sol
+  - danza
+  - corrientes
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "6-20"
@@ -47,12 +64,6 @@ activity_type:
   - Arte
   - Danza
   - Expresión corporal
-etiquetas:
-  - viento
-  - olas
-  - Sol
-  - danza
-  - corrientes
 category:
   - Arte
   - Ciencia
@@ -75,16 +86,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +112,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

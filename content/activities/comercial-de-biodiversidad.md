@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/comercial-de-biodiversidad/"
 description: "Creación de contenido audiovisual."
 summary: "Creación de contenido audiovisual."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/comercial-de-biodiversidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,15 +29,27 @@ competencies:
   - Marketing social
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D22"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) creating 30-60 second video commercial about biodiversity importance. Filming, editing. Uploading to YouTube (with parental permission). Tracking views and comments for one month. Reporting results to group. Media production, conservation messaging, digital literacy, impact measurement atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room or outdoor setting, with a smartphone on a tripod in the center-left, recording a video. A simple backdrop with a sign 'Salvemos la Biodiversidad'. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand in front of the camera, one holding a poster, the other speaking, seen from a distance. The biodiversity commercial filming environment dominates."
 tags:
+  - biodiversidad
+  - comercial
+  - video
+  - YouTube
+  - conciencia
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-10"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Video
   - Comunicación
-etiquetas:
-  - comercial
-  - biodiversidad
-  - video
-  - YouTube
-  - conciencia
 category:
   - Comunicación
   - Marketing
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +110,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

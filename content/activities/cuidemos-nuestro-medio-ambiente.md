@@ -9,16 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestro Clima.
   Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria. Haz una lista de formas para reducir la cantidad de energía que usas. Sigue un plan durante al menos un mes y comparte tu experiencia.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -29,17 +30,32 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X340"
-image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) discussing energy consumption with family and leader. Making list of reduction actions - turn off lights, unplug devices, shorter showers, lower thermostat. Following plan for one month. Sharing experience with group. Energy conservation, behavior change, peer encouragement atmosphere."
+  - sacc
+activity_code: "sacc-X34"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine home, with a family (civilian parents and a scout) sitting around a kitchen table in the center-left. A list of energy-saving actions on a paper: 'Apagar luces', 'Desenchufar', 'Duchas cortas'. A calendar for a one-month plan. The left side has negative space for text. On the far right side, a tiny older scout (11-15) points at the list, parents nodding, seen from a distance. The family energy plan environment dominates."
 tags:
+  - sacc
+  - energía
+  - consumo
+  - reducción
+  - plan
+  - cambio climático
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -50,12 +66,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Planificación
-etiquetas:
-  - energía
-  - consumo
-  - reducción
-  - plan
-  - cambio climático
 category:
   - Hogar
   - Energía
@@ -75,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

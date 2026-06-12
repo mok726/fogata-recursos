@@ -3,22 +3,19 @@ title: "Construir un modelo de energía renovable"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/construir-un-modelo-de-energia-renovable/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Aprende sobre energía renovable y construye un modelo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Aprende sobre energía renovable y construye un modelo.
+description: "Aprende sobre energía renovable y construye un modelo."
+summary: "Aprende sobre energía renovable y construye un modelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/construir-un-modelo-de-energia-renovable.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -35,17 +32,33 @@ competencies:
   - Habilidades prácticas
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X309"
-image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) building renewable energy model - solar oven from cardboard box, wind turbine from bottle and motor, water wheel. Researching how renewable energy works. Presenting model to group. Hands-on engineering, renewable energy literacy, creative construction atmosphere."
+  - sacc
+activity_code: "sacc-X03"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine scout room, with a table in the center-left displaying a homemade solar oven (cardboard box, foil) and a small wind turbine model (plastic bottle, motor). A diagram of how they work. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) stand, one pointing at the solar oven, the other spinning the turbine blades, seen from a distance. The renewable energy model environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - energía renovable
+  - modelo
+  - maqueta
+  - solar
+  - eólica
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -56,12 +69,6 @@ accessibility:
 activity_type:
   - Construcción
   - Ciencia
-etiquetas:
-  - energía renovable
-  - modelo
-  - maqueta
-  - solar
-  - eólica
 category:
   - Energía
   - Tecnología
@@ -89,16 +96,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -126,21 +123,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Construir un modelo de energía renovable
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Aprende sobre energía renovable y construye un modelo.
 
 ## Desarrollo

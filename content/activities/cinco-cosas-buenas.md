@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cinco-cosas-buenas/"
 description: "Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo."
 summary: "Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cinco-cosas-buenas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,27 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Scouter o líder de grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A04"
-image_prompt: "Young scouts ages 5-15 listing 5 forest benefits - oxygen production, carbon storage, wildlife habitat, water regulation, wood products, recreation, medicine. Drawing picture showing importance. Reflecting on relevance to daily life. Creative environmental literacy, ecosystem services awareness, artistic expression atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a large drawing or poster on the wall in the center-left showing five benefits of forests: oxygen (lungs), wildlife habitat (animals), carbon storage (CO2 arrow), water regulation (river), recreation (camping). Colorful illustrations. The left side has negative space for text. On the far right side, a tiny young scout (5-15) stands, pointing at the oxygen lungs, another scout holds a drawing, seen from a distance. The forest benefits art environment dominates."
 tags:
+  - bosques
+  - beneficios
+  - naturaleza
+  - personas
+  - dibujo
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-20"
@@ -47,12 +59,6 @@ accessibility:
 activity_type:
   - Arte
   - Reflexión
-etiquetas:
-  - beneficios
-  - bosques
-  - naturaleza
-  - personas
-  - dibujo
 category:
   - Arte
   - Ecología
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

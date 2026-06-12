@@ -1,21 +1,21 @@
 ---
 title: "Echando Raíces"
-duration: "Varias semanas"
+duration: "varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/echando-raices/"
 description: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
 summary: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/echando-raices.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -32,15 +32,30 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
+  - 13
 activity_badges:
   - suelos
-activity_code: "suelos-X25"
-image_prompt: "Group of young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Planting a small tree or plant. One scout digging hole with shovel, another placing plant in soil, third pouring water from watering can. Soil and compost nearby. Trees and blue sky background. Cooperative, patient atmosphere."
+activity_code: "suelos-X04"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine garden or park on a sunny day. In the center-left, a freshly dug hole with a small tree or plant ready to be placed. A bag of compost and gardening tools (shovel, watering can) nearby. The left side has open space for text. On the far right side, a group of tiny scouts (5-15) work together: one digging, one placing the plant, one pouring water, seen from a distance. The planting and care environment dominates."
 tags:
+  - suelos
+  - plantar
+  - árbol
+  - jardinería
+  - suelo
+  - crecimiento
   - Insignia de los Suelos
 location: "Exterior"
 participants: "4-15"
@@ -51,12 +66,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
-etiquetas:
-  - plantar
-  - árbol
-  - jardinería
-  - suelo
-  - crecimiento
 category:
   - Naturaleza
   - Jardinería
@@ -83,16 +92,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +118,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

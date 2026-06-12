@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cava-profundamente/"
 description: "Visita espacios naturales y examina el suelo, identificando sus características y biodiversidad."
 summary: "Visita espacios naturales y examina el suelo, identificando sus características y biodiversidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cava-profundamente.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -28,19 +28,33 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
+  - 13
 activity_badges:
   - suelos
-activity_code: "suelos-X22"
-image_prompt: "Group of young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in an Argentine forest or park. Digging a small hole 30cm deep with small shovels. One scout examining soil with magnifying glass. Another taking notes on clipboard. One pointing at soil layers. Trees and grass around. Sunny day. Curious, scientific atmosphere."
+activity_code: "suelos-X01"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine forest or park on a sunny day. In the center-left, a small hole 30cm deep dug in the ground, with visible soil layers. A clipboard with notes and a magnifying glass lie nearby. Trees and grass around. The left side has space for text. On the far right side, a group of tiny scouts (5-15) kneel around the hole, one examining soil with a magnifying glass, another taking notes, seen from a distance. The scientific exploration environment dominates."
 required: true
 required_for:
   - suelos-X
 required_comment: "Actividad obligatoria"
 tags:
+  - suelos
+  - suelo
+  - excavación
+  - biodiversidad
+  - horizontes
+  - observación
   - Insignia de los Suelos
 location: "Exterior"
 participants: "5-15"
@@ -51,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Exploración
-etiquetas:
-  - suelo
-  - excavación
-  - biodiversidad
-  - horizontes
-  - observación
 category:
   - Medio ambiente
   - Ciencia
@@ -80,16 +88,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +114,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

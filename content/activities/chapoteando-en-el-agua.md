@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/chapoteando-en-el-agua/"
 description: "Observa charcos después de la lluvia y dibuja la vida alrededor de ellos."
 summary: "Observa charcos después de la lluvia y dibuja la vida alrededor de ellos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/chapoteando-en-el-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 competencies:
@@ -21,17 +22,32 @@ competencies:
   - Creatividad
   - Conciencia ambiental
 responsible:
-ods:
-  - 6
-  - 15
 sdgs:
   - 6
   - 15
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X250"
-image_prompt: "Young scouts ages 5-10 observing puddles after rain near Argentine home. Drawing life inside and around - mosquito larvae, water striders, birds bathing, dog drinking. Monitoring how long puddles take to dry. Discussing where insects go when puddle disappears. Micro-habitat ecology, artistic documentation, nature curiosity atmosphere."
+  - agua
+activity_code: "agua-X03"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 15
+rama_caminantes:
+  - 3
+  - 6
+  - 15
+rama_rovers:
+  - 6
+  - 15
+image_prompt: "An Argentine neighborhood after rain, with a puddle in the center-left. A small insect (water strider) on the surface, a bird footprint nearby. A notebook with a drawing of the puddle and the creatures. The left side has open space for text. On the far right side, a tiny young scout (5-10) kneels next to the puddle, sketching, another stands watching, seen from a distance. The puddle ecosystem observation environment dominates."
 tags:
+  - agua
+  - charco
+  - lluvia
+  - insectos
+  - observación
+  - ecosistema temporal
   - Insignia del Agua
 location: "Exterior"
 participants: "4-10"
@@ -42,12 +58,6 @@ accessibility:
 activity_type:
   - Observación
   - Arte
-etiquetas:
-  - charco
-  - lluvia
-  - insectos
-  - observación
-  - ecosistema temporal
 category:
   - Ecología
   - Arte
@@ -67,16 +77,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

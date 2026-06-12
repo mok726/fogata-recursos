@@ -1,18 +1,21 @@
 ---
 title: "Descubriendo la Naturaleza con iNaturalist - Siguiente Nivel"
-duration: "20 -30 min"
+duration: "20-30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel/"
 description: "Esta actividad permite a los participantes profundizar en el uso de la aplicación iNaturalist para identificar especies."
 summary: "Esta actividad permite a los participantes profundizar en el uso de la aplicación iNaturalist para identificar especies."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Aplicación iNaturalist
   - Dispositivo móvil
@@ -21,16 +24,30 @@ competencies:
   - Pensamiento Crítico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X207"
-image_prompt: "Older scouts ages 13+ (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine natural area. Using iNaturalist app (not just Seek) to identify and log species observations. Taking photos, uploading to global database. Learning about research-grade observations. Contributing to citizen science. Discussing findings. Advanced biodiversity citizen science, real data contribution atmosphere."
-similar_activities: "https -//www.inaturalist.org/"
+  - cfn
+activity_code: "cfn-X15"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine natural area, with a smartphone on a tripod in the center-left, the screen showing the iNaturalist app with an observation submission form. A notebook with species list. The left side has open space for text. On the far right side, two tiny older scouts (13+) stand, one holding the phone, the other pointing at a bird in the distance, seen from a distance. The advanced citizen science environment dominates."
+similar_activities:
+  - https://www.inaturalist.org/
 tags:
+  - cfn
+  - iNaturalist
+  - biodiversidad
+  - identificación
+  - ciencia ciudadana
+  - especies
   - Champions for Nature
 location: "Exterior"
 participants: "4-15"
@@ -41,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Tecnología
-etiquetas:
-  - iNaturalist
-  - biodiversidad
-  - identificación
-  - ciencia ciudadana
-  - especies
 category:
   - Tecnología
   - Naturaleza
@@ -68,16 +79,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.inaturalist.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +110,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

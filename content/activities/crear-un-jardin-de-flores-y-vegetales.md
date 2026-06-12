@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/crear-un-jardin-de-flores-y-vegetales/"
 description: "Planta un jardín de flores y vegetales para atraer polinizadores."
 summary: "Planta un jardín de flores y vegetales para atraer polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -35,15 +35,29 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X111"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden (home or school). Planning garden layout on paper. Preparing soil with compost. Planting flowers (lavender, marigold, sunflower) and vegetables (tomato, pumpkin). Watering. Observing bees visiting. Long-term project, hands-on learning atmosphere."
+activity_code: "polinizadores-X38"
+rama_lobatos:
+  - 1
+  - 4
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine garden (home or school) on a sunny day. In the center-left, a prepared garden bed with rich soil, small plants (lavender, tomato, marigold) already placed, and a watering can nearby. A hand-drawn garden map on the ground. The left side has space for text. On the far right side, a group of tiny young scouts (5-10) kneel around the garden, one planting, another watering, seen from a distance. The hands-on gardening environment dominates."
 tags:
+  - polinizadores
+  - jardín
+  - flores
+  - vegetales
+  - siembra
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-15"
@@ -54,12 +68,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
-etiquetas:
-  - jardín
-  - flores
-  - vegetales
-  - polinizadores
-  - siembra
 category:
   - Jardinería
   - Agricultura
@@ -86,16 +94,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +120,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

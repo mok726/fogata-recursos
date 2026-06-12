@@ -1,21 +1,21 @@
 ---
 title: "Cocina Solar"
-duration: "180"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cocina-solar/"
 description: "Construye y usa un horno solar."
 summary: "Construye y usa un horno solar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cocina-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -31,16 +31,30 @@ competencies:
   - Solución de problemas
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X167"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Building solar oven with pizza box lined with aluminum foil, plastic wrap cover, black paper. Placing food inside (s'mores, cheese melt). Positioning toward sun. Waiting patiently. Sustainable cooking, engineering patience atmosphere."
-similar_activities: "https -//www.solarcooking.org/plans/"
+activity_code: "energia-X36"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "A sunny Argentine outdoor area, with a pizza box solar oven in the center-left, angled toward the sun. The oven contains a small tray with cheese melting on bread. A timer. The left side has open space for text. On the far right side, two tiny older scouts (11-17) kneel, one opening the oven carefully, the other pointing at the melted cheese, seen from a distance. The solar oven cooking environment dominates."
+similar_activities:
+  - https://www.solarcooking.org/plans/
 tags:
+  - energia
+  - cocina solar
+  - horno solar
+  - construcción
+  - energía solar
+  - cocinar
   - Insignia de Energía
 location: "Exterior"
 participants: "4-12"
@@ -52,12 +66,6 @@ accessibility:
 activity_type:
   - Construcción
   - Aprendizaje práctico
-etiquetas:
-  - cocina solar
-  - horno solar
-  - construcción
-  - energía solar
-  - cocinar
 category:
   - Energía
   - Tecnología
@@ -84,16 +92,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.solarcooking.org/plans/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,15 +123,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

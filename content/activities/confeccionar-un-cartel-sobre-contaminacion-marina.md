@@ -1,31 +1,50 @@
 ---
 title: "Confeccionar un cartel sobre contaminación marina"
-duration: "30 - 40 minutos"
+duration: "30-40 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/confeccionar-un-cartel-sobre-contaminacion-marina/"
 description: "Actividad que ayuda a los jóvenes a transmitir conciencia sobre la contaminación marina por plásticos."
 summary: "Actividad que ayuda a los jóvenes a transmitir conciencia sobre la contaminación marina por plásticos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Papel
   - lápices o plumas de dibujo
 responsible:
   - Facilitador
-ods:
-  - 14
 sdgs:
   - 14
+  - 13
+  - 4
+  - 12
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X21"
-image_prompt: "Scout meeting room in Argentina. Three young adults ages 18-25 (two women, one man, diverse - woman with dark skin and Afro puffs, woman with light skin and short pink hair, man with tan skin and beard) wearing scout neckerchiefs over casual clothes. Sitting on floor with art supplies spread around (markers, colored pencils, large paper sheets). Drawing large poster together. Poster shows split scene - left side clean ocean with fish and coral, right side polluted ocean with plastic bags, bottles, and sea turtle tangled in plastic rings. Center of poster has large wave symbol (no text). Young woman coloring ocean waves with blue markers. Another drawing fish. Man adding details to turtle. Finished posters from previous sessions leaning against wall. Bright daylight from large window. Passionate, creative, collaborative atmosphere. Group laughing and focused."
+  - ptt
+activity_code: "ptt-X21"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+image_prompt: "A scout meeting room in Argentina, with art supplies spread on the floor (markers, colored pencils, large paper sheets). In the center-left, a large poster in progress shows a split scene: clean ocean vs polluted ocean with sea turtle tangled in plastic. The left side has negative space for text. On the far right side, three tiny young adults (18-25) sit on the floor drawing and coloring together, seen from a distance. The creative, collaborative art environment dominates."
+tags:
+  - ptt
+  - cartel
+  - contaminación marina
+  - plástico
+  - océano
+  - exhibición
 location: "Interior"
 participants: "4-20"
 complexity_execution: 2
@@ -35,12 +54,6 @@ accessibility:
 activity_type:
   - Creatividad
   - Arte
-etiquetas:
-  - cartel
-  - contaminación marina
-  - plástico
-  - océano
-  - exhibición
 category:
   - Arte
   - Medio ambiente marino
@@ -66,16 +79,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

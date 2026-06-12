@@ -3,22 +3,19 @@ title: "Compartir y reusar pertenencias"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/compartir-y-reusar-pertenencias/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Comparte y reusa tus pertenencias cuando ya no las necesitas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Comparte y reusa tus pertenencias cuando ya no las necesitas.
+description: "Comparte y reusa tus pertenencias cuando ya no las necesitas."
+summary: "Comparte y reusa tus pertenencias cuando ya no las necesitas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/compartir-y-reusar-pertenencias.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -27,15 +24,29 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X365"
-image_prompt: "Older scouts ages 11-15 going through belongings, identifying items no longer needed. Donating, giving to friends, selling at garage sale. Repairing items to extend life. Sharing economy, waste reduction, generosity, mindful consumption atmosphere."
+  - sacc
+activity_code: "sacc-X59"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine home, with a pile of items on a table in the center-left: books, toys, clothes, a board game. A box labeled 'Donar' and another 'Vender'. A child holding a toy car, about to put it in the donate box. The left side has negative space for text. On the far right side, a tiny older scout (11-15) sorts items, a parent (civilian) helps, seen from a distance. The sharing and reusing environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - compartir
+  - reusar
+  - pertenencias
+  - donar
+  - regalar
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -46,12 +57,6 @@ accessibility:
 activity_type:
   - Reutilización
   - Compartir
-etiquetas:
-  - compartir
-  - reusar
-  - pertenencias
-  - donar
-  - regalar
 category:
   - Consumo
   - Solidaridad
@@ -77,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Compartir y reusar pertenencias
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Comparte y reusa tus pertenencias cuando ya no las necesitas.
 
 ## Desarrollo

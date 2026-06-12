@@ -5,29 +5,45 @@ layout: "layouts/activity.njk"
 permalink: "/activities/contando-historias-el-discurso-pixar/"
 description: "Esta actividad permite a los participantes crear historias convincentes para abogar por la biodiversidad utilizando el formato de narrativa de Pixar."
 summary: "Esta actividad permite a los participantes crear historias convincentes para abogar por la biodiversidad utilizando el formato de narrativa de Pixar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/contando-historias-el-discurso-pixar.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Papel y lápiz
 competencies:
   - Colaboración
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X211"
-image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Using Pixar story structure (6 sentences) - Once upon a time, Every day, Until one day, Because of that, Because of that, Ever since then. Creating story about biodiversity loss or conservation. Sharing with group. Discussing how stories can inspire action. Creative storytelling, narrative advocacy, emotional connection atmosphere."
+  - cfn
+activity_code: "cfn-X19"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing the Pixar story structure: 'Había una vez...', 'Cada día...', 'Hasta que un día...', 'Por eso...', 'Por eso...', 'Desde entonces...'. A notebook with a draft story about biodiversity. The left side has space for text. On the far right side, two tiny older youths (15+) sit, one writing in the notebook, the other gesturing as if telling a story, seen from a distance. The storytelling workshop environment dominates."
 tags:
+  - cfn
+  - Pixar
+  - narrativa
+  - historia
+  - biodiversidad
+  - advocacy
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
@@ -39,12 +55,6 @@ activity_type:
   - Creatividad
   - Escritura
   - Activismo
-etiquetas:
-  - Pixar
-  - narrativa
-  - historia
-  - biodiversidad
-  - advocacy
 category:
   - Arte
   - Comunicación
@@ -67,16 +77,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

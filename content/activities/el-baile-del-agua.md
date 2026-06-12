@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-baile-del-agua/"
 description: "Crea una coreografía inspirada en el movimiento del agua."
 summary: "Crea una coreografía inspirada en el movimiento del agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-baile-del-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Expresión corporal
   - Trabajo en equipo
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X255"
-image_prompt: "Young scouts ages 5-10 creating water dance choreography - gentle flowing movements for calm river, crashing waves for ocean, spinning for whirlpool, light drops for rain. Performing for families. Artistic expression, kinesthetic learning, water appreciation through movement atmosphere."
+  - agua
+activity_code: "agua-X08"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room or outdoor space, with an open floor area in the center-left. A speaker playing soft music with water sounds (waves, rain, stream). The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) dance with flowing movements: calm river, crashing waves, spinning whirlpool, light rain drops. Seen from a distance, their small bodies expressing water. The water dance environment dominates."
 tags:
+  - agua
+  - baile
+  - coreografía
+  - movimiento
+  - expresión
   - Insignia del Agua
 location: "Interior / Exterior"
 participants: "6-20"
@@ -41,12 +54,6 @@ accessibility:
 activity_type:
   - Arte
   - Danza
-etiquetas:
-  - agua
-  - baile
-  - coreografía
-  - movimiento
-  - expresión
 category:
   - Arte
   - Danza
@@ -69,16 +76,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +102,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

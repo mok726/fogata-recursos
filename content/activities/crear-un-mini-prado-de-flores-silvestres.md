@@ -1,21 +1,21 @@
 ---
 title: "Crear un Mini Prado de Flores Silvestres"
-duration: "1-2 horas (inicial) + seguimiento"
+duration: "1-2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/crear-un-mini-prado-de-flores-silvestres/"
 description: "Convierte un área de césped en un prado de flores silvestres para los polinizadores."
 summary: "Convierte un área de césped en un prado de flores silvestres para los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -35,15 +35,30 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X114"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine yard. Covering grass with cardboard. Adding compost layer. Waiting weeks. Later removing cardboard, scattering native wildflower seeds. Watering. Transforming lawn into pollinator meadow. Restoration project, patience atmosphere."
+activity_code: "polinizadores-X41"
+rama_lobatos:
+  - 1
+  - 4
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine yard, with a section of lawn covered with cardboard in the center-left, and a pile of compost next to it. A bag of native wildflower seeds resting on the cardboard. The left side has space for text. On the far right side, two tiny young scouts (5-10) kneel, one spreading compost, the other scattering seeds, seen from a distance. The lawn-to-meadow transformation environment dominates."
 tags:
+  - polinizadores
+  - prado de flores silvestres
+  - césped a prado
+  - semillas nativas
+  - hábitat
+  - transformación
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-10"
@@ -54,12 +69,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
-etiquetas:
-  - prado de flores silvestres
-  - césped a prado
-  - semillas nativas
-  - hábitat
-  - transformación
 category:
   - Ecología
   - Jardinería
@@ -85,16 +94,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,15 +120,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

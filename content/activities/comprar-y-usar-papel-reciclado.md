@@ -3,22 +3,19 @@ title: "Comprar y usar papel reciclado"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/comprar-y-usar-papel-reciclado/"
-description: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Compra y usa papel reciclado para la escuela y otras actividades.
-summary: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Compra y usa papel reciclado para la escuela y otras actividades.
+description: "Compra y usa papel reciclado para la escuela y otras actividades."
+summary: "Compra y usa papel reciclado para la escuela y otras actividades."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/comprar-y-usar-papel-reciclado.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,17 +25,33 @@ competencies:
   - Consumo responsable
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X361"
-image_prompt: "Older scouts ages 11-15 buying recycled paper for school. Printing double-sided, using email instead of print, reducing paper use. Encouraging family and school. Paper conservation, recycled products, digital alternatives atmosphere."
+  - sacc
+activity_code: "sacc-X55"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine school or scout room, with a printer and a stack of recycled paper in the center-left. A laptop showing an email instead of a printed document. A sign 'Imprime sólo si es necesario - Usa papel reciclado'. The left side has open space for text. On the far right side, two tiny older scouts (11-15) stand, one holding a recycled paper notebook, the other pointing at the laptop, seen from a distance. The recycled paper advocacy environment dominates."
 tags:
+  - Protege los Bosques
+  - sacc
+  - papel reciclado
+  - impresión
+  - ahorro
+  - correo electrónico
+  - bosques
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Consumo
   - Reducción
-etiquetas:
-  - papel reciclado
-  - impresión
-  - ahorro
-  - correo electrónico
-  - bosques
 category:
   - Papel
   - Tecnología
@@ -78,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +112,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Comprar y usar papel reciclado
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Protege los Bosques.
 Compra y usa papel reciclado para la escuela y otras actividades.
 
 ## Desarrollo

@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-agua/"
 description: "Investiga de dónde proviene el agua local y cómo se trata."
 summary: "Investiga de dónde proviene el agua local y cómo se trata."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/de-donde-viene-tu-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua-obligatoria
-activity_code: "del-agua-obligatoria-X249"
-image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) researching local water source - river, lake, aquifer, reservoir. Learning about treatment plant processes. Comparing with another city or country. Presenting findings. Water literacy, infrastructure awareness, comparative analysis atmosphere."
+  - agua
+activity_code: "agua-X02"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a large map of the local water supply on the wall in the center-left: river, reservoir, aquifer, treatment plant, pipes to homes. A laptop with data from the water company. A comparison table with another city. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) stand, one pointing at the reservoir, the other at the treatment plant, seen from a distance. The water source research environment dominates."
 tags:
+  - agua
+  - suministro
+  - tratamiento
+  - local
+  - comparación
   - Insignia del Agua (Obligatoria)
 location: "Interior"
 participants: "4-15"
@@ -39,12 +52,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - agua
-  - suministro
-  - tratamiento
-  - local
-  - comparación
 category:
   - Agua
   - Ciudadanía
@@ -64,16 +71,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -100,15 +97,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

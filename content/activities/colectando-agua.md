@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/colectando-agua/"
 description: "Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar."
 summary: "Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/colectando-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -33,18 +32,33 @@ competencies:
   - Experimentación Científica
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 6
-  - 13
 sdgs:
   - 6
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X126"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area (garden or campsite). Digging hole, filling with green vegetation. Placing container in center. Covering with clear plastic, sealing edges with stones. Placing small stone on plastic center over container. Waiting for condensation. Observing water droplets forming. Survival skill, scientific demonstration atmosphere."
-similar_activities: "https -//www.wikihow.com/Make-a-Solar-Still"
+  - gosolar
+activity_code: "gosolar-X08"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 13
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+  - 9
+image_prompt: "A sunny Argentine outdoor area (garden or campsite). In the center-left, a hole dug in the ground, filled with green vegetation, covered with clear plastic held down by stones, with a small stone weighting the center. A container placed below to collect condensed water. The left side has open space for text. On the far right side, three tiny older scouts (10-21) kneel around the hole, one adjusting the plastic, another pointing at the container, seen from a distance. The solar still survival environment dominates."
+similar_activities:
+  - https://www.wikihow.com/Make-a-Solar-Still
 tags:
+  - gosolar
+  - agua
+  - condensación
+  - solar
+  - supervivencia
+  - desierto
   - Go Solar
 location: "Exterior"
 participants: "4-12"
@@ -55,12 +69,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Supervivencia
-etiquetas:
-  - agua
-  - condensación
-  - solar
-  - supervivencia
-  - desierto
 category:
   - Supervivencia
   - Ciencia
@@ -87,16 +95,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.wikihow.com/Make-a-Solar-Still"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,15 +126,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

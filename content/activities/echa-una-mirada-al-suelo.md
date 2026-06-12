@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/echa-una-mirada-al-suelo/"
 description: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
 summary: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/echa-una-mirada-al-suelo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -29,15 +29,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X37"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Looking at soil samples under microscope or magnifying glass. One scout carefully placing sample on slide. Others watching on screen or taking turns. Excited expressions seeing tiny organisms or particles. Notebooks with drawings. Bright room. Scientific wonder atmosphere."
+activity_code: "suelos-X16"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a microscope on a table in the center-left. Next to it, several small soil samples in containers, a notebook with drawings of tiny organisms. The left side has negative space for text. On the far right side, tiny scouts (5-15) take turns looking into the microscope or using a magnifying glass, excited expressions, seen from a distance. The scientific discovery environment dominates."
 tags:
+  - suelos
+  - suelo
+  - microscopio
+  - observación
+  - componentes
+  - organismos
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-15"
@@ -48,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Aprender haciendo
-etiquetas:
-  - suelo
-  - microscopio
-  - observación
-  - componentes
-  - organismos
 category:
   - Ciencia
   - Medio ambiente
@@ -72,16 +79,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

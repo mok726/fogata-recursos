@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/dia-internacional-de-la-biodiversidad/"
 description: "Evento comunitario."
 summary: "Evento comunitario."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/dia-internacional-de-la-biodiversidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,18 +29,34 @@ competencies:
   - Organización
 responsible:
   - educador Scout
-ods:
-  - 11
-  - 15
 sdgs:
   - 11
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D24"
-image_prompt: "Older scouts ages 14-21 organizing community event for International Biodiversity Day (May 22). Activities - posters, songs, poems, art exhibition, concerts, theater, sports, quizzes, workshops, food tasting. Partnering with other groups. Measuring impact (attendance, media coverage, pledges). Large-scale event planning, community engagement, biodiversity celebration, leadership atmosphere."
-similar_activities: "https -//www.cbd.int/idb"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 15
+rama_caminantes:
+  - 3
+  - 11
+  - 15
+rama_rovers:
+  - 11
+  - 15
+image_prompt: "An Argentine park or community center, with booths and activities in the center-left: a poster display, a poetry reading area, a seed-planting station, and a quiz table. Families walking around. A banner '22 de mayo - Día de la Biodiversidad'. The left side has open space for text. On the far right side, a large group of tiny older scouts (14-21) guide activities, one handing a seed packet, another explaining a poster, seen from a distance. The biodiversity festival environment dominates."
+similar_activities:
+  - https://www.cbd.int/idb
 tags:
+  - biodiversidad
+  - Día Internacional de la Biodiversidad
+  - 22 de mayo
+  - evento
+  - comunidad
+  - conciencia
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "20-100"
@@ -52,12 +68,6 @@ activity_type:
   - Evento
   - Celebración
   - Activismo
-etiquetas:
-  - Día Internacional de la Biodiversidad
-  - 22 de mayo
-  - evento
-  - comunidad
-  - conciencia
 category:
   - Eventos
   - Conservación
@@ -83,16 +93,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 5
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.cbd.int/idb"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +124,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

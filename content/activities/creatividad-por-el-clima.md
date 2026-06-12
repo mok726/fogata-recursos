@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/creatividad-por-el-clima/"
 description: "Los participantes crean materiales educativos sobre el cambio climático."
 summary: "Los participantes crean materiales educativos sobre el cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/creatividad-por-el-clima.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,17 +31,32 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X213"
-image_prompt: "Group of scouts ages 5-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating educational materials about climate change - posters, brochures, drawings, poems. Colorful markers, paper, glue. Collaborative art. Later distributing to local schools or libraries. Creative climate advocacy, community education, teamwork atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a large table in the center-left covered with art supplies: paper, markers, colored pencils, glue, and finished posters about climate change (melting glacier, solar panel, tree planting). The left side has negative space for text. On the far right side, a small group of tiny scouts (5-21) sit at the table, one drawing, another cutting, a third holding a finished poster, seen from a distance. The creative climate advocacy environment dominates."
 tags:
+  - cambioclimatico
+  - creatividad
+  - cambio climático
+  - carteles
+  - folletos
+  - conciencia
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-20"
@@ -54,12 +67,6 @@ accessibility:
 activity_type:
   - Arte
   - Servicio a los demás
-etiquetas:
-  - creatividad
-  - cambio climático
-  - carteles
-  - folletos
-  - conciencia
 category:
   - Arte
   - Educación
@@ -86,16 +93,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +119,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

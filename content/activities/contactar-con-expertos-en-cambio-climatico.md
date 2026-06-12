@@ -3,23 +3,19 @@ title: "Contactar con expertos en cambio climático"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/contactar-con-expertos-en-cambio-climatico/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Ponte en contacto con científicos o grupos ambientales.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Ponte en contacto con científicos o grupos ambientales.
+description: "Ponte en contacto con científicos o grupos ambientales."
+summary: "Ponte en contacto con científicos o grupos ambientales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,15 +27,29 @@ competencies:
   - Comunicación y colaboración
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X315"
-image_prompt: "Older scouts ages 16-20 contacting climate scientists, meteorologists, environmental NGOs (Greenpeace, WWF, local groups), UN offices in Argentina. Learning about their work. Volunteering or joining activities. Professional networking, climate science exposure, active collaboration atmosphere."
+  - sacc
+activity_code: "sacc-X09"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room or virtual call, with a laptop on a table in the center-left. The screen shows a video call with a climate scientist or environmental NGO representative (civilian, lab coat or casual). A notebook with prepared questions. The left side has negative space for text. On the far right side, two tiny older scouts (16-20) sit, one asking a question toward the screen, the other taking notes, seen from a distance. The climate expert interview environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - expertos
+  - cambio climático
+  - científicos
+  - grupos ambientales
+  - ONU
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-10"
@@ -50,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Colaboración
-etiquetas:
-  - expertos
-  - cambio climático
-  - científicos
-  - grupos ambientales
-  - ONU
 category:
   - Ciencia
   - Medio ambiente
@@ -75,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +106,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Contactar con expertos en cambio climático
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Ponte en contacto con científicos o grupos ambientales.
 
 ## Desarrollo

@@ -4,31 +4,45 @@ layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-el-agua/"
 description: "Investiga la distribución del agua en el mundo."
 summary: "Investiga la distribución del agua en el mundo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/donde-esta-el-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
   - Mapa del mundo
   - Lápices de colores
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X264"
-image_prompt: "Older scouts ages 11-15 coloring world map showing freshwater distribution - Brazil (Amazon), Russia (Lake Baikal), Canada (Great Lakes), USA, China, India (water stressed). Discussing water inequality. Learning about water-scarce regions (Middle East, Africa). Global water awareness, geography, social justice atmosphere."
+  - agua
+activity_code: "agua-X17"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left, color-coded for freshwater availability: dark blue (abundant, Brazil, Russia), light blue (moderate), orange (stressed, Middle East, India). A table with data from FAO. The left side has space for text. On the far right side, two tiny older scouts (11-15) stand, one pointing at Brazil, the other at the Middle East, seen from a distance. The global water distribution environment dominates."
 tags:
+  - agua
+  - agua dulce
+  - distribución
+  - países
+  - mapa
+  - desigualdad
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -39,12 +53,6 @@ accessibility:
 activity_type:
   - Investigación
   - Mapeo
-etiquetas:
-  - agua dulce
-  - distribución
-  - países
-  - mapa
-  - desigualdad
 category:
   - Geografía
   - Agua
@@ -68,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

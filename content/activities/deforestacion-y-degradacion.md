@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/deforestacion-y-degradacion/"
 description: "Investiga tasas de deforestación en tu país y compáralas con el promedio mundial."
 summary: "Investiga tasas de deforestación en tu país y compáralas con el promedio mundial."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/deforestacion-y-degradacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,15 +29,28 @@ competencies:
   - Pensamiento político
 responsible:
   - Scouter o economista ambiental
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D09"
-image_prompt: "Older scouts ages 16-21 researching Argentina's deforestation statistics - original forest cover (approx 70%), current forest cover, annual deforestation rate (approx 200,000-300,000 ha/year in Gran Chaco), primary drivers (soy expansion, cattle ranching), versus global averages. Presenting findings creatively - infographic, rap song, short play, animated video, museum exhibit. National deforestation context, policy advocacy (Ley de Bosques 26.331 enforcement), data communication skills, forest conservation advocacy atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with an infographic poster on the wall in the center-left showing Argentina's deforestation statistics: original forest cover (70%), current cover, annual loss (200k-300k ha in Gran Chaco). A bar chart comparing Argentina's rate to the global average. A laptop with Ley de Bosques information. The left side has negative space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the Gran Chaco, the other at the bar chart, seen from a distance. The national deforestation data environment dominates."
 tags:
+  - bosques
+  - deforestación
+  - Argentina
+  - tasa
+  - comparación
+  - políticas
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -48,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Datos
-etiquetas:
-  - deforestación
-  - Argentina
-  - tasa
-  - comparación
-  - políticas
 category:
   - Datos
   - Política
@@ -80,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

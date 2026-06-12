@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-como-un-derecho-humano/"
 description: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
 summary: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-agua-como-un-derecho-humano.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -26,15 +26,27 @@ competencies:
   - Conciencia social
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X297"
-image_prompt: "Older scouts ages 14-21 researching UN declaration on water as human right (2010). Debating - Is water a right? Should it be free? What are governments' obligations? Discussing differing opinions. Human rights education, water justice, ethical reasoning atmosphere."
+  - agua
+activity_code: "agua-X50"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a timeline of the UN declaration on water as a human right (2010). Quotes from the resolution. A laptop with human rights documents. The left side has negative space for text. On the far right side, a group of tiny older scouts (14-21) sit in a circle, one standing to speak, another listening intently, seen from a distance. The water as a human right debate environment dominates."
 tags:
+  - agua
+  - derecho humano
+  - ONU
+  - acceso
+  - justicia
   - Parche del Agua
 location: "Interior"
 participants: "6-20"
@@ -45,12 +57,6 @@ accessibility:
 activity_type:
   - Debate
   - Reflexión
-etiquetas:
-  - agua
-  - derecho humano
-  - ONU
-  - acceso
-  - justicia
 category:
   - Derechos humanos
   - Agua
@@ -68,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +100,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

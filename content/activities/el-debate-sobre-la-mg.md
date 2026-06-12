@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-debate-sobre-la-mg/"
 description: "Investiga los pros y contras de la modificación genética en la agricultura."
 summary: "Investiga los pros y contras de la modificación genética en la agricultura."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-debate-sobre-la-mg.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,15 +27,29 @@ competencies:
   - Debate
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
+  - 2
 activity_badges:
   - suelos
-activity_code: "suelos-X63"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. News report format. One group presenting arguments for GMOs (higher yields, pest resistance). Other group presenting concerns (soil impact, biodiversity). Leader facilitating. Serious, thoughtful, contemporary debate atmosphere."
+activity_code: "suelos-X42"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with two groups of scouts preparing arguments on a table in the center-left. Laptops and printed articles about GMOs. A whiteboard with 'For' and 'Against' columns. The left side has space for text. On the far right side, tiny older scouts (11-17) stand, one group presenting a news report format, the other listening, seen from a distance. The biotech debate environment dominates."
 tags:
+  - suelos
+  - modificación genética
+  - agricultura
+  - cultivos
+  - suelo
+  - debate
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -48,12 +61,6 @@ activity_type:
   - Debate
   - Diálogo
   - Investigación
-etiquetas:
-  - modificación genética
-  - agricultura
-  - cultivos
-  - suelo
-  - debate
 category:
   - Biotecnología
   - Agricultura
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

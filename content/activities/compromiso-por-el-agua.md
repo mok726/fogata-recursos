@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/compromiso-por-el-agua/"
 description: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
 summary: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/compromiso-por-el-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -29,15 +29,27 @@ competencies:
   - Comunicación
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X301"
-image_prompt: "Young scouts ages 7-13 convincing family and friends to save water. Creating Water Pledge certificates. Each person writes their specific commitment - shorter showers, turn off tap while brushing, fix leaks, water plants in evening. Following up on promises. Behavior change, persuasion skills, community impact, accountability atmosphere."
+  - agua
+activity_code: "agua-X54"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a table in the center-left displaying hand-drawn water pledge certificates. Each certificate has a specific commitment: 'Duchas de 5 minutos', 'Cerrar la llave al cepillarse', 'Regar plantas por la noche'. A pen and a sticker. The left side has negative space for text. On the far right side, two tiny young scouts (7-13) stand, one holding a certificate, the other signing, seen from a distance. The water pledge environment dominates."
 tags:
+  - agua
+  - ahorro
+  - compromiso
+  - certificado
+  - familia
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Compromiso
   - Activismo
-etiquetas:
-  - agua
-  - ahorro
-  - compromiso
-  - certificado
-  - familia
 category:
   - Hogar
   - Agua
@@ -77,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

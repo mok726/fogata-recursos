@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/concurso-de-pruebas/"
 description: "Organiza un concurso de preguntas y respuestas sobre el suelo."
 summary: "Organiza un concurso de preguntas y respuestas sobre el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/concurso-de-pruebas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -23,15 +23,28 @@ materials:
   - Lista de preguntas
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X34"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Two teams sitting facing each other. One leader reading question from card. Teams buzzing or raising hands to answer. Scorekeeper writing on whiteboard. Excited, competitive but friendly atmosphere. Bright room."
+activity_code: "suelos-X13"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with two teams of scouts sitting facing each other. In the center-left, a whiteboard with scores. A leader stands to the side holding a question card. The left side has negative space for text. On the far right side, tiny young scouts (5-15) raise hands or buzz in to answer, seen from a distance. The competitive quiz environment dominates."
 tags:
+  - suelos
+  - concurso
+  - preguntas
+  - suelo
+  - equipo
+  - competencia
   - Insignia de los Suelos
 location: "Interior"
 participants: "6-20"
@@ -41,12 +54,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Aprender jugando
-etiquetas:
-  - concurso
-  - preguntas
-  - suelo
-  - equipo
-  - competencia
 category:
   - Educación
   - Medio ambiente
@@ -68,16 +75,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +101,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

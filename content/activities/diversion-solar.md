@@ -1,21 +1,21 @@
 ---
 title: "Diversión Solar"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-solar/"
 description: "Realiza un experimento artístico con energía solar."
 summary: "Realiza un experimento artístico con energía solar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/diversion-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,15 +30,28 @@ competencies:
   - Observación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X154"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Placing crayon pieces on black paper. Using magnifying glass to focus sunlight, melting crayons into colorful patterns. Observing solar power in action. Creative, scientific, cautious (adult supervision) atmosphere."
+activity_code: "energia-X23"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "A sunny Argentine outdoor area. In the center-left, a black sheet of paper on a tray, with pieces of crayons placed on it. A magnifying glass focusing sunlight onto the crayons, creating melted colorful spots. The left side has open space for text. On the far right side, two tiny young scouts (5-10) kneel, one holding the magnifying glass, the other watching the melting crayons, seen from a distance. The solar art experiment environment dominates."
 tags:
+  - energia
+  - solar
+  - arte
+  - crayones
+  - lupa
+  - fusión
   - Insignia de Energía
 location: "Exterior"
 participants: "4-12"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Arte
   - Experimentación
-etiquetas:
-  - solar
-  - arte
-  - crayones
-  - lupa
-  - fusión
 category:
   - Arte
   - Ciencia
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/el-barquito-chiquitito/"
 description: "Actividad para crear una canción sobre el agua y compartirla con la comunidad."
 summary: "Actividad para crear una canción sobre el agua y compartirla con la comunidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/el-barquito-chiquitito.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -27,15 +27,27 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X292"
-image_prompt: "Young scouts ages 5-10 rewriting favorite song lyrics about water conservation. Example - Row Row Row Your Boat becomes Save Save Save Our Water. Group concert for community. Musical creativity, water advocacy, joyful performance atmosphere."
+  - agua
+activity_code: "agua-X45"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room or outdoor stage, with a microphone stand and a speaker in the center-left. Song lyrics rewritten about water conservation on a music stand. A guitar or simple percussion. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) sing, one playing guitar, others clapping, seen from a distance. The water song concert environment dominates."
 tags:
+  - agua
+  - canción
+  - música
+  - concierto
+  - comunidad
   - Parche del Agua
 location: "Interior / Exterior"
 participants: "6-25"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Música
   - Arte
-etiquetas:
-  - canción
-  - agua
-  - música
-  - concierto
-  - comunidad
 category:
   - Música
   - Agua
@@ -70,16 +76,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +102,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

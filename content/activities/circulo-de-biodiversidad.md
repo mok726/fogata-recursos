@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/circulo-de-biodiversidad/"
 description: "Estudio intensivo de 1m² de naturaleza."
 summary: "Estudio intensivo de 1m² de naturaleza."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/circulo-de-biodiversidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +30,27 @@ competencies:
   - Documentación
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C31"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs around tree in Argentine forest. Marking 1-meter radius circle with string. Documenting every living thing inside - plants, mosses, lichens, fungi, insects, spiders, maybe small amphibian. Trying to identify species with guide and magnifying glass. Counting interactions (bee on flower, ant on aphid, fungus on root). Micro-ecosystem study, biodiversity intensity, scientific observation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine forest, with a 1-meter radius circle marked by string around the base of a large tree in the center-left. Inside the circle: moss, lichen, small insects, a mushroom. A magnifying glass and a sketchbook. The left side has open space for text. On the far right side, two tiny older scouts (11-17) kneel inside the circle, one drawing a lichen, the other using a magnifying glass, seen from a distance. The intensive biodiversity survey environment dominates."
 tags:
+  - biodiversidad
+  - círculo
+  - 1 metro cuadrado
+  - inventario
+  - interacciones
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - círculo
-  - biodiversidad
-  - 1 metro cuadrado
-  - inventario
-  - interacciones
 category:
   - Ecología
   - Ciencia
@@ -81,16 +87,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Crear un grupo de investigación sobre el clima"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/crear-un-grupo-de-investigacion-sobre-el-clima/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Diseña y lleva a cabo tu propio grupo de investigación.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Diseña y lleva a cabo tu propio grupo de investigación.
+description: "Diseña y lleva a cabo tu propio grupo de investigación."
+summary: "Diseña y lleva a cabo tu propio grupo de investigación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -33,15 +29,29 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X316"
-image_prompt: "Older scouts ages 16-20 forming climate research group. Taking daily weather measurements - temperature, rainfall, wind speed. Recording data. Analyzing trends over time. Comparing with historical data. Citizen science, data collection, climate literacy, scientific method atmosphere."
+  - sacc
+activity_code: "sacc-X10"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room or outdoor area, with a weather station (thermometer, rain gauge, wind vane) in the center-left and a clipboard with a multi-week data log. A laptop with a graph of temperature trends. The left side has space for text. On the far right side, three tiny older scouts (16-20) stand, one reading the thermometer, another recording data, a third looking at the laptop graph, seen from a distance. The climate research group environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - investigación
+  - clima
+  - mediciones
+  - temperatura
+  - ciencia ciudadana
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"
 participants: "4-10"
@@ -52,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Ciencia
-etiquetas:
-  - investigación
-  - clima
-  - mediciones
-  - temperatura
-  - ciencia ciudadana
 category:
   - Ciencia
   - Clima
@@ -78,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +109,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Crear un grupo de investigación sobre el clima
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Diseña y lleva a cabo tu propio grupo de investigación.
 
 ## Desarrollo

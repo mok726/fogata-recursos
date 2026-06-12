@@ -1,21 +1,21 @@
 ---
 title: "Efecto Invernadero"
-duration: "30"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/efecto-invernadero/"
 description: "Experimento para entender el calentamiento global."
 summary: "Experimento para entender el calentamiento global."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/efecto-invernadero.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,28 @@ competencies:
   - Precisión
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
   - energia
-activity_code: "energia-X141"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Two thermometers - one inside glass jar, one exposed. Recording temperatures every minute for 10 minutes. Comparing results - jar traps heat. Discussing greenhouse effect. Hands-on climate science, discovery atmosphere."
+activity_code: "energia-X10"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "A sunny Argentine outdoor area. In the center-left, two thermometers placed on a table: one inside a glass jar, the other exposed. A clock or stopwatch. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) kneel, one reading the jar thermometer, the other recording on a clipboard, seen from a distance. The greenhouse effect experiment environment dominates."
 tags:
+  - energia
+  - efecto invernadero
+  - termómetro
+  - calor
+  - CO2
+  - experimento
   - Insignia de Energía
 location: "Exterior"
 participants: "4-10"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - efecto invernadero
-  - termómetro
-  - calor
-  - CO2
-  - experimento
 category:
   - Ciencia
   - Clima
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

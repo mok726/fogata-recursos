@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/crear-un-zumbido/"
 description: "Organiza un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad. Demuestra cómo construir hoteles para abejas, plantar flores nativas y usar alternativas a los pesticidas."
 summary: "Organiza un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad. Demuestra cómo construir hoteles para abejas, plantar flores nativas y usar alternativas a los pesticidas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/crear-un-zumbido.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -29,23 +29,37 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
+  - 17
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X101"
-image_prompt: "Large group of scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or community center. World Bee Day event. Stations - building bee hotels, planting native flowers, learning about pesticide alternatives. Community families participating. Scouts demonstrating and explaining. Banners, joyful, community action atmosphere."
+activity_code: "polinizadores-X28"
+rama_lobatos:
+  - 1
+  - 4
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine park or community center on a sunny day. In the center-left, three stations: a table with materials for bee hotels (bamboo, wood), a tray with native flower seeds and pots, and a sign about pesticide alternatives. Families (civilian adults and children) walk around. The left side has open space for text. On the far right side, a large group of tiny scouts (5-10) demonstrate and explain to visitors, seen from a distance. The community event environment dominates."
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - Día Mundial de las Abejas
+  - evento
+  - comunidad
+  - hoteles para abejas
+  - flores nativas
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "10-50"
@@ -56,12 +70,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Sensibilización
-etiquetas:
-  - Día Mundial de las Abejas
-  - evento
-  - comunidad
-  - hoteles para abejas
-  - flores nativas
 category:
   - Medio ambiente
   - Educación
@@ -87,16 +95,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,15 +121,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

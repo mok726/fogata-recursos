@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/ciudadano-del-agua/"
 description: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
 summary: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ciudadano-del-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,27 @@ competencies:
   - Comunicación
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X305"
-image_prompt: "Older scouts ages 14-21 writing to government representative (mayor, city council, water authority) about local water issue - leaky pipes, water fountain maintenance, stormwater pollution, river clean-up. Offering solution suggestions. Civic engagement, persuasive writing, local water advocacy atmosphere."
+  - agua
+activity_code: "agua-X58"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left showing an email draft to the mayor about fixing a leaky water fountain. A printed map of the park with the fountain marked. An envelope and stamp. The left side has space for text. On the far right side, a tiny older scout (14-21) sits, typing, another stands pointing at the map, seen from a distance. The citizen water advocacy environment dominates."
 tags:
+  - agua
+  - gobierno
+  - carta
+  - política
+  - representante
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Escritura
   - Activismo
-etiquetas:
-  - agua
-  - gobierno
-  - carta
-  - política
-  - representante
 category:
   - Política
   - Agua
@@ -71,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/compostaje/"
 description: "Gestión de residuos orgánicos."
 summary: "Gestión de residuos orgánicos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/compostaje.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,17 +30,32 @@ competencies:
   - Responsabilidad
 responsible:
   - educador Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C08"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine backyard or school garden. Learning about composting - what is it, who are the workers (worms, bacteria, fungi). Building compost bin or pile with vegetable scraps, dry leaves, soil. Turning occasionally. Using finished compost in garden after 4-8 weeks. Closing nutrient loop, waste reduction, soil health atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine backyard or school garden, with a compost bin (wooden pallet structure or plastic bin) in the center-left. Layers of vegetable scraps, dry leaves, and soil visible inside. A pitchfork leaning against the bin. The left side has open space for text. On the far right side, two tiny scouts (7-13) kneel, one adding a banana peel, the other turning the pile with a small fork, seen from a distance. The composting environment dominates."
 tags:
+  - biodiversidad
+  - compostaje
+  - abono
+  - residuos orgánicos
+  - lombrices
+  - nutrientes
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -51,12 +66,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Reciclaje
-etiquetas:
-  - compostaje
-  - abono
-  - residuos orgánicos
-  - lombrices
-  - nutrientes
 category:
   - Jardinería
   - Reciclaje
@@ -84,16 +93,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,15 +119,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

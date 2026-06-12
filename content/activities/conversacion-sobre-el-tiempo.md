@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/conversacion-sobre-el-tiempo/"
 description: "Los participantes hablan con personas mayores sobre los cambios en el clima."
 summary: "Los participantes hablan con personas mayores sobre los cambios en el clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/conversacion-sobre-el-tiempo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -28,16 +26,30 @@ competencies:
   - empatía.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X227"
-image_prompt: "Scouts ages 5-21 interviewing elderly people about climate changes they've witnessed over decades - When I was young"
-similar_activities: "The river was higher. Recording and sharing stories. Intergenerational learning"
+  - cambioclimatico
+activity_code: "cambioclimatico-X14"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine home or senior center, with a comfortable armchair in the center-left where a civilian elderly person sits, holding a photo album of old winters. A small table with tea and a notebook. The left side has open space for text. On the far right side, a tiny scout (5-21) sits on a stool, notebook in hand, asking questions, seen from a distance. The intergenerational climate memory environment dominates."
+similar_activities:
+  - Theriverwashigher.Recordingandsharingstories.Intergenerationallearning
 tags:
+  - cambioclimatico
+  - personas mayores
+  - clima
+  - cambios
+  - entrevista
+  - historia oral
   - Insignia del Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - personas mayores
-  - clima
-  - cambios
-  - entrevista
-  - historia oral
 category:
   - Historia
   - Clima
@@ -66,16 +72,6 @@ space_required: "climate memory"
 special_materials:
   - empathy building atmosphere.'
 prep_time: "13"
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +98,6 @@ prep_time: "13"
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

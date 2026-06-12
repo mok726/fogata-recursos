@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/desafio-sin-electronicos/"
 description: "Vive sin dispositivos electrónicos durante un mes y registra tus experiencias."
 summary: "Vive sin dispositivos electrónicos durante un mes y registra tus experiencias."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/desafio-sin-electronicos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -24,20 +24,34 @@ competencies:
   - Conciencia digital
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X160"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) at home. One month challenge - limited electronics (TV, phone, computer). Tracking daily hours without devices. Finding alternative activities - reading, sports, board games, outdoor time. Journaling experience. At end, reflecting on dependence and benefits. Digital detox, self-discipline atmosphere."
+activity_code: "energia-X29"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine home, with a calendar on a wall in the center-left. The calendar has a month view with checkmarks on days without electronics, and a notebook beside it recording alternative activities (reading, sports). The left side has space for text. On the far right side, a tiny older scout (11-17) sits on a couch, reading a book, no devices visible, seen from a distance. The digital detox environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - USO DE LA ENERGÍA"
+required_comment: "Actividad obligatoria para la categoría: USO DE LA ENERGÍA"
 required_category: "USO DE LA ENERGÍA"
 tags:
+  - USO DE LA ENERGÍA
+  - energia
+  - sin electrónicos
+  - desconexión
+  - registro
+  - hábitos
+  - autodisciplina
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "2-10"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Desafío
-etiquetas:
-  - sin electrónicos
-  - desconexión
-  - registro
-  - hábitos
-  - autodisciplina
 category:
   - Tecnología
   - Autoconocimiento
@@ -71,16 +79,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +105,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

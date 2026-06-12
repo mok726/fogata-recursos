@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/casa-para-murcielagos/"
 description: "Construcción de refugio para quirópteros."
 summary: "Construcción de refugio para quirópteros."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/casa-para-murcielagos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,16 +27,30 @@ competencies:
   - Conservación
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A12"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or backyard. Researching local bat species and their needs. Building bat house from untreated wood. Mounting on tall tree or pole facing appropriate direction. Monitoring for occupation over weeks. Bat conservation, pest control education, hands-on construction atmosphere."
-similar_activities: "https -//www.batcon.org/"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden or schoolyard, with a bat house made of untreated wood mounted on a tall pole or tree in the center-left. A small sign 'Refugio de Murciélagos'. The left side has open space for text. On the far right side, two tiny older scouts (11-17) stand looking up at the bat house, one holding a ladder, the other a hammer, seen from a distance. The bat conservation environment dominates."
+similar_activities:
+  - https://www.batcon.org/
 tags:
+  - biodiversidad
+  - murciélagos
+  - casa para murciélagos
+  - refugio
+  - conservación
+  - ecosistema
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-8"
@@ -47,12 +61,6 @@ accessibility:
 activity_type:
   - Construcción
   - Servicio
-etiquetas:
-  - murciélagos
-  - casa para murciélagos
-  - refugio
-  - conservación
-  - ecosistema
 category:
   - Conservación
   - Carpintería
@@ -73,16 +81,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.batcon.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +112,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

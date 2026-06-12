@@ -3,23 +3,19 @@ title: "Crear un diario verde"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/crear-un-diario-verde/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Registra tus esfuerzos para llevar una vida más amigable con el clima en un diario.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Registra tus esfuerzos para llevar una vida más amigable con el clima en un diario.
+description: "Registra tus esfuerzos para llevar una vida más amigable con el clima en un diario."
+summary: "Registra tus esfuerzos para llevar una vida más amigable con el clima en un diario."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/crear-un-diario-verde.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +26,33 @@ competencies:
   - Reflexión y autoevaluación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X374"
-image_prompt: "Older scouts ages 16-20 starting green journal - recording daily sustainable actions (energy saving, waste reduction, mindful consumption). Tracking progress, reflecting on challenges. Sharing insights with group. Self-reflection, habit tracking, mindfulness about environmental impact, journaling practice atmosphere."
+  - sacc
+activity_code: "sacc-X68"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room or home, with a notebook open on a table in the center-left. The pages show daily entries: 'Apagué las luces', 'Caminé a la escuela', 'Comí sin carne'. Stickers and colored pens. A small plant and a reusable water bottle next to it. The left side has negative space for text. On the far right side, a tiny older scout (16-20) sits writing in the diary, another reads a previous page, seen from a distance. The green journal environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - diario verde
+  - esfuerzos
+  - clima
+  - reflexión
+  - hábitos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Escritura
-etiquetas:
-  - diario verde
-  - esfuerzos
-  - clima
-  - reflexión
-  - hábitos
 category:
   - Autoconocimiento
   - Clima
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Crear un diario verde
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Registra tus esfuerzos para llevar una vida más amigable con el clima en un diario.
 
 ## Desarrollo

@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos/"
 description: "Los participantes llevan un diario de lo que comen durante una semana."
 summary: "Los participantes llevan un diario de lo que comen durante una semana."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/diario-de-alimentos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -28,19 +26,30 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 2
-  - 12
-  - 13
 sdgs:
   - 2
   - 12
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X236"
-image_prompt: "Scouts ages 5-21 keeping food diary for one week - breakfast, lunch, dinner, snacks. Analyzing carbon footprint - meat (high), vegetables (low), local vs imported, processed vs whole. Preparing low-emission meal together (plant-based, local, seasonal). Sharing meal. Food system literacy, climate-friendly eating, collaborative cooking atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X23"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine home or scout room, with a notebook on a table in the center-left. The notebook is open to a page listing foods eaten in a day (breakfast, lunch, snacks) with checkmarks next to those that need pollinators. A smartphone showing a research page about pollination of foods. The left side has negative space for text. On the far right side, a tiny young scout (5-10) sits at the table, writing in the diary, seen from a distance. The personal food awareness environment dominates."
 tags:
+  - cambioclimatico
+  - diario
+  - alimentos
+  - dieta
+  - huella de carbono
+  - cocina
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -51,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Cocina
-etiquetas:
-  - diario
-  - alimentos
-  - dieta
-  - huella de carbono
-  - cocina
 category:
   - Alimentación
   - Clima
@@ -77,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +106,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

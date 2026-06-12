@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/consumo-y-especies-amenazadas/"
 description: "Análisis de impacto humano."
 summary: "Análisis de impacto humano."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/consumo-y-especies-amenazadas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,17 +29,32 @@ competencies:
   - Consumo responsable
 responsible:
   - educador Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D06"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Learning how consumer choices impact endangered species - shark fin soup (sharks), beef (rainforest deforestation for cattle pasture), palm oil (orangutan habitat). Creating poster with region's most threatened species and challenges. Discussing how to change consumption habits. Ethical consumerism, supply chain awareness, personal responsibility atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine scout room, with a poster on the wall in the center-left split into two sides: 'Consumo directo' (shark fin soup with a fin icon) and 'Consumo indirecto' (beef burger with a rainforest icon). A table with data on endangered species. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one pointing at the burger side, the other taking notes, seen from a distance. The ethical consumption reflection environment dominates."
 tags:
+  - biodiversidad
+  - consumo
+  - especies amenazadas
+  - extinción
+  - aleta de tiburón
+  - carne
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -50,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - consumo
-  - especies amenazadas
-  - extinción
-  - aleta de tiburón
-  - carne
 category:
   - Consumo
   - Ecología
@@ -81,16 +90,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +116,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

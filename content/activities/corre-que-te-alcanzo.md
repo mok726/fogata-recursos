@@ -1,20 +1,21 @@
 ---
 title: "Corre que te alcanzo"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/corre-que-te-alcanzo/"
 description: "Los participantes juegan un juego que simula el impacto del cambio climático en los osos polares."
 summary: "Los participantes juegan un juego que simula el impacto del cambio climático en los osos polares."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/corre-que-te-alcanzo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 materials:
@@ -25,15 +26,28 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X221"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large hall. Polar bears chase seals. Hula hoops as safe ice floes. Climate change scenario - fewer ice floes (remove hoops). Polar bears struggle to catch seals. Game ends with discussion about how melting sea ice affects polar bears. Kinesthetic learning, climate empathy, active play atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X08"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine outdoor space or large hall, with several hula hoops scattered on the ground in the center-left, representing ice floes. A few hoops are removed, leaving fewer 'safe' spots. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) run and chase, some reaching the hoops, others left out, seen from a distance. The polar bear game environment dominates."
 tags:
+  - cambioclimatico
+  - osos polares
+  - focas
+  - juego
+  - simulación
+  - cambio climático
   - Insignia del Cambio Climático
 location: "Exterior / Interior"
 participants: "8-20"
@@ -44,12 +58,6 @@ accessibility:
 activity_type:
   - Juego
   - Simulación
-etiquetas:
-  - osos polares
-  - focas
-  - juego
-  - simulación
-  - cambio climático
 category:
   - Educación
   - Juego
@@ -73,16 +81,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +107,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

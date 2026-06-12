@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-peliculas/"
 description: "Los participantes ven un documental sobre el cambio climático y discuten sus impresiones."
 summary: "Los participantes ven un documental sobre el cambio climático y discuten sus impresiones."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/diversion-con-peliculas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +29,28 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X218"
-image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) watching climate documentary (An Inconvenient Truth, Before the Flood, Our Planet). Discussing key messages, emotional responses, recommended actions. Creating group action plan based on documentary. Media literacy, climate education, collaborative planning atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X05"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a projector screen on the wall in the center-left displaying a scene from a climate documentary (e.g., a melting glacier or a storm). A laptop on a table below. The left side has space for text. On the far right side, a group of tiny older scouts (11-21) sit on chairs or floor, facing the screen, seen from a distance. The documentary viewing environment dominates."
 tags:
+  - cambioclimatico
+  - documental
+  - cambio climático
+  - discusión
+  - plan de acción
+  - Una Verdad Incómoda
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "6-25"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Debate
-etiquetas:
-  - documental
-  - cambio climático
-  - discusión
-  - plan de acción
-  - Una Verdad Incómoda
 category:
   - Cine
   - Clima
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

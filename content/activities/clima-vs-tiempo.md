@@ -1,20 +1,21 @@
 ---
 title: "Clima vs. Tiempo"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-vs-tiempo/"
 description: "Los participantes aprenden la diferencia entre clima y tiempo."
 summary: "Los participantes aprenden la diferencia entre clima y tiempo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/clima-vs-tiempo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 materials:
@@ -23,12 +24,28 @@ competencies:
   - Juego interactivo.
 responsible:
   - Comunicación, trabajo en equipo.
+sdgs:
+  - 5
+  - 10
 activity_badges:
-  - ods-13
-activity_code: "ods-13-X216"
-image_prompt: "Comunicación / trabajo en equipo"
-similar_activities: "Hay una tormenta (tiempo). Participants run to correct side. Active learning"
+  - ods13
+activity_code: "ods13-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with two large signs on opposite walls in the center-left: 'CLIMA' (with icons of seasons) and 'TIEMPO' (with icons of sun, rain, cloud). An open space between them. The left side has space for text. On the far right side, a group of tiny young scouts (5-10) run from one side to the other as a facilitator (not in frame) reads phrases, seen from a distance. The active learning game environment dominates."
+similar_activities:
+  - Hayunatormenta(tiempo).Participantsruntocorrectside.Activelearning
 tags:
+  - ods13
+  - Juego
+  - Aprendizaje
   - ODS 13
 location: "Insignia del Cambio Climático"
 participants: "Interior"
@@ -38,9 +55,6 @@ accessibility:
 activity_type:
   - -Auditiva
   - -Movilidad
-etiquetas:
-  - Juego
-  - Aprendizaje
 category:
   - clima
   - tiempo
@@ -56,16 +70,6 @@ space_required: "differentiation game"
 special_materials:
   - fun atmosphere.'
 prep_time: "13"
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -92,15 +96,6 @@ prep_time: "13"
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

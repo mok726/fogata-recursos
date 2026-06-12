@@ -5,31 +5,46 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cosas-que-usamos/"
 description: "Investiga cómo los polinizadores contribuyen a productos como aceites, semillas, nueces, fibras y medicinas."
 summary: "Investiga cómo los polinizadores contribuyen a productos como aceites, semillas, nueces, fibras y medicinas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cosas-que-usamos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
+  - 2
+  - 8
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X89"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching products from pollinated plants - cotton (clothes), almond oil, coffee, chocolate. One scout showing cotton t-shirt, another showing coffee beans. Connecting daily products to pollinators. Consumer awareness atmosphere."
+activity_code: "polinizadores-X16"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table in the center-left. On the table, examples of everyday products: a cotton t-shirt, a jar of almond oil, a chocolate bar, a coffee bag. A tablet open to a page about pollinator-dependent products. The left side has space for text. On the far right side, tiny young scouts (5-10) sit at the table, one holding the t-shirt, another examining the chocolate bar, seen from a distance. The consumer connection environment dominates."
 tags:
+  - polinizadores
+  - productos
+  - aceites
+  - semillas
+  - fibras
+  - medicinas
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-15"
@@ -40,12 +55,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - productos
-  - aceites
-  - semillas
-  - fibras
-  - medicinas
 category:
   - Economía
   - Consumo
@@ -68,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

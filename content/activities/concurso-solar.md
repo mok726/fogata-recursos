@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/concurso-solar/"
 description: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
 summary: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/concurso-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,17 +27,32 @@ competencies:
   - Trabajo en Equipo
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 4
-  - 13
 sdgs:
   - 4
   - 13
+  - 7
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X130"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Teams competing in quiz about solar energy - how panels work, uses of sun, advantages of solar power. Scorekeeper on whiteboard. Excited, competitive, educational atmosphere."
+  - gosolar
+activity_code: "gosolar-X12"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 7
+  - 9
+image_prompt: "An Argentine scout room, with two teams of scouts sitting facing each other. In the center-left, a whiteboard with scores, and a stack of question cards about solar energy. A leader holding a card. The left side has space for text. On the far right side, tiny older scouts (10-21) raise hands to answer, one team celebrating, seen from a distance. The solar quiz competition environment dominates."
 tags:
+  - gosolar
+  - concurso
+  - preguntas
+  - energía solar
+  - equipo
+  - aprendizaje
   - Go Solar
 location: "Interior"
 participants: "6-30"
@@ -49,12 +63,6 @@ accessibility:
 activity_type:
   - Juego
   - Aprendizaje
-etiquetas:
-  - concurso
-  - preguntas
-  - energía solar
-  - equipo
-  - aprendizaje
 category:
   - Educación
   - Energía
@@ -76,16 +84,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

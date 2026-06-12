@@ -3,22 +3,19 @@ title: "Comprar de segunda mano"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/comprar-de-segunda-mano/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero.
+description: "Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero."
+summary: "Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/comprar-de-segunda-mano.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,15 +23,29 @@ competencies:
   - Consumo responsable
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X349"
-image_prompt: "Older scouts ages 11-15 buying second-hand items (books, clothes, furniture). Donating unneeded items. Learning that reusing saves energy (no new production). Circular economy, conscious consumption, thrift awareness atmosphere."
+  - sacc
+activity_code: "sacc-X43"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine thrift store or garage sale, with a table in the center-left displaying second-hand books, clothes, and toys. A sign 'Ropa Usada - Libros - Juguetes'. A civilian cashier. The left side has open space for text. On the far right side, a tiny older scout (11-15) holds a second-hand book, another scout tries on a jacket, seen from a distance. The second-hand shopping environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - segunda mano
+  - libros
+  - ropa
+  - reutilización
+  - ahorro
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -45,12 +56,6 @@ accessibility:
 activity_type:
   - Consumo
   - Ahorro
-etiquetas:
-  - segunda mano
-  - libros
-  - ropa
-  - reutilización
-  - ahorro
 category:
   - Consumo
   - Economía circular
@@ -71,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,21 +103,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Comprar de segunda mano
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero.
 
 ## Desarrollo

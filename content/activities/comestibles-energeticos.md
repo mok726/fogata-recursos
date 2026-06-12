@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/comestibles-energeticos/"
 description: "Los participantes investigan cuánta energía se usa para producir sus alimentos favoritos."
 summary: "Los participantes investigan cuánta energía se usa para producir sus alimentos favoritos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/comestibles-energeticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,19 +31,36 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 2
-  - 12
-  - 13
 sdgs:
   - 2
   - 12
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X243"
-image_prompt: "Scouts ages 5-21 researching energy use in food production - plowing, fertilizing, harvesting, transporting, processing, cooking. Comparing beef (high) vs lentils (low), local (low) vs imported (high). Preparing low-energy meal together (local, plant-based, seasonal). Sharing meal. Food energy literacy, sustainable eating, collaborative cooking atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X30"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+  - 13
+rama_rovers:
+  - 2
+  - 12
+  - 13
+image_prompt: "An Argentine scout room or kitchen, with a table in the center-left showing ingredients: local vegetables (low energy), beef (high energy), imported rice. A chart of energy use in food production. A pot and stove nearby. The left side has space for text. On the far right side, two tiny scouts (5-21) sit, one pointing at the vegetables, the other at the beef, seen from a distance. The food energy research environment dominates."
 tags:
+  - cambioclimatico
+  - energía
+  - alimentos
+  - producción
+  - huella
+  - cocina
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -56,12 +71,6 @@ accessibility:
 activity_type:
   - Investigación
   - Cocina
-etiquetas:
-  - energía
-  - alimentos
-  - producción
-  - huella
-  - cocina
 category:
   - Alimentación
   - Energía
@@ -88,16 +97,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -124,15 +123,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

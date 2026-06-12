@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/ducha-solar/"
 description: "Aprende a construir una ducha solar y descubre cómo funciona."
 summary: "Aprende a construir una ducha solar y descubre cómo funciona."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ducha-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,18 +29,32 @@ competencies:
   - Aprendizaje Práctico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X131"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area (campsite or home). Building solar shower using black hose coiled in sun, black plastic bag filled with water, or PVC pipe painted black. Elevating bag. Testing water temperature after sun exposure. Camping comfort, sustainable technology, hands-on engineering atmosphere."
-similar_activities: "https -//www.instructables.com/Solar-Shower-1/"
+  - gosolar
+activity_code: "gosolar-X13"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 7
+  - 9
+image_prompt: "A sunny Argentine outdoor area (campsite or backyard). In the center-left, a solar shower made from a black bag or coiled black hose elevated on a tripod, with a shower head or valve at the bottom. A bucket of water below. The left side has negative space for text. On the far right side, two tiny older scouts (10-21) stand near the shower, one testing water temperature with a hand, the other adjusting the bag, seen from a distance. The solar shower environment dominates."
+similar_activities:
+  - https://www.instructables.com/Solar-Shower-1/
 tags:
+  - gosolar
+  - ducha solar
+  - agua caliente
+  - termo solar
+  - construcción
+  - energía renovable
   - Go Solar
 location: "Exterior"
 participants: "4-10"
@@ -52,12 +65,6 @@ accessibility:
 activity_type:
   - Construcción
   - Aprender haciendo
-etiquetas:
-  - ducha solar
-  - agua caliente
-  - termo solar
-  - construcción
-  - energía renovable
 category:
   - Tecnología
   - Energía
@@ -82,16 +89,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.instructables.com/Solar-Shower-1/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +120,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/dibujando-el-agua/"
 description: "Juego de Pictionary con palabras relacionadas con el agua."
 summary: "Juego de Pictionary con palabras relacionadas con el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/dibujando-el-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Trabajo en equipo
   - Comunicación
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X258"
-image_prompt: "Young scouts ages 5-10 playing Water Pictionary. Water vocabulary words - river, lake, ocean, rain, cloud, tap, well, flood, drought, ice, steam, fish, boat. Drawing without words or letters. Team guessing. Fun vocabulary building, artistic expression, teamwork atmosphere."
+  - agua
+activity_code: "agua-X11"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with an easel and a large paper in the center-left. A stack of water-related word cards (río, lago, océano, lluvia, nube, grifo, pozo). A timer. The left side has space for text. On the far right side, two teams of tiny young scouts (5-10) sit, one drawing a wave, the other guessing 'océano', seen from a distance. The water Pictionary environment dominates."
 tags:
+  - agua
+  - Pictionary
+  - dibujo
+  - palabras
+  - juego
   - Insignia del Agua
 location: "Interior"
 participants: "6-20"
@@ -40,12 +53,6 @@ accessibility:
 activity_type:
   - Juego
   - Pictionary
-etiquetas:
-  - Pictionary
-  - agua
-  - dibujo
-  - palabras
-  - juego
 category:
   - Educación
   - Arte
@@ -69,16 +76,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

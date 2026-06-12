@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cartas-al-editor/"
 description: "Incidencia en medios."
 summary: "Incidencia en medios."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cartas-al-editor.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,27 @@ competencies:
   - Ciudadanía activa
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D28"
-image_prompt: "Older scouts ages 14-21 reading local newspaper for biodiversity articles. Selecting one article (development threatening wetland, pollution, species decline). Writing letter to editor expressing concern, offering solutions, calling for action. Mailing or emailing. Following up on publication. Media advocacy, persuasive writing, civic engagement atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a local newspaper on a table in the center-left, open to an article about wetland development. A laptop with a draft letter to the editor, and an envelope. The left side has space for text. On the far right side, a tiny older scout (14-21) sits, reading the newspaper, another typing the letter, seen from a distance. The letter to the editor environment dominates."
 tags:
+  - biodiversidad
+  - carta al editor
+  - periódico
+  - opinión
+  - incidencia
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Escritura
   - Activismo
-etiquetas:
-  - carta al editor
-  - periódico
-  - biodiversidad
-  - opinión
-  - incidencia
 category:
   - Periodismo
   - Comunicación
@@ -76,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Disecciona una Flor"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/disecciona-una-flor/"
 description: "Examina las partes de una flor y aprende cómo funciona la polinización."
 summary: "Examina las partes de una flor y aprende cómo funciona la polinización."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/disecciona-una-flor.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -24,19 +24,30 @@ materials:
   - Guía de partes de la flor (opcional)
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X76"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Dissecting flowers on table. One scout carefully removing petal, another identifying stamen with magnifying glass. Flower diagram on poster for reference. Labeling parts (petal, stamen, pistil, sepal). Scientific curiosity, hands-on learning atmosphere."
+activity_code: "polinizadores-X03"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine scout room or garden, with a table in the center-left. On the table, several flowers of different colors, a magnifying glass, and a poster diagram of flower parts (petal, stamen, pistil, sepal). A dissected flower with parts labeled. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit around the table, one carefully removing a petal, another looking through a magnifying glass at a stamen, seen from a distance. The botanical learning environment dominates."
 tags:
+  - polinizadores
+  - flor
+  - disección
+  - polen
+  - estambre
+  - pistilo
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "4-15"
@@ -47,12 +58,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Investigación
-etiquetas:
-  - flor
-  - disección
-  - polen
-  - estambre
-  - pistilo
 category:
   - Botánica
   - Ciencia
@@ -76,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

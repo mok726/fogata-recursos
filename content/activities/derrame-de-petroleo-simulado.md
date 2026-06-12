@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/derrame-de-petroleo-simulado/"
 description: "Experimento sobre contaminación acuática."
 summary: "Experimento sobre contaminación acuática."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/derrame-de-petroleo-simulado.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,15 +30,28 @@ competencies:
   - Pensamiento crítico
 responsible:
   - educador Scout
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B13"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or backyard. Coating feather with vegetable or lubricating oil. Dipping clean feather and oiled feather in water. Observing how oiled feather no longer repels water, becomes heavy. Discussing real oil spill impacts on birds (hypothermia, inability to fly). Environmental awareness, toxic spill effects, empathy for wildlife atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine scout room or backyard, with two feathers on a tray in the center-left. One feather is clean, the other is coated with vegetable oil. A bowl of water nearby. The left side has space for text. On the far right side, two tiny scouts (7-13) kneel, one dipping the clean feather in water, the other the oiled feather, comparing the results, seen from a distance. The oil spill simulation environment dominates."
 tags:
+  - biodiversidad
+  - derrame de petróleo
+  - aceite
+  - plumas
+  - aves
+  - contaminación
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-15"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Conciencia
-etiquetas:
-  - derrame de petróleo
-  - aceite
-  - plumas
-  - aves
-  - contaminación
 category:
   - Ecología
   - Química
@@ -80,16 +87,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

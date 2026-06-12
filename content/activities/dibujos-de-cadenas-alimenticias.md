@@ -1,21 +1,21 @@
 ---
 title: "Dibujos de Cadenas Alimenticias"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-de-cadenas-alimenticias/"
 description: "Dibuja una cadena alimenticia local y reflexiona sobre su conexión con el carbono."
 summary: "Dibuja una cadena alimenticia local y reflexiona sobre su conexión con el carbono."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/dibujos-de-cadenas-alimenticias.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,20 +27,33 @@ competencies:
   - Pensamiento crítico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - energia
-activity_code: "energia-X133"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing local food chains - grass to rabbit to fox or flower to bee to bird. One scout showing drawing, explaining carbon cycle connection. Colorful posters. Ecological understanding, systems thinking atmosphere."
+activity_code: "energia-X02"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a table in the center-left covered with colorful drawings of food chains (grass → rabbit → fox, flower → bee → bird). Markers and colored pencils scattered. The left side has negative space for text. On the far right side, three tiny scouts (7-13) sit at the table, one holding up a drawing, another adding a detail, seen from a distance. The ecology art environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - ENERGÍA ES VIDA"
+required_comment: "Actividad obligatoria para la categoría: ENERGÍA ES VIDA"
 required_category: "ENERGÍA ES VIDA"
 tags:
+  - ENERGÍA ES VIDA
+  - energia
+  - cadena alimenticia
+  - carbono
+  - ecosistema
+  - productores
+  - consumidores
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -52,12 +65,6 @@ activity_type:
   - Creatividad
   - Arte
   - Reflexión
-etiquetas:
-  - cadena alimenticia
-  - carbono
-  - ecosistema
-  - productores
-  - consumidores
 category:
   - Ecología
   - Biología
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

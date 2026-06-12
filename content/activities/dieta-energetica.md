@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/dieta-energetica/"
 description: "Plan de reducción de consumo energético."
 summary: "Plan de reducción de consumo energético."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/dieta-energetica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,32 @@ competencies:
   - Matemáticas
 responsible:
   - educador Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A15"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) at home. Creating energy reduction plan - turning off lights, unplugging devices, walking/biking instead of driving, shorter showers. Implementing for 2 weeks. Tracking energy savings from bills or meter readings. Calculating CO2 reduction. Discussing how saving energy helps biodiversity (less habitat destruction for mining/drilling). Climate action, personal responsibility, quantitative thinking atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine home, with a notebook and calculator on a table in the center-left. A chart showing daily electricity consumption (kWh) before and after a two-week plan. A smartphone with a stopwatch for shower time. The left side has negative space for text. On the far right side, a tiny older scout (14-21) sits at the table, writing in the notebook, a parent (civilian) stands behind looking, seen from a distance. The home energy diet environment dominates."
 tags:
+  - biodiversidad
+  - energía
+  - reducción
+  - ahorro
+  - huella de carbono
+  - consumo
   - Insignia Biodiversidad
 location: "Interior"
 participants: "2-10"
@@ -48,12 +63,6 @@ accessibility:
 activity_type:
   - Planificación
   - Acción
-etiquetas:
-  - energía
-  - reducción
-  - ahorro
-  - huella de carbono
-  - consumo
 category:
   - Energía
   - Clima
@@ -72,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

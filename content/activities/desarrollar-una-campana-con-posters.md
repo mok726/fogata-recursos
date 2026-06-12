@@ -3,22 +3,19 @@ title: "Desarrollar una campaña con posters"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/desarrollar-una-campana-con-posters/"
-description: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Crea posters para promover hábitos sostenibles.
-summary: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Crea posters para promover hábitos sostenibles.
+description: "Crea posters para promover hábitos sostenibles."
+summary: "Crea posters para promover hábitos sostenibles."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/desarrollar-una-campana-con-posters.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -35,17 +32,33 @@ competencies:
   - Creatividad y comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X325"
-image_prompt: "Older scouts ages 11-15 creating poster campaign for sustainable habits - turn off lights, walk/bike instead of drive, recycle, compost, use reusable bags. Displaying at school, neighborhood, sports center. Visual communication, behavior change, public awareness atmosphere."
+  - sacc
+activity_code: "sacc-X19"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a table in the center-left covered with finished posters on sustainable habits: 'Apaga las luces', 'Camina o usa bici', 'Recicla', 'Usa bolsas reusables'. A stack of posters ready to hang. Markers and tape. The left side has negative space for text. On the far right side, three tiny older scouts (11-15) hold posters, one pointing at a poster, another putting tape on the back, seen from a distance. The poster campaign environment dominates."
 tags:
+  - Alza tu voz
+  - sacc
+  - posters
+  - campaña
+  - hábitos sostenibles
+  - comunicación
+  - cambios
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -56,12 +69,6 @@ accessibility:
 activity_type:
   - Arte
   - Campaña
-etiquetas:
-  - posters
-  - campaña
-  - hábitos sostenibles
-  - comunicación
-  - cambios
 category:
   - Arte
   - Comunicación
@@ -88,16 +95,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -125,21 +122,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Desarrollar una campaña con posters
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Alza tu voz.
 Crea posters para promover hábitos sostenibles.
 
 ## Desarrollo

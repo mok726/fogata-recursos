@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/climas-cambiantes/"
 description: "Investiga la conexión entre el suelo y el cambio climático."
 summary: "Investiga la conexión entre el suelo y el cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/climas-cambiantes.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,17 +27,30 @@ competencies:
   - Presentación oral
 responsible:
   - Maestro/Dirigente
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X52"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Panel discussion format. One scout presenting how soil stores carbon. Another discussing how rising temperatures affect soil health. Whiteboard with diagrams of carbon cycle. Serious, climate-aware atmosphere."
+activity_code: "suelos-X31"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+  - 13
+image_prompt: "A scout meeting room in Argentina, with a whiteboard in the center-left showing a diagram of the carbon cycle (arrows between trees, factories, soil). A laptop with climate data open. The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit in a panel discussion format, one presenting, others listening, seen from a distance. The climate science discussion environment dominates."
 tags:
+  - suelos
+  - suelo
+  - cambio climático
+  - carbono
+  - calentamiento
+  - almacenamiento
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -50,12 +62,6 @@ activity_type:
   - Investigación
   - Debate
   - Reflexión
-etiquetas:
-  - suelo
-  - cambio climático
-  - carbono
-  - calentamiento
-  - almacenamiento
 category:
   - Medio ambiente
   - Clima
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

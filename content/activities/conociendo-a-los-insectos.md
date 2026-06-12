@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/conociendo-a-los-insectos/"
 description: "Estudia un insecto o artrópodo que vive en el suelo y su contribución al ecosistema."
 summary: "Estudia un insecto o artrópodo que vive en el suelo y su contribución al ecosistema."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/conociendo-a-los-insectos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -30,15 +30,29 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X24"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in scout meeting room in Argentina. Creating posters about soil insects. One drawing earthworm, another drawing beetle. Magnifying glass on table. Reference books open. Colorful markers and paper. Bright daylight. Creative, curious atmosphere."
+activity_code: "suelos-X03"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table covered with art supplies. In the center-left, reference books about insects are open, and a magnifying glass lies next to them. A partly finished poster of an earthworm and a beetle on the table. The left side has space for text. On the far right side, tiny young scouts (5-15) sit around the table, drawing and coloring, seen from a distance. The creative insect study environment dominates."
 tags:
+  - suelos
+  - insectos
+  - suelo
+  - lombrices
+  - ecosistema
+  - póster
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -50,12 +64,6 @@ activity_type:
   - Creatividad
   - Arte
   - Investigación
-etiquetas:
-  - insectos
-  - suelo
-  - lombrices
-  - ecosistema
-  - póster
 category:
   - Ciencia
   - Medio ambiente
@@ -79,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +113,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 
