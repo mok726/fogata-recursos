@@ -16,7 +16,7 @@ layout: layouts/base.njk
 <div class="hero-metrics">
   <span><span class="material-symbols-outlined">groups</span> {{ participants or "N/E" }}</span>
   <span><span class="material-symbols-outlined">schedule</span> {{ duration or "N/E" }}</span>
-  <span><span class="material-symbols-outlined">productivity</span> {{ age_group | ageRange }}</span>
+  <span><span class="material-symbols-outlined">productivity</span> {{ age }}</span>
 </div>
 
         <div class="hero-tags">
@@ -66,7 +66,7 @@ layout: layouts/base.njk
       <li><span>Tipo de actividad:</span> {{ main_type or activity_type | first or "Dinámica" }}</li>
       <li><span>Duración:</span> {{ duration or "N/E" }}</li>
       <li><span>Participantes:</span> {{ participants or "N/E" }}</li>
-      <li><span>Edad:</span> {{ age_group | default([]) | ageRange }}</li>
+      <li><span>Edad:</span> {{ age }}</li>
       <li><span>Espacio:</span> {{ location }}{% if space_required %} ({{ space_required }}){% endif %}</li>
       <li><span>Complejidad:</span> {% if complexity_execution == 1 %}Baja{% elif complexity_execution == 2 %}Media{% elif complexity_execution == 3 %}Alta{% else %}N/E{% endif %}</li>
       <li><span>Materiales principales:</span> {{ materials | default([]) | join(", ") or special_materials | default([]) | join(", ") or "No listados" }}</li>

@@ -11,6 +11,12 @@ source:
   - YUNGA
 image: "/imagenes/actividades/aprender-haciendo.png"
 # original: "False" # 
+age: "11-22 años"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
+
 branch:
   - Naturaleza
 materials:
