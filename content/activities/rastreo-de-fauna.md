@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/rastreo-de-fauna/"
 description: "Identificación de señales animales."
 summary: "Identificación de señales animales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/rastreo-de-fauna.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -26,15 +26,28 @@ competencies:
   - Deducción
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C25"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine forest or park. Searching for animal signs - chewed leaves, tracks in mud, tree holes, nests, fur, feathers, scat. Measuring tracks with ruler. Drawing three discoveries. Guessing which animals left signs. If possible, inviting biologist. Tracking skills, ecological observation, animal behavior deduction atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine forest or park, with a muddy patch in the center-left showing animal tracks (bird, small mammal). A magnifying glass and a ruler next to the tracks. A field guide to tracks open. The left side has open space for text. On the far right side, two tiny scouts (7-13) kneel, one measuring a track with the ruler, the other comparing to the guide, seen from a distance. The animal tracking environment dominates."
 tags:
+  - biodiversidad
+  - rastreo
+  - fauna
+  - señales
+  - huellas
+  - excrementos
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -45,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - rastreo
-  - fauna
-  - señales
-  - huellas
-  - excrementos
 category:
   - Ecología
   - Naturaleza
@@ -70,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +103,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

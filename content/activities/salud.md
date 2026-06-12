@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/salud/"
 description: "Actividad para aprender sobre enfermedades relacionadas con el agua y cómo prevenirlas."
 summary: "Actividad para aprender sobre enfermedades relacionadas con el agua y cómo prevenirlas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/salud.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,15 +29,30 @@ competencies:
   - Comunicación
 responsible:
   - Líder de grupo
-ods:
-  - 3
 sdgs:
   - 3
+  - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X294"
-image_prompt: "Older scouts ages 14-21 inviting health expert to speak about water-related diseases - cholera, typhoid, giardia, hepatitis A, malaria (vector-borne). Creating poster or brochure on prevention - boiling water, sanitation, hand washing, mosquito nets. Public health literacy, disease prevention, community education atmosphere."
+  - agua
+activity_code: "agua-X47"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 3
+  - 6
+image_prompt: "An Argentine scout room, with a guest expert (civilian doctor or nurse) standing next to a whiteboard in the center-left. The board shows water-related diseases (cholera, typhoid, giardia) and prevention icons (boil water, hand washing, mosquito nets). A table with brochures. The left side has space for text. On the far right side, a group of tiny older scouts (14-21) sit, one raising a hand to ask a question, others taking notes, seen from a distance. The water and health talk environment dominates."
 tags:
+  - agua
+  - enfermedades
+  - salud
+  - prevención
+  - saneamiento
   - Parche del Agua
 location: "Interior"
 participants: "6-20"
@@ -48,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Educación
-etiquetas:
-  - enfermedades
-  - agua
-  - salud
-  - prevención
-  - saneamiento
 category:
   - Salud
   - Agua
@@ -78,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

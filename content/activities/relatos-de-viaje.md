@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/relatos-de-viaje/"
 description: "Los participantes investigan un lugar del mundo y su relación con el cambio climático."
 summary: "Los participantes investigan un lugar del mundo y su relación con el cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/relatos-de-viaje.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,15 +31,28 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X225"
-image_prompt: "Scouts ages 5-21 choosing a place they want to visit (Maldives, Netherlands, Amazon, Alps). Researching its climate, culture, and how climate change affects it (sea level rise, melting glaciers, drought). Creating travel guide with recommendations. Global climate awareness, cultural appreciation, creative research atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X12"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. Sticky notes on the Maldives (rising sea), the Alps (melting glaciers), and the Amazon (drought). A stack of handmade travel brochures on a table. The left side has space for text. On the far right side, two tiny scouts (5-21) sit, one leafing through a brochure, the other drawing a palm tree, seen from a distance. The climate travel guide environment dominates."
 tags:
+  - cambioclimatico
+  - viaje
+  - lugar
+  - cambio climático
+  - guía
+  - cultura
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Creatividad
-etiquetas:
-  - viaje
-  - lugar
-  - cambio climático
-  - guía
-  - cultura
 category:
   - Geografía
   - Clima
@@ -82,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

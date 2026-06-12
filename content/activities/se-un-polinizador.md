@@ -1,21 +1,21 @@
 ---
 title: "Sé un Polinizador"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-polinizador/"
 description: "Realiza la polinización tú mismo y aprende sobre el proceso."
 summary: "Realiza la polinización tú mismo y aprende sobre el proceso."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/se-un-polinizador.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -24,19 +24,30 @@ materials:
   - Pincel o dedo
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X77"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. One scout using small paintbrush to collect yellow pollen from flower. Gently transferring pollen to another flower. Another scout using finger. Teacher or leader explaining process. Sunny day, flowering plants. Playful, educational atmosphere."
+activity_code: "polinizadores-X04"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine garden on a sunny day. In the center-left, a flowering plant with visible yellow pollen. A small paintbrush lies on the ground nearby. Another flower a short distance away. The left side has open space for text. On the far right side, a tiny young scout (5-10) uses a paintbrush to collect pollen from one flower and gently transfer it to another, seen from a distance. The hands-on pollination simulation environment dominates."
 tags:
+  - polinizadores
+  - polinización
+  - polen
+  - pincel
+  - flor
+  - reproducción
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-15"
@@ -47,12 +58,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Juego
-etiquetas:
-  - polinización
-  - polen
-  - pincel
-  - flor
-  - reproducción
 category:
   - Botánica
   - Ciencia
@@ -75,16 +80,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +106,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

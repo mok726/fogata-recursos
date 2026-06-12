@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/se-un-ecoturista/"
 description: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
 summary: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/se-un-ecoturista.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +25,30 @@ competencies:
   - Creatividad
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
+  - 8
+  - 12
 activity_badges:
   - suelos
-activity_code: "suelos-X69"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching ecotourism examples in Argentina (Iguazú, Bariloche, Iberá). Designing own ecotourism activity - nature walk with soil observation, educational signs about soil conservation. Maps, laptop for research. Creative, planning atmosphere."
+activity_code: "suelos-X48"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a large map of Argentina on the wall in the center-left. On a table, a laptop open to ecotourism examples (Iguazú, Bariloche, Iberá) and a notebook with design ideas for an ecotourism activity. The left side has space for text. On the far right side, tiny older scouts (11-17) sit at the table, one pointing at the map, another typing, seen from a distance. The planning and research environment dominates."
 tags:
+  - suelos
+  - ecoturismo
+  - Argentina
+  - suelo
+  - conservación
+  - diseño
   - Insignia de los Suelos
 location: "Ambos"
 participants: "4-15"
@@ -46,12 +60,6 @@ activity_type:
   - Investigación
   - Creatividad
   - Planificación
-etiquetas:
-  - ecoturismo
-  - Argentina
-  - suelo
-  - conservación
-  - diseño
 category:
   - Turismo
   - Medio ambiente
@@ -74,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +108,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

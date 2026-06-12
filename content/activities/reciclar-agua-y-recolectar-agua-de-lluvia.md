@@ -3,22 +3,19 @@ title: "Reciclar agua y recolectar agua de lluvia"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclar-agua-y-recolectar-agua-de-lluvia/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Recicla el agua que queda después de cocinar o bañarte y recolecta agua de lluvia para regar las plantas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Recicla el agua que queda después de cocinar o bañarte y recolecta agua de lluvia para regar las plantas.
+description: "Recicla el agua que queda después de cocinar o bañarte y recolecta agua de lluvia para regar las plantas."
+summary: "Recicla el agua que queda después de cocinar o bañarte y recolecta agua de lluvia para regar las plantas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,17 +25,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X357"
-image_prompt: "Older scouts ages 11-15 collecting greywater (from rinsing vegetables, waiting for shower hot water) and rainwater for plants. Using buckets to capture. Water reuse, rainwater harvesting, urban water conservation, simple infrastructure, plant care atmosphere."
+  - sacc
+activity_code: "sacc-X51"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine garden, with a rain barrel under a downspout in the center-left and a bucket collecting greywater from a kitchen sink (visible through a window). A watering can being filled from the barrel. A sign 'Agua de lluvia para riego'. The left side has open space for text. On the far right side, two tiny older scouts (11-15) stand, one turning the rain barrel spigot, the other holding a watering can, seen from a distance. The water recycling environment dominates."
 tags:
+  - Ahorra Agua
+  - sacc
+  - agua gris
+  - lluvia
+  - reciclaje
+  - riego
+  - plantas
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"
 participants: "4-8"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Hábito
   - Reciclaje
-etiquetas:
-  - agua gris
-  - lluvia
-  - reciclaje
-  - riego
-  - plantas
 category:
   - Agua
   - Jardinería
@@ -77,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,21 +111,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reciclar agua y recolectar agua de lluvia
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Agua.
 Recicla el agua que queda después de cocinar o bañarte y recolecta agua de lluvia para regar las plantas.
 
 ## Desarrollo

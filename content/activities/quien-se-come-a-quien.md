@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/quien-se-come-a-quien/"
 description: "Crea una red alimentaria forestal usando dibujos, collage o modelos."
 summary: "Crea una red alimentaria forestal usando dibujos, collage o modelos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/quien-se-come-a-quien.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -31,15 +31,28 @@ competencies:
   - Creatividad
 responsible:
   - Scouter o profesor de ciencias
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A09"
-image_prompt: "Young scouts ages 5-15 creating forest food web - sun (energy) -> plants/phytoplankton -> insects -> birds -> carnivores -> decomposers. Using drawings, collage, or 3D model. Discussing keystone species removal impacts. Ecosystem dynamics, trophic levels, interdependence understanding, creative expression atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a large food web poster on the wall in the center-left: arrows from sun to plants to insects to birds to carnivores. A table with cardboard cutouts of species (tree, caterpillar, bird, fox) and string. The left side has negative space for text. On the far right side, two tiny scouts (5-15) stand, one holding a bird cutout, the other attaching string from plant to caterpillar, seen from a distance. The forest food web building environment dominates."
 tags:
+  - bosques
+  - red alimentaria
+  - bosque
+  - especies
+  - depredador
+  - presa
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -50,12 +63,6 @@ accessibility:
 activity_type:
   - Arte
   - Ciencia
-etiquetas:
-  - red alimentaria
-  - bosque
-  - especies
-  - depredador
-  - presa
 category:
   - Ecología
   - Ciencia
@@ -82,16 +89,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +115,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

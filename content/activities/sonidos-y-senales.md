@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/sonidos-y-senales/"
 description: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
 summary: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/sonidos-y-senales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +26,28 @@ tools:
   - Lupa (opcional)
 responsible:
   - Scouter o guía de naturaleza
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A03"
-image_prompt: "Young scouts ages 5-21 early morning forest observation mission. Listening for bird calls, insect sounds, animal movements. Imitating sounds to get responses. Looking for tracks, fur, feathers, scat. Using field guide. Wildlife tracking, auditory ecology, patience, early morning nature connection atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An early morning Argentine forest, with mist rising from the ground in the center-left. A fallen log with a small footprint in the mud nearby. A field guide to tracks and a small notebook on a stump. The left side has open space for text. On the far right side, two tiny scouts (5-21) kneel, one examining a footprint with a magnifying glass, the other sketching it, seen from a distance. The forest tracking environment dominates."
 tags:
+  - bosques
+  - sonidos
+  - animales
+  - huellas
+  - rastros
+  - observación
   - Insignia de los Bosques
 location: "Exterior"
 participants: "4-15"
@@ -48,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - sonidos
-  - animales
-  - huellas
-  - rastros
-  - observación
 category:
   - Ecología
   - Naturaleza
@@ -75,16 +80,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +106,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,22 +3,19 @@ title: "Plantar hierbas y vegetales locales"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantar-hierbas-y-vegetales-locales/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Planta hierbas y vegetales que requieran menos agua.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Planta hierbas y vegetales que requieran menos agua.
+description: "Planta hierbas y vegetales que requieran menos agua."
+summary: "Planta hierbas y vegetales que requieran menos agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/plantar-hierbas-y-vegetales-locales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -31,17 +28,33 @@ competencies:
   - Habilidades de jardinería
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X386"
-image_prompt: "Older scouts ages 11-15 researching low-water local plants (aromatic herbs - rosemary, thyme, oregano; vegetables - tomatoes, peppers). Planting in pots or garden. Learning drought-tolerant gardening, local food production, water conservation, self-sufficiency atmosphere."
+  - sacc
+activity_code: "sacc-X80"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine garden or balcony, with pots in the center-left containing herbs (rosemary, thyme, oregano) and vegetables (tomatoes, peppers). A watering can and a trowel. A sign 'Hierbas y vegetales locales - bajo consumo de agua'. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) kneel, one planting a seedling, the other watering, seen from a distance. The local low-water gardening environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - hierbas
+  - vegetales
+  - locales
+  - menos agua
+  - plantar
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"
 participants: "4-10"
@@ -52,12 +65,6 @@ accessibility:
 activity_type:
   - Jardinería
   - Cultivo
-etiquetas:
-  - hierbas
-  - vegetales
-  - locales
-  - menos agua
-  - plantar
 category:
   - Jardinería
   - Alimentación
@@ -86,16 +93,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,21 +120,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Plantar hierbas y vegetales locales
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Planta hierbas y vegetales que requieran menos agua.
 
 ## Desarrollo

@@ -1,28 +1,47 @@
 ---
 title: "Separar desde el comienzo"
-duration: "20 - 30 minutos"
+duration: "20-30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/separar-desde-el-comienzo/"
 description: "Actividad que ayuda a los jóvenes a comprender la importancia de la segregación de residuos."
 summary: "Actividad que ayuda a los jóvenes a comprender la importancia de la segregación de residuos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/separar-desde-el-comienzo.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 15
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X15"
-image_prompt: "Bright classroom in Argentine school. Three large recycling bins - green bin with paper symbol, yellow bin with plastic symbol, blue bin with glass symbol. Six young children ages 7-10 (three girls, three boys, diverse - Asian features, Afro hair, indigenous features, three white) standing in front of bins. Casual school clothes (t-shirts, jeans, colorful sneakers). Each child holding different waste items - plastic bottle, newspaper, glass jar, yogurt container, aluminum can, milk carton. One boy throwing plastic bottle into yellow bin. One girl hesitating with yogurt container looking thoughtfully at bins. Wall infographic showing bin symbols. Bright natural light from large windows. Educational, fun atmosphere."
+  - ptt
+activity_code: "ptt-X15"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "A bright classroom in an Argentine school. In the center-left, three large recycling bins: green (paper), yellow (plastic), blue (glass). An infographic on the wall shows bin symbols. The left side is clean for text. On the far right side, six tiny children (7-10) stand in front of the bins, each holding different waste items, seen from a distance. The educational sorting environment dominates."
+tags:
+  - ptt
+  - residuos
+  - clasificación
+  - contenedores de colores
+  - reciclaje
+  - separación
 location: "Ambos"
 participants: "6-20"
 complexity_execution: 1
@@ -31,12 +50,6 @@ accessibility:
   - Todas
 activity_type:
   - Aprender jugando
-etiquetas:
-  - residuos
-  - clasificación
-  - contenedores de colores
-  - reciclaje
-  - separación
 category:
   - Medio ambiente
   - Ciudadanía
@@ -59,16 +72,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -95,15 +98,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

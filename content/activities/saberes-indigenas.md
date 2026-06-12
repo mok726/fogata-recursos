@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/saberes-indigenas/"
 description: "Diálogo intercultural."
 summary: "Diálogo intercultural."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/saberes-indigenas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -24,15 +24,27 @@ competencies:
   - Documentación
 responsible:
   - líder indígena/educador
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D07"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) inviting indigenous speaker to share traditional knowledge about biodiversity use (medicinal plants, sustainable hunting, sacred species). Researching examples from each continent - Amazon (ayahuasca), Australia (aboriginal bush tucker), North America (Three Sisters planting), Asia (rice terraces). Learning from traditional ecological knowledge. Cultural respect, indigenous wisdom, decolonial learning atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a guest indigenous speaker (civilian, traditional attire) sitting in a chair in the center-left. A map of continents with small icons showing traditional uses (Amazon: ayahuasca, Australia: bush tucker, etc.). The left side has negative space for text. On the far right side, a group of tiny older scouts (11-17) sit in a semicircle, one raising a hand to ask a question, others listening attentively, seen from a distance. The indigenous knowledge sharing environment dominates."
 tags:
+  - biodiversidad
+  - saberes indígenas
+  - conocimiento tradicional
+  - culturas
+  - respeto
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-25"
@@ -43,12 +55,6 @@ accessibility:
 activity_type:
   - Investigación
   - Escucha
-etiquetas:
-  - saberes indígenas
-  - biodiversidad
-  - conocimiento tradicional
-  - culturas
-  - respeto
 category:
   - Antropología
   - Ecología
@@ -67,16 +73,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +99,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,35 +5,45 @@ layout: "layouts/activity.njk"
 permalink: "/activities/polinizadores-y-la-economia/"
 description: "Investiga cómo la economía de tu país depende de los polinizadores."
 summary: "Investiga cómo la economía de tu país depende de los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/polinizadores-y-la-economia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X91"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching value of pollinators to agriculture (almonds, apples, pumpkins). One scout presenting economic impact chart. Discussion about supporting pollinator-friendly policies. Economic and environmental awareness atmosphere."
+activity_code: "polinizadores-X18"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a chart on the wall in the center-left showing the economic value of pollinators (e.g., bar chart for almonds, apples, pumpkins). A laptop with data from FAO. The left side has space for text. On the far right side, tiny young scouts (5-10) sit at a table, one presenting at the front with a pointer, others listening, seen from a distance. The economic awareness environment dominates."
 tags:
+  - polinizadores
+  - economía
+  - agricultura
+  - valor económico
+  - políticas
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-15"
@@ -44,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - economía
-  - polinizadores
-  - agricultura
-  - valor económico
-  - políticas
 category:
   - Economía
   - Agricultura
@@ -72,16 +76,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

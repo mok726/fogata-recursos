@@ -3,23 +3,19 @@ title: "Reducir tiempo frente a pantallas"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-tiempo-frente-a-pantallas/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Comprométete a usar menos tiempo el televisor o la computadora cada día.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Comprométete a usar menos tiempo el televisor o la computadora cada día.
+description: "Comprométete a usar menos tiempo el televisor o la computadora cada día."
+summary: "Comprométete a usar menos tiempo el televisor o la computadora cada día."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reducir-tiempo-frente-a-pantallas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,17 +24,32 @@ competencies:
   - Autodisciplina
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 3
-  - 7
 sdgs:
   - 3
   - 7
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X342"
-image_prompt: "Young scouts ages 5-10 committing to less screen time (TV, computer, tablet). Finding other activities - reading, playing outside, drawing, board games. Encouraging friends to join. Energy savings + health benefits. Digital wellness, energy conservation, peer influence atmosphere."
+  - sacc
+activity_code: "sacc-X36"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 3
+  - 7
+image_prompt: "An Argentine living room, with a turned-off TV and a computer monitor in the center-left. On a table, board games, drawing paper, and a book. A calendar with checkmarks for days with less screen time. The left side has open space for text. On the far right side, a tiny young scout (5-10) sits on the floor, drawing, a parent (civilian) reading a book beside them, seen from a distance. The screen-free family time environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - pantallas
+  - televisor
+  - computadora
+  - reducción
+  - energía
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "2-10"
@@ -49,12 +60,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Compromiso
-etiquetas:
-  - pantallas
-  - televisor
-  - computadora
-  - reducción
-  - energía
 category:
   - Salud
   - Energía
@@ -73,16 +78,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,21 +105,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reducir tiempo frente a pantallas
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Comprométete a usar menos tiempo el televisor o la computadora cada día.
 
 ## Desarrollo

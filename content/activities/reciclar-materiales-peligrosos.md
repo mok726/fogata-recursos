@@ -3,23 +3,19 @@ title: "Reciclar materiales peligrosos"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclar-materiales-peligrosos/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas.
+description: "Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas."
+summary: "Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reciclar-materiales-peligrosos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -32,17 +28,33 @@ competencies:
   - Responsabilidad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 14
 sdgs:
   - 12
   - 14
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X377"
-image_prompt: "Older scouts ages 16-20 learning proper disposal of hazardous household waste - batteries (contain heavy metals), paint, medicines (do not flush), electronics, ink cartridges, chemicals, tires. Finding local collection points. Preventing soil and water contamination, responsible waste management, environmental protection advocacy atmosphere."
+  - sacc
+activity_code: "sacc-X71"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 14
+rama_caminantes:
+  - 3
+  - 12
+  - 14
+rama_rovers:
+  - 12
+  - 14
+image_prompt: "An Argentine scout room, with a table in the center-left displaying hazardous household waste: used batteries, expired medicines, an old smartphone, a paint can, a used ink cartridge. A poster showing where to recycle each (collection points). A bin labeled 'Peligrosos - No tirar'. The left side has open space for text. On the far right side, two tiny older scouts (16-20) stand, one placing a battery into a special container, the other reading the poster, seen from a distance. The hazardous waste recycling environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - pilas
+  - pinturas
+  - medicinas
+  - reciclaje
+  - peligrosos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -53,12 +65,6 @@ accessibility:
 activity_type:
   - Reciclaje
   - Seguridad
-etiquetas:
-  - pilas
-  - pinturas
-  - medicinas
-  - reciclaje
-  - peligrosos
 category:
   - Residuos
   - Salud
@@ -82,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,21 +115,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reciclar materiales peligrosos
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas.
 
 ## Desarrollo

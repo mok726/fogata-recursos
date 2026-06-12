@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/suelos-calidos/"
 description: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
 summary: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/suelos-calidos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,15 +30,29 @@ competencies:
   - análisis.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X231"
-image_prompt: "Young scouts ages 5-15 filling containers with soil, sand, water. Placing in sun. Measuring temperature every 15 minutes. Comparing which heats up fastest (sand/soil) and which stays cooler (water). Discussing implications for urban heat islands, agriculture, climate adaptation. Hands-on science, albedo effect, real-world connections atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X18"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "A sunny Argentine outdoor area, with three containers in the center-left: one with soil, one with sand, one with water. Three thermometers inserted. A timer on the ground. The left side has open space for text. On the far right side, two tiny scouts (5-15) kneel, one checking the soil thermometer, the other recording on a clipboard, seen from a distance. The soil heating experiment environment dominates."
 tags:
+  - cambioclimatico
+  - suelos
+  - calor
+  - absorción
+  - tierra
+  - arena
+  - agua
   - Insignia del Cambio Climático
 location: "Exterior"
 participants: "4-10"
@@ -49,13 +63,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - suelos
-  - calor
-  - absorción
-  - tierra
-  - arena
-  - agua
 category:
   - Ciencia
   - Suelos
@@ -82,16 +89,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +115,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

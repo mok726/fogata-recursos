@@ -3,22 +3,19 @@ title: "Resolver un problema comunitario"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/resolver-un-problema-comunitario/"
-description: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Elige un problema que consideras inaceptable en tu comunidad y haz algo para resolverlo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Elige un problema que consideras inaceptable en tu comunidad y haz algo para resolverlo.
+description: "Elige un problema que consideras inaceptable en tu comunidad y haz algo para resolverlo."
+summary: "Elige un problema que consideras inaceptable en tu comunidad y haz algo para resolverlo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/resolver-un-problema-comunitario.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,15 +23,29 @@ competencies:
   - Liderazgo y resolución de problemas
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X331"
-image_prompt: "Older scouts ages 11-15 identifying an unacceptable problem in community - litter in park, broken playground, dangerous crosswalk, lack of recycling bins. Taking action - clean-up, petition to authorities, fundraising for fix, awareness campaign. Youth-led change, problem-solving, civic engagement atmosphere."
+  - sacc
+activity_code: "sacc-X25"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine community setting (park, sidewalk, or school), with a problem visible in the center-left: litter in a park, a broken bench, or a dangerous crosswalk. A sign 'Proyecto Scout - Solución'. The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) work together, one picking up litter, another holding a sign, a third talking to a civilian neighbor, seen from a distance. The community problem-solving environment dominates."
 tags:
+  - Actúa
+  - sacc
+  - problema comunitario
+  - resolver
+  - inaceptable
+  - acción
+  - impacto
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "6-20"
@@ -45,12 +56,6 @@ accessibility:
 activity_type:
   - Proyecto
   - Servicio
-etiquetas:
-  - problema comunitario
-  - resolver
-  - inaceptable
-  - acción
-  - impacto
 category:
   - Ciudadanía
   - Liderazgo
@@ -74,16 +79,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +106,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Resolver un problema comunitario
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Actúa.
 Elige un problema que consideras inaceptable en tu comunidad y haz algo para resolverlo.
 
 ## Desarrollo

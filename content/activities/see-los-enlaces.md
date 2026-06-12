@@ -1,35 +1,53 @@
 ---
 title: "S.E.E los enlaces"
-duration: "20 -30 min"
+duration: "20-30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/see-los-enlaces/"
 description: "Esta actividad permite a los participantes explorar los vínculos entre la sociedad, el medio ambiente y la economía."
 summary: "Esta actividad permite a los participantes explorar los vínculos entre la sociedad, el medio ambiente y la economía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/see-los-enlaces.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Dados de colores
 competencies:
   - Colaboración
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X210"
-image_prompt: "Older youth ages 14+ (mixed genders, diverse ethnicities) in Argentine scout room. Colored dice representing Society, Environment, Economy. Rolling dice to get combinations (e.g., Society + Environment). Creating short story about links between them (a factory pollutes river affecting fishing community). Discussing interconnections, trade-offs, sustainability. Systems thinking through creative storytelling, triple bottom line understanding atmosphere."
+  - cfn
+activity_code: "cfn-X18"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a large poster on the wall in the center-left showing three interlocking circles labeled 'Sociedad', 'Medio Ambiente', 'Economía'. Colorful dice on a table below. The left side has negative space for text. On the far right side, three tiny older youths (14+) sit around a table, one rolling a colored die, another writing a story on a paper, a third listening, seen from a distance. The systems thinking game environment dominates."
 tags:
+  - cfn
+  - SEE
+  - sociedad
+  - medio ambiente
+  - economía
+  - vínculos
   - Champions for Nature
 location: "Interior"
 participants: "6-20"
@@ -40,12 +58,6 @@ accessibility:
 activity_type:
   - Juego
   - Creatividad
-etiquetas:
-  - SEE
-  - sociedad
-  - medio ambiente
-  - economía
-  - vínculos
 category:
   - Economía
   - Ecología
@@ -66,16 +78,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +104,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

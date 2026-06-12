@@ -1,18 +1,21 @@
 ---
 title: "Reciclar y reducir"
-duration: "10 -15 min"
+duration: "10-15 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclar-y-reducir/"
 description: "Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable."
 summary: "Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reciclar-y-reducir.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Tarjetas de reciclaje
   - Cajas o superficies para clasificar
@@ -22,17 +25,32 @@ competencies:
   - Pensamiento Crítico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X197"
-image_prompt: "Young scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Sorting cards into recycling categories - paper, plastic, glass, aluminum, compost/organic. Then discussing - reducing is better than recycling. Facilitator explaining hierarchy - Reduce, Reuse, Recycle. Hands-on sorting, environmental hierarchy learning atmosphere."
+  - cfn
+activity_code: "cfn-X05"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a table in the center-left. On the table, several recycling cards (aluminio, compost, papel, plástico) and small bins or boxes for sorting. A sign 'Reciclar vs Reducir'. The left side has negative space for text. On the far right side, two tiny scouts (7-14) sit, one sorting a card into a bin, the other holding a card, seen from a distance. The waste sorting game environment dominates."
 tags:
+  - cfn
+  - reciclaje
+  - reducción
+  - residuos
+  - clasificación
+  - consumo responsable
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
@@ -43,12 +61,6 @@ accessibility:
 activity_type:
   - Juego
   - Clasificación
-etiquetas:
-  - reciclaje
-  - reducción
-  - residuos
-  - clasificación
-  - consumo responsable
 category:
   - Medio ambiente
   - Reciclaje
@@ -72,16 +84,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

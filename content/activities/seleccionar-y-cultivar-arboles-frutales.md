@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/seleccionar-y-cultivar-arboles-frutales/"
 description: "Aprende a cultivar árboles frutales y cómo los polinizadores los ayudan."
 summary: "Aprende a cultivar árboles frutales y cómo los polinizadores los ayudan."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/seleccionar-y-cultivar-arboles-frutales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -33,15 +33,30 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X113"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Planting two compatible fruit trees (apple, plum, or cherry varieties) within 15m of each other. Adding compost to planting hole. Watering. Discussing how bees will cross-pollinate. Future harvest anticipation. Long-term project, ecological understanding atmosphere."
+activity_code: "polinizadores-X40"
+rama_lobatos:
+  - 1
+  - 4
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine garden or orchard. In the center-left, two young fruit trees (apple, plum) planted within 15 meters of each other, with compost spread around their bases. A shovel and a bag of compost nearby. The left side has open space for text. On the far right side, three tiny young scouts (5-10) stand near the trees, one holding a shovel, another pointing at the trees, seen from a distance. The fruit tree planting environment dominates."
 tags:
+  - polinizadores
+  - árboles frutales
+  - polinización
+  - cultivo
+  - frutas
+  - jardín
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-10"
@@ -52,12 +67,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
-etiquetas:
-  - árboles frutales
-  - polinización
-  - cultivo
-  - frutas
-  - jardín
 category:
   - Agricultura
   - Jardinería
@@ -83,16 +92,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +118,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

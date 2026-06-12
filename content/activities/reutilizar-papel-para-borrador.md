@@ -3,23 +3,19 @@ title: "Reutilizar papel para borrador"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/reutilizar-papel-para-borrador/"
-description: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Reúne tus papeles para borrador y úsalos para dibujar o escribir notas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Reúne tus papeles para borrador y úsalos para dibujar o escribir notas.
+description: "Reúne tus papeles para borrador y úsalos para dibujar o escribir notas."
+summary: "Reúne tus papeles para borrador y úsalos para dibujar o escribir notas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reutilizar-papel-para-borrador.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,17 +26,33 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X360"
-image_prompt: "Young scouts ages 5-10 collecting scrap paper (one-side printed). Using for drawing, notes, crafts. Paper reuse habit, forest conservation, creative repurposing atmosphere."
+  - sacc
+activity_code: "sacc-X54"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine scout room, with a table in the center-left covered with scrap paper (one-side printed). A child drawing on the blank side with colored pencils. A stack of used paper and a finished drawing. The left side has negative space for text. On the far right side, two tiny young scouts (5-10) sit, one drawing, the other flipping through a pile of scrap paper, seen from a distance. The paper reuse environment dominates."
 tags:
+  - Protege los Bosques
+  - sacc
+  - papel
+  - borrador
+  - reutilizar
+  - dibujar
+  - notas
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
   - -Visual
 activity_type:
   - Reutilización
-etiquetas:
-  - papel
-  - borrador
-  - reutilizar
-  - dibujar
-  - notas
 category:
   - Papel
   - Creatividad
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 1
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +111,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reutilizar papel para borrador
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Protege los Bosques.
 Reúne tus papeles para borrador y úsalos para dibujar o escribir notas.
 
 ## Desarrollo

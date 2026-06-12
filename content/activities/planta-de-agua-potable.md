@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/planta-de-agua-potable/"
 description: "Visita una planta de tratamiento de agua local."
 summary: "Visita una planta de tratamiento de agua local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/planta-de-agua-potable.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,28 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X274"
-image_prompt: "Older scouts ages 14-17 visiting local water treatment plant. Learning about processes - coagulation, sedimentation, filtration, disinfection. Seeing labs where water quality tested. Talking with staff about challenges. Appreciating infrastructure that provides safe drinking water. Public health, water engineering, municipal services awareness atmosphere."
+  - agua
+activity_code: "agua-X27"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine water treatment plant, with large tanks and pipes in the center-left. A sign showing the process: coagulation, sedimentation, filtration, disinfection. A civilian technician holding a water sample. The left side has open space for text. On the far right side, a group of tiny older scouts (14-17) stand, one taking a photo, another asking a question, seen from a distance. The water treatment plant visit environment dominates."
 tags:
+  - agua
+  - agua potable
+  - tratamiento
+  - planta
+  - purificación
+  - AYSA
   - Insignia del Agua
 location: "Interior / Exterior"
 participants: "5-15"
@@ -40,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - agua potable
-  - tratamiento
-  - planta
-  - purificación
-  - AYSA
 category:
   - Agua
   - Ingeniería
@@ -66,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +100,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

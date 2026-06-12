@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/revision-a-los-suelos/"
 description: "Investiga los problemas del suelo en tu área local."
 summary: "Investiga los problemas del suelo en tu área local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/revision-a-los-suelos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,19 +26,32 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X28"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) in Argentine field or farm. Talking with farmer or soil expert. One scout taking notes on clipboard. Another recording audio on phone. Farmer pointing at eroded soil area. Rural landscape, blue sky. Serious, civic-minded atmosphere."
+activity_code: "suelos-X07"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine field or farm on a sunny day. In the center-left, a farmer (civilian, work clothes) points at an eroded area of soil. A clipboard and a phone for recording lie on the ground. The left side has open space for text. On the far right side, a group of tiny older scouts (11-17) stand around the farmer, one taking notes, another recording, seen from a distance. The local investigation environment dominates."
 required: true
 required_for:
   - suelos-X
 required_comment: "Actividad obligatoria"
 tags:
+  - suelos
+  - problemas del suelo
+  - local
+  - expertos
+  - entrevista
+  - soluciones
   - Insignia de los Suelos
 location: "Exterior / Interior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio a los demás
-etiquetas:
-  - problemas del suelo
-  - local
-  - expertos
-  - entrevista
-  - soluciones
 category:
   - Medio ambiente
   - Sociología
@@ -77,16 +83,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +109,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

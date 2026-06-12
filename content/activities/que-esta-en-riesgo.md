@@ -1,18 +1,21 @@
 ---
 title: "¿Qué está en riesgo?"
-duration: "Semana 1 - Investigación, Semana 2 - 1 hora"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-esta-en-riesgo/"
 description: "Esta actividad permite a los participantes experimentar los efectos de las especies invasoras en un ecosistema."
 summary: "Esta actividad permite a los participantes experimentar los efectos de las especies invasoras en un ecosistema."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/que-esta-en-riesgo.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Clips para papel
   - Tarjetas de especies invasoras y nativas
@@ -21,15 +24,28 @@ competencies:
   - Pensamiento Crítico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X202"
-image_prompt: "Young scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Playing Rock-Paper-Scissors variant - invasive species beats native, native beats something else. Simulating how invasives outcompete natives. After game, discussing real-world examples (lionsfish, zebra mussel, beavers in Tierra del Fuego). Ecological awareness, systems thinking through play atmosphere."
+  - cfn
+activity_code: "cfn-X10"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with an open space in the center-left. Cards with invasive species (castor, mejillón cebra) and native species (árbol nativo, pájaro). The left side has space for text. On the far right side, a group of tiny scouts (7-14) play a rock-paper-scissors variant, one acting as invasive species 'beating' a native, seen from a distance. The invasive species game environment dominates."
 tags:
+  - cfn
+  - especies invasoras
+  - nativas
+  - ecosistema
+  - simulación
+  - piedra papel tijera
   - Champions for Nature
 location: "Interior"
 participants: "6-20"
@@ -40,12 +56,6 @@ accessibility:
 activity_type:
   - Juego
   - Simulación
-etiquetas:
-  - especies invasoras
-  - nativas
-  - ecosistema
-  - simulación
-  - piedra papel tijera
 category:
   - Ecología
   - Juego
@@ -68,16 +78,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +104,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

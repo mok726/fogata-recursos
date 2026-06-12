@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/presiones-pintadas/"
 description: "Crea un póster sobre las presiones que afectan los suministros de agua."
 summary: "Crea un póster sobre las presiones que afectan los suministros de agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/presiones-pintadas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -26,15 +27,27 @@ competencies:
   - Conciencia ambiental
   - Comunicación
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X284"
-image_prompt: "Older scouts ages 11-15 in groups creating posters about water supply pressures - population growth, urbanization, pollution, climate change, poor management. Using collage, painting, drawing. Exhibiting in community to raise awareness. Artistic advocacy, water issues communication, public education atmosphere."
+  - agua
+activity_code: "agua-X37"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with several posters on easels in the center-left, each showing a pressure on water supplies: population growth (crowded city), urbanization (building construction), pollution (factory waste), climate change (dried river), poor management (leaky pipe). The left side has space for text. On the far right side, a group of tiny older scouts (11-15) stand, one explaining a poster, another pointing at the leaky pipe, seen from a distance. The water pressures art exhibition environment dominates."
 tags:
+  - agua
+  - presiones
+  - población
+  - urbanización
+  - cambio climático
   - Insignia del Agua
 location: "Interior"
 participants: "4-20"
@@ -45,12 +58,6 @@ accessibility:
 activity_type:
   - Arte
   - Activismo
-etiquetas:
-  - presiones
-  - agua
-  - población
-  - urbanización
-  - cambio climático
 category:
   - Arte
   - Agua
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

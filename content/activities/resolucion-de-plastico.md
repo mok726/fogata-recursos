@@ -1,28 +1,47 @@
 ---
 title: "Resolución de plástico"
-duration: "15 - 20 minutos"
+duration: "15-20 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/resolucion-de-plastico/"
 description: "Actividad que anima a los jóvenes a tomar medidas para reducir el uso de plásticos."
 summary: "Actividad que anima a los jóvenes a tomar medidas para reducir el uso de plásticos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/resolucion-de-plastico.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 14
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X06"
-image_prompt: "Six preadolescent scouts (11-14 years old, three girls, three boys, diverse ethnicities - dark skin with short Afro hair, light skin with red hair, olive skin) wearing scout uniforms with neckerchiefs, sitting in circle on chairs in scout hut in Argentina. Center of circle has large paper with crossed-out plastic bottle symbol and calendar icon showing two weeks. One girl scout holding small whiteboard with checkmark. Serious and committed expressions. Some nodding. Warm indoor lighting. Wall has world map without flags and scout posters. Optimistic, determined atmosphere."
+  - ptt
+activity_code: "ptt-X06"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "A warm scout hut in Argentina. In the center-left, a large paper on the floor shows a crossed-out plastic bottle and a calendar icon for two weeks. A world map on the wall. The left side is empty for text. On the far right side, a tiny group of six scouts (11-14) sit in a circle on chairs, seen from a distance. Their postures are thoughtful, but the environment of commitment dominates."
+tags:
+  - ptt
+  - meta
+  - reducción de plástico
+  - seguimiento
+  - 2 semanas
+  - compromiso
 location: "Ambos"
 participants: "4-15"
 complexity_execution: 2
@@ -32,12 +51,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Compromiso
-etiquetas:
-  - meta
-  - reducción de plástico
-  - seguimiento
-  - 2 semanas
-  - compromiso
 category:
   - Medio ambiente
   - Ciudadanía
@@ -58,16 +71,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -94,15 +97,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

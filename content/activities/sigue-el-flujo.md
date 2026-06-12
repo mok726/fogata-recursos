@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/sigue-el-flujo/"
 description: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
 summary: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/sigue-el-flujo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +30,27 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X293"
-image_prompt: "Older scouts ages 11-17 creating flow diagram showing how water affects every aspect of life - health, food production, education (girls spending hours collecting water), economy, dignity. Then alternative diagram showing impacts of water scarcity and contamination - disease, poverty, conflict, school absence. Systems thinking, water cycle of life, cause-effect visualization atmosphere."
+  - agua
+activity_code: "agua-X46"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a large flowchart poster on the wall in the center-left. One side shows 'Agua limpia → salud, educación, economía, dignidad'. The other side shows 'Falta de agua → enfermedades, pobreza, conflictos'. Arrows connecting each. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) stand, one pointing at the 'salud' arrow, the other at the 'enfermedades' side, seen from a distance. The water impact flow diagram environment dominates."
 tags:
+  - agua
+  - diagrama
+  - flujo
+  - impacto
+  - saneamiento
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Arte
   - Reflexión
-etiquetas:
-  - agua
-  - diagrama
-  - flujo
-  - impacto
-  - saneamiento
 category:
   - Educación
   - Agua
@@ -77,16 +83,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

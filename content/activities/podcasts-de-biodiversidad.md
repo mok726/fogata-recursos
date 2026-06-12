@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/podcasts-de-biodiversidad/"
 description: "Exploración de recursos multimedia."
 summary: "Exploración de recursos multimedia."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/podcasts-de-biodiversidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,16 +24,29 @@ competencies:
   - Curiosidad científica
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D03"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) in Argentine scout room. Listening to biodiversity podcasts or watching documentaries (EOL Podcasts, BBC Earth, Our Planet). Discussing interesting facts. Having fun recording their impression of a sea cucumber squirting water. Audio learning, science communication, species fascination atmosphere."
-similar_activities: "http -//education.eol.org/podcast"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a laptop or speaker in the center-left playing an audio podcast. A notebook with notes and a simple drawing of a sea cucumber squirting water. The left side has negative space for text. On the far right side, two tiny scouts (7-13) sit, one with headphones on, the other making a funny face imitating the sea cucumber sound, seen from a distance. The biodiversity podcast listening environment dominates."
+similar_activities:
+  - http://education.eol.org/podcast
 tags:
+  - biodiversidad
+  - podcasts
+  - documentales
+  - especies
+  - ciencia
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-20"
@@ -44,12 +57,6 @@ accessibility:
 activity_type:
   - Escucha
   - Aprendizaje
-etiquetas:
-  - podcasts
-  - biodiversidad
-  - documentales
-  - especies
-  - ciencia
 category:
   - Ciencia
   - Educación
@@ -68,16 +75,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://education.eol.org/podcast"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

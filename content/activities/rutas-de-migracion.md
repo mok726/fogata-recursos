@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/rutas-de-migracion/"
 description: "Mapeo de patrones migratorios."
 summary: "Mapeo de patrones migratorios."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/rutas-de-migracion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,17 +29,32 @@ competencies:
   - Análisis
 responsible:
   - educador Scout
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A10"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Tracing migration routes of 5 species (Arctic tern, monarch butterfly, humpback whale, swallows, sea turtles) on world map. Calculating distances. Identifying breeding, stopover, wintering grounds. Discussing climate change impacts. Global ecology, biogeography atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. Colored lines trace migration routes of Arctic tern, monarch butterfly, and humpback whale. Small icons for breeding and wintering grounds. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand, one tracing a route with a marker, the other reading from a laptop, seen from a distance. The migration mapping environment dominates."
 tags:
+  - biodiversidad
+  - migración
+  - rutas
+  - aves
+  - mariposas
+  - mapas
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -50,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Mapeo
-etiquetas:
-  - migración
-  - rutas
-  - aves
-  - mariposas
-  - mapas
 category:
   - Biogeografía
   - Clima
@@ -77,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

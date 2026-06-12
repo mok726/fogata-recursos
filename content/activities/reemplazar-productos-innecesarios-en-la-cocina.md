@@ -3,22 +3,19 @@ title: "Reemplazar productos innecesarios en la cocina"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/reemplazar-productos-innecesarios-en-la-cocina/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Sustituye elementos innecesarios en tu cocina por alternativas sostenibles.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Sustituye elementos innecesarios en tu cocina por alternativas sostenibles.
+description: "Sustituye elementos innecesarios en tu cocina por alternativas sostenibles."
+summary: "Sustituye elementos innecesarios en tu cocina por alternativas sostenibles."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,15 +23,29 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X387"
-image_prompt: "Older scouts ages 11-15 inspecting kitchen for unnecessary disposable items - plastic wrap (replace with reusable containers), paper towels (replace with cloth towels), plastic bags (reusable ones), aluminum foil (reusable lids). Making swaps. Zero-waste kitchen, household sustainability, simple impactful changes atmosphere."
+  - sacc
+activity_code: "sacc-X81"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine kitchen, with a countertop in the center-left showing disposable items: plastic wrap, paper towels, aluminum foil, and their reusable alternatives: a silicone lid, cloth towels, a reusable container. A sign 'Cambio sostenible'. The left side has open space for text. On the far right side, two tiny older scouts (11-15) stand, one holding the plastic wrap (crossed out), the other holding the silicone lid, seen from a distance. The kitchen swap environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - cocina
+  - reemplazar
+  - plástico
+  - toallas de papel
+  - alternativas
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
@@ -45,12 +56,6 @@ accessibility:
 activity_type:
   - Hábito
   - Sustitución
-etiquetas:
-  - cocina
-  - reemplazar
-  - plástico
-  - toallas de papel
-  - alternativas
 category:
   - Hogar
   - Consumo
@@ -73,16 +78,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,21 +105,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reemplazar productos innecesarios en la cocina
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Sustituye elementos innecesarios en tu cocina por alternativas sostenibles.
 
 ## Desarrollo

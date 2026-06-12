@@ -1,18 +1,21 @@
 ---
 title: "Planifica tu próximo paso"
-duration: "Abierta"
+duration: "abierta"
 layout: "layouts/activity.njk"
 permalink: "/activities/planifica-tu-proximo-paso/"
 description: "Esta actividad guía a los participantes en la planificación de un proyecto de servicio comunitario relacionado con la sostenibilidad."
 summary: "Esta actividad guía a los participantes en la planificación de un proyecto de servicio comunitario relacionado con la sostenibilidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/planifica-tu-proximo-paso.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Pautas de proyectos de servicio comunitario
 competencies:
@@ -20,17 +23,32 @@ competencies:
   - Planificación
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X212"
-image_prompt: "Scouts ages 11+ (mixed genders, diverse ethnicities) in Argentine scout room. Identifying community needs related to sustainability - litter, lack of recycling bins, invasive species, food waste. Breaking project into steps - research, planning, action, monitoring, evaluation. Using community service planning template. Developing action plan for implementation. Project management, community engagement, leadership atmosphere."
+  - cfn
+activity_code: "cfn-X20"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine scout room, with a large paper on an easel in the center-left showing a project planning template: 'Necesidad', 'Pasos', 'Recursos', 'Evaluación'. A table with markers and sticky notes. The left side has negative space for text. On the far right side, three tiny older scouts (11+) stand around the easel, one writing on a sticky note, another pointing at a step, seen from a distance. The community service planning environment dominates."
 tags:
+  - cfn
+  - servicio comunitario
+  - planificación
+  - proyecto
+  - sostenibilidad
+  - acción
   - Champions for Nature
 location: "Ambos"
 participants: "4-30"
@@ -41,12 +59,6 @@ accessibility:
 activity_type:
   - Planificación
   - Servicio
-etiquetas:
-  - servicio comunitario
-  - planificación
-  - proyecto
-  - sostenibilidad
-  - acción
 category:
   - Ciudadanía
   - Planificación
@@ -70,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/soluciones-globales/"
 description: "Actividad para investigar y experimentar con métodos de desalinización del agua."
 summary: "Actividad para investigar y experimentar con métodos de desalinización del agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/soluciones-globales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,16 +28,30 @@ tools:
   - Herramientas de laboratorio (opcional)
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X296"
-image_prompt: "Older scouts ages 14-21 building solar desalination still. Filling bowl with salt water, placing smaller cup inside, covering with plastic wrap, placing small weight on center. Sun evaporates water, condenses on plastic, drips into cup. Fresh water collected. Learning about desalination technology for water-scarce regions. Hands-on science, appropriate technology, global solutions atmosphere."
-similar_activities: "http -//sciencelllustrated.com.au/solar-desalination"
+  - agua
+activity_code: "agua-X49"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "A sunny Argentine outdoor area, with a simple solar desalination setup in the center-left: a bowl of salt water, a smaller cup inside, covered with plastic wrap with a small stone weighting the center. Fresh water droplets forming. The left side has open space for text. On the far right side, two tiny older scouts (14-21) kneel, one pointing at the condensation, the other at the fresh water cup, seen from a distance. The solar desalination experiment environment dominates."
+similar_activities:
+  - http://sciencelllustrated.com.au/solar-desalination
 tags:
+  - agua
+  - desalinización
+  - agua salada
+  - solar
+  - experimento
+  - tecnología
   - Parche del Agua
 location: "Exterior / Interior"
 participants: "4-10"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - desalinización
-  - agua salada
-  - solar
-  - experimento
-  - tecnología
 category:
   - Química
   - Tecnología
@@ -78,16 +86,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://sciencelllustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://sciencelllustrated.com.au/solar-desalination"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +120,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

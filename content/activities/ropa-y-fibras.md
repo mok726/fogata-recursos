@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/ropa-y-fibras/"
 description: "Análisis de materiales textiles."
 summary: "Análisis de materiales textiles."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ropa-y-fibras.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,28 @@ competencies:
   - Investigación
 responsible:
   - educador Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C18"
-image_prompt: "Young scouts ages 11-17 (mixed genders, diverse ethnicities) in scout room at home. Examining clothing labels, listing materials (cotton, polyester, wool, nylon, rayon, linen). Dividing into natural (cotton, wool, linen) and synthetic (polyester, nylon, acrylic). Discussing where natural fibers are grown (cotton fields, sheep pastures) and biodiversity impacts (water use, pesticides, land conversion). Considering sustainable fashion choices. Textile ecology, consumer responsibility, material literacy atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left. Piles of clothing with labels visible: cotton shirt (natural), polyester jacket (synthetic), wool sweater (natural), nylon backpack. A chart comparing natural vs synthetic. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) sit, one reading a label, the other writing on the chart, seen from a distance. The textile materials investigation environment dominates."
 tags:
+  - biodiversidad
+  - ropa
+  - fibras
+  - naturales
+  - sintéticas
+  - etiquetas
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - ropa
-  - fibras
-  - naturales
-  - sintéticas
-  - etiquetas
 category:
   - Moda
   - Ecología
@@ -70,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

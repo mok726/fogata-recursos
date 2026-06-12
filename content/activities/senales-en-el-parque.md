@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/senales-en-el-parque/"
 description: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
 summary: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/senales-en-el-parque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,15 +30,27 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X104"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park. Creating signs with help and permission - This garden has pollinators, Please don't spray pesticides, Bee hotel nearby. Placing signs on posts. Park visitors reading. Community education, visible impact atmosphere."
+activity_code: "polinizadores-X31"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine park on a sunny day. In the center-left, a wooden sign post with a sign that says 'This garden has pollinators' and another with 'Please don't spray pesticides'. A path leads into the park. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) stand next to a sign they just installed, one holding a hammer, another pointing at the sign, seen from a distance. The community education environment dominates."
 tags:
+  - polinizadores
+  - señales
+  - parque
+  - educación
+  - comunidad
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "4-10"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Sensibilización
-etiquetas:
-  - señales
-  - parque
-  - educación
-  - comunidad
-  - polinizadores
 category:
   - Comunicación
   - Medio ambiente
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +112,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

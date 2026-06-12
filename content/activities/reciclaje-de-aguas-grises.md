@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-aguas-grises/"
 description: "Solución práctica sostenible."
 summary: "Solución práctica sostenible."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reciclaje-de-aguas-grises.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,32 @@ competencies:
   - Pensamiento sistémico
 responsible:
   - experto local
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D29"
-image_prompt: "Older scouts ages 14-21 researching greywater recycling (water from sinks, showers, laundry, NOT toilets). Inviting water department official. Learning what greywater is, where appropriate (irrigation of non-edible plants), local laws. Designing ideal system for home or school with simple diagram. Presenting findings. Appropriate technology, water conservation, systems design, regulatory awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine scout room, with a diagram on the wall in the center-left showing a greywater system: sink → pipe → filter → irrigation for non-edible plants. A small model with buckets and tubes. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the diagram, the other holding a bucket, seen from a distance. The greywater system design environment dominates."
 tags:
+  - biodiversidad
+  - aguas grises
+  - reciclaje
+  - agua
+  - sistema
+  - sostenibilidad
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-12"
@@ -48,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Diseño
-etiquetas:
-  - aguas grises
-  - reciclaje
-  - agua
-  - sistema
-  - sostenibilidad
 category:
   - Ingeniería
   - Agua
@@ -78,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

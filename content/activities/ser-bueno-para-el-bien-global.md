@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/ser-bueno-para-el-bien-global/"
 description: "Habla con tu familia sobre hacer un cambio en el estilo de vida para ayudar al planeta."
 summary: "Habla con tu familia sobre hacer un cambio en el estilo de vida para ayudar al planeta."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ser-bueno-para-el-bien-global.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -27,19 +27,31 @@ competencies:
   - Responsabilidad
 responsible:
   - Responsable del grupo
-ods:
-  - 15
-  - 13
-  - 12
 sdgs:
   - 15
   - 13
   - 12
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X103"
-image_prompt: "Young scout ages 5-10 at home in Argentina. Talking with family about changes - use fewer plastic bags, recycle, turn off lights. Creating checklist on fridge - reduce waste, buy local honey, plant flowers. Family discussing together. Checking progress weekly. Family teamwork, household change atmosphere."
+activity_code: "polinizadores-X30"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine home kitchen, with a refrigerator in the center-left. On the fridge door, a colorful checklist handwritten: 'Reduce waste', 'Buy local honey', 'Plant flowers'. Magnets holding it. The left side has negative space for text. On the far right side, a tiny young scout (5-10) stands with a parent (civilian), both pointing at the checklist, seen from a distance. The family sustainability environment dominates."
 tags:
+  - polinizadores
+  - familia
+  - cambio de estilo de vida
+  - reciclaje
+  - consumo
+  - lista de verificación
   - Insignia de Polinizadores
 location: "Interior"
 participants: "2-10"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Servicio a los demás
-etiquetas:
-  - familia
-  - cambio de estilo de vida
-  - reciclaje
-  - consumo
-  - lista de verificación
 category:
   - Hogar
   - Medio ambiente
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

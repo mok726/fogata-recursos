@@ -1,21 +1,21 @@
 ---
 title: "Saltos Energéticos"
-duration: "20"
+duration: "20 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/saltos-energeticos/"
 description: "Demuestra energía potencial/cinética con movimientos corporales."
 summary: "Demuestra energía potencial/cinética con movimientos corporales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/saltos-energeticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -26,15 +26,27 @@ competencies:
   - Aprendizaje kinestésico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 3
 sdgs:
   - 3
 activity_badges:
   - energia
-activity_code: "energia-X164"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large hall. Standing in X position (arms up, legs apart) - storing potential energy. Jumping - converting to kinetic energy. Repeating. Discussing other examples - stretching rubber band, bending knees before jump. Kinesthetic physics, active learning atmosphere."
+activity_code: "energia-X33"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 3
+image_prompt: "An Argentine outdoor space or large hall, with an open floor area in the center-left. The left side has negative space for text. On the far right side, a group of tiny young scouts (5-10) stand in X position (arms up, legs apart) and then jump, converting potential to kinetic energy. Seen from a distance, their small bodies demonstrating physics. The energetic movement environment dominates."
 tags:
+  - energia
+  - energía potencial
+  - energía cinética
+  - saltos
+  - movimiento
+  - cuerpo
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "4-15"
@@ -46,12 +58,6 @@ activity_type:
   - Juego
   - Kinestésico
   - Educación física
-etiquetas:
-  - energía potencial
-  - energía cinética
-  - saltos
-  - movimiento
-  - cuerpo
 category:
   - Física
   - Educación física
@@ -71,16 +77,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 1
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +103,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

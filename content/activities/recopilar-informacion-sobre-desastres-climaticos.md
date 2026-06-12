@@ -3,23 +3,19 @@ title: "Recopilar información sobre desastres climáticos"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/recopilar-informacion-sobre-desastres-climaticos/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación.
+description: "Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación."
+summary: "Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,30 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
-  - 2
 sdgs:
   - 13
   - 2
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X393"
-image_prompt: "Older scouts ages 16-20 researching climate disasters - droughts (East Africa), floods (Pakistan, Bangladesh), hurricanes (Caribbean), cyclones, heat waves, wildfires (Australia, California). Mapping on world map. Discussing impacts on food access, nutrition, livelihoods. Disaster response awareness, climate adaptation, global empathy atmosphere."
+  - sacc
+activity_code: "sacc-X87"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a display board in the center-left showing news clippings and maps of climate disasters: floods (La Plata 2013), droughts (Cuyo), wildfires (Córdoba). A notebook with emergency preparedness plans. The left side has negative space for text. On the far right side, two tiny older scouts (16-20) stand, one pointing at the flood photo, the other reading a preparedness list, seen from a distance. The climate disaster research environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - desastres climáticos
+  - sequías
+  - inundaciones
+  - alimentos
+  - mapa
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Mapeo
-etiquetas:
-  - desastres climáticos
-  - sequías
-  - inundaciones
-  - alimentos
-  - mapa
 category:
   - Clima
   - Desastres
@@ -75,16 +78,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +105,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Recopilar información sobre desastres climáticos
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación.
 
 ## Desarrollo

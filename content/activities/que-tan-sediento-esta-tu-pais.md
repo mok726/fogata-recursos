@@ -8,16 +8,17 @@ description: |
 summary: |
   Investiga la situación hídrica en tu país.
   Actividad obligatoria para la categoría El agua en peligro.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/que-tan-sediento-esta-tu-pais.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -25,19 +26,31 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua-obligatoria
-activity_code: "del-agua-obligatoria-X281"
-image_prompt: "Older scouts ages 11-15 researching Argentina's water situation - Mendoza (drought, reliance on snowmelt from Andes), Buenos Aires (flooding), Chaco (water access issues), Patagonia (glaciers melting). Interviewing family, researching news. Learning about water management projects. Identifying ways to get involved. Local water challenges, climate impacts, civic engagement atmosphere."
+  - agua
+activity_code: "agua-X34"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a map of Argentina on the wall in the center-left showing regions with water stress (Mendoza drought, La Plata floods, Chaco access issues). Newspaper clippings about water management projects. A notebook with interview notes from family members. The left side has space for text. On the far right side, two tiny older scouts (11-15) stand, one pointing at Mendoza, the other reading a clipping, seen from a distance. The local water situation research environment dominates."
 required: true
 required_for:
-  - del-agua-obligatoria-X
+  - agua-X
 required_comment: "Actividad obligatoria"
 tags:
+  - agua
+  - Argentina
+  - sequía
+  - inundación
+  - estrés hídrico
   - Insignia del Agua (Obligatoria)
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - Argentina
-  - agua
-  - sequía
-  - inundación
-  - estrés hídrico
 category:
   - Geografía
   - Agua
@@ -69,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

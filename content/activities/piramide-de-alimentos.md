@@ -5,14 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/piramide-de-alimentos/"
 description: "Esta actividad permite a los participantes comprender el impacto de sus elecciones de alimentos en el medio ambiente y su salud."
 summary: "Esta actividad permite a los participantes comprender el impacto de sus elecciones de alimentos en el medio ambiente y su salud."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/piramide-de-alimentos.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Tabla para comida semanal
   - Pirámide de alimentos
@@ -21,17 +24,32 @@ competencies:
   - Pensamiento Crítico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X201"
-image_prompt: "Older youth ages 15+ (mixed genders, diverse ethnicities) in Argentine scout room. Tracking meals for one week on food diary. Comparing to food pyramid and environmental impact chart. Discussing - meat vs plant-based, local vs imported, seasonal vs out-of-season. Reflecting on how food choices affect planet. Planning diet changes. Food literacy, environmental nutrition atmosphere."
+  - cfn
+activity_code: "cfn-X09"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a large poster of a food pyramid on the wall in the center-left, next to a smaller chart showing environmental impact of foods (meat high, vegetables low). A table with a week-long food diary and a notebook. The left side has negative space for text. On the far right side, two tiny older youths (15+) sit, one pointing at the pyramid, the other writing in the diary, seen from a distance. The sustainable diet reflection environment dominates."
 tags:
+  - cfn
+  - alimentos
+  - pirámide
+  - dieta
+  - huella
+  - sostenibilidad
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
@@ -42,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - alimentos
-  - pirámide
-  - dieta
-  - huella
-  - sostenibilidad
 category:
   - Alimentación
   - Salud
@@ -71,16 +83,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

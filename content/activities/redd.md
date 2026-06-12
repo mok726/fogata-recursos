@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/redd/"
 description: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
 summary: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/redd.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +30,32 @@ competencies:
   - Conciencia climática
 responsible:
   - Scouter o experto en políticas ambientales
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-B16"
-image_prompt: "Older scouts ages 16-21 researching and explaining REDD+ (Reducing Emissions from Deforestation and Forest Degradation). Recording podcast or writing newspaper article explaining how it works - carbon credits, forest conservation, benefit-sharing, safeguards. Giving personal opinion on potential and challenges (leakage, permanence, governance). Climate policy, forest carbon markets, environmental economics, science communication atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a podcast recording setup in the center-left: a microphone on a stand, a laptop with a script about REDD+ (reducing emissions from deforestation), and a poster explaining carbon credits and safeguards. A 'REC' light on. The left side has open space for text. On the far right side, a tiny older scout (16-21) speaks into the microphone, another adjusts the laptop, seen from a distance. The REDD+ podcast environment dominates."
 tags:
+  - bosques
+  - REDD+
+  - carbono forestal
+  - deforestación
+  - mitigación
+  - pagos por servicios ambientales
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -51,12 +66,6 @@ accessibility:
 activity_type:
   - Comunicación
   - Análisis
-etiquetas:
-  - REDD+
-  - carbono forestal
-  - deforestación
-  - mitigación
-  - pagos por servicios ambientales
 category:
   - Clima
   - Política
@@ -80,16 +89,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +115,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

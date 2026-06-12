@@ -1,25 +1,21 @@
 ---
-title: "Proteger los bosques - evitar propagandas"
+title: "Proteger los bosques: evitar propagandas"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/proteger-los-bosques-evitar-propagandas/"
-description: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Diseña un letrero de 'No propagandas' y ponlo en tu buzón.
-summary: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Diseña un letrero de 'No propagandas' y ponlo en tu buzón.
+description: "Diseña un letrero de 'No propagandas' y ponlo en tu buzón."
+summary: "Diseña un letrero de 'No propagandas' y ponlo en tu buzón."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/proteger-los-bosques-evitar-propagandas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,17 +26,33 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X359"
-image_prompt: "Young scouts ages 5-10 designing No Junk Mail sign for mailbox. Reducing paper waste from unsolicited advertisements. Simple action, forest protection awareness, paper waste reduction atmosphere."
+  - sacc
+activity_code: "sacc-X53"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine home entrance, with a mailbox on the wall in the center-left. A hand-drawn sign attached to it: 'No propagandas - Gracias'. A stack of unsolicited flyers on the ground next to a recycling bin. The left side has negative space for text. On the far right side, a tiny young scout (5-10) stands, holding the sign before placing it, a parent (civilian) watches approvingly, seen from a distance. The junk mail reduction environment dominates."
 tags:
+  - Protege los Bosques
+  - sacc
+  - propagandas
+  - letrero
+  - no
+  - papel
+  - buzón
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "2-8"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Arte
   - Reducción
-etiquetas:
-  - propagandas
-  - letrero
-  - no
-  - papel
-  - buzón
 category:
   - Bosques
   - Papel
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,21 +113,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Proteger los bosques: evitar propagandas
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Protege los Bosques.
 Diseña un letrero de 'No propagandas' y ponlo en tu buzón.
 
 ## Desarrollo

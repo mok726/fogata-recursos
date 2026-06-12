@@ -5,20 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/reloj-de-sol/"
 description: "Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo."
 summary: "Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reloj-de-sol.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "5-22 años"
 age_group:
   - castores
   - manada
@@ -40,18 +37,31 @@ competencies:
   - Aprendizaje Práctico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 4
-  - 13
 sdgs:
   - 4
   - 13
+  - 7
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X121"
-image_prompt: "Group of scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Building sundial using printed template on cardboard. Placing gnomon (stick or folded paper). Positioning in sunny spot. Marking shadow lines every hour throughout day. Watching shadow move. Historical timekeeping, patience, observation atmosphere."
-similar_activities: "https -//www.exploratorium.edu/es/actividades/haz-un-reloj-de-sol"
+  - gosolar
+activity_code: "gosolar-X03"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+image_prompt: "A sunny Argentine outdoor space. In the center-left, a sundial made of cardboard or wood, placed on a flat surface, with a gnomon casting a shadow. Stones mark the hour lines. The left side has open space for text. On the far right side, two tiny scouts (5-21) kneel next to the sundial, one marking a new shadow line with a stone, the other holding a watch, seen from a distance. The ancient timekeeping environment dominates."
+similar_activities:
+  - https://www.exploratorium.edu/es/actividades/haz-un-reloj-de-sol
 tags:
+  - gosolar
+  - reloj de Sol
+  - sombra
+  - tiempo
+  - gnomon
+  - movimiento solar
   - Go Solar
 location: "Exterior"
 participants: "4-15"
@@ -62,12 +72,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Construcción
-etiquetas:
-  - reloj de Sol
-  - sombra
-  - tiempo
-  - gnomon
-  - movimiento solar
 category:
   - Astronomía
   - Historia
@@ -93,16 +97,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.exploratorium.edu/es/actividades/haz-un-reloj-de-sol"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -129,15 +128,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

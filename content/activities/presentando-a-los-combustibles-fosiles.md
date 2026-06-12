@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/presentando-a-los-combustibles-fosiles/"
 description: "Los participantes investigan y presentan sobre una fuente de combustible fósil."
 summary: "Los participantes investigan y presentan sobre una fuente de combustible fósil."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/presentando-a-los-combustibles-fosiles.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -31,17 +30,32 @@ competencies:
   - comunicación.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X240"
-image_prompt: "Older scouts ages 11-21 in groups researching a fossil fuel - coal, oil, natural gas. Creating presentation covering - formation, extraction methods, uses, emissions, alternatives. Sharing with group. Energy literacy, climate impacts, transition to renewables awareness atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X27"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine scout room, with three posters on easels in the center-left: coal (mining train), oil (oil rig), natural gas (flame). Each poster has pros and cons. A small model of a refinery. The left side has negative space for text. On the far right side, three tiny older scouts (11-21) stand, one pointing at the coal poster, another holding the model, seen from a distance. The fossil fuel presentation environment dominates."
 tags:
+  - cambioclimatico
+  - combustibles fósiles
+  - carbón
+  - petróleo
+  - gas natural
+  - presentación
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "6-20"
@@ -52,12 +66,6 @@ accessibility:
 activity_type:
   - Investigación
   - Presentación
-etiquetas:
-  - combustibles fósiles
-  - carbón
-  - petróleo
-  - gas natural
-  - presentación
 category:
   - Energía
   - Geología
@@ -83,16 +91,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +117,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Promover la energía renovable"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/promover-la-energia-renovable/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Inicia una campaña para promover el uso de energía renovable.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Inicia una campaña para promover el uso de energía renovable.
+description: "Inicia una campaña para promover el uso de energía renovable."
+summary: "Inicia una campaña para promover el uso de energía renovable."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/promover-la-energia-renovable.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Liderazgo y comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X314"
-image_prompt: "Older scouts ages 16-20 launching renewable energy campaign in their community - distributing information about solar panels, wind energy, community solar projects. Creating social media content, organizing informational meetings, contacting local government. Energy advocacy, community organizing, communication skills atmosphere."
+  - sacc
+activity_code: "sacc-X08"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine community space (school or plaza), with a booth in the center-left displaying information about solar panels, wind energy, and community solar projects. A banner 'Energía Renovable Ahora'. A laptop with a petition. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) talk to a civilian family, one handing a flyer, another explaining a solar panel model, seen from a distance. The renewable energy campaign environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - energía renovable
+  - campaña
+  - promoción
+  - solar
+  - eólica
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -53,12 +65,6 @@ accessibility:
 activity_type:
   - Campaña
   - Activismo
-etiquetas:
-  - energía renovable
-  - campaña
-  - promoción
-  - solar
-  - eólica
 category:
   - Energía
   - Activismo
@@ -83,16 +89,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,21 +116,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Promover la energía renovable
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Inicia una campaña para promover el uso de energía renovable.
 
 ## Desarrollo

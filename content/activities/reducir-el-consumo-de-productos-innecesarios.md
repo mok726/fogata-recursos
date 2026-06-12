@@ -3,23 +3,19 @@ title: "Reducir el consumo de productos innecesarios"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-el-consumo-de-productos-innecesarios/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Comprométete a no comprar al menos cinco cosas que no necesitas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Comprométete a no comprar al menos cinco cosas que no necesitas.
+description: "Comprométete a no comprar al menos cinco cosas que no necesitas."
+summary: "Comprométete a no comprar al menos cinco cosas que no necesitas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,15 +24,29 @@ competencies:
   - Autodisciplina
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X375"
-image_prompt: "Older scouts ages 16-20 committing to NOT buying at least five things they don't truly need for one month (fast fashion, gadgets, single-use items). Buying quality items that last longer when needed. Mindful consumption, resisting consumerism, financial savings, environmental values reinforcement atmosphere."
+  - sacc
+activity_code: "sacc-X69"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine home, with a shopping list on a refrigerator in the center-left, with five items crossed out and a note 'NO comprar'. A wallet with money saved. A sign 'Calidad antes que cantidad'. The left side has open space for text. On the far right side, a tiny older scout (16-20) talks with a parent (civilian) at the kitchen table, pointing at the list, seen from a distance. The mindful consumption environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - consumo
+  - innecesario
+  - no comprar
+  - reducción
+  - responsable
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -47,12 +57,6 @@ accessibility:
 activity_type:
   - Desafío
   - Consumo
-etiquetas:
-  - consumo
-  - innecesario
-  - no comprar
-  - reducción
-  - responsable
 category:
   - Consumo
   - Psicología
@@ -70,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,21 +101,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reducir el consumo de productos innecesarios
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Comprométete a no comprar al menos cinco cosas que no necesitas.
 
 ## Desarrollo

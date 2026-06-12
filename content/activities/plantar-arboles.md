@@ -3,22 +3,19 @@ title: "Plantar árboles"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantar-arboles/"
-description: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Participa en un proyecto para plantar árboles.
-summary: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Participa en un proyecto para plantar árboles.
+description: "Participa en un proyecto para plantar árboles."
+summary: "Participa en un proyecto para plantar árboles."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/plantar-arboles.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -32,17 +29,33 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X332"
-image_prompt: "Older scouts ages 11-15 participating in tree planting project at school, park, or restoration site. Learning about native species (ceibo, araucaria, algarrobo). Digging holes, planting, watering. Understanding carbon sequestration, shade, habitat provision. Reforestation, climate action, hands-on environmental restoration atmosphere."
+  - sacc
+activity_code: "sacc-X26"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine park or restoration site, with a group of young trees in the center-left, holes dug, bags of compost, and shovels. A sign 'Reforestación - Especies Nativas'. The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) kneel, one placing a tree in a hole, another shoveling soil, a third watering, seen from a distance. The tree planting environment dominates."
 tags:
+  - Actúa
+  - sacc
+  - plantar árboles
+  - reforestación
+  - cambio climático
+  - bosque
+  - carbono
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "8-30"
@@ -53,12 +66,6 @@ accessibility:
 activity_type:
   - Servicio
   - Reforestación
-etiquetas:
-  - plantar árboles
-  - reforestación
-  - cambio climático
-  - bosque
-  - carbono
 category:
   - Bosques
   - Clima
@@ -85,16 +92,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,21 +119,11 @@ active_component: 4
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Plantar árboles
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Actúa.
 Participa en un proyecto para plantar árboles.
 
 ## Desarrollo

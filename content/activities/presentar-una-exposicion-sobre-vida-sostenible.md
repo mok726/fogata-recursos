@@ -3,23 +3,19 @@ title: "Presentar una exposición sobre vida sostenible"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentar-una-exposicion-sobre-vida-sostenible/"
-description: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Organiza una exposición sobre cómo llevar una vida amigable con el medio ambiente.
-summary: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Organiza una exposición sobre cómo llevar una vida amigable con el medio ambiente.
+description: "Organiza una exposición sobre cómo llevar una vida amigable con el medio ambiente."
+summary: "Organiza una exposición sobre cómo llevar una vida amigable con el medio ambiente."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Comunicación y liderazgo
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X324"
-image_prompt: "Older scouts ages 16-20 organizing sustainable living exhibition at school - reducing waste, saving energy, eating local, using public transport, composting, renewable energy. Including displays, interactive activities, performances. Educating community. Environmental communication, event organization, peer education atmosphere."
+  - sacc
+activity_code: "sacc-X18"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine school or community hall, with an exhibition in the center-left: posters on reducing waste, saving energy, eating local, composting, renewable energy. Interactive displays (e.g., a compost bin, a solar toy). Civilian visitors walking around. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) stand, one explaining a poster, another demonstrating a compost bin, seen from a distance. The sustainable living exhibition environment dominates."
 tags:
+  - Sé creativo
+  - sacc
+  - vida sostenible
+  - exposición
+  - teatro
+  - educación
+  - medio ambiente
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "6-25"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Exposición
   - Educación
-etiquetas:
-  - vida sostenible
-  - exposición
-  - teatro
-  - educación
-  - medio ambiente
 category:
   - Educación
   - Arte
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,21 +112,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Presentar una exposición sobre vida sostenible
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Sé creativo.
 Organiza una exposición sobre cómo llevar una vida amigable con el medio ambiente.
 
 ## Desarrollo

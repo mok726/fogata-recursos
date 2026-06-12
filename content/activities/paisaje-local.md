@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/paisaje-local/"
 description: "Investiga qué tipos de ecosistemas existen en tu área y qué polinizadores los habitan."
 summary: "Investiga qué tipos de ecosistemas existen en tu área y qué polinizadores los habitan."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/paisaje-local.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -25,15 +25,27 @@ materials:
   - Información sobre los ecosistemas locales (opcional)
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X87"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating poster of local ecosystems (Pampas grassland, Monte desert, Andean forest). Drawing native pollinators like bumblebees, hummingbirds, butterflies. Map or landscape background. Colorful, educational atmosphere."
+activity_code: "polinizadores-X14"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a large poster on the wall in the center-left showing local ecosystems (Pampas grassland, Monte desert, Andean forest) with drawings of native pollinators (bumblebees, hummingbirds, butterflies). A map of Argentina with colored regions. The left side has space for text. On the far right side, tiny young scouts (5-10) sit at a table, one drawing a pollinator, another coloring the map, seen from a distance. The local biodiversity art environment dominates."
 tags:
+  - polinizadores
+  - ecosistema local
+  - paisaje
+  - póster
+  - biodiversidad
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-20"
@@ -45,12 +57,6 @@ activity_type:
   - Investigación
   - Creatividad
   - Arte
-etiquetas:
-  - ecosistema local
-  - polinizadores
-  - paisaje
-  - póster
-  - biodiversidad
 category:
   - Ecología
   - Geografía
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

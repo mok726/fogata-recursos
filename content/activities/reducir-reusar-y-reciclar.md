@@ -3,23 +3,19 @@ title: "Reducir, reusar y reciclar"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-reusar-y-reciclar/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras.
+description: "Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras."
+summary: "Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reducir-reusar-y-reciclar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,17 +26,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 14
 sdgs:
   - 12
   - 14
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X364"
-image_prompt: "Young scouts ages 5-10 using reusable bags instead of plastic bags when shopping. Encouraging family and friends. Plastic waste reduction, marine conservation, simple sustainable habit atmosphere."
+  - sacc
+activity_code: "sacc-X58"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 14
+rama_caminantes:
+  - 3
+  - 12
+  - 14
+rama_rovers:
+  - 12
+  - 14
+image_prompt: "An Argentine supermarket or home, with a reusable cloth shopping bag in the center-left, a recycling bin, and a sign 'Reduce, Reusa, Recicla'. A single-use plastic bag crumpled on the floor. The left side has open space for text. On the far right side, a tiny young scout (5-10) holds the reusable bag, another scout puts a plastic bottle into the recycling bin, seen from a distance. The 3R shopping environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - bolsas reusables
+  - plástico
+  - compras
+  - reducción
+  - ambiente
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-10"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Hábito
   - Reducción
-etiquetas:
-  - bolsas reusables
-  - plástico
-  - compras
-  - reducción
-  - ambiente
 category:
   - Plástico
   - Consumo
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +111,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reducir, reusar y reciclar
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras.
 
 ## Desarrollo

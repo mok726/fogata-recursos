@@ -5,34 +5,47 @@ layout: "layouts/activity.njk"
 permalink: "/activities/rastreadores-de-senderos/"
 description: "Aprende símbolos de senderos y diseña una ruta para otro grupo."
 summary: "Aprende símbolos de senderos y diseña una ruta para otro grupo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/rastreadores-de-senderos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
 responsible:
   - Scouter o guía de senderismo
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
   - bosques
 activity_code: "bosques-C15"
-image_prompt: "Older scouts ages 11-21 learning traditional trail marking symbols - piles of stones (cairns), broken branches, grass tied in knots, sticks pointing direction, stacked rocks meaning danger' or 'water here'"
-similar_activities: "low-tech orienteering"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine forest, with a trail marked using traditional symbols: stacked stones (cairn), a broken branch pointing direction, a grass knot. A sign explaining the symbols. The left side has open space for text. On the far right side, two tiny older scouts (11-21) walk, one pointing at a cairn, the other at a broken branch, seen from a distance. The traditional trail marking environment dominates."
+similar_activities:
+  - low-techorienteering
 tags:
+  - bosques
+  - senderos
+  - símbolos
+  - navegación tradicional
+  - marcas
+  - orientación
   - Insignia de los Bosques
 location: "Exterior (bosque)"
 participants: "4-10"
@@ -43,12 +56,6 @@ accessibility:
 activity_type:
   - Tradición
   - Navegación
-etiquetas:
-  - senderos
-  - símbolos
-  - navegación tradicional
-  - marcas
-  - orientación
 category:
   - Navegación
   - Tradición
@@ -62,16 +69,6 @@ space_required: "non-digital skills"
 special_materials:
   - teamwork atmosphere.'
 prep_time: "11"
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -98,15 +95,6 @@ prep_time: "11"
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

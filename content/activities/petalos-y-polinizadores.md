@@ -5,31 +5,43 @@ layout: "layouts/activity.njk"
 permalink: "/activities/petalos-y-polinizadores/"
 description: "Investiga qué polinizadores ayudan a tu flor favorita."
 summary: "Investiga qué polinizadores ayudan a tu flor favorita."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/petalos-y-polinizadores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X85"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Observing favorite flower (sunflower, lavender, rose). Recording which insects visit - bee, butterfly, hoverfly. Filling tally sheet on clipboard. One scout taking photo. Scientific observation, connection to nature atmosphere."
+activity_code: "polinizadores-X12"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine garden on a sunny day. In the center-left, a specific flower (e.g., sunflower, lavender) in bloom. A clipboard with a tally sheet and a pencil lies on the ground next to it. The left side has open space for text. On the far right side, a tiny young scout (5-10) kneels near the flower, watching for insect visitors and recording on the clipboard, seen from a distance. The focused observation environment dominates."
 tags:
+  - polinizadores
+  - flor favorita
+  - registro
+  - observación
+  - jardín
   - Insignia de Polinizadores
 location: "Exterior / Interior"
 participants: "4-15"
@@ -40,12 +52,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - flor favorita
-  - polinizadores
-  - registro
-  - observación
-  - jardín
 category:
   - Botánica
   - Naturaleza
@@ -66,16 +72,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +98,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

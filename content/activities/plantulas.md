@@ -1,23 +1,21 @@
 ---
 title: "PLÁNTULAS"
-duration: "2-3 horas (incluyendo seguimiento)"
+duration: "2-3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantulas/"
 description: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
 summary: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/plantulas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,15 +31,28 @@ tools:
   - Guantes
 responsible:
   - Scouter o guardabosques
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A08"
-image_prompt: "Scouts of all ages planting native tree seedlings in degraded area or schoolyard. Discussing planting depth, spacing, soil amendments, water needs, protection from animals. Committing to long-term care. Reforestation, native species restoration, environmental stewardship, hands-on conservation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden or reforestation site, with a row of young native tree seedlings in pots or freshly planted in the ground in the center-left. A bag of compost, a shovel, and a watering can. A sign 'Plantación de árboles nativos'. The left side has open space for text. On the far right side, a group of tiny scouts (5-21) kneel, one placing a seedling in a hole, another pouring water, a third adding compost, seen from a distance. The tree planting environment dominates."
 tags:
+  - bosques
+  - plántulas
+  - árboles
+  - plantar
+  - nativos
+  - cuidado
   - Insignia de los Bosques
 location: "Exterior"
 participants: "6-20"
@@ -52,12 +63,6 @@ accessibility:
 activity_type:
   - Servicio
   - Reforestación
-etiquetas:
-  - plántulas
-  - árboles
-  - plantar
-  - nativos
-  - cuidado
 category:
   - Reforestación
   - Ecología
@@ -86,16 +91,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +117,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

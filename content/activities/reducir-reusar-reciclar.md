@@ -1,21 +1,21 @@
 ---
 title: "Reducir, Reusar, Reciclar"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-reusar-reciclar/"
 description: "Demuestra la jerarquía de las 3R con cajas de cartón."
 summary: "Demuestra la jerarquía de las 3R con cajas de cartón."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reducir-reusar-reciclar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +28,28 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X161"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Stacking three boxes - largest labeled Reducir (most important), medium Reusar, smallest Reciclar (last resort). Discussing examples of each. Understanding waste hierarchy. Hands-on environmental education atmosphere."
+activity_code: "energia-X30"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with three stacked cardboard boxes in the center-left: largest labeled 'Reducir', medium 'Reusar', smallest 'Reciclar'. A sign explaining the hierarchy. The left side has negative space for text. On the far right side, two tiny young scouts (5-10) stand, one pointing at the largest box, the other holding a marker, seen from a distance. The 3R hierarchy environment dominates."
 tags:
+  - energia
+  - 3R
+  - reducir
+  - reusar
+  - reciclar
+  - jerarquía
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Manualidad
   - Reflexión
-etiquetas:
-  - 3R
-  - reducir
-  - reusar
-  - reciclar
-  - jerarquía
 category:
   - Medio ambiente
   - Consumo
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

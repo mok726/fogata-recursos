@@ -1,22 +1,21 @@
 ---
 title: "Refugio para vida silvestre"
-duration: "2 horas + monitoreo"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/refugio-para-vida-silvestre/"
 description: "Construcción de hoteles de insectos."
 summary: "Construcción de hoteles de insectos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/refugio-para-vida-silvestre.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - manada
@@ -29,15 +28,28 @@ competencies:
   - Conservación
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C23"
-image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or schoolyard. Building wildlife shelters - bee hotel with bamboo stems tied together, toad house with half-buried broken pot, bug hotel with wood scraps, ladybug shelter with twigs. Placing in garden. Observing over weeks which species move in. Habitat creation, insect conservation, hands-on biodiversity enhancement atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden, with a handmade wildlife shelter in the center-left: a bee hotel (bamboo canes tied together), a toad house (half-buried broken pot), and a bug hotel (stacked wood with gaps). A small sign 'Refugios para la Vida Silvestre'. The left side has open space for text. On the far right side, two tiny scouts (5-13) kneel, one inserting a bamboo stem, the other placing a stone on the toad house, seen from a distance. The wildlife shelter building environment dominates."
 tags:
+  - biodiversidad
+  - refugio
+  - vida silvestre
+  - insectos
+  - hotel de abejas
+  - conservación
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Construcción
   - Servicio
-etiquetas:
-  - refugio
-  - vida silvestre
-  - insectos
-  - hotel de abejas
-  - conservación
 category:
   - Conservación
   - Carpintería
@@ -83,16 +89,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +115,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

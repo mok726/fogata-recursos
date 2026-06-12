@@ -5,16 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/pasteles-de-lodo/"
 description: "Experimenta con diferentes texturas de suelo para crear pasteles de lodo."
 summary: "Experimenta con diferentes texturas de suelo para crear pasteles de lodo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/pasteles-de-lodo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
+age: "5-6 años"
 age_group:
   - castores
 materials:
@@ -25,15 +26,29 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X42"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space (garden or park). Mixing soil and water with hands to make mud pies. Building small structures (towers, walls). Different soil textures (sandy, clay). Muddy hands, smiling faces. Sunny day. Playful, messy, hands-on atmosphere."
+activity_code: "suelos-X21"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "An Argentine outdoor space (garden or park) on a sunny day. In the center-left, trays with different types of soil (sandy, clay) mixed with water, forming mud. Small structures (towers, walls) made of mud are built. The left side has space for text. On the far right side, tiny young scouts (5-10) kneel on the ground, hands covered in mud, smiling and building, seen from a distance. The playful, messy hands-on environment dominates."
 tags:
+  - suelos
+  - lodo
+  - pasteles
+  - textura
+  - construcción
+  - suelo
   - Insignia de los Suelos
 location: "Exterior"
 participants: "4-15"
@@ -44,12 +59,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Juego
-etiquetas:
-  - lodo
-  - pasteles
-  - textura
-  - construcción
-  - suelo
 category:
   - Arte
   - Ciencia
@@ -73,16 +82,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +108,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

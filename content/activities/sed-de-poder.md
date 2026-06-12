@@ -1,21 +1,21 @@
 ---
 title: "Sed de Poder"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/sed-de-poder/"
 description: "Juego para aprender sobre pobreza energética global."
 summary: "Juego para aprender sobre pobreza energética global."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/sed-de-poder.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,32 @@ competencies:
   - Geopolítica
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 1
 sdgs:
   - 1
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X182"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Pointing to random countries on world map, guessing energy access (electricity percentage). Checking real data from World Bank. Discussing disparities - Norway (100%), Chad (10%). Shocking differences. Global inequality awareness, empathy atmosphere."
+activity_code: "energia-X51"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 1
+  - 7
+rama_caminantes:
+  - 3
+  - 1
+  - 7
+rama_rovers:
+  - 1
+  - 7
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. A laptop nearby showing World Bank data on electrification rates. The left side has space for text. On the far right side, three tiny older scouts (11-17) stand, one pointing to a country (e.g., Chad), another reading data from the laptop, a third writing on a notepad, seen from a distance. The global energy poverty awareness environment dominates."
 tags:
+  - energia
+  - pobreza energética
+  - acceso
+  - países
+  - juego
+  - desigualdad
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -46,12 +63,6 @@ accessibility:
 activity_type:
   - Juego
   - Conciencia
-etiquetas:
-  - pobreza energética
-  - acceso
-  - países
-  - juego
-  - desigualdad
 category:
   - Energía
   - Geografía
@@ -71,16 +82,6 @@ scout_method:
   - Educación por la acción
 ludic_component: 3
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +108,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

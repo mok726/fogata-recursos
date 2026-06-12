@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/sed-continental/"
 description: "Investiga la distribución del agua en diferentes continentes."
 summary: "Investiga la distribución del agua en diferentes continentes."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/sed-continental.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 materials:
@@ -26,16 +27,29 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X286"
-image_prompt: "Older scouts ages 14-17 in continent groups researching water statistics - renewable freshwater resources per capita, access to safe drinking water, sanitation coverage. Using FAO AQUASTAT data. Creating continent posters. Discussing factors - climate, infrastructure, wealth, governance. Identifying solutions. Global water inequality, data analysis, development geography atmosphere."
-similar_activities: "http -//www.fao.org/aquastat"
+  - agua
+activity_code: "agua-X39"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. Each continent has a sticky note with water statistics: renewable freshwater per capita, access to safe drinking water, sanitation coverage. A laptop with AQUASTAT data. The left side has negative space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at Africa (low), the other at Europe (high), seen from a distance. The continental water inequality environment dominates."
+similar_activities:
+  - http://www.fao.org/aquastat
 tags:
+  - agua
+  - continentes
+  - escasez
+  - estadísticas
+  - pobreza
   - Insignia del Agua
 location: "Interior"
 participants: "4-20"
@@ -45,12 +59,6 @@ accessibility:
   - -Visual
 activity_type:
   - Investigación
-etiquetas:
-  - continentes
-  - agua
-  - escasez
-  - estadísticas
-  - pobreza
 category:
   - Geografía
   - Agua
@@ -74,16 +82,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://www.fao.org/aquastat"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

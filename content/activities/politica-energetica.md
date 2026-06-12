@@ -1,20 +1,21 @@
 ---
 title: "Política Energética"
-duration: "180"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/politica-energetica/"
 description: "Analiza las políticas de energía de tu país y propone mejoras."
 summary: "Analiza las políticas de energía de tu país y propone mejoras."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/politica-energetica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - rovers
+age: "18-22 años"
 age_group:
   - rovers
 competencies:
@@ -22,15 +23,36 @@ competencies:
   - Incidencia política
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 16
 sdgs:
   - 16
+  - 7
+  - 13
 activity_badges:
   - energia
-activity_code: "energia-X191"
-image_prompt: "Older scouts ages 18-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching Argentina's energy laws - Ley de Energías Renovables (27.191), incentives for solar/wind. Debating if sufficient. Designing ideal policy - tax breaks for solar panels, subsidies for efficient appliances, fossil fuel phase-out date. Policy analysis, legislative advocacy atmosphere."
+activity_code: "energia-X60"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+  - 16
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+  - 16
+rama_rovers:
+  - 7
+  - 13
+  - 16
+image_prompt: "An Argentine scout room, with a table in the center-left. On the table, printed copies of Argentina's Renewable Energy Law (27.191), a laptop with a document open for policy proposals, and a whiteboard with key points. The left side has negative space for text. On the far right side, three tiny older scouts (18-21) sit, one reading a law document, another typing, the third pointing at the whiteboard, seen from a distance. The energy policy analysis environment dominates."
 tags:
+  - energia
+  - política energética
+  - leyes
+  - renovables
+  - incentivos
+  - propuestas
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -42,12 +64,6 @@ activity_type:
   - Investigación
   - Política
   - Debate
-etiquetas:
-  - política energética
-  - leyes
-  - renovables
-  - incentivos
-  - propuestas
 category:
   - Política
   - Energía
@@ -70,16 +86,6 @@ scout_method:
   - Sistema de patrullas
 ludic_component: 2
 reflective_component: 5
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +112,6 @@ reflective_component: 5
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

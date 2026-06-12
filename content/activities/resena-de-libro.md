@@ -5,31 +5,43 @@ layout: "layouts/activity.njk"
 permalink: "/activities/resena-de-libro/"
 description: "Lee un libro sobre polinizadores y comparte lo que aprendiste."
 summary: "Lee un libro sobre polinizadores y comparte lo que aprendiste."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/resena-de-libro.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X88"
-image_prompt: "Young scout ages 5-10 at home or scout room in Argentina. Reading book about pollinators (The Bee Book, Flight of the Honeybee). Taking notes. Then presenting to family or group what learned - bees dance, bats pollinate at night. Cozy reading, sharing knowledge atmosphere."
+activity_code: "polinizadores-X15"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A cozy Argentine home or scout room, with a comfortable chair and a small table in the center-left. On the table, a book about pollinators (e.g., 'The Bee Book') and a notebook with notes taken. A mug of tea. The left side has negative space for text. On the far right side, a tiny young scout (5-10) sits on the chair, holding the book and reading, seen from a distance. The quiet reading and learning environment dominates."
 tags:
+  - polinizadores
+  - libro
+  - lectura
+  - reseña
+  - aprendizaje
   - Insignia de Polinizadores
 location: "Interior"
 participants: "2-10"
@@ -40,12 +52,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Investigación
-etiquetas:
-  - libro
-  - lectura
-  - polinizadores
-  - reseña
-  - aprendizaje
 category:
   - Literatura
   - Ciencia
@@ -66,16 +72,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +98,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

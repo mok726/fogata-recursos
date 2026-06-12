@@ -3,23 +3,19 @@ title: "Planificar un viaje turístico sostenible"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/planificar-un-viaje-turistico-sostenible/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Investiga sobre formas de viajar de manera sostenible.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Investiga sobre formas de viajar de manera sostenible.
+description: "Investiga sobre formas de viajar de manera sostenible."
+summary: "Investiga sobre formas de viajar de manera sostenible."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/planificar-un-viaje-turistico-sostenible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Planificación y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X318"
-image_prompt: "Older scouts ages 16-20 planning sustainable trip - using public transport or train instead of plane, choosing eco-lodges, eating local food, minimizing waste, respecting nature. Researching ecotourism destinations in Argentina (Iguazú, Bariloche, Iberá, Quebrada de Humahuaca). Sharing sustainable travel tips. Responsible tourism, carbon footprint reduction, travel planning skills atmosphere."
+  - sacc
+activity_code: "sacc-X12"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a large map of Argentina on the wall in the center-left showing ecotourism destinations: Iguazú, Bariloche, Iberá, Quebrada de Humahuaca. A laptop with train and bus schedules, and a notebook with a sustainable travel plan (eco-lodges, local food, public transport). The left side has space for text. On the far right side, two tiny older scouts (16-20) sit, one pointing at the map, the other typing on the laptop, seen from a distance. The sustainable travel planning environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - turismo sostenible
+  - viaje
+  - ecoturismo
+  - impacto ambiental
+  - planificación
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -52,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Planificación
-etiquetas:
-  - turismo sostenible
-  - viaje
-  - ecoturismo
-  - impacto ambiental
-  - planificación
 category:
   - Turismo
   - Medio ambiente
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Planificar un viaje turístico sostenible
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Investiga sobre formas de viajar de manera sostenible.
 
 ## Desarrollo

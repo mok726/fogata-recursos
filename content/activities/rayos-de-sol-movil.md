@@ -1,21 +1,21 @@
 ---
 title: "Rayos de Sol Móvil"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/rayos-de-sol-movil/"
 description: "Crea un móvil que muestre 8 formas en que el Sol sustenta la vida."
 summary: "Crea un móvil que muestre 8 formas en que el Sol sustenta la vida."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/rayos-de-sol-movil.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +28,27 @@ tools:
   - Pegamento
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X135"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing sun with eight rays. Writing benefits - light, warmth, plant growth, vitamin D, solar energy, drying clothes, photosynthesis, rain cycle. Cutting and assembling mobile with string. Hanging from ceiling. Creative, reflective atmosphere."
+activity_code: "energia-X04"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room, with a hanging mobile in the center-left: a central sun circle with eight rays, each ray labeled with a benefit (luz, calor, fotosíntesis, etc.). Colorful and suspended from the ceiling. The left side has space for text. On the far right side, two tiny young scouts (5-10) sit on the floor, one pointing up at the mobile, the other holding a string, seen from a distance. The sun benefits mobile environment dominates."
 tags:
+  - energia
+  - Sol
+  - móvil
+  - beneficios
+  - energía solar
+  - vida
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -48,12 +60,6 @@ activity_type:
   - Arte
   - Manualidad
   - Creatividad
-etiquetas:
-  - Sol
-  - móvil
-  - beneficios
-  - energía solar
-  - vida
 category:
   - Arte
   - Ciencia
@@ -77,16 +83,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Promover rutas seguras para bicicletas"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/promover-rutas-seguras-para-bicicletas/"
-description: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Inicia una campaña para crear rutas seguras para bicicletas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Inicia una campaña para crear rutas seguras para bicicletas.
+description: "Inicia una campaña para crear rutas seguras para bicicletas."
+summary: "Inicia una campaña para crear rutas seguras para bicicletas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/promover-rutas-seguras-para-bicicletas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Liderazgo y comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X328"
-image_prompt: "Older scouts ages 16-20 launching campaign for safe bike lanes in neighborhood. Gathering signatures, meeting with local government, creating maps of desired routes, presenting at city council meetings. Promoting cycling as sustainable transport. Urban advocacy, civic engagement, active transportation promotion atmosphere."
+  - sacc
+activity_code: "sacc-X22"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine neighborhood street, with a hand-drawn map on an easel in the center-left showing desired bike lanes. A clipboard with a petition with signatures. A bicycle leaning against a post. The left side has open space for text. On the far right side, two tiny older scouts (16-20) stand, one holding the petition, the other pointing at the map, seen from a distance. The bike lane advocacy environment dominates."
 tags:
+  - Alza tu voz
+  - sacc
+  - rutas seguras
+  - bicicletas
+  - carriles
+  - campaña
+  - transporte sostenible
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -53,12 +65,6 @@ accessibility:
 activity_type:
   - Campaña
   - Activismo
-etiquetas:
-  - rutas seguras
-  - bicicletas
-  - carriles
-  - campaña
-  - transporte sostenible
 category:
   - Transporte
   - Urbanismo
@@ -84,16 +90,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,21 +117,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Promover rutas seguras para bicicletas
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Alza tu voz.
 Inicia una campaña para crear rutas seguras para bicicletas.
 
 ## Desarrollo

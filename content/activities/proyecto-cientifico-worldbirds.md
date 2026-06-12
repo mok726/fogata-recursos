@@ -1,36 +1,50 @@
 ---
-title: "Proyecto científico - WorldBirds"
-duration: "Variable"
+title: "Proyecto científico: WorldBirds"
+duration: "variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-cientifico-worldbirds/"
 description: "Participación en ciencia ciudadana."
 summary: "Participación en ciencia ciudadana."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/proyecto-cientifico-worldbirds.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A11"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine natural area. Participating in WorldBirds citizen science project. Observing and identifying birds with binoculars. Recording species, numbers, behaviors. Uploading data to platform. Contributing to global bird monitoring database. Real science contribution, ornithology, technology integration atmosphere."
-similar_activities: "https -//www.worldbirds.org/"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine natural area, with a pair of binoculars on a tripod in the center-left, pointing toward a distant tree. A smartphone on a small table showing the WorldBirds data entry page. A notebook with a checklist of bird species. The left side has open space for text. On the far right side, two tiny older scouts (14-21) stand, one looking through binoculars, the other typing on the phone, seen from a distance. The citizen science bird monitoring environment dominates."
+similar_activities:
+  - https://www.worldbirds.org/
 tags:
+  - biodiversidad
+  - WorldBirds
+  - aves
+  - ciencia ciudadana
+  - monitoreo
+  - datos
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -41,12 +55,6 @@ accessibility:
 activity_type:
   - Investigación
   - Ciudadanía científica
-etiquetas:
-  - WorldBirds
-  - aves
-  - ciencia ciudadana
-  - monitoreo
-  - datos
 category:
   - Ornitología
   - Tecnología
@@ -66,16 +74,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.worldbirds.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +105,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

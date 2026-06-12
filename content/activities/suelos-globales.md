@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/suelos-globales/"
 description: "Investiga sobre la degradación del suelo en diferentes partes del mundo."
 summary: "Investiga sobre la degradación del suelo en diferentes partes del mundo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/suelos-globales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,19 +29,32 @@ competencies:
   - Creatividad
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X29"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing large world map highlighting regions with soil degradation (Africa, Asia, South America). Adding notes on causes - deforestation, overgrazing, pollution. Colorful markers. World map poster on wall. Bright lighting. Global awareness atmosphere."
+activity_code: "suelos-X08"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a large world map poster on the wall in the center-left. The map highlights regions with soil degradation (Africa, Asia, South America). On a table below, markers and notes about causes (deforestation, overgrazing, pollution). The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit or stand, one drawing on the map, others looking, seen from a distance. The global awareness environment dominates."
 required: true
 required_for:
   - suelos-X
 required_comment: "Actividad obligatoria"
 tags:
+  - suelos
+  - degradación del suelo
+  - mundial
+  - mapa
+  - causas
+  - soluciones
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -54,12 +66,6 @@ activity_type:
   - Investigación
   - Creatividad
   - Arte
-etiquetas:
-  - degradación del suelo
-  - mundial
-  - mapa
-  - causas
-  - soluciones
 category:
   - Geografía
   - Medio ambiente
@@ -85,16 +91,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,15 +117,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

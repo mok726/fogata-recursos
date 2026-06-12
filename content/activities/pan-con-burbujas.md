@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/pan-con-burbujas/"
 description: "Hornea pan y observa cómo el CO₂ lo hace esponjar."
 summary: "Hornea pan y observa cómo el CO₂ lo hace esponjar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/pan-con-burbujas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,32 @@ competencies:
   - Paciencia
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
 activity_badges:
   - energia
-activity_code: "energia-X143"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine kitchen. Making bread dough with yeast. Watching dough rise as yeast produces CO2 bubbles. Baking in oven. Eating together. Connecting cooking to carbon cycle. Hands-on kitchen chemistry, patience, delicious reward atmosphere."
+activity_code: "energia-X12"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine kitchen, with a countertop in the center-left. A bowl of dough rising, covered with a cloth, next to a smaller bowl with bubbling yeast mixture. An oven in the background. The left side has negative space for text. On the far right side, two tiny scouts (7-13) stand at the counter, one pointing at the bubbles, the other holding a wooden spoon, seen from a distance. The bread fermentation environment dominates."
 tags:
+  - energia
+  - pan
+  - CO2
+  - levadura
+  - fermentación
+  - masa
   - Insignia de Energía
 location: "Interior"
 participants: "4-10"
@@ -47,12 +64,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Cocina
-etiquetas:
-  - pan
-  - CO2
-  - levadura
-  - fermentación
-  - masa
 category:
   - Cocina
   - Química
@@ -72,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +109,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

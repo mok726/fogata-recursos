@@ -1,21 +1,21 @@
 ---
 title: "Plantas de Poder"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-de-poder/"
 description: "Analiza cultivos usados como biocombustibles."
 summary: "Analiza cultivos usados como biocombustibles."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/plantas-de-poder.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -26,17 +26,32 @@ competencies:
   - Comunicación oral
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
-  - 2
 sdgs:
   - 7
   - 2
 activity_badges:
   - energia
-activity_code: "energia-X152"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Each researches a biofuel crop (corn for ethanol, sugarcane, soy, palm). Writing first-person autobiography without naming crop. Others guess based on clues. Discussing pros and cons of biofuels vs food production. Critical thinking, debate atmosphere."
+activity_code: "energia-X21"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 2
+rama_caminantes:
+  - 3
+  - 7
+  - 2
+rama_rovers:
+  - 7
+  - 2
+image_prompt: "An Argentine scout room, with a table in the center-left. On the table, small samples of corn, sugarcane, and soybeans, each with a label and a card describing their use as biofuel. A sign 'Adivina el cultivo'. The left side has negative space for text. On the far right side, three tiny older scouts (14-21) sit, one holding a corn cob, another reading a card, the third guessing, seen from a distance. The biofuel guessing game environment dominates."
 tags:
+  - energia
+  - biocombustibles
+  - cultivos
+  - maíz
+  - caña de azúcar
+  - energía
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -47,12 +62,6 @@ accessibility:
 activity_type:
   - Juego
   - Investigación
-etiquetas:
-  - biocombustibles
-  - cultivos
-  - maíz
-  - caña de azúcar
-  - energía
 category:
   - Energía
   - Agricultura
@@ -74,16 +83,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

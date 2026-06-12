@@ -3,22 +3,19 @@ title: "Reducir la basura en casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-la-basura-en-casa/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana.
+description: "Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana."
+summary: "Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reducir-la-basura-en-casa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,15 +23,29 @@ competencies:
   - Planificación y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X368"
-image_prompt: "Older scouts ages 11-15 attempting zero waste week - reducing, reusing, recycling everything possible. Aiming for empty trash bin. Tracking successes and challenges. Waste reduction challenge, mindful consumption, family cooperation atmosphere."
+  - sacc
+activity_code: "sacc-X62"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine home kitchen, with a nearly empty trash bin in the center-left (only a few items). A recycling bin and compost pail next to it, both full. A calendar with a 'Zero Waste Week' challenge checkmarks. The left side has open space for text. On the far right side, a tiny older scout (11-15) holds a banana peel and puts it into the compost pail, a parent looks on, seen from a distance. The zero waste challenge environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - basura
+  - reducción
+  - reusar
+  - reciclar
+  - desafío
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-10"
@@ -45,12 +56,6 @@ accessibility:
 activity_type:
   - Desafío
   - Reflexión
-etiquetas:
-  - basura
-  - reducción
-  - reusar
-  - reciclar
-  - desafío
 category:
   - Residuos
   - Hogar
@@ -69,16 +74,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,21 +101,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reducir la basura en casa
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana.
 
 ## Desarrollo

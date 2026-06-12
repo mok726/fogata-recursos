@@ -3,23 +3,19 @@ title: "Reducir el uso de papel en la escuela"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-el-uso-de-papel-en-la-escuela/"
-description: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Investiga cuánto papel se usa en tu escuela y toma medidas para reducirlo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Protege los Bosques.
-  Investiga cuánto papel se usa en tu escuela y toma medidas para reducirlo.
+description: "Investiga cuánto papel se usa en tu escuela y toma medidas para reducirlo."
+summary: "Investiga cuánto papel se usa en tu escuela y toma medidas para reducirlo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Investigación y planificación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X363"
-image_prompt: "Older scouts ages 16-20 conducting paper audit at school - how much used, for what, how much wasted, how much recycled. Implementing reduction measures (digital notices, double-sided printing, reuse). Measuring reduction percentage. School sustainability, waste audit, systemic change atmosphere."
+  - sacc
+activity_code: "sacc-X57"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine school hallway, with a bulletin board in the center-left showing a 'Paper Use Audit' poster: a bar chart of paper consumption before and after reduction measures (digital notices, double-sided printing, reuse bins). The left side has space for text. On the far right side, two tiny older scouts (16-20) stand, one pointing at the reduction bar, the other holding a digital tablet, seen from a distance. The school paper reduction environment dominates."
 tags:
+  - Protege los Bosques
+  - sacc
+  - papel
+  - escuela
+  - reducción
+  - auditoría
+  - reciclaje
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (escuela)"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Auditoría
-etiquetas:
-  - papel
-  - escuela
-  - reducción
-  - auditoría
-  - reciclaje
 category:
   - Educación
   - Papel
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +107,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reducir el uso de papel en la escuela
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Protege los Bosques.
 Investiga cuánto papel se usa en tu escuela y toma medidas para reducirlo.
 
 ## Desarrollo

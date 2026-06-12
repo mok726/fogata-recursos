@@ -5,31 +5,45 @@ layout: "layouts/activity.njk"
 permalink: "/activities/polinizadores-y-contaminacion/"
 description: "Investiga cómo la contaminación del aire afecta a los polinizadores."
 summary: "Investiga cómo la contaminación del aire afecta a los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/polinizadores-y-contaminacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
 responsible:
   - Responsable del grupo
-ods:
-  - 13
 sdgs:
   - 13
+  - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X100"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Invited air quality expert (virtual or in person). Learning how pollution particles can block flower scents, confusing pollinators. Discussing reducing car use, planting trees. Environmental health atmosphere."
+activity_code: "polinizadores-X27"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+  - 13
+image_prompt: "A scout meeting room in Argentina, with a screen on the wall in the center-left showing a diagram of air pollution particles blocking flower scents. A speaker (civilian air quality expert) stands next to the screen. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit on chairs, listening and raising hands to ask questions, seen from a distance. The expert talk environment dominates."
 tags:
+  - polinizadores
+  - contaminación del aire
+  - calidad del aire
+  - ondas electromagnéticas
+  - salud
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-15"
@@ -40,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - contaminación del aire
-  - polinizadores
-  - calidad del aire
-  - ondas electromagnéticas
-  - salud
 category:
   - Medio ambiente
   - Salud
@@ -69,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

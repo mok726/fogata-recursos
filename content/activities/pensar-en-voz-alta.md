@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/pensar-en-voz-alta/"
 description: "Los participantes expresan sus sentimientos sobre el cambio climático."
 summary: "Los participantes expresan sus sentimientos sobre el cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/pensar-en-voz-alta.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -32,15 +30,28 @@ competencies:
   - expresión escrita.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X223"
-image_prompt: "Scouts ages 5-21 expressing climate emotions through writing - essay, story, comic strip, poem. Sharing with group. Creating space for climate anxiety, hope, anger, determination. Emotional literacy, creative expression, peer support atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X10"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a cozy corner with cushions and a small table in the center-left. On the table, a stack of papers with poems, essays, and comic strips about climate emotions (hope, anger, determination). A jar of pencils. The left side has space for text. On the far right side, a tiny scout (5-21) sits on a cushion, reading a poem aloud to a small group of others sitting on the floor, seen from a distance. The climate feelings sharing environment dominates."
 tags:
+  - cambioclimatico
+  - sentimientos
+  - cambio climático
+  - ensayo
+  - poema
+  - expresión
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-20"
@@ -52,12 +63,6 @@ accessibility:
 activity_type:
   - Escritura
   - Reflexión
-etiquetas:
-  - sentimientos
-  - cambio climático
-  - ensayo
-  - poema
-  - expresión
 category:
   - Literatura
   - Psicología
@@ -82,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

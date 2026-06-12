@@ -1,6 +1,6 @@
 ---
 title: "Pasa la voz"
-duration: "Varias horas (depende del evento)"
+duration: "varias horas (depende del evento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasa-la-voz/"
 description: |
@@ -9,17 +9,17 @@ description: |
 summary: |
   Actividad para organizar un evento comunitario sobre el agua y recaudar fondos para proyectos relacionados.
   Esta actividad es obligatoria para la categoría E.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/pasa-la-voz.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -34,16 +34,29 @@ competencies:
   - Conciencia social
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X299"
-image_prompt: "Older scouts ages 14-21 organizing community water event or fundraiser for World Water Day (March 22) or UNICEF Tap Project. Activities - water walkathon, bake sale, information fair, pledge drive. Donating to water projects. Large-scale event planning, fundraising, global citizenship, water advocacy atmosphere."
-similar_activities: "https -//www.tapproject.org/"
+  - agua
+activity_code: "agua-X52"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine community space (school or park), with a booth in the center-left for a water fundraiser: a water walkathon, a bake sale, or a pledge drive. A banner 'Día Mundial del Agua - 22 de marzo'. Families walking around. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) stand, one handing a cup of water to a civilian, another explaining the project, seen from a distance. The water fundraising event environment dominates."
+similar_activities:
+  - https://www.tapproject.org/
 tags:
+  - agua
+  - evento
+  - recaudación
+  - fondos
+  - comunidad
   - Parche del Agua
 location: "Interior / Exterior"
 participants: "10-50"
@@ -54,12 +67,6 @@ accessibility:
 activity_type:
   - Evento
   - Recaudación
-etiquetas:
-  - agua
-  - evento
-  - recaudación
-  - fondos
-  - comunidad
 category:
   - Eventos
   - Agua
@@ -84,16 +91,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.tapproject.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,15 +122,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/saca-el-bardo-que-hay-en-ti/"
 description: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
 summary: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/saca-el-bardo-que-hay-en-ti.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -25,15 +26,28 @@ competencies:
   - Trabajo en equipo
   - Comunicación
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X285"
-image_prompt: "Older scouts ages 11-15 writing and performing short play about community facing water scarcity - farmers, families, shopkeepers. Exploring causes - climate change, overuse, pollution. Acting out solutions - rainwater harvesting, efficient irrigation, conservation. Inviting families. Creative expression, empathy building, solution-oriented storytelling atmosphere."
+  - agua
+activity_code: "agua-X38"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room or outdoor stage, with a simple set in the center-left representing a village: a backdrop of a dry river, a small well, and a few props (buckets, vegetables). The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) perform a play: one acting as a farmer, another as a mother, a third as a scientist, showing the impact of water scarcity and finding solutions, seen from a distance. The water scarcity theater environment dominates."
 tags:
+  - agua
+  - teatro
+  - escasez de agua
+  - comunidad
+  - obra
+  - soluciones
   - Insignia del Agua
 location: "Interior / Exterior"
 participants: "6-20"
@@ -45,12 +59,6 @@ accessibility:
 activity_type:
   - Teatro
   - Activismo
-etiquetas:
-  - teatro
-  - escasez de agua
-  - comunidad
-  - obra
-  - soluciones
 category:
   - Arte
   - Agua
@@ -77,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +111,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,19 +3,19 @@ title: "Pintando el Panorama"
 duration: "1-2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pintando-el-panorama/"
-description: "Crea dos pinturas - una que muestre el mundo con polinizadores y otra sin ellos."
-summary: "Crea dos pinturas - una que muestre el mundo con polinizadores y otra sin ellos."
+description: "Crea dos pinturas: una que muestre el mundo con polinizadores y otra sin ellos."
+summary: "Crea dos pinturas: una que muestre el mundo con polinizadores y otra sin ellos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/pintando-el-panorama.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +28,29 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo
-ods:
-  - 17
 sdgs:
   - 17
+  - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X96"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Painting two contrasting scenes - one colorful with flowers, fruits, bees, butterflies; another gray and barren with no flowers, sad plants. One scout holding up completed paintings. Exhibiting in school. Powerful visual contrast, awareness-raising atmosphere."
+activity_code: "polinizadores-X23"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with two easels in the center-left. One painting shows a colorful world with flowers, fruits, bees, and butterflies. The other painting shows a gray, barren world with no flowers. Brushes and paints on a table between them. The left side has negative space for text. On the far right side, tiny young scouts (5-10) stand holding brushes, one pointing at the colorful painting, seen from a distance. The artistic contrast environment dominates."
 tags:
+  - polinizadores
+  - pintura
+  - arte
+  - mundo con polinizadores
+  - mundo sin polinizadores
+  - contraste
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-15"
@@ -48,12 +62,6 @@ activity_type:
   - Creatividad
   - Arte
   - Sensibilización
-etiquetas:
-  - pintura
-  - arte
-  - mundo con polinizadores
-  - mundo sin polinizadores
-  - contraste
 category:
   - Arte
   - Medio ambiente
@@ -77,16 +85,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

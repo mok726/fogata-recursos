@@ -9,16 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Averigua de dónde viene tu comida y cómo afecta al clima.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,17 +29,32 @@ competencies:
   - Análisis y toma de decisiones
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X379"
-image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) examining food labels at home. Noting country of origin, calculating food miles. Discussing which foods traveled farthest. Learning about seasonal eating. Planning to buy local. Food literacy, supply chain awareness, climate-conscious consumption atmosphere."
+  - sacc
+activity_code: "sacc-X73"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine kitchen or scout room, with a table in the center-left displaying various food packages (a bag of rice, an apple, a yogurt, a chocolate bar). A magnifying glass over a label showing country of origin. A small world map with lines showing food miles. The left side has open space for text. On the far right side, a tiny older scout (11-15) sits, reading a label, another scout points at the map, seen from a distance. The food miles investigation environment dominates."
 tags:
+  - sacc
+  - etiquetas
+  - alimentos
+  - origen
+  - transporte
+  - huella de carbono
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -49,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - etiquetas
-  - alimentos
-  - origen
-  - transporte
-  - huella de carbono
 category:
   - Alimentación
   - Consumo
@@ -73,16 +83,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

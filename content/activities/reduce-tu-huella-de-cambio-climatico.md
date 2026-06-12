@@ -9,17 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestro Clima.
   Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente. Haz una lista de formas para reducir tu impacto y sigue un plan durante un mes.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +31,32 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X341"
-image_prompt: "Older scouts ages 16-20 reflecting on daily environmental impact - energy, water, food, transportation, consumption. Listing reduction strategies. Following plan for one month. Calculating reduction achieved. Sharing experience. Deep sustainability, carbon footprint awareness, long-term behavior change atmosphere."
+  - sacc
+activity_code: "sacc-X35"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left displaying a carbon footprint calculator. A notebook with a list of reduction strategies: diet, transport, energy, consumption. A chart showing estimated reduction percentages. The left side has space for text. On the far right side, a tiny older scout (16-20) sits, typing on the laptop, another reads the notebook, seen from a distance. The carbon footprint calculation environment dominates."
 tags:
+  - sacc
+  - huella de carbono
+  - impacto ambiental
+  - reducción
+  - plan
+  - sostenibilidad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +67,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Planificación
-etiquetas:
-  - huella de carbono
-  - impacto ambiental
-  - reducción
-  - plan
-  - sostenibilidad
 category:
   - Clima
   - Consumo
@@ -77,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

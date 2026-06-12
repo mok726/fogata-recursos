@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/plantas-medicinales/"
 description: "Documentación de remedios tradicionales."
 summary: "Documentación de remedios tradicionales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/plantas-medicinales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,17 +29,31 @@ competencies:
   - Preservación cultural
 responsible:
   - experto local
-ods:
-  - 3
-  - 15
 sdgs:
   - 3
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C11"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) working with local herbalist or elder. Learning about medicinal plants in community - chamomile (digestion), aloe vera (skin burns), mint (headache), eucalyptus (cough). Pressing and drying samples for herbarium. Documenting traditional uses. Emphasizing SAFETY - correct species, correct part, dosage. Ethnobotany, traditional medicine, cultural preservation, respect for indigenous knowledge atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 3
+  - 15
+image_prompt: "An Argentine home or garden, with a drying rack of herbs in the center-left (chamomile, mint, aloe vera, eucalyptus). A mortar and pestle nearby. A notebook with handwritten uses. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one grinding leaves in the mortar, the other writing in the notebook, seen from a distance. The medicinal plant documentation environment dominates."
 tags:
+  - biodiversidad
+  - plantas medicinales
+  - remedios
+  - conocimiento tradicional
+  - hierbas
+  - salud
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-12"
@@ -51,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Documentación
-etiquetas:
-  - plantas medicinales
-  - remedios
-  - conocimiento tradicional
-  - hierbas
-  - salud
 category:
   - Etnobotánica
   - Salud
@@ -76,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +110,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

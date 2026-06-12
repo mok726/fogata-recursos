@@ -5,33 +5,45 @@ layout: "layouts/activity.njk"
 permalink: "/activities/perdidas-y-ganancias-del-cultivo/"
 description: "Visita una granja local para aprender sobre las prácticas agrícolas y su impacto en el suelo."
 summary: "Visita una granja local para aprender sobre las prácticas agrícolas y su impacto en el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/perdidas-y-ganancias-del-cultivo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X36"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine farm. Walking through crop fields with farmer. Farmer pointing at soil, explaining composting or crop rotation. Scouts taking notes on clipboards. One scout asking question. Rural landscape, blue sky, crops growing. Educational, hands-on atmosphere."
+activity_code: "suelos-X15"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine farm on a sunny day. In the center-left, a crop field with rows of plants. A farmer (civilian, work clothes) points at the soil, explaining something. Clipboards and a camera lie on the ground. The left side has open space for text. On the far right side, tiny older scouts (11-17) walk through the field, one taking notes, another asking a question, seen from a distance. The agricultural learning environment dominates."
 tags:
+  - suelos
+  - granja
+  - agricultura
+  - suelo
+  - cultivo
+  - prácticas agrícolas
   - Insignia de los Suelos
 location: "Exterior"
 participants: "5-20"
@@ -42,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio a los demás
-etiquetas:
-  - granja
-  - agricultura
-  - suelo
-  - cultivo
-  - prácticas agrícolas
 category:
   - Agricultura
   - Medio ambiente
@@ -68,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +100,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

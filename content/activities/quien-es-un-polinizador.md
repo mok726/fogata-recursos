@@ -1,21 +1,21 @@
 ---
 title: "¿Quién es un Polinizador?"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-es-un-polinizador/"
 description: "Divide en dos equipos y haz una lista de animales, aves e insectos, tanto polinizadores como no polinizadores. Luego, realiza un juego de preguntas para adivinar cuáles son polinizadores."
 summary: "Divide en dos equipos y haz una lista de animales, aves e insectos, tanto polinizadores como no polinizadores. Luego, realiza un juego de preguntas para adivinar cuáles son polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/quien-es-un-polinizador.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -23,19 +23,30 @@ materials:
   - Papel y lápiz para hacer listas
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X78"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Two teams sitting opposite. Team leader reading animal names - bee, butterfly, wasp, bat, lizard, bird. Teams raising hands to guess if pollinator or not. Scorekeeper on whiteboard. Excited, competitive, learning atmosphere."
+activity_code: "polinizadores-X05"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with two teams of young scouts sitting opposite each other. In the center-left, a whiteboard with two columns: 'Pollinator' and 'Not Pollinator'. A stack of animal cards (bee, butterfly, bat, lizard, etc.). The left side has negative space for text. On the far right side, tiny young scouts (5-10) raise hands to guess, a leader showing a card, seen from a distance. The interactive quiz environment dominates."
 tags:
+  - polinizadores
+  - polinizador
+  - juego
+  - preguntas
+  - equipo
+  - adivinanza
   - Insignia de Polinizadores
 location: "Interior"
 participants: "6-20"
@@ -46,12 +57,6 @@ accessibility:
 activity_type:
   - Aprender jugando
   - Juego
-etiquetas:
-  - polinizador
-  - juego
-  - preguntas
-  - equipo
-  - adivinanza
 category:
   - Educación
   - Ciencia
@@ -73,16 +78,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +104,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

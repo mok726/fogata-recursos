@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/supermercado-biodiverso/"
 description: "Investigación de diversidad genética."
 summary: "Investigación de diversidad genética."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/supermercado-biodiverso.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -24,17 +24,32 @@ competencies:
   - Análisis comparativo
 responsible:
   - educador Scout
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C05"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) at supermarket. Counting number of plant species (carrots, lettuce, apples, oranges, broccoli). Finding species with multiple varieties - potatoes (white, red, purple, russet, fingerling). Counting how many varieties. Noting similarities and differences. Discussing importance of genetic diversity for crop resilience (disease resistance, climate adaptation). Agricultural biodiversity, real-world genetics, consumer awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine supermarket aisle, with shelves of potatoes in the center-left. A sign 'Variedades de papas' showing white, red, purple, and fingerling potatoes. A shopping cart with a notebook and pen. The left side has open space for text. On the far right side, two tiny older scouts (11-17) stand, one pointing at the different potato varieties, the other writing in the notebook, seen from a distance. The supermarket biodiversity survey environment dominates."
 tags:
+  - biodiversidad
+  - supermercado
+  - diversidad genética
+  - variedades
+  - papas
+  - frutas
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -45,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - supermercado
-  - diversidad genética
-  - variedades
-  - papas
-  - frutas
 category:
   - Agricultura
   - Genética
@@ -69,16 +78,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +104,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

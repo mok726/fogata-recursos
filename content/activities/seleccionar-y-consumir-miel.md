@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/seleccionar-y-consumir-miel/"
 description: "Aprende a elegir miel de calidad y cómo apoyar a los apicultores locales."
 summary: "Aprende a elegir miel de calidad y cómo apoyar a los apicultores locales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/seleccionar-y-consumir-miel.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +28,28 @@ competencies:
   - Responsabilidad
 responsible:
   - Responsable del grupo
-ods:
-  - 8
 sdgs:
   - 8
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X116"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine home or scout room. Buying honey from local beekeeper (market or direct). Doing water test - placing spoon of honey in water, genuine honey settles without dissolving quickly. Tasting raw honey. Learning to identify real honey. Supporting beekeepers, food authenticity atmosphere."
+activity_code: "polinizadores-X43"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine home or scout room, with a table in the center-left. On the table, two jars of honey (one local, one supermarket), a glass of water, and a spoon. A small sign 'Prueba de Calidad'. The left side has negative space for text. On the far right side, two tiny young scouts (5-10) sit at the table, one dipping a spoon in honey, the other holding a jar, seen from a distance. The honey quality testing environment dominates."
 tags:
+  - polinizadores
+  - miel
+  - apicultores locales
+  - calidad
+  - prueba de agua
+  - consumo
   - Insignia de Polinizadores
 location: "Interior"
 participants: "2-8"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Investigación
-etiquetas:
-  - miel
-  - apicultores locales
-  - calidad
-  - prueba de agua
-  - consumo
 category:
   - Alimentación
   - Agricultura
@@ -76,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

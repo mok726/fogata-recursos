@@ -3,22 +3,19 @@ title: "Reemplazar bombillas por ahorradoras de energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/reemplazar-bombillas-por-ahorradoras-de-energia/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía.
+description: "Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía."
+summary: "Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,17 +25,33 @@ competencies:
   - Toma de decisiones
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 12
 sdgs:
   - 7
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X346"
-image_prompt: "Older scouts ages 11-15 replacing incandescent bulbs with LED or energy-saving bulbs at home or school. Learning about energy savings (75-80% less energy). Encouraging others. Using natural light. Simple high-impact action, energy efficiency education, persuasive advocacy atmosphere."
+  - sacc
+activity_code: "sacc-X40"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 12
+rama_caminantes:
+  - 3
+  - 7
+  - 12
+rama_rovers:
+  - 7
+  - 12
+image_prompt: "An Argentine home, with a lamp in the center-left. An adult (civilian) on a step ladder, replacing an old incandescent bulb with an LED bulb. A box of LED bulbs on the floor. The left side has negative space for text. On the far right side, a tiny older scout (11-15) holds the box, looking up, seen from a distance. The light bulb replacement environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - bombillas
+  - LED
+  - ahorro
+  - energía
+  - eficiencia
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Acción
   - Ahorro
-etiquetas:
-  - bombillas
-  - LED
-  - ahorro
-  - energía
-  - eficiencia
 category:
   - Energía
   - Hogar
@@ -78,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +112,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Reemplazar bombillas por ahorradoras de energía
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía.
 
 ## Desarrollo

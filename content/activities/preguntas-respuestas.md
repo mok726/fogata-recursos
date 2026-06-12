@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/preguntas-respuestas/"
 description: "Conduce una entrevista sobre los problemas del suelo en un país específico."
 summary: "Conduce una entrevista sobre los problemas del suelo en un país específico."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/preguntas-respuestas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,15 +27,28 @@ competencies:
   - Comunicación
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X59"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Pairs role-playing - one as farmer from specific country (e.g., India, Brazil), one as journalist. Asking about soil degradation, drought, solutions. Taking notes. Writing article on paper or tablet. Focused, journalistic atmosphere."
+activity_code: "suelos-X38"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with pairs of scouts sitting at tables in the center-left. A laptop open to research on soil problems in a specific country. Paper for writing an article. The left side has space for text. On the far right side, tiny older scouts (11-17) role-play: one as a farmer (civilian, work hat), another as a journalist with a notebook, seen from a distance. The interview simulation environment dominates."
 tags:
+  - suelos
+  - entrevista
+  - agricultor
+  - problemas del suelo
+  - país
+  - artículo
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -47,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Simulación
-etiquetas:
-  - entrevista
-  - agricultor
-  - problemas del suelo
-  - país
-  - artículo
 category:
   - Geografía
   - Comunicación
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

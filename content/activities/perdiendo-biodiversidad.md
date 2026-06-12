@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/perdiendo-biodiversidad/"
 description: "Investiga un animal forestal en peligro de extinción y diseña un póster de conservación."
 summary: "Investiga un animal forestal en peligro de extinción y diseña un póster de conservación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/perdiendo-biodiversidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,20 +31,34 @@ competencies:
   - Empatía ecológica
 responsible:
   - Scouter o biólogo invitado
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D02"
-image_prompt: "Scouts of all ages researching endangered forest animal - jaguar (Selva Misionera), harpy eagle, tapir, howler monkey, giant anteater, Atlantic Forest species, or global iconic species (orangutan, panda, gorilla, tiger). Creating conservation poster - species description, threats, population status, proposed protection measures. Endangered species awareness, habitat protection planning, empathy for threatened wildlife, artistic advocacy atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a large poster on an easel in the center-left featuring an endangered forest animal (e.g., jaguar, harpy eagle, orangutan). The poster includes: species description, threats (deforestation, poaching), population status, and conservation actions. Colorful and educational. The left side has open space for text. On the far right side, two tiny scouts (5-21) stand, one pointing at the jaguar, the other at the 'acciones' section, seen from a distance. The endangered species poster environment dominates."
 required: true
 required_for:
   - bosques-D
-required_comment: "Actividad obligatoria para la categoría - LOS BOSQUES EN PELIGRO"
+required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES EN PELIGRO"
 required_category: "LOS BOSQUES EN PELIGRO"
 tags:
+  - LOS BOSQUES EN PELIGRO
+  - bosques
+  - especie en peligro
+  - extinción
+  - conservación
+  - póster
+  - animal
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -57,12 +69,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - especie en peligro
-  - extinción
-  - conservación
-  - póster
-  - animal
 category:
   - Biología
   - Conservación
@@ -89,16 +95,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -125,15 +121,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 
