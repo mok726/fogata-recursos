@@ -3,23 +3,19 @@ title: "Aprender a hacer jabón natural"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-a-hacer-jabon-natural/"
-description: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Aprende a hacer jabón natural con la ayuda de un artesano.
-summary: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Aprende a hacer jabón natural con la ayuda de un artesano.
+description: "Aprende a hacer jabón natural con la ayuda de un artesano."
+summary: "Aprende a hacer jabón natural con la ayuda de un artesano."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aprender-a-hacer-jabon-natural.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -36,17 +32,33 @@ competencies:
   - Habilidades prácticas
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 14
 sdgs:
   - 12
   - 14
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X323"
-image_prompt: "Older scouts ages 16-20 learning natural soap making from local artisan. Using oils, lye, natural additives (herbs, essential oils). Making soap, selling at fundraiser for river/lagoon clean-up campaign. Traditional craft, chemistry, social enterprise, water protection awareness atmosphere."
+  - sacc
+activity_code: "sacc-X17"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 14
+rama_caminantes:
+  - 3
+  - 12
+  - 14
+rama_rovers:
+  - 12
+  - 14
+image_prompt: "An Argentine scout room or kitchen (adult supervision), with a table in the center-left showing ingredients: oils (olive, coconut), lye (sodium hydroxide - with safety warning), water, molds, and natural additives (herbs, essential oils). Protective goggles and gloves. A finished bar of soap. The left side has negative space for text. On the far right side, two tiny older scouts (16-20) stand, one wearing goggles and pouring oil, the other holding a mold, seen from a distance. The natural soap making environment dominates."
 tags:
+  - Sé creativo
+  - sacc
+  - jabón natural
+  - artesano
+  - contaminación
+  - río
+  - campaña
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -58,12 +70,6 @@ accessibility:
 activity_type:
   - Arte
   - Manualidad
-etiquetas:
-  - jabón natural
-  - artesano
-  - contaminación
-  - río
-  - campaña
 category:
   - Química
   - Artesanía
@@ -93,16 +99,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -130,21 +126,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Aprender a hacer jabón natural
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Sé creativo.
 Aprende a hacer jabón natural con la ayuda de un artesano.
 
 ## Desarrollo

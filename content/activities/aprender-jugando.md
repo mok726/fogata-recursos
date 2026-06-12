@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/aprender-jugando/"
 description: "Investiga juegos tradicionales de culturas forestales y juega tres de ellos."
 summary: "Investiga juegos tradicionales de culturas forestales y juega tres de ellos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aprender-jugando.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -26,15 +26,27 @@ materials:
   - Información sobre juegos tradicionales
 responsible:
   - Scouter o líder de juegos
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - bosques
 activity_code: "bosques-C03"
-image_prompt: "Young scouts ages 5-15 researching traditional games from forest-based cultures - Amazonian dart blowgun practice games, African tree climbing races, Indonesian bamboo games, Native American tracking games. Playing three games. Discussing values taught - cooperation, observation, respect for nature, patience, physical skill. Traditional games, cultural diversity, values-based learning, active play atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine outdoor space or scout room, with a game setup in the center-left: a traditional game from a forest culture, e.g., a throwing game with beanbags (Amazonian), or a bamboo stilt race (Indonesian). A sign with the game's name and origin. The left side has open space for text. On the far right side, a group of tiny young scouts (5-15) play the game, one throwing, another balancing on stilts, seen from a distance. The traditional forest game environment dominates."
 tags:
+  - bosques
+  - juegos tradicionales
+  - culturas forestales
+  - aprender jugando
+  - valores
   - Insignia de los Bosques
 location: "Exterior / Interior"
 participants: "6-20"
@@ -45,11 +57,6 @@ accessibility:
 activity_type:
   - Juego
   - Cultura
-etiquetas:
-  - juegos tradicionales
-  - culturas forestales
-  - aprender jugando
-  - valores
 category:
   - Juego
   - Cultura
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

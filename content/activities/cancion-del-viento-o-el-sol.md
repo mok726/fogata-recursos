@@ -1,21 +1,21 @@
 ---
 title: "Canción del Viento o el Sol"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-del-viento-o-el-sol/"
 description: "Crea una canción sobre energía renovable usando melodías conocidas."
 summary: "Crea una canción sobre energía renovable usando melodías conocidas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cancion-del-viento-o-el-sol.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,28 @@ competencies:
   - Conciencia energética
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X150"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Rewriting lyrics of popular song about solar or wind energy. Example - Here Comes the Sun becomes Here Comes the Clean Power. Performing with clapping or instruments. Musical, creative, advocacy atmosphere."
+activity_code: "energia-X19"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing rewritten lyrics for a popular song about renewable energy. A guitar leaning against the wall. The left side has negative space for text. On the far right side, three tiny scouts (7-13) stand, one holding a microphone (or rolled paper), another strumming a guitar, the third clapping, seen from a distance. The renewable energy song environment dominates."
 tags:
+  - energia
+  - canción
+  - energía renovable
+  - solar
+  - eólica
+  - música
   - Insignia de Energía
 location: "Interior"
 participants: "4-20"
@@ -47,12 +60,6 @@ activity_type:
   - Creatividad
   - Arte
   - Música
-etiquetas:
-  - canción
-  - energía renovable
-  - solar
-  - eólica
-  - música
 category:
   - Música
   - Energía
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

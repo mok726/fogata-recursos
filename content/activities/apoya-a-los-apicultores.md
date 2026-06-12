@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/apoya-a-los-apicultores/"
 description: "Organiza un día en tu escuela o centro comunitario para que los apicultores locales muestren y vendan sus productos."
 summary: "Organiza un día en tu escuela o centro comunitario para que los apicultores locales muestren y vendan sus productos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/apoya-a-los-apicultores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +28,29 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo
-ods:
-  - 8
 sdgs:
   - 8
+  - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X106"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine school or community center. Organizing beekeeper fair. Local beekeepers selling honey, beeswax candles, propolis. Scouts explaining importance of supporting local beekeepers. Posters, samples. Community economic support atmosphere."
+activity_code: "polinizadores-X33"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine school or community center, with tables set up in the center-left displaying honey jars, beeswax candles, and informational posters about pollinators. A banner saying 'Apoya a tus Apicultores Locales'. The left side has negative space for text. On the far right side, a small group of tiny scouts (5-10) stand behind the tables, one offering a honey sample to a civilian adult visitor, seen from a distance. The local beekeeper fair environment dominates."
 tags:
+  - polinizadores
+  - apicultores
+  - miel local
+  - evento
+  - productos de abejas
+  - apoyo
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "10-50"
@@ -47,12 +61,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Organización
-etiquetas:
-  - apicultores
-  - miel local
-  - evento
-  - productos de abejas
-  - apoyo
 category:
   - Economía local
   - Agricultura
@@ -78,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +112,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

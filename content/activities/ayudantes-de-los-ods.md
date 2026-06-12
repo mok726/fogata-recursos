@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/ayudantes-de-los-ods/"
 description: "Reflexiona en grupo sobre cómo los polinizadores están relacionados con los Objetivos de Desarrollo Sostenible (ODS). Crea un póster para tu escuela o comunidad que explique cómo los polinizadores nos ayudan a alcanzar los ODS."
 summary: "Reflexiona en grupo sobre cómo los polinizadores están relacionados con los Objetivos de Desarrollo Sostenible (ODS). Crea un póster para tu escuela o comunidad que explique cómo los polinizadores nos ayudan a alcanzar los ODS."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ayudantes-de-los-ods.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -29,19 +29,32 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo
-ods:
-  - 17
 sdgs:
   - 17
+  - 15
+  - 2
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X84"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating large poster showing OSD goals related to pollinators (zero hunger, life on land, climate action). Drawing bees, flowers, food. One scout writing OSD number 15. Colorful markers. Collaborative, global awareness atmosphere."
+activity_code: "polinizadores-X11"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+image_prompt: "A scout meeting room in Argentina, with a large poster on the wall in the center-left. The poster shows the Sustainable Development Goals icons (especially 1, 2, 15) with drawings of bees and flowers connecting to them. Colorful markers and printed ODS list on a table below. The left side has negative space for text. On the far right side, tiny young scouts (5-10) stand or sit, one writing on the poster, another drawing a bee, seen from a distance. The global goals awareness environment dominates."
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - ODS
+  - póster
+  - objetivos globales
+  - conciencia
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-20"
@@ -53,12 +66,6 @@ activity_type:
   - Creatividad
   - Arte
   - Reflexión
-etiquetas:
-  - ODS
-  - polinizadores
-  - póster
-  - objetivos globales
-  - conciencia
 category:
   - Educación global
   - Medio ambiente
@@ -84,16 +91,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,15 +117,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

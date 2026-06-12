@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-al-aire-libre/"
 description: "Enumera actividades recreativas en bosques y crea una guía ilustrada."
 summary: "Enumera actividades recreativas en bosques y crea una guía ilustrada."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aventuras-al-aire-libre.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,28 @@ competencies:
   - Habilidades de supervivencia
 responsible:
   - Scouter o guía outdoor
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-C04"
-image_prompt: "Young scouts ages 5-15 listing forest recreational activities - hiking, camping, birdwatching, photography, picnicking, nature journaling, rock climbing, fishing, canoeing, mountain biking, plant identification, stargazing. Creating illustrated guide for three activities (gear, clothing, safety, leave no trace principles). Doing at least one activity. Outdoor recreation planning, forest connection, responsible enjoyment atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a large illustrated guide poster on the wall in the center-left showing three forest activities: hiking (boots and map), camping (tent and campfire), birdwatching (binoculars and bird guide). A backpack and gear on the floor. The left side has negative space for text. On the far right side, two tiny scouts (5-15) stand, one pointing at the hiking section, the other holding a compass, seen from a distance. The outdoor adventure planning environment dominates."
 tags:
+  - bosques
+  - actividades recreativas
+  - bosque
+  - camping
+  - senderismo
+  - guía
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Planificación
   - Guía
-etiquetas:
-  - actividades recreativas
-  - bosque
-  - camping
-  - senderismo
-  - guía
 category:
   - Recreación
   - Naturaleza
@@ -78,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +111,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

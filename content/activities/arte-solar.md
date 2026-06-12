@@ -1,24 +1,21 @@
 ---
 title: "Arte Solar"
-duration: "15 min - 1 h"
+duration: "15 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-solar/"
 description: "Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar."
 summary: "Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arte-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "5-22 años"
 age_group:
   - castores
   - manada
@@ -39,17 +36,28 @@ competencies:
   - Conciencia Ambiental
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X119"
-image_prompt: "Group of scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Using magnifying glasses to focus sunlight on wooden boards, creating burned designs. One scout drawing sun, another writing name. Adult supervisor nearby. Bucket of water for safety. Sunglasses with UV protection. Hands-on, careful, creative atmosphere."
+  - gosolar
+activity_code: "gosolar-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+image_prompt: "A sunny Argentine outdoor space. In the center-left, several wooden boards laid on the ground, each with burned designs (sun, leaf, simple shapes) made by focused sunlight. A magnifying glass resting on one board. A bucket of water nearby for safety. The left side has negative space for text. On the far right side, a small group of tiny scouts of all ages (5-21) sit on the ground, each holding a magnifying glass, seen from a distance. The solar art environment dominates."
 tags:
+  - gosolar
+  - arte solar
+  - lupa
+  - concentración solar
+  - madera
+  - energía solar
   - Go Solar
 location: "Exterior"
 participants: "4-12"
@@ -60,12 +68,6 @@ accessibility:
 activity_type:
   - Arte
   - Aprender haciendo
-etiquetas:
-  - arte solar
-  - lupa
-  - concentración solar
-  - madera
-  - energía solar
 category:
   - Arte
   - Ciencia
@@ -91,16 +93,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -127,15 +119,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

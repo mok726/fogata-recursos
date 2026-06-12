@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/aguas-en-literatura/"
 description: "Explora el papel del agua en la literatura."
 summary: "Explora el papel del agua en la literatura."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aguas-en-literatura.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Conciencia ambiental
   - Comunicación
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X261"
-image_prompt: "Older scouts ages 14-17 reading novel where water plays important role - Huckleberry Finn (Mississippi River), The Old Man and the Sea (ocean), Life of Pi (ocean), The Swarm (ocean). Writing book review focusing on water's importance or symbolism. Literary analysis, environmental themes, critical reading atmosphere."
+  - agua
+activity_code: "agua-X14"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine library or scout room, with a bookshelf in the center-left displaying novels where water plays a role: 'Las Aventuras de Huckleberry Finn', 'El Viejo y el Mar', 'La Vida de Pi'. A notebook with a book review focusing on water symbolism. The left side has negative space for text. On the far right side, a tiny older scout (14-17) sits at a table, reading a book and writing, seen from a distance. The literary water analysis environment dominates."
 tags:
+  - agua
+  - literatura
+  - novela
+  - reseña
+  - simbolismo
   - Insignia del Agua
 location: "Interior"
 participants: "4-10"
@@ -41,12 +54,6 @@ accessibility:
 activity_type:
   - Lectura
   - Escritura
-etiquetas:
-  - literatura
-  - agua
-  - novela
-  - reseña
-  - simbolismo
 category:
   - Literatura
   - Agua
@@ -66,16 +73,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +99,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

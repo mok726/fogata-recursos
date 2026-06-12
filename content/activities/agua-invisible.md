@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/agua-invisible/"
 description: "Los participantes aprenden sobre el agua invisible en los productos que usan."
 summary: "Los participantes aprenden sobre el agua invisible en los productos que usan."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/agua-invisible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,17 +28,32 @@ competencies:
   - reflexión.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 6
-  - 13
 sdgs:
   - 6
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X237"
-image_prompt: "Young scouts ages 5-15 learning about virtual water - water hidden in products (1 apple = 125L water, 1 burger = 2400L, 1 cotton t-shirt = 2700L). Creating poster of daily virtual water use. Reflecting on water conservation beyond tap water. Water footprint awareness, consumption choices, resource literacy atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X24"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 13
+rama_caminantes:
+  - 3
+  - 6
+  - 13
+rama_rovers:
+  - 6
+  - 13
+image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing virtual water: an apple (125L), a burger (2400L), a cotton t-shirt (2700L). A table with a jug of water and a notebook. The left side has space for text. On the far right side, two tiny young scouts (5-15) stand, one pointing at the burger, the other at the water jug, seen from a distance. The virtual water awareness environment dominates."
 tags:
+  - cambioclimatico
+  - agua invisible
+  - huella hídrica
+  - productos
+  - consumo
+  - agua
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -49,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - agua invisible
-  - huella hídrica
-  - productos
-  - consumo
-  - agua
 category:
   - Agua
   - Consumo
@@ -79,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +114,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

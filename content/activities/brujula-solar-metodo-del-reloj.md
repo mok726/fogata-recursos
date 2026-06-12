@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-metodo-del-reloj/"
 description: "Aprende a orientarte utilizando un reloj analógico y la posición del Sol."
 summary: "Aprende a orientarte utilizando un reloj analógico y la posición del Sol."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/brujula-solar-metodo-del-reloj.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -29,17 +28,28 @@ competencies:
   - Aprendizaje Práctico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 4
-  - 13
 sdgs:
   - 4
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X122"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Holding analog watch horizontally. Pointing 12 towards sun. Finding midpoint between hour hand and 12 to locate North. Practicing navigation skill. Learning to orient without compass. Practical outdoor skill atmosphere."
+  - gosolar
+activity_code: "gosolar-X04"
+rama_lobatos:
+  - 13
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+image_prompt: "A sunny Argentine outdoor space. In the center-left, an analog watch lying on the ground, with a small stone marking the 12 o'clock position pointing toward the sun. A line drawn in the dirt indicating north. The left side has negative space for text. On the far right side, two tiny older scouts (10-21) kneel, one holding the watch, the other pointing at the shadow line, seen from a distance. The solar navigation environment dominates."
 tags:
+  - gosolar
+  - brújula solar
+  - reloj analógico
+  - orientación
+  - norte
+  - Sol
   - Go Solar
 location: "Exterior"
 participants: "4-15"
@@ -50,12 +60,6 @@ accessibility:
 activity_type:
   - Aprendizaje práctico
   - Orientación
-etiquetas:
-  - brújula solar
-  - reloj analógico
-  - orientación
-  - norte
-  - Sol
 category:
   - Navegación
   - Astronomía
@@ -78,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +108,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

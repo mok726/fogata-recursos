@@ -3,23 +3,19 @@ title: "Aprender a coser y remendar ropa"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-a-coser-y-remendar-ropa/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Aprende a coser y remendar ropa para extender su vida útil.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Aprende a coser y remendar ropa para extender su vida útil.
+description: "Aprende a coser y remendar ropa para extender su vida útil."
+summary: "Aprende a coser y remendar ropa para extender su vida útil."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aprender-a-coser-y-remendar-ropa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -33,15 +29,29 @@ competencies:
   - Habilidades prácticas
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X370"
-image_prompt: "Older scouts ages 16-20 learning sewing skills - buttons, hems, patches, mending holes. Extending clothing life, reducing textile waste. Practical life skills, slow fashion, resourcefulness, self-sufficiency atmosphere."
+  - sacc
+activity_code: "sacc-X64"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room or home, with a sewing kit on a table in the center-left: needle, thread, buttons, patches, and a pair of jeans with a torn knee. A finished repair (a patch sewn on). The left side has open space for text. On the far right side, two tiny older scouts (16-20) sit, one threading a needle, the other holding the patched jeans, seen from a distance. The mending and sewing environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - coser
+  - remendar
+  - ropa
+  - reparar
+  - textil
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -52,12 +62,6 @@ accessibility:
 activity_type:
   - Habilidad
   - Reparación
-etiquetas:
-  - coser
-  - remendar
-  - ropa
-  - reparar
-  - textil
 category:
   - Moda
   - Habilidades
@@ -84,16 +88,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,21 +115,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Aprender a coser y remendar ropa
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Aprende a coser y remendar ropa para extender su vida útil.
 
 ## Desarrollo

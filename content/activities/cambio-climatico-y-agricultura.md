@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-y-agricultura/"
 description: "Los participantes discuten cómo el cambio climático afecta la agricultura."
 summary: "Los participantes discuten cómo el cambio climático afecta la agricultura."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cambio-climatico-y-agricultura.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -26,17 +25,32 @@ competencies:
   - comunicación.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 2
-  - 13
 sdgs:
   - 2
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X220"
-image_prompt: "Older scouts ages 11-21 (mixed genders, diverse ethnicities) discussing how climate change affects local agriculture - changing growing seasons, drought impact on crops, new pests. Exploring solutions - drought-resistant varieties, irrigation, crop diversification. Summarizing in report or presentation. Food security, agricultural adaptation, regional focus atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X07"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 13
+rama_caminantes:
+  - 3
+  - 2
+  - 13
+rama_rovers:
+  - 2
+  - 13
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a diagram: sun, drought, crop failure, food insecurity. A laptop with agricultural data and a notebook with notes on solutions (drought-resistant varieties, irrigation). The left side has space for text. On the far right side, three tiny older scouts (11-21) sit, one presenting at the board, others taking notes, seen from a distance. The climate-agriculture discussion environment dominates."
 tags:
+  - cambioclimatico
+  - agricultura
+  - cambio climático
+  - seguridad alimentaria
+  - cultivos
+  - región
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "6-20"
@@ -47,12 +61,6 @@ accessibility:
 activity_type:
   - Debate
   - Investigación
-etiquetas:
-  - agricultura
-  - cambio climático
-  - seguridad alimentaria
-  - cultivos
-  - región
 category:
   - Agricultura
   - Clima
@@ -71,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,35 +5,49 @@ layout: "layouts/activity.njk"
 permalink: "/activities/bosques-en-llamas/"
 description: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
 summary: "Investiga manejo de incendios forestales en tu región y prevención comunitaria."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bosques-en-llamas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
 responsible:
   - Scouter o bombero forestal
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D13"
-image_prompt: "Older scouts ages 11-21 researching local forest fire management - prescribed burns (for reducing fuel load, promoting fire-dependent species), wildfire suppression, community evacuation plans, fire danger rating systems (red flag warnings), campfire bans, Smokey Bear program (prevention education). Fire ecology - serotinous cones (pines need heat to open seeds), fire-adapted species (thick bark, resprouting after fire). Discussing role of climate change in worsening fires (longer fire season, drier fuels). Learning personal prevention measures - never leave campfire unattended, fully extinguish until cold to touch, avoid fireworks in dry areas, report suspicious fires. Fire ecology literacy, prevention education, community safety, climate-fire connection awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine forest landscape with a controlled prescribed burn in the distance (small smoke plume) in the center-left. A firefighter (civilian) with a drip torch. A sign 'Quema controlada - Manejo forestal'. A bucket of water and a fire blanket nearby. The left side has open space for text. On the far right side, a group of tiny older scouts (11-21) stand at a safe distance, one holding a brochure on fire prevention, another watching the burn, seen from a distance. The forest fire management environment dominates."
 tags:
+  - bosques
+  - incendios forestales
+  - manejo
+  - prevención
+  - quemas controladas
+  - bombero
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -44,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Prevención
-etiquetas:
-  - incendios forestales
-  - manejo
-  - prevención
-  - quemas controladas
-  - bombero
 category:
   - Ecología
   - Gestión de riesgos
@@ -69,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/bosques-sagrados/"
 description: "Investiga tres comunidades que consideren sagrados a los bosques."
 summary: "Investiga tres comunidades que consideren sagrados a los bosques."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bosques-sagrados.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -25,15 +25,28 @@ competencies:
   - Pensamiento crítico
 responsible:
   - Scouter o líder religioso
-ods:
-  - 16
 sdgs:
   - 16
 activity_badges:
   - bosques
 activity_code: "bosques-C12"
-image_prompt: "Older scouts ages 16-21 researching three forest-sacred traditions - 1) India's sacred groves (Devarakadus) protected by local communities, 2) Japan's Shinto shrines in ancient forests (Chinju no Mori), 3) Indigenous Amazonian beliefs (Sachamama, earth spirits), 4) Celtic Druidic forest worship, 5) Native American forest spirituality. Learning about taboos, rituals, conservation outcomes. Spiritual ecology, religious diversity, indigenous worldviews, forest protection through sacred values atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 16
+rama_caminantes:
+  - 3
+  - 16
+rama_rovers:
+  - 16
+image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing three sacred forest traditions: India's sacred groves (Devarakadus), Japan's Shinto shrine forests, Amazonian indigenous beliefs. Photos and short descriptions. A laptop with additional research. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the Shinto shrine, the other at the Amazonian shaman, seen from a distance. The sacred forests research environment dominates."
 tags:
+  - bosques
+  - bosques sagrados
+  - espiritualidad
+  - religión
+  - culturas indígenas
+  - tabús
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -43,12 +56,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - bosques sagrados
-  - espiritualidad
-  - religión
-  - culturas indígenas
-  - tabús
 category:
   - Religión
   - Antropología
@@ -65,16 +72,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -101,15 +98,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

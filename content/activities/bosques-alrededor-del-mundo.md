@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/bosques-alrededor-del-mundo/"
 description: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
 summary: "Aprende a decir 'bosque' y 'árbol' en 10 idiomas y ubícalos en un mapa."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bosques-alrededor-del-mundo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -25,15 +25,28 @@ materials:
   - Lista de idiomas
 responsible:
   - Scouter o profesor de idiomas
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - bosques
 activity_code: "bosques-C06"
-image_prompt: "Young scouts ages 5-15 learning words for forest and tree in 10 languages - English (forest/tree), Spanish (bosque/árbol), Portuguese (floresta/árvore), French (forêt/arbre), German (Wald/Baum), Italian (foresta/albero), Russian (лес/дерево), Mandarin (森林/树), Hindi (जंगल/पेड़), Swahili (msitu/mti). Writing on world map. Noting similarities between languages from same families. Linguistic diversity, cultural geography, language appreciation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. Sticky notes with the word 'bosque' and 'árbol' in 10 languages placed on their respective countries (forêt on France, Wald on Germany, etc.). A table with a list of languages. The left side has negative space for text. On the far right side, two tiny young scouts (5-15) stand, one pointing at 'forêt' on France, the other at 'Wald' on Germany, seen from a distance. The multilingual forest environment dominates."
 tags:
+  - bosques
+  - bosque
+  - árbol
+  - idiomas
+  - traducción
+  - mapa
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -44,12 +57,6 @@ accessibility:
 activity_type:
   - Idiomas
   - Geografía
-etiquetas:
-  - bosque
-  - árbol
-  - idiomas
-  - traducción
-  - mapa
 category:
   - Idiomas
   - Geografía
@@ -72,16 +79,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/carne-de-animales-silvestres/"
 description: "Analiza el impacto de la caza de subsistencia en bosques y debate soluciones."
 summary: "Analiza el impacto de la caza de subsistencia en bosques y debate soluciones."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/carne-de-animales-silvestres.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -25,17 +25,32 @@ competencies:
   - Solución de problemas
 responsible:
   - Scouter o antropólogo
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D08"
-image_prompt: "Older scouts ages 16-21 researching bushmeat crisis in Central Africa (Gabon, Cameroon, Congo), Southeast Asia (Thailand, Vietnam), Amazon (Peru, Brazil). Species - duikers, primates, pangolins, tapirs, peccaries, turtles, rodents. Caza methods - wire snares, shotguns, dogs. Discussing drivers - poverty, lack of alternative protein, weak enforcement, logging roads providing access. Solutions - community-based wildlife management, sustainable hunting quotas, alternative protein sources (fish, chickens), law enforcement, sustainable livelihoods. Human-wildlife conflict, food security, cultural sensitivity, sustainable resource use debate atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine scout room, with a world map on the wall in the center-left highlighting Central Africa, Southeast Asia, and the Amazon. Icons for bushmeat (duiker, primate, pangolin). A whiteboard with 'Drivers: poverty, lack of protein' and 'Solutions: alternative protein, sustainable hunting'. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at Africa, the other at the solutions column, seen from a distance. The bushmeat crisis research environment dominates."
 tags:
+  - bosques
+  - carne silvestre
+  - bushmeat
+  - caza de subsistencia
+  - conservación
+  - equilibrio
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
@@ -46,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Debate
-etiquetas:
-  - carne silvestre
-  - bushmeat
-  - caza de subsistencia
-  - conservación
-  - equilibrio
 category:
   - Conservación
   - Antropología
@@ -76,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

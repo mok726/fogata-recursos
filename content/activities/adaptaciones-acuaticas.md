@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/adaptaciones-acuaticas/"
 description: "Estudio comparativo de especies acuáticas."
 summary: "Estudio comparativo de especies acuáticas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/adaptaciones-acuaticas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,28 @@ competencies:
   - Pensamiento crítico
 responsible:
   - educador Scout
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B03"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnologies) wearing scout neckerchiefs in Argentine scout room. Comparing aquatic animal adaptations - fish gills and fins, dolphin echolocation, octopus camouflage, coral symbiosis. Discussing human inventions inspired by them - submarines (fish), sonar (dolphins), suction cups (octopus). If possible, visiting aquarium. Bioinspiration, marine biology, comparative anatomy atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine scout room or aquarium visit. In the center-left, a display board with images of fish gills, dolphin echolocation, and octopus camouflage, with labels 'Adaptaciones'. A tablet showing a submarine (inspired by fish). The left side has negative space for text. On the far right side, two tiny scouts (7-13) sit, one pointing at the board, the other drawing a fish, seen from a distance. The bioinspiration learning environment dominates."
 tags:
+  - biodiversidad
+  - adaptaciones acuáticas
+  - peces
+  - mamíferos marinos
+  - movimiento
+  - bioinspiración
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Comparación
-etiquetas:
-  - adaptaciones acuáticas
-  - peces
-  - mamíferos marinos
-  - movimiento
-  - bioinspiración
 category:
   - Biología
   - Oceanografía
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

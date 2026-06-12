@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/arte-inspirado-en-el-mar/"
 description: "Creación artística sobre vida marina."
 summary: "Creación artística sobre vida marina."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arte-inspirado-en-el-mar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - manada
@@ -31,15 +30,28 @@ competencies:
   - Expresión artística
 responsible:
   - educador Scout
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B14"
-image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching marine art and literature (Hokusai's Great Wave, Moby Dick, The Old Man and the Sea). Creating own artwork - painting of coral reef, clay sculpture of sea turtle, poem about whale. Expressing beauty and importance of marine biodiversity. Art for conservation, creative expression, ocean appreciation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine scout room, with a table in the center-left covered with art supplies. A finished painting of a coral reef, a clay sculpture of a sea turtle, and a poem about a whale written on parchment. The left side has negative space for text. On the far right side, two tiny scouts (5-13) sit, one painting waves, the other molding clay, seen from a distance. The marine art environment dominates."
 tags:
+  - biodiversidad
+  - arte
+  - mar
+  - océano
+  - biodiversidad marina
+  - conservación
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Arte
   - Creatividad
-etiquetas:
-  - arte
-  - mar
-  - océano
-  - biodiversidad marina
-  - conservación
 category:
   - Arte
   - Océano
@@ -81,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

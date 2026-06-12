@@ -3,23 +3,19 @@ title: "Calcular tu huella de carbono"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/calcular-tu-huella-de-carbono/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Mide tu huella de cambio climático y haz un plan para reducirla.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Mide tu huella de cambio climático y haz un plan para reducirla.
+description: "Mide tu huella de cambio climático y haz un plan para reducirla."
+summary: "Mide tu huella de cambio climático y haz un plan para reducirla."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/calcular-tu-huella-de-carbono.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,16 +27,31 @@ competencies:
   - Planificación y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X348"
-image_prompt: "Older scouts ages 16-20 calculating personal carbon footprint using online calculator. Identifying highest impact activities (transportation, diet, home energy, consumption). Making reduction plan. Digital tools, quantitative self-awareness, targeted action planning atmosphere."
-similar_activities: "http -//www.myfootprint.org/"
+  - sacc
+activity_code: "sacc-X42"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left displaying a carbon footprint quiz. A notebook with results and a list of high-impact activities (transportation, diet, home energy). A chart for reduction planning. The left side has negative space for text. On the far right side, a tiny older scout (16-20) sits, typing answers, another reads the results, seen from a distance. The carbon footprint calculation environment dominates."
+similar_activities:
+  - http://www.myfootprint.org/
 tags:
+  - Ahorra Energía
+  - sacc
+  - huella de carbono
+  - calculadora
+  - emisiones
+  - reducción
+  - plan
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -51,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Cálculo
-etiquetas:
-  - huella de carbono
-  - calculadora
-  - emisiones
-  - reducción
-  - plan
 category:
   - Clima
   - Datos
@@ -75,16 +80,17 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://www.myfootprint.org/es/about_the_quiz/what_it_measures/"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://desarrollosustentable.pemex.com/portal/index.cfm?action=mapa&flashid=huella)"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://www.myfootprint.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +118,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Calcular tu huella de carbono
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Mide tu huella de cambio climático y haz un plan para reducirla.
 
 ## Desarrollo

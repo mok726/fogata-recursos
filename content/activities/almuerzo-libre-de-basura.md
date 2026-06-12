@@ -3,22 +3,19 @@ title: "Almuerzo libre de basura"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/almuerzo-libre-de-basura/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Lleva un almuerzo sin desperdicios a la escuela.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Lleva un almuerzo sin desperdicios a la escuela.
+description: "Lleva un almuerzo sin desperdicios a la escuela."
+summary: "Lleva un almuerzo sin desperdicios a la escuela."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/almuerzo-libre-de-basura.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -30,17 +27,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 14
 sdgs:
   - 12
   - 14
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X382"
-image_prompt: "Older scouts ages 11-15 packing zero-waste lunch - reusable lunchbox, metal or glass container, cloth napkin, reusable water bottle, metal utensils (not disposable). Avoiding plastic wrap, bags, single-use items. Waste reduction at school, plastic-free habits, sustainable lunch practice atmosphere."
+  - sacc
+activity_code: "sacc-X76"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 14
+rama_caminantes:
+  - 3
+  - 12
+  - 14
+rama_rovers:
+  - 12
+  - 14
+image_prompt: "An Argentine school cafeteria or home kitchen, with a lunchbox on a table in the center-left containing reusable containers: a metal bento box, a cloth napkin, a reusable water bottle, metal utensils. A plastic wrap and a juice box are shown crossed out. The left side has negative space for text. On the far right side, a tiny older scout (11-15) sits, unpacking the lunchbox, another scout holds a reusable bottle, seen from a distance. The zero-waste lunch environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - almuerzo
+  - libre de basura
+  - reusable
+  - desperdicio
+  - envases
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (escuela)"
 participants: "2-10"
@@ -51,12 +64,6 @@ accessibility:
 activity_type:
   - Hábito
   - Reducción
-etiquetas:
-  - almuerzo
-  - libre de basura
-  - reusable
-  - desperdicio
-  - envases
 category:
   - Residuos
   - Escuela
@@ -82,16 +89,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,21 +116,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Almuerzo libre de basura
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Lleva un almuerzo sin desperdicios a la escuela.
 
 ## Desarrollo

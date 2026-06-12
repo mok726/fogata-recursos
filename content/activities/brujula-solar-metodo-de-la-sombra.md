@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-metodo-de-la-sombra/"
 description: "Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol."
 summary: "Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/brujula-solar-metodo-de-la-sombra.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,17 +29,28 @@ competencies:
   - Aprendizaje Práctico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 4
-  - 13
 sdgs:
   - 4
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X123"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Placing stick vertically in ground. Marking shadow tip with stone. Waiting 15 minutes. Marking new shadow tip. Drawing line between marks to find East-West line. Learning ancient navigation technique. Hands-on outdoor skill atmosphere."
+  - gosolar
+activity_code: "gosolar-X05"
+rama_lobatos:
+  - 13
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+image_prompt: "A sunny Argentine outdoor space. In the center-left, a vertical stick planted in the ground, with two stones marking the tip of its shadow at two different times, and a line drawn between them indicating East-West. The left side has open space for text. On the far right side, a tiny older scout (10-21) kneels next to the stick, placing a second stone, another scout stands watching, seen from a distance. The shadow compass environment dominates."
 tags:
+  - gosolar
+  - brújula solar
+  - sombra
+  - palo
+  - orientación
+  - este-oeste
   - Go Solar
 location: "Exterior"
 participants: "4-15"
@@ -51,12 +61,6 @@ accessibility:
 activity_type:
   - Aprendizaje práctico
   - Orientación
-etiquetas:
-  - brújula solar
-  - sombra
-  - palo
-  - orientación
-  - este-oeste
 category:
   - Navegación
   - Astronomía
@@ -80,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +110,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

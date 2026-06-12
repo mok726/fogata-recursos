@@ -1,22 +1,21 @@
 ---
 title: "Agua Pura (Método SODIS)"
-duration: "15 min (exposición 6 horas)"
+duration: "15 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-pura-metodo-sodis/"
 description: "Aprende a purificar agua utilizando la energía del Sol y el método SODIS."
 summary: "Aprende a purificar agua utilizando la energía del Sol y el método SODIS."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/agua-pura-metodo-sodis.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,18 +29,33 @@ competencies:
   - Experimentación Científica
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 6
-  - 13
 sdgs:
   - 6
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X127"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Filling clear PET bottles with water from natural source. Shaking to oxygenate. Placing on reflective surface (aluminum foil, white sheet). Leaving in direct sun for 6 hours. UV radiation kills pathogens. Learning low-tech water purification. Practical health technology atmosphere."
-similar_activities: "https -//www.who.int/water_sanitation_health/publications/sODIS_spanish.pdf"
+  - gosolar
+activity_code: "gosolar-X09"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 13
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+  - 9
+image_prompt: "A sunny Argentine outdoor area. In the center-left, several clear PET bottles filled with water placed on a reflective surface (aluminum foil). A sign that says 'SODIS - 6 horas'. The left side has space for text. On the far right side, two tiny older scouts (10-21) stand at a distance, one holding a bottle, the other pointing at the sun, seen from a distance. The solar water disinfection environment dominates."
+similar_activities:
+  - https://www.who.int/water_sanitation_health/publications/sODIS_spanish.pdf
 tags:
+  - gosolar
+  - SODIS
+  - purificación de agua
+  - UV
+  - botella PET
+  - agua potable
   - Go Solar
 location: "Exterior"
 participants: "4-12"
@@ -52,12 +66,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Salud
-etiquetas:
-  - SODIS
-  - purificación de agua
-  - UV
-  - botella PET
-  - agua potable
 category:
   - Salud
   - Ciencia
@@ -82,16 +90,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.who.int/water_sanitation_health/publications/sODIS_spanish.pdf"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +121,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

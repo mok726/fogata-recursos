@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/campana-escolar/"
 description: "Lanza una campaña de un mes en tu escuela para crear conciencia sobre los polinizadores."
 summary: "Lanza una campaña de un mes en tu escuela para crear conciencia sobre los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/campana-escolar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,17 +28,29 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo
-ods:
-  - 15
-  - 17
 sdgs:
   - 15
   - 17
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X109"
-image_prompt: "Large group of scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine school. Month-long campaign - posters in hallways, assembly presentation, working with school gardener to plant flowers. Panel discussion with beekeeper and environmental officer. School-wide impact, systemic change atmosphere."
+activity_code: "polinizadores-X36"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine school hallway or auditorium. In the center-left, posters on the walls about pollinators, a table with seed packets and bee hotel materials, and a schedule of events for a month-long campaign. The left side has space for text. On the far right side, a small group of tiny scouts (5-10) stand near the table, one talking to a civilian teacher, another holding a poster, seen from a distance. The school-wide campaign environment dominates."
 tags:
+  - polinizadores
+  - campaña escolar
+  - conciencia
+  - carteles
+  - mesa redonda
+  - cambio
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "10-100"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Organización
-etiquetas:
-  - campaña escolar
-  - conciencia
-  - carteles
-  - mesa redonda
-  - cambio
 category:
   - Educación
   - Medio ambiente
@@ -81,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +113,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,22 +1,21 @@
 ---
 title: "BOSQUES LLENOS DE VIDA"
-duration: "3-4 horas (investigación + presentación)"
+duration: "3-4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-llenos-de-vida/"
 description: "Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas."
 summary: "Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bosques-llenos-de-vida.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -35,22 +34,38 @@ competencies:
   - Comunicación creativa
 responsible:
   - Scouter o líder de proyecto
-ods:
-  - 8
-  - 15
 sdgs:
   - 8
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-B01"
-image_prompt: "Older scouts ages 11-21 researching local forest (Selva Misionera, Bosque Atlántico, Parque Nacional). Creating creative report - play, news show, website, poster covering forest type, cultural importance, livelihoods, threats, conservation efforts. Environmental research, creative communication, local forest stewardship atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 8
+  - 15
+rama_caminantes:
+  - 3
+  - 8
+  - 15
+rama_rovers:
+  - 8
+  - 15
+image_prompt: "An Argentine scout room, with a creative display (poster, diorama, or website on a laptop) in the center-left showing a local forest: its type (e.g., Bosque Atlántico), cultural importance, livelihoods (yerba mate harvest), threats (deforestation), and conservation actions. Colorful and informative. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the threats, the other at the conservation actions, seen from a distance. The local forest research presentation environment dominates."
 required: true
 required_for:
   - bosques-B
-required_comment: "Actividad obligatoria para la categoría - LOS BOSQUES EN USO"
+required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES EN USO"
 required_category: "LOS BOSQUES EN USO"
 tags:
+  - LOS BOSQUES EN USO
+  - bosques
+  - bosque local
+  - patrimonio cultural
+  - medios de subsistencia
+  - amenazas
+  - conservación
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-20"
@@ -61,12 +76,6 @@ accessibility:
 activity_type:
   - Investigación
   - Presentación
-etiquetas:
-  - bosque local
-  - patrimonio cultural
-  - medios de subsistencia
-  - amenazas
-  - conservación
 category:
   - Ecología
   - Cultura
@@ -92,16 +101,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -128,15 +127,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

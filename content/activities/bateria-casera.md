@@ -1,21 +1,21 @@
 ---
 title: "Batería Casera"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/bateria-casera/"
 description: "Construye una batería con materiales cotidianos."
 summary: "Construye una batería con materiales cotidianos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bateria-casera.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,16 +30,30 @@ competencies:
   - Seguridad eléctrica
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X173"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room (adult supervision). Inserting galvanized nail and copper wire into potato. Connecting to multimeter to measure small voltage (0.5-1V). Understanding chemical energy to electrical energy conversion. Hands-on electricity, safe experimentation atmosphere."
-similar_activities: "https -//www.instructables.com/Potato-Battery/"
+activity_code: "energia-X42"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room (adult supervision), with a table in the center-left. A potato with a galvanized nail and a copper wire inserted, connected to a multimeter showing a small voltage. Alligator clips and wires. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) sit, one holding the multimeter probes, the other watching the display, seen from a distance. The potato battery experiment environment dominates."
+similar_activities:
+  - https://www.instructables.com/Potato-Battery/
 tags:
+  - energia
+  - batería casera
+  - patata
+  - electricidad
+  - clavo
+  - cobre
   - Insignia de Energía
 location: "Interior"
 participants: "4-10"
@@ -51,12 +65,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Electricidad
-etiquetas:
-  - batería casera
-  - patata
-  - electricidad
-  - clavo
-  - cobre
 category:
   - Electricidad
   - Ciencia
@@ -79,16 +87,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.instructables.com/Potato-Battery/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +118,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

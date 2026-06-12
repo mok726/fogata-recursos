@@ -1,22 +1,21 @@
 ---
 title: "ALIMENTOS DEL BOSQUE"
-duration: "3 horas (investigación + preparación)"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-del-bosque/"
 description: "Investiga alimentos silvestres y prepara una comida con ingredientes forestales."
 summary: "Investiga alimentos silvestres y prepara una comida con ingredientes forestales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/alimentos-del-bosque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,17 +27,32 @@ tools:
   - Guía de plantas comestibles
 responsible:
   - Scouter o experto en botánica
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-C11"
-image_prompt: "Older scouts ages 11-21 learning about wild forest foods with expert forager or botanist. Identifying safe edible species - berries (blackberries, blueberries, elderberries), nuts (walnuts, hazelnuts, acorns after processing), mushrooms (with expert ONLY), wild greens (nettles, dandelion, sorrel), maple sap. Preparing forest meal together. SAFETY - absolute identification before eating. Traditional food systems, foraging ethics, wild food culinary skills, poison prevention awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine forest edge or outdoor kitchen, with a campfire or portable stove in the center-left. A basket of wild edibles (identified safe by expert): berries, nuts, wild greens. A pot cooking a forest stew. A sign 'Cocina del Bosque - con supervisión de experto'. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand with a civilian forager, one adding berries to the pot, the other holding a mushroom (with caution), seen from a distance. The wild food cooking environment dominates."
 tags:
+  - bosques
+  - alimentos silvestres
+  - bosque
+  - recolección
+  - cocina
+  - seguridad
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -50,12 +64,6 @@ accessibility:
 activity_type:
   - Cocina
   - Investigación
-etiquetas:
-  - alimentos silvestres
-  - bosque
-  - recolección
-  - cocina
-  - seguridad
 category:
   - Botánica
   - Cocina
@@ -82,16 +90,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +116,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

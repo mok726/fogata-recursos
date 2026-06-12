@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico/"
 description: "Investiga los efectos del cambio climático en los recursos hídricos."
 summary: "Investiga los efectos del cambio climático en los recursos hídricos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cambio-climatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,18 +22,33 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
-  - 13
 sdgs:
   - 6
   - 13
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X287"
-image_prompt: "Older scouts ages 14-17 researching climate change impacts on water - more intense floods, longer droughts, sea level rise, glacial melt (Andes), changing rainfall patterns. Connecting to natural disasters (hurricanes, floods). Exploring water management adaptation strategies - reservoirs, early warning systems, flood barriers. Climate-water nexus, disaster resilience, adaptation planning atmosphere."
-similar_activities: "https -//www.emdat.be/"
+  - agua
+activity_code: "agua-X40"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 13
+rama_caminantes:
+  - 3
+  - 6
+  - 13
+rama_rovers:
+  - 6
+  - 13
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing climate change impacts on water: more intense floods, longer droughts, sea level rise, glacial melt (Andes). A laptop with disaster databases (EM-DAT). A notebook with adaptation strategies. The left side has space for text. On the far right side, two tiny older scouts (14-17) sit, one pointing at the flood icon, the other at the drought icon, seen from a distance. The climate-water adaptation research environment dominates."
+similar_activities:
+  - https://www.emdat.be/
 tags:
+  - agua
+  - cambio climático
+  - desastres
+  - adaptación
+  - recursos hídricos
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -42,12 +58,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - cambio climático
-  - agua
-  - desastres
-  - adaptación
-  - recursos hídricos
 category:
   - Clima
   - Agua
@@ -66,16 +76,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.emdat.be/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

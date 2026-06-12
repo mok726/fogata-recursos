@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/banco-de-semillas/"
 description: "Visita a centro de conservación genética."
 summary: "Visita a centro de conservación genética."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/banco-de-semillas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,17 +24,31 @@ competencies:
   - Preservación
 responsible:
   - técnico banco de semillas
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C30"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) visiting seed bank (Banco de Germoplasma, INTA, or university collection). Learning what seed banks are, why they exist (crop diversity backup, extinction prevention, climate resilience). Seeing how seeds are stored (cold, dry). Asking how to get involved (seed saving, volunteering). Crop genetic conservation, food security, future-proofing agriculture atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine seed bank (bank of germplasm or university lab). In the center-left, shelves with labeled jars of seeds, a cold storage unit, and a microscope. A sign 'Banco de Semillas'. The left side has negative space for text. On the far right side, three tiny older scouts (14-21) stand with a civilian technician, one looking at seeds through a magnifying glass, another reading a label, seen from a distance. The seed bank visit environment dominates."
 tags:
+  - biodiversidad
+  - banco de semillas
+  - conservación genética
+  - semillas
+  - biodiversidad agrícola
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -45,11 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - banco de semillas
-  - conservación genética
-  - semillas
-  - biodiversidad agrícola
 category:
   - Agricultura
   - Genética
@@ -67,16 +76,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

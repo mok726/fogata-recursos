@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-en-el-menu/"
 description: "Análisis de diversidad alimentaria."
 summary: "Análisis de diversidad alimentaria."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/biodiversidad-en-el-menu.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,27 @@ competencies:
   - Pensamiento crítico
 responsible:
   - educador Scout
-ods:
-  - 2
 sdgs:
   - 2
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C02"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Discussing what makes healthy diet. Imagining if only one fruit, one vegetable, one meat existed. Considering nutritional deficiencies, disease risk, boring meals. Learning how biodiversity (many species) contributes to balanced nutrition. Food diversity awareness, critical thinking about monoculture diets atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+rama_caminantes:
+  - 3
+  - 2
+rama_rovers:
+  - 2
+image_prompt: "An Argentine scout room, with a large poster in the center-left showing a healthy plate divided into fruits, vegetables, grains, and protein, with question marks on foods that depend on pollinators. A second smaller poster showing a bland plate with only corn, rice, and chicken. The left side has negative space for text. On the far right side, two tiny scouts (7-13) sit, one pointing at the healthy plate, the other at the bland plate, seen from a distance. The dietary diversity reflection environment dominates."
 tags:
+  - biodiversidad
+  - dieta
+  - nutrición
+  - variedad
+  - alimentos
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Debate
-etiquetas:
-  - dieta
-  - biodiversidad
-  - nutrición
-  - variedad
-  - alimentos
 category:
   - Nutrición
   - Salud
@@ -73,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-en-objetos-cotidianos/"
 description: "Análisis de conexiones globales."
 summary: "Análisis de conexiones globales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/biodiversidad-en-objetos-cotidianos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,15 +30,27 @@ competencies:
   - Conciencia material
 responsible:
   - educador Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D09"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) in Argentine scout room. Choosing a room (classroom, living room). Identifying objects that come from biodiversity - wooden table from tree, cotton shirt from plant, wool sweater from sheep, paper from trees, leather shoes from cow. Creating collage showing connections. Discussing which has most complex origin chain. Material literacy, supply chain thinking, biodiversity connection awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a collage on the wall in the center-left. The collage shows a wooden table connected to a tree, a cotton shirt to a cotton plant, a leather shoe to a cow, a paper notebook to a tree. Arrows drawn between them. The left side has space for text. On the far right side, two tiny scouts (7-13) stand, one pointing at the cotton shirt connection, the other at the table connection, seen from a distance. The material origins reflection environment dominates."
 tags:
+  - biodiversidad
+  - objetos cotidianos
+  - origen
+  - materiales
+  - collage
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Arte
   - Reflexión
-etiquetas:
-  - objetos cotidianos
-  - biodiversidad
-  - origen
-  - materiales
-  - collage
 category:
   - Consumo
   - Ecología
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

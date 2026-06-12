@@ -4,28 +4,32 @@ layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-linguisticas/"
 description: "Aprende cómo se dice ‘agua’ en diferentes idiomas."
 summary: "Aprende cómo se dice ‘agua’ en diferentes idiomas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aventuras-linguisticas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X254"
-image_prompt: "Young scouts ages 5-10 learning word for water in different languages - water (English), agua (Spanish), eau (French), Wasser (German), acqua (Italian), voda (Russian), maji (Swahili), mizu (Japanese). Creating tongue twister mixing words. Language diversity, global awareness, fun learning atmosphere."
+  - agua
+activity_code: "agua-X07"
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. Around the map, sticky notes with the word 'energía' written in different languages (energía, énergie, Energie, energía, etc.) connected by strings to their countries. The left side has negative space for text. On the far right side, three tiny scouts (7-13) stand near the map, one pointing at a note, another reading aloud, seen from a distance. The multilingual energy environment dominates."
 tags:
+  - agua
+  - idiomas
+  - mundial
+  - traducción
+  - cultura
   - Insignia del Agua
 location: "Interior"
 participants: "6-20"
@@ -36,12 +40,6 @@ accessibility:
 activity_type:
   - Investigación
   - Juego
-etiquetas:
-  - agua
-  - idiomas
-  - mundial
-  - traducción
-  - cultura
 category:
   - Idiomas
   - Cultura
@@ -62,16 +60,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -98,15 +86,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

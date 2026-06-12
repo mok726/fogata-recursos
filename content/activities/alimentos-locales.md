@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-locales/"
 description: "Los participantes investigan los cultivos locales y su relación con el clima."
 summary: "Los participantes investigan los cultivos locales y su relación con el clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/alimentos-locales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,17 +31,32 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 2
-  - 13
 sdgs:
   - 2
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X228"
-image_prompt: "Scouts ages 5-21 researching local crops in Argentina - corn, wheat, soybeans, sunflowers, grapes (Mendoza), yerba mate, apples (Patagonia). How climate affects production - frost risk, drought, hail. Creating illustrated report. Local food systems, climate-agriculture connection, regional pride atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X15"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 13
+rama_caminantes:
+  - 3
+  - 2
+  - 13
+rama_rovers:
+  - 2
+  - 13
+image_prompt: "An Argentine scout room, with a large map of Argentina on the wall in the center-left, showing regions with crop icons: corn and soy in the Pampas, grapes in Mendoza, apples in Patagonia, yerba mate in the northeast. A table with printed images. The left side has negative space for text. On the far right side, two tiny scouts (5-21) stand, one pointing at Mendoza, the other holding a grape drawing, seen from a distance. The local crops research environment dominates."
 tags:
+  - cambioclimatico
+  - cultivos locales
+  - clima
+  - producción
+  - informe
+  - Argentina
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -54,12 +67,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - cultivos locales
-  - clima
-  - producción
-  - informe
-  - Argentina
 category:
   - Agricultura
   - Clima
@@ -83,16 +90,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +116,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

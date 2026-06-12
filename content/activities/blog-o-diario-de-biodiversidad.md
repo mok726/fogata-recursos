@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/blog-o-diario-de-biodiversidad/"
 description: "Comunicación digital/escrita."
 summary: "Comunicación digital/escrita."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/blog-o-diario-de-biodiversidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,15 +24,27 @@ competencies:
   - Divulgación
 responsible:
   - educador Scout
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D26"
-image_prompt: "Older scouts ages 14-21 starting biodiversity blog (online) or journal (paper). Posting weekly - tips for youth (plant natives, reduce plastic, observe wildlife). Engaging readers via comments or school newspaper/radio. Tracking which topics get most response over month. Digital writing, science communication, youth voice, persistence atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine scout room or home, with a laptop on a table in the center-left. The screen shows a blog post with a photo of a local butterfly and a tip 'Planta flores nativas'. A notebook diary open beside it. The left side has space for text. On the far right side, a tiny older scout (14-21) sits, typing on the laptop, another looks at the screen, seen from a distance. The biodiversity blogging environment dominates."
 tags:
+  - biodiversidad
+  - blog
+  - diario
+  - juventud
+  - consejos
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -43,12 +55,6 @@ accessibility:
 activity_type:
   - Escritura
   - Comunicación
-etiquetas:
-  - blog
-  - diario
-  - biodiversidad
-  - juventud
-  - consejos
 category:
   - Comunicación
   - Escritura
@@ -67,16 +73,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +99,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

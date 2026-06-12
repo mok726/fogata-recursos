@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/canta-con-el-bosque/"
 description: "Compón una canción sobre bosques y acompaña con instrumentos naturales."
 summary: "Compón una canción sobre bosques y acompaña con instrumentos naturales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/canta-con-el-bosque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,15 +30,28 @@ competencies:
   - Coordinación
 responsible:
   - Scouter o músico
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
   - bosques
 activity_code: "bosques-C09"
-image_prompt: "Young scouts ages 5-15 composing original song about forest (trees, animals, seasons, beauty, protection). Collecting natural materials to make instruments - leaf crinkles, stick drumming on hollow log, shaking seed pods, blowing across bottle, bird whistle, stone clapping, bark scraping. Performing song with natural instruments. Forest soundscape awareness, musical creativity, natural rhythm, environmental sound education atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine forest or outdoor stage, with a group of scouts in the center-left playing natural instruments: shaking seed pods, tapping hollow logs, blowing across bottles, whistling like birds. A song about the forest being sung. The left side has open space for text. On the far right side, the musicians stand, one shaking a gourd, another tapping a log, a third singing, seen from a distance. The forest music environment dominates."
 tags:
+  - bosques
+  - canción
+  - bosque
+  - instrumentos naturales
+  - composición
+  - sonidos
   - Insignia de los Bosques
 location: "Exterior / Interior"
 participants: "6-20"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Música
   - Arte
-etiquetas:
-  - canción
-  - bosque
-  - instrumentos naturales
-  - composición
-  - sonidos
 category:
   - Música
   - Naturaleza
@@ -83,16 +90,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +116,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

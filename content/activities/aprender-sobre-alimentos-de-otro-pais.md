@@ -3,22 +3,19 @@ title: "Aprender sobre alimentos de otro país"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-sobre-alimentos-de-otro-pais/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Elige un país y aprende sobre los alimentos que producen y consumen.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Elige un país y aprende sobre los alimentos que producen y consumen.
+description: "Elige un país y aprende sobre los alimentos que producen y consumen."
+summary: "Elige un país y aprende sobre los alimentos que producen y consumen."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -29,17 +26,33 @@ competencies:
   - Investigación y comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X312"
-image_prompt: "Older scouts ages 11-15 choosing a country (Italy, Thailand, Mexico, Ethiopia). Researching traditional foods, agricultural products, how climate affects crops. Creating presentation for school or library. Cultural food diversity, global agriculture awareness, public speaking atmosphere."
+  - sacc
+activity_code: "sacc-X06"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine scout room, with a display board in the center-left showing a chosen country (e.g., Italy) with photos of traditional foods (pasta, tomatoes, olive oil) and agricultural maps. A laptop with research, and a stack of index cards for presentation. The left side has negative space for text. On the far right side, a tiny older scout (11-15) stands, pointing at the board, others sitting and listening, seen from a distance. The global food research environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - alimentos
+  - otro país
+  - culturas
+  - producción
+  - consumo
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -50,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Presentación
-etiquetas:
-  - alimentos
-  - otro país
-  - culturas
-  - producción
-  - consumo
 category:
   - Cultura
   - Alimentación
@@ -81,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,21 +115,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Aprender sobre alimentos de otro país
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Elige un país y aprende sobre los alimentos que producen y consumen.
 
 ## Desarrollo

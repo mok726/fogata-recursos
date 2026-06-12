@@ -1,21 +1,21 @@
 ---
 title: "Artículo sobre Cambio Climático"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/articulo-sobre-cambio-climatico/"
 description: "Escribe un artículo periodístico sobre el impacto local del cambio climático."
 summary: "Escribe un artículo periodístico sobre el impacto local del cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/articulo-sobre-cambio-climatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -26,15 +26,28 @@ competencies:
   - Investigación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
   - energia
-activity_code: "energia-X146"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or library. Researching local climate impacts - droughts in Cuyo, floods in Buenos Aires, glacial retreat in Andes. Interviewing local farmers or experts. Writing newspaper-style article. Publishing to school or community. Journalistic, advocacy atmosphere."
+activity_code: "energia-X15"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room or library, with a laptop on a table in the center-left. The screen shows a news article template. Notebooks with interview notes and local climate data (droughts, floods). A printed newspaper clipping. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit at the table, one typing, the other reviewing notes, seen from a distance. The climate journalism environment dominates."
 tags:
+  - energia
+  - cambio climático
+  - artículo
+  - periodismo
+  - comunidad
+  - impactos locales
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -46,12 +59,6 @@ activity_type:
   - Investigación
   - Comunicación
   - Periodismo
-etiquetas:
-  - cambio climático
-  - artículo
-  - periodismo
-  - comunidad
-  - impactos locales
 category:
   - Periodismo
   - Clima
@@ -70,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

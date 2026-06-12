@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/alimentador-de-aves-reciclado/"
 description: "Construcción de comedero para aves nativas."
 summary: "Construcción de comedero para aves nativas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/alimentador-de-aves-reciclado.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -32,16 +32,30 @@ competencies:
   - Responsabilidad
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A04"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Building bird feeder from recycled plastic bottle or carton. Adding birdseed or fruit. Hanging on tree safe from cats. Observing and recording bird visitors for two weeks. Citizen science, backyard conservation, patience atmosphere."
-similar_activities: "http -//fieltro.net/como-hacer-un-alimentador-de-aves/"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden, with a bird feeder made from a recycled plastic bottle hanging from a tree branch in the center-left. A few small birds perched nearby. The left side has open space for text. On the far right side, two tiny young scouts (5-10) stand, one pointing at a bird on the feeder, the other holding a bag of birdseed, seen from a distance. The backyard bird conservation environment dominates."
+similar_activities:
+  - http://fieltro.net/como-hacer-un-alimentador-de-aves/
 tags:
+  - biodiversidad
+  - alimentador de aves
+  - reciclado
+  - aves nativas
+  - monitoreo
+  - conservación
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-10"
@@ -52,12 +66,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio
-etiquetas:
-  - alimentador de aves
-  - reciclado
-  - aves nativas
-  - monitoreo
-  - conservación
 category:
   - Conservación
   - Manualidades
@@ -84,16 +92,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://fieltro.net/como-hacer-un-alimentador-de-aves/"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://fieltro.net/como-hacer-un-alimentador-de-aves/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,15 +126,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

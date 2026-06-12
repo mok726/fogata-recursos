@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/campana-comunitaria/"
 description: "Lanza una iniciativa local para promover energía limpia."
 summary: "Lanza una iniciativa local para promover energía limpia."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/campana-comunitaria.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,32 @@ competencies:
   - Creatividad
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 11
 sdgs:
   - 11
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X188"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community. Launching local clean energy campaign - battery collection (keeping toxics out of soil), energy efficiency workshop, LED lightbulb exchange. Using social media and flyers. Measuring impact (kg batteries collected, participants reached). Community organizing, environmental action, measurable impact atmosphere."
+activity_code: "energia-X57"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 11
+rama_caminantes:
+  - 3
+  - 7
+  - 11
+rama_rovers:
+  - 7
+  - 11
+image_prompt: "An Argentine community space (plaza or school). In the center-left, a table with a collection bin for used batteries, a stack of LED lightbulbs, and informational flyers about energy efficiency. A banner 'Campaña de Energía Limpia'. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) talk to a civilian family, one handing a flyer, another receiving a battery, seen from a distance. The community energy campaign environment dominates."
 tags:
+  - energia
+  - campaña
+  - energía limpia
+  - baterías
+  - eficiencia
+  - comunidad
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "10-50"
@@ -47,12 +64,6 @@ activity_type:
   - Organización
   - Activismo
   - Comunidad
-etiquetas:
-  - campaña
-  - energía limpia
-  - baterías
-  - eficiencia
-  - comunidad
 category:
   - Energía
   - Comunidad
@@ -76,16 +87,6 @@ scout_method:
   - Servicio comunitario
 ludic_component: 3
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +113,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

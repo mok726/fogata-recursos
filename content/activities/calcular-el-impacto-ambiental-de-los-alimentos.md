@@ -9,17 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestra Alimentación.
   Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,18 +31,34 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X388"
-image_prompt: "Older scouts ages 16-20 researching environmental impact of foods - water footprint (beef 15,000 L/kg vs vegetables 300 L/kg), carbon emissions, land use. Creating comparison charts. Discussing dietary changes for lower impact. Sustainable diet literacy, data analysis, informed food choices atmosphere."
-similar_activities: "www.fao.org/nr/water/promotional.html"
+  - sacc
+activity_code: "sacc-X82"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left showing a water and carbon footprint calculator for foods. A notebook with a comparison chart: beef (15,000 L/kg, high CO2), chicken (4,300 L, medium), lentils (500 L, low). A plate of lentils and rice. The left side has negative space for text. On the far right side, two tiny older scouts (16-20) sit, one typing on the laptop, the other pointing at the plate, seen from a distance. The environmental impact calculation environment dominates."
+similar_activities:
+  - www.fao.org/nr/water/promotional.html
 tags:
+  - sacc
+  - impacto ambiental
+  - alimentos
+  - agua
+  - energía
+  - huella
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -53,12 +69,6 @@ accessibility:
 activity_type:
   - Investigación
   - Análisis
-etiquetas:
-  - impacto ambiental
-  - alimentos
-  - agua
-  - energía
-  - huella
 category:
   - Alimentación
   - Clima
@@ -83,16 +93,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +119,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

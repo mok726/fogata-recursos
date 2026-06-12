@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/arbol-de-deseos/"
 description: "Crea un collage con deseos escritos en materiales naturales del bosque."
 summary: "Crea un collage con deseos escritos en materiales naturales del bosque."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arbol-de-deseos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -25,16 +25,30 @@ competencies:
   - Conciencia ecológica
 responsible:
   - Scouter o líder artístico
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
   - bosques
 activity_code: "bosques-C05"
-image_prompt: "Scouts of all ages collecting natural materials (leaves, bark, smooth stones) as paper'. Writing wishes for themselves"
-similar_activities: "world. Creating large tree collage. Optional - photographing and sending to FAO Yunga program. Group reflection on shared wishes. Creative expression"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine scout room, with a large collage on the wall in the center-left shaped like a tree. The tree is made of leaves and bark pieces, and each leaf has a handwritten wish (e.g., 'Que los bosques duren para siempre', 'Paz para el mundo'). A table with more natural materials and markers. The left side has open space for text. On the far right side, two tiny scouts (5-15) stand, one attaching a wish leaf, the other reading a wish, seen from a distance. The tree of wishes environment dominates."
+similar_activities:
+  - world.Creatinglargetreecollage.Optional:photographingandsendingtoFAOYungaprogram.Groupreflectiononsharedwishes.Creativeexpression
 tags:
+  - bosques
+  - árbol de deseos
+  - collage
+  - naturaleza
+  - deseos
+  - creatividad
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -45,12 +59,6 @@ accessibility:
 activity_type:
   - Arte
   - Reflexión
-etiquetas:
-  - árbol de deseos
-  - collage
-  - naturaleza
-  - deseos
-  - creatividad
 category:
   - Arte
   - Bienestar
@@ -66,16 +74,6 @@ special_materials:
 prep_time: "art therapy atmosphere.'"
 scout_method:
   - Arte
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +100,6 @@ scout_method:
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

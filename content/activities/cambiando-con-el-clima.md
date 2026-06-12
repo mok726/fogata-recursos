@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cambiando-con-el-clima/"
 description: "Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas."
 summary: "Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cambiando-con-el-clima.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -33,17 +32,32 @@ competencies:
   - Conciencia climática
 responsible:
   - Scouter o científico ambiental
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-B08"
-image_prompt: "Older scouts ages 11-21 comparing climate impacts on three forest biomes - mangroves (sea level rise, saltwater intrusion), montane forests (temperature shifts, species migration), boreal forest (permafrost thaw, fires, pests). Creating card matching game linking forest type to climate effects and feedback loops. Forest-climate science, interactive learning, carbon cycle understanding atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a card game on a table in the center-left: three forest biome cards (manglar, bosque de montaña, bosque boreal) and matching cards with climate impacts (sea level rise, temperature shift, permafrost thaw). A player matching them. The left side has open space for text. On the far right side, two tiny older scouts (11-21) sit, one placing a 'sea level rise' card next to 'manglar', the other checking a reference sheet, seen from a distance. The forest-climate matching game environment dominates."
 tags:
+  - bosques
+  - cambio climático
+  - bosque de manglar
+  - bosque boreal
+  - carbono
+  - vulnerabilidad
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -54,12 +68,6 @@ accessibility:
 activity_type:
   - Juego
   - Ciencia
-etiquetas:
-  - cambio climático
-  - bosque de manglar
-  - bosque boreal
-  - carbono
-  - vulnerabilidad
 category:
   - Clima
   - Ecología
@@ -84,16 +92,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -120,15 +118,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

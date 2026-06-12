@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/bosques-justos/"
 description: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
 summary: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bosques-justos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,31 @@ competencies:
   - Pensamiento político
 responsible:
   - Scouter o líder comunitario
-ods:
-  - 10
-  - 16
 sdgs:
   - 10
   - 16
 activity_badges:
   - bosques
 activity_code: "bosques-B12"
-image_prompt: "Older scouts ages 16-21 discussing rights of indigenous and local communities to forest access and benefit sharing. How can forest management policies ensure fair distribution of resources? Topics - prior informed consent, traditional ecological knowledge, free trade agreements, certification schemes, REDD+ safeguards. Environmental justice, indigenous rights, policy debate atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 10
+  - 16
+rama_caminantes:
+  - 3
+  - 10
+  - 16
+rama_rovers:
+  - 10
+  - 16
+image_prompt: "An Argentine scout room, with a role-play setup: a circle of chairs with name cards (comunidad indígena, empresa forestal, gobierno, ONG). A whiteboard with 'Derechos de acceso' and 'Distribución de beneficios'. A copy of the Nagoya Protocol on the table. The left side has open space for text. On the far right side, a group of tiny older scouts (16-21) sit, one speaking, another listening, seen from a distance. The forest rights debate environment dominates."
 tags:
+  - bosques
+  - derechos de acceso
+  - distribución de beneficios
+  - comunidades forestales
+  - gobernanza
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
@@ -48,11 +62,6 @@ accessibility:
 activity_type:
   - Debate
   - Diálogo
-etiquetas:
-  - derechos de acceso
-  - distribución de beneficios
-  - comunidades forestales
-  - gobernanza
 category:
   - Política
   - Derecho
@@ -76,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

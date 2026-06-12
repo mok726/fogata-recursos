@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/campamento-de-bajo-impacto/"
 description: "Planea una excursión scout con mínima huella de carbono."
 summary: "Planea una excursión scout con mínima huella de carbono."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/campamento-de-bajo-impacto.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,32 @@ competencies:
   - Autosuficiencia
 responsible:
   - Educador Scout/ Guiadora ADA
-ods:
-  - 13
 sdgs:
   - 13
+  - 7
 activity_badges:
   - energia
-activity_code: "energia-X192"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine campsite. Planning low-carbon camping - carpooling or public transport to site, using solar ovens for cooking, local organic food, reusable utensils, composting waste, leaving no trace. Calculating carbon savings. Documenting strategies. Practical sustainability, outdoor ethics, leadership atmosphere."
+activity_code: "energia-X61"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine campsite (mountains or forest). In the center-left, a tent, a solar oven on a rock, and a clothesline with reusable utensils hanging to dry. A compost pile nearby. The left side has open space for text. On the far right side, a small group of tiny older scouts (14-21) sit around a campfire, one cooking on the solar oven, another sorting waste into recycling bags, seen from a distance. The low-carbon camping environment dominates."
 tags:
+  - energia
+  - campamento
+  - bajo impacto
+  - huella de carbono
+  - cocina solar
+  - residuos
   - Insignia de Energía
 location: "Exterior"
 participants: "6-20"
@@ -47,12 +64,6 @@ activity_type:
   - Planificación
   - Campamento
   - Sostenibilidad
-etiquetas:
-  - campamento
-  - bajo impacto
-  - huella de carbono
-  - cocina solar
-  - residuos
 category:
   - Scoutismo
   - Sostenibilidad
@@ -77,16 +88,6 @@ scout_method:
   - Educación por la acción
 ludic_component: 4
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +114,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

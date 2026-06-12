@@ -5,33 +5,48 @@ layout: "layouts/activity.njk"
 permalink: "/activities/biomimesis/"
 description: "Tecnología inspirada en la naturaleza."
 summary: "Tecnología inspirada en la naturaleza."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/biomimesis.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
 responsible:
   - educador Scout
-ods:
-  - 9
-  - 15
 sdgs:
   - 9
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D21"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) in Argentine scout room. Learning biomimicry - nature-inspired inventions. Matching - excavador (mole/claw), paracaídas (maple seed), aletas (frog/duck feet), sonar (dolphin/bat), papel (wasp nest). Finding four more examples (velcro from burrs, bullet train from kingfisher, wind turbine from whale flippers, glue from mussels). Brainstorming current problems that could be solved with biomimicry. Innovation, nature as teacher, design thinking atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 9
+  - 15
+rama_caminantes:
+  - 3
+  - 9
+  - 15
+rama_rovers:
+  - 9
+  - 15
+image_prompt: "An Argentine scout room, with a display board in the center-left showing pairs: a burr (Velcro), a kingfisher beak (bullet train), a whale flipper (wind turbine), a lotus leaf (self-cleaning paint). Inventor sketches and ideas. The left side has space for text. On the far right side, two tiny older scouts (11-17) sit, one pointing at the burr, the other at a piece of Velcro, seen from a distance. The biomimicry learning environment dominates."
 tags:
+  - biodiversidad
+  - biomímesis
+  - naturaleza
+  - inventos
+  - tecnología
+  - inspiración
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -42,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Creatividad
-etiquetas:
-  - biomímesis
-  - naturaleza
-  - inventos
-  - tecnología
-  - inspiración
 category:
   - Tecnología
   - Biología
@@ -65,16 +74,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -101,15 +100,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

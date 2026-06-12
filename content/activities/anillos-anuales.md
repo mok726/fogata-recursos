@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/anillos-anuales/"
 description: "Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia."
 summary: "Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/anillos-anuales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -33,17 +32,32 @@ competencies:
   - Interpretación de datos
 responsible:
   - Scouter o científico invitado
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A07"
-image_prompt: "Older scouts ages 11-21 examining tree stump or cut log. Counting growth rings to determine age. Observing spacing - wide rings (good growing years), narrow rings (drought, competition, disease). Creating poster explaining tree's life history. Dendrochronology, climate history interpretation, scientific observation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room or outdoor area, with a tree stump on a table in the center-left, showing clear growth rings. A magnifying glass, a ruler, and a notebook with a sketch counting rings (e.g., 15 rings). A poster explaining that wide rings mean good years, narrow rings mean stress. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at a wide ring, the other at a narrow ring, seen from a distance. The tree ring dendrochronology environment dominates."
 tags:
+  - bosques
+  - anillos
+  - árbol
+  - edad
+  - crecimiento
+  - dendrocronología
   - Insignia de los Bosques
 location: "Exterior / Interior"
 participants: "4-10"
@@ -54,12 +68,6 @@ accessibility:
 activity_type:
   - Ciencia
   - Investigación
-etiquetas:
-  - anillos
-  - árbol
-  - edad
-  - crecimiento
-  - dendrocronología
 category:
   - Ciencia
   - Bosque
@@ -86,16 +94,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +120,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

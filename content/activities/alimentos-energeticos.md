@@ -1,21 +1,21 @@
 ---
 title: "Alimentos Energéticos"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-energeticos/"
 description: "Juego de emparejar alimentos con su huella energética."
 summary: "Juego de emparejar alimentos con su huella energética."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/alimentos-energeticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,28 @@ competencies:
   - Cálculo matemático
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X172"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Matching food cards with energy footprint - beef (high - 25 kcal input per 1 kcal food), vegetables (low), cheese (medium). Discussing which foods have highest energy cost. Food choices, environmental impact awareness atmosphere."
+activity_code: "energia-X41"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left. Pairs of cards: one with a food picture (carne, vegetales, queso) and another with its energy footprint number (25 kcal, 2 kcal, 10 kcal per kcal of food). A score sheet. The left side has space for text. On the far right side, two tiny older scouts (11-17) sit, one matching cards, the other recording points, seen from a distance. The food energy footprint game environment dominates."
 tags:
+  - energia
+  - alimentos
+  - huella energética
+  - producción
+  - carne
+  - vegetales
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Juego
   - Aprendizaje
-etiquetas:
-  - alimentos
-  - huella energética
-  - producción
-  - carne
-  - vegetales
 category:
   - Alimentación
   - Energía
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

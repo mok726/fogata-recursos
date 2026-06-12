@@ -3,22 +3,19 @@ title: "Ahorrar agua caliente y energía"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/ahorrar-agua-caliente-y-energia/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes.
+description: "Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes."
+summary: "Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/ahorrar-agua-caliente-y-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 7
 sdgs:
   - 6
   - 7
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X354"
+  - sacc
+activity_code: "sacc-X48"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 7
+rama_caminantes:
+  - 3
+  - 6
+  - 7
+rama_rovers:
+  - 6
+  - 7
 image_prompt: "Older scouts ages 11-15 taking shorter showers, turning off water while soaping, collecting cold water while waiting for hot water (use for plants). Encouraging family. Saving both water and energy (heating). Water-energy nexus, behavioral change, simple impactful habits atmosphere."
 tags:
+  - Ahorra Agua
+  - sacc
+  - duchas
+  - agua caliente
+  - energía
+  - ahorro
+  - hábitos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-10"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Hábito
   - Ahorro
-etiquetas:
-  - duchas
-  - agua caliente
-  - energía
-  - ahorro
-  - hábitos
 category:
   - Agua
   - Energía
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +108,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Ahorrar agua caliente y energía
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Agua.
 Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes.
 
 ## Desarrollo

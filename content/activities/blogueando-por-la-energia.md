@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/blogueando-por-la-energia/"
 description: "Crea un blog grupal sobre sostenibilidad energética."
 summary: "Crea un blog grupal sobre sostenibilidad energética."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/blogueando-por-la-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,15 +29,28 @@ competencies:
   - Persistencia
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 9
 sdgs:
   - 9
 activity_badges:
   - energia
-activity_code: "energia-X187"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or home. Creating group blog using free platform (WordPress, Blogger, Medium). Posting weekly tips, local energy news, interviews with experts. Promoting on social media. Analyzing which topics get most engagement. Digital literacy, content creation, persistence atmosphere."
+activity_code: "energia-X56"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 9
+rama_caminantes:
+  - 3
+  - 9
+rama_rovers:
+  - 9
+image_prompt: "An Argentine scout room or home, with a laptop on a table in the center-left. The screen shows a blog post with energy saving tips and a comments section. A notebook with content ideas. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one typing, the other reviewing notes, seen from a distance. The energy blogging environment dominates."
 tags:
+  - energia
+  - blog
+  - energía
+  - sostenibilidad
+  - tips
+  - noticias
   - Insignia de Energía
 location: "Interior"
 participants: "4-10"
@@ -49,12 +62,6 @@ activity_type:
   - Escritura
   - Comunicación
   - Digital
-etiquetas:
-  - blog
-  - energía
-  - sostenibilidad
-  - tips
-  - noticias
 category:
   - Tecnología
   - Energía
@@ -76,16 +83,6 @@ scout_method:
   - Educación por la acción
 ludic_component: 2
 reflective_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +109,6 @@ reflective_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

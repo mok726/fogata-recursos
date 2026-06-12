@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/a-todos-nos-gusta-el-agua/"
 description: "Visita un área al aire libre y observa cómo diferentes especies usan el agua."
 summary: "Visita un área al aire libre y observa cómo diferentes especies usan el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/a-todos-nos-gusta-el-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 competencies:
@@ -21,17 +22,31 @@ competencies:
   - Conciencia ambiental
   - Trabajo en equipo
 responsible:
-ods:
-  - 6
-  - 15
 sdgs:
   - 6
   - 15
 activity_badges:
-  - del-agua-obligatoria
-activity_code: "del-agua-obligatoria-X248"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine natural area (forest, wetland, farm, park). Observing how different species use water - frogs absorbing through skin, mosquitoes near stagnant water, birds bathing, plants near streams. Taking notes and photos. Creating poster about water importance. Ecological observation, biodiversity awareness, field science atmosphere."
+  - agua
+activity_code: "agua-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 15
+rama_caminantes:
+  - 3
+  - 6
+  - 15
+rama_rovers:
+  - 6
+  - 15
+image_prompt: "An Argentine natural area (forest, wetland, or farm), with a pond or stream in the center-left. A frog on a lily pad, a bird bathing, a plant with roots in water. A clipboard with observation notes. The left side has open space for text. On the far right side, three tiny young scouts (5-10) kneel near the water, one pointing at the frog, another writing, seen from a distance. The water and wildlife observation environment dominates."
 tags:
+  - agua
+  - ecosistema
+  - observación
+  - especies
+  - humedal
   - Insignia del Agua (Obligatoria)
 location: "Exterior"
 participants: "4-15"
@@ -42,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - agua
-  - ecosistema
-  - observación
-  - especies
-  - humedal
 category:
   - Ecología
   - Naturaleza
@@ -68,16 +77,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +103,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

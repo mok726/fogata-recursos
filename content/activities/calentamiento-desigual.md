@@ -1,21 +1,21 @@
 ---
 title: "Calentamiento Desigual"
-duration: "45"
+duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/calentamiento-desigual/"
 description: "Demuestra cómo distintas superficies absorben calor."
 summary: "Demuestra cómo distintas superficies absorben calor."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/calentamiento-desigual.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +30,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
   - energia
-activity_code: "energia-X142"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Three containers - dark soil, sand, water. Thermometers in each. Recording temperatures every minute for 10 minutes. Dark soil heats fastest, water slowest. Discussing albedo effect, urban heat islands. Data analysis, climate science atmosphere."
+activity_code: "energia-X11"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "A sunny Argentine outdoor area. In the center-left, three containers: one with dark soil, one with sand, one with water. Three thermometers inserted. A timer. The left side has space for text. On the far right side, two tiny older scouts (14-21) kneel, one checking the soil thermometer, the other writing data, seen from a distance. The surface warming experiment environment dominates."
 tags:
+  - energia
+  - calentamiento
+  - superficies
+  - absorción
+  - albedo
+  - clima
   - Insignia de Energía
 location: "Exterior"
 participants: "4-10"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Ciencia
-etiquetas:
-  - calentamiento
-  - superficies
-  - absorción
-  - albedo
-  - clima
 category:
   - Ciencia
   - Física
@@ -81,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +114,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

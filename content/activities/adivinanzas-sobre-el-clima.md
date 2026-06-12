@@ -1,21 +1,21 @@
 ---
 title: "Adivinanzas sobre el clima"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/adivinanzas-sobre-el-clima/"
 description: "Los participantes juegan un juego de adivinanzas sobre términos relacionados con el clima."
 summary: "Los participantes juegan un juego de adivinanzas sobre términos relacionados con el clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/adivinanzas-sobre-el-clima.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,28 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X238"
-image_prompt: "Young scouts ages 5-15 playing climate charades. Cards with terms - greenhouse effect, carbon footprint, renewable energy, melting glacier, solar power, drought, flood, reforestation. Acting out without words. Team guessing. Fun vocabulary building, kinesthetic learning, climate literacy through play atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X25"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a hat or box on a table in the center-left containing cards with climate terms (greenhouse effect, carbon footprint, renewable energy, drought). A whiteboard for scores. The left side has negative space for text. On the far right side, a group of tiny young scouts (5-15) sit in a semicircle, one acting out 'melting glacier', others guessing, seen from a distance. The climate charades environment dominates."
 tags:
+  - cambioclimatico
+  - clima
+  - adivinanzas
+  - términos
+  - actuación
+  - juego
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "6-20"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Juego
   - Charadas
-etiquetas:
-  - clima
-  - adivinanzas
-  - términos
-  - actuación
-  - juego
 category:
   - Educación
   - Clima
@@ -76,16 +83,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +109,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/calendario-de-pesca-sostenible/"
 description: "Guía de temporadas de pesca responsable."
 summary: "Guía de temporadas de pesca responsable."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/calendario-de-pesca-sostenible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,17 +29,32 @@ competencies:
   - Consumo responsable
 responsible:
   - educador Scout
-ods:
-  - 12
-  - 14
 sdgs:
   - 12
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B17"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching local fish spawning seasons. Creating calendar showing which fish species can be sustainably consumed each month. Including images and key facts. Exhibiting at school or community center. Sustainable seafood, marine conservation, responsible consumer education atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 14
+rama_caminantes:
+  - 3
+  - 12
+  - 14
+rama_rovers:
+  - 12
+  - 14
+image_prompt: "An Argentine scout room, with a wall calendar in the center-left showing months and fish icons. Each fish icon is labeled with a species and a colored dot (green = sustainable season, red = closed season). A table with fish images and research notes. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at a month, the other holding a fish drawing, seen from a distance. The sustainable fishing calendar environment dominates."
 tags:
+  - biodiversidad
+  - pesca sostenible
+  - calendario
+  - desove
+  - temporadas
+  - conservación
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -50,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Diseño
-etiquetas:
-  - pesca sostenible
-  - calendario
-  - desove
-  - temporadas
-  - conservación
 category:
   - Pesca
   - Ecología marina
@@ -79,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +114,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

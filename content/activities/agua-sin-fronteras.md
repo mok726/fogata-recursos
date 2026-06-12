@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/agua-sin-fronteras/"
 description: "Investiga los recursos hídricos transfronterizos."
 summary: "Investiga los recursos hídricos transfronterizos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/agua-sin-fronteras.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,28 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X288"
-image_prompt: "Older scouts ages 14-17 learning about transboundary waters - Río de la Plata (Argentina-Uruguay), Amazon (multiple countries), Nile (11 countries), Indus (India-Pakistan). Role-playing countries negotiating water sharing. Mediators facilitating cooperation. Discussing real-life examples of water diplomacy. Conflict resolution, international cooperation, diplomatic skills atmosphere."
+  - agua
+activity_code: "agua-X41"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a large map on the wall in the center-left showing transboundary rivers: Río de la Plata (Argentina-Uruguay), Amazon (multiple countries), Nile (11 countries). Role cards (Argentina, Uruguay, mediator) on a table. The left side has negative space for text. On the far right side, a group of tiny older scouts (14-17) sit in a circle, one holding a 'Argentina' card, another 'Uruguay', a third 'mediador', negotiating water sharing, seen from a distance. The transboundary water negotiation simulation environment dominates."
 tags:
+  - agua
+  - aguas transfronterizas
+  - conflictos
+  - cooperación
+  - ríos compartidos
+  - diplomacia
   - Insignia del Agua
 location: "Interior"
 participants: "8-20"
@@ -41,12 +55,6 @@ accessibility:
 activity_type:
   - Simulación
   - Debate
-etiquetas:
-  - aguas transfronterizas
-  - conflictos
-  - cooperación
-  - ríos compartidos
-  - diplomacia
 category:
   - Política
   - Agua
@@ -70,16 +78,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +104,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/aguas-sucias/"
 description: "Investiga accidentes relacionados con la contaminación del agua."
 summary: "Investiga accidentes relacionados con la contaminación del agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/aguas-sucias.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X283"
-image_prompt: "Older scouts ages 14-17 researching recent water-related accidents in Argentina - Río Santiago pollution, Matanza-Riachuelo contamination, floods in La Plata (2013), droughts, mining spills. Creating case study with news clippings. Analyzing causes, damage to wildlife and livelihoods, prevention measures. Environmental disaster literacy, prevention advocacy, civic awareness atmosphere."
+  - agua
+activity_code: "agua-X36"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a display board in the center-left showing news clippings about water accidents: Matanza-Riachuelo pollution, La Plata floods 2013, mining spills. A map marking the locations. A notebook with a case study analysis. The left side has negative space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at a clipping, the other reading the analysis, seen from a distance. The water disaster case study environment dominates."
 tags:
+  - agua
+  - contaminación
+  - derrame
+  - accidente
+  - estudio de caso
   - Insignia del Agua
 location: "Interior / Exterior"
 participants: "4-15"
@@ -39,12 +52,6 @@ accessibility:
   - -Auditiva
 activity_type:
   - Investigación
-etiquetas:
-  - contaminación
-  - derrame
-  - agua
-  - accidente
-  - estudio de caso
 category:
   - Ecología
   - Noticias
@@ -64,16 +71,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -100,15 +97,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

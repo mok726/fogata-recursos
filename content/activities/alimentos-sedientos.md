@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-sedientos/"
 description: "Investiga cuánta agua se necesita para producir diferentes alimentos."
 summary: "Investiga cuánta agua se necesita para producir diferentes alimentos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/alimentos-sedientos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -21,17 +22,32 @@ competencies:
   - Pensamiento crítico
   - Responsabilidad
 responsible:
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X273"
-image_prompt: "Older scouts ages 11-15 researching water footprint of foods - beef (15,000 L/kg), pork (6,000), chicken (4,300), vegetables (300-500), grains (1,500), coffee (18,900 L/kg!). Tracking food diary for one week. Calculating virtual water consumption. Identifying most water-intensive foods. Committing to one change (meatless Mondays). Food-water literacy, sustainable eating, behavior change atmosphere."
+  - agua
+activity_code: "agua-X26"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left showing food items with water footprint labels: beef (15,000 L/kg), pork (6,000), chicken (4,300), vegetables (300), coffee (18,900). A week-long food diary and a calculator. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one pointing at the beef, the other at the vegetables, seen from a distance. The food water footprint analysis environment dominates."
 tags:
+  - agua
+  - agua virtual
+  - alimentos
+  - huella hídrica
+  - carne
+  - vegetales
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -42,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - agua virtual
-  - alimentos
-  - huella hídrica
-  - carne
-  - vegetales
 category:
   - Alimentación
   - Agua
@@ -67,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

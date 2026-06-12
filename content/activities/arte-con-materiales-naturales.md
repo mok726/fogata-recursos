@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/arte-con-materiales-naturales/"
 description: "Expresión creativa."
 summary: "Expresión creativa."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arte-con-materiales-naturales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - manada
@@ -31,15 +30,28 @@ competencies:
   - Expresión artística
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D17"
-image_prompt: "Young scouts ages 5-13 (mixed genders, diverse ethnicities) collecting natural materials (leaves, twigs, stones, feathers, seed pods). Creating art - mandalas, collages, sculptures, nature frames. Exhibiting natural art with story and message about biodiversity. Nature-based creativity, land art, environmental expression atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine outdoor space or scout room, with a display of nature art in the center-left: mandalas made of leaves and stones, twig sculptures, feather collages. A basket of natural materials (pinecones, acorns, bark). The left side has open space for text. On the far right side, two tiny scouts (5-13) kneel, one arranging leaves in a circle, the other placing a stone, seen from a distance. The natural materials art environment dominates."
 tags:
+  - biodiversidad
+  - arte
+  - materiales naturales
+  - hojas
+  - ramas
+  - expresión
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Arte
   - Naturaleza
-etiquetas:
-  - arte
-  - materiales naturales
-  - hojas
-  - ramas
-  - expresión
 category:
   - Arte
   - Naturaleza
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

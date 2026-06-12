@@ -1,21 +1,21 @@
 ---
 title: "Articulando Energía"
-duration: "30"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/articulando-energia/"
 description: "Juego de tarjetas para definir conceptos energéticos sin palabras clave."
 summary: "Juego de tarjetas para definir conceptos energéticos sin palabras clave."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/articulando-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,28 @@ competencies:
   - Improvisación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - energia
-activity_code: "energia-X179"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Cards with energy terms - renewable, fossil fuel, photovoltaic, geothermal, turbine, efficiency, carbon footprint. Describing without using the word. Others guess. Vocabulary building, quick thinking, communication skills atmosphere."
+activity_code: "energia-X48"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine scout room, with a stack of cards on a table in the center-left. Each card has an energy term (renovable, fósil, fotovoltaico, etc.). The left side has negative space for text. On the far right side, two tiny older scouts (11-17) sit, one drawing a card and describing without using the word, the other guessing, seen from a distance. The energy vocabulary game environment dominates."
 tags:
+  - energia
+  - energía
+  - conceptos
+  - definición
+  - juego
+  - vocabulario
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Juego
   - Comunicación
-etiquetas:
-  - energía
-  - conceptos
-  - definición
-  - juego
-  - vocabulario
 category:
   - Educación
   - Energía
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

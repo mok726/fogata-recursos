@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/agricultores-del-bosque/"
 description: "Investiga cultivos forestales y representa su impacto en la biodiversidad."
 summary: "Investiga cultivos forestales y representa su impacto en la biodiversidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/agricultores-del-bosque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +28,32 @@ competencies:
   - Conciencia agrícola
 responsible:
   - Scouter o agrónomo
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-C16"
-image_prompt: "Older scouts ages 16-21 researching forest farming systems - 1) Traditional agroforestry (slash-and-burn rotation, shifting cultivation), 2) Home gardens (multi-story cropping), 3) Silvopasture (trees + livestock), 4) Shade-grown coffee/cacao, 5) Forest gardening (food forest design), 6) Indigenous swidden systems. Creating model, comic strip, or short illustrated novel showing how forest farming can enhance biodiversity. Traditional ecological knowledge, sustainable agriculture, forest conservation vs food production balance atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine scout room, with a model or diorama in the center-left depicting an agroforestry system: tall trees, understory coffee or cacao, ground vegetables. Labels 'Sistemas agroforestales'. A laptop with research on indigenous farming. The left side has negative space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the cacao understory, the other at the tall trees, seen from a distance. The forest farming model environment dominates."
 tags:
+  - bosques
+  - agricultura forestal
+  - sistemas agroforestales
+  - cultivos
+  - biodiversidad
+  - tradicional
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -49,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Creatividad
-etiquetas:
-  - agricultura forestal
-  - sistemas agroforestales
-  - cultivos
-  - biodiversidad
-  - tradicional
 category:
   - Agricultura
   - Ecología
@@ -81,16 +90,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +116,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

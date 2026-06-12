@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/arte-futurista/"
 description: "Los participantes imaginan cómo será su ciudad en 100 años debido al cambio climático."
 summary: "Los participantes imaginan cómo será su ciudad en 100 años debido al cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arte-futurista.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,28 @@ competencies:
   - pensamiento crítico.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X234"
-image_prompt: "Young scouts ages 5-15 drawing their city in 100 years under climate change scenarios - sea walls if coastal, more trees and green roofs, solar panels everywhere, floating houses, vertical gardens. Exhibiting drawings. Climate futures, creative adaptation, hopeful or cautionary visions atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X21"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a wall display of futuristic city drawings in the center-left: sea walls, floating houses, vertical gardens, solar panels everywhere. Bright colors and imaginative designs. The left side has negative space for text. On the far right side, two tiny young scouts (5-15) sit, one adding a detail to a drawing, the other holding a finished drawing, seen from a distance. The climate future art environment dominates."
 tags:
+  - cambioclimatico
+  - ciudad
+  - futuro
+  - cambio climático
+  - dibujo
+  - imaginación
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Arte
   - Futurismo
-etiquetas:
-  - ciudad
-  - futuro
-  - cambio climático
-  - dibujo
-  - imaginación
 category:
   - Arte
   - Urbanismo
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Árboles nativos en peligro"
-duration: "3 horas + seguimiento"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arboles-nativos-en-peligro/"
 description: "Acción de reforestación."
 summary: "Acción de reforestación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arboles-nativos-en-peligro.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,28 @@ competencies:
   - Responsabilidad
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C27"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs researching rare native tree species in Argentina (palo borracho, ceibo, araucaria). Learning why rare (habitat loss, overharvesting, invasive species). Understanding animal species that depend on them (birds, insects, mammals). Planting a young tree in appropriate location (school, park, restoration site). Monitoring growth. Direct conservation action, native species appreciation, habitat restoration atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden or restoration site, with a young native tree (e.g., ceibo, araucaria) planted in the center-left. A stake with a sign 'Árbol Nativo en Peligro'. A bucket of water and a bag of compost nearby. The left side has open space for text. On the far right side, two tiny older scouts (11-17) kneel, one patting the soil around the base, the other pouring water, seen from a distance. The native tree planting environment dominates."
 tags:
+  - biodiversidad
+  - árboles nativos
+  - en peligro
+  - reforestación
+  - restauración
+  - hábitat
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-10"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Servicio
   - Restauración
-etiquetas:
-  - árboles nativos
-  - en peligro
-  - reforestación
-  - restauración
-  - hábitat
 category:
   - Restauración ecológica
   - Botánica
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

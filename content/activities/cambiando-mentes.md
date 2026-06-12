@@ -1,10 +1,10 @@
 ---
-title: "Campaña de carteles"
-duration: "15-20 min"
+title: "Cambiando Mentes"
+duration: "30 min"
 layout: "layouts/activity.njk"
-permalink: "/activities/campana-de-carteles/"
-description: "Actividad que anima a los jóvenes a crear carteles sobre la contaminación por plásticos."
-summary: "Actividad que anima a los jóvenes a crear carteles sobre la contaminación por plásticos."
+permalink: "/activities/cambiando-mentes/"
+description: "Actividad que anima a los jóvenes a preparar una presentación sobre los problemas del plástico."
+summary: "Actividad que anima a los jóvenes a preparar una presentación sobre los problemas del plástico."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,23 +12,21 @@ author:
   - Mariano Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/campana-de-carteles.png"
+image: "/imagenes/actividades/cambiando-mentes.png"
 branch:
   - Naturaleza
 age: "5-22 años"
 materials:
-  - Hojas
-  - materiales de artes plásticas
+  - Tu propia presentación
 responsible:
   - Facilitador
 sdgs:
-  - 14
-  - 13
-  - 4
   - 12
+  - 13
+  - 14
 activity_badges:
   - ptt
-activity_code: "ptt-X16"
+activity_code: "ptt-X13"
 rama_lobatos:
   - 1
 rama_scouts:
@@ -37,46 +35,46 @@ rama_caminantes:
   - 1
 rama_rovers:
   - 9
-image_prompt: "A scout meeting room in Argentina, with a large table covered with art supplies (markers, colored pencils, large paper sheets, glue, scissors). In the center-left, three finished posters leaning against the wall: sad sea turtle, clean ocean, recycling symbol. The left side has negative space for text. On the far right side, four tiny older teenage scouts (14-17) stand behind the table holding their posters, seen from a distance. The creative activism environment is the hero."
+image_prompt: "A living room of a typical Argentine home (sofa, bookshelf, family photos). In the center-left, a laptop on a small table shows a shocking image of a beach covered in plastic waste. Warm lamp light. The left side has negative space for text. On the far right side, a tiny figure of an older teenage scout (age 16) stands next to the laptop, and four tiny civilian adults (parents, grandparents) sit on the couch and chairs, all seen from a distance. The educational home environment dominates."
 tags:
   - ptt
-  - cartel
+  - presentación
   - plástico
-  - océano
-  - redes sociales
-  - conciencia ambiental
+  - familia
+  - amigos
+  - cambio de hábitos
 location: "Interior"
-participants: "4-20"
+participants: "5-20"
 complexity_execution: 2
 complexity_organizer: 2
 accessibility:
-  - -Visual
+  - -Auditiva
 activity_type:
-  - Sensibilización
+  - Servicio a los demás
 category:
-  - Arte
   - Comunicación
   - Medio ambiente
+  - Educación
 skills:
   - Pensamiento sistémico
   - Reflexión sobre normas y valores
-main_type: "Sensibilización"
+  - Pensamiento crítico
+  - Autoconciencia
+main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 special_materials:
-  - cartulinas
-  - marcadores
-  - colores
-  - pegamento
-prep_time: "10 min"
+  - computadora o laptop
+  - proyector (opcional)
+prep_time: "30 min"
 scout_values:
-  - Naturaleza
+  - Hermandad
   - Servicio a los demás
   - Superación personal
 scout_method:
   - Educación por la acción
-ludic_component: 4
-reflective_component: 3
-active_component: 2
+ludic_component: 1
+reflective_component: 4
+active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,13 +104,13 @@ active_component: 2
 
 ---
 
-# Campaña de carteles
+# Cambiando Mentes
 
 ## Resumen
-Actividad que anima a los jóvenes a crear carteles sobre la contaminación por plásticos.
+Actividad que anima a los jóvenes a preparar una presentación sobre los problemas del plástico.
 
 ## Desarrollo
-1. Los jóvenes crean carteles para generar conciencia sobre la contaminación por plásticos. 2. Comparten sus carteles en redes sociales.
+1. Los jóvenes preparan una presentación con hechos y fotos sobre los problemas del plástico. 2. Comparten la presentación con amigos y familiares.
 
 ## Cierre
-Los carteles se muestran en la sede o rincón de los jóvenes para evaluar su efectividad.
+Los participantes hacen un seguimiento para ver si las personas han cambiado sus prácticas.

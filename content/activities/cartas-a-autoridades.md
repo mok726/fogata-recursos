@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/cartas-a-autoridades/"
 description: "Incidencia política."
 summary: "Incidencia política."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cartas-a-autoridades.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,31 @@ competencies:
   - Redacción formal
 responsible:
   - educador Scout
-ods:
-  - 16
-  - 17
 sdgs:
   - 16
   - 17
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D30"
-image_prompt: "Older scouts ages 14-21 writing formal letter to local authorities (mayor, city council, environmental agency) about local biodiversity concern (lack of parks, pesticide spraying, creek pollution). Offering realistic solutions. Mailing or delivering. Following up on response. Advocacy, formal writing, persistent citizenship, political engagement atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 16
+  - 17
+rama_caminantes:
+  - 3
+  - 16
+  - 17
+rama_rovers:
+  - 16
+  - 17
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left, a formal letter to the mayor open on the screen. A printed map of the local creek with pollution spots marked. An envelope and stamp. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one reading the letter aloud, the other addressing the envelope, seen from a distance. The local advocacy letter environment dominates."
 tags:
+  - biodiversidad
+  - carta
+  - autoridades
+  - preocupación
+  - soluciones
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Escritura
   - Activismo
-etiquetas:
-  - carta
-  - autoridades
-  - biodiversidad
-  - preocupación
-  - soluciones
 category:
   - Política
   - Ciudadanía
@@ -80,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +114,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

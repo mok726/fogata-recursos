@@ -1,21 +1,21 @@
 ---
 title: "Barra de néctar para polinizadores"
-duration: "Temporada completa"
+duration: "temporada completa"
 layout: "layouts/activity.njk"
 permalink: "/activities/barra-de-nectar-para-polinizadores/"
 description: "Jardín para atraer abejas/avispas."
 summary: "Jardín para atraer abejas/avispas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/barra-de-nectar-para-polinizadores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,15 +30,28 @@ competencies:
   - Conciencia ecológica
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A07"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Planting native flowers (lavender, salvia, verbena) that bloom at different times. Placing away from high traffic areas. Observing bees, butterflies, hoverflies visiting. Watering and caring for garden. Pollinator conservation, hands-on ecology atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine garden, with a patch of native flowers (lavender, salvia, verbena) in bloom in the center-left. A small sign 'Barra de Néctar'. Bees and butterflies visible. The left side has open space for text. On the far right side, two tiny scouts (7-13) kneel, one watering the flowers with a small can, the other pointing at a bee, seen from a distance. The pollinator garden environment dominates."
 tags:
+  - biodiversidad
+  - néctar
+  - polinizadores
+  - jardín
+  - abejas
+  - plantas nativas
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio
-etiquetas:
-  - néctar
-  - polinizadores
-  - jardín
-  - abejas
-  - plantas nativas
 category:
   - Jardinería
   - Ecología
@@ -81,16 +88,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +114,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

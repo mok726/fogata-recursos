@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/biopiratas/"
 description: "Organiza un debate sobre bioprospección vs. biopiratería en medicina tradicional."
 summary: "Organiza un debate sobre bioprospección vs. biopiratería en medicina tradicional."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/biopiratas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,17 +24,31 @@ materials:
   - Tarjetas para roles de debate
 responsible:
   - Scouter o moderador experto
-ods:
-  - 3
-  - 16
 sdgs:
   - 3
   - 16
 activity_badges:
   - bosques
 activity_code: "bosques-B13"
-image_prompt: "Older scouts ages 16-21 debating bioprospecting vs biopiracy. One team represents pharmaceutical companies arguing for access to traditional knowledge for drug development. Other team represents indigenous groups arguing against exploitation without fair compensation and consent. Topics - patents, benefit-sharing (Nagoya Protocol), ethical research, cultural respect, prior informed consent. Ethical debate, intellectual property, indigenous rights, pharmaceutical industry understanding atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 16
+rama_caminantes:
+  - 3
+  - 16
+rama_rovers:
+  - 3
+  - 16
+image_prompt: "An Argentine scout room, with two teams sitting facing each other. A whiteboard in the center-left divided into 'Bioprospección' and 'Biopiratería'. A poster of a medicinal plant and a pharmaceutical lab. Copies of the Nagoya Protocol. The left side has negative space for text. On the far right side, tiny older scouts (16-21) gesticulate, one arguing for bioprospecting, another for indigenous rights, seen from a distance. The biopiracy debate environment dominates."
 tags:
+  - bosques
+  - bioprospección
+  - biopiratería
+  - conocimiento tradicional
+  - patentes
+  - ética
   - Insignia de los Bosques
 location: "Interior"
 participants: "8-20"
@@ -45,12 +59,6 @@ accessibility:
 activity_type:
   - Debate
   - Simulación
-etiquetas:
-  - bioprospección
-  - biopiratería
-  - conocimiento tradicional
-  - patentes
-  - ética
 category:
   - Ética
   - Derecho
@@ -75,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

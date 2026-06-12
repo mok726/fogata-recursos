@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/arboles-energeticos/"
 description: "Investiga fuentes de energía derivadas de bosques y diseña un modelo de invención."
 summary: "Investiga fuentes de energía derivadas de bosques y diseña un modelo de invención."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arboles-energeticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -29,17 +28,31 @@ tools:
   - Tijeras
 responsible:
   - Scouter o ingeniero ambiental
-ods:
-  - 7
-  - 9
 sdgs:
   - 7
   - 9
 activity_badges:
   - bosques
 activity_code: "bosques-B10"
-image_prompt: "Older scouts ages 11-21 researching forest-based energy - firewood, charcoal, wood pellets, biomass power plants, bioethanol, biodiesel from forest residues, biogas from forest waste. Inventing new energy device from forest materials. Creating mini-model. Renewable energy innovation, biomass energy awareness, engineering creativity atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 9
+rama_caminantes:
+  - 3
+  - 7
+  - 9
+rama_rovers:
+  - 7
+  - 9
+image_prompt: "An Argentine scout room, with a table in the center-left displaying a mini-model of a biomass energy invention made from recycled materials: a small turbine, a 'forest' of twigs, a light bulb. A poster explaining how forest biomass can be used for energy. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the turbine, the other at the light bulb, seen from a distance. The forest energy invention environment dominates."
 tags:
+  - bosques
+  - biomasa
+  - energía
+  - bioenergía
+  - invención
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -50,12 +63,6 @@ accessibility:
 activity_type:
   - Innovación
   - Modelado
-etiquetas:
-  - biomasa
-  - energía
-  - bosques
-  - bioenergía
-  - invención
 category:
   - Energía
   - Innovación
@@ -82,16 +89,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,15 +115,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

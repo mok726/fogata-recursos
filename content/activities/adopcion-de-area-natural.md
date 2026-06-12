@@ -1,21 +1,21 @@
 ---
 title: "Adopción de área natural"
-duration: "8 horas + seguimiento"
+duration: "8 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopcion-de-area-natural/"
 description: "Conservación práctica."
 summary: "Conservación práctica."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/adopcion-de-area-natural.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +30,28 @@ competencies:
   - Trabajo en equipo
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C29"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs adopting a natural area (local park, stream corridor, vacant lot). Cleaning trash, removing invasive species. Making biodiversity inventory of plants and animals. Mapping species locations and dependencies (which butterfly on which flower). Presenting findings. Developing long-term protection plan. Land stewardship, ecological restoration, community leadership atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine natural area (stream corridor or park). In the center-left, a sign 'Área Adoptada por Scouts' and a map showing the adopted zone. Trash bags and gloves on the ground. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) spread out, some picking up litter, others recording species in a notebook, seen from a distance. The area adoption and cleanup environment dominates."
 tags:
+  - biodiversidad
+  - adopción
+  - área natural
+  - limpieza
+  - inventario
+  - monitoreo
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "6-15"
@@ -50,12 +63,6 @@ activity_type:
   - Servicio
   - Restauración
   - Conservación
-etiquetas:
-  - adopción
-  - área natural
-  - limpieza
-  - inventario
-  - monitoreo
 category:
   - Conservación
   - Ecología
@@ -77,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +110,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

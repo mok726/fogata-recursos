@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/a-donde-va-el-agua/"
 description: "Investiga el uso del agua en tu país."
 summary: "Investiga el uso del agua en tu país."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/a-donde-va-el-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X278"
-image_prompt: "Older scouts ages 14-17 researching Argentina's water use by sector - agriculture (70-80%, irrigation for soy, corn, wheat), industry (10-15%), domestic (10-15%), energy (hydroelectric). Identifying savings opportunities (improve irrigation efficiency, fix leaks). National water policy, resource management, data analysis atmosphere."
+  - agua
+activity_code: "agua-X31"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a large pie chart on the wall in the center-left showing Argentina's water use: agriculture (70-80%), industry (10-15%), domestic (10-15%), energy (hydro). A laptop with FAO data and a notebook with proposed savings. The left side has space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at the agriculture slice, the other at the domestic slice, seen from a distance. The national water use analysis environment dominates."
 tags:
+  - agua
+  - Argentina
+  - agricultura
+  - industria
+  - consumo
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -39,12 +52,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - agua
-  - Argentina
-  - agricultura
-  - industria
-  - consumo
 category:
   - Agua
   - Economía
@@ -63,16 +70,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -99,15 +96,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

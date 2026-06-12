@@ -1,21 +1,21 @@
 ---
 title: "Árbol de Promesas Energéticas"
-duration: "180"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arbol-de-promesas-energeticas/"
 description: "Crea un mural interactivo donde la comunidad pledge ahorrar energía."
 summary: "Crea un mural interactivo donde la comunidad pledge ahorrar energía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arbol-de-promesas-energeticas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -30,22 +30,38 @@ competencies:
   - Conciencia colectiva
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 11
-  - 12
 sdgs:
   - 11
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X184"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine community center or school. Creating large tree mural on wall. Community members writing energy-saving pledges on paper leaves - turn off lights, unplug chargers, use less AC, hang-dry clothes. Pasting leaves on tree. Photographing. Community commitment, collective action atmosphere."
+activity_code: "energia-X53"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 12
+rama_caminantes:
+  - 3
+  - 11
+  - 12
+rama_rovers:
+  - 11
+  - 12
+image_prompt: "An Argentine community center or school, with a large tree mural on a wall in the center-left. The tree has paper leaves with written pledges: 'Apagaré las luces', 'Desenchufaré cargadores'. A small table with markers and blank leaf papers. The left side has space for text. On the far right side, a group of tiny scouts (7-13) stand, one pasting a leaf, another writing a pledge, seen from a distance. The community energy pledges environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - TOMAR ACCIÓN"
+required_comment: "Actividad obligatoria para la categoría: TOMAR ACCIÓN"
 required_category: "TOMAR ACCIÓN"
 tags:
+  - TOMAR ACCIÓN
+  - energia
+  - promesas
+  - energía
+  - ahorro
+  - mural
+  - comunidad
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "10-50"
@@ -57,12 +73,6 @@ activity_type:
   - Arte
   - Compromiso
   - Comunidad
-etiquetas:
-  - promesas
-  - energía
-  - ahorro
-  - mural
-  - comunidad
 category:
   - Arte
   - Energía
@@ -86,16 +96,6 @@ scout_method:
   - Servicio comunitario
 ludic_component: 3
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +122,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

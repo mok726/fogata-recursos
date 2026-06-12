@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-locales/"
 description: "Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat."
 summary: "Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/amenazas-locales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,23 +28,34 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X92"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Brainstorming threats to pollinators on whiteboard - pesticides, habitat loss, climate change. One scout writing. Group discussing solutions - plant native flowers, avoid pesticides. Serious, problem-solving atmosphere."
+activity_code: "polinizadores-X19"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a whiteboard in the center-left. On the whiteboard, a brainstormed list: 'Pesticides', 'Habitat loss', 'Climate change', with arrows to 'Solutions: plant native flowers, avoid pesticides'. Colorful markers on the tray. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit in a semicircle, one writing on the board, others raising hands with ideas, seen from a distance. The problem-solving environment dominates."
 required: true
 required_for:
   - polinizadores-X
 required_comment: "Actividad obligatoria"
 tags:
+  - polinizadores
+  - amenazas
+  - pesticidas
+  - contaminación
+  - pérdida de hábitat
+  - soluciones
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-15"
@@ -56,12 +67,6 @@ activity_type:
   - Investigación
   - Reflexión
   - Servicio
-etiquetas:
-  - amenazas
-  - pesticidas
-  - contaminación
-  - pérdida de hábitat
-  - soluciones
 category:
   - Medio ambiente
   - Ecología
@@ -85,16 +90,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,15 +116,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

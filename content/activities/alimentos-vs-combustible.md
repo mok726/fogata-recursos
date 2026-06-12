@@ -1,21 +1,21 @@
 ---
 title: "Alimentos vs. Combustible"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-vs-combustible/"
 description: "Debate el uso de cultivos para biocombustibles."
 summary: "Debate el uso de cultivos para biocombustibles."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/alimentos-vs-combustible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -26,17 +26,32 @@ competencies:
   - Negociación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X158"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Debating food vs fuel - should crops be used for biofuels when people are hungry? One team arguing for biofuels (energy security), other for food first (hunger). Using scientific evidence. Ethical, complex, nuanced debate atmosphere."
+activity_code: "energia-X27"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine scout room, with two teams sitting facing each other. In the center-left, a table with a scale model: one side a plate of food, the other side a fuel can. A whiteboard with 'Pros' and 'Cons' columns. The left side has space for text. On the far right side, tiny older scouts (14-21) gesticulate, one pointing at the scale, another speaking, seen from a distance. The food versus fuel debate environment dominates."
 tags:
+  - energia
+  - biocombustibles
+  - alimentos
+  - cultivos
+  - debate
+  - ética
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -47,12 +62,6 @@ accessibility:
 activity_type:
   - Debate
   - Diálogo
-etiquetas:
-  - biocombustibles
-  - alimentos
-  - cultivos
-  - debate
-  - ética
 category:
   - Agricultura
   - Energía
@@ -75,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

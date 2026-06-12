@@ -1,21 +1,21 @@
 ---
 title: "Cancón del Ciclo del Carbono"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancon-del-ciclo-del-carbono/"
 description: "Inventa una canción para memorizar el ciclo del carbono."
 summary: "Inventa una canción para memorizar el ciclo del carbono."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/cancon-del-ciclo-del-carbono.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,32 @@ competencies:
   - Aprendizaje colaborativo
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
+  - 15
 activity_badges:
   - energia
-activity_code: "energia-X137"
-image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing song lyrics about carbon cycle - photosynthesis, respiration, decomposition, fossil fuels. Using familiar melody or creating rap. Performing for group with clapping or instruments. Musical, creative, memorization atmosphere."
+activity_code: "energia-X06"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "Group of scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing song lyrics about carbon cycle: photosynthesis, respiration, decomposition, fossil fuels. Using familiar melody or creating rap. Performing for group with clapping or instruments. Musical, creative, memorization atmosphere."
 tags:
+  - energia
+  - carbono
+  - ciclo
+  - canción
+  - rap
+  - aprendizaje
   - Insignia de Energía
 location: "Interior"
 participants: "4-20"
@@ -47,12 +64,6 @@ activity_type:
   - Creatividad
   - Arte
   - Música
-etiquetas:
-  - carbono
-  - ciclo
-  - canción
-  - rap
-  - aprendizaje
 category:
   - Música
   - Ciencia
@@ -73,16 +84,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

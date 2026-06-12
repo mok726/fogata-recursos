@@ -1,21 +1,21 @@
 ---
-title: "Arriba en el aire - adaptaciones"
-duration: "Variable (1-2 sesiones)"
+title: "Arriba en el aire: adaptaciones"
+duration: "variable (1-2 sesiones)"
 layout: "layouts/activity.njk"
 permalink: "/activities/arriba-en-el-aire-adaptaciones/"
 description: "Investigación sobre movilidad aérea de especies."
 summary: "Investigación sobre movilidad aérea de especies."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/arriba-en-el-aire-adaptaciones.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,17 +27,32 @@ competencies:
   - Creatividad
 responsible:
   - educador Scout
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A03"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine park or scout room. Observing flying animals - birds, butterflies, bees. Drawing wings, feathers, light body structures. Researching seed dispersal (parachute seeds, helicopter seeds). Creating posters about adaptations for air travel. Evolutionary biology, creative learning atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine park or scout room, with a display board in the center-left showing drawings of bird wings, butterfly wings, and maple seeds. Labels: 'Vuelo', 'Planeo', 'Dispersión'. The left side has negative space for text. On the far right side, two tiny scouts (7-13) sit at a table, one drawing a feather, the other gluing a photo of a flying bird, seen from a distance. The adaptations art environment dominates."
 tags:
+  - biodiversidad
+  - adaptaciones aéreas
+  - vuelo
+  - planeo
+  - semillas
+  - migración
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-15"
@@ -48,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Arte
-etiquetas:
-  - adaptaciones aéreas
-  - vuelo
-  - planeo
-  - semillas
-  - migración
 category:
   - Biología
   - Evolución
@@ -73,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +108,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

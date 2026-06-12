@@ -5,39 +5,53 @@ layout: "layouts/activity.njk"
 permalink: "/activities/acuerdos-internacionales/"
 description: "Investigación sobre políticas globales."
 summary: "Investigación sobre políticas globales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/acuerdos-internacionales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
 materials:
-  - Texto de acuerdos (ej - CBD)
+  - Texto de acuerdos (ej: CBD)
   - Materiales para póster
 competencies:
   - Conciencia política
   - Trabajo en equipo
 responsible:
   - educador Scout
-ods:
-  - 15
-  - 17
 sdgs:
   - 15
   - 17
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D15"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) in Argentine scout room. Researching international agreements - Convention on Biological Diversity (CBD), CITES (endangered species trade), Ramsar (wetlands), Paris Agreement (climate). Creating poster or short play explaining key agreements. Discussing which most urgent. Global environmental governance, treaty awareness, multilateral cooperation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+  - 17
+rama_caminantes:
+  - 3
+  - 15
+  - 17
+rama_rovers:
+  - 15
+  - 17
+image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
 tags:
+  - biodiversidad
+  - acuerdos internacionales
+  - CBD
+  - CITES
+  - política
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Teatro
-etiquetas:
-  - acuerdos internacionales
-  - biodiversidad
-  - CBD
-  - CITES
-  - política
 category:
   - Política ambiental
   - Derecho
@@ -80,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +114,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

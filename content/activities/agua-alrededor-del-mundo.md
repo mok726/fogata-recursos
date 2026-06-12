@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/agua-alrededor-del-mundo/"
 description: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
 summary: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/agua-alrededor-del-mundo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +26,27 @@ competencies:
   - Conciencia global
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X289"
-image_prompt: "Scouts ages 11-17 interviewing friends from other countries or whose parents immigrated. Questions - Do you drink tap water? Is water scarce? Is it free? Expensive? Comparing water habits and conservation ideas. Cross-cultural water literacy, global perspective, interview skills atmosphere."
+  - agua
+activity_code: "agua-X42"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a world map on the wall in the center-left. Sticky notes with interview findings: 'Amigo de India: el agua del grifo no es segura', 'Amiga de Suecia: el agua es abundante y barata'. A notebook with comparison table. The left side has space for text. On the far right side, two tiny older scouts (11-17) sit, one reading a sticky note, the other writing in the notebook, seen from a distance. The cross-cultural water habits research environment dominates."
 tags:
+  - agua
+  - mundial
+  - hábitos
+  - comparación
+  - entrevista
   - Parche del Agua
 location: "Interior"
 participants: "6-20"
@@ -45,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - agua
-  - mundial
-  - hábitos
-  - comparación
-  - entrevista
 category:
   - Cultura
   - Agua
@@ -69,16 +75,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +101,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

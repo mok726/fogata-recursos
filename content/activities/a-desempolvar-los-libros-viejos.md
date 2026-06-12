@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/a-desempolvar-los-libros-viejos/"
 description: "Lee un libro donde el suelo juegue un papel importante."
 summary: "Lee un libro donde el suelo juegue un papel importante."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -26,15 +26,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X46"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs sitting in circle in Argentine scout room. Holding books (Jack and the Beanstalk, The Lorax). Discussing how soil appears in story. One scout reading passage aloud. Another pointing at illustration of magic beans growing. Cozy, literary atmosphere."
+activity_code: "suelos-X25"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A cozy scout meeting room in Argentina, with a circle of chairs in the center-left. On the floor, books like 'Jack and the Beanstalk' and 'The Lorax' are open to pages showing soil or plants. The left side has negative space for text. On the far right side, tiny scouts (5-15) sit in the circle, one holding a book and reading aloud, another pointing at an illustration, seen from a distance. The literary discussion environment dominates."
 tags:
+  - suelos
+  - libro
+  - literatura
+  - suelo
+  - historia
+  - análisis
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -45,12 +58,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Debate
-etiquetas:
-  - libro
-  - literatura
-  - suelo
-  - historia
-  - análisis
 category:
   - Literatura
   - Educación
@@ -70,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

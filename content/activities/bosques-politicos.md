@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/bosques-politicos/"
 description: "Investiga movimientos sociales que usaron bosques como símbolo de resistencia."
 summary: "Investiga movimientos sociales que usaron bosques como símbolo de resistencia."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bosques-politicos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +28,31 @@ competencies:
   - Conciencia social
 responsible:
   - Scouter o activista ambiental
-ods:
-  - 16
-  - 17
 sdgs:
   - 16
   - 17
 activity_badges:
   - bosques
 activity_code: "bosques-C19"
-image_prompt: "Older scouts ages 16-21 researching forest resistance movements - 1) Chipko movement (India, 1970s) - villagers hugging trees to prevent logging, 2) Green Belt Movement (Kenya, Wangari Maathai) - women planting trees for democracy and environment, 3) Amazon rubber tappers movement (Chico Mendes) - protecting forests and livelihoods, 4) Standing Rock (Dakota Access Pipeline) - indigenous water protectors. Presenting findings creatively - podcast, recited poem, dance, news report. Environmental activism, civil disobedience history, forest as political symbol, grassroots organizing atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 16
+  - 17
+rama_caminantes:
+  - 3
+  - 16
+  - 17
+rama_rovers:
+  - 16
+  - 17
+image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing the Chipko movement (villagers hugging trees) and the Green Belt Movement (Wangari Maathai planting trees). A laptop with a podcast script or a notebook with a poem about resistance. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the Chipko photo, the other reading a poem aloud, seen from a distance. The forest activism research environment dominates."
 tags:
+  - bosques
+  - movimientos sociales
+  - Chipko
+  - Cinturón Verde
+  - resistencia
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -50,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Activismo
-etiquetas:
-  - movimientos sociales
-  - Chipko
-  - Cinturón Verde
-  - resistencia
-  - bosques
 category:
   - Historia
   - Activismo
@@ -83,16 +91,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +117,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/bioblitz/"
 description: "Censo de biodiversidad local."
 summary: "Censo de biodiversidad local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/bioblitz.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
+age: "7-17 años"
 age_group:
   - manada
   - scouts
@@ -28,16 +27,29 @@ competencies:
   - Trabajo en equipo
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D23"
-image_prompt: "Scouts of all ages in Argentine natural area (schoolyard, park, garden). Documenting every species possible in 24 hours. Using cameras, magnifying glasses, field guides. Taking photos, notes, drawings. Uploading to BioBlitz gallery. Discovering surprising species. Intensive biodiversity survey, citizen science, team collaboration, excitement of discovery atmosphere."
-similar_activities: "http -//www.education.eol.org/bioblitz/activities"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine natural area (schoolyard, park), with a marked plot in the center-left. A camera, a magnifying glass, a field guide, and a clipboard with a species tally sheet. The left side has open space for text. On the far right side, a group of tiny scouts (7-17) kneel, one photographing a flower, another using a magnifying glass on a beetle, a third writing, seen from a distance. The 24-hour species count environment dominates."
+similar_activities:
+  - http://www.education.eol.org/bioblitz/activities
 tags:
+  - biodiversidad
+  - BioBlitz
+  - censo
+  - 24 horas
+  - inventario
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "6-25"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Ciencia ciudadana
-etiquetas:
-  - BioBlitz
-  - biodiversidad
-  - censo
-  - 24 horas
-  - inventario
 category:
   - Ecología
   - Ciencia
@@ -73,16 +79,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://www.education.eol.org/bioblitz/activities"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +110,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

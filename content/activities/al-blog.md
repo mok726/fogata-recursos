@@ -1,21 +1,21 @@
 ---
 title: "¡Al blog!"
-duration: "Varias horas (depende del blog)"
+duration: "varias horas (depende del blog)"
 layout: "layouts/activity.njk"
 permalink: "/activities/al-blog/"
 description: "Actividad para crear un blog sobre temas relacionados con el agua."
 summary: "Actividad para crear un blog sobre temas relacionados con el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/al-blog.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +30,27 @@ competencies:
   - Comunicación digital
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X306"
-image_prompt: "Older scouts ages 14-21 creating group blog about water topics - conservation tips, local water issues, poetry, stories, videos, infographics. Sharing with YUNGA. Inviting comments and followers. Digital storytelling, water advocacy, written and multimedia expression, global reach atmosphere."
+  - agua
+activity_code: "agua-X59"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left. The screen shows a blog post with water conservation tips, a poem about rain, and a photo of a recent cleanup. A notebook with content ideas and a comments section open. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one typing, the other reviewing a draft, seen from a distance. The water blog environment dominates."
 tags:
+  - agua
+  - blog
+  - sostenibilidad
+  - poesía
+  - video
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Escritura
   - Digital
-etiquetas:
-  - blog
-  - agua
-  - sostenibilidad
-  - poesía
-  - video
 category:
   - Comunicación
   - Tecnología
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 
