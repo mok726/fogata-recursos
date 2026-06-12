@@ -3,22 +3,19 @@ title: "Tiempo de descomposición de la basura"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/tiempo-de-descomposicion-de-la-basura/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura.
+description: "Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura."
+summary: "Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tiempo-de-descomposicion-de-la-basura.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 14
 sdgs:
   - 12
   - 14
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X369"
-image_prompt: "Older scouts ages 11-15 researching decomposition times - paper napkin (2-4 weeks), banana peel (3-4 weeks), plastic bag (10-1000 years), styrofoam (never), glass (1 million years). Sharing findings. Eye-opening waste literacy, plastic awareness, long-term environmental impact understanding atmosphere."
+  - sacc
+activity_code: "sacc-X63"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 14
+rama_caminantes:
+  - 3
+  - 12
+  - 14
+rama_rovers:
+  - 12
+  - 14
+image_prompt: "An Argentine scout room, with a large poster on the wall in the center-left showing decomposition times: banana peel (3-4 weeks), paper napkin (2-4 weeks), plastic bag (10-1000 years), styrofoam (never), glass (1 million years). A table with real samples in jars. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) stand, one pointing at the plastic bag, the other at the glass jar, looking surprised, seen from a distance. The decomposition timeline environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - descomposición
+  - basura
+  - tiempo
+  - plástico
+  - orgánico
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - descomposición
-  - basura
-  - tiempo
-  - plástico
-  - orgánico
 category:
   - Residuos
   - Ecología
@@ -70,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,21 +104,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Tiempo de descomposición de la basura
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura.
 
 ## Desarrollo

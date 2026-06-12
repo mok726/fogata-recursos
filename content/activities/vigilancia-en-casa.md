@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/vigilancia-en-casa/"
 description: "Monitorea las actividades en tu hogar que puedan afectar el suelo."
 summary: "Monitorea las actividades en tu hogar que puedan afectar el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/vigilancia-en-casa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -27,15 +27,29 @@ competencies:
   - Responsabilidad
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X67"
-image_prompt: "Young scout ages 5-15 (mixed) wearing neckerchief at home in Argentina (bedroom or kitchen). Making list on paper - turning off lights saves energy (less mining), not wasting water (less runoff). Creating reminder signs for family (stick on fridge). Pencils, markers, focused expression. Personal responsibility atmosphere."
+activity_code: "suelos-X46"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+  - 12
+image_prompt: "A typical Argentine home kitchen or bedroom. In the center-left, a refrigerator door with a hand-drawn reminder sign about saving energy and water. A list of household activities on paper. The left side has space for text. On the far right side, a tiny scout (5-15) stands next to the refrigerator, marker in hand, seen from a distance. The personal responsibility environment dominates."
 tags:
+  - suelos
+  - hogar
+  - actividades
+  - impacto
+  - suelo
+  - recordatorios
   - Insignia de los Suelos
 location: "Interior"
 participants: "2-10"
@@ -46,12 +60,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Autoconocimiento
-etiquetas:
-  - hogar
-  - actividades
-  - impacto
-  - suelo
-  - recordatorios
 category:
   - Hogar
   - Medio ambiente
@@ -74,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

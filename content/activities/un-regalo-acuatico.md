@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/un-regalo-acuatico/"
 description: "Crea una fuente de agua para los polinizadores en tu jardín."
 summary: "Crea una fuente de agua para los polinizadores en tu jardín."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/un-regalo-acuatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -29,15 +29,27 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Responsable del grupo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X105"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden. Creating shallow water source - plant saucer or bird bath with stones for insects to land. Filling with water. Placing near flowers. Later observing bees and butterflies drinking. Simple but vital act. Caring, observation atmosphere."
+activity_code: "polinizadores-X32"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine garden on a sunny day. In the center-left, a shallow bird bath or plant saucer filled with water and small stones for insects to land on. A few flowers nearby. The left side has open space for text. On the far right side, two tiny young scouts (5-10) kneel next to the water source, one placing stones, the other pouring water, seen from a distance. The water-for-pollinators environment dominates."
 tags:
+  - polinizadores
+  - agua
+  - fuente
+  - bebedero
+  - piedras
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "2-8"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
-etiquetas:
-  - agua
-  - fuente
-  - polinizadores
-  - bebedero
-  - piedras
 category:
   - Jardinería
   - Naturaleza
@@ -78,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +110,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

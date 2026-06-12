@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/tour-guiado-de-cuenca/"
 description: "Recorrido educativo por cuenca local."
 summary: "Recorrido educativo por cuenca local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tour-guiado-de-cuenca.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -24,17 +24,32 @@ competencies:
   - Comunicación
 responsible:
   - guía local/educador
-ods:
-  - 6
-  - 14
 sdgs:
   - 6
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B02"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs leading community tour of local watershed. Pointing out natural water sources, agricultural runoff, industrial inputs. Explaining roles of aquatic plants and animals (algae, fish, macroinvertebrates). Inviting families to participate. Environmental education, public speaking, local water advocacy atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 14
+rama_caminantes:
+  - 3
+  - 6
+  - 14
+rama_rovers:
+  - 6
+  - 14
+image_prompt: "An Argentine river or stream bank on a sunny day. In the center-left, the river water and a sign 'Cuenca Local'. A clipboard with a script for the tour. The left side has open space for text. On the far right side, a group of tiny older scouts (11-17) lead a group of civilian families, one scout pointing at the water, another holding a sign, seen from a distance. The community watershed tour environment dominates."
 tags:
+  - biodiversidad
+  - cuenca
+  - tour
+  - guía
+  - agua
+  - comunidad
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "5-20"
@@ -45,12 +60,6 @@ accessibility:
 activity_type:
   - Educación
   - Liderazgo
-etiquetas:
-  - cuenca
-  - tour
-  - guía
-  - agua
-  - comunidad
 category:
   - Hidrología
   - Educación
@@ -70,16 +79,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +105,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

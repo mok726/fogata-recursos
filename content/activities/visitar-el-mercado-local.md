@@ -3,23 +3,19 @@ title: "Visitar el mercado local"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/visitar-el-mercado-local/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Visita el mercado local o una tienda de alimentos con tu familia o líder.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Visita el mercado local o una tienda de alimentos con tu familia o líder.
+description: "Visita el mercado local o una tienda de alimentos con tu familia o líder."
+summary: "Visita el mercado local o una tienda de alimentos con tu familia o líder."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/visitar-el-mercado-local.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +24,29 @@ competencies:
   - Aprendizaje práctico
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X381"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) visiting local market with family or leader. Observing different foods - fruits, vegetables, bread, cheese, meat, grains. Learning where food comes from. Talking to vendors. Food origins awareness, local economy support, experiential learning atmosphere."
+  - sacc
+activity_code: "sacc-X75"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine local market (feria), with stalls displaying fresh fruits, vegetables, bread, cheese, and honey in the center-left. A civilian vendor talking to a customer. A sign 'Productos de la Tierra'. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) walk with a leader, one pointing at a basket of tomatoes, another at a jar of honey, seen from a distance. The local market visit environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - mercado local
+  - alimentos
+  - compras
+  - consumo
+  - comunidad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "6-20"
@@ -47,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - mercado local
-  - alimentos
-  - compras
-  - consumo
-  - comunidad
 category:
   - Alimentación
   - Economía local
@@ -72,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,21 +103,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Visitar el mercado local
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Visita el mercado local o una tienda de alimentos con tu familia o líder.
 
 ## Desarrollo

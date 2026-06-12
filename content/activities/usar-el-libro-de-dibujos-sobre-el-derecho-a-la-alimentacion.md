@@ -3,23 +3,19 @@ title: "Usar el libro de dibujos sobre el derecho a la alimentación"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/usar-el-libro-de-dibujos-sobre-el-derecho-a-la-alimentacion/"
-description: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Usa el libro de dibujos y la guía de actividades para aprender sobre el derecho a la alimentación.
-summary: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Usa el libro de dibujos y la guía de actividades para aprender sobre el derecho a la alimentación.
+description: "Usa el libro de dibujos y la guía de actividades para aprender sobre el derecho a la alimentación."
+summary: "Usa el libro de dibujos y la guía de actividades para aprender sobre el derecho a la alimentación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/usar-el-libro-de-dibujos-sobre-el-derecho-a-la-alimentacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,16 +26,30 @@ competencies:
   - Aprendizaje práctico
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
 sdgs:
   - 2
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X396"
-image_prompt: "Young scouts ages 5-10 using educational comic book The Right to Food - A Window to the World'. Learning that every person has right to be free from hunger. Discussing food security"
-similar_activities: "global citizenship atmosphere.'"
+  - sacc
+activity_code: "sacc-X90"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+rama_caminantes:
+  - 3
+  - 2
+rama_rovers:
+  - 2
+image_prompt: "An Argentine scout room, with a child-friendly comic book 'El Derecho a la Alimentación' open on a table in the center-left. A child reading a page about hunger and food distribution. A notebook with drawn responses. The left side has open space for text. On the far right side, a tiny young scout (5-10) sits, reading the comic, another scout looking at the pictures, seen from a distance. The right to food education environment dominates."
+similar_activities:
+  - globalcitizenshipatmosphere.'
 tags:
+  - Todos tienen derecho a la alimentación
+  - sacc
+  - derecho a la alimentación
+  - libro de dibujos
+  - hambre
+  - derechos humanos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -50,11 +60,6 @@ accessibility:
 activity_type:
   - Lectura
   - Educación
-etiquetas:
-  - derecho a la alimentación
-  - libro de dibujos
-  - hambre
-  - derechos humanos
 category:
   - Educación
   - Derechos
@@ -66,19 +71,9 @@ main_type: "empathy for hungry people"
 space_required: "2"
 special_materials:
   - Investigación
-prep_time: "https -//www.feedingminds.org/"
+prep_time: "https://www.feedingminds.org/"
 scout_method:
   - libro de dibujos impreso o digital (FAO Feeding Minds), cuaderno, lápices de colores
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,21 +101,11 @@ scout_method:
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Usar el libro de dibujos sobre el derecho a la alimentación
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Todos tienen derecho a la alimentación.
 Usa el libro de dibujos y la guía de actividades para aprender sobre el derecho a la alimentación.
 
 ## Desarrollo

@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/transmitiendo-datos-sobre-el-suelo/"
 description: "Crea una exhibición pública sobre los problemas del suelo y cómo protegerlo."
 summary: "Crea una exhibición pública sobre los problemas del suelo y cómo protegerlo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,19 +29,32 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X31"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine public space (plaza or community center). Setting up exhibition with posters showing soil degradation, erosion, pollution. One scout explaining to passerby family. Another pointing at map. Passersby stopping to learn. Sunny day, trees in background. Educational, civic atmosphere."
+activity_code: "suelos-X10"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine public space (plaza or community center) on a sunny day. In the center-left, an exhibition of posters showing soil degradation, erosion, pollution on easels. A civilian family stops to look. The left side has open space for text. On the far right side, tiny older scouts (11-17) stand near the exhibition, one explaining to a passerby, another pointing at a map, seen from a distance. The educational civic environment dominates."
 required: true
 required_for:
   - suelos-X
 required_comment: "Actividad obligatoria"
 tags:
+  - suelos
+  - exhibición
+  - público
+  - problemas del suelo
+  - protección
+  - educación
   - Insignia de los Suelos
 location: "Interior / Exterior"
 participants: "4-20"
@@ -53,12 +65,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Sensibilización
-etiquetas:
-  - exhibición
-  - público
-  - problemas del suelo
-  - protección
-  - educación
 category:
   - Comunicación
   - Medio ambiente
@@ -83,16 +89,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +115,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Usar el agua sabiamente"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/usar-el-agua-sabiamente/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo.
+description: "Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo."
+summary: "Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/usar-el-agua-sabiamente.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -30,17 +26,33 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X353"
-image_prompt: "Young scouts ages 5-10 brainstorming water-saving tips - turn off tap while brushing, shorter showers, fix leaks, collect rainwater, water plants in evening. Drawing pictures. Displaying at home/school. Creative water conservation, visual communication, habit formation atmosphere."
+  - sacc
+activity_code: "sacc-X47"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine home bathroom, with a sink and a shower in the center-left. A hand-drawn sign 'Cierra la llave mientras te cepillas'. A bucket collecting shower warm-up water. The left side has negative space for text. On the far right side, a tiny young scout (5-10) brushes teeth with the tap off, another holds the bucket, seen from a distance. The water-saving habits environment dominates."
 tags:
+  - Ahorra Agua
+  - sacc
+  - agua
+  - ahorro
+  - dibujo
+  - formas
+  - exposición
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Arte
   - Reflexión
-etiquetas:
-  - agua
-  - ahorro
-  - dibujo
-  - formas
-  - exposición
 category:
   - Agua
   - Hogar
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,21 +113,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Usar el agua sabiamente
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Agua.
 Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo.
 
 ## Desarrollo

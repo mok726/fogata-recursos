@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/unirse-a-un-club-de-apicultura/"
 description: "Únete a un club de apicultura o crea uno en tu comunidad."
 summary: "Únete a un club de apicultura o crea uno en tu comunidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/unirse-a-un-club-de-apicultura.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -27,15 +27,28 @@ competencies:
   - Responsabilidad
 responsible:
   - Responsable del grupo
-ods:
-  - 8
 sdgs:
   - 8
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X117"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentina. Researching local beekeeping clubs online. Joining or starting club with friends and family. Meeting beekeepers, learning about hive management, swarm catching, honey harvesting. Long-term engagement, community building atmosphere."
+activity_code: "polinizadores-X44"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine scout room or community center, with a laptop on a table in the center-left. The screen shows a website of a local beekeeping club. A printed flyer about joining. The left side has space for text. On the far right side, three tiny young scouts (5-10) sit around the table, one pointing at the screen, another reading the flyer, seen from a distance. The beekeeping club research environment dominates."
 tags:
+  - polinizadores
+  - club de apicultura
+  - abejas
+  - apicultores
+  - comunidad
+  - aprendizaje
   - Insignia de Polinizadores
 location: "Interior / Exterior"
 participants: "3-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Investigación
-etiquetas:
-  - club de apicultura
-  - abejas
-  - apicultores
-  - comunidad
-  - aprendizaje
 category:
   - Comunidad
   - Agricultura
@@ -76,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +109,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/todo-sobre-la-polinizacion/"
 description: "Aprende sobre los diferentes tipos de polinización y polinizadores."
 summary: "Aprende sobre los diferentes tipos de polinización y polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/todo-sobre-la-polinizacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -24,19 +24,30 @@ materials:
   - Software de presentación (opcional)
 responsible:
   - Responsable del grupo
-ods:
-  - 1
-  - 2
-  - 15
 sdgs:
   - 1
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X81"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Watching educational video about pollination on laptop or projector. Then creating simple presentation with drawings or slides. One scout explaining cross-pollination. Others listening. Modern, tech-integrated learning atmosphere."
+activity_code: "polinizadores-X08"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a projector screen on the wall in the center-left. The screen shows an educational video or animation about pollination (bees moving between flowers). A laptop connected to the projector. The left side has space for text. On the far right side, tiny young scouts (5-10) sit on chairs, watching the screen, one taking notes, seen from a distance. The multimedia learning environment dominates."
 tags:
+  - polinizadores
+  - polinización
+  - video
+  - presentación
+  - animación
+  - biodiversidad
   - Insignia de Polinizadores
 location: "Interior"
 participants: "4-20"
@@ -47,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Presentación
-etiquetas:
-  - polinización
-  - video
-  - presentación
-  - animación
-  - biodiversidad
 category:
   - Ciencia
   - Tecnología
@@ -74,16 +79,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

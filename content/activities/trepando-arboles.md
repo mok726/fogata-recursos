@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/trepando-arboles/"
 description: "Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad."
 summary: "Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/trepando-arboles.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -29,15 +28,28 @@ competencies:
   - Habilidades físicas
 responsible:
   - Scouter o experto en arboricultura
-ods:
-  - 8
 sdgs:
   - 8
 activity_badges:
   - bosques
 activity_code: "bosques-B05"
-image_prompt: "Older scouts ages 11-21 researching jobs requiring tree climbing - arborist (tree trimmer), coconut harvester, fruit picker (mango, durian), maple syrup tapper, monkey-driven harvest (not real), ecotourism canopy guide, researcher (bird nest, bat, insect studies), fire lookout. Learning safety gear - harness, rope, helmet, spurs, lanyards. Optional supervised climbing. Occupational skills, arboriculture safety, physical challenge awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 8
+rama_caminantes:
+  - 3
+  - 8
+rama_rovers:
+  - 8
+image_prompt: "An Argentine forest or park with a large, sturdy tree in the center-left. A safety harness and rope looped around a branch (for demonstration only). A sign 'Trepa con supervisión'. A notebook with research on jobs that require tree climbing (arborist, coconut harvester, researcher). The left side has open space for text. On the far right side, a tiny older scout (11-21) stands at the base of the tree, looking up, another scout holds a safety helmet, seen from a distance. The tree climbing research environment dominates."
 tags:
+  - bosques
+  - trepar árboles
+  - arboricultor
+  - recolección
+  - seguridad
+  - equipo
   - Insignia de los Bosques
 location: "Exterior / Interior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Habilidad
-etiquetas:
-  - trepar árboles
-  - arboricultor
-  - recolección
-  - seguridad
-  - equipo
 category:
   - Trabajo
   - Seguridad
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +106,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

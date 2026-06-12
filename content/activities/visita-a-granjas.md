@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-granjas/"
 description: "Comparación de sistemas agrícolas."
 summary: "Comparación de sistemas agrícolas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/visita-a-granjas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,17 +24,31 @@ competencies:
   - Empatía
 responsible:
   - agricultores locales
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C10"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs visiting three different farms - conventional grain, organic vegetable, dairy, vineyard. Interviewing farmers about challenges (pests, drought, markets) and how biodiversity helps (natural pest control, pollination, soil health). Comparing sustainability. Agricultural systems thinking, real-world farming exposure, career exploration atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine farm landscape, with three different agricultural scenes visible in the center-left: a conventional grain field, an organic vegetable plot, and a dairy with cows. A dirt path leading between them. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) walk with a civilian farmer, one taking notes, another asking a question, seen from a distance. The farm comparison tour environment dominates."
 tags:
+  - biodiversidad
+  - granjas
+  - agricultura
+  - orgánico
+  - convencional
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "5-20"
@@ -46,12 +60,6 @@ activity_type:
   - Investigación
   - Visita
   - Comparación
-etiquetas:
-  - granjas
-  - agricultura
-  - orgánico
-  - convencional
-  - biodiversidad
 category:
   - Agricultura
   - Ecología
@@ -71,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +105,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

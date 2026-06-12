@@ -1,21 +1,21 @@
 ---
 title: "Un acto de balance"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-acto-de-balance/"
 description: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
 summary: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/un-acto-de-balance.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,27 @@ competencies:
   - Conciencia social
 responsible:
   - Líder de grupo
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X291"
-image_prompt: "Young scouts ages 7-13 walking with heavy book balanced on head around garden or yard. Then imagining carrying heavy water container (20kg) for many kilometers on rough terrain, as millions do daily. Empathy building, understanding water collection burden, privilege awareness atmosphere."
+  - agua
+activity_code: "agua-X44"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine garden or outdoor space, with a heavy book on the ground in the center-left. A path marked with stones. The left side has open space for text. On the far right side, a tiny young scout (7-13) walks slowly with a heavy book balanced on their head, imitating carrying a water container, another scout watches, seen from a distance. The water carrying simulation environment dominates."
 tags:
+  - agua
+  - carga
+  - balance
+  - simulación
+  - empatía
   - Parche del Agua
 location: "Exterior"
 participants: "4-15"
@@ -47,12 +59,6 @@ accessibility:
 activity_type:
   - Simulación
   - Empatía
-etiquetas:
-  - agua
-  - carga
-  - balance
-  - simulación
-  - empatía
 category:
   - Educación
   - Agua
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +106,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

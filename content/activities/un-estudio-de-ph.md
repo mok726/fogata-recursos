@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/un-estudio-de-ph/"
 description: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
 summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/un-estudio-de-ph.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -31,15 +30,28 @@ competencies:
   - Conciencia científica
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X40"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or garden. Using pH kit to test soil samples in small cups. One scout adding reagent, another comparing color chart. Recording results on clipboard. Different soil samples labeled (garden, forest, farm). Scientific, hands-on atmosphere."
+activity_code: "suelos-X19"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine scout room or garden. In the center-left, small cups with different soil samples and a pH testing kit (strips or liquid) laid out on a table or ground. A clipboard with a color chart and recording sheet. The left side has space for text. On the far right side, tiny older scouts (11-17) kneel or stand, one adding reagent, another comparing color, others recording results, seen from a distance. The hands-on chemistry environment dominates."
 tags:
+  - suelos
+  - pH
+  - suelo
+  - acidez
+  - medición
+  - biodiversidad
   - Insignia de los Suelos
 location: "Interior / Exterior"
 participants: "4-15"
@@ -50,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Aprender haciendo
-etiquetas:
-  - pH
-  - suelo
-  - acidez
-  - medición
-  - biodiversidad
 category:
   - Ciencia
   - Química
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +111,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Visitar un tiradero de basura local"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/visitar-un-tiradero-de-basura-local/"
-description: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Analiza si el tiradero de basura local es sostenible.
-summary: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Analiza si el tiradero de basura local es sostenible.
+description: "Analiza si el tiradero de basura local es sostenible."
+summary: "Analiza si el tiradero de basura local es sostenible."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/visitar-un-tiradero-de-basura-local.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X329"
-image_prompt: "Older scouts ages 16-20 visiting local landfill/ dump. Assessing sustainability - methane capture, leachate treatment, recycling rates, working conditions. Interviewing municipal authorities about solutions (recycling programs, composting, waste reduction). Waste management advocacy, environmental justice, policy research atmosphere."
+  - sacc
+activity_code: "sacc-X23"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine landfill or dump, with piles of waste and heavy machinery in the center-left. A sign 'Tiradero Municipal'. A clipboard with a sustainability assessment checklist. The left side has open space for text (with safety warnings). On the far right side, a group of tiny older scouts (16-20) stand at a distance, wearing masks and gloves, one taking notes, another taking a photo, seen from a distance. The landfill assessment environment dominates."
 tags:
+  - Alza tu voz
+  - sacc
+  - tiradero de basura
+  - local
+  - sostenible
+  - gestión de residuos
+  - municipalidad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "6-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - tiradero de basura
-  - local
-  - sostenible
-  - gestión de residuos
-  - municipalidad
 category:
   - Residuos
   - Ecología
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +107,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Visitar un tiradero de basura local
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Alza tu voz.
 Analiza si el tiradero de basura local es sostenible.
 
 ## Desarrollo

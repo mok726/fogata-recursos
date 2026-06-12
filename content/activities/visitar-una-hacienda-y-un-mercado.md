@@ -3,22 +3,19 @@ title: "Visitar una hacienda y un mercado"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/visitar-una-hacienda-y-un-mercado/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Aprende sobre la producción local de alimentos.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Aprende sobre la producción local de alimentos.
+description: "Aprende sobre la producción local de alimentos."
+summary: "Aprende sobre la producción local de alimentos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/visitar-una-hacienda-y-un-mercado.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Aprendizaje práctico
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X311"
-image_prompt: "Older scouts ages 11-15 visiting both conventional and organic farms in Argentina (Pampas, Mendoza, etc.). Learning about crops (soy, corn, wheat), livestock (cattle, chickens), organic practices (no synthetic pesticides, composting). Comparing sustainability. Farm-to-table education, agricultural awareness, sustainable food systems atmosphere."
+  - sacc
+activity_code: "sacc-X05"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine farm (Pampas) with two sections in the center-left: a conventional grain field (soy, corn) and an organic vegetable plot with a sign 'Orgánico'. A farmer (civilian) in work clothes. The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) walk, one taking notes, another pointing at the organic sign, seen from a distance. The farm comparison visit environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - hacienda
+  - agrícola
+  - orgánico
+  - convencional
+  - alimentos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "6-20"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - hacienda
-  - agrícola
-  - orgánico
-  - convencional
-  - alimentos
 category:
   - Agricultura
   - Alimentación
@@ -72,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,21 +106,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Visitar una hacienda y un mercado
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Aprende sobre la producción local de alimentos.
 
 ## Desarrollo

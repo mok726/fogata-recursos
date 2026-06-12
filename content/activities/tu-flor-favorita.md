@@ -5,16 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/tu-flor-favorita/"
 description: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
 summary: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tu-flor-favorita.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
+age: "5-6 años"
 age_group:
   - castores
 materials:
@@ -26,15 +27,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X41"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Writing poems about flowers and soil. One child reading poem aloud about sunflower needing rich soil. Drawings of flowers with roots in soil on same paper. Colorful pencils. Warm, creative atmosphere."
+activity_code: "suelos-X20"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table covered with paper and colored pencils. In the center-left, a drawing of a flower (e.g., sunflower) with roots visible in the soil, and a poem written next to it. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit at the table, one reading a poem aloud, others drawing, seen from a distance. The creative poetry and art environment dominates."
 tags:
+  - suelos
+  - flor
+  - fruta
+  - suelo
+  - poema
+  - crecimiento
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-15"
@@ -46,12 +60,6 @@ activity_type:
   - Creatividad
   - Arte
   - Reflexión
-etiquetas:
-  - flor
-  - fruta
-  - suelo
-  - poema
-  - crecimiento
 category:
   - Literatura
   - Jardinería
@@ -74,16 +82,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

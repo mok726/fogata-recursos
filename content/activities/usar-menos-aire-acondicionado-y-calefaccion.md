@@ -3,22 +3,19 @@ title: "Usar menos aire acondicionado y calefacción"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/usar-menos-aire-acondicionado-y-calefaccion/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado.
+description: "Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado."
+summary: "Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Aprendizaje histórico
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X343"
-image_prompt: "Older scouts ages 11-15 reducing AC and heating use. Lower thermostat in winter (wear sweater), close curtains in summer, nighttime ventilation. Learning traditional methods - wood stoves, adobe houses, cross-ventilation, shade trees. Historical energy wisdom, comfortable adaptation, energy literacy atmosphere."
+  - sacc
+activity_code: "sacc-X37"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine home in winter, with a thermostat set to 18°C (indicated on a small display) in the center-left. A person wearing a sweater and warm socks. A draft stopper at the door. A poster showing traditional ways to stay warm (firewood, blankets, hot water bottle). The left side has negative space for text. On the far right side, a tiny older scout (11-15) sits reading a book, wearing a sweater, a parent (civilian) knitting beside them, seen from a distance. The energy-saving home environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - aire acondicionado
+  - calefacción
+  - ahorro
+  - energía
+  - historia
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-10"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Aprendizaje
-etiquetas:
-  - aire acondicionado
-  - calefacción
-  - ahorro
-  - energía
-  - historia
 category:
   - Energía
   - Hogar
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Usar menos aire acondicionado y calefacción
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado.
 
 ## Desarrollo

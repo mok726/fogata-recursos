@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/tu-bosque-favorito/"
 description: "Investiga un bosque icónico global, sus amenazas y acciones de conservación."
 summary: "Investiga un bosque icónico global, sus amenazas y acciones de conservación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tu-bosque-favorito.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +29,28 @@ competencies:
   - Advocacy
 responsible:
   - Scouter o conservacionista
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D07"
-image_prompt: "Older scouts ages 11-21 choosing iconic global forest - Amazon Rainforest, Congo Basin, Taiga (Siberia), Białowieża Forest (Poland), Daintree Rainforest (Australia), Monteverde Cloud Forest (Costa Rica), Black Forest (Germany), Yakushima (Japan). Researching threats (deforestation, climate change, mining), conservation actions (protected areas, indigenous territories, ecotourism, certification). Creating poster with conservation strategy recommendations. Global forest appreciation, conservation planning, advocacy through design atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a poster on the wall in the center-left featuring a chosen iconic forest (e.g., Amazon Rainforest). The poster shows photos, threats (deforestation, mining), conservation actions (protected areas, indigenous territories), and a personal message. A laptop with research. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the Amazon photo, the other at the conservation actions, seen from a distance. The iconic forest advocacy poster environment dominates."
 tags:
+  - bosques
+  - bosque icónico
+  - Amazonas
+  - Taiga
+  - amenazas
+  - conservación
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Diseño
-etiquetas:
-  - bosque icónico
-  - Amazonas
-  - Taiga
-  - amenazas
-  - conservación
 category:
   - Geografía
   - Conservación
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

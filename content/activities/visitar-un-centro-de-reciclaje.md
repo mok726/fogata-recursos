@@ -3,22 +3,19 @@ title: "Visitar un centro de reciclaje"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/visitar-un-centro-de-reciclaje/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Organiza una visita a un centro de reciclaje o planta de energía renovable.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Organiza una visita a un centro de reciclaje o planta de energía renovable.
+description: "Organiza una visita a un centro de reciclaje o planta de energía renovable."
+summary: "Organiza una visita a un centro de reciclaje o planta de energía renovable."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/visitar-un-centro-de-reciclaje.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Aprendizaje práctico
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X310"
-image_prompt: "Older scouts ages 11-15 visiting recycling center or renewable energy plant (wind farm in Comahue, solar park). Seeing how materials are sorted, processed. Learning about energy generation. Talking with workers. Real-world waste management, renewable energy infrastructure, career exposure atmosphere."
+  - sacc
+activity_code: "sacc-X04"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine recycling center, with conveyor belts and bales of sorted materials (plastic, paper, glass) in the center-left. A civilian worker explaining the process. A sign 'Centro de Reciclaje'. The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) stand, one taking a photo, another asking a question, seen from a distance. The recycling plant visit environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - reciclaje
+  - centro de reciclaje
+  - energía renovable
+  - turbina
+  - visita
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "6-20"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - reciclaje
-  - centro de reciclaje
-  - energía renovable
-  - turbina
-  - visita
 category:
   - Reciclaje
   - Energía
@@ -72,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,21 +106,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Visitar un centro de reciclaje
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Organiza una visita a un centro de reciclaje o planta de energía renovable.
 
 ## Desarrollo

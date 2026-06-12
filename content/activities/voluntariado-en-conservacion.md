@@ -1,21 +1,21 @@
 ---
 title: "Voluntariado en conservación"
-duration: "Variable (mínimo 8 horas)"
+duration: "8 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/voluntariado-en-conservacion/"
 description: "Acción directa."
 summary: "Acción directa."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/voluntariado-en-conservacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,15 +24,28 @@ competencies:
   - Trabajo práctico
 responsible:
   - organización local
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D31"
-image_prompt: "Older scouts ages 14-21 volunteering minimum 8 hours with conservation organization (bird monitoring, wildlife rescue, habitat restoration, park maintenance). Keeping log of activities, learning, impact. Reporting to group. Direct action, career exploration, commitment, hands-on conservation experience atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine wildlife rescue center or park, with an animal enclosure or habitat restoration site in the center-left. A sign 'Voluntarios de Conservación'. Tools (gloves, shovels, bags) on the ground. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) work: one cleaning an enclosure, another planting native vegetation, seen from a distance. The conservation volunteering environment dominates."
 tags:
+  - biodiversidad
+  - voluntariado
+  - conservación
+  - organización
+  - rescate
+  - acción directa
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-15"
@@ -43,12 +56,6 @@ accessibility:
 activity_type:
   - Servicio
   - Voluntariado
-etiquetas:
-  - voluntariado
-  - conservación
-  - organización
-  - rescate
-  - acción directa
 category:
   - Conservación
   - Servicio
@@ -69,16 +76,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +102,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

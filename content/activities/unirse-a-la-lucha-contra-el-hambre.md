@@ -3,22 +3,19 @@ title: "Unirse a la lucha contra el hambre"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/unirse-a-la-lucha-contra-el-hambre/"
-description: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
-summary: |
-  Esta actividad es parte del grupo de actividades - Todos tienen derecho a la alimentación.
-  Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
+description: "Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre."
+summary: "Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/unirse-a-la-lucha-contra-el-hambre.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -28,16 +25,31 @@ competencies:
   - Participación global
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
 sdgs:
   - 2
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X397"
-image_prompt: "Older scouts ages 11-15 joining Feeding Minds online youth network. Connecting with young people worldwide fighting hunger and malnutrition. Learning about global food issues. Taking action - fundraising, awareness campaigns, advocacy. Global youth movement, anti-hunger activism, digital solidarity atmosphere."
-similar_activities: "https -//www.feedingminds.org/"
+  - sacc
+activity_code: "sacc-X91"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+rama_caminantes:
+  - 3
+  - 2
+rama_rovers:
+  - 2
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left showing the Feeding Minds website. A poster of the UN Sustainable Development Goal 2 (Zero Hunger). A notebook with ideas for local action (food drive, awareness campaign). The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one pointing at the screen, the other writing a pledge, seen from a distance. The anti-hunger activism environment dominates."
+similar_activities:
+  - https://www.feedingminds.org/
 tags:
+  - Todos tienen derecho a la alimentación
+  - sacc
+  - lucha contra el hambre
+  - jóvenes
+  - mundial
+  - alimentación
+  - solidaridad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Participación
   - Activismo
-etiquetas:
-  - lucha contra el hambre
-  - jóvenes
-  - mundial
-  - alimentación
-  - solidaridad
 category:
   - Activismo
   - Derechos
@@ -70,16 +76,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.feedingminds.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Unirse a la lucha contra el hambre
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Todos tienen derecho a la alimentación.
 Únete a niños y jóvenes de todo el mundo para crear un mundo libre de hambre.
 
 ## Desarrollo

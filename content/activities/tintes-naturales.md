@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/tintes-naturales/"
 description: "Elaboración de colorantes con plantas."
 summary: "Elaboración de colorantes con plantas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tintes-naturales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -32,16 +32,30 @@ competencies:
   - Arte sustentable
 responsible:
   - educador Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C07"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine kitchen or scout room. Making natural dyes - onion skins (yellow/orange), beets (pink/red), turmeric (yellow), coffee (brown), red cabbage (blue/purple). Simmering plant material in water. Dipping natural fabric (cotton, wool) in dye bath. Observing colors. Discussing traditional textile practices. Natural chemistry, sustainable art, heritage craft atmosphere."
-similar_activities: "http -//www.pioneerthinking.com/naturaldyes.html"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine kitchen or scout room, with a pot on a stove or table in the center-left. The pot contains boiling onion skins (yellow dye) and a white cotton cloth submerged. Nearby, small jars with beet juice (pink), turmeric (yellow), and coffee (brown). Cloth samples in each color. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) stand, one holding a jar of red dye, the other dipping a cloth into the pot, seen from a distance. The natural dyeing environment dominates."
+similar_activities:
+  - http://www.pioneerthinking.com/naturaldyes.html
 tags:
+  - biodiversidad
+  - tintes naturales
+  - plantas
+  - colorantes
+  - telas
+  - sustentable
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -53,12 +67,6 @@ activity_type:
   - Arte
   - Química
   - Aprendizaje
-etiquetas:
-  - tintes naturales
-  - plantas
-  - colorantes
-  - telas
-  - sustentable
 category:
   - Arte
   - Química
@@ -88,16 +96,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://tjlz.tearfund.org/Espanol/Paso+a+Paso+21-30/Paso+a+Paso+21/Tintes+de+plantas+caseros.htm"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "http://www.pioneerthinking.com/naturaldyes.html"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -124,15 +130,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

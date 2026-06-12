@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/yoga-animal/"
 description: "Actividad física y educación."
 summary: "Actividad física y educación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/yoga-animal.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -27,17 +27,31 @@ competencies:
   - Aprendizaje kinestésico
 responsible:
   - educador Scout
-ods:
-  - 3
-  - 15
 sdgs:
   - 3
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D19"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) doing animal yoga poses - downward dog (dog), cat-cow (cat), cobra (snake), butterfly (butterfly), frog squat (frog), eagle arms (eagle), tree pose (tree). Older scouts leading younger. Learning animal names and movements. Kinesthetic learning, body awareness, fun physical activity, connection with animal biology atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 3
+  - 15
+image_prompt: "An Argentine scout room or outdoor space, with yoga mats on the floor in the center-left. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) do animal poses: downward dog, cat-cow, cobra, butterfly. One child leads from the front. Seen from a distance, their small bodies stretching. The animal yoga environment dominates."
 tags:
+  - biodiversidad
+  - yoga
+  - animales
+  - movimientos
+  - cuerpo
+  - salud
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "6-25"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Yoga
   - Educación física
-etiquetas:
-  - yoga
-  - animales
-  - movimientos
-  - cuerpo
-  - salud
 category:
   - Salud
   - Educación física
@@ -76,16 +84,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 1
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +110,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

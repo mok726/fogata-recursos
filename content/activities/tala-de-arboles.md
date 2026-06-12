@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/tala-de-arboles/"
 description: "Invita a un experto en tala sostenible y debate sobre consumo responsable de madera."
 summary: "Invita a un experto en tala sostenible y debate sobre consumo responsable de madera."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tala-de-arboles.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -25,17 +25,32 @@ competencies:
   - Diálogo constructivo
 responsible:
   - Scouter o ingeniero forestal
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D03"
-image_prompt: "Older scouts ages 16-21 inviting sustainable forestry expert (forester, FSC auditor, forest engineer) to speak. Learning about reduced-impact logging, certification schemes (FSC, PEFC), chain of custody, endangered wood species (CITES appendix). Discussing consumer responsibility - asking for certified wood, avoiding tropical hardwoods from unsustainable sources, reclaimed wood, bamboo alternatives. Sustainable forestry, certified wood, responsible consumption, industry dialogue atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine scout room, with a guest expert (forester or FSC auditor) sitting in a chair in the center-left, holding a certified wood sample (FSC logo). A laptop showing a presentation on sustainable logging practices. A table with wood products (paper, furniture) and their certification labels. The left side has negative space for text. On the far right side, a group of tiny older scouts (16-21) sit, one raising a hand to ask a question, others taking notes, seen from a distance. The sustainable forestry talk environment dominates."
 tags:
+  - bosques
+  - tala sostenible
+  - certificación forestal
+  - FSC
+  - madera responsable
+  - consumo
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
@@ -46,12 +61,6 @@ accessibility:
 activity_type:
   - Debate
   - Consumo
-etiquetas:
-  - tala sostenible
-  - certificación forestal
-  - FSC
-  - madera responsable
-  - consumo
 category:
   - Madera
   - Ecología
@@ -77,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

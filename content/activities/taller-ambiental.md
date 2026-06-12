@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/taller-ambiental/"
 description: "Educación entre pares."
 summary: "Educación entre pares."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/taller-ambiental.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,31 @@ competencies:
   - Facilitación
 responsible:
   - educador Scout
-ods:
-  - 4
-  - 15
 sdgs:
   - 4
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D25"
-image_prompt: "Older scouts ages 14-21 designing and facilitating environmental workshop (composting, native plants, energy saving) for families and friends. Preparing materials, hands-on activities, discussion questions. Leading session. Peer education, public speaking, environmental literacy, community teaching atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+  - 15
+rama_caminantes:
+  - 3
+  - 4
+  - 15
+rama_rovers:
+  - 4
+  - 15
+image_prompt: "An Argentine scout room or community center, with a table in the center-left set up for a workshop: compost demonstration, native plant potting, energy-saving tips. A small group of civilian families sitting. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand, one demonstrating how to add compost, the other holding a plant, seen from a distance. The peer-led environmental workshop environment dominates."
 tags:
+  - biodiversidad
+  - taller
+  - medio ambiente
+  - educación
+  - facilitación
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "10-30"
@@ -49,12 +63,6 @@ accessibility:
 activity_type:
   - Educación
   - Taller
-etiquetas:
-  - taller
-  - medio ambiente
-  - biodiversidad
-  - educación
-  - facilitación
 category:
   - Educación
   - Ecología
@@ -78,16 +86,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +112,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

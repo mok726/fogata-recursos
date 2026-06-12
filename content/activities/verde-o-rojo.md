@@ -1,18 +1,21 @@
 ---
 title: "Verde o Rojo"
-duration: "15 -20 min"
+duration: "15-20 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/verde-o-rojo/"
 description: "Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad."
 summary: "Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/verde-o-rojo.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Tarjetas verdes y rojas
 competencies:
@@ -21,17 +24,32 @@ competencies:
   - Autoconciencia
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X195"
-image_prompt: "Group of scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Holding green (agree) or red (disagree) cards. Facilitator reads statements - Recycling is enough, I need a car, Meat has high footprint. Participants show cards. Discussing different opinions. Interactive, opinion-sharing, critical thinking atmosphere."
+  - cfn
+activity_code: "cfn-X03"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a facilitator standing in the center-left holding a statement card. Participants sitting in a semicircle. The left side has space for text. On the far right side, a group of tiny scouts (7-14) hold up green (agree) or red (disagree) cards, one showing green, another red, seen from a distance. The opinion game environment dominates."
 tags:
+  - cfn
+  - afirmaciones
+  - acuerdo
+  - desacuerdo
+  - consumo
+  - sostenibilidad
   - Champions for Nature
 location: "Interior"
 participants: "6-25"
@@ -42,12 +60,6 @@ accessibility:
 activity_type:
   - Juego
   - Debate
-etiquetas:
-  - afirmaciones
-  - acuerdo
-  - desacuerdo
-  - consumo
-  - sostenibilidad
 category:
   - Educación
   - Debate
@@ -70,16 +82,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

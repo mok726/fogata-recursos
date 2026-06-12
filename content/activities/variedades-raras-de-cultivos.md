@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/variedades-raras-de-cultivos/"
 description: "Conservación de agrobiodiversidad."
 summary: "Conservación de agrobiodiversidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/variedades-raras-de-cultivos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,17 +24,32 @@ competencies:
   - Advocacy
 responsible:
   - educador Scout
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C12"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine farms or farmers markets. Identifying 5 rare crop varieties (heirloom tomatoes, purple corn, native potatoes, local beans). Documenting their special characteristics, where grown, how differ from common varieties. Learning what threatens them (industrial agriculture, seed patents). Taking action - saving seeds, promoting at markets, planting in community garden. Crop diversity conservation, food sovereignty, genetic resource protection atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine farmers market or garden, with a table displaying rare crop varieties in the center-left: heirloom tomatoes (purple, striped), purple corn, native small potatoes, speckled beans. Labels with names and descriptions. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one holding a purple tomato, the other pointing at a label, seen from a distance. The agrobiodiversity preservation environment dominates."
 tags:
+  - biodiversidad
+  - variedades raras
+  - cultivos
+  - agrobiodiversidad
+  - conservación
+  - semillas
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-12"
@@ -45,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Conservación
-etiquetas:
-  - variedades raras
-  - cultivos
-  - agrobiodiversidad
-  - conservación
-  - semillas
 category:
   - Agricultura
   - Genética
@@ -71,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +106,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

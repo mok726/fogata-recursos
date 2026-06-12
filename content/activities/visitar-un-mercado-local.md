@@ -3,23 +3,19 @@ title: "Visitar un mercado local"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/visitar-un-mercado-local/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Visita un mercado local para aprender sobre productos y textiles locales.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Visita un mercado local para aprender sobre productos y textiles locales.
+description: "Visita un mercado local para aprender sobre productos y textiles locales."
+summary: "Visita un mercado local para aprender sobre productos y textiles locales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/visitar-un-mercado-local.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,15 +24,29 @@ competencies:
   - Aprendizaje práctico
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X308"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) visiting local Argentine market. Looking at local products - fruits, vegetables, honey, cheese, bread, crafts, wool textiles. Learning difference between local and imported goods. Discussing how buying local reduces transport emissions. Hands-on economic education, local food awareness atmosphere."
+  - sacc
+activity_code: "sacc-X02"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine local market on a sunny day, with stalls selling fruits, vegetables, honey, cheese, bread, and wool textiles in the center-left. A sign 'Productos Locales'. A civilian vendor talking to customers. The left side has open space for text. On the far right side, a group of tiny young scouts (5-10) walk with a parent or leader, one pointing at a basket of apples, another at a wool scarf, seen from a distance. The local market visit environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - mercado local
+  - productos
+  - textiles
+  - consumo local
+  - sostenibilidad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"
 participants: "6-20"
@@ -47,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - mercado local
-  - productos
-  - textiles
-  - consumo local
-  - sostenibilidad
 category:
   - Economía local
   - Consumo
@@ -72,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,21 +103,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Visitar un mercado local
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Visita un mercado local para aprender sobre productos y textiles locales.
 
 ## Desarrollo

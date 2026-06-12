@@ -1,21 +1,21 @@
 ---
 title: "Teatro del Carbono"
-duration: "240"
+duration: "4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/teatro-del-carbono/"
 description: "Crea una obra o video sobre el ciclo del carbono."
 summary: "Crea una obra o video sobre el ciclo del carbono."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/teatro-del-carbono.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +27,32 @@ competencies:
   - Comunicación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
+  - 15
 activity_badges:
   - energia
-activity_code: "energia-X144"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor stage. Creating short play about carbon cycle - plants as actors absorbing CO2, animals exhaling, decomposers, factories emitting. Performing for group. Creative, collaborative, educational theater atmosphere."
+activity_code: "energia-X13"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room or outdoor stage, with a simple backdrop showing a forest and a factory. A few cardboard props (a tree, a smokestack, a sun). The left side has space for text. On the far right side, a group of tiny older scouts (11-17) perform a play: one dressed as a tree (green), another as a factory (gray), another as an animal. Seen from a distance. The carbon cycle theater environment dominates."
 tags:
+  - energia
+  - carbono
+  - ciclo
+  - obra
+  - teatro
+  - representación
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "6-20"
@@ -48,12 +65,6 @@ activity_type:
   - Arte
   - Teatro
   - Creatividad
-etiquetas:
-  - carbono
-  - ciclo
-  - obra
-  - teatro
-  - representación
 category:
   - Arte
   - Teatro
@@ -76,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +113,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

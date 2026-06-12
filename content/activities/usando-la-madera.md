@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/usando-la-madera/"
 description: "Analiza el uso de la madera en tu hogar y debate pros/contras de su explotación."
 summary: "Analiza el uso de la madera en tu hogar y debate pros/contras de su explotación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/usando-la-madera.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,28 @@ competencies:
   - Conciencia de consumo
 responsible:
   - Scouter
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-B07"
-image_prompt: "Young scouts ages 5-15 listing wooden items at home - furniture, doors, flooring, pencils, paper, books, utensils, toys, musical instruments, picture frames, tools. Discussing pros (renewable, biodegradable, carbon storage) and cons (deforestation, habitat loss). Learning about certified sustainable wood (FSC). Critical consumption, wood product awareness, forest-friendly choices atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine home or scout room, with a table in the center-left displaying wooden objects: a chair, a pencil, a book, a cutting board, a wooden toy. A whiteboard with two columns: 'Pros' (renovable, almacena carbono) and 'Contras' (deforestación, pérdida de hábitat). The left side has negative space for text. On the far right side, two tiny young scouts (5-15) stand, one pointing at the pros, the other at the cons, seen from a distance. The wood consumption debate environment dominates."
 tags:
+  - bosques
+  - madera
+  - muebles
+  - papel
+  - leña
+  - consumo responsable
   - Insignia de los Bosques
 location: "Interior (hogar)"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Debate
-etiquetas:
-  - madera
-  - muebles
-  - papel
-  - leña
-  - consumo responsable
 category:
   - Consumo
   - Madera
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

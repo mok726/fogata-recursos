@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/tu-deporte/"
 description: "Inventa un deporte que se juegue en el bosque y explora su relación con el entorno."
 summary: "Inventa un deporte que se juegue en el bosque y explora su relación con el entorno."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/tu-deporte.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -27,15 +27,27 @@ materials:
   - ramas)
 responsible:
   - Scouter o líder deportivo
-ods:
-  - 3
 sdgs:
   - 3
 activity_badges:
   - bosques
 activity_code: "bosques-C07"
-image_prompt: "Young scouts ages 5-15 inventing a sport to be played in the forest using natural elements - cone throwing, stick balancing relay, log rolling, tree tag, pinecone bowling, mushroom baseball, stream stone skipping, acorn golf, moss toss, bark frisbee. Playing the sport. Understanding how forest environment shapes game design. Active play in nature, creativity, physical activity, forest utilization awareness atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 3
+image_prompt: "An Argentine forest clearing, with a homemade sport being played in the center-left: players using pinecones as balls, logs as goals, or sticks as bats. A sign with the invented sport's name. The left side has open space for text. On the far right side, a group of tiny young scouts (5-15) run and throw, one kicking a pinecone, another catching a stick, seen from a distance. The forest sport environment dominates."
 tags:
+  - bosques
+  - deporte
+  - inventar
+  - bosque
+  - naturaleza
+  - juego
   - Insignia de los Bosques
 location: "Exterior (bosque)"
 participants: "6-20"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Deporte
   - Creatividad
-etiquetas:
-  - deporte
-  - inventar
-  - bosque
-  - naturaleza
-  - juego
 category:
   - Deporte
   - Creatividad
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +112,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

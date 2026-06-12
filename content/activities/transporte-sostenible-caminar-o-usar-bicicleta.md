@@ -1,25 +1,21 @@
 ---
-title: "Transporte sostenible - caminar o usar bicicleta"
+title: "Transporte sostenible: caminar o usar bicicleta"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/transporte-sostenible-caminar-o-usar-bicicleta/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
+description: "Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes."
+summary: "Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +26,33 @@ competencies:
   - Planificación y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X345"
-image_prompt: "Older scouts ages 16-20 walking or biking to school/work for at least one month. When not possible, using public transport or carpooling. Tracking CO2 savings. Active transport, fossil fuel reduction, personal health, urban mobility advocacy atmosphere."
+  - sacc
+activity_code: "sacc-X39"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine city street or bike path, with a bicycle and a pair of walking shoes in the center-left. A sign 'Carril Bici' or 'Sendero Peatonal'. A bus stop with a bus arriving. The left side has open space for text. On the far right side, a tiny older scout (16-20) rides a bicycle, another scout walks with a backpack, both seen from a distance. The sustainable commute environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - bicicleta
+  - caminar
+  - transporte público
+  - sostenible
+  - carbono
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "4-10"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Transporte
   - Hábito
-etiquetas:
-  - bicicleta
-  - caminar
-  - transporte público
-  - sostenible
-  - carbono
 category:
   - Transporte
   - Energía
@@ -81,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,21 +114,11 @@ active_component: 4
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Transporte sostenible: caminar o usar bicicleta
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
 
 ## Desarrollo

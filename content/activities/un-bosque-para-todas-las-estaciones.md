@@ -1,22 +1,21 @@
 ---
 title: "UN BOSQUE PARA TODAS LAS ESTACIONES"
-duration: "Variada (2 visitas + trabajo creativo)"
+duration: "variada (2 visitas + trabajo creativo)"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-bosque-para-todas-las-estaciones/"
 description: "Visita un bosque en dos estaciones diferentes y compara tus observaciones."
 summary: "Visita un bosque en dos estaciones diferentes y compara tus observaciones."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,17 +26,32 @@ competencies:
   - Expresión creativa
 responsible:
   - Scouter o educador ambiental
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A10"
-image_prompt: "Older scouts ages 11-21 visiting same forest plot in two different seasons (spring/summer vs autumn/winter). Recording observations - leaf color, flowers, animal activity, temperature, sounds, smells. Creating photo collage or video or journal series. Seasonal forest ecology, long-term observation, phenology awareness, creative documentation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine forest site visited twice. On one side of a split image (spring/summer): green leaves, flowers, birds. On the other side (autumn/winter): orange leaves, bare branches, frost. A notebook with observation notes from both visits. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the summer side, the other at the winter side, seen from a distance. The seasonal forest comparison environment dominates."
 tags:
+  - bosques
+  - estaciones
+  - primavera
+  - verano
+  - otoño
+  - invierno
   - Insignia de los Bosques
 location: "Exterior"
 participants: "4-15"
@@ -48,12 +62,6 @@ accessibility:
 activity_type:
   - Investigación
   - Comparación
-etiquetas:
-  - estaciones
-  - primavera
-  - verano
-  - otoño
-  - invierno
 category:
   - Ecología
   - Clima
@@ -74,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +108,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/un-clima-que-da-vida/"
 description: "Los participantes entrevistan a miembros de la comunidad sobre la importancia del clima."
 summary: "Los participantes entrevistan a miembros de la comunidad sobre la importancia del clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/un-clima-que-da-vida.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +26,28 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X226"
-image_prompt: "Scouts ages 5-21 interviewing family or community members about how climate affects their lives - farmers on growing seasons, fishers on fish migration, elderly on changing weather patterns. Sharing interviews with group. Community connection, climate relevance, oral history atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X13"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine community setting (farm or market), with a civilian farmer holding a basket of vegetables in the center-left, talking to a scout. A notebook and recorder on a wooden crate. The left side has open space for text. On the far right side, two tiny scouts (5-21) stand, one taking notes, the other listening intently, seen from a distance. The climate livelihood interview environment dominates."
 tags:
+  - cambioclimatico
+  - clima
+  - comunidad
+  - entrevistas
+  - bienestar
+  - vida
   - Insignia del Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -47,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Entrevista
-etiquetas:
-  - clima
-  - comunidad
-  - entrevistas
-  - bienestar
-  - vida
 category:
   - Sociología
   - Clima
@@ -73,16 +78,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +104,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

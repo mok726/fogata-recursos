@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/verso-acuatico/"
 description: "Escribe un poema humorístico sobre el agua."
 summary: "Escribe un poema humorístico sobre el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/verso-acuatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -21,16 +22,29 @@ competencies:
   - Comunicación
   - Conciencia ambiental
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X256"
-image_prompt: "Older scouts ages 11-15 writing humorous limerick about water use in agriculture, industry, or home. Example - There once was a rice field so proud,/It boasted and laughed very loud,/But rain went away,/And to its dismay,/That rice field was stuck in a cloud. Sharing poems, creating posters. Creative writing, humor, water awareness through poetry atmosphere."
-similar_activities: "http -//www.poetry4kids.com/blog/lessons/how-to-write-a-limerick"
+  - agua
+activity_code: "agua-X09"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a table in the center-left. A notebook with a humorous limerick about water and a drawing of a rice field. A poster of the poem with colorful illustrations. The left side has negative space for text. On the far right side, a tiny older scout (11-15) stands, reading the poem aloud, others listening and laughing, seen from a distance. The water poetry environment dominates."
+similar_activities:
+  - http://www.poetry4kids.com/blog/lessons/how-to-write-a-limerick
 tags:
+  - agua
+  - poesía
+  - limerick
+  - humor
+  - agricultura
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -42,12 +56,6 @@ accessibility:
 activity_type:
   - Escritura
   - Poesía
-etiquetas:
-  - poesía
-  - agua
-  - limerick
-  - humor
-  - agricultura
 category:
   - Literatura
   - Arte
@@ -66,16 +74,11 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://www.poetry4kids.com/blog/lessons/how-to-write-a-limerick"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +105,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Unirse a plataformas de sostenibilidad"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/unirse-a-plataformas-de-sostenibilidad/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Únete a una plataforma en línea para aprender sobre sostenibilidad.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Únete a una plataforma en línea para aprender sobre sostenibilidad.
+description: "Únete a una plataforma en línea para aprender sobre sostenibilidad."
+summary: "Únete a una plataforma en línea para aprender sobre sostenibilidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,18 +26,35 @@ competencies:
   - Aprendizaje continuo
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X378"
-image_prompt: "Older scouts ages 16-20 joining online sustainability platforms - UNEP Tunza, FAO Climate Youth, Unite for Climate, blogs. Learning from global community, sharing experiences, participating in challenges. Digital environmental education, global youth network, continuous learning atmosphere."
-similar_activities: "https -//www.unep.org/tunza"
+  - sacc
+activity_code: "sacc-X72"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left displaying the UNEP Tunza website. A notebook with notes on online sustainability challenges and a list of followed blogs. A smartphone showing a sustainability forum. The left side has negative space for text. On the far right side, two tiny older scouts (16-20) sit, one scrolling on the laptop, the other taking notes, seen from a distance. The online sustainability community environment dominates."
+similar_activities:
+  - https://www.unep.org/tunza
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - plataformas
+  - sostenibilidad
+  - internet
+  - aprendizaje
+  - comunidad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +65,6 @@ accessibility:
 activity_type:
   - Aprendizaje
   - Comunidad online
-etiquetas:
-  - plataformas
-  - sostenibilidad
-  - internet
-  - aprendizaje
-  - comunidad
 category:
   - Educación
   - Tecnología
@@ -76,16 +83,14 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "http://desenchufados.net/category/blog/"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "https://www.unep.org/tunza"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,21 +118,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Unirse a plataformas de sostenibilidad
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Únete a una plataforma en línea para aprender sobre sostenibilidad.
 
 ## Desarrollo

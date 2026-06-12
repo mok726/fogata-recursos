@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/una-comida-solar/"
 description: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
 summary: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/una-comida-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,17 +27,31 @@ competencies:
   - Aprendizaje Práctico
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X129"
-image_prompt: "Older scouts (10-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor area. Using previously built solar oven. Preparing simple ingredients (rice, vegetables, water for tea). Placing pot inside oven. Waiting for sun to cook. Sharing solar-cooked meal together. Sustainable cooking, patience, community meal atmosphere."
+  - gosolar
+activity_code: "gosolar-X11"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+  - 9
+image_prompt: "A sunny Argentine outdoor area. In the center-left, a solar oven with a pot of food cooking inside (steam visible). A small table with plates, utensils, and a jug of water. The left side has open space for text. On the far right side, a small group of tiny older scouts (10-21) sit on a picnic blanket, one serving food from the solar oven, others with plates, seen from a distance. The shared solar meal environment dominates."
 tags:
+  - gosolar
+  - cocina solar
+  - horno solar
+  - cocinar
+  - alimentos
+  - energía renovable
   - Go Solar
 location: "Exterior"
 participants: "4-12"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Cocina
-etiquetas:
-  - cocina solar
-  - horno solar
-  - cocinar
-  - alimentos
-  - energía renovable
 category:
   - Cocina
   - Tecnología
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 
