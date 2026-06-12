@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/lupa/"
 description: "Observa la vida microscópica en el agua."
 summary: "Observa la vida microscópica en el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/lupa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -21,17 +22,31 @@ competencies:
   - Conciencia ambiental
   - Observación
 responsible:
-ods:
-  - 6
-  - 15
 sdgs:
   - 6
   - 15
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X260"
-image_prompt: "Older scouts ages 11-15 collecting water sample from stream or pond. Examining under magnifying glass or microscope. Drawing microscopic organisms - paramecium, amoeba, rotifers, algae. Returning sample. Discovering hidden aquatic life. Microbiology, biodiversity appreciation, scientific curiosity atmosphere."
+  - agua
+activity_code: "agua-X13"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 15
+rama_caminantes:
+  - 3
+  - 6
+  - 15
+rama_rovers:
+  - 6
+  - 15
+image_prompt: "An Argentine pond or stream, with a clear jar of water on a rock in the center-left. A magnifying glass or microscope next to it, and a notebook with drawings of microscopic organisms (paramecium, algae). The left side has open space for text. On the far right side, two tiny older scouts (11-15) kneel, one looking through the magnifying glass, the other sketching, seen from a distance. The aquatic microbiology environment dominates."
 tags:
+  - agua
+  - microscopio
+  - microorganismos
+  - observación
+  - biodiversidad
   - Insignia del Agua
 location: "Exterior / Interior"
 participants: "4-10"
@@ -42,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Ciencia
-etiquetas:
-  - microscopio
-  - agua
-  - microorganismos
-  - observación
-  - biodiversidad
 category:
   - Ciencia
   - Biología
@@ -68,16 +77,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +103,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

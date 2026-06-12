@@ -5,14 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/la-red-de-vida/"
 description: "Esta actividad permite a los participantes explorar las conexiones entre las plantas y los animales en un ecosistema."
 summary: "Esta actividad permite a los participantes explorar las conexiones entre las plantas y los animales en un ecosistema."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/la-red-de-vida.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Bola de cuerda
   - Tarjetas de plantas y animales
@@ -21,15 +24,28 @@ competencies:
   - Anticipar el Futuro
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X206"
-image_prompt: "Young scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Standing in circle, each with card of plant or animal (bee, flower, bird, tree, soil, butterfly, etc). One holds ball of yarn, throws to species they depend on, creating web. Then facilitator removes one species (bee goes extinct). Web collapses. Discussing interconnectedness. Powerful systems thinking, ecological interdependence lesson."
+  - cfn
+activity_code: "cfn-X14"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a circle of participants in the center-left. A ball of yarn being tossed between them, creating a web. Each person holds a card with a species (planta, abeja, pájaro, árbol). The left side has space for text. On the far right side, a small group of tiny scouts (7-14) stand in a circle, one holding the yarn, another catching it, seen from a distance. The ecosystem web game environment dominates."
 tags:
+  - cfn
+  - red de vida
+  - ecosistema
+  - conexiones
+  - cuerda
+  - biodiversidad
   - Champions for Nature
 location: "Interior"
 participants: "8-20"
@@ -40,12 +56,6 @@ accessibility:
 activity_type:
   - Juego
   - Simulación
-etiquetas:
-  - red de vida
-  - ecosistema
-  - conexiones
-  - cuerda
-  - biodiversidad
 category:
   - Ecología
   - Juego
@@ -68,16 +78,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +104,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

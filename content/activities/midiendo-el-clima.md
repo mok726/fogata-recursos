@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/midiendo-el-clima/"
 description: "Los participantes aprenden cómo se mide el clima."
 summary: "Los participantes aprenden cómo se mide el clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/midiendo-el-clima.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +29,28 @@ competencies:
   - trabajo en equipo.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X230"
-image_prompt: "Older scouts ages 11-21 building a weather station - thermometer (temperature), rain gauge (precipitation), wind vane (direction), anemometer (wind speed), barometer (pressure). Installing in scout garden or school yard. Taking daily measurements. Contributing to local weather data or citizen science project. Hands-on meteorology, data collection, scientific equipment literacy atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X17"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine schoolyard or garden, with a weather station in the center-left: a thermometer, a rain gauge (plastic bottle cut), a wind vane, and an anemometer (homemade with cups). A clipboard with a data log. The left side has open space for text. On the far right side, two tiny older scouts (11-21) kneel, one reading the thermometer, the other writing on the clipboard, seen from a distance. The weather station monitoring environment dominates."
 tags:
+  - cambioclimatico
+  - instrumentos
+  - clima
+  - estación meteorológica
+  - medición
+  - datos
   - Insignia del Cambio Climático
 location: "Exterior"
 participants: "4-15"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Construcción
   - Ciencia
-etiquetas:
-  - instrumentos
-  - clima
-  - estación meteorológica
-  - medición
-  - datos
 category:
   - Meteorología
   - Ciencia
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

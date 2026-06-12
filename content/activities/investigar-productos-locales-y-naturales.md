@@ -3,23 +3,19 @@ title: "Investigar productos locales y naturales"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigar-productos-locales-y-naturales/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Investiga sobre productos y textiles hechos con fibras naturales locales.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Investiga sobre productos y textiles hechos con fibras naturales locales.
+description: "Investiga sobre productos y textiles hechos con fibras naturales locales."
+summary: "Investiga sobre productos y textiles hechos con fibras naturales locales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigar-productos-locales-y-naturales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,32 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
-  - 15
 sdgs:
   - 12
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X376"
-image_prompt: "Older scouts ages 16-20 researching local natural fiber products (wool from Patagonian sheep, cotton, alpaca wool, linen). Encouraging family to buy local natural products over imported synthetics. Supporting local economy, reducing transport emissions, natural materials appreciation atmosphere."
+  - sacc
+activity_code: "sacc-X70"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 15
+rama_caminantes:
+  - 3
+  - 12
+  - 15
+rama_rovers:
+  - 12
+  - 15
+image_prompt: "An Argentine scout room, with a display board in the center-left showing local natural fiber products: wool from Patagonian sheep, cotton from Chaco, alpaca wool, linen. Labels with 'Local y Natural'. A table with samples (a wool scarf, a cotton shirt). The left side has negative space for text. On the far right side, two tiny older scouts (16-20) stand, one holding a wool scarf, the other pointing at the map, seen from a distance. The local natural products research environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - productos locales
+  - fibras naturales
+  - textiles
+  - consumo responsable
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -48,11 +59,6 @@ accessibility:
   - -Visual
 activity_type:
   - Investigación
-etiquetas:
-  - productos locales
-  - fibras naturales
-  - textiles
-  - consumo responsable
 category:
   - Consumo
   - Economía local
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,21 +107,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Investigar productos locales y naturales
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Investiga sobre productos y textiles hechos con fibras naturales locales.
 
 ## Desarrollo

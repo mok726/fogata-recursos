@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/la-vida-en-los-arboles/"
 description: "Investiga culturas que construyen casas en árboles y haz una réplica."
 summary: "Investiga culturas que construyen casas en árboles y haz una réplica."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/la-vida-en-los-arboles.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -34,15 +33,28 @@ competencies:
   - Diseño
 responsible:
   - Scouter o arquitecto
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
   - bosques
 activity_code: "bosques-C17"
-image_prompt: "Older scouts ages 11-21 researching two tree-dwelling cultures - 1) Korowai people (Papua, Indonesia) build houses 6-50 meters high for protection, 2) Baka people (Congo Basin) build elevated platforms, 3) Amazonian tribes build raised dwellings for flood protection, 4) Pacific Northwest totem poles and cedar longhouses (not in trees but using forest materials). Building miniature replica (model) of one type of forest dwelling. Cultural architecture, indigenous housing, model-making skills, forest materials appreciation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine scout room, with a miniature model on a table in the center-left of a treehouse (Korowai style or similar), made of sticks, leaves, and twine. A sign 'Casas en árboles - Cultura Korowai'. Photos of real treehouses. The left side has open space for text. On the far right side, two tiny older scouts (11-21) kneel, one adjusting a twig on the model, the other looking at a photo, seen from a distance. The treehouse model environment dominates."
 tags:
+  - bosques
+  - casas en árboles
+  - Korowai
+  - construcción indígena
+  - maqueta
+  - hábitat
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -53,12 +65,6 @@ accessibility:
 activity_type:
   - Arquitectura
   - Modelado
-etiquetas:
-  - casas en árboles
-  - Korowai
-  - construcción indígena
-  - maqueta
-  - hábitat
 category:
   - Arquitectura
   - Antropología
@@ -87,16 +93,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,15 +119,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

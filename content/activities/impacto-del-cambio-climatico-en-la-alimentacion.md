@@ -3,23 +3,19 @@ title: "Impacto del cambio climático en la alimentación"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/impacto-del-cambio-climatico-en-la-alimentacion/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta la producción de alimentos.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta la producción de alimentos.
+description: "Aprende cómo el cambio climático afecta la producción de alimentos."
+summary: "Aprende cómo el cambio climático afecta la producción de alimentos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
-  - 13
 sdgs:
   - 2
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X392"
-image_prompt: "Older scouts ages 16-20 researching climate impacts on food systems - drought reduces crop yields, flooding destroys fields, heat waves harm livestock, ocean acidification affects fisheries. Learning link between climate and hunger. Sharing information with group/school. Climate-food nexus, food security advocacy, science communication atmosphere."
+  - sacc
+activity_code: "sacc-X86"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 13
+rama_caminantes:
+  - 3
+  - 2
+  - 13
+rama_rovers:
+  - 2
+  - 13
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a diagram: climate change → drought, floods, heat waves → crop failure, livestock death, fishery collapse → hunger. A laptop with FAO data and a notebook with solutions (drought-resistant crops, food storage). The left side has open space for text. On the far right side, two tiny older scouts (16-20) sit, one pointing at the diagram, the other writing notes, seen from a distance. The climate-food security research environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - cambio climático
+  - alimentos
+  - hambre
+  - producción
+  - seguridad alimentaria
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Comunicación
-etiquetas:
-  - cambio climático
-  - alimentos
-  - hambre
-  - producción
-  - seguridad alimentaria
 category:
   - Clima
   - Alimentación
@@ -82,16 +88,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,21 +115,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Impacto del cambio climático en la alimentación
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Aprende cómo el cambio climático afecta la producción de alimentos.
 
 ## Desarrollo

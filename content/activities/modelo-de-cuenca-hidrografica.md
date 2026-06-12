@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/modelo-de-cuenca-hidrografica/"
 description: "Construcción de modelo físico de cuenca."
 summary: "Construcción de modelo físico de cuenca."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/modelo-de-cuenca-hidrografica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
+age: "7-17 años"
 age_group:
   - manada
   - scouts
@@ -33,17 +32,32 @@ competencies:
   - Comprensión de ecosistemas
 responsible:
   - educador Scout
-ods:
-  - 6
-  - 14
 sdgs:
   - 6
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B01"
-image_prompt: "Scouts ages 7-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor area. Building watershed model using soil, rocks, recycled containers. Creating mountains, valleys, river channels. Simulating rain with spray bottle, observing runoff from farm and industrial areas. Discussing how plants and animals use watershed. Hands-on hydrology, erosion awareness, systems thinking atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 14
+rama_caminantes:
+  - 3
+  - 6
+  - 14
+rama_rovers:
+  - 6
+  - 14
+image_prompt: "An Argentine scout room or outdoor area, with a large tray or bin in the center-left. Inside, a model of mountains, valleys, and rivers made of soil, rocks, and cardboard. A spray bottle for simulating rain. The left side has open space for text. On the far right side, three tiny scouts (7-17) kneel around the tray, one spraying water, another pointing at the runoff, seen from a distance. The watershed model environment dominates."
 tags:
+  - biodiversidad
+  - cuenca hidrográfica
+  - modelo
+  - agua
+  - escorrentía
+  - ecosistema
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-15"
@@ -54,12 +68,6 @@ accessibility:
 activity_type:
   - Construcción
   - Modelado
-etiquetas:
-  - cuenca hidrográfica
-  - modelo
-  - agua
-  - escorrentía
-  - ecosistema
 category:
   - Hidrología
   - Geografía
@@ -86,16 +94,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,15 +120,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

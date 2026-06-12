@@ -3,23 +3,19 @@ title: "Investigar el impacto del cambio climático en tu área"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigar-el-impacto-del-cambio-climatico-en-tu-area/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Investiga cómo el cambio climático puede afectar tu comunidad.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Investiga cómo el cambio climático puede afectar tu comunidad.
+description: "Investiga cómo el cambio climático puede afectar tu comunidad."
+summary: "Investiga cómo el cambio climático puede afectar tu comunidad."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,15 +27,29 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X313"
-image_prompt: "Older scouts ages 16-20 researching climate change impacts on their Argentine region - droughts in Cuyo, floods in Buenos Aires, glacial retreat in Andes, sea level rise in coastal areas, heat waves. Creating report. Discussing adaptation strategies with group. Local climate vulnerability, scientific research, community preparedness atmosphere."
+  - sacc
+activity_code: "sacc-X07"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a large map of the region on the wall in the center-left (e.g., Cuyo for drought, Buenos Aires for floods). Newspaper clippings and data graphs. A laptop with climate projections. A notebook with adaptation strategies. The left side has space for text. On the far right side, two tiny older scouts (16-20) stand, one pointing at the drought zone, the other reading a clipping, seen from a distance. The local climate impact research environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - cambio climático
+  - impacto local
+  - adaptación
+  - comunidad
+  - investigación
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -49,12 +59,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - cambio climático
-  - impacto local
-  - adaptación
-  - comunidad
-  - investigación
 category:
   - Clima
   - Geografía
@@ -72,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,21 +103,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Investigar el impacto del cambio climático en tu área
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Investiga cómo el cambio climático puede afectar tu comunidad.
 
 ## Desarrollo

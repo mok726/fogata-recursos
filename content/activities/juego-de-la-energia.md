@@ -1,21 +1,21 @@
 ---
 title: "Juego de la Energía"
-duration: "30"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-la-energia/"
 description: "Aprende sobre fuentes de energía mediante un juego de movimientos."
 summary: "Aprende sobre fuentes de energía mediante un juego de movimientos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/juego-de-la-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -26,17 +26,33 @@ competencies:
   - Coordinación física
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 4
-  - 7
 sdgs:
   - 4
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X149"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine outdoor space or large hall. Caller shouts energy source - solar (lie down sunbathing), wind (spin like turbine), hydro (wave arms like water), fossil (stomp feet). Players act out. Laughing, moving, learning through play. Energetic, fun, kinesthetic learning atmosphere."
+activity_code: "energia-X18"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+  - 7
+rama_caminantes:
+  - 3
+  - 4
+  - 7
+rama_rovers:
+  - 4
+  - 7
+image_prompt: "An Argentine outdoor space or large hall, with an open area in the center-left. No props. The left side has space for text. On the far right side, a group of tiny young scouts (5-10) stand, one acting out 'solar' (lying down sunbathing), another 'wind' (spinning arms), a third 'hydro' (wave motions). A caller off-camera shouts energy sources. The energetic movement game environment dominates."
 tags:
+  - energia
+  - energía
+  - juego
+  - movimientos
+  - solar
+  - eólica
+  - hidroeléctrica
   - Insignia de Energía
 location: "Exterior / Interior"
 participants: "6-20"
@@ -48,13 +64,6 @@ accessibility:
 activity_type:
   - Juego
   - Kinestésico
-etiquetas:
-  - energía
-  - juego
-  - movimientos
-  - solar
-  - eólica
-  - hidroeléctrica
 category:
   - Educación
   - Energía
@@ -74,16 +83,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 1
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +109,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

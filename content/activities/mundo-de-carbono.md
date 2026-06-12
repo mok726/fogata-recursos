@@ -1,21 +1,21 @@
 ---
 title: "Mundo de Carbono"
-duration: "180"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mundo-de-carbono/"
 description: "Explora cómo el carbono circula en la naturaleza."
 summary: "Explora cómo el carbono circula en la naturaleza."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mundo-de-carbono.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -24,15 +24,32 @@ competencies:
   - Análisis crítico
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 15
 sdgs:
   - 15
+  - 13
 activity_badges:
   - energia
-activity_code: "energia-X140"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine forest or park. Observing trees absorbing CO2, animals exhaling, decomposing leaves releasing carbon. Taking photos, notes. Creating poster showing carbon cycle in local ecosystem. Field science, ecological observation atmosphere."
+activity_code: "energia-X09"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+  - 13
+rama_caminantes:
+  - 3
+  - 15
+  - 13
+rama_rovers:
+  - 15
+  - 13
+image_prompt: "An Argentine forest or park on a sunny day. In the center-left, a large tree, a squirrel or bird, and a patch of decomposing leaves on the ground. A sign with arrows showing carbon flow (CO₂ absorbed, CO₂ released). The left side has open space for text. On the far right side, three tiny older scouts (11-17) walk slowly, one taking a photo of the tree, another writing in a notebook, seen from a distance. The carbon cycle observation environment dominates."
 tags:
+  - energia
+  - carbono
+  - bosque
+  - plantas
+  - ciclo
+  - naturaleza
   - Insignia de Energía
 location: "Exterior"
 participants: "4-15"
@@ -43,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - carbono
-  - bosque
-  - plantas
-  - ciclo
-  - naturaleza
 category:
   - Ecología
   - Naturaleza
@@ -68,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +105,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

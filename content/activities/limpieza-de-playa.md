@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-playa/"
 description: "Acción comunitaria de conservación."
 summary: "Acción comunitaria de conservación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/limpieza-de-playa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +30,28 @@ competencies:
   - Responsabilidad cívica
 responsible:
   - educador Scout
-ods:
-  - 14
 sdgs:
   - 14
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B06"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs at Argentine beach or riverbank. Collecting trash in bags with gloves and grabbers. Sorting and recording types of waste (plastics, fishing gear, glass). Weighing collected trash. Discussing sources and solutions. Monitoring area recovery over time. Environmental action, marine conservation, civic responsibility atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 14
+rama_caminantes:
+  - 3
+  - 14
+rama_rovers:
+  - 14
+image_prompt: "An Argentine beach or riverbank. In the center-left, trash scattered on the sand: plastic bottles, fishing nets, glass pieces. A pile of filled trash bags. The left side has open space for text. On the far right side, a group of tiny older scouts (11-17) spread out, one picking up a bottle with a grabber, another holding a trash bag, seen from a distance. The beach cleanup environment dominates."
 tags:
+  - biodiversidad
+  - limpieza
+  - playa
+  - río
+  - basura
+  - conservación
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "10-30"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Acción
-etiquetas:
-  - limpieza
-  - playa
-  - río
-  - basura
-  - conservación
 category:
   - Conservación
   - Comunidad
@@ -81,16 +88,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,15 +114,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

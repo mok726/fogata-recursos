@@ -5,19 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-biomas-son-hogares/"
 description: "Aprende sobre los biomas forestales, sus características y ubicaciones en el mundo."
 summary: "Aprende sobre los biomas forestales, sus características y ubicaciones en el mundo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-biomas-son-hogares.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "7-22 años"
 age_group:
   - manada
   - scouts
@@ -33,22 +31,38 @@ competencies:
   - Comunicación oral
 responsible:
   - Scouter o profesor de ciencias
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A02"
-image_prompt: "Scouts ages 5-21 researching forest biomes - tropical rainforest (Amazon, Congo, SE Asia), temperate forest (Europe, Eastern US), boreal forest/taiga (Canada, Russia), Mediterranean forest. Learning characteristics, location, climate. Making matching game cards. Global forest literacy, biome diversity, interactive learning atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left showing different forest biomes: tropical rainforest (Amazon), temperate forest (Europe), boreal forest (Canada), Mediterranean forest. Small icons of animals and trees. A stack of matching cards on a table. The left side has negative space for text. On the far right side, two tiny scouts (5-21) stand, one pointing at the Amazon, the other holding a card with a toucan, seen from a distance. The forest biomes learning environment dominates."
 required: true
 required_for:
   - bosques-A
-required_comment: "Actividad obligatoria para la categoría - LA VIDA DE LOS BOSQUES"
+required_comment: "Actividad obligatoria para la categoría: LA VIDA DE LOS BOSQUES"
 required_category: "LA VIDA DE LOS BOSQUES"
 tags:
+  - LA VIDA DE LOS BOSQUES
+  - bosques
+  - biomas forestales
+  - selva tropical
+  - bosque boreal
+  - biodiversidad
+  - clima
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -59,12 +73,6 @@ accessibility:
 activity_type:
   - Investigación
   - Juego
-etiquetas:
-  - biomas forestales
-  - selva tropical
-  - bosque boreal
-  - biodiversidad
-  - clima
 category:
   - Geografía
   - Ecología
@@ -89,16 +97,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -125,15 +123,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

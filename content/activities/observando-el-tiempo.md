@@ -1,21 +1,21 @@
 ---
 title: "Observando el Tiempo"
-duration: "Varias semanas"
+duration: "varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/observando-el-tiempo/"
 description: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
 summary: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/observando-el-tiempo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - scouts
@@ -24,15 +24,29 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X57"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine garden or park. Checking soil moisture after rain. Observing cracks in dry soil. Taking photos or drawing in journal over weeks. One scout touching soil, another writing date and observations. Sunny or cloudy day. Patient, scientific atmosphere."
+activity_code: "suelos-X36"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+  - 12
+  - 13
+image_prompt: "An Argentine garden or park over several weeks. In the center-left, a small marked area of soil with a simple weather station (thermometer, rain gauge). A journal with dates and observations lies open. The left side has space for text. On the far right side, tiny scouts (5-15) kneel near the soil, one touching the soil, another writing in the journal, seen from a distance. The patient climate observation environment dominates."
 tags:
+  - suelos
+  - clima
+  - suelo
+  - lluvia
+  - sol
+  - observación
   - Insignia de los Suelos
 location: "Exterior"
 participants: "4-15"
@@ -43,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Observación
-etiquetas:
-  - clima
-  - suelo
-  - lluvia
-  - sol
-  - observación
 category:
   - Meteorología
   - Medio ambiente
@@ -69,16 +77,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +103,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

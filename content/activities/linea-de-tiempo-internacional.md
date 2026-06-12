@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/linea-de-tiempo-internacional/"
 description: "Crea una línea de tiempo sobre eventos clave relacionados con bosques y cambio climático."
 summary: "Crea una línea de tiempo sobre eventos clave relacionados con bosques y cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/linea-de-tiempo-internacional.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -29,17 +29,31 @@ competencies:
   - Conciencia global
 responsible:
   - Scouter o historiador ambiental
-ods:
-  - 13
-  - 17
 sdgs:
   - 13
   - 17
 activity_badges:
   - bosques
 activity_code: "bosques-B14"
-image_prompt: "Older scouts ages 16-21 creating timeline of key forest and climate events - 1972 Stockholm Conference, 1992 Rio Earth Summit (UNFCCC, CBD), 1997 Kyoto Protocol, 2005 REDD introduced, 2007 Bali Action Plan, 2010 Cancun Agreements (REDD+), 2015 Paris Agreement, 2021 Glasgow Leaders' Declaration on Forests. Mapping roles of governments, UN agencies, indigenous groups, NGOs. Climate policy history, forest diplomacy, institutional memory atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 17
+rama_caminantes:
+  - 3
+  - 13
+  - 17
+rama_rovers:
+  - 13
+  - 17
+image_prompt: "An Argentine scout room, with a long timeline poster on the wall in the center-left showing key forest and climate events from 1972 Stockholm to 2021 Glasgow Declaration. Small icons and photos. A table with research notes. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the 1992 Rio Earth Summit, the other at the 2015 Paris Agreement, seen from a distance. The forest diplomacy timeline environment dominates."
 tags:
+  - bosques
+  - conferencias
+  - cambio climático
+  - historia
+  - política
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -50,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Línea de tiempo
-etiquetas:
-  - conferencias
-  - cambio climático
-  - bosques
-  - historia
-  - política
 category:
   - Historia
   - Clima
@@ -79,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

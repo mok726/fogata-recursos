@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/observaciones-astronomicas/"
 description: "Los participantes investigan cómo la órbita de la Tierra afecta el clima."
 summary: "Los participantes investigan cómo la órbita de la Tierra afecta el clima."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/observaciones-astronomicas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,15 +29,28 @@ competencies:
   - análisis.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X247"
-image_prompt: "Older scouts ages 11-21 researching Milankovitch cycles - how Earth's orbit eccentricity, axial tilt (obliquity), and precession affect climate over tens of thousands of years, triggering ice ages. Distinguishing from current rapid warming. Presenting findings. Deep time climate drivers, astronomical context, long-term perspective atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X34"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a diagram on the wall in the center-left showing Earth's orbit (eccentricity), axial tilt (obliquity), and precession (wobble). A timeline of ice ages. A laptop with Milankovitch cycle explanation. The left side has space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the tilt diagram, the other reading from the laptop, seen from a distance. The astronomical climate drivers environment dominates."
 tags:
+  - cambioclimatico
+  - órbita terrestre
+  - inclinación axial
+  - ciclos de Milankovitch
+  - paleoclima
+  - astronomía
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
   - -Visual
 activity_type:
   - Investigación
-etiquetas:
-  - órbita terrestre
-  - inclinación axial
-  - ciclos de Milankovitch
-  - paleoclima
-  - astronomía
 category:
   - Astronomía
   - Clima
@@ -76,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

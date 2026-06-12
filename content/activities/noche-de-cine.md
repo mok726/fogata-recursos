@@ -1,28 +1,47 @@
 ---
 title: "Noche de cine"
-duration: "60 minutos"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/noche-de-cine/"
 description: "Una forma divertida para que los participantes aprendan más sobre el problema del plástico."
 summary: "Una forma divertida para que los participantes aprendan más sobre el problema del plástico."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/noche-de-cine.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 responsible:
   - Facilitador
-ods:
-  - 14
 sdgs:
   - 14
+  - 13
+  - 4
+  - 12
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X02"
-image_prompt: "Six young scouts (7-10 years old, three boys, three girls, diverse ethnicities - Afro-descendant, white, mestizo) wearing scout uniforms with neckerchiefs, sitting on couch and floor in dark scout meeting room in Argentina. Watching large TV screen showing polluted ocean with plastic bottles and sad sea turtle trapped in plastic rings. Children have sad and surprised expressions. One little girl hand over mouth. One boy hugging stuffed animal. Dark room with blueish light from TV. Scout posters on walls. Serious, emotional atmosphere."
+  - ptt
+activity_code: "ptt-X02"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+image_prompt: "A dark scout meeting room in Argentina, illuminated by the blueish glow of a large TV screen on the left-center wall. The screen shows a polluted ocean with a sad sea turtle. Scout posters barely visible on walls. The left side is intentionally dark and empty for text overlay. On the far right side, three tiny scouts (7-10) sit on a couch and floor, their silhouettes small against the screen. The room and the screen are the main subjects."
+tags:
+  - ptt
+  - cine
+  - plástico
+  - océanos
+  - sensibilización
+  - debate
 location: "Interior"
 participants: "8-25"
 complexity_execution: 1
@@ -32,12 +51,6 @@ accessibility:
 activity_type:
   - Sensibilización
   - Debate
-etiquetas:
-  - cine
-  - plástico
-  - océanos
-  - sensibilización
-  - debate
 category:
   - Medio ambiente
   - Educación
@@ -59,16 +72,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -95,15 +98,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

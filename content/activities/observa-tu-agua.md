@@ -8,16 +8,17 @@ description: |
 summary: |
   Registra el uso diario del agua en tu hogar y propone formas de ahorrar.
   Actividad obligatoria para la categoría Usando el agua.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/observa-tu-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -25,20 +26,33 @@ competencies:
   - Responsabilidad
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua-obligatoria
-activity_code: "del-agua-obligatoria-X270"
-image_prompt: "Older scouts ages 11-15 keeping water diary at home - brushing teeth, showering, flushing toilet, washing dishes, laundry, watering plants. Calculating usage. Identifying waste (leaky faucets, long showers). Implementing savings - shorter showers, turning off tap while brushing. Comparing with friends. Making long-term commitment. Water conservation, household audit, behavior change atmosphere."
-similar_activities: "https -//water.usgs.gov/gotita/sc4.html"
+  - agua
+activity_code: "agua-X23"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine home, with a kitchen or bathroom in the center-left. A notebook on a counter with a daily water use log (shower, brushing teeth, flushing, dishes). A timer and a measuring cup. A parent (civilian) helping. The left side has open space for text. On the far right side, a tiny older scout (11-15) stands, writing in the notebook, another turning off a tap, seen from a distance. The home water audit environment dominates."
+similar_activities:
+  - https://water.usgs.gov/gotita/sc4.html
 required: true
 required_for:
-  - del-agua-obligatoria-X
+  - agua-X
 required_comment: "Actividad obligatoria"
 tags:
+  - agua
+  - ahorro
+  - diario
+  - hogar
+  - consumo
   - Insignia del Agua (Obligatoria)
 location: "Interior (hogar)"
 participants: "2-8"
@@ -49,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Auditoría
-etiquetas:
-  - agua
-  - ahorro
-  - diario
-  - hogar
-  - consumo
 category:
   - Hogar
   - Agua
@@ -74,16 +82,14 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://water.usgs.gov/gotita/sc4.html"
+    caption: "Referencia"
+    icon: "open_in_new"
+  - filepath: "https://water.usgs.gov/gotita/sc4.html"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +116,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

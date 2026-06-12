@@ -3,23 +3,19 @@ title: "Impacto del cambio climático en mujeres rurales"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/impacto-del-cambio-climatico-en-mujeres-rurales/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta a las mujeres rurales.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Aprende cómo el cambio climático afecta a las mujeres rurales.
+description: "Aprende cómo el cambio climático afecta a las mujeres rurales."
+summary: "Aprende cómo el cambio climático afecta a las mujeres rurales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 5
-  - 13
 sdgs:
   - 5
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X394"
-image_prompt: "Older scouts ages 16-20 researching gendered impacts of climate change - women rural farmers produce 45-80% of food in developing countries but have less access to resources. Climate change increases their workload (water collection, food production). Learning about intersection of gender, climate, and food security. Gender equality advocacy, climate justice, empowerment atmosphere."
+  - sacc
+activity_code: "sacc-X88"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 5
+  - 13
+rama_caminantes:
+  - 3
+  - 5
+  - 13
+rama_rovers:
+  - 5
+  - 13
+image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing a rural woman farmer with icons: water collection, food production, childcare, and climate impacts (drought, flood). A laptop with UN Women data and a notebook with solutions (climate-resilient seeds, water access). The left side has open space for text. On the far right side, two tiny older scouts (16-20) sit, one pointing at the poster, the other typing, seen from a distance. The gender and climate research environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - mujeres rurales
+  - cambio climático
+  - desigualdad
+  - género
+  - agricultura
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - mujeres rurales
-  - cambio climático
-  - desigualdad
-  - género
-  - agricultura
 category:
   - Género
   - Clima
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Impacto del cambio climático en mujeres rurales
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Aprende cómo el cambio climático afecta a las mujeres rurales.
 
 ## Desarrollo

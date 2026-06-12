@@ -3,22 +3,19 @@ title: "Investigar iniciativas locales"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigar-iniciativas-locales/"
-description: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Investiga qué hace tu comunidad para proteger el medio ambiente.
-summary: |
-  Esta actividad es parte del grupo de actividades - Descubre.
-  Investiga qué hace tu comunidad para proteger el medio ambiente.
+description: "Investiga qué hace tu comunidad para proteger el medio ambiente."
+summary: "Investiga qué hace tu comunidad para proteger el medio ambiente."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigar-iniciativas-locales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -29,17 +26,33 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X307"
-image_prompt: "Older scouts ages 11-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs researching local environmental initiatives - recycling programs, tree planting, renewable energy projects, water conservation. Contacting municipality, environmental groups. Joining existing initiatives. Sharing findings with group. Civic engagement, community awareness, local action atmosphere."
+  - sacc
+activity_code: "sacc-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine scout room, with a large map of the city on the wall in the center-left, showing local environmental initiatives: a recycling center, a tree planting site, a community garden. Sticky notes with contact information. A laptop with municipal websites. The left side has space for text. On the far right side, two tiny older scouts (11-15) stand, one pointing at the recycling center, the other reading a sticky note, seen from a distance. The local initiative research environment dominates."
 tags:
+  - Descubre
+  - sacc
+  - iniciativas locales
+  - medio ambiente
+  - cambio climático
+  - comunidad
+  - investigación
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
@@ -50,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio
-etiquetas:
-  - iniciativas locales
-  - medio ambiente
-  - cambio climático
-  - comunidad
-  - investigación
 category:
   - Ciudadanía
   - Medio ambiente
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Investigar iniciativas locales
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Descubre.
 Investiga qué hace tu comunidad para proteger el medio ambiente.
 
 ## Desarrollo

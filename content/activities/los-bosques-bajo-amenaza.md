@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-bajo-amenaza/"
 description: "Crea un collage o póster sobre amenazas a bosques locales y globales, y propone soluciones."
 summary: "Crea un collage o póster sobre amenazas a bosques locales y globales, y propone soluciones."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-bosques-bajo-amenaza.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -33,20 +32,33 @@ competencies:
   - Comunicación visual
 responsible:
   - Scouter o educador ambiental
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D01"
-image_prompt: "Older scouts ages 11-21 creating collage/poster about forest threats (deforestation for agriculture, illegal logging, fires, mining, infrastructure, invasive species, climate change) and solutions (sustainable forestry, protected areas, reforestation, certification, consumer choices). Artist statement explaining impacts and actions. Public exhibition. Environmental art, visual advocacy, forest conservation communication atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a large collage or poster on the wall in the center-left showing forest threats: chainsaw (deforestation), fire, bulldozer (mining), invasive species (beaver), and solutions: protected area sign, tree planting, FSC logo. An artist statement next to it. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at a threat, the other at a solution, seen from a distance. The forest threats and solutions art environment dominates."
 required: true
 required_for:
   - bosques-D
-required_comment: "Actividad obligatoria para la categoría - LOS BOSQUES EN PELIGRO"
+required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES EN PELIGRO"
 required_category: "LOS BOSQUES EN PELIGRO"
 tags:
+  - LOS BOSQUES EN PELIGRO
+  - bosques
+  - amenazas
+  - deforestación
+  - collage
+  - soluciones
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -57,12 +69,6 @@ accessibility:
 activity_type:
   - Arte
   - Activismo
-etiquetas:
-  - amenazas
-  - bosques
-  - deforestación
-  - collage
-  - soluciones
 category:
   - Arte
   - Ecología
@@ -90,16 +96,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -126,15 +122,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

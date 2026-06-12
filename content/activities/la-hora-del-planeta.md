@@ -1,22 +1,21 @@
 ---
 title: "La Hora del Planeta"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-hora-del-planeta/"
 description: "Participa en esta iniciativa global apagando luces y organizando actividades sin energía."
 summary: "Participa en esta iniciativa global apagando luces y organizando actividades sin energía."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/la-hora-del-planeta.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
+age: "5-14 años"
 age_group:
   - castores
   - manada
@@ -29,16 +28,30 @@ competencies:
   - Adaptabilidad
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
   - energia
-activity_code: "energia-X186"
-image_prompt: "Group of scouts ages 5-13 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or outdoor space on Earth Hour night (March, 8 -30pm). Turning off all lights. Doing shadow puppets, storytelling by candlelight or lanterns. Documenting with photos. Feeling energy dependence. Global solidarity, fun, awareness atmosphere."
-similar_activities: "https -//www.horadelplaneta.org/"
+activity_code: "energia-X55"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room at night (March, 8:30pm). In the center-left, a candle or lantern casting soft light, and a shadow puppet screen. The room is otherwise dark. The left side has space for text. On the far right side, a group of tiny scouts (5-13) sit on the floor, one making shadow puppets, another holding a candle, seen from a distance. The Earth Hour environment dominates."
+similar_activities:
+  - https://www.horadelplaneta.org/
 tags:
+  - energia
+  - Hora del Planeta
+  - apagar luces
+  - conciencia
+  - global
+  - participación
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "10-50"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Evento
   - Sensibilización
-etiquetas:
-  - Hora del Planeta
-  - apagar luces
-  - conciencia
-  - global
-  - participación
 category:
   - Clima
   - Energía
@@ -76,16 +83,11 @@ scout_method:
   - Vida al aire libre
 ludic_component: 4
 reflective_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.horadelplaneta.org/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +114,6 @@ reflective_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

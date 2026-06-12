@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/no-madereros-y-no-son-buenos/"
 description: "Identifica productos no madereros dañinos en tu hogar (ej. aceite de palma)."
 summary: "Identifica productos no madereros dañinos en tu hogar (ej. aceite de palma)."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/no-madereros-y-no-son-buenos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +26,28 @@ competencies:
   - Toma de decisiones éticas
 responsible:
   - Scouter o activista ambiental
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-D11"
-image_prompt: "Older scouts ages 11-21 auditing home products (food - cookies, chocolate, margarine, instant noodles, ice cream, bread, pizza dough; cosmetics - shampoo, soap, lipstick, detergent) for unsustainable palm oil content (elaeis guineensis). Checking for RSPO certification (sustainable palm oil). Researching alternatives - products with certified sustainable palm oil, or palm-oil free (using shea butter, coconut oil, sunflower oil). Also investigating other non-timber forest products - rubber (unsustainable vs FSC-certified), natural latex, cork, bamboo (sustainable), Brazil nuts (responsible harvesting), rattan (unsustainable vs certified). Consumer power, deforestation-linked commodities, supply chain transparency, ethical shopping atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine home or scout room, with a table in the center-left displaying products containing palm oil: cookies, chocolate, shampoo, lipstick. An RSPO certification logo on one product. A laptop with information on sustainable palm oil. A notebook listing alternatives. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one holding a product with the RSPO logo, the other pointing at a notebook, seen from a distance. The palm oil audit environment dominates."
 tags:
+  - bosques
+  - aceite de palma
+  - PFNM
+  - deforestación
+  - productos
+  - consumo responsable
   - Insignia de los Bosques
 location: "Interior (hogar)"
 participants: "4-15"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Consumo
-etiquetas:
-  - aceite de palma
-  - PFNM
-  - deforestación
-  - productos
-  - consumo responsable
 category:
   - Consumo
   - Deforestación
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +111,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

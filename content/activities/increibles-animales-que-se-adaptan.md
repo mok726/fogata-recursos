@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/increibles-animales-que-se-adaptan/"
 description: "Los participantes inventan un animal adaptado a su entorno."
 summary: "Los participantes inventan un animal adaptado a su entorno."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/increibles-animales-que-se-adaptan.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,28 @@ competencies:
   - pensamiento crítico.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X215"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Imagining and inventing an animal adapted to a specific environment - desert (long ears for cooling), arctic (thick white fur), forest (camouflage). Drawing the animal and writing descriptions of adaptations. Exhibiting drawings. Creative biology, evolutionary thinking, art integration atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X03"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing imaginative animal drawings: a desert animal with long ears, an arctic animal with thick white fur, a forest animal with camouflage patterns. A table with colored pencils. The left side has negative space for text. On the far right side, two tiny young scouts (5-15) sit at a table, one drawing, the other coloring, seen from a distance. The creative adaptation art environment dominates."
 tags:
+  - cambioclimatico
+  - animales
+  - adaptación
+  - entorno
+  - inventar
+  - dibujo
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Arte
   - Creatividad
-etiquetas:
-  - animales
-  - adaptación
-  - entorno
-  - inventar
-  - dibujo
 category:
   - Biología
   - Arte
@@ -76,16 +83,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

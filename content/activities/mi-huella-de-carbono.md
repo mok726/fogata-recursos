@@ -1,21 +1,21 @@
 ---
 title: "Mi Huella de Carbono"
-duration: "30"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/mi-huella-de-carbono/"
 description: "Juego para identificar acciones personales contra el cambio climático."
 summary: "Juego para identificar acciones personales contra el cambio climático."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mi-huella-de-carbono.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -29,15 +29,28 @@ competencies:
   - Rapidez mental
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
   - energia
-activity_code: "energia-X163"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Sitting in circle. Passing ball while music plays. When stops, person holding ball says action to reduce carbon footprint - turn off lights, walk to school, recycle, eat less meat. Fun, quick-thinking, climate awareness atmosphere."
+activity_code: "energia-X32"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a circle of chairs in the center-left. A ball on the floor, and a speaker for music. The left side has space for text. On the far right side, a group of tiny young scouts (5-10) sit in a circle, one holding the ball and speaking ('apagar las luces'), others listening, seen from a distance. The carbon footprint passing game environment dominates."
 tags:
+  - energia
+  - huella de carbono
+  - acciones
+  - reducción
+  - juego
+  - música
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
@@ -49,12 +62,6 @@ accessibility:
 activity_type:
   - Juego
   - Conciencia
-etiquetas:
-  - huella de carbono
-  - acciones
-  - reducción
-  - juego
-  - música
 category:
   - Clima
   - Juego
@@ -77,16 +84,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +110,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

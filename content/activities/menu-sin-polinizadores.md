@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/menu-sin-polinizadores/"
 description: "Crea un menú de una semana con alimentos que no dependan de los polinizadores."
 summary: "Crea un menú de una semana con alimentos que no dependan de los polinizadores."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/menu-sin-polinizadores.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -28,17 +28,28 @@ competencies:
   - Trabajo en equipo
 responsible:
   - Responsable del grupo
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - polinizadores
-activity_code: "polinizadores-X94"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) at home or scout room. Creating menu without pollinator-dependent foods (wheat, corn, rice - wind pollinated). No apples, strawberries, almonds, pumpkin. Comparing with favorite foods menu. Realizing how many foods need bees. Food awareness, impactful atmosphere."
+activity_code: "polinizadores-X21"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room or home kitchen in Argentina. In the center-left, a week-long menu written on a paper: wheat bread, corn, rice, chicken (wind-pollinated or non-dependent foods). Next to it, a second menu with favorite foods that need pollinators (apples, strawberries, almonds) crossed out. The left side has space for text. On the far right side, tiny young scouts (5-10) sit at a table, one looking at the menu, another making a face, seen from a distance. The food awareness reflection environment dominates."
 tags:
+  - polinizadores
+  - menú
+  - alimentos
+  - dieta
+  - comparación
   - Insignia de Polinizadores
 location: "Interior"
 participants: "2-10"
@@ -49,12 +60,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Creatividad
-etiquetas:
-  - menú
-  - polinizadores
-  - alimentos
-  - dieta
-  - comparación
 category:
   - Alimentación
   - Nutrición
@@ -78,16 +83,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

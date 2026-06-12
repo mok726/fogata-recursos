@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/mapea-el-impacto/"
 description: "Los participantes dibujan un mapa que muestra los impactos del cambio climático en diferentes regiones."
 summary: "Los participantes dibujan un mapa que muestra los impactos del cambio climático en diferentes regiones."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mapea-el-impacto.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,28 @@ competencies:
   - creatividad.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X219"
-image_prompt: "Young scouts ages 5-15 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing large world map. Labeling climate impacts - droughts in Africa, floods in Asia, melting ice in Arctic, wildfires in Australia, rising seas in Pacific islands. Collaborative mapping, global climate awareness, visual advocacy atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X06"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a large world map on the wall in the center-left. The map has hand-drawn icons: drought in Africa, flood in Asia, melting ice in the Arctic, wildfire in Australia, rising sea in the Pacific. A table with markers. The left side has negative space for text. On the far right side, three tiny young scouts (5-15) stand near the map, one pointing at the Arctic, another holding a marker, seen from a distance. The climate impacts mapping environment dominates."
 tags:
+  - cambioclimatico
+  - mapa
+  - impactos
+  - cambio climático
+  - regiones
+  - conciencia
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Arte
   - Trabajo grupal
-etiquetas:
-  - mapa
-  - impactos
-  - cambio climático
-  - regiones
-  - conciencia
 category:
   - Geografía
   - Clima
@@ -77,16 +84,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +110,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

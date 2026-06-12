@@ -3,22 +3,19 @@ title: "Optimizar el uso del refrigerador"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/optimizar-el-uso-del-refrigerador/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Ayuda a tus padres a instalar y descongelar el refrigerador adecuadamente.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Ayuda a tus padres a instalar y descongelar el refrigerador adecuadamente.
+description: "Ayuda a tus padres a instalar y descongelar el refrigerador adecuadamente."
+summary: "Ayuda a tus padres a instalar y descongelar el refrigerador adecuadamente."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/optimizar-el-uso-del-refrigerador.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -26,17 +23,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 12
 sdgs:
   - 7
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X383"
-image_prompt: "Older scouts ages 11-15 helping parents with refrigerator maintenance - proper temperature setting (not below 5°C), regular defrosting, cleaning coils, checking door seals. Learning that lower temperature wastes energy without preserving food better. Energy efficiency, appliance care, household sustainability atmosphere."
+  - sacc
+activity_code: "sacc-X77"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 12
+rama_caminantes:
+  - 3
+  - 7
+  - 12
+rama_rovers:
+  - 7
+  - 12
+image_prompt: "An Argentine kitchen, with a refrigerator door open in the center-left, showing a thermometer inside set to 4°C. A calendar with a reminder 'Descongelar cada mes'. A brush for cleaning coils on the floor. The left side has open space for text. On the far right side, a tiny older scout (11-15) stands with a parent (civilian), both looking at the thermometer, the scout holding a notepad, seen from a distance. The refrigerator efficiency environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - refrigerador
+  - descongelar
+  - temperatura
+  - energía
+  - eficiencia
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Hábito
   - Ahorro
-etiquetas:
-  - refrigerador
-  - descongelar
-  - temperatura
-  - energía
-  - eficiencia
 category:
   - Energía
   - Hogar
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,21 +107,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Optimizar el uso del refrigerador
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Ayuda a tus padres a instalar y descongelar el refrigerador adecuadamente.
 
 ## Desarrollo

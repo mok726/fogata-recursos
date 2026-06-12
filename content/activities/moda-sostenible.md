@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/moda-sostenible/"
 description: "Diseño consciente."
 summary: "Diseño consciente."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/moda-sostenible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +26,27 @@ tools:
   - Aguja/hilo (opcional)
 responsible:
   - educador Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-D18"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) creating fashion item or jewelry inspired by biodiversity using natural fibers (cotton, wool, linen) or recycled materials. Organizing biodiversity fashion show with group. Explaining materials and inspiration. Sustainable fashion, biomimicry, creative reuse, body confidence atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a makeshift runway in the center-left. Scouts wearing clothing made from recycled materials: a dress of newspaper, a vest of plastic bags, jewelry of bottle caps. The left side has negative space for text. On the far right side, a group of tiny older scouts (11-17) walk in a fashion show line, one holding a cardboard sign 'Moda Sostenible', seen from a distance. The recycled fashion show environment dominates."
 tags:
+  - biodiversidad
+  - moda sostenible
+  - fibras naturales
+  - diseño
+  - reciclaje
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-20"
@@ -46,12 +58,6 @@ activity_type:
   - Arte
   - Moda
   - Creatividad
-etiquetas:
-  - moda sostenible
-  - biodiversidad
-  - fibras naturales
-  - diseño
-  - reciclaje
 category:
   - Moda
   - Ecología
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +112,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

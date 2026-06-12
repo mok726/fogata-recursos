@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/intercambio-internacional-de-recetas/"
 description: "Calcula la huella hídrica de tus recetas favoritas."
 summary: "Calcula la huella hídrica de tus recetas favoritas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/intercambio-internacional-de-recetas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 competencies:
@@ -21,17 +22,32 @@ competencies:
   - Pensamiento crítico
   - Trabajo en equipo
 responsible:
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X277"
-image_prompt: "Older scouts ages 11-15 writing favorite recipe, calculating water footprint of each ingredient. Comparing recipes - beef stew (high) vs vegetable soup (low). Voting on recipe to cook together. Cooking and eating. Food-water literacy, cross-cultural recipes, collaborative cooking atmosphere."
+  - agua
+activity_code: "agua-X30"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine scout room or kitchen, with a table in the center-left displaying recipe cards from different countries, each with a water footprint calculation. A pot and ingredients for the winning recipe (plant-based, low water). The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one reading a recipe, the other pointing at a water footprint number, seen from a distance. The international recipe exchange environment dominates."
 tags:
+  - agua
+  - recetas
+  - huella hídrica
+  - cocina
+  - agua virtual
+  - alimentos
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -42,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Cocina
-etiquetas:
-  - recetas
-  - huella hídrica
-  - cocina
-  - agua virtual
-  - alimentos
 category:
   - Alimentación
   - Agua
@@ -72,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +108,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

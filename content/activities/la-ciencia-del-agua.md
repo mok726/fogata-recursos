@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/la-ciencia-del-agua/"
 description: "Investiga las propiedades químicas y físicas del agua."
 summary: "Investiga las propiedades químicas y físicas del agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/la-ciencia-del-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,28 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X268"
-image_prompt: "Older scouts ages 14-17 researching water's unique properties - high specific heat, cohesion/adhesion, universal solvent, density anomaly (ice floats), surface tension. Learning how these support life. Sharing five most important facts. Chemistry/physics appreciation, water molecule wonder, scientific literacy atmosphere."
+  - agua
+activity_code: "agua-X21"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing water's unique properties: high specific heat, cohesion/adhesion, universal solvent, ice floats, surface tension. Diagrams and simple icons. A laptop with research. The left side has negative space for text. On the far right side, two tiny older scouts (14-17) sit, one pointing at 'ice floats', the other taking notes, seen from a distance. The water chemistry learning environment dominates."
 tags:
+  - agua
+  - propiedades del agua
+  - química
+  - física
+  - molécula
+  - densidad
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
@@ -40,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Ciencia
-etiquetas:
-  - propiedades del agua
-  - química
-  - física
-  - molécula
-  - densidad
 category:
   - Química
   - Física
@@ -64,16 +72,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -100,15 +98,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

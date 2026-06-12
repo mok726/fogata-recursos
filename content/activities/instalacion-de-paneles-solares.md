@@ -3,23 +3,19 @@ title: "Instalación de paneles solares"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/instalacion-de-paneles-solares/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Energía.
-  Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro.
+description: "Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro."
+summary: "Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/instalacion-de-paneles-solares.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Investigación y planificación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X352"
-image_prompt: "Older scouts ages 16-20 researching solar panel installation for home, school, or meeting place. Investigating government subsidies, donations, financing options. Presenting proposal. Renewable energy advocacy, project feasibility, technical and financial research atmosphere."
+  - sacc
+activity_code: "sacc-X46"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+rama_rovers:
+  - 7
+  - 13
+image_prompt: "An Argentine home or school rooftop, with solar panels installed in the center-left. An inverter box on the wall. A sign 'Energía Solar'. A technician (civilian) pointing at a panel. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) stand, one taking a photo, another asking a question, seen from a distance. The solar panel installation visit environment dominates."
 tags:
+  - Ahorra Energía
+  - sacc
+  - paneles solares
+  - energía renovable
+  - fotovoltaicos
+  - instalación
+  - subsidios
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Proyecto
-etiquetas:
-  - paneles solares
-  - energía renovable
-  - fotovoltaicos
-  - instalación
-  - subsidios
 category:
   - Energía
   - Tecnología
@@ -76,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,21 +109,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Instalación de paneles solares
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Energía.
 Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro.
 
 ## Desarrollo

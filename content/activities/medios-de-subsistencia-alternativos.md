@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/medios-de-subsistencia-alternativos/"
 description: "Lista productos forestales usados para subsistencia y diseña un juego educativo."
 summary: "Lista productos forestales usados para subsistencia y diseña un juego educativo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/medios-de-subsistencia-alternativos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,22 +26,37 @@ materials:
   - Ejemplos de productos forestales (opcional)
 responsible:
   - Scouter o educador
-ods:
-  - 1
-  - 12
 sdgs:
   - 1
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-B02"
-image_prompt: "Older scouts ages 11-21 listing non-timber forest products - fruits, nuts, medicinal plants, mushrooms, latex, honey, fibers for crafts, bamboo. Creating educational matching game or board game about forest livelihoods. Forest economy awareness, informal sector recognition, peer education through play atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 1
+  - 12
+rama_caminantes:
+  - 3
+  - 1
+  - 12
+rama_rovers:
+  - 1
+  - 12
+image_prompt: "An Argentine scout room, with a matching game on a table in the center-left: cards with forest products (fruits, nuts, medicinal plants, honey, bamboo) and cards with their uses (food, medicine, craft). A sign 'Productos forestales no madereros'. The left side has open space for text. On the far right side, two tiny older scouts (11-21) sit, one placing a honey card next to a 'medicina' card, the other thinking, seen from a distance. The forest products matching game environment dominates."
 required: true
 required_for:
   - bosques-B
-required_comment: "Actividad obligatoria para la categoría - LOS BOSQUES EN USO"
+required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES EN USO"
 required_category: "LOS BOSQUES EN USO"
 tags:
+  - LOS BOSQUES EN USO
+  - bosques
+  - productos forestales
+  - subsistencia
+  - economía informal
+  - juego educativo
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
@@ -53,11 +67,6 @@ accessibility:
 activity_type:
   - Juego
   - Educación
-etiquetas:
-  - productos forestales
-  - subsistencia
-  - economía informal
-  - juego educativo
 category:
   - Economía
   - Ecología
@@ -83,16 +92,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +118,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,18 +1,21 @@
 ---
 title: "Lista de verificación de la huella ecológica"
-duration: "10 -15 min"
+duration: "10-15 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/lista-de-verificacion-de-la-huella-ecologica/"
 description: "Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos."
 summary: "Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Versión online o impresa de la huella ecológica
   - Materiales de lectura
@@ -21,17 +24,32 @@ tools:
   - Papel
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X193"
-image_prompt: "Group of scouts ages 7-14 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Completing ecological footprint worksheet on paper or tablet. Small groups discussing results. One scout showing chart. Facilitator explaining importance of reducing personal impact. Thoughtful, analytical, behavior-change atmosphere."
+  - cfn
+activity_code: "cfn-X01"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine scout room, with a table in the center-left. On the table, printed ecological footprint worksheets (paper or tablet), pencils, and a small chart showing results categories (carbon, food, housing, goods). The left side has space for text. On the far right side, a small group of tiny scouts (7-14) sit, one filling a worksheet, another looking at a tablet, a third discussing, seen from a distance. The ecological footprint reflection environment dominates."
 tags:
+  - cfn
+  - huella de carbono
+  - cálculo
+  - hábitos
+  - reducción
+  - consumo
   - Champions for Nature
 location: "Interior"
 participants: "4-20"
@@ -42,12 +60,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Autoevaluación
-etiquetas:
-  - huella de carbono
-  - cálculo
-  - hábitos
-  - reducción
-  - consumo
 category:
   - Medio ambiente
   - Consumo
@@ -69,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

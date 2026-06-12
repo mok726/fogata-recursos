@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/meditaciones-en-el-museo/"
 description: "Visita un museo de arte para aprender sobre el uso del suelo en la cerámica y escultura."
 summary: "Visita un museo de arte para aprender sobre el uso del suelo en la cerámica y escultura."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/meditaciones-en-el-museo.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +25,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X50"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine museum (Museo de Bellas Artes or similar). Looking at ceramic pots and clay sculptures. Guide or scout leader explaining how clay comes from soil. One scout taking photo of pottery. Others reading informational plaques. Quiet, respectful, cultural atmosphere."
+activity_code: "suelos-X29"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "An Argentine museum (e.g., Museo de Bellas Artes). In the center-left, a display case with ceramic pots and clay sculptures. Soft lighting, informational plaques on the wall. The left side has negative space for text. On the far right side, tiny older scouts (11-17) stand in front of the display, one taking a photo, others reading plaques, seen from a distance. The cultural and artistic environment dominates."
 tags:
+  - suelos
+  - museo
+  - cerámica
+  - escultura
+  - arcilla
+  - arte
   - Insignia de los Suelos
 location: "Interior"
 participants: "5-20"
@@ -45,12 +57,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - museo
-  - cerámica
-  - escultura
-  - arcilla
-  - arte
 category:
   - Arte
   - Cultura
@@ -70,16 +76,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +102,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

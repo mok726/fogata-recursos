@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/la-seguridad-es-primero/"
 description: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
 summary: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/la-seguridad-es-primero.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,15 +26,28 @@ competencies:
   - Investigación
 responsible:
   - Scouter o profesional forestal
-ods:
-  - 8
 sdgs:
   - 8
 activity_badges:
   - bosques
 activity_code: "bosques-B03"
-image_prompt: "Older scouts ages 11-21 researching forest worker safety regulations - hard hats, steel-toed boots, hi-vis vests, gloves, hearing protection, fall protection, chainsaw safety. Creating safety checklist for forest visits. Occupational safety awareness, risk prevention, responsible forest recreation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 8
+rama_caminantes:
+  - 3
+  - 8
+rama_rovers:
+  - 8
+image_prompt: "An Argentine scout room, with a checklist poster on the wall in the center-left titled 'Seguridad en el Bosque' with items: casco, botas de seguridad, guantes, gafas, botiquín, silbato, mapa, agua. A table with some of these items laid out. The left side has negative space for text. On the far right side, a tiny older scout (11-21) stands, wearing a hard hat and holding a checklist, another scout puts on gloves, seen from a distance. The forest safety environment dominates."
 tags:
+  - bosques
+  - seguridad
+  - trabajadores forestales
+  - casco
+  - botas
+  - checklist
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -46,12 +58,6 @@ accessibility:
 activity_type:
   - Investigación
   - Seguridad
-etiquetas:
-  - seguridad
-  - trabajadores forestales
-  - casco
-  - botas
-  - checklist
 category:
   - Seguridad
   - Trabajo
@@ -70,16 +76,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +102,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

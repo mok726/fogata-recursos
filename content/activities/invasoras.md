@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/invasoras/"
 description: "Investiga especies invasoras en tu área y propón medidas de prevención."
 summary: "Investiga especies invasoras en tu área y propón medidas de prevención."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/invasoras.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -29,15 +28,28 @@ competencies:
   - Conciencia global
 responsible:
   - Scouter o ecólogo
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D04"
-image_prompt: "Older scouts ages 11-21 researching invasive species in Argentine forests - North American beaver (Tierra del Fuego) - devastating native forests, wild boar, European hare, English broom (shrub), lodgepole pine, Japanese wasp, starling, rainbow trout affecting native fish. Learning pathways (ballast water, pet trade, ornamental plants). Proposing prevention measures. Invasive species ecology, biosecurity awareness, ecosystem impact understanding atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a display board in the center-left showing invasive species in Argentine forests: North American beaver (Tierra del Fuego), wild boar, English broom, lodgepole pine. Photos and damage descriptions. A map showing their spread. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the beaver, the other at the wild boar, seen from a distance. The invasive species research environment dominates."
 tags:
+  - bosques
+  - especies invasoras
+  - castor
+  - avispa
+  - impacto ecológico
+  - prevención
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-15"
@@ -47,12 +59,6 @@ accessibility:
   - -Visual
 activity_type:
   - Investigación
-etiquetas:
-  - especies invasoras
-  - castor
-  - avispa
-  - impacto ecológico
-  - prevención
 category:
   - Ecología
   - Conservación
@@ -73,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +105,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

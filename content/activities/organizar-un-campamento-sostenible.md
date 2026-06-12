@@ -3,23 +3,19 @@ title: "Organizar un campamento sostenible"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizar-un-campamento-sostenible/"
-description: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Planea un campamento de verano amigable con el medio ambiente.
-summary: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Planea un campamento de verano amigable con el medio ambiente.
+description: "Planea un campamento de verano amigable con el medio ambiente."
+summary: "Planea un campamento de verano amigable con el medio ambiente."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizar-un-campamento-sostenible.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Liderazgo y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X336"
-image_prompt: "Older scouts ages 16-20 planning and organizing sustainable summer camp - local organic food, recycling and composting system, Leave No Trace principles, water conservation, solar power for charging, river/lake cleanup activity. Incorporating climate change and food security education for local participants. Sustainable event management, environmental education, camping skills atmosphere."
+  - sacc
+activity_code: "sacc-X30"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine campsite (mountains or forest), with tents, a solar oven, a composting toilet sign, a clothesline with reusable utensils, and recycling bins in the center-left. A banner 'Campamento Sostenible'. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) cook on a solar oven, sort waste, and carry reusable water bottles, seen from a distance. The sustainable camping environment dominates."
 tags:
+  - Actúa
+  - sacc
+  - campamento sostenible
+  - local
+  - reciclaje
+  - limpieza
+  - conciencia
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "10-50"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Campamento
   - Planificación
-etiquetas:
-  - campamento sostenible
-  - local
-  - reciclaje
-  - limpieza
-  - conciencia
 category:
   - Campamento
   - Sostenibilidad
@@ -81,16 +87,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 4
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -118,21 +114,11 @@ active_component: 4
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Organizar un campamento sostenible
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Actúa.
 Planea un campamento de verano amigable con el medio ambiente.
 
 ## Desarrollo

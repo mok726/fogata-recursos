@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-el-fuego/"
 description: "Aprende a hacer fogatas seguras e investiga su importancia cultural."
 summary: "Aprende a hacer fogatas seguras e investiga su importancia cultural."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-bosques-y-el-fuego.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,22 +29,38 @@ tools:
   - Guantes resistentes al calor
 responsible:
   - Scouter o experto en seguridad
-ods:
-  - 11
-  - 12
 sdgs:
   - 11
   - 12
 activity_badges:
   - bosques
 activity_code: "bosques-C02"
-image_prompt: "Older scouts ages 11-21 learning safe campfire building - clearing area, collecting tinder, kindling, fuelwood (different species - pine burns fast, oak burns slow). Building fire lay. Lighting with adult supervision. Having water bucket or extinguisher nearby. Toasting food. Discussing fire's cultural importance (rituals, ceremonies, storytelling) and dangers (wildfires). Fire safety, outdoor skills, cultural appreciation, risk management atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 12
+rama_caminantes:
+  - 3
+  - 11
+  - 12
+rama_rovers:
+  - 11
+  - 12
+image_prompt: "An Argentine campsite or outdoor area, with a safe campfire ring surrounded by stones in the center-left. Firewood of different species (pine, oak) stacked nearby. A bucket of water and a shovel. A scout carefully lighting the fire with adult supervision. The left side has open space for text. On the far right side, a group of tiny older scouts (11-21) sit around the fire, one roasting a marshmallow, another holding a guitar, seen from a distance. The campfire and fire safety environment dominates."
 required: true
 required_for:
   - bosques-C
-required_comment: "Actividad obligatoria para la categoría - LOS BOSQUES Y LA CULTURA"
+required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES Y LA CULTURA"
 required_category: "LOS BOSQUES Y LA CULTURA"
 tags:
+  - LOS BOSQUES Y LA CULTURA
+  - bosques
+  - fogata
+  - fuego
+  - seguridad
+  - leña
+  - cultura
   - Insignia de los Bosques
 location: "Exterior"
 participants: "6-20"
@@ -56,12 +71,6 @@ accessibility:
 activity_type:
   - Supervivencia
   - Cultura
-etiquetas:
-  - fogata
-  - fuego
-  - seguridad
-  - leña
-  - cultura
 category:
   - Supervivencia
   - Cultura
@@ -90,16 +99,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -126,15 +125,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/mimica-de-agua/"
 description: "Juego de mímica con palabras relacionadas con el agua."
 summary: "Juego de mímica con palabras relacionadas con el agua."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mimica-de-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 competencies:
@@ -21,15 +22,27 @@ competencies:
   - Trabajo en equipo
   - Comunicación
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X251"
-image_prompt: "Young scouts ages 5-10 creating water vocabulary cards - evaporation, condensation, precipitation, aquifer, sanitation, salty, muddy, droplet, river, ocean. Playing charades acting out words without speaking. Team guessing. Fun water vocabulary building, kinesthetic learning, creativity atmosphere."
+  - agua
+activity_code: "agua-X04"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine scout room, with a hat full of water-related word cards on a table in the center-left (evaporación, condensación, acuífero, saneamiento, salado, lodoso). A whiteboard for scores. The left side has space for text. On the far right side, a group of tiny young scouts (5-10) sit, one acting out 'sed' (thirst), another guessing, seen from a distance. The water charades environment dominates."
 tags:
+  - agua
+  - mímica
+  - palabras
+  - juego
+  - actuación
   - Insignia del Agua
 location: "Interior"
 participants: "6-20"
@@ -41,12 +54,6 @@ accessibility:
 activity_type:
   - Juego
   - Charadas
-etiquetas:
-  - mímica
-  - agua
-  - palabras
-  - juego
-  - actuación
 category:
   - Educación
   - Agua
@@ -71,16 +78,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +104,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Lista de Seguridad Eléctrica"
-duration: "60"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/lista-de-seguridad-electrica/"
 description: "Identifica riesgos energéticos en casa/escuela."
 summary: "Identifica riesgos energéticos en casa/escuela."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/lista-de-seguridad-electrica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,15 +24,28 @@ competencies:
   - Responsabilidad
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 11
 sdgs:
   - 11
 activity_badges:
   - energia
-activity_code: "energia-X168"
-image_prompt: "Young scouts ages 7-13 (mixed genders, diverse ethnicities) with parent/adult at home. Walking through house checking for electrical hazards - exposed wires, overloaded outlets, cords under rugs, water near electronics. Creating correction list. Discussing with family. Safety awareness, preventive action atmosphere."
+activity_code: "energia-X37"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine home, with a hallway or room in the center-left. An electrical outlet with a child-safe cover, and a power strip without overloading. A clipboard with a checklist (cables pelados? sobrecarga?). The left side has space for text. On the far right side, a tiny scout (7-13) stands next to an adult (civilian parent), both pointing at a plug, seen from a distance. The home electrical safety environment dominates."
 tags:
+  - energia
+  - seguridad eléctrica
+  - riesgos
+  - hogar
+  - prevención
+  - electricidad
   - Insignia de Energía
 location: "Interior"
 participants: "2-8"
@@ -43,12 +56,6 @@ accessibility:
 activity_type:
   - Investigación
   - Seguridad
-etiquetas:
-  - seguridad eléctrica
-  - riesgos
-  - hogar
-  - prevención
-  - electricidad
 category:
   - Seguridad
   - Hogar
@@ -66,16 +73,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +99,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

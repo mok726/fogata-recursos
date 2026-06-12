@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-colores-del-agua/"
 description: "Captura los diferentes colores y texturas del agua en fotografías."
 summary: "Captura los diferentes colores y texturas del agua en fotografías."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-colores-del-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -24,15 +25,27 @@ competencies:
   - Observación
   - Conciencia ambiental
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X259"
-image_prompt: "Older scouts ages 11-15 photographing water in different settings - river rapids (white foam), lake at sunset (orange/pink reflections), ocean waves (blue/green), puddle (muddy brown), ice crystals, steam. Printing favorites. Organizing photo exhibition for parents and friends. Artistic appreciation, observation skills, water beauty celebration atmosphere."
+  - agua
+activity_code: "agua-X12"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine outdoor setting (river, lake, or coast), with a camera on a tripod in the center-left facing the water. Printed photographs on a table showing different water colors: blue ocean, green lake, brown river, white foam, golden sunset reflection. The left side has open space for text. On the far right side, two tiny older scouts (11-15) stand, one adjusting the camera, the other holding a printed photo, seen from a distance. The water photography environment dominates."
 tags:
+  - agua
+  - fotografía
+  - colores
+  - texturas
+  - exhibición
   - Insignia del Agua
 location: "Exterior"
 participants: "4-15"
@@ -43,12 +56,6 @@ accessibility:
 activity_type:
   - Arte
   - Fotografía
-etiquetas:
-  - agua
-  - fotografía
-  - colores
-  - texturas
-  - exhibición
 category:
   - Arte
   - Agua
@@ -68,16 +75,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +101,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

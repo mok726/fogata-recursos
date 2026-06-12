@@ -3,22 +3,19 @@ title: "Inventar un juego o juguete con materiales reciclados"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventar-un-juego-o-juguete-con-materiales-reciclados/"
-description: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Crea un juego o juguete con materiales naturales o reciclados.
-summary: |
-  Esta actividad es parte del grupo de actividades - Sé creativo.
-  Crea un juego o juguete con materiales naturales o reciclados.
+description: "Crea un juego o juguete con materiales naturales o reciclados."
+summary: "Crea un juego o juguete con materiales naturales o reciclados."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -34,15 +31,29 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X322"
-image_prompt: "Older scouts ages 11-15 inventing toys or games from recycled materials - cardboard box board game, bottle cap checkers, plastic bottle bowling, tin can stilts, milk carton boats. Testing with friends. Creative reuse, hands-on construction, play-based learning atmosphere."
+  - sacc
+activity_code: "sacc-X16"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left displaying homemade toys: bottle cap checkers, cardboard box board game, plastic bottle bowling pins, tin can stilts. A group of scouts playing one of the games. The left side has space for text. On the far right side, two tiny older scouts (11-15) sit, one rolling a bottle pin, the other moving a bottle cap on a board, seen from a distance. The recycled toy invention environment dominates."
 tags:
+  - Sé creativo
+  - sacc
+  - juguete
+  - reciclado
+  - materiales naturales
+  - creatividad
+  - reutilización
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -53,12 +64,6 @@ accessibility:
 activity_type:
   - Creatividad
   - Juego
-etiquetas:
-  - juguete
-  - reciclado
-  - materiales naturales
-  - creatividad
-  - reutilización
 category:
   - Reciclaje
   - Creatividad
@@ -87,16 +92,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -124,21 +119,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Inventar un juego o juguete con materiales reciclados
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Sé creativo.
 Crea un juego o juguete con materiales naturales o reciclados.
 
 ## Desarrollo

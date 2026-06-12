@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/inspiracion-literaria/"
 description: "Lee obras literarias sobre bosques y analiza su representación."
 summary: "Lee obras literarias sobre bosques y analiza su representación."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/inspiracion-literaria.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -27,16 +26,29 @@ competencies:
   - Empatía literaria
 responsible:
   - Scouter o profesor de literatura
-ods:
-  - 4
 sdgs:
   - 4
 activity_badges:
   - bosques
 activity_code: "bosques-C08"
-image_prompt: "Older scouts ages 11-21 reading forest-themed literature - poems (Robert Frost - Stopping by Woods'"
-similar_activities: "The Giving Tree"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 4
+rama_caminantes:
+  - 3
+  - 4
+rama_rovers:
+  - 4
+image_prompt: "An Argentine scout room or library, with a cozy reading corner in the center-left: a chair, a lamp, and a stack of forest-themed books (The Lorax, The Giving Tree, poetry by Neruda). A notebook with analysis notes and a draft poem. The left side has negative space for text. On the far right side, a tiny older scout (11-21) sits reading, another writes in a notebook, seen from a distance. The forest literature environment dominates."
+similar_activities:
+  - TheGivingTree
 tags:
+  - bosques
+  - literatura
+  - poesía
+  - cuentos
+  - análisis
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Literatura
   - Análisis
-etiquetas:
-  - literatura
-  - bosques
-  - poesía
-  - cuentos
-  - análisis
 category:
   - Literatura
   - Ecología
@@ -68,17 +74,7 @@ special_materials:
   - plays ('A Midsummer Night's Dream' forest scenes). Analyzing author's description
 prep_time: "word choice"
 scout_method:
-  - motivations. Optional extension - writing own poem or story inspired by forest. Literary analysis
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+  - motivations. Optional extension: writing own poem or story inspired by forest. Literary analysis
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +101,6 @@ scout_method:
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

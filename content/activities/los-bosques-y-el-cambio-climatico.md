@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-el-cambio-climatico/"
 description: "Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques."
 summary: "Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-bosques-y-el-cambio-climatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -25,15 +25,27 @@ competencies:
   - Pensamiento sistémico
 responsible:
   - Scouter o climatólogo
-ods:
-  - 13
 sdgs:
   - 13
 activity_badges:
   - bosques
 activity_code: "bosques-D12"
-image_prompt: "Older scouts ages 16-21 comparing historical (pre-industrial) atmospheric composition - 280 ppm CO2, versus current (400+ ppm CO2). Methane (CH4) increase, nitrous oxide (N2O) increase. Causes - fossil fuel burning, deforestation, agriculture. Effects on forests - CO2 fertilization (initial growth increase) but also heat stress, drought, pests, fires, species migration. Discussing potential forest ecosystem collapse if CO2 continues rising. Climate science literacy, greenhouse effect, forest carbon cycle, mitigation urgency atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+  - 13
+rama_rovers:
+  - 13
+image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a diagram of the carbon cycle: trees absorbing CO2, releasing oxygen, and soil carbon storage. A second diagram shows warmer temperatures causing forest fires and pest outbreaks. A laptop with IPCC graphs. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the CO2 arrow, the other at the fire icon, seen from a distance. The forest-climate science environment dominates."
 tags:
+  - bosques
+  - composición atmosférica
+  - CO2
+  - cambio climático
+  - dióxido de carbono
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -44,12 +56,6 @@ accessibility:
 activity_type:
   - Investigación
   - Ciencia
-etiquetas:
-  - composición atmosférica
-  - CO2
-  - cambio climático
-  - bosques
-  - dióxido de carbono
 category:
   - Clima
   - Química
@@ -69,16 +75,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +101,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

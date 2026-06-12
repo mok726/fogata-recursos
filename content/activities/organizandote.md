@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/organizandote/"
 description: "Investiga organizaciones que trabajan en la conservación del suelo."
 summary: "Investiga organizaciones que trabajan en la conservación del suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizandote.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,15 +27,28 @@ competencies:
   - Conciencia global
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X70"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching soil conservation organizations on laptop. Finding local or international groups (WWF, The Nature Conservancy, local agroecology groups). Discussing how to volunteer or support. One scout signing up for newsletter. Empowered, action-oriented atmosphere."
+activity_code: "suelos-X49"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a laptop on a table in the center-left. The screen shows a website of a soil conservation organization (e.g., WWF, The Nature Conservancy). A notebook with a list of ways to get involved. The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit at the table, one reading the screen, another writing in the notebook, seen from a distance. The action-oriented research environment dominates."
 tags:
+  - suelos
+  - organizaciones
+  - conservación
+  - suelo
+  - voluntariado
+  - participación
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -47,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Servicio a los demás
-etiquetas:
-  - organizaciones
-  - conservación
-  - suelo
-  - voluntariado
-  - participación
 category:
   - Activismo
   - Medio ambiente
@@ -74,16 +80,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

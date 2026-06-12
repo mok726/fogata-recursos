@@ -1,18 +1,21 @@
 ---
 title: "Inicio de los plásticos"
-duration: "20 - 30 minutos"
+duration: "20-30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/inicio-de-los-plasticos/"
 description: "Actividad que ayuda a los jóvenes a comprender que el uso del plástico es un fenómeno reciente."
 summary: "Actividad que ayuda a los jóvenes a comprender que el uso del plástico es un fenómeno reciente."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/inicio-de-los-plasticos.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Pizarra
   - tiza
@@ -20,14 +23,27 @@ materials:
   - lista de productos de plástico
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X05"
-image_prompt: "Scout meeting room in Argentina. Scout leader standing in front of large blackboard with timeline drawn in chalk - small plastic icon on 1950 side, many plastic icons overflowing on today side. Five young scouts ages 7-10 sitting at desks wearing neckerchiefs. Three girls and two boys, diverse - indigenous features, Asian features, light skin with freckles. Holding survey forms with pencils. One boy raising hand. Children look curious and attentive. Bright fluorescent light. Educational atmosphere."
+  - ptt
+activity_code: "ptt-X05"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+image_prompt: "A bright scout meeting room in Argentina, with a large blackboard dominating the left-center. The blackboard has a chalk timeline: a small plastic icon on the 1950 side and many overflowing icons on the today side. The left side is clean for text. On the far right side, a small group of distant scouts (7-10) sit at desks, seen from behind, facing the blackboard. The educational blackboard and room are the main subjects."
+tags:
+  - ptt
+  - historia del plástico
+  - encuesta
+  - generaciones
+  - cambio de hábitos
 location: "Interior"
 participants: "6-20"
 complexity_execution: 2
@@ -37,11 +53,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - historia del plástico
-  - encuesta
-  - generaciones
-  - cambio de hábitos
 category:
   - Historia
   - Medio ambiente
@@ -64,16 +75,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -100,15 +101,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

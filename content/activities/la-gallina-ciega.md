@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/la-gallina-ciega/"
 description: "Actividad para reflexionar sobre la importancia del agua en el cuerpo humano."
 summary: "Actividad para reflexionar sobre la importancia del agua en el cuerpo humano."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/la-gallina-ciega.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
+age: "7-10 años"
 age_group:
   - manada
 competencies:
@@ -21,17 +22,30 @@ competencies:
   - Creatividad
   - Comunicación
 responsible:
-ods:
-  - 3
-  - 6
 sdgs:
   - 3
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X252"
-image_prompt: "Young scouts ages 5-10 in Argentine scout room. Blindfolded participant points to body part on large drawing. Tells story about water and that body part - eyes (tears), mouth (saliva, drinking), skin (sweat), blood (mostly water), brain (needs water to think). Learning water's role in human body. Fun, educational, body awareness atmosphere."
+  - agua
+activity_code: "agua-X05"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 3
+  - 6
+image_prompt: "An Argentine scout room, with a large drawing of the human body on the wall in the center-left, with labels (ojos, boca, piel, sangre, cerebro). A blindfold and a pointer on a table. The left side has negative space for text. On the far right side, a group of tiny young scouts (5-10) sit, one blindfolded pointing to a body part, another telling a story about water and that part, seen from a distance. The water and body awareness environment dominates."
 tags:
+  - agua
+  - cuerpo humano
+  - órganos
+  - hidratación
+  - salud
   - Insignia del Agua
 location: "Interior"
 participants: "6-15"
@@ -42,12 +56,6 @@ accessibility:
 activity_type:
   - Juego
   - Reflexión
-etiquetas:
-  - agua
-  - cuerpo humano
-  - órganos
-  - hidratación
-  - salud
 category:
   - Salud
   - Educación
@@ -67,16 +75,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +101,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

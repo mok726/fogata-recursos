@@ -1,28 +1,48 @@
 ---
 title: "Juega a salvar el océano"
-duration: "20 minutos"
+duration: "20 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/juega-a-salvar-el-oceano/"
 description: "Un minijuego que destaca los desafíos que enfrentan nuestros océanos."
 summary: "Un minijuego que destaca los desafíos que enfrentan nuestros océanos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/juega-a-salvar-el-oceano.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 responsible:
   - Facilitador
-ods:
-  - 14
 sdgs:
   - 14
+  - 13
+  - 4
+  - 12
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X03"
-image_prompt: "Close-up of small hands of child age 7-10 holding smartphone. Child has light brown skin. In background two other children (girl with pigtails, boy with glasses) watching over shoulder, curious expressions. Diverse group - white, Asian, mestizo. Casual colorful clothes (t-shirts with cartoon characters, shorts). Phone screen shows colorful ocean game with cartoon boat, fish, floating plastic bottles. Green checkmark symbol. Typical Argentine home or school setting. Bright blue and green colors. Playful, excited mood."
+  - ptt
+activity_code: "ptt-X03"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "A bright classroom or home setting in Argentina, with a smartphone resting on a table in the center-left. The phone screen displays a colorful ocean game with a cartoon boat and floating plastic bottles. Soft sunlight from a window with a residential view. The left half is clean and uncluttered for text. On the far right edge, tiny hands of a child (7-10) holding the phone are visible, and in the deep background two other small children watch. The learning environment dominates."
+tags:
+  - ptt
+  - juego
+  - océano
+  - plástico
+  - digital
+  - conciencia ambiental
 location: "Interior"
 participants: "4-20"
 complexity_execution: 1
@@ -31,12 +51,6 @@ accessibility:
   - -Visual
 activity_type:
   - Aprender jugando
-etiquetas:
-  - juego
-  - océano
-  - plástico
-  - digital
-  - conciencia ambiental
 category:
   - Tecnología
   - Medio ambiente
@@ -57,16 +71,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -93,15 +97,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

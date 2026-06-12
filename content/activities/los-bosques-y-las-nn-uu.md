@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-las-nn-uu/"
 description: "Investiga el trabajo de dos agencias de la ONU relacionadas con bosques."
 summary: "Investiga el trabajo de dos agencias de la ONU relacionadas con bosques."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-bosques-y-las-nn-uu.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -25,15 +25,27 @@ competencies:
   - Análisis crítico
 responsible:
   - Scouter o profesor de ciencias políticas
-ods:
-  - 17
 sdgs:
   - 17
 activity_badges:
   - bosques
 activity_code: "bosques-B11"
-image_prompt: "Older scouts ages 16-21 researching two UN agencies working on forests - FAO (Food and Agriculture Organization - forestry division), UNEP (UN Environment Programme - forest ecosystems), UNDP (forest landscape restoration), UNFF (UN Forum on Forests). Learning their mandates, headquarters, founding dates, current projects. Global forest governance, multilateral environmental agreements, international cooperation understanding atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 17
+rama_caminantes:
+  - 3
+  - 17
+rama_rovers:
+  - 17
+image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing logos of UN agencies working on forests: FAO, UNEP, UNDP, UNFF. Brief descriptions and founding dates. A laptop with their current projects. The left side has negative space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the FAO logo, the other reading from the laptop, seen from a distance. The UN forest agencies research environment dominates."
 tags:
+  - bosques
+  - ONU
+  - FAO
+  - UNEP
+  - agencias
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -43,12 +55,6 @@ accessibility:
   - -Cognitiva
 activity_type:
   - Investigación
-etiquetas:
-  - ONU
-  - FAO
-  - UNEP
-  - bosques
-  - agencias
 category:
   - Gobernanza global
   - Política ambiental
@@ -68,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -104,15 +100,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

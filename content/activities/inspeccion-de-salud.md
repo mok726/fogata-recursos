@@ -1,21 +1,21 @@
 ---
 title: "Inspección de Salud"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-de-salud/"
 description: "Investiga cómo la contaminación afecta la salud y prepara un quiz."
 summary: "Investiga cómo la contaminación afecta la salud y prepara un quiz."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/inspeccion-de-salud.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -24,15 +24,27 @@ competencies:
   - Conciencia sanitaria
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 3
 sdgs:
   - 3
 activity_badges:
   - energia
-activity_code: "energia-X180"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching health impacts of pollution - asthma from particulate matter, respiratory diseases from fossil fuels, heat-related illnesses. Creating quiz for family/group. Sharing alarming statistics. Health advocacy, environmental justice atmosphere."
+activity_code: "energia-X49"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 3
+image_prompt: "An Argentine scout room, with a table in the center-left. A laptop showing a WHO article on air pollution and asthma, a notebook with a draft quiz (preguntas sobre contaminación y salud), and a printed fact sheet. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one typing, the other reading a fact sheet, seen from a distance. The pollution and health research environment dominates."
 tags:
+  - energia
+  - contaminación
+  - salud
+  - asma
+  - polución
+  - cuestionario
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -43,12 +55,6 @@ accessibility:
 activity_type:
   - Investigación
   - Salud
-etiquetas:
-  - contaminación
-  - salud
-  - asma
-  - polución
-  - cuestionario
 category:
   - Salud
   - Medio ambiente
@@ -67,16 +73,6 @@ scout_method:
   - Educación por la acción
 ludic_component: 1
 reflective_component: 5
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +99,6 @@ reflective_component: 5
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-urbanas/"
 description: "Los participantes investigan las ciudades con los niveles más altos de CO2."
 summary: "Los participantes investigan las ciudades con los niveles más altos de CO2."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigaciones-urbanas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -30,17 +29,32 @@ competencies:
   - análisis.
 responsible:
   - Maestro/profesor/dirigente.
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
-  - del-cambio-climatico
-activity_code: "del-cambio-climatico-X244"
-image_prompt: "Older scouts ages 11-21 researching cities with highest CO2 emissions (Shanghai, Beijing, Los Angeles, Tokyo) and cities with successful reduction strategies (Copenhagen, Singapore, Vancouver, Curitiba). Learning about policies - congestion pricing, bike infrastructure, renewable energy, building efficiency. Presenting findings. Urban sustainability, climate policy, best practices atmosphere."
+  - cambioclimatico
+activity_code: "cambioclimatico-X31"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine scout room, with a world map on the wall in the center-left, highlighting cities with high CO2 (Shanghai, Los Angeles) and low-carbon success stories (Copenhagen, Curitiba). Sticky notes with policies (congestion pricing, bike lanes). The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at Copenhagen, the other reading a note, seen from a distance. The urban climate solutions environment dominates."
 tags:
+  - cambioclimatico
+  - ciudades
+  - CO2
+  - emisiones
+  - reducción
+  - políticas
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -51,12 +65,6 @@ accessibility:
 activity_type:
   - Investigación
   - Comparación
-etiquetas:
-  - ciudades
-  - CO2
-  - emisiones
-  - reducción
-  - políticas
 category:
   - Urbanismo
   - Clima
@@ -79,16 +87,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

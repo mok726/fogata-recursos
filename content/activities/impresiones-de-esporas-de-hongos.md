@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/impresiones-de-esporas-de-hongos/"
 description: "Estudio de diversidad fúngica."
 summary: "Estudio de diversidad fúngica."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/impresiones-de-esporas-de-hongos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -27,16 +27,30 @@ competencies:
   - Precisión
 responsible:
   - educador Scout
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A08"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Collecting 3 non-poisonous mushrooms with adult supervision. Placing mushroom caps gill-side down on paper (white for dark spores, black for light spores). Covering with glass. After few hours, observing spore print patterns. Comparing species. Fungal diversity, scientific discovery atmosphere."
-similar_activities: "https -//www.unpocodetodo.info/setas/agar4.html"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a table in the center-left. Several mushroom caps placed gill-side down on white and black paper, covered with glass jars. Spore prints visible (white, black, brown patterns). A magnifying glass. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) sit, one lifting a jar to examine a spore print, the other sketching the pattern, seen from a distance. The mycology investigation environment dominates."
+similar_activities:
+  - https://www.unpocodetodo.info/setas/agar4.html
 tags:
+  - biodiversidad
+  - hongos
+  - esporas
+  - impresiones
+  - diversidad fúngica
+  - identificación
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
@@ -47,12 +61,6 @@ accessibility:
 activity_type:
   - Investigación
   - Experimentación
-etiquetas:
-  - hongos
-  - esporas
-  - impresiones
-  - diversidad fúngica
-  - identificación
 category:
   - Micología
   - Ciencia
@@ -78,16 +86,11 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.unpocodetodo.info/setas/agar4.html"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -114,15 +117,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

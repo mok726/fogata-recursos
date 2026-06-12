@@ -1,21 +1,21 @@
 ---
 title: "Midamos la Energía"
-duration: "90"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/midamos-la-energia/"
 description: "Investiga unidades de medida energética (julios, kWh)."
 summary: "Investiga unidades de medida energética (julios, kWh)."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/midamos-la-energia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,15 +27,28 @@ competencies:
   - Análisis de datos
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X170"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room or at home. Examining electricity bills, identifying kWh usage, cost. Calculating daily consumption. Identifying biggest consumers (AC, heater, fridge). Proposing savings. Financial literacy, energy efficiency atmosphere."
+activity_code: "energia-X39"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left. On the table, an electricity bill, a calculator, and a notebook with calculations of kWh and cost. A simple bar chart showing consumption by appliance. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one using the calculator, the other reading the bill, seen from a distance. The home energy audit environment dominates."
 tags:
+  - energia
+  - unidades de medida
+  - julios
+  - kWh
+  - facturas
+  - consumo
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -46,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Análisis
-etiquetas:
-  - unidades de medida
-  - julios
-  - kWh
-  - facturas
-  - consumo
 category:
   - Energía
   - Matemática
@@ -74,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

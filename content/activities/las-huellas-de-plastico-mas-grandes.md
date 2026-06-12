@@ -5,24 +5,43 @@ layout: "layouts/activity.njk"
 permalink: "/activities/las-huellas-de-plastico-mas-grandes/"
 description: "Actividad que anima a los jóvenes a reducir su uso de plástico en un evento o reunión."
 summary: "Actividad que anima a los jóvenes a reducir su uso de plástico en un evento o reunión."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/las-huellas-de-plastico-mas-grandes.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 14
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X14"
-image_prompt: "Large outdoor camp or event场地 in Argentina (field with trees, mountains or hills in background, no flags). Three patrols of older teenage scouts ages 14-17 wearing uniforms with neckerchiefs. Each patrol has four members (mixed genders and ethnicities). Each patrol standing next to pile of plastic waste (bottles, cups, wrappers) forming small mountain. One scout from each patrol measuring height with measuring tape. Another scout writing measurements on large whiteboard leaderboard. Excited, competitive expressions, cheering. Sunset warm golden light. Tents and scout banners in background (symbols, no flags). Energetic, awareness-raising atmosphere."
+  - ptt
+activity_code: "ptt-X14"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "A large outdoor camp or event field in Argentina with mountains or hills in the background. In the center-left, three piles of plastic waste (bottles, cups, wrappers) form small mountains. The left side has space for text. On the far right side, three tiny patrols of older teenage scouts (14-17) stand next to their piles, one scout from each measuring with a tape measure, seen from a distance. The competitive, awareness-raising outdoor environment is the hero."
+tags:
+  - ptt
+  - evento
+  - plástico usado
+  - montaña de residuos
+  - equipos
+  - comparación
 location: "Exterior"
 participants: "8-30"
 complexity_execution: 2
@@ -31,12 +50,6 @@ accessibility:
   - Todas
 activity_type:
   - Investigación
-etiquetas:
-  - evento
-  - plástico usado
-  - montaña de residuos
-  - equipos
-  - comparación
 category:
   - Medio ambiente
   - Gestión de eventos
@@ -62,16 +75,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -98,15 +101,6 @@ active_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

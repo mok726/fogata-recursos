@@ -1,18 +1,21 @@
 ---
 title: "Macetas de botellas"
-duration: "20 - 30 minutos"
+duration: "20-30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/macetas-de-botellas/"
 description: "Actividad que ayuda a los jóvenes a reutilizar botellas de plástico para crear macetas."
 summary: "Actividad que ayuda a los jóvenes a reutilizar botellas de plástico para crear macetas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/macetas-de-botellas.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Botella de agua de plástico
   - tijeras
@@ -24,14 +27,29 @@ competencies:
   - Resolución de problemas
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 15
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X12"
-image_prompt: "Sunny balcony or garden in Argentina. Three preadolescents ages 11-14 (one boy, two girls, diverse - curly dark hair, light skin with freckles, tan skin) wearing casual clothes (colorful t-shirts, shorts, sneakers). Three hanging planters made from recycled plastic bottles suspended from wooden beam. Each bottle cut horizontally, filled with soil, with small plant growing (basil, succulent, marigold). Bottles tied with rope. One girl holding watering can smiling. One boy pointing at plants proudly. More plastic bottles in background waiting to be transformed. Balcony with typical Argentine plants (geraniums, jasmine). Green, sustainable, joyful atmosphere."
+  - ptt
+activity_code: "ptt-X12"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 11
+image_prompt: "A sunny balcony or garden in Argentina. In the center-left, three hanging planters made from recycled plastic bottles are suspended from a wooden beam, each filled with soil and a small plant (basil, succulent, marigold). More plastic bottles in the background waiting to be transformed. The left side has open space for text. On the far right side, three tiny preadolescent scouts (11-14) stand near the plants, one holding a watering can, seen from a distance. The sustainable gardening environment is the hero."
+tags:
+  - ptt
+  - maceta
+  - botella de plástico
+  - jardinería
+  - reutilización
+  - plantas
 location: "Exterior"
 participants: "4-15"
 complexity_execution: 2
@@ -40,12 +58,6 @@ accessibility:
   - -Movilidad
 activity_type:
   - Aprender haciendo
-etiquetas:
-  - maceta
-  - botella de plástico
-  - jardinería
-  - reutilización
-  - plantas
 category:
   - Jardinería
   - Medio ambiente
@@ -70,16 +82,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -106,15 +108,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

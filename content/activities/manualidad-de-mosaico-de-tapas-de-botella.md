@@ -5,14 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/manualidad-de-mosaico-de-tapas-de-botella/"
 description: "Actividad que anima a los jóvenes a aprender sobre la reutilización y el reciclaje."
 summary: "Actividad que anima a los jóvenes a aprender sobre la reutilización y el reciclaje."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Tapas de botellas de plástico
   - cartones usados
@@ -27,7 +30,15 @@ sdgs:
 activity_badges:
   - ptt
 activity_code: "ptt-X04"
-image_prompt: "Four young scouts (7-10 years old, two boys, two girls, diverse ethnicities: Afro hair, blonde, braids) wearing scout neckerchiefs, sitting around wooden table in scout den in Argentina. Creating mosaic with colorful plastic bottle caps (red, blue, yellow, green). One gluing caps, one sorting caps, one placing final caps to complete flower design. Small hands carefully working. Glue bottles, scissors, markers on table. Children smiling and focused. Natural daylight from window showing Argentine suburban backyard. Creative, collaborative atmosphere."
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 4
+rama_rovers:
+  - 11
+image_prompt: "A sunny scout den in Argentina, with a large wooden table covered with colorful plastic bottle caps. A completed mosaic flower design sits in the center-left. Background shows a window with an Argentine suburban backyard. The left and center are open with the mosaic materials and negative space. On the far right side, three tiny scouts (7-10) sit around the table, their heads and hands visible from a distance. The creative environment is the hero."
 similar_activities:
   - https://manualidades.facilisimo.com/como-hice-mi-primera-botella-mosaico_2240936.html
   - https://es.spiritsglass.com/blog/what-are-some-creative-uses-for-bottle-caps-1542385.html
@@ -70,7 +81,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 3
-version: "DRAFT"
 files:
   - filepath: "https://manualidades.facilisimo.com/como-hice-mi-primera-botella-mosaico_2240936.html"
     caption: "Similares en la Web"
@@ -124,4 +134,3 @@ Actividad que anima a los jóvenes a aprender sobre la reutilización y el recic
 
 ## Cierre
 Los participantes comparten fotos de sus mosaicos y discuten otras ideas de reutilización.
-

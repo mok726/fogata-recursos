@@ -1,21 +1,21 @@
 ---
 title: "Logrando los ODS"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/logrando-los-ods/"
 description: "Diseña un póster sobre un ODS y cómo contribuir a él."
 summary: "Diseña un póster sobre un ODS y cómo contribuir a él."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/logrando-los-ods.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -30,16 +30,42 @@ competencies:
   - Planificación
 responsible:
   - Educador Scout/ Guiadora AGA
+sdgs:
+  - 7
+  - 13
+  - 12
 activity_badges:
   - energia
-activity_code: "energia-X185"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Choosing an SDG (Clean Energy, Climate Action, Responsible Consumption). Creating poster with concrete actions - use LED bulbs, walk to school, recycle, plant trees. Exhibiting in school or community center. Creative advocacy, public awareness atmosphere."
+activity_code: "energia-X54"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 13
+  - 12
+rama_caminantes:
+  - 3
+  - 7
+  - 13
+  - 12
+rama_rovers:
+  - 7
+  - 13
+  - 12
+image_prompt: "An Argentine scout room, with a large poster on an easel in the center-left. The poster shows a chosen SDG (e.g., ODS 7) with concrete actions: 'Usar transporte público', 'Plantar árboles'. Colorful illustrations. The left side has negative space for text. On the far right side, three tiny older scouts (11-17) stand, one pointing at the poster, another holding a marker, seen from a distance. The SDG action poster environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - TOMAR ACCIÓN"
+required_comment: "Actividad obligatoria para la categoría: TOMAR ACCIÓN"
 required_category: "TOMAR ACCIÓN"
 tags:
+  - TOMAR ACCIÓN
+  - energia
+  - ODS
+  - póster
+  - acciones
+  - comunidad
+  - sostenibilidad
   - Insignia de Energía
 location: "Interior"
 participants: "4-20"
@@ -51,12 +77,6 @@ activity_type:
   - Arte
   - Compromiso
   - Creatividad
-etiquetas:
-  - ODS
-  - póster
-  - acciones
-  - comunidad
-  - sostenibilidad
 category:
   - Arte
   - Desarrollo sostenible
@@ -80,16 +100,6 @@ scout_method:
   - Educación por la acción
 ludic_component: 3
 reflective_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,15 +126,6 @@ reflective_component: 4
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

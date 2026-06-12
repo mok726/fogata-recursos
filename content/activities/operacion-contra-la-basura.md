@@ -5,27 +5,45 @@ layout: "layouts/activity.njk"
 permalink: "/activities/operacion-contra-la-basura/"
 description: "Actividad que ayuda a los jóvenes a identificar las causas de tirar basura y la perspectiva de las personas."
 summary: "Actividad que ayuda a los jóvenes a identificar las causas de tirar basura y la perspectiva de las personas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/operacion-contra-la-basura.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Hoja para registrar los datos
   - formulario
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
+  - 14
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X19"
-image_prompt: "Public park in Argentina (green grass, benches, typical trees like jacarandás or ombúes, no flags), sunny day. Four young adults ages 18-25 (two men, two women, diverse - Asian features, Afro hair, two white with different hair colors) wearing casual clothes (t-shirts, jeans, sneakers, one with cap). Conducting surveys. One pair (curly hair woman, glasses man) interviewing middle-aged woman sitting on bench. Young woman holds clipboard with survey form and pen. Young man holds tablet showing simple bar charts with icons. Background another pair doing same with older man. Trash can visible with some litter next to it. Engaged, curious, friendly expressions. Sociological, community-focused, respectful atmosphere."
+  - ptt
+activity_code: "ptt-X19"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+image_prompt: "A public park in Argentina (green grass, benches, jacarandá trees) on a sunny day. In the center-left, a trash can with some litter next to it. A clipboard with survey form lies on a bench. The left side has negative space for text. On the far right side, four tiny young adults (18-25) conduct interviews: one pair talks to a middle-aged civilian woman on a bench, another pair to an older civilian man. All seen from a distance. The sociological research environment dominates."
+tags:
+  - ptt
+  - encuesta
+  - basura
+  - espacios públicos
+  - comportamiento
+  - actitudes
 location: "Exterior"
 participants: "6-20"
 complexity_execution: 3
@@ -34,12 +52,6 @@ accessibility:
   - Todas
 activity_type:
   - Investigación
-etiquetas:
-  - encuesta
-  - basura
-  - espacios públicos
-  - comportamiento
-  - actitudes
 category:
   - Sociología
   - Medio ambiente
@@ -64,16 +76,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -100,15 +102,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

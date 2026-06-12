@@ -1,31 +1,48 @@
 ---
 title: "Necesidades y deseos"
-duration: "30 minutos"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesidades-y-deseos/"
 description: "Actividad que ayuda a los jóvenes a diferenciar entre necesidades y deseos en el consumo de plásticos."
 summary: "Actividad que ayuda a los jóvenes a diferenciar entre necesidades y deseos en el consumo de plásticos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/necesidades-y-deseos.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Ficha de observación de consumo doméstico
   - hoja de trabajo de reflexión y acción
 responsible:
   - Facilitador
-ods:
-  - 12
 sdgs:
   - 12
+  - 13
 activity_badges:
-  - planeta-sano
-activity_code: "planeta-sano-X10"
-image_prompt: "Four older teenagers ages 14-17 (two girls, two boys, diverse - Asian, Black, two white) sitting at large desk in classroom or community center in Argentina. Casual varied clothes - band t-shirt, flannel shirt, hoodie, dress. On desk large paper divided in two columns. Left column has water drop, bread, house icons. Right column has toy, decoration, gadget icons. Red arrow from right column to trash can symbol. Green arrow from left column to recycling symbol. One girl pointing at left column. One boy scratching chin thoughtfully. Small plant and glass of water on desk. Soft natural light from window. Introspective, thoughtful atmosphere."
+  - ptt
+activity_code: "ptt-X10"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+image_prompt: "A calm classroom or community center in Argentina, with a large desk in the center-left. On the desk rests a big paper divided into two columns: left side has drawings of a water drop, bread, house; right side has a toy and a gadget. A small plant and a glass of water are also on the desk. The left side is spacious for text. On the far right edge, four tiny distant older teenagers (14-17) sit around the desk, seen in profile. The environment of introspection and responsible consumption dominates."
+tags:
+  - ptt
+  - consumo de plástico
+  - necesidad
+  - deseo
+  - consumo sostenible
+  - autoconocimiento
 location: "Interior"
 participants: "6-20"
 complexity_execution: 2
@@ -35,12 +52,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Autoevaluación
-etiquetas:
-  - consumo de plástico
-  - necesidad
-  - deseo
-  - consumo sostenible
-  - autoconocimiento
 category:
   - Psicología
   - Consumo responsable
@@ -62,16 +73,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -98,15 +99,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,35 +1,54 @@
 ---
 title: "Nuestro Planeta"
-duration: "Abierta"
+duration: "abierta"
 layout: "layouts/activity.njk"
 permalink: "/activities/nuestro-planeta/"
 description: "Esta actividad permite a los participantes aprender sobre los desafíos que enfrenta nuestro planeta y cómo pueden protegerlo."
 summary: "Esta actividad permite a los participantes aprender sobre los desafíos que enfrenta nuestro planeta y cómo pueden protegerlo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/nuestro-planeta.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 materials:
   - Acceso a internet
   - Pantalla/laptop/móvil
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 13
-  - 15
 sdgs:
   - 13
   - 15
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X208"
-image_prompt: "Scouts ages 11+ (mixed genders, diverse ethnicities) watching Netflix documentary Our Planet (episode choices - Forests, Fresh Water, Coastal Seas). After viewing, discussing challenges shown - habitat loss, climate change, species decline. Brainstorming actions to protect planet. Powerful imagery, emotional engagement, inspiration to act atmosphere."
-similar_activities: "https -//www.ourplanet.com/es/"
+  - cfn
+activity_code: "cfn-X16"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 15
+rama_caminantes:
+  - 3
+  - 13
+  - 15
+rama_rovers:
+  - 13
+  - 15
+image_prompt: "An Argentine scout room, with a large TV or projector screen on the wall in the center-left. The screen shows a scene from 'Our Planet' documentary (e.g., a forest or ocean). A laptop connected to Netflix. The left side has negative space for text. On the far right side, a group of tiny scouts (11+) sit on chairs or floor, watching the screen with engaged expressions, seen from a distance. The documentary viewing environment dominates."
+similar_activities:
+  - https://www.ourplanet.com/es/
 tags:
+  - cfn
+  - Nuestro Planeta
+  - documental
+  - biodiversidad
+  - clima
+  - acción
   - Champions for Nature
 location: "Interior"
 participants: "4-25"
@@ -40,12 +59,6 @@ accessibility:
 activity_type:
   - Reflexión
   - Sensibilización
-etiquetas:
-  - Nuestro Planeta
-  - documental
-  - biodiversidad
-  - clima
-  - acción
 category:
   - Medio ambiente
   - Cine
@@ -69,16 +82,11 @@ scout_method:
 ludic_component: 1
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.ourplanet.com/es/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -105,15 +113,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

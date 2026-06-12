@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/monologos/"
 description: "Organiza un debate sobre los pros y contras del monocultivo."
 summary: "Organiza un debate sobre los pros y contras del monocultivo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/monologos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,15 +27,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X60"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Two teams sitting facing each other. One team arguing for monoculture (efficiency, higher yields). Other team arguing against (soil depletion, biodiversity loss). Leader moderating. Passionate, thoughtful debate atmosphere. Whiteboard with pros/cons columns."
+activity_code: "suelos-X39"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with two teams of scouts sitting facing each other. In the center-left, a whiteboard divided into pros and cons columns. A leader moderating. The left side has negative space for text. On the far right side, tiny older scouts (11-17) gesticulate as they debate monoculture, seen from a distance. The passionate debate environment dominates."
 tags:
+  - suelos
+  - monocultivo
+  - debate
+  - agricultura
+  - suelo
+  - pros y contras
   - Insignia de los Suelos
 location: "Interior"
 participants: "6-20"
@@ -47,12 +59,6 @@ accessibility:
 activity_type:
   - Debate
   - Diálogo
-etiquetas:
-  - monocultivo
-  - debate
-  - agricultura
-  - suelo
-  - pros y contras
 category:
   - Agricultura
   - Economía
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

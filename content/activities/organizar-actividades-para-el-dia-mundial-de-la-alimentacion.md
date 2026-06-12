@@ -3,23 +3,19 @@ title: "Organizar actividades para el Día Mundial de la Alimentación"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizar-actividades-para-el-dia-mundial-de-la-alimentacion/"
-description: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Celebra el Día Mundial de la Alimentación con actividades educativas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Alza tu voz.
-  Celebra el Día Mundial de la Alimentación con actividades educativas.
+description: "Celebra el Día Mundial de la Alimentación con actividades educativas."
+summary: "Celebra el Día Mundial de la Alimentación con actividades educativas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -32,18 +28,35 @@ competencies:
   - Liderazgo y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 2
-  - 12
 sdgs:
   - 2
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X327"
-image_prompt: "Older scouts ages 16-20 organizing World Food Day (Oct 16) activities - cooking competitions, nutrition workshops, poster contests, food waste awareness, local food tasting, panel discussions. Educating community on balanced diets, sustainable food choices, reducing food waste. Large-scale event planning, food systems education, community engagement atmosphere."
-similar_activities: "https -//www.fao.org/worldfoodday"
+  - sacc
+activity_code: "sacc-X21"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 12
+rama_caminantes:
+  - 3
+  - 2
+  - 12
+rama_rovers:
+  - 2
+  - 12
+image_prompt: "An Argentine school or community center, with a fair in the center-left: a cooking competition table with local dishes, a nutrition poster display, a food waste awareness game, and a local food tasting station. A banner 'Día Mundial de la Alimentación - 16 de octubre'. Civilian families walking. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) guide activities, one handing out samples, another explaining a poster, seen from a distance. The World Food Day event environment dominates."
+similar_activities:
+  - https://www.fao.org/worldfoodday
 tags:
+  - Alza tu voz
+  - sacc
+  - Día Mundial de la Alimentación
+  - actividades
+  - dietas balanceadas
+  - conciencia
+  - estilo de vida
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "10-50"
@@ -55,12 +68,6 @@ accessibility:
 activity_type:
   - Evento
   - Celebración
-etiquetas:
-  - Día Mundial de la Alimentación
-  - actividades
-  - dietas balanceadas
-  - conciencia
-  - estilo de vida
 category:
   - Alimentación
   - Eventos
@@ -86,16 +93,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.fao.org/worldfoodday"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -123,21 +125,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Organizar actividades para el Día Mundial de la Alimentación
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Alza tu voz.
 Celebra el Día Mundial de la Alimentación con actividades educativas.
 
 ## Desarrollo

@@ -1,24 +1,21 @@
 ---
 title: "Lentes Solares"
-duration: "30 - 45 min"
+duration: "30-45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/lentes-solares/"
 description: "Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV. Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre."
 summary: "Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV. Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/lentes-solares.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "5-22 años"
 age_group:
   - castores
   - manada
@@ -37,17 +34,30 @@ competencies:
   - Seguridad
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 3
-  - 13
 sdgs:
   - 3
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X124"
-image_prompt: "Young scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Cutting out sunglasses template from cardstock. Cutting holes for lenses. Gluing UV-protective dark plastic film over holes. Assembling front and back. Decorating with colors and stickers. Crafting, safety awareness, creative atmosphere."
+  - gosolar
+activity_code: "gosolar-X06"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 3
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 3
+  - 9
+image_prompt: "An Argentine scout room, with a table in the center-left covered with printed sunglasses templates, sheets of UV-protective dark plastic, scissors, glue, and markers. A finished pair of decorated sunglasses. The left side has space for text. On the far right side, three tiny young scouts (5-10) sit at the table, one cutting, another gluing, a third decorating, seen from a distance. The UV protection craft environment dominates."
 tags:
+  - gosolar
+  - lentes de Sol
+  - UV
+  - protección ocular
+  - manualidad
+  - seguridad solar
   - Go Solar
 location: "Interior"
 participants: "4-15"
@@ -59,12 +69,6 @@ activity_type:
   - Arte
   - Manualidad
   - Seguridad
-etiquetas:
-  - lentes de Sol
-  - UV
-  - protección ocular
-  - manualidad
-  - seguridad solar
 category:
   - Salud
   - Arte
@@ -91,16 +95,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -127,15 +121,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

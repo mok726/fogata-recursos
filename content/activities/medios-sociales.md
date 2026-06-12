@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/medios-sociales/"
 description: "Usa redes sociales para crear conciencia sobre la importancia del suelo."
 summary: "Usa redes sociales para crear conciencia sobre la importancia del suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/medios-sociales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -26,15 +25,30 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
+  - 3
+  - 13
 activity_badges:
   - suelos
-activity_code: "suelos-X72"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs (or casual clothes for photo) in Argentine home or scout room. Creating social media post about soil importance with photo of hands holding soil. Typing caption with facts (#SaveOurSoil). Phone or laptop. Another scout reading comments. Digital advocacy atmosphere."
+activity_code: "suelos-X51"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 11
+image_prompt: "An Argentine home or scout room, with a smartphone on a table in the center-left. The phone screen shows a social media post with a photo of hands holding soil and hashtags (#SaveOurSoil). A laptop with analytics open. The left side has negative space for text. On the far right side, a tiny older scout (11-17) sits at the table typing on the phone, another reading comments on a laptop, seen from a distance. The digital advocacy environment dominates."
 tags:
+  - suelos
+  - redes sociales
+  - conciencia
+  - suelo
+  - publicación
+  - educación
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -45,12 +59,6 @@ accessibility:
 activity_type:
   - Servicio a los demás
   - Comunicación
-etiquetas:
-  - redes sociales
-  - conciencia
-  - suelo
-  - publicación
-  - educación
 category:
   - Comunicación
   - Medio ambiente
@@ -72,16 +80,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

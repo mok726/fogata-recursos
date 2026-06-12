@@ -4,16 +4,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/mantenerla-limpia/"
 description: "Visita una industria local y aprende sobre el tratamiento de aguas residuales."
 summary: "Visita una industria local y aprende sobre el tratamiento de aguas residuales."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mantenerla-limpia.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
+age: "14-17 años"
 age_group:
   - caminantes
 competencies:
@@ -21,15 +22,28 @@ competencies:
   - Conciencia ambiental
   - Pensamiento crítico
 responsible:
-ods:
-  - 6
 sdgs:
   - 6
 activity_badges:
-  - del-agua
-activity_code: "del-agua-X272"
-image_prompt: "Older scouts ages 14-17 visiting local industry (factory, farm, food processing plant) that uses large amounts of water. Learning about wastewater treatment practices, where effluent goes, improvements over time. Discussing changes they would make if they owned business. Industrial water management, pollution prevention, corporate responsibility awareness atmosphere."
+  - agua
+activity_code: "agua-X25"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+rama_caminantes:
+  - 3
+  - 6
+rama_rovers:
+  - 6
+image_prompt: "An Argentine factory or farm (industrial setting), with a large water tank and pipes in the center-left. A civilian manager pointing at a treatment system. A clipboard with notes on wastewater practices. The left side has open space for text. On the far right side, a group of tiny older scouts (14-17) stand, one taking notes, another asking a question, seen from a distance. The industrial water treatment visit environment dominates."
 tags:
+  - agua
+  - aguas residuales
+  - industria
+  - tratamiento
+  - contaminación
+  - fábrica
   - Insignia del Agua
 location: "Exterior"
 participants: "5-15"
@@ -40,12 +54,6 @@ accessibility:
 activity_type:
   - Investigación
   - Visita
-etiquetas:
-  - aguas residuales
-  - industria
-  - tratamiento
-  - contaminación
-  - fábrica
 category:
   - Agua
   - Industria
@@ -66,16 +74,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -102,15 +100,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

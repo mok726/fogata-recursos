@@ -3,23 +3,19 @@ title: "Organizar un evento benéfico"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizar-un-evento-benefico/"
-description: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Organiza una carrera, concierto o bazar para recaudar fondos.
-summary: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Organiza una carrera, concierto o bazar para recaudar fondos.
+description: "Organiza una carrera, concierto o bazar para recaudar fondos."
+summary: "Organiza una carrera, concierto o bazar para recaudar fondos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizar-un-evento-benefico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,33 @@ competencies:
   - Liderazgo y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
-  - 17
 sdgs:
   - 13
   - 17
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X335"
-image_prompt: "Older scouts ages 16-20 organizing charity run/walk, concert, or bazaar. Donating proceeds to environmental projects - school garden, renewable energy, water conservation, reforestation. Large-scale event planning, fundraising, cause marketing, partnership building atmosphere."
+  - sacc
+activity_code: "sacc-X29"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 17
+rama_caminantes:
+  - 3
+  - 13
+  - 17
+rama_rovers:
+  - 13
+  - 17
+image_prompt: "An Argentine park or school field, with a start/finish line for a charity run, a stage for a concert, or tables for a bazaar in the center-left. A banner 'Carrera por el Clima' or 'Concierto Benéfico'. Civilian participants. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) manage a registration table, one handing out numbers, another pointing at the route, seen from a distance. The charity event environment dominates."
 tags:
+  - Actúa
+  - sacc
+  - evento benéfico
+  - carrera
+  - concierto
+  - bazar
+  - recaudación de fondos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "10-100"
@@ -49,12 +61,6 @@ accessibility:
 activity_type:
   - Evento
   - Recaudación
-etiquetas:
-  - evento benéfico
-  - carrera
-  - concierto
-  - bazar
-  - recaudación de fondos
 category:
   - Eventos
   - Filantropía
@@ -80,16 +86,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 4
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,21 +113,11 @@ active_component: 4
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Organizar un evento benéfico
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Actúa.
 Organiza una carrera, concierto o bazar para recaudar fondos.
 
 ## Desarrollo

@@ -3,23 +3,19 @@ title: "Organizar un bazar de intercambio de reciclaje"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizar-un-bazar-de-intercambio-de-reciclaje/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Organiza un bazar para intercambiar objetos que ya no uses.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Organiza un bazar para intercambiar objetos que ya no uses.
+description: "Organiza un bazar para intercambiar objetos que ya no uses."
+summary: "Organiza un bazar para intercambiar objetos que ya no uses."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,15 +26,29 @@ competencies:
   - Organización y liderazgo
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X372"
-image_prompt: "Older scouts ages 16-20 organizing swap meet/barter event - people bring unwanted items (clothes, books, toys, small furniture), exchange instead of buying new. Promoting circular economy, waste reduction, community building, event coordination atmosphere."
+  - sacc
+activity_code: "sacc-X66"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine community center or school, with tables in the center-left filled with items for swap: clothes, books, toys, kitchenware. A sign 'Bazar de Intercambio - Trae lo que no uses, lleva lo que necesites'. Civilian visitors browsing. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) manage a registration table, one taking an item, another giving a token, seen from a distance. The swap meet environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - bazar
+  - intercambio
+  - reciclaje
+  - reutilización
+  - objetos
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "10-50"
@@ -49,12 +59,6 @@ accessibility:
 activity_type:
   - Evento
   - Intercambio
-etiquetas:
-  - bazar
-  - intercambio
-  - reciclaje
-  - reutilización
-  - objetos
 category:
   - Eventos
   - Consumo
@@ -78,16 +82,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -115,21 +109,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Organizar un bazar de intercambio de reciclaje
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Organiza un bazar para intercambiar objetos que ya no uses.
 
 ## Desarrollo

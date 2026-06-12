@@ -3,23 +3,19 @@ title: "Organizar una colecta de donaciones"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizar-una-colecta-de-donaciones/"
-description: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Recoge ropa, libros y otros bienes para donar.
-summary: |
-  Esta actividad es parte del grupo de actividades - Actúa.
-  Recoge ropa, libros y otros bienes para donar.
+description: "Recoge ropa, libros y otros bienes para donar."
+summary: "Recoge ropa, libros y otros bienes para donar."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizar-una-colecta-de-donaciones.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,17 +24,34 @@ competencies:
   - Liderazgo y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 1
-  - 12
 sdgs:
   - 1
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X334"
-image_prompt: "Older scouts ages 16-20 organizing door-to-door collection of clothes, books, toys, non-perishable food, small furniture. Donating to charities or selling to raise funds for cause. Reducing waste while helping others. Circular economy, solidarity, logistics coordination atmosphere."
+  - sacc
+activity_code: "sacc-X28"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 1
+  - 12
+rama_caminantes:
+  - 3
+  - 1
+  - 12
+rama_rovers:
+  - 1
+  - 12
+image_prompt: "An Argentine neighborhood street, with a table in the center-left piled with donated items: clothes, books, toys, canned food. A sign 'Colecta para organizaciones benéficas'. A van or boxes for transport. The left side has open space for text. On the far right side, two tiny older scouts (16-20) stand behind the table, one taking a donation from a civilian, the other sorting items, seen from a distance. The donation collection environment dominates."
 tags:
+  - Actúa
+  - sacc
+  - colecta
+  - donaciones
+  - ropa
+  - libros
+  - alimentos
+  - organización benéfica
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "6-20"
@@ -49,13 +62,6 @@ accessibility:
 activity_type:
   - Recolección
   - Servicio
-etiquetas:
-  - colecta
-  - donaciones
-  - ropa
-  - libros
-  - alimentos
-  - organización benéfica
 category:
   - Solidaridad
   - Consumo
@@ -79,16 +85,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,21 +112,11 @@ active_component: 3
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Organizar una colecta de donaciones
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Actúa.
 Recoge ropa, libros y otros bienes para donar.
 
 ## Desarrollo

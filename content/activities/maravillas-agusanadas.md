@@ -5,16 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/maravillas-agusanadas/"
 description: "Crea una lombricera para observar cómo las lombrices interactúan con el suelo."
 summary: "Crea una lombricera para observar cómo las lombrices interactúan con el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/maravillas-agusanadas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
+age: "5-6 años"
 age_group:
   - castores
 materials:
@@ -27,15 +28,28 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X33"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Building wormery with clear container layered with soil and sand. Adding earthworms. One scout carefully placing worm, another adding soil. Container on table. Magnifying glass nearby. Excited faces watching worms burrow. Curiosity, wonder atmosphere."
+activity_code: "suelos-X12"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a table in the center-left. On the table, a clear container layered with soil and sand, with a few earthworms visible moving inside. A magnifying glass next to it. The left side has space for text. On the far right side, tiny young scouts (5-10) stand or sit around the table, one carefully placing a worm, others watching with excited faces, seen from a distance. The worm observation environment dominates."
 tags:
+  - suelos
+  - lombrices
+  - suelo
+  - observación
+  - experimento
+  - ecosistema
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-10"
@@ -46,12 +60,6 @@ accessibility:
 activity_type:
   - Aprender haciendo
   - Investigación
-etiquetas:
-  - lombrices
-  - suelo
-  - observación
-  - experimento
-  - ecosistema
 category:
   - Ciencia
   - Medio ambiente
@@ -75,16 +83,6 @@ scout_method:
 ludic_component: 4
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +109,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

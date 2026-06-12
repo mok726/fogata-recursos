@@ -5,20 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-colores-de-la-energia-solar/"
 description: "Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol."
 summary: "Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-colores-de-la-energia-solar.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "5-22 años"
 age_group:
   - castores
   - manada
@@ -39,17 +36,28 @@ competencies:
   - Experimentación Científica
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 7
-  - 13
 sdgs:
   - 7
   - 13
 activity_badges:
-  - go-solar
-activity_code: "go-solar-X120"
-image_prompt: "Group of scouts of all ages (5-21, mixed genders, diverse ethnicities) wearing scout neckerchiefs in sunny Argentine outdoor space. Plastic bottles painted different colors (white, black, red, blue, green) filled with water. Measuring temperature with thermometer before and after 30 minutes in sun. Recording results on clipboard. Comparing which bottle got hottest. Scientific investigation, data collection atmosphere."
+  - gosolar
+activity_code: "gosolar-X02"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+rama_caminantes:
+  - 3
+rama_rovers:
+  - 9
+image_prompt: "A sunny Argentine outdoor space. In the center-left, several plastic bottles painted different colors (white, black, red, blue, green) filled with water, lined up on a table. A thermometer next to each bottle. A clipboard with a recording sheet. The left side has space for text. On the far right side, three tiny scouts (5-21) stand near the table, one measuring temperature, another recording data, seen from a distance. The solar absorption experiment environment dominates."
 tags:
+  - gosolar
+  - colores
+  - absorción de calor
+  - botellas
+  - temperatura
+  - energía solar
   - Go Solar
 location: "Exterior"
 participants: "4-15"
@@ -60,12 +68,6 @@ accessibility:
 activity_type:
   - Experimentación
   - Aprender haciendo
-etiquetas:
-  - colores
-  - absorción de calor
-  - botellas
-  - temperatura
-  - energía solar
 category:
   - Ciencia
   - Física
@@ -91,16 +93,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -127,15 +119,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

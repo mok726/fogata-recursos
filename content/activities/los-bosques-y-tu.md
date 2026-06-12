@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-tu/"
 description: "Reflexiona sobre la importancia de un bosque local y escribe un reporte personal."
 summary: "Reflexiona sobre la importancia de un bosque local y escribe un reporte personal."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/los-bosques-y-tu.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -28,15 +28,28 @@ competencies:
   - Expresión escrita
 responsible:
   - Scouter
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-D06"
-image_prompt: "Young scouts ages 5-15 reflecting on local forest or natural area they know. Writing personal report - What does this forest mean to me? What activities happen there? How would I feel if it disappeared? If no nearby forest - write why you'd like a forest nearby and how it would affect your life. Reading aloud to group. Personal connection to place, environmental grief/loss awareness, emotional literacy, forest valuation atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a quiet writing corner in the center-left: a table, a notebook, and a pencil. A forest photo on the wall as inspiration. The left side has open space for text. On the far right side, a tiny young scout (5-15) sits writing, another reads a finished report aloud to a small group, seen from a distance. The personal forest reflection environment dominates."
 tags:
+  - bosques
+  - bosque local
+  - importancia personal
+  - comunidad
+  - reflexión
+  - reporte
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Escritura
   - Reflexión
-etiquetas:
-  - bosque local
-  - importancia personal
-  - comunidad
-  - reflexión
-  - reporte
 category:
   - Autoconocimiento
   - Bosque
@@ -75,16 +82,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

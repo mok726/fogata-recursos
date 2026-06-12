@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/mapa-de-contaminacion-local/"
 description: "Análisis de fuentes contaminantes."
 summary: "Análisis de fuentes contaminantes."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mapa-de-contaminacion-local.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -27,17 +27,32 @@ competencies:
   - Pensamiento sistémico
 responsible:
   - educador Scout
-ods:
-  - 11
-  - 15
 sdgs:
   - 11
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-A19"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing large map of community with natural features (river, park, trees) and human features (factory, road, farm). Identifying pollution sources - point (factory pipe) and diffuse (car exhaust, agricultural runoff). Drawing arrows connecting pollution to affected biodiversity. Systems thinking, environmental justice, spatial analysis atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 15
+rama_caminantes:
+  - 3
+  - 11
+  - 15
+rama_rovers:
+  - 11
+  - 15
+image_prompt: "An Argentine scout room, with a large hand-drawn map of the community on the wall in the center-left. The map shows a river, a factory, a road, and a park. Arrows drawn from pollution sources (factory pipe, cars) to affected biodiversity (dead fish, wilted trees). The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at an arrow, the other holding a marker, seen from a distance. The pollution mapping environment dominates."
 tags:
+  - biodiversidad
+  - contaminación
+  - mapa
+  - fuentes
+  - comunidad
+  - impacto
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-15"
@@ -48,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Mapeo
-etiquetas:
-  - contaminación
-  - mapa
-  - fuentes
-  - comunidad
-  - impacto
 category:
   - Ecología
   - Geografía
@@ -77,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -113,15 +112,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

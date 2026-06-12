@@ -1,18 +1,21 @@
 ---
 title: "Monitoreo de mis residuos"
-duration: "2 semanas (4 horas cada una)"
+duration: "4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/monitoreo-de-mis-residuos/"
 description: "Esta actividad permite a los participantes comprender la cantidad de residuos que producen y cómo pueden reducirlos."
 summary: "Esta actividad permite a los participantes comprender la cantidad de residuos que producen y cómo pueden reducirlos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/monitoreo-de-mis-residuos.png"
-# original: "False" # 
 branch:
   - Naturaleza
+age: "5-22 años"
 competencies:
   - Pensamiento Sistémico
   - Autoconciencia
@@ -20,17 +23,32 @@ competencies:
   - Resolución de problemas
 responsible:
   - Sinodal o Dirigente a cargo
-ods:
-  - 12
-  - 13
 sdgs:
   - 12
   - 13
 activity_badges:
-  - champions-for-nature
-activity_code: "champions-for-nature-X198"
-image_prompt: "Older scouts ages 11-14 (mixed genders, diverse ethnicities) at home or scout room. Tracking household waste for one week - weighing or counting trash, recycling, compost. Recording in notebook. Comparing stats with others. Visiting local waste management facility (recycling plant or landfill). Data collection, waste awareness, systems thinking atmosphere."
+  - cfn
+activity_code: "cfn-X06"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+  - 13
+rama_caminantes:
+  - 3
+  - 12
+  - 13
+rama_rovers:
+  - 12
+  - 13
+image_prompt: "An Argentine home or scout room, with a table in the center-left. A weekly waste tracking sheet with columns (plástico, papel, orgánico, vidrio) and a small scale. Notebook with notes. The left side has space for text. On the far right side, a tiny older scout (11-14) sits, weighing a bag of waste and recording, another stands watching, seen from a distance. The home waste audit environment dominates."
 tags:
+  - cfn
+  - residuos
+  - monitoreo
+  - hogar
+  - reducción
+  - estadísticas
   - Champions for Nature
 location: "Interior / Exterior"
 participants: "4-15"
@@ -41,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Auditoría
-etiquetas:
-  - residuos
-  - monitoreo
-  - hogar
-  - reducción
-  - estadísticas
 category:
   - Medio ambiente
   - Hogar
@@ -67,16 +79,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -103,15 +105,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: "Modelo de Generación Energética"
-duration: "180"
+duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-de-generacion-energetica/"
 description: "Investiga fuentes de energía en tu país y construye un modelo con materiales reciclados."
 summary: "Investiga fuentes de energía en tu país y construye un modelo con materiales reciclados."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/modelo-de-generacion-energetica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
+age: "11-17 años"
 age_group:
   - scouts
   - caminantes
@@ -33,22 +33,38 @@ competencies:
   - Conciencia ambiental
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
-  - 12
 sdgs:
   - 7
   - 12
 activity_badges:
   - energia
-activity_code: "energia-X147"
-image_prompt: "Older scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Drawing map of Argentina marking energy sources - solar in north, wind in Patagonia, hydro in Comahue, fossil fuels in various regions. Building small model of renewable energy (wind turbine, solar panel) using recycled materials. Presenting to group. Engineering, environmental awareness atmosphere."
+activity_code: "energia-X16"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+  - 12
+rama_caminantes:
+  - 3
+  - 7
+  - 12
+rama_rovers:
+  - 7
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left covered with recycled materials (cardboard, plastic bottles, glue, paint). A completed model of a wind turbine and a solar panel array. A map of Argentina with energy sources marked. The left side has negative space for text. On the far right side, three tiny older scouts (11-17) stand around the table, one pointing at the wind turbine model, another holding a painted solar panel, seen from a distance. The renewable energy model environment dominates."
 required: true
 required_for:
   - energia-X
-required_comment: "Actividad obligatoria para la categoría - FUENTES DE ENERGÍA E IMPACTOS"
+required_comment: "Actividad obligatoria para la categoría: FUENTES DE ENERGÍA E IMPACTOS"
 required_category: "FUENTES DE ENERGÍA E IMPACTOS"
 tags:
+  - FUENTES DE ENERGÍA E IMPACTOS
+  - energia
+  - mapa energético
+  - fuentes de energía
+  - modelo
+  - reciclados
+  - Argentina
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -61,12 +77,6 @@ activity_type:
   - Construcción
   - Manualidad
   - Investigación
-etiquetas:
-  - mapa energético
-  - fuentes de energía
-  - modelo
-  - reciclados
-  - Argentina
 category:
   - Energía
   - Geografía
@@ -93,16 +103,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -129,15 +129,6 @@ active_component: 2
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

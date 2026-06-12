@@ -1,21 +1,21 @@
 ---
 title: "Investigación Geotérmica"
-duration: "120"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-geotermica/"
 description: "Profundiza en cómo se usa la energía geotérmica."
 summary: "Profundiza en cómo se usa la energía geotérmica."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigacion-geotermica.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -28,15 +28,28 @@ competencies:
   - Investigación
 responsible:
   - Educador Scout/ Guiadora AGA
-ods:
-  - 7
 sdgs:
   - 7
 activity_badges:
   - energia
-activity_code: "energia-X156"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Researching geothermal systems (Iceland, New Zealand, local hot springs). Calculating potential energy savings if installed in community. Comparing costs vs benefits. Presenting findings. Technical, economic analysis atmosphere."
+activity_code: "energia-X25"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 7
+rama_caminantes:
+  - 3
+  - 7
+rama_rovers:
+  - 7
+image_prompt: "An Argentine scout room, with a table in the center-left. A laptop showing a map of geothermal potential in Argentina, a calculator, and a notebook with calculations of potential energy savings. A printed graph of costs vs benefits. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one typing, the other using the calculator, seen from a distance. The geothermal analysis environment dominates."
 tags:
+  - energia
+  - geotermia
+  - energía geotérmica
+  - ahorro
+  - cálculo
+  - potencial
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
@@ -47,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Análisis
-etiquetas:
-  - geotermia
-  - energía geotérmica
-  - ahorro
-  - cálculo
-  - potencial
 category:
   - Energía
   - Geología
@@ -73,16 +80,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -109,15 +106,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

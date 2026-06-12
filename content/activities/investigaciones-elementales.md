@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-elementales/"
 description: "Investiga los minerales presentes en el suelo y su importancia."
 summary: "Investiga los minerales presentes en el suelo y su importancia."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigaciones-elementales.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -29,15 +28,28 @@ competencies:
   - Presentación oral
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X38"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. One presenting at front with poster showing mineral icons (nitrogen, phosphorus, potassium). Periodic table on wall. Others sitting taking notes or asking questions. Laptop for research. Bright room. Academic, curious atmosphere."
+activity_code: "suelos-X17"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a periodic table poster on the wall. In the center-left, a table with a laptop and reference books open to mineral information. A poster in progress shows mineral icons (nitrogen, phosphorus, potassium). The left side has space for text. On the far right side, tiny older scouts (11-17) sit at the table, one presenting at the front, others taking notes, seen from a distance. The academic research environment dominates."
 tags:
+  - suelos
+  - minerales
+  - suelo
+  - tabla periódica
+  - energía
+  - biología
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -48,12 +60,6 @@ accessibility:
 activity_type:
   - Investigación
   - Presentación
-etiquetas:
-  - minerales
-  - suelo
-  - tabla periódica
-  - energía
-  - biología
 category:
   - Ciencia
   - Geología
@@ -76,16 +82,6 @@ scout_method:
 ludic_component: 1
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,15 +108,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

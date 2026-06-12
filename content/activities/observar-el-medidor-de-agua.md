@@ -3,23 +3,19 @@ title: "Observar el medidor de agua"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/observar-el-medidor-de-agua/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Observa el medidor de agua de tu casa y haz un plan para reducir el consumo.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Observa el medidor de agua de tu casa y haz un plan para reducir el consumo.
+description: "Observa el medidor de agua de tu casa y haz un plan para reducir el consumo."
+summary: "Observa el medidor de agua de tu casa y haz un plan para reducir el consumo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/observar-el-medidor-de-agua.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +26,33 @@ competencies:
   - Planificación y organización
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X358"
-image_prompt: "Older scouts ages 16-20 observing home water meter with adult supervision. Recording weekly consumption. Creating reduction plan (fix leaks, efficient appliances, behavioral changes). Implementing for one month. Measuring reduction. Water data literacy, consumption awareness, targeted conservation atmosphere."
+  - sacc
+activity_code: "sacc-X52"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine home, with a water meter on an exterior wall in the center-left. An adult (civilian) supervises as a scout reads the numbers and writes them on a clipboard. A notebook with a weekly consumption log. The left side has open space for text. On the far right side, a tiny older scout (16-20) stands, reading the meter, an adult behind, seen from a distance. The water meter reading environment dominates."
 tags:
+  - Ahorra Agua
+  - sacc
+  - medidor de agua
+  - consumo
+  - reducción
+  - plan
+  - monitoreo
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
@@ -51,12 +63,6 @@ accessibility:
 activity_type:
   - Investigación
   - Planificación
-etiquetas:
-  - medidor de agua
-  - consumo
-  - reducción
-  - plan
-  - monitoreo
 category:
   - Agua
   - Datos
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Observar el medidor de agua
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Agua.
 Observa el medidor de agua de tu casa y haz un plan para reducir el consumo.
 
 ## Desarrollo

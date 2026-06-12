@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/las-capas-del-bosque/"
 description: "Dibuja y etiqueta las capas verticales de un bosque (suelo, sotobosque, dosel, etc.)."
 summary: "Dibuja y etiqueta las capas verticales de un bosque (suelo, sotobosque, dosel, etc.)."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/las-capas-del-bosque.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - manada
-  - scouts
+age: "7-14 años"
 age_group:
   - manada
   - scouts
@@ -24,15 +24,28 @@ materials:
   - Lápices de colores o marcadores
 responsible:
   - Scouter o educador ambiental
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - bosques
 activity_code: "bosques-A06"
-image_prompt: "Young scouts ages 5-15 drawing forest layers - forest floor (leaf litter, fungi, decomposers), understory (shrubs, saplings, small animals), canopy (treetops, birds, insects), emergent (tallest trees). Labeling each layer. Understanding vertical stratification, habitat diversity, ecosystem structure atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 15
+rama_caminantes:
+  - 3
+  - 15
+rama_rovers:
+  - 15
+image_prompt: "An Argentine scout room, with a large diagram on the wall in the center-left showing the vertical layers of a forest: emergente, dosel, sotobosque, suelo del bosque, with animals and plants in each layer. A table with colored pencils and a blank diagram for participants to fill. The left side has negative space for text. On the far right side, two tiny young scouts (5-15) stand, one pointing at the dosel, the other at the suelo, seen from a distance. The forest layers learning environment dominates."
 tags:
+  - bosques
+  - capas del bosque
+  - suelo
+  - sotobosque
+  - dosel
+  - emergente
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
@@ -43,12 +56,6 @@ accessibility:
 activity_type:
   - Arte
   - Ciencia
-etiquetas:
-  - capas del bosque
-  - suelo
-  - sotobosque
-  - dosel
-  - emergente
 category:
   - Ecología
   - Arte
@@ -71,16 +78,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 3
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -107,15 +104,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

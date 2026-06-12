@@ -1,21 +1,21 @@
 ---
 title: "INFORME DE PRENSA"
-duration: "4-5 horas (entrevista + producción)"
+duration: "4-5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/informe-de-prensa/"
 description: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
 summary: "Entrevista a una persona indígena sobre desafíos forestales y publica un reportaje."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/informe-de-prensa.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -25,17 +25,32 @@ competencies:
   - Periodismo ético
 responsible:
   - Scouter o periodista
-ods:
-  - 10
-  - 16
 sdgs:
   - 10
   - 16
 activity_badges:
   - bosques
 activity_code: "bosques-C18"
-image_prompt: "Older scouts ages 16-21 interviewing indigenous person (Mapuche, Guaraní, Wichí, Qom) about forest challenges - land rights, deforestation, resource extraction, cultural preservation, climate impacts. Writing newspaper article or creating radio show. Getting interviewee approval, fact-checking, potentially publishing locally. Ethical journalism, indigenous rights, amplifying marginalized voices, forest justice atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 10
+  - 16
+rama_caminantes:
+  - 3
+  - 10
+  - 16
+rama_rovers:
+  - 10
+  - 16
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left showing a draft newspaper article titled 'Comunidad indígena defiende su bosque'. A notebook with interview notes and a printed photo of the interviewee (with permission). A microphone for recording. The left side has negative space for text. On the far right side, a tiny older scout (16-21) sits, typing, another reviews the interview notes, seen from a distance. The indigenous rights journalism environment dominates."
 tags:
+  - bosques
+  - entrevista
+  - indígena
+  - desafíos forestales
+  - reportaje
+  - derechos
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-6"
@@ -46,12 +61,6 @@ accessibility:
 activity_type:
   - Periodismo
   - Entrevista
-etiquetas:
-  - entrevista
-  - indígena
-  - desafíos forestales
-  - reportaje
-  - derechos
 category:
   - Periodismo
   - Derechos indígenas
@@ -72,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -108,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

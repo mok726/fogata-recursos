@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-semillas/"
 description: "Actividad lúdica sobre diversidad agrícola."
 summary: "Actividad lúdica sobre diversidad agrícola."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/juego-de-semillas.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -24,17 +24,32 @@ materials:
   - Cartulinas/tarjetas
 responsible:
   - educador Scout
-ods:
-  - 2
-  - 15
 sdgs:
   - 2
   - 15
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-C03"
-image_prompt: "Young scouts ages 5-10 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Creating matching game - cards with seeds (corn, bean, sunflower, pumpkin, quinoa) and cards with plant pictures or descriptions. Playing memory game with friends. Learning about native and traditional seeds. Agricultural biodiversity awareness through play, hands-on seed exploration atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 2
+  - 15
+rama_caminantes:
+  - 3
+  - 2
+  - 15
+rama_rovers:
+  - 2
+  - 15
+image_prompt: "An Argentine scout room, with a table in the center-left. Small bowls with different seeds (corn, bean, sunflower, quinoa, pumpkin). Matching cards with pictures of the mature plants. A memory game layout. The left side has space for text. On the far right side, two tiny young scouts (5-10) sit, one placing a seed next to a plant card, the other flipping a card, seen from a distance. The seed matching game environment dominates."
 tags:
+  - biodiversidad
+  - semillas
+  - juego de memoria
+  - diversidad agrícola
+  - maíz
+  - porotos
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
@@ -45,12 +60,6 @@ accessibility:
 activity_type:
   - Juego
   - Aprendizaje
-etiquetas:
-  - semillas
-  - juego de memoria
-  - diversidad agrícola
-  - maíz
-  - porotos
 category:
   - Agricultura
   - Juego
@@ -74,16 +83,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -110,15 +109,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

@@ -3,23 +3,19 @@ title: "Investigar la vulnerabilidad al cambio climático"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigar-la-vulnerabilidad-al-cambio-climatico/"
-description: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
-summary: |
-  Esta actividad es parte del grupo de actividades - Nuestra Alimentación.
-  Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
+description: "Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos."
+summary: "Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,17 +27,33 @@ competencies:
   - Investigación y análisis
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 13
-  - 10
 sdgs:
   - 13
   - 10
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X391"
-image_prompt: "Older scouts ages 16-20 researching climate vulnerable populations - small island nations (sea level rise), Arctic indigenous peoples (melting ice), Sub-Saharan Africa (drought), coastal communities (flooding), farmers (crop failure). Identifying ways to help - donations, advocacy, awareness. Climate justice, global inequality, solidarity and action atmosphere."
+  - sacc
+activity_code: "sacc-X85"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 13
+  - 10
+rama_caminantes:
+  - 3
+  - 13
+  - 10
+rama_rovers:
+  - 13
+  - 10
+image_prompt: "An Argentine scout room, with a world map on the wall in the center-left highlighting vulnerable regions: small island nations (sea level rise), Arctic (melting ice), Sub-Saharan Africa (drought), coastal Bangladesh (floods). A laptop with climate justice articles and a notebook with potential actions (donations, advocacy). The left side has negative space for text. On the far right side, two tiny older scouts (16-20) stand, one pointing at a Pacific island, the other reading from the laptop, seen from a distance. The climate vulnerability research environment dominates."
 tags:
+  - Nuestra Alimentación
+  - sacc
+  - vulnerabilidad
+  - cambio climático
+  - comunidades
+  - ayuda
+  - justicia
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -52,12 +64,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - vulnerabilidad
-  - cambio climático
-  - comunidades
-  - ayuda
-  - justicia
 category:
   - Clima
   - Justicia social
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 5
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -112,21 +108,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Investigar la vulnerabilidad al cambio climático
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Nuestra Alimentación.
 Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos.
 
 ## Desarrollo

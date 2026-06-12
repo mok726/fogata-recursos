@@ -9,17 +9,17 @@ description: |
 summary: |
   Esta actividad es obligatoria para la categoría Nuestro Mundo.
   Organiza un evento para elevar la conciencia pública sobre un tema local.
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/organizador-comunitario.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -31,18 +31,34 @@ competencies:
   - Liderazgo y comunicación
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 11
-  - 13
 sdgs:
   - 11
   - 13
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X338"
-image_prompt: "Older scouts ages 16-20 organizing community awareness event on local environmental issue. Setting specific goal. Creating banner and posters. Contacting local TV, radio, newspapers. Following 350.org 9-step plan. Engaging as many people as possible. Large-scale community organizing, media relations, civic leadership, impactful advocacy atmosphere."
-similar_activities: "https -//www.350.org/es/"
+  - sacc
+activity_code: "sacc-X32"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+  - 13
+rama_caminantes:
+  - 3
+  - 11
+  - 13
+rama_rovers:
+  - 11
+  - 13
+image_prompt: "An Argentine community space (plaza or school), with a banner in the center-left reading '¡Actúa por el Clima!' and a table with petitions. A microphone and speaker set up. Civilian neighbors gathering. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) stand, one speaking into the microphone, another holding a sign, a third handing out flyers, seen from a distance. The community organizing event environment dominates."
+similar_activities:
+  - https://www.350.org/es/
 tags:
+  - sacc
+  - organizador comunitario
+  - evento
+  - conciencia pública
+  - pancarta
+  - medios
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "20-200"
@@ -53,12 +69,6 @@ accessibility:
 activity_type:
   - Evento
   - Activismo
-etiquetas:
-  - organizador comunitario
-  - evento
-  - conciencia pública
-  - pancarta
-  - medios
 category:
   - Activismo
   - Comunidad
@@ -85,16 +95,11 @@ scout_method:
 ludic_component: 4
 reflective_component: 5
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
+files:
+  - filepath: "https://www.350.org/es/"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -121,15 +126,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

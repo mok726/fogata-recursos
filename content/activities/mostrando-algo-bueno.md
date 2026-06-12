@@ -5,18 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/mostrando-algo-bueno/"
 description: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
 summary: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/mostrando-algo-bueno.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
-  - caminantes
-  - rovers
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
@@ -28,15 +27,28 @@ competencies:
   - Presentación oral
 responsible:
   - Maestro/Dirigente
-ods:
-  - 15
 sdgs:
   - 15
 activity_badges:
   - suelos
-activity_code: "suelos-X62"
-image_prompt: "Older teenage scouts ages 11-17 (mixed genders, diverse ethnicities) wearing scout neckerchiefs in Argentine scout room. Presenting about Soil Organic Matter (MOS) with poster showing decomposition cycle, nutrient retention, water holding capacity. One scout explaining how compost adds MOS. Others taking notes. Whiteboard with diagrams. Educational, science-focused atmosphere."
+activity_code: "suelos-X41"
+rama_lobatos:
+  - 1
+rama_scouts:
+  - 1
+rama_caminantes:
+  - 1
+rama_rovers:
+  - 9
+  - 12
+image_prompt: "A scout meeting room in Argentina, with a poster on an easel in the center-left showing the decomposition cycle and benefits of Soil Organic Matter (MOS). A whiteboard with diagrams. The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit at tables, one presenting the poster, others taking notes, seen from a distance. The science education environment dominates."
 tags:
+  - suelos
+  - materia orgánica
+  - suelo
+  - MOS
+  - beneficios
+  - presentación
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
@@ -47,12 +59,6 @@ accessibility:
 activity_type:
   - Investigación
   - Reflexión
-etiquetas:
-  - materia orgánica
-  - suelo
-  - MOS
-  - beneficios
-  - presentación
 category:
   - Ciencia
   - Agricultura
@@ -75,16 +81,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 4
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -111,15 +107,6 @@ active_component: 1
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 

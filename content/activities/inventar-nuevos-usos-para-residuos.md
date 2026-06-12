@@ -3,23 +3,19 @@ title: "Inventar nuevos usos para residuos"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventar-nuevos-usos-para-residuos/"
-description: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas.
-summary: |
-  Esta actividad es parte del grupo de actividades - Reduce, Reusa, Recicla.
-  Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas.
+description: "Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas."
+summary: "Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/inventar-nuevos-usos-para-residuos.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - castores
-  - manada
+age: "5-10 años"
 age_group:
   - castores
   - manada
@@ -32,15 +28,29 @@ competencies:
   - Creatividad
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 12
 sdgs:
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X366"
-image_prompt: "Young scouts ages 5-10 inventing new uses for household waste - plastic bottle planters, tin can pencil holders, cardboard box castles, jar snow globes. Creating art or toys. Creative reuse, upcycling, waste reduction through imagination atmosphere."
+  - sacc
+activity_code: "sacc-X60"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 12
+rama_caminantes:
+  - 3
+  - 12
+rama_rovers:
+  - 12
+image_prompt: "An Argentine scout room, with a table in the center-left displaying upcycled creations: a plastic bottle planter, a tin can pencil holder, a cardboard box castle, a jar snow globe. Scissors, glue, and paint nearby. The left side has open space for text. On the far right side, two tiny young scouts (5-10) sit, one gluing a bottle, the other painting a cardboard box, seen from a distance. The upcycling craft environment dominates."
 tags:
+  - Reduce, Reusa, Recicla
+  - sacc
+  - residuos
+  - inventar
+  - reutilizar
+  - manualidades
+  - creatividad
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
@@ -51,12 +61,6 @@ accessibility:
 activity_type:
   - Creatividad
   - Manualidad
-etiquetas:
-  - residuos
-  - inventar
-  - reutilizar
-  - manualidades
-  - creatividad
 category:
   - Reciclaje
   - Arte
@@ -85,16 +89,6 @@ scout_method:
 ludic_component: 5
 reflective_component: 2
 active_component: 1
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -122,21 +116,11 @@ active_component: 1
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Inventar nuevos usos para residuos
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Reduce, Reusa, Recicla.
 Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas.
 
 ## Desarrollo

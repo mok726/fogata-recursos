@@ -3,22 +3,19 @@ title: "Lavar la ropa de manera eficiente"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/lavar-la-ropa-de-manera-eficiente/"
-description: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla.
-summary: |
-  Esta actividad es parte del grupo de actividades - Ahorra Agua.
-  Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla.
+description: "Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla."
+summary: "Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - scouts
+age: "11-14 años"
 age_group:
   - scouts
 materials:
@@ -30,17 +27,33 @@ competencies:
   - Hábitos sostenibles
 responsible:
   - Responsable del grupo Scout
-ods:
-  - 6
-  - 12
 sdgs:
   - 6
   - 12
 activity_badges:
-  - seguridad-alimentaria-y-cambio-climatico
-activity_code: "seguridad-alimentaria-y-cambio-climatico-X356"
-image_prompt: "Older scouts ages 11-15 adopting efficient laundry habits - full loads only, hang-drying clothes instead of dryer, using cold water when possible. Saving water, electricity, and detergent. Encouraging family and friends. Household efficiency, resource conservation, simple daily actions atmosphere."
+  - sacc
+activity_code: "sacc-X50"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 12
+rama_caminantes:
+  - 3
+  - 6
+  - 12
+rama_rovers:
+  - 6
+  - 12
+image_prompt: "An Argentine laundry room, with a washing machine in the center-left set to a full load and a clothesline outdoors visible through a window, with clothes hanging to dry. A dryer unplugged and unused. A sign 'Carga completa - Secado al sol'. The left side has open space for text. On the far right side, a tiny older scout (11-15) helps a civilian parent put clothes into the washer, another scout carries a basket to the clothesline, seen from a distance. The efficient laundry environment dominates."
 tags:
+  - Ahorra Agua
+  - sacc
+  - lavadora
+  - carga completa
+  - secado
+  - colgar
+  - ahorro
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
@@ -51,12 +64,6 @@ accessibility:
 activity_type:
   - Hábito
   - Ahorro
-etiquetas:
-  - lavadora
-  - carga completa
-  - secado
-  - colgar
-  - ahorro
 category:
   - Agua
   - Energía
@@ -79,16 +86,6 @@ scout_method:
 ludic_component: 2
 reflective_component: 3
 active_component: 2
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -116,21 +113,11 @@ active_component: 2
 #     role: "Adaptación y compilación"
 #     year: 2025
 
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
-
 ---
 
 # Lavar la ropa de manera eficiente
 
 ## Resumen
-Esta actividad es parte del grupo de actividades: Ahorra Agua.
 Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla.
 
 ## Desarrollo

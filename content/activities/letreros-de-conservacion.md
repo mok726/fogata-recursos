@@ -5,17 +5,17 @@ layout: "layouts/activity.njk"
 permalink: "/activities/letreros-de-conservacion/"
 description: "Proyecto de concienciación comunitaria."
 summary: "Proyecto de concienciación comunitaria."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
 author:
   - Mariano Cosentino
 source:
   - YUNGA
 image: "/imagenes/actividades/letreros-de-conservacion.png"
-# original: "False" # 
 branch:
   - Naturaleza
-age:
-  - caminantes
-  - rovers
+age: "14-22 años"
 age_group:
   - caminantes
   - rovers
@@ -30,17 +30,32 @@ competencies:
   - Advocacy
 responsible:
   - autoridades locales
-ods:
-  - 6
-  - 11
 sdgs:
   - 6
   - 11
 activity_badges:
   - biodiversidad
 activity_code: "biodiversidad-B11"
-image_prompt: "Older scouts ages 14-21 (mixed genders, diverse ethnicities) wearing scout neckerchiefs collaborating with local authorities. Designing conservation signs for river/stream - No dumping, Protect our watershed, Clean water for wildlife. Painting on weather-resistant boards. Installing at access points with permission. Public education, civic engagement, environmental art atmosphere."
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 6
+  - 11
+rama_caminantes:
+  - 3
+  - 6
+  - 11
+rama_rovers:
+  - 6
+  - 11
+image_prompt: "An Argentine river or stream bank, with a newly installed wooden sign in the center-left. The sign reads 'Protege nuestra cuenca' with a simple drawing of a fish. A bucket of paint and brushes on the ground. The left side has open space for text. On the far right side, two tiny older scouts (14-21) stand, one holding a paintbrush, the other pointing at the sign, seen from a distance. The conservation signage environment dominates."
 tags:
+  - biodiversidad
+  - letreros
+  - conservación
+  - río
+  - comunidad
+  - educación
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "5-15"
@@ -52,12 +67,6 @@ activity_type:
   - Arte
   - Servicio
   - Advocacy
-etiquetas:
-  - letreros
-  - conservación
-  - río
-  - comunidad
-  - educación
 category:
   - Conservación
   - Arte
@@ -83,16 +92,6 @@ scout_method:
 ludic_component: 3
 reflective_component: 4
 active_component: 3
-# ====== References and attachments ======
-#
-# files:
-#  - filepath: "/ruta/archivo1.pdf"
-#    caption: "Descripción del archivo 1"
-#    icon: "pdf"
-#  - filepath: "/ruta/archivo2.jpg"
-#    caption: "Descripción del archivo 2"
-#    icon: "imagen"
-#
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -119,15 +118,6 @@ active_component: 3
 #   - entity: "Mariano"
 #     role: "Adaptación y compilación"
 #     year: 2025
-
-# ideal_for:
-#   - romper el hielo
-#   - integración
-#   - reflexión
-
-# complexity: media
-
-##
 
 ---
 
