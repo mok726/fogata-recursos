@@ -1,0 +1,300 @@
+---
+layout: layouts/base.njk
+---
+
+<article class="activity-page">
+
+  {# ===== HERO CON IMAGEN DE FONDO ===== #}
+  {% set heroImage = image or '/imagenes/actividades/activity-card.png' %}
+  <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('{{ heroImage | url }}');">
+    <div class="activity-hero-container">
+      <div class="hero-left">
+        <div class="hero-category">{{ main_type or (etiquetas | first) or "Actividad" }}</div>
+        <h1 class="hero-title">{{ title | replace("!", "") }}</h1>
+        <p class="hero-description">{{ summary or description }}</p>
+
+<div class="hero-metrics">
+  <span><span class="material-symbols-outlined">groups</span> {{ participants or "N/E" }}</span>
+  <span><span class="material-symbols-outlined">schedule</span> {{ duration or "N/E" }}</span>
+  <span><span class="material-symbols-outlined">productivity</span> {{ age }}</span>
+</div>
+
+        <div class="hero-tags">
+          {% if etiquetas %}
+            {% for tag in etiquetas %}
+              {% set colorClass = ["green", "orange", "blue", "purple"][loop.index0 % 4] %}
+              <span class="hero-tag {{ colorClass }}">{{ tag }}</span>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  {# Contenido central (90% ancho, centrado) #}
+  <div class="activity-content-wrapper">
+
+
+  {# ===== BREADCRUMB + ACCIONES ===== #}
+  <div class="activity-toolbar">
+    <nav class="breadcrumbs">
+      <a href="{{ '/' | url }}">Inicio</a> >
+      <a href="{{ '/activities/' | url }}">Actividades</a> >
+      <a href="#">{{ main_type or (etiquetas | first) or "Actividad" }}</a> >
+      <span>{{ title }}</span>
+    </nav>
+    <div class="toolbar-actions">
+      <button class="toolbar-btn"><span class="material-symbols-outlined">bookmark_border</span> Guardar</button>
+      <button class="toolbar-btn"><span class="material-symbols-outlined">share</span> Compartir</button>
+    </div>
+  </div>
+
+  {# ===== LAYOUT DE TRES COLUMNAS ===== #}
+
+
+
+  <div class="three-columns">
+
+    {# COLUMNA IZQUIERDA #}
+
+<aside class="col-left">
+  {# 1. INFORMACIÓN RÁPIDA #}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">format_list_bulleted</span> Información rápida</h3>
+    <ul class="info-list two-columns">
+      <li><span>Tipo de actividad:</span> {{ main_type or activity_type | first or "Dinámica" }}</li>
+      <li><span>Duración:</span> {{ duration or "N/E" }}</li>
+      <li><span>Participantes:</span> {{ participants or "N/E" }}</li>
+      <li><span>Edad:</span> {{ age }}</li>
+      <li><span>Espacio:</span> {{ location }}{% if space_required %} ({{ space_required }}){% endif %}</li>
+      <li><span>Complejidad:</span> {% if complexity_execution == 1 %}Baja{% elif complexity_execution == 2 %}Media{% elif complexity_execution == 3 %}Alta{% else %}N/E{% endif %}</li>
+      <li><span>Materiales principales:</span> {{ materials | default([]) | join(", ") or special_materials | default([]) | join(", ") or "No listados" }}</li>
+    </ul>
+  </div>
+
+  {# 2. MATERIALES (si existen) #}
+  {% if (materials | default([])) | length or (special_materials | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
+    <div class="tag-list">
+      {% for item in (materials | default([])) %}
+        <span class="tag">{{ item }}</span>
+      {% endfor %}
+      {% for item in (special_materials | default([])) %}
+        <span class="tag">{{ item }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 3. COMPETENCIAS (skills) #}
+  {% if (skills | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">track_changes</span> Competencias</h3>
+    <ul class="competence-list">
+      {% for skill in skills %}
+        <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {# 4. ODS RELACIONADOS #}
+  {% if (sdgs | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">public</span> ODS relacionados</h3>
+    <div class="ods-mini-grid">
+      {% for sdg in sdgs %}
+        <a href="{{ ('/ods/' + sdg + '/') | url }}" class="ods-mini-card">ODS {{ sdg }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 5. INSIGNIAS RELACIONADAS #}
+  {% if (activity_badges | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">military_tech</span> Insignias relacionadas</h3>
+    <div class="badges-mini">
+      {% for rawBadge in activity_badges %}
+        {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+        <img src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}" alt="" class="badge-large-icon">
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 6. CRÉDITOS #}
+  {% if (author | default([])) | length or (source | default([])) | length %}
+  <div class="info-card credits">
+    <h3><span class="material-symbols-outlined">edit_note</span> Créditos</h3>
+    {% if (author | default([])) | length %}<p><strong>Autor:</strong> {{ author | join(", ") }}</p>{% endif %}
+    {% if (source | default([])) | length %}<p><strong>Fuente:</strong> {{ source | join(", ") }}</p>{% endif %}
+  </div>
+  {% endif %}
+</aside>
+
+
+
+
+    {# COLUMNA CENTRAL #}
+
+<main class="col-center">
+  <div class="content-card">
+    <h2><span class="material-symbols-outlined">push_pin</span> Introducción</h2>
+    <p>{{ summary or description }}</p>
+  </div>
+
+  {% set sections = content | splitBySections %}
+  {% if sections | length %}
+    {# Si el filtro encuentra secciones, las mostramos cada una en su card #}
+    {% for section in sections %}
+<div class="content-card">
+  <h2>
+    {% if section.heading == "Resumen" %}<span class="material-symbols-outlined">menu_book</span>
+    {% elif section.heading == "Desarrollo" %}<span class="material-symbols-outlined">build</span>
+    {% elif section.heading == "Cierre" %}<span class="material-symbols-outlined">psychology</span>
+    {% elif section.heading == "Introducción" %}<span class="material-symbols-outlined">push_pin</span>
+    {% else %}📄{% endif %}
+    {{ section.heading }}
+  </h2>
+  <div class="markdown-content">{{ section.content | safe }}</div>
+</div>
+
+    {% endfor %}
+  {% else %}
+    {# Fallback: mostrar el contenido original sin dividir (para que no desaparezca) #}
+    <div class="content-card">
+      <h2>📄 Contenido completo</h2>
+      {{ content | safe }}
+    </div>
+  {% endif %}
+</main>
+
+
+
+    {# COLUMNA DERECHA #}
+    <aside class="col-right">
+      {% if skills %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
+        <ul class="competence-list">
+          {% for skill in skills %}
+            <li>{{ skill }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if sdgs %}
+
+<div class="sidebar-card">
+  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
+  <div class="sidebar-sdgs large-ods">
+    {% for sdg in sdgs %}
+      <a href="{{ ('/ods/' + sdg + '/') | url }}">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" class="ods-icon-large">
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+      {% endif %}
+
+      {% if files %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+          {% for file in files %}
+            <a href="{{ file.filepath }}" class="download-item">
+              📄 {{ file.caption }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      {% if tags %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
+        <div class="tag-list">
+          {% for tag in tags if tag not in ['actividades', 'recurso'] %}
+            <span class="tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </aside>
+
+  </div>
+
+  {# ===== FILA INFERIOR DE INFORMACIÓN ===== #}
+  <div class="info-row">
+    {% if translation_notice and translation_notice.es %}
+    <div class="info-card translation-card">
+      <h3>🌐 Nota sobre la traducción</h3>
+      <p>{{ translation_notice.es }}</p>
+      {% if references %}
+        {% for ref in references %}
+          {% if ref.url %}<p><strong>Versión original:</strong> <a href="{{ ref.url }}">{{ ref.title }}</a></p>{% endif %}
+        {% endfor %}
+      {% endif %}
+    </div>
+    {% endif %}
+
+    {% if references %}
+    <div class="info-card">
+      <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+      <ul>
+        {% for ref in references %}
+          <li><strong>{{ ref.title }}</strong> – {% if ref.author %}{{ ref.author }}{% endif %} {% if ref.year %}({{ ref.year }}){% endif %} {% if ref.url %}<a href="{{ ref.url }}">ver documento →</a>{% endif %}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if responsible or prep_time or accessibility %}
+    <div class="info-card">
+      <h3><span class="material-symbols-outlined">groups</span> Responsable / requisitos</h3>
+      <p><strong>Responsable:</strong> {{ responsible }}</p>
+      {% if prep_time %}<p><strong>Tiempo preparación:</strong> {{ prep_time }}</p>{% endif %}
+      {% if accessibility %}<p><strong>Accesibilidad:</strong> {{ accessibility |  default([]) | join(", ") }}</p>{% endif %}
+    </div>
+    {% endif %}
+  </div>
+
+  {# ===== ACTIVIDADES RELACIONADAS ===== #}
+  {% set related = collections.activitiesSorted | reverse %}
+  <section class="related-section">
+    <h2><span class="material-symbols-outlined">stars</span> También te puede gustar</h2>
+    <div class="related-carousel">
+      {% for item in related %}
+        {% if loop.index <= 4 and item.url != page.url %}
+          {% set relatedActivity = item %}
+          {% set item = relatedActivity.data %}
+          {% set activityUrl = relatedActivity.url %}
+          <div class="related-card">
+            {% if item.image %}
+              <div class="related-img" style="background-image: url('{{ item.image | url }}');"></div>
+            {% endif %}
+            <div class="related-category">{{ item.main_type or "Actividad" }}</div>
+            <h3><a href="{{ activityUrl | url }}">{{ item.title }}</a></h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> {{ item.participants or participants }}</span>
+              <span><span class="material-symbols-outlined">schedule</span> {{ item.duration or duration }}</span>
+              <span><span class="material-symbols-outlined">cake</span> {{ item.age_group | ageRange }}</span>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+
+
+  </div>
+
+</article>
+
+

@@ -60,6 +60,32 @@ layout: layouts/base.njk
 
 <aside class="col-left">
   {# 1. INFORMACIÓN RÁPIDA #}
+  <h3>
+    <span class="material-symbols-outlined">tune</span>
+    Perfil educativo
+  </h3>
+
+
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">speed</span>
+    Complejidad
+  </h3>
+
+  <div class="metric-item">
+    <span>Ejecución</span>
+    <div class="metric-bar">
+      <div style="width: {{ (complexity_execution or 0) * 33.33 }}%"></div>
+    </div>
+  </div>
+
+  <div class="metric-item">
+    <span>Organización</span>
+    <div class="metric-bar">
+      <div style="width: {{ (complexity_organizer or 0) * 33.33 }}%"></div>
+    </div>
+  </div>
+</div>
   <div class="info-card">
     <h3><span class="material-symbols-outlined">format_list_bulleted</span> Información rápida</h3>
     <ul class="info-list two-columns">
@@ -72,7 +98,33 @@ layout: layouts/base.njk
       <li><span>Materiales principales:</span> {{ materials | default([]) | join(", ") or special_materials | default([]) | join(", ") or "No listados" }}</li>
     </ul>
   </div>
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">tune</span>
+    Perfil de actividad
+  </h3>
 
+  <div class="metric-item">
+    <span>Lúdica</span>
+    <div class="metric-bar">
+      <div style="width: {{ (ludic_component or 0) * 20 }}%"></div>
+    </div>
+  </div>
+
+  <div class="metric-item">
+    <span>Reflexiva</span>
+    <div class="metric-bar">
+      <div style="width: {{ (reflective_component or 0) * 20 }}%"></div>
+    </div>
+  </div>
+
+  <div class="metric-item">
+    <span>Activa</span>
+    <div class="metric-bar">
+      <div style="width: {{ (active_component or 0) * 20 }}%"></div>
+    </div>
+  </div>
+</div>
   {# 2. MATERIALES (si existen) #}
   {% if (materials | default([])) | length or (special_materials | default([])) | length %}
   <div class="info-card">
@@ -89,26 +141,18 @@ layout: layouts/base.njk
   {% endif %}
 
   {# 3. COMPETENCIAS (skills) #}
-  {% if (skills | default([])) | length %}
-  <div class="info-card">
-    <h3><span class="material-symbols-outlined">track_changes</span> Competencias</h3>
-    <ul class="competence-list">
-      {% for skill in skills %}
-        <li>{{ skill }}</li>
-      {% endfor %}
-    </ul>
-  </div>
-  {% endif %}
 
   {# 4. ODS RELACIONADOS #}
   {% if (sdgs | default([])) | length %}
   <div class="info-card">
-    <h3><span class="material-symbols-outlined">public</span> ODS relacionados</h3>
-    <div class="ods-mini-grid">
-      {% for sdg in sdgs %}
-        <a href="{{ ('/ods/' + sdg + '/') | url }}" class="ods-mini-card">ODS {{ sdg }}</a>
-      {% endfor %}
-    </div>
+  <div class="sidebar-sdgs large-ods">
+    {% for sdg in sdgs %}
+      <a href="{{ ('/ods/' + sdg + '/') | url }}">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" class="ods-icon-large">
+      </a>
+    {% endfor %}
+  </div>
+
   </div>
   {% endif %}
 
@@ -125,14 +169,6 @@ layout: layouts/base.njk
   </div>
   {% endif %}
 
-  {# 6. CRÉDITOS #}
-  {% if (author | default([])) | length or (source | default([])) | length %}
-  <div class="info-card credits">
-    <h3><span class="material-symbols-outlined">edit_note</span> Créditos</h3>
-    {% if (author | default([])) | length %}<p><strong>Autor:</strong> {{ author | join(", ") }}</p>{% endif %}
-    {% if (source | default([])) | length %}<p><strong>Fuente:</strong> {{ source | join(", ") }}</p>{% endif %}
-  </div>
-  {% endif %}
 </aside>
 
 
@@ -176,6 +212,80 @@ layout: layouts/base.njk
 
     {# COLUMNA DERECHA #}
     <aside class="col-right">
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">groups</span>
+    Ramas
+  </h3>
+
+  <div class="branch-grid">
+
+{% set ageGroups = age_group | default([]) %}
+    {% if "castores" in ageGroups %}
+      <img src="{{ '/imagenes/ramas/castores.png' | url }}">
+    {% endif %}
+
+    {% if "manada" in ageGroups %}
+      <img src="{{ '/imagenes/ramas/manada.png' | url }}">
+    {% endif %}
+
+    {% if "scouts" in ageGroups or "unidad-scout" in ageGroups %}
+      <img src="{{ '/imagenes/ramas/unidad-scout.png' | url }}">
+    {% endif %}
+
+    {% if "caminantes" in ageGroups %}
+      <img src="{{ '/imagenes/ramas/caminantes.png' | url }}">
+    {% endif %}
+
+    {% if "rovers" in ageGroups %}
+      <img src="{{ '/imagenes/ramas/rovers.png' | url }}">
+    {% endif %}
+
+  </div>
+</div>
+
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">trending_up</span>
+    Progresión Scout
+  </h3>
+
+  {% if rama_castores %}
+  <p><strong>Castores:</strong> {{ rama_castores | join(", ") }}</p>
+  {% endif %}
+
+  {% if rama_lobatos %}
+  <p><strong>Manada:</strong> {{ rama_lobatos | join(", ") }}</p>
+  {% endif %}
+
+  {% if rama_scouts %}
+  <p><strong>Scouts:</strong> {{ rama_scouts | join(", ") }}</p>
+  {% endif %}
+
+  {% if rama_caminantes %}
+  <p><strong>Caminantes:</strong> {{ rama_caminantes | join(", ") }}</p>
+  {% endif %}
+
+  {% if rama_rovers %}
+  <p><strong>Rovers:</strong> {{ rama_rovers | join(", ") }}</p>
+  {% endif %}
+</div>
+
+{% if scout_method %}
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">explore</span>
+    Método Scout
+  </h3>
+
+  <div class="tag-list">
+    {% for item in scout_method %}
+      <span class="tag">{{ item }}</span>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+
       {% if skills %}
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
@@ -242,6 +352,18 @@ layout: layouts/base.njk
       {% endif %}
     </div>
     {% endif %}
+
+
+  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
+  <div class="sidebar-sdgs large-ods">
+    {% for sdg in sdgs %}
+      <a href="{{ ('/ods/' + sdg + '/') | url }}">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" class="ods-icon-large">
+      </a>
+    {% endfor %}
+  </div>
+
+
 
     {% if references %}
     <div class="info-card">
