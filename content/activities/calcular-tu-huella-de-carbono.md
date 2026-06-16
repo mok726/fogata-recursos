@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/calcular-tu-huella-de-carbono.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

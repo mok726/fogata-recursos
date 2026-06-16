@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/compostaje.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "7-13"
 age_group:
   - manada
   - scouts
@@ -59,8 +59,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

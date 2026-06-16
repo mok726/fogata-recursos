@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/construir-un-modelo-de-energia-renovable.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Materiales para construir el modelo (cartón
   - papel
@@ -62,8 +63,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

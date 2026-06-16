@@ -15,11 +15,12 @@ source:
 image: "/imagenes/actividades/bioblitz.png"
 branch:
   - Naturaleza
-age: "7-17 años"
+age: "7-18"
 age_group:
   - manada
   - scouts
   - caminantes
+  - rovers
 tools:
   - Guía de especies local
 competencies:
@@ -53,8 +54,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "6-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

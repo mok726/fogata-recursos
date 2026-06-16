@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/cocina-solar.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Caja de pizza
   - Papel aluminio
@@ -58,8 +59,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "4-12"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
   - -Visual

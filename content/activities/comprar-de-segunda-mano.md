@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/comprar-de-segunda-mano.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Conciencia ambiental
   - Consumo responsable
@@ -49,8 +50,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

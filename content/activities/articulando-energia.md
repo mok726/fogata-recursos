@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/articulando-energia.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Tarjetas
   - Marcadores
@@ -52,8 +53,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Cognitiva

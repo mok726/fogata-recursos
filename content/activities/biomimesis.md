@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/biomimesis.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 responsible:
   - educador Scout
 sdgs:
@@ -50,8 +51,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

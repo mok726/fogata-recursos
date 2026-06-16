@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/compartir-y-reusar-pertenencias.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Conciencia ambiental
   - Generosidad
@@ -50,8 +51,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

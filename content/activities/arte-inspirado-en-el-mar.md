@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/arte-inspirado-en-el-mar.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-13"
 age_group:
   - castores
   - manada
@@ -55,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

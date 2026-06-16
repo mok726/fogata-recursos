@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/canta-con-el-bosque.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -55,8 +56,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior / Interior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

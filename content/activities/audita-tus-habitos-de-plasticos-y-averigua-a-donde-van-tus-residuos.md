@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "15-22"
+age_group:
+  - caminantes
+  - rovers
 materials:
   - Guía de mares limpios
 responsible:
@@ -47,8 +50,6 @@ tags:
   - reducción 50%
 location: "Ambos"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - Todas
 activity_type:

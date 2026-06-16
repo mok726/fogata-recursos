@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/campana-de-carteles.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 materials:
   - Hojas
   - materiales de artes plásticas
@@ -47,8 +49,6 @@ tags:
   - conciencia ambiental
 location: "Interior"
 participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

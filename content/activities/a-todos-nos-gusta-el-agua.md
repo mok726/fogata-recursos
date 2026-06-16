@@ -14,8 +14,9 @@ source:
 image: "/imagenes/actividades/a-todos-nos-gusta-el-agua.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 competencies:
   - Observación
@@ -50,8 +51,6 @@ tags:
   - Insignia del Agua (Obligatoria)
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

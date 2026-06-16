@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/cartas-a-autoridades.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

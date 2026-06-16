@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 tools:
   - Cuestionario de autoevaluación
 competencies:
@@ -48,8 +51,6 @@ tags:
   - cambio climático
 location: "Interior"
 participants: "6-15"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - Todas
 activity_type:

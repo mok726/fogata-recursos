@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/concurso-solar.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -56,8 +56,6 @@ tags:
   - Go Solar
 location: "Interior"
 participants: "6-30"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

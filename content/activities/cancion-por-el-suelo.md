@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/cancion-por-el-suelo.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 competencies:
   - Creatividad
@@ -49,8 +50,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior / Exterior"
 participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

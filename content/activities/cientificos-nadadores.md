@@ -14,7 +14,7 @@ source:
 image: "/imagenes/actividades/cientificos-nadadores.png"
 branch:
   - Naturaleza
-age: "14-17 años"
+age: "14-17"
 age_group:
   - caminantes
 competencies:
@@ -51,8 +51,6 @@ tags:
   - Insignia del Agua
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
   - -Visual

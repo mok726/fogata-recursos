@@ -15,10 +15,7 @@ source:
 image: "/imagenes/actividades/concurso-de-preguntas.png"
 branch:
   - Naturaleza
-age: "11-17 años"
-age_group:
-  - scouts
-  - caminantes
+age: "Scouts (11-13 años), Caminantes (14-17 años)"
 materials:
   - Lista de preguntas
   - Papel y lápices
@@ -53,8 +50,6 @@ tags:
   - Parche del Agua
 location: "Interior"
 participants: "8-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

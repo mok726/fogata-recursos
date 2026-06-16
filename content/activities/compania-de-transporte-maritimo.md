@@ -14,8 +14,9 @@ source:
 image: "/imagenes/actividades/compania-de-transporte-maritimo.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 materials:
   - Materiales para construir barcos (madera
@@ -59,8 +60,6 @@ tags:
   - Insignia del Agua
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

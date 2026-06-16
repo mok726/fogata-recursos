@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/bosques-llenos-de-vida.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -69,8 +69,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

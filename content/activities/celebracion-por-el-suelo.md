@@ -15,12 +15,7 @@ source:
 image: "/imagenes/actividades/celebracion-por-el-suelo.png"
 branch:
   - Naturaleza
-age: "5-22 años"
-age_group:
-  - castores
-  - scouts
-  - caminantes
-  - rovers
+age: "5-14, 14-22"
 materials:
   - Materiales para carteles
   - Bocadillos
@@ -60,8 +55,6 @@ tags:
   - Insignia de los Suelos
 location: "Ambos"
 participants: "10-50"
-complexity_execution: 3
-complexity_organizer: 4
 accessibility:
   - Todas
 activity_type:

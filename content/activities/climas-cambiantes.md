@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/climas-cambiantes.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -54,8 +54,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - Todas
 activity_type:

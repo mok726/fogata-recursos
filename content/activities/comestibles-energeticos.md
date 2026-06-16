@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/comestibles-energeticos.png"
 branch:
   - Naturaleza
-age: "7-22 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
   - caminantes
@@ -64,8 +65,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

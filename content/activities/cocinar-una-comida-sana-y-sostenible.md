@@ -19,9 +19,10 @@ source:
 image: "/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Ingredientes locales
   - Utensilios de cocina
@@ -59,8 +60,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (cocina)"
 participants: "4-8"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

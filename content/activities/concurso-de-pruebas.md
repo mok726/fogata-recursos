@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/concurso-de-pruebas.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 materials:
   - Lista de preguntas
@@ -48,8 +49,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

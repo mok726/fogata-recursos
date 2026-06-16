@@ -14,8 +14,9 @@ source:
 image: "/imagenes/actividades/chapoteando-en-el-agua.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 competencies:
   - Observación
@@ -51,8 +52,6 @@ tags:
   - Insignia del Agua
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

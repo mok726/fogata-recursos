@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/cientificos-incipientes.png"
 branch:
   - Naturaleza
-age: "7-22 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
   - caminantes
@@ -55,8 +56,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

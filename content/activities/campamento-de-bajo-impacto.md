@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/campamento-de-bajo-impacto.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "6-20"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

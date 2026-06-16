@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/biodiversidad-en-otros-paises.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Atlas/mapas mundiales
   - Acceso a internet
@@ -51,8 +52,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

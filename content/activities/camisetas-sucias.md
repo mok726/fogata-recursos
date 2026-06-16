@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/camisetas-sucias.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 materials:
   - Ropa con etiquetas
@@ -52,8 +53,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

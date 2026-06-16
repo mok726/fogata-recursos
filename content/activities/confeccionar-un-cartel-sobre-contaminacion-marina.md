@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "15-22"
+age_group:
+  - caminantes
+  - rovers
 materials:
   - Papel
   - lápices o plumas de dibujo
@@ -47,8 +50,6 @@ tags:
   - exhibición
 location: "Interior"
 participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

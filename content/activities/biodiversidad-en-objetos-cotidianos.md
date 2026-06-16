@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/biodiversidad-en-objetos-cotidianos.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "7-13"
 age_group:
   - manada
   - scouts
@@ -54,8 +54,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

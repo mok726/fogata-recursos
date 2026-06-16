@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/cambiando-mentes.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 materials:
   - Tu propia presentación
 responsible:
@@ -45,8 +47,6 @@ tags:
   - cambio de hábitos
 location: "Interior"
 participants: "5-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/clima-vs-tiempo.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 materials:
   - Tarjetas con frases.
@@ -49,9 +50,8 @@ tags:
   - ODS 13
 location: "Insignia del Cambio Climático"
 participants: "Interior"
-complexity_organizer: 1
 accessibility:
-  - Muy baja
+  - 1
 activity_type:
   - -Auditiva
   - -Movilidad

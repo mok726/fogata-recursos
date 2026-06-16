@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/contando-historias-el-discurso-pixar.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "14-22"
+age_group:
+  - caminantes
+  - rovers
 materials:
   - Papel y lápiz
 competencies:
@@ -47,8 +50,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

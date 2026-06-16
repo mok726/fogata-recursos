@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/comercial-de-biodiversidad.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -53,8 +53,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Visual

@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/cava-profundamente.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 tools:
   - Palas
@@ -58,8 +59,6 @@ tags:
   - Insignia de los Suelos
 location: "Exterior"
 participants: "5-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - Todas
 activity_type:

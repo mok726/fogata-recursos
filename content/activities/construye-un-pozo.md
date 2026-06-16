@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/construye-un-pozo.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -54,8 +54,6 @@ tags:
   - Parche del Agua
 location: "Interior / Exterior"
 participants: "8-30"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

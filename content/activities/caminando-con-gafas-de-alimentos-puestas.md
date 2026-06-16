@@ -15,7 +15,11 @@ source:
 image: "/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-22"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
 competencies:
   - Pensamiento Sistémico
   - Pensamiento Crítico
@@ -52,8 +56,6 @@ tags:
   - Champions for Nature
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

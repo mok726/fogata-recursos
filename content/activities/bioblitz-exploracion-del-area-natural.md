@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/bioblitz-exploracion-del-area-natural.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Cuerda o aro de hula hula
   - Lupas
@@ -52,8 +55,6 @@ tags:
   - Champions for Nature
 location: "Exterior"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

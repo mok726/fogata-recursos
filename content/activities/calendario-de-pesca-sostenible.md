@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/calendario-de-pesca-sostenible.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -58,8 +58,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

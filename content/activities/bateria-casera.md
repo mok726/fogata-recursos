@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/bateria-casera.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Patata
   - Clavo galvanizado
@@ -57,8 +58,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
   - -Visual
