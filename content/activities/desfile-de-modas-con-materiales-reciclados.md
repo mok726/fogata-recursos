@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Materiales reciclados (botellas
   - papel
@@ -58,8 +59,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

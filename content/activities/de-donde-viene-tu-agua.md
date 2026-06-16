@@ -14,9 +14,10 @@ source:
 image: "/imagenes/actividades/de-donde-viene-tu-agua.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Investigación
   - Conciencia ambiental
@@ -46,8 +47,6 @@ tags:
   - Insignia del Agua (Obligatoria)
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

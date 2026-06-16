@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-agua-como-un-derecho-humano.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -50,8 +50,6 @@ tags:
   - Parche del Agua
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

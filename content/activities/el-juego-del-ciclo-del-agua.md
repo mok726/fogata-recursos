@@ -14,8 +14,9 @@ source:
 image: "/imagenes/actividades/el-juego-del-ciclo-del-agua.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 materials:
   - Cartas con partes del ciclo del agua
@@ -52,8 +53,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/dieta-energetica.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "2-10"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

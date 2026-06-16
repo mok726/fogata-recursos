@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/energia-renovable-comunitaria.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Datos locales de energía
 competencies:
@@ -55,8 +56,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

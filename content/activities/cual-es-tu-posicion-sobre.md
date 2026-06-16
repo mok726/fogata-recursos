@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/cual-es-tu-posicion-sobre.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "14-22"
+age_group:
+  - caminantes
+  - rovers
 competencies:
   - Pensamiento Sistémico
   - Autoconciencia
@@ -40,7 +43,7 @@ rama_caminantes:
 rama_rovers:
   - 12
   - 13
-image_prompt: "An Argentine scout room, with a line of tape on the floor in the center-left. One end labeled 'Muy de acuerdo', the other 'Muy en desacuerdo'. The left side has negative space for text. On the far right side, a group of tiny older youths (15+) stand along the line, one at the 'de acuerdo' end, another in the middle, a third at the 'desacuerdo' end. Seen from a distance. The values line environment dominates."
+image_prompt: "An Argentine scout room, with a line of tape on the floor in the center-left. One end labeled 'Muy de acuerdo', the other 'Muy en desacuerdo'. The left side has negative space for text. On the far right side, a group of tiny older youths (15-22) stand along the line, one at the 'de acuerdo' end, another in the middle, a third at the 'desacuerdo' end. Seen from a distance. The values line environment dominates."
 tags:
   - cfn
   - actitudes
@@ -51,8 +54,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Movilidad

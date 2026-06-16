@@ -14,8 +14,9 @@ source:
 image: "/imagenes/actividades/dibujando-el-agua.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 competencies:
   - Creatividad
@@ -46,8 +47,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/deja-la-botella.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Visual

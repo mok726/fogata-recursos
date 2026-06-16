@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "14-22"
+age_group:
+  - caminantes
+  - rovers
 materials:
   - Aplicación iNaturalist
   - Dispositivo móvil
@@ -51,8 +54,6 @@ tags:
   - Champions for Nature
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

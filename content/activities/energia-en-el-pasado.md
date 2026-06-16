@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/energia-en-el-pasado.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 competencies:
   - Empatía intergeneracional
   - Análisis histórico
@@ -49,8 +50,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

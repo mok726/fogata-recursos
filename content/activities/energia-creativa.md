@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/energia-creativa.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -46,8 +46,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 1
 accessibility:
   - -Visual
   - -Cognitiva

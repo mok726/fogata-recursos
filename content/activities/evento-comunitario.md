@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/evento-comunitario.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "30-200"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

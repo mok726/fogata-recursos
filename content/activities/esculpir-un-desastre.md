@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/esculpir-un-desastre.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -60,8 +60,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-10"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
   - -Visual

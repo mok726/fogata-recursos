@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/echando-raices.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 materials:
   - Plantas o semillas
@@ -59,8 +60,6 @@ tags:
   - Insignia de los Suelos
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

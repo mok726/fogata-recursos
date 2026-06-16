@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/dia-internacional-de-la-biodiversidad.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -60,8 +60,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "20-100"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

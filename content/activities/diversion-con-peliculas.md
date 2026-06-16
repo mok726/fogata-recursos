@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/diversion-con-peliculas.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -54,8 +54,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "6-25"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

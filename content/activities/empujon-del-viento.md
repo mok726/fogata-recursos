@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/empujon-del-viento.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -57,8 +57,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

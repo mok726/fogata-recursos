@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-barquito-chiquitito.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -51,8 +51,6 @@ tags:
   - Parche del Agua
 location: "Interior / Exterior"
 participants: "6-25"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

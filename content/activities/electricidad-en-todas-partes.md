@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/electricidad-en-todas-partes.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 materials:
   - Papel
@@ -56,8 +57,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior (hogar)"
 participants: "2-10"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

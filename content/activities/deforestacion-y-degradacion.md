@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/deforestacion-y-degradacion.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -54,8 +54,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

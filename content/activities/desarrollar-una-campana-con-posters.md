@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/desarrollar-una-campana-con-posters.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Papel y lápiz
   - Materiales para hacer posters (cartulina
@@ -62,8 +63,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

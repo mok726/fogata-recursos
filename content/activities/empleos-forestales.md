@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/empleos-forestales.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -49,8 +50,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Movilidad

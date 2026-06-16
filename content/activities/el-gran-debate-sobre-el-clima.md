@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -54,8 +54,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "8-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Cognitiva

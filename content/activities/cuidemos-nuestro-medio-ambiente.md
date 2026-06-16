@@ -19,9 +19,10 @@ source:
 image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Papel y lápiz para hacer la lista
 competencies:
@@ -59,8 +60,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

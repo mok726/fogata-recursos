@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Aplicación Seek de iNaturalist
   - Dispositivo móvil
@@ -51,8 +54,6 @@ tags:
   - Champions for Nature
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

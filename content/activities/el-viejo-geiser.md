@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/el-viejo-geiser.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Fotos/imágenes
   - Cartulina
@@ -55,8 +56,6 @@ tags:
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

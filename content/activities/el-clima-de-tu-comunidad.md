@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-clima-de-tu-comunidad.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -51,8 +51,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
 activity_type:

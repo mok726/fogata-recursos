@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/corre-que-te-alcanzo.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 materials:
   - Hula hulas
@@ -51,8 +52,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Exterior / Interior"
 participants: "8-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

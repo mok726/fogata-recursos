@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-destino-de-los-bosques.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -54,8 +54,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "8-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

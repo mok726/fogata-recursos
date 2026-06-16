@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/crear-un-diario-verde.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

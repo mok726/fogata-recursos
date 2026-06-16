@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/cuando-se-degradan.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 responsible:
   - Facilitador
 sdgs:
@@ -44,8 +46,6 @@ tags:
   - gráfico de observación
 location: "Exterior"
 participants: "5-20"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - Todas
 activity_type:

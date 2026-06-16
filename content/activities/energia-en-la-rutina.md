@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/energia-en-la-rutina.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "7-13"
 age_group:
   - manada
   - scouts
@@ -55,8 +55,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - -Cognitiva
 activity_type:

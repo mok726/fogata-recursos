@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/efecto-invernadero.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - termómetros
   - Frasco de vidrio
@@ -52,8 +53,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

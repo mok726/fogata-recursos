@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/especie-amenazada-local.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Datos de conservación local
   - Materiales para presentación
@@ -54,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Visual

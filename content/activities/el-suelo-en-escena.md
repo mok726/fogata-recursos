@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/el-suelo-en-escena.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 competencies:
   - Creatividad
@@ -49,8 +50,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior / Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Visual

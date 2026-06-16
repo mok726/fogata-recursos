@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/el-arte-de-reutilizar.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 materials:
   - Artículos descartables (latas
   - plástico
@@ -47,8 +49,6 @@ tags:
   - redes sociales
 location: "Exterior"
 participants: "5-25"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
   - -Visual

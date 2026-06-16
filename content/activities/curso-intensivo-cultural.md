@@ -14,7 +14,7 @@ source:
 image: "/imagenes/actividades/curso-intensivo-cultural.png"
 branch:
   - Naturaleza
-age: "14-17 años"
+age: "14-17"
 age_group:
   - caminantes
 responsible:
@@ -42,8 +42,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

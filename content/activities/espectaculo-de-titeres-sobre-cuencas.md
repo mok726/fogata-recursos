@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -60,8 +60,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

@@ -59,8 +59,6 @@ tags:
   - Insignia de Polinizadores
 location: "Exterior (balcón)"
 participants: "2-6"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

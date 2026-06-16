@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/desafio-sin-electronicos.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 competencies:
   - Autodisciplina
   - Conciencia digital
@@ -55,8 +56,6 @@ tags:
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "2-10"
-complexity_execution: 3
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

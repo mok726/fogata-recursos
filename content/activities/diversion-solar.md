@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/diversion-solar.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -55,8 +55,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "4-12"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:
