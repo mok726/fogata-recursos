@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/pasteles-de-lodo.png"
 branch:
   - Naturaleza
-age: "5-6 años"
+age: "5-10 años"
 age_group:
   - castores
+  - manada
 materials:
   - Tierra
   - Agua
@@ -52,8 +53,6 @@ tags:
   - Insignia de los Suelos
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

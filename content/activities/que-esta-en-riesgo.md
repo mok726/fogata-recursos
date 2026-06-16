@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/que-esta-en-riesgo.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Clips para papel
   - Tarjetas de especies invasoras y nativas
@@ -49,8 +52,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

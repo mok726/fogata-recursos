@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/piramide-de-alimentos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "14-22"
+age_group:
+  - caminantes
+  - rovers
 materials:
   - Tabla para comida semanal
   - Pirámide de alimentos
@@ -53,8 +56,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

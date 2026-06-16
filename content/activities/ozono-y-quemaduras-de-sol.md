@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/ozono-y-quemaduras-de-sol.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -52,8 +52,6 @@ tags:
   - Go Solar
 location: "Interior"
 participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - -Cognitiva
 activity_type:

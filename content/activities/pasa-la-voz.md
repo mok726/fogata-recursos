@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/pasa-la-voz.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -60,8 +60,6 @@ tags:
   - Parche del Agua
 location: "Interior / Exterior"
 participants: "10-50"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

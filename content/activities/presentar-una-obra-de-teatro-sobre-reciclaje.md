@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Conciencia ambiental
   - Creatividad y comunicación
@@ -49,8 +50,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Movilidad

@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/plantulas.png"
 branch:
   - Naturaleza
-age: "7-22 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
   - caminantes
@@ -56,8 +57,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

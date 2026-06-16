@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/limpieza-de-playa.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Bolsas de basura
   - Guantes resistentes
@@ -55,8 +56,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "10-30"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

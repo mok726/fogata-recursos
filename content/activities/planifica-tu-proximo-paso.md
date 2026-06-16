@@ -15,7 +15,11 @@ source:
 image: "/imagenes/actividades/planifica-tu-proximo-paso.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-22 años"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
 materials:
   - Pautas de proyectos de servicio comunitario
 competencies:
@@ -52,8 +56,6 @@ tags:
   - Champions for Nature
 location: "Ambos"
 participants: "4-30"
-complexity_execution: 3
-complexity_organizer: 4
 accessibility:
   - -Cognitiva
 activity_type:

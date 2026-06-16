@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/promover-rutas-seguras-para-bicicletas.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -57,8 +57,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Auditiva
   - -Visual

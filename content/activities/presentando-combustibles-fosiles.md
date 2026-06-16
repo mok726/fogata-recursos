@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/presentando-combustibles-fosiles.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Materiales para maqueta
   - Marcadores
@@ -59,8 +60,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

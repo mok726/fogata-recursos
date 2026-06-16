@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/quien-se-come-a-quien.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -56,8 +57,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

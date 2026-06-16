@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/plantar-hierbas-y-vegetales-locales.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Semillas de hierbas o vegetales
   - Macetas o espacio en el jardín
@@ -58,8 +59,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

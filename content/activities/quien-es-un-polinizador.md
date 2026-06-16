@@ -50,8 +50,6 @@ tags:
   - Insignia de Polinizadores
 location: "Interior"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

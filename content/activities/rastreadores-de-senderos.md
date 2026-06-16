@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/rastreadores-de-senderos.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -49,8 +49,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior (bosque)"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:
