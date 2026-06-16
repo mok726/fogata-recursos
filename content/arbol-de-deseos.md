@@ -1,0 +1,114 @@
+---
+title: "ÁRBOL DE DESEOS"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/arbol-de-deseos/"
+description: "Crea un collage con deseos escritos en materiales naturales del bosque."
+summary: "Crea un collage con deseos escritos en materiales naturales del bosque."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
+author:
+  - Mariano Cosentino
+source:
+  - YUNGA
+image: "/imagenes/actividades/arbol-de-deseos.png"
+branch:
+  - Naturaleza
+age: "5-13"
+age_group:
+  - castores
+  - manada
+  - scouts
+competencies:
+  - Creatividad
+  - Reflexión grupal
+  - Conciencia ecológica
+responsible:
+  - Scouter o líder artístico
+sdgs:
+  - 11
+activity_badges:
+  - bosques
+activity_code: "bosques-C05"
+rama_lobatos:
+  - 9
+rama_scouts:
+  - 11
+rama_caminantes:
+  - 3
+  - 11
+rama_rovers:
+  - 11
+image_prompt: "An Argentine scout room, with a large collage on the wall in the center-left shaped like a tree. The tree is made of leaves and bark pieces, and each leaf has a handwritten wish (e.g., 'Que los bosques duren para siempre', 'Paz para el mundo'). A table with more natural materials and markers. The left side has open space for text. On the far right side, two tiny scouts (5-15) stand, one attaching a wish leaf, the other reading a wish, seen from a distance. The tree of wishes environment dominates."
+similar_activities:
+  - world.Creatinglargetreecollage.Optional:photographingandsendingtoFAOYungaprogram.Groupreflectiononsharedwishes.Creativeexpression
+tags:
+  - bosques
+  - árbol de deseos
+  - collage
+  - naturaleza
+  - deseos
+  - creatividad
+  - Insignia de los Bosques
+location: "Interior / Exterior"
+participants: "4-15"
+accessibility:
+  - -Visual
+activity_type:
+  - Arte
+  - Reflexión
+category:
+  - Arte
+  - Bienestar
+  - Naturaleza
+skills:
+  - Creatividad
+  - Reflexión grupal
+  - Conciencia ecológica
+main_type: "community"
+space_required: "collective hopes"
+special_materials:
+  - forest connection
+prep_time: "art therapy atmosphere.'"
+scout_method:
+  - Arte
+# ===== INFORMACIÓN DE FOOTER =====
+# references:
+#   - title: "Pollinators Challenge Badge"
+#     author: "FAO"
+#     year: 2021
+#     series: "YUNGA Learning and Action Series – Challenge badges"
+#     issue: 12
+#     location: "Rome"
+#     url: "https://doi.org/10.4060/cb4803en"
+#
+# translation_notice:
+#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
+#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+#
+# license:
+#   name: "Creative Commons BY-NC-SA 3.0 IGO"
+#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+#
+# attributions:
+#   - entity: "FAO"
+#     role: "Concepto original"
+#     year: 2021
+#   - entity: "Mariano"
+#     role: "Adaptación y compilación"
+#     year: 2025
+
+---
+
+# ÁRBOL DE DESEOS
+
+## Resumen
+Crea un collage con deseos escritos en materiales naturales del bosque.
+
+## Desarrollo
+Recolecten materiales del bosque que se pueden usar como papel (por ej. **corteza**, hojas, etc.). Escriban deseos sobre estos y luego úsenlos para crear un gran collage de un árbol - o un grupo de árboles, si tienen suficientes deseos. Sus deseos pueden ser para ustedes mismos, para sus amigos y sus familias o para todo el mundo. ¡Asegúrense de enviar fotografías de sus árboles de deseos a **yunga@fao.org**!
+
+## Cierre
+¿Qué deseos compartidos surgieron en el grupo? ¿Por qué?
