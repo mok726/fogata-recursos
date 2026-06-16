@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/necesidades-y-deseos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 materials:
   - Ficha de observación de consumo doméstico
   - hoja de trabajo de reflexión y acción
@@ -45,8 +47,6 @@ tags:
   - autoconocimiento
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - Todas
 activity_type:

@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/los-bosques-y-tu.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -53,8 +54,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

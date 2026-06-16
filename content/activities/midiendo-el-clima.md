@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/midiendo-el-clima.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -54,8 +54,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

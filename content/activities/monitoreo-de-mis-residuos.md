@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/monitoreo-de-mis-residuos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 competencies:
   - Pensamiento Sistémico
   - Autoconciencia
@@ -52,8 +54,6 @@ tags:
   - Champions for Nature
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

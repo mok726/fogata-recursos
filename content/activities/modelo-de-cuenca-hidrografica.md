@@ -15,11 +15,12 @@ source:
 image: "/imagenes/actividades/modelo-de-cuenca-hidrografica.png"
 branch:
   - Naturaleza
-age: "7-17 años"
+age: "7-18"
 age_group:
   - manada
   - scouts
   - caminantes
+  - rovers
 materials:
   - Tierra/corteza/piedras
   - Materiales reciclados
@@ -61,8 +62,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

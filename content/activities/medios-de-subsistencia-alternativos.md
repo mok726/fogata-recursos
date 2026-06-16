@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/medios-de-subsistencia-alternativos.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -60,8 +60,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

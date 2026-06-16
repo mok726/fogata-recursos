@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/maravillas-agusanadas.png"
 branch:
   - Naturaleza
-age: "5-6 años"
+age: "5-10 años"
 age_group:
   - castores
+  - manada
 materials:
   - Contenedor transparente
   - Tierra
@@ -53,8 +54,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - Todas
 activity_type:

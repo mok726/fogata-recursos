@@ -15,7 +15,11 @@ source:
 image: "/imagenes/actividades/nuestro-planeta.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-22"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
 materials:
   - Acceso a internet
   - Pantalla/laptop/móvil
@@ -52,8 +56,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-25"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

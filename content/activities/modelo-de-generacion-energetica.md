@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/modelo-de-generacion-energetica.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Materiales reciclados (cartón
   - botellas)
@@ -68,8 +69,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
   - -Visual

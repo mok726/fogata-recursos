@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Versión online o impresa de la huella ecológica
   - Materiales de lectura
@@ -53,8 +56,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

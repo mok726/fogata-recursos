@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/operacion-contra-la-basura.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "15-22"
+age_group:
+  - caminantes
+  - rovers
 materials:
   - Hoja para registrar los datos
   - formulario
@@ -46,8 +49,6 @@ tags:
   - actitudes
 location: "Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - Todas
 activity_type:

@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/observar-el-medidor-de-electricidad.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 tools:
   - Medidor de electricidad (supervisado por un adulto)
 competencies:
@@ -55,8 +56,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

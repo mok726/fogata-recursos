@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/mi-huella-de-carbono.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -54,8 +54,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Movilidad

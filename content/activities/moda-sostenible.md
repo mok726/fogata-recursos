@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/moda-sostenible.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Telas/fibras naturales
   - Materiales reciclados
@@ -50,8 +51,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

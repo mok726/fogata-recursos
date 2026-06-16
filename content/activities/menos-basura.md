@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/menos-basura.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 materials:
   - Guantes
@@ -55,8 +56,6 @@ tags:
   - Insignia de los Suelos
 location: "Exterior"
 participants: "5-30"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

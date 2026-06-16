@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -52,8 +52,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "10-50"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

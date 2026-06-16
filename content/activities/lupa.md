@@ -14,9 +14,10 @@ source:
 image: "/imagenes/actividades/lupa.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Investigación científica
   - Conciencia ambiental
@@ -50,8 +51,6 @@ tags:
   - Insignia del Agua
 location: "Exterior / Interior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

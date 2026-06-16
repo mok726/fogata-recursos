@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 materials:
   - Tapas de botellas de plástico
   - cartones usados
@@ -53,8 +55,6 @@ tags:
   - manualidades
 location: "Ambos"
 participants: "5-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/macetas-de-botellas.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 materials:
   - Botella de agua de plástico
   - tijeras
@@ -52,8 +54,6 @@ tags:
   - plantas
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

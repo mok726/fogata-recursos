@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/minimo-impacto-a-la-naturaleza.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 materials:
   - Tarjetas 'Un mundo sin selva'
 competencies:
@@ -48,8 +50,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

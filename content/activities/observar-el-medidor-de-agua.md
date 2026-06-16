@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/observar-el-medidor-de-agua.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

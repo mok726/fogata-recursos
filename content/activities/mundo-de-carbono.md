@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/mundo-de-carbono.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 competencies:
   - Observación
   - Análisis crítico
@@ -53,8 +54,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

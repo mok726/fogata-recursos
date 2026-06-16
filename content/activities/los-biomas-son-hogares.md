@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/los-biomas-son-hogares.png"
 branch:
   - Naturaleza
-age: "7-22 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
   - caminantes
@@ -66,8 +67,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

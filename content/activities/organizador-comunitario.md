@@ -19,7 +19,7 @@ source:
 image: "/imagenes/actividades/organizador-comunitario.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -62,8 +62,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "20-200"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

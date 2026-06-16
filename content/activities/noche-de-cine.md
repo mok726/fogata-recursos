@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/noche-de-cine.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 responsible:
   - Facilitador
 sdgs:
@@ -44,8 +46,6 @@ tags:
   - debate
 location: "Interior"
 participants: "8-25"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:
