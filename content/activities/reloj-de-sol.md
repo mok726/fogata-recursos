@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/reloj-de-sol.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-22"
 age_group:
   - castores
   - manada
@@ -65,8 +65,6 @@ tags:
   - Go Solar
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

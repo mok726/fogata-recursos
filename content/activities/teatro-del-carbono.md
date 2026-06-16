@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/teatro-del-carbono.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Disfraces (opcional)
   - Cámara (opcional)
@@ -56,8 +57,6 @@ tags:
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Visual

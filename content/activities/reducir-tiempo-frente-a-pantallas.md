@@ -53,8 +53,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "2-10"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

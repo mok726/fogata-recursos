@@ -15,10 +15,13 @@ source:
 image: "/imagenes/actividades/suelos-calidos.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
 materials:
   - Moldes
   - tierra
@@ -56,8 +59,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

@@ -15,10 +15,7 @@ source:
 image: "/imagenes/actividades/sigue-el-flujo.png"
 branch:
   - Naturaleza
-age: "11-17 años"
-age_group:
-  - scouts
-  - caminantes
+age: "Scouts (11-13 años), Caminantes (14-17 años)"
 materials:
   - Papel
   - Lápices de colores
@@ -54,8 +51,6 @@ tags:
   - Parche del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

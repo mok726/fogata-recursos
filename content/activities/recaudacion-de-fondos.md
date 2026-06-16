@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/recaudacion-de-fondos.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -51,8 +51,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "10-50"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

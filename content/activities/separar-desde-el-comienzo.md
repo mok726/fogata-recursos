@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/separar-desde-el-comienzo.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 responsible:
   - Facilitador
 sdgs:
@@ -44,8 +46,6 @@ tags:
   - separación
 location: "Ambos"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - Todas
 activity_type:

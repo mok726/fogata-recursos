@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/reciclaje-de-aguas-grises.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-12"
-complexity_execution: 4
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

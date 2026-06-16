@@ -14,9 +14,10 @@ source:
 image: "/imagenes/actividades/saca-el-bardo-que-hay-en-ti.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Materiales para la obra de teatro (disfraces
   - accesorios
@@ -51,8 +52,6 @@ tags:
   - Insignia del Agua
 location: "Interior / Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Movilidad

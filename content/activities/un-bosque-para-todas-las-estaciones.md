@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -55,8 +55,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

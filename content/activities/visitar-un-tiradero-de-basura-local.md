@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/visitar-un-tiradero-de-basura-local.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -54,8 +54,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "6-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

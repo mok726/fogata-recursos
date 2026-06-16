@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/regular-el-uso-de-plasticos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "15-22"
+age_group:
+  - caminantes
+  - rovers
 responsible:
   - Facilitador
 sdgs:
@@ -46,8 +49,6 @@ tags:
   - parlamento
 location: "Interior"
 participants: "8-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

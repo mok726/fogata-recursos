@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/yoga-animal.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -55,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "6-25"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

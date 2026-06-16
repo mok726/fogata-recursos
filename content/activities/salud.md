@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/salud.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Parche del Agua
 location: "Interior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
 activity_type:

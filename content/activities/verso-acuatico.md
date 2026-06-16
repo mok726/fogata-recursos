@@ -14,9 +14,10 @@ source:
 image: "/imagenes/actividades/verso-acuatico.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Creatividad
   - Comunicación
@@ -48,8 +49,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - -Auditiva
   - -Visual

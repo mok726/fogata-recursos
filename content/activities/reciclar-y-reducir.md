@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/reciclar-y-reducir.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Tarjetas de reciclaje
   - Cajas o superficies para clasificar
@@ -54,8 +57,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

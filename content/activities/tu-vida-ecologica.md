@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/tu-vida-ecologica.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Gráfico de la casa sostenible
   - Rotuladores y papel
@@ -55,8 +58,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "4-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

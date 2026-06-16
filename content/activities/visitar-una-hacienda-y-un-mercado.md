@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/visitar-una-hacienda-y-un-mercado.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Conciencia ambiental
   - Aprendizaje práctico
@@ -53,8 +54,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

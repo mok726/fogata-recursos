@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/identificando-alternativas-a-los-plasticos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 materials:
   - Pizarra y tiza
 competencies:
@@ -47,8 +49,6 @@ tags:
   - consumo sostenible
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - Todas
 activity_type:

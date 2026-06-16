@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/tour-guiado-de-cuenca.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 competencies:
   - Liderazgo
   - Comunicación
@@ -53,8 +54,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "5-20"
-complexity_execution: 3
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/reducir-reusar-reciclar.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -53,8 +53,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

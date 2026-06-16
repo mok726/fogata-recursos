@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/tu-deporte.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -51,8 +52,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior (bosque)"
 participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

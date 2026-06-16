@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Recipientes para recolectar agua
 competencies:
@@ -55,8 +56,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Exterior / Interior"
 participants: "4-8"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

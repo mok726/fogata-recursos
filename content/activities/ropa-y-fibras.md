@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/ropa-y-fibras.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Etiquetas de ropa
   - Lista de materiales
@@ -52,8 +53,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

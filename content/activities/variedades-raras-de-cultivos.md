@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/variedades-raras-de-cultivos.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -53,8 +53,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-12"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/supermercado-biodiverso.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 competencies:
   - Observación
   - Análisis comparativo
@@ -53,8 +54,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

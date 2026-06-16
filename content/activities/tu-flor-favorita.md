@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/tu-flor-favorita.png"
 branch:
   - Naturaleza
-age: "5-6 años"
+age: "5-10 años"
 age_group:
   - castores
+  - manada
 materials:
   - Libros/recursos en línea
   - Papel
@@ -52,8 +53,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - Todas
 activity_type:

@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/verde-o-rojo.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Tarjetas verdes y rojas
 competencies:
@@ -53,8 +56,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "6-25"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

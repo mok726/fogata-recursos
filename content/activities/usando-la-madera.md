@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/usando-la-madera.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -52,8 +53,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior (hogar)"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

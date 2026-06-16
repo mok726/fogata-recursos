@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/resolucion-de-plastico.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 responsible:
   - Facilitador
 sdgs:
@@ -44,8 +46,6 @@ tags:
   - compromiso
 location: "Ambos"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 1
 accessibility:
   - Todas
 activity_type:

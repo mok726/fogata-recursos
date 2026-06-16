@@ -53,8 +53,6 @@ tags:
   - Insignia de Polinizadores
 location: "Exterior"
 participants: "2-8"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

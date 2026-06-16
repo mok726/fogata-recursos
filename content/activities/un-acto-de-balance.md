@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/un-acto-de-balance.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "7-13"
 age_group:
   - manada
   - scouts
@@ -52,8 +52,6 @@ tags:
   - Parche del Agua
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Movilidad
 activity_type:

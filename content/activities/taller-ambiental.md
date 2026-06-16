@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/taller-ambiental.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "10-30"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
   - -Cognitiva

@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/saberes-indigenas.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 competencies:
   - Respeto intercultural
   - Documentación
@@ -48,8 +49,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "6-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
 activity_type:
