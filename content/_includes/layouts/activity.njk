@@ -416,7 +416,7 @@ layout: layouts/base.njk
 
 {% if rama_lobatos %}
 <div class="rastros-icons">
-
+<!--
 {% for numero in rama_lobatos %}
 
   {% for comp in competenciasData.manada %}
@@ -425,13 +425,41 @@ layout: layouts/base.njk
       <img
         src="{{ ('/imagenes/competencias/manada/' + comp.icon) | url }}"
         alt="{{ comp.descripcion }}"
-        title="{{numero}} = [{{ comp.categoria }}] {{ comp.descripcion }}"
+        title="Competencia {{numero}}
+               Categoría: {{ comp.categoria }}
+               {{ comp.descripcion }}"
         class="rastro-icon">
 
     {% endif %}
   {% endfor %}
 
 {% endfor %}
+
+-->
+
+{% for numero in rama_lobatos %}
+
+  <span
+    class="competencia-pill lobatos"
+    title="
+{% for comp in competenciasData.manada %}
+{% if comp.numero == numero %}
+<b><u>Competencia {{numero}}</u></b>
+<b>Categoria:<b> {{ comp.categoria }}
+
+{{ comp.descripcion }}
+
+{% endif %}
+{% endfor %}
+">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+
+
+
 
 </div>
 {% endif %}
@@ -457,11 +485,15 @@ layout: layouts/base.njk
 {% for numero in rama_scouts %}
 
   <span
-    class="competencia-pill"
+    class="competencia-pill scouts"
     title="
 {% for comp in competenciasData.scouts %}
 {% if comp.numero == numero %}
-          {{numero}} = [{{ comp.categoria }}] {{ comp.descripcion }}
+<b><u>Competencia {{numero}}</u></b>
+<b>Categoria:<b> {{ comp.categoria }}
+
+{{ comp.descripcion }}
+
 {% endif %}
 {% endfor %}
 ">
@@ -498,11 +530,14 @@ layout: layouts/base.njk
 {% for numero in rama_caminantes %}
 
   <span
-    class="competencia-pill"
+    class="competencia-pill caminantes"
     title="
     {% for comp in competenciasData.caminantes %}
        {% if comp.numero == numero %}
-          {{numero}} = [{{ comp.categoria }}] {{ comp.descripcion }}
+<b><u>Competencia {{numero}}</u></b>
+<b>Categoria:<b> {{ comp.categoria }}
+
+{{ comp.descripcion }}
        {% endif %}
     {% endfor %}
   ">
@@ -534,11 +569,16 @@ layout: layouts/base.njk
 {% for numero in rama_rovers %}
 
   <span
-    class="competencia-pill"
+    class="competencia-pill rovers"
     title="
 {% for comp in competenciasData.rovers %}
 {% if comp.numero == numero %}
-          {{numero}} = [{{ comp.ruta }}] {{ comp.descripcion }}
+<b><u>Competencia {{numero}}</u></b>
+<b>Ruta:<b> {{ comp.ruta }}
+
+{{ comp.descripcion }}
+
+
 {% endif %}
 {% endfor %}
 ">
