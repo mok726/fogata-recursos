@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/fondos-para-tu-favorito.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Materiales para manualidades
   - Alimentos para vender
@@ -56,8 +57,6 @@ tags:
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "10-30"
-complexity_execution: 3
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

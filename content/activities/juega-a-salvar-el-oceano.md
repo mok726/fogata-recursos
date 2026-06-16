@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/juega-a-salvar-el-oceano.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 responsible:
   - Facilitador
 sdgs:
@@ -45,8 +47,6 @@ tags:
   - conciencia ambiental
 location: "Interior"
 participants: "4-20"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

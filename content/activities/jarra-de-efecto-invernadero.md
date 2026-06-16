@@ -15,10 +15,13 @@ source:
 image: "/imagenes/actividades/jarra-de-efecto-invernadero.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
 materials:
   - Jarra
   - termómetros
@@ -53,8 +56,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

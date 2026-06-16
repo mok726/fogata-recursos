@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/impactos-sociales.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -49,8 +49,6 @@ tags:
   - Insignia de Energía
 location: "Interior"
 participants: "6-20"
-complexity_execution: 4
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

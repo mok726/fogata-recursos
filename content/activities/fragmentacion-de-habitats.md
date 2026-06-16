@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/fragmentacion-de-habitats.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -56,8 +56,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "8-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Cognitiva

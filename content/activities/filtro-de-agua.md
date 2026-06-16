@@ -18,9 +18,10 @@ source:
 image: "/imagenes/actividades/filtro-de-agua.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Muestra de agua
   - Microscopio o lupa
@@ -66,8 +67,6 @@ tags:
   - Insignia del Agua (Obligatoria)
 location: "Exterior / Interior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

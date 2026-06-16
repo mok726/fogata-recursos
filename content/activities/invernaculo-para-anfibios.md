@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/invernaculo-para-anfibios.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Troncos huecos
   - Hojas secas
@@ -56,8 +57,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-8"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

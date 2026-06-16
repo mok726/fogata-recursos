@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/guardabosques.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -47,8 +47,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior / Exterior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
 activity_type:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-13"
 age_group:
   - castores
   - manada
@@ -50,8 +50,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

@@ -15,11 +15,12 @@ source:
 image: "/imagenes/actividades/huerto-comunitario.png"
 branch:
   - Naturaleza
-age: "7-17 años"
+age: "7-18"
 age_group:
   - manada
   - scouts
   - caminantes
+  - rovers
 tools:
   - Pala
   - Regadera
@@ -58,8 +59,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

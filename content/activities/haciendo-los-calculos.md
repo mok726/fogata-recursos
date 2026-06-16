@@ -14,7 +14,7 @@ source:
 image: "/imagenes/actividades/haciendo-los-calculos.png"
 branch:
   - Naturaleza
-age: "14-17 años"
+age: "14-17"
 age_group:
   - caminantes
 competencies:
@@ -50,8 +50,6 @@ tags:
   - Insignia del Agua
 location: "Interior (hogar)"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

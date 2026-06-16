@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/iluminando-y-empoderando.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Insignia de Energía
 location: "Exterior"
 participants: "20-100"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

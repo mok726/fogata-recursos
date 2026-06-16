@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/haz-una-caminata.png"
 branch:
   - Naturaleza
-age: "7-22 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
   - caminantes
@@ -70,8 +71,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

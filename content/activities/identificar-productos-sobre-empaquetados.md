@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/identificar-productos-sobre-empaquetados.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Conciencia ambiental
   - Análisis y toma de decisiones
@@ -49,8 +50,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

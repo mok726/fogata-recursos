@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/la-seguridad-es-primero.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -51,8 +51,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

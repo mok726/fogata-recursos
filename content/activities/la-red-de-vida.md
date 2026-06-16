@@ -15,7 +15,10 @@ source:
 image: "/imagenes/actividades/la-red-de-vida.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-14"
+age_group:
+  - manada
+  - scouts
 materials:
   - Bola de cuerda
   - Tarjetas de plantas y animales
@@ -49,8 +52,6 @@ tags:
   - Champions for Nature
 location: "Interior"
 participants: "8-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

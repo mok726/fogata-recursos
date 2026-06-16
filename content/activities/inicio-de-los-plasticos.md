@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/inicio-de-los-plasticos.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "7-10"
+age_group:
+  - manada
 materials:
   - Pizarra
   - tiza
@@ -46,8 +48,6 @@ tags:
   - cambio de hábitos
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - Todas
 activity_type:

@@ -14,8 +14,9 @@ source:
 image: "/imagenes/actividades/la-gallina-ciega.png"
 branch:
   - Naturaleza
-age: "7-10 años"
+age: "5-10"
 age_group:
+  - castores
   - manada
 competencies:
   - Conciencia corporal
@@ -49,8 +50,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "6-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/juego-de-la-energia.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -56,8 +56,6 @@ tags:
   - Insignia de Energía
 location: "Exterior / Interior"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
   - -Auditiva

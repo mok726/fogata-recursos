@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/historiadores-del-clima.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -55,8 +55,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

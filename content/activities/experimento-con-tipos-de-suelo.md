@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/experimento-con-tipos-de-suelo.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 tools:
   - Pala pequeña
 competencies:
@@ -51,8 +52,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-12"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

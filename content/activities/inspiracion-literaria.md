@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/inspiracion-literaria.png"
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "11-22"
 age_group:
   - scouts
   - caminantes
@@ -52,8 +52,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Visual

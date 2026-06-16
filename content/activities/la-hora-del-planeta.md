@@ -15,11 +15,7 @@ source:
 image: "/imagenes/actividades/la-hora-del-planeta.png"
 branch:
   - Naturaleza
-age: "5-14 años"
-age_group:
-  - castores
-  - manada
-  - scouts
+age: "5-6 7-13"
 materials:
   - Linternas (opcional)
   - Velas seguras
@@ -55,8 +51,6 @@ tags:
   - Insignia de Energía
 location: "Interior / Exterior"
 participants: "10-50"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

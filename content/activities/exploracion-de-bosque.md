@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/exploracion-de-bosque.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -51,8 +51,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Movilidad
   - -Auditiva

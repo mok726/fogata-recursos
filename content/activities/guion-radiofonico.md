@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/guion-radiofonico.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -51,8 +51,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

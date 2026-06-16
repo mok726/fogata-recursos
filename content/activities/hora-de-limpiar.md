@@ -19,10 +19,7 @@ source:
 image: "/imagenes/actividades/hora-de-limpiar.png"
 branch:
   - Naturaleza
-age: "11-17 años"
-age_group:
-  - scouts
-  - caminantes
+age: "Scouts (11-13 años), Caminantes (14-17 años)"
 materials:
   - Redes para recoger basura
   - Guantes
@@ -60,8 +57,6 @@ tags:
   - Parche del Agua
 location: "Exterior"
 participants: "6-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

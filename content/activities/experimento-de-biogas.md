@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/experimento-de-biogas.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Botella plástica
   - Materia orgánica
@@ -57,8 +58,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

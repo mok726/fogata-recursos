@@ -14,7 +14,7 @@ source:
 image: "/imagenes/actividades/hogar-dulce-hogar.png"
 branch:
   - Naturaleza
-age: "14-17 años"
+age: "14-17"
 age_group:
   - caminantes
 materials:
@@ -56,8 +56,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

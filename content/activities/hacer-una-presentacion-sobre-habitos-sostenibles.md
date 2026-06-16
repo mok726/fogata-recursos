@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -57,8 +57,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Visual

@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/filtros-naturales.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Arena
   - Carbón activado
@@ -57,8 +58,6 @@ tags:
   - Insignia Biodiversidad
 location: "Interior / Exterior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
 activity_type:

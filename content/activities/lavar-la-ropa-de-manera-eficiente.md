@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Ropa para lavar
 tools:
@@ -57,8 +58,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (hogar)"
 participants: "4-8"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-13"
 age_group:
   - castores
   - manada
@@ -54,8 +54,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-12"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

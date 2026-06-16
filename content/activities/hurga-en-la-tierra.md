@@ -14,9 +14,10 @@ source:
 image: "/imagenes/actividades/hurga-en-la-tierra.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Diferentes tipos de suelo (arena
   - tierra
@@ -56,8 +57,6 @@ tags:
   - Insignia del Agua
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

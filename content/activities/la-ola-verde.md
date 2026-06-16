@@ -15,13 +15,7 @@ source:
 image: "/imagenes/actividades/la-ola-verde.png"
 branch:
   - Naturaleza
-age: "5-22 años"
-age_group:
-  - castores
-  - manada
-  - scouts
-  - caminantes
-  - rovers
+age: "5-13 14-22"
 materials:
   - Materiales para plantar (opcional)
 competencies:
@@ -59,8 +53,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "10-50"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

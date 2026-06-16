@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/hierbas-comestibles-silvestres.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 materials:
   - Guía de plantas locales
   - Cartulina
@@ -60,8 +61,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Visual
   - -Cognitiva

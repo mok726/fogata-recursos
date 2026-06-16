@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/investigar-iniciativas-locales.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Acceso a internet
   - Papel y lápiz
@@ -56,8 +57,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Cognitiva
 activity_type:

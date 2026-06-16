@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -57,8 +57,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

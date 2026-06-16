@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/las-huellas-de-plastico-mas-grandes.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 responsible:
   - Facilitador
 sdgs:
@@ -44,8 +46,6 @@ tags:
   - comparación
 location: "Exterior"
 participants: "8-30"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - Todas
 activity_type:

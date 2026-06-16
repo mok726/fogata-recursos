@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/habitos-animales.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 competencies:
   - Observación científica
@@ -50,8 +51,6 @@ tags:
   - Insignia de los Suelos
 location: "Exterior"
 participants: "5-20"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

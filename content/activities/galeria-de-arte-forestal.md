@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/galeria-de-arte-forestal.png"
 branch:
   - Naturaleza
-age: "7-22 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
   - caminantes
@@ -57,8 +58,6 @@ tags:
   - Insignia de los Bosques
 location: "Interior"
 participants: "6-25"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
   - -Visual
