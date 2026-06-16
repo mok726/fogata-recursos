@@ -14,7 +14,7 @@ source:
 image: "/imagenes/actividades/agua-sin-fronteras.png"
 branch:
   - Naturaleza
-age: "14-17 años"
+age: "14-17"
 age_group:
   - caminantes
 competencies:
@@ -47,8 +47,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "8-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
   - -Cognitiva

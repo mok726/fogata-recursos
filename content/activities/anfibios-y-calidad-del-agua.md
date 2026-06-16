@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/anfibios-y-calidad-del-agua.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 responsible:
   - educador Scout
 sdgs:
@@ -50,8 +51,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-12"
-complexity_execution: 2
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

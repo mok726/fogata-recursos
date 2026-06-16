@@ -14,9 +14,10 @@ source:
 image: "/imagenes/actividades/alimentos-sedientos.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 competencies:
   - Conciencia ambiental
   - Pensamiento crítico
@@ -51,8 +52,6 @@ tags:
   - Insignia del Agua
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Cognitiva
 activity_type:

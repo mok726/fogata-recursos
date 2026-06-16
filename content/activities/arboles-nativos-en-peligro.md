@@ -15,10 +15,11 @@ source:
 image: "/imagenes/actividades/arboles-nativos-en-peligro.png"
 branch:
   - Naturaleza
-age: "11-17 años"
+age: "11-18"
 age_group:
   - scouts
   - caminantes
+  - rovers
 tools:
   - Pala
   - Guantes
@@ -52,8 +53,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

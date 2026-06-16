@@ -15,7 +15,9 @@ source:
 image: "/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.png"
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-14"
+age_group:
+  - scouts
 competencies:
   - Pensamiento Sistémico
   - Pensamiento Crítico
@@ -46,8 +48,6 @@ tags:
   - Champions for Nature
 location: "Exterior"
 participants: "5-20"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Movilidad
 activity_type:

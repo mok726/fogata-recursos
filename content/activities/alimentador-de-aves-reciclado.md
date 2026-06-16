@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/alimentador-de-aves-reciclado.png"
 branch:
   - Naturaleza
-age: "5-10 años"
+age: "5-10"
 age_group:
   - castores
   - manada
@@ -59,8 +59,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

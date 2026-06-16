@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/adopcion-de-area-natural.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -55,8 +55,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior"
 participants: "6-15"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
 activity_type:

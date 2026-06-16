@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.png"
 branch:
   - Naturaleza
-age: "5-14 años"
+age: "5-14"
 age_group:
   - castores
+  - manada
   - scouts
 materials:
   - Libro
@@ -51,8 +52,6 @@ tags:
   - Insignia de los Suelos
 location: "Interior"
 participants: "4-20"
-complexity_execution: 1
-complexity_organizer: 1
 accessibility:
   - -Visual
 activity_type:

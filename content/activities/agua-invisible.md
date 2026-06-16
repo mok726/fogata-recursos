@@ -15,10 +15,13 @@ source:
 image: "/imagenes/actividades/agua-invisible.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
 materials:
   - Papel
   - lápices
@@ -57,8 +60,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

@@ -15,10 +15,7 @@ source:
 image: "/imagenes/actividades/agua-alrededor-del-mundo.png"
 branch:
   - Naturaleza
-age: "11-17 años"
-age_group:
-  - scouts
-  - caminantes
+age: "Scouts (11-13 años), Caminantes (14-17 años)"
 tools:
   - Computadora para investigación
 competencies:
@@ -50,8 +47,6 @@ tags:
   - Parche del Agua
 location: "Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Auditiva
 activity_type:

@@ -15,10 +15,13 @@ source:
 image: "/imagenes/actividades/adivinanzas-sobre-el-clima.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-22"
 age_group:
+  - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
 materials:
   - Tarjetas
   - lápices.
@@ -52,8 +55,6 @@ tags:
   - Insignia del Cambio Climático
 location: "Interior"
 participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
 accessibility:
   - -Auditiva
   - -Movilidad

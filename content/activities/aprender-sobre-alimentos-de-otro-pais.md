@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Acceso a internet
   - Papel y lápiz
@@ -56,8 +57,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

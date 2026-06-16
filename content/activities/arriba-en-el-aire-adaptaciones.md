@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/arriba-en-el-aire-adaptaciones.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "7-13"
 age_group:
   - manada
   - scouts
@@ -56,8 +56,6 @@ tags:
   - Insignia Biodiversidad
 location: "Exterior / Interior"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Visual
 activity_type:

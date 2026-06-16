@@ -14,7 +14,7 @@ source:
 image: "/imagenes/actividades/aguas-sucias.png"
 branch:
   - Naturaleza
-age: "14-17 años"
+age: "14-17"
 age_group:
   - caminantes
 competencies:
@@ -46,8 +46,6 @@ tags:
   - Insignia del Agua
 location: "Interior / Exterior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
 accessibility:
   - -Auditiva
 activity_type:

@@ -15,8 +15,9 @@ source:
 image: "/imagenes/actividades/aprender-jugando.png"
 branch:
   - Naturaleza
-age: "7-14 años"
+age: "5-13"
 age_group:
+  - castores
   - manada
   - scouts
 materials:
@@ -50,8 +51,6 @@ tags:
   - Insignia de los Bosques
 location: "Exterior / Interior"
 participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

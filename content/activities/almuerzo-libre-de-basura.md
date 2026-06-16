@@ -15,9 +15,10 @@ source:
 image: "/imagenes/actividades/almuerzo-libre-de-basura.png"
 branch:
   - Naturaleza
-age: "11-14 años"
+age: "11-15"
 age_group:
   - scouts
+  - caminantes
 materials:
   - Lonchera reusable
   - Botella rellenable
@@ -57,8 +58,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior (escuela)"
 participants: "2-10"
-complexity_execution: 2
-complexity_organizer: 2
 accessibility:
   - -Movilidad
 activity_type:

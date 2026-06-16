@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/aprender-a-hacer-jabon-natural.png"
 branch:
   - Naturaleza
-age: "14-22 años"
+age: "14-22"
 age_group:
   - caminantes
   - rovers
@@ -62,8 +62,6 @@ tags:
   - Insignia de Seguridad Alimentaria y Cambio Climático
 location: "Interior"
 participants: "4-10"
-complexity_execution: 4
-complexity_organizer: 4
 accessibility:
   - -Movilidad
   - -Visual
