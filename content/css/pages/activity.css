@@ -258,8 +258,8 @@
 
 /* Insignias grandes (según solicitud) */
 .badge-large-icon {
-  width: 70px;
-  height: 70px;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
 }
 
@@ -269,6 +269,11 @@
 }
 
 
+.credits-card strong {
+  display: inline-block;
+  min-width: 90px;
+  color: #34525a;
+}
 
 
 
@@ -306,7 +311,7 @@
 /* Ocultar los h2 internos del markdown (ya los usamos como título de card) */
 
 .content-card .markdown-content {
-  padding: 18px 30px 28px;
+  padding: 0px 30px 28px;
   font-size: large;
 }
 
@@ -396,6 +401,7 @@
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 24px;
+  align-items: start;
 
   margin-top: 40px;
   margin-bottom: 40px;
@@ -415,7 +421,6 @@
 }
 
 .info-row .info-card {
-  height: 100%;
 
   border-radius: 24px;
 
@@ -461,10 +466,15 @@
 
 .translation-card {
   background: #eef2ff;
-  border-left: 4px solid #3d7fc4;
-  border-left-width: 6px;
+  border-color: #3d7fc4;
   border-top: 6px solid  #3d7fc4;
 }
+
+.translation-card h3 {
+  border-bottom: 1px solid  #3d7fc4;
+}
+
+
 
 
 .references-card {
@@ -473,18 +483,56 @@
   border-top: 6px solid #f3e3c0;
 }
 
+.references-card h3 {
+  border-bottom: 1px solid #f3e3c0;
+}
+
+.references-card ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.references-card li {
+  margin-bottom: 0.6rem;
+  line-height: 1.5;
+}
+
+.references-card a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.references-card strong {
+    display:block;
+}
+
+.references-card a:hover {
+  text-decoration: underline;
+}
+
+
 .requirements-card {
   background:#eef7ef;
-  border-color:#d9eadb;
-  border-top: 6px solid #d9eadb;
+  border-color:#a9d4ae;
+  border-top: 6px solid #a9d4ae;
+}
+
+.requirements-card h3 {
+  border-bottom: 1px solid #a9d4ae;
 }
 
 
 .credits-card {
-  background:#b6b6b6;
-  border-color:#f9f9f9;
-  border-top: 6px solid #f9f9f9;
+  background:#c0dddf85;
+  border-color:#8ccdd9;
+  border-top: 6px solid #8ccdd9;
 }
+
+.credits-card h3 {
+  border-bottom: 1px solid #8ccdd9;
+}
+
+
 
 
 
@@ -772,7 +820,7 @@
 .license-block {
   margin-top: 1rem;
   padding-top: 1rem;
-  border-top: 1px solid #eef2f6;
+  border-top: 1px solid rgba(0,0,0,.08);
 }
 
 .license-image {
@@ -783,4 +831,9 @@
   height: auto;
 }
 
+
+
+.license-block h3 {
+  border-bottom: 1px solid #eef2f6;
+}
 

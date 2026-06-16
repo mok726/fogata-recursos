@@ -16,7 +16,7 @@ layout: layouts/base.njk
 <div class="hero-metrics">
   <span><span class="material-symbols-outlined">groups</span> {{ participants or "N/E" }}</span>
   <span><span class="material-symbols-outlined">schedule</span> {{ duration or "N/E" }}</span>
-  <span><span class="material-symbols-outlined">productivity</span> {{ age }}</span>
+  <span><span class="material-symbols-outlined">productivity</span> {{ age or "Todas" }}</span>
 </div>
 
         <div class="hero-tags">
@@ -373,6 +373,7 @@ layout: layouts/base.njk
     {# COLUMNA DERECHA #}
     <aside class="col-right">
 
+{% set competenciasData = competencias[0].ramas %}
 
 <div class="info-card">
   <h3>
@@ -411,11 +412,31 @@ layout: layouts/base.njk
     <div class="branch-name">
       Manada
     </div>
+
+
 {% if rama_lobatos %}
-    <div class="branch-actions">
-      Rastros: {{ rama_lobatos }}
-    </div>
+<div class="rastros-icons">
+
+{% for numero in rama_lobatos %}
+
+  {% for comp in competenciasData.manada %}
+    {% if comp.numero == numero %}
+
+      <img
+        src="{{ ('/imagenes/competencias/manada/' + comp.icon) | url }}"
+        alt="{{ comp.descripcion }}"
+        title="{{numero}} = [{{ comp.categoria }}] {{ comp.descripcion }}"
+        class="rastro-icon">
+
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
+</div>
 {% endif %}
+
+
   </div>
 </div>
 {% endif %}
@@ -429,31 +450,75 @@ layout: layouts/base.njk
     <div class="branch-name">
       Unidad Scout
     </div>
+
 {% if rama_scouts %}
-    <div class="branch-actions">
-      Acciones: {{ rama_scout }}
-    </div>
+<div class="competencias-pills">
+
+{% for numero in rama_scouts %}
+
+  <span
+    class="competencia-pill"
+    title="
+{% for comp in competenciasData.scouts %}
+{% if comp.numero == numero %}
+          {{numero}} = [{{ comp.categoria }}] {{ comp.descripcion }}
 {% endif %}
+{% endfor %}
+">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+</div>
+{% endif %}
+
+
+
   </div>
 </div>
 {% endif %}
+
 
 {% if "caminantes" in ageGroups %}
 <div class="branch-item">
-  <img src="{{ '/imagenes/ramas/caminantes.png' | url }}" alt="Caminantes">
+
+  <img src="{{ '/imagenes/ramas/caminantes.png' | url }}"
+       alt="Caminantes">
 
   <div class="branch-content">
+
     <div class="branch-name">
       Caminantes
     </div>
+
 {% if rama_caminantes %}
-    <div class="branch-actions">
-      Competencias: {{ rama_caminantes }}
-    </div>
-{% endif %}
-  </div>
+<div class="competencias-pills">
+
+{% for numero in rama_caminantes %}
+
+  <span
+    class="competencia-pill"
+    title="
+    {% for comp in competenciasData.caminantes %}
+       {% if comp.numero == numero %}
+          {{numero}} = [{{ comp.categoria }}] {{ comp.descripcion }}
+       {% endif %}
+    {% endfor %}
+  ">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
 </div>
 {% endif %}
+
+</div>
+</div>
+{% endif %}
+
+
 
 {% if "rovers" in ageGroups %}
 <div class="branch-item">
@@ -463,13 +528,29 @@ layout: layouts/base.njk
     <div class="branch-name">
       Rovers
     </div>
-
 {% if rama_rovers %}
+<div class="competencias-pills">
 
-    <div class="branch-actions">
-      Acciones: {{ rama_rovers }}
-    </div>
+{% for numero in rama_rovers %}
+
+  <span
+    class="competencia-pill"
+    title="
+{% for comp in competenciasData.rovers %}
+{% if comp.numero == numero %}
+          {{numero}} = [{{ comp.ruta }}] {{ comp.descripcion }}
 {% endif %}
+{% endfor %}
+">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+</div>
+{% endif %}
+
+
   </div>
 </div>
 {% endif %}
@@ -537,11 +618,14 @@ layout: layouts/base.njk
       {% endif %}
 
       {% if tags %}
+
       <div class="info-card">
         <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
-          {% for tag in tags if tag not in ['actividades', 'recurso'] %}
-            <span class="tag">{{ tag }}</span>
+          {% for tag in tags %}
+              {% if tag not in ['actividades', 'recurso'] %}
+                <span class="tag">{{ tag }}</span>
+              {% endif %}
           {% endfor %}
         </div>
       </div>
@@ -651,7 +735,7 @@ layout: layouts/base.njk
         <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
         <ul>
           {% for ref in references %}
-             {% if ref.url %}<a href="{{ ref.url }}">{% endif %}<li><strong>{{ ref.title }}</strong> – {% if ref.author %}{{ ref.author }}{% endif %} {% if ref.year %}({{ ref.year }}){% endif %}</li>{% if ref.url %}</a>{% endif %}
+             <li>{% if ref.url %}<a href="{{ ref.url }}">{% endif %}<strong>{{ ref.title }}</strong> – {% if ref.author %}{{ ref.author }}{% endif %} {% if ref.year %}({{ ref.year }}){% endif %}{% if ref.url %}</a>{% endif %}</li>
           {% endfor %}
         </ul>
       </div>

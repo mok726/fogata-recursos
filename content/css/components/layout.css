@@ -149,6 +149,11 @@ h3 { font-size: 1.3rem; }
   margin-bottom: 0.5rem;
 }
 
+.footer-links-col h4 {
+  color: #24b636;
+}
+
+
 .newsletter-form {
   display: flex;
   gap: 0.5rem;
@@ -161,6 +166,9 @@ h3 { font-size: 1.3rem; }
   border-radius: 40px;
   flex: 1;
 }
+
+
+
 
 .newsletter-form button {
   background: #2e6b3d;
