@@ -10,7 +10,17 @@ layout: layouts/base.njk
     <div class="activity-hero-container">
       <div class="hero-left">
         <div class="hero-category">{{ main_type or (etiquetas | first) or "Actividad" }}</div>
-        <h1 class="hero-title">{{ title | replace("!", "") }}</h1>
+        <h1 class="hero-title">{{ title | replace("!", "") }}
+{% if version %}
+<div class="hero-version version-{{ version | lower }}">
+{% if version == "DRAFT" %}
+  BORRADOR
+{% else %}
+  {{ version }}
+{% endif %}
+</div>
+{% endif %}
+</h1>
         <p class="hero-description">{{ summary or description }}</p>
 
 <div class="hero-metrics">
@@ -444,8 +454,8 @@ layout: layouts/base.njk
     title="
 {% for comp in competenciasData.manada %}
 {% if comp.numero == numero %}
-<b><u>Competencia {{numero}}</u></b>
-<b>Categoria:<b> {{ comp.categoria }}
+Rastro {{numero}}
+Sendero: {{ comp.categoria }}
 
 {{ comp.descripcion }}
 
@@ -489,8 +499,8 @@ layout: layouts/base.njk
     title="
 {% for comp in competenciasData.scouts %}
 {% if comp.numero == numero %}
-<b><u>Competencia {{numero}}</u></b>
-<b>Categoria:<b> {{ comp.categoria }}
+Competencia {{numero}}
+Categoria: {{ comp.categoria }}
 
 {{ comp.descripcion }}
 
@@ -534,8 +544,8 @@ layout: layouts/base.njk
     title="
     {% for comp in competenciasData.caminantes %}
        {% if comp.numero == numero %}
-<b><u>Competencia {{numero}}</u></b>
-<b>Categoria:<b> {{ comp.categoria }}
+Competencia {{numero}}
+Categoria: {{ comp.categoria }}
 
 {{ comp.descripcion }}
        {% endif %}
@@ -573,8 +583,8 @@ layout: layouts/base.njk
     title="
 {% for comp in competenciasData.rovers %}
 {% if comp.numero == numero %}
-<b><u>Competencia {{numero}}</u></b>
-<b>Ruta:<b> {{ comp.ruta }}
+Competencia {{numero}}
+Ruta: {{ comp.ruta }}
 
 {{ comp.descripcion }}
 
