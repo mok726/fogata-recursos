@@ -1,0 +1,123 @@
+---
+title: "Ahorrar agua caliente y energía"
+duration: "1 mes"
+layout: "layouts/activity.njk"
+permalink: "/activities/ahorrar-agua-caliente-y-energia/"
+description: "Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes."
+summary: "Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
+author:
+  - Mariano S. Cosentino
+source:
+  - YUNGA
+image: "/imagenes/actividades/ahorrar-agua-caliente-y-energia.png"
+branch:
+  - Naturaleza
+age: "11-15"
+age_group:
+  - scouts
+  - caminantes
+competencies:
+  - Conciencia ambiental
+  - Hábitos sostenibles
+responsible:
+  - Responsable del grupo Scout
+sdgs:
+  - 6
+  - 7
+activity_badges:
+  - sacc
+activity_code: "sacc-X48"
+rama_lobatos:
+  - 9
+  - 24
+rama_scouts:
+  - 6
+  - 7
+rama_caminantes:
+  - 6
+  - 7
+rama_rovers:
+  - 4
+  - 6
+image_prompt: "Older scouts ages 11-15 taking shorter showers, turning off water while soaping, collecting cold water while waiting for hot water (use for plants). Encouraging family. Saving both water and energy (heating). Water-energy nexus, behavioral change, simple impactful habits atmosphere."
+tags:
+  - Ahorra Agua
+  - sacc
+  - duchas
+  - agua caliente
+  - energía
+  - ahorro
+  - hábitos
+  - Insignia de Seguridad Alimentaria y Cambio Climático
+location: "Interior"
+participants: "4-10"
+complexity_execution: 2
+complexity_organizer: 2
+accessibility:
+  - -Movilidad
+activity_type:
+  - Hábito
+  - Ahorro
+category:
+  - Agua
+  - Energía
+  - Hogar
+skills:
+  - Conciencia ambiental
+  - Hábitos sostenibles
+main_type: "Reflexión"
+space_required: "Hogar (individual) + salón"
+special_materials:
+  - balde o recipiente para recolectar agua
+  - cronómetro (opcional)
+prep_time: "10 min + seguimiento 1 mes"
+scout_values:
+  - Perseverancia
+  - Sencillez y Austeridad
+scout_method:
+  - Educación por la acción
+ludic_component: 2
+reflective_component: 3
+active_component: 2
+# ===== INFORMACIÓN DE FOOTER =====
+# references:
+#   - title: "Pollinators Challenge Badge"
+#     author: "FAO"
+#     year: 2021
+#     series: "YUNGA Learning and Action Series – Challenge badges"
+#     issue: 12
+#     location: "Rome"
+#     url: "https://doi.org/10.4060/cb4803en"
+#
+# translation_notice:
+#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
+#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+#
+# license:
+#   name: "Creative Commons BY-NC-SA 3.0 IGO"
+#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+#
+# attributions:
+#   - entity: "FAO"
+#     role: "Concepto original"
+#     year: 2021
+#   - entity: "Mariano"
+#     role: "Adaptación y compilación"
+#     year: 2025
+
+---
+
+# Ahorrar agua caliente y energía
+
+## Resumen
+Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes.
+
+## Desarrollo
+Al tomar una ducha rápida en lugar de un baño. Cierra la llave cuando te jabones en la ducha o cuando te laves los dientes. Recoge el agua que cae de la ducha mientras esperas a que se caliente y úsala para otros propósitos. Alienta a tu familia y a tus amigos a que sigan tu ejemplo.
+
+## Cierre
+Reflexiona sobre cómo el ahorro de agua caliente puede reducir el consumo de energía.

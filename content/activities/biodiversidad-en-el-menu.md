@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Biodiversidad en el menú"
+duration: "1 hora"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/biodiversidad-en-el-menu/"
+description: "Análisis de diversidad alimentaria."
+summary: "Análisis de diversidad alimentaria."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,81 +12,75 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/biodiversidad-en-el-menu.png"
 branch:
   - Naturaleza
-age: "14-22"
+age: "7-13"
 age_group:
-  - caminantes
-  - rovers
+  - manada
+  - scouts
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Fichas nutricionales
+  - Imágenes de alimentos
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Conciencia nutricional
+  - Pensamiento crítico
 responsible:
   - educador Scout
 sdgs:
-  - 15
-  - 17
+  - 2
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-C02"
 rama_lobatos:
-  - 20
-  - 26
+  - 1
+  - 24
 rama_scouts:
+  - 2
   - 15
-  - 17
 rama_caminantes:
+  - 2
   - 15
-  - 17
 rama_rovers:
   - 4
   - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+image_prompt: "An Argentine scout room, with a large poster in the center-left showing a healthy plate divided into fruits, vegetables, grains, and protein, with question marks on foods that depend on pollinators. A second smaller poster showing a bland plate with only corn, rice, and chicken. The left side has negative space for text. On the far right side, two tiny scouts (7-13) sit, one pointing at the healthy plate, the other at the bland plate, seen from a distance. The dietary diversity reflection environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - dieta
+  - nutrición
+  - variedad
+  - alimentos
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+complexity_execution: 1
+complexity_organizer: 1
 accessibility:
-  - -Auditiva
+  - -Cognitiva
 activity_type:
-  - Investigación
-  - Teatro
+  - Reflexión
+  - Debate
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Nutrición
+  - Salud
+  - Ecología
 skills:
-  - Conciencia política
-  - Trabajo en equipo
-main_type: "Investigación"
+  - Conciencia nutricional
+  - Pensamiento crítico
+main_type: "Reflexión"
 space_required: "Salón amplio"
 special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+  - fichas nutricionales
+  - imágenes de alimentos variados
+prep_time: "10 min"
 scout_values:
-  - Hermandad
+  - Salud
   - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
 ludic_component: 2
-reflective_component: 5
+reflective_component: 4
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
@@ -117,13 +111,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Biodiversidad en el menú
 
 ## Resumen
-Investigación sobre políticas globales.
+Análisis de diversidad alimentaria.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+¿Qué necesitas para tener una dieta saludable? Averigua cómo la biodiversidad contribuye a mantener una buena nutrición al imaginar qué pasaría si existiese sólo un tipo de fruta, un tipo de verdura y un tipo de carne disponibles. Comparte tus hallazgos con tus profesores, tus dirigentes o tu grupo.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué riesgos tendría una dieta no diversa?

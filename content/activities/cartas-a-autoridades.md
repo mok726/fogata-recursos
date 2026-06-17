@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
+title: "Cartas a autoridades"
 duration: "2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/cartas-a-autoridades/"
+description: "Incidencia política."
+summary: "Incidencia política."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,7 +12,7 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/cartas-a-autoridades.png"
 branch:
   - Naturaleza
 age: "14-22"
@@ -20,71 +20,71 @@ age_group:
   - caminantes
   - rovers
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Datos locales
+  - Sobres/cartulina
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Ciudadanía activa
+  - Redacción formal
 responsible:
   - educador Scout
 sdgs:
-  - 15
+  - 16
   - 17
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-D30"
 rama_lobatos:
   - 20
   - 26
 rama_scouts:
-  - 15
+  - 16
   - 17
 rama_caminantes:
-  - 15
+  - 16
   - 17
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 16
+image_prompt: "An Argentine scout room, with a laptop on a table in the center-left, a formal letter to the mayor open on the screen. A printed map of the local creek with pollution spots marked. An envelope and stamp. The left side has space for text. On the far right side, two tiny older scouts (14-21) sit, one reading the letter aloud, the other addressing the envelope, seen from a distance. The local advocacy letter environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - carta
+  - autoridades
+  - preocupación
+  - soluciones
   - Insignia Biodiversidad
 location: "Interior"
-participants: "4-15"
+participants: "4-10"
 complexity_execution: 3
-complexity_organizer: 3
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
-  - Investigación
-  - Teatro
+  - Escritura
+  - Activismo
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Política
+  - Ciudadanía
+  - Comunicación
 skills:
-  - Conciencia política
-  - Trabajo en equipo
-main_type: "Investigación"
+  - Ciudadanía activa
+  - Redacción formal
+main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
+  - datos locales (mapas
+  - fotos
+  - estadísticas)
+  - computadora o papel
+  - sobres
+  - sellos
 prep_time: "30 min"
 scout_values:
   - Hermandad
-  - Superación personal
+  - Perseverancia
+  - Respeto al prójimo
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
 ludic_component: 2
 reflective_component: 5
 active_component: 1
@@ -117,13 +117,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Cartas a autoridades
 
 ## Resumen
-Investigación sobre políticas globales.
+Incidencia política.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Escribe a las autoridades locales acerca de un asunto sobre la biodiversidad que te preocupe. No olvides ofrecer algunas soluciones.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué respuesta obtuviste?

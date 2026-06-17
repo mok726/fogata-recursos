@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
+title: "Biodiversidad en otros países"
 duration: "2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/biodiversidad-en-otros-paises/"
+description: "Investigación global."
+summary: "Investigación global."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,81 +12,73 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/biodiversidad-en-otros-paises.png"
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-18"
 age_group:
+  - scouts
   - caminantes
   - rovers
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Atlas/mapas mundiales
+  - Acceso a internet
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Geografía
+  - Conciencia global
 responsible:
   - educador Scout
 sdgs:
   - 15
-  - 17
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-D05"
 rama_lobatos:
-  - 20
   - 26
+  - 27
 rama_scouts:
   - 15
-  - 17
+  - 32
 rama_caminantes:
   - 15
-  - 17
+  - 31
 rama_rovers:
   - 4
   - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+image_prompt: "An Argentine scout room, with a world map on the wall in the center-left. Small flags or stickers on Costa Rica, Madagascar, and New Zealand, with notes attached (ecosystems, national symbols, threats). A laptop with photos. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) stand, one pointing at Costa Rica, the other reading a note, seen from a distance. The global biodiversity research environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - países
+  - ecosistemas
+  - símbolos nacionales
+  - amenazas
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+complexity_execution: 2
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
   - Investigación
-  - Teatro
+  - Geografía
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Geografía
+  - Ecología
+  - Cultura
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Geografía
+  - Conciencia global
 main_type: "Investigación"
 space_required: "Salón amplio"
-special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+prep_time: "15 min"
 scout_values:
-  - Hermandad
   - Superación personal
 scout_method:
   - Educación por la acción
   - Sistema de patrullas
 ludic_component: 2
-reflective_component: 5
+reflective_component: 4
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
@@ -117,13 +109,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Biodiversidad en otros países
 
 ## Resumen
-Investigación sobre políticas globales.
+Investigación global.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Elige tres países que te gustaría visitar algún día. ¿Qué tipos de ecosistemas puedes encontrar en cada uno de estos países? ¿Cuál es el árbol, la flor, el ave y el animal nacional de cada país? ¿Cuáles son las mayores amenazas para la biodiversidad en cada nación? Trata de encontrar algunas fotografías que muestren la naturaleza de estos países.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué país tiene la biodiversidad más singular?

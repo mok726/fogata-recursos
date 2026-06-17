@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Alimentos vs. Combustible"
+duration: "1 hora"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/alimentos-vs-combustible/"
+description: "Debate el uso de cultivos para biocombustibles."
+summary: "Debate el uso de cultivos para biocombustibles."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,7 +12,7 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/alimentos-vs-combustible.png"
 branch:
   - Naturaleza
 age: "14-22"
@@ -20,72 +20,68 @@ age_group:
   - caminantes
   - rovers
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Artículos científicos
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Pensamiento crítico
+  - Negociación
 responsible:
-  - educador Scout
+  - Educador Scout/ Guiadora AGA
 sdgs:
-  - 15
-  - 17
+  - 2
+  - 12
 activity_badges:
-  - biodiversidad
-activity_code: "biodiversidad-D15"
+  - energia
+activity_code: "energia-X27"
 rama_lobatos:
-  - 20
-  - 26
+  - 9
+  - 47
 rama_scouts:
-  - 15
-  - 17
+  - 2
+  - 12
 rama_caminantes:
-  - 15
-  - 17
+  - 3
+  - 2
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 12
+image_prompt: "An Argentine scout room, with two teams sitting facing each other. In the center-left, a table with a scale model: one side a plate of food, the other side a fuel can. A whiteboard with 'Pros' and 'Cons' columns. The left side has space for text. On the far right side, tiny older scouts (14-21) gesticulate, one pointing at the scale, another speaking, seen from a distance. The food versus fuel debate environment dominates."
 tags:
-  - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
-  - Insignia Biodiversidad
+  - energia
+  - biocombustibles
+  - alimentos
+  - cultivos
+  - debate
+  - ética
+  - Insignia de Energía
 location: "Interior"
-participants: "4-15"
+participants: "6-20"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
-  - -Auditiva
+  - -Cognitiva
 activity_type:
-  - Investigación
-  - Teatro
+  - Debate
+  - Diálogo
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Agricultura
+  - Energía
+  - Ética
 skills:
-  - Conciencia política
-  - Trabajo en equipo
-main_type: "Investigación"
+  - Pensamiento crítico
+  - Negociación
+main_type: "Debate / Diálogo"
 space_required: "Salón amplio"
 special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
+  - artículos científicos
+  - datos estadísticos
 prep_time: "30 min"
 scout_values:
-  - Hermandad
+  - Honestidad
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Sistema de patrullas
-ludic_component: 2
+  - Educación por la acción
+ludic_component: 3
 reflective_component: 5
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
@@ -117,13 +113,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Alimentos vs. Combustible
 
 ## Resumen
-Investigación sobre políticas globales.
+Debate el uso de cultivos para biocombustibles.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Investiga pros y contras de los biocombustibles. Organiza un debate grupal con argumentos basados en evidencia.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué postura te convenció más? ¿Existen alternativas?

@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Adaptaciones acuáticas"
+duration: "1-2 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/adaptaciones-acuaticas/"
+description: "Estudio comparativo de especies acuáticas."
+summary: "Estudio comparativo de especies acuáticas."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,81 +12,77 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/adaptaciones-acuaticas.png"
 branch:
   - Naturaleza
-age: "14-22"
+age: "7-13"
 age_group:
-  - caminantes
-  - rovers
+  - manada
+  - scouts
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Fichas de especies
+  - Lápices
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Investigación
+  - Pensamiento crítico
 responsible:
   - educador Scout
 sdgs:
-  - 15
-  - 17
+  - 14
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-B03"
 rama_lobatos:
-  - 20
-  - 26
+  - 27
+  - 29
 rama_scouts:
-  - 15
-  - 17
+  - 14
+  - 32
 rama_caminantes:
-  - 15
-  - 17
+  - 14
+  - 31
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 14
+image_prompt: "An Argentine scout room or aquarium visit. In the center-left, a display board with images of fish gills, dolphin echolocation, and octopus camouflage, with labels 'Adaptaciones'. A tablet showing a submarine (inspired by fish). The left side has negative space for text. On the far right side, two tiny scouts (7-13) sit, one pointing at the board, the other drawing a fish, seen from a distance. The bioinspiration learning environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - adaptaciones acuáticas
+  - peces
+  - mamíferos marinos
+  - movimiento
+  - bioinspiración
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+complexity_execution: 2
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
   - Investigación
-  - Teatro
+  - Comparación
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Biología
+  - Oceanografía
+  - Diseño
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Investigación
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+  - fichas de especies
+  - imágenes
+  - acceso a internet (opcional)
+prep_time: "20 min"
 scout_values:
-  - Hermandad
+  - Naturaleza
   - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
 ludic_component: 2
-reflective_component: 5
+reflective_component: 4
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
@@ -117,13 +113,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Adaptaciones acuáticas
 
 ## Resumen
-Investigación sobre políticas globales.
+Estudio comparativo de especies acuáticas.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Compara adaptaciones de animales acuáticos (corales, peces, mamíferos marinos). ¿Cómo se mueven? ¿Qué inventos humanos los imitan? Si es posible, visita un acuario.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué adaptación te sorprendió más?

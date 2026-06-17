@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Blog o diario de biodiversidad"
+duration: "1 mes"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/blog-o-diario-de-biodiversidad/"
+description: "Comunicación digital/escrita."
+summary: "Comunicación digital/escrita."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,81 +12,69 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/blog-o-diario-de-biodiversidad.png"
 branch:
   - Naturaleza
 age: "14-22"
 age_group:
   - caminantes
   - rovers
-materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Escritura
+  - Divulgación
 responsible:
   - educador Scout
 sdgs:
-  - 15
-  - 17
+  - 4
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-D26"
 rama_lobatos:
-  - 20
   - 26
+  - 47
 rama_scouts:
+  - 4
   - 15
-  - 17
 rama_caminantes:
+  - 4
   - 15
-  - 17
 rama_rovers:
   - 4
   - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+image_prompt: "An Argentine scout room or home, with a laptop on a table in the center-left. The screen shows a blog post with a photo of a local butterfly and a tip 'Planta flores nativas'. A notebook diary open beside it. The left side has space for text. On the far right side, a tiny older scout (14-21) sits, typing on the laptop, another looks at the screen, seen from a distance. The biodiversity blogging environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - blog
+  - diario
+  - juventud
+  - consejos
   - Insignia Biodiversidad
 location: "Interior"
-participants: "4-15"
+participants: "4-10"
 complexity_execution: 3
-complexity_organizer: 3
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
-  - Investigación
-  - Teatro
+  - Escritura
+  - Comunicación
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Comunicación
+  - Escritura
+  - Tecnología
 skills:
-  - Conciencia política
-  - Trabajo en equipo
-main_type: "Investigación"
+  - Escritura
+  - Divulgación
+main_type: "Servicio a los demás"
 space_required: "Salón amplio"
-special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+prep_time: "30 min + seguimiento mensual"
 scout_values:
   - Hermandad
-  - Superación personal
+  - Perseverancia
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
 ludic_component: 2
-reflective_component: 5
+reflective_component: 3
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
@@ -117,13 +105,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Blog o diario de biodiversidad
 
 ## Resumen
-Investigación sobre políticas globales.
+Comunicación digital/escrita.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Inicia un blog sobre la biodiversidad (un diario en línea donde los lectores pueden comentar acerca de las entradas del diario) o un diario. Publica consejos sobre lo que la juventud puede hacer por la biodiversidad. Si prefieres no trabajar en internet, comparte tu blog o tu diario con el periódico de tu escuela o con la estación de radio de tu escuela.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué tema generó más engagement?

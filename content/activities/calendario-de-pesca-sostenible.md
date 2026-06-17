@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Calendario de pesca sostenible"
+duration: "3-4 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/calendario-de-pesca-sostenible/"
+description: "Guía de temporadas de pesca responsable."
+summary: "Guía de temporadas de pesca responsable."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,7 +12,7 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/calendario-de-pesca-sostenible.png"
 branch:
   - Naturaleza
 age: "14-22"
@@ -20,73 +20,73 @@ age_group:
   - caminantes
   - rovers
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Papel cartulina
+  - Imágenes de peces
+tools:
+  - Computadora (investigación)
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Investigación
+  - Consumo responsable
 responsible:
   - educador Scout
 sdgs:
-  - 15
-  - 17
+  - 12
+  - 14
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-B17"
 rama_lobatos:
-  - 20
+  - 24
   - 26
 rama_scouts:
-  - 15
-  - 17
+  - 12
+  - 14
 rama_caminantes:
-  - 15
-  - 17
+  - 12
+  - 14
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 12
+image_prompt: "An Argentine scout room, with a wall calendar in the center-left showing months and fish icons. Each fish icon is labeled with a species and a colored dot (green = sustainable season, red = closed season). A table with fish images and research notes. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at a month, the other holding a fish drawing, seen from a distance. The sustainable fishing calendar environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - pesca sostenible
+  - calendario
+  - desove
+  - temporadas
+  - conservación
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
   - Investigación
-  - Teatro
+  - Diseño
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Pesca
+  - Ecología marina
+  - Consumo
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Investigación
+  - Consumo responsable
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
   - cartulina
-  - marcadores
-prep_time: "30 min"
+  - imágenes de peces
+  - acceso a datos de pesca local
+prep_time: "45 min"
 scout_values:
-  - Hermandad
+  - Sencillez y Austeridad
   - Superación personal
 scout_method:
   - Educación por la acción
   - Sistema de patrullas
 ludic_component: 2
-reflective_component: 5
+reflective_component: 4
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
@@ -117,13 +117,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Calendario de pesca sostenible
 
 ## Resumen
-Investigación sobre políticas globales.
+Guía de temporadas de pesca responsable.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Investiga épocas de desove de peces locales. Crea calendario con especies que pueden consumirse cada mes sin dañar poblaciones. Exhibe en escuela/comunidad.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Por qué es importante respetar temporadas?

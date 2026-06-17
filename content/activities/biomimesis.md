@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Biomímesis"
+duration: "1 hora"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/biomimesis/"
+description: "Tecnología inspirada en la naturaleza."
+summary: "Tecnología inspirada en la naturaleza."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,81 +12,68 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/biomimesis.png"
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-18"
 age_group:
+  - scouts
   - caminantes
   - rovers
-materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
-competencies:
-  - Conciencia política
-  - Trabajo en equipo
 responsible:
   - educador Scout
 sdgs:
+  - 9
   - 15
-  - 17
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-D21"
 rama_lobatos:
-  - 20
-  - 26
+  - 27
+  - 32
 rama_scouts:
+  - 9
   - 15
-  - 17
 rama_caminantes:
+  - 9
   - 15
-  - 17
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 9
+image_prompt: "An Argentine scout room, with a display board in the center-left showing pairs: a burr (Velcro), a kingfisher beak (bullet train), a whale flipper (wind turbine), a lotus leaf (self-cleaning paint). Inventor sketches and ideas. The left side has space for text. On the far right side, two tiny older scouts (11-17) sit, one pointing at the burr, the other at a piece of Velcro, seen from a distance. The biomimicry learning environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - biomímesis
+  - naturaleza
+  - inventos
+  - tecnología
+  - inspiración
   - Insignia Biodiversidad
 location: "Interior"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+complexity_execution: 2
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Cognitiva
 activity_type:
   - Investigación
-  - Teatro
+  - Creatividad
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Tecnología
+  - Biología
+  - Innovación
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Pensamiento innovador
+  - Conexión naturaleza-tecnología
 main_type: "Investigación"
 space_required: "Salón amplio"
-special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+prep_time: "20 min"
 scout_values:
-  - Hermandad
   - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
-ludic_component: 2
-reflective_component: 5
+ludic_component: 3
+reflective_component: 4
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
@@ -117,13 +104,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Biomímesis
 
 ## Resumen
-Investigación sobre políticas globales.
+Tecnología inspirada en la naturaleza.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Para hacer la vida más fácil y más agradable, se inventaron herramientas, aparatos eléctricos y nuevos materiales. Muchas de estas cosas nos recuerdan a la naturaleza. ¿Cuál es el equivalente en la naturaleza de: una excavadora, un paracaídas, unas aletas para natación, un sonar y un papel? ¿Cuáles son otros cuatro ejemplos de inventos humanos que fueron inspirados en la naturaleza?
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué problema actual podría resolverse con biomímesis?

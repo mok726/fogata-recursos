@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Banco de semillas"
+duration: "2-3 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/banco-de-semillas/"
+description: "Visita a centro de conservación genética."
+summary: "Visita a centro de conservación genética."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,80 +12,68 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/banco-de-semillas.png"
 branch:
   - Naturaleza
 age: "14-22"
 age_group:
   - caminantes
   - rovers
-materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Conciencia global
+  - Preservación
 responsible:
-  - educador Scout
+  - técnico banco de semillas
 sdgs:
+  - 2
   - 15
-  - 17
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-C30"
 rama_lobatos:
-  - 20
-  - 26
+  - 24
+  - 27
 rama_scouts:
+  - 2
   - 15
-  - 17
 rama_caminantes:
+  - 2
   - 15
-  - 17
 rama_rovers:
   - 4
   - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+image_prompt: "An Argentine seed bank (bank of germplasm or university lab). In the center-left, shelves with labeled jars of seeds, a cold storage unit, and a microscope. A sign 'Banco de Semillas'. The left side has negative space for text. On the far right side, three tiny older scouts (14-21) stand with a civilian technician, one looking at seeds through a magnifying glass, another reading a label, seen from a distance. The seed bank visit environment dominates."
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - banco de semillas
+  - conservación genética
+  - semillas
+  - biodiversidad agrícola
   - Insignia Biodiversidad
 location: "Interior"
-participants: "4-15"
+participants: "4-10"
 complexity_execution: 3
-complexity_organizer: 3
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
   - Investigación
-  - Teatro
+  - Visita
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Agricultura
+  - Genética
+  - Conservación
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Conciencia global
+  - Preservación
 main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+space_required: "Salón amplio (institución)"
+prep_time: "organizar visita con anticipación"
 scout_values:
-  - Hermandad
   - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
-ludic_component: 2
+ludic_component: 1
 reflective_component: 5
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
@@ -117,13 +105,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Banco de semillas
 
 ## Resumen
-Investigación sobre políticas globales.
+Visita a centro de conservación genética.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+¿Qué es un banco de semillas? Averigua dónde se encuentran ubicados los bancos de semillas en tu área y en tu país. Si es posible, visita uno. Pregunta cómo puedes involucrarte en sus actividades.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Por qué son vitales estos bancos para el futuro?

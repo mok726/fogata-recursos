@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "Calificación de Carbono"
+duration: "3 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/calificacion-de-carbono/"
+description: "Analiza emisiones de CO₂ por país y crea un póster."
+summary: "Analiza emisiones de CO₂ por país y crea un póster."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,7 +12,7 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/calificacion-de-carbono.png"
 branch:
   - Naturaleza
 age: "14-22"
@@ -20,72 +20,71 @@ age_group:
   - caminantes
   - rovers
 materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+  - Datos de emisiones globales
+  - Cartulina
+tools:
+  - Regla
+  - Computadora (opcional)
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Análisis crítico
+  - Diseño gráfico
 responsible:
-  - educador Scout
+  - Educador Scout/ Guiadora AGA
 sdgs:
-  - 15
-  - 17
+  - 13
 activity_badges:
-  - biodiversidad
-activity_code: "biodiversidad-D15"
+  - energia
+activity_code: "energia-X46"
 rama_lobatos:
-  - 20
-  - 26
+  - 9
+  - 47
 rama_scouts:
-  - 15
-  - 17
+  - 13
+  - 53
 rama_caminantes:
-  - 15
-  - 17
+  - 3
+  - 49
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 13
+image_prompt: "An Argentine scout room, with a large poster on the wall in the center-left showing a bar chart of CO2 emissions per capita for different countries (Argentina, China, USA, Germany, Kenya). A map with color-coded countries. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the chart, the other holding a marker, seen from a distance. The carbon emissions data environment dominates."
 tags:
-  - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
-  - Insignia Biodiversidad
+  - energia
+  - emisiones CO2
+  - huella de carbono
+  - países
+  - gráfico
+  - mapa
+  - Insignia de Energía
 location: "Interior"
 participants: "4-15"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
-  - -Auditiva
+  - -Visual
 activity_type:
   - Investigación
-  - Teatro
+  - Diseño
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Clima
+  - Geografía
+  - Datos
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Análisis crítico
+  - Diseño gráfico
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
+  - acceso a internet (Our World in Data)
   - cartulina
   - marcadores
 prep_time: "30 min"
 scout_values:
-  - Hermandad
   - Superación personal
 scout_method:
   - Educación por la acción
   - Sistema de patrullas
-ludic_component: 2
+ludic_component: 1
 reflective_component: 5
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
@@ -117,13 +116,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# Calificación de Carbono
 
 ## Resumen
-Investigación sobre políticas globales.
+Analiza emisiones de CO₂ por país y crea un póster.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Investiga la huella de carbono de tu país vs. otros. Diseña un mapa o gráfico comparativo con datos reales.
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué factores explican las diferencias entre países?

@@ -1,10 +1,10 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "BioBlitz"
+duration: "24 horas"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/bioblitz/"
+description: "Censo de biodiversidad local."
+summary: "Censo de biodiversidad local."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,82 +12,82 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/bioblitz.png"
 branch:
   - Naturaleza
-age: "14-22"
+age: "7-18"
 age_group:
+  - manada
+  - scouts
   - caminantes
   - rovers
-materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
+tools:
+  - Guía de especies local
 competencies:
-  - Conciencia política
+  - Documentación
   - Trabajo en equipo
 responsible:
   - educador Scout
 sdgs:
   - 15
-  - 17
 activity_badges:
   - biodiversidad
-activity_code: "biodiversidad-D15"
+activity_code: "biodiversidad-D23"
 rama_lobatos:
-  - 20
-  - 26
+  - 27
+  - 29
 rama_scouts:
   - 15
-  - 17
+  - 32
 rama_caminantes:
   - 15
-  - 17
+  - 31
 rama_rovers:
   - 4
   - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+image_prompt: "An Argentine natural area (schoolyard, park), with a marked plot in the center-left. A camera, a magnifying glass, a field guide, and a clipboard with a species tally sheet. The left side has open space for text. On the far right side, a group of tiny scouts (7-17) kneel, one photographing a flower, another using a magnifying glass on a beetle, a third writing, seen from a distance. The 24-hour species count environment dominates."
+similar_activities:
+  - http://www.education.eol.org/bioblitz/activities
 tags:
   - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
+  - BioBlitz
+  - censo
+  - 24 horas
+  - inventario
   - Insignia Biodiversidad
-location: "Interior"
-participants: "4-15"
+location: "Exterior"
+participants: "6-25"
 complexity_execution: 3
 complexity_organizer: 3
 accessibility:
-  - -Auditiva
+  - -Movilidad
 activity_type:
   - Investigación
-  - Teatro
+  - Ciencia ciudadana
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Ecología
+  - Ciencia
+  - Tecnología
 skills:
-  - Conciencia política
+  - Documentación
   - Trabajo en equipo
 main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+space_required: "Exterior abierto"
+prep_time: "20 min + 24 horas de observación"
 scout_values:
   - Hermandad
   - Superación personal
 scout_method:
+  - Vida al aire libre
   - Educación por la acción
-  - Sistema de patrullas
-ludic_component: 2
-reflective_component: 5
-active_component: 1
+ludic_component: 4
+reflective_component: 4
+active_component: 3
+files:
+  - filepath: "http://www.education.eol.org/bioblitz/activities"
+    caption: "Similares en la Web"
+    icon: "read_more"
+
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"
@@ -117,13 +117,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# BioBlitz
 
 ## Resumen
-Investigación sobre políticas globales.
+Censo de biodiversidad local.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Documenta TODA la biodiversidad en un área pequeña (ej: patio escolar) durante 24 horas. Usa la guía: www.education.eol.org/bioblitz/activities. Sube fotos/dibujos a: www.education.eol.org/bioblitz/gallery
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+¿Qué especie fue la más sorprendente?

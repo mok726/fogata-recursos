@@ -1,10 +1,9 @@
 ---
-title: "Acuerdos internacionales"
-duration: "2 horas"
+title: "¿A dónde va el agua?"
 layout: "layouts/activity.njk"
-permalink: "/activities/acuerdos-internacionales/"
-description: "Investigación sobre políticas globales."
-summary: "Investigación sobre políticas globales."
+permalink: "/activities/a-donde-va-el-agua/"
+description: "Investiga el uso del agua en tu país."
+summary: "Investiga el uso del agua en tu país."
 version: "DRAFT"
 Origin: "YUNGA"
 # original: "False" # 
@@ -12,79 +11,65 @@ author:
   - Mariano S. Cosentino
 source:
   - YUNGA
-image: "/imagenes/actividades/acuerdos-internacionales.png"
+image: "/imagenes/actividades/a-donde-va-el-agua.png"
 branch:
   - Naturaleza
-age: "14-22"
+age: "14-17"
 age_group:
   - caminantes
-  - rovers
-materials:
-  - Texto de acuerdos (ej: CBD)
-  - Materiales para póster
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Investigación
+  - Conciencia ambiental
+  - Pensamiento crítico
 responsible:
-  - educador Scout
 sdgs:
-  - 15
-  - 17
+  - 6
 activity_badges:
-  - biodiversidad
-activity_code: "biodiversidad-D15"
+  - agua
+activity_code: "agua-X31"
 rama_lobatos:
-  - 20
+  - 24
   - 26
 rama_scouts:
-  - 15
-  - 17
+  - 6
+  - 12
 rama_caminantes:
-  - 15
-  - 17
+  - 6
+  - 12
 rama_rovers:
   - 4
-  - 15
-image_prompt: "An Argentine scout room, with a poster on the wall in the center-left showing logos of CBD, CITES, Ramsar, and Paris Agreement, with short descriptions. A laptop with treaty texts. The left side has space for text. On the far right side, two tiny older scouts (14-21) stand, one pointing at the CBD logo, the other reading from the laptop, seen from a distance. The international environmental policy environment dominates."
+  - 6
+image_prompt: "An Argentine scout room, with a large pie chart on the wall in the center-left showing Argentina's water use: agriculture (70-80%), industry (10-15%), domestic (10-15%), energy (hydro). A laptop with FAO data and a notebook with proposed savings. The left side has space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at the agriculture slice, the other at the domestic slice, seen from a distance. The national water use analysis environment dominates."
 tags:
-  - biodiversidad
-  - acuerdos internacionales
-  - CBD
-  - CITES
-  - política
-  - Insignia Biodiversidad
+  - agua
+  - Argentina
+  - agricultura
+  - industria
+  - consumo
+  - Insignia del Agua
 location: "Interior"
 participants: "4-15"
 complexity_execution: 3
-complexity_organizer: 3
+complexity_organizer: 2
 accessibility:
-  - -Auditiva
+  - -Cognitiva
 activity_type:
   - Investigación
-  - Teatro
 category:
-  - Política ambiental
-  - Derecho
-  - Cooperación
+  - Agua
+  - Economía
+  - Política
 skills:
-  - Conciencia política
-  - Trabajo en equipo
+  - Investigación
+  - Conciencia ambiental
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Salón amplio"
-special_materials:
-  - textos resumidos de acuerdos (CBD
-  - CITES
-  - Ramsar)
-  - internet
-  - cartulina
-  - marcadores
-prep_time: "30 min"
+prep_time: "25 min"
 scout_values:
-  - Hermandad
   - Superación personal
 scout_method:
   - Educación por la acción
-  - Sistema de patrullas
 ludic_component: 2
 reflective_component: 5
 active_component: 1
@@ -117,13 +102,13 @@ active_component: 1
 
 ---
 
-# Acuerdos internacionales
+# ¿A dónde va el agua?
 
 ## Resumen
-Investigación sobre políticas globales.
+Investiga el uso del agua en tu país.
 
 ## Desarrollo
-Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
+Investiga sobre el uso del agua en tu país, en la agricultura, la industria, el uso doméstico, la energía y otros sectores. ¿Para qué se utiliza la mayor cantidad de agua? ¿Dónde crees que se podría ahorrar algo de agua?
 
 ## Cierre
-¿Qué acuerdo te parece más urgente?
+Reflexiona sobre la distribución del agua en tu país. Preguntas para discutir: ¿Qué sector consume más agua? ¿Cómo podemos mejorar la gestión del agua?

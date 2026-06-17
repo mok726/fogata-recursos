@@ -1,0 +1,124 @@
+---
+title: "Canción por el Suelo"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/cancion-por-el-suelo/"
+description: "Crea una canción sobre los factores que dañan el suelo."
+summary: "Crea una canción sobre los factores que dañan el suelo."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
+author:
+  - Mariano S. Cosentino
+source:
+  - YUNGA
+image: "/imagenes/actividades/cancion-por-el-suelo.png"
+branch:
+  - Naturaleza
+age: "5-14"
+age_group:
+  - castores
+  - manada
+  - scouts
+competencies:
+  - Creatividad
+  - Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+activity_code: "suelos-X32"
+rama_lobatos:
+  - 27
+  - 32
+rama_scouts:
+  - 35
+  - 40
+rama_caminantes:
+  - 31
+  - 36
+rama_rovers:
+  - 17
+  - 32
+image_prompt: "A scout meeting room or campfire circle in Argentina. In the center-left, a guitar resting on a chair, and a large paper with song lyrics about soil protection (erosion, pollution). The left side has space for text. On the far right side, tiny young scouts (5-15) sit in a semicircle, one playing guitar, others clapping and singing, seen from a distance. The joyful musical environment dominates."
+tags:
+  - suelos
+  - canción
+  - suelo
+  - erosión
+  - contaminación
+  - música
+  - Insignia de los Suelos
+location: "Interior / Exterior"
+participants: "4-20"
+complexity_execution: 2
+complexity_organizer: 2
+accessibility:
+  - -Auditiva
+activity_type:
+  - Creatividad
+  - Arte
+  - Sensibilización
+category:
+  - Música
+  - Arte
+  - Medio ambiente
+skills:
+  - Creatividad
+  - Conciencia ambiental
+main_type: "Creatividad / Arte"
+space_required: "Salón amplio o exterior"
+special_materials:
+  - instrumentos musicales (opcionales)
+prep_time: "20 min"
+scout_values:
+  - Hermandad
+  - Naturaleza
+  - Superación personal
+scout_method:
+  - Educación por la acción
+  - Vida al aire libre
+ludic_component: 5
+reflective_component: 2
+active_component: 2
+# ===== INFORMACIÓN DE FOOTER =====
+# references:
+#   - title: "Pollinators Challenge Badge"
+#     author: "FAO"
+#     year: 2021
+#     series: "YUNGA Learning and Action Series – Challenge badges"
+#     issue: 12
+#     location: "Rome"
+#     url: "https://doi.org/10.4060/cb4803en"
+#
+# translation_notice:
+#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
+#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+#
+# license:
+#   name: "Creative Commons BY-NC-SA 3.0 IGO"
+#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+#
+# attributions:
+#   - entity: "FAO"
+#     role: "Concepto original"
+#     year: 2021
+#   - entity: "Mariano"
+#     role: "Adaptación y compilación"
+#     year: 2025
+
+---
+
+# Canción por el Suelo
+
+## Resumen
+Crea una canción sobre los factores que dañan el suelo.
+
+## Desarrollo
+Inventa una canción que hable sobre la contaminación, la erosión y otros problemas del suelo.
+
+## Cierre
+Interpreta la canción con el grupo y reflexiona sobre cómo podemos proteger el suelo.
