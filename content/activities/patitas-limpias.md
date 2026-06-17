@@ -6,6 +6,7 @@ layout: "layouts/activity.njk"
 permalink: "/activities/patitas-limpias/"
 description: "Sistema permanente de competencia por inspección para fomentar la limpieza y el orden en la Manada, donde las seisenas rotan roles de limpiadores y jueces acumulando 'Patitas Limpias'."
 summary: "Una seisena limpia, las otras juzgan. La que más Patitas Limpias acumula elige premio."
+image: "/imagenes/actividades/patitas-limpias.png"
 version: "1.0"
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -21,7 +22,7 @@ original: "true"
 branch:
   - Comunidad
 age: "7-10"
-age_group:  
+age_group:
   - manada
 
 # ========== LOGÍSTICA ==========
@@ -142,7 +143,7 @@ attributions:
 **Duración total:** 15-17 minutos
 
 #### Paso 1: Anuncio de la seisena Limpiadora (1 min)
-El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena [nombre] es la encargada de limpiar. Las otras seisenas, elijan a su juez."*
+El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena NOMBRE es la encargada de limpiar. Las otras seisenas, elijan a su juez."*
 
 #### Paso 2: Tiempo de limpieza (10 min)
 - La **seisena Limpiadora** limpia TODO el espacio común (piso, mesas, zona de mochilas).
@@ -176,28 +177,38 @@ El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena [nombre
 3. Se entrega el premio en el momento (ej. 15 minutos de juego especial al inicio de la siguiente reunión).
 4. Se reinicia el tablero para el próximo ciclo (opcional: conservar un "récord histórico").
 
-## Roles
-
-| Rol | Quién lo hace | Responsabilidades |
-|-----|---------------|-------------------|
-| **seisena Limpiadora** | Una seisena rotativa (todos sus miembros) | Limpiar el espacio común en 10 minutos, trabajar en equipo, no recibir ayuda externa |
-| **Jueces** | Un lobato por cada seisena que NO limpia | Evaluar las zonas con la lista de control, decidir en equipo si hay desacuerdo |
-| **Educador Scout** | Guía de Manada o subguía | Cronometrar, entregar listas, anunciar puntajes, mediar solo si hay empate |
-| **Actualizador del tablero** | Un lobato voluntario (rotativo) | Agregar las patitas al tablero acumulador |
-
-
-## CIERRE
+## Cierre
 Algunas preguntas disparadoras para debatir entre los L&L, a usar según pasa el tiempo:
+
 "¿Qué fue lo más fácil de limpiar hoy? ¿Y lo más difícil?"
+
 "¿Dónde aparece siempre la misma mugre? ¿Por qué será?"
+
 "¿Alguien encontró algo perdido por mucho tiempo"
+
 "Si mañana fueran jueces, ¿en qué zona mirarían primero? ¿Por qué?"
+
 "¿Qué pasaría si nadie limpiara después de un encuentro?"
+
 "¿Cómo se siente entrar a un espacio que está limpio y ordenado?"
+
 "¿Qué aprendió hoy su seisena sobre limpiar en equipo?"
+
 "¿Cambió la forma en que cuidan el lugar? ¿En qué se nota?"
+
 "¿Qué herramienta o cosa nos faltó hoy para limpiar mejor?"
+
 "Si pudiéramos cambiar UNA regla para que sea más justa o divertida, ¿qué cambiarían?"
 
 
-## Lista de control (texto para imprimir)
+## Roles
+
+| Rol | Qui  n lo hace | Responsabilidades |
+|-----|---------------|-------------------|
+| **seisena Limpiadora** | Una seisena rotativa (todos sus miembros) | Limpiar el espacio com  n en 10 minutos, trabajar en equipo, no >
+| **Jueces** | Un lobato por cada seisena que NO limpia | Evaluar las zonas con la lista de control, decidir en equipo si hay desacuerd>
+| **Educador Scout** | Gu  a de Manada o subgu  a | Cronometrar, entregar listas, anunciar puntajes, mediar solo si hay empate |
+| **Actualizador del tablero** | Un lobato voluntario (rotativo) | Agregar las patitas al tablero acumulador |
+
+
+

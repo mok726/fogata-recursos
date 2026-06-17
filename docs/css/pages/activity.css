@@ -953,3 +953,86 @@
   color: #8a6d00;
   border: 1px solid #f0d98a;
 }
+
+
+
+.activity-navigation {
+
+  display:flex;
+
+  justify-content:center;
+
+  gap:1rem;
+
+  margin:2rem 0;
+
+}
+
+.activity-nav-card {
+
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 0.4rem;
+
+  padding: 1rem 1.25rem;
+
+  background: white;
+
+  border-radius: 16px;
+
+  border: 1px solid #e5e7eb;
+
+  text-decoration: none;
+
+  color: inherit;
+
+  transition:
+    transform .2s ease,
+    box-shadow .2s ease;
+
+
+
+  width:320px;
+  max-width:100%;
+
+
+
+}
+
+.activity-nav-card.previous {
+
+  text-align:left;
+
+}
+
+.activity-nav-card.next {
+
+  text-align:right;
+
+}
+
+
+
+
+.activity-nav-card:hover {
+
+  transform: translateY(-3px);
+
+  box-shadow:
+    0 6px 16px rgba(0,0,0,.08);
+
+}
+
+.nav-label {
+
+  font-size: .8rem;
+
+  color: #6b7280;
+
+  text-transform: uppercase;
+
+  letter-spacing: .04em;
+
+}

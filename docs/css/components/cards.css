@@ -2,7 +2,7 @@
    GRID
 ========================= */
 
-.grid {
+.gridbad {
   display: grid;
 
   grid-template-columns:
@@ -12,6 +12,21 @@
 
   margin-top: 2rem;
 }
+
+
+.grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(auto-fit, minmax(340px, 380px));
+
+  justify-content: center;
+
+  gap: 1.5rem;
+
+  margin-top: 2rem;
+}
+
 
 .grid a {
   display: block;
@@ -70,8 +85,7 @@
 .card-content {
   display: flex;
   flex-direction: column;
-
-/*  flex: 1; */
+  flex: 1; 
 
   padding: 1.3rem;
 }
@@ -570,6 +584,12 @@
   gap: 1rem;
 }
 
+.activity-meta-row-2 {
+  margin-top: auto;
+}
+
+
+
 .activity-ages,
 .activity-sdgs,
 .activity-badges {
@@ -688,4 +708,49 @@ height:42px;
 width:56px;
 height:56px;
 
+}
+
+
+
+.activity-facts {
+
+  display:flex;
+  flex-wrap:wrap;
+
+  gap:.8rem;
+
+  margin-top:.3rem;
+
+  font-size:.85rem;
+  color:#6b7280;
+}
+
+.activity-facts span {
+
+  display:flex;
+  align-items:center;
+  gap:.25rem;
+}
+
+.activity-facts .material-symbols-outlined {
+
+  font-size:1rem;
+}
+
+
+.activity-draft-pill {
+
+  display:inline-block;
+
+  padding:.2rem .6rem;
+
+  border-radius:999px;
+
+  background:#fff4d6;
+  color:#9a6700;
+
+  font-size:.7rem;
+  font-weight:700;
+
+  margin-bottom:.5rem;
 }

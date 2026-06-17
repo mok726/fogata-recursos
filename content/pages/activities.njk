@@ -4,6 +4,9 @@ layout: layouts/base.njk
 permalink: /activities/
 ---
 
+
+<div class="activities-page">
+
 <section class="listing-header">
 
   <div>
@@ -78,7 +81,7 @@ permalink: /activities/
 
 <div class="grid" id="activities-grid">
 
-{% for activity in collections.activitiesSorted | reverse %}
+{% for activity in collections.activitiesSorted %}
 
 <div
   class="searchable-card"
@@ -104,6 +107,8 @@ permalink: /activities/
 
 </div>
 
+
+</div>
 <script>
 
 const searchInput =

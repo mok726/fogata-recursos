@@ -9,7 +9,7 @@ layout: layouts/base.njk
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('{{ heroImage | url }}');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">{{ main_type or (etiquetas | first) or "Actividad" }}</div>
+        <div class="hero-category">{{ main_type or ((etiquetas or []) | first) or "Actividad" }}</div>
         <h1 class="hero-title">{{ title | replace("!", "") }}
 {% if version %}
 <div class="hero-version version-{{ version | lower }}">
@@ -86,7 +86,7 @@ layout: layouts/base.njk
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      {{ main_type or activity_type | first or "N/E" }}
+      {{ main_type or activity_type  or [] | first or "N/E" }}
     </div>
   </div>
 
@@ -242,7 +242,7 @@ layout: layouts/base.njk
   <div class="sidebar-sdgs large-ods">
     {% for sdg in sdgs %}
       <a href="{{ ('/ods/' + sdg + '/') | url }}">
-        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" class="ods-icon-large">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" title="ODS {{ sdg }}" class="ods-icon-large">
       </a>
     {% endfor %}
   </div>
@@ -257,7 +257,18 @@ layout: layouts/base.njk
     <div class="badges-mini">
       {% for rawBadge in activity_badges %}
         {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
-        <img src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}" alt="" class="badge-large-icon">
+        {% set badgeInfo = badgeId | badgeById(badges) %}
+        <a href="{{ ('/badges/' + badgeId + '/') | url }}">
+          <img 
+             src="{{
+             (
+                badgeInfo.logo
+                if badgeInfo and badgeInfo.logo
+                else '/imagenes/insignias/' + badgeId + '.png'
+              ) | url 
+            }}" 
+                alt="{{ badgeInfo.name }}"   title="{{ badgeInfo.name }}" class="badge-large-icon">
+       </a>
       {% endfor %}
     </div>
   </div>
@@ -383,7 +394,7 @@ layout: layouts/base.njk
     {# COLUMNA DERECHA #}
     <aside class="col-right">
 
-{% set competenciasData = competencias[0].ramas %}
+{% set competenciasData = (competencias or [])[0].ramas %}
 
 <div class="info-card">
   <h3>
@@ -646,7 +657,7 @@ Ruta: {{ comp.ruta }}
   <div class="sidebar-sdgs large-ods">
     {% for sdg in sdgs %}
       <a href="{{ ('/ods/' + sdg + '/') | url }}">
-        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" class="ods-icon-large">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}"  title="ODS {{ sdg }}" class="ods-icon-large">
       </a>
     {% endfor %}
   </div>
@@ -794,6 +805,56 @@ Ruta: {{ comp.ruta }}
   </div>
 
 
+{% set allActivities =
+     collections.activitiesSorted %}
+
+{% set currentIndex =
+     page.url | activityIndex(allActivities) %}
+
+{% set previousActivity =
+     allActivities[currentIndex - 1] %}
+
+{% set nextActivity =
+     allActivities[currentIndex + 1] %}
+
+<section class="activity-navigation">
+
+  {% if previousActivity %}
+  <a
+    class="activity-nav-card previous"
+    href="{{ previousActivity.url | url }}">
+
+    <span class="nav-label">
+      ← Actividad anterior
+    </span>
+
+    <strong>
+      {{ previousActivity.data.title }}
+    </strong>
+
+  </a>
+  {% endif %}
+
+  {% if nextActivity %}
+  <a
+    class="activity-nav-card next"
+    href="{{ nextActivity.url | url }}">
+
+    <span class="nav-label">
+      Actividad siguiente →
+    </span>
+
+    <strong>
+      {{ nextActivity.data.title }}
+    </strong>
+
+  </a>
+  {% endif %}
+
+</section>
+
+
+
   {# ===== ACTIVIDADES RELACIONADAS ===== #}
 {% set currentActivity =
      page.url | currentActivity(collections.activities) %}
@@ -815,7 +876,15 @@ Ruta: {{ comp.ruta }}
               <div class="related-img" style="background-image: url('{{ item.image | url }}');"></div>
             {% endif %}
             <div class="related-category">{{ item.main_type or "Actividad" }}</div>
-            <h3><a href="{{ activityUrl | url }}">{{ item.title }}</a></h3>
+            <h3><a href="{{ activityUrl | url }}">{{ item.title }}</a>  {% if item.version %}
+                  <div class="hero-version version-{{ item.version | lower }}">
+                     {% if version == "DRAFT" %}
+                        BORRADOR
+                     {% else %}
+                        {{ item.version }}
+                     {% endif %}
+                  </div>
+  {% endif %} </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> {{ item.participants or participants }}</span>
               <span><span class="material-symbols-outlined">schedule</span> {{ item.duration or duration }}</span>

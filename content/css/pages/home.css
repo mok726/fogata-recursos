@@ -247,3 +247,14 @@
   margin-top: 4rem;
 }
 
+
+
+.activities-page {
+
+  max-width: 1500px;
+
+  margin: 0 auto;
+
+  padding-inline: clamp(1rem, 3vw, 3rem);
+
+}

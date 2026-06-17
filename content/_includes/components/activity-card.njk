@@ -10,8 +10,7 @@
       <img  class="activity-card-image"  src="{{ activityImage | url }}"  alt="{{ item.title }}">
     </a>
     {% if item.original %}
-      <div class="activity-original">
-    тн   Р
+      <div class="activity-original"><span class="material-symbols-outlined">stars</span>
       </div>
     {% endif %}
     {% if item.duration %}
@@ -25,7 +24,18 @@
       <h3>
         <a          class="card-title-link"          href="{{ activityUrl | url }}">
           {{ item.title | smartTitle }}
-        </a>
+         {% if item.version %}
+<div class="hero-version version-{{ item.version | lower }}">
+{% if item.version == "DRAFT" %}
+  BORRADOR
+{% else %}
+  {{ item.version }}
+{% endif %}
+</div>
+{% endif %}
+</a>
+
+
       </h3>
     </div>
     {% if item.summary %}
@@ -35,6 +45,32 @@
         </a>
       </p>
     {% endif %}
+
+
+<div class="activity-facts">
+
+  {% if item.participants %}
+    <span>
+      <span class="material-symbols-outlined">groups</span>
+      {{ item.participants }}
+    </span>
+  {% endif %}
+
+  {% if item.duration %}
+    <span>
+      <span class="material-symbols-outlined">schedule</span>
+      {{ item.duration }}
+    </span>
+  {% endif %}
+
+  {% if item.age_group %}
+    <span>
+      <span class="material-symbols-outlined">cake</span>
+      {{ item.age_group | ageRange }}
+    </span>
+  {% endif %}
+
+</div>
 
     <div class="activity-meta-row activity-meta-row-1">
       <div class="activity-ages">
@@ -119,14 +155,27 @@
 
             {% endif %}
 
+{% set badgeInfo =
+     badgeId | badgeById(badges) %}
+
+
             <a
               href="{{ ('/badges/' + badgeId + '/') | url }}">
 
-              <img
-                class="badge-icon"
-                src="{{ ('/imagenes/insignias/' + badgeId + '.png') | url }}"
-                alt="{{ badgeName }}"
-                title="{{ badgeName }}">
+{% set badgeInfo = badgeId | badgeInfo(badges) %}
+
+<img
+  class="badge-icon"
+src="{{
+  (
+    badgeInfo.logo
+    if badgeInfo and badgeInfo.logo
+    else '/imagenes/insignias/' + badgeId + '.png'
+  ) | url
+}}"
+  alt="{{ badgeName }}"
+  title="{{ badgeName }}">
+
 
             </a>
 

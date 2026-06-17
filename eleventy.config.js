@@ -284,6 +284,8 @@ eleventyConfig.addFilter(
       return [];
     }
 
+	
+
     return activities
       .filter(a => a.url !== current.url)
       .map(a => {
@@ -343,6 +345,7 @@ eleventyConfig.addFilter(
           score += 2;
         }
 
+
         return {
           activity: a,
           score
@@ -351,6 +354,9 @@ eleventyConfig.addFilter(
       })
       .sort((a,b) => b.score - a.score)
       .slice(0,4);
+
+
+
 
   }
 );
@@ -368,6 +374,75 @@ eleventyConfig.addFilter(
 );
 
 
+eleventyConfig.addFilter(
+  "badgeInfo",
+  function(badgeId, badges) {
+
+    if (!badgeId || !badges) {
+      return null;
+    }
+
+    const normalized =
+      badgeId
+        .toString()
+        .trim()
+        .toLowerCase();
+
+    return badges.find(b => {
+
+      if (
+        b.id &&
+        b.id.toLowerCase() === normalized
+      ) {
+        return true;
+      }
+
+      if (b.aliases) {
+        return b.aliases.some(
+          a =>
+            a.toLowerCase() === normalized
+        );
+      }
+
+      return false;
+
+    });
+
+  }
+);
+
+
+
+
+eleventyConfig.addFilter(
+  "badgeById",
+  function(badgeId, badges) {
+
+    if (!badgeId || !badges) {
+      return null;
+    }
+
+    return badges.find(
+      b =>
+        b.id &&
+        b.id.toLowerCase() ===
+        badgeId.toString().toLowerCase()
+    );
+
+  }
+);
+
+
+eleventyConfig.addFilter(
+  "activityIndex",
+  function(currentUrl, activities) {
+
+    return activities.findIndex(
+      a => a.url === currentUrl
+    );
+
+  }
+);
 
 
 
