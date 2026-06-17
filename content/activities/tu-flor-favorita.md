@@ -1,0 +1,127 @@
+---
+title: "Tu Flor Favorita"
+duration: "1-2 horas"
+layout: "layouts/activity.njk"
+permalink: "/activities/tu-flor-favorita/"
+description: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
+summary: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
+version: "DRAFT"
+Origin: "YUNGA"
+# original: "False" # 
+author:
+  - Mariano S. Cosentino
+source:
+  - YUNGA
+image: "/imagenes/actividades/tu-flor-favorita.png"
+branch:
+  - Naturaleza
+age: "5-10 años"
+age_group:
+  - castores
+  - manada
+materials:
+  - Libros/recursos en línea
+  - Papel
+  - Lápices
+competencies:
+  - Creatividad
+  - Conciencia ambiental
+responsible:
+  - Maestro/Dirigente
+sdgs:
+  - 15
+activity_badges:
+  - suelos
+activity_code: "suelos-X20"
+rama_lobatos:
+  - 27
+  - 29
+rama_scouts:
+  - 32
+  - 35
+rama_caminantes:
+  - 31
+  - 33
+rama_rovers:
+  - 4
+  - 32
+image_prompt: "A scout meeting room in Argentina, with a table covered with paper and colored pencils. In the center-left, a drawing of a flower (e.g., sunflower) with roots visible in the soil, and a poem written next to it. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit at the table, one reading a poem aloud, others drawing, seen from a distance. The creative poetry and art environment dominates."
+tags:
+  - suelos
+  - flor
+  - fruta
+  - suelo
+  - poema
+  - crecimiento
+  - Insignia de los Suelos
+location: "Interior"
+participants: "4-15"
+complexity_execution: 1
+complexity_organizer: 1
+accessibility:
+  - Todas
+activity_type:
+  - Creatividad
+  - Arte
+  - Reflexión
+category:
+  - Literatura
+  - Jardinería
+  - Medio ambiente
+skills:
+  - Creatividad
+  - Conciencia ambiental
+main_type: "Creatividad / Arte"
+space_required: "Salón amplio"
+special_materials:
+  - papel
+  - lápices de colores
+  - acceso a internet o libros
+prep_time: "10 min"
+scout_values:
+  - Naturaleza
+  - Superación personal
+scout_method:
+  - Educación por la acción
+ludic_component: 4
+reflective_component: 3
+active_component: 1
+# ===== INFORMACIÓN DE FOOTER =====
+# references:
+#   - title: "Pollinators Challenge Badge"
+#     author: "FAO"
+#     year: 2021
+#     series: "YUNGA Learning and Action Series – Challenge badges"
+#     issue: 12
+#     location: "Rome"
+#     url: "https://doi.org/10.4060/cb4803en"
+#
+# translation_notice:
+#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
+#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+#
+# license:
+#   name: "Creative Commons BY-NC-SA 3.0 IGO"
+#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+#
+# attributions:
+#   - entity: "FAO"
+#     role: "Concepto original"
+#     year: 2021
+#   - entity: "Mariano"
+#     role: "Adaptación y compilación"
+#     year: 2025
+
+---
+
+# Tu Flor Favorita
+
+## Resumen
+Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita.
+
+## Desarrollo
+Elige una flor o fruta y busca información sobre las condiciones de suelo que necesita para crecer. Escribe un poema sobre su relación con el suelo.
+
+## Cierre
+Comparte el poema con el grupo y discute la importancia del suelo para las plantas.
