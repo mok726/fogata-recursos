@@ -276,6 +276,102 @@ eleventyConfig.addFilter("splitBySections", (htmlContent) => {
 
 
 
+eleventyConfig.addFilter(
+  "relatedActivities",
+  function(current, activities) {
+
+    if (!current || !current.data) {
+      return [];
+    }
+
+    return activities
+      .filter(a => a.url !== current.url)
+      .map(a => {
+
+        const d = a.data;
+        let score = 0;
+
+        // Insignias
+        if (current.data.activity_badges && d.activity_badges) {
+
+          const common =
+            current.data.activity_badges.filter(
+              x => d.activity_badges.includes(x)
+            );
+
+          score += common.length * 20;
+        }
+
+        // ODS
+        if (current.data.sdgs && d.sdgs) {
+
+          const common =
+            current.data.sdgs.filter(
+              x => d.sdgs.includes(x)
+            );
+
+          score += common.length * 10;
+        }
+
+        // Categorías
+        if (current.data.category && d.category) {
+
+          const common =
+            current.data.category.filter(
+              x => d.category.includes(x)
+            );
+
+          score += common.length * 5;
+        }
+
+        // Ramas
+        if (current.data.age_group && d.age_group) {
+
+          const common =
+            current.data.age_group.filter(
+              x => d.age_group.includes(x)
+            );
+
+          score += common.length * 3;
+        }
+
+        // Tipo principal
+        if (
+          current.data.main_type &&
+          current.data.main_type === d.main_type
+        ) {
+          score += 2;
+        }
+
+        return {
+          activity: a,
+          score
+        };
+
+      })
+      .sort((a,b) => b.score - a.score)
+      .slice(0,4);
+
+  }
+);
+
+
+eleventyConfig.addFilter(
+  "currentActivity",
+  function(pageUrl, activities) {
+
+    return activities.find(
+      a => a.url === pageUrl
+    );
+
+  }
+);
+
+
+
+
+
+
   return {
 
     pathPrefix:

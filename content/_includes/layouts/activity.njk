@@ -695,7 +695,7 @@ Ruta: {{ comp.ruta }}
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
         <p><strong>Responsable:</strong> {{ responsible }}</p>
         {% if prep_time %}<p><strong>Tiempo preparaci  n:</strong> {{ prep_time }}</p>{% endif %}
-        {% if accessibility %}<p><strong>Accesibilidad:</strong> {{ accessibility |  default([]) | join(", ") }}</p>{% endif %}
+{#        {% if accessibility %}<p><strong>Accesibilidad:</strong> {{ accessibility |  default([]) | join(", ") }}</p>{% endif %} #}
       </div>
     {% endif %}
 
@@ -795,15 +795,21 @@ Ruta: {{ comp.ruta }}
 
 
   {# ===== ACTIVIDADES RELACIONADAS ===== #}
-  {% set related = collections.activitiesSorted | reverse %}
+{% set currentActivity =
+     page.url | currentActivity(collections.activities) %}
+
+{% set related =
+     currentActivity
+     | relatedActivities(collections.activities) %}
   <section class="related-section">
     <h2><span class="material-symbols-outlined">stars</span> También te puede gustar</h2>
     <div class="related-carousel">
-      {% for item in related %}
-        {% if loop.index <= 4 and item.url != page.url %}
-          {% set relatedActivity = item %}
-          {% set item = relatedActivity.data %}
-          {% set activityUrl = relatedActivity.url %}
+      {% for rel in related %}
+
+        {% set relatedActivity = rel.activity %}
+        {% set item = relatedActivity.data %}
+        {% set activityUrl = relatedActivity.url %}
+
           <div class="related-card">
             {% if item.image %}
               <div class="related-img" style="background-image: url('{{ item.image | url }}');"></div>
@@ -816,7 +822,6 @@ Ruta: {{ comp.ruta }}
               <span><span class="material-symbols-outlined">cake</span> {{ item.age_group | ageRange }}</span>
             </div>
           </div>
-        {% endif %}
       {% endfor %}
     </div>
   </section>
