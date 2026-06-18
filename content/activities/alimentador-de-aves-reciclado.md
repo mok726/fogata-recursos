@@ -27,9 +27,9 @@ tools:
   - Tijeras
   - Cuerda
 competencies:
-  - Manualidades
-  - Paciencia
-  - Responsabilidad
+  - Habilidades Prácticas y Técnicas
+  - Autoconocimiento y Desarrollo Personal
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -88,10 +88,10 @@ prep_time: "20 min"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 3
 active_component: 2

@@ -24,9 +24,9 @@ materials:
   - Marcadores o materiales para dibujar
   - Información sobre los ODS (opcional)
 competencies:
-  - Trabajo en equipo
-  - Conciencia global
-  - Comunicación
+  - Trabajo en Equipo y Colaboración
+  - Ciudadanía y Conciencia Social
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo
 sdgs:
@@ -88,10 +88,10 @@ prep_time: "20 min"
 scout_values:
   - Hermandad
   - Respeto al prójimo
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

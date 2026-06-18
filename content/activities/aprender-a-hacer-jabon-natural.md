@@ -28,8 +28,8 @@ tools:
   - cuchara
   - etc.)
 competencies:
-  - Conciencia ambiental
-  - Habilidades prácticas
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -91,11 +91,10 @@ special_materials:
   - termómetro
 prep_time: "30 min + proceso de saponificación (24-48hs)"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 2

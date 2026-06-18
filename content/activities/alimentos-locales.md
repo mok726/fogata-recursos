@@ -28,8 +28,8 @@ materials:
   - lápices
   - colores.
 competencies:
-  - Investigación
-  - creatividad.
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -85,9 +85,9 @@ special_materials:
   - imágenes impresas
 prep_time: "25 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

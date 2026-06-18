@@ -26,8 +26,7 @@ materials:
 tools:
   - Pinceles (opcional)
 competencies:
-  - Creatividad
-  - Expresión artística
+  - Creatividad y Expresión
 responsible:
   - educador Scout
 sdgs:
@@ -71,7 +70,6 @@ category:
   - Conservación
 skills:
   - Creatividad
-  - Creatividad
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:
@@ -85,7 +83,6 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 4
 reflective_component: 3

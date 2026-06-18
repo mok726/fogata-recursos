@@ -22,8 +22,8 @@ age_group:
 tools:
   - Cuestionario de autoevaluación
 competencies:
-  - Pensamiento Crítico
-  - Autoconciencia
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Facilitador
 sdgs:
@@ -78,7 +78,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 1
 reflective_component: 4
 active_component: 1

@@ -22,8 +22,8 @@ age_group:
 tools:
   - Computadora para investigación
 competencies:
-  - Investigación
-  - Conciencia global
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
 responsible:
   - Líder de grupo
 sdgs:
@@ -74,7 +74,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

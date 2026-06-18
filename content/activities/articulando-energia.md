@@ -24,8 +24,8 @@ materials:
   - Tarjetas
   - Marcadores
 competencies:
-  - Vocabulario técnico
-  - Improvisación
+  - Comunicación Efectiva
+  - Creatividad y Expresión
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -81,7 +81,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 2
 active_component: 1

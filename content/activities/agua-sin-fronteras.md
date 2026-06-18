@@ -18,9 +18,9 @@ age: "14-17"
 age_group:
   - caminantes
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -76,8 +76,8 @@ prep_time: "30 min"
 scout_values:
   - Hermandad
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 1

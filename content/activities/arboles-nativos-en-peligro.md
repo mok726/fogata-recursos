@@ -24,8 +24,8 @@ tools:
   - Pala
   - Guantes
 competencies:
-  - Restauración ecológica
-  - Responsabilidad
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -76,10 +76,10 @@ prep_time: "30 min"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
-  - Servicio comunitario
+  - Vida en la Naturaleza y Aventura
+  - Participación comunitaria y Servicio
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 3

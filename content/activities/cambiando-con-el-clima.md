@@ -27,9 +27,9 @@ materials:
 tools:
   - Tijeras
 competencies:
-  - Análisis científico
-  - Creatividad
-  - Conciencia climática
+  - Ciencia y Matemáticas
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o científico ambiental
 sdgs:
@@ -87,8 +87,8 @@ prep_time: "30 min investigación + creación de juego"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 1

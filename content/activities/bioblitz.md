@@ -24,8 +24,8 @@ age_group:
 tools:
   - Guía de especies local
 competencies:
-  - Documentación
-  - Trabajo en equipo
+  - Investigación y Gestión de Datos
+  - Trabajo en Equipo y Colaboración
 responsible:
   - educador Scout
 sdgs:
@@ -69,7 +69,7 @@ category:
   - Ciencia
   - Tecnología
 skills:
-  - Documentación
+  - Investigación
   - Trabajo en equipo
 main_type: "Investigación"
 space_required: "Exterior abierto"
@@ -78,8 +78,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 4
 active_component: 3

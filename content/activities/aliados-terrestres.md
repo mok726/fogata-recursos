@@ -23,8 +23,8 @@ age_group:
 materials:
   - Libros/recursos en línea
 competencies:
-  - Investigación
-  - Conciencia ambiental
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -79,8 +79,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

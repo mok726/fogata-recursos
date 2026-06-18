@@ -22,8 +22,8 @@ age_group:
 materials:
   - Artículos científicos
 competencies:
-  - Pensamiento crítico
-  - Negociación
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -79,8 +79,8 @@ scout_values:
   - Honestidad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 5
 active_component: 1

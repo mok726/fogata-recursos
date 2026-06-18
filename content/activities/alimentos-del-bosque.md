@@ -84,9 +84,8 @@ prep_time: "30 min recolección (con experto) + cocción"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 3

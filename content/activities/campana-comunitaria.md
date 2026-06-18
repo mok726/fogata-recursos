@@ -23,8 +23,8 @@ materials:
   - Volantes
   - Materiales para talleres
 competencies:
-  - Movilización social
-  - Creatividad
+  - Ciudadanía y Conciencia Social
+  - Creatividad y Expresión
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -80,11 +80,11 @@ special_materials:
 prep_time: "2 horas de planificación + ejecución"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

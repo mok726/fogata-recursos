@@ -23,8 +23,8 @@ materials:
   - Acceso a internet
   - Papel y lápiz
 competencies:
-  - Conciencia cultural
-  - Investigación y comunicación
+  - Patrimonio, Historia y Cultura
+  - Investigación y Gestión de Datos
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -84,8 +84,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 4
 active_component: 1

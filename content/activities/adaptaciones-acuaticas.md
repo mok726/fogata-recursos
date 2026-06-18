@@ -23,8 +23,8 @@ materials:
   - Fichas de especies
   - Lápices
 competencies:
-  - Investigación
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -80,7 +80,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

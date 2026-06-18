@@ -23,9 +23,9 @@ materials:
   - Carteles y materiales para la campaña
   - Espacio para la mesa redonda
 competencies:
-  - Organización
-  - Conciencia ambiental
-  - Comunicación
+  - Planificación y Organización
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo
 sdgs:
@@ -83,10 +83,10 @@ prep_time: "planificación previa (1 semana)"
 scout_values:
   - Hermandad
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 4
 active_component: 2

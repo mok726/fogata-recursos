@@ -25,8 +25,8 @@ materials:
 tools:
   - Plataforma de blogging
 competencies:
-  - Alfabetización digital
-  - Persistencia
+  - Alfabetización Digital y Tecnología
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -83,7 +83,7 @@ scout_values:
   - Hermandad
   - Perseverancia
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 # ===== INFORMACIÓN DE FOOTER =====

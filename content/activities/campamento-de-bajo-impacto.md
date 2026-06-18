@@ -23,8 +23,8 @@ materials:
   - Tiendas de campaña
   - Utensilios reutilizables
 competencies:
-  - Planificación sostenible
-  - Autosuficiencia
+  - Planificación y Organización
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Educador Scout/ Guiadora ADA
 sdgs:
@@ -83,9 +83,8 @@ scout_values:
   - Hermandad
   - Naturaleza
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 4
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

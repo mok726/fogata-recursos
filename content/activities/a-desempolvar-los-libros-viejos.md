@@ -23,8 +23,8 @@ age_group:
 materials:
   - Libro
 competencies:
-  - Lectura crítica
-  - Conciencia ambiental
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -77,7 +77,7 @@ prep_time: "10 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

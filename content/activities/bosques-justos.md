@@ -22,9 +22,8 @@ age_group:
 materials:
   - Documentos sobre políticas forestales (opcional)
 competencies:
-  - Debate
-  - Conciencia social
-  - Pensamiento político
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o líder comunitario
 sdgs:
@@ -80,8 +79,8 @@ prep_time: "30 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

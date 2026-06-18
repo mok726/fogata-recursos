@@ -19,8 +19,7 @@ age: "11-14"
 age_group:
   - scouts
 competencies:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento Crítico y Análisis
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -70,11 +69,11 @@ space_required: "Exterior abierto"
 prep_time: "30 min (organizar visita) + visita"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 3

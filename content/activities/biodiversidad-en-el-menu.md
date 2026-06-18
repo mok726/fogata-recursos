@@ -23,8 +23,8 @@ materials:
   - Fichas nutricionales
   - Imágenes de alimentos
 competencies:
-  - Conciencia nutricional
-  - Pensamiento crítico
+  - Salud, Bienestar y Seguridad
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -75,10 +75,10 @@ special_materials:
   - imágenes de alimentos variados
 prep_time: "10 min"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

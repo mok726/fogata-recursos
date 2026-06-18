@@ -23,8 +23,8 @@ materials:
   - Texto de acuerdos (ej: CBD)
   - Materiales para póster
 competencies:
-  - Conciencia política
-  - Trabajo en equipo
+  - Ciudadanía y Conciencia Social
+  - Trabajo en Equipo y Colaboración
 responsible:
   - educador Scout
 sdgs:
@@ -83,8 +83,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

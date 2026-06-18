@@ -26,8 +26,8 @@ tools:
   - Regla
   - Computadora (opcional)
 competencies:
-  - Análisis crítico
-  - Diseño gráfico
+  - Pensamiento Crítico y Análisis
+  - Creatividad y Expresión
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -82,8 +82,8 @@ prep_time: "30 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 1
 reflective_component: 5
 active_component: 1

@@ -78,9 +78,9 @@ special_materials:
   - bambú)
 prep_time: "20 min investigación + juego"
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 3

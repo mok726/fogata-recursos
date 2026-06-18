@@ -23,9 +23,9 @@ materials:
   - Carteles y folletos informativos
   - Espacio para el evento
 competencies:
-  - Organización
-  - Conciencia ambiental
-  - Comunicación
+  - Planificación y Organización
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo
 sdgs:
@@ -80,11 +80,11 @@ special_materials:
 prep_time: "1 hora (organización)"
 scout_values:
   - Naturaleza
-  - Sencillez y Austeridad
-  - Servicio a los demás
+  - Consumo consciente y Gratitud
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 3
 active_component: 2

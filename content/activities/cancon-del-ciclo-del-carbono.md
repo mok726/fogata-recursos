@@ -23,8 +23,8 @@ materials:
   - Letras de canciones
   - Instrumentos (opcional)
 competencies:
-  - Creatividad musical
-  - Aprendizaje colaborativo
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -80,7 +80,7 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 1

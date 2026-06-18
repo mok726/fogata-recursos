@@ -24,9 +24,8 @@ materials:
   - Palo o rama
   - piedras
 competencies:
-  - Pensamiento Crítico
-  - Orientación
-  - Aprendizaje Práctico
+  - Pensamiento Crítico y Análisis
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -72,6 +71,7 @@ category:
 skills:
   - Pensamiento crítico
   - Orientación
+  - Aprendizaje práctico
 main_type: "Orientación"
 space_required: "Exterior abierto"
 special_materials:
@@ -82,8 +82,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 2

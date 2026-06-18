@@ -27,8 +27,8 @@ materials:
 tools:
   - Multímetro (opcional)
 competencies:
-  - Experimentación
-  - Seguridad eléctrica
+  - Ciencia y Matemáticas
+  - Salud, Bienestar y Seguridad
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:

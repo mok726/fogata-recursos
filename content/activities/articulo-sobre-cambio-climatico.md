@@ -22,8 +22,8 @@ age_group:
 tools:
   - Computadora (opcional)
 competencies:
-  - Redacción
-  - Investigación
+  - Comunicación Efectiva
+  - Investigación y Gestión de Datos
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -76,7 +76,7 @@ scout_values:
   - Hermandad
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

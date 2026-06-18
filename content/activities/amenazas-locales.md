@@ -23,9 +23,9 @@ materials:
   - Papel y lápiz para hacer listas
   - Información sobre pesticidas locales (opcional)
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo
 sdgs:
@@ -86,10 +86,10 @@ prep_time: "20 min"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

@@ -24,9 +24,9 @@ materials:
   - Papel
   - Lápices de colores o fotos (opcional)
 competencies:
-  - Planificación
-  - Creatividad
-  - Habilidades de supervivencia
+  - Planificación y Organización
+  - Creatividad y Expresión
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Scouter o guía outdoor
 sdgs:
@@ -83,9 +83,8 @@ prep_time: "20 min guía + actividad"
 scout_values:
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 3

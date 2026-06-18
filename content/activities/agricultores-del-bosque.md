@@ -23,9 +23,9 @@ materials:
   - Materiales para modelo o cómic
   - Recursos sobre agricultura forestal
 competencies:
-  - Investigación
-  - Creatividad
-  - Conciencia agrícola
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o agrónomo
 sdgs:
@@ -85,7 +85,6 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 2
 reflective_component: 4

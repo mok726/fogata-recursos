@@ -24,8 +24,8 @@ materials:
   - Báscula
   - Bolsas para clasificar
 competencies:
-  - Matemáticas aplicadas
-  - Conciencia ambiental
+  - Ciencia y Matemáticas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -79,7 +79,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 2

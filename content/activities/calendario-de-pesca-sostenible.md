@@ -25,8 +25,8 @@ materials:
 tools:
   - Computadora (investigación)
 competencies:
-  - Investigación
-  - Consumo responsable
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -80,11 +80,11 @@ special_materials:
   - acceso a datos de pesca local
 prep_time: "45 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -31,9 +31,9 @@ tools:
   - Lápiz
   - balde de agua
 competencies:
-  - Pensamiento Crítico
-  - Creatividad
-  - Conciencia Ambiental
+  - Pensamiento Crítico y Análisis
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -93,7 +93,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 2

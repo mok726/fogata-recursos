@@ -72,8 +72,8 @@ prep_time: "25 min"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 4
 active_component: 1

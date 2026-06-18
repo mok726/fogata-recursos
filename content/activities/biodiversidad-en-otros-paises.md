@@ -24,8 +24,8 @@ materials:
   - Atlas/mapas mundiales
   - Acceso a internet
 competencies:
-  - Geografía
-  - Conciencia global
+  - Patrimonio, Historia y Cultura
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -75,8 +75,8 @@ prep_time: "15 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 4
 active_component: 1

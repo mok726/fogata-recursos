@@ -20,9 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Pensamiento crítico
-  - Conciencia intercultural
-  - Solución de problemas
+  - Pensamiento Crítico y Análisis
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o antropólogo
 sdgs:
@@ -80,8 +79,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

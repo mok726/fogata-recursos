@@ -26,9 +26,9 @@ materials:
   - piedras)
   - Grabadora (opcional)
 competencies:
-  - Creatividad musical
-  - Escucha activa
-  - Coordinación
+  - Creatividad y Expresión
+  - Comunicación Efectiva
+  - Salud, Bienestar y Seguridad
 responsible:
   - Scouter o músico
 sdgs:
@@ -88,9 +88,9 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
-  - Arte
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+  - Marco simbólico
 ludic_component: 5
 reflective_component: 2
 active_component: 2

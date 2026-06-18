@@ -28,8 +28,8 @@ tools:
   - Lupa (opcional)
   - Regla
 competencies:
-  - Análisis científico
-  - Interpretación de datos
+  - Ciencia y Matemáticas
+  - Investigación y Gestión de Datos
 responsible:
   - Scouter o científico invitado
 sdgs:
@@ -88,9 +88,8 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 2
 reflective_component: 4
 active_component: 1

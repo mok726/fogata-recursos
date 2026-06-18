@@ -27,8 +27,8 @@ materials:
   - lápices
   - adhesivos.
 competencies:
-  - Observación
-  - reflexión.
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -85,9 +85,9 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Respeto al prójimo
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

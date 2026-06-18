@@ -26,8 +26,8 @@ materials:
 tools:
   - Cámara (opcional)
 competencies:
-  - Liderazgo comunitario
-  - Conciencia colectiva
+  - Liderazgo y Gestión
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -92,8 +92,8 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

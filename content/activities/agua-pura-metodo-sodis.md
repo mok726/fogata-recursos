@@ -25,8 +25,8 @@ materials:
   - agua de fuente natural
   - superficie reflectante
 competencies:
-  - Conciencia Ambiental
-  - Experimentación Científica
+  - Sostenibilidad y Medio Ambiente
+  - Ciencia y Matemáticas
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -82,11 +82,11 @@ special_materials:
   - agua de fuente natural
 prep_time: "10 min + 6 horas exposición"
 scout_values:
-  - Salud
-  - Servicio a los demás
+  - Autocuidado integral
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 2
 reflective_component: 4

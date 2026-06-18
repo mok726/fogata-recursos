@@ -21,8 +21,8 @@ age_group:
   - manada
   - scouts
 competencies:
-  - Creatividad
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -78,8 +78,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 5
 reflective_component: 2
 active_component: 2

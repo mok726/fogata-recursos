@@ -20,8 +20,7 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Escritura
-  - Divulgación
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -72,7 +71,7 @@ scout_values:
   - Hermandad
   - Perseverancia
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

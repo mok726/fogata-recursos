@@ -18,9 +18,9 @@ age: "14-17"
 age_group:
   - caminantes
 competencies:
-  - Lectura crítica
-  - Conciencia ambiental
-  - Comunicación
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
 sdgs:
   - 6
@@ -72,7 +72,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

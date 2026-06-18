@@ -23,9 +23,8 @@ materials:
   - Recursos históricos
   - Equipo de grabación (opcional)
 competencies:
-  - Investigación histórica
-  - Expresión política
-  - Conciencia social
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o activista ambiental
 sdgs:
@@ -84,10 +83,10 @@ prep_time: "30 min investigación + producción"
 scout_values:
   - Naturaleza
   - Respeto al prójimo
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

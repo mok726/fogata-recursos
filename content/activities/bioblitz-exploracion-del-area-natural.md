@@ -24,8 +24,8 @@ materials:
   - Lupas
   - Cámara digital
 competencies:
-  - Pensamiento Sistémico
-  - Colaboración
+  - Pensamiento Crítico y Análisis
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -85,9 +85,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 4
 reflective_component: 3
 active_component: 4

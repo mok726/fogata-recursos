@@ -26,9 +26,9 @@ materials:
 tools:
   - Cámara o grabadora (opcional)
 competencies:
-  - Investigación
-  - Comunicación
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Comunicación Efectiva
+  - Pensamiento Crítico y Análisis
 responsible:
   - Scouter o experto en gestión de riesgos
 sdgs:
@@ -82,7 +82,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

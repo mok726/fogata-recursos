@@ -21,9 +21,9 @@ age_group:
   - manada
   - scouts
 competencies:
-  - Creatividad
-  - Reflexión grupal
-  - Conciencia ecológica
+  - Creatividad y Expresión
+  - Autoconocimiento y Desarrollo Personal
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o líder artístico
 sdgs:
@@ -77,7 +77,7 @@ special_materials:
   - forest connection
 prep_time: "art therapy atmosphere.'"
 scout_method:
-  - Arte
+  - Marco simbólico
 # ===== INFORMACIÓN DE FOOTER =====
 # references:
 #   - title: "Pollinators Challenge Badge"

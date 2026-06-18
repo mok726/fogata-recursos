@@ -82,12 +82,11 @@ special_materials:
   - cinta de teflón
 prep_time: "45 min"
 scout_values:
-  - Sencillez y Austeridad
-  - Servicio a los demás
+  - Consumo consciente y Gratitud
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 3

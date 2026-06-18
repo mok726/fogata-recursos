@@ -79,8 +79,8 @@ scout_values:
   - Honestidad
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 1

@@ -26,8 +26,8 @@ materials:
   - agua
   - termómetros
 competencies:
-  - Análisis de datos
-  - Conciencia ambiental
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -87,7 +87,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 2
 reflective_component: 5
 active_component: 1

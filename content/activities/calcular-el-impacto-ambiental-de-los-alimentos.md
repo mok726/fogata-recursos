@@ -27,8 +27,8 @@ materials:
   - Acceso a internet
   - Papel y lápiz
 competencies:
-  - Conciencia ambiental
-  - Investigación y análisis
+  - Sostenibilidad y Medio Ambiente
+  - Investigación y Gestión de Datos
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -89,7 +89,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

@@ -29,9 +29,9 @@ tools:
   - Computadora (opcional para investigación)
   - Cámara (opcional)
 competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Comunicación creativa
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Scouter o líder de proyecto
 sdgs:
@@ -96,8 +96,8 @@ prep_time: "30 min + tiempo de investigación"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

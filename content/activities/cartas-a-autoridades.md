@@ -23,8 +23,8 @@ materials:
   - Datos locales
   - Sobres/cartulina
 competencies:
-  - Ciudadanía activa
-  - Redacción formal
+  - Ciudadanía y Conciencia Social
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -84,7 +84,7 @@ scout_values:
   - Perseverancia
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

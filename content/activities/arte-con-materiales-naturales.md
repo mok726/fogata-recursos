@@ -26,8 +26,7 @@ materials:
   - piedras
   - Base para collage
 competencies:
-  - Creatividad
-  - Expresión artística
+  - Creatividad y Expresión
 responsible:
   - educador Scout
 sdgs:
@@ -71,7 +70,6 @@ category:
   - Sostenibilidad
 skills:
   - Creatividad
-  - Creatividad
 main_type: "Arte"
 space_required: "Exterior abierto o salón"
 prep_time: "15 min"
@@ -79,7 +77,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 4
 reflective_component: 2

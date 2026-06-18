@@ -26,8 +26,8 @@ tools:
   - Computadora para redacción
   - Herramientas de diseño (opcional)
 competencies:
-  - Creatividad
-  - Comunicación digital
+  - Creatividad y Expresión
+  - Comunicación Efectiva
 responsible:
   - Líder de grupo
 sdgs:
@@ -83,7 +83,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

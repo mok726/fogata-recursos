@@ -26,8 +26,8 @@ tools:
   - Pala
   - Tijeras de podar
 competencies:
-  - Liderazgo ambiental
-  - Trabajo en equipo
+  - Liderazgo y Gestión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - educador Scout
 sdgs:
@@ -79,11 +79,11 @@ prep_time: "1 hora planificación + limpieza + monitoreo"
 scout_values:
   - Hermandad
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Vida al aire libre
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 4

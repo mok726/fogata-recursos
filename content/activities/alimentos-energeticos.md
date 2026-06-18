@@ -24,8 +24,8 @@ materials:
   - Tarjetas
   - Datos de huella energética
 competencies:
-  - Conciencia alimentaria
-  - Cálculo matemático
+  - Salud, Bienestar y Seguridad
+  - Ciencia y Matemáticas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -77,10 +77,10 @@ special_materials:
   - datos de huella energética
 prep_time: "15 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

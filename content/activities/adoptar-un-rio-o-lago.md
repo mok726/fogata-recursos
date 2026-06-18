@@ -24,8 +24,8 @@ tools:
   - guantes
   - etc.)
 competencies:
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -79,11 +79,11 @@ prep_time: "30 min + visitas periódicas (1 mes o más)"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Vida al aire libre
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 4

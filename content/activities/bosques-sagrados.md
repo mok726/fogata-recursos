@@ -20,9 +20,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Investigación intercultural
-  - Respeto religioso
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
+  - Pensamiento Crítico y Análisis
 responsible:
   - Scouter o líder religioso
 sdgs:
@@ -71,7 +71,7 @@ main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "25 min"
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 5
 active_component: 1

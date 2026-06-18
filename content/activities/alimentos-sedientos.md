@@ -19,9 +19,9 @@ age_group:
   - scouts
   - caminantes
 competencies:
-  - Conciencia ambiental
-  - Pensamiento crítico
-  - Responsabilidad
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
+  - Ciudadanía y Conciencia Social
 responsible:
 sdgs:
   - 6
@@ -71,10 +71,10 @@ main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "20 min + seguimiento semanal"
 scout_values:
-  - Salud
-  - Sencillez y Austeridad
+  - Autocuidado integral
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1
