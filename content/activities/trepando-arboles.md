@@ -23,9 +23,8 @@ age_group:
 tools:
   - Equipo de escalada (opcional)
 competencies:
-  - Investigación
-  - Conciencia de seguridad
-  - Habilidades físicas
+  - Investigación y Gestión de Datos
+  - Salud, Bienestar y Seguridad
 responsible:
   - Scouter o experto en arboricultura
 sdgs:
@@ -78,8 +77,8 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

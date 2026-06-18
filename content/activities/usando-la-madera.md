@@ -24,8 +24,8 @@ materials:
   - Papel
   - Lápiz
 competencies:
-  - Pensamiento crítico
-  - Conciencia de consumo
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter
 sdgs:
@@ -77,10 +77,10 @@ special_materials:
   - lápiz
 prep_time: "15 min + tiempo en casa"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

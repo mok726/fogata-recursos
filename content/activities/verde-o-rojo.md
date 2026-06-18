@@ -22,9 +22,8 @@ age_group:
 materials:
   - Tarjetas verdes y rojas
 competencies:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
-  - Autoconciencia
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -80,8 +79,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 4
 active_component: 1

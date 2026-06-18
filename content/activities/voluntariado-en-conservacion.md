@@ -20,8 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Responsabilidad
-  - Trabajo práctico
+  - Ciudadanía y Conciencia Social
+  - Habilidades Prácticas y Técnicas
 responsible:
   - organización local
 sdgs:
@@ -71,11 +71,11 @@ space_required: "Exterior / interior según organización"
 prep_time: "organizar voluntariado con anticipación (mínimo 8 horas)"
 scout_values:
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Servicio comunitario
-  - Vida al aire libre
+  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 4
 active_component: 4

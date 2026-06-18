@@ -21,8 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Liderazgo
-  - Comunicación
+  - Liderazgo y Gestión
+  - Comunicación Efectiva
 responsible:
   - guía local/educador
 sdgs:
@@ -73,10 +73,10 @@ space_required: "Exterior abierto (cuenca local)"
 prep_time: "1 hora (preparación) + tour"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 5
 active_component: 3

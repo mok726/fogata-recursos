@@ -23,8 +23,8 @@ materials:
   - Espacio abierto
   - Colchonetas (opcional)
 competencies:
-  - Conciencia corporal
-  - Aprendizaje kinestésico
+  - Salud, Bienestar y Seguridad
+  - Habilidades Prácticas y Técnicas
 responsible:
   - educador Scout
 sdgs:
@@ -77,11 +77,11 @@ special_materials:
   - espacio despejado
 prep_time: "10 min"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 5
 reflective_component: 1
 active_component: 3

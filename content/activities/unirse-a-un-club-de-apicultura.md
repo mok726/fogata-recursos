@@ -22,9 +22,9 @@ age_group:
 materials:
   - Información sobre clubes de apicultura
 competencies:
-  - Trabajo en equipo
-  - Conciencia ambiental
-  - Responsabilidad
+  - Trabajo en Equipo y Colaboración
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - Responsable del grupo
 sdgs:
@@ -77,11 +77,11 @@ special_materials:
 prep_time: "30 min (investigación) + seguimiento"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 2

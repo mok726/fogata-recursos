@@ -67,7 +67,6 @@ category:
   - Educación
 skills:
   - Investigación
-  - Investigación
   - Comunicación
 main_type: "Investigación"
 space_required: "Salón amplio"
@@ -78,7 +77,7 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

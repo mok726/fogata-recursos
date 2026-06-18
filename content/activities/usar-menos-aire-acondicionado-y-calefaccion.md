@@ -20,8 +20,8 @@ age_group:
   - scouts
   - caminantes
 competencies:
-  - Conciencia ambiental
-  - Aprendizaje histórico
+  - Sostenibilidad y Medio Ambiente
+  - Patrimonio, Historia y Cultura
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -76,10 +76,10 @@ special_materials:
   - cortinas
 prep_time: "15 min + seguimiento 1 mes"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -63,7 +63,6 @@ category:
   - Educación
 skills:
   - Investigación
-  - Investigación
   - Comunicación
 main_type: "Investigación"
 space_required: "Salón amplio o exterior"
@@ -73,7 +72,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

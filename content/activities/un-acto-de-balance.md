@@ -24,8 +24,8 @@ materials:
 tools:
   - Espacio abierto
 competencies:
-  - Empatía
-  - Conciencia social
+  - Autoconocimiento y Desarrollo Personal
+  - Ciudadanía y Conciencia Social
 responsible:
   - Líder de grupo
 sdgs:
@@ -78,8 +78,8 @@ prep_time: "5 min preparación + actividad"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 5
 active_component: 2

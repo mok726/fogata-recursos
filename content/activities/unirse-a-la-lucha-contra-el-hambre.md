@@ -22,8 +22,7 @@ age_group:
 materials:
   - Acceso a internet
 competencies:
-  - Conciencia social
-  - Participación global
+  - Ciudadanía y Conciencia Social
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -75,8 +74,8 @@ main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 prep_time: "20 min + seguimiento"
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -22,8 +22,8 @@ age_group:
 materials:
   - Bicicleta o transporte público
 competencies:
-  - Conciencia ambiental
-  - Planificación y organización
+  - Sostenibilidad y Medio Ambiente
+  - Planificación y Organización
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -78,12 +78,12 @@ special_materials:
   - ropa adecuada
 prep_time: "15 min + seguimiento 1 mes"
 scout_values:
-  - Salud
-  - Sencillez y Austeridad
+  - Autocuidado integral
+  - Consumo consciente y Gratitud
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
-  - Servicio comunitario
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 2
 active_component: 4

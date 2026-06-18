@@ -24,9 +24,9 @@ materials:
   - Materiales para carteles
   - Mapas
 competencies:
-  - Creatividad
-  - Comunicación
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Comunicación Efectiva
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -86,9 +86,9 @@ prep_time: "1 hora"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 2

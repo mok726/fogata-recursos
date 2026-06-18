@@ -20,8 +20,8 @@ age_group:
   - scouts
   - caminantes
 competencies:
-  - Conciencia ambiental
-  - Investigación y análisis
+  - Sostenibilidad y Medio Ambiente
+  - Investigación y Gestión de Datos
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -74,7 +74,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

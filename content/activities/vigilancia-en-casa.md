@@ -24,8 +24,8 @@ materials:
   - Papel
   - Lápices
 competencies:
-  - Conciencia ambiental
-  - Responsabilidad
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -81,7 +81,7 @@ scout_values:
   - Naturaleza
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

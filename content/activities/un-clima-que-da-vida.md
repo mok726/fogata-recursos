@@ -23,8 +23,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Comunicación
-  - trabajo en equipo.
+  - Comunicación Efectiva
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -77,8 +77,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 2

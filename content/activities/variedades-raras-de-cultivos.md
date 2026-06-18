@@ -20,8 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Documentación
-  - Advocacy
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -65,18 +65,18 @@ category:
   - Genética
   - Conservación
 skills:
-  - Documentación
+  - Investigación
   - Advocacy
 main_type: "Investigación"
 space_required: "Exterior abierto (granja o mercado)"
 prep_time: "30 min + investigación"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 2

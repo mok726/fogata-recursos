@@ -29,8 +29,8 @@ tools:
   - Guantes
   - Cuchara de madera
 competencies:
-  - Química básica
-  - Arte sustentable
+  - Ciencia y Matemáticas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -96,7 +96,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 2

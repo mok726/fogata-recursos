@@ -22,8 +22,8 @@ age_group:
 materials:
   - Libro de dibujos y guía de actividades (disponible en línea)
 competencies:
-  - Conciencia social
-  - Aprendizaje práctico
+  - Ciudadanía y Conciencia Social
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -69,13 +69,14 @@ category:
   - Alimentación
 skills:
   - Conciencia social
+  - Aprendizaje práctico
 main_type: "Investigación"
 prep_time: "15 min"
 scout_values:
   - Solidaridad
   - Justicia
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

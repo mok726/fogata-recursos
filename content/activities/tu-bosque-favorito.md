@@ -24,9 +24,9 @@ materials:
   - Fotos o artículos sobre el bosque
   - Cartulina
 competencies:
-  - Investigación
-  - Diseño
-  - Advocacy
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o conservacionista
 sdgs:
@@ -84,7 +84,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

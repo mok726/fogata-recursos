@@ -20,8 +20,8 @@ age_group:
   - castores
   - manada
 competencies:
-  - Conciencia ambiental
-  - Aprendizaje práctico
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -66,6 +66,7 @@ category:
   - Educación
 skills:
   - Conciencia ambiental
+  - Aprendizaje práctico
 main_type: "Investigación"
 space_required: "Exterior abierto (mercado local)"
 prep_time: "15 min + visita"
@@ -73,8 +74,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 2

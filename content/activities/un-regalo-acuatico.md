@@ -24,9 +24,9 @@ materials:
   - bebedero para pájaros)
   - Piedras pequeñas
 competencies:
-  - Trabajo manual
-  - Observación
-  - Conciencia ambiental
+  - Habilidades Prácticas y Técnicas
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo
 sdgs:
@@ -79,11 +79,11 @@ special_materials:
 prep_time: "10 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 2
 active_component: 2

@@ -23,8 +23,8 @@ age_group:
 tools:
   - Utensilios de cocina
 competencies:
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -69,16 +69,17 @@ category:
   - Energía
 skills:
   - Conciencia ambiental
+  - Aprendizaje práctico
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 prep_time: "15 min + tiempo de cocción"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 3
 active_component: 2

@@ -21,9 +21,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Observación a largo plazo
-  - Análisis comparativo
-  - Expresión creativa
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
+  - Creatividad y Expresión
 responsible:
   - Scouter o educador ambiental
 sdgs:
@@ -69,7 +69,7 @@ category:
 skills:
   - Observación a largo plazo
   - Análisis comparativo
-  - Creatividad
+  - Expresión artística
 main_type: "Investigación"
 space_required: "Exterior abierto (bosque)"
 prep_time: "15 min por visita + trabajo creativo"
@@ -77,8 +77,8 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 3

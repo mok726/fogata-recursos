@@ -24,8 +24,8 @@ materials:
   - Disfraces (opcional)
   - Cámara (opcional)
 competencies:
-  - Trabajo en equipo
-  - Comunicación
+  - Trabajo en Equipo y Colaboración
+  - Comunicación Efectiva
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -83,8 +83,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 4
 active_component: 2

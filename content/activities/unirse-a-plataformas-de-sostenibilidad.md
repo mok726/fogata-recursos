@@ -22,8 +22,8 @@ age_group:
 materials:
   - Acceso a internet
 competencies:
-  - Conciencia ambiental
-  - Aprendizaje continuo
+  - Sostenibilidad y Medio Ambiente
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -79,7 +79,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

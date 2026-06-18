@@ -26,8 +26,8 @@ tools:
   - Lápiz
   - Papel
 competencies:
-  - Pensamiento Crítico
-  - Autoconciencia
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -84,8 +84,8 @@ scout_values:
   - Hermandad
   - Responsabilidad
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1
