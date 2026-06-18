@@ -26,8 +26,7 @@ materials:
 tools:
   - Utensilios de cocina
 competencies:
-  - Historia oral
-  - Preservación cultural
+  - Patrimonio, Historia y Cultura
 responsible:
   - educador Scout
 sdgs:
@@ -81,7 +80,7 @@ prep_time: "15 min preparación + entrevista"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 2

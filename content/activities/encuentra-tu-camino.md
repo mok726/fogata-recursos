@@ -26,9 +26,9 @@ materials:
 tools:
   - Brújula
 competencies:
-  - Orientación espacial
-  - Supervivencia
-  - Adaptabilidad
+  - Pensamiento Crítico y Análisis
+  - Habilidades Prácticas y Técnicas
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Scouter o experto en orientación
 sdgs:
@@ -86,9 +86,9 @@ prep_time: "30 min preparación + actividad"
 scout_values:
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 4

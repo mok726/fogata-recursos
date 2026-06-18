@@ -20,9 +20,9 @@ age_group:
   - castores
   - manada
 competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -75,8 +75,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 2
 active_component: 1

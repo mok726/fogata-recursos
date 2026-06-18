@@ -23,9 +23,9 @@ materials:
   - Papel y lápiz para hacer listas
   - Guía de identificación de hábitats (opcional)
 competencies:
-  - Observación
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo
 sdgs:
@@ -78,10 +78,10 @@ space_required: "Exterior abierto"
 prep_time: "15 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

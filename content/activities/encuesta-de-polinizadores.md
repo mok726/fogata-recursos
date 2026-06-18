@@ -20,9 +20,9 @@ age_group:
   - castores
   - manada
 competencies:
-  - Observación
-  - Registro de datos
-  - Trabajo en equipo
+  - Pensamiento Crítico y Análisis
+  - Investigación y Gestión de Datos
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo
 sdgs:
@@ -83,7 +83,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

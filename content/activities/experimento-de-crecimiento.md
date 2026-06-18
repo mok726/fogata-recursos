@@ -24,8 +24,8 @@ materials:
   - Macetas
   - Tierra
 competencies:
-  - Paciencia
-  - Método científico
+  - Autoconocimiento y Desarrollo Personal
+  - Ciencia y Matemáticas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:

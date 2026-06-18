@@ -26,8 +26,8 @@ materials:
 tools:
   - Computadora (opcional para investigación)
 competencies:
-  - Investigación
-  - Storytelling
+  - Investigación y Gestión de Datos
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -87,8 +87,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

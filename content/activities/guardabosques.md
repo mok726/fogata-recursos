@@ -70,10 +70,10 @@ space_required: "Salón amplio o parque"
 prep_time: "20 min + entrevista"
 scout_values:
   - Respeto al prójimo
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 1

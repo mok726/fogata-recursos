@@ -23,8 +23,8 @@ age_group:
 tools:
   - Pala pequeña
 competencies:
-  - Método científico
-  - Análisis
+  - Ciencia y Matemáticas
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -84,7 +84,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 2
 reflective_component: 4
 active_component: 2

@@ -24,8 +24,8 @@ materials:
 tools:
   - Marcadores
 competencies:
-  - Pensamiento colectivo
-  - Resolución de problemas
+  - Trabajo en Equipo y Colaboración
+  - Pensamiento Crítico y Análisis
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -79,8 +79,8 @@ prep_time: "25 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 # ===== INFORMACIÓN DE FOOTER =====

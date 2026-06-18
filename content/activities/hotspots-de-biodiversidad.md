@@ -23,8 +23,8 @@ materials:
   - Mapa mundial
   - Acceso a internet
 competencies:
-  - Conciencia global
-  - Priorización
+  - Ciudadanía y Conciencia Social
+  - Planificación y Organización
 responsible:
   - educador Scout
 sdgs:
@@ -79,7 +79,7 @@ special_materials:
   - marcadores
 prep_time: "15 min"
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

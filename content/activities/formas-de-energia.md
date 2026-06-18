@@ -20,8 +20,8 @@ age_group:
   - manada
   - scouts
 competencies:
-  - Creatividad
-  - Trabajo colaborativo
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -74,8 +74,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 3

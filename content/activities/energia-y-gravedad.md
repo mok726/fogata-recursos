@@ -25,8 +25,8 @@ materials:
 tools:
   - Cinta métrica (opcional)
 competencies:
-  - Observación científica
-  - Aprendizaje práctico
+  - Ciencia y Matemáticas
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -70,6 +70,7 @@ category:
   - Energía
 skills:
   - Observación
+  - Aprendizaje práctico
 main_type: "Experimentación"
 space_required: "Salón amplio o exterior"
 special_materials:
@@ -81,7 +82,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 4
 reflective_component: 3
 active_component: 2

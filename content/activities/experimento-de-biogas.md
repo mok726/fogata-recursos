@@ -27,8 +27,8 @@ materials:
 tools:
   - Guantes
 competencies:
-  - Pensamiento científico
-  - Paciencia
+  - Ciencia y Matemáticas
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - educador Scout
 sdgs:
@@ -89,7 +89,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 2
 reflective_component: 4
 active_component: 1

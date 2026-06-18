@@ -25,8 +25,8 @@ materials:
   - especias)
   - Cámara (opcional)
 competencies:
-  - Creatividad
-  - Pedagogía
+  - Creatividad y Expresión
+  - Liderazgo y Gestión
 responsible:
   - educador Scout
 sdgs:
@@ -83,11 +83,11 @@ special_materials:
   - cámara (opcional)
 prep_time: "30 min"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 2

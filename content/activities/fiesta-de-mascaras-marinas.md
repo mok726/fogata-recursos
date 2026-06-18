@@ -26,8 +26,8 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Trabajo en equipo
-  - Comunicación
+  - Trabajo en Equipo y Colaboración
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -85,8 +85,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 3

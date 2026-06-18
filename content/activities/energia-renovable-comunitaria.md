@@ -23,8 +23,8 @@ age_group:
 materials:
   - Datos locales de energía
 competencies:
-  - Conciencia cívica
-  - Pensamiento sistémico
+  - Ciudadanía y Conciencia Social
+  - Pensamiento Crítico y Análisis
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -81,7 +81,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -26,8 +26,8 @@ materials:
 tools:
   - Marcadores
 competencies:
-  - Trabajo colaborativo
-  - Pensamiento global
+  - Trabajo en Equipo y Colaboración
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -89,8 +89,8 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

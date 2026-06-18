@@ -22,8 +22,8 @@ age_group:
 materials:
   - Globo inflable con mapa mundial
 competencies:
-  - Conciencia global
-  - Geografía
+  - Ciudadanía y Conciencia Social
+  - Patrimonio, Historia y Cultura
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -77,8 +77,8 @@ prep_time: "10 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 3
 active_component: 2

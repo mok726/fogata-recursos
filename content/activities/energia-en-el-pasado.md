@@ -21,8 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Empatía intergeneracional
-  - Análisis histórico
+  - Ciudadanía y Conciencia Social
+  - Patrimonio, Historia y Cultura
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -75,7 +75,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

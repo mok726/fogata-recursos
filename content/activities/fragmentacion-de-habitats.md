@@ -23,8 +23,8 @@ materials:
   - Datos locales
   - Tarjetas de roles
 competencies:
-  - Debate
-  - Empatía
+  - Comunicación Efectiva
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - educador Scout
 sdgs:
@@ -82,8 +82,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 5
 active_component: 1

@@ -22,8 +22,8 @@ age_group:
 tools:
   - Brújula (opcional)
 competencies:
-  - Resistencia física
-  - Análisis ambiental
+  - Salud, Bienestar y Seguridad
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - guía de montaña
 sdgs:
@@ -77,8 +77,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 5

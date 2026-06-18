@@ -26,8 +26,8 @@ materials:
 tools:
   - Herramientas de diseño (opcional)
 competencies:
-  - Creatividad
-  - Resolución de problemas
+  - Creatividad y Expresión
+  - Pensamiento Crítico y Análisis
 responsible:
   - Líder de grupo
 sdgs:
@@ -85,7 +85,6 @@ prep_time: "25 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 4
 reflective_component: 4

@@ -30,9 +30,9 @@ materials:
   - Pegamento
   - Tijeras
 competencies:
-  - Conciencia ambiental
-  - Creatividad
-  - Comunicación
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -92,8 +92,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Arte
+  - Aprender haciendo
+  - Marco simbólico
 ludic_component: 4
 reflective_component: 3
 active_component: 1

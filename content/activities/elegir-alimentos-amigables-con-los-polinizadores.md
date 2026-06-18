@@ -22,9 +22,9 @@ age_group:
 materials:
   - Lista de alimentos orgánicos y locales
 competencies:
-  - Conciencia alimentaria
-  - Conciencia ambiental
-  - Responsabilidad
+  - Salud, Bienestar y Seguridad
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - Responsable del grupo
 sdgs:
@@ -80,9 +80,9 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Naturaleza
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 2

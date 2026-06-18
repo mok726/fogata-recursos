@@ -23,9 +23,9 @@ materials:
   - lápices
   - etc.)
 competencies:
-  - Investigación científica
-  - Conciencia ambiental
-  - Creatividad
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
 responsible:
 sdgs:
   - 6
@@ -82,7 +82,7 @@ prep_time: "25 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

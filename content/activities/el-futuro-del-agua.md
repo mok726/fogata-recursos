@@ -23,9 +23,9 @@ materials:
   - cartón
   - etc.)
 competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -85,7 +85,6 @@ prep_time: "30 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

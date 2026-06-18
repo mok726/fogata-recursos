@@ -23,8 +23,8 @@ materials:
   - Materiales promocionales
   - Equipo de sonido (opcional)
 competencies:
-  - Liderazgo
-  - Comunicación masiva
+  - Liderazgo y Gestión
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -76,8 +76,8 @@ scout_values:
   - Hermandad
   - Perseverancia
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 5
 active_component: 3

@@ -27,8 +27,8 @@ tools:
   - Lupa
   - Guantes
 competencies:
-  - Clasificación
-  - Documentación
+  - Pensamiento Crítico y Análisis
+  - Investigación y Gestión de Datos
 responsible:
   - entomólogo/educador
 sdgs:
@@ -74,7 +74,7 @@ category:
   - Naturaleza
 skills:
   - Clasificación
-  - Documentación
+  - Investigación
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "30 min"
@@ -82,7 +82,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

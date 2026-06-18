@@ -25,8 +25,8 @@ tools:
   - Pala
   - Regadera
 competencies:
-  - Agricultura práctica
-  - Paciencia
+  - Habilidades Prácticas y Técnicas
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - educador Scout
 sdgs:
@@ -79,11 +79,11 @@ prep_time: "30 min + seguimiento"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Servicio comunitario
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 3
 active_component: 4

@@ -26,9 +26,9 @@ tools:
   - Cuchillo de tallado (manejado por adultos)
   - Lijas
 competencies:
-  - Expresión artística
-  - Manejo de emociones
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Autoconocimiento y Desarrollo Personal
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o artista
 sdgs:
@@ -91,7 +91,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 5
 active_component: 2

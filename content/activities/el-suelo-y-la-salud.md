@@ -24,9 +24,9 @@ materials:
   - Materiales para póster
   - Libros/recursos en línea
 competencies:
-  - Investigación
-  - Creatividad
-  - Conciencia ambiental
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -90,7 +90,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 1

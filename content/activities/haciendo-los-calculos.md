@@ -18,9 +18,9 @@ age: "14-17"
 age_group:
   - caminantes
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -70,9 +70,9 @@ space_required: "Hogar (individual) + salón"
 prep_time: "25 min"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -25,8 +25,8 @@ materials:
 tools:
   - Cámara (opcional)
 competencies:
-  - Comunicación científica
-  - Curiosidad
+  - Comunicación Efectiva
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - científico local
 sdgs:
@@ -82,7 +82,7 @@ prep_time: "20 min preparación + entrevista"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

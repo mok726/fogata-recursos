@@ -62,7 +62,6 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Investigación
   - Conciencia alimentaria
 main_type: "Investigación"
 space_required: "Salón amplio"
@@ -72,10 +71,10 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Naturaleza
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

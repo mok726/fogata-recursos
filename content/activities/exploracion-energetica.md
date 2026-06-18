@@ -22,8 +22,8 @@ age_group:
 tools:
   - Transporte
 competencies:
-  - Observación
-  - Comunicación escrita
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -84,8 +84,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 5
 active_component: 2

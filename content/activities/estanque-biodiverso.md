@@ -26,8 +26,8 @@ tools:
   - Pala
   - Nivel
 competencies:
-  - Planificación
-  - Ecología aplicada
+  - Planificación y Organización
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -88,9 +88,9 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Servicio comunitario
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 4

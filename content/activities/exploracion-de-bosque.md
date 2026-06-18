@@ -22,8 +22,8 @@ age_group:
 tools:
   - Lupa (opcional)
 competencies:
-  - Conciencia sensorial
-  - Exploración
+  - Autoconocimiento y Desarrollo Personal
+  - Habilidades Prácticas y Técnicas
 responsible:
   - educador Scout
 sdgs:
@@ -76,8 +76,8 @@ scout_values:
   - Naturaleza
   - Respeto al prójimo
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 2

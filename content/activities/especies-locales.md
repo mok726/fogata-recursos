@@ -68,7 +68,6 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Investigación
   - Comunicación
 main_type: "Investigación"
 space_required: "Salón amplio"
@@ -80,8 +79,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 4
 active_component: 1

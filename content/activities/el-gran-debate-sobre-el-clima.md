@@ -25,8 +25,8 @@ materials:
   - papel
   - lápices.
 competencies:
-  - Debate
-  - pensamiento crítico.
+  - Comunicación Efectiva
+  - Pensamiento Crítico y Análisis
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -83,8 +83,8 @@ prep_time: "30 min preparación + debate"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 1

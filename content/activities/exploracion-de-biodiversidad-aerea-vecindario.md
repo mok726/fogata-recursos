@@ -21,8 +21,8 @@ age_group:
   - manada
   - scouts
 competencies:
-  - Exploración
-  - Documentación
+  - Habilidades Prácticas y Técnicas
+  - Investigación y Gestión de Datos
 responsible:
   - educador Scout
 sdgs:
@@ -66,15 +66,15 @@ category:
   - Naturaleza
 skills:
   - Exploración
-  - Documentación
+  - Investigación
 main_type: "Investigación"
 space_required: "Exterior abierto (vecindario)"
 prep_time: "10 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

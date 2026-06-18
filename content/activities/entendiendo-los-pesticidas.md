@@ -65,7 +65,6 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Investigación
   - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Salón amplio"
@@ -75,10 +74,10 @@ special_materials:
 prep_time: "25 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

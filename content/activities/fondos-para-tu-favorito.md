@@ -24,8 +24,8 @@ materials:
   - Materiales para manualidades
   - Alimentos para vender
 competencies:
-  - Emprendimiento
-  - Solidaridad global
+  - Emprendimiento e Innovación
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -80,10 +80,10 @@ special_materials:
   - carteles
 prep_time: "1 hora de planificación + evento"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

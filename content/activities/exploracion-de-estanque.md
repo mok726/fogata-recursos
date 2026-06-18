@@ -26,8 +26,8 @@ tools:
   - Lupa/microscopio
   - Guantes
 competencies:
-  - Observación
-  - Documentación
+  - Pensamiento Crítico y Análisis
+  - Investigación y Gestión de Datos
 responsible:
   - educador Scout
 sdgs:
@@ -72,7 +72,7 @@ category:
   - Naturaleza
 skills:
   - Observación
-  - Documentación
+  - Investigación
 main_type: "Investigación"
 space_required: "Exterior abierto (estanque o arroyo)"
 prep_time: "15 min"
@@ -80,7 +80,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

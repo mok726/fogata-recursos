@@ -28,8 +28,8 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Botánica práctica
-  - Seguridad alimentaria
+  - Sostenibilidad y Medio Ambiente
+  - Salud, Bienestar y Seguridad
 responsible:
   - experto local
 sdgs:
@@ -83,8 +83,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 4
 active_component: 2

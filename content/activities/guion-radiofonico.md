@@ -23,8 +23,7 @@ materials:
   - Investigación sobre el tema
   - Equipo de grabación (opcional)
 competencies:
-  - Comunicación efectiva
-  - Storytelling
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -78,11 +77,11 @@ special_materials:
 prep_time: "45 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 4
 active_component: 1

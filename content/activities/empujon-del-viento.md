@@ -27,8 +27,8 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Observación científica
-  - Trabajo manual
+  - Ciencia y Matemáticas
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -88,7 +88,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 2
 active_component: 3

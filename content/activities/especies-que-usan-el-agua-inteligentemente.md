@@ -23,9 +23,9 @@ age_group:
 tools:
   - Lupa (opcional)
 competencies:
-  - Observación científica
-  - Pensamiento adaptativo
-  - Conciencia climática
+  - Ciencia y Matemáticas
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o biólogo
 sdgs:
@@ -78,8 +78,8 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 4
 active_component: 1

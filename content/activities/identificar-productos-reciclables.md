@@ -22,8 +22,8 @@ age_group:
 materials:
   - Papel y lápiz para dibujar
 competencies:
-  - Conciencia ambiental
-  - Comunicación
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -81,8 +81,8 @@ scout_values:
   - Hermandad
   - Responsabilidad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 3
 active_component: 1

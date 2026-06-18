@@ -21,8 +21,8 @@ age_group:
 materials:
   - Pizarra y tiza
 competencies:
-  - Pensamiento Sistémico
-  - Autoconciencia
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Facilitador
 sdgs:
@@ -76,7 +76,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 4
 active_component: 1

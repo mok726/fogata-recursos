@@ -24,9 +24,9 @@ materials:
   - Textos o recursos sobre leyendas indígenas
   - Disfraces o accesorios (opcional)
 competencies:
-  - Investigación cultural
-  - Expresión artística
-  - Empatía histórica
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Patrimonio, Historia y Cultura
 responsible:
   - Scouter o líder cultural
 sdgs:
@@ -86,8 +86,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Arte
+  - Aprender haciendo
+  - Marco simbólico
 ludic_component: 3
 reflective_component: 4
 active_component: 2

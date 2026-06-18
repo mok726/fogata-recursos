@@ -32,9 +32,9 @@ materials:
 tools:
   - Microscopio o lupa
 competencies:
-  - Investigación científica
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -97,12 +97,11 @@ special_materials:
   - lupa/microscopio
 prep_time: "20 min"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 4
 active_component: 2

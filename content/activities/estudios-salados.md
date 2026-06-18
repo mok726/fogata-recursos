@@ -23,9 +23,9 @@ materials:
   - Sal
   - Vaso
 competencies:
-  - Investigación científica
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -82,7 +82,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 2
 reflective_component: 4
 active_component: 1

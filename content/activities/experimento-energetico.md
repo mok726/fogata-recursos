@@ -26,8 +26,8 @@ materials:
 tools:
   - Cuchara
 competencies:
-  - Observación
-  - Pensamiento científico
+  - Pensamiento Crítico y Análisis
+  - Ciencia y Matemáticas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:

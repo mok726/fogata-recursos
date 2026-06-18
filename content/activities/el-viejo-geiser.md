@@ -27,8 +27,8 @@ tools:
   - Pegamento
   - Tijeras
 competencies:
-  - Investigación
-  - Diseño gráfico
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -85,8 +85,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

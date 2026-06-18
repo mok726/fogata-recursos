@@ -27,8 +27,8 @@ materials:
 tools:
   - Botellas plásticas cortadas
 competencies:
-  - Experimentación
-  - Soluciones prácticas
+  - Ciencia y Matemáticas
+  - Habilidades Prácticas y Técnicas
 responsible:
   - educador Scout
 sdgs:
@@ -90,7 +90,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 2

@@ -34,10 +34,10 @@ tools:
   - Bolsas para recolectar
   - Guantes (opcional)
 competencies:
-  - Observación científica
-  - Creatividad
-  - Trabajo en equipo
-  - Conciencia ecológica
+  - Ciencia y Matemáticas
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o educador ambiental
 sdgs:
@@ -102,9 +102,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 3

@@ -31,8 +31,8 @@ tools:
   - Cámara fotográfica
   - Materiales para arte (opcional)
 competencies:
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Líder de grupo
 sdgs:
@@ -89,11 +89,11 @@ prep_time: "15 min + limpieza"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Vida al aire libre
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 4

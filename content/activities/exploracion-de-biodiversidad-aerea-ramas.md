@@ -25,8 +25,8 @@ materials:
 tools:
   - Lupa (opcional)
 competencies:
-  - Observación científica
-  - Conciencia ecológica
+  - Ciencia y Matemáticas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -81,7 +81,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

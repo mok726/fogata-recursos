@@ -22,9 +22,9 @@ age_group:
 materials:
   - Papel y lápiz para hacer listas de sugerencias
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Comunicación
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo
 sdgs:
@@ -84,9 +84,9 @@ prep_time: "30 min"
 scout_values:
   - Naturaleza
   - Respeto al prójimo
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -26,8 +26,8 @@ tools:
   - Mesas
   - Toldos (opcional)
 competencies:
-  - Organización de eventos
-  - Educación pública
+  - Planificación y Organización
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -83,10 +83,10 @@ special_materials:
 prep_time: "3 horas"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

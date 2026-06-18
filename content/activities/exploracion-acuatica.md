@@ -23,9 +23,9 @@ materials:
   - lápices
   - etc.)
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Comunicación
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
 sdgs:
   - 6
@@ -82,8 +82,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 2

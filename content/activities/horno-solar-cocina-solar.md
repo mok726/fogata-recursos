@@ -21,9 +21,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
+  - Creatividad y Expresión
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -71,6 +71,7 @@ category:
   - Medio ambiente
 skills:
   - Conciencia ambiental
+  - Aprendizaje práctico
   - Creatividad
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
@@ -87,7 +88,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 2

@@ -27,8 +27,8 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Creatividad
-  - Educación comunitaria
+  - Creatividad y Expresión
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -87,10 +87,9 @@ special_materials:
 prep_time: "45 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 4
 reflective_component: 3

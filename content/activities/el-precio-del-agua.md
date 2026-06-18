@@ -25,8 +25,8 @@ materials:
 tools:
   - Computadora para investigación
 competencies:
-  - Debate
-  - Pensamiento crítico
+  - Comunicación Efectiva
+  - Pensamiento Crítico y Análisis
 responsible:
   - Líder de grupo
 sdgs:
@@ -80,8 +80,8 @@ prep_time: "25 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 1

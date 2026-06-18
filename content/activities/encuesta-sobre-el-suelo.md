@@ -24,9 +24,9 @@ materials:
   - Cuestionario
   - Materiales para exposición
 competencies:
-  - Comunicación
-  - Conciencia social
-  - Trabajo en equipo
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -84,10 +84,10 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1
