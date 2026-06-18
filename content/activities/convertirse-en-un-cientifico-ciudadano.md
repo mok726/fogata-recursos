@@ -67,17 +67,16 @@ category:
   - Conservación
 skills:
   - Investigación
-  - Investigación
   - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "15 min"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 2

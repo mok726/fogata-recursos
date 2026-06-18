@@ -25,8 +25,8 @@ materials:
 tools:
   - Herramientas según el instructivo de Ducha de Sol
 competencies:
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -73,6 +73,7 @@ category:
   - Campamento
 skills:
   - Conciencia ambiental
+  - Aprendizaje práctico
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:
@@ -86,7 +87,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 3

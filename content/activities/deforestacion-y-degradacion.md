@@ -24,9 +24,9 @@ materials:
   - ministerios ambientales)
   - Materiales para presentación creativa
 competencies:
-  - Análisis de datos
-  - Comunicación creativa
-  - Pensamiento político
+  - Investigación y Gestión de Datos
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o economista ambiental
 sdgs:
@@ -82,11 +82,11 @@ special_materials:
   - computadora
 prep_time: "30 min investigación + creación"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

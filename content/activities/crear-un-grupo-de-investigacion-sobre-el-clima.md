@@ -25,8 +25,8 @@ materials:
 tools:
   - Instrumentos de medición (opcional)
 competencies:
-  - Conciencia ambiental
-  - Investigación y análisis
+  - Sostenibilidad y Medio Ambiente
+  - Investigación y Gestión de Datos
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -80,8 +80,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 4
 active_component: 2

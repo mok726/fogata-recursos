@@ -25,8 +25,8 @@ materials:
 tools:
   - Temporizador (opcional)
 competencies:
-  - Trabajo en equipo
-  - Aprendizaje activo
+  - Trabajo en Equipo y Colaboración
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Líder de grupo
 sdgs:
@@ -82,8 +82,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 3
 active_component: 1

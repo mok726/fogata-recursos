@@ -25,8 +25,8 @@ materials:
 tools:
   - Sistema de sonido (opcional)
 competencies:
-  - Liderazgo
-  - Organización
+  - Liderazgo y Gestión
+  - Planificación y Organización
 responsible:
   - educador Scout
 sdgs:
@@ -85,11 +85,11 @@ special_materials:
 prep_time: "2-4 semanas planificación"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 5
 active_component: 3

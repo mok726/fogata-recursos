@@ -24,9 +24,9 @@ materials:
   - Materiales para construir un hotel para abejas
   - Fuente de agua (opcional)
 competencies:
-  - Trabajo manual
-  - Conciencia ambiental
-  - Observación
+  - Habilidades Prácticas y Técnicas
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
   - Responsable del grupo
 sdgs:
@@ -89,11 +89,11 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 4

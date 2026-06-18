@@ -23,8 +23,8 @@ materials:
   - Calculadora
   - Registro diario
 competencies:
-  - Responsabilidad ambiental
-  - Matemáticas
+  - Sostenibilidad y Medio Ambiente
+  - Ciencia y Matemáticas
 responsible:
   - educador Scout
 sdgs:
@@ -75,9 +75,9 @@ space_required: "Hogar (individual)"
 prep_time: "15 min inicial + seguimiento"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

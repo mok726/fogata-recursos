@@ -27,8 +27,7 @@ tools:
   - Lupa
   - Guía de especies
 competencies:
-  - Observación detallada
-  - Documentación
+  - Investigación y Gestión de Datos
 responsible:
   - educador Scout
 sdgs:
@@ -71,7 +70,7 @@ category:
   - Naturaleza
 skills:
   - Observación
-  - Documentación
+  - Investigación
 main_type: "Investigación"
 space_required: "Exterior abierto (bosque)"
 special_materials:
@@ -86,7 +85,7 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 5

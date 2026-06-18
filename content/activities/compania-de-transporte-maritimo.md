@@ -28,9 +28,9 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
+  - Sostenibilidad y Medio Ambiente
 responsible:
 sdgs:
   - 6
@@ -92,8 +92,8 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
-  - Sistema de patrullas
+  - Vida en la Naturaleza y Aventura
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 3

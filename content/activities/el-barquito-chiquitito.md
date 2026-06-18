@@ -23,8 +23,8 @@ materials:
   - Letras de canciones
   - Instrumentos musicales (opcional)
 competencies:
-  - Creatividad
-  - Trabajo en equipo
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Líder de grupo
 sdgs:
@@ -74,8 +74,8 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 2

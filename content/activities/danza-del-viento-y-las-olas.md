@@ -22,8 +22,8 @@ age_group:
 materials:
   - Música (opcional)
 competencies:
-  - Expresión corporal
-  - Trabajo en equipo
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -82,7 +82,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 3

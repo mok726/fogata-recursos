@@ -28,8 +28,8 @@ tools:
   - Tijeras
   - Cinta adhesiva
 competencies:
-  - Paciencia
-  - Solución de problemas
+  - Autoconocimiento y Desarrollo Personal
+  - Pensamiento Crítico y Análisis
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -92,7 +92,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 2

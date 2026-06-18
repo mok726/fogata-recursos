@@ -22,8 +22,8 @@ age_group:
 tools:
   - Computadora para investigación
 competencies:
-  - Pensamiento crítico
-  - Conciencia social
+  - Pensamiento Crítico y Análisis
+  - Ciudadanía y Conciencia Social
 responsible:
   - Líder de grupo
 sdgs:
@@ -73,7 +73,7 @@ prep_time: "20 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

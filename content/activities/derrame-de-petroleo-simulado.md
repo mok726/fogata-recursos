@@ -26,8 +26,8 @@ materials:
 tools:
   - Bola de algodón
 competencies:
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -86,7 +86,6 @@ scout_values:
   - Respeto al prójimo
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 5
 active_component: 1

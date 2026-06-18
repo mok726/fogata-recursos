@@ -28,9 +28,9 @@ tools:
   - Pala
   - Regadera
 competencies:
-  - Responsabilidad
-  - Paciencia
-  - Conciencia ambiental
+  - Ciudadanía y Conciencia Social
+  - Autoconocimiento y Desarrollo Personal
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -86,11 +86,10 @@ prep_time: "30 min"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 4

@@ -27,8 +27,8 @@ materials:
   - Ingredientes locales
   - Utensilios de cocina
 competencies:
-  - Conciencia ambiental
-  - Habilidades culinarias
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -85,12 +85,11 @@ special_materials:
   - receta
 prep_time: "30 min + cocción"
 scout_values:
-  - Salud
-  - Servicio a los demás
+  - Autocuidado integral
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 3

@@ -23,8 +23,8 @@ age_group:
 materials:
   - Libros/recursos en línea
 competencies:
-  - Investigación
-  - Debate
+  - Investigación y Gestión de Datos
+  - Comunicación Efectiva
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -80,7 +80,7 @@ prep_time: "30 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

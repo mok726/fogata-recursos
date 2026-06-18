@@ -26,8 +26,8 @@ materials:
 tools:
   - Microscopio/lupa
 competencies:
-  - Observación científica
-  - Conciencia ambiental
+  - Ciencia y Matemáticas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:

@@ -24,8 +24,8 @@ tools:
   - Martillo
   - Taladro
 competencies:
-  - Carpintería
-  - Conservación
+  - Habilidades Prácticas y Técnicas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -77,11 +77,11 @@ space_required: "Exterior abierto"
 prep_time: "45 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 4
 active_component: 3

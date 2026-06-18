@@ -28,8 +28,8 @@ materials:
   - colores
   - materiales de arte.
 competencies:
-  - Creatividad
-  - trabajo en equipo.
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -86,11 +86,11 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 1

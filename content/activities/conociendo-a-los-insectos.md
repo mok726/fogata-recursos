@@ -26,9 +26,9 @@ materials:
 tools:
   - Lupas
 competencies:
-  - Investigación
-  - Creatividad
-  - Conciencia ambiental
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:

@@ -24,9 +24,9 @@ materials:
   - Papel
   - Lápices de colores o marcadores
 competencies:
-  - Pensamiento crítico
-  - Expresión artística
-  - Conciencia ambiental
+  - Pensamiento Crítico y Análisis
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o líder de grupo
 sdgs:
@@ -81,7 +81,7 @@ prep_time: "15 min"
 scout_values:
   - Naturaleza
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 1

@@ -25,8 +25,8 @@ materials:
 tools:
   - Software de edición (opcional)
 competencies:
-  - Comunicación audiovisual
-  - Marketing social
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -83,7 +83,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 2

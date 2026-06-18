@@ -28,9 +28,9 @@ tools:
   - pegamento
   - etc.
 competencies:
-  - Conciencia ambiental
-  - Creatividad
-  - Trabajo en equipo
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -92,12 +92,12 @@ special_materials:
   - pasarela improvisada
 prep_time: "45 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Arte
-  - Educación por la acción
-  - Sistema de patrullas
+  - Marco simbólico
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 3

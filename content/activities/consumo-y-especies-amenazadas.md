@@ -25,8 +25,8 @@ materials:
 tools:
   - Marcadores
 competencies:
-  - Pensamiento crítico
-  - Consumo responsable
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -85,8 +85,8 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

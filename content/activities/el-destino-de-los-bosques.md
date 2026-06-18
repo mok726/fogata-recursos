@@ -24,9 +24,9 @@ materials:
   - Datos estadísticos (en línea o libros)
   - Marcadores
 competencies:
-  - Análisis de datos
-  - Trabajo en equipo
-  - Geografía crítica
+  - Investigación y Gestión de Datos
+  - Trabajo en Equipo y Colaboración
+  - Patrimonio, Historia y Cultura
 responsible:
   - Scouter o geógrafo
 sdgs:
@@ -85,8 +85,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

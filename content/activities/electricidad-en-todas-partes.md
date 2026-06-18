@@ -24,8 +24,8 @@ materials:
   - lápices
   - colores.
 competencies:
-  - Observación
-  - creatividad.
+  - Pensamiento Crítico y Análisis
+  - Creatividad y Expresión
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -79,10 +79,10 @@ special_materials:
   - colores
 prep_time: "15 min en casa + 10 min grupo"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

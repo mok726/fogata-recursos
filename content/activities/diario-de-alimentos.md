@@ -23,8 +23,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Análisis
-  - trabajo en equipo.
+  - Pensamiento Crítico y Análisis
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -76,10 +76,9 @@ space_required: "Salón amplio (cocina)"
 prep_time: "15 min + seguimiento semanal + cocina"
 scout_values:
   - Hermandad
-  - Salud
-  - Sencillez y Austeridad
+  - Autocuidado integral
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 2
 reflective_component: 5

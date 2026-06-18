@@ -22,8 +22,8 @@ age_group:
 materials:
   - Tarjetas con frases.
 competencies:
-  - Comunicación
-  - trabajo en equipo.
+  - Comunicación Efectiva
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -77,7 +77,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 1

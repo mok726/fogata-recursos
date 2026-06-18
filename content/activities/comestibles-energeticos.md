@@ -28,8 +28,8 @@ materials:
   - lápices
   - ingredientes para cocinar.
 competencies:
-  - Investigación
-  - trabajo en equipo.
+  - Investigación y Gestión de Datos
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -87,10 +87,9 @@ special_materials:
 prep_time: "25 min investigación + cocina"
 scout_values:
   - Hermandad
-  - Salud
-  - Sencillez y Austeridad
+  - Autocuidado integral
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 2
 reflective_component: 5

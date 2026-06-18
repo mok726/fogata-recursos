@@ -23,8 +23,8 @@ materials:
   - Acceso a internet
   - Papel y lápiz
 competencies:
-  - Conciencia ambiental
-  - Comunicación y colaboración
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -77,8 +77,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 1

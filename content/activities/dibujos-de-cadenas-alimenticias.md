@@ -23,8 +23,8 @@ materials:
   - Papel
   - Lápices de colores
 competencies:
-  - Conciencia ecológica
-  - Pensamiento crítico
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -86,7 +86,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

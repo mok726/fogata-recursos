@@ -24,9 +24,9 @@ materials:
   - Semillas de flores nativas
   - Información sobre alternativas a los pesticidas
 competencies:
-  - Organización
-  - Conciencia ambiental
-  - Comunicación
+  - Planificación y Organización
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo
 sdgs:
@@ -89,10 +89,10 @@ prep_time: "2 horas (preparación) + evento"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 4
 active_component: 3

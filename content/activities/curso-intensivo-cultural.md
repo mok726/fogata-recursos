@@ -65,8 +65,8 @@ prep_time: "25 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 4
 active_component: 1

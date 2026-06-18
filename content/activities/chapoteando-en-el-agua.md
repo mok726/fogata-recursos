@@ -19,9 +19,9 @@ age_group:
   - castores
   - manada
 competencies:
-  - Observación
-  - Creatividad
-  - Conciencia ambiental
+  - Pensamiento Crítico y Análisis
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
 sdgs:
   - 6
@@ -73,7 +73,7 @@ prep_time: "10 min + observación"
 scout_values:
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 3

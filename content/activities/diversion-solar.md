@@ -26,8 +26,8 @@ tools:
   - Lupa
   - Sol
 competencies:
-  - Creatividad
-  - Observación
+  - Creatividad y Expresión
+  - Pensamiento Crítico y Análisis
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -85,7 +85,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 2
 active_component: 1

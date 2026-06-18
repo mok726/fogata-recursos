@@ -24,8 +24,8 @@ materials:
   - termómetros
   - Frasco de vidrio
 competencies:
-  - Pensamiento científico
-  - Precisión
+  - Ciencia y Matemáticas
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -82,7 +82,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 2
 reflective_component: 5
 active_component: 1

@@ -20,9 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Pensamiento Sistémico
-  - Autoconciencia
-  - Pensamiento Crítico
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -80,7 +79,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 2

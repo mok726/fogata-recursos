@@ -18,9 +18,9 @@ age: "14-17"
 age_group:
   - caminantes
 competencies:
-  - Observación
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
 sdgs:
   - 6
@@ -74,7 +74,7 @@ scout_values:
   - Aventura
   - Naturaleza
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 4
 reflective_component: 3

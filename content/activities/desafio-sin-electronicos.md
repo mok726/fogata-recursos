@@ -21,8 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Autodisciplina
-  - Conciencia digital
+  - Autoconocimiento y Desarrollo Personal
+  - Alfabetización Digital y Tecnología
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -77,9 +77,9 @@ main_type: "Reflexión"
 space_required: "Hogar (individual)"
 prep_time: "5 min inicial + seguimiento mensual"
 scout_values:
-  - Salud
+  - Autocuidado integral
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 5
 active_component: 2

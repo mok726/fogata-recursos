@@ -23,8 +23,7 @@ materials:
   - Datos de proyectos locales
   - Cartulina
 competencies:
-  - Pensamiento crítico
-  - Evaluación
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -80,8 +79,8 @@ prep_time: "25 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

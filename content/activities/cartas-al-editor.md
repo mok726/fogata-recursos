@@ -23,8 +23,8 @@ materials:
   - Periódicos locales
   - Computadora (opcional)
 competencies:
-  - Comunicación escrita
-  - Ciudadanía activa
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -81,7 +81,7 @@ scout_values:
   - Hermandad
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

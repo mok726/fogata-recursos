@@ -30,9 +30,9 @@ tools:
   - Rastrillo
   - Regadera
 competencies:
-  - Trabajo manual
-  - Observación
-  - Conciencia ambiental
+  - Habilidades Prácticas y Técnicas
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo
 sdgs:
@@ -87,10 +87,10 @@ prep_time: "30 min + seguimiento"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 4

@@ -21,9 +21,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Investigación
-  - análisis
-  - comunicación.
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -73,11 +73,11 @@ main_type: "Investigación"
 space_required: "Exterior abierto (comunidad) + salón"
 prep_time: "30 min preparación + entrevistas"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 5
 active_component: 2

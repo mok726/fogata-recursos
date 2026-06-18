@@ -22,7 +22,7 @@ age_group:
 materials:
   - Papel y lápiz
 competencies:
-  - Colaboración
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -78,8 +78,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

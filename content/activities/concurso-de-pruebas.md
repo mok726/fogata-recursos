@@ -75,7 +75,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 3
 active_component: 1

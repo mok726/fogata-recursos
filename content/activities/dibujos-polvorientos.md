@@ -25,8 +25,8 @@ materials:
   - Agua
   - Papel
 competencies:
-  - Creatividad
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -80,7 +80,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 5
 reflective_component: 2

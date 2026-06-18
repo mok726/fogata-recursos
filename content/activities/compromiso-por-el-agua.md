@@ -25,8 +25,8 @@ materials:
 tools:
   - Computadora para diseño (opcional)
 competencies:
-  - Conciencia ambiental
-  - Comunicación
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Líder de grupo
 sdgs:
@@ -81,8 +81,8 @@ prep_time: "20 min"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 1

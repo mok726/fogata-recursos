@@ -29,9 +29,9 @@ tools:
   - Taladro
   - Sierra (opcional)
 competencies:
-  - Trabajo manual
-  - Observación
-  - Conciencia ambiental
+  - Habilidades Prácticas y Técnicas
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo
 sdgs:
@@ -94,11 +94,11 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 2
 active_component: 3

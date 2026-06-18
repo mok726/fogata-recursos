@@ -20,9 +20,9 @@ age_group:
   - scouts
   - caminantes
 competencies:
-  - Conciencia ambiental
-  - Generosidad
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Autoconocimiento y Desarrollo Personal
+  - Creatividad y Expresión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -78,11 +78,11 @@ special_materials:
   - caja para donaciones
 prep_time: "20 min + seguimiento 1 mes"
 scout_values:
-  - Sencillez y Austeridad
-  - Servicio a los demás
+  - Consumo consciente y Gratitud
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 3
 active_component: 1

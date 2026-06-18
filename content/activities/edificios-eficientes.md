@@ -27,8 +27,8 @@ tools:
   - Tijeras
   - Regla
 competencies:
-  - Diseño
-  - Visión técnica
+  - Creatividad y Expresión
+  - Alfabetización Digital y Tecnología
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -85,7 +85,6 @@ prep_time: "45 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

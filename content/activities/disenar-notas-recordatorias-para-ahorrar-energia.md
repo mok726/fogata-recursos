@@ -25,8 +25,8 @@ materials:
 tools:
   - Tijeras
 competencies:
-  - Conciencia ambiental
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -83,9 +83,9 @@ special_materials:
 prep_time: "15 min"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 2
 active_component: 1

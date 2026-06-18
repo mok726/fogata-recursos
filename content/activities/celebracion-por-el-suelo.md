@@ -26,9 +26,9 @@ materials:
   - Materiales para carteles
   - Bocadillos
 competencies:
-  - Organización
-  - Comunicación
-  - Conciencia comunitaria
+  - Planificación y Organización
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -89,10 +89,10 @@ prep_time: "2 horas"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 4
 active_component: 3

@@ -23,8 +23,8 @@ materials:
   - Hula hulas
   - espacio abierto.
 competencies:
-  - Juego interactivo
-  - trabajo en equipo.
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -79,9 +79,9 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
-  - Sistema de patrullas
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 4
 active_component: 4

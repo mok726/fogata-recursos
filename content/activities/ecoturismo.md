@@ -25,9 +25,9 @@ materials:
 tools:
   - Cámara (opcional)
 competencies:
-  - Investigación
-  - Diseño gráfico
-  - Pensamiento empresarial
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Emprendimiento e Innovación
 responsible:
   - Scouter o experto en turismo
 sdgs:
@@ -83,11 +83,11 @@ special_materials:
   - folletos ejemplo
 prep_time: "30 min investigación + diseño"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 2

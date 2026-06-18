@@ -23,8 +23,8 @@ age_group:
 materials:
   - Preguntas del cuestionario
 competencies:
-  - Pensamiento Crítico
-  - Trabajo en Equipo
+  - Pensamiento Crítico y Análisis
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -81,7 +81,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 3
 active_component: 1

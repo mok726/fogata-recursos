@@ -24,8 +24,8 @@ materials:
 tools:
   - Computadora (opcional)
 competencies:
-  - Redacción formal
-  - Ciudadanía activa
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -85,7 +85,7 @@ scout_values:
   - Respeto al prójimo
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

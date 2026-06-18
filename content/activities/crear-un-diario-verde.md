@@ -22,8 +22,8 @@ age_group:
 tools:
   - Lápiz o bolígrafo
 competencies:
-  - Conciencia ambiental
-  - Reflexión y autoevaluación
+  - Sostenibilidad y Medio Ambiente
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -77,7 +77,7 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

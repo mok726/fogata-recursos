@@ -26,8 +26,8 @@ tools:
   - Computadora para investigación
   - Herramientas de comunicación (redes sociales)
 competencies:
-  - Conciencia ambiental
-  - Comunicación
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Líder de grupo
 sdgs:
@@ -82,10 +82,10 @@ special_materials:
   - infografías
 prep_time: "20 min + campaña"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 1

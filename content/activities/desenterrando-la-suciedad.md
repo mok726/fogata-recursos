@@ -24,9 +24,9 @@ tools:
   - Guantes (opcional)
   - Lupa
 competencies:
-  - Investigación de campo
-  - Pensamiento crítico
-  - Advocacy
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o químico ambiental
 sdgs:
@@ -84,12 +84,12 @@ special_materials:
   - cámara
 prep_time: "30 min + caminata + reporte"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
-  - Servicio comunitario
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 3

@@ -23,8 +23,8 @@ tools:
   - Computadora para redacción
   - Herramientas de comunicación (correo electrónico)
 competencies:
-  - Conciencia cívica
-  - Comunicación
+  - Ciudadanía y Conciencia Social
+  - Comunicación Efectiva
 responsible:
   - Líder de grupo
 sdgs:
@@ -75,8 +75,8 @@ scout_values:
   - Hermandad
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 4
 active_component: 1

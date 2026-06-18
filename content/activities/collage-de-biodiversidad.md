@@ -29,9 +29,9 @@ tools:
   - Tijeras
   - Cámara (opcional para video)
 competencies:
-  - Creatividad
-  - Comprensión científica
-  - Comunicación visual
+  - Creatividad y Expresión
+  - Ciencia y Matemáticas
+  - Comunicación Efectiva
 responsible:
   - educador Scout
 sdgs:
@@ -74,7 +74,7 @@ category:
   - Educación
 skills:
   - Creatividad
-  - Investigación
+  - Conocimiento científico
   - Comunicación
 main_type: "Arte"
 space_required: "Salón amplio"
@@ -88,7 +88,6 @@ prep_time: "15 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 4

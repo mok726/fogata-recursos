@@ -27,9 +27,9 @@ tools:
   - Regadera
   - Pala pequeña
 competencies:
-  - Trabajo manual
-  - Observación
-  - Conciencia ambiental
+  - Habilidades Prácticas y Técnicas
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo
 sdgs:
@@ -84,7 +84,7 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo

@@ -28,9 +28,9 @@ tools:
   - pegamento
   - etc.
 competencies:
-  - Conciencia ambiental
-  - Creatividad
-  - Habilidades prácticas
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -93,7 +93,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 4
 reflective_component: 3
 active_component: 2

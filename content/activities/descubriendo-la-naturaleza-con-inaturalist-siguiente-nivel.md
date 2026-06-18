@@ -23,8 +23,7 @@ materials:
   - Aplicación iNaturalist
   - Dispositivo móvil
 competencies:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento Crítico y Análisis
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -80,8 +79,8 @@ prep_time: "10 min"
 scout_values:
   - Naturaleza
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

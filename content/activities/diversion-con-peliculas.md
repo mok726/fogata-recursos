@@ -25,8 +25,8 @@ materials:
   - computadora
   - acceso a internet.
 competencies:
-  - Análisis
-  - trabajo en equipo.
+  - Pensamiento Crítico y Análisis
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -81,10 +81,10 @@ special_materials:
 prep_time: "15 min preparación + tiempo de película"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

@@ -26,8 +26,8 @@ materials:
 tools:
   - Pala pequeña
 competencies:
-  - Ecología práctica
-  - Responsabilidad
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -87,9 +87,8 @@ scout_values:
   - Perseverancia
   - Responsabilidad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 3

@@ -22,8 +22,7 @@ age_group:
 materials:
   - Papel reciclado
 competencies:
-  - Conciencia ambiental
-  - Consumo responsable
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -79,10 +78,10 @@ special_materials:
 prep_time: "15 min + seguimiento 1 mes"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 3
 active_component: 1

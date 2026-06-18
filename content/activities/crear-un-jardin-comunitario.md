@@ -29,8 +29,8 @@ tools:
   - regadera
   - etc.)
 competencies:
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -91,11 +91,11 @@ prep_time: "30 min + seguimiento"
 scout_values:
   - Hermandad
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Servicio comunitario
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 3
 active_component: 4
