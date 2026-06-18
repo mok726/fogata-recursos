@@ -71,7 +71,7 @@ category:
   - Política
 skills:
   - Debate
-  - pensamiento crítico
+  - Pensamiento crítico
 main_type: "Debate / Diálogo"
 space_required: "Salón amplio"
 special_materials:

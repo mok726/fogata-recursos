@@ -70,7 +70,7 @@ category:
   - Educación
 skills:
   - Análisis
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Reflexión"
 space_required: "Salón amplio"
 special_materials:

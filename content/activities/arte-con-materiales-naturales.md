@@ -71,7 +71,7 @@ category:
   - Sostenibilidad
 skills:
   - Creatividad
-  - Expresión artística
+  - Creatividad
 main_type: "Arte"
 space_required: "Exterior abierto o salón"
 prep_time: "15 min"

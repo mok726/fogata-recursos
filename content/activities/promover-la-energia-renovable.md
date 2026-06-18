@@ -71,7 +71,7 @@ category:
   - Comunicación
 skills:
   - Conciencia ambiental
-  - Liderazgo y comunicación
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 special_materials:

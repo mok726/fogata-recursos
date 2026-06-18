@@ -70,9 +70,8 @@ category:
   - Astronomía
   - Vida al aire libre
 skills:
-  - Pensamiento Crítico
+  - Pensamiento crítico
   - Orientación
-  - Aprendizaje Práctico
 main_type: "Orientación"
 space_required: "Exterior abierto"
 special_materials:

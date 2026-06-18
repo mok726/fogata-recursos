@@ -67,7 +67,7 @@ category:
   - Medio ambiente
   - Ciencia
 skills:
-  - Conciencia Ambiental
+  - Conciencia ambiental
   - Salud y Bienestar
 main_type: "Investigación"
 space_required: "Salón amplio"

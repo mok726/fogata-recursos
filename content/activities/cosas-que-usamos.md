@@ -64,7 +64,7 @@ category:
   - Naturaleza
 skills:
   - Investigación
-  - Conocimiento científico
+  - Investigación
   - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Salón amplio"

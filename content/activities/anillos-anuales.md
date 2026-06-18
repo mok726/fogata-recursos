@@ -73,7 +73,7 @@ category:
   - Bosque
   - Clima
 skills:
-  - Análisis científico
+  - Investigación
   - Interpretación de datos
 main_type: "Investigación"
 space_required: "Exterior abierto (tocón) o salón"

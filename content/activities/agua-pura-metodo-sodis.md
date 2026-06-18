@@ -72,8 +72,8 @@ category:
   - Ciencia
   - Supervivencia
 skills:
-  - Conciencia Ambiental
-  - Experimentación Científica
+  - Conciencia ambiental
+  - Experimentación
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

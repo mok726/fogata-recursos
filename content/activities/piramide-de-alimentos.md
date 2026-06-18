@@ -69,7 +69,7 @@ category:
   - Medio ambiente
 skills:
   - Autoconciencia
-  - Pensamiento Crítico
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

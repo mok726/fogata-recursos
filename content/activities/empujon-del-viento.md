@@ -73,7 +73,7 @@ category:
   - Naturaleza
   - Energía
 skills:
-  - Observación científica
+  - Observación
   - Trabajo manual
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"

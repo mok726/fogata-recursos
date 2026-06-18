@@ -66,7 +66,7 @@ category:
   - Consumo
 skills:
   - Autoconciencia
-  - Pensamiento Crítico
+  - Pensamiento crítico
 main_type: "Juego"
 space_required: "Salón amplio"
 special_materials:

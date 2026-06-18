@@ -86,10 +86,10 @@ category:
   - Ecología
   - Naturaleza
 skills:
-  - Observación científica
+  - Observación
   - Creatividad
   - Trabajo en equipo
-  - Conciencia ecológica
+  - Conciencia ambiental
 main_type: "Arte"
 space_required: "Exterior abierto (bosque)"
 special_materials:

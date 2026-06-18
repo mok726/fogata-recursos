@@ -69,8 +69,8 @@ category:
   - Naturaleza
   - Ciencia
 skills:
-  - Observación científica
-  - Conciencia ecológica
+  - Observación
+  - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Exterior abierto"
 special_materials:

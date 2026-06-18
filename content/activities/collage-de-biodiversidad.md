@@ -74,8 +74,8 @@ category:
   - Educación
 skills:
   - Creatividad
-  - Comprensión científica
-  - Comunicación visual
+  - Investigación
+  - Comunicación
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

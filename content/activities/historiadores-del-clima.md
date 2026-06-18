@@ -71,7 +71,7 @@ category:
   - Ciencia
 skills:
   - Investigación
-  - creatividad
+  - Creatividad
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

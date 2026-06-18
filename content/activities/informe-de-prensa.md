@@ -67,7 +67,7 @@ category:
   - Comunicación
 skills:
   - Comunicación
-  - Empatía intercultural
+  - Empatía
   - Periodismo ético
 main_type: "Servicio a los demás"
 space_required: "Salón amplio (entrevista)"

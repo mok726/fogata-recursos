@@ -69,9 +69,9 @@ category:
   - Reciclaje
   - Consumo
 skills:
-  - Pensamiento Sistémico
-  - Colaboración
-  - Pensamiento Crítico
+  - Pensamiento sistémico
+  - Trabajo en equipo
+  - Pensamiento crítico
 main_type: "Aprender jugando"
 space_required: "Salón amplio"
 special_materials:

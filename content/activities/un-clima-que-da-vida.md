@@ -68,7 +68,7 @@ category:
   - Comunidad
 skills:
   - Comunicación
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Investigación"
 space_required: "Exterior abierto (comunidad) + salón"
 prep_time: "15 min preparación + entrevistas"

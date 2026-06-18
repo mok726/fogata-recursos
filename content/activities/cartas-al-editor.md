@@ -66,8 +66,8 @@ category:
   - Comunicación
   - Activismo
 skills:
-  - Comunicación escrita
-  - Ciudadanía activa
+  - Comunicación
+  - Conciencia social
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 special_materials:

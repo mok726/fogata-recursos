@@ -67,7 +67,7 @@ category:
   - Política
 skills:
   - Conciencia ambiental
-  - Investigación y análisis
+  - Investigación
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "organizar visita con anticipación + 30 min"

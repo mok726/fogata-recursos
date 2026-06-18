@@ -76,7 +76,7 @@ category:
   - Arte
 skills:
   - Trabajo en equipo
-  - Conciencia global
+  - Conciencia social
   - Comunicación
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"

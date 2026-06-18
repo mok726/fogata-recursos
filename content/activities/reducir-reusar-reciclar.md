@@ -68,7 +68,7 @@ category:
   - Consumo
   - Educación
 skills:
-  - Conciencia ecológica
+  - Conciencia ambiental
   - Trabajo en equipo
 main_type: "Aprender haciendo"
 space_required: "Salón amplio"

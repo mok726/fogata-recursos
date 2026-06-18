@@ -71,7 +71,7 @@ category:
   - Activismo
 skills:
   - Conciencia ambiental
-  - Liderazgo y comunicación
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto + salón"
 special_materials:

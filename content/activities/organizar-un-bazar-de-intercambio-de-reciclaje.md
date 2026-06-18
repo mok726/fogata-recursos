@@ -68,7 +68,7 @@ category:
   - Comunidad
 skills:
   - Conciencia ambiental
-  - Organización y liderazgo
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Salón amplio o exterior"
 special_materials:

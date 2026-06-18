@@ -67,7 +67,7 @@ category:
   - Naturaleza
 skills:
   - Observación
-  - Conocimiento científico
+  - Investigación
   - Trabajo manual
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"

@@ -74,7 +74,7 @@ category:
   - Salud
 skills:
   - Conciencia ambiental
-  - Liderazgo y organización
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Salón amplio o exterior"
 special_materials:

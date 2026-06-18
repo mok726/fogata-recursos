@@ -66,7 +66,7 @@ category:
   - Naturaleza
 skills:
   - Trabajo en equipo
-  - Conocimiento científico
+  - Investigación
   - Comunicación
 main_type: "Aprender jugando"
 space_required: "Salón amplio"

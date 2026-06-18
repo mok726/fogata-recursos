@@ -60,7 +60,7 @@ category:
   - Gestión de eventos
   - Ciudadanía
 skills:
-  - Colaboración
+  - Trabajo en equipo
   - Reflexión sobre normas y valores
 main_type: "Investigación"
 space_required: "Exterior abierto"

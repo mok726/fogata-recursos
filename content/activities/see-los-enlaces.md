@@ -66,7 +66,7 @@ category:
   - Ecología
   - Sociedad
 skills:
-  - Colaboración
+  - Trabajo en equipo
 main_type: "Juego"
 space_required: "Salón amplio"
 special_materials:

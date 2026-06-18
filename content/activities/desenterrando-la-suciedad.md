@@ -70,7 +70,7 @@ category:
   - Ecología
   - Activismo
 skills:
-  - Investigación de campo
+  - Investigación
   - Pensamiento crítico
   - Advocacy
 main_type: "Investigación"

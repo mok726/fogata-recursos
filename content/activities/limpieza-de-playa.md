@@ -72,7 +72,7 @@ category:
   - Océano
 skills:
   - Trabajo en equipo
-  - Responsabilidad cívica
+  - Responsabilidad
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto (playa o río)"
 special_materials:

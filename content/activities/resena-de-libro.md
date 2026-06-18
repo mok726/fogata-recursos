@@ -61,7 +61,7 @@ category:
   - Educación
 skills:
   - Lectura
-  - Conocimiento científico
+  - Investigación
   - Comunicación
 main_type: "Reflexión"
 space_required: "Salón chico (hogar o sala)"

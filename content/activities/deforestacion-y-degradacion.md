@@ -70,7 +70,7 @@ category:
   - Conservación
 skills:
   - Análisis de datos
-  - Comunicación creativa
+  - Comunicación
   - Pensamiento político
 main_type: "Investigación"
 space_required: "Salón amplio"

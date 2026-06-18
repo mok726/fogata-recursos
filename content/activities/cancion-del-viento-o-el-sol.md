@@ -68,7 +68,7 @@ category:
   - Energía
   - Arte
 skills:
-  - Creatividad musical
+  - Creatividad
   - Conciencia energética
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"

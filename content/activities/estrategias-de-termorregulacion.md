@@ -67,7 +67,7 @@ category:
   - Educación
 skills:
   - Creatividad
-  - Conocimiento científico
+  - Investigación
 main_type: "Juego"
 space_required: "Salón amplio"
 special_materials:

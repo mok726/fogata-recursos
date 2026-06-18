@@ -68,7 +68,7 @@ category:
   - Geografía
   - Ecología
 skills:
-  - Conciencia global
+  - Conciencia social
   - Priorización
 main_type: "Investigación"
 space_required: "Salón amplio"

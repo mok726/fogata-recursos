@@ -72,7 +72,7 @@ category:
   - Juego
 skills:
   - Juego interactivo
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Juego"
 space_required: "Salón amplio"
 special_materials:

@@ -67,7 +67,7 @@ category:
   - Educación
 skills:
   - Conciencia ambiental
-  - Liderazgo y organización
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto (campamento)"
 special_materials:

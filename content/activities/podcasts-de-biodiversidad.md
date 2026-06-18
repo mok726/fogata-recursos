@@ -66,7 +66,7 @@ category:
   - Medios
 skills:
   - Escucha activa
-  - Curiosidad científica
+  - Investigación
 main_type: "Reflexión"
 space_required: "Salón amplio"
 prep_time: "10 min + tiempo de audio/video"

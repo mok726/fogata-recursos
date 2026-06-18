@@ -76,9 +76,9 @@ category:
   - Teatro
   - Ecología
 skills:
-  - Investigación cultural
-  - Expresión artística
-  - Empatía histórica
+  - Investigación
+  - Creatividad
+  - Empatía
 main_type: "Arte"
 space_required: "Salón amplio"
 prep_time: "45 min investigación + ensayo"

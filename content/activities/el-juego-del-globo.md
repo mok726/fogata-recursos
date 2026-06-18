@@ -66,7 +66,7 @@ category:
   - Energía
   - Globalización
 skills:
-  - Conciencia global
+  - Conciencia social
   - Geografía
 main_type: "Juego"
 space_required: "Salón amplio"

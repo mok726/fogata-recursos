@@ -81,9 +81,8 @@ category:
   - Historia
   - Matemática
 skills:
-  - Pensamiento Crítico
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Pensamiento crítico
+  - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

@@ -69,7 +69,7 @@ category:
   - Geografía
   - Desarrollo
 skills:
-  - Conciencia global
+  - Conciencia social
   - Geopolítica
 main_type: "Juego"
 space_required: "Salón amplio"

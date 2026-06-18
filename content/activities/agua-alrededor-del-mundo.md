@@ -66,7 +66,7 @@ category:
   - Global
 skills:
   - Investigación
-  - Conciencia global
+  - Conciencia social
 main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "20 min preparación + entrevistas"

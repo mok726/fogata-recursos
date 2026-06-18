@@ -64,7 +64,7 @@ category:
   - Agua
 skills:
   - Observación
-  - Conocimiento ecológico
+  - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Exterior abierto (humedal o estanque)"
 prep_time: "15 min"

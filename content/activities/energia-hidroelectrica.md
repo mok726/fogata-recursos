@@ -66,7 +66,7 @@ category:
   - Agua
 skills:
   - Creatividad
-  - Conocimiento científico
+  - Investigación
   - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Salón amplio"

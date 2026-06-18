@@ -75,7 +75,7 @@ category:
   - Clima
 skills:
   - Investigación
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Investigación"
 space_required: "Salón amplio (cocina)"
 special_materials:

@@ -79,7 +79,7 @@ category:
 skills:
   - Conciencia ambiental
   - Creatividad
-  - Comunicación visual
+  - Comunicación
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

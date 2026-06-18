@@ -68,7 +68,7 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Conocimiento científico
+  - Investigación
   - Comunicación
 main_type: "Investigación"
 space_required: "Salón amplio"

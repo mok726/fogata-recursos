@@ -69,7 +69,6 @@ category:
   - Alimentación
 skills:
   - Conciencia social
-  - Aprendizaje práctico
 main_type: "Investigación"
 prep_time: "15 min"
 scout_values:

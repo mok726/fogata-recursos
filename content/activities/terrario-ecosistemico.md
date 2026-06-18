@@ -72,7 +72,7 @@ category:
   - Jardinería
   - Ciencia
 skills:
-  - Ecología práctica
+  - Conciencia ambiental
   - Paciencia
 main_type: "Aprender haciendo"
 space_required: "Salón amplio"

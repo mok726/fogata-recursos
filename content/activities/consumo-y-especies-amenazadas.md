@@ -71,7 +71,7 @@ category:
   - Ética
 skills:
   - Pensamiento crítico
-  - Consumo responsable
+  - Hábitos sostenibles
 main_type: "Reflexión"
 space_required: "Salón amplio"
 special_materials:

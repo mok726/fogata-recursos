@@ -68,7 +68,7 @@ category:
   - Sociología
 skills:
   - Comunicación
-  - empatía
+  - Empatía
 space_required: "Exterior abierto (hogares) + salón"
 prep_time: "15 min preparación + entrevistas"
 scout_values:

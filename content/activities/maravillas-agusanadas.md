@@ -69,7 +69,7 @@ category:
   - Medio ambiente
   - Naturaleza
 skills:
-  - Observación científica
+  - Observación
   - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Salón chico"

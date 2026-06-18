@@ -70,7 +70,7 @@ category:
   - Geografía
   - Datos
 skills:
-  - Análisis crítico
+  - Pensamiento crítico
   - Diseño gráfico
 main_type: "Investigación"
 space_required: "Salón amplio"

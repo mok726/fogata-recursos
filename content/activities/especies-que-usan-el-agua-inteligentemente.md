@@ -68,7 +68,7 @@ category:
   - Adaptación
   - Clima
 skills:
-  - Observación científica
+  - Observación
   - Pensamiento adaptativo
   - Conciencia climática
 main_type: "Investigación"

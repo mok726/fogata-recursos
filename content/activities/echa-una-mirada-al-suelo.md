@@ -70,7 +70,7 @@ category:
   - Medio ambiente
   - Biología
 skills:
-  - Observación científica
+  - Observación
   - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Salón chico"

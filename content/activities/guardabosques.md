@@ -64,7 +64,7 @@ category:
 skills:
   - Comunicación
   - Empatía
-  - Conocimiento de conservación
+  - Conservación
 main_type: "Investigación"
 space_required: "Salón amplio o parque"
 prep_time: "20 min + entrevista"

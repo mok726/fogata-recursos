@@ -66,7 +66,7 @@ category:
   - Medios
   - Ecología
 skills:
-  - Comunicación efectiva
+  - Comunicación
   - Storytelling
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"

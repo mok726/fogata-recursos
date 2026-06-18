@@ -69,7 +69,7 @@ category:
   - Marketing
   - Conservación
 skills:
-  - Comunicación audiovisual
+  - Comunicación
   - Marketing social
 main_type: "Arte"
 space_required: "Salón amplio"

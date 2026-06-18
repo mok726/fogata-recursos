@@ -67,7 +67,7 @@ category:
   - Economía
 skills:
   - Análisis
-  - comunicación
+  - Comunicación
 main_type: "Debate / Diálogo"
 space_required: "Salón amplio"
 prep_time: "20 min"

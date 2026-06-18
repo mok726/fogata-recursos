@@ -70,7 +70,7 @@ category:
   - Geografía
 skills:
   - Conciencia ambiental
-  - Investigación y análisis
+  - Investigación
 main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "30 min"

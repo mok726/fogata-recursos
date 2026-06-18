@@ -69,8 +69,7 @@ category:
   - Ciencia
   - Energía
 skills:
-  - Observación científica
-  - Aprendizaje práctico
+  - Observación
 main_type: "Experimentación"
 space_required: "Salón amplio o exterior"
 special_materials:

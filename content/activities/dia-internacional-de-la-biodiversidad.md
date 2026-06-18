@@ -74,7 +74,7 @@ category:
   - Educación
 skills:
   - Liderazgo
-  - Organización
+  - Planificación y organización
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto o salón amplio"
 special_materials:

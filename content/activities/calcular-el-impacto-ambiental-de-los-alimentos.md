@@ -75,7 +75,7 @@ category:
   - Datos
 skills:
   - Conciencia ambiental
-  - Investigación y análisis
+  - Investigación
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

@@ -67,7 +67,6 @@ category:
   - Educación
 skills:
   - Conciencia ambiental
-  - Aprendizaje práctico
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "organizar visita con anticipación"

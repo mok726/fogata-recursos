@@ -75,7 +75,7 @@ category:
   - Ciudadanía global
 skills:
   - Investigación
-  - Conciencia global
+  - Conciencia social
   - Creatividad
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"

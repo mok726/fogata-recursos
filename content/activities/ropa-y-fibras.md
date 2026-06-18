@@ -68,7 +68,7 @@ category:
   - Ecología
   - Consumo
 skills:
-  - Consumo responsable
+  - Hábitos sostenibles
   - Investigación
 main_type: "Investigación"
 space_required: "Salón amplio (o hogar)"

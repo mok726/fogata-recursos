@@ -61,7 +61,7 @@ category:
   - Ciencia
 skills:
   - Observación
-  - Conocimiento científico
+  - Investigación
   - Trabajo en equipo
 main_type: "Investigación"
 space_required: "Exterior abierto"

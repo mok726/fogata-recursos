@@ -68,7 +68,7 @@ category:
   - Geología
   - Medio ambiente
 skills:
-  - Observación científica
+  - Observación
   - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto o salón amplio con protección"

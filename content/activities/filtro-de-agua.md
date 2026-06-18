@@ -82,7 +82,7 @@ category:
   - Agua
   - Ingeniería
 skills:
-  - Investigación científica
+  - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
 main_type: "Experimentación"

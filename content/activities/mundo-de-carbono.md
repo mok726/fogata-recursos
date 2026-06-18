@@ -67,7 +67,7 @@ category:
   - Ciencia
 skills:
   - Observación
-  - Análisis crítico
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "15 min"

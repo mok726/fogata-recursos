@@ -70,7 +70,7 @@ category:
   - Agua
 skills:
   - Creatividad
-  - Comunicación digital
+  - Comunicación
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 special_materials:

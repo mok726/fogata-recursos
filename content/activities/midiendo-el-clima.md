@@ -70,7 +70,7 @@ category:
   - Tecnología
 skills:
   - Investigación
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 prep_time: "30 min + mediciones diarias"

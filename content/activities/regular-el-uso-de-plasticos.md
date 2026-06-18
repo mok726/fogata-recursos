@@ -67,7 +67,7 @@ category:
   - Medio ambiente
 skills:
   - Pensamiento sistémico
-  - Colaboración
+  - Trabajo en equipo
   - Pensamiento crítico
   - Reflexión sobre normas y valores
 main_type: "Debate / Diálogo"

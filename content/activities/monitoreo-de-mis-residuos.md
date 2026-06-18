@@ -66,9 +66,9 @@ category:
   - Hogar
   - Consumo
 skills:
-  - Pensamiento Sistémico
+  - Pensamiento sistémico
   - Autoconciencia
-  - Pensamiento Crítico
+  - Pensamiento crítico
   - Resolución de problemas
 main_type: "Investigación"
 space_required: "Salón amplio (para discusión) + hogar"

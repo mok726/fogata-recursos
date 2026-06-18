@@ -68,7 +68,7 @@ category:
   - Cultura
 skills:
   - Geografía
-  - Conciencia global
+  - Conciencia social
 main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "15 min"

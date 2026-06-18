@@ -66,7 +66,7 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Conocimiento científico
+  - Investigación
   - Conciencia ambiental
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"

@@ -76,7 +76,7 @@ category:
   - Medio ambiente
   - Educación
 skills:
-  - Organización
+  - Planificación y organización
   - Comunicación
   - Conciencia comunitaria
 main_type: "Servicio a los demás"

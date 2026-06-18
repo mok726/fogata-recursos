@@ -72,8 +72,7 @@ category:
   - Energía
   - Campamento
 skills:
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

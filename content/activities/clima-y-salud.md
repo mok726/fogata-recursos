@@ -71,7 +71,7 @@ category:
   - Epidemiología
 skills:
   - Investigación
-  - comunicación
+  - Comunicación
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

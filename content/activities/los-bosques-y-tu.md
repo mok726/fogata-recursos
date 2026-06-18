@@ -70,7 +70,7 @@ category:
   - Escritura
 skills:
   - Reflexión personal
-  - Empatía ambiental
+  - Empatía
   - Expresión escrita
 main_type: "Reflexión"
 space_required: "Salón amplio"

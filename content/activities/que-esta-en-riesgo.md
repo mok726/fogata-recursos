@@ -67,8 +67,8 @@ category:
   - Juego
   - Medio ambiente
 skills:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento sistémico
+  - Pensamiento crítico
 main_type: "Juego"
 space_required: "Salón amplio"
 special_materials:

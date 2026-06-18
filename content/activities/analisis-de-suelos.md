@@ -77,7 +77,7 @@ category:
 skills:
   - Investigación
   - Presentación oral
-  - Conciencia global
+  - Conciencia social
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

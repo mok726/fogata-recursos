@@ -67,7 +67,7 @@ category:
   - Juego
   - Sistemas
 skills:
-  - Pensamiento Sistémico
+  - Pensamiento sistémico
   - Anticipar el Futuro
 main_type: "Juego"
 space_required: "Salón amplio"

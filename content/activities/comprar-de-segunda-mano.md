@@ -66,7 +66,7 @@ category:
   - Ahorro
 skills:
   - Conciencia ambiental
-  - Consumo responsable
+  - Hábitos sostenibles
 main_type: "Reflexión"
 space_required: "Salón amplio / tiendas de segunda mano / hogar"
 special_materials:

@@ -69,9 +69,9 @@ category:
   - Clima
   - Política
 skills:
-  - Investigación histórica
+  - Investigación
   - Organización visual
-  - Conciencia global
+  - Conciencia social
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

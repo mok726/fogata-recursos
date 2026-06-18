@@ -76,7 +76,7 @@ category:
   - Cocina
 skills:
   - Paciencia
-  - Solución de problemas
+  - Resolución de problemas
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

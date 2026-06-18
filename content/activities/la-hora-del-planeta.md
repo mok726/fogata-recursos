@@ -70,7 +70,7 @@ category:
   - Energía
   - Eventos
 skills:
-  - Conciencia global
+  - Conciencia social
   - Adaptabilidad
 main_type: "Servicio a los demás"
 space_required: "Salón amplio (a oscuras)"

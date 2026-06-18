@@ -63,8 +63,8 @@ category:
   - Naturaleza
   - Servicio
 skills:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento sistémico
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "30 min (organizar visita) + visita"

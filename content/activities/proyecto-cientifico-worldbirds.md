@@ -64,7 +64,7 @@ category:
   - Conservación
 skills:
   - Ciudadanía científica
-  - Tecnología
+  - Alfabetización digital
 main_type: "Investigación"
 space_required: "Exterior abierto"
 prep_time: "15 min"

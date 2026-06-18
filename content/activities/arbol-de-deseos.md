@@ -70,7 +70,7 @@ category:
 skills:
   - Creatividad
   - Reflexión grupal
-  - Conciencia ecológica
+  - Conciencia ambiental
 main_type: "community"
 space_required: "collective hopes"
 special_materials:

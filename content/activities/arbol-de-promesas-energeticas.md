@@ -78,7 +78,7 @@ category:
   - Energía
   - Comunidad
 skills:
-  - Liderazgo comunitario
+  - Liderazgo
   - Conciencia colectiva
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"

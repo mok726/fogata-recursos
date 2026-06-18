@@ -62,7 +62,7 @@ category:
   - Física
   - Agua
 skills:
-  - Investigación científica
+  - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
 main_type: "Investigación"

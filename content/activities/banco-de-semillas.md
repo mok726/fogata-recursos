@@ -64,7 +64,7 @@ category:
   - Genética
   - Conservación
 skills:
-  - Conciencia global
+  - Conciencia social
   - Preservación
 main_type: "Investigación"
 space_required: "Salón amplio (institución)"

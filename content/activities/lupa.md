@@ -63,7 +63,7 @@ category:
   - Biología
   - Agua
 skills:
-  - Investigación científica
+  - Investigación
   - Conciencia ambiental
   - Observación
 main_type: "Investigación"

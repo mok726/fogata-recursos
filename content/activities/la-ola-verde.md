@@ -72,7 +72,7 @@ category:
   - Activismo
 skills:
   - Trabajo en equipo
-  - Ciudadanía global
+  - Conciencia global
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto"
 special_materials:

@@ -76,7 +76,7 @@ category:
   - Arte
   - Seguridad
 skills:
-  - Conciencia Ambiental
+  - Conciencia ambiental
   - Creatividad
   - Seguridad
 main_type: "Aprender haciendo"

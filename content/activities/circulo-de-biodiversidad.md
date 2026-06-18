@@ -70,7 +70,7 @@ category:
   - Ciencia
   - Naturaleza
 skills:
-  - Observación detallada
+  - Observación
   - Documentación
 main_type: "Investigación"
 space_required: "Exterior abierto (bosque)"

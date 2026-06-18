@@ -66,7 +66,7 @@ category:
   - Comunicación
   - Biodiversidad
 skills:
-  - Colaboración
+  - Trabajo en equipo
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"
 special_materials:

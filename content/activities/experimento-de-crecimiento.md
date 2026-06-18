@@ -69,7 +69,7 @@ category:
   - Método científico
 skills:
   - Paciencia
-  - Método científico
+  - Pensamiento científico
 main_type: "Experimentación"
 space_required: "Salón chico o exterior"
 prep_time: "15 min inicial + seguimiento"

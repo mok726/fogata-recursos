@@ -72,7 +72,7 @@ category:
   - Clima
 skills:
   - Investigación
-  - pensamiento crítico
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

@@ -71,7 +71,7 @@ category:
   - Restauración
   - Jardinería
 skills:
-  - Planificación
+  - Planificación y organización
   - Ecología aplicada
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"

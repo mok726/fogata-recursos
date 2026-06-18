@@ -67,7 +67,7 @@ category:
   - Educación
 skills:
   - Observación
-  - Conocimiento científico
+  - Investigación
   - Comunicación
 main_type: "Investigación"
 space_required: "Exterior abierto"

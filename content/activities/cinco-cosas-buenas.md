@@ -69,7 +69,7 @@ category:
   - Conciencia
 skills:
   - Pensamiento crítico
-  - Expresión artística
+  - Creatividad
   - Conciencia ambiental
 main_type: "Arte"
 space_required: "Salón amplio"

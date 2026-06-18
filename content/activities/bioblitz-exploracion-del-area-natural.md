@@ -70,8 +70,8 @@ category:
   - Ciencia
   - Naturaleza
 skills:
-  - Pensamiento Sistémico
-  - Colaboración
+  - Pensamiento sistémico
+  - Trabajo en equipo
 main_type: "Investigación"
 space_required: "Exterior abierto"
 special_materials:

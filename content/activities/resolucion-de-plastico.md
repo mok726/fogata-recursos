@@ -61,7 +61,7 @@ category:
   - Ciudadanía
 skills:
   - Reflexión sobre normas y valores
-  - Colaboración
+  - Trabajo en equipo
   - Autoconciencia
 main_type: "Planificación / Compromiso"
 space_required: "Salón chico"

@@ -69,7 +69,7 @@ category:
   - Medio ambiente
   - Consumo responsable
 skills:
-  - Colaboración
+  - Trabajo en equipo
   - Reflexión sobre normas y valores
 main_type: "Aprender haciendo"
 space_required: "Salón amplio"

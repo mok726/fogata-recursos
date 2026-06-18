@@ -72,7 +72,7 @@ category:
   - Economía
 skills:
   - Comunicación
-  - Análisis crítico
+  - Pensamiento crítico
   - Conciencia climática
 main_type: "Investigación"
 space_required: "Salón amplio"

@@ -77,9 +77,9 @@ category:
   - Física
   - Energía
 skills:
-  - Pensamiento Crítico
-  - Conciencia Ambiental
-  - Experimentación Científica
+  - Pensamiento crítico
+  - Conciencia ambiental
+  - Experimentación
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

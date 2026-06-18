@@ -65,7 +65,7 @@ category:
   - Medio ambiente
   - Naturaleza
 skills:
-  - Observación científica
+  - Observación
   - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Exterior abierto"

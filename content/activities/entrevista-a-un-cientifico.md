@@ -69,7 +69,7 @@ category:
   - Comunicación
   - Educación
 skills:
-  - Comunicación científica
+  - Comunicación
   - Curiosidad
 main_type: "Investigación"
 space_required: "Salón amplio (o virtual)"

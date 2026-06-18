@@ -68,7 +68,7 @@ category:
   - Biología
 skills:
   - Pensamiento crítico
-  - Comunicación oral
+  - Comunicación
 main_type: "Juego"
 space_required: "Salón amplio"
 special_materials:

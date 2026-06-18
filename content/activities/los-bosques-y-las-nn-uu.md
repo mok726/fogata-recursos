@@ -64,8 +64,8 @@ category:
   - Cooperación
 skills:
   - Investigación
-  - Conciencia global
-  - Análisis crítico
+  - Conciencia social
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "25 min"

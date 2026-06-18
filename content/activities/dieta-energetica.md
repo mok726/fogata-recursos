@@ -68,7 +68,7 @@ category:
   - Clima
   - Hogar
 skills:
-  - Responsabilidad ambiental
+  - Responsabilidad
   - Matemáticas
 main_type: "Planificación"
 space_required: "Hogar (individual)"

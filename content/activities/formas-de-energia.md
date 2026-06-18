@@ -66,7 +66,7 @@ category:
   - Educación
 skills:
   - Creatividad
-  - Trabajo colaborativo
+  - Trabajo en equipo
 main_type: "Juego"
 space_required: "Salón amplio"
 prep_time: "10 min"

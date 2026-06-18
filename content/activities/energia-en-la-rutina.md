@@ -70,7 +70,7 @@ category:
   - Energía
   - Vida cotidiana
 skills:
-  - Autoconocimiento
+  - Autoconciencia
   - Pensamiento sistémico
 main_type: "Reflexión"
 space_required: "Salón amplio"

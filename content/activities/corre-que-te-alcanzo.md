@@ -68,7 +68,7 @@ category:
   - Ecología
 skills:
   - Juego interactivo
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Juego"
 space_required: "Salón amplio o exterior"
 special_materials:

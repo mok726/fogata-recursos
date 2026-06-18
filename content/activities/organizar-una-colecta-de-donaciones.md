@@ -68,7 +68,7 @@ category:
   - Comunidad
 skills:
   - Conciencia social
-  - Liderazgo y organización
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto (vecindario)"
 special_materials:

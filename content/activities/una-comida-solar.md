@@ -68,8 +68,7 @@ category:
   - Tecnología
   - Energía
 skills:
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 prep_time: "15 min + tiempo de cocción"

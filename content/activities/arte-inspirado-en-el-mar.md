@@ -71,7 +71,7 @@ category:
   - Conservación
 skills:
   - Creatividad
-  - Expresión artística
+  - Creatividad
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

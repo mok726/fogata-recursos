@@ -70,8 +70,8 @@ category:
   - Arte
   - Ciencia
 skills:
-  - Observación detallada
-  - Investigación científica
+  - Observación
+  - Investigación
   - Habilidades artísticas
 main_type: "Investigación"
 space_required: "Exterior abierto (arboreto o parque)"

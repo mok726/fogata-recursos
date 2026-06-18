@@ -69,7 +69,7 @@ category:
 skills:
   - Observación a largo plazo
   - Análisis comparativo
-  - Expresión creativa
+  - Creatividad
 main_type: "Investigación"
 space_required: "Exterior abierto (bosque)"
 prep_time: "15 min por visita + trabajo creativo"

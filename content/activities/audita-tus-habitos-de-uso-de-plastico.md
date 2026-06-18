@@ -69,7 +69,7 @@ category:
 skills:
   - Pensamiento crítico
   - Autoconciencia
-  - Responsabilidad ambiental
+  - Responsabilidad
 main_type: "Reflexión"
 space_required: "Salón chico"
 prep_time: "5 min"

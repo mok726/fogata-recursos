@@ -69,7 +69,7 @@ category:
   - Naturaleza
   - Planificación
 skills:
-  - Planificación
+  - Planificación y organización
   - Creatividad
   - Habilidades de supervivencia
 main_type: "Planificación"

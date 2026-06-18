@@ -67,7 +67,7 @@ category:
   - Bosque
 skills:
   - Conciencia de riesgos
-  - Organización
+  - Planificación y organización
   - Investigación
 main_type: "Investigación"
 space_required: "Salón amplio"

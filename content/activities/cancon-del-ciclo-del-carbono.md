@@ -69,7 +69,7 @@ category:
   - Ciencia
   - Clima
 skills:
-  - Creatividad musical
+  - Creatividad
   - Aprendizaje colaborativo
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"

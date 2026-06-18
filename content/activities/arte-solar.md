@@ -77,9 +77,9 @@ category:
   - Ciencia
   - Energía
 skills:
-  - Pensamiento Crítico
+  - Pensamiento crítico
   - Creatividad
-  - Conciencia Ambiental
+  - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

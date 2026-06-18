@@ -74,7 +74,7 @@ category:
   - Biología
   - Medio ambiente
 skills:
-  - Conciencia ecológica
+  - Conciencia ambiental
   - Pensamiento crítico
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"

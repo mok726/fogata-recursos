@@ -66,7 +66,7 @@ category:
   - Energía
   - Familia
 skills:
-  - Empatía intergeneracional
+  - Empatía
   - Análisis histórico
 main_type: "Investigación"
 space_required: "Salón amplio (entrevistas en hogares)"

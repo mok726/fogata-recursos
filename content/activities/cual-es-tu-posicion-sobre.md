@@ -67,9 +67,9 @@ category:
   - Ética
   - Medio ambiente
 skills:
-  - Pensamiento Sistémico
+  - Pensamiento sistémico
   - Autoconciencia
-  - Pensamiento Crítico
+  - Pensamiento crítico
 main_type: "Debate / Diálogo"
 space_required: "Salón amplio"
 special_materials:

@@ -67,7 +67,7 @@ category:
   - Botánica
   - Ciencia
 skills:
-  - Método científico
+  - Pensamiento científico
   - Análisis
 main_type: "Experimentación"
 space_required: "Exterior abierto"

@@ -73,7 +73,7 @@ category:
   - Servicio
 skills:
   - Trabajo en equipo
-  - Responsabilidad ambiental
+  - Responsabilidad
   - Conocimiento práctico
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto"

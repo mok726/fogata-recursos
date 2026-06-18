@@ -66,7 +66,7 @@ category:
   - Agua
   - Tecnología
 skills:
-  - Investigación científica
+  - Investigación
   - Conciencia ambiental
   - Pensamiento crítico
 main_type: "Experimentación"

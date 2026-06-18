@@ -76,7 +76,7 @@ category:
   - Periodismo
 skills:
   - Observación
-  - Comunicación escrita
+  - Comunicación
 main_type: "Investigación"
 space_required: "Exterior abierto (planta)"
 prep_time: "organizar visita con anticipación"

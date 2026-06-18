@@ -68,8 +68,8 @@ category:
   - Ecología
   - Comunidad
 skills:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento sistémico
+  - Pensamiento crítico
   - Anticipar el Futuro
 main_type: "Investigación"
 space_required: "Exterior abierto (vecindario)"

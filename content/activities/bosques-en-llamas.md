@@ -63,7 +63,7 @@ category:
   - Gestión de riesgos
   - Seguridad
 skills:
-  - Conocimiento ecológico
+  - Conciencia ambiental
   - Prevención de riesgos
   - Comunicación
 main_type: "Investigación"

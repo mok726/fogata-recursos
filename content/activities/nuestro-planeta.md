@@ -68,7 +68,7 @@ category:
   - Cine
   - Educación
 skills:
-  - Pensamiento Sistémico
+  - Pensamiento sistémico
   - Reflexión sobre normas y valores
 main_type: "Reflexión"
 space_required: "Salón amplio"

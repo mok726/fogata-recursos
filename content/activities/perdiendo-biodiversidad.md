@@ -78,9 +78,9 @@ category:
   - Conservación
   - Arte
 skills:
-  - Investigación científica
+  - Investigación
   - Diseño gráfico
-  - Empatía ecológica
+  - Empatía
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

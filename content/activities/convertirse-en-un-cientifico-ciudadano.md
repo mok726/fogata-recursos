@@ -67,7 +67,7 @@ category:
   - Conservación
 skills:
   - Investigación
-  - Conocimiento científico
+  - Investigación
   - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Exterior abierto"

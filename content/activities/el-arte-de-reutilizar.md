@@ -64,7 +64,7 @@ category:
   - Medio ambiente
 skills:
   - Reflexión sobre normas y valores
-  - Colaboración
+  - Trabajo en equipo
 main_type: "Creatividad / Arte"
 space_required: "Exterior abierto"
 special_materials:

@@ -70,7 +70,7 @@ category:
   - Tecnología
   - Agua
 skills:
-  - Investigación científica
+  - Investigación
   - Conciencia tecnológica
 main_type: "Experimentación"
 space_required: "Exterior abierto (soleado)"

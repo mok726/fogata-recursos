@@ -64,7 +64,7 @@ category:
   - Química
   - Ecología
 skills:
-  - Análisis científico
+  - Investigación
   - Conciencia climática
   - Pensamiento sistémico
 main_type: "Investigación"

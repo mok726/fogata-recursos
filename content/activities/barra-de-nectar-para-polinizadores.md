@@ -71,7 +71,7 @@ category:
   - Conservación
 skills:
   - Jardinería
-  - Conciencia ecológica
+  - Conciencia ambiental
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:

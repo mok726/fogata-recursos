@@ -65,7 +65,7 @@ category:
   - Educación
   - Agua
 skills:
-  - Conocimiento científico
+  - Investigación
   - Creatividad
   - Trabajo en equipo
 main_type: "Juego"

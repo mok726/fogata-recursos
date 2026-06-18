@@ -71,7 +71,7 @@ category:
   - Consumo
 skills:
   - Investigación
-  - Consumo responsable
+  - Hábitos sostenibles
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

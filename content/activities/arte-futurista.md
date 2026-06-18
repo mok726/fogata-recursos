@@ -72,7 +72,7 @@ category:
   - Clima
 skills:
   - Creatividad
-  - pensamiento crítico
+  - Pensamiento crítico
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

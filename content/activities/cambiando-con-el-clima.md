@@ -73,7 +73,7 @@ category:
   - Ecología
   - Juego
 skills:
-  - Análisis científico
+  - Investigación
   - Creatividad
   - Conciencia climática
 main_type: "Aprender jugando"

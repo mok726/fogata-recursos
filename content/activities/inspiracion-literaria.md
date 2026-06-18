@@ -67,9 +67,9 @@ category:
   - Ecología
   - Arte
 skills:
-  - Análisis crítico
+  - Pensamiento crítico
   - Expresión escrita
-  - Empatía literaria
+  - Empatía
 main_type: "Juego"
 space_required: "Exterior abierto (bosque)"
 special_materials:

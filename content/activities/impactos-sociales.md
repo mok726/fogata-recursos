@@ -65,7 +65,7 @@ category:
   - Ética
 skills:
   - Pensamiento crítico
-  - Empatía social
+  - Empatía
 main_type: "Debate / Diálogo"
 space_required: "Salón amplio"
 prep_time: "40 min"

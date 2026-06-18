@@ -70,7 +70,7 @@ category:
   - Medio ambiente
   - Comunidad
 skills:
-  - Organización
+  - Planificación y organización
   - Conciencia ambiental
   - Comunicación
 main_type: "Servicio a los demás"

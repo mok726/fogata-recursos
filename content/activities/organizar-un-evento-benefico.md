@@ -67,7 +67,7 @@ category:
   - Ambiente
 skills:
   - Conciencia social
-  - Liderazgo y organización
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto o salón amplio"
 special_materials:

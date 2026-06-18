@@ -68,7 +68,7 @@ category:
   - Agricultura
   - Medio ambiente
 skills:
-  - Organización
+  - Planificación y organización
   - Conciencia ambiental
   - Comunicación
 main_type: "Servicio a los demás"

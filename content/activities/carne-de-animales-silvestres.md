@@ -68,7 +68,7 @@ category:
 skills:
   - Pensamiento crítico
   - Conciencia intercultural
-  - Solución de problemas
+  - Resolución de problemas
 main_type: "Debate / Diálogo"
 space_required: "Salón amplio"
 special_materials:

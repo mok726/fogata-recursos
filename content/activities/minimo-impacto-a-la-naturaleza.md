@@ -65,7 +65,7 @@ category:
   - Medio ambiente
   - Selva
 skills:
-  - Pensamiento Sistémico
+  - Pensamiento sistémico
   - Anticipar el Futuro
 main_type: "Reflexión"
 space_required: "Salón amplio"

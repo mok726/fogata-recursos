@@ -67,7 +67,7 @@ category:
   - Ciudadanía
   - Comunicación
 skills:
-  - Ciudadanía activa
+  - Conciencia social
   - Redacción formal
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"

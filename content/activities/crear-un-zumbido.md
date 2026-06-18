@@ -76,7 +76,7 @@ category:
   - Educación
   - Comunidad
 skills:
-  - Organización
+  - Planificación y organización
   - Conciencia ambiental
   - Comunicación
 main_type: "Servicio a los demás"

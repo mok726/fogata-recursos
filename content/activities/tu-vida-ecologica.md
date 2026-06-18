@@ -71,7 +71,7 @@ category:
   - Hogar
   - Consumo
 skills:
-  - Pensamiento Crítico
+  - Pensamiento crítico
   - Autoconciencia
 main_type: "Reflexión"
 space_required: "Salón amplio"

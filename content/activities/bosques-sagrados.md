@@ -64,7 +64,7 @@ category:
   - Antropología
   - Ecología
 skills:
-  - Investigación intercultural
+  - Investigación
   - Respeto religioso
   - Pensamiento crítico
 main_type: "Investigación"

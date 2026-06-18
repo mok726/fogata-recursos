@@ -74,9 +74,9 @@ category:
   - Bosque
   - Comunicación
 skills:
-  - Expresión artística
+  - Creatividad
   - Comunicación
-  - Organización
+  - Planificación y organización
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

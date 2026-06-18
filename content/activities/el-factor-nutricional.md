@@ -62,7 +62,7 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Conocimiento científico
+  - Investigación
   - Conciencia alimentaria
 main_type: "Investigación"
 space_required: "Salón amplio"

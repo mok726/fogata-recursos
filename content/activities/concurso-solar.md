@@ -69,8 +69,8 @@ category:
   - Energía
   - Juego
 skills:
-  - Pensamiento Crítico
-  - Trabajo en Equipo
+  - Pensamiento crítico
+  - Trabajo en equipo
 main_type: "Aprender jugando"
 space_required: "Salón amplio"
 special_materials:

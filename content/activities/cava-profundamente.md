@@ -74,7 +74,7 @@ category:
   - Ciencia
   - Naturaleza
 skills:
-  - Observación científica
+  - Observación
   - Conciencia ambiental
   - Trabajo en equipo
 main_type: "Investigación"

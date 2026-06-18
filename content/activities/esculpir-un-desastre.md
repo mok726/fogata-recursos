@@ -73,7 +73,7 @@ category:
   - Resiliencia
   - Desastres
 skills:
-  - Expresión artística
+  - Creatividad
   - Manejo de emociones
   - Conciencia ambiental
 main_type: "Arte"

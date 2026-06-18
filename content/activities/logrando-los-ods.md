@@ -81,7 +81,7 @@ category:
   - Educación
 skills:
   - Creatividad visual
-  - Planificación
+  - Planificación y organización
 main_type: "Servicio a los demás"
 space_required: "Salón amplio"
 special_materials:

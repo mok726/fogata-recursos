@@ -75,7 +75,7 @@ category:
   - Comunicación
 skills:
   - Conciencia social
-  - Liderazgo y comunicación
+  - Liderazgo
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto o salón amplio"
 special_materials:

@@ -71,7 +71,7 @@ category:
   - Ecología
   - Comunidad
 skills:
-  - Liderazgo ambiental
+  - Liderazgo
   - Trabajo en equipo
 main_type: "Servicio a los demás"
 space_required: "Exterior abierto"

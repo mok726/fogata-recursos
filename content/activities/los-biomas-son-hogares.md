@@ -81,7 +81,7 @@ category:
 skills:
   - Investigación
   - Pensamiento crítico
-  - Comunicación oral
+  - Comunicación
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

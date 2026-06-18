@@ -69,7 +69,7 @@ category:
   - Consumo
 skills:
   - Conciencia ambiental
-  - Consumo responsable
+  - Hábitos sostenibles
 main_type: "Servicio a los demás"
 space_required: "Salón amplio / escuela"
 special_materials:

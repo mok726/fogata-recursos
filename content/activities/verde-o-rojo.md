@@ -68,8 +68,8 @@ category:
   - Debate
   - Conciencia
 skills:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento sistémico
+  - Pensamiento crítico
   - Autoconciencia
 main_type: "Juego"
 space_required: "Salón amplio"

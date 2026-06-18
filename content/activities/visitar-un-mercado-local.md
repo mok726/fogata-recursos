@@ -66,7 +66,6 @@ category:
   - Medio ambiente
 skills:
   - Conciencia ambiental
-  - Aprendizaje práctico
 main_type: "Investigación"
 space_required: "Exterior abierto (mercado local)"
 prep_time: "15 min + visita"

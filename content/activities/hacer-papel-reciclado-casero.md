@@ -77,7 +77,6 @@ category:
 skills:
   - Conciencia ambiental
   - Creatividad
-  - Aprendizaje práctico
 main_type: "Aprender haciendo"
 space_required: "Salón amplio"
 special_materials:

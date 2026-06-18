@@ -70,7 +70,7 @@ category:
   - Energía
 skills:
   - Creatividad
-  - Conocimiento científico
+  - Investigación
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

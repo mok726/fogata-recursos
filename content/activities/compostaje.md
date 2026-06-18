@@ -71,7 +71,7 @@ category:
   - Reciclaje
   - Ecología
 skills:
-  - Ecología práctica
+  - Conciencia ambiental
   - Responsabilidad
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"

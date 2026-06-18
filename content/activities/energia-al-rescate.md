@@ -77,7 +77,7 @@ category:
   - Energía
   - Global
 skills:
-  - Trabajo colaborativo
+  - Trabajo en equipo
   - Pensamiento global
 main_type: "Investigación"
 space_required: "Salón amplio"

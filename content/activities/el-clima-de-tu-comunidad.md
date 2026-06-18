@@ -68,7 +68,7 @@ category:
 skills:
   - Investigación
   - análisis
-  - comunicación
+  - Comunicación
 main_type: "Investigación"
 space_required: "Exterior abierto (comunidad) + salón"
 prep_time: "30 min preparación + entrevistas"

@@ -72,7 +72,7 @@ category:
   - Herpetología
   - Naturaleza
 skills:
-  - Conservación práctica
+  - Conservación
   - Paciencia
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"

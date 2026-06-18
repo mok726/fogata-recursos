@@ -65,8 +65,8 @@ category:
   - Arte
   - Bosque
 skills:
-  - Conocimiento ecológico
-  - Expresión gráfica
+  - Conciencia ambiental
+  - Creatividad
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:

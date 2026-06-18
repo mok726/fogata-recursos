@@ -69,8 +69,8 @@ category:
   - Naturaleza
   - Ciencia
 skills:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento sistémico
+  - Pensamiento crítico
 main_type: "Investigación"
 space_required: "Exterior abierto"
 special_materials:

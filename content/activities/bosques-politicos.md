@@ -69,7 +69,7 @@ category:
   - Activismo
   - Política
 skills:
-  - Investigación histórica
+  - Investigación
   - Expresión política
   - Conciencia social
 main_type: "Investigación"

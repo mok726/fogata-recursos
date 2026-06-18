@@ -68,7 +68,7 @@ category:
   - Ciudadanía
 skills:
   - Investigación
-  - Conciencia global
+  - Conciencia social
 main_type: "Investigación"
 space_required: "Salón amplio"
 special_materials:

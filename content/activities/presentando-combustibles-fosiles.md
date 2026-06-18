@@ -73,7 +73,7 @@ category:
   - Geología
   - Medio ambiente
 skills:
-  - Trabajo colaborativo
+  - Trabajo en equipo
   - Oratoria
 main_type: "Investigación"
 space_required: "Salón amplio"

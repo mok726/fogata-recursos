@@ -73,7 +73,7 @@ category:
   - Antropología
   - Diseño
 skills:
-  - Investigación cultural
+  - Investigación
   - Habilidades manuales
   - Diseño
 main_type: "Aprender haciendo"

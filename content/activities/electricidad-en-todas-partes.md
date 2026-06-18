@@ -70,7 +70,7 @@ category:
   - Conciencia
 skills:
   - Observación
-  - creatividad
+  - Creatividad
 main_type: "Reflexión"
 space_required: "Hogar (individual)"
 special_materials:

@@ -68,7 +68,7 @@ category:
   - Ecología
   - Agua
 skills:
-  - Investigación científica
+  - Investigación
   - Conciencia ambiental
   - Creatividad
 main_type: "Investigación"

@@ -71,7 +71,7 @@ category:
   - Naturaleza
   - Arte
 skills:
-  - Creatividad musical
+  - Creatividad
   - Escucha activa
   - Coordinación
 main_type: "Arte"

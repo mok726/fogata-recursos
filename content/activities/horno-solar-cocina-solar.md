@@ -70,8 +70,7 @@ category:
   - Energía
   - Medio ambiente
 skills:
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Conciencia ambiental
   - Creatividad
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"

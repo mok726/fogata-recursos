@@ -68,8 +68,8 @@ category:
   - Biología
 skills:
   - Investigación
-  - Solución de problemas
-  - Conciencia global
+  - Resolución de problemas
+  - Conciencia social
 main_type: "Investigación"
 space_required: "Salón amplio o exterior"
 prep_time: "25 min"

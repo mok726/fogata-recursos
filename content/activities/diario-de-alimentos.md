@@ -70,7 +70,7 @@ category:
   - Nutrición
 skills:
   - Análisis
-  - trabajo en equipo
+  - Trabajo en equipo
 main_type: "Investigación"
 space_required: "Salón amplio (cocina)"
 prep_time: "15 min + seguimiento semanal + cocina"

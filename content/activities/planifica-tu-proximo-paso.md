@@ -68,8 +68,8 @@ category:
   - Planificación
   - Servicio
 skills:
-  - Pensamiento Crítico
-  - Planificación
+  - Pensamiento crítico
+  - Planificación y organización
 main_type: "Planificación"
 space_required: "Salón amplio"
 special_materials:

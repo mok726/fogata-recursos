@@ -68,9 +68,9 @@ category:
   - Naturaleza
   - Biología
 skills:
-  - Observación científica
+  - Observación
   - Paciencia
-  - Conocimiento ecológico
+  - Conciencia ambiental
 main_type: "Investigación"
 space_required: "Exterior abierto (bosque)"
 prep_time: "15 min + caminata temprano"

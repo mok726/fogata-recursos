@@ -64,7 +64,7 @@ category:
   - Ciencia
 skills:
   - Trabajo en equipo
-  - Conocimiento científico
+  - Investigación
 main_type: "Aprender jugando"
 space_required: "Salón amplio"
 special_materials:
