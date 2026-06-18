@@ -23,9 +23,9 @@ age_group:
 tools:
   - Lupa (opcional)
 competencies:
-  - Investigación
-  - Solución de problemas
-  - Conciencia global
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o ecólogo
 sdgs:
@@ -77,8 +77,8 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 4
 active_component: 2

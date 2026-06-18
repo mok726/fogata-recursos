@@ -23,8 +23,8 @@ age_group:
 materials:
   - Libros/recursos en línea
 competencies:
-  - Debate
-  - Conciencia ambiental
+  - Comunicación Efectiva
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -79,8 +79,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 1

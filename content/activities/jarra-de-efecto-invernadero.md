@@ -27,8 +27,8 @@ materials:
   - termómetros
   - lámpara solar.
 competencies:
-  - Experimentación
-  - análisis.
+  - Ciencia y Matemáticas
+  - Pensamiento Crítico y Análisis
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -85,7 +85,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 1

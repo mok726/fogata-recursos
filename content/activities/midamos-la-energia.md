@@ -23,8 +23,8 @@ materials:
   - Facturas energéticas
   - Calculadora
 competencies:
-  - Alfabetización financiera
-  - Análisis de datos
+  - Emprendimiento e Innovación
+  - Investigación y Gestión de Datos
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -77,10 +77,10 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

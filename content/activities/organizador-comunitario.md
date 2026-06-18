@@ -27,8 +27,8 @@ materials:
   - Papel y lápiz
   - Materiales para pancartas y posters
 competencies:
-  - Conciencia social
-  - Liderazgo y comunicación
+  - Ciudadanía y Conciencia Social
+  - Liderazgo y Gestión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -89,9 +89,9 @@ scout_values:
   - Hermandad
   - Perseverancia
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
-  - Sistema de patrullas
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 5
 active_component: 3

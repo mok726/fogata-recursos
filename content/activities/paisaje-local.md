@@ -66,7 +66,6 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Investigación
   - Conciencia ambiental
 main_type: "Creatividad / Arte"
 space_required: "Salón amplio"
@@ -79,8 +78,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

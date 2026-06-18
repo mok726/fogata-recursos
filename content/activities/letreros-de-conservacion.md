@@ -26,8 +26,8 @@ tools:
   - Pinceles
   - Taladro
 competencies:
-  - Arte comunitario
-  - Advocacy
+  - Creatividad y Expresión
+  - Ciudadanía y Conciencia Social
 responsible:
   - autoridades locales
 sdgs:
@@ -85,10 +85,10 @@ special_materials:
 prep_time: "1 hora (diseño) + instalación"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

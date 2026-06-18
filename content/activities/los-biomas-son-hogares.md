@@ -27,9 +27,9 @@ materials:
   - Papel y lápices para dibujar
   - Tarjetas para el juego de parejas (opcional)
 competencies:
-  - Investigación
-  - Pensamiento crítico
-  - Comunicación oral
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Scouter o profesor de ciencias
 sdgs:
@@ -93,8 +93,8 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

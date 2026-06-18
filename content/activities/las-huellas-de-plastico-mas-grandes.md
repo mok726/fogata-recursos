@@ -72,11 +72,11 @@ prep_time: "30 min (más 1 semana de recolección)"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Sistema de patrullas
-  - Vida al aire libre
-  - Educación por la acción
+  - Sistema de equipos
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 4

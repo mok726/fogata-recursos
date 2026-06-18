@@ -75,7 +75,7 @@ scout_values:
   - Honestidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 5
 active_component: 1

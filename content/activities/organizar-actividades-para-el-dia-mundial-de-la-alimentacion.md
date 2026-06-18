@@ -24,8 +24,8 @@ materials:
   - cartulina
   - etc.)
 competencies:
-  - Conciencia ambiental
-  - Liderazgo y organización
+  - Sostenibilidad y Medio Ambiente
+  - Liderazgo y Gestión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -85,11 +85,11 @@ special_materials:
 prep_time: "2 semanas planificación"
 scout_values:
   - Hermandad
-  - Salud
-  - Servicio a los demás
+  - Autocuidado integral
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 5
 active_component: 2

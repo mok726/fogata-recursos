@@ -20,8 +20,8 @@ age_group:
   - manada
   - scouts
 competencies:
-  - Conciencia preventiva
-  - Responsabilidad
+  - Salud, Bienestar y Seguridad
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -72,7 +72,7 @@ prep_time: "15 min"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 2

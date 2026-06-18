@@ -21,9 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Análisis crítico
-  - Expresión escrita
-  - Empatía literaria
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Scouter o profesor de literatura
 sdgs:
@@ -81,12 +80,12 @@ special_materials:
   - aros (opcional)
 prep_time: "15 min invención + juego"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
-  - Sistema de patrullas
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 4

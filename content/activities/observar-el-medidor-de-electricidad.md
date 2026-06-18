@@ -22,8 +22,8 @@ age_group:
 tools:
   - Medidor de electricidad (supervisado por un adulto)
 competencies:
-  - Conciencia ambiental
-  - Observación y análisis
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -74,10 +74,10 @@ main_type: "Investigación"
 space_required: "Hogar (individual)"
 prep_time: "15 min + seguimiento 1 semana"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

@@ -29,9 +29,9 @@ tools:
   - Tijeras
   - Pinceles
 competencies:
-  - Investigación
-  - Creatividad
-  - Conciencia ambiental
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -100,7 +100,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 2

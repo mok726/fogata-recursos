@@ -81,7 +81,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 2
 active_component: 3

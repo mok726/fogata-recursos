@@ -20,8 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Investigación
-  - Conciencia sanitaria
+  - Investigación y Gestión de Datos
+  - Salud, Bienestar y Seguridad
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -70,10 +70,10 @@ space_required: "Salón amplio"
 prep_time: "25 min"
 scout_values:
   - Responsabilidad
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 5
 # ===== INFORMACIÓN DE FOOTER =====

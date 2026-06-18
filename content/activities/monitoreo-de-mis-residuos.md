@@ -19,10 +19,8 @@ age: "11-14"
 age_group:
   - scouts
 competencies:
-  - Pensamiento Sistémico
-  - Autoconciencia
-  - Pensamiento Crítico
-  - Resolución de problemas
+  - Pensamiento Crítico y Análisis
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -77,7 +75,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 2

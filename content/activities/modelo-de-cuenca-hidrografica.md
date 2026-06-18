@@ -29,8 +29,8 @@ tools:
   - Palas pequeñas
   - Recipientes
 competencies:
-  - Creatividad
-  - Comprensión de ecosistemas
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -91,7 +91,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 4
 reflective_component: 4
 active_component: 2

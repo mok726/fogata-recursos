@@ -24,8 +24,8 @@ materials:
   - Linternas (opcional)
   - Velas seguras
 competencies:
-  - Conciencia global
-  - Adaptabilidad
+  - Ciudadanía y Conciencia Social
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -82,8 +82,8 @@ prep_time: "15 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 files:

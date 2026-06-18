@@ -25,8 +25,8 @@ materials:
   - Arena
   - Lombrices
 competencies:
-  - Observación científica
-  - Conciencia ambiental
+  - Ciencia y Matemáticas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -83,7 +83,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 4
 reflective_component: 3
 active_component: 2

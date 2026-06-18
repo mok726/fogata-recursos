@@ -24,9 +24,9 @@ materials:
   - Papel
   - Lápiz
 competencies:
-  - Reflexión personal
-  - Empatía ambiental
-  - Expresión escrita
+  - Autoconocimiento y Desarrollo Personal
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Scouter
 sdgs:
@@ -82,7 +82,7 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -25,8 +25,8 @@ age_group:
 materials:
   - Materiales para plantar (opcional)
 competencies:
-  - Trabajo en equipo
-  - Ciudadanía global
+  - Trabajo en Equipo y Colaboración
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -83,11 +83,11 @@ special_materials:
   - cámara
 prep_time: "15 min + plantación"
 scout_values:
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Vida al aire libre
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 3

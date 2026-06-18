@@ -27,9 +27,9 @@ materials:
 tools:
   - Tijeras
 competencies:
-  - Conciencia ambiental
-  - Creatividad
-  - Comunicación visual
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
+  - Comunicación Efectiva
 responsible:
   - Scouter o educador ambiental
 sdgs:
@@ -94,8 +94,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Arte
+  - Aprender haciendo
+  - Marco simbólico
 ludic_component: 3
 reflective_component: 5
 active_component: 2

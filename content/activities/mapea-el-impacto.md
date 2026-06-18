@@ -27,8 +27,8 @@ materials:
   - lápices
   - colores.
 competencies:
-  - Trabajo en equipo
-  - creatividad.
+  - Trabajo en Equipo y Colaboración
+  - Creatividad y Expresión
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -85,8 +85,8 @@ scout_values:
   - Hermandad
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

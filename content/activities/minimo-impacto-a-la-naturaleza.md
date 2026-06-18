@@ -21,8 +21,7 @@ age_group:
 materials:
   - Tarjetas 'Un mundo sin selva'
 competencies:
-  - Pensamiento Sistémico
-  - Anticipar el Futuro
+  - Pensamiento Crítico y Análisis
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -76,7 +75,7 @@ scout_values:
   - Naturaleza
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

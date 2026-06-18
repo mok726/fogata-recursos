@@ -23,9 +23,9 @@ materials:
   - Papel y lápiz para crear el menú
   - Ingredientes para preparar las comidas (opcional)
 competencies:
-  - Conciencia alimentaria
-  - Creatividad
-  - Trabajo en equipo
+  - Salud, Bienestar y Seguridad
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo
 sdgs:
@@ -79,10 +79,10 @@ special_materials:
 prep_time: "15 min"
 scout_values:
   - Responsabilidad
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 5
 active_component: 1

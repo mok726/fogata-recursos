@@ -21,8 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Conciencia Ambiental
-  - Salud y Bienestar
+  - Sostenibilidad y Medio Ambiente
+  - Salud, Bienestar y Seguridad
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -76,10 +76,10 @@ special_materials:
 prep_time: "10 min"
 scout_values:
   - Responsabilidad
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 5
 active_component: 1

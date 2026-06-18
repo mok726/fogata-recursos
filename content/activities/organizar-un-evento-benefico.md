@@ -20,8 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Conciencia social
-  - Liderazgo y organización
+  - Ciudadanía y Conciencia Social
+  - Liderazgo y Gestión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -81,8 +81,8 @@ prep_time: "2 semanas planificación + evento"
 scout_values:
   - Hermandad
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 4

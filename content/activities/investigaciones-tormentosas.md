@@ -25,8 +25,8 @@ materials:
   - papel
   - lápices.
 competencies:
-  - Investigación
-  - análisis.
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -81,7 +81,7 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

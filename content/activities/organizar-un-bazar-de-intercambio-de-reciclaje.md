@@ -22,8 +22,8 @@ age_group:
 materials:
   - Objetos para intercambiar
 competencies:
-  - Conciencia ambiental
-  - Organización y liderazgo
+  - Sostenibilidad y Medio Ambiente
+  - Liderazgo y Gestión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -80,8 +80,8 @@ prep_time: "1 hora planificación + evento"
 scout_values:
   - Hermandad
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 3

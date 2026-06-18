@@ -21,9 +21,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Conciencia de consumo
-  - Investigación
-  - Toma de decisiones éticas
+  - Sostenibilidad y Medio Ambiente
+  - Investigación y Gestión de Datos
+  - Pensamiento Crítico y Análisis
 responsible:
   - Scouter o activista ambiental
 sdgs:
@@ -81,10 +81,10 @@ special_materials:
   - acceso a internet (RSPO)
 prep_time: "20 min + auditoría"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

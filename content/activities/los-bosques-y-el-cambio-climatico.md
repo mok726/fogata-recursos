@@ -20,9 +20,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Análisis científico
-  - Conciencia climática
-  - Pensamiento sistémico
+  - Ciencia y Matemáticas
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
   - Scouter o climatólogo
 sdgs:
@@ -74,7 +74,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

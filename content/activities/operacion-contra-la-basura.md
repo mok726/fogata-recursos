@@ -75,11 +75,11 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Honestidad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

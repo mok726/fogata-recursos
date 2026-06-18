@@ -31,9 +31,9 @@ tools:
   - Pinceles
   - termómetro
 competencies:
-  - Pensamiento Crítico
-  - Conciencia Ambiental
-  - Experimentación Científica
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
+  - Ciencia y Matemáticas
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -93,7 +93,6 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 1

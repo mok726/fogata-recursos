@@ -24,8 +24,8 @@ materials:
   - latas
   - etc.)
 competencies:
-  - Conciencia ambiental
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -84,11 +84,10 @@ special_materials:
   - pinturas
 prep_time: "20 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 5
 reflective_component: 2
 active_component: 1

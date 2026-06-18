@@ -27,8 +27,8 @@ tools:
   - Rastrillos
   - Pinzas
 competencies:
-  - Trabajo en equipo
-  - Responsabilidad cívica
+  - Trabajo en Equipo y Colaboración
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -85,10 +85,10 @@ prep_time: "20 min + limpieza"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Vida al aire libre
+  - Participación comunitaria y Servicio
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 4
 active_component: 4

@@ -19,9 +19,9 @@ age_group:
   - castores
   - manada
 competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
+  - Comunicación Efectiva
 responsible:
 sdgs:
   - 6
@@ -74,11 +74,11 @@ special_materials:
   - marcadores
 prep_time: "15 min"
 scout_values:
-  - Optimismo y Alegría
+  - Resiliencia y Alegría
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 2
 active_component: 2

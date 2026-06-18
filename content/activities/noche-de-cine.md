@@ -69,8 +69,8 @@ scout_values:
   - Hermandad
   - Naturaleza
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

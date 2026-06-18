@@ -23,8 +23,7 @@ materials:
   - Bola de cuerda
   - Tarjetas de plantas y animales
 competencies:
-  - Pensamiento Sistémico
-  - Anticipar el Futuro
+  - Pensamiento Crítico y Análisis
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -79,8 +78,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 5
 active_component: 1

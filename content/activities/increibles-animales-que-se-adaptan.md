@@ -27,8 +27,8 @@ materials:
   - lápices
   - colores.
 competencies:
-  - Creatividad
-  - pensamiento crítico.
+  - Creatividad y Expresión
+  - Pensamiento Crítico y Análisis
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -85,7 +85,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 1

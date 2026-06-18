@@ -22,8 +22,8 @@ age_group:
 materials:
   - Espacio abierto
 competencies:
-  - Trabajo en equipo
-  - Coordinación física
+  - Trabajo en Equipo y Colaboración
+  - Salud, Bienestar y Seguridad
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -78,8 +78,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 5
 reflective_component: 1
 active_component: 4

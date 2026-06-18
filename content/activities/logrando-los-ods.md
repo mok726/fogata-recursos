@@ -27,8 +27,8 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Creatividad visual
-  - Planificación
+  - Creatividad y Expresión
+  - Planificación y Organización
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -92,10 +92,10 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

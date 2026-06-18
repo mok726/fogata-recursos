@@ -28,8 +28,8 @@ tools:
   - Pala
   - Recipiente para compost
 competencies:
-  - Responsabilidad
-  - Conciencia ambiental
+  - Ciudadanía y Conciencia Social
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -85,9 +85,9 @@ prep_time: "30 min"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 3

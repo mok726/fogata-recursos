@@ -21,8 +21,7 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Observación
-  - Análisis crítico
+  - Pensamiento Crítico y Análisis
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -75,8 +74,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 3

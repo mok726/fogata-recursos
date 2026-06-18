@@ -23,8 +23,8 @@ age_group:
 materials:
   - Libros/recursos en línea
 competencies:
-  - Investigación
-  - Conciencia global
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -76,10 +76,10 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

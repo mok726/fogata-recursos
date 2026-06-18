@@ -22,9 +22,9 @@ materials:
   - Cámara fotográfica
   - Impresora (opcional)
 competencies:
-  - Creatividad
-  - Observación
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
 sdgs:
   - 6
@@ -74,8 +74,8 @@ prep_time: "15 min + tiempo de fotos"
 scout_values:
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 2

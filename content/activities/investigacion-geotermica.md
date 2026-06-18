@@ -24,8 +24,8 @@ materials:
 tools:
   - Calculadora
 competencies:
-  - Análisis numérico
-  - Investigación
+  - Ciencia y Matemáticas
+  - Investigación y Gestión de Datos
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -79,7 +79,7 @@ prep_time: "30 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 5
 active_component: 1

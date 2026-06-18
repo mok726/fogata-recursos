@@ -25,8 +25,8 @@ materials:
   - papel
   - lápices.
 competencies:
-  - Investigación
-  - trabajo en equipo.
+  - Investigación y Gestión de Datos
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -79,8 +79,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 4
 active_component: 2

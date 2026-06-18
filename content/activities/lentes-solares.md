@@ -29,9 +29,9 @@ materials:
 tools:
   - Tijeras
 competencies:
-  - Conciencia Ambiental
-  - Creatividad
-  - Seguridad
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
+  - Salud, Bienestar y Seguridad
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -90,7 +90,7 @@ special_materials:
 prep_time: "15 min"
 scout_values:
   - Responsabilidad
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
   - Aprender haciendo

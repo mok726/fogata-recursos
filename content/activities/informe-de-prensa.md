@@ -20,9 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Comunicación
-  - Empatía intercultural
-  - Periodismo ético
+  - Comunicación Efectiva
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o periodista
 sdgs:
@@ -76,8 +75,8 @@ scout_values:
   - Hermandad
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 1

@@ -66,7 +66,7 @@ category:
   - Bosque
 skills:
   - Conciencia ambiental
-  - Creatividad
+  - Expresión artística
 main_type: "Arte"
 space_required: "Salón amplio"
 special_materials:
@@ -77,7 +77,6 @@ prep_time: "15 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 3

@@ -27,8 +27,8 @@ materials:
 tools:
   - Tijeras
 competencies:
-  - Diseño lúdico
-  - Pedagogía
+  - Creatividad y Expresión
+  - Liderazgo y Gestión
 responsible:
   - educador Scout
 sdgs:
@@ -86,11 +86,11 @@ special_materials:
 prep_time: "45 min"
 scout_values:
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 5
 reflective_component: 3
 active_component: 1

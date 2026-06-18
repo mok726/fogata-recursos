@@ -20,9 +20,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Investigación
-  - Conciencia global
-  - Análisis crítico
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
+  - Pensamiento Crítico y Análisis
 responsible:
   - Scouter o profesor de ciencias políticas
 sdgs:
@@ -73,7 +73,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

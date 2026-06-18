@@ -24,8 +24,8 @@ materials:
   - Guantes
   - Bolsas de basura
 competencies:
-  - Conciencia comunitaria
-  - Conciencia ambiental
+  - Ciudadanía y Conciencia Social
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -81,10 +81,10 @@ prep_time: "15 min"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
-  - Servicio comunitario
+  - Vida en la Naturaleza y Aventura
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 3
 active_component: 4

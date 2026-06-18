@@ -26,8 +26,8 @@ materials:
 tools:
   - Pala (opcional)
 competencies:
-  - Conservación práctica
-  - Paciencia
+  - Sostenibilidad y Medio Ambiente
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - educador Scout
 sdgs:
@@ -86,9 +86,9 @@ prep_time: "30 min"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 2
 reflective_component: 3

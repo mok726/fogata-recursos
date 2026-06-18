@@ -19,9 +19,9 @@ age_group:
   - castores
   - manada
 competencies:
-  - Conciencia corporal
-  - Creatividad
-  - Comunicación
+  - Salud, Bienestar y Seguridad
+  - Creatividad y Expresión
+  - Comunicación Efectiva
 responsible:
 sdgs:
   - 3
@@ -70,10 +70,10 @@ main_type: "Reflexión"
 space_required: "Salón amplio"
 prep_time: "10 min"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

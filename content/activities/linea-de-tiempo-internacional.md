@@ -24,9 +24,9 @@ materials:
   - Marcadores
   - Recursos históricos
 competencies:
-  - Investigación histórica
-  - Organización visual
-  - Conciencia global
+  - Investigación y Gestión de Datos
+  - Planificación y Organización
+  - Ciudadanía y Conciencia Social
 responsible:
   - Scouter o historiador ambiental
 sdgs:
@@ -83,7 +83,7 @@ prep_time: "30 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1
