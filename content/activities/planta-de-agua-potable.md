@@ -18,9 +18,9 @@ age: "14-17"
 age_group:
   - caminantes
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -69,11 +69,11 @@ main_type: "Investigación"
 space_required: "Exterior abierto (planta de agua)"
 prep_time: "organizar visita con anticipación"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 2

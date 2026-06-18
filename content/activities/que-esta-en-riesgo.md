@@ -23,8 +23,7 @@ materials:
   - Clips para papel
   - Tarjetas de especies invasoras y nativas
 competencies:
-  - Pensamiento Sistémico
-  - Pensamiento Crítico
+  - Pensamiento Crítico y Análisis
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -79,8 +78,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 5
 reflective_component: 3
 active_component: 2

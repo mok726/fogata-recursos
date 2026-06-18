@@ -22,8 +22,7 @@ age_group:
 materials:
   - Recipientes para recolectar agua
 competencies:
-  - Conciencia ambiental
-  - Hábitos sostenibles
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -77,11 +76,10 @@ special_materials:
   - plantas para regar
 prep_time: "15 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 2

@@ -23,9 +23,8 @@ age_group:
 tools:
   - Guía de árboles (opcional)
 competencies:
-  - Observación detallada
-  - Investigación científica
-  - Habilidades artísticas
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
 responsible:
   - Scouter o botánico
 sdgs:
@@ -79,7 +78,7 @@ prep_time: "15 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 3
 reflective_component: 3

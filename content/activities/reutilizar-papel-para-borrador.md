@@ -22,8 +22,8 @@ age_group:
 materials:
   - Papel usado
 competencies:
-  - Conciencia ambiental
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -76,10 +76,9 @@ special_materials:
   - lápices de colores
 prep_time: "10 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
 ludic_component: 4
 reflective_component: 1

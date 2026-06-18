@@ -21,9 +21,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Investigación
-  - Conciencia local
-  - Trabajo en equipo
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -78,11 +78,11 @@ space_required: "Exterior abierto"
 prep_time: "30 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 3

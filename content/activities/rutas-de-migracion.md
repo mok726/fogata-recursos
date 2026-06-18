@@ -25,8 +25,8 @@ materials:
 tools:
   - Computadora (investigación)
 competencies:
-  - Geografía
-  - Análisis
+  - Patrimonio, Historia y Cultura
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -82,7 +82,7 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

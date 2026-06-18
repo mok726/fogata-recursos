@@ -23,9 +23,9 @@ materials:
   - accesorios
   - etc.)
 competencies:
-  - Creatividad
-  - Trabajo en equipo
-  - Comunicación
+  - Creatividad y Expresión
+  - Trabajo en Equipo y Colaboración
+  - Comunicación Efectiva
 responsible:
 sdgs:
   - 6
@@ -84,8 +84,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 5
 active_component: 2

@@ -78,11 +78,11 @@ special_materials:
 prep_time: "20 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 5
 active_component: 1

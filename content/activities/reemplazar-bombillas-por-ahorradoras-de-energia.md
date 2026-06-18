@@ -22,8 +22,8 @@ age_group:
 materials:
   - Bombillas ahorradoras de energía (LED o bajo consumo)
 competencies:
-  - Conciencia ambiental
-  - Toma de decisiones
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -79,10 +79,10 @@ special_materials:
 prep_time: "15 min"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 2
 active_component: 2

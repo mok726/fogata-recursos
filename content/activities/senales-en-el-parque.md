@@ -25,9 +25,9 @@ materials:
   - etc.)
   - Permiso de las autoridades del parque
 competencies:
-  - Conciencia ambiental
-  - Comunicación
-  - Trabajo en equipo
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo
 sdgs:
@@ -82,10 +82,10 @@ prep_time: "30 min"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 3
 active_component: 2

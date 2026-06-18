@@ -24,8 +24,8 @@ materials:
   - Levadura/bicarbonato
   - Huevos
 competencies:
-  - Cocina
-  - Paciencia
+  - Habilidades Prácticas y Técnicas
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:

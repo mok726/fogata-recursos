@@ -23,8 +23,8 @@ materials:
   - Acceso a internet
   - Papel y lápiz
 competencies:
-  - Conciencia ambiental
-  - Planificación y organización
+  - Sostenibilidad y Medio Ambiente
+  - Planificación y Organización
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -77,7 +77,7 @@ prep_time: "30 min"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

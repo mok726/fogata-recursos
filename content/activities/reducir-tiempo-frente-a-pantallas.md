@@ -20,8 +20,8 @@ age_group:
   - castores
   - manada
 competencies:
-  - Conciencia ambiental
-  - Autodisciplina
+  - Sostenibilidad y Medio Ambiente
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -72,10 +72,10 @@ main_type: "Reflexión"
 space_required: "Hogar (individual)"
 prep_time: "10 min + seguimiento 1 semana"
 scout_values:
-  - Salud
-  - Sencillez y Austeridad
+  - Autocuidado integral
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 2
 active_component: 2

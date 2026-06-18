@@ -25,9 +25,9 @@ materials:
 tools:
   - Computadora (opcional)
 competencies:
-  - Comunicación
-  - Análisis crítico
-  - Conciencia climática
+  - Comunicación Efectiva
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o experto en políticas ambientales
 sdgs:
@@ -85,7 +85,7 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

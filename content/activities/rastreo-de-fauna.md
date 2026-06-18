@@ -22,8 +22,7 @@ age_group:
 tools:
   - Guía de rastreo (opcional)
 competencies:
-  - Observación
-  - Deducción
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -75,7 +74,7 @@ scout_values:
   - Perseverancia
   - Superación personal
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
 ludic_component: 2
 reflective_component: 3

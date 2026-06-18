@@ -23,8 +23,8 @@ materials:
   - Materiales para evento
   - Sistema de recaudación
 competencies:
-  - Emprendimiento social
-  - Transparencia
+  - Emprendimiento e Innovación
+  - Ciudadanía y Conciencia Social
 responsible:
   - educador Scout
 sdgs:
@@ -80,8 +80,8 @@ prep_time: "1-2 semanas planificación + evento"
 scout_values:
   - Honestidad
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

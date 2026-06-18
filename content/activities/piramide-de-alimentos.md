@@ -23,8 +23,8 @@ materials:
   - Tabla para comida semanal
   - Pirámide de alimentos
 competencies:
-  - Autoconciencia
-  - Pensamiento Crítico
+  - Autoconocimiento y Desarrollo Personal
+  - Pensamiento Crítico y Análisis
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -79,10 +79,10 @@ special_materials:
 prep_time: "15 min + seguimiento semanal"
 scout_values:
   - Responsabilidad
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

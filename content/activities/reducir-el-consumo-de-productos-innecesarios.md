@@ -20,8 +20,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Conciencia ambiental
-  - Autodisciplina
+  - Sostenibilidad y Medio Ambiente
+  - Autoconocimiento y Desarrollo Personal
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -71,9 +71,9 @@ main_type: "Reflexión"
 space_required: "Salón amplio"
 prep_time: "15 min + seguimiento 1 mes"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

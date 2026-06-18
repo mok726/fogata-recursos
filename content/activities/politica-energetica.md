@@ -19,8 +19,8 @@ age: "18-22"
 age_group:
   - rovers
 competencies:
-  - Pensamiento crítico
-  - Incidencia política
+  - Pensamiento Crítico y Análisis
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -79,8 +79,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 # ===== INFORMACIÓN DE FOOTER =====

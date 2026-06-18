@@ -28,8 +28,8 @@ materials:
 tools:
   - Tijeras
 competencies:
-  - Comprensión ecológica
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
 responsible:
   - Scouter o profesor de ciencias
 sdgs:
@@ -87,9 +87,8 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
   - Aprender haciendo
-  - Sistema de patrullas
+  - Sistema de equipos
 ludic_component: 3
 reflective_component: 4
 active_component: 1

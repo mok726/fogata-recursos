@@ -23,8 +23,7 @@ materials:
   - Contenedores para reciclaje
   - Papel y lápiz
 competencies:
-  - Conciencia ambiental
-  - Hábitos sostenibles
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -84,7 +83,7 @@ prep_time: "20 min"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 2
 active_component: 1

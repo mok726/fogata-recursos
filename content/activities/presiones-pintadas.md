@@ -24,9 +24,9 @@ materials:
   - pinturas
   - etc.)
 competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Comunicación
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
 sdgs:
   - 6
@@ -84,9 +84,9 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
-  - Servicio comunitario
+  - Aprender haciendo
+  - Sistema de equipos
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 1

@@ -24,8 +24,8 @@ tools:
   - Martillo
   - Clavos
 competencies:
-  - Carpintería básica
-  - Conservación
+  - Habilidades Prácticas y Técnicas
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - educador Scout
 sdgs:
@@ -83,12 +83,12 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
-  - Servicio comunitario
+  - Vida en la Naturaleza y Aventura
+  - Participación comunitaria y Servicio
 ludic_component: 4
 reflective_component: 3
 active_component: 2

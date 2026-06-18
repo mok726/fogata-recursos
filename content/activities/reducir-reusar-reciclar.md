@@ -24,8 +24,8 @@ materials:
 tools:
   - Marcadores
 competencies:
-  - Conciencia ecológica
-  - Trabajo en equipo
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -80,7 +80,7 @@ scout_values:
   - Naturaleza
   - Responsabilidad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 1

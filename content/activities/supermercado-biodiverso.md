@@ -21,8 +21,7 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Observación
-  - Análisis comparativo
+  - Pensamiento Crítico y Análisis
 responsible:
   - educador Scout
 sdgs:
@@ -72,10 +71,10 @@ main_type: "Investigación"
 space_required: "Interior (supermercado)"
 prep_time: "10 min + visita"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

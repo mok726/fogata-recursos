@@ -26,8 +26,8 @@ materials:
 tools:
   - Regla
 competencies:
-  - Pensamiento crítico
-  - Conciencia ambiental
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Líder de grupo
 sdgs:
@@ -82,7 +82,7 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

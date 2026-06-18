@@ -24,9 +24,9 @@ materials:
   - Mapas
   - Libros/recursos en línea
 competencies:
-  - Investigación
-  - Conciencia global
-  - Creatividad
+  - Investigación y Gestión de Datos
+  - Ciudadanía y Conciencia Social
+  - Creatividad y Expresión
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -89,8 +89,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 1

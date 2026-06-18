@@ -22,8 +22,8 @@ age_group:
 materials:
   - Espacio abierto
 competencies:
-  - Coordinación
-  - Aprendizaje kinestésico
+  - Salud, Bienestar y Seguridad
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -73,11 +73,11 @@ main_type: "Juego"
 space_required: "Salón amplio o exterior"
 prep_time: "5 min"
 scout_values:
-  - Salud
+  - Autocuidado integral
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 5
 reflective_component: 1
 active_component: 4

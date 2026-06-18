@@ -22,8 +22,7 @@ age_group:
 materials:
   - Bolsas reusables
 competencies:
-  - Conciencia ambiental
-  - Hábitos sostenibles
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -77,10 +76,10 @@ special_materials:
 prep_time: "10 min + seguimiento 1 mes"
 scout_values:
   - Responsabilidad
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 2
 active_component: 2

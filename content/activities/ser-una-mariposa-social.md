@@ -22,9 +22,9 @@ age_group:
 materials:
   - Dispositivo con acceso a redes sociales
 competencies:
-  - Comunicación
-  - Conciencia ambiental
-  - Trabajo en equipo
+  - Comunicación Efectiva
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Responsable del grupo
 sdgs:
@@ -79,9 +79,9 @@ prep_time: "20 min"
 scout_values:
   - Hermandad
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 3
 active_component: 1

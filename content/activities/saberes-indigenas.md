@@ -21,8 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Respeto intercultural
-  - Documentación
+  - Ciudadanía y Conciencia Social
+  - Investigación y Gestión de Datos
 responsible:
   - líder indígena/educador
 sdgs:
@@ -65,7 +65,7 @@ category:
   - Cultura
 skills:
   - Respeto intercultural
-  - Documentación
+  - Investigación
 main_type: "Investigación"
 space_required: "Salón amplio"
 prep_time: "organizar visita con anticipación"
@@ -73,7 +73,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

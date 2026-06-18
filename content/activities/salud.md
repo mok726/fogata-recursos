@@ -25,8 +25,8 @@ materials:
 tools:
   - Computadora para investigación
 competencies:
-  - Conciencia sanitaria
-  - Comunicación
+  - Salud, Bienestar y Seguridad
+  - Comunicación Efectiva
 responsible:
   - Líder de grupo
 sdgs:
@@ -81,10 +81,10 @@ special_materials:
 prep_time: "20 min + charla"
 scout_values:
   - Responsabilidad
-  - Salud
+  - Autocuidado integral
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 5
 active_component: 1

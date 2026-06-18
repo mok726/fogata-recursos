@@ -25,8 +25,8 @@ materials:
 tools:
   - Prensador de plantas (opcional)
 competencies:
-  - Investigación
-  - Preservación cultural
+  - Investigación y Gestión de Datos
+  - Patrimonio, Historia y Cultura
 responsible:
   - experto local
 sdgs:
@@ -78,10 +78,10 @@ space_required: "Exterior abierto (con experto) o salón"
 prep_time: "30 min"
 scout_values:
   - Respeto al prójimo
-  - Salud
+  - Autocuidado integral
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 4
 active_component: 2

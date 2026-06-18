@@ -20,9 +20,9 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Pensamiento crítico
-  - Conciencia de consumo
-  - Diálogo constructivo
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Scouter o ingeniero forestal
 sdgs:
@@ -78,11 +78,11 @@ special_materials:
   - contacto con experto forestal
 prep_time: "25 min preparación + charla + debate"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 4
 active_component: 1

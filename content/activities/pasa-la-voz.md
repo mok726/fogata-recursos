@@ -30,8 +30,8 @@ tools:
   - Computadora para investigación
   - Materiales para eventos
 competencies:
-  - Trabajo en equipo
-  - Conciencia social
+  - Trabajo en Equipo y Colaboración
+  - Ciudadanía y Conciencia Social
 responsible:
   - Líder de grupo
 sdgs:
@@ -87,10 +87,10 @@ special_materials:
 prep_time: "2-4 semanas planificación"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Servicio comunitario
-  - Educación por la acción
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 active_component: 3

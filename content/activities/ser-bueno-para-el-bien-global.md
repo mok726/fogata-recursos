@@ -22,9 +22,9 @@ age_group:
 materials:
   - Papel y lápiz para crear la lista de verificación
 competencies:
-  - Conciencia ambiental
-  - Trabajo en equipo
-  - Responsabilidad
+  - Sostenibilidad y Medio Ambiente
+  - Trabajo en Equipo y Colaboración
+  - Ciudadanía y Conciencia Social
 responsible:
   - Responsable del grupo
 sdgs:
@@ -81,9 +81,9 @@ prep_time: "15 min"
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

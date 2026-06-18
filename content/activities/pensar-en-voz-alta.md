@@ -27,8 +27,8 @@ materials:
   - lápices
   - colores.
 competencies:
-  - Creatividad
-  - expresión escrita.
+  - Creatividad y Expresión
+  - Comunicación Efectiva
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -87,7 +87,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

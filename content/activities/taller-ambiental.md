@@ -23,8 +23,7 @@ materials:
   - Materiales educativos
   - Ejemplos prácticos
 competencies:
-  - Enseñanza
-  - Facilitación
+  - Liderazgo y Gestión
 responsible:
   - educador Scout
 sdgs:
@@ -79,10 +78,10 @@ special_materials:
 prep_time: "2 horas planificación + taller"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 4
 active_component: 2

@@ -23,8 +23,8 @@ materials:
   - Diagramas de sistemas
   - Datos locales
 competencies:
-  - Ingeniería básica
-  - Pensamiento sistémico
+  - Habilidades Prácticas y Técnicas
+  - Pensamiento Crítico y Análisis
 responsible:
   - experto local
 sdgs:
@@ -80,10 +80,10 @@ special_materials:
   - contacto con autoridad de agua
 prep_time: "30 min + investigación"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

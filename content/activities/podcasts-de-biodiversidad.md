@@ -20,8 +20,8 @@ age_group:
   - manada
   - scouts
 competencies:
-  - Escucha activa
-  - Curiosidad científica
+  - Comunicación Efectiva
+  - Ciencia y Matemáticas
 responsible:
   - educador Scout
 sdgs:
@@ -66,7 +66,7 @@ category:
   - Medios
 skills:
   - Escucha activa
-  - Investigación
+  - Conocimiento científico
 main_type: "Reflexión"
 space_required: "Salón amplio"
 prep_time: "10 min + tiempo de audio/video"
@@ -74,7 +74,7 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 3
 active_component: 1

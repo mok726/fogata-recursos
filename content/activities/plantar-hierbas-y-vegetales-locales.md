@@ -25,8 +25,8 @@ materials:
 tools:
   - Herramientas de jardinería (opcional)
 competencies:
-  - Conciencia ambiental
-  - Habilidades de jardinería
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -86,11 +86,10 @@ prep_time: "25 min + seguimiento 1 mes"
 scout_values:
   - Naturaleza
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 3
 active_component: 3

@@ -23,8 +23,8 @@ age_group:
 materials:
   - Pautas de proyectos de servicio comunitario
 competencies:
-  - Pensamiento Crítico
-  - Planificación
+  - Pensamiento Crítico y Análisis
+  - Planificación y Organización
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -79,10 +79,10 @@ special_materials:
 prep_time: "30 min"
 scout_values:
   - Hermandad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 4
 active_component: 1

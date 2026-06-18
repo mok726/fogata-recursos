@@ -26,8 +26,8 @@ materials:
   - lápices
   - materiales para presentaciones.
 competencies:
-  - Investigación
-  - comunicación.
+  - Investigación y Gestión de Datos
+  - Comunicación Efectiva
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -86,8 +86,8 @@ prep_time: "30 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -23,9 +23,9 @@ materials:
   - etc.)
   - Acceso a internet (opcional)
 competencies:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
+  - Investigación y Gestión de Datos
+  - Sostenibilidad y Medio Ambiente
+  - Pensamiento Crítico y Análisis
 responsible:
 sdgs:
   - 6
@@ -80,8 +80,8 @@ special_materials:
   - impresora (opcional)
 prep_time: "30 min"
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 2
 reflective_component: 5
 active_component: 1

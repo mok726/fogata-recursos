@@ -63,7 +63,6 @@ category:
   - Medio ambiente
 skills:
   - Investigación
-  - Investigación
   - Conciencia económica
 main_type: "Investigación"
 space_required: "Salón amplio"
@@ -75,7 +74,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 1
 reflective_component: 5
 active_component: 1

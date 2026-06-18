@@ -24,8 +24,7 @@ materials:
   - Mapa mundial
   - Computadora (para verificar datos)
 competencies:
-  - Conciencia global
-  - Geopolítica
+  - Ciudadanía y Conciencia Social
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -80,7 +79,7 @@ prep_time: "15 min"
 scout_values:
   - Respeto al prójimo
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 3
 reflective_component: 4
 # ===== INFORMACIÓN DE FOOTER =====

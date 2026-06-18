@@ -69,11 +69,11 @@ space_required: "Exterior abierto"
 prep_time: "30 min (más traslado)"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Vida al aire libre
-  - Educación por la acción
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 4

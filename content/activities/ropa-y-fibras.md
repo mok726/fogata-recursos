@@ -24,8 +24,8 @@ materials:
   - Etiquetas de ropa
   - Lista de materiales
 competencies:
-  - Consumo responsable
-  - Investigación
+  - Sostenibilidad y Medio Ambiente
+  - Investigación y Gestión de Datos
 responsible:
   - educador Scout
 sdgs:
@@ -74,10 +74,10 @@ main_type: "Investigación"
 space_required: "Salón amplio (o hogar)"
 prep_time: "15 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

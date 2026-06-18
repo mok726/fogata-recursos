@@ -26,9 +26,9 @@ age_group:
 materials:
   - Papel y lápiz para hacer la lista
 competencies:
-  - Conciencia ambiental
-  - Planificación y organización
-  - Comunicación
+  - Sostenibilidad y Medio Ambiente
+  - Planificación y Organización
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -82,7 +82,7 @@ scout_values:
   - Responsabilidad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 5
 active_component: 1

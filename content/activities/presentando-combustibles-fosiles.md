@@ -27,8 +27,8 @@ tools:
   - Tijeras
   - Pegamento
 competencies:
-  - Trabajo colaborativo
-  - Oratoria
+  - Trabajo en Equipo y Colaboración
+  - Comunicación Efectiva
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -86,8 +86,8 @@ scout_values:
   - Hermandad
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 2
 reflective_component: 4
 active_component: 1

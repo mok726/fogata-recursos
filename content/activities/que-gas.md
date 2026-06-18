@@ -26,8 +26,8 @@ materials:
   - Tarjetas
   - lápices.
 competencies:
-  - Juego interactivo
-  - aprendizaje.
+  - Creatividad y Expresión
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Maestro/profesor/dirigente.
 sdgs:
@@ -82,8 +82,8 @@ prep_time: "20 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Sistema de patrullas
+  - Aprender haciendo
+  - Sistema de equipos
 ludic_component: 4
 reflective_component: 3
 active_component: 1

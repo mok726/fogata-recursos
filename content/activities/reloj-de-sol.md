@@ -32,9 +32,9 @@ tools:
   - aguja
   - colores
 competencies:
-  - Pensamiento Crítico
-  - Conciencia Ambiental
-  - Aprendizaje Práctico
+  - Pensamiento Crítico y Análisis
+  - Sostenibilidad y Medio Ambiente
+  - Habilidades Prácticas y Técnicas
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -83,6 +83,7 @@ category:
 skills:
   - Pensamiento crítico
   - Conciencia ambiental
+  - Aprendizaje práctico
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:
@@ -96,7 +97,7 @@ scout_values:
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
 ludic_component: 2
 reflective_component: 4
 active_component: 1

@@ -24,8 +24,8 @@ materials:
   - pinturas
   - etc.)
 competencies:
-  - Conciencia ambiental
-  - Responsabilidad
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - Responsable del grupo Scout
 sdgs:
@@ -83,8 +83,8 @@ prep_time: "25 min"
 scout_values:
   - Responsabilidad
 scout_method:
-  - Educación por la acción
-  - Servicio comunitario
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
 ludic_component: 2
 reflective_component: 4
 active_component: 1

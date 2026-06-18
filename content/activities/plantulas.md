@@ -87,11 +87,11 @@ special_materials:
 prep_time: "20 min + plantación + seguimiento"
 scout_values:
   - Responsabilidad
-  - Servicio a los demás
+  - Solidaridad
 scout_method:
-  - Vida al aire libre
+  - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Servicio comunitario
+  - Participación comunitaria y Servicio
 ludic_component: 3
 reflective_component: 3
 active_component: 4

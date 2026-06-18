@@ -23,8 +23,8 @@ age_group:
 materials:
   - Materiales para póster
 competencies:
-  - Creatividad
-  - Conciencia ambiental
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -80,10 +80,10 @@ special_materials:
 prep_time: "15 min"
 scout_values:
   - Naturaleza
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 1

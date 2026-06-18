@@ -21,8 +21,8 @@ age_group:
   - caminantes
   - rovers
 competencies:
-  - Conciencia ambiental
-  - Creatividad
+  - Sostenibilidad y Medio Ambiente
+  - Creatividad y Expresión
 responsible:
   - Maestro/Dirigente
 sdgs:
@@ -80,8 +80,8 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Vida al aire libre
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
 ludic_component: 3
 reflective_component: 3
 active_component: 2

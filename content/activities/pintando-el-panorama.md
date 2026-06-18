@@ -23,9 +23,9 @@ materials:
   - Pinturas y pinceles
   - Papel o lienzo para pintar
 competencies:
-  - Creatividad
-  - Conciencia ambiental
-  - Comunicación
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
+  - Comunicación Efectiva
 responsible:
   - Responsable del grupo
 sdgs:
@@ -84,7 +84,7 @@ scout_values:
   - Naturaleza
   - Superación personal
 scout_method:
-  - Educación por la acción
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 1

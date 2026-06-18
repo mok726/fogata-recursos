@@ -27,9 +27,9 @@ materials:
   - Lápices de colores o marcadores
   - Recursos sobre especies en peligro
 competencies:
-  - Investigación científica
-  - Diseño gráfico
-  - Empatía ecológica
+  - Investigación y Gestión de Datos
+  - Creatividad y Expresión
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Scouter o biólogo invitado
 sdgs:
@@ -94,8 +94,8 @@ scout_values:
   - Respeto al prójimo
   - Superación personal
 scout_method:
-  - Educación por la acción
-  - Arte
+  - Aprender haciendo
+  - Marco simbólico
 ludic_component: 3
 reflective_component: 4
 active_component: 1

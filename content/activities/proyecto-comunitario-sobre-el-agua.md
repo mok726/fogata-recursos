@@ -27,8 +27,8 @@ materials:
 tools:
   - Herramientas de jardinería (opcional)
 competencies:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - Trabajo en Equipo y Colaboración
+  - Sostenibilidad y Medio Ambiente
 responsible:
   - Líder de grupo
 sdgs:
@@ -85,12 +85,11 @@ special_materials:
 prep_time: "planificación + ejecución (días a semanas)"
 scout_values:
   - Perseverancia
-  - Servicio a los demás
+  - Solidaridad
   - Superación personal
 scout_method:
-  - Servicio comunitario
+  - Participación comunitaria y Servicio
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 4
 active_component: 3

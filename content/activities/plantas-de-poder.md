@@ -22,8 +22,8 @@ age_group:
 materials:
   - Datos sobre biocombustibles
 competencies:
-  - Pensamiento crítico
-  - Comunicación oral
+  - Pensamiento Crítico y Análisis
+  - Comunicación Efectiva
 responsible:
   - Educador Scout/ Guiadora AGA
 sdgs:
@@ -78,8 +78,8 @@ prep_time: "25 min"
 scout_values:
   - Superación personal
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 4
 active_component: 1

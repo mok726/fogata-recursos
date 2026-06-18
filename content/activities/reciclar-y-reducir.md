@@ -23,9 +23,8 @@ materials:
   - Tarjetas de reciclaje
   - Cajas o superficies para clasificar
 competencies:
-  - Pensamiento Sistémico
-  - Colaboración
-  - Pensamiento Crítico
+  - Pensamiento Crítico y Análisis
+  - Trabajo en Equipo y Colaboración
 responsible:
   - Sinodal o Dirigente a cargo
 sdgs:
@@ -82,8 +81,8 @@ scout_values:
   - Hermandad
   - Responsabilidad
 scout_method:
-  - Sistema de patrullas
-  - Educación por la acción
+  - Sistema de equipos
+  - Aprender haciendo
 ludic_component: 4
 reflective_component: 3
 active_component: 1

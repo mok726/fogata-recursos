@@ -23,9 +23,9 @@ materials:
   - Miel local
   - Vaso de agua
 competencies:
-  - Conciencia alimentaria
-  - Conciencia ambiental
-  - Responsabilidad
+  - Salud, Bienestar y Seguridad
+  - Sostenibilidad y Medio Ambiente
+  - Ciudadanía y Conciencia Social
 responsible:
   - Responsable del grupo
 sdgs:
@@ -78,11 +78,10 @@ special_materials:
   - vaso con agua
 prep_time: "15 min"
 scout_values:
-  - Sencillez y Austeridad
+  - Consumo consciente y Gratitud
   - Superación personal
 scout_method:
   - Aprender haciendo
-  - Educación por la acción
 ludic_component: 3
 reflective_component: 3
 active_component: 1
