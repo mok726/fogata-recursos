@@ -445,6 +445,23 @@ eleventyConfig.addFilter(
 );
 
 
+eleventyConfig.addFilter(
+  "activitiesBySkill",
+  function(activities, skillName) {
+
+    return activities.filter(a => {
+
+      const skills =
+        a.data.skills || [];
+
+      return skills.includes(skillName);
+
+    });
+
+  }
+);
+
+
 
 
   return {

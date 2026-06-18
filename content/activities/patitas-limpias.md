@@ -14,14 +14,14 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-# image: "/imagenes/actividades/patitas-limpias.png"
+image: "/imagenes/actividades/patitas-limpias.png"
 original: "true"
 
 # ========== CLASIFICACIÓN ==========
 branch:
   - Comunidad
 age: "7-10"
-age_group:  
+age_group: 
   - manada
 
 # ========== LOGÍSTICA ==========
@@ -59,8 +59,8 @@ rama_lobatos:
   - 37
 
 # ========== INSIGNIAS / CÓDIGO ==========
-activity_badges:   
-  - comunidad
+#activity_badges:   
+#  - comunidad
 activity_code: "COMUNIDAD-M01"
 
 # ========== ETIQUETAS GENERALES ==========
