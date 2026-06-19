@@ -280,7 +280,51 @@ Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida
 
   <main class="page-container">
 
-    
+    <script>
+
+async function shareActivity() {
+
+  const url = window.location.href;
+
+console.log("share:", navigator.share);
+console.log("clipboard:", navigator.clipboard);
+console.log("secure:", window.isSecureContext);
+
+
+
+  try {
+
+    if (navigator.share) {
+
+      await navigator.share({
+        title: document.title,
+        url
+      });
+
+      return;
+    }
+
+    if (navigator.clipboard) {
+
+      await navigator.clipboard.writeText(url);
+
+      alert("Enlace copiado al portapapeles");
+
+      return;
+    }
+
+    prompt("Copiá este enlace:", url);
+
+  } catch(err) {
+
+    console.error(err);
+
+  }
+}
+
+</script>
+
+
 <article class="activity-page">
 
   
@@ -327,8 +371,15 @@ Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida
       <a href="/fogata-recursos/activities/">Actividades</a> >
       <span>Cuidemos nuestro medio ambiente</span>
     </nav>
-  </div>
 
+<div class="activity-actions">
+
+ <button onclick="shareActivity()">
+    <span class="material-symbols-outlined">share</span> Compartir
+  </button>
+
+</div>
+</div>
   
 
 
@@ -1599,6 +1650,7 @@ Me informo y preparo para enfrentar situaciones de emergencia.
 
 
   </div>
+
 
 </article>
 

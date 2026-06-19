@@ -277,7 +277,51 @@ put this inside the body
 
   <main class="page-container">
 
-    
+    <script>
+
+async function shareActivity() {
+
+  const url = window.location.href;
+
+console.log("share:", navigator.share);
+console.log("clipboard:", navigator.clipboard);
+console.log("secure:", window.isSecureContext);
+
+
+
+  try {
+
+    if (navigator.share) {
+
+      await navigator.share({
+        title: document.title,
+        url
+      });
+
+      return;
+    }
+
+    if (navigator.clipboard) {
+
+      await navigator.clipboard.writeText(url);
+
+      alert("Enlace copiado al portapapeles");
+
+      return;
+    }
+
+    prompt("Copiá este enlace:", url);
+
+  } catch(err) {
+
+    console.error(err);
+
+  }
+}
+
+</script>
+
+
 <article class="activity-page">
 
   
@@ -322,8 +366,15 @@ put this inside the body
       <a href="/fogata-recursos/activities/">Actividades</a> >
       <span>Agua invisible</span>
     </nav>
-  </div>
 
+<div class="activity-actions">
+
+ <button onclick="shareActivity()">
+    <span class="material-symbols-outlined">share</span> Compartir
+  </button>
+
+</div>
+</div>
   
 
 
@@ -2281,6 +2332,7 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
 
 
   </div>
+
 
 </article>
 

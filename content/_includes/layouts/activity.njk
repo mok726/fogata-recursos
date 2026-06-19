@@ -1,6 +1,50 @@
 ---
 layout: layouts/base.njk
 ---
+<script>
+
+async function shareActivity() {
+
+  const url = window.location.href;
+
+console.log("share:", navigator.share);
+console.log("clipboard:", navigator.clipboard);
+console.log("secure:", window.isSecureContext);
+
+
+
+  try {
+
+    if (navigator.share) {
+
+      await navigator.share({
+        title: document.title,
+        url
+      });
+
+      return;
+    }
+
+    if (navigator.clipboard) {
+
+      await navigator.clipboard.writeText(url);
+
+      alert("Enlace copiado al portapapeles");
+
+      return;
+    }
+
+    prompt("Copiá este enlace:", url);
+
+  } catch(err) {
+
+    console.error(err);
+
+  }
+}
+
+</script>
+
 
 <article class="activity-page">
 
@@ -53,8 +97,15 @@ layout: layouts/base.njk
       <a href="{{ '/activities/' | url }}">Actividades</a> >
       <span>{{ title }}</span>
     </nav>
-  </div>
 
+<div class="activity-actions">
+
+ <button onclick="shareActivity()">
+    <span class="material-symbols-outlined">share</span> Compartir
+  </button>
+
+</div>
+</div>
   {# ===== LAYOUT DE TRES COLUMNAS ===== #}
 
 
@@ -898,6 +949,7 @@ Ruta: {{ comp.ruta }}
 
 
   </div>
+
 
 </article>
 
