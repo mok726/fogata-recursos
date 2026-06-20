@@ -1,0 +1,12 @@
+---
+pagination:
+  data: collections.activities
+  size: 1
+  alias: activity
+
+permalink: "{{ activity.url }}print/"
+
+layout: layouts/print-activities.njk
+
+eleventyExcludeFromCollections: true
+---

@@ -1,0 +1,56 @@
+---
+layout: layouts/base.njk
+---
+<div class="taxonomy-page">
+{% set activityCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+  {% if activity.data.scout_method %}
+
+    {% if metodoScout.name in activity.data.scout_method %}
+      {% set activityCount = activityCount + 1 %}
+    {% endif %}
+
+  {% endif %}
+
+{% endfor %}
+
+<section class="page-header">
+
+  <div>
+
+    <h1>
+      {{ metodoScout.name }}
+    </h1>
+
+    <p>
+      {{ activityCount }} actividades relacionadas.
+    </p>
+
+  </div>
+
+</section>
+
+<div class="grid">
+
+  {% for activity in collections.activitiesSorted %}
+
+    {% if activity.data.scout_method %}
+
+      {% if metodoScout.name in activity.data.scout_method %}
+
+        {% set item = activity.data %}
+        {% set activityUrl = activity.url %}
+
+        {% include "components/activity-card.njk" %}
+
+      {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+
+</div>

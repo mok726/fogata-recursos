@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+title: Valores Scouts
+---
+
+<h1>
+  Valores Scouts
+</h1>
+
+<div class="grid">
+
+  {% for scoutValue in scoutValues %}
+
+    {% set activityCount = 0 %}
+
+    {% for activity in collections.activitiesSorted %}
+
+      {% if activity.data.scout_values %}
+
+        {% if scoutValue.name in activity.data.scout_values %}
+          {% set activityCount = activityCount + 1 %}
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    <a href="{{ ('/valoresScout/' + scoutValue.id + '/') | url }}">
+
+      <div class="card">
+
+        <div class="card-content">
+
+          <h2>
+            {{ scoutValue.name }}
+          </h2>
+
+          <p>
+            {{ activityCount }} actividades
+          </p>
+
+        </div>
+
+      </div>
+
+    </a>
+
+  {% endfor %}
+
+</div>
+
+

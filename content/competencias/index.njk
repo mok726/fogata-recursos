@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+title: Competencias
+---
+
+<h1>
+  Competencias
+</h1>
+
+<div class="grid">
+
+  {% for skill in allskills %}
+
+    {% set activityCount = 0 %}
+
+    {% for activity in collections.activitiesSorted %}
+
+      {% if activity.data.skills %}
+
+        {% if skill.name in activity.data.skills %}
+          {% set activityCount = activityCount + 1 %}
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    <a href="{{ ('/competencias/' + skill.id + '/') | url }}">
+
+      <div class="card">
+
+        <div class="card-content">
+
+          <h2>
+            {{ skill.name }}
+          </h2>
+
+          <p>
+            {{ activityCount }} actividades
+          </p>
+
+        </div>
+
+      </div>
+
+    </a>
+
+  {% endfor %}
+
+</div>
+
+

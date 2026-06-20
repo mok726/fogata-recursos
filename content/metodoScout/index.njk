@@ -1,0 +1,52 @@
+---
+layout: layouts/base.njk
+title: Metodo Scout
+---
+
+<h1>
+  Metodo Scout
+</h1>
+
+<div class="grid">
+
+  {% for metodoScout in scoutMethod %}
+
+    {% set activityCount = 0 %}
+
+    {% for activity in collections.activitiesSorted %}
+
+      {% if activity.data.scout_method %}
+
+        {% if metodoScout.name in activity.data.scout_method %}
+          {% set activityCount = activityCount + 1 %}
+        {% endif %}
+
+      {% endif %}
+
+    {% endfor %}
+
+    <a href="{{ ('/metodoScout/' + metodoScout.id + '/') | url }}">
+
+      <div class="card">
+
+        <div class="card-content">
+
+          <h2>
+            {{ metodoScout.name }}
+          </h2>
+
+          <p>
+            {{ activityCount }} actividades
+          </p>
+
+        </div>
+
+      </div>
+
+    </a>
+
+  {% endfor %}
+
+</div>
+
+

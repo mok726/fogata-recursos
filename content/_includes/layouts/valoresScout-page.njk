@@ -1,0 +1,56 @@
+---
+layout: layouts/base.njk
+---
+<div class="taxonomy-page">
+{% set activityCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+  {% if activity.data.scout_values %}
+
+    {% if scoutValue.name in activity.data.scout_values %}
+      {% set activityCount = activityCount + 1 %}
+    {% endif %}
+
+  {% endif %}
+
+{% endfor %}
+
+<section class="page-header">
+
+  <div>
+
+    <h1>
+      {{ scoutValue.name }}
+    </h1>
+
+    <p>
+      {{ activityCount }} actividades relacionadas.
+    </p>
+
+  </div>
+
+</section>
+
+<div class="grid">
+
+  {% for activity in collections.activitiesSorted %}
+
+    {% if activity.data.scout_values %}
+
+      {% if scoutValue.name in activity.data.scout_values %}
+
+        {% set item = activity.data %}
+        {% set activityUrl = activity.url %}
+
+        {% include "components/activity-card.njk" %}
+
+      {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+</div>
+
+</div>
