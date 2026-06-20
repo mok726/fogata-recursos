@@ -1,17 +1,21 @@
----
+﻿---
 title: "Concurso Solar"
 duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-solar/"
 description: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
 summary: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/concurso-solar.png"
 branch:
   - Naturaleza
@@ -86,47 +90,36 @@ ludic_component: 5
 reflective_component: 3
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+# ===== INFORMACIÓN DE FOOTER =====
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Concurso Solar
 
 ## Resumen
 Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.
 
+## Preparacion
+	Imprimi las preguntas del archivo adjunto o crea las tuyas
+
 ## Desarrollo
-1. Instrucciones:
 - Divide a los participantes en dos o más equipos.
 - Realiza preguntas sobre la energía solar y otorga puntos por respuestas correctas.
 - El equipo con más puntos al final gana.
-2. Discusión:
-- ¿Qué aprendieron sobre la energía solar durante el concurso?
 
 ## Cierre
+Discusión:
+- ¿Qué aprendieron sobre la energía solar durante el concurso?
 - Reflexiona sobre la importancia de aprender sobre la energía solar.
 - Pregunta: ¿Qué otras formas de energía renovable conocen?

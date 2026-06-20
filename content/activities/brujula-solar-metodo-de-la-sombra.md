@@ -1,17 +1,21 @@
----
+﻿---
 title: "Brújula Solar (Método de la Sombra)"
 duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-metodo-de-la-sombra/"
 description: "Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol."
 summary: "Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/brujula-solar-metodo-de-la-sombra.png"
 branch:
   - Naturaleza
@@ -88,34 +92,21 @@ ludic_component: 3
 reflective_component: 3
 active_component: 2
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+# ===== INFORMACIÓN DE FOOTER =====
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Brújula Solar (Método de la Sombra)
 
 ## Resumen
@@ -126,9 +117,10 @@ Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol.
 - Coloca un palo en el suelo y marca la punta de su sombra.
 - Espera 10-15 minutos y marca la nueva posición de la sombra.
 - Dibuja una línea entre las dos marcas para obtener una línea Este-Oeste.
-2. Discusión:
-- ¿Cómo podemos usar este método en actividades al aire libre?
+- Dibuja una línea perpendicular a la anterior para obtener una línea Norte-Sur.
 
 ## Cierre
 - Reflexiona sobre cómo el Sol puede ayudarnos a orientarnos.
 - Pregunta: ¿Qué otras formas de orientación conocen?
+Discusión:
+- ¿Cómo podemos usar este método en actividades al aire libre?

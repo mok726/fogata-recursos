@@ -1,17 +1,21 @@
----
+﻿---
 title: "Los Colores de la Energía Solar"
 duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/los-colores-de-la-energia-solar/"
 description: "Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol."
 summary: "Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/los-colores-de-la-energia-solar.png"
 branch:
   - Naturaleza
@@ -97,48 +101,38 @@ ludic_component: 3
 reflective_component: 4
 active_component: 1
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+# ===== INFORMACIÓN DE FOOTER =====
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Los Colores de la Energía Solar
 
 ## Resumen
 Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol.
 
+## Preparacion
+- Recolecta varias botellas de plástico de tamaño y forma similar
+- Pintalas con diferentes colores (claros y oscuros).
+- Imprime las fichas de control adjuntas para poder registrar los datos
+
 ## Desarrollo
-1. Preparación: Pinta varias botellas de plástico con diferentes colores (claros y oscuros).
-2. Instrucciones:
 - Llena las botellas con agua y mide la temperatura inicial con un termómetro.
 - Coloca las botellas al Sol durante 30 minutos.
 - Mide la temperatura nuevamente y compara los resultados.
-3. Discusión:
-- ¿Qué colores absorben más calor? ¿Por qué creen que sucede esto?
 
 ## Cierre
+- ¿Qué colores absorben más calor? 
+- ¿Por qué creen que sucede esto?
 - Reflexiona sobre cómo los colores pueden afectar la absorción de energía solar.
 - Pregunta: ¿Cómo podríamos usar este conocimiento en nuestra vida diaria para ahorrar energía?

@@ -189,7 +189,7 @@ module.exports = function () {
       description:
         "Energía solar y sostenibilidad.",
       summary:
-        "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética. Parte del programa SCOUT",
+        "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética.  \n ¿Qué es el Desafío Scouts Go Solar?\nEl Desafío Scouts Go Solar es una iniciativa global desarrollada por *SOLAFRICA* y adoptada por la Organización Mundial del Movimiento Scout\ncomo componente integral de Tribu Tierra.\n Este Desafío, enmarcado en el eje de Energías Limpias, nos ayudará a entender los diversos usos y aplicaciones de las energías renovables para poder desarrollar proyectos de impacto socio ambiental vinculados con ellas. ",
       logo: "/imagenes/insignias/gosolar.png",
       sources: [],
   license: {
@@ -197,10 +197,25 @@ module.exports = function () {
     url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
   },
   attribution: {
-    organization: "FAO",
-    year: "2021"
+    organization: "Scouts de Argentina www.scouts.org.ar",
+    year: "2020"
   },
-      documents: []
+      documents: [
+        {
+          title: "Scouts-Go-Solar-Tribu-Tierra",
+          title_es: "Desaf¡io Scouts Go-Solar Tribu Tierra",
+          url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28888/scouts-go-solar-tribu-tierra.pdf",
+          type: "pdf",
+          image: "/imagenes/varios/Scouts-Go-Solar-Tribu-Tierra.jpg"
+        },
+        {
+          title: "Manual-de-Energia-Solar-Desafio-Scouts-Go-Solar",
+          title_es: "Manual de Energia Solar - Desafio Scouts Go-Solar",
+          url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28888/Manual-de-Energia-Solar-Desafio-Scouts-Go-Solar.pdf",
+          type: "pdf",
+          image: "/imagenes/varios/Manual-de-Energia-Solar-Desafio-Scouts-Go-Solar.png"
+        }
+      ]
     },
 
     {

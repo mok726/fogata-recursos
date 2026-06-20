@@ -1,17 +1,21 @@
----
+﻿---
 title: "Una Comida Solar"
 duration: "1 - 2 h"
 layout: "layouts/activity.njk"
 permalink: "/activities/una-comida-solar/"
 description: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
 summary: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/una-comida-solar.png"
 branch:
   - Naturaleza
@@ -84,45 +88,31 @@ ludic_component: 3
 reflective_component: 3
 active_component: 2
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+# ===== INFORMACIÓN DE FOOTER =====
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Una Comida Solar
 
 ## Resumen
 Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos.
 
 ## Desarrollo
-1. Instrucciones:
 - Utiliza un horno o cocina solar para cocinar alimentos simples, como hervir agua o cocinar arroz.
-2. Discusión:
-- ¿Cómo funciona el horno solar? ¿Qué ventajas tiene cocinar con energía solar?
+
 
 ## Cierre
+- ¿Cómo funciona el horno solar? ¿Qué ventajas tiene cocinar con energía solar?
 - Reflexiona sobre cómo podemos utilizar la energía solar para cocinar de manera sostenible.
 - Pregunta: ¿Qué otros usos podríamos darle a un horno solar?

@@ -1,17 +1,21 @@
 ---
 title: "Agua Pura (Método SODIS)"
-duration: "15 min"
+duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-pura-metodo-sodis/"
 description: "Aprende a purificar agua utilizando la energía del Sol y el método SODIS."
 summary: "Aprende a purificar agua utilizando la energía del Sol y el método SODIS."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/agua-pura-metodo-sodis.png"
 branch:
   - Naturaleza
@@ -77,9 +81,6 @@ skills:
 main_type: "Aprender haciendo"
 space_required: "Exterior abierto"
 special_materials:
-  - botellas PET transparentes
-  - superficie reflectante
-  - agua de fuente natural
 prep_time: "10 min + 6 horas exposición"
 scout_values:
   - Autocuidado integral
@@ -97,46 +98,44 @@ files:
     icon: "read_more"
 
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Agua Pura (Método SODIS)
 
 ## Resumen
 Aprende a purificar agua utilizando la energía del Sol y el método SODIS.
 
-## Desarrollo
-1. Instrucciones:
-- Llena una botella de PET transparente con agua de una fuente natural.
-- Agita la botella durante 20 segundos y colócala al Sol sobre una superficie reflectante durante 6 horas.
-2. Discusión:
-- ¿Cómo funciona el método SODIS? ¿Qué ventajas tiene este método de purificación?
+## Preparacion
+	Preparar un lugar al aire libre donde se pueda dejar las botellas al sol sin peligro para los participantes u otros presentes.
+	Recolectar botellas PET transparente para la actividad
 
+## Desarrollo
+1. Lavar la botella 
+2. Llena la botella agua de una fuente natural hasta 3/4 de la capacidad.
+3. Agita la botella durante 20 segundos 
+4. Colócala al Sol sobre una superficie reflectante durante 6 horas.
+5. Al terminar el tiempo los virus y bateririas estaran neutralizados
+
+![explicacion grafica](/fogata-recursos/imagenes/varios/metodo-sodis.jpg)
+
+2. 
 ## Cierre
+Discusión:
+- ¿Cómo funciona el método SODIS? 
+- ¿Qué ventajas tiene este método de purificación?
 - Reflexiona sobre cómo podemos purificar agua de manera sostenible.
-- Pregunta: ¿Qué otros métodos de purificación de agua conocen?
+- ¿Qué otros métodos de purificación de agua conocen?
+
+

@@ -1,17 +1,21 @@
----
+﻿---
 title: "Reloj de Sol"
 duration: "45 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/reloj-de-sol/"
 description: "Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo."
 summary: "Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/reloj-de-sol.png"
 branch:
   - Naturaleza
@@ -107,47 +111,33 @@ files:
     icon: "read_more"
 
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+# ===== INFORMACIÓN DE FOOTER =====
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Reloj de Sol
 
 ## Resumen
 Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo.
 
+## Preparacion
+- Imprime la plantilla del reloj de Sol o sigue las instrucciones para construirlo desde cero.
 ## Desarrollo
-1. Preparación: Imprime la plantilla del reloj de Sol o sigue las instrucciones para construirlo desde cero.
-2. Instrucciones:
 - Coloca el reloj de Sol en un lugar donde reciba luz solar durante todo el día.
 - Marca la sombra cada hora para crear las líneas que indicarán la hora.
-3. Discusión:
-- ¿Cómo cambia la sombra a lo largo del día? ¿Por qué creen que sucede esto?
 
 ## Cierre
+- ¿Cómo cambia la sombra a lo largo del día? ¿Por qué creen que sucede esto?
 - Reflexiona sobre cómo el Sol ha sido utilizado históricamente para medir el tiempo.
 - Pregunta: ¿Qué otras formas de medir el tiempo conocen?

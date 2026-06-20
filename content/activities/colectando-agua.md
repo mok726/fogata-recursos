@@ -1,17 +1,21 @@
----
+﻿---
 title: "Colectando Agua"
 duration: "30 min"
 layout: "layouts/activity.njk"
 permalink: "/activities/colectando-agua/"
 description: "Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar."
 summary: "Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar."
-version: "DRAFT"
-Origin: "YUNGA"
+version: "1.0"
+Origin: "SOLARAFRICA.CH"
 # original: "False" # 
 author:
+  - scoutsgosolar@solafrica.ch
+  - gosolar@scouts.org.ar
+  - tributierra@scouts.org.ar
   - Mariano S. Cosentino
 source:
-  - YUNGA
+  - SOLARAFRICA.CH
+  - Tribu Tierra - Scouts de Argentina
 image: "/imagenes/actividades/colectando-agua.png"
 branch:
   - Naturaleza
@@ -102,34 +106,21 @@ files:
     icon: "read_more"
 
 # ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+# ===== INFORMACIÓN DE FOOTER =====
+references:
+  - title: "Manual de Energia Solar - Desafio Scouts Go-Solar"
+    author: "Tribu Tierra"
+    year: 2021
+    series: "Mundo Mejor"
+    issue: 1
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"
+  - title: "Mundo Mejor"
+    author: "Tribu Tierra"
+    location: "Buenos Aires, Argentina"
+    url: "https://scouts.org.ar/soy-joven"
 
 ---
-
 # Colectando Agua
 
 ## Resumen
@@ -139,12 +130,14 @@ Aprende a recolectar agua utilizando la energía del Sol y la condensación. Est
 1. Instrucciones:
 - Haz un hoyo de 30 cm de profundidad y 60 cm de diámetro en la tierra.
 - Recolecta vegetación verde y llena el agujero con ella.
-- Coloca un frasco en el centro del hoyo y cúbrelo con una lámina de plástico transparente.
+- Coloca un frasco en el centro del hoyo 
+- Cúbre el hoyo con una lámina de plástico transparente.
 - Coloca una piedra pequeña en el centro de la lámina para provocar un hundimiento.
 - Deja que el Sol llegue directamente sobre el hoyo y observa qué sucede al pasar el tiempo (15 min).
-2. Discusión:
-- ¿Cómo se forma el agua en el frasco? ¿Qué papel juega el Sol en este proceso?
 
 ## Cierre
+Discusión:
+- ¿Cómo se forma el agua en el frasco? 
+- ¿Qué papel juega el Sol en este proceso?
 - Reflexiona sobre cómo podemos obtener agua de manera sostenible.
 - Pregunta: ¿Qué otras formas de recolectar agua conocen?
