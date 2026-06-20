@@ -93,22 +93,30 @@
     {% if activity.data.activity_badges %}
     <div class="sidebar-section">
       <h3>Insignias</h3>
-      <ul>
       {% for item in activity.data.activity_badges %}
-        <li>{{ item }}</li>
+<div class="icon-grid">
+{% for item in activity.data.activity_badges %}
+  <img
+    src="{{ ('/imagenes/insignias/' + item + '.png') | url }}"
+    class="badge-icon"
+    alt="{{ item }}">
+{% endfor %}
+</div>
       {% endfor %}
-      </ul>
     </div>
     {% endif %}
 
     {% if activity.data.sdgs %}
     <div class="sidebar-section">
       <h3>ODS</h3>
-      <ul>
-      {% for item in activity.data.sdgs %}
-        <li>ODS {{ item }}</li>
-      {% endfor %}
-      </ul>
+       <div class="icon-grid">
+        {% for item in activity.data.sdgs %}
+          <img
+            src="{{ ('/imagenes/ods/ods-' + item + '.png') | url }}"
+            class="ods-icon"
+            alt="ODS {{ item }}">
+        {% endfor %}
+      </div>    
     </div>
     {% endif %}
 

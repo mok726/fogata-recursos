@@ -33,6 +33,14 @@ body {
     height: 40px;
 }
 
+.icon-grid img {
+    width: 80px;
+    height: 80px;
+}
+
+
+
+
 .header-center {
     font-size: 18pt;
     font-weight: bold;
@@ -279,4 +287,30 @@ img {
 }
 ```
 
+}
+
+
+
+
+.meta-item{
+    margin-bottom:4mm;
+}
+
+.meta-label{
+    font-size:8pt;
+    font-weight:bold;
+    color:#666;
+    text-transform:uppercase;
+}
+
+.meta-value{
+    font-size:10pt;
+}
+
+
+.print-content img{
+    max-width:100%;
+    border:1px solid #bbb;
+    padding:2mm;
+    background:white;
 }
