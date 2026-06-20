@@ -130,7 +130,7 @@ Aprende a purificar agua utilizando la energía del Sol y el método SODIS.
 
 ![explicacion grafica](/fogata-recursos/imagenes/varios/metodo-sodis.jpg)
 
-2. 
+ 
 ## Cierre
 Discusión:
 - ¿Cómo funciona el método SODIS? 

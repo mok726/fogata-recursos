@@ -99,6 +99,13 @@ console.log("secure:", window.isSecureContext);
     </nav>
 
 <div class="activity-actions">
+<a
+  href="{{ page.url | url }}print/"
+  target="_blank">
+  Imprimir PDF
+</a>
+
+
 <button onclick="window.print()">
   <span class="material-symbols-outlined">print</span>
   Imprimir
