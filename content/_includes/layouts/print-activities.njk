@@ -16,7 +16,9 @@
 
 
 
-
+<!--
+<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+-->
 
   <link rel="stylesheet" href="{{ '/css/components/print.css' | url }}">
 </head>
@@ -73,7 +75,10 @@
   <div class="sidebar-box">
 
     <div class="sidebar-section">
-      <h3> RESUMEN </h3>
+
+  <h3>Ficha Tecnica</h3>
+
+
       {% if activity.data.duration %}
       <div class="meta-item">
         <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">schedule</span>  {{ activity.data.duration  or "N/E" }}
@@ -98,6 +103,57 @@
           <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">share_location</span>  {{ activity.data.location }}
       </div>
      {% endif %}
+
+
+  {% if activity.data.complexity_execution %}
+  <div class="meta-item">
+    <div class="meta-label">Ejecuci  n:</div>
+    <div class="meta-value">
+      {{ "★".repeat(activity.data.complexity_execution) }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.complexity_organizer %}
+  <div class="meta-item">
+    <div class="meta-label">Organizaci  n:</div>
+    <div class="meta-value">
+      {{ "★".repeat(activity.data.complexity_organizer) }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.ludic_component %}
+  <div class="meta-item">
+    <div class="meta-label">Ludico:</div>
+    <div class="meta-value">
+      {{ "★".repeat(activity.data.ludic_component) }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.reflective_component %}
+  <div class="meta-item">
+    <div class="meta-label">Reflexivo:</div>
+    <div class="meta-value">
+      {{ "★".repeat(activity.data.reflective_component) }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.active_component %}
+  <div class="meta-item">
+    <div class="meta-label">Activo:</div>
+    <div class="meta-value">
+      {{ "★".repeat(activity.data.active_component) }}
+    </div>
+  </div>
+  {% endif %}
+
+
+
+
+
 
     </div>
 
@@ -159,6 +215,137 @@
       </div>    
     </div>
     {% endif %}
+
+
+
+{% if
+    activity.data.branch or
+    activity.data.scout_method or
+    activity.data.scout_values or
+    activity.data.prep_time or
+    activity.data.space_required or
+    activity.data.source
+%}
+
+<div class="sidebar-section">
+
+  {% if activity.data.scout_method %}
+    <div class="sidebar-section">
+      <h3>M  todo Scout</h3>
+      <ul>
+      {% for item in activity.data.scout_method %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+
+
+
+
+  {% if activity.data.scout_values %}
+    <div class="sidebar-section">
+      <h3>Valores Scout</h3>
+      <ul>
+      {% for item in activity.data.scout_values %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+
+
+
+  {% if activity.data.prep_time %}
+  <div class="meta-item">
+    <div class="meta-label">Preparación:</div>
+    <div class="meta-value">
+      {{ activity.data.prep_time }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.space_required %}
+  <div class="meta-item">
+    <div class="meta-label">Espacio:</div>
+    <div class="meta-value">
+      {{ activity.data.space_required }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.source %}
+    <div class="sidebar-section">
+      <h3>Fuente</h3>
+      <ul>
+      {% for item in activity.data.source %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+
+  <h3>Informaci  n</h3>
+
+  {% if activity.data.branch %}
+  <div class="meta-item">
+    <div class="meta-label"> ^area:</div>
+    <div class="meta-value">
+      {{ activity.data.branch | join(", ") }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.scout_method %}
+    <div class="sidebar-section">
+      <h3>M  todo Scout</h3>
+      <ul>
+      {% for item in activity.data.scout_method %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+  {% endif %}
+
+
+
+  {% if activity.data.activity_code %}
+  <div class="meta-item">
+    <div class="meta-label">Código:</div>
+    <div class="meta-value">
+      {{ activity.data.activity_code }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.version %}
+  <div class="meta-item">
+    <div class="meta-label">Versión:</div>
+    <div class="meta-value">
+      {{ activity.data.version }}
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="meta-item">
+    <div class="meta-label">Impreso:</div>
+    <div class="meta-value">
+      {{ buildDate }}
+    </div>
+  </div>
+
+</div>
+
+
+
+  {% endif %}
+
+
+
+
 
 
 {% if activity.fileSlug %}
@@ -253,9 +440,20 @@
     <div class="resource-card">
 
       <div class="resource-title">
-        📄 {{ file.caption }}
-      </div>
 
+        {% if file.icon == "pdf" %}
+        📄
+        {% elseif file.icon == "doc" %}
+        📝
+        {% elseif file.icon == "xls" %}
+        📊
+        {% else %}
+        📎
+        {% endif %}
+
+        {{ file.caption }}
+
+      </div>
       {% if file.filepath %}
       <div class="resource-url">
         {{ file.filepath }}
@@ -308,6 +506,90 @@
 
 {% endif %}
 
+
+
+{% if activity.data.license %}
+
+<section class="print-section">
+
+  <h2>Licencia</h2>
+  <table> <tr><td>
+  {% if activity.data.license.image %}
+
+    <img
+      src="{{ activity.data.license.image }}"
+      alt="{{ activity.data.license.name }}"
+      class="license-image">
+
+  {% endif %}
+  </td><td>
+
+    <strong>{{ activity.data.license.name }}</strong>
+
+    {% if activity.data.license.url %}
+      <br>
+      {{ activity.data.license.url }}
+    {% endif %}
+   </td></tr> </table>
+
+
+</section>
+
+{% endif %}
+
+{% if activity.data.attributions %}
+
+<section class="print-section">
+
+  <h2>Atribuciones</h2>
+
+  <ul>
+
+  {% for item in activity.data.attributions %}
+
+    <li>
+
+      <strong>{{ item.entity }}</strong>
+
+      {% if item.role %}
+        — {{ item.role }}
+      {% endif %}
+
+      {% if item.year %}
+        ({{ item.year }})
+      {% endif %}
+
+    </li>
+
+  {% endfor %}
+
+  </ul>
+
+</section>
+
+{% endif %}
+
+
+{% if activity.data.translation_notice %}
+
+<section class="print-section">
+
+  <h2>Aviso de traducción</h2>
+
+  {% if activity.data.translation_notice.es %}
+    <p>{{ activity.data.translation_notice.es }}</p>
+  {% endif %}
+
+</section>
+
+{% endif %}
+
+
+
+
+
+
+
 </section>
 
 
@@ -325,12 +607,15 @@
 
 
 <footer class="print-footer">
-  <div>
-    {{ site.url }}{{ activity.url | url }}
-  </div>
 
   <div>
-    Página    01/01 </div>
+    {{ activity.fullUrl or (site.url + activity.url) }}
+  </div>
+
+  <div class="page-counter">
+    Página    /   
+  </div>
+
 </footer>
 
       </td>

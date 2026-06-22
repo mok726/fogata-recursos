@@ -7,6 +7,7 @@ permalink: "/activities/patitas-limpias/"
 description: "Sistema permanente de competencia por inspección para fomentar la limpieza y el orden en la Manada, donde las seisenas rotan roles de limpiadores y jueces acumulando 'Patitas Limpias'."
 summary: "Una seisena limpia, las otras juzgan. La que más Patitas Limpias acumula elige premio."
 version: "1.0"
+image: "/imagenes/actividades/patitas-limpias.png"
 # ========== AUTORÍA Y FUENTES ==========
 author:
   - "Mariano S. Cosentino (Kotick)"
@@ -14,14 +15,14 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/patitas-limpias.png"
+# image: "/imagenes/actividades/patitas-limpias.png"
 original: "true"
 
 # ========== CLASIFICACIÓN ==========
 branch:
   - Comunidad
 age: "7-10"
-age_group: 
+age_group:  
   - manada
 
 # ========== LOGÍSTICA ==========
@@ -59,8 +60,8 @@ rama_lobatos:
   - 37
 
 # ========== INSIGNIAS / CÓDIGO ==========
-#activity_badges:   
-#  - comunidad
+activity_badges:   
+  - comunidad
 activity_code: "COMUNIDAD-M01"
 
 # ========== ETIQUETAS GENERALES ==========
@@ -176,6 +177,21 @@ El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena xxxxx e
 3. Se entrega el premio en el momento (ej. 15 minutos de juego especial al inicio de la siguiente reunión).
 4. Se reinicia el tablero para el próximo ciclo (opcional: conservar un "récord histórico").
 
+## Cierre
+Algunas preguntas disparadoras para debatir entre los L&L, a usar según pasa el tiempo:
+- ¿Qué fue lo más fácil de limpiar hoy? ¿Y lo más difícil?
+- ¿Dónde aparece siempre la misma mugre? ¿Por qué será?"
+- ¿Alguien encontró algo perdido por mucho tiempo
+- ¿Si mañana fueran jueces, ¿en qué zona mirarían primero? ¿Por qué?
+- ¿Qué pasaría si nadie limpiara después de un encuentro?
+- ¿Cómo se siente entrar a un espacio que está limpio y ordenado?
+- ¿Qué aprendió hoy su seisena sobre limpiar en equipo?
+- ¿Cambió la forma en que cuidan el lugar? ¿En qué se nota?
+- ¿Qué herramienta o cosa nos faltó hoy para limpiar mejor?
+- Si pudiéramos cambiar UNA regla para que sea más justa o divertida, ¿qué cambiarían?
+
+
+
 ## Roles
 
 | Rol | Quién lo hace | Responsabilidades |
@@ -185,19 +201,3 @@ El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena xxxxx e
 | **Educador Scout** | Guía de Manada o subguía | Cronometrar, entregar listas, anunciar puntajes, mediar solo si hay empate |
 | **Actualizador del tablero** | Un lobato voluntario (rotativo) | Agregar las patitas al tablero acumulador |
 
-
-## Cierre
-Algunas preguntas disparadoras para debatir entre los L&L, a usar según pasa el tiempo:
-"¿Qué fue lo más fácil de limpiar hoy? ¿Y lo más difícil?"
-"¿Dónde aparece siempre la misma mugre? ¿Por qué será?"
-"¿Alguien encontró algo perdido por mucho tiempo"
-"Si mañana fueran jueces, ¿en qué zona mirarían primero? ¿Por qué?"
-"¿Qué pasaría si nadie limpiara después de un encuentro?"
-"¿Cómo se siente entrar a un espacio que está limpio y ordenado?"
-"¿Qué aprendió hoy su seisena sobre limpiar en equipo?"
-"¿Cambió la forma en que cuidan el lugar? ¿En qué se nota?"
-"¿Qué herramienta o cosa nos faltó hoy para limpiar mejor?"
-"Si pudiéramos cambiar UNA regla para que sea más justa o divertida, ¿qué cambiarían?"
-
-
-## Lista de control (texto para imprimir)
