@@ -6,10 +6,31 @@
 
   <title>{{ activity.data.title }}</title>
 
+
+
+<!-- Google Fonts (text) – keep if you use it -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
+
+<!-- Google Material Symbols (icons) – add this -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+
+
+
+
+
   <link rel="stylesheet" href="{{ '/css/components/print.css' | url }}">
 </head>
 
 <body>
+
+<table class="print-document">
+
+  <thead>
+
+    <tr>
+      <td>
+
+
 
 <header class="print-header">
 
@@ -19,7 +40,7 @@
     alt="Fogata">
 
   <div class="header-center">
-    Fogata de Recursos
+    {{ site.name }}
   </div>
 
   <img
@@ -33,6 +54,17 @@
 
 <div class="header-line"></div>
 
+      </td>
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+      <td>
+
+
 <main class="print-page">
 
 
@@ -41,30 +73,31 @@
   <div class="sidebar-box">
 
     <div class="sidebar-section">
-
+      <h3> RESUMEN </h3>
       {% if activity.data.duration %}
       <div class="meta-item">
-        ⏱ {{ activity.data.duration }}
+        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">schedule</span>  {{ activity.data.duration  or "N/E" }}
       </div>
       {% endif %}
 
       {% if activity.data.age_group %}
       <div class="meta-item">
-        👥 {{ activity.data.age_group | ageRange }}
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">productivity</span>  {{ activity.data.age_group | ageRange }}
       </div>
       {% endif %}
 
       {% if activity.data.participants %}
-      <div class="meta-item">
-        👤 {{ activity.data.participants }}
+       <div class="meta-item">
+        <span><span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">groups</span>  {{ activity.data.participants or "N/E" }}</span>
       </div>
-      {% endif %}
+    {% endif %}
+
 
       {% if activity.data.location %}
-      <div class="meta-item">
-        📍 {{ activity.data.location }}
+       <div class="meta-item">
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">share_location</span>  {{ activity.data.location }}
       </div>
-      {% endif %}
+     {% endif %}
 
     </div>
 
@@ -93,16 +126,23 @@
     {% if activity.data.activity_badges %}
     <div class="sidebar-section">
       <h3>Insignias</h3>
-      {% for item in activity.data.activity_badges %}
-<div class="icon-grid">
-{% for item in activity.data.activity_badges %}
-  <img
-    src="{{ ('/imagenes/insignias/' + item + '.png') | url }}"
-    class="badge-icon"
-    alt="{{ item }}">
-{% endfor %}
-</div>
-      {% endfor %}
+
+      <div class="icon-grid">
+
+        {% for rawBadge in activity.data.activity_badges %}
+        {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+        {% set badgeInfo = badgeId | badgeById(badges) %}
+          <img 
+             src="{{
+             (
+                badgeInfo.logo
+                if badgeInfo and badgeInfo.logo
+                else '/imagenes/insignias/' + badgeId + '.png'
+              ) | url 
+            }}" 
+                alt="{{ badgeInfo.name }}"   title="{{ badgeInfo.name }}" class="badge-icon">
+        {% endfor %}
+      </div>
     </div>
     {% endif %}
 
@@ -119,6 +159,24 @@
       </div>    
     </div>
     {% endif %}
+
+
+{% if activity.fileSlug %}
+<div class="sidebar-section">
+
+  <h3>Ver online</h3>
+
+  <img
+    src="{{ '/imagenes/qr/' | url }}{{ activity.fileSlug }}.png"
+    class="activity-qr"
+    alt="QR de la actividad">
+
+  <div class="qr-url">
+    {{ site.url }}{{ activity.url | url }}
+  </div>
+
+</div>
+{% endif %}
 
   </div>
 
@@ -182,44 +240,106 @@
     </section>
     {% endif %}
 
-    {% if activity.data.files %}
-    <section class="print-section">
 
-      <h2>Recursos descargables</h2>
+{% if activity.data.files %}
+<section class="print-section">
 
-      <ul>
+  <h2>Recursos descargables</h2>
 
-      {% for file in activity.data.files %}
-        <li>
+  <div class="resource-list">
 
-          {{ file.caption }}
+  {% for file in activity.data.files %}
 
-          {% if file.filepath %}
-          <br>
-          {{ file.filepath }}
-          {% endif %}
+    <div class="resource-card">
 
-        </li>
-      {% endfor %}
+      <div class="resource-title">
+        📄 {{ file.caption }}
+      </div>
 
-      </ul>
+      {% if file.filepath %}
+      <div class="resource-url">
+        {{ file.filepath }}
+      </div>
+      {% endif %}
 
-    </section>
-    {% endif %}
+    </div>
 
-  </section>
+  {% endfor %}
+
+  </div>
+
+</section>
+{% endif %}
+
+
+
+
+{% if activity.data.author or activity.data.source %}
+
+<section class="print-section credits-section">
+
+  <h2>Créditos</h2>
+
+  {% if activity.data.author %}
+
+    <h3>Autoría</h3>
+
+    <ul>
+    {% for item in activity.data.author %}
+      <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+
+  {% endif %}
+
+  {% if activity.data.source %}
+
+    <h3>Fuentes</h3>
+
+    <ul>
+    {% for item in activity.data.source %}
+      <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+
+  {% endif %}
+
+</section>
+
+{% endif %}
+
+</section>
+
 
 </main>
+
+      </td>
+    </tr>
+
+  </tbody>
+
+  <tfoot>
+
+    <tr>
+      <td>
 
 
 <footer class="print-footer">
   <div>
-    {{ activity.url | url }}
+    {{ site.url }}{{ activity.url | url }}
   </div>
 
   <div>
     Página    01/01 </div>
 </footer>
+
+      </td>
+    </tr>
+
+  </tfoot>
+
+</table>
+
 
 </html>
 
