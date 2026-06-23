@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>{{ activity.data.title }}</title>
+
+  <link rel="stylesheet" href="{{ '/css/components/print.css' | url }}">
+</head>
+
+<body>
+
+<header class="print-header">
+
+  <img
+    src="{{ '/imagenes/favicon.png' | url }}"
+    class="header-logo"
+    alt="Fogata">
+
+  <div class="header-center">
+    Fogata de Recursos
+  </div>
+
+  <img
+    src="{{ '/imagenes/favicon.png' | url }}"
+    class="header-logo"
+    alt="Fogata">
+
+</header>
+
+
+
+<div class="header-line"></div>
+
+<main class="print-page">
+
+
+<aside class="print-sidebar">
+
+  <div class="sidebar-box">
+
+    <div class="sidebar-section">
+
+      {% if activity.data.duration %}
+      <div class="meta-item">
+        ⏱ {{ activity.data.duration }}
+      </div>
+      {% endif %}
+
+      {% if activity.data.age_group %}
+      <div class="meta-item">
+        👥 {{ activity.data.age_group | ageRange }}
+      </div>
+      {% endif %}
+
+      {% if activity.data.participants %}
+      <div class="meta-item">
+        👤 {{ activity.data.participants }}
+      </div>
+      {% endif %}
+
+      {% if activity.data.location %}
+      <div class="meta-item">
+        📍 {{ activity.data.location }}
+      </div>
+      {% endif %}
+
+    </div>
+
+    {% if activity.data.materials %}
+    <div class="sidebar-section">
+      <h3>Materiales</h3>
+      <ul>
+      {% for item in activity.data.materials %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if activity.data.skills %}
+    <div class="sidebar-section">
+      <h3>Competencias</h3>
+      <ul>
+      {% for item in activity.data.skills %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    {% if activity.data.activity_badges %}
+    <div class="sidebar-section">
+      <h3>Insignias</h3>
+
+      <div class="icon-grid">
+
+        {% for rawBadge in activity.data.activity_badges %}
+        {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+        {% set badgeInfo = badgeId | badgeById(badges) %}
+          <img 
+             src="{{
+             (
+                badgeInfo.logo
+                if badgeInfo and badgeInfo.logo
+                else '/imagenes/insignias/' + badgeId + '.png'
+              ) | url 
+            }}" 
+                alt="{{ badgeInfo.name }}"   title="{{ badgeInfo.name }}" class="badge-icon">
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+
+    {% if activity.data.sdgs %}
+    <div class="sidebar-section">
+      <h3>ODS</h3>
+       <div class="icon-grid">
+        {% for item in activity.data.sdgs %}
+          <img
+            src="{{ ('/imagenes/ods/ods-' + item + '.png') | url }}"
+            class="ods-icon"
+            alt="ODS {{ item }}">
+        {% endfor %}
+      </div>    
+    </div>
+    {% endif %}
+
+  </div>
+
+</aside>
+
+
+  <section class="print-content">
+
+    <h1>{{ activity.data.title }}</h1>
+
+    {% if activity.data.summary %}
+    <div class="activity-summary">
+      {{ activity.data.summary }}
+    </div>
+    {% endif %}
+
+    {% set sections = activity.templateContent | splitBySections %}
+
+    {% for section in sections %}
+
+      {% if section.heading != "Resumen" %}
+
+      <section class="print-section">
+
+        <h2>{{ section.heading }}</h2>
+
+        {{ section.content | safe }}
+
+      </section>
+
+      {% endif %}
+
+    {% endfor %}
+
+    {% if activity.data.references %}
+    <section class="print-section">
+
+      <h2>Referencias</h2>
+
+      <ul>
+
+      {% for ref in activity.data.references %}
+        <li>
+
+          <strong>{{ ref.title }}</strong>
+
+          {% if ref.author %}
+          — {{ ref.author }}
+          {% endif %}
+
+          {% if ref.url %}
+          <br>
+          {{ ref.url }}
+          {% endif %}
+
+        </li>
+      {% endfor %}
+
+      </ul>
+
+    </section>
+    {% endif %}
+
+
+{% if activity.data.files %}
+<section class="print-section">
+
+  <h2>Recursos descargables</h2>
+
+  <div class="resource-list">
+
+  {% for file in activity.data.files %}
+
+    <div class="resource-card">
+
+      <div class="resource-title">
+        📄 {{ file.caption }}
+      </div>
+
+      {% if file.filepath %}
+      <div class="resource-url">
+        {{ file.filepath }}
+      </div>
+      {% endif %}
+
+    </div>
+
+  {% endfor %}
+
+  </div>
+
+</section>
+{% endif %}
+
+
+  </section>
+
+</main>
+
+
+<footer class="print-footer">
+  <div>
+    {{ activity.url | url }}
+  </div>
+
+  <div>
+    Página    01/01 </div>
+</footer>
+
+</html>
+
+
