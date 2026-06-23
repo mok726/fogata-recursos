@@ -50,36 +50,85 @@ layout: layouts/base.njk
 
 
 
-<section class="page-header">
+<section class="badge-hero">
 
-{% if badge.logo and not badge.generic %}
-  <img    src="{{ badge.logo | url }}"    alt="{{ badge.name }}">
+{% if badge.hero_image %}
+
+<div class="badge-hero-image">
+
+  <img
+    src="{{ badge.hero_image | url }}"
+    alt="{{ badge.name }}">
+
+</div>
+
 {% endif %}
 
-  <div>
+<div class="badge-hero-content">
 
-    <h1>
-      {{ badge.name }}
-    </h1>
+  {% if badge.logo and not badge.generic %}
 
+    <img
+      class="badge-hero-logo"
+      src="{{ badge.logo | url }}"
+      alt="{{ badge.name }}">
 
-    {% if badge.description %}
+  {% endif %}
 
-      <p>
-        {{ badge.description }}
-      </p>
+  <h1>
+    {{ badge.name }}
+  </h1>
 
-    {% endif %}
+  {% if badge.description %}
+    <p class="badge-tagline">
+      {{ badge.description }}
+    </p>
+  {% endif %}
 
-    {% if badge.summary %}
-      <div class="badge-summary">
-        {{ badge.summary | nl2br | safe }}
-      </div>
-    {% endif %}
+  {% if badge.summary %}
+    <div class="badge-summary">
+      {{ badge.summary | nl2br | safe }}
+    </div>
+  {% endif %}
 
-  </div>
+</div>
 
 </section>
+
+{% if badge.requirements %}
+
+<section class="info-box">
+
+  <h2>
+    Cómo obtener esta insignia
+  </h2>
+
+  {% if badge.requirements.summary %}
+
+    <p>
+      {{ badge.requirements.summary }}
+    </p>
+
+  {% endif %}
+
+  {% if badge.requirements.rules %}
+
+    <ul>
+
+      {% for rule in badge.requirements.rules %}
+
+        <li>{{ rule }}</li>
+
+      {% endfor %}
+
+    </ul>
+
+  {% endif %}
+
+</section>
+
+{% endif %}
+
 
 {% if badge.documents and badge.documents.length %}
 <section class="section-spacing">
@@ -170,105 +219,179 @@ layout: layouts/base.njk
 </section>
 {% endif %}
 
-<section class="section-spacing">
-
-  <h2>
-    Actividades relacionadas
-  </h2>
 
 
 
+
+
+
+
+
+<h2>Actividades</h2>
+
+{% for sectionId, section in badge.sections %}
+
+<section class="badge-section">
+
+  <h3>
+    {{ sectionId }}.
+    {{ section.title }}
+  </h3>
 
   <div class="grid">
 
-{% set renderedCards = [] %}
-{% set activityCount = 0 %}
-{% for activity in collections.activitiesSorted %}
-  {% set activityBadges =
-    activity.data.activity_badges or [] %}
-  {% set validBadges = [] %}
-  {% for knownBadge in badges %}
-    {% set validBadges =
-      validBadges.concat([
-        knownBadge.id | slugify
-      ])
-    %}
-  {% endfor %}
-  {% set shouldRender = false %}
-  {% if badge.id == "general" %}
-    {% if activityBadges.length == 0 %}
-      {% set shouldRender = true %}
-    {% else %}
-      {% set validMatches = [] %}
-      {% for itemBadge in activityBadges %}
-        {% if
-          (itemBadge | slugify)
-          in validBadges
-        %}
-          {% set validMatches =
-            validMatches.concat([true])
-          %}
-        {% endif %}
-      {% endfor %}
-      {% if validMatches.length == 0 %}
-        {% set shouldRender = true %}
-      {% endif %}
-    {% endif %}
-  {% else %}
-    {% for itemBadge in activityBadges %}
-      {% if
-        (itemBadge | slugify)
-        ==
-        (badge.id | slugify)
-      %}
-        {% set shouldRender = true %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+{% set sectionCount = 0 %}
 
-  {% if shouldRender %}
-    {% set renderedCards =
-      renderedCards.concat([true])
-    %}
+{% for activity in collections.activitiesSorted %}
+
+{% set activityBadges =
+  activity.data.activity_badges or [] %}
+
+{% if badge.id in activityBadges %}
+
+  {% set code =
+    activity.data.activity_code or "" %}
+
+  {% if code.startsWith(badge.id + "-" + sectionId) %}
+
+    {% set sectionCount = sectionCount + 1 %}
+
     {% set item = activity.data %}
     {% set activityUrl = activity.url %}
 
     {% include "components/activity-card.njk" %}
+
   {% endif %}
-{% endfor %}
-
-
-<div class="card-meta">
-
-  <span class="chip">
-
-{{ renderedCards.length }}
-actividad{% if renderedCards.length != 1 %}es{% endif %}
-
-  </span>
-
-</div>
-
-
-{% if renderedCards.length == 0 %}
-
-  <div class="empty-state">
-
-    <h2>
-      No hay actividades todavía
-    </h2>
-
-    <p>
-      Esta insignia todavía no tiene actividades asociadas.
-    </p>
-
-  </div>
 
 {% endif %}
 
+{% endfor %}
 
+{% if sectionCount == 0 %}
 
+<div class="empty-state">
+  No hay actividades asignadas.
+</div>
+
+{% endif %}
+
+  </div>
 
 </section>
+
+{% endfor %}
+
+<section class="badge-section">
+
+<h3>
+⚠ Clasificación inconsistente
+</h3>
+
+<p>
+Actividades asociadas a esta insignia pero
+con una sección inexistente o mal definida.
+</p>
+
+<div class="grid">
+
+{% set inconsistentCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+{% set activityBadges =
+activity.data.activity_badges or [] %}
+
+{% if badge.id in activityBadges %}
+
+{% set code =
+  activity.data.activity_code or "" %}
+
+{% if code.startsWith(badge.id + "-") %}
+
+  {% set remainder =
+    code.replace(badge.id + "-", "") %}
+
+  {% set detectedSection =
+    remainder[0] %}
+
+  {% if not badge.sections[detectedSection] %}
+
+    {% set inconsistentCount =
+      inconsistentCount + 1 %}
+
+    {% set item = activity.data %}
+    {% set activityUrl = activity.url %}
+
+    {% include "components/activity-card.njk" %}
+
+  {% endif %}
+
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+{% if inconsistentCount == 0 %}
+
+  <p>No se encontraron inconsistencias.</p>
+{% endif %}
+
+</div>
+
+</section>
+
+<section class="badge-section">
+
+<h3>
+Actividades complementarias
+</h3>
+
+<p>
+Actividades relacionadas con la temática
+de la insignia pero que no forman parte
+del programa oficial de secciones.
+</p>
+
+<div class="grid">
+
+{% set extraCount = 0 %}
+
+{% for activity in collections.activitiesSorted %}
+
+{% set activityBadges =
+activity.data.activity_badges or [] %}
+
+{% if badge.id in activityBadges %}
+
+{% set code =
+  activity.data.activity_code or "" %}
+
+{% if not code.startsWith(badge.id + "-") %}
+
+  {% set extraCount = extraCount + 1 %}
+
+  {% set item = activity.data %}
+  {% set activityUrl = activity.url %}
+
+  {% include "components/activity-card.njk" %}
+
+{% endif %}
+
+{% endif %}
+
+{% endfor %}
+
+{% if extraCount == 0 %}
+
+  <p>No hay actividades complementarias.</p>
+{% endif %}
+
+</div>
+
+</section>
+
+</section>
+
 
 

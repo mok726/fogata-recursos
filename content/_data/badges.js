@@ -9,6 +9,7 @@ module.exports = function () {
       summary:
         "La insignia de Agricultura promueve la comprensión de los sistemas de producción de alimentos y su impacto en el medio ambiente.\n\nExplora la relación entre agricultura, clima y seguridad alimentaria, fomentando prácticas sostenibles y consumo responsable.",
       logo: "/imagenes/insignias/agricultura.png",
+      hero_image: "/imagenes/insignias/agricultura-hero.png",
       sources: [
         {
           name: "YUNGA Agriculture Badge",
@@ -23,6 +24,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: []
     },
 
@@ -34,6 +63,7 @@ module.exports = function () {
       summary:
         "La insignia de Bosques promueve la comprensión del rol de los bosques como ecosistemas esenciales para la biodiversidad y el clima.\n\nFomenta la conservación y el uso sostenible de los recursos forestales.",
       logo: "/imagenes/insignias/bosques.png",
+      hero_image: "/imagenes/insignias/bosques-hero.png",
       sources: [
         {
           name: "YUNGA Forest Badge",
@@ -48,6 +78,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "La vida de los bosques"
+  },
+  B: {
+    title: "Los bosques en uso"
+  },
+  C: {
+    title: "Los bosques y la cultura"
+  },
+  D: {
+    title: "Los bosques en peligro"
+  },
+  E: {
+    title: "Toma acción"
+  }
+},
       documents: [
         {
           title: "Forests Challenge Badge Booklet",
@@ -67,6 +125,7 @@ module.exports = function () {
       summary:
         "La insignia de Género promueve la igualdad, la inclusión y el respeto entre personas.\n\nFomenta la reflexión sobre roles sociales y derechos humanos.",
       logo: "/imagenes/insignias/genero.png",
+      hero_image: "/imagenes/insignias/genero-hero.png",
       sources: [
         {
           name: "YUNGA Gender Badge",
@@ -81,6 +140,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: []
     },
 
@@ -92,6 +179,7 @@ module.exports = function () {
       summary:
         "La insignia de Nutrición promueve una alimentación equilibrada y saludable.\n\nFomenta la relación entre dieta, salud y sostenibilidad alimentaria.",
       logo: "/imagenes/insignias/nutricion.png",
+      hero_image: "/imagenes/insignias/nutricion-hero.png",
       sources: [
         {
           name: "YUNGA Nutrition Badge",
@@ -106,6 +194,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Nutrition Challenge Badge Booklet",
@@ -125,6 +241,7 @@ module.exports = function () {
       summary:
         "La insignia Plastic Tide Turners aborda la contaminación por plásticos en océanos y ecosistemas.\n\nPromueve reducción, reutilización y reciclaje.",
       logo: "/imagenes/insignias/ptt.png",
+      hero_image: "/imagenes/insignias/ptt-hero.png",
       sources: [
         {
           name: "Plastic Tide Turners Challenge Badge",
@@ -139,6 +256,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Plastic Tide Turners Challenge Booklet",
@@ -158,6 +303,7 @@ module.exports = function () {
       summary:
         "La insignia de Agua promueve la comprensión del ciclo del agua y su importancia.\n\nFomenta su uso responsable y conservación.",
       logo: "/imagenes/insignias/agua.png",
+      hero_image: "/imagenes/insignias/agua-hero.png",
       sources: [
         {
           name: "YUNGA Water Badge",
@@ -172,6 +318,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Water Challenge Badge Booklet",
@@ -191,6 +365,7 @@ module.exports = function () {
       summary:
         "La insignia Go Solar promueve el uso de energía solar como alternativa sostenible.\n\nFomenta innovación energética.  \n ¿Qué es el Desafío Scouts Go Solar?\nEl Desafío Scouts Go Solar es una iniciativa global desarrollada por *SOLAFRICA* y adoptada por la Organización Mundial del Movimiento Scout\ncomo componente integral de Tribu Tierra.\n Este Desafío, enmarcado en el eje de Energías Limpias, nos ayudará a entender los diversos usos y aplicaciones de las energías renovables para poder desarrollar proyectos de impacto socio ambiental vinculados con ellas. ",
       logo: "/imagenes/insignias/gosolar.png",
+      hero_image: "/imagenes/insignias/gosolar-hero.png",
       sources: [],
   license: {
     type: "CC BY-NC-SA 3.0 IGO",
@@ -200,6 +375,34 @@ module.exports = function () {
     organization: "Scouts de Argentina www.scouts.org.ar",
     year: "2020"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Scouts-Go-Solar-Tribu-Tierra",
@@ -219,13 +422,67 @@ module.exports = function () {
     },
 
     {
+      id: "mundomejor",
+      name: "Mundo Mejor",
+      description:
+        "Energía solar y sostenibilidad.",
+      summary:
+        "El Programa Marco Mundo Mejor es una iniciativa global del Movimiento Scout que busca educar y concientizar a los jóvenes para construir un cambio positivo en la humanidad y contribuir a los Objetivos de Desarrollo Sostenible (ODS) de la ONU",
+      logo: "/imagenes/insignias/mundomejor.png",
+      hero_image: "/imagenes/insignias/mundomejor-hero.png",
+      sources: [],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "Scouts de Argentina www.scouts.org.ar",
+    year: "2020"
+  },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
+      documents: [
+      ]
+    },
+
+
+
+
+    {
       id: "sacc",
       name: "Seguridad Alimentaria",
       description:
         "Seguridad Alimentaria",
       summary:
         "La insignia Seguridad Alimentaria",
-      logo: "/imagenes/insignias/seguridadalimentaria.png",  //https://www.fao.org/typo3temp/pics/1d0b6c2a30.jpg
+      logo: "/imagenes/insignias/seguridadalimentaria.png",
+      hero_image: "/imagenes/insignias/sacc-hero.png",  //https://www.fao.org/typo3temp/pics/1d0b6c2a30.jpg
       sources: [],
   license: {
     type: "CC BY-NC-SA 3.0 IGO",
@@ -235,6 +492,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: []
     },
 
@@ -247,6 +532,7 @@ module.exports = function () {
       summary:
         "La insignia promueve el cuidado del planeta. y es parte del programa SCOUT",
       logo: "/imagenes/insignias/cfn.png",
+      hero_image: "/imagenes/insignias/cfn-hero.png",
       sources: [],
   license: {
     type: "CC BY-NC-SA 3.0 IGO",
@@ -256,6 +542,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: []
     },
 
@@ -269,7 +583,8 @@ module.exports = function () {
         "Educación ambiental y acción climática.",
       summary:
         "La insignia de Cambio Climático aborda causas y efectos del calentamiento global.\n\nPromueve acciones de mitigación y adaptación.",
-      logo: "/imagenes/insignias/cambioclimatico.png",  //https://www.fao.org/typo3temp/pics/c78dfee699.jpg",
+      logo: "/imagenes/insignias/cambioclimatico.png",
+      hero_image: "/imagenes/insignias/cambioclimatico-hero.png",  //https://www.fao.org/typo3temp/pics/c78dfee699.jpg",
       sources: [
         {
           name: "YUNGA Climate Change Badge",
@@ -284,6 +599,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Climate Change Challenge Badge Booklet",
@@ -303,6 +646,7 @@ module.exports = function () {
       summary:
         "La insignia de Gobernanza promueve la participación ciudadana y la toma de decisiones.\n\nFomenta liderazgo y compromiso social.",
       logo: "/imagenes/insignias/gobernanza.png",
+      hero_image: "/imagenes/insignias/gobernanza-hero.png",
       sources: [
         {
           name: "YUNGA Governance Badge",
@@ -317,6 +661,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: []
     },
 
@@ -328,6 +700,7 @@ module.exports = function () {
       summary:
         "La insignia del Océano promueve la comprensión de los ecosistemas marinos.\n\nAborda contaminación y sobrepesca.",
       logo: "/imagenes/insignias/oceano.png",
+      hero_image: "/imagenes/insignias/oceano-hero.png",
       sources: [
         {
           name: "YUNGA The Ocean Badge",
@@ -342,6 +715,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "The Ocean Challenge Badge Booklet",
@@ -361,6 +762,7 @@ module.exports = function () {
       summary:
         "La insignia de RRD promueve la preparación y resiliencia ante desastres naturales.\n\nFomenta la prevención y gestión del riesgo en comunidades.",
       logo: "/imagenes/insignias/rrd.png",
+      hero_image: "/imagenes/insignias/rrd-hero.png",
       sources: [
         {
           name: "YUNGA Disaster Risk Reduction Badge",
@@ -375,6 +777,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Disaster Risk Reduction Challenge Badge Booklet",
@@ -394,6 +824,7 @@ module.exports = function () {
       summary:
         "La insignia de Biodiversidad promueve la comprensión de la diversidad biológica.\n\nFomenta la observación y protección de ecosistemas y especies.",
       logo: "/imagenes/insignias/biodiversidad.png",
+      hero_image: "/imagenes/insignias/biodiversidad-hero.png",
       sources: [
         {
           name: "YUNGA Biodiversity Badge",
@@ -408,6 +839,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Biodiversity Challenge Badge Booklet",
@@ -427,6 +886,7 @@ module.exports = function () {
       summary:
         "La insignia de Energía promueve eficiencia energética y renovables.\n\nFomenta transición energética sostenible.",
       logo: "/imagenes/insignias/energia.png",
+      hero_image: "/imagenes/insignias/energia-hero.png",
       sources: [
         {
           name: "YUNGA Energy Badge",
@@ -441,6 +901,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Energy Challenge Badge Booklet",
@@ -460,6 +948,7 @@ module.exports = function () {
       summary:
         "La insignia de Hambre sensibiliza sobre la inseguridad alimentaria global.\n\nPromueve acciones para reducir el hambre en el mundo.",
       logo: "/imagenes/insignias/hambre.png",
+      hero_image: "/imagenes/insignias/hambre-hero.png",
       sources: [
         {
           name: "YUNGA Ending Hunger Badge",
@@ -474,6 +963,34 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
+      
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
       documents: [
         {
           title: "Ending Hunger Challenge Badge Booklet",
@@ -492,6 +1009,7 @@ module.exports = function () {
   summary:
     "La insignia de Suelos promueve la comprensión del suelo como un recurso vivo y fundamental para los ecosistemas.\n\nFomenta prácticas de conservación del suelo, prevención de la erosión y gestión sostenible de los recursos naturales.",
   logo: "/imagenes/insignias/suelos.png",
+      hero_image: "/imagenes/insignias/suelos-hero.png",
   sources: [
     {
       name: "YUNGA Soils Badge",
@@ -506,7 +1024,35 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
-  documents: [
+  
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
+      documents: [
     {
       title: "Soils Challenge Badge Booklet",
       title_es: "Insignia de Suelos – Cuaderno de actividades",
@@ -525,6 +1071,7 @@ module.exports = function () {
   summary:
     "La insignia de Polinizadores ayuda a comprender el papel fundamental de las abejas y otros polinizadores en los ecosistemas.\n\nPromueve acciones para proteger los polinizadores y su hábitat, destacando su impacto en la seguridad alimentaria y la biodiversidad.",
   logo: "/imagenes/insignias/polinizadores.png",
+      hero_image: "/imagenes/insignias/polinizadores-hero.png",
   sources: [
     {
       name: "YUNGA Pollinators Badge",
@@ -539,7 +1086,35 @@ module.exports = function () {
     organization: "FAO",
     year: "2021"
   },
-  documents: [
+  
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
+    "Realizar actividades de acción comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Sección A"
+  },
+  B: {
+    title: "Sección B"
+  },
+  C: {
+    title: "Sección C"
+  },
+  D: {
+    title: "Sección D"
+  },
+  E: {
+    title: "Sección E"
+  }
+},
+      documents: [
     {
       title: "Pollinators Challenge Badge Booklet",
       title_es: "Insignia de Polinizadores – Cuaderno de actividades",
@@ -556,7 +1131,8 @@ module.exports = function () {
   description:
     "Actividades scouts sin una insignia específica asociada.",
   logo: null,
-  generic: true,
+  hero_image: "/imagenes/insignias/general-hero.png",
+   generic: true,
   license: {
     type: "CC BY-NC-SA 3.0 IGO",
     url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
@@ -570,5 +1146,4 @@ module.exports = function () {
 
   ];
 };
-
 

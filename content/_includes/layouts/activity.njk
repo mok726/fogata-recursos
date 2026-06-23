@@ -463,27 +463,29 @@ async function shareActivity() {
 {% set ageGroups = age_group | default([]) %}
 
 {% if "castores" in ageGroups %}
-<div class="branch-item">
-  <img src="{{ '/imagenes/ramas/castores.png' | url }}" alt="Castores">
-
-  <div class="branch-content">
-    <div class="branch-name">
-      Castores
+  <a href="{{ ('/edades/castores/') | url }}" title="Castores">
+    <div class="branch-item">
+      <img src="{{ '/imagenes/ramas/castores.png' | url }}" alt="Castores">
+      <div class="branch-content">
+        <div class="branch-name">
+          Castores
+        </div>
+        {% if rama_castores %}
+          <div class="branch-actions">
+            Acciones: {{ rama_castores }}
+          </div>
+        {% endif %}
+      </div>
     </div>
-{% if rama_castores %}
-    <div class="branch-actions">
-      Acciones: {{ rama_castores }}
-    </div>
-{% endif %}
-  </div>
-</div>
+  </a>
 {% endif %}
 
 
 {% if "manada" in ageGroups %}
 <div class="branch-item">
+  <a href="{{ ('/edades/manada/') | url }}" title="Manada">
   <img src="{{ '/imagenes/ramas/manada.png' | url }}" alt="Manada">
-
+</a>
   <div class="branch-content">
     <div class="branch-name">
       Manada
@@ -548,8 +550,9 @@ Sendero: {{ comp.categoria }}
 
 {% if "scouts" in ageGroups %}
 <div class="branch-item">
+  <a href="{{ ('/edades/unidad-scout/') | url }}" title="Scouts">
   <img src="{{ '/imagenes/ramas/unidad-scout.png' | url }}" alt="Scouts">
-
+  </a>
   <div class="branch-content">
     <div class="branch-name">
       Unidad Scout
@@ -590,10 +593,11 @@ Categoria: {{ comp.categoria }}
 
 {% if "caminantes" in ageGroups %}
 <div class="branch-item">
+  <a href="{{ ('/edades/caminantes/') | url }}" title="Caminantes">
 
   <img src="{{ '/imagenes/ramas/caminantes.png' | url }}"
        alt="Caminantes">
-
+</a>
   <div class="branch-content">
 
     <div class="branch-name">
@@ -633,8 +637,10 @@ Categoria: {{ comp.categoria }}
 
 {% if "rovers" in ageGroups %}
 <div class="branch-item">
-  <img src="{{ '/imagenes/ramas/rovers.png' | url }}" alt="Rovers">
+  <a href="{{ ('/edades/rovers/') | url }}" title="Rovers">
 
+  <img src="{{ '/imagenes/ramas/rovers.png' | url }}" alt="Rovers">
+</a>
   <div class="branch-content">
     <div class="branch-name">
       Rovers

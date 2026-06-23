@@ -468,6 +468,76 @@ eleventyConfig.addGlobalData("buildDate", () => {
 
 
 
+eleventyConfig.addFilter(
+  "groupBadgeActivities",
+  function (activities, badge) {
+
+    const result = {
+      sections: {},
+      orphanActivities: [],
+      supplementalActivities: []
+    };
+
+    // crear secciones oficiales
+    if (badge.sections) {
+      for (const sectionId of Object.keys(badge.sections)) {
+        result.sections[sectionId] = [];
+      }
+    }
+
+    for (const activity of activities) {
+
+      const activityBadges =
+        activity.data.activity_badges || [];
+
+      const belongsToBadge =
+        activityBadges.some(
+          b => String(b).toLowerCase() === String(badge.id).toLowerCase()
+        );
+
+      if (!belongsToBadge) {
+        continue;
+      }
+
+      const activityCode =
+        activity.data.activity_code || "";
+
+      const expectedPrefix =
+        `${badge.id}-`;
+
+      // actividad prestada de otra insignia
+      if (!activityCode.startsWith(expectedPrefix)) {
+
+        result.supplementalActivities.push(activity);
+
+        continue;
+      }
+
+      const remaining =
+        activityCode.substring(expectedPrefix.length);
+
+      const sectionId =
+        remaining.charAt(0);
+
+      if (
+        badge.sections &&
+        badge.sections[sectionId]
+      ) {
+
+        result.sections[sectionId].push(activity);
+
+      } else {
+
+        result.orphanActivities.push(activity);
+
+      }
+
+    }
+
+    return result;
+  }
+);
+
 
 
   return {

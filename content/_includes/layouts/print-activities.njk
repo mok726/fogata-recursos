@@ -107,7 +107,7 @@
 
   {% if activity.data.complexity_execution %}
   <div class="meta-item">
-    <div class="meta-label">Ejecuci  n:</div>
+    <div class="meta-label">Ejecucion:</div>
     <div class="meta-value">
       {{ "★".repeat(activity.data.complexity_execution) }}
     </div>
@@ -116,7 +116,7 @@
 
   {% if activity.data.complexity_organizer %}
   <div class="meta-item">
-    <div class="meta-label">Organizaci  n:</div>
+    <div class="meta-label">Organizacion:</div>
     <div class="meta-value">
       {{ "★".repeat(activity.data.complexity_organizer) }}
     </div>
@@ -152,7 +152,7 @@
 
 
 
-
+<!--
   {% if activity.data.branch %}
   <div class="meta-item">
     <div class="meta-label"> ^area:</div>
@@ -161,11 +161,11 @@
     </div>
   </div>
   {% endif %}
-
+-->
 
   {% if activity.data.prep_time %}
   <div class="meta-item">
-    <div class="meta-label">Preparaci  n:</div>
+    <div class="meta-label">Preparacion:</div>
     <div class="meta-value">
       {{ activity.data.prep_time }}
     </div>
@@ -186,7 +186,7 @@
 
   {% if activity.data.activity_code %}
   <div class="meta-item">
-    <div class="meta-label">C  digo:</div>
+    <div class="meta-label">ID:</div>
     <div class="meta-value">
       {{ activity.data.activity_code }}
     </div>
@@ -195,22 +195,26 @@
 
   {% if activity.data.version %}
   <div class="meta-item">
-    <div class="meta-label">Versi  n:</div>
+    <div class="meta-label">Version:</div>
     <div class="meta-value">
-      {{ activity.data.version }}
+      {% if activity.data.version == "DRAFT" %}
+        BORRADOR
+      {% else %}
+        {{ activity.data.version }}
+      {% endif %}
     </div>
   </div>
   {% endif %}
 
 
 
-
+<!--
   <div class="meta-item">
     <div class="meta-label">Creado:</div>
     <div class="meta-value">
     </div>
   </div>
-
+-->
   <div class="meta-item">
     <div class="meta-label">Impreso:</div>
     <div class="meta-value">
@@ -289,7 +293,7 @@
     activity.data.scout_method or
     activity.data.scout_values or
     activity.data.prep_time or
-    activity.data.space_required or
+    activity.data.space_required
 %}
 
 <div class="sidebar-section">
