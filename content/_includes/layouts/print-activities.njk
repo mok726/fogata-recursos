@@ -153,6 +153,73 @@
 
 
 
+  {% if activity.data.branch %}
+  <div class="meta-item">
+    <div class="meta-label"> ^area:</div>
+    <div class="meta-value">
+      {{ activity.data.branch | join(", ") }}
+    </div>
+  </div>
+  {% endif %}
+
+
+  {% if activity.data.prep_time %}
+  <div class="meta-item">
+    <div class="meta-label">Preparaci  n:</div>
+    <div class="meta-value">
+      {{ activity.data.prep_time }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.space_required %}
+  <div class="meta-item">
+    <div class="meta-label">Espacio:</div>
+    <div class="meta-value">
+      {{ activity.data.space_required }}
+    </div>
+  </div>
+  {% endif %}
+
+
+
+
+  {% if activity.data.activity_code %}
+  <div class="meta-item">
+    <div class="meta-label">C  digo:</div>
+    <div class="meta-value">
+      {{ activity.data.activity_code }}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if activity.data.version %}
+  <div class="meta-item">
+    <div class="meta-label">Versi  n:</div>
+    <div class="meta-value">
+      {{ activity.data.version }}
+    </div>
+  </div>
+  {% endif %}
+
+
+
+
+  <div class="meta-item">
+    <div class="meta-label">Creado:</div>
+    <div class="meta-value">
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Impreso:</div>
+    <div class="meta-value">
+      <span id="print-date"></span>
+    </div>
+  </div>
+
+
+
 
 
     </div>
@@ -219,12 +286,10 @@
 
 
 {% if
-    activity.data.branch or
     activity.data.scout_method or
     activity.data.scout_values or
     activity.data.prep_time or
     activity.data.space_required or
-    activity.data.source
 %}
 
 <div class="sidebar-section">
@@ -240,10 +305,6 @@
     </div>
   {% endif %}
 
-
-
-
-
   {% if activity.data.scout_values %}
     <div class="sidebar-section">
       <h3>Valores Scout</h3>
@@ -257,85 +318,6 @@
 
 
 
-
-  {% if activity.data.prep_time %}
-  <div class="meta-item">
-    <div class="meta-label">Preparación:</div>
-    <div class="meta-value">
-      {{ activity.data.prep_time }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.space_required %}
-  <div class="meta-item">
-    <div class="meta-label">Espacio:</div>
-    <div class="meta-value">
-      {{ activity.data.space_required }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.source %}
-    <div class="sidebar-section">
-      <h3>Fuente</h3>
-      <ul>
-      {% for item in activity.data.source %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
-
-
-  <h3>Informaci  n</h3>
-
-  {% if activity.data.branch %}
-  <div class="meta-item">
-    <div class="meta-label"> ^area:</div>
-    <div class="meta-value">
-      {{ activity.data.branch | join(", ") }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.scout_method %}
-    <div class="sidebar-section">
-      <h3>M  todo Scout</h3>
-      <ul>
-      {% for item in activity.data.scout_method %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    </div>
-  {% endif %}
-
-
-
-  {% if activity.data.activity_code %}
-  <div class="meta-item">
-    <div class="meta-label">Código:</div>
-    <div class="meta-value">
-      {{ activity.data.activity_code }}
-    </div>
-  </div>
-  {% endif %}
-
-  {% if activity.data.version %}
-  <div class="meta-item">
-    <div class="meta-label">Versión:</div>
-    <div class="meta-value">
-      {{ activity.data.version }}
-    </div>
-  </div>
-  {% endif %}
-
-  <div class="meta-item">
-    <div class="meta-label">Impreso:</div>
-    <div class="meta-value">
-      {{ buildDate }}
-    </div>
-  </div>
 
 </div>
 
@@ -354,7 +336,7 @@
   <h3>Ver online</h3>
 
   <img
-    src="{{ '/imagenes/qr/' | url }}{{ activity.fileSlug }}.png"
+    src="{{ '/imagenes/actividades/qr/' | url }}{{ activity.fileSlug }}.png"
     class="activity-qr"
     alt="QR de la actividad">
 
@@ -625,6 +607,10 @@
 
 </table>
 
+<script>
+document.getElementById("print-date").textContent =
+  new Date().toLocaleDateString("es-AR");
+</script>
 
 </html>
 

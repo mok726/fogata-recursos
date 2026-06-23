@@ -462,6 +462,12 @@ eleventyConfig.addFilter(
 );
 
 
+eleventyConfig.addGlobalData("buildDate", () => {
+  return new Date();
+});
+
+
+
 
 
   return {
