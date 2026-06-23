@@ -1,4 +1,4 @@
-<div class="card activity-card">
+<div class="card activity-card {% if isRequired %}activity-card-required{% endif %}">
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
@@ -18,9 +18,22 @@
         <span class="material-symbols-outlined">schedule</span> {{ item.duration }}
       </div>
     {% endif %}
+{% if isRequired %}
+  <div class="activity-required">
+    🏅 Obligatoria
+  </div>
+{% endif %}
+{% if isComplementary %}
+<div class="activity-complementary">
+  COMPLEMENTARIA
+</div>
+{% endif %}
+
+
    </div>
   <div class="card-content">
     <div class="activity-title-row">
+
       <h3>
         <a          class="card-title-link"          href="{{ activityUrl | url }}">
           {{ item.title | smartTitle }}

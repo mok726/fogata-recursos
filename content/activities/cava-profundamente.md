@@ -34,7 +34,7 @@ sdgs:
   - 13
 activity_badges:
   - suelos
-activity_code: "suelos-X01"
+activity_code: "suelos-A01"
 rama_lobatos:
   - 26
   - 27
@@ -50,7 +50,7 @@ rama_rovers:
 image_prompt: "An Argentine forest or park on a sunny day. In the center-left, a small hole 30cm deep dug in the ground, with visible soil layers. A clipboard with notes and a magnifying glass lie nearby. Trees and grass around. The left side has space for text. On the far right side, a group of tiny scouts (5-15) kneel around the hole, one examining soil with a magnifying glass, another taking notes, seen from a distance. The scientific exploration environment dominates."
 required: true
 required_for:
-  - suelos-X
+  - suelos-A
 required_comment: "Actividad obligatoria"
 tags:
   - suelos

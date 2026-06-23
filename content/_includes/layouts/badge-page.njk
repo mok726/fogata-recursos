@@ -146,10 +146,20 @@ layout: layouts/base.njk
         {% endif %}
 
         <div class="card-content">
-          <h3>
-            {{ doc.title_es or doc.title }}
-          </h3>
+<div class="section-header">
 
+  <div>
+
+    <h2>
+
+      {{ sectionId }}.
+      {{ section.title }}
+
+    </h2>
+
+  </div>
+
+</div>
           <p>
             Documento relacionado con la insignia.
           </p>
@@ -227,17 +237,42 @@ layout: layouts/base.njk
 
 
 
-<h2>Actividades</h2>
+<section class="section-spacing">
+
+  <div class="section-header">
+
+    <div>
+
+      <h2>Actividades</h2>
+
+      <p>
+        Explora las actividades organizadas por sección temática
+        de la insignia.
+      </p>
+
+    </div>
+
+  </div>
+
 
 {% for sectionId, section in badge.sections %}
 
 <section class="badge-section">
 
-  <h3>
-    {{ sectionId }}.
-    {{ section.title }}
-  </h3>
+<div class="section-header">
 
+  <div>
+
+    <h2>
+
+      {{ sectionId }}.
+      {{ section.title }}
+
+    </h2>
+
+  </div>
+
+</div>
   <div class="grid">
 
 {% set sectionCount = 0 %}
@@ -259,6 +294,22 @@ layout: layouts/base.njk
     {% set item = activity.data %}
     {% set activityUrl = activity.url %}
 
+{% set isRequired = false %}
+
+{% if item.required_for %}
+
+  {% for req in item.required_for %}
+
+    {% if req == badge.id + "-" + sectionId %}
+
+      {% set isRequired = true %}
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+{% set isComplementary = false %}
     {% include "components/activity-card.njk" %}
 
   {% endif %}
@@ -283,9 +334,20 @@ layout: layouts/base.njk
 
 <section class="badge-section">
 
-<h3>
+<div class="section-header">
+
+  <div>
+
+    <h2>
+
 ⚠ Clasificación inconsistente
-</h3>
+
+
+    </h2>
+
+  </div>
+
+</div>
 
 <p>
 Actividades asociadas a esta insignia pero
@@ -321,7 +383,7 @@ activity.data.activity_badges or [] %}
 
     {% set item = activity.data %}
     {% set activityUrl = activity.url %}
-
+{% set isComplementary = false %}
     {% include "components/activity-card.njk" %}
 
   {% endif %}
@@ -343,9 +405,9 @@ activity.data.activity_badges or [] %}
 
 <section class="badge-section">
 
-<h3>
+<h2>
 Actividades complementarias
-</h3>
+</h2>
 
 <p>
 Actividades relacionadas con la temática
@@ -374,6 +436,10 @@ activity.data.activity_badges or [] %}
   {% set item = activity.data %}
   {% set activityUrl = activity.url %}
 
+{% set isComplementary = true %}
+{% set isRequired = false %}
+
+
   {% include "components/activity-card.njk" %}
 
 {% endif %}
@@ -394,4 +460,6 @@ activity.data.activity_badges or [] %}
 </section>
 
 
+
+</section>
 
