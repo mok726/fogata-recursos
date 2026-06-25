@@ -10,6 +10,14 @@ const cheerio = require("cheerio");
 
 module.exports = function(eleventyConfig) {
 
+  // Configure Nunjucks options globally
+  eleventyConfig.setNunjucksEnvironmentOptions({
+    trimBlocks: true,
+    lstripBlocks: true
+  });
+
+
+
   eleventyConfig.addPassthroughCopy(
     "content/css"
   );

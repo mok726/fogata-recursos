@@ -6,37 +6,37 @@ layout: layouts/base.njk
 
 {% if not isKnownBadge %}
   {% set inferredActivities = [] %}
-  {% for activity in collections.activitiesSorted %}
-{% set activityBadges = activity.data.activity_badges or [] %}
-{% set validBadges = [] %}
-{% for knownBadge in badges %}
-  {% set validBadges = validBadges.concat([knownBadge.id | slugify]) %}
-{% endfor %}
+  {%- for activity in collections.activitiesSorted -%}
+    {% set activityBadges = activity.data.activity_badges or [] %}
+    {% set validBadges = [] %}
+    {%- for knownBadge in badges -%}
+      {% set validBadges = validBadges.concat([knownBadge.id | slugify]) %}
+    {%- endfor -%}
 
-{% if badge.id == "general" %}
-  {% if activityBadges.length == 0 %}
-    {% set showActivity = true %}
-  {% else %}
-    {% set validCount = 0 %}
-    {% for item in activityBadges %}
-      {% if (item | slugify) in validBadges %}
-        {% set validCount = validCount + 1 %}
+    {% if badge.id == "general" %}
+      {% if activityBadges.length == 0 %}
+        {% set showActivity = true %}
+      {% else %}
+        {% set validCount = 0 %}
+        {%- for item in activityBadges -%}
+          {% if (item | slugify) in validBadges %}
+            {% set validCount = validCount + 1 %}
+          {% endif %}
+        {%- endfor -%}
+        {% set showActivity = (validCount == 0) %}
       {% endif %}
-    {% endfor %}
-    {% set showActivity = (validCount == 0) %}
-  {% endif %}
-{% else %}
-  {% set showActivity = false %}
-  {% for item in activityBadges %}
-    {% if (item | slugify) == (badge.id | slugify) %}
-      {% set showActivity = true %}
+    {% else %}
+      {% set showActivity = false %}
+      {%- for item in activityBadges -%}
+        {% if (item | slugify) == (badge.id | slugify) %}
+          {% set showActivity = true %}
+        {% endif %}
+      {%- endfor -%}
     {% endif %}
-  {% endfor %}
-{% endif %}
-{% if showActivity %}
-          {% set inferredActivities = inferredActivities.concat([activity]) %}
+    {% if showActivity %}
+      {% set inferredActivities = inferredActivities.concat([activity]) %}
     {% endif %}
-  {% endfor %}
+  {%- endfor -%}
   {% set badge = {
     id: badge.id,
     name: badge.id | smartTitle,
@@ -48,141 +48,249 @@ layout: layouts/base.njk
   } %}
 {% endif %}
 
+{% set activityCount = 0 %}
+
+{%- for activity in collections.activitiesSorted -%}
+
+  {% set activityBadges =
+     activity.data.activity_badges or [] %}
+
+  {% if badge.id in activityBadges %}
+    {% set activityCount = activityCount + 1 %}
+  {% endif %}
+
+{%- endfor -%}
+
+
+
+<!-- Inicio del hero -->
 
 
 <section class="badge-hero">
 
-{% if badge.hero_image %}
+  {% if badge.hero_image %}
+    <div class="badge-hero-image">
+      <img
+        src="{{ badge.hero_image | url }}"
+        alt="{{ badge.name }}">
+    </div>
+  {% endif %}
 
-<div class="badge-hero-image">
 
-  <img
-    src="{{ badge.hero_image | url }}"
-    alt="{{ badge.name }}">
+  <div class="badge-hero-content">
+
+    {% if badge.logo %}
+      <img
+        class="badge-hero-logo"
+        src="{{ badge.logo | url }}"
+        alt="{{ badge.name }}">
+    {% endif %}
+
+    <h1>{{ badge.name }}</h1>
+
+    {% if badge.description %}
+      <p class="badge-tagline">
+        {{ badge.description }}
+      </p>
+    {% endif %}
+
+    <div class="badge-stats">
+
+      <span class="chip">
+        🌲 {{ activityCount }} actividades
+      </span>
+
+      <span class="chip">
+        🧩 {{ badge.sections | length }} secciones
+      </span>
+
+      {% if badge.documents %}
+      <span class="chip">
+        📄 {{ badge.documents.length }} recursos
+      </span>
+      {% endif %}
+
+    </div>
+
+  </div>
+
+</section>
+
+<!-- Fin del hero -->
+
+
+
+
+
+<!-- inicio del contenido medio -->
+
+
+<div class="badge-layout">
+
+
+  <div class="badge-main">
+
+
+
+    {% if badge.sections %}
+
+
+
+      <div class="badge-sections-block">
+
+        <div class="badge-sections-label">
+          Secciones de la insignia
+        </div>
+
+ 
+
+      <div class="badge-sections-nav">
+
+        {%- for sectionId, section in badge.sections -%}
+
+          <a
+            class="chip"
+            href="#section-{{ sectionId }}">
+
+            {{ sectionId }}
+
+          </a>
+
+        {%- endfor -%}
+        </div>
+       </div>
+
+     {% endif %}
+
+{% if badge.summary %}
+
+<div class="badge-summary-block">
+
+  <div class="badge-summary-icon">
+    🌱
+  </div>
+
+  <div class="badge-summary-content">
+
+    <h3>
+      Sobre esta insignia
+    </h3>
+
+    <p>
+      {{ badge.summary }}
+    </p>
+
+  </div>
 
 </div>
 
 {% endif %}
+<hr class="badge-intro-divider">
+     {% if badge.requirements %}
+       <!-- section class="info-box" -->
 
-<div class="badge-hero-content">
+<div class="badge-requirements-header">
 
-  {% if badge.logo and not badge.generic %}
-
-    <img
-      class="badge-hero-logo"
-      src="{{ badge.logo | url }}"
-      alt="{{ badge.name }}">
-
-  {% endif %}
-
-  <h1>
-    {{ badge.name }}
-  </h1>
-
-  {% if badge.description %}
-    <p class="badge-tagline">
-      {{ badge.description }}
-    </p>
-  {% endif %}
-
-  {% if badge.summary %}
-    <div class="badge-summary">
-      {{ badge.summary | nl2br | safe }}
-    </div>
-  {% endif %}
-
-</div>
-
-</section>
-
-{% if badge.requirements %}
-
-<section class="info-box">
+  <div class="badge-requirements-icon">
+    🎯
+  </div>
 
   <h2>
     Cómo obtener esta insignia
   </h2>
 
-  {% if badge.requirements.summary %}
+</div>
+         {% if badge.requirements.summary %}
 
-    <p>
-      {{ badge.requirements.summary }}
-    </p>
+           <p>
+             {{ badge.requirements.summary }}
+           </p>
 
-  {% endif %}
+         {% endif %}
 
-  {% if badge.requirements.rules %}
+{% if badge.requirements.rules %}
 
-    <ul>
+<div class="badge-rules">
 
-      {% for rule in badge.requirements.rules %}
+  {% for rule in badge.requirements.rules %}
 
-        <li>{{ rule }}</li>
+    <div class="badge-rule">
 
-      {% endfor %}
+      <div class="badge-rule-icon">
+        ✓
+      </div>
 
-    </ul>
+      <div>
+        {{ rule }}
+      </div>
 
-  {% endif %}
+    </div>
 
-</section>
-
-{% endif %}
-
-
-{% if badge.documents and badge.documents.length %}
-<section class="section-spacing">
-
-  <h2>
-    Documentos y recursos
-  </h2>
-
-  <div class="grid">
-
-    {% for doc in badge.documents %}
-      <div class="card">
-        {% if doc.image %}
-          <img            src="{{ doc.image }}"            alt="{{ doc.title_es or doc.title }}">
-        {% endif %}
-
-        <div class="card-content">
-<div class="section-header">
-
-  <div>
-
-    <h2>
-
-      {{ sectionId }}.
-      {{ section.title }}
-
-    </h2>
-
-  </div>
+  {% endfor %}
 
 </div>
-          <p>
-            Documento relacionado con la insignia.
-          </p>
 
-          <a            href="{{ doc.url }}"           target="_blank"            rel="noopener">
-            Abrir documento
-          </a>
-        </div>
-      </div>
-    {% endfor %}
-
+{% endif %}
+      {% endif %}
+    </section>
   </div>
+
+
+
+
+<aside class="badge-sidebar">
+
+<div class="badge-sidebar-card">
+
+{% if badge.documents and badge.documents.length %}
+<section class="sidebar-section">
+
+
+<h3 class="sidebar-title">
+
+  <span class="sidebar-icon">
+    📘
+  </span>
+
+  Guía de la insignia
+
+</h3>
+    {% for doc in badge.documents %}
+      <a
+        class="badge-resource"
+        href="{{ doc.url }}"
+        target="_blank"
+        rel="noopener">
+
+        <img
+          src="{{ doc.image }}"
+          alt="{{ doc.title_es or doc.title }}">
+
+<!--        <span>
+          {{ doc.title_es or doc.title }}
+        </span>
+-->
+      </a>
+   {% endfor %}
+
 
 </section>
 {% endif %}
 
+
+
 {% if badge.sources and badge.sources.length %}
-<section class="info-box">
+<section class="sidebar-section">
 
-  <h2>
-    Fuentes y referencias
-  </h2>
+<h3 class="sidebar-title">
 
+  <span class="sidebar-icon">
+    🔗
+  </span>
+
+  Fuentes
+
+</h3>
   <ul>
 
     {% for source in badge.sources %}
@@ -198,12 +306,16 @@ layout: layouts/base.njk
 {% endif %}
 
 {% if badge.license or badge.attribution %}
-<section class="info-box">
+<section class="sidebar-section">
+<h3 class="sidebar-title">
 
-  <h2>
-    Licencia y atribución
-  </h2>
+  <span class="sidebar-icon">
+    ⚖
+  </span>
 
+  Licencia
+
+</h3>
   {% if badge.license %}
     <p>
       Licencia:
@@ -229,50 +341,84 @@ layout: layouts/base.njk
 </section>
 {% endif %}
 
+</div>
+</aside>
 
 
 
-
-
+</div> <!-- Cierra badge-layout -->
 
 
 
 <section class="section-spacing">
 
-  <div class="section-header">
+  <div class="activities-intro">
 
-    <div>
+    <div class="activities-intro-icon">
+      🌲
+    </div>
 
-      <h2>Actividades</h2>
+    <div class="activities-intro-content">
+
+      <h2>
+        Actividades de la insignia
+      </h2>
 
       <p>
-        Explora las actividades organizadas por sección temática
-        de la insignia.
+        Explora las actividades organizadas por sección temática y encuentra propuestas para trabajar cada aspecto de la insignia.
       </p>
+
+    </div>
+
+    <div class="activities-intro-count">
+
+      <span>
+        {{ activityCount }}
+      </span>
+
+      <small>
+        actividades
+      </small>
 
     </div>
 
   </div>
 
 
+
 {% for sectionId, section in badge.sections %}
 
-<section class="badge-section">
+<section
+  id="section-{{ sectionId }}"
+  class="badge-section badge-section-{{ sectionId }}">
 
-<div class="section-header">
 
-  <div>
+
+<div class="badge-section-header">
+
+  <div class="badge-section-letter">
+
+    {{ sectionId }}
+
+  </div>
+
+  <div class="badge-section-info">
 
     <h2>
-
-      {{ sectionId }}.
       {{ section.title }}
-
     </h2>
+
+    {% if section.description %}
+      <p>
+        {{ section.description }}
+      </p>
+    {% endif %}
 
   </div>
 
 </div>
+
+
   <div class="grid">
 
 {% set sectionCount = 0 %}
@@ -321,7 +467,6 @@ layout: layouts/base.njk
 {% if sectionCount == 0 %}
 
 <div class="empty-state">
-  No hay actividades asignadas.
 </div>
 
 {% endif %}
@@ -332,8 +477,7 @@ layout: layouts/base.njk
 
 {% endfor %}
 
-<section class="badge-section">
-
+<section class="badge-section badge-section-warning">
 <div class="section-header">
 
   <div>
@@ -396,7 +540,6 @@ activity.data.activity_badges or [] %}
 
 {% if inconsistentCount == 0 %}
 
-  <p>No se encontraron inconsistencias.</p>
 {% endif %}
 
 </div>
