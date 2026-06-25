@@ -7,7 +7,7 @@ description: "Reemplaza las bombillas de tu casa o escuela por bombillas ahorrad
 summary: "Reemplaza las bombillas de tu casa o escuela por bombillas ahorradoras de energía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

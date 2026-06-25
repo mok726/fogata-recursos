@@ -7,7 +7,7 @@ description: "Comprométete a no comprar al menos cinco cosas que no necesitas."
 summary: "Comprométete a no comprar al menos cinco cosas que no necesitas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

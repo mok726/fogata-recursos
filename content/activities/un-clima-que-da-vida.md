@@ -7,7 +7,7 @@ description: "Los participantes entrevistan a miembros de la comunidad sobre la 
 summary: "Los participantes entrevistan a miembros de la comunidad sobre la importancia del clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

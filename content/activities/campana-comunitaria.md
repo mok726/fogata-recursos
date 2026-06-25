@@ -7,7 +7,7 @@ description: "Lanza una iniciativa local para promover energía limpia."
 summary: "Lanza una iniciativa local para promover energía limpia."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

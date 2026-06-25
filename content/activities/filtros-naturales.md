@@ -7,7 +7,7 @@ description: "Comparación de métodos de filtración."
 summary: "Comparación de métodos de filtración."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

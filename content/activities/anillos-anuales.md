@@ -1,134 +1,200 @@
 ---
-title: "ANILLOS ANUALES"
-duration: "1-2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Anillos Anuales"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/anillos-anuales/"
-description: "Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia."
-summary: "Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Examina un tocón o tronco cortado para contar sus anillos de crecimiento. Determina la edad del árbol y su historia."
+summary: "Investigación de anillos de crecimiento en árboles."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/anillos-anuales.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Tocón de árbol o tronco cortado
-  - Papel para póster
-  - Lápices o marcadores
-tools:
+  - Tocón o tronco cortado
   - Lupa (opcional)
-  - Regla
-competencies:
-  - Ciencia y Matemáticas
-  - Investigación y Gestión de Datos
+  - Material para póster
+tools: []
 responsible:
-  - Scouter o científico invitado
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
-  - 15
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-A07"
-rama_lobatos:
-  - 26
-  - 27
-rama_scouts:
-  - 13
-  - 15
-rama_caminantes:
-  - 13
-  - 15
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room or outdoor area, with a tree stump on a table in the center-left, showing clear growth rings. A magnifying glass, a ruler, and a notebook with a sketch counting rings (e.g., 15 rings). A poster explaining that wide rings mean good years, narrow rings mean stress. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at a wide ring, the other at a narrow ring, seen from a distance. The tree ring dendrochronology environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
   - anillos
-  - árbol
   - edad
-  - crecimiento
-  - dendrocronología
-  - Insignia de los Bosques
-location: "Exterior / Interior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Ciencia
-  - Investigación
-category:
-  - Ciencia
-  - Bosque
-  - Clima
-skills:
-  - Investigación
-  - Interpretación de datos
-main_type: "Investigación"
-space_required: "Exterior abierto (tocón) o salón"
-special_materials:
-  - tocón de árbol
-  - lupa
-  - regla
-  - papelógrafo
-  - marcadores
-prep_time: "20 min + análisis"
-scout_values:
-  - Perseverancia
-  - Superación personal
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - arboles
+  - seccion-a
 
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Actividad de investigación
+reflective_component: 3  # Reflexión sobre la historia del árbol
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Tree stump with visible growth rings and children counting them dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining tree rings and creating posters. Tree age research and forest history atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Ambos"
+space_required: "Lugar con troncos y salón para póster"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Observación
+  - Investigación
+  - Conciencia histórica
+
+activity_type:
+  - Investigación
+  - Arte
+  - Aprender haciendo
+
+category:
+  - Anillos
+  - Edad
+  - Historia
+
+skills:
+  - Observación
+  - Investigación
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Superación personal
+
+scout_method:
+  - Aprender haciendo
+  - Progresión personal
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 10  # Conozco acerca de mi cuerpo y entiendo que es importante cuidar de él.
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés.
+  - 42  # Aplico mi conocimiento y habilidades.
+
+rama_caminantes:
+  - 36  # Trabajo en mi superación personal.
+  - 37  # Investigo y desarrollo distintas habilidades.
+
+rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# ANILLOS ANUALES
+# Anillos Anuales
 
 ## Resumen
-Examina los anillos de crecimiento de un tocón de árbol para determinar su edad e historia.
+Examina un tocón o tronco cortado para contar sus anillos de crecimiento. Determina la edad del árbol y su historia.
+
+## Preparación
+1. Encuentra un tocón de árbol o tronco cortado.
+2. Prepara una lupa si es posible.
+3. Prepara material para el póster.
 
 ## Desarrollo
-La edad de un árbol se puede determinar por el número de anillos que posee. Encuentra un tocón de árbol o un tronco cortado y examina sus anillos de crecimiento. ¿Cuántos anillos de crecimiento ves? Cada anillo de crecimiento representa una temporada de crecimiento. ¿Qué edad tiene tu árbol? ¿Los anillos están espaciados uniformemente o no? ¿Qué te indica el espaciado sobre la historia de la vida de tu árbol? Piensa en aquello que eso te indica sobre el bosque donde encontraste el tocón o el tronco. Haz un póster para mostrar los anillos de crecimiento de tu árbol.
+1. **Examen** (15 min): Examina los anillos de crecimiento del tocón.
+2. **Conteo** (10 min): Cuenta los anillos para determinar la edad del árbol.
+3. **Análisis** (10 min): Observa si los anillos están espaciados uniformemente y reflexiona sobre qué indica el espaciado.
+4. **Reflexión** (10 min): Piensa qué indica esto sobre la historia del árbol y del bosque.
+5. **Creación** (20 min): Haz un póster mostrando los anillos de crecimiento.
 
 ## Cierre
-¿Qué eventos climáticos podrían reflejarse en los anillos del árbol? ¿Cómo?
+- ¿Qué edad tiene tu árbol?
+- ¿Qué te indican los anillos sobre la historia del árbol?
+- ¿Qué aprendiste sobre la vida de los árboles?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

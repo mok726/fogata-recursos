@@ -7,7 +7,7 @@ description: "Los participantes investigan cómo el clima afecta la salud."
 summary: "Los participantes investigan cómo el clima afecta la salud."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

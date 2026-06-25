@@ -7,7 +7,7 @@ description: "Demuestra la jerarquía de las 3R con cajas de cartón."
 summary: "Demuestra la jerarquía de las 3R con cajas de cartón."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

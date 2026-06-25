@@ -7,7 +7,7 @@ description: "Los participantes juegan un juego de adivinanzas sobre términos r
 summary: "Los participantes juegan un juego de adivinanzas sobre términos relacionados con el clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

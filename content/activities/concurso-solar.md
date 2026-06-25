@@ -7,7 +7,7 @@ description: "Un juego de preguntas y respuestas sobre la energía solar, ideal 
 summary: "Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

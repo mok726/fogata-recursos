@@ -7,7 +7,7 @@ description: "Conservación práctica."
 summary: "Conservación práctica."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

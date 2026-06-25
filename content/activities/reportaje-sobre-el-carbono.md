@@ -15,7 +15,7 @@ source:
 
 # ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/reportaje-sobre-el-carbono.png"
-original: "False"
+original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "DRAFT"
 

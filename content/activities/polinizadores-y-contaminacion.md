@@ -7,7 +7,7 @@ description: "Investiga cómo la contaminación del aire afecta a los polinizado
 summary: "Investiga cómo la contaminación del aire afecta a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

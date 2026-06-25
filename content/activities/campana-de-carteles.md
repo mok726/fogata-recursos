@@ -7,7 +7,7 @@ description: "Actividad que anima a los jóvenes a crear carteles sobre la conta
 summary: "Actividad que anima a los jóvenes a crear carteles sobre la contaminación por plásticos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

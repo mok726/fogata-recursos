@@ -7,7 +7,7 @@ description: "Investiga unidades de medida energética (julios, kWh)."
 summary: "Investiga unidades de medida energética (julios, kWh)."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

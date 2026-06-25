@@ -7,7 +7,7 @@ description: "Investiga quiénes son más vulnerables al cambio climático y có
 summary: "Investiga quiénes son más vulnerables al cambio climático y cómo puedes ayudarlos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

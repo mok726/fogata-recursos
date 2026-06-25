@@ -7,7 +7,7 @@ description: "Vive sin dispositivos electrónicos durante un mes y registra tus 
 summary: "Vive sin dispositivos electrónicos durante un mes y registra tus experiencias."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

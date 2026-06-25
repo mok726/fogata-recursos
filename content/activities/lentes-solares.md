@@ -7,7 +7,7 @@ description: "Crea tus propios lentes de Sol para proteger tus ojos de los rayos
 summary: "Crea tus propios lentes de Sol para proteger tus ojos de los rayos UV. Esta actividad enseña la importancia de proteger los ojos del Sol, especialmente al usar cocinas solares o durante actividades al aire libre."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

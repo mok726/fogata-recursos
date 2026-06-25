@@ -6,7 +6,7 @@ description: "Investiga el significado cultural del agua en diferentes regiones.
 summary: "Investiga el significado cultural del agua en diferentes regiones."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

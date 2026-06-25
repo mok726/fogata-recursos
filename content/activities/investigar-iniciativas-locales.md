@@ -7,7 +7,7 @@ description: "Investiga qué hace tu comunidad para proteger el medio ambiente."
 summary: "Investiga qué hace tu comunidad para proteger el medio ambiente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Investiga cuánto tiempo tardan en descomponerse diferentes elemen
 summary: "Investiga cuánto tiempo tardan en descomponerse diferentes elementos de la basura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Organiza un día en tu escuela o centro comunitario para que los a
 summary: "Organiza un día en tu escuela o centro comunitario para que los apicultores locales muestren y vendan sus productos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

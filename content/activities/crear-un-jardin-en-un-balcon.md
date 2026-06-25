@@ -7,7 +7,7 @@ description: "Si no tienes un jardín, crea un jardín en macetas en tu balcón.
 summary: "Si no tienes un jardín, crea un jardín en macetas en tu balcón."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

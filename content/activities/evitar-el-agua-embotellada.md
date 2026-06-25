@@ -7,7 +7,7 @@ description: "Deja de comprar agua embotellada si el agua de tu grifo es segura.
 summary: "Deja de comprar agua embotellada si el agua de tu grifo es segura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

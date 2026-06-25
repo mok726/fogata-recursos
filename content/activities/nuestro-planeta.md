@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes aprender sobre los desa
 summary: "Esta actividad permite a los participantes aprender sobre los desafíos que enfrenta nuestro planeta y cómo pueden protegerlo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

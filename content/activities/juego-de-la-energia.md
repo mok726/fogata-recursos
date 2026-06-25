@@ -7,7 +7,7 @@ description: "Aprende sobre fuentes de energía mediante un juego de movimientos
 summary: "Aprende sobre fuentes de energía mediante un juego de movimientos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

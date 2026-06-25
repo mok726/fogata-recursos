@@ -7,7 +7,7 @@ description: "Representación de los tres componentes de la biodiversidad."
 summary: "Representación de los tres componentes de la biodiversidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

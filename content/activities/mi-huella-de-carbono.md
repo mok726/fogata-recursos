@@ -7,7 +7,7 @@ description: "Juego para identificar acciones personales contra el cambio climá
 summary: "Juego para identificar acciones personales contra el cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes descubrir la biodiversi
 summary: "Esta actividad permite a los participantes descubrir la biodiversidad en su entorno utilizando una aplicación móvil."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

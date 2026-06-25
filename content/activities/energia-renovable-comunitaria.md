@@ -7,7 +7,7 @@ description: "Investiga la fuente de energía de tu escuela/hogar."
 summary: "Investiga la fuente de energía de tu escuela/hogar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

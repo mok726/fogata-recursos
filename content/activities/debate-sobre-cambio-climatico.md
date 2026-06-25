@@ -7,7 +7,7 @@ description: "Investiga y debate cómo los humanos afectan el ciclo del carbono.
 summary: "Investiga y debate cómo los humanos afectan el ciclo del carbono."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

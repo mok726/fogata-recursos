@@ -11,7 +11,7 @@ summary: |
   Organiza un evento para elevar la conciencia pública sobre un tema local.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

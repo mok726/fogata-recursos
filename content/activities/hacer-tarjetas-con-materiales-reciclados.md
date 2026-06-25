@@ -7,7 +7,7 @@ description: "Crea tarjetas de felicitación con materiales reusados."
 summary: "Crea tarjetas de felicitación con materiales reusados."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

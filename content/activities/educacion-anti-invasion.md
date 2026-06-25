@@ -15,7 +15,7 @@ source:
 
 # ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/educacion-anti-invasion.png"
-original: "False"
+original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "DRAFT"
 

@@ -7,7 +7,7 @@ description: "Analiza emisiones de CO₂ por país y crea un póster."
 summary: "Analiza emisiones de CO₂ por país y crea un póster."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

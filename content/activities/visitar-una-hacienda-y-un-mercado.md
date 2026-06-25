@@ -7,7 +7,7 @@ description: "Aprende sobre la producción local de alimentos."
 summary: "Aprende sobre la producción local de alimentos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

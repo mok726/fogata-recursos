@@ -7,7 +7,7 @@ description: "Reflexiona en grupo sobre cómo los polinizadores están relaciona
 summary: "Reflexiona en grupo sobre cómo los polinizadores están relacionados con los Objetivos de Desarrollo Sostenible (ODS). Crea un póster para tu escuela o comunidad que explique cómo los polinizadores nos ayudan a alcanzar los ODS."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

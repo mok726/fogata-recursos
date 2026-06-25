@@ -7,7 +7,7 @@ description: "Organiza una carrera, concierto o bazar para recaudar fondos."
 summary: "Organiza una carrera, concierto o bazar para recaudar fondos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

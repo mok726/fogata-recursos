@@ -7,7 +7,7 @@ description: "Esta actividad ayuda a los participantes a comprender cómo pueden
 summary: "Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

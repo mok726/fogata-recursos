@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes explorar las conexiones
 summary: "Esta actividad permite a los participantes explorar las conexiones entre las plantas y los animales en un ecosistema."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

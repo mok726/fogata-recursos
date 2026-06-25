@@ -7,7 +7,7 @@ description: "Representa un ODS mediante una obra de teatro sin nombrarlo."
 summary: "Representa un ODS mediante una obra de teatro sin nombrarlo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

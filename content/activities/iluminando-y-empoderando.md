@@ -7,7 +7,7 @@ description: "Organiza un 'Día de Conciencia Energética' en tu comunidad."
 summary: "Organiza un 'Día de Conciencia Energética' en tu comunidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

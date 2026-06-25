@@ -7,7 +7,7 @@ description: "Recolecta y estudia diferentes tipos de rocas para entender su rel
 summary: "Recolecta y estudia diferentes tipos de rocas para entender su relación con el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

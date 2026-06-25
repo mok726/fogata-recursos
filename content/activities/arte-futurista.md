@@ -7,7 +7,7 @@ description: "Los participantes imaginan cómo será su ciudad en 100 años debi
 summary: "Los participantes imaginan cómo será su ciudad en 100 años debido al cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

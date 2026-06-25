@@ -7,7 +7,7 @@ description: "Participa en proyectos de ciencia ciudadana para ayudar a los poli
 summary: "Participa en proyectos de ciencia ciudadana para ayudar a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

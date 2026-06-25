@@ -7,7 +7,7 @@ description: "Demuestra cómo la luz solar afecta el crecimiento de las plantas.
 summary: "Demuestra cómo la luz solar afecta el crecimiento de las plantas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

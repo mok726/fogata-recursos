@@ -7,7 +7,7 @@ description: "Lleva un almuerzo sin desperdicios a la escuela."
 summary: "Lleva un almuerzo sin desperdicios a la escuela."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

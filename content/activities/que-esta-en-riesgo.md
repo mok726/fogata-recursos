@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes experimentar los efecto
 summary: "Esta actividad permite a los participantes experimentar los efectos de las especies invasoras en un ecosistema."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -6,7 +6,7 @@ description: "Investiga de dónde proviene el agua local y cómo se trata."
 summary: "Investiga de dónde proviene el agua local y cómo se trata."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

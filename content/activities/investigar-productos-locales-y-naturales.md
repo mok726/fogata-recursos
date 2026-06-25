@@ -7,7 +7,7 @@ description: "Investiga sobre productos y textiles hechos con fibras naturales l
 summary: "Investiga sobre productos y textiles hechos con fibras naturales locales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

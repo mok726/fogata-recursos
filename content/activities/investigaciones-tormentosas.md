@@ -7,7 +7,7 @@ description: "Los participantes investigan los fenómenos de El Niño y La Niña
 summary: "Los participantes investigan los fenómenos de El Niño y La Niña."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

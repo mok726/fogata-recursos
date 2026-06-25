@@ -7,7 +7,7 @@ description: "Elaboración de colorantes con plantas."
 summary: "Elaboración de colorantes con plantas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

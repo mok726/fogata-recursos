@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes aprender sobre el proce
 summary: "Esta actividad permite a los participantes aprender sobre el proceso de reforestación y la importancia de los árboles."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

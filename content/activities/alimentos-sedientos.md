@@ -6,7 +6,7 @@ description: "Investiga cuánta agua se necesita para producir diferentes alimen
 summary: "Investiga cuánta agua se necesita para producir diferentes alimentos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

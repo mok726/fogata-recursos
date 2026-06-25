@@ -7,7 +7,7 @@ description: "Visita un mercado local para aprender sobre productos y textiles l
 summary: "Visita un mercado local para aprender sobre productos y textiles locales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

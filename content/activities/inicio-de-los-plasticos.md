@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a comprender que el uso del pl�
 summary: "Actividad que ayuda a los jóvenes a comprender que el uso del plástico es un fenómeno reciente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

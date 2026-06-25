@@ -7,7 +7,7 @@ description: "Visita una operación apícola local para aprender más sobre su t
 summary: "Visita una operación apícola local para aprender más sobre su trabajo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

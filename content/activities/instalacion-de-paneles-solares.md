@@ -7,7 +7,7 @@ description: "Investiga sobre la instalación de paneles solares en tu casa, esc
 summary: "Investiga sobre la instalación de paneles solares en tu casa, escuela o lugar de encuentro."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

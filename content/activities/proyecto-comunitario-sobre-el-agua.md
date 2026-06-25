@@ -7,7 +7,7 @@ description: "Actividad para crear un proyecto comunitario que promueva el ahorr
 summary: "Actividad para crear un proyecto comunitario que promueva el ahorro de agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -6,7 +6,7 @@ description: "Visita una industria local y aprende sobre el tratamiento de aguas
 summary: "Visita una industria local y aprende sobre el tratamiento de aguas residuales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

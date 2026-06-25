@@ -1,136 +1,197 @@
 ---
-title: "LA VIDA EN LOS ÁRBOLES"
-duration: "3 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "La Vida en los Árboles"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-vida-en-los-arboles/"
-description: "Investiga culturas que construyen casas en árboles y haz una réplica."
-summary: "Investiga culturas que construyen casas en árboles y haz una réplica."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Aprende sobre dos poblaciones indígenas que construyen casas en el bosque. Construye una réplica en miniatura de una de estas casas."
+summary: "Investigación sobre pueblos indígenas que construyen casas en los árboles."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/la-vida-en-los-arboles.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Materiales para maqueta (palos
-  - hojas
-  - etc.)
-  - Pegamento
-tools:
-  - Tijeras
-competencies:
-  - Investigación y Gestión de Datos
-  - Habilidades Prácticas y Técnicas
-  - Creatividad y Expresión
-responsible:
-  - Scouter o arquitecto
+  - Materiales para construir réplica (palos, hojas, cuerdas, pegamento, etc.)
+  - Material de investigación
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 11
+  - 4   # Educación de calidad
+  - 10  # Reducción de las desigualdades
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C17"
-rama_lobatos:
-  - 21
-  - 27
-rama_scouts:
-  - 11
-  - 15
-rama_caminantes:
-  - 11
-  - 15
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine scout room, with a miniature model on a table in the center-left of a treehouse (Korowai style or similar), made of sticks, leaves, and twine. A sign 'Casas en árboles - Cultura Korowai'. Photos of real treehouses. The left side has open space for text. On the far right side, two tiny older scouts (11-21) kneel, one adjusting a twig on the model, the other looking at a photo, seen from a distance. The treehouse model environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - casas en árboles
-  - Korowai
-  - construcción indígena
-  - maqueta
-  - hábitat
-  - Insignia de los Bosques
+  - pueblos-indigenas
+  - arquitectura
+  - cultura
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 3  # Actividad creativa y manual
+reflective_component: 3  # Reflexión sobre culturas indígenas
+active_component: 2  # Actividad manual moderada
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere habilidades manuales
+complexity_organizer: 3  # Requiere preparación de materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Arte"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Intricate treehouse structures built by indigenous peoples in tropical forests dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building miniature replicas of treehouses. Indigenous architecture and cultural appreciation atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
-activity_type:
-  - Arquitectura
-  - Modelado
-category:
-  - Arquitectura
-  - Antropología
-  - Diseño
-skills:
-  - Investigación
+space_required: "Espacio para construir réplicas"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Creatividad
+  - Conciencia cultural
   - Habilidades manuales
-  - Diseño
-main_type: "Aprender haciendo"
-space_required: "Salón amplio"
-special_materials:
-  - palitos
-  - hojas secas
-  - cuerdas
-  - pegamento
-  - tijeras
-  - pinturas
-  - fotos de referencia
-prep_time: "25 min investigación + 45 min construcción"
+
+activity_type:
+  - Arte
+  - Investigación
+  - Aprender haciendo
+
+category:
+  - Pueblos indígenas
+  - Arquitectura
+  - Cultura
+
+skills:
+  - Creatividad
+  - Investigación
+  - Conciencia cultural
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
+  - Creatividad e Ingenio
+  - Curiosidad y Apertura al aprendizaje
   - Respeto al prójimo
-  - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 43  # Comparto mis pasatiempos y especialidades con amigas y amigos.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades y tecnologías.
+  - 38  # Afronto creativamente los desafíos y problemas.
+
+rama_rovers:
+  - 6   # Exploro mis intereses vocacionales, descubro mis posibilidades.
+  - 7   # Aplico técnicas y tecnologías de la información disponibles.
 ---
 
-# LA VIDA EN LOS ÁRBOLES
+# La Vida en los Árboles
 
 ## Resumen
-Investiga culturas que construyen casas en árboles y haz una réplica.
+Aprende sobre dos poblaciones indígenas que construyen casas en el bosque. Construye una réplica en miniatura de una de estas casas.
+
+## Preparación
+1. Investiga sobre pueblos indígenas que construyen casas en los árboles (ej. Korowai en Papúa Occidental).
+2. Elige dos poblaciones para investigar.
+3. Reúne los materiales para la réplica (palos, hojas, cuerdas, etc.).
 
 ## Desarrollo
-Algunos pueblos basados en el bosque, como los Korowai en Papúa Occidental, construyen increíbles casas en los árboles en medio de la jungla. Aprende sobre dos poblaciones indígenas que construyen cabañas, hamacas o casas temporales o permanentes en el bosque. Construye una réplica en miniatura de una de estas casas.
+1. **Investigación** (20 min): Aprende sobre dos poblaciones indígenas y sus construcciones.
+2. **Análisis** (10 min): Compara las técnicas y materiales de construcción.
+3. **Creación** (30-45 min): Construye una réplica en miniatura de una de las casas.
+4. **Presentación** (15 min): Comparte tu trabajo con el grupo.
 
 ## Cierre
-¿Qué ventajas arquitectónicas ofrecen estas construcciones?
+- ¿Qué aprendiste sobre los pueblos indígenas que viven en los árboles?
+- ¿Qué relación tienen estas comunidades con el bosque?
+- ¿Qué compromiso adquieres para respetar y valorar las culturas indígenas?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

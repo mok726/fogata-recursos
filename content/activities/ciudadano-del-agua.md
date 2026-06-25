@@ -7,7 +7,7 @@ description: "Actividad para escribir a representantes de gobierno sobre cuestio
 summary: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

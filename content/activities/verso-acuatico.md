@@ -6,7 +6,7 @@ description: "Escribe un poema humorístico sobre el agua."
 summary: "Escribe un poema humorístico sobre el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -15,7 +15,7 @@ source:
 
 # ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/al-blog-bosques.png"
-original: "False"
+original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "DRAFT"
 

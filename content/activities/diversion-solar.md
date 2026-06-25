@@ -7,7 +7,7 @@ description: "Realiza un experimento artístico con energía solar."
 summary: "Realiza un experimento artístico con energía solar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

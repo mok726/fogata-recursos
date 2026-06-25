@@ -7,7 +7,7 @@ description: "Crea pinturas usando tierra de diferentes colores."
 summary: "Crea pinturas usando tierra de diferentes colores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

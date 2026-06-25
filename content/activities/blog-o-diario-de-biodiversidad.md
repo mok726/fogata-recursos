@@ -7,7 +7,7 @@ description: "Comunicación digital/escrita."
 summary: "Comunicación digital/escrita."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

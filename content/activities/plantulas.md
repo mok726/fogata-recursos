@@ -1,136 +1,202 @@
 ---
-title: "PLÁNTULAS"
-duration: "2-3 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Plántulas"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/plantulas/"
-description: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
-summary: "Planta plántulas de árboles forestales y discute su cuidado a largo plazo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Planta plántulas de árboles forestales con tu grupo. Discute sobre el proceso de plantación y el cuidado necesario."
+summary: "Plantación y cuidado de plántulas forestales."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/plantulas.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Plántulas de árboles
+  - Plántulas de árboles forestales
   - Pala
+  - Tierra/compost
   - Agua
-  - Fertilizante o compost (opcional)
-tools:
-  - Pala
-  - Guantes
+  - Guantes de jardinería
+tools: []
 responsible:
-  - Scouter o guardabosques
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 15
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-A08"
-rama_lobatos:
-  - 24
-  - 25
-rama_scouts:
-  - 15
-  - 31
-rama_caminantes:
-  - 15
-  - 29
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An Argentine garden or reforestation site, with a row of young native tree seedlings in pots or freshly planted in the ground in the center-left. A bag of compost, a shovel, and a watering can. A sign 'Plantación de árboles nativos'. The left side has open space for text. On the far right side, a group of tiny scouts (5-21) kneel, one placing a seedling in a hole, another pouring water, a third adding compost, seen from a distance. The tree planting environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
+  - plantacion
   - plántulas
-  - árboles
-  - plantar
-  - nativos
-  - cuidado
-  - Insignia de los Bosques
+  - reforestacion
+  - seccion-a
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Actividad práctica
+reflective_component: 3  # Reflexión sobre cuidado
+active_component: 4  # Plantación y trabajo físico
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere habilidades básicas
+complexity_organizer: 3  # Requiere preparación
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Aprender haciendo"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young tree seedlings being planted in forest soil with gardening tools dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting seedlings and caring for them. Reforestation and nature care atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Exterior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
+space_required: "Espacio con tierra para plantar"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
 accessibility:
-  - -Movilidad
+  - -Motora  # Requiere actividad física
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Trabajo en equipo
+  - Conciencia ambiental
+  - Responsabilidad
+
 activity_type:
-  - Servicio
-  - Reforestación
+  - Aprender haciendo
+  - Servicio a los demás
+  - Sensibilización
+
 category:
   - Reforestación
-  - Ecología
-  - Servicio
+  - Plantación
+  - Cuidado ambiental
+
 skills:
   - Trabajo en equipo
   - Responsabilidad
-  - Conocimiento práctico
-main_type: "Servicio a los demás"
-space_required: "Exterior abierto"
-special_materials:
-  - plántulas nativas
-  - palas
-  - agua
-  - compost (opcional)
-  - guantes
-  - tutores (opcional)
-prep_time: "20 min + plantación + seguimiento"
+  - Conservación
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Responsabilidad
-  - Solidaridad
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
-ludic_component: 3
-reflective_component: 3
-active_component: 4
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Naturaleza
+  - Superación personal
 
+scout_method:
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+  - 27  # Comprendo que en la naturaleza todo está relacionado.
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente y adopto un estilo de vida responsable.
+  - 32  # Utilizo los recursos naturales de forma consciente.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible.
+  - 30  # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental.
+
+rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# PLÁNTULAS
+# Plántulas
 
 ## Resumen
-Planta plántulas de árboles forestales y discute su cuidado a largo plazo.
+Planta plántulas de árboles forestales con tu grupo. Discute sobre el proceso de plantación y el cuidado necesario.
+
+## Preparación
+1. Consigue plántulas de árboles forestales.
+2. Prepara herramientas de jardinería (pala, guantes, etc.).
+3. Encuentra un lugar adecuado para plantar.
 
 ## Desarrollo
-Con tu grupo, planta algunas plántulas de árboles forestales. Discutan sobre la forma cómo las plantaron (por ejemplo, ¿qué tan profundo era cada hoyo? ¿Qué tan espaciadas se plantaron las plántulas? ¿Añadieron algo en el hoyo antes de colocar la plántula, como fertilizante o compost?). ¿Las plántulas necesitan algún tipo de cuidado especial, por ejemplo, cuando hay una temporada fría? Hablen sobre cómo continuarán cuidando de las plántulas con el fin de que sobrevivan.
+1. **Preparación** (15 min): Prepara el hoyo y el suelo.
+2. **Plantación** (15 min): Planta las plántulas con cuidado.
+3. **Discusión** (15 min): Discute cómo las plantaron y los cuidados necesarios.
+4. **Planificación** (10 min): Planifica cómo continuarán cuidando las plántulas.
 
 ## Cierre
-¿Por qué es importante plantar árboles nativos? ¿Cómo contribuye esto al bosque?
+- ¿Qué aprendiste sobre la plantación de árboles?
+- ¿Qué cuidados necesitan las plántulas?
+- ¿Qué compromiso adquieres para cuidar las plántulas?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -7,7 +7,7 @@ description: "Dibuja una cadena alimenticia local y reflexiona sobre su conexió
 summary: "Dibuja una cadena alimenticia local y reflexiona sobre su conexión con el carbono."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

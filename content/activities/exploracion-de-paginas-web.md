@@ -7,7 +7,7 @@ description: "Navegación en plataformas científicas."
 summary: "Navegación en plataformas científicas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

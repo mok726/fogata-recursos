@@ -7,7 +7,7 @@ description: "Demuestra cómo distintas superficies absorben calor."
 summary: "Demuestra cómo distintas superficies absorben calor."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

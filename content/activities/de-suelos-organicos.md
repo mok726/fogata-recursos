@@ -7,7 +7,7 @@ description: "Investiga productos orgánicos y de comercio justo en tu supermerc
 summary: "Investiga productos orgánicos y de comercio justo en tu supermercado local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

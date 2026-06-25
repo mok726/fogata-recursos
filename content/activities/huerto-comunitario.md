@@ -7,7 +7,7 @@ description: "Cultivo de alimentos biodiversos."
 summary: "Cultivo de alimentos biodiversos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

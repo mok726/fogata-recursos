@@ -7,7 +7,7 @@ description: "Planta un árbol o planta y cuida de él para entender la importan
 summary: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

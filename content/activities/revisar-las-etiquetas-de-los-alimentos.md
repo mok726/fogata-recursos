@@ -11,7 +11,7 @@ summary: |
   Averigua de dónde viene tu comida y cómo afecta al clima.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

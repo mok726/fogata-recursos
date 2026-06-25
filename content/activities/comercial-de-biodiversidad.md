@@ -7,7 +7,7 @@ description: "Creación de contenido audiovisual."
 summary: "Creación de contenido audiovisual."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

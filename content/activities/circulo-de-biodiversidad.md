@@ -7,7 +7,7 @@ description: "Estudio intensivo de 1m² de naturaleza."
 summary: "Estudio intensivo de 1m² de naturaleza."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

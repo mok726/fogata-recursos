@@ -7,7 +7,7 @@ description: "Averigua qué productos son reciclables en tu vecindario y cómo s
 summary: "Averigua qué productos son reciclables en tu vecindario y cómo se reciclan."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

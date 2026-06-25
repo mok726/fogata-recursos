@@ -7,7 +7,7 @@ description: "Observa cómo los animales interactúan con el suelo en un zoológ
 summary: "Observa cómo los animales interactúan con el suelo en un zoológico o parque."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

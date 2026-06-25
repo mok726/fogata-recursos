@@ -7,7 +7,7 @@ description: "Construye un hotel para abejas en tu hogar, escuela o jardín comu
 summary: "Construye un hotel para abejas en tu hogar, escuela o jardín comunitario. Monitorea el hotel para ver si atrae abejas y observa qué tipos de abejas lo visitan."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

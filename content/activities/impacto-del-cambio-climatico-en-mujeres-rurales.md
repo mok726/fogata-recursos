@@ -7,7 +7,7 @@ description: "Aprende cómo el cambio climático afecta a las mujeres rurales."
 summary: "Aprende cómo el cambio climático afecta a las mujeres rurales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

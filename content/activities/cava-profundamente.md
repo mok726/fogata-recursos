@@ -7,7 +7,7 @@ description: "Visita espacios naturales y examina el suelo, identificando sus ca
 summary: "Visita espacios naturales y examina el suelo, identificando sus características y biodiversidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

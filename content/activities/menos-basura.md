@@ -7,7 +7,7 @@ description: "Organiza una jornada de limpieza para recoger basura en tu comunid
 summary: "Organiza una jornada de limpieza para recoger basura en tu comunidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

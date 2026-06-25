@@ -7,7 +7,7 @@ description: "Los participantes investigan cuánta energía se usa para producir
 summary: "Los participantes investigan cuánta energía se usa para producir sus alimentos favoritos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

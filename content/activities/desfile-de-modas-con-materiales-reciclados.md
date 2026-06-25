@@ -7,7 +7,7 @@ description: "Haz un desfile de modas con vestuario elaborado con materiales rec
 summary: "Haz un desfile de modas con vestuario elaborado con materiales reciclados."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

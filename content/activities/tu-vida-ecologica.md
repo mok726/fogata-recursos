@@ -7,7 +7,7 @@ description: "Esta actividad se centra en cómo contribuir a la sostenibilidad c
 summary: "Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos personales diarios. Los participantes reflexionan sobre sus hábitos de gestión de residuos y sugieren formas de mejorar sus prácticas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

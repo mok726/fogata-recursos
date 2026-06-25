@@ -7,7 +7,7 @@ description: "Planea una excursión scout con mínima huella de carbono."
 summary: "Planea una excursión scout con mínima huella de carbono."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

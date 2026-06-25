@@ -7,7 +7,7 @@ description: "Actividad que anima a los jóvenes a crear obras de arte con plás
 summary: "Actividad que anima a los jóvenes a crear obras de arte con plásticos desechados."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

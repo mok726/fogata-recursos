@@ -7,7 +7,7 @@ description: "Organiza una exposición sobre cómo llevar una vida amigable con 
 summary: "Organiza una exposición sobre cómo llevar una vida amigable con el medio ambiente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

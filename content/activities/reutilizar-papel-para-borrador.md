@@ -7,7 +7,7 @@ description: "Reúne tus papeles para borrador y úsalos para dibujar o escribir
 summary: "Reúne tus papeles para borrador y úsalos para dibujar o escribir notas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

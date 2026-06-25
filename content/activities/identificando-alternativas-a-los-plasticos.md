@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a reducir el uso de productos p
 summary: "Actividad que ayuda a los jóvenes a reducir el uso de productos plásticos mediante la búsqueda de alternativas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Experimento para entender el calentamiento global."
 summary: "Experimento para entender el calentamiento global."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Los participantes hablan con personas mayores sobre los cambios en
 summary: "Los participantes hablan con personas mayores sobre los cambios en el clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

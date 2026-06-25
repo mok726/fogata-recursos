@@ -6,7 +6,7 @@ description: "Crea un póster sobre las presiones que afectan los suministros de
 summary: "Crea un póster sobre las presiones que afectan los suministros de agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

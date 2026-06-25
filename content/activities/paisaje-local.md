@@ -7,7 +7,7 @@ description: "Investiga qué tipos de ecosistemas existen en tu área y qué pol
 summary: "Investiga qué tipos de ecosistemas existen en tu área y qué polinizadores los habitan."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

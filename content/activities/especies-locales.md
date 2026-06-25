@@ -7,7 +7,7 @@ description: "Investiga cuáles son los principales polinizadores en tu región.
 summary: "Investiga cuáles son los principales polinizadores en tu región."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

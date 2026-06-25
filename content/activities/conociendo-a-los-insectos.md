@@ -7,7 +7,7 @@ description: "Estudia un insecto o artrópodo que vive en el suelo y su contribu
 summary: "Estudia un insecto o artrópodo que vive en el suelo y su contribución al ecosistema."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

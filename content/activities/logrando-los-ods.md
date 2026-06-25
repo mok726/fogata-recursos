@@ -7,7 +7,7 @@ description: "Diseña un póster sobre un ODS y cómo contribuir a él."
 summary: "Diseña un póster sobre un ODS y cómo contribuir a él."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

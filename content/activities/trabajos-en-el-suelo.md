@@ -7,7 +7,7 @@ description: "Enumera trabajos que dependen del suelo y juega a adivinarlos."
 summary: "Enumera trabajos que dependen del suelo y juega a adivinarlos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

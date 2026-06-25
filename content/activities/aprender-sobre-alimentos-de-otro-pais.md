@@ -7,7 +7,7 @@ description: "Elige un país y aprende sobre los alimentos que producen y consum
 summary: "Elige un país y aprende sobre los alimentos que producen y consumen."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

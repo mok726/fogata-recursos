@@ -7,7 +7,7 @@ description: "Comparte y reusa tus pertenencias cuando ya no las necesitas."
 summary: "Comparte y reusa tus pertenencias cuando ya no las necesitas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

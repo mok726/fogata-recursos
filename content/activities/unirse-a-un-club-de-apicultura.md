@@ -7,7 +7,7 @@ description: "Únete a un club de apicultura o crea uno en tu comunidad."
 summary: "Únete a un club de apicultura o crea uno en tu comunidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

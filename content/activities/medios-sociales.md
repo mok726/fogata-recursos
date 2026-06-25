@@ -7,7 +7,7 @@ description: "Usa redes sociales para crear conciencia sobre la importancia del 
 summary: "Usa redes sociales para crear conciencia sobre la importancia del suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

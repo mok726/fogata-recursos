@@ -6,7 +6,7 @@ description: "Construye barcos y balsas para entender el transporte de bienes po
 summary: "Construye barcos y balsas para entender el transporte de bienes por agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

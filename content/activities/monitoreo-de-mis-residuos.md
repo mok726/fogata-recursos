@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes comprender la cantidad 
 summary: "Esta actividad permite a los participantes comprender la cantidad de residuos que producen y cómo pueden reducirlos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

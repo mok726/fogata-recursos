@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a identificar las causas de tir
 summary: "Actividad que ayuda a los jóvenes a identificar las causas de tirar basura y la perspectiva de las personas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

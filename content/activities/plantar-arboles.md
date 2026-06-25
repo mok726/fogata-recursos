@@ -7,7 +7,7 @@ description: "Participa en un proyecto para plantar árboles."
 summary: "Participa en un proyecto para plantar árboles."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

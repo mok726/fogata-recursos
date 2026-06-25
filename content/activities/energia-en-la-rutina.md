@@ -7,7 +7,7 @@ description: "Analiza cómo usas la energía en tus actividades diarias."
 summary: "Analiza cómo usas la energía en tus actividades diarias."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

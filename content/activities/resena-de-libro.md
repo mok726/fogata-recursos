@@ -7,7 +7,7 @@ description: "Lee un libro sobre polinizadores y comparte lo que aprendiste."
 summary: "Lee un libro sobre polinizadores y comparte lo que aprendiste."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Crea un póster sobre los efectos de la contaminación en el suelo
 summary: "Crea un póster sobre los efectos de la contaminación en el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

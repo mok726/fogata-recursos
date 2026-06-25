@@ -7,7 +7,7 @@ description: "Observa cómo el agua erosiona diferentes tipos de suelo."
 summary: "Observa cómo el agua erosiona diferentes tipos de suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

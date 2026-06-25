@@ -7,7 +7,7 @@ description: "Habla con expertos locales sobre cómo el cambio climático afecta
 summary: "Habla con expertos locales sobre cómo el cambio climático afecta a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

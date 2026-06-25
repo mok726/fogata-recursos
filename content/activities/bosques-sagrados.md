@@ -1,116 +1,199 @@
 ---
-title: "BOSQUES SAGRADOS"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Bosques Sagrados"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-sagrados/"
-description: "Investiga tres comunidades que consideren sagrados a los bosques."
-summary: "Investiga tres comunidades que consideren sagrados a los bosques."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Investiga tres comunidades indígenas o religiones que valoren los bosques como lugares sagrados. Comparte tus hallazgos."
+summary: "Investigación sobre el valor sagrado de los bosques."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/bosques-sagrados.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
   - rovers
-competencies:
-  - Investigación y Gestión de Datos
-  - Ciudadanía y Conciencia Social
-  - Pensamiento Crítico y Análisis
-responsible:
-  - Scouter o líder religioso
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Material de investigación (libros, internet)
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 16
+  - 10  # Reducción de las desigualdades
+  - 15  # Vida de ecosistemas terrestres
+  - 16  # Paz, justicia e instituciones sólidas
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C12"
-rama_lobatos:
-  - 12
-  - 21
-rama_scouts:
-  - 11
-  - 16
-rama_caminantes:
-  - 11
-  - 16
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing three sacred forest traditions: India's sacred groves (Devarakadus), Japan's Shinto shrine forests, Amazonian indigenous beliefs. Photos and short descriptions. A laptop with additional research. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the Shinto shrine, the other at the Amazonian shaman, seen from a distance. The sacred forests research environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - bosques sagrados
   - espiritualidad
-  - religión
-  - culturas indígenas
-  - tabús
-  - Insignia de los Bosques
+  - pueblos-indigenas
+  - cultura
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 5  # Alta reflexión espiritual y cultural
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A sacred forest with spiritual elements and ancient rituals dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, learning about spiritual connections to forests. Cultural and spiritual respect atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+space_required: "Salón para investigar y presentar"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Conciencia cultural
+  - Investigación
+  - Respeto a la diversidad
+
 activity_type:
   - Investigación
+  - Reflexión
+  - Debate / Diálogo
+
 category:
-  - Religión
-  - Antropología
-  - Ecología
+  - Espiritualidad
+  - Pueblos indígenas
+  - Cultura
+
 skills:
   - Investigación
-  - Respeto religioso
-  - Pensamiento crítico
-main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "25 min"
+  - Conciencia cultural
+  - Empatía
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Espiritualidad / Búsqueda interior
+  - Respeto al prójimo
+  - Curiosidad y Apertura al aprendizaje
+
 scout_method:
   - Aprender haciendo
-ludic_component: 1
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 13  # Respeto las diversas tradiciones y expresiones culturales de las colectividades.
+  - 22  # Comprendo que mis creencias se tienen que notar por la forma en que actúo.
+
+rama_scouts:
+  - 22  # Fomento el respeto a la diversidad en todas sus formas.
+  - 28  # Dialogo con los demás sobre lo que creo y busco conocer lo que los otros creen.
+
+rama_caminantes:
+  - 21  # Cuestiono mis prejuicios y estereotipos culturales.
+  - 26  # Me cuestiono sobre las posturas respecto al origen, la grandeza y belleza.
+
+rama_rovers:
+  - 34  # Me cuestiono sobre las grandes preguntas que dan sentido a la existencia.
+  - 35  # Promuevo el diálogo y el entendimiento más allá de las creencias personales.
 ---
 
-# BOSQUES SAGRADOS
+# Bosques Sagrados
 
 ## Resumen
-Investiga tres comunidades que consideren sagrados a los bosques.
+Investiga tres comunidades indígenas o religiones que valoren los bosques como lugares sagrados, espirituales o religiosos. Comparte tus hallazgos con tu grupo.
+
+## Preparación
+1. Elige tres comunidades indígenas o religiones que valoren los bosques.
+2. Reúne materiales de investigación sobre sus creencias y prácticas.
 
 ## Desarrollo
-Para algunos grupos de personas, el bosque es un lugar sagrado, espiritual o religioso. Elige tres comunidades indígenas o religiones que valoren a los bosques de esta manera. Investiga por qué el bosque es importante para cada uno de ellos. ¿Cómo usan el bosque? ¿Qué partes del bosque usan? ¿Cuándo usan el bosque? ¿Cuáles son, si es que hay alguno, los tabús (cosas que no está bien hacer) del bosque? ¿Por qué crees que el bosque fue elegido como un lugar especial, en vez del centro de la ciudad, por ejemplo? Comparte tus hallazgos con tu grupo.
+1. **Investigación** (30 min): Investiga por qué el bosque es importante para cada grupo.
+2. **Análisis** (15 min): Analiza cómo usan el bosque, qué partes usan y cuándo.
+3. **Reflexión** (15 min): Piensa en los tabús del bosque y por qué fue elegido como lugar especial.
+4. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
 
 ## Cierre
-¿Qué enseñanzas espirituales ofrecen los bosques?
+- ¿Qué aprendiste sobre el valor sagrado de los bosques?
+- ¿Cómo influye la espiritualidad en la conservación de los bosques?
+- ¿Qué compromiso adquieres para respetar las creencias de otras culturas?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

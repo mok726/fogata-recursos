@@ -7,7 +7,7 @@ description: "Explora los parques locales y evalúa qué tan amigables son para 
 summary: "Explora los parques locales y evalúa qué tan amigables son para los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

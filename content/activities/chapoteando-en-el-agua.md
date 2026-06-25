@@ -6,7 +6,7 @@ description: "Observa charcos después de la lluvia y dibuja la vida alrededor d
 summary: "Observa charcos después de la lluvia y dibuja la vida alrededor de ellos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

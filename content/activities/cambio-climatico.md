@@ -6,7 +6,7 @@ description: "Investiga los efectos del cambio climático en los recursos hídri
 summary: "Investiga los efectos del cambio climático en los recursos hídricos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Investigación de diversidad genética."
 summary: "Investigación de diversidad genética."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

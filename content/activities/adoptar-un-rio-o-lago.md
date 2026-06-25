@@ -7,7 +7,7 @@ description: "Adopta un río, lago u otra área y monitorea su recuperación."
 summary: "Adopta un río, lago u otra área y monitorea su recuperación."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

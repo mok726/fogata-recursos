@@ -7,7 +7,7 @@ description: "Analiza si el tiradero de basura local es sostenible."
 summary: "Analiza si el tiradero de basura local es sostenible."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

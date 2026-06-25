@@ -7,7 +7,7 @@ description: "Evita los viajes aéreos cuando sea posible y considera compensaci
 summary: "Evita los viajes aéreos cuando sea posible y considera compensaciones de carbono."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

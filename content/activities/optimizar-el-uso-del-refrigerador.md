@@ -7,7 +7,7 @@ description: "Ayuda a tus padres a instalar y descongelar el refrigerador adecua
 summary: "Ayuda a tus padres a instalar y descongelar el refrigerador adecuadamente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

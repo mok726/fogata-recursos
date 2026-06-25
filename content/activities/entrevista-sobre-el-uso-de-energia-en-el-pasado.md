@@ -7,7 +7,7 @@ description: "Haz una entrevista a tu abuelo o a un amigo anciano para aprender 
 summary: "Haz una entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían antes y compara su uso de energía con el tuyo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

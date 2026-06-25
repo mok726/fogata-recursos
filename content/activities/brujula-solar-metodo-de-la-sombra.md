@@ -7,7 +7,7 @@ description: "Aprende a orientarte utilizando la sombra de un palo y el movimien
 summary: "Aprende a orientarte utilizando la sombra de un palo y el movimiento del Sol."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

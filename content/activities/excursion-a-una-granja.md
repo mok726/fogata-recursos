@@ -7,7 +7,7 @@ description: "Visita una granja local para aprender sobre agricultura sostenible
 summary: "Visita una granja local para aprender sobre agricultura sostenible y cómo protegen a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

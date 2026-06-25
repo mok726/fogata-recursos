@@ -7,7 +7,7 @@ description: "Crea un móvil que muestre 8 formas en que el Sol sustenta la vida
 summary: "Crea un móvil que muestre 8 formas en que el Sol sustenta la vida."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

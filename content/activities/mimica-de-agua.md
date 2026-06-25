@@ -6,7 +6,7 @@ description: "Juego de mímica con palabras relacionadas con el agua."
 summary: "Juego de mímica con palabras relacionadas con el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

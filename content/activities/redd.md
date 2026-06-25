@@ -1,130 +1,194 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "REDD+"
-duration: "2 horas"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/redd/"
-description: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
-summary: "Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Graba un podcast o escribe un artículo para explicar el REDD+, cómo funciona y su potencial para la biodiversidad forestal. Da tu opinión sobre este."
+summary: "Investigación y comunicación sobre REDD+."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/redd.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "16-22 años"
 age_group:
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Equipo de grabación (opcional)
-  - Recursos sobre REDD+
-tools:
-  - Computadora (opcional)
-competencies:
-  - Comunicación Efectiva
-  - Pensamiento Crítico y Análisis
-  - Sostenibilidad y Medio Ambiente
-responsible:
-  - Scouter o experto en políticas ambientales
+  - Material de investigación sobre REDD+
+  - Equipo para podcast o material para artículo
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
-  - 15
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+  - 17  # Alianzas para lograr los objetivos
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B16"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 13
-  - 15
-rama_caminantes:
-  - 13
-  - 15
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a podcast recording setup in the center-left: a microphone on a stand, a laptop with a script about REDD+ (reducing emissions from deforestation), and a poster explaining carbon credits and safeguards. A 'REC' light on. The left side has open space for text. On the far right side, a tiny older scout (16-21) speaks into the microphone, another adjusts the laptop, seen from a distance. The REDD+ podcast environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - REDD+
-  - carbono forestal
-  - deforestación
-  - mitigación
-  - pagos por servicios ambientales
-  - Insignia de los Bosques
+  - REDD
+  - carbono
+  - cambio-climatico
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 5  # Alta reflexión sobre política climática
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 3  # Requiere preparación de podcast/artículo
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Visual representation of REDD+ program with forests and carbon credits dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, recording a podcast or writing about climate solutions. Environmental policy and climate action atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-activity_type:
-  - Comunicación
-  - Análisis
-category:
-  - Clima
-  - Política
-  - Economía
-skills:
+space_required: "Salón para investigar y grabar/escribir"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Investigación
   - Comunicación
   - Pensamiento crítico
-  - Conciencia climática
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet (sitio web de UN-REDD)
-  - grabadora o computadora
-  - materiales para artículo
-prep_time: "30 min investigación + producción"
+
+activity_type:
+  - Investigación
+  - Debate / Diálogo
+  - Sensibilización
+
+category:
+  - Política climática
+  - Carbono
+  - Conservación
+
+skills:
+  - Investigación
+  - Comunicación
+  - Pensamiento crítico
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Hermandad
-  - Superación personal
+  - Responsabilidad
+  - Justicia
+  - Curiosidad y Apertura al aprendizaje
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 3)
+
+rama_lobatos: []  # No aplica (actividad nivel 3)
+
+rama_scouts: []  # No aplica (actividad nivel 3)
+
+rama_caminantes:
+  - 30  # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental.
+  - 43  # Busco y evalúo el valor de diversas fuentes de información.
+
+rama_rovers:
+  - 8   # Busco y evalúo el valor de diversas fuentes de información y las aplico de manera crítica.
+  - 31  # Desarrollo acciones de preservación y protección ambiental.
 ---
 
 # REDD+
 
 ## Resumen
-Explica el programa REDD+ y su impacto en la biodiversidad forestal mediante un podcast o artículo.
+Graba un podcast o escribe un artículo para explicar el REDD+, cómo funciona y su potencial para la biodiversidad forestal. Da tu opinión sobre este.
+
+## Preparación
+1. Investiga sobre REDD+ (Reducción de Emisiones por Deforestación y Degradación forestal).
+2. Prepara el material para el podcast o artículo.
 
 ## Desarrollo
-REDD+ (pronunciado REDD ‘más’) es un programa internacional que busca reducir la cantidad de gases de efecto invernadero en la atmósfera y mitigar el cambio climático. Si es usado correctamente, tiene el potencial de ayudar a la biodiversidad, especialmente a la biodiversidad forestal. Graba un podcast o escribe un artículo de periódico para explicar el REDD+ y cómo trabaja. No olvides dar tu opinión sobre este.
+1. **Investigación** (25 min): Aprende sobre REDD+, sus objetivos y funcionamiento.
+2. **Análisis** (15 min): Reflexiona sobre el potencial de REDD+ para la biodiversidad.
+3. **Creación** (25 min): Graba un podcast o escribe un artículo explicando REDD+.
+4. **Opinión** (10 min): Incluye tu opinión sobre el programa.
+5. **Presentación** (15 min): Comparte tu trabajo con el grupo.
 
 ## Cierre
-¿Qué desafíos éticos podría enfrentar REDD+ en su implementación?
+- ¿Qué aprendiste sobre REDD+ y su importancia?
+- ¿Cómo puede REDD+ ayudar a proteger los bosques?
+- ¿Qué compromiso adquieres para apoyar iniciativas de conservación?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

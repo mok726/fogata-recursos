@@ -1,125 +1,193 @@
 ---
-title: "¡BIOPIRATAS!"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "¡Biopiratas!"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/biopiratas/"
-description: "Organiza un debate sobre bioprospección vs. biopiratería en medicina tradicional."
-summary: "Organiza un debate sobre bioprospección vs. biopiratería en medicina tradicional."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Organiza un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas."
+summary: "Debate sobre bioprospección y biopiratería."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/biopiratas.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "16-22 años"
 age_group:
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Recursos sobre biopiratería
-  - Tarjetas para roles de debate
-responsible:
-  - Scouter o moderador experto
+  - Material de investigación sobre bioprospección y biopiratería
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 3
-  - 16
+  - 10  # Reducción de las desigualdades
+  - 15  # Vida de ecosistemas terrestres
+  - 16  # Paz, justicia e instituciones sólidas
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B13"
-rama_lobatos:
-  - 20
-  - 21
-rama_scouts:
-  - 3
-  - 15
-rama_caminantes:
-  - 3
-  - 15
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An Argentine scout room, with two teams sitting facing each other. A whiteboard in the center-left divided into 'Bioprospección' and 'Biopiratería'. A poster of a medicinal plant and a pharmaceutical lab. Copies of the Nagoya Protocol. The left side has negative space for text. On the far right side, tiny older scouts (16-21) gesticulate, one arguing for bioprospecting, another for indigenous rights, seen from a distance. The biopiracy debate environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - bioprospección
-  - biopiratería
-  - conocimiento tradicional
-  - patentes
-  - ética
-  - Insignia de los Bosques
+  - biopirateria
+  - bioprospeccion
+  - debate
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 5  # Alta reflexión ética
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere preparación del debate
+complexity_organizer: 3  # Requiere organización del debate
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Debate / Diálogo"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A debate between scientists and indigenous people about forest resources dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, debating and discussing ethical issues. Ethical debate and indigenous rights atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "8-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Cognitiva
-activity_type:
+space_required: "Salón para el debate"
+prep_time: "25 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento crítico
+  - Conciencia social
   - Debate
-  - Simulación
+
+activity_type:
+  - Debate / Diálogo
+  - Reflexión
+  - Sensibilización
+
 category:
   - Ética
-  - Derecho
-  - Biología
-skills:
-  - Debate
-  - Empatía
-  - Conocimiento ético
-main_type: "Debate / Diálogo"
-space_required: "Salón amplio"
-special_materials:
-  - artículos sobre biopiratería
-  - tarjetas de roles
-  - acceso a internet
-prep_time: "35 min"
-scout_values:
-  - Honestidad
-  - Respeto al prójimo
-scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 3
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Derechos indígenas
+  - Biodiversidad
 
+skills:
+  - Pensamiento crítico
+  - Comunicación
+  - Conciencia social
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Justicia
+  - Respeto al prójimo
+  - Honestidad
+
+scout_method:
+  - Acompañamiento adulto / Protagonismo juvenil
+  - Participación comunitaria y Servicio
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 3)
+
+rama_lobatos: []  # No aplica (actividad nivel 3)
+
+rama_scouts: []  # No aplica (actividad nivel 3)
+
+rama_caminantes:
+  - 21  # Cuestiono mis prejuicios y estereotipos culturales.
+  - 22  # Trabajo activamente para facilitar y promover la participación e inclusión de todas las personas.
+
+rama_rovers:
+  - 16  # Analizo y cuestiono actitudes y estereotipos culturales.
+  - 22  # Promuevo y defiendo los Derechos Humanos.
 ---
 
-# ¡BIOPIRATAS!
+# ¡Biopiratas!
 
 ## Resumen
-Organiza un debate sobre bioprospección vs. biopiratería en medicina tradicional.
+Organiza un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas.
+
+## Preparación
+1. Investiga sobre bioprospección y biopiratería, y sus implicaciones éticas.
+2. Divide el grupo en dos equipos.
+3. Prepara argumentos para cada posición.
 
 ## Desarrollo
-La biodiversidad de los bosques posee ingredientes muy valiosos para los productos médicos y farmacéuticos. Los curanderos tradicionales y los doctores conocen algunos de los usos medicinales de las plantas, los animales y los hongos (setas). Las compañías farmacéuticas (aquellas que producen medicinas comerciales) y los centros de investigación (como las universidades) están tratando de tener acceso a y de aprender sobre este conocimiento tradicional con el fin de desarrollar mejores medicinas. Organiza un debate sobre este tema con tu grupo. Un lado debe representar a los investigadores y a las compañías de medicamentos y deben hablar a favor de la ‘bioprospección’. El otro lado debe representar a los grupos que están en contra de la ‘biopiratería’ (por ej. poblaciones indígenas).
+1. **Investigación** (20 min): Cada equipo investiga su posición.
+2. **Preparación** (15 min): Preparen argumentos y contraargumentos.
+3. **Debate** (30 min): Realiza el debate estructurado.
+4. **Reflexión** (15 min): Reflexiona sobre los argumentos presentados.
 
 ## Cierre
-¿Cómo se puede equilibrar la innovación médica y el respeto a los conocimientos tradicionales?
+- ¿Qué aprendiste sobre la bioprospección y la biopiratería?
+- ¿Cómo podemos proteger el conocimiento tradicional?
+- ¿Qué compromiso adquieres para promover prácticas éticas?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

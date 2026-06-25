@@ -7,7 +7,7 @@ description: "Diseña un letrero de 'No propagandas' y ponlo en tu buzón."
 summary: "Diseña un letrero de 'No propagandas' y ponlo en tu buzón."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -1,3 +1,5 @@
+
+@import "./variables.css";
 @import "./components/layout.css";
 @import "./components/cards.css";
 @import "./pages/activity.css";

@@ -7,7 +7,7 @@ description: "Analiza efectos positivos/negativos de una central eléctrica en c
 summary: "Analiza efectos positivos/negativos de una central eléctrica en comunidades."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

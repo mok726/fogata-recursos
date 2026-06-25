@@ -7,7 +7,7 @@ description: "Aprende a hacer tu propio papel reciclado con la ayuda de tus padr
 summary: "Aprende a hacer tu propio papel reciclado con la ayuda de tus padres o maestros."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

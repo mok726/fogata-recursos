@@ -7,7 +7,7 @@ description: "Los participantes llevan un diario de lo que comen durante una sem
 summary: "Los participantes llevan un diario de lo que comen durante una semana."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

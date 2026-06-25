@@ -6,7 +6,7 @@ description: "Investiga accidentes relacionados con la contaminación del agua."
 summary: "Investiga accidentes relacionados con la contaminación del agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

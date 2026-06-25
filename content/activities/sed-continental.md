@@ -6,7 +6,7 @@ description: "Investiga la distribución del agua en diferentes continentes."
 summary: "Investiga la distribución del agua en diferentes continentes."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

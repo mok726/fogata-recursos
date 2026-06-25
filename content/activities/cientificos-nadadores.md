@@ -6,7 +6,7 @@ description: "Observa la vida acuática mientras nadas."
 summary: "Observa la vida acuática mientras nadas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

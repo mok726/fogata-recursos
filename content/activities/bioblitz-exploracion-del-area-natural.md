@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes identificar y registrar
 summary: "Esta actividad permite a los participantes identificar y registrar especies en un área natural."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

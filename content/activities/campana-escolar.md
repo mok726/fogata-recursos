@@ -7,7 +7,7 @@ description: "Lanza una campaña de un mes en tu escuela para crear conciencia s
 summary: "Lanza una campaña de un mes en tu escuela para crear conciencia sobre los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

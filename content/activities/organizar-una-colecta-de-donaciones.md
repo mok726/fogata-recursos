@@ -7,7 +7,7 @@ description: "Recoge ropa, libros y otros bienes para donar."
 summary: "Recoge ropa, libros y otros bienes para donar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

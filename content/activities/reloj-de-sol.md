@@ -7,7 +7,7 @@ description: "Construye tu propio reloj de Sol utilizando una plantilla o siguie
 summary: "Construye tu propio reloj de Sol utilizando una plantilla o siguiendo las instrucciones proporcionadas. Aprende sobre el movimiento del Sol y cómo se relaciona con el tiempo."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

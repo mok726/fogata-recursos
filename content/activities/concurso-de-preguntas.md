@@ -7,7 +7,7 @@ description: "Actividad para aprender sobre el agua y el saneamiento a través d
 summary: "Actividad para aprender sobre el agua y el saneamiento a través de un concurso de preguntas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

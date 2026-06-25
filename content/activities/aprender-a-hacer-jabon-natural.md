@@ -7,7 +7,7 @@ description: "Aprende a hacer jabón natural con la ayuda de un artesano."
 summary: "Aprende a hacer jabón natural con la ayuda de un artesano."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

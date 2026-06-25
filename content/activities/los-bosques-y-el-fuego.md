@@ -1,140 +1,208 @@
 ---
-title: "LOS BOSQUES Y EL FUEGO"
-duration: "2-3 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Los Bosques y el Fuego"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-el-fuego/"
-description: "Aprende a hacer fogatas seguras e investiga su importancia cultural."
-summary: "Aprende a hacer fogatas seguras e investiga su importancia cultural."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura. Investiga sobre diferentes tipos de madera y prevención de incendios."
+summary: "Aprendizaje seguro sobre fogatas y prevención de incendios forestales."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/los-bosques-y-el-fuego.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Leña segura
-  - Alimentos para asar (opcional)
-  - Extintor o agua (seguridad)
-tools:
-  - Cerillos o encendedor (manejado por adultos)
-  - Guantes resistentes al calor
+  - Leña y fajina (hojas secas, palos pequeños)
+  - Alimentos para asar (castañas, manzanas, patatas, palomitas)
+  - Equipo de seguridad (agua, extintor, etc.)
+tools: []
 responsible:
-  - Scouter o experto en seguridad
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 11
-  - 12
+  - 3   # Salud y bienestar
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C02"
-rama_lobatos:
-  - 8
-  - 27
-rama_scouts:
-  - 11
-  - 12
-rama_caminantes:
-  - 11
-  - 12
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine campsite or outdoor area, with a safe campfire ring surrounded by stones in the center-left. Firewood of different species (pine, oak) stacked nearby. A bucket of water and a shovel. A scout carefully lighting the fire with adult supervision. The left side has open space for text. On the far right side, a group of tiny older scouts (11-21) sit around the fire, one roasting a marshmallow, another holding a guitar, seen from a distance. The campfire and fire safety environment dominates."
 required: true
 required_for:
   - bosques-C
-required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES Y LA CULTURA"
-required_category: "LOS BOSQUES Y LA CULTURA"
+required_comment: "Actividad obligatoria de la sección C: Los Bosques y la Cultura"
+required_category: "Los Bosques y la Cultura"
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
-  - LOS BOSQUES Y LA CULTURA
   - bosques
-  - fogata
   - fuego
+  - fogata
   - seguridad
-  - leña
-  - cultura
-  - Insignia de los Bosques
-location: "Exterior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
-activity_type:
-  - Supervivencia
-  - Cultura
-category:
-  - Supervivencia
-  - Cultura
-  - Seguridad
-skills:
-  - Supervivencia
-  - Conocimiento cultural
-  - Responsabilidad
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 3  # Actividad práctica y social
+reflective_component: 4  # Reflexión sobre seguridad y cultura
+active_component: 4  # Recolección y construcción
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere supervisión y precaución
+complexity_organizer: 4  # Requiere planificación de seguridad
+
+# ========== TIPO PRINCIPAL ==========
 main_type: "Aprender haciendo"
-space_required: "Exterior abierto (campamento)"
-special_materials:
-  - leña
-  - fajina
-  - cerillos o encendedor (solo adultos)
-  - agua o extintor
-  - alimentos para asar
-prep_time: "20 min + fogata"
-scout_values:
-  - Perseverancia
-  - Respeto al prójimo
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A safe campfire in a forest with people gathered around cooking and singing dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sitting around a fire with safety equipment nearby. Campfire safety and cultural connection atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Exterior"
+space_required: "Espacio al aire libre para fogata con medidas de seguridad"
+prep_time: "30 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Trabajo en equipo
+  - Conciencia ambiental
+  - Seguridad
+
+activity_type:
+  - Aprender haciendo
+  - Sensibilización
+  - Reflexión
+
+category:
+  - Fuego
+  - Seguridad
+  - Cultura
+
+skills:
+  - Trabajo en equipo
+  - Conciencia ambiental
   - Responsabilidad
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Responsabilidad
+  - Naturaleza
+  - Hermandad
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+
+rama_scouts:
+  - 13  # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 38  # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+
+rama_caminantes:
+  - 12  # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad.
+  - 13  # Me informo y preparo para enfrentar situaciones de emergencia.
+
+rama_rovers:
+  - 5  # Evalúo situaciones y busco evitar conductas que me expongan a peligros.
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# LOS BOSQUES Y EL FUEGO
+# Los Bosques y el Fuego
 
 ## Resumen
-Aprende a hacer fogatas seguras e investiga su importancia cultural.
+Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura. Investiga sobre diferentes tipos de madera y prevención de incendios.
+
+## Preparación
+1. Asegura la supervisión de un adulto responsable.
+2. Recolecta leña y fajina (hojas secas, palos pequeños).
+3. Prepara alimentos para asar (castañas, manzanas, patatas, palomitas).
+4. Ten agua y equipo de seguridad cerca.
 
 ## Desarrollo
-Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura. Recolecta leña y fajina (hojas secas y pequeños palos para ayudar a prender el fuego). Construye la hoguera y enciéndela con la supervisión de un adulto. Asegúrate de tomar precauciones para que el fuego permanezca bajo control. Pueden asar alimentos sobre el fuego cuidadosamente (por ej. castañas, manzanas, patatas y palomitas de maíz). Crea una lista sobre por qué el fuego es esencial para nuestra supervivencia. Investiga sobre los diferentes tipos de madera y averigua cuales se queman más rápidamente, por ejemplo, el roble se quema lentamente, mientras que el pino se quema muy rápido. ¿Cuándo es el fuego peligroso para los humanos y para los bosques? ¿Han sufrido algunos bosques en tu área a causa de incendios forestales? ¿Qué precauciones puedes tomar para garantizar que tu fogata no provoque un incendio forestal? Discute sobre esto con tu grupo. También puedes disfrutar de la fogata al cantar o leer a su alrededor. Discutan sobre cómo las fogatas son importantes para diferentes culturas - ¿Puedes pensar en algunos eventos o rituales que se llevan a cabo alrededor de una fogata?
-**Extensión:** Planifica y dirige una fogata donde puedan cantar a coro canciones con un tema forestal.
+1. **Construcción** (20 min): Construye la fogata con la supervisión de un adulto.
+2. **Encendido** (10 min): Enciende la fogata con precaución.
+3. **Asado** (20 min): Asa alimentos sobre el fuego cuidadosamente.
+4. **Investigación** (15 min): Crea una lista de por qué el fuego es esencial para la supervivencia.
+5. **Investigación** (15 min): Investiga sobre diferentes tipos de madera y su velocidad de combustión.
+6. **Reflexión** (20 min): Discute cuándo el fuego es peligroso, incendios forestales y precauciones.
+7. **Celebración** (20 min): Disfruta de la fogata cantando o leyendo.
 
 ## Cierre
-¿Qué simboliza el fuego en distintas culturas? ¿Cómo podemos equilibrar su uso y riesgos?
+- ¿Qué aprendiste sobre la construcción segura de fogatas?
+- ¿Cómo puedes prevenir incendios forestales?
+- ¿Qué compromiso adquieres para usar el fuego de manera responsable?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

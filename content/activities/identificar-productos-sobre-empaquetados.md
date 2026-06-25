@@ -7,7 +7,7 @@ description: "Busca en tu cocina productos con envolturas innecesarias."
 summary: "Busca en tu cocina productos con envolturas innecesarias."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

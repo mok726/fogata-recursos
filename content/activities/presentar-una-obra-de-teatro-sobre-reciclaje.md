@@ -7,7 +7,7 @@ description: "Crea una obra de teatro para promover el reciclaje."
 summary: "Crea una obra de teatro para promover el reciclaje."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

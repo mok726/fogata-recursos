@@ -7,7 +7,7 @@ description: "Actividad lúdica sobre diversidad agrícola."
 summary: "Actividad lúdica sobre diversidad agrícola."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Los participantes aprenden la diferencia entre clima y tiempo."
 summary: "Los participantes aprenden la diferencia entre clima y tiempo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

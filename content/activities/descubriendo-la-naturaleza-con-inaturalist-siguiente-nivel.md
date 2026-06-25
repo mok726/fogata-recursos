@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes profundizar en el uso d
 summary: "Esta actividad permite a los participantes profundizar en el uso de la aplicación iNaturalist para identificar especies."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

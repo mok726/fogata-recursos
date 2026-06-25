@@ -6,7 +6,7 @@ description: "Observa la vida microscópica en el agua."
 summary: "Observa la vida microscópica en el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

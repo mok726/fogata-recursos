@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a diferenciar entre necesidades
 summary: "Actividad que ayuda a los jóvenes a diferenciar entre necesidades y deseos en el consumo de plásticos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

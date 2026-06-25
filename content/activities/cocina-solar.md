@@ -7,7 +7,7 @@ description: "Construye y usa un horno solar."
 summary: "Construye y usa un horno solar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

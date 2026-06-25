@@ -1,125 +1,191 @@
 ---
-title: "BOSQUES JUSTOS"
-duration: "1-2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Bosques Justos"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-justos/"
-description: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
-summary: "Debate sobre derechos de acceso y beneficios para comunidades forestales."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Discute cómo se puede proteger el derecho de acceso y distribución de beneficios para las personas locales en las políticas de gestión forestal."
+summary: "Debate sobre acceso justo a los bosques y distribución de beneficios."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/bosques-justos.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "16-22 años"
 age_group:
   - caminantes
   - rovers
-materials:
-  - Documentos sobre políticas forestales (opcional)
-competencies:
-  - Comunicación Efectiva
-  - Ciudadanía y Conciencia Social
-responsible:
-  - Scouter o líder comunitario
+
+# ========== LOGÍSTICA ==========
+materials: []
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 10
-  - 16
+  - 1   # Fin de la pobreza
+  - 10  # Reducción de las desigualdades
+  - 16  # Paz, justicia e instituciones sólidas
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B12"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 10
-  - 15
-rama_caminantes:
-  - 10
-  - 15
-rama_rovers:
-  - 4
-  - 10
-image_prompt: "An Argentine scout room, with a role-play setup: a circle of chairs with name cards (comunidad indígena, empresa forestal, gobierno, ONG). A whiteboard with 'Derechos de acceso' and 'Distribución de beneficios'. A copy of the Nagoya Protocol on the table. The left side has open space for text. On the far right side, a group of tiny older scouts (16-21) sit, one speaking, another listening, seen from a distance. The forest rights debate environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - derechos de acceso
-  - distribución de beneficios
-  - comunidades forestales
-  - gobernanza
-  - Insignia de los Bosques
-location: "Interior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
-activity_type:
-  - Debate
-  - Diálogo
-category:
-  - Política
-  - Derecho
-  - Ecología
-skills:
-  - Debate
-  - Conciencia social
-  - Pensamiento político
-main_type: "Debate / Diálogo"
-space_required: "Salón amplio"
-special_materials:
-  - documentos de políticas (opcional)
-  - papel
-  - lápiz
-prep_time: "30 min"
-scout_values:
-  - Respeto al prójimo
-scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - justicia-social
+  - acceso
+  - debate
+  - seccion-b
 
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 5  # Alta reflexión sobre justicia social
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere análisis y debate
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Debate / Diálogo"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People from different communities discussing forest rights and fair access dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, engaged in a dialogue about justice and equity. Social justice and participatory governance atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Interior"
+space_required: "Salón para el debate"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento crítico
+  - Conciencia social
+  - Debate
+
+activity_type:
+  - Debate / Diálogo
+  - Reflexión
+  - Sensibilización
+
+category:
+  - Justicia social
+  - Derechos
+  - Gobernanza
+
+skills:
+  - Pensamiento crítico
+  - Comunicación
+  - Conciencia social
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Justicia
+  - Solidaridad
+  - Responsabilidad
+
+scout_method:
+  - Participación comunitaria y Servicio
+  - Acompañamiento adulto / Protagonismo juvenil
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 3)
+
+rama_lobatos: []  # No aplica (actividad nivel 3)
+
+rama_scouts: []  # No aplica (actividad nivel 3)
+
+rama_caminantes:
+  - 18  # Ejercito plena y responsablemente mis derechos como ciudadano.
+  - 19  # Fomento ámbitos de participación democráticos.
+
+rama_rovers:
+  - 23  # Ejercito plena y responsablemente mis derechos como ciudadano/a.
+  - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
 ---
 
-# BOSQUES JUSTOS
+# Bosques Justos
 
 ## Resumen
-Debate sobre derechos de acceso y beneficios para comunidades forestales.
+Discute cómo se puede proteger el derecho de acceso y distribución de beneficios para las personas locales en las políticas de gestión forestal.
+
+## Preparación
+1. Investiga sobre derechos de acceso y distribución de beneficios en la gestión forestal.
+2. Prepara argumentos para la discusión.
 
 ## Desarrollo
-El derecho de acceso y la distribución de beneficios para las personas locales es un requisito fundamental para la gestión sostenible de los bosques y para la reducción de la pobreza en las áreas forestales rurales. Con tu grupo, discute sobre cómo se puede proteger este derecho dentro de las políticas de gestión forestal de tu gobierno.
+1. **Introducción** (10 min): Presenta el tema y los conceptos clave.
+2. **Discusión guiada** (30 min): Discute cómo proteger los derechos de las personas locales.
+3. **Propuestas** (15 min): Propón ideas para políticas de gestión forestal justas.
+4. **Conclusiones** (10 min): Resume las ideas principales y compromisos.
 
 ## Cierre
-¿Por qué es importante incluir a las comunidades locales en la gestión forestal?
+- ¿Qué aprendiste sobre la justicia en la gestión forestal?
+- ¿Cómo podemos garantizar el acceso justo a los bosques?
+- ¿Qué compromiso adquieres para promover la justicia social?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

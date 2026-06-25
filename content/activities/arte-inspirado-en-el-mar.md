@@ -7,7 +7,7 @@ description: "Creación artística sobre vida marina."
 summary: "Creación artística sobre vida marina."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

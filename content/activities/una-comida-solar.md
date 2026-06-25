@@ -7,7 +7,7 @@ description: "Cocina utilizando un horno o cocina solar y descubre cómo la ener
 summary: "Cocina utilizando un horno o cocina solar y descubre cómo la energía del Sol puede ser utilizada para preparar alimentos."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

@@ -7,7 +7,7 @@ description: "Observación de especies en ramas cercanas al suelo."
 summary: "Observación de especies en ramas cercanas al suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

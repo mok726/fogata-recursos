@@ -1,133 +1,195 @@
 ---
-title: "CAMBIANDO CON EL CLIMA"
-duration: "3 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Cambiando con el Clima"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cambiando-con-el-clima/"
-description: "Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas."
-summary: "Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Compara cómo tres diferentes tipos de bosques se verán afectados por el cambio climático. Crea un juego de cartas para compartir tus hallazgos."
+summary: "Juego de cartas sobre el impacto del cambio climático en bosques."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/cambiando-con-el-clima.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Cartulinas
-  - Marcadores
-  - Recursos sobre cambio climático
-tools:
-  - Tijeras
-competencies:
-  - Ciencia y Matemáticas
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
-responsible:
-  - Scouter o científico ambiental
+  - Material para juego de cartas (cartulina, marcadores, etc.)
+  - Material de investigación
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
-  - 15
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B08"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 13
-  - 15
-rama_caminantes:
-  - 13
-  - 15
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a card game on a table in the center-left: three forest biome cards (manglar, bosque de montaña, bosque boreal) and matching cards with climate impacts (sea level rise, temperature shift, permafrost thaw). A player matching them. The left side has open space for text. On the far right side, two tiny older scouts (11-21) sit, one placing a 'sea level rise' card next to 'manglar', the other checking a reference sheet, seen from a distance. The forest-climate matching game environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - cambio climático
-  - bosque de manglar
-  - bosque boreal
-  - carbono
-  - vulnerabilidad
-  - Insignia de los Bosques
+  - cambio-climatico
+  - juego-de-cartas
+  - investigacion
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 4  # Creación de juego de cartas
+reflective_component: 3  # Reflexión sobre cambio climático
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación y diseño
+complexity_organizer: 3  # Requiere preparación del juego
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Different types of forests affected by climate change with matching cards dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing and creating card games about climate impacts. Environmental education and gaming atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Visual
-activity_type:
-  - Juego
-  - Ciencia
-category:
-  - Clima
-  - Ecología
-  - Juego
-skills:
+space_required: "Salón para investigar y crear juego"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
   - Investigación
   - Creatividad
   - Conciencia climática
-main_type: "Aprender jugando"
-space_required: "Salón amplio"
-special_materials:
-  - cartulina
-  - marcadores
-  - acceso a internet (investigación)
-  - tijeras
-prep_time: "30 min investigación + creación de juego"
+
+activity_type:
+  - Juego
+  - Investigación
+  - Aprender haciendo
+
+category:
+  - Cambio climático
+  - Bosques
+  - Educación
+
+skills:
+  - Investigación
+  - Creatividad
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Creatividad e Ingenio
+
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 3
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Aprender jugando
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente y adopto un estilo de vida responsable y sostenible.
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 30  # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental.
+
+rama_rovers:
+  - 8   # Busco y evalúo el valor de diversas fuentes de información y las aplico de manera crítica.
+  - 33  # Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la naturaleza.
 ---
 
-# CAMBIANDO CON EL CLIMA
+# Cambiando con el Clima
 
 ## Resumen
-Compara el impacto del cambio climático en tres tipos de bosques y crea un juego de cartas.
+Compara cómo tres diferentes tipos de bosques se verán afectados por el cambio climático. Crea un juego de cartas para compartir tus hallazgos.
+
+## Preparación
+1. Investiga cómo el cambio climático afecta a tres tipos de bosques (ej. manglar, montaña, boreal).
+2. Prepara el material para el juego de cartas.
 
 ## Desarrollo
-El cambio climático afecta y también es afectado por los bosques. ¡El funcionamiento y la composición de los bosques puede cambiar debido a cambios en la temperatura de un valor tan bajo como 1 °C! Compara cómo tres diferentes tipos de bosques (por ejemplo, bosques de manglar, de montaña o boreales) se verán afectados por el cambio climático. ¿Cómo puede cada uno de estos influir sobre el cambio climático? Para compartir tus hallazgos, crea un juego de cartas en el cual los jugadores deben emparejar cada tipo de bosque con su relación con el cambio climático.
+1. **Investigación** (25 min): Aprende cómo cada tipo de bosque es afectado por el cambio climático.
+2. **Análisis** (15 min): Analiza cómo cada bosque puede influir sobre el cambio climático.
+3. **Creación** (25 min): Diseña y crea un juego de cartas de emparejamiento.
+4. **Juego** (20 min): Juega y comparte tus hallazgos con el grupo.
 
 ## Cierre
-¿Qué tipo de bosque crees que es más vulnerable al cambio climático?
+- ¿Qué aprendiste sobre los diferentes tipos de bosques y su relación con el clima?
+- ¿Cómo puedes contribuir a combatir el cambio climático?
+- ¿Qué compromiso adquieres para actuar frente al cambio climático?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

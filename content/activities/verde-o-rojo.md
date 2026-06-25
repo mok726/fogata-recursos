@@ -7,7 +7,7 @@ description: "Esta actividad permite a los jóvenes considerar diversas afirmaci
 summary: "Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

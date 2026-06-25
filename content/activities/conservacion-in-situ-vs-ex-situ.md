@@ -7,7 +7,7 @@ description: "Análisis de estrategias."
 summary: "Análisis de estrategias."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

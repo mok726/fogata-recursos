@@ -6,7 +6,7 @@ description: "Actividad para reflexionar sobre la importancia del agua en el cue
 summary: "Actividad para reflexionar sobre la importancia del agua en el cuerpo humano."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

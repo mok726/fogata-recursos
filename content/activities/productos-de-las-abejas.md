@@ -7,7 +7,7 @@ description: "Aprende sobre los productos que provienen de las abejas, como la m
 summary: "Aprende sobre los productos que provienen de las abejas, como la miel, la cera de abejas y el polen."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

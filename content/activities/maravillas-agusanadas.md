@@ -7,7 +7,7 @@ description: "Crea una lombricera para observar cómo las lombrices interactúan
 summary: "Crea una lombricera para observar cómo las lombrices interactúan con el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

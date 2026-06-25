@@ -7,7 +7,7 @@ description: "Los participantes juegan un juego que simula el impacto del cambio
 summary: "Los participantes juegan un juego que simula el impacto del cambio climático en los osos polares."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

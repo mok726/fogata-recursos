@@ -7,7 +7,7 @@ description: "Investiga cómo el cambio climático puede afectar tu comunidad."
 summary: "Investiga cómo el cambio climático puede afectar tu comunidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

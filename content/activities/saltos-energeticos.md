@@ -7,7 +7,7 @@ description: "Demuestra energía potencial/cinética con movimientos corporales.
 summary: "Demuestra energía potencial/cinética con movimientos corporales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

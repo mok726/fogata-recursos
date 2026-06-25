@@ -7,7 +7,7 @@ description: "Investiga cómo la contaminación afecta la salud y prepara un qui
 summary: "Investiga cómo la contaminación afecta la salud y prepara un quiz."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

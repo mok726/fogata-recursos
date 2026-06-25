@@ -7,7 +7,7 @@ description: "Aprende a elegir miel de calidad y cómo apoyar a los apicultores 
 summary: "Aprende a elegir miel de calidad y cómo apoyar a los apicultores locales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

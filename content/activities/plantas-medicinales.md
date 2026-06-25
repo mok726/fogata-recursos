@@ -7,7 +7,7 @@ description: "Documentación de remedios tradicionales."
 summary: "Documentación de remedios tradicionales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

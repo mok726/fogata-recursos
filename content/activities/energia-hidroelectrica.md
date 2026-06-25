@@ -6,7 +6,7 @@ description: "Construye un molino de agua para entender cómo se genera energía
 summary: "Construye un molino de agua para entender cómo se genera energía hidroeléctrica."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

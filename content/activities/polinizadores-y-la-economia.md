@@ -7,7 +7,7 @@ description: "Investiga cómo la economía de tu país depende de los polinizado
 summary: "Investiga cómo la economía de tu país depende de los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

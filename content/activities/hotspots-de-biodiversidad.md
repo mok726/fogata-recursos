@@ -7,7 +7,7 @@ description: "Investigación sobre áreas críticas."
 summary: "Investigación sobre áreas críticas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

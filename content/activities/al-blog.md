@@ -7,7 +7,7 @@ description: "Actividad para crear un blog sobre temas relacionados con el agua.
 summary: "Actividad para crear un blog sobre temas relacionados con el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

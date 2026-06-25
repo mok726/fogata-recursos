@@ -7,7 +7,7 @@ description: "Gestión de residuos orgánicos."
 summary: "Gestión de residuos orgánicos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

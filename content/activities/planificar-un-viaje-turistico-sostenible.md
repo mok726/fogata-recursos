@@ -7,7 +7,7 @@ description: "Investiga sobre formas de viajar de manera sostenible."
 summary: "Investiga sobre formas de viajar de manera sostenible."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

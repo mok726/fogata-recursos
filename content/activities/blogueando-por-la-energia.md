@@ -7,7 +7,7 @@ description: "Crea un blog grupal sobre sostenibilidad energética."
 summary: "Crea un blog grupal sobre sostenibilidad energética."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

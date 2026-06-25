@@ -7,7 +7,7 @@ description: "Juego de emparejar alimentos con su huella energética."
 summary: "Juego de emparejar alimentos con su huella energética."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

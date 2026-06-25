@@ -7,7 +7,7 @@ description: "Actividad para aprender sobre enfermedades relacionadas con el agu
 summary: "Actividad para aprender sobre enfermedades relacionadas con el agua y cómo prevenirlas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

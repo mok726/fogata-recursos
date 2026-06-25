@@ -7,7 +7,7 @@ description: "Actividad que anima a los jóvenes a preparar una presentación so
 summary: "Actividad que anima a los jóvenes a preparar una presentación sobre los problemas del plástico."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Escribe un artículo periodístico sobre el impacto local del camb
 summary: "Escribe un artículo periodístico sobre el impacto local del cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

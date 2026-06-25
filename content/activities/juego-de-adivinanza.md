@@ -7,7 +7,7 @@ description: "Crea un juego para adivinar los servicios de los ecosistemas que p
 summary: "Crea un juego para adivinar los servicios de los ecosistemas que proporcionan diferentes tipos de suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

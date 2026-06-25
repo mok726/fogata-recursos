@@ -7,7 +7,7 @@ description: "Los participantes investigan un lugar del mundo y su relación con
 summary: "Los participantes investigan un lugar del mundo y su relación con el cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

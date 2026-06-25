@@ -1,124 +1,195 @@
 ---
-title: "ESPECIES QUE USAN EL AGUA INTELIGENTEMENTE"
-duration: "1-2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Especies que Usan el Agua Inteligentemente"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-que-usan-el-agua-inteligentemente/"
-description: "Estudia adaptaciones de especies forestales para sobrevivir a sequías."
-summary: "Estudia adaptaciones de especies forestales para sobrevivir a sequías."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Aprende cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin agua durante períodos de escasez."
+summary: "Investigación sobre adaptaciones de especies a la escasez de agua."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
-tools:
-  - Lupa (opcional)
-competencies:
-  - Ciencia y Matemáticas
-  - Pensamiento Crítico y Análisis
-  - Sostenibilidad y Medio Ambiente
-responsible:
-  - Scouter o biólogo
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Material de investigación
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
-  - 15
+  - 6   # Agua limpia y saneamiento
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-D10"
-rama_lobatos:
-  - 26
-  - 27
-rama_scouts:
-  - 13
-  - 15
-rama_caminantes:
-  - 13
-  - 15
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a display board in the center-left showing drought adaptations in four species: conifer (needle leaves, deep roots), desert bird (gets water from seeds), fungus (mycelium dormancy), wildflower (short lifecycle timed with rains). A diagram of climate change impacts. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the conifer, the other at the fungus, seen from a distance. The drought adaptation research environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - adaptación
-  - sequía
-  - estrés hídrico
-  - especies forestales
-  - resiliencia
-  - Insignia de los Bosques
-location: "Interior / Exterior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Visual
+  - agua
+  - adaptaciones
+  - cambio-climatico
+  - seccion-d
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 4  # Reflexión sobre adaptaciones y cambio climático
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse forest ecosystem with different species adapting to water scarcity dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and documenting plant and animal adaptations. Scientific research and biodiversity awareness atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Interior"
+space_required: "Salón para investigar y presentar"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento científico
+  - Conciencia ambiental
+  - Investigación
+
 activity_type:
   - Investigación
+  - Reflexión
+  - Debate / Diálogo
+
 category:
-  - Ecología
-  - Adaptación
-  - Clima
+  - Agua
+  - Adaptaciones
+  - Cambio climático
+
 skills:
-  - Observación
-  - Pensamiento adaptativo
-  - Conciencia climática
-main_type: "Investigación"
-space_required: "Salón amplio o exterior"
-prep_time: "25 min"
+  - Investigación
+  - Pensamiento crítico
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Perseverancia
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 35  # Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+
+rama_caminantes:
+  - 31  # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos.
+  - 37  # Investigo y desarrollo distintas habilidades y tecnologías.
+
+rama_rovers:
+  - 8   # Busco y evalúo el valor de diversas fuentes de información y las aplico de manera crítica.
+  - 32  # Reconozco la interdependencia entre las personas y todas las especies.
 ---
 
-# ESPECIES QUE USAN EL AGUA INTELIGENTEMENTE
+# Especies que Usan el Agua Inteligentemente
 
 ## Resumen
-Estudia adaptaciones de especies forestales para sobrevivir a sequías.
+Aprende cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin agua durante períodos de escasez. Reflexiona sobre cómo el cambio climático podría afectar estas estrategias.
+
+## Preparación
+1. Investiga especies que han desarrollado adaptaciones para sobrevivir sin agua.
+2. Elige cuatro especies diferentes (ej. un árbol conífero, un ave, un champiñón, una flor silvestre).
 
 ## Desarrollo
-Todas las formas de vida necesitan agua para sobrevivir. Pero obtener suficiente agua puede ser muy complicado en algunas estaciones, por ejemplo, en la estación seca cuando no llueve o en el invierno cuando el agua está congelada. Aprende cómo cuatro especies diferentes (por ej. un árbol conífero, una ave, un champiñón y una flor silvestre) logran encontrar agua o sobrevivir sin agua durante estos períodos. ¿Crees que estas estrategias continuarán funcionando si el cambio climático afecta la disponibilidad de agua en los bosques? ¿Por qué sí o por qué no?
+1. **Investigación** (30 min): Investiga cómo cada especie logra encontrar agua o sobrevivir sin agua.
+2. **Análisis** (15 min): Reflexiona sobre la efectividad de estas estrategias.
+3. **Reflexión** (15 min): Piensa si estas estrategias seguirán funcionando con el cambio climático.
+4. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
 
 ## Cierre
-¿Qué enseñanzas podemos aplicar de estas adaptaciones naturales?
+- ¿Qué estrategias de supervivencia te parecieron más sorprendentes?
+- ¿Cómo afectará el cambio climático la disponibilidad de agua en los bosques?
+- ¿Qué compromiso adquieres para cuidar el agua en tu comunidad?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

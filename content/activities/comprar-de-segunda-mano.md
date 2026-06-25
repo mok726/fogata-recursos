@@ -7,7 +7,7 @@ description: "Compra libros, ropa y otros bienes de segunda mano para ahorrar en
 summary: "Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

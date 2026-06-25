@@ -7,7 +7,7 @@ description: "Hornea pan y observa cómo el CO₂ lo hace esponjar."
 summary: "Hornea pan y observa cómo el CO₂ lo hace esponjar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

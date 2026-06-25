@@ -7,7 +7,7 @@ description: "Escribe a autoridades para promover energías limpias."
 summary: "Escribe a autoridades para promover energías limpias."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

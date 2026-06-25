@@ -7,7 +7,7 @@ description: "Crea y coloca señales en un parque local para educar a la comunid
 summary: "Crea y coloca señales en un parque local para educar a la comunidad sobre los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

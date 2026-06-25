@@ -7,7 +7,7 @@ description: "Actividad lúdica de aprendizaje."
 summary: "Actividad lúdica de aprendizaje."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Empieza un jardín comunitario o únete a uno existente."
 summary: "Empieza un jardín comunitario o únete a uno existente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

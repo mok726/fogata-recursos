@@ -7,7 +7,7 @@ description: "Observa cómo el clima afecta el suelo en tu jardín o parque loca
 summary: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -1,131 +1,194 @@
 ---
-title: "BOSQUES POLÍTICOS"
-duration: "3 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Bosques Políticos"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-politicos/"
-description: "Investiga movimientos sociales que usaron bosques como símbolo de resistencia."
-summary: "Investiga movimientos sociales que usaron bosques como símbolo de resistencia."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Elige un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política. Presenta tus resultados en un formato creativo."
+summary: "Investigación sobre movimientos de resistencia política en bosques."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/bosques-politicos.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "16-22 años"
 age_group:
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Recursos históricos
-  - Equipo de grabación (opcional)
-competencies:
-  - Investigación y Gestión de Datos
-  - Ciudadanía y Conciencia Social
-responsible:
-  - Scouter o activista ambiental
+  - Material de investigación
+  - Material para presentación creativa
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 16
-  - 17
+  - 10  # Reducción de las desigualdades
+  - 15  # Vida de ecosistemas terrestres
+  - 16  # Paz, justicia e instituciones sólidas
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C19"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 11
-  - 16
-rama_caminantes:
-  - 11
-  - 16
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing the Chipko movement (villagers hugging trees) and the Green Belt Movement (Wangari Maathai planting trees). A laptop with a podcast script or a notebook with a poem about resistance. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the Chipko photo, the other reading a poem aloud, seen from a distance. The forest activism research environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - movimientos sociales
-  - Chipko
-  - Cinturón Verde
-  - resistencia
-  - Insignia de los Bosques
+  - resistencia-politica
+  - justicia-social
+  - movimientos-sociales
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Presentación creativa
+reflective_component: 5  # Alta reflexión sobre justicia social
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 3  # Requiere preparación de presentación
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Historical scenes of nonviolent resistance in forests like Chipko movement dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting creative projects about forest activism. Social justice and environmental resistance atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Auditiva
-  - -Visual
+space_required: "Salón para investigar y presentar"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Conciencia social
+  - Pensamiento crítico
+  - Creatividad
+
 activity_type:
   - Investigación
-  - Activismo
+  - Arte
+  - Debate / Diálogo
+
 category:
-  - Historia
-  - Activismo
-  - Política
+  - Movimientos sociales
+  - Resistencia
+  - Justicia
+
 skills:
   - Investigación
-  - Expresión política
+  - Creatividad
   - Conciencia social
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - libros
-  - materiales para formato creativo (grabadora
-  - instrumentos
-  - vestuario)
-prep_time: "30 min investigación + producción"
-scout_values:
-  - Naturaleza
-  - Respeto al prójimo
-  - Solidaridad
-scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Justicia
+  - Solidaridad
+  - Responsabilidad
+
+scout_method:
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 3)
+
+rama_lobatos: []  # No aplica (actividad nivel 3)
+
+rama_scouts: []  # No aplica (actividad nivel 3)
+
+rama_caminantes:
+  - 25  # Identifico y analizo los factores que contribuyen a la existencia de problemas sociales.
+  - 27  # Dialogo con las demás personas sobre lo que creo, promoviendo el entendimiento.
+
+rama_rovers:
+  - 16  # Analizo y cuestiono actitudes y estereotipos culturales.
+  - 29  # Indago en las causas y consecuencias de las injusticias y problemáticas sociales.
 ---
 
-# BOSQUES POLÍTICOS
+# Bosques Políticos
 
 ## Resumen
-Investiga movimientos sociales que usaron bosques como símbolo de resistencia.
+Elige un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política. Presenta tus resultados en un formato creativo.
+
+## Preparación
+1. Investiga movimientos de resistencia política en bosques (ej. Movimiento Chipko en India, Movimiento Cinturón Verde en Kenia).
+2. Elige un ejemplo para investigar en profundidad.
+3. Define el formato de presentación (podcast, poema, baile, informe de prensa, etc.).
 
 ## Desarrollo
-Elije un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política, por ejemplo, en el Movimiento Chipko en la India o en el Movimiento Cinturón Verde en Kenia. Aprende sobre este: ¿qué paso?, ¿dónde y cuándo?, ¿quién participó?, ¿cuál fue la causa?, ¿cuáles fueron los resultados?, ¿por qué fue importante el bosque para el movimiento? Presenta tus resultados en un formato creativo, como un podcast, un poema recitado, un baile o un informe de prensa.
+1. **Investigación** (30 min): Investiga qué pasó, dónde y cuándo, quién participó, cuál fue la causa y los resultados.
+2. **Análisis** (15 min): Reflexiona sobre por qué fue importante el bosque para el movimiento.
+3. **Creación** (30 min): Prepara tu presentación creativa.
+4. **Presentación** (15 min): Presenta tus resultados al grupo.
 
 ## Cierre
-¿Cómo pueden los bosques unir a las comunidades en causas comunes?
+- ¿Qué aprendiste sobre los movimientos de resistencia en los bosques?
+- ¿Cómo pueden los bosques ser sitios de lucha por la justicia social?
+- ¿Qué compromiso adquieres para apoyar movimientos de justicia ambiental?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -7,7 +7,7 @@ description: "Análisis de calidad de agua."
 summary: "Análisis de calidad de agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

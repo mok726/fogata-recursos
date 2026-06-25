@@ -7,7 +7,7 @@ description: "Únete a una plataforma en línea para aprender sobre sostenibilid
 summary: "Únete a una plataforma en línea para aprender sobre sostenibilidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

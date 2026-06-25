@@ -7,7 +7,7 @@ description: "Mide tu huella de cambio climático y haz un plan para reducirla."
 summary: "Mide tu huella de cambio climático y haz un plan para reducirla."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

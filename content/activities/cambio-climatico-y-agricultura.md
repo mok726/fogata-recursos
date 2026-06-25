@@ -7,7 +7,7 @@ description: "Los participantes discuten cómo el cambio climático afecta la ag
 summary: "Los participantes discuten cómo el cambio climático afecta la agricultura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

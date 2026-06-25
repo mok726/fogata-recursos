@@ -7,7 +7,7 @@ description: "Monitorea las actividades en tu hogar que puedan afectar el suelo.
 summary: "Monitorea las actividades en tu hogar que puedan afectar el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

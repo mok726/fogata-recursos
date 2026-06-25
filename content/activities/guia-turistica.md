@@ -7,7 +7,7 @@ description: "Lleva a un amigo en un tour guiado sobre el suelo en tu jardín o 
 summary: "Lleva a un amigo en un tour guiado sobre el suelo en tu jardín o parque local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

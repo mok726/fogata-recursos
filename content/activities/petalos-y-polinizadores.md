@@ -7,7 +7,7 @@ description: "Investiga qué polinizadores ayudan a tu flor favorita."
 summary: "Investiga qué polinizadores ayudan a tu flor favorita."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

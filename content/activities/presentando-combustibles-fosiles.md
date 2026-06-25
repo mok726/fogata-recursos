@@ -7,7 +7,7 @@ description: "Investiga y expone sobre un combustible fósil asignado."
 summary: "Investiga y expone sobre un combustible fósil asignado."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

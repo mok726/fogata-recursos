@@ -7,7 +7,7 @@ description: "Actividad que anima a los jóvenes a revisar sus hábitos de uso d
 summary: "Actividad que anima a los jóvenes a revisar sus hábitos de uso de plásticos y reducir su consumo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Los participantes ven un documental sobre el cambio climático y d
 summary: "Los participantes ven un documental sobre el cambio climático y discuten sus impresiones."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

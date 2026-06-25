@@ -6,7 +6,7 @@ description: "Experimenta con la erosión del suelo causada por el agua."
 summary: "Experimenta con la erosión del suelo causada por el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

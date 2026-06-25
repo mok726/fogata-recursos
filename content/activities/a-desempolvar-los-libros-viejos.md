@@ -7,7 +7,7 @@ description: "Lee un libro donde el suelo juegue un papel importante."
 summary: "Lee un libro donde el suelo juegue un papel importante."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

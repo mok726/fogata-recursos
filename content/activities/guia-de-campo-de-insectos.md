@@ -7,7 +7,7 @@ description: "Creación de catálogo entomológico."
 summary: "Creación de catálogo entomológico."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

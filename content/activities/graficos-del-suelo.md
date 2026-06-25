@@ -7,7 +7,7 @@ description: "Crea una tira cómica sobre un superhéroe que protege el suelo."
 summary: "Crea una tira cómica sobre un superhéroe que protege el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

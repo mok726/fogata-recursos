@@ -11,7 +11,7 @@ summary: |
   Haz un collage o un póster para explicar cómo reducir, reusar y reciclar.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Aprende sobre energía renovable y construye un modelo."
 summary: "Aprende sobre energía renovable y construye un modelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Realiza una encuesta para entender cómo las personas interactúan
 summary: "Realiza una encuesta para entender cómo las personas interactúan con el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

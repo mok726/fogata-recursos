@@ -6,7 +6,7 @@ description: "Aprende cómo se dice ‘agua’ en diferentes idiomas."
 summary: "Aprende cómo se dice ‘agua’ en diferentes idiomas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

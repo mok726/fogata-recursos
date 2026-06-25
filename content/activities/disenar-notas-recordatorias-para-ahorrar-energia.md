@@ -7,7 +7,7 @@ description: "Crea notas para recordar apagar luces y aparatos eléctricos."
 summary: "Crea notas para recordar apagar luces y aparatos eléctricos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Habla con tus padres sobre la compra de electrodomésticos ahorrad
 summary: "Habla con tus padres sobre la compra de electrodomésticos ahorradores de energía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

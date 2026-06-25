@@ -7,7 +7,7 @@ description: "Crea una obra de teatro sobre una comunidad que depende del suelo.
 summary: "Crea una obra de teatro sobre una comunidad que depende del suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

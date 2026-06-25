@@ -7,7 +7,7 @@ description: "Los participantes realizan un experimento para entender el efecto 
 summary: "Los participantes realizan un experimento para entender el efecto invernadero."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

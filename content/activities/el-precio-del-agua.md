@@ -7,7 +7,7 @@ description: "Actividad para debatir si el agua debería ser gratuita o tener un
 summary: "Actividad para debatir si el agua debería ser gratuita o tener un costo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

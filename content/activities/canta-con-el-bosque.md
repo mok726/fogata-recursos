@@ -1,135 +1,200 @@
 ---
-title: "CANTA CON EL BOSQUE"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Canta con el Bosque"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/canta-con-el-bosque/"
-description: "Compón una canción sobre bosques y acompaña con instrumentos naturales."
-summary: "Compón una canción sobre bosques y acompaña con instrumentos naturales."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Crea y presenta una canción sobre un bosque. Recolecta elementos del bosque para hacer instrumentos musicales."
+summary: "Creación musical inspirada en el bosque."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/canta-con-el-bosque.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-13"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Instrumentos naturales (hojas
-  - ramas
-  - piedras)
-  - Grabadora (opcional)
-competencies:
-  - Creatividad y Expresión
-  - Comunicación Efectiva
-  - Salud, Bienestar y Seguridad
+  - Elementos naturales para instrumentos (palos, hojas, etc.)
+  - Material para escribir la canción
+tools: []
 responsible:
-  - Scouter o músico
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 11
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C09"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 11
-  - 22
-rama_caminantes:
-  - 11
-  - 22
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine forest or outdoor stage, with a group of scouts in the center-left playing natural instruments: shaking seed pods, tapping hollow logs, blowing across bottles, whistling like birds. A song about the forest being sung. The left side has open space for text. On the far right side, the musicians stand, one shaking a gourd, another tapping a log, a third singing, seen from a distance. The forest music environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - canción
-  - bosque
-  - instrumentos naturales
-  - composición
-  - sonidos
-  - Insignia de los Bosques
-location: "Exterior / Interior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
+  - musica
+  - creatividad
+  - arte
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 4  # Actividad musical lúdica
+reflective_component: 3  # Reflexión sobre el bosque
+active_component: 3  # Recolección y presentación
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 3  # Requiere preparación de instrumentos
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Arte"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Musical instruments made from forest materials and people making music dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, playing instruments and singing in the forest. Musical creativity and nature connection atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Exterior"
+space_required: "Bosque para crear instrumentos y presentar"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Creatividad
+  - Expresión musical
+  - Trabajo en equipo
+
 activity_type:
-  - Música
   - Arte
+  - Juego
+  - Aprender haciendo
+
 category:
   - Música
+  - Creatividad
   - Naturaleza
-  - Arte
+
 skills:
   - Creatividad
-  - Escucha activa
-  - Coordinación
-main_type: "Arte"
-space_required: "Salón amplio o Exterior"
-special_materials:
-  - elementos naturales (hojas secas
-  - palos
-  - piedras
-  - caracoles
-  - semillas)
-  - grabadora (opcional)
-prep_time: "25 min recolección + composición + presentación"
-scout_values:
-  - Naturaleza
-  - Superación personal
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-  - Marco simbólico
-ludic_component: 5
-reflective_component: 2
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Comunicación
+  - Trabajo en equipo
 
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Creatividad e Ingenio
+  - Optimismo y Alegría
+  - Naturaleza
+
+scout_method:
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 9  # Me gustan las actividades recreativas que comparto con mis amigas y amigos.
+  - 47  # Expreso mis emociones y sentimientos a través de diversos medios artísticos.
+
+rama_scouts:
+  - 43  # Comparto mis pasatiempos y especialidades con amigas y amigos.
+  - 53  # Participo de diferentes manifestaciones artísticas.
+
+rama_caminantes:
+  - 11  # Comparto actividades recreativas, deportivas y lúdicas.
+  - 49  # Utilizo diferentes herramientas y tecnologías de comunicación.
+
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas y deportivas.
+  - 11  # Me comunico de manera asertiva utilizando diferentes formatos y medios.
 ---
 
-# CANTA CON EL BOSQUE
+# Canta con el Bosque
 
 ## Resumen
-Compón una canción sobre bosques y acompaña con instrumentos naturales.
+Crea y presenta una canción sobre un bosque. Recolecta elementos del bosque para hacer instrumentos musicales y acompaña tu canción.
+
+## Preparación
+1. Reúne elementos naturales del bosque para instrumentos (palos, hojas, etc.).
+2. Prepara material para escribir la canción.
 
 ## Desarrollo
-Crea y presenta una canción sobre un bosque. También puedes recolectar diferentes elementos mientras caminas por el bosque y hacer un instrumento musical para acompañar a tu canción favorita o a la canción que escribiste (por ej. los crujidos de una hoja, tocar el tambor con unos palitos, silbar como un ave, etc.).
+1. **Exploración** (15 min): Recolecta elementos naturales para hacer instrumentos.
+2. **Creación musical** (20 min): Crea instrumentos con los elementos recolectados.
+3. **Composición** (20 min): Escribe una canción sobre el bosque.
+4. **Presentación** (15 min): Presenta tu canción con los instrumentos.
 
 ## Cierre
-¿Cómo se conecta la música con los sonidos naturales del bosque?
+- ¿Qué aprendiste sobre la música y el bosque?
+- ¿Cómo puedes expresar tu amor por la naturaleza a través del arte?
+- ¿Qué compromiso adquieres para seguir creando arte inspirado en la naturaleza?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

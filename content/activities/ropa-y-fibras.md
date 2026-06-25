@@ -7,7 +7,7 @@ description: "Análisis de materiales textiles."
 summary: "Análisis de materiales textiles."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

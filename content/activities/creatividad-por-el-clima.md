@@ -7,7 +7,7 @@ description: "Los participantes crean materiales educativos sobre el cambio clim
 summary: "Los participantes crean materiales educativos sobre el cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

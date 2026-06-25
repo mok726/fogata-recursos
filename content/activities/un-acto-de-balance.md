@@ -7,7 +7,7 @@ description: "Actividad para simular la experiencia de cargar agua largas distan
 summary: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

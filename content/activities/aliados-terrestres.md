@@ -7,7 +7,7 @@ description: "Investiga cómo las plantas y animales ayudan a mantener el suelo 
 summary: "Investiga cómo las plantas y animales ayudan a mantener el suelo saludable."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

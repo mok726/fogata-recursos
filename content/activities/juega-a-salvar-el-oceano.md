@@ -7,7 +7,7 @@ description: "Un minijuego que destaca los desafíos que enfrentan nuestros océ
 summary: "Un minijuego que destaca los desafíos que enfrentan nuestros océanos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

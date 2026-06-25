@@ -7,7 +7,7 @@ description: "Visita un taller de alfarería y aprende a trabajar con arcilla."
 summary: "Visita un taller de alfarería y aprende a trabajar con arcilla."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Los participantes investigan los cultivos locales y su relación c
 summary: "Los participantes investigan los cultivos locales y su relación con el clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

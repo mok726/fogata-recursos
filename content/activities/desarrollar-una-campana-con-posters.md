@@ -7,7 +7,7 @@ description: "Crea posters para promover hábitos sostenibles."
 summary: "Crea posters para promover hábitos sostenibles."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

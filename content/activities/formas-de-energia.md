@@ -7,7 +7,7 @@ description: "Teatro educativo sobre tipos de energía."
 summary: "Teatro educativo sobre tipos de energía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

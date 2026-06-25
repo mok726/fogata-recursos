@@ -7,7 +7,7 @@ description: "Aprende a construir un horno solar para cocinar de manera sostenib
 summary: "Aprende a construir un horno solar para cocinar de manera sostenible."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

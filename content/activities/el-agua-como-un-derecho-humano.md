@@ -7,7 +7,7 @@ description: "Actividad para investigar y debatir sobre el acceso al agua como u
 summary: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

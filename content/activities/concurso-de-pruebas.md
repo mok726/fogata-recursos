@@ -7,7 +7,7 @@ description: "Organiza un concurso de preguntas y respuestas sobre el suelo."
 summary: "Organiza un concurso de preguntas y respuestas sobre el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

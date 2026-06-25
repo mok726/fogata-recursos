@@ -7,7 +7,7 @@ description: "Investiga cómo la disminución de polinizadores afecta la nutrici
 summary: "Investiga cómo la disminución de polinizadores afecta la nutrición global."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

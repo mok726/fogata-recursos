@@ -7,7 +7,7 @@ description: "Explora cómo el viento beneficia a plantas y animales, y construy
 summary: "Explora cómo el viento beneficia a plantas y animales, y construye un molinillo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

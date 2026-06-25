@@ -7,7 +7,7 @@ description: "Investiga el papel del Sol en culturas antiguas y crea una exposic
 summary: "Investiga el papel del Sol en culturas antiguas y crea una exposición."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

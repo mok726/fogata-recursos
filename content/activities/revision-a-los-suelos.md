@@ -7,7 +7,7 @@ description: "Investiga los problemas del suelo en tu área local."
 summary: "Investiga los problemas del suelo en tu área local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

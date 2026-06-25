@@ -7,7 +7,7 @@ description: "Organiza un evento para el Día Mundial de las Abejas (20 de mayo)
 summary: "Organiza un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad. Demuestra cómo construir hoteles para abejas, plantar flores nativas y usar alternativas a los pesticidas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

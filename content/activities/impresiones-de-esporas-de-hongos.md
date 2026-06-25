@@ -7,7 +7,7 @@ description: "Estudio de diversidad fúngica."
 summary: "Estudio de diversidad fúngica."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

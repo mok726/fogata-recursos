@@ -1,142 +1,201 @@
 ---
-title: "BOSQUES LLENOS DE VIDA"
-duration: "3-4 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Bosques Llenos de Vida"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-llenos-de-vida/"
-description: "Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas."
-summary: "Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Prepara un reporte de investigación sobre un bosque de tu área. Presenta tus hallazgos creativamente."
+summary: "Investigación y presentación creativa sobre un bosque local."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/bosques-llenos-de-vida.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Libros o recursos en línea
-  - Materiales para presentación (cartulina
-  - pinturas
-  - etc.)
-tools:
-  - Computadora (opcional para investigación)
-  - Cámara (opcional)
-competencies:
-  - Investigación y Gestión de Datos
-  - Pensamiento Crítico y Análisis
-  - Comunicación Efectiva
-responsible:
-  - Scouter o líder de proyecto
+  - Material de investigación
+  - Material para presentación creativa
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 8
-  - 15
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B01"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 8
-  - 15
-rama_caminantes:
-  - 8
-  - 15
-rama_rovers:
-  - 4
-  - 8
-image_prompt: "An Argentine scout room, with a creative display (poster, diorama, or website on a laptop) in the center-left showing a local forest: its type (e.g., Bosque Atlántico), cultural importance, livelihoods (yerba mate harvest), threats (deforestation), and conservation actions. Colorful and informative. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) stand, one pointing at the threats, the other at the conservation actions, seen from a distance. The local forest research presentation environment dominates."
 required: true
 required_for:
   - bosques-B
-required_comment: "Actividad obligatoria para la categoría: LOS BOSQUES EN USO"
-required_category: "LOS BOSQUES EN USO"
+required_comment: "Actividad obligatoria de la sección B: Los Bosques en Uso"
+required_category: "Los Bosques en Uso"
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
-  - LOS BOSQUES EN USO
   - bosques
-  - bosque local
-  - patrimonio cultural
-  - medios de subsistencia
-  - amenazas
-  - conservación
-  - Insignia de los Bosques
-location: "Interior / Exterior"
-participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Cognitiva
+  - investigacion
+  - cultura
+  - medios-subsistencia
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Presentación creativa
+reflective_component: 4  # Reflexión sobre el bosque local
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 3  # Requiere preparación de presentación
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diverse local forest with rich biodiversity and cultural significance dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting creative projects about the forest. Local forest appreciation and research atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Ambos"
+space_required: "Salón para investigar y presentar"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Investigación
+  - Conciencia cultural
+  - Comunicación
+
 activity_type:
   - Investigación
-  - Presentación
+  - Arte
+  - Sensibilización
+
 category:
-  - Ecología
+  - Bosque local
   - Cultura
-  - Economía
+  - Conservación
+
 skills:
   - Investigación
-  - Pensamiento crítico
   - Comunicación
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - libros
-  - materiales para presentación (cartulina
-  - marcadores
-  - computadora)
-prep_time: "30 min + tiempo de investigación"
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 12  # Me intereso por la cultura de mi comunidad y mi país.
+  - 26  # Identifico algunos problemas ambientales de mi comunidad y las causas que los provocan.
+
+rama_scouts:
+  - 16  # Exploro y me identifico con la cultura de mi comunidad y de mi país.
+  - 31  # Reconozco mi impacto en el ambiente y adopto un estilo de vida responsable y sostenible.
+
+rama_caminantes:
+  - 16  # Valoro mi historia e identidad y promuevo la herencia cultural.
+  - 29  # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+
+rama_rovers:
+  - 21  # Valoro mi identidad y promuevo la herencia cultural.
+  - 33  # Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la naturaleza.
 ---
 
-# BOSQUES LLENOS DE VIDA
+# Bosques Llenos de Vida
 
 ## Resumen
-Investiga y presenta un reporte creativo sobre un bosque local, su importancia cultural y amenazas.
+Prepara un reporte de investigación sobre un bosque de tu área. Presenta tus hallazgos creativamente, como una obra de teatro, un noticiero, un sitio web o un póster.
+
+## Preparación
+1. Elige un bosque de tu área para investigar.
+2. Prepara el material para la investigación.
+3. Define el formato de presentación creativa.
 
 ## Desarrollo
-Prepara un reporte de investigación sobre un bosque de tu área. ¿Qué tipo de bosque es? ¿Es importante para la herencia cultural local? ¿Qué medios de subsistencia locales sustenta? ¿Los bosques enfrentan algunas amenazas? ¿Qué están haciendo las personas (si es que están haciendo algo) para proteger el valor biológico, cultural y económico de los bosques? Presenta tus hallazgos creativamente, por ejemplo, como una obra de teatro, un noticiero, un sitio web o un póster.
+1. **Investigación** (30 min): Investiga el tipo de bosque, su importancia cultural, medios de subsistencia que sustenta y amenazas.
+2. **Análisis** (15 min): Analiza qué están haciendo las personas para proteger el bosque.
+3. **Creación** (25 min): Prepara tu presentación creativa.
+4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
 
 ## Cierre
-¿Cómo podemos equilibrar el uso económico y la conservación de los bosques?
+- ¿Qué aprendiste sobre el bosque de tu área?
+- ¿Cómo podemos proteger su valor biológico, cultural y económico?
+- ¿Qué compromiso adquieres para cuidar el bosque local?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

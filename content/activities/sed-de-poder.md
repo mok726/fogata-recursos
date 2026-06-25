@@ -7,7 +7,7 @@ description: "Juego para aprender sobre pobreza energética global."
 summary: "Juego para aprender sobre pobreza energética global."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

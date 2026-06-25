@@ -7,7 +7,7 @@ description: "Identificación de plantas nativas."
 summary: "Identificación de plantas nativas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

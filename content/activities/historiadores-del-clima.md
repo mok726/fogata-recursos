@@ -7,7 +7,7 @@ description: "Los participantes investigan la historia del clima de la Tierra."
 summary: "Los participantes investigan la historia del clima de la Tierra."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

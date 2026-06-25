@@ -7,7 +7,7 @@ description: "Los participantes crean cajas para 'espiar' el océano y reflexion
 summary: "Los participantes crean cajas para 'espiar' el océano y reflexionan sobre los impactos del cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

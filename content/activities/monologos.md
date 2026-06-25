@@ -7,7 +7,7 @@ description: "Organiza un debate sobre los pros y contras del monocultivo."
 summary: "Organiza un debate sobre los pros y contras del monocultivo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

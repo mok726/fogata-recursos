@@ -756,15 +756,17 @@ height:56px;
 }
 
 
+
+
 /* ==========================================
    ACTIVIDADES OBLIGATORIAS
 ========================================== */
 
 .activity-card-required {
-  border: 2px solid #d4af37;
+  border: 2px solid #d62828;
   box-shadow:
-    0 4px 12px rgba(0,0,0,.08),
-    0 0 0 3px rgba(212,175,55,.25);
+    0 4px 12px rgba(214,40,40,.6),
+    0 0 0 3px rgba(214,40,40,.25);
 }
 
 .activity-card-required::before {
@@ -778,7 +780,7 @@ height:56px;
 
   height: 6px;
 
-  background: #d4af37;
+  background: #d62828;
 
   z-index: 20;
 }
@@ -855,3 +857,85 @@ height:56px;
   box-shadow:
     0 2px 6px rgba(0,0,0,.25);
 }
+
+
+
+
+/* ==========================================
+   ACTIVIDADES DESTACADAS
+========================================== */
+
+.activity-card-featured {
+  border: 2px solid #d4af37;
+  box-shadow:
+    0 4px 12px rgba(0,0,0,.08),
+    0 0 0 3px rgba(212,175,55,.25);
+}
+
+.activity-card-featured::before {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  right: 0;
+
+  height: 6px;
+
+  background: #d4af37;
+
+  z-index: 20;
+}
+
+
+.featured-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+
+  margin-bottom: .5rem;
+
+  padding: .35rem .7rem;
+
+  border-radius: 999px;
+
+  background: #fff6d8;
+  color: #8a6400;
+
+  font-size: .75rem;
+  font-weight: 700;
+
+  border: 1px solid #e5c86b;
+}
+
+
+.activity-featured {
+  position: absolute;
+
+  z-index: 10;
+
+  background: #d62828;
+  color: white;
+
+  padding: .4rem .7rem;
+
+  border-radius: 999px;
+
+  font-size: .75rem;
+  font-weight: 700;
+
+  box-shadow: 0 2px 6px rgba(0,0,0,.25);
+}
+
+
+.activity-featured {
+  bottom: 12px;
+  left: 12px;
+}
+
+
+
+
+
+

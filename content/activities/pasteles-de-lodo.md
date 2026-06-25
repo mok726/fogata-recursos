@@ -7,7 +7,7 @@ description: "Experimenta con diferentes texturas de suelo para crear pasteles d
 summary: "Experimenta con diferentes texturas de suelo para crear pasteles de lodo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

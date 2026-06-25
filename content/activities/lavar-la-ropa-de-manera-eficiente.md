@@ -7,7 +7,7 @@ description: "Llena siempre la lavadora con una carga completa y cuelga la ropa 
 summary: "Llena siempre la lavadora con una carga completa y cuelga la ropa para secarla."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

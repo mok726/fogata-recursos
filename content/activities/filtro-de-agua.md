@@ -10,7 +10,7 @@ summary: |
   Actividad obligatoria para la categoría El agua en peligro.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

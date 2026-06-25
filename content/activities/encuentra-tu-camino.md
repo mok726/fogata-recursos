@@ -1,133 +1,198 @@
 ---
-title: "ENCUENTRA TU CAMINO"
-duration: "2-3 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Encuentra tu Camino"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/encuentra-tu-camino/"
-description: "Participa en una actividad de orientación usando mapas en un bosque."
-summary: "Participa en una actividad de orientación usando mapas en un bosque."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Participa en un evento de orientación forestal usando un mapa para navegar por el bosque."
+summary: "Evento de orientación y navegación en el bosque."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/encuentra-tu-camino.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
   - Mapa del bosque
   - Brújula (opcional)
-tools:
-  - Brújula
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Habilidades Prácticas y Técnicas
-  - Autoconocimiento y Desarrollo Personal
+tools: []
 responsible:
-  - Scouter o experto en orientación
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 4
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C13"
-rama_lobatos:
-  - 13
-  - 30
-rama_scouts:
-  - 4
-  - 11
-rama_caminantes:
-  - 4
-  - 11
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine forest, with a map and compass on a fallen log in the center-left. An orienteering checkpoint (orange and white flag) visible in the distance. A scout checking the map. The left side has open space for text. On the far right side, two tiny older scouts (11-21) stand, one holding the map, the other the compass, looking at the terrain, seen from a distance. The orienteering environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - orientación
-  - mapa
-  - brújula
-  - senderismo
-  - navegación
-  - Insignia de los Bosques
+  - orientacion
+  - navegacion
+  - aventura
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 4  # Actividad lúdica y de aventura
+reflective_component: 2  # Reflexión moderada
+active_component: 5  # Alta actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere habilidades de orientación
+complexity_organizer: 4  # Requiere planificación del evento
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A group navigating through a forest using a map and compass dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, orienteering and reading maps. Navigation and adventure atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Exterior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+space_required: "Bosque para orientación"
+prep_time: "30 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
 accessibility:
-  - -Movilidad
-activity_type:
+  - -Motora  # Requiere caminar por el bosque
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
   - Orientación
-  - Habilidad
+  - Trabajo en equipo
+  - Resolución de problemas
+
+activity_type:
+  - Juego
+  - Aprender haciendo
+  - Exploración
+
 category:
+  - Orientación
+  - Aventura
   - Navegación
-  - Supervivencia
-  - Educación
+
 skills:
-  - Orientación espacial
-  - Supervivencia
-  - Adaptabilidad
-main_type: "Aprender haciendo"
-space_required: "Exterior abierto (bosque)"
-special_materials:
-  - mapa topográfico del área
-  - brújula
-  - silbato
-  - ropa adecuada
-  - agua
-prep_time: "30 min preparación + actividad"
+  - Observación
+  - Trabajo en equipo
+  - Resolución de problemas
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
+  - Aventura
   - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 3
-reflective_component: 4
-active_component: 4
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 52  # Desarrollo habilidades para comunicarme claramente con otros.
+
+rama_caminantes:
+  - 10  # Me involucro en actividades físicas y deportivas.
+  - 37  # Investigo y desarrollo distintas habilidades y tecnologías.
+
+rama_rovers:
+  - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas.
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# ENCUENTRA TU CAMINO
+# Encuentra tu Camino
 
 ## Resumen
-Participa en una actividad de orientación usando mapas en un bosque.
+Participa en un evento de orientación forestal usando un mapa para navegar por el bosque. Si vives en un lugar con nieve, realiza la actividad en diferentes estaciones.
+
+## Preparación
+1. Consigue un mapa del bosque donde se realizará la actividad.
+2. Prepara una brújula si es necesario.
+3. Define la ruta y los puntos de control.
 
 ## Desarrollo
-Participa en un evento de orientación forestal donde tienes que buscar el camino por medio de un bosque usando un mapa. Si vives en un lugar donde hay nieve, trata de realizar esta actividad en diferentes estaciones. Podrías hacer caminatas durante la primavera o el verano y caminar sobre la nieve o practicar esquí de fondo en los meses de invierno.
+1. **Aprendizaje** (15 min): Aprende a leer un mapa y usar una brújula.
+2. **Planificación** (10 min): Planifica la ruta con tu grupo.
+3. **Navegación** (30-45 min): Navega por el bosque usando el mapa.
+4. **Reflexión** (15 min): Comparte tu experiencia con el grupo.
 
 ## Cierre
-¿Qué habilidades son esenciales para orientarse en un bosque?
+- ¿Qué aprendiste sobre la orientación en el bosque?
+- ¿Qué desafíos encontraste durante la navegación?
+- ¿Cómo puedes mejorar tus habilidades de orientación?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

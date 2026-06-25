@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes crear historias convinc
 summary: "Esta actividad permite a los participantes crear historias convincentes para abogar por la biodiversidad utilizando el formato de narrativa de Pixar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

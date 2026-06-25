@@ -7,7 +7,7 @@ description: "Crea una canción sobre los factores que dañan el suelo."
 summary: "Crea una canción sobre los factores que dañan el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

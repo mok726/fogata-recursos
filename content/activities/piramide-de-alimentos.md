@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes comprender el impacto d
 summary: "Esta actividad permite a los participantes comprender el impacto de sus elecciones de alimentos en el medio ambiente y su salud."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

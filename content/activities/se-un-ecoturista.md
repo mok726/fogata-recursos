@@ -7,7 +7,7 @@ description: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia a
 summary: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

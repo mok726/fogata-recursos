@@ -7,7 +7,7 @@ description: "Examina muestras de suelo bajo un microscopio para observar sus co
 summary: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

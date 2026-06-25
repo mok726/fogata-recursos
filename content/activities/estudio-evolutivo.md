@@ -7,7 +7,7 @@ description: "Los participantes investigan cómo una especie se ha adaptado al c
 summary: "Los participantes investigan cómo una especie se ha adaptado al clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

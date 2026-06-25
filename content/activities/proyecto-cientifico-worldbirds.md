@@ -7,7 +7,7 @@ description: "Participación en ciencia ciudadana."
 summary: "Participación en ciencia ciudadana."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

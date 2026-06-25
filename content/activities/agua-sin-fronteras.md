@@ -6,7 +6,7 @@ description: "Investiga los recursos hídricos transfronterizos."
 summary: "Investiga los recursos hídricos transfronterizos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

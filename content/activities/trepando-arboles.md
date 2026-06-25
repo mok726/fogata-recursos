@@ -1,124 +1,203 @@
 ---
-title: "TREPANDO ÁRBOLES"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Trepando Árboles"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/trepando-arboles/"
-description: "Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad."
-summary: "Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Investiga trabajos donde las personas necesitan trepar árboles. Comparte tus hallazgos y, con supervisión, intenta trepar un árbol."
+summary: "Investigación sobre trabajos que requieren trepar árboles."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/trepando-arboles.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
-tools:
-  - Equipo de escalada (opcional)
-competencies:
-  - Investigación y Gestión de Datos
-  - Salud, Bienestar y Seguridad
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Material de investigación
+tools: []
 responsible:
-  - Scouter o experto en arboricultura
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 8
+  - 4   # Educación de calidad
+  - 8   # Trabajo decente y crecimiento económico
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B05"
-rama_lobatos:
-  - 8
-  - 30
-rama_scouts:
-  - 8
-  - 38
-rama_caminantes:
-  - 8
-  - 38
-rama_rovers:
-  - 4
-  - 8
-image_prompt: "An Argentine forest or park with a large, sturdy tree in the center-left. A safety harness and rope looped around a branch (for demonstration only). A sign 'Trepa con supervisión'. A notebook with research on jobs that require tree climbing (arborist, coconut harvester, researcher). The left side has open space for text. On the far right side, a tiny older scout (11-21) stands at the base of the tree, looking up, another scout holds a safety helmet, seen from a distance. The tree climbing research environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - trepar árboles
-  - arboricultor
-  - recolección
+  - trepar-arboles
+  - trabajo
   - seguridad
-  - equipo
-  - Insignia de los Bosques
-location: "Exterior / Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 3  # Actividad práctica y divertida
+reflective_component: 2  # Reflexión moderada
+active_component: 4  # Trepar árboles
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere supervisión
+complexity_organizer: 3  # Requiere planificación de seguridad
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. People climbing trees with safety equipment in a forest dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, learning to climb with adult supervision. Adventure and skill development atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Exterior"
+space_required: "Bosque con árboles adecuados"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
 accessibility:
-  - -Movilidad
-activity_type:
-  - Investigación
-  - Habilidad
-category:
-  - Trabajo
-  - Seguridad
-  - Habilidad física
-skills:
+  - -Motora  # Requiere habilidad física
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
   - Investigación
   - Conciencia de seguridad
   - Habilidades físicas
-main_type: "Investigación"
-space_required: "Exterior (árbol seguro) + salón"
-prep_time: "25 min"
-scout_values:
+
+activity_type:
+  - Investigación
+  - Aprender haciendo
+  - Exploración
+
+category:
+  - Trabajo forestal
+  - Seguridad
+  - Aventura
+
+skills:
+  - Investigación
+  - Observación
   - Responsabilidad
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
   - Superación personal
+  - Aventura
+  - Responsabilidad
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+
+rama_scouts:
+  - 13  # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 38  # Desarrollo habilidades y técnicas que me permitan el disfrute de la vida en la naturaleza.
+
+rama_caminantes:
+  - 12  # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad.
+  - 13  # Me informo y preparo para enfrentar situaciones de emergencia.
+
+rama_rovers:
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros.
 ---
 
-# TREPANDO ÁRBOLES
+# Trepando Árboles
 
 ## Resumen
-Investiga sobre trabajos que requieren trepar árboles y sus medidas de seguridad.
+Investiga trabajos donde las personas necesitan trepar árboles. Comparte tus hallazgos y, con supervisión, intenta trepar un árbol.
+
+## Preparación
+1. Investiga trabajos que requieren trepar árboles.
+2. Asegura la supervisión de un adulto para la extensión.
+3. Elige un árbol adecuado para trepar.
 
 ## Desarrollo
-Trepar los árboles no es sólo una actividad divertida o una forma de obtener un mango o un coco fresco. También es una habilidad importante requerida por algunos tipos de medios de **subsistencia** o trabajos. ¿Cuáles son cinco trabajos o medios de **subsistencia** en los cuales las personas deben trepar árboles? ¿Por qué trepar árboles es importante para sus trabajos? ¿Los trepadores de cada trabajo trepan los árboles de la misma forma o hasta la misma altura? ¿Utilizan algún equipo especial para trepar? ¿Qué medidas de seguridad toman los trepadores? ¿Qué tipo de personas trepan los árboles, por ejemplo, son hombres jóvenes o mujeres ancianas aquellos que hacen la mayor parte del trabajo? Comparte tus hallazgos con tu grupo.
-**Extensión:** Intenta trepar un árbol tú mismo. ¡Pon mucha atención en dónde colocas tus manos y tus pies! No pongas tu peso en ramas pequeñas o delgadas. Trepa el árbol sólo si hay al menos un adulto que cuide de ti.
+1. **Investigación** (15 min): Investiga cinco trabajos donde se trepan árboles.
+2. **Análisis** (10 min): Analiza por qué trepar es importante, equipo y medidas de seguridad.
+3. **Comparación** (10 min): Compara cómo trepan diferentes trabajadores.
+4. **Presentación** (10 min): Comparte tus hallazgos con el grupo.
+5. **Extensión** (15 min): Con supervisión, intenta trepar un árbol.
 
 ## Cierre
-¿Qué habilidades físicas y técnicas son necesarias para trepar árboles de forma segura?
+- ¿Qué trabajos requieren trepar árboles y por qué?
+- ¿Qué medidas de seguridad son importantes?
+- ¿Qué compromiso adquieres para practicar la seguridad?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

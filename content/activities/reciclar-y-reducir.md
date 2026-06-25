@@ -7,7 +7,7 @@ description: "Esta actividad ayuda a los participantes a comprender la diferenci
 summary: "Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

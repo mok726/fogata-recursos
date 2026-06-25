@@ -1,129 +1,196 @@
 ---
-title: "PATRONES DE CORTEZA"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Patrones de Corteza"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/patrones-de-corteza/"
-description: "Visita un arboreto y calca las cortezas de árboles inusuales, identificando sus nombres científicos."
-summary: "Visita un arboreto y calca las cortezas de árboles inusuales, identificando sus nombres científicos."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Visita un arboreto y calca las cortezas de los tres árboles más inusuales. Etiqueta cada árbol con su nombre y origen."
+summary: "Calcos de cortezas de árboles."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/patrones-de-corteza.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-10 años"
 age_group:
-  - scouts
-  - caminantes
-  - rovers
-tools:
-  - Guía de árboles (opcional)
-competencies:
-  - Investigación y Gestión de Datos
-  - Creatividad y Expresión
+  - castores
+  - manada
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Papel para calcar
+  - Lápices de cera o carboncillo
+  - Guía de identificación de árboles
+tools: []
 responsible:
-  - Scouter o botánico
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 15
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-A05"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 15
-  - 32
-rama_caminantes:
-  - 15
-  - 31
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An Argentine arboretum or park, with a large tree with unusual bark (e.g., peeling or furrowed) in the center-left. A sheet of paper and a crayon pressed against the trunk, creating a bark rubbing. A notebook with the tree's common and scientific name. The left side has open space for text. On the far right side, two tiny older scouts (11-21) kneel, one making a rubbing, the other writing the name, seen from a distance. The bark rubbing environment dominates."
-similar_activities:
-  - https://www.wikihow.com/Make-a-Bark-Rubbing
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
   - corteza
-  - árboles
-  - calco
-  - nombres científicos
-  - patrones
-  - Insignia de los Bosques
+  - calcos
+  - arboles
+  - seccion-a
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files:
+  - filepath: "www.wikihow.com/Make-a-Bark-Rubbing"
+    caption: "Cómo hacer calcos de corteza"
+    icon: "link"
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 3  # Actividad creativa
+reflective_component: 2  # Reflexión moderada
+active_component: 2  # Caminata y calcos
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Arte"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Tree bark rubbing patterns from different species dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, doing bark rubbings in an arboretum. Artistic exploration and tree identification atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Exterior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+space_required: "Arboreto o jardín botánico"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Creatividad
+  - Observación
+  - Identificación de árboles
+
 activity_type:
   - Arte
-  - Investigación
-category:
-  - Botánica
-  - Arte
-  - Ciencia
-skills:
-  - Observación
-  - Investigación
-  - Habilidades artísticas
-main_type: "Investigación"
-space_required: "Exterior abierto (arboreto o parque)"
-prep_time: "15 min"
-scout_values:
-  - Superación personal
-scout_method:
-  - Vida en la Naturaleza y Aventura
+  - Exploración
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 3
-active_component: 2
-files:
-  - filepath: "https://www.wikihow.com/Make-a-Bark-Rubbing"
-    caption: "Similares en la Web"
-    icon: "read_more"
 
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+category:
+  - Corteza
+  - Árboles
+  - Arte
 
+skills:
+  - Creatividad
+  - Observación
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Creatividad e Ingenio
+
+scout_method:
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 30  # Desarrollo habilidades que me permiten disfrutar de la naturaleza.
+
+rama_scouts: []  # No aplica (actividad nivel 1)
+
+rama_caminantes: []  # No aplica (actividad nivel 1)
+
+rama_rovers: []  # No aplica (actividad nivel 1)
 ---
 
-# PATRONES DE CORTEZA
+# Patrones de Corteza
 
 ## Resumen
-Visita un arboreto y calca las cortezas de árboles inusuales, identificando sus nombres científicos.
+Visita un arboreto y calca las cortezas de los tres árboles más inusuales. Etiqueta cada árbol con su nombre y origen.
+
+## Preparación
+1. Visita un arboreto o museo al aire libre de árboles.
+2. Prepara papel y lápices de cera o carboncillo.
+3. Asegura la supervisión de un adulto.
 
 ## Desarrollo
-Visita un arboreto (un museo al aire libre sobre árboles vivos). Calca las **cortezas** de los tres árboles más inusuales que veas. (Aprende cómo hacerlo en este sitio web: **www.wikihow.com/Make-a-Bark-Rubbing**). Etiqueta cada árbol con su nombre común y científico y anota dónde crece el árbol naturalmente.
+1. **Observación** (15 min): Busca los tres árboles más inusuales.
+2. **Calco** (20 min): Calca las cortezas de los árboles elegidos.
+3. **Identificación** (15 min): Etiqueta cada árbol con nombre común y científico.
+4. **Registro** (10 min): Anota dónde crece el árbol naturalmente.
 
 ## Cierre
-¿Qué patrones de corteza te llamaron más la atención? ¿Cómo crees que la corteza protege al árbol?
+- ¿Qué patrones de corteza encontraste?
+- ¿Qué árbol te pareció más inusual?
+- ¿Qué aprendiste sobre la diversidad de árboles?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

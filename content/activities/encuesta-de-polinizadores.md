@@ -7,7 +7,7 @@ description: "Realiza una encuesta de polinizadores en tu jardín, parque local 
 summary: "Realiza una encuesta de polinizadores en tu jardín, parque local o jardín escolar. Identifica y cuenta los polinizadores que ves, registra tus observaciones y toma fotos o dibuja los polinizadores que encuentres."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Los participantes investigan cómo el clima afecta la calidad de v
 summary: "Los participantes investigan cómo el clima afecta la calidad de vida."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

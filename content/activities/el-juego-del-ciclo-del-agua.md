@@ -6,7 +6,7 @@ description: "Actividad para aprender sobre el ciclo del agua."
 summary: "Actividad para aprender sobre el ciclo del agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

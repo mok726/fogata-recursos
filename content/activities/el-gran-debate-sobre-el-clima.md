@@ -7,7 +7,7 @@ description: "Los participantes debaten si el cambio climático es natural o cau
 summary: "Los participantes debaten si el cambio climático es natural o causado por el hombre."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

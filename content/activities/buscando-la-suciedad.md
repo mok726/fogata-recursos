@@ -7,7 +7,7 @@ description: "Investiga la contaminación del suelo y el agua en tu área."
 summary: "Investiga la contaminación del suelo y el agua en tu área."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

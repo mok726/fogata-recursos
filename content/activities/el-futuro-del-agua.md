@@ -6,7 +6,7 @@ description: "Diseña una casa o ciudad sostenible."
 summary: "Diseña una casa o ciudad sostenible."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

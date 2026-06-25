@@ -11,7 +11,7 @@ summary: |
   Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente. Haz una lista de formas para reducir tu impacto y sigue un plan durante un mes.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

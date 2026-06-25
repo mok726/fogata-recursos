@@ -1,128 +1,189 @@
 ---
-title: "CINCO COSAS BUENAS"
-duration: "1 hora"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Cinco Cosas Buenas"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cinco-cosas-buenas/"
-description: "Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo."
-summary: "Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Enumera cinco razones por las cuales los bosques son importantes para la naturaleza. Haz un dibujo sobre la importancia de los bosques."
+summary: "Reflexión y dibujo sobre la importancia de los bosques."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/cinco-cosas-buenas.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-13"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Papel
-  - Lápices de colores o marcadores
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
-responsible:
-  - Scouter o líder de grupo
+  - Material para dibujo (papel, lápices, colores)
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 15
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-A04"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 15
-  - 32
-rama_caminantes:
-  - 15
-  - 31
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An Argentine scout room, with a large drawing or poster on the wall in the center-left showing five benefits of forests: oxygen (lungs), wildlife habitat (animals), carbon storage (CO2 arrow), water regulation (river), recreation (camping). Colorful illustrations. The left side has negative space for text. On the far right side, a tiny young scout (5-15) stands, pointing at the oxygen lungs, another scout holds a drawing, seen from a distance. The forest benefits art environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - beneficios
-  - naturaleza
-  - personas
+  - reflexion
   - dibujo
-  - Insignia de los Bosques
+  - beneficios
+  - seccion-a
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Actividad creativa
+reflective_component: 4  # Reflexión sobre importancia
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 1  # Muy baja complejidad
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Reflexión"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child drawing five reasons why forests are important dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing and reflecting. Creative environmental education atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-20"
-complexity_execution: 1
-complexity_organizer: 1
-accessibility:
-  - -Visual
-activity_type:
-  - Arte
+space_required: "Salón para dibujar"
+prep_time: "10 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
   - Reflexión
-category:
-  - Arte
-  - Ecología
-  - Conciencia
-skills:
-  - Pensamiento crítico
   - Creatividad
   - Conciencia ambiental
-main_type: "Arte"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices de colores
-  - marcadores
-prep_time: "15 min"
+
+activity_type:
+  - Reflexión
+  - Arte
+  - Sensibilización
+
+category:
+  - Beneficios
+  - Importancia
+  - Dibujo
+
+skills:
+  - Creatividad
+  - Pensamiento crítico
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Naturaleza
+  - Curiosidad y Apertura al aprendizaje
+  - Creatividad e Ingenio
+
 scout_method:
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Marco simbólico
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+
+rama_scouts: []  # No aplica (actividad nivel 1)
+
+rama_caminantes: []  # No aplica (actividad nivel 1)
+
+rama_rovers: []  # No aplica (actividad nivel 1)
 ---
 
-# CINCO COSAS BUENAS
+# Cinco Cosas Buenas
 
 ## Resumen
-Reflexiona sobre cinco beneficios de los bosques para la naturaleza y las personas, y representa tus ideas en un dibujo.
+Enumera cinco razones por las cuales los bosques son importantes para la naturaleza. Haz un dibujo sobre la importancia de los bosques.
+
+## Preparación
+1. Reflexiona sobre la importancia de los bosques.
+2. Prepara material para dibujo.
 
 ## Desarrollo
-¿Cuáles son cinco razones por las cuales los bosques son importantes para la naturaleza? 
-- ¿Estos beneficios también son buenos para las personas? 
-- ¿Por qué sí o por qué no? Haz un dibujo que muestre la importancia de los bosques.
+1. **Reflexión** (15 min): Piensa en cinco razones por las que los bosques son importantes.
+2. **Escritura** (10 min): Escribe tus cinco razones.
+3. **Dibujo** (20 min): Haz un dibujo que muestre la importancia de los bosques.
+4. **Compartir** (10 min): Comparte tu dibujo y razones con el grupo.
 
 ## Cierre
-¿Cuál beneficio de los bosques te parece más relevante para tu vida diaria? ¿Por qué?
+- ¿Qué razones te parecieron más importantes?
+- ¿Cómo benefician los bosques a las personas?
+- ¿Qué compromiso adquieres para cuidar los bosques?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

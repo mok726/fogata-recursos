@@ -7,7 +7,7 @@ description: "Experimento sobre energía potencial y cinética con rampas."
 summary: "Experimento sobre energía potencial y cinética con rampas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Observa el medidor de agua de tu casa y haz un plan para reducir e
 summary: "Observa el medidor de agua de tu casa y haz un plan para reducir el consumo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

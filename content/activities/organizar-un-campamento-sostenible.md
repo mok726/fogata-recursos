@@ -7,7 +7,7 @@ description: "Planea un campamento de verano amigable con el medio ambiente."
 summary: "Planea un campamento de verano amigable con el medio ambiente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

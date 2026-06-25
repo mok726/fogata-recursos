@@ -7,7 +7,7 @@ description: "Análisis de crecimiento en diferentes suelos."
 summary: "Análisis de crecimiento en diferentes suelos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

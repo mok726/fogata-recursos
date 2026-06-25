@@ -7,7 +7,7 @@ description: "Actividad para fomentar la creatividad y proponer soluciones innov
 summary: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

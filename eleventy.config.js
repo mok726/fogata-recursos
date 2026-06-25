@@ -68,6 +68,38 @@ eleventyConfig.addCollection(
 
 
 
+
+// Orden por activity_code.
+// Usada únicamente por badge-page.njk para que las
+// actividades aparezcan siguiendo el orden oficial
+// del programa de insignias.
+
+eleventyConfig.addCollection(
+  "activitiesByCode",
+  function(collectionApi) {
+
+    return collectionApi
+      .getFilteredByGlob(
+        "content/activities/*.md"
+      )
+      .sort((a, b) => {
+
+        const codeA = a.data.activity_code || "";
+        const codeB = b.data.activity_code || "";
+
+        return codeA.localeCompare(
+          codeB,
+          "es",
+          { numeric: true }
+        );
+
+      });
+
+  }
+);
+
+
+
   eleventyConfig.addPlugin(
     sitemapPlugin,
     {

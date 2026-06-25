@@ -7,7 +7,7 @@ description: "Comprométete a usar menos tiempo el televisor o la computadora ca
 summary: "Comprométete a usar menos tiempo el televisor o la computadora cada día."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

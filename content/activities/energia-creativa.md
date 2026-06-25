@@ -7,7 +7,7 @@ description: "Inventa un método innovador de generación eléctrica y escribe u
 summary: "Inventa un método innovador de generación eléctrica y escribe un cuento."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

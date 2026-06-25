@@ -7,7 +7,7 @@ description: "Actividad para crear una canción sobre el agua y compartirla con 
 summary: "Actividad para crear una canción sobre el agua y compartirla con la comunidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

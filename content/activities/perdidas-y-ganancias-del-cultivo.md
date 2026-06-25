@@ -7,7 +7,7 @@ description: "Visita una granja local para aprender sobre las prácticas agríco
 summary: "Visita una granja local para aprender sobre las prácticas agrícolas y su impacto en el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

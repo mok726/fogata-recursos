@@ -1,135 +1,200 @@
 ---
-title: "ESCULPIR UN DESASTRE"
-duration: "3-4 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Esculpir un Desastre"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/esculpir-un-desastre/"
-description: "Tallar una escultura en madera inspirada en desastres naturales."
-summary: "Tallar una escultura en madera inspirada en desastres naturales."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Talla una escultura en un pedazo de madera usando como inspiración un desastre. Usa madera recuperada de desastres o de fuentes sostenibles."
+summary: "Creación de una escultura inspirada en un desastre natural."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/esculpir-un-desastre.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Madera recuperada o sostenible
-  - Herramientas de tallado seguras
-tools:
-  - Cuchillo de tallado (manejado por adultos)
-  - Lijas
-competencies:
-  - Creatividad y Expresión
-  - Autoconocimiento y Desarrollo Personal
-  - Sostenibilidad y Medio Ambiente
+  - Madera para tallar (recuperada, sostenible o de la costa)
+  - Herramientas de tallado (cuchillas, gubias, etc.)
+  - Lija y barniz (opcional)
+tools: []
 responsible:
-  - Scouter o artista
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 11
-  - 13
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C14"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 11
-  - 13
-rama_caminantes:
-  - 11
-  - 13
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine scout room or workshop, with a workbench in the center-left displaying a wood sculpture carved from reclaimed storm-fallen wood. The sculpture depicts a tree bent by wind or a wave from a tsunami. Carving tools (safety supervised) and sandpaper. The left side has negative space for text. On the far right side, a tiny older scout (16-21) stands, holding a carving tool, another holds the finished sculpture, seen from a distance. The disaster wood sculpture environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - escultura
-  - madera recuperada
-  - desastres
+  - desastres-naturales
   - arte
-  - trauma
-  - Insignia de los Bosques
-location: "Interior / Exterior"
-participants: "4-10"
-complexity_execution: 4
-complexity_organizer: 4
+  - escultura
+  - seccion-c
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Actividad artística y manual
+reflective_component: 4  # Reflexión sobre desastres y resiliencia
+active_component: 2  # Actividad manual moderada
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere habilidades de tallado
+complexity_organizer: 3  # Requiere preparación de materiales y seguridad
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Arte"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A wood carving sculpture depicting a natural disaster like a hurricane or flood dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, carving wood with tools. Artistic expression and resilience atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Ambos"
+space_required: "Espacio para tallar madera"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
 accessibility:
-  - -Movilidad
-  - -Visual
+  - -Motora  # Requiere habilidades manuales finas
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Creatividad
+  - Conciencia ambiental
+  - Resiliencia
+
 activity_type:
   - Arte
-  - Terapia
+  - Reflexión
+  - Aprender haciendo
+
 category:
+  - Desastres naturales
   - Arte
   - Resiliencia
-  - Desastres
+
 skills:
   - Creatividad
-  - Manejo de emociones
   - Conciencia ambiental
-main_type: "Arte"
-space_required: "Salón amplio (taller) o exterior"
-special_materials:
-  - madera recuperada (caída de tormenta
-  - deriva)
-  - cuchillos de tallado (supervisión adulto)
-  - lija
-  - gafas de seguridad
-  - guantes
-prep_time: "30 min + tiempo de tallado"
+  - Pensamiento crítico
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
+  - Creatividad e Ingenio
   - Perseverancia
-  - Superación personal
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 5
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Vida en la Naturaleza y Aventura
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 46  # Exploro y experimento con diferentes técnicas y tecnologías.
+
+rama_caminantes:
+  - 36  # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  - 38  # Afronto creativamente los desafíos y problemas.
+
+rama_rovers:
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 8   # Busco y evalúo el valor de diversas fuentes de información.
 ---
 
-# ESCULPIR UN DESASTRE
+# Esculpir un Desastre
 
 ## Resumen
-Tallar una escultura en madera inspirada en desastres naturales.
+Talla una escultura en un pedazo de madera usando como inspiración un desastre. Usa madera recuperada de desastres o de fuentes sostenibles.
+
+## Preparación
+1. Elige un desastre natural como inspiración (inundación, tifón, huracán, ciclón, terremoto, etc.).
+2. Reúne la madera (recuperada de desastres, de fuentes sostenibles o de la costa).
+3. Prepara las herramientas de tallado y asegura la supervisión de un adulto.
 
 ## Desarrollo
-Talla una escultura en un pedazo de madera usando como inspiración un desastre. Cuando una amenaza natural, como una inundación, un tifón, un huracán, un ciclón (vientos espiralados) y un terremoto afecta severamente a las personas, a sus hogares y a sus medios de subsistencia, el evento se denomina un ‘desastre’. Para lidiar con la tragedia y la pérdida, las personas algunas veces crean esculturas y obras de arte con ‘madera recuperada’ (de los árboles que fueron arrancados). Si vives en un área afectada por un desastre, trata de usar esta madera para tu escultura. Si no, usa madera procedente de fuentes sostenibles. Si vives cerca del mar, también podrías usar la madera que el mar ha arrastrado hacia la costa.
+1. **Investigación** (20 min): Aprende sobre el desastre elegido y cómo afectó a las personas y los bosques.
+2. **Diseño** (15 min): Diseña la escultura que vas a tallar.
+3. **Tallado** (30-45 min): Talla la escultura en la madera.
+4. **Acabado** (15 min): Lija y barniza la escultura si es necesario.
+5. **Presentación** (15 min): Comparte tu obra con el grupo.
 
 ## Cierre
-¿Cómo puede el arte ayudar a procesar experiencias traumáticas?
+- ¿Qué aprendiste sobre los desastres naturales y su impacto?
+- ¿Cómo puede el arte ayudar a las personas a lidiar con la tragedia?
+- ¿Qué compromiso adquieres para apoyar a las comunidades afectadas por desastres?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

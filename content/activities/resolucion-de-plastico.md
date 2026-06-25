@@ -7,7 +7,7 @@ description: "Actividad que anima a los jóvenes a tomar medidas para reducir el
 summary: "Actividad que anima a los jóvenes a tomar medidas para reducir el uso de plásticos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

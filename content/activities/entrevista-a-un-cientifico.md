@@ -7,7 +7,7 @@ description: "Divulgación científica."
 summary: "Divulgación científica."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

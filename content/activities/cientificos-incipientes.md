@@ -7,7 +7,7 @@ description: "Los participantes imaginan ser científicos que estudian el cambio
 summary: "Los participantes imaginan ser científicos que estudian el cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

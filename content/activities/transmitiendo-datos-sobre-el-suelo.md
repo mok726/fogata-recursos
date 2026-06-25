@@ -7,7 +7,7 @@ description: "Crea una exhibición pública sobre los problemas del suelo y cóm
 summary: "Crea una exhibición pública sobre los problemas del suelo y cómo protegerlo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

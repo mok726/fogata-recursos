@@ -7,7 +7,7 @@ description: "Visita una construcción sostenible y haz una maqueta."
 summary: "Visita una construcción sostenible y haz una maqueta."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

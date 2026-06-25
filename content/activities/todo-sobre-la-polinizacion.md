@@ -7,7 +7,7 @@ description: "Aprende sobre los diferentes tipos de polinización y polinizadore
 summary: "Aprende sobre los diferentes tipos de polinización y polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

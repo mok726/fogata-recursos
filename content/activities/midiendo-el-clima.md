@@ -7,7 +7,7 @@ description: "Los participantes aprenden cómo se mide el clima."
 summary: "Los participantes aprenden cómo se mide el clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

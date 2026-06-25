@@ -7,7 +7,7 @@ description: "Comunicación masiva."
 summary: "Comunicación masiva."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

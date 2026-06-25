@@ -7,7 +7,7 @@ description: "Analiza las políticas de energía de tu país y propone mejoras."
 summary: "Analiza las políticas de energía de tu país y propone mejoras."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

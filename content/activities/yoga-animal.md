@@ -7,7 +7,7 @@ description: "Actividad física y educación."
 summary: "Actividad física y educación."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

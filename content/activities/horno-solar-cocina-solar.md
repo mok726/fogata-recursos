@@ -7,7 +7,7 @@ description: "Construye tu propio horno o cocina solar y aprende a cocinar utili
 summary: "Construye tu propio horno o cocina solar y aprende a cocinar utilizando la energía del Sol."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

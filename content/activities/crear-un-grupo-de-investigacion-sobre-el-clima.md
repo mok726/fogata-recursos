@@ -7,7 +7,7 @@ description: "Diseña y lleva a cabo tu propio grupo de investigación."
 summary: "Diseña y lleva a cabo tu propio grupo de investigación."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

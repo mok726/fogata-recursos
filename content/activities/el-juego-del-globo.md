@@ -7,7 +7,7 @@ description: "Reflexiona sobre conexiones globales mediante un juego con un glob
 summary: "Reflexiona sobre conexiones globales mediante un juego con un globo terráqueo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Actividad para convencer a amigos y familiares de ahorrar agua y f
 summary: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

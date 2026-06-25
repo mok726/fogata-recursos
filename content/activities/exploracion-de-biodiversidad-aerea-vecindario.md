@@ -7,7 +7,7 @@ description: "Recorrido para identificar especies en diferentes alturas."
 summary: "Recorrido para identificar especies en diferentes alturas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

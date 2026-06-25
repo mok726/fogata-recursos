@@ -7,7 +7,7 @@ description: "Los participantes dibujan un mapa que muestra los impactos del cam
 summary: "Los participantes dibujan un mapa que muestra los impactos del cambio climático en diferentes regiones."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

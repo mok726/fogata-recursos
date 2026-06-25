@@ -7,7 +7,7 @@ description: "Realiza la polinización tú mismo y aprende sobre el proceso."
 summary: "Realiza la polinización tú mismo y aprende sobre el proceso."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Diseño consciente."
 summary: "Diseño consciente."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

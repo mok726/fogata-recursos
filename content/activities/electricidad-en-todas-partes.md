@@ -7,7 +7,7 @@ description: "Los participantes cuentan los interruptores y tomas eléctricas en
 summary: "Los participantes cuentan los interruptores y tomas eléctricas en su casa."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

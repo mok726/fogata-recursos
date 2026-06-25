@@ -6,7 +6,7 @@ description: "Investiga el uso del agua en tu país."
 summary: "Investiga el uso del agua en tu país."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

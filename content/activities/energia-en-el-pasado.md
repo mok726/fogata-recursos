@@ -7,7 +7,7 @@ description: "Compara el uso energético actual con el de generaciones anteriore
 summary: "Compara el uso energético actual con el de generaciones anteriores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

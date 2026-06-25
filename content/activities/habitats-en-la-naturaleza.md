@@ -7,7 +7,7 @@ description: "Explora la naturaleza para identificar hábitats de polinizadores.
 summary: "Explora la naturaleza para identificar hábitats de polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

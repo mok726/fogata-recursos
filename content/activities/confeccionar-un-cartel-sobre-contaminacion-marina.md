@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a transmitir conciencia sobre l
 summary: "Actividad que ayuda a los jóvenes a transmitir conciencia sobre la contaminación marina por plásticos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

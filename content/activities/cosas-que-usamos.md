@@ -7,7 +7,7 @@ description: "Investiga cómo los polinizadores contribuyen a productos como ace
 summary: "Investiga cómo los polinizadores contribuyen a productos como aceites, semillas, nueces, fibras y medicinas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

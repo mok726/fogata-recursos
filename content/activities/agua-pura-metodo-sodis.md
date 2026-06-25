@@ -7,7 +7,7 @@ description: "Aprende a purificar agua utilizando la energía del Sol y el méto
 summary: "Aprende a purificar agua utilizando la energía del Sol y el método SODIS."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

@@ -1,133 +1,196 @@
 ---
-title: "ECOTURISMO"
-duration: "4-5 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Ecoturismo"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/ecoturismo/"
-description: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
-summary: "Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Investiga dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades locales. Presenta tus hallazgos y crea un folleto de viaje."
+summary: "Investigación y diseño de ecoturismo forestal."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/ecoturismo.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Recursos de investigación
-  - Materiales para folleto (opcional)
-tools:
-  - Cámara (opcional)
-competencies:
-  - Investigación y Gestión de Datos
-  - Creatividad y Expresión
-  - Emprendimiento e Innovación
-responsible:
-  - Scouter o experto en turismo
+  - Material de investigación
+  - Material para folleto (papel, marcadores, computadora)
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 8
-  - 12
+  - 8   # Trabajo decente y crecimiento económico
+  - 12  # Producción y consumo responsables
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B09"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 8
-  - 12
-rama_caminantes:
-  - 8
-  - 12
-rama_rovers:
-  - 4
-  - 8
-image_prompt: "An Argentine scout room, with a travel brochure on the wall in the center-left for an imaginary ecotourism destination (e.g., 'Bosque Andino - Vive la naturaleza'). Photos of canopy walks, local food, birdwatching. A laptop with research on real ecotourism examples. The left side has negative space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the brochure, the other holding a camera, seen from a distance. The ecotourism brochure design environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
   - ecoturismo
-  - conservación
-  - comunidades locales
-  - turismo sostenible
-  - Insignia de los Bosques
-location: "Interior / Exterior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Visual
+  - turismo-sostenible
+  - investigacion
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 2  # Actividad de investigación
+reflective_component: 3  # Reflexión sobre turismo sostenible
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 3  # Requiere preparación de folleto
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A beautiful ecotourism destination with forest activities and sustainable tourism dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating travel brochures and planning ecotours. Sustainable travel and forest conservation atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Interior"
+space_required: "Salón para investigar y crear folleto"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Investigación
+  - Conciencia ambiental
+  - Creatividad
+
 activity_type:
   - Investigación
-  - Diseño
+  - Sensibilización
+  - Arte
+
 category:
-  - Turismo
+  - Ecoturismo
+  - Turismo sostenible
   - Conservación
-  - Economía
+
 skills:
   - Investigación
-  - Diseño gráfico
-  - Pensamiento empresarial
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - cartulina
-  - marcadores
-  - cámara
-  - folletos ejemplo
-prep_time: "30 min investigación + diseño"
+  - Creatividad
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Consumo consciente y Gratitud
-  - Superación personal
+  - Naturaleza
+  - Curiosidad y Apertura al aprendizaje
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-  - Participación comunitaria y Servicio
-ludic_component: 3
-reflective_component: 4
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Vida en la Naturaleza y Aventura
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente y adopto un estilo de vida responsable y sostenible.
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 30  # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental.
+
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible y sustentable.
+  - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ECOTURISMO
+# Ecoturismo
 
 ## Resumen
-Investiga ejemplos de ecoturismo que protegen bosques y presenta tus hallazgos.
+Investiga dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades locales. Presenta tus hallazgos y crea un folleto de viaje.
+
+## Preparación
+1. Investiga ejemplos de ecoturismo en bosques alrededor del mundo.
+2. Prepara el material para el folleto.
 
 ## Desarrollo
-Haz una investigación sobre dos ejemplos de ecoturismo que ayudan a proteger a los bosques y a las personas que viven dentro y alrededor de estos. ¿Qué tipo de bosques son? ¿En qué actividades participan los eco-turistas? ¿Dónde se alojan? ¿Qué comen? ¿Las compañías de ecoturismo contratan a personas locales? ¿Cómo impacta el ecoturismo al medio ambiente? ¿Cómo impacta a las personas locales? ¿Crees que esas operaciones son buenos ejemplos de ecoturismo? ¿Por qué o por qué no? ¿Te gustaría participar en un ecoturismo? Presenta tus hallazgos a tu grupo.
-**Extensión:** Visita un bosque de tu área e imagina que es un destino de ecoturismo. ¿Qué actividades se podrían ofrecer? ¿Dónde se alojarían los turistas? ¿Qué comerían? ¿Cuánto costaría? ¿Se emplearía una parte del dinero para ayudar a las personas locales o para la conservación del bosque? Haz un folleto de viaje para tu destino de ecoturismo. Si es posible, lleva algunos amigos al bosque y ofréceles un ‘tour en vivo’ o una caminata guiada.
+1. **Investigación** (25 min): Investiga dos ejemplos de ecoturismo forestal.
+2. **Análisis** (15 min): Analiza tipo de bosque, actividades, alojamiento, comida, impacto en el ambiente y en personas locales.
+3. **Creación** (25 min): Crea un folleto de viaje para un destino de ecoturismo.
+4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
 
 ## Cierre
-¿El ecoturismo puede ser una solución sostenible para la conservación?
+- ¿Qué aprendiste sobre el ecoturismo y su impacto?
+- ¿Cómo puede el ecoturismo ayudar a proteger los bosques?
+- ¿Te gustaría participar en un ecoturismo? ¿Por qué?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

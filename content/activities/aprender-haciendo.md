@@ -7,7 +7,7 @@ description: "Actividad que anima a los jóvenes a aprender sobre la reutilizaci
 summary: "Actividad que anima a los jóvenes a aprender sobre la reutilización y el reciclaje a través de la acción."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

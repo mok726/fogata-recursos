@@ -7,7 +7,7 @@ description: "Recorrido educativo por cuenca local."
 summary: "Recorrido educativo por cuenca local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

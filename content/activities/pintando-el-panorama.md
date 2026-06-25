@@ -7,7 +7,7 @@ description: "Crea dos pinturas: una que muestre el mundo con polinizadores y ot
 summary: "Crea dos pinturas: una que muestre el mundo con polinizadores y otra sin ellos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

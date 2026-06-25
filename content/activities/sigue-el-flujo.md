@@ -7,7 +7,7 @@ description: "Actividad para crear un diagrama de flujo sobre cómo el agua afec
 summary: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

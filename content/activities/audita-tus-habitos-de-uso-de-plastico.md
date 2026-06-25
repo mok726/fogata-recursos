@@ -7,7 +7,7 @@ description: "Esta actividad te hará pensar cómo puedes disminuir el uso de pl
 summary: "Esta actividad te hará pensar cómo puedes disminuir el uso de plástico en tu vida cotidiana y cómo contagiar a los demás a que hagan lo mismo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

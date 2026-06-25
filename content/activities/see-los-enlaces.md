@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes explorar los vínculos 
 summary: "Esta actividad permite a los participantes explorar los vínculos entre la sociedad, el medio ambiente y la economía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

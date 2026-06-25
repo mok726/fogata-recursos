@@ -7,7 +7,7 @@ description: "Crea una fuente de agua para los polinizadores en tu jardín."
 summary: "Crea una fuente de agua para los polinizadores en tu jardín."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

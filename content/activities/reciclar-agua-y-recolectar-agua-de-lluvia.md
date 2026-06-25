@@ -7,7 +7,7 @@ description: "Recicla el agua que queda después de cocinar o bañarte y recolec
 summary: "Recicla el agua que queda después de cocinar o bañarte y recolecta agua de lluvia para regar las plantas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

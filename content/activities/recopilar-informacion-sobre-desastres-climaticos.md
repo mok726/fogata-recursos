@@ -7,7 +7,7 @@ description: "Investiga sobre desastres relacionados con el clima y cómo afecta
 summary: "Investiga sobre desastres relacionados con el clima y cómo afectan la alimentación."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

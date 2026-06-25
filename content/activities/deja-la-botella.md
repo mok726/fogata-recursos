@@ -7,7 +7,7 @@ description: "Actividad para promover el uso de agua del grifo en lugar de agua 
 summary: "Actividad para promover el uso de agua del grifo en lugar de agua embotellada."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

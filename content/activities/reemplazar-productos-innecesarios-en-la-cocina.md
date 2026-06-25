@@ -7,7 +7,7 @@ description: "Sustituye elementos innecesarios en tu cocina por alternativas sos
 summary: "Sustituye elementos innecesarios en tu cocina por alternativas sostenibles."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

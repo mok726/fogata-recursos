@@ -7,7 +7,7 @@ description: "Acción comunitaria de conservación."
 summary: "Acción comunitaria de conservación."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

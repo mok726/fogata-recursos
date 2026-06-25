@@ -7,7 +7,7 @@ description: "Examina las partes de una flor y aprende cómo funciona la poliniz
 summary: "Examina las partes de una flor y aprende cómo funciona la polinización."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

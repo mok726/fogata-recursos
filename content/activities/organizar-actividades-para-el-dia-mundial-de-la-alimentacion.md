@@ -7,7 +7,7 @@ description: "Celebra el Día Mundial de la Alimentación con actividades educat
 summary: "Celebra el Día Mundial de la Alimentación con actividades educativas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

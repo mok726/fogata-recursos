@@ -6,7 +6,7 @@ description: "Representa una obra de teatro sobre una comunidad afectada por la 
 summary: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Proyecto de concienciación comunitaria."
 summary: "Proyecto de concienciación comunitaria."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

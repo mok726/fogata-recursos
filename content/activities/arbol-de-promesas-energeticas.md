@@ -7,7 +7,7 @@ description: "Crea un mural interactivo donde la comunidad pledge ahorrar energ√
 summary: "Crea un mural interactivo donde la comunidad pledge ahorrar energ√≠a."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

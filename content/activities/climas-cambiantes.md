@@ -7,7 +7,7 @@ description: "Investiga la conexión entre el suelo y el cambio climático."
 summary: "Investiga la conexión entre el suelo y el cambio climático."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

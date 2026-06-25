@@ -7,7 +7,7 @@ description: "Intenta reducir, reusar y reciclar todo lo que se encuentra en tu 
 summary: "Intenta reducir, reusar y reciclar todo lo que se encuentra en tu basurero durante una semana."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

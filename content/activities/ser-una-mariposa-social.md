@@ -7,7 +7,7 @@ description: "Lanza una campaña en redes sociales para informar y movilizar a t
 summary: "Lanza una campaña en redes sociales para informar y movilizar a tus amigos y familiares a ayudar a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

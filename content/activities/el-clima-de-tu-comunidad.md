@@ -7,7 +7,7 @@ description: "Los participantes investigan el clima local y su impacto."
 summary: "Los participantes investigan el clima local y su impacto."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

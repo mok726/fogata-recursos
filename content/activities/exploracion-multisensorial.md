@@ -7,7 +7,7 @@ description: "Enseñanza creativa sobre biodiversidad."
 summary: "Enseñanza creativa sobre biodiversidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Participa en esta iniciativa global apagando luces y organizando a
 summary: "Participa en esta iniciativa global apagando luces y organizando actividades sin energía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

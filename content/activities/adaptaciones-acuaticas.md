@@ -7,7 +7,7 @@ description: "Estudio comparativo de especies acuáticas."
 summary: "Estudio comparativo de especies acuáticas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

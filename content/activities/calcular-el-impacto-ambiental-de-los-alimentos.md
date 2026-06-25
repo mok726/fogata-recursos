@@ -11,7 +11,7 @@ summary: |
   Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

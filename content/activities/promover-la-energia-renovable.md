@@ -7,7 +7,7 @@ description: "Inicia una campaña para promover el uso de energía renovable."
 summary: "Inicia una campaña para promover el uso de energía renovable."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

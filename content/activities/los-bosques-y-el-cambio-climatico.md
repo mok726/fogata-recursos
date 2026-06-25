@@ -1,119 +1,197 @@
 ---
-title: "LOS BOSQUES Y EL CAMBIO CLIMÁTICO"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Los Bosques y el Cambio Climático"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-el-cambio-climatico/"
-description: "Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques."
-summary: "Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Investiga qué gases estaban presentes en la atmósfera históricamente y compáralos con los actuales. Comparte tus hallazgos con tu grupo."
+summary: "Investigación sobre gases atmosféricos y cambio climático."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/los-bosques-y-el-cambio-climatico.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
-competencies:
-  - Ciencia y Matemáticas
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
-responsible:
-  - Scouter o climatólogo
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Material de investigación (libros, internet, etc.)
+  - Cuaderno para tomar notas
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-D12"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 13
-  - 15
-rama_caminantes:
-  - 13
-  - 15
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a diagram of the carbon cycle: trees absorbing CO2, releasing oxygen, and soil carbon storage. A second diagram shows warmer temperatures causing forest fires and pest outbreaks. A laptop with IPCC graphs. The left side has open space for text. On the far right side, two tiny older scouts (16-21) stand, one pointing at the CO2 arrow, the other at the fire icon, seen from a distance. The forest-climate science environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - composición atmosférica
-  - CO2
-  - cambio climático
-  - dióxido de carbono
-  - Insignia de los Bosques
+  - cambio-climatico
+  - gases-efecto-invernadero
+  - investigacion
+  - seccion-d
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 5  # Alta reflexión sobre cambio climático
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A dramatic visualization of Earth's atmosphere showing greenhouse gases and forest interactions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining climate data and discussing atmospheric changes. Scientific research and environmental awareness atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+space_required: "Salón para investigar y presentar"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento científico
+  - Conciencia climática
+  - Investigación
+
 activity_type:
   - Investigación
-  - Ciencia
+  - Reflexión
+  - Debate / Diálogo
+
 category:
   - Clima
-  - Química
-  - Ecología
+  - Gases de efecto invernadero
+  - Ciencia
+
 skills:
   - Investigación
-  - Conciencia climática
-  - Pensamiento sistémico
-main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "25 min"
+  - Pensamiento crítico
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Respeto al prójimo
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Responsabilidad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente y adopto un estilo de vida responsable y sostenible.
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 30  # Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental.
+
+rama_rovers:
+  - 8   # Busco y evalúo el valor de diversas fuentes de información y las aplico de manera crítica.
+  - 33  # Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la naturaleza.
 ---
 
-# LOS BOSQUES Y EL CAMBIO CLIMÁTICO
+# Los Bosques y el Cambio Climático
 
 ## Resumen
-Compara composiciones atmosféricas históricas y actuales, y su impacto en bosques.
+Investiga qué gases estaban presentes en la atmósfera históricamente y compáralos con los actuales. Comparte tus hallazgos con tu grupo.
+
+## Preparación
+1. Reúne materiales de investigación (libros, internet, enciclopedias).
+2. Prepara un cuaderno para tomar notas.
+3. Define las fuentes de información que vas a utilizar.
 
 ## Desarrollo
-Investiga qué gases estaban presentes en la atmósfera históricamente. ¿Cuál era el porcentaje de cada gas en la atmósfera? Compara tus hallazgos con los actuales tipos y niveles de gases en la atmósfera. ¿Por qué han cambiado los tipos y los niveles de estos gases a lo largo del tiempo? De acuerdo con los científicos, ¿cómo afectan los gases atmosféricos a la vida vegetal de los bosques? ¿Qué crees que podría suceder si los niveles de dióxido de carbono continúan incrementando? Comparte tus hallazgos con tu grupo.
+1. **Investigación histórica** (30 min): Investiga qué gases estaban presentes en la atmósfera históricamente y sus porcentajes.
+2. **Investigación actual** (30 min): Investiga los tipos y niveles actuales de gases en la atmósfera.
+3. **Comparación** (15 min): Compara los hallazgos históricos con los actuales.
+4. **Análisis** (15 min): Reflexiona sobre por qué han cambiado los gases a lo largo del tiempo.
+5. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
 
 ## Cierre
-¿Qué acciones individuales pueden reducir tu huella de carbono?
+- ¿Qué aprendiste sobre los cambios en la atmósfera a lo largo del tiempo?
+- ¿Cómo afectan los gases atmosféricos a la vida vegetal de los bosques?
+- ¿Qué crees que podría suceder si los niveles de dióxido de carbono continúan incrementando?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a comprender el proceso de degr
 summary: "Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

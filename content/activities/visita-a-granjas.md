@@ -7,7 +7,7 @@ description: "Comparación de sistemas agrícolas."
 summary: "Comparación de sistemas agrícolas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

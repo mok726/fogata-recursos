@@ -7,7 +7,7 @@ description: "Habla con tu familia sobre hacer un cambio en el estilo de vida pa
 summary: "Habla con tu familia sobre hacer un cambio en el estilo de vida para ayudar al planeta."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

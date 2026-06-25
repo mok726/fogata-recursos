@@ -7,7 +7,7 @@ description: "Compra alimentos orgánicos y locales para apoyar a los polinizado
 summary: "Compra alimentos orgánicos y locales para apoyar a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

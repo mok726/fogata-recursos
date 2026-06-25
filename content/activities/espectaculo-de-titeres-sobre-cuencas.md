@@ -7,7 +7,7 @@ description: "Creación de obra educativa."
 summary: "Creación de obra educativa."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Usa el aire acondicionado o la calefacción lo menos posible y apr
 summary: "Usa el aire acondicionado o la calefacción lo menos posible y aprende cómo las personas calentaban o enfriaban sus casas en el pasado."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

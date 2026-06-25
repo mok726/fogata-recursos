@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a comprender el impacto de tira
 summary: "Actividad que ayuda a los jóvenes a comprender el impacto de tirar basura y su relación con la contaminación por plásticos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

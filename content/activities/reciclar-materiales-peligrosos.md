@@ -7,7 +7,7 @@ description: "Aprende a reciclar materiales peligrosos como pilas, pinturas y me
 summary: "Aprende a reciclar materiales peligrosos como pilas, pinturas y medicinas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

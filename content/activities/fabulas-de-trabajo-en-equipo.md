@@ -7,7 +7,7 @@ description: "Crea una historia colaborativa sobre los factores que forman el su
 summary: "Crea una historia colaborativa sobre los factores que forman el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

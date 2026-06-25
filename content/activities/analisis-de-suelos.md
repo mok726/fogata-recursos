@@ -7,7 +7,7 @@ description: "Investiga y presenta sobre diferentes tipos de suelo en el mundo."
 summary: "Investiga y presenta sobre diferentes tipos de suelo en el mundo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

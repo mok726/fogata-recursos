@@ -7,7 +7,7 @@ description: "Investiga si tus cinco frutas y verduras favoritas dependen de los
 summary: "Investiga si tus cinco frutas y verduras favoritas dependen de los polinizadores para crecer. Prepara una historia fotográfica sobre tus frutas y verduras favoritas y su relación con los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

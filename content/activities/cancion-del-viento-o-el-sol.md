@@ -7,7 +7,7 @@ description: "Crea una canción sobre energía renovable usando melodías conoci
 summary: "Crea una canción sobre energía renovable usando melodías conocidas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

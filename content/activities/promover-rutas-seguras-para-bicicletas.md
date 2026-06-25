@@ -7,7 +7,7 @@ description: "Inicia una campaña para crear rutas seguras para bicicletas."
 summary: "Inicia una campaña para crear rutas seguras para bicicletas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

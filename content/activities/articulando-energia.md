@@ -7,7 +7,7 @@ description: "Juego de tarjetas para definir conceptos energéticos sin palabras
 summary: "Juego de tarjetas para definir conceptos energéticos sin palabras clave."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

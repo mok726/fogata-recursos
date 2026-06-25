@@ -7,7 +7,7 @@ description: "Investiga de dónde provienen los alimentos en tu hogar y su relac
 summary: "Investiga de dónde provienen los alimentos en tu hogar y su relación con el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

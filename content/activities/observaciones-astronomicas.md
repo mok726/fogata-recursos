@@ -7,7 +7,7 @@ description: "Los participantes investigan cómo la órbita de la Tierra afecta 
 summary: "Los participantes investigan cómo la órbita de la Tierra afecta el clima."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

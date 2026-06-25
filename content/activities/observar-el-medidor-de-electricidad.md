@@ -7,7 +7,7 @@ description: "Observa el medidor de electricidad de tu casa y aprende a reducir 
 summary: "Observa el medidor de electricidad de tu casa y aprende a reducir el consumo de energía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

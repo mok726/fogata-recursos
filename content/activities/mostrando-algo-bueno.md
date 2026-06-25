@@ -7,7 +7,7 @@ description: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
 summary: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

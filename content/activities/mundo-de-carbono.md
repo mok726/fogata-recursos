@@ -7,7 +7,7 @@ description: "Explora cómo el carbono circula en la naturaleza."
 summary: "Explora cómo el carbono circula en la naturaleza."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

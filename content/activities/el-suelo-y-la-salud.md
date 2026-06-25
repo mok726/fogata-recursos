@@ -7,7 +7,7 @@ description: "Crea un póster sobre la conexión entre el suelo y la salud human
 summary: "Crea un póster sobre la conexión entre el suelo y la salud humana."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

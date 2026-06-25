@@ -1,116 +1,197 @@
 ---
-title: "RASTREADORES DE SENDEROS"
-duration: "2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Rastreadores de Senderos"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/rastreadores-de-senderos/"
-description: "Aprende símbolos de senderos y diseña una ruta para otro grupo."
-summary: "Aprende símbolos de senderos y diseña una ruta para otro grupo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Aprende cómo hacer símbolos de senderos y crea un sendero en el bosque para que otro grupo lo siga."
+summary: "Creación de un sendero con símbolos de orientación."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/rastreadores-de-senderos.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Material para marcar senderos (piedras, palos, tiza, etc.)
+tools: []
 responsible:
-  - Scouter o guía de senderismo
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 11
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-C15"
-rama_lobatos:
-  - 13
-  - 30
-rama_scouts:
-  - 4
-  - 11
-rama_caminantes:
-  - 4
-  - 11
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine forest, with a trail marked using traditional symbols: stacked stones (cairn), a broken branch pointing direction, a grass knot. A sign explaining the symbols. The left side has open space for text. On the far right side, two tiny older scouts (11-21) walk, one pointing at a cairn, the other at a broken branch, seen from a distance. The traditional trail marking environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
   - senderos
-  - símbolos
-  - navegación tradicional
-  - marcas
-  - orientación
-  - Insignia de los Bosques
-location: "Exterior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Movilidad
-activity_type:
-  - Tradición
-  - Navegación
-category:
-  - Navegación
-  - Tradición
-  - Bosque
-skills:
-  - Trabajo en equipo
-  - Conocimiento tradicional
-  - Liderazgo
-space_required: "Exterior abierto (bosque)"
-prep_time: "25 min planificación + caminata"
-scout_values:
-  - Perseverancia
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 5
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - orientacion
+  - aventura
+  - seccion-c
 
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 3  # Actividad lúdica y de aventura
+reflective_component: 2  # Reflexión moderada
+active_component: 4  # Alta actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 3  # Requiere planificación del sendero
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Juego"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Trail markers and symbols in a forest path dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating trail markers and navigating through the forest. Navigation and adventure atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Exterior"
+space_required: "Bosque o área natural para crear el sendero"
+prep_time: "20 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility:
+  - -Motora  # Requiere caminar por el bosque
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Orientación
+  - Trabajo en equipo
+  - Observación
+
+activity_type:
+  - Juego
+  - Aprender haciendo
+  - Exploración
+
+category:
+  - Orientación
+  - Aventura
+  - Navegación
+
+skills:
+  - Observación
+  - Trabajo en equipo
+  - Planificación y organización
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Aventura
+  - Curiosidad y Apertura al aprendizaje
+  - Superación personal
+
+scout_method:
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No aplica (actividad nivel 2-3)
+
+rama_lobatos: []  # No aplica (actividad nivel 2-3)
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+  - 52  # Desarrollo habilidades para comunicarme claramente con otros.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades y tecnologías.
+  - 46  # Encuentro momentos para descansar, distenderme, compartir con mis amistades.
+
+rama_rovers:
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 7   # Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
 ---
 
-# RASTREADORES DE SENDEROS
+# Rastreadores de Senderos
 
 ## Resumen
-Aprende símbolos de senderos y diseña una ruta para otro grupo.
+Aprende cómo hacer símbolos de senderos y crea un sendero en el bosque para que otro grupo lo siga.
+
+## Preparación
+1. Aprende los símbolos básicos de senderos ('sigue derecho', 'curva a la derecha', 'para', 'me he ido a casa').
+2. Reúne el material para marcar el sendero (piedras, palos, tiza, etc.).
+3. Define la ruta del sendero con tu grupo.
 
 ## Desarrollo
-Algunas personas que viven dentro y alrededor de los bosques son muy buenas para navegar por medio de los bosques aunque no existan carreteras ni señalización. En su lugar, estas personas usan otros puntos de referencia o marcas para señalizar un sendero y encontrar el camino. Aprende cómo hacer símbolos de senderos que significan cosas como ‘sigue derecho’, ‘curva a la derecha’, ‘para’ y ‘me he ido a casa’. Con dos o tres amigos, haz un sendero a través del bosque usando los símbolos de los senderos. Inviten a otro grupo para que intente seguir su sendero.
+1. **Aprendizaje** (15 min): Aprende y practica los símbolos de senderos.
+2. **Planificación** (15 min): Diseña la ruta del sendero con tu grupo.
+3. **Marcado** (20 min): Marca el sendero usando los símbolos aprendidos.
+4. **Desafío** (20 min): Invita a otro grupo a seguir el sendero.
 
 ## Cierre
-¿Qué ventajas tienen estos métodos tradicionales frente a la tecnología?
+- ¿Qué aprendiste sobre la orientación en los bosques?
+- ¿Cómo te sentiste al crear y seguir el sendero?
+- ¿Qué habilidades crees que se necesitan para navegar en el bosque?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

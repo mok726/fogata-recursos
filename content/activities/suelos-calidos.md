@@ -7,7 +7,7 @@ description: "Los participantes realizan un experimento para ver cómo diferente
 summary: "Los participantes realizan un experimento para ver cómo diferentes suelos absorben calor."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

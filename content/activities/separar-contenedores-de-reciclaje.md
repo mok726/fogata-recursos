@@ -7,7 +7,7 @@ description: "Asegúrate de tener contenedores separados para reciclar."
 summary: "Asegúrate de tener contenedores separados para reciclar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

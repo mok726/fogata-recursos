@@ -7,7 +7,7 @@ description: "Toma duchas rápidas y cierra la llave mientras te jabonas o lavas
 summary: "Toma duchas rápidas y cierra la llave mientras te jabonas o lavas los dientes."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

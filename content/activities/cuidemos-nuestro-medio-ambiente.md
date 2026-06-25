@@ -11,7 +11,7 @@ summary: |
   Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria. Haz una lista de formas para reducir la cantidad de energía que usas. Sigue un plan durante al menos un mes y comparte tu experiencia.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

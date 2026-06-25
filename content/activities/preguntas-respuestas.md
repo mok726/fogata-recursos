@@ -7,7 +7,7 @@ description: "Conduce una entrevista sobre los problemas del suelo en un país e
 summary: "Conduce una entrevista sobre los problemas del suelo en un país específico."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

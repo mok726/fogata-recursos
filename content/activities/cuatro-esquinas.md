@@ -7,7 +7,7 @@ description: "Esta actividad ayuda a los participantes a compartir opiniones rel
 summary: "Esta actividad ayuda a los participantes a compartir opiniones relacionadas con la producción sostenible y a considerar las perspectivas de otros."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

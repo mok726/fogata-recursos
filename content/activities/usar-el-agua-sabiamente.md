@@ -7,7 +7,7 @@ description: "Piensa en formas de ahorrar agua en tu casa y escuela, y haz un di
 summary: "Piensa en formas de ahorrar agua en tu casa y escuela, y haz un dibujo para exponerlo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

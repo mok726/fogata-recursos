@@ -7,7 +7,7 @@ description: "Visita un museo de arte para aprender sobre el uso del suelo en la
 summary: "Visita un museo de arte para aprender sobre el uso del suelo en la cerámica y escultura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

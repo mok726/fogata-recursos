@@ -7,7 +7,7 @@ description: "Investiga cómo las fibras de tu ropa están relacionadas con el s
 summary: "Investiga cómo las fibras de tu ropa están relacionadas con el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

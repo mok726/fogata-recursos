@@ -7,7 +7,7 @@ description: "Planta un jardín de flores y vegetales para atraer polinizadores.
 summary: "Planta un jardín de flores y vegetales para atraer polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

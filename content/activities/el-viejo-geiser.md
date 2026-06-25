@@ -7,7 +7,7 @@ description: "Investiga sobre energía geotérmica y sus manifestaciones natural
 summary: "Investiga sobre energía geotérmica y sus manifestaciones naturales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

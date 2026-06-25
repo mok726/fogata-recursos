@@ -7,7 +7,7 @@ description: "Haz que tu jardín en casa o en la escuela sea más amigable para 
 summary: "Haz que tu jardín en casa o en la escuela sea más amigable para los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

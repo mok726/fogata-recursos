@@ -7,7 +7,7 @@ description: "Diseño de herramienta educativa."
 summary: "Diseño de herramienta educativa."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

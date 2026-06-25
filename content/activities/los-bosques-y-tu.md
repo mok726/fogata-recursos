@@ -1,127 +1,198 @@
 ---
-title: "LOS BOSQUES Y TÚ"
-duration: "1 hora"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Los Bosques y Tú"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-tu/"
-description: "Reflexiona sobre la importancia de un bosque local y escribe un reporte personal."
-summary: "Reflexiona sobre la importancia de un bosque local y escribe un reporte personal."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Escribe un reporte sobre lo que el bosque significa para ti y para tu comunidad. Lee tu trabajo en voz alta para las demás personas de tu grupo."
+summary: "Reflexión personal sobre la importancia del bosque local."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/los-bosques-y-tu.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-13"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Papel
-  - Lápiz
-competencies:
-  - Autoconocimiento y Desarrollo Personal
-  - Sostenibilidad y Medio Ambiente
-  - Comunicación Efectiva
-responsible:
-  - Scouter
+  - Cuaderno o papel para escribir
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 15
+  - 4   # Educación de calidad
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-D06"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 15
-  - 22
-rama_caminantes:
-  - 15
-  - 22
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An Argentine scout room, with a quiet writing corner in the center-left: a table, a notebook, and a pencil. A forest photo on the wall as inspiration. The left side has open space for text. On the far right side, a tiny young scout (5-15) sits writing, another reads a finished report aloud to a small group, seen from a distance. The personal forest reflection environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
-  - bosque local
-  - importancia personal
+  - reflexion
   - comunidad
-  - reflexión
-  - reporte
-  - Insignia de los Bosques
-location: "Interior"
-participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
-accessibility:
-  - -Visual
-activity_type:
-  - Escritura
-  - Reflexión
-category:
-  - Autoconocimiento
-  - Bosque
-  - Escritura
-skills:
-  - Reflexión personal
-  - Empatía
-  - Expresión escrita
-main_type: "Reflexión"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápiz
-  - colores (opcional)
-prep_time: "20 min"
-scout_values:
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - escritura
+  - seccion-d
 
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 5  # Alta reflexión personal
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 1  # Muy baja complejidad organizativa
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Reflexión"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A person reflecting and writing about their connection to a local forest dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing and sharing personal stories about their forest. Personal connection and environmental reflection atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
+location: "Ambos"
+space_required: "Espacio para escribir y compartir"
+prep_time: "10 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Autoconciencia
+  - Comunicación
+  - Conciencia ambiental
+
+activity_type:
+  - Reflexión
+  - Escritura
+  - Debate / Diálogo
+
+category:
+  - Conexión personal
+  - Comunidad
+  - Escritura
+
+skills:
+  - Comunicación
+  - Autoconciencia
+  - Conciencia ambiental
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
+scout_values:
+  - Naturaleza
+  - Responsabilidad
+  - Curiosidad y Apertura al aprendizaje
+
+scout_method:
+  - Progresión personal
+  - Acompañamiento adulto / Protagonismo juvenil
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas.
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente y adopto un estilo de vida responsable y sostenible.
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  - 36  # Trabajo en mi superación personal, enfocándome en mis intereses personales.
+
+rama_rovers:
+  - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 30  # Consumo y produzco de manera sostenible y sustentable.
 ---
 
-# LOS BOSQUES Y TÚ
+# Los Bosques y Tú
 
 ## Resumen
-Reflexiona sobre la importancia de un bosque local y escribe un reporte personal.
+Escribe un reporte sobre lo que el bosque significa para ti y para tu comunidad. Si no vives cerca de un bosque, escribe por qué te gustaría tener uno cerca. Lee tu trabajo en voz alta para tu grupo.
+
+## Preparación
+1. Reflexiona sobre tu relación con los bosques.
+2. Prepara un cuaderno o papel para escribir.
 
 ## Desarrollo
-¿Vives cerca de un bosque? ¿Qué tan importante es el papel que juega este bosque en tu vida? ¿Cómo te sentirías si el bosque desapareciese? Escribe un reporte sobre aquello que el bosque significa para ti y para tu comunidad. Si no vives cerca de un bosque, escribe por qué te gustaría tener un bosque cerca de ti y cómo afectaría tu vida. Lee tu trabajo en voz alta para las demás personas de tu grupo.
+1. **Reflexión** (10 min): Piensa sobre la importancia del bosque en tu vida y comunidad.
+2. **Escritura** (20 min): Escribe un reporte sobre lo que el bosque significa para ti.
+3. **Lectura** (5 min por persona): Lee tu trabajo en voz alta para el grupo.
 
 ## Cierre
-¿Cómo cambia nuestra percepción cuando algo natural desaparece?
+- ¿Qué aprendiste sobre la importancia de los bosques en tu vida?
+- ¿Cómo te sentirías si el bosque desapareciera?
+- ¿Qué compromiso adquieres para cuidar los bosques?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

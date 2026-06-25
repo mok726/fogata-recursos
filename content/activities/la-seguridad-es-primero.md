@@ -1,120 +1,195 @@
 ---
-title: "LA SEGURIDAD ES PRIMERO"
-duration: "1-2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "La Seguridad es Primero"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-seguridad-es-primero/"
-description: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
-summary: "Investiga normas de seguridad para trabajadores forestales y crea una lista de control."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Aprende sobre normas de seguridad y protección para trabajadores forestales. Crea una lista de control de seguridad para el bosque."
+summary: "Lista de control de seguridad forestal."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/la-seguridad-es-primero.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-  - rovers
-competencies:
-  - Salud, Bienestar y Seguridad
-  - Planificación y Organización
-  - Investigación y Gestión de Datos
-responsible:
-  - Scouter o profesional forestal
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Material para lista de control
+tools: []
+responsible: []
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 8
+  - 3   # Salud y bienestar
+  - 8   # Trabajo decente y crecimiento económico
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-B03"
-rama_lobatos:
-  - 8
-  - 28
-rama_scouts:
-  - 8
-  - 13
-rama_caminantes:
-  - 8
-  - 13
-rama_rovers:
-  - 4
-  - 8
-image_prompt: "An Argentine scout room, with a checklist poster on the wall in the center-left titled 'Seguridad en el Bosque' with items: casco, botas de seguridad, guantes, gafas, botiquín, silbato, mapa, agua. A table with some of these items laid out. The left side has negative space for text. On the far right side, a tiny older scout (11-21) stands, wearing a hard hat and holding a checklist, another scout puts on gloves, seen from a distance. The forest safety environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
   - seguridad
-  - trabajadores forestales
-  - casco
-  - botas
-  - checklist
-  - Insignia de los Bosques
+  - trabajadores-forestales
+  - prevencion
+  - seccion-b
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 1  # No es lúdica
+reflective_component: 3  # Reflexión sobre seguridad
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 1  # Muy baja complejidad
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Safety equipment and gear for forest workers dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating safety checklists. Occupational safety and prevention atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+space_required: "Salón para investigar y crear lista"
+prep_time: "10 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
+accessibility: []
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Conciencia de seguridad
+  - Investigación
+  - Responsabilidad
+
 activity_type:
   - Investigación
-  - Seguridad
+  - Reflexión
+  - Sensibilización
+
 category:
   - Seguridad
-  - Trabajo
-  - Bosque
+  - Trabajo forestal
+  - Prevención
+
 skills:
-  - Conciencia de riesgos
-  - Planificación y organización
+  - Responsabilidad
   - Investigación
-main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "20 min"
+  - Observación
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
   - Responsabilidad
+  - Salud
+  - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 8  # Evito hacer cosas que puedan lastimarme a mí o a otras personas.
+  - 33  # Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
+
+rama_scouts:
+  - 13  # Identifico situaciones de riesgo y adopto prácticas seguras.
+  - 41  # Experimento diferentes medios y tecnologías que me ayuden a resolver problemas.
+
+rama_caminantes:
+  - 12  # Tomo decisiones responsables evitando acciones que puedan poner en riesgo mi seguridad.
+  - 13  # Me informo y preparo para enfrentar situaciones de emergencia.
+
+rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# LA SEGURIDAD ES PRIMERO
+# La Seguridad es Primero
 
 ## Resumen
-Investiga normas de seguridad para trabajadores forestales y crea una lista de control.
+Aprende sobre normas de seguridad y protección para trabajadores forestales. Crea una lista de control de seguridad para el bosque.
+
+## Preparación
+1. Investiga normas de seguridad para trabajadores forestales.
+2. Prepara el material para la lista de control.
 
 ## Desarrollo
-Para mantenerse a salvo, las personas que trabajan en los bosques necesitan seguir ciertas normas de seguridad y protección. ¿Cuáles son algunos ejemplos de normas que los trabajadores forestales deben seguir? ¿Qué tipo de vestimenta deben usar los trabajadores forestales? Crea una lista de control sobre las cosas que deberías llevar contigo para garantizar tu seguridad cuando estés en el bosque.
+1. **Investigación** (15 min): Investiga normas de seguridad y vestimenta adecuada.
+2. **Análisis** (10 min): Analiza ejemplos de normas que los trabajadores deben seguir.
+3. **Creación** (15 min): Crea una lista de control de seguridad para el bosque.
 
 ## Cierre
-¿Por qué es crucial la seguridad en actividades forestales?
+- ¿Qué normas de seguridad te parecieron más importantes?
+- ¿Cómo puedes mantenerte seguro en el bosque?
+- ¿Qué compromiso adquieres para priorizar la seguridad?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [ ] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a comprender cómo se elaboran 
 summary: "Actividad que ayuda a los jóvenes a comprender cómo se elaboran las leyes para regular el uso de plásticos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

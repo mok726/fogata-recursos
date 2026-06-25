@@ -6,7 +6,7 @@ description: "Investiga las propiedades químicas y físicas del agua."
 summary: "Investiga las propiedades químicas y físicas del agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

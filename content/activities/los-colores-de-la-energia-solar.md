@@ -7,7 +7,7 @@ description: "Esta actividad demuestra cómo los diferentes colores absorben la 
 summary: "Esta actividad demuestra cómo los diferentes colores absorben la luz del Sol. Los participantes llenarán botellas de plástico pintadas de diferentes colores con agua y medirán la temperatura antes y después de exponerlas al Sol."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

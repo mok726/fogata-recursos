@@ -7,7 +7,7 @@ description: "Aprende a coser y remendar ropa para extender su vida útil."
 summary: "Aprende a coser y remendar ropa para extender su vida útil."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

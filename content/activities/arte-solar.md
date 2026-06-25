@@ -7,7 +7,7 @@ description: "Aprende sobre la potencia de la luz del Sol mientras creas arte ut
 summary: "Aprende sobre la potencia de la luz del Sol mientras creas arte utilizando una lupa para focalizar la luz solar sobre una tabla de madera. Esta actividad introduce a los participantes en el poder del Sol y puede ser una introducción a la cocina solar."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

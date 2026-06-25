@@ -7,7 +7,7 @@ description: "Aprende a orientarte utilizando un reloj analógico y la posición
 summary: "Aprende a orientarte utilizando un reloj analógico y la posición del Sol."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

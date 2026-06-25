@@ -7,7 +7,7 @@ description: "Solución práctica sostenible."
 summary: "Solución práctica sostenible."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

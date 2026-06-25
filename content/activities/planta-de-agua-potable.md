@@ -6,7 +6,7 @@ description: "Visita una planta de tratamiento de agua local."
 summary: "Visita una planta de tratamiento de agua local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

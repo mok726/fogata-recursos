@@ -7,7 +7,7 @@ description: "Crea un juego o juguete con materiales naturales o reciclados."
 summary: "Crea un juego o juguete con materiales naturales o reciclados."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Elige un problema que consideras inaceptable en tu comunidad y haz
 summary: "Elige un problema que consideras inaceptable en tu comunidad y haz algo para resolverlo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

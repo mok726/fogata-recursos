@@ -7,7 +7,7 @@ description: "Educación entre pares."
 summary: "Educación entre pares."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

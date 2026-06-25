@@ -7,7 +7,7 @@ description: "Camina o usa tu bicicleta para ir a la escuela o al trabajo durant
 summary: "Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

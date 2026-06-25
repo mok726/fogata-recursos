@@ -7,7 +7,7 @@ description: "Crea tarjetas con datos sobre el ahorro de agua y preséntalas en 
 summary: "Crea tarjetas con datos sobre el ahorro de agua y preséntalas en tu escuela."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

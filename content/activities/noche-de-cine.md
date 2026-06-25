@@ -7,7 +7,7 @@ description: "Una forma divertida para que los participantes aprendan más sobre
 summary: "Una forma divertida para que los participantes aprendan más sobre el problema del plástico."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

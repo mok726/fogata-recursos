@@ -7,7 +7,7 @@ description: "Planta hierbas y vegetales que requieran menos agua."
 summary: "Planta hierbas y vegetales que requieran menos agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

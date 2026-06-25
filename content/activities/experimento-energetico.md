@@ -7,7 +7,7 @@ description: "Reacción química para observar conversión energética."
 summary: "Reacción química para observar conversión energética."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

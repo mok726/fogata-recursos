@@ -6,7 +6,7 @@ description: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
 summary: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

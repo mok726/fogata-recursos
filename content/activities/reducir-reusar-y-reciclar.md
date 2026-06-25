@@ -7,7 +7,7 @@ description: "Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de
 summary: "Usa bolsas reusables en lugar de bolsas plásticas cuando vayas de compras."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

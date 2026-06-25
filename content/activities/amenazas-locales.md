@@ -7,7 +7,7 @@ description: "Investiga las amenazas que enfrentan los polinizadores en tu área
 summary: "Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

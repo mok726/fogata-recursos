@@ -7,7 +7,7 @@ description: "Los participantes investigan las emisiones de CO2 por país."
 summary: "Los participantes investigan las emisiones de CO2 por país."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

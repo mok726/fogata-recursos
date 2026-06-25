@@ -7,7 +7,7 @@ description: "Inventa un nuevo uso para un residuo doméstico, como botellas pl�
 summary: "Inventa un nuevo uso para un residuo doméstico, como botellas plásticas o latas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

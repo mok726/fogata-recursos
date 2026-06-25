@@ -7,7 +7,7 @@ description: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta 
 summary: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

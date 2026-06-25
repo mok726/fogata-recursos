@@ -7,7 +7,7 @@ description: "Actividad para investigar y comparar los hábitos de uso del agua 
 summary: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

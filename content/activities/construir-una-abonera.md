@@ -7,7 +7,7 @@ description: "Aprende a construir una abonera para desechos biodegradables."
 summary: "Aprende a construir una abonera para desechos biodegradables."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes prestar atención a los
 summary: "Esta actividad permite a los participantes prestar atención a los objetos en su vecindario asociados con el consumo y la producción de alimentos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

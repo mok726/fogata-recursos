@@ -7,7 +7,7 @@ description: "Aprende a cultivar árboles frutales y cómo los polinizadores los
 summary: "Aprende a cultivar árboles frutales y cómo los polinizadores los ayudan."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Esta actividad permite a los participantes explorar los efectos de
 summary: "Esta actividad permite a los participantes explorar los efectos de la deforestación en la selva tropical."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

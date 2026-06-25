@@ -7,7 +7,7 @@ description: "Aprende a construir una ducha solar y descubre cómo funciona."
 summary: "Aprende a construir una ducha solar y descubre cómo funciona."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

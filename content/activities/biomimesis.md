@@ -7,7 +7,7 @@ description: "Tecnología inspirada en la naturaleza."
 summary: "Tecnología inspirada en la naturaleza."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

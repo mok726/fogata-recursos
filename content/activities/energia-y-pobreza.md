@@ -7,7 +7,7 @@ description: "Lluvia de ideas sobre cómo la energía afecta la pobreza."
 summary: "Lluvia de ideas sobre cómo la energía afecta la pobreza."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

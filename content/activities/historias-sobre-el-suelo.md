@@ -7,7 +7,7 @@ description: "Escribe una autobiografía desde la perspectiva de una criatura qu
 summary: "Escribe una autobiografía desde la perspectiva de una criatura que vive en el suelo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

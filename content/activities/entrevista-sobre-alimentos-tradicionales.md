@@ -7,7 +7,7 @@ description: "Recuperación de saberes alimentarios históricos."
 summary: "Recuperación de saberes alimentarios históricos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

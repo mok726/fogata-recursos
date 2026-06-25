@@ -6,7 +6,7 @@ description: "Investiga las adaptaciones de las especies acuáticas."
 summary: "Investiga las adaptaciones de las especies acuáticas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Aprende cómo el cambio climático afecta la agricultura y la prod
 summary: "Aprende cómo el cambio climático afecta la agricultura y la producción de alimentos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

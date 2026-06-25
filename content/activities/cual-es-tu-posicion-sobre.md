@@ -7,7 +7,7 @@ description: "Esta actividad busca explorar las actitudes, valores y perspectiva
 summary: "Esta actividad busca explorar las actitudes, valores y perspectivas de las personas sobre la sostenibilidad y la naturaleza."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

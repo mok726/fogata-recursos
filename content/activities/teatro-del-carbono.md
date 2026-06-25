@@ -7,7 +7,7 @@ description: "Crea una obra o video sobre el ciclo del carbono."
 summary: "Crea una obra o video sobre el ciclo del carbono."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

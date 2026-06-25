@@ -7,7 +7,7 @@ description: "Demostración de descomposición por microorganismos."
 summary: "Demostración de descomposición por microorganismos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

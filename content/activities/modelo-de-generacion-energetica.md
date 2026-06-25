@@ -7,7 +7,7 @@ description: "Investiga fuentes de energía en tu país y construye un modelo co
 summary: "Investiga fuentes de energía en tu país y construye un modelo con materiales reciclados."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

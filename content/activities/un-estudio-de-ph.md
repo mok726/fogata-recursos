@@ -7,7 +7,7 @@ description: "Investiga los niveles de pH de diferentes tipos de suelo y su impa
 summary: "Investiga los niveles de pH de diferentes tipos de suelo y su impacto en las plantas y animales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Organiza una visita a un centro de reciclaje o planta de energía 
 summary: "Organiza una visita a un centro de reciclaje o planta de energía renovable."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

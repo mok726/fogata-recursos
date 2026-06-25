@@ -7,7 +7,7 @@ description: "Análisis de conexiones globales."
 summary: "Análisis de conexiones globales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

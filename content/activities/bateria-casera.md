@@ -7,7 +7,7 @@ description: "Construye una batería con materiales cotidianos."
 summary: "Construye una batería con materiales cotidianos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

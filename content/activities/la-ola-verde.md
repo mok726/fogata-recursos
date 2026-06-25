@@ -7,7 +7,7 @@ description: "Participación en campaña global."
 summary: "Participación en campaña global."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

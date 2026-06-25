@@ -7,7 +7,7 @@ description: "Crea un menú de una semana con alimentos que no dependan de los p
 summary: "Crea un menú de una semana con alimentos que no dependan de los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

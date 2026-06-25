@@ -7,7 +7,7 @@ description: "Estudio de biodiversidad por altitud."
 summary: "Estudio de biodiversidad por altitud."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

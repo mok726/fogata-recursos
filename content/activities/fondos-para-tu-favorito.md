@@ -7,7 +7,7 @@ description: "Recauda dinero para un proyecto global de acceso a energía."
 summary: "Recauda dinero para un proyecto global de acceso a energía."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

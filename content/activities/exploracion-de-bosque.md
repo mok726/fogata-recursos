@@ -7,7 +7,7 @@ description: "Conexión sensorial con la naturaleza."
 summary: "Conexión sensorial con la naturaleza."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

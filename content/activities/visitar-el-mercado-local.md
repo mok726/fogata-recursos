@@ -7,7 +7,7 @@ description: "Visita el mercado local o una tienda de alimentos con tu familia o
 summary: "Visita el mercado local o una tienda de alimentos con tu familia o líder."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

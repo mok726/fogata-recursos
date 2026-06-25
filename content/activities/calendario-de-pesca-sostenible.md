@@ -7,7 +7,7 @@ description: "Guía de temporadas de pesca responsable."
 summary: "Guía de temporadas de pesca responsable."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

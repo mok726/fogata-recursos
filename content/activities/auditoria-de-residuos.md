@@ -7,7 +7,7 @@ description: "Análisis de generación de basura."
 summary: "Análisis de generación de basura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

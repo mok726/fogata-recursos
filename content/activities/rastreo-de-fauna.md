@@ -7,7 +7,7 @@ description: "Identificación de señales animales."
 summary: "Identificación de señales animales."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

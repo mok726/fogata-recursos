@@ -7,7 +7,7 @@ description: "Construcción de refugio hibernal."
 summary: "Construcción de refugio hibernal."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

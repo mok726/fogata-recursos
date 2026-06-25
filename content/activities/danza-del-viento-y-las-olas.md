@@ -7,7 +7,7 @@ description: "Representa con baile cómo el Sol crea vientos y olas."
 summary: "Representa con baile cómo el Sol crea vientos y olas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

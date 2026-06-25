@@ -7,7 +7,7 @@ description: "Investiga cuánto papel se usa en tu escuela y toma medidas para r
 summary: "Investiga cuánto papel se usa en tu escuela y toma medidas para reducirlo."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

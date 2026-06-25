@@ -7,7 +7,7 @@ description: "Relaciona los ODS con el uso de energía en equipos."
 summary: "Relaciona los ODS con el uso de energía en equipos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

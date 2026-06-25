@@ -7,7 +7,7 @@ description: "Incidencia en medios."
 summary: "Incidencia en medios."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

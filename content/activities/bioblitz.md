@@ -7,7 +7,7 @@ description: "Censo de biodiversidad local."
 summary: "Censo de biodiversidad local."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

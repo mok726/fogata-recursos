@@ -7,7 +7,7 @@ description: "Profundiza en cómo se usa la energía geotérmica."
 summary: "Profundiza en cómo se usa la energía geotérmica."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

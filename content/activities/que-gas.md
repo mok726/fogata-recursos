@@ -7,7 +7,7 @@ description: "Los participantes aprenden sobre los gases de efecto invernadero."
 summary: "Los participantes aprenden sobre los gases de efecto invernadero."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

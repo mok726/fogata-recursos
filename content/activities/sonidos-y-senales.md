@@ -1,124 +1,194 @@
 ---
-title: "SONIDOS Y SEÑALES"
-duration: "1-2 horas"
+# ========== METADATOS OBLIGATORIOS ==========
+title: "Sonidos y Señales"
+duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/sonidos-y-senales/"
-description: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
-summary: "Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: "False" # 
+description: "Realiza una misión de observación temprano en la mañana en un bosque. Escucha sonidos de animales, busca huellas y pistas."
+summary: "Observación de animales del bosque a través de sonidos y rastros."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
+  - FAO
 source:
-  - YUNGA
+  - FAO - Insignia de los Bosques
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/sonidos-y-senales.png"
+original: false
+Origin: "Insignia de los Bosques - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
-  - rovers
-tools:
-  - Guía de huellas de animales
-  - Lupa (opcional)
+
+# ========== LOGÍSTICA ==========
+materials:
+  - Cuaderno para notas
+  - Cámara (opcional)
+tools: []
 responsible:
-  - Scouter o guía de naturaleza
+  - Adulto responsable
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 15
+  - 4   # Educación de calidad
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
 activity_code: "bosques-A03"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 15
-  - 32
-rama_caminantes:
-  - 15
-  - 31
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An early morning Argentine forest, with mist rising from the ground in the center-left. A fallen log with a small footprint in the mud nearby. A field guide to tracks and a small notebook on a stump. The left side has open space for text. On the far right side, two tiny scouts (5-21) kneel, one examining a footprint with a magnifying glass, the other sketching it, seen from a distance. The forest tracking environment dominates."
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - bosques
   - sonidos
-  - animales
   - huellas
-  - rastros
-  - observación
-  - Insignia de los Bosques
+  - observacion
+  - seccion-a
+
+# ========== ARCHIVOS ADJUNTOS ==========
+files: []
+
+# ========== REFERENCIAS BIBLIOGRÁFICAS ==========
+references:
+  - title: "Insignia de los Bosques"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ADICIONALES ==========
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES DE LA ACTIVIDAD (escala 1-5) ==========
+ludic_component: 3  # Exploración y descubrimiento
+reflective_component: 2  # Reflexión moderada
+active_component: 3  # Caminata y observación
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Sencilla de organizar
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Exploración"
+
+# ========== IMAGEN PROMPT PARA IA ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Early morning forest with animals and bird sounds dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and observing animal tracks. Nature exploration and wildlife observation atmosphere. No text, no letters, no words. Wide shot."
+
+# ========== ESPACIO Y LOGÍSTICA ==========
 location: "Exterior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
+space_required: "Bosque para observar"
+prep_time: "15 min"
+participants: ""
+
+# ========== ACCESIBILIDAD ==========
 accessibility:
-  - -Auditiva
-  - -Movilidad
-activity_type:
-  - Investigación
+  - -Motora  # Requiere caminata
+  - -Auditiva  # Actividad centrada en sonidos
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
   - Observación
+  - Escucha activa
+  - Identificación de rastros
+
+activity_type:
+  - Exploración
+  - Investigación
+  - Juego
+
 category:
-  - Ecología
-  - Naturaleza
-  - Biología
+  - Animales
+  - Sonidos
+  - Rastros
+
 skills:
   - Observación
-  - Paciencia
+  - Escucha
   - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Exterior abierto (bosque)"
-prep_time: "15 min + caminata temprano"
+
+# ========== VALORES SCOUT Y MÉTODO SCOUT ==========
 scout_values:
-  - Perseverancia
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Aventura
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []  # No hay competencias para castores
+
+rama_lobatos:
+  - 20  # Observo mi entorno con atención para conocer más sobre los problemas que afectan a las personas.
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+
+rama_scouts: []  # No aplica (actividad nivel 1)
+
+rama_caminantes: []  # No aplica (actividad nivel 1)
+
+rama_rovers: []  # No aplica (actividad nivel 1)
 ---
 
-# SONIDOS Y SEÑALES
+# Sonidos y Señales
 
 ## Resumen
-Realiza una misión de observación temprano en la mañana para identificar sonidos y rastros de animales en el bosque.
+Realiza una misión de observación temprano en la mañana en un bosque. Escucha sonidos de animales, busca huellas y pistas.
+
+## Preparación
+1. Visita un bosque muy temprano en la mañana.
+2. Prepara cuaderno para notas.
+3. Asegura la supervisión de un adulto.
 
 ## Desarrollo
-Muy temprano en la mañana, conduce una misión de observación en un bosque. Escucha los sonidos de los animales. Trata de imitar los sonidos para ver si los animales responden. Busca huellas de animales en el piso. ¿Puedes descifrar qué animal dejó el rastro? Intenta encontrar pistas como pelo de animal, plumas y heces (desechos de animales). Observa el **hábitat** en el que viven.
+1. **Escucha** (15 min): Escucha los sonidos de los animales y trata de imitarlos.
+2. **Observación** (15 min): Busca huellas de animales en el piso.
+3. **Pistas** (15 min): Busca pelo, plumas, heces y otras pistas.
+4. **Registro** (10 min): Observa el hábitat y registra tus hallazgos.
 
 ## Cierre
-¿Qué sonidos o rastros fueron más difíciles de identificar? ¿Cómo se relacionan los animales con su hábitat?
+- ¿Qué sonidos de animales escuchaste?
+- ¿Qué huellas y pistas encontraste?
+- ¿Qué aprendiste sobre los animales del bosque?
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [ ] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [ ] Archivos adjuntos (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -7,7 +7,7 @@ description: "Organiza un bazar para intercambiar objetos que ya no uses."
 summary: "Organiza un bazar para intercambiar objetos que ya no uses."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

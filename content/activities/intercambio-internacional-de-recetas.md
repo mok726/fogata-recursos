@@ -6,7 +6,7 @@ description: "Calcula la huella hídrica de tus recetas favoritas."
 summary: "Calcula la huella hídrica de tus recetas favoritas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

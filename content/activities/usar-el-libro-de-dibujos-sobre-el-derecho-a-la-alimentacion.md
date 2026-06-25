@@ -7,7 +7,7 @@ description: "Usa el libro de dibujos y la guía de actividades para aprender so
 summary: "Usa el libro de dibujos y la guía de actividades para aprender sobre el derecho a la alimentación."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

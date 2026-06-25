@@ -6,7 +6,7 @@ description: "Captura los diferentes colores y texturas del agua en fotografías
 summary: "Captura los diferentes colores y texturas del agua en fotografías."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

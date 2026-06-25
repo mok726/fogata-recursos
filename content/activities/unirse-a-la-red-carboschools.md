@@ -7,7 +7,7 @@ description: "Investiga si tu escuela puede unirse a la red Carboschools."
 summary: "Investiga si tu escuela puede unirse a la red Carboschools."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -6,7 +6,7 @@ description: "Investiga la huella hídrica de tus posesiones favoritas."
 summary: "Investiga la huella hídrica de tus posesiones favoritas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Los participantes investigan y presentan sobre una fuente de combu
 summary: "Los participantes investigan y presentan sobre una fuente de combustible fósil."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

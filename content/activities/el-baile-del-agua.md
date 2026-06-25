@@ -6,7 +6,7 @@ description: "Crea una coreografía inspirada en el movimiento del agua."
 summary: "Crea una coreografía inspirada en el movimiento del agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

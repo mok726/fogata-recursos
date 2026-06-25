@@ -7,7 +7,7 @@ description: "Esta actividad guía a los participantes en la planificación de u
 summary: "Esta actividad guía a los participantes en la planificación de un proyecto de servicio comunitario relacionado con la sostenibilidad."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

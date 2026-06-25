@@ -11,7 +11,7 @@ summary: |
   Aprende a cocinar una comida sana y amigable con el medio ambiente.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

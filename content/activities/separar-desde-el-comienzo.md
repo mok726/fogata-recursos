@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a comprender la importancia de 
 summary: "Actividad que ayuda a los jóvenes a comprender la importancia de la segregación de residuos."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

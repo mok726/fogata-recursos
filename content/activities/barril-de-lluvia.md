@@ -7,7 +7,7 @@ description: "Sistema de recolección de agua pluvial."
 summary: "Sistema de recolección de agua pluvial."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

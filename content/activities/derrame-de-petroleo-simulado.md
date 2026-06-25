@@ -7,7 +7,7 @@ description: "Experimento sobre contaminación acuática."
 summary: "Experimento sobre contaminación acuática."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

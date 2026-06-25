@@ -7,7 +7,7 @@ description: "Aprende sobre los riesgos del ozono y cómo proteger tu piel de la
 summary: "Aprende sobre los riesgos del ozono y cómo proteger tu piel de las quemaduras solares."
 version: "1.0"
 Origin: "SOLARAFRICA.CH"
-# original: "False" # 
+# original: false # 
 author:
   - scoutsgosolar@solafrica.ch
   - gosolar@scouts.org.ar

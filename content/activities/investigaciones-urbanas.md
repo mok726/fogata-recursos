@@ -7,7 +7,7 @@ description: "Los participantes investigan las ciudades con los niveles más alt
 summary: "Los participantes investigan las ciudades con los niveles más altos de CO2."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

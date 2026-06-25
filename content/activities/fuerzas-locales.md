@@ -7,7 +7,7 @@ description: "Contacta a las autoridades ambientales locales para saber qué est
 summary: "Contacta a las autoridades ambientales locales para saber qué están haciendo para proteger a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

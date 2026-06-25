@@ -7,7 +7,7 @@ description: "Convierte un área de césped en un prado de flores silvestres par
 summary: "Convierte un área de césped en un prado de flores silvestres para los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

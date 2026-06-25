@@ -7,7 +7,7 @@ description: "Investiga los pros y contras de la modificación genética en la a
 summary: "Investiga los pros y contras de la modificación genética en la agricultura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

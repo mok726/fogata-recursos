@@ -11,7 +11,7 @@ summary: |
   Esta actividad es obligatoria para la categoría E.
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

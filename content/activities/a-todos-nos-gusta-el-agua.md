@@ -6,7 +6,7 @@ description: "Visita un área al aire libre y observa cómo diferentes especies 
 summary: "Visita un área al aire libre y observa cómo diferentes especies usan el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

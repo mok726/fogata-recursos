@@ -7,7 +7,7 @@ description: "Análisis de diversidad alimentaria."
 summary: "Análisis de diversidad alimentaria."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

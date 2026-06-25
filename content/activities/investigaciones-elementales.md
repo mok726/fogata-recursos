@@ -7,7 +7,7 @@ description: "Investiga los minerales presentes en el suelo y su importancia."
 summary: "Investiga los minerales presentes en el suelo y su importancia."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

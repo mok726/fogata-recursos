@@ -7,7 +7,7 @@ description: "Investiga cómo el suelo filtra el agua."
 summary: "Investiga cómo el suelo filtra el agua."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

@@ -7,7 +7,7 @@ description: "Registra tus esfuerzos para llevar una vida más amigable con el c
 summary: "Registra tus esfuerzos para llevar una vida más amigable con el clima en un diario."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

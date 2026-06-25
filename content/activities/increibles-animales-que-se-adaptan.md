@@ -7,7 +7,7 @@ description: "Los participantes inventan un animal adaptado a su entorno."
 summary: "Los participantes inventan un animal adaptado a su entorno."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

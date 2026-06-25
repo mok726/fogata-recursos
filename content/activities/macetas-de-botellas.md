@@ -7,7 +7,7 @@ description: "Actividad que ayuda a los jóvenes a reutilizar botellas de plást
 summary: "Actividad que ayuda a los jóvenes a reutilizar botellas de plástico para crear macetas."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

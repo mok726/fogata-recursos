@@ -7,7 +7,7 @@ description: "Exploración de recursos multimedia."
 summary: "Exploración de recursos multimedia."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

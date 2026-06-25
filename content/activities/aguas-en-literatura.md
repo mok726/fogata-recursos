@@ -6,7 +6,7 @@ description: "Explora el papel del agua en la literatura."
 summary: "Explora el papel del agua en la literatura."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:

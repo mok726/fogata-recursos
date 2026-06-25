@@ -7,7 +7,7 @@ description: "Investiga cómo los pesticidas afectan a los polinizadores."
 summary: "Investiga cómo los pesticidas afectan a los polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: "False" # 
+# original: false # 
 author:
   - Mariano S. Cosentino
 source:
