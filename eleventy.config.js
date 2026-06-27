@@ -100,6 +100,199 @@ eleventyConfig.addCollection(
 
 
 
+eleventyConfig.addFilter(
+  "activitiesForBadgeByCode",
+  function(collection, badgeId) {
+
+    if (!collection || !badgeId) {
+      return [];
+    }
+
+    return collection
+      .filter(activity => {
+
+        const badges =
+          activity.data.activity_badges || [];
+
+        return badges.includes(badgeId);
+
+      })
+      .sort((a, b) => {
+
+        const codeA =
+          a.data.activity_code || "";
+
+        const codeB =
+          b.data.activity_code || "";
+
+        return codeA.localeCompare(
+          codeB,
+          "es",
+          { numeric: true }
+        );
+
+      });
+
+  }
+);
+
+
+
+
+eleventyConfig.addFilter(
+  "activityQuery",
+  function(collection, options = {}) {
+
+    if (!Array.isArray(collection)) {
+      return [];
+    }
+
+    return collection.filter(item => {
+
+      const data = item.data;
+
+      //
+      // badge
+      //
+
+      if (options.badge) {
+
+        const badges =
+          data.activity_badges || [];
+
+        const wanted =
+          Array.isArray(options.badge)
+            ? options.badge
+            : [options.badge];
+
+        if (!wanted.some(b => badges.includes(b))) {
+          return false;
+        }
+
+      }
+
+      //
+      // section
+      //
+
+      if (options.section) {
+
+        const code =
+          data.activity_code || "";
+
+        const sections =
+          Array.isArray(options.section)
+            ? options.section
+            : [options.section];
+
+        const ok =
+          sections.some(section =>
+            code.startsWith(
+              `${options.badge}-${section}`
+            )
+          );
+
+        if (!ok) {
+          return false;
+        }
+
+      }
+
+      return true;
+
+    });
+
+  }
+);
+
+eleventyConfig.addFilter(
+  "activitySort",
+  function(collection,
+           field = "title",
+           direction = "asc") {
+
+    if (!Array.isArray(collection)) {
+      return [];
+    }
+
+    const sorted = [...collection];
+
+    sorted.sort((a,b)=>{
+
+      let va;
+      let vb;
+
+      switch(field){
+
+        case "activity_code":
+
+          va =
+            a.data.activity_code || "";
+
+          vb =
+            b.data.activity_code || "";
+
+          break;
+
+        case "title":
+
+        default:
+
+          va =
+            (a.data.title || "")
+              .toLowerCase();
+
+          vb =
+            (b.data.title || "")
+              .toLowerCase();
+
+      }
+
+      const result =
+        va.localeCompare(vb,"es");
+
+      return direction === "desc"
+        ? -result
+        : result;
+
+    });
+
+    return sorted;
+
+  }
+);
+
+eleventyConfig.addFilter(
+  "activityLimit",
+  function(collection,
+           limit) {
+
+    if (!Array.isArray(collection)) {
+      return [];
+    }
+
+    return collection.slice(0, limit);
+
+  }
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   eleventyConfig.addPlugin(
     sitemapPlugin,
     {

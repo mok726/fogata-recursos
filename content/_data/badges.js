@@ -27,30 +27,12 @@ module.exports = function () {
       
     requirements: {
   summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+    "Esta insignia fue anunciada por FAO, pero aun se encuentra en desarrollo, cuando este publicada les agrego los detalles.",
 
   rules: [
-    "Completar una actividad obligatoria de cada sección",
-    "Completar una actividad adicional de cada sección",
-    "Realizar actividades de acción comunitaria"
   ]
 },
 sections: {
-  A: {
-    title: "Sección A"
-  },
-  B: {
-    title: "Sección B"
-  },
-  C: {
-    title: "Sección C"
-  },
-  D: {
-    title: "Sección D"
-  },
-  E: {
-    title: "Sección E"
-  }
 },
       documents: []
     },
@@ -91,19 +73,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "La vida de los bosques"
+    title: "La vida de los bosques",
+    description: ""
+
   },
   B: {
-    title: "Los bosques en uso"
+    title: "Los bosques en uso",
+    description: ""
+
   },
   C: {
-    title: "Los bosques y la cultura"
+    title: "Los bosques y la cultura",
+    description: ""
+
   },
   D: {
-    title: "Los bosques en peligro"
+    title: "Los bosques en peligro",
+    description: ""
+
   },
   E: {
-    title: "Toma acción"
+    title: "Toma acción",
+    description: ""
+
   }
 },
       documents: [
@@ -143,30 +135,12 @@ sections: {
       
     requirements: {
   summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+    "Esta insignia fue anunciada por FAO, pero aun se encuentra en desarrollo, cuando este disponible la actualizare.",
 
   rules: [
-    "Completar una actividad obligatoria de cada sección",
-    "Completar una actividad adicional de cada sección",
-    "Realizar actividades de acción comunitaria"
   ]
 },
 sections: {
-  A: {
-    title: "Sección A"
-  },
-  B: {
-    title: "Sección B"
-  },
-  C: {
-    title: "Sección C"
-  },
-  D: {
-    title: "Sección D"
-  },
-  E: {
-    title: "Sección E"
-  }
 },
       documents: []
     },
@@ -207,19 +181,25 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "ESTILOS DE VIDA SALUDABLES",
+   description: "REALIZA LA ACTIVIDAD A.1. O LA A.2. Y (AL MENOS) OTRA ACTIVIDAD MÁS DE TU ELECCIÓN.<br>DESPUÉS DE COMPLETAR LAS ACTIVIDADES DE ESTILOS DE VIDA SALUDABLES PODRÁS:<br>* IDENTIFICAR Y EXPLICAR los principals factores que afectan a nuestra salud.<br>* RECONOCER que tus decisiones y tus hábitos personales pueden mejorar o empeorar tu salud."
   },
   B: {
-    title: "Sección B"
+    title: "DECISIONES PARA UNA BUENA ALIMENTACIÓN",
+   description: "REALIZA LA ACTIVIDAD B.1 O LA B.2 Y (AL MENOS) OTRA ACTIVIDAD MÁS DE TU ELECCIÓN.<br>DESPUÉS DE COMPLETAR LAS ACTIVIDADES DE LAS DECISIONES PARA UNA BUENA ALIMENTACIÓN, PODRÁS:<br>* RECONOCER la importancia de comer una gran variedad de alimentos para satisfacer las necesidades de nutrientes que tu cuerpo necesita.<br>* IDENTIFICAR los alimentos que haya disponibles en tu zona y que sean fuentes de carbohidratos, proteínas, grasas y vitaminas y minerales esenciales."
+
   },
   C: {
-    title: "Sección C"
+    title: "SEGURIDAD EN LA COMIDA",
+   description: "REALIZA LA ACTIVIDAD C.1 O LA C.2 Y (AL MENOS) OTRA ACTIVIDAD MÁS DE TU ELECCIÓN.<br>DESPUÉS DE COMPLETAR LAS ACTIVIDADES DE SEGURIDAD EN LA COMIDA, PODRÁS:<br>* ENTENDER qué factores contribuyen a la seguridad en la comida y a los niveles de nutrición.<br>* APRENDER con qué debes tener cuidado en casa, en la escuela y en el mercado para asegurarte de que la comida es segura."
   },
   D: {
-    title: "Sección D"
+    title: "COME SANO – ES HORA DE UNA DIETA SOSTENIBLE",
+   description: "REALIZA LA ACTIVIDAD D.1 O LA D.2 Y (AL MENOS) OTRA ACTIVIDAD MÁS DE TU ELECCIÓN.<br>DESPUÉS DE COMPLETAR LAS ACTIVIDADES DE COME SANO – ES HORA DE UNA DIETA SOSTENIBLE, PODRÁS:<br>* ENTENDER qué factores afectan a la sostenibilidad del sistema alimenticio y los alimentos que consumimos.<br>* IDENTIFICAR qué debes hacer para lograr que tu comida sea más sostenible."
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+   description: "REALIZA LA ACTIVIDAD E.1 O LA E.2 Y (AL MENOS) OTRA ACTIVIDAD MÁS DE TU ELECCIÓN.<br>DESPUÉS DE COMPLETAR LAS ACTIVIDADES DE TOMA ACCIÓN, PODRÁS:<br>* ORGANIZAR y PARTICIPAR en una iniciativa comunitaria para concienciar sobre la importancia de una dieta variada y equilibrada para llevar una vida sana y para protegerse de la malnutrición.<br>* ANIMAR a otros a seguir dietas sostenibles y a tener estilos de vida más sanos."
   }
 },
       documents: [
@@ -269,19 +249,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -331,19 +321,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -388,19 +388,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -452,19 +462,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -495,30 +515,12 @@ sections: {
       
     requirements: {
   summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+    "Esta insignia fue anunciada por FAO, pero aun se encuentra en desarrollo, cuando este disponible la actualizare.",
 
   rules: [
-    "Completar una actividad obligatoria de cada sección",
-    "Completar una actividad adicional de cada sección",
-    "Realizar actividades de acción comunitaria"
   ]
 },
 sections: {
-  A: {
-    title: "Sección A"
-  },
-  B: {
-    title: "Sección B"
-  },
-  C: {
-    title: "Sección C"
-  },
-  D: {
-    title: "Sección D"
-  },
-  E: {
-    title: "Sección E"
-  }
 },
       documents: []
     },
@@ -555,19 +557,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: []
@@ -612,19 +624,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -664,30 +686,12 @@ sections: {
       
     requirements: {
   summary:
-    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
+    "Esta insignia fue anunciada por FAO, pero aun se encuentra en desarrollo, cuando este disponible la actualizare.",
 
   rules: [
-    "Completar una actividad obligatoria de cada sección",
-    "Completar una actividad adicional de cada sección",
-    "Realizar actividades de acción comunitaria"
   ]
 },
 sections: {
-  A: {
-    title: "Sección A"
-  },
-  B: {
-    title: "Sección B"
-  },
-  C: {
-    title: "Sección C"
-  },
-  D: {
-    title: "Sección D"
-  },
-  E: {
-    title: "Sección E"
-  }
 },
       documents: []
     },
@@ -728,19 +732,28 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "El océano en movimiento",
+    description: ""
   },
   B: {
-    title: "Sección B"
+    title: "El océano es vida",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Las personas y el océano",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "El océano en peligro",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "Toma acción",
+    description: ""
+
   }
 },
       documents: [
@@ -790,19 +803,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -852,19 +875,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -914,19 +947,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -976,19 +1019,28 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "EL HAMBRE Y LOS HAMBRIENTOS",
+    description: "haz la A.1. o la A.2. y (al menos) una actividad de tu elección.<br><br>Luego de completar nuestras actividades de EL HAMBRE Y LOS HAMBRIENTOS, tú: <br> - Te DARÁS CUENTA de cuan frecuentemente es posible que des las cosas por sentadas, algo que los hambrientos no pueden hacer.<br>- ENTENDERÁS de mejor manera las desigualdades y dificultades que enfrentan las personas que padecen hambre."
   },
   B: {
-    title: "Sección B"
+    title: "el DERECHO a la ALIMENTACIÓN",
+    description: "haz la B.1. o la B.2. y (al menos) una actividad de tu elección.<br> Luego de completar nuestras actividades de EL DERECHO A LA ALIMENTACIÓN, tú:<br>* Tendrás un mejor ENTENDIMIENTO sobre cómo funcionan los sistemas alimentarios.<br>*HABRÁS APRENDIDO conceptos clave, incluyendo el derecho humano a la alimentación, la seguridad alimentaria y la soberanía alimentaria."
+
   },
   C: {
-    title: "Sección C"
+    title: "las C AUSAS del HambRe",
+    description: "haz la C.1. o la C.2. y (al menos) una actividad de tu elección.<br>Luego de completar nuestras actividades de LAS CAUSAS DEL HAMBRE, tú:<br>* ENTENDERÁS algunas de las razones principales por las cuales existe el hambre en el mundo.<br>* TENDRÁS algunas ideas sobre cómo Podemos combatir el hambre"
+
   },
   D: {
-    title: "Sección D"
+    title: "ACABAR CON DEL HAMBRE",
+   description: "haz la D.1. o la D.2. y (al menos) una actividad de tu elección.<br>Luego de completar nuestras actividades de ACABAR CON EL HAMBRE, tú:<br>* ENTENDERÁS aquello que se puede hacer para acabar con el hambre.<br>* ¡SERÁS CAPAZ de pensar independientemente y de encontrar algunas soluciones para ayudar a resolver el hambre mundial!"
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+   description: "haz la E.1. o la E.2. y (al menos) una actividad de tu elección.<br>Luego de completar nuestras actividades de TOMA ACCIÓN, tú serás capaz de:<br>* ORGANIZAR y PARTICIPAR en una iniciativa comunitaria para combatir el hambre.<br>* ¡CONVENCER a otras personas de unirse a la lucha contra el hambre mundial!"
+
   }
 },
       documents: [
@@ -1037,19 +1089,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [
@@ -1099,19 +1161,29 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A"
+    title: "Sección A",
+    description: ""
+
   },
   B: {
-    title: "Sección B"
+    title: "Sección B",
+    description: ""
+
   },
   C: {
-    title: "Sección C"
+    title: "Sección C",
+    description: ""
+
   },
   D: {
-    title: "Sección D"
+    title: "Sección D",
+    description: ""
+
   },
   E: {
-    title: "Sección E"
+    title: "TOMA ACCIÓN",
+    description: ""
+
   }
 },
       documents: [

@@ -7,7 +7,7 @@ description: "Divide en dos equipos y haz una lista de animales, aves e insectos
 summary: "Divide en dos equipos y haz una lista de animales, aves e insectos, tanto polinizadores como no polinizadores. Luego, realiza un juego de preguntas para adivinar cuáles son polinizadores."
 version: "DRAFT"
 Origin: "YUNGA"
-# original: false # 
+# original: "False" # 
 author:
   - Mariano S. Cosentino
 source:

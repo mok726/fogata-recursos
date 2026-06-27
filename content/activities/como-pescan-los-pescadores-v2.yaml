@@ -1,0 +1,196 @@
+---
+title: "Cómo Pescan los Pescadores"
+duration: "90 minutos"  # ✅ Estimo tiempo
+layout: "layouts/activity.njk"
+permalink: "/activities/como-pescan-los-pescadores/"
+description: "Organiza un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca."
+summary: "Debate sobre sostenibilidad pesquera."
+
+author:
+  - FAO
+source:
+  - FAO - Insignia del Océano
+
+image: "/imagenes/actividades/como-pescan-los-pescadores.png"
+original: false  # ✅ Minúsculas, sin comillas
+Origin: "Insignia del Océano - FAO"
+version: "DRAFT"
+
+branch:
+  - Naturaleza
+age: "11-22 años"
+age_group:
+  - scouts
+  - caminantes
+  - rovers
+
+materials:
+  - Acceso a internet o a libros de referencia  # ✅ Puedo añadir más si es razonable
+tools: []
+responsible:
+  - Docente o Scouter  # ✅ Estimo quien puede ser necesario
+
+sdgs:
+  - 12  # Producción y consumo responsables
+  - 14  # Vida submarina
+
+activity_badges:
+  - oceano
+activity_code: "oceano-C07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+tags:
+  - oceano
+  - pesca
+  - sostenibilidad
+  - debate
+  # ❌ NO incluir seccion-c
+
+link:  # ✅ Para enlaces web
+  - url: "https://www.fao.org/fishery/geartype/search/es"
+    caption: "Tipos de equipos de pesca - FAO"
+    icon: "read_more"  # ✅ Para enlaces web
+  - url: "https://www.youtube.com/watch?v=g1TPeM9EAK0"
+    caption: "Video sobre equipos de pesca"
+    icon: "read_more"
+
+files: []  # ✅ Solo para archivos adjuntos (PDF, imágenes, etc.)
+
+references:
+  - title: "Insignia del Océano"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Debate
+reflective_component: 5  # Alta reflexión
+active_component: 1  # Baja actividad física
+
+complexity_execution: 3
+complexity_organizer: 3
+
+main_type: "Debate / Diálogo"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A debate about sustainable fishing methods with different fishing gear displayed dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, debating and presenting. Sustainable fishing and environmental policy discussion atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para el debate"
+prep_time: "20 min"
+participants: ""  # ✅ Vacío si no se especifica
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Pensamiento crítico
+  - Comunicación
+
+activity_type:
+  - Debate / Diálogo
+  - Investigación
+  - Sensibilización
+
+category:
+  - Pesca
+  - Sostenibilidad
+  - Debate
+
+skills:
+  - Investigación
+  - Comunicación
+  - Pensamiento crítico
+
+scout_values:
+  - Justicia
+  - Responsabilidad
+  - Naturaleza
+
+scout_method:
+  - Acompañamiento adulto / Protagonismo juvenil
+  - Participación comunitaria y Servicio
+
+rama_castores: []
+
+rama_lobatos:
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+  - 26  # Identifico algunos problemas ambientales de mi comunidad.
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente.
+  - 34  # Comprendo las causas y consecuencias del impacto ambiental.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible.
+  - 30  # Me posiciono críticamente sobre decisiones con impacto ambiental.
+
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 31  # Desarrollo acciones de preservación y protección ambiental.
+---
+
+# Cómo Pescan los Pescadores
+
+## Resumen
+Organiza un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca.
+
+## Preparación
+1. Investiga diferentes equipos y prácticas de pesca.
+2. Asigna a cada persona un tipo de equipo de pesca para investigar.
+3. Prepara argumentos para el debate.
+
+## Desarrollo
+1. **Investigación** (20 min): Cada persona investiga su tipo de equipo de pesca.
+2. **Presentación** (20 min): Cada persona presenta por qué su forma de pesca es mejor.
+3. **Preguntas** (15 min): El público hace preguntas.
+4. **Votación** (10 min): El público vota por la forma de pesca más sostenible.
+
+## Cierre
+- ¿Qué método de pesca es más sostenible?
+- ¿Cómo afectan los diferentes equipos al medio ambiente?
+- ¿Qué compromiso adquieres para consumir pescado sostenible?
+
+---
+## Texto original completo de la actividad
+
+**C.07 Cómo Pescan los Pescadores**
+
+Materiales: acceso a internet o a libros de referencia para obtener fotografías e información sobre diferentes equipos de pesca (por ej. www.fao.org/fishery/geartype/search/es; www.youtube.com/watch?v=g1TPeM9EAK0; www.youtube.com/watch/?v=MdkU678ZwjA).
+
+Organiza un debate sobre la sostenibilidad de la pesca y el uso de diferentes equipos y prácticas de pesca. Cada persona del grupo debe investigar sobre las ventajas y las desventajas de un tipo diferente de equipo de pesca. Es posible que también deseen buscar información sobre las diferencias entre la pesca artesanal y la pesca industrial. Cada persona debe hacer una presentación corta sobre por qué su forma de pesca es mejor. Una vez que hayan terminado sus presentaciones, inviten al público a realizar preguntas. Cuando todas las preguntas hayan sido discutidas, pidan al público que vote por la forma de pesca que considera que es más sostenible.
+
+nivel: 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante
