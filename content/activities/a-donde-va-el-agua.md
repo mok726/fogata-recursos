@@ -1,114 +1,187 @@
 ---
 title: "¿A dónde va el agua?"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-donde-va-el-agua/"
-description: "Investiga el uso del agua en tu país."
-summary: "Investiga el uso del agua en tu país."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga el uso del agua en tu país por sectores y propón formas de ahorrar."
+summary: "Investigación del uso de agua por sectores."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/a-donde-va-el-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - rovers
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 12 # Producción y consumo responsables
+
 activity_badges:
   - agua
-activity_code: "agua-X31"
-rama_lobatos:
-  - 24
-  - 26
-rama_scouts:
-  - 6
-  - 12
-rama_caminantes:
-  - 6
-  - 12
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a large pie chart on the wall in the center-left showing Argentina's water use: agriculture (70-80%), industry (10-15%), domestic (10-15%), energy (hydro). A laptop with FAO data and a notebook with proposed savings. The left side has space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at the agriculture slice, the other at the domestic slice, seen from a distance. The national water use analysis environment dominates."
+activity_code: "agua-B09"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - Argentina
+  - sectores
   - agricultura
   - industria
   - consumo
-  - Insignia del Agua
+  - ahorro
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Investigación y análisis
+reflective_component: 4  # Reflexión sobre uso del agua
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A pie chart showing water use by sector - agriculture, industry, domestic, energy - in a country dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and analyzing data. Water sector analysis and resource management atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Análisis de datos
+  - Pensamiento crítico
+
 activity_type:
   - Investigación
+  - Análisis
+  - Reflexión
+
 category:
   - Agua
-  - Economía
-  - Política
+  - Sectores
+  - Consumo
+
 skills:
   - Investigación
-  - Conciencia ambiental
+  - Análisis
   - Pensamiento crítico
-main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "25 min"
+
 scout_values:
+  - Responsabilidad
+  - Naturaleza
   - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 26  # Observo lo que pasa a mi alrededor y trato de entender las razones.
+  - 31  # Reconozco mi impacto en el ambiente.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable.
+  - 30  # Me posiciono críticamente sobre decisiones con impacto ambiental.
+
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 31  # Desarrollo acciones de preservación ambiental.
 ---
 
 # ¿A dónde va el agua?
 
 ## Resumen
-Investiga el uso del agua en tu país.
+Investiga cómo se utiliza el agua en tu país por sectores y propón formas de ahorrar.
+
+## Preparación
+1. Investiga sobre el uso del agua en tu país.
+2. Identifica los principales sectores que usan agua.
+3. Prepara materiales para presentar.
 
 ## Desarrollo
-Investiga sobre el uso del agua en tu país, en la agricultura, la industria, el uso doméstico, la energía y otros sectores. ¿Para qué se utiliza la mayor cantidad de agua? ¿Dónde crees que se podría ahorrar algo de agua?
+1. **Investigación** (25 min): Investiga el uso del agua por sector en tu país.
+2. **Análisis** (15 min): ¿Para qué se utiliza la mayor cantidad de agua?
+3. **Propuestas** (15 min): ¿Dónde se podría ahorrar?
+4. **Presentación** (5 min): Comparte tus hallazgos.
 
 ## Cierre
-Reflexiona sobre la distribución del agua en tu país. Preguntas para discutir: ¿Qué sector consume más agua? ¿Cómo podemos mejorar la gestión del agua?
+- ¿Qué sector usa más agua en tu país?
+- ¿Dónde crees que se podría ahorrar más?
+- ¿Cómo se compara tu país con otros?
+
+---
+## Texto original completo de la actividad
+
+**B.09 ¿A DÓNDE VA EL AGUA?** Investiga sobre el uso del agua en tu país, en la agricultura, la industria, el uso doméstico, la energía y otros sectores. ¿Para qué se utiliza la mayor cantidad de agua? ¿Dónde crees que se podría ahorrar algo de agua?
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

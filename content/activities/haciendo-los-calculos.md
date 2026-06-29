@@ -1,117 +1,187 @@
 ---
-title: "Haciendo los cálculos"
+title: "Haciendo los Cálculos"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/haciendo-los-calculos/"
-description: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
-summary: "Calcula el consumo de agua de los electrodomésticos en tu hogar."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Calcula el ahorro de agua que puedes lograr con electrodomésticos eficientes."
+summary: "Cálculo de ahorro de agua en el hogar."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/haciendo-los-calculos.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - rovers
+
+materials:
+  - Acceso a internet
+  - Calculadora
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
-  - 12
+  - 6  # Agua limpia y saneamiento
+  - 12 # Producción y consumo responsables
+
 activity_badges:
   - agua
-activity_code: "agua-X32"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 6
-  - 12
-rama_caminantes:
-  - 6
-  - 12
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine home, with a table in the center-left showing an electricity bill, a list of appliances (toilet, washing machine, dishwasher, shower) with old vs efficient water consumption (liters per use). A calculator and a notebook with savings calculations. The left side has open space for text. On the far right side, a tiny older scout (14-17) sits, using the calculator, a parent (civilian) looking over the shoulder, seen from a distance. The appliance water efficiency calculation environment dominates."
+activity_code: "agua-B10"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - electrodomésticos
-  - consumo
-  - eficiencia
+  - calculos
   - ahorro
-  - Insignia del Agua
+  - electrodomesticos
+  - eficiencia
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Cálculo y comparación
+reflective_component: 4  # Reflexión sobre eficiencia
+active_component: 1  # Actividad de cálculo
+
+complexity_execution: 3  # Requiere cálculos
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Charts comparing water consumption of old vs efficient appliances, with calculation results dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, calculating and creating posters. Water efficiency and sustainable consumption atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Análisis matemático
+  - Pensamiento crítico
+  - Conciencia del consumo
+
 activity_type:
   - Investigación
-  - Cálculo
+  - Análisis
+  - Sensibilización
+
 category:
-  - Hogar
   - Agua
-  - Matemática
+  - Eficiencia
+  - Cálculo
+
 skills:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
-main_type: "Investigación"
-space_required: "Hogar (individual) + salón"
-prep_time: "25 min"
+  - Cálculo
+  - Análisis
+  - Comunicación
+
 scout_values:
   - Responsabilidad
-  - Consumo consciente y Gratitud
+  - Sencillez y Austeridad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 49  # Administro mis recursos de forma responsable.
+  - 31  # Reconozco mi impacto en el ambiente.
+
+rama_caminantes:
+  - 44  # Planifico y administro responsablemente mis recursos.
+  - 45  # Establezco prioridades administrando el tiempo.
+
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos.
+  - 19 # Tomo decisiones económicas conscientes.
 ---
 
-# Haciendo los cálculos
+# ¡Haciendo los Cálculos!
 
 ## Resumen
-Calcula el consumo de agua de los electrodomésticos en tu hogar.
+Calcula cuánta agua puedes ahorrar en casa usando electrodomésticos más eficientes.
+
+## Preparación
+1. Haz una lista de los aparatos que usan agua en tu hogar.
+2. Investiga cuánta agua usan los modelos antiguos vs. nuevos.
+3. Prepara una calculadora y materiales para presentar.
 
 ## Desarrollo
-Haz una lista de todas las máquinas y aparatos que emplean agua en tu hogar. Trata de averiguar cuánta agua usan. Si es posible, calcula cuánta agua puedes ahorrar en casa al usar aparatos que utilizan el agua de manera más eficiente (por ejemplo, al comparar los modelos antiguos de estos aparatos con unos más nuevos que puedes encontrar en Internet) ¿Sabías que un inodoro de bajo consumo usa sólo 5,7 litros cada vez que tiras la cadena, comparado con 15,4 litros por cada vez que tiras la cadena en el caso de los inodoros tradicionales? Las nuevas lavadoras emplean hasta 40 por ciento menos agua por cada carga que las maquinas más antiguas y también pueden ahorrar energía. Presenta tus hallazgos (tal vez en forma de un póster o de una presentación en Power Point) a tu grupo o clase y crea un impreso para convencer a las personas de la razón por la cual deben elegir aparatos que sean más eficientes en el uso del agua.
+1. **Lista** (10 min): Identifica todos los aparatos que usan agua en tu hogar.
+2. **Investigación** (20 min): Averigua cuánta agua usan los modelos actuales vs. eficientes.
+3. **Cálculo** (15 min): Calcula el ahorro potencial.
+4. **Presentación** (10 min): Crea un póster o presentación sobre tus hallazgos.
+5. **Convencimiento** (5 min): Prepara un argumento para convencer a otros.
 
 ## Cierre
-Reflexiona sobre el impacto de los electrodomésticos en el consumo de agua. Preguntas para discutir: ¿Qué electrodomésticos consumen más agua? ¿Cómo podemos reducir su consumo?
+- ¿Cuánta agua puedes ahorrar con electrodomésticos eficientes?
+- ¿Qué aparato ofrece el mayor ahorro?
+- ¿Por qué es importante elegir aparatos eficientes?
+
+---
+## Texto original completo de la actividad
+
+**B.10 HACIENDO LOS CÁLCULOS** Haz una lista de todas las máquinas y aparatos que emplean agua en tu hogar. Trata de averiguar cuánta agua usan. Si es posible, calcula cuánta agua puedes ahorrar en casa al usar aparatos que utilizan el agua de manera más eficiente (por ejemplo, al comparar los modelos antiguos de estos aparatos con unos más nuevos que puedes encontrar en Internet) ¿Sabías que un inodoro de bajo consumo usa sólo 5,7 litros cada vez que tiras la cadena, comparado con 15,4 litros por cada vez que tiras la cadena en el caso de los inodoros tradicionales? Las nuevas lavadoras emplean hasta 40 por ciento menos agua por cada carga que las máquinas más antiguas y también pueden ahorrar energía. Presenta tus hallazgos (tal vez en forma de un póster o de una presentación en Power Point) a tu grupo o clase y crea un impreso para convencer a las personas de la razón por la cual deben elegir aparatos que sean más eficientes en el uso del agua.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

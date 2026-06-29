@@ -38,6 +38,35 @@ module.exports = function(eleventyConfig) {
     }
   );
 
+
+function parseActivityCode(code = "") {
+
+  const match = code.match(/^([^-]+)-([A-Z])(\d{2})$/i);
+
+  if (!match) {
+
+    return {
+      badge: null,
+      section: null,
+      number: null
+    };
+
+  }
+
+  return {
+
+    badge: match[1],
+
+    section: match[2].toUpperCase(),
+
+    number: Number(match[3])
+
+  };
+
+}
+
+
+
 eleventyConfig.addCollection(
   "activitiesSorted",
   function(collectionApi) {
@@ -139,8 +168,451 @@ eleventyConfig.addFilter(
 
 
 
+
+eleventyConfig.addFilter(
+  "activityFlags",
+  function (activities, options = {}) {
+
+    return activities.map(activity => {
+
+      const clone = {
+        ...activity,
+        data: {
+          ...activity.data
+        }
+      };
+
+      const code =
+        clone.data.activity_code || "";
+
+      const parts =
+        code.split("-");
+
+      const prefix =
+        parts.length > 1
+          ? parts[0]
+          : "";
+
+      const suffix =
+        parts.length > 1
+          ? parts[1]
+          : "";
+
+      clone.data.codePrefix = prefix;
+      clone.data.codeSuffix = suffix;
+
+      clone.data.section =
+        suffix.match(/^[A-Z]/)
+          ? suffix[0]
+          : null;
+
+      clone.data.isOfficial =
+        clone.data.section !== null;
+
+      clone.data.isComplementary =
+        clone.data.section === null;
+
+      if (
+        options.badge &&
+        options.sections
+      ) {
+
+        clone.data.isInconsistent =
+          clone.data.isOfficial &&
+          !options.sections[
+            clone.data.section
+          ];
+
+      } else {
+
+        clone.data.isInconsistent = false;
+
+      }
+
+      const required =
+        clone.data.required_for || [];
+
+      clone.data.isRequired =
+        options.badge
+          ? required.includes(
+              options.badge +
+              "-" +
+              clone.data.section
+            )
+          : required.length > 0;
+
+      return clone;
+
+    });
+
+  }
+);
+
+
+
+
+
+eleventyConfig.addFilter(
+  "activityCardModel",
+  function (activities, options = {}) {
+
+    return activities.map(activity => ({
+
+      activity,
+
+      url: activity.url,
+
+      title: activity.data.title,
+      summary: activity.data.summary,
+
+      image:
+        activity.data.image ||
+        "/imagenes/actividades/activity-card.png",
+
+      duration: activity.data.duration,
+      participants: activity.data.participants,
+
+      ageGroup:
+        activity.data.age_group || [],
+
+      sdgs:
+        activity.data.sdgs || [],
+
+      activityBadges:
+        activity.data.activity_badges || [],
+
+      attachments:
+        activity.data.attachments || [],
+
+      version:
+        activity.data.version,
+
+      original:
+        activity.data.original,
+
+      isRequired:
+        activity.data.isRequired,
+
+      isComplementary:
+        options.isComplementary || false,
+
+      isFeatured:
+        options.isFeatured || false,
+
+      badges:
+        options.badges,
+
+      ageGroups:
+        options.ageGroups
+
+    }));
+
+  }
+);
+
+
+
+
 eleventyConfig.addFilter(
   "activityQuery",
+  function (activities, options = {}) {
+
+    let result = [...activities];
+
+    //
+    // INSIGNIA
+    //
+    if (options.badge) {
+
+      result = result.filter(activity => {
+
+        const badges =
+          activity.data.activity_badges || [];
+
+        return badges.includes(options.badge);
+
+      });
+
+    }
+
+    //
+    // SECCIÓN
+    //
+    if (options.section) {
+
+      result = result.filter(activity =>
+        activity.data.section === options.section
+      );
+
+    }
+
+    //
+    // REQUERIDAS
+    //
+    if (options.required === true) {
+
+      result = result.filter(activity =>
+        activity.data.isRequired
+      );
+
+    }
+
+    //
+    // COMPLEMENTARIAS
+    //
+    if (options.complementary === true) {
+
+      result = result.filter(activity =>
+        activity.data.isComplementary
+      );
+
+    }
+
+    //
+    // INCONSISTENTES
+    //
+    if (options.inconsistent === true) {
+
+      result = result.filter(activity =>
+        activity.data.isInconsistent
+      );
+
+    }
+
+    return result;
+
+  }
+);
+
+
+
+
+
+
+
+
+
+eleventyConfig.addFilter(
+  "activityQueryold3",
+  function (activities, options = {}) {
+
+    let result = [...activities];
+
+    //
+    // FILTRO POR INSIGNIA
+    //
+    if (options.badge) {
+
+      result = result.filter(activity => {
+
+        const badges =
+          activity.data.activity_badges || [];
+
+        return badges.includes(options.badge);
+
+      });
+
+    }
+
+    //
+    // FILTRO POR SECCIÓN
+    //
+    if (options.section) {
+
+      result = result.filter(activity => {
+
+        const code =
+          activity.data.activity_code || "";
+
+        const parts = code.split("-");
+
+        if (parts.length < 2) {
+          return false;
+        }
+
+        const suffix = parts[1];
+
+        return suffix.startsWith(options.section);
+
+      });
+
+    }
+
+    //
+    // FILTRO POR REQUERIDAS
+    //
+    if (options.required === true) {
+
+      result = result.filter(activity => {
+
+        const required =
+          activity.data.required_for || [];
+
+        return required.length > 0;
+
+      });
+
+    }
+
+    //
+    // FILTRO POR COMPLEMENTARIAS
+    //
+    if (options.complementary === true) {
+
+      result = result.filter(activity => {
+
+        const code =
+          activity.data.activity_code || "";
+
+        const parts = code.split("-");
+
+        if (parts.length < 2) {
+          return true;
+        }
+
+        const suffix = parts[1];
+
+        return !/^[A-Z]/.test(suffix);
+
+      });
+
+    }
+
+    //
+    // FILTRO POR INCONSISTENTES
+    //
+    if (options.inconsistent === true) {
+
+      result = result.filter(activity => {
+
+        const code =
+          activity.data.activity_code || "";
+
+        const parts = code.split("-");
+
+        if (parts.length < 2) {
+          return false;
+        }
+
+        const suffix = parts[1];
+
+        if (!/^[A-Z]/.test(suffix)) {
+          return false;
+        }
+
+        const section = suffix[0];
+
+        return !options.sections ||
+               !options.sections[section];
+
+      });
+
+    }
+
+    return result;
+
+  }
+);
+
+
+
+
+
+eleventyConfig.addFilter(
+  "activityQueryold2",
+  function (activities, options = {}) {
+
+    let result = [...activities];
+
+    //
+    // FILTRO POR INSIGNIA
+    //
+    if (options.badge) {
+
+      result = result.filter(activity => {
+
+        const badges =
+          activity.data.activity_badges || [];
+
+        return badges.includes(options.badge);
+
+      });
+
+    }
+
+    //
+    // FILTRO POR SECCIÓN
+    //
+    if (options.section) {
+
+      result = result.filter(activity => {
+
+        const code =
+          activity.data.activity_code || "";
+
+        const parts = code.split("-");
+
+        if (parts.length < 2) {
+          return false;
+        }
+
+        const suffix = parts[1];
+
+        return suffix.startsWith(options.section);
+
+      });
+
+    }
+
+    //
+    // FILTRO POR REQUERIDAS
+    //
+    if (options.required === true) {
+
+      result = result.filter(activity => {
+
+        const required =
+          activity.data.required_for || [];
+
+        return required.length > 0;
+
+      });
+
+    }
+
+    //
+    // FILTRO POR COMPLEMENTARIAS
+    //
+    if (options.complementary === true) {
+
+      result = result.filter(activity => {
+
+        const code =
+          activity.data.activity_code || "";
+
+        const parts = code.split("-");
+
+        if (parts.length < 2) {
+          return true;
+        }
+
+        const suffix = parts[1];
+
+        return !/^[A-Z]/.test(suffix);
+
+      });
+
+    }
+
+    return result;
+
+  }
+);
+
+
+
+eleventyConfig.addFilter(
+  "activityQueryold",
   function(collection, options = {}) {
 
     if (!Array.isArray(collection)) {
@@ -152,7 +624,7 @@ eleventyConfig.addFilter(
       const data = item.data;
 
       //
-      // badge
+      // Badge
       //
 
       if (options.badge) {
@@ -172,27 +644,22 @@ eleventyConfig.addFilter(
       }
 
       //
-      // section
+      // Section
       //
 
       if (options.section) {
 
-        const code =
-          data.activity_code || "";
+        const parsed =
+          parseActivityCode(
+            data.activity_code
+          );
 
-        const sections =
+        const wanted =
           Array.isArray(options.section)
             ? options.section
             : [options.section];
 
-        const ok =
-          sections.some(section =>
-            code.startsWith(
-              `${options.badge}-${section}`
-            )
-          );
-
-        if (!ok) {
+        if (!wanted.includes(parsed.section)) {
           return false;
         }
 
@@ -204,6 +671,10 @@ eleventyConfig.addFilter(
 
   }
 );
+
+
+
+
 
 eleventyConfig.addFilter(
   "activitySort",
@@ -217,39 +688,63 @@ eleventyConfig.addFilter(
 
     const sorted = [...collection];
 
-    sorted.sort((a,b)=>{
+    sorted.sort((a, b) => {
 
-      let va;
-      let vb;
+      let result = 0;
 
-      switch(field){
+      switch (field) {
 
-        case "activity_code":
+        case "activity_code": {
 
-          va =
-            a.data.activity_code || "";
+          const pa =
+            parseActivityCode(
+              a.data.activity_code
+            );
 
-          vb =
-            b.data.activity_code || "";
+          const pb =
+            parseActivityCode(
+              b.data.activity_code
+            );
+
+          result =
+            pa.badge.localeCompare(pb.badge);
+
+          if (result === 0) {
+
+            result =
+              pa.section.localeCompare(pb.section);
+
+          }
+
+          if (result === 0) {
+
+            result =
+              pa.number - pb.number;
+
+          }
 
           break;
 
+        }
+
         case "title":
 
-        default:
+        default: {
 
-          va =
+          const ta =
             (a.data.title || "")
               .toLowerCase();
 
-          vb =
+          const tb =
             (b.data.title || "")
               .toLowerCase();
 
-      }
+          result =
+            ta.localeCompare(tb, "es");
 
-      const result =
-        va.localeCompare(vb,"es");
+        }
+
+      }
 
       return direction === "desc"
         ? -result
@@ -261,6 +756,8 @@ eleventyConfig.addFilter(
 
   }
 );
+
+
 
 eleventyConfig.addFilter(
   "activityLimit",

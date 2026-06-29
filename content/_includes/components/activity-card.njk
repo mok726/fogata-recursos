@@ -1,4 +1,4 @@
-<div class="card activity-card {% if isRequired %}activity-card-required{% endif %}">
+<div class="card activity-card {% if isRequired %}activity-card-required{% endif %} {% if isFeatured %}activity-card-featured{% endif %} {% if item.original %}activity-card-original{% endif %}" >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
@@ -9,10 +9,12 @@
        %}
       <img  class="activity-card-image"  src="{{ activityImage | url }}"  alt="{{ item.title }}">
     </a>
+
     {% if item.original %}
       <div class="activity-original"><span class="material-symbols-outlined">stars</span>
       </div>
     {% endif %}
+
     {% if item.duration %}
       <div class="activity-duration">
         <span class="material-symbols-outlined">schedule</span> {{ item.duration }}

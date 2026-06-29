@@ -1,114 +1,186 @@
 ---
-title: "Aventuras lingüísticas - Agua"
+title: "Aventuras Lingüísticas"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-linguisticas/"
-description: "Aprende cómo se dice ‘agua’ en diferentes idiomas."
-summary: "Aprende cómo se dice ‘agua’ en diferentes idiomas."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Aprende cómo se dice 'agua' en diferentes idiomas y crea trabalenguas divertidos."
+summary: "Palabra 'agua' en diferentes idiomas."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/aventuras-linguisticas.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-10"
+age: "5-15 años"
 age_group:
   - castores
   - manada
+  - scouts
+  - caminantes
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 4  # Educación de calidad
+  - 6  # Agua limpia y saneamiento
+
 activity_badges:
   - agua
-activity_code: "agua-X07"
-rama_lobatos:
-  - 12
-  - 47
-rama_scouts:
-  - 4
-  - 53
-rama_caminantes:
-  - 4
-  - 49
-rama_rovers:
-  - 4
-  - 30
-image_prompt: "An Argentine scout room, with a world map on the wall in the center-left. Sticky notes with the word 'agua' in different languages (agua, water, eau, Wasser, acqua, voda, maji, mizu) placed on their respective countries. The left side has negative space for text. On the far right side, two tiny young scouts (5-10) stand, one pointing at 'eau' on France, the other at 'maji' on Tanzania, seen from a distance. The multilingual water environment dominates."
+activity_code: "agua-A07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
   - idiomas
-  - mundial
-  - traducción
+  - palabras
   - cultura
-  - Insignia del Agua
+  - juego
+
+link:
+  - url: "https://www.un.org/es/members/"
+    caption: "Países miembros de la ONU"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Juego de palabras y concursos
+reflective_component: 2  # Reflexión cultural ligera
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 1  # Muy sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Juego"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children learning how to say 'water' in different languages, with a world map and speech bubbles dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing words and laughing. Language learning and cultural curiosity atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-activity_type:
+space_required: "Salón con acceso a internet"
+prep_time: "10 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Curiosidad cultural
   - Investigación
+  - Memoria
+
+activity_type:
   - Juego
+  - Aprender jugando
+  - Investigación
+
 category:
+  - Agua
   - Idiomas
   - Cultura
-  - Agua
+
 skills:
-  - Conocimiento cultural
-  - Creatividad
+  - Curiosidad cultural
+  - Memoria
   - Comunicación
-main_type: "Aprender jugando"
-space_required: "Salón amplio"
-prep_time: "15 min"
+
 scout_values:
-  - Respeto al prójimo
-  - Superación personal
+  - Curiosidad y apertura al aprendizaje
+  - Hermandad
+  - Optimismo y Alegría
+
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 4
-reflective_component: 2
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Marco simbólico
 
+rama_castores: []
+
+rama_lobatos:
+  - 12  # Me intereso por la cultura de mi comunidad y mi país.
+  - 13  # Respeto las diversas tradiciones culturales.
+
+rama_scouts:
+  - 16  # Exploro y me identifico con la cultura de mi comunidad.
+  - 17  # Valoro mi historia e identidad.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Aventuras lingüísticas - Agua
+# ¡Aventuras Lingüísticas!
 
 ## Resumen
-Aprende cómo se dice ‘agua’ en diferentes idiomas.
+Investiga cómo se dice 'agua' en diferentes idiomas y crea trabalenguas divertidos.
+
+## Preparación
+1. Asigna un país diferente a cada miembro del grupo.
+2. Prepara materiales para tomar notas.
 
 ## Desarrollo
-Asigna un país diferente a cada miembro del grupo (puedes encontrar una lista en www.un.org/es/members/). Luego, individualmente, cada uno va investigar cómo se dice ‘agua’ en el idioma principal de ese país. Vuelvan a reunirse y compartan sus hallazgos. Organicen un concurso para ver quién puede recordar cómo se dice la palabra ‘agua’ en más idiomas y luego ¡inventen un divertido trabalenguas al mezclar y combinar las distintas palabras!
+1. **Investigación** (15 min): Investiga cómo se dice 'agua' en el idioma de tu país asignado.
+2. **Compartir** (10 min): Comparte tus hallazgos con el grupo.
+3. **Concurso** (3 min): ¿Quién puede recordar más palabras?
+4. **Trabalenguas** (2 min): Inventa un trabalenguas con las palabras.
 
 ## Cierre
-Reflexiona sobre la importancia del agua en diferentes culturas. Preguntas para discutir: ¿Qué idiomas te sorprendieron más? ¿Cómo se relaciona el agua con la cultura en diferentes países?
+- ¿Qué palabra te gustó más?
+- ¿Por qué crees que hay tantas palabras para decir 'agua'?
+- ¿Qué aprendiste sobre otras culturas?
+
+---
+## Texto original completo de la actividad
+
+**A.07 AVENTURAS LINGÜÍSTICAS** Asigna un país diferente a cada miembro del grupo (puedes encontrar una lista en www.un.org/es/members/). Luego, individualmente, cada uno va investigar cómo se dice 'agua' en el idioma principal de ese país. Vuelvan a reunirse y compartan sus hallazgos. Organicen un concurso para ver quién puede recordar cómo se dice la palabra 'agua' en más idiomas y luego ¡inventen un divertido trabalenguas al mezclar y combinar las distintas palabras!
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

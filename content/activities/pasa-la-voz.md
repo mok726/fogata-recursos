@@ -1,141 +1,193 @@
 ---
-title: "Pasa la voz"
-duration: "varias horas (depende del evento)"
+title: "Pasa la Voz"
+duration: "Proyecto de evento"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasa-la-voz/"
-description: |
-  Actividad para organizar un evento comunitario sobre el agua y recaudar fondos para proyectos relacionados.
-  Esta actividad es obligatoria para la categoría E.
-summary: |
-  Actividad para organizar un evento comunitario sobre el agua y recaudar fondos para proyectos relacionados.
-  Esta actividad es obligatoria para la categoría E.
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Organiza un evento para concienciar sobre el agua o recaudar fondos para proyectos hídricos."
+summary: "Evento de concienciación sobre el agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/pasa-la-voz.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Materiales para recaudación de fondos
-  - Información sobre proyectos de agua
-tools:
-  - Computadora para investigación
-  - Materiales para eventos
-competencies:
-  - Trabajo en Equipo y Colaboración
-  - Ciudadanía y Conciencia Social
+  - Materiales según el evento elegido
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 17 # Alianzas para lograr los objetivos
+
 activity_badges:
   - agua
-activity_code: "agua-X52"
-rama_lobatos:
-  - 25
-  - 28
-rama_scouts:
-  - 6
-  - 15
-rama_caminantes:
-  - 6
-  - 15
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine community space (school or park), with a booth in the center-left for a water fundraiser: a water walkathon, a bake sale, or a pledge drive. A banner 'Día Mundial del Agua - 22 de marzo'. Families walking around. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) stand, one handing a cup of water to a civilian, another explaining the project, seen from a distance. The water fundraising event environment dominates."
-similar_activities:
-  - https://www.tapproject.org/
+activity_code: "agua-E01"
+required: true
+required_for:
+  - agua-E
+required_comment: "Actividad obligatoria para la Sección E: Tomar Acción"
+required_category: "Tomar Acción"
+
 tags:
   - agua
   - evento
-  - recaudación
-  - fondos
-  - comunidad
-  - Parche del Agua
-location: "Interior / Exterior"
-participants: "10-50"
-complexity_execution: 4
-complexity_organizer: 4
-accessibility:
-  - -Movilidad
-activity_type:
-  - Evento
-  - Recaudación
-category:
-  - Eventos
-  - Agua
-  - Activismo
-skills:
-  - Trabajo en equipo
-  - Conciencia social
+  - concienciacion
+  - recaudacion
+  - solidaridad
+
+link:
+  - url: "https://www.tapproject.org/volunteer"
+    caption: "Proyecto Grifo de UNICEF (inglés)"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Evento comunitario
+reflective_component: 4  # Reflexión sobre acción
+active_component: 4  # Organización activa
+
+complexity_execution: 3  # Requiere planificación
+complexity_organizer: 4  # Requiere organización
+
 main_type: "Servicio a los demás"
-space_required: "Salón amplio o exterior"
-special_materials:
-  - materiales según evento
-  - carteles
-  - caja de donaciones
-  - permisos municipales
-prep_time: "2-4 semanas planificación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community event raising awareness about water, with booths, activities, and enthusiastic participants dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing and presenting. Community engagement and water advocacy atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Espacio comunitario para el evento"
+prep_time: "60 min"
+participants: "4-30"
+
+accessibility: []
+
+competencies:
+  - Organización
+  - Comunicación
+  - Liderazgo
+
+activity_type:
+  - Servicio a los demás
+  - Sensibilización
+  - Aprender haciendo
+
+category:
+  - Agua
+  - Concienciación
+  - Acción
+
+skills:
+  - Organización
+  - Comunicación
+  - Trabajo en equipo
+
 scout_values:
-  - Hermandad
   - Solidaridad
+  - Responsabilidad
+  - Participación comunitaria
+
 scout_method:
   - Participación comunitaria y Servicio
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 3
-files:
-  - filepath: "https://www.tapproject.org/"
-    caption: "Similares en la Web"
-    icon: "read_more"
 
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+rama_castores: []
 
+rama_lobatos:
+  - 19  # Realizo acciones solidarias para ayudar a las personas.
+  - 21  # Hablo con los demás sobre lo que creo.
+
+rama_scouts:
+  - 23  # Promuevo la participación e inclusión.
+  - 25  # Me comprometo y animo a otras personas.
+
+rama_caminantes:
+  - 22  # Trabajo para facilitar y promover la participación.
+  - 23  # Me involucro en acciones solidarias.
+
+rama_rovers:
+  - 27  # Me involucro en acciones comunitarias sostenibles.
+  - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# Pasa la voz
+# ¡Pasa la Voz!
 
 ## Resumen
-Actividad para organizar un evento comunitario sobre el agua y recaudar fondos para proyectos relacionados.
-Esta actividad es obligatoria para la categoría E.
+Organiza un evento para concienciar sobre el agua o recaudar fondos para proyectos de acceso al agua limpia.
+
+## Preparación
+1. Busca acciones internacionales como el Día Mundial del Agua o el Proyecto Grifo de UNICEF.
+2. Elige un tipo de evento.
+3. Consigue materiales y promociona el evento.
 
 ## Desarrollo
-En grupo, organicen un evento para pasar la voz sobre el agua o recauden fondos para ayudar a llevar agua limpia y accesible a las personas alrededor del mundo. Busquen acciones internacionales a favor del agua y del saneamiento, como el Día Mundial del Agua, El Día Mundial del Inodoro o el Proyecto Grifo de UNICEF (www.tapproject.org/volunteer [en inglés]) para obtener ideas y vean cómo pueden involucrarse.
+1. **Planificación** (30 min): Define el evento y sus actividades.
+2. **Preparación** (30 min): Prepara materiales y promociona.
+3. **Evento** (2-4 horas): Lleva a cabo el evento.
+4. **Evaluación** (15 min): Reflexiona sobre lo que funcionó.
 
 ## Cierre
-Reflexiona sobre cómo las acciones comunitarias pueden generar un impacto positivo en el acceso al agua.
+- ¿Cómo respondió la comunidad?
+- ¿Qué fue lo más efectivo?
+- ¿Qué harías diferente la próxima vez?
+
+---
+## Texto original completo de la actividad
+
+**E.01 PASA LA VOZ** En grupo, organicen un evento para pasar la voz sobre el agua o recauden fondos para ayudar a llevar agua limpia y accesible a las personas alrededor del mundo. Busquen acciones internacionales a favor del agua y del saneamiento, como el Día Mundial del Agua, El Día Mundial del Inodoro o el Proyecto Grifo de UNICEF (www.tapproject.org/volunteer [en inglés]) para obtener ideas y vean cómo pueden involucrarse. Investiguen si pueden unirse a algunos eventos que se llevan a cabo en su área. De lo contrario, organicen su propio evento y usen materiales de los sitios web de los proyectos para su campaña.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

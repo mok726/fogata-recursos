@@ -1,131 +1,187 @@
 ---
-title: "Hurga en la tierra"
+title: "Hurga en la Tierra"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hurga-en-la-tierra/"
-description: "Experimenta con la erosión del suelo causada por el agua."
-summary: "Experimenta con la erosión del suelo causada por el agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Experimenta con la erosión del suelo al agregar agua sobre diferentes tipos de suelo."
+summary: "Experimento sobre erosión del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/hurga-en-la-tierra.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
+
 materials:
-  - Diferentes tipos de suelo (arena
-  - tierra
-  - arcilla)
+  - Diferentes tipos de suelo (arena, tierra, arcilla)
   - Agua
-  - Jarra y regadera
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - Jarra
+  - Regadera
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
-  - 15
+  - 6  # Agua limpia y saneamiento
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - agua
-activity_code: "agua-X10"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 6
-  - 15
-rama_caminantes:
-  - 6
-  - 15
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine outdoor area, with trays of different soil types (sand, clay, loam) in the center-left. A watering can and a pitcher. Water is being poured, creating erosion channels. A clipboard with observations. The left side has open space for text. On the far right side, two tiny older scouts (11-15) kneel, one pouring water, the other pointing at the erosion, seen from a distance. The soil erosion experiment environment dominates."
+activity_code: "agua-A10"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - erosión
+  - erosion
   - suelo
   - experimento
-  - conservación
-  - Insignia del Agua
+  - tierra
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Experimento divertido con tierra y agua
+reflective_component: 3  # Reflexión sobre erosión
+active_component: 3  # Manipulación de materiales
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Experimentación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children conducting a soil erosion experiment with different soil types, water, and watering cans dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and recording results. Hands-on earth science atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Exterior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Movilidad
+space_required: "Área exterior con diferentes tipos de suelo"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Experimentación
+  - Observación
+  - Comprensión de la erosión
+
 activity_type:
   - Experimentación
-  - Ciencia
-category:
-  - Suelos
-  - Agua
-  - Ciencia
-skills:
+  - Aprender haciendo
   - Investigación
-  - Conciencia ambiental
+
+category:
+  - Agua
+  - Suelo
+  - Erosión
+
+skills:
+  - Experimentación
+  - Observación
   - Pensamiento crítico
-main_type: "Experimentación"
-space_required: "Exterior abierto"
-special_materials:
-  - bandejas
-  - diferentes tipos de suelo
-  - jarra
-  - regadera
-  - agua
-prep_time: "15 min"
+
 scout_values:
+  - Curiosidad y apertura al aprendizaje
   - Naturaleza
-  - Superación personal
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
   - Vida en la Naturaleza y Aventura
-ludic_component: 3
-reflective_component: 4
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+
+rama_lobatos:
+  - 27  # Comprendo que en la naturaleza todo está relacionado.
+  - 33  # Utilizo diferentes herramientas y busco soluciones.
+
+rama_scouts:
+  - 35  # Comprendo que todo lo que le hacemos a los seres vivos nos afecta.
+  - 41  # Experimento diferentes medios y tecnologías.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Hurga en la tierra
+# ¡Hurga en la Tierra!
 
 ## Resumen
-Experimenta con la erosión del suelo causada por el agua.
+Experimenta con diferentes tipos de suelo para observar cómo el agua causa erosión y cómo algunos suelos se erosionan más fácilmente que otros.
+
+## Preparación
+1. Reúne diferentes tipos de suelo (arena, tierra, arcilla).
+2. Prepara agua en jarra y regadera.
+3. Prepara el área de trabajo.
 
 ## Desarrollo
-Observa cómo se desgasta el suelo (erosión) al agregar agua sobre diferentes tipos de suelo (por ejemplo, arena, tierra, arcilla...). Compara los efectos del agua de un río (agua de una jarra) con los del agua de la lluvia (agua de una regadera). Experimenta para averiguar si unos suelos se erosionan más fácilmente que otros. ¿Cuáles crees que podrían ser las consecuencias de esto a largo plazo?
+1. **Preparación** (10 min): Coloca cada tipo de suelo en una bandeja.
+2. **Experimento 1** (10 min): Vierte agua de una jarra (río) sobre cada suelo.
+3. **Experimento 2** (10 min): Usa la regadera (lluvia) sobre cada suelo.
+4. **Observación** (10 min): Compara los efectos y discute.
+5. **Registro** (5 min): Dibuja o describe lo que observaste.
 
 ## Cierre
-Reflexiona sobre cómo el agua afecta la tierra. Preguntas para discutir: ¿Qué tipo de suelo se erosionó más? ¿Cómo podemos prevenir la erosión?
+- ¿Qué suelo se erosionó más fácilmente?
+- ¿Por qué crees que sucede esto?
+- ¿Cómo puede la erosión afectar a las personas y a la naturaleza?
+
+---
+## Texto original completo de la actividad
+
+**A.10 HURGA EN LA TIERRA** Observa cómo se desgasta el suelo (erosión) al agregar agua sobre diferentes tipos de suelo (por ejemplo, arena, tierra, arcilla…). Compara los efectos del agua de un río (agua de una jarra) con los del agua de la lluvia (agua de una regadera). Experimenta para averiguar si unos suelos se erosionan más fácilmente que otros. ¿Cuáles crees que podrían ser las consecuencias de esto a largo plazo?
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

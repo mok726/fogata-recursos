@@ -1,130 +1,191 @@
 ---
-title: "El futuro del agua"
+title: "El Futuro del Agua"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-futuro-del-agua/"
-description: "Diseña una casa o ciudad sostenible."
-summary: "Diseña una casa o ciudad sostenible."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Diseña y construye un modelo de una casa o ciudad del futuro que use el agua de manera eficiente."
+summary: "Modelo de ciudad futurista eficiente en agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/el-futuro-del-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
+  - rovers
+
 materials:
-  - Materiales para dibujar o construir (papel
-  - lápices
-  - cartón
-  - etc.)
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - Materiales de arte y manualidades
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
-  - 11
+  - 6  # Agua limpia y saneamiento
+  - 9  # Industria, innovación e infraestructura
+  - 11 # Ciudades y comunidades sostenibles
+
 activity_badges:
   - agua
-activity_code: "agua-X16"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 6
-  - 11
-rama_caminantes:
-  - 6
-  - 11
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a large drawing or model of a sustainable city on a table in the center-left. Features: rain barrels, greywater recycling, permeable pavement, green roofs, water-efficient appliances. Labels with explanations. The left side has negative space for text. On the far right side, two tiny older scouts (14-17) stand, one pointing at the green roof, the other at the rain barrel, seen from a distance. The future water city design environment dominates."
+activity_code: "agua-A16"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - ciudad del futuro
-  - ahorro de agua
-  - tecnología
-  - innovación
-  - sostenible
-  - Insignia del Agua
+  - futuro
+  - innovacion
+  - ciudad
+  - eficiencia
+  - modelo
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Construcción creativa muy divertida
+reflective_component: 3  # Reflexión sobre eficiencia
+active_component: 2  # Construcción manual
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 3  # Requiere materiales variados
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A creative model of a future house or city with innovative water-saving technology dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, building their models with craft materials. Future thinking and innovation atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón con mesas para construir"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
-activity_type:
-  - Diseño
+
+accessibility: []
+
+competencies:
   - Creatividad
+  - Innovación
+  - Resolución de problemas
+
+activity_type:
+  - Creatividad / Arte
+  - Aprender haciendo
+  - Planificación
+
 category:
-  - Urbanismo
-  - Tecnología
   - Agua
+  - Innovación
+  - Futuro
+
 skills:
   - Creatividad
-  - Conciencia ambiental
-  - Pensamiento crítico
-main_type: "Creatividad"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices
-  - colores
-  - cartón
-  - tijeras
-  - pegamento
-  - materiales reciclados
-prep_time: "30 min"
+  - Resolución de problemas
+  - Trabajo en equipo
+
 scout_values:
+  - Creatividad e ingenio
   - Superación personal
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Sistema de equipos
 
+rama_castores: []
+
+rama_lobatos:
+  - 34  # Me enfrento a desafíos y encuentro soluciones creativas.
+  - 33  # Utilizo diferentes herramientas y busco soluciones.
+
+rama_scouts:
+  - 41  # Experimento diferentes medios y tecnologías.
+  - 42  # Aplico mi conocimiento y habilidades para resolver desafíos.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades.
+  - 38  # Afronto creativamente los desafíos.
+
+rama_rovers:
+  - 6  # Exploro mis intereses vocacionales.
+  - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# El futuro del agua
+# ¡El Futuro del Agua!
 
 ## Resumen
-Diseña una casa o ciudad sostenible.
+Diseña y construye un modelo de una casa o ciudad del futuro que use el agua de manera eficiente.
+
+## Preparación
+1. Investiga sobre tecnologías de ahorro de agua.
+2. Reúne materiales de arte y manualidades.
+3. Piensa en diseños innovadores.
 
 ## Desarrollo
-Dibuja o construye un modelo de una casa o de una ciudad del futuro. ¿Qué podrías hacer para que tu casa, tu jardín o tu comunidad utilicen el agua de manera más eficiente? ¡Investiga e incluye la tecnología reciente o crea tu propio invento!
+1. **Investigación** (15 min): Investiga sobre tecnologías de ahorro de agua.
+2. **Diseño** (15 min): Dibuja el diseño de tu casa o ciudad.
+3. **Construcción** (25 min): Construye tu modelo.
+4. **Presentación** (5 min): Explica tus ideas innovadoras al grupo.
 
 ## Cierre
-Reflexiona sobre cómo podemos mejorar el uso del agua en el futuro. Preguntas para discutir: ¿Qué innovaciones propusiste? ¿Cómo pueden implementarse en tu comunidad?
+- ¿Qué tecnologías de ahorro de agua incluiste?
+- ¿Cómo sería una ciudad amigable con el agua?
+- ¿Qué invento te gustaría crear para ahorrar agua?
+
+---
+## Texto original completo de la actividad
+
+**A.16 EL FUTURO DEL AGUA** Dibuja o construye un modelo de una casa o de una ciudad del futuro. ¿Qué podrías hacer para que tu casa, tu jardín o tu comunidad utilicen el agua de manera más eficiente? ¡Investiga e incluye la tecnología reciente o crea tu propio invento!
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

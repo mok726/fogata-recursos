@@ -1,120 +1,183 @@
 ---
-title: "Los colores del agua"
+title: "Los Colores del Agua"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/los-colores-del-agua/"
-description: "Captura los diferentes colores y texturas del agua en fotografías."
-summary: "Captura los diferentes colores y texturas del agua en fotografías."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Fotografía diferentes tipos de agua y los colores que puede tener."
+summary: "Fotografía de los colores del agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/los-colores-del-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
+
 materials:
-  - Cámara fotográfica
-  - Impresora (opcional)
-competencies:
-  - Creatividad y Expresión
-  - Pensamiento Crítico y Análisis
-  - Sostenibilidad y Medio Ambiente
+  - Cámara
+  - Impresora
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 14 # Vida submarina
+
 activity_badges:
   - agua
-activity_code: "agua-X12"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 6
-  - 15
-rama_caminantes:
-  - 6
-  - 15
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine outdoor setting (river, lake, or coast), with a camera on a tripod in the center-left facing the water. Printed photographs on a table showing different water colors: blue ocean, green lake, brown river, white foam, golden sunset reflection. The left side has open space for text. On the far right side, two tiny older scouts (11-15) stand, one adjusting the camera, the other holding a printed photo, seen from a distance. The water photography environment dominates."
+activity_code: "agua-A12"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - fotografía
+  - fotografia
   - colores
-  - texturas
-  - exhibición
-  - Insignia del Agua
-location: "Exterior"
+  - arte
+  - naturaleza
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Fotografía y exhibición
+reflective_component: 3  # Reflexión sobre la belleza del agua
+active_component: 3  # Caminar para fotografiar
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children taking photographs of water in different colors and textures - blue ocean, green lake, sparkling river, golden sunset on water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, photographing and exhibiting photos. Artistic exploration and nature appreciation atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Áreas con diferentes tipos de agua"
+prep_time: "10 min"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+
+accessibility: []
+
+competencies:
+  - Creatividad
+  - Observación
+  - Técnica fotográfica
+
 activity_type:
-  - Arte
-  - Fotografía
+  - Creatividad / Arte
+  - Exploración
+  - Aprender haciendo
+
 category:
-  - Arte
   - Agua
   - Fotografía
+  - Arte
+
 skills:
   - Creatividad
   - Observación
-  - Conciencia ambiental
-main_type: "Arte"
-space_required: "Exterior abierto"
-prep_time: "15 min + tiempo de fotos"
-scout_values:
-  - Superación personal
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 3
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Técnica fotográfica
 
+scout_values:
+  - Naturaleza
+  - Creatividad e ingenio
+  - Curiosidad y apertura al aprendizaje
+
+scout_method:
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
+
+rama_castores: []
+
+rama_lobatos:
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 31  # Descubro las maravillas de la naturaleza y me asombro.
+
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+  - 39  # Exploro y contemplo la naturaleza como un espacio de bienestar.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Los colores del agua
+# ¡Los Colores del Agua!
 
 ## Resumen
-Captura los diferentes colores y texturas del agua en fotografías.
+Fotografía diferentes tipos de agua en diferentes condiciones de luz para capturar los distintos colores y texturas que puede tener.
+
+## Preparación
+1. Prepara una cámara.
+2. Busca diferentes lugares con agua (río, lago, mar, charcos).
+3. Observa cómo cambia el agua con la luz.
 
 ## Desarrollo
-Toma fotografías de diferentes tipos de agua y bajo diferentes tonos de luz para que captures los distintos colores y texturas que el agua puede tener. Imprime tus fotos favoritas y organiza una exhibición fotográfica para tus padres y amigos.
+1. **Fotografía** (20 min): Toma fotos de diferentes tipos de agua.
+2. **Selección** (5 min): Elige tus fotos favoritas.
+3. **Exhibición** (5 min): Organiza una exhibición fotográfica.
 
 ## Cierre
-Reflexiona sobre la belleza del agua. Preguntas para discutir: ¿Qué colores y texturas te sorprendieron más? ¿Cómo podemos proteger la belleza del agua?
+- ¿Qué colores diferentes viste en el agua?
+- ¿Cómo cambia el agua con la luz?
+- ¿Qué te inspiró de esta actividad?
+
+---
+## Texto original completo de la actividad
+
+**A.12 LOS COLORES DEL AGUA** ¿Quién dice que el agua es siempre azul? Toma fotografías de diferentes tipos de agua y bajo diferentes tonos de luz para que captures los distintos colores y texturas que el agua puede tener. Imprime tus fotos favoritas y organiza una exhibición fotográfica para tus padres y amigos.
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

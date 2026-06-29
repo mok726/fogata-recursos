@@ -788,7 +788,10 @@ sections: {
   },
   attribution: {
     organization: "FAO",
-    year: "2021"
+    year: "2022",
+    description: "Insignia de la Reducción del Riesgo de Desastres. Serie Aprender y Actuar de la YUNGA – Insignia N.o 11.",
+    location: "Roma",
+    url: "https://doi.org/10.4060/ca7445es"
   },
       
     requirements: {
@@ -803,28 +806,23 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A",
-    description: ""
+    title: "AMENAZAS Y DESASTRES",
+    description: "HAZ LA A.01 O A.02 Y (AL MENOS) UNA ACTIVIDAD DE TU ELECCIÓN. <br>LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES DE AMENAZAS Y DESASTRES, TÚ:<br> * ENTENDERÁS qué son las amenazas y los desastres.<br>* ENTENDERÁS el impacto de los desastres y qué hace a las personas vulnerables a los mismos."
 
   },
   B: {
-    title: "Sección B",
-    description: ""
+    title: "REDUCIENDO EL RIESGO",
+    description: "HAZ LA B.01 O B.02 Y (AL MENOS) UNA ACTIVIDAD DE TU ELECCIÓN.<br> LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES DE REDUCIENDO EL RIESGO, TÚ:<br>* ENTENDERÁS la importancia de la reducción del riesgo de desastres.<br> * CONOCERÁS cómo los países pueden prevenir, mitigar y prepararse para el impacto de los desastres."
 
   },
   C: {
-    title: "Sección C",
-    description: ""
+    title: "RECUPERACIÓN",
+    description: "HAZ LA C.01 O C.02 Y (AL MENOS) UNA ACTIVIDAD DE TU ELECCIÓN. LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES DE RECUPERACIÓN, TÚ:<br>* ENTENDERÁS qué involucra la recuperación después de un desastre. <br>* COMPRENDERÁS por qué las labores de recuperación deben tomar un enfoque a largo plazo y de visión general."
 
   },
   D: {
-    title: "Sección D",
-    description: ""
-
-  },
-  E: {
     title: "TOMA ACCIÓN",
-    description: ""
+    description: "HAZ LA D.01 O D.02 Y (AL MENOS) UNA ACTIVIDAD DE TU ELECCIÓN.<br> LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES DE TOMA ACCIÓN, TÚ:<br>* ORGANIZARÁS y participarás en una iniciativa comunitaria para la reducción del riesgo de desastres. <br>* ¡CONVENCERÁS a otras personas para que se unan a las acciones por la reducción del riesgo de desastres!"
 
   }
 },

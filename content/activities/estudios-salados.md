@@ -1,126 +1,191 @@
 ---
-title: "Estudios salados"
+title: "Estudios Salados"
+duration: "45 minutos + observación"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-salados/"
-description: "Experimenta con la desalinización del agua."
-summary: "Experimenta con la desalinización del agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Experimenta con la desalinización del agua salada."
+summary: "Experimento de desalinización."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/estudios-salados.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
+  - rovers
+
 materials:
-  - Agua
   - Sal
+  - Agua
   - Vaso
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - Lugar cálido
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 14 # Vida submarina
+
 activity_badges:
   - agua
-activity_code: "agua-X15"
-rama_lobatos:
-  - 9
-  - 27
-rama_scouts:
-  - 6
-  - 13
-rama_caminantes:
-  - 6
-  - 13
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room or sunny windowsill, with a glass of salt water in the center-left. After several days, salt crystals have formed on the sides as water evaporated. A notebook with notes on desalination. The left side has space for text. On the far right side, a tiny older scout (11-15) sits, pointing at the salt crystals, another reads a book about desalination, seen from a distance. The salt water evaporation environment dominates."
+activity_code: "agua-A15"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - desalinización
+  - desalinizacion
+  - experimento
   - sal
-  - evaporación
-  - agua dulce
-  - Insignia del Agua
+  - evaporacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Experimento práctico
+reflective_component: 3  # Reflexión sobre el proceso
+active_component: 2  # Manipulación de materiales
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Experimentación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A glass of salt water left in a warm place, with salt crystals forming at the bottom dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing the experiment. Scientific investigation and discovery atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+space_required: "Salón con lugar cálido"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Experimentación
+  - Observación
+  - Comprensión de la evaporación
+
 activity_type:
   - Experimentación
-  - Ciencia
-category:
-  - Química
-  - Agua
-  - Tecnología
-skills:
+  - Aprender haciendo
   - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
-main_type: "Experimentación"
-space_required: "Salón amplio"
-special_materials:
-  - vaso
-  - agua
-  - sal
-  - lugar cálido (ventana soleada)
-prep_time: "10 min + seguimiento"
+
+category:
+  - Agua
+  - Sal
+  - Desalinización
+
+skills:
+  - Experimentación
+  - Observación
+  - Pensamiento científico
+
 scout_values:
-  - Perseverancia
+  - Curiosidad y apertura al aprendizaje
+  - Naturaleza
   - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos:
+  - 27  # Comprendo que en la naturaleza todo está relacionado.
+  - 33  # Utilizo diferentes herramientas y busco soluciones.
+
+rama_scouts:
+  - 41  # Experimento diferentes medios y tecnologías.
+  - 47  # Busco información en diversas fuentes.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades.
+  - 43  # Busco y evalúo el valor de diversas fuentes.
+
+rama_rovers:
+  - 7  # Aplico técnicas y tecnologías disponibles.
+  - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# Estudios salados
+# ¡Estudios Salados!
 
 ## Resumen
-Experimenta con la desalinización del agua.
+Experimenta con agua salada para entender cómo puede separarse la sal del agua (desalinización).
+
+## Preparación
+1. Disuelve bastante sal en un vaso con agua.
+2. Prepara un lugar cálido para dejar el vaso.
 
 ## Desarrollo
-Disuelve bastante sal en un vaso con agua. Luego déjalo en un lugar cálido durante unos días. ¿Qué sucede y por qué? Investiga cómo la sal puede separarse del agua de manera que sólo quede el agua pura. Este proceso se conoce como ‘desalinización’.
+1. **Preparación** (10 min): Prepara el agua salada.
+2. **Observación** (5 min): Deja el vaso en un lugar cálido.
+3. **Registro** (5 min): Observa y registra los cambios durante varios días.
+4. **Investigación** (25 min): Investiga el proceso de desalinización.
 
 ## Cierre
-Reflexiona sobre los desafíos de obtener agua dulce. Preguntas para discutir: ¿Qué aprendiste sobre la desalinización? ¿Cómo podemos usar este proceso en el futuro?
+- ¿Qué sucedió con el agua y la sal?
+- ¿Cómo funciona la desalinización?
+- ¿Dónde se utiliza este proceso en el mundo?
+
+---
+## Texto original completo de la actividad
+
+**A.15 ESTUDIOS SALADOS** Disuelve bastante sal en un vaso con agua. Luego déjalo en un lugar cálido durante unos días. ¿Qué sucede y por qué? Investiga cómo la sal puede separarse del agua de manera que sólo quede el agua pura. Este proceso se conoce como 'desalinización'.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -1,121 +1,187 @@
 ---
-title: "Ciudadano del agua"
-duration: "1 hora"
+title: "Ciudadano del Agua"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciudadano-del-agua/"
-description: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
-summary: "Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Escribe a tu representante de gobierno sobre un tema del agua que te preocupa."
+summary: "Carta a representante sobre temas del agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/ciudadano-del-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
-tools:
-  - Computadora para redacción
-  - Herramientas de comunicación (correo electrónico)
-competencies:
-  - Ciudadanía y Conciencia Social
-  - Comunicación Efectiva
+
+materials:
+  - Papel
+  - Bolígrafos
+  - Acceso a internet
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 16 # Paz, justicia e instituciones sólidas
+
 activity_badges:
   - agua
-activity_code: "agua-X58"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 6
-  - 16
-rama_caminantes:
-  - 6
-  - 16
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a laptop on a table in the center-left showing an email draft to the mayor about fixing a leaky water fountain. A printed map of the park with the fountain marked. An envelope and stamp. The left side has space for text. On the far right side, a tiny older scout (14-21) sits, typing, another stands pointing at the map, seen from a distance. The citizen water advocacy environment dominates."
+activity_code: "agua-E07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
+  - ciudadania
   - gobierno
   - carta
-  - política
-  - representante
-  - Parche del Agua
+  - accion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Escritura formal
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de escritura
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Servicio a los demás"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child writing a letter to their government representative about a water issue, with a desk and documents dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing and mailing the letter. Civic engagement and youth advocacy atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón para escribir"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+
+accessibility: []
+
+competencies:
+  - Ciudadanía
+  - Argumentación
+  - Comunicación formal
+
 activity_type:
-  - Escritura
-  - Activismo
+  - Servicio a los demás
+  - Reflexión
+  - Comunicación
+
 category:
-  - Política
   - Agua
   - Ciudadanía
-skills:
-  - Conciencia cívica
-  - Comunicación
-main_type: "Servicio a los demás"
-space_required: "Salón amplio"
-prep_time: "25 min"
-scout_values:
-  - Hermandad
-  - Respeto al prójimo
-scout_method:
-  - Aprender haciendo
-  - Participación comunitaria y Servicio
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Política
 
+skills:
+  - Comunicación escrita
+  - Argumentación
+  - Investigación
+
+scout_values:
+  - Justicia
+  - Responsabilidad
+  - Participación comunitaria
+
+scout_method:
+  - Participación comunitaria y Servicio
+  - Acompañamiento adulto / Protagonismo juvenil
+
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 18  # Valoro y respeto los Derechos Humanos.
+  - 25  # Me comprometo y animo a otras personas.
+
+rama_caminantes:
+  - 18  # Ejercito mis derechos como ciudadano.
+  - 19  # Fomento ámbitos de participación democráticos.
+
+rama_rovers:
+  - 23  # Ejercito mis derechos como ciudadano.
+  - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
 ---
 
-# Ciudadano del agua
+# ¡Ciudadano del Agua!
 
 ## Resumen
-Actividad para escribir a representantes de gobierno sobre cuestiones relacionadas con el agua.
+Escribe a tu representante de gobierno sobre un tema del agua que te preocupa, incluyendo sugerencias de soluciones.
+
+## Preparación
+1. Identifica un tema del agua que te preocupe.
+2. Investiga sobre el tema.
+3. Prepara un borrador de la carta.
 
 ## Desarrollo
-Escribe a tu representante de gobierno sobre una cuestión del agua que te preocupa y pídele que tome acción. ¡No olvides incluir algunas sugerencias sobre posibles soluciones!
+1. **Investigación** (20 min): Reúne información sobre el tema.
+2. **Borrador** (20 min): Escribe un borrador de la carta.
+3. **Revisión** (10 min): Revisa y mejora la carta.
+4. **Envío** (10 min): Envía la carta a tu representante.
 
 ## Cierre
-Reflexiona sobre cómo la participación ciudadana puede influir en las políticas públicas relacionadas con el agua.
+- ¿Qué tema te preocupa más?
+- ¿Qué soluciones propusiste?
+- ¿Cómo te sentiste al escribir a tu representante?
+
+---
+## Texto original completo de la actividad
+
+**E.07 CIUDADANO DEL AGUA** Escribe a tu representante de gobierno sobre una cuestión del agua que te preocupa y pídele que tome acción. ¡No olvides incluir algunas sugerencias sobre posibles soluciones!
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

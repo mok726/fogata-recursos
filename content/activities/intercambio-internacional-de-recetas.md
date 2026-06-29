@@ -1,123 +1,187 @@
 ---
-title: "Intercambio internacional de recetas"
+title: "Intercambio Internacional de Recetas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/intercambio-internacional-de-recetas/"
-description: "Calcula la huella hídrica de tus recetas favoritas."
-summary: "Calcula la huella hídrica de tus recetas favoritas."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Calcula la huella hídrica de tu plato favorito y comparte recetas con otros."
+summary: "Huella hídrica de recetas."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/intercambio-internacional-de-recetas.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
-  - Trabajo en Equipo y Colaboración
+  - rovers
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
-  - 12
+  - 2  # Hambre cero
+  - 6  # Agua limpia y saneamiento
+  - 12 # Producción y consumo responsables
+
 activity_badges:
   - agua
-activity_code: "agua-X30"
-rama_lobatos:
-  - 1
-  - 24
-rama_scouts:
-  - 2
-  - 6
-rama_caminantes:
-  - 2
-  - 6
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room or kitchen, with a table in the center-left displaying recipe cards from different countries, each with a water footprint calculation. A pot and ingredients for the winning recipe (plant-based, low water). The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one reading a recipe, the other pointing at a water footprint number, seen from a distance. The international recipe exchange environment dominates."
+activity_code: "agua-B08"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
   - recetas
-  - huella hídrica
-  - cocina
-  - agua virtual
+  - huella-hidrica
   - alimentos
-  - Insignia del Agua
+  - cultura
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Cocina e investigación
+reflective_component: 4  # Reflexión sobre huella hídrica
+active_component: 2  # Cocinar (opcional)
+
+complexity_execution: 3  # Requiere investigación y cálculo
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. International recipes being shared and compared, with water footprint calculations for each dish dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, cooking and calculating. Cultural exchange and sustainable eating atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón o cocina"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Visual
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia alimentaria
+  - Comprensión cultural
+
 activity_type:
   - Investigación
-  - Cocina
+  - Aprender haciendo
+  - Reflexión
+
 category:
-  - Alimentación
   - Agua
-  - Matemática
+  - Alimentos
+  - Cultura
+
 skills:
-  - Conciencia ambiental
-  - Pensamiento crítico
-  - Trabajo en equipo
-main_type: "Investigación"
-space_required: "Salón amplio (cocina)"
-special_materials:
-  - recetas
-  - acceso a internet (datos de huella hídrica)
-  - ingredientes para cocinar
-prep_time: "25 min + cocina"
+  - Investigación
+  - Análisis
+  - Cocina
+
 scout_values:
+  - Curiosidad y apertura al aprendizaje
+  - Responsabilidad
   - Hermandad
-  - Consumo consciente y Gratitud
+
 scout_method:
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Sistema de equipos
 
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 2  # Entiendo la importancia de alimentarme de forma saludable.
+  - 31 # Reconozco mi impacto en el ambiente.
+
+rama_caminantes:
+  - 1  # Adopto hábitos de alimentación saludables.
+  - 29 # Adopto un estilo de vida responsable.
+
+rama_rovers:
+  - 1  # Sostengo hábitos de alimentación saludables.
+  - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# Intercambio internacional de recetas
+# ¡Intercambio Internacional de Recetas!
 
 ## Resumen
-Calcula la huella hídrica de tus recetas favoritas.
+Calcula la huella hídrica de tu plato favorito y comparte recetas con otros para descubrir cuáles son más amigables con el agua.
+
+## Preparación
+1. Escribe la receta de tu plato favorito.
+2. Investiga la huella hídrica de cada ingrediente.
+3. Prepara materiales para compartir.
 
 ## Desarrollo
-Escribe la receta de tu plato preferido proveniente de tu país (o trabaja con uno de tus padres para hacerlo) y calcula cuánta agua contiene, no sólo en términos de añadir agua mientras lo cocinas, sino trata de averiguar también cuánta agua ‘escondida’ tiene cada uno de sus ingredientes. Comparte tu receta con las de tus compañeros y averigüen cuáles tienen la mayor o menor cantidad de agua. Voten por una receta para cocinar juntos en grupo.
+1. **Investigación** (20 min): Calcula el agua 'escondida' en cada ingrediente.
+2. **Comparación** (15 min): Compara recetas y descubre cuáles usan más agua.
+3. **Votación** (10 min): Voten por una receta para cocinar juntos.
+4. **Cocina** (15 min): Cocinen la receta ganadora (opcional).
 
 ## Cierre
-Reflexiona sobre la huella hídrica de los alimentos. Preguntas para discutir: ¿Qué receta tiene la mayor huella hídrica? ¿Cómo podemos reducir el consumo de agua en la cocina?
+- ¿Qué receta tiene la mayor huella hídrica?
+- ¿Qué receta es más amigable con el agua?
+- ¿Qué aprendiste sobre el agua en los alimentos?
+
+---
+## Texto original completo de la actividad
+
+**B.08 INTERCAMBIO INTERNACIONAL DE RECETAS** Escribe la receta de tu plato preferido proveniente de tu país (o trabaja con uno de tus padres para hacerlo) y calcula cuánta agua contiene, no sólo en términos de añadir agua mientras lo cocinas, sino trata de averiguar también cuánta agua 'escondida' tiene cada uno de sus ingredientes. Comparte tu receta con las de tu compañeros y averigüen cuáles tienen la mayor o menor cantidad de agua. Voten por una receta para cocinar juntos en grupo.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

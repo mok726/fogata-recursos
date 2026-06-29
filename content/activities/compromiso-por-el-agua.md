@@ -1,127 +1,194 @@
 ---
-title: "Compromiso por el agua"
-duration: "1 hora"
+title: "Compromiso por el Agua"
+duration: "Proyecto de seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/compromiso-por-el-agua/"
-description: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
-summary: "Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Convence a amigos y familia a comprometerse a ahorrar agua y haz un seguimiento."
+summary: "Certificados de compromiso para ahorrar agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/compromiso-por-el-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "7-13"
+age: "5-22 años"
 age_group:
+  - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
-  - Certificados de compromiso
-  - Lápices o bolígrafos
-tools:
-  - Computadora para diseño (opcional)
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Comunicación Efectiva
+  - Papel
+  - Lápices
+  - Materiales para certificados
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 12 # Producción y consumo responsables
+
 activity_badges:
   - agua
-activity_code: "agua-X54"
-rama_lobatos:
-  - 24
-  - 25
-rama_scouts:
-  - 6
-  - 12
-rama_caminantes:
-  - 6
-  - 12
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a table in the center-left displaying hand-drawn water pledge certificates. Each certificate has a specific commitment: 'Duchas de 5 minutos', 'Cerrar la llave al cepillarse', 'Regar plantas por la noche'. A pen and a sticker. The left side has negative space for text. On the far right side, two tiny young scouts (7-13) stand, one holding a certificate, the other signing, seen from a distance. The water pledge environment dominates."
+activity_code: "agua-E03"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - ahorro
   - compromiso
-  - certificado
+  - ahorro
   - familia
-  - Parche del Agua
-location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Compromiso
-  - Activismo
-category:
-  - Hogar
-  - Agua
-  - Comportamiento
-skills:
-  - Conciencia ambiental
-  - Comunicación
+  - seguimiento
+
+link:
+  - url: "https://www.loudounwater.org/Residential-Customers/En-Espanol/100-Maneras-de-Ahorrar-Agua/"
+    caption: "100 maneras de ahorrar agua"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Certificados creativos
+reflective_component: 4  # Reflexión sobre hábitos
+active_component: 2  # Moverse para compartir
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
 main_type: "Servicio a los demás"
-space_required: "Salón amplio"
-special_materials:
-  - papel para certificados
-  - lápices
-  - marcadores
-  - colores
-prep_time: "20 min"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating water commitment certificates for family and friends, with personalized pledges to save water dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, making certificates and reviewing progress. Personal commitment and family engagement atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para crear certificados"
+prep_time: "15 min"
+participants: "4-30"
+
+accessibility: []
+
+competencies:
+  - Creatividad
+  - Persuasión
+  - Seguimiento
+
+activity_type:
+  - Servicio a los demás
+  - Sensibilización
+  - Aprender haciendo
+
+category:
+  - Agua
+  - Ahorro
+  - Compromiso
+
+skills:
+  - Creatividad
+  - Persuasión
+  - Seguimiento
+
 scout_values:
   - Responsabilidad
+  - Sencillez y Austeridad
+  - Superación personal
+
 scout_method:
   - Aprender haciendo
-  - Participación comunitaria y Servicio
-ludic_component: 3
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Ley y Promesa
 
+rama_castores: []
+
+rama_lobatos:
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+  - 42  # Sé usar el dinero y utilizar mis recursos de manera responsable.
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente.
+  - 49  # Administro mis recursos de forma responsable.
+
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable.
+  - 44  # Planifico y administro mis recursos.
+
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# Compromiso por el agua
+# ¡Compromiso por el Agua!
 
 ## Resumen
-Actividad para convencer a amigos y familiares de ahorrar agua y firmar un compromiso.
+Convence a tus amigos y familia de ahorrar agua mediante certificados de compromiso, y haz un seguimiento de su progreso.
+
+## Preparación
+1. Diseña certificados de compromiso.
+2. Prepara una lista de acciones de ahorro de agua.
+3. Reúne materiales.
 
 ## Desarrollo
-Convence a tus amigos y familia de unirse a ti para ahorrar el agua. Dibuja unos certificados de ‘Compromiso por el Agua’ para que ellos los puedan firmar. Antes de que lo hagan, haz que cada uno de ellos escriba en el documento cómo ahorrará el agua (por ejemplo, al no dejar el grifo abierto mientras se cepilla los dientes, al tomar duchas más cortas, al lavar su automóvil con menos frecuencia, etc.). Revisa cómo van para asegurarte de que están cumpliendo sus promesas.
+1. **Diseño** (15 min): Crea los certificados de compromiso.
+2. **Presentación** (20 min): Explica la importancia de ahorrar agua y entrega certificados.
+3. **Seguimiento** (2 semanas): Revisa el progreso de cada persona.
+4. **Reconocimiento** (10 min): Premia las soluciones más creativas.
 
 ## Cierre
-Reflexiona sobre cómo pequeños cambios en los hábitos diarios pueden tener un gran impacto en el ahorro de agua.
+- ¿Qué acciones de ahorro de agua se comprometieron a hacer?
+- ¿Qué fue fácil o difícil de cumplir?
+- ¿Qué aprendiste sobre cambiar hábitos?
+
+---
+## Texto original completo de la actividad
+
+**E.03 COMPROMISO POR EL AGUA** Convence a tus amigos y familia de unirse a ti para ahorrar el agua. Dibuja unos certificados de 'Compromiso por el Agua' para que ellos los puedan firmar. Antes de que lo hagan, haz que cada uno de ellos escriba en el documento cómo ahorrará el agua (por ejemplo, al no dejar el grifo abierto mientras se cepilla los dientes, al tomar duchas más cortas, al lavar su automóvil con menos frecuencia, etc.). Puedes encontrar más ideas aquí: www.loudounwater.org/Residential-Customers/En-Espanol/100-Maneras-de-Ahorrar-Agua/. ¡Revisa cómo van para asegurarte de que están cumpliendo sus promesas! Por ejemplo, puedes reunirlos a todos después de dos semanas para hablar sobre lo fácil o difícil que se les ha hecho cumplir sus promesas. Puedes preparar un Certificado de Reconocimiento especial para premiar a la solución más creativa para ahorrar agua.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

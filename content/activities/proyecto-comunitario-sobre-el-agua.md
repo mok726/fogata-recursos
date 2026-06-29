@@ -1,134 +1,189 @@
 ---
-title: "Proyecto comunitario sobre el agua"
-duration: "varias horas (depende del proyecto)"
+title: "Proyecto Comunitario sobre el Agua"
+duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-comunitario-sobre-el-agua/"
-description: "Actividad para crear un proyecto comunitario que promueva el ahorro de agua."
-summary: "Actividad para crear un proyecto comunitario que promueva el ahorro de agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea un proyecto comunitario para conservar el agua en tu escuela o comunidad."
+summary: "Proyecto comunitario de conservación del agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/proyecto-comunitario-sobre-el-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Materiales para el proyecto (semillas
-  - recipientes
-  - etc.)
-  - Información sobre conservación de agua
-tools:
-  - Herramientas de jardinería (opcional)
-competencies:
-  - Trabajo en Equipo y Colaboración
-  - Sostenibilidad y Medio Ambiente
+  - Variados según el proyecto elegido
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 11 # Ciudades y comunidades sostenibles
+
 activity_badges:
   - agua
-activity_code: "agua-X56"
-rama_lobatos:
-  - 24
-  - 25
-rama_scouts:
-  - 6
-  - 12
-rama_caminantes:
-  - 6
-  - 12
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine schoolyard or community garden, with a newly installed rain barrel and a drip irrigation system in the center-left. A small sign 'Proyecto Comunitario de Agua'. A shovel and a watering can. The left side has open space for text. On the far right side, a group of tiny older scouts (14-21) stand, one turning the rain barrel spigot, another pointing at the irrigation, seen from a distance. The community water project environment dominates."
+activity_code: "agua-E05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - proyecto comunitario
-  - conservación
+  - comunidad
+  - proyecto
   - huerto
-  - lluvia
-  - Parche del Agua
-location: "Exterior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
-activity_type:
-  - Proyecto
-  - Servicio
-category:
-  - Comunidad
-  - Agua
-  - Sostenibilidad
-skills:
-  - Trabajo en equipo
-  - Conciencia ambiental
+  - agua-lluvia
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Proyecto práctico
+reflective_component: 3  # Reflexión sobre acción
+active_component: 4  # Actividad física
+
+complexity_execution: 3  # Requiere planificación
+complexity_organizer: 3  # Requiere coordinación
+
 main_type: "Servicio a los demás"
-space_required: "Exterior abierto"
-special_materials:
-  - materiales según proyecto (tuberías
-  - barril
-  - semillas
-  - mulch)
-  - herramientas (pala
-  - sierra
-  - taladro)
-prep_time: "planificación + ejecución (días a semanas)"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A community water conservation project - school garden with efficient irrigation, rainwater harvesting system - with children working together dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting and building. Community action and sustainable practices atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Espacio escolar o comunitario"
+prep_time: "30 min"
+participants: "4-30"
+
+accessibility: []
+
+competencies:
+  - Planificación
+  - Acción comunitaria
+  - Sostenibilidad
+
+activity_type:
+  - Servicio a los demás
+  - Aprender haciendo
+  - Planificación
+
+category:
+  - Agua
+  - Comunidad
+  - Sostenibilidad
+
+skills:
+  - Planificación
+  - Trabajo en equipo
+  - Acción comunitaria
+
 scout_values:
-  - Perseverancia
-  - Solidaridad
-  - Superación personal
+  - Responsabilidad
+  - Naturaleza
+  - Participación comunitaria
+
 scout_method:
   - Participación comunitaria y Servicio
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+
+rama_lobatos:
+  - 19  # Realizo acciones solidarias.
+  - 25  # Colaboro con otras personas en acciones de cuidado.
+
+rama_scouts:
+  - 33  # Participo de iniciativas para construir una sociedad mejor.
+  - 44  # Asumo un rol de manera responsable.
+
+rama_caminantes:
+  - 23  # Me involucro en acciones solidarias.
+  - 29  # Adopto un estilo de vida responsable.
+
+rama_rovers:
+  - 27  # Me involucro en acciones comunitarias sostenibles.
+  - 31  # Desarrollo acciones de preservación.
 ---
 
-# Proyecto comunitario sobre el agua
+# ¡Proyecto Comunitario sobre el Agua!
 
 ## Resumen
-Actividad para crear un proyecto comunitario que promueva el ahorro de agua.
+Crea un proyecto comunitario para conservar el agua en tu escuela o comunidad, como un huerto escolar eficiente o un sistema de captación de agua de lluvia.
+
+## Preparación
+1. Identifica una necesidad de conservación de agua en tu comunidad.
+2. Planifica el proyecto.
+3. Consigue materiales y permisos.
 
 ## Desarrollo
-Crea un proyecto comunitario para conservar el agua con tu grupo o escuela, como crear un huerto escolar que utilice el agua de manera eficiente o establecer un sistema de almacenamiento del agua de lluvia.
+1. **Identificación** (15 min): ¿Qué proyecto sería más útil?
+2. **Planificación** (30 min): Diseña el proyecto paso a paso.
+3. **Implementación** (tiempo variable): Lleva a cabo el proyecto.
+4. **Mantenimiento** (continuo): Asegura la sostenibilidad del proyecto.
 
 ## Cierre
-Reflexiona sobre cómo las acciones locales pueden tener un impacto global en la conservación del agua.
+- ¿Qué proyecto realizaste?
+- ¿Qué desafíos enfrentaste?
+- ¿Cómo puedes mantener el proyecto a largo plazo?
+
+---
+## Texto original completo de la actividad
+
+**E.05 PROYECTO COMUNITARIO SOBRE EL AGUA** Crea un proyecto comunitario para conservar el agua con tu grupo o escuela, como crear un huerto escolar que utilice el agua de manera eficiente o establecer un sistema de almacenamiento del agua de lluvia.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

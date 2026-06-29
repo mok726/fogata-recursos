@@ -1,119 +1,191 @@
 ---
-title: "Agua alrededor del mundo"
-duration: "1.5 horas"
+title: "Agua Alrededor del Mundo"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-alrededor-del-mundo/"
-description: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
-summary: "Actividad para investigar y comparar los hábitos de uso del agua en diferentes países."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Entrevista a amigos de otros países o representa un país para aprender sobre hábitos de agua globales."
+summary: "Investigación sobre hábitos de agua en otros países."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/agua-alrededor-del-mundo.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-17"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-tools:
-  - Computadora para investigación
-competencies:
-  - Investigación y Gestión de Datos
-  - Ciudadanía y Conciencia Social
+  - rovers
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 10 # Reducción de las desigualdades
+
 activity_badges:
   - agua
-activity_code: "agua-X42"
-rama_lobatos:
-  - 12
-  - 20
-rama_scouts:
-  - 4
-  - 6
-rama_caminantes:
-  - 4
-  - 6
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a world map on the wall in the center-left. Sticky notes with interview findings: 'Amigo de India: el agua del grifo no es segura', 'Amiga de Suecia: el agua es abundante y barata'. A notebook with comparison table. The left side has space for text. On the far right side, two tiny older scouts (11-17) sit, one reading a sticky note, the other writing in the notebook, seen from a distance. The cross-cultural water habits research environment dominates."
+activity_code: "agua-D01"
+required: true
+required_for:
+  - agua-D
+required_comment: "Actividad obligatoria para la Sección D: El Agua para un Mundo Mejor"
+required_category: "El Agua para un Mundo Mejor"
+
 tags:
   - agua
-  - mundial
-  - hábitos
-  - comparación
-  - entrevista
-  - Parche del Agua
+  - entrevistas
+  - paises
+  - habitos
+  - comparacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Entrevistas y comparación cultural
+reflective_component: 4  # Reflexión sobre diferencias culturales
+active_component: 2  # Entrevistas
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children interviewing friends from different countries about water habits, or representing countries in a UN-style discussion dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, sharing and comparing findings. Global cultural exchange and water awareness atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
+space_required: "Salón para entrevistas y discusión"
+prep_time: "15 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia cultural
+  - Comunicación
+
 activity_type:
   - Investigación
-  - Entrevista
+  - Reflexión
+  - Debate / Diálogo
+
 category:
-  - Cultura
   - Agua
-  - Global
+  - Cultura
+  - Comparación global
+
 skills:
   - Investigación
-  - Conciencia social
-main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "20 min preparación + entrevistas"
+  - Entrevista
+  - Comunicación
+
 scout_values:
+  - Hermandad
+  - Curiosidad y apertura al aprendizaje
   - Respeto al prójimo
-  - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+rama_castores: []
+
+rama_lobatos:
+  - 12  # Me intereso por la cultura de mi comunidad.
+  - 13  # Respeto las diversas tradiciones culturales.
+
+rama_scouts:
+  - 16  # Exploro y me identifico con la cultura de mi comunidad.
+  - 22  # Fomento el respeto a la diversidad.
+
+rama_caminantes:
+  - 16  # Valoro mi historia e identidad.
+  - 21  # Cuestiono mis prejuicios y estereotipos.
+
+rama_rovers:
+  - 21  # Valoro mi identidad y promuevo la herencia cultural.
+  - 26  # Valoro la diversidad y promuevo la inclusión.
 ---
 
-# Agua alrededor del mundo
+# ¡Agua Alrededor del Mundo!
 
 ## Resumen
-Actividad para investigar y comparar los hábitos de uso del agua en diferentes países.
+Entrevista a amigos de otros países o representa un país en una "Organización de las Naciones Unidas del Agua" para aprender sobre hábitos de agua globales.
+
+## Preparación
+1. Identifica amigos de otros países o elige un país para representar.
+2. Prepara preguntas sobre hábitos de agua.
+3. Reúne materiales para la investigación.
 
 ## Desarrollo
-Entrevista a amigos de diferentes países o cuyos padres vienen del extranjero. Hazles preguntas como: ¿toman agua del grifo en el país de tu amigo? ¿El agua es escasa o abundante donde vive? ¿Es gratis? Si no lo es, ¿qué tan costosa es? Compara los hábitos relativos al agua e ideas para ahorrarla de los diferentes países.
+1. **Entrevistas** (25 min): Entrevista a amigos o investiga sobre tu país asignado.
+2. **Comparación** (20 min): Compara los hábitos y las ideas de conservación.
+3. **Discusión** (10 min): ¿Qué aprende cada país de los demás?
+4. **Reflexión** (5 min): ¿Qué cambios puedes adoptar?
 
 ## Cierre
-Reflexiona sobre las diferencias en el acceso al agua en el mundo y cómo esto afecta la vida de las personas.
+- ¿Qué hábitos de otros países te sorprendieron?
+- ¿Qué ideas de ahorro de agua puedes adoptar?
+- ¿Por qué es importante compartir conocimientos?
+
+---
+## Texto original completo de la actividad
+
+**D.01 AGUA ALREDEDOR DEL MUNDO** ¿Tienes amigos de diferentes países o cuyos padres vienen del extranjero? Entrevístalos sobre el uso y los hábitos relativos al agua en sus países. Hazles tantas preguntas como se te ocurran, como: ¿toman agua del grifo en el país de tu amigo? Si lo hacen, ¿para purificarla, la hierven o la filtran? ¿El agua es escasa o abundante donde vive? ¿Es gratis? Si no lo es, ¿qué tan costosa es? ¿Qué formas viven de conservar el agua tienen? Luego, vuelvan a reunirse en grupo y comparen los hábitos relativos al agua e ideas para ahorrarla de los diferentes países. ¿Qué es lo que otros hacen y tú no, y viceversa? (Si tú y tus amigos son en su mayoría del mismo país, organicen una 'Organización de las Naciones Unidas del Agua' donde cada uno elige un país para representar y hace una investigación sobre el uso del agua. Luego, presenten sus hallazgos en grupo y conduzcan una discusión/debate acerca de lo que cada país puede aprender de los demás).
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

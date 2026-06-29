@@ -563,12 +563,25 @@
   top: 12px;
   left: 12px;
 
-  background: rgba(255,255,255,0.95);
+/*  background: rgba(255,255,255,0.95);
 
   padding: 0.35rem 0.55rem;
-
+*/
   border-radius: 999px;
+  color: greenyellow;
+font-size: 2rem;
+
 }
+
+
+.activity-original .material-symbols-outlined {
+  font-size:2.3rem;
+  position: absolute;
+}
+
+
+
+
 
 .activity-title-row h3 {
   text-align: left;
@@ -939,3 +952,71 @@ height:56px;
 
 
 
+/* ==========================================
+   ACTIVIDADES ORIGINALES
+========================================== */
+
+.activity-card-original {
+  border: 2px solid #487700;
+  box-shadow:
+    0 4px 12px rgba(0,0,0,.08),
+    0 0 0 3px rgba(48,190,0,.25);
+}
+
+.activity-card-original::before {
+  content: "";
+
+  position: absolute;
+
+  top: 0;
+  left: 0;
+  right: 0;
+
+  height: 6px;
+
+  background: #487700;
+
+  z-index: 20;
+}
+
+
+.original-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+
+  margin-bottom: .5rem;
+
+  padding: .35rem .7rem;
+  border-radius: 999px;
+
+  background: #fff6d8;
+  color: #8a6400;
+
+  font-size: .75rem;
+  font-weight: 700;
+
+  border: 1px solid #e5c86b;
+}
+
+
+.activity-original {
+  position: absolute;
+
+  z-index: 10;
+
+  padding: .4rem .7rem;
+
+
+  font-size: .75rem;
+  font-weight: 700;
+
+  box-shadow: 0 2px 6px rgba(0,0,0,.25);
+}
+
+/*
+.activity-original {
+  bottom: 12px;
+  left: 12px;
+}
+*/

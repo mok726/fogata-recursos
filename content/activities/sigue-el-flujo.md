@@ -1,127 +1,189 @@
 ---
-title: "Sigue el flujo"
-duration: "1 hora"
+title: "Sigue el Flujo"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sigue-el-flujo/"
-description: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
-summary: "Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea diagramas de flujo mostrando el impacto del agua en la vida de las personas."
+summary: "Diagramas de flujo sobre el impacto del agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/sigue-el-flujo.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-17"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
+  - rovers
+
 materials:
   - Papel
   - Lápices de colores
-  - Marcadores
-tools:
-  - Regla
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Sostenibilidad y Medio Ambiente
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 1  # Fin de la pobreza
+
 activity_badges:
   - agua
-activity_code: "agua-X46"
-rama_lobatos:
-  - 20
-  - 24
-rama_scouts:
-  - 6
-  - 16
-rama_caminantes:
-  - 6
-  - 16
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a large flowchart poster on the wall in the center-left. One side shows 'Agua limpia → salud, educación, economía, dignidad'. The other side shows 'Falta de agua → enfermedades, pobreza, conflictos'. Arrows connecting each. The left side has negative space for text. On the far right side, two tiny older scouts (11-17) stand, one pointing at the 'salud' arrow, the other at the 'enfermedades' side, seen from a distance. The water impact flow diagram environment dominates."
+activity_code: "agua-D05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - diagrama
-  - flujo
   - impacto
+  - diagrama
   - saneamiento
-  - Parche del Agua
-location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Arte
-  - Reflexión
-category:
-  - Educación
-  - Agua
-  - Pensamiento sistémico
-skills:
-  - Pensamiento crítico
-  - Conciencia ambiental
+  - reflexion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Dibujo creativo
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Dibujo
+
+complexity_execution: 1  # Sencilla
+complexity_organizer: 1  # Sin preparación
+
 main_type: "Reflexión"
-space_required: "Salón amplio"
-special_materials:
-  - papel grande
-  - lápices de colores
-  - marcadores
-  - regla
-prep_time: "20 min"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A flow diagram showing the 'trickle-down effect' of clean water and sanitation on people's lives - health, education, economy - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing diagrams. Impact analysis and systems thinking atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para dibujar"
+prep_time: "5 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Pensamiento sistémico
+  - Conciencia social
+  - Creatividad
+
+activity_type:
+  - Reflexión
+  - Creatividad / Arte
+  - Aprender haciendo
+
+category:
+  - Agua
+  - Impacto
+  - Saneamiento
+
+skills:
+  - Pensamiento sistémico
+  - Creatividad
+  - Análisis
+
 scout_values:
-  - Superación personal
+  - Responsabilidad
+  - Justicia
+  - Solidaridad
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos:
+  - 20  # Observo mi entorno para conocer más sobre los problemas.
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+
+rama_scouts:
+  - 26  # Observo lo que pasa a mi alrededor y trato de entender las razones.
+  - 31  # Reconozco mi impacto en el ambiente.
+
+rama_caminantes:
+  - 25  # Identifico factores que contribuyen a problemas sociales.
+  - 29  # Adopto un estilo de vida responsable.
+
+rama_rovers:
+  - 29  # Indago en las causas de las injusticias.
+  - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# Sigue el flujo
+# ¡Sigue el Flujo!
 
 ## Resumen
-Actividad para crear un diagrama de flujo sobre cómo el agua afecta diferentes aspectos de la vida.
+Crea un diagrama de flujo mostrando cómo el agua limpia y el saneamiento impactan la vida de las personas, y la alternativa cuando no están disponibles.
+
+## Preparación
+- Piensa en cómo el agua afecta diferentes aspectos de la vida.
+- Prepara papel y lápices.
 
 ## Desarrollo
-Crea un diagrama de flujo del ‘efecto filtración’ del agua en la vida de las personas. ¿Cuáles aspectos de nuestras vidas dependen del agua limpia y del saneamiento? Luego, dibuja la alternativa: ¿cómo impacta en la vida de las personas la falta de agua y saneamiento, o el acceso sólo a agua contaminada?
+1. **Diagrama positivo** (20 min): Dibuja cómo el agua limpia y el saneamiento mejoran la vida.
+2. **Diagrama negativo** (15 min): Dibuja el impacto de la falta de agua y saneamiento.
+3. **Comparación** (5 min): Discute las diferencias entre ambos diagramas.
+4. **Presentación** (5 min): Comparte tus diagramas con el grupo.
 
 ## Cierre
-Reflexiona sobre la importancia del agua en la vida cotidiana y cómo su falta afecta a las comunidades.
+- ¿Qué aspectos de la vida dependen del agua y el saneamiento?
+- ¿Cómo cambia la vida sin acceso a agua limpia?
+- ¿Qué podemos hacer para mejorar el acceso?
+
+---
+## Texto original completo de la actividad
+
+**D.05 SIGUE EL FLUJO** Crea un diagrama de flujo del 'efecto filtración' del agua (¡con doble sentido!) en la vida de las personas. ¿Cuáles aspectos de nuestras vidas dependen del agua limpia y del saneamiento? Luego, dibuja la alternativa: ¿cómo impacta en la vida de las personas la falta de agua y saneamiento, o el acceso sólo a agua contaminada?
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

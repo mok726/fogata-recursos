@@ -1,130 +1,186 @@
 ---
-title: "Saca el bardo que hay en ti"
+title: "Saca el Bardo que Hay en Ti"
+duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/saca-el-bardo-que-hay-en-ti/"
-description: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
-summary: "Representa una obra de teatro sobre una comunidad afectada por la escasez de agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua."
+summary: "Obra de teatro sobre escasez de agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/saca-el-bardo-que-hay-en-ti.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
+  - rovers
+
 materials:
-  - Materiales para la obra de teatro (disfraces
-  - accesorios
-  - etc.)
-competencies:
-  - Creatividad y Expresión
-  - Trabajo en Equipo y Colaboración
-  - Comunicación Efectiva
+  - Papel y bolígrafos
+  - Materiales para presentación
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 13 # Acción por el clima
+
 activity_badges:
   - agua
-activity_code: "agua-X38"
-rama_lobatos:
-  - 21
-  - 27
-rama_scouts:
-  - 6
-  - 16
-rama_caminantes:
-  - 6
-  - 16
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room or outdoor stage, with a simple set in the center-left representing a village: a backdrop of a dry river, a small well, and a few props (buckets, vegetables). The left side has open space for text. On the far right side, a group of tiny older scouts (11-15) perform a play: one acting as a farmer, another as a mother, a third as a scientist, showing the impact of water scarcity and finding solutions, seen from a distance. The water scarcity theater environment dominates."
+activity_code: "agua-C05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
   - teatro
-  - escasez de agua
+  - escasez
   - comunidad
-  - obra
-  - soluciones
-  - Insignia del Agua
-location: "Interior / Exterior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Auditiva
-  - -Movilidad
+  - creatividad
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Teatro muy divertido
+reflective_component: 5  # Muy reflexivo
+active_component: 3  # Actuación
+
+complexity_execution: 3  # Requiere ensayo
+complexity_organizer: 3  # Requiere coordinación
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A theatre performance about a community facing water scarcity, with characters struggling and finding solutions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing on stage. Creative storytelling and community resilience atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón o escenario para la obra"
+prep_time: "30 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Creatividad
+  - Trabajo en equipo
+  - Expresión dramática
+
 activity_type:
-  - Teatro
-  - Activismo
+  - Creatividad / Arte
+  - Reflexión
+  - Sensibilización
+
 category:
-  - Arte
   - Agua
+  - Escasez
   - Teatro
+
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Comunicación
-main_type: "Arte"
-space_required: "Salón amplio o exterior"
-special_materials:
-  - disfraces simples
-  - accesorios
-  - guión
-  - elementos de escenario
-prep_time: "30 min planificación + presentación"
-scout_values:
-  - Hermandad
-  - Respeto al prójimo
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 3
-reflective_component: 5
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Expresión oral
 
+scout_values:
+  - Creatividad e ingenio
+  - Solidaridad
+  - Naturaleza
+
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 53  # Participo de manifestaciones artísticas.
+  - 22  # Fomento el respeto a la diversidad.
+
+rama_caminantes:
+  - 48  # Desarrollo habilidades de comunicación.
+  - 49  # Utilizo herramientas de comunicación.
+
+rama_rovers:
+  - 11  # Me comunico de manera asertiva.
+  - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# Saca el bardo que hay en ti
+# ¡Saca el Bardo que Hay en Ti!
 
 ## Resumen
-Representa una obra de teatro sobre una comunidad afectada por la escasez de agua.
+Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostrando sus desafíos y soluciones.
+
+## Preparación
+1. Divídanse en grupos pequeños.
+2. Desarrollen un guión sobre una comunidad con escasez de agua.
+3. Ensayen la obra.
 
 ## Desarrollo
-Dividanse en pequeños grupos y preparen un pequeño guión sobre una comunidad cuyos miembros dependen mucho del agua para su subsistencia. Tal vez algunos de ustedes pueden criar gallinas, mientras otros pueden cultivar vegetales. Últimamente, su pueblo ha estado enfrentando una escasez de agua. ¿Se debe esto al cambio climático o es porque el uso excesivo ha hecho que su río se seque? ¿Cómo está afectando esto a sus vidas? ¿Cuáles son algunas soluciones? Dejen que sus imaginaciones fluyan y luego inviten a sus familias y amigos a una presentación de la obra de cada grupo.
+1. **Creación** (25 min): Escribe un guión y asigna roles.
+2. **Ensayo** (30 min): Ensaya la obra.
+3. **Presentación** (20 min): Presenta la obra a la comunidad.
+4. **Discusión** (15 min): Habla sobre las soluciones mostradas.
 
 ## Cierre
-Reflexiona sobre los desafíos de la escasez de agua. Preguntas para discutir: ¿Qué soluciones propusieron? ¿Cómo podemos aplicarlas en la vida real?
+- ¿Qué desafíos enfrenta la comunidad?
+- ¿Qué soluciones propusieron?
+- ¿Cómo podemos aplicar estas soluciones en la vida real?
+
+---
+## Texto original completo de la actividad
+
+**C.05 SACA EL BARDO QUE HAY EN TI** Divídanse en pequeños grupos y preparen un pequeño guión sobre una comunidad cuyos miembros dependen mucho del agua para su subsistencia. Tal vez algunos de ustedes pueden criar gallinas, mientras otros pueden cultivar vegetales. Últimamente, su pueblo ha estado enfrentando una escasez de agua. ¿Se debe esto al cambio climático o es porque el uso excesivo ha hecho que su río se seque? ¿Cómo está afectando esto a sus vidas? ¿Cuáles son algunas soluciones? Dejen que sus imaginaciones fluyan y luego inviten a sus familias y amigos a una presentación de la obra de cada grupo.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

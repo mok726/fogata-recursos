@@ -1,124 +1,176 @@
 ---
-title: "Un acto de balance"
-duration: "30 min"
+title: "Un Acto de Balance"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-acto-de-balance/"
-description: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
-summary: "Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Experimenta caminar con un peso en la cabeza para entender lo que enfrentan muchas mujeres y niños al recolectar agua."
+summary: "Simulación del peso de recolectar agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/un-acto-de-balance.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "7-13"
+age: "5-10 años"
 age_group:
+  - castores
   - manada
-  - scouts
+
 materials:
-  - Libro pesado
-tools:
-  - Espacio abierto
-competencies:
-  - Autoconocimiento y Desarrollo Personal
-  - Ciudadanía y Conciencia Social
+  - Un libro (no muy pesado)
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 5  # Igualdad de género
+  - 6  # Agua limpia y saneamiento
+
 activity_badges:
   - agua
-activity_code: "agua-X44"
-rama_lobatos:
-  - 3
-  - 28
-rama_scouts:
-  - 3
-  - 6
-rama_caminantes:
-  - 3
-  - 6
-rama_rovers:
-  - 3
-  - 6
-image_prompt: "An Argentine garden or outdoor space, with a heavy book on the ground in the center-left. A path marked with stones. The left side has open space for text. On the far right side, a tiny young scout (7-13) walks slowly with a heavy book balanced on their head, imitating carrying a water container, another scout watches, seen from a distance. The water carrying simulation environment dominates."
+activity_code: "agua-D03"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - carga
-  - balance
-  - simulación
-  - empatía
-  - Parche del Agua
-location: "Exterior"
+  - recoleccion
+  - mujeres
+  - empatia
+  - simulacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Simulación y juego
+reflective_component: 3  # Reflexión sobre la experiencia
+active_component: 3  # Caminar con peso
+
+complexity_execution: 1  # Muy sencilla
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child balancing a book on their head, walking carefully, symbolizing women and children carrying heavy water containers dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, practicing the balance walk. Empathy and understanding of water collection challenges atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón o espacio exterior"
+prep_time: "5 min"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
-accessibility:
-  - -Movilidad
-activity_type:
-  - Simulación
+
+accessibility: []
+
+competencies:
   - Empatía
-category:
-  - Educación
-  - Agua
   - Conciencia social
+  - Comprensión de género
+
+activity_type:
+  - Reflexión
+  - Sensibilización
+  - Juego
+
+category:
+  - Agua
+  - Género
+  - Empatía
+
 skills:
   - Empatía
-  - Conciencia social
-main_type: "Juego"
-space_required: "Exterior abierto"
-special_materials:
-  - libro grande y pesado (enciclopedia)
-  - espacio abierto
-prep_time: "5 min preparación + actividad"
-scout_values:
-  - Respeto al prójimo
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 5
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Equilibrio
+  - Reflexión
 
+scout_values:
+  - Igualdad de género
+  - Solidaridad
+  - Respeto al prójimo
+
+scout_method:
+  - Aprender haciendo
+  - Marco simbólico
+
+rama_castores: []
+
+rama_lobatos:
+  - 18  # Participo e incluyo a todas las personas sin discriminarlas.
+  - 19  # Realizo acciones solidarias para ayudar a las personas.
+
+rama_scouts: []
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Un acto de balance
+# ¡Un Acto de Balance!
 
 ## Resumen
-Actividad para simular la experiencia de cargar agua largas distancias, como lo hacen muchas personas en el mundo.
+Camina con un libro balanceado sobre tu cabeza para sentir lo que enfrentan muchas mujeres y niños al recolectar agua.
+
+## Preparación
+- Consigue un libro que no sea demasiado pesado.
+- Encuentra un espacio para caminar.
 
 ## Desarrollo
-Practica caminando alrededor de tu jardín o de tu clase con un libro balanceado sobre tu cabeza. Imagínate cuánto más difícil sería llevar un pesado contenedor de agua por una larga distancia y un suelo difícil y lleno de baches.
+1. **Simulación** (15 min): Camina con un libro sobre tu cabeza.
+2. **Reflexión** (10 min): ¿Cómo te sentiste?
+3. **Discusión** (5 min): Imagina hacer esto con un contenedor de 20 litros por una larga distancia.
 
 ## Cierre
-Reflexiona sobre las dificultades que enfrentan muchas personas para acceder al agua y cómo esto afecta su vida diaria.
+- ¿Cómo te sentiste al caminar con peso?
+- Imagina hacer esto todos los días.
+- ¿Cómo podemos ayudar a quienes recolectan agua?
+
+---
+## Texto original completo de la actividad
+
+**D.03 UN ACTO DE BALANCE** En muchos países las mujeres y los niños recorren largas distancias para ir a buscar agua y llevarla de regreso a casa cargada sobre su cabeza, espalda o cadera. Los contenedores de agua usualmente llevan cerca de 20 litros de agua y pesan 20 kilogramos. A largo plazo esto puede ser muy dañino para su salud. Practica caminando alrededor de tu jardín o de tu clase con un libro balanceado sobre tu cabeza. ¡Asegúrate de que no sea demasiado pesado! ¿Cómo te sientes? Imagínate cuánto más difícil sería llevar un pesado contenedor de agua por una larga distancia y un suelo difícil y lleno de baches.
+
+nivel 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

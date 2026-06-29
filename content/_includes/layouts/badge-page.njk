@@ -1,6 +1,9 @@
 ---
 layout: layouts/base.njk
 ---
+
+{% import "macros/activity-grid.njk" as activityGrid %}
+
 {% set title = badge.name %}
 
 
@@ -34,7 +37,7 @@ layout: layouts/base.njk
 
 {% if not isKnownBadge %}
   {% set inferredActivities = [] %}
-  {%- for activity in collections.activitiesByCode -%}
+  {%- for activity in preparedActivities  -%}
     {% set activityBadges = activity.data.activity_badges or [] %}
     {% set validBadges = [] %}
     {%- for knownBadge in badges -%}
@@ -76,18 +79,27 @@ layout: layouts/base.njk
   } %}
 {% endif %}
 
-{% set activityCount = 0 %}
 
-{%- for activity in collections.activitiesByCode -%}
+<!-- obtener la lista completa para esta insignia -->
+{% set preparedActivities =
 
-  {% set activityBadges =
-     activity.data.activity_badges or [] %}
+collections.activities
 
-  {% if badge.id in activityBadges %}
-    {% set activityCount = activityCount + 1 %}
-  {% endif %}
+| activityFlags({
+    badge: badge.id,
+    sections: badge.sections
+})
 
-{%- endfor -%}
+| activityQuery({
+    badge: badge.id
+})
+
+| activitySort("activity_code")
+
+%}
+
+{% set activityCount = preparedActivities.length %}
+
 
 
 
@@ -169,7 +181,6 @@ layout: layouts/base.njk
 </section>
 
 <!-- Fin del hero -->
-
 
 
 
@@ -407,30 +418,20 @@ layout: layouts/base.njk
 {% for sectionId, section in badge.sections %}
 
 
-         {% set sectionMatches = [] %}
+{% set sectionMatches =
 
-         {% for activity in collections.activitiesByCode %}
+preparedActivities
 
-           {% set activityBadges =
-             activity.data.activity_badges or [] %}
+| activityQuery({
+    section: sectionId
+})
 
-           {% if badge.id in activityBadges %}
+| activityFlags({
+    badge: badge.id,
+    section: sectionId
+})
 
-             {% set code =
-               activity.data.activity_code or "" %}
-
-             {% if code.startsWith(badge.id + "-" + sectionId) %}
-
-               {% set sectionMatches =
-                 sectionMatches.concat([activity]) %}
-
-             {% endif %}
-
-           {% endif %}
-
-         {% endfor %}
-
-
+%}
           <a
             href="#section-{{ sectionId }}"
             class="activity-section-chip">
@@ -483,216 +484,127 @@ layout: layouts/base.njk
 
     <div class="badge-section-header">
 
-    <div class="badge-section-letter">
+      <div class="badge-section-letter">
 
-      {{ sectionId }}
-
-    </div>
-
-    <div class="badge-section-info">
-
-      {% set sectionMatches = [] %}
-
-      {% for activity in collections.activitiesByCode %}
-
-        {% set activityBadges =
-          activity.data.activity_badges or [] %}
-
-        {% if badge.id in activityBadges %}
-
-          {% set code =
-            activity.data.activity_code or "" %}
-
-          {% if code.startsWith(badge.id + "-" + sectionId) %}
-
-            {% set sectionMatches =
-              sectionMatches.concat([activity]) %}
-
-          {% endif %}
-
-        {% endif %}
-
-      {% endfor %}
-
-      <div class="badge-section-title-row">
-
-        <h2>
-          {{ section.title }}
-        </h2>
-        {% if section.description %}
-          <p>
-            {{ section.description }}
-          </p>
-        {% endif %}
-
-        <span class="badge-section-count">
-
-          {{ sectionMatches.length }}
-          actividades
-
-        </span>
+        {{ sectionId }}
 
       </div>
 
+      <div class="badge-section-info">
 
-    </div>
+{% set sectionMatches =
+
+preparedActivities
+
+| activityQuery({
+    section: sectionId
+})
+
+| activityFlags({
+    badge: badge.id,
+    section: sectionId
+})
+
+%}
+        <div class="badge-section-title-row">
+            <h2>
+              {{ section.title }}
+            </h2>
+
+
+        </div>
+
+            <div class="badge-section-description-row">
+              {% if section.description %}
+
+                {{ section.description | safe }}
+
+              {% endif %}
+            </div>
+
+        </div>
+          <div class="badge-section-count">
+
+
+            {{ sectionMatches.length }}
+            actividades
+
+          </div>
+
+
 
   </div>
 
 
-  <div class="grid">
+{{ activityGrid.render(
+    sectionMatches,
+    badges,
+    ageGroups
+) }}
 
-    {% set sectionCount = 0 %}
-
-    {% for activity in collections.activitiesByCode %}
-
-      {% set activityBadges =
-        activity.data.activity_badges or [] %}
-
-      {% if badge.id in activityBadges %}
-
-        {% set code =
-            activity.data.activity_code or "" %}
-
-          {% if code.startsWith(badge.id + "-" + sectionId) %}
-
-            {% set sectionCount = sectionCount + 1 %}
-
-            {% set item = activity.data %}
-            {% set activityUrl = activity.url %}
-
-            {% set isRequired = false %}
-
-            {% if item.required_for %}
-
-              {% for req in item.required_for %}
-
-                {% if req == badge.id + "-" + sectionId %}
-
-                  {% set isRequired = true %}
-  
-                {% endif %}
-
-              {% endfor %}
-
-            {% endif %}
-            {% set isComplementary = false %}
-            {% include "components/activity-card.njk" %}
-
-          {% endif %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    {% if sectionCount == 0 %}
-
-      <div class="empty-state">
-      </div>
-
-    {% endif %}
-
-  </div>
 
 </section>
 
 {% endfor %}
 
 
-{% set inconsistentCount = 0 %}
 
-{% for activity in collections.activitiesByCode %}
 
-  {% set activityBadges =
-    activity.data.activity_badges or [] %}
 
-  {% if badge.id in activityBadges %}
 
-    {% set code =
-      activity.data.activity_code or "" %}
 
-    {% if code.startsWith(badge.id + "-") %}
 
-      {% set remainder =
-        code.replace(badge.id + "-", "") %}
+{% set inconsistentActivities =
 
-      {% set detectedSection =
-        remainder[0] %}
+collections.activities
 
-      {% if not badge.sections[detectedSection] %}
+| activityQuery({
+    badge: badge.id,
+    inconsistent: true,
+    sections: badge.sections
+})
 
-        {% set inconsistentCount =
-          inconsistentCount + 1 %}
+| activitySort("activity_code")
 
-      {% endif %}
+| activityFlags({
+    badge: badge.id
+})
 
-    {% endif %}
+%}
 
-  {% endif %}
-
-{% endfor %}
-
-{% if inconsistentCount > 0 %}
+{% if inconsistentActivities.length %}
 
 <section class="badge-section badge-section-warning">
+
 <div class="section-header">
 
-  <div>
+<div>
 
-    <h2>
+<h2>
 
 ⚠ Clasificación inconsistente
 
+</h2>
 
-    </h2>
-
-  </div>
+</div>
 
 </div>
 
 <p>
-Actividades asociadas a esta insignia pero
-con una sección inexistente o mal definida.
+
+Actividades asociadas a esta insignia pero con una sección inexistente o mal definida.
+
 </p>
 
-<div class="grid">
+{{ activityGrid.render(inconsistentActivities, false) }}
 
+{{ activityGrid.render(
+    inconsistentActivities,
+    badges,
+    ageGroups,
+    true
+) }}
 
-   {% for activity in collections.activitiesByCode %}
-
-    {% set activityBadges =
-      activity.data.activity_badges or [] %}
-
-    {% if badge.id in activityBadges %}
-
-      {% set code =
-        activity.data.activity_code or "" %}
-
-      {% if code.startsWith(badge.id + "-") %}
-
-        {% set remainder =
-          code.replace(badge.id + "-", "") %}
-
-        {% set detectedSection =
-          remainder[0] %}
-
-        {% if not badge.sections[detectedSection] %}
-
-          {% set item = activity.data %}
-          {% set activityUrl = activity.url %}
-          {% set isComplementary = false %}
-          {% include "components/activity-card.njk" %}
-
-        {% endif %}
-
-      {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-
-</div>
 
 </section>
 
@@ -703,87 +615,49 @@ con una sección inexistente o mal definida.
 
 
 
+{% set complementaryActivities =
 
-{% set extraCount = 0 %}
+collections.activities
 
-{% for activity in collections.activitiesByCode %}
+| activityQuery({
+    badge: badge.id,
+    complementary: true
+})
 
-  {% set activityBadges =
-    activity.data.activity_badges or [] %}
+| activitySort("activity_code")
 
-  {% if badge.id in activityBadges %}
+| activityFlags({
+    badge: badge.id
+})
 
-    {% set code =
-      activity.data.activity_code or "" %}
+%}
 
-    {% if not code.startsWith(badge.id + "-") %}
-
-      {% set extraCount = extraCount + 1 %}
-
-    {% endif %}
-
-  {% endif %}
-
-{% endfor %}
-
-
-{% if extraCount > 0 %}
+{% if complementaryActivities.length %}
 
 <section class="badge-section">
 
-  <h2>
-  Actividades complementarias
-  </h2>
+<h2>
+Actividades complementarias
+</h2>
 
-  <p>
-  Actividades relacionadas con la temática de la insignia pero que no forman parte
-del programa oficial de secciones.
-  </p>
-
-  <div class="grid">
-
-  
-    {% for activity in collections.activitiesByCode %}
-
-      {% set activityBadges =
-        activity.data.activity_badges or [] %}
-
-      {% if badge.id in activityBadges %}
-
-        {% set code =
-          activity.data.activity_code or "" %}
-
-        {% if not code.startsWith(badge.id + "-") %}
+<p>
+Actividades relacionadas con la temática de la insignia pero que no forman parte del programa oficial de secciones.
+</p>
 
 
-          {% set item = activity.data %}
-          {% set activityUrl = activity.url %}
 
-          {% set isComplementary = true %}
-          {% set isRequired = false %}
+{{ activityGrid.render(
+    complementaryActivities,
+    badges,
+    ageGroups,
+    true
+) }}
 
 
-          {% include "components/activity-card.njk" %}
-
-        {% endif %}
-
-      {% endif %}
-
-    {% endfor %}
-
-    {% if extraCount == 0 %}
-
-      <p>No hay actividades complementarias.</p>
-    {% endif %}
-
-  </div>
 
 </section>
 
-
-
 {% endif %}
-
 
 <!-- fin actividades complementarias -->
 </section>

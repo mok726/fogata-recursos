@@ -917,21 +917,35 @@ input[type="text"]:focus {
   gap:1rem;
 
   flex-wrap:wrap;
+  text-transform: uppercase;
 }
+
+
+.badge-section-description-row {
+
+  display:flex;
+
+  align-items:center;
+ 
+  gap:1rem;
+  font-size: small;
+  flex-wrap:wrap;
+}
+
+
 
 .badge-section-count {
 
-  background:#eef5ea;
-
   color:#355b38;
-
-  padding:.35rem .75rem;
 
   border-radius:999px;
 
   font-size:.85rem;
-
   font-weight:700;
+
+    text-align: center;
+    min-width: 90px;
+
 }
 
 

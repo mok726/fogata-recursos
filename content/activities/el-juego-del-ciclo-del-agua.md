@@ -1,132 +1,191 @@
 ---
-title: "El juego del ciclo del agua"
+title: "El Juego del Ciclo del Agua"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-juego-del-ciclo-del-agua/"
-description: "Actividad para aprender sobre el ciclo del agua."
-summary: "Actividad para aprender sobre el ciclo del agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Aprende el ciclo del agua a través de un juego de cartas y un experimento."
+summary: "Juego y experimento sobre el ciclo del agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/el-juego-del-ciclo-del-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-10"
+age: "5-15 años"
 age_group:
   - castores
   - manada
+  - scouts
+  - caminantes
+
 materials:
-  - Cartas con partes del ciclo del agua
-  - Materiales para el experimento (opcional)
+  - Cartas
+  - Lápices de colores
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
-  - 13
+  - 6  # Agua limpia y saneamiento
+  - 13 # Acción por el clima
+
 activity_badges:
   - agua
-activity_code: "agua-X06"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 6
-  - 13
-rama_caminantes:
-  - 6
-  - 13
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a large diagram of the water cycle on the wall in the center-left (evaporación, condensación, precipitación, colección). Cards with each term and a simple drawing. A small experiment (ziploc bag with water on a window). The left side has space for text. On the far right side, three tiny young scouts (5-10) sit, one holding a 'precipitación' card, another pointing at the bag, seen from a distance. The water cycle game environment dominates."
-similar_activities:
-  - https://thewaterproject.org/lesson-plans/create-a-mini-water-cycle
+activity_code: "agua-A06"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - ciclo del agua
-  - evaporación
-  - condensación
-  - precipitación
+  - ciclo-del-agua
+  - juego
   - experimento
-  - Insignia del Agua
-location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Juego
-  - Ciencia
-category:
-  - Ciencia
-  - Educación
-  - Agua
-skills:
-  - Investigación
-  - Creatividad
-  - Trabajo en equipo
-main_type: "Juego"
-space_required: "Salón amplio"
-special_materials:
-  - tarjetas
-  - materiales para experimento (bolsa ziploc
-  - agua
-  - marcador)
-prep_time: "15 min"
-scout_values:
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 1
-files:
-  - filepath: "http://www.imta.gob.mx/education-ambiental/aprende/interface.html"
-    caption: "Referencia"
-    icon: "open_in_new"
-  - filepath: "https://thewaterproject.org/lesson-plans/create-a-mini-water-cycle"
-    caption: "Similares en la Web"
+  - evaporacion
+  - condensacion
+
+link:
+  - url: "https://thewaterproject.org/resources/lesson-plans/create-a-mini-water-cycle.php"
+    caption: "Experimento del ciclo del agua (inglés)"
+    icon: "read_more"
+  - url: "http://www.imta.gob.mx/educacion-ambiental/aprende/interface.html"
+    caption: "Experimentos sobre el agua (español)"
     icon: "read_more"
 
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+files: []
 
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Juego de rol del ciclo del agua
+reflective_component: 3  # Reflexión sobre el ciclo
+active_component: 2  # Moverse para representar el ciclo
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Juego"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a game about the water cycle, with cards showing evaporation, condensation, precipitation, and collection dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, acting out the water cycle. Interactive science learning atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para el juego"
+prep_time: "15 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Comprensión científica
+  - Creatividad
+  - Trabajo en equipo
+
+activity_type:
+  - Juego
+  - Aprender jugando
+  - Experimentación
+
+category:
+  - Agua
+  - Ciclo del agua
+  - Ciencia
+
+skills:
+  - Comprensión científica
+  - Creatividad
+  - Trabajo en equipo
+
+scout_values:
+  - Curiosidad y apertura al aprendizaje
+  - Naturaleza
+  - Creatividad e ingenio
+
+scout_method:
+  - Aprender haciendo
+  - Marco simbólico
+
+rama_castores: []
+
+rama_lobatos:
+  - 27  # Comprendo que en la naturaleza todo está relacionado.
+  - 32  # Me intereso por aprender cosas nuevas.
+
+rama_scouts:
+  - 35  # Comprendo que todo lo que le hacemos a los seres vivos nos afecta.
+  - 40  # Exploro temas de mi interés con la intención de mejorar cada día.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# El juego del ciclo del agua
+# ¡El Juego del Ciclo del Agua!
 
 ## Resumen
-Actividad para aprender sobre el ciclo del agua.
+Aprende sobre el ciclo del agua a través de un juego de cartas y realiza un experimento para verlo en acción.
+
+## Preparación
+1. Prepara cartas para cada parte del ciclo del agua.
+2. Haz un dibujo en cada carta explicando qué es.
+3. Reúne materiales para el experimento.
 
 ## Desarrollo
-Prepara una carta para cada parte del ciclo del agua, por ejemplo, ‘evaporación’, ‘condensación’, etc. Debajo de cada palabra haz un dibujo que explique qué es. Luego mezcla las cartas y repártelas al azar entre tu grupo. Cada uno de los participantes debe describir, por turnos, su rol en el ciclo del agua. También puedes conducir un experimento sobre el ciclo del agua. Visita estos sitios web para aprender cómo: thewaterproject.org/resources/lesson-plans/create-a-mini-water-cycle.php (en inglés); http://www.imta.gob.mx/education-ambiental/aprende/interface.html (en español).
+1. **Creación** (15 min): Prepara las cartas del ciclo del agua.
+2. **Juego** (15 min): Mezcla y reparte las cartas entre el grupo.
+3. **Actuación** (10 min): Cada persona describe su rol en el ciclo.
+4. **Experimento** (5 min): Realiza un experimento del ciclo del agua.
 
 ## Cierre
-Reflexiona sobre cómo el ciclo del agua mantiene la vida en la Tierra. Preguntas para discutir: ¿Qué parte del ciclo del agua te pareció más interesante? ¿Cómo afecta el ciclo del agua a tu vida diaria?
+- ¿Cuáles son las partes del ciclo del agua?
+- ¿Por qué es importante el ciclo del agua?
+- ¿Cómo afecta la actividad humana al ciclo?
+
+---
+## Texto original completo de la actividad
+
+**A.06 EL JUEGO DEL CICLO DEL AGUA** Prepara una carta para cada parte del ciclo del agua, por ejemplo, 'evaporación', 'condensación', etc. Debajo de cada palabra haz un dibujo que explique qué es. Luego mezcla las cartas y repártelas al azar entre tu grupo. Cada uno de los participantes debe describir, por turnos, su rol en el ciclo del agua. También puedes conducir un experimento sobre el ciclo del agua. Visita estos sitios web para aprender cómo: thewaterproject.org/resources/lesson-plans/create-a-mini-water-cycle.php (en inglés); http://www.imta.gob.mx/educacion-ambiental/aprende/interface.html (en español).
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

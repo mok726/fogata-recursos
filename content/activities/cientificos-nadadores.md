@@ -1,120 +1,186 @@
 ---
-title: "Científicos nadadores"
+title: "Científicos Nadadores"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cientificos-nadadores/"
-description: "Observa la vida acuática mientras nadas."
-summary: "Observa la vida acuática mientras nadas."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Observa la vida bajo el agua nadando en un río, lago o mar."
+summary: "Observación subacuática de la vida marina."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/cientificos-nadadores.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Sostenibilidad y Medio Ambiente
-  - Trabajo en Equipo y Colaboración
+  - rovers
+
+materials:
+  - Gafas de buceo
+  - Equipo de natación
+tools: []
 responsible:
+  - Docente o Scouter (supervisión adulta)
+
 sdgs:
-  - 6
-  - 14
+  - 6  # Agua limpia y saneamiento
+  - 14 # Vida submarina
+
 activity_badges:
   - agua
-activity_code: "agua-X18"
-rama_lobatos:
-  - 9
-  - 27
-rama_scouts:
-  - 6
-  - 14
-rama_caminantes:
-  - 6
-  - 14
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "A safe Argentine river, lake, or sea (e.g., Mar del Plata) on a sunny day, with clear water in the center-left. Goggles and a snorkel on the shore. Underwater visible rocks and small fish. The left side has open space for text. On the far right side, a tiny older scout (14-17) swims with goggles, looking underwater, another scout watches from the shore, seen from a distance. The snorkeling biodiversity observation environment dominates."
+activity_code: "agua-A18"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - nadar
-  - vida acuática
-  - observación
-  - río
-  - mar
-  - Insignia del Agua
+  - natacion
+  - observacion
+  - vida-submarina
+  - exploracion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Actividad muy divertida en el agua
+reflective_component: 2  # Reflexión ligera
+active_component: 5  # Natación y movimiento
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 3  # Requiere supervisión y seguridad
+
+main_type: "Exploración"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children swimming underwater with goggles, observing fish and aquatic life in a safe river or lake dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, swimming and observing. Aquatic exploration and adventure atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Exterior"
-participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
-  - -Visual
-activity_type:
+space_required: "Río, lago o mar seguro para nadar"
+prep_time: "20 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Observación
+  - Conciencia acuática
+  - Seguridad
+
+activity_type:
   - Exploración
+  - Aprender haciendo
+  - Aventura
+
 category:
-  - Deporte
-  - Ecología
   - Agua
+  - Natación
+  - Observación
+
 skills:
   - Observación
-  - Conciencia ambiental
-  - Trabajo en equipo
-main_type: "Investigación"
-space_required: "Exterior abierto (agua)"
-prep_time: "15 min (supervisión adulta constante)"
+  - Natación
+  - Investigación
+
 scout_values:
   - Aventura
   - Naturaleza
+  - Curiosidad y apertura al aprendizaje
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 4
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+  - 38  # Desarrollo habilidades para el disfrute de la vida en la naturaleza.
+
+rama_caminantes:
+  - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
+  - 34  # Aprovecho toda oportunidad para conectar con el mundo natural.
+
+rama_rovers:
+  - 4  # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+  - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# Científicos nadadores
+# ¡Científicos Nadadores!
 
 ## Resumen
-Observa la vida acuática mientras nadas.
+Nada en un río, lago o mar seguro para observar la vida bajo el agua y registrar tus descubrimientos.
+
+## Preparación
+1. Encuentra un lugar seguro para nadar.
+2. Prepara gafas de buceo.
+3. Asegura supervisión adulta.
 
 ## Desarrollo
-Si sabes nadar, toma un par de gafas o equipo para buceo y ve a nadar (bajo supervisión adulta) en un río, lago o mar seguro cerca de tu hogar. Observa cuidadosamente la vida bajo el agua. ¡Ten cuidado si decides sumergirte! Después, haz un dibujo de lo que viste.
+1. **Preparación** (10 min): Revisa el equipo y las medidas de seguridad.
+2. **Observación** (20 min): Nada y observa la vida subacuática.
+3. **Registro** (10 min): Dibuja lo que viste.
+4. **Compartir** (5 min): Comparte tus dibujos con el grupo.
 
 ## Cierre
-Reflexiona sobre la diversidad de vida en el agua. Preguntas para discutir: ¿Qué organismos observaste? ¿Cómo contribuyen al ecosistema?
+- ¿Qué viste bajo el agua?
+- ¿Qué te sorprendió de lo que observaste?
+- ¿Cómo es la vida en el agua?
+
+---
+## Texto original completo de la actividad
+
+**A.18 CIENTÍFICOS NADADORES** Si sabes nadar, toma un par de gafas o equipo para buceo y ve a nadar (bajo supervisión adulta) en un río, lago o mar seguro cerca de tu hogar. Observa cuidadosamente la vida bajo el agua. ¡Ten cuidado si decides sumergirte! Después, haz un dibujo de lo que viste.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

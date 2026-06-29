@@ -1,118 +1,187 @@
 ---
-title: "El agua como un derecho humano"
-duration: "1 hora"
+title: "El Agua como un Derecho Humano"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-como-un-derecho-humano/"
-description: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
-summary: "Actividad para investigar y debatir sobre el acceso al agua como un derecho humano."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga sobre los derechos humanos y por qué el acceso al agua limpia fue declarado un derecho humano."
+summary: "Investigación sobre el agua como derecho humano."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/el-agua-como-un-derecho-humano.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
-tools:
-  - Computadora para investigación
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Ciudadanía y Conciencia Social
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 10 # Reducción de las desigualdades
+  - 16 # Paz, justicia e instituciones sólidas
+
 activity_badges:
   - agua
-activity_code: "agua-X50"
-rama_lobatos:
-  - 15
-  - 20
-rama_scouts:
-  - 6
-  - 16
-rama_caminantes:
-  - 6
-  - 16
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a timeline of the UN declaration on water as a human right (2010). Quotes from the resolution. A laptop with human rights documents. The left side has negative space for text. On the far right side, a group of tiny older scouts (14-21) sit in a circle, one standing to speak, another listening intently, seen from a distance. The water as a human right debate environment dominates."
+activity_code: "agua-D09"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - derecho humano
-  - ONU
+  - derechos-humanos
   - acceso
-  - justicia
-  - Parche del Agua
+  - investigacion
+  - debate
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Investigación y debate
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de discusión
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. The Universal Declaration of Human Rights with water highlighted, and children discussing why clean water access is a fundamental right dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and debating. Human rights awareness and civic engagement atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "6-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
-activity_type:
-  - Debate
-  - Reflexión
-category:
-  - Derechos humanos
-  - Agua
-  - Ética
-skills:
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Conciencia de derechos
   - Pensamiento crítico
-  - Conciencia social
-main_type: "Debate / Diálogo"
-space_required: "Salón amplio"
-prep_time: "20 min"
+  - Debate
+
+activity_type:
+  - Reflexión
+  - Debate / Diálogo
+  - Investigación
+
+category:
+  - Agua
+  - Derechos humanos
+  - Justicia
+
+skills:
+  - Investigación
+  - Pensamiento crítico
+  - Argumentación
+
 scout_values:
+  - Justicia
   - Respeto al prójimo
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 18  # Valoro y respeto los Derechos Humanos.
+  - 20  # Respeto los acuerdos y expreso mis ideas.
+
+rama_caminantes:
+  - 17  # Desarrolló estrategias para promover los Derechos Humanos.
+  - 18  # Ejercito mis derechos como ciudadano.
+
+rama_rovers:
+  - 22  # Promuevo y defiendo los Derechos Humanos.
+  - 23  # Ejercito mis derechos como ciudadano.
 ---
 
-# El agua como un derecho humano
+# ¡El Agua como un Derecho Humano!
 
 ## Resumen
-Actividad para investigar y debatir sobre el acceso al agua como un derecho humano.
+Investiga qué son los derechos humanos y por qué la ONU declaró el acceso al agua limpia como un derecho humano.
+
+## Preparación
+1. Investiga sobre los derechos humanos.
+2. Busca información sobre la declaración del agua como derecho humano.
+3. Prepara argumentos para el debate.
 
 ## Desarrollo
-Investiga sobre los derechos humanos y por qué la Organización de las Naciones Unidas declaró el acceso al agua limpia como un derecho humano. Discute estas preguntas en grupo y mira si alguien te puede hacer cambiar de opinión.
+1. **Investigación** (20 min): Aprende sobre derechos humanos y el acceso al agua.
+2. **Discusión** (20 min): ¿Estás de acuerdo? ¿Cuál derecho es más importante?
+3. **Debate** (15 min): Discute en grupo y escucha diferentes opiniones.
+4. **Conclusión** (5 min): Resume las ideas principales.
 
 ## Cierre
-Reflexiona sobre la importancia del agua como un derecho humano básico y cómo podemos garantizar su acceso para todos.
+- ¿Qué son los derechos humanos?
+- ¿Por qué el agua es un derecho humano?
+- ¿Cuál derecho humano es el más importante para ti?
+
+---
+## Texto original completo de la actividad
+
+**D.09 EL AGUA COMO UN DERECHO HUMANO** Haz una investigación sobre los derechos humanos. ¿Qué son los derechos humanos? ¿Por qué son importantes? Luego, investiga más a fondo para aprender por qué la Organización de las Naciones Unidas declaró el acceso al agua limpia como un derecho humano. ¿Estás de acuerdo? ¿Cuál derecho humano es el más importante para ti? Discute estas preguntas en grupo y mira si alguien te puede hacer cambiar de opinión.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

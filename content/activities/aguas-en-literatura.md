@@ -1,117 +1,190 @@
 ---
-title: "Aguas en literatura"
+title: "Aguas en Literatura"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aguas-en-literatura/"
-description: "Explora el papel del agua en la literatura."
-summary: "Explora el papel del agua en la literatura."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Lee una novela donde el agua sea importante y escribe una reseña."
+summary: "Reseña literaria sobre el agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/aguas-en-literatura.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Sostenibilidad y Medio Ambiente
-  - Comunicación Efectiva
+  - rovers
+
+materials:
+  - Acceso a biblioteca
+  - Papel y bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 4  # Educación de calidad
+  - 6  # Agua limpia y saneamiento
+
 activity_badges:
   - agua
-activity_code: "agua-X14"
-rama_lobatos:
-  - 12
-  - 27
-rama_scouts:
-  - 4
-  - 6
-rama_caminantes:
-  - 4
-  - 6
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine library or scout room, with a bookshelf in the center-left displaying novels where water plays a role: 'Las Aventuras de Huckleberry Finn', 'El Viejo y el Mar', 'La Vida de Pi'. A notebook with a book review focusing on water symbolism. The left side has negative space for text. On the far right side, a tiny older scout (14-17) sits at a table, reading a book and writing, seen from a distance. The literary water analysis environment dominates."
+activity_code: "agua-A14"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
   - literatura
-  - novela
-  - reseña
+  - lectura
+  - resena
   - simbolismo
-  - Insignia del Agua
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Lectura y escritura
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de lectura
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child reading a novel where water is an important feature, with illustrations of rivers or lakes from the story dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing a book review. Literary exploration and reflection atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-  - -Visual
+space_required: "Biblioteca o salón de lectura"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Comprensión lectora
+  - Reflexión
+  - Expresión escrita
+
 activity_type:
-  - Lectura
-  - Escritura
+  - Reflexión
+  - Investigación
+  - Creatividad / Arte
+
 category:
-  - Literatura
   - Agua
-  - Comunicación
+  - Literatura
+  - Simbolismo
+
 skills:
-  - Lectura crítica
-  - Conciencia ambiental
-  - Comunicación
-main_type: "Investigación"
-space_required: "Salón amplio (biblioteca)"
-prep_time: "20 min + tiempo de lectura"
+  - Comprensión lectora
+  - Reflexión
+  - Expresión escrita
+
 scout_values:
-  - Respeto al prójimo
+  - Curiosidad y apertura al aprendizaje
+  - Creatividad e ingenio
   - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos:
+  - 14  # Conozco mi historia, la de mi familia y de mi país.
+  - 32  # Me intereso por aprender cosas nuevas.
+
+rama_scouts:
+  - 16  # Exploro y me identifico con la cultura de mi comunidad.
+  - 40  # Exploro temas de mi interés.
+
+rama_caminantes:
+  - 16  # Valoro mi historia e identidad.
+  - 36  # Trabajo en mi superación personal.
+
+rama_rovers:
+  - 17  # Me responsabilizo por mi desarrollo personal.
+  - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# Aguas en literatura
+# ¡Aguas en Literatura!
 
 ## Resumen
-Explora el papel del agua en la literatura.
+Lee una novela donde el agua sea una característica importante y escribe una reseña enfocándote en el papel del agua en la historia.
+
+## Preparación
+1. Visita la biblioteca de tu escuela o local.
+2. Pide al bibliotecario una recomendación.
+3. Consigue el libro y comienza a leer.
 
 ## Desarrollo
-Visita la biblioteca de tu escuela o la biblioteca local y pídele al bibliotecario que te recomiende una novela en la cual el agua sea una importante característica. Por ejemplo, el río Mississippi (EE.UU.) juega un papel importante en Las Aventuras de Huckleberry Finn y el Distrito de los Lagos (GB) es el escenario de Las Golondrinas y las Amazonas. Escribe una reseña del libro enfocándote en la importancia o en el simbolismo del agua en la historia.
+1. **Lectura** (tiempo según el libro): Lee la novela elegida.
+2. **Reflexión** (20 min): Piensa en el papel del agua en la historia.
+3. **Escritura** (30 min): Escribe una reseña del libro.
+4. **Compartir** (10 min): Comparte tu reseña con el grupo.
 
 ## Cierre
-Reflexiona sobre cómo el agua inspira la literatura. Preguntas para discutir: ¿Qué simbolismo tiene el agua en la historia? ¿Cómo influye el agua en la trama?
+- ¿Qué papel juega el agua en la historia?
+- ¿Cómo influye el agua en los personajes?
+- ¿Qué simboliza el agua en el libro?
+
+---
+## Texto original completo de la actividad
+
+**A.14 AGUAS EN LITERATURA** Visita la biblioteca de tu escuela o la biblioteca local y pídele al bibliotecario que te recomiende una novela en la cual el agua sea una importante característica. Por ejemplo, el río Mississippi (EE.UU.) juega un papel importante en Las Aventuras de Huckleberry Finn y el Distrito de los Lagos (GB) es el escenario de Las Golondrinas y las Amazonas. Escribe una reseña del libro enfocándote en la importancia o en el simbolismo del agua en la historia.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

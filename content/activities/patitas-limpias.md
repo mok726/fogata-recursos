@@ -61,7 +61,6 @@ rama_lobatos:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:   
-  - comunidad
 activity_code: "COMUNIDAD-M01"
 
 # ========== ETIQUETAS GENERALES ==========

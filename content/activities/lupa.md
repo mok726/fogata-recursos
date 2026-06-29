@@ -1,118 +1,185 @@
 ---
 title: "Lupa"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lupa/"
-description: "Observa la vida microscópica en el agua."
-summary: "Observa la vida microscópica en el agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Observa la vida microscópica en un arroyo o estanque."
+summary: "Observación microscópica de agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/lupa.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+
+materials:
+  - Lupa o microscopio
+  - Frasco para muestra
+tools: []
 responsible:
+  - Docente o Scouter (supervisión)
+
 sdgs:
-  - 6
-  - 15
+  - 6  # Agua limpia y saneamiento
+  - 14 # Vida submarina
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - agua
-activity_code: "agua-X13"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 6
-  - 15
-rama_caminantes:
-  - 6
-  - 15
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine pond or stream, with a clear jar of water on a rock in the center-left. A magnifying glass or microscope next to it, and a notebook with drawings of microscopic organisms (paramecium, algae). The left side has open space for text. On the far right side, two tiny older scouts (11-15) kneel, one looking through the magnifying glass, the other sketching, seen from a distance. The aquatic microbiology environment dominates."
+activity_code: "agua-A13"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
   - microscopio
-  - microorganismos
-  - observación
-  - biodiversidad
-  - Insignia del Agua
-location: "Exterior / Interior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Investigación
-  - Ciencia
-category:
-  - Ciencia
-  - Biología
-  - Agua
-skills:
-  - Investigación
-  - Conciencia ambiental
-  - Observación
-main_type: "Investigación"
-space_required: "Exterior abierto + salón"
+  - lupa
+  - observacion
+  - vida-marina
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Exploración con microscopio
+reflective_component: 3  # Reflexión sobre vida microscópica
+active_component: 2  # Manipulación de materiales
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Exploración"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children using magnifying glasses and microscopes to observe tiny life in a water sample from a stream or pond dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, examining their samples and drawing what they see. Scientific discovery and curiosity atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Área con agua y salón con mesas"
 prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Observación
+  - Investigación
+  - Curiosidad científica
+
+activity_type:
+  - Exploración
+  - Investigación
+  - Aprender haciendo
+
+category:
+  - Agua
+  - Microscopio
+  - Vida acuática
+
+skills:
+  - Observación
+  - Investigación
+  - Dibujo
+
 scout_values:
+  - Curiosidad y apertura al aprendizaje
+  - Naturaleza
   - Superación personal
+
 scout_method:
   - Aprender haciendo
   - Vida en la Naturaleza y Aventura
-ludic_component: 3
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+
+rama_lobatos:
+  - 29  # Disfruto de descubrir la diversidad que existe en la naturaleza.
+  - 40  # Busco información en diferentes fuentes.
+
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+  - 47  # Busco información en diversas fuentes.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Lupa
+# ¡Lupa!
 
 ## Resumen
-Observa la vida microscópica en el agua.
+Observa la vida microscópica dentro de un arroyo o estanque usando una lupa o microscopio.
+
+## Preparación
+1. Encuentra un arroyo o estanque para tomar una muestra.
+2. Prepara la lupa o microscopio.
+3. Prepara papel para dibujar.
 
 ## Desarrollo
-Toma una muestra de agua de un arroyo o estanque y examínala bajo una lupa o un microscopio. Después, dibuja lo que viste. Devuelve el agua y las criaturas al arroyo o al estanque.
+1. **Muestra** (10 min): Toma una muestra de agua del arroyo.
+2. **Observación** (20 min): Examina la muestra bajo la lupa.
+3. **Dibujo** (10 min): Dibuja lo que ves.
+4. **Devolución** (5 min): Devuelve el agua y las criaturas al arroyo.
 
 ## Cierre
-Reflexiona sobre la diversidad de vida en el agua. Preguntas para discutir: ¿Qué organismos observaste? ¿Cómo contribuyen al ecosistema?
+- ¿Qué criaturas viste en el agua?
+- ¿Qué te sorprendió de lo que viste?
+- ¿Por qué es importante el agua para estos organismos?
+
+---
+## Texto original completo de la actividad
+
+**A.13 LUPA** Observa la vida dentro de un arroyo o un estanque. Toma una muestra de agua y examínala bajo una lupa o un microscopio. Después, dibuja lo que viste. Devuelve el agua y las criaturas al arroyo o al estanque.
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

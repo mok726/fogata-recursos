@@ -1,118 +1,190 @@
 ---
-title: "Planta de agua potable"
+title: "Planta de Agua Potable"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/planta-de-agua-potable/"
-description: "Visita una planta de tratamiento de agua local."
-summary: "Visita una planta de tratamiento de agua local."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Visita o investiga sobre la compañía local de suministro de agua potable."
+summary: "Investigación sobre el suministro de agua potable local."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/planta-de-agua-potable.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - rovers
+
+materials:
+  - Cuaderno
+  - Bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 11 # Ciudades y comunidades sostenibles
+
 activity_badges:
   - agua
-activity_code: "agua-X27"
-rama_lobatos:
-  - 24
-  - 26
-rama_scouts:
-  - 6
-  - 12
-rama_caminantes:
-  - 6
-  - 12
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine water treatment plant, with large tanks and pipes in the center-left. A sign showing the process: coagulation, sedimentation, filtration, disinfection. A civilian technician holding a water sample. The left side has open space for text. On the far right side, a group of tiny older scouts (14-17) stand, one taking a photo, another asking a question, seen from a distance. The water treatment plant visit environment dominates."
+activity_code: "agua-B05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - agua potable
-  - tratamiento
+  - potable
   - planta
-  - purificación
-  - AYSA
-  - Insignia del Agua
-location: "Interior / Exterior"
-participants: "5-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
+  - suministro
+  - investigacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Visita y exploración
+reflective_component: 3  # Reflexión sobre el suministro
+active_component: 3  # Desplazamiento
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 3  # Requiere coordinar visita
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A water treatment plant with pipes, tanks, and purification systems, with children learning about the process dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, listening and taking notes. Water infrastructure and public service learning atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Planta de agua potable o reunión con personal"
+prep_time: "30 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia sobre servicios públicos
+  - Comprensión de infraestructura
+
 activity_type:
   - Investigación
-  - Visita
+  - Aprender haciendo
+  - Exploración
+
 category:
   - Agua
-  - Ingeniería
-  - Salud
+  - Infraestructura
+  - Servicios
+
 skills:
   - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
-main_type: "Investigación"
-space_required: "Exterior abierto (planta de agua)"
-prep_time: "organizar visita con anticipación"
+  - Observación
+  - Comunicación
+
 scout_values:
-  - Autocuidado integral
-  - Superación personal
+  - Curiosidad y apertura al aprendizaje
+  - Responsabilidad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
   - Participación comunitaria y Servicio
-ludic_component: 2
-reflective_component: 5
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+
+rama_lobatos:
+  - 35  # Conozco diferentes profesiones y oficios.
+  - 40  # Busco información en diferentes fuentes.
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés.
+  - 44  # Asumo un rol de manera responsable.
+
+rama_caminantes:
+  - 36  # Trabajo en mi superación personal.
+  - 39  # Me informo sobre el mundo del trabajo.
+
+rama_rovers:
+  - 17  # Me responsabilizo por mi desarrollo personal.
+  - 18  # Desarrollo habilidades para el mundo laboral.
 ---
 
-# Planta de agua potable
+# ¡Planta de Agua Potable!
 
 ## Resumen
-Visita una planta de tratamiento de agua local.
+Identifica la compañía local de suministro de agua potable y aprende sobre su trabajo.
+
+## Preparación
+1. Investiga cuál es la compañía local de agua.
+2. Organiza una visita o reunión.
+3. Prepara preguntas para hacer.
 
 ## Desarrollo
-Identifica cuál es la compañía local de suministro de agua potable e infórmate sobre el tipo de trabajo que hace. Si es posible, organiza una visita a la planta o para hablar con un miembro del personal.
+1. **Investigación** (15 min): Identifica la compañía de agua local.
+2. **Visita** (30 min): Visita la planta o habla con un miembro del personal.
+3. **Reflexión** (10 min): Comparte lo que aprendiste con el grupo.
+4. **Discusión** (5 min): ¿Cómo afecta este trabajo a tu vida diaria?
 
 ## Cierre
-Reflexiona sobre el proceso de tratamiento del agua. Preguntas para discutir: ¿Qué aprendiste sobre el tratamiento del agua? ¿Cómo podemos garantizar que el agua sea segura para todos?
+- ¿Cómo funciona el suministro de agua en tu área?
+- ¿Qué personas trabajan para garantizar que tengas agua?
+- ¿Qué aprendiste sobre el tratamiento del agua?
+
+---
+## Texto original completo de la actividad
+
+**B.05 PLANTA DE AGUA POTABLE** Identifica cuál es la compañía local de suministro de agua potable e infórmate sobre el tipo de trabajo que hace. Si es posible, organízalo para realizar una visita a la planta o para hablar con un miembro del personal.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

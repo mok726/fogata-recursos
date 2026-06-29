@@ -1,126 +1,191 @@
 ---
-title: "Es difícil pasarse del H2O"
+title: "Es Difícil Pasarse del H₂O"
+duration: "1 día + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-dificil-pasarse-del-h2o/"
-description: |
-  Experimenta un día sin usar agua.
-  Actividad obligatoria para la categoría Usando el agua.
-summary: |
-  Experimenta un día sin usar agua.
-  Actividad obligatoria para la categoría Usando el agua.
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Experimenta un día sin usar agua para entender la realidad de quienes no tienen acceso."
+summary: "Desafío de un día sin usar agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/es-dificil-pasarse-del-h2o.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Ciudadanía y Conciencia Social
-  - Pensamiento Crítico y Análisis
+  - rovers
+
+materials:
+  - Diario
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 10 # Reducción de las desigualdades
+
 activity_badges:
   - agua
-activity_code: "agua-X24"
-rama_lobatos:
-  - 3
-  - 28
-rama_scouts:
-  - 3
-  - 6
-rama_caminantes:
-  - 3
-  - 6
-rama_rovers:
-  - 3
-  - 6
-image_prompt: "An Argentine home, with a kitchen sink and bathroom visible in the center-left. A sign on the wall 'Día sin agua - excepto beber'. A notebook with a list of difficulties (no lavarse las manos, no tirar la cadena). The left side has open space for text. On the far right side, a tiny older scout (11-15) sits at a table, drinking from a glass, looking at the sink but not using it, seen from a distance. The water scarcity simulation environment dominates."
+activity_code: "agua-B02"
 required: true
 required_for:
-  - agua-X
-required_comment: "Actividad obligatoria"
+  - agua-B
+required_comment: "Actividad obligatoria para la Sección B: Usando el Agua"
+required_category: "Usando el Agua"
+
 tags:
   - agua
-  - día sin agua
-  - escasez
-  - empatía
-  - conciencia
-  - Insignia del Agua (Obligatoria)
-location: "Interior"
-participants: "2-8"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+  - desafio
+  - empatia
+  - consumo
+  - reflexion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Desafío personal
+reflective_component: 5  # Muy reflexivo sobre el valor del agua
+active_component: 1  # Actividad de observación
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child going through a day without using water, realizing how difficult it is, with a diary documenting the experience dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing in their diary. Empathy and awareness atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior (hogar)"
+space_required: "Hogar del participante"
+prep_time: "10 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Empatía
+  - Reflexión
+  - Conciencia social
+
 activity_type:
   - Reflexión
-  - Desafío
+  - Sensibilización
+  - Aprender haciendo
+
 category:
   - Agua
-  - Conciencia
-  - Derechos humanos
+  - Acceso
+  - Emp
+
 skills:
-  - Conciencia ambiental
-  - Responsabilidad
-  - Pensamiento crítico
-main_type: "Reflexión"
-space_required: "Hogar (individual) + salón"
-prep_time: "15 min preparación + día de experiencia"
+  - Empatía
+  - Reflexión
+  - Comunicación
+
 scout_values:
-  - Respeto al prójimo
-  - Consumo consciente y Gratitud
+  - Solidaridad
+  - Justicia
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+rama_castores: []
+
+rama_lobatos:
+  - 19  # Realizo acciones solidarias para ayudar a las personas.
+  - 45  # Pido ayuda y también ayudo a los demás.
+
+rama_scouts:
+  - 18  # Valoro y respeto los Derechos Humanos.
+  - 24  # Identifico oportunidades para ayudar a alguien.
+
+rama_caminantes:
+  - 23  # Me involucro de forma empática y activa en acciones solidarias.
+  - 24  # Me preocupo por las personas y busco maneras de hacer una diferencia.
+
+rama_rovers:
+  - 27  # Me involucro en acciones comunitarias sostenibles.
+  - 28  # Valoro y promuevo la solidaridad y la empatía.
 ---
 
-# Es difícil pasarse del H2O
+# ¡Es Difícil Pasarse del H₂O!
 
 ## Resumen
-Experimenta un día sin usar agua.
-Actividad obligatoria para la categoría Usando el agua.
+Intenta pasar un día sin usar agua (excepto para beber) para entender lo que millones de personas enfrentan a diario.
+
+## Preparación
+- Asegúrate de tener agua para beber.
+- Prepara un diario para registrar tu experiencia.
+- Informa a tu familia sobre el desafío.
 
 ## Desarrollo
-Continúa bebiendo agua para que no te sientas mal, pero aparte de eso, mira si puedes evitar usar el agua durante todo un día. ¿Qué tan pronto esto se vuelve un inconveniente? Haz una lista de todas las formas en las que esto afecta tu vida. Piensa en los millones de personas que afrontan esta situación cada día. Prioriza las formas en las que utilizas el agua -¿en qué aspecto estarías dispuesto a reducir el uso de agua o a eliminar su uso por completo? Haz un compromiso para reducir tu uso de agua en un área clave. Analiza tu progreso luego de una semana. Renueva tu compromiso -¿Puedes continuar durante un mes? ¿Un año? ¿Para siempre?
+1. **Desafío** (1 día): Evita usar agua para todo excepto beber.
+2. **Registro** (durante el día): Anota cómo te afecta no tener agua.
+3. **Reflexión** (20 min): ¿Qué fue lo más difícil? ¿Qué extrañaste más?
+4. **Compromiso** (10 min): Elige un área clave para reducir tu uso de agua.
+5. **Seguimiento** (1 semana): Revisa tu progreso semanalmente.
 
 ## Cierre
-Reflexiona sobre la importancia del agua en tu vida diaria. Preguntas para discutir: ¿Qué actividades fueron más difíciles de realizar sin agua? ¿Cómo podemos valorar más este recurso?
+- ¿Cómo te sentiste al no poder usar agua?
+- ¿Qué fue lo que más extrañaste?
+- ¿Qué puedes hacer para ayudar a quienes no tienen acceso al agua?
+
+---
+## Texto original completo de la actividad
+
+**B.02 ES DIFÍCIL PASARSE DEL H₂O** Continúa bebiendo agua para que no te sientas mal, pero aparte de eso, mira si puedes evitar usar el agua durante todo un día. ¿Qué tan pronto esto se vuelve un inconveniente? Haz una lista de todas las formas en las que esto afecta tu vida. Piensa en los millones de personas que afrontan esta situación cada día. Prioriza las formas en las que utilizas el agua -¿en qué aspecto estarías dispuesto a reducir el uso de agua o a eliminar su uso por completo? Haz un compromiso para reducir tu uso de agua en un área clave. Analiza tu progreso luego de una semana. Renueva tu compromiso -¿Puedes continuar durante un mes? ¿Un año? ¿Para siempre?
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

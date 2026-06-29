@@ -1,122 +1,183 @@
 ---
-title: "Agua sin fronteras"
+title: "Agua sin Fronteras"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-sin-fronteras/"
-description: "Investiga los recursos hídricos transfronterizos."
-summary: "Investiga los recursos hídricos transfronterizos."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Aprende sobre las aguas transfronterizas y juega a ser mediador en un conflicto por el agua."
+summary: "Simulación de conflictos por aguas transfronterizas."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/agua-sin-fronteras.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-17"
+age: "16-22 años"
 age_group:
   - caminantes
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
+  - rovers
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 16 # Paz, justicia e instituciones sólidas
+
 activity_badges:
   - agua
-activity_code: "agua-X41"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 6
-  - 16
-rama_caminantes:
-  - 6
-  - 16
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a large map on the wall in the center-left showing transboundary rivers: Río de la Plata (Argentina-Uruguay), Amazon (multiple countries), Nile (11 countries). Role cards (Argentina, Uruguay, mediator) on a table. The left side has negative space for text. On the far right side, a group of tiny older scouts (14-17) sit in a circle, one holding a 'Argentina' card, another 'Uruguay', a third 'mediador', negotiating water sharing, seen from a distance. The transboundary water negotiation simulation environment dominates."
+activity_code: "agua-C08"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - aguas transfronterizas
-  - conflictos
-  - cooperación
-  - ríos compartidos
-  - diplomacia
-  - Insignia del Agua
-location: "Interior"
-participants: "8-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Auditiva
-  - -Cognitiva
-activity_type:
-  - Simulación
-  - Debate
-category:
-  - Política
-  - Agua
-  - Geografía
-skills:
-  - Investigación
-  - Conciencia ambiental
-  - Pensamiento crítico
-main_type: "Simulación"
-space_required: "Salón amplio"
-special_materials:
-  - tarjetas de roles
-  - datos de ríos compartidos
-  - acceso a internet
-prep_time: "30 min"
-scout_values:
-  - Hermandad
-scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 3
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - transfronteriza
+  - conflicto
+  - cooperacion
+  - simulacion
 
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Simulación de roles
+reflective_component: 5  # Muy reflexivo sobre cooperación
+active_component: 1  # Actividad de discusión
+
+complexity_execution: 3  # Requiere preparación de roles
+complexity_organizer: 3  # Requiere organización
+
+main_type: "Debate / Diálogo"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A diplomatic negotiation simulation about shared water resources between countries, with mediators and representatives dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, debating and negotiating. International cooperation and conflict resolution atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para la simulación"
+prep_time: "20 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Negociación
+  - Pensamiento crítico
+  - Conciencia global
+
+activity_type:
+  - Debate / Diálogo
+  - Reflexión
+  - Sensibilización
+
+category:
+  - Agua
+  - Transfronteriza
+  - Cooperación
+
+skills:
+  - Negociación
+  - Pensamiento crítico
+  - Comunicación
+
+scout_values:
+  - Paz y justicia
+  - Hermandad
+  - Responsabilidad
+
+scout_method:
+  - Participación comunitaria y Servicio
+  - Acompañamiento adulto / Protagonismo juvenil
+
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts: []
+
+rama_caminantes:
+  - 19  # Fomento ámbitos de participación democráticos.
+  - 21  # Cuestiono mis prejuicios y estereotipos.
+
+rama_rovers:
+  - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
+  - 26  # Valoro la diversidad y promuevo la inclusión.
 ---
 
-# Agua sin fronteras
+# ¡Agua sin Fronteras!
 
 ## Resumen
-Investiga los recursos hídricos transfronterizos.
+Aprende sobre las aguas transfronterizas y participa en una simulación sobre conflictos y cooperación por el agua.
+
+## Preparación
+1. Investiga sobre aguas transfronterizas.
+2. Divide al grupo en roles (países y mediadores).
+3. Prepara argumentos para tu rol.
 
 ## Desarrollo
-Aprende acerca de las aguas transfronterizas (recursos hídricos que son compartidos entre dos o más países). Familiarízate con el potencial, tanto de posibles conflictos como de cooperación, en situaciones como estas. Luego, divide a tu grupo para que sus miembros interpreten papeles diferentes: unos representarán a los países en conflicto por las aguas compartidas y un pequeño grupo interpretará a los mediadores, quienes intervendrán para fomentar la cooperación. ¿Fue fácil encontrar una solución? ¿Cuáles son algunos ejemplos de la vida real sobre países que han alcanzado esto?
+1. **Investigación** (20 min): Aprende sobre aguas compartidas y conflictos.
+2. **Simulación** (25 min): Representa una negociación entre países.
+3. **Análisis** (10 min): ¿Fue fácil encontrar una solución?
+4. **Reflexión** (5 min): ¿Qué ejemplos reales existen de cooperación?
 
 ## Cierre
-Reflexiona sobre la importancia de la cooperación en la gestión del agua. Preguntas para discutir: ¿Qué desafíos enfrentan los países que comparten agua? ¿Cómo podemos promover la cooperación?
+- ¿Qué desafíos presentan las aguas transfronterizas?
+- ¿Qué ejemplos de cooperación conoces?
+- ¿Cómo podemos promover la cooperación?
+
+---
+## Texto original completo de la actividad
+
+**C.08 AGUA SIN FRONTERAS** Aprende acerca de las aguas transfronterizas (recursos hídricos que son compartidos entre dos o más países). Familiarízate con el potencial, tanto de posibles conflictos como de cooperación, en situaciones como estas. Luego, divide a tu grupo para que sus miembros interpreten papeles diferentes: unos representarán a los países en conflicto por las aguas compartidas y un pequeño grupo interpretará a los mediadores, quienes intervendrán para fomentar la cooperación. ¿Fue fácil encontrar una solución? ¿Cuáles son algunos ejemplos de la vida real sobre países que han alcanzado esto?
+
+nivel 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

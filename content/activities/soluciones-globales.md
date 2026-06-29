@@ -1,137 +1,193 @@
 ---
-title: "Soluciones globales"
-duration: "1.5 horas"
+title: "Soluciones Globales"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/soluciones-globales/"
-description: "Actividad para investigar y experimentar con métodos de desalinización del agua."
-summary: "Actividad para investigar y experimentar con métodos de desalinización del agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Experimenta con la desalinización y aprende cómo diferentes países abordan la escasez de agua."
+summary: "Experimento de desalinización y soluciones globales."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/soluciones-globales.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Agua salada
-  - Materiales para desalinización (botellas
-  - plástico
-  - etc.)
-tools:
-  - Herramientas de laboratorio (opcional)
+  - Sal
+  - Agua
+  - Materiales para experimento
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 9  # Industria, innovación e infraestructura
+
 activity_badges:
   - agua
-activity_code: "agua-X49"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 6
-  - 13
-rama_caminantes:
-  - 6
-  - 13
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "A sunny Argentine outdoor area, with a simple solar desalination setup in the center-left: a bowl of salt water, a smaller cup inside, covered with plastic wrap with a small stone weighting the center. Fresh water droplets forming. The left side has open space for text. On the far right side, two tiny older scouts (14-21) kneel, one pointing at the condensation, the other at the fresh water cup, seen from a distance. The solar desalination experiment environment dominates."
-similar_activities:
-  - http://sciencelllustrated.com.au/solar-desalination
+activity_code: "agua-D08"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - desalinización
-  - agua salada
-  - solar
+  - desalinizacion
+  - soluciones
   - experimento
-  - tecnología
-  - Parche del Agua
-location: "Exterior / Interior"
-participants: "4-10"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Visual
-activity_type:
-  - Experimentación
-  - Ciencia
-category:
-  - Química
-  - Tecnología
-  - Agua
-skills:
-  - Investigación
-  - Conciencia tecnológica
-main_type: "Experimentación"
-space_required: "Exterior abierto (soleado)"
-special_materials:
-  - tazón
-  - vaso pequeño
-  - agua salada
-  - plástico transparente
-  - peso pequeño (piedra)
-prep_time: "15 min + tiempo de sol"
-scout_values:
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 1
-files:
-  - filepath: "http://sciencelllustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/"
-    caption: "Referencia"
-    icon: "open_in_new"
-  - filepath: "http://sciencelllustrated.com.au/solar-desalination"
-    caption: "Similares en la Web"
+  - medio-oriente
+
+link:
+  - url: "http://scienceillustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/"
+    caption: "Planta de desalinización solar (inglés)"
+    icon: "read_more"
+  - url: "http://www.ehowenespanol.com/construir-desalinizador-como_62257/"
+    caption: "Construir un desalinizador (español)"
     icon: "read_more"
 
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+files: []
 
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Experimento práctico
+reflective_component: 3  # Reflexión sobre soluciones
+active_component: 2  # Manipulación de materiales
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Experimentación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A solar desalination experiment with salt water, with a world map showing where desalination is used dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting the experiment. Global water solutions and technology learning atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para el experimento"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Experimentación
+  - Conciencia global
+  - Innovación
+
+activity_type:
+  - Experimentación
+  - Aprender haciendo
+  - Investigación
+
+category:
+  - Agua
+  - Desalinización
+  - Soluciones
+
+skills:
+  - Experimentación
+  - Observación
+  - Pensamiento crítico
+
+scout_values:
+  - Curiosidad y apertura al aprendizaje
+  - Naturaleza
+  - Superación personal
+
+scout_method:
+  - Aprender haciendo
+  - Progresión personal
+
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 41  # Experimento diferentes medios y tecnologías.
+  - 47  # Busco información en diversas fuentes.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades.
+  - 43  # Busco y evalúo el valor de diversas fuentes.
+
+rama_rovers:
+  - 7  # Aplico técnicas y tecnologías disponibles.
+  - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# Soluciones globales
+# ¡Soluciones Globales!
 
 ## Resumen
-Actividad para investigar y experimentar con métodos de desalinización del agua.
+Experimenta con la desalinización del agua salada y aprende cómo diferentes países abordan la escasez de agua.
+
+## Preparación
+1. Prepara agua salada.
+2. Reúne materiales para el experimento.
+3. Investiga sobre desalinización en diferentes países.
 
 ## Desarrollo
-Haz un poco de agua salada y trata de desalinizarla. Puedes intentar con estos métodos: http://sciencelllustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/ (en inglés).
+1. **Preparación** (10 min): Prepara el agua salada.
+2. **Experimento** (25 min): Prueba diferentes métodos de desalinización.
+3. **Investigación** (15 min): Investiga soluciones en diferentes países.
+4. **Comparación** (10 min): ¿Qué soluciones son más efectivas?
 
 ## Cierre
-Reflexiona sobre cómo la tecnología puede ayudar a resolver la escasez de agua en el mundo.
+- ¿Qué métodos de desalinización probaste?
+- ¿Qué países utilizan la desalinización?
+- ¿Qué otras soluciones existen para la escasez de agua?
+
+---
+## Texto original completo de la actividad
+
+**D.08 SOLUCIONES GLOBALES** Varios países están trabajando de distintas formas para incrementar su suministro de agua y usarlo de manera más eficiente. En muchos países del Medio Oriente, la desalinización ha demostrado ser una buena solución. Haz un poco de agua salada y trata de desalinizarla - puedes intentar con estos métodos: http://scienceillustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/(en inglés); www.buenastareas.com/ensayos/Desalar-Agua-De-Mar-De-Forma/2002208.html; http://www.ehowenespanol.com/construir-desalinizador-como_62257/ (en español), o puedes pensar en tus propias ideas.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -1,130 +1,196 @@
 ---
-title: "Ideas descabelladas"
-duration: "1 hora"
+title: "Ideas Descabelladas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-descabelladas/"
-description: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
-summary: "Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Diseña una idea innovadora para llevar agua limpia a las personas."
+summary: "Diseño innovador para acceso al agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/ideas-descabelladas.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
+  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Papel
-  - Lápices
-  - Materiales para prototipos (opcional)
-tools:
-  - Herramientas de diseño (opcional)
-competencies:
-  - Creatividad y Expresión
-  - Pensamiento Crítico y Análisis
+  - Materiales de arte y manualidades
+tools: []
 responsible:
-  - Líder de grupo
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+  - 9  # Industria, innovación e infraestructura
+
 activity_badges:
   - agua
-activity_code: "agua-X43"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 6
-  - 9
-rama_caminantes:
-  - 6
-  - 9
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a table in the center-left covered with sketches and simple prototypes of creative water solutions: fog harvesting nets, a solar-powered atmospheric water generator, a pedal-powered pump, a waterproof drone for water delivery. Cardboard and recycled materials. The left side has negative space for text. On the far right side, two tiny older scouts (14-21) sit, one holding a prototype, the other pointing at a sketch, seen from a distance. The water innovation brainstorming environment dominates."
+activity_code: "agua-D02"
+required: true
+required_for:
+  - agua-D
+required_comment: "Actividad obligatoria para la Sección D: El Agua para un Mundo Mejor"
+required_category: "El Agua para un Mundo Mejor"
+
 tags:
   - agua
-  - innovación
-  - agua limpia
-  - ideas
-  - prototipo
-  - solución
-  - Parche del Agua
+  - innovacion
+  - diseno
+  - soluciones
+  - creatividad
+
+link:
+  - url: "https://kids.nationalgeographic.com/kids/stories/peopleplaces/playpumps/"
+    caption: "PlayPumps - Bombas de agua lúdicas (inglés)"
+    icon: "read_more"
+  - url: "http://espafrigadget.wordpress.com/2006/06/04/playpumps-bombas-de-agua-ludicas/"
+    caption: "PlayPumps - Bombas de agua lúdicas (español)"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Diseño creativo muy divertido
+reflective_component: 3  # Reflexión sobre innovación
+active_component: 2  # Construcción manual
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 3  # Requiere materiales variados
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Innovative water solutions like PlayPumps and other creative designs for clean water access dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, designing and building models. Creative innovation and humanitarian design atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón con mesas para construir"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
-activity_type:
+
+accessibility: []
+
+competencies:
   - Creatividad
-  - Diseño
-category:
   - Innovación
+  - Resolución de problemas
+
+activity_type:
+  - Creatividad / Arte
+  - Aprender haciendo
+  - Planificación
+
+category:
   - Agua
-  - Tecnología
+  - Innovación
+  - Diseño
+
 skills:
   - Creatividad
   - Resolución de problemas
-main_type: "Creatividad"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices
-  - cartón
-  - materiales reciclados
-  - tijeras
-  - pegamento
-prep_time: "25 min"
+  - Trabajo en equipo
+
 scout_values:
+  - Creatividad e ingenio
   - Superación personal
+  - Solidaridad
+
 scout_method:
   - Aprender haciendo
-ludic_component: 4
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Sistema de equipos
 
+rama_castores: []
+
+rama_lobatos:
+  - 34  # Me enfrento a desafíos y encuentro soluciones creativas.
+  - 33  # Utilizo diferentes herramientas y busco soluciones.
+
+rama_scouts:
+  - 41  # Experimento diferentes medios y tecnologías.
+  - 42  # Aplico mi conocimiento y habilidades para resolver desafíos.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades.
+  - 38  # Afronto creativamente los desafíos.
+
+rama_rovers:
+  - 6  # Exploro mis intereses vocacionales.
+  - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# Ideas descabelladas
+# ¡Ideas Descabelladas!
 
 ## Resumen
-Actividad para fomentar la creatividad y proponer soluciones innovadoras para llevar agua limpia a las personas.
+Diseña una idea innovadora para llevar agua limpia a las personas, inspirado en ejemplos como PlayPumps.
+
+## Preparación
+1. Investiga sobre soluciones innovadoras para el agua.
+2. Reúne materiales de arte y manualidades.
+3. Deja volar tu imaginación.
 
 ## Desarrollo
-Deja correr libre a tu imaginación y piensa en tu propia idea para llevar agua limpia a las personas. ¿Algunas de sus ideas son realizables? Elijan uno (o más) de los mejores diseños y traten de hacerlo realidad.
+1. **Inspiración** (15 min): Investiga ejemplos como PlayPumps.
+2. **Diseño** (15 min): Dibuja tu idea para llevar agua limpia.
+3. **Construcción** (25 min): Construye un modelo de tu diseño.
+4. **Presentación** (5 min): Explica tu idea al grupo.
 
 ## Cierre
-Reflexiona sobre cómo la innovación puede resolver problemas globales relacionados con el agua.
+- ¿Qué te inspiró para tu diseño?
+- ¿Es realizable tu idea?
+- ¿Cómo podría ayudar a las personas?
+
+---
+## Texto original completo de la actividad
+
+**D.02 IDEAS DESCABELLADAS** Muchas personas han ideado formas innovadoras de tratar los problemas del agua. Por ejemplo, échale un vistazo a PlayPumps, ¡un divertido carrusel que bombea agua limpia! (kids.nationalgeographic.com/kids/stories/peopleplaces/playpumps/ [en inglés]; http://espafrigadget.wordpress.com/2006/06/04/playpumps-bombas-de-agua-ludicas/ [en español]). Ahora, deja correr libre a tu imaginación y piensa en tu propia idea para llevar agua limpia a las personas. ¿Algunas de sus ideas son realizables? Elijan uno (o más) de los mejores diseños y traten de hacerlo realidad.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

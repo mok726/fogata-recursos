@@ -1,119 +1,191 @@
 ---
-title: "Alimentos sedientos"
+title: "Alimentos Sedientos"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-sedientos/"
 description: "Investiga cuánta agua se necesita para producir diferentes alimentos."
-summary: "Investiga cuánta agua se necesita para producir diferentes alimentos."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+summary: "Huella hídrica de los alimentos."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/alimentos-sedientos.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Pensamiento Crítico y Análisis
-  - Ciudadanía y Conciencia Social
+  - rovers
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
-  - 12
+  - 2  # Hambre cero
+  - 6  # Agua limpia y saneamiento
+  - 12 # Producción y consumo responsables
+
 activity_badges:
   - agua
-activity_code: "agua-X26"
-rama_lobatos:
-  - 1
-  - 24
-rama_scouts:
-  - 2
-  - 6
-rama_caminantes:
-  - 2
-  - 6
-rama_rovers:
-  - 4
-  - 6
-image_prompt: "An Argentine scout room, with a table in the center-left showing food items with water footprint labels: beef (15,000 L/kg), pork (6,000), chicken (4,300), vegetables (300), coffee (18,900). A week-long food diary and a calculator. The left side has negative space for text. On the far right side, two tiny older scouts (11-15) sit, one pointing at the beef, the other at the vegetables, seen from a distance. The food water footprint analysis environment dominates."
+activity_code: "agua-B04"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - agua virtual
   - alimentos
-  - huella hídrica
-  - carne
-  - vegetales
-  - Insignia del Agua
+  - huella-hidrica
+  - consumo
+  - nutricion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Investigación y comparación
+reflective_component: 4  # Reflexión sobre hábitos alimenticios
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Different foods with water drops showing how much water is needed to produce them - vegetables, grains, meat - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and comparing. Food water footprint and sustainable eating atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia alimentaria
+  - Pensamiento crítico
+
 activity_type:
   - Investigación
   - Reflexión
+  - Sensibilización
+
 category:
-  - Alimentación
   - Agua
-  - Consumo
+  - Alimentos
+  - Huella hídrica
+
 skills:
-  - Conciencia ambiental
-  - Pensamiento crítico
-  - Responsabilidad
-main_type: "Investigación"
-space_required: "Salón amplio"
-prep_time: "20 min + seguimiento semanal"
+  - Investigación
+  - Análisis
+  - Comunicación
+
 scout_values:
-  - Autocuidado integral
-  - Consumo consciente y Gratitud
+  - Responsabilidad
+  - Sencillez y Austeridad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos:
+  - 1  # Elijo alimentos que me ayudan a crecer.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable.
+
+rama_scouts:
+  - 2  # Entiendo la importancia de alimentarme de forma saludable.
+  - 31 # Reconozco mi impacto en el ambiente.
+
+rama_caminantes:
+  - 1  # Adopto y promuevo hábitos de alimentación saludables.
+  - 29 # Adopto un estilo de vida responsable.
+
+rama_rovers:
+  - 1  # Sostengo y promuevo hábitos de alimentación saludables.
+  - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# Alimentos sedientos
+# ¡Alimentos Sedientos!
 
 ## Resumen
-Investiga cuánta agua se necesita para producir diferentes alimentos.
+Investiga cuánta agua se necesita para producir diferentes alimentos y conviértete en un comensal más 'amigo del agua'.
+
+## Preparación
+1. Investiga sobre la huella hídrica de los alimentos.
+2. Prepara materiales para tomar notas.
+3. Monitorea tus hábitos alimenticios durante una semana.
 
 ## Desarrollo
-Averigua qué alimentos requieren la mayor cantidad de agua en su producción. ¿Cuánta agua se necesita para producirlos? Compáralos con alimentos que requieren menos agua. Luego, monitorea tus hábitos alimenticios durante una semana para descubrir qué alimentos comes más. Compara los resultados con tus amigos. ¿Quién es el comensal más “amigo del agua”? Haz un compromiso para cambiar una cosa y transformarte en un comensal más pro-agua, por ejemplo comer menos carne, y revisa tu progreso regularmente.
+1. **Investigación** (20 min): Averigua cuánta agua requieren diferentes alimentos.
+2. **Comparación** (15 min): Compara alimentos que requieren mucha vs poca agua.
+3. **Monitoreo** (20 min): Monitorea tus hábitos alimenticios.
+4. **Compromiso** (5 min): Haz un compromiso para comer más "amigo del agua".
 
 ## Cierre
-Reflexiona sobre el impacto de tus elecciones alimenticias en el consumo de agua. Preguntas para discutir: ¿Qué alimentos consumen más agua? ¿Cómo puedes reducir tu huella hídrica?
+- ¿Qué alimentos requieren más agua?
+- ¿Cómo puedes cambiar tu dieta para ahorrar agua?
+- ¿Qué fue lo que más te sorprendió?
+
+---
+## Texto original completo de la actividad
+
+**B.04 ALIMENTOS SEDIENTOS** Averigua qué alimentos requieren la mayor cantidad de agua en su producción. ¿Cuánta agua se necesita para producirlos? Compáralos con alimentos que requieren menos agua. Luego, monitorea tus hábitos alimenticios durante una semana para descubrir qué alimentos comes más. Compara los resultados con tus amigos. ¿Quién es el comensal más 'amigo del agua'? Haz un compromiso para cambiar una cosa y transformarte en un comensal más pro-agua, por ejemplo comer menos carne, y revisa tu progreso regularmente.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

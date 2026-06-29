@@ -1,123 +1,175 @@
 ---
-title: "Mímica de agua"
+title: "Mímica de Agua"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/mimica-de-agua/"
 description: "Juego de mímica con palabras relacionadas con el agua."
-summary: "Juego de mímica con palabras relacionadas con el agua."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+summary: "Juego de mímica sobre el agua."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Agua
+
 image: "/imagenes/actividades/mimica-de-agua.png"
+original: false
+Origin: "Insignia del Agua - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-10"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-competencies:
-  - Creatividad y Expresión
-  - Trabajo en Equipo y Colaboración
-  - Comunicación Efectiva
+
+materials:
+  - Cartas
+  - Bolígrafos
+tools: []
 responsible:
+  - Docente o Scouter
+
 sdgs:
-  - 6
+  - 6  # Agua limpia y saneamiento
+
 activity_badges:
   - agua
-activity_code: "agua-X04"
-rama_lobatos:
-  - 9
-  - 47
-rama_scouts:
-  - 4
-  - 53
-rama_caminantes:
-  - 4
-  - 49
-rama_rovers:
-  - 4
-  - 30
-image_prompt: "An Argentine scout room, with a hat full of water-related word cards on a table in the center-left (evaporación, condensación, acuífero, saneamiento, salado, lodoso). A whiteboard for scores. The left side has space for text. On the far right side, a group of tiny young scouts (5-10) sit, one acting out 'sed' (thirst), another guessing, seen from a distance. The water charades environment dominates."
+activity_code: "agua-A04"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - agua
-  - mímica
-  - palabras
+  - mimica
   - juego
-  - actuación
-  - Insignia del Agua
+  - palabras
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia del Agua"
+    author: "FAO"
+    year: 2013
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2013"
+    role: "fuente y titular de los derechos de autor"
+    year: 2013
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Juego de mímica muy divertido
+reflective_component: 1  # Sin reflexión
+active_component: 3  # Movimiento corporal
+
+complexity_execution: 1  # Muy sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Juego"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children playing a charades game with water-related words, acting out words dramatically dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, laughing and acting. Fun and active learning atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-  - -Movilidad
+space_required: "Salón para jugar"
+prep_time: "15 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Creatividad
+  - Trabajo en equipo
+  - Comunicación no verbal
+
 activity_type:
   - Juego
-  - Charadas
+  - Aprender jugando
+  - Creatividad / Arte
+
 category:
-  - Educación
   - Agua
   - Juego
+  - Comunicación
+
 skills:
   - Creatividad
   - Trabajo en equipo
   - Comunicación
-main_type: "Juego"
-space_required: "Salón amplio"
-special_materials:
-  - tarjetas
-  - lápices
-  - marcadores
-prep_time: "15 min"
+
 scout_values:
-  - Resiliencia y Alegría
-  - Superación personal
+  - Optimismo y Alegría
+  - Creatividad e ingenio
+  - Hermandad
+
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 5
-reflective_component: 2
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Marco simbólico
 
+rama_castores: []
+
+rama_lobatos:
+  - 46  # Expreso mis ideas de forma clara y amable.
+  - 47  # Expreso mis emociones a través de diversos medios artísticos.
+
+rama_scouts: []
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Mímica de agua
+# ¡Mímica de Agua!
 
 ## Resumen
-Juego de mímica con palabras relacionadas con el agua.
+Crea un set de cartas con palabras relacionadas con el agua y juega a la mímica con tu grupo.
+
+## Preparación
+1. Piensa en palabras relacionadas con el agua.
+2. Escribe cada palabra en una carta.
 
 ## Desarrollo
-En grupo, creen un set de cartas, cada una con una palabra relacionada con el agua, como ‘saneamiento’, ‘salado’ y ‘lodoso’. ¡Sean tan creativos como sea posible! Luego, mezclen todas las cartas y divídanse en equipos. Jueguen un juego de mímica, donde cada persona debe actuar la palabra que lee en su carta, mientras su equipo debe adivinar qué palabra es.
+1. **Creación** (15 min): Crea las cartas con palabras sobre el agua.
+2. **Juego** (15 min): Mezcla las cartas y divide en equipos.
+3. **Actuación**: Cada persona actúa la palabra mientras su equipo adivina.
 
 ## Cierre
-Reflexiona sobre la importancia del agua en diferentes contextos. Preguntas para discutir: ¿Qué palabras fueron más difíciles de representar? ¿Qué aprendiste sobre el agua?
+- ¿Qué palabra fue la más difícil de actuar?
+- ¿Cuál fue la más divertida?
+- ¿Qué aprendiste sobre el agua con este juego?
+
+---
+## Texto original completo de la actividad
+
+**A.04 MÍMICA DE AGUA** En grupo, creen un set de cartas, cada una con una palabra relacionada con el agua, como 'saneamiento', 'salado' y 'lodoso'. ¡Sean tan creativos como sea posible! Luego, mezclen todas las cartas y divídanse en equipos. Jueguen un juego de mímica, donde cada persona debe actuar la palabra que lee en su carta, mientras su equipo debe adivinar qué palabra es.
+
+nivel 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante
