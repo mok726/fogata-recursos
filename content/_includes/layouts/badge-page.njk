@@ -78,24 +78,7 @@ layout: layouts/base.njk
 
 
 
-{% set preparedActivities =
 
-collections.activities
-
-| activityFlags({
-    badge: badge.id,
-    sections: badge.sections
-})
-
-| activityQuery({
-    badge: badge.id
-})
-
-| activitySort("activity_code")
-
-%}
-
-{% set activityCount = preparedActivities.length %}
 
 
 
@@ -168,7 +151,7 @@ collections.activities
     <div class="badge-stats">
 
       <span class="chip">
-        🌲 {{ activityCount }} ({{ badgeView.stats.total }})  actividades
+        🌲 {{ badgeView.stats.total }}  actividades
       </span>
 
       <span class="chip">
@@ -503,7 +486,7 @@ collections.activities
     <div class="activities-intro-count">
 
       <span>
-        {{ activityCount }}
+        {{ badgeView.stats.total }}
       </span>
 
       <small>
