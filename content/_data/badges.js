@@ -1029,16 +1029,22 @@ sections: {
 },
 sections: {
   A: {
+    title: "Nuestro Aire",
+    description: "REALIZA LA PRIMERA O LA SEGUNDA ACTIVIDAD DE ESTA SECCI ^sN Y OTRA ACTIVIDAD DE TU ELECCI ^sN. <br> LUEGO DE COMPLETAR LAS ACTIVIDADES SOBRE EL AIRE SERÁS CAPAZ DE: <br> * CONOCER y apreciar las especies de tu vecindario que viven en el aire. <br> * OBSERVAR y aprender acerca de la biodiversidad al explorar la naturaleza a tu alrededor."
+
+
+  },
+  B: {
     title: "Nuestra Agua",
     description: "REALIZA LA PRIMERA O LA SEGUNDA ACTIVIDAD DE ESTA SECCIÓN Y OTRA ACTIVIDAD DE TU ELECCIÓN. <br> LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES SOBRE EL AGUA SERÁS CAPAZ DE: <br>* CONOCER y apreciar las especies y los ecosistemas de tu área que dependen del agua. <br>* TOMAR acciones para ayudar a despertar conciencia o para proteger la biodiversidad relacionada con el agua"
 
   },
-  B: {
+  C: {
     title: "Nuestra Tierra",
     description: "REALIZA LA PRIMERA ACTIVIDAD Y OTRA ACTIVIDAD DE TU ELECCIÓN.<br> LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES SOBRE LA TIERRA SERÁS CAPAZ DE: <br>* CONOCER y apreciar las especies y los ecosistemas terrestres de tu área. <br>* DESCRIBIR algunos de los usos de la biodiversidad"
 
   },
-  C: {
+  D: {
     title: "Nuestro Mundo",
     description: "REALIZA LA PRIMERA ACTIVIDAD DE ESTA SECCIÓN Y OTRA ACTIVIDAD DE TU ELECCIÓN.<br> LUEGO DE COMPLETAR NUESTRAS ACTIVIDADES SOBRE EL MUNDO SERÁS CAPAZ DE: <br>* DESCRIBIR los tres componentes de la biodiversidad: genes, especies y ecosistemas. <br>* ENUMERAR algunas amenazas a la biodiversidad. <br>* TOMAR acción para proteger la biodiversidad y compartir tus esfuerzos con otras personas."
 
@@ -1052,7 +1058,78 @@ sections: {
           type: "pdf",
           image: "https://www.fao.org/typo3temp/pics/ea600db29b.jpg"
         }
-      ]
+      ],
+
+
+  "sitios_web": [
+    {
+      "nombre": "Bioversity International",
+      "descripcion": "Posee muchos recursos sobre biodiversidad agrícola.",
+      "url": "https://www.bioversityinternational.org"
+    },
+    {
+      "nombre": "BirdLife International",
+      "descripcion": "Aprende sobre las aves, sus hábitats, la biodiversidad mundial y ejemplos de proyectos de conservación.",
+      "url": "https://www.birdlife.org"
+    },
+    {
+      "nombre": "Convenio sobre la Diversidad Biológica (CBD) - Páginas para la juventud",
+      "descripcion": "Contiene información acerca del CBD y la biodiversidad, con muchas actividades y recursos para los jóvenes.",
+      "url": "https://www.cbd.int/youth"
+    },
+    {
+      "nombre": "Enciclopedia de la Vida (EOL)",
+      "descripcion": "Una referencia y base de datos en línea de todas las especies conocidas por la ciencia.",
+      "url": "https://www.eol.org"
+    },
+    {
+      "nombre": "FAO - Portal sobre el Cambio Climático, la Niñez y la Juventud",
+      "descripcion": "Contiene actividades, recursos, eventos, competencias y proyectos relacionados con la biodiversidad, el cambio climático y otros aspectos que conciernen a la juventud.",
+      "url": "https://www.fao.org/climatechange/youth/es"
+    },
+    {
+      "nombre": "La Ola Verde (Green Wave)",
+      "descripcion": "Tu puerta de entrada a un emocionante proyecto para jóvenes sobre la biodiversidad. Contiene muchos recursos e historias sobre cómo la juventud alrededor del mundo está celebrando la biodiversidad.",
+      "url": "http://greenwave.cbd.int/es/node/602"
+    },
+    {
+      "nombre": "Royal Society for the Protection of Birds (RSPB) - Wildlife Explorers",
+      "descripcion": "Excelente programa para niños con recursos y actividades sobre vida silvestre.",
+      "url": "https://www.rspb.org.uk/youth"
+    },
+    {
+      "nombre": "TUNZA - Programa para niños y jóvenes (PNUMA)",
+      "descripcion": "Contiene actividades y campañas, así como publicaciones y recursos multimedia.",
+      "url": "https://www.unep.org/tunza"
+    },
+    {
+      "nombre": "CyberSchoolBus - Naciones Unidas",
+      "descripcion": "Enseñanza y aprendizaje que cubre temas como la paz, los derechos humanos, el medio ambiente, la salud y los océanos.",
+      "url": "https://www.cyberschoolbus.un.org/spanish/index.asp"
+    },
+    {
+      "nombre": "WorldBirds - BirdLife International",
+      "descripcion": "Tu punto de entrada a un increíble proyecto científico popular sobre aves.",
+      "url": "https://www.worldbirds.org"
+    },
+    {
+      "nombre": "AMGS - Asociación Mundial de las Guías Scouts",
+      "descripcion": "Contiene muchos recursos y noticias sobre aspectos medio ambientales como la insignia 'Juntos podemos cambiar nuestro mundo' sobre los Objetivos de Desarrollo del Milenio.",
+      "url": "https://www.wagggsworld.org/es/home"
+    },
+    {
+      "nombre": "WWF - Fondo Mundial para la Naturaleza",
+      "descripcion": "Te lleva de los conceptos básicos sobre la biodiversidad hasta la problemática de la tierra, el cambio climático y la pesquería.",
+      "url": "https://www.biodiversity911.org/default.html"
+    },
+    {
+      "nombre": "YUNGA - Alianza Mundial de la Juventud de las Naciones Unidas",
+      "descripcion": "Consulta las demás insignias y actividades disponibles.",
+      "url": "https://www.yunga.org"
+    }
+  ]
+
+
     },
 
     {
