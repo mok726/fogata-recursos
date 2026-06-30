@@ -15,7 +15,7 @@ source:
 
 # ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/contacta-a-los-tomadores-de-decisiones.png"
-original: false
+original: "False"
 Origin: "Insignia de los Bosques - FAO"
 version: "DRAFT"
 
@@ -44,6 +44,9 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-E11"
+alternative_codes:
+  - suelos-E11
+  - cambioclimatico-E20
 required: false
 required_for: []
 required_comment: ""

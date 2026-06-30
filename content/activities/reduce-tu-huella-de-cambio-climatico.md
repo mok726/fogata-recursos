@@ -1,128 +1,183 @@
 ---
 title: "Reduce tu huella de cambio climático"
-duration: "1 mes"
+duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduce-tu-huella-de-cambio-climatico/"
-description: |
-  Esta actividad es obligatoria para la categoría Nuestro Clima.
-  Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente. Haz una lista de formas para reducir tu impacto y sigue un plan durante un mes.
-summary: |
-  Esta actividad es obligatoria para la categoría Nuestro Clima.
-  Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente. Haz una lista de formas para reducir tu impacto y sigue un plan durante un mes.
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Reflexiona sobre tu impacto ambiental y haz un plan para reducirlo."
+summary: "Plan de reducción de huella de carbono."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+  - WAGGGS
+source:
+  - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
+
 image: "/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.png"
+original: false
+Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "16-22 años"
 age_group:
   - caminantes
   - rovers
+
 materials:
-  - Papel y lápiz para hacer la lista
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Planificación y Organización
-  - Comunicación Efectiva
+  - Papel y bolígrafos
+  - Acceso a internet (opcional)
+tools: []
 responsible:
-  - Responsable del grupo Scout
+  - Docente o Scouter
+
 sdgs:
-  - 12
-  - 13
+  - 12 # Producción y consumo responsables
+  - 13 # Acción por el clima
+
 activity_badges:
   - sacc
-activity_code: "sacc-X35"
-rama_lobatos:
-  - 24
-  - 28
-rama_scouts:
-  - 12
-  - 13
-rama_caminantes:
-  - 12
-  - 13
-rama_rovers:
-  - 4
-  - 12
-image_prompt: "An Argentine scout room, with a laptop on a table in the center-left displaying a carbon footprint calculator. A notebook with a list of reduction strategies: diet, transport, energy, consumption. A chart showing estimated reduction percentages. The left side has space for text. On the far right side, a tiny older scout (16-20) sits, typing on the laptop, another reads the notebook, seen from a distance. The carbon footprint calculation environment dominates."
+activity_code: "sacc-A02"
+required: true
+required_for:
+  - sacc-A
+required_comment: "Actividad obligatoria para la Sección A: Nuestro Clima (Nivel 3)"
+required_category: "Nuestro Clima"
+
 tags:
   - sacc
-  - huella de carbono
-  - impacto ambiental
-  - reducción
+  - huella-carbono
+  - impacto-ambiental
   - plan
-  - sostenibilidad
-  - Insignia de Seguridad Alimentaria y Cambio Climático
+  - energia
+  - agua
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de la Seguridad Alimentaria y el Cambio Climático"
+    author: "FAO"
+    year: 2010
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2010"
+    role: "fuente y titular de los derechos de autor"
+    year: 2010
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Reflexión y planificación
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de planificación
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Young people reflecting on their carbon footprint and making a plan to reduce their environmental impact dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, calculating their footprint. Environmental responsibility and sustainable lifestyle atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón para reflexionar y planificar"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+
+accessibility: []
+
+competencies:
+  - Reflexión
+  - Planificación
+  - Conciencia ambiental
+
 activity_type:
   - Reflexión
   - Planificación
+  - Sensibilización
+
 category:
-  - Clima
-  - Consumo
+  - Huella de carbono
   - Energía
+  - Agua
+
 skills:
-  - Conciencia ambiental
-  - Planificación y organización
-  - Comunicación
-main_type: "Reflexión"
-space_required: "Salón amplio"
-prep_time: "20 min + seguimiento 1 mes"
+  - Planificación
+  - Análisis
+  - Reflexión
+
 scout_values:
   - Responsabilidad
-  - Superación personal
+  - Sencillez y Austeridad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Ley y Promesa
 
+rama_castores: []
+rama_lobatos: []
+rama_scouts: []
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible.
+  - 44  # Planifico y administro responsablemente mis recursos.
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# Reduce tu huella de cambio climático
+# ¡Reduce tu huella de cambio climático!
 
 ## Resumen
-Esta actividad es obligatoria para la categoría Nuestro Clima.
-Reflexiona sobre cómo tu vida diaria impacta en el medio ambiente. Haz una lista de formas para reducir tu impacto y sigue un plan durante un mes.
+Reflexiona sobre cómo tu vida diaria impacta el medio ambiente y haz un plan para reducirlo.
+
+## Preparación
+1. Reflexiona sobre tu consumo de energía, agua y recursos.
+2. Prepara papel y bolígrafos.
+3. Accede a calculadores en línea si es posible.
 
 ## Desarrollo
-Reflexiona cómo tu vida diaria tiene un impacto en tu medio ambiente. ¿Cuánta energía, agua y recursos se necesitan para elaborar las cosas que comes, vistes y usas? Haz una lista de las formas cómo puedes reducir el impacto que produces y la energía que usas. Haz un plan y síguelo durante un mes. Luego comparte tu experiencia con tus amigos, tu clase o tu grupo y aliéntalos a seguir tu ejemplo. ¿Cuánto lograste reducir tu impacto? ¿En qué aspectos se te hace más difícil mejorar?
+1. **Reflexión** (15 min): ¿Cuánta energía, agua y recursos usas?
+2. **Lista** (15 min): Haz una lista de formas de reducir tu impacto.
+3. **Plan** (15 min): Crea un plan y síguelo durante un mes.
+4. **Evaluación** (15 min): ¿Cuánto lograste reducir tu impacto?
 
 ## Cierre
-Reflexiona sobre cómo reducir tu huella de carbono puede contribuir a un futuro más sostenible. ¿Qué cambios fueron más difíciles de implementar?
+- ¿Cuánto lograste reducir tu impacto?
+- ¿En qué aspectos te fue más difícil mejorar?
+- ¿Qué aprendiste sobre tu estilo de vida?
+
+---
+## Texto original completo de la actividad
+
+**A.02 Reduce tu huella de cambio climático**
+Reflexiona cómo tu vida diaria tiene un impacto en tu medio ambiente. ¿Cuánta energía, agua y recursos se necesitan para elaborar las cosas que comes, vistes y usas? Haz una lista de las formas cómo puedes reducir el impacto que produces y la energía que usas. Haz un plan y síguelo durante un mes. Luego comparte tu experiencia con tus amigos, tu clase o tu grupo y aliéntalos a seguir tu ejemplo. ¿Cuánto lograste reducir tu impacto? ¿En qué aspectos se te hace más difícil mejorar?
+
+NIVEL 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

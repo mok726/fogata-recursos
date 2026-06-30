@@ -1,127 +1,179 @@
 ---
 title: "Gráficos del Suelo"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/graficos-del-suelo/"
-description: "Crea una tira cómica sobre un superhéroe que protege el suelo."
-summary: "Crea una tira cómica sobre un superhéroe que protege el suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea una tira cómica sobre un superhéroe que salva al suelo."
+summary: "Tira cómica sobre protección del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/graficos-del-suelo.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+
 materials:
   - Papel
-  - Lápices
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+  - Lápices de colores
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 4  # Educación de calidad
+
 activity_badges:
   - suelos
-activity_code: "suelos-X34"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 35
-  - 40
-rama_caminantes:
-  - 31
-  - 36
-rama_rovers:
-  - 17
-  - 32
-image_prompt: "A scout meeting room in Argentina, with a table covered with paper and markers. In the center-left, a finished comic strip showing a superhero (Captain Soil) fighting an erosion monster and a pollution villain. Colorful panels with action scenes. The left side has space for text. On the far right side, tiny young scouts (5-15) sit at the table, one drawing a panel, another coloring, seen from a distance. The creative comic-drawing environment dominates."
+activity_code: "suelos-C05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - cómic
-  - superhéroe
-  - suelo
-  - contaminación
-  - erosión
-  - Insignia de los Suelos
+  - comic
+  - superheroe
+  - creatividad
+  - proteccion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Creación de cómic
+reflective_component: 3  # Reflexión sobre amenazas
+active_component: 1  # Actividad de dibujo
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A comic strip about a superhero saving the soil from threats like climate change and construction, with creative characters dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, drawing comics. Creative storytelling and environmental advocacy atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 1
-accessibility:
-  - -Visual
-activity_type:
+space_required: "Salón con mesas para dibujar"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Creatividad
-  - Arte
-  - Reflexión
+  - Expresión artística
+  - Conciencia ambiental
+
+activity_type:
+  - Creatividad / Arte
+  - Juego
+  - Sensibilización
+
 category:
-  - Arte
-  - Literatura
-  - Medio ambiente
+  - Suelo
+  - Cómic
+  - Superhéroe
+
 skills:
   - Creatividad
-  - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices de colores
-  - marcadores
-prep_time: "10 min"
-scout_values:
-  - Naturaleza
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 4
-reflective_component: 2
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Dibujo
+  - Comunicación visual
 
+scout_values:
+  - Creatividad e ingenio
+  - Naturaleza
+  - Optimismo y Alegría
+
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos:
+  - 47  # Expreso mis emociones a través de medios artísticos.
+  - 46  # Expreso mis ideas de forma clara y amable.
+rama_scouts:
+  - 53  # Participo de manifestaciones artísticas.
+  - 52  # Desarrollo habilidades para comunicarme.
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Gráficos del Suelo
+# ¡Gráficos del Suelo!
 
 ## Resumen
-Crea una tira cómica sobre un superhéroe que protege el suelo.
+Crea una tira cómica sobre un superhéroe que salva al suelo de una amenaza.
+
+## Preparación
+- Piensa en una amenaza para el suelo (cambio climático, construcción, contaminación).
+- Elige un superhéroe (puede ser una bacteria o un hongo).
 
 ## Desarrollo
-Inventa un superhéroe que lucha contra problemas como la contaminación o la erosión del suelo. Crea una tira cómica con su historia.
+1. **Creación** (35 min): Dibuja tu tira cómica.
+2. **Compartir** (15 min): Muestra tu cómic al grupo.
+3. **Envío** (10 min): Envía tu cómic a yunga@fao.org.
 
 ## Cierre
-Comparte la tira cómica con el grupo y reflexiona sobre cómo podemos ser superhéroes del suelo.
+- ¿Qué amenaza elegiste?
+- ¿Cómo salva el superhéroe al suelo?
+- ¿Qué mensaje quieres transmitir?
+
+---
+## Texto original completo de la actividad
+
+**C.05 GRÁFICOS DEL SUELO** Crea una tira cómica sobre el suelo en un lugar imaginario que está en riesgo debido a un problema particular (por ej. el cambio climático o la construcción). Inventa un superhéroe que salve al suelo de una forma única. Tu superhéroe no tiene que ser humano; él/ella podría incluso ser una bacteria o un hongo. ¡Haz a tus personajes tan descabellados como sea posible! Luego, pasen las tiras cómicas por toda la clase o grupo y disfruten. ¡No olviden también enviarlas por correo electrónico a yunga@fao.org!
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

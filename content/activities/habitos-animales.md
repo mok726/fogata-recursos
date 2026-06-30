@@ -1,120 +1,190 @@
 ---
 title: "Hábitos Animales"
-duration: "1-2 horas"
+duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/habitos-animales/"
-description: "Observa cómo los animales interactúan con el suelo en un zoológico o parque."
-summary: "Observa cómo los animales interactúan con el suelo en un zoológico o parque."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Observa cómo los animales interactúan con el suelo y presenta tus hallazgos."
+summary: "Observación de animales y suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/habitos-animales.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
-competencies:
-  - Ciencia y Matemáticas
-  - Sostenibilidad y Medio Ambiente
+  - caminantes
+  - rovers
+
+materials:
+  - Cuaderno y bolígrafos
+  - Cámara o video (opcional)
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 4  # Educación de calidad
+
 activity_badges:
   - suelos
-activity_code: "suelos-X24"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 32
-  - 35
-rama_caminantes:
-  - 31
-  - 33
-rama_rovers:
-  - 4
-  - 32
-image_prompt: "An Argentine zoo or park on a sunny day. In the center-left, an animal (e.g., prairie dog digging or elephant throwing dust) interacts with the soil. A clipboard and camera lie on a bench nearby. The left side has open space for text. On the far right side, tiny scouts (5-15) stand or sit at a distance, one sketching, another writing observations, seen from a distance. The animal behavior observation environment dominates."
+activity_code: "suelos-B07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - animales
-  - zoológico
-  - parque
-  - suelo
-  - comportamiento
-  - Insignia de los Suelos
+  - observacion
+  - documental
+  - naturaleza
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Observación de animales
+reflective_component: 3  # Reflexión sobre interacciones
+active_component: 3  # Desplazamiento y observación
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 3  # Requiere organizar visita
+
+main_type: "Exploración"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children observing animals at a zoo or farm, documenting how they interact with soil - dust baths, digging, eating dirt - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, filming and taking notes. Wildlife observation and animal behavior learning atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Exterior"
-participants: "5-20"
-complexity_execution: 2
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
-activity_type:
-  - Investigación
+space_required: "Zoológico, parque o granja"
+prep_time: "20 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Observación
+  - Investigación
+  - Documentación
+
+activity_type:
+  - Exploración
+  - Aprender haciendo
+  - Investigación
+
 category:
-  - Biología
-  - Naturaleza
-  - Medio ambiente
+  - Suelo
+  - Animales
+  - Observación
+
 skills:
   - Observación
-  - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Exterior abierto"
-prep_time: "15 min (más traslado)"
+  - Documentación
+  - Comunicación
+
 scout_values:
   - Naturaleza
-  - Superación personal
+  - Curiosidad y apertura al aprendizaje
+  - Aventura
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 3
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+
+rama_lobatos:
+  - 29  # Disfruto de descubrir la diversidad en la naturaleza.
+  - 30  # Desarrollo habilidades para disfrutar de la naturaleza.
+
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+  - 38  # Desarrollo habilidades para el disfrute de la vida en la naturaleza.
+
+rama_caminantes:
+  - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
+  - 34  # Aprovecho toda oportunidad para conectar con el mundo natural.
+
+rama_rovers:
+  - 4  # Disfruto de las oportunidades en la naturaleza.
+  - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# Hábitos Animales
+# ¡Hábitos Animales!
 
 ## Resumen
-Observa cómo los animales interactúan con el suelo en un zoológico o parque.
+Visita un zoológico, parque o granja para observar cómo los animales interactúan con el suelo.
+
+## Preparación
+1. Organiza una visita a un zoológico, parque o granja.
+2. Prepara materiales para tomar notas.
+3. Prepara una cámara o video (opcional).
 
 ## Desarrollo
-Visita un zoológico o parque y observa cómo los animales usan el suelo (baños de tierra, madrigueras, etc.). Haz un video o dibujos de tus observaciones.
+1. **Observación** (40 min): Observa a los animales y su interacción con el suelo.
+2. **Registro** (20 min): Toma notas y fotos o graba video.
+3. **Análisis** (15 min): ¿Cómo interactúan con el suelo?
+4. **Presentación** (15 min): Crea un documental o presenta dibujos.
 
 ## Cierre
-Presenta tus observaciones al grupo y discute la importancia del suelo para los animales.
+- ¿Cómo interactúan los animales con el suelo?
+- ¿Qué animales viste usando el suelo?
+- ¿Qué aprendiste sobre la relación animales-suelo?
+
+---
+## Texto original completo de la actividad
+
+**B.07 HÁBITOS ANIMALES** No somos sólo nosotros los humanos aquellos que hacemos uso de los suelos; muchos animales también interactúan con el suelo de varias formas. Se sabe que las aves toman 'baños de tierra' para limpiar sus plumas y a algunos animales, como los chimpancés, se les ha visto comiendo tierra. Visiten su zoológico, parque o granja pública local para observar a los animales. ¿Cómo interactúan con el suelo? Si es posible, hagan un video y presenten sus hallazgos en forma de un documental. De otra manera, hagan dibujos de sus observaciones. Presenten todo en grupo.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

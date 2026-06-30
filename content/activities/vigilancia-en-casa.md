@@ -1,126 +1,185 @@
 ---
 title: "Vigilancia en Casa"
-duration: "1-2 horas"
+duration: "Proyecto de 1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/vigilancia-en-casa/"
-description: "Monitorea las actividades en tu hogar que puedan afectar el suelo."
-summary: "Monitorea las actividades en tu hogar que puedan afectar el suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Monitorea las actividades de tu hogar que afectan al suelo y crea una lista de control."
+summary: "Monitoreo de impacto ambiental en el hogar."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/vigilancia-en-casa.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
   - Papel
-  - Lápices
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Ciudadanía y Conciencia Social
+  - Bolígrafos
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 12 # Producción y consumo responsables
+  - 13 # Acción por el clima
+
 activity_badges:
   - suelos
-activity_code: "suelos-X46"
-rama_lobatos:
-  - 24
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 17
-  - 31
-image_prompt: "A typical Argentine home kitchen or bedroom. In the center-left, a refrigerator door with a hand-drawn reminder sign about saving energy and water. A list of household activities on paper. The left side has space for text. On the far right side, a tiny scout (5-15) stands next to the refrigerator, marker in hand, seen from a distance. The personal responsibility environment dominates."
+activity_code: "suelos-D06"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - hogar
-  - actividades
-  - impacto
-  - suelo
-  - recordatorios
-  - Insignia de los Suelos
+  - monitoreo
+  - energia
+  - agua
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Monitoreo tipo detective
+reflective_component: 4  # Reflexión sobre hábitos
+active_component: 2  # Moverse por la casa
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child monitoring home activities - lights, appliances, water - and creating a checklist with reminders for the family dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, checking and recording. Home environmental awareness and sustainable habits atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "2-10"
-complexity_execution: 2
-complexity_organizer: 1
-accessibility:
-  - -Cognitiva
+space_required: "Hogar del participante"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Observación
+  - Planificación
+  - Responsabilidad
+
 activity_type:
   - Reflexión
-  - Autoconocimiento
+  - Servicio a los demás
+  - Aprender haciendo
+
 category:
+  - Suelo
   - Hogar
-  - Medio ambiente
-  - Consumo responsable
+  - Monitoreo
+
 skills:
-  - Conciencia ambiental
-  - Responsabilidad
-main_type: "Reflexión"
-space_required: "Salón chico (hogar)"
-special_materials:
-  - papel
-  - lápices
-  - marcadores
-prep_time: "15 min"
+  - Observación
+  - Análisis
+  - Planificación
+
 scout_values:
-  - Naturaleza
   - Responsabilidad
+  - Sencillez y Austeridad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Ley y Promesa
 
+rama_castores: []
+rama_lobatos:
+  - 24  # Cuido del planeta.
+  - 42  # Uso mis recursos de manera responsable.
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente.
+  - 49  # Administro mis recursos.
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable.
+  - 44  # Planifico y administro mis recursos.
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# Vigilancia en Casa
+# ¡Vigilancia en Casa!
 
 ## Resumen
-Monitorea las actividades en tu hogar que puedan afectar el suelo.
+Monitorea las actividades de tu hogar que pueden tener repercusiones ambientales y crea una lista de control.
+
+## Preparación
+- Prepara un cuaderno para tomar notas.
+- Revisa las actividades diarias de tu hogar.
 
 ## Desarrollo
-Haz una lista de actividades (dejar luces prendidas, desperdiciar agua, etc.) y cómo afectan el suelo. Crea recordatorios para tu familia.
+1. **Monitoreo** (1 semana): Observa y anota actividades con impacto ambiental.
+2. **Análisis** (15 min): ¿Cómo afectan al suelo?
+3. **Lista de control** (20 min): Crea recordatorios para la familia.
+4. **Reunión** (15 min): Comparte tus hallazgos con tu familia.
 
 ## Cierre
-Discute cómo pequeños cambios en casa pueden ayudar a proteger el suelo.
+- ¿Qué actividades afectan al suelo?
+- ¿Qué cambios puedes hacer en tu hogar?
+- ¿Cómo te sientes al saber que estás ayudando?
+
+---
+## Texto original completo de la actividad
+
+**D.06 VIGILANCIA EN CASA** Empieza a monitorear las actividades de tu hogar que puedan tener repercusiones medio ambientales. Por ejemplo, ¿están dejando las luces prendidas en habitaciones vacías? ¿Los electrodomésticos sin usar se dejan conectados? ¿Las personas dejan la llave del agua corriendo mientras se lavan los dientes? Haz una lista de todo lo que notes y averigua cómo podría afectar al suelo, directa o indirectamente. ¿Cuáles son las repercusiones a largo plazo de esto? Habla con los miembros de tu familia y crea una lista de control con recordatorios para colocar en lugares prominentes alrededor de la casa.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

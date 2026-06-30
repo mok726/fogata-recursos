@@ -1,128 +1,187 @@
 ---
 title: "Cuidemos nuestro medio ambiente"
-duration: "1 mes"
+duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuidemos-nuestro-medio-ambiente/"
-description: |
-  Esta actividad es obligatoria para la categoría Nuestro Clima.
-  Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria. Haz una lista de formas para reducir la cantidad de energía que usas. Sigue un plan durante al menos un mes y comparte tu experiencia.
-summary: |
-  Esta actividad es obligatoria para la categoría Nuestro Clima.
-  Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria. Haz una lista de formas para reducir la cantidad de energía que usas. Sigue un plan durante al menos un mes y comparte tu experiencia.
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Discute cómo consumes energía y haz un plan para reducirla."
+summary: "Plan de reducción de energía."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+  - WAGGGS
+source:
+  - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
+
 image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png"
+original: false
+Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-15"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
+
 materials:
-  - Papel y lápiz para hacer la lista
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Planificación y Organización
-  - Comunicación Efectiva
+  - Papel
+  - Bolígrafos
+tools: []
 responsible:
-  - Responsable del grupo Scout
+  - Docente o Scouter
+
 sdgs:
-  - 7
-  - 13
+  - 12 # Producción y consumo responsables
+  - 13 # Acción por el clima
+
 activity_badges:
   - sacc
-activity_code: "sacc-X34"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 7
-  - 13
-rama_caminantes:
-  - 7
-  - 13
-rama_rovers:
-  - 4
-  - 7
-image_prompt: "An Argentine home, with a family (civilian parents and a scout) sitting around a kitchen table in the center-left. A list of energy-saving actions on a paper: 'Apagar luces', 'Desenchufar', 'Duchas cortas'. A calendar for a one-month plan. The left side has negative space for text. On the far right side, a tiny older scout (11-15) points at the list, parents nodding, seen from a distance. The family energy plan environment dominates."
+activity_code: "sacc-A01"
+required: true
+required_for:
+  - sacc-A
+required_comment: "Actividad obligatoria para la Sección A: Nuestro Clima"
+required_category: "Nuestro Clima"
+
 tags:
   - sacc
-  - energía
+  - energia
   - consumo
-  - reducción
   - plan
-  - cambio climático
-  - Insignia de Seguridad Alimentaria y Cambio Climático
+  - medio-ambiente
+  - ahorro
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de la Seguridad Alimentaria y el Cambio Climático"
+    author: "FAO"
+    year: 2010
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2010"
+    role: "fuente y titular de los derechos de autor"
+    year: 2010
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Reflexión y planificación
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de planificación
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Reflexión"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children discussing energy consumption with family and teachers, making a plan to reduce energy use dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing their plan and sharing experiences. Environmental awareness and sustainable habits atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+space_required: "Salón para discutir y planificar"
+prep_time: "15 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Reflexión
+  - Planificación
+  - Responsabilidad
+
 activity_type:
   - Reflexión
   - Planificación
+  - Servicio a los demás
+
 category:
-  - Hogar
   - Energía
-  - Clima
+  - Consumo
+  - Medio ambiente
+
 skills:
-  - Conciencia ambiental
-  - Planificación y organización
+  - Planificación
+  - Reflexión
   - Comunicación
-main_type: "Reflexión"
-space_required: "Salón amplio"
-prep_time: "15 min + seguimiento 1 mes"
+
 scout_values:
   - Responsabilidad
-  - Consumo consciente y Gratitud
+  - Sencillez y Austeridad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Ley y Promesa
 
+rama_castores: []
+rama_lobatos:
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+  - 28  # Entiendo que mis acciones tienen un impacto en el Planeta Tierra.
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente y en la sociedad.
+  - 49  # Administro mis recursos de forma responsable.
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable y sostenible.
+  - 44  # Planifico y administro responsablemente mis recursos.
+rama_rovers: []
 ---
 
-# Cuidemos nuestro medio ambiente
+# ¡Cuidemos nuestro medio ambiente!
 
 ## Resumen
-Esta actividad es obligatoria para la categoría Nuestro Clima.
-Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria. Haz una lista de formas para reducir la cantidad de energía que usas. Sigue un plan durante al menos un mes y comparte tu experiencia.
+Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria y haz un plan para reducirla.
+
+## Preparación
+1. Reflexiona sobre tu consumo de energía diario.
+2. Prepara papel y bolígrafos para tomar notas.
+3. Habla con tu familia sobre el proyecto.
 
 ## Desarrollo
-Discute con tu familia, maestro o guía sobre la manera cómo consumes energía en tu vida diaria. Haz una lista sobre todas las formas cómo puedes reducir la cantidad de energía que usas. Haz un plan y síguelo durante al menos un mes. Luego comparte tu experiencia con tus amigos, tu clase o tu grupo y aliéntalos a seguir tu ejemplo.
+1. **Discusión** (20 min): Habla sobre cómo usas energía.
+2. **Lista** (15 min): Haz una lista de formas de reducir energía.
+3. **Plan** (15 min): Crea un plan y síguelo durante un mes.
+4. **Compartir** (10 min): Comparte tu experiencia con amigos.
 
 ## Cierre
-Reflexiona sobre cómo reducir el consumo de energía puede impactar positivamente en el medio ambiente. ¿Qué cambios notaste en tu vida diaria?
+- ¿Qué cambios lograste hacer?
+- ¿Qué fue lo más fácil y lo más difícil?
+- ¿Cómo te sientes al haber reducido tu consumo?
+
+---
+## Texto original completo de la actividad
+
+**A.01 Cuidemos nuestro medio ambiente**
+Discute con tu familia, con tu maestro o con tu guía sobre la manera cómo consumes energía en tu vida diaria. Haz una lista sobre todas las formas cómo puedes reducir la cantidad de energía que usas. Haz un plan y síguelo durante al menos un mes. Luego comparte tu experiencia con tus amigos, tu clase o tu grupo y aliéntalos a seguir tu ejemplo.
+
+NIVEL 1 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

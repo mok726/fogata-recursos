@@ -1,134 +1,194 @@
 ---
 title: "Análisis de Suelos"
-duration: "2-3 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/analisis-de-suelos/"
-description: "Investiga y presenta sobre diferentes tipos de suelo en el mundo."
-summary: "Investiga y presenta sobre diferentes tipos de suelo en el mundo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga los diferentes tipos de suelo del mundo y sus características."
+summary: "Investigación de tipos de suelo globales."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/analisis-de-suelos.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
+
 materials:
-  - Muestras de suelo
-  - Libros/recursos en línea
-tools:
-  - Microscopio (opcional)
-competencies:
-  - Investigación y Gestión de Datos
-  - Comunicación Efectiva
-  - Ciudadanía y Conciencia Social
+  - Acceso a internet
+  - Materiales para presentación
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 4  # Educación de calidad
+
 activity_badges:
   - suelos
-activity_code: "suelos-X02"
-rama_lobatos:
-  - 26
-  - 27
-rama_scouts:
-  - 32
-  - 34
-rama_caminantes:
-  - 30
-  - 31
-rama_rovers:
-  - 4
-  - 31
-image_prompt: "A scout meeting room in Argentina, with several tables. In the center-left, soil samples in small containers are arranged, and a microscope sits on a table. A poster on the wall shows soil types map. The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit at the tables, one team presenting at the front with a poster, others listening, seen from a distance. The research and presentation environment dominates."
+activity_code: "suelos-A02"
 required: true
 required_for:
-  - suelos-X
-required_comment: "Actividad obligatoria"
+  - suelos-A
+required_comment: "Actividad obligatoria para la Sección A: Todo sobre el Suelo"
+required_category: "Todo sobre el Suelo"
+
 tags:
   - suelos
-  - tipos de suelo
-  - mundial
+  - tipos-de-suelo
+  - investigacion
+  - clasificacion
   - biodiversidad
-  - investigación
-  - presentación
-  - Insignia de los Suelos
+
+link:
+  - url: "http://forces.si.edu/soils/swf/soilorders.html"
+    caption: "Tipos de suelo - Smithsonian"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Investigación en grupo
+reflective_component: 3  # Reflexión sobre tipos de suelo
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 2  # Sencilla de ejecutar
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children researching different soil types from around the world on computers, with soil samples and maps dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting findings. Global soil diversity and scientific learning atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - Todas
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia global
+  - Comunicación
+
 activity_type:
   - Investigación
+  - Aprender haciendo
   - Presentación
+
 category:
-  - Ciencia
-  - Geografía
-  - Medio ambiente
+  - Suelo
+  - Tipos
+  - Clasificación
+
 skills:
   - Investigación
-  - Presentación oral
-  - Conciencia social
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - muestras de suelo (opcional)
-  - acceso a internet
-prep_time: "30 min"
-scout_values:
-  - Hermandad
-  - Superación personal
-scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Comunicación
+  - Trabajo en equipo
 
+scout_values:
+  - Curiosidad y apertura al aprendizaje
+  - Naturaleza
+  - Superación personal
+
+scout_method:
+  - Aprender haciendo
+  - Sistema de equipos
+
+rama_castores: []
+
+rama_lobatos:
+  - 32  # Me intereso por aprender cosas nuevas.
+  - 40  # Busco información en diferentes fuentes.
+
+rama_scouts:
+  - 40  # Exploro temas de mi interés.
+  - 47  # Busco información en diversas fuentes.
+
+rama_caminantes:
+  - 36  # Trabajo en mi superación personal.
+  - 43  # Busco y evalúo el valor de diversas fuentes.
+
+rama_rovers:
+  - 8  # Busco y evalúo el valor de diversas fuentes.
+  - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# Análisis de Suelos
+# ¡Análisis de Suelos!
 
 ## Resumen
-Investiga y presenta sobre diferentes tipos de suelo en el mundo.
+Investiga los diferentes tipos de suelo del mundo, sus características y dónde se encuentran.
+
+## Preparación
+1. Divídanse en grupos, cada uno con un tipo de suelo.
+2. Accede a recursos en línea.
+3. Prepara materiales para la presentación.
 
 ## Desarrollo
-Divide al grupo en equipos, cada uno investiga un tipo de suelo. Presenta información sobre ubicación, biodiversidad y características. Si es posible, lleva una muestra de suelo.
+1. **Investigación** (25 min): Investiga tu tipo de suelo.
+2. **Organización** (15 min): Prepara la presentación.
+3. **Presentación** (15 min): Cada grupo presenta su tipo de suelo.
+4. **Discusión** (5 min): Compara los diferentes tipos.
 
 ## Cierre
-Discute las diferencias entre los tipos de suelo y su importancia en diferentes regiones.
+- ¿Qué tipos de suelo existen?
+- ¿Dónde se encuentran en el mundo?
+- ¿Qué tipo de suelo hay en tu área?
+
+---
+## Texto original completo de la actividad
+
+**A.02 ANÁLISIS DE SUELOS** Existen miles de tipos de suelo alrededor del mundo y los científicos los han clasificado en categorías básicas: http://forces.si.edu/soils/swf/soilorders.html Puedes encontrar algo de información sobre cada categoría en nuestra Hoja de Datos sobre el Suelo. Divídanse en grupos, cada grupo deberá enfocarse en un tipo de suelo diferente. Después de investigar un poco, cada grupo deberá realizar una presentación sobre su tipo de suelo. ¿Dónde se encuentra? ¿Qué tipo de biodiversidad vive en este? ¿Cuáles son sus principales características? Si ese suelo se encuentra en su área, lleven con ustedes una muestra para que la expongan junto con su presentación.
+
+nivel 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

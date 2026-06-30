@@ -1,125 +1,186 @@
 ---
 title: "Aliados Terrestres"
-duration: "1-2 horas"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aliados-terrestres/"
-description: "Investiga cómo las plantas y animales ayudan a mantener el suelo saludable."
-summary: "Investiga cómo las plantas y animales ayudan a mantener el suelo saludable."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga un aliado del suelo y su importancia para la salud del suelo."
+summary: "Investigación de aliados del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/aliados-terrestres.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
+  - Papel
+  - Bolígrafos
+  - Lápices de colores
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 4  # Educación de calidad
+
 activity_badges:
   - suelos
-activity_code: "suelos-X35"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 32
-  - 35
-rama_caminantes:
-  - 31
-  - 33
-rama_rovers:
-  - 4
-  - 32
-image_prompt: "A scout meeting room in Argentina, with a poster on an easel in the center-left showing an earthworm with arrows indicating its benefits (aerates soil, decomposes matter). Another small poster about plant roots holding soil. The left side has negative space for text. On the far right side, tiny scouts (5-15) sit or stand, one presenting the poster, others listening and asking questions, seen from a distance. The educational appreciation environment dominates."
+activity_code: "suelos-C06"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - aliados
-  - suelo
-  - plantas
-  - animales
   - lombrices
-  - Insignia de los Suelos
+  - arboles
+  - biodiversidad
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Investigación y arte
+reflective_component: 4  # Reflexión sobre interdependencia
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child investigating a soil ally like earthworms or trees, creating a poster showing how they help the soil dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching and drawing. Biodiversity and soil health learning atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - Todas
-activity_type:
+space_required: "Salón con acceso a internet"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Investigación
+  - Conciencia ecológica
+  - Pensamiento sistémico
+
+activity_type:
+  - Investigação
   - Reflexión
+  - Creatividad / Arte
+
 category:
-  - Biología
-  - Medio ambiente
-  - Ecología
+  - Suelo
+  - Aliados
+  - Biodiversidad
+
 skills:
   - Investigación
-  - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet o libros
-  - cartulina para póster (opcional)
-prep_time: "15 min"
+  - Análisis
+  - Comunicación visual
+
 scout_values:
   - Naturaleza
-  - Superación personal
-scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Curiosidad y apertura al aprendizaje
+  - Responsabilidad
 
+scout_method:
+  - Aprender haciendo
+  - Progresión personal
+
+rama_castores: []
+rama_lobatos:
+  - 27  # Comprendo que en la naturaleza todo está relacionado.
+  - 29  # Disfruto de descubrir la diversidad en la naturaleza.
+rama_scouts:
+  - 35  # Comprendo que todo lo que le hacemos a los seres vivos nos afecta.
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+rama_caminantes:
+  - 31  # Soy consciente sobre la conexión e interdependencia entre todos los seres vivos.
+  - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
+rama_rovers:
+  - 32  # Reconozco la interdependencia entre las personas y todas las especies.
+  - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# Aliados Terrestres
+# ¡Aliados Terrestres!
 
 ## Resumen
-Investiga cómo las plantas y animales ayudan a mantener el suelo saludable.
+Investiga un aliado del suelo (lombriz, árbol, hongo) y enumera todas las formas en que ayuda al suelo.
+
+## Preparación
+- Elige un aliado del suelo.
+- Prepara materiales para dibujar y escribir.
 
 ## Desarrollo
-Elige un organismo (como las lombrices) y enumera todas las formas en que ayuda al suelo.
+1. **Investigación** (20 min): Aprende sobre tu aliado.
+2. **Lista** (15 min): Enumera cómo ayuda al suelo.
+3. **Análisis** (10 min): ¿Qué amenazas enfrenta?
+4. **Reflexión** (10 min): ¿Qué pasaría si desapareciera?
 
 ## Cierre
-Presenta tus hallazgos al grupo y discute la importancia de estos aliados.
+- ¿Qué aliado elegiste?
+- ¿Cómo ayuda al suelo?
+- ¿Qué pasaría si desapareciera?
+
+---
+## Texto original completo de la actividad
+
+**C.06 ALIADOS TERRESTRES** Muchas plantas y animales ayudan a nuestros suelos a mantenerse saludables, por ejemplo, las lombrices de tierra reciclan los nutrientes del suelo y los árboles ayudan a prevenir la erosión. Elige un 'aliado' del suelo y enumera todas las maneras en que este ayuda al suelo. ¿Este organismo en particular también está enfrentando algunas amenazas? ¿Qué podría pasarle al suelo si este organismo desapareciera?
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

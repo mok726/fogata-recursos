@@ -1,129 +1,196 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Científicos incipientes"
-duration: "1-2 horas"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cientificos-incipientes/"
-description: "Los participantes imaginan ser científicos que estudian el cambio climático."
-summary: "Los participantes imaginan ser científicos que estudian el cambio climático."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Actividad para explorar diferentes carreras científicas relacionadas con el clima y descubrir qué tipo de científico te gustaría ser."
+summary: "Descubrir carreras científicas relacionadas con el clima."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/cientificos-incipientes.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Acceso a internet
-  - papel
-  - lápices.
-competencies:
-  - Investigación y Gestión de Datos
-  - Pensamiento Crítico y Análisis
+  - Papel
+  - Lápices
+  - Acceso a internet o libros de ciencia
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón con mesas o acceso a biblioteca"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X11"
-rama_lobatos:
-  - 26
-  - 27
-rama_scouts:
-  - 13
-  - 15
-rama_caminantes:
-  - 13
-  - 15
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing career profiles: climatologist (weather map), glaciologist (ice core), oceanographer (waves), ecologist (forest). A laptop with research pages. The left side has negative space for text. On the far right side, three tiny scouts (5-21) stand, one pointing at the climatologist, another pretending to hold an ice core, seen from a distance. The climate career exploration environment dominates."
+activity_code: "cambioclimatico-A06"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - científicos
-  - clima
-  - investigación
-  - especialidad
-  - roles
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+  - ciencia
+  - meteorologia
+  - carreras-cientificas
+  - investigacion
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 3  # Moderadamente lúdica
+reflective_component: 3  # Reflexión moderada
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Simple
+complexity_organizer: 2  # Requiere investigación
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A scientist studying ice cores, weather patterns, or climate data dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, exploring scientific equipment and taking notes. Scientific exploration environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento científico
+  - Investigación
+  - Exploración vocacional
 activity_type:
   - Investigación
-  - Role-play
+  - Exploración
+  - Orientación
 category:
   - Ciencia
-  - Educación
   - Clima
+  - Educación
 skills:
+  - Pensamiento científico
   - Investigación
-  - Pensamiento crítico
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel
-  - lápices
-  - computadora (opcional)
-prep_time: "20 min"
+  - Curiosidad
+
+# ========== VALORES SCOUT ==========
 scout_values:
+  - Curiosidad y Apertura al aprendizaje
   - Superación personal
+  - Naturaleza
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 32  # Me intereso por aprender cosas nuevas
+  - 35  # Conozco diferentes profesiones y oficios
+rama_scouts:
+  - 40  # Exploro temas de mi interés
+  - 41  # Experimento diferentes medios y tecnologías
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades
+  - 38  # Afronto creativamente los desafíos
+rama_rovers:
+  - 8   # Busco y evalúo diversas fuentes de información
+  - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# Científicos incipientes
+# ¡Científicos incipientes!
 
 ## Resumen
-Los participantes imaginan ser científicos que estudian el cambio climático.
+Imagina que eres un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo?
+
+## Preparación
+1. Prepara información sobre diferentes tipos de científicos del clima.
+2. Busca videos o artículos cortos sobre carreras científicas.
+3. Prepara una lista de preguntas guía para la reflexión.
 
 ## Desarrollo
-Los participantes investigan qué tipo de científicos estudian el clima y eligen uno para representar. Luego, hacen una lista de razones por las que eligieron esa especialidad.
+1. Aprende más sobre aquello que hacen diferentes científicos del clima.
+2. Decide qué tipo de científico te gustaría ser.
+3. Investiga qué estudios o habilidades se necesitan para esa carrera.
+4. Haz una lista de puntos que expliquen por qué elegiste esa especialidad.
 
 ## Cierre
-Los participantes comparten sus elecciones y razones con el grupo.
+1. Comparte tu elección con el grupo y explica tus razones.
+2. Discutan cómo los científicos del clima contribuyen a proteger el planeta.
+3. Pregunta final: ¿Cómo crees que la ciencia puede ayudar a resolver el cambio climático?
+
+## Texto original completo de la actividad
+A.06 CIENTÍFICOS INCIPIENTES. Imagina que eres un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo y cavando en las profundidades de los lagos para entender cómo ha cambiado el clima de la Tierra durante los años? ¿Tal vez preferirías estar estudiando ciertas plantas y animales para ver cómo estos se verán afectados por el cambio climático? Aprende más sobre aquello que hacen diferentes científicos del clima y decide qué tipo de científico te gustaría ser. Luego haz una lista de puntos que expliquen por qué.
+
+NIVELES: 1, 2, 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

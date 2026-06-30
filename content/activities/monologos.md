@@ -1,125 +1,181 @@
 ---
 title: "Monólogos"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/monologos/"
-description: "Organiza un debate sobre los pros y contras del monocultivo."
-summary: "Organiza un debate sobre los pros y contras del monocultivo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Debate sobre el monocultivo representando diferentes perspectivas."
+summary: "Debate sobre monocultivo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/monologos.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
+
 materials:
-  - Libros/recursos en línea
-competencies:
-  - Comunicación Efectiva
-  - Sostenibilidad y Medio Ambiente
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 2  # Hambre cero
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X39"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "A scout meeting room in Argentina, with two teams of scouts sitting facing each other. In the center-left, a whiteboard divided into pros and cons columns. A leader moderating. The left side has negative space for text. On the far right side, tiny older scouts (11-17) gesticulate as they debate monoculture, seen from a distance. The passionate debate environment dominates."
+activity_code: "suelos-C10"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - monocultivo
   - debate
   - agricultura
-  - suelo
-  - pros y contras
-  - Insignia de los Suelos
-location: "Interior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Cognitiva
-activity_type:
-  - Debate
-  - Diálogo
-category:
-  - Agricultura
-  - Economía
-  - Medio ambiente
-skills:
-  - Debate
-  - Conciencia ambiental
+  - sostenibilidad
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Debate de roles
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de debate
+
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 3  # Requiere organización
+
 main_type: "Debate / Diálogo"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papelógrafo para argumentos
-prep_time: "30 min"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A passionate debate about monoculture between farmers and corporations vs environmental groups, with arguments and counterarguments dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, debating intensely. Agricultural policy and environmental debate atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para el debate"
+prep_time: "20 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Argumentación
+  - Pensamiento crítico
+  - Trabajo en equipo
+
+activity_type:
+  - Debate / Diálogo
+  - Reflexión
+  - Investigación
+
+category:
+  - Suelo
+  - Monocultivo
+  - Agricultura
+
+skills:
+  - Argumentación
+  - Pensamiento crítico
+  - Comunicación
+
 scout_values:
-  - Hermandad
-  - Superación personal
+  - Justicia
+  - Responsabilidad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
   - Sistema de equipos
-ludic_component: 3
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 20  # Respeto los acuerdos y expreso mis ideas.
+  - 52  # Desarrollo habilidades para comunicarme.
+rama_caminantes:
+  - 19  # Fomento ámbitos de participación democráticos.
+  - 48  # Desarrollo habilidades para comunicarme.
+rama_rovers:
+  - 10  # Contribuyo pacíficamente a la resolución de conflictos.
+  - 11  # Me comunico de manera asertiva.
 ---
 
-# Monólogos
+# ¡Monólogos!
 
 ## Resumen
-Organiza un debate sobre los pros y contras del monocultivo.
+Debate sobre el monocultivo representando diferentes perspectivas.
+
+## Preparación
+1. Divídanse en dos grupos: a favor y en contra del monocultivo.
+2. Investiguen sobre el tema.
+3. Preparen argumentos.
 
 ## Desarrollo
-Divide al grupo en dos equipos. Un equipo defiende el monocultivo y el otro lo critica. Investiga y prepara argumentos para el debate.
+1. **Investigación** (20 min): Prepara tus argumentos.
+2. **Debate** (25 min): Desarrolla un debate apasionado.
+3. **Conclusión** (15 min): Resume las posiciones.
 
 ## Cierre
-Reflexiona sobre los impactos del monocultivo en el suelo y la sociedad.
+- ¿Cuáles son los argumentos a favor y en contra?
+- ¿Qué posición te parece más convincente?
+- ¿Cómo afecta el monocultivo al suelo?
+
+---
+## Texto original completo de la actividad
+
+**C.10 MONÓLOGOS** Divídanse en dos grupos, un grupo deberá estar formado por agricultores y corporaciones que apoyan el monocultivo y el otro deberá estar formado por agricultores y otros grupos que consideran que el monocultivo es dañino para la sociedad y el medio ambiente. Pasen algo de tiempo investigando sobre esta cuestión y luego vuelvan a juntarse para desarrollar un apasionado debate que sustente sus posiciones.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

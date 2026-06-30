@@ -1,132 +1,195 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Alimentos locales"
-duration: "1-2 días"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-locales/"
-description: "Los participantes investigan los cultivos locales y su relación con el clima."
-summary: "Los participantes investigan los cultivos locales y su relación con el clima."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investigación sobre los cultivos de tu país, cómo el clima los afecta y de dónde provienen los alimentos que consumes."
+summary: "Investigar cultivos locales y su relación con el clima."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/alimentos-locales.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "11-22 años"
 age_group:
-  - castores
-  - manada
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Acceso a internet
-  - papel
-  - lápices
-  - colores.
-competencies:
-  - Investigación y Gestión de Datos
-  - Creatividad y Expresión
+  - Papel
+  - Lápices
+  - Acceso a internet o biblioteca
+  - Cámara (opcional)
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-20"
+location: "Ambos"
+space_required: "Salón con mesas y acceso a información"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 2
-  - 13
+  - 2  # Hambre cero
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X15"
-rama_lobatos:
-  - 1
-  - 24
-rama_scouts:
-  - 2
-  - 12
-rama_caminantes:
-  - 2
-  - 12
-rama_rovers:
-  - 4
-  - 12
-image_prompt: "An Argentine scout room, with a large map of Argentina on the wall in the center-left, showing regions with crop icons: corn and soy in the Pampas, grapes in Mendoza, apples in Patagonia, yerba mate in the northeast. A table with printed images. The left side has negative space for text. On the far right side, two tiny scouts (5-21) stand, one pointing at Mendoza, the other holding a grape drawing, seen from a distance. The local crops research environment dominates."
+activity_code: "cambioclimatico-A10"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - cultivos locales
-  - clima
-  - producción
-  - informe
-  - Argentina
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+  - alimentos
+  - agricultura
+  - cultivos-locales
+  - seguridad-alimentaria
+  - clima-y-comida
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 2  # Actividad de investigación seria
+reflective_component: 4  # Reflexión sobre alimentación
+active_component: 2  # Investigación moderada
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 3  # Requiere coordinación
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A vibrant agricultural landscape with diverse crops and farms dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, visiting local farms and taking notes about crops. Agricultural investigation environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Conciencia alimentaria
+  - Investigación
+  - Pensamiento sistémico
 activity_type:
   - Investigación
-  - Arte
+  - Exploración
+  - Reflexión
 category:
   - Agricultura
+  - Alimentación
   - Clima
-  - Economía
 skills:
   - Investigación
-  - Creatividad
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel
-  - lápices
-  - colores
-  - imágenes impresas
-prep_time: "25 min"
+  - Observación
+  - Pensamiento crítico
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Consumo consciente y Gratitud
+  - Naturaleza
+  - Responsabilidad
+  - Curiosidad y Apertura al aprendizaje
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Vida en la Naturaleza y Aventura
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente
+  - 34  # Comprendo causas del impacto ambiental
+rama_caminantes:
+  - 29  # Adopto estilo de vida responsable y sostenible
+  - 31  # Soy consciente de la interdependencia
+rama_rovers:
+  - 29  # Indago causas de injusticias y problemáticas sociales
+  - 30  # Consumo y produzco de manera sostenible
 ---
 
-# Alimentos locales
+# ¡Alimentos locales!
 
 ## Resumen
-Los participantes investigan los cultivos locales y su relación con el clima.
+Investiga qué tipo de cultivos se producen en tu país, cómo el clima de tu país afecta a los cultivos y de dónde provienen los alimentos que consumes.
+
+## Preparación
+1. Prepara preguntas para guiar la investigación.
+2. Identifica recursos locales como bibliotecas o agricultores para entrevistar.
+3. Organiza los grupos de trabajo.
 
 ## Desarrollo
-Los participantes investigan qué cultivos se producen en su país y cómo el clima afecta su producción. Luego, preparan un informe con fotos o dibujos.
+1. Visita tu biblioteca local o busca en línea información sobre cultivos de tu país.
+2. Investiga cómo el clima de tu país afecta a los cultivos.
+3. Si es posible, habla con agricultores locales para obtener información.
+4. Si el clima de tu país no es apto para producir cultivos, investiga de dónde vienen tus alimentos.
+5. Prepara un informe incluyendo fotos o dibujos.
 
 ## Cierre
-El informe se presenta al grupo.
+1. Comparte tu informe con el grupo.
+2. Pregunta final: ¿De qué forma es el clima más apto para producir cultivos en ese lugar?
+
+## Texto original completo de la actividad
+A.10 ALIMENTOS LOCALES. ¿Qué tipo de cultivos se producen en tu país? ¿Cómo afecta el clima de tu país a los cultivos? Visita tu biblioteca local, busca en línea y, si es posible, habla con agricultores locales para obtener tanta información como puedas. Prepara un informe, incluyendo fotos o dibujos y detalles sobre los tipos de cultivo que produce tu país y el rol que el clima juega en todo esto. Si el clima de tu país no es apto para producir cultivos, explica por qué y averigua de dónde vienen tus alimentos. ¿De qué forma es el clima más apto para producir cultivos en ese lugar?
+
+NIVELES: 2, 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

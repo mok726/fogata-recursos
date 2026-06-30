@@ -15,8 +15,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-# image: "/imagenes/actividades/patitas-limpias.png"
-original: "true"
+original: true
 
 # ========== CLASIFICACIÓN ==========
 branch:
@@ -61,6 +60,7 @@ rama_lobatos:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:   
+  - comunidad
 activity_code: "COMUNIDAD-M01"
 
 # ========== ETIQUETAS GENERALES ==========

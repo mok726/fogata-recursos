@@ -1,129 +1,195 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "El gran debate sobre el clima"
-duration: "1-2 horas"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-gran-debate-sobre-el-clima/"
-description: "Los participantes debaten si el cambio climático es natural o causado por el hombre."
-summary: "Los participantes debaten si el cambio climático es natural o causado por el hombre."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Actividad de debate para entender y responder a los puntos de vista de los escépticos del clima."
+summary: "Debatir sobre el cambio climático y los escépticos."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "16-22 años"
 age_group:
-  - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Acceso a internet
-  - papel
-  - lápices.
-competencies:
-  - Comunicación Efectiva
-  - Pensamiento Crítico y Análisis
+  - Papel
+  - Lápices
+  - Fichas para argumentos
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "30 min"
+participants: "6-20"
+location: "Interior"
+space_required: "Salón con espacio para debate"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+  - 16 # Paz, justicia e instituciones sólidas
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X29"
-rama_lobatos:
-  - 20
-  - 26
-rama_scouts:
-  - 13
-  - 16
-rama_caminantes:
-  - 13
-  - 16
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with two teams sitting facing each other. In the center-left, a table with a gavel and a stack of scientific articles (ice core data, CO2 graphs). A whiteboard with 'Natural' and 'Antropogénico' columns. The left side has negative space for text. On the far right side, tiny older scouts (11-21) gesticulate, one speaking, another holding an ice core diagram, seen from a distance. The climate debate environment dominates."
+activity_code: "cambioclimatico-B11"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
   - debate
-  - cambio climático
-  - natural
-  - antropogénico
-  - argumentos
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "8-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Auditiva
-  - -Cognitiva
-activity_type:
-  - Debate
-  - Diálogo
-category:
-  - Ciencia
-  - Clima
-  - Política
-skills:
-  - Debate
-  - Pensamiento crítico
+  - escepticismo-climatico
+  - argumentacion
+  - pensamiento-critico
+  - dialogo
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 3  # Debate puede ser entretenido
+reflective_component: 5  # Muy reflexiva
+active_component: 2  # Actividad moderada
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere preparación
+complexity_organizer: 3  # Requiere organización
+
+# ========== TIPO PRINCIPAL ==========
 main_type: "Debate / Diálogo"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel
-  - lápices
-  - artículos científicos simplificados
-prep_time: "30 min preparación + debate"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A debate setting with people presenting arguments about climate change dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, engaged in a formal debate about climate issues. Debate environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento crítico
+  - Argumentación
+  - Comunicación
+activity_type:
+  - Debate / Diálogo
+  - Reflexión
+  - Investigación
+category:
+  - Debate
+  - Clima
+  - Sociedad
+skills:
+  - Pensamiento crítico
+  - Comunicación
+  - Análisis
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Honestidad
+  - Justicia
+  - Respeto al prójimo
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 3
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 11 # Ante una pelea recurro al diálogo
+  - 21 # Hablo con los demás sobre lo que creo
+rama_scouts:
+  - 15 # Colaboro en la resolución de conflictos
+  - 28 # Dialogo con los demás sobre lo que creo
+rama_caminantes:
+  - 15 # Contribuyo pacíficamente a la resolución de conflictos
+  - 27 # Dialogo con las demás personas sobre lo que creo
+rama_rovers:
+  - 10 # Contribuyo pacíficamente a la resolución de conflictos
+  - 35 # Promuevo el diálogo y el entendimiento
 ---
 
-# El gran debate sobre el clima
+# ¡El gran debate sobre el clima!
 
 ## Resumen
-Los participantes debaten si el cambio climático es natural o causado por el hombre.
+Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.
+
+## Preparación
+1. Investiga los argumentos de los escépticos del clima.
+2. Prepara información científica que responda a esos argumentos.
+3. Organiza el debate en equipos.
 
 ## Desarrollo
-Los participantes se dividen en grupos y preparan argumentos para debatir si el cambio climático es natural o causado por el hombre.
+1. Investiga: ¿Cuáles son los argumentos de los escépticos del clima?
+2. Investiga: ¿Cuál es la evidencia científica que responde a esos argumentos?
+3. Prepara tus argumentos y contraargumentos.
+4. Participa en un debate formal sobre el tema.
 
 ## Cierre
-El debate termina con una reflexión sobre los argumentos presentados.
+1. Reflexiona sobre la experiencia del debate.
+2. Discutan: ¿Cómo se puede dialogar respetuosamente con personas que tienen opiniones diferentes?
+3. Pregunta final: ¿Por qué es importante entender los argumentos de quienes cuestionan el cambio climático?
+
+## Texto original completo de la actividad
+B.11 EL GRAN DEBATE SOBRE EL CLIMA. Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.
+
+NIVELES: 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

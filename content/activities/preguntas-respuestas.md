@@ -1,125 +1,183 @@
 ---
 title: "Preguntas & Respuestas"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preguntas-respuestas/"
-description: "Conduce una entrevista sobre los problemas del suelo en un país específico."
-summary: "Conduce una entrevista sobre los problemas del suelo en un país específico."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Simula una entrevista entre un agricultor y un reportero sobre el suelo."
+summary: "Simulación de entrevista sobre el suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/preguntas-respuestas.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
+
 materials:
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Comunicación Efectiva
+  - Papel
+  - Bolígrafos
+  - Equipo de grabación (opcional)
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 2  # Hambre cero
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X38"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "A scout meeting room in Argentina, with pairs of scouts sitting at tables in the center-left. A laptop open to research on soil problems in a specific country. Paper for writing an article. The left side has space for text. On the far right side, tiny older scouts (11-17) role-play: one as a farmer (civilian, work hat), another as a journalist with a notebook, seen from a distance. The interview simulation environment dominates."
+activity_code: "suelos-C09"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
+  - agricultura
   - entrevista
-  - agricultor
-  - problemas del suelo
-  - país
-  - artículo
-  - Insignia de los Suelos
-location: "Interior"
-participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-activity_type:
-  - Investigación
-  - Simulación
-category:
-  - Geografía
-  - Comunicación
-  - Medio ambiente
-skills:
-  - Investigación
-  - Comunicación
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel para artículo
-prep_time: "20 min"
-scout_values:
-  - Hermandad
-  - Superación personal
-scout_method:
-  - Sistema de equipos
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - simulacion
+  - periodismo
 
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Simulación de roles
+reflective_component: 4  # Reflexión sobre condiciones del suelo
+active_component: 1  # Actividad de roles
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Debate / Diálogo"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A simulation of a farmer and reporter interview about soil conditions, with a newspaper being created from the interviews dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, conducting interviews. Journalism and agricultural learning atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para entrevistas"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Comunicación
+  - Investigación
+  - Pensamiento crítico
+
+activity_type:
+  - Debate / Diálogo
+  - Investigación
+  - Aprender haciendo
+
+category:
+  - Suelo
+  - Agricultura
+  - Entrevista
+
+skills:
+  - Comunicación
+  - Investigación
+  - Escritura
+
+scout_values:
+  - Curiosidad y apertura al aprendizaje
+  - Responsabilidad
+  - Naturaleza
+
+scout_method:
+  - Aprender haciendo
+  - Sistema de equipos
+
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 26  # Observo lo que pasa a mi alrededor.
+  - 52  # Desarrollo habilidades para comunicarme.
+rama_caminantes:
+  - 25  # Identifico factores que contribuyen a problemas sociales.
+  - 48  # Desarrollo habilidades para comunicarme.
+rama_rovers:
+  - 11  # Me comunico de manera asertiva.
+  - 29  # Indago en las causas de las injusticias.
 ---
 
-# Preguntas & Respuestas
+# ¡Preguntas & Respuestas!
 
 ## Resumen
-Conduce una entrevista sobre los problemas del suelo en un país específico.
+Simula una entrevista entre un agricultor y un reportero sobre las condiciones del suelo en un país.
+
+## Preparación
+1. Forma parejas: un agricultor y un reportero.
+2. Cada agricultor investiga sobre el suelo en su país.
+3. Cada reportero prepara preguntas.
 
 ## Desarrollo
-Divide al grupo en parejas. Un miembro actúa como agricultor y el otro como entrevistador. Investiga los problemas del suelo en un país y realiza una entrevista.
+1. **Investigación** (20 min): Prepara tu rol.
+2. **Entrevista** (20 min): Conduce la entrevista.
+3. **Artículo** (15 min): Escribe un artículo sobre el suelo del país.
+4. **Periódico** (5 min): Compila los artículos en un periódico.
 
 ## Cierre
-Escribe un artículo basado en la entrevista y compártelo con el grupo.
+- ¿Qué condiciones de suelo encontraste?
+- ¿Cómo afecta el suelo a los cultivos?
+- ¿Qué problemas surgen y cómo afectan al ecosistema?
+
+---
+## Texto original completo de la actividad
+
+**C.09 PREGUNTAS & RESPUESTAS** Divídanse en parejas, un miembro de cada pareja jugará el rol de agricultor y el otro de entrevistador/reportero. Elijan un país para cada pareja. Cada agricultor deberá entonces pasar algo de tiempo investigando algunas cuestiones sobre el suelo en su país, mientras cada entrevistador prepara sus preguntas. Luego júntense en sus parejas y conduzcan una entrevista, cada reportero deberá hacer preguntas sobre las condiciones del suelo y cada agricultor deberá responder y explicar cómo el suelo está afectando a sus cultivos, por qué están apareciendo algunos problemas y cómo esto está afectando al ecosistema en general. Extensión: hagan unas notas breves sobre las respuestas o graben la entrevista y luego utilícenla para escribir un artículo sobre el suelo del país que hayan elegido. ¡Tal vez podrían hacer un periódico con todos sus artículos!
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

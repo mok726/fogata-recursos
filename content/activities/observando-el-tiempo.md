@@ -1,121 +1,185 @@
 ---
 title: "Observando el Tiempo"
-duration: "varias semanas"
+duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/observando-el-tiempo/"
-description: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
-summary: "Observa cómo el clima afecta el suelo en tu jardín o parque local."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Observa el efecto del tiempo en el suelo y cómo responde."
+summary: "Observación del clima y el suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/observando-el-tiempo.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
-competencies:
-  - Ciencia y Matemáticas
-  - Sostenibilidad y Medio Ambiente
+  - caminantes
+  - rovers
+
+materials:
+  - Cuaderno
+  - Bolígrafos
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 13 # Acción por el clima
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X36"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "An Argentine garden or park over several weeks. In the center-left, a small marked area of soil with a simple weather station (thermometer, rain gauge). A journal with dates and observations lies open. The left side has space for text. On the far right side, tiny scouts (5-15) kneel near the soil, one touching the soil, another writing in the journal, seen from a distance. The patient climate observation environment dominates."
+activity_code: "suelos-C07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - clima
-  - suelo
-  - lluvia
-  - sol
-  - observación
-  - Insignia de los Suelos
+  - observacion
+  - tiempo
+  - jardin
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Observación continua
+reflective_component: 4  # Reflexión sobre clima y suelo
+active_component: 2  # Moverse para observar
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children observing the effect of weather on soil in a garden or park, taking notes and discussing responses to changing conditions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and recording. Weather and soil interaction atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Exterior"
+space_required: "Jardín, parque o bosque"
+prep_time: "5 min"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Movilidad
+
+accessibility: []
+
+competencies:
+  - Observación
+  - Conexión clima-suelo
+  - Paciencia
+
 activity_type:
   - Investigación
-  - Observación
+  - Exploración
+  - Aprender haciendo
+
 category:
-  - Meteorología
-  - Medio ambiente
-  - Naturaleza
+  - Suelo
+  - Clima
+  - Observación
+
 skills:
   - Observación
-  - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Exterior abierto"
-prep_time: "10 min inicial + seguimiento"
+  - Registro
+  - Análisis
+
 scout_values:
   - Naturaleza
-  - Perseverancia
-  - Superación personal
+  - Curiosidad y apertura al aprendizaje
+  - Responsabilidad
+
 scout_method:
   - Vida en la Naturaleza y Aventura
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+rama_castores: []
+rama_lobatos:
+  - 20  # Observo mi entorno con atención.
+  - 30  # Desarrollo habilidades para disfrutar de la naturaleza.
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+  - 38  # Desarrollo habilidades para el disfrute de la vida en la naturaleza.
+rama_caminantes:
+  - 33  # Descubro y valoro la belleza y diversidad de la naturaleza.
+  - 34  # Aprovecho toda oportunidad para conectar con el mundo natural.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades en la naturaleza.
+  - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# Observando el Tiempo
+# ¡Observando el Tiempo!
 
 ## Resumen
-Observa cómo el clima afecta el suelo en tu jardín o parque local.
+Observa el efecto del tiempo en el suelo y cómo responde a diferentes condiciones climáticas.
+
+## Preparación
+- Identifica un jardín o parque para observar.
+- Prepara un cuaderno para registrar observaciones.
 
 ## Desarrollo
-Monitorea cómo la lluvia, el sol y otros factores climáticos afectan el suelo.
+1. **Observación** (15 min/día): Observa el suelo en diferentes condiciones climáticas.
+2. **Registro** (5 min/día): Anota cómo responde el suelo.
+3. **Análisis** (15 min): ¿Cómo cambia el suelo con el clima?
+4. **Propuestas** (10 min): ¿Qué se podría hacer para mejorar la respuesta del suelo?
 
 ## Cierre
-Discute cómo podemos proteger el suelo de los efectos del clima.
+- ¿Cómo responde el suelo a la lluvia?
+- ¿Cómo se ve en tiempo cálido?
+- ¿Qué se podría hacer para mejorar la respuesta del suelo al clima?
+
+---
+## Texto original completo de la actividad
+
+**C.07 OBSERVANDO EL TIEMPO** Si tienes un jardín, empieza a observar el efecto del tiempo en el suelo. Si no tienes un jardín, observa el suelo en un parque local o en un bosque. ¿Si llueve fuertemente, el suelo se encharca? ¿Con un tiempo cálido, se ve muy seco? ¿Qué se podría hacer para mejorar la habilidad del suelo para responder a las condiciones climáticas cambiantes?
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

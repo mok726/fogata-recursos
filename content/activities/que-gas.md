@@ -1,128 +1,193 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "¡Qué gas!"
-duration: "1-2 horas"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-gas/"
-description: "Los participantes aprenden sobre los gases de efecto invernadero."
-summary: "Los participantes aprenden sobre los gases de efecto invernadero."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Juego de cartas para aprender sobre los gases de efecto invernadero y sus propiedades."
+summary: "Juego para aprender sobre gases de efecto invernadero."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/que-gas.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Tarjetas
-  - lápices.
-competencies:
-  - Creatividad y Expresión
-  - Habilidades Prácticas y Técnicas
+  - Tarjetas de cartulina
+  - Marcadores
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón con mesas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X26"
-rama_lobatos:
-  - 9
-  - 26
-rama_scouts:
-  - 13
-  - 31
-rama_caminantes:
-  - 13
-  - 29
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing the main greenhouse gases: CO2 (cars, factories), methane (cows, landfills), nitrous oxide (fertilizers), fluorinated gases (refrigerants). Matching cards on a table. The left side has space for text. On the far right side, two tiny scouts (5-15) sit, one holding a methane card, the other matching it to a cow drawing, seen from a distance. The greenhouse gases matching game environment dominates."
+activity_code: "cambioclimatico-B08"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - gases de efecto invernadero
-  - CO2
-  - metano
-  - óxido nitroso
-  - juego
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Cognitiva
+  - gases-efecto-invernadero
+  - juego-educativo
+  - aprendizaje-ludico
+  - quimica-climatica
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5  # Juego muy divertido
+reflective_component: 2  # Aprendizaje moderado
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 1  # Muy simple
+complexity_organizer: 1  # Requiere pocos materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Aprender jugando"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Colorful cards with greenhouse gas names and properties arranged on a table dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, playing a guessing game with cards about greenhouse gases. Interactive learning environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Conocimiento científico
+  - Trabajo en equipo
+  - Memorización
 activity_type:
   - Juego
-  - Aprendizaje
+  - Aprender jugando
+  - Investigación
 category:
   - Ciencia
+  - Química
   - Clima
-  - Juego
 skills:
-  - Juego interactivo
-  - aprendizaje
-main_type: "Juego"
-space_required: "Salón amplio"
-special_materials:
-  - tarjetas
-  - lápices
-  - colores
-prep_time: "20 min"
+  - Trabajo en equipo
+  - Observación
+  - Pensamiento científico
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Optimismo y Alegría
+  - Hermandad
 scout_method:
   - Aprender haciendo
   - Sistema de equipos
-ludic_component: 4
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 32 # Me intereso por aprender cosas nuevas
+  - 33 # Utilizo diferentes herramientas y busco soluciones
+rama_scouts:
+  - 40 # Exploro temas de mi interés para mejorar cada día
+  - 42 # Aplico conocimiento y habilidades para resolver desafíos
+rama_caminantes:
+  - 37 # Investigo y desarrollo distintas habilidades
+  - 38 # Afronto creativamente los desafíos
+rama_rovers:
+  - 8  # Busco y evalúo diversas fuentes de información
+  - 20 # Actúo de manera resiliente ante las dificultades
 ---
 
 # ¡Qué gas!
 
 ## Resumen
-Los participantes aprenden sobre los gases de efecto invernadero.
+Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, escriban sus propiedades en el otro lado de la carta. Por ejemplo, la carta del dióxido de carbono podría enumerar las siguientes propiedades: un gas incoloro que forma cerca de 0,3 por ciento del aire; las plantas fabrican su alimento a partir de este.
+
+## Preparación
+1. Investiga sobre los gases de efecto invernadero.
+2. Prepara tarjetas con los nombres y propiedades.
+3. Organiza los equipos.
 
 ## Desarrollo
-Los participantes crean tarjetas con los nombres y propiedades de los gases de efecto invernadero y juegan a adivinarlos.
+1. Cada carta debe tener el nombre de un gas de efecto invernadero en un lado y sus propiedades en el otro.
+2. Prueben las cartas con los miembros de su grupo.
+3. Pidan a una persona que enumere las propiedades y el resto del grupo debe tratar de adivinar cuál gas se está describiendo.
 
 ## Cierre
-El juego termina con una discusión sobre los gases de efecto invernadero.
+1. Discutan la importancia de cada gas de efecto invernadero.
+2. Reflexiona sobre cómo las actividades humanas afectan los niveles de estos gases.
+3. Pregunta final: ¿Qué gas de efecto invernadero te sorprendió más y por qué?
+
+## Texto original completo de la actividad
+B.08 ¡QUÉ GAS! Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, escriban sus propiedades en el otro lado de la carta. Por ejemplo, la carta del dióxido de carbono podría enumerar las siguientes propiedades: un gas incoloro que forma cerca de 0,3 por ciento del aire; las plantas fabrican su alimento a partir de este. Prueben las cartas con los miembros de su grupo; pidan a una persona que enumere las propiedades y el resto del grupo debe tratar de adivinar cuál gas se está describiendo.
+
+NIVELES: 1, 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

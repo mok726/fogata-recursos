@@ -1,128 +1,187 @@
 ---
 title: "Protección contra la Contaminación"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/proteccion-contra-la-contaminacion/"
 description: "Crea un póster sobre los efectos de la contaminación en el suelo."
-summary: "Crea un póster sobre los efectos de la contaminación en el suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+summary: "Póster sobre contaminación del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/proteccion-contra-la-contaminacion.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
   - Materiales para póster
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+  - Pinturas
+  - Marcadores
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 6  # Agua limpia y saneamiento
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X47"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "A scout meeting room in Argentina, with a table covered with art supplies. In the center-left, a finished poster showing soil pollution (chemicals, trash, oil) on one side and healthy soil with plants on the other. The left side has negative space for text. On the far right side, tiny young scouts (5-15) sit at the table, one adding final touches to a poster, others holding markers, seen from a distance. The creative activism environment dominates."
+activity_code: "suelos-D07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - contaminación
-  - suelo
-  - póster
-  - prevención
-  - conciencia
-  - Insignia de los Suelos
+  - contaminacion
+  - poster
+  - concienciacion
+  - agua
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Creación artística
+reflective_component: 4  # Reflexión sobre contaminación
+active_component: 1  # Actividad de dibujo
+
+complexity_execution: 1  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful poster showing the effects of pollution on soil, with messages about prevention and eco-friendly products dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating posters. Environmental art and pollution awareness atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Creatividad
-  - Arte
-  - Sensibilización
-category:
-  - Arte
-  - Medio ambiente
-  - Comunicación
-skills:
+space_required: "Salón con mesas para dibujar"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Creatividad
   - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Salón amplio"
-special_materials:
-  - cartulinas
-  - marcadores
-  - colores
-  - lápices
-prep_time: "15 min"
+  - Comunicación
+
+activity_type:
+  - Creatividad / Arte
+  - Sensibilización
+  - Servicio a los demás
+
+category:
+  - Suelo
+  - Contaminación
+  - Prevención
+
+skills:
+  - Creatividad
+  - Comunicación visual
+  - Conciencia ambiental
+
 scout_values:
   - Naturaleza
-  - Solidaridad
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Responsabilidad
+  - Creatividad e ingenio
 
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos:
+  - 24  # Cuido del planeta.
+  - 47  # Expreso mis emociones artísticamente.
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente.
+  - 53  # Participo de manifestaciones artísticas.
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable.
+  - 49  # Utilizo herramientas de comunicación.
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 11  # Me comunico de manera asertiva.
 ---
 
-# Protección contra la Contaminación
+# ¡Protección contra la Contaminación!
 
 ## Resumen
-Crea un póster sobre los efectos de la contaminación en el suelo.
+Crea un póster sobre los efectos de la contaminación en el suelo y cómo prevenirla.
+
+## Preparación
+1. Investiga sobre los efectos de la contaminación en el suelo.
+2. Reúne materiales para el póster.
+3. Piensa en mensajes preventivos.
 
 ## Desarrollo
-Prepara un póster que muestre cómo la contaminación afecta el suelo y cómo podemos prevenirla. Exhibe el póster en tu comunidad.
+1. **Investigación** (15 min): Aprende sobre la contaminación del suelo.
+2. **Creación** (30 min): Diseña y dibuja tu póster.
+3. **Exhibición** (10 min): Coloca el póster en lugares públicos.
+4. **Acción** (5 min): Convence a tu familia de usar productos eco-amigables.
 
 ## Cierre
-Reflexiona sobre cómo podemos reducir la contaminación en nuestra vida diaria.
+- ¿Cómo afecta la contaminación al suelo?
+- ¿Qué podemos hacer para prevenirla?
+- ¿Qué productos eco-amigables puedes recomendar?
+
+---
+## Texto original completo de la actividad
+
+**D.07 PROTECCIÓN CONTRA LA CONTAMINACIÓN** El agua contaminada puede causar daños serios a nuestros suelos. Prepara un póster que muestre y explique los efectos de la contaminación en los suelos y aquello que podemos hacer para prevenir una mayor polución y contaminación. Exhibe tu póster alrededor de tu escuela y en lugares de tu comunidad local, como en los almacenes, paradas de autobús, etc. Pide a tus amigos y a tu familia que compren productos de limpieza eco-amigables y artículos de higiene que no añadan muchos químicos al sistema acuático.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

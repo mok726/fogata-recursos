@@ -1,126 +1,185 @@
 ---
 title: "Sé un Ecoturista"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-ecoturista/"
-description: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
-summary: "Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga el ecoturismo y diseña tu propia actividad de ecoturismo."
+summary: "Diseño de actividad de ecoturismo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/se-un-ecoturista.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
-competencies:
-  - Sostenibilidad y Medio Ambiente
-  - Creatividad y Expresión
+
+materials:
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
-  - 8
-  - 12
+  - 8  # Trabajo decente y crecimiento económico
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X48"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "A scout meeting room in Argentina, with a large map of Argentina on the wall in the center-left. On a table, a laptop open to ecotourism examples (Iguazú, Bariloche, Iberá) and a notebook with design ideas for an ecotourism activity. The left side has space for text. On the far right side, tiny older scouts (11-17) sit at the table, one pointing at the map, another typing, seen from a distance. The planning and research environment dominates."
+activity_code: "suelos-D08"
+alternative_codes:
+  - suelos-D08
+  - cambioclimatico-E21
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - ecoturismo
-  - Argentina
-  - suelo
-  - conservación
-  - diseño
-  - Insignia de los Suelos
-location: "Ambos"
+  - naturaleza
+  - caminata
+  - conservacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Actividad al aire libre
+reflective_component: 3  # Reflexión sobre conservación
+active_component: 4  # Caminata y exploración
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Exploración"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children designing and testing an ecotourism activity, hiking and exploring their local natural environment dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, exploring nature. Sustainable tourism and nature appreciation atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Exterior"
+space_required: "Área natural local"
+prep_time: "20 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
+
+accessibility: []
+
+competencies:
+  - Diseño de actividades
+  - Conciencia ecológica
+  - Apreciación de la naturaleza
+
 activity_type:
-  - Investigación
-  - Creatividad
-  - Planificación
+  - Exploración
+  - Aprender haciendo
+  - Servicio a los demás
+
 category:
-  - Turismo
-  - Medio ambiente
-  - Economía
+  - Suelo
+  - Ecoturismo
+  - Naturaleza
+
 skills:
-  - Conciencia ambiental
-  - Creatividad
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - mapa de Argentina (opcional)
-prep_time: "25 min"
+  - Planificación
+  - Observación
+  - Comunicación
+
 scout_values:
   - Naturaleza
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
-ludic_component: 3
-reflective_component: 3
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Aventura
+  - Curiosidad y apertura al aprendizaje
 
+scout_method:
+  - Vida en la Naturaleza y Aventura
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza.
+  - 38  # Desarrollo habilidades para el disfrute de la vida en la naturaleza.
+rama_caminantes:
+  - 33  # Descubro y valoro la belleza de la naturaleza.
+  - 34  # Aprovecho toda oportunidad para conectar con el mundo natural.
+rama_rovers:
+  - 4  # Disfruto de las oportunidades en la naturaleza.
+  - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# Sé un Ecoturista
+# ¡Sé un Ecoturista!
 
 ## Resumen
-Investiga ejemplos de ecoturismo en tu país y diseña tu propia actividad.
+Investiga ejemplos de ecoturismo y diseña tu propia actividad para explorar la naturaleza.
+
+## Preparación
+1. Investiga sobre el ecoturismo en tu país.
+2. Diseña una actividad de ecoturismo.
+3. Prepara el equipo necesario.
 
 ## Desarrollo
-Busca información sobre cómo el ecoturismo protege el suelo y diseña una actividad (caminata, observación de naturaleza, etc.).
+1. **Investigación** (20 min): Aprende sobre ecoturismo local.
+2. **Diseño** (15 min): Crea tu propia actividad.
+3. **Prueba** (20 min): Realiza la actividad con amigos y familia.
+4. **Reflexión** (5 min): Explica cómo los suelos son esenciales.
 
 ## Cierre
-Reflexiona sobre cómo el ecoturismo puede ayudar a conservar el suelo.
+- ¿Cómo ayuda el ecoturismo a proteger los suelos?
+- ¿Qué actividad diseñaste?
+- ¿Qué aprendiste sobre la conexión entre naturaleza y suelos?
+
+---
+## Texto original completo de la actividad
+
+**D.08 SÉ UN ECOTURISTA** Investiga sobre algunos ejemplos de ecoturismo en tu país. ¿Cómo ayuda esto a proteger a los suelos? Diseña tu propia actividad de ecoturismo y pruébala con tus amigos y tu familia. Por ejemplo, podrían hacer una caminata en su área local y explorar su medio ambiente natural. Explica de qué manera los suelos son esenciales para nuestras experiencias en la naturaleza - ¡no podríamos sobrevivir sin los suelos!
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

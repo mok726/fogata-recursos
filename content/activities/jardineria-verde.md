@@ -46,6 +46,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - bosques
+  - suelos
 activity_code: "bosques-E09"
 required: false
 required_for: []

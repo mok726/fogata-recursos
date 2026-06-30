@@ -1,134 +1,192 @@
 ---
 title: "El Suelo y la Salud"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-suelo-y-la-salud/"
-description: "Crea un póster sobre la conexión entre el suelo y la salud humana."
-summary: "Crea un póster sobre la conexión entre el suelo y la salud humana."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga y crea un póster sobre la conexión entre el suelo y la salud humana."
+summary: "Conexión entre suelo y salud humana."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/el-suelo-y-la-salud.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
+
 materials:
   - Materiales para póster
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+  - Acceso a internet
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 3
-  - 15
+  - 2  # Hambre cero
+  - 3  # Salud y bienestar
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X06"
-rama_lobatos:
-  - 26
-  - 27
-rama_scouts:
-  - 34
-  - 35
-rama_caminantes:
-  - 30
-  - 31
-rama_rovers:
-  - 30
-  - 31
-image_prompt: "A scout meeting room in Argentina, with a table covered with art supplies. In the center-left, a poster in progress shows fruits and vegetables with mineral icons (iron, calcium) and a connection to soil. Reference books open. The left side has space for text. On the far right side, tiny older scouts (11-17) sit at the table, drawing and writing, seen from a distance. The health and nutrition environment dominates."
+activity_code: "suelos-B02"
 required: true
 required_for:
-  - suelos-X
-required_comment: "Actividad obligatoria"
+  - suelos-B
+required_comment: "Actividad obligatoria para la Sección B: Los Usos del Suelo"
+required_category: "Los Usos del Suelo"
+
 tags:
   - suelos
-  - suelo
   - salud
   - nutrientes
-  - plantas
-  - alimentación
-  - Insignia de los Suelos
+  - medicinas
+  - poster
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Creación de póster
+reflective_component: 4  # Reflexión sobre salud y suelo
+active_component: 1  # Actividad de creación
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A colorful poster showing the connection between soil and human health - nutrients, medicines, food production - dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, creating the poster. Health and soil awareness atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - Todas
+space_required: "Salón con mesas"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia de salud
+  - Comunicación visual
+
 activity_type:
   - Investigación
-  - Creatividad
-  - Arte
+  - Creatividad / Arte
+  - Aprender haciendo
+
 category:
+  - Suelo
   - Salud
-  - Medio ambiente
-  - Ciencia
+  - Nutrición
+
 skills:
   - Investigación
   - Creatividad
-  - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Salón amplio"
-special_materials:
-  - cartulinas
-  - marcadores
-  - acceso a internet
-prep_time: "20 min"
+  - Comunicación
+
 scout_values:
+  - Salud
   - Naturaleza
-  - Superación personal
+  - Responsabilidad
+
 scout_method:
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos:
+  - 1  # Elijo alimentos que me ayudan a crecer.
+  - 2  # Mantengo una buena higiene personal.
+
+rama_scouts:
+  - 1  # Incorporo hábitos de higiene.
+  - 2  # Entiendo la importancia de alimentarme de forma saludable.
+
+rama_caminantes:
+  - 1  # Adopto hábitos de alimentación saludables.
+  - 2  # Expreso mis emociones entendiendo cómo me afectan.
+
+rama_rovers:
+  - 1  # Sostengo hábitos de alimentación saludables.
+  - 13 # Tomo consciencia de mis emociones.
 ---
 
-# El Suelo y la Salud
+# ¡El Suelo y la Salud!
 
 ## Resumen
-Crea un póster sobre la conexión entre el suelo y la salud humana.
+Investiga la conexión entre el suelo y la salud humana, y crea un póster informativo.
+
+## Preparación
+1. Investiga sobre la conexión entre suelo y salud.
+2. Reúne materiales para el póster.
+3. Prepara datos adicionales sobre nutrientes.
 
 ## Desarrollo
-Investiga cómo el suelo proporciona nutrientes a las plantas y cómo esto afecta la salud humana. Incluye datos sobre nutrientes clave.
+1. **Investigación** (20 min): Aprende sobre la conexión suelo-salud.
+2. **Creación** (25 min): Haz un póster con todas las conexiones.
+3. **Presentación** (10 min): Comparte tu póster con el grupo.
+4. **Discusión** (5 min): ¿Son los mismos nutrientes que necesitamos como humanos?
 
 ## Cierre
-Presenta el póster al grupo y discute la importancia del suelo para la salud.
+- ¿Cómo está conectado el suelo con nuestra salud?
+- ¿Qué nutrientes son importantes para el suelo?
+- ¿Qué medicinas vienen del suelo?
+
+---
+## Texto original completo de la actividad
+
+**B.02 EL SUELO Y LA SALUD** El suelo está conectado con nuestra salud de muchas formas diferentes. Este provee nutrientes importantes a las plantas y los cultivos, de los cuales posteriormente se alimentan los humanos. Muchas de las bacterias que se encuentran en los suelos son utilizadas en nuestras medicinas. Haz un póster que indique todas las maneras en que nuestro suelo está conectado con la salud humana. Incluye algunos datos extra en un lado del póster, como los principales nutrientes que son importantes para unos suelos saludables. ¿Estos son los mismos nutrientes que necesitamos como humanos?
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

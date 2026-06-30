@@ -1,127 +1,177 @@
 ---
 title: "Tu Flor Favorita"
-duration: "1-2 horas"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-flor-favorita/"
-description: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
-summary: "Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Escribe un poema sobre tu flor favorita y la importancia del suelo para su crecimiento."
+summary: "Poema sobre una flor y el suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/tu-flor-favorita.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
 age: "5-10 años"
 age_group:
   - castores
   - manada
+
 materials:
-  - Libros/recursos en línea
   - Papel
-  - Lápices
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+  - Lápices de colores
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 4  # Educación de calidad
+
 activity_badges:
   - suelos
-activity_code: "suelos-X20"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 32
-  - 35
-rama_caminantes:
-  - 31
-  - 33
-rama_rovers:
-  - 4
-  - 32
-image_prompt: "A scout meeting room in Argentina, with a table covered with paper and colored pencils. In the center-left, a drawing of a flower (e.g., sunflower) with roots visible in the soil, and a poem written next to it. The left side has negative space for text. On the far right side, tiny young scouts (5-10) sit at the table, one reading a poem aloud, others drawing, seen from a distance. The creative poetry and art environment dominates."
+activity_code: "suelos-B03"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - flor
-  - fruta
-  - suelo
-  - poema
-  - crecimiento
-  - Insignia de los Suelos
+  - poesia
+  - creatividad
+  - naturaleza
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Escritura creativa con dibujo
+reflective_component: 2  # Reflexión ligera
+active_component: 1  # Actividad de escritura
+
+complexity_execution: 1  # Muy sencilla
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A child writing a poem about their favorite flower with colorful illustrations of flowers and soil dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, writing and drawing. Creative expression and nature appreciation atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Salón para escribir y dibujar"
+prep_time: "5 min"
 participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
-accessibility:
-  - Todas
-activity_type:
+
+accessibility: []
+
+competencies:
   - Creatividad
-  - Arte
+  - Expresión escrita
+  - Conexión con la naturaleza
+
+activity_type:
+  - Creatividad / Arte
   - Reflexión
+  - Juego
+
 category:
-  - Literatura
-  - Jardinería
-  - Medio ambiente
+  - Suelo
+  - Flores
+  - Poesía
+
 skills:
   - Creatividad
-  - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices de colores
-  - acceso a internet o libros
-prep_time: "10 min"
+  - Expresión escrita
+  - Observación
+
 scout_values:
   - Naturaleza
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Creatividad e ingenio
+  - Optimismo y Alegría
 
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+
+rama_lobatos:
+  - 29  # Disfruto de descubrir la diversidad en la naturaleza.
+  - 47  # Expreso mis emociones a través de medios artísticos.
+
+rama_scouts: []
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Tu Flor Favorita
+# ¡Tu Flor Favorita!
 
 ## Resumen
-Investiga cómo el suelo afecta el crecimiento de tu flor o fruta favorita.
+Escribe un poema sobre tu flor favorita y reflexiona sobre la importancia del suelo para su crecimiento.
+
+## Preparación
+- Elige tu flor o fruta favorita.
+- Piensa en cómo el suelo es importante para ella.
 
 ## Desarrollo
-Elige una flor o fruta y busca información sobre las condiciones de suelo que necesita para crecer. Escribe un poema sobre su relación con el suelo.
+1. **Investigación** (10 min): ¿Qué condiciones de suelo son mejores para tu flor?
+2. **Escritura** (15 min): Escribe un poema sobre tu flor y el suelo.
+3. **Compartir** (5 min): Lee tu poema en voz alta.
 
 ## Cierre
-Comparte el poema con el grupo y discute la importancia del suelo para las plantas.
+- ¿Qué flor elegiste y por qué?
+- ¿Cómo ayuda el suelo a tu flor?
+- ¿Qué aprendiste sobre la relación entre flores y suelo?
+
+---
+## Texto original completo de la actividad
+
+**B.03 TU FLOR FAVORITA** ¿Cuál es tu flor o fruta favorita y por qué? ¿Alguna vez pensaste que tal vez no existiría sin la presencia del suelo? Averigua qué condiciones de suelo son mejores para esta. Escribe un poema sobre tu flor y todas las formas en que el suelo es importante para esta.
+
+nivel 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

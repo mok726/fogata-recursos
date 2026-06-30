@@ -1,124 +1,182 @@
 ---
 title: "Medios Sociales"
-duration: "1-2 horas"
+duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/medios-sociales/"
-description: "Usa redes sociales para crear conciencia sobre la importancia del suelo."
-summary: "Usa redes sociales para crear conciencia sobre la importancia del suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Usa las redes sociales para crear conciencia sobre los suelos."
+summary: "Campaña en redes sociales sobre el suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/medios-sociales.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
-competencies:
-  - Comunicación Efectiva
-  - Sostenibilidad y Medio Ambiente
+
+materials:
+  - Acceso a internet
+  - Cámara
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
-  - 3
-  - 13
+  - 17 # Alianzas para lograr los objetivos
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X51"
-rama_lobatos:
-  - 26
-  - 46
-rama_scouts:
-  - 31
-  - 52
-rama_caminantes:
-  - 29
-  - 48
-rama_rovers:
-  - 11
-  - 31
-image_prompt: "An Argentine home or scout room, with a smartphone on a table in the center-left. The phone screen shows a social media post with a photo of hands holding soil and hashtags (#SaveOurSoil). A laptop with analytics open. The left side has negative space for text. On the far right side, a tiny older scout (11-17) sits at the table typing on the phone, another reading comments on a laptop, seen from a distance. The digital advocacy environment dominates."
+activity_code: "suelos-D11"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - redes sociales
-  - conciencia
-  - suelo
-  - publicación
-  - educación
-  - Insignia de los Suelos
-location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
-activity_type:
-  - Servicio a los demás
-  - Comunicación
-category:
-  - Comunicación
-  - Medio ambiente
-  - Tecnología
-skills:
-  - Comunicación
-  - Conciencia ambiental
-main_type: "Servicio a los demás"
-space_required: "Salón chico"
-special_materials:
-  - celular o computadora con acceso a redes sociales
-prep_time: "15 min"
-scout_values:
-  - Hermandad
-  - Naturaleza
-  - Solidaridad
-scout_method:
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - redes-sociales
+  - comunicacion
+  - concienciacion
+  - blog
 
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Creación de contenido digital
+reflective_component: 3  # Reflexión sobre comunicación
+active_component: 1  # Actividad digital
+
+complexity_execution: 3  # Requiere habilidades digitales
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Comunicación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children using social media to share soil facts and photos, creating an online conversation about soil conservation dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, posting content. Digital advocacy and online community engagement atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Comunicación digital
+  - Creatividad
+  - Conciencia ambiental
+
+activity_type:
+  - Comunicación
+  - Servicio a los demás
+  - Creatividad / Arte
+
+category:
+  - Suelo
+  - Redes sociales
+  - Comunicación
+
+skills:
+  - Comunicación digital
+  - Creatividad
+  - Persuasión
+
+scout_values:
+  - Responsabilidad
+  - Creatividad e ingenio
+  - Naturaleza
+
+scout_method:
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 39  # Uso aplicaciones que me ayudan.
+  - 52  # Desarrollo habilidades para comunicarme.
+rama_caminantes:
+  - 48  # Desarrollo habilidades para comunicarme.
+  - 49  # Utilizo herramientas de comunicación.
+rama_rovers:
+  - 11  # Me comunico de manera asertiva.
+  - 7  # Aplico técnicas y tecnologías de la información.
 ---
 
-# Medios Sociales
+# ¡Medios Sociales!
 
 ## Resumen
-Usa redes sociales para crear conciencia sobre la importancia del suelo.
+Usa las redes sociales para crear conciencia sobre los suelos y su conservación.
+
+## Preparación
+1. Elige una plataforma para tu campaña.
+2. Prepara fotos y contenido.
+3. Define un calendario de publicaciones.
 
 ## Desarrollo
-Publica datos y noticias sobre el suelo en tus redes sociales. Invita a tus seguidores a compartir sus propias fotos y reflexiones.
+1. **Preparación** (20 min): Crea contenido interesante.
+2. **Publicación** (15 min): Publica datos y noticias.
+3. **Interacción** (15 min): Invita a otros a compartir fotos.
+4. **Monitoreo** (10 min): Mide el alcance de tu campaña.
 
 ## Cierre
-Reflexiona sobre cómo las redes sociales pueden ser una herramienta para proteger el suelo.
+- ¿Cuántos seguidores lograste?
+- ¿Qué tipo de contenido fue más popular?
+- ¿Cómo puedes mantener la campaña?
+
+---
+## Texto original completo de la actividad
+
+**D.11 MEDIOS SOCIALES** Usa una plataforma para crear blogs o un medio social para pasar la voz sobre los suelos. Publica datos y noticias interesantes sobre los suelos e informa a tu audiencia de formas divertidas y creativas. Publica fotos de los suelos de tu área con información sobre la calidad y la salud del suelo e invita a tus seguidores a que publiquen sus propias fotos sobre el suelo. Mira cuántos seguidores logras obtener. Trata de iniciar una vivaz discusión virtual sobre los suelos y sobre cómo podemos ayudar a conservarlos.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

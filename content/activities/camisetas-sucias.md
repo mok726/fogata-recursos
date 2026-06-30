@@ -1,126 +1,182 @@
 ---
 title: "Camisetas Sucias"
-duration: "1-2 horas"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/camisetas-sucias/"
-description: "Investiga cómo las fibras de tu ropa están relacionadas con el suelo."
-summary: "Investiga cómo las fibras de tu ropa están relacionadas con el suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga de dónde vienen los materiales de tu ropa favorita."
+summary: "Investigación de fibras y suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/camisetas-sucias.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+
 materials:
-  - Ropa con etiquetas
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
+  - Prendas de vestir
+  - Acceso a internet
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 12 # Producción y consumo responsables
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X22"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 17
-  - 30
-image_prompt: "A scout meeting room in Argentina, with a table covered with clothing items (shirts, pants). In the center-left, a tablet or book open to information about cotton growing in soil. A magnifying glass next to a clothing label. The left side has negative space for text. On the far right side, tiny scouts (5-15) sit around the table, one pointing at a 100% cotton label, another looking up on a tablet, seen from a distance. The consumer-awareness environment dominates."
+activity_code: "suelos-B05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - ropa
   - fibras
-  - algodón
-  - suelo
-  - etiquetas
-  - Insignia de los Suelos
+  - consumo
+  - investigacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Investigación de objetos personales
+reflective_component: 3  # Reflexión sobre consumo
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 1  # Muy sencilla
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children checking clothing labels and researching where the fibers come from, discovering the soil connection dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching on computers. Sustainable consumption and fiber origins atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+space_required: "Salón con acceso a internet"
+prep_time: "5 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia del consumo
+  - Conexión suelo-vestimenta
+
 activity_type:
   - Investigación
   - Reflexión
+  - Aprender haciendo
+
 category:
-  - Moda
-  - Medio ambiente
-  - Consumo responsable
+  - Suelo
+  - Ropa
+  - Fibras
+
 skills:
   - Investigación
-  - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - ropa variada (que los participantes traigan)
-  - acceso a internet
-prep_time: "10 min"
+  - Observación
+  - Conciencia del consumo
+
 scout_values:
-  - Naturaleza
+  - Sencillez y Austeridad
   - Responsabilidad
-  - Superación personal
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos:
+  - 24  # Cuido del planeta utilizando los recursos de forma responsable.
+  - 35  # Conozco diferentes profesiones y oficios.
+
+rama_scouts:
+  - 31  # Reconozco mi impacto en el ambiente.
+  - 49  # Administro mis recursos de forma responsable.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Camisetas Sucias
+# ¡Camisetas Sucias!
 
 ## Resumen
-Investiga cómo las fibras de tu ropa están relacionadas con el suelo.
+Investiga de dónde vienen los materiales de tu ropa favorita y su conexión con el suelo.
+
+## Preparación
+- Elige tu prenda de vestir favorita.
+- Revisa su etiqueta.
 
 ## Desarrollo
-Revisa las etiquetas de tu ropa y busca información sobre cómo se cultivan las fibras. Comparte tus hallazgos con el grupo.
+1. **Investigación** (10 min): Revisa la etiqueta de tu ropa para ver el material.
+2. **Investigación** (15 min): ¿De dónde viene ese material? ¿Dónde se cultiva la fibra?
+3. **Compartir** (5 min): Comparte tus hallazgos con el grupo.
 
 ## Cierre
-Reflexiona sobre cómo el suelo sustenta la producción de fibras naturales.
+- ¿De qué material está hecha tu ropa favorita?
+- ¿Cómo se conecta con el suelo?
+- ¿Qué aprendiste sobre la ropa que usas?
+
+---
+## Texto original completo de la actividad
+
+**B.05 CAMISETAS SUCIAS** ¿Sabías que tu armario está lleno de tierra? Bueno, tal vez no exactamente, pero mucha de nuestra vestimenta se origina en el suelo. De hecho, las fibras, las cuales se usan para fabricar textiles, son una de las contribuciones más importantes del suelo para los humanos. Elige tu ítem de ropa favorito y revisa la etiqueta para ver de qué está hecho. Luego, investiga de dónde viene ese material y dónde se cultiva la fibra. Comparte tus hallazgos en el grupo.
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

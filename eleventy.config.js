@@ -252,60 +252,63 @@ eleventyConfig.addFilter(
 
 
 
+
 eleventyConfig.addFilter(
   "activityCardModel",
-  function (activities, options = {}) {
+  function(activity, options = {}) {
 
-    return activities.map(activity => ({
+    if (!activity) {
+      return null;
+    }
 
-      activity,
+    const data = activity.data || {};
+
+    return {
 
       url: activity.url,
 
-      title: activity.data.title,
-      summary: activity.data.summary,
+      title: data.title || "",
+
+      summary: data.summary || "",
 
       image:
-        activity.data.image ||
+        data.image ||
         "/imagenes/actividades/activity-card.png",
 
-      duration: activity.data.duration,
-      participants: activity.data.participants,
+      duration:
+        data.duration || null,
+
+      participants:
+        data.participants || null,
 
       ageGroup:
-        activity.data.age_group || [],
+        data.age_group || [],
 
       sdgs:
-        activity.data.sdgs || [],
+        data.sdgs || [],
 
       activityBadges:
-        activity.data.activity_badges || [],
+        data.activity_badges || [],
 
       attachments:
-        activity.data.attachments || [],
-
-      version:
-        activity.data.version,
+        data.attachments || [],
 
       original:
-        activity.data.original,
+        data.original || false,
+
+      version:
+        data.version || null,
 
       isRequired:
-        activity.data.isRequired,
+        data.isRequired || false,
 
       isComplementary:
         options.isComplementary || false,
 
       isFeatured:
-        options.isFeatured || false,
+        options.isFeatured || false
 
-      badges:
-        options.badges,
-
-      ageGroups:
-        options.ageGroups
-
-    }));
+    };
 
   }
 );
@@ -1267,6 +1270,289 @@ eleventyConfig.addFilter(
     return result;
   }
 );
+
+
+
+
+
+//
+// =====================================================
+// BADGE VIEW
+// =====================================================
+// Devuelve toda la información necesaria para renderizar
+// una página de insignia en una sola pasada.
+// No modifica las colecciones originales.
+// =====================================================
+//
+
+eleventyConfig.addFilter(
+  "badgeView",
+  function (activities, badge) {
+
+    const result = {
+
+      stats: {
+        total: 0,
+        official: 0,
+        complementary: 0,
+        inconsistent: 0,
+        required: 0
+      },
+
+      sections: {},
+
+      complementary: {
+        count: 0,
+        activities: []
+      },
+
+      inconsistent: {
+        count: 0,
+        activities: []
+      }
+
+    };
+
+
+
+    //
+    // Crear las secciones
+    //
+
+    if (badge.sections) {
+
+      for (const [id, section] of Object.entries(badge.sections)) {
+
+        result.sections[id] = {
+
+          id,
+
+          title:
+            section.title,
+
+          description:
+            section.description || "",
+
+          count: 0,
+
+          requiredCount: 0,
+
+          activities: []
+
+        };
+
+      }
+
+    }
+
+
+
+    //
+    // Procesar actividades
+    //
+
+    for (const activity of activities) {
+
+      const activityBadges =
+        activity.data.activity_badges || [];
+
+      if (
+        !activityBadges.includes(badge.id)
+      ) {
+        continue;
+      }
+
+      //
+      // Clonar
+      //
+
+      const clone = {
+
+        ...activity,
+
+        data: {
+
+          ...activity.data
+
+        }
+
+      };
+
+
+
+      const code =
+        clone.data.activity_code || "";
+
+      const parts =
+        code.split("-");
+
+      let sectionId = null;
+
+      let complementary = false;
+
+      let inconsistent = false;
+
+      if (parts.length < 2) {
+
+        complementary = true;
+
+      }
+      else {
+
+        const suffix =
+          parts[1];
+
+        if (!/^[A-Z]/.test(suffix)) {
+
+          complementary = true;
+
+        }
+        else {
+
+          sectionId =
+            suffix[0];
+
+          if (!badge.sections?.[sectionId]) {
+
+            inconsistent = true;
+
+          }
+
+        }
+
+      }
+
+
+
+      const required =
+        (clone.data.required_for || []).includes(
+          badge.id +
+          "-" +
+          sectionId
+        );
+
+
+
+      clone.view = {
+
+        section:
+          sectionId,
+
+        complementary,
+
+        inconsistent,
+
+        required
+
+      };
+
+
+
+      result.stats.total++;
+
+      if (required)
+        result.stats.required++;
+
+      if (complementary) {
+
+        result.stats.complementary++;
+
+        result.complementary.activities.push(clone);
+
+        continue;
+
+      }
+
+      if (inconsistent) {
+
+        result.stats.inconsistent++;
+
+        result.inconsistent.activities.push(clone);
+
+        continue;
+
+      }
+
+      result.stats.official++;
+
+      result.sections[sectionId].activities.push(clone);
+
+      result.sections[sectionId].count++;
+
+      if (required)
+        result.sections[sectionId].requiredCount++;
+
+    }
+
+
+
+    //
+    // Ordenar actividades
+    //
+
+    function sortActivities(list) {
+
+      list.sort((a,b)=>{
+
+        const ca =
+          a.data.activity_code || "";
+
+        const cb =
+          b.data.activity_code || "";
+
+        return ca.localeCompare(
+          cb,
+          "es",
+          {numeric:true}
+        );
+
+      });
+
+    }
+
+    for (const section of Object.values(result.sections)) {
+
+      sortActivities(
+        section.activities
+      );
+
+    }
+
+    sortActivities(
+      result.complementary.activities
+    );
+
+    sortActivities(
+      result.inconsistent.activities
+    );
+
+
+
+    result.complementary.count =
+      result.complementary.activities.length;
+
+    result.inconsistent.count =
+      result.inconsistent.activities.length;
+
+
+
+    return result;
+
+  }
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

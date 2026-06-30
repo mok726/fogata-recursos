@@ -1,133 +1,188 @@
 ---
 title: "Transmitiendo Datos sobre el Suelo"
-duration: "1 día"
+duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/transmitiendo-datos-sobre-el-suelo/"
-description: "Crea una exhibición pública sobre los problemas del suelo y cómo protegerlo."
-summary: "Crea una exhibición pública sobre los problemas del suelo y cómo protegerlo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea una exhibición pública sobre el suelo y su degradación."
+summary: "Exhibición pública sobre el suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
+
 materials:
   - Materiales para carteles
   - Mapas
-competencies:
-  - Creatividad y Expresión
-  - Comunicación Efectiva
-  - Sostenibilidad y Medio Ambiente
+  - Listas de control
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 13 # Acción por el clima
+
 activity_badges:
   - suelos
-activity_code: "suelos-X10"
-rama_lobatos:
-  - 26
-  - 46
-rama_scouts:
-  - 31
-  - 52
-rama_caminantes:
-  - 29
-  - 48
-rama_rovers:
-  - 11
-  - 31
-image_prompt: "An Argentine public space (plaza or community center) on a sunny day. In the center-left, an exhibition of posters showing soil degradation, erosion, pollution on easels. A civilian family stops to look. The left side has open space for text. On the far right side, tiny older scouts (11-17) stand near the exhibition, one explaining to a passerby, another pointing at a map, seen from a distance. The educational civic environment dominates."
+activity_code: "suelos-D02"
 required: true
 required_for:
-  - suelos-X
-required_comment: "Actividad obligatoria"
+  - suelos-D
+required_comment: "Actividad obligatoria para la Sección D: Toma Acción"
+required_category: "Toma Acción"
+
 tags:
   - suelos
-  - exhibición
-  - público
-  - problemas del suelo
-  - protección
-  - educación
-  - Insignia de los Suelos
-location: "Interior / Exterior"
+  - exhibicion
+  - concienciacion
+  - degradacion
+  - publico
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Creación de exhibición
+reflective_component: 4  # Reflexión sobre degradación
+active_component: 2  # Montaje y organización
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 3  # Requiere permisos
+
+main_type: "Servicio a los demás"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A public exhibition about soil with posters, maps showing degradation, and checklists for soil-friendly actions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, setting up the exhibition. Public education and environmental advocacy atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Exterior"
+space_required: "Parque, plaza o espacio público"
+prep_time: "30 min"
 participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - Todas
+
+accessibility: []
+
+competencies:
+  - Comunicación
+  - Creatividad
+  - Conciencia ambiental
+
 activity_type:
   - Servicio a los demás
   - Sensibilización
-category:
-  - Comunicación
-  - Medio ambiente
-  - Ciudadanía
-skills:
-  - Creatividad
-  - Comunicación
-  - Conciencia ambiental
-main_type: "Servicio a los demás"
-space_required: "Salón amplio o espacio público"
-special_materials:
-  - cartulinas
-  - mapas
-  - caballetes
-prep_time: "1 hora"
-scout_values:
-  - Hermandad
-  - Naturaleza
-  - Solidaridad
-scout_method:
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Creatividad / Arte
 
+category:
+  - Suelo
+  - Exhibición
+  - Degradación
+
+skills:
+  - Comunicación
+  - Creatividad
+  - Organización
+
+scout_values:
+  - Naturaleza
+  - Responsabilidad
+  - Participación comunitaria
+
+scout_method:
+  - Participación comunitaria y Servicio
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos:
+  - 19  # Realizo acciones solidarias.
+  - 21  # Hablo con los demás sobre lo que creo.
+rama_scouts:
+  - 23  # Promuevo la participación e inclusión.
+  - 25  # Me comprometo y animo a otras personas.
+rama_caminantes:
+  - 22  # Trabajo para facilitar la participación.
+  - 23  # Me involucro en acciones solidarias.
+rama_rovers:
+  - 27  # Me involucro en acciones comunitarias sostenibles.
+  - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# Transmitiendo Datos sobre el Suelo
+# ¡Transmitiendo Datos sobre el Suelo!
 
 ## Resumen
-Crea una exhibición pública sobre los problemas del suelo y cómo protegerlo.
+Crea una exhibición pública sobre el suelo, su degradación y los cambios que las personas pueden hacer.
+
+## Preparación
+1. Obtén autorización para exhibir en un lugar público.
+2. Prepara carteles y mapas.
+3. Crea listas de control de acciones amigables con el suelo.
 
 ## Desarrollo
-Prepara carteles con información sobre la degradación del suelo y cómo las personas pueden ayudar. Exhibe en un lugar público.
+1. **Investigación** (20 min): Reúne datos sobre degradación del suelo.
+2. **Creación** (30 min): Diseña carteles y materiales.
+3. **Montaje** (20 min): Instala la exhibición.
+4. **Promoción** (20 min): Invita a la comunidad a visitarla.
 
 ## Cierre
-Reflexiona sobre el impacto de la exhibición y cómo puedes seguir educando a otros.
+- ¿Cómo respondió la comunidad?
+- ¿Qué carteles fueron más efectivos?
+- ¿Qué cambios puedes inspirar en tu comunidad?
+
+---
+## Texto original completo de la actividad
+
+**D.02 TRANSMITIENDO DATOS SOBRE EL SUELO** Obtén autorización para exhibir una presentación sobre el suelo en un lugar público, como un parque o una plaza, y luego ponte a trabajar. Crea carteles que expliquen los factores que dañan al suelo y cómo estos afectan a las personas, a las plantas, a los animales y al medio ambiente en general. Incluye listas de control que recuerden a las personas sobre los cambios amigables con el suelo que pueden hacer en sus vidas. Muestra mapas que indiquen la cantidad de degradación del suelo que ya ha ocurrido en la Tierra. ¡Coloca los carteles y diles a todos los que conoces que vayan a ver la exhibición!
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

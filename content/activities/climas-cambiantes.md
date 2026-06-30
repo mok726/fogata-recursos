@@ -1,127 +1,178 @@
 ---
 title: "Climas Cambiantes"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/climas-cambiantes/"
 description: "Investiga la conexión entre el suelo y el cambio climático."
-summary: "Investiga la conexión entre el suelo y el cambio climático."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+summary: "Suelo y cambio climático."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/climas-cambiantes.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "16-22 años"
 age_group:
-  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Comunicación Efectiva
+  - Acceso a internet
+  - Materiales para presentación
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 13
-  - 15
+  - 13 # Acción por el clima
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X31"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "A scout meeting room in Argentina, with a whiteboard in the center-left showing a diagram of the carbon cycle (arrows between trees, factories, soil). A laptop with climate data open. The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit in a panel discussion format, one presenting, others listening, seen from a distance. The climate science discussion environment dominates."
+activity_code: "suelos-B14"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - suelo
-  - cambio climático
+  - cambio-climatico
   - carbono
-  - calentamiento
-  - almacenamiento
-  - Insignia de los Suelos
+  - secuestro
+  - presentacion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Investigación y panel
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 3  # Requiere comprensión de conceptos
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A panel discussion about soil and climate change, with children presenting research on carbon sequestration dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting and moderating. Climate awareness and scientific discussion atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - Todas
+space_required: "Salón con acceso a internet"
+prep_time: "20 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia climática
+  - Comunicación
+
 activity_type:
   - Investigación
-  - Debate
   - Reflexión
+  - Debate / Diálogo
+
 category:
-  - Medio ambiente
-  - Clima
-  - Ciencia
+  - Suelo
+  - Cambio climático
+  - Carbono
+
 skills:
   - Investigación
-  - Presentación oral
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papelógrafo para diagramas
-prep_time: "30 min"
+  - Análisis
+  - Comunicación
+
 scout_values:
   - Naturaleza
   - Responsabilidad
   - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Sistema de equipos
 
+rama_castores: []
+rama_lobatos: []
+rama_scouts: []
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable.
+  - 30  # Me posiciono críticamente sobre decisiones con impacto ambiental.
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 31  # Desarrollo acciones de preservación ambiental.
 ---
 
-# Climas Cambiantes
+# ¡Climas Cambiantes!
 
 ## Resumen
-Investiga la conexión entre el suelo y el cambio climático.
+Investiga la conexión entre el suelo y el cambio climático, y presenta tus hallazgos en un panel.
+
+## Preparación
+1. Investiga sobre el rol del suelo en el secuestro de carbono.
+2. Prepara materiales para el panel.
 
 ## Desarrollo
-Busca información sobre cómo el suelo almacena carbono y cómo el cambio climático afecta los suelos. Presenta tus hallazgos en un panel de discusión.
+1. **Investigación** (25 min): Investiga sobre suelo y cambio climático.
+2. **Preparación** (15 min): Prepara la presentación.
+3. **Panel** (15 min): Presenta tus hallazgos en un panel de discusión.
+4. **Discusión** (5 min): Responde preguntas y debate.
 
 ## Cierre
-Reflexiona sobre cómo podemos proteger el suelo frente al cambio climático.
+- ¿Cómo se conectan el suelo y el cambio climático?
+- ¿Qué tipos de suelo almacenan mejor el carbono?
+- ¿Qué desafíos existen para aumentar el almacenamiento de carbono?
+
+---
+## Texto original completo de la actividad
+
+**B.14 CLIMAS CAMBIANTES** ¿Cuál es la conexión entre el suelo y el cambio climático? ¿Cómo se ven afectados los suelos por el cambio climático? ¿Qué tipos de suelos son los mejores depósitos de carbono? ¿Cuáles son algunos de los desafíos para intentar incrementar el potencial del suelo para almacenar carbono? En grupo, investiguen algunos datos sobre el rol del suelo en el secuestro de carbono y presenten sus hallazgos a un grupo más amplio de amigos, padres, profesores, etc., en forma de un panel de discusión; uno de ustedes deberá actuar de moderador.
+
+nivel 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

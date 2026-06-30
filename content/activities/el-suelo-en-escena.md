@@ -1,125 +1,182 @@
 ---
 title: "El Suelo en Escena"
-duration: "1-2 horas"
+duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-suelo-en-escena/"
-description: "Crea una obra de teatro sobre una comunidad que depende del suelo."
-summary: "Crea una obra de teatro sobre una comunidad que depende del suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea una obra de teatro sobre una comunidad que enfrenta daños al suelo."
+summary: "Obra de teatro sobre la protección del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/el-suelo-en-escena.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "11-22 años"
 age_group:
-  - castores
-  - manada
   - scouts
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+  - caminantes
+  - rovers
+
+materials:
+  - Papel y bolígrafos
+  - Materiales para escenografía
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 4  # Educación de calidad
+
 activity_badges:
   - suelos
-activity_code: "suelos-X52"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 35
-  - 40
-rama_caminantes:
-  - 31
-  - 36
-rama_rovers:
-  - 17
-  - 32
-image_prompt: "A scout meeting room or outdoor stage in Argentina. In the center-left, a simple stage area with a backdrop depicting a farm or village. A few props (hat, watering can, sign). The left side has space for text. On the far right side, a group of tiny scouts (5-15) perform a short play: one acting as a farmer, another as a scientist, others as community members, seen from a distance. The theatrical environmental education environment dominates."
+activity_code: "suelos-D12"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - teatro
   - obra
   - comunidad
-  - suelo
-  - degradación
-  - Insignia de los Suelos
-location: "Interior / Exterior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Auditiva
-  - -Visual
-activity_type:
+  - creatividad
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Teatro
+reflective_component: 4  # Reflexión sobre problemas del suelo
+active_component: 3  # Actuación
+
+complexity_execution: 3  # Requiere ensayo
+complexity_organizer: 3  # Requiere coordinación
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A theatre performance about a community facing soil damage from climate change or overgrazing, with characters finding solutions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing on stage. Creative storytelling and environmental advocacy atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón o escenario para la obra"
+prep_time: "30 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Creatividad
-  - Arte
-  - Sensibilización
+  - Trabajo en equipo
+  - Expresión dramática
+
+activity_type:
+  - Creatividad / Arte
+  - Reflexión
+  - Servicio a los demás
+
 category:
-  - Arte
+  - Suelo
   - Teatro
-  - Medio ambiente
+  - Comunidad
+
 skills:
   - Creatividad
-  - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Salón amplio o exterior"
-special_materials:
-  - disfraces o accesorios simples (opcional)
-prep_time: "30 min"
-scout_values:
-  - Hermandad
-  - Naturaleza
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 4
-reflective_component: 3
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Expresión oral
+  - Trabajo en equipo
 
+scout_values:
+  - Creatividad e ingenio
+  - Solidaridad
+  - Naturaleza
+
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 53  # Participo de manifestaciones artísticas.
+  - 22  # Fomento el respeto a la diversidad.
+rama_caminantes:
+  - 48  # Desarrollo habilidades para comunicarme.
+  - 49  # Utilizo herramientas de comunicación.
+rama_rovers:
+  - 11  # Me comunico de manera asertiva.
+  - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# El Suelo en Escena
+# ¡El Suelo en Escena!
 
 ## Resumen
-Crea una obra de teatro sobre una comunidad que depende del suelo.
+Crea una obra de teatro sobre una comunidad que depende del suelo y enfrenta su degradación.
+
+## Preparación
+1. Escribe un guión sobre una comunidad y su suelo.
+2. Asigna roles a los participantes.
+3. Reúne materiales para la escenografía.
 
 ## Desarrollo
-Escribe un guión sobre cómo una comunidad enfrenta problemas de degradación del suelo. Practica y presenta la obra.
+1. **Escritura** (25 min): Escribe el guión.
+2. **Ensayo** (30 min): Practica la obra.
+3. **Presentación** (20 min): Presenta la obra a la comunidad.
+4. **Discusión** (15 min): Habla sobre las soluciones.
 
 ## Cierre
-Reflexiona sobre cómo el suelo afecta nuestras vidas y cómo podemos protegerlo.
+- ¿Qué problemas enfrenta la comunidad?
+- ¿Qué soluciones propusieron?
+- ¿Cómo se relaciona esto con la vida real?
+
+---
+## Texto original completo de la actividad
+
+**D.12 EL SUELO EN ESCENA** En grupo, elaboren un guión para una obra de teatro sobre una pequeña comunidad que depende principalmente del suelo para sobrevivir. Tal vez algunos de ustedes tienen ganado, mientras otros cultivan vegetales. Últimamente su aldea ha estado enfrentando daños al suelo. ¿Esto se debe al cambio climático o al pastoreo excesivo? ¿Cómo está afectando esto a sus vidas? ¿Cuáles son algunas soluciones? Dejen que su imaginación se libere y luego practiquen algunas veces antes de anunciar la obra en su comunidad y presentarla.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

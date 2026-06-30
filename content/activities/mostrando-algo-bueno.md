@@ -1,125 +1,179 @@
 ---
-title: "MOSTrando Algo Bueno"
-duration: "1-2 horas"
+title: "MOStrando Algo Bueno"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/mostrando-algo-bueno/"
 description: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
-summary: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+summary: "Investigación sobre la MOS."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/mostrando-algo-bueno.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "16-22 años"
 age_group:
-  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Comunicación Efectiva
+  - Acceso a internet
+  - Materiales para presentación
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 13 # Acción por el clima
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X41"
-rama_lobatos:
-  - 26
-  - 27
-rama_scouts:
-  - 32
-  - 34
-rama_caminantes:
-  - 30
-  - 31
-rama_rovers:
-  - 4
-  - 31
-image_prompt: "A scout meeting room in Argentina, with a poster on an easel in the center-left showing the decomposition cycle and benefits of Soil Organic Matter (MOS). A whiteboard with diagrams. The left side has negative space for text. On the far right side, tiny older scouts (11-17) sit at tables, one presenting the poster, others taking notes, seen from a distance. The science education environment dominates."
+activity_code: "suelos-C12"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - materia orgánica
-  - suelo
-  - MOS
-  - beneficios
-  - presentación
-  - Insignia de los Suelos
+  - mos
+  - materia-organica
+  - carbono
+  - secuestro
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Investigación y presentación
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 3  # Requiere comprensión avanzada
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A presentation about Soil Organic Matter (SOM) and its importance for carbon sequestration and soil health dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting findings. Advanced soil science and climate action atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - Todas
+space_required: "Salón con acceso a internet"
+prep_time: "15 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Comprensión científica
+  - Comunicación
+
 activity_type:
   - Investigación
   - Reflexión
+  - Presentación
+
 category:
-  - Ciencia
-  - Agricultura
-  - Medio ambiente
+  - Suelo
+  - MOS
+  - Carbono
+
 skills:
   - Investigación
-  - Presentación oral
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - cartulina para póster
-prep_time: "25 min"
+  - Análisis
+  - Comunicación
+
 scout_values:
   - Naturaleza
-  - Superación personal
+  - Responsabilidad
+  - Curiosidad y apertura al aprendizaje
+
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+rama_lobatos: []
+rama_scouts: []
+rama_caminantes:
+  - 29  # Adopto un estilo de vida responsable.
+  - 31  # Soy consciente sobre la conexión e interdependencia.
+rama_rovers:
+  - 30  # Consumo y produzco de manera sostenible.
+  - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# MOSTrando Algo Bueno
+# ¡MOStrando Algo Bueno!
 
 ## Resumen
-Investiga la importancia de la Materia Orgánica del Suelo (MOS).
+Investiga la importancia de la Materia Orgánica del Suelo (MOS) y sus amenazas.
+
+## Preparación
+1. Investiga sobre la MOS y su importancia.
+2. Identifica las amenazas a la MOS.
+3. Prepara materiales para la presentación.
 
 ## Desarrollo
-Busca información sobre cómo la MOS beneficia al suelo y cómo podemos protegerla. Prepara una presentación con tus hallazgos.
+1. **Investigación** (25 min): Aprende sobre la MOS.
+2. **Análisis** (15 min): ¿Cuáles son las mayores amenazas?
+3. **Presentación** (15 min): Crea y presenta tus hallazgos.
+4. **Discusión** (5 min): ¿Cómo prevenir el daño a la MOS?
 
 ## Cierre
-Presenta la información al grupo y discute cómo podemos cuidar la MOS.
+- ¿Por qué es importante la MOS?
+- ¿Cuáles son las mayores amenazas?
+- ¿Cómo se puede prevenir el daño?
+
+---
+## Texto original completo de la actividad
+
+**C.12 MOSTRANDO ALGO BUENO** La Materia Orgánica del Suelo (MOS) es esencial para la buena salud del suelo y también apoya el secuestro de carbono. ¿Por qué la MOS es tan importante para el suelo? ¿Cuáles son algunas de las mayores amenazas para la MOS? ¿Cómo se puede prevenir el daño a la MOS? Crea una presentación sobre tus hallazgos y compártela con tu grupo.
+
+nivel 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

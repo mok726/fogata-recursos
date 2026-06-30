@@ -15,7 +15,7 @@ source:
 
 # ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/cambiando-con-el-clima.png"
-original: false
+original: "False"
 Origin: "Insignia de los Bosques - FAO"
 version: "DRAFT"
 
@@ -44,6 +44,9 @@ sdgs:
 activity_badges:
   - bosques
 activity_code: "bosques-B08"
+alternative_codes:
+  - bosques-B08
+  - cambioclimatico-C13
 required: false
 required_for: []
 required_comment: ""

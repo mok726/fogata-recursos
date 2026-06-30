@@ -1,124 +1,172 @@
 ---
 title: "Canción por el Suelo"
-duration: "1-2 horas"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-por-el-suelo/"
-description: "Crea una canción sobre los factores que dañan el suelo."
-summary: "Crea una canción sobre los factores que dañan el suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Inventa una canción sobre el suelo y los factores que lo dañan."
+summary: "Canción sobre la protección del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/cancion-por-el-suelo.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+
+materials: []
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 15 # Vida de ecosistemas terrestres
+  - 13 # Acción por el clima
+
 activity_badges:
   - suelos
-activity_code: "suelos-X32"
-rama_lobatos:
-  - 27
-  - 32
-rama_scouts:
-  - 35
-  - 40
-rama_caminantes:
-  - 31
-  - 36
-rama_rovers:
-  - 17
-  - 32
-image_prompt: "A scout meeting room or campfire circle in Argentina. In the center-left, a guitar resting on a chair, and a large paper with song lyrics about soil protection (erosion, pollution). The left side has space for text. On the far right side, tiny young scouts (5-15) sit in a semicircle, one playing guitar, others clapping and singing, seen from a distance. The joyful musical environment dominates."
+activity_code: "suelos-C03"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - canción
-  - suelo
-  - erosión
-  - contaminación
-  - música
-  - Insignia de los Suelos
-location: "Interior / Exterior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-activity_type:
+  - cancion
+  - creatividad
+  - musica
+  - proteccion
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Creación musical divertida
+reflective_component: 2  # Reflexión ligera
+active_component: 2  # Cantar y moverse
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children singing a song about soil protection, with music and creative expressions dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, performing the song. Musical creativity and environmental awareness atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón para cantar"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
   - Creatividad
-  - Arte
+  - Expresión musical
+  - Trabajo en equipo
+
+activity_type:
+  - Creatividad / Arte
+  - Juego
   - Sensibilización
+
 category:
+  - Suelo
   - Música
-  - Arte
-  - Medio ambiente
+  - Creatividad
+
 skills:
   - Creatividad
-  - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Salón amplio o exterior"
-special_materials:
-  - instrumentos musicales (opcionales)
-prep_time: "20 min"
-scout_values:
-  - Hermandad
-  - Naturaleza
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-  - Vida en la Naturaleza y Aventura
-ludic_component: 5
-reflective_component: 2
-active_component: 2
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Expresión musical
+  - Trabajo en equipo
 
+scout_values:
+  - Optimismo y Alegría
+  - Creatividad e ingenio
+  - Naturaleza
+
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+rama_lobatos:
+  - 47  # Expreso mis emociones a través de medios artísticos.
+  - 46  # Expreso mis ideas de forma clara y amable.
+rama_scouts: []
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Canción por el Suelo
+# ¡Canción por el Suelo!
 
 ## Resumen
-Crea una canción sobre los factores que dañan el suelo.
+Inventa una canción sobre el suelo y los factores que pueden dañarlo.
+
+## Preparación
+- Piensa en una canción popular que te guste.
+- Reflexiona sobre los factores que dañan el suelo.
 
 ## Desarrollo
-Inventa una canción que hable sobre la contaminación, la erosión y otros problemas del suelo.
+1. **Creación** (25 min): Escribe la letra sobre el suelo.
+2. **Ensayo** (10 min): Practica la canción en grupo.
+3. **Presentación** (10 min): Interpreten la canción juntos.
 
 ## Cierre
-Interpreta la canción con el grupo y reflexiona sobre cómo podemos proteger el suelo.
+- ¿Qué factores de daño al suelo incluiste?
+- ¿Qué mensaje quieres transmitir?
+
+---
+## Texto original completo de la actividad
+
+**C.03 CANCIÓN POR EL SUELO** Inventen una canción sobre el suelo y expliquen los diferentes factores que pueden dañarlo, como la contaminación y el sellado. (Podrían basarla en una canción popular que les guste). Interpreten la canción todos juntos en grupo.
+
+nivel 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

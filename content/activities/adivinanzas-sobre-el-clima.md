@@ -1,130 +1,195 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Adivinanzas sobre el clima"
-duration: "30 min"
+duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/adivinanzas-sobre-el-clima/"
-description: "Los participantes juegan un juego de adivinanzas sobre términos relacionados con el clima."
-summary: "Los participantes juegan un juego de adivinanzas sobre términos relacionados con el clima."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Juego de adivinanzas para aprender términos relacionados con el cambio climático de forma divertida."
+summary: "Juego de adivinanzas sobre términos climáticos."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/adivinanzas-sobre-el-clima.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Tarjetas
-  - lápices.
-competencies:
-  - Creatividad y Expresión
-  - Trabajo en Equipo y Colaboración
+  - Tarjetas de cartulina
+  - Marcadores
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón amplio para moverse"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X25"
-rama_lobatos:
-  - 9
-  - 26
-rama_scouts:
-  - 13
-  - 31
-rama_caminantes:
-  - 13
-  - 29
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a hat or box on a table in the center-left containing cards with climate terms (greenhouse effect, carbon footprint, renewable energy, drought). A whiteboard for scores. The left side has negative space for text. On the far right side, a group of tiny young scouts (5-15) sit in a semicircle, one acting out 'melting glacier', others guessing, seen from a distance. The climate charades environment dominates."
+activity_code: "cambioclimatico-B07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - clima
-  - adivinanzas
-  - términos
-  - actuación
   - juego
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "6-20"
-complexity_execution: 1
-complexity_organizer: 2
-accessibility:
-  - -Auditiva
-  - -Movilidad
+  - adivinanzas
+  - vocabulario-climatico
+  - aprendizaje-ludico
+  - trabajo-en-equipo
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5  # Juego muy divertido
+reflective_component: 1  # Baja reflexión
+active_component: 4  # Requiere movimiento y actuación
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 1  # Muy simple
+complexity_organizer: 1  # Requiere pocos materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Aprender jugando"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children acting out climate-related words in a charades game dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, actively playing a guessing game with cards. Energetic educational game environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Trabajo en equipo
+  - Creatividad
+  - Comunicación
 activity_type:
   - Juego
-  - Charadas
+  - Aprender jugando
+  - Dinámica de grupos
 category:
+  - Juego
   - Educación
   - Clima
-  - Juego
 skills:
-  - Juego interactivo
   - Trabajo en equipo
-main_type: "Juego"
-space_required: "Salón amplio"
-special_materials:
-  - tarjetas
-  - lápices
-  - sombrero o caja para sortear
-prep_time: "15 min"
+  - Creatividad
+  - Comunicación
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Resiliencia y Alegría
-  - Superación personal
+  - Optimismo y Alegría
+  - Hermandad
+  - Creatividad e Ingenio
 scout_method:
   - Aprender haciendo
   - Sistema de equipos
-ludic_component: 5
-reflective_component: 2
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Marco simbólico
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 9  # Me gustan las actividades recreativas que comparto
+  - 46 # Expreso mis ideas de forma clara y escucho a los demás
+rama_scouts:
+  - 12 # Trabajo en equipo y disfruto actividades deportivas
+  - 52 # Desarrollo habilidades para comunicarme claramente
+rama_caminantes:
+  - 11 # Comparto actividades recreativas y lúdicas
+  - 48 # Desarrollo habilidades para comunicarme de forma efectiva
+rama_rovers:
+  - 2  # Disfruto y participo de actividades recreativas
+  - 11 # Me comunico de manera asertiva
 ---
 
-# Adivinanzas sobre el clima
+# ¡Adivinanzas sobre el clima!
 
 ## Resumen
-Los participantes juegan un juego de adivinanzas sobre términos relacionados con el clima.
+En grupo, creen un conjunto de cartas y escriban una palabra relacionada con el clima en cada una, como 'gas de efecto invernadero', 'calentamiento global' y 'sequía'. ¡Sean tan creativos como puedan!
+
+## Preparación
+1. Prepara tarjetas en blanco.
+2. Reúne palabras relacionadas con el clima para incluir en el juego.
+3. Organiza los equipos.
 
 ## Desarrollo
-Los participantes crean tarjetas con palabras relacionadas con el clima y juegan a adivinarlas actuando.
+1. Cada participante escribe una palabra relacionada con el clima en una tarjeta.
+2. Mezclen todas las cartas y divídanse en equipos.
+3. Jueguen un juego de adivinanzas donde cada persona debe actuar la palabra de su carta, mientras su equipo debe adivinar qué son.
 
 ## Cierre
-El juego termina cuando todas las tarjetas han sido adivinadas.
+1. Reflexiona: ¿Qué palabras fueron más fáciles o difíciles de adivinar?
+2. Discutan el significado de las palabras que aparecieron en el juego.
+3. Pregunta final: ¿Qué palabra nueva sobre el clima aprendiste hoy?
+
+## Texto original completo de la actividad
+B.07 ADIVINANZAS SOBRE EL CLIMA. En grupo, creen un conjunto de cartas y escriban una palabra relacionada con el clima en cada una, como 'gas de efecto invernadero', 'calentamiento global' y 'sequía'. ¡Sean tan creativos como puedan! Luego mezclen todas las cartas y divídanse en equipos. Jueguen un juego de adivinanzas donde cada persona debe actuar la palabra de su carta, mientras su equipo debe adivinar qué son.
+
+NIVELES: 1, 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

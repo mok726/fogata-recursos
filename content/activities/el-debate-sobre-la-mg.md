@@ -1,125 +1,179 @@
 ---
 title: "El Debate sobre la MG"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-debate-sobre-la-mg/"
-description: "Investiga los pros y contras de la modificación genética en la agricultura."
-summary: "Investiga los pros y contras de la modificación genética en la agricultura."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga y debate sobre la modificación genética en la agricultura."
+summary: "Debate sobre modificación genética."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/el-debate-sobre-la-mg.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "16-22 años"
 age_group:
-  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Comunicación Efectiva
+  - Acceso a internet
+  - Materiales para reportaje
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
-  - 2
+  - 2  # Hambre cero
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X42"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "A scout meeting room in Argentina, with two groups of scouts preparing arguments on a table in the center-left. Laptops and printed articles about GMOs. A whiteboard with 'For' and 'Against' columns. The left side has space for text. On the far right side, tiny older scouts (11-17) stand, one group presenting a news report format, the other listening, seen from a distance. The biotech debate environment dominates."
+activity_code: "suelos-C13"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - modificación genética
-  - agricultura
-  - cultivos
-  - suelo
+  - mg
+  - modificacion-genetica
   - debate
-  - Insignia de los Suelos
-location: "Interior"
-participants: "4-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Cognitiva
-activity_type:
-  - Debate
-  - Diálogo
-  - Investigación
-category:
-  - Biotecnología
-  - Agricultura
-  - Ética
-skills:
-  - Investigación
-  - Debate
+  - agricultura
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Debate
+reflective_component: 5  # Muy reflexivo
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 3  # Requiere comprensión avanzada
+complexity_organizer: 2  # Fácil de organizar
+
 main_type: "Debate / Diálogo"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel para preparar argumentos
-prep_time: "30 min"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A news report style debate about genetic modification in agriculture, with arguments and counterarguments dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, presenting a news report. Biotechnology and agricultural ethics debate atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón con acceso a internet"
+prep_time: "20 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Pensamiento crítico
+  - Investigación
+  - Comunicación
+
+activity_type:
+  - Debate / Diálogo
+  - Investigación
+  - Reflexión
+
+category:
+  - Suelo
+  - MG
+  - Agricultura
+
+skills:
+  - Pensamiento crítico
+  - Investigación
+  - Comunicación
+
 scout_values:
-  - Superación personal
+  - Justicia
+  - Responsabilidad
+  - Naturaleza
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Participación comunitaria y Servicio
 
+rama_castores: []
+rama_lobatos: []
+rama_scouts: []
+rama_caminantes:
+  - 19  # Fomento ámbitos de participación democráticos.
+  - 30  # Me posiciono críticamente.
+rama_rovers:
+  - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
+  - 29  # Indago en las causas de las injusticias.
 ---
 
-# El Debate sobre la MG
+# ¡El Debate sobre la MG!
 
 ## Resumen
-Investiga los pros y contras de la modificación genética en la agricultura.
+Investiga y debate sobre la modificación genética en la agricultura y su impacto en el suelo.
+
+## Preparación
+1. Investiga sobre la modificación genética en la agricultura.
+2. Prepara argumentos para el debate.
+3. Reúne materiales para el reportaje.
 
 ## Desarrollo
-Busca información sobre cómo la modificación genética afecta los cultivos y el suelo. Prepara un reportaje de noticias con tus hallazgos.
+1. **Investigación** (25 min): Investiga sobre la MG.
+2. **Debate** (20 min): Debate sobre la MG.
+3. **Reportaje** (10 min): Presenta tus hallazgos.
+4. **Conclusión** (5 min): Resume las posiciones.
 
 ## Cierre
-Discute los impactos de la modificación genética en el suelo y la sociedad.
+- ¿Cuáles son los argumentos a favor y en contra?
+- ¿Cómo afecta la MG al suelo?
+- ¿Qué posición te parece más convincente?
+
+---
+## Texto original completo de la actividad
+
+**C.13 EL DEBATE SOBRE LA MG** La Modificación Genética (MG) es una técnica donde la estructura de un organismo es manipulada por medio de la biotecnología. En muchos países, esta es ampliamente usada en la agricultura para hacer que los cultivos sean más resistentes a las plagas y a las enfermedades. Sin embargo, también es muy controversial, muchas personas aseguran que añade substancias dañinas a los cultivos y al suelo. Investiguen sobre esta cuestión y presenten sus hallazgos en grupo en forma de un reportaje de noticias. Incluyan fotografías o incluso un video para hacerlo más interesante.
+
+nivel 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -1,127 +1,194 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Electricidad en todas partes"
-duration: "1-2 horas"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/electricidad-en-todas-partes/"
-description: "Los participantes cuentan los interruptores y tomas eléctricas en su casa."
-summary: "Los participantes cuentan los interruptores y tomas eléctricas en su casa."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Actividad para tomar conciencia de la cantidad de electricidad que usamos diariamente y aprender a ahorrarla."
+summary: "Contar interruptores y tomas eléctricas para tomar conciencia del consumo."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/electricidad-en-todas-partes.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-10"
+age: "5-10 años"
 age_group:
   - castores
   - manada
+
+# ========== LOGÍSTICA ==========
 materials:
   - Papel
-  - lápices
-  - colores.
-competencies:
-  - Pensamiento Crítico y Análisis
-  - Creatividad y Expresión
+  - Lápices
+  - Lápices de colores
+  - Cartulinas
+  - Materiales para decorar cobertores de interruptores
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "15 min"
+participants: "4-20"
+location: "Ambos"
+space_required: "Salón para actividad + hogar para conteo"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 7
-  - 13
+  - 4  # Educación de calidad
+  - 7  # Energía asequible y no contaminante
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X22"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 7
-  - 12
-rama_caminantes:
-  - 7
-  - 12
-rama_rovers:
-  - 4
-  - 7
-image_prompt: "An Argentine home, with a hallway wall in the center-left showing light switches and electrical outlets. A child's drawing of a lamp, TV, and fridge with arrows labeled 'usa electricidad'. The left side has open space for text. On the far right side, a tiny young scout (5-10) stands, holding a clipboard and counting switches, a parent (civilian) behind, seen from a distance. The home electricity audit environment dominates."
+activity_code: "cambioclimatico-B04"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
   - electricidad
-  - interruptores
-  - tomas
-  - consumo
-  - energía
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "2-10"
-complexity_execution: 1
-complexity_organizer: 1
-accessibility:
-  - -Visual
-activity_type:
+  - ahorro-energetico
+  - conciencia-energetica
+  - hogar
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 4  # Actividad entretenida
+reflective_component: 3  # Reflexión sobre consumo
+active_component: 2  # Conteo requiere movimiento
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 1  # Muy simple
+complexity_organizer: 1  # Requiere pocos materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Aprender jugando"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Various light switches and electrical outlets in a home setting dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, counting switches and creating colorful covers for them. Energy awareness environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Conciencia energética
   - Observación
+  - Creatividad
+activity_type:
+  - Aprender jugando
+  - Creatividad / Arte
   - Reflexión
 category:
   - Energía
   - Hogar
-  - Conciencia
+  - Clima
 skills:
   - Observación
   - Creatividad
-main_type: "Reflexión"
-space_required: "Hogar (individual)"
-special_materials:
-  - papel
-  - lápices
-  - colores
-prep_time: "15 min en casa + 10 min grupo"
+  - Responsabilidad
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Consumo consciente y Gratitud
-  - Superación personal
+  - Responsabilidad
+  - Creatividad e Ingenio
+  - Sencillez y Austeridad
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable
+  - 32 # Me intereso por aprender cosas nuevas
+rama_scouts:
+  - 48 # Comprendo la importancia de ser responsable y ético en el uso de tecnología
+  - 50 # Organizo mi tiempo en forma adecuada
+rama_caminantes:
+  - 29 # Adopto un estilo de vida responsable y sostenible en mi consumo
+  - 45 # Establezco prioridades administrando el uso del tiempo y recursos
+rama_rovers:
+  - 3  # Organizo y administro el tiempo y los recursos disponibles
+  - 19 # Tomo decisiones económicas conscientes y responsables
 ---
 
-# Electricidad en todas partes
+# ¡Electricidad en todas partes!
 
 ## Resumen
-Los participantes cuentan los interruptores y tomas eléctricas en su casa.
+¿Has pensado en cuántos interruptores de luz y tomas eléctricas tienes en casa? ¡Bueno, seguro te sorprenderás! Cuenta todos los interruptores de luz y tomas eléctricas que encuentres en casa y luego haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y en los hospitales.
+
+## Preparación
+1. Prepara papel y lápices para dibujar.
+2. Prepara materiales para decorar cobertores de interruptores.
+3. Explica la actividad al grupo.
 
 ## Desarrollo
-Los participantes cuentan los interruptores y tomas eléctricas en su casa y hacen dibujos sobre cómo se usa la electricidad.
+1. Cuenta todos los interruptores de luz y tomas eléctricas en casa.
+2. Haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y los hospitales.
+3. Discute con tu grupo: ¿Pensaban que tanta electricidad se usaba cada día?
 
 ## Cierre
-Los dibujos se comparten en grupo para reflexionar sobre el consumo de energía.
+1. Para alentar a todos en casa a ahorrar electricidad, haz unos geniales cobertores para los interruptores de luz.
+2. Colócalos alrededor de toda tu casa.
+3. Pregunta final: ¿Qué otros cambios puedes hacer en tu hogar para ahorrar electricidad?
+
+## Texto original completo de la actividad
+B.04 Electricidad en todas partes. ¿Has pensado en cuántos interruptores de luz y tomas eléctricas tienes en casa? ¡Bueno, seguro te sorprenderás! Cuenta todos los interruptores de luz y tomas eléctricas que encuentres en casa y luego haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y en los hospitales. Discute con tu grupo. ¿Pensaban que tanta electricidad se usaba cada día? Ahora, para alentar a todos en casa a ahorrar electricidad, haz unos geniales cobertores para los interruptores de luz y ¡colócalos alrededor de toda tu casa!
+
+NIVELES: 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

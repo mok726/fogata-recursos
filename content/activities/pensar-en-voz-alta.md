@@ -1,132 +1,197 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Pensar en voz alta"
-duration: "1-2 horas"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pensar-en-voz-alta/"
-description: "Los participantes expresan sus sentimientos sobre el cambio climático."
-summary: "Los participantes expresan sus sentimientos sobre el cambio climático."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Actividad de expresión personal para reflexionar y compartir sentimientos sobre el cambio climático a través de la escritura creativa."
+summary: "Expresar sentimientos sobre el cambio climático."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/pensar-en-voz-alta.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
   - Papel
-  - lápices
-  - colores.
-competencies:
-  - Creatividad y Expresión
-  - Comunicación Efectiva
+  - Lápices o bolígrafos
+  - Colores (opcional)
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "15 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón con mesas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X10"
-rama_lobatos:
-  - 21
-  - 32
-rama_scouts:
-  - 16
-  - 22
-rama_caminantes:
-  - 16
-  - 22
-rama_rovers:
-  - 4
-  - 16
-image_prompt: "An Argentine scout room, with a cozy corner with cushions and a small table in the center-left. On the table, a stack of papers with poems, essays, and comic strips about climate emotions (hope, anger, determination). A jar of pencils. The left side has space for text. On the far right side, a tiny scout (5-21) sits on a cushion, reading a poem aloud to a small group of others sitting on the floor, seen from a distance. The climate feelings sharing environment dominates."
+activity_code: "cambioclimatico-A05"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - sentimientos
-  - cambio climático
-  - ensayo
-  - poema
-  - expresión
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 1
-accessibility:
-  - -Auditiva
-  - -Visual
+  - reflexion
+  - escritura-creativa
+  - emociones
+  - poesia
+  - expresion-personal
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 2  # Actividad reflexiva
+reflective_component: 5  # Muy reflexiva
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Simple
+complexity_organizer: 1  # Requiere pocos materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Reflexión"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A contemplative scene with a person writing and thinking about climate change dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, writing poetry and sharing thoughts in small groups. Reflective educational environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Autoconciencia
+  - Expresión emocional
+  - Pensamiento crítico
 activity_type:
-  - Escritura
   - Reflexión
+  - Autoconocimiento
+  - Creatividad / Arte
 category:
-  - Literatura
-  - Psicología
+  - Reflexión
+  - Arte
   - Clima
 skills:
+  - Autoconciencia
   - Creatividad
-  - expresión escrita
-main_type: "Reflexión"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices
-  - colores
-  - marcadores
-prep_time: "15 min"
-scout_values:
-  - Hermandad
-  - Respeto al prójimo
-  - Superación personal
-scout_method:
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Comunicación
 
+# ========== VALORES SCOUT ==========
+scout_values:
+  - Optimismo y Alegría
+  - Superación personal
+  - Creatividad e Ingenio
+scout_method:
+  - Progresión personal
+  - Aprender haciendo
+
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 3   # Reconozco mis emociones
+  - 47  # Expreso mis emociones a través de medios artísticos
+rama_scouts:
+  - 3   # Reconozco y expreso mis emociones
+  - 53  # Participo de manifestaciones artísticas
+rama_caminantes:
+  - 2   # Expreso mis emociones
+  - 28  # Reconozco cómo mis creencias influyen en mis decisiones
+rama_rovers:
+  - 13  # Tomo consciencia de mis emociones
+  - 34  # Me cuestiono sobre las grandes preguntas
 ---
 
-# Pensar en voz alta
+# ¡Pensar en voz alta!
 
 ## Resumen
-Los participantes expresan sus sentimientos sobre el cambio climático.
+¿Cómo te sientes tú en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo puedes hacer una diferencia o sólo no te interesa? Escribe un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos.
+
+## Preparación
+1. Prepara los materiales de escritura.
+2. Crea un ambiente tranquilo para la reflexión.
+3. Lee en voz alta algunas preguntas guía para inspirar la escritura.
 
 ## Desarrollo
-Los participantes escriben un ensayo, historia, tira cómica o poema sobre sus pensamientos y sentimientos respecto al cambio climático.
+1. Piensa en cómo te sientes sobre el cambio climático.
+2. Elige un formato para expresar tus pensamientos: ensayo, historia, tira cómica o poema.
+3. Escribe sobre por qué te sientes de la manera que lo haces.
+4. Comparte tus ideas y sentimientos con tus amigos, familia, comunidad e incluso tu gobierno.
 
 ## Cierre
-Los trabajos se comparten con el grupo para fomentar la reflexión.
+1. Comparte tu creación con el grupo si te sientes cómodo haciéndolo.
+2. Reflexiona sobre cómo expresar tus sentimientos te ayuda a procesar el tema.
+3. Pregunta final: ¿Qué aprendiste sobre ti mismo al escribir sobre tus sentimientos?
+
+## Texto original completo de la actividad
+A.05 PENSAR EN VOZ ALTA. ¿Cómo te sientes tú en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo puedes hacer una diferencia o sólo no te interesa? Escribe un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos sobre el cambio climático y explica por qué te sientes de la manera que lo haces. Comparte tus ideas y sentimientos con tus amigos, familia, comunidad e incluso tu gobierno.
+
+NIVELES: 1, 2, 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -1,126 +1,197 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Investigaciones tormentosas"
-duration: "1-2 días"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-tormentosas/"
-description: "Los participantes investigan los fenómenos de El Niño y La Niña."
-summary: "Los participantes investigan los fenómenos de El Niño y La Niña."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investigación sobre los fenómenos de El Niño y La Niña y sus efectos en el clima mundial."
+summary: "Investigar El Niño y La Niña."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/investigaciones-tormentosas.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "16-22 años"
 age_group:
-  - scouts
   - caminantes
   - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
+  - Cartulina
+  - Marcadores
+  - Lápices de colores
   - Acceso a internet
-  - papel
-  - lápices.
-competencies:
-  - Investigación y Gestión de Datos
-  - Pensamiento Crítico y Análisis
+tools:
+  - Computadora (opcional)
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón con mesas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+  - 14 # Vida submarina
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X33"
-rama_lobatos:
-  - 9
-  - 26
-rama_scouts:
-  - 13
-  - 31
-rama_caminantes:
-  - 13
-  - 29
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room, with a whiteboard in the center-left showing a diagram of El Niño and La Niña (warm and cold water in the Pacific). A world map with impact arrows: drought in Australia, floods in Peru. A laptop with climate data. The left side has negative space for text. On the far right side, two tiny older scouts (11-21) sit, one pointing at the diagram, the other typing, seen from a distance. The El Niño research environment dominates."
+activity_code: "cambioclimatico-B15"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - El Niño
-  - La Niña
-  - fenómenos climáticos
-  - impactos
-  - patrones
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 2
-accessibility:
-  - -Visual
+  - el-nino
+  - la-nina
+  - fenomenos-climaticos
+  - oceanografia
+  - clima-extremo
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 2  # Actividad seria
+reflective_component: 4  # Muy reflexiva
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere investigación
+complexity_organizer: 2  # Requiere recursos
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Ocean temperature anomaly maps showing El Niño and La Niña patterns dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, researching and creating educational posters about these climate phenomena. Ocean research environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Investigación científica
+  - Pensamiento sistémico
+  - Análisis
 activity_type:
   - Investigación
+  - Reflexión
+  - Aprender haciendo
 category:
-  - Clima
   - Oceanografía
-  - Meteorología
+  - Clima
+  - Ciencia
 skills:
   - Investigación
-  - análisis
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel
-  - lápices
-  - mapas mundiales
-prep_time: "20 min"
+  - Pensamiento crítico
+  - Análisis
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Responsabilidad
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 5
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 26 # Identifico problemas ambientales de mi comunidad
+  - 27 # Comprendo que en la naturaleza todo está relacionado
+rama_scouts:
+  - 34 # Comprendo causas del impacto ambiental
+  - 35 # Comprendo que todo está relacionado
+rama_caminantes:
+  - 31 # Soy consciente de la conexión entre todos los seres vivos
+  - 32 # Entiendo que la Tierra es nuestra casa común
+rama_rovers:
+  - 32 # Reconozco la interdependencia entre las personas y especies
+  - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# Investigaciones tormentosas
+# ¡Investigaciones tormentosas!
 
 ## Resumen
-Los participantes investigan los fenómenos de El Niño y La Niña.
+El Niño y La Niña son fenómenos naturales que ocurren cuando las aguas del Pacífico se tornan inusualmente más cálidas o más frías. Hagan una investigación sobre los dos eventos.
+
+## Preparación
+1. Investiga sobre El Niño y La Niña.
+2. Prepara recursos y fuentes de información.
+3. Organiza los grupos de trabajo.
 
 ## Desarrollo
-Los participantes investigan cuándo ocurrieron por última vez estos fenómenos y cómo afectaron al clima.
+1. Investiga: ¿Cuándo ocurrieron por última vez El Niño y La Niña?
+2. Investiga: ¿Qué tipo de eventos del tiempo están vinculando las personas a estos fenómenos?
+3. Investiga: ¿Cómo afectó esto a las personas alrededor del mundo?
+4. Crea un cartel para ilustrar tus hallazgos.
 
 ## Cierre
-Los hallazgos se presentan en grupo.
+1. Comparte tu cartel con el grupo.
+2. Discutan: ¿Cómo afectan estos fenómenos a diferentes regiones del mundo?
+3. Pregunta final: ¿Cómo podría el cambio climático afectar la frecuencia e intensidad de El Niño y La Niña?
+
+## Texto original completo de la actividad
+B.15 Investigaciones tormentosas. El Niño y La Niña son fenómenos naturales que ocurren cuando las aguas del Pacífico se tornan inusualmente más cálidas o más frías. Hagan una investigación sobre los dos eventos. ¿Cuándo ocurrieron por última vez? ¿Qué tipo de eventos del tiempo están vinculando las personas a estos fenómenos? ¿Cómo afectó esto a las personas alrededor del mundo? Crea un cartel para ilustrar tus hallazgos.
+
+NIVELES: 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

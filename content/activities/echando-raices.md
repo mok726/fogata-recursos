@@ -1,134 +1,195 @@
 ---
 title: "Echando Raíces"
-duration: "varias semanas"
+duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/echando-raices/"
-description: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
-summary: "Planta un árbol o planta y cuida de él para entender la importancia del suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Planta y cuida plantas para descubrir la importancia de un suelo saludable."
+summary: "Plantación y cuidado de plantas."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/echando-raices.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-22 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
-  - Plantas o semillas
-  - Compost
+  - Plantas
+  - Tierra
   - Herramientas de jardinería
-tools:
-  - Pala
-  - Regadera
-competencies:
-  - Ciudadanía y Conciencia Social
-  - Autoconocimiento y Desarrollo Personal
-  - Sostenibilidad y Medio Ambiente
+  - Compost orgánico
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
-  - 13
+  - 2  # Hambre cero
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X04"
-rama_lobatos:
-  - 24
-  - 25
-rama_scouts:
-  - 31
-  - 33
-rama_caminantes:
-  - 29
-rama_rovers:
-  - 27
-  - 30
-image_prompt: "An Argentine garden or park on a sunny day. In the center-left, a freshly dug hole with a small tree or plant ready to be placed. A bag of compost and gardening tools (shovel, watering can) nearby. The left side has open space for text. On the far right side, a group of tiny scouts (5-15) work together: one digging, one placing the plant, one pouring water, seen from a distance. The planting and care environment dominates."
+activity_code: "suelos-A07"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - plantar
-  - árbol
-  - jardinería
-  - suelo
-  - crecimiento
-  - Insignia de los Suelos
+  - plantacion
+  - jardineria
+  - fertilidad
+  - cuidado
+
+link:
+  - url: "https://urbanext.illinois.edu/firstgarden/basics/dirt.cfm"
+    caption: "Consejos para preparar el suelo - Illinois Extension"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Jardinería práctica
+reflective_component: 3  # Reflexión sobre el crecimiento
+active_component: 4  # Actividad física de jardinería
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 3  # Requiere planificación
+
+main_type: "Aprender haciendo"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children planting and caring for plants in a garden, preparing soil with compost and organic fertilizer dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, planting and watering. Hands-on gardening and soil care atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Exterior"
-participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 3
-accessibility:
-  - -Movilidad
+space_required: "Jardín, patio o macetas"
+prep_time: "30 min"
+participants: "4-20"
+
+accessibility: []
+
+competencies:
+  - Jardinería
+  - Paciencia
+  - Responsabilidad
+
 activity_type:
   - Aprender haciendo
   - Servicio a los demás
+  - Exploración
+
 category:
-  - Naturaleza
+  - Suelo
+  - Plantación
   - Jardinería
-  - Medio ambiente
+
 skills:
+  - Jardinería
   - Responsabilidad
-  - Paciencia
-  - Conciencia ambiental
-main_type: "Aprender haciendo"
-space_required: "Exterior abierto"
-special_materials:
-  - plantas o semillas
-  - compost
-  - herramientas de jardinería
-prep_time: "30 min"
+  - Observación
+
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Solidaridad
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-ludic_component: 3
-reflective_component: 3
-active_component: 4
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Superación personal
 
+scout_method:
+  - Aprender haciendo
+  - Vida en la Naturaleza y Aventura
+
+rama_castores: []
+
+rama_lobatos:
+  - 1  # Elijo alimentos que me ayudan a crecer.
+  - 24 # Cuido del planeta utilizando los recursos de forma responsable.
+
+rama_scouts:
+  - 2  # Entiendo la importancia de alimentarme de forma saludable.
+  - 31 # Reconozco mi impacto en el ambiente.
+
+rama_caminantes:
+  - 1  # Adopto hábitos de alimentación saludables.
+  - 29 # Adopto un estilo de vida responsable.
+
+rama_rovers:
+  - 1  # Sostengo hábitos de alimentación saludables.
+  - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# Echando Raíces
+# ¡Echando Raíces!
 
 ## Resumen
-Planta un árbol o planta y cuida de él para entender la importancia del suelo.
+Planta y cuida plantas para descubrir la importancia de un suelo saludable para el crecimiento.
+
+## Preparación
+1. Investiga sobre los suelos disponibles en tu área.
+2. Obtén permiso para plantar en un jardín o macetas.
+3. Prepara compost orgánico y herramientas.
 
 ## Desarrollo
-Investiga sobre los suelos en tu área y obtén permiso para plantar. Prepara el suelo con compost si es necesario. Planta y cuida la planta, monitoreando su crecimiento.
+1. **Preparación** (20 min): Prepara el suelo con compost.
+2. **Plantación** (20 min): Planta tus plantas o semillas.
+3. **Cuidado** (tiempo variable): Riega y cuida las plantas regularmente.
+4. **Observación** (5 min/semana): Monitorea el crecimiento.
 
 ## Cierre
-Reflexiona sobre el proceso de crecimiento y la importancia del suelo para las plantas.
+- ¿Cómo afecta el suelo al crecimiento de las plantas?
+- ¿Qué aprendiste sobre la importancia del suelo?
+- ¿Qué puedes hacer para mantener el suelo saludable?
+
+---
+## Texto original completo de la actividad
+
+**A.07 ECHANDO RAÍCES** Investiguen sobre los suelos disponibles en su área y obtengan permiso para plantar algo, por ejemplo, su jardín, el jardín de un amigo o el patio de su escuela. ¿El suelo es fértil? Si no es así, tal vez podrían hacer que este sea un proyecto a más largo plazo, donde primero deberán pasar algo de tiempo preparando y consintiendo al suelo con compost orgánico y otras delicias para el suelo. Encuentren unos buenos consejos aquí: http://urbanext.illinois.edu/firstgarden/basics/dirt.cfm. Hagan una investigación para descubrir qué plantas sería factible plantar en su área. Pidan el consejo de un adulto, preferentemente de alguien que sepa sobre jardinería. Después de que hayan plantado su selección de plantas, tomen turnos para regarlas y cuidar de estas. Manténganse atentos al suelo para prevenir la sequedad, el encharcamiento y otros problemas. Es posible que necesiten añadir fertilizantes orgánicos de vez en cuando.
+
+niveles 3 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

@@ -1,126 +1,190 @@
 ---
 title: "Dibujos Polvorientos"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-polvorientos/"
-description: "Crea pinturas usando tierra de diferentes colores."
-summary: "Crea pinturas usando tierra de diferentes colores."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Crea pinturas con suelo y haz dibujos con diferentes colores y texturas."
+summary: "Pintura con suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/dibujos-polvorientos.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
+  - caminantes
+
 materials:
-  - Tierra de diferentes colores
+  - Suelos de diferentes colores
   - Agua
+  - Pinturas (opcional)
+  - Pinceles
   - Papel
-competencies:
-  - Creatividad y Expresión
-  - Sostenibilidad y Medio Ambiente
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 4  # Educación de calidad
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X23"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 32
-  - 35
-rama_caminantes:
-  - 31
-  - 33
-rama_rovers:
-  - 4
-  - 30
-image_prompt: "An Argentine outdoor space or scout room. In the center-left, several small containers with different colored soils (red, brown, dark) ground into powder and mixed with water. Paintings made with earth tones drying on paper. The left side has space for text. On the far right side, tiny scouts (5-15) kneel or sit, using fingers or brushes to paint, with colorful earth-toned artwork, seen from a distance. The natural art environment dominates."
+activity_code: "suelos-B06"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - pintura de tierra
+  - pintura
   - arte
-  - suelo
   - colores
-  - creatividad
-  - Insignia de los Suelos
-location: "Exterior / Interior"
+  - texturas
+
+link:
+  - url: "https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/kthru6/?cid=nrcs142p2_054304"
+    caption: "Instrucciones para pintura de suelo - USDA"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 5  # Actividad artística muy divertida
+reflective_component: 2  # Reflexión ligera
+active_component: 2  # Creación artística
+
+complexity_execution: 1  # Sencilla
+complexity_organizer: 3  # Requiere materiales variados
+
+main_type: "Creatividad / Arte"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children creating paintings with soil-based pigments, exploring different colors and textures dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, painting with soil. Artistic creativity and natural materials atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior"
+space_required: "Salón con mesas para pintar"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Movilidad
-  - -Visual
-activity_type:
+
+accessibility: []
+
+competencies:
   - Creatividad
-  - Arte
+  - Experimentación
+  - Conexión con materiales naturales
+
+activity_type:
+  - Creatividad / Arte
   - Aprender haciendo
+  - Experimentación
+
 category:
+  - Suelo
   - Arte
-  - Medio ambiente
-  - Naturaleza
+  - Pintura
+
 skills:
   - Creatividad
-  - Conciencia ambiental
-main_type: "Creatividad / Arte"
-space_required: "Exterior abierto o salón amplio"
-prep_time: "20 min"
-scout_values:
-  - Naturaleza
-  - Superación personal
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-ludic_component: 5
-reflective_component: 2
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Experimentación
+  - Expresión artística
 
+scout_values:
+  - Creatividad e ingenio
+  - Naturaleza
+  - Curiosidad y apertura al aprendizaje
+
+scout_method:
+  - Marco simbólico
+  - Aprender haciendo
+
+rama_castores: []
+
+rama_lobatos:
+  - 47  # Expreso mis emociones a través de medios artísticos.
+  - 33  # Utilizo diferentes herramientas y busco soluciones.
+
+rama_scouts:
+  - 53  # Participo de manifestaciones artísticas.
+  - 41  # Experimento diferentes medios y tecnologías.
+
+rama_caminantes: []
+rama_rovers: []
 ---
 
-# Dibujos Polvorientos
+# ¡Dibujos Polvorientos!
 
 ## Resumen
-Crea pinturas usando tierra de diferentes colores.
+Recolecta suelos de diferentes colores, aplástalos y mézclalos con agua para crear pinturas naturales.
+
+## Preparación
+1. Recolecta suelos de diferentes colores.
+2. Prepara agua, pinceles y papel.
+3. Aplasta el suelo hasta hacerlo polvo.
 
 ## Desarrollo
-Recolecta tierra de diferentes colores, aplástala hasta hacer polvo y mézclala con agua. Usa la mezcla para crear pinturas y hacer dibujos.
+1. **Preparación** (15 min): Aplasta el suelo hasta hacerlo polvo.
+2. **Mezcla** (10 min): Mezcla el polvo con agua y pinturas (opcional).
+3. **Creación** (25 min): Pinta dibujos con tus pinturas de suelo.
+4. **Exhibición** (10 min): Muestra tus obras al grupo.
 
 ## Cierre
-Reflexiona sobre cómo el suelo puede ser utilizado en el arte.
+- ¿Qué colores de suelo encontraste?
+- ¿Cómo variaron las texturas?
+- ¿Qué aprendiste sobre los suelos de tu área?
+
+---
+## Texto original completo de la actividad
+
+**B.06 DIBUJOS POLVORIENTOS** Recolecta suelos de diferentes colores, aplástalos hasta que se hagan polvo y mézclalos con un poco de agua. ¡También podrías mezclarlos con pinturas de diferentes colores! Experimenta con los diferentes colores y texturas y luego haz dibujos con tu 'pintura de suelo'. Encuentra instrucciones más detalladas en este sitio Web: www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/edu/kthru6/?cid=nrcs142p2_054304.
+
+niveles 2 1
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

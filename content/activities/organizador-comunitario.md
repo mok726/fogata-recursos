@@ -1,142 +1,189 @@
 ---
 title: "Organizador comunitario"
-duration: "1 mes"
+duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizador-comunitario/"
-description: |
-  Esta actividad es obligatoria para la categoría Nuestro Mundo.
-  Organiza un evento para elevar la conciencia pública sobre un tema local.
-summary: |
-  Esta actividad es obligatoria para la categoría Nuestro Mundo.
-  Organiza un evento para elevar la conciencia pública sobre un tema local.
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Organiza un evento para elevar la conciencia pública sobre un aspecto local."
+summary: "Organización comunitaria."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+  - WAGGGS
+source:
+  - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
+
 image: "/imagenes/actividades/organizador-comunitario.png"
+original: false
+Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "14-22"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
+
 materials:
-  - Papel y lápiz
-  - Materiales para pancartas y posters
-competencies:
-  - Ciudadanía y Conciencia Social
-  - Liderazgo y Gestión
+  - Pancartas
+  - Pósters
+  - Materiales para evento
+tools: []
 responsible:
-  - Responsable del grupo Scout
+  - Docente o Scouter
+
 sdgs:
-  - 11
-  - 13
+  - 16 # Paz, justicia e instituciones sólidas
+  - 11 # Ciudades y comunidades sostenibles
+
 activity_badges:
   - sacc
-activity_code: "sacc-X32"
-rama_lobatos:
-  - 20
-  - 28
-rama_scouts:
-  - 11
-  - 17
-rama_caminantes:
-  - 11
-  - 17
-rama_rovers:
-  - 4
-  - 11
-image_prompt: "An Argentine community space (plaza or school), with a banner in the center-left reading '¡Actúa por el Clima!' and a table with petitions. A microphone and speaker set up. Civilian neighbors gathering. The left side has open space for text. On the far right side, a group of tiny older scouts (16-20) stand, one speaking into the microphone, another holding a sign, a third handing out flyers, seen from a distance. The community organizing event environment dominates."
-similar_activities:
-  - https://www.350.org/es/
+activity_code: "sacc-C32"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - sacc
-  - organizador comunitario
+  - organizador
+  - comunidad
+  - concienciacion
   - evento
-  - conciencia pública
-  - pancarta
-  - medios
-  - Insignia de Seguridad Alimentaria y Cambio Climático
-location: "Interior / Exterior"
-participants: "20-200"
-complexity_execution: 4
-complexity_organizer: 4
-accessibility:
-  - -Movilidad
-activity_type:
-  - Evento
-  - Activismo
-category:
-  - Activismo
-  - Comunidad
-  - Comunicación
-skills:
-  - Conciencia social
-  - Liderazgo
+
+link:
+  - url: "https://www.350.org/es"
+    caption: "Plan 350 - 9 pasos"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia de la Seguridad Alimentaria y el Cambio Climático"
+    author: "FAO"
+    year: 2010
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2010"
+    role: "fuente y titular de los derechos de autor"
+    year: 2010
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Organización de evento
+reflective_component: 4  # Reflexión sobre acción
+active_component: 4  # Organización activa
+
+complexity_execution: 3  # Requiere planificación
+complexity_organizer: 4  # Requiere organización
+
 main_type: "Servicio a los demás"
-space_required: "Exterior abierto o salón amplio"
-special_materials:
-  - pancartas
-  - carteles
-  - sistema de sonido (opcional)
-  - permisos municipales
-  - contacto con medios
-prep_time: "2-4 semanas planificación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A young community organizer planning an event to raise public awareness about a local issue, with banners and posters, contacting local media dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, organizing the event. Community organizing and advocacy atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Espacio para el evento"
+prep_time: "30 min"
+participants: "4-30"
+
+accessibility: []
+
+competencies:
+  - Organización
+  - Comunicación
+  - Liderazgo
+
+activity_type:
+  - Servicio a los demás
+  - Sensibilización
+  - Comunicación
+
+category:
+  - Organizador
+  - Comunidad
+  - Concienciación
+
+skills:
+  - Organización
+  - Comunicación
+  - Liderazgo
+
 scout_values:
-  - Hermandad
-  - Perseverancia
+  - Justicia
+  - Responsabilidad
+  - Participación comunitaria
+
 scout_method:
   - Participación comunitaria y Servicio
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 4
-reflective_component: 5
-active_component: 3
-files:
-  - filepath: "https://www.350.org/es/"
-    caption: "Similares en la Web"
-    icon: "read_more"
 
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
-
+rama_castores: []
+rama_lobatos:
+  - 19  # Realizo acciones solidarias para ayudar a las personas.
+  - 21  # Hablo con los demás sobre lo que creo y respeto lo que otros creen.
+rama_scouts:
+  - 23  # Promuevo la participación e inclusión de todas las personas.
+  - 25  # Me comprometo y animo a otras personas a trabajar en conjunto.
+rama_caminantes:
+  - 19  # Fomento ámbitos de participación democráticos.
+  - 22  # Trabajo activamente para facilitar y promover la participación e inclusión.
+rama_rovers:
+  - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
+  - 27  # Me involucro, planifico y desarrollo acciones comunitarias sostenibles.
 ---
 
-# Organizador comunitario
+# ¡Organizador comunitario!
 
 ## Resumen
-Esta actividad es obligatoria para la categoría Nuestro Mundo.
-Organiza un evento para elevar la conciencia pública sobre un tema local.
+Organiza un evento para elevar la conciencia pública sobre un aspecto local determinado.
+
+## Preparación
+1. Define el objetivo específico.
+2. Haz pancartas y pósters.
+3. Contacta a medios locales.
 
 ## Desarrollo
-Transformate en un organizador comunitario: organiza un evento para elevar la conciencia pública sobre un aspecto local determinado. Plantea un objetivo específico. Haz una pancarta y un poster para publicitar tu evento. Contacta a los medios de comunicación locales (TV, radio y periódicos) y trata de que cubran tu historia. Ponla en acción y trata de involucrar a tanta gente como sea posible. Tanto si eres un activista experimentado como un organizador primerizo, si es posible, ¡sigue el plan 350 9-pasos (www.350.org/es)!
+1. **Planificación** (30 min): Diseña el evento.
+2. **Promoción** (20 min): Publicita el evento.
+3. **Evento** (2-3 horas): Lleva a cabo el evento.
+4. **Reflexión** (15 min): ¿Qué lograste?
 
 ## Cierre
-Reflexiona sobre cómo el liderazgo comunitario puede generar un cambio positivo.
+- ¿Qué tema abordaste?
+- ¿Cómo respondió la comunidad?
+- ¿Qué aprendiste sobre la organización comunitaria?
+
+---
+## Texto original completo de la actividad
+
+**C.32** Transfórmate en un organizador comunitario: organiza un evento para elevar la conciencia pública sobre un aspecto local determinado. Plantea un objetivo específico. Haz una pancarta y un poster para publicitar tu evento. Contacta a los medios de comunicación locales (TV, radio y periódicos) y trata de que cubran tu historia. Ponla en acción y trata de involucrar a tanta gente como sea posible. Tanto si eres un activista experimentado como un organizador primerizo, si es posible, ¡sigue el plan 350 9-pasos (www.350.org/es)!
+
+NIVEL 2 3
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

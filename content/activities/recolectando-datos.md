@@ -1,126 +1,181 @@
 ---
 title: "Recolectando Datos"
-duration: "1-2 horas"
+duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/recolectando-datos/"
-description: "Investiga de dónde provienen los alimentos en tu hogar y su relación con el suelo."
-summary: "Investiga de dónde provienen los alimentos en tu hogar y su relación con el suelo."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga de dónde vienen tus alimentos y qué tipo de suelo necesitan."
+summary: "Investigación de alimentos y suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/recolectando-datos.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "11-22 años"
 age_group:
-  - castores
-  - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
-  - Lista de alimentos
-  - Libros/recursos en línea
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
+  - Acceso a internet
+  - Papel y bolígrafos
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 2  # Hambre cero
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X30"
-rama_lobatos:
-  - 24
-  - 26
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 17
-  - 30
-image_prompt: "A scout meeting room in Argentina, with a large table in the center-left. On the table, a list of foods (potatoes, apples, wheat bread) and a tablet open to research on soil needed for each. A large paper with results being written. The left side has space for text. On the far right side, tiny scouts (5-15) sit around the table, one writing on the paper, others looking at the tablet, seen from a distance. The food and soil research environment dominates."
+activity_code: "suelos-B13"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
   - alimentos
-  - suelo
-  - producción
-  - inventario
+  - investigacion
   - origen
-  - Insignia de los Suelos
+  - cultivos
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 2  # Investigación
+reflective_component: 4  # Reflexión sobre origen de alimentos
+active_component: 1  # Actividad de investigación
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 1  # Sin preparación
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children investigating where their food comes from, with a list of foods and soil types needed for each dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, researching on computers. Food origins and soil connection atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
-participants: "4-20"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - Todas
+space_required: "Salón con acceso a internet"
+prep_time: "10 min"
+participants: "4-15"
+
+accessibility: []
+
+competencies:
+  - Investigación
+  - Conciencia alimentaria
+  - Conexión suelo-alimentos
+
 activity_type:
   - Investigación
   - Reflexión
+  - Aprender haciendo
+
 category:
-  - Alimentación
-  - Agricultura
-  - Medio ambiente
+  - Suelo
+  - Alimentos
+  - Origen
+
 skills:
   - Investigación
-  - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - lista de alimentos (traída por participantes)
-  - acceso a internet
-prep_time: "10 min"
+  - Análisis
+  - Comunicación
+
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Superación personal
+  - Curiosidad y apertura al aprendizaje
+
 scout_method:
   - Aprender haciendo
-ludic_component: 2
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 40  # Exploro temas de mi interés.
+  - 47  # Busco información en diversas fuentes.
+rama_caminantes:
+  - 36  # Trabajo en mi superación personal.
+  - 43  # Busco y evalúo el valor de diversas fuentes.
+rama_rovers:
+  - 8  # Busco y evalúo el valor de diversas fuentes.
+  - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# Recolectando Datos
+# ¡Recolectando Datos!
 
 ## Resumen
-Investiga de dónde provienen los alimentos en tu hogar y su relación con el suelo.
+Investiga de dónde vienen tus alimentos y qué tipo de suelo necesitan para crecer.
+
+## Preparación
+1. Haz un inventario de los alimentos en tu hogar.
+2. Prepara materiales para tomar notas.
 
 ## Desarrollo
-Haz un inventario de los alimentos en tu hogar y busca información sobre el tipo de suelo necesario para su producción.
+1. **Inventario** (15 min): Anota los alimentos en tu hogar.
+2. **Investigación** (25 min): ¿Qué tipo de suelo necesita cada alimento?
+3. **Análisis** (10 min): ¿Qué alimentos dependen del suelo?
+4. **Comparación** (10 min): Comparte tus hallazgos con el grupo.
 
 ## Cierre
-Comparte tus hallazgos con el grupo y discute la importancia del suelo para la producción de alimentos.
+- ¿Qué alimentos dependen del suelo?
+- ¿Qué tipo de suelo necesitan?
+- ¿Qué aprendiste sobre el origen de tus alimentos?
+
+---
+## Texto original completo de la actividad
+
+**B.13 RECOLECTANDO DATOS** ¿Alguna vez has pensado de dónde vienen tus alimentos? Es posible que te sorprenda saber cuántos de estos dependen de los suelos. Haz un inventario de los alimentos en tu hogar. Averigua qué cantidad de estos necesitan del suelo para ser producidos. ¿Qué tal tus platos preferidos? ¿De qué están hechos, y esos ingredientes también provienen del suelo? Haz una lista de cada ítem de alimento y del tipo de suelo que necesita para crecer. Compartan sus hallazgos en grupo.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

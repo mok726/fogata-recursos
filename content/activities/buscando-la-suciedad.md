@@ -1,122 +1,183 @@
 ---
 title: "Buscando la Suciedad"
-duration: "1-2 horas"
+duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/buscando-la-suciedad/"
-description: "Investiga la contaminación del suelo y el agua en tu área."
-summary: "Investiga la contaminación del suelo y el agua en tu área."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Investiga diferentes tipos de contaminación en tu área."
+summary: "Investigación de contaminación local."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/buscando-la-suciedad.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "11-22"
+age: "11-22 años"
 age_group:
   - scouts
   - caminantes
   - rovers
-competencies:
-  - Investigación y Gestión de Datos
-  - Sostenibilidad y Medio Ambiente
+
+materials:
+  - Cuaderno
+  - Bolígrafos
+  - Cámara
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
-  - 3
+  - 6  # Agua limpia y saneamiento
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X40"
-rama_lobatos:
-  - 26
-  - 28
-rama_scouts:
-  - 31
-  - 34
-rama_caminantes:
-  - 29
-  - 30
-rama_rovers:
-  - 16
-  - 31
-image_prompt: "An Argentine neighborhood, with a street or vacant lot in the center-left. Scattered litter, a small puddle with oily sheen, or an illegal dump visible. A clipboard and phone for recording lie on the ground. The left side has open space for text. On the far right side, tiny older scouts (11-17) walk with clipboards, one recording video, another interviewing a civilian resident, seen from a distance. The investigative, civic-minded environment dominates."
+activity_code: "suelos-C11"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - contaminación
-  - suelo
-  - agua
-  - basura
+  - contaminacion
+  - lluvia-acida
+  - investigacion
   - reportaje
-  - Insignia de los Suelos
-location: "Exterior / Interior"
+
+link: []
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 3  # Investigación de campo
+reflective_component: 5  # Muy reflexivo
+active_component: 3  # Desplazamiento
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Investigación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children investigating different types of pollution - water, soil, acid rain - in their area, creating a news report dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, reporting findings. Environmental investigation and journalism atmosphere. No text, no letters, no words. Wide shot."
+
+location: "Interior y Exterior"
+space_required: "Áreas para investigar"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - Todas
-activity_type:
-  - Investigación
-  - Servicio a los demás
-category:
-  - Medio ambiente
-  - Ciudadanía
-  - Periodismo
-skills:
+
+accessibility: []
+
+competencies:
   - Investigación
   - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Exterior abierto"
-prep_time: "20 min"
+  - Comunicación
+
+activity_type:
+  - Investigación
+  - Sensibilización
+  - Aprender haciendo
+
+category:
+  - Suelo
+  - Contaminación
+  - Agua
+
+skills:
+  - Investigación
+  - Observación
+  - Comunicación
+
 scout_values:
   - Naturaleza
   - Responsabilidad
-  - Solidaridad
-scout_method:
-  - Vida en la Naturaleza y Aventura
-  - Aprender haciendo
-ludic_component: 2
-reflective_component: 4
-active_component: 3
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Justicia
 
+scout_method:
+  - Aprender haciendo
+  - Participación comunitaria y Servicio
+
+rama_castores: []
+rama_lobatos: []
+rama_scouts:
+  - 26  # Observo lo que pasa a mi alrededor.
+  - 34  # Comprendo las causas del impacto ambiental.
+rama_caminantes:
+  - 25  # Identifico factores que contribuyen a problemas sociales.
+  - 30  # Me posiciono críticamente.
+rama_rovers:
+  - 29  # Indago en las causas de las injusticias.
+  - 31  # Desarrollo acciones de preservación.
 ---
 
-# Buscando la Suciedad
+# ¡Buscando la Suciedad!
 
 ## Resumen
-Investiga la contaminación del suelo y el agua en tu área.
+Investiga diferentes tipos de contaminación en tu área y presenta tus hallazgos.
+
+## Preparación
+1. Forma equipos de investigación.
+2. Prepara materiales para tomar notas.
+3. Identifica áreas para investigar.
 
 ## Desarrollo
-Busca fuentes de contaminación en tu comunidad (basura, lluvia ácida, etc.). Prepara un reportaje de noticias sobre tus hallazgos.
+1. **Investigación** (40 min): Investiga contaminación del agua y del suelo.
+2. **Análisis** (20 min): ¿Qué tan grande es el problema?
+3. **Reportaje** (20 min): Crea un reportaje de noticias.
+4. **Presentación** (10 min): Comparte tus hallazgos.
 
 ## Cierre
-Discute cómo podemos prevenir la contaminación del suelo.
+- ¿Qué tipos de contaminación encontraste?
+- ¿Cómo afectan al suelo?
+- ¿Qué se puede hacer para prevenirla?
+
+---
+## Texto original completo de la actividad
+
+**C.11 BUSCANDO LA SUCIEDAD** Formen equipos y salgan a investigar diferentes tipos de contaminación o polución en su área, por ejemplo, la contaminación del agua (la cual también puede tomar la forma de lluvia ácida) y la contaminación del suelo. ¿Qué tan grande es este problema en su área? ¿Cuáles son las causas? ¿Está afectando a la biodiversidad del suelo? Si la respuesta es sí, ¿cómo? ¿Qué se puede hacer para prevenir este problema de contaminación? Presenten sus hallazgos en la forma de un reportaje de noticias.
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

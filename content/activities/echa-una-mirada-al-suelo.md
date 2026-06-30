@@ -1,124 +1,190 @@
 ---
 title: "Echa una Mirada al Suelo"
-duration: "1-2 horas"
+duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/echa-una-mirada-al-suelo/"
-description: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
-summary: "Examina muestras de suelo bajo un microscopio para observar sus componentes."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Observa muestras de suelo bajo el microscopio para descubrir su composición."
+summary: "Observación microscópica del suelo."
+
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia de los Suelos
+
 image: "/imagenes/actividades/echa-una-mirada-al-suelo.png"
+original: false
+Origin: "Insignia de los Suelos - FAO"
+version: "DRAFT"
+
 branch:
   - Naturaleza
-age: "5-14"
+age: "11-22 años"
 age_group:
-  - castores
-  - manada
   - scouts
+  - caminantes
+  - rovers
+
 materials:
+  - Microscopio o lupa
   - Muestras de suelo
-  - Microscopio/lupa
-tools:
-  - Microscopio/lupa
-competencies:
-  - Ciencia y Matemáticas
-  - Sostenibilidad y Medio Ambiente
+  - Portaobjetos
+tools: []
 responsible:
-  - Maestro/Dirigente
+  - Docente o Scouter
+
 sdgs:
-  - 15
+  - 4  # Educación de calidad
+  - 15 # Vida de ecosistemas terrestres
+
 activity_badges:
   - suelos
-activity_code: "suelos-X16"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 32
-  - 35
-rama_caminantes:
-  - 31
-  - 33
-rama_rovers:
-  - 4
-  - 32
-image_prompt: "A scout meeting room in Argentina, with a microscope on a table in the center-left. Next to it, several small soil samples in containers, a notebook with drawings of tiny organisms. The left side has negative space for text. On the far right side, tiny scouts (5-15) take turns looking into the microscope or using a magnifying glass, excited expressions, seen from a distance. The scientific discovery environment dominates."
+activity_code: "suelos-A10"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
 tags:
   - suelos
-  - suelo
   - microscopio
-  - observación
-  - componentes
+  - observacion
+  - particulas
   - organismos
-  - Insignia de los Suelos
+
+link:
+  - url: "https://www.education.com/science-fair/article/grainy/"
+    caption: "Guía para observar el suelo con microscopio"
+    icon: "read_more"
+
+files: []
+
+references:
+  - title: "Insignia de los Suelos"
+    author: "FAO"
+    year: 2017
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+attributions:
+  - entity: "© FAO 2017"
+    role: "fuente y titular de los derechos de autor"
+    year: 2017
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2025
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+ludic_component: 4  # Exploración con microscopio
+reflective_component: 3  # Reflexión sobre composición
+active_component: 2  # Manipulación de muestras
+
+complexity_execution: 2  # Sencilla
+complexity_organizer: 2  # Fácil de organizar
+
+main_type: "Experimentación"
+
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Children examining soil samples under a microscope, discovering particles and tiny organisms dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic uniforms in background, seen from distance, positioned on right side, observing and drawing. Scientific discovery and soil investigation atmosphere. No text, no letters, no words. Wide shot."
+
 location: "Interior"
+space_required: "Laboratorio o salón con microscopios"
+prep_time: "15 min"
 participants: "4-15"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+
+accessibility: []
+
+competencies:
+  - Observación
+  - Experimentación
+  - Pensamiento científico
+
 activity_type:
-  - Investigación
+  - Experimentación
   - Aprender haciendo
+  - Investigación
+
 category:
-  - Ciencia
-  - Medio ambiente
-  - Biología
+  - Suelo
+  - Microscopio
+  - Composición
+
 skills:
   - Observación
-  - Conciencia ambiental
-main_type: "Investigación"
-space_required: "Salón chico"
-prep_time: "15 min"
+  - Experimentación
+  - Análisis
+
 scout_values:
+  - Curiosidad y apertura al aprendizaje
   - Naturaleza
   - Superación personal
+
 scout_method:
   - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+rama_castores: []
+
+rama_lobatos: []
+
+rama_scouts:
+  - 41  # Experimento diferentes medios y tecnologías.
+  - 47  # Busco información en diversas fuentes.
+
+rama_caminantes:
+  - 37  # Investigo y desarrollo distintas habilidades.
+  - 43  # Busco y evalúo el valor de diversas fuentes.
+
+rama_rovers:
+  - 7  # Aplico técnicas y tecnologías disponibles.
+  - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# Echa una Mirada al Suelo
+# ¡Echa una Mirada al Suelo!
 
 ## Resumen
-Examina muestras de suelo bajo un microscopio para observar sus componentes.
+Examina muestras de suelo bajo el microscopio para observar sus partículas y organismos.
+
+## Preparación
+1. Recolecta muestras de suelo de diferentes lugares.
+2. Prepara el microscopio o lupa.
+3. Prepara portaobjetos.
 
 ## Desarrollo
-Recolecta muestras de suelo y obsérvalas bajo un microscopio o lupa. Identifica partículas y organismos en el suelo.
+1. **Preparación** (10 min): Coloca las muestras en portaobjetos.
+2. **Observación** (20 min): Examina las muestras bajo el microscopio.
+3. **Registro** (10 min): Dibuja lo que ves.
+4. **Conclusiones** (5 min): ¿Qué partículas y organismos encontraste?
 
 ## Cierre
-Discute las observaciones y cómo los componentes del suelo afectan su salud.
+- ¿Qué partículas viste en el suelo?
+- ¿Qué organismos encontraste?
+- ¿Qué conclusiones puedes sacar de tus observaciones?
+
+---
+## Texto original completo de la actividad
+
+**A.10 ECHA UNA MIRADA AL SUELO** Si tienes acceso a un microscopio, por ejemplo en el laboratorio de tu escuela, recolecta algunas muestras de suelo y echa un vistazo más de cerca. ¿Las partículas son grandes o pequeñas? ¿Qué insectos u otros organismos puedes encontrar? También podrías usar una lupa en su lugar. Encuentra consejos útiles en este sitio Web: www.education.com/science-fair/article/grainy. ¿Qué conclusiones puedes sacar de tus muestras de suelo a partir de tus observaciones?
+
+niveles 3 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia (si aplica)
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

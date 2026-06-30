@@ -1,130 +1,201 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Increíbles animales que se adaptan"
-duration: "1-2 horas"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/increibles-animales-que-se-adaptan/"
-description: "Los participantes inventan un animal adaptado a su entorno."
-summary: "Los participantes inventan un animal adaptado a su entorno."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Actividad creativa para inventar un animal adaptado a un clima específico, desarrollando la imaginación y la comprensión de la evolución."
+summary: "Inventar y dibujar un animal adaptado a su entorno."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/increibles-animales-que-se-adaptan.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Papel
-  - lápices
-  - colores.
-competencies:
-  - Creatividad y Expresión
-  - Pensamiento Crítico y Análisis
+  - Papel para dibujar
+  - Lápices de colores
+  - Marcadores
+  - Tijeras
+  - Pegamento
+  - Revistas para recortar (opcional)
+tools: []
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "15 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón con mesas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 15
+  - 4   # Educación de calidad
+  - 13  # Acción por el clima
+  - 15  # Vida de ecosistemas terrestres
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X03"
-rama_lobatos:
-  - 27
-  - 29
-rama_scouts:
-  - 15
-  - 32
-rama_caminantes:
-  - 15
-  - 31
-rama_rovers:
-  - 4
-  - 15
-image_prompt: "An Argentine scout room, with a display board on the wall in the center-left showing imaginative animal drawings: a desert animal with long ears, an arctic animal with thick white fur, a forest animal with camouflage patterns. A table with colored pencils. The left side has negative space for text. On the far right side, two tiny young scouts (5-15) sit at a table, one drawing, the other coloring, seen from a distance. The creative adaptation art environment dominates."
+activity_code: "cambioclimatico-A03"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
   - animales
-  - adaptación
-  - entorno
-  - inventar
-  - dibujo
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-15"
-complexity_execution: 1
-complexity_organizer: 1
-accessibility:
-  - -Visual
+  - adaptacion
+  - evolucion
+  - biodiversidad
+  - creatividad
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 5  # Actividad muy lúdica y creativa
+reflective_component: 2  # Reflexión moderada
+active_component: 1  # Actividad de escritorio
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 1  # Muy simple
+complexity_organizer: 1  # Requiere pocos materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Creatividad / Arte"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A fantastical creature with unique adaptations for extreme environments dominates the composition, filling most of the image. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, drawing and creating imaginary animals. Creative educational environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Creatividad
+  - Imaginación
+  - Conocimiento de la naturaleza
 activity_type:
-  - Arte
-  - Creatividad
+  - Creatividad / Arte
+  - Aprender jugando
+  - Juego
 category:
-  - Biología
   - Arte
-  - Creatividad
+  - Biodiversidad
+  - Evolución
 skills:
   - Creatividad
-  - Pensamiento crítico
-main_type: "Arte"
-space_required: "Salón amplio"
-special_materials:
-  - papel
-  - lápices
-  - colores
-  - lápices de cera
-prep_time: "10 min"
+  - Observación
+  - Pensamiento científico
+
+# ========== VALORES SCOUT ==========
 scout_values:
+  - Creatividad e Ingenio
   - Naturaleza
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
 scout_method:
   - Aprender haciendo
-ludic_component: 4
-reflective_component: 3
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Marco simbólico
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 29  # Disfruto descubrir la diversidad en la naturaleza
+  - 31  # Descubro las maravillas de la naturaleza
+rama_scouts:
+  - 37  # Exploro oportunidades para conectarme con la naturaleza
+  - 39  # Contemplo la naturaleza para mi bienestar
+rama_caminantes:
+  - 33  # Descubro y valoro la belleza de la naturaleza
+  - 36  # Trabajo en mi superación personal
+rama_rovers:
+  - 4   # Disfruto de las oportunidades de la vida en la naturaleza
+  - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# Increíbles animales que se adaptan
+# ¡Increíbles animales que se adaptan!
 
 ## Resumen
-Los participantes inventan un animal adaptado a su entorno.
+Diferentes animales han evolucionado durante generaciones para adaptarse al medio ambiente en el cual viven. Inventa tu propio animal y describe cómo se ha adaptado durante los años para sobrevivir a su medio ambiente.
+
+## Preparación
+1. Prepara los materiales de dibujo y manualidades.
+2. Busca ejemplos de animales reales y cómo se han adaptado a sus entornos (camellos, osos polares, lagartijas, etc.).
+3. Prepara una breve explicación sobre el concepto de adaptación y evolución.
 
 ## Desarrollo
-Los participantes inventan un animal y describen cómo se ha adaptado a su entorno. Luego, hacen un dibujo del animal.
+1. Piensa en un entorno o clima específico: ¿Vive en un lugar frío o caliente? ¿Lluvioso o polvoriento?
+2. Inventa un animal que viva en ese entorno.
+3. Describe qué características particulares ha desarrollado para sobrevivir: ¿piel gruesa? ¿pelaje denso? ¿capacidad de almacenar agua?
+4. Haz un dibujo detallado de tu criatura inventada.
+5. Escribe una breve descripción de sus adaptaciones.
 
 ## Cierre
-Los dibujos se exhiben en clase para mostrar la diversidad de adaptaciones.
+1. Decora tu clase o espacio de reunión con las criaturas inventadas.
+2. Comparte tu creación con el grupo y explica por qué tu animal tiene esas características.
+3. Pregunta final: ¿Qué pasaría si el clima de tu animal cambiara rápidamente? ¿Podría sobrevivir?
+
+## Texto original completo de la actividad
+A.03 INCREÍBLES ANIMALES QUE SE ADAPTAN. Diferentes animales han evolucionado durante generaciones para adaptarse al medio ambiente en el cual viven. Inventa tu propio animal y describe cómo se ha adaptado durante los años para sobrevivir a su medio ambiente. ¿Vive en un lugar frío o caliente? ¿Lluvioso o polvoriento? ¿Qué características particulares ha desarrollado? Haz un dibujo y decora tu clase con tu criatura inventada.
+
+NIVELES: 1, 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

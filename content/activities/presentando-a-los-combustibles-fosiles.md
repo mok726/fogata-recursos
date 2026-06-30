@@ -1,132 +1,200 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Presentando a los combustibles fósiles"
-duration: "1-2 días"
+duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentando-a-los-combustibles-fosiles/"
-description: "Los participantes investigan y presentan sobre una fuente de combustible fósil."
-summary: "Los participantes investigan y presentan sobre una fuente de combustible fósil."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Actividad creativa para investigar y presentar información sobre diferentes combustibles fósiles."
+summary: "Presentar información sobre combustibles fósiles."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/presentando-a-los-combustibles-fosiles.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22"
+age: "5-15 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Acceso a internet
-  - papel
-  - lápices
-  - materiales para presentaciones.
-competencies:
-  - Investigación y Gestión de Datos
-  - Comunicación Efectiva
+  - Cartulinas
+  - Marcadores
+  - Lápices de colores
+  - Papel
+tools:
+  - Computadora (opcional)
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-20"
+location: "Interior"
+space_required: "Salón con mesas"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 7
-  - 13
+  - 4  # Educación de calidad
+  - 7  # Energía asequible y no contaminante
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X27"
-rama_lobatos:
-  - 9
-  - 24
-rama_scouts:
-  - 7
-  - 12
-rama_caminantes:
-  - 7
-  - 12
-rama_rovers:
-  - 4
-  - 7
-image_prompt: "An Argentine scout room, with three posters on easels in the center-left: coal (mining train), oil (oil rig), natural gas (flame). Each poster has pros and cons. A small model of a refinery. The left side has negative space for text. On the far right side, three tiny older scouts (11-21) stand, one pointing at the coal poster, another holding the model, seen from a distance. The fossil fuel presentation environment dominates."
+activity_code: "cambioclimatico-B09"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - combustibles fósiles
-  - carbón
-  - petróleo
-  - gas natural
-  - presentación
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "6-20"
-complexity_execution: 3
-complexity_organizer: 3
-accessibility:
-  - -Visual
+  - combustibles-fosiles
+  - energia
+  - carbon
+  - petroleo
+  - gas-natural
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 3  # Actividad creativa
+reflective_component: 3  # Reflexión moderada
+active_component: 1  # Baja actividad física
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 2  # Simple
+complexity_organizer: 2  # Requiere materiales
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Investigación"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. Images of coal, oil, and natural gas with educational displays dominates the composition. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, creating posters and presentations about fossil fuels. Educational research environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Investigación
+  - Conocimiento energético
+  - Comunicación
 activity_type:
   - Investigación
-  - Presentación
+  - Creatividad / Arte
+  - Aprender haciendo
 category:
   - Energía
-  - Geología
   - Clima
+  - Geología
 skills:
   - Investigación
   - Comunicación
-main_type: "Investigación"
-space_required: "Salón amplio"
-special_materials:
-  - acceso a internet
-  - papel
-  - lápices
-  - cartulina
-  - marcadores
-  - computadora
-prep_time: "30 min"
+  - Pensamiento crítico
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Responsabilidad
+  - Naturaleza
 scout_method:
   - Aprender haciendo
-  - Sistema de equipos
-ludic_component: 2
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 32 # Me intereso por aprender cosas nuevas
+  - 35 # Conozco diferentes profesiones y oficios
+rama_scouts:
+  - 40 # Exploro temas de mi interés
+  - 42 # Aplico conocimiento y habilidades para resolver desafíos
+rama_caminantes:
+  - 37 # Investigo y desarrollo distintas habilidades
+  - 44 # Planifico y administro responsablemente mis recursos
+rama_rovers:
+  - 18 # Desarrollo habilidades para el mundo laboral
+  - 19 # Tomo decisiones económicas conscientes
 ---
 
-# Presentando a los combustibles fósiles
+# ¡Presentando a los combustibles fósiles!
 
 ## Resumen
-Los participantes investigan y presentan sobre una fuente de combustible fósil.
+Investiga qué son los combustibles fósiles y cómo se utilizan. Elige uno de los combustibles fósiles (carbón, petróleo o gas natural) para investigar más a fondo.
+
+## Preparación
+1. Investiga sobre los combustibles fósiles.
+2. Prepara ejemplos visuales o diagramas.
+3. Organiza los grupos de trabajo.
 
 ## Desarrollo
-Los participantes se dividen en grupos y preparan una presentación sobre una fuente de combustible fósil, como el carbón o el gas natural.
+1. Investiga qué son los combustibles fósiles.
+2. Elige un tipo para investigar más a fondo: carbón, petróleo o gas natural.
+3. Descubre cómo se forman, cómo se extraen y para qué se utilizan.
+4. Investiga cómo su uso contribuye al cambio climático.
+5. Prepara una presentación o cartel con tus hallazgos.
 
 ## Cierre
-Las presentaciones se comparten en grupo.
+1. Comparte tu presentación con el grupo.
+2. Discutan: ¿Qué alternativas existen a los combustibles fósiles?
+3. Pregunta final: ¿Cómo podemos reducir nuestra dependencia de los combustibles fósiles?
+
+## Texto original completo de la actividad
+B.09 PRESENTANDO A LOS COMBUSTIBLES FÓSILES. [Texto original del PDF - no se encuentra disponible en el extracto]
+
+NIVELES: 1, 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante

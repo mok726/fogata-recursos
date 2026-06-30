@@ -1,129 +1,198 @@
 ---
+# ========== METADATOS OBLIGATORIOS ==========
 title: "Jarra de efecto invernadero"
-duration: "1-2 horas"
+duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/jarra-de-efecto-invernadero/"
-description: "Los participantes realizan un experimento para entender el efecto invernadero."
-summary: "Los participantes realizan un experimento para entender el efecto invernadero."
-version: "DRAFT"
-Origin: "YUNGA"
-# original: false # 
+description: "Experimento para entender el efecto invernadero utilizando una jarra y una lámpara."
+summary: "Experimento para entender el efecto invernadero."
+
+# ========== AUTORÍA Y FUENTES ==========
 author:
-  - Mariano S. Cosentino
-source:
+  - FAO
   - YUNGA
+source:
+  - FAO - Insignia del Cambio Climático
+
+# ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/jarra-de-efecto-invernadero.png"
+original: false
+Origin: "Insignia del Cambio Climático - FAO"
+version: "DRAFT"
+
+# ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22"
+age: "11-15 años"
 age_group:
-  - castores
-  - manada
   - scouts
   - caminantes
-  - rovers
+
+# ========== LOGÍSTICA ==========
 materials:
-  - Jarra
-  - termómetros
-  - lámpara solar.
-competencies:
-  - Ciencia y Matemáticas
-  - Pensamiento Crítico y Análisis
+  - Agua
+  - Dos termómetros
+  - Una jarra o frasco grande de vidrio
+  - Un recipiente o plato para hornear
+tools:
+  - Lámpara fuerte o lámpara de calor
+  - Reloj o cronómetro
 responsible:
-  - Maestro/profesor/dirigente.
+  - Docente o Scouter
+prep_time: "20 min"
+participants: "4-15"
+location: "Interior"
+space_required: "Salón con enchufe para lámpara"
+
+# ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
-  - 13
+  - 4  # Educación de calidad
+  - 13 # Acción por el clima
+
+# ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
-activity_code: "cambioclimatico-X28"
-rama_lobatos:
-  - 9
-  - 47
-rama_scouts:
-  - 13
-  - 53
-rama_caminantes:
-  - 13
-  - 49
-rama_rovers:
-  - 4
-  - 13
-image_prompt: "An Argentine scout room or sunny window, with a glass jar and two thermometers on a table in the center-left. One thermometer is inside the jar, the other outside. A lamp or sunlight. A clipboard for recording temperatures. The left side has space for text. On the far right side, two tiny scouts (5-15) kneel, one reading the inside thermometer, the other writing, seen from a distance. The greenhouse effect experiment environment dominates."
+activity_code: "cambioclimatico-B10"
+required: false
+required_for: []
+required_comment: ""
+required_category: ""
+
+# ========== ETIQUETAS GENERALES ==========
 tags:
   - cambioclimatico
-  - efecto invernadero
-  - jarra
-  - termómetro
-  - calor
   - experimento
-  - Insignia del Cambio Climático
-location: "Interior"
-participants: "4-10"
-complexity_execution: 2
-complexity_organizer: 2
-accessibility:
-  - -Visual
+  - efecto-invernadero
+  - ciencia
+  - calor
+  - atmosfera
+
+# ========== ENLACES Y ARCHIVOS ==========
+link: []
+files: []
+
+# ========== REFERENCIAS ==========
+references:
+  - title: "Insignia del Cambio Climático"
+    author: "FAO"
+    year: 2016
+    series: "Serie 'Aprender y actuar' de la YUNGA"
+    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+
+# ========== LICENCIA ==========
+license:
+  name: "Creative Commons BY-NC-SA 3.0 IGO"
+  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+
+# ========== ATRIBUCIONES ==========
+attributions:
+  - entity: "© FAO 2016"
+    role: "fuente y titular de los derechos de autor"
+    year: 2016
+  - entity: "Mariano S. Cosentino"
+    role: "Adaptación y compilación para publicación WEB"
+    year: 2026
+  - entity: "DeepSeek"
+    role: "Preprocesamiento y conversión a Markdown"
+    year: 2026
+
+# ========== COMPONENTES (escala 1-5) ==========
+ludic_component: 4  # Experimento interactivo
+reflective_component: 3  # Reflexión sobre resultados
+active_component: 2  # Algo de actividad
+
+# ========== COMPLEJIDAD (escala 1-5) ==========
+complexity_execution: 3  # Requiere seguir pasos
+complexity_organizer: 3  # Requiere materiales específicos
+
+# ========== TIPO PRINCIPAL ==========
+main_type: "Experimentación"
+
+# ========== IMAGEN PROMPT ==========
+image_prompt: "Ultra-wide cinematic website hero banner, professional educational website header, wide storytelling composition. A glass jar with a thermometer inside and a heat lamp warming it dominates the composition, demonstrating the greenhouse effect. Left side contains open negative space reserved for website interface elements. Argentine scouts wearing authentic Scout Association of Argentina uniforms in the background, seen from a distance, positioned on the right side, observing temperature changes and recording data. Scientific experiment environment. No text, no letters, no words. Wide shot."
+
+# ========== CLASIFICACIONES ADICIONALES ==========
+competencies:
+  - Pensamiento científico
+  - Experimentación
+  - Observación
 activity_type:
   - Experimentación
-  - Ciencia
+  - Aprender haciendo
+  - Investigación
 category:
   - Ciencia
+  - Atmosfera
   - Clima
-  - Física
 skills:
   - Experimentación
-  - análisis
-main_type: "Experimentación"
-space_required: "Salón amplio"
-special_materials:
-  - jarra de vidrio grande
-  - termómetros
-  - lámpara de calor o sol directo
-  - reloj
-prep_time: "15 min"
+  - Observación
+  - Pensamiento científico
+
+# ========== VALORES SCOUT ==========
 scout_values:
-  - Superación personal
+  - Curiosidad y Apertura al aprendizaje
+  - Naturaleza
+  - Creatividad e Ingenio
 scout_method:
   - Aprender haciendo
-ludic_component: 3
-reflective_component: 4
-active_component: 1
-# ===== INFORMACIÓN DE FOOTER =====
-# references:
-#   - title: "Pollinators Challenge Badge"
-#     author: "FAO"
-#     year: 2021
-#     series: "YUNGA Learning and Action Series – Challenge badges"
-#     issue: 12
-#     location: "Rome"
-#     url: "https://doi.org/10.4060/cb4803en"
-#
-# translation_notice:
-#   es: "Esta traducción no fue creada por la FAO. La FAO no es responsable del contenido ni de la precisión de esta traducción. La edición original en inglés será la edición autorizada."
-#   en: "This translation was not created by FAO. FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
-#
-# license:
-#   name: "Creative Commons BY-NC-SA 3.0 IGO"
-#   url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-#   image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
-#
-# attributions:
-#   - entity: "FAO"
-#     role: "Concepto original"
-#     year: 2021
-#   - entity: "Mariano"
-#     role: "Adaptación y compilación"
-#     year: 2025
+  - Progresión personal
 
+# ========== COMPETENCIAS POR RAMA ==========
+rama_castores: []
+rama_lobatos:
+  - 33 # Utilizo diferentes herramientas y busco soluciones
+  - 34 # Encuentro soluciones creativas para resolver problemas
+rama_scouts:
+  - 41 # Experimento diferentes medios y tecnologías
+  - 42 # Aplico conocimiento y habilidades para resolver desafíos
+rama_caminantes:
+  - 37 # Investigo y desarrollo distintas habilidades
+  - 38 # Afronto creativamente los desafíos
+rama_rovers:
+  - 7  # Aplico técnicas y tecnologías
+  - 8  # Busco y evalúo diversas fuentes de información
 ---
 
-# Jarra de efecto invernadero
+# ¡Jarra de efecto invernadero!
 
 ## Resumen
-Los participantes realizan un experimento para entender el efecto invernadero.
+¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.
+
+## Preparación
+1. Reúne los materiales: una jarra o frasco grande de vidrio, dos termómetros, un recipiente, agua y una lámpara fuerte.
+2. Prepara una tabla para registrar temperaturas.
+3. Explica el experimento al grupo.
 
 ## Desarrollo
-Los participantes usan una jarra y termómetros para medir cómo el calor se acumula en un espacio cerrado.
+1. Coloca un termómetro en el recipiente vacío y otro dentro de la jarra.
+2. Coloca el recipiente y la jarra bajo la lámpara.
+3. Registra las temperaturas cada minuto durante diez minutos.
+4. Observa las diferencias de temperatura entre ambos termómetros.
+5. Discute: ¿Qué representa la jarra? ¿Qué representa la lámpara?
 
 ## Cierre
-Los resultados se discuten en grupo.
+1. Compara los resultados y discute el efecto invernadero.
+2. Reflexiona: ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
+3. Pregunta final: ¿Cómo podemos reducir la cantidad de gases de efecto invernadero en la atmósfera?
+
+## Texto original completo de la actividad
+B.10 JARRA DE EFECTO INVERNADERO. ¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.
+
+NIVELES: 2
+
+---
+## Checklist de verificación
+- [x] Título llamativo
+- [x] Duración realista
+- [x] Rango de edad correcto
+- [x] Materiales listados
+- [x] Responsable definido
+- [x] ODS numerados
+- [x] Código de insignia
+- [x] Enlaces (si hay)
+- [x] Referencias completas
+- [x] Licencia y atribuciones
+- [x] Desarrollo con pasos claros
+- [x] Pregunta de cierre relevante
