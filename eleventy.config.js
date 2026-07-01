@@ -5,6 +5,17 @@ const site =
   require("./content/_data/site.js");
 
 
+const badges =
+  require("./content/_data/badges.js")();
+
+const knownBadgeIds =
+  badges.map(b =>
+    String(b.id).toLowerCase()
+  );
+
+
+
+
 const cheerio = require("cheerio");
 
 
@@ -630,14 +641,57 @@ eleventyConfig.addFilter(
 
     for (const activity of activities) {
 
-      const activityBadges =
-        activity.data.activity_badges || [];
 
-      if (
-        !activityBadges.includes(badge.id)
-      ) {
-        continue;
-      }
+
+
+
+const activityBadges =
+  activity.data.activity_badges || [];
+
+let belongsToBadge = false;
+
+if (badge.id === "general") {
+
+  //
+  // GENERAL contiene actividades:
+  //
+  //  - sin insignias
+  //  - con insignias inexistentes
+  //
+
+  if (activityBadges.length === 0) {
+
+    belongsToBadge = true;
+
+  } else {
+
+    belongsToBadge =
+      !activityBadges.some(id =>
+        knownBadgeIds.includes(
+          String(id).toLowerCase()
+        )
+      );
+
+  }
+
+} else {
+
+  belongsToBadge =
+    activityBadges.some(id =>
+      String(id).toLowerCase() ===
+      String(badge.id).toLowerCase()
+    );
+
+}
+
+if (!belongsToBadge) {
+  continue;
+}
+
+
+
+
+
 
       //
       // Clonar

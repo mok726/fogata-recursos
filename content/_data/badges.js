@@ -1527,6 +1527,180 @@ sections: {
   ]
 }, 
 
+
+
+
+
+
+    {
+      id: "ciudadesverdes",
+      name: "Ciudades Verdes",
+      description:
+        "Exploraci  n, conservaci  n y sustentabilidad en las ciudades.",
+      summary:
+        "Con el 50% de la población mundial viviendo actualmente en ciudades, es hora de aprender a convertirlas en lugares más verdes y sostenibles para vivir.<br>La insignia del Desafío Ciudades Verdes está diseñada para educar a niños y jóvenes sobre la importancia de las ciudades verdes para el futuro de nuestro planeta.",
+      logo: "/imagenes/insignias/greencities.png",
+      hero_image: "/imagenes/insignias/ciudadesverdes-hero.png",
+      sources: [
+        {
+          name: "YUNGA Green Cities Challenge Badge",
+          url: "https://doi.org/10.4060/cd6459en"
+        }
+      ],
+  license: {
+    type: "CC BY-NC-SA 3.0 IGO",
+    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+  },
+  attribution: {
+    organization: "FAO",
+    year: "2025"
+  },
+
+    requirements: {
+  summary:
+    "Completar una actividad obligatoria de cada secci  n y una actividad adicional por secci  n.",
+
+  rules: [
+    "Completar una actividad obligatoria de cada secci  n",
+    "Completar una actividad adicional de cada secci  n",
+
+    "Realizar actividades de acci  n comunitaria"
+  ]
+},
+sections: {
+  A: {
+    title: "Vida en la Ciudad",
+    description: "Realiza la actividad A.1 o la A.2 y (al menos) una actividad a tu elección.<br>Tras completar las actividades de LA VIDA EN LA CIUDAD podrás:<br>* comprender la importancia de las ciudades verdes<br>* extraer lecciones importantes de tu ciudad y su evolución<br>* desarrollar aprecio por las zonas rurales y comprender la necesidad de fuertes vínculos urbano-rurales<br>* desarrollar empatía y comprensión hacia las personas en diferentes situaciones de vida<br>* analizar el grado de sostenibilidad de tu ciudad y proponer soluciones sostenibles para su mejora<br>"
+
+  },
+  B: {
+    title: "¿Por qué ciudades verdes?",
+    description: "Realiza la actividad A.1 o la A.2 y (al menos) una actividad a tu elección.<br>Tras completar las actividades de \"¿Por qué ciudades verdes?\", podrás:<br> * comprender los problemas y desafíos de la urbanización.<br>* abordar un problema específico para contribuir a una ciudad más verde<br>* aplicar conocimientos y habilidades para diseñar soluciones que generen un cambio positivo y sostenible en los estilos de vida individuales y la vida comunitaria."
+
+
+
+  },
+  C: {
+    title: "HACIA UN AMBIENTE ECOLÓGICO",
+    description: "Realiza la actividad C.1 o la C.2 y (al menos) una actividad a tu elección.<br>Tras completar las actividades de \"Hacia un ambiente ecológico\" lograrás:<br>* desarrollar un amor por la naturaleza y apreciar los espacios verdes de tu ciudad.<br>* valorar las ciudades verdes y promover prácticas sostenibles en tu comunidad.<br>* comprender cómo la planificación urbana beneficia a cualquier ciudad.<br>* contribuir a la implementación de prácticas más ecológicas en tu escuela."
+
+  },
+  D: {
+    title: "Toma acci  n",
+    description: "Realiza la actividad D.1 o la D.2 y (al menos) una actividad a tu elección.<br>Tras completar las actividades de  \"Toma acci  n\" podrás:<br>* adoptar hábitos de vida más sostenibles y fomentarlos en tu comunidad.<br>* concienciar sobre la importancia de las ciudades verdes."
+  }
+},
+      documents: [
+        {
+          title: "Green Cities Challenge Badge Booklet",
+          title_es: "Insignia de las Ciudades Verdes  ^`^s Cuaderno de actividades",
+          url: "https://openknowledge.fao.org/bitstreams/640d6866-0d11-4a21-ab8e-17a780c787ae/download",
+          type: "pdf",
+          image: "https://openknowledge.fao.org/server/api/core/bitstreams/348b539d-f4b3-48d8-aea0-ecc4fb895d97/content"
+        }
+      ],
+
+
+  "sitios_web": [
+    {
+      "nombre": "BBC Bitesize",
+      "descripcion": "Excelentes recursos para estudiantes y docentes sobre ciudades sostenibles.",
+      "url": "https://www.bbc.co.uk/bitesize",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "FAO - Iniciativa de Ciudades Verdes",
+      "descripcion": "Lanzada en septiembre de 2020, con el objetivo de mejorar los medios de vida y el bienestar de las poblaciones urbanas y periurbanas en al menos 100 ciudades del mundo en los próximos tres años, con la meta de que 1000 ciudades se unan para 2030.",
+      "url": "https://www.fao.org/green-cities-initiative/en",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "FAO - Save Food Cities",
+      "descripcion": "Publicación que destaca cómo los mayores ingresos y los cambios en el estilo de vida continúan aumentando la demanda de alimentos frescos de origen local, pero mantener su calidad a lo largo de la cadena de suministro es un gran desafío.",
+      "url": "https://www.fao.org/publications/card/en/c/CA3852EN/",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "FAO - Agenda Alimentaria Urbana",
+      "descripcion": "Tiene como objetivo mejorar el desarrollo sostenible, la seguridad alimentaria y la nutrición en áreas urbanas y periurbanas, y en espacios rurales cercanos.",
+      "url": "https://openknowledge.fao.org/items/8119cb03-78ad-48db-87d2-73684360acc",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "National Geographic - The Cities Issue",
+      "descripcion": "Un número especial con una gran cantidad de información y fotos sobre el futuro de las ciudades.",
+      "url": "https://www.nationalgeographic.com/magazine/issue/april-2019",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "ONU - Objetivo de Desarrollo Sostenible 11",
+      "descripcion": "Ciudades y comunidades sostenibles: hacer que las ciudades sean inclusivas, seguras, resilientes y sostenibles.",
+      "url": "https://www.un.org/sustainabledevelopment/cities/",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "UNEP - Issue Brief sobre Ciudades y ODS",
+      "descripcion": "Un resumen útil sobre el papel importante de las ciudades en el logro de los Objetivos de Desarrollo Sostenible.",
+      "url": "https://wedocs.unep.org/bitstream/handle/20.500.11822/25763/SDG11_Brief.pdf?sequence=1&isAllowed=y",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "UNEP - Publicación para niños y jóvenes",
+      "descripcion": "Se enfoca en la planificación para un planeta urbano y es un excelente recurso sobre todo lo relacionado con ciudades verdes.",
+      "url": "https://shorturl.at/bFJW4",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "UNESCO",
+      "descripcion": "Ha recopilado una gran lista de recursos educativos y actividades para explorar el ODS 11.",
+      "url": "https://www.unesco.org/en",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Urban Resilience Hub",
+      "descripcion": "Una red de organizaciones, instituciones, think-tanks, universidades y gobiernos que trabajan por un mejor futuro urbano, alojada por UN-Habitat.",
+      "url": "https://urbanresiliencehub.org/facts-and-figures",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "UN-Habitat - World Cities Report 2022",
+      "descripcion": "Explora el futuro de las ciudades y sugiere formas en que las ciudades pueden lograr futuros sostenibles.",
+      "url": "https://unhabitat.org/wcr/",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "World Resources Institute - 7 Transformations",
+      "descripcion": "Publicación que ofrece una hoja de ruta para desencadenar un cambio transformador en las ciudades.",
+      "url": "https://www.wri.org/research/7-transformations-more-equitable-sustainable-cities",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "World Resources Institute - Ciudades",
+      "descripcion": "Sitio web con datos, cifras e información interesante sobre ciudades.",
+      "url": "https://www.wri.org/cities",
+      "idioma": "Inglés"
+    }
+  ]
+
+
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 {
   id: "general",
   name: "Actividades Generales",
@@ -1544,6 +1718,12 @@ sections: {
     year: "2025"
   },
 }
+
+
+
+
+
+
 
 
   ];
