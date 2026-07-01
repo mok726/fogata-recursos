@@ -711,47 +711,54 @@ if (!belongsToBadge) {
 
 
 
-      const code =
-        clone.data.activity_code || "";
+const code =
+  clone.data.activity_code || "";
 
-      const parts =
-        code.split("-");
+const parts =
+  code.split("-");
 
-      let sectionId = null;
+let sectionId = null;
 
-      let complementary = false;
+let complementary = false;
 
-      let inconsistent = false;
+let inconsistent = false;
 
-      if (parts.length < 2) {
+/*
+ * Una actividad es complementaria cuando
+ * su activity_code pertenece a OTRA insignia.
+ */
 
-        complementary = true;
+if (
+  parts.length < 2 ||
+  parts[0].toLowerCase() !== badge.id.toLowerCase()
+) {
 
-      }
-      else {
+  complementary = true;
 
-        const suffix =
-          parts[1];
+}
+else {
 
-        if (!/^[A-Z]/.test(suffix)) {
+  /*
+   * La actividad pertenece a ESTA insignia.
+   * Ahora validar únicamente la sección.
+   */
 
-          complementary = true;
+  const suffix =
+    parts[1];
 
-        }
-        else {
+  sectionId =
+    suffix.charAt(0);
 
-          sectionId =
-            suffix[0];
+  if (
+    !badge.sections?.[sectionId]
+  ) {
 
-          if (!badge.sections?.[sectionId]) {
+    inconsistent = true;
 
-            inconsistent = true;
+  }
 
-          }
+}
 
-        }
-
-      }
 
 
 
