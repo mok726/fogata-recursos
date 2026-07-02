@@ -214,7 +214,7 @@ sections: {
     },
 
     {
-      id: "ptt",
+      id: "plastics",
       name: "PTT",
       description:
         "Plastic Tide Turners Challenge.",
@@ -249,28 +249,18 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A",
-    description: ""
+    title: "PLÁSTICO: EL MAYOR AMIGO-ENEMIGO DEL MUNDO",
+    description: "Realice la A.1, la A.2 o la A.3, y (al menos) otra actividad de su elección.<br>Tras completar las actividades de «El plástico: el mayor amigo-enemiga del mundo», usted podrá: <br>* Ser consciente de la cantidad de plástico que utiliza en su vida diaria. <br>* Saber qué es el plástico y sus diferentes formas. "
 
   },
   B: {
-    title: "Sección B",
-    description: ""
+    title: "EL PLÁSTICO Y EL PLANETA",
+    description: "Realiza la A.1, la A.2 o la A.3, y (al menos) otra actividad de su elección.<br>Tras completar las actividades de «El plástico y el planeta», usted podrá: <br>* Comprender qué hace que el plástico sea perjudicial para el medio ambiente <br>* Explicar cómo el plástico contribuye a diversos problemas ambientales"
 
   },
   C: {
-    title: "Sección C",
-    description: ""
-
-  },
-  D: {
-    title: "Sección D",
-    description: ""
-
-  },
-  E: {
-    title: "TOMA ACCIÓN",
-    description: ""
+    title: "Toma Acción",
+    description: "Realiza la A.1, la A.2 o la A.3, y (al menos) otra actividad de su elección.<br>Tras completar las actividades de 'Toma acción', usted podrá: <br>* Tomar medidas concretas para reducir el uso de plásticos de un solo uso en su vida diaria y en su comunidad. <br>* Sensibilizar sobre los peligros de la contaminación por plásticos."
 
   }
 },
@@ -925,7 +915,7 @@ sections: {
 
     {
       id: "rrd",
-      name: "RRD",
+      name: "REDUCCIÓN DEL RIESGO DE DESASTRES",
       description:
         "Reducción del riesgo de desastres.",
       summary:
@@ -1168,12 +1158,12 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A",
+    title: "La energía es vida",
     description: ""
 
   },
   B: {
-    title: "Sección B",
+    title: "Fuentes de energía e impactos",
     description: ""
 
   },
@@ -1206,7 +1196,7 @@ sections: {
 
     {
       id: "hambre",
-      name: "Hambre",
+      name: "ACABAR CON EL HAMBRE",
       description:
         "Seguridad alimentaria y conciencia social.",
       summary:
@@ -1491,28 +1481,23 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A",
-    description: ""
+    title: "¿QUÉ ES UN POLINIZADOR?",
+    description: "Realiza la actividad A.01 o A.02 y (al menos) otra actividad de tu elección.<br> Tras completar nuestras actividades sobre ¿Qué es un polinizador?, podrás:<br>* Entender qué son los polinizadores.<br>* Aprender más sobre los diferentes tipos de polinizadores y cómo funciona la polinización."
 
   },
   B: {
-    title: "Sección B",
-    description: ""
+    title: "¿Por qué son importantes los polinizadores?",
+    description: "Realiza la actividad B.01 o B.02 y (al menos) otra actividad de tu elección.<br> <br> Tras completar nuestras actividades sobre ¿Por qué son importantes los polinizadores?, podrás:<br>* Entender la importancia de los polinizadores para las personas y el planeta.<br>* Entender la variedad de servicios que proporcionan los polinizadores."
 
   },
   C: {
-    title: "Sección C",
-    description: ""
+    title: "Preocupémonos por las abejas",
+    description: "REALIZA C.01 O C.02 Y (AL MENOS) OTRA ACTIVIDAD DE TU ELECCIÓN.<br> Después de completar nuestras actividades de Preocupémonos por las abejas, podrás:<br>* Entender las principales amenazas para los polinizadores y por qué esto es importante.<br>* Comprender cómo todos somos responsables de proteger a los polinizadores."
 
   },
   D: {
-    title: "Sección D",
-    description: ""
-
-  },
-  E: {
     title: "TOMA ACCIÓN",
-    description: ""
+    description: "Realiza D.01 O D.02 Y (AL MENOS) OTRA ACTIVIDAD DE TU ELECCIÓN.<br> Después de completar nuestras actividades de ACCIÓN, podrás:<br>* Organizar y participar en una iniciativa comunitaria para la protección de los polinizadores.<br>* ¡Convencer a otras personas para que se unan a acciones para la protección de los polinizadores!"
 
   }
 },
@@ -1524,7 +1509,146 @@ sections: {
       type: "pdf",
       image: "https://www.fao.org/typo3temp/pics/bb9ba75839.jpg"
     }
+  ],
+  "sitios_web": [
+    {
+      "nombre": "Apimondia",
+      "descripcion": "Federación Internacional de Asociaciones de Apicultores. Promueve la apicultura en todo el mundo.",
+      "url": "https://www.apimondia.com",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Convenio sobre la Diversidad Biológica (CBD)",
+      "descripcion": "Lidera importantes esfuerzos para salvaguardar a los polinizadores.",
+      "url": "https://www.cbd.int/agro/pollinator.shtml",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Edmonton & Area Land Trust",
+      "descripcion": "Actividades para aprender más sobre polinizadores - Bee and Pollinator Activities for Kids.",
+      "url": "https://www.ealt.ca",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "FAO - Organización de las Naciones Unidas para la Alimentación y la Agricultura",
+      "descripcion": "Lleva a cabo diversas actividades para fomentar prácticas amigables con los polinizadores en la gestión agrícola y buenas prácticas apícolas.",
+      "url": "https://www.fao.org/pollination",
+      "idioma": "Inglés / Español"
+    },
+    {
+      "nombre": "Gobierno de Eslovenia - Día Mundial de las Abejas",
+      "descripcion": "Eslovenia fue la fuerza impulsora detrás del Día Mundial de las Abejas. Aprendé sobre su larga historia de apicultura.",
+      "url": "https://www.slovenia.info/en/stories/celebrate-world-bee-day-with-us",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "IPBES",
+      "descripcion": "Plataforma Intergubernamental de Ciencia y Política sobre Biodiversidad y Servicios Ecosistémicos. Informe de Evaluación sobre Polinizadores, Polinización y Producción de Alimentos 2017.",
+      "url": "https://ipbes.net/assessment-reports/pollinators",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "UICN - Unión Internacional para la Conservación de la Naturaleza",
+      "descripcion": "Reúne organizaciones influyentes y expertos para unir esfuerzos en la conservación de la naturaleza. Campaña reciente para polinizadores en Europa.",
+      "url": "https://www.iucn.org/regions/europe/our-work/pollinators-europe",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Junior Master Gardener",
+      "descripcion": "Información útil y consejos sobre jardinería, insectos, plantas y sus interacciones.",
+      "url": "http://jmgkids.us/kids-zone",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "National Geographic",
+      "descripcion": "Datos interesantes sobre abejas y otros polinizadores.",
+      "url": "https://www.natgeokids.com/za/discover/animals/insects/honey-bees",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Nature Kids BC",
+      "descripcion": "Involucra a todos en la ciencia ciudadana de polinizadores a través de relevamientos y acciones.",
+      "url": "https://www.naturekidsbc.ca/be-a-naturekid/stewardship-citizen-science/pollinators",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Pollinator Partnership",
+      "descripcion": "Centro de aprendizaje con todo lo que necesitás saber sobre polinizadores y cosas que podés hacer para ayudar.",
+      "url": "https://www.pollinator.org/learning-center/education",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "RHS Campaign for School Gardening",
+      "descripcion": "Inspira y apoya a las escuelas para brindar a los niños oportunidades de jardinería que mejoren sus habilidades y su desarrollo.",
+      "url": "https://schoolgardening.rhs.org.uk",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "PNUD - Programa de las Naciones Unidas para el Desarrollo",
+      "descripcion": "Sección 'Buzzing with life' con historias de apicultores de todo el mundo y otra información interesante.",
+      "url": "https://bees.undp.org",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "UNESCO",
+      "descripcion": "Kit de aprendizaje sobre biodiversidad (en inglés, francés y español) para docentes de secundaria.",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000233877.locale=en",
+      "idioma": "Inglés / Francés / Español"
+    },
+    {
+      "nombre": "UNESCO y UNEP - YouthXChange",
+      "descripcion": "Guía sobre biodiversidad y estilos de vida en inglés, francés y español.",
+      "url": "https://unesdoc.unesco.org/ark:/48223/pf0000233877.locale=en",
+      "idioma": "Inglés / Francés / Español"
+    },
+    {
+      "nombre": "PNUMA - Programa de las Naciones Unidas para el Medio Ambiente",
+      "descripcion": "Folleto 2019 sobre polinizadores con datos y cifras útiles.",
+      "url": "https://www.unenvironment.org/resources/report/2019-visual-booklet-pollinators-and-pesticides-keeping-our-bees-safe",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "EPA - Agencia de Protección Ambiental de Estados Unidos",
+      "descripcion": "Guía sobre formas seguras de controlar plagas en el hogar.",
+      "url": "https://www.epa.gov/sites/production/files/2017-08/documents/citizens_guide_to_pest_control_and_pesticide_safety.pdf",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "Día Mundial de las Abejas",
+      "descripcion": "Se celebra el 20 de mayo para recordar la necesidad de proteger y conservar a las abejas.",
+      "url": "https://www.worldbeeday.org",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "X-Polli:Nation",
+      "descripcion": "Proyecto de National Geographic que comparte enfoques y herramientas para apoyar a los polinizadores, las personas y la ciencia ciudadana.",
+      "url": "https://www.opalexplorenature.org/xpollination",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "iNaturalist",
+      "descripcion": "Aplicación para identificar plantas y animales, útil para descubrir flores y polinizadores.",
+      "url": "https://www.inaturalist.org",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "What's That Flower",
+      "descripcion": "Aplicación para identificar flores.",
+      "url": "https://www.whatsthatflower.com",
+      "idioma": "Inglés"
+    },
+    {
+      "nombre": "FlowerChecker",
+      "descripcion": "Aplicación para identificar flores.",
+      "url": "https://www.flowerchecker.com",
+      "idioma": "Inglés"
+    }
   ]
+
+
+
+
+
 }, 
 
 

@@ -8,6 +8,15 @@ const site =
 const badges =
   require("./content/_data/badges.js")();
 
+
+
+const ageGroups =
+  require("./content/_data/ageGroups.js")();
+
+
+
+
+
 const knownBadgeIds =
   badges.map(b =>
     String(b.id).toLowerCase()
@@ -49,7 +58,7 @@ module.exports = function(eleventyConfig) {
     }
   );
 
-
+eleventyConfig.addPassthroughCopy("js");
 
 
 eleventyConfig.addCollection(
@@ -116,67 +125,6 @@ eleventyConfig.addCollection(
 
 
 
-
-
-eleventyConfig.addFilter(
-  "activityCardModel",
-  function(activity, options = {}) {
-
-    if (!activity) {
-      return null;
-    }
-
-    const data = activity.data || {};
-
-    return {
-
-      url: activity.url,
-
-      title: data.title || "",
-
-      summary: data.summary || "",
-
-      image:
-        data.image ||
-        "/imagenes/actividades/activity-card.png",
-
-      duration:
-        data.duration || null,
-
-      participants:
-        data.participants || null,
-
-      ageGroup:
-        data.age_group || [],
-
-      sdgs:
-        data.sdgs || [],
-
-      activityBadges:
-        data.activity_badges || [],
-
-      attachments:
-        data.attachments || [],
-
-      original:
-        data.original || false,
-
-      version:
-        data.version || null,
-
-      isRequired:
-        data.isRequired || false,
-
-      isComplementary:
-        options.isComplementary || false,
-
-      isFeatured:
-        options.isFeatured || false
-
-    };
-
-  }
-);
 
 
 
@@ -579,6 +527,8 @@ eleventyConfig.addFilter(
 
     const result = {
 
+     badge,
+
       stats: {
         total: 0,
         official: 0,
@@ -620,6 +570,8 @@ eleventyConfig.addFilter(
 
           description:
             section.description || "",
+
+          order: section.order || 0,
 
           count: 0,
 
@@ -687,7 +639,6 @@ if (badge.id === "general") {
 if (!belongsToBadge) {
   continue;
 }
-
 
 
 

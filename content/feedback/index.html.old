@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+</head>
+<body>
+
+    <h1>Submit Your Feedback</h1>
+
+    <!-- 1. The Iframe (Leave src empty "") -->
+    <iframe 
+      id="google-form-iframe" 
+      src="" 
+      width="640" 
+      height="800" 
+      frameborder="0" 
+      marginheight="0" 
+      marginwidth="0">
+      Loading…
+    </iframe>
+
+    <!-- 2. The JavaScript Code -->
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            // Get the original page URL from the link parameter (?from=...)
+            const params = new URLSearchParams(window.location.search);
+            let sourcePage = params.get('fromact') || document.referrer;
+            let sourcePageurl = params.get('fromurl') || document.referrer;
+            // CHANGE THESE TWO LINES: Put your actual Google Form URL and Entry ID
+            const baseFormUrl = "https://docs.google.com/forms/d/e/1FAIpQLSdr40wWTdG0Sfg7zW-I3Fnm1Ee9NGMcTJfEIUgwh3PwWHVdiA/viewform"; //"https://google.com";
+ 	    const entryIdActName = "entry.1234096209"; // Replace with your actual entry ID
+ 	    const entryIdActURL = "entry.883203267"; // Replace with your actual entry ID
+
+//            const entryId = "entry.123456789"; 
+
+            // Build the safe, encoded URL for the iframe
+            const encodedSource = encodeURIComponent(sourcePage);
+            const encodedSourceurl = encodeURIComponent(sourcePageurl);
+            const prefilledUrl = `${baseFormUrl}?embedded=true&${entryIdActName}=${encodedSource}&${entryIdActURL}=${encodedSourceurl}`;
+
+            // Inject the URL into your iframe
+            const iframe = document.getElementById('google-form-iframe');
+            if (iframe) {
+                iframe.src = prefilledUrl;
+            }
+        });
+    </script>
+
+</body>
+</html>
+

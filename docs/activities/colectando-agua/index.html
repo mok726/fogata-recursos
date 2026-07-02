@@ -17,12 +17,12 @@
 
 
   <title>
-    Colectando Agua - Fogata de Recursos
+    Colectando agua - Fogata de Recursos
   </title>
 
   <meta
     name="description"
-    content="Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.">
+    content="Construye un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua.">
 
   <meta
     name="theme-color"
@@ -68,11 +68,11 @@
 
   <meta
     property="og:title"
-    content="Colectando Agua - Fogata de Recursos">
+    content="Colectando agua - Fogata de Recursos">
 
   <meta
     property="og:description"
-    content="Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.">
+    content="Construye un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua.">
 
   <meta
     property="og:url"
@@ -87,14 +87,14 @@
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 <meta property="og:image:width" content="1731" />
 <meta property="og:image:height" content="909" />
-<meta property="og:image:alt" content="Colectando Agua - Fogata de Recursos" />
+<meta property="og:image:alt" content="Colectando agua - Fogata de Recursos" />
 
 <meta
   property="og:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-card-small.png">
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="158" />
-<meta property="og:image:alt" content="Colectando Agua - Fogata de Recursos" />
+<meta property="og:image:alt" content="Colectando agua - Fogata de Recursos" />
 
 
 
@@ -140,17 +140,17 @@ put this inside the body
 
   <meta
     name="twitter:title"
-    content="Colectando Agua - Fogata de Recursos">
+    content="Colectando agua - Fogata de Recursos">
 
   <meta
     name="twitter:description"
-    content="Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.">
+    content="Construye un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua.">
 
 <meta
   name="twitter:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 
-<meta name="twitter:image:alt" content="Colectando Agua - Fogata de Recursos" />
+<meta name="twitter:image:alt" content="Colectando agua - Fogata de Recursos" />
 <!-- meta name="twitter:site" content="@MCTArgentina" / -->
 <meta name="twitter:creator" content="@mok726">
 
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=colectando-agua&amp;title=Colectando%20agua&amp;url=%2Factivities%2Fcolectando-agua%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -320,18 +362,18 @@ async function shareActivity() {
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('/fogata-recursos/imagenes/actividades/colectando-agua.png');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">Aprender haciendo</div>
-        <h1 class="hero-title">Colectando Agua
-<div class="hero-version version-1.0">
-  1.0
+        <div class="hero-category">Experimentación</div>
+        <h1 class="hero-title">Colectando agua
+<div class="hero-version version-draft">
+  BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.</p>
+        <p class="hero-description">Recoge agua del suelo usando energía solar.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 4-12</span>
-  <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-  <span><span class="material-symbols-outlined">productivity</span> 11-22</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+  <span><span class="material-symbols-outlined">schedule</span> 30 minutos</span>
+  <span><span class="material-symbols-outlined">productivity</span> 11-22 años</span>
 </div>
 
         <div class="hero-tags">
@@ -350,7 +392,7 @@ async function shareActivity() {
     <nav class="breadcrumbs">
       <a href="/fogata-recursos/">Inicio</a> >
       <a href="/fogata-recursos/activities/">Actividades</a> >
-      <span>Colectando Agua</span>
+      <span>Colectando agua</span>
     </nav>
 
 <div class="activity-actions">
@@ -397,28 +439,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      Aprender haciendo
+      Experimentación
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      30 min
+      30 minutos
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      4-12
+      4-20
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         11-22  anos 
+         11-22 años  anos 
     </div>
   </div>
 
@@ -455,13 +497,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
-    </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>3/5</span>
+    <span class="metric-dot ">
+    </span>
+      <span>2/5</span>
 </div>
 
     <div class="metric-row">
@@ -472,13 +514,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
-    </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>3/5</span>
+    <span class="metric-dot ">
+    </span>
+      <span>2/5</span>
 </div>
     <hr>
 
@@ -493,11 +535,11 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>3/5</span>
+      <span>4/5</span>
 </div>
 
 
@@ -514,11 +556,11 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
+    <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-     <span>4/5</span>
+     <span>3/5</span>
 
 </div>
 
@@ -535,11 +577,11 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>3/5</span>
+      <span>4/5</span>
 </div>
 
   </div>
@@ -556,17 +598,11 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">Pala</span>
-        <span class="tag">frasco o recipiente</span>
-        <span class="tag">lámina de plástico</span>
-        <span class="tag">piedras grandes</span>
-        <span class="tag">piedra pequeña</span>
-        <span class="tag">vegetación</span>
-        <span class="tag">pala</span>
-        <span class="tag">plástico transparente</span>
-        <span class="tag">recipiente</span>
-        <span class="tag">vegetación</span>
-        <span class="tag">piedras</span>
+        <span class="tag">Vegetación verde</span>
+        <span class="tag">Frasco o recipiente</span>
+        <span class="tag">Lámina de plástico transparente</span>
+        <span class="tag">Piedras grandes</span>
+        <span class="tag">Piedra pequeña</span>
     </div>
   </div>
 
@@ -579,6 +615,9 @@ async function shareActivity() {
   <div class="sidebar-sdgs large-ods">
       <a href="/fogata-recursos/ods/6/">
         <img src="/fogata-recursos/imagenes/ods/ods-6.png" alt="ODS 6" title="ODS 6" class="ods-icon-large">
+      </a>
+      <a href="/fogata-recursos/ods/7/">
+        <img src="/fogata-recursos/imagenes/ods/ods-7.png" alt="ODS 7" title="ODS 7" class="ods-icon-large">
       </a>
       <a href="/fogata-recursos/ods/13/">
         <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13" title="ODS 13" class="ods-icon-large">
@@ -615,12 +654,56 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Aprende a recolectar agua utilizando la energía del Sol y la condensación. Esta actividad muestra cómo se puede obtener agua de la vegetación utilizando el calor solar.</p>
+    <p>Recoge agua del suelo usando energía solar.</p>
   </div>
 </div>
 
 
     
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card timeline-preparation timeline-card">
+
+
+  <div class="timeline-column">
+    <div class="timeline-line"></div>
+
+    <div class="timeline-circle">
+      <span class="material-symbols-outlined">
+        inventory_2
+      </span>
+    </div>
+  </div>
+
+  <div class="timeline-content">
+
+    <h2>
+      Preparación
+    </h2>
+
+    <div class="markdown-content">
+      <ol>
+<li>Busquen un lugar con tierra blanda.</li>
+<li>Recolecten vegetación verde.</li>
+<li>Consigan un frasco, lámina de plástico transparente y piedras.</li>
+<li>Tengan una pala para cavar.</li>
+</ol>
+    </div>
+
+  </div>
+
+
+</div>
+
 
 
 
@@ -652,16 +735,7 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <ol>
-<li>Instrucciones:</li>
-</ol><ul>
-<li>Haz un hoyo de 30 cm de profundidad y 60 cm de diámetro en la tierra.</li>
-<li>Recolecta vegetación verde y llena el agujero con ella.</li>
-<li>Coloca un frasco en el centro del hoyo</li>
-<li>Cúbre el hoyo con una lámina de plástico transparente.</li>
-<li>Coloca una piedra pequeña en el centro de la lámina para provocar un hundimiento.</li>
-<li>Deja que el Sol llegue directamente sobre el hoyo y observa qué sucede al pasar el tiempo (15 min).</li>
-</ul>
+      <h3>Paso 1 - Cavar</h3><p>Hagan un hoyo de 30 cm de profundidad y 60 cm de diámetro en la tierra.</p><h3>Paso 2 - Llenar</h3><p>Recojan cualquier vegetación verde y llenen el agujero con ella.</p><h3>Paso 3 - Colocar el frasco</h3><p>Coloquen un frasco en el centro del hoyo y apoyenlo en el suelo, no en la vegetación.</p><h3>Paso 4 - Cubrir</h3><p>Tapen el hoyo con una lámina de plástico transparente. Utilicen las piedras para estirar los bordes de la lámina de plástico y sujetarla.</p><h3>Paso 5 - Hundir</h3><p>Pongan una piedra pequeña en el centro de la lámina, sobre el frasco, para provocar un hundimiento.</p><h3>Paso 6 - Esperar</h3><p>Dejen que el sol llegue directo sobre el hueco y observen qué sucede al pasar el tiempo (15 min o más).</p>
     </div>
 
   </div>
@@ -700,14 +774,95 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <p>Discusión:</p><ul>
-<li>¿Cómo se forma el agua en el frasco?</li>
-<li>¿Qué papel juega el Sol en este proceso?</li>
-<li>Reflexiona sobre cómo podemos obtener agua de manera sostenible.</li>
-<li>Pregunta: ¿Qué otras formas de recolectar agua conocen?</li>
-</ul>
+      <ol>
+<li>¿Qué sucedió en el frasco?</li>
+<li>¿Cómo se relaciona esto con el ciclo del agua?</li>
+<li>¿En qué situaciones podría ser útil esta técnica?</li>
+</ol>
     </div>
 
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Texto original completo de la actividad
+  </h2>
+
+  <div class="markdown-content">
+    <p><strong>Versión en español (texto original del manual):</strong></p><p><strong>Colectando Agua</strong></p><ol>
+<li>Hagan un hoyo de 30 cm de profundidad y 60 cm de diámetro en la tierra.</li>
+<li>Recojan cualquier vegetación verde y llenen el agujero con ella.</li>
+<li>Coloquen un frasco en el centro del hoyo y apoyenlo en el suelo, no en la vegetación.</li>
+<li>Tapen el hoyo con una lámina de plástico transparente. Utilicen las piedras para estirar los bordes de la lámina de plástico y sujetarla.</li>
+<li>Pongan una piedra pequeña en el centro de la lámina, sobre el frasco, para provocar un hundimiento.</li>
+<li>Dejen que el sol llegue directo sobre el hueco y observen qué sucede al pasar el tiempo (15 min).</li>
+</ol><p><strong>Objetivos - Resultados Esperados:</strong></p><ul>
+<li>Recoger el agua que se almacena en la vegetación.</li>
+<li>Conocer el efecto de la condensación.</li>
+</ul><p><strong>Materiales:</strong> Pala, frasco o un recipiente, lámina de plástico, piedras grandes, piedra pequeña, vegetación.</p><p><strong>Duración:</strong> 30 min</p><hr><p><strong>Citación requerida / Required citation:</strong></p><p>Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.</p><hr>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Checklist de verificación
+  </h2>
+
+  <div class="markdown-content">
+    <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original completo incluido</li>
+</ul>
   </div>
 
 
@@ -752,26 +907,26 @@ async function shareActivity() {
   <span
     class="competencia-pill scouts"
     title="
-Competencia 6
-Categoria: Salud y Bienestar
+Competencia 31
+Categoria: Ambiente
 
-Acepto y valoro mi cuerpo y el de los demás, evitando comparaciones.
+Reconozco mi impacto en el ambiente y en la sociedad, adoptando un estilo de vida responsable y sostenible.
 
 ">
-    6
+    31
   </span>
 
 
   <span
     class="competencia-pill scouts"
     title="
-Competencia 13
-Categoria: Salud y Bienestar
+Competencia 37
+Categoria: Ambiente
 
-Identifico situaciones de riesgo y adopto prácticas seguras.
+Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
 
 ">
-    13
+    37
   </span>
 
 
@@ -801,24 +956,24 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
   <span
     class="competencia-pill caminantes"
     title="
-Competencia 3
-Categoria: Salud y Bienestar
+Competencia 29
+Categoria: Ambiente
 
-Adopto una mirada crítica sobre las imágenes y mensajes que los medios de comunicación y las redes sociales nos muestran acerca de los cuerpos y las apariencias.
+Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
   ">
-    3
+    29
   </span>
 
 
   <span
     class="competencia-pill caminantes"
     title="
-Competencia 6
-Categoria: Salud y Bienestar
+Competencia 34
+Categoria: Ambiente
 
-Comprendo que mi sexualidad es una parte importante de mi vida individual y junto a otras personas.
+Aprovecho toda oportunidad como un desafío para conectar con el mundo natural, cuidándolo y protegiéndolo.
   ">
-    6
+    34
   </span>
 
 
@@ -858,14 +1013,14 @@ Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza
   <span
     class="competencia-pill rovers"
     title="
-Competencia 6
-Ruta: Creatividad
+Competencia 32
+Ruta: Sociabilidad
 
-Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
+Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
 
 
 ">
-    6
+    32
   </span>
 
 
@@ -897,8 +1052,9 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
+            <li>Observación</li>
+            <li>Resolución de problemas</li>
             <li>Conciencia ambiental</li>
-            <li>Experimentación</li>
         </ul>
       </div>
 
@@ -910,6 +1066,9 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
       <a href="/fogata-recursos/ods/6/">
         <img src="/fogata-recursos/imagenes/ods/ods-6.png" alt="ODS 6"  title="ODS 6" class="ods-icon-large">
       </a>
+      <a href="/fogata-recursos/ods/7/">
+        <img src="/fogata-recursos/imagenes/ods/ods-7.png" alt="ODS 7"  title="ODS 7" class="ods-icon-large">
+      </a>
       <a href="/fogata-recursos/ods/13/">
         <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13"  title="ODS 13" class="ods-icon-large">
       </a>
@@ -920,9 +1079,6 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
       <div class="info-card">
         <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
         <div class="download-list">
-            <a href="https://www.wikihow.com/Make-a-Solar-Still" class="download-item">
-              📄 Similares en la Web
-            </a>
         </div>
       </div>
 
@@ -932,11 +1088,9 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
         <div class="tag-list">
                 <span class="tag">gosolar</span>
                 <span class="tag">agua</span>
-                <span class="tag">condensación</span>
+                <span class="tag">condensacion</span>
                 <span class="tag">solar</span>
                 <span class="tag">supervivencia</span>
-                <span class="tag">desierto</span>
-                <span class="tag">Go Solar</span>
         </div>
       </div>
     </aside>
@@ -951,8 +1105,8 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Sinodal o Dirigente a cargo</p>
-<p><strong>Tiempo preparaci  n:</strong> 20 min</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 15 min</p>
       </div>
 
 
@@ -963,12 +1117,20 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
         </h3>
            <p>
              <strong>Autor:</strong>
-                scoutsgosolar@solafrica.ch, gosolar@scouts.org.ar, tributierra@scouts.org.ar, Mariano S. Cosentino
+                Scouts de Argentina
            </p>
           <p>
             <strong>Fuente:</strong>
-               SOLARAFRICA.CH, Tribu Tierra - Scouts de Argentina
+               Scouts de Argentina - Desafío Scouts Go Solar
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://www.scouts.org.ar">
+                Propiedad intelectual de Scouts de Argentina Asociación Civil
+              </a>
+            </p>
+          </div>
 
       </div>
 
@@ -980,8 +1142,7 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
       <div class="info-card  references-card">
         <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
         <ul>
-             <li><a href="https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"><strong>Manual de Energia Solar - Desafio Scouts Go-Solar</strong> – Tribu Tierra (2021)</a></li>
-             <li><a href="https://scouts.org.ar/soy-joven"><strong>Mundo Mejor</strong> – Tribu Tierra </a></li>
+             <li><a href="https://www.scouts.org.ar"><strong>Desafío Scouts Go Solar - Manual de Energía Solar</strong> – Scouts de Argentina (2021)</a></li>
         </ul>
       </div>
 
@@ -1034,30 +1195,45 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/agua-pura-metodo-sodis.png');"></div>
-            <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/agua-pura-metodo-sodis/">Agua Pura (Método SODIS)</a>                    <div class="hero-version version-1.0">
-                        1.0
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/purificacion-agua-sodis.png');"></div>
+            <div class="related-category">Experimentación</div>
+            <h3><a href="/fogata-recursos/activities/purificacion-agua-sodis/">Purificación de agua (SODIS)</a>                    <div class="hero-version version-draft">
+                        BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-12</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-22 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 15 minutos + 6 horas de exposición</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/los-colores-de-la-energia-solar.png');"></div>
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/ducha-solar.png');"></div>
             <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/los-colores-de-la-energia-solar/">Los Colores de la Energía Solar</a>                    <div class="hero-version version-1.0">
-                        1.0
+            <h3><a href="/fogata-recursos/activities/ducha-solar/">Ducha solar</a>                    <div class="hero-version version-draft">
+                        BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 45 min</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> Variable</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/colores-de-la-energia-solar.png');"></div>
+            <div class="related-category">Experimentación</div>
+            <h3><a href="/fogata-recursos/activities/colores-de-la-energia-solar/">Los colores de la energía solar</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 45 minutos</span>
               <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
@@ -1065,30 +1241,15 @@ Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consec
 
           <div class="related-card">
               <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/arte-solar.png');"></div>
-            <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/arte-solar/">Arte Solar</a>                    <div class="hero-version version-1.0">
-                        1.0
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-12</span>
-              <span><span class="material-symbols-outlined">schedule</span> 15 min a 1 h</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/ozono-y-quemaduras-de-sol.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/ozono-y-quemaduras-de-sol/">Ozono y Quemaduras de Sol</a>                    <div class="hero-version version-1.0">
-                        1.0
+            <div class="related-category">Creatividad / Arte</div>
+            <h3><a href="/fogata-recursos/activities/arte-solar/">Arte Solar</a>                    <div class="hero-version version-draft">
+                        BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-22 años</span>
+              <span><span class="material-symbols-outlined">schedule</span> 15 minutos - 1 hora</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
     </div>

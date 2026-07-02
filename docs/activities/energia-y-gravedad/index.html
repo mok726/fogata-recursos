@@ -17,12 +17,12 @@
 
 
   <title>
-    Energía y Gravedad - Fogata de Recursos
+    Energía y gravedad - Fogata de Recursos
   </title>
 
   <meta
     name="description"
-    content="Experimento sobre energía potencial y cinética con rampas.">
+    content="Demostración de energía potencial y cinética usando un carrito de juguete y una rampa para ver cómo la gravedad convierte una en otra.">
 
   <meta
     name="theme-color"
@@ -68,11 +68,11 @@
 
   <meta
     property="og:title"
-    content="Energía y Gravedad - Fogata de Recursos">
+    content="Energía y gravedad - Fogata de Recursos">
 
   <meta
     property="og:description"
-    content="Experimento sobre energía potencial y cinética con rampas.">
+    content="Demostración de energía potencial y cinética usando un carrito de juguete y una rampa para ver cómo la gravedad convierte una en otra.">
 
   <meta
     property="og:url"
@@ -87,14 +87,14 @@
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 <meta property="og:image:width" content="1731" />
 <meta property="og:image:height" content="909" />
-<meta property="og:image:alt" content="Energía y Gravedad - Fogata de Recursos" />
+<meta property="og:image:alt" content="Energía y gravedad - Fogata de Recursos" />
 
 <meta
   property="og:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-card-small.png">
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="158" />
-<meta property="og:image:alt" content="Energía y Gravedad - Fogata de Recursos" />
+<meta property="og:image:alt" content="Energía y gravedad - Fogata de Recursos" />
 
 
 
@@ -140,17 +140,17 @@ put this inside the body
 
   <meta
     name="twitter:title"
-    content="Energía y Gravedad - Fogata de Recursos">
+    content="Energía y gravedad - Fogata de Recursos">
 
   <meta
     name="twitter:description"
-    content="Experimento sobre energía potencial y cinética con rampas.">
+    content="Demostración de energía potencial y cinética usando un carrito de juguete y una rampa para ver cómo la gravedad convierte una en otra.">
 
 <meta
   name="twitter:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 
-<meta name="twitter:image:alt" content="Energía y Gravedad - Fogata de Recursos" />
+<meta name="twitter:image:alt" content="Energía y gravedad - Fogata de Recursos" />
 <!-- meta name="twitter:site" content="@MCTArgentina" / -->
 <meta name="twitter:creator" content="@mok726">
 
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=energia-y-gravedad&amp;title=Energ%C3%ADa%20y%20gravedad&amp;url=%2Factivities%2Fenergia-y-gravedad%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -321,17 +363,17 @@ async function shareActivity() {
     <div class="activity-hero-container">
       <div class="hero-left">
         <div class="hero-category">Experimentación</div>
-        <h1 class="hero-title">Energía y Gravedad
+        <h1 class="hero-title">Energía y gravedad
 <div class="hero-version version-draft">
   BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Experimento sobre energía potencial y cinética con rampas.</p>
+        <p class="hero-description">Descubre la energía potencial y cinética con un carrito.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 4-10</span>
-  <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-  <span><span class="material-symbols-outlined">productivity</span> 7-13</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+  <span><span class="material-symbols-outlined">schedule</span> 1 día</span>
+  <span><span class="material-symbols-outlined">productivity</span> 5-22 años</span>
 </div>
 
         <div class="hero-tags">
@@ -350,7 +392,7 @@ async function shareActivity() {
     <nav class="breadcrumbs">
       <a href="/fogata-recursos/">Inicio</a> >
       <a href="/fogata-recursos/activities/">Actividades</a> >
-      <span>Energía y Gravedad</span>
+      <span>Energía y gravedad</span>
     </nav>
 
 <div class="activity-actions">
@@ -404,28 +446,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      30 min
+      1 día
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      4-10
+      4-20
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         7-13  anos 
+         5-22 años  anos 
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Espacio</div>
     <div class="value">
-      Interior / Exterior
+      Interior
     </div>
   </div>
 
@@ -453,15 +495,15 @@ async function shareActivity() {
 <div class="metric-dots">
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
-    </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+    <span class="metric-dot ">
+    </span>
+      <span>1/5</span>
 </div>
 
     <div class="metric-row">
@@ -470,15 +512,15 @@ async function shareActivity() {
 <div class="metric-dots">
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
-    </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+    <span class="metric-dot ">
+    </span>
+      <span>1/5</span>
 </div>
     <hr>
 
@@ -495,9 +537,9 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
-      <span>4/5</span>
+      <span>5/5</span>
 </div>
 
 
@@ -533,13 +575,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+      <span>3/5</span>
 </div>
 
   </div>
@@ -556,11 +598,8 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">Rampa (cartón/tabla)</span>
-        <span class="tag">Objeto rodante</span>
-        <span class="tag">tabla o cartón</span>
-        <span class="tag">bola o carrito</span>
-        <span class="tag">cinta métrica (opcional)</span>
+        <span class="tag">Carrito de juguete pequeño (o bola)</span>
+        <span class="tag">Rampa (tabla, cartón o superficie inclinada)</span>
     </div>
   </div>
 
@@ -571,8 +610,8 @@ async function shareActivity() {
   <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
 
   <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4" title="ODS 4" class="ods-icon-large">
+      <a href="/fogata-recursos/ods/7/">
+        <img src="/fogata-recursos/imagenes/ods/ods-7.png" alt="ODS 7" title="ODS 7" class="ods-icon-large">
       </a>
   </div>
 
@@ -606,12 +645,55 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Experimento sobre energía potencial y cinética con rampas.</p>
+    <p>Descubre la energía potencial y cinética con un carrito.</p>
   </div>
 </div>
 
 
     
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card timeline-preparation timeline-card">
+
+
+  <div class="timeline-column">
+    <div class="timeline-line"></div>
+
+    <div class="timeline-circle">
+      <span class="material-symbols-outlined">
+        inventory_2
+      </span>
+    </div>
+  </div>
+
+  <div class="timeline-content">
+
+    <h2>
+      Preparación
+    </h2>
+
+    <div class="markdown-content">
+      <ol>
+<li>Coloca una rampa (tabla, cartón o superficie inclinada).</li>
+<li>Consigue un carrito de juguete pequeño (o una bola).</li>
+<li>Asegura la rampa para que no se mueva.</li>
+</ol>
+    </div>
+
+  </div>
+
+
+</div>
+
 
 
 
@@ -643,7 +725,15 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <p>Lanza un carrito (o bola) por una rampa. Observa cómo la gravedad convierte energía potencial en cinética.</p>
+      <h3>Parte I - Energía potencial</h3><p>Coloca el carrito en la parte superior de la rampa.</p><p>En la cima de la rampa, el objeto tiene <strong>energía potencial</strong> (energía almacenada).</p><h3>Parte II - Energía cinética</h3><p>Dale un pequeño empujón al carrito para que ruede por la rampa.</p><p>La fuerza del empujón y la gravedad convierten la energía potencial en <strong>energía cinética</strong> (energía de movimiento).</p><h3>Parte III - Experimentar</h3><p>Prueba con diferentes alturas:</p><ul>
+<li>¿Qué pasa si la rampa es más alta?</li>
+<li>¿Qué pasa si el carrito es más pesado?</li>
+</ul><h3>Parte IV - Reflexionar</h3><p>Piensa en otros ejemplos de energía potencial y cinética en la vida cotidiana.</p><p><strong>Ejemplos:</strong></p><ul>
+<li>Una pelota en la cima de una colina → energía potencial</li>
+<li>Una pelota rodando → energía cinética</li>
+<li>Un auto con combustible → energía potencial</li>
+<li>Un auto en movimiento → energía cinética</li>
+</ul>
     </div>
 
   </div>
@@ -682,9 +772,88 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <p>¿Dónde ves este principio en la vida real?</p>
+      <ol>
+<li>¿Dónde tenía el carrito energía potencial?</li>
+<li>¿Dónde tenía energía cinética?</li>
+<li>¿Qué otros ejemplos de energía potencial y cinética conoces?</li>
+</ol>
     </div>
 
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Texto original completo de la actividad
+  </h2>
+
+  <div class="markdown-content">
+    <p><strong>English version:</strong></p><p>C.04 ENERGY AND GRAVITY</p><p>For this demonstration of potential energy, kinetic energy and gravity, you will need a small toy car (or a small ball or other object that rolls) and a surface that you can use as a ramp. Rest or hold the small toy car at the top of the ramp. At the top of the ramp, the object has potential energy. Give the car a small push so that it rolls down the ramp. The force of your push converts the potential energy (stored energy) in the car into kinetic energy (moving energy). In this case, the force of your push and the force of gravity convert the ball's potential energy into kinetic energy. Try to think of other ways that you can demonstrate and visualize kinetic and potential energy.</p><p><strong>Versión en español:</strong></p><p>C.04 ENERGÍA Y GRAVEDAD</p><p>Para esta demostración de energía potencial, energía cinética y gravedad, necesitarás un carrito de juguete pequeño (o una bola pequeña u otro objeto que ruede) y una superficie que puedas usar como rampa. Coloca o sostén el carrito pequeño en la parte superior de la rampa. En la parte superior de la rampa, el objeto tiene energía potencial. Dale un pequeño empujón al carrito para que ruede por la rampa. La fuerza de tu empujón convierte la energía potencial (energía almacenada) en el carrito en energía cinética (energía de movimiento). En este caso, la fuerza de tu empujón y la fuerza de la gravedad convierten la energía potencial de la bola en energía cinética. Intenta pensar en otras formas en que puedes demostrar y visualizar la energía cinética y potencial.</p><hr><p><strong>Citación requerida / Required citation:</strong></p><p>FAO. 2019. Energy Challenge Badge. YUNGA learning and action series. Rome.</p><p><strong>Traducción / Translation:</strong></p><p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p><p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p><p>NIVELES: 1, 2, 3</p><hr>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Checklist de verificación
+  </h2>
+
+  <div class="markdown-content">
+    <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original en inglés incluido</li>
+<li>[x] Traducción al español incluida</li>
+<li>[x] Nota de traducción incluida</li>
+<li>[x] Citación requerida incluida</li>
+</ul>
   </div>
 
 
@@ -710,6 +879,19 @@ async function shareActivity() {
 
 
 
+  <a href="/fogata-recursos/edades/castores/" title="Castores">
+    <div class="branch-item">
+      <img src="/fogata-recursos/imagenes/ramas/castores.png" alt="Castores">
+      <div class="branch-content">
+        <div class="branch-name">
+          Castores
+        </div>
+          <div class="branch-actions">
+            Acciones: 
+          </div>
+      </div>
+    </div>
+  </a>
 
 
 <div class="branch-item">
@@ -727,22 +909,22 @@ async function shareActivity() {
 
 
       <img
-        src="/fogata-recursos/imagenes/competencias/manada/rastro-09.png"
-        alt="Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego."
-        title="Competencia 9
-               Categoría: Salud y Bienestar
-               Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego."
+        src="/fogata-recursos/imagenes/competencias/manada/rastro-32.png"
+        alt="Me intereso por aprender cosas nuevas."
+        title="Competencia 32
+               Categoría: Habilidades para la Vida
+               Me intereso por aprender cosas nuevas."
         class="rastro-icon">
 
 
 
 
       <img
-        src="/fogata-recursos/imagenes/competencias/manada/rastro-47.png"
-        alt="Expreso mis emociones y sentimientos a través de diversos medios artísticos."
-        title="Competencia 47
+        src="/fogata-recursos/imagenes/competencias/manada/rastro-33.png"
+        alt="Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas."
+        title="Competencia 33
                Categoría: Habilidades para la Vida
-               Expreso mis emociones y sentimientos a través de diversos medios artísticos."
+               Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas."
         class="rastro-icon">
 
 
@@ -753,26 +935,26 @@ async function shareActivity() {
   <span
     class="competencia-pill lobatos"
     title="
-Rastro 9
-Sendero: Salud y Bienestar
+Rastro 32
+Sendero: Habilidades para la Vida
 
-Me gustan las actividades deportivas y recreativas que comparto con mis amigas y amigos, donde me divierto y juego.
+Me intereso por aprender cosas nuevas.
 
 ">
-    9
+    32
   </span>
 
 
   <span
     class="competencia-pill lobatos"
     title="
-Rastro 47
+Rastro 33
 Sendero: Habilidades para la Vida
 
-Expreso mis emociones y sentimientos a través de diversos medios artísticos.
+Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
 
 ">
-    47
+    33
   </span>
 
 
@@ -802,26 +984,26 @@ Expreso mis emociones y sentimientos a través de diversos medios artísticos.
   <span
     class="competencia-pill scouts"
     title="
-Competencia 4
-Categoria: Salud y Bienestar
+Competencia 40
+Categoria: Habilidades para la Vida
 
-Soy crítica/o con las imágenes y mensajes que los medios de comunicación y las redes sociales nos presentan sobre los modelos corporales y las modas.
+Exploro temas de mi interés con la intención de mejorar cada día.
 
 ">
-    4
+    40
   </span>
 
 
   <span
     class="competencia-pill scouts"
     title="
-Competencia 53
+Competencia 41
 Categoria: Habilidades para la Vida
 
-Participó de diferentes manifestaciones artísticas en las que expreso mis emociones y sentimientos.
+Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
 
 ">
-    53
+    41
   </span>
 
 
@@ -833,9 +1015,97 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
 </div>
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/caminantes/" title="Caminantes">
+
+  <img src="/fogata-recursos/imagenes/ramas/caminantes.png"
+       alt="Caminantes">
+</a>
+  <div class="branch-content">
+
+    <div class="branch-name">
+      Caminantes
+    </div>
+
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 36
+Categoria: Habilidades para la Vida
+
+Trabajo en mi superación personal, enfocándome en mis intereses personales.
+  ">
+    36
+  </span>
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 37
+Categoria: Habilidades para la Vida
+
+Investigo y desarrollo distintas habilidades y tecnologías, que me permitan adquirir experiencias prácticas y útiles para mi vida.
+  ">
+    37
+  </span>
+
+
+</div>
+
+</div>
+</div>
 
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/rovers/" title="Rovers">
+
+  <img src="/fogata-recursos/imagenes/ramas/rovers.png" alt="Rovers">
+</a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Rovers
+    </div>
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill rovers"
+    title="
+Competencia 6
+Ruta: Creatividad
+
+Exploro mis intereses vocacionales, descubro mis posibilidades y elijo en consecuencia.
+
+
+">
+    6
+  </span>
+
+
+  <span
+    class="competencia-pill rovers"
+    title="
+Competencia 7
+Ruta: Creatividad
+
+Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+
+
+">
+    7
+  </span>
+
+
+</div>
+
+
+  </div>
+</div>
 
 
   </div>
@@ -858,8 +1128,9 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
+            <li>Experimentación</li>
             <li>Observación</li>
-            <li>Aprendizaje práctico</li>
+            <li>Pensamiento científico</li>
         </ul>
       </div>
 
@@ -868,25 +1139,29 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
 <div class="sidebar-card">
   <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
   <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4"  title="ODS 4" class="ods-icon-large">
+      <a href="/fogata-recursos/ods/7/">
+        <img src="/fogata-recursos/imagenes/ods/ods-7.png" alt="ODS 7"  title="ODS 7" class="ods-icon-large">
       </a>
   </div>
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
                 <span class="tag">energia</span>
-                <span class="tag">energía potencial</span>
-                <span class="tag">energía cinética</span>
                 <span class="tag">gravedad</span>
-                <span class="tag">rampa</span>
-                <span class="tag">movimiento</span>
-                <span class="tag">Insignia de Energía</span>
+                <span class="tag">energia-potencial</span>
+                <span class="tag">energia-cinetica</span>
+                <span class="tag">experimento</span>
+                <span class="tag">educacion-ambiental</span>
         </div>
       </div>
     </aside>
@@ -901,8 +1176,8 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Educador Scout/ Guiadora AGA</p>
-<p><strong>Tiempo preparaci  n:</strong> 10 min</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 15 min</p>
       </div>
 
 
@@ -913,20 +1188,46 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
         </h3>
            <p>
              <strong>Autor:</strong>
-                Mariano S. Cosentino
+                FAO, YUNGA
            </p>
           <p>
             <strong>Fuente:</strong>
-               YUNGA
+               FAO - Energy Challenge Badge
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">
+                Creative Commons BY-NC-SA 3.0 IGO
+              </a>
+            </p>
+              <img
+                 src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+                 alt="Creative Commons BY-NC-SA 3.0 IGO"
+                 class="license-image">
+          </div>
 
       </div>
 
 
 
+      <div class="info-card translation-card">
+        <h3><span class="material-symbols-outlined">translate</span> Nota sobre la traducción</h3>
+           <p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p>
+
+          <p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p>
+
+<p><strong>Versi  n original:</strong> <a href="https://www.fao.org/yunga">Energy Challenge Badge</a></p>      </div>
 
 
 
+
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+             <li><a href="https://www.fao.org/yunga"><strong>Energy Challenge Badge</strong> – FAO (2019)</a></li>
+        </ul>
+      </div>
 
   </div>
 
@@ -953,14 +1254,14 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
 
   <a
     class="activity-nav-card next"
-    href="/fogata-recursos/activities/energia-y-pobreza/">
+    href="/fogata-recursos/activities/energia-y-ods/">
 
     <span class="nav-label">
       Actividad siguiente →
     </span>
 
     <strong>
-      Energía y Pobreza
+      Energía y los ODS
     </strong>
 
   </a>
@@ -977,61 +1278,61 @@ Participó de diferentes manifestaciones artísticas en las que expreso mis emoc
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/experimento-energetico.png');"></div>
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/energia-en-saltos-de-tijera.png');"></div>
+            <div class="related-category">Aprender haciendo</div>
+            <h3><a href="/fogata-recursos/activities/energia-en-saltos-de-tijera/">Energía en saltos de tijera</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-30</span>
+              <span><span class="material-symbols-outlined">schedule</span> 1 día</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/obras-de-teatro-energia.png');"></div>
+            <div class="related-category">Creatividad / Arte</div>
+            <h3><a href="/fogata-recursos/activities/obras-de-teatro-energia/">Obras de teatro sobre energía</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 1-2 días</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/experimento-energia-quimica.png');"></div>
             <div class="related-category">Experimentación</div>
-            <h3><a href="/fogata-recursos/activities/experimento-energetico/">Experimento Energético</a>                    <div class="hero-version version-draft">
+            <h3><a href="/fogata-recursos/activities/experimento-energia-quimica/">Experimento de energía química</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-10</span>
-              <span><span class="material-symbols-outlined">schedule</span> 15 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-14 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 1 día</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/historias-solares.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/historias-solares/">Historias Solares</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/adivina-el-ods.png');"></div>
+            <div class="related-category">Creatividad / Arte</div>
+            <h3><a href="/fogata-recursos/activities/adivina-el-ods/">Adivina el ODS</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 2 horas</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-14 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/formas-de-energia.png');"></div>
-            <div class="related-category">Juego</div>
-            <h3><a href="/fogata-recursos/activities/formas-de-energia/">Formas de Energía</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 6-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 45 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-14 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/juego-de-la-energia.png');"></div>
-            <div class="related-category">Juego</div>
-            <h3><a href="/fogata-recursos/activities/juego-de-la-energia/">Juego de la Energía</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 6-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 1-2 días</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
     </div>

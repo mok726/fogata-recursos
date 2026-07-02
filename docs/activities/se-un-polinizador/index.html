@@ -17,12 +17,12 @@
 
 
   <title>
-    Sé un Polinizador - Fogata de Recursos
+    Sé un polinizador - Fogata de Recursos
   </title>
 
   <meta
     name="description"
-    content="Realiza la polinización tú mismo y aprende sobre el proceso.">
+    content="Experimentá la polinización en primera persona, realizando el trabajo de un polinizador para comprender su importancia.">
 
   <meta
     name="theme-color"
@@ -68,11 +68,11 @@
 
   <meta
     property="og:title"
-    content="Sé un Polinizador - Fogata de Recursos">
+    content="Sé un polinizador - Fogata de Recursos">
 
   <meta
     property="og:description"
-    content="Realiza la polinización tú mismo y aprende sobre el proceso.">
+    content="Experimentá la polinización en primera persona, realizando el trabajo de un polinizador para comprender su importancia.">
 
   <meta
     property="og:url"
@@ -87,14 +87,14 @@
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 <meta property="og:image:width" content="1731" />
 <meta property="og:image:height" content="909" />
-<meta property="og:image:alt" content="Sé un Polinizador - Fogata de Recursos" />
+<meta property="og:image:alt" content="Sé un polinizador - Fogata de Recursos" />
 
 <meta
   property="og:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-card-small.png">
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="158" />
-<meta property="og:image:alt" content="Sé un Polinizador - Fogata de Recursos" />
+<meta property="og:image:alt" content="Sé un polinizador - Fogata de Recursos" />
 
 
 
@@ -140,17 +140,17 @@ put this inside the body
 
   <meta
     name="twitter:title"
-    content="Sé un Polinizador - Fogata de Recursos">
+    content="Sé un polinizador - Fogata de Recursos">
 
   <meta
     name="twitter:description"
-    content="Realiza la polinización tú mismo y aprende sobre el proceso.">
+    content="Experimentá la polinización en primera persona, realizando el trabajo de un polinizador para comprender su importancia.">
 
 <meta
   name="twitter:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 
-<meta name="twitter:image:alt" content="Sé un Polinizador - Fogata de Recursos" />
+<meta name="twitter:image:alt" content="Sé un polinizador - Fogata de Recursos" />
 <!-- meta name="twitter:site" content="@MCTArgentina" / -->
 <meta name="twitter:creator" content="@mok726">
 
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=se-un-polinizador&amp;title=S%C3%A9%20un%20polinizador&amp;url=%2Factivities%2Fse-un-polinizador%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -320,18 +362,18 @@ async function shareActivity() {
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('/fogata-recursos/imagenes/actividades/se-un-polinizador.png');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">Aprender haciendo</div>
-        <h1 class="hero-title">Sé un Polinizador
+        <div class="hero-category">Experimentación</div>
+        <h1 class="hero-title">Sé un polinizador
 <div class="hero-version version-draft">
   BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Realiza la polinización tú mismo y aprende sobre el proceso.</p>
+        <p class="hero-description">Polinizar flores manualmente.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-  <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-  <span><span class="material-symbols-outlined">productivity</span> 5-10 años</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+  <span><span class="material-symbols-outlined">schedule</span> 1.5 horas</span>
+  <span><span class="material-symbols-outlined">productivity</span> 5-15 años</span>
 </div>
 
         <div class="hero-tags">
@@ -350,7 +392,7 @@ async function shareActivity() {
     <nav class="breadcrumbs">
       <a href="/fogata-recursos/">Inicio</a> >
       <a href="/fogata-recursos/activities/">Actividades</a> >
-      <span>Sé un Polinizador</span>
+      <span>Sé un polinizador</span>
     </nav>
 
 <div class="activity-actions">
@@ -397,28 +439,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      Aprender haciendo
+      Experimentación
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      30 min
+      1.5 horas
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      4-15
+      4-20
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         5-10 años  anos 
+         5-15 años  anos 
     </div>
   </div>
 
@@ -495,9 +537,9 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
-      <span>4/5</span>
+      <span>5/5</span>
 </div>
 
 
@@ -556,9 +598,8 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">Flores con polen</span>
-        <span class="tag">Pincel o dedo</span>
-        <span class="tag">pinceles pequeños (1 por participante)</span>
+        <span class="tag">Flores</span>
+        <span class="tag">Pincel o hisopo de algodón</span>
     </div>
   </div>
 
@@ -610,12 +651,55 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Realiza la polinización tú mismo y aprende sobre el proceso.</p>
+    <p>Polinizar flores manualmente.</p>
   </div>
 </div>
 
 
     
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card timeline-preparation timeline-card">
+
+
+  <div class="timeline-column">
+    <div class="timeline-line"></div>
+
+    <div class="timeline-circle">
+      <span class="material-symbols-outlined">
+        inventory_2
+      </span>
+    </div>
+  </div>
+
+  <div class="timeline-content">
+
+    <h2>
+      Preparación
+    </h2>
+
+    <div class="markdown-content">
+      <ol>
+<li>Conseguí flores del mismo tipo pero de diferentes colores.</li>
+<li>Prepará un pincel o hisopo de algodón.</li>
+<li>Organizá el espacio de trabajo.</li>
+</ol>
+    </div>
+
+  </div>
+
+
+</div>
+
 
 
 
@@ -648,10 +732,11 @@ async function shareActivity() {
 
     <div class="markdown-content">
       <ol>
-<li>Encuentra una flor que tenga granos de polen.</li>
-<li>Usa un pincel o tu dedo para recolectar un poco de polen.</li>
-<li>Extiende el polen a otras flores.</li>
-<li>Imagina hacer esto para cientos de flores en un día.</li>
+<li>Usá el pincel o hisopo para recolectar polen de una flor.</li>
+<li>Transferí el polen a otra flor del mismo tipo pero de diferente color.</li>
+<li>Esperá y observá los resultados.</li>
+<li>Reflexioná: ¿Sabías que Mendel cruzó plantas de guisantes altas y bajas?</li>
+<li>Cronometrá cuánto te lleva hacer 20 viajes de polinización.</li>
 </ol>
     </div>
 
@@ -691,9 +776,88 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <p>¿Qué aprendiste sobre el trabajo de los polinizadores? ¿Cómo podemos ayudar a los polinizadores en nuestra comunidad?</p>
+      <ol>
+<li>Compartí tus resultados con el grupo.</li>
+<li>Reflexioná: ¿Te ayuda esto a apreciar el trabajo de los polinizadores?</li>
+<li>Pregunta final: ¿Qué aprendiste sobre la polinización al hacerlo tú mismo?</li>
+</ol>
     </div>
 
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Texto original completo de la actividad
+  </h2>
+
+  <div class="markdown-content">
+    <p><strong>English version:</strong></p><p>A.04 BEE A POLLINATOR. Follow the instructions on page 47 to perform a bit of pollination yourself. Voilà! You can now pronounce yourself an official pollinator! You can have a bit of fun with this by cross-pollinating the same type of flower but with different colours and wait and see the result. Have you heard of a famous scientist named Mendel? He crossed different kinds of pea plants – for example he crossed a tall pea plant with a short one. What do you think he ended up with? If you guessed medium, well so did Mendel – but both of you were wrong! In fact, he got tall pea plants because that was the dominant trait. Now make like Mendel and do some experimenting in your own garden! Note how long it takes you to do about 20 pollinating trips. Does it help you appreciate the hard work of pollinators?</p><p><strong>Versión en español:</strong></p><p>A.04 Sé un polinizador</p><p>Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ahora podés declararte un polinizador oficial. Podés divertirte polinizando el mismo tipo de flor pero de diferentes colores y esperar a ver el resultado. ¿Escuchaste hablar de un científico famoso llamado Mendel? Cruzó diferentes tipos de plantas de guisantes – por ejemplo, cruzó una planta alta con una baja. ¿Qué creés que obtuvo? Si adivinaste "mediana", bueno, Mendel también lo pensó – ¡pero ambos se equivocaron! De hecho, obtuvo plantas altas porque ese era el rasgo dominante. Ahora hacé como Mendel y experimentá en tu propio jardín. Tomá nota de cuánto tiempo te lleva hacer unos 20 viajes de polinización. ¿Te ayuda a apreciar el arduo trabajo de los polinizadores?</p><hr><p><strong>Citación requerida / Required citation:</strong></p><p>FAO. 2021. Pollinators Challenge Badge. YUNGA Learning and Action Series - Challenge badges, issue 12. Rome. https://doi.org/10.4060/cb4803en</p><p><strong>Traducción / Translation:</strong></p><p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p><p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p><p>NIVELES: 1, 2</p><hr>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Checklist de verificación
+  </h2>
+
+  <div class="markdown-content">
+    <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original en inglés incluido</li>
+<li>[x] Traducción al español incluida</li>
+<li>[x] Nota de traducción incluida</li>
+<li>[x] Citación requerida incluida</li>
+</ul>
   </div>
 
 
@@ -726,6 +890,9 @@ async function shareActivity() {
         <div class="branch-name">
           Castores
         </div>
+          <div class="branch-actions">
+            Acciones: 
+          </div>
       </div>
     </div>
   </a>
@@ -746,17 +913,6 @@ async function shareActivity() {
 
 
       <img
-        src="/fogata-recursos/imagenes/competencias/manada/rastro-27.png"
-        alt="Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio."
-        title="Competencia 27
-               Categoría: Ambiente
-               Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio."
-        class="rastro-icon">
-
-
-
-
-      <img
         src="/fogata-recursos/imagenes/competencias/manada/rastro-29.png"
         alt="Disfruto de descubrir la diversidad que existe en la naturaleza."
         title="Competencia 29
@@ -766,20 +922,18 @@ async function shareActivity() {
 
 
 
+
+      <img
+        src="/fogata-recursos/imagenes/competencias/manada/rastro-33.png"
+        alt="Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas."
+        title="Competencia 33
+               Categoría: Habilidades para la Vida
+               Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas."
+        class="rastro-icon">
+
+
+
 -->
-
-
-  <span
-    class="competencia-pill lobatos"
-    title="
-Rastro 27
-Sendero: Ambiente
-
-Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
-
-">
-    27
-  </span>
 
 
   <span
@@ -795,6 +949,19 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
   </span>
 
 
+  <span
+    class="competencia-pill lobatos"
+    title="
+Rastro 33
+Sendero: Habilidades para la Vida
+
+Utilizo diferentes herramientas y busco soluciones para resolver situaciones cotidianas.
+
+">
+    33
+  </span>
+
+
 
 
 
@@ -806,8 +973,95 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
 </div>
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/unidad-scout/" title="Scouts">
+  <img src="/fogata-recursos/imagenes/ramas/unidad-scout.png" alt="Scouts">
+  </a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Unidad Scout
+    </div>
+
+<div class="competencias-pills">
 
 
+  <span
+    class="competencia-pill scouts"
+    title="
+Competencia 37
+Categoria: Ambiente
+
+Exploro oportunidades junto a mis amigas y amigos para conectarme con la naturaleza, cuidándola y protegiéndola, ya sea en mi comunidad local o en lugares más lejanos.
+
+">
+    37
+  </span>
+
+
+  <span
+    class="competencia-pill scouts"
+    title="
+Competencia 41
+Categoria: Habilidades para la Vida
+
+Experimento diferentes medios y tecnologías que me ayuden a resolver problemas de la vida cotidiana.
+
+">
+    41
+  </span>
+
+
+</div>
+
+
+
+  </div>
+</div>
+
+
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/caminantes/" title="Caminantes">
+
+  <img src="/fogata-recursos/imagenes/ramas/caminantes.png"
+       alt="Caminantes">
+</a>
+  <div class="branch-content">
+
+    <div class="branch-name">
+      Caminantes
+    </div>
+
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 33
+Categoria: Ambiente
+
+Descubro y valoro la belleza y diversidad de la naturaleza disfrutando de las aventuras que puedo vivir en ella.
+  ">
+    33
+  </span>
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 37
+Categoria: Habilidades para la Vida
+
+Investigo y desarrollo distintas habilidades y tecnologías, que me permitan adquirir experiencias prácticas y útiles para mi vida.
+  ">
+    37
+  </span>
+
+
+</div>
+
+</div>
+</div>
 
 
 
@@ -835,8 +1089,8 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
             <li>Observación</li>
-            <li>Investigación</li>
-            <li>Trabajo manual</li>
+            <li>Experimentación</li>
+            <li>Paciencia</li>
         </ul>
       </div>
 
@@ -858,18 +1112,22 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
                 <span class="tag">polinizadores</span>
-                <span class="tag">polinización</span>
-                <span class="tag">polen</span>
-                <span class="tag">pincel</span>
-                <span class="tag">flor</span>
-                <span class="tag">reproducción</span>
-                <span class="tag">Insignia de Polinizadores</span>
+                <span class="tag">polinizacion-manual</span>
+                <span class="tag">experimento</span>
+                <span class="tag">ciencia</span>
+                <span class="tag">genetica</span>
+                <span class="tag">mendel</span>
         </div>
       </div>
     </aside>
@@ -884,8 +1142,8 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Responsable del grupo</p>
-<p><strong>Tiempo preparaci  n:</strong> 10 min</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 15 min</p>
       </div>
 
 
@@ -896,20 +1154,46 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
         </h3>
            <p>
              <strong>Autor:</strong>
-                Mariano S. Cosentino
+                FAO
            </p>
           <p>
             <strong>Fuente:</strong>
-               YUNGA
+               FAO - Insignia de Polinizadores
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">
+                Creative Commons BY-NC-SA 3.0 IGO
+              </a>
+            </p>
+              <img
+                 src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+                 alt="Creative Commons BY-NC-SA 3.0 IGO"
+                 class="license-image">
+          </div>
 
       </div>
 
 
 
+      <div class="info-card translation-card">
+        <h3><span class="material-symbols-outlined">translate</span> Nota sobre la traducción</h3>
+           <p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p>
+
+          <p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p>
+
+<p><strong>Versi  n original:</strong> <a href="https://doi.org/10.4060/cb4803en">Pollinators Challenge Badge</a></p>      </div>
 
 
 
+
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+             <li><a href="https://doi.org/10.4060/cb4803en"><strong>Pollinators Challenge Badge</strong> – FAO (2021)</a></li>
+        </ul>
+      </div>
 
   </div>
 
@@ -922,28 +1206,28 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
 
   <a
     class="activity-nav-card previous"
-    href="/fogata-recursos/activities/se-un-ecoturista/">
+    href="/fogata-recursos/activities/se-un-ecoturista-cambioclimatico/">
 
     <span class="nav-label">
       ← Actividad anterior
     </span>
 
     <strong>
-      Sé un Ecoturista
+      Sé un ecoturista del cambio climatico
     </strong>
 
   </a>
 
   <a
     class="activity-nav-card next"
-    href="/fogata-recursos/activities/se-voluntario-en-una-organizacion-comunitaria/">
+    href="/fogata-recursos/activities/se-una-mariposa-social/">
 
     <span class="nav-label">
       Actividad siguiente →
     </span>
 
     <strong>
-      Sé Voluntario en una Organización Comunitaria
+      Sé una mariposa social
     </strong>
 
   </a>
@@ -960,61 +1244,61 @@ Disfruto de descubrir la diversidad que existe en la naturaleza.
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/disecciona-una-flor.png');"></div>
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/dale-una-oportunidad-a-las-abejas.png');"></div>
             <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/disecciona-una-flor/">Disecciona una Flor</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/encuesta-de-polinizadores.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/encuesta-de-polinizadores/">Encuesta de Polinizadores</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/especies-locales.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/especies-locales/">Especies Locales</a>                    <div class="hero-version version-draft">
+            <h3><a href="/fogata-recursos/activities/dale-una-oportunidad-a-las-abejas/">Dale una oportunidad a las abejas</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 1-2 horas</span>
+              <span><span class="material-symbols-outlined">schedule</span> En curso</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/disecciona-una-flor.png');"></div>
+            <div class="related-category">Experimentación</div>
+            <h3><a href="/fogata-recursos/activities/disecciona-una-flor/">Diseccioná una flor</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 1 hora</span>
               <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/quien-es-un-polinizador.png');"></div>
-            <div class="related-category">Aprender jugando</div>
-            <h3><a href="/fogata-recursos/activities/quien-es-un-polinizador/">¿Quién es un Polinizador?</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/amenazas-locales.png');"></div>
+            <div class="related-category">Investigación</div>
+            <h3><a href="/fogata-recursos/activities/amenazas-locales/">Amenazas locales</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 6-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 2 horas</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/construi-un-hotel-para-abejas.png');"></div>
+            <div class="related-category">Aprender haciendo</div>
+            <h3><a href="/fogata-recursos/activities/construi-un-hotel-para-abejas/">Construí un hotel para abejas</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
+              <span><span class="material-symbols-outlined">schedule</span> 2 horas + seguimiento</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
     </div>

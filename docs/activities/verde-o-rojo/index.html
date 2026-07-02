@@ -22,7 +22,7 @@
 
   <meta
     name="description"
-    content="Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad.">
+    content="Los participantes consideran afirmaciones sobre estilo de vida saludable y sostenibilidad, y votan si están de acuerdo o en desacuerdo usando tarjetas verdes y rojas.">
 
   <meta
     name="theme-color"
@@ -72,7 +72,7 @@
 
   <meta
     property="og:description"
-    content="Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad.">
+    content="Los participantes consideran afirmaciones sobre estilo de vida saludable y sostenibilidad, y votan si están de acuerdo o en desacuerdo usando tarjetas verdes y rojas.">
 
   <meta
     property="og:url"
@@ -144,7 +144,7 @@ put this inside the body
 
   <meta
     name="twitter:description"
-    content="Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad.">
+    content="Los participantes consideran afirmaciones sobre estilo de vida saludable y sostenibilidad, y votan si están de acuerdo o en desacuerdo usando tarjetas verdes y rojas.">
 
 <meta
   name="twitter:image"
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=verde-o-rojo&amp;title=Verde%20o%20Rojo&amp;url=%2Factivities%2Fverde-o-rojo%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -320,18 +362,18 @@ async function shareActivity() {
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('/fogata-recursos/imagenes/actividades/verde-o-rojo.png');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">Juego</div>
+        <div class="hero-category">Debate / Diálogo</div>
         <h1 class="hero-title">Verde o Rojo
 <div class="hero-version version-draft">
   BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad.</p>
+        <p class="hero-description">Vota sobre hábitos sostenibles.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 6-25</span>
-  <span><span class="material-symbols-outlined">schedule</span> 15-20 min</span>
-  <span><span class="material-symbols-outlined">productivity</span> 7-14</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+  <span><span class="material-symbols-outlined">schedule</span> 15-20 minutos</span>
+  <span><span class="material-symbols-outlined">productivity</span> 7-14 años</span>
 </div>
 
         <div class="hero-tags">
@@ -397,28 +439,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      Juego
+      Debate / Diálogo
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      15-20 min
+      15-20 minutos
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      6-25
+      4-20
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         7-14  anos 
+         7-14 años  anos 
     </div>
   </div>
 
@@ -495,9 +537,9 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
-      <span>4/5</span>
+      <span>5/5</span>
 </div>
 
 
@@ -531,15 +573,15 @@ async function shareActivity() {
 <div class="metric-dots">
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
+    </span>
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-    <span class="metric-dot ">
-    </span>
-      <span>1/5</span>
+      <span>3/5</span>
 </div>
 
   </div>
@@ -556,8 +598,7 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">Tarjetas verdes y rojas</span>
-        <span class="tag">tarjetas verdes y rojas (cartulina)</span>
+        <span class="tag">1 juego de tarjetas de &quot;votación&quot; verdes y rojas por persona</span>
     </div>
   </div>
 
@@ -582,10 +623,10 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">military_tech</span> Contribuye a las Insignias</h3>
     <div class="badges-mini">
-        <a href="/fogata-recursos/badges/cfn/">
+        <a href="/fogata-recursos/badges/champions-for-nature/">
           <img 
-             src="/fogata-recursos/imagenes/insignias/cfn.png" 
-                alt="Campeones de la Naturaleza"   title="Campeones de la Naturaleza" class="badge-large-icon">
+             src="/fogata-recursos/imagenes/insignias/champions-for-nature.png" 
+                alt=""   title="" class="badge-large-icon">
        </a>
     </div>
   </div>
@@ -606,12 +647,55 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Esta actividad permite a los jóvenes considerar diversas afirmaciones y desarrollar sus propios pensamientos sobre el estilo de vida saludable y la sostenibilidad.</p>
+    <p>Vota sobre hábitos sostenibles.</p>
   </div>
 </div>
 
 
     
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card timeline-preparation timeline-card">
+
+
+  <div class="timeline-column">
+    <div class="timeline-line"></div>
+
+    <div class="timeline-circle">
+      <span class="material-symbols-outlined">
+        inventory_2
+      </span>
+    </div>
+  </div>
+
+  <div class="timeline-content">
+
+    <h2>
+      Preparación
+    </h2>
+
+    <div class="markdown-content">
+      <ol>
+<li>Prepara un juego de tarjetas verdes y rojas para cada participante.</li>
+<li>Prepara una lista de afirmaciones para leer.</li>
+<li>Organiza el espacio para la votación.</li>
+</ol>
+    </div>
+
+  </div>
+
+
+</div>
+
 
 
 
@@ -643,11 +727,11 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <ol>
-<li>Los participantes escuchan afirmaciones y muestran si están de acuerdo (VERDE) o en desacuerdo (ROJO) usando tarjetas.</li>
-<li>Los participantes discuten sus elecciones y reflexionan sobre las afirmaciones.</li>
-<li>El facilitador guía una discusión sobre las afirmaciones y cómo pueden aplicarse a la vida diaria.</li>
-</ol>
+      <h3>Parte I - Explicación</h3><p>Explica a los participantes que escucharán diferentes afirmaciones y deben mostrar si están de acuerdo o en desacuerdo utilizando dos tipos diferentes de tarjetas: Estar de acuerdo = VERDE, No estar de acuerdo = ROJO.</p><h3>Parte II - Entrega de tarjetas</h3><p>Entrega a cada participante un juego de tarjetas, una verde y otra roja. Muéstrales cómo usarán las tarjetas sosteniendo y levantando la mano con la que expresa lo que piensan acerca de la afirmación que escucharon.</p><h3>Parte III - Práctica</h3><p>Practica con un ejemplo simple antes de comenzar con las afirmaciones elegidas. Por ejemplo, "prefiero perros sobre gatos".</p><h3>Parte IV - Votación</h3><p>Comienza la actividad leyendo o mostrando las afirmaciones. Puedes usar estos ejemplos y agregar otros:</p><p>a. La compra de material reutilizable es simplemente costosa y no es necesaria.
+b. Es posible cultivar nuestras propias hierbas. ¡Es saludable y más amigable con el medio ambiente!
+c. Es imposible cambiar / reducir nuestro consumo de carne. ¡No podemos encontrar una opción alternativa de proteína!
+d. Comprar alimentos locales es mejor para nuestra salud y para el medio ambiente.
+e. ¡El concepto de un estilo de vida sostenible es el futuro!</p><h3>Parte V - Recuento y discusión</h3><p>Lleva la cuenta de los votos en un lugar visible, y una vez que termines con la lista de afirmaciones, inicia una discusión con el grupo sobre los votos y el tema.</p>
     </div>
 
   </div>
@@ -686,12 +770,110 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <ul>
-<li>Reflexiona sobre cómo las decisiones diarias pueden afectar el medio ambiente.</li>
-<li>Pregunta: ¿Qué afirmaciones te hicieron pensar más en tus hábitos de consumo?</li>
-</ul>
+      <ol>
+<li>¿Qué afirmación generó más debate?</li>
+<li>¿Cómo te sientes sobre los temas discutidos?</li>
+<li>¿Qué cambio harías en tu vida después de esta actividad?</li>
+</ol>
     </div>
 
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Texto original completo de la actividad
+  </h2>
+
+  <div class="markdown-content">
+    <p><strong>Versión en español:</strong></p><p><strong>Título:</strong> Verde o Rojo</p><p><strong>Tiempo:</strong> 15-20 minutos</p><p><strong>Grupo Etario:</strong> 7-10 / 11-14</p><p><strong>Resumen:</strong> El propósito de esta actividad es lograr que los jóvenes consideren diversas afirmaciones y desarrollen sus propios pensamientos sobre el tema del estilo de vida saludable y la sostenibilidad, identificando prácticas relacionadas con hábitos saludables y sostenibles.</p><p><strong>Recursos y Materiales:</strong> 1 juego de tarjetas de "votación" verdes y rojas por persona.</p><p><strong>Competencias clave:</strong></p><ul>
+<li>Pensamiento Sistémico</li>
+<li>Pensamiento Crítico</li>
+<li>Autoconciencia</li>
+</ul><p><strong>Desarrollo de la actividad:</strong></p><ol>
+<li>Explica a los participantes que escucharán diferentes afirmaciones y deben mostrar si están de acuerdo o en desacuerdo utilizando dos tipos diferentes de tarjetas: Estar de acuerdo = VERDE, No estar de acuerdo = ROJO</li>
+<li>Entrega a cada participante un juego de tarjetas, una verde y otra roja.</li>
+<li>Muéstrales cómo usarán las tarjetas sosteniendo y levantando la mano con la que expresa lo que piensan acerca de la afirmación que escucharon.</li>
+<li>Practica con un ejemplo simple antes de comenzar con las afirmaciones elegidas. Por ejemplo, prefiero perros sobre gatos.</li>
+<li>Comienza la actividad leyendo o mostrando las afirmaciones. Puedes usar estos ejemplos y agregar otros:
+a. La compra de material reutilizable es simplemente costosa y no es necesaria.
+b. Es posible cultivar nuestras propias hierbas. ¡Es saludable y más amigable con el medio ambiente!
+c. Es imposible cambiar / reducir nuestro consumo de carne. ¡No podemos encontrar una opción alternativa de proteína!
+d. Comprar alimentos locales es mejor para nuestra salud y para el medio ambiente.
+e. ¡El concepto de un estilo de vida sostenible es el futuro!</li>
+<li>Lleva la cuenta de los votos en un lugar visible, y una vez que termines con la lista de afirmaciones, inicia una discusión con el grupo sobre los votos y el tema.</li>
+</ol><p><strong>Información importante para los facilitadores:</strong></p><ul>
+<li>Se puede tener una discusión después de votar para conocer la perspectiva de cada participante.</li>
+<li>Quien facilite debe hacer que los participantes entiendan que deben respetar la perspectiva del otro y estar abiertos a escuchar.</li>
+<li>El facilitador puede introducir algunos de los 10 principios del diálogo para apoyar la conversación en progreso.</li>
+<li>Las discusiones que se llevan a cabo tanto antes como después de la "votación" son los aspectos educativos más importantes, así que asegúrate de dar tiempo para las discusiones, ya sea en parejas o en grupos.</li>
+<li>La votación es una forma útil de hacer que las conferencias y los paneles sean más interactivos y también para interrumpir o terminar las discusiones y debates que se alargan.</li>
+</ul><p><strong>ODS:</strong></p><ul>
+<li>ODS 12: Producción y consumo responsables</li>
+<li>ODS 13: Acción por el clima</li>
+</ul><hr><p><strong>Citación requerida / Required citation:</strong></p><p>Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.</p><hr>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Checklist de verificación
+  </h2>
+
+  <div class="markdown-content">
+    <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original completo incluido</li>
+</ul>
   </div>
 
 
@@ -717,6 +899,19 @@ async function shareActivity() {
 
 
 
+  <a href="/fogata-recursos/edades/castores/" title="Castores">
+    <div class="branch-item">
+      <img src="/fogata-recursos/imagenes/ramas/castores.png" alt="Castores">
+      <div class="branch-content">
+        <div class="branch-name">
+          Castores
+        </div>
+          <div class="branch-actions">
+            Acciones: 
+          </div>
+      </div>
+    </div>
+  </a>
 
 
 <div class="branch-item">
@@ -734,6 +929,17 @@ async function shareActivity() {
 
 
       <img
+        src="/fogata-recursos/imagenes/competencias/manada/rastro-21.png"
+        alt="Hablo con los demás sobre lo que creo y respeto lo que las otras personas creen."
+        title="Competencia 21
+               Categoría: Paz y Desarrollo
+               Hablo con los demás sobre lo que creo y respeto lo que las otras personas creen."
+        class="rastro-icon">
+
+
+
+
+      <img
         src="/fogata-recursos/imagenes/competencias/manada/rastro-24.png"
         alt="Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar."
         title="Competencia 24
@@ -743,18 +949,20 @@ async function shareActivity() {
 
 
 
-
-      <img
-        src="/fogata-recursos/imagenes/competencias/manada/rastro-25.png"
-        alt="Colaboro con otras personas en acciones de cuidado del planeta."
-        title="Competencia 25
-               Categoría: Ambiente
-               Colaboro con otras personas en acciones de cuidado del planeta."
-        class="rastro-icon">
-
-
-
 -->
+
+
+  <span
+    class="competencia-pill lobatos"
+    title="
+Rastro 21
+Sendero: Paz y Desarrollo
+
+Hablo con los demás sobre lo que creo y respeto lo que las otras personas creen.
+
+">
+    21
+  </span>
 
 
   <span
@@ -767,19 +975,6 @@ Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
 
 ">
     24
-  </span>
-
-
-  <span
-    class="competencia-pill lobatos"
-    title="
-Rastro 25
-Sendero: Ambiente
-
-Colaboro con otras personas en acciones de cuidado del planeta.
-
-">
-    25
   </span>
 
 
@@ -809,26 +1004,26 @@ Colaboro con otras personas en acciones de cuidado del planeta.
   <span
     class="competencia-pill scouts"
     title="
-Competencia 12
-Categoria: Salud y Bienestar
+Competencia 28
+Categoria: Paz y Desarrollo
 
-Trabajo en equipo y disfruto de las actividades físicas y deportivas, fomentando el desarrollo social y emocional.
+Dialogo con los demás sobre lo que creo y busco conocer lo que los otros creen, demostrando respeto e interés.
 
 ">
-    12
+    28
   </span>
 
 
   <span
     class="competencia-pill scouts"
     title="
-Competencia 13
-Categoria: Salud y Bienestar
+Competencia 31
+Categoria: Ambiente
 
-Identifico situaciones de riesgo y adopto prácticas seguras.
+Reconozco mi impacto en el ambiente y en la sociedad, adoptando un estilo de vida responsable y sostenible.
 
 ">
-    13
+    31
   </span>
 
 
@@ -840,6 +1035,49 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
 </div>
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/caminantes/" title="Caminantes">
+
+  <img src="/fogata-recursos/imagenes/ramas/caminantes.png"
+       alt="Caminantes">
+</a>
+  <div class="branch-content">
+
+    <div class="branch-name">
+      Caminantes
+    </div>
+
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 27
+Categoria: Paz y Desarrollo
+
+Dialogo con las demás personas sobre lo que creo, promoviendo el entendimiento.
+  ">
+    27
+  </span>
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 29
+Categoria: Ambiente
+
+Adopto un estilo de vida responsable y sostenible en mi consumo y producción.
+  ">
+    29
+  </span>
+
+
+</div>
+
+</div>
+</div>
 
 
 
@@ -858,7 +1096,7 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
     </h3>
 
     <ul class="method-list">
-        <li>Aprender haciendo</li>
+        <li>Aprender jugando</li>
         <li>Sistema de equipos</li>
     </ul>
    </div>
@@ -866,9 +1104,9 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
-            <li>Pensamiento sistémico</li>
             <li>Pensamiento crítico</li>
-            <li>Autoconciencia</li>
+            <li>Comunicación</li>
+            <li>Conciencia ambiental</li>
         </ul>
       </div>
 
@@ -887,18 +1125,21 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
-                <span class="tag">cfn</span>
-                <span class="tag">afirmaciones</span>
-                <span class="tag">acuerdo</span>
-                <span class="tag">desacuerdo</span>
-                <span class="tag">consumo</span>
+                <span class="tag">champions-for-nature</span>
                 <span class="tag">sostenibilidad</span>
-                <span class="tag">Champions for Nature</span>
+                <span class="tag">debate</span>
+                <span class="tag">votacion</span>
+                <span class="tag">educacion-ambiental</span>
         </div>
       </div>
     </aside>
@@ -913,8 +1154,8 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Sinodal o Dirigente a cargo</p>
-<p><strong>Tiempo preparaci  n:</strong> 5 min</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 10 min</p>
       </div>
 
 
@@ -925,12 +1166,24 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
         </h3>
            <p>
              <strong>Autor:</strong>
-                Mariano S. Cosentino
+                WWF, Organización Mundial del Movimiento Scout
            </p>
           <p>
             <strong>Fuente:</strong>
-               YUNGA
+               OMMS - Desafío Champions for Nature
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">
+                Creative Commons BY-NC-SA 3.0 IGO
+              </a>
+            </p>
+              <img
+                 src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+                 alt="Creative Commons BY-NC-SA 3.0 IGO"
+                 class="license-image">
+          </div>
 
       </div>
 
@@ -939,6 +1192,12 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
 
 
 
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+             <li><a href="https://www.scout.org"><strong>Desafío Champions for Nature - Kit de Acción</strong> – Organización Mundial del Movimiento Scout (2020)</a></li>
+        </ul>
+      </div>
 
   </div>
 
@@ -951,14 +1210,14 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
 
   <a
     class="activity-nav-card previous"
-    href="/fogata-recursos/activities/vegetacion-unica/">
+    href="/fogata-recursos/activities/vehiculos-maravillosos/">
 
     <span class="nav-label">
       ← Actividad anterior
     </span>
 
     <strong>
-      Vegetación Única
+      Vehículos maravillosos
     </strong>
 
   </a>
@@ -989,51 +1248,6 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/cuatro-esquinas.png');"></div>
-            <div class="related-category">Juego</div>
-            <h3><a href="/fogata-recursos/activities/cuatro-esquinas/">Cuatro Esquinas</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 8-30</span>
-              <span><span class="material-symbols-outlined">schedule</span> 20-30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 14-22 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png');"></div>
-            <div class="related-category">Reflexión</div>
-            <h3><a href="/fogata-recursos/activities/lista-de-verificacion-de-la-huella-ecologica/">Lista de verificación de la huella ecológica</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 10-15 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-14 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/reciclar-y-reducir.png');"></div>
-            <div class="related-category">Aprender jugando</div>
-            <h3><a href="/fogata-recursos/activities/reciclar-y-reducir/">Reciclar y reducir</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 10-15 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-14 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
               <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/tu-vida-ecologica.png');"></div>
             <div class="related-category">Reflexión</div>
             <h3><a href="/fogata-recursos/activities/tu-vida-ecologica/">Tu vida ecológica</a>                    <div class="hero-version version-draft">
@@ -1042,8 +1256,53 @@ Identifico situaciones de riesgo y adopto prácticas seguras.
  </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 10-15 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-14 años</span>
+              <span><span class="material-symbols-outlined">schedule</span> 10-15 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-17 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/cual-es-tu-posicion.png');"></div>
+            <div class="related-category">Debate / Diálogo</div>
+            <h3><a href="/fogata-recursos/activities/cual-es-tu-posicion/">¿Cuál es tu posición sobre...?</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 30-40 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 14-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/lista-verificacion-huella-ecologica.png');"></div>
+            <div class="related-category">Reflexión</div>
+            <h3><a href="/fogata-recursos/activities/lista-verificacion-huella-ecologica/">Lista de verificación de la huella ecológica</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 10-15 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-17 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/proyecto-servicio-comunitario-cfn.png');"></div>
+            <div class="related-category">Servicio a los demás</div>
+            <h3><a href="/fogata-recursos/activities/proyecto-servicio-comunitario-cfn/">Proyecto de servicio comunitario</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> Variable</span>
+              <span><span class="material-symbols-outlined">schedule</span> Variable (proyecto)</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
     </div>

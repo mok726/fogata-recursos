@@ -24,57 +24,105 @@
   <div class="navbar-center">
 
     <a href="{{ '/activities/' | url }}">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="{{ '/badges/' | url }}">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="{{ '/ods/' | url }}">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="{{ '/edades/' | url }}">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="{{ '/competencias/' | url }}">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="{{ '/valoresScout/' | url }}">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="{{ '/metodoScout/' | url }}">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="{{ '/activityType/' | url }}">
-        Tipo de Actividad
-      </a>
+        <a href="{{ '/badges/' | url }}">
+          Insignias
+        </a>
+
+        <a href="{{ '/ods/' | url }}">
+          ODS
+        </a>
+
+        <a href="{{ '/edades/' | url }}">
+          Edades
+        </a>
+
+        <a href="{{ '/competencias/' | url }}">
+          Competencias
+        </a>
+
+        <a href="{{ '/valoresScout/' | url }}">
+          Valores Scout
+        </a>
+
+        <a href="{{ '/metodoScout/' | url }}">
+          Método Scout
+        </a>
+
+        <a href="{{ '/activityType/' | url }}">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="{{ '/acerca-de/' | url }}">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="{{ '/activities/' | url }}"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+{% set feedbackTitle = title or page.title or "" %}
+
+{% set feedbackUrl =
+"/feedback/?type=" + (page.fileSlug or "") +
+"&title=" + (feedbackTitle | urlencode) +
+"&url=" + ((page.url or "") | urlencode)
+%}
+
+
+<a
+  class="navbar-icon-button"
+  href="{{ feedbackUrl | url }}"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="{{ '/activities/' | url }}">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="{{ '/acerca-de/' | url }}"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 

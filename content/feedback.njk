@@ -1,0 +1,33 @@
+---
+layout: layouts/base.njk
+title: Enviar comentarios
+permalink: /feedback/
+---
+
+<h1>
+Ayudanos a mejorar Fogata
+</h1>
+
+<p id="feedback-context">
+</p>
+
+
+
+<div id="feedback-container">
+
+    <!-- 1. The Iframe (Leave src empty "") -->
+    <iframe
+      id="google-form-iframe"
+      src=""
+      width="640"
+      height="800"
+      frameborder="0"
+      marginheight="0"
+      marginwidth="0">
+      Loading…
+    </iframe>
+
+
+</div>
+
+<script src="{{ '/js/feedback.js' | url }}"></script>

@@ -17,12 +17,12 @@
 
 
   <title>
-    Concurso Solar - Fogata de Recursos
+    Concurso solar - Fogata de Recursos
   </title>
 
   <meta
     name="description"
-    content="Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.">
+    content="Juego de preguntas sobre energía solar para aprender de forma creativa y divertida, en forma de debate o competencia entre equipos.">
 
   <meta
     name="theme-color"
@@ -68,11 +68,11 @@
 
   <meta
     property="og:title"
-    content="Concurso Solar - Fogata de Recursos">
+    content="Concurso solar - Fogata de Recursos">
 
   <meta
     property="og:description"
-    content="Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.">
+    content="Juego de preguntas sobre energía solar para aprender de forma creativa y divertida, en forma de debate o competencia entre equipos.">
 
   <meta
     property="og:url"
@@ -87,14 +87,14 @@
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 <meta property="og:image:width" content="1731" />
 <meta property="og:image:height" content="909" />
-<meta property="og:image:alt" content="Concurso Solar - Fogata de Recursos" />
+<meta property="og:image:alt" content="Concurso solar - Fogata de Recursos" />
 
 <meta
   property="og:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-card-small.png">
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="158" />
-<meta property="og:image:alt" content="Concurso Solar - Fogata de Recursos" />
+<meta property="og:image:alt" content="Concurso solar - Fogata de Recursos" />
 
 
 
@@ -140,17 +140,17 @@ put this inside the body
 
   <meta
     name="twitter:title"
-    content="Concurso Solar - Fogata de Recursos">
+    content="Concurso solar - Fogata de Recursos">
 
   <meta
     name="twitter:description"
-    content="Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.">
+    content="Juego de preguntas sobre energía solar para aprender de forma creativa y divertida, en forma de debate o competencia entre equipos.">
 
 <meta
   name="twitter:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 
-<meta name="twitter:image:alt" content="Concurso Solar - Fogata de Recursos" />
+<meta name="twitter:image:alt" content="Concurso solar - Fogata de Recursos" />
 <!-- meta name="twitter:site" content="@MCTArgentina" / -->
 <meta name="twitter:creator" content="@mok726">
 
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=concurso-solar&amp;title=Concurso%20solar&amp;url=%2Factivities%2Fconcurso-solar%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -320,18 +362,18 @@ async function shareActivity() {
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('/fogata-recursos/imagenes/actividades/concurso-solar.png');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">Aprender jugando</div>
-        <h1 class="hero-title">Concurso Solar
-<div class="hero-version version-1.0">
-  1.0
+        <div class="hero-category">Juego</div>
+        <h1 class="hero-title">Concurso solar
+<div class="hero-version version-draft">
+  BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.</p>
+        <p class="hero-description">Aprende sobre energía solar jugando.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 6-30</span>
-  <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-  <span><span class="material-symbols-outlined">productivity</span> 11-22</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+  <span><span class="material-symbols-outlined">schedule</span> Variable</span>
+  <span><span class="material-symbols-outlined">productivity</span> 11-22 años</span>
 </div>
 
         <div class="hero-tags">
@@ -350,7 +392,7 @@ async function shareActivity() {
     <nav class="breadcrumbs">
       <a href="/fogata-recursos/">Inicio</a> >
       <a href="/fogata-recursos/activities/">Actividades</a> >
-      <span>Concurso Solar</span>
+      <span>Concurso solar</span>
     </nav>
 
 <div class="activity-actions">
@@ -397,28 +439,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      Aprender jugando
+      Juego
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      30 min
+      Variable
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      6-30
+      4-20
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         11-22  anos 
+         11-22 años  anos 
     </div>
   </div>
 
@@ -453,15 +495,15 @@ async function shareActivity() {
 <div class="metric-dots">
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
-    </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+    <span class="metric-dot ">
+    </span>
+      <span>1/5</span>
 </div>
 
     <div class="metric-row">
@@ -512,13 +554,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot filled">
-    </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-     <span>3/5</span>
+    <span class="metric-dot ">
+    </span>
+     <span>2/5</span>
 
 </div>
 
@@ -531,7 +573,7 @@ async function shareActivity() {
 <div class="metric-dots">
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
@@ -539,7 +581,7 @@ async function shareActivity() {
     </span>
     <span class="metric-dot ">
     </span>
-      <span>1/5</span>
+      <span>2/5</span>
 </div>
 
   </div>
@@ -556,9 +598,7 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">Preguntas del cuestionario</span>
-        <span class="tag">lista de preguntas preparada</span>
-        <span class="tag">pizarra para puntuación</span>
+        <span class="tag">Preguntas del cuestionario (preparadas previamente)</span>
     </div>
   </div>
 
@@ -571,9 +611,6 @@ async function shareActivity() {
   <div class="sidebar-sdgs large-ods">
       <a href="/fogata-recursos/ods/4/">
         <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4" title="ODS 4" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/13/">
-        <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13" title="ODS 13" class="ods-icon-large">
       </a>
       <a href="/fogata-recursos/ods/7/">
         <img src="/fogata-recursos/imagenes/ods/ods-7.png" alt="ODS 7" title="ODS 7" class="ods-icon-large">
@@ -610,7 +647,7 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Un juego de preguntas y respuestas sobre la energía solar, ideal para aprender de manera divertida y competitiva.</p>
+    <p>Aprende sobre energía solar jugando.</p>
   </div>
 </div>
 
@@ -643,11 +680,15 @@ async function shareActivity() {
   <div class="timeline-content">
 
     <h2>
-      Preparacion
+      Preparación
     </h2>
 
     <div class="markdown-content">
-      <p>Imprimi las preguntas del archivo adjunto o crea las tuyas</p>
+      <ol>
+<li>Armen dos o más equipos.</li>
+<li>Preparen preguntas sobre energía solar.</li>
+<li>Definan las reglas del concurso.</li>
+</ol>
     </div>
 
   </div>
@@ -686,11 +727,17 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <ul>
-<li>Divide a los participantes en dos o más equipos.</li>
-<li>Realiza preguntas sobre la energía solar y otorga puntos por respuestas correctas.</li>
-<li>El equipo con más puntos al final gana.</li>
-</ul>
+      <h3>Parte I - Preparar preguntas</h3><p>Preparen preguntas sobre energía solar. Pueden ser sobre:</p><ul>
+<li>Datos básicos del Sol</li>
+<li>Cómo funciona la energía solar</li>
+<li>Usos de la energía solar</li>
+<li>Beneficios ambientales</li>
+<li>Curiosidades solares</li>
+</ul><h3>Parte II - Jugar</h3><p>Cada equipo responde las preguntas. Pueden hacerlo:</p><ul>
+<li>A modo de debate</li>
+<li>En forma de competencia</li>
+<li>Con sistema de puntos</li>
+</ul><h3>Parte III - Compartir</h3><p>Al finalizar, compartan lo que aprendieron entre todos.</p>
     </div>
 
   </div>
@@ -729,13 +776,87 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <p>Discusión:</p><ul>
-<li>¿Qué aprendieron sobre la energía solar durante el concurso?</li>
-<li>Reflexiona sobre la importancia de aprender sobre la energía solar.</li>
-<li>Pregunta: ¿Qué otras formas de energía renovable conocen?</li>
-</ul>
+      <ol>
+<li>¿Qué pregunta te pareció más interesante?</li>
+<li>¿Qué aprendiste sobre energía solar?</li>
+<li>¿Qué tema te gustaría investigar más?</li>
+</ol>
     </div>
 
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Texto original completo de la actividad
+  </h2>
+
+  <div class="markdown-content">
+    <p><strong>Versión en español (texto original del manual):</strong></p><p><strong>Concurso solar</strong></p><p>Este es un juego de preguntas, en el cual se pueden armar dos o más grupos, para que internamente se piensen las respuestas. Se puede desarrollar a modo de debate, o más bien en forma de competencia entre los equipos, la forma de aplicación es libre.</p><p><strong>Objetivos - Resultados Esperados:</strong></p><ul>
+<li>Aprender de forma creativa datos solares.</li>
+</ul><p><strong>Materiales:</strong> Preguntas del cuestionario.</p><hr><p><strong>Citación requerida / Required citation:</strong></p><p>Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.</p><hr>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Checklist de verificación
+  </h2>
+
+  <div class="markdown-content">
+    <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original completo incluido</li>
+</ul>
   </div>
 
 
@@ -780,26 +901,26 @@ async function shareActivity() {
   <span
     class="competencia-pill scouts"
     title="
-Competencia 4
-Categoria: Salud y Bienestar
+Competencia 40
+Categoria: Habilidades para la Vida
 
-Soy crítica/o con las imágenes y mensajes que los medios de comunicación y las redes sociales nos presentan sobre los modelos corporales y las modas.
+Exploro temas de mi interés con la intención de mejorar cada día.
 
 ">
-    4
+    40
   </span>
 
 
   <span
     class="competencia-pill scouts"
     title="
-Competencia 7
-Categoria: Salud y Bienestar
+Competencia 52
+Categoria: Habilidades para la Vida
 
-Reconozco e identifico las particularidades, diferencias y cambios de mi cuerpo a medida que voy creciendo.
+Desarrollo habilidades para comunicarme claramente con otros; escuchar y valorar sus ideas, trabajando juntos para lograr nuestras metas.
 
 ">
-    7
+    52
   </span>
 
 
@@ -829,24 +950,24 @@ Reconozco e identifico las particularidades, diferencias y cambios de mi cuerpo 
   <span
     class="competencia-pill caminantes"
     title="
-Competencia 3
-Categoria: Salud y Bienestar
+Competencia 36
+Categoria: Habilidades para la Vida
 
-Adopto una mirada crítica sobre las imágenes y mensajes que los medios de comunicación y las redes sociales nos muestran acerca de los cuerpos y las apariencias.
+Trabajo en mi superación personal, enfocándome en mis intereses personales.
   ">
-    3
+    36
   </span>
 
 
   <span
     class="competencia-pill caminantes"
     title="
-Competencia 4
-Categoria: Salud y Bienestar
+Competencia 48
+Categoria: Habilidades para la Vida
 
-Acepto mi cuerpo tal y como es, sin compararlo con el de las demás personas, entendiendo que es único y valioso.
+Desarrollo habilidades para comunicarme de forma efectiva y respetuosa, influyendo positivamente en mi entorno y en la sociedad en general.
   ">
-    4
+    48
   </span>
 
 
@@ -872,28 +993,28 @@ Acepto mi cuerpo tal y como es, sin compararlo con el de las demás personas, en
   <span
     class="competencia-pill rovers"
     title="
-Competencia 4
-Ruta: Corporalidad
+Competencia 11
+Ruta: Afectividad
 
-Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
+Me comunico de manera asertiva y comprensible utilizando diferentes formatos y medios con una mirada inclusiva.
 
 
 ">
-    4
+    11
   </span>
 
 
   <span
     class="competencia-pill rovers"
     title="
-Competencia 7
-Ruta: Creatividad
+Competencia 17
+Ruta: Carácter
 
-Aplico técnicas y tecnologías de la información disponibles en la vida cotidiana.
+Me responsabilizo por mi desarrollo personal, esforzándome por superarme constantemente.
 
 
 ">
-    7
+    17
   </span>
 
 
@@ -917,6 +1038,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
     </h3>
 
     <ul class="method-list">
+        <li>Aprender jugando</li>
         <li>Sistema de equipos</li>
     </ul>
    </div>
@@ -924,8 +1046,9 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
-            <li>Pensamiento crítico</li>
+            <li>Memoria</li>
             <li>Trabajo en equipo</li>
+            <li>Conciencia ambiental</li>
         </ul>
       </div>
 
@@ -937,9 +1060,6 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
       <a href="/fogata-recursos/ods/4/">
         <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4"  title="ODS 4" class="ods-icon-large">
       </a>
-      <a href="/fogata-recursos/ods/13/">
-        <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13"  title="ODS 13" class="ods-icon-large">
-      </a>
       <a href="/fogata-recursos/ods/7/">
         <img src="/fogata-recursos/imagenes/ods/ods-7.png" alt="ODS 7"  title="ODS 7" class="ods-icon-large">
       </a>
@@ -947,6 +1067,11 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
@@ -954,11 +1079,9 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
         <div class="tag-list">
                 <span class="tag">gosolar</span>
                 <span class="tag">concurso</span>
+                <span class="tag">juego</span>
                 <span class="tag">preguntas</span>
-                <span class="tag">energía solar</span>
-                <span class="tag">equipo</span>
                 <span class="tag">aprendizaje</span>
-                <span class="tag">Go Solar</span>
         </div>
       </div>
     </aside>
@@ -973,8 +1096,8 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Sinodal o Dirigente a cargo</p>
-<p><strong>Tiempo preparaci  n:</strong> 20 min</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 30 min</p>
       </div>
 
 
@@ -985,12 +1108,20 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
         </h3>
            <p>
              <strong>Autor:</strong>
-                scoutsgosolar@solafrica.ch, gosolar@scouts.org.ar, tributierra@scouts.org.ar, Mariano S. Cosentino
+                Scouts de Argentina
            </p>
           <p>
             <strong>Fuente:</strong>
-               SOLARAFRICA.CH, Tribu Tierra - Scouts de Argentina
+               Scouts de Argentina - Desafío Scouts Go Solar
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://www.scouts.org.ar">
+                Propiedad intelectual de Scouts de Argentina Asociación Civil
+              </a>
+            </p>
+          </div>
 
       </div>
 
@@ -1002,8 +1133,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
       <div class="info-card  references-card">
         <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
         <ul>
-             <li><a href="https://scouts.org.ar/biblioteca/1393/politicas-de-educacion-social/29163/politica-de-adultos-en-el-movimiento-scout-version-2021.pdf"><strong>Manual de Energia Solar - Desafio Scouts Go-Solar</strong> – Tribu Tierra (2021)</a></li>
-             <li><a href="https://scouts.org.ar/soy-joven"><strong>Mundo Mejor</strong> – Tribu Tierra </a></li>
+             <li><a href="https://www.scouts.org.ar"><strong>Desafío Scouts Go Solar - Manual de Energía Solar</strong> – Scouts de Argentina (2021)</a></li>
         </ul>
       </div>
 
@@ -1018,14 +1148,14 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
   <a
     class="activity-nav-card previous"
-    href="/fogata-recursos/activities/concurso-de-pruebas/">
+    href="/fogata-recursos/activities/concurso-por-el-clima/">
 
     <span class="nav-label">
       ← Actividad anterior
     </span>
 
     <strong>
-      Concurso de Pruebas
+      Concurso por el clima
     </strong>
 
   </a>
@@ -1056,60 +1186,60 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/reloj-de-sol.png');"></div>
-            <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/reloj-de-sol/">Reloj de Sol</a>                    <div class="hero-version version-1.0">
-                        1.0
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/brujula-solar-reloj.png');"></div>
+            <div class="related-category">Exploración</div>
+            <h3><a href="/fogata-recursos/activities/brujula-solar-reloj/">Brújula solar - Método del Reloj</a>                    <div class="hero-version version-draft">
+                        BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 45 min</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 45 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 11-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/reloj-de-sol.png');"></div>
+            <div class="related-category">Creatividad / Arte</div>
+            <h3><a href="/fogata-recursos/activities/reloj-de-sol/">Reloj de Sol</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 45 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 7-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/brujula-solar-sombra.png');"></div>
+            <div class="related-category">Exploración</div>
+            <h3><a href="/fogata-recursos/activities/brujula-solar-sombra/">Brújula solar - Método de la Sombra</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 45 minutos</span>
               <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar.png');"></div>
-            <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/horno-solar-cocina-solar/">Horno Solar - Cocina Solar</a>                    <div class="hero-version version-1.0">
-                        1.0
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/arte-solar.png');"></div>
+            <div class="related-category">Creatividad / Arte</div>
+            <h3><a href="/fogata-recursos/activities/arte-solar/">Arte Solar</a>                    <div class="hero-version version-draft">
+                        BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-12</span>
-              <span><span class="material-symbols-outlined">schedule</span> 2 h</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-22 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/una-comida-solar.png');"></div>
-            <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/una-comida-solar/">Una Comida Solar</a>                    <div class="hero-version version-1.0">
-                        1.0
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-12</span>
-              <span><span class="material-symbols-outlined">schedule</span> 1 - 2 h</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-22 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/los-colores-de-la-energia-solar.png');"></div>
-            <div class="related-category">Aprender haciendo</div>
-            <h3><a href="/fogata-recursos/activities/los-colores-de-la-energia-solar/">Los Colores de la Energía Solar</a>                    <div class="hero-version version-1.0">
-                        1.0
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 45 min</span>
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 15 minutos - 1 hora</span>
               <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>

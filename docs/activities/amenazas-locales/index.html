@@ -17,12 +17,12 @@
 
 
   <title>
-    Amenazas Locales - Fogata de Recursos
+    Amenazas locales - Fogata de Recursos
   </title>
 
   <meta
     name="description"
-    content="Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat.">
+    content="Investigación de las amenazas a los polinizadores locales y desarrollo de un plan de acción para abordar la más importante.">
 
   <meta
     name="theme-color"
@@ -68,11 +68,11 @@
 
   <meta
     property="og:title"
-    content="Amenazas Locales - Fogata de Recursos">
+    content="Amenazas locales - Fogata de Recursos">
 
   <meta
     property="og:description"
-    content="Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat.">
+    content="Investigación de las amenazas a los polinizadores locales y desarrollo de un plan de acción para abordar la más importante.">
 
   <meta
     property="og:url"
@@ -87,14 +87,14 @@
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 <meta property="og:image:width" content="1731" />
 <meta property="og:image:height" content="909" />
-<meta property="og:image:alt" content="Amenazas Locales - Fogata de Recursos" />
+<meta property="og:image:alt" content="Amenazas locales - Fogata de Recursos" />
 
 <meta
   property="og:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-card-small.png">
 <meta property="og:image:width" content="300" />
 <meta property="og:image:height" content="158" />
-<meta property="og:image:alt" content="Amenazas Locales - Fogata de Recursos" />
+<meta property="og:image:alt" content="Amenazas locales - Fogata de Recursos" />
 
 
 
@@ -140,17 +140,17 @@ put this inside the body
 
   <meta
     name="twitter:title"
-    content="Amenazas Locales - Fogata de Recursos">
+    content="Amenazas locales - Fogata de Recursos">
 
   <meta
     name="twitter:description"
-    content="Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat.">
+    content="Investigación de las amenazas a los polinizadores locales y desarrollo de un plan de acción para abordar la más importante.">
 
 <meta
   name="twitter:image"
   content="https://mok726.github.io/fogata-recursos/imagenes/social-preview.png">
 
-<meta name="twitter:image:alt" content="Amenazas Locales - Fogata de Recursos" />
+<meta name="twitter:image:alt" content="Amenazas locales - Fogata de Recursos" />
 <!-- meta name="twitter:site" content="@MCTArgentina" / -->
 <meta name="twitter:creator" content="@mok726">
 
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=amenazas-locales&amp;title=Amenazas%20locales&amp;url=%2Factivities%2Famenazas-locales%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -321,17 +363,17 @@ async function shareActivity() {
     <div class="activity-hero-container">
       <div class="hero-left">
         <div class="hero-category">Investigación</div>
-        <h1 class="hero-title">Amenazas Locales
+        <h1 class="hero-title">Amenazas locales
 <div class="hero-version version-draft">
   BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat.</p>
+        <p class="hero-description">Identificar y abordar amenazas a polinizadores locales.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-  <span><span class="material-symbols-outlined">schedule</span> 1-2 horas</span>
-  <span><span class="material-symbols-outlined">productivity</span> 5-10 años</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+  <span><span class="material-symbols-outlined">schedule</span> 2 horas</span>
+  <span><span class="material-symbols-outlined">productivity</span> 5-22 años</span>
 </div>
 
         <div class="hero-tags">
@@ -350,7 +392,7 @@ async function shareActivity() {
     <nav class="breadcrumbs">
       <a href="/fogata-recursos/">Inicio</a> >
       <a href="/fogata-recursos/activities/">Actividades</a> >
-      <span>Amenazas Locales</span>
+      <span>Amenazas locales</span>
     </nav>
 
 <div class="activity-actions">
@@ -404,28 +446,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      1-2 horas
+      2 horas
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      4-15
+      4-20
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         5-10 años  anos 
+         5-22 años  anos 
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Espacio</div>
     <div class="value">
-      Interior
+      Ambos
     </div>
   </div>
 
@@ -455,13 +497,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+      <span>3/5</span>
 </div>
 
     <div class="metric-row">
@@ -472,13 +514,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+      <span>3/5</span>
 </div>
     <hr>
 
@@ -491,13 +533,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+      <span>3/5</span>
 </div>
 
 
@@ -531,15 +573,15 @@ async function shareActivity() {
 <div class="metric-dots">
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
+    </span>
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-    <span class="metric-dot ">
-    </span>
-      <span>1/5</span>
+      <span>3/5</span>
 </div>
 
   </div>
@@ -556,9 +598,9 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">Papel y lápiz para hacer listas</span>
-        <span class="tag">Información sobre pesticidas locales (opcional)</span>
-        <span class="tag">pizarra o papelógrafo</span>
+        <span class="tag">Papel</span>
+        <span class="tag">Lápices</span>
+        <span class="tag">Acceso a internet</span>
     </div>
   </div>
 
@@ -610,12 +652,55 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Investiga las amenazas que enfrentan los polinizadores en tu área. Haz una lista de posibles factores, como el uso de pesticidas, la contaminación o la pérdida de hábitat.</p>
+    <p>Identificar y abordar amenazas a polinizadores locales.</p>
   </div>
 </div>
 
 
     
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card timeline-preparation timeline-card">
+
+
+  <div class="timeline-column">
+    <div class="timeline-line"></div>
+
+    <div class="timeline-circle">
+      <span class="material-symbols-outlined">
+        inventory_2
+      </span>
+    </div>
+  </div>
+
+  <div class="timeline-content">
+
+    <h2>
+      Preparación
+    </h2>
+
+    <div class="markdown-content">
+      <ol>
+<li>Investigá las amenazas potenciales para los polinizadores.</li>
+<li>Prepará una encuesta comunitaria.</li>
+<li>Organizá los grupos de trabajo.</li>
+</ol>
+    </div>
+
+  </div>
+
+
+</div>
+
 
 
 
@@ -648,10 +733,11 @@ async function shareActivity() {
 
     <div class="markdown-content">
       <ol>
-<li>Haz una lista de posibles amenazas para los polinizadores en tu área.</li>
-<li>Investiga qué tipos de pesticidas se usan más en tu comunidad y si son dañinos para los polinizadores.</li>
-<li>Reflexiona sobre cómo la contaminación o la construcción afectan a los polinizadores.</li>
-<li>Elige la amenaza más grande y trabaja con tu grupo para encontrar soluciones, como plantar más flores nativas o construir hoteles para abejas.</li>
+<li>Identificá las amenazas en tu área.</li>
+<li>Realizá una encuesta sobre el uso de pesticidas.</li>
+<li>Analizá los resultados.</li>
+<li>Elegí la amenaza más importante.</li>
+<li>Desarrollá un plan de acción.</li>
 </ol>
     </div>
 
@@ -691,9 +777,88 @@ async function shareActivity() {
     </h2>
 
     <div class="markdown-content">
-      <p>¿Cuál es la mayor amenaza para los polinizadores en tu área? ¿Qué acciones podemos tomar para reducir estas amenazas?</p>
+      <ol>
+<li>Compartí tu plan con el grupo.</li>
+<li>Trabajen juntos para implementarlo.</li>
+<li>Pregunta final: ¿Qué amenaza abordarás primero?</li>
+</ol>
     </div>
 
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Texto original completo de la actividad
+  </h2>
+
+  <div class="markdown-content">
+    <p><strong>English version:</strong></p><p>C.01 LOCAL THREATS. What are the threats to your local pollinators? Make a list of possible factors. Is there a lot of construction going on? Is there a lot of deforestation for farming purposes? Conduct a community survey to learn what types of pesticides are used the most in your area. Are they harmful to pollinators? What about pollution – is that a problem in your region? Get together as a group to work on the biggest threat to pollinators in your area. If it is pesticide use, how can you share information on alternative practices? If the problem is too much construction, perhaps you can help pollinators by planting more native plants elsewhere or building bee hotels. Pick a plan with your group and work on it together.</p><p><strong>Versión en español:</strong></p><p>C.01 Amenazas locales</p><p>¿Cuáles son las amenazas para los polinizadores locales? Hacé una lista de los posibles factores. ¿Hay mucha construcción? ¿Hay mucha deforestación para fines agrícolas? Hacé una encuesta comunitaria para saber qué tipos de pesticidas se usan más en tu área. ¿Son dañinos para los polinizadores? ¿Qué pasa con la contaminación? ¿Es un problema en tu región? Reunite en grupo para trabajar en la mayor amenaza para los polinizadores en tu área. Si es el uso de pesticidas, ¿cómo podés compartir información sobre prácticas alternativas? Si el problema es demasiada construcción, tal vez puedas ayudar a los polinizadores plantando más plantas nativas en otros lugares o construyendo hoteles para abejas. Elegí un plan con tu grupo y trabajen juntos.</p><hr><p><strong>Citación requerida / Required citation:</strong></p><p>FAO. 2021. Pollinators Challenge Badge. YUNGA Learning and Action Series - Challenge badges, issue 12. Rome. https://doi.org/10.4060/cb4803en</p><p><strong>Traducción / Translation:</strong></p><p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p><p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p><p>NIVELES: 1, 2, 3</p><hr>
+  </div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="content-card  ">
+
+
+  <h2>
+    <span class="material-symbols-outlined">
+      article
+    </span>
+
+    Checklist de verificación
+  </h2>
+
+  <div class="markdown-content">
+    <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original en inglés incluido</li>
+<li>[x] Traducción al español incluida</li>
+<li>[x] Nota de traducción incluida</li>
+<li>[x] Citación requerida incluida</li>
+</ul>
   </div>
 
 
@@ -726,6 +891,9 @@ async function shareActivity() {
         <div class="branch-name">
           Castores
         </div>
+          <div class="branch-actions">
+            Acciones: 
+          </div>
       </div>
     </div>
   </a>
@@ -757,11 +925,11 @@ async function shareActivity() {
 
 
       <img
-        src="/fogata-recursos/imagenes/competencias/manada/rastro-28.png"
-        alt="Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado."
-        title="Competencia 28
+        src="/fogata-recursos/imagenes/competencias/manada/rastro-27.png"
+        alt="Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio."
+        title="Competencia 27
                Categoría: Ambiente
-               Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado."
+               Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio."
         class="rastro-icon">
 
 
@@ -785,13 +953,13 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
   <span
     class="competencia-pill lobatos"
     title="
-Rastro 28
+Rastro 27
 Sendero: Ambiente
 
-Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo a su cuidado.
+Comprendo que en la naturaleza todo está relacionado y me comprometo a realizar acciones para mantenerla saludable y en equilibrio.
 
 ">
-    28
+    27
   </span>
 
 
@@ -806,11 +974,143 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
 </div>
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/unidad-scout/" title="Scouts">
+  <img src="/fogata-recursos/imagenes/ramas/unidad-scout.png" alt="Scouts">
+  </a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Unidad Scout
+    </div>
+
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill scouts"
+    title="
+Competencia 34
+Categoria: Ambiente
+
+Comprendo las causas y consecuencias del impacto ambiental y realizo acciones para preservar y proteger el ambiente.
+
+">
+    34
+  </span>
+
+
+  <span
+    class="competencia-pill scouts"
+    title="
+Competencia 35
+Categoria: Ambiente
+
+Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+
+">
+    35
+  </span>
+
+
+</div>
 
 
 
+  </div>
+</div>
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/caminantes/" title="Caminantes">
+
+  <img src="/fogata-recursos/imagenes/ramas/caminantes.png"
+       alt="Caminantes">
+</a>
+  <div class="branch-content">
+
+    <div class="branch-name">
+      Caminantes
+    </div>
+
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 30
+Categoria: Ambiente
+
+Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental y realizo acciones al respecto.
+  ">
+    30
+  </span>
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 31
+Categoria: Ambiente
+
+Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+  ">
+    31
+  </span>
+
+
+</div>
+
+</div>
+</div>
+
+
+
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/rovers/" title="Rovers">
+
+  <img src="/fogata-recursos/imagenes/ramas/rovers.png" alt="Rovers">
+</a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Rovers
+    </div>
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill rovers"
+    title="
+Competencia 31
+Ruta: Sociabilidad
+
+Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
+
+
+">
+    31
+  </span>
+
+
+  <span
+    class="competencia-pill rovers"
+    title="
+Competencia 32
+Ruta: Sociabilidad
+
+Reconozco la interdependencia entre las personas y todas las especies desarrollando el cuidado de la madre tierra.
+
+
+">
+    32
+  </span>
+
+
+</div>
+
+
+  </div>
+</div>
 
 
   </div>
@@ -827,7 +1127,7 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
 
     <ul class="method-list">
         <li>Aprender haciendo</li>
-        <li>Sistema de equipos</li>
+        <li>Participación comunitaria y Servicio</li>
     </ul>
    </div>
 
@@ -835,8 +1135,8 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
             <li>Investigación</li>
-            <li>Conciencia ambiental</li>
-            <li>Trabajo en equipo</li>
+            <li>Pensamiento crítico</li>
+            <li>Planificación</li>
         </ul>
       </div>
 
@@ -858,6 +1158,11 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
@@ -866,10 +1171,9 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
                 <span class="tag">polinizadores</span>
                 <span class="tag">amenazas</span>
                 <span class="tag">pesticidas</span>
-                <span class="tag">contaminación</span>
-                <span class="tag">pérdida de hábitat</span>
-                <span class="tag">soluciones</span>
-                <span class="tag">Insignia de Polinizadores</span>
+                <span class="tag">construccion</span>
+                <span class="tag">deforestacion</span>
+                <span class="tag">accion</span>
         </div>
       </div>
     </aside>
@@ -884,7 +1188,7 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Responsable del grupo</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
 <p><strong>Tiempo preparaci  n:</strong> 20 min</p>
       </div>
 
@@ -896,20 +1200,46 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
         </h3>
            <p>
              <strong>Autor:</strong>
-                Mariano S. Cosentino
+                FAO
            </p>
           <p>
             <strong>Fuente:</strong>
-               YUNGA
+               FAO - Insignia de Polinizadores
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">
+                Creative Commons BY-NC-SA 3.0 IGO
+              </a>
+            </p>
+              <img
+                 src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+                 alt="Creative Commons BY-NC-SA 3.0 IGO"
+                 class="license-image">
+          </div>
 
       </div>
 
 
 
+      <div class="info-card translation-card">
+        <h3><span class="material-symbols-outlined">translate</span> Nota sobre la traducción</h3>
+           <p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p>
+
+          <p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p>
+
+<p><strong>Versi  n original:</strong> <a href="https://doi.org/10.4060/cb4803en">Pollinators Challenge Badge</a></p>      </div>
 
 
 
+
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+             <li><a href="https://doi.org/10.4060/cb4803en"><strong>Pollinators Challenge Badge</strong> – FAO (2021)</a></li>
+        </ul>
+      </div>
 
   </div>
 
@@ -960,61 +1290,61 @@ Entiendo que mis acciones tienen un impacto en el Planeta Tierra y me comprometo
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/fuerzas-locales.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/fuerzas-locales/">Fuerzas Locales</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-10</span>
-              <span><span class="material-symbols-outlined">schedule</span> 1-2 horas</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/excursion-a-una-granja.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/excursion-a-una-granja/">Excursión a una Granja</a>                    <div class="hero-version version-draft">
-                        BORRADOR
-                  </div>
- </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 5-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 2-3 horas</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
-            </div>
-          </div>
-
-
-          <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/encuesta-de-polinizadores.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/encuesta-de-polinizadores/">Encuesta de Polinizadores</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/construi-un-hotel-para-abejas.png');"></div>
+            <div class="related-category">Aprender haciendo</div>
+            <h3><a href="/fogata-recursos/activities/construi-un-hotel-para-abejas/">Construí un hotel para abejas</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
+              <span><span class="material-symbols-outlined">schedule</span> 2 horas + seguimiento</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/especies-locales.png');"></div>
-            <div class="related-category">Investigación</div>
-            <h3><a href="/fogata-recursos/activities/especies-locales/">Especies Locales</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/fuerzas-locales.png');"></div>
+            <div class="related-category">Participación comunitaria</div>
+            <h3><a href="/fogata-recursos/activities/fuerzas-locales/">Fuerzas locales</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 1-2 horas</span>
-              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
+              <span><span class="material-symbols-outlined">schedule</span> 2 horas</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/excursion-de-campo-polinizadores.png');"></div>
+            <div class="related-category">Investigación</div>
+            <h3><a href="/fogata-recursos/activities/excursion-de-campo-polinizadores/">Excursión de campo</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 2 horas</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
+            </div>
+          </div>
+
+
+          <div class="related-card">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/relevamiento-de-polinizadores.png');"></div>
+            <div class="related-category">Investigación</div>
+            <h3><a href="/fogata-recursos/activities/relevamiento-de-polinizadores/">Relevamiento de polinizadores</a>                    <div class="hero-version version-draft">
+                        BORRADOR
+                  </div>
+ </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
+              <span><span class="material-symbols-outlined">schedule</span> 2 horas</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-22 años</span>
             </div>
           </div>
     </div>
