@@ -1,0 +1,56 @@
+{#
+======================================================
+
+Fogata Disclosure Component
+
+Parámetros:
+
+dtitle       (obligatorio)
+dcontent     (obligatorio)
+
+dicon        (opcional)
+dcount       (opcional)
+dtype        (info | success | warning | danger | neutral)
+open        (true/false)
+class       (css extra)
+
+======================================================
+#}
+
+<details
+    class="
+        disclosure
+        disclosure-{{ dtype or 'neutral' }}
+        {% if class %}{{ class }}{% endif %}
+    "
+    {% if open %}open{% endif %}>
+
+    <summary class="disclosure-summary">
+
+        {% if dicon %}
+        <span class="disclosure-icon">
+            <span class="material-symbols-outlined">{{ dicon }}</span>
+        </span>
+        {% endif %}
+
+        <span class="disclosure-title">
+
+            {{ dtitle }}
+
+            {% if dcount is not none %}
+            <span class="disclosure-count">
+                {{ dcount }}
+            </span>
+            {% endif %}
+
+        </span>
+
+    </summary>
+
+    <div class="disclosure-content">
+
+        {{ dcontent | safe }}
+
+    </div>
+
+</details>

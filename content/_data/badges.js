@@ -341,8 +341,248 @@ sections: {
           url: "https://www.fao.org/3/a-i3225s.pdf",
           type: "pdf",
           image: "https://www.fao.org/typo3temp/pics/44d86f886c.jpg"
-        }
-      ]
+        },
+        {
+          title: "Water Challenge Badge Resource and Activity Guide",
+          title_es: "Insignia de Agua  ^`^s Guia de Recursos y actividades adicionales",
+          url: "https://www.fao.org/3/a-ax744e.pdf",
+          type: "pdf",
+          image: "../../imagenes/varios/agua-adicionales.png"
+        },
+
+      ],
+
+
+  "sitios_web": [
+    {
+      "nombre": "Environmental Education for Kids - Water Wonders",
+      "url": "http://dnr.wi.gov/org/caer/ce/ee/k/earth/groundwater/index.htm",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "National Wildlife Federation - Kids",
+      "url": "http://www.nwf.org/en/Kids.aspx",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "Teach UNICEF - Water and Environment",
+      "url": "http://teachunicef.org/explore/topic/water-and-environment",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "USGS Water Science School",
+      "url": "http://ga.water.usgs.gov/edu/",
+      "categoria": "Ciencia"
+    },
+    {
+      "nombre": "Groundwater Foundation Kids Corner",
+      "url": "http://www.groundwater.org/kc/kc.html",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "EPA Water - Kids",
+      "url": "http://water.epa.gov/learn/kids/index.cfm",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "DC Water for Kids",
+      "url": "http://www.dcwater.com/kids/index.html",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "Eco Friendly Kids",
+      "url": "http://www.ecofriendlykids.co.uk",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "H2O Use Water Saver Home",
+      "url": "http://www.h2ouse.org/index.cfm",
+      "categoria": "Conservación"
+    },
+    {
+      "nombre": "Project Wet Worldwide Water Education",
+      "url": "http://projectwet.org",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "EPA Students - Water",
+      "url": "http://www2.epa.gov/learn-issues/water",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "Ocean Link",
+      "url": "http://oceanlink.info/index.html",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "Water Use It Wisely",
+      "url": "http://www.wateruseitwisely.com",
+      "categoria": "Conservación"
+    },
+    {
+      "nombre": "National Drought Mitigation Centre",
+      "url": "http://drought.unl.edu/DroughtforKids.aspx",
+      "categoria": "Ciencia"
+    },
+    {
+      "nombre": "National Environmental Education Week",
+      "url": "http://eeweek.org/resources/index.htm",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "Penn State Water Lesson Plans",
+      "url": "http://ecosystems.psu.edu/youth/sftrc/lesson-plans/water",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "EPA Student's Guide to Global Climate Change",
+      "url": "http://www.epa.gov/climatechange/students/index.html",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "Water Pollution Guide",
+      "url": "http://www.water-pollution.org.uk",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "Oxfam Water For All",
+      "url": "http://www.oxfam.org.uk/education/resources/water-for-all",
+      "categoria": "ONG"
+    },
+    {
+      "nombre": "Hygiene Education",
+      "url": "http://www.hygiene-edu.com/en/home.htm",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "Practical Action",
+      "url": "http://practicalaction.org",
+      "categoria": "ONG"
+    },
+    {
+      "nombre": "The Weather Channel Kids",
+      "url": "http://www.theweatherchannelkids.com",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "Water Aid Learn Zone",
+      "url": "http://www.wateraid.org/uk/learn_zone/default.asp",
+      "categoria": "ONG"
+    },
+    {
+      "nombre": "Water.org",
+      "url": "http://water.org/",
+      "categoria": "ONG"
+    },
+    {
+      "nombre": "American Museum of Natural History - Learn Teach",
+      "url": "http://www.amnh.org/learn-teach",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "EcoKids Canada",
+      "url": "http://www.ecokids.ca",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "Globio",
+      "url": "http://www.globio.org",
+      "categoria": "Educación ambiental"
+    },
+    {
+      "nombre": "UNEP TUNZA",
+      "url": "http://www.unep.org/Tunza",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "UN Cyber School Bus",
+      "url": "http://www.un.org/cyberschoolbus",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "WWF Our Earth",
+      "url": "http://wwf.panda.org/about_our_earth/",
+      "categoria": "ONG"
+    },
+    {
+      "nombre": "YUNGA",
+      "url": "https://www.yunga.org",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "Water Challenge Badge PDF",
+      "url": "https://www.fao.org/docrep/017/i3225e/i3225e.pdf",
+      "categoria": "FAO"
+    },
+    {
+      "nombre": "USGS Water Cycle for Kids",
+      "url": "http://ga.water.usgs.gov/edu/watercycle-kids.html",
+      "categoria": "Ciencia"
+    },
+    {
+      "nombre": "UN International Decade for Action 'Water for Life'",
+      "url": "https://www.un.org/waterforlifedecade/index.shtml",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "UN-Water Key Water Indicator Portal",
+      "url": "https://www.unwater.org/statistics_KWIP.html",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "Water Footprint Network - Personal Calculator",
+      "url": "https://www.waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/",
+      "categoria": "Herramienta"
+    },
+    {
+      "nombre": "Water Footprint Network - Product Gallery",
+      "url": "https://www.waterfootprint.org/en/resources/interactive-tools/product-gallery/",
+      "categoria": "Herramienta"
+    },
+    {
+      "nombre": "Ocean Acidification Network - Acid Test",
+      "url": "https://www.oceanacidification.net/go-deeper/",
+      "categoria": "Ciencia"
+    },
+    {
+      "nombre": "World Water Monitoring Day - The Water Down Under",
+      "url": "https://www.worldwatermonitoringday.org/The_Water_Down_Under.aspx",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "USGS Water Education Posters",
+      "url": "https://water.usgs.gov/outreach/OutReach.html",
+      "categoria": "Educación"
+    },
+    {
+      "nombre": "UN Millennium Development Goals",
+      "url": "https://www.un.org/millenniumgoals/",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "UN-Water Activity Information System",
+      "url": "https://www.ais.unwater.org/ais/aiscm/activity.php",
+      "categoria": "Naciones Unidas"
+    },
+    {
+      "nombre": "WAGGGS",
+      "url": "http://www.waggsworld.org",
+      "categoria": "Scouts"
+    },
+    {
+      "nombre": "WOSM - World Organization of the Scout Movement",
+      "url": "http://www.scout.org",
+      "categoria": "Scouts"
+    },
+    {
+      "nombre": "CBD - Convention on Biological Diversity",
+      "url": "http://www.cbd.int",
+      "categoria": "Naciones Unidas"
+    }
+  ]
+
+
+
     },
 
     {

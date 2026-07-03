@@ -181,84 +181,130 @@ collections.activities
 
 <div class="badge-content-container">
 
-<div class="badge-layout">
+  <div class="badge-layout">
 
 
-  <div class="badge-main">
+    <div class="badge-main">
 
 
 
 
-{% if badge.summary %}
+      {% if badge.summary %}
 
-<div class="badge-summary-block">
+        <div class="badge-summary-block">
 
-  <div class="badge-summary-icon">
-    🌱
-  </div>
+          <div class="badge-summary-icon">
+            🌱
+          </div>
 
-  <div class="badge-summary-content">
+          <div class="badge-summary-content">
 
-    <h3>
-      Sobre esta insignia
-    </h3>
+            <h3>
+              Sobre esta insignia
+            </h3>
 
-    <p>
-      {{ badge.summary }}
-    </p>
+            <p>
+              {{ badge.summary }}
+            </p>
 
-  </div>
+          </div>
 
-</div>
+        </div>
 
-{% endif %}
-<hr class="badge-intro-divider">
-     {% if badge.requirements %}
+      {% endif %}
+
+      <hr class="badge-intro-divider">
+       {% if badge.requirements %}
        <!-- section class="info-box" -->
 
-<div class="badge-requirements-header">
+          <div class="badge-requirements-header">
 
-  <div class="badge-requirements-icon">
-    🎯
-  </div>
+            <div class="badge-requirements-icon">
+              🎯
+            </div>
 
-  <h2>
-    Cómo obtener esta insignia
-  </h2>
+            <h2>
+              Cómo obtener esta insignia
+            </h2>
 
-</div>
-         {% if badge.requirements.summary %}
+          </div>
+           {% if badge.requirements.summary %}
 
-           <p>
-             {{ badge.requirements.summary }}
-           </p>
+             <p>
+               {{ badge.requirements.summary }}
+             </p>
 
-         {% endif %}
+           {% endif %}
 
-{% if badge.requirements.rules %}
+           {% if badge.requirements.rules %}
 
-<div class="badge-rules">
+              <div class="badge-rules">
 
-  {% for rule in badge.requirements.rules %}
+                {% for rule in badge.requirements.rules %}
 
-    <div class="badge-rule">
+                  <div class="badge-rule">
 
-      <div class="badge-rule-icon">
-        ✓
-      </div>
+                    <div class="badge-rule-icon">
+                    ✓
+                    </div>
 
-      <div>
-        {{ rule }}
-      </div>
+                    <div>
+                      {{ rule }}
+                    </div>
 
-    </div>
+                  </div>
 
-  {% endfor %}
+                {% endfor %}
 
-</div>
+            </div>
 
-{% endif %}
-      {% endif %}
+          {% endif %}
+        {% endif %}
+
+
+
+
+        <!-- INICIO seccion colapsable del sitios web -->
+
+         {%if badge.sitios_web.length %}
+            {% set dtitle="Sitios relacionados" %}
+            {% set dicon="🔗" %}
+            {% set dcount=badge.sitios_web.length %}
+            {% set dtype="info" %}
+
+            {% set dcontent %}
+
+              <ul>
+
+                {% for site in badge.sitios_web %}
+
+                  <li>
+
+                     <a href="{{ site.url }}" title="{{ site.descripcion }}" target="_blank">
+                      {{ site.nombre | replace("-", " ") |  lower | capitalize  }}
+                      <span class="material-symbols-outlined">open_in_new</span>
+                    </a>
+
+                  </li>
+
+               {% endfor %}
+
+              </ul>
+
+            {% endset %}
+
+            {% include "components/disclosure.njk" %}
+
+        {% endif %}
+
+        <!-- FIN seccion colapsable del sitios web -->
+
+
+
+
+
+
+
     </section>
   </div>
 
@@ -380,6 +426,33 @@ collections.activities
 <!-- Cierra badge-layout -->
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- Inicio de tarjetas -->

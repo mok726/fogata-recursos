@@ -159,7 +159,7 @@ async function shareActivity() {
     <div class="label">Rango de edad</div>
     <div class="value">
       {% if age %}
-         {{ age }}  anos 
+         {{ age }} 
       {% else %}
          {{ ( age_group | ageRange ) or "N/E" }}
       {% endif %}
@@ -355,82 +355,119 @@ async function shareActivity() {
     {# Si el filtro encuentra secciones, las mostramos cada una en su card #}
     {% for section in sections %}
 
-       {% if section.heading != "Resumen" %}
+         {% set sectionClass = "" %}
+         {% set sectionIcon = "article" %}
+         {% set isTimeline = false %}
+         {% set sectionMostrar = true %}
+         {% set sectionColapsable = false %}
 
 
-  {% set sectionClass = "" %}
-  {% set sectionIcon = "article" %}
-  {% set isTimeline = false %}
+         {% if section.heading == "Resumen" %}
+            {% set sectionClass = "timeline-summary" %}
+            {% set sectionIcon = "checklist" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+         {% if section.heading == "Preparación" or section.heading == "Preparacion" %}
+            {% set sectionClass = "timeline-preparation" %}
+            {% set sectionIcon = "inventory_2" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+         {% if section.heading == "Desarrollo" %}
+            {% set sectionClass = "timeline-development" %}
+            {% set sectionIcon = "groups" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+         {% if section.heading == "Cierre" %}
+            {% set sectionClass = "timeline-closing" %}
+            {% set sectionIcon = "psychology" %}
+            {% set isTimeline = true %}
+         {% endif %}
 
 
-  {% if section.heading == "Resumen" %}
-    {% set sectionClass = "timeline-summary" %}
-    {% set sectionIcon = "checklist" %}
-    {% set isTimeline = true %}
-  {% endif %}
+         {% if section.heading == "Texto original completo de la actividad" %}
+            {% set sectionClass = "timeline-closing" %}
+            {% set sectionMostrar = false %}
+            {% set sectionColapsable = true %}
+         {% endif %}
 
-  {% if section.heading == "Preparación" or section.heading == "Preparacion" %}
-    {% set sectionClass = "timeline-preparation" %}
-    {% set sectionIcon = "inventory_2" %}
-    {% set isTimeline = true %}
-  {% endif %}
 
-  {% if section.heading == "Desarrollo" %}
-    {% set sectionClass = "timeline-development" %}
-    {% set sectionIcon = "groups" %}
-    {% set isTimeline = true %}
-  {% endif %}
+         {% if section.heading == "Checklist de verificación" %}
+            {% set sectionClass = "timeline-closing" %}
+            {% set sectionMostrar = false %}
+            {% set sectionColapsable = true %}
+         {% endif %}
 
-  {% if section.heading == "Cierre" %}
-    {% set sectionClass = "timeline-closing" %}
-    {% set sectionIcon = "psychology" %}
-    {% set isTimeline = true %}
-  {% endif %}
+         {% if sectionMostrar %}
 
-<div class="content-card {{ sectionClass }} {% if isTimeline %}timeline-card{% endif %}">
+              {% if isTimeline %}
+                {% if sectionColapsable %}
+                    {% set dtitle=section.heading %}
+                    {% set dicon="{{ sectionIcon }}" %}
+                    {% set dtype="info" %}
+                    {% set dcontent %}
 
-{% if isTimeline %}
+                       <div class="timeline-column">
+                          <div class="timeline-line"></div>
+                          <div class="timeline-circle">
+                            <span class="material-symbols-outlined">
+                              {{ sectionIcon }}
+                            </span>
+                          </div>
+                       </div>
+                       <div class="timeline-content">
+                         <h2>
+                            {{ section.heading }}
+                         </h2>
+                         <div class="markdown-content">
+                            {{ section.content | safe }}
+                         </div>
+                       </div>
 
-  <div class="timeline-column">
-    <div class="timeline-line"></div>
+                  {% endset %}
+                  {% include "components/disclosure.njk" %}
+                {% else %}
+           <div class="content-card {{ sectionClass }} {% if isTimeline %}timeline-card{% endif %}">
 
-    <div class="timeline-circle">
-      <span class="material-symbols-outlined">
-        {{ sectionIcon }}
-      </span>
-    </div>
-  </div>
 
-  <div class="timeline-content">
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          {{ sectionIcon }}
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        {{ section.heading }}
+                     </h2>
+                     <div class="markdown-content">
+                        {{ section.content | safe }}
+                     </div>
+                   </div>
+                </div>
+                {% endif %}
+              {% else %}
+                {% set dtitle=section.heading %}
+                {% set dicon=sectionIcon %}
+                {% set dtype="info" %}
+                {% set dcontent %}
 
-    <h2>
-      {{ section.heading }}
-    </h2>
+                   <div class="markdown-content">
+                      {{ section.content | safe }}
+                   </div>
 
-    <div class="markdown-content">
-      {{ section.content | safe }}
-    </div>
+                {% endset %}
 
-  </div>
+                {% include "components/disclosure.njk" %}
 
-{% else %}
 
-  <h2>
-    <span class="material-symbols-outlined">
-      {{ sectionIcon }}
-    </span>
+              {% endif %}
 
-    {{ section.heading }}
-  </h2>
-
-  <div class="markdown-content">
-    {{ section.content | safe }}
-  </div>
-
-{% endif %}
-
-</div>
-
+           
 
         {% endif %}
 
@@ -438,8 +475,8 @@ async function shareActivity() {
   {% else %}
     {# Fallback: mostrar el contenido original sin dividir (para que no desaparezca) #}
     <div class="content-card">
-      <h2>📄 Contenido completo</h2>
-      {{ content | safe }}
+        <h2>📄 Contenido completo</h2>
+        {{ content | safe }}
     </div>
   {% endif %}
 </main>
