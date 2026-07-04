@@ -22,7 +22,7 @@
 
   <meta
     name="description"
-    content="Un minijuego que destaca los desafíos que enfrentan nuestros océanos.">
+    content="Un minijuego interactivo en línea que muestra los desafíos que enfrentan los océanos y cómo pequeños cambios en nuestra vida pueden ayudar a protegerlos.">
 
   <meta
     name="theme-color"
@@ -72,7 +72,7 @@
 
   <meta
     property="og:description"
-    content="Un minijuego que destaca los desafíos que enfrentan nuestros océanos.">
+    content="Un minijuego interactivo en línea que muestra los desafíos que enfrentan los océanos y cómo pequeños cambios en nuestra vida pueden ayudar a protegerlos.">
 
   <meta
     property="og:url"
@@ -144,7 +144,7 @@ put this inside the body
 
   <meta
     name="twitter:description"
-    content="Un minijuego que destaca los desafíos que enfrentan nuestros océanos.">
+    content="Un minijuego interactivo en línea que muestra los desafíos que enfrentan los océanos y cómo pequeños cambios en nuestra vida pueden ayudar a protegerlos.">
 
 <meta
   name="twitter:image"
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=juega-a-salvar-el-oceano&amp;title=Juega%20a%20salvar%20el%20oc%C3%A9ano&amp;url=%2Factivities%2Fjuega-a-salvar-el-oceano%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -320,18 +362,18 @@ async function shareActivity() {
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('/fogata-recursos/imagenes/actividades/juega-a-salvar-el-oceano.png');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">Aprender jugando</div>
+        <div class="hero-category">Juego</div>
         <h1 class="hero-title">Juega a salvar el océano
 <div class="hero-version version-draft">
   BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Un minijuego que destaca los desafíos que enfrentan nuestros océanos.</p>
+        <p class="hero-description">Aprende sobre la contaminación oceánica jugando un minijuego.</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-  <span><span class="material-symbols-outlined">schedule</span> 20 min</span>
-  <span><span class="material-symbols-outlined">productivity</span> 7-10</span>
+  <span><span class="material-symbols-outlined">groups</span> 4-30</span>
+  <span><span class="material-symbols-outlined">schedule</span> 20 minutos</span>
+  <span><span class="material-symbols-outlined">productivity</span> 7-10 años</span>
 </div>
 
         <div class="hero-tags">
@@ -397,28 +439,28 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      Aprender jugando
+      Juego
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      20 min
+      20 minutos
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Cantidad de participantes</div>
     <div class="value">
-      4-20
+      4-30
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         7-10  anos 
+         7-10 años 
     </div>
   </div>
 
@@ -512,13 +554,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-     <span>2/5</span>
+     <span>3/5</span>
 
 </div>
 
@@ -556,7 +598,8 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">dispositivo con internet (1 cada 2-4 participantes)</span>
+        <span class="tag">Computadora o teléfono móvil</span>
+        <span class="tag">Conexión a internet</span>
     </div>
   </div>
 
@@ -567,17 +610,14 @@ async function shareActivity() {
   <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
 
   <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/14/">
-        <img src="/fogata-recursos/imagenes/ods/ods-14.png" alt="ODS 14" title="ODS 14" class="ods-icon-large">
+      <a href="/fogata-recursos/ods/12/">
+        <img src="/fogata-recursos/imagenes/ods/ods-12.png" alt="ODS 12" title="ODS 12" class="ods-icon-large">
       </a>
       <a href="/fogata-recursos/ods/13/">
         <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13" title="ODS 13" class="ods-icon-large">
       </a>
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4" title="ODS 4" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/12/">
-        <img src="/fogata-recursos/imagenes/ods/ods-12.png" alt="ODS 12" title="ODS 12" class="ods-icon-large">
+      <a href="/fogata-recursos/ods/14/">
+        <img src="/fogata-recursos/imagenes/ods/ods-14.png" alt="ODS 14" title="ODS 14" class="ods-icon-large">
       </a>
   </div>
 
@@ -590,7 +630,7 @@ async function shareActivity() {
         <a href="/fogata-recursos/badges/ptt/">
           <img 
              src="/fogata-recursos/imagenes/insignias/ptt.png" 
-                alt="PTT"   title="PTT" class="badge-large-icon">
+                alt=""   title="" class="badge-large-icon">
        </a>
     </div>
   </div>
@@ -611,7 +651,7 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Un minijuego que destaca los desafíos que enfrentan nuestros océanos.</p>
+    <p>Aprende sobre la contaminación oceánica jugando un minijuego.</p>
   </div>
 </div>
 
@@ -628,36 +668,70 @@ async function shareActivity() {
 
 
 
-<div class="content-card timeline-development timeline-card">
+
+           <div class="content-card timeline-summary timeline-card">
 
 
-  <div class="timeline-column">
-    <div class="timeline-line"></div>
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          checklist
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Resumen
+                     </h2>
+                     <div class="markdown-content">
+                        <p>"Maneras simples de salvar el océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.</p>
+                     </div>
+                   </div>
+                </div>
 
-    <div class="timeline-circle">
-      <span class="material-symbols-outlined">
-        groups
-      </span>
-    </div>
-  </div>
+           
 
-  <div class="timeline-content">
 
-    <h2>
-      Desarrollo
-    </h2>
 
-    <div class="markdown-content">
-      <ol>
-<li>Juega al juego 'Maneras simples de salvar el océano'. 2. El facilitador guía a los participantes a través de recursos educativos adicionales.</li>
+
+
+
+
+
+
+
+
+
+
+
+           <div class="content-card timeline-preparation timeline-card">
+
+
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          inventory_2
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Preparación
+                     </h2>
+                     <div class="markdown-content">
+                        <ol>
+<li>Acceder al juego en línea: https://dumbwaystokilltheocean.com</li>
+<li>Probar que funcione en los dispositivos disponibles.</li>
+<li>Preparar los recursos educativos adicionales del sitio web.</li>
+<li>Tener listas preguntas para la discusión posterior.</li>
 </ol>
-    </div>
+                     </div>
+                   </div>
+                </div>
 
-  </div>
-
-
-</div>
-
+           
 
 
 
@@ -669,33 +743,110 @@ async function shareActivity() {
 
 
 
-<div class="content-card timeline-closing timeline-card">
 
 
-  <div class="timeline-column">
-    <div class="timeline-line"></div>
 
-    <div class="timeline-circle">
-      <span class="material-symbols-outlined">
-        psychology
-      </span>
-    </div>
-  </div>
-
-  <div class="timeline-content">
-
-    <h2>
-      Cierre
-    </h2>
-
-    <div class="markdown-content">
-      <p>Invita a tres amigos a jugar y comparte lo aprendido.</p>
-    </div>
-
-  </div>
+           <div class="content-card timeline-development timeline-card">
 
 
-</div>
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          groups
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Desarrollo
+                     </h2>
+                     <div class="markdown-content">
+                        <h3>Parte I - Jugar (15 minutos)</h3><ol>
+<li>Explicar a los participantes que van a jugar un minijuego sobre la contaminación oceánica.</li>
+<li>Cada participante o grupo (de a pares) accede al juego desde una computadora o teléfono.</li>
+<li>Jugar el juego completo y obtener el certificado al final.</li>
+</ol><h3>Parte II - Reflexión (5 minutos)</h3><ol>
+<li>Preguntar a los participantes:
+<ul>
+<li>¿Qué fue lo que más te impactó del juego?</li>
+<li>¿Qué aprendiste sobre la contaminación plástica?</li>
+<li>¿Qué pequeños cambios puedes hacer en tu vida para ayudar a los océanos?</li>
+</ul>
+</li>
+<li>Anotar las ideas principales en un pizarrón o papelógrafo.</li>
+</ol><h3>Parte III - Acción (opcional)</h3><ol>
+<li>Invitar a tres amigos a jugar también y compartir el certificado.</li>
+<li>Explorar juntos los recursos educativos adicionales del sitio web.</li>
+</ol>
+                     </div>
+                   </div>
+                </div>
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <div class="content-card timeline-closing timeline-card">
+
+
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          psychology
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Cierre
+                     </h2>
+                     <div class="markdown-content">
+                        <ol>
+<li>¿Qué aprendiste hoy sobre la contaminación de los océanos?</li>
+<li>¿Cómo te sientes después de jugar?</li>
+<li>¿Qué cambios puedes hacer en tu vida para ayudar a reducir el plástico?</li>
+</ol>
+                     </div>
+                   </div>
+                </div>
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -717,6 +868,19 @@ async function shareActivity() {
 
 
 
+  <a href="/fogata-recursos/edades/castores/" title="Castores">
+    <div class="branch-item">
+      <img src="/fogata-recursos/imagenes/ramas/castores.png" alt="Castores">
+      <div class="branch-content">
+        <div class="branch-name">
+          Castores
+        </div>
+          <div class="branch-actions">
+            Acciones: 25,28
+          </div>
+      </div>
+    </div>
+  </a>
 
 
 <div class="branch-item">
@@ -734,6 +898,17 @@ async function shareActivity() {
 
 
       <img
+        src="/fogata-recursos/imagenes/competencias/manada/rastro-24.png"
+        alt="Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar."
+        title="Competencia 24
+               Categoría: Ambiente
+               Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar."
+        class="rastro-icon">
+
+
+
+
+      <img
         src="/fogata-recursos/imagenes/competencias/manada/rastro-26.png"
         alt="Identifico algunos problemas ambientales de mi comunidad y las causas que los provocan."
         title="Competencia 26
@@ -744,6 +919,19 @@ async function shareActivity() {
 
 
 -->
+
+
+  <span
+    class="competencia-pill lobatos"
+    title="
+Rastro 24
+Sendero: Ambiente
+
+Cuido del planeta utilizando los recursos de forma responsable sin desperdiciar.
+
+">
+    24
+  </span>
 
 
   <span
@@ -791,15 +979,17 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 
     <ul class="method-list">
         <li>Aprender haciendo</li>
+        <li>Vida en la Naturaleza y Aventura</li>
     </ul>
    </div>
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
-            <li>Anticipar el futuro</li>
             <li>Pensamiento crítico</li>
-            <li>Reflexión sobre normas y valores</li>
+            <li>Empatía</li>
+            <li>Conciencia ambiental</li>
+            <li>Resolución de problemas</li>
         </ul>
       </div>
 
@@ -808,33 +998,35 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 <div class="sidebar-card">
   <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
   <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/14/">
-        <img src="/fogata-recursos/imagenes/ods/ods-14.png" alt="ODS 14"  title="ODS 14" class="ods-icon-large">
+      <a href="/fogata-recursos/ods/12/">
+        <img src="/fogata-recursos/imagenes/ods/ods-12.png" alt="ODS 12"  title="ODS 12" class="ods-icon-large">
       </a>
       <a href="/fogata-recursos/ods/13/">
         <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13"  title="ODS 13" class="ods-icon-large">
       </a>
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4"  title="ODS 4" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/12/">
-        <img src="/fogata-recursos/imagenes/ods/ods-12.png" alt="ODS 12"  title="ODS 12" class="ods-icon-large">
+      <a href="/fogata-recursos/ods/14/">
+        <img src="/fogata-recursos/imagenes/ods/ods-14.png" alt="ODS 14"  title="ODS 14" class="ods-icon-large">
       </a>
   </div>
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
                 <span class="tag">ptt</span>
+                <span class="tag">plasticos</span>
                 <span class="tag">juego</span>
-                <span class="tag">océano</span>
-                <span class="tag">plástico</span>
-                <span class="tag">digital</span>
-                <span class="tag">conciencia ambiental</span>
+                <span class="tag">oceano</span>
+                <span class="tag">mares-limpios</span>
+                <span class="tag">sensibilizacion</span>
         </div>
       </div>
     </aside>
@@ -849,8 +1041,8 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Facilitador</p>
-<p><strong>Tiempo preparaci  n:</strong> 10 min</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 5 min</p>
       </div>
 
 
@@ -861,12 +1053,24 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
         </h3>
            <p>
              <strong>Autor:</strong>
-                Mariano S. Cosentino
+                Organización Mundial del Movimiento Scout (OMMS), Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)
            </p>
           <p>
             <strong>Fuente:</strong>
-               YUNGA
+               World Scout Bureau - Tide Turners Plastic Challenge
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">
+                Creative Commons BY-NC-SA 3.0 IGO
+              </a>
+            </p>
+              <img
+                 src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+                 alt="Creative Commons BY-NC-SA 3.0 IGO"
+                 class="license-image">
+          </div>
 
       </div>
 
@@ -875,6 +1079,12 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 
 
 
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+             <li><a href="https://www.scout.org"><strong>Tide Turners Plastic Challenge - Kit de Acción</strong> – World Scout Bureau / UNEP (2020)</a></li>
+        </ul>
+      </div>
 
   </div>
 
@@ -901,14 +1111,14 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 
   <a
     class="activity-nav-card next"
-    href="/fogata-recursos/activities/juego-de-adivinanza/">
+    href="/fogata-recursos/activities/juego-a-donde-va-el-agua/">
 
     <span class="nav-label">
       Actividad siguiente →
     </span>
 
     <strong>
-      Juego de Adivinanza
+      Juego ¿A Dónde Va el Agua?
     </strong>
 
   </a>
@@ -925,61 +1135,61 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/noche-de-cine.png');"></div>
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/noche-de-cine-plastico.png');"></div>
             <div class="related-category">Sensibilización</div>
-            <h3><a href="/fogata-recursos/activities/noche-de-cine/">Noche de cine</a>                    <div class="hero-version version-draft">
+            <h3><a href="/fogata-recursos/activities/noche-de-cine-plastico/">Noche de cine</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 8-25</span>
-              <span><span class="material-symbols-outlined">schedule</span> 1 hora</span>
-              <span><span class="material-symbols-outlined">cake</span> 7-10 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-30</span>
+              <span><span class="material-symbols-outlined">schedule</span> 60 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/campana-de-carteles.png');"></div>
-            <div class="related-category">Sensibilización</div>
-            <h3><a href="/fogata-recursos/activities/campana-de-carteles/">Campaña de carteles</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/arte-de-reutilizar-plastico.png');"></div>
+            <div class="related-category">Arte</div>
+            <h3><a href="/fogata-recursos/activities/arte-de-reutilizar-plastico/">El Arte de Reutilizar</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 15-20 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-14 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-25</span>
+              <span><span class="material-symbols-outlined">schedule</span> 30-40 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/cambiando-mentes.png');"></div>
-            <div class="related-category">Servicio a los demás</div>
-            <h3><a href="/fogata-recursos/activities/cambiando-mentes/">Cambiando Mentes</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/inicio-de-los-plasticos.png');"></div>
+            <div class="related-category">Investigación</div>
+            <h3><a href="/fogata-recursos/activities/inicio-de-los-plasticos/">Inicio de los plásticos (Plásticos - Antes y ahora)</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 5-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-14 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-25</span>
+              <span><span class="material-symbols-outlined">schedule</span> 20-30 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png');"></div>
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/manualidad-mosaico-tapas.png');"></div>
             <div class="related-category">Creatividad / Arte</div>
-            <h3><a href="/fogata-recursos/activities/confeccionar-un-cartel-sobre-contaminacion-marina/">Confeccionar un cartel sobre contaminación marina</a>                    <div class="hero-version version-draft">
+            <h3><a href="/fogata-recursos/activities/manualidad-mosaico-tapas/">Manualidad de mosaico de tapas de botella</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
               <span><span class="material-symbols-outlined">groups</span> 4-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 30-40 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 14-22 años</span>
+              <span><span class="material-symbols-outlined">schedule</span> 20-30 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 5-10 años</span>
             </div>
           </div>
     </div>
@@ -1045,15 +1255,16 @@ Identifico algunos problemas ambientales de mi comunidad y las causas que los pr
 <a href="/fogata-recursos/acerca-de/">
   El proyecto
 </a>
-      <a href="/fogata-recursos/contribuir/">Cómo contribuir</a>
+      <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
       <a href="/fogata-recursos/creditos/">Créditos</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="#">Términos de uso</a>
+      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="#">Política de privacidad</a>
-    </div>
+      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
+      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
+     </div>
     <div class="footer-links-col">
       <h4>Redes</h4>
       <a href="https://github.com/mok726/fogata-recursos">GitHub</a>

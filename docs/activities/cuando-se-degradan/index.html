@@ -22,7 +22,7 @@
 
   <meta
     name="description"
-    content="Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales.">
+    content="Un experimento a largo plazo donde los jóvenes entierran diferentes materiales y observan su proceso de degradación, aprendiendo sobre biodegradabilidad y el impacto ambiental de los plásticos.">
 
   <meta
     name="theme-color"
@@ -72,7 +72,7 @@
 
   <meta
     property="og:description"
-    content="Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales.">
+    content="Un experimento a largo plazo donde los jóvenes entierran diferentes materiales y observan su proceso de degradación, aprendiendo sobre biodegradabilidad y el impacto ambiental de los plásticos.">
 
   <meta
     property="og:url"
@@ -144,7 +144,7 @@ put this inside the body
 
   <meta
     name="twitter:description"
-    content="Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales.">
+    content="Un experimento a largo plazo donde los jóvenes entierran diferentes materiales y observan su proceso de degradación, aprendiendo sobre biodegradabilidad y el impacto ambiental de los plásticos.">
 
 <meta
   name="twitter:image"
@@ -217,59 +217,101 @@ put this inside the body
   <div class="navbar-center">
 
     <a href="/fogata-recursos/activities/">
-      Actividades
+      Todas las Actividades
     </a>
 
-    <a href="/fogata-recursos/badges/">
-      Insignias
-    </a>
+    <div class="navbar-dropdown">
 
-    <a href="/fogata-recursos/ods/">
-      ODS
-    </a>
+      <button class="navbar-dropdown-button">
 
-    <a href="/fogata-recursos/edades/">
-      Edades
-    </a>
+        Explorar por
 
-    <a href="/fogata-recursos/competencias/">
-        Competencias
-      </a>
+        <span class="material-symbols-outlined">
+          expand_more
+        </span>
 
-      <a href="/fogata-recursos/valoresScout/">
-        Valores Scout
-      </a>
+      </button>
 
-      <a href="/fogata-recursos/metodoScout/">
-        Método Scout
-      </a>
+      <div class="navbar-dropdown-content">
 
-      <a href="/fogata-recursos/activityType/">
-        Tipo de Actividad
-      </a>
+        <a href="/fogata-recursos/badges/">
+          Insignias
+        </a>
+
+        <a href="/fogata-recursos/ods/">
+          ODS
+        </a>
+
+        <a href="/fogata-recursos/edades/">
+          Edades
+        </a>
+
+        <a href="/fogata-recursos/competencias/">
+          Competencias
+        </a>
+
+        <a href="/fogata-recursos/valoresScout/">
+          Valores Scout
+        </a>
+
+        <a href="/fogata-recursos/metodoScout/">
+          Método Scout
+        </a>
+
+        <a href="/fogata-recursos/activityType/">
+          Tipo de Actividad
+        </a>
+
+      </div>
+
+    </div>
 
   </div>
 
   <div class="navbar-right">
 
-<a href="/fogata-recursos/acerca-de/">
-<span class="material-symbols-outlined">
-info
-</span>  Acerca de
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/activities/"
+      title="Buscar">
+
+      <span class="material-symbols-outlined">
+        search
+      </span>
+
+    </a>
+
+
+
+
+
+
+<a
+  class="navbar-icon-button"
+  href="/fogata-recursos/feedback/?type=cuando-se-degradan&amp;title=%C2%BFCu%C3%A1ndo%20se%20degradan%3F&amp;url=%2Factivities%2Fcuando-se-degradan%2F"
+  title="Enviar comentarios">
+
+  <span class="material-symbols-outlined">
+    rate_review
+  </span>
+
 </a>
 
 
-    <a href="/fogata-recursos/activities/">
-<span class="material-symbols-outlined">
-search
-</span>
-      Buscar
-</a>
+    <a
+      class="navbar-icon-button"
+      href="/fogata-recursos/acerca-de/"
+      title="Acerca de">
+
+      <span class="material-symbols-outlined">
+        info
+      </span>
+
+    </a>
 
   </div>
 
 </nav>
-
 
 
   <main class="page-container">
@@ -320,18 +362,18 @@ async function shareActivity() {
   <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('/fogata-recursos/imagenes/actividades/cuando-se-degradan.png');">
     <div class="activity-hero-container">
       <div class="hero-left">
-        <div class="hero-category">Investigación</div>
+        <div class="hero-category">Experimentación</div>
         <h1 class="hero-title">¿Cuándo se degradan?
 <div class="hero-version version-draft">
   BORRADOR
 </div>
 </h1>
-        <p class="hero-description">Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales.</p>
+        <p class="hero-description">Descubre cuánto tardan en degradarse los plásticos.</p>
 
 <div class="hero-metrics">
   <span><span class="material-symbols-outlined">groups</span> 5-20</span>
-  <span><span class="material-symbols-outlined">schedule</span> 12 semanas</span>
-  <span><span class="material-symbols-outlined">productivity</span> 11-14</span>
+  <span><span class="material-symbols-outlined">schedule</span> 12 semanas (experimento)</span>
+  <span><span class="material-symbols-outlined">productivity</span> 11-14 años</span>
 </div>
 
         <div class="hero-tags">
@@ -397,14 +439,14 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Tipo de actividad</div>
     <div class="value">
-      Investigación
+      Experimentación
     </div>
   </div>
 
   <div class="info-item">
     <div class="label">Duración</div>
     <div class="value">
-      12 semanas
+      12 semanas (experimento)
     </div>
   </div>
 
@@ -418,7 +460,7 @@ async function shareActivity() {
   <div class="info-item">
     <div class="label">Rango de edad</div>
     <div class="value">
-         11-14  anos 
+         11-14 años 
     </div>
   </div>
 
@@ -455,13 +497,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+      <span>3/5</span>
 </div>
 
     <div class="metric-row">
@@ -474,11 +516,11 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>3/5</span>
+      <span>4/5</span>
 </div>
     <hr>
 
@@ -491,13 +533,13 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>2/5</span>
+      <span>3/5</span>
 </div>
 
 
@@ -516,9 +558,9 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
-     <span>4/5</span>
+     <span>5/5</span>
 
 </div>
 
@@ -535,11 +577,11 @@ async function shareActivity() {
     </span>
     <span class="metric-dot filled">
     </span>
-    <span class="metric-dot ">
+    <span class="metric-dot filled">
     </span>
     <span class="metric-dot ">
     </span>
-      <span>3/5</span>
+      <span>4/5</span>
 </div>
 
   </div>
@@ -556,9 +598,11 @@ async function shareActivity() {
   <div class="info-card">
     <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
     <div class="tag-list">
-        <span class="tag">frascos de vidrio</span>
-        <span class="tag">residuos variados</span>
-        <span class="tag">pala pequeña</span>
+        <span class="tag">Materiales de desecho (plástico, papel, restos de comida, vidrio, metal)</span>
+        <span class="tag">Pala pequeña</span>
+        <span class="tag">Báscula</span>
+        <span class="tag">Guantes</span>
+        <span class="tag">Libro de registro / hojas de trabajo</span>
     </div>
   </div>
 
@@ -589,7 +633,7 @@ async function shareActivity() {
         <a href="/fogata-recursos/badges/ptt/">
           <img 
              src="/fogata-recursos/imagenes/insignias/ptt.png" 
-                alt="PTT"   title="PTT" class="badge-large-icon">
+                alt=""   title="" class="badge-large-icon">
        </a>
     </div>
   </div>
@@ -610,7 +654,7 @@ async function shareActivity() {
   </h2>
 
   <div class="markdown-content">
-    <p>Actividad que ayuda a los jóvenes a comprender el proceso de degradación de diferentes materiales.</p>
+    <p>Descubre cuánto tardan en degradarse los plásticos.</p>
   </div>
 </div>
 
@@ -627,36 +671,132 @@ async function shareActivity() {
 
 
 
-<div class="content-card timeline-development timeline-card">
+
+           <div class="content-card timeline-summary timeline-card">
 
 
-  <div class="timeline-column">
-    <div class="timeline-line"></div>
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          checklist
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Resumen
+                     </h2>
+                     <div class="markdown-content">
+                        <p>Diferentes materiales en el medio ambiente tardan diferentes períodos de tiempo en degradarse. Materiales como el plástico no se biodegradan y permanecen en el ambiente durante cientos de años. Esta actividad ayuda a los jóvenes a comprender el proceso de degradación y el tiempo que tienen diferentes materiales para descomponerse, mediante un experimento a largo plazo.</p>
+                     </div>
+                   </div>
+                </div>
 
-    <div class="timeline-circle">
-      <span class="material-symbols-outlined">
-        groups
-      </span>
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details
+    class="
+        disclosure
+        disclosure-info
+    "
+>
+
+    <summary class="disclosure-summary">
+
+        <span class="disclosure-icon">
+            <span class="material-symbols-outlined">article</span>
+        </span>
+
+        <span class="disclosure-title">
+
+            Seguridad
+
+            <span class="disclosure-count">
+                
+            </span>
+
+        </span>
+
+    </summary>
+
+    <div class="disclosure-content">
+
+        
+                   <div class="markdown-content">
+                      <ul>
+<li>Usar guantes al manipular residuos.</li>
+<li>Lavarse bien las manos después de la actividad.</li>
+<li>No enterrar materiales peligrosos o tóxicos.</li>
+</ul>
+                   </div>
+
+
+
     </div>
-  </div>
 
-  <div class="timeline-content">
+</details>
 
-    <h2>
-      Desarrollo
-    </h2>
 
-    <div class="markdown-content">
-      <ol>
-<li>Los participantes entierran diferentes tipos de residuos y observan su degradación durante 12 semanas. 2. Hacen un gráfico con sus observaciones.</li>
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <div class="content-card timeline-preparation timeline-card">
+
+
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          inventory_2
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Preparación
+                     </h2>
+                     <div class="markdown-content">
+                        <ol>
+<li>Presentar el concepto de materiales biodegradables y no biodegradables.</li>
+<li>Explicar cómo se produce la degradación y mencionar los agentes de la degradación en la naturaleza.</li>
+<li>Explicar el papel de los microbios y bacterias en la descomposición.</li>
+<li>Cavar un hoyo de aproximadamente 20-25 cm de profundidad en el jardín.</li>
 </ol>
-    </div>
+                     </div>
+                   </div>
+                </div>
 
-  </div>
-
-
-</div>
-
+           
 
 
 
@@ -668,33 +808,108 @@ async function shareActivity() {
 
 
 
-<div class="content-card timeline-closing timeline-card">
 
 
-  <div class="timeline-column">
-    <div class="timeline-line"></div>
 
-    <div class="timeline-circle">
-      <span class="material-symbols-outlined">
-        psychology
-      </span>
-    </div>
-  </div>
-
-  <div class="timeline-content">
-
-    <h2>
-      Cierre
-    </h2>
-
-    <div class="markdown-content">
-      <p>Los jóvenes entienden que diferentes materiales tardan diferentes períodos en degradarse.</p>
-    </div>
-
-  </div>
+           <div class="content-card timeline-development timeline-card">
 
 
-</div>
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          groups
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Desarrollo
+                     </h2>
+                     <div class="markdown-content">
+                        <h3>Parte I - Preparación del experimento (30 minutos)</h3><ol>
+<li>Recolectar diferentes tipos de residuos: plástico, papel, restos de comida, vidrio, metal.</li>
+<li>Colocar los materiales en el hoyo.</li>
+<li>Cubrir el hoyo con tierra.</li>
+<li>Registrar qué materiales se enterraron.</li>
+</ol><h3>Parte II - Monitoreo (12 semanas)</h3><ol>
+<li>Desenterrar el hoyo después de una semana.</li>
+<li>Observar el estado de cada material y registrar los cambios.</li>
+<li>Volver a enterrar y repetir el proceso cada semana durante 12 semanas.</li>
+<li>Registrar cambios en cantidad, color, textura, olor, etc.</li>
+</ol><h3>Parte III - Análisis y reflexión (30 minutos)</h3><ol>
+<li>Hacer un gráfico con las observaciones.</li>
+<li>Identificar qué materiales se degradaron y cuáles no.</li>
+<li>Reflexionar sobre el impacto de los plásticos en el medio ambiente.</li>
+</ol>
+                     </div>
+                   </div>
+                </div>
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           <div class="content-card timeline-closing timeline-card">
+
+
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          psychology
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        Cierre
+                     </h2>
+                     <div class="markdown-content">
+                        <ol>
+<li>¿Qué materiales se degradaron más rápido? ¿Cuáles no se degradaron?</li>
+<li>¿Por qué los plásticos son un problema ambiental?</li>
+<li>¿Qué podemos hacer para reducir el impacto de los plásticos?</li>
+</ol>
+                     </div>
+                   </div>
+                </div>
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -758,6 +973,19 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
   </span>
 
 
+  <span
+    class="competencia-pill scouts"
+    title="
+Competencia 35
+Categoria: Ambiente
+
+Comprendo que todo lo que le hacemos a los seres vivos y al ambiente nos afecta recíprocamente.
+
+">
+    35
+  </span>
+
+
 </div>
 
 
@@ -766,6 +994,61 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 </div>
 
 
+<div class="branch-item">
+  <a href="/fogata-recursos/edades/caminantes/" title="Caminantes">
+
+  <img src="/fogata-recursos/imagenes/ramas/caminantes.png"
+       alt="Caminantes">
+</a>
+  <div class="branch-content">
+
+    <div class="branch-name">
+      Caminantes
+    </div>
+
+<div class="competencias-pills">
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 30
+Categoria: Ambiente
+
+Me posiciono de manera crítica y responsable sobre las decisiones con impacto ambiental y realizo acciones al respecto.
+  ">
+    30
+  </span>
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 31
+Categoria: Ambiente
+
+Soy consciente sobre la conexión e interdependencia entre todos los seres vivos, esforzándome por vivir en armonía.
+  ">
+    31
+  </span>
+
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+Competencia 37
+Categoria: Habilidades para la Vida
+
+Investigo y desarrollo distintas habilidades y tecnologías, que me permitan adquirir experiencias prácticas y útiles para mi vida.
+  ">
+    37
+  </span>
+
+
+</div>
+
+</div>
+</div>
 
 
 
@@ -784,16 +1067,18 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
     </h3>
 
     <ul class="method-list">
-        <li>Vida en la Naturaleza y Aventura</li>
         <li>Aprender haciendo</li>
+        <li>Vida en la Naturaleza y Aventura</li>
     </ul>
    </div>
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
-            <li>Pensamiento sistémico</li>
-            <li>Reflexión sobre normas y valores</li>
+            <li>Observación científica</li>
+            <li>Análisis de datos</li>
+            <li>Pensamiento crítico</li>
+            <li>Conciencia ambiental</li>
         </ul>
       </div>
 
@@ -815,17 +1100,22 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 </div>
 </div>
 
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+        </div>
+      </div>
 
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
                 <span class="tag">ptt</span>
-                <span class="tag">degradación</span>
-                <span class="tag">residuos</span>
-                <span class="tag">12 semanas</span>
+                <span class="tag">degradacion</span>
                 <span class="tag">experimento</span>
-                <span class="tag">gráfico de observación</span>
+                <span class="tag">biodegradacion</span>
+                <span class="tag">plasticos</span>
+                <span class="tag">ciencia</span>
         </div>
       </div>
     </aside>
@@ -840,8 +1130,8 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 
       <div class="info-card requirements-card">
         <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
-        <p><strong>Responsable:</strong> Facilitador</p>
-<p><strong>Tiempo preparaci  n:</strong> 30 min (más seguimiento 12 semanas)</p>
+        <p><strong>Responsable:</strong> Docente o Scouter</p>
+<p><strong>Tiempo preparaci  n:</strong> 30 min</p>
       </div>
 
 
@@ -852,12 +1142,24 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
         </h3>
            <p>
              <strong>Autor:</strong>
-                Mariano S. Cosentino
+                Organización Mundial del Movimiento Scout (OMMS), Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)
            </p>
           <p>
             <strong>Fuente:</strong>
-               YUNGA
+               World Scout Bureau - Tide Turners Plastic Challenge
           </p>
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">
+                Creative Commons BY-NC-SA 3.0 IGO
+              </a>
+            </p>
+              <img
+                 src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+                 alt="Creative Commons BY-NC-SA 3.0 IGO"
+                 class="license-image">
+          </div>
 
       </div>
 
@@ -866,6 +1168,12 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 
 
 
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+             <li><a href="https://www.scout.org"><strong>Tide Turners Plastic Challenge - Kit de Acción</strong> – World Scout Bureau / UNEP (2020)</a></li>
+        </ul>
+      </div>
 
   </div>
 
@@ -878,7 +1186,7 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 
   <a
     class="activity-nav-card previous"
-    href="/fogata-recursos/activities/cual-es-tu-posicion-sobre/">
+    href="/fogata-recursos/activities/cual-es-tu-posicion/">
 
     <span class="nav-label">
       ← Actividad anterior
@@ -892,14 +1200,14 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 
   <a
     class="activity-nav-card next"
-    href="/fogata-recursos/activities/de-donde-viene-tu-comida/">
+    href="/fogata-recursos/activities/cuanta-agua-hay-en-tu-cuerpo/">
 
     <span class="nav-label">
       Actividad siguiente →
     </span>
 
     <strong>
-      ¿De Dónde Viene tu Comida?
+      ¿Cuánta agua hay en tu cuerpo?
     </strong>
 
   </a>
@@ -923,24 +1231,24 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 4-15</span>
-              <span><span class="material-symbols-outlined">schedule</span> 20-30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-14 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-25</span>
+              <span><span class="material-symbols-outlined">schedule</span> 20-30 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 11-17 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
               <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/separar-desde-el-comienzo.png');"></div>
-            <div class="related-category">Aprender jugando</div>
+            <div class="related-category">Aprender haciendo</div>
             <h3><a href="/fogata-recursos/activities/separar-desde-el-comienzo/">Separar desde el comienzo</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 6-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 20-30 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-14 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-25</span>
+              <span><span class="material-symbols-outlined">schedule</span> 20-30 minutos</span>
+              <span><span class="material-symbols-outlined">cake</span> 11-17 años</span>
             </div>
           </div>
 
@@ -953,24 +1261,24 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 6-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 3 días</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-25</span>
+              <span><span class="material-symbols-outlined">schedule</span> Flexible (1-2 horas)</span>
               <span><span class="material-symbols-outlined">cake</span> 14-22 años</span>
             </div>
           </div>
 
 
           <div class="related-card">
-              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/identificando-alternativas-a-los-plasticos.png');"></div>
-            <div class="related-category">Reflexión</div>
-            <h3><a href="/fogata-recursos/activities/identificando-alternativas-a-los-plasticos/">Identificando alternativas a los plásticos</a>                    <div class="hero-version version-draft">
+              <div class="related-img" style="background-image: url('/fogata-recursos/imagenes/actividades/operacion-contra-la-basura.png');"></div>
+            <div class="related-category">Investigación</div>
+            <h3><a href="/fogata-recursos/activities/operacion-contra-la-basura/">Operación contra la basura</a>                    <div class="hero-version version-draft">
                         BORRADOR
                   </div>
  </h3>
             <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> 6-20</span>
-              <span><span class="material-symbols-outlined">schedule</span> 15-20 min</span>
-              <span><span class="material-symbols-outlined">cake</span> 11-14 años</span>
+              <span><span class="material-symbols-outlined">groups</span> 5-25</span>
+              <span><span class="material-symbols-outlined">schedule</span> 3 días (encuesta) + 40 minutos (discusión)</span>
+              <span><span class="material-symbols-outlined">cake</span> 14-22 años</span>
             </div>
           </div>
     </div>
@@ -1036,15 +1344,16 @@ Comprendo las causas y consecuencias del impacto ambiental y realizo acciones pa
 <a href="/fogata-recursos/acerca-de/">
   El proyecto
 </a>
-      <a href="/fogata-recursos/contribuir/">Cómo contribuir</a>
+      <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
       <a href="/fogata-recursos/creditos/">Créditos</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="#">Términos de uso</a>
+      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="#">Política de privacidad</a>
-    </div>
+      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
+      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
+     </div>
     <div class="footer-links-col">
       <h4>Redes</h4>
       <a href="https://github.com/mok726/fogata-recursos">GitHub</a>
