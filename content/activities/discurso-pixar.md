@@ -47,7 +47,7 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - champions-for-nature
+  - cfn
 activity_code: "cfn-B10"
 required: false
 required_for: []
@@ -56,7 +56,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - champions-for-nature
+  - cfn
   - storytelling
   - abogacia
   - biodiversidad

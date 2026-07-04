@@ -49,8 +49,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P09"
+  - plastics
+activity_code: "plastics-P09"
 required: false
 required_for: []
 required_comment: ""
@@ -58,7 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - alternativas
   - plasticos
   - consumo-responsable

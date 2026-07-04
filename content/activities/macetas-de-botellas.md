@@ -51,8 +51,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P12"
+  - plastics
+activity_code: "plastics-P12"
 required: false
 required_for: []
 required_comment: ""
@@ -60,7 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - reutilizacion
   - macetas
   - botellas

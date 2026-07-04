@@ -46,8 +46,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P06"
+  - plastics
+activity_code: "plastics-P06"
 required: false
 required_for: []
 required_comment: ""
@@ -55,7 +55,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - resolucion
   - compromiso
   - plasticos

@@ -53,8 +53,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P07"
+  - plastics
+activity_code: "plastics-P07"
 required: false
 required_for: []
 required_comment: ""
@@ -62,7 +62,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - arte
   - reutilizacion
   - manualidades

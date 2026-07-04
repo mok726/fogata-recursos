@@ -53,7 +53,7 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - champions-for-nature
+  - cfn
 activity_code: "cfn-C01"
 required: false
 required_for: []
@@ -62,7 +62,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - champions-for-nature
+  - cfn
   - proyecto-comunitario
   - servicio
   - accion

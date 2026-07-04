@@ -51,8 +51,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P04"
+  - plastics
+activity_code: "plastics-P04"
 required: false
 required_for: []
 required_comment: ""
@@ -60,7 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - reciclaje
   - reutilizacion
   - manualidades

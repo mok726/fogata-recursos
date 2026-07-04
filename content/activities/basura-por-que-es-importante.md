@@ -1,3 +1,4 @@
+
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Basura... ¿por qué es importante?"
@@ -51,8 +52,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P18"
+  - plastics
+activity_code: "plastics-P18"
 required: false
 required_for: []
 required_comment: ""
@@ -60,7 +61,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - basura
   - observacion
   - impacto-ambiental

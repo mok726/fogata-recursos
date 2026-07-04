@@ -46,17 +46,17 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P01"
+  - plastics
+activity_code: "plastics-P01"
 required: true
 required_for:
-  - ptt
+  - plastics
 required_comment: "Actividad obligatoria para todos los grupos etarios"
 required_category: "Ser consciente"
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - plastico
   - reciclaje
   - 3r

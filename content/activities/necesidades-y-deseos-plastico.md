@@ -1,3 +1,4 @@
+
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Necesidades y deseos"
@@ -48,8 +49,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P10"
+  - plastics
+activity_code: "plastics-P10"
 required: false
 required_for: []
 required_comment: ""
@@ -57,7 +58,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - consumo
   - necesidades
   - deseos

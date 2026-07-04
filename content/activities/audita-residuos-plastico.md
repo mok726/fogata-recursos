@@ -50,8 +50,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P17"
+  - plastics
+activity_code: "plastics-P17"
 required: false
 required_for: []
 required_comment: ""
@@ -59,7 +59,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - auditoria
   - plasticos
   - residuos

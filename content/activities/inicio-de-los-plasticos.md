@@ -51,8 +51,8 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
-  - ptt
-activity_code: "ptt-P05"
+  - plastics
+activity_code: "plastics-P05"
 required: false
 required_for: []
 required_comment: ""
@@ -60,7 +60,7 @@ required_category: ""
 
 # ========== ETIQUETAS GENERALES ==========
 tags:
-  - ptt
+  - plastics
   - plasticos
   - historia
   - generaciones
