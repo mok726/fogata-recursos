@@ -1,4 +1,3 @@
-
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Basura... ¿por qué es importante?"
