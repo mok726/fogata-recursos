@@ -215,7 +215,7 @@ sections: {
 
     {
       id: "plastics",
-      name: "PTT",
+      name: "Plastic Tide Turners",
       description:
         "Plastic Tide Turners Challenge.",
       summary:
@@ -261,6 +261,11 @@ sections: {
   C: {
     title: "Toma Acción",
     description: "Realiza la A.1, la A.2 o la A.3, y (al menos) otra actividad de su elección.<br>Tras completar las actividades de 'Toma acción', usted podrá: <br>* Tomar medidas concretas para reducir el uso de plásticos de un solo uso en su vida diaria y en su comunidad. <br>* Sensibilizar sobre los peligros de la contaminación por plásticos."
+
+  },
+  P: {
+    title: "Desafío Scout Tide Turners Plastic",
+    description: "diseñado para todos los jóvenes, a partir de los 7 años, para educarlos sobre la contaminación por plástico y animarlos a que desempeñen un rol en la resolución de problemas ambientales, en especial aquellos relacionados con los plásticos, los residuos de plástico y la contaminación por plástico"
 
   }
 },
