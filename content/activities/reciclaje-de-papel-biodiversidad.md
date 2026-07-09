@@ -25,6 +25,7 @@ version: "DRAFT"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
+
 age: "5-22 años"
 age_group:
   - castores
@@ -58,6 +59,12 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - biodiversidad
+  - cambioclimatico
+  - sacc
+activity_alias:
+  - biodiversidad-C21
+  - cambioclimatico-E08
+  - sacc-A24
 activity_code: "biodiversidad-C21"
 required: false
 required_for: []

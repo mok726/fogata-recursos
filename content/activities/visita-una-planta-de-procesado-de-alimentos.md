@@ -44,7 +44,11 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
+  - hambre
   - nutricion
+activity_alias:
+  - hambre-B01
+  - nutricion-B17
 activity_code: "nutricion-B17"
 required: false
 required_for: []

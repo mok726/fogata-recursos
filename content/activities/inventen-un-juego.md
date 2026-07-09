@@ -44,6 +44,10 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - nutricion
+  - sacc
+activity_alias:
+  - nutricion-B05
+  - sacc-C16
 activity_code: "nutricion-B05"
 required: false
 required_for: []

@@ -621,28 +621,23 @@ sections: {
 },
 sections: {
   A: {
-    title: "Sección A",
-    description: ""
+    title: "El sol es vida",
+    description: "Introducción sobre qué es el sol, la Energía solar y cómo se relacionan con nuestras vidas"
 
   },
   B: {
-    title: "Sección B",
-    description: ""
+    title: "Efectos Negativos del Sol",
+    description: "Nos alerta acerca de los posibles riesgos del Sol y cómo lidiar con ellos."
 
   },
   C: {
-    title: "Sección C",
-    description: ""
+    title: "Usos de la energía Solar",
+    description: "Nos cuenta acerca de las tecnologías usadas para aprovechar la energía del Sol."
 
   },
   D: {
-    title: "Sección D",
-    description: ""
-
-  },
-  E: {
-    title: "TOMA ACCIÓN",
-    description: ""
+    title: "¡Solarizate!",
+    description: "Nos otorga los medios para que podamos implementar la energía solar y ser ejemplo para otros, así como las posibilidades para que comunidades enteras puedan “solarizarse”."
 
   }
 },
@@ -660,7 +655,24 @@ sections: {
           url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28888/Manual-de-Energia-Solar-Desafio-Scouts-Go-Solar.pdf",
           type: "pdf",
           image: "/imagenes/varios/Manual-de-Energia-Solar-Desafio-Scouts-Go-Solar.png"
+        },
+        {
+          title: "Manual-del-Programa-Scouts-Go-Solar",
+          title_es: "Manual del programa Scouts Go Solar - Scouts españa",
+          url: "https://biblioteca.scout.es/wp-content/uploads/tainacan-items/110/15365/manual-go-solar_2021_cmp.pdf",
+          type: "pdf",
+          image: "https://biblioteca.scout.es/wp-content/uploads/2025/02/Captura-de-Pantalla-2025-02-11-a-las-11.27.34-275x275.png"
+        },
+        {
+          title: "Cuaderno-de-Trabajo-SolarAfrica-v2",
+          title_es: "Cuaderno de Trabajo de SolarAfrica v2",
+          url: "https://solafrica.ch/wp-content/uploads/2025/11/Cuaderno-de-Trabajo-Version-2.pdf",
+          type: "pdf"
         }
+
+
+
+
       ]
     },
 
@@ -716,9 +728,15 @@ sections: {
   }
 },
       documents: [
-      ]
+        {
+          title: "Scouts-Go-Solar-Tribu-Tierra",
+          title_es: "Desaf  io Scouts Go-Solar Tribu Tierra",
+          url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf",
+          type: "pdf",
+          image: "/imagenes/varios/Scouts-Go-Solar-Tribu-Tierra.jpg"
+        },
+       ]
     },
-
 
 
 

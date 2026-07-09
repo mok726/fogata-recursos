@@ -42,8 +42,15 @@ sdgs:
   - 12  # Producción y consumo responsables
 
 # ========== INSIGNIAS / CÓDIGO ==========
+
 activity_badges:
+  - cambioclimatico
   - nutricion
+  - ciudadesverdes
+activity_alias:
+  - cambioclimatico-E12
+  - nutricion-D02
+  - ciudadesverdes-B02
 activity_code: "nutricion-D02"
 required: true
 required_for:

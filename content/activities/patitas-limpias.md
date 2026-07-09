@@ -15,11 +15,12 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-original: true
+# image: "/imagenes/actividades/patitas-limpias.png"
+original: "true"
 
 # ========== CLASIFICACIÓN ==========
 branch:
-  - Comunidad
+  # - Comunidad
 age: "7-10"
 age_group:  
   - manada

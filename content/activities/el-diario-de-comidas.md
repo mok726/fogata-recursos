@@ -46,6 +46,11 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - nutricion
+  - biodiversidad
+activity_alias:
+  - nutricion-B02
+  - biodiversidad-C06
+
 activity_code: "nutricion-B02"
 required: true
 required_for:

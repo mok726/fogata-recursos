@@ -54,7 +54,13 @@ sdgs:
 
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
+  - biodiversidad
   - cambioclimatico
+  - sacc
+activity_alias:
+  - biodiversidad-C21
+  - cambioclimatico-E08
+  - sacc-A24
 activity_code: "cambioclimatico-E08"
 required: false
 required_for: []

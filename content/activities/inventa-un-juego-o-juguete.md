@@ -40,6 +40,10 @@ sdgs:
 
 activity_badges:
   - sacc
+  - nutricion
+activity_alias:
+  - nutricion-B05
+  - sacc-C16
 activity_code: "sacc-C16"
 required: false
 required_for: []

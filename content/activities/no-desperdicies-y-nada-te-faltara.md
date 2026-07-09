@@ -53,6 +53,12 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - cambioclimatico
+  - nutricion
+  - ciudadesverdes
+activity_alias:
+  - cambioclimatico-E12
+  - nutricion-D02
+  - ciudadesverdes-B02
 activity_code: "cambioclimatico-E12"
 required: false
 required_for: []
