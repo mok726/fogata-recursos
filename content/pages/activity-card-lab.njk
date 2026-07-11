@@ -1,0 +1,63 @@
+---
+title: Activity Card Lab
+layout: layouts/base.njk
+permalink: /lab/cards/
+---
+
+<h1>Activity Card V2</h1>
+
+
+<p>Total actividades: {{ collections.activities | length }}</p>
+
+
+
+
+
+<div class="grid">
+
+
+{% for activity in collections.activitiesSorted %}
+    {% if loop.index <= 10 %}
+
+    {% endif %}
+
+{% endfor %}
+
+
+{% for activity in collections.activities  %}
+    {% if loop.index <= 300 %}
+
+
+    {% set item = activity.data %}
+    {% set activityUrl = activity.url %}
+    {% set layout="full" %}
+
+    {% include "components/activity-card-v2.njk" %}
+
+  {% endif %}
+
+{% endfor %}
+
+</div>
+
+<hr>
+
+<div class="grid">
+
+{% for activity in collections.activities %}
+    {% if loop.index <= 300 %}
+
+    {% set item = activity.data %}
+    {% set activityUrl = activity.url %}
+    {% set layout="compact" %}
+
+    {% include "components/activity-card-v2.njk" %}
+
+  {% endif %}
+
+{% endfor %}
+
+</div>
+
+
+

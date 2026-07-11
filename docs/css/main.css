@@ -10,6 +10,7 @@
 
 /* seguimos con la lista comun de m  dulos */
 @import "./components/cards.css";
+@import "./components/cards-v2.css";
 @import "./pages/activity.css";
 @import "./pages/home.css";
 @import "./components/search.css";
