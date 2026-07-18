@@ -199,10 +199,26 @@ put this inside the body
 
 
   <!-- CSS -->
+<link rel="stylesheet" href="{{ '/css/main.css' | url }}">
 
-  <link
-    rel="stylesheet"
-    href="{{ '/css/main.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/base.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/footer.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/navbar.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/layout.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/components/chips.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/components/icons.css' | url }}">
+<link rel="stylesheet" href="{{ '/css/components/badges.css' | url }}">
+
+
+
+{% if styles %}
+  {% for css in styles %}
+<link rel="stylesheet" href="{{ css | url }}">
+  {% endfor %}
+{% endif %}
+
+
+
 
 </head>
 

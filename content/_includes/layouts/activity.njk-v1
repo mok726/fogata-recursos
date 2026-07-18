@@ -1,0 +1,1003 @@
+---
+layout: layouts/base.njk
+---
+<script>
+
+async function shareActivity() {
+
+  const url = window.location.href;
+
+
+  try {
+
+    if (navigator.share) {
+
+      await navigator.share({
+        title: document.title,
+        url
+      });
+
+      return;
+    }
+
+    if (navigator.clipboard) {
+
+      await navigator.clipboard.writeText(url);
+
+      alert("Enlace copiado al portapapeles");
+
+      return;
+    }
+
+    prompt("Copiá este enlace:", url);
+
+  } catch(err) {
+
+    console.error(err);
+
+  }
+}
+
+</script>
+
+
+<article class="activity-page">
+
+  {# ===== HERO CON IMAGEN DE FONDO ===== #}
+  {% set heroImage = image or '/imagenes/actividades/activity-card.png' %}
+  <div class="activity-hero" style="background-image: linear-gradient(90deg, rgba(0,0,0,0.7), rgba(0,0,0,0.2)), url('{{ heroImage | url }}');">
+    <div class="activity-hero-container">
+      <div class="hero-left">
+        <div class="hero-category">{{ main_type or ((etiquetas or []) | first) or "Actividad" }}</div>
+        <h1 class="hero-title">{{ title | replace("!", "") }}
+{% if version %}
+<div class="hero-version version-{{ version | lower }}">
+{% if version == "DRAFT" %}
+  BORRADOR
+{% else %}
+  {{ version }}
+{% endif %}
+</div>
+{% endif %}
+</h1>
+        <p class="hero-description">{{ summary or description }}</p>
+
+<div class="hero-metrics">
+  <span><span class="material-symbols-outlined">groups</span> {{ participants or "N/E" }}</span>
+  <span><span class="material-symbols-outlined">schedule</span> {{ duration or "N/E" }}</span>
+  <span><span class="material-symbols-outlined">productivity</span> {{ age or "Todas" }}</span>
+</div>
+
+        <div class="hero-tags">
+          {% if etiquetas %}
+            {% for tag in etiquetas %}
+              {% set colorClass = ["green", "orange", "blue", "purple"][loop.index0 % 4] %}
+              <span class="hero-tag {{ colorClass }}">{{ tag }}</span>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  {# Contenido central (90% ancho, centrado) #}
+  <div class="activity-content-wrapper">
+
+
+  {# ===== BREADCRUMB + ACCIONES ===== #}
+  <div class="activity-toolbar">
+    <nav class="breadcrumbs">
+      <a href="{{ '/' | url }}">Inicio</a> >
+      <a href="{{ '/activities/' | url }}">Actividades</a> >
+      <span>{{ title }}</span>
+    </nav>
+
+<div class="activity-actions">
+<a
+  href="{{ page.url | url }}print/"
+  target="_blank">
+  Version Imprimible
+</a>
+
+
+ <button onclick="shareActivity()">
+    <span class="material-symbols-outlined">share</span> Compartir
+  </button>
+</div>
+</div>
+  {# ===== LAYOUT DE TRES COLUMNAS ===== #}
+
+
+
+  <div class="three-columns">
+
+    {# COLUMNA IZQUIERDA #}
+
+<aside class="col-left">
+  {# 1. INFORMACIÓN RÁPIDA #}
+
+
+
+{# ===== INFORMACI ^sN R ^aPIDA (bloque completo) ===== #}
+<div class="full-width-info">
+  <div class="info-card quick-info">
+
+
+<aside>
+<div class="panel">
+
+  <h3>
+    <span class="material-symbols-outlined">
+      format_list_bulleted
+    </span>
+    Información rápida
+  </h3>
+
+  <div class="info-item">
+    <div class="label">Tipo de actividad</div>
+    <div class="value">
+      {{ main_type or activity_type  or [] | first or "N/E" }}
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="label">Duración</div>
+    <div class="value">
+      {{ duration or "N/E" }}
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="label">Cantidad de participantes</div>
+    <div class="value">
+      {{ participants or "N/E" }}
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="label">Rango de edad</div>
+    <div class="value">
+      {% if age %}
+         {{ age }} 
+      {% else %}
+         {{ ( age_group | ageRange ) or "N/E" }}
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="info-item">
+    <div class="label">Espacio</div>
+    <div class="value">
+      {{ location or "N/E" }}
+    </div>
+  </div>
+
+</div>
+</aside>
+  </div>
+</div>
+
+
+
+{% if complexity_execution
+   or complexity_organizer
+   or ludic_component
+   or reflective_component
+   or active_component %}
+
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">
+      analytics
+    </span>
+    Perfil de la Actividad
+  </h3>
+
+  <div class="metric-group">
+    <div class="metric-row">
+      <span>Complejidad ejecución</span>
+    </div>
+
+<div class="metric-dots">
+  {% for i in [1,2,3,4,5] %}
+    <span class="metric-dot {% if i <= (complexity_execution or 0) %}filled{% endif %}">
+    </span>
+  {% endfor %}
+      <span>{{ complexity_execution }}/5</span>
+</div>
+
+    <div class="metric-row">
+      <span>Complejidad organizador</span>
+    </div>
+<div class="metric-dots">
+  {% for i in [1,2,3,4,5] %}
+    <span class="metric-dot {% if i <= (complexity_organizer or 0) %}filled{% endif %}">
+    </span>
+  {% endfor %}
+      <span>{{ complexity_organizer }}/5</span>
+</div>
+    <hr>
+
+    <div class="metric-row">
+      <span>Lúdico</span>
+    </div>
+
+<div class="metric-dots">
+  {% for i in [1,2,3,4,5] %}
+    <span class="metric-dot {% if i <= (ludic_component or 0) %}filled{% endif %}">
+    </span>
+  {% endfor %}
+      <span>{{ ludic_component }}/5</span>
+</div>
+
+
+
+    <div class="metric-row">
+      <span>Reflexivo</span>
+    </div>
+
+
+<div class="metric-dots">
+  {% for i in [1,2,3,4,5] %}
+    <span class="metric-dot {% if i <= (reflective_component or 0) %}filled{% endif %}">
+    </span>
+  {% endfor %}
+     <span>{{ reflective_component }}/5</span>
+
+</div>
+
+
+    <div class="metric-row">
+      <span>Activo</span>
+    </div>
+
+
+<div class="metric-dots">
+  {% for i in [1,2,3,4,5] %}
+    <span class="metric-dot {% if i <= (active_component or 0) %}filled{% endif %}">
+    </span>
+  {% endfor %}
+      <span>{{ active_component }}/5</span>
+</div>
+
+  </div>
+</div>
+
+{% endif %}
+
+
+
+
+
+
+
+  {# 2. MATERIALES (si existen) #}
+  {% if (materials | default([])) | length or (special_materials | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
+    <div class="tag-list">
+      {% for item in (materials | default([])) %}
+        <span class="tag">{{ item }}</span>
+      {% endfor %}
+      {% for item in (special_materials | default([])) %}
+        <span class="tag">{{ item }}</span>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {# 3. COMPETENCIAS (skills) #}
+
+  {# 4. ODS RELACIONADOS #}
+  {% if (sdgs | default([])) | length %}
+  <div class="info-card">
+  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
+
+  <div class="sidebar-sdgs large-ods">
+    {% for sdg in sdgs %}
+      <a href="{{ ('/ods/' + sdg + '/') | url }}">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}" title="ODS {{ sdg }}" class="ods-icon-large">
+      </a>
+    {% endfor %}
+  </div>
+
+  </div>
+  {% endif %}
+
+  {# 5. INSIGNIAS RELACIONADAS #}
+  {% if (activity_badges | default([])) | length %}
+  <div class="info-card">
+    <h3><span class="material-symbols-outlined">military_tech</span> Contribuye a las Insignias</h3>
+    <div class="badges-mini">
+      {% for rawBadge in activity_badges %}
+        {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
+        {% set badgeInfo = badgeId | badgeById(badges) %}
+        <a href="{{ ('/badges/' + badgeId + '/') | url }}">
+          <img 
+             src="{{
+             (
+                badgeInfo.logo
+                if badgeInfo and badgeInfo.logo
+                else '/imagenes/insignias/' + badgeId + '.png'
+              ) | url 
+            }}" 
+                alt="{{ badgeInfo.name }}"   title="{{ badgeInfo.name }}" class="badge-large-icon">
+       </a>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+</aside>
+
+
+
+
+    {# COLUMNA CENTRAL #}
+
+<main class="col-center">
+
+<div class="content-card">
+  <h2>
+    <span class="material-symbols-outlined">push_pin</span>
+    Introducción
+  </h2>
+
+  <div class="markdown-content">
+    <p>{{ summary or description }}</p>
+  </div>
+</div>
+
+
+  {% set sections = content | splitBySections %}
+  {% if sections | length %}
+    {# Si el filtro encuentra secciones, las mostramos cada una en su card #}
+    {% for section in sections %}
+
+         {% set sectionClass = "" %}
+         {% set sectionIcon = "article" %}
+         {% set isTimeline = false %}
+         {% set sectionMostrar = true %}
+         {% set sectionColapsable = false %}
+
+
+         {% if section.heading == "Resumen" %}
+            {% set sectionClass = "timeline-summary" %}
+            {% set sectionIcon = "checklist" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+         {% if section.heading == "Preparación" or section.heading == "Preparacion" %}
+            {% set sectionClass = "timeline-preparation" %}
+            {% set sectionIcon = "inventory_2" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+         {% if section.heading == "Desarrollo" %}
+            {% set sectionClass = "timeline-development" %}
+            {% set sectionIcon = "groups" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+         {% if section.heading == "Cierre" %}
+            {% set sectionClass = "timeline-closing" %}
+            {% set sectionIcon = "psychology" %}
+            {% set isTimeline = true %}
+         {% endif %}
+
+
+         {% if section.heading == "Texto original completo de la actividad" %}
+            {% set sectionClass = "timeline-closing" %}
+            {% set sectionMostrar = false %}
+            {% set sectionColapsable = true %}
+         {% endif %}
+
+
+         {% if section.heading == "Checklist de verificación" %}
+            {% set sectionClass = "timeline-closing" %}
+            {% set sectionMostrar = false %}
+            {% set sectionColapsable = true %}
+         {% endif %}
+
+         {% if sectionMostrar %}
+
+              {% if isTimeline %}
+                {% if sectionColapsable %}
+                    {% set dtitle=section.heading %}
+                    {% set dicon="{{ sectionIcon }}" %}
+                    {% set dtype="info" %}
+                    {% set dcontent %}
+
+                       <div class="timeline-column">
+                          <div class="timeline-line"></div>
+                          <div class="timeline-circle">
+                            <span class="material-symbols-outlined">
+                              {{ sectionIcon }}
+                            </span>
+                          </div>
+                       </div>
+                       <div class="timeline-content">
+                         <h2>
+                            {{ section.heading }}
+                         </h2>
+                         <div class="markdown-content">
+                            {{ section.content | safe }}
+                         </div>
+                       </div>
+
+                  {% endset %}
+                  {% include "components/disclosure.njk" %}
+                {% else %}
+           <div class="content-card {{ sectionClass }} {% if isTimeline %}timeline-card{% endif %}">
+
+
+                   <div class="timeline-column">
+                      <div class="timeline-line"></div>
+                      <div class="timeline-circle">
+                        <span class="material-symbols-outlined">
+                          {{ sectionIcon }}
+                        </span>
+                      </div>
+                   </div>
+                   <div class="timeline-content">
+                     <h2>
+                        {{ section.heading }}
+                     </h2>
+                     <div class="markdown-content">
+                        {{ section.content | safe }}
+                     </div>
+                   </div>
+                </div>
+                {% endif %}
+              {% else %}
+                {% set dtitle=section.heading %}
+                {% set dicon=sectionIcon %}
+                {% set dtype="info" %}
+                {% set dcontent %}
+
+                   <div class="markdown-content">
+                      {{ section.content | safe }}
+                   </div>
+
+                {% endset %}
+
+                {% include "components/disclosure.njk" %}
+
+
+              {% endif %}
+
+           
+
+        {% endif %}
+
+    {% endfor %}
+  {% else %}
+    {# Fallback: mostrar el contenido original sin dividir (para que no desaparezca) #}
+    <div class="content-card">
+        <h2>📄 Contenido completo</h2>
+        {{ content | safe }}
+    </div>
+  {% endif %}
+</main>
+
+
+
+    {# COLUMNA DERECHA #}
+    <aside class="col-right">
+
+{% set competenciasData = (competencias or [])[0].ramas %}
+
+<div class="info-card">
+  <h3>
+    <span class="material-symbols-outlined">groups</span>
+    Programa Scout
+  </h3>
+
+  <div class="branch-grid">
+
+
+{% set ageGroups = age_group | default([]) %}
+
+{% if "castores" in ageGroups %}
+  <a href="{{ ('/edades/castores/') | url }}" title="Castores">
+    <div class="branch-item">
+      <img src="{{ '/imagenes/ramas/castores.png' | url }}" alt="Castores">
+      <div class="branch-content">
+        <div class="branch-name">
+          Castores
+        </div>
+        {% if rama_castores %}
+          <div class="branch-actions">
+            Acciones: {{ rama_castores }}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+{% endif %}
+
+
+{% if "manada" in ageGroups %}
+<div class="branch-item">
+  <a href="{{ ('/edades/manada/') | url }}" title="Manada">
+  <img src="{{ '/imagenes/ramas/manada.png' | url }}" alt="Manada">
+</a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Manada
+    </div>
+
+
+{% if rama_lobatos %}
+<div class="rastros-icons">
+<!--
+{% for numero in rama_lobatos %}
+
+  {% for comp in competenciasData.manada %}
+    {% if comp.numero == numero %}
+
+      <img
+        src="{{ ('/imagenes/competencias/manada/' + comp.icon) | url }}"
+        alt="{{ comp.descripcion }}"
+        title="Competencia {{numero}}
+               Categoría: {{ comp.categoria }}
+               {{ comp.descripcion }}"
+        class="rastro-icon">
+
+    {% endif %}
+  {% endfor %}
+
+{% endfor %}
+
+-->
+
+{% for numero in rama_lobatos %}
+
+  <span
+    class="competencia-pill lobatos"
+    title="
+{% for comp in competenciasData.manada %}
+{% if comp.numero == numero %}
+Rastro {{numero}}
+Sendero: {{ comp.categoria }}
+
+{{ comp.descripcion }}
+
+{% endif %}
+{% endfor %}
+">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+
+
+
+
+</div>
+{% endif %}
+
+
+  </div>
+</div>
+{% endif %}
+
+
+{% if "scouts" in ageGroups %}
+<div class="branch-item">
+  <a href="{{ ('/edades/unidad-scout/') | url }}" title="Scouts">
+  <img src="{{ '/imagenes/ramas/unidad-scout.png' | url }}" alt="Scouts">
+  </a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Unidad Scout
+    </div>
+
+{% if rama_scouts %}
+<div class="competencias-pills">
+
+{% for numero in rama_scouts %}
+
+  <span
+    class="competencia-pill scouts"
+    title="
+{% for comp in competenciasData.scouts %}
+{% if comp.numero == numero %}
+Competencia {{numero}}
+Categoria: {{ comp.categoria }}
+
+{{ comp.descripcion }}
+
+{% endif %}
+{% endfor %}
+">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+</div>
+{% endif %}
+
+
+
+  </div>
+</div>
+{% endif %}
+
+
+{% if "caminantes" in ageGroups %}
+<div class="branch-item">
+  <a href="{{ ('/edades/caminantes/') | url }}" title="Caminantes">
+
+  <img src="{{ '/imagenes/ramas/caminantes.png' | url }}"
+       alt="Caminantes">
+</a>
+  <div class="branch-content">
+
+    <div class="branch-name">
+      Caminantes
+    </div>
+
+{% if rama_caminantes %}
+<div class="competencias-pills">
+
+{% for numero in rama_caminantes %}
+
+  <span
+    class="competencia-pill caminantes"
+    title="
+    {% for comp in competenciasData.caminantes %}
+       {% if comp.numero == numero %}
+Competencia {{numero}}
+Categoria: {{ comp.categoria }}
+
+{{ comp.descripcion }}
+       {% endif %}
+    {% endfor %}
+  ">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+</div>
+{% endif %}
+
+</div>
+</div>
+{% endif %}
+
+
+
+{% if "rovers" in ageGroups %}
+<div class="branch-item">
+  <a href="{{ ('/edades/rovers/') | url }}" title="Rovers">
+
+  <img src="{{ '/imagenes/ramas/rovers.png' | url }}" alt="Rovers">
+</a>
+  <div class="branch-content">
+    <div class="branch-name">
+      Rovers
+    </div>
+{% if rama_rovers %}
+<div class="competencias-pills">
+
+{% for numero in rama_rovers %}
+
+  <span
+    class="competencia-pill rovers"
+    title="
+{% for comp in competenciasData.rovers %}
+{% if comp.numero == numero %}
+Competencia {{numero}}
+Ruta: {{ comp.ruta }}
+
+{{ comp.descripcion }}
+
+
+{% endif %}
+{% endfor %}
+">
+    {{ numero }}
+  </span>
+
+{% endfor %}
+
+</div>
+{% endif %}
+
+
+  </div>
+</div>
+{% endif %}
+
+
+  </div>
+
+</div>
+
+
+
+{% if scout_method %}
+  <div class="info-card">
+    <h3>
+      <span class="material-symbols-outlined">explore</span>
+        Método Scout
+    </h3>
+
+    <ul class="method-list">
+      {% for item in scout_method %}
+        <li>{{ item }}</li>
+      {% endfor %}
+    </ul>
+   </div>
+{% endif %}
+
+      {% if skills %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
+        <ul class="competence-list">
+          {% for skill in skills %}
+            <li>{{ skill }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+
+      {% if sdgs %}
+      <div class="info-card">
+
+<div class="sidebar-card">
+  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
+  <div class="sidebar-sdgs large-ods">
+    {% for sdg in sdgs %}
+      <a href="{{ ('/ods/' + sdg + '/') | url }}">
+        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}"  title="ODS {{ sdg }}" class="ods-icon-large">
+      </a>
+    {% endfor %}
+  </div>
+</div>
+</div>
+      {% endif %}
+
+      {% if files %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <div class="download-list">
+          {% for file in files %}
+            <a href="{{ file.filepath }}" class="download-item">
+              📄 {{ file.caption }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
+      {% if tags %}
+
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
+        <div class="tag-list">
+          {% for tag in tags %}
+              {% if tag not in ['actividades', 'recurso'] %}
+                <span class="tag">{{ tag }}</span>
+              {% endif %}
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+    </aside>
+
+  </div>
+
+
+
+
+  {# ===== FILA INFERIOR DE INFORMACIÓN ===== #}
+  <div class="info-row">
+
+    {% if responsible or prep_time or accessibility %}
+      <div class="info-card requirements-card">
+        <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
+        <p><strong>Responsable:</strong> {{ responsible }}</p>
+        {% if prep_time %}<p><strong>Tiempo preparaci  n:</strong> {{ prep_time }}</p>{% endif %}
+{#        {% if accessibility %}<p><strong>Accesibilidad:</strong> {{ accessibility |  default([]) | join(", ") }}</p>{% endif %} #}
+      </div>
+    {% endif %}
+
+
+    {% if author or source or license or adapted_from or translator or credits %}
+      <div class="info-card credits-card">
+        <h3>
+          <span class="material-symbols-outlined">license</span>
+             Créditos
+        </h3>
+        {% if author %}
+           <p>
+             <strong>Autor:</strong>
+                {{ author | join(", ") }}
+           </p>
+        {% endif %}
+        {% if source %}
+          <p>
+            <strong>Fuente:</strong>
+               {{ source | join(", ") }}
+          </p>
+        {% endif %}
+        {% if adapted_from %}
+          <p>
+            <strong>Adaptado de:</strong>
+              {{ adapted_from }}
+            </p>
+        {% endif %}
+        {% if translator %}
+          <p>
+            <strong>Traducción:</strong>
+              {{ translator }}
+          </p>
+        {% endif %}
+        {% if credits %}
+          <p>
+            <strong>Créditos:</strong>
+              {{ credits }}
+          </p>
+        {% endif %}
+        {% if license %}
+          <div class="license-block">
+            <p>
+              <strong>Licencia:</strong>
+              <a href="{{ license.url }}">
+                {{ license.name }}
+              </a>
+            </p>
+            {% if license.image %}
+              <img
+                 src="{{ license.image }}"
+                 alt="{{ license.name }}"
+                 class="license-image">
+            {% endif %}
+          </div>
+        {% endif %}
+
+      </div>
+    {% endif %}
+
+
+
+    {% if translation_notice %}
+      <div class="info-card translation-card">
+        <h3><span class="material-symbols-outlined">translate</span> Nota sobre la traducción</h3>
+        {% if translation_notice.en %}
+           <p>{{ translation_notice.en }}</p>
+        {% endif %}
+
+        {% if translation_notice.es %}
+          <p>{{ translation_notice.es }}</p>
+        {% endif %}
+
+        {% if references %}
+          {% for ref in references %}
+            {% if ref.url %}<p><strong>Versi  n original:</strong> <a href="{{ ref.url }}">{{ ref.title }}</a></p>{% endif %}
+          {% endfor %}
+        {% endif %}
+      </div>
+
+    {% endif %}
+
+
+
+    {% if references %}
+      <div class="info-card  references-card">
+        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <ul>
+          {% for ref in references %}
+             <li>{% if ref.url %}<a href="{{ ref.url }}">{% endif %}<strong>{{ ref.title }}</strong> – {% if ref.author %}{{ ref.author }}{% endif %} {% if ref.year %}({{ ref.year }}){% endif %}{% if ref.url %}</a>{% endif %}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
+  </div>
+
+
+{% set allActivities =
+     collections.activitiesSorted %}
+
+{% set currentIndex =
+     page.url | activityIndex(allActivities) %}
+
+{% set previousActivity =
+     allActivities[currentIndex - 1] %}
+
+{% set nextActivity =
+     allActivities[currentIndex + 1] %}
+
+<section class="activity-navigation">
+
+  {% if previousActivity %}
+  <a
+    class="activity-nav-card previous"
+    href="{{ previousActivity.url | url }}">
+
+    <span class="nav-label">
+      ← Actividad anterior
+    </span>
+
+    <strong>
+      {{ previousActivity.data.title }}
+    </strong>
+
+  </a>
+  {% endif %}
+
+  {% if nextActivity %}
+  <a
+    class="activity-nav-card next"
+    href="{{ nextActivity.url | url }}">
+
+    <span class="nav-label">
+      Actividad siguiente →
+    </span>
+
+    <strong>
+      {{ nextActivity.data.title }}
+    </strong>
+
+  </a>
+  {% endif %}
+
+</section>
+
+
+
+  {# ===== ACTIVIDADES RELACIONADAS ===== #}
+{% set currentActivity =
+     page.url | currentActivity(collections.activities) %}
+
+{% set related =
+     currentActivity
+     | relatedActivities(collections.activities) %}
+  <section class="related-section">
+    <h2><span class="material-symbols-outlined">stars</span> También te puede gustar</h2>
+    <div class="related-carousel">
+      {% for rel in related %}
+
+        {% set relatedActivity = rel.activity %}
+        {% set item = relatedActivity.data %}
+        {% set activityUrl = relatedActivity.url %}
+
+          <div class="related-card">
+            {% if item.image %}
+              <div class="related-img" style="background-image: url('{{ item.image | url }}');"></div>
+            {% endif %}
+            <div class="related-category">{{ item.main_type or "Actividad" }}</div>
+            <h3><a href="{{ activityUrl | url }}">{{ item.title }}</a>  {% if item.version %}
+                  <div class="hero-version version-{{ item.version | lower }}">
+                     {% if version == "DRAFT" %}
+                        BORRADOR
+                     {% else %}
+                        {{ item.version }}
+                     {% endif %}
+                  </div>
+  {% endif %} </h3>
+            <div class="related-meta">
+              <span><span class="material-symbols-outlined">groups</span> {{ item.participants or participants }}</span>
+              <span><span class="material-symbols-outlined">schedule</span> {{ item.duration or duration }}</span>
+              <span><span class="material-symbols-outlined">cake</span> {{ item.age_group | ageRange }}</span>
+            </div>
+          </div>
+      {% endfor %}
+    </div>
+  </section>
+
+
+
+  </div>
+
+
+</article>
+
+

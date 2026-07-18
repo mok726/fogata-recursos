@@ -1,0 +1,243 @@
+/* ======================================================
+   FOGATA DE RECURSOS
+   HOME.CSS
+
+   Página principal
+====================================================== */
+
+
+/* ======================================================
+   HERO
+====================================================== */
+
+.home-hero {
+
+  position: relative;
+
+  overflow: hidden;
+
+  margin-bottom: 4rem;
+
+  padding: 5rem 4rem;
+
+  border-radius: var(--radius-large);
+
+  background:
+    linear-gradient(
+      135deg,
+      var(--color-primary-dark),
+      var(--color-primary),
+      #4f7b52
+    );
+
+  color:white;
+
+  box-shadow:
+    0 15px 40px rgba(0,0,0,.15);
+
+}
+
+
+.home-hero::before {
+
+  content:"";
+
+  position:absolute;
+
+  top:-120px;
+  right:-120px;
+
+  width:340px;
+  height:340px;
+
+  border-radius:50%;
+
+  background:
+    rgba(255,255,255,.08);
+
+}
+
+
+.home-hero::after {
+
+  content:"";
+
+  position:absolute;
+
+  bottom:-140px;
+  left:-140px;
+
+  width:360px;
+  height:360px;
+
+  border-radius:50%;
+
+  background:
+    rgba(255,255,255,.05);
+
+}
+
+
+
+.home-hero-content {
+
+  position:relative;
+
+  z-index:2;
+
+  max-width:820px;
+
+}
+
+
+
+.home-hero h1 {
+
+  margin:0 0 1rem;
+
+  font-size:4rem;
+
+  line-height:1;
+
+  color:white;
+
+}
+
+
+
+.home-hero p {
+
+  max-width:720px;
+
+  font-size:1.35rem;
+
+  line-height:1.7;
+
+  opacity:.96;
+
+}
+
+
+/* ======================================================
+   HERO BUTTONS
+====================================================== */
+
+.hero-actions {
+
+  display:flex;
+
+  flex-wrap:wrap;
+
+  gap:1rem;
+
+  margin-top:2rem;
+
+}
+
+
+
+.hero-button {
+
+  padding:1rem 1.6rem;
+
+  border-radius:999px;
+
+  background:white;
+
+  color:var(--color-primary);
+
+  font-weight:700;
+
+  box-shadow:var(--shadow-small);
+
+  transition:
+    transform .2s ease,
+    box-shadow .2s ease;
+
+}
+
+
+
+.hero-button:hover {
+
+  transform:translateY(-3px);
+
+  box-shadow:var(--shadow-medium);
+
+  text-decoration:none;
+
+}
+
+
+
+.hero-button.secondary {
+
+  background:
+    rgba(255,255,255,.16);
+
+  color:white;
+
+  backdrop-filter:blur(4px);
+
+}
+
+
+
+/* ======================================================
+   SECCIONES HOME
+====================================================== */
+
+.home-section-title {
+
+  margin-bottom:1rem;
+
+}
+
+
+
+.home-section-description {
+
+  max-width:70ch;
+
+  color:var(--color-text-muted);
+
+}
+
+
+
+.featured-section {
+
+  margin-top:4rem;
+
+}
+
+
+
+/* ======================================================
+   RESPONSIVE
+====================================================== */
+
+@media(max-width:700px) {
+
+
+  .home-hero {
+
+    padding:2.5rem 1.5rem;
+
+  }
+
+
+  .home-hero h1 {
+
+    font-size:2.5rem;
+
+  }
+
+
+  .home-hero p {
+
+    font-size:1.05rem;
+
+  }
+
+}

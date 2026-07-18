@@ -1,5 +1,12 @@
 ---
 layout: layouts/base.njk
+
+styles:
+  - /css/cards.css
+  - /css/pages/activity.css
+  - /css/disclosure.css
+
+
 ---
 <script>
 
@@ -39,7 +46,6 @@ async function shareActivity() {
 }
 
 </script>
-
 
 <article class="activity-page">
 
@@ -960,39 +966,26 @@ Ruta: {{ comp.ruta }}
 {% set related =
      currentActivity
      | relatedActivities(collections.activities) %}
-  <section class="related-section">
-    <h2><span class="material-symbols-outlined">stars</span> También te puede gustar</h2>
-    <div class="related-carousel">
-      {% for rel in related %}
+<section class="related-section">
 
-        {% set relatedActivity = rel.activity %}
-        {% set item = relatedActivity.data %}
-        {% set activityUrl = relatedActivity.url %}
+<h2>También te puede gustar</h2>
 
-          <div class="related-card">
-            {% if item.image %}
-              <div class="related-img" style="background-image: url('{{ item.image | url }}');"></div>
-            {% endif %}
-            <div class="related-category">{{ item.main_type or "Actividad" }}</div>
-            <h3><a href="{{ activityUrl | url }}">{{ item.title }}</a>  {% if item.version %}
-                  <div class="hero-version version-{{ item.version | lower }}">
-                     {% if version == "DRAFT" %}
-                        BORRADOR
-                     {% else %}
-                        {{ item.version }}
-                     {% endif %}
-                  </div>
-  {% endif %} </h3>
-            <div class="related-meta">
-              <span><span class="material-symbols-outlined">groups</span> {{ item.participants or participants }}</span>
-              <span><span class="material-symbols-outlined">schedule</span> {{ item.duration or duration }}</span>
-              <span><span class="material-symbols-outlined">cake</span> {{ item.age_group | ageRange }}</span>
-            </div>
-          </div>
-      {% endfor %}
-    </div>
-  </section>
+<div class="related-carousel">
 
+{% for rel in related %}
+
+    {% set activity = rel.activity %}
+    {% set item = activity.data %}
+    {% set activityUrl = activity.url %}
+    {% set layout = "compact" %}
+
+    {% include "components/activity-card.njk" %}
+
+{% endfor %}
+
+</div>
+
+</section>
 
 
   </div>

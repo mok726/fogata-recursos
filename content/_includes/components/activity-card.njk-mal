@@ -1,0 +1,215 @@
+<div class="card activity-card  {{ layout | default('full') }} {% if isRequired %}activity-card-required{% endif %} {% if isFeatured %}activity-card-featured{% endif %} {% if item.original and (item.original | string | lower) != "false" and item.original != false  %}activity-card-original{% endif %}" >
+
+  <div class="activity-card-hero">
+    <a
+      class="activity-card-main-link"
+      href="{{ activityUrl | url }}">
+        {% set activityImage =
+           item.image
+           or '/imagenes/actividades/activity-card.png'
+        %}
+        <img  class="activity-card-image"  src="{{ activityImage | url }}"  alt="{{ item.title }}">
+    </a>
+    {% if item.original and (item.original | string | lower) != "false" and item.original != false  %}
+       <div class="activity-original"><span class="material-symbols-outlined">stars</span></div>
+    {% endif %}
+
+    {% if isRequired %}
+       <div class="activity-required">
+         🏅 Obligatoria
+       </div>
+    {% endif %}
+    {% if isComplementary %}
+       <div class="activity-complementary">
+  	COMPLEMENTARIA
+       </div>
+    {% endif %}
+
+
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+        {% if item.main_type %}
+     	   <div class="activity-type-chip">
+	     <a  href="{{ ('/activityType/' + (item.main_type | string | lower) + '/') | url }}">
+	       {{ item.main_type or "Actividad" }}
+ 	     </a>
+           </div>
+        {% endif %}
+        {% if item.duration %} 
+  	  {% if not item.duration in ["Proyecto continuo","Proyecto de campaña","Proyecto de recaudación","Proyecto de organización","Proyecto de evento" ,"Proyecto de seguimiento"]%}
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         {{ item.duration |  replace(r/\s*(\d+)\s*min.*/, "$1'")  |  replace(r/\s*(\d+)\s*hora.*/, "$1h")  | replace("Proyecto de ","") | replace(" + seguimiento","") }}
+               </span>
+	  {% endif %}
+	{% endif %}
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="{{ activityUrl | url }}">
+             {{ item.title | smartTitle }}
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+{#        	       {{ item.age_group | ageRange }}
+#}
+              {{ item.age }}
+         </div>
+
+         <div class="activity-branches">
+  	    {% for age in ageGroups %}
+
+	       {% set enabled = age.id in item.age_group %}
+
+               {% if age.id == "unidad-scout" and ("scout" in item.age_group or "scouts" in item.age_group) %}  
+	  	  {% set enabled = true %}
+	       {% endif %}
+	       <div class="hero-branch-slot {{ 'enabled' if enabled else 'disabled' }}">
+
+	    	  {% if enabled %}
+		     <a
+		       href="{{ ('/edades/' + age.id + '/') | url }}">
+		       <img
+		          class="hero-branch-icon"
+			  src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+                  	  alt="{{ age.name }}"
+                  	  title="{{ age.name }}">
+		     </a>
+        	  {% endif %}
+
+		</div>
+
+	     {% endfor %}
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+     {% if layout != "compact" %}
+
+       <div class="activity-card-body">
+
+
+         {% if item.summary %}
+            <p class="activity-summary">
+              {{ item.summary }}
+            </p>
+         {% endif %}
+
+
+{#
+         <div class="activity-files">
+
+           {% if item.attachments and item.attachments.length %}
+
+             <span class="material-symbols-outlined">attach_file</span>
+
+           {% endif %}
+
+         </div>
+
+       </div>
+#}
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+           {% if item.sdgs and item.sdgs.length %}
+
+             {% set maxSdgs = 3 %}
+             {% set totalSdgs = item.sdgs.length %}
+
+             {% for sdg in item.sdgs.slice(0,maxSdgs) %}
+
+               <a href="{{ ('/ods/' + sdg + '/') | url }}">
+
+                 <img
+                   class="sdg-icon"
+                   src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
+                   alt="ODS {{ sdg }}"
+                   title="ODS {{ sdg }}">
+
+               </a>
+
+             {% endfor %}
+
+             {% if totalSdgs > maxSdgs %}
+
+               <span class="activity-more activity-more-sdg">
+                 +{{ totalSdgs - maxSdgs }}
+               </span>
+ 
+             {% endif %}
+
+          {% endif %}
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+          {% if item.activity_badges %}
+
+            {% for rawBadge in item.activity_badges.slice(0,2) %}
+
+              {% if rawBadge.id %}
+                {% set badgeId = rawBadge.id %}
+                {% set badgeName = rawBadge.name %}
+              {% else %}
+                {% set badgeId = rawBadge | slugify %}
+                {% set badgeName = rawBadge | smartTitle %}
+              {% endif %}
+
+              {% set badgeInfo = badgeId | badgeById(badges) %}
+
+              <a href="{{ ('/badges/' + badgeId + '/') | url }}">
+                <img
+                  class="badge-icon"
+                  src="{{
+                    (
+                      badgeInfo.logo
+                      if badgeInfo and badgeInfo.logo
+                      else '/imagenes/insignias/' + badgeId + '.png'
+                    ) | url
+                  }}"
+                  alt="{{ badgeName }}"
+                  title="{{ badgeName }}">
+              </a>
+
+            {% endfor %}
+
+            {% if item.activity_badges.length > 2 %}
+              <span class="activity-more">
+                +{{ item.activity_badges.length - 2 }}
+              </span>
+            {% endif %}
+
+          {% endif %}
+
+        </div>
+      </div>
+
+    </div>
+  {% endif %}
+
+</div>
+

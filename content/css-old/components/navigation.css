@@ -1,0 +1,149 @@
+/* ==========================================
+   NAVIGATION.CSS
+   Navegación principal
+   ========================================== */
+
+/* ==========================================
+   NAVBAR
+   ========================================== */
+
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: var(--z-sticky);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: var(--spacing-4);
+
+  flex-wrap: wrap;
+
+  padding: var(--spacing-4) var(--spacing-6);
+
+  background: var(--navbar-bg);
+  backdrop-filter: blur(var(--navbar-blur));
+
+  box-shadow: var(--shadow-sm);
+}
+
+.navbar-left,
+.navbar-center,
+.navbar-right {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-4);
+}
+
+.navbar-center {
+  flex-wrap: wrap;
+}
+
+/* ==========================================
+   BRAND
+   ========================================== */
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+
+  font-size: 1.2rem;
+  font-weight: var(--font-weight-bold);
+}
+
+.navbar-brand img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+}
+
+/* ==========================================
+   LINKS
+   ========================================== */
+
+.navbar a {
+  color: var(--color-text);
+}
+
+.navbar a:hover {
+  color: var(--color-primary);
+}
+
+/* ==========================================
+   ICON BUTTON
+   ========================================== */
+
+.navbar-icon-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 40px;
+  height: 40px;
+
+  border-radius: 50%;
+}
+
+.navbar-icon-button:hover {
+  background: var(--color-gray-100);
+}
+
+/* ==========================================
+   DROPDOWN
+   ========================================== */
+
+.navbar-dropdown {
+  position: relative;
+}
+
+.navbar-dropdown-button {
+  display: flex;
+  align-items: center;
+  gap: .25rem;
+
+  padding: .5rem .75rem;
+
+  background: none;
+  border: none;
+
+  color: inherit;
+  font: inherit;
+
+  cursor: pointer;
+}
+
+.navbar-dropdown-content {
+  display: none;
+
+  position: absolute;
+  top: 100%;
+  left: 0;
+
+  min-width: 240px;
+
+  background: white;
+
+  border: 1px solid var(--color-border);
+
+  border-radius: var(--radius-md);
+
+  box-shadow: var(--shadow-lg);
+
+  z-index: var(--z-dropdown);
+}
+
+.navbar-dropdown:hover .navbar-dropdown-content {
+  display: block;
+}
+
+.navbar-dropdown-content a {
+  display: block;
+  padding: .75rem 1rem;
+}
+
+.navbar-dropdown-content a:hover {
+  background: var(--color-gray-100);
+}
+
+

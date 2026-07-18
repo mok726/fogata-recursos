@@ -1,0 +1,268 @@
+/* ======================================================
+   FOGATA DE RECURSOS
+
+   ICONS.CSS
+
+   Tamaños y reglas generales para:
+   - Material Symbols
+   - Ramas
+   - ODS
+   - Insignias
+   - Iconos auxiliares
+====================================================== */
+
+
+/* ======================================================
+   MATERIAL SYMBOLS
+====================================================== */
+
+.material-symbols-outlined {
+
+  display:inline-flex;
+
+  align-items:center;
+
+  justify-content:center;
+
+  vertical-align:middle;
+
+  font-size:1.2rem;
+
+}
+
+
+
+/* ======================================================
+   SMALL ICONS
+====================================================== */
+
+
+.icon-small {
+
+  width:24px;
+
+  height:24px;
+
+  object-fit:contain;
+
+}
+
+
+
+.icon-medium {
+
+  width:40px;
+
+  height:40px;
+
+  object-fit:contain;
+
+}
+
+
+
+.icon-large {
+
+  width:64px;
+
+  height:64px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+/* ======================================================
+   BRANCH ICONS
+
+   Castores / Lobatos / Scouts / Caminantes / Rovers
+====================================================== */
+
+
+.branch-icon {
+
+  width:42px;
+
+  height:42px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+.branch-icon-small {
+
+  width:32px;
+
+  height:32px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+/* ======================================================
+   ODS ICONS
+====================================================== */
+
+
+.sdg-icon {
+
+  width:42px;
+
+  height:42px;
+
+  object-fit:contain;
+
+}
+
+
+
+.sdg-icon-small {
+
+  width:32px;
+
+  height:32px;
+
+  object-fit:contain;
+
+}
+
+
+
+.sdg-icon-large {
+
+  width:72px;
+
+  height:72px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+
+/* ======================================================
+   BADGE ICONS
+
+   Insignias
+====================================================== */
+
+
+.badge-icon {
+
+  width:46px;
+
+  height:46px;
+
+  object-fit:contain;
+
+}
+
+
+
+.badge-icon-small {
+
+  width:32px;
+
+  height:32px;
+
+  object-fit:contain;
+
+}
+
+
+
+.badge-icon-large {
+
+  width:90px;
+
+  height:90px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+/* ======================================================
+   ICON GROUPS
+
+   Agrupaciones horizontales
+====================================================== */
+
+
+.icon-group {
+
+  display:flex;
+
+  flex-wrap:wrap;
+
+  align-items:center;
+
+  gap:.5rem;
+
+}
+
+
+
+
+/* ======================================================
+   ICON WITH LABEL
+====================================================== */
+
+
+.icon-label {
+
+  display:inline-flex;
+
+  align-items:center;
+
+  gap:.35rem;
+
+}
+
+
+
+.icon-label .material-symbols-outlined {
+
+  font-size:1rem;
+
+}
+
+
+
+/* ======================================================
+   HOVER
+
+====================================================== */
+
+
+.icon-link {
+
+  transition:
+    transform .15s ease,
+    opacity .15s ease;
+
+}
+
+
+
+.icon-link:hover {
+
+  transform:translateY(-2px);
+
+  opacity:.85;
+
+}
+
+

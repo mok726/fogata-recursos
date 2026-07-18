@@ -1,0 +1,201 @@
+/* ==========================================
+   LAYOUT.CSS - ESTILOS GLOBALES Y ESTRUCTURALES
+   Versión consolidada para Fogata de Recursos
+   ========================================= */
+
+/* Importamos los módulos separados * /
+@import 'navbar.css';
+@import 'footer.css';
+@import 'badge.css';
+@import 'components.css';
+@import 'responsive.css';
+*/
+/* ==========================================
+   RESET & GLOBAL
+   ========================================= */
+/* Reset básico: elimina márgenes/paddings por defecto y define box-sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* Estilos base del cuerpo: fuente, fondo degradado suave, color de texto y altura de línea */
+body {
+  margin: 0;
+  font-family: Inter, Arial, sans-serif;
+  background: linear-gradient(to bottom, #eef3ec, #f7f9f6);
+  color: #1f2a20;
+  line-height: 1.6;
+}
+
+/* Las imágenes nunca se salen de su contenedor */
+img {
+  max-width: 100%;
+}
+
+/* Enlaces heredan color y no tienen subrayado por defecto */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* ==========================================
+   TIPOGRAFÍA
+   ========================================= */
+/* Jerarquía tipográfica consistente para títulos */
+h1, h2, h3, h4 {
+  line-height: 1.2;
+  color: #243526;
+}
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.3rem; }
+
+/* ==========================================
+   CONTENEDORES ESTRUCTURALES
+   ========================================= */
+/* Contenedor principal de página (ocupa todo el ancho) */
+.page-container {
+  min-height: 60vh;
+  width: 100%;
+  max-width: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Contenido centrado con ancho máximo de 900px (para páginas de texto) */
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Contenedor ancho (1500px) para secciones como listados de recursos */
+.site-content,
+.taxonomy-page,
+.badge-page-container {  /* badge-page-container también está en badge.css, pero lo dejamos aquí para no romper nada */
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Contenedores específicos para badges (también usados en la página de insignias) */
+.badge-content-container,
+.badge-activities-container {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* ==========================================
+   ENCABEZADOS DE SECCIÓN Y PÁGINA
+   ========================================= */
+.page-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+.page-header img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+
+.section-spacing {
+  margin-top: 2rem;
+}
+
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e8ede7;
+}
+.section-header p {
+  margin-bottom: 0;
+  color: #667067;
+  max-width: 60ch;
+}
+
+/* ==========================================
+   LISTADOS Y BÚSQUEDA
+   ========================================= */
+.listing-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+.listing-search {
+  min-width: 260px;
+}
+.listing-search input,
+.search-box input {
+  width: 100%;
+  padding: 0.9rem 1rem;
+  border: none;
+  border-radius: 14px;
+  background: white;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+  font-size: 1rem;
+}
+
+.results-count {
+  margin-top: 1rem;
+  color: #5f695f;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+.search-box {
+  margin-top: 3rem;
+}
+.search-results {
+  display: grid;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+.search-result {
+  background: white;
+  border-radius: 18px;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+.search-result a {
+  font-weight: 700;
+  color: #24462a;
+}
+.search-result p {
+  margin-bottom: 0;
+  color: #667067;
+}
+
+/* ==========================================
+   GRID Y ESTADO VACÍO
+   ========================================= */
+.grid {
+  margin-top: 2rem;
+}
+.empty-state {
+  background: white;
+  border-radius: 18px;
+  padding: 3rem 2rem;
+  margin-top: 2rem;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+.empty-state h2 {
+  margin-top: 0;
+}
+.empty-state p {
+  color: #666;
+  max-width: 50ch;
+  margin: 1rem auto 0;
+}
+

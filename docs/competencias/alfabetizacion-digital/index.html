@@ -182,10 +182,22 @@ put this inside the body
 
 
   <!-- CSS -->
+<link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-  <link
-    rel="stylesheet"
-    href="/fogata-recursos/css/main.css">
+<link rel="stylesheet" href="/fogata-recursos/css/base.css">
+<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
+<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
+<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
+<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
+<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
+<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
+
+
+
+<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
+
+
+
 
 </head>
 
@@ -316,7 +328,8 @@ put this inside the body
 
   <main class="page-container">
 
-    <div class="taxonomy-page">
+    
+<div class="taxonomy-page">
 
 
 
@@ -4511,167 +4524,197 @@ put this inside the body
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/al-blog-bosques/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/al-blog-bosques.png"  alt="¡Al Blog por los Bosques!">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/al-blog-bosques.png"  alt="¡Al Blog por los Bosques!">
     </a>
 
 
+    <div class="activity-card-overlay">
 
-
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
-
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/al-blog-bosques/">
-          ¡Al Blog Por Los Bosques!
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
-
-
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/al-blog-bosques/">
-          Creación de un blog sobre el bosque local.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
+      <div class="activity-card-overlay-top">
 
 
 
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      14-22 años
-    </span>
 
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/al-blog-bosques/">
+             ¡Al Blog Por Los Bosques!
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              16-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Creación de un blog sobre el bosque local.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/13/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-13.png"
+                   alt="ODS 13"
+                   title="ODS 13">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/bosques/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/bosques.png"
+                  alt="Bosques"
+                  title="Bosques">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/13/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-13.png"
-                alt="ODS 13"
-                title="ODS 13">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/15/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/bosques/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/bosques.png"
-  alt="Bosques"
-  title="Bosques">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -4726,417 +4769,446 @@ src="/fogata-recursos/imagenes/insignias/bosques.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/juega-por-la-alimentacion/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/juega-por-la-alimentacion.png"  alt="¡Juega por la Alimentación!">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/juega-por-la-alimentacion.png"  alt="¡Juega por la Alimentación!">
     </a>
 
 
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
-
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/juega-por-la-alimentacion/">
-          ¡Juega Por La Alimentación!
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
 
 
-      </h3>
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/juego/">
+	       Juego
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/juega-por-la-alimentacion/">
+             ¡Juega Por La Alimentación!
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Juegos solidarios contra el hambre.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/1/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-1.png"
+                   alt="ODS 1"
+                   title="ODS 1">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/2/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-2.png"
+                   alt="ODS 2"
+                   title="ODS 2">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/hambre/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/hambre.png"
+                  alt="Hambre"
+                  title="Hambre">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/juega-por-la-alimentacion/">
-          Juegos solidarios contra el hambre.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-22 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
-      </div>
-
-    </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/1/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-1.png"
-                alt="ODS 1"
-                title="ODS 1">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/2/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-2.png"
-                alt="ODS 2"
-                title="ODS 2">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/hambre/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/hambre.png"
-  alt="Hambre"
-  title="Hambre">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/subelo-al-blog/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/subelo-al-blog.png"  alt="¡Súbelo al blog!">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/subelo-al-blog.png"  alt="¡Súbelo al blog!">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 2 horas + seguimiento
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/aprender haciendo/">
+	       Aprender haciendo
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         2h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/subelo-al-blog/">
+             ¡Súbelo Al Blog!
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/subelo-al-blog/">
-          ¡Súbelo Al Blog!
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/subelo-al-blog/">
-          Crear un blog sobre cambio climático.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      2 horas + seguimiento
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Crear un blog sobre cambio climático.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/13/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-13.png"
+                   alt="ODS 13"
+                   title="ODS 13">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/cambioclimatico/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/cambioclimatico.png"
+                  alt="Cambioclimatico"
+                  title="Cambioclimatico">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/13/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-13.png"
-                alt="ODS 13"
-                title="ODS 13">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/cambioclimatico/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/cambioclimatico.png"
-  alt="Cambioclimatico"
-  title="Cambioclimatico">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -5267,440 +5339,551 @@ src="/fogata-recursos/imagenes/insignias/cambioclimatico.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/dj-por-un-dia/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/dj-por-un-dia.png"  alt="&#39;DJ&#39; por un Día">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/dj-por-un-dia.png"  alt="&#39;DJ&#39; por un Día">
     </a>
 
 
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
-
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/dj-por-un-dia/">
-          &#39;dj&#39; Por Un Día
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
 
 
-      </h3>
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/dj-por-un-dia/">
+             &#39;dj&#39; Por Un Día
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Radio comunitaria contra el hambre.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/2/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-2.png"
+                   alt="ODS 2"
+                   title="ODS 2">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/10/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-10.png"
+                   alt="ODS 10"
+                   title="ODS 10">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/hambre/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/hambre.png"
+                  alt="Hambre"
+                  title="Hambre">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/dj-por-un-dia/">
-          Radio comunitaria contra el hambre.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-22 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/rovers/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/2/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-2.png"
-                alt="ODS 2"
-                title="ODS 2">
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/10/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-10.png"
-                alt="ODS 10"
-                title="ODS 10">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/hambre/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/hambre.png"
-  alt="Hambre"
-  title="Hambre">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/activismo/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/activismo.png"  alt="Activismo">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/activismo.png"  alt="Activismo">
     </a>
 
 
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
-
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/activismo/">
-          Activismo
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
 
 
-      </h3>
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/sensibilización/">
+	       Sensibilización
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/activismo/">
+             Activismo
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Activismo en redes contra el hambre.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/2/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-2.png"
+                   alt="ODS 2"
+                   title="ODS 2">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/10/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-10.png"
+                   alt="ODS 10"
+                   title="ODS 10">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/16/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-16.png"
+                   alt="ODS 16"
+                   title="ODS 16">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/hambre/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/hambre.png"
+                  alt="Hambre"
+                  title="Hambre">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/activismo/">
-          Activismo en redes contra el hambre.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-22 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/rovers/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/2/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-2.png"
-                alt="ODS 2"
-                title="ODS 2">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/10/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-10.png"
-                alt="ODS 10"
-                title="ODS 10">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/16/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-16.png"
-                alt="ODS 16"
-                title="ODS 16">
 
-            </a>
 
 
 
-      </div>
 
-      <div class="activity-badges">
 
 
 
@@ -5709,28 +5892,16 @@ src="/fogata-recursos/imagenes/insignias/hambre.png"
 
 
 
-            <a
-              href="/fogata-recursos/badges/hambre/">
 
 
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/hambre.png"
-  alt="Hambre"
-  title="Hambre">
 
 
-            </a>
 
 
 
-      </div>
 
-    </div>
 
-  </div>
 
-</div>
 
 
 
@@ -5880,274 +6051,290 @@ src="/fogata-recursos/imagenes/insignias/hambre.png"
 
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/anuncios-del-agua/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/anuncios-del-agua.png"  alt="Anuncios del Agua">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/anuncios-del-agua.png"  alt="Anuncios del Agua">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 2-3 horas (40 min organización + 1-2h grabación)
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/arte/">
+	       Arte
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         2-3h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/anuncios-del-agua/">
+             Anuncios Del Agua
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/anuncios-del-agua/">
-          Anuncios Del Agua
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Crea un anuncio publicitario sobre el agua.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/3/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-3.png"
+                   alt="ODS 3"
+                   title="ODS 3">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/6/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-6.png"
+                   alt="ODS 6"
+                   title="ODS 6">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/12/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-12.png"
+                   alt="ODS 12"
+                   title="ODS 12">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/agua/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/agua.png"
+                  alt="Agua"
+                  title="Agua">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/anuncios-del-agua/">
-          Crea un anuncio publicitario sobre el agua.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      2-3 horas (40 min organización + 1-2h grabación)
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-22 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/rovers/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/3/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-3.png"
-                alt="ODS 3"
-                title="ODS 3">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/6/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-6.png"
-                alt="ODS 6"
-                title="ODS 6">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/12/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-12.png"
-                alt="ODS 12"
-                title="ODS 12">
 
-            </a>
 
 
 
-      </div>
 
-      <div class="activity-badges">
 
 
 
@@ -6156,28 +6343,16 @@ src="/fogata-recursos/imagenes/insignias/hambre.png"
 
 
 
-            <a
-              href="/fogata-recursos/badges/agua/">
 
 
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/agua.png"
-  alt="Agua"
-  title="Agua">
 
 
-            </a>
 
 
 
-      </div>
 
-    </div>
 
-  </div>
 
-</div>
 
 
 
@@ -6303,260 +6478,200 @@ src="/fogata-recursos/imagenes/insignias/agua.png"
 
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/blog-de-biodiversidad/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/blog-de-biodiversidad.png"  alt="Blog de biodiversidad">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/blog-de-biodiversidad.png"  alt="Blog de biodiversidad">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 2 horas + seguimiento
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/creatividad / arte/">
+	       Creatividad / Arte
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         2h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/blog-de-biodiversidad/">
+             Blog De Biodiversidad
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/blog-de-biodiversidad/">
-          Blog De Biodiversidad
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/blog-de-biodiversidad/">
-          Crear un blog sobre biodiversidad.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      2 horas + seguimiento
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Crear un blog sobre biodiversidad.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/biodiversidad/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
+                  alt="Biodiversidad"
+                  title="Biodiversidad">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/15/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/biodiversidad/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
-  alt="Biodiversidad"
-  title="Biodiversidad">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -6567,181 +6682,200 @@ src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/blog-energia/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/blog-energia.png"  alt="Blog sobre energía">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/blog-energia.png"  alt="Blog sobre energía">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1 semana
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/comunicación/">
+	       Comunicación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1 semana
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/blog-energia/">
+             Blog Sobre Energía
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/blog-energia/">
-          Blog Sobre Energía
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/blog-energia/">
-          Comparte ideas sobre energía en un blog.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1 semana
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Comparte ideas sobre energía en un blog.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/7/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-7.png"
+                   alt="ODS 7"
+                   title="ODS 7">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/13/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-13.png"
+                   alt="ODS 13"
+                   title="ODS 13">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/energia/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/energia.png"
+                  alt="Energia"
+                  title="Energia">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/7/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-7.png"
-                alt="ODS 7"
-                title="ODS 7">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/13/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-13.png"
-                alt="ODS 13"
-                title="ODS 13">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/energia/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/energia.png"
-  alt="Energia"
-  title="Energia">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -7504,168 +7638,260 @@ src="/fogata-recursos/imagenes/insignias/energia.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/seek-inaturalist/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/seek-inaturalist.png"  alt="Descubriendo la naturaleza con Seek de iNaturalist">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/seek-inaturalist.png"  alt="Descubriendo la naturaleza con Seek de iNaturalist">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 20-30 minutos
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/exploración/">
+	       Exploración
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         20-30&#39;
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/seek-inaturalist/">
+             Descubriendo La Naturaleza Con Seek De Inaturalist
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/seek-inaturalist/">
-          Descubriendo La Naturaleza Con Seek De Inaturalist
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              7-14 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Identifica especies con tu celular.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/cfn/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/cfn.png"
+                  alt="Cfn"
+                  title="Cfn">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/seek-inaturalist/">
-          Identifica especies con tu celular.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      20-30 minutos
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-17 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/4/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/15/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
 
-            </a>
 
 
 
-      </div>
 
-      <div class="activity-badges">
 
 
 
@@ -7674,28 +7900,16 @@ src="/fogata-recursos/imagenes/insignias/energia.png"
 
 
 
-            <a
-              href="/fogata-recursos/badges/cfn/">
 
 
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/cfn.png"
-  alt="Cfn"
-  title="Cfn">
 
 
-            </a>
 
 
 
-      </div>
 
-    </div>
 
-  </div>
 
-</div>
 
 
 
@@ -7960,249 +8174,200 @@ src="/fogata-recursos/imagenes/insignias/cfn.png"
 
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/portal-indicadores-agua/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/portal-indicadores-agua.png"  alt="El Portal de Indicadores Clave del Agua">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/portal-indicadores-agua.png"  alt="El Portal de Indicadores Clave del Agua">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1 hora
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/portal-indicadores-agua/">
+             El Portal De Indicadores Clave Del Agua
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/portal-indicadores-agua/">
-          El Portal De Indicadores Clave Del Agua
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/portal-indicadores-agua/">
-          Explora estadísticas mundiales sobre el agua.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1 hora
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Explora estadísticas mundiales sobre el agua.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/6/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-6.png"
+                   alt="ODS 6"
+                   title="ODS 6">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/17/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-17.png"
+                   alt="ODS 17"
+                   title="ODS 17">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/agua/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/agua.png"
+                  alt="Agua"
+                  title="Agua">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/6/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-6.png"
-                alt="ODS 6"
-                title="ODS 6">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/17/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-17.png"
-                alt="ODS 17"
-                title="ODS 17">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/agua/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/agua.png"
-  alt="Agua"
-  title="Agua">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -8889,166 +9054,191 @@ src="/fogata-recursos/imagenes/insignias/agua.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/inaturalist-siguiente-nivel/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/inaturalist-siguiente-nivel.png"  alt="iNaturalist - Siguiente Nivel">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/inaturalist-siguiente-nivel.png"  alt="iNaturalist - Siguiente Nivel">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 20-30 minutos
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         20-30&#39;
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/inaturalist-siguiente-nivel/">
+             Inaturalist - Siguiente Nivel
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/inaturalist-siguiente-nivel/">
-          Inaturalist - Siguiente Nivel
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              13 años en adelante
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/inaturalist-siguiente-nivel/">
-          Identifica especies con iNaturalist.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      20-30 minutos
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      14-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Identifica especies con iNaturalist.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/cfn/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/cfn.png"
+                  alt="Cfn"
+                  title="Cfn">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/15/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/cfn/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/cfn.png"
-  alt="Cfn"
-  title="Cfn">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -9123,193 +9313,211 @@ src="/fogata-recursos/imagenes/insignias/cfn.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/inventos-inteligentes-agua/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/inventos-inteligentes-agua.png"  alt="Inventos Inteligentes para el Agua">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/inventos-inteligentes-agua.png"  alt="Inventos Inteligentes para el Agua">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 2 horas (1h preparación + 1h presentación)
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         2h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/inventos-inteligentes-agua/">
+             Inventos Inteligentes Para El Agua
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/inventos-inteligentes-agua/">
-          Inventos Inteligentes Para El Agua
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/inventos-inteligentes-agua/">
-          Investiga inventos para ahorrar agua.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      2 horas (1h preparación + 1h presentación)
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Investiga inventos para ahorrar agua.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/6/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-6.png"
+                   alt="ODS 6"
+                   title="ODS 6">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/9/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-9.png"
+                   alt="ODS 9"
+                   title="ODS 9">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/12/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-12.png"
+                   alt="ODS 12"
+                   title="ODS 12">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/agua/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/agua.png"
+                  alt="Agua"
+                  title="Agua">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/6/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-6.png"
-                alt="ODS 6"
-                title="ODS 6">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/9/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-9.png"
-                alt="ODS 9"
-                title="ODS 9">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/12/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-12.png"
-                alt="ODS 12"
-                title="ODS 12">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/agua/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/agua.png"
-  alt="Agua"
-  title="Agua">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -9328,178 +9536,202 @@ src="/fogata-recursos/imagenes/insignias/agua.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/investigacion-microplasticos/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/investigacion-microplasticos.png"  alt="Investigación de microplásticos">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/investigacion-microplasticos.png"  alt="Investigación de microplásticos">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1-2 días
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1-2 días
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/investigacion-microplasticos/">
+             Investigación De Microplásticos
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/investigacion-microplasticos/">
-          Investigación De Microplásticos
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              16-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/investigacion-microplasticos/">
-          Descubre los microplásticos ocultos en tu hogar.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-15
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1-2 días
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      14-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Descubre los microplásticos ocultos en tu hogar.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/3/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-3.png"
+                   alt="ODS 3"
+                   title="ODS 3">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/12/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-12.png"
+                   alt="ODS 12"
+                   title="ODS 12">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/14/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-14.png"
+                   alt="ODS 14"
+                   title="ODS 14">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/plastics/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/ptt.png"
+                  alt="Plastics"
+                  title="Plastics">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/3/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-3.png"
-                alt="ODS 3"
-                title="ODS 3">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/12/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-12.png"
-                alt="ODS 12"
-                title="ODS 12">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/14/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-14.png"
-                alt="ODS 14"
-                title="ODS 14">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/plastics/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/ptt.png"
-  alt="Plastics"
-  title="Plastics">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -9514,178 +9746,202 @@ src="/fogata-recursos/imagenes/insignias/ptt.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/investigacion-nacional-plastico/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/investigacion-nacional-plastico.png"  alt="Investigación nacional sobre plásticos">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/investigacion-nacional-plastico.png"  alt="Investigación nacional sobre plásticos">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1 día
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1 día
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/investigacion-nacional-plastico/">
+             Investigación Nacional Sobre Plásticos
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/investigacion-nacional-plastico/">
-          Investigación Nacional Sobre Plásticos
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              16-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/investigacion-nacional-plastico/">
-          Analiza la situación de los plásticos en tu país.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-15
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1 día
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      14-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Analiza la situación de los plásticos en tu país.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/12/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-12.png"
+                   alt="ODS 12"
+                   title="ODS 12">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/13/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-13.png"
+                   alt="ODS 13"
+                   title="ODS 13">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/16/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-16.png"
+                   alt="ODS 16"
+                   title="ODS 16">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/plastics/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/ptt.png"
+                  alt="Plastics"
+                  title="Plastics">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/12/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-12.png"
-                alt="ODS 12"
-                title="ODS 12">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/13/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-13.png"
-                alt="ODS 13"
-                title="ODS 13">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/16/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-16.png"
-                alt="ODS 16"
-                title="ODS 16">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/plastics/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/ptt.png"
-  alt="Plastics"
-  title="Plastics">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -9800,168 +10056,260 @@ src="/fogata-recursos/imagenes/insignias/ptt.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/juegos-en-linea-biodiversidad/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/juegos-en-linea-biodiversidad.png"  alt="Juegos en línea">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/juegos-en-linea-biodiversidad.png"  alt="Juegos en línea">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1.5 horas
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/aprender jugando/">
+	       Aprender jugando
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1.5h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/juegos-en-linea-biodiversidad/">
+             Juegos En Línea
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/juegos-en-linea-biodiversidad/">
-          Juegos En Línea
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-15 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Jugar juegos en línea sobre biodiversidad.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/biodiversidad/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
+                  alt="Biodiversidad"
+                  title="Biodiversidad">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/juegos-en-linea-biodiversidad/">
-          Jugar juegos en línea sobre biodiversidad.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1.5 horas
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-17 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/4/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/15/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
 
-            </a>
 
 
 
-      </div>
 
-      <div class="activity-badges">
 
 
 
@@ -9970,28 +10318,16 @@ src="/fogata-recursos/imagenes/insignias/ptt.png"
 
 
 
-            <a
-              href="/fogata-recursos/badges/biodiversidad/">
 
 
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
-  alt="Biodiversidad"
-  title="Biodiversidad">
 
 
-            </a>
 
 
 
-      </div>
 
-    </div>
 
-  </div>
 
-</div>
 
 
 
@@ -10204,236 +10540,260 @@ src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
 
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/mantente-al-tanto-de-las-noticias/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mantente-al-tanto-de-las-noticias.png"  alt="Mantente al tanto de las noticias">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mantente-al-tanto-de-las-noticias.png"  alt="Mantente al tanto de las noticias">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1.5 horas (semanal)
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1.5h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/mantente-al-tanto-de-las-noticias/">
+             Mantente Al Tanto De Las Noticias
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/mantente-al-tanto-de-las-noticias/">
-          Mantente Al Tanto De Las Noticias
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-15 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Seguir noticias sobre cambio climático.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/13/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-13.png"
+                   alt="ODS 13"
+                   title="ODS 13">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/cambioclimatico/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/cambioclimatico.png"
+                  alt="Cambioclimatico"
+                  title="Cambioclimatico">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/mantente-al-tanto-de-las-noticias/">
-          Seguir noticias sobre cambio climático.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1.5 horas (semanal)
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-17 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/4/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/13/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-13.png"
-                alt="ODS 13"
-                title="ODS 13">
 
-            </a>
 
 
 
-      </div>
 
-      <div class="activity-badges">
 
 
 
@@ -10442,483 +10802,432 @@ src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
 
 
 
-            <a
-              href="/fogata-recursos/badges/cambioclimatico/">
 
 
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/cambioclimatico.png"
-  alt="Cambioclimatico"
-  title="Cambioclimatico">
 
 
-            </a>
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-      </div>
-
-    </div>
-
-  </div>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/mensaje-de-video/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mensaje-de-video.png"  alt="Mensaje de Video">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mensaje-de-video.png"  alt="Mensaje de Video">
     </a>
 
 
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
-
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/mensaje-de-video/">
-          Mensaje De Video
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
 
 
-      </h3>
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/arte/">
+	       Arte
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/mensaje-de-video/">
+             Mensaje De Video
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Creación de video sobre el hambre.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/2/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-2.png"
+                   alt="ODS 2"
+                   title="ODS 2">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/10/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-10.png"
+                   alt="ODS 10"
+                   title="ODS 10">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/hambre/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/hambre.png"
+                  alt="Hambre"
+                  title="Hambre">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/mensaje-de-video/">
-          Creación de video sobre el hambre.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-22 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-              <a
-                href="/fogata-recursos/edades/manada/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
-      </div>
-
-    </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/2/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-2.png"
-                alt="ODS 2"
-                title="ODS 2">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/10/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-10.png"
-                alt="ODS 10"
-                title="ODS 10">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/hambre/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/hambre.png"
-  alt="Hambre"
-  title="Hambre">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
-
-</div>
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/mi-huella-hidrica/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mi-huella-hidrica.png"  alt="Mi Huella Hídrica">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mi-huella-hidrica.png"  alt="Mi Huella Hídrica">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1 hora
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/mi-huella-hidrica/">
+             Mi Huella Hídrica
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/mi-huella-hidrica/">
-          Mi Huella Hídrica
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/mi-huella-hidrica/">
-          Calcula tu huella hídrica.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1 hora
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Calcula tu huella hídrica.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/6/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-6.png"
+                   alt="ODS 6"
+                   title="ODS 6">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/12/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-12.png"
+                   alt="ODS 12"
+                   title="ODS 12">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/agua/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/agua.png"
+                  alt="Agua"
+                  title="Agua">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/6/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-6.png"
-                alt="ODS 6"
-                title="ODS 6">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/12/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-12.png"
-                alt="ODS 12"
-                title="ODS 12">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/agua/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/agua.png"
-  alt="Agua"
-  title="Agua">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -11311,181 +11620,200 @@ src="/fogata-recursos/imagenes/insignias/agua.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/platformas-en-linea/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/platformas-en-linea.png"  alt="Plataformas en línea">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/platformas-en-linea.png"  alt="Plataformas en línea">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> 1.5 horas + seguimiento
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigación/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         1.5h
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/platformas-en-linea/">
+             Plataformas En Línea
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/platformas-en-linea/">
-          Plataformas En Línea
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/platformas-en-linea/">
-          Unirse a plataformas en línea sobre biodiversidad.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      1.5 horas + seguimiento
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Unirse a plataformas en línea sobre biodiversidad.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/biodiversidad/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
+                  alt="Biodiversidad"
+                  title="Biodiversidad">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/4/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
-
-            </a>
-
-
-            <a
-              href="/fogata-recursos/ods/15/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/biodiversidad/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
-  alt="Biodiversidad"
-  title="Biodiversidad">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 
@@ -11644,172 +11972,270 @@ src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
 
 
 
-<div class="card activity-card   " >
+<div class="card activity-card  layouts/skill-page.njk   " >
+
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/prueba-boscosa/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/prueba-boscosa.png"  alt="Prueba Boscosa">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/prueba-boscosa.png"  alt="Prueba Boscosa">
     </a>
 
 
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
-
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/prueba-boscosa/">
-          Prueba Boscosa
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
 
 
-      </h3>
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/juego/">
+	       Juego
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/prueba-boscosa/">
+             Prueba Boscosa
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/castores/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/castores.png"
+                  	  alt="Castores"
+                  	  title="Castores">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/manada/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/manada.png"
+                  	  alt="Manada"
+                  	  title="Manada">
+		     </a>
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Juego interactivo sobre bosques.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/4/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-4.png"
+                   alt="ODS 4"
+                   title="ODS 4">
+
+               </a>
+
+
+               <a href="/fogata-recursos/ods/15/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-15.png"
+                   alt="ODS 15"
+                   title="ODS 15">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/bosques/">
+                <img
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/bosques.png"
+                  alt="Bosques"
+                  title="Bosques">
+              </a>
+
+
+
+
+        </div>
+      </div>
+
     </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/prueba-boscosa/">
-          Juego interactivo sobre bosques.
-        </a>
-      </p>
-
-
-<div class="activity-facts">
-
-
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      5-22 años
-    </span>
 
 </div>
 
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
 
 
 
-              <a
-                href="/fogata-recursos/edades/castores/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/castores.png"
-                  alt="Castores"
-                  title="Castores">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/manada/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/manada.png"
-                  alt="Manada"
-                  title="Manada">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/caminantes/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
 
-              </a>
 
 
 
 
 
-              <a
-                href="/fogata-recursos/edades/rovers/">
 
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
 
-              </a>
 
 
 
 
-      </div>
 
-      <div class="activity-files">
 
 
-      </div>
 
-    </div>
 
-    <div class="activity-meta-row activity-meta-row-2">
 
-      <div class="activity-sdgs">
 
 
 
-            <a
-              href="/fogata-recursos/ods/4/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-4.png"
-                alt="ODS 4"
-                title="ODS 4">
 
-            </a>
 
 
-            <a
-              href="/fogata-recursos/ods/15/">
 
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-15.png"
-                alt="ODS 15"
-                title="ODS 15">
 
-            </a>
 
 
 
-      </div>
 
-      <div class="activity-badges">
 
 
 
@@ -11818,28 +12244,16 @@ src="/fogata-recursos/imagenes/insignias/biodiversidad.png"
 
 
 
-            <a
-              href="/fogata-recursos/badges/bosques/">
 
 
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/bosques.png"
-  alt="Bosques"
-  title="Bosques">
 
 
-            </a>
 
 
 
-      </div>
 
-    </div>
 
-  </div>
 
-</div>
 
 
 
@@ -11985,244 +12399,189 @@ src="/fogata-recursos/imagenes/insignias/bosques.png"
 
 
 
+<div class="card activity-card  layouts/skill-page.njk   " >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="card activity-card   " >
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
       href="/fogata-recursos/activities/se-una-mariposa-social/">
-      <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/se-una-mariposa-social.png"  alt="Sé una mariposa social">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/se-una-mariposa-social.png"  alt="Sé una mariposa social">
     </a>
 
 
-      <div class="activity-duration">
-        <span class="material-symbols-outlined">schedule</span> En curso
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/participación comunitaria/">
+	       Participación comunitaria
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         En curso
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/se-una-mariposa-social/">
+             Sé Una Mariposa Social
+	  </a>
+        </h3>
+
       </div>
 
 
-   </div>
-  <div class="card-content">
-    <div class="activity-title-row">
+      <div class="activity-card-overlay-bottom">
 
-      <h3>
-        <a          class="card-title-link"          href="/fogata-recursos/activities/se-una-mariposa-social/">
-          Sé Una Mariposa Social
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
-</a>
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
 
 
-      </h3>
-    </div>
-      <p>
-        <a          class="card-description-link"          href="/fogata-recursos/activities/se-una-mariposa-social/">
-          Crear una campaña en redes sociales para polinizadores.
-        </a>
-      </p>
+	       <div class="hero-branch-slot disabled">
 
 
-<div class="activity-facts">
-
-    <span>
-      <span class="material-symbols-outlined">groups</span>
-      4-20
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">schedule</span>
-      En curso
-    </span>
-
-    <span>
-      <span class="material-symbols-outlined">cake</span>
-      11-22 años
-    </span>
-
-</div>
-
-    <div class="activity-meta-row activity-meta-row-1">
-      <div class="activity-ages">
+		</div>
 
 
 
-              <a
-                href="/fogata-recursos/edades/unidad-scout/">
+	       <div class="hero-branch-slot disabled">
 
+
+		</div>
+
+
+
+  
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/unidad-scout/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/scouts.png"
+                  	  alt="Unidad Scout"
+                  	  title="Unidad Scout">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/caminantes/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/caminantes.png"
+                  	  alt="Caminantes"
+                  	  title="Caminantes">
+		     </a>
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot enabled">
+
+		     <a
+		       href="/fogata-recursos/edades/rovers/">
+		       <img
+		          class="hero-branch-icon"
+			  src="/fogata-recursos/imagenes/ramas/rovers.png"
+                  	  alt="Rovers"
+                  	  title="Rovers">
+		     </a>
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+       <div class="activity-card-body">
+
+
+            <p class="activity-summary">
+              Crear una campaña en redes sociales para polinizadores.
+            </p>
+
+
+
+
+
+
+
+
+       <div class="activity-card-footer">
+
+
+         <div class="activity-card-sdgs">
+
+
+
+
+               <a href="/fogata-recursos/ods/17/">
+
+                 <img
+                   class="sdg-icon"
+                   src="/fogata-recursos/imagenes/ods/ods-17.png"
+                   alt="ODS 17"
+                   title="ODS 17">
+
+               </a>
+
+
+
+
+        </div>
+ 
+
+        <div class="activity-card-badges">
+
+
+
+
+
+              <a href="/fogata-recursos/badges/polinizadores/">
                 <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/scouts.png"
-                  alt="Unidad Scout"
-                  title="Unidad Scout">
-
+                  class="badge-icon"
+                  src="/fogata-recursos/imagenes/insignias/polinizadores.png"
+                  alt="Polinizadores"
+                  title="Polinizadores">
               </a>
 
 
 
 
-
-              <a
-                href="/fogata-recursos/edades/caminantes/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/caminantes.png"
-                  alt="Caminantes"
-                  title="Caminantes">
-
-              </a>
-
-
-
-
-
-              <a
-                href="/fogata-recursos/edades/rovers/">
-
-                <img
-                  class="branch-icon"
-                  src="/fogata-recursos/imagenes/ramas/rovers.png"
-                  alt="Rovers"
-                  title="Rovers">
-
-              </a>
-
-
-
-
-      </div>
-
-      <div class="activity-files">
-
-
+        </div>
       </div>
 
     </div>
-
-    <div class="activity-meta-row activity-meta-row-2">
-
-      <div class="activity-sdgs">
-
-
-
-            <a
-              href="/fogata-recursos/ods/17/">
-
-              <img
-                class="sdg-icon"
-                src="/fogata-recursos/imagenes/ods/ods-17.png"
-                alt="ODS 17"
-                title="ODS 17">
-
-            </a>
-
-
-
-      </div>
-
-      <div class="activity-badges">
-
-
-
-
-
-
-
-
-            <a
-              href="/fogata-recursos/badges/polinizadores/">
-
-
-<img
-  class="badge-icon"
-src="/fogata-recursos/imagenes/insignias/polinizadores.png"
-  alt="Polinizadores"
-  title="Polinizadores">
-
-
-            </a>
-
-
-
-      </div>
-
-    </div>
-
-  </div>
 
 </div>
 

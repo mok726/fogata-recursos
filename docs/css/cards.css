@@ -1,0 +1,672 @@
+/* ==========================================================
+   ACTIVITY CARDS
+   ========================================================== */
+
+@import "./cards-FALTA.css";  /* <-- parche para alturas de imagen */
+/* ==========================================================
+   CARD
+   ========================================================== */
+
+.activity-card{
+
+    display:flex;
+
+    flex-direction:column;
+
+    background:white;
+
+    border:1px solid var(--color-border);
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+    box-shadow:var(--shadow-sm);
+
+    transition:
+        transform .18s ease,
+        box-shadow .18s ease;
+
+}
+
+.activity-card:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:var(--shadow-lg);
+
+}
+
+.activity-card-main-link{
+
+    color:inherit;
+
+    text-decoration:none;
+
+}
+
+
+/* ==========================================================
+   IMAGE
+   ========================================================== */
+
+.activity-card-image{
+
+    position:relative;
+
+    overflow:hidden;
+
+}
+
+.activity-card.full .activity-card-image{
+
+    height:245px;
+
+}
+
+.activity-card.compact .activity-card-image{
+
+    height:180px;
+
+}
+
+.activity-card-image img{
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:cover;
+
+    transition:transform .35s ease;
+
+}
+
+.activity-card:hover img{
+
+    transform:scale(1.04);
+
+}
+
+
+/* ==========================================================
+   HERO
+   ========================================================== */
+
+.activity-card-overlay{
+
+    position:absolute;
+
+    inset:0;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:space-between;
+
+    padding:16px;
+
+    background:
+        linear-gradient(
+
+            to top,
+
+            rgba(0,0,0,.72),
+
+            rgba(0,0,0,.25) 45%,
+
+            rgba(0,0,0,.06)
+
+        );
+
+}
+
+
+/* ==========================================================
+   HERO TOP
+   ========================================================== */
+
+.activity-card-overlay-top{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:flex-start;
+
+}
+
+.activity-type-chip{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    padding:.4rem .85rem;
+
+    border-radius:999px;
+
+    background:rgba(46,107,61,.92);
+
+    color:white;
+
+    font-size:.74rem;
+
+    font-weight:700;
+
+    backdrop-filter:blur(6px);
+
+}
+
+
+/* ==========================================================
+   TITLE
+   ========================================================== */
+
+.activity-card-overlay-middle{
+
+    flex:1;
+
+    display:flex;
+
+    align-items:center;
+
+}
+
+.activity-card-overlay-middle h3{
+
+    margin:0;
+
+    color:white;
+
+    font-size:1.45rem;
+
+    font-weight:800;
+
+    line-height:1.15;
+
+    text-shadow:
+
+        0 2px 8px rgba(0,0,0,.65);
+
+}
+
+.activity-card-overlay-middle a{
+
+    color:white;
+
+}
+
+
+/* ==========================================================
+   HERO BOTTOM
+   ========================================================== */
+
+.activity-card-overlay-bottom{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:flex-end;
+
+    gap:1rem;
+
+}
+
+.activity-age{
+
+    color:white;
+
+    font-size:.95rem;
+
+    font-weight:700;
+
+    text-shadow:
+
+        0 2px 8px rgba(0,0,0,.65);
+
+}
+
+
+/* ==========================================================
+   BRANCHES
+   ========================================================== */
+
+.activity-branches{
+
+    display:flex;
+
+    justify-content:flex-end;
+
+    gap:4px;
+
+}
+
+.hero-branch-slot{
+
+    width:34px;
+
+    height:34px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+}
+
+.hero-branch-slot.disabled{
+
+    opacity:.10;
+
+}
+
+.hero-branch-icon{
+
+    width:32px;
+
+    height:32px;
+
+}
+
+
+/* ==========================================================
+   BODY
+   ========================================================== */
+
+.activity-card-body{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:12px;
+
+    padding:14px 16px 16px;
+
+}
+
+
+/* ==========================================================
+   SUMMARY
+   ========================================================== */
+
+.activity-summary{
+
+    display:-webkit-box;
+
+    -webkit-box-orient:vertical;
+
+    -webkit-line-clamp:2;
+
+    overflow:hidden;
+
+    line-height:1.45;
+
+    font-size:.93rem;
+
+    color:var(--color-text-muted);
+
+    margin:0;
+
+    min-height:2.9em;
+
+}
+
+
+/* ==========================================================
+   FOOTER
+   ========================================================== */
+
+.activity-card-footer{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    gap:1rem;
+
+    margin-top:auto;
+
+}
+
+
+
+
+
+/* ==========================================================
+   ODS + INSIGNIAS
+   ========================================================== */
+
+.activity-card-footer{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    gap:12px;
+
+}
+
+.activity-card-sdgs{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:4px;
+
+    flex:1;
+
+    min-width:0;
+
+}
+
+.activity-card-badges{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:flex-end;
+
+    gap:4px;
+
+    flex-shrink:0;
+
+}
+
+.activity-card-sdgs a,
+.activity-card-badges a{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+}
+
+.activity-card-sdgs .sdg-icon{
+
+    width:50px;
+
+    height:50px;
+
+    object-fit:contain;
+
+}
+
+.activity-card-badges .badge-icon{
+
+    width:58px;
+
+    height:58px;
+
+    object-fit:contain;
+
+}
+
+
+/* ==========================================================
+   +N
+   ========================================================== */
+
+.activity-more-sdg,
+.activity-more-badge{
+
+    width:48px;
+
+    height:48px;
+
+    border-radius:50%;
+
+    background:#edf3ec;
+
+    color:var(--color-primary);
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-weight:700;
+
+    font-size:.9rem;
+
+}
+
+.activity-more-badge{
+
+    width:56px;
+
+    height:56px;
+
+}
+
+
+/* ==========================================================
+   COMPACT
+   ========================================================== */
+
+.activity-card.compact .activity-card-body{
+
+    display:none;
+
+}
+
+.activity-card.compact{
+
+    padding-bottom:0;
+
+}
+
+
+/* ==========================================================
+   FULL
+   ========================================================== */
+
+.activity-card.full{
+
+    height:100%;
+
+}
+
+.activity-card.full .activity-card-body{
+
+    flex:1;
+
+}
+
+
+/* ==========================================================
+   REQUIRED
+   ========================================================== */
+
+.activity-card-required{
+
+    border-left:6px solid #d97706;
+
+}
+
+
+/* ==========================================================
+   FEATURED
+   ========================================================== */
+
+.activity-card-featured{
+
+    border-left:6px solid #1976d2;
+
+}
+
+
+/* ==========================================================
+   ORIGINAL
+   ========================================================== */
+
+.activity-card-original{
+
+    border-left:6px solid #2e7d32;
+
+}
+
+
+/* ==========================================================
+   ORIGINAL STAR
+   ========================================================== */
+
+.activity-original{
+
+    position:absolute;
+
+    top:12px;
+
+    right:12px;
+
+    width:36px;
+
+    height:36px;
+
+    border-radius:50%;
+
+    background:#2e7d32;
+
+    color:white;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.25);
+
+    z-index:5;
+
+}
+
+.activity-original .material-symbols-outlined{
+
+    font-size:20px;
+
+}
+
+
+/* ==========================================================
+   DOWNLOAD
+   ========================================================== */
+
+.activity-download{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:.35rem;
+
+    color:var(--color-primary);
+
+    font-size:.85rem;
+
+}
+
+
+/* ==========================================================
+   DRAFT
+   ========================================================== */
+
+.activity-draft-pill{
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:.35rem;
+
+    padding:.3rem .75rem;
+
+    border-radius:999px;
+
+    background:#fff3cd;
+
+    color:#7b5b00;
+
+    font-size:.72rem;
+
+    font-weight:700;
+
+}
+
+
+/* ==========================================================
+   HOVER
+   ========================================================== */
+
+.activity-card:hover .activity-card-overlay{
+
+    background:
+        linear-gradient(
+
+            to top,
+
+            rgba(0,0,0,.78),
+
+            rgba(0,0,0,.32) 45%,
+
+            rgba(0,0,0,.10)
+
+        );
+
+}
+
+
+/* ==========================================================
+   RESPONSIVE
+   ========================================================== */
+
+@media(max-width:900px){
+
+    .activity-card.full .activity-card-image{
+
+        height:210px;
+
+    }
+
+}
+
+@media(max-width:650px){
+
+    .activity-card-overlay-middle h3{
+
+        font-size:1.2rem;
+
+    }
+
+    .activity-card-sdgs .sdg-icon{
+
+        width:42px;
+
+        height:42px;
+
+    }
+
+    .activity-card-badges .badge-icon{
+
+        width:50px;
+
+        height:50px;
+
+    }
+
+}
+
+

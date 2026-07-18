@@ -1,0 +1,87 @@
+/* ==========================================================
+   SEARCH
+   Buscador y resultados de búsqueda
+   ========================================================== */
+
+/* ==========================================================
+   CAJA DE BÚSQUEDA
+   ========================================================== */
+
+.search-box {
+  margin: 2rem 0 3rem;
+}
+
+#search-input,
+#activity-search {
+  width: 100%;
+
+  padding: 1rem 1.2rem;
+
+  border: 1px solid #d9d9d9;
+  border-radius: 16px;
+
+  background: white;
+
+  font-size: 1rem;
+
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.04);
+
+  transition:
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+#search-input:focus,
+#activity-search:focus {
+  outline: none;
+
+  border-color: #2c5e37;
+
+  box-shadow: 0 0 0 4px rgba(44, 94, 55, 0.08);
+}
+
+/* ==========================================================
+   RESULTADOS
+   ========================================================== */
+
+.search-results {
+  margin-top: 2rem;
+}
+
+.search-result {
+  margin-bottom: 1rem;
+  padding: 1.2rem;
+
+  background: white;
+
+  border-radius: 18px;
+
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+
+  transition:
+    transform 0.15s ease,
+    box-shadow 0.15s ease;
+}
+
+.search-result:hover {
+  transform: translateY(-2px);
+
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.search-result a {
+  color: #355b38;
+
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.search-result p {
+  margin-top: 0.6rem;
+
+  color: #555;
+
+  line-height: 1.6;
+}
+
+

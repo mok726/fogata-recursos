@@ -1,0 +1,292 @@
+/* ======================================================
+   FOGATA DE RECURSOS
+
+   CHIPS.CSS
+
+   Elementos pequeños de clasificación:
+   - Edades
+   - Duración
+   - ODS
+   - Etiquetas
+   - Estados
+====================================================== */
+
+
+/* ======================================================
+   BASE CHIP
+====================================================== */
+
+.chip {
+
+  display:inline-flex;
+
+  align-items:center;
+
+  gap:.35rem;
+
+  padding:.3rem .7rem;
+
+  border-radius:999px;
+
+  background:#eef3ed;
+
+  color:var(--color-primary);
+
+  font-size:.8rem;
+
+  font-weight:600;
+
+  line-height:1;
+
+  white-space:nowrap;
+
+}
+
+
+.chip:hover {
+
+  text-decoration:none;
+
+}
+
+
+
+
+/* ======================================================
+   ICON INSIDE CHIP
+====================================================== */
+
+
+.chip .material-symbols-outlined {
+
+  font-size:1rem;
+
+}
+
+
+
+
+/* ======================================================
+   AGE CHIP
+
+   Ramas / edades
+====================================================== */
+
+
+.age-chip {
+
+  background:#f3f5e8;
+
+  color:#556b2f;
+
+}
+
+
+
+.age-chip:hover {
+
+  background:#e7edcf;
+
+}
+
+
+
+
+/* ======================================================
+   DURATION CHIP
+====================================================== */
+
+
+.duration-chip {
+
+  background:#eef3ff;
+
+  color:#3657a7;
+
+}
+
+
+
+
+/* ======================================================
+   ODS CHIP
+====================================================== */
+
+
+.sdg-chip {
+
+  padding:0;
+
+  background:transparent;
+
+}
+
+
+
+.sdg-chip img {
+
+  width:42px;
+
+  height:42px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+/* ======================================================
+   BADGE CHIP
+====================================================== */
+
+
+.badge-chip {
+
+  background:#fff7e8;
+
+  color:#8a6400;
+
+}
+
+
+
+.badge-chip img {
+
+  width:32px;
+
+  height:32px;
+
+  object-fit:contain;
+
+}
+
+
+
+
+/* ======================================================
+   STATUS CHIPS
+
+   Estados especiales
+====================================================== */
+
+
+.chip-required {
+
+  background:#fff0f0;
+
+  color:#b42318;
+
+  border:1px solid #f2b8b5;
+
+}
+
+
+
+.chip-featured {
+
+  background:#fff8dd;
+
+  color:#8a6400;
+
+  border:1px solid #ead28a;
+
+}
+
+
+
+.chip-original {
+
+  background:#edf7e9;
+
+  color:#356b27;
+
+  border:1px solid #b8d8ad;
+
+}
+
+
+
+.chip-complementary {
+
+  background:#edf3ff;
+
+  color:#2454a6;
+
+  border:1px solid #b8ccef;
+
+}
+
+
+
+
+/* ======================================================
+   TAG CLOUD
+====================================================== */
+
+
+.tag-cloud {
+
+  display:flex;
+
+  flex-wrap:wrap;
+
+  gap:.8rem;
+
+}
+
+
+
+.tag-link {
+
+  display:inline-flex;
+
+  align-items:center;
+
+  padding:.55rem 1rem;
+
+  border-radius:999px;
+
+  background:white;
+
+  color:var(--color-text);
+
+  box-shadow:var(--shadow-small);
+
+  transition:
+    transform .15s ease,
+    box-shadow .15s ease;
+
+}
+
+
+
+.tag-link:hover {
+
+  transform:translateY(-2px);
+
+  box-shadow:var(--shadow-medium);
+
+  text-decoration:none;
+
+}
+
+
+
+
+/* ======================================================
+   RESPONSIVE
+====================================================== */
+
+
+@media(max-width:700px){
+
+  .chip {
+
+    font-size:.75rem;
+
+  }
+
+}
+
+

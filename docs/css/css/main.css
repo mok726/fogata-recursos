@@ -1,0 +1,18 @@
+
+@import "./variables.css";
+@import "./components/layout.css";
+/* Importamos los m  dulos de layout separados */
+@import './components/navbar.css';
+@import './components/footer.css';
+@import './pages/badges.css';
+@import './components/components.css';
+@import './components/responsive.css';
+
+/* seguimos con la lista comun de m  dulos */
+@import "./components/cards.css";
+@import "./components/cards-v2.css";
+@import "./pages/activity.css";
+@import "./pages/home.css";
+@import "./components/search.css";
+@import "./pages/ages.css";
+@import "./components/disclosure.css";
