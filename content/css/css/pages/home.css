@@ -138,7 +138,7 @@
 .hero-button.secondary {
   background: rgba(255,255,255,0.16);
 
-  color: white;
+  /* color: white; */
 
   backdrop-filter: blur(4px);
 }
