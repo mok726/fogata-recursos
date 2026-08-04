@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "clean": "npx rimraf docs",
     "build:11ty": "eleventy",
     "build:search": "pagefind --site docs",
-    "build": "npm run build:11ty && npm run build:search",
+    "build": "npm run clean && npm run build:11ty && npm run build:search",
     "serve": "npx @11ty/eleventy --serve",
     "dev": "npm run build && npm run serve"
   },

@@ -441,13 +441,13 @@
 .timeline-preparation li,
 .timeline-development li,
 .timeline-closing li {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.25rem;
 }
 
 /* ---------- Tarjetas de timeline (con ícono y línea) ---------- */
 .timeline-card {
   display: grid;
-  grid-template-columns: 74px 1fr;
+/*  grid-template-columns: 74px 1fr; */
   padding: 0;
   overflow: hidden;
 }
@@ -483,6 +483,8 @@
 
 .timeline-content h2 {
   text-transform: uppercase;
+  padding: 0px 0px 0px 50px;
+
 }
 
 /* Colores específicos para cada fase */
