@@ -1,0 +1,363 @@
+/* ======================================================
+   NAVBAR
+   ====================================================== */
+
+.navbar {
+
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 2rem;
+
+  padding: 0.8rem clamp(1rem, 3vw, 3rem);
+
+  background: white;
+
+  border-bottom: 1px solid #e6e8e2;
+
+  box-sizing: border-box;
+
+  position: relative;
+
+  z-index: 100;
+
+}
+
+
+/* ======================================================
+   SECCIONES
+   ====================================================== */
+
+.navbar-left,
+.navbar-center,
+.navbar-right {
+
+  display: flex;
+
+  align-items: center;
+
+}
+
+
+.navbar-left {
+
+  flex: 1;
+
+}
+
+
+.navbar-center {
+
+  justify-content: center;
+
+  gap: 1.5rem;
+
+}
+
+
+.navbar-right {
+
+  flex: 1;
+
+  justify-content: flex-end;
+
+  gap: .5rem;
+
+}
+
+
+/* ======================================================
+   BRAND
+   ====================================================== */
+
+.navbar-brand {
+
+  display: flex;
+
+  align-items: center;
+
+  gap: .75rem;
+
+  text-decoration: none;
+
+  color: #355b38;
+
+  font-weight: 700;
+
+  font-size: 1.1rem;
+
+}
+
+
+.navbar-brand img {
+
+  width: 38px;
+
+  height: 38px;
+
+  object-fit: contain;
+
+}
+
+
+/* ======================================================
+   LINKS PRINCIPALES
+   ====================================================== */
+
+.navbar-center > a,
+.navbar-dropdown-button {
+
+  display: inline-flex;
+
+  align-items: center;
+
+  gap: .3rem;
+
+  border: none;
+
+  background: transparent;
+
+  color: #374151;
+
+  text-decoration: none;
+
+  font-size: .95rem;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  padding: .5rem .75rem;
+
+  border-radius: 999px;
+
+  transition:
+    background .2s ease,
+    color .2s ease;
+
+}
+
+
+.navbar-center > a:hover,
+.navbar-dropdown-button:hover {
+
+  background: #f1f5f1;
+
+  color: #355b38;
+
+}
+
+
+/* ======================================================
+   DROPDOWN
+   ====================================================== */
+
+.navbar-dropdown {
+
+  position: relative;
+
+}
+
+
+.navbar-dropdown-button {
+
+  font-family: inherit;
+
+}
+
+
+.navbar-dropdown-button .material-symbols-outlined {
+
+  font-size: 1.1rem;
+
+}
+
+
+.navbar-dropdown-content {
+
+  position: absolute;
+
+  top: calc(100% + .5rem);
+
+  left: 0;
+
+  min-width: 220px;
+
+  padding: .75rem;
+
+  background: white;
+
+  border-radius: 18px;
+
+  border: 1px solid #e6e8e2;
+
+  box-shadow:
+    0 10px 30px rgba(0,0,0,.08);
+
+  display: none;
+
+}
+
+
+.navbar-dropdown:hover
+.navbar-dropdown-content {
+
+  display: flex;
+
+  flex-direction: column;
+
+}
+
+
+.navbar-dropdown-content a {
+
+  padding: .65rem .8rem;
+
+  border-radius: 10px;
+
+  text-decoration: none;
+
+  color: #374151;
+
+  font-size: .9rem;
+
+  transition:
+    background .2s ease,
+    color .2s ease;
+
+}
+
+
+.navbar-dropdown-content a:hover {
+
+  background: #f1f5f1;
+
+  color: #355b38;
+
+}
+
+
+/* ======================================================
+   ICON BUTTONS
+   ====================================================== */
+
+.navbar-icon-button {
+
+  width: 40px;
+
+  height: 40px;
+
+  display: inline-flex;
+
+  align-items: center;
+
+  justify-content: center;
+
+  border-radius: 50%;
+
+  color: #355b38;
+
+  text-decoration: none;
+
+  transition:
+    background .2s ease,
+    transform .2s ease;
+
+}
+
+
+.navbar-icon-button:hover {
+
+  background: #eef5ea;
+
+  transform: translateY(-2px);
+
+}
+
+
+.navbar-icon-button .material-symbols-outlined {
+
+  font-size: 1.4rem;
+
+}
+
+
+/* ======================================================
+   RESPONSIVE
+   ====================================================== */
+
+@media (max-width: 900px) {
+
+
+  .navbar {
+
+    flex-wrap: wrap;
+
+    gap: 1rem;
+
+  }
+
+
+  .navbar-left {
+
+    flex: auto;
+
+  }
+
+
+  .navbar-center {
+
+    order: 3;
+
+    width: 100%;
+
+    justify-content: flex-start;
+
+    overflow-x: auto;
+
+    padding-bottom: .25rem;
+
+  }
+
+
+  .navbar-right {
+
+    flex: auto;
+
+  }
+
+}
+
+
+@media (max-width: 600px) {
+
+
+  .navbar-brand span {
+
+    display: none;
+
+  }
+
+
+  .navbar-center {
+
+    gap: .5rem;
+
+  }
+
+
+  .navbar-center > a,
+  .navbar-dropdown-button {
+
+    font-size: .85rem;
+
+    padding: .4rem .6rem;
+
+  }
+
+}
+
+

@@ -1,0 +1,169 @@
+/* ======================================================
+   FOGATA DE RECURSOS
+   BASE.CSS
+
+   Estilos globales:
+   - Variables
+   - Reset
+   - Tipografía
+   - Elementos HTML comunes
+   - Iconos globales
+====================================================== */
+
+
+/* ======================================================
+   VARIABLES
+====================================================== */
+
+:root {
+
+  --color-primary: #355b38;
+  --color-primary-dark: #24462a;
+
+  --color-secondary: #e98a15;
+
+  --color-text: #233126;
+  --color-text-muted: #667067;
+
+  --color-background: #f5f6f2;
+  --color-surface: #ffffff;
+
+  --color-border: #e6e8e2;
+
+
+  --radius-small: 12px;
+  --radius-medium: 18px;
+  --radius-large: 28px;
+
+
+  --shadow-small:
+    0 2px 8px rgba(0,0,0,.05);
+
+  --shadow-medium:
+    0 8px 24px rgba(0,0,0,.08);
+
+}
+
+
+/* ======================================================
+   RESET
+====================================================== */
+
+*,
+*::before,
+*::after {
+
+  box-sizing: border-box;
+
+}
+
+
+html {
+
+  scroll-behavior: smooth;
+
+}
+
+
+body {
+
+  margin: 0;
+
+  background: var(--color-background);
+
+  color: var(--color-text);
+
+  font-family:
+    "Inter",
+    Arial,
+    Helvetica,
+    sans-serif;
+
+  line-height: 1.6;
+
+}
+
+
+/* ======================================================
+   ELEMENTOS HTML
+====================================================== */
+
+img {
+
+  max-width: 100%;
+
+  height: auto;
+
+}
+
+
+a {
+
+  color: var(--color-primary);
+
+  text-decoration: none;
+
+}
+
+
+a:hover {
+
+  text-decoration: underline;
+
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+
+  color: var(--color-text);
+
+  line-height: 1.2;
+
+}
+
+
+p {
+
+  margin-top: 0;
+
+}
+
+
+/* ======================================================
+   MATERIAL SYMBOLS
+====================================================== */
+
+.material-symbols-outlined {
+
+  font-size:1.2rem;
+
+  vertical-align:middle;
+
+  line-height:1;
+
+}
+
+
+
+
+
+
+
+
+
+button {
+
+  font-family: inherit;
+
+}
+
+::selection {
+
+  background: var(--color-primary);
+
+  color:white;
+
+}
