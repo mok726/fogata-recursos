@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+
+  <title>Juego del Agua Caliente</title>
+
+
+
+<!-- Google Fonts (text) – keep if you use it -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400;14..32,600;14..32,700&display=swap" rel="stylesheet">
+
+<!-- Google Material Symbols (icons) – add this -->
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+
+
+
+<!--
+<script src="https://unpkg.com/pagedjs/dist/paged.polyfill.js"></script>
+-->
+
+  <link rel="stylesheet" href="/fogata-recursos/css/components/print.css">
+</head>
+
+<body>
+
+<table class="print-document">
+
+  <thead>
+
+    <tr>
+      <td>
+
+
+
+<header class="print-header">
+
+  <img
+    src="/fogata-recursos/imagenes/favicon.png"
+    class="header-logo"
+    alt="Fogata">
+
+  <div class="header-center">
+    Fogata de Recursos
+  </div>
+
+  <img
+    src="/fogata-recursos/imagenes/favicon.png"
+    class="header-logo"
+    alt="Fogata">
+
+</header>
+
+
+
+<div class="header-line"></div>
+
+      </td>
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+      <td>
+
+
+<main class="print-page">
+
+
+<aside class="print-sidebar">
+
+  <div class="sidebar-box">
+
+    <div class="sidebar-section">
+
+  <h3>Ficha Tecnica</h3>
+
+
+      <div class="meta-item">
+        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">schedule</span>  1 hora
+      </div>
+
+      <div class="meta-item">
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">productivity</span>  5-17 años
+      </div>
+
+       <div class="meta-item">
+        <span><span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">groups</span>  6-20</span>
+      </div>
+
+
+       <div class="meta-item">
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">share_location</span>  Interior
+      </div>
+
+
+  <div class="meta-item">
+    <div class="meta-label">Ejecucion:</div>
+    <div class="meta-value">
+      ★★
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Organizacion:</div>
+    <div class="meta-value">
+      ★★
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Ludico:</div>
+    <div class="meta-value">
+      ★★★★★
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Reflexivo:</div>
+    <div class="meta-value">
+      ★★★★
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Activo:</div>
+    <div class="meta-value">
+      ★★★
+    </div>
+  </div>
+
+
+
+<!--
+  <div class="meta-item">
+    <div class="meta-label"> ^area:</div>
+    <div class="meta-value">
+      Naturaleza
+    </div>
+  </div>
+-->
+
+  <div class="meta-item">
+    <div class="meta-label">Preparacion:</div>
+    <div class="meta-value">
+      15 min
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Espacio:</div>
+    <div class="meta-value">
+      Salón con espacio para moverse
+    </div>
+  </div>
+
+
+
+
+  <div class="meta-item">
+    <div class="meta-label">ID:</div>
+    <div class="meta-value">
+      agua-C50
+    </div>
+  </div>
+
+  <div class="meta-item">
+    <div class="meta-label">Version:</div>
+    <div class="meta-value">
+        BORRADOR
+    </div>
+  </div>
+
+
+
+<!--
+  <div class="meta-item">
+    <div class="meta-label">Creado:</div>
+    <div class="meta-value">
+    </div>
+  </div>
+-->
+  <div class="meta-item">
+    <div class="meta-label">Impreso:</div>
+    <div class="meta-value">
+      <span id="print-date"></span>
+    </div>
+  </div>
+
+
+
+
+
+    </div>
+
+    <div class="sidebar-section">
+      <h3>Materiales</h3>
+      <ul>
+        <li>Papel rojo de construcción</li>
+        <li>Tijeras</li>
+        <li>Cinta adhesiva</li>
+        <li>Papel</li>
+        <li>Lápiz</li>
+        <li>Cesta pequeña</li>
+      </ul>
+    </div>
+
+    <div class="sidebar-section">
+      <h3>Competencias</h3>
+      <ul>
+        <li>Comunicación</li>
+        <li>Pensamiento crítico</li>
+        <li>Conciencia social</li>
+      </ul>
+    </div>
+
+    <div class="sidebar-section">
+      <h3>Insignias</h3>
+
+      <div class="icon-grid">
+
+          <img 
+             src="/fogata-recursos/imagenes/insignias/agua.png" 
+                alt="Agua"   title="Agua" class="badge-icon">
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <h3>ODS</h3>
+       <div class="icon-grid">
+          <img
+            src="/fogata-recursos/imagenes/ods/ods-6.png"
+            class="ods-icon"
+            alt="ODS 6">
+          <img
+            src="/fogata-recursos/imagenes/ods/ods-10.png"
+            class="ods-icon"
+            alt="ODS 10">
+      </div>    
+    </div>
+
+
+
+
+<div class="sidebar-section">
+
+    <div class="sidebar-section">
+      <h3>M  todo Scout</h3>
+      <ul>
+        <li>Aprender jugando</li>
+        <li>Sistema de equipos</li>
+      </ul>
+    </div>
+
+    <div class="sidebar-section">
+      <h3>Valores Scout</h3>
+      <ul>
+        <li>Curiosidad y Apertura al aprendizaje</li>
+        <li>Responsabilidad</li>
+        <li>Solidaridad</li>
+      </ul>
+    </div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="sidebar-section">
+
+  <h3>Ver online</h3>
+
+  <img
+    src="/fogata-recursos/imagenes/actividades/qr/juego-agua-caliente.png"
+    class="activity-qr"
+    alt="QR de la actividad">
+
+  <div class="qr-url">
+    https://mok726.github.io/fogata-recursos/activities/juego-agua-caliente/
+  </div>
+
+</div>
+
+  </div>
+
+</aside>
+
+
+  <section class="print-content">
+
+    <h1>Juego del Agua Caliente</h1>
+
+    <div class="activity-summary">
+      Juego de vocabulario sobre el agua.
+    </div>
+
+
+
+
+
+
+      <section class="print-section">
+
+        <h2>Preparación</h2>
+
+        <ol>
+<li>Recorta gotas de agua de papel rojo de construcción.</li>
+<li>Escribe cada término y su definición en papeles separados.</li>
+<li>Coloca los términos y definiciones en una cesta.</li>
+</ol>
+
+      </section>
+
+
+
+
+      <section class="print-section">
+
+        <h2>Desarrollo</h2>
+
+        <h3>Paso 1: Explicación del juego</h3><ol>
+<li>Explica a tu grupo que van a jugar un juego que les ayudará a explorar algunos términos relacionados con los problemas que enfrentan las personas debido a la falta de acceso a agua limpia y saneamiento adecuado.</li>
+<li>El objetivo del juego es mantenerse fuera del "agua caliente".</li>
+</ol><h3>Paso 2: Desarrollo del juego</h3><ol start="3">
+<li>Los participantes deben pasar al frente de la sala individualmente o en parejas y sacar un término de la cesta (separa los términos de las definiciones antes de colocarlos en un recipiente).</li>
+<li>Si los participantes trabajan en parejas, cada uno tendrá la oportunidad de explicar el significado de un término que saque. Si tienen éxito, simplemente regresan a sus asientos para continuar jugando.</li>
+<li>Si los participantes no pueden relacionar el significado del término, pueden tomar una gota de agua roja y pegarla en su escritorio para que el líder o maestro pueda ver que ya no están participando y esperarán hasta la siguiente ronda para reingresar al juego.</li>
+</ol><h3>Paso 3: Práctica de vocabulario</h3><ol start="6">
+<li>Una vez que hayas terminado de revisar los significados de todas las palabras, pide a los participantes que hagan una oración con cada palabra.</li>
+</ol>
+
+      </section>
+
+
+
+
+      <section class="print-section">
+
+        <h2>Vocabulario</h2>
+
+        <table>
+<thead>
+<tr>
+<th>Término</th>
+<th>Significado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Escaso</strong></td>
+<td>No fácil de encontrar o conseguir.</td>
+</tr>
+<tr>
+<td><strong>Potable</strong></td>
+<td>Apto o adecuado para beber.</td>
+</tr>
+<tr>
+<td><strong>Pozo</strong></td>
+<td>Un agujero perforado en la tierra para obtener agua.</td>
+</tr>
+<tr>
+<td><strong>Enfermedad</strong></td>
+<td>Afección extrema de la salud.</td>
+</tr>
+<tr>
+<td><strong>Saneamiento</strong></td>
+<td>Aplicación de medidas para mantener condiciones higiénicas que ayudan a prevenir enfermedades.</td>
+</tr>
+<tr>
+<td><strong>Contaminar</strong></td>
+<td>Hacer inadecuado por contacto o mezcla con algo impuro.</td>
+</tr>
+<tr>
+<td><strong>Accesible</strong></td>
+<td>Fácil de abordar, alcanzar, entrar o usar.</td>
+</tr>
+<tr>
+<td><strong>Contaminación</strong></td>
+<td>Medio ambiente contaminado con sustancias nocivas.</td>
+</tr>
+<tr>
+<td><strong>Higiene</strong></td>
+<td>Prácticas, como el lavado frecuente de manos, que contribuyen a la promoción y preservación de la limpieza y la salud.</td>
+</tr>
+<tr>
+<td><strong>Rural</strong></td>
+<td>Del campo.</td>
+</tr>
+<tr>
+<td><strong>Desastre</strong></td>
+<td>Un evento que resulta en gran daño o destrucción.</td>
+</tr>
+<tr>
+<td><strong>Sed</strong></td>
+<td>Necesidad de algo para beber.</td>
+</tr>
+<tr>
+<td><strong>Cambio climático</strong></td>
+<td>Cambio en el estado general del clima de la Tierra (como temperatura y lluvia) causado tanto por causas naturales como humanas.</td>
+</tr>
+<tr>
+<td><strong>Inundación</strong></td>
+<td>Cuando un área de tierra se cubre de agua debido a, por ejemplo, lluvias intensas.</td>
+</tr>
+<tr>
+<td><strong>Sequía</strong></td>
+<td>Un largo período de lluvias inusualmente bajas, que lleva a una escasez de agua.</td>
+</tr>
+<tr>
+<td><strong>Aguas residuales</strong></td>
+<td>Agua que no está limpia porque ya ha sido utilizada por hogares, negocios, fábricas, etc.</td>
+</tr>
+<tr>
+<td><strong>Derechos humanos</strong></td>
+<td>Cosas básicas que todas las personas deberían tener o a las que tienen derecho, como justicia, libertad de expresión y acceso a agua potable y saneamiento.</td>
+</tr>
+<tr>
+<td><strong>Consumo</strong></td>
+<td>Cuando alguien usa, come o bebe algo.</td>
+</tr>
+</tbody>
+</table>
+
+      </section>
+
+
+
+
+      <section class="print-section">
+
+        <h2>Cierre</h2>
+
+        <ul>
+<li>¿Por qué los países consumen más agua cada vez?</li>
+<li>¿Para qué necesitas agua? ¿Necesita esta agua estar limpia?</li>
+<li>¿Por qué es difícil para muchas personas encontrar agua potable limpia? ¿Cómo afecta esto a la vida de las personas?</li>
+</ul>
+
+      </section>
+
+
+
+
+      <section class="print-section">
+
+        <h2>Texto original completo de la actividad</h2>
+
+        <p><strong>English version:</strong></p><p><strong>Title:</strong> Hot Water Game</p><p><strong>Level:</strong> 1 2</p><p><strong>Aim:</strong> To understand some key terms related to global water pressures.</p><p><strong>Materials:</strong> Red construction paper, scissors, adhesive tape, paper, pencil, small basket.</p><p><strong>How to do it:</strong></p><ol>
+<li>Explain to your group that they are playing a game that will help them explore some terms related to the problems that people are facing due to the lack of access to clean water and proper sanitation. The object of the game is to stay out of "Hot Water."</li>
+<li>To play, the participants must come to the front of the room either individually or in pairs and draw a term out of the basket (separate the terms from the definitions before placing in a container). If the participants are working in pairs they will each have an opportunity to explain the meaning of a single term they draw. If successful, they simply return to their seats to continue to play. If the participants cannot relate the meaning of the term they may pick up a red droplet of water to tape to their desk so that the leader or teacher can see they are no longer participating and will wait until the next round to re-enter the game.</li>
+<li>Once you have finished reviewing the meanings of all the words, ask the participants to make a sentence with each word.</li>
+</ol><p><strong>Vocabulary:</strong></p><ul>
+<li>Scarce: not easy to find or get.</li>
+<li>Potable: fit or suitable for drinking.</li>
+<li>Well: a hole drilled into the earth to obtain water.</li>
+<li>Disease: extreme illness.</li>
+<li>Sanitation: the application of measures to maintain clean, hygienic conditions that help prevent disease.</li>
+<li>Contaminate: to make unsuitable by contact or mixture with something unclean.</li>
+<li>Accessible: easy to approach, reach, enter, or use.</li>
+<li>Pollution: natural environment being contaminated with harmful substances.</li>
+<li>Hygiene: practices, such as frequent hand washing, that contribute to the promotion and preservation of cleanliness and health.</li>
+<li>Rural: of the countryside.</li>
+<li>Disaster: an event that results in great harm or damage.</li>
+<li>Thirst: a need for something to drink.</li>
+<li>Climate change: a change in the overall state of the Earth's climate (such as temperature and rainfall) caused both by natural and human causes.</li>
+<li>Flood: when an area of land becomes covered by water due to, for example, heavy rain.</li>
+<li>Drought: a long period of unusually low rainfall, leading to a shortage of water.</li>
+<li>Wastewater: water that is not clean because it has already been used by homes, businesses, factories etc.</li>
+<li>Human rights: the basic things which all people should have or is entitled to, such as justice, freedom to say what you think and access to safe drinking water and sanitation.</li>
+<li>Consumption: when someone uses, eats, or drinks something.</li>
+</ul><p><strong>Discussion:</strong></p><ul>
+<li>Why are countries consuming more water every time?</li>
+<li>What do you need water for? Does this water need to be clean?</li>
+<li>Why is it difficult for many people to find clean drinking water? How does this impact people lives?</li>
+</ul><p><strong>Versión en español:</strong></p><p><strong>Título:</strong> Juego del Agua Caliente</p><p><strong>Niveles:</strong> 1, 2</p><p><strong>Objetivo:</strong> Comprender algunos términos clave relacionados con las presiones globales sobre el agua.</p><p><strong>Materiales:</strong> Papel rojo de construcción, tijeras, cinta adhesiva, papel, lápiz, cesta pequeña.</p><p><strong>Desarrollo:</strong></p><ol>
+<li>Explica a tu grupo que van a jugar un juego que les ayudará a explorar algunos términos relacionados con los problemas que enfrentan las personas debido a la falta de acceso a agua limpia y saneamiento adecuado. El objetivo del juego es mantenerse fuera del "agua caliente".</li>
+<li>Para jugar, los participantes deben pasar al frente de la sala individualmente o en parejas y sacar un término de la cesta (separa los términos de las definiciones antes de colocarlos en un recipiente). Si los participantes trabajan en parejas, cada uno tendrá la oportunidad de explicar el significado de un término que saque. Si tienen éxito, simplemente regresan a sus asientos para continuar jugando. Si los participantes no pueden relacionar el significado del término, pueden tomar una gota de agua roja y pegarla en su escritorio para que el líder o maestro pueda ver que ya no están participando y esperarán hasta la siguiente ronda para reingresar al juego.</li>
+<li>Una vez que hayas terminado de revisar los significados de todas las palabras, pide a los participantes que hagan una oración con cada palabra.</li>
+</ol><p><strong>Vocabulario:</strong></p><ul>
+<li>Escaso: no fácil de encontrar o conseguir.</li>
+<li>Potable: apto o adecuado para beber.</li>
+<li>Pozo: un agujero perforado en la tierra para obtener agua.</li>
+<li>Enfermedad: afección extrema de la salud.</li>
+<li>Saneamiento: aplicación de medidas para mantener condiciones higiénicas que ayudan a prevenir enfermedades.</li>
+<li>Contaminar: hacer inadecuado por contacto o mezcla con algo impuro.</li>
+<li>Accesible: fácil de abordar, alcanzar, entrar o usar.</li>
+<li>Contaminación: medio ambiente contaminado con sustancias nocivas.</li>
+<li>Higiene: prácticas, como el lavado frecuente de manos, que contribuyen a la promoción y preservación de la limpieza y la salud.</li>
+<li>Rural: del campo.</li>
+<li>Desastre: un evento que resulta en gran daño o destrucción.</li>
+<li>Sed: necesidad de algo para beber.</li>
+<li>Cambio climático: cambio en el estado general del clima de la Tierra (como temperatura y lluvia) causado tanto por causas naturales como humanas.</li>
+<li>Inundación: cuando un área de tierra se cubre de agua debido a, por ejemplo, lluvias intensas.</li>
+<li>Sequía: un largo período de lluvias inusualmente bajas, que lleva a una escasez de agua.</li>
+<li>Aguas residuales: agua que no está limpia porque ya ha sido utilizada por hogares, negocios, fábricas, etc.</li>
+<li>Derechos humanos: cosas básicas que todas las personas deberían tener o a las que tienen derecho, como justicia, libertad de expresión y acceso a agua potable y saneamiento.</li>
+<li>Consumo: cuando alguien usa, come o bebe algo.</li>
+</ul><p><strong>Discusión:</strong></p><ul>
+<li>¿Por qué los países consumen más agua cada vez?</li>
+<li>¿Para qué necesitas agua? ¿Necesita esta agua estar limpia?</li>
+<li>¿Por qué es difícil para muchas personas encontrar agua potable limpia? ¿Cómo afecta esto a la vida de las personas?</li>
+</ul><hr><p><strong>Citación requerida / Required citation:</strong></p><p>FAO. 2013. Water Challenge Badge - Resource and Activity Guide. YUNGA learning and action series. Rome.</p><p><strong>Traducción / Translation:</strong></p><p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p><p>This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition.</p><p>NIVELES: 1, 2</p><hr>
+
+      </section>
+
+
+
+
+      <section class="print-section">
+
+        <h2>Checklist de verificación</h2>
+
+        <ul>
+<li>[x] Título llamativo</li>
+<li>[x] Duración realista</li>
+<li>[x] Rango de edad correcto (5-15 años, niveles 1-2)</li>
+<li>[x] Materiales listados</li>
+<li>[x] Responsable definido</li>
+<li>[x] ODS numerados</li>
+<li>[x] Código de insignia</li>
+<li>[x] Enlaces (si hay)</li>
+<li>[x] Referencias completas</li>
+<li>[x] Licencia y atribuciones</li>
+<li>[x] Desarrollo con pasos claros</li>
+<li>[x] Pregunta de cierre relevante</li>
+<li>[x] Texto original en inglés incluido</li>
+<li>[x] Traducción al español incluida</li>
+<li>[x] Nota de traducción incluida</li>
+<li>[x] Citación requerida incluida</li>
+<li>[x] Todas las ramas incluidas (castores[], lobatos[16,32], scouts[20,29], caminantes[19,28], rovers[10,24])</li>
+</ul>
+
+      </section>
+
+
+
+    <section class="print-section">
+
+      <h2>Referencias</h2>
+
+      <ul>
+
+        <li>
+
+          <strong>Water Challenge Badge - Resource and Activity Guide</strong>
+
+          — FAO
+
+          <br>
+          https://www.fao.org/yunga
+
+        </li>
+
+      </ul>
+
+    </section>
+
+
+<section class="print-section">
+
+  <h2>Recursos descargables</h2>
+
+  <div class="resource-list">
+
+
+  </div>
+
+</section>
+
+
+
+
+
+<section class="print-section credits-section">
+
+  <h2>Créditos</h2>
+
+
+    <h3>Autoría</h3>
+
+    <ul>
+      <li>FAO</li>
+      <li>YUNGA</li>
+    </ul>
+
+
+
+    <h3>Fuentes</h3>
+
+    <ul>
+      <li>FAO - Water Challenge Badge</li>
+    </ul>
+
+
+</section>
+
+
+
+
+
+<section class="print-section">
+
+  <h2>Licencia</h2>
+  <table> <tr><td>
+
+    <img
+      src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+      alt="Creative Commons BY-NC-SA 3.0 IGO"
+      class="license-image">
+
+  </td><td>
+
+    <strong>Creative Commons BY-NC-SA 3.0 IGO</strong>
+
+      <br>
+      https://creativecommons.org/licenses/by-nc-sa/3.0/igo/
+   </td></tr> </table>
+
+
+</section>
+
+
+
+<section class="print-section">
+
+  <h2>Atribuciones</h2>
+
+  <ul>
+
+
+    <li>
+
+      <strong>© FAO 2013</strong>
+
+        — fuente y titular de los derechos de autor
+
+        (2013)
+
+    </li>
+
+
+    <li>
+
+      <strong>Mariano S. Cosentino</strong>
+
+        — Adaptación, traducción y compilación para publicación WEB
+
+        (2026)
+
+    </li>
+
+
+    <li>
+
+      <strong>DeepSeek</strong>
+
+        — Preprocesamiento, traducción al español y conversión a Markdown
+
+        (2026)
+
+    </li>
+
+
+  </ul>
+
+</section>
+
+
+
+
+<section class="print-section">
+
+  <h2>Aviso de traducción</h2>
+
+    <p>Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece.</p>
+
+</section>
+
+
+
+
+
+
+
+
+</section>
+
+
+</main>
+
+      </td>
+    </tr>
+
+  </tbody>
+
+  <tfoot>
+
+    <tr>
+      <td>
+
+
+<footer class="print-footer">
+
+  <div>
+    https://mok726.github.io/activities/juego-agua-caliente/
+  </div>
+
+  <div class="page-counter">
+    Página    /   
+  </div>
+
+</footer>
+
+      </td>
+    </tr>
+
+  </tfoot>
+
+</table>
+
+<script>
+document.getElementById("print-date").textContent =
+  new Date().toLocaleDateString("es-AR");
+</script>
+
+</html>
+
+
