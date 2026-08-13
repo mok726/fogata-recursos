@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/construi-un-hotel-para-abejas.png"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/empuje-del-viento.png"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

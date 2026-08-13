@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/cambio-climatico-agua.png"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

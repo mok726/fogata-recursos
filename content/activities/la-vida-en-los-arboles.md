@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/la-vida-en-los-arboles.png"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

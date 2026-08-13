@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/cambiando-con-el-clima.png"
 original: "False"
 Origin: "Insignia de los Bosques - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

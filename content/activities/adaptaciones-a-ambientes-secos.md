@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/adaptaciones-a-ambientes-secos.png"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/echa-una-mirada-al-suelo.png"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

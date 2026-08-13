@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/transmision-sobre-tsunamis.png"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

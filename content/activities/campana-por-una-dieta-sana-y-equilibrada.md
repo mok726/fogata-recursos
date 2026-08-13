@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/campana-por-una-dieta-sana-y-equilibrada.png"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

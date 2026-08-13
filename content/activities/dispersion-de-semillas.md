@@ -20,7 +20,7 @@ source:
 image: "/imagenes/actividades/dispersion-de-semillas.png"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

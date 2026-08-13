@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/nuestro-planeta-netflix.png"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

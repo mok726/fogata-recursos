@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/medios-de-subsistencia-alternativos.png"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

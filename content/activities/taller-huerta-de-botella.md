@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/taller-huerta-de-botella.png"
 original: true
 Origin: "Actividad original"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

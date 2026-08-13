@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/participa-en-el-plan-de-tu-ciudad.png"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

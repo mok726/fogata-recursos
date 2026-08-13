@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/jarra-de-efecto-invernadero.png"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

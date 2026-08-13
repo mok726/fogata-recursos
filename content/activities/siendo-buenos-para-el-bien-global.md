@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/siendo-buenos-para-el-bien-global.png"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

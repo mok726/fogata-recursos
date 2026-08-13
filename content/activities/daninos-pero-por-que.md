@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/daninos-pero-por-que.png"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

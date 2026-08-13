@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/estas-de-acuerdo-o-en-desacuerdo.png"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

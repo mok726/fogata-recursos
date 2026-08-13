@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/construye-un-pozo.png"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

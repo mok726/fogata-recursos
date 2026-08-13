@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/pasa-la-voz.png"
 original: false
 Origin: "Insignia del Agua - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

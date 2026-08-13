@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/ozono-y-quemaduras-de-sol.png"
 original: false
 Origin: "Desafío Scouts Go Solar - Scouts de Argentina"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

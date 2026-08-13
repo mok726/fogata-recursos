@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/dia-del-lavado-de-manos.png"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

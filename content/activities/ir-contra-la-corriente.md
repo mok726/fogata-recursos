@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/ir-contra-la-corriente.png"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/huellas-mas-pequenas.png"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

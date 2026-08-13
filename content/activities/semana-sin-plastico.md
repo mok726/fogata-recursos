@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/semana-sin-plastico.png"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

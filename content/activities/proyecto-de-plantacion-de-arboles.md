@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/proyecto-de-plantacion-de-arboles.png"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

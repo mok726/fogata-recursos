@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/el-derecho-a-la-alimentacion.png"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/cazadores-de-mitos.png"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

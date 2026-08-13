@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/amenazas-y-desastres-cerca-de-casa.png"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

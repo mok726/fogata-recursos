@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/impactos-locales-del-cambio-climatico.png"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

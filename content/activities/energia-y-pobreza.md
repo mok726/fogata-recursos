@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/energia-y-pobreza.png"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

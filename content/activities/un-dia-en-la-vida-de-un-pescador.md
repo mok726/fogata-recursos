@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/un-dia-en-la-vida-de-un-pescador.png"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/el-suelo-en-escena.png"
 original: false
 Origin: "Insignia de los Suelos - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

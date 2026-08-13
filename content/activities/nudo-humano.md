@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/nudo-humano.png"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/carteles-en-el-parque.png"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

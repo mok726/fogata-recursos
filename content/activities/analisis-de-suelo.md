@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/analisis-de-suelo.png"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

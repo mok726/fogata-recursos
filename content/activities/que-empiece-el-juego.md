@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/que-empiece-el-juego.png"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

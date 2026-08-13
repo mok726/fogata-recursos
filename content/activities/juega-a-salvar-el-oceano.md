@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/juega-a-salvar-el-oceano.png"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

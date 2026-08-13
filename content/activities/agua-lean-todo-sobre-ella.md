@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/agua-lean-todo-sobre-ella.png"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

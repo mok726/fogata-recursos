@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/los-precios-de-los-alimentos.png"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

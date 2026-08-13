@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/pinta-un-bodegon-de-comida-de-temporada.png"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/que-gas.png"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

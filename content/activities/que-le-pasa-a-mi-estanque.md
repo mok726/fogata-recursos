@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/que-le-pasa-a-mi-estanque.png"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

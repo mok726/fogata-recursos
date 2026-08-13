@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/calentamiento-de-la-tierra.png"
 original: false
 Origin: "Energy Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

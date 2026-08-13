@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/promesa-del-agua-agua.png"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

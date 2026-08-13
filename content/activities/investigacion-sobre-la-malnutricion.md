@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/investigacion-sobre-la-malnutricion.png"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

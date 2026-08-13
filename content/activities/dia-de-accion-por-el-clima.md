@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/dia-de-accion-por-el-clima.png"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/estudia-una-amenaza.png"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

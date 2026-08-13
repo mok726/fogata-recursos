@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/no-madereros-y-no-son-buenos.png"
 original: false
 Origin: "Insignia de los Bosques - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

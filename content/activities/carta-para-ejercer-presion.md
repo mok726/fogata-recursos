@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/carta-para-ejercer-presion.png"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

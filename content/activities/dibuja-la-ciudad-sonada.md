@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/dibuja-la-ciudad-sonada.png"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

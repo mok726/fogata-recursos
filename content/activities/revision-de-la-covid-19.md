@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/revision-de-la-covid-19.png"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

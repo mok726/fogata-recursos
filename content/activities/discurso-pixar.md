@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/discurso-pixar.png"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

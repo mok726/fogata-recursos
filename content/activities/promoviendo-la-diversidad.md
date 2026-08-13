@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/promoviendo-la-diversidad.png"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

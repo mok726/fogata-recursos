@@ -16,7 +16,7 @@ source:
 image: "/imagenes/actividades/bombillas-ahorradoras-de-energia.png"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

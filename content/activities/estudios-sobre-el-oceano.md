@@ -15,7 +15,7 @@ source:
 image: "/imagenes/actividades/estudios-sobre-el-oceano.png"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "DRAFT"
+version: "0.99"
 
 branch:
   - Naturaleza

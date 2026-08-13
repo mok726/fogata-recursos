@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/corrientes-de-resaca.png"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

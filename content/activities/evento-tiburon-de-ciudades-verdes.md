@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/evento-tiburon-de-ciudades-verdes.png"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

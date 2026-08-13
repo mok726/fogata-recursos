@@ -18,7 +18,7 @@ source:
 image: "/imagenes/actividades/lunes-sin-carne.png"
 original: false
 Origin: "Water Challenge Badge - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:

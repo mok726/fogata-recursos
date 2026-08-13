@@ -17,7 +17,7 @@ source:
 image: "/imagenes/actividades/delicias-del-mar.png"
 original: false
 Origin: "Insignia del Océano - FAO"
-version: "DRAFT"
+version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
 branch:
