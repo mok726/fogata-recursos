@@ -76,7 +76,7 @@
 
     <div class="sidebar-section">
 
-  <h3>Ficha Tecnica</h3>
+  <h3>Ficha Técnica</h3>
 
 
       {% if activity.data.duration %}
@@ -107,7 +107,7 @@
 
   {% if activity.data.complexity_execution %}
   <div class="meta-item">
-    <div class="meta-label">Ejecucion:</div>
+    <div class="meta-label">Ejecución:</div>
     <div class="meta-value">
       {{ "★".repeat(activity.data.complexity_execution) }}
     </div>
@@ -116,7 +116,7 @@
 
   {% if activity.data.complexity_organizer %}
   <div class="meta-item">
-    <div class="meta-label">Organizacion:</div>
+    <div class="meta-label">Organización:</div>
     <div class="meta-value">
       {{ "★".repeat(activity.data.complexity_organizer) }}
     </div>
@@ -125,7 +125,7 @@
 
   {% if activity.data.ludic_component %}
   <div class="meta-item">
-    <div class="meta-label">Ludico:</div>
+    <div class="meta-label">Lúdico:</div>
     <div class="meta-value">
       {{ "★".repeat(activity.data.ludic_component) }}
     </div>
@@ -161,11 +161,11 @@
     </div>
   </div>
   {% endif %}
--->
+
 
   {% if activity.data.prep_time %}
   <div class="meta-item">
-    <div class="meta-label">Preparacion:</div>
+    <div class="meta-label">Preparación:</div>
     <div class="meta-value">
       {{ activity.data.prep_time }}
     </div>
@@ -181,7 +181,7 @@
   </div>
   {% endif %}
 
-
+-->
 
 
   {% if activity.data.activity_code %}
@@ -195,7 +195,7 @@
 
   {% if activity.data.version %}
   <div class="meta-item">
-    <div class="meta-label">Version:</div>
+    <div class="meta-label">Versión:</div>
     <div class="meta-value">
       {% if activity.data.version == "DRAFT" %}
         BORRADOR
@@ -300,7 +300,7 @@
 
   {% if activity.data.scout_method %}
     <div class="sidebar-section">
-      <h3>M  todo Scout</h3>
+      <h3>MÉtodo Scout</h3>
       <ul>
       {% for item in activity.data.scout_method %}
         <li>{{ item }}</li>
@@ -369,8 +369,13 @@
     {% set sections = activity.templateContent | splitBySections %}
 
     {% for section in sections %}
+      {% set sectionMostrar = true %}
 
-      {% if section.heading != "Resumen" %}
+      {% if sectionMostrar.heading == "Resumen" or  section.heading == "Texto original completo de la actividad" or section.heading == "Checklist de verificación"  or  section.heading == "Créditos"  or  section.heading == "Atribuciones"  or  section.heading == "Licencia"  or  section.heading == "Referencias"  or  section.heading == "Recursos descargables"%}
+		{% set sectionMostrar = false %}
+      {% endif %}
+
+      {% if sectionMostrar %}
 
       <section class="print-section">
 
@@ -383,6 +388,8 @@
       {% endif %}
 
     {% endfor %}
+
+{#
 
     {% if activity.data.references %}
     <section class="print-section">
@@ -414,7 +421,10 @@
     {% endif %}
 
 
-{% if activity.data.files %}
+#}
+
+{#
+{% if activity.data.files | length %}
 <section class="print-section">
 
   <h2>Recursos descargables</h2>
@@ -454,10 +464,10 @@
 
 </section>
 {% endif %}
+#}
 
 
-
-
+{#
 {% if activity.data.author or activity.data.source %}
 
 <section class="print-section credits-section">
@@ -492,7 +502,9 @@
 
 {% endif %}
 
+#}
 
+{#
 
 {% if activity.data.license %}
 
@@ -523,6 +535,10 @@
 
 {% endif %}
 
+#}
+
+
+{#
 {% if activity.data.attributions %}
 
 <section class="print-section">
@@ -554,8 +570,10 @@
 </section>
 
 {% endif %}
+#}
 
 
+{#
 {% if activity.data.translation_notice %}
 
 <section class="print-section">
@@ -569,10 +587,12 @@
 </section>
 
 {% endif %}
+#}
 
 
-
-
+ <section class="print-section">
+   <h2>NOTA: Recursos descargables, Créditos, Atribuciones, Licencias, e Información addicional disponible en la version online</h2>
+ </section>
 
 
 

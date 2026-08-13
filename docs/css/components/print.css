@@ -83,6 +83,7 @@ body {
 
 .sidebar-section {
     margin-bottom: 5mm;
+    page-break-inside: avoid;
 }
 
 .sidebar-section:last-child {
@@ -155,7 +156,7 @@ body {
 .print-section {
     margin-bottom: 5mm;
     break-inside: avoid;
-    page-break-inside: avoid;
+/*    page-break-inside: avoid; */
 }
 
 .print-section h2 {
