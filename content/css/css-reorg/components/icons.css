@@ -1,0 +1,32 @@
+/* ==========================================
+   ICONS.CSS - MATERIAL SYMBOLS (base rule)
+
+   Este archivo NO EXISTÍA antes. base.njk ya
+   pedía /css/components/icons.css pero el archivo
+   nunca se creó, por eso cada <span class=
+   "material-symbols-outlined"> mostraba el texto
+   literal ("schedule", "cake", etc.) en vez del
+   ícono: el navegador cargaba la fuente Material
+   Symbols (link en <head>) pero nada le decía a
+   los spans que la usaran.
+
+   Esta es la única regla base que faltaba.
+   ========================================= */
+
+.material-symbols-outlined {
+  font-family: 'Material Symbols Outlined';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.2rem;
+  line-height: 1;
+  letter-spacing: normal;
+  text-transform: none;
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: normal;
+  direction: ltr;
+  vertical-align: middle;
+  margin-right: 0.25rem;
+  -webkit-font-feature-settings: 'liga';
+  -webkit-font-smoothing: antialiased;
+}

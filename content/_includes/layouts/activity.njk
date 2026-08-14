@@ -2,9 +2,7 @@
 layout: layouts/base.njk
 
 styles:
-  - /css/cards.css
   - /css/pages/activity.css
-  - /css/disclosure.css
 
 
 ---
@@ -753,23 +751,8 @@ Ruta: {{ comp.ruta }}
       </div>
       {% endif %}
 
-      {% if sdgs %}
-      <div class="info-card">
 
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-    {% for sdg in sdgs %}
-      <a href="{{ ('/ods/' + sdg + '/') | url }}">
-        <img src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}" alt="ODS {{ sdg }}"  title="ODS {{ sdg }}" class="ods-icon-large">
-      </a>
-    {% endfor %}
-  </div>
-</div>
-</div>
-      {% endif %}
-
-      {% if files %}
+      {% if (files | default([])) | length %}
       <div class="info-card">
         <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
         <div class="download-list">

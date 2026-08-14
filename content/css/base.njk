@@ -199,6 +199,12 @@ put this inside the body
 
 
   <!-- CSS -->
+  <!-- main.css ya hace @import de todo lo transversal
+       (variables, base, layout, navbar, footer, chips,
+       icons, components, cards, disclosure, responsive).
+       Antes había 7 <link> más acá; 5 apuntaban a archivos
+       que no existían (404 silencioso) y los otros 2 ya
+       estaban duplicados dentro de main.css. -->
 <link rel="stylesheet" href="{{ '/css/main.css' | url }}">
 
 

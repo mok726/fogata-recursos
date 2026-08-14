@@ -1,0 +1,156 @@
+/* ==========================================
+   LAYOUT.CSS - CONTENEDORES Y ESTRUCTURA TRANSVERSAL
+   Carga en TODAS las páginas (vía main.css)
+
+   IMPORTANTE: este archivo es la ÚNICA fuente para
+   .grid, .empty-state, .search-box, .search-result,
+   .listing-header y .section-header. Antes estaban
+   duplicados (con valores distintos) en layout.css,
+   home.css y cards.css/search.css al mismo tiempo,
+   y el que ganaba dependía del orden de @import.
+   Si necesitás ajustar alguno de estos, tocá SOLO
+   este archivo.
+   ========================================= */
+
+/* ---------- CONTENEDORES DE PÁGINA ---------- */
+.page-container {
+  min-height: 60vh;
+  width: 100%;
+  max-width: none;
+  padding: 0;
+  margin: 0;
+}
+
+.page-content {
+  max-width: var(--content-max-width, 900px);
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.site-content,
+.taxonomy-page,
+.badge-page-container {
+  max-width: var(--container-max-width, 1500px);
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.badge-content-container,
+.badge-activities-container {
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Usado por activities.njk (listado de /activities/).
+   Antes vivía en home.css sin motivo real. */
+.activities-page {
+  max-width: var(--container-max-width, 1500px);
+  margin: 0 auto;
+  padding-inline: clamp(1rem, 3vw, 3rem);
+}
+
+/* ---------- ENCABEZADOS DE PÁGINA / SECCIÓN ---------- */
+.page-header {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+.page-header img {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+}
+
+.section-spacing {
+  margin-top: 2rem;
+}
+
+/* Única definición de .section-header (antes también en home.css) */
+.section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 1rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--color-border, #e8ede7);
+}
+.section-header p {
+  margin-top: 0.5rem;
+  margin-bottom: 0;
+  color: var(--color-text-muted, #667067);
+  max-width: 60ch;
+}
+
+/* ---------- LISTADOS ---------- */
+/* Única definición de .listing-header (antes también en home.css) */
+.listing-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 2rem;
+}
+.listing-header h1 {
+  margin-bottom: 0.5rem;
+}
+
+.listing-search {
+  min-width: 260px;
+}
+.listing-search input {
+  width: 100%;
+  max-width: 100%;
+  padding: 0.9rem 1rem;
+  border: none;
+  border-radius: 14px;
+  background: white;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+  font-size: 1rem;
+}
+
+.results-count {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: #5f695f;
+  font-size: 0.95rem;
+  font-weight: 600;
+}
+
+/* ---------- GRID Y ESTADO VACÍO ---------- */
+/* Única definición de .grid (antes también en cards.css) */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 380px));
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+.grid a {
+  display: block;
+  height: 100%;
+}
+
+/* Única definición de .empty-state (antes también en cards.css y cards-old.css) */
+.empty-state {
+  background: white;
+  border-radius: 20px;
+  padding: 3rem 2rem;
+  margin-top: 2rem;
+  text-align: center;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.06);
+}
+.empty-state h1,
+.empty-state h2 {
+  margin-top: 0;
+}
+.empty-state p {
+  color: #666;
+  max-width: 50ch;
+  margin: 1rem auto 0;
+}
