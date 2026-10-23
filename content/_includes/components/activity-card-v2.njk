@@ -35,7 +35,7 @@
 
                 {% if item.main_type %}
         	<div class="activity-type-chip">
-		  <a  href="{{ ('/activityType/' + (item.main_type | string | lower) + '/') | url }}">
+		  <a  href="{{ ('/activityType/' + (item.main_type | string | slugify) + '/') | url }}">
 	            {{ item.main_type or "Actividad" }}
 		  </a>
         	</div>

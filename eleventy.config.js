@@ -1,6 +1,3 @@
-const sitemapPlugin =
-  require("@quasibit/eleventy-plugin-sitemap");
-
 const site =
   require("./content/_data/site.js");
 
@@ -149,15 +146,43 @@ eleventyConfig.addCollection(
 
 
 
-  eleventyConfig.addPlugin(
-    sitemapPlugin,
-    {
-      sitemap: {
-        hostname:
-          `${site.url}${site.pathPrefix}/`
-      }
+  // Páginas que van al sitemap: se excluyen versiones
+  // imprimibles, páginas de prueba y de mantenimiento.
+  const sitemapExcluded = [
+    /\/print\/$/,
+    /^\/lab\//,
+    /^\/galeria_/,
+    /^\/listimagenes\//,
+    /^\/css\//,
+    /^\/feedback\//,
+    /^\/404\.html$/
+  ];
+
+  eleventyConfig.addCollection(
+    "sitemapPages",
+    function(collectionApi) {
+
+      // Las plantillas paginadas aparecen una sola vez en
+      // getAll(); sus páginas están en pagination.hrefs.
+      const urls = collectionApi
+        .getAll()
+        .flatMap(item =>
+          item.data.pagination?.hrefs || [item.url]
+        );
+
+      return [...new Set(urls)]
+        .filter(url =>
+          url &&
+          !sitemapExcluded.some(re => re.test(url))
+        );
+
     }
   );
+
+  eleventyConfig.addPassthroughCopy({
+    "content/robots.txt": "robots.txt"
+  });
+
 
 
 
@@ -193,6 +218,28 @@ eleventyConfig.addCollection(
 
     }
   );
+
+
+// Una actividad es borrador si su versión es "DRAFT"
+// o un número menor a 1.0 (p. ej. "0.99").
+eleventyConfig.addFilter(
+  "isDraft",
+  function(version) {
+
+    if (!version) {
+      return false;
+    }
+
+    if (String(version).toUpperCase() === "DRAFT") {
+      return true;
+    }
+
+    const number = parseFloat(version);
+
+    return !isNaN(number) && number < 1;
+
+  }
+);
 
 
 eleventyConfig.addFilter(

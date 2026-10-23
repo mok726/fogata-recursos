@@ -644,7 +644,7 @@ sections: {
       documents: [
         {
           title: "Scouts-Go-Solar-Tribu-Tierra",
-          title_es: "Desaf¡io Scouts Go-Solar Tribu Tierra",
+          title_es: "Desafío Scouts Go-Solar Tribu Tierra",
           url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28888/scouts-go-solar-tribu-tierra.pdf",
           type: "pdf",
           image: "/imagenes/varios/Scouts-Go-Solar-Tribu-Tierra.jpg"
@@ -1032,7 +1032,7 @@ sections: {
     {
       "nombre": "Connect for Climate (Connect4Climate)",
       "descripcion": "Una comunidad mundial donde las personas y las organizaciones se unen para actuar por el cambio climático.",
-      "url": "www.connect4climate.org"
+      "url": "https://www.connect4climate.org"
     },
     {
       "nombre": "Climate Kids de la NASA",
@@ -1042,17 +1042,17 @@ sections: {
     {
       "nombre": "Energía Sostenible para Todos",
       "descripcion": "Sitio Web de las Naciones Unidas que trata la necesidad de todas las personas de tener acceso a energía sostenible, incluyendo formas de alcanzar este objetivo hasta el 2030.",
-      "url": "www.sustainableenergyforall.org"
+      "url": "https://www.sustainableenergyforall.org"
     },
     {
       "nombre": "The Nature Conservancy",
       "descripcion": "Información sobre el cambio climático, sus impactos y cómo calcular tu huella de carbono.",
-      "url": "www.nature.org/ourinitiatives/urgentissues/global-warming-climate-change"
+      "url": "https://www.nature.org/ourinitiatives/urgentissues/global-warming-climate-change"
     },
     {
       "nombre": "TUNZA",
       "descripcion": "Programa para la niñez y la juventud del Programa de las Naciones Unidas para el Medio Ambiente. Posee información sobre actividades y campañas juveniles, así como publicaciones y recursos multimedia.",
-      "url": "www.unep.org/tunza"
+      "url": "https://www.unep.org/tunza"
     },
     {
       "nombre": "WWF Cambio Climático",

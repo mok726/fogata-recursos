@@ -4,8 +4,6 @@ layout: layouts/base.njk
 
 styles:
   - /css/layout.css
-  - /css/navbar.css
-  - /css/footer.css
   - /css/pages/badges.css
 ---
 {% set title = badge.name %}
@@ -344,7 +342,7 @@ collections.activities
         rel="noopener">
 
         <img
-          src="{{ doc.image }}"
+          src="{{ doc.image | url }}"
           alt="{{ doc.title_es or doc.title }}">
 
 <!--        <span>

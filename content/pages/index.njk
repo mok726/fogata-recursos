@@ -7,11 +7,8 @@ permalink: /
 
 {% set styles = [
   "/css/layout.css",
-  "/css/navbar.css",
-  "/css/footer.css",
-  "/css/cards.css",
   "/css/pages/home.css",
-  "/css/search.css"
+  "/css/components/search.css"
 ] %}
 
 <section class="home-hero">
@@ -56,7 +53,9 @@ permalink: /
 
 <script type="module">
 
-import * as pagefind from "/pagefind/pagefind.js";
+import * as pagefind from "{{ '/pagefind/pagefind.js' | url }}";
+
+await pagefind.options({ baseUrl: "{{ '/' | url }}" });
 
 const input =
   document.getElementById("search-input");
