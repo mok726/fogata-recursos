@@ -504,7 +504,7 @@ async function shareActivity() {
 {% if "castores" in ageGroups %}
   <a href="{{ ('/edades/castores/') | url }}" title="Castores">
     <div class="branch-item">
-      <img src="{{ '/imagenes/ramas/castores.png' | url }}" alt="Castores">
+      <img src="{{ '/imagenes/ramas/castores.png' | thumb("rama") | url }}" alt="Castores">
       <div class="branch-content">
         <div class="branch-name">
           Castores
@@ -523,7 +523,7 @@ async function shareActivity() {
 {% if "manada" in ageGroups %}
 <div class="branch-item">
   <a href="{{ ('/edades/manada/') | url }}" title="Manada">
-  <img src="{{ '/imagenes/ramas/manada.png' | url }}" alt="Manada">
+  <img src="{{ '/imagenes/ramas/manada.png' | thumb("rama") | url }}" alt="Manada">
 </a>
   <div class="branch-content">
     <div class="branch-name">
@@ -590,7 +590,7 @@ Sendero: {{ comp.categoria }}
 {% if "scouts" in ageGroups %}
 <div class="branch-item">
   <a href="{{ ('/edades/unidad-scout/') | url }}" title="Scouts">
-  <img src="{{ '/imagenes/ramas/unidad-scout.png' | url }}" alt="Scouts">
+  <img src="{{ '/imagenes/ramas/unidad-scout.png' | thumb("rama") | url }}" alt="Scouts">
   </a>
   <div class="branch-content">
     <div class="branch-name">
@@ -634,7 +634,7 @@ Categoria: {{ comp.categoria }}
 <div class="branch-item">
   <a href="{{ ('/edades/caminantes/') | url }}" title="Caminantes">
 
-  <img src="{{ '/imagenes/ramas/caminantes.png' | url }}"
+  <img src="{{ '/imagenes/ramas/caminantes.png' | thumb("rama") | url }}"
        alt="Caminantes">
 </a>
   <div class="branch-content">
@@ -678,7 +678,7 @@ Categoria: {{ comp.categoria }}
 <div class="branch-item">
   <a href="{{ ('/edades/rovers/') | url }}" title="Rovers">
 
-  <img src="{{ '/imagenes/ramas/rovers.png' | url }}" alt="Rovers">
+  <img src="{{ '/imagenes/ramas/rovers.png' | thumb("rama") | url }}" alt="Rovers">
 </a>
   <div class="branch-content">
     <div class="branch-name">

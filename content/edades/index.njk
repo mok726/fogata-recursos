@@ -42,7 +42,7 @@ title: Edades
 
           <img
             class="age-page-icon"
-            src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+            src="{{ ('/imagenes/ramas/' + age.icon) | thumb("rama") | url }}"
             alt="{{ age.name }}">
 
           <h2>
