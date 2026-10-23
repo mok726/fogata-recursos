@@ -42,8 +42,8 @@ Fogata de Recursos nació para ayudar a preservar ese conocimiento y hacerlo má
 
 ## Más información
 
-- [Historia del proyecto](/historia-del-proyecto/)
-- [Estado del proyecto y colaboración](/colaborar/)
+- [Historia del proyecto](../historia-del-proyecto/)
+- [Estado del proyecto y colaboración](../colaborar/)
 
 ---
 

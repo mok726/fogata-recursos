@@ -63,7 +63,7 @@ tags:
 
 # ========== ARCHIVOS ADJUNTOS ==========
 files:
-  - filepath: "www2.epa.gov/recycle/composting-home"
+  - filepath: "https://www2.epa.gov/recycle/composting-home"
     caption: "Instrucciones para hacer compost en casa"
     icon: "link"
 

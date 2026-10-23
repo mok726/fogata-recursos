@@ -53,15 +53,13 @@ async function shareActivity() {
     <div class="activity-hero-container">
       <div class="hero-left">
         <div class="hero-category">{{ main_type or ((etiquetas or []) | first) or "Actividad" }}</div>
-        <h1 class="hero-title">{{ title | replace("!", "") }}
+        <h1 class="hero-title">{{ title }}
 {% if version %}
-<div class="hero-version version-{{ version | lower }}">
-{% if version == "DRAFT" %}
-  BORRADOR
+{% if version | isDraft %}
+<span class="hero-version version-draft" title="Actividad pendiente de revisión manual">BORRADOR</span>
 {% else %}
-  {{ version }}
+<span class="hero-version">v{{ version }}</span>
 {% endif %}
-</div>
 {% endif %}
 </h1>
         <p class="hero-description">{{ summary or description }}</p>

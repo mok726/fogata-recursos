@@ -2,7 +2,6 @@
 layout: layouts/base.njk
 
 styles:
-  - /css/cards.css
 
 
 ---
@@ -14,9 +13,9 @@ styles:
 
 {% for activity in collections.activitiesSorted %}
 
-  {% if activity.data.activity_type %}
+  {% if activity.data.activity_type or activity.data.main_type %}
 
-    {% if activityType.name in activity.data.activity_type %}
+    {% if activityType.name in (activity.data.activity_type or []) or activity.data.main_type == activityType.name %}
       {% set activityCount = activityCount + 1 %}
     {% endif %}
 
@@ -44,9 +43,9 @@ styles:
 
   {% for activity in collections.activitiesSorted %}
 
-    {% if activity.data.activity_type %}
+    {% if activity.data.activity_type or activity.data.main_type %}
 
-      {% if activityType.name in activity.data.activity_type %}
+      {% if activityType.name in (activity.data.activity_type or []) or activity.data.main_type == activityType.name %}
 
         {% set item = activity.data %}
         {% set activityUrl = activity.url %}

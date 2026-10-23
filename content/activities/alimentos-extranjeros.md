@@ -63,7 +63,7 @@ tags:
 
 # ========== ARCHIVOS ADJUNTOS ==========
 files:
-  - filepath: "www.worldcook.net/Cooking/Fish/FI-TanzanianFishCurry.htm"
+  - filepath: "https://www.worldcook.net/Cooking/Fish/FI-TanzanianFishCurry.htm"
     caption: "Receta de pescado al curry de Tanzania"
     icon: "link"
 

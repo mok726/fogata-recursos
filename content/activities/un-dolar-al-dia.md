@@ -63,7 +63,7 @@ tags:
 
 # ========== ARCHIVOS ADJUNTOS ==========
 files:
-  - filepath: "www.endinghunger.org/es/educate/food_budget_challenge.html"
+  - filepath: "https://www.endinghunger.org/es/educate/food_budget_challenge.html"
     caption: "Desafío del presupuesto de alimentos"
     icon: "link"
 

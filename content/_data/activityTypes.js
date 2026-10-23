@@ -83,6 +83,31 @@ module.exports = [
   {
     id: "dinamica-de-grupos",
     name: "Dinámica de grupos"
+  },
+
+  {
+    id: "participacion-comunitaria",
+    name: "Participación comunitaria"
+  },
+
+  {
+    id: "comunicacion",
+    name: "Comunicación"
+  },
+
+  {
+    id: "salud",
+    name: "Salud"
+  },
+
+  {
+    id: "compromiso",
+    name: "Compromiso"
+  },
+
+  {
+    id: "habitos-sostenibles",
+    name: "Hábitos sostenibles"
   }
 
 ];

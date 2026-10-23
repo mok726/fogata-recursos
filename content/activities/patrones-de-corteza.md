@@ -60,7 +60,7 @@ tags:
 
 # ========== ARCHIVOS ADJUNTOS ==========
 files:
-  - filepath: "www.wikihow.com/Make-a-Bark-Rubbing"
+  - filepath: "https://www.wikihow.com/Make-a-Bark-Rubbing"
     caption: "Cómo hacer calcos de corteza"
     icon: "link"
 

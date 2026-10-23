@@ -4,8 +4,7 @@ layout: layouts/base.njk
 permalink: /activities/
 
 styles:
-  - /css/cards.css
-  - /css/search.css
+  - /css/components/search.css
 ---
 
 <div class="activities-page">
@@ -92,7 +91,7 @@ styles:
   data-title="{{ activity.data.title | lower }}"
   data-description="{{ activity.data.description | default('') | lower }}"
 
-  data-age="{{ (activity.data.age_group or []) | join(' ') | lower }}"
+  data-age="{% for g in (activity.data.age_group or []) %}{{ (g | normalizeAge(ageGroups)).id }} {% endfor %}"
 
   data-badges="{{ (activity.data.activity_badges or []) | dump | lower }}"
 
@@ -165,11 +164,11 @@ function runSearch() {
 
     const matchesAge =
       !age ||
-      card.dataset.age.includes(age);
+      card.dataset.age.split(" ").includes(age);
 
     const matchesSdg =
       !sdg ||
-      card.dataset.sdgs.includes(sdg);
+      card.dataset.sdgs.split(" ").includes(sdg);
 
     const visibleCard =
       matchesSearch &&
