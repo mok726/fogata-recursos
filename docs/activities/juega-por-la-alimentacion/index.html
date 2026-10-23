@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -376,10 +366,8 @@ async function shareActivity() {
     <div class="activity-hero-container">
       <div class="hero-left">
         <div class="hero-category">Juego</div>
-        <h1 class="hero-title">¡Juega por la Alimentación
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
+        <h1 class="hero-title">¡Juega por la Alimentación!
+<span class="hero-version">v0.99</span>
 </h1>
         <p class="hero-description">Juegos solidarios contra el hambre.</p>
 
@@ -1112,23 +1100,6 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
         </ul>
       </div>
 
-      <div class="info-card">
-
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/1/">
-        <img src="/fogata-recursos/imagenes/ods/ods-1.png" alt="ODS 1"  title="ODS 1" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/2/">
-        <img src="/fogata-recursos/imagenes/ods/ods-2.png" alt="ODS 2"  title="ODS 2" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4"  title="ODS 4" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
 
 
 
@@ -1367,7 +1338,7 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1453,8 +1424,8 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/comunicacion-alternativa/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/comunicacion-alternativa.png"  alt="Comunicación Alternativa">
+      href="/fogata-recursos/activities/alimentos-justos/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/alimentos-justos.png"  alt="Alimentos Justos">
     </a>
 
 
@@ -1466,8 +1437,8 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/arte/">
-	       Arte
+	     <a  href="/fogata-recursos/activityType/investigacion/">
+	       Investigación
  	     </a>
            </div>
 
@@ -1483,8 +1454,8 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/comunicacion-alternativa/">
-             Comunicación Alternativa
+             href="/fogata-recursos/activities/alimentos-justos/">
+             Alimentos Justos
 	  </a>
         </h3>
 
@@ -1552,8 +1523,8 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/mensaje-de-video/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/mensaje-de-video.png"  alt="Mensaje de Video">
+      href="/fogata-recursos/activities/alza-tu-voz/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/alza-tu-voz.png"  alt="Alza Tu Voz">
     </a>
 
 
@@ -1582,8 +1553,8 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/mensaje-de-video/">
-             Mensaje De Video
+             href="/fogata-recursos/activities/alza-tu-voz/">
+             Alza Tu Voz
 	  </a>
         </h3>
 
@@ -1709,14 +1680,11 @@ Busco y evalúo el valor de diversas fuentes de información (académicas, cient
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

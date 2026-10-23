@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -377,9 +367,7 @@ async function shareActivity() {
       <div class="hero-left">
         <div class="hero-category">Investigación</div>
         <h1 class="hero-title">Bosques Políticos
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
+<span class="hero-version">v0.99</span>
 </h1>
         <p class="hero-description">Investigación sobre movimientos de resistencia política en bosques.</p>
 
@@ -983,29 +971,7 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
         </ul>
       </div>
 
-      <div class="info-card">
 
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/10/">
-        <img src="/fogata-recursos/imagenes/ods/ods-10.png" alt="ODS 10"  title="ODS 10" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/15/">
-        <img src="/fogata-recursos/imagenes/ods/ods-15.png" alt="ODS 15"  title="ODS 15" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/16/">
-        <img src="/fogata-recursos/imagenes/ods/ods-16.png" alt="ODS 16"  title="ODS 16" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
-
-      <div class="info-card">
-        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
-        <div class="download-list">
-        </div>
-      </div>
 
 
       <div class="info-card">
@@ -1131,84 +1097,6 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/informe-de-prensa/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/informe-de-prensa.png"  alt="Informe de Prensa">
-    </a>
-
-
-    <div class="activity-card-overlay">
-
-      <div class="activity-card-overlay-top">
-
-
-
-
-     	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
-	       Investigación
- 	     </a>
-           </div>
-
-
-
-
-
-
-
-      </div>
-
-      <div class="activity-card-overlay-middle">
-
-        <h3>
-	  <a class="card-title-link"
-             href="/fogata-recursos/activities/informe-de-prensa/">
-             Informe De Prensa
-	  </a>
-        </h3>
-
-      </div>
-
-
-      <div class="activity-card-overlay-bottom">
-
-         <div class="activity-age">
-            <span class="material-symbols-outlined">cake</span>
-
-              11-22 años
-         </div>
-
-         <div class="activity-branches">
-
-
-	       <div class="hero-branch-slot disabled">
-
-
-		</div>
-
-
-
-	       <div class="hero-branch-slot disabled">
-
-
-		</div>
-
-           </div>
-
-         </div>
-       </div>
-     </div>
-
-
-</div>
-
-
-
-
-<div class="card activity-card  compact   " >
-
-  <div class="activity-card-hero">
-    <a
-      class="activity-card-main-link"
       href="/fogata-recursos/activities/bosques-sagrados/">
         <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/bosques-sagrados.png"  alt="Bosques Sagrados">
     </a>
@@ -1222,7 +1110,7 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1287,6 +1175,84 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
+      href="/fogata-recursos/activities/informe-de-prensa/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/informe-de-prensa.png"  alt="Informe de Prensa">
+    </a>
+
+
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
+	       Investigación
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/informe-de-prensa/">
+             Informe De Prensa
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              11-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+</div>
+
+
+
+
+<div class="card activity-card  compact   " >
+
+  <div class="activity-card-hero">
+    <a
+      class="activity-card-main-link"
       href="/fogata-recursos/activities/biopiratas/">
         <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/biopiratas.png"  alt="¡Biopiratas!">
     </a>
@@ -1300,7 +1266,7 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/debate / diálogo/">
+	     <a  href="/fogata-recursos/activityType/debate-dialogo/">
 	       Debate / Diálogo
  	     </a>
            </div>
@@ -1378,7 +1344,7 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1501,14 +1467,11 @@ Indago en las causas y consecuencias de las injusticias, desigualdades y problem
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

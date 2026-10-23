@@ -1,5 +1,13 @@
 /* ==========================================
-   GRID
+   CARDS.CSS - TARJETAS DE ACTIVIDAD (unificado)
+   Fusiona lo que antes eran cards.css + cards-v2.css
+   (cards-old.css quedó huérfano, no se usaba - eliminado)
+   ========================================== */
+
+/* ==========================================
+   GRID (nota: el grid genérico de listados vive
+   en layout.css; estas reglas son sólo helpers
+   locales de las tarjetas)
    ========================================== */
 
 .gridbad {
@@ -7,19 +15,6 @@
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 1.5rem;
   margin-top: 2rem;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(340px, 380px));
-  justify-content: center;
-  gap: 1.5rem;
-  margin-top: 2rem;
-}
-
-.grid a {
-  display: block;
-  height: 100%;
 }
 
 /* ==========================================
@@ -84,7 +79,6 @@
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  height: 100%;
 }
 
 .activity-card:hover {
@@ -156,10 +150,9 @@
 }
 
 .sdg-chip {
-  background: #edf7ed;
+  background: transparent;
   color: #2f6b38;
   padding: 0;
-  background: transparent;
 }
 
 /* ==========================================
@@ -203,31 +196,12 @@
    FEATURED SECTION
    ========================================== */
 
+.featured-section {
+  margin-top: 4rem;
+}
+
 .featured-section .card {
   border: 1px solid rgba(53, 91, 56, 0.08);
-}
-
-/* ==========================================
-   EMPTY STATES
-   ========================================== */
-
-.empty-state {
-  background: white;
-  border-radius: 20px;
-  padding: 3rem 2rem;
-  margin-top: 2rem;
-  text-align: center;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.06);
-}
-
-.empty-state h2 {
-  margin-top: 0;
-}
-
-.empty-state p {
-  max-width: 50ch;
-  margin: 1rem auto 0;
-  color: #667067;
 }
 
 /* ==========================================
@@ -263,7 +237,7 @@
 }
 
 /* ==========================================
-   FILTROS
+   FILTROS (usados en activities.njk / listados)
    ========================================== */
 
 .listing-filters {
@@ -290,14 +264,13 @@
   object-fit: cover;
 }
 
-/* Sobrescribimos para ciertos tipos de iconos */
 .card img:not(.badge):not(.sdg-icon):not(.branch-icon):not(.badge-icon):not(.activity-card-image) {
   max-height: 220px;
   object-fit: contain;
 }
 
 /* ==========================================
-   ICONOS SDG
+   ICONOS SDG / RAMAS / INSIGNIAS
    ========================================== */
 
 .sdg-icon {
@@ -314,20 +287,12 @@
   background: transparent;
 }
 
-/* ==========================================
-   ICONOS DE RAMAS
-   ========================================== */
-
 .branch-icon {
   width: 50px;
   height: 50px;
   object-fit: contain;
   background: transparent;
 }
-
-/* ==========================================
-   INSIGNIAS (BADGES)
-   ========================================== */
 
 .badge {
   width: 120px !important;
@@ -356,8 +321,7 @@
 }
 
 /* ==========================================
-   ACTIVITY CARD V2 – ESTILOS ADICIONALES
-   (no incluidos en cards-v2.css)
+   ACTIVITY CARD - contenido base (imagen, meta)
    ========================================== */
 
 .activity-card-image {
@@ -391,7 +355,6 @@
   left: 12px;
   border-radius: 999px;
   color: greenyellow;
-  font-size: 2rem;
   backdrop-filter: blur(6px);
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
   z-index: 10;
@@ -486,25 +449,22 @@
 }
 
 /* ==========================================
-   ACTIVIDADES OBLIGATORIAS
+   ACTIVIDADES OBLIGATORIAS / COMPLEMENTARIAS /
+   DESTACADAS / ORIGINALES
    ========================================== */
 
 .activity-card-required {
   border: 2px solid #d62828;
   box-shadow: 0 4px 12px rgba(214, 40, 40, 0.6), 0 0 0 3px rgba(214, 40, 40, 0.25);
 }
-
 .activity-card-required::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
+  top: 0; left: 0; right: 0;
   height: 6px;
   background: #d62828;
   z-index: 20;
 }
-
 .required-badge {
   display: inline-flex;
   align-items: center;
@@ -518,9 +478,10 @@
   font-weight: 700;
   border: 1px solid #e5c86b;
 }
-
 .activity-required {
   position: absolute;
+  bottom: 12px;
+  left: 12px;
   z-index: 10;
   background: #d62828;
   color: white;
@@ -529,13 +490,7 @@
   font-size: 0.75rem;
   font-weight: 700;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
-  bottom: 12px;
-  left: 12px;
 }
-
-/* ==========================================
-   ACTIVIDADES COMPLEMENTARIAS
-   ========================================== */
 
 .activity-complementary {
   position: absolute;
@@ -551,26 +506,18 @@
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
 }
 
-/* ==========================================
-   ACTIVIDADES DESTACADAS
-   ========================================== */
-
 .activity-card-featured {
   border: 2px solid #d4af37;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 0 0 3px rgba(212, 175, 55, 0.25);
 }
-
 .activity-card-featured::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
+  top: 0; left: 0; right: 0;
   height: 6px;
   background: #d4af37;
   z-index: 20;
 }
-
 .featured-badge {
   display: inline-flex;
   align-items: center;
@@ -584,9 +531,10 @@
   font-weight: 700;
   border: 1px solid #e5c86b;
 }
-
 .activity-featured {
   position: absolute;
+  bottom: 12px;
+  left: 12px;
   z-index: 10;
   background: #d62828;
   color: white;
@@ -595,30 +543,20 @@
   font-size: 0.75rem;
   font-weight: 700;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
-  bottom: 12px;
-  left: 12px;
 }
-
-/* ==========================================
-   ACTIVIDADES ORIGINALES
-   ========================================== */
 
 .activity-card-original {
   border: 2px solid #487700;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08), 0 0 0 3px rgba(48, 190, 0, 0.25);
 }
-
 .activity-card-original::before {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
+  top: 0; left: 0; right: 0;
   height: 6px;
   background: #487700;
   z-index: 20;
 }
-
 .original-badge {
   display: inline-flex;
   align-items: center;
@@ -633,4 +571,213 @@
   border: 1px solid #e5c86b;
 }
 
+/* ==========================================
+   ACTIVITY CARD V2 - HERO CON OVERLAY
+   (esto era cards-v2.css)
+   ========================================== */
 
+.activity-card-hero {
+  position: relative;
+  overflow: hidden;
+}
+
+.activity-card-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 16px;
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,.82) 0%,
+    rgba(0,0,0,.55) 28%,
+    rgba(0,0,0,.22) 60%,
+    rgba(0,0,0,0) 100%
+  );
+}
+
+.activity-card-overlay-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.activity-card-overlay-middle {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  padding-bottom: 14px;
+}
+
+.activity-card-overlay-middle h3 {
+  margin: 0;
+  color: white;
+  font-size: 1.35rem;
+  font-weight: 800;
+  line-height: 1.15;
+  text-shadow: 0 2px 8px rgba(0,0,0,.65);
+}
+
+.activity-card-overlay-middle a {
+  color: white;
+  text-decoration: none;
+}
+
+.activity-card-overlay-bottom {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.activity-age {
+  color: white;
+  font-weight: 600;
+  text-shadow: 0 2px 8px rgba(0,0,0,.65);
+}
+
+.activity-card.full .activity-card-image {
+  height: 190px;
+}
+
+.activity-card.compact .activity-card-image {
+  height: 170px;
+}
+
+.activity-type-chip {
+  padding: .28rem .65rem;
+  font-size: .68rem;
+  letter-spacing: .05em;
+  text-transform: uppercase;
+  background: rgba(46,107,61,.88);
+  border: 1px solid rgba(255,255,255,.25);
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  color: white;
+  font-weight: 700;
+  backdrop-filter: blur(6px);
+}
+
+.activity-branches {
+  display: flex;
+  justify-content: flex-end;
+  width: 62%;
+  gap: 2px;
+}
+
+.hero-branch-slot {
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.hero-branch-slot.disabled {
+  opacity: .10;
+}
+
+.hero-branch-icon {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+}
+
+.activity-summary {
+  margin: 0;
+  line-height: 1.32;
+  color: #56635a;
+  font-size: 1.1rem;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  min-height: 2.9em;
+}
+
+.activity-card-body {
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px 2px 16px;
+  gap: 6px;
+}
+
+.activity-card-sdgs {
+  display: flex;
+  gap: 4px;
+  flex-wrap: nowrap;
+  min-width: 0;
+  align-items: center;
+  overflow: hidden;
+}
+
+.activity-card-badges {
+  display: flex;
+  gap: 4px;
+  justify-content: flex-end;
+  flex-wrap: nowrap;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.activity-card-sdgs .sdg-icon {
+  width: 48px;
+  height: 48px;
+}
+
+.activity-card-badges .badge-icon {
+  width: 56px;
+  height: 56px;
+}
+
+.activity-card-footer {
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding-top: 8px;
+  border-top: 1px solid #edf1ec;
+}
+
+.activity-more {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  margin-left: 4px;
+  border-radius: 999px;
+  background: white;
+  border: 2px solid #355b38;
+  color: #355b38;
+  font-weight: 700;
+  font-size: .78rem;
+  flex-shrink: 0;
+}
+
+.activity-more-sdg {
+  width: 48px;
+  height: 48px;
+  font-size: .78rem;
+}
+
+.activity-more-badge {
+  width: 56px;
+  height: 56px;
+  font-size: .82rem;
+}
+
+.activity-card:hover .activity-card-overlay {
+  background: linear-gradient(
+    to top,
+    rgba(0,0,0,.66),
+    rgba(0,0,0,.20),
+    rgba(0,0,0,.04)
+  );
+  transition: .2s;
+}

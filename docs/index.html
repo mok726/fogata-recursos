@@ -184,14 +184,6 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
-
 
 
 
@@ -325,7 +317,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     
 
@@ -372,7 +364,9 @@ put this inside the body
 
 <script type="module">
 
-import * as pagefind from "/pagefind/pagefind.js";
+import * as pagefind from "/fogata-recursos/pagefind/pagefind.js";
+
+await pagefind.options({ baseUrl: "/fogata-recursos/" });
 
 const input =
   document.getElementById("search-input");
@@ -586,7 +580,7 @@ input.addEventListener("input", async () => {
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/reflexión/">
+	     <a  href="/fogata-recursos/activityType/reflexion/">
 	       Reflexión
  	     </a>
            </div>
@@ -1004,7 +998,7 @@ input.addEventListener("input", async () => {
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1202,7 +1196,7 @@ input.addEventListener("input", async () => {
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/comunicación/">
+	     <a  href="/fogata-recursos/activityType/comunicacion/">
 	       Comunicación
  	     </a>
            </div>
@@ -1399,7 +1393,7 @@ input.addEventListener("input", async () => {
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/servicio a los demás/">
+	     <a  href="/fogata-recursos/activityType/servicio-a-los-demas/">
 	       Servicio a los demás
  	     </a>
            </div>
@@ -1600,7 +1594,7 @@ input.addEventListener("input", async () => {
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/debate / diálogo/">
+	     <a  href="/fogata-recursos/activityType/debate-dialogo/">
 	       Debate / Diálogo
  	     </a>
            </div>
@@ -3930,14 +3924,11 @@ input.addEventListener("input", async () => {
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

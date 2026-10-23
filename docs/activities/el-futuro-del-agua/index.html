@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -377,9 +367,7 @@ async function shareActivity() {
       <div class="hero-left">
         <div class="hero-category">Creatividad / Arte</div>
         <h1 class="hero-title">El Futuro del Agua
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
+<span class="hero-version">v0.99</span>
 </h1>
         <p class="hero-description">Modelo de ciudad futurista eficiente en agua.</p>
 
@@ -1124,29 +1112,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
         </ul>
       </div>
 
-      <div class="info-card">
 
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/6/">
-        <img src="/fogata-recursos/imagenes/ods/ods-6.png" alt="ODS 6"  title="ODS 6" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/9/">
-        <img src="/fogata-recursos/imagenes/ods/ods-9.png" alt="ODS 9"  title="ODS 9" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/11/">
-        <img src="/fogata-recursos/imagenes/ods/ods-11.png" alt="ODS 11"  title="ODS 11" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
-
-      <div class="info-card">
-        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
-        <div class="download-list">
-        </div>
-      </div>
 
 
       <div class="info-card">
@@ -1286,7 +1252,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/creatividad / arte/">
+	     <a  href="/fogata-recursos/activityType/creatividad-arte/">
 	       Creatividad / Arte
  	     </a>
            </div>
@@ -1390,7 +1356,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1481,8 +1447,8 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/planta-de-agua-potable/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/planta-de-agua-potable.png"  alt="Planta de Agua Potable">
+      href="/fogata-recursos/activities/de-donde-viene-tu-agua/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/de-donde-viene-tu-agua.png"  alt="De dónde viene tu agua?">
     </a>
 
 
@@ -1494,7 +1460,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1516,8 +1482,8 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/planta-de-agua-potable/">
-             Planta De Agua Potable
+             href="/fogata-recursos/activities/de-donde-viene-tu-agua/">
+             De Dónde Viene Tu Agua?
 	  </a>
         </h3>
 
@@ -1585,8 +1551,8 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/proyecto-comunitario-sobre-el-agua/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/proyecto-comunitario-sobre-el-agua.png"  alt="Proyecto Comunitario sobre el Agua">
+      href="/fogata-recursos/activities/jardin-de-lluvia/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/jardin-de-lluvia.png"  alt="Jardín de Lluvia">
     </a>
 
 
@@ -1598,7 +1564,7 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/servicio a los demás/">
+	     <a  href="/fogata-recursos/activityType/servicio-a-los-demas/">
 	       Servicio a los demás
  	     </a>
            </div>
@@ -1610,14 +1576,18 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
 
 
  
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         3h
+               </span>
       </div>
 
       <div class="activity-card-overlay-middle">
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/proyecto-comunitario-sobre-el-agua/">
-             Proyecto Comunitario Sobre El Agua
+             href="/fogata-recursos/activities/jardin-de-lluvia/">
+             Jardín De Lluvia
 	  </a>
         </h3>
 
@@ -1743,14 +1713,11 @@ Aplico técnicas y tecnologías de la información disponibles en la vida cotidi
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

@@ -1,32 +1,19 @@
 /* ==========================================
-   ACTIVITY PAGE – ESTILOS CONSOLIDADOS
-   Basado en MOCK-1.png
+   ACTIVITY.CSS - PÁGINA DE DETALLE DE ACTIVIDAD
+   (activity-old.css era una copia vieja sin usar,
+   se eliminó. La regla base de
+   .material-symbols-outlined se movió a
+   components/icons.css - acá sólo queda el ajuste
+   de tamaño específico de esta página)
    ========================================== */
 
-/* ---------- CONTENEDOR PRINCIPAL ---------- */
 .activity-page {
   width: 100%;
   margin: 0;
   padding: 0;
 }
 
-/* ---------- CONTENEDOR CENTRAL (90% ancho) ---------- */
-.activity-content-wrapper {
-  width: 90%;
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0;
-}
-
-@media (max-width: 768px) {
-  .activity-content-wrapper {
-    width: 95%;
-  }
-}
-
-/* ==========================================
-   HERO (FULL-WIDTH CON IMAGEN)
-   ========================================== */
+/* ---------- HERO ---------- */
 .activity-hero {
   background-size: cover;
   background-position: center;
@@ -65,15 +52,15 @@
   color: white;
   margin: 0.5rem 0;
   line-height: 1.1;
-  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  text-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
 .hero-description {
   font-size: 1.1rem;
-  color: rgba(255, 255, 255, 0.95);
+  color: rgba(255,255,255,0.95);
   margin-bottom: 1.5rem;
   max-width: 700px;
-  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 
 .hero-metrics {
@@ -85,6 +72,8 @@
   flex-wrap: wrap;
 }
 
+/* Ajuste de tamaño de ícono SOLO en el hero (el
+   tamaño base vive en components/icons.css) */
 .hero-metrics .material-symbols-outlined {
   font-size: 1rem;
   margin-right: 0.2rem;
@@ -97,7 +86,7 @@
 }
 
 .hero-tag {
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255,255,255,0.2);
   backdrop-filter: blur(4px);
   padding: 0.25rem 0.75rem;
   border-radius: 20px;
@@ -105,33 +94,12 @@
   color: white;
 }
 
-/* Variantes de color para hero-tag */
-.hero-tag.green   { background: rgba(46, 107, 61, 0.85); }
-.hero-tag.orange  { background: rgba(233, 138, 21, 0.85); }
-.hero-tag.blue    { background: rgba(61, 127, 196, 0.85); }
-.hero-tag.purple  { background: rgba(139, 92, 246, 0.85); }
+.hero-tag.green  { background: rgba(46,107,61,0.85); }
+.hero-tag.orange { background: rgba(233,138,21,0.85); }
+.hero-tag.blue   { background: rgba(61,127,196,0.85); }
+.hero-tag.purple { background: rgba(139,92,246,0.85); }
 
-/* ---------- VERSIÓN (draft) ---------- */
-.hero-version {
-  display: inline-block;
-  margin: 0 0 0.75rem 0.5rem;
-  padding: 0.35rem 0.8rem;
-  border-radius: 999px;
-  font-size: 0.75rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-}
-
-.version-draft {
-  background: #fff3cd;
-  color: #8a6d00;
-  border: 1px solid #f0d98a;
-}
-
-/* ==========================================
-   TOOLBAR (BREADCRUMB + ACCIONES)
-   ========================================== */
+/* ---------- TOOLBAR ---------- */
 .activity-toolbar {
   display: flex;
   justify-content: space-between;
@@ -156,9 +124,11 @@
   color: #2e6b3d;
 }
 
-.toolbar-actions {
+.toolbar-actions,
+.activity-actions {
   display: flex;
   gap: 0.75rem;
+  align-items: center;
 }
 
 .toolbar-btn {
@@ -178,32 +148,21 @@
   background: #f3f4f6;
 }
 
-/* ==========================================
-   TRES COLUMNAS (layout principal)
-   ========================================== */
+/* ---------- TRES COLUMNAS ---------- */
 .three-columns {
   display: grid;
   grid-template-columns: 300px minmax(0, 1fr) 300px;
   gap: 24px;
 }
 
-@media (max-width: 1000px) {
-  .three-columns {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-}
-
-/* ==========================================
-   CARDS LATERALES (izquierda y derecha)
-   ========================================== */
+/* ---------- CARDS LATERALES ---------- */
 .info-card {
   background: white;
   border-radius: 20px;
   padding: 1.25rem;
   margin-bottom: 1.5rem;
   border: 1px solid #eef2f6;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.02);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.02);
 }
 
 .info-card h3 {
@@ -236,7 +195,6 @@
   color: #4b5563;
 }
 
-/* Lista de dos columnas */
 .info-list.two-columns {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -279,6 +237,25 @@
   gap: 0.3rem;
 }
 
+/* .sidebar-sdgs y .sidebar-card no tenían estilo
+   propio: se agregan acá para que dejen de depender
+   sólo de .large-ods / .badge-sidebar-card */
+.sidebar-sdgs,
+.large-ods {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     
+}
+
+.sidebar-card {
+  background: white;
+  border-radius: 20px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,.04);
+}
+
 .ods-mini-grid {
   display: flex;
   flex-wrap: wrap;
@@ -299,6 +276,9 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
+  justify-content: center; /* Centers horizontally */
+  align-items: center;
+
 }
 
 .badge-mini-icon {
@@ -323,50 +303,7 @@
   color: #34525a;
 }
 
-/* ---------- COMPETENCIAS (píldoras) ---------- */
-.competencias-pills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.35rem;
-  margin-top: 0.4rem;
-}
-
-.competencia-pill {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  width: 28px;
-  height: 28px;
-  border-radius: 999px;
-  font-size: 0.8rem;
-  font-weight: 700;
-  color: white;
-  cursor: help;
-}
-
-.competencia-pill.lobatos   { background: #b2a400; }
-.competencia-pill.scouts    { background: #3b82f6; }
-.competencia-pill.caminantes { background: #22c55e; }
-.competencia-pill.rovers    { background: #ef4444; }
-.competencia-pill.castores  { background: #f59e0b; }
-
-.rastros-icons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.4rem;
-  margin-top: 0.4rem;
-}
-
-.rastro-icon {
-  width: 40px;
-  height: 40px;
-  object-fit: contain;
-  cursor: help;
-}
-
-/* ==========================================
-   COLUMNA CENTRAL (CONTENIDO PRINCIPAL)
-   ========================================== */
+/* ---------- COLUMNA CENTRAL ---------- */
 .content-card {
   background: #fff;
   border: 1px solid #e6e8e2;
@@ -390,9 +327,8 @@
   gap: 10px;
 }
 
-/* Ocultar los h2 internos del markdown (ya los usamos como título de card) */
 .content-card .markdown-content {
-  padding: 0px 30px 28px;
+  padding: 0px 10px 12px 0px;
   font-size: large;
 }
 
@@ -410,96 +346,7 @@
   margin-bottom: 0.75rem;
 }
 
-/* ==========================================
-   TIMELINE (secciones con borde izquierdo)
-   ========================================== */
-.timeline-summary,
-.timeline-preparation,
-.timeline-development,
-.timeline-closing {
-  border-left: 6px solid;
-}
-
-.timeline-summary     { border-left-color: #f2a100; }
-.timeline-preparation { border-left-color: #d98d0f; }
-.timeline-development { border-left-color: #256027; }
-.timeline-closing     { border-left-color: #3477bc; }
-
-.timeline-summary h2     { color: #d98d0f; }
-.timeline-preparation h2 { color: #d98d0f; }
-.timeline-development h2 { color: #256027; }
-.timeline-closing h2     { color: #3477bc; }
-
-.timeline-summary ul,
-.timeline-preparation ul,
-.timeline-development ul,
-.timeline-closing ul {
-  padding-left: 1.4rem;
-}
-
-.timeline-summary li,
-.timeline-preparation li,
-.timeline-development li,
-.timeline-closing li {
-  margin-bottom: 0.25rem;
-}
-
-/* ---------- Tarjetas de timeline (con ícono y línea) ---------- */
-.timeline-card {
-  display: grid;
-/*  grid-template-columns: 74px 1fr; */
-  padding: 0;
-  overflow: hidden;
-}
-
-.timeline-column {
-  position: relative;
-}
-
-.timeline-line {
-  position: absolute;
-  left: 36px;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-}
-
-.timeline-circle {
-  position: absolute;
-  top: 18px;
-  left: 8px;
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-}
-
-.timeline-content {
-  padding: 24px 30px;
-}
-
-.timeline-content h2 {
-  text-transform: uppercase;
-  padding: 0px 0px 0px 50px;
-
-}
-
-/* Colores específicos para cada fase */
-.timeline-preparation .timeline-line   { background: #f2e7ca; }
-.timeline-preparation .timeline-circle { background: #f2a100; }
-
-.timeline-development .timeline-line   { background: #e3efe4; }
-.timeline-development .timeline-circle { background: #256027; }
-
-.timeline-closing .timeline-line       { background: #dce8f6; }
-.timeline-closing .timeline-circle     { background: #3477bc; }
-
-/* ==========================================
-   COLUMNA DERECHA – LISTAS
-   ========================================== */
+/* ---------- COLUMNA DERECHA ---------- */
 .competence-list {
   list-style: none;
   padding: 0;
@@ -536,12 +383,6 @@
   object-fit: contain;
 }
 
-.large-ods {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
 .download-list {
   display: flex;
   flex-direction: column;
@@ -549,24 +390,21 @@
 }
 
 .download-item {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
   padding: 0.4rem 0;
   font-size: 0.85rem;
   color: #2e6b3d;
   text-decoration: none;
   border-bottom: 1px solid #f0f0f0;
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
 }
 
 .download-item:hover {
   color: #e98a15;
 }
 
-/* ==========================================
-   FILA INFERIOR (INFO ADICIONAL)
-   ========================================== */
+/* ---------- FILA INFERIOR ---------- */
 .info-row {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -590,13 +428,8 @@
 
 .info-row .info-card {
   border-radius: 24px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.info-row .info-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 12px rgba(0,0,0,.04);
+  transition: transform .2s ease, box-shadow .2s ease;
 }
 
 .info-row .info-card h3 {
@@ -620,13 +453,16 @@
   line-height: 1.5;
 }
 
-/* ---------- Variantes de tarjetas en info-row ---------- */
+.info-row .info-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0,0,0,.08);
+}
+
 .translation-card {
   background: #eef2ff;
   border-color: #3d7fc4;
   border-top: 6px solid #3d7fc4;
 }
-
 .translation-card h3 {
   border-bottom: 1px solid #3d7fc4;
 }
@@ -636,30 +472,24 @@
   border-color: #f3e3c0;
   border-top: 6px solid #f3e3c0;
 }
-
 .references-card h3 {
   border-bottom: 1px solid #f3e3c0;
 }
-
 .references-card ul {
   margin: 0;
   padding-left: 1.2rem;
 }
-
 .references-card li {
   margin-bottom: 0.6rem;
   line-height: 1.5;
 }
-
 .references-card a {
   color: inherit;
   text-decoration: none;
 }
-
 .references-card strong {
   display: block;
 }
-
 .references-card a:hover {
   text-decoration: underline;
 }
@@ -669,7 +499,6 @@
   border-color: #a9d4ae;
   border-top: 6px solid #a9d4ae;
 }
-
 .requirements-card h3 {
   border-bottom: 1px solid #a9d4ae;
 }
@@ -679,34 +508,11 @@
   border-color: #8ccdd9;
   border-top: 6px solid #8ccdd9;
 }
-
 .credits-card h3 {
   border-bottom: 1px solid #8ccdd9;
 }
 
-/* ==========================================
-   LICENCIA
-   ========================================== */
-.license-block {
-  margin-top: 1rem;
-  padding-top: 1rem;
-  border-top: 1px solid rgba(0, 0, 0, 0.08);
-}
-
-.license-image {
-  margin-top: 0.5rem;
-  display: block;
-  max-width: 88px;
-  height: auto;
-}
-
-.license-block h3 {
-  border-bottom: 1px solid #eef2f6;
-}
-
-/* ==========================================
-   ACTIVIDADES RELACIONADAS
-   ========================================== */
+/* ---------- ACTIVIDADES RELACIONADAS ---------- */
 .related-section {
   margin-top: 4rem;
 }
@@ -722,63 +528,209 @@
 
 .related-carousel {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   gap: 1.5rem;
 }
 
-.related-card {
-  background: white;
-  border-radius: 20px;
+/* ---------- RESPONSIVE ---------- */
+@media (max-width: 1000px) {
+  .three-columns {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  .hero-title {
+    font-size: 2rem;
+  }
+  .activity-hero {
+    padding: 3rem 1.5rem;
+  }
+  .info-list.two-columns {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .activity-toolbar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  .hero-metrics {
+    gap: 0.75rem;
+  }
+  .hero-metrics span {
+    font-size: 0.8rem;
+  }
+  .related-carousel {
+    grid-template-columns: 1fr;
+  }
+}
+
+.activity-content-wrapper {
+  width: 90%;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .activity-content-wrapper {
+    width: 95%;
+  }
+}
+
+/* ---------- TIMELINE CENTRAL ---------- */
+.timeline-summary     { border-left: 6px solid #f2a100; }
+.timeline-preparation { border-left: 6px solid #d98d0f; }
+.timeline-development { border-left: 6px solid #256027; }
+.timeline-closing      { border-left: 6px solid #3477bc; }
+
+.timeline-summary h2,
+.timeline-preparation h2 { color: #d98d0f; }
+.timeline-development h2 { color: #256027; }
+.timeline-closing h2     { color: #3477bc; }
+
+.timeline-summary ul,
+.timeline-preparation ul,
+.timeline-development ul,
+.timeline-closing ul {
+  padding-left: 1.4rem;
+}
+
+.timeline-summary li,
+.timeline-preparation li,
+.timeline-development li,
+.timeline-closing li {
+  margin-bottom: .5rem;
+}
+
+.timeline-card {
+  display: grid;
+  grid-template-columns: 74px 1fr;
+  padding: 0;
   overflow: hidden;
-  border: 1px solid #eef2f6;
-  transition: transform 0.2s;
 }
 
-.related-card:hover {
-  transform: translateY(-4px);
+.timeline-column {
+  position: relative;
 }
 
-.related-img {
-  height: 140px;
-  background-size: cover;
-  background-position: center;
-  background-color: #d1d5db;
+.timeline-line {
+  position: absolute;
+  left: 36px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
 }
 
-.related-category {
-  font-size: 0.7rem;
-  color: #2e6b3d;
-  padding: 0.75rem 0.75rem 0.25rem;
+.timeline-circle {
+  position: absolute;
+  top: 18px;
+  left: 8px;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.timeline-content {
+  padding: 24px 15px 0px 0px;
+}
+
+.timeline-content h2 {
   text-transform: uppercase;
-  font-weight: 600;
 }
 
-.related-card h3 {
-  margin: 0 0.75rem 0.5rem;
-  font-size: 1rem;
+.timeline-preparation .timeline-line   { background: #f2e7ca; }
+.timeline-preparation .timeline-circle { background: #f2a100; }
+.timeline-development .timeline-line   { background: #e3efe4; }
+.timeline-development .timeline-circle { background: #256027; }
+.timeline-closing .timeline-line       { background: #dce8f6; }
+.timeline-closing .timeline-circle     { background: #3477bc; }
+
+/* ---------- LICENCIAS ---------- */
+.license-block {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(0,0,0,.08);
 }
 
-.related-card a {
-  text-decoration: none;
-  color: #1f2937;
+.license-image {
+  margin-top: .5rem;
+  display: block;
+  max-width: 88px;
+  height: auto;
+  border: none !important;
+  padding: 0 !important;
 }
 
-.related-card a:hover {
-  color: #2e6b3d;
+.license-block h3 {
+  border-bottom: 1px solid #eef2f6;
 }
 
-.related-meta {
+/* ---------- COMPETENCIAS / RASTROS ---------- */
+.competencias-pills {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.75rem;
-  padding: 0 0.75rem 0.75rem;
-  font-size: 0.7rem;
-  color: #6b7280;
+  gap: 0.35rem;
+  margin-top: 0.4rem;
 }
 
-/* ==========================================
-   NAVEGACIÓN ENTRE ACTIVIDADES (anterior/siguiente)
-   ========================================== */
+.competencia-pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  font-size: .8rem;
+  font-weight: 700;
+  color: white;
+  cursor: help;
+}
+
+.competencia-pill.lobatos    { background: #b2a400; }
+.competencia-pill.scouts     { background: #3b82f6; }
+.competencia-pill.caminantes { background: #22c55e; }
+.competencia-pill.rovers     { background: #ef4444; }
+.competencia-pill.castores   { background: #f59e0b; }
+
+.rastros-icons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.4rem;
+}
+
+.rastro-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  cursor: help;
+}
+
+/* ---------- VERSIÓN / BORRADOR ---------- */
+.hero-version {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+}
+
+.version-draft {
+  background: #fff3cd;
+  color: #8a6d00;
+  border: 1px solid #f0d98a;
+}
+
+/* ---------- NAVEGACIÓN ENTRE ACTIVIDADES ---------- */
 .activity-navigation {
   display: flex;
   justify-content: center;
@@ -796,75 +748,22 @@
   border: 1px solid #e5e7eb;
   text-decoration: none;
   color: inherit;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition: transform .2s ease, box-shadow .2s ease;
   width: 320px;
   max-width: 100%;
 }
 
-.activity-nav-card.previous {
-  text-align: left;
-}
-
-.activity-nav-card.next {
-  text-align: right;
-}
+.activity-nav-card.previous { text-align: left; }
+.activity-nav-card.next     { text-align: right; }
 
 .activity-nav-card:hover {
   transform: translateY(-3px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 6px 16px rgba(0,0,0,.08);
 }
 
 .nav-label {
-  font-size: 0.8rem;
+  font-size: .8rem;
   color: #6b7280;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: .04em;
 }
-
-/* ==========================================
-   ICONOS (Material Symbols)
-   ========================================== */
-.material-symbols-outlined {
-  font-size: 1.2rem;
-  vertical-align: middle;
-  margin-right: 0.25rem;
-}
-
-/* ==========================================
-   RESPONSIVE AJUSTES FINALES
-   ========================================== */
-@media (max-width: 1000px) {
-  .hero-title {
-    font-size: 2rem;
-  }
-
-  .activity-hero {
-    padding: 3rem 1.5rem;
-  }
-
-  .info-list.two-columns {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 640px) {
-  .activity-toolbar {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-  }
-
-  .hero-metrics {
-    gap: 0.75rem;
-  }
-
-  .hero-metrics span {
-    font-size: 0.8rem;
-  }
-
-  .related-carousel {
-    grid-template-columns: 1fr;
-  }
-}
-
-

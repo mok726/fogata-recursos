@@ -1,8 +1,8 @@
 /* ==========================================
    RESPONSIVE.CSS - AJUSTES SEGÚN TAMAÑO DE PANTALLA
+   (sin cambios de contenido, sólo de ubicación)
    ========================================= */
 
-/* Tablets y pantallas medianas */
 @media (max-width: 1000px) {
   .badge-layout {
     grid-template-columns: 1fr;
@@ -46,7 +46,6 @@
   }
 }
 
-/* Móviles y pantallas pequeñas */
 @media (max-width: 700px) {
   .footer-slogan {
     max-width: 100%;
@@ -105,17 +104,13 @@
     padding-left: 0;
     padding-right: 0;
   }
-
-  /* Navegación entre insignias en móvil */
   .badge-navigation {
     flex-direction: column;
   }
-
-  /* Flechas del hero en móvil */
   .badge-hero-nav {
     width: 44px;
     height: 44px;
-    top: 50%; /* antes estaba al 25% en escritorio, en móvil lo centramos verticalmente */
+    top: 50%;
   }
   .badge-hero-nav .material-symbols-outlined {
     font-size: 34px;
@@ -127,5 +122,3 @@
     right: .5rem;
   }
 }
-
-

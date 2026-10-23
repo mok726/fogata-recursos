@@ -1,0 +1,19 @@
+/* ==========================================
+   CHIPS.CSS - ETIQUETAS REDONDEADAS
+   (antes vivía dentro de components.css)
+   ========================================= */
+
+.chip {
+  background: var(--color-primary-bg, #e7efe4);
+  color: var(--color-primary, #355b38);
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}

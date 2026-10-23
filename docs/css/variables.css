@@ -1,41 +1,36 @@
 /* ==========================================
    VARIABLES CSS - TOKENS DE DISEÑO
+   (sin cambios de contenido)
    Sistema de diseño para Fogata de Recursos
    ========================================= */
 
 :root {
   /* ---------- COLORES PRINCIPALES ---------- */
-  /* Paleta de verdes (marca) */
   --color-primary: #2c5e37;
   --color-primary-dark: #1f4027;
   --color-primary-light: #4d7a50;
   --color-primary-lighter: #eef5ea;
   --color-primary-bg: #e7efe4;
-  
-  /* Paleta de texto */
+
   --color-text: #1f2a20;
   --color-text-light: #4c554d;
   --color-text-muted: #667067;
   --color-text-inverse: #ffffff;
-  
-  /* Paleta de fondo */
+
   --color-bg: #f7f9f6;
   --color-bg-light: #ffffff;
   --color-bg-dark: #1f2937;
-  
-  /* Paleta de bordes */
+
   --color-border: #e8ede7;
   --color-border-light: rgba(0,0,0,0.08);
-  
-  /* Paleta de acentos */
+
   --color-accent-green: #4caf50;
   --color-accent-green-light: #8bc34a;
   --color-accent-red: #c62828;
   --color-accent-yellow: #d97706;
   --color-accent-blue: #7777ff;
   --color-accent-purple: #e065f8;
-  
-  /* Paleta de grises */
+
   --color-gray-50: #f9fafb;
   --color-gray-100: #f3f4f6;
   --color-gray-200: #e5e7eb;
@@ -50,16 +45,16 @@
   /* ---------- TIPOGRAFÍA ---------- */
   --font-family-base: 'Inter', Arial, sans-serif;
   --font-family-heading: 'Inter', Arial, sans-serif;
-  
-  --font-size-xs: 0.75rem;    /* 12px */
-  --font-size-sm: 0.875rem;   /* 14px */
-  --font-size-base: 1rem;     /* 16px */
-  --font-size-lg: 1.125rem;   /* 18px */
-  --font-size-xl: 1.25rem;    /* 20px */
-  --font-size-2xl: 1.5rem;    /* 24px */
-  --font-size-3xl: 1.875rem;  /* 30px */
-  --font-size-4xl: 2.25rem;   /* 36px */
-  --font-size-5xl: 3rem;      /* 48px */
+
+  --font-size-xs: 0.75rem;
+  --font-size-sm: 0.875rem;
+  --font-size-base: 1rem;
+  --font-size-lg: 1.125rem;
+  --font-size-xl: 1.25rem;
+  --font-size-2xl: 1.5rem;
+  --font-size-3xl: 1.875rem;
+  --font-size-4xl: 2.25rem;
+  --font-size-5xl: 3rem;
 
   --font-weight-normal: 400;
   --font-weight-medium: 500;
@@ -69,17 +64,17 @@
 
   /* ---------- ESPACIADO ---------- */
   --spacing-0: 0;
-  --spacing-1: 0.25rem;   /* 4px */
-  --spacing-2: 0.5rem;    /* 8px */
-  --spacing-3: 0.75rem;   /* 12px */
-  --spacing-4: 1rem;      /* 16px */
-  --spacing-5: 1.25rem;   /* 20px */
-  --spacing-6: 1.5rem;    /* 24px */
-  --spacing-8: 2rem;      /* 32px */
-  --spacing-10: 2.5rem;   /* 40px */
-  --spacing-12: 3rem;     /* 48px */
-  --spacing-16: 4rem;     /* 64px */
-  --spacing-20: 5rem;     /* 80px */
+  --spacing-1: 0.25rem;
+  --spacing-2: 0.5rem;
+  --spacing-3: 0.75rem;
+  --spacing-4: 1rem;
+  --spacing-5: 1.25rem;
+  --spacing-6: 1.5rem;
+  --spacing-8: 2rem;
+  --spacing-10: 2.5rem;
+  --spacing-12: 3rem;
+  --spacing-16: 4rem;
+  --spacing-20: 5rem;
 
   /* ---------- BORDES Y RADIOS ---------- */
   --radius-sm: 8px;
@@ -116,11 +111,9 @@
   --z-tooltip: 4000;
 
   /* ---------- COMPONENTES ESPECÍFICOS ---------- */
-  /* Navbar */
   --navbar-bg: rgba(255,255,255,0.92);
   --navbar-blur: 12px;
-  
-  /* Badge hero */
+
   --badge-hero-gradient: linear-gradient(
     to right,
     rgba(0,0,0,.55) 0%,
@@ -129,5 +122,3 @@
     rgba(0,0,0,0) 100%
   );
 }
-
-

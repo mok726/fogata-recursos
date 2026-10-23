@@ -1,32 +1,20 @@
 /* ==========================================
    COMPONENTS.CSS - ELEMENTOS REUTILIZABLES
+   (.chip y .meta se movieron a chips.css)
    ========================================= */
 
-/* ---------- CHIPS Y ETIQUETAS ---------- */
-/* Etiqueta redondeada para categorías o badges */
-.chip {
-  background: #e7efe4;
-  color: #355b38;
-  padding: 0.4rem 0.8rem;
-  border-radius: 999px;
-  font-size: 0.85rem;
-  font-weight: 700;
-}
-.meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
 /* ---------- BOTONES ---------- */
-/* Botón principal (hero) */
+/* Botón base (usado en 404, CTAs genéricos, etc.)
+   El home tiene su propia variante clara, ver
+   pages/home.css → se aplica sólo dentro de .home-hero
+   para no pisar este botón base en el resto del sitio. */
 .hero-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   padding: 0.9rem 1.3rem;
   border-radius: 14px;
-  background: #2c5e37;
+  background: var(--color-primary, #2c5e37);
   color: white;
   font-weight: 700;
   transition: transform 0.15s ease, opacity 0.15s ease;
@@ -37,8 +25,15 @@
 }
 .hero-button.secondary {
   background: white;
-  color: #2c5e37;
+  color: var(--color-primary, #2c5e37);
   border: 1px solid rgba(0,0,0,0.08);
+}
+
+.hero-actions {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-top: 2rem;
 }
 
 /* ---------- INPUTS ---------- */
@@ -53,7 +48,7 @@ input[type="text"] {
 }
 input[type="text"]:focus {
   outline: none;
-  border-color: #2c5e37;
+  border-color: var(--color-primary, #2c5e37);
   box-shadow: 0 0 0 4px rgba(44,94,55,0.12);
 }
 
@@ -68,10 +63,10 @@ input[type="text"]:focus {
   left: 0;
   min-width: 220px;
   background: white;
-  border: 1px solid #e8ede7; /* se usaba var(--border-color) */
+  border: 1px solid var(--color-border, #e8ede7);
   border-radius: 12px;
   box-shadow: 0 6px 20px rgba(0,0,0,.12);
-  z-index: 100;
+  z-index: var(--z-dropdown, 100);
 }
 .dropdown:hover .dropdown-menu {
   display: flex;
@@ -81,10 +76,10 @@ input[type="text"]:focus {
   padding: 0.75rem 1rem;
 }
 .dropdown-menu a:hover {
-  background: #f0f4ee; /* se usaba var(--surface-hover) */
+  background: #f0f4ee;
 }
 
-/* ---------- MÉTRICAS Y BARRAS ---------- */
+/* ---------- MÉTRICAS Y BARRAS (usado en activity.njk) ---------- */
 .metric-item {
   margin-bottom: 1rem;
 }
@@ -97,7 +92,7 @@ input[type="text"]:focus {
 }
 .metric-bar div {
   height: 100%;
-  background: #355b38;
+  background: var(--color-primary, #355b38);
 }
 .metric-group {
   display: flex;
@@ -140,7 +135,7 @@ input[type="text"]:focus {
   background: linear-gradient(90deg, #4caf50, #8bc34a);
 }
 
-/* ---------- INFO ITEMS ---------- */
+/* ---------- INFO ITEMS (usado en activity.njk) ---------- */
 .quick-info-grid {
   display: flex;
   flex-direction: column;
@@ -149,7 +144,7 @@ input[type="text"]:focus {
 .info-item {
   padding-bottom: 1rem;
   margin-bottom: 0.25rem;
-  border-bottom: 1px solid #e8ede7; /* var(--border-color) */
+  border-bottom: 1px solid var(--color-border, #e8ede7);
 }
 .info-item:last-child {
   border-bottom: none;
@@ -159,16 +154,16 @@ input[type="text"]:focus {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  color: #667067; /* var(--text-muted) */
+  color: var(--color-text-muted, #667067);
   margin-bottom: 0.25rem;
 }
 .info-item .value {
   font-size: 0.95rem;
   font-weight: 400;
-  color: #1f2a20; /* var(--text-primary) */
+  color: var(--color-text, #1f2a20);
 }
 
-/* ---------- LISTA DE MÉTODOS ---------- */
+/* ---------- LISTA DE MÉTODOS (usado en activity.njk) ---------- */
 .method-list {
   margin: 0;
   padding-left: 1.25rem;
@@ -177,7 +172,7 @@ input[type="text"]:focus {
   margin-bottom: 0.5rem;
 }
 
-/* ---------- PROGRAMA SCOUT (Ramas) ---------- */
+/* ---------- PROGRAMA SCOUT / RAMAS (usado en activity.njk) ---------- */
 .branch-grid {
   display: flex;
   flex-direction: column;
@@ -188,9 +183,9 @@ input[type="text"]:focus {
   align-items: center;
   gap: 16px;
   padding: 12px;
-  border: 1px solid #e8ede7; /* var(--border-color) */
+  border: 1px solid var(--color-border, #e8ede7);
   border-radius: 12px;
-  background: white; /* var(--surface-color) */
+  background: white;
 }
 .branch-item img {
   width: 64px;
@@ -210,7 +205,7 @@ input[type="text"]:focus {
 }
 .branch-actions {
   font-size: 0.9rem;
-  color: #667067; /* var(--text-muted) */
+  color: var(--color-text-muted, #667067);
 }
 
 /* ---------- BADGE DE ACTIVIDAD REQUERIDA ---------- */
@@ -218,7 +213,7 @@ input[type="text"]:focus {
   position: absolute;
   top: 12px;
   left: 12px;
-  background: #c62828;
+  background: var(--color-accent-red, #c62828);
   color: white;
   padding: 0.35rem 0.75rem;
   border-radius: 999px;
@@ -227,5 +222,3 @@ input[type="text"]:focus {
   z-index: 10;
   box-shadow: 0 2px 8px rgba(0,0,0,0.25);
 }
-
-

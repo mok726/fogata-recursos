@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -377,9 +367,7 @@ async function shareActivity() {
       <div class="hero-left">
         <div class="hero-category">Investigación</div>
         <h1 class="hero-title">Pesquerías Útiles
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
+<span class="hero-version">v0.99</span>
 </h1>
         <p class="hero-description">Explora los beneficios de las pesquerías.</p>
 
@@ -1069,29 +1057,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
         </ul>
       </div>
 
-      <div class="info-card">
 
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/1/">
-        <img src="/fogata-recursos/imagenes/ods/ods-1.png" alt="ODS 1"  title="ODS 1" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/8/">
-        <img src="/fogata-recursos/imagenes/ods/ods-8.png" alt="ODS 8"  title="ODS 8" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/14/">
-        <img src="/fogata-recursos/imagenes/ods/ods-14.png" alt="ODS 14"  title="ODS 14" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
-
-      <div class="info-card">
-        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
-        <div class="download-list">
-        </div>
-      </div>
 
 
       <div class="info-card">
@@ -1239,7 +1205,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1406,8 +1372,8 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/hogar-dulce-hogar/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/hogar-dulce-hogar.png"  alt="Hogar Dulce Hogar">
+      href="/fogata-recursos/activities/aguas-sucias/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/aguas-sucias.png"  alt="Aguas Sucias">
     </a>
 
 
@@ -1419,7 +1385,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1441,8 +1407,8 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/hogar-dulce-hogar/">
-             Hogar Dulce Hogar
+             href="/fogata-recursos/activities/aguas-sucias/">
+             Aguas Sucias
 	  </a>
         </h3>
 
@@ -1454,7 +1420,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
          <div class="activity-age">
             <span class="material-symbols-outlined">cake</span>
 
-              11-22 años
+              5-22 años
          </div>
 
          <div class="activity-branches">
@@ -1496,8 +1462,8 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/aguas-sucias/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/aguas-sucias.png"  alt="Aguas Sucias">
+      href="/fogata-recursos/activities/animales-de-la-cuenca/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/animales-de-la-cuenca.png"  alt="Animales de la cuenca hidrográfica">
     </a>
 
 
@@ -1509,7 +1475,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1523,7 +1489,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
  
 	     <span class="activity-duration">
                <span class="material-symbols-outlined">schedule</span>
-	         60&#39;
+	         1h
                </span>
       </div>
 
@@ -1531,8 +1497,8 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/aguas-sucias/">
-             Aguas Sucias
+             href="/fogata-recursos/activities/animales-de-la-cuenca/">
+             Animales De La Cuenca Hidrográfica
 	  </a>
         </h3>
 
@@ -1544,7 +1510,7 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
          <div class="activity-age">
             <span class="material-symbols-outlined">cake</span>
 
-              5-22 años
+              11-22 años
          </div>
 
          <div class="activity-branches">
@@ -1644,14 +1610,11 @@ Desarrollo acciones de preservación y protección ambiental a partir de una con
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

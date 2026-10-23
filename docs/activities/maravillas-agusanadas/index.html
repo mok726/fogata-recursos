@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -377,9 +367,7 @@ async function shareActivity() {
       <div class="hero-left">
         <div class="hero-category">Experimentación</div>
         <h1 class="hero-title">Maravillas Agusanadas
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
+<span class="hero-version">v0.99</span>
 </h1>
         <p class="hero-description">Observación de lombrices en el suelo.</p>
 
@@ -1056,26 +1044,7 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
         </ul>
       </div>
 
-      <div class="info-card">
 
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/15/">
-        <img src="/fogata-recursos/imagenes/ods/ods-15.png" alt="ODS 15"  title="ODS 15" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4"  title="ODS 4" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
-
-      <div class="info-card">
-        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
-        <div class="download-list">
-        </div>
-      </div>
 
 
       <div class="info-card">
@@ -1201,8 +1170,8 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/habitos-animales/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/habitos-animales.png"  alt="Hábitos Animales">
+      href="/fogata-recursos/activities/a-desempolvar-los-libros-viejos/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/a-desempolvar-los-libros-viejos.png"  alt="A Desempolvar los Libros Viejos">
     </a>
 
 
@@ -1214,8 +1183,8 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/exploración/">
-	       Exploración
+	     <a  href="/fogata-recursos/activityType/reflexion/">
+	       Reflexión
  	     </a>
            </div>
 
@@ -1228,7 +1197,7 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
  
 	     <span class="activity-duration">
                <span class="material-symbols-outlined">schedule</span>
-	         90&#39;
+	         60&#39;
                </span>
       </div>
 
@@ -1236,8 +1205,8 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/habitos-animales/">
-             Hábitos Animales
+             href="/fogata-recursos/activities/a-desempolvar-los-libros-viejos/">
+             A Desempolvar Los Libros Viejos
 	  </a>
         </h3>
 
@@ -1298,8 +1267,8 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/dibujos-polvorientos/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/dibujos-polvorientos.png"  alt="Dibujos Polvorientos">
+      href="/fogata-recursos/activities/aliados-terrestres/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/aliados-terrestres.png"  alt="Aliados Terrestres">
     </a>
 
 
@@ -1311,8 +1280,8 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/creatividad / arte/">
-	       Creatividad / Arte
+	     <a  href="/fogata-recursos/activityType/investigacion/">
+	       Investigación
  	     </a>
            </div>
 
@@ -1325,7 +1294,7 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
  
 	     <span class="activity-duration">
                <span class="material-symbols-outlined">schedule</span>
-	         60&#39;
+	         45&#39;
                </span>
       </div>
 
@@ -1333,8 +1302,8 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/dibujos-polvorientos/">
-             Dibujos Polvorientos
+             href="/fogata-recursos/activities/aliados-terrestres/">
+             Aliados Terrestres
 	  </a>
         </h3>
 
@@ -1346,104 +1315,7 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
          <div class="activity-age">
             <span class="material-symbols-outlined">cake</span>
 
-              5-15 años
-         </div>
-
-         <div class="activity-branches">
-
-
-	       <div class="hero-branch-slot disabled">
-
-
-		</div>
-
-
-
-	       <div class="hero-branch-slot disabled">
-
-
-		</div>
-
-
-
-	       <div class="hero-branch-slot disabled">
-
-
-		</div>
-
-
-
-	       <div class="hero-branch-slot disabled">
-
-
-		</div>
-
-           </div>
-
-         </div>
-       </div>
-     </div>
-
-
-</div>
-
-
-
-
-<div class="card activity-card  compact   " >
-
-  <div class="activity-card-hero">
-    <a
-      class="activity-card-main-link"
-      href="/fogata-recursos/activities/fabulas-de-trabajo-en-equipo/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/fabulas-de-trabajo-en-equipo.png"  alt="Fábulas de Trabajo en Equipo">
-    </a>
-
-
-    <div class="activity-card-overlay">
-
-      <div class="activity-card-overlay-top">
-
-
-
-
-     	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/juego/">
-	       Juego
- 	     </a>
-           </div>
-
-
-
-
-
-
-
- 
-	     <span class="activity-duration">
-               <span class="material-symbols-outlined">schedule</span>
-	         30&#39;
-               </span>
-      </div>
-
-      <div class="activity-card-overlay-middle">
-
-        <h3>
-	  <a class="card-title-link"
-             href="/fogata-recursos/activities/fabulas-de-trabajo-en-equipo/">
-             Fábulas De Trabajo En Equipo
-	  </a>
-        </h3>
-
-      </div>
-
-
-      <div class="activity-card-overlay-bottom">
-
-         <div class="activity-age">
-            <span class="material-symbols-outlined">cake</span>
-
-              5-15 años
+              5-22 años
          </div>
 
          <div class="activity-branches">
@@ -1505,7 +1377,7 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1529,6 +1401,103 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
 	  <a class="card-title-link"
              href="/fogata-recursos/activities/analisis-de-suelos/">
              Análisis De Suelos
+	  </a>
+        </h3>
+
+      </div>
+
+
+      <div class="activity-card-overlay-bottom">
+
+         <div class="activity-age">
+            <span class="material-symbols-outlined">cake</span>
+
+              5-22 años
+         </div>
+
+         <div class="activity-branches">
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+
+
+	       <div class="hero-branch-slot disabled">
+
+
+		</div>
+
+           </div>
+
+         </div>
+       </div>
+     </div>
+
+
+</div>
+
+
+
+
+<div class="card activity-card  compact   " >
+
+  <div class="activity-card-hero">
+    <a
+      class="activity-card-main-link"
+      href="/fogata-recursos/activities/celebracion-por-el-suelo/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/celebracion-por-el-suelo.png"  alt="Celebración por el Suelo">
+    </a>
+
+
+    <div class="activity-card-overlay">
+
+      <div class="activity-card-overlay-top">
+
+
+
+
+     	   <div class="activity-type-chip">
+	     <a  href="/fogata-recursos/activityType/servicio-a-los-demas/">
+	       Servicio a los demás
+ 	     </a>
+           </div>
+
+
+
+
+
+
+
+ 
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         Evento de 1 día
+               </span>
+      </div>
+
+      <div class="activity-card-overlay-middle">
+
+        <h3>
+	  <a class="card-title-link"
+             href="/fogata-recursos/activities/celebracion-por-el-suelo/">
+             Celebración Por El Suelo
 	  </a>
         </h3>
 
@@ -1647,14 +1616,11 @@ Experimento diferentes medios y tecnologías que me ayuden a resolver problemas 
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

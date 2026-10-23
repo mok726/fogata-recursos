@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -377,9 +367,7 @@ async function shareActivity() {
       <div class="hero-left">
         <div class="hero-category">Actividad</div>
         <h1 class="hero-title">Patitas Limpias
-<div class="hero-version version-1.0">
-  1.0
-</div>
+<span class="hero-version">v1.0</span>
 </h1>
         <p class="hero-description">Una seisena limpia, las otras juzgan. La que más Patitas Limpias acumula elige premio.</p>
 
@@ -956,23 +944,6 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 
 
-      <div class="info-card">
-
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/3/">
-        <img src="/fogata-recursos/imagenes/ods/ods-3.png" alt="ODS 3"  title="ODS 3" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/11/">
-        <img src="/fogata-recursos/imagenes/ods/ods-11.png" alt="ODS 11"  title="ODS 11" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/16/">
-        <img src="/fogata-recursos/imagenes/ods/ods-16.png" alt="ODS 16"  title="ODS 16" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
 
       <div class="info-card">
         <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
@@ -1116,7 +1087,7 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1192,7 +1163,7 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1255,8 +1226,8 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/conoce-a-los-expertos/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/conoce-a-los-expertos.png"  alt="Conoce a los Expertos">
+      href="/fogata-recursos/activities/club-verde/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/club-verde.png"  alt="Club verde">
     </a>
 
 
@@ -1268,8 +1239,8 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
-	       Investigación
+	     <a  href="/fogata-recursos/activityType/aprender-haciendo/">
+	       Aprender haciendo
  	     </a>
            </div>
 
@@ -1282,7 +1253,7 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
  
 	     <span class="activity-duration">
                <span class="material-symbols-outlined">schedule</span>
-	         60&#39;
+	         En curso
                </span>
       </div>
 
@@ -1290,8 +1261,8 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/conoce-a-los-expertos/">
-             Conoce A Los Expertos
+             href="/fogata-recursos/activities/club-verde/">
+             Club Verde
 	  </a>
         </h3>
 
@@ -1331,8 +1302,8 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/resuelve-un-problema-comunitario/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/resuelve-un-problema-comunitario.png"  alt="Resuelve un problema comunitario">
+      href="/fogata-recursos/activities/conoce-a-los-expertos/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/conoce-a-los-expertos.png"  alt="Conoce a los Expertos">
     </a>
 
 
@@ -1344,8 +1315,8 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/servicio a los demás/">
-	       Servicio a los demás
+	     <a  href="/fogata-recursos/activityType/investigacion/">
+	       Investigación
  	     </a>
            </div>
 
@@ -1356,14 +1327,18 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
 
 
  
+	     <span class="activity-duration">
+               <span class="material-symbols-outlined">schedule</span>
+	         60&#39;
+               </span>
       </div>
 
       <div class="activity-card-overlay-middle">
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/resuelve-un-problema-comunitario/">
-             Resuelve Un Problema Comunitario
+             href="/fogata-recursos/activities/conoce-a-los-expertos/">
+             Conoce A Los Expertos
 	  </a>
         </h3>
 
@@ -1375,7 +1350,7 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
          <div class="activity-age">
             <span class="material-symbols-outlined">cake</span>
 
-              5-15 años
+              5-22 años
          </div>
 
          <div class="activity-branches">
@@ -1461,14 +1436,11 @@ Me responsabilizo por distintas tareas en mi Manada y seisena.
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

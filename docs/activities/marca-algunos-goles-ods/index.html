@@ -184,19 +184,9 @@ put this inside the body
   <!-- CSS -->
 <link rel="stylesheet" href="/fogata-recursos/css/main.css">
 
-<link rel="stylesheet" href="/fogata-recursos/css/base.css">
-<link rel="stylesheet" href="/fogata-recursos/css/footer.css">
-<link rel="stylesheet" href="/fogata-recursos/css/navbar.css">
-<link rel="stylesheet" href="/fogata-recursos/css/layout.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/chips.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/icons.css">
-<link rel="stylesheet" href="/fogata-recursos/css/components/badges.css">
 
 
-
-<link rel="stylesheet" href="/fogata-recursos/css/cards.css">
 <link rel="stylesheet" href="/fogata-recursos/css/pages/activity.css">
-<link rel="stylesheet" href="/fogata-recursos/css/disclosure.css">
 
 
 
@@ -328,7 +318,7 @@ put this inside the body
 </nav>
 
 
-  <main class="page-container">
+  <main class="page-container" data-pagefind-body>
 
     <script>
 
@@ -377,9 +367,7 @@ async function shareActivity() {
       <div class="hero-left">
         <div class="hero-category">Reflexión</div>
         <h1 class="hero-title">Marca algunos goles con los ODS
-<div class="hero-version version-draft">
-  BORRADOR
-</div>
+<span class="hero-version">v0.99</span>
 </h1>
         <p class="hero-description">Conecta los plásticos con los ODS.</p>
 
@@ -1152,50 +1140,7 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
         </ul>
       </div>
 
-      <div class="info-card">
 
-<div class="sidebar-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
-  <div class="sidebar-sdgs large-ods">
-      <a href="/fogata-recursos/ods/1/">
-        <img src="/fogata-recursos/imagenes/ods/ods-1.png" alt="ODS 1"  title="ODS 1" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/3/">
-        <img src="/fogata-recursos/imagenes/ods/ods-3.png" alt="ODS 3"  title="ODS 3" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/4/">
-        <img src="/fogata-recursos/imagenes/ods/ods-4.png" alt="ODS 4"  title="ODS 4" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/5/">
-        <img src="/fogata-recursos/imagenes/ods/ods-5.png" alt="ODS 5"  title="ODS 5" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/6/">
-        <img src="/fogata-recursos/imagenes/ods/ods-6.png" alt="ODS 6"  title="ODS 6" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/11/">
-        <img src="/fogata-recursos/imagenes/ods/ods-11.png" alt="ODS 11"  title="ODS 11" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/12/">
-        <img src="/fogata-recursos/imagenes/ods/ods-12.png" alt="ODS 12"  title="ODS 12" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/13/">
-        <img src="/fogata-recursos/imagenes/ods/ods-13.png" alt="ODS 13"  title="ODS 13" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/14/">
-        <img src="/fogata-recursos/imagenes/ods/ods-14.png" alt="ODS 14"  title="ODS 14" class="ods-icon-large">
-      </a>
-      <a href="/fogata-recursos/ods/15/">
-        <img src="/fogata-recursos/imagenes/ods/ods-15.png" alt="ODS 15"  title="ODS 15" class="ods-icon-large">
-      </a>
-  </div>
-</div>
-</div>
-
-      <div class="info-card">
-        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
-        <div class="download-list">
-        </div>
-      </div>
 
 
       <div class="info-card">
@@ -1343,7 +1288,7 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1447,7 +1392,7 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1551,7 +1496,7 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/investigación/">
+	     <a  href="/fogata-recursos/activityType/investigacion/">
 	       Investigación
  	     </a>
            </div>
@@ -1642,8 +1587,8 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
   <div class="activity-card-hero">
     <a
       class="activity-card-main-link"
-      href="/fogata-recursos/activities/limpiando-el-entorno/">
-        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/limpiando-el-entorno.png"  alt="Limpiando el entorno">
+      href="/fogata-recursos/activities/adivina-el-ods/">
+        <img  class="activity-card-image"  src="/fogata-recursos/imagenes/actividades/adivina-el-ods.png"  alt="Adivina el ODS">
     </a>
 
 
@@ -1655,8 +1600,8 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
 
 
      	   <div class="activity-type-chip">
-	     <a  href="/fogata-recursos/activityType/servicio a los demás/">
-	       Servicio a los demás
+	     <a  href="/fogata-recursos/activityType/creatividad-arte/">
+	       Creatividad / Arte
  	     </a>
            </div>
 
@@ -1669,7 +1614,7 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
  
 	     <span class="activity-duration">
                <span class="material-symbols-outlined">schedule</span>
-	         1 mes
+	         1-2 días
                </span>
       </div>
 
@@ -1677,8 +1622,8 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
 
         <h3>
 	  <a class="card-title-link"
-             href="/fogata-recursos/activities/limpiando-el-entorno/">
-             Limpiando El Entorno
+             href="/fogata-recursos/activities/adivina-el-ods/">
+             Adivina El Ods
 	  </a>
         </h3>
 
@@ -1804,14 +1749,11 @@ Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la nat
   El proyecto
 </a>
       <a href="/fogata-recursos/colaborar/">Cómo ayudar</a>
-      <a href="/fogata-recursos/creditos/">Créditos</a>
+      <a href="/fogata-recursos/historia-del-proyecto/">Historia del proyecto</a>
     </div>
     <div class="footer-links-col">
       <h4>Legal</h4>
-      <a href="/fogata-recursos/colaborar/">Términos de uso</a>
       <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Licencia CC BY-NC-SA</a>
-      <a href="/fogata-recursos/colaborar/">Política de privacidad</a>
-      <a href="/fogata-recursos/creditos/">Creditos y Reconocimientos</a>
      </div>
     <div class="footer-links-col">
       <h4>Redes</h4>

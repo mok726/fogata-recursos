@@ -1,18 +1,28 @@
+/* ==========================================
+   MAIN.CSS - SÓLO LO TRANSVERSAL
+   Se carga en TODAS las páginas.
+
+   Lo que antes vivía acá (pages/activity.css,
+   pages/home.css, pages/ages.css, pages/badges.css)
+   se movió al front-matter `styles:` de cada
+   template, para que cada página cargue SÓLO
+   su propio CSS de página.
+
+   cards.css SÍ sigue siendo transversal a
+   propósito: activity-card.njk se usa en home,
+   /activities/, páginas de insignia y en la
+   sección de "relacionadas" — está en casi
+   todas partes, no es de una sola página.
+   ========================================= */
 
 @import "./variables.css";
-@import "./components/layout.css";
-/* Importamos los m  dulos de layout separados */
-@import './components/navbar.css';
-@import './components/footer.css';
-@import './pages/badges.css';
-@import './components/components.css';
-@import './components/responsive.css';
-
-/* seguimos con la lista comun de m  dulos */
+@import "./base.css";
+@import "./layout.css";
+@import "./components/navbar.css";
+@import "./components/footer.css";
+@import "./components/chips.css";
+@import "./components/icons.css";
+@import "./components/components.css";
 @import "./components/cards.css";
-@import "./components/cards-v2.css";
-@import "./pages/activity.css";
-@import "./pages/home.css";
-@import "./components/search.css";
-@import "./pages/ages.css";
 @import "./components/disclosure.css";
+@import "./components/responsive.css";

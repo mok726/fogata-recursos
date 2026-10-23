@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mok726.github.io/fogata-recursos/sitemap.xml
+

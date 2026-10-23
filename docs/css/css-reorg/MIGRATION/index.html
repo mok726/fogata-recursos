@@ -1,0 +1,102 @@
+<h1>Guía de migración - Reorganización de CSS</h1>
+<h2>1. Reemplazar archivos en <code>content/css/</code></h2>
+<p>Copiá estos archivos tal cual, pisando los que ya existen:</p>
+<pre><code>content/css/
+├── base.css              (NUEVO)
+├── layout.css             (reescrito - ver notas abajo)
+├── main.css               (reescrito - mucho más chico)
+├── variables.css          (sin cambios de contenido)
+├── components/
+│   ├── chips.css          (NUEVO)
+│   ├── icons.css          (NUEVO - arregla el bug de íconos)
+│   ├── components.css     (reescrito - sin .chip/.meta)
+│   ├── cards.css          (reescrito - fusiona cards.css + cards-v2.css)
+│   ├── disclosure.css     (sin cambios de contenido)
+│   ├── search.css         (sin cambios de contenido)
+│   ├── navbar.css         (sin cambios de contenido)
+│   ├── footer.css         (sin cambios de contenido)
+│   └── responsive.css     (sin cambios de contenido)
+└── pages/
+    ├── home.css            (reescrito - hero-button ahora con ámbito)
+    ├── activity.css        (reescrito - sin la regla base de íconos)
+    ├── ages.css             (sin cambios de contenido)
+    ├── badges.css           (sin cambios de contenido, cambia dónde se carga)
+    └── feedback.css         (NUEVO - la página no tenía estilos)
+</code></pre>
+<h2>2. Borrar estos archivos (ya no se usan / están duplicados)</h2>
+<pre><code>content/css/css/                      ← toda la carpeta duplicada
+content/css/main.css.old
+content/css/components/cards-old.css
+content/css/components/cards-v2.css   ← fusionado dentro de cards.css
+content/css/components/layout.css-funciona
+content/css/components/print.css.bak
+content/css/components/print.css.bck-multihojas
+content/css/pages/activity-old.css
+content/css/pages/activity.css.bak-premock
+</code></pre>
+<p><code>content/css/components/print.css</code> se deja igual — no se tocó, no estaba en el problema que veníamos resolviendo.</p>
+<h2>3. Reemplazar <code>content/_includes/layouts/base.njk</code></h2>
+<p>Usá el archivo <code>base.njk</code> adjunto. El único cambio real es el bloque <code>&lt;!-- CSS --&gt;</code>:
+ahora sólo carga <code>main.css</code> (que ya hace <code>@import</code> de todo lo transversal), en vez de
+8 <code>&lt;link&gt;</code> de los cuales 5 apuntaban a archivos que nunca existieron.</p>
+<h2>4. Actualizar el front-matter de cada template</h2>
+<p>Estos son los cambios exactos de <code>styles:</code> en cada archivo, comparados con lo que ya
+tenían (algunos ya usaban este mecanismo, sólo hay que ajustar qué listan):</p>
+<p><strong><code>content/activities/activity.njk</code></strong> (o donde esté el layout de detalle de actividad)</p>
+<pre><code class="language-diff"> styles:
+-  - /css/cards.css
+   - /css/pages/activity.css
+-  - /css/disclosure.css
+</code></pre>
+<p>(<code>cards.css</code> y <code>disclosure.css</code> ahora son transversales, ya los carga <code>main.css</code>)</p>
+<p><strong><code>content/activities.njk</code></strong></p>
+<pre><code class="language-diff"> styles:
+-  - /css/cards.css
+   - /css/components/search.css
+</code></pre>
+<p>(<code>cards.css</code> ahora es transversal; el path de <code>search.css</code> cambió a <code>components/</code>)</p>
+<p><strong><code>content/_includes/layouts/badge-page.njk</code></strong></p>
+<pre><code class="language-diff"> styles:
+-  - /css/layout.css
+-  - /css/navbar.css
+-  - /css/footer.css
+   - /css/pages/badges.css
+</code></pre>
+<p>(<code>layout.css</code>/<code>navbar.css</code>/<code>footer.css</code> ya son transversales vía <code>main.css</code> - cargarlos
+de nuevo acá no rompía nada, pero era trabajo de más)</p>
+<p><strong><code>content/_includes/layouts/age-page.njk</code></strong> (y <code>sdg-page.njk</code> si sigue el mismo patrón)</p>
+<pre><code class="language-diff"> styles:
+-  - /css/cards.css
+   - /css/pages/ages.css
+</code></pre>
+<p><strong><code>content/feedback.njk</code></strong> — no tenía <code>styles:</code>, hay que agregarlo:</p>
+<pre><code class="language-yaml">styles:
+  - /css/pages/feedback.css
+</code></pre>
+<p><strong>Home / <code>index.njk</code></strong> — no pude confirmar su front-matter actual porque los 6 archivos
+<code>index.njk</code> que subiste pisaron entre sí (quedó sólo uno en disco). Si el de home no
+tiene <code>styles:</code> todavía, agregale:</p>
+<pre><code class="language-yaml">styles:
+  - /css/pages/home.css
+</code></pre>
+<h2>5. Cambios de comportamiento a verificar visualmente</h2>
+<ul>
+<li><strong>Botones en la home vs. resto del sitio</strong>: antes <code>.hero-button</code> de <code>home.css</code>
+pisaba silenciosamente al de <code>components.css</code> en TODO el sitio (incluida la 404).
+Ahora <code>home.css</code> sólo afecta <code>.home-hero .hero-button</code>. Revisá que la home se
+vea igual, y que la 404 use el botón verde/blanco base (antes probablemente se
+veía con los colores de home sin que lo notaras).</li>
+<li><strong>Íconos</strong>: deberían aparecer de verdad ahora (antes decían &quot;schedule&quot;, &quot;cake&quot;,
+&quot;productivity&quot; como texto). Si seguís viendo texto, revisá que el link a
+Google Fonts en <code>&lt;head&gt;</code> cargue bien (Network tab).</li>
+<li><strong><code>.grid</code> / <code>.empty-state</code> / <code>.search-box</code> / <code>.listing-header</code> / <code>.section-header</code></strong>:
+ahora tienen una sola definición en <code>layout.css</code> (o <code>search.css</code> para el search-box).
+Si alguna página se veía distinta a propósito por el conflicto viejo, avisame para
+ajustar esa página puntual en vez de la regla global.</li>
+<li><strong><code>/feedback/</code></strong>: va a cambiar de aspecto por primera vez (antes no tenía estilos).</li>
+</ul>
+<h2>6. Pendiente para la próxima sesión</h2>
+<p>No llegué a auditar <code>taxonomy-page.njk</code>, <code>metodoScout-page.njk</code>, <code>skill-page.njk</code>,
+<code>valoresScout-page.njk</code>, <code>activityType-page.njk</code>, <code>print-activities.njk</code>, ni los
+<code>index.njk</code> de badges/activities/etc. (se pisaron entre sí al subirlos). Si querés
+que sigamos, subí esos con nombres distintos y seguimos el mismo proceso.</p>
