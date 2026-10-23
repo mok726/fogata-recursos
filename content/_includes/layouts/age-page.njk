@@ -30,7 +30,7 @@ styles:
 <section class="page-header age-page-header">
 
   <img
-    src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+    src="{{ ('/imagenes/ramas/' + age.icon) | thumb("rama") | url }}"
     alt="{{ age.name }}">
 
   <div>

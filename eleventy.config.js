@@ -24,6 +24,10 @@ const knownBadgeIds =
 
 const cheerio = require("cheerio");
 
+const fs = require("fs");
+
+const path = require("path");
+
 
 module.exports = function(eleventyConfig) {
 
@@ -42,6 +46,11 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy(
     "imagenes"
   );
+
+  // Miniaturas generadas por scripts/make-thumbs.js
+  eleventyConfig.addPassthroughCopy({
+    ".cache/thumbs": "imagenes/_thumbs"
+  });
 
   eleventyConfig.addCollection(
     "activities",
@@ -226,6 +235,55 @@ eleventyConfig.addFilter(
   function(version) {
 
     return String(version || "").toUpperCase() === "DRAFT";
+
+  }
+);
+
+
+// Devuelve la miniatura WebP de una imagen si existe
+// (ver scripts/make-thumbs.js); si no, la imagen original.
+//   {{ item.image | thumb("card") | url }}
+const thumbPresets = require("./content/_data/thumbPresets.js");
+const thumbCache = new Map();
+
+eleventyConfig.addFilter(
+  "thumb",
+  function(src, presetName) {
+
+    const preset = thumbPresets[presetName];
+
+    if (!src || !preset) {
+      return src;
+    }
+
+    const key = presetName + "|" + src;
+
+    if (thumbCache.has(key)) {
+      return thumbCache.get(key);
+    }
+
+    let result = src;
+
+    const prefix = "/" + preset.dir + "/";
+
+    if (src.startsWith(prefix)) {
+
+      const file =
+        src.slice(prefix.length)
+          .replace(/\.(png|jpe?g|webp)$/i, ".webp");
+
+      if (
+        !file.includes("/") &&
+        fs.existsSync(path.join(__dirname, ".cache", "thumbs", presetName, file))
+      ) {
+        result = "/imagenes/_thumbs/" + presetName + "/" + file;
+      }
+
+    }
+
+    thumbCache.set(key, result);
+
+    return result;
 
   }
 );
