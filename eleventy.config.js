@@ -220,23 +220,12 @@ eleventyConfig.addCollection(
   );
 
 
-// Una actividad es borrador si su versión es "DRAFT"
-// o un número menor a 1.0 (p. ej. "0.99").
+// Una actividad es borrador si su versión es "DRAFT".
 eleventyConfig.addFilter(
   "isDraft",
   function(version) {
 
-    if (!version) {
-      return false;
-    }
-
-    if (String(version).toUpperCase() === "DRAFT") {
-      return true;
-    }
-
-    const number = parseFloat(version);
-
-    return !isNaN(number) && number < 1;
+    return String(version || "").toUpperCase() === "DRAFT";
 
   }
 );

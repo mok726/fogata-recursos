@@ -198,7 +198,7 @@
     <div class="meta-label">Versión:</div>
     <div class="meta-value">
       {% if activity.data.version | isDraft %}
-        BORRADOR{% if activity.data.version != "DRAFT" %} (v{{ activity.data.version }}){% endif %}
+        BORRADOR
       {% else %}
         {{ activity.data.version }}
       {% endif %}

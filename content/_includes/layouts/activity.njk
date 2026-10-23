@@ -56,7 +56,7 @@ async function shareActivity() {
         <h1 class="hero-title">{{ title }}
 {% if version %}
 {% if version | isDraft %}
-<span class="hero-version version-draft" title="Actividad pendiente de revisión manual">BORRADOR{% if version != "DRAFT" %} v{{ version }}{% endif %}</span>
+<span class="hero-version version-draft" title="Actividad pendiente de revisión manual">BORRADOR</span>
 {% else %}
 <span class="hero-version">v{{ version }}</span>
 {% endif %}
