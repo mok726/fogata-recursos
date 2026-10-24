@@ -7,7 +7,7 @@
          item.image
          or '/imagenes/actividades/activity-card.png'
        %}
-      <img  class="activity-card-image"  src="{{ activityImage | url }}"  alt="{{ item.title }}">
+      <img  class="activity-card-image"  src="{{ activityImage | thumb("card") | url }}" width="800" height="343" loading="lazy" decoding="async"  alt="{{ item.title }}">
     </a>
 
     {% if item.original and (item.original | string | lower) != "false" and item.original != false  %}
@@ -86,8 +86,8 @@
 				   <a
 		                     href="{{ ('/edades/' + age.id + '/') | url }}">
 		            		<img
-		                  	  class="hero-branch-icon"
-			                  src="{{ ('/imagenes/ramas/' + age.icon) | url }}"
+		                  	  class="hero-branch-icon" loading="lazy" decoding="async"
+			                  src="{{ ('/imagenes/ramas/' + age.icon) | thumb("rama") | url }}"
                   		  	  alt="{{ age.name }}"
                   			  title="{{ age.name }}">
 				    </a>
