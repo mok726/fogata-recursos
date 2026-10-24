@@ -1,4 +1,5 @@
 # Construye el sitio y lo publica en GitHub Pages en cada push a main.
+# En los pull requests sólo construye (sirve para ver que no se rompió).
 #
 # Requiere: Settings → Pages → Build and deployment → Source:
 # "GitHub Actions".
@@ -8,6 +9,7 @@ name: Publicar sitio
 on:
   push:
     branches: [main]
+  pull_request:
   workflow_dispatch:
 
 permissions:
@@ -17,7 +19,7 @@ permissions:
 
 # Si llegan dos pushes seguidos, se publica sólo el último.
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -46,13 +48,16 @@ jobs:
 
       - run: npm run build
 
-      - uses: actions/configure-pages@v5
+      - if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
 
-      - uses: actions/upload-pages-artifact@v3
+      - if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: docs
 
   deploy:
+    if: github.event_name != 'pull_request'
     needs: build
     runs-on: ubuntu-latest
     environment:
