@@ -29,6 +29,15 @@
     {% endif %}
   {% endset %}
 
+  {# Al compartir una actividad se muestra su propia imagen
+     (ver preset "og" en _data/thumbPresets.js). #}
+  {% set ogImage = "/imagenes/social-preview.jpg" %}
+  {% set ogType = "website" %}
+  {% if image and (image | thumb("og")) != image %}
+    {% set ogImage = image | thumb("og") %}
+    {% set ogType = "article" %}
+  {% endif %}
+
   {% set canonicalUrl %}
     {{ site.url }}{{ page.url | url }}
   {% endset %}
@@ -72,7 +81,7 @@
 
   <meta
     property="og:type"
-    content="website">
+    content="{{ ogType }}">
 
   <meta
     property="og:site_name"
@@ -96,18 +105,12 @@
 
 <meta
   property="og:image"
-  content="{{ site.url }}{{ site.pathPrefix }}/imagenes/social-preview.jpg">
+  content="{{ site.url }}{{ site.pathPrefix }}{{ ogImage }}">
 <meta property="og:image:type" content="image/jpeg" />
 <meta property="og:image:width" content="1200" />
 <meta property="og:image:height" content="630" />
 <meta property="og:image:alt" content="{{ pageTitle | trim }}" />
 
-<meta
-  property="og:image"
-  content="{{ site.url }}{{ site.pathPrefix }}/imagenes/social-card-small.png">
-<meta property="og:image:width" content="300" />
-<meta property="og:image:height" content="158" />
-<meta property="og:image:alt" content="{{ pageTitle | trim }}" />
 
 
 
@@ -161,7 +164,7 @@ put this inside the body
 
 <meta
   name="twitter:image"
-  content="{{ site.url }}{{ site.pathPrefix }}/imagenes/social-preview.jpg">
+  content="{{ site.url }}{{ site.pathPrefix }}{{ ogImage }}">
 
 <meta name="twitter:image:alt" content="{{ pageTitle | trim }}" />
 <!-- meta name="twitter:site" content="@MCTArgentina" / -->

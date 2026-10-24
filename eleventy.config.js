@@ -270,7 +270,10 @@ eleventyConfig.addFilter(
 
       const file =
         src.slice(prefix.length)
-          .replace(/\.(png|jpe?g|webp)$/i, ".webp");
+          .replace(
+            /\.(png|jpe?g|webp)$/i,
+            preset.format === "jpeg" ? ".jpg" : ".webp"
+          );
 
       if (
         !file.includes("/") &&
