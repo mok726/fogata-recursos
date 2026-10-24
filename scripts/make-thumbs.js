@@ -1,7 +1,7 @@
 // scripts/make-thumbs.js
 //
-// Genera versiones livianas (WebP) de las imágenes que se muestran
-// chicas en el sitio: tarjetas de actividad, íconos de rama y logo.
+// Genera versiones livianas de las imágenes: miniaturas WebP para
+// tarjetas, íconos de rama y logo, y JPG 1200x630 para compartir.
 //
 // Las originales no se tocan. Las miniaturas van a .cache/thumbs/
 // (ignorado por git) y Eleventy las copia a docs/imagenes/_thumbs/.
@@ -24,6 +24,13 @@ const OUT = path.join(ROOT, ".cache", "thumbs");
 const MANIFEST = path.join(ROOT, ".cache", "thumbs-manifest.json");
 
 const IMAGE_EXT = /\.(png|jpe?g|webp)$/i;
+
+
+function extensionFor(preset) {
+
+  return preset.format === "jpeg" ? ".jpg" : ".webp";
+
+}
 
 
 function readManifest() {
@@ -83,7 +90,7 @@ async function main() {
 
       const target = path.join(
         targetDir,
-        path.basename(source).replace(IMAGE_EXT, ".webp")
+        path.basename(source).replace(IMAGE_EXT, extensionFor(preset))
       );
 
       const key = path.relative(OUT, target);
@@ -104,15 +111,22 @@ async function main() {
 
       try {
 
-        await sharp(source)
+        const image = sharp(source)
           .resize({
             width: preset.width,
             height: preset.height,
-            fit: "inside",
+            fit: preset.fit || "inside",
+            position: preset.position || "centre",
             withoutEnlargement: true
-          })
-          .webp({ quality: preset.quality || 70 })
-          .toFile(target);
+          });
+
+        if (preset.format === "jpeg") {
+          image.jpeg({ quality: preset.quality || 80, mozjpeg: true });
+        } else {
+          image.webp({ quality: preset.quality || 70 });
+        }
+
+        await image.toFile(target);
 
         seen[key] = hash;
         created++;
