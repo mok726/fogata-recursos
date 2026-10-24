@@ -106,7 +106,7 @@ collections.activities
   href="{{ ('/badges/' + previousBadge.id + '/') | url }}"
   aria-label="Insignia anterior">
 
-  <span class="material-symbols-outlined">
+  <span class="material-symbols-outlined" aria-hidden="true">
     chevron_left
   </span>
 
@@ -117,7 +117,7 @@ collections.activities
   href="{{ ('/badges/' + nextBadge.id + '/') | url }}"
   aria-label="Siguiente insignia">
 
-  <span class="material-symbols-outlined">
+  <span class="material-symbols-outlined" aria-hidden="true">
     chevron_right
   </span>
 
@@ -286,7 +286,7 @@ collections.activities
 
                      <a href="{{ site.url }}" title="{{ site.descripcion }}" target="_blank">
                       {{ site.nombre | replace("-", " ") |  lower | capitalize  }}
-                      <span class="material-symbols-outlined">open_in_new</span>
+                      <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
                     </a>
 
                   </li>

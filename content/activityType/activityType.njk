@@ -6,6 +6,9 @@ pagination:
 
 permalink: "/activityType/{{ activityType.id }}/"
 
+eleventyComputed:
+  title: "Tipo de actividad: {{ activityType.name }}"
+
 layout: layouts/activityType-page.njk
 ---
 

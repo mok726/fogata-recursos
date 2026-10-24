@@ -65,9 +65,9 @@ async function shareActivity() {
         <p class="hero-description">{{ summary or description }}</p>
 
 <div class="hero-metrics">
-  <span><span class="material-symbols-outlined">groups</span> {{ participants or "N/E" }}</span>
-  <span><span class="material-symbols-outlined">schedule</span> {{ duration or "N/E" }}</span>
-  <span><span class="material-symbols-outlined">productivity</span> {{ age or "Todas" }}</span>
+  <span><span class="material-symbols-outlined" aria-hidden="true">groups</span> {{ participants or "N/E" }}</span>
+  <span><span class="material-symbols-outlined" aria-hidden="true">schedule</span> {{ duration or "N/E" }}</span>
+  <span><span class="material-symbols-outlined" aria-hidden="true">productivity</span> {{ age or "Todas" }}</span>
 </div>
 
         <div class="hero-tags">
@@ -104,7 +104,7 @@ async function shareActivity() {
 
 
  <button onclick="shareActivity()">
-    <span class="material-symbols-outlined">share</span> Compartir
+    <span class="material-symbols-outlined" aria-hidden="true">share</span> Compartir
   </button>
 </div>
 </div>
@@ -130,7 +130,7 @@ async function shareActivity() {
 <div class="panel">
 
   <h3>
-    <span class="material-symbols-outlined">
+    <span class="material-symbols-outlined" aria-hidden="true">
       format_list_bulleted
     </span>
     Información rápida
@@ -190,7 +190,7 @@ async function shareActivity() {
 
 <div class="info-card">
   <h3>
-    <span class="material-symbols-outlined">
+    <span class="material-symbols-outlined" aria-hidden="true">
       analytics
     </span>
     Perfil de la Actividad
@@ -277,7 +277,7 @@ async function shareActivity() {
   {# 2. MATERIALES (si existen) #}
   {% if (materials | default([])) | length or (special_materials | default([])) | length %}
   <div class="info-card">
-    <h3><span class="material-symbols-outlined">handyman</span> Materiales</h3>
+    <h3><span class="material-symbols-outlined" aria-hidden="true">handyman</span> Materiales</h3>
     <div class="tag-list">
       {% for item in (materials | default([])) %}
         <span class="tag">{{ item }}</span>
@@ -294,7 +294,7 @@ async function shareActivity() {
   {# 4. ODS RELACIONADOS #}
   {% if (sdgs | default([])) | length %}
   <div class="info-card">
-  <h3><span class="material-symbols-outlined">public</span> Alineado a los ODS</h3>
+  <h3><span class="material-symbols-outlined" aria-hidden="true">public</span> Alineado a los ODS</h3>
 
   <div class="sidebar-sdgs large-ods">
     {% for sdg in sdgs %}
@@ -310,7 +310,7 @@ async function shareActivity() {
   {# 5. INSIGNIAS RELACIONADAS #}
   {% if (activity_badges | default([])) | length %}
   <div class="info-card">
-    <h3><span class="material-symbols-outlined">military_tech</span> Contribuye a las Insignias</h3>
+    <h3><span class="material-symbols-outlined" aria-hidden="true">military_tech</span> Contribuye a las Insignias</h3>
     <div class="badges-mini">
       {% for rawBadge in activity_badges %}
         {% set badgeId = rawBadge.id if rawBadge.id else (rawBadge | slugify) %}
@@ -342,7 +342,7 @@ async function shareActivity() {
 
 <div class="content-card">
   <h2>
-    <span class="material-symbols-outlined">push_pin</span>
+    <span class="material-symbols-outlined" aria-hidden="true">push_pin</span>
     Introducción
   </h2>
 
@@ -414,7 +414,7 @@ async function shareActivity() {
                        <div class="timeline-column">
                           <div class="timeline-line"></div>
                           <div class="timeline-circle">
-                            <span class="material-symbols-outlined">
+                            <span class="material-symbols-outlined" aria-hidden="true">
                               {{ sectionIcon }}
                             </span>
                           </div>
@@ -437,7 +437,7 @@ async function shareActivity() {
                    <div class="timeline-column">
                       <div class="timeline-line"></div>
                       <div class="timeline-circle">
-                        <span class="material-symbols-outlined">
+                        <span class="material-symbols-outlined" aria-hidden="true">
                           {{ sectionIcon }}
                         </span>
                       </div>
@@ -492,7 +492,7 @@ async function shareActivity() {
 
 <div class="info-card">
   <h3>
-    <span class="material-symbols-outlined">groups</span>
+    <span class="material-symbols-outlined" aria-hidden="true">groups</span>
     Programa Scout
   </h3>
 
@@ -726,7 +726,7 @@ Ruta: {{ comp.ruta }}
 {% if scout_method %}
   <div class="info-card">
     <h3>
-      <span class="material-symbols-outlined">explore</span>
+      <span class="material-symbols-outlined" aria-hidden="true">explore</span>
         Método Scout
     </h3>
 
@@ -740,7 +740,7 @@ Ruta: {{ comp.ruta }}
 
       {% if skills %}
       <div class="info-card">
-        <h3><span class="material-symbols-outlined">check_circle</span> Competencias desarrolladas</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">check_circle</span> Competencias desarrolladas</h3>
         <ul class="competence-list">
           {% for skill in skills %}
             <li>{{ skill }}</li>
@@ -752,7 +752,7 @@ Ruta: {{ comp.ruta }}
 
       {% if (files | default([])) | length %}
       <div class="info-card">
-        <h3><span class="material-symbols-outlined">attach_file</span> Descargas</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">attach_file</span> Descargas</h3>
         <div class="download-list">
           {% for file in files %}
             <a href="{{ file.filepath }}" class="download-item">
@@ -766,7 +766,7 @@ Ruta: {{ comp.ruta }}
       {% if tags %}
 
       <div class="info-card">
-        <h3><span class="material-symbols-outlined">local_offer</span> Etiquetas</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">local_offer</span> Etiquetas</h3>
         <div class="tag-list">
           {% for tag in tags %}
               {% if tag not in ['actividades', 'recurso'] %}
@@ -788,7 +788,7 @@ Ruta: {{ comp.ruta }}
 
     {% if responsible or prep_time or accessibility %}
       <div class="info-card requirements-card">
-        <h3><span class="material-symbols-outlined">assignment_ind</span> Responsable / requisitos</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">assignment_ind</span> Responsable / requisitos</h3>
         <p><strong>Responsable:</strong> {{ responsible }}</p>
         {% if prep_time %}<p><strong>Tiempo preparaci  n:</strong> {{ prep_time }}</p>{% endif %}
 {#        {% if accessibility %}<p><strong>Accesibilidad:</strong> {{ accessibility |  default([]) | join(", ") }}</p>{% endif %} #}
@@ -799,7 +799,7 @@ Ruta: {{ comp.ruta }}
     {% if author or source or license or adapted_from or translator or credits %}
       <div class="info-card credits-card">
         <h3>
-          <span class="material-symbols-outlined">license</span>
+          <span class="material-symbols-outlined" aria-hidden="true">license</span>
              Créditos
         </h3>
         {% if author %}
@@ -856,7 +856,7 @@ Ruta: {{ comp.ruta }}
 
     {% if translation_notice %}
       <div class="info-card translation-card">
-        <h3><span class="material-symbols-outlined">translate</span> Nota sobre la traducción</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">translate</span> Nota sobre la traducción</h3>
         {% if translation_notice.en %}
            <p>{{ translation_notice.en }}</p>
         {% endif %}
@@ -878,7 +878,7 @@ Ruta: {{ comp.ruta }}
 
     {% if references %}
       <div class="info-card  references-card">
-        <h3><span class="material-symbols-outlined">menu_book</span> Referencias</h3>
+        <h3><span class="material-symbols-outlined" aria-hidden="true">menu_book</span> Referencias</h3>
         <ul>
           {% for ref in references %}
              <li>{% if ref.url %}<a href="{{ ref.url }}">{% endif %}<strong>{{ ref.title }}</strong> – {% if ref.author %}{{ ref.author }}{% endif %} {% if ref.year %}({{ ref.year }}){% endif %}{% if ref.url %}</a>{% endif %}</li>

@@ -29,17 +29,21 @@
 
     <div class="navbar-dropdown">
 
-      <button class="navbar-dropdown-button">
+      <button
+        class="navbar-dropdown-button"
+        type="button"
+        aria-expanded="false"
+        aria-controls="navbar-explorar">
 
         Explorar por
 
-        <span class="material-symbols-outlined">
+        <span class="material-symbols-outlined" aria-hidden="true">
           expand_more
         </span>
 
       </button>
 
-      <div class="navbar-dropdown-content">
+      <div class="navbar-dropdown-content" id="navbar-explorar">
 
         <a href="{{ '/badges/' | url }}">
           Insignias
@@ -80,9 +84,10 @@
     <a
       class="navbar-icon-button"
       href="{{ '/activities/' | url }}"
-      title="Buscar">
+      title="Buscar"
+      aria-label="Buscar">
 
-      <span class="material-symbols-outlined">
+      <span class="material-symbols-outlined" aria-hidden="true">
         search
       </span>
 
@@ -102,9 +107,10 @@
 <a
   class="navbar-icon-button"
   href="{{ feedbackUrl | url }}"
-  title="Enviar comentarios">
+  title="Enviar comentarios"
+  aria-label="Enviar comentarios">
 
-  <span class="material-symbols-outlined">
+  <span class="material-symbols-outlined" aria-hidden="true">
     rate_review
   </span>
 
@@ -114,9 +120,10 @@
     <a
       class="navbar-icon-button"
       href="{{ '/acerca-de/' | url }}"
-      title="Acerca de">
+      title="Acerca de"
+      aria-label="Acerca de">
 
-      <span class="material-symbols-outlined">
+      <span class="material-symbols-outlined" aria-hidden="true">
         info
       </span>
 
@@ -126,3 +133,42 @@
 
 </nav>
 
+
+<script>
+  // Menú "Explorar por": se abre con clic, Enter o Espacio y se
+  // cierra con Escape o al hacer clic afuera. El hover sigue
+  // funcionando por CSS.
+  (function () {
+
+    var dropdown = document.querySelector(".navbar-dropdown");
+
+    if (!dropdown) return;
+
+    var button = dropdown.querySelector(".navbar-dropdown-button");
+
+    function setOpen(open) {
+      dropdown.classList.toggle("is-open", open);
+      button.setAttribute("aria-expanded", open ? "true" : "false");
+    }
+
+    button.addEventListener("click", function () {
+      setOpen(button.getAttribute("aria-expanded") !== "true");
+    });
+
+    dropdown.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") {
+        setOpen(false);
+        button.focus();
+      }
+    });
+
+    dropdown.addEventListener("focusout", function (event) {
+      if (!dropdown.contains(event.relatedTarget)) setOpen(false);
+    });
+
+    document.addEventListener("click", function (event) {
+      if (!dropdown.contains(event.target)) setOpen(false);
+    });
+
+  })();
+</script>
