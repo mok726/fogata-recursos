@@ -203,13 +203,17 @@ put this inside the body
 
 
   <!-- CSS -->
-<link rel="stylesheet" href="{{ '/css/main.css' | url }}">
+{# ?v= cambia en cada build: así el navegador no mezcla CSS
+   nuevo con CSS viejo de su caché después de un deploy. #}
+{% set cssVersion = buildDate.getTime() %}
+<link rel="stylesheet" href="{{ '/css/main.css' | url }}?v={{ cssVersion }}">
+<link rel="stylesheet" href="{{ '/css/fogata.css' | url }}?v={{ cssVersion }}">
 
 
 
 {% if styles %}
   {% for css in styles %}
-<link rel="stylesheet" href="{{ css | url }}">
+<link rel="stylesheet" href="{{ css | url }}?v={{ cssVersion }}">
   {% endfor %}
 {% endif %}
 

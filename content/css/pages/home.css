@@ -11,7 +11,7 @@ body:has(.home) {
 }
 
 .home {
-  /* Valores en variables.css (--fogata-*) */
+  /* Valores en fogata.css (--fogata-*) */
   --home-paper: var(--fogata-paper);
   --home-paper-dark: var(--fogata-paper-dark);
   --home-card: var(--fogata-card);

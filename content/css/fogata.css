@@ -1,0 +1,25 @@
+/* ==========================================
+   FOGATA.CSS - estética de la landing
+   Pergamino, verde bosque y naranja fuego. La usan
+   home.css y activities.css; la idea es ir llevándola
+   al resto del sitio desde acá.
+
+   Va en su propio <link> (con ?v= del build) y no en
+   variables.css: lo que entra por @import en main.css
+   queda en la caché del navegador con la versión vieja
+   y, si una variable no existe, el navegador descarta
+   el fondo completo de la cabecera.
+   ========================================= */
+
+:root {
+  --fogata-paper: #f3ecdb;
+  --fogata-paper-dark: #e2d3b1;
+  --fogata-card: #faf5e8;
+  --fogata-forest: #23402a;
+  --fogata-fire: #e8732c;
+  --fogata-fire-dark: #c75a1a;
+  --fogata-ink: #2b2a22;
+  --fogata-muted: #5c5640;
+  --fogata-display: 'Rubik Dirt', var(--font-family-base);
+  --fogata-slab: 'Roboto Slab', Georgia, serif;
+}
