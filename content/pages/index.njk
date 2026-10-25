@@ -2,55 +2,201 @@
 title: Fogata de Recursos
 layout: layouts/base.njk
 permalink: /
+
+# Tienen que ir en el front matter: un {% set %} en el cuerpo
+# no le llega al layout (por eso antes home.css nunca cargaba).
+styles:
+  - /css/pages/home.css
+
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
+
+# Palabras que aparecen en títulos/descripciones, así la
+# búsqueda de /activities/?search=... devuelve resultados.
+temas:
+  - agua
+  - reciclaje
+  - energía
+  - bosques
+  - biodiversidad
+  - clima
+  - océano
+  - alimentos
+  - suelo
+  - polinizadores
+  - juego
+  - salud
+  - plástico
+  - desastres
+  - comunidad
+  - experimento
+
+populares:
+  - agua
+  - reciclaje
+  - juego
+  - energía
 ---
 
-
-{% set styles = [
-  "/css/layout.css",
-  "/css/pages/home.css",
-  "/css/components/search.css"
-] %}
+<div class="home" data-pagefind-ignore="all">
 
 <section class="home-hero">
+
+  <div class="home-hero-art">
+    <img
+      src="{{ '/imagenes/favicon.png' | thumb('hero') | url }}"
+      width="720" height="1037"
+      fetchpriority="high"
+      alt="Fogata con forma de flor de lis">
+  </div>
 
   <div class="home-hero-content">
 
     <h1>
-      Fogata de Recursos
+      <span class="home-hero-word">Fogata</span>
+      <span class="home-hero-de">de</span>
+      <span class="home-hero-word">Recursos</span>
     </h1>
 
-<p>
-  Biblioteca abierta de actividades scouts, juegos, talleres,
-  recursos educativos y propuestas pedagógicas para dirigentes,
-  educadores y comunidades.
-</p>
+    <p>
+      Biblioteca abierta de actividades scouts, recursos educativos
+      y propuestas pedagógicas.
+    </p>
 
-    <div class="hero-actions">
+    <form
+      class="home-search"
+      role="search"
+      action="{{ '/activities/' | url }}"
+      method="get">
 
-      <a class="hero-button" href="{{ '/activities/' | url }}">
-        Explorar actividades
-      </a>
+      <span class="material-symbols-outlined" aria-hidden="true">search</span>
 
-      <a class="hero-button secondary" href="{{ '/badges/' | url }}">
-        Ver insignias
-      </a>
+      <input
+        id="search-input"
+        name="search"
+        type="search"
+        autocomplete="off"
+        aria-label="Buscar en el sitio"
+        placeholder="Buscar: agua, reciclaje, juego, ODS 13…">
 
-    </div>
+      <button type="submit">Buscar</button>
+
+      <div id="search-results" class="home-search-results" hidden></div>
+
+    </form>
+
+    <p class="home-popular">
+      Populares:
+      {% for tema in populares %}
+        <a href="{{ ('/activities/?search=' + tema) | url }}">{{ tema }}</a>
+      {% endfor %}
+    </p>
+
+  </div>
+
+
+</section>
+
+
+<ul class="home-stats">
+  <li><b>{{ collections.activities | length }}</b> actividades</li>
+  <li><b>{{ badges | length }}</b> insignias</li>
+  <li><b>{{ allSdgs | length }}</b> ODS</li>
+  <li><b>{{ ageGroups | length }}</b> ramas</li>
+</ul>
+
+
+<section class="home-section">
+
+  <h2>¿Por dónde empezás?</h2>
+
+  <div class="home-paths">
+
+    <a class="home-path" href="{{ '/activities/' | url }}">
+      <span class="material-symbols-outlined" aria-hidden="true">explore</span>
+      <h3>Actividades</h3>
+      <p>Juegos, talleres y dinámicas</p>
+    </a>
+
+    <a class="home-path" href="{{ '/badges/' | url }}">
+      <span class="material-symbols-outlined" aria-hidden="true">military_tech</span>
+      <h3>Insignias</h3>
+      <p>Progresión por especialidad</p>
+    </a>
+
+    <a class="home-path" href="{{ '/ods/' | url }}">
+      <span class="material-symbols-outlined" aria-hidden="true">public</span>
+      <h3>ODS</h3>
+      <p>La Agenda 2030 en acción</p>
+    </a>
+
+    <a class="home-path" href="{{ '/edades/' | url }}">
+      <span class="material-symbols-outlined" aria-hidden="true">groups</span>
+      <h3>Edades</h3>
+      <p>Propuestas por rama scout</p>
+    </a>
 
   </div>
 
 </section>
 
 
-<section class="search-box">
+<section class="home-section">
 
-  <input
-    id="search-input"
-    aria-label="Buscar en el sitio"
-    type="text"
-    placeholder="Buscar actividades, ODS, insignias o temas...">
+  <div class="home-section-header">
 
-  <div id="search-results" class="search-results"></div>
+    <div>
+      <h2>Actividades destacadas</h2>
+      <p>Algunas de las últimas actividades incorporadas.</p>
+    </div>
+
+    <a class="home-more" href="{{ '/activities/' | url }}">
+      Ver las {{ collections.activities | length }} →
+    </a>
+
+  </div>
+
+  <div class="grid">
+
+    {% for activityItem in collections.activitiesSorted %}
+      {% if loop.index <= 6 %}
+        {% set item = activityItem.data %}
+        {% set activityUrl = activityItem.url %}
+        {% include "components/activity-card.njk" %}
+      {% endif %}
+    {% endfor %}
+
+  </div>
+
+</section>
+
+
+<section class="home-section">
+
+  <h2>Temas frecuentes</h2>
+
+  <div class="home-topics">
+    {% for tema in temas %}
+      <a href="{{ ('/activities/?search=' + tema) | url }}">{{ tema }}</a>
+    {% endfor %}
+  </div>
+
+</section>
+
+
+<section class="home-section home-cta">
+
+  <div>
+    <h2>¿Tenés una actividad que funciona?</h2>
+    <p>Sumala a la fogata y que la usen otros grupos.</p>
+  </div>
+
+  <a href="{{ '/colaborar/' | url }}">Colaborar</a>
+
+</section>
+
+</div>
+
 
 <script type="module">
 
@@ -58,246 +204,53 @@ import * as pagefind from "{{ '/pagefind/pagefind.js' | url }}";
 
 await pagefind.options({ baseUrl: "{{ '/' | url }}" });
 
-const input =
-  document.getElementById("search-input");
+const input = document.getElementById("search-input");
+const resultsContainer = document.getElementById("search-results");
 
-const resultsContainer =
-  document.getElementById("search-results");
+const escapeHtml = s => String(s).replace(/[&<>"]/g, c =>
+  ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+let lastQuery = "";
 
 input.addEventListener("input", async () => {
 
   const query = input.value.trim();
+  lastQuery = query;
 
   if (query.length < 2) {
-
+    resultsContainer.hidden = true;
     resultsContainer.innerHTML = "";
-
     return;
   }
 
-  const search = await pagefind.search(query);
+  const search = await pagefind.debouncedSearch(query);
+
+  // Llegó una búsqueda más nueva mientras esperábamos.
+  if (search === null || query !== lastQuery) return;
 
   const results = await Promise.all(
-    search.results.slice(0, 8).map(r => r.data())
+    search.results.slice(0, 6).map(r => r.data())
   );
 
-  resultsContainer.innerHTML = results.map(r => `
+  resultsContainer.innerHTML = results.length
+    ? results.map(r => `
+        <a class="home-search-result" href="${r.url}">
+          <strong>${escapeHtml(r.meta.title || "Sin título")}</strong>
+          <span>${r.excerpt || ""}</span>
+        </a>`).join("")
+      + `<button type="submit" class="home-search-all">Ver todas las actividades con «${escapeHtml(query)}»</button>`
+    : `<p class="home-search-empty">Sin resultados para «${escapeHtml(query)}».</p>`;
 
-    <div class="search-result">
-
-      <a href="${r.url}">
-        ${r.meta.title || "Sin título"}
-      </a>
-
-      <p>
-        ${r.excerpt || ""}
-      </p>
-
-    </div>
-
-  `).join("");
+  resultsContainer.hidden = false;
 
 });
 
+document.addEventListener("click", e => {
+  if (!e.target.closest(".home-search")) resultsContainer.hidden = true;
+});
+
+input.addEventListener("keydown", e => {
+  if (e.key === "Escape") resultsContainer.hidden = true;
+});
+
 </script>
-
-</section>
-
-
-<section class="section-spacing">
-
-<section class="section-spacing">
-
-  <div class="section-header">
-
-    <div>
-
-      <h2>
-        Explorar la biblioteca
-      </h2>
-
-      <p>
-        Navegá el contenido por actividades, insignias,
-        ramas scout y Objetivos de Desarrollo Sostenible.
-      </p>
-
-    </div>
-
-  </div>
-
-  <div class="grid">
-
-    <a href="{{ '/activities/' | url }}">
-
-      <div class="card">
-        <div class="card-content">
-
-          <h2>
-            Actividades
-          </h2>
-
-          <p>
-            Explorar dinámicas, juegos, talleres y propuestas educativas.
-          </p>
-
-        </div>
-      </div>
-
-    </a>
-
-    <a href="{{ '/badges/' | url }}">
-
-      <div class="card">
-        <div class="card-content">
-
-          <h2>
-            Insignias
-          </h2>
-
-          <p>
-            Actividades relacionadas con insignias y progresión.
-          </p>
-
-        </div>
-      </div>
-
-    </a>
-
-    <a href="{{ '/ods/' | url }}">
-
-      <div class="card">
-        <div class="card-content">
-
-          <h2>
-            ODS
-          </h2>
-
-          <p>
-            Explorar actividades vinculadas a Objetivos de Desarrollo Sostenible.
-          </p>
-
-        </div>
-      </div>
-
-    </a>
-
-    <a href="{{ '/edades/' | url }}">
-
-      <div class="card">
-        <div class="card-content">
-
-          <h2>
-            Edades
-          </h2>
-
-          <p>
-            Buscar propuestas adaptadas a cada rama scout.
-          </p>
-
-        </div>
-      </div>
-
-    </a>
-
-  </div>
-
-</section>
-
-<section class="section-spacing">
-
-  <h2>
-    Sobre el proyecto
-  </h2>
-
-  <p>
-    Fogata de Recursos busca construir una biblioteca educativa scout
-    abierta, navegable y reutilizable.
-  </p>
-
-<ul>
-  <li>Búsqueda rápida de actividades y recursos.</li>
-  <li>Exploración por edades, insignias y ODS.</li>
-  <li>Reutilización y adaptación de propuestas educativas.</li>
-  <li>Educación ambiental y ciudadanía global.</li>
-  <li>Trabajo basado en competencias.</li>
-  <li>Repositorio abierto y colaborativo.</li>
-</ul>
-
-</section>
-
-<section class="featured-section">
-
-  <div class="section-header">
-
-    <div>
-
-      <h2>
-        Actividades destacadas
-      </h2>
-
-      <p>
-        Algunas de las últimas actividades incorporadas al proyecto.
-      </p>
-
-    </div>
-
-    <a class="hero-button secondary" href="{{ '/activities/' | url }}">
-      Ver todas
-    </a>
-
-  </div>
-
-  <div class="grid">
-
-{% for activityItem in collections.activitiesSorted %}
-
-      {% if loop.index <= 6 %}
-
-{% set item = activityItem.data %}
-{% set activityUrl = activityItem.url %}
-
-{% include "components/activity-card.njk" %}
-      {% endif %}
-
-    {% endfor %}
-
-  </div>
-
-</section>
-
-
-<section>
-
-  <div class="section-header">
-
-    <div>
-
-      <h2>
-        Explorar por temas
-      </h2>
-
-<p>
-  Temas frecuentes presentes en actividades, juegos,
-  proyectos y recursos educativos.
-</p>
-    </div>
-
-  </div>
-
-  <div class="tag-cloud">
-
-    {% for tag in tags %}
-
-      <a
-        class="tag-link"
-        href="{{ ('/activities/?search=' + tag) | url }}">
-
-        {{ tag }}
-
-      </a>
-
-    {% endfor %}
-
-  </div>
-
-</section>
