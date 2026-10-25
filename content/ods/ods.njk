@@ -6,6 +6,9 @@ pagination:
 
 permalink: "/ods/{{ sdg.id }}/"
 
+eleventyComputed:
+  title: "ODS {{ sdg.id }} · {{ sdg.name }}"
+
 layout: layouts/sdg-page.njk
 ---
 

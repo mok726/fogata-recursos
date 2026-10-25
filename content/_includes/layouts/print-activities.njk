@@ -81,26 +81,26 @@
 
       {% if activity.data.duration %}
       <div class="meta-item">
-        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">schedule</span>  {{ activity.data.duration  or "N/E" }}
+        <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">schedule</span>  {{ activity.data.duration  or "N/E" }}
       </div>
       {% endif %}
 
       {% if activity.data.age_group %}
       <div class="meta-item">
-          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">productivity</span>  {{ activity.data.age_group | ageRange }}
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">productivity</span>  {{ activity.data.age_group | ageRange }}
       </div>
       {% endif %}
 
       {% if activity.data.participants %}
        <div class="meta-item">
-        <span><span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">groups</span>  {{ activity.data.participants or "N/E" }}</span>
+        <span><span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">groups</span>  {{ activity.data.participants or "N/E" }}</span>
       </div>
     {% endif %}
 
 
       {% if activity.data.location %}
        <div class="meta-item">
-          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;">share_location</span>  {{ activity.data.location }}
+          <span class="material-symbols-outlined" style="margin-right: 8px; vertical-align: middle;" aria-hidden="true">share_location</span>  {{ activity.data.location }}
       </div>
      {% endif %}
 

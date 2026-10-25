@@ -6,6 +6,9 @@ pagination:
 
 permalink: "/competencias/{{ skill.id }}/"
 
+eleventyComputed:
+  title: "Competencia: {{ skill.name }}"
+
 layout: layouts/skill-page.njk
 ---
 

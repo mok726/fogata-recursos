@@ -17,7 +17,7 @@
       <div class="activity-card-overlay-top">
 
     {% if item.original and (item.original | string | lower) != "false" and item.original != false  %}
-       <div class="activity-original"><span class="material-symbols-outlined">stars</span></div>
+       <div class="activity-original" title="Actividad original"><span class="material-symbols-outlined" role="img" aria-label="Actividad original">stars</span></div>
     {% endif %}
 
 
@@ -32,7 +32,7 @@
 
     {% if isRequired %}
        <div class="activity-required">
-          <span class="material-symbols-outlined">asterisk</span>Mandatoria
+          <span class="material-symbols-outlined" aria-hidden="true">asterisk</span>Mandatoria
        </div>
     {% endif %}
 
@@ -42,14 +42,14 @@
 
     {% if isComplementary %}
        <div class="activity-complementary">
-        <span class="material-symbols-outlined">add</span>Complementaria
+        <span class="material-symbols-outlined" aria-hidden="true">add</span>Complementaria
        </div>
     {% endif %}
 
         {% if item.duration %} 
   	  {% if not item.duration in ["Proyecto continuo","Proyecto de campaña","Proyecto de recaudación","Proyecto de organización","Proyecto de evento" ,"Proyecto de seguimiento"]%}
 	     <span class="activity-duration">
-               <span class="material-symbols-outlined">schedule</span>
+               <span class="material-symbols-outlined" aria-hidden="true">schedule</span>
 	         {{ item.duration |  replace(r/\s*(\d+)\s*min.*/, "$1'")  |  replace(r/\s*(\d+)\s*hora.*/, "$1h")  | replace("Proyecto de ","") | replace(" + seguimiento","") }}
                </span>
 	  {% endif %}
@@ -71,7 +71,7 @@
       <div class="activity-card-overlay-bottom">
 
          <div class="activity-age">
-            <span class="material-symbols-outlined">cake</span>
+            <span class="material-symbols-outlined" aria-hidden="true">cake</span>
 {#        	       {{ item.age_group | ageRange }}
 #}
               {{ item.age }}
@@ -124,7 +124,7 @@
 
            {% if item.attachments and item.attachments.length %}
 
-             <span class="material-symbols-outlined">attach_file</span>
+             <span class="material-symbols-outlined" aria-hidden="true">attach_file</span>
 
            {% endif %}
 
