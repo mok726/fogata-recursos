@@ -7,20 +7,21 @@
 ========================= */
 
 body:has(.home) {
-  background: #f3ecdb;
+  background: var(--fogata-paper);
 }
 
 .home {
-  --home-paper: #f3ecdb;
-  --home-paper-dark: #e2d3b1;
-  --home-card: #faf5e8;
-  --home-forest: #23402a;
-  --home-fire: #e8732c;
-  --home-fire-dark: #c75a1a;
-  --home-ink: #2b2a22;
-  --home-muted: #5c5640;
-  --home-display: 'Rubik Dirt', var(--font-family-base);
-  --home-slab: 'Roboto Slab', Georgia, serif;
+  /* Valores en variables.css (--fogata-*) */
+  --home-paper: var(--fogata-paper);
+  --home-paper-dark: var(--fogata-paper-dark);
+  --home-card: var(--fogata-card);
+  --home-forest: var(--fogata-forest);
+  --home-fire: var(--fogata-fire);
+  --home-fire-dark: var(--fogata-fire-dark);
+  --home-ink: var(--fogata-ink);
+  --home-muted: var(--fogata-muted);
+  --home-display: var(--fogata-display);
+  --home-slab: var(--fogata-slab);
 
   max-width: 1240px;
   margin: 0 auto;

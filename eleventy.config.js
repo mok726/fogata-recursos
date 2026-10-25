@@ -942,6 +942,164 @@ else {
 
 
 
+  //
+  // =====================================================
+  // BUSCADOR DE /activities/
+  // =====================================================
+  // El filtrado se hace en el navegador sobre atributos
+  // data-* de cada tarjeta. Estos filtros los preparan en
+  // el build para que el JS sólo compare textos.
+  // =====================================================
+  //
+
+  // Minúsculas y sin tildes: "Energía" -> "energia".
+  // El JS de la página normaliza la consulta igual.
+  const normalizeText = text =>
+    String(text || "")
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[̀-ͯ]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+
+  const badgeIdOf = b =>
+    String(b && b.id ? b.id : b || "").toLowerCase();
+
+  // Texto donde busca la caja de búsqueda: título, resumen,
+  // descripción, tipo, categorías, etiquetas, competencias,
+  // insignias, ramas y ODS (como "ods13").
+  eleventyConfig.addFilter(
+    "searchText",
+    function(data, badges, ageGroups) {
+
+      const list = v =>
+        Array.isArray(v) ? v : (v ? [v] : []);
+
+      const badgeNames = list(data.activity_badges).map(b => {
+        const info = badges.find(x => badgeIdOf(x) === badgeIdOf(b));
+        return info ? info.id + " " + info.name : badgeIdOf(b);
+      });
+
+      const ageNames = list(data.age_group).map(g => {
+        const info = ageGroups.find(a =>
+          a.aliases.includes(String(g).toLowerCase()));
+        return info ? info.name + " " + info.aliases.join(" ") : g;
+      });
+
+      return normalizeText([
+        data.title,
+        data.summary,
+        data.description,
+        data.main_type,
+        list(data.category).join(" "),
+        list(data.tags).join(" ").replace(/-/g, " "),
+        list(data.skills).join(" "),
+        data.activity_code,
+        badgeNames.join(" "),
+        ageNames.join(" "),
+        list(data.sdgs).map(n => "ods" + n).join(" ")
+      ].filter(Boolean).join(" "));
+
+    }
+  );
+
+  eleventyConfig.addFilter("normalizeText", normalizeText);
+
+  // Agrupa la duración (texto libre) en tres rangos útiles
+  // para planificar una reunión. "" si no se puede saber.
+  //   corta: hasta 45 min · media: hasta 2 h · larga: más
+  eleventyConfig.addFilter(
+    "durationBucket",
+    function(duration) {
+
+      const d = normalizeText(duration);
+
+      if (!d) {
+        return "";
+      }
+
+      if (/dia|semana|mes|proyecto|campamento/.test(d)) {
+        return "larga";
+      }
+
+      const num = s => parseFloat(s.replace(",", "."));
+
+      let minutes = null;
+
+      // "1-2 horas" cuenta por el máximo.
+      const hours = d.match(/(\d+(?:[.,]\d+)?)(?:\s*(?:-|a)\s*(\d+(?:[.,]\d+)?))?\s*h/);
+      const mins = d.match(/(\d+)(?:\s*(?:-|a)\s*(\d+))?\s*min/);
+
+      if (hours) {
+        minutes = num(hours[2] || hours[1]) * 60;
+      } else if (mins) {
+        minutes = num(mins[2] || mins[1]);
+      }
+
+      if (minutes === null) {
+        return "";
+      }
+
+      return minutes <= 45 ? "corta" : minutes <= 120 ? "media" : "larga";
+
+    }
+  );
+
+  // Opciones del filtro "Tipo": los main_type que existen,
+  // con su cantidad, ordenados por nombre.
+  eleventyConfig.addFilter(
+    "activityTypeOptions",
+    function(activities) {
+
+      const types = new Map();
+
+      for (const a of activities) {
+
+        const name = String(a.data.main_type || "").trim();
+
+        if (!name) {
+          continue;
+        }
+
+        const id = eleventyConfig.getFilter("slugify")(name);
+        const t = types.get(id) || { id, name, count: 0 };
+
+        t.count++;
+        types.set(id, t);
+
+      }
+
+      return [...types.values()]
+        .sort((a, b) => a.name.localeCompare(b.name, "es"));
+
+    }
+  );
+
+  // Opciones del filtro "Insignia": sólo las que tienen
+  // actividades, con su cantidad.
+  eleventyConfig.addFilter(
+    "badgeOptions",
+    function(badges, activities) {
+
+      const counts = {};
+
+      for (const a of activities) {
+        for (const b of a.data.activity_badges || []) {
+          const id = badgeIdOf(b);
+          counts[id] = (counts[id] || 0) + 1;
+        }
+      }
+
+      return badges
+        .filter(b => counts[badgeIdOf(b)])
+        .map(b => ({ id: badgeIdOf(b), name: b.name, count: counts[badgeIdOf(b)] }))
+        .sort((a, b) => a.name.localeCompare(b.name, "es"));
+
+    }
+  );
+
+
+
   return {
 
     pathPrefix:

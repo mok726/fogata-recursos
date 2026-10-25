@@ -152,7 +152,7 @@
                <a href="{{ ('/ods/' + sdg + '/') | url }}">
 
                  <img
-                   class="sdg-icon"
+                   class="sdg-icon" loading="lazy" decoding="async"
                    src="{{ ('/imagenes/ods/ods-' + sdg + '.png') | url }}"
                    alt="ODS {{ sdg }}"
                    title="ODS {{ sdg }}">
@@ -192,7 +192,7 @@
 
               <a href="{{ ('/badges/' + badgeId + '/') | url }}">
                 <img
-                  class="badge-icon"
+                  class="badge-icon" loading="lazy" decoding="async"
                   src="{{
                     (
                       badgeInfo.logo

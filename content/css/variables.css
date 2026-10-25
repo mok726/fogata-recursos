@@ -110,6 +110,21 @@
   --z-popover: 3000;
   --z-tooltip: 4000;
 
+  /* ---------- ESTÉTICA FOGATA (landing) ----------
+     Pergamino, verde bosque y naranja fuego. La usan
+     home.css y activities.css; la idea es ir llevándola
+     al resto del sitio desde acá. */
+  --fogata-paper: #f3ecdb;
+  --fogata-paper-dark: #e2d3b1;
+  --fogata-card: #faf5e8;
+  --fogata-forest: #23402a;
+  --fogata-fire: #e8732c;
+  --fogata-fire-dark: #c75a1a;
+  --fogata-ink: #2b2a22;
+  --fogata-muted: #5c5640;
+  --fogata-display: 'Rubik Dirt', var(--font-family-base);
+  --fogata-slab: 'Roboto Slab', Georgia, serif;
+
   /* ---------- COMPONENTES ESPECÍFICOS ---------- */
   --navbar-bg: rgba(255,255,255,0.92);
   --navbar-blur: 12px;
