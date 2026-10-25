@@ -36,6 +36,14 @@ module.exports = {
     quality: 80
   },
 
+  // Fogata del hero de la home (~360px de ancho, x2 para retina).
+  hero: {
+    dir: "imagenes",
+    files: ["favicon.png"],
+    width: 720,
+    quality: 85
+  },
+
   // Logo del navbar (32px).
   logo: {
     dir: "imagenes",

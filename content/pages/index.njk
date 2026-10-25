@@ -42,7 +42,13 @@ populares:
 
 <section class="home-hero">
 
-  <div class="home-hero-art" role="img" aria-label="Fogata con forma de flor de lis"></div>
+  <div class="home-hero-art">
+    <img
+      src="{{ '/imagenes/favicon.png' | thumb('hero') | url }}"
+      width="720" height="1037"
+      fetchpriority="high"
+      alt="Fogata con forma de flor de lis">
+  </div>
 
   <div class="home-hero-content">
 
