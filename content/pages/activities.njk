@@ -205,6 +205,14 @@ sdgFilter.addEventListener(
   runSearch
 );
 
+// Búsqueda que llega desde la home: /activities/?search=agua
+const initialQuery =
+  new URLSearchParams(location.search).get("search");
+
+if (initialQuery) {
+  searchInput.value = initialQuery;
+}
+
 runSearch();
 
 </script>
