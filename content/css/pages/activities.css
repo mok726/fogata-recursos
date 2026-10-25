@@ -1,7 +1,7 @@
 /* =========================
    ACTIVITIES.CSS - listado y buscador de /activities/
    Misma estética que la home (tokens --fogata-* en
-   variables.css). Todo limitado a .acts.
+   fogata.css). Todo limitado a .acts.
 ========================= */
 
 body:has(.acts) {
