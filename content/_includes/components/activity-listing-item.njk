@@ -1,0 +1,16 @@
+{# Tarjeta del listado de /activities/ con lo que el buscador
+   necesita en atributos data-* (ver filtros searchText y
+   durationBucket en eleventy.config.js). Espera `activity`. #}
+{% set item = activity.data %}
+{% set activityUrl = activity.url %}
+<div
+  class="acts-item"
+  data-title="{{ item.title | normalizeText }}"
+  data-text="{{ item | searchText(badges, ageGroups) }}"
+  data-age="{% for g in (item.age_group or []) %}{{ (g | normalizeAge(ageGroups)).id }} {% endfor %}"
+  data-type="{{ (item.main_type or '') | string | trim | slugify }}"
+  data-badges="{% for b in (item.activity_badges or []) %}{{ (b.id or b) | string | lower }} {% endfor %}"
+  data-sdgs="{{ (item.sdgs or []) | join(' ') }}"
+  data-dur="{{ item.duration | durationBucket }}">
+{% include "components/activity-card.njk" %}
+</div>
