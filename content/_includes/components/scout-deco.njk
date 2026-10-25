@@ -1,0 +1,92 @@
+{# Íconos scout de fondo: los mismos adornos de hero-bosque.svg
+   (brújula, nudo, huellas, carpa, hoja, estrella) repartidos
+   detrás del contenido. Puramente decorativo: aria-hidden y sin
+   eventos. Las posiciones las arma el script según el alto de la
+   página, con semilla en la URL para que cada página tenga su
+   propio dibujo pero siempre el mismo. Sin JS no se ve nada. #}
+<svg class="scout-deco-sprite" aria-hidden="true" focusable="false">
+  <defs>
+    <symbol id="sd-brujula" viewBox="-42 -44 84 84"><circle r="30"/><circle r="24" stroke-width="1.4"/><path d="M0-20L6 0 0 20-6 0Z"/><path d="M0-20L6 0H-6Z" fill="currentColor"/><path d="M0-30v-7M-3-40h6M30 0h5M-30 0h-5M0 30v5"/></symbol>
+    <symbol id="sd-nudo" viewBox="-60 -36 120 72"><path d="M-55 6C-30 6-25-22 0-22S22 22 0 22-25-6 0-6 30 6 55 6"/><path d="M-55 -2C-30 -2-25-30 0-30S30 30 0 30-33-14 0-14 30 -2 55 -2" stroke-width="1.4"/></symbol>
+    <symbol id="sd-huellas" viewBox="-30 -36 64 80"><g transform="translate(-10 4) rotate(-12)"><path d="M-11-20C-13-36 13-36 11-20C10-10 9-6 8 0H-8C-9-6-10-10-11-20Z"/><path d="M-8 6H8C9 14 6 22 0 22S-9 14-8 6Z"/></g><g transform="translate(14 -2) rotate(8)"><path d="M-11-20C-13-36 13-36 11-20C10-10 9-6 8 0H-8C-9-6-10-10-11-20Z"/><path d="M-8 6H8C9 14 6 22 0 22S-9 14-8 6Z"/></g></symbol>
+    <symbol id="sd-carpa" viewBox="-66 -48 132 82"><path d="M-48 30L0-34 48 30Z"/><path d="M0-34L-10 30M0-34L10 30M-10 30L0 6 10 30"/><path d="M0-34l-6-10M0-34l6-10M-62 30H62"/></symbol>
+    <symbol id="sd-hoja" viewBox="-18 -28 36 58"><path d="M0 20C-14 6-12-14 0-24 12-14 14 6 0 20Z"/><path d="M0 26V-18M0 0l-6-6M0 8l6-6M0-8l-5-5"/></symbol>
+    <symbol id="sd-estrella" viewBox="-11 -11 22 22"><path d="M0-9Q0 0 9 0Q0 0 0 9Q0 0-9 0Q0 0 0-9Z"/></symbol>
+  </defs>
+</svg>
+<div class="scout-deco" aria-hidden="true" data-seed="{{ page.url }}"></div>
+<script>
+(function () {
+  var layer = document.querySelector('.scout-deco');
+  if (!layer || !('ResizeObserver' in window)) return;
+
+  var ICONS = ['brujula', 'nudo', 'huellas', 'carpa', 'hoja', 'brujula', 'huellas', 'estrella'];
+  var NS = 'http://www.w3.org/2000/svg';
+  var lastH = 0, lastW = 0, timer;
+
+  // PRNG con semilla (mulberry32): mismo dibujo en cada visita.
+  function rng(str) {
+    var a = 0;
+    for (var i = 0; i < str.length; i++) a = (a * 31 + str.charCodeAt(i)) | 0;
+    return function () {
+      a = (a + 0x6D2B79F5) | 0;
+      var t = Math.imul(a ^ (a >>> 15), 1 | a);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  }
+
+  function draw() {
+    var h = document.documentElement.scrollHeight;
+    var w = document.documentElement.clientWidth;
+    lastH = h; lastW = w;
+
+    var rand = rng(layer.dataset.seed || location.pathname);
+    var narrow = w < 700;
+    var step = narrow ? 360 : 230;     // un ícono cada ~step px de alto
+    var frag = document.createDocumentFragment();
+    var side = rand() < 0.5;
+
+    // Desde debajo de la barra de navegación hasta antes del pie.
+    for (var y = 140; y < h - 200; y += step * (0.7 + rand() * 0.6)) {
+      side = !side;
+      var name = ICONS[Math.floor(rand() * ICONS.length)];
+      var size = name === 'estrella' ? 18 + rand() * 14
+               : narrow ? 36 + rand() * 20 : 56 + rand() * 44;
+      // Mayormente en los costados (asoman entre/alrededor de las
+      // cards); de vez en cuando uno al medio, tapado en parte.
+      var mid = rand() < 0.2;
+      var x = mid ? 20 + rand() * 60
+            : side ? 2 + rand() * (narrow ? 4 : 8)
+                   : 98 - rand() * (narrow ? 4 : 8);
+      if (mid) size *= 1.5;
+
+      var svg = document.createElementNS(NS, 'svg');
+      var use = document.createElementNS(NS, 'use');
+      use.setAttribute('href', '#sd-' + name);
+      svg.appendChild(use);
+      svg.setAttribute('class', 'scout-deco-icon');
+      svg.style.cssText =
+        'left:' + x.toFixed(1) + '%;top:' + Math.round(y) + 'px;' +
+        'width:' + Math.round(size) + 'px;height:' + Math.round(size) + 'px;' +
+        '--r:' + Math.round(rand() * 50 - 25) + 'deg;' +
+        '--d:' + (9 + rand() * 8).toFixed(1) + 's;' +
+        '--o:' + ((narrow ? 0.14 : 0.18) + rand() * 0.1).toFixed(2);
+      frag.appendChild(svg);
+    }
+    layer.replaceChildren(frag);
+  }
+
+  // Redibuja si la página cambió de alto (p. ej. "cargar más" en
+  // actividades) o de ancho. Con debounce para no hacerlo en cada px.
+  new ResizeObserver(function () {
+    var h = document.documentElement.scrollHeight;
+    var w = document.documentElement.clientWidth;
+    if (Math.abs(h - lastH) < 150 && w === lastW) return;
+    clearTimeout(timer);
+    timer = setTimeout(draw, 200);
+  }).observe(document.body);
+
+  draw();
+})();
+</script>

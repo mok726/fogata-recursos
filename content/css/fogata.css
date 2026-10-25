@@ -23,3 +23,60 @@
   --fogata-display: 'Rubik Dirt', var(--font-family-base);
   --fogata-slab: 'Roboto Slab', Georgia, serif;
 }
+
+
+/* ---------- Íconos scout de fondo ----------
+   Ver components/scout-deco.njk. La capa ocupa todo el
+   body y queda debajo de main/footer: los íconos asoman
+   en los huecos y quedan tapados por las cards. */
+
+body { position: relative; }
+
+.scout-deco-sprite {
+  position: absolute;
+  width: 0;
+  height: 0;
+  overflow: hidden;
+}
+
+.scout-deco {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  color: #7d6b4a;
+}
+
+body > main,
+body > footer {
+  position: relative;
+  z-index: 1;
+}
+
+.scout-deco-icon {
+  position: absolute;
+  translate: -50% 0;
+  rotate: var(--r);
+  opacity: var(--o);
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  overflow: visible;
+  animation: scout-deco-sway var(--d) ease-in-out infinite alternate;
+}
+
+@keyframes scout-deco-sway {
+  from { rotate: calc(var(--r) - 4deg); }
+  to   { rotate: calc(var(--r) + 4deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .scout-deco-icon { animation: none; }
+}
+
+@media print {
+  .scout-deco { display: none; }
+}
