@@ -40,7 +40,7 @@ Actualizado el 26/10/2026. "Autorizado" es lo que la fuente permite por escrito;
 | Insignias de Polinizadores, Reducción del Riesgo de Desastres y Ciudades Verdes | FAO | Licencia sin confirmar | En espera: solicitado a la FAO el 26/10/2026 |
 | Imágenes de las insignias YUNGA | FAO | Sin confirmar (las licencias de la FAO excluyen su logo) | En espera: solicitado a la FAO el 26/10/2026 |
 | Kits Tide Turners Plastic Challenge y Champions for Nature | OMMS (World Scout Bureau Inc.) | Reproducción solo por organizaciones scouts nacionales miembro | En espera: solicitado a la OMMS el 26/10/2026 |
-| Manual Scouts Go Solar | Solafrica (adaptación al español: A. Castillo Rosas) | La OMMS respalda que guías y scouts lo usen y adapten; no hay licencia para republicarlo | En espera: solicitado a Scouts de Argentina el 26/10/2026; falta pedirlo a Solafrica |
+| Manual Scouts Go Solar | Solafrica (adaptación al español: A. Castillo Rosas) | La OMMS respalda que guías y scouts lo usen y adapten; no hay licencia para republicarlo | En espera: solicitado a Solafrica y a Scouts de Argentina el 26/10/2026 |
 | Scouts por los ODS – Mundo Mejor | Scouts de Argentina | No hay licencia publicada | En espera: solicitado a Scouts de Argentina el 26/10/2026 |
 
 Si un titular rechaza el pedido, retiro el material afectado.

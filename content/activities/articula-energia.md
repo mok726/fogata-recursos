@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2019
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://www.fao.org/yunga"
+    url: "https://openknowledge.fao.org/handle/20.500.14283/ca4136en"
 
 # ========== LICENCIA ==========
 license:

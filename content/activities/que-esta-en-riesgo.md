@@ -79,7 +79,7 @@ references:
     author: "Organización Mundial del Movimiento Scout"
     year: 2020
     series: "Earth Tribe / Tribu de la Tierra"
-    url: "https://www.scout.org"
+    url: "https://sdgs.scout.org/challenges/champions-nature/nso"
 
 # ========== LICENCIA ==========
 license:
@@ -96,7 +96,7 @@ attributions:
   - entity: "© WWF 2020"
     role: "fuente y colaborador del contenido"
     year: 2020
-  - entity: "© 2020. Organización Mundial del Movimiento Scout."
+  - entity: "© 2020. Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)"
     role: "fuente y titular de los derechos de autor"
     year: 2020
   - entity: "Mariano S. Cosentino"

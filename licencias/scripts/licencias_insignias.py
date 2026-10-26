@@ -13,7 +13,7 @@ notes={'arr':"Autorizado: uso no comercial del original citando a la FAO. Pendie
  'mix':"Las actividades de la FAO usan CC BY-NC-SA 4.0. Las del kit Tide Turners (© World Scout Bureau) esperan autorización, solicitada a la OMMS el 26/10/2026. Ver la licencia de cada actividad.",
  'wosm':"Autorizado: reproducción por organizaciones miembro de la OMMS. Pendiente: publicación en este sitio, autorización solicitada a la OMMS el 26/10/2026.",
  'saac':"Pendiente: autorización solicitada a Scouts de Argentina el 26/10/2026.",
- 'sol':"Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Scouts de Argentina el 26/10/2026; falta pedirla a Solafrica.",
+ 'sol':"Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Solafrica y a Scouts de Argentina el 26/10/2026.",
  'pend':"Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026.",
  'unk':"Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."}
 M={'agricultura':(UNK,'unk'),'genero':(UNK,'unk'),'gobernanza':(UNK,'unk'),

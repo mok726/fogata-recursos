@@ -81,7 +81,7 @@ references:
   - title: "Scouts por los ODS - Mundo Mejor"
     author: "Scouts de Argentina"
     year: 2021
-    url: "https://www.scouts.org.ar"
+    url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -95,7 +95,7 @@ license:
 
 # ========== ATRIBUCIONES ==========
 attributions:
-  - entity: "Scouts de Argentina"
+  - entity: "© Scouts de Argentina Asociación Civil 2021"
     role: "fuente y titular de los derechos de autor"
     year: 2021
   - entity: "Mariano S. Cosentino"

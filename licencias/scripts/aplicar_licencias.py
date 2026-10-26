@@ -6,16 +6,16 @@ SOL="26/10/2026"
 L={
  'propio':dict(lic=NCSA4,note=None,status=None,allowed=CC_OK,pending=None),
  'fao_cc':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None,allowed=CC_OK,pending=None),
- 'fao_sinverificar':dict(lic=("© FAO – Licencia sin confirmar","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original.",status="permiso-pendiente",
+ 'fao_sinverificar':dict(lic=("© FAO – Licencia sin confirmar","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status="permiso-pendiente",
     allowed="Nada confirmado.",pending=f"Publicar esta traducción o adaptación: autorización solicitada a la FAO el {SOL}, en espera de respuesta."),
- 'fao_arr':dict(lic=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO.",status="permiso-pendiente",
+ 'fao_arr':dict(lic=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status="permiso-pendiente",
     allowed="Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular.",pending=f"Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el {SOL}, en espera de respuesta."),
  'wosm':dict(lic=("© World Scout Bureau Inc. – Todos los derechos reservados","https://www.scout.org",""),note="Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.).",status="permiso-pendiente",
     allowed="Reproducción por las organizaciones scouts nacionales miembro de la OMMS.",pending=f"Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el {SOL}, en espera de respuesta."),
  'saac':dict(lic=("© Scouts de Argentina Asociación Civil – Todos los derechos reservados","https://www.scouts.org.ar",""),note="Titular de los derechos: Scouts de Argentina Asociación Civil.",status="permiso-pendiente",
     allowed="Nada publicado.",pending=f"Publicar esta adaptación: autorización solicitada a Scouts de Argentina el {SOL}, en espera de respuesta."),
  'solafrica':dict(lic=("© Solafrica – Sin licencia publicada","https://www.solafrica.ch/scout-badge",""),note="Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar.",status="permiso-pendiente",
-    allowed="Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales.",pending=f"Publicar esta adaptación en un sitio web: autorización solicitada a Scouts de Argentina el {SOL}; falta pedirla a Solafrica."),
+    allowed="Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales.",pending=f"Publicar esta adaptación en un sitio web: autorización solicitada a Solafrica y a Scouts de Argentina el {SOL}, en espera de respuesta."),
 }
 RANK=['propio','fao_cc','fao_sinverificar','fao_arr','solafrica','saac','wosm']
 def classify_ref(r):

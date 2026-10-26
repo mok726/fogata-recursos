@@ -83,7 +83,7 @@ references:
     author: "World Scout Bureau / UNEP"
     year: 2020
     series: "Earth Tribe"
-    url: "https://www.scout.org"
+    url: "https://learn.scout.org/node/8523"
 
 # ========== LICENCIA ==========
 license:
@@ -97,7 +97,7 @@ license:
 
 # ========== ATRIBUCIONES ==========
 attributions:
-  - entity: "© World Scout Bureau 2020"
+  - entity: "© 2020. Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)"
     role: "fuente y titular de los derechos de autor"
     year: 2020
   - entity: "© Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)"

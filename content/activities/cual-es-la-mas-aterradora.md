@@ -63,7 +63,7 @@ license:
   name: "© FAO – Licencia sin confirmar"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original."
+  note: "Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
   allowed: "Nada confirmado."
   pending: "Publicar esta traducción o adaptación: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
