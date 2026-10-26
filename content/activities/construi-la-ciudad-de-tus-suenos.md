@@ -167,7 +167,7 @@ rama_rovers:
 # Construí la ciudad de tus sueños
 
 ## Resumen
-Piensen que son arquitectos y tienen que desarrollar cada uno su ciudad soñada, el único requisito que les piden es que esta sea sostenible. Pueden también elegir un ODS específico como tema para trabajar en la ciudad. Cuando todos hayan terminado de construir y dibujar sus ciudades con muchos materiales, presentenlas al resto y compartan sus ideas. Luego, debatan como todos y todas pueden vivir de manera más sostenible en su propia comunidad.
+Piensen que son arquitectos y tienen que desarrollar cada uno su ciudad soñada, el único requisito que les piden es que esta sea sostenible. Pueden también elegir un ODS específico como tema para trabajar en la ciudad. Cuando todos hayan terminado de construir y dibujar sus ciudades con muchos materiales, preséntenlas al resto y compartan sus ideas. Luego, debatan cómo todos y todas pueden vivir de manera más sostenible en su propia comunidad.
 
 ## Preparación
 1. Prepara los materiales de arte y dibujo.

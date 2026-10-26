@@ -163,7 +163,7 @@ rama_rovers:
 # ¿Para qué nos alcanza?
 
 ## Resumen
-Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan con el valor de una canasta básica alimentaria (investiguen su valor) y tienen que comprar los alimentos para vivir un mes con ese dinero. Confeccionen una lista con todos los elementos que comprarían y sus precios. Luego piensen e intercambien opiniones sobre si lo que podrían comprar es suficiente, y si realmente el valor de la canasta básica alimentaria es acorde a las necesidades de la población. Siendo conscientes que gran cantidad de personas y familias en el país no cuentan ni siquiera con ese ingreso para cubrir sus necesidades.
+Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan con el valor de una canasta básica alimentaria (investiguen su valor) y tienen que comprar los alimentos para vivir un mes con ese dinero. Confeccionen una lista con todos los elementos que comprarían y sus precios. Luego piensen e intercambien opiniones sobre si lo que podrían comprar es suficiente, y si realmente el valor de la canasta básica alimentaria es acorde a las necesidades de la población. Siendo conscientes de que gran cantidad de personas y familias en el país no cuentan ni siquiera con ese ingreso para cubrir sus necesidades.
 
 ## Preparación
 1. Investiga el valor actual de la canasta básica alimentaria en tu país.

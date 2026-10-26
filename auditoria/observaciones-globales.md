@@ -37,3 +37,13 @@ Talleres que enseñan a reducir plásticos de un solo uso piden guantes descarta
 ## G9. Datos del chequeo automático
 
 Ver `chequeo-automatico.md`: 248 actividades sin `duration` (vacío o ausente), 12 con `references` vacío (las 11 originales + 1), 1 sin `branch`, 18 títulos duplicados, 2 `activity_code` duplicados (`agua-A32`, `agua-B41`), 5 valores en portugués ("Investigação"), 3 `original` como texto en vez de booleano. Los de portugués y booleanos van corregidos en el PR.
+
+## G10. Licencia declarada que no es la de la fuente (P1, legal)
+
+- **mundomejor (10)**: declaran "CC BY-NC-SA 3.0 IGO", pero la fuente (Scouts de Argentina, *Scouts por los ODS – Mundo Mejor*, abril 2021, https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf) dice "© Scouts de Argentina… prohibida su comercialización sin autorización previa". No tiene licencia abierta. Tu uso no es comercial, pero republicar el texto con una licencia CC que la fuente no otorga es incorrecto. **Opciones**: (a) pedir permiso a SAAC (vos dijiste que suelen darlo) y declarar "© Scouts de Argentina, reproducido con permiso"; (b) mientras tanto, cambiar el campo `license` a "© Scouts de Argentina – todos los derechos reservados", como ya hacés en `gosolar`.
+- **gosolar (13)**: ya dice "Propiedad intelectual de Scouts de Argentina": está bien declarado. Igual conviene tener el permiso por escrito.
+- **cfn (20)**: declaran "CC BY-NC-SA 3.0 IGO" con "© WWF 2020". Hay que verificarlo en la tanda de cfn (WWF no es una organización intergubernamental, así que es poco probable que use la variante IGO).
+
+## G11. Referencias que apuntan a la portada del sitio (P2)
+
+Las 10 de `mundomejor` tienen `references.url: https://www.scouts.org.ar` (la portada). El PDF concreto ya está en `badges.js`; conviene apuntar directo a él.

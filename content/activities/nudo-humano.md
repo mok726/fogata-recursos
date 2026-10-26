@@ -162,7 +162,7 @@ rama_rovers:
 # Nudo Humano
 
 ## Resumen
-Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los participantes tienen que estirar el brazo derecho y tomar la mano de alguien de enfrente. A continuación, deben hacer lo mismo con el brazo izquierdo. El grupo tendrá que desenredarse los brazos sin soltar las manos, volviendo a conformar un círculo. Al finalizar deben reflexionar sobre la importancia de trabajar en conjunto a los demás para lograr los objetivos y como todos y todas necesitamos de los y las demás.
+Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los participantes tienen que estirar el brazo derecho y tomar la mano de alguien de enfrente. A continuación, deben hacer lo mismo con el brazo izquierdo. El grupo tendrá que desenredarse los brazos sin soltar las manos, volviendo a conformar un círculo. Al finalizar deben reflexionar sobre la importancia de trabajar en conjunto con los demás para lograr los objetivos y cómo todos y todas necesitamos de los y las demás.
 
 ## Preparación
 1. Asegura un espacio amplio y seguro.
@@ -183,7 +183,7 @@ Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los p
 ### Paso 4: Reflexión
 5. Al finalizar deben reflexionar sobre:
    - La importancia de trabajar en conjunto con los demás para lograr los objetivos.
-   - Como todos y todas necesitamos de los y las demás.
+   - Cómo todos y todas necesitamos de los y las demás.
 
 ## ODS involucrados
 - **ODS 4:** Educación de calidad

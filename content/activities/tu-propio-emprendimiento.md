@@ -164,7 +164,7 @@ rama_rovers:
 # Tu propio emprendimiento
 
 ## Resumen
-Dividanse en equipos de 3 personas y armen su propia microempresa. Usen la creatividad y plasmen el logotipo, slogan, producto, misión y visión en un afiche con ayuda de marcadores y todos los materiales artísticos que tengan a su disposición. Finalmente hagan una feria de empresas y presenten cada uno la suya tratando de vender su producto. Traten de encontrar la "salsa especial" de su producto, eso que lo hace único. Pueden también caracterizarse como empresarios para entrar en personaje.
+Divídanse en equipos de 3 personas y armen su propia microempresa. Usen la creatividad y plasmen el logotipo, slogan, producto, misión y visión en un afiche con ayuda de marcadores y todos los materiales artísticos que tengan a su disposición. Finalmente hagan una feria de empresas y presenten cada uno la suya tratando de vender su producto. Traten de encontrar la "salsa especial" de su producto, eso que lo hace único. Pueden también caracterizarse como empresarios para entrar en personaje.
 
 ## Preparación
 1. Prepara los materiales de arte.
