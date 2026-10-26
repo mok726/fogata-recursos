@@ -14,3 +14,4 @@
 | 09 | suelos (49) | hecho | `tanda-09-suelos.md` |
 | 10 | hambre (49, sin original) | hecho | `tanda-10-hambre.md` |
 | 11 | oceano (53) | hecho | `tanda-11-oceano.md` |
+| 12 | energia (72) | hecho | `tanda-12-energia.md` |

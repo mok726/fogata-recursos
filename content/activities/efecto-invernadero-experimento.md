@@ -197,8 +197,9 @@ Durante 10 minutos, registra la temperatura de ambos termómetros cada minuto:
 ### Parte IV - Conectar
 ¿Cómo se parece esto al efecto invernadero?
 
-- El frasco = la atmósfera terrestre
-- El calor atrapado = gases de efecto invernadero
+- El frasco = los gases de efecto invernadero de la atmósfera
+- El aire caliente dentro del frasco = el calor que esos gases retienen
+- Ojo: el frasco calienta sobre todo porque frena la circulación del aire; en la atmósfera el mecanismo es distinto (los gases absorben y reemiten calor). Es una analogía, no una réplica.
 
 ## Cierre
 1. ¿Por qué la temperatura dentro del frasco fue más alta?

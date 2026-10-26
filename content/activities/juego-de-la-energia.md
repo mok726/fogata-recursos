@@ -160,7 +160,7 @@ translation_notice:
 # ¡Juego de la energía!
 
 ## Resumen
-Este juego es una variante del "Juego de los frijoles" usando diferentes movimientos para diferentes fuentes de energía. ¡Aprende sobre energía mientras te mueves y te diviertes!
+Este juego es una variante del "Juego de los porotos" usando diferentes movimientos para diferentes fuentes de energía. ¡Aprende sobre energía mientras te mueves y te diviertes!
 
 ## Preparación
 1. Encuentra un espacio grande (interior o exterior).

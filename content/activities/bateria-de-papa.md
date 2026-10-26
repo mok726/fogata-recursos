@@ -4,7 +4,7 @@ title: "Batería de papa"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/bateria-de-papa/"
-description: "Construye una batería casera usando una papa, un clavo, una moneda y cables para aprender cómo funciona la electricidad."
+description: "Construye una batería casera usando papas, clavos galvanizados, trozos de cobre y cables para aprender cómo funciona la electricidad."
 summary: "Crea electricidad con una papa."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -31,11 +31,11 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - 1 papa
-  - 1 clavo
-  - 1 moneda
+  - 2 o 3 papas
+  - Clavos galvanizados (con zinc)
+  - Trozos de cobre (cable de cobre pelado; las monedas argentinas actuales no son de cobre)
   - Cables de metal
-  - Linterna o bombilla pequeña
+  - Un LED pequeño
 tools:
   - Tijeras o pelacables (con supervisión)
 responsible:
@@ -163,10 +163,10 @@ translation_notice:
 # ¡Batería de papa!
 
 ## Resumen
-¿Tienes curiosidad sobre la electricidad? Construye tu propia batería casera usando una papa, un clavo, una moneda y cables. ¡Aprende cómo funciona la electricidad mientras te diviertes!
+¿Tienes curiosidad sobre la electricidad? Construye tu propia batería casera usando papas, clavos galvanizados, trozos de cobre y cables. ¡Aprende cómo funciona la electricidad mientras te diviertes!
 
 ## Preparación
-1. Reúne los materiales: papa, clavo, moneda, cables y linterna.
+1. Reúne los materiales: papas, clavos galvanizados, trozos de cobre, cables y un LED.
 2. Busca un adulto para que te ayude con objetos punzantes.
 3. Sigue las instrucciones cuidadosamente.
 
@@ -174,19 +174,19 @@ translation_notice:
 
 ### Parte I - Preparar la papa
 1. Introduce el clavo en un lado de la papa.
-2. Introduce la moneda en el otro lado de la papa.
+2. Introduce el cobre en el otro lado de la papa.
 3. Asegúrate de que no se toquen.
 
 ### Parte II - Conectar los cables
 1. Conecta un cable al clavo.
-2. Conecta otro cable a la moneda.
-3. Conecta los cables a una linterna pequeña.
+2. Conecta otro cable al cobre.
+3. Con una sola papa la corriente es muy baja: conecta 2 o 3 papas en serie (el clavo de una con el cobre de la siguiente) y los extremos a un LED (la pata larga al cobre).
 
 ### Parte III - Probar
-¡La linterna debería encenderse!
+¡El LED debería encender débilmente! Una linterna o lamparita común no va a encender: necesita mucha más corriente.
 
 **¿Cómo funciona?**
-Los ácidos de la papa reaccionan con el metal del clavo y la moneda, creando una pequeña corriente eléctrica.
+El zinc del clavo y el cobre reaccionan a través del jugo de la papa, que hace de electrolito, y eso genera una pequeña corriente eléctrica. La papa no es la fuente de energía: lo es el zinc que se oxida.
 
 ### Parte IV - Reflexionar
 ¿Qué otros alimentos podrían funcionar como batería?

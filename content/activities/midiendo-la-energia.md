@@ -163,7 +163,7 @@ translation_notice:
 # ¡Midiendo la energía!
 
 ## Resumen
-Investiga las diferentes unidades para medir energía: julio, kilovatio-hora, caloría, caballo de fuerza. Aprende para qué se usa cada una y cómo se aplican en tu vida diaria.
+Investiga las diferentes unidades para medir energía: julio, kilovatio-hora, caloría y caballo de fuerza (este último mide potencia, no energía: ¿cuál es la diferencia?). Aprende para qué se usa cada una y cómo se aplican en tu vida diaria.
 
 ## Preparación
 1. Lee la información sobre medición de energía.

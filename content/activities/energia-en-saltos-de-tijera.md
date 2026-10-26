@@ -180,7 +180,7 @@ En esta posición, estás almacenando **energía potencial** y estás listo para
 Cuando mueves los brazos y las piernas, estás creando **energía cinética**.
 
 ### Parte III - Pausa
-Cuando te detienes, estás sosteniendo energía cinética.
+Cuando te detienes, la energía cinética vuelve a cero: se transformó en calor en tus músculos y en el piso.
 
 ### Parte IV - Reflexionar
 Piensa en otros ejemplos de energía potencial y cinética en la vida cotidiana.

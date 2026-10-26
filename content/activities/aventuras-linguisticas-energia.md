@@ -185,7 +185,7 @@ Cada miembro investiga cómo se dice "energía" en el idioma principal de su pa�
 - Alemania: "Energie"
 - Italia: "energia"
 - Japón: "エネルギー" (enerugī)
-- China: "能源" (néngyuán)
+- China: "能量" (néngliàng); "能源" (néngyuán) es "fuente de energía"
 
 ### Parte II - Compartir
 Compartan sus hallazgos con el grupo.
