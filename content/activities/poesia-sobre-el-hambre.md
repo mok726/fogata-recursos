@@ -178,7 +178,7 @@ Escribe un poema acróstico sobre la lucha contra el hambre usando palabras clav
 3. Prepara papel y lápices.
 
 ## Desarrollo
-1. **Elección** (5 min): Elige una palabra clave (EMPOERAR, EDUCACIÓN, ALIMENTOS, etc.).
+1. **Elección** (5 min): Elige una palabra clave (EMPODERAR, EDUCACIÓN, ALIMENTOS, etc.).
 2. **Escritura** (20 min): Escribe un poema acróstico sobre la lucha contra el hambre.
 3. **Compartir** (15 min): Comparte tu poema con el grupo.
 4. **Póster** (10 min): Convierte tu poema en un póster.

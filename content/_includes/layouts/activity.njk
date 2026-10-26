@@ -763,6 +763,20 @@ Ruta: {{ comp.ruta }}
       </div>
       {% endif %}
 
+      {% if (link | default([])) | length %}
+      <div class="info-card">
+        <h3><span class="material-symbols-outlined" aria-hidden="true">link</span> Enlaces</h3>
+        <div class="download-list">
+          {% for l in link %}
+            {% set lurl = l.url if (l.url.startsWith('http') or l.url.startsWith('mailto:')) else 'https://' + l.url %}
+            <a href="{{ lurl }}" class="download-item" target="_blank" rel="noopener">
+              🔗 {{ l.caption or l.url }}
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      {% endif %}
+
       {% if tags %}
 
       <div class="info-card">
@@ -867,7 +881,7 @@ Ruta: {{ comp.ruta }}
 
         {% if references %}
           {% for ref in references %}
-            {% if ref.url %}<p><strong>Versi  n original:</strong> <a href="{{ ref.url }}">{{ ref.title }}</a></p>{% endif %}
+            {% if ref.url %}<p><strong>Versión original:</strong> <a href="{{ ref.url }}">{{ ref.title }}</a></p>{% endif %}
           {% endfor %}
         {% endif %}
       </div>

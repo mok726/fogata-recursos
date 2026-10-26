@@ -67,3 +67,11 @@ En `content/_data/badges.js` (gosolar y ciudadesverdes) y en `activity.njk` ("Ti
 ## G15. Tide Turners (plastics P01–P21): mismo problema que cfn (P1, legal)
 
 Verificado en el *Tide Turners Plastic Challenge – Implementation Manual* (OMMS, junio 2020): "© World Scout Bureau Inc. Reproduction is authorised for NSOs and NSAs, which are members of WOSM". Las 20 actividades P declaran CC BY-NC-SA 3.0 IGO: está mal. Las opciones son las mismas que en G13. Conviene un **único pedido de permiso a OMMS** que cubra cfn, Tide Turners y cualquier otro material OMMS que aparezca en las próximas tandas.
+
+## G16. El campo `link` nunca se mostraba en la página (P1, corregido en el PR)
+
+`activity.njk` mostraba `files` ("Descargas") pero no `link`. Hay 216 actividades con `link` (302 enlaces); en 68 de ellas, 86 enlaces no aparecían en ningún lugar visible (plantillas, videos, guías). Agregué un bloque "Enlaces" junto a "Descargas" que también antepone `https://` a los 26 enlaces que lo tienen sin protocolo. Lo probé con un build local de Eleventy.
+
+## G17. Enlaces viejos (P2)
+
+Las insignias de FAO de 2013–2017 (hambre, suelos, oceano…) tienen enlaces de esa época, muchos casi seguro caídos: campañas terminadas (1billionhungry), dominios migrados (USDA NRCS, WFP), Flash. Desde mi entorno no puedo verificarlos. Propuesta: un script de chequeo de enlaces que corras en `fogata-dev` y que genere la lista de rotos.

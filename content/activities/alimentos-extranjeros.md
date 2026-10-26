@@ -182,7 +182,7 @@ Investiga recetas de otros países y cocina una comida. Compara los ingredientes
 ## Desarrollo
 1. **Investigación** (15 min): Investiga recetas de otros países.
 2. **Cocina** (30-45 min): Prepara una comida basada en la receta elegida.
-3. **Observación** (15 min): Compara la comida con platos típicos de tu país en términos de nutrientes, frescura, origen e costo.
+3. **Observación** (15 min): Compara la comida con platos típicos de tu país en términos de nutrientes, frescura, origen y costo.
 4. **Reflexión** (15 min): Comparte tus observaciones con el grupo.
 
 ## Cierre
