@@ -156,7 +156,7 @@ rama_rovers:
 # ¡Haz una Colecta de Dinero!
 
 ## Resumen
-Organiza un evento para recaudar fondos para niños afectados por desastres, como una venta de pasteles, una rifa o una noche de cine.
+Organiza un evento para recaudar fondos para niños afectados por desastres, como una venta de tortas, una rifa o una noche de cine.
 
 ## Preparación
 1. Elige el tipo de evento.

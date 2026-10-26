@@ -186,7 +186,7 @@ Muchas personas no son conscientes de la importancia de ahorrar y proteger nuest
 
 ## Ideas para ahorrar agua
 - Lava el auto usando un balde.
-- Cierra el grifo mientras te enjabonas las manos o te cepillas los dientes.
+- Cierra la canilla mientras te enjabonas las manos o te cepillas los dientes.
 - Lávate las manos antes de comer.
 - Toma una ducha de cinco minutos.
 - Lávate las manos después de ir al baño.
@@ -194,7 +194,7 @@ Muchas personas no son conscientes de la importancia de ahorrar y proteger nuest
 - Tira la basura en el contenedor.
 - Revisa tu casa en busca de fugas y repara o reemplaza las que goteen.
 - Limpia tu calle para evitar que la basura llegue a los desagües pluviales.
-- Cierra el grifo mientras enjabonas los platos.
+- Cierra la canilla mientras enjabonas los platos.
 - Lava la fruta antes de comerla.
 - Riega el césped por la mañana o por la tarde, en lugar de en medio del día, para reducir la pérdida de agua por evaporación.
 - Si tu agua no es segura para beber, asegúrate de hervirla o filtrarla antes de beberla.

@@ -1,10 +1,10 @@
 ---
-title: "Refrigerador eficiente"
+title: "Heladera eficiente"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/refrigerador-eficiente/"
-description: "Aprende a instalar y mantener tu refrigerador para ahorrar energía."
-summary: "Eficiencia energética del refrigerador."
+description: "Aprende a instalar y mantener tu heladera para ahorrar energía."
+summary: "Eficiencia energética de la heladera."
 
 author:
   - FAO
@@ -46,7 +46,7 @@ required_category: ""
 
 tags:
   - sacc
-  - refrigerador
+  - heladera
   - energia
   - ahorro
   - eficiencia
@@ -108,7 +108,7 @@ activity_type:
 
 category:
   - Energía
-  - Refrigerador
+  - Heladera
   - Ahorro
 
 skills:
@@ -140,14 +140,14 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Refrigerador eficiente!
+# ¡Heladera eficiente!
 
 ## Resumen
-Ayuda a tus padres a instalar y mantener el refrigerador para ahorrar energía.
+Ayuda a tus padres a instalar y mantener la heladera para ahorrar energía.
 
 ## Preparación
 - Habla con tus padres sobre el proyecto.
-- Aprende sobre la temperatura correcta del refrigerador.
+- Aprende sobre la temperatura correcta de la heladera.
 
 ## Desarrollo
 1. **Instalación** (15 min): Asegúrate de que esté bien instalado.
@@ -156,8 +156,8 @@ Ayuda a tus padres a instalar y mantener el refrigerador para ahorrar energía.
 4. **Reflexión** (5 min): ¿Cómo ahorra energía?
 
 ## Cierre
-- ¿Por qué es importante la temperatura del refrigerador?
-- ¿Cómo ahorras energía con un refrigerador eficiente?
+- ¿Por qué es importante la temperatura de la heladera?
+- ¿Cómo ahorras energía con una heladera eficiente?
 
 ---
 ## Texto original completo de la actividad

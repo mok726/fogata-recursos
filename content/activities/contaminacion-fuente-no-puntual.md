@@ -206,7 +206,7 @@ Los desagües pluviales son una medida de control de inundaciones, pero también
 
 ## Escenarios de Contaminación
 
-**Escenario #1:** La Sra. Howard tiene dos árboles pequeños junto al porche de la casa. Los árboles atraen avispas, mosquitos y orugas. Roció los árboles con un químico para matar o ahuyentar a los insectos. Una tormenta ocurre poco después de rociar y la mayor parte del químico se lava de las hojas y llega a la acera y al camino de entrada. Desde allí es arrastrado con el agua de lluvia hacia el desagüe pluvial.
+**Escenario #1:** La Sra. Howard tiene dos árboles pequeños junto al porche de la casa. Los árboles atraen avispas, mosquitos y orugas. Roció los árboles con un químico para matar o ahuyentar a los insectos. Una tormenta ocurre poco después de rociar y la mayor parte del químico se lava de las hojas y llega a la vereda y al camino de entrada. Desde allí es arrastrado con el agua de lluvia hacia el desagüe pluvial.
 
 **Contaminación simulada:** Mezcla dos o tres gotas de colorante alimenticio verde con el agua en uno de los vasos. Vacía esta agua verde en la abertura en la parte superior del acuario.
 
@@ -218,7 +218,7 @@ Los desagües pluviales son una medida de control de inundaciones, pero también
 
 **Contaminación simulada:** Vacía el aceite vegetal en la abertura en la parte superior del acuario.
 
-**Escenario #4:** Una tarde de invierno nevada, la familia Palmer escuchó mapaches afuera abriendo y volcando sus botes de basura dejados junto al bordillo, pero estaba demasiado oscuro y frío para salir a ahuyentarlos. A la mañana siguiente, nadie en la familia tuvo tiempo para limpiar la basura que estaba esparcida por toda la calle. Cuando la nieve se derritió, la mayor parte de la basura flotó con el agua hacia el desagüe pluvial.
+**Escenario #4:** Una tarde de invierno nevada, la familia Palmer escuchó mapaches afuera abriendo y volcando sus tachos de basura dejados junto al bordillo, pero estaba demasiado oscuro y frío para salir a ahuyentarlos. A la mañana siguiente, nadie en la familia tuvo tiempo para limpiar la basura que estaba esparcida por toda la calle. Cuando la nieve se derritió, la mayor parte de la basura flotó con el agua hacia el desagüe pluvial.
 
 **Contaminación simulada:** Agrega los residuos de papel a través de la abertura en la parte superior del acuario.
 
@@ -230,7 +230,7 @@ Los desagües pluviales son una medida de control de inundaciones, pero también
 
 **Contaminación simulada:** Coloca las tres ramitas a través de la abertura en la parte superior del acuario.
 
-**Escenario #7:** La familia Smith disfruta detenerse en un restaurante de comida rápida para cenar mientras viajan a la playa para el fin de semana. Para ahorrar tiempo, la familia come dentro de su minivan estacionada en el estacionamiento del restaurante. Para mantener el coche limpio, dejan sus bolsas de basura de comida en el pavimento del estacionamiento para que los trabajadores las recojan, ya que no hay botes de basura en el estacionamiento. Esta familia puede no darse cuenta de que los animales y el viento eventualmente abrirán las bolsas y esparcirán esta basura. Si no se recoge, puede ser arrastrada por el agua de lluvia durante la próxima tormenta hacia un desagüe pluvial cercano.
+**Escenario #7:** La familia Smith disfruta detenerse en un restaurante de comida rápida para cenar mientras viajan a la playa para el fin de semana. Para ahorrar tiempo, la familia come dentro de su minivan estacionada en el estacionamiento del restaurante. Para mantener el auto limpio, dejan sus bolsas de basura de comida en el pavimento del estacionamiento para que los trabajadores las recojan, ya que no hay tachos de basura en el estacionamiento. Esta familia puede no darse cuenta de que los animales y el viento eventualmente abrirán las bolsas y esparcirán esta basura. Si no se recoge, puede ser arrastrada por el agua de lluvia durante la próxima tormenta hacia un desagüe pluvial cercano.
 
 **Contaminación simulada:** Agrega restos de comida y envoltorios de comida a través de la abertura en la parte superior del acuario.
 

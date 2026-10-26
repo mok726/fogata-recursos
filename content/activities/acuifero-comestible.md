@@ -43,7 +43,7 @@ materials:
   - Colorante alimenticio rojo/azul (o jugo de uva/naranja)
   - Granillo de colores
   - Azúcar de colores
-  - Bombillas para beber (popotes)
+  - Pajitas
   - Cuchara para helado
   - Cucharas
 tools: []
@@ -198,7 +198,7 @@ Cuando llueve, parte del agua se filtra en el suelo y se almacena en los espacio
 7. Observa lo que sucede cuando se vierte sobre la superficie. Señala que lo mismo ocurre cuando los contaminantes se derraman en la superficie de la tierra.
 
 ### Paso 5: Bombeo
-8. Usando una bombilla para beber (popote), pide a los participantes que "perforen un pozo" en el centro de sus acuíferos.
+8. Usando una pajita, pide a los participantes que "perforen un pozo" en el centro de sus acuíferos.
 9. Diles que comiencen a bombear lentamente el pozo succionando con la bombilla. Observa la disminución del nivel freático. Nota cómo los contaminantes pueden ser succionados hacia el área del pozo y terminar en el agua subterránea al filtrarse a través de la capa confinante.
 
 ### Paso 6: Recarga
@@ -209,7 +209,7 @@ Cuando llueve, parte del agua se filtra en el suelo y se almacena en los espacio
 
 ## Cierre
 - ¿La gente de tu país usa pozos para obtener agua subterránea? ¿Alguna vez viste uno?
-- ¿Cuáles son algunas fuentes de contaminación del agua subterránea? (Pesticidas, fertilizantes, aceite de motor, fosas sépticas, lixiviados de basureros, productos químicos de minería, industria y tanques de almacenamiento con fugas).
+- ¿Cuáles son algunas fuentes de contaminación del agua subterránea? (Pesticidas, fertilizantes, aceite de motor, fosas sépticas, lixiviados de basurales, productos químicos de minería, industria y tanques de almacenamiento con fugas).
 - ¿Por qué es importante evitar la contaminación del agua subterránea?
 - ¿Puede esta contaminación afectar el agua superficial? (El agua subterránea y el agua superficial están conectadas; el agua puede moverse de una a otra; un lago, por ejemplo, está bajo la influencia directa del agua subterránea).
 

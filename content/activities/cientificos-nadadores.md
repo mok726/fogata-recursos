@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Gafas de buceo
+  - Antiparras
   - Equipo de natación
 tools: []
 responsible:
@@ -149,7 +149,7 @@ Nada en un río, lago o mar seguro para observar la vida bajo el agua y registra
 
 ## Preparación
 1. Encuentra un lugar seguro para nadar.
-2. Prepara gafas de buceo.
+2. Prepara antiparras.
 3. Asegura supervisión adulta.
 
 ## Desarrollo

@@ -171,7 +171,7 @@ Esta actividad ayuda a los jóvenes a reducir el uso de productos plásticos med
 
 ## Preparación
 1. Preparar una pizarra o papelógrafo.
-2. Tener listas hojas y bolígrafos para los participantes.
+2. Tener listas hojas y lapiceras para los participantes.
 3. Explicar el concepto de plástico desechable antes de comenzar.
 
 ## Desarrollo

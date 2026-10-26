@@ -169,7 +169,7 @@ Organiza un evento para recaudar fondos para proteger a un bosque (o parte de un
 
 ## Preparación
 1. Investiga una organización de conservación forestal local o internacional a la que quieras donar los fondos.
-2. Define el tipo de evento (venta de pasteles, rifa, espectáculo, etc.).
+2. Define el tipo de evento (venta de tortas, rifa, espectáculo, etc.).
 3. Consigue los materiales y permisos necesarios.
 4. Prepara material educativo sobre los bosques para compartir durante el evento.
 

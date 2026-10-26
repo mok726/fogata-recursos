@@ -42,7 +42,7 @@ responsible:
 prep_time: "10 min"
 participants: "4-20"
 location: "Ambos"
-space_required: "Acceso a grifos (interior o exterior)"
+space_required: "Acceso a canillas (interior o exterior)"
 
 # ========== OBJETIVOS DE DESARROLLO SOSTENIBLE ==========
 sdgs:
@@ -166,20 +166,20 @@ translation_notice:
 # ¡Detectives de Fugas!
 
 ## Resumen
-Muchas personas no revisan si hay grifos con fugas en su casa. Es hora de que se den cuenta de que las fugas desperdician agua y dinero. Cuando el agua se usa y va por el desagüe, debe ser limpiada antes de ser devuelta a la naturaleza, y esto cuesta dinero. Cuando el agua va por el desagüe sin ser usada, igualmente debe ser tratada y, por lo tanto, estamos desperdiciando agua y dinero. Una fuga comienza cuando las tuberías o los grifos se vuelven viejos y gastados. En esta actividad, los participantes se convierten en detectives para detectar fugas y calcular el agua desperdiciada.
+Muchas personas no revisan si hay canillas con fugas en su casa. Es hora de que se den cuenta de que las fugas desperdician agua y dinero. Cuando el agua se usa y va por el desagüe, debe ser limpiada antes de ser devuelta a la naturaleza, y esto cuesta dinero. Cuando el agua va por el desagüe sin ser usada, igualmente debe ser tratada y, por lo tanto, estamos desperdiciando agua y dinero. Una fuga comienza cuando las tuberías o las canillas se vuelven viejos y gastados. En esta actividad, los participantes se convierten en detectives para detectar fugas y calcular el agua desperdiciada.
 
 ## Preparación
-1. Identifica un grifo con fuga en tu escuela o lugar de reunión (si no encuentras uno, puedes simular una fuga ajustando un grifo para que gotee constantemente).
+1. Identifica una canilla con fuga en tu escuela o lugar de reunión (si no encuentras uno, puedes simular una fuga ajustando una canilla para que gotee constantemente).
 2. Prepara los materiales: probeta o vaso medidor, cronómetro, cuaderno y lápices.
 
 ## Desarrollo
 
 ### Paso 1: Búsqueda de fugas
-1. Explica a tu grupo que se convertirán en Detectives de Fugas y que deben buscar en su escuela o lugar de reunión grifos que goteen (si no encuentran uno, puedes ajustar un grifo para que gotee de manera constante). Recuérdales que no olviden revisar los grifos exteriores.
+1. Explica a tu grupo que se convertirán en Detectives de Fugas y que deben buscar en su escuela o lugar de reunión canillas que goteen (si no encuentran uno, puedes ajustar una canilla para que gotee de manera constante). Recuérdales que no olviden revisar las canillas exteriores.
 
 ### Paso 2: Medición
-2. Una vez que encuentren un grifo con fuga, pídeles que coloquen la probeta o vaso medidor debajo del grifo. Un participante debe controlar el tiempo con un cronómetro o reloj.
-3. Cuando pase un minuto, retiren la probeta del grifo y anoten cuánta agua se ha recogido. Esta es la cantidad de agua que se habría ahorrado, pero que ahora se está desperdiciando.
+2. Una vez que encuentren una canilla con fuga, pídeles que coloquen la probeta o vaso medidor debajo de la canilla. Un participante debe controlar el tiempo con un cronómetro o reloj.
+3. Cuando pase un minuto, retiren la probeta de la canilla y anoten cuánta agua se ha recogido. Esta es la cantidad de agua que se habría ahorrado, pero que ahora se está desperdiciando.
 
 ### Paso 3: Cálculo
 4. Ahora pídeles que calculen cuánta agua se desperdiciaría en una hora, un día y un año:
@@ -189,10 +189,10 @@ Muchas personas no revisan si hay grifos con fugas en su casa. Es hora de que se
 - **Un día:** ... ml desperdiciados en una hora x 24 horas = ... ml
 - **Un año:** ... ml desperdiciados en un día x 365 días = ... ml
 
-5. Como puedes ver, ¡incluso una pequeña fuga puede sumar una gran cantidad de agua desperdiciada! Solo se necesita tiempo, así que asegúrate de pedir al director de la escuela o lugar de reunión que repare ese grifo con fuga.
+5. Como puedes ver, ¡incluso una pequeña fuga puede sumar una gran cantidad de agua desperdiciada! Solo se necesita tiempo, así que asegúrate de pedir al director de la escuela o lugar de reunión que repare esa canilla con fuga.
 
 ## Cierre
-- ¿Pensaste que se podía desperdiciar tanta agua con un grifo que gotea?
+- ¿Pensaste que se podía desperdiciar tanta agua con una canilla que gotea?
 - ¿Cómo te sientes sabiendo que esta agua desperdiciada podría ser valiosa para otras familias en el mundo que no tienen acceso a suficiente agua?
 - ¿Puedes pensar en otras formas en que se puede desperdiciar agua en la escuela o lugar de reunión? ¿Qué puedes hacer para evitarlo?
 

@@ -3,7 +3,7 @@ title: "Deja la Botella"
 duration: "Proyecto de campaña"
 layout: "layouts/activity.njk"
 permalink: "/activities/deja-la-botella/"
-description: "Investiga si el agua del grifo es segura y haz una campaña para cambiar del agua embotellada al agua del grifo."
+description: "Investiga si el agua de la canilla es segura y haz una campaña para cambiar del agua embotellada al agua de la canilla."
 summary: "Campaña contra el agua embotellada."
 
 author:
@@ -47,7 +47,7 @@ required_category: ""
 tags:
   - agua
   - botella
-  - agua-grifo
+  - agua-canilla
   - campana
   - plastico
 
@@ -151,21 +151,21 @@ rama_rovers:
 # ¡Deja la Botella!
 
 ## Resumen
-Investiga si el agua del grifo es segura en tu área y lanza una campaña para convencer a la comunidad de cambiar del agua embotellada al agua del grifo.
+Investiga si el agua de la canilla es segura en tu área y lanza una campaña para convencer a la comunidad de cambiar del agua embotellada al agua de la canilla.
 
 ## Preparación
-1. Investiga la calidad del agua del grifo local.
-2. Identifica las razones para cambiar al agua del grifo.
+1. Investiga la calidad del agua de la canilla local.
+2. Identifica las razones para cambiar al agua de la canilla.
 3. Prepara materiales para la campaña.
 
 ## Desarrollo
-1. **Investigación** (20 min): Averigua si el agua del grifo es segura.
-2. **Análisis** (15 min): Compara el impacto ambiental del agua embotellada vs. del grifo.
+1. **Investigación** (20 min): Averigua si el agua de la canilla es segura.
+2. **Análisis** (15 min): Compara el impacto ambiental del agua embotellada vs. de la canilla.
 3. **Campaña** (25 min): Crea materiales para la campaña.
 4. **Difusión** (tiempo variable): Comparte la campaña con la comunidad.
 
 ## Cierre
-- ¿Es segura el agua del grifo en tu área?
+- ¿Es segura el agua de la canilla en tu área?
 - ¿Cuáles son los problemas del agua embotellada?
 - ¿Cómo respondió la comunidad a tu campaña?
 

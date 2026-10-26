@@ -32,7 +32,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Computador, tablet o teléfono móvil
+  - Computadora, tablet o celular
   - Material para juego propio (opcional)
 tools: []
 responsible: []

@@ -191,7 +191,7 @@ El agua tiene propiedades únicas que la hacen especial. En esta actividad, los 
 5. Pero, ¿qué pasa cuando un glaciar se derrite? Coloca algunos cubos de hielo en un colador y suspéndelo sobre el agua en el vaso. A medida que tu "glaciar" se derrite, ¿qué sucede con el nivel del agua?
 
 ### Experimento 4 - Agua salada congelada
-6. Mezcla sal en un vaso de agua potable y ponlo en el congelador. Después de que el agua se congele, saca el hielo del vaso. Enjuaga el hielo con agua del grifo. Ahora prueba el hielo. Cuando el agua salada se congela, forma hielo de agua dulce. Esto sucede porque el hielo se forma solo con moléculas de agua, no con sal.
+6. Mezcla sal en un vaso de agua potable y ponlo en el congelador. Después de que el agua se congele, saca el hielo del vaso. Enjuaga el hielo con agua de la canilla. Ahora prueba el hielo. Cuando el agua salada se congela, forma hielo de agua dulce. Esto sucede porque el hielo se forma solo con moléculas de agua, no con sal.
 
 ## Cierre
 - ¿Cómo demostró tu experimento con la botella que el agua congelada se expande?

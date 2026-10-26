@@ -184,10 +184,10 @@ Usamos agua de diversas maneras todos los días. La vida sin agua no solo sería
 
 a) ¿Te sorprendió tu uso personal diario de agua? ¿Imaginaste que usabas más o menos agua cada día? ¿Cómo difiere tu total personal del promedio de la clase?
 b) ¿Cuánta de tu agua total fue realmente usada y cuánta fue desperdiciada?
-c) ¿Cuánta más agua usas de la que realmente sale del grifo? ¿Cómo crees que se usa esta agua? (Recuerda a los participantes que una gran mayoría del agua se usa en la agricultura y la industria. Por ejemplo, se necesitan casi 9 500 litros de agua para producir una libra de carne de res y 2 660 litros para una camisa de algodón, y casi todos sus alimentos y bebidas requirieron agua para procesarse).
+c) ¿Cuánta más agua usas de la que realmente sale de la canilla? ¿Cómo crees que se usa esta agua? (Recuerda a los participantes que una gran mayoría del agua se usa en la agricultura y la industria. Por ejemplo, se necesitan casi 9 500 litros de agua para producir una libra de carne de res y 2 660 litros para una camisa de algodón, y casi todos sus alimentos y bebidas requirieron agua para procesarse).
 d) ¿Qué factores afectan los totales calculados hoy?
 e) ¿Cómo se vería tu auditoría si la hicieras un día de semana versus un día de fin de semana?
-f) ¿Qué tal en verano versus invierno? (Pídeles que piensen en jugar con un aspersor o llenar una piscina, regar un jardín o patio, etc.)
+f) ¿Qué tal en verano versus invierno? (Pídeles que piensen en jugar con un aspersor o llenar una pileta, regar un jardín o patio, etc.)
 g) ¿Cómo crees que se compara tu uso de agua con otras personas en tu país? (Considera urbano vs. rural, niveles de pobreza, etc.)
 h) ¿Cómo crees que se compara tu uso de agua con personas en otros países?
 i) Condiciones como sequía, contaminación, aumento de población y distribución desigual de los recursos naturales amenazan nuestro suministro de agua. ¿Qué podría pasar si nos enfrentáramos a una escasez extrema de agua? (El costo aumentaría, nuestro uso tendría que disminuir, el acceso sería menos confiable, las prácticas de conservación serían más comunes, etc.)
@@ -207,8 +207,8 @@ Responde las siguientes preguntas sobre tu uso de agua hoy. Si no sabes los núm
 | 2. ¿Te duchaste o bañaste? | | Escribe 150 litros si te bañaste. Escribe 30 litros por cada minuto que estuviste en la ducha. | ____ L |
 | 3. ¿Cuántas veces funcionó el lavavajillas hoy en tu casa? | | Aproximadamente 40 litros por carga. | ____ L |
 | 4. ¿Cuántas cargas de lavadora hiciste hoy en tu casa? | | Multiplica por 150 (o 90 si tienes lavadora de carga frontal). | ____ L |
-| 5. ¿Cuántos minutos hoy dejaste correr el grifo? | | Piensa en lavarte los dientes, las manos, lavar platos, etc. (Aproximadamente 6 litros por minuto). | ____ L |
-| 6. Revisa los grifos de tu casa para ver si hay fugas. Cuenta las gotas por minuto. | | Una gota por minuto = aproximadamente 3 litros por día. | ____ L |
+| 5. ¿Cuántos minutos hoy dejaste correr la canilla? | | Piensa en lavarte los dientes, las manos, lavar platos, etc. (Aproximadamente 6 litros por minuto). | ____ L |
+| 6. Revisa las canillas de tu casa para ver si hay fugas. Cuenta las gotas por minuto. | | Una gota por minuto = aproximadamente 3 litros por día. | ____ L |
 | 7. ¿Cuántos vasos de agua bebiste hoy? | | Multiplica por 0.25 litros por vaso. | ____ L |
 | 8. ¿Usaste una manguera hoy? (regar jardín, lavar auto, bañar mascota) | | Aproximadamente 15 litros por minuto. | ____ L |
 

@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafo
+  - Cuaderno y lapicera
   - Acceso a internet (para registrarse en proyectos)
 tools: []
 responsible:
@@ -164,7 +164,7 @@ Contribuye a proyectos de investigación científica ciudadana sobre el océano,
 ## Preparación
 1. Investiga proyectos de ciencia ciudadana en tu área.
 2. Registra tu grupo en un proyecto existente.
-3. Prepara cuadernos y bolígrafos para el registro.
+3. Prepara cuadernos y lapiceras para el registro.
 
 ## Desarrollo
 1. **Investigación** (15 min): Busca oportunidades de ciencia ciudadana en tu área.

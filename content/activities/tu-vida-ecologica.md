@@ -166,7 +166,7 @@ Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos pe
 
 ## Preparación
 1. Prepara el gráfico de la casa sostenible (ver anexo).
-2. Reúne rotuladores, papel y post-its.
+2. Reúne marcadores, papel y post-its.
 3. Organiza el espacio para el trabajo en equipos.
 
 ## Desarrollo

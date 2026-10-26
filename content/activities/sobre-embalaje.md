@@ -149,7 +149,7 @@ Identifica productos con envolturas innecesarias y encuentra alternativas con me
 
 ## Preparación
 - Revisa los productos en tu cocina.
-- Prepara papel y bolígrafos para anotar.
+- Prepara papel y lapiceras para anotar.
 
 ## Desarrollo
 1. **Identificación** (15 min): Busca productos sobre-embalados.

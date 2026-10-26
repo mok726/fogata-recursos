@@ -1,10 +1,10 @@
 ---
-title: "Pasteles de Lodo"
+title: "Tortas de Barro"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasteles-de-lodo/"
-description: "Experimenta creando pasteles de lodo y ladrillos de barro."
-summary: "Creación de pasteles de lodo."
+description: "Experimenta creando tortas de barro y ladrillos de barro."
+summary: "Creación de tortas de barro."
 
 author:
   - FAO
@@ -46,7 +46,7 @@ required_category: ""
 
 tags:
   - suelos
-  - lodo
+  - barro
   - barro
   - construccion
   - experimento
@@ -80,7 +80,7 @@ attributions:
 
 ludic_component: 5  # Actividad muy lúdica y creativa
 reflective_component: 2  # Reflexión ligera
-active_component: 4  # Manipulación de lodo
+active_component: 4  # Manipulación de barro
 
 complexity_execution: 1  # Muy sencilla
 complexity_organizer: 2  # Fácil de organizar
@@ -108,7 +108,7 @@ activity_type:
 
 category:
   - Suelo
-  - Lodo
+  - Barro
   - Construcción
 
 skills:
@@ -136,10 +136,10 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Pasteles de Lodo!
+# ¡Tortas de Barro!
 
 ## Resumen
-Experimenta con tierra y agua para hacer pasteles de lodo y ladrillos.
+Experimenta con tierra y agua para hacer tortas de barro y ladrillos.
 
 ## Preparación
 1. Prepara tierra sin piedras ni ramas.
@@ -148,7 +148,7 @@ Experimenta con tierra y agua para hacer pasteles de lodo y ladrillos.
 
 ## Desarrollo
 1. **Exploración** (10 min): Experimenta añadiendo diferentes cantidades de agua.
-2. **Creación** (15 min): Haz pasteles de lodo y ladrillos.
+2. **Creación** (15 min): Haz tortas de barro y ladrillos.
 3. **Secado** (10 min): Deja secar al sol por unas horas.
 4. **Prueba** (10 min): Construye algo con los ladrillos.
 

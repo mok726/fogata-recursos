@@ -149,7 +149,7 @@ Enumera trabajos que dependen del suelo y juega a adivinarlos con tu grupo.
 
 ## Preparación
 - Piensa en trabajos relacionados con el suelo.
-- Prepara papel y bolígrafos.
+- Prepara papel y lapiceras.
 
 ## Desarrollo
 1. **Lista** (10 min): Enumera tantos trabajos como puedas.

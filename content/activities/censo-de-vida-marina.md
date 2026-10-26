@@ -32,7 +32,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Acceso a internet (www.coml.org)
-  - Materiales de manualidades (papel, bolígrafos, lápices, pinturas)
+  - Materiales de manualidades (papel, lapiceras, lápices, pinturas)
 tools: []
 responsible: []
 

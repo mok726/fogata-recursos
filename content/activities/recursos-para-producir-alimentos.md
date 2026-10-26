@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -153,7 +153,7 @@ Investiga cuánta energía, agua y recursos se necesitan para producir diferente
 
 ## Preparación
 1. Accede a recursos sobre el uso de agua en alimentos.
-2. Prepara papel y bolígrafos.
+2. Prepara papel y lapiceras.
 3. Selecciona alimentos para investigar.
 
 ## Desarrollo

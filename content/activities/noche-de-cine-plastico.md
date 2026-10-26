@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Pantalla de TV o teléfono móvil
+  - Pantalla de TV o celular
   - Conexión a internet
   - Opcional: proyector y equipo de sonido
 tools: []

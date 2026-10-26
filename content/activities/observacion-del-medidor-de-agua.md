@@ -27,7 +27,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,7 +145,7 @@ Observa el medidor de agua y determina cuánto puedes reducir tu consumo.
 
 ## Preparación
 1. Pregunta a tus padres dónde está el medidor.
-2. Prepara papel y bolígrafos para registrar.
+2. Prepara papel y lapiceras para registrar.
 3. Asegura supervisión adulta.
 
 ## Desarrollo

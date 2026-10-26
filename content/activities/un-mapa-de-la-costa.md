@@ -180,7 +180,7 @@ Investiga y dibuja un mapa detallado de una porción de la costa.
 
 ## Preparación
 1. Lee el código de conducta para la playa antes de la visita.
-2. Prepara el equipo (tabla, papel, bolígrafos, cámara).
+2. Prepara el equipo (tabla, papel, lapiceras, cámara).
 3. Asegura la supervisión de un adulto.
 
 ## Desarrollo

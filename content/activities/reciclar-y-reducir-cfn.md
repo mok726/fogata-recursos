@@ -185,8 +185,8 @@ Pregunta: ¿Cómo podemos reducir nuestro consumo?
 - Deja de comprar agua embotellada, en cambio, carga tu propia botella
 - Trae tu propio termo a la cafetería
 - Elige cartón sobre bolsas de plástico
-- Di no a las pajillas/popotes/carrizos
-- No compres maquinillas de afeitar desechables
+- Di no a las pajitas
+- No compres afeitadoras descartables desechables
 - Repiensa tu almacenamiento de alimentos
 
 ## Cierre

@@ -170,7 +170,7 @@ translation_notice:
 # ¡Escasez de Agua!
 
 ## Resumen
-El agua es uno de los recursos más valiosos de la Tierra, pero también uno de los más escasos. El agua es necesaria para la supervivencia, pero algunas partes del mundo tienen mejor acceso a agua limpia y fácilmente obtenible que otras. En algunos países, obtener agua es tan simple como abrir el grifo, mientras que en otros lugares, las mujeres y los niños deben caminar varios kilómetros cada día para recolectar agua dulce. En esta actividad, los participantes investigan el uso del agua en diferentes países y simulan la distribución desigual del agua.
+El agua es uno de los recursos más valiosos de la Tierra, pero también uno de los más escasos. El agua es necesaria para la supervivencia, pero algunas partes del mundo tienen mejor acceso a agua limpia y fácilmente obtenible que otras. En algunos países, obtener agua es tan simple como abrir la canilla, mientras que en otros lugares, las mujeres y los niños deben caminar varios kilómetros cada día para recolectar agua dulce. En esta actividad, los participantes investigan el uso del agua en diferentes países y simulan la distribución desigual del agua.
 
 ## Preparación
 1. Prepara los materiales: mapa mundial, cartulinas, marcadores, acceso a Internet, elementos para contar.

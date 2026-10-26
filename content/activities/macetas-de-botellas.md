@@ -167,10 +167,10 @@ rama_rovers:
 # ¡Macetas de botellas!
 
 ## Resumen
-Las botellas PET de refrescos vienen en diferentes formas y tamaños. Estas botellas se pueden utilizar creativamente para crear macetas colgantes como una actividad de manualidades. Esta actividad anima a los jóvenes a reutilizar residuos plásticos y a cultivar sus propias plantas.
+Las botellas PET de gaseosa vienen en diferentes formas y tamaños. Estas botellas se pueden utilizar creativamente para crear macetas colgantes como una actividad de manualidades. Esta actividad anima a los jóvenes a reutilizar residuos plásticos y a cultivar sus propias plantas.
 
 ## Preparación
-1. Pedir a los participantes que traigan una botella de plástico de 1 litro (pueden ser de refresco o agua).
+1. Pedir a los participantes que traigan una botella de plástico de 1 litro (pueden ser de gaseosa o agua).
 2. Reunir tierra, semillas y cuerda.
 3. Tener tijeras disponibles para todos.
 4. Buscar un lugar apropiado para colgar las macetas.

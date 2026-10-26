@@ -169,7 +169,7 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 ## Objetivos
 - Aprender a crear leños ecológicos a partir de residuos.
 - Reducir el uso de leña convencional.
-- Evitar enviar estos materiales al basurero municipal.
+- Evitar enviar estos materiales al basural municipal.
 - Reducir el impacto ecológico.
 
 ## Preparación
@@ -204,7 +204,7 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 
 ### Discusión grupal
 - ¿Cómo permite esto reducir el uso de leña?
-- ¿Qué impacto tiene evitar enviar estos materiales al basurero municipal?
+- ¿Qué impacto tiene evitar enviar estos materiales al basural municipal?
 
 ### Compromiso
 - Los participantes pueden comprometerse a seguir creando leños ecológicos en sus hogares.

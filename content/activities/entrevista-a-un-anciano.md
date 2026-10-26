@@ -28,7 +28,7 @@ age_group:
   - caminantes
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Lápices de colores
 tools: []
 responsible:

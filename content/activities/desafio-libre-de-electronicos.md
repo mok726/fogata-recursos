@@ -158,7 +158,7 @@ rama_rovers:
 # ¡Desafío libre de electrónicos!
 
 ## Resumen
-Muchos jóvenes alrededor del mundo pasan una cantidad de tiempo cada vez mayor usando electrónicos cada día, incluyendo teléfonos móviles, computadores y televisores. ¿Cuánto tiempo pasas usando electrónicos cada día?
+Muchos jóvenes alrededor del mundo pasan una cantidad de tiempo cada vez mayor usando electrónicos cada día, incluyendo celulares, computadoras y televisores. ¿Cuánto tiempo pasas usando electrónicos cada día?
 
 ## Preparación
 1. Prepara una tabla para todo el mes del desafío.

@@ -34,7 +34,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Cuaderno de notas
-  - Lápiz o bolígrafo
+  - Lápiz o lapicera
   - Grabador de audio (opcional)
 tools: []
 responsible:

@@ -178,7 +178,7 @@ Te preguntarás por qué hay tanta diferencia en la disponibilidad de agua. Algu
 2. Dibuja diez charcos de agua en las siguientes casillas: 13, 16, 35, 46, 51, 60, 65, 72, 81, 87.
 3. Escribe una de las siguientes ideas en cada charco (si caes en un charco, debes retroceder):
 
-- **13:** Dejaste el grifo goteando, ¡vuelve al Inicio!
+- **13:** Dejaste la canilla goteando, ¡vuelve al Inicio!
 - **16:** Tomaste un baño largo en lugar de una ducha corta, ¡vuelve a la casilla 9!
 - **35:** Viste un envoltorio de helado en la calle y no lo recogiste, ahora ha sido arrastrado al desagüe, ¡vuelve a la casilla 25!
 - **46:** Lavaste el auto de la familia con la manguera, ¡vuelve a la casilla 32!
@@ -187,7 +187,7 @@ Te preguntarás por qué hay tanta diferencia en la disponibilidad de agua. Algu
 - **65:** Usaste una manguera para limpiar tu entrada, ¡vuelve a la casilla 53!
 - **72:** Desperdiciaste agua al lavar los platos, ¡vuelve a la casilla 64!
 - **81:** Tiraste aceite viejo por el desagüe, ¡vuelve a la casilla 73!
-- **87:** Dejaste el grifo abierto mientras te cepillabas los dientes, ¡vuelve a la casilla 77!
+- **87:** Dejaste la canilla abierta mientras te cepillabas los dientes, ¡vuelve a la casilla 77!
 
 4. Dibuja ocho tuberías que conecten diferentes casillas. Si caes en una tubería, ¡puedes subir por ella!
 
@@ -198,7 +198,7 @@ Te preguntarás por qué hay tanta diferencia en la disponibilidad de agua. Algu
 - **23:** Reciclas tu basura, ¡avanza a la casilla 38!
 - **30:** Tu patio trasero está lleno de plantas que ayudan a retener agua, ¡avanza a la casilla 49!
 - **45:** Regaste tu jardín al atardecer, ¡avanza a la casilla 55!
-- **59:** Pediste a tus padres que arreglaran un grifo con fuga, ¡avanza a la casilla 68!
+- **59:** Pediste a tus padres que arreglaran una canilla con fuga, ¡avanza a la casilla 68!
 - **66:** La factura del agua fue pagada por tus padres, ¡avanza a la casilla 79!
 - **78:** Gracias a ti, tu comunidad está usando barriles para recolectar agua de lluvia, ¡avanza a la casilla 85!
 - **84:** Enseñaste a tu hermana pequeña cómo y cuándo lavarse las manos, ¡avanza a la casilla 90!

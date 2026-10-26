@@ -34,7 +34,7 @@ materials:
   - Acceso a internet o fotografías del profundo lecho marino
   - Pegamento, cinta adhesiva, pintura
   - Papel, cartulina
-  - Materiales reciclados (botellas, rollos de papel, bolsas, pajillas)
+  - Materiales reciclados (botellas, rollos de papel, bolsas, pajitas)
 tools: []
 responsible:
   - Adulto responsable

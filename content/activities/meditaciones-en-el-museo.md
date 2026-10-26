@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno, bolígrafos
+  - Cuaderno, lapiceras
 tools: []
 responsible:
   - Docente o Scouter

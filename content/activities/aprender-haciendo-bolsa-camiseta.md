@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprender haciendo - Bolsa reutilizable con camiseta"
+title: "Aprender haciendo - Bolsa reutilizable con remera"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-haciendo-bolsa-camiseta/"
-description: "Los jóvenes transforman una camiseta vieja en una bolsa de compras reutilizable, aprendiendo sobre la reutilización de materiales y reduciendo el uso de bolsas plásticas de un solo uso."
-summary: "Crea una bolsa reutilizable con una camiseta vieja."
+description: "Los jóvenes transforman una remera vieja en una bolsa de compras reutilizable, aprendiendo sobre la reutilización de materiales y reduciendo el uso de bolsas plásticas de un solo uso."
+summary: "Crea una bolsa reutilizable con una remera vieja."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -67,7 +67,7 @@ tags:
 # ========== ENLACES Y ARCHIVOS ==========
 link:
   - url: "https://mommypotamus.com/no-sew-t-shirt-tote-bag-tutorial/"
-    caption: "Tutorial: Cómo hacer una bolsa reutilizable con una camiseta sin coser"
+    caption: "Tutorial: Cómo hacer una bolsa reutilizable con una remera sin coser"
     icon: "link"
 files: []
 
@@ -165,13 +165,13 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías disponibles
 ---
 
-# ¡Aprender haciendo - Bolsa reutilizable con camiseta!
+# ¡Aprender haciendo - Bolsa reutilizable con remera!
 
 ## Resumen
-¿Quién hace las compras de supermercado en tu casa? Coloca un cartel, junto con bolsas reutilizables, en el automóvil o justo al lado de la puerta, para que quien haga las compras los tenga a mano. En esta actividad, aprenderás a transformar una camiseta vieja en una bolsa de compras reutilizable, sin necesidad de coser.
+¿Quién hace las compras de supermercado en tu casa? Coloca un cartel, junto con bolsas reutilizables, en el automóvil o justo al lado de la puerta, para que quien haga las compras los tenga a mano. En esta actividad, aprenderás a transformar una remera vieja en una bolsa de compras reutilizable, sin necesidad de coser.
 
 ## Preparación
-1. Pedir a los participantes que traigan una camiseta vieja que ya no usen.
+1. Pedir a los participantes que traigan una remera vieja que ya no usen.
 2. Asegurarse de tener tijeras afiladas (preferiblemente de tela).
 3. Buscar un tutorial en video para mostrar como guía (ver enlace).
 4. Preparar el espacio con mesas y materiales.
@@ -179,9 +179,9 @@ rama_rovers:
 ## Desarrollo
 
 ### Paso a paso para hacer la bolsa
-1. Colocar la camiseta sobre una superficie plana.
+1. Colocar la remera sobre una superficie plana.
 2. Cortar las mangas (siguiendo la costura) y el cuello (siguiendo el contorno).
-3. Cortar la parte inferior de la camiseta en tiras de aproximadamente 2-3 cm de ancho.
+3. Cortar la parte inferior de la remera en tiras de aproximadamente 2-3 cm de ancho.
 4. Atar las tiras de la parte inferior en nudos dobles para cerrar la base de la bolsa.
 5. ¡La bolsa está lista para usar!
 

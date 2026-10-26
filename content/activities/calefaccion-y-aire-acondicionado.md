@@ -148,7 +148,7 @@ Usa menos calefacción y aire acondicionado, y aprende cómo las personas se man
 - Aprende sobre métodos tradicionales de calefacción y enfriamiento.
 
 ## Desarrollo
-1. **Acción** (continua): Baja la calefacción 1-2°C y usa una chaqueta extra.
+1. **Acción** (continua): Baja la calefacción 1-2°C y usa una campera extra.
 2. **Aprendizaje** (20 min): Investiga cómo se calentaban y enfriaban las casas en el pasado.
 3. **Compartir** (10 min): Comparte lo aprendido con tu familia.
 

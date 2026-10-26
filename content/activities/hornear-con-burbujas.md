@@ -166,7 +166,7 @@ translation_notice:
 # ¡Hornear con burbujas!
 
 ## Resumen
-Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, pasteles y otros dulces! Usa levadura o bicarbonato para hacer algo delicioso mientras aprendes sobre el CO₂.
+Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, tortas y otros dulces! Usa levadura o bicarbonato para hacer algo delicioso mientras aprendes sobre el CO₂.
 
 ## Preparación
 1. Reúne los ingredientes para tu receta.
@@ -184,7 +184,7 @@ Elige una receta que incluya levadura o bicarbonato:
 - Pizza
 
 **Con bicarbonato:**
-- Pasteles
+- Tortas
 - Galletas
 - Magdalenas
 

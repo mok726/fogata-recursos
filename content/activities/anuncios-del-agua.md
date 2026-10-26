@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Cámara de video (o cámara digital, teléfono móvil con cámara o grabadora de voz)
+  - Cámara de video (o cámara digital, celular con cámara o grabadora de voz)
   - Materiales adicionales para los videos/grabaciones (según la creatividad de los grupos)
 tools: []
 responsible:

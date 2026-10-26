@@ -1,10 +1,10 @@
 ---
-title: "Basurero vacío"
+title: "Tacho vacío"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/basurero-vacio/"
-description: "Reduce, reusa y recicla todo lo que puedas para vaciar el basurero."
-summary: "Desafío de basurero vacío."
+description: "Reduce, reusa y recicla todo lo que puedas para vaciar el tacho de basura."
+summary: "Desafío de tacho vacío."
 
 author:
   - FAO
@@ -141,10 +141,10 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Basurero vacío!
+# ¡Tacho vacío!
 
 ## Resumen
-Reduce, reusa y recicla todo lo que puedas para vaciar el basurero durante una semana.
+Reduce, reusa y recicla todo lo que puedas para vaciar el tacho de basura durante una semana.
 
 ## Preparación
 - Habla con tu familia sobre el desafío.
@@ -153,7 +153,7 @@ Reduce, reusa y recicla todo lo que puedas para vaciar el basurero durante una s
 ## Desarrollo
 1. **Planificación** (15 min): Piensa en cómo reducir residuos.
 2. **Acción** (1 semana): Reduce, reusa y recicla.
-3. **Evaluación** (15 min): ¿Lograste vaciar el basurero?
+3. **Evaluación** (15 min): ¿Lograste vaciar el tacho de basura?
 
 ## Cierre
 - ¿Qué fue lo más fácil y lo más difícil?

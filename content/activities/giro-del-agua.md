@@ -184,7 +184,7 @@ Puedes encontrar agua a tu alrededor, en el cielo y en el suelo. Usamos agua tod
 ### Paso 2: Preguntas
 - ¿Cómo puedes ahorrar agua en casa?
 - ¿Por qué es importante no desperdiciar agua?
-- ¿Qué pasa si dejas el grifo abierto mientras te cepillas los dientes?
+- ¿Qué pasa si dejas la canilla abierta mientras te cepillas los dientes?
 - ¿Cómo afecta el cambio climático al agua?
 - ¿Qué puedes hacer para involucrar a tu familia en el cuidado del agua?
 - ¿Por qué el agua es un recurso limitado?

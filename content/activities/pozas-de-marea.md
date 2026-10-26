@@ -35,7 +35,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Cubo de plástico
+  - Balde de plástico
   - Plástico transparente
   - Cuerda o cinta adhesiva
   - Papel

@@ -170,7 +170,7 @@ translation_notice:
 # ¿A Dónde Va el Agua?
 
 ## Resumen
-El agua llega a nuestras ciudades desde una fuente y la accedemos a través de diferentes sistemas de distribución como grifos, pozos, camiones y botellas. Luego usamos el agua para todas nuestras necesidades: bañarnos, cocinar, limpiar, beber y usar el inodoro. Pero, ¿a dónde va el agua después de desaparecer por el desagüe? Cuando se elimina correctamente, el agua que usamos pasa por tuberías hacia los sistemas de gestión de aguas residuales donde se limpia antes de reingresar a los sistemas de agua naturales. En esta actividad, los participantes crean y juegan un juego de mesa para aprender cómo las acciones cotidianas pueden ayudar o dañar un cuerpo de agua.
+El agua llega a nuestras ciudades desde una fuente y la accedemos a través de diferentes sistemas de distribución como canillas, pozos, camiones y botellas. Luego usamos el agua para todas nuestras necesidades: bañarnos, cocinar, limpiar, beber y usar el inodoro. Pero, ¿a dónde va el agua después de desaparecer por el desagüe? Cuando se elimina correctamente, el agua que usamos pasa por tuberías hacia los sistemas de gestión de aguas residuales donde se limpia antes de reingresar a los sistemas de agua naturales. En esta actividad, los participantes crean y juegan un juego de mesa para aprender cómo las acciones cotidianas pueden ayudar o dañar un cuerpo de agua.
 
 ## Preparación
 1. Reúne los materiales: cartulina, marcadores, tapitas, moneda, piedritas.
@@ -186,7 +186,7 @@ El agua llega a nuestras ciudades desde una fuente y la accedemos a través de d
 
 **Estación 1**
 - 1A: Tiraste tu basura en el contenedor para que no se lavara por un desagüe o al río. Quita una piedrita del río.
-- 1B: Un autobús urbano filtró aceite en la carretera y el aceite fue arrastrado al río. Agrega una piedrita al río.
+- 1B: Un colectivo urbano filtró aceite en la carretera y el aceite fue arrastrado al río. Agrega una piedrita al río.
 
 **Estación 2**
 - 2A: Vertiste tu pintura sobrante por un desagüe que va al río. Agrega dos piedritas al río.

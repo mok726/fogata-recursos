@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Ejemplos de plásticos "buenos" (casco, bolígrafo, gafas con montura de plástico, mando a distancia, imágenes de dispositivos médicos y juguetes de polipropileno)
+  - Ejemplos de plásticos "buenos" (casco, lapicera, anteojos con armazón de plástico, control remoto, imágenes de dispositivos médicos y juguetes de polipropileno)
   - Ejemplos de plásticos "malos" de un solo uso (pajitas, cubiertos desechables, bolsa de plástico, botella de agua, envase de comida para llevar)
   - Papel
   - Lápices
@@ -171,7 +171,7 @@ Aprende a identificar los diferentes tipos de plásticos y a entender por qué l
 ## Preparación
 1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
 2. Revisa la ilustración "Tipos de plástico" para reconocer los materiales plásticos que puedas encontrar.
-3. Reúne ejemplos de plásticos "buenos" (casco, bolígrafo, gafas, mando a distancia, imágenes de dispositivos médicos) y "malos" de un solo uso (pajitas, cubiertos desechables, bolsas, botellas, envases de comida para llevar).
+3. Reúne ejemplos de plásticos "buenos" (casco, lapicera, anteojos, control remoto, imágenes de dispositivos médicos) y "malos" de un solo uso (pajitas, cubiertos desechables, bolsas, botellas, envases de comida para llevar).
 
 ## Desarrollo
 

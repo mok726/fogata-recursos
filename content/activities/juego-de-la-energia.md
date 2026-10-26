@@ -65,7 +65,7 @@ tags:
 # ========== ENLACES Y ARCHIVOS ==========
 link:
   - url: "https://www.teachingideas.co.uk/pe/beans.htm"
-    caption: "Juego original de frijoles"
+    caption: "Juego original de porotos"
     icon: "link"
 files: []
 

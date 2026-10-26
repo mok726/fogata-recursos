@@ -1,10 +1,10 @@
 ---
-title: "Visita al tiradero de basura"
+title: "Visita al basural"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-tiradero-de-basura/"
-description: "Visita el tiradero de basura local y analiza su sostenibilidad."
-summary: "Visita a tiradero de basura."
+description: "Visita el basural local y analiza su sostenibilidad."
+summary: "Visita a basural."
 
 author:
   - FAO
@@ -49,7 +49,7 @@ required_category: ""
 tags:
   - sacc
   - basura
-  - tiradero
+  - basural
   - sostenibilidad
   - visita
 
@@ -142,13 +142,13 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental.
 ---
 
-# ¡Visita al tiradero de basura!
+# ¡Visita al basural!
 
 ## Resumen
-Visita el tiradero de basura local, analiza su sostenibilidad y habla con las autoridades.
+Visita el basural local, analiza su sostenibilidad y habla con las autoridades.
 
 ## Preparación
-1. Identifica el tiradero local.
+1. Identifica el basural local.
 2. Organiza la visita.
 3. Prepara preguntas.
 
@@ -159,7 +159,7 @@ Visita el tiradero de basura local, analiza su sostenibilidad y habla con las au
 4. **Reflexión** (15 min): Comparte lo aprendido.
 
 ## Cierre
-- ¿Qué viste en el tiradero?
+- ¿Qué viste en el basural?
 - ¿Es sostenible?
 - ¿Qué soluciones se han propuesto?
 

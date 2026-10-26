@@ -173,7 +173,7 @@ Los jóvenes toman una resolución colectiva para reducir sus hábitos de uso de
 6. A las 2 semanas, se vuelven a reunir para evaluar su progreso.
 
 **Algunas ideas para empezar:**
-- Evitar las pajillas/popotes de plástico.
+- Evitar las pajitas de plástico.
 - Llevar siempre una bolsa reutilizable.
 - Usar un recipiente reutilizable para la comida para llevar.
 - No comprar agua embotellada.

@@ -1,9 +1,9 @@
 ---
-title: "Menos televisión y computador"
+title: "Menos televisión y computadora"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-television-y-computador/"
-description: "Comprométete a usar menos tiempo la televisión y el computador."
+description: "Comprométete a usar menos tiempo la televisión y la computadora."
 summary: "Reducción de tiempo frente a pantallas."
 
 author:
@@ -45,7 +45,7 @@ required_category: ""
 tags:
   - sacc
   - television
-  - computador
+  - computadora
   - energia
   - ahorro
   - pantallas
@@ -133,10 +133,10 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Menos televisión y computador!
+# ¡Menos televisión y computadora!
 
 ## Resumen
-Comprométete a usar tu televisión o computador menos tiempo cada día.
+Comprométete a usar tu televisión o computadora menos tiempo cada día.
 
 ## Preparación
 - Reflexiona sobre cuánto tiempo pasas frente a pantallas.

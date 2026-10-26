@@ -27,7 +27,7 @@ age_group:
   - caminantes
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

@@ -34,7 +34,7 @@ age_group:
 materials:
   - Fotografías de vida marina
   - Libros de referencia o acceso a internet
-  - Papel, bolígrafos o lápices de colores o pinturas
+  - Papel, lapiceras o lápices de colores o pinturas
   - Materiales de manualidades para hacer un collage o modelo
 tools: []
 responsible:

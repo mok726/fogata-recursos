@@ -37,7 +37,7 @@ age_group:
 materials:
   - Raíces, nueces, bayas, flores
   - Agua
-  - Tela blanca o camiseta
+  - Tela blanca o remera
   - Olla (para cocinar)
   - Sal o vinagre (fijador)
 tools:
@@ -176,14 +176,14 @@ Antes de la invención de los colorantes químicos artificiales, la ropa y otras
 
 ## Preparación
 1. Reúne materiales vegetales para los tintes.
-2. Prepara la tela o camiseta para teñir.
+2. Prepara la tela o remera para teñir.
 3. Organiza el espacio de trabajo.
 
 ## Desarrollo
 1. Recolecta materiales naturales para los tintes.
 2. Prepara los tintes cociendo los materiales en agua.
 3. Añade un fijador (sal o vinagre).
-4. Tiñe la camiseta o pañuelo.
+4. Tiñe la remera o pañuelo.
 5. Deja secar.
 6. **Seguridad**: evita cualquier planta venenosa y no pruebes los tintes. La olla caliente la maneja un adulto.
 

@@ -169,7 +169,7 @@ rama_rovers:
 Tirar basura es uno de los mayores desafíos tanto ambientales como sociales que se enfrentan hoy en día. Esta actividad ayuda a los jóvenes a comprender el impacto de tirar basura y la correlación entre la contaminación por plástico y este comportamiento. A través de la observación y el análisis, los participantes reflexionan sobre las causas y consecuencias de la basura en su entorno.
 
 ## Preparación
-1. Preparar materiales de observación (cuadernos, bolígrafos, cámara).
+1. Preparar materiales de observación (cuadernos, lapiceras, cámara).
 2. Identificar lugares para la observación (calles, parques, escuelas).
 3. Explicar el propósito de la actividad.
 4. Establecer medidas de seguridad (guantes, no recoger objetos peligrosos).

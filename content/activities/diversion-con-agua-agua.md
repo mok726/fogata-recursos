@@ -176,7 +176,7 @@ Cada día hacemos muchas cosas maravillosas que involucran el uso del agua y el 
 1. Recuerda a tu grupo cuántas cosas maravillosas hacemos cada día que involucran el uso del agua y lo feliz que el agua hace a las personas en todo el mundo.
 
 ### Paso 2: Tarea para casa
-2. Explica a tu grupo que tendrán una tarea muy divertida para hacer en casa: planificar una actividad que involucre el uso del agua y que puedan desarrollar con su familia durante el fin de semana. Puede ser cualquier cosa, ¡desde ir a la piscina hasta pescar en una laguna cercana!
+2. Explica a tu grupo que tendrán una tarea muy divertida para hacer en casa: planificar una actividad que involucre el uso del agua y que puedan desarrollar con su familia durante el fin de semana. Puede ser cualquier cosa, ¡desde ir a la pileta hasta pescar en una laguna cercana!
 3. Da a los participantes tiempo para pensar y planificar su actividad. Pueden tomar notas o hacer un dibujo de lo que planean hacer.
 
 ### Paso 3: Compartir experiencias

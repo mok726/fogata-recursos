@@ -25,7 +25,7 @@ age_group:
   - manada
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

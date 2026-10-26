@@ -192,7 +192,7 @@ El agua dulce y el agua de mar tienen dos diferencias importantes: la salinidad 
 
 ## Cierre
 - ¿Qué pasó cuando mezclaste el agua dulce con el agua salada? ¿Flotó el agua dulce sobre la salada? ¿O la salada flotó sobre la dulce?
-- ¿En qué crees que es más fácil flotar, en una piscina o en el océano?
+- ¿En qué crees que es más fácil flotar, en una pileta o en el océano?
 
 ## Texto original completo de la actividad
 

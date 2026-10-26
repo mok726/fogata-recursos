@@ -177,7 +177,7 @@ Vigila el desperdicio de comida en tu casa durante una semana y busca formas de 
 
 ## Preparación
 1. Prepara un diario para apuntar el desperdicio de comida.
-2. Vigila el cubo de la basura durante una o dos semanas.
+2. Vigila el tacho de basura durante una o dos semanas.
 3. Observa qué comidas se tiran y por qué.
 
 ## Desarrollo

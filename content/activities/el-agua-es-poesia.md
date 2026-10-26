@@ -162,7 +162,7 @@ translation_notice:
 # ¡El Agua es Poesía!
 
 ## Resumen
-El agua es una cosa hermosa. Oscura y ondulada en un manantial, oscura y tranquila en una piscina, en un charco marrón y fresco... En esta actividad, los participantes reflexionan sobre el agua y su conexión con la salud y la felicidad a través de la creación de poemas inspirados en este elemento vital.
+El agua es una cosa hermosa. Oscura y ondulada en un manantial, oscura y tranquila en una pileta, en un charco marrón y fresco... En esta actividad, los participantes reflexionan sobre el agua y su conexión con la salud y la felicidad a través de la creación de poemas inspirados en este elemento vital.
 
 ## Preparación
 1. Prepara los materiales de escritura.
@@ -182,7 +182,7 @@ El agua es una cosa hermosa. Oscura y ondulada en un manantial, oscura y tranqui
 
 El agua es una cosa hermosa,  
 oscura y ondulada en un manantial,  
-oscura y tranquila en una piscina,  
+oscura y tranquila en una pileta,  
 en un charco marrón y fresco;  
 en el río azul y gris,  
 en una gota de lluvia plateada,  

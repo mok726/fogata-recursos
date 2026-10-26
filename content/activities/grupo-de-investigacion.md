@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a internet
   - Instrumentos de medición
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

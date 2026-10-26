@@ -167,7 +167,7 @@ Todos usamos agua todos los días, por ejemplo, para lavarnos los dientes o para
 
 ## Desarrollo
 1. Prepara un cartel donde incluyas los nombres de todas las personas de tu grupo o clase.
-2. Piensa en ejemplos de agua invisible: camisetas (agua para cultivar algodón, fabricar y transportar), libros, hamburguesas, etc.
+2. Piensa en ejemplos de agua invisible: remeras (agua para cultivar algodón, fabricar y transportar), libros, hamburguesas, etc.
 3. Por cada litro de agua que haya sido usado por cada persona ese día, pega un adhesivo en el cartel.
 4. Investiga cuánta agua se requiere para producir diferentes cosas.
 

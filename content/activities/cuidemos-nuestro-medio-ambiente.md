@@ -149,7 +149,7 @@ Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida
 
 ## Preparación
 1. Reflexiona sobre tu consumo de energía diario.
-2. Prepara papel y bolígrafos para tomar notas.
+2. Prepara papel y lapiceras para tomar notas.
 3. Habla con tu familia sobre el proyecto.
 
 ## Desarrollo

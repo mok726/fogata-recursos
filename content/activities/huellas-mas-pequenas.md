@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet o libros de referencia sobre el océano y el cambio climático
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

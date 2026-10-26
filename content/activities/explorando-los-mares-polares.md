@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a materiales de referencia sobre el Ártico
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

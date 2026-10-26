@@ -31,7 +31,7 @@ age_group:
 materials:
   - Alimentos con etiquetas
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

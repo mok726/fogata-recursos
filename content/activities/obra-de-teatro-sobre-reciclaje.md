@@ -145,7 +145,7 @@ rama_rovers:
 # ¡Obra de teatro sobre reciclaje!
 
 ## Resumen
-Presenta una obra de teatro para mostrar cómo reducir los desechos en los tiraderos de basura.
+Presenta una obra de teatro para mostrar cómo reducir los desechos en los basurales.
 
 ## Preparación
 1. Escribe el guión.

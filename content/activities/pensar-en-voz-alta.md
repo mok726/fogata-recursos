@@ -34,7 +34,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Papel
-  - Lápices o bolígrafos
+  - Lápices o lapiceras
   - Colores (opcional)
 tools: []
 responsible:

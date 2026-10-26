@@ -187,7 +187,7 @@ En esta actividad, los participantes simulan la limpieza de un derrame de petró
 
 ### Paso 1: Preparación del agua dulce
 1. Explica a tu grupo que van a intentar limpiar un derrame de petróleo.
-2. Para preparar el agua dulce, llena la bandeja de vidrio con agua fría del grifo hasta 1 cm del borde, añade de cinco a seis gotas de colorante alimenticio y mezcla bien. Deja reposar la solución.
+2. Para preparar el agua dulce, llena la bandeja de vidrio con agua fría de la canilla hasta 1 cm del borde, añade de cinco a seis gotas de colorante alimenticio y mezcla bien. Deja reposar la solución.
 
 ### Paso 2: Preparación del petróleo crudo simulado
 3. Para simular el petróleo crudo, coloca tres cucharadas de aceite vegetal en la taza, añade dos cucharadas de cacao en polvo y mezcla bien con un palito de madera.

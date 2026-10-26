@@ -31,7 +31,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Acceso a internet y a libros de referencia
-  - Un computador y un proyector (opcional)
+  - Una computadora y un proyector (opcional)
 tools: []
 responsible: []
 

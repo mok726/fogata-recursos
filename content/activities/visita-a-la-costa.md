@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Vestimenta y zapatos apropiados para caminar
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Tablas sujetapapeles
   - Una copia del código de conducta para la playa
   - Una guía para la playa (si está disponible)

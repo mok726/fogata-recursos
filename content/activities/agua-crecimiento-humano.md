@@ -32,7 +32,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Papel de construcción blanco
+  - Cartulina blanca
   - Lápices
   - Reglas
   - Lápices de colores
@@ -167,7 +167,7 @@ translation_notice:
 La escasez de agua está entre los principales problemas que enfrentarán todas las sociedades y países en el siglo XXI. Los factores que ejercen la mayor presión sobre el agua son el crecimiento de la población y el mayor consumo resultante de los ingresos promedio más altos por persona. El uso del agua ha crecido a más del doble de la tasa de crecimiento de la población en el último siglo. En esta actividad, los participantes reflexionan sobre cómo el crecimiento de la población afecta los recursos hídricos a través de un ejercicio de dibujo.
 
 ## Preparación
-1. Prepara papel de construcción, lápices y reglas.
+1. Prepara cartulina, lápices y reglas.
 2. Explica el concepto de escasez de agua y crecimiento poblacional.
 
 ## Desarrollo
@@ -176,7 +176,7 @@ La escasez de agua está entre los principales problemas que enfrentarán todas 
 1. Como grupo, reflexionen sobre el agua y el crecimiento de la población. ¿Cómo podrían verse afectadas las fuentes de agua?
 
 ### Paso 2: Ejercicio de dibujo
-2. Entrega a cada participante una hoja grande de papel de construcción y pídeles que dividan la página en seis secciones iguales usando un lápiz y una regla.
+2. Entrega a cada participante una cartulina grande y pídeles que dividan la página en seis secciones iguales usando un lápiz y una regla.
 3. Mientras lees cada uno de los siguientes escenarios, pide a los participantes que dibujen ilustraciones que muestren lo que has indicado en cada una de las seis secciones de su papel. A medida que dibujan las imágenes sucesivas, deben modificar el tamaño y la apariencia del agua y el número de peces en el lago para reflejar los cambios que ocurren.
 
 **Escenarios:**

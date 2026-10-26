@@ -175,7 +175,7 @@ Evalúa las prácticas sostenibles en tu cocina y crea una lista de acciones par
 
 ## Desarrollo
 1. **Observación** (15 min): Observa las prácticas en la cocina.
-2. **Evaluación** (15 min): Identifica prácticas insostenibles (uso ineficiente de energía, lavar verduras bajo el grifo, etc.).
+2. **Evaluación** (15 min): Identifica prácticas insostenibles (uso ineficiente de energía, lavar verduras bajo la canilla, etc.).
 3. **Lista** (15 min): Prepara una lista de acciones sostenibles.
 4. **Seguimiento** (10 min): Coloca la lista en un lugar vistoso.
 5. **Comparación** (15 min): Comparte tus resultados con el grupo.

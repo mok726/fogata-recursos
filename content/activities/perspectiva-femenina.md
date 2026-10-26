@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Cámara (opcional)
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Materiales para collage
 tools: []
 responsible:

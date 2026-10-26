@@ -163,7 +163,7 @@ translation_notice:
 # ¡El Agua No Siempre Está Disponible!
 
 ## Resumen
-Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas. Aproximadamente 780 millones de personas carecen de acceso a agua limpia. En algunas comunidades, incluso si tienen tuberías y grifos, el agua se suministra solo durante unas horas al día. En otros lugares, las personas tienen que almacenar su agua de un pozo comunitario, y en otros casos, mujeres y niños caminan varios kilómetros cada día para transportar agua. En esta actividad, los participantes experimentan los desafíos de obtener agua limpia y transportarla a través de un juego de relevos.
+Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas. Aproximadamente 780 millones de personas carecen de acceso a agua limpia. En algunas comunidades, incluso si tienen tuberías y canillas, el agua se suministra solo durante unas horas al día. En otros lugares, las personas tienen que almacenar su agua de un pozo comunitario, y en otros casos, mujeres y niños caminan varios kilómetros cada día para transportar agua. En esta actividad, los participantes experimentan los desafíos de obtener agua limpia y transportarla a través de un juego de relevos.
 
 ## Preparación
 1. Prepara las hojas de papel para cada grupo.

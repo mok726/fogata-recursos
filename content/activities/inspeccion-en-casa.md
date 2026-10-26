@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Lista de verificación
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

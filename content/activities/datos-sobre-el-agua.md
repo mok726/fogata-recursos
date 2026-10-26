@@ -202,7 +202,7 @@ Ningún ser vivo en la Tierra puede sobrevivir sin agua. El agua es esencial par
 
 7. **Falta de acceso a agua potable:** Alrededor de mil millones de personas no tienen acceso a agua potable, casi 1/6 del mundo. El acceso a agua potable enviaría a los niños (especialmente a las niñas) de vuelta a la escuela, empoderaría a las mujeres, mejoraría la salud de la comunidad y fomentaría el desarrollo económico.
 
-8. **Falta de saneamiento:** Un tercio de las personas en la Tierra carecen de saneamiento adecuado. Hay más teléfonos móviles en Asia y África que inodoros.
+8. **Falta de saneamiento:** Un tercio de las personas en la Tierra carecen de saneamiento adecuado. Hay más celulares en Asia y África que inodoros.
 
 9. **Solución alcanzable:** Crear acceso a agua potable para todos es medible y alcanzable. La falta de acceso a agua potable no es un problema técnico - es un problema humano, logístico, de financiación y eficiencia. El mundo tiene el dinero para hacerlo realidad. De hecho, tomaría 1/3 de lo que el mundo gasta en agua embotellada en un año para pagar proyectos que proporcionen agua a todos los que lo necesitan.
 

@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Equipo de video o cámara
-  - Cuaderno y bolígrafos
+  - Cuaderno y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

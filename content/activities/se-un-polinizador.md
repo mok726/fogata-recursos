@@ -172,7 +172,7 @@ Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ah
 1. Usá el pincel o hisopo para recolectar polen de una flor.
 2. Transferí el polen a otra flor del mismo tipo pero de diferente color.
 3. Esperá y observá los resultados.
-4. Reflexioná: ¿Sabías que Mendel cruzó plantas de guisantes altas y bajas?
+4. Reflexioná: ¿Sabías que Mendel cruzó plantas de arvejas altas y bajas?
 5. Cronometrá cuánto te lleva hacer 20 viajes de polinización.
 
 ## Cierre

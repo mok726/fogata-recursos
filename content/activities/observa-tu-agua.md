@@ -170,7 +170,7 @@ Monitorea el uso del agua en tu hogar durante una semana, identifica formas de a
 ## Desarrollo
 **Semana 1 - Observación**
 1. **Registro diario** (5 min/día): Escribe todas las formas de uso del agua.
-2. **Inspección** (15 min): Busca grifos que gotean.
+2. **Inspección** (15 min): Busca canillas que gotean.
 3. **Análisis** (10 min): Identifica áreas de mejora.
 
 **Semana 2 - Acción**

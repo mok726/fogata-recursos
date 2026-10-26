@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos para tomar notas
+  - Papel y lapiceras para tomar notas
 tools: []
 responsible:
   - Docente o Scouter

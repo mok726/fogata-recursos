@@ -180,7 +180,7 @@ Salgan a jugar afuera. Prueben diferentes juegos y actividades:
 - **Dibujo con tierra mojada**: Usa tierra mojada para hacer un dibujo en papel grueso.
 - **Arte con lluvia**: Haz un dibujo con marcadores o acuarelas y llévalo afuera para que la lluvia lo transforme en una nueva obra de arte.
 - **Construir un canal**: Coloca rocas, palos o barro para desviar el agua.
-- **Pastel de chocolate**: Usa tierra mojada para hacer un "pastel de chocolate".
+- **Torta de chocolate**: Usa tierra mojada para hacer una "torta de chocolate".
 
 ### Parte II - Secarse
 Asegúrate de secarse y cambiarse de ropa cuando terminen.

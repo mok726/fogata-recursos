@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a internet
   - Materiales de referencia sobre expediciones marinas
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

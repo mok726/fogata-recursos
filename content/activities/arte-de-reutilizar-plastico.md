@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Plásticos descartados (botellas, envases, tapas, pajillas, etc.)
+  - Plásticos descartados (botellas, envases, tapas, pajitas, etc.)
   - Recipientes para clasificar residuos
   - Pegamento
   - Tijeras
@@ -176,7 +176,7 @@ rama_rovers:
 Descubre tu lado creativo recolectando plásticos desechados y transformándolos en obras de arte. Puedes crear un collage, una escultura, un móvil o cualquier otra obra que se te ocurra. Esta actividad desarrolla la creatividad mientras reflexionas sobre la importancia de reutilizar los residuos plásticos.
 
 ## Preparación
-1. Pedir a los participantes que recolecten plásticos descartados en sus hogares (botellas, envases, tapas, pajillas, etc.).
+1. Pedir a los participantes que recolecten plásticos descartados en sus hogares (botellas, envases, tapas, pajitas, etc.).
 2. Colocar recipientes separados para clasificar los residuos.
 3. Preparar el espacio con mesas y materiales.
 4. Mostrar ejemplos de arte con plástico reciclado para inspirar.

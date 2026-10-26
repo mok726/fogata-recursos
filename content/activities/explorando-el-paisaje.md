@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafos para tomar notas
+  - Cuaderno y lapiceras para tomar notas
   - Cámara (opcional)
   - Materiales para afiche
 tools: []
@@ -156,7 +156,7 @@ Visita un lugar natural favorito cerca de donde vives y analiza cómo podría se
 
 ## Preparación
 1. Identifica un lugar natural para visitar (ribera, bosque, sendero).
-2. Prepara cuaderno, bolígrafos y cámara.
+2. Prepara cuaderno, lapiceras y cámara.
 3. Organiza el transporte y la supervisión.
 
 ## Desarrollo

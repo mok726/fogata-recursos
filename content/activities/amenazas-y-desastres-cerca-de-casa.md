@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos para tomar notas
+  - Papel y lapiceras para tomar notas
   - Materiales para afiche (papel grande, marcadores, fotografías)
 tools: []
 responsible:

@@ -32,7 +32,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Papel y bolígrafos o lápices
+  - Papel y lapiceras o lápices
   - Acceso a internet (opcional)
 tools: []
 responsible:

@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Pala pequeña
-  - Cuaderno y bolígrafos
+  - Cuaderno y lapiceras
   - Cámara
   - Cinta métrica
 tools: []

@@ -34,7 +34,7 @@ age_group:
 materials:
   - Acceso a internet, revistas o periódicos
   - Cámaras
-  - Papel, bolígrafos y lápices
+  - Papel, lapiceras y lápices
 tools: []
 responsible:
   - Adulto responsable

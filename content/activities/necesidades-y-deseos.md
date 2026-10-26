@@ -201,7 +201,7 @@ Todos los seres humanos tenemos necesidades básicas que deben ser cubiertas par
 | Hospital | Instalaciones deportivas |
 | Ducha | Transporte privado |
 | Baño | Internet |
-| Instalaciones sanitarias | Ordenador |
+| Instalaciones sanitarias | Computadora |
 | Libros | Música |
 | Escuela | Cine |
 

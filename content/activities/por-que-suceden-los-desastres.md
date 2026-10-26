@@ -30,7 +30,7 @@ age_group:
 materials:
   - Acceso a internet
   - Equipo de video (opcional)
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter

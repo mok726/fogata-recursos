@@ -31,7 +31,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Papel para hacer afiches o folletos
-  - Lápices y bolígrafos de colores o pinturas
+  - Lápices y lapiceras de colores o pinturas
   - Acceso a internet
 tools: []
 responsible: []

@@ -172,7 +172,7 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 ## Preparación
 1. Preparar fotocopias de la "Ficha de observación de consumo doméstico".
 2. Preparar fotocopias de la "Hoja de trabajo de reflexión y acción".
-3. Tener bolígrafos para todos los participantes.
+3. Tener lapiceras para todos los participantes.
 
 ## Desarrollo
 
@@ -200,7 +200,7 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 
 | Fecha de compra | Alimentos y bebidas | Juguetes / Juegos | Papelería | Otros |
 |-----------------|---------------------|-------------------|-----------|-------|
-| 11/11/19 (ej.) | Paquete de galletas | Bloques (plástico) | Bolígrafo | Maquinillas de afeitar |
+| 11/11/19 (ej.) | Paquete de galletas | Bloques (plástico) | Bolígrafo | Afeitadoras descartables |
 | | Agua embotellada | Juegos de mesa | Caja de lápices | Marcos de fotos |
 
 ## Hoja de trabajo de reflexión y acción

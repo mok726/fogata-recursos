@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Computadora o teléfono móvil
+  - Computadora o celular
   - Conexión a internet
 tools: []
 responsible:

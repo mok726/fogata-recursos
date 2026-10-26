@@ -30,7 +30,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -156,7 +156,7 @@ Mide tu huella de carbono usando calculadoras en línea y haz un plan para reduc
 
 ## Preparación
 1. Accede a una calculadora de huella de carbono.
-2. Prepara papel y bolígrafos.
+2. Prepara papel y lapiceras.
 3. Reflexiona sobre tus actividades diarias.
 
 ## Desarrollo

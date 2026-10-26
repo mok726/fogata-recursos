@@ -146,7 +146,7 @@ Comienza un diario para registrar todos tus esfuerzos por una vida más amigable
 
 ## Preparación
 - Consigue un cuaderno.
-- Prepara bolígrafos.
+- Prepara lapiceras.
 
 ## Desarrollo
 1. **Comienzo** (10 min): Inicia tu diario verde.

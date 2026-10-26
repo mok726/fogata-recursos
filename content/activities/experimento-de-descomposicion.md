@@ -35,7 +35,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Caja con tierra
-  - "Muestras: papel periódico, corazón de manzana, papel aluminio, botella de vidrio, hoja, bolsa plástica, empaque de caramelo, pelo de animal"
+  - "Muestras: papel de diario, corazón de manzana, papel aluminio, botella de vidrio, hoja, bolsa plástica, empaque de caramelo, pelo de animal"
   - Agua
   - Marcadores o etiquetas
 tools:

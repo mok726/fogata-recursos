@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Acceso a internet (opcional)
 tools: []
 responsible:
@@ -145,7 +145,7 @@ Reflexiona sobre cómo tu vida diaria impacta el medio ambiente y haz un plan pa
 
 ## Preparación
 1. Reflexiona sobre tu consumo de energía, agua y recursos.
-2. Prepara papel y bolígrafos.
+2. Prepara papel y lapiceras.
 3. Accede a calculadores en línea si es posible.
 
 ## Desarrollo

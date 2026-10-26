@@ -145,7 +145,7 @@ rama_rovers: []
 Experimenta con la erosión del suelo al verter agua sobre diferentes tipos.
 
 ## Preparación
-1. Reúne diferentes tipos de suelo (arena, lodo, arcilla).
+1. Reúne diferentes tipos de suelo (arena, barro, arcilla).
 2. Prepara agua, jarra y regadera.
 
 ## Desarrollo

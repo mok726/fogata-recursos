@@ -188,7 +188,7 @@ translation_notice:
 4. Mantén una discusión con tu grupo sobre lo que pueden hacer para conservar el agua. Piensen en general o consulten los usos del agua enumerados previamente en la pizarra y traten de pensar en una forma de reducir el consumo para cada uso.
 
 ### Paso 3: Creación del cartel de la promesa
-5. Usando el papel grande para el cartel, pide a los participantes que piensen en una promesa que todos quieran hacer juntos con respecto a su uso del agua. Esta podría ser muy amplia, como "Prometemos usar menos agua en casa", o podría ser específica, como "Prometemos cerrar el grifo cuando nos cepillamos los dientes".
+5. Usando el papel grande para el cartel, pide a los participantes que piensen en una promesa que todos quieran hacer juntos con respecto a su uso del agua. Esta podría ser muy amplia, como "Prometemos usar menos agua en casa", o podría ser específica, como "Prometemos cerrar la canilla cuando nos cepillamos los dientes".
 6. Pide a los participantes que escriban la promesa en el centro del cartel y que lo decoren para que se vea divertido y atractivo.
 7. Finalmente, pide a cada participante que trace, pinte o recorte y pegue una copia de su mano y que escriba o firme su nombre en o junto a las huellas de sus manos en el cartel de la promesa.
 

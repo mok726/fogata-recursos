@@ -180,7 +180,7 @@ El agua que encontramos en nuestro mundo siempre está siendo reciclada a travé
 
 ### Paso 2: Creación de la historia
 3. Divide a los participantes en grupos pequeños. Explica que crearán una historia de "Las Aventuras de una Gota de Agua" que muestre sus propias ideas sobre lo que podría ser una buena aventura para una gota de agua.
-4. Asegúrate de que los participantes muestren cómo el agua pasa de un lugar a otro y en qué fases (líquido, gas, sólido). Por ejemplo, podrían comenzar su historia cuando comienza a llover, o podrían preferir comenzar cuando abren el grifo de agua en casa.
+4. Asegúrate de que los participantes muestren cómo el agua pasa de un lugar a otro y en qué fases (líquido, gas, sólido). Por ejemplo, podrían comenzar su historia cuando comienza a llover, o podrían preferir comenzar cuando abren la canilla de agua en casa.
 5. Pídeles que incluyan un dibujo de su gota de agua.
 
 ### Paso 3: Presentación

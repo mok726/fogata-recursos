@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafos para tomar notas
+  - Cuaderno y lapiceras para tomar notas
   - Cámara (opcional)
   - Materiales para póster
 tools: []
@@ -157,7 +157,7 @@ Visita un área natural cerca de tu comunidad y observa cómo las diferentes esp
 
 ## Preparación
 1. Identifica un área natural para visitar (bosque, playa, humedal, granja, parque).
-2. Prepara cuaderno, bolígrafos y cámara.
+2. Prepara cuaderno, lapiceras y cámara.
 3. Organiza el transporte y la supervisión.
 
 ## Desarrollo

@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Equipo de video (opcional)
 tools: []
 responsible:

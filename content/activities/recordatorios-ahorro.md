@@ -177,13 +177,13 @@ Escribe recordatorios en post-its o tarjetas:
 - "Apaga las luces"
 - "Desconecta los electrónicos cuando no los uses"
 - "Cierra el agua cuando te cepilles"
-- "No dejes la puerta del refrigerador abierta"
+- "No dejes la puerta de la heladera abierta"
 
 ### Parte II - Colocar
 Coloca los recordatorios:
 - Cerca de los interruptores de luz
 - Junto a los electrónicos
-- Cerca de los grifos
+- Cerca de las canillas
 
 ### Parte III - Compartir
 Haz una lista de todas las formas en que se usa la energía en tu hogar, escuela o lugar de reunión.

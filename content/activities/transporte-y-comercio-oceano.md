@@ -29,7 +29,7 @@ materials:
   - Visita al puerto o muelle local
   - Cámara (opcional)
   - Materiales de información sobre el puerto o muelle más cercano
-  - Papel y bolígrafos para tomar notas
+  - Papel y lapiceras para tomar notas
 tools: []
 responsible:
   - Docente o Scouter

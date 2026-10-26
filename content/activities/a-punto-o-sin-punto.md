@@ -190,7 +190,7 @@ La contaminación que ingresa a un cuerpo de agua se puede clasificar en dos cat
 
 | Fuente de Contaminación | Tipo |
 |-------------------------|------|
-| Un basurero al aire libre | No puntual |
+| Un basural a cielo abierto | No puntual |
 | Pescadores que erosionan la orilla de un arroyo | No puntual |
 | Tierra suelta en un sitio de construcción | No puntual |
 | Una tubería rota que vierte aguas residuales crudas a un río | Puntual |

@@ -199,15 +199,15 @@ En esta actividad, los participantes participan en una carrera de relevos para c
 |------------------------------|----------------------------------|
 | Tiramos diferentes objetos por el inodoro (insectos, papel). 250 mL | Nunca tiramos objetos extra por el inodoro. Tenemos inodoro de bajo consumo. 125 mL |
 | Tomamos duchas largas y dejamos correr el agua antes de ducharnos. 500 mL | Tomamos duchas muy rápidas. 125 mL |
-| Dejamos correr el agua mientras nos cepillamos los dientes. 250 mL | Cerramos el grifo mientras nos cepillamos y usamos un vaso para enjuagar. 125 mL |
+| Dejamos correr el agua mientras nos cepillamos los dientes. 250 mL | Cerramos la canilla mientras nos cepillamos y usamos un vaso para enjuagar. 125 mL |
 | Regamos el césped todos los días y a menudo dejamos la manguera corriendo. 300 mL | El césped no necesita riego diario y usamos un aspersor con temporizador. 100 mL |
 | Tomamos baños largos y llenamos la bañera hasta el borde. 350 mL | Generalmente tomamos duchas cortas y no llenamos completamente la bañera. 125 mL |
-| Bebemos agua fría del grifo y dejamos correr el agua. 250 mL | Mantenemos agua fría en la nevera para beber. 125 mL |
+| Bebemos agua fría de la canilla y dejamos correr el agua. 250 mL | Mantenemos agua fría en la heladera para beber. 125 mL |
 | Lavamos incluso cargas pequeñas en la lavadora sin ajustar los niveles. 500 mL | Usamos la lavadora principalmente con carga completa y/o ajustamos los niveles. 250 mL |
-| Ignoramos los grifos que gotean. 500 mL | Cerramos los grifos que gotean y reparamos las fugas inmediatamente. 0 mL |
-| Nos lavamos las manos dejando correr el grifo. 250 mL | Cerramos el grifo mientras nos enjabonamos. 125 mL |
+| Ignoramos las canillas que gotean. 500 mL | Cerramos las canillas que gotean y reparamos las fugas inmediatamente. 0 mL |
+| Nos lavamos las manos dejando correr la canilla. 250 mL | Cerramos la canilla mientras nos enjabonamos. 125 mL |
 | Lavamos incluso pequeñas cantidades de platos en el lavavajillas. 500 mL | Usamos el lavavajillas solo con carga completa. 250 mL |
-| Lavamos el coche con manguera y jabón líquido. 500 mL | Lavamos el coche con esponja y balde. 200 mL |
+| Lavamos el auto con manguera y jabón líquido. 500 mL | Lavamos el auto con esponja y balde. 200 mL |
 
 ## Cierre
 - ¿Qué tan diferente fue el uso del agua entre los dos equipos?

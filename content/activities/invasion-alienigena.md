@@ -30,7 +30,7 @@ age_group:
 materials:
   - Acceso a internet o libros de referencia
   - Cuaderno de dibujo en blanco
-  - Lápices, bolígrafos o pinturas de colores
+  - Lápices, lapiceras o pinturas de colores
 tools: []
 responsible:
   - Docente o Scouter

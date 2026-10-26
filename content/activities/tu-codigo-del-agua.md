@@ -188,7 +188,7 @@ En esta actividad, los participantes reflexionan sobre la importancia de cuidar 
 7. Anima a los participantes a firmar su código como un compromiso formal.
 
 ## Ejemplos de acciones para el Código del Agua
-- Cerrar el grifo mientras me cepillo los dientes.
+- Cerrar la canilla mientras me cepillo los dientes.
 - Tomar duchas de no más de 5 minutos.
 - Reparar las fugas de agua en mi casa.
 - Reutilizar el agua de la lluvia para regar plantas.

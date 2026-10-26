@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet o libros de referencia
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Lápices o pinturas de colores
   - Cámara (opcional)
 tools: []
