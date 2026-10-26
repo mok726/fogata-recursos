@@ -33,7 +33,7 @@ Cuando llegue un permiso, se cambia la clase de esas actividades con el mismo sc
 
 | Insignia | Edición usada | Aviso de la fuente | Actividades |
 |---|---|---|---|
-| Agua | 2013 (EN "Water Challenge Badge" y ES) | © FAO 2013 (inferido, misma serie que Océano) | 155 |
+| Agua | 2013 (EN "Water Challenge Badge" y ES) | © FAO 2013; traducción y adaptación por solicitud (verificado en el PDF en inglés, i3225e) | 155 |
 | Biodiversidad | 2011 (FAO, AMGS, CBD) | "All rights reserved… Non-commercial uses will be authorized free of charge, upon request" | 112 |
 | Bosques | 2013 | © FAO 2013 (inferido) | 89 |
 | Seguridad alimentaria y cambio climático | 2009/2010 | "All rights reserved", reproducción no comercial autorizada, sin mención de adaptación | 87 |
@@ -61,7 +61,7 @@ Cuando llegue un permiso, se cambia la clase de esas actividades con el mismo sc
 
 - Ciudades Verdes 2025: el repo ya decía CC BY 4.0; no pude abrir el PDF para confirmarlo. Si resultara ser BY-NC-SA 3.0 IGO, la licencia mostrada no cambia, solo la nota.
 - Polinizadores 2021 y RRD 2020: inferidas como CC BY-NC-SA 3.0 IGO (ediciones de la FAO de 2019 en adelante, como Energía 2019, que sí verifiqué). Conviene mirar la página de créditos del PDF.
-- Agua, Bosques, Hambre y Suelos: inferidas como anteriores a CC. Si alguna resultara CC, se pasa a `fao_cc`.
+- Bosques, Hambre y Suelos: inferidas como anteriores a CC. Si alguna resultara CC, se pasa a `fao_cc`. (Agua quedó verificada el 2026-10-26.)
 
 ## Borrador de email a la FAO (en inglés)
 
