@@ -71,10 +71,11 @@ references:
     url: "https://doi.org/10.4060/ca7445es"
 
 license:
-  name: "Creative Commons BY-NC-SA 4.0"
-  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
-  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
-  note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
+  name: "© FAO – Licencia sin confirmar"
+  url: "https://www.fao.org/contact-us/terms/en/"
+  image: ""
+  note: "No se pudo confirmar la licencia de la edición original. Permiso de la FAO para publicar esta adaptación: pendiente de solicitud."
+  status: "permiso-pendiente"
 
 attributions:
   - entity: "© FAO 2022"

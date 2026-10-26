@@ -17,7 +17,7 @@ module.exports = function () {
         }
       ],
   license: {
-    type: "© FAO – Licencia de la edición sin verificar",
+    type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
     note: "Sin actividades publicadas; licencia de la edición original sin verificar."
   },
@@ -127,7 +127,7 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia de la edición sin verificar",
+    type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
     note: "Sin actividades publicadas; licencia de la edición original sin verificar."
   },
@@ -1096,7 +1096,7 @@ sections: {
         }
       ],
   license: {
-    type: "© FAO – Licencia de la edición sin verificar",
+    type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
     note: "Sin actividades publicadas; licencia de la edición original sin verificar."
   },
@@ -1205,9 +1205,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Licencia de la edición original sin confirmar. Permiso pendiente de solicitud."
   },
   attribution: {
     organization: "FAO",
@@ -1742,9 +1742,9 @@ sections: {
     }
   ],
   license: {
-    type: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Licencia de la edición original sin confirmar. Permiso pendiente de solicitud."
   },
   attribution: {
     organization: "FAO",
@@ -1954,9 +1954,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 4.0",
-    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "Adaptación de una obra de la FAO publicada bajo CC BY 4.0."
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Licencia de la edición original sin confirmar. Permiso pendiente de solicitud."
   },
   attribution: {
     organization: "FAO",

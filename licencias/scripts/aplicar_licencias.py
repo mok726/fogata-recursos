@@ -4,18 +4,20 @@ NCSA4=("Creative Commons BY-NC-SA 4.0","https://creativecommons.org/licenses/by-
 L={
  'propio':dict(lic=NCSA4,note=None,status=None),
  'fao_cc':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None),
- 'fao_ccby':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None),
+ 'fao_sinverificar':dict(lic=("© FAO – Licencia sin confirmar","https://www.fao.org/contact-us/terms/en/",""),note="No se pudo confirmar la licencia de la edición original. Permiso de la FAO para publicar esta adaptación: pendiente de solicitud.",status="permiso-pendiente"),
  'fao_arr':dict(lic=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/",""),note="La FAO autoriza el uso no comercial citándola como fuente y titular de los derechos. La traducción y la adaptación requieren su permiso: pendiente de solicitud.",status="permiso-pendiente"),
  'wosm':dict(lic=("© World Scout Bureau Inc. – Todos los derechos reservados","https://www.scout.org",""),note="La reproducción está autorizada solo a las organizaciones miembro de la OMMS. Permiso para publicar esta adaptación: pendiente de solicitud.",status="permiso-pendiente"),
  'saac':dict(lic=("© Scouts de Argentina Asociación Civil – Todos los derechos reservados","https://www.scouts.org.ar",""),note="Permiso para publicar esta adaptación: pendiente de solicitud.",status="permiso-pendiente"),
 }
-RANK=['propio','fao_ccby','fao_cc','fao_arr','saac','wosm']
+RANK=['propio','fao_cc','fao_sinverificar','fao_arr','saac','wosm']
 def classify_ref(r):
     t=(r.get('title') or '').lower(); u=(r.get('url') or '').lower(); y=r.get('year')
     if 'tide turners' in t or 'champions for nature' in t: return 'wosm'
     if 'scouts.org.ar' in u: return 'saac'
-    if 'green cities' in t: return 'fao_ccby'
-    if any(k in t for k in ['energy','plastics','pollinators','riesgo de desastres']): return 'fao_cc'
+    # Verificadas en el PDF: Energy 2019 y Plastics 2024 (CC BY-NC-SA 3.0 IGO).
+    if any(k in t for k in ['energy','plastics']): return 'fao_cc'
+    # Licencia no confirmada (PDF inaccesible): se pide permiso, a pedido de Mariano (2026-10-26).
+    if any(k in t for k in ['green cities','pollinators','riesgo de desastres']): return 'fao_sinverificar'
     if 'fao' in (r.get('author') or '').lower() or 'fao.org' in u: return 'fao_arr'
     return None
 def classify(d):
