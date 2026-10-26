@@ -189,7 +189,7 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 
 ### Paso 4: Tejido
 4. Cuando tenemos cantidad de tiritas, nos separamos en las distintas mesas según el objeto a realizar.
-5. Siguiendo las instrucciones del sinodal, los beneficiarios enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
+5. Siguiendo las instrucciones del sinodal, los protagonistas enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
 
 ### Paso 5: Terminación
 6. Al terminar los objetos, los dejamos secar (si se usó pegamento).
@@ -214,7 +214,7 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 2) Con la ayuda de los dirigentes, cortamos las botellas PET en tiras del ancho correspondiente.
 3) De ser necesario las tiras se pueden unir con una pequeña cantidad de pegamento.
 4) Cuando tenemos cantidad de tiritas nos separamos en las distintas mesas según el objeto a realizar.
-5) Siguiendo las instrucciones del sinodal los beneficiarios enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
+5) Siguiendo las instrucciones del sinodal los protagonistas enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
 
 **Cierre:** Discutimos sobre la actividad, que otros objetos podrían crearse con esta técnica y materiales. Que materiales alternativos podríamos usar y objetos podríamos crear en un campamento u emergencia.
 

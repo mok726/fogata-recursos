@@ -212,7 +212,7 @@ Aprendemos a reciclar plásticos de un solo uso mediante la creación de una "Bo
 1) Describimos que son los plásticos de un solo uso.
 2) Describimos que se puede hacer con los mismos si podemos reciclarlos.
 3) Sinodal describe la actividad y los pasos de la misma.
-4) Los beneficiarios se comprometen a crear su propia botella de amor.
+4) Los protagonistas se comprometen a crear su propia botella de amor.
 5) Realizamos dibujos y carteles para difundir la creación de Botellas de amor.
 6) Recolectamos las botellas y coordinamos con el municipio o 4E para que las recojan.
 

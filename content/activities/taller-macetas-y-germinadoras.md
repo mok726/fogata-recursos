@@ -36,7 +36,7 @@ materials:
   - Tierra, humus
   - Piedritas
   - Palita
-  - Guantes descartables
+  - Guantes de jardinería reutilizables (o lavarse bien las manos al terminar)
   - Marcador indeleble
   - Tijera o cortante
 tools: []
