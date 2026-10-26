@@ -15,3 +15,4 @@
 | 10 | hambre (49, sin original) | hecho | `tanda-10-hambre.md` |
 | 11 | oceano (53) | hecho | `tanda-11-oceano.md` |
 | 12 | energia (72) | hecho | `tanda-12-energia.md` |
+| 13 | nutricion (77, sin original) | hecho | `tanda-13-nutricion.md` |

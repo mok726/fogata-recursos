@@ -178,7 +178,7 @@ Investiga la información nutricional de diferentes alimentos y crea una tabla p
 1. **Recolección** (15 min): Reúne etiquetas de alimentos.
 2. **Análisis** (20 min): Copia la información nutricional de las etiquetas.
 3. **Tabla** (15 min): Crea una tabla con alimentos y sus nutrientes.
-4. **Exhibición** (15 min): Pone la tabla en un lugar visible (cocina, cafetería, tablón).
+4. **Exhibición** (15 min): Coloca la tabla en un lugar visible (cocina, cafetería, tablón).
 
 ## Cierre
 - ¿Qué nutrientes encontraste en los alimentos?

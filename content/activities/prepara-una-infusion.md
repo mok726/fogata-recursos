@@ -171,7 +171,7 @@ Experimenta creando bebidas saludables bajas en azúcar usando hierbas, raíces 
 
 ## Preparación
 1. Averigua qué hierbas crecen en tu zona.
-2. Recolecta hierbas (menta, camomila, albahaca, tomillo, jengibre, limón, etc.).
+2. Recolecta hierbas (menta, manzanilla, albahaca, tomillo, jengibre, limón, etc.). Solo plantas que un adulto identifique con certeza, o compradas: algunas plantas silvestres parecidas son tóxicas.
 3. Asegura la supervisión de un adulto para usar agua caliente.
 
 ## Desarrollo

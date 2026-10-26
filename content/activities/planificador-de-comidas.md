@@ -170,7 +170,7 @@ Planifica un menú del día para un compañero, considerando sus necesidades nut
 
 ## Preparación
 1. Forma parejas con tu grupo.
-2. Cada persona anota su peso, altura y nivel de actividad física.
+2. Cada persona anota su edad y su nivel de actividad física. El peso y la altura no se comparten entre compañeros: es un dato sensible (imagen corporal, burlas).
 3. Prepara material para planificar el menú.
 
 ## Desarrollo
