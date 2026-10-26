@@ -165,6 +165,7 @@ Organiza una limpieza de playa, clasifica y pesa la basura encontrada, y crea un
 1. Identifica una playa o costa local para limpiar.
 2. Reúne materiales: bolsas, guantes, básculas.
 3. Obtén permiso si es necesario.
+4. Seguridad: supervisión adulta; si aparecen objetos filosos (vidrios, jeringas, anzuelos) o algo dudoso, no se tocan: un adulto decide si se recogen.
 
 ## Desarrollo
 1. **Limpieza** (45 min): Recolecta basura de la playa con guantes.

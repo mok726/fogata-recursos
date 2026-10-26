@@ -13,3 +13,4 @@
 | 08 | plastics (44: 24 FAO + 20 Tide Turners) | hecho | `tanda-08-plastics.md` |
 | 09 | suelos (49) | hecho | `tanda-09-suelos.md` |
 | 10 | hambre (49, sin original) | hecho | `tanda-10-hambre.md` |
+| 11 | oceano (53) | hecho | `tanda-11-oceano.md` |
