@@ -196,7 +196,7 @@ En esta actividad, los participantes invitan a un experto en medio ambiente o co
 
 ## Cierre
 - ¿Crees que la humanidad ha actuado de manera descuidada e irrespetuosa con respecto al uso de los recursos naturales? ¿Qué ha pasado con los recursos hídricos?
-- ¿Todavía estamos a tiempo de revertir los problemas que ya hemos causado a nuestro agua?
+- ¿Todavía estamos a tiempo de revertir los problemas que ya hemos causado a nuestra agua?
 - ¿Qué cambios necesitas hacer para promover la protección del agua a través de tus acciones cotidianas?
 
 ## Texto original completo de la actividad

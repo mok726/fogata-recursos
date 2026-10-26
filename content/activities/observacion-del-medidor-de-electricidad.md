@@ -150,7 +150,7 @@ Observa el medidor de electricidad y determina cuánto puedes reducir tu consumo
 ## Preparación
 1. Pregunta a tus padres dónde está el medidor.
 2. Prepara papel y bolígrafos para registrar.
-3. Asegura supervisión adulta.
+3. Asegura supervisión adulta: la electricidad es peligrosa, solo se mira el medidor, sin tocarlo ni abrir el tablero.
 
 ## Desarrollo
 1. **Observación** (1 semana): Registra las unidades consumidas.

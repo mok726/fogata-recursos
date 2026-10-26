@@ -170,7 +170,7 @@ Durante miles de años la biodiversidad ha provisto a los seres humanos de medic
 1. Investiga plantas medicinales en tu comunidad.
 2. Aprende sobre sus usos tradicionales.
 3. Registra nombres y propiedades.
-4. Precauciones: NO TOMES las plantas sin conocimiento experto.
+4. Precauciones: no tomes ni consumas ninguna planta. Algunas venenosas se parecen a las medicinales, y también puede ser la parte equivocada de la planta.
 
 ## Cierre
 1. Comparte tus hallazgos con el grupo.

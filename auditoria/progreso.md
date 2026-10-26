@@ -21,3 +21,5 @@
 | 16 | bosques (89, sin original) | hecho | `tanda-16-bosques.md` |
 | 17 | biodiversidad (111; faltan A09–A10) | hecho | `tanda-17-biodiversidad.md` |
 | 18 | agua (155) | hecho | `tanda-18-agua.md` |
+
+**Barrido global (2026-10-26)**: advertencias EN MAYÚSCULAS del original vs adaptación en todas las insignias con original embebido (19 coincidencias). Nuevas correcciones: plantas-medicinales (no consumir plantas), observacion-del-medidor-de-electricidad (no tocar medidor/tablero). "Nuestro agua" → "Nuestra agua" (2). "Divídanse" sin tilde solo queda dentro de textos originales (no se tocan).

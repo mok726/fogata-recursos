@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Nuestro Agua También Puede Enfermarse"
+title: "Nuestra Agua También Puede Enfermarse"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/nuestro-agua-tambien-enfermarse/"
@@ -167,7 +167,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Nuestro Agua También Puede Enfermarse!
+# ¡Nuestra Agua También Puede Enfermarse!
 
 ## Resumen
 La contaminación afecta la calidad del agua, y esto puede afectar a todos los seres vivos porque todos dependemos del agua. La calidad del agua potable es una preocupación aún mayor. El agua contaminada puede provocar enfermedades graves como el cólera, el tifus, la ictericia, la diarrea, la disentería y la malaria. Estas enfermedades transmitidas por el agua representan casi un tercio de todas las muertes en el mundo. Se estima que cada 20 segundos muere un niño por una enfermedad relacionada con el agua. En esta actividad, los participantes aprenden sobre las enfermedades transmitidas por el agua a través de un juego de búsqueda de palabras y una reflexión sobre el acceso al agua potable.
