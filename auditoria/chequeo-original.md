@@ -1,0 +1,89 @@
+# Chequeo contra el texto original embebido
+
+Generado por `auditoria/scripts/chequeo_original.py`. Solo actividades con sección "Texto original completo".
+
+Niveles YUNGA: 1 = 5–10 años (castores/manada), 2 = 11–15 (scouts/caminantes), 3 = 16+ (caminantes/rovers). Castores es opcional en nivel 1.
+
+Resumen: {'con nivel': 77, 'menciones aux': 94, 'urls faltantes': 8} 
+
+- **a-punto-o-sin-punto**: el original menciona: «tarjeta de»; el original menciona: «tarjetas de»
+- **acidificacion-del-oceano**: URL del original no enlazada: `http://science.howstuffworks.com/innovation/everyday-innovations/experiment1.htm`
+- **aprender-haciendo-bolsa-camiseta**: el original menciona: «kit de»
+- **arte-de-reutilizar-plastico**: el original menciona: «kit de»
+- **audita-residuos-plastico**: el original menciona: «guía de»; el original menciona: «kit de»
+- **audita-tus-habitos-plastico**: el original menciona: «kit de»
+- **basura-por-que-es-importante**: el original menciona: «kit de»
+- **bioblitz-exploracion**: el original menciona: «hoja de trabajo»; el original menciona: «kit de»; el original menciona: «tarjetas de»
+- **cambiando-con-el-clima-cambioclimatico**: el original menciona: «juego de cartas»
+- **campana-de-carteles-plastico**: el original menciona: «kit de»
+- **cartel-contaminacion-marina**: el original menciona: «kit de»
+- **ciencia-ciudadana-aves**: el original menciona: «descarga»
+- **collage-contaminacion-agua**: el original menciona: «descarga»
+- **como-pescan-los-pescadores**: URL del original no enlazada: `www.youtube.com/watch/?v=MdkU678ZwjA`
+- **control-zona-riberena**: el original menciona: «tarjeta de»; el original menciona: «tarjetas de»
+- **cual-es-tu-posicion**: el original menciona: «kit de»
+- **cuando-se-degradan**: el original menciona: «hoja de trabajo»; el original menciona: «kit de»
+- **cuatro-esquinas**: el original menciona: «kit de»
+- **deja-la-botella**: URL del original no enlazada: `www.natura-medioambiental.com/2007/08/razones-para-no-comprar-agua-en.html`
+- **derecho-a-la-alimentacion**: el original menciona: «guía de»
+- **dia-mundial-de-la-alimentacion**: el original menciona: «tarjetas de»
+- **discurso-pixar**: el original menciona: «kit de»; el original menciona: «plantilla»
+- **diversion-en-la-costa**: nivel YUNGA 3 2 vs age_group ['caminantes', 'castores', 'manada', 'rovers', 'scouts'] (faltan: -; sobran: castores, manada)
+- **energia-en-los-alimentos**: el original menciona: «tarjeta de»
+- **escala-de-ph**: el original menciona: «kit de»
+- **escasez-de-agua**: el original menciona: «descarga»
+- **extrayendo-la-sal**: URL del original no enlazada: `www.marinebio.net/marinescience/02ocean/swcomposition.htm`
+- **gafas-de-alimentos**: el original menciona: «kit de»; el original menciona: «tarjetas de»
+- **haz-una-nube**: URL del original no enlazada: `www.WeatherWizKids.com`
+- **horno-solar-cocina-solar**: el original menciona: «anexo»
+- **huellas-de-plastico-mas-grandes**: el original menciona: «kit de»
+- **identificando-alternativas-plastico**: el original menciona: «kit de»
+- **inaturalist-siguiente-nivel**: el original menciona: «kit de»
+- **inicio-de-los-plasticos**: el original menciona: «kit de»
+- **inspeccion-en-casa**: el original menciona: «kit de»
+- **juega-a-salvar-el-oceano**: el original menciona: «kit de»
+- **juego-a-donde-va-el-agua**: el original menciona: «ficha»
+- **juego-de-biodiversidad**: el original menciona: «juego de cartas»
+- **la-basura-en-su-lugar**: el original menciona: «imprim»; el original menciona: «tarjeta de»
+- **lentes-solares**: el original menciona: «imprim»
+- **lista-verificacion-huella-ecologica**: el original menciona: «anexo»; el original menciona: «imprim»; el original menciona: «kit de»
+- **los-colores-del-agua**: el original menciona: «imprim»
+- **macetas-de-botellas**: el original menciona: «kit de»
+- **manos-a-la-obra-petroleo**: el original menciona: «descarga»
+- **manualidad-mosaico-tapas**: el original menciona: «kit de»
+- **minimo-impacto-naturaleza**: el original menciona: «kit de»
+- **modelo-submarino**: URL del original no enlazada: `http://deepseachallenge.com`
+- **monitoreo-de-residuos**: el original menciona: «kit de»
+- **necesidades-y-deseos**: el original menciona: «tarjetas de»
+- **necesidades-y-deseos-plastico**: el original menciona: «ficha»; el original menciona: «hoja de trabajo»; el original menciona: «kit de»
+- **negocios-sospechosos**: nivel YUNGA 2 1 vs age_group ['caminantes', 'castores', 'manada', 'rovers', 'scouts'] (faltan: -; sobran: rovers)
+- **noche-de-cine-plastico**: el original menciona: «kit de»
+- **nuestro-planeta-netflix**: el original menciona: «kit de»
+- **operacion-contra-la-basura**: el original menciona: «kit de»
+- **petalos-y-polinizadores**: el original menciona: «plantilla»
+- **piramide-de-alimentos**: el original menciona: «kit de»
+- **plantacion-de-arboles**: el original menciona: «kit de»
+- **programa-global-escuelas-seguras**: el original menciona: «juego de mesa»
+- **proyecto-servicio-comunitario-cfn**: el original menciona: «kit de»
+- **que-esta-en-riesgo**: el original menciona: «kit de»; el original menciona: «tarjetas de»
+- **que-le-pasa-a-mi-estanque**: el original menciona: «kit de»
+- **reciclar-y-reducir-cfn**: el original menciona: «juego de cartas»; el original menciona: «kit de»
+- **red-de-vida**: el original menciona: «kit de»
+- **reduccion-de-papel-en-la-escuela**: el original menciona: «imprim»
+- **regular-uso-plasticos**: el original menciona: «kit de»
+- **relatos-de-viaje**: el original menciona: «guía de»
+- **relevamiento-de-polinizadores**: el original menciona: «plantilla»
+- **reloj-de-sol**: el original menciona: «anexo»; el original menciona: «apéndice»; el original menciona: «descarga»; el original menciona: «imprim»; el original menciona: «plantilla»
+- **resolucion-de-plastico**: el original menciona: «kit de»
+- **see-los-enlaces**: el original menciona: «descarga»; el original menciona: «kit de»
+- **seek-inaturalist**: el original menciona: «kit de»
+- **separar-desde-el-comienzo**: el original menciona: «kit de»
+- **soluciones-globales**: URL del original no enlazada: `http://scienceillustrated.com.au/blog/in-the-mag/do-it-yourself-science-projects-make-your-own-solar-desalination-plant/(en`; URL del original no enlazada: `www.buenastareas.com/ensayos/Desalar-Agua-De-Mar-De-Forma/2002208.html`
+- **tarjetas-de-felicitacion-recicladas**: el original menciona: «tarjetas de»
+- **tarjetas-de-felicitacion-recicladas-cambioclimatico**: el original menciona: «tarjetas de»
+- **tarjetas-de-puntuacion**: el original menciona: «tarjetas de»
+- **tu-vida-ecologica**: el original menciona: «anexo»; el original menciona: «kit de»
+- **tuberias-y-charcos-inteligentes**: el original menciona: «ficha»
+- **ubicacion-del-oceano**: el original menciona: «imprim»
+- **verde-o-rojo**: el original menciona: «kit de»; el original menciona: «tarjetas de»
+- **villanos-del-agua**: el original menciona: «tarjetas de»

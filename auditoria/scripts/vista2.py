@@ -26,7 +26,10 @@ def show(slug):
         wa, wo = words(adapted), words(orig)
         sim = difflib.SequenceMatcher(None, wa, wo, autojunk=False).ratio() if wa and wo else 0
         cov = len(set(wo) & set(wa)) / max(1, len(set(wo)))
-        print("-- ORIGINAL:", " | ".join(meta)[:300], f"| similitud={sim:.2f} cobertura_vocab={cov:.2f}")
+        if len(orig) < 1500:
+            print("-- ORIGINAL COMPLETO:", re.sub(r"\s*\n\s*", " / ", orig.strip())[:1500], f"| sim={sim:.2f}")
+        else:
+            print("-- ORIGINAL:", " | ".join(meta)[:300], f"| similitud={sim:.2f} cobertura_vocab={cov:.2f}")
         extra = re.findall(r"(?i)(anexo[^.\n]*|ap[eé]ndice[^.\n]*|https?://\S+|versi[oó]n (?:online|impresa)[^.\n]*|plantilla[^.\n]*|ficha[^.\n]*)", orig)
         if extra:
             print("-- MENCIONES AUX EN ORIGINAL:", " || ".join(sorted(set(e[:90] for e in extra)))[:600])
