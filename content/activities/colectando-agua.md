@@ -173,7 +173,7 @@ Hagan un hoyo de 30 cm de profundidad y 60 cm de diámetro en la tierra.
 Recojan cualquier vegetación verde y llenen el agujero con ella.
 
 ### Paso 3 - Colocar el frasco
-Coloquen un frasco en el centro del hoyo y apoyenlo en el suelo, no en la vegetación.
+Coloquen un frasco en el centro del hoyo y apóyenlo en el suelo, no en la vegetación.
 
 ### Paso 4 - Cubrir
 Tapen el hoyo con una lámina de plástico transparente. Utilicen las piedras para estirar los bordes de la lámina de plástico y sujetarla.

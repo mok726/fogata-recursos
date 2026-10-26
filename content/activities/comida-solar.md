@@ -157,7 +157,7 @@ rama_rovers:
 # ¡Una comida solar!
 
 ## Resumen
-Los y las invitamos a utilizar la cocina/horno solar para cocinar en su grupo, en un campamento o salida. Comiencen con pasos sencillos, cómo hervir agua para preparar un mate cocido y prueben hacer cada vez recetas más complejas. Algunos básicos de pochoclos o arroz son fáciles para los principiantes.
+Los y las invitamos a utilizar la cocina/horno solar para cocinar en su grupo, en un campamento o salida. Comiencen con pasos sencillos, como hervir agua para preparar un mate cocido y prueben hacer cada vez recetas más complejas. Algunos básicos de pochoclos o arroz son fáciles para los principiantes.
 
 ## Preparación
 1. Construyan una cocina u horno solar (ver actividad C.02).

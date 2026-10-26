@@ -197,7 +197,7 @@ Sigan las instrucciones del anexo para construir la cocina solar.
 
 **Paso 5:** Sostengan ambas piezas alineadas (con la ayuda de alguien o con una prensa) y hagan un agujero del lado derecho y otro del lado izquierdo en cada esquina de la madera más pequeña.
 
-**Paso 6:** Unan las piezas y sujetenlas con tanza o hilo a través de los huecos. Usen 4 clips para darle forma de flor a la cocina.
+**Paso 6:** Unan las piezas y sujétenlas con tanza o hilo a través de los huecos. Usen 4 clips para darle forma de flor a la cocina.
 
 ### Parte II - Cocinar
 Coloquen la cocina solar al Sol y prueben a cocinar algo simple (ej. hervir agua para mate cocido, hacer pochoclos o arroz).
