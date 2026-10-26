@@ -149,7 +149,7 @@ Reemplaza las bombillas comunes por bombillas ahorradoras de energía.
 
 ## Preparación
 1. Identifica las bombillas comunes en tu casa o escuela.
-2. Consigue bombillas ahorradoras de energía.
+2. Consigue lámparas LED (hoy reemplazan a las "bajo consumo" fluorescentes, que tienen mercurio y no van a la basura común).
 3. Asegura supervisión adulta para el reemplazo.
 
 ## Desarrollo

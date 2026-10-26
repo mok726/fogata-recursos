@@ -151,6 +151,7 @@ Aprende a hacer jabón natural con la ayuda de un artesano y véndelo para una c
 
 ## Preparación
 1. Encuentra un artesano que enseñe a hacer jabón.
+   - Seguridad: el jabón artesanal se hace con soda cáustica, que quema la piel y los ojos. Solo la manipula un adulto, con guantes y antiparras. Los más chicos pueden usar base de glicerina para fundir (sin soda) o solo observar.
 2. Reúne los ingredientes y materiales.
 3. Organiza la venta.
 

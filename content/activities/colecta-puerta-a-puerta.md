@@ -154,6 +154,7 @@ Organiza una colecta de ropa, muebles, libros, juguetes y bienes enlatados para 
 1. Define los artículos a recolectar.
 2. Prepara materiales para la colecta.
 3. Promociona la iniciativa.
+4. Seguridad: nunca solos; en grupos con un adulto, sin entrar a las casas y de día.
 
 ## Desarrollo
 1. **Planificación** (20 min): Organiza la colecta.
