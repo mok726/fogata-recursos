@@ -36,7 +36,7 @@ materials:
   - Lápices
   - Tabla de datos
 tools:
-  - Cociná o espacio para cocinar
+  - Cocina o espacio para cocinar
   - Utensilios de cocina
 responsible:
   - Docente o Scouter

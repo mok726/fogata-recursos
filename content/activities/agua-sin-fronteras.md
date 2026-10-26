@@ -101,7 +101,7 @@ competencies:
   - Conciencia global
 
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Sensibilización
 

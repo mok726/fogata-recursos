@@ -129,7 +129,7 @@ competencies:
 activity_type:
   - Sensibilización
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - Documental
   - Biodiversidad

@@ -121,7 +121,7 @@ competencies:
   - Conciencia social
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - Problemas del agua
   - Pensamiento sistémico

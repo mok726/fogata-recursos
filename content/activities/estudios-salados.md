@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Salí
+  - Sal
   - Agua
   - Vaso
   - Lugar cálido
@@ -112,7 +112,7 @@ activity_type:
 
 category:
   - Agua
-  - Salí
+  - Sal
   - Desalinización
 
 skills:

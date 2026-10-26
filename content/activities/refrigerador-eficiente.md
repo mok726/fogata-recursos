@@ -99,7 +99,7 @@ accessibility: []
 competencies:
   - Eficiencia energética
   - Responsabilidad
-  - Ayudá doméstica
+  - Ayuda doméstica
 
 activity_type:
   - Servicio a los demás
@@ -114,7 +114,7 @@ category:
 skills:
   - Eficiencia energética
   - Responsabilidad
-  - Ayudá doméstica
+  - Ayuda doméstica
 
 scout_values:
   - Sencillez y Austeridad

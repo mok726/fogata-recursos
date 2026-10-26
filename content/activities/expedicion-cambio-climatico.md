@@ -122,7 +122,7 @@ competencies:
   - Análisis de impacto
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Investigación
 category:
   - Cambio climático

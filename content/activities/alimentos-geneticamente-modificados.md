@@ -120,7 +120,7 @@ competencies:
   - Debate
 activity_type:
   - Investigación
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
 category:
   - Biotecnología

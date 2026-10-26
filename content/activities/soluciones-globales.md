@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Salí
+  - Sal
   - Agua
   - Materiales para experimento
 tools: []

@@ -144,7 +144,7 @@ competencies:
 activity_type:
   - Creatividad / Arte
   - Planificación
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - Innovación
   - Urbanismo

@@ -39,7 +39,7 @@ materials:
   - Vaso
   - Banda elástica
   - Colador
-  - Salí
+  - Sal
   - Cubos de hielo
   - Agua
   - Agua potable

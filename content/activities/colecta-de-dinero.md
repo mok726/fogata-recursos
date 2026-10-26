@@ -117,7 +117,7 @@ activity_type:
 category:
   - Recaudación
   - Solidaridad
-  - Ayudá humanitaria
+  - Ayuda humanitaria
 
 skills:
   - Organización

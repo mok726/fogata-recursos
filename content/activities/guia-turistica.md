@@ -1,5 +1,5 @@
 ---
-title: "Guiá Turística"
+title: "Guía Turística"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/guia-turistica/"
@@ -131,7 +131,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Guiá Turística!
+# ¡Guía Turística!
 
 ## Resumen
 Llevá a un amigo en un tour guiado por tu jardín o parque local, mostrándole la importancia del suelo.

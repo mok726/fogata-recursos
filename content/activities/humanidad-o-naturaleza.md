@@ -119,7 +119,7 @@ competencies:
   - Diálogo
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Orientación
 category:
   - Naturaleza

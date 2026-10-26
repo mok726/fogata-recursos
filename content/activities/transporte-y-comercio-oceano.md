@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Visitá al puerto o muelle local
+  - Visita al puerto o muelle local
   - Cámara (opcional)
   - Materiales de información sobre el puerto o muelle más cercano
   - Papel y lapiceras para tomar notas

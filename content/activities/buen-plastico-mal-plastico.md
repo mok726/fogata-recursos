@@ -122,7 +122,7 @@ competencies:
   - Consumo responsable
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Sensibilización
 category:
   - Plásticos

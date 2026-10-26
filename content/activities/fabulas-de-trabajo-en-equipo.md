@@ -113,7 +113,7 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Escuchá activa
+  - Escucha activa
 
 scout_values:
   - Creatividad e ingenio

@@ -119,7 +119,7 @@ competencies:
   - Pensamiento crítico
   - Trabajo en equipo
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Dinámica de grupos
 category:
@@ -156,7 +156,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Debatí sobre ciudades verdes!
+# ¡Debate sobre ciudades verdes!
 
 ## Resumen
 Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Divídanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.

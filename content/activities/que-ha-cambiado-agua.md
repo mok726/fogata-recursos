@@ -113,7 +113,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Escuchá activa
+  - Escucha activa
   - Pensamiento crítico
   - Conciencia histórica
 activity_type:

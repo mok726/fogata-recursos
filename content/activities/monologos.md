@@ -102,7 +102,7 @@ competencies:
   - Trabajo en equipo
 
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Investigación
 

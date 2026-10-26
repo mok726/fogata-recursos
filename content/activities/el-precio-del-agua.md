@@ -104,7 +104,7 @@ competencies:
   - Conciencia económica
 
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Sensibilización
 

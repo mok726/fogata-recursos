@@ -107,7 +107,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
 
 category:
   - Agua

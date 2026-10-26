@@ -104,7 +104,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Investigación
 
 category:

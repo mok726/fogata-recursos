@@ -120,7 +120,7 @@ competencies:
   - Habilidades de debate y negociación
   - Participación ciudadana
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Simulación
   - Aprender haciendo
 category:

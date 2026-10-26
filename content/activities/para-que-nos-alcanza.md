@@ -117,7 +117,7 @@ competencies:
 activity_type:
   - Reflexión
   - Simulación
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - Pobreza
   - Alimentación

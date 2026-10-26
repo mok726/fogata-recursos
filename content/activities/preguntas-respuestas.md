@@ -103,7 +103,7 @@ competencies:
   - Pensamiento crítico
 
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Investigación
   - Aprender haciendo
 

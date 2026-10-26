@@ -121,7 +121,7 @@ competencies:
 activity_type:
   - Reflexión
   - Escritura
-  - Debatí / Diálogo
+  - Debate / Diálogo
 
 category:
   - Conexión personal

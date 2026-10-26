@@ -120,7 +120,7 @@ competencies:
   - Comunicación
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Servicio a los demás
 category:
   - Alimentación

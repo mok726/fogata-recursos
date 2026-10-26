@@ -120,7 +120,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Sensibilización
 
 category:

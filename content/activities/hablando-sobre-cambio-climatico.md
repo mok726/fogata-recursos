@@ -117,7 +117,7 @@ competencies:
   - Investigación
   - Comunicación
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Investigación
   - Reflexión
 category:

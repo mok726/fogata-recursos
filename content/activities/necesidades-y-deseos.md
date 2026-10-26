@@ -116,7 +116,7 @@ competencies:
   - Toma de decisiones
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Juego
 category:
   - Derechos humanos

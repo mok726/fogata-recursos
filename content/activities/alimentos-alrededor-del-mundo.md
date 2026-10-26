@@ -38,7 +38,7 @@ materials:
   - Ingredientes para cocinar
   - Acceso a internet (opcional)
 tools:
-  - Cociná o espacio para cocinar
+  - Cocina o espacio para cocinar
 responsible:
   - Docente o Scouter
 prep_time: "30 min"

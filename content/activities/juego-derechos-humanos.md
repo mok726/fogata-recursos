@@ -118,7 +118,7 @@ competencies:
   - Conciencia de derechos
   - Debate
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Juego
 category:

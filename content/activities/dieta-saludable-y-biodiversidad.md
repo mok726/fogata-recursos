@@ -119,7 +119,7 @@ competencies:
   - Reflexión
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Aprender haciendo
 category:
   - Nutrición

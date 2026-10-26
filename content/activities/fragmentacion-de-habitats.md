@@ -119,7 +119,7 @@ competencies:
   - Pensamiento crítico
   - Empatía
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Simulación
   - Reflexión
 category:

@@ -35,7 +35,7 @@ materials:
   - Cuchara larga
   - 3 vasos del mismo tamaño
   - Agua tibia
-  - Salí de mesa
+  - Sal de mesa
   - Colorante alimenticio azul y rojo
   - 2 botellas de soda idénticas (cuello regular, no ancho)
   - Lápiz sin punta

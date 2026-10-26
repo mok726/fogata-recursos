@@ -126,7 +126,7 @@ competencies:
 activity_type:
   - Reflexión
   - Creatividad / Arte
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - ODS
   - Polinizadores

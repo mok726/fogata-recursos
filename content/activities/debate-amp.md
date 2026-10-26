@@ -1,5 +1,5 @@
 ---
-title: "Debatí AMP"
+title: "Debate AMP"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-amp/"
@@ -109,7 +109,7 @@ competencies:
   - Negociación
 
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Sensibilización
 
@@ -151,7 +151,7 @@ rama_rovers:
   - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
 ---
 
-# ¡Debatí AMP!
+# ¡Debate AMP!
 
 ## Resumen
 Debatí sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles y perspectivas.

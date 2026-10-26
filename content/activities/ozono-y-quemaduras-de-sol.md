@@ -32,7 +32,7 @@ age_group:
 materials: []
 tools:
   - Acceso a biblioteca/internet
-  - Consultá con especialistas en salud (opcional)
+  - Consulta con especialistas en salud (opcional)
 responsible:
   - Docente o Scouter
 prep_time: "15 min"

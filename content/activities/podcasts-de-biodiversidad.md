@@ -118,7 +118,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Escuchá activa
+  - Escucha activa
   - Investigación
   - Reflexión
 activity_type:
@@ -130,7 +130,7 @@ category:
   - Especies
   - Biodiversidad
 skills:
-  - Escuchá activa
+  - Escucha activa
   - Reflexión
   - Pensamiento crítico
 

@@ -118,7 +118,7 @@ competencies:
   - Autoconciencia
   - Pensamiento crítico
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Sensibilización
 category:

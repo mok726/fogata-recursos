@@ -117,7 +117,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - Cambio climático
   - Sequías

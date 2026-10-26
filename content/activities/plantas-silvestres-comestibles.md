@@ -130,7 +130,7 @@ category:
   - Biodiversidad
 skills:
   - Observación
-  - Escuchá activa
+  - Escucha activa
   - Respeto cultural
 
 # ========== VALORES SCOUT ==========

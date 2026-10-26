@@ -115,7 +115,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
   - Observación
-  - Escuchá activa
+  - Escucha activa
   - Identificación de rastros
 
 activity_type:
@@ -130,7 +130,7 @@ category:
 
 skills:
   - Observación
-  - Escuchá
+  - Escucha
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========

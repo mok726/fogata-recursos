@@ -124,7 +124,7 @@ activity_type:
   - Aprender haciendo
 category:
   - Energía
-  - Visitá educativa
+  - Visita educativa
   - Periodismo
 skills:
   - Observación

@@ -127,7 +127,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Juego
 
 category:

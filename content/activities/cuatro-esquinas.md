@@ -112,7 +112,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 competencies:
   - Pensamiento crítico
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Juego
   - Reflexión
 category:

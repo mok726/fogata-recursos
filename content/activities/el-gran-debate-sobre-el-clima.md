@@ -116,7 +116,7 @@ competencies:
   - Argumentación
   - Comunicación
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Investigación
 category:

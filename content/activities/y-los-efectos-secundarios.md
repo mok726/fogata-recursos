@@ -128,7 +128,7 @@ category:
   - Comunidad
 skills:
   - Comunicación
-  - Escuchá activa
+  - Escucha activa
   - Análisis
 
 # ========== VALORES SCOUT ==========

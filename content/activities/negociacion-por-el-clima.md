@@ -119,7 +119,7 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Simulación
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Aprender haciendo
 category:
   - Diplomacia

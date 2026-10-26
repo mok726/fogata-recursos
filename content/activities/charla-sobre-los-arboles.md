@@ -118,7 +118,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Aprender haciendo
 
 category:

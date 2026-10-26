@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debatí comunitario sobre energía"
+title: "Debate comunitario sobre energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-comunitario/"
@@ -116,7 +116,7 @@ competencies:
   - Pensamiento sistémico
   - Ciudadanía activa
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Simulación
   - Planificación
 category:
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Debatí comunitario sobre energía!
+# ¡Debate comunitario sobre energía!
 
 ## Resumen
 Para reducir nuestra huella de carbono global, diferentes personas en la comunidad deben trabajar juntas. Representá diferentes grupos y buscá una solución a un problema energético local.

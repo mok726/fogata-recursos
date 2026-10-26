@@ -122,7 +122,7 @@ competencies:
   - Comunicación
   - Conciencia social
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
   - Dinámica de grupos
 category:

@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Visitá a un arroyo o río con zona ribereña (si es posible)
+  - Visita a un arroyo o río con zona ribereña (si es posible)
   - 4 conos de tráfico naranjas
   - 1 bandera marrón por participante
   - Cartulinas

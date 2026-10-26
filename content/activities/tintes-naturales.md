@@ -39,7 +39,7 @@ materials:
   - Agua
   - Tela blanca o remera
   - Olla (para cocinar)
-  - Salí o vinagre (fijador)
+  - Sal o vinagre (fijador)
 tools:
   - Cuchillo
   - Tabla de cortar

@@ -129,7 +129,7 @@ activity_type:
   - Investigación
 
 category:
-  - Salí
+  - Sal
   - Evaporación
   - Experimentos
 

@@ -35,7 +35,7 @@ materials:
   - Ingredientes para cocinar
   - Utensilios de cocina
 tools:
-  - Cociná solar u horno solar (construido en actividad C.02)
+  - Cocina solar u horno solar (construido en actividad C.02)
 responsible:
   - Docente o Scouter
 prep_time: "1 hora"

@@ -123,7 +123,7 @@ activity_type:
   - Sensibilización
 
 category:
-  - Guiá alimentaria
+  - Guía alimentaria
   - Educación
   - Nutrición
 

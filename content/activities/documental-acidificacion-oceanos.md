@@ -120,7 +120,7 @@ competencies:
   - Análisis de impacto
 activity_type:
   - Reflexión
-  - Debatí / Diálogo
+  - Debate / Diálogo
 category:
   - Acidificación
   - Océanos

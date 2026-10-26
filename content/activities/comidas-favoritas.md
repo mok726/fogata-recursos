@@ -125,7 +125,7 @@ activity_type:
 category:
   - Comidas
   - Nutrición
-  - Mejorá
+  - Mejora
 
 skills:
   - Pensamiento crítico

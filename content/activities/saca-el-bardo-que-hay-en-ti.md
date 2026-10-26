@@ -1,5 +1,5 @@
 ---
-title: "Sacá el Bardo que Hay en Ti"
+title: "Sacá el Bardo que Hay en Vos"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/saca-el-bardo-que-hay-en-ti/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Sacá el Bardo que Hay en Ti!
+# ¡Sacá el Bardo que Hay en Vos!
 
 ## Resumen
 Creá una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostrando sus desafíos y soluciones.

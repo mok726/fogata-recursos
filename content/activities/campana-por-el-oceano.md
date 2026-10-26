@@ -107,7 +107,7 @@ competencies:
 activity_type:
   - Servicio a los demás
   - Sensibilización
-  - Debatí / Diálogo
+  - Debate / Diálogo
 
 category:
   - Activismo

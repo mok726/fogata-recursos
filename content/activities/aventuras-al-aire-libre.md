@@ -5,7 +5,7 @@ duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-al-aire-libre/"
 description: "Investigá actividades recreativas en el bosque. Elegí tres actividades y creá una guía ilustrada. Llevá a cabo al menos una."
-summary: "Guiá ilustrada de actividades recreativas forestales."
+summary: "Guía ilustrada de actividades recreativas forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

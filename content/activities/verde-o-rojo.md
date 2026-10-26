@@ -117,7 +117,7 @@ competencies:
   - Autoconciencia
   - Pensamiento sistémico
 activity_type:
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Juego
   - Reflexión
 category:

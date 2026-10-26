@@ -35,7 +35,7 @@ materials:
   - Vasos de precipitado de plástico grandes o contenedores (de al menos 1 litro de tamaño)
   - Jarras medidoras
   - Básculas
-  - Salí
+  - Sal
   - Colorante de alimentos
   - Agua de la llave
   - Agua marina (si es posible)

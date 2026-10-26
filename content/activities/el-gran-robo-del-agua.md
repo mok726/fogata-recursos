@@ -39,7 +39,7 @@ materials:
   - Balde o recipiente grande y limpio
   - Taza medidora (dos tazas)
   - 8 tazones o recipientes pequeños
-  - Salí
+  - Sal
   - Pimienta
   - Perejil
 tools: []
@@ -124,7 +124,7 @@ competencies:
   - Conciencia social
 activity_type:
   - Simulación
-  - Debatí / Diálogo
+  - Debate / Diálogo
   - Reflexión
 category:
   - Derechos de agua

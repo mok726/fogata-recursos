@@ -33,7 +33,7 @@ materials:
   - Lápices
   - Ingredientes para cocinar (opcional)
 tools:
-  - Cociná (opcional)
+  - Cocina (opcional)
 responsible:
   - Docente o Scouter
 prep_time: "15 min"

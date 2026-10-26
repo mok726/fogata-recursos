@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Guiá Rápida de Cocina Fácil"
+title: "Guía Rápida de Cocina Fácil"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/guia-rapida-de-cocina-facil/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral.
 ---
 
-# Guiá Rápida de Cocina Fácil
+# Guía Rápida de Cocina Fácil
 
 ## Resumen
 Investigá métodos y tiempos de cocción para diferentes alimentos nutritivos y creá una tabla guía.

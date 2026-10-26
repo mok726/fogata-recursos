@@ -118,7 +118,7 @@ competencies:
 activity_type:
   - Investigación
   - Sensibilización
-  - Debatí / Diálogo
+  - Debate / Diálogo
 
 category:
   - Etiquetas

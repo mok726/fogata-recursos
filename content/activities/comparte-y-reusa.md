@@ -1,9 +1,9 @@
 ---
-title: "Compartí y reusa"
+title: "Compartí y reusá"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparte-y-reusa/"
-description: "Compartí y reusa tus pertenencias cuando ya no las necesites."
+description: "Compartí y reusá tus pertenencias cuando ya no las necesites."
 summary: "Compartir y reusar pertenencias."
 
 author:
@@ -138,10 +138,10 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Compartí y reusa!
+# ¡Compartí y reusá!
 
 ## Resumen
-Compartí y reusa tus pertenencias cuando ya no las necesites.
+Compartí y reusá tus pertenencias cuando ya no las necesites.
 
 ## Preparación
 - Revisá tus pertenencias.

@@ -119,7 +119,7 @@ competencies:
 activity_type:
   - Investigación
   - Arte
-  - Debatí / Diálogo
+  - Debate / Diálogo
 
 category:
   - Movimientos sociales

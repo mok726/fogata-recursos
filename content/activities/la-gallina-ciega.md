@@ -100,7 +100,7 @@ accessibility: []
 competencies:
   - Conocimiento corporal
   - Creatividad
-  - Escuchá
+  - Escucha
 
 activity_type:
   - Juego
