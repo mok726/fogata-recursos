@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/carteles-para-la-playa.png"
+image: "/imagenes/actividades/carteles-para-la-playa.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

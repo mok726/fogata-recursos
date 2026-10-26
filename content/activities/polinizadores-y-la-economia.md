@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/polinizadores-y-la-economia.png"
+image: "/imagenes/actividades/polinizadores-y-la-economia.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

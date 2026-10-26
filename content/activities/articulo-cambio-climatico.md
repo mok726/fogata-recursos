@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/articulo-cambio-climatico.png"
+image: "/imagenes/actividades/articulo-cambio-climatico.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

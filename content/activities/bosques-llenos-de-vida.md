@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bosques-llenos-de-vida.png"
+image: "/imagenes/actividades/bosques-llenos-de-vida.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/un-acto-de-balance.png"
+image: "/imagenes/actividades/un-acto-de-balance.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

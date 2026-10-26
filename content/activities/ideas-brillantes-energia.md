@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ideas-brillantes-energia.png"
+image: "/imagenes/actividades/ideas-brillantes-energia.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

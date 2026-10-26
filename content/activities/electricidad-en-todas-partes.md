@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/electricidad-en-todas-partes.png"
+image: "/imagenes/actividades/electricidad-en-todas-partes.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

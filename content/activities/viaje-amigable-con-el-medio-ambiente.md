@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/viaje-amigable-con-el-medio-ambiente.png"
+image: "/imagenes/actividades/viaje-amigable-con-el-medio-ambiente.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"

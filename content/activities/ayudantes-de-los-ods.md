@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ayudantes-de-los-ods.png"
+image: "/imagenes/actividades/ayudantes-de-los-ods.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

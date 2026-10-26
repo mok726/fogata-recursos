@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/no-desperdiciar-no-querer.png"
+image: "/imagenes/actividades/no-desperdiciar-no-querer.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

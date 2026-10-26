@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/nuestro-agua-tambien-enfermarse.png"
+image: "/imagenes/actividades/nuestro-agua-tambien-enfermarse.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

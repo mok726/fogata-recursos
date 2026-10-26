@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-seguridad-alimentaria-en-accion.png"
+image: "/imagenes/actividades/la-seguridad-alimentaria-en-accion.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

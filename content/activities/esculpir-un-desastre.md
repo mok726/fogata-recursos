@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/esculpir-un-desastre.png"
+image: "/imagenes/actividades/esculpir-un-desastre.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

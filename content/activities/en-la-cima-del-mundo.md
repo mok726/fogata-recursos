@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/en-la-cima-del-mundo.png"
+image: "/imagenes/actividades/en-la-cima-del-mundo.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bioblitz-exploracion.png"
+image: "/imagenes/actividades/bioblitz-exploracion.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"

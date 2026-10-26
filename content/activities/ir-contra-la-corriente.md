@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ir-contra-la-corriente.png"
+image: "/imagenes/actividades/ir-contra-la-corriente.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

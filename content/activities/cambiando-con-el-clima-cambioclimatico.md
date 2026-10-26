@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cambiando-con-el-clima-cambioclimatico.png"
+image: "/imagenes/actividades/cambiando-con-el-clima-cambioclimatico.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/sin-agua-corriente-casa.png"
+image: "/imagenes/actividades/sin-agua-corriente-casa.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

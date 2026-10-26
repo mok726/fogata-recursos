@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-a-donde-va-el-agua.png"
+image: "/imagenes/actividades/juego-a-donde-va-el-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

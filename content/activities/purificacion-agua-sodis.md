@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/purificacion-agua-sodis.png"
+image: "/imagenes/actividades/purificacion-agua-sodis.jpg"
 original: false
 Origin: "Desafío Scouts Go Solar - Scouts de Argentina"
 version: "0.99"

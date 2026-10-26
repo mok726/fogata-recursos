@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/experimento-energia-quimica.png"
+image: "/imagenes/actividades/experimento-energia-quimica.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

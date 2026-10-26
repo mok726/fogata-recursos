@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/guion-grafico-sobre-la-trampa-del-hambre.png"
+image: "/imagenes/actividades/guion-grafico-sobre-la-trampa-del-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"

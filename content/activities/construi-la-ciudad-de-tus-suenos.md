@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/construi-la-ciudad-de-tus-suenos.png"
+image: "/imagenes/actividades/construi-la-ciudad-de-tus-suenos.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"

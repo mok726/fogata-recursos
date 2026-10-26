@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/disena-tu-propia-iniciativa-de-eds.png"
+image: "/imagenes/actividades/disena-tu-propia-iniciativa-de-eds.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"

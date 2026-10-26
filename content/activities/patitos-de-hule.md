@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/patitos-de-hule.png"
+image: "/imagenes/actividades/patitos-de-hule.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

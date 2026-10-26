@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/ciencia-ciudadana.png"
+image: "/imagenes/actividades/ciencia-ciudadana.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

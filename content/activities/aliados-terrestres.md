@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/aliados-terrestres.png"
+image: "/imagenes/actividades/aliados-terrestres.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

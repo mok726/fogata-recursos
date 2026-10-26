@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/al-blog.png"
+image: "/imagenes/actividades/al-blog.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

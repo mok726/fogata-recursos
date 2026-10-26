@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-encuesta-de-los-habitos-alimenticios.png"
+image: "/imagenes/actividades/la-encuesta-de-los-habitos-alimenticios.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

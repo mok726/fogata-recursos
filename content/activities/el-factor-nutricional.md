@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-factor-nutricional.png"
+image: "/imagenes/actividades/el-factor-nutricional.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

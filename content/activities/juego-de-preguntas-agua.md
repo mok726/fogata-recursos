@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-de-preguntas-agua.png"
+image: "/imagenes/actividades/juego-de-preguntas-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

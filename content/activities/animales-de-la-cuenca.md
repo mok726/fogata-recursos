@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/animales-de-la-cuenca.png"
+image: "/imagenes/actividades/animales-de-la-cuenca.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

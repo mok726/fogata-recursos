@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cocina-solar.png"
+image: "/imagenes/actividades/cocina-solar.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

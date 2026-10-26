@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/acuifero-comestible.png"
+image: "/imagenes/actividades/acuifero-comestible.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-macetas-y-germinadoras.png"
+image: "/imagenes/actividades/taller-macetas-y-germinadoras.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/escribamos-por-saneamiento.png"
+image: "/imagenes/actividades/escribamos-por-saneamiento.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

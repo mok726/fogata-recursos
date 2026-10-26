@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/acampada-bajo-impacto.png"
+image: "/imagenes/actividades/acampada-bajo-impacto.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

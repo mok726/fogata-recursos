@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-debate-de-la-dieta.png"
+image: "/imagenes/actividades/el-debate-de-la-dieta.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

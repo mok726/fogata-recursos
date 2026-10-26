@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/experimentos-con-agua-marina.png"
+image: "/imagenes/actividades/experimentos-con-agua-marina.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

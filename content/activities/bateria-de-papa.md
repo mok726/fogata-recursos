@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bateria-de-papa.png"
+image: "/imagenes/actividades/bateria-de-papa.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

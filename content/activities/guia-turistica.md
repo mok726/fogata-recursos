@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/guia-turistica.png"
+image: "/imagenes/actividades/guia-turistica.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

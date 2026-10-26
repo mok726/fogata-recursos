@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/estudios-salados.png"
+image: "/imagenes/actividades/estudios-salados.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

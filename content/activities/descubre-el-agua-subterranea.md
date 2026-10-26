@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/descubre-el-agua-subterranea.png"
+image: "/imagenes/actividades/descubre-el-agua-subterranea.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/observando-el-tiempo.png"
+image: "/imagenes/actividades/observando-el-tiempo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

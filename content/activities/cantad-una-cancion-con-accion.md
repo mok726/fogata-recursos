@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cantad-una-cancion-con-accion.png"
+image: "/imagenes/actividades/cantad-una-cancion-con-accion.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

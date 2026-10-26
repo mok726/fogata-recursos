@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-seguridad-es-primero.png"
+image: "/imagenes/actividades/la-seguridad-es-primero.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

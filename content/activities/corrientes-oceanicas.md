@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/corrientes-oceanicas.png"
+image: "/imagenes/actividades/corrientes-oceanicas.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

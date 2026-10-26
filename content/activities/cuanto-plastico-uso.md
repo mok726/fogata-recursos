@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuanto-plastico-uso.png"
+image: "/imagenes/actividades/cuanto-plastico-uso.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/quien-se-come-a-quien-oceano.png"
+image: "/imagenes/actividades/quien-se-come-a-quien-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

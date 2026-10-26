@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/gafas-de-alimentos.png"
+image: "/imagenes/actividades/gafas-de-alimentos.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/campana-por-el-oceano.png"
+image: "/imagenes/actividades/campana-por-el-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

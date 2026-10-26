@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-belleza-esta-en-el-ojo-del-que-mira.png"
+image: "/imagenes/actividades/la-belleza-esta-en-el-ojo-del-que-mira.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"

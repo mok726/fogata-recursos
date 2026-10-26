@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/debate-amp.png"
+image: "/imagenes/actividades/debate-amp.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

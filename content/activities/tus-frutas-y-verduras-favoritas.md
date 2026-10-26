@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tus-frutas-y-verduras-favoritas.png"
+image: "/imagenes/actividades/tus-frutas-y-verduras-favoritas.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

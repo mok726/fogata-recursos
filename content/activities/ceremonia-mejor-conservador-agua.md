@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ceremonia-mejor-conservador-agua.png"
+image: "/imagenes/actividades/ceremonia-mejor-conservador-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

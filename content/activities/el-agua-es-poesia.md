@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-agua-es-poesia.png"
+image: "/imagenes/actividades/el-agua-es-poesia.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

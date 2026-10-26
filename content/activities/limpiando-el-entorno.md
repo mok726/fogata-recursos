@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/limpiando-el-entorno.png"
+image: "/imagenes/actividades/limpiando-el-entorno.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/censo-de-vida-marina.png"
+image: "/imagenes/actividades/censo-de-vida-marina.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alzar-el-vuelo.png"
+image: "/imagenes/actividades/alzar-el-vuelo.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

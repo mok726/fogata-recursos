@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/detectives-de-infracciones-contra-el-marketing.png"
+image: "/imagenes/actividades/detectives-de-infracciones-contra-el-marketing.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

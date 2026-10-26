@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/se-voluntario-en-una-organizacion-comunitaria.png"
+image: "/imagenes/actividades/se-voluntario-en-una-organizacion-comunitaria.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

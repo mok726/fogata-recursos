@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/es-dificil-pasarse-del-h2o.png"
+image: "/imagenes/actividades/es-dificil-pasarse-del-h2o.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

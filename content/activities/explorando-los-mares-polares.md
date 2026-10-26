@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/explorando-los-mares-polares.png"
+image: "/imagenes/actividades/explorando-los-mares-polares.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

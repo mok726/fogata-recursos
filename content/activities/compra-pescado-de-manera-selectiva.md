@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/compra-pescado-de-manera-selectiva.png"
+image: "/imagenes/actividades/compra-pescado-de-manera-selectiva.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

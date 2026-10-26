@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/vegetacion-proteccion-agua.png"
+image: "/imagenes/actividades/vegetacion-proteccion-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

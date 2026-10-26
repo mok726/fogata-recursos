@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-verdad-sobre-los-germenes.png"
+image: "/imagenes/actividades/la-verdad-sobre-los-germenes.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

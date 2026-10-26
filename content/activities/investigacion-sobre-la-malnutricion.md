@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigacion-sobre-la-malnutricion.png"
+image: "/imagenes/actividades/investigacion-sobre-la-malnutricion.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

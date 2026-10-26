@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/simulando-limpieza-petroleo.png"
+image: "/imagenes/actividades/simulando-limpieza-petroleo.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

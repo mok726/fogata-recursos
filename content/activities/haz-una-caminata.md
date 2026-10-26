@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-una-caminata.png"
+image: "/imagenes/actividades/haz-una-caminata.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

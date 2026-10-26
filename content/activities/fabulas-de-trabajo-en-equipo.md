@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/fabulas-de-trabajo-en-equipo.png"
+image: "/imagenes/actividades/fabulas-de-trabajo-en-equipo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

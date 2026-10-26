@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/agua-desarrollo-derechos-humanos.png"
+image: "/imagenes/actividades/agua-desarrollo-derechos-humanos.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

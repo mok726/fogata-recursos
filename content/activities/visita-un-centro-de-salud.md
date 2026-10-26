@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-un-centro-de-salud.png"
+image: "/imagenes/actividades/visita-un-centro-de-salud.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

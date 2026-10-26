@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-huerta-de-botella.png"
+image: "/imagenes/actividades/taller-huerta-de-botella.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

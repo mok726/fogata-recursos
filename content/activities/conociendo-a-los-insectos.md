@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/conociendo-a-los-insectos.png"
+image: "/imagenes/actividades/conociendo-a-los-insectos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

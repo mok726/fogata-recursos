@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-una-planta-de-procesado-de-alimentos.png"
+image: "/imagenes/actividades/visita-una-planta-de-procesado-de-alimentos.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/geiseres-y-aguas-termales.png"
+image: "/imagenes/actividades/geiseres-y-aguas-termales.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

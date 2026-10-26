@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/compania-de-transporte-maritimo.png"
+image: "/imagenes/actividades/compania-de-transporte-maritimo.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

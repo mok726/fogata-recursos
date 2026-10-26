@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/medios-de-comunicacion-marinos.png"
+image: "/imagenes/actividades/medios-de-comunicacion-marinos.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

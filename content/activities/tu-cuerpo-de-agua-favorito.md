@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tu-cuerpo-de-agua-favorito.png"
+image: "/imagenes/actividades/tu-cuerpo-de-agua-favorito.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

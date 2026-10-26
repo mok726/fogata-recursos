@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuanto-se-de-ecologia.png"
+image: "/imagenes/actividades/cuanto-se-de-ecologia.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

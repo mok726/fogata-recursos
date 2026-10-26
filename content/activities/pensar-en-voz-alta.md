@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pensar-en-voz-alta.png"
+image: "/imagenes/actividades/pensar-en-voz-alta.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-abono-con-la-basura-organica.png"
+image: "/imagenes/actividades/haz-abono-con-la-basura-organica.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

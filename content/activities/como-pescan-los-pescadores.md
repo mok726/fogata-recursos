@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/como-pescan-los-pescadores.png"
+image: "/imagenes/actividades/como-pescan-los-pescadores.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/campana-por-una-dieta-sana-y-equilibrada.png"
+image: "/imagenes/actividades/campana-por-una-dieta-sana-y-equilibrada.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

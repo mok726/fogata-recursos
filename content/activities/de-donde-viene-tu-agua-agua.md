@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/de-donde-viene-tu-agua-agua.png"
+image: "/imagenes/actividades/de-donde-viene-tu-agua-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

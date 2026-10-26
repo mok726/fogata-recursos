@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-basura-en-su-lugar.png"
+image: "/imagenes/actividades/la-basura-en-su-lugar.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

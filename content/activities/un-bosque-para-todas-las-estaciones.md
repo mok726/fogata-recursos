@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.png"
+image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

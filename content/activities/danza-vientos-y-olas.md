@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/danza-vientos-y-olas.png"
+image: "/imagenes/actividades/danza-vientos-y-olas.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

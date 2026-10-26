@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/voluntario-por-el-oceano.png"
+image: "/imagenes/actividades/voluntario-por-el-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

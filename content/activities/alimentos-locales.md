@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-locales.png"
+image: "/imagenes/actividades/alimentos-locales.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

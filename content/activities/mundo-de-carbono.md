@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mundo-de-carbono.png"
+image: "/imagenes/actividades/mundo-de-carbono.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

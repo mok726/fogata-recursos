@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-una-conserva.png"
+image: "/imagenes/actividades/haz-una-conserva.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

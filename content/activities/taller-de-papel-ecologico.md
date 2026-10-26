@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-papel-ecologico.png"
+image: "/imagenes/actividades/taller-de-papel-ecologico.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/adivina-el-ods.png"
+image: "/imagenes/actividades/adivina-el-ods.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

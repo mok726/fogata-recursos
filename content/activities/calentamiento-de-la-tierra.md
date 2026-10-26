@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/calentamiento-de-la-tierra.png"
+image: "/imagenes/actividades/calentamiento-de-la-tierra.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

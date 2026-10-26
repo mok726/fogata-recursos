@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/expedicion-cambio-climatico.png"
+image: "/imagenes/actividades/expedicion-cambio-climatico.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

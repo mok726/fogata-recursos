@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/temperaturas-en-alza-mares-en-alza.png"
+image: "/imagenes/actividades/temperaturas-en-alza-mares-en-alza.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/jardineria-verde-suelos.png"
+image: "/imagenes/actividades/jardineria-verde-suelos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

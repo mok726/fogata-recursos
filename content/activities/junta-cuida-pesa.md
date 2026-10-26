@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/junta-cuida-pesa.png"
+image: "/imagenes/actividades/junta-cuida-pesa.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

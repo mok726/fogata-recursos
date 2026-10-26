@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/transmision-sobre-tsunamis.png"
+image: "/imagenes/actividades/transmision-sobre-tsunamis.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

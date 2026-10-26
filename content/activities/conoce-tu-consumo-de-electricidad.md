@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/conoce-tu-consumo-de-electricidad.png"
+image: "/imagenes/actividades/conoce-tu-consumo-de-electricidad.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

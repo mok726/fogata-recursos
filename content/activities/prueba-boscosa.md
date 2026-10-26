@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/prueba-boscosa.png"
+image: "/imagenes/actividades/prueba-boscosa.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

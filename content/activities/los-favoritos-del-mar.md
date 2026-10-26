@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-favoritos-del-mar.png"
+image: "/imagenes/actividades/los-favoritos-del-mar.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

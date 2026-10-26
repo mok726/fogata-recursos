@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/siendo-buenos-para-el-bien-global.png"
+image: "/imagenes/actividades/siendo-buenos-para-el-bien-global.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

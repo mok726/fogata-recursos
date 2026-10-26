@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-del-globo.png"
+image: "/imagenes/actividades/juego-del-globo.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

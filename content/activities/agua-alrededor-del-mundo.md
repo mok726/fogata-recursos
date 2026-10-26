@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/agua-alrededor-del-mundo.png"
+image: "/imagenes/actividades/agua-alrededor-del-mundo.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

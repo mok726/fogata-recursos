@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-juerga-de-las-compras.png"
+image: "/imagenes/actividades/la-juerga-de-las-compras.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

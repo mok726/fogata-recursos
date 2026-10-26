@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/daninos-pero-por-que.png"
+image: "/imagenes/actividades/daninos-pero-por-que.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/alimentos-sedientos.png"
+image: "/imagenes/actividades/alimentos-sedientos.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

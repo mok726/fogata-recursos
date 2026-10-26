@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/no-madereros-y-no-son-buenos.png"
+image: "/imagenes/actividades/no-madereros-y-no-son-buenos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

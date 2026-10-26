@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-mapa-de-la-costa.png"
+image: "/imagenes/actividades/un-mapa-de-la-costa.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

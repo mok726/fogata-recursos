@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/hablar-sobre-tabus.png"
+image: "/imagenes/actividades/hablar-sobre-tabus.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

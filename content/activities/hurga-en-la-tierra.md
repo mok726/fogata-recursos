@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/hurga-en-la-tierra.png"
+image: "/imagenes/actividades/hurga-en-la-tierra.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

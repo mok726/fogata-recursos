@@ -260,7 +260,7 @@
 
 ### a-desempolvar-los-libros-viejos.png
 
-![a-desempolvar-los-libros-viejos.png](/fogata-recursos/imagenes/actividades/a-desempolvar-los-libros-viejos.png)
+![a-desempolvar-los-libros-viejos.png](/fogata-recursos/imagenes/actividades/a-desempolvar-los-libros-viejos.jpg)
 
 **Información:**
 - Archivo: 
@@ -271,7 +271,7 @@
 
 ### a-donde-va-el-agua.png
 
-![a-donde-va-el-agua.png](/fogata-recursos/imagenes/actividades/a-donde-va-el-agua.png)
+![a-donde-va-el-agua.png](/fogata-recursos/imagenes/actividades/a-donde-va-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -282,7 +282,7 @@
 
 ### a-todos-nos-gusta-el-agua.png
 
-![a-todos-nos-gusta-el-agua.png](/fogata-recursos/imagenes/actividades/a-todos-nos-gusta-el-agua.png)
+![a-todos-nos-gusta-el-agua.png](/fogata-recursos/imagenes/actividades/a-todos-nos-gusta-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -304,7 +304,7 @@
 
 ### acuerdos-internacionales.png
 
-![acuerdos-internacionales.png](/fogata-recursos/imagenes/actividades/acuerdos-internacionales.png)
+![acuerdos-internacionales.png](/fogata-recursos/imagenes/actividades/acuerdos-internacionales.jpg)
 
 **Información:**
 - Archivo: 
@@ -315,7 +315,7 @@
 
 ### adaptaciones-acuaticas.png
 
-![adaptaciones-acuaticas.png](/fogata-recursos/imagenes/actividades/adaptaciones-acuaticas.png)
+![adaptaciones-acuaticas.png](/fogata-recursos/imagenes/actividades/adaptaciones-acuaticas.jpg)
 
 **Información:**
 - Archivo: 
@@ -326,7 +326,7 @@
 
 ### adivina-el-ods.png
 
-![adivina-el-ods.png](/fogata-recursos/imagenes/actividades/adivina-el-ods.png)
+![adivina-el-ods.png](/fogata-recursos/imagenes/actividades/adivina-el-ods.jpg)
 
 **Información:**
 - Archivo: 
@@ -337,7 +337,7 @@
 
 ### adivinanzas-sobre-el-clima.png
 
-![adivinanzas-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/adivinanzas-sobre-el-clima.png)
+![adivinanzas-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/adivinanzas-sobre-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -348,7 +348,7 @@
 
 ### adopcion-de-area-natural.png
 
-![adopcion-de-area-natural.png](/fogata-recursos/imagenes/actividades/adopcion-de-area-natural.png)
+![adopcion-de-area-natural.png](/fogata-recursos/imagenes/actividades/adopcion-de-area-natural.jpg)
 
 **Información:**
 - Archivo: 
@@ -359,7 +359,7 @@
 
 ### adoptar-un-rio-o-lago.png
 
-![adoptar-un-rio-o-lago.png](/fogata-recursos/imagenes/actividades/adoptar-un-rio-o-lago.png)
+![adoptar-un-rio-o-lago.png](/fogata-recursos/imagenes/actividades/adoptar-un-rio-o-lago.jpg)
 
 **Información:**
 - Archivo: 
@@ -370,7 +370,7 @@
 
 ### agricultores-del-bosque.png
 
-![agricultores-del-bosque.png](/fogata-recursos/imagenes/actividades/agricultores-del-bosque.png)
+![agricultores-del-bosque.png](/fogata-recursos/imagenes/actividades/agricultores-del-bosque.jpg)
 
 **Información:**
 - Archivo: 
@@ -381,7 +381,7 @@
 
 ### agua-alrededor-del-mundo.png
 
-![agua-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/agua-alrededor-del-mundo.png)
+![agua-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/agua-alrededor-del-mundo.jpg)
 
 **Información:**
 - Archivo: 
@@ -392,7 +392,7 @@
 
 ### agua-invisible.png
 
-![agua-invisible.png](/fogata-recursos/imagenes/actividades/agua-invisible.png)
+![agua-invisible.png](/fogata-recursos/imagenes/actividades/agua-invisible.jpg)
 
 **Información:**
 - Archivo: 
@@ -403,7 +403,7 @@
 
 ### agua-pura-metodo-sodis.png
 
-![agua-pura-metodo-sodis.png](/fogata-recursos/imagenes/actividades/agua-pura-metodo-sodis.png)
+![agua-pura-metodo-sodis.png](/fogata-recursos/imagenes/actividades/agua-pura-metodo-sodis.jpg)
 
 **Información:**
 - Archivo: 
@@ -414,7 +414,7 @@
 
 ### agua-sin-fronteras.png
 
-![agua-sin-fronteras.png](/fogata-recursos/imagenes/actividades/agua-sin-fronteras.png)
+![agua-sin-fronteras.png](/fogata-recursos/imagenes/actividades/agua-sin-fronteras.jpg)
 
 **Información:**
 - Archivo: 
@@ -425,7 +425,7 @@
 
 ### aguas-en-literatura.png
 
-![aguas-en-literatura.png](/fogata-recursos/imagenes/actividades/aguas-en-literatura.png)
+![aguas-en-literatura.png](/fogata-recursos/imagenes/actividades/aguas-en-literatura.jpg)
 
 **Información:**
 - Archivo: 
@@ -436,7 +436,7 @@
 
 ### aguas-sucias.png
 
-![aguas-sucias.png](/fogata-recursos/imagenes/actividades/aguas-sucias.png)
+![aguas-sucias.png](/fogata-recursos/imagenes/actividades/aguas-sucias.jpg)
 
 **Información:**
 - Archivo: 
@@ -447,7 +447,7 @@
 
 ### ahorrar-agua-caliente-y-energia.png
 
-![ahorrar-agua-caliente-y-energia.png](/fogata-recursos/imagenes/actividades/ahorrar-agua-caliente-y-energia.png)
+![ahorrar-agua-caliente-y-energia.png](/fogata-recursos/imagenes/actividades/ahorrar-agua-caliente-y-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -458,7 +458,7 @@
 
 ### al-blog.png
 
-![al-blog.png](/fogata-recursos/imagenes/actividades/al-blog.png)
+![al-blog.png](/fogata-recursos/imagenes/actividades/al-blog.jpg)
 
 **Información:**
 - Archivo: 
@@ -469,7 +469,7 @@
 
 ### aliados-terrestres.png
 
-![aliados-terrestres.png](/fogata-recursos/imagenes/actividades/aliados-terrestres.png)
+![aliados-terrestres.png](/fogata-recursos/imagenes/actividades/aliados-terrestres.jpg)
 
 **Información:**
 - Archivo: 
@@ -480,7 +480,7 @@
 
 ### alimentador-de-aves-reciclado.png
 
-![alimentador-de-aves-reciclado.png](/fogata-recursos/imagenes/actividades/alimentador-de-aves-reciclado.png)
+![alimentador-de-aves-reciclado.png](/fogata-recursos/imagenes/actividades/alimentador-de-aves-reciclado.jpg)
 
 **Información:**
 - Archivo: 
@@ -491,7 +491,7 @@
 
 ### alimentos-del-bosque.png
 
-![alimentos-del-bosque.png](/fogata-recursos/imagenes/actividades/alimentos-del-bosque.png)
+![alimentos-del-bosque.png](/fogata-recursos/imagenes/actividades/alimentos-del-bosque.jpg)
 
 **Información:**
 - Archivo: 
@@ -502,7 +502,7 @@
 
 ### alimentos-energeticos.png
 
-![alimentos-energeticos.png](/fogata-recursos/imagenes/actividades/alimentos-energeticos.png)
+![alimentos-energeticos.png](/fogata-recursos/imagenes/actividades/alimentos-energeticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -513,7 +513,7 @@
 
 ### alimentos-locales.png
 
-![alimentos-locales.png](/fogata-recursos/imagenes/actividades/alimentos-locales.png)
+![alimentos-locales.png](/fogata-recursos/imagenes/actividades/alimentos-locales.jpg)
 
 **Información:**
 - Archivo: 
@@ -524,7 +524,7 @@
 
 ### alimentos-sedientos.png
 
-![alimentos-sedientos.png](/fogata-recursos/imagenes/actividades/alimentos-sedientos.png)
+![alimentos-sedientos.png](/fogata-recursos/imagenes/actividades/alimentos-sedientos.jpg)
 
 **Información:**
 - Archivo: 
@@ -535,7 +535,7 @@
 
 ### alimentos-vs-combustible.png
 
-![alimentos-vs-combustible.png](/fogata-recursos/imagenes/actividades/alimentos-vs-combustible.png)
+![alimentos-vs-combustible.png](/fogata-recursos/imagenes/actividades/alimentos-vs-combustible.jpg)
 
 **Información:**
 - Archivo: 
@@ -546,7 +546,7 @@
 
 ### almuerzo-libre-de-basura.png
 
-![almuerzo-libre-de-basura.png](/fogata-recursos/imagenes/actividades/almuerzo-libre-de-basura.png)
+![almuerzo-libre-de-basura.png](/fogata-recursos/imagenes/actividades/almuerzo-libre-de-basura.jpg)
 
 **Información:**
 - Archivo: 
@@ -557,7 +557,7 @@
 
 ### amenazas-locales.png
 
-![amenazas-locales.png](/fogata-recursos/imagenes/actividades/amenazas-locales.png)
+![amenazas-locales.png](/fogata-recursos/imagenes/actividades/amenazas-locales.jpg)
 
 **Información:**
 - Archivo: 
@@ -568,7 +568,7 @@
 
 ### amenazas-naturales.png
 
-![amenazas-naturales.png](/fogata-recursos/imagenes/actividades/amenazas-naturales.png)
+![amenazas-naturales.png](/fogata-recursos/imagenes/actividades/amenazas-naturales.jpg)
 
 **Información:**
 - Archivo: 
@@ -579,7 +579,7 @@
 
 ### analisis-de-suelos.png
 
-![analisis-de-suelos.png](/fogata-recursos/imagenes/actividades/analisis-de-suelos.png)
+![analisis-de-suelos.png](/fogata-recursos/imagenes/actividades/analisis-de-suelos.jpg)
 
 **Información:**
 - Archivo: 
@@ -590,7 +590,7 @@
 
 ### anfibios-y-calidad-del-agua.png
 
-![anfibios-y-calidad-del-agua.png](/fogata-recursos/imagenes/actividades/anfibios-y-calidad-del-agua.png)
+![anfibios-y-calidad-del-agua.png](/fogata-recursos/imagenes/actividades/anfibios-y-calidad-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -601,7 +601,7 @@
 
 ### anillos-anuales.png
 
-![anillos-anuales.png](/fogata-recursos/imagenes/actividades/anillos-anuales.png)
+![anillos-anuales.png](/fogata-recursos/imagenes/actividades/anillos-anuales.jpg)
 
 **Información:**
 - Archivo: 
@@ -612,7 +612,7 @@
 
 ### apoya-a-los-apicultores.png
 
-![apoya-a-los-apicultores.png](/fogata-recursos/imagenes/actividades/apoya-a-los-apicultores.png)
+![apoya-a-los-apicultores.png](/fogata-recursos/imagenes/actividades/apoya-a-los-apicultores.jpg)
 
 **Información:**
 - Archivo: 
@@ -623,7 +623,7 @@
 
 ### aprender-a-coser-y-remendar-ropa.png
 
-![aprender-a-coser-y-remendar-ropa.png](/fogata-recursos/imagenes/actividades/aprender-a-coser-y-remendar-ropa.png)
+![aprender-a-coser-y-remendar-ropa.png](/fogata-recursos/imagenes/actividades/aprender-a-coser-y-remendar-ropa.jpg)
 
 **Información:**
 - Archivo: 
@@ -634,7 +634,7 @@
 
 ### aprender-a-hacer-jabon-natural.png
 
-![aprender-a-hacer-jabon-natural.png](/fogata-recursos/imagenes/actividades/aprender-a-hacer-jabon-natural.png)
+![aprender-a-hacer-jabon-natural.png](/fogata-recursos/imagenes/actividades/aprender-a-hacer-jabon-natural.jpg)
 
 **Información:**
 - Archivo: 
@@ -645,7 +645,7 @@
 
 ### aprender-haciendo.png
 
-![aprender-haciendo.png](/fogata-recursos/imagenes/actividades/aprender-haciendo.png)
+![aprender-haciendo.png](/fogata-recursos/imagenes/actividades/aprender-haciendo.jpg)
 
 **Información:**
 - Archivo: 
@@ -656,7 +656,7 @@
 
 ### aprender-jugando.png
 
-![aprender-jugando.png](/fogata-recursos/imagenes/actividades/aprender-jugando.png)
+![aprender-jugando.png](/fogata-recursos/imagenes/actividades/aprender-jugando.jpg)
 
 **Información:**
 - Archivo: 
@@ -667,7 +667,7 @@
 
 ### aprender-sobre-alimentos-de-otro-pais.png
 
-![aprender-sobre-alimentos-de-otro-pais.png](/fogata-recursos/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png)
+![aprender-sobre-alimentos-de-otro-pais.png](/fogata-recursos/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.jpg)
 
 **Información:**
 - Archivo: 
@@ -678,7 +678,7 @@
 
 ### aprendiendo-sobre-la-plantacion-de-arboles.png
 
-![aprendiendo-sobre-la-plantacion-de-arboles.png](/fogata-recursos/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.png)
+![aprendiendo-sobre-la-plantacion-de-arboles.png](/fogata-recursos/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.jpg)
 
 **Información:**
 - Archivo: 
@@ -689,7 +689,7 @@
 
 ### arbol-de-deseos.png
 
-![arbol-de-deseos.png](/fogata-recursos/imagenes/actividades/arbol-de-deseos.png)
+![arbol-de-deseos.png](/fogata-recursos/imagenes/actividades/arbol-de-deseos.jpg)
 
 **Información:**
 - Archivo: 
@@ -700,7 +700,7 @@
 
 ### arbol-de-promesas-energeticas.png
 
-![arbol-de-promesas-energeticas.png](/fogata-recursos/imagenes/actividades/arbol-de-promesas-energeticas.png)
+![arbol-de-promesas-energeticas.png](/fogata-recursos/imagenes/actividades/arbol-de-promesas-energeticas.jpg)
 
 **Información:**
 - Archivo: 
@@ -711,7 +711,7 @@
 
 ### arboles-energeticos.png
 
-![arboles-energeticos.png](/fogata-recursos/imagenes/actividades/arboles-energeticos.png)
+![arboles-energeticos.png](/fogata-recursos/imagenes/actividades/arboles-energeticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -722,7 +722,7 @@
 
 ### arboles-nativos-en-peligro.png
 
-![arboles-nativos-en-peligro.png](/fogata-recursos/imagenes/actividades/arboles-nativos-en-peligro.png)
+![arboles-nativos-en-peligro.png](/fogata-recursos/imagenes/actividades/arboles-nativos-en-peligro.jpg)
 
 **Información:**
 - Archivo: 
@@ -733,7 +733,7 @@
 
 ### arriba-en-el-aire-adaptaciones.png
 
-![arriba-en-el-aire-adaptaciones.png](/fogata-recursos/imagenes/actividades/arriba-en-el-aire-adaptaciones.png)
+![arriba-en-el-aire-adaptaciones.png](/fogata-recursos/imagenes/actividades/arriba-en-el-aire-adaptaciones.jpg)
 
 **Información:**
 - Archivo: 
@@ -744,7 +744,7 @@
 
 ### arte-con-materiales-naturales.png
 
-![arte-con-materiales-naturales.png](/fogata-recursos/imagenes/actividades/arte-con-materiales-naturales.png)
+![arte-con-materiales-naturales.png](/fogata-recursos/imagenes/actividades/arte-con-materiales-naturales.jpg)
 
 **Información:**
 - Archivo: 
@@ -755,7 +755,7 @@
 
 ### arte-futurista.png
 
-![arte-futurista.png](/fogata-recursos/imagenes/actividades/arte-futurista.png)
+![arte-futurista.png](/fogata-recursos/imagenes/actividades/arte-futurista.jpg)
 
 **Información:**
 - Archivo: 
@@ -766,7 +766,7 @@
 
 ### arte-inspirado-en-el-mar.png
 
-![arte-inspirado-en-el-mar.png](/fogata-recursos/imagenes/actividades/arte-inspirado-en-el-mar.png)
+![arte-inspirado-en-el-mar.png](/fogata-recursos/imagenes/actividades/arte-inspirado-en-el-mar.jpg)
 
 **Información:**
 - Archivo: 
@@ -777,7 +777,7 @@
 
 ### arte-solar.png
 
-![arte-solar.png](/fogata-recursos/imagenes/actividades/arte-solar.png)
+![arte-solar.png](/fogata-recursos/imagenes/actividades/arte-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -788,7 +788,7 @@
 
 ### articulando-energia.png
 
-![articulando-energia.png](/fogata-recursos/imagenes/actividades/articulando-energia.png)
+![articulando-energia.png](/fogata-recursos/imagenes/actividades/articulando-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -799,7 +799,7 @@
 
 ### articulo-sobre-cambio-climatico.png
 
-![articulo-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/articulo-sobre-cambio-climatico.png)
+![articulo-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/articulo-sobre-cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -810,7 +810,7 @@
 
 ### audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png
 
-![audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png)
+![audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.jpg)
 
 **Información:**
 - Archivo: 
@@ -821,7 +821,7 @@
 
 ### audita-tus-habitos-de-uso-de-plastico.png
 
-![audita-tus-habitos-de-uso-de-plastico.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.png)
+![audita-tus-habitos-de-uso-de-plastico.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.jpg)
 
 **Información:**
 - Archivo: 
@@ -832,7 +832,7 @@
 
 ### auditoria-de-residuos.png
 
-![auditoria-de-residuos.png](/fogata-recursos/imagenes/actividades/auditoria-de-residuos.png)
+![auditoria-de-residuos.png](/fogata-recursos/imagenes/actividades/auditoria-de-residuos.jpg)
 
 **Información:**
 - Archivo: 
@@ -843,7 +843,7 @@
 
 ### aventuras-al-aire-libre.png
 
-![aventuras-al-aire-libre.png](/fogata-recursos/imagenes/actividades/aventuras-al-aire-libre.png)
+![aventuras-al-aire-libre.png](/fogata-recursos/imagenes/actividades/aventuras-al-aire-libre.jpg)
 
 **Información:**
 - Archivo: 
@@ -854,7 +854,7 @@
 
 ### aventuras-linguisticas.png
 
-![aventuras-linguisticas.png](/fogata-recursos/imagenes/actividades/aventuras-linguisticas.png)
+![aventuras-linguisticas.png](/fogata-recursos/imagenes/actividades/aventuras-linguisticas.jpg)
 
 **Información:**
 - Archivo: 
@@ -865,7 +865,7 @@
 
 ### ayudantes-de-los-ods.png
 
-![ayudantes-de-los-ods.png](/fogata-recursos/imagenes/actividades/ayudantes-de-los-ods.png)
+![ayudantes-de-los-ods.png](/fogata-recursos/imagenes/actividades/ayudantes-de-los-ods.jpg)
 
 **Información:**
 - Archivo: 
@@ -876,7 +876,7 @@
 
 ### banco-de-semillas.png
 
-![banco-de-semillas.png](/fogata-recursos/imagenes/actividades/banco-de-semillas.png)
+![banco-de-semillas.png](/fogata-recursos/imagenes/actividades/banco-de-semillas.jpg)
 
 **Información:**
 - Archivo: 
@@ -887,7 +887,7 @@
 
 ### barra-de-nectar-para-polinizadores.png
 
-![barra-de-nectar-para-polinizadores.png](/fogata-recursos/imagenes/actividades/barra-de-nectar-para-polinizadores.png)
+![barra-de-nectar-para-polinizadores.png](/fogata-recursos/imagenes/actividades/barra-de-nectar-para-polinizadores.jpg)
 
 **Información:**
 - Archivo: 
@@ -898,7 +898,7 @@
 
 ### barril-de-lluvia.png
 
-![barril-de-lluvia.png](/fogata-recursos/imagenes/actividades/barril-de-lluvia.png)
+![barril-de-lluvia.png](/fogata-recursos/imagenes/actividades/barril-de-lluvia.jpg)
 
 **Información:**
 - Archivo: 
@@ -909,7 +909,7 @@
 
 ### basura-por-que-es-importante.png
 
-![basura-por-que-es-importante.png](/fogata-recursos/imagenes/actividades/basura-por-que-es-importante.png)
+![basura-por-que-es-importante.png](/fogata-recursos/imagenes/actividades/basura-por-que-es-importante.jpg)
 
 **Información:**
 - Archivo: 
@@ -920,7 +920,7 @@
 
 ### bateria-casera.png
 
-![bateria-casera.png](/fogata-recursos/imagenes/actividades/bateria-casera.png)
+![bateria-casera.png](/fogata-recursos/imagenes/actividades/bateria-casera.jpg)
 
 **Información:**
 - Archivo: 
@@ -931,7 +931,7 @@
 
 ### bioblitz-exploracion-del-area-natural.png
 
-![bioblitz-exploracion-del-area-natural.png](/fogata-recursos/imagenes/actividades/bioblitz-exploracion-del-area-natural.png)
+![bioblitz-exploracion-del-area-natural.png](/fogata-recursos/imagenes/actividades/bioblitz-exploracion-del-area-natural.jpg)
 
 **Información:**
 - Archivo: 
@@ -942,7 +942,7 @@
 
 ### bioblitz.png
 
-![bioblitz.png](/fogata-recursos/imagenes/actividades/bioblitz.png)
+![bioblitz.png](/fogata-recursos/imagenes/actividades/bioblitz.jpg)
 
 **Información:**
 - Archivo: 
@@ -953,7 +953,7 @@
 
 ### biodiversidad-en-el-menu.png
 
-![biodiversidad-en-el-menu.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-el-menu.png)
+![biodiversidad-en-el-menu.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-el-menu.jpg)
 
 **Información:**
 - Archivo: 
@@ -964,7 +964,7 @@
 
 ### biodiversidad-en-objetos-cotidianos.png
 
-![biodiversidad-en-objetos-cotidianos.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-objetos-cotidianos.png)
+![biodiversidad-en-objetos-cotidianos.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-objetos-cotidianos.jpg)
 
 **Información:**
 - Archivo: 
@@ -975,7 +975,7 @@
 
 ### biodiversidad-en-otros-paises.png
 
-![biodiversidad-en-otros-paises.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-otros-paises.png)
+![biodiversidad-en-otros-paises.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-otros-paises.jpg)
 
 **Información:**
 - Archivo: 
@@ -986,7 +986,7 @@
 
 ### biomimesis.png
 
-![biomimesis.png](/fogata-recursos/imagenes/actividades/biomimesis.png)
+![biomimesis.png](/fogata-recursos/imagenes/actividades/biomimesis.jpg)
 
 **Información:**
 - Archivo: 
@@ -997,7 +997,7 @@
 
 ### biopiratas.png
 
-![biopiratas.png](/fogata-recursos/imagenes/actividades/biopiratas.png)
+![biopiratas.png](/fogata-recursos/imagenes/actividades/biopiratas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1008,7 +1008,7 @@
 
 ### biopiratas2.png
 
-![biopiratas2.png](/fogata-recursos/imagenes/actividades/biopiratas2.png)
+![biopiratas2.png](/fogata-recursos/imagenes/actividades/biopiratas2.jpg)
 
 **Información:**
 - Archivo: 
@@ -1019,7 +1019,7 @@
 
 ### biopiratas3.png
 
-![biopiratas3.png](/fogata-recursos/imagenes/actividades/biopiratas3.png)
+![biopiratas3.png](/fogata-recursos/imagenes/actividades/biopiratas3.jpg)
 
 **Información:**
 - Archivo: 
@@ -1030,7 +1030,7 @@
 
 ### blog-o-diario-de-biodiversidad.png
 
-![blog-o-diario-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/blog-o-diario-de-biodiversidad.png)
+![blog-o-diario-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/blog-o-diario-de-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -1041,7 +1041,7 @@
 
 ### blogueando-por-la-energia.png
 
-![blogueando-por-la-energia.png](/fogata-recursos/imagenes/actividades/blogueando-por-la-energia.png)
+![blogueando-por-la-energia.png](/fogata-recursos/imagenes/actividades/blogueando-por-la-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -1052,7 +1052,7 @@
 
 ### bosques-alrededor-del-mundo.png
 
-![bosques-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/bosques-alrededor-del-mundo.png)
+![bosques-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/bosques-alrededor-del-mundo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1063,7 +1063,7 @@
 
 ### bosques-en-llamas.png
 
-![bosques-en-llamas.png](/fogata-recursos/imagenes/actividades/bosques-en-llamas.png)
+![bosques-en-llamas.png](/fogata-recursos/imagenes/actividades/bosques-en-llamas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1074,7 +1074,7 @@
 
 ### bosques-justos.png
 
-![bosques-justos.png](/fogata-recursos/imagenes/actividades/bosques-justos.png)
+![bosques-justos.png](/fogata-recursos/imagenes/actividades/bosques-justos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1085,7 +1085,7 @@
 
 ### bosques-llenos-de-vida.png
 
-![bosques-llenos-de-vida.png](/fogata-recursos/imagenes/actividades/bosques-llenos-de-vida.png)
+![bosques-llenos-de-vida.png](/fogata-recursos/imagenes/actividades/bosques-llenos-de-vida.jpg)
 
 **Información:**
 - Archivo: 
@@ -1096,7 +1096,7 @@
 
 ### bosques-politicos.png
 
-![bosques-politicos.png](/fogata-recursos/imagenes/actividades/bosques-politicos.png)
+![bosques-politicos.png](/fogata-recursos/imagenes/actividades/bosques-politicos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1107,7 +1107,7 @@
 
 ### bosques-sagrados.png
 
-![bosques-sagrados.png](/fogata-recursos/imagenes/actividades/bosques-sagrados.png)
+![bosques-sagrados.png](/fogata-recursos/imagenes/actividades/bosques-sagrados.jpg)
 
 **Información:**
 - Archivo: 
@@ -1118,7 +1118,7 @@
 
 ### bosques.png
 
-![bosques.png](/fogata-recursos/imagenes/actividades/bosques.png)
+![bosques.png](/fogata-recursos/imagenes/actividades/bosques.jpg)
 
 **Información:**
 - Archivo: 
@@ -1129,7 +1129,7 @@
 
 ### brujula-solar-metodo-de-la-sombra.png
 
-![brujula-solar-metodo-de-la-sombra.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-de-la-sombra.png)
+![brujula-solar-metodo-de-la-sombra.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-de-la-sombra.jpg)
 
 **Información:**
 - Archivo: 
@@ -1140,7 +1140,7 @@
 
 ### brujula-solar-metodo-del-reloj.png
 
-![brujula-solar-metodo-del-reloj.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-del-reloj.png)
+![brujula-solar-metodo-del-reloj.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-del-reloj.jpg)
 
 **Información:**
 - Archivo: 
@@ -1151,7 +1151,7 @@
 
 ### buscando-la-suciedad.png
 
-![buscando-la-suciedad.png](/fogata-recursos/imagenes/actividades/buscando-la-suciedad.png)
+![buscando-la-suciedad.png](/fogata-recursos/imagenes/actividades/buscando-la-suciedad.jpg)
 
 **Información:**
 - Archivo: 
@@ -1162,7 +1162,7 @@
 
 ### calcular-el-impacto-ambiental-de-los-alimentos.png
 
-![calcular-el-impacto-ambiental-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.png)
+![calcular-el-impacto-ambiental-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1173,7 +1173,7 @@
 
 ### calcular-tu-huella-de-carbono.png
 
-![calcular-tu-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/calcular-tu-huella-de-carbono.png)
+![calcular-tu-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/calcular-tu-huella-de-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -1184,7 +1184,7 @@
 
 ### calendario-de-pesca-sostenible.png
 
-![calendario-de-pesca-sostenible.png](/fogata-recursos/imagenes/actividades/calendario-de-pesca-sostenible.png)
+![calendario-de-pesca-sostenible.png](/fogata-recursos/imagenes/actividades/calendario-de-pesca-sostenible.jpg)
 
 **Información:**
 - Archivo: 
@@ -1195,7 +1195,7 @@
 
 ### calentamiento-desigual.png
 
-![calentamiento-desigual.png](/fogata-recursos/imagenes/actividades/calentamiento-desigual.png)
+![calentamiento-desigual.png](/fogata-recursos/imagenes/actividades/calentamiento-desigual.jpg)
 
 **Información:**
 - Archivo: 
@@ -1206,7 +1206,7 @@
 
 ### calificacion-de-carbono.png
 
-![calificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/calificacion-de-carbono.png)
+![calificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/calificacion-de-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -1217,7 +1217,7 @@
 
 ### cambiando-con-el-clima.png
 
-![cambiando-con-el-clima.png](/fogata-recursos/imagenes/actividades/cambiando-con-el-clima.png)
+![cambiando-con-el-clima.png](/fogata-recursos/imagenes/actividades/cambiando-con-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -1228,7 +1228,7 @@
 
 ### cambiando-mentes.png
 
-![cambiando-mentes.png](/fogata-recursos/imagenes/actividades/cambiando-mentes.png)
+![cambiando-mentes.png](/fogata-recursos/imagenes/actividades/cambiando-mentes.jpg)
 
 **Información:**
 - Archivo: 
@@ -1239,7 +1239,7 @@
 
 ### cambio-climatico-y-agricultura.png
 
-![cambio-climatico-y-agricultura.png](/fogata-recursos/imagenes/actividades/cambio-climatico-y-agricultura.png)
+![cambio-climatico-y-agricultura.png](/fogata-recursos/imagenes/actividades/cambio-climatico-y-agricultura.jpg)
 
 **Información:**
 - Archivo: 
@@ -1250,7 +1250,7 @@
 
 ### cambio-climatico.png
 
-![cambio-climatico.png](/fogata-recursos/imagenes/actividades/cambio-climatico.png)
+![cambio-climatico.png](/fogata-recursos/imagenes/actividades/cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -1261,7 +1261,7 @@
 
 ### caminando-con-gafas-de-alimentos-puestas.png
 
-![caminando-con-gafas-de-alimentos-puestas.png](/fogata-recursos/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.png)
+![caminando-con-gafas-de-alimentos-puestas.png](/fogata-recursos/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1272,7 +1272,7 @@
 
 ### camisetas-sucias.png
 
-![camisetas-sucias.png](/fogata-recursos/imagenes/actividades/camisetas-sucias.png)
+![camisetas-sucias.png](/fogata-recursos/imagenes/actividades/camisetas-sucias.jpg)
 
 **Información:**
 - Archivo: 
@@ -1283,7 +1283,7 @@
 
 ### campamento-de-bajo-impacto.png
 
-![campamento-de-bajo-impacto.png](/fogata-recursos/imagenes/actividades/campamento-de-bajo-impacto.png)
+![campamento-de-bajo-impacto.png](/fogata-recursos/imagenes/actividades/campamento-de-bajo-impacto.jpg)
 
 **Información:**
 - Archivo: 
@@ -1294,7 +1294,7 @@
 
 ### campana-comunitaria.png
 
-![campana-comunitaria.png](/fogata-recursos/imagenes/actividades/campana-comunitaria.png)
+![campana-comunitaria.png](/fogata-recursos/imagenes/actividades/campana-comunitaria.jpg)
 
 **Información:**
 - Archivo: 
@@ -1305,7 +1305,7 @@
 
 ### campana-de-carteles.png
 
-![campana-de-carteles.png](/fogata-recursos/imagenes/actividades/campana-de-carteles.png)
+![campana-de-carteles.png](/fogata-recursos/imagenes/actividades/campana-de-carteles.jpg)
 
 **Información:**
 - Archivo: 
@@ -1316,7 +1316,7 @@
 
 ### campana-escolar.png
 
-![campana-escolar.png](/fogata-recursos/imagenes/actividades/campana-escolar.png)
+![campana-escolar.png](/fogata-recursos/imagenes/actividades/campana-escolar.jpg)
 
 **Información:**
 - Archivo: 
@@ -1327,7 +1327,7 @@
 
 ### cancion-del-viento-o-el-sol.png
 
-![cancion-del-viento-o-el-sol.png](/fogata-recursos/imagenes/actividades/cancion-del-viento-o-el-sol.png)
+![cancion-del-viento-o-el-sol.png](/fogata-recursos/imagenes/actividades/cancion-del-viento-o-el-sol.jpg)
 
 **Información:**
 - Archivo: 
@@ -1338,7 +1338,7 @@
 
 ### cancion-por-el-suelo.png
 
-![cancion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/cancion-por-el-suelo.png)
+![cancion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/cancion-por-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1349,7 +1349,7 @@
 
 ### cancon-del-ciclo-del-carbono.png
 
-![cancon-del-ciclo-del-carbono.png](/fogata-recursos/imagenes/actividades/cancon-del-ciclo-del-carbono.png)
+![cancon-del-ciclo-del-carbono.png](/fogata-recursos/imagenes/actividades/cancon-del-ciclo-del-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -1360,7 +1360,7 @@
 
 ### canta-con-el-bosque.png
 
-![canta-con-el-bosque.png](/fogata-recursos/imagenes/actividades/canta-con-el-bosque.png)
+![canta-con-el-bosque.png](/fogata-recursos/imagenes/actividades/canta-con-el-bosque.jpg)
 
 **Información:**
 - Archivo: 
@@ -1371,7 +1371,7 @@
 
 ### carne-de-animales-silvestres.png
 
-![carne-de-animales-silvestres.png](/fogata-recursos/imagenes/actividades/carne-de-animales-silvestres.png)
+![carne-de-animales-silvestres.png](/fogata-recursos/imagenes/actividades/carne-de-animales-silvestres.jpg)
 
 **Información:**
 - Archivo: 
@@ -1382,7 +1382,7 @@
 
 ### cartas-a-autoridades.png
 
-![cartas-a-autoridades.png](/fogata-recursos/imagenes/actividades/cartas-a-autoridades.png)
+![cartas-a-autoridades.png](/fogata-recursos/imagenes/actividades/cartas-a-autoridades.jpg)
 
 **Información:**
 - Archivo: 
@@ -1393,7 +1393,7 @@
 
 ### cartas-al-editor.png
 
-![cartas-al-editor.png](/fogata-recursos/imagenes/actividades/cartas-al-editor.png)
+![cartas-al-editor.png](/fogata-recursos/imagenes/actividades/cartas-al-editor.jpg)
 
 **Información:**
 - Archivo: 
@@ -1404,7 +1404,7 @@
 
 ### cartas-por-las-renovables.png
 
-![cartas-por-las-renovables.png](/fogata-recursos/imagenes/actividades/cartas-por-las-renovables.png)
+![cartas-por-las-renovables.png](/fogata-recursos/imagenes/actividades/cartas-por-las-renovables.jpg)
 
 **Información:**
 - Archivo: 
@@ -1415,7 +1415,7 @@
 
 ### casa-para-murcielagos.png
 
-![casa-para-murcielagos.png](/fogata-recursos/imagenes/actividades/casa-para-murcielagos.png)
+![casa-para-murcielagos.png](/fogata-recursos/imagenes/actividades/casa-para-murcielagos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1426,7 +1426,7 @@
 
 ### cava-profundamente.png
 
-![cava-profundamente.png](/fogata-recursos/imagenes/actividades/cava-profundamente.png)
+![cava-profundamente.png](/fogata-recursos/imagenes/actividades/cava-profundamente.jpg)
 
 **Información:**
 - Archivo: 
@@ -1437,7 +1437,7 @@
 
 ### celebracion-por-el-suelo.png
 
-![celebracion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/celebracion-por-el-suelo.png)
+![celebracion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/celebracion-por-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1448,7 +1448,7 @@
 
 ### chapoteando-en-el-agua.png
 
-![chapoteando-en-el-agua.png](/fogata-recursos/imagenes/actividades/chapoteando-en-el-agua.png)
+![chapoteando-en-el-agua.png](/fogata-recursos/imagenes/actividades/chapoteando-en-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -1459,7 +1459,7 @@
 
 ### cientificos-incipientes.png
 
-![cientificos-incipientes.png](/fogata-recursos/imagenes/actividades/cientificos-incipientes.png)
+![cientificos-incipientes.png](/fogata-recursos/imagenes/actividades/cientificos-incipientes.jpg)
 
 **Información:**
 - Archivo: 
@@ -1470,7 +1470,7 @@
 
 ### cientificos-nadadores.png
 
-![cientificos-nadadores.png](/fogata-recursos/imagenes/actividades/cientificos-nadadores.png)
+![cientificos-nadadores.png](/fogata-recursos/imagenes/actividades/cientificos-nadadores.jpg)
 
 **Información:**
 - Archivo: 
@@ -1481,7 +1481,7 @@
 
 ### cinco-cosas-buenas.png
 
-![cinco-cosas-buenas.png](/fogata-recursos/imagenes/actividades/cinco-cosas-buenas.png)
+![cinco-cosas-buenas.png](/fogata-recursos/imagenes/actividades/cinco-cosas-buenas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1492,7 +1492,7 @@
 
 ### circulo-de-biodiversidad.png
 
-![circulo-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/circulo-de-biodiversidad.png)
+![circulo-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/circulo-de-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -1503,7 +1503,7 @@
 
 ### ciudadano-del-agua.png
 
-![ciudadano-del-agua.png](/fogata-recursos/imagenes/actividades/ciudadano-del-agua.png)
+![ciudadano-del-agua.png](/fogata-recursos/imagenes/actividades/ciudadano-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -1514,7 +1514,7 @@
 
 ### clasificacion-de-carbono.png
 
-![clasificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/clasificacion-de-carbono.png)
+![clasificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/clasificacion-de-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -1525,7 +1525,7 @@
 
 ### clima-vs-tiempo.png
 
-![clima-vs-tiempo.png](/fogata-recursos/imagenes/actividades/clima-vs-tiempo.png)
+![clima-vs-tiempo.png](/fogata-recursos/imagenes/actividades/clima-vs-tiempo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1536,7 +1536,7 @@
 
 ### clima-y-estilos-de-vida.png
 
-![clima-y-estilos-de-vida.png](/fogata-recursos/imagenes/actividades/clima-y-estilos-de-vida.png)
+![clima-y-estilos-de-vida.png](/fogata-recursos/imagenes/actividades/clima-y-estilos-de-vida.jpg)
 
 **Información:**
 - Archivo: 
@@ -1547,7 +1547,7 @@
 
 ### clima-y-salud.png
 
-![clima-y-salud.png](/fogata-recursos/imagenes/actividades/clima-y-salud.png)
+![clima-y-salud.png](/fogata-recursos/imagenes/actividades/clima-y-salud.jpg)
 
 **Información:**
 - Archivo: 
@@ -1558,7 +1558,7 @@
 
 ### climas-cambiantes.png
 
-![climas-cambiantes.png](/fogata-recursos/imagenes/actividades/climas-cambiantes.png)
+![climas-cambiantes.png](/fogata-recursos/imagenes/actividades/climas-cambiantes.jpg)
 
 **Información:**
 - Archivo: 
@@ -1569,7 +1569,7 @@
 
 ### cocina-solar.png
 
-![cocina-solar.png](/fogata-recursos/imagenes/actividades/cocina-solar.png)
+![cocina-solar.png](/fogata-recursos/imagenes/actividades/cocina-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -1580,7 +1580,7 @@
 
 ### cocinar-una-comida-sana-y-sostenible.png
 
-![cocinar-una-comida-sana-y-sostenible.png](/fogata-recursos/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png)
+![cocinar-una-comida-sana-y-sostenible.png](/fogata-recursos/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.jpg)
 
 **Información:**
 - Archivo: 
@@ -1591,7 +1591,7 @@
 
 ### colectando-agua.png
 
-![colectando-agua.png](/fogata-recursos/imagenes/actividades/colectando-agua.png)
+![colectando-agua.png](/fogata-recursos/imagenes/actividades/colectando-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -1602,7 +1602,7 @@
 
 ### collage-de-biodiversidad.png
 
-![collage-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/collage-de-biodiversidad.png)
+![collage-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/collage-de-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -1613,7 +1613,7 @@
 
 ### comercial-de-biodiversidad.png
 
-![comercial-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/comercial-de-biodiversidad.png)
+![comercial-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/comercial-de-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -1624,7 +1624,7 @@
 
 ### comestibles-energeticos.png
 
-![comestibles-energeticos.png](/fogata-recursos/imagenes/actividades/comestibles-energeticos.png)
+![comestibles-energeticos.png](/fogata-recursos/imagenes/actividades/comestibles-energeticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1635,7 +1635,7 @@
 
 ### compania-de-transporte-maritimo.png
 
-![compania-de-transporte-maritimo.png](/fogata-recursos/imagenes/actividades/compania-de-transporte-maritimo.png)
+![compania-de-transporte-maritimo.png](/fogata-recursos/imagenes/actividades/compania-de-transporte-maritimo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1646,7 +1646,7 @@
 
 ### compartir-y-reusar-pertenencias.png
 
-![compartir-y-reusar-pertenencias.png](/fogata-recursos/imagenes/actividades/compartir-y-reusar-pertenencias.png)
+![compartir-y-reusar-pertenencias.png](/fogata-recursos/imagenes/actividades/compartir-y-reusar-pertenencias.jpg)
 
 **Información:**
 - Archivo: 
@@ -1657,7 +1657,7 @@
 
 ### compostaje.png
 
-![compostaje.png](/fogata-recursos/imagenes/actividades/compostaje.png)
+![compostaje.png](/fogata-recursos/imagenes/actividades/compostaje.jpg)
 
 **Información:**
 - Archivo: 
@@ -1668,7 +1668,7 @@
 
 ### comprar-de-segunda-mano.png
 
-![comprar-de-segunda-mano.png](/fogata-recursos/imagenes/actividades/comprar-de-segunda-mano.png)
+![comprar-de-segunda-mano.png](/fogata-recursos/imagenes/actividades/comprar-de-segunda-mano.jpg)
 
 **Información:**
 - Archivo: 
@@ -1679,7 +1679,7 @@
 
 ### comprar-y-usar-papel-reciclado.png
 
-![comprar-y-usar-papel-reciclado.png](/fogata-recursos/imagenes/actividades/comprar-y-usar-papel-reciclado.png)
+![comprar-y-usar-papel-reciclado.png](/fogata-recursos/imagenes/actividades/comprar-y-usar-papel-reciclado.jpg)
 
 **Información:**
 - Archivo: 
@@ -1690,7 +1690,7 @@
 
 ### compromiso-por-el-agua.png
 
-![compromiso-por-el-agua.png](/fogata-recursos/imagenes/actividades/compromiso-por-el-agua.png)
+![compromiso-por-el-agua.png](/fogata-recursos/imagenes/actividades/compromiso-por-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -1701,7 +1701,7 @@
 
 ### concurso-de-preguntas.png
 
-![concurso-de-preguntas.png](/fogata-recursos/imagenes/actividades/concurso-de-preguntas.png)
+![concurso-de-preguntas.png](/fogata-recursos/imagenes/actividades/concurso-de-preguntas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1712,7 +1712,7 @@
 
 ### concurso-de-pruebas.png
 
-![concurso-de-pruebas.png](/fogata-recursos/imagenes/actividades/concurso-de-pruebas.png)
+![concurso-de-pruebas.png](/fogata-recursos/imagenes/actividades/concurso-de-pruebas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1723,7 +1723,7 @@
 
 ### concurso-solar.png
 
-![concurso-solar.png](/fogata-recursos/imagenes/actividades/concurso-solar.png)
+![concurso-solar.png](/fogata-recursos/imagenes/actividades/concurso-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -1734,7 +1734,7 @@
 
 ### confeccionar-un-cartel-sobre-contaminacion-marina.png
 
-![confeccionar-un-cartel-sobre-contaminacion-marina.png](/fogata-recursos/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png)
+![confeccionar-un-cartel-sobre-contaminacion-marina.png](/fogata-recursos/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.jpg)
 
 **Información:**
 - Archivo: 
@@ -1745,7 +1745,7 @@
 
 ### conociendo-a-los-insectos.png
 
-![conociendo-a-los-insectos.png](/fogata-recursos/imagenes/actividades/conociendo-a-los-insectos.png)
+![conociendo-a-los-insectos.png](/fogata-recursos/imagenes/actividades/conociendo-a-los-insectos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1756,7 +1756,7 @@
 
 ### conservacion-in-situ-vs-ex-situ.png
 
-![conservacion-in-situ-vs-ex-situ.png](/fogata-recursos/imagenes/actividades/conservacion-in-situ-vs-ex-situ.png)
+![conservacion-in-situ-vs-ex-situ.png](/fogata-recursos/imagenes/actividades/conservacion-in-situ-vs-ex-situ.jpg)
 
 **Información:**
 - Archivo: 
@@ -1767,7 +1767,7 @@
 
 ### construir-un-horno-solar.png
 
-![construir-un-horno-solar.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar.png)
+![construir-un-horno-solar.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -1778,7 +1778,7 @@
 
 ### construir-un-horno-solar2.png
 
-![construir-un-horno-solar2.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar2.png)
+![construir-un-horno-solar2.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar2.jpg)
 
 **Información:**
 - Archivo: 
@@ -1789,7 +1789,7 @@
 
 ### construir-un-horno-solar3.png
 
-![construir-un-horno-solar3.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar3.png)
+![construir-un-horno-solar3.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar3.jpg)
 
 **Información:**
 - Archivo: 
@@ -1800,7 +1800,7 @@
 
 ### construir-un-modelo-de-energia-renovable.png
 
-![construir-un-modelo-de-energia-renovable.png](/fogata-recursos/imagenes/actividades/construir-un-modelo-de-energia-renovable.png)
+![construir-un-modelo-de-energia-renovable.png](/fogata-recursos/imagenes/actividades/construir-un-modelo-de-energia-renovable.jpg)
 
 **Información:**
 - Archivo: 
@@ -1811,7 +1811,7 @@
 
 ### construir-una-abonera.png
 
-![construir-una-abonera.png](/fogata-recursos/imagenes/actividades/construir-una-abonera.png)
+![construir-una-abonera.png](/fogata-recursos/imagenes/actividades/construir-una-abonera.jpg)
 
 **Información:**
 - Archivo: 
@@ -1822,7 +1822,7 @@
 
 ### construye-un-hotel-para-abejas.png
 
-![construye-un-hotel-para-abejas.png](/fogata-recursos/imagenes/actividades/construye-un-hotel-para-abejas.png)
+![construye-un-hotel-para-abejas.png](/fogata-recursos/imagenes/actividades/construye-un-hotel-para-abejas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1833,7 +1833,7 @@
 
 ### construye-un-pozo.png
 
-![construye-un-pozo.png](/fogata-recursos/imagenes/actividades/construye-un-pozo.png)
+![construye-un-pozo.png](/fogata-recursos/imagenes/actividades/construye-un-pozo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1844,7 +1844,7 @@
 
 ### consumo-y-especies-amenazadas.png
 
-![consumo-y-especies-amenazadas.png](/fogata-recursos/imagenes/actividades/consumo-y-especies-amenazadas.png)
+![consumo-y-especies-amenazadas.png](/fogata-recursos/imagenes/actividades/consumo-y-especies-amenazadas.jpg)
 
 **Información:**
 - Archivo: 
@@ -1855,7 +1855,7 @@
 
 ### contactar-con-expertos-en-cambio-climatico.png
 
-![contactar-con-expertos-en-cambio-climatico.png](/fogata-recursos/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.png)
+![contactar-con-expertos-en-cambio-climatico.png](/fogata-recursos/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -1866,7 +1866,7 @@
 
 ### contando-historias-el-discurso-pixar.png
 
-![contando-historias-el-discurso-pixar.png](/fogata-recursos/imagenes/actividades/contando-historias-el-discurso-pixar.png)
+![contando-historias-el-discurso-pixar.png](/fogata-recursos/imagenes/actividades/contando-historias-el-discurso-pixar.jpg)
 
 **Información:**
 - Archivo: 
@@ -1877,7 +1877,7 @@
 
 ### conversacion-sobre-el-tiempo.png
 
-![conversacion-sobre-el-tiempo.png](/fogata-recursos/imagenes/actividades/conversacion-sobre-el-tiempo.png)
+![conversacion-sobre-el-tiempo.png](/fogata-recursos/imagenes/actividades/conversacion-sobre-el-tiempo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1888,7 +1888,7 @@
 
 ### convertirse-en-un-cientifico-ciudadano.png
 
-![convertirse-en-un-cientifico-ciudadano.png](/fogata-recursos/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.png)
+![convertirse-en-un-cientifico-ciudadano.png](/fogata-recursos/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.jpg)
 
 **Información:**
 - Archivo: 
@@ -1899,7 +1899,7 @@
 
 ### corre-que-te-alcanzo.png
 
-![corre-que-te-alcanzo.png](/fogata-recursos/imagenes/actividades/corre-que-te-alcanzo.png)
+![corre-que-te-alcanzo.png](/fogata-recursos/imagenes/actividades/corre-que-te-alcanzo.jpg)
 
 **Información:**
 - Archivo: 
@@ -1910,7 +1910,7 @@
 
 ### cosas-que-usamos.png
 
-![cosas-que-usamos.png](/fogata-recursos/imagenes/actividades/cosas-que-usamos.png)
+![cosas-que-usamos.png](/fogata-recursos/imagenes/actividades/cosas-que-usamos.jpg)
 
 **Información:**
 - Archivo: 
@@ -1921,7 +1921,7 @@
 
 ### crear-un-diario-verde.png
 
-![crear-un-diario-verde.png](/fogata-recursos/imagenes/actividades/crear-un-diario-verde.png)
+![crear-un-diario-verde.png](/fogata-recursos/imagenes/actividades/crear-un-diario-verde.jpg)
 
 **Información:**
 - Archivo: 
@@ -1932,7 +1932,7 @@
 
 ### crear-un-grupo-de-investigacion-sobre-el-clima.png
 
-![crear-un-grupo-de-investigacion-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.png)
+![crear-un-grupo-de-investigacion-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -1943,7 +1943,7 @@
 
 ### crear-un-jardin-comunitario.png
 
-![crear-un-jardin-comunitario.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-comunitario.png)
+![crear-un-jardin-comunitario.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-comunitario.jpg)
 
 **Información:**
 - Archivo: 
@@ -1954,7 +1954,7 @@
 
 ### crear-un-jardin-de-flores-y-vegetales.png
 
-![crear-un-jardin-de-flores-y-vegetales.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.png)
+![crear-un-jardin-de-flores-y-vegetales.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.jpg)
 
 **Información:**
 - Archivo: 
@@ -1965,7 +1965,7 @@
 
 ### crear-un-jardin-en-un-balcon.png
 
-![crear-un-jardin-en-un-balcon.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-en-un-balcon.png)
+![crear-un-jardin-en-un-balcon.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-en-un-balcon.jpg)
 
 **Información:**
 - Archivo: 
@@ -1976,7 +1976,7 @@
 
 ### crear-un-mini-prado-de-flores-silvestres.png
 
-![crear-un-mini-prado-de-flores-silvestres.png](/fogata-recursos/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.png)
+![crear-un-mini-prado-de-flores-silvestres.png](/fogata-recursos/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.jpg)
 
 **Información:**
 - Archivo: 
@@ -1987,7 +1987,7 @@
 
 ### crear-un-zumbido.png
 
-![crear-un-zumbido.png](/fogata-recursos/imagenes/actividades/crear-un-zumbido.png)
+![crear-un-zumbido.png](/fogata-recursos/imagenes/actividades/crear-un-zumbido.jpg)
 
 **Información:**
 - Archivo: 
@@ -1998,7 +1998,7 @@
 
 ### creatividad-por-el-clima.png
 
-![creatividad-por-el-clima.png](/fogata-recursos/imagenes/actividades/creatividad-por-el-clima.png)
+![creatividad-por-el-clima.png](/fogata-recursos/imagenes/actividades/creatividad-por-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -2009,7 +2009,7 @@
 
 ### cual-es-tu-posicion-sobre.png
 
-![cual-es-tu-posicion-sobre.png](/fogata-recursos/imagenes/actividades/cual-es-tu-posicion-sobre.png)
+![cual-es-tu-posicion-sobre.png](/fogata-recursos/imagenes/actividades/cual-es-tu-posicion-sobre.jpg)
 
 **Información:**
 - Archivo: 
@@ -2020,7 +2020,7 @@
 
 ### cuando-se-degradan.png
 
-![cuando-se-degradan.png](/fogata-recursos/imagenes/actividades/cuando-se-degradan.png)
+![cuando-se-degradan.png](/fogata-recursos/imagenes/actividades/cuando-se-degradan.jpg)
 
 **Información:**
 - Archivo: 
@@ -2031,7 +2031,7 @@
 
 ### cuatro-esquinas.png
 
-![cuatro-esquinas.png](/fogata-recursos/imagenes/actividades/cuatro-esquinas.png)
+![cuatro-esquinas.png](/fogata-recursos/imagenes/actividades/cuatro-esquinas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2042,7 +2042,7 @@
 
 ### cuidemos-nuestro-medio-ambiente.png
 
-![cuidemos-nuestro-medio-ambiente.png](/fogata-recursos/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png)
+![cuidemos-nuestro-medio-ambiente.png](/fogata-recursos/imagenes/actividades/cuidemos-nuestro-medio-ambiente.jpg)
 
 **Información:**
 - Archivo: 
@@ -2053,7 +2053,7 @@
 
 ### curso-intensivo-cultural.png
 
-![curso-intensivo-cultural.png](/fogata-recursos/imagenes/actividades/curso-intensivo-cultural.png)
+![curso-intensivo-cultural.png](/fogata-recursos/imagenes/actividades/curso-intensivo-cultural.jpg)
 
 **Información:**
 - Archivo: 
@@ -2064,7 +2064,7 @@
 
 ### danza-del-viento-y-las-olas.png
 
-![danza-del-viento-y-las-olas.png](/fogata-recursos/imagenes/actividades/danza-del-viento-y-las-olas.png)
+![danza-del-viento-y-las-olas.png](/fogata-recursos/imagenes/actividades/danza-del-viento-y-las-olas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2075,7 +2075,7 @@
 
 ### darles-una-oportunidad-a-las-abejas.png
 
-![darles-una-oportunidad-a-las-abejas.png](/fogata-recursos/imagenes/actividades/darles-una-oportunidad-a-las-abejas.png)
+![darles-una-oportunidad-a-las-abejas.png](/fogata-recursos/imagenes/actividades/darles-una-oportunidad-a-las-abejas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2086,7 +2086,7 @@
 
 ### de-donde-viene-tu-agua.png
 
-![de-donde-viene-tu-agua.png](/fogata-recursos/imagenes/actividades/de-donde-viene-tu-agua.png)
+![de-donde-viene-tu-agua.png](/fogata-recursos/imagenes/actividades/de-donde-viene-tu-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2097,7 +2097,7 @@
 
 ### de-suelos-organicos.png
 
-![de-suelos-organicos.png](/fogata-recursos/imagenes/actividades/de-suelos-organicos.png)
+![de-suelos-organicos.png](/fogata-recursos/imagenes/actividades/de-suelos-organicos.jpg)
 
 **Información:**
 - Archivo: 
@@ -2108,7 +2108,7 @@
 
 ### debate-sobre-cambio-climatico.png
 
-![debate-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/debate-sobre-cambio-climatico.png)
+![debate-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/debate-sobre-cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -2119,7 +2119,7 @@
 
 ### deforestacion-y-degradacion.png
 
-![deforestacion-y-degradacion.png](/fogata-recursos/imagenes/actividades/deforestacion-y-degradacion.png)
+![deforestacion-y-degradacion.png](/fogata-recursos/imagenes/actividades/deforestacion-y-degradacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -2130,7 +2130,7 @@
 
 ### deja-la-botella.png
 
-![deja-la-botella.png](/fogata-recursos/imagenes/actividades/deja-la-botella.png)
+![deja-la-botella.png](/fogata-recursos/imagenes/actividades/deja-la-botella.jpg)
 
 **Información:**
 - Archivo: 
@@ -2141,7 +2141,7 @@
 
 ### derrame-de-petroleo-simulado.png
 
-![derrame-de-petroleo-simulado.png](/fogata-recursos/imagenes/actividades/derrame-de-petroleo-simulado.png)
+![derrame-de-petroleo-simulado.png](/fogata-recursos/imagenes/actividades/derrame-de-petroleo-simulado.jpg)
 
 **Información:**
 - Archivo: 
@@ -2152,7 +2152,7 @@
 
 ### desafio-sin-electronicos.png
 
-![desafio-sin-electronicos.png](/fogata-recursos/imagenes/actividades/desafio-sin-electronicos.png)
+![desafio-sin-electronicos.png](/fogata-recursos/imagenes/actividades/desafio-sin-electronicos.jpg)
 
 **Información:**
 - Archivo: 
@@ -2163,7 +2163,7 @@
 
 ### desarrollar-una-campana-con-posters.png
 
-![desarrollar-una-campana-con-posters.png](/fogata-recursos/imagenes/actividades/desarrollar-una-campana-con-posters.png)
+![desarrollar-una-campana-con-posters.png](/fogata-recursos/imagenes/actividades/desarrollar-una-campana-con-posters.jpg)
 
 **Información:**
 - Archivo: 
@@ -2174,7 +2174,7 @@
 
 ### descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png
 
-![descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png)
+![descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.jpg)
 
 **Información:**
 - Archivo: 
@@ -2185,7 +2185,7 @@
 
 ### descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png
 
-![descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png)
+![descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.jpg)
 
 **Información:**
 - Archivo: 
@@ -2196,7 +2196,7 @@
 
 ### desenterrando-la-suciedad.png
 
-![desenterrando-la-suciedad.png](/fogata-recursos/imagenes/actividades/desenterrando-la-suciedad.png)
+![desenterrando-la-suciedad.png](/fogata-recursos/imagenes/actividades/desenterrando-la-suciedad.jpg)
 
 **Información:**
 - Archivo: 
@@ -2207,7 +2207,7 @@
 
 ### desfile-de-modas-con-materiales-reciclados.png
 
-![desfile-de-modas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png)
+![desfile-de-modas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.jpg)
 
 **Información:**
 - Archivo: 
@@ -2218,7 +2218,7 @@
 
 ### dia-internacional-de-la-biodiversidad.png
 
-![dia-internacional-de-la-biodiversidad.png](/fogata-recursos/imagenes/actividades/dia-internacional-de-la-biodiversidad.png)
+![dia-internacional-de-la-biodiversidad.png](/fogata-recursos/imagenes/actividades/dia-internacional-de-la-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -2229,7 +2229,7 @@
 
 ### diario-de-alimentos.png
 
-![diario-de-alimentos.png](/fogata-recursos/imagenes/actividades/diario-de-alimentos.png)
+![diario-de-alimentos.png](/fogata-recursos/imagenes/actividades/diario-de-alimentos.jpg)
 
 **Información:**
 - Archivo: 
@@ -2240,7 +2240,7 @@
 
 ### dibujando-el-agua.png
 
-![dibujando-el-agua.png](/fogata-recursos/imagenes/actividades/dibujando-el-agua.png)
+![dibujando-el-agua.png](/fogata-recursos/imagenes/actividades/dibujando-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2251,7 +2251,7 @@
 
 ### dibujos-de-cadenas-alimenticias.png
 
-![dibujos-de-cadenas-alimenticias.png](/fogata-recursos/imagenes/actividades/dibujos-de-cadenas-alimenticias.png)
+![dibujos-de-cadenas-alimenticias.png](/fogata-recursos/imagenes/actividades/dibujos-de-cadenas-alimenticias.jpg)
 
 **Información:**
 - Archivo: 
@@ -2262,7 +2262,7 @@
 
 ### dibujos-polvorientos.png
 
-![dibujos-polvorientos.png](/fogata-recursos/imagenes/actividades/dibujos-polvorientos.png)
+![dibujos-polvorientos.png](/fogata-recursos/imagenes/actividades/dibujos-polvorientos.jpg)
 
 **Información:**
 - Archivo: 
@@ -2273,7 +2273,7 @@
 
 ### dieta-energetica.png
 
-![dieta-energetica.png](/fogata-recursos/imagenes/actividades/dieta-energetica.png)
+![dieta-energetica.png](/fogata-recursos/imagenes/actividades/dieta-energetica.jpg)
 
 **Información:**
 - Archivo: 
@@ -2284,7 +2284,7 @@
 
 ### disecciona-una-flor.png
 
-![disecciona-una-flor.png](/fogata-recursos/imagenes/actividades/disecciona-una-flor.png)
+![disecciona-una-flor.png](/fogata-recursos/imagenes/actividades/disecciona-una-flor.jpg)
 
 **Información:**
 - Archivo: 
@@ -2295,7 +2295,7 @@
 
 ### disenar-notas-recordatorias-para-ahorrar-energia.png
 
-![disenar-notas-recordatorias-para-ahorrar-energia.png](/fogata-recursos/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.png)
+![disenar-notas-recordatorias-para-ahorrar-energia.png](/fogata-recursos/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -2306,7 +2306,7 @@
 
 ### diversion-con-peliculas.png
 
-![diversion-con-peliculas.png](/fogata-recursos/imagenes/actividades/diversion-con-peliculas.png)
+![diversion-con-peliculas.png](/fogata-recursos/imagenes/actividades/diversion-con-peliculas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2317,7 +2317,7 @@
 
 ### diversion-solar.png
 
-![diversion-solar.png](/fogata-recursos/imagenes/actividades/diversion-solar.png)
+![diversion-solar.png](/fogata-recursos/imagenes/actividades/diversion-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -2328,7 +2328,7 @@
 
 ### donde-esta-el-agua.png
 
-![donde-esta-el-agua.png](/fogata-recursos/imagenes/actividades/donde-esta-el-agua.png)
+![donde-esta-el-agua.png](/fogata-recursos/imagenes/actividades/donde-esta-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2339,7 +2339,7 @@
 
 ### ducha-solar.png
 
-![ducha-solar.png](/fogata-recursos/imagenes/actividades/ducha-solar.png)
+![ducha-solar.png](/fogata-recursos/imagenes/actividades/ducha-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -2350,7 +2350,7 @@
 
 ### echa-una-mirada-al-suelo.png
 
-![echa-una-mirada-al-suelo.png](/fogata-recursos/imagenes/actividades/echa-una-mirada-al-suelo.png)
+![echa-una-mirada-al-suelo.png](/fogata-recursos/imagenes/actividades/echa-una-mirada-al-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -2361,7 +2361,7 @@
 
 ### echando-raices.png
 
-![echando-raices.png](/fogata-recursos/imagenes/actividades/echando-raices.png)
+![echando-raices.png](/fogata-recursos/imagenes/actividades/echando-raices.jpg)
 
 **Información:**
 - Archivo: 
@@ -2372,7 +2372,7 @@
 
 ### ecoturismo.png
 
-![ecoturismo.png](/fogata-recursos/imagenes/actividades/ecoturismo.png)
+![ecoturismo.png](/fogata-recursos/imagenes/actividades/ecoturismo.jpg)
 
 **Información:**
 - Archivo: 
@@ -2383,7 +2383,7 @@
 
 ### edificios-eficientes.png
 
-![edificios-eficientes.png](/fogata-recursos/imagenes/actividades/edificios-eficientes.png)
+![edificios-eficientes.png](/fogata-recursos/imagenes/actividades/edificios-eficientes.jpg)
 
 **Información:**
 - Archivo: 
@@ -2394,7 +2394,7 @@
 
 ### efecto-invernadero.png
 
-![efecto-invernadero.png](/fogata-recursos/imagenes/actividades/efecto-invernadero.png)
+![efecto-invernadero.png](/fogata-recursos/imagenes/actividades/efecto-invernadero.jpg)
 
 **Información:**
 - Archivo: 
@@ -2405,7 +2405,7 @@
 
 ### el-agua-en-tu-armario.png
 
-![el-agua-en-tu-armario.png](/fogata-recursos/imagenes/actividades/el-agua-en-tu-armario.png)
+![el-agua-en-tu-armario.png](/fogata-recursos/imagenes/actividades/el-agua-en-tu-armario.jpg)
 
 **Información:**
 - Archivo: 
@@ -2416,7 +2416,7 @@
 
 ### el-arte-de-reutilizar.png
 
-![el-arte-de-reutilizar.png](/fogata-recursos/imagenes/actividades/el-arte-de-reutilizar.png)
+![el-arte-de-reutilizar.png](/fogata-recursos/imagenes/actividades/el-arte-de-reutilizar.jpg)
 
 **Información:**
 - Archivo: 
@@ -2427,7 +2427,7 @@
 
 ### el-baile-del-agua.png
 
-![el-baile-del-agua.png](/fogata-recursos/imagenes/actividades/el-baile-del-agua.png)
+![el-baile-del-agua.png](/fogata-recursos/imagenes/actividades/el-baile-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2438,7 +2438,7 @@
 
 ### el-barquito-chiquitito.png
 
-![el-barquito-chiquitito.png](/fogata-recursos/imagenes/actividades/el-barquito-chiquitito.png)
+![el-barquito-chiquitito.png](/fogata-recursos/imagenes/actividades/el-barquito-chiquitito.jpg)
 
 **Información:**
 - Archivo: 
@@ -2449,7 +2449,7 @@
 
 ### el-debate-sobre-la-mg.png
 
-![el-debate-sobre-la-mg.png](/fogata-recursos/imagenes/actividades/el-debate-sobre-la-mg.png)
+![el-debate-sobre-la-mg.png](/fogata-recursos/imagenes/actividades/el-debate-sobre-la-mg.jpg)
 
 **Información:**
 - Archivo: 
@@ -2460,7 +2460,7 @@
 
 ### el-destino-de-los-bosques.png
 
-![el-destino-de-los-bosques.png](/fogata-recursos/imagenes/actividades/el-destino-de-los-bosques.png)
+![el-destino-de-los-bosques.png](/fogata-recursos/imagenes/actividades/el-destino-de-los-bosques.jpg)
 
 **Información:**
 - Archivo: 
@@ -2471,7 +2471,7 @@
 
 ### el-factor-nutricional.png
 
-![el-factor-nutricional.png](/fogata-recursos/imagenes/actividades/el-factor-nutricional.png)
+![el-factor-nutricional.png](/fogata-recursos/imagenes/actividades/el-factor-nutricional.jpg)
 
 **Información:**
 - Archivo: 
@@ -2482,7 +2482,7 @@
 
 ### el-futuro-del-agua.png
 
-![el-futuro-del-agua.png](/fogata-recursos/imagenes/actividades/el-futuro-del-agua.png)
+![el-futuro-del-agua.png](/fogata-recursos/imagenes/actividades/el-futuro-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2493,7 +2493,7 @@
 
 ### el-gran-debate-sobre-el-clima.png
 
-![el-gran-debate-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/el-gran-debate-sobre-el-clima.png)
+![el-gran-debate-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/el-gran-debate-sobre-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -2504,7 +2504,7 @@
 
 ### el-juego-del-ciclo-del-agua.png
 
-![el-juego-del-ciclo-del-agua.png](/fogata-recursos/imagenes/actividades/el-juego-del-ciclo-del-agua.png)
+![el-juego-del-ciclo-del-agua.png](/fogata-recursos/imagenes/actividades/el-juego-del-ciclo-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2515,7 +2515,7 @@
 
 ### el-juego-del-globo.png
 
-![el-juego-del-globo.png](/fogata-recursos/imagenes/actividades/el-juego-del-globo.png)
+![el-juego-del-globo.png](/fogata-recursos/imagenes/actividades/el-juego-del-globo.jpg)
 
 **Información:**
 - Archivo: 
@@ -2526,7 +2526,7 @@
 
 ### el-precio-del-agua.png
 
-![el-precio-del-agua.png](/fogata-recursos/imagenes/actividades/el-precio-del-agua.png)
+![el-precio-del-agua.png](/fogata-recursos/imagenes/actividades/el-precio-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -2537,7 +2537,7 @@
 
 ### el-suelo-en-escena.png
 
-![el-suelo-en-escena.png](/fogata-recursos/imagenes/actividades/el-suelo-en-escena.png)
+![el-suelo-en-escena.png](/fogata-recursos/imagenes/actividades/el-suelo-en-escena.jpg)
 
 **Información:**
 - Archivo: 
@@ -2548,7 +2548,7 @@
 
 ### el-suelo-y-la-salud.png
 
-![el-suelo-y-la-salud.png](/fogata-recursos/imagenes/actividades/el-suelo-y-la-salud.png)
+![el-suelo-y-la-salud.png](/fogata-recursos/imagenes/actividades/el-suelo-y-la-salud.jpg)
 
 **Información:**
 - Archivo: 
@@ -2559,7 +2559,7 @@
 
 ### el-viejo-geiser.png
 
-![el-viejo-geiser.png](/fogata-recursos/imagenes/actividades/el-viejo-geiser.png)
+![el-viejo-geiser.png](/fogata-recursos/imagenes/actividades/el-viejo-geiser.jpg)
 
 **Información:**
 - Archivo: 
@@ -2570,7 +2570,7 @@
 
 ### electricidad-en-todas-partes.png
 
-![electricidad-en-todas-partes.png](/fogata-recursos/imagenes/actividades/electricidad-en-todas-partes.png)
+![electricidad-en-todas-partes.png](/fogata-recursos/imagenes/actividades/electricidad-en-todas-partes.jpg)
 
 **Información:**
 - Archivo: 
@@ -2581,7 +2581,7 @@
 
 ### electrodomesticos-ahorradores-de-energia.png
 
-![electrodomesticos-ahorradores-de-energia.png](/fogata-recursos/imagenes/actividades/electrodomesticos-ahorradores-de-energia.png)
+![electrodomesticos-ahorradores-de-energia.png](/fogata-recursos/imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -2592,7 +2592,7 @@
 
 ### elegir-alimentos-amigables-con-los-polinizadores.png
 
-![elegir-alimentos-amigables-con-los-polinizadores.png](/fogata-recursos/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.png)
+![elegir-alimentos-amigables-con-los-polinizadores.png](/fogata-recursos/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.jpg)
 
 **Información:**
 - Archivo: 
@@ -2603,7 +2603,7 @@
 
 ### empleos-forestales.png
 
-![empleos-forestales.png](/fogata-recursos/imagenes/actividades/empleos-forestales.png)
+![empleos-forestales.png](/fogata-recursos/imagenes/actividades/empleos-forestales.jpg)
 
 **Información:**
 - Archivo: 
@@ -2614,7 +2614,7 @@
 
 ### empujon-del-viento.png
 
-![empujon-del-viento.png](/fogata-recursos/imagenes/actividades/empujon-del-viento.png)
+![empujon-del-viento.png](/fogata-recursos/imagenes/actividades/empujon-del-viento.jpg)
 
 **Información:**
 - Archivo: 
@@ -2625,7 +2625,7 @@
 
 ### encuentra-tu-camino.png
 
-![encuentra-tu-camino.png](/fogata-recursos/imagenes/actividades/encuentra-tu-camino.png)
+![encuentra-tu-camino.png](/fogata-recursos/imagenes/actividades/encuentra-tu-camino.jpg)
 
 **Información:**
 - Archivo: 
@@ -2636,7 +2636,7 @@
 
 ### encuesta-de-polinizadores.png
 
-![encuesta-de-polinizadores.png](/fogata-recursos/imagenes/actividades/encuesta-de-polinizadores.png)
+![encuesta-de-polinizadores.png](/fogata-recursos/imagenes/actividades/encuesta-de-polinizadores.jpg)
 
 **Información:**
 - Archivo: 
@@ -2647,7 +2647,7 @@
 
 ### encuesta-sobre-el-suelo.png
 
-![encuesta-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/encuesta-sobre-el-suelo.png)
+![encuesta-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/encuesta-sobre-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -2658,7 +2658,7 @@
 
 ### energia-al-rescate.png
 
-![energia-al-rescate.png](/fogata-recursos/imagenes/actividades/energia-al-rescate.png)
+![energia-al-rescate.png](/fogata-recursos/imagenes/actividades/energia-al-rescate.jpg)
 
 **Información:**
 - Archivo: 
@@ -2669,7 +2669,7 @@
 
 ### energia-creativa.png
 
-![energia-creativa.png](/fogata-recursos/imagenes/actividades/energia-creativa.png)
+![energia-creativa.png](/fogata-recursos/imagenes/actividades/energia-creativa.jpg)
 
 **Información:**
 - Archivo: 
@@ -2680,7 +2680,7 @@
 
 ### energia-en-el-pasado.png
 
-![energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/energia-en-el-pasado.png)
+![energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/energia-en-el-pasado.jpg)
 
 **Información:**
 - Archivo: 
@@ -2691,7 +2691,7 @@
 
 ### energia-en-la-rutina.png
 
-![energia-en-la-rutina.png](/fogata-recursos/imagenes/actividades/energia-en-la-rutina.png)
+![energia-en-la-rutina.png](/fogata-recursos/imagenes/actividades/energia-en-la-rutina.jpg)
 
 **Información:**
 - Archivo: 
@@ -2702,7 +2702,7 @@
 
 ### energia-hidroelectrica.png
 
-![energia-hidroelectrica.png](/fogata-recursos/imagenes/actividades/energia-hidroelectrica.png)
+![energia-hidroelectrica.png](/fogata-recursos/imagenes/actividades/energia-hidroelectrica.jpg)
 
 **Información:**
 - Archivo: 
@@ -2713,7 +2713,7 @@
 
 ### energia-renovable-comunitaria.png
 
-![energia-renovable-comunitaria.png](/fogata-recursos/imagenes/actividades/energia-renovable-comunitaria.png)
+![energia-renovable-comunitaria.png](/fogata-recursos/imagenes/actividades/energia-renovable-comunitaria.jpg)
 
 **Información:**
 - Archivo: 
@@ -2724,7 +2724,7 @@
 
 ### energia-y-gravedad.png
 
-![energia-y-gravedad.png](/fogata-recursos/imagenes/actividades/energia-y-gravedad.png)
+![energia-y-gravedad.png](/fogata-recursos/imagenes/actividades/energia-y-gravedad.jpg)
 
 **Información:**
 - Archivo: 
@@ -2735,7 +2735,7 @@
 
 ### energia-y-pobreza.png
 
-![energia-y-pobreza.png](/fogata-recursos/imagenes/actividades/energia-y-pobreza.png)
+![energia-y-pobreza.png](/fogata-recursos/imagenes/actividades/energia-y-pobreza.jpg)
 
 **Información:**
 - Archivo: 
@@ -2746,7 +2746,7 @@
 
 ### entendiendo-los-pesticidas.png
 
-![entendiendo-los-pesticidas.png](/fogata-recursos/imagenes/actividades/entendiendo-los-pesticidas.png)
+![entendiendo-los-pesticidas.png](/fogata-recursos/imagenes/actividades/entendiendo-los-pesticidas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2757,7 +2757,7 @@
 
 ### entrevista-a-un-cientifico.png
 
-![entrevista-a-un-cientifico.png](/fogata-recursos/imagenes/actividades/entrevista-a-un-cientifico.png)
+![entrevista-a-un-cientifico.png](/fogata-recursos/imagenes/actividades/entrevista-a-un-cientifico.jpg)
 
 **Información:**
 - Archivo: 
@@ -2768,7 +2768,7 @@
 
 ### entrevista-sobre-alimentos-tradicionales.png
 
-![entrevista-sobre-alimentos-tradicionales.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.png)
+![entrevista-sobre-alimentos-tradicionales.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.jpg)
 
 **Información:**
 - Archivo: 
@@ -2779,7 +2779,7 @@
 
 ### entrevista-sobre-el-uso-de-energia-en-el-pasado.png
 
-![entrevista-sobre-el-uso-de-energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.png)
+![entrevista-sobre-el-uso-de-energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.jpg)
 
 **Información:**
 - Archivo: 
@@ -2790,7 +2790,7 @@
 
 ### es-dificil-pasarse-del-h2o.png
 
-![es-dificil-pasarse-del-h2o.png](/fogata-recursos/imagenes/actividades/es-dificil-pasarse-del-h2o.png)
+![es-dificil-pasarse-del-h2o.png](/fogata-recursos/imagenes/actividades/es-dificil-pasarse-del-h2o.jpg)
 
 **Información:**
 - Archivo: 
@@ -2801,7 +2801,7 @@
 
 ### escalada-ecologica.png
 
-![escalada-ecologica.png](/fogata-recursos/imagenes/actividades/escalada-ecologica.png)
+![escalada-ecologica.png](/fogata-recursos/imagenes/actividades/escalada-ecologica.jpg)
 
 **Información:**
 - Archivo: 
@@ -2812,7 +2812,7 @@
 
 ### esculpir-un-desastre.png
 
-![esculpir-un-desastre.png](/fogata-recursos/imagenes/actividades/esculpir-un-desastre.png)
+![esculpir-un-desastre.png](/fogata-recursos/imagenes/actividades/esculpir-un-desastre.jpg)
 
 **Información:**
 - Archivo: 
@@ -2823,7 +2823,7 @@
 
 ### especie-amenazada-local.png
 
-![especie-amenazada-local.png](/fogata-recursos/imagenes/actividades/especie-amenazada-local.png)
+![especie-amenazada-local.png](/fogata-recursos/imagenes/actividades/especie-amenazada-local.jpg)
 
 **Información:**
 - Archivo: 
@@ -2834,7 +2834,7 @@
 
 ### especies-locales.png
 
-![especies-locales.png](/fogata-recursos/imagenes/actividades/especies-locales.png)
+![especies-locales.png](/fogata-recursos/imagenes/actividades/especies-locales.jpg)
 
 **Información:**
 - Archivo: 
@@ -2845,7 +2845,7 @@
 
 ### especies-que-usan-el-agua-inteligentemente.png
 
-![especies-que-usan-el-agua-inteligentemente.png](/fogata-recursos/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png)
+![especies-que-usan-el-agua-inteligentemente.png](/fogata-recursos/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.jpg)
 
 **Información:**
 - Archivo: 
@@ -2856,7 +2856,7 @@
 
 ### espectaculo-de-titeres-sobre-cuencas.png
 
-![espectaculo-de-titeres-sobre-cuencas.png](/fogata-recursos/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.png)
+![espectaculo-de-titeres-sobre-cuencas.png](/fogata-recursos/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2867,7 +2867,7 @@
 
 ### espiando-el-oceano.png
 
-![espiando-el-oceano.png](/fogata-recursos/imagenes/actividades/espiando-el-oceano.png)
+![espiando-el-oceano.png](/fogata-recursos/imagenes/actividades/espiando-el-oceano.jpg)
 
 **Información:**
 - Archivo: 
@@ -2878,7 +2878,7 @@
 
 ### estanque-biodiverso.png
 
-![estanque-biodiverso.png](/fogata-recursos/imagenes/actividades/estanque-biodiverso.png)
+![estanque-biodiverso.png](/fogata-recursos/imagenes/actividades/estanque-biodiverso.jpg)
 
 **Información:**
 - Archivo: 
@@ -2889,7 +2889,7 @@
 
 ### estrategias-de-termorregulacion.png
 
-![estrategias-de-termorregulacion.png](/fogata-recursos/imagenes/actividades/estrategias-de-termorregulacion.png)
+![estrategias-de-termorregulacion.png](/fogata-recursos/imagenes/actividades/estrategias-de-termorregulacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -2900,7 +2900,7 @@
 
 ### estudio-evolutivo.png
 
-![estudio-evolutivo.png](/fogata-recursos/imagenes/actividades/estudio-evolutivo.png)
+![estudio-evolutivo.png](/fogata-recursos/imagenes/actividades/estudio-evolutivo.jpg)
 
 **Información:**
 - Archivo: 
@@ -2911,7 +2911,7 @@
 
 ### estudios-salados.png
 
-![estudios-salados.png](/fogata-recursos/imagenes/actividades/estudios-salados.png)
+![estudios-salados.png](/fogata-recursos/imagenes/actividades/estudios-salados.jpg)
 
 **Información:**
 - Archivo: 
@@ -2922,7 +2922,7 @@
 
 ### evento-comunitario.png
 
-![evento-comunitario.png](/fogata-recursos/imagenes/actividades/evento-comunitario.png)
+![evento-comunitario.png](/fogata-recursos/imagenes/actividades/evento-comunitario.jpg)
 
 **Información:**
 - Archivo: 
@@ -2933,7 +2933,7 @@
 
 ### evitar-el-agua-embotellada.png
 
-![evitar-el-agua-embotellada.png](/fogata-recursos/imagenes/actividades/evitar-el-agua-embotellada.png)
+![evitar-el-agua-embotellada.png](/fogata-recursos/imagenes/actividades/evitar-el-agua-embotellada.jpg)
 
 **Información:**
 - Archivo: 
@@ -2944,7 +2944,7 @@
 
 ### evitar-viajes-aereos-innecesarios.png
 
-![evitar-viajes-aereos-innecesarios.png](/fogata-recursos/imagenes/actividades/evitar-viajes-aereos-innecesarios.png)
+![evitar-viajes-aereos-innecesarios.png](/fogata-recursos/imagenes/actividades/evitar-viajes-aereos-innecesarios.jpg)
 
 **Información:**
 - Archivo: 
@@ -2955,7 +2955,7 @@
 
 ### excursion-a-una-granja.png
 
-![excursion-a-una-granja.png](/fogata-recursos/imagenes/actividades/excursion-a-una-granja.png)
+![excursion-a-una-granja.png](/fogata-recursos/imagenes/actividades/excursion-a-una-granja.jpg)
 
 **Información:**
 - Archivo: 
@@ -2966,7 +2966,7 @@
 
 ### experimento-con-tipos-de-suelo.png
 
-![experimento-con-tipos-de-suelo.png](/fogata-recursos/imagenes/actividades/experimento-con-tipos-de-suelo.png)
+![experimento-con-tipos-de-suelo.png](/fogata-recursos/imagenes/actividades/experimento-con-tipos-de-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -2977,7 +2977,7 @@
 
 ### experimento-de-biogas.png
 
-![experimento-de-biogas.png](/fogata-recursos/imagenes/actividades/experimento-de-biogas.png)
+![experimento-de-biogas.png](/fogata-recursos/imagenes/actividades/experimento-de-biogas.jpg)
 
 **Información:**
 - Archivo: 
@@ -2988,7 +2988,7 @@
 
 ### experimento-de-crecimiento.png
 
-![experimento-de-crecimiento.png](/fogata-recursos/imagenes/actividades/experimento-de-crecimiento.png)
+![experimento-de-crecimiento.png](/fogata-recursos/imagenes/actividades/experimento-de-crecimiento.jpg)
 
 **Información:**
 - Archivo: 
@@ -2999,7 +2999,7 @@
 
 ### experimento-energetico.png
 
-![experimento-energetico.png](/fogata-recursos/imagenes/actividades/experimento-energetico.png)
+![experimento-energetico.png](/fogata-recursos/imagenes/actividades/experimento-energetico.jpg)
 
 **Información:**
 - Archivo: 
@@ -3010,7 +3010,7 @@
 
 ### exploracion-acuatica.png
 
-![exploracion-acuatica.png](/fogata-recursos/imagenes/actividades/exploracion-acuatica.png)
+![exploracion-acuatica.png](/fogata-recursos/imagenes/actividades/exploracion-acuatica.jpg)
 
 **Información:**
 - Archivo: 
@@ -3021,7 +3021,7 @@
 
 ### exploracion-de-biodiversidad-aerea-ramas.png
 
-![exploracion-de-biodiversidad-aerea-ramas.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png)
+![exploracion-de-biodiversidad-aerea-ramas.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3032,7 +3032,7 @@
 
 ### exploracion-de-biodiversidad-aerea-vecindario.png
 
-![exploracion-de-biodiversidad-aerea-vecindario.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png)
+![exploracion-de-biodiversidad-aerea-vecindario.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.jpg)
 
 **Información:**
 - Archivo: 
@@ -3043,7 +3043,7 @@
 
 ### exploracion-de-bosque.png
 
-![exploracion-de-bosque.png](/fogata-recursos/imagenes/actividades/exploracion-de-bosque.png)
+![exploracion-de-bosque.png](/fogata-recursos/imagenes/actividades/exploracion-de-bosque.jpg)
 
 **Información:**
 - Archivo: 
@@ -3054,7 +3054,7 @@
 
 ### exploracion-de-estanque.png
 
-![exploracion-de-estanque.png](/fogata-recursos/imagenes/actividades/exploracion-de-estanque.png)
+![exploracion-de-estanque.png](/fogata-recursos/imagenes/actividades/exploracion-de-estanque.jpg)
 
 **Información:**
 - Archivo: 
@@ -3065,7 +3065,7 @@
 
 ### exploracion-de-paginas-web.png
 
-![exploracion-de-paginas-web.png](/fogata-recursos/imagenes/actividades/exploracion-de-paginas-web.png)
+![exploracion-de-paginas-web.png](/fogata-recursos/imagenes/actividades/exploracion-de-paginas-web.jpg)
 
 **Información:**
 - Archivo: 
@@ -3076,7 +3076,7 @@
 
 ### exploracion-energetica.png
 
-![exploracion-energetica.png](/fogata-recursos/imagenes/actividades/exploracion-energetica.png)
+![exploracion-energetica.png](/fogata-recursos/imagenes/actividades/exploracion-energetica.jpg)
 
 **Información:**
 - Archivo: 
@@ -3087,7 +3087,7 @@
 
 ### exploracion-multisensorial.png
 
-![exploracion-multisensorial.png](/fogata-recursos/imagenes/actividades/exploracion-multisensorial.png)
+![exploracion-multisensorial.png](/fogata-recursos/imagenes/actividades/exploracion-multisensorial.jpg)
 
 **Información:**
 - Archivo: 
@@ -3098,7 +3098,7 @@
 
 ### fabulas-de-trabajo-en-equipo.png
 
-![fabulas-de-trabajo-en-equipo.png](/fogata-recursos/imagenes/actividades/fabulas-de-trabajo-en-equipo.png)
+![fabulas-de-trabajo-en-equipo.png](/fogata-recursos/imagenes/actividades/fabulas-de-trabajo-en-equipo.jpg)
 
 **Información:**
 - Archivo: 
@@ -3109,7 +3109,7 @@
 
 ### fiesta-de-mascaras-marinas.png
 
-![fiesta-de-mascaras-marinas.png](/fogata-recursos/imagenes/actividades/fiesta-de-mascaras-marinas.png)
+![fiesta-de-mascaras-marinas.png](/fogata-recursos/imagenes/actividades/fiesta-de-mascaras-marinas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3120,7 +3120,7 @@
 
 ### filtro-de-agua.png
 
-![filtro-de-agua.png](/fogata-recursos/imagenes/actividades/filtro-de-agua.png)
+![filtro-de-agua.png](/fogata-recursos/imagenes/actividades/filtro-de-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -3131,7 +3131,7 @@
 
 ### filtros-naturales.png
 
-![filtros-naturales.png](/fogata-recursos/imagenes/actividades/filtros-naturales.png)
+![filtros-naturales.png](/fogata-recursos/imagenes/actividades/filtros-naturales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3142,7 +3142,7 @@
 
 ### fondos-para-tu-favorito.png
 
-![fondos-para-tu-favorito.png](/fogata-recursos/imagenes/actividades/fondos-para-tu-favorito.png)
+![fondos-para-tu-favorito.png](/fogata-recursos/imagenes/actividades/fondos-para-tu-favorito.jpg)
 
 **Información:**
 - Archivo: 
@@ -3153,7 +3153,7 @@
 
 ### formas-de-energia.png
 
-![formas-de-energia.png](/fogata-recursos/imagenes/actividades/formas-de-energia.png)
+![formas-de-energia.png](/fogata-recursos/imagenes/actividades/formas-de-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -3164,7 +3164,7 @@
 
 ### fragmentacion-de-habitats.png
 
-![fragmentacion-de-habitats.png](/fogata-recursos/imagenes/actividades/fragmentacion-de-habitats.png)
+![fragmentacion-de-habitats.png](/fogata-recursos/imagenes/actividades/fragmentacion-de-habitats.jpg)
 
 **Información:**
 - Archivo: 
@@ -3175,7 +3175,7 @@
 
 ### frutas-y-verduras-favoritas.png
 
-![frutas-y-verduras-favoritas.png](/fogata-recursos/imagenes/actividades/frutas-y-verduras-favoritas.png)
+![frutas-y-verduras-favoritas.png](/fogata-recursos/imagenes/actividades/frutas-y-verduras-favoritas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3186,7 +3186,7 @@
 
 ### fuerzas-locales.png
 
-![fuerzas-locales.png](/fogata-recursos/imagenes/actividades/fuerzas-locales.png)
+![fuerzas-locales.png](/fogata-recursos/imagenes/actividades/fuerzas-locales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3197,7 +3197,7 @@
 
 ### galeria-de-arte-forestal.png
 
-![galeria-de-arte-forestal.png](/fogata-recursos/imagenes/actividades/galeria-de-arte-forestal.png)
+![galeria-de-arte-forestal.png](/fogata-recursos/imagenes/actividades/galeria-de-arte-forestal.jpg)
 
 **Información:**
 - Archivo: 
@@ -3208,7 +3208,7 @@
 
 ### general.png
 
-![general.png](/fogata-recursos/imagenes/actividades/general.png)
+![general.png](/fogata-recursos/imagenes/actividades/general.jpg)
 
 **Información:**
 - Archivo: 
@@ -3219,7 +3219,7 @@
 
 ### gobernanza.png
 
-![gobernanza.png](/fogata-recursos/imagenes/actividades/gobernanza.png)
+![gobernanza.png](/fogata-recursos/imagenes/actividades/gobernanza.jpg)
 
 **Información:**
 - Archivo: 
@@ -3230,7 +3230,7 @@
 
 ### gobernanza_1.png
 
-![gobernanza_1.png](/fogata-recursos/imagenes/actividades/gobernanza_1.png)
+![gobernanza_1.png](/fogata-recursos/imagenes/actividades/gobernanza_1.jpg)
 
 **Información:**
 - Archivo: 
@@ -3241,7 +3241,7 @@
 
 ### gobernanza_2.png
 
-![gobernanza_2.png](/fogata-recursos/imagenes/actividades/gobernanza_2.png)
+![gobernanza_2.png](/fogata-recursos/imagenes/actividades/gobernanza_2.jpg)
 
 **Información:**
 - Archivo: 
@@ -3252,7 +3252,7 @@
 
 ### graficos-del-suelo.png
 
-![graficos-del-suelo.png](/fogata-recursos/imagenes/actividades/graficos-del-suelo.png)
+![graficos-del-suelo.png](/fogata-recursos/imagenes/actividades/graficos-del-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -3263,7 +3263,7 @@
 
 ### guardabosques.png
 
-![guardabosques.png](/fogata-recursos/imagenes/actividades/guardabosques.png)
+![guardabosques.png](/fogata-recursos/imagenes/actividades/guardabosques.jpg)
 
 **Información:**
 - Archivo: 
@@ -3274,7 +3274,7 @@
 
 ### guia-de-campo-de-insectos.png
 
-![guia-de-campo-de-insectos.png](/fogata-recursos/imagenes/actividades/guia-de-campo-de-insectos.png)
+![guia-de-campo-de-insectos.png](/fogata-recursos/imagenes/actividades/guia-de-campo-de-insectos.jpg)
 
 **Información:**
 - Archivo: 
@@ -3285,7 +3285,7 @@
 
 ### guia-turistica.png
 
-![guia-turistica.png](/fogata-recursos/imagenes/actividades/guia-turistica.png)
+![guia-turistica.png](/fogata-recursos/imagenes/actividades/guia-turistica.jpg)
 
 **Información:**
 - Archivo: 
@@ -3296,7 +3296,7 @@
 
 ### guion-radiofonico.png
 
-![guion-radiofonico.png](/fogata-recursos/imagenes/actividades/guion-radiofonico.png)
+![guion-radiofonico.png](/fogata-recursos/imagenes/actividades/guion-radiofonico.jpg)
 
 **Información:**
 - Archivo: 
@@ -3307,7 +3307,7 @@
 
 ### habitantes-indigenas.png
 
-![habitantes-indigenas.png](/fogata-recursos/imagenes/actividades/habitantes-indigenas.png)
+![habitantes-indigenas.png](/fogata-recursos/imagenes/actividades/habitantes-indigenas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3318,7 +3318,7 @@
 
 ### habitats-en-la-naturaleza.png
 
-![habitats-en-la-naturaleza.png](/fogata-recursos/imagenes/actividades/habitats-en-la-naturaleza.png)
+![habitats-en-la-naturaleza.png](/fogata-recursos/imagenes/actividades/habitats-en-la-naturaleza.jpg)
 
 **Información:**
 - Archivo: 
@@ -3329,7 +3329,7 @@
 
 ### habitos-animales.png
 
-![habitos-animales.png](/fogata-recursos/imagenes/actividades/habitos-animales.png)
+![habitos-animales.png](/fogata-recursos/imagenes/actividades/habitos-animales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3340,7 +3340,7 @@
 
 ### hacer-papel-reciclado-casero.png
 
-![hacer-papel-reciclado-casero.png](/fogata-recursos/imagenes/actividades/hacer-papel-reciclado-casero.png)
+![hacer-papel-reciclado-casero.png](/fogata-recursos/imagenes/actividades/hacer-papel-reciclado-casero.jpg)
 
 **Información:**
 - Archivo: 
@@ -3351,7 +3351,7 @@
 
 ### hacer-tarjetas-con-materiales-reciclados.png
 
-![hacer-tarjetas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.png)
+![hacer-tarjetas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.jpg)
 
 **Información:**
 - Archivo: 
@@ -3362,7 +3362,7 @@
 
 ### hacer-tarjetas-sobre-el-ahorro-de-agua.png
 
-![hacer-tarjetas-sobre-el-ahorro-de-agua.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.png)
+![hacer-tarjetas-sobre-el-ahorro-de-agua.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -3373,7 +3373,7 @@
 
 ### hacer-un-collage-sobre-las-tres-r.png
 
-![hacer-un-collage-sobre-las-tres-r.png](/fogata-recursos/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.png)
+![hacer-un-collage-sobre-las-tres-r.png](/fogata-recursos/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.jpg)
 
 **Información:**
 - Archivo: 
@@ -3384,7 +3384,7 @@
 
 ### hacer-una-presentacion-sobre-habitos-sostenibles.png
 
-![hacer-una-presentacion-sobre-habitos-sostenibles.png](/fogata-recursos/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png)
+![hacer-una-presentacion-sobre-habitos-sostenibles.png](/fogata-recursos/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.jpg)
 
 **Información:**
 - Archivo: 
@@ -3395,7 +3395,7 @@
 
 ### haciendo-los-calculos.png
 
-![haciendo-los-calculos.png](/fogata-recursos/imagenes/actividades/haciendo-los-calculos.png)
+![haciendo-los-calculos.png](/fogata-recursos/imagenes/actividades/haciendo-los-calculos.jpg)
 
 **Información:**
 - Archivo: 
@@ -3406,7 +3406,7 @@
 
 ### hambre.png
 
-![hambre.png](/fogata-recursos/imagenes/actividades/hambre.png)
+![hambre.png](/fogata-recursos/imagenes/actividades/hambre.jpg)
 
 **Información:**
 - Archivo: 
@@ -3417,7 +3417,7 @@
 
 ### haz-una-caminata.png
 
-![haz-una-caminata.png](/fogata-recursos/imagenes/actividades/haz-una-caminata.png)
+![haz-una-caminata.png](/fogata-recursos/imagenes/actividades/haz-una-caminata.jpg)
 
 **Información:**
 - Archivo: 
@@ -3428,7 +3428,7 @@
 
 ### hierbas-comestibles-silvestres.png
 
-![hierbas-comestibles-silvestres.png](/fogata-recursos/imagenes/actividades/hierbas-comestibles-silvestres.png)
+![hierbas-comestibles-silvestres.png](/fogata-recursos/imagenes/actividades/hierbas-comestibles-silvestres.jpg)
 
 **Información:**
 - Archivo: 
@@ -3439,7 +3439,7 @@
 
 ### historiadores-del-clima.png
 
-![historiadores-del-clima.png](/fogata-recursos/imagenes/actividades/historiadores-del-clima.png)
+![historiadores-del-clima.png](/fogata-recursos/imagenes/actividades/historiadores-del-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -3450,7 +3450,7 @@
 
 ### historias-sobre-el-suelo.png
 
-![historias-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/historias-sobre-el-suelo.png)
+![historias-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/historias-sobre-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -3461,7 +3461,7 @@
 
 ### historias-solares.png
 
-![historias-solares.png](/fogata-recursos/imagenes/actividades/historias-solares.png)
+![historias-solares.png](/fogata-recursos/imagenes/actividades/historias-solares.jpg)
 
 **Información:**
 - Archivo: 
@@ -3472,7 +3472,7 @@
 
 ### hogar-dulce-hogar.png
 
-![hogar-dulce-hogar.png](/fogata-recursos/imagenes/actividades/hogar-dulce-hogar.png)
+![hogar-dulce-hogar.png](/fogata-recursos/imagenes/actividades/hogar-dulce-hogar.jpg)
 
 **Información:**
 - Archivo: 
@@ -3483,7 +3483,7 @@
 
 ### hora-de-limpiar.png
 
-![hora-de-limpiar.png](/fogata-recursos/imagenes/actividades/hora-de-limpiar.png)
+![hora-de-limpiar.png](/fogata-recursos/imagenes/actividades/hora-de-limpiar.jpg)
 
 **Información:**
 - Archivo: 
@@ -3494,7 +3494,7 @@
 
 ### horno-solar-cocina-solar.png
 
-![horno-solar-cocina-solar.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar.png)
+![horno-solar-cocina-solar.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -3505,7 +3505,7 @@
 
 ### horno-solar-cocina-solar2.png
 
-![horno-solar-cocina-solar2.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar2.png)
+![horno-solar-cocina-solar2.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar2.jpg)
 
 **Información:**
 - Archivo: 
@@ -3516,7 +3516,7 @@
 
 ### hotspots-de-biodiversidad.png
 
-![hotspots-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/hotspots-de-biodiversidad.png)
+![hotspots-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/hotspots-de-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -3527,7 +3527,7 @@
 
 ### huerto-comunitario.png
 
-![huerto-comunitario.png](/fogata-recursos/imagenes/actividades/huerto-comunitario.png)
+![huerto-comunitario.png](/fogata-recursos/imagenes/actividades/huerto-comunitario.jpg)
 
 **Información:**
 - Archivo: 
@@ -3538,7 +3538,7 @@
 
 ### hurga-en-la-tierra.png
 
-![hurga-en-la-tierra.png](/fogata-recursos/imagenes/actividades/hurga-en-la-tierra.png)
+![hurga-en-la-tierra.png](/fogata-recursos/imagenes/actividades/hurga-en-la-tierra.jpg)
 
 **Información:**
 - Archivo: 
@@ -3549,7 +3549,7 @@
 
 ### ideas-descabelladas.png
 
-![ideas-descabelladas.png](/fogata-recursos/imagenes/actividades/ideas-descabelladas.png)
+![ideas-descabelladas.png](/fogata-recursos/imagenes/actividades/ideas-descabelladas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3560,7 +3560,7 @@
 
 ### identificando-alternativas-a-los-plasticos.png
 
-![identificando-alternativas-a-los-plasticos.png](/fogata-recursos/imagenes/actividades/identificando-alternativas-a-los-plasticos.png)
+![identificando-alternativas-a-los-plasticos.png](/fogata-recursos/imagenes/actividades/identificando-alternativas-a-los-plasticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -3571,7 +3571,7 @@
 
 ### identificar-productos-sobre-empaquetados.png
 
-![identificar-productos-sobre-empaquetados.png](/fogata-recursos/imagenes/actividades/identificar-productos-sobre-empaquetados.png)
+![identificar-productos-sobre-empaquetados.png](/fogata-recursos/imagenes/actividades/identificar-productos-sobre-empaquetados.jpg)
 
 **Información:**
 - Archivo: 
@@ -3582,7 +3582,7 @@
 
 ### iluminando-y-empoderando.png
 
-![iluminando-y-empoderando.png](/fogata-recursos/imagenes/actividades/iluminando-y-empoderando.png)
+![iluminando-y-empoderando.png](/fogata-recursos/imagenes/actividades/iluminando-y-empoderando.jpg)
 
 **Información:**
 - Archivo: 
@@ -3593,7 +3593,7 @@
 
 ### impacto-del-cambio-climatico-en-la-agricultura.png
 
-![impacto-del-cambio-climatico-en-la-agricultura.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.png)
+![impacto-del-cambio-climatico-en-la-agricultura.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.jpg)
 
 **Información:**
 - Archivo: 
@@ -3604,7 +3604,7 @@
 
 ### impacto-del-cambio-climatico-en-la-alimentacion.png
 
-![impacto-del-cambio-climatico-en-la-alimentacion.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.png)
+![impacto-del-cambio-climatico-en-la-alimentacion.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -3615,7 +3615,7 @@
 
 ### impacto-del-cambio-climatico-en-mujeres-rurales.png
 
-![impacto-del-cambio-climatico-en-mujeres-rurales.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.png)
+![impacto-del-cambio-climatico-en-mujeres-rurales.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3626,7 +3626,7 @@
 
 ### impactos-sociales.png
 
-![impactos-sociales.png](/fogata-recursos/imagenes/actividades/impactos-sociales.png)
+![impactos-sociales.png](/fogata-recursos/imagenes/actividades/impactos-sociales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3637,7 +3637,7 @@
 
 ### impresiones-de-esporas-de-hongos.png
 
-![impresiones-de-esporas-de-hongos.png](/fogata-recursos/imagenes/actividades/impresiones-de-esporas-de-hongos.png)
+![impresiones-de-esporas-de-hongos.png](/fogata-recursos/imagenes/actividades/impresiones-de-esporas-de-hongos.jpg)
 
 **Información:**
 - Archivo: 
@@ -3648,7 +3648,7 @@
 
 ### increibles-animales-que-se-adaptan.png
 
-![increibles-animales-que-se-adaptan.png](/fogata-recursos/imagenes/actividades/increibles-animales-que-se-adaptan.png)
+![increibles-animales-que-se-adaptan.png](/fogata-recursos/imagenes/actividades/increibles-animales-que-se-adaptan.jpg)
 
 **Información:**
 - Archivo: 
@@ -3659,7 +3659,7 @@
 
 ### informe-de-prensa.png
 
-![informe-de-prensa.png](/fogata-recursos/imagenes/actividades/informe-de-prensa.png)
+![informe-de-prensa.png](/fogata-recursos/imagenes/actividades/informe-de-prensa.jpg)
 
 **Información:**
 - Archivo: 
@@ -3670,7 +3670,7 @@
 
 ### inicio-de-los-plasticos.png
 
-![inicio-de-los-plasticos.png](/fogata-recursos/imagenes/actividades/inicio-de-los-plasticos.png)
+![inicio-de-los-plasticos.png](/fogata-recursos/imagenes/actividades/inicio-de-los-plasticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -3681,7 +3681,7 @@
 
 ### inspeccion-de-salud.png
 
-![inspeccion-de-salud.png](/fogata-recursos/imagenes/actividades/inspeccion-de-salud.png)
+![inspeccion-de-salud.png](/fogata-recursos/imagenes/actividades/inspeccion-de-salud.jpg)
 
 **Información:**
 - Archivo: 
@@ -3692,7 +3692,7 @@
 
 ### inspiracion-literaria.png
 
-![inspiracion-literaria.png](/fogata-recursos/imagenes/actividades/inspiracion-literaria.png)
+![inspiracion-literaria.png](/fogata-recursos/imagenes/actividades/inspiracion-literaria.jpg)
 
 **Información:**
 - Archivo: 
@@ -3703,7 +3703,7 @@
 
 ### instalacion-de-paneles-solares.png
 
-![instalacion-de-paneles-solares.png](/fogata-recursos/imagenes/actividades/instalacion-de-paneles-solares.png)
+![instalacion-de-paneles-solares.png](/fogata-recursos/imagenes/actividades/instalacion-de-paneles-solares.jpg)
 
 **Información:**
 - Archivo: 
@@ -3714,7 +3714,7 @@
 
 ### intercambio-internacional-de-recetas.png
 
-![intercambio-internacional-de-recetas.png](/fogata-recursos/imagenes/actividades/intercambio-internacional-de-recetas.png)
+![intercambio-internacional-de-recetas.png](/fogata-recursos/imagenes/actividades/intercambio-internacional-de-recetas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3725,7 +3725,7 @@
 
 ### invasoras.png
 
-![invasoras.png](/fogata-recursos/imagenes/actividades/invasoras.png)
+![invasoras.png](/fogata-recursos/imagenes/actividades/invasoras.jpg)
 
 **Información:**
 - Archivo: 
@@ -3736,7 +3736,7 @@
 
 ### inventar-nuevos-usos-para-residuos.png
 
-![inventar-nuevos-usos-para-residuos.png](/fogata-recursos/imagenes/actividades/inventar-nuevos-usos-para-residuos.png)
+![inventar-nuevos-usos-para-residuos.png](/fogata-recursos/imagenes/actividades/inventar-nuevos-usos-para-residuos.jpg)
 
 **Información:**
 - Archivo: 
@@ -3747,7 +3747,7 @@
 
 ### inventar-un-juego-o-juguete-con-materiales-reciclados.png
 
-![inventar-un-juego-o-juguete-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.png)
+![inventar-un-juego-o-juguete-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.jpg)
 
 **Información:**
 - Archivo: 
@@ -3758,7 +3758,7 @@
 
 ### invernaculo-para-anfibios.png
 
-![invernaculo-para-anfibios.png](/fogata-recursos/imagenes/actividades/invernaculo-para-anfibios.png)
+![invernaculo-para-anfibios.png](/fogata-recursos/imagenes/actividades/invernaculo-para-anfibios.jpg)
 
 **Información:**
 - Archivo: 
@@ -3769,7 +3769,7 @@
 
 ### investigacion-geotermica.png
 
-![investigacion-geotermica.png](/fogata-recursos/imagenes/actividades/investigacion-geotermica.png)
+![investigacion-geotermica.png](/fogata-recursos/imagenes/actividades/investigacion-geotermica.jpg)
 
 **Información:**
 - Archivo: 
@@ -3780,7 +3780,7 @@
 
 ### investigaciones-elementales.png
 
-![investigaciones-elementales.png](/fogata-recursos/imagenes/actividades/investigaciones-elementales.png)
+![investigaciones-elementales.png](/fogata-recursos/imagenes/actividades/investigaciones-elementales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3791,7 +3791,7 @@
 
 ### investigaciones-tormentosas.png
 
-![investigaciones-tormentosas.png](/fogata-recursos/imagenes/actividades/investigaciones-tormentosas.png)
+![investigaciones-tormentosas.png](/fogata-recursos/imagenes/actividades/investigaciones-tormentosas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3802,7 +3802,7 @@
 
 ### investigaciones-urbanas.png
 
-![investigaciones-urbanas.png](/fogata-recursos/imagenes/actividades/investigaciones-urbanas.png)
+![investigaciones-urbanas.png](/fogata-recursos/imagenes/actividades/investigaciones-urbanas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3813,7 +3813,7 @@
 
 ### investigando-rocas.png
 
-![investigando-rocas.png](/fogata-recursos/imagenes/actividades/investigando-rocas.png)
+![investigando-rocas.png](/fogata-recursos/imagenes/actividades/investigando-rocas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3824,7 +3824,7 @@
 
 ### investigar-el-impacto-del-cambio-climatico-en-tu-area.png
 
-![investigar-el-impacto-del-cambio-climatico-en-tu-area.png](/fogata-recursos/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.png)
+![investigar-el-impacto-del-cambio-climatico-en-tu-area.png](/fogata-recursos/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.jpg)
 
 **Información:**
 - Archivo: 
@@ -3835,7 +3835,7 @@
 
 ### investigar-iniciativas-locales.png
 
-![investigar-iniciativas-locales.png](/fogata-recursos/imagenes/actividades/investigar-iniciativas-locales.png)
+![investigar-iniciativas-locales.png](/fogata-recursos/imagenes/actividades/investigar-iniciativas-locales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3846,7 +3846,7 @@
 
 ### investigar-la-vulnerabilidad-al-cambio-climatico.png
 
-![investigar-la-vulnerabilidad-al-cambio-climatico.png](/fogata-recursos/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png)
+![investigar-la-vulnerabilidad-al-cambio-climatico.png](/fogata-recursos/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -3857,7 +3857,7 @@
 
 ### investigar-productos-locales-y-naturales.png
 
-![investigar-productos-locales-y-naturales.png](/fogata-recursos/imagenes/actividades/investigar-productos-locales-y-naturales.png)
+![investigar-productos-locales-y-naturales.png](/fogata-recursos/imagenes/actividades/investigar-productos-locales-y-naturales.jpg)
 
 **Información:**
 - Archivo: 
@@ -3868,7 +3868,7 @@
 
 ### jardineria-verde.png
 
-![jardineria-verde.png](/fogata-recursos/imagenes/actividades/jardineria-verde.png)
+![jardineria-verde.png](/fogata-recursos/imagenes/actividades/jardineria-verde.jpg)
 
 **Información:**
 - Archivo: 
@@ -3879,7 +3879,7 @@
 
 ### jarra-de-efecto-invernadero.png
 
-![jarra-de-efecto-invernadero.png](/fogata-recursos/imagenes/actividades/jarra-de-efecto-invernadero.png)
+![jarra-de-efecto-invernadero.png](/fogata-recursos/imagenes/actividades/jarra-de-efecto-invernadero.jpg)
 
 **Información:**
 - Archivo: 
@@ -3890,7 +3890,7 @@
 
 ### juega-a-salvar-el-oceano.png
 
-![juega-a-salvar-el-oceano.png](/fogata-recursos/imagenes/actividades/juega-a-salvar-el-oceano.png)
+![juega-a-salvar-el-oceano.png](/fogata-recursos/imagenes/actividades/juega-a-salvar-el-oceano.jpg)
 
 **Información:**
 - Archivo: 
@@ -3901,7 +3901,7 @@
 
 ### juego-de-adivinanza.png
 
-![juego-de-adivinanza.png](/fogata-recursos/imagenes/actividades/juego-de-adivinanza.png)
+![juego-de-adivinanza.png](/fogata-recursos/imagenes/actividades/juego-de-adivinanza.jpg)
 
 **Información:**
 - Archivo: 
@@ -3912,7 +3912,7 @@
 
 ### juego-de-la-energia.png
 
-![juego-de-la-energia.png](/fogata-recursos/imagenes/actividades/juego-de-la-energia.png)
+![juego-de-la-energia.png](/fogata-recursos/imagenes/actividades/juego-de-la-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -3923,7 +3923,7 @@
 
 ### juego-de-semillas.png
 
-![juego-de-semillas.png](/fogata-recursos/imagenes/actividades/juego-de-semillas.png)
+![juego-de-semillas.png](/fogata-recursos/imagenes/actividades/juego-de-semillas.jpg)
 
 **Información:**
 - Archivo: 
@@ -3934,7 +3934,7 @@
 
 ### juego-sobre-biodiversidad.png
 
-![juego-sobre-biodiversidad.png](/fogata-recursos/imagenes/actividades/juego-sobre-biodiversidad.png)
+![juego-sobre-biodiversidad.png](/fogata-recursos/imagenes/actividades/juego-sobre-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -3945,7 +3945,7 @@
 
 ### la-ciencia-del-agua.png
 
-![la-ciencia-del-agua.png](/fogata-recursos/imagenes/actividades/la-ciencia-del-agua.png)
+![la-ciencia-del-agua.png](/fogata-recursos/imagenes/actividades/la-ciencia-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -3956,7 +3956,7 @@
 
 ### la-hora-del-planeta.png
 
-![la-hora-del-planeta.png](/fogata-recursos/imagenes/actividades/la-hora-del-planeta.png)
+![la-hora-del-planeta.png](/fogata-recursos/imagenes/actividades/la-hora-del-planeta.jpg)
 
 **Información:**
 - Archivo: 
@@ -3967,7 +3967,7 @@
 
 ### la-ola-verde.png
 
-![la-ola-verde.png](/fogata-recursos/imagenes/actividades/la-ola-verde.png)
+![la-ola-verde.png](/fogata-recursos/imagenes/actividades/la-ola-verde.jpg)
 
 **Información:**
 - Archivo: 
@@ -3978,7 +3978,7 @@
 
 ### la-red-de-vida.png
 
-![la-red-de-vida.png](/fogata-recursos/imagenes/actividades/la-red-de-vida.png)
+![la-red-de-vida.png](/fogata-recursos/imagenes/actividades/la-red-de-vida.jpg)
 
 **Información:**
 - Archivo: 
@@ -3989,7 +3989,7 @@
 
 ### la-seguridad-es-primero.png
 
-![la-seguridad-es-primero.png](/fogata-recursos/imagenes/actividades/la-seguridad-es-primero.png)
+![la-seguridad-es-primero.png](/fogata-recursos/imagenes/actividades/la-seguridad-es-primero.jpg)
 
 **Información:**
 - Archivo: 
@@ -4000,7 +4000,7 @@
 
 ### la-vida-en-los-arboles.png
 
-![la-vida-en-los-arboles.png](/fogata-recursos/imagenes/actividades/la-vida-en-los-arboles.png)
+![la-vida-en-los-arboles.png](/fogata-recursos/imagenes/actividades/la-vida-en-los-arboles.jpg)
 
 **Información:**
 - Archivo: 
@@ -4011,7 +4011,7 @@
 
 ### las-capas-del-bosque.png
 
-![las-capas-del-bosque.png](/fogata-recursos/imagenes/actividades/las-capas-del-bosque.png)
+![las-capas-del-bosque.png](/fogata-recursos/imagenes/actividades/las-capas-del-bosque.jpg)
 
 **Información:**
 - Archivo: 
@@ -4022,7 +4022,7 @@
 
 ### las-huellas-de-plastico-mas-grandes.png
 
-![las-huellas-de-plastico-mas-grandes.png](/fogata-recursos/imagenes/actividades/las-huellas-de-plastico-mas-grandes.png)
+![las-huellas-de-plastico-mas-grandes.png](/fogata-recursos/imagenes/actividades/las-huellas-de-plastico-mas-grandes.jpg)
 
 **Información:**
 - Archivo: 
@@ -4033,7 +4033,7 @@
 
 ### lavando-la-tierra.png
 
-![lavando-la-tierra.png](/fogata-recursos/imagenes/actividades/lavando-la-tierra.png)
+![lavando-la-tierra.png](/fogata-recursos/imagenes/actividades/lavando-la-tierra.jpg)
 
 **Información:**
 - Archivo: 
@@ -4044,7 +4044,7 @@
 
 ### lavar-la-ropa-de-manera-eficiente.png
 
-![lavar-la-ropa-de-manera-eficiente.png](/fogata-recursos/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png)
+![lavar-la-ropa-de-manera-eficiente.png](/fogata-recursos/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.jpg)
 
 **Información:**
 - Archivo: 
@@ -4055,7 +4055,7 @@
 
 ### lentes-solares.png
 
-![lentes-solares.png](/fogata-recursos/imagenes/actividades/lentes-solares.png)
+![lentes-solares.png](/fogata-recursos/imagenes/actividades/lentes-solares.jpg)
 
 **Información:**
 - Archivo: 
@@ -4066,7 +4066,7 @@
 
 ### letreros-de-conservacion.png
 
-![letreros-de-conservacion.png](/fogata-recursos/imagenes/actividades/letreros-de-conservacion.png)
+![letreros-de-conservacion.png](/fogata-recursos/imagenes/actividades/letreros-de-conservacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -4077,7 +4077,7 @@
 
 ### limpieza-de-playa.png
 
-![limpieza-de-playa.png](/fogata-recursos/imagenes/actividades/limpieza-de-playa.png)
+![limpieza-de-playa.png](/fogata-recursos/imagenes/actividades/limpieza-de-playa.jpg)
 
 **Información:**
 - Archivo: 
@@ -4088,7 +4088,7 @@
 
 ### lista-de-seguridad-electrica.png
 
-![lista-de-seguridad-electrica.png](/fogata-recursos/imagenes/actividades/lista-de-seguridad-electrica.png)
+![lista-de-seguridad-electrica.png](/fogata-recursos/imagenes/actividades/lista-de-seguridad-electrica.jpg)
 
 **Información:**
 - Archivo: 
@@ -4099,7 +4099,7 @@
 
 ### lista-de-verificacion-de-la-huella-ecologica.png
 
-![lista-de-verificacion-de-la-huella-ecologica.png](/fogata-recursos/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png)
+![lista-de-verificacion-de-la-huella-ecologica.png](/fogata-recursos/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.jpg)
 
 **Información:**
 - Archivo: 
@@ -4110,7 +4110,7 @@
 
 ### logrando-los-ods.png
 
-![logrando-los-ods.png](/fogata-recursos/imagenes/actividades/logrando-los-ods.png)
+![logrando-los-ods.png](/fogata-recursos/imagenes/actividades/logrando-los-ods.jpg)
 
 **Información:**
 - Archivo: 
@@ -4121,7 +4121,7 @@
 
 ### los-biomas-son-hogares.png
 
-![los-biomas-son-hogares.png](/fogata-recursos/imagenes/actividades/los-biomas-son-hogares.png)
+![los-biomas-son-hogares.png](/fogata-recursos/imagenes/actividades/los-biomas-son-hogares.jpg)
 
 **Información:**
 - Archivo: 
@@ -4132,7 +4132,7 @@
 
 ### los-bosques-bajo-amenaza.png
 
-![los-bosques-bajo-amenaza.png](/fogata-recursos/imagenes/actividades/los-bosques-bajo-amenaza.png)
+![los-bosques-bajo-amenaza.png](/fogata-recursos/imagenes/actividades/los-bosques-bajo-amenaza.jpg)
 
 **Información:**
 - Archivo: 
@@ -4143,7 +4143,7 @@
 
 ### los-bosques-y-el-cambio-climatico.png
 
-![los-bosques-y-el-cambio-climatico.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-cambio-climatico.png)
+![los-bosques-y-el-cambio-climatico.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -4154,7 +4154,7 @@
 
 ### los-bosques-y-el-fuego.png
 
-![los-bosques-y-el-fuego.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-fuego.png)
+![los-bosques-y-el-fuego.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-fuego.jpg)
 
 **Información:**
 - Archivo: 
@@ -4165,7 +4165,7 @@
 
 ### los-bosques-y-las-nn-uu.png
 
-![los-bosques-y-las-nn-uu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-las-nn-uu.png)
+![los-bosques-y-las-nn-uu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-las-nn-uu.jpg)
 
 **Información:**
 - Archivo: 
@@ -4176,7 +4176,7 @@
 
 ### los-bosques-y-tu.png
 
-![los-bosques-y-tu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-tu.png)
+![los-bosques-y-tu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-tu.jpg)
 
 **Información:**
 - Archivo: 
@@ -4187,7 +4187,7 @@
 
 ### los-colores-de-la-energia-solar.png
 
-![los-colores-de-la-energia-solar.png](/fogata-recursos/imagenes/actividades/los-colores-de-la-energia-solar.png)
+![los-colores-de-la-energia-solar.png](/fogata-recursos/imagenes/actividades/los-colores-de-la-energia-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -4198,7 +4198,7 @@
 
 ### los-colores-del-agua.png
 
-![los-colores-del-agua.png](/fogata-recursos/imagenes/actividades/los-colores-del-agua.png)
+![los-colores-del-agua.png](/fogata-recursos/imagenes/actividades/los-colores-del-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -4209,7 +4209,7 @@
 
 ### lupa.png
 
-![lupa.png](/fogata-recursos/imagenes/actividades/lupa.png)
+![lupa.png](/fogata-recursos/imagenes/actividades/lupa.jpg)
 
 **Información:**
 - Archivo: 
@@ -4220,7 +4220,7 @@
 
 ### macetas-de-botellas.png
 
-![macetas-de-botellas.png](/fogata-recursos/imagenes/actividades/macetas-de-botellas.png)
+![macetas-de-botellas.png](/fogata-recursos/imagenes/actividades/macetas-de-botellas.jpg)
 
 **Información:**
 - Archivo: 
@@ -4231,7 +4231,7 @@
 
 ### mantenerla-limpia.png
 
-![mantenerla-limpia.png](/fogata-recursos/imagenes/actividades/mantenerla-limpia.png)
+![mantenerla-limpia.png](/fogata-recursos/imagenes/actividades/mantenerla-limpia.jpg)
 
 **Información:**
 - Archivo: 
@@ -4242,7 +4242,7 @@
 
 ### manualidad-de-mosaico-de-tapas-de-botella.png
 
-![manualidad-de-mosaico-de-tapas-de-botella.png](/fogata-recursos/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png)
+![manualidad-de-mosaico-de-tapas-de-botella.png](/fogata-recursos/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.jpg)
 
 **Información:**
 - Archivo: 
@@ -4253,7 +4253,7 @@
 
 ### mapa-de-contaminacion-local.png
 
-![mapa-de-contaminacion-local.png](/fogata-recursos/imagenes/actividades/mapa-de-contaminacion-local.png)
+![mapa-de-contaminacion-local.png](/fogata-recursos/imagenes/actividades/mapa-de-contaminacion-local.jpg)
 
 **Información:**
 - Archivo: 
@@ -4264,7 +4264,7 @@
 
 ### mapea-el-impacto.png
 
-![mapea-el-impacto.png](/fogata-recursos/imagenes/actividades/mapea-el-impacto.png)
+![mapea-el-impacto.png](/fogata-recursos/imagenes/actividades/mapea-el-impacto.jpg)
 
 **Información:**
 - Archivo: 
@@ -4275,7 +4275,7 @@
 
 ### maravillas-agusanadas.png
 
-![maravillas-agusanadas.png](/fogata-recursos/imagenes/actividades/maravillas-agusanadas.png)
+![maravillas-agusanadas.png](/fogata-recursos/imagenes/actividades/maravillas-agusanadas.jpg)
 
 **Información:**
 - Archivo: 
@@ -4286,7 +4286,7 @@
 
 ### medios-de-subsistencia-alternativos.png
 
-![medios-de-subsistencia-alternativos.png](/fogata-recursos/imagenes/actividades/medios-de-subsistencia-alternativos.png)
+![medios-de-subsistencia-alternativos.png](/fogata-recursos/imagenes/actividades/medios-de-subsistencia-alternativos.jpg)
 
 **Información:**
 - Archivo: 
@@ -4297,7 +4297,7 @@
 
 ### medios-sociales.png
 
-![medios-sociales.png](/fogata-recursos/imagenes/actividades/medios-sociales.png)
+![medios-sociales.png](/fogata-recursos/imagenes/actividades/medios-sociales.jpg)
 
 **Información:**
 - Archivo: 
@@ -4308,7 +4308,7 @@
 
 ### meditaciones-en-el-museo.png
 
-![meditaciones-en-el-museo.png](/fogata-recursos/imagenes/actividades/meditaciones-en-el-museo.png)
+![meditaciones-en-el-museo.png](/fogata-recursos/imagenes/actividades/meditaciones-en-el-museo.jpg)
 
 **Información:**
 - Archivo: 
@@ -4319,7 +4319,7 @@
 
 ### menos-basura.png
 
-![menos-basura.png](/fogata-recursos/imagenes/actividades/menos-basura.png)
+![menos-basura.png](/fogata-recursos/imagenes/actividades/menos-basura.jpg)
 
 **Información:**
 - Archivo: 
@@ -4330,7 +4330,7 @@
 
 ### menu-sin-polinizadores.png
 
-![menu-sin-polinizadores.png](/fogata-recursos/imagenes/actividades/menu-sin-polinizadores.png)
+![menu-sin-polinizadores.png](/fogata-recursos/imagenes/actividades/menu-sin-polinizadores.jpg)
 
 **Información:**
 - Archivo: 
@@ -4341,7 +4341,7 @@
 
 ### mi-huella-de-carbono.png
 
-![mi-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/mi-huella-de-carbono.png)
+![mi-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/mi-huella-de-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -4352,7 +4352,7 @@
 
 ### midamos-la-energia.png
 
-![midamos-la-energia.png](/fogata-recursos/imagenes/actividades/midamos-la-energia.png)
+![midamos-la-energia.png](/fogata-recursos/imagenes/actividades/midamos-la-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -4363,7 +4363,7 @@
 
 ### midiendo-el-clima.png
 
-![midiendo-el-clima.png](/fogata-recursos/imagenes/actividades/midiendo-el-clima.png)
+![midiendo-el-clima.png](/fogata-recursos/imagenes/actividades/midiendo-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -4374,7 +4374,7 @@
 
 ### mimica-de-agua.png
 
-![mimica-de-agua.png](/fogata-recursos/imagenes/actividades/mimica-de-agua.png)
+![mimica-de-agua.png](/fogata-recursos/imagenes/actividades/mimica-de-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -4385,7 +4385,7 @@
 
 ### minimo-impacto-a-la-naturaleza.png
 
-![minimo-impacto-a-la-naturaleza.png](/fogata-recursos/imagenes/actividades/minimo-impacto-a-la-naturaleza.png)
+![minimo-impacto-a-la-naturaleza.png](/fogata-recursos/imagenes/actividades/minimo-impacto-a-la-naturaleza.jpg)
 
 **Información:**
 - Archivo: 
@@ -4396,7 +4396,7 @@
 
 ### moda-sostenible.png
 
-![moda-sostenible.png](/fogata-recursos/imagenes/actividades/moda-sostenible.png)
+![moda-sostenible.png](/fogata-recursos/imagenes/actividades/moda-sostenible.jpg)
 
 **Información:**
 - Archivo: 
@@ -4407,7 +4407,7 @@
 
 ### modelo-de-cuenca-hidrografica.png
 
-![modelo-de-cuenca-hidrografica.png](/fogata-recursos/imagenes/actividades/modelo-de-cuenca-hidrografica.png)
+![modelo-de-cuenca-hidrografica.png](/fogata-recursos/imagenes/actividades/modelo-de-cuenca-hidrografica.jpg)
 
 **Información:**
 - Archivo: 
@@ -4418,7 +4418,7 @@
 
 ### modelo-de-generacion-energetica.png
 
-![modelo-de-generacion-energetica.png](/fogata-recursos/imagenes/actividades/modelo-de-generacion-energetica.png)
+![modelo-de-generacion-energetica.png](/fogata-recursos/imagenes/actividades/modelo-de-generacion-energetica.jpg)
 
 **Información:**
 - Archivo: 
@@ -4429,7 +4429,7 @@
 
 ### monitoreo-de-mis-residuos.png
 
-![monitoreo-de-mis-residuos.png](/fogata-recursos/imagenes/actividades/monitoreo-de-mis-residuos.png)
+![monitoreo-de-mis-residuos.png](/fogata-recursos/imagenes/actividades/monitoreo-de-mis-residuos.jpg)
 
 **Información:**
 - Archivo: 
@@ -4440,7 +4440,7 @@
 
 ### monologos.png
 
-![monologos.png](/fogata-recursos/imagenes/actividades/monologos.png)
+![monologos.png](/fogata-recursos/imagenes/actividades/monologos.jpg)
 
 **Información:**
 - Archivo: 
@@ -4451,7 +4451,7 @@
 
 ### mostrando-algo-bueno.png
 
-![mostrando-algo-bueno.png](/fogata-recursos/imagenes/actividades/mostrando-algo-bueno.png)
+![mostrando-algo-bueno.png](/fogata-recursos/imagenes/actividades/mostrando-algo-bueno.jpg)
 
 **Información:**
 - Archivo: 
@@ -4462,7 +4462,7 @@
 
 ### mundo-de-carbono.png
 
-![mundo-de-carbono.png](/fogata-recursos/imagenes/actividades/mundo-de-carbono.png)
+![mundo-de-carbono.png](/fogata-recursos/imagenes/actividades/mundo-de-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -4473,7 +4473,7 @@
 
 ### necesidades-y-deseos.png
 
-![necesidades-y-deseos.png](/fogata-recursos/imagenes/actividades/necesidades-y-deseos.png)
+![necesidades-y-deseos.png](/fogata-recursos/imagenes/actividades/necesidades-y-deseos.jpg)
 
 **Información:**
 - Archivo: 
@@ -4484,7 +4484,7 @@
 
 ### no-madereros-y-no-son-buenos.png
 
-![no-madereros-y-no-son-buenos.png](/fogata-recursos/imagenes/actividades/no-madereros-y-no-son-buenos.png)
+![no-madereros-y-no-son-buenos.png](/fogata-recursos/imagenes/actividades/no-madereros-y-no-son-buenos.jpg)
 
 **Información:**
 - Archivo: 
@@ -4495,7 +4495,7 @@
 
 ### noche-de-cine.png
 
-![noche-de-cine.png](/fogata-recursos/imagenes/actividades/noche-de-cine.png)
+![noche-de-cine.png](/fogata-recursos/imagenes/actividades/noche-de-cine.jpg)
 
 **Información:**
 - Archivo: 
@@ -4506,7 +4506,7 @@
 
 ### noche-de-cine2.png
 
-![noche-de-cine2.png](/fogata-recursos/imagenes/actividades/noche-de-cine2.png)
+![noche-de-cine2.png](/fogata-recursos/imagenes/actividades/noche-de-cine2.jpg)
 
 **Información:**
 - Archivo: 
@@ -4517,7 +4517,7 @@
 
 ### noche-de-cine3.png
 
-![noche-de-cine3.png](/fogata-recursos/imagenes/actividades/noche-de-cine3.png)
+![noche-de-cine3.png](/fogata-recursos/imagenes/actividades/noche-de-cine3.jpg)
 
 **Información:**
 - Archivo: 
@@ -4528,7 +4528,7 @@
 
 ### noche-de-cine4.png
 
-![noche-de-cine4.png](/fogata-recursos/imagenes/actividades/noche-de-cine4.png)
+![noche-de-cine4.png](/fogata-recursos/imagenes/actividades/noche-de-cine4.jpg)
 
 **Información:**
 - Archivo: 
@@ -4539,7 +4539,7 @@
 
 ### nuestro-planeta.png
 
-![nuestro-planeta.png](/fogata-recursos/imagenes/actividades/nuestro-planeta.png)
+![nuestro-planeta.png](/fogata-recursos/imagenes/actividades/nuestro-planeta.jpg)
 
 **Información:**
 - Archivo: 
@@ -4550,7 +4550,7 @@
 
 ### nutricion_1.png
 
-![nutricion_1.png](/fogata-recursos/imagenes/actividades/nutricion_1.png)
+![nutricion_1.png](/fogata-recursos/imagenes/actividades/nutricion_1.jpg)
 
 **Información:**
 - Archivo: 
@@ -4561,7 +4561,7 @@
 
 ### observa-tu-agua.png
 
-![observa-tu-agua.png](/fogata-recursos/imagenes/actividades/observa-tu-agua.png)
+![observa-tu-agua.png](/fogata-recursos/imagenes/actividades/observa-tu-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -4572,7 +4572,7 @@
 
 ### observaciones-astronomicas.png
 
-![observaciones-astronomicas.png](/fogata-recursos/imagenes/actividades/observaciones-astronomicas.png)
+![observaciones-astronomicas.png](/fogata-recursos/imagenes/actividades/observaciones-astronomicas.jpg)
 
 **Información:**
 - Archivo: 
@@ -4583,7 +4583,7 @@
 
 ### observando-el-tiempo.png
 
-![observando-el-tiempo.png](/fogata-recursos/imagenes/actividades/observando-el-tiempo.png)
+![observando-el-tiempo.png](/fogata-recursos/imagenes/actividades/observando-el-tiempo.jpg)
 
 **Información:**
 - Archivo: 
@@ -4594,7 +4594,7 @@
 
 ### observar-el-medidor-de-agua.png
 
-![observar-el-medidor-de-agua.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-agua.png)
+![observar-el-medidor-de-agua.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -4605,7 +4605,7 @@
 
 ### observar-el-medidor-de-electricidad.png
 
-![observar-el-medidor-de-electricidad.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-electricidad.png)
+![observar-el-medidor-de-electricidad.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-electricidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -4616,7 +4616,7 @@
 
 ### operacion-contra-la-basura.png
 
-![operacion-contra-la-basura.png](/fogata-recursos/imagenes/actividades/operacion-contra-la-basura.png)
+![operacion-contra-la-basura.png](/fogata-recursos/imagenes/actividades/operacion-contra-la-basura.jpg)
 
 **Información:**
 - Archivo: 
@@ -4627,7 +4627,7 @@
 
 ### optimizar-el-uso-del-refrigerador.png
 
-![optimizar-el-uso-del-refrigerador.png](/fogata-recursos/imagenes/actividades/optimizar-el-uso-del-refrigerador.png)
+![optimizar-el-uso-del-refrigerador.png](/fogata-recursos/imagenes/actividades/optimizar-el-uso-del-refrigerador.jpg)
 
 **Información:**
 - Archivo: 
@@ -4638,7 +4638,7 @@
 
 ### organizador-comunitario.png
 
-![organizador-comunitario.png](/fogata-recursos/imagenes/actividades/organizador-comunitario.png)
+![organizador-comunitario.png](/fogata-recursos/imagenes/actividades/organizador-comunitario.jpg)
 
 **Información:**
 - Archivo: 
@@ -4649,7 +4649,7 @@
 
 ### organizandote.png
 
-![organizandote.png](/fogata-recursos/imagenes/actividades/organizandote.png)
+![organizandote.png](/fogata-recursos/imagenes/actividades/organizandote.jpg)
 
 **Información:**
 - Archivo: 
@@ -4660,7 +4660,7 @@
 
 ### organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png
 
-![organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png](/fogata-recursos/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png)
+![organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png](/fogata-recursos/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -4671,7 +4671,7 @@
 
 ### organizar-un-bazar-de-intercambio-de-reciclaje.png
 
-![organizar-un-bazar-de-intercambio-de-reciclaje.png](/fogata-recursos/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png)
+![organizar-un-bazar-de-intercambio-de-reciclaje.png](/fogata-recursos/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.jpg)
 
 **Información:**
 - Archivo: 
@@ -4682,7 +4682,7 @@
 
 ### organizar-un-campamento-sostenible.png
 
-![organizar-un-campamento-sostenible.png](/fogata-recursos/imagenes/actividades/organizar-un-campamento-sostenible.png)
+![organizar-un-campamento-sostenible.png](/fogata-recursos/imagenes/actividades/organizar-un-campamento-sostenible.jpg)
 
 **Información:**
 - Archivo: 
@@ -4693,7 +4693,7 @@
 
 ### organizar-un-evento-benefico.png
 
-![organizar-un-evento-benefico.png](/fogata-recursos/imagenes/actividades/organizar-un-evento-benefico.png)
+![organizar-un-evento-benefico.png](/fogata-recursos/imagenes/actividades/organizar-un-evento-benefico.jpg)
 
 **Información:**
 - Archivo: 
@@ -4704,7 +4704,7 @@
 
 ### organizar-una-colecta-de-donaciones.png
 
-![organizar-una-colecta-de-donaciones.png](/fogata-recursos/imagenes/actividades/organizar-una-colecta-de-donaciones.png)
+![organizar-una-colecta-de-donaciones.png](/fogata-recursos/imagenes/actividades/organizar-una-colecta-de-donaciones.jpg)
 
 **Información:**
 - Archivo: 
@@ -4715,7 +4715,7 @@
 
 ### ozono-y-quemaduras-de-sol.png
 
-![ozono-y-quemaduras-de-sol.png](/fogata-recursos/imagenes/actividades/ozono-y-quemaduras-de-sol.png)
+![ozono-y-quemaduras-de-sol.png](/fogata-recursos/imagenes/actividades/ozono-y-quemaduras-de-sol.jpg)
 
 **Información:**
 - Archivo: 
@@ -4726,7 +4726,7 @@
 
 ### paisaje-local.png
 
-![paisaje-local.png](/fogata-recursos/imagenes/actividades/paisaje-local.png)
+![paisaje-local.png](/fogata-recursos/imagenes/actividades/paisaje-local.jpg)
 
 **Información:**
 - Archivo: 
@@ -4737,7 +4737,7 @@
 
 ### pan-con-burbujas.png
 
-![pan-con-burbujas.png](/fogata-recursos/imagenes/actividades/pan-con-burbujas.png)
+![pan-con-burbujas.png](/fogata-recursos/imagenes/actividades/pan-con-burbujas.jpg)
 
 **Información:**
 - Archivo: 
@@ -4748,7 +4748,7 @@
 
 ### pasa-la-voz.png
 
-![pasa-la-voz.png](/fogata-recursos/imagenes/actividades/pasa-la-voz.png)
+![pasa-la-voz.png](/fogata-recursos/imagenes/actividades/pasa-la-voz.jpg)
 
 **Información:**
 - Archivo: 
@@ -4759,7 +4759,7 @@
 
 ### pasteles-de-lodo.png
 
-![pasteles-de-lodo.png](/fogata-recursos/imagenes/actividades/pasteles-de-lodo.png)
+![pasteles-de-lodo.png](/fogata-recursos/imagenes/actividades/pasteles-de-lodo.jpg)
 
 **Información:**
 - Archivo: 
@@ -4770,7 +4770,7 @@
 
 ### patitas-limpias.png
 
-![patitas-limpias.png](/fogata-recursos/imagenes/actividades/patitas-limpias.png)
+![patitas-limpias.png](/fogata-recursos/imagenes/actividades/patitas-limpias.jpg)
 
 **Información:**
 - Archivo: 
@@ -4781,7 +4781,7 @@
 
 ### patitas-limpias_1.png
 
-![patitas-limpias_1.png](/fogata-recursos/imagenes/actividades/patitas-limpias_1.png)
+![patitas-limpias_1.png](/fogata-recursos/imagenes/actividades/patitas-limpias_1.jpg)
 
 **Información:**
 - Archivo: 
@@ -4792,7 +4792,7 @@
 
 ### patitas-limpias_2.png
 
-![patitas-limpias_2.png](/fogata-recursos/imagenes/actividades/patitas-limpias_2.png)
+![patitas-limpias_2.png](/fogata-recursos/imagenes/actividades/patitas-limpias_2.jpg)
 
 **Información:**
 - Archivo: 
@@ -4803,7 +4803,7 @@
 
 ### patitas-limpias_3.png
 
-![patitas-limpias_3.png](/fogata-recursos/imagenes/actividades/patitas-limpias_3.png)
+![patitas-limpias_3.png](/fogata-recursos/imagenes/actividades/patitas-limpias_3.jpg)
 
 **Información:**
 - Archivo: 
@@ -4814,7 +4814,7 @@
 
 ### patitas-limpias_4.png
 
-![patitas-limpias_4.png](/fogata-recursos/imagenes/actividades/patitas-limpias_4.png)
+![patitas-limpias_4.png](/fogata-recursos/imagenes/actividades/patitas-limpias_4.jpg)
 
 **Información:**
 - Archivo: 
@@ -4825,7 +4825,7 @@
 
 ### patitas-limpias_5.png
 
-![patitas-limpias_5.png](/fogata-recursos/imagenes/actividades/patitas-limpias_5.png)
+![patitas-limpias_5.png](/fogata-recursos/imagenes/actividades/patitas-limpias_5.jpg)
 
 **Información:**
 - Archivo: 
@@ -4836,7 +4836,7 @@
 
 ### patitas-limpias_6.png
 
-![patitas-limpias_6.png](/fogata-recursos/imagenes/actividades/patitas-limpias_6.png)
+![patitas-limpias_6.png](/fogata-recursos/imagenes/actividades/patitas-limpias_6.jpg)
 
 **Información:**
 - Archivo: 
@@ -4847,7 +4847,7 @@
 
 ### patitas-limpias_7.png
 
-![patitas-limpias_7.png](/fogata-recursos/imagenes/actividades/patitas-limpias_7.png)
+![patitas-limpias_7.png](/fogata-recursos/imagenes/actividades/patitas-limpias_7.jpg)
 
 **Información:**
 - Archivo: 
@@ -4858,7 +4858,7 @@
 
 ### patitas-limpias_8.png
 
-![patitas-limpias_8.png](/fogata-recursos/imagenes/actividades/patitas-limpias_8.png)
+![patitas-limpias_8.png](/fogata-recursos/imagenes/actividades/patitas-limpias_8.jpg)
 
 **Información:**
 - Archivo: 
@@ -4869,7 +4869,7 @@
 
 ### patitas-limpias_9.png
 
-![patitas-limpias_9.png](/fogata-recursos/imagenes/actividades/patitas-limpias_9.png)
+![patitas-limpias_9.png](/fogata-recursos/imagenes/actividades/patitas-limpias_9.jpg)
 
 **Información:**
 - Archivo: 
@@ -4880,7 +4880,7 @@
 
 ### patrones-de-corteza.png
 
-![patrones-de-corteza.png](/fogata-recursos/imagenes/actividades/patrones-de-corteza.png)
+![patrones-de-corteza.png](/fogata-recursos/imagenes/actividades/patrones-de-corteza.jpg)
 
 **Información:**
 - Archivo: 
@@ -4891,7 +4891,7 @@
 
 ### patrulla-del-parque.png
 
-![patrulla-del-parque.png](/fogata-recursos/imagenes/actividades/patrulla-del-parque.png)
+![patrulla-del-parque.png](/fogata-recursos/imagenes/actividades/patrulla-del-parque.jpg)
 
 **Información:**
 - Archivo: 
@@ -4902,7 +4902,7 @@
 
 ### pensar-en-voz-alta.png
 
-![pensar-en-voz-alta.png](/fogata-recursos/imagenes/actividades/pensar-en-voz-alta.png)
+![pensar-en-voz-alta.png](/fogata-recursos/imagenes/actividades/pensar-en-voz-alta.jpg)
 
 **Información:**
 - Archivo: 
@@ -4913,7 +4913,7 @@
 
 ### perdidas-y-ganancias-del-cultivo.png
 
-![perdidas-y-ganancias-del-cultivo.png](/fogata-recursos/imagenes/actividades/perdidas-y-ganancias-del-cultivo.png)
+![perdidas-y-ganancias-del-cultivo.png](/fogata-recursos/imagenes/actividades/perdidas-y-ganancias-del-cultivo.jpg)
 
 **Información:**
 - Archivo: 
@@ -4924,7 +4924,7 @@
 
 ### perdiendo-biodiversidad.png
 
-![perdiendo-biodiversidad.png](/fogata-recursos/imagenes/actividades/perdiendo-biodiversidad.png)
+![perdiendo-biodiversidad.png](/fogata-recursos/imagenes/actividades/perdiendo-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -4935,7 +4935,7 @@
 
 ### petalos-y-polinizadores.png
 
-![petalos-y-polinizadores.png](/fogata-recursos/imagenes/actividades/petalos-y-polinizadores.png)
+![petalos-y-polinizadores.png](/fogata-recursos/imagenes/actividades/petalos-y-polinizadores.jpg)
 
 **Información:**
 - Archivo: 
@@ -4946,7 +4946,7 @@
 
 ### pintando-el-panorama.png
 
-![pintando-el-panorama.png](/fogata-recursos/imagenes/actividades/pintando-el-panorama.png)
+![pintando-el-panorama.png](/fogata-recursos/imagenes/actividades/pintando-el-panorama.jpg)
 
 **Información:**
 - Archivo: 
@@ -4957,7 +4957,7 @@
 
 ### piramide-de-alimentos.png
 
-![piramide-de-alimentos.png](/fogata-recursos/imagenes/actividades/piramide-de-alimentos.png)
+![piramide-de-alimentos.png](/fogata-recursos/imagenes/actividades/piramide-de-alimentos.jpg)
 
 **Información:**
 - Archivo: 
@@ -4968,7 +4968,7 @@
 
 ### planifica-tu-proximo-paso.png
 
-![planifica-tu-proximo-paso.png](/fogata-recursos/imagenes/actividades/planifica-tu-proximo-paso.png)
+![planifica-tu-proximo-paso.png](/fogata-recursos/imagenes/actividades/planifica-tu-proximo-paso.jpg)
 
 **Información:**
 - Archivo: 
@@ -4979,7 +4979,7 @@
 
 ### planificar-un-viaje-turistico-sostenible.png
 
-![planificar-un-viaje-turistico-sostenible.png](/fogata-recursos/imagenes/actividades/planificar-un-viaje-turistico-sostenible.png)
+![planificar-un-viaje-turistico-sostenible.png](/fogata-recursos/imagenes/actividades/planificar-un-viaje-turistico-sostenible.jpg)
 
 **Información:**
 - Archivo: 
@@ -4990,7 +4990,7 @@
 
 ### planta-de-agua-potable.png
 
-![planta-de-agua-potable.png](/fogata-recursos/imagenes/actividades/planta-de-agua-potable.png)
+![planta-de-agua-potable.png](/fogata-recursos/imagenes/actividades/planta-de-agua-potable.jpg)
 
 **Información:**
 - Archivo: 
@@ -5001,7 +5001,7 @@
 
 ### plantar-arboles.png
 
-![plantar-arboles.png](/fogata-recursos/imagenes/actividades/plantar-arboles.png)
+![plantar-arboles.png](/fogata-recursos/imagenes/actividades/plantar-arboles.jpg)
 
 **Información:**
 - Archivo: 
@@ -5012,7 +5012,7 @@
 
 ### plantar-hierbas-y-vegetales-locales.png
 
-![plantar-hierbas-y-vegetales-locales.png](/fogata-recursos/imagenes/actividades/plantar-hierbas-y-vegetales-locales.png)
+![plantar-hierbas-y-vegetales-locales.png](/fogata-recursos/imagenes/actividades/plantar-hierbas-y-vegetales-locales.jpg)
 
 **Información:**
 - Archivo: 
@@ -5023,7 +5023,7 @@
 
 ### plantas-de-poder.png
 
-![plantas-de-poder.png](/fogata-recursos/imagenes/actividades/plantas-de-poder.png)
+![plantas-de-poder.png](/fogata-recursos/imagenes/actividades/plantas-de-poder.jpg)
 
 **Información:**
 - Archivo: 
@@ -5034,7 +5034,7 @@
 
 ### plantas-medicinales.png
 
-![plantas-medicinales.png](/fogata-recursos/imagenes/actividades/plantas-medicinales.png)
+![plantas-medicinales.png](/fogata-recursos/imagenes/actividades/plantas-medicinales.jpg)
 
 **Información:**
 - Archivo: 
@@ -5045,7 +5045,7 @@
 
 ### plantulas.png
 
-![plantulas.png](/fogata-recursos/imagenes/actividades/plantulas.png)
+![plantulas.png](/fogata-recursos/imagenes/actividades/plantulas.jpg)
 
 **Información:**
 - Archivo: 
@@ -5056,7 +5056,7 @@
 
 ### podcasts-de-biodiversidad.png
 
-![podcasts-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/podcasts-de-biodiversidad.png)
+![podcasts-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/podcasts-de-biodiversidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -5067,7 +5067,7 @@
 
 ### polinizadores-y-contaminacion.png
 
-![polinizadores-y-contaminacion.png](/fogata-recursos/imagenes/actividades/polinizadores-y-contaminacion.png)
+![polinizadores-y-contaminacion.png](/fogata-recursos/imagenes/actividades/polinizadores-y-contaminacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -5078,7 +5078,7 @@
 
 ### polinizadores-y-la-economia.png
 
-![polinizadores-y-la-economia.png](/fogata-recursos/imagenes/actividades/polinizadores-y-la-economia.png)
+![polinizadores-y-la-economia.png](/fogata-recursos/imagenes/actividades/polinizadores-y-la-economia.jpg)
 
 **Información:**
 - Archivo: 
@@ -5089,7 +5089,7 @@
 
 ### politica-energetica.png
 
-![politica-energetica.png](/fogata-recursos/imagenes/actividades/politica-energetica.png)
+![politica-energetica.png](/fogata-recursos/imagenes/actividades/politica-energetica.jpg)
 
 **Información:**
 - Archivo: 
@@ -5100,7 +5100,7 @@
 
 ### preguntas-respuestas.png
 
-![preguntas-respuestas.png](/fogata-recursos/imagenes/actividades/preguntas-respuestas.png)
+![preguntas-respuestas.png](/fogata-recursos/imagenes/actividades/preguntas-respuestas.jpg)
 
 **Información:**
 - Archivo: 
@@ -5111,7 +5111,7 @@
 
 ### presentando-a-los-combustibles-fosiles.png
 
-![presentando-a-los-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-a-los-combustibles-fosiles.png)
+![presentando-a-los-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-a-los-combustibles-fosiles.jpg)
 
 **Información:**
 - Archivo: 
@@ -5122,7 +5122,7 @@
 
 ### presentando-combustibles-fosiles.png
 
-![presentando-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-combustibles-fosiles.png)
+![presentando-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-combustibles-fosiles.jpg)
 
 **Información:**
 - Archivo: 
@@ -5133,7 +5133,7 @@
 
 ### presentar-una-exposicion-sobre-vida-sostenible.png
 
-![presentar-una-exposicion-sobre-vida-sostenible.png](/fogata-recursos/imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.png)
+![presentar-una-exposicion-sobre-vida-sostenible.png](/fogata-recursos/imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.jpg)
 
 **Información:**
 - Archivo: 
@@ -5144,7 +5144,7 @@
 
 ### presentar-una-obra-de-teatro-sobre-reciclaje.png
 
-![presentar-una-obra-de-teatro-sobre-reciclaje.png](/fogata-recursos/imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.png)
+![presentar-una-obra-de-teatro-sobre-reciclaje.png](/fogata-recursos/imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.jpg)
 
 **Información:**
 - Archivo: 
@@ -5155,7 +5155,7 @@
 
 ### presiones-pintadas.png
 
-![presiones-pintadas.png](/fogata-recursos/imagenes/actividades/presiones-pintadas.png)
+![presiones-pintadas.png](/fogata-recursos/imagenes/actividades/presiones-pintadas.jpg)
 
 **Información:**
 - Archivo: 
@@ -5166,7 +5166,7 @@
 
 ### productos-de-las-abejas.png
 
-![productos-de-las-abejas.png](/fogata-recursos/imagenes/actividades/productos-de-las-abejas.png)
+![productos-de-las-abejas.png](/fogata-recursos/imagenes/actividades/productos-de-las-abejas.jpg)
 
 **Información:**
 - Archivo: 
@@ -5177,7 +5177,7 @@
 
 ### promover-la-energia-renovable.png
 
-![promover-la-energia-renovable.png](/fogata-recursos/imagenes/actividades/promover-la-energia-renovable.png)
+![promover-la-energia-renovable.png](/fogata-recursos/imagenes/actividades/promover-la-energia-renovable.jpg)
 
 **Información:**
 - Archivo: 
@@ -5188,7 +5188,7 @@
 
 ### promover-rutas-seguras-para-bicicletas.png
 
-![promover-rutas-seguras-para-bicicletas.png](/fogata-recursos/imagenes/actividades/promover-rutas-seguras-para-bicicletas.png)
+![promover-rutas-seguras-para-bicicletas.png](/fogata-recursos/imagenes/actividades/promover-rutas-seguras-para-bicicletas.jpg)
 
 **Información:**
 - Archivo: 
@@ -5199,7 +5199,7 @@
 
 ### proteccion-contra-la-contaminacion.png
 
-![proteccion-contra-la-contaminacion.png](/fogata-recursos/imagenes/actividades/proteccion-contra-la-contaminacion.png)
+![proteccion-contra-la-contaminacion.png](/fogata-recursos/imagenes/actividades/proteccion-contra-la-contaminacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -5210,7 +5210,7 @@
 
 ### proteger-los-bosques-evitar-propagandas.png
 
-![proteger-los-bosques-evitar-propagandas.png](/fogata-recursos/imagenes/actividades/proteger-los-bosques-evitar-propagandas.png)
+![proteger-los-bosques-evitar-propagandas.png](/fogata-recursos/imagenes/actividades/proteger-los-bosques-evitar-propagandas.jpg)
 
 **Información:**
 - Archivo: 
@@ -5221,7 +5221,7 @@
 
 ### proyecto-cientifico-worldbirds.png
 
-![proyecto-cientifico-worldbirds.png](/fogata-recursos/imagenes/actividades/proyecto-cientifico-worldbirds.png)
+![proyecto-cientifico-worldbirds.png](/fogata-recursos/imagenes/actividades/proyecto-cientifico-worldbirds.jpg)
 
 **Información:**
 - Archivo: 
@@ -5232,7 +5232,7 @@
 
 ### proyecto-comunitario-sobre-el-agua.png
 
-![proyecto-comunitario-sobre-el-agua.png](/fogata-recursos/imagenes/actividades/proyecto-comunitario-sobre-el-agua.png)
+![proyecto-comunitario-sobre-el-agua.png](/fogata-recursos/imagenes/actividades/proyecto-comunitario-sobre-el-agua.jpg)
 
 **Información:**
 - Archivo: 
@@ -5760,7 +5760,7 @@
 
 ### ptt.png
 
-![ptt.png](/fogata-recursos/imagenes/actividades/ptt.png)
+![ptt.png](/fogata-recursos/imagenes/actividades/ptt.jpg)
 
 **Información:**
 - Archivo: 
@@ -5771,7 +5771,7 @@
 
 ### ptt_1.png
 
-![ptt_1.png](/fogata-recursos/imagenes/actividades/ptt_1.png)
+![ptt_1.png](/fogata-recursos/imagenes/actividades/ptt_1.jpg)
 
 **Información:**
 - Archivo: 
@@ -11700,7 +11700,7 @@
 
 ### que-esta-en-riesgo.png
 
-![que-esta-en-riesgo.png](/fogata-recursos/imagenes/actividades/que-esta-en-riesgo.png)
+![que-esta-en-riesgo.png](/fogata-recursos/imagenes/actividades/que-esta-en-riesgo.jpg)
 
 **Información:**
 - Archivo: 
@@ -11711,7 +11711,7 @@
 
 ### que-gas.png
 
-![que-gas.png](/fogata-recursos/imagenes/actividades/que-gas.png)
+![que-gas.png](/fogata-recursos/imagenes/actividades/que-gas.jpg)
 
 **Información:**
 - Archivo: 
@@ -11722,7 +11722,7 @@
 
 ### que-tan-sediento-esta-tu-pais.png
 
-![que-tan-sediento-esta-tu-pais.png](/fogata-recursos/imagenes/actividades/que-tan-sediento-esta-tu-pais.png)
+![que-tan-sediento-esta-tu-pais.png](/fogata-recursos/imagenes/actividades/que-tan-sediento-esta-tu-pais.jpg)
 
 **Información:**
 - Archivo: 
@@ -11733,7 +11733,7 @@
 
 ### quien-es-un-polinizador.png
 
-![quien-es-un-polinizador.png](/fogata-recursos/imagenes/actividades/quien-es-un-polinizador.png)
+![quien-es-un-polinizador.png](/fogata-recursos/imagenes/actividades/quien-es-un-polinizador.jpg)
 
 **Información:**
 - Archivo: 
@@ -11744,7 +11744,7 @@
 
 ### quien-se-come-a-quien.png
 
-![quien-se-come-a-quien.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien.png)
+![quien-se-come-a-quien.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien.jpg)
 
 **Información:**
 - Archivo: 
@@ -11755,7 +11755,7 @@
 
 ### quien-se-come-a-quien2.png
 
-![quien-se-come-a-quien2.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien2.png)
+![quien-se-come-a-quien2.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien2.jpg)
 
 **Información:**
 - Archivo: 
@@ -11766,7 +11766,7 @@
 
 ### quien-se-come-a-quien3.png
 
-![quien-se-come-a-quien3.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien3.png)
+![quien-se-come-a-quien3.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien3.jpg)
 
 **Información:**
 - Archivo: 
@@ -11777,7 +11777,7 @@
 
 ### quien-se-come-a-quien4.png
 
-![quien-se-come-a-quien4.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien4.png)
+![quien-se-come-a-quien4.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien4.jpg)
 
 **Información:**
 - Archivo: 
@@ -11788,7 +11788,7 @@
 
 ### quien-se-come-a-quien5.png
 
-![quien-se-come-a-quien5.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien5.png)
+![quien-se-come-a-quien5.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien5.jpg)
 
 **Información:**
 - Archivo: 
@@ -11799,7 +11799,7 @@
 
 ### rastreadores-de-senderos.png
 
-![rastreadores-de-senderos.png](/fogata-recursos/imagenes/actividades/rastreadores-de-senderos.png)
+![rastreadores-de-senderos.png](/fogata-recursos/imagenes/actividades/rastreadores-de-senderos.jpg)
 
 **Información:**
 - Archivo: 
@@ -11810,7 +11810,7 @@
 
 ### rastreo-de-fauna.png
 
-![rastreo-de-fauna.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna.png)
+![rastreo-de-fauna.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna.jpg)
 
 **Información:**
 - Archivo: 
@@ -11821,7 +11821,7 @@
 
 ### rastreo-de-fauna2.png
 
-![rastreo-de-fauna2.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna2.png)
+![rastreo-de-fauna2.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna2.jpg)
 
 **Información:**
 - Archivo: 
@@ -11832,7 +11832,7 @@
 
 ### rastreo-de-fauna3.png
 
-![rastreo-de-fauna3.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna3.png)
+![rastreo-de-fauna3.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna3.jpg)
 
 **Información:**
 - Archivo: 
@@ -11843,7 +11843,7 @@
 
 ### rayos-de-sol-movil.png
 
-![rayos-de-sol-movil.png](/fogata-recursos/imagenes/actividades/rayos-de-sol-movil.png)
+![rayos-de-sol-movil.png](/fogata-recursos/imagenes/actividades/rayos-de-sol-movil.jpg)
 
 **Información:**
 - Archivo: 
@@ -11854,7 +11854,7 @@
 
 ### recaudacion-de-fondos.png
 
-![recaudacion-de-fondos.png](/fogata-recursos/imagenes/actividades/recaudacion-de-fondos.png)
+![recaudacion-de-fondos.png](/fogata-recursos/imagenes/actividades/recaudacion-de-fondos.jpg)
 
 **Información:**
 - Archivo: 
@@ -11865,7 +11865,7 @@
 
 ### reciclaje-de-aguas-grises.png
 
-![reciclaje-de-aguas-grises.png](/fogata-recursos/imagenes/actividades/reciclaje-de-aguas-grises.png)
+![reciclaje-de-aguas-grises.png](/fogata-recursos/imagenes/actividades/reciclaje-de-aguas-grises.jpg)
 
 **Información:**
 - Archivo: 
@@ -11876,7 +11876,7 @@
 
 ### reciclar-agua-y-recolectar-agua-de-lluvia.png
 
-![reciclar-agua-y-recolectar-agua-de-lluvia.png](/fogata-recursos/imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.png)
+![reciclar-agua-y-recolectar-agua-de-lluvia.png](/fogata-recursos/imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.jpg)
 
 **Información:**
 - Archivo: 
@@ -11887,7 +11887,7 @@
 
 ### reciclar-materiales-peligrosos.png
 
-![reciclar-materiales-peligrosos.png](/fogata-recursos/imagenes/actividades/reciclar-materiales-peligrosos.png)
+![reciclar-materiales-peligrosos.png](/fogata-recursos/imagenes/actividades/reciclar-materiales-peligrosos.jpg)
 
 **Información:**
 - Archivo: 
@@ -11898,7 +11898,7 @@
 
 ### reciclar-y-reducir.png
 
-![reciclar-y-reducir.png](/fogata-recursos/imagenes/actividades/reciclar-y-reducir.png)
+![reciclar-y-reducir.png](/fogata-recursos/imagenes/actividades/reciclar-y-reducir.jpg)
 
 **Información:**
 - Archivo: 
@@ -11909,7 +11909,7 @@
 
 ### recolectando-datos.png
 
-![recolectando-datos.png](/fogata-recursos/imagenes/actividades/recolectando-datos.png)
+![recolectando-datos.png](/fogata-recursos/imagenes/actividades/recolectando-datos.jpg)
 
 **Información:**
 - Archivo: 
@@ -11920,7 +11920,7 @@
 
 ### recopilar-informacion-sobre-desastres-climaticos.png
 
-![recopilar-informacion-sobre-desastres-climaticos.png](/fogata-recursos/imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.png)
+![recopilar-informacion-sobre-desastres-climaticos.png](/fogata-recursos/imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -11931,7 +11931,7 @@
 
 ### redd.png
 
-![redd.png](/fogata-recursos/imagenes/actividades/redd.png)
+![redd.png](/fogata-recursos/imagenes/actividades/redd.jpg)
 
 **Información:**
 - Archivo: 
@@ -11942,7 +11942,7 @@
 
 ### reduce-tu-huella-de-cambio-climatico.png
 
-![reduce-tu-huella-de-cambio-climatico.png](/fogata-recursos/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.png)
+![reduce-tu-huella-de-cambio-climatico.png](/fogata-recursos/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -11953,7 +11953,7 @@
 
 ### reducir-el-consumo-de-productos-innecesarios.png
 
-![reducir-el-consumo-de-productos-innecesarios.png](/fogata-recursos/imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.png)
+![reducir-el-consumo-de-productos-innecesarios.png](/fogata-recursos/imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.jpg)
 
 **Información:**
 - Archivo: 
@@ -11964,7 +11964,7 @@
 
 ### reducir-el-uso-de-papel-en-la-escuela.png
 
-![reducir-el-uso-de-papel-en-la-escuela.png](/fogata-recursos/imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.png)
+![reducir-el-uso-de-papel-en-la-escuela.png](/fogata-recursos/imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.jpg)
 
 **Información:**
 - Archivo: 
@@ -11975,7 +11975,7 @@
 
 ### reducir-la-basura-en-casa.png
 
-![reducir-la-basura-en-casa.png](/fogata-recursos/imagenes/actividades/reducir-la-basura-en-casa.png)
+![reducir-la-basura-en-casa.png](/fogata-recursos/imagenes/actividades/reducir-la-basura-en-casa.jpg)
 
 **Información:**
 - Archivo: 
@@ -11986,7 +11986,7 @@
 
 ### reducir-reusar-reciclar.png
 
-![reducir-reusar-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-reciclar.png)
+![reducir-reusar-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-reciclar.jpg)
 
 **Información:**
 - Archivo: 
@@ -11997,7 +11997,7 @@
 
 ### reducir-reusar-y-reciclar.png
 
-![reducir-reusar-y-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-y-reciclar.png)
+![reducir-reusar-y-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-y-reciclar.jpg)
 
 **Información:**
 - Archivo: 
@@ -12008,7 +12008,7 @@
 
 ### reducir-tiempo-frente-a-pantallas.png
 
-![reducir-tiempo-frente-a-pantallas.png](/fogata-recursos/imagenes/actividades/reducir-tiempo-frente-a-pantallas.png)
+![reducir-tiempo-frente-a-pantallas.png](/fogata-recursos/imagenes/actividades/reducir-tiempo-frente-a-pantallas.jpg)
 
 **Información:**
 - Archivo: 
@@ -12019,7 +12019,7 @@
 
 ### reemplazar-bombillas-por-ahorradoras-de-energia.png
 
-![reemplazar-bombillas-por-ahorradoras-de-energia.png](/fogata-recursos/imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.png)
+![reemplazar-bombillas-por-ahorradoras-de-energia.png](/fogata-recursos/imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.jpg)
 
 **Información:**
 - Archivo: 
@@ -12030,7 +12030,7 @@
 
 ### reemplazar-productos-innecesarios-en-la-cocina.png
 
-![reemplazar-productos-innecesarios-en-la-cocina.png](/fogata-recursos/imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.png)
+![reemplazar-productos-innecesarios-en-la-cocina.png](/fogata-recursos/imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.jpg)
 
 **Información:**
 - Archivo: 
@@ -12041,7 +12041,7 @@
 
 ### refugio-para-vida-silvestre.png
 
-![refugio-para-vida-silvestre.png](/fogata-recursos/imagenes/actividades/refugio-para-vida-silvestre.png)
+![refugio-para-vida-silvestre.png](/fogata-recursos/imagenes/actividades/refugio-para-vida-silvestre.jpg)
 
 **Información:**
 - Archivo: 
@@ -12052,7 +12052,7 @@
 
 ### regular-el-uso-de-plasticos.png
 
-![regular-el-uso-de-plasticos.png](/fogata-recursos/imagenes/actividades/regular-el-uso-de-plasticos.png)
+![regular-el-uso-de-plasticos.png](/fogata-recursos/imagenes/actividades/regular-el-uso-de-plasticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -12063,7 +12063,7 @@
 
 ### relatos-de-viaje.png
 
-![relatos-de-viaje.png](/fogata-recursos/imagenes/actividades/relatos-de-viaje.png)
+![relatos-de-viaje.png](/fogata-recursos/imagenes/actividades/relatos-de-viaje.jpg)
 
 **Información:**
 - Archivo: 
@@ -12074,7 +12074,7 @@
 
 ### reloj-de-sol.png
 
-![reloj-de-sol.png](/fogata-recursos/imagenes/actividades/reloj-de-sol.png)
+![reloj-de-sol.png](/fogata-recursos/imagenes/actividades/reloj-de-sol.jpg)
 
 **Información:**
 - Archivo: 
@@ -12085,7 +12085,7 @@
 
 ### resea-de-libro.png
 
-![resea-de-libro.png](/fogata-recursos/imagenes/actividades/resea-de-libro.png)
+![resea-de-libro.png](/fogata-recursos/imagenes/actividades/resea-de-libro.jpg)
 
 **Información:**
 - Archivo: 
@@ -12096,7 +12096,7 @@
 
 ### resolucion-de-plastico.png
 
-![resolucion-de-plastico.png](/fogata-recursos/imagenes/actividades/resolucion-de-plastico.png)
+![resolucion-de-plastico.png](/fogata-recursos/imagenes/actividades/resolucion-de-plastico.jpg)
 
 **Información:**
 - Archivo: 
@@ -12107,7 +12107,7 @@
 
 ### resolver-un-problema-comunitario.png
 
-![resolver-un-problema-comunitario.png](/fogata-recursos/imagenes/actividades/resolver-un-problema-comunitario.png)
+![resolver-un-problema-comunitario.png](/fogata-recursos/imagenes/actividades/resolver-un-problema-comunitario.jpg)
 
 **Información:**
 - Archivo: 
@@ -12118,7 +12118,7 @@
 
 ### reutilizar-papel-para-borrador.png
 
-![reutilizar-papel-para-borrador.png](/fogata-recursos/imagenes/actividades/reutilizar-papel-para-borrador.png)
+![reutilizar-papel-para-borrador.png](/fogata-recursos/imagenes/actividades/reutilizar-papel-para-borrador.jpg)
 
 **Información:**
 - Archivo: 
@@ -12129,7 +12129,7 @@
 
 ### revisar-las-etiquetas-de-los-alimentos.png
 
-![revisar-las-etiquetas-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.png)
+![revisar-las-etiquetas-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.jpg)
 
 **Información:**
 - Archivo: 
@@ -12140,7 +12140,7 @@
 
 ### revision-a-los-suelos.png
 
-![revision-a-los-suelos.png](/fogata-recursos/imagenes/actividades/revision-a-los-suelos.png)
+![revision-a-los-suelos.png](/fogata-recursos/imagenes/actividades/revision-a-los-suelos.jpg)
 
 **Información:**
 - Archivo: 
@@ -12151,7 +12151,7 @@
 
 ### ropa-y-fibras.png
 
-![ropa-y-fibras.png](/fogata-recursos/imagenes/actividades/ropa-y-fibras.png)
+![ropa-y-fibras.png](/fogata-recursos/imagenes/actividades/ropa-y-fibras.jpg)
 
 **Información:**
 - Archivo: 
@@ -12162,7 +12162,7 @@
 
 ### rutas-de-migracion.png
 
-![rutas-de-migracion.png](/fogata-recursos/imagenes/actividades/rutas-de-migracion.png)
+![rutas-de-migracion.png](/fogata-recursos/imagenes/actividades/rutas-de-migracion.jpg)
 
 **Información:**
 - Archivo: 
@@ -12173,7 +12173,7 @@
 
 ### saberes-indigenas.png
 
-![saberes-indigenas.png](/fogata-recursos/imagenes/actividades/saberes-indigenas.png)
+![saberes-indigenas.png](/fogata-recursos/imagenes/actividades/saberes-indigenas.jpg)
 
 **Información:**
 - Archivo: 
@@ -12184,7 +12184,7 @@
 
 ### saca-el-bardo-que-hay-en-ti.png
 
-![saca-el-bardo-que-hay-en-ti.png](/fogata-recursos/imagenes/actividades/saca-el-bardo-que-hay-en-ti.png)
+![saca-el-bardo-que-hay-en-ti.png](/fogata-recursos/imagenes/actividades/saca-el-bardo-que-hay-en-ti.jpg)
 
 **Información:**
 - Archivo: 
@@ -12195,7 +12195,7 @@
 
 ### sacc.png
 
-![sacc.png](/fogata-recursos/imagenes/actividades/sacc.png)
+![sacc.png](/fogata-recursos/imagenes/actividades/sacc.jpg)
 
 **Información:**
 - Archivo: 
@@ -12206,7 +12206,7 @@
 
 ### saltos-energeticos.png
 
-![saltos-energeticos.png](/fogata-recursos/imagenes/actividades/saltos-energeticos.png)
+![saltos-energeticos.png](/fogata-recursos/imagenes/actividades/saltos-energeticos.jpg)
 
 **Información:**
 - Archivo: 
@@ -12217,7 +12217,7 @@
 
 ### salud.png
 
-![salud.png](/fogata-recursos/imagenes/actividades/salud.png)
+![salud.png](/fogata-recursos/imagenes/actividades/salud.jpg)
 
 **Información:**
 - Archivo: 
@@ -12228,7 +12228,7 @@
 
 ### saneamiento-en-el-suelo.png
 
-![saneamiento-en-el-suelo.png](/fogata-recursos/imagenes/actividades/saneamiento-en-el-suelo.png)
+![saneamiento-en-el-suelo.png](/fogata-recursos/imagenes/actividades/saneamiento-en-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -12239,7 +12239,7 @@
 
 ### se-un-ecoturista.png
 
-![se-un-ecoturista.png](/fogata-recursos/imagenes/actividades/se-un-ecoturista.png)
+![se-un-ecoturista.png](/fogata-recursos/imagenes/actividades/se-un-ecoturista.jpg)
 
 **Información:**
 - Archivo: 
@@ -12250,7 +12250,7 @@
 
 ### se-un-polinizador.png
 
-![se-un-polinizador.png](/fogata-recursos/imagenes/actividades/se-un-polinizador.png)
+![se-un-polinizador.png](/fogata-recursos/imagenes/actividades/se-un-polinizador.jpg)
 
 **Información:**
 - Archivo: 
@@ -12261,7 +12261,7 @@
 
 ### sed-continental.png
 
-![sed-continental.png](/fogata-recursos/imagenes/actividades/sed-continental.png)
+![sed-continental.png](/fogata-recursos/imagenes/actividades/sed-continental.jpg)
 
 **Información:**
 - Archivo: 
@@ -12272,7 +12272,7 @@
 
 ### sed-de-poder.png
 
-![sed-de-poder.png](/fogata-recursos/imagenes/actividades/sed-de-poder.png)
+![sed-de-poder.png](/fogata-recursos/imagenes/actividades/sed-de-poder.jpg)
 
 **Información:**
 - Archivo: 
@@ -12283,7 +12283,7 @@
 
 ### see-los-enlaces.png
 
-![see-los-enlaces.png](/fogata-recursos/imagenes/actividades/see-los-enlaces.png)
+![see-los-enlaces.png](/fogata-recursos/imagenes/actividades/see-los-enlaces.jpg)
 
 **Información:**
 - Archivo: 
@@ -12294,7 +12294,7 @@
 
 ### seleccionar-y-consumir-miel.png
 
-![seleccionar-y-consumir-miel.png](/fogata-recursos/imagenes/actividades/seleccionar-y-consumir-miel.png)
+![seleccionar-y-consumir-miel.png](/fogata-recursos/imagenes/actividades/seleccionar-y-consumir-miel.jpg)
 
 **Información:**
 - Archivo: 
@@ -12305,7 +12305,7 @@
 
 ### seleccionar-y-cultivar-rboles-frutales.png
 
-![seleccionar-y-cultivar-rboles-frutales.png](/fogata-recursos/imagenes/actividades/seleccionar-y-cultivar-rboles-frutales.png)
+![seleccionar-y-cultivar-rboles-frutales.png](/fogata-recursos/imagenes/actividades/seleccionar-y-cultivar-rboles-frutales.jpg)
 
 **Información:**
 - Archivo: 
@@ -12316,7 +12316,7 @@
 
 ### separar-contenedores-de-reciclaje.png
 
-![separar-contenedores-de-reciclaje.png](/fogata-recursos/imagenes/actividades/separar-contenedores-de-reciclaje.png)
+![separar-contenedores-de-reciclaje.png](/fogata-recursos/imagenes/actividades/separar-contenedores-de-reciclaje.jpg)
 
 **Información:**
 - Archivo: 
@@ -12327,7 +12327,7 @@
 
 ### separar-desde-el-comienzo.png
 
-![separar-desde-el-comienzo.png](/fogata-recursos/imagenes/actividades/separar-desde-el-comienzo.png)
+![separar-desde-el-comienzo.png](/fogata-recursos/imagenes/actividades/separar-desde-el-comienzo.jpg)
 
 **Información:**
 - Archivo: 
@@ -12338,7 +12338,7 @@
 
 ### ser-bueno-para-el-bien-global.png
 
-![ser-bueno-para-el-bien-global.png](/fogata-recursos/imagenes/actividades/ser-bueno-para-el-bien-global.png)
+![ser-bueno-para-el-bien-global.png](/fogata-recursos/imagenes/actividades/ser-bueno-para-el-bien-global.jpg)
 
 **Información:**
 - Archivo: 
@@ -12349,7 +12349,7 @@
 
 ### ser-una-mariposa-social.png
 
-![ser-una-mariposa-social.png](/fogata-recursos/imagenes/actividades/ser-una-mariposa-social.png)
+![ser-una-mariposa-social.png](/fogata-recursos/imagenes/actividades/ser-una-mariposa-social.jpg)
 
 **Información:**
 - Archivo: 
@@ -12360,7 +12360,7 @@
 
 ### sigue-el-flujo.png
 
-![sigue-el-flujo.png](/fogata-recursos/imagenes/actividades/sigue-el-flujo.png)
+![sigue-el-flujo.png](/fogata-recursos/imagenes/actividades/sigue-el-flujo.jpg)
 
 **Información:**
 - Archivo: 
@@ -12371,7 +12371,7 @@
 
 ### soluciones-globales.png
 
-![soluciones-globales.png](/fogata-recursos/imagenes/actividades/soluciones-globales.png)
+![soluciones-globales.png](/fogata-recursos/imagenes/actividades/soluciones-globales.jpg)
 
 **Información:**
 - Archivo: 
@@ -12393,7 +12393,7 @@
 
 ### suelos-calidos.png
 
-![suelos-calidos.png](/fogata-recursos/imagenes/actividades/suelos-calidos.png)
+![suelos-calidos.png](/fogata-recursos/imagenes/actividades/suelos-calidos.jpg)
 
 **Información:**
 - Archivo: 
@@ -12404,7 +12404,7 @@
 
 ### suelos-globales.png
 
-![suelos-globales.png](/fogata-recursos/imagenes/actividades/suelos-globales.png)
+![suelos-globales.png](/fogata-recursos/imagenes/actividades/suelos-globales.jpg)
 
 **Información:**
 - Archivo: 
@@ -12415,7 +12415,7 @@
 
 ### supermercado-biodiverso.png
 
-![supermercado-biodiverso.png](/fogata-recursos/imagenes/actividades/supermercado-biodiverso.png)
+![supermercado-biodiverso.png](/fogata-recursos/imagenes/actividades/supermercado-biodiverso.jpg)
 
 **Información:**
 - Archivo: 
@@ -12426,7 +12426,7 @@
 
 ### tala-de-arboles.png
 
-![tala-de-arboles.png](/fogata-recursos/imagenes/actividades/tala-de-arboles.png)
+![tala-de-arboles.png](/fogata-recursos/imagenes/actividades/tala-de-arboles.jpg)
 
 **Información:**
 - Archivo: 
@@ -12437,7 +12437,7 @@
 
 ### taller-ambiental.png
 
-![taller-ambiental.png](/fogata-recursos/imagenes/actividades/taller-ambiental.png)
+![taller-ambiental.png](/fogata-recursos/imagenes/actividades/taller-ambiental.jpg)
 
 **Información:**
 - Archivo: 
@@ -12503,7 +12503,7 @@
 
 ### teatro-del-carbono.png
 
-![teatro-del-carbono.png](/fogata-recursos/imagenes/actividades/teatro-del-carbono.png)
+![teatro-del-carbono.png](/fogata-recursos/imagenes/actividades/teatro-del-carbono.jpg)
 
 **Información:**
 - Archivo: 
@@ -12514,7 +12514,7 @@
 
 ### terrario-ecosistemico.png
 
-![terrario-ecosistemico.png](/fogata-recursos/imagenes/actividades/terrario-ecosistemico.png)
+![terrario-ecosistemico.png](/fogata-recursos/imagenes/actividades/terrario-ecosistemico.jpg)
 
 **Información:**
 - Archivo: 
@@ -12525,7 +12525,7 @@
 
 ### tiempo-de-descomposicion-de-la-basura.png
 
-![tiempo-de-descomposicion-de-la-basura.png](/fogata-recursos/imagenes/actividades/tiempo-de-descomposicion-de-la-basura.png)
+![tiempo-de-descomposicion-de-la-basura.png](/fogata-recursos/imagenes/actividades/tiempo-de-descomposicion-de-la-basura.jpg)
 
 **Información:**
 - Archivo: 
@@ -12536,7 +12536,7 @@
 
 ### tintes-naturales.png
 
-![tintes-naturales.png](/fogata-recursos/imagenes/actividades/tintes-naturales.png)
+![tintes-naturales.png](/fogata-recursos/imagenes/actividades/tintes-naturales.jpg)
 
 **Información:**
 - Archivo: 
@@ -12547,7 +12547,7 @@
 
 ### todo-sobre-la-polinizacion.png
 
-![todo-sobre-la-polinizacion.png](/fogata-recursos/imagenes/actividades/todo-sobre-la-polinizacion.png)
+![todo-sobre-la-polinizacion.png](/fogata-recursos/imagenes/actividades/todo-sobre-la-polinizacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -12558,7 +12558,7 @@
 
 ### tour-guiado-de-cuenca.png
 
-![tour-guiado-de-cuenca.png](/fogata-recursos/imagenes/actividades/tour-guiado-de-cuenca.png)
+![tour-guiado-de-cuenca.png](/fogata-recursos/imagenes/actividades/tour-guiado-de-cuenca.jpg)
 
 **Información:**
 - Archivo: 
@@ -12569,7 +12569,7 @@
 
 ### trabajando-como-alfarero.png
 
-![trabajando-como-alfarero.png](/fogata-recursos/imagenes/actividades/trabajando-como-alfarero.png)
+![trabajando-como-alfarero.png](/fogata-recursos/imagenes/actividades/trabajando-como-alfarero.jpg)
 
 **Información:**
 - Archivo: 
@@ -12580,7 +12580,7 @@
 
 ### trabajos-en-el-suelo.png
 
-![trabajos-en-el-suelo.png](/fogata-recursos/imagenes/actividades/trabajos-en-el-suelo.png)
+![trabajos-en-el-suelo.png](/fogata-recursos/imagenes/actividades/trabajos-en-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -12591,7 +12591,7 @@
 
 ### transmitiendo-datos-sobre-el-suelo.png
 
-![transmitiendo-datos-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png)
+![transmitiendo-datos-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.jpg)
 
 **Información:**
 - Archivo: 
@@ -12602,7 +12602,7 @@
 
 ### transporte-sostenible-caminar-o-usar-bicicleta.png
 
-![transporte-sostenible-caminar-o-usar-bicicleta.png](/fogata-recursos/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.png)
+![transporte-sostenible-caminar-o-usar-bicicleta.png](/fogata-recursos/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.jpg)
 
 **Información:**
 - Archivo: 
@@ -12613,7 +12613,7 @@
 
 ### trepando-arboles.png
 
-![trepando-arboles.png](/fogata-recursos/imagenes/actividades/trepando-arboles.png)
+![trepando-arboles.png](/fogata-recursos/imagenes/actividades/trepando-arboles.jpg)
 
 **Información:**
 - Archivo: 
@@ -12624,7 +12624,7 @@
 
 ### tu-bosque-favorito.png
 
-![tu-bosque-favorito.png](/fogata-recursos/imagenes/actividades/tu-bosque-favorito.png)
+![tu-bosque-favorito.png](/fogata-recursos/imagenes/actividades/tu-bosque-favorito.jpg)
 
 **Información:**
 - Archivo: 
@@ -12635,7 +12635,7 @@
 
 ### tu-deporte.png
 
-![tu-deporte.png](/fogata-recursos/imagenes/actividades/tu-deporte.png)
+![tu-deporte.png](/fogata-recursos/imagenes/actividades/tu-deporte.jpg)
 
 **Información:**
 - Archivo: 
@@ -12646,7 +12646,7 @@
 
 ### tu-flor-favorita.png
 
-![tu-flor-favorita.png](/fogata-recursos/imagenes/actividades/tu-flor-favorita.png)
+![tu-flor-favorita.png](/fogata-recursos/imagenes/actividades/tu-flor-favorita.jpg)
 
 **Información:**
 - Archivo: 
@@ -12657,7 +12657,7 @@
 
 ### tu-vida-ecologica.png
 
-![tu-vida-ecologica.png](/fogata-recursos/imagenes/actividades/tu-vida-ecologica.png)
+![tu-vida-ecologica.png](/fogata-recursos/imagenes/actividades/tu-vida-ecologica.jpg)
 
 **Información:**
 - Archivo: 
@@ -12668,7 +12668,7 @@
 
 ### un-acto-de-balance.png
 
-![un-acto-de-balance.png](/fogata-recursos/imagenes/actividades/un-acto-de-balance.png)
+![un-acto-de-balance.png](/fogata-recursos/imagenes/actividades/un-acto-de-balance.jpg)
 
 **Información:**
 - Archivo: 
@@ -12679,7 +12679,7 @@
 
 ### un-bosque-para-todas-las-estaciones.png
 
-![un-bosque-para-todas-las-estaciones.png](/fogata-recursos/imagenes/actividades/un-bosque-para-todas-las-estaciones.png)
+![un-bosque-para-todas-las-estaciones.png](/fogata-recursos/imagenes/actividades/un-bosque-para-todas-las-estaciones.jpg)
 
 **Información:**
 - Archivo: 
@@ -12690,7 +12690,7 @@
 
 ### un-clima-que-da-vida.png
 
-![un-clima-que-da-vida.png](/fogata-recursos/imagenes/actividades/un-clima-que-da-vida.png)
+![un-clima-que-da-vida.png](/fogata-recursos/imagenes/actividades/un-clima-que-da-vida.jpg)
 
 **Información:**
 - Archivo: 
@@ -12701,7 +12701,7 @@
 
 ### un-estudio-de-ph.png
 
-![un-estudio-de-ph.png](/fogata-recursos/imagenes/actividades/un-estudio-de-ph.png)
+![un-estudio-de-ph.png](/fogata-recursos/imagenes/actividades/un-estudio-de-ph.jpg)
 
 **Información:**
 - Archivo: 
@@ -12712,7 +12712,7 @@
 
 ### un-regalo-acuatico.png
 
-![un-regalo-acuatico.png](/fogata-recursos/imagenes/actividades/un-regalo-acuatico.png)
+![un-regalo-acuatico.png](/fogata-recursos/imagenes/actividades/un-regalo-acuatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -12723,7 +12723,7 @@
 
 ### una-comida-solar.png
 
-![una-comida-solar.png](/fogata-recursos/imagenes/actividades/una-comida-solar.png)
+![una-comida-solar.png](/fogata-recursos/imagenes/actividades/una-comida-solar.jpg)
 
 **Información:**
 - Archivo: 
@@ -12734,7 +12734,7 @@
 
 ### unirse-a-la-red-carboschools.png
 
-![unirse-a-la-red-carboschools.png](/fogata-recursos/imagenes/actividades/unirse-a-la-red-carboschools.png)
+![unirse-a-la-red-carboschools.png](/fogata-recursos/imagenes/actividades/unirse-a-la-red-carboschools.jpg)
 
 **Información:**
 - Archivo: 
@@ -12745,7 +12745,7 @@
 
 ### unirse-a-plataformas-de-sostenibilidad.png
 
-![unirse-a-plataformas-de-sostenibilidad.png](/fogata-recursos/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.png)
+![unirse-a-plataformas-de-sostenibilidad.png](/fogata-recursos/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.jpg)
 
 **Información:**
 - Archivo: 
@@ -12756,7 +12756,7 @@
 
 ### unirse-a-un-club-de-apicultura.png
 
-![unirse-a-un-club-de-apicultura.png](/fogata-recursos/imagenes/actividades/unirse-a-un-club-de-apicultura.png)
+![unirse-a-un-club-de-apicultura.png](/fogata-recursos/imagenes/actividades/unirse-a-un-club-de-apicultura.jpg)
 
 **Información:**
 - Archivo: 
@@ -12767,7 +12767,7 @@
 
 ### usando-la-madera.png
 
-![usando-la-madera.png](/fogata-recursos/imagenes/actividades/usando-la-madera.png)
+![usando-la-madera.png](/fogata-recursos/imagenes/actividades/usando-la-madera.jpg)
 
 **Información:**
 - Archivo: 
@@ -12778,7 +12778,7 @@
 
 ### usar-el-agua-sabiamente.png
 
-![usar-el-agua-sabiamente.png](/fogata-recursos/imagenes/actividades/usar-el-agua-sabiamente.png)
+![usar-el-agua-sabiamente.png](/fogata-recursos/imagenes/actividades/usar-el-agua-sabiamente.jpg)
 
 **Información:**
 - Archivo: 
@@ -12789,7 +12789,7 @@
 
 ### usar-menos-aire-acondicionado-y-calefaccion.png
 
-![usar-menos-aire-acondicionado-y-calefaccion.png](/fogata-recursos/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.png)
+![usar-menos-aire-acondicionado-y-calefaccion.png](/fogata-recursos/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.jpg)
 
 **Información:**
 - Archivo: 
@@ -12800,7 +12800,7 @@
 
 ### variedades-raras-de-cultivos.png
 
-![variedades-raras-de-cultivos.png](/fogata-recursos/imagenes/actividades/variedades-raras-de-cultivos.png)
+![variedades-raras-de-cultivos.png](/fogata-recursos/imagenes/actividades/variedades-raras-de-cultivos.jpg)
 
 **Información:**
 - Archivo: 
@@ -12811,7 +12811,7 @@
 
 ### verde-o-rojo.png
 
-![verde-o-rojo.png](/fogata-recursos/imagenes/actividades/verde-o-rojo.png)
+![verde-o-rojo.png](/fogata-recursos/imagenes/actividades/verde-o-rojo.jpg)
 
 **Información:**
 - Archivo: 
@@ -12822,7 +12822,7 @@
 
 ### verso-acuatico.png
 
-![verso-acuatico.png](/fogata-recursos/imagenes/actividades/verso-acuatico.png)
+![verso-acuatico.png](/fogata-recursos/imagenes/actividades/verso-acuatico.jpg)
 
 **Información:**
 - Archivo: 
@@ -12833,7 +12833,7 @@
 
 ### vigilancia-en-casa.png
 
-![vigilancia-en-casa.png](/fogata-recursos/imagenes/actividades/vigilancia-en-casa.png)
+![vigilancia-en-casa.png](/fogata-recursos/imagenes/actividades/vigilancia-en-casa.jpg)
 
 **Información:**
 - Archivo: 
@@ -12844,7 +12844,7 @@
 
 ### visita-a-granjas.png
 
-![visita-a-granjas.png](/fogata-recursos/imagenes/actividades/visita-a-granjas.png)
+![visita-a-granjas.png](/fogata-recursos/imagenes/actividades/visita-a-granjas.jpg)
 
 **Información:**
 - Archivo: 
@@ -12855,7 +12855,7 @@
 
 ### visita-a-una-granja-de-abejas.png
 
-![visita-a-una-granja-de-abejas.png](/fogata-recursos/imagenes/actividades/visita-a-una-granja-de-abejas.png)
+![visita-a-una-granja-de-abejas.png](/fogata-recursos/imagenes/actividades/visita-a-una-granja-de-abejas.jpg)
 
 **Información:**
 - Archivo: 
@@ -12866,7 +12866,7 @@
 
 ### visitar-el-mercado-local.png
 
-![visitar-el-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-el-mercado-local.png)
+![visitar-el-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-el-mercado-local.jpg)
 
 **Información:**
 - Archivo: 
@@ -12877,7 +12877,7 @@
 
 ### visitar-un-centro-de-reciclaje.png
 
-![visitar-un-centro-de-reciclaje.png](/fogata-recursos/imagenes/actividades/visitar-un-centro-de-reciclaje.png)
+![visitar-un-centro-de-reciclaje.png](/fogata-recursos/imagenes/actividades/visitar-un-centro-de-reciclaje.jpg)
 
 **Información:**
 - Archivo: 
@@ -12888,7 +12888,7 @@
 
 ### visitar-un-mercado-local.png
 
-![visitar-un-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-un-mercado-local.png)
+![visitar-un-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-un-mercado-local.jpg)
 
 **Información:**
 - Archivo: 
@@ -12899,7 +12899,7 @@
 
 ### visitar-un-tiradero-de-basura-local.png
 
-![visitar-un-tiradero-de-basura-local.png](/fogata-recursos/imagenes/actividades/visitar-un-tiradero-de-basura-local.png)
+![visitar-un-tiradero-de-basura-local.png](/fogata-recursos/imagenes/actividades/visitar-un-tiradero-de-basura-local.jpg)
 
 **Información:**
 - Archivo: 
@@ -12910,7 +12910,7 @@
 
 ### visitar-una-hacienda-y-un-mercado.png
 
-![visitar-una-hacienda-y-un-mercado.png](/fogata-recursos/imagenes/actividades/visitar-una-hacienda-y-un-mercado.png)
+![visitar-una-hacienda-y-un-mercado.png](/fogata-recursos/imagenes/actividades/visitar-una-hacienda-y-un-mercado.jpg)
 
 **Información:**
 - Archivo: 
@@ -12921,7 +12921,7 @@
 
 ### voluntariado-en-conservacion.png
 
-![voluntariado-en-conservacion.png](/fogata-recursos/imagenes/actividades/voluntariado-en-conservacion.png)
+![voluntariado-en-conservacion.png](/fogata-recursos/imagenes/actividades/voluntariado-en-conservacion.jpg)
 
 **Información:**
 - Archivo: 
@@ -12932,7 +12932,7 @@
 
 ### y-el-clima.png
 
-![y-el-clima.png](/fogata-recursos/imagenes/actividades/y-el-clima.png)
+![y-el-clima.png](/fogata-recursos/imagenes/actividades/y-el-clima.jpg)
 
 **Información:**
 - Archivo: 
@@ -12943,7 +12943,7 @@
 
 ### yoga-animal.png
 
-![yoga-animal.png](/fogata-recursos/imagenes/actividades/yoga-animal.png)
+![yoga-animal.png](/fogata-recursos/imagenes/actividades/yoga-animal.jpg)
 
 **Información:**
 - Archivo: 

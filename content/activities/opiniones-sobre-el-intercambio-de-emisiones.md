@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.png"
+image: "/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

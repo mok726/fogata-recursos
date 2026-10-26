@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-tiempo-y-la-marea.png"
+image: "/imagenes/actividades/el-tiempo-y-la-marea.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

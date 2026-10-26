@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comida-internacional-a-la-suerte-de-la-olla.png"
+image: "/imagenes/actividades/comida-internacional-a-la-suerte-de-la-olla.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"

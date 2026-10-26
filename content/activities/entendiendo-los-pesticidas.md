@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/entendiendo-los-pesticidas.png"
+image: "/imagenes/actividades/entendiendo-los-pesticidas.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

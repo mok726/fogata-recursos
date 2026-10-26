@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-cuerpo-humano-y-la-comida.png"
+image: "/imagenes/actividades/el-cuerpo-humano-y-la-comida.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

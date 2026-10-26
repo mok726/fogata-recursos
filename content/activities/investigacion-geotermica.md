@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigacion-geotermica.png"
+image: "/imagenes/actividades/investigacion-geotermica.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

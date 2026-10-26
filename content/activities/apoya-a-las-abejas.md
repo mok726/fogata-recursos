@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/apoya-a-las-abejas.png"
+image: "/imagenes/actividades/apoya-a-las-abejas.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

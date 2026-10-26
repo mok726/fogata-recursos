@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dia-de-azul.png"
+image: "/imagenes/actividades/dia-de-azul.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

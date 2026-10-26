@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comestibles-energeticos.png"
+image: "/imagenes/actividades/comestibles-energeticos.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

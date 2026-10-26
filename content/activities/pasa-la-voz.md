@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/pasa-la-voz.png"
+image: "/imagenes/actividades/pasa-la-voz.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

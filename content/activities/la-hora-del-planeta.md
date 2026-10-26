@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-hora-del-planeta.png"
+image: "/imagenes/actividades/la-hora-del-planeta.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

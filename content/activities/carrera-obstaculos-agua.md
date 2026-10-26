@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/carrera-obstaculos-agua.png"
+image: "/imagenes/actividades/carrera-obstaculos-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

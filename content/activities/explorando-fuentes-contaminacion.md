@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/explorando-fuentes-contaminacion.png"
+image: "/imagenes/actividades/explorando-fuentes-contaminacion.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

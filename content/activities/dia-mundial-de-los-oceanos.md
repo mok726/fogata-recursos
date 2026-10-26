@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/dia-mundial-de-los-oceanos.png"
+image: "/imagenes/actividades/dia-mundial-de-los-oceanos.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

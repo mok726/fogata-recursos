@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/aguas-mas-calidas.png"
+image: "/imagenes/actividades/aguas-mas-calidas.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/perdidas-y-ganancias-del-cultivo.png"
+image: "/imagenes/actividades/perdidas-y-ganancias-del-cultivo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

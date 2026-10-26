@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/diario-de-alimentos-semanal.png"
+image: "/imagenes/actividades/diario-de-alimentos-semanal.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

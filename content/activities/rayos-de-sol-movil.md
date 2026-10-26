@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/rayos-de-sol-movil.png"
+image: "/imagenes/actividades/rayos-de-sol-movil.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/crea-un-zumbido.png"
+image: "/imagenes/actividades/crea-un-zumbido.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

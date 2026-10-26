@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/que-animal-soy-yo.png"
+image: "/imagenes/actividades/que-animal-soy-yo.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

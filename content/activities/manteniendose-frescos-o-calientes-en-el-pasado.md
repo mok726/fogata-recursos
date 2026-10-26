@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.png"
+image: "/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

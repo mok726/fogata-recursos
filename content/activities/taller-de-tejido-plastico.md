@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-tejido-plastico.png"
+image: "/imagenes/actividades/taller-de-tejido-plastico.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

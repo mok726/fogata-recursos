@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/marca-algunos-goles-ods.png"
+image: "/imagenes/actividades/marca-algunos-goles-ods.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"

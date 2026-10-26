@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/carteles-en-el-parque.png"
+image: "/imagenes/actividades/carteles-en-el-parque.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

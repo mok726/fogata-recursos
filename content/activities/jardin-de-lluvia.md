@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/jardin-de-lluvia.png"
+image: "/imagenes/actividades/jardin-de-lluvia.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

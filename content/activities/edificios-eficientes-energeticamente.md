@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/edificios-eficientes-energeticamente.png"
+image: "/imagenes/actividades/edificios-eficientes-energeticamente.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"

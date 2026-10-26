@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-onu-en-tu-pais.png"
+image: "/imagenes/actividades/la-onu-en-tu-pais.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

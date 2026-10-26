@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/extrayendo-el-agua-dulce.png"
+image: "/imagenes/actividades/extrayendo-el-agua-dulce.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

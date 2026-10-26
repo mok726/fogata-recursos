@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/diversion-congelada.png"
+image: "/imagenes/actividades/diversion-congelada.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

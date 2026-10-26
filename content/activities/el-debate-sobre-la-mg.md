@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/el-debate-sobre-la-mg.png"
+image: "/imagenes/actividades/el-debate-sobre-la-mg.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

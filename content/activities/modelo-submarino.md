@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/modelo-submarino.png"
+image: "/imagenes/actividades/modelo-submarino.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

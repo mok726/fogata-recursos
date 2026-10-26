@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/hora-de-la-energia-verde.png"
+image: "/imagenes/actividades/hora-de-la-energia-verde.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

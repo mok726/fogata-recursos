@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/cava-profundamente.png"
+image: "/imagenes/actividades/cava-profundamente.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

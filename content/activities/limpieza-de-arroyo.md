@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/limpieza-de-arroyo.png"
+image: "/imagenes/actividades/limpieza-de-arroyo.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

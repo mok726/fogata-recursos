@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/polinizadores-y-contaminacion.png"
+image: "/imagenes/actividades/polinizadores-y-contaminacion.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/a-punto-o-sin-punto.png"
+image: "/imagenes/actividades/a-punto-o-sin-punto.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

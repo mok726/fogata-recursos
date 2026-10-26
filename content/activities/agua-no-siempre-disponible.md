@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/agua-no-siempre-disponible.png"
+image: "/imagenes/actividades/agua-no-siempre-disponible.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

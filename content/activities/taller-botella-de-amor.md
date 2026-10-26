@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-botella-de-amor.png"
+image: "/imagenes/actividades/taller-botella-de-amor.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

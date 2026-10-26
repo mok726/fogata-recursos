@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/circulo-virtuoso-vs-circulo-vicioso.png"
+image: "/imagenes/actividades/circulo-virtuoso-vs-circulo-vicioso.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"

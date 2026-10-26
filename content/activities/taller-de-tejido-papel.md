@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-tejido-papel.png"
+image: "/imagenes/actividades/taller-de-tejido-papel.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"

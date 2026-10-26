@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tuberias-y-charcos-inteligentes.png"
+image: "/imagenes/actividades/tuberias-y-charcos-inteligentes.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

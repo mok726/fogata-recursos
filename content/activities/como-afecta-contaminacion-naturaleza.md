@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/como-afecta-contaminacion-naturaleza.png"
+image: "/imagenes/actividades/como-afecta-contaminacion-naturaleza.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

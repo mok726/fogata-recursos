@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-bosques-a-traves-de-las-eras.png"
+image: "/imagenes/actividades/los-bosques-a-traves-de-las-eras.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

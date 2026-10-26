@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/encuesta-sobre-reciclaje.png"
+image: "/imagenes/actividades/encuesta-sobre-reciclaje.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"

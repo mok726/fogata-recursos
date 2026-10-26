@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/evento-tiburon-de-ciudades-verdes.png"
+image: "/imagenes/actividades/evento-tiburon-de-ciudades-verdes.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"

@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/huellas-mas-pequenas.png"
+image: "/imagenes/actividades/huellas-mas-pequenas.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-clima-que-da-vida.png"
+image: "/imagenes/actividades/un-clima-que-da-vida.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"

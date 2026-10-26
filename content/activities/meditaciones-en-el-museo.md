@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/meditaciones-en-el-museo.png"
+image: "/imagenes/actividades/meditaciones-en-el-museo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"

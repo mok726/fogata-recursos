@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/frutos-del-mar-sostenibles.png"
+image: "/imagenes/actividades/frutos-del-mar-sostenibles.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuanta-agua-hay-en-tu-cuerpo.png"
+image: "/imagenes/actividades/cuanta-agua-hay-en-tu-cuerpo.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/combatiendo-el-desperdicio-de-alimentos.png"
+image: "/imagenes/actividades/combatiendo-el-desperdicio-de-alimentos.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"

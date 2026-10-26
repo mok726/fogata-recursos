@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/aventuras-linguisticas.png"
+image: "/imagenes/actividades/aventuras-linguisticas.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"

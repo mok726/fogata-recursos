@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arbol-problemas-agua-vida.png"
+image: "/imagenes/actividades/arbol-problemas-agua-vida.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

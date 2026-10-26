@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/desenterrando-la-suciedad.png"
+image: "/imagenes/actividades/desenterrando-la-suciedad.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"

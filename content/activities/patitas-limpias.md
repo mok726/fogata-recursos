@@ -7,7 +7,7 @@ permalink: "/activities/patitas-limpias/"
 description: "Sistema permanente de competencia por inspección para fomentar la limpieza y el orden en la Manada, donde las seisenas rotan roles de limpiadores y jueces acumulando 'Patitas Limpias'."
 summary: "Una seisena limpia, las otras juzgan. La que más Patitas Limpias acumula elige premio."
 version: "1.0"
-image: "/imagenes/actividades/patitas-limpias.png"
+image: "/imagenes/actividades/patitas-limpias.jpg"
 # ========== AUTORÍA Y FUENTES ==========
 author:
   - "Mariano S. Cosentino (Kotick)"
@@ -15,7 +15,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-# image: "/imagenes/actividades/patitas-limpias.png"
+# image: "/imagenes/actividades/patitas-limpias.jpg"
 original: "true"
 
 # ========== CLASIFICACIÓN ==========

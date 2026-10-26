@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/rios-mas-largos.png"
+image: "/imagenes/actividades/rios-mas-largos.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

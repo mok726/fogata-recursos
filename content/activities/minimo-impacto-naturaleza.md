@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/minimo-impacto-naturaleza.png"
+image: "/imagenes/actividades/minimo-impacto-naturaleza.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"

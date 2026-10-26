@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mi-huella-hidrica.png"
+image: "/imagenes/actividades/mi-huella-hidrica.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

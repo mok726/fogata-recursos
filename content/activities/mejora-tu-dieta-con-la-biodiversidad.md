@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mejora-tu-dieta-con-la-biodiversidad.png"
+image: "/imagenes/actividades/mejora-tu-dieta-con-la-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"

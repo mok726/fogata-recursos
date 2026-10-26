@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dia-del-lavado-de-manos.png"
+image: "/imagenes/actividades/dia-del-lavado-de-manos.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

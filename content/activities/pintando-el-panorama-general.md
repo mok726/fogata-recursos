@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pintando-el-panorama-general.png"
+image: "/imagenes/actividades/pintando-el-panorama-general.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"

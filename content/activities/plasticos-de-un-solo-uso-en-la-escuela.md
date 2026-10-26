@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/plasticos-de-un-solo-uso-en-la-escuela.png"
+image: "/imagenes/actividades/plasticos-de-un-solo-uso-en-la-escuela.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"

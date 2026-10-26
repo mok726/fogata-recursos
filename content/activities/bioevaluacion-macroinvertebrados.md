@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bioevaluacion-macroinvertebrados.png"
+image: "/imagenes/actividades/bioevaluacion-macroinvertebrados.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"

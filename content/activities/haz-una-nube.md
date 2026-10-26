@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-una-nube.png"
+image: "/imagenes/actividades/haz-una-nube.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

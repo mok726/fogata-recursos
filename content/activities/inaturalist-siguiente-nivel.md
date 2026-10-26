@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/inaturalist-siguiente-nivel.png"
+image: "/imagenes/actividades/inaturalist-siguiente-nivel.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"

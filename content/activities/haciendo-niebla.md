@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haciendo-niebla.png"
+image: "/imagenes/actividades/haciendo-niebla.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"

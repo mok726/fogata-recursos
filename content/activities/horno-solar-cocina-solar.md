@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/horno-solar-cocina-solar.png"
+image: "/imagenes/actividades/horno-solar-cocina-solar.jpg"
 original: false
 Origin: "Desafío Scouts Go Solar - Scouts de Argentina"
 version: "0.99"
