@@ -161,7 +161,7 @@ rama_rovers:
 # ¡¿Quién es un polinizador?!
 
 ## Resumen
-Dividanse en dos equipos. Cada equipo hace una lista de animales, aves e insectos, incluyendo especies polinizadoras y no polinizadoras. Luego, hagan un juego de preguntas donde cada equipo adivine de la lista del equipo contrario qué especie es polinizadora y cuál no.
+Divídanse en dos equipos. Cada equipo hace una lista de animales, aves e insectos, incluyendo especies polinizadoras y no polinizadoras. Luego, hagan un juego de preguntas donde cada equipo adivine de la lista del equipo contrario qué especie es polinizadora y cuál no.
 
 ## Preparación
 1. Formá dos equipos.

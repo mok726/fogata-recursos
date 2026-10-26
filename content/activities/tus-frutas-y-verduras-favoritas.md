@@ -67,7 +67,7 @@ tags:
   - verduras
   - alimentacion
   - seguridad-alimentaria
-  - fotoreportaje
+  - fotorreportaje
 
 # ========== ENLACES Y ARCHIVOS ==========
 link: []
@@ -165,23 +165,23 @@ rama_rovers:
 # ¡Tus frutas y verduras favoritas!
 
 ## Resumen
-¿Cuáles son tus cinco frutas y verduras favoritas? Averiguá si dependen de los polinizadores para crecer. ¿Qué polinizadores ayudan a estas frutas y verduras, y cómo? ¿Estas plantas corren peligro de desaparecer si sus polinizadores desaparecen? Prepará un fotoreportaje sobre tus cinco frutas y verduras favoritas y su relación con los polinizadores.
+¿Cuáles son tus cinco frutas y verduras favoritas? Averiguá si dependen de los polinizadores para crecer. ¿Qué polinizadores ayudan a estas frutas y verduras, y cómo? ¿Estas plantas corren peligro de desaparecer si sus polinizadores desaparecen? Prepará un fotorreportaje sobre tus cinco frutas y verduras favoritas y su relación con los polinizadores.
 
 ## Preparación
 1. Elegí tus cinco frutas y verduras favoritas.
 2. Investigá su relación con los polinizadores.
-3. Prepará materiales para el fotoreportaje.
+3. Prepará materiales para el fotorreportaje.
 
 ## Desarrollo
 1. Investigá si tus frutas y verduras favoritas dependen de polinizadores.
 2. Identificá qué polinizadores las ayudan y cómo.
 3. Investigá si están en peligro de desaparecer.
-4. Creá un fotoreportaje sobre su relación con los polinizadores.
+4. Creá un fotorreportaje sobre su relación con los polinizadores.
 5. Averiguá cuáles de ellas crecen en tu región.
 6. Con permiso, plantá una en un parque o espacio verde y monitoreala.
 
 ## Cierre
-1. Compartí tu fotoreportaje con el grupo.
+1. Compartí tu fotorreportaje con el grupo.
 2. Reflexioná sobre la importancia de los polinizadores para los alimentos.
 3. Pregunta final: ¿Qué alimento extrañarías más si los polinizadores desaparecieran?
 

@@ -8,3 +8,4 @@
 | 03 | gosolar (13) | hecho | `tanda-03-gosolar.md` |
 | 04 | cfn (20) | hecho | `tanda-04-cfn.md` |
 | 05 | rrd (36) | hecho | `tanda-05-rrd.md` |
+| 06 | polinizadores (37) | hecho | `tanda-06-polinizadores.md` |

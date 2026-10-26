@@ -174,7 +174,7 @@ Los polinizadores son enormemente importantes para nuestros cultivos alimentario
 2. Investigá si su producción depende de polinizadores.
 3. Investigá si se producen localmente.
 4. Investigá para qué se usan.
-5. Creá una presentación o fotoreportaje con tus hallazgos.
+5. Creá una presentación o fotorreportaje con tus hallazgos.
 
 ## Cierre
 1. Compartí tu presentación con el grupo.
