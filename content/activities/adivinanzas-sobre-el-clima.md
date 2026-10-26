@@ -75,13 +75,17 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://www.fao.org/forestry/young-people/yunga/es/"
+    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© FAO – Todos los derechos reservados"
+  url: "https://www.fao.org/contact-us/terms/en/"
+  image: ""
+  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:

@@ -74,13 +74,17 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://www.fao.org/yunga"
+    url: "https://openknowledge.fao.org/handle/20.500.14283/i3225e"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© FAO – Todos los derechos reservados"
+  url: "https://www.fao.org/contact-us/terms/en/"
+  image: ""
+  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:
@@ -147,6 +151,9 @@ rama_caminantes:
 rama_rovers:
   - 4
   - 37
+translation_notice:
+  en: "This translation was not created by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy of this translation. The original ENGLISH edition shall be the authoritative edition."
+  es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
 # ¡El agua es el camino!

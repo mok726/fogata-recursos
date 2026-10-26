@@ -9,14 +9,17 @@ summary: "Cocina una comida con energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
-  - Scouts de Argentina
+  - Solafrica
+  - YUNGA
+  - Organización Mundial del Movimiento Scout
 source:
+  - Solafrica - Scouts Go Solar, Manual de Energía Solar (2015)
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
 image: "/imagenes/actividades/comida-solar.png"
 original: false
-Origin: "Desafío Scouts Go Solar - Scouts de Argentina"
+Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
 
 # ========== CLASIFICACIÓN ==========
@@ -72,22 +75,32 @@ files: []
 
 # ========== REFERENCIAS ==========
 references:
-  - title: "Desafío Scouts Go Solar - Manual de Energía Solar"
-    author: "Scouts de Argentina"
-    year: 2021
-    series: "Tribu Tierra - Mundo Mejor"
-    url: "https://www.scouts.org.ar"
+  - title: "Scouts Go Solar - Manual de Energía Solar"
+    author: "Solafrica, YUNGA, OMMS"
+    year: 2015
+    series: "Adaptación al español: Abelardo Castillo Rosas. Usado por Scouts de Argentina en el desafío Go Solar (Tribu Tierra - Mundo Mejor)"
+    url: "https://www.solafrica.ch/scout-badge"
 
 # ========== LICENCIA ==========
 license:
-  name: "Propiedad intelectual de Scouts de Argentina Asociación Civil"
-  url: "https://www.scouts.org.ar"
+  name: "© Solafrica – Sin licencia publicada"
+  url: "https://www.solafrica.ch/scout-badge"
   image: ""
+  note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
+  allowed: "Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales."
+  pending: "Publicar esta adaptación en un sitio web: autorización solicitada a Solafrica y a Scouts de Argentina el 26/10/2026, en espera de respuesta."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:
-  - entity: "© Scouts de Argentina Asociación Civil 2021"
+  - entity: "© Solafrica 2015"
     role: "fuente y titular de los derechos de autor"
+    year: 2015
+  - entity: "Abelardo Castillo Rosas"
+    role: "traducción y adaptación al español del manual"
+    year: 2015
+  - entity: "Scouts de Argentina"
+    role: "desafío Go Solar (Tribu Tierra - Mundo Mejor)"
     year: 2021
   - entity: "Mariano S. Cosentino"
     role: "Adaptación y compilación para publicación WEB"

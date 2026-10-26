@@ -77,7 +77,7 @@ references:
     author: "World Scout Bureau / UNEP"
     year: 2020
     series: "Earth Tribe"
-    url: "https://www.scout.org"
+    url: "https://learn.scout.org/node/8523"
   - title: "Hacia el uso responsable de los plásticos: Reducir, reutilizar, reciclar"
     author: "Centro para la Educación Ambiental, India"
     year: 2020
@@ -85,13 +85,17 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© World Scout Bureau Inc. – Todos los derechos reservados"
+  url: "https://www.scout.org"
+  image: ""
+  note: "Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)."
+  allowed: "Reproducción por las organizaciones scouts nacionales miembro de la OMMS."
+  pending: "Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el 26/10/2026, en espera de respuesta."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:
-  - entity: "© World Scout Bureau 2020"
+  - entity: "© 2020. Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)"
     role: "fuente y titular de los derechos de autor"
     year: 2020
   - entity: "© Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)"
