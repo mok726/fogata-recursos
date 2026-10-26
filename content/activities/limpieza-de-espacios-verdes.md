@@ -83,9 +83,10 @@ translation_notice:
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY 4.0 IGO"
-  url: "https://creativecommons.org/licenses/by/4.0/legalcode.en"
-  image: "https://licensebuttons.net/l/by/4.0/88x31.png"
+  name: "Creative Commons BY-NC-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
+  note: "Adaptación de una obra de la FAO publicada bajo CC BY 4.0. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
 
 # ========== ATRIBUCIONES ==========
 attributions:

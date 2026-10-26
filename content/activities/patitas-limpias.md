@@ -97,9 +97,9 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "Creative Commons BY-NC-SA 4.0"
+  url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
+  image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
 
 # ========== ATRIBUCIONES ADICIONALES ==========
 attributions:

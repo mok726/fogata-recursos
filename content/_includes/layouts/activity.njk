@@ -846,6 +846,9 @@ Ruta: {{ comp.ruta }}
                  alt="{{ license.name }}"
                  class="license-image">
             {% endif %}
+            {% if license.note %}
+              <p class="license-note">{{ license.note }}</p>
+            {% endif %}
           </div>
         {% endif %}
 

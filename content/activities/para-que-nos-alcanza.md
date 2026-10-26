@@ -78,9 +78,11 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© Scouts de Argentina Asociación Civil – Todos los derechos reservados"
+  url: "https://www.scouts.org.ar"
+  image: ""
+  note: "Permiso para publicar esta adaptación: pendiente de solicitud."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:

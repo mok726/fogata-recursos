@@ -68,9 +68,11 @@ references:
     url: "https://www.fao.org/forestry/young-people/yunga/es/"
 
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© FAO – Todos los derechos reservados"
+  url: "https://www.fao.org/contact-us/terms/en/"
+  image: ""
+  note: "La FAO autoriza el uso no comercial citándola como fuente y titular de los derechos. La traducción y la adaptación requieren su permiso: pendiente de solicitud."
+  status: "permiso-pendiente"
 
 attributions:
   - entity: "© FAO 2017"

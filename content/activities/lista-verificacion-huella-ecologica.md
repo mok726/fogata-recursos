@@ -87,9 +87,11 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© World Scout Bureau Inc. – Todos los derechos reservados"
+  url: "https://www.scout.org"
+  image: ""
+  note: "La reproducción está autorizada solo a las organizaciones miembro de la OMMS. Permiso para publicar esta adaptación: pendiente de solicitud."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:

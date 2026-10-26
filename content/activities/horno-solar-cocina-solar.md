@@ -84,9 +84,11 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "Propiedad intelectual de Scouts de Argentina Asociación Civil"
+  name: "© Scouts de Argentina Asociación Civil – Todos los derechos reservados"
   url: "https://www.scouts.org.ar"
   image: ""
+  note: "Permiso para publicar esta adaptación: pendiente de solicitud."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:
