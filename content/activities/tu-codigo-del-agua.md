@@ -194,7 +194,7 @@ En esta actividad, los participantes reflexionan sobre la importancia de cuidar 
 - Reutilizar el agua de la lluvia para regar plantas.
 - No tirar basura en ríos, lagos o el mar.
 - Usar un vaso para enjuagarme en lugar de dejar correr el agua.
-- Lavar el coche con un balde en lugar de una manguera.
+- Lavar el auto con un balde en lugar de una manguera.
 - Informar a mi familia y amigos sobre la importancia del agua.
 - Participar en actividades de limpieza de fuentes de agua.
 - Reducir el consumo de productos que requieren mucha agua para su fabricación.

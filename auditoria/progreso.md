@@ -20,3 +20,4 @@
 | 15 | cambioclimatico (86) | hecho | `tanda-15-cambioclimatico.md` |
 | 16 | bosques (89, sin original) | hecho | `tanda-16-bosques.md` |
 | 17 | biodiversidad (111; faltan A09–A10) | hecho | `tanda-17-biodiversidad.md` |
+| 18 | agua (155) | hecho | `tanda-18-agua.md` |

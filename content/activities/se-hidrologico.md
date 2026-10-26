@@ -185,7 +185,7 @@ Muchas personas no son conscientes de la importancia de ahorrar y proteger nuest
 5. Una vez que terminen, pueden elegir colocarlos alrededor de la escuela o lugar de reunión, o llevarlos a casa o a la biblioteca local para compartir ideas con sus familias y vecinos.
 
 ## Ideas para ahorrar agua
-- Lava el coche usando un balde.
+- Lava el auto usando un balde.
 - Cierra el grifo mientras te enjabonas las manos o te cepillas los dientes.
 - Lávate las manos antes de comer.
 - Toma una ducha de cinco minutos.

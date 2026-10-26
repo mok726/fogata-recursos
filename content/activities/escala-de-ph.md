@@ -201,7 +201,7 @@ Registren los resultados en la tabla:
 **Opcional:** También pueden probar el pH del arroyo más cercano y cómo varía desde su fuente hasta su desembocadura.
 
 ### Parte IV - Reflexión
-Muchas fábricas queman combustibles fósiles como carbón, petróleo y gas, que liberan dióxido de azufre y óxido nitroso al aire. Cuando estos productos químicos se mezclan con la precipitación, caen como lluvia ácida. ¿Cómo creen los participantes que la lluvia ácida afectará a su comunidad?
+Muchas fábricas queman combustibles fósiles como carbón, petróleo y gas, que liberan dióxido de azufre y óxidos de nitrógeno al aire. Cuando estos productos químicos se mezclan con la precipitación, caen como lluvia ácida. ¿Cómo creen los participantes que la lluvia ácida afectará a su comunidad?
 
 ## Cierre
 - ¿Cuánta variabilidad en el pH ves?

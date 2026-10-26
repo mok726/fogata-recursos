@@ -172,7 +172,7 @@ Explica a tu grupo que van a hacer un pequeño experimento que les permitirá ve
 
 ### Parte II - Experimento
 1. Pide a los participantes que te ayuden a colocar algunos cubos de hielo en una olla.
-2. Calienta el agua en la olla hasta que hierva. (El agua hierve a 100°C).
+2. Un adulto calienta el agua en la olla hasta que hierva (el agua hierve a 100°C). Cuidado: el vapor quema; los participantes observan a distancia.
 3. Pide a los participantes que observen el hielo derretirse y convertirse en agua líquida.
 4. Luego, pide a tu grupo que observe cómo el agua se evapora en forma de vapor mientras hierve.
 5. Coloca la tapa de la olla sobre la olla. Cuando el vapor de agua entre en contacto con la tapa, que está más fría que la olla, se forman gotas de agua. Esto es condensación.

@@ -153,7 +153,7 @@ Nada en un río, lago o mar seguro para observar la vida bajo el agua y registra
 3. Asegura supervisión adulta.
 
 ## Desarrollo
-1. **Preparación** (10 min): Revisa el equipo y las medidas de seguridad.
+1. **Preparación** (10 min): Solo para quienes saben nadar, con supervisión adulta (idealmente guardavidas) y en un lugar habilitado. Revisa el equipo y las medidas de seguridad.
 2. **Observación** (20 min): Nada y observa la vida subacuática.
 3. **Registro** (10 min): Dibuja lo que viste.
 4. **Compartir** (5 min): Comparte tus dibujos con el grupo.

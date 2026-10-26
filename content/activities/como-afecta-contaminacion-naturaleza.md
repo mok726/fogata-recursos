@@ -4,7 +4,7 @@ title: "¿Cómo Afecta la Contaminación a la Naturaleza?"
 duration: "1 hora (preparación) + 5 sesiones de 10 min (observación) + 30 min (discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/como-afecta-contaminacion-naturaleza/"
-description: "Los participantes investigan los efectos de diferentes contaminantes en el crecimiento de las plantas a través de un experimento con semillas de frijol."
+description: "Los participantes investigan los efectos de diferentes contaminantes en el crecimiento de las plantas a través de un experimento con semillas de poroto."
 summary: "Experimento sobre contaminación y plantas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Semillas de frijol lima (previamente remojadas)
+  - Semillas de poroto pallar (previamente remojadas)
   - Bolsas de plástico para sándwich
   - Toallas de papel
   - Marcadores
@@ -167,11 +167,11 @@ translation_notice:
 # ¿Cómo Afecta la Contaminación a la Naturaleza?
 
 ## Resumen
-En esta actividad, los participantes investigan los efectos de diferentes contaminantes en el crecimiento de las plantas a través de un experimento con semillas de frijol. Simulan cómo la contaminación del agua afecta los cultivos y reflexionan sobre sus consecuencias.
+En esta actividad, los participantes investigan los efectos de diferentes contaminantes en el crecimiento de las plantas a través de un experimento con semillas de poroto. Simulan cómo la contaminación del agua afecta los cultivos y reflexionan sobre sus consecuencias.
 
 ## Preparación
 1. Prepara 30 ml de cada solución: agua limpia (control), vinagre, agua con sal y agua con jabón líquido.
-2. Prepara las semillas de frijol lima remojándolas previamente.
+2. Prepara las semillas de poroto pallar remojándolas previamente.
 
 ## Desarrollo
 
@@ -179,14 +179,14 @@ En esta actividad, los participantes investigan los efectos de diferentes contam
 1. Pregunta a tu grupo de dónde obtienen las plantas el agua que usan para crecer (lluvia, agua subterránea, riego) y cómo se vería afectado el crecimiento de las plantas por el agua contaminada.
 
 ### Paso 2: Contexto del experimento
-2. Explica el contexto del experimento: una empresa química local ha estado vertiendo desechos en sus campos traseros y se han filtrado a una fuente de agua subterránea local. Los científicos locales (tu grupo) han sido contratados para estudiar los efectos a largo plazo de esta contaminación en los cultivos locales (frijoles lima).
+2. Explica el contexto del experimento: una empresa química local ha estado vertiendo desechos en sus campos traseros y se han filtrado a una fuente de agua subterránea local. Los científicos locales (tu grupo) han sido contratados para estudiar los efectos a largo plazo de esta contaminación en los cultivos locales (porotos pallares).
 3. Los participantes compararán el crecimiento de las semillas en cuatro soluciones diferentes: agua (agua dulce), vinagre (lluvia ácida), solución salina (agua salada) y jabón (derrames químicos en agua dulce).
 
 ### Paso 3: Configuración del experimento
 4. Divide a los participantes en grupos de laboratorio (preferiblemente grupos de cuatro).
-5. Cada grupo debe recibir cuatro semillas de frijol lima, cuatro bolsas para sándwich y cuatro trozos de toalla de papel.
+5. Cada grupo debe recibir cuatro semillas de poroto pallar, cuatro bolsas para sándwich y cuatro trozos de toalla de papel.
 6. Pide a cada grupo que etiquete cada bolsa, una para cada líquido. Los participantes deben remojar una toalla de papel en cada líquido y colocarla en la bolsa correspondiente. Luego deben añadir 10 ml del líquido correspondiente en cada bolsa.
-7. Coloca una semilla de frijol en la parte superior de cada toalla de papel y sella la bolsa.
+7. Coloca una semilla de poroto en la parte superior de cada toalla de papel y sella la bolsa.
 8. Pide a cada grupo que haga un pequeño agujero en la parte superior de cada bolsa, ya que las semillas necesitarán oxígeno para crecer.
 9. Pide a los grupos que coloquen todos sus experimentos en el mismo lugar del salón para observarlos durante los próximos siete días.
 

@@ -192,12 +192,12 @@ Si vives cerca de la costa, esta es una excelente manera de animar a tu grupo a 
 
 - **Disfruta mirando animales y plantas, pero no los toques ni molestes sus hogares.**
 - **No te lleves tesoros de la playa, déjalos aquí para que otros los disfruten.**
-- **Recicla el aceite del motor en una gasolinera; todo lo que va por el desagüe termina en el océano.**
+- **Recicla el aceite del motor en una estación de servicio; todo lo que va por el desagüe termina en el océano.**
 - **Si haces un picnic en la playa, no olvides llevarte toda la basura. La basura que llega al océano puede dañar a los animales, especialmente el plástico.**
 - **Todo lo que tiras termina en algún lugar, y gran parte de la basura termina en el océano. ¡Recicla!**
 - **Si llevas tus mascotas a la playa, asegúrate de que no molesten a la vida silvestre local.**
 - **Cuando sea seguro, pide agua del grifo en lugar de agua embotellada; envasar y transportar toda esa agua embotellada produce toneladas de contaminación.**
-- **Toma el autobús, anda en bicicleta o camina en lugar de usar el coche; esto quemará menos combustibles fósiles y reducirá la lluvia ácida y la contaminación del agua.**
+- **Toma el colectivo, anda en bicicleta o camina en lugar de usar el auto; esto quemará menos combustibles fósiles y reducirá la lluvia ácida y la contaminación del agua.**
 - **Come solo pescado que provenga de pesquerías y acuicultura monitoreadas y sostenibles. Sé selectivo con los mariscos que comes.**
 - **No te lleves plantas y animales silvestres a casa. Déjalos en su hábitat; son muy difíciles de mantener vivos.**
 

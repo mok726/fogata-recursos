@@ -166,16 +166,16 @@ El agua constituye aproximadamente el 70 por ciento del peso de un ser humano. U
 Recuerda a tu grupo que el agua constituye aproximadamente el 70 por ciento del peso de un ser humano y que una persona no podría vivir sin agua.
 
 ### Parte II - Cálculo
-Explica que van a calcular cuánta agua hay en sus cuerpos. Cada participante (o puedes elegir dos o tres) debe completar el siguiente formulario:
+Explica que van a calcular cuánta agua hay en sus cuerpos. Para no exponer el peso de nadie, usen un peso de ejemplo (o el del dirigente) y completen el siguiente formulario:
 
 **Tu peso:** (kilogramos)
 
 1. Multiplica tu peso por 2: (kilogramos)
 2. Divide tu respuesta al paso 1 entre 3. Este es el número de kilogramos de agua en ti: (kilogramos de agua)
-3. Divide tu respuesta al paso 2 entre 2. Este es el número de litros de agua en ti: (litros de agua)
+3. Como 1 kg de agua ocupa aproximadamente 1 litro, el resultado del paso 2 es también, aproximadamente, el número de litros de agua en el cuerpo: (litros de agua)
 
 ### Parte III - Compartir
-Cada participante comparte cuánta agua hay en su cuerpo.
+Comparen los resultados: ¿cuántas botellas de 1 litro serían?
 
 ## Cierre
 - ¿Por qué el cuerpo humano necesita agua?

@@ -181,7 +181,7 @@ Te preguntarás por qué hay tanta diferencia en la disponibilidad de agua. Algu
 - **13:** Dejaste el grifo goteando, ¡vuelve al Inicio!
 - **16:** Tomaste un baño largo en lugar de una ducha corta, ¡vuelve a la casilla 9!
 - **35:** Viste un envoltorio de helado en la calle y no lo recogiste, ahora ha sido arrastrado al desagüe, ¡vuelve a la casilla 25!
-- **46:** Lavaste el coche de tu padre con la manguera, ¡vuelve a la casilla 32!
+- **46:** Lavaste el auto de la familia con la manguera, ¡vuelve a la casilla 32!
 - **51:** Usaste la lavadora para media carga, ¡vuelve a la casilla 40!
 - **60:** Tu granja está usando demasiados fertilizantes que están siendo arrastrados por el agua de escorrentía, ¡vuelve a la casilla 48!
 - **65:** Usaste una manguera para limpiar tu entrada, ¡vuelve a la casilla 53!

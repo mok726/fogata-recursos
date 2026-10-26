@@ -160,7 +160,7 @@ Limpia un río, estanque, lago o playa en tu área y convierte la basura recolec
 ## Preparación
 1. Identifica un lugar acuático contaminado.
 2. Reúne materiales: guantes, redes, bolsas.
-3. Asegura supervisión adulta.
+3. Asegura supervisión adulta: un adulto explica cómo trabajar seguro (guantes, no tocar vidrios, jeringas ni objetos cortantes, no meterse al agua) y sin molestar a la fauna local.
 
 ## Desarrollo
 1. **Limpieza** (40 min): Recolecta basura del agua y sus orillas.
