@@ -175,6 +175,7 @@ Las semillas de los hongos se llaman esporas y el viento las dispersa constantem
 3. Cubre con un vaso o taza y espera varias horas.
 4. Retira el hongo con cuidado.
 5. Observa la impresión de esporas única de cada especie.
+6. **Seguridad**: no uses hongos venenosos; pide ayuda a un experto para identificarlos. Nunca los pruebes y lávate las manos al terminar.
 
 ## Cierre
 1. Compara las impresiones de esporas de las diferentes especies.

@@ -174,7 +174,7 @@ La biodiversidad puede ayudar a reducir los efectos del cambio climático. Haz u
 2. Crea un video o póster original explicando este concepto.
 3. Si haces un video, súbelo a YouTube.
 4. Si haces un póster, preséntalo a tu grupo o clase.
-5. Asegúrate de contar con la autorización de todos en el video.
+5. Asegúrate de contar con la autorización de todos en el video y de sus padres antes de publicarlo.
 
 ## Cierre
 1. Comparte tu trabajo con el grupo.

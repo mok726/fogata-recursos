@@ -161,7 +161,7 @@ rama_rovers:
 # ¡Alimentos alrededor del mundo!
 
 ## Resumen
-Elige un producto alimenticio que se coma en varios países del mundo, como bananas, frijoles, tomates o maíz. ¿Dónde se originó este alimento? ¿Existen diferentes variedades en los distintos países? ¿Cómo se cocina este alimento en los varios países? Prueba tres recetas de tres países diferentes.
+Elige un producto alimenticio que se coma en varios países del mundo, como bananas, porotos, tomates o maíz. ¿Dónde se originó este alimento? ¿Existen diferentes variedades en los distintos países? ¿Cómo se cocina este alimento en los varios países? Prueba tres recetas de tres países diferentes.
 
 ## Preparación
 1. Elige un alimento para investigar.

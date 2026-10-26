@@ -179,7 +179,7 @@ Recolecta semillas y pequeñas plantas (incluyendo las raíces) de una zanja o a
 3. Planta las semillas y pequeñas plantas.
 4. Coloca musgo si lo deseas.
 5. Riega ligeramente.
-6. Cuida el terrario mientras crece.
+6. Cuida el terrario mientras crece. Si decides deshacerte de las plantas, devuélvelas al lugar donde las encontraste. Recolecta lejos del tránsito y siempre con un adulto.
 
 ## Cierre
 1. Comparte tu terrario con el grupo.

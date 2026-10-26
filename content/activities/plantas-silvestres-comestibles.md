@@ -173,6 +173,7 @@ Pide a una persona indígena (llamada algunas veces aborigen, nativa o miembro d
 2. Reconoce e identifica las plantas y sus usos.
 3. Haz un collage con las hierbas y plantas.
 4. Registra sus nombres y usos.
+5. **Seguridad**: no tomes ni comas ninguna planta por tu cuenta; algunas venenosas se parecen mucho a las comestibles.
 
 ## Cierre
 1. Comparte tu collage con el grupo.

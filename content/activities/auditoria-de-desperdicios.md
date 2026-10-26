@@ -170,7 +170,7 @@ rama_rovers:
 # ¡Auditoría de desperdicios!
 
 ## Resumen
-Conduce una auditoría de desperdicios en tu casa, tu escuela o algún otro lugar. Crea un plan de acción para reducir la cantidad de desechos que produces y para desviarlos fuera de los tiraderos de basura. Lleva a cabo tu plan.
+Conduce una auditoría de desperdicios en tu casa, tu escuela o algún otro lugar. Crea un plan de acción para reducir la cantidad de desechos que produces y para desviarlos fuera de los basurales. Lleva a cabo tu plan.
 
 ## Preparación
 1. Prepara materiales para la auditoría.

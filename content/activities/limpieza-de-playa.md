@@ -162,7 +162,7 @@ Organicen o participen en una limpieza de playa. Monitoreen el progreso de recup
 
 ## Preparación
 1. Obtén permiso para realizar la limpieza.
-2. Reúne bolsas de basura y guantes.
+2. Reúne bolsas de basura y guantes. Cuidado con objetos filosos o tóxicos (vidrios, jeringas, latas): no los toques sin guantes y avisa a un adulto.
 3. Organiza los grupos de trabajo.
 
 ## Desarrollo

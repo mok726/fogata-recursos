@@ -176,7 +176,7 @@ Luego de morir, las plantas y los animales proveen alimento para criaturas minú
 3. Extiende un globo desinflado sobre la apertura de la botella.
 
 ## Desarrollo
-1. Coloca la materia orgánica en descomposición dentro de la botella.
+1. Con la ayuda de un adulto, coloca la materia orgánica en descomposición dentro de la botella.
 2. Coloca el globo sobre la apertura.
 3. Ubica la botella cerca a una fuente de calor o bajo el sol.
 4. Observa el globo durante los próximos cinco a diez días.

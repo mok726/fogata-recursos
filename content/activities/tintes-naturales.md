@@ -185,6 +185,7 @@ Antes de la invención de los colorantes químicos artificiales, la ropa y otras
 3. Añade un fijador (sal o vinagre).
 4. Tiñe la camiseta o pañuelo.
 5. Deja secar.
+6. **Seguridad**: evita cualquier planta venenosa y no pruebes los tintes. La olla caliente la maneja un adulto.
 
 ## Cierre
 1. Comparte tu trabajo con el grupo.

@@ -178,7 +178,7 @@ Averigua qué especies de murciélagos viven en tu área y qué hábitat y alime
 2. Construye una casa para murciélagos siguiendo las instrucciones.
 3. Coloca la casa en un lugar apropiado.
 4. Obsérvala en la tarde y hacia la noche durante varias semanas.
-5. Registra tus observaciones.
+5. Registra tus observaciones. **Nunca toques un murciélago** (pueden transmitir rabia); si encuentras uno caído, avisa a un adulto.
 
 ## Cierre
 1. Comparte tus observaciones con el grupo.

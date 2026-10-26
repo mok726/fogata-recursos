@@ -174,6 +174,7 @@ Construyan un estanque para crear un nuevo hábitat para insectos, anfibios, pla
 2. Planta especies nativas acuáticas.
 3. Observa cómo se establece el ecosistema.
 4. Mantén el estanque limpio.
+5. **Mosquitos**: un estanque puede ser criadero de mosquitos (en Argentina, dengue). Incorporen peces nativos que coman larvas y no dejen agua estancada en recipientes cercanos.
 
 ## Cierre
 1. Comparte tu experiencia con el grupo.

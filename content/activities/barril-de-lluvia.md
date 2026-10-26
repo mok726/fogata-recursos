@@ -171,7 +171,7 @@ Haz un barril de lluvia empleando material reciclado limpio. Enumera todos los p
 
 ## Desarrollo
 1. Construye el barril de lluvia.
-2. Coloca un filtro para evitar la entrada de hojas y residuos.
+2. Coloca un filtro para evitar la entrada de hojas y residuos, y mantén el barril **tapado** para que no críen mosquitos (dengue).
 3. Enumera todos los posibles usos para el agua recolectada.
 4. Utiliza el agua para algunos de esos usos.
 

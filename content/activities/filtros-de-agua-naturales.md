@@ -177,7 +177,7 @@ Algunas especies son importantes para limpiar el agua y hacerla disponible para 
 1. Compara los métodos de filtración de diferentes especies.
 2. Construye tu propio filtro de agua.
 3. Prueba el filtro con agua sucia.
-4. Observa los resultados.
+4. Observa los resultados. El agua filtrada **no es potable**: no la tomes.
 
 ## Cierre
 1. Comparte tus hallazgos con el grupo.

@@ -171,7 +171,7 @@ Realiza un comercial sobre la biodiversidad. Grábalo y publícalo en YouTube. M
 ## Desarrollo
 1. Graba el comercial.
 2. Edita el video.
-3. Publícalo en YouTube.
+3. Publícalo en YouTube solo con el permiso de todos los que aparecen y de sus padres (en menores, mejor sin caras ni nombres).
 4. Monitorea reproducciones y comentarios durante un mes.
 
 ## Cierre
