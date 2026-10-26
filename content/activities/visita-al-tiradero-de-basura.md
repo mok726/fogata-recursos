@@ -114,7 +114,7 @@ category:
   - Visita
 
 skills:
-  - Investigação
+  - Investigación
   - Análisis
   - Comunicación
 

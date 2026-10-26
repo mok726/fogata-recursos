@@ -186,13 +186,13 @@ Vamos a pensar y descubrir cuánto plástico usamos, y después vamos a pensar c
 ## Lista de Preguntas
 
 ### Concientización general
-1. Quiero ayudar a disminuir el impacto humano en la naturaleza. (SI / NO / MÁS O MENOS)
-2. Sé cómo disminuir el impacto humano en la naturaleza. (SI / NO / MÁS O MENOS)
+1. Quiero ayudar a disminuir el impacto humano en la naturaleza. (SÍ / NO / MÁS O MENOS)
+2. Sé cómo disminuir el impacto humano en la naturaleza. (SÍ / NO / MÁS O MENOS)
 3. Yo contamino. (MUCHO / POQUITO / NADA)
 4. Tiro basura en la calle. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
 ### Conocimiento sobre plásticos
-5. Sé qué plásticos contaminan. (SI / NO / MÁS O MENOS)
+5. Sé qué plásticos contaminan. (SÍ / NO / MÁS O MENOS)
 6. Uso pajitas de plástico para tomar gaseosas. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 7. Tiro las botellas plásticas a la basura. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
@@ -207,8 +207,8 @@ Vamos a pensar y descubrir cuánto plástico usamos, y después vamos a pensar c
 13. Cierro bien la canilla mientras me lavo los dientes. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
 ### Conocimiento e impacto
-14. Sé qué impacto tiene la contaminación en los ecosistemas, en la salud de las personas y en las comunidades. (SI / NO / MÁS O MENOS)
-15. Participo de eventos que abordan la contaminación de los ecosistemas acuáticos y terrestres. (SI / NO / MÁS O MENOS)
+14. Sé qué impacto tiene la contaminación en los ecosistemas, en la salud de las personas y en las comunidades. (SÍ / NO / MÁS O MENOS)
+15. Participo de eventos que abordan la contaminación de los ecosistemas acuáticos y terrestres. (SÍ / NO / MÁS O MENOS)
 
 ## Cierre
 

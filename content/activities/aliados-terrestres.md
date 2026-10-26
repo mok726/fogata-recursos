@@ -105,7 +105,7 @@ competencies:
   - Pensamiento sistémico
 
 activity_type:
-  - Investigação
+  - Investigación
   - Reflexión
   - Creatividad / Arte
 

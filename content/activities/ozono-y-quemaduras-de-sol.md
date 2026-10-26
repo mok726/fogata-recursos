@@ -120,7 +120,7 @@ category:
   - Ozono
   - Protección solar
 skills:
-  - Investigação
+  - Investigación
   - Conciencia sobre salud
   - Pensamiento crítico
 

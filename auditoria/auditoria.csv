@@ -1,0 +1,13 @@
+slug,insignia,codigo,fuente_original,material_aux_original_url,prioridad,corregido_en_pr,problemas_principales,referencias_sugeridas,imagen,tanda
+cuanto-plastico-uso,general,general-E06,propio,,P2,SÍ (PR),13 preguntas iguales a cuanto-se-de-ecologia; pocas sobre plástico; faltan carteles y hoja del facilitador,no,"regenerar: texto PLASTIC, destello",01
+cuanto-se-de-ecologia,general,general-E05,propio,,P2,SÍ (PR),Formulario de compromiso listado pero inexistente; el título dice saber pero mide hábitos,no,floja,01
+junta-cuida-pesa,general,general-E04,propio (sin texto original),,P1,seisenas (PR),Seguridad: basura a mano/bolsillo; peso premia lo pesado; atribución 'Autor' placeholder,no,ok,01
+la-basura-en-su-lugar,general,general-E07,propio,,P2,equipos parejos (PR),Materiales no coinciden con los pasos; faltan tarjetas con clave; sin regla de fin,GCBA ciudad verde,ok,01
+taller-botella-de-amor,general,general-E08,propio,,P1,,Falta lista de qué va/qué no va; llenar en 20 min es irreal,GCBA Botellas de Amor; Billiken; MIT Solve,floja,01
+taller-de-lenos-ecologicos,general,general-E11,propio,,P1,,Revistas satinadas para quemar; sin remojo ni tiempo de secado; molde sin drenaje,leehite.org briquetas (en),regenerar: muestra leña real,01
+taller-de-papel-ecologico,general,general-E12,propio,,P1,,Falta bastidor con malla: sin él no se forma la hoja; 'rotar semanalmente' sin sentido,COLEF papel reciclado (es),ok,01
+taller-de-tejido-papel,general,general-E13,propio,,P2,,"Técnica: enrollar en palito, no doblar con regla; faltan materiales",Cut Out + Keep cesta (es),ok,01
+taller-de-tejido-plastico,general,general-E14,propio,,P3,,Materiales vs preparación inconsistentes,,buena,01
+taller-huerta-de-botella,general,general-E09,propio,,P3,cultivos en botellas (PR),Faltan piedras e hilo en materiales,INTA riego por goteo con botellas (NC),floja,01
+taller-macetas-y-germinadoras,general,general-E10,propio,,P1,,Semillas enterradas 2 cm: demasiado hondo,,ok,01
+patitas-limpias,comunidad,COMUNIDAD-M01,propio,,P1,varios typos (PR),PDF enlazado inexistente; insignia 'comunidad' no existe; branch vacío,no,no corresponde,01

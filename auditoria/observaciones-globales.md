@@ -1,0 +1,39 @@
+# Observaciones globales
+
+Problemas que afectan a muchas actividades. Cada tanda los referencia por código (G1, G2…) en vez de repetirlos.
+
+## G1. Licencia "CC BY-NC-SA 3.0 IGO" en actividades propias (P1)
+
+Las 11 actividades `original: true` declaran **CC BY-NC-SA 3.0 IGO**. La variante IGO es solo para obras de organizaciones intergubernamentales (FAO, ONU…). Para tus propias obras corresponde una licencia normal, p. ej. **CC BY-NC-SA 4.0** (https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Lo mismo aplica a la insignia `general` en `content/_data/badges.js`. No lo toqué en el PR porque es tu decisión qué licencia usar.
+
+## G2. Imágenes con extensión `.png` que en realidad son JPEG (P3)
+
+1475 de 1481 archivos `imagenes/actividades/*.png` son JPEG. Los navegadores lo toleran (miran el contenido, no la extensión), pero confunde a herramientas y a quien mantiene el sitio. Renombrar implica tocar ~1040 front matters; se puede hacer con un script, no es urgente.
+
+## G3. Registro de idioma mezclado (P3)
+
+Hay mezcla de tuteo neutro ("Divide", "Coloca", "Reúne"), voseo rioplatense ("Juntá, Cuidá, Pesá") y usted ("Proponga a la Manada…"). También léxico mezclado: "pajitas" (España) junto a "canilla" (Argentina). Conviene elegir uno (sugiero tuteo neutro en las instrucciones, que es lo que ya predomina) y dejar el voseo solo en títulos con intención.
+
+## G4. "Sinodal" y "beneficiarios" (P2)
+
+13 actividades usan "el sinodal" o "los beneficiarios" fuera del texto original. "Sinodal" es un término de examen escolar (México); en un contexto scout argentino se entiende mal. Sugiero "el educador/dirigente" o "quien facilita" y "los participantes"/"los lobatos". No lo cambié en el PR porque es terminología tuya; si me das el OK lo reemplazo en todas.
+
+## G5. Edad vs. ramas (P2)
+
+Rangos SAAC: Lobatos 7–10, Scouts 11–14, Caminantes 14–17, Rovers 18–21. Varias actividades dicen `age: "7-17 años"` pero incluyen `rovers`, o `age: "7-14 años"` e incluyen `caminantes`. O se amplía `age` o se ajusta `age_group`.
+
+## G6. Títulos en "Title Case" inglés (P3)
+
+"¿Cuánto Plástico uso?", "La Basura en su Lugar": en español solo va mayúscula la primera palabra y los nombres propios. No lo toqué en el PR (cambia lo que se ve en todo el sitio); decime si lo querés.
+
+## G7. Checklist de verificación no confiable (P2)
+
+El bloque "Checklist de verificación" al final de cada archivo marca todo con `[x]`, aunque falten cosas (p. ej. `junta-cuida-pesa` marca "Texto original incluido" y no lo tiene; las originales marcan "Referencias completas" con `references: []`). El layout no lo muestra, así que no afecta al sitio, pero como control interno no sirve: o se borra o se regenera desde el chequeo automático.
+
+## G8. "Guantes descartables" en talleres de reciclaje (P3)
+
+Talleres que enseñan a reducir plásticos de un solo uso piden guantes descartables. Sugiero guantes de jardinería reutilizables o lavarse las manos.
+
+## G9. Datos del chequeo automático
+
+Ver `chequeo-automatico.md`: 248 actividades sin `duration` (vacío o ausente), 12 con `references` vacío (las 11 originales + 1), 1 sin `branch`, 18 títulos duplicados, 2 `activity_code` duplicados (`agua-A32`, `agua-B41`), 5 valores en portugués ("Investigação"), 3 `original` como texto en vez de booleano. Los de portugués y booleanos van corregidos en el PR.

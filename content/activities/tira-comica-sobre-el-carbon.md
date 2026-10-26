@@ -119,7 +119,7 @@ competencies:
 
 activity_type:
   - Arte
-  - Investigação
+  - Investigación
   - Aprender haciendo
 
 category:

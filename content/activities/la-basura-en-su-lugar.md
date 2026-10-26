@@ -168,7 +168,7 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 ## Preparación
 1. En una tarjeta se escribe, dibuja o imprime un residuo (restos de vegetales, carnes, residuos hogareños varios, contenedores plásticos, metálicos, pilas y objetos diversos).
 2. Las tarjetas se colocan en una caja o bolsa que permita sacarlas sin ver el contenido.
-3. Los participantes se separan en equipos pares y forman una fila detrás de la línea de largada.
+3. Los participantes se separan en equipos parejos y forman una fila detrás de la línea de largada.
 4. En el otro extremo del campo de juego se colocan contenedores etiquetados con el tipo de residuos: generales, reciclables (papel y cartón, plásticos, vidrios, metales), composta, especiales (electrónica, pilas, etc.).
 
 ## Desarrollo

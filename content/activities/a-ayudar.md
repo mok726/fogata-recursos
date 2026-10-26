@@ -113,7 +113,7 @@ category:
   - Solidaridad
 
 skills:
-  - Investigação
+  - Investigación
   - Pensamiento crítico
   - Empatía global
 

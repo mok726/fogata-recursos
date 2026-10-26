@@ -92,7 +92,7 @@ attributions:
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
-ludic_component: 4  # Competencia entre seisénas
+ludic_component: 4  # Competencia entre seisenas
 reflective_component: 4  # Reflexión sobre residuos
 active_component: 4  # Recolección física
 
@@ -223,7 +223,7 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 1. Anunciar los pesos acumulados de cada seisena.
 2. Declarar la ganadora acumulada.
 3. Entregar el premio final.
-4. Aplaudir a todas las seisénas.
+4. Aplaudir a todas las seisenas.
 
 ## Cierre
 

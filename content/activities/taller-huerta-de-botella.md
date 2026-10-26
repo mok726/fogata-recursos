@@ -210,7 +210,7 @@ Aprendemos a reutilizar botellas plásticas convirtiéndolas en macetas donde cu
 - ¿Qué otras cosas podemos usar así?
 
 ### Seguimiento
-- Realizamos seguimiento periódico del estado de los cultivos botellas.
+- Realizamos seguimiento periódico del estado de los cultivos en botellas.
 - Invitamos a los participantes a traer la suya para mostrarla en la jornada de ecología.
 
 ## Texto original completo de la actividad
