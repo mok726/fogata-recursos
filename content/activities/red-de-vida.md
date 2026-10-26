@@ -5,7 +5,7 @@ duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/red-de-vida/"
 description: "Los participantes exploran las conexiones entre plantas y animales en un ecosistema usando una bola de cuerda, visualizando cómo todos están interconectados."
-summary: "Descubre las conexiones en la naturaleza."
+summary: "Descubrí las conexiones en la naturaleza."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -157,31 +157,31 @@ rama_rovers: []
 Con una bola de cuerda, los participantes representan plantas y animales de un ecosistema y descubren cómo todos están conectados y qué pasa cuando uno de ellos desaparece.
 
 ## Preparación
-1. Divide a los participantes en grupos. El tamaño máximo del grupo es de 15. La cantidad ideal sería de 8 a 12.
-2. Prepara tarjetas con plantas y animales locales.
-3. Prepara la bola de cuerda.
+1. Dividí a los participantes en grupos. El tamaño máximo del grupo es de 15. La cantidad ideal sería de 8 a 12.
+2. Prepará tarjetas con plantas y animales locales.
+3. Prepará la bola de cuerda.
 
 ## Desarrollo
 
 ### Parte I - Preparación
-Cada grupo debe sentarse en un círculo con un adulto. Asigna a cada participante una identidad, una planta o un animal. Asegúrate de que sepan al menos un poco sobre la planta o animal para poder jugar, necesitarán conocer cómo las plantas y animales están conectadas en cadenas alimenticias.
+Cada grupo debe sentarse en un círculo con un adulto. Asigná a cada participante una identidad, una planta o un animal. Asegurate de que sepan al menos un poco sobre la planta o animal para poder jugar, necesitarán conocer cómo las plantas y animales están conectadas en cadenas alimenticias.
 
 ### Parte II - Inicio del juego
-Muestra la bola de cuerda y explica que el hilo nos permitirá ver las conexiones entre plantas y animales. Explica que representarás al sol. Tú comenzarás porque toda la energía proviene del sol. Dale forma al juego diciendo "Yo soy el sol. Estoy pasando la bola de cuerda al manzano porque le doy energía al árbol para crecer." Tomas el extremo de la cuerda y le pasas la bola al árbol.
+Mostrá la bola de cuerda y explicá que el hilo nos permitirá ver las conexiones entre plantas y animales. Explicá que representarás al sol. Vos comenzarás porque toda la energía proviene del sol. Dale forma al juego diciendo "Yo soy el sol. Estoy pasando la bola de cuerda al manzano porque le doy energía al árbol para crecer." Tomas el extremo de la cuerda y le pasás la bola al árbol.
 
 ### Parte III - Desarrollo del juego
 El "árbol" ahora elige una planta o animal en el círculo que está conectado a él de alguna manera. El "árbol" sostiene la cuerda y pasa la bola a esa planta o animal. Por ejemplo, el árbol podría pasar la bola al ciervo que come hojas de árbol, al pájaro carpintero que come los insectos en su corteza, o al búho que se asienta en sus ramas. ¡Mantengan la cuerda apretada, pero no demasiado! El juego continúa hasta que todos sostienen la cuerda. Algunas plantas o animales pueden tener más conexiones, pero todos deben ser parte del entramado.
 
 ### Parte IV - Exploración de conexiones
-Reflexiona con los jóvenes. ¿Qué planta o animal tiene más conexiones? ¿Quién depende de quién? ¿Qué pasaría si la cuerda se corta? ¿Qué pasaría si el hongo (o alguna otra planta o animal) desapareciera? Los hongos no son tan importantes, ¿o sí? Intenten el juego de nuevo y esta vez el hongo debe tirar suavemente de la red. Cuando cada planta o animal del círculo sienta el tirón, debe decir en voz alta a la planta o animal que representa.
+Reflexioná con los jóvenes. ¿Qué planta o animal tiene más conexiones? ¿Quién depende de quién? ¿Qué pasaría si la cuerda se corta? ¿Qué pasaría si el hongo (o alguna otra planta o animal) desapareciera? Los hongos no son tan importantes, ¿o sí? Intenten el juego de nuevo y esta vez el hongo debe tirar suavemente de la red. Cuando cada planta o animal del círculo sienta el tirón, debe decir en voz alta a la planta o animal que representa.
 
 ### Parte V - Terminar el juego
-Pregúntale a algunos participantes sobre el juego. ¿Cómo se sintieron al respecto? ¿Pueden dar algunos ejemplos de otras conexiones que haya en el patio de su casa?
+Preguntale a algunos participantes sobre el juego. ¿Cómo se sintieron al respecto? ¿Pueden dar algunos ejemplos de otras conexiones que haya en el patio de su casa?
 
 ## Cierre
 1. ¿Qué planta o animal tenía más conexiones?
 2. ¿Qué pasaría si una especie desapareciera?
-3. ¿Cómo te conectas tú con la naturaleza?
+3. ¿Cómo te conectás vos con la naturaleza?
 
 ## Texto original completo de la actividad
 

@@ -4,7 +4,7 @@ title: "Charla sobre los Árboles"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/charla-sobre-los-arboles/"
-description: "Invita a un arbolista para que hable sobre los árboles. Haz preguntas sobre árboles caducifolios, manglares y más."
+description: "Invitá a un arbolista para que hable sobre los árboles. Hacé preguntas sobre árboles caducifolios, manglares y más."
 summary: "Charla con un especialista en árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -118,7 +118,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Aprender haciendo
 
 category:
@@ -164,18 +164,18 @@ rama_rovers:
 # Charla sobre los Árboles
 
 ## Resumen
-Invita a un arbolista para que hable sobre los árboles. Haz preguntas sobre árboles caducifolios, manglares y más.
+Invitá a un arbolista para que hable sobre los árboles. Hacé preguntas sobre árboles caducifolios, manglares y más.
 
 ## Preparación
-1. Invita a un arbolista a tu reunión.
-2. Prepara preguntas sobre árboles.
-3. Asegura el espacio para la charla.
+1. Invitá a un arbolista a tu reunión.
+2. Prepará preguntas sobre árboles.
+3. Asegurá el espacio para la charla.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas relacionadas con los árboles.
-2. **Charla** (30 min): Escucha al arbolista y haz preguntas.
-3. **Discusión** (15 min): Discute lo aprendido con el grupo.
-4. **Reflexión** (10 min): Comparte lo que más te impactó.
+1. **Preparación** (15 min): Prepará preguntas relacionadas con los árboles.
+2. **Charla** (30 min): Escuchá al arbolista y hacé preguntas.
+3. **Discusión** (15 min): Discutí lo aprendido con el grupo.
+4. **Reflexión** (10 min): Compartí lo que más te impactó.
 
 ## Cierre
 - ¿Qué aprendiste sobre los árboles?

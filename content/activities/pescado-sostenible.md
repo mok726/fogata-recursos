@@ -4,7 +4,7 @@ title: "Pescado sostenible"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pescado-sostenible/"
-description: "Visita a un supermercado para identificar productos pesqueros sostenibles y crear un póster para promover su consumo."
+description: "Visitá a un supermercado para identificar productos pesqueros sostenibles y crear un póster para promover su consumo."
 summary: "Identificar y promover pescado sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -161,23 +161,23 @@ rama_rovers:
 # ¡Pescado sostenible!
 
 ## Resumen
-Visita un supermercado e inspecciona el mostrador del pescado y el pasillo del pescado enlatado. Registra las marcas y las especies de peces que poseen un logo que indica que han sido recolectados o criados sosteniblemente (como el Marine Stewardship Council o Pesca Sostenible Certificada).
+Visitá un supermercado e inspeccioná el mostrador del pescado y el pasillo del pescado enlatado. Registrá las marcas y las especies de peces que poseen un logo que indica que han sido recolectados o criados sosteniblemente (como el Marine Stewardship Council o Pesca Sostenible Certificada).
 
 ## Preparación
-1. Prepara una lista de verificación para la visita.
-2. Investiga sobre certificaciones de pesca sostenible.
-3. Organiza la visita al supermercado.
+1. Prepará una lista de verificación para la visita.
+2. Investigá sobre certificaciones de pesca sostenible.
+3. Organizá la visita al supermercado.
 
 ## Desarrollo
-1. Visita el supermercado.
-2. Inspecciona el mostrador de pescado y el pasillo de enlatados.
-3. Registra las marcas y especies con certificación sostenible.
-4. Elabora un póster para alentar a las personas a comprar estas marcas y especies.
-5. Pregunta al administrador si puedes colgar el póster.
+1. Visitá el supermercado.
+2. Inspeccioná el mostrador de pescado y el pasillo de enlatados.
+3. Registrá las marcas y especies con certificación sostenible.
+4. Elaborá un póster para alentar a las personas a comprar estas marcas y especies.
+5. Preguntá al administrador si podés colgar el póster.
 
 ## Cierre
-1. Comparte tu póster con el grupo.
-2. Reflexiona: ¿Cómo ayuda la certificación a proteger los océanos?
+1. Compartí tu póster con el grupo.
+2. Reflexioná: ¿Cómo ayuda la certificación a proteger los océanos?
 3. Pregunta final: ¿Qué marcas de pescado sostenible encontraste?
 
 ## Texto original completo de la actividad

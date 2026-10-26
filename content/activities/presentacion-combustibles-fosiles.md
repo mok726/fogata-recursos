@@ -4,8 +4,8 @@ title: "Presentando los combustibles fósiles"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentacion-combustibles-fosiles/"
-description: "Investiga un combustible fósil (carbón, petróleo, gas natural) y crea una presentación sobre sus ventajas, desventajas y uso mundial."
-summary: "Explica los pros y contras de los combustibles fósiles."
+description: "Investigá un combustible fósil (carbón, petróleo, gas natural) y creá una presentación sobre sus ventajas, desventajas y uso mundial."
+summary: "Explicá los pros y contras de los combustibles fósiles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -165,17 +165,17 @@ translation_notice:
 # ¡Presentando los combustibles fósiles!
 
 ## Resumen
-Divide el grupo en equipos y elige un combustible fósil (carbón, petróleo, gas natural). Investiga y crea una presentación sobre sus ventajas, desventajas y uso mundial.
+Dividí el grupo en equipos y elegí un combustible fósil (carbón, petróleo, gas natural). Investigá y creá una presentación sobre sus ventajas, desventajas y uso mundial.
 
 ## Preparación
-1. Lee la información sobre combustibles fósiles.
-2. Asigna un combustible fósil a cada grupo.
-3. Prepara materiales para la presentación.
+1. Leé la información sobre combustibles fósiles.
+2. Asigná un combustible fósil a cada grupo.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga tu combustible fósil:
+Investigá tu combustible fósil:
 
 **Preguntas guía:**
 - ¿Qué es y cómo se forma?
@@ -185,7 +185,7 @@ Investiga tu combustible fósil:
 - ¿Cuál es su impacto ambiental?
 
 ### Parte II - Crear la presentación
-Crea una presentación (diapositivas, póster o modelo):
+Creá una presentación (diapositivas, póster o modelo):
 
 **Elementos sugeridos:**
 - **Colorido e interesante**

@@ -4,7 +4,7 @@ title: "Comida Internacional 'A la Suerte de la Olla'"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-internacional-a-la-suerte-de-la-olla/"
-description: "Organiza una cena internacional donde cada invitado trae un plato de un país diferente para compartir."
+description: "Organizá una cena internacional donde cada invitado trae un plato de un país diferente para compartir."
 summary: "Cena internacional para difundir el mensaje contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -176,20 +176,20 @@ rama_rovers:
 # Comida Internacional 'A la Suerte de la Olla'
 
 ## Resumen
-Organiza una cena internacional donde cada invitado trae un plato de un país diferente para compartir.
+Organizá una cena internacional donde cada invitado trae un plato de un país diferente para compartir.
 
 ## Preparación
-1. Elige una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
-2. Invita a amigos y familiares.
-3. Pide a cada invitado que cocine una receta de un país extranjero.
-4. Decora el lugar con banderas internacionales.
+1. Elegí una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
+2. Invitá a amigos y familiares.
+3. Pedí a cada invitado que cocine una receta de un país extranjero.
+4. Decorá el lugar con banderas internacionales.
 
 ## Desarrollo
-1. **Preparación** (30 min): Organiza el espacio y la decoración.
-2. **Cena** (45 min): Comparte los platos internacionales.
-3. **Presentaciones** (15 min): Exhibe afiches, arte o canciones preparadas.
-4. **Mensaje** (15 min): Difunde el mensaje sobre el hambre.
-5. **Compromiso** (10 min): Anima a otros a unirse a la lucha.
+1. **Preparación** (30 min): Organizá el espacio y la decoración.
+2. **Cena** (45 min): Compartí los platos internacionales.
+3. **Presentaciones** (15 min): Exhibí afiches, arte o canciones preparadas.
+4. **Mensaje** (15 min): Difundí el mensaje sobre el hambre.
+5. **Compromiso** (10 min): Animá a otros a unirse a la lucha.
 
 ## Cierre
 - ¿Qué plato internacional te gustó más?

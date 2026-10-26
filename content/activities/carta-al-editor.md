@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Carta al editor!
 
 ## Resumen
-Toma un periódico y lee todos los artículos acerca de la biodiversidad. Usa uno de los artículos como punto de partida para escribir una carta al editor. Envíala al periódico. Si no tienes acceso a periódicos, puedes modificar esta actividad y responder a historias de la radio o de otros medios.
+Tomá un periódico y leé todos los artículos acerca de la biodiversidad. Usá uno de los artículos como punto de partida para escribir una carta al editor. Enviala al periódico. Si no tenés acceso a periódicos, podés modificar esta actividad y responder a historias de la radio o de otros medios.
 
 ## Preparación
-1. Consigue un periódico.
-2. Busca artículos sobre biodiversidad.
-3. Prepara materiales para escribir.
+1. Conseguí un periódico.
+2. Buscá artículos sobre biodiversidad.
+3. Prepará materiales para escribir.
 
 ## Desarrollo
-1. Lee artículos sobre biodiversidad en el periódico.
-2. Elige uno como punto de partida.
-3. Escribe una carta al editor.
-4. Envía la carta al periódico.
+1. Leé artículos sobre biodiversidad en el periódico.
+2. Elegí uno como punto de partida.
+3. Escribí una carta al editor.
+4. Enviá la carta al periódico.
 
 ## Cierre
-1. Comparte tu carta con el grupo.
-2. Reflexiona sobre la importancia de la participación ciudadana.
+1. Compartí tu carta con el grupo.
+2. Reflexioná sobre la importancia de la participación ciudadana.
 3. Pregunta final: ¿Qué mensaje transmitiste en tu carta?
 
 ## Texto original completo de la actividad

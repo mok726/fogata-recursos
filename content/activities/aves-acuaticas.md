@@ -159,24 +159,24 @@ rama_rovers:
 # ¡Aves acuáticas!
 
 ## Resumen
-Visita un pantano cercano a tu hogar. Observa diferentes especies de aves que atrapan su comida en el agua. ¿Cómo cazan estas aves, caminando por el agua, clavándose desde el aire, nadando debajo del agua?
+Visitá un pantano cercano a tu hogar. Observá diferentes especies de aves que atrapan su comida en el agua. ¿Cómo cazan estas aves, caminando por el agua, clavándose desde el aire, nadando debajo del agua?
 
 ## Preparación
-1. Identifica un pantano, lago o humedal cercano.
-2. Prepara binoculares y materiales de dibujo.
-3. Organiza la visita.
+1. Identificá un pantano, lago o humedal cercano.
+2. Prepará binoculares y materiales de dibujo.
+3. Organizá la visita.
 
 ## Desarrollo
-1. Visita el pantano o humedal.
-2. Observa diferentes especies de aves acuáticas.
-3. Registra: ¿Cómo cazan? (caminando por el agua, clavándose, nadando)
-4. Registra: ¿Cuál es la forma y el tamaño de sus picos?
-5. Registra: ¿Cuál es la forma y el tamaño de sus piernas?
-6. Dibuja tres aves señalando cómo sus picos y piernas son adecuados para su forma de caza.
+1. Visitá el pantano o humedal.
+2. Observá diferentes especies de aves acuáticas.
+3. Registrá: ¿Cómo cazan? (caminando por el agua, clavándose, nadando)
+4. Registrá: ¿Cuál es la forma y el tamaño de sus picos?
+5. Registrá: ¿Cuál es la forma y el tamaño de sus piernas?
+6. Dibujá tres aves señalando cómo sus picos y piernas son adecuados para su forma de caza.
 
 ## Cierre
-1. Comparte tus dibujos con el grupo.
-2. Reflexiona: ¿Qué adaptaciones tienen las aves acuáticas?
+1. Compartí tus dibujos con el grupo.
+2. Reflexioná: ¿Qué adaptaciones tienen las aves acuáticas?
 3. Pregunta final: ¿Qué ave acuática te pareció más interesante?
 
 ## Texto original completo de la actividad

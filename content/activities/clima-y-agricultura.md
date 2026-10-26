@@ -3,7 +3,7 @@ title: "Clima y agricultura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-agricultura/"
-description: "Investiga cómo el cambio climático afecta la producción de alimentos."
+description: "Investigá cómo el cambio climático afecta la producción de alimentos."
 summary: "Impacto climático en la agricultura."
 
 author:
@@ -144,16 +144,16 @@ rama_rovers:
 # ¡Clima y agricultura!
 
 ## Resumen
-Investiga cómo el cambio climático afecta la agricultura, la silvicultura, la ganadería y la pesca.
+Investigá cómo el cambio climático afecta la agricultura, la silvicultura, la ganadería y la pesca.
 
 ## Preparación
-1. Accede a recursos sobre clima y agricultura.
-2. Prepara materiales para compartir.
+1. Accedé a recursos sobre clima y agricultura.
+2. Prepará materiales para compartir.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre los impactos.
+1. **Investigación** (25 min): Aprendé sobre los impactos.
 2. **Análisis** (15 min): ¿Cómo afecta la producción de alimentos?
-3. **Compartir** (10 min): Comparte los datos con tus amigos.
+3. **Compartir** (10 min): Compartí los datos con tus amigos.
 4. **Reflexión** (10 min): ¿Qué podemos hacer?
 
 ## Cierre

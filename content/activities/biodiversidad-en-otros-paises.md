@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Biodiversidad en otros países!
 
 ## Resumen
-Elige tres países que te gustaría visitar algún día. ¿Qué tipos de ecosistemas puedes encontrar en cada uno de estos países? ¿Cuál es el árbol, la flor, el ave y el animal nacional de cada país? ¿Cuáles son las mayores amenazas para la biodiversidad en cada nación? Trata de encontrar algunas fotografías que muestren la naturaleza de estos países.
+Elegí tres países que te gustaría visitar algún día. ¿Qué tipos de ecosistemas podés encontrar en cada uno de estos países? ¿Cuál es el árbol, la flor, el ave y el animal nacional de cada país? ¿Cuáles son las mayores amenazas para la biodiversidad en cada nación? Tratá de encontrar algunas fotografías que muestren la naturaleza de estos países.
 
 ## Preparación
-1. Elige tres países para investigar.
-2. Prepara materiales para registrar.
-3. Organiza los grupos de trabajo.
+1. Elegí tres países para investigar.
+2. Prepará materiales para registrar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga sobre ecosistemas de cada país.
-2. Encuentra el árbol, flor, ave y animal nacional.
-3. Identifica las amenazas para la biodiversidad.
-4. Busca fotografías de la naturaleza de cada país.
+1. Investigá sobre ecosistemas de cada país.
+2. Encontrá el árbol, flor, ave y animal nacional.
+3. Identificá las amenazas para la biodiversidad.
+4. Buscá fotografías de la naturaleza de cada país.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre la diversidad de ecosistemas.
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre la diversidad de ecosistemas.
 3. Pregunta final: ¿Qué país te gustaría visitar para ver su biodiversidad?
 
 ## Texto original completo de la actividad

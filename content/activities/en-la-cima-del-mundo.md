@@ -4,7 +4,7 @@ title: "En la Cima del Mundo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/en-la-cima-del-mundo/"
-description: "Haz una caminata por el dosel del bosque y observa desde las copas de los árboles. Dibuja, pinta o fotografía tu vista favorita."
+description: "Hacé una caminata por el dosel del bosque y observá desde las copas de los árboles. Dibujá, pintá o fotografía tu vista favorita."
 summary: "Exploración del dosel forestal y creación artística."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -168,19 +168,19 @@ rama_rovers:
 # En la Cima del Mundo
 
 ## Resumen
-Haz una caminata por el dosel del bosque y observa desde las copas de los árboles. Dibuja, pinta o fotografía tu vista favorita.
+Hacé una caminata por el dosel del bosque y observá desde las copas de los árboles. Dibujá, pintá o fotografía tu vista favorita.
 
 ## Preparación
-1. Encuentra un lugar seguro para observar el dosel del bosque.
-2. Prepara material para dibujo, pintura o cámara.
-3. Asegura la supervisión de un adulto.
+1. Encontrá un lugar seguro para observar el dosel del bosque.
+2. Prepará material para dibujo, pintura o cámara.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Exploración** (30 min): Camina por el dosel y observa desde las copas.
-2. **Observación** (15 min): Identifica epífitas, nidos de aves, insectos, etc.
-3. **Creación** (20 min): Dibuja, pinta o fotografía tu vista favorita.
-4. **Declaración** (10 min): Escribe una declaración del artista.
-5. **Exhibición** (15 min): Crea una exhibición con tu grupo.
+1. **Exploración** (30 min): Caminá por el dosel y observá desde las copas.
+2. **Observación** (15 min): Identificá epífitas, nidos de aves, insectos, etc.
+3. **Creación** (20 min): Dibujá, pintá o fotografía tu vista favorita.
+4. **Declaración** (10 min): Escribí una declaración del artista.
+5. **Exhibición** (15 min): Creá una exhibición con tu grupo.
 
 ## Cierre
 - ¿Qué viste desde el dosel que no se ve desde el suelo?

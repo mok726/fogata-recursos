@@ -5,7 +5,7 @@ duration: "Abierta"
 layout: "layouts/activity.njk"
 permalink: "/activities/nuestro-planeta-netflix/"
 description: "Los participantes ven episodios de la serie Nuestro Planeta de Netflix y WWF para entender los desafíos que enfrenta nuestro planeta y cómo pueden ayudar."
-summary: "Explora y protege nuestro planeta."
+summary: "Explorá y protege nuestro planeta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -129,7 +129,7 @@ competencies:
 activity_type:
   - Sensibilización
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Documental
   - Biodiversidad
@@ -168,9 +168,9 @@ rama_rovers:
 El objetivo de esta actividad es inspirar a los participantes a entender nuestro planeta, los desafíos que enfrenta y cómo pueden salvarlo y crear un futuro donde la naturaleza y las personas prosperen.
 
 ## Preparación
-1. Prepara los episodios de Nuestro Planeta para ver.
-2. Prepara recursos educativos de One Planet.
-3. Organiza el espacio para la proyección.
+1. Prepará los episodios de Nuestro Planeta para ver.
+2. Prepará recursos educativos de One Planet.
+3. Organizá el espacio para la proyección.
 
 ## Desarrollo
 
@@ -184,12 +184,12 @@ El grupo revisa los recursos educacionales de Nuestro Planeta e incluye varias a
 Pueden conectarse en vivo con expertos y aulas de todo el mundo a través de Skype mediante la plataforma Nuestro Planeta en vivo.
 
 ### Parte IV - Acción
-¡Es hora de ir por la meta! Descubre lo que puedes hacer por el planeta, incluida la promesa de Dar Voz al Planeta y aprender más participando de un viaje interactivo a través de un planeta asombroso virtual.
+¡Es hora de ir por la meta! Descubrí lo que podés hacer por el planeta, incluida la promesa de Dar Voz al Planeta y aprender más participando de un viaje interactivo a través de un planeta asombroso virtual.
 
 ## Cierre
 1. ¿Qué parte de Nuestro Planeta te impactó más?
-2. ¿Qué puedes hacer para ayudar a proteger nuestro planeta?
-3. ¿Cómo puedes inspirar a otros a tomar acción?
+2. ¿Qué podés hacer para ayudar a proteger nuestro planeta?
+3. ¿Cómo podés inspirar a otros a tomar acción?
 
 ## Texto original completo de la actividad
 

@@ -163,24 +163,24 @@ rama_rovers:
 # ¡Sé un ecoturista!
 
 ## Resumen
-Investiga sobre algunos ejemplos de ecoturismo en tu país. ¿Cómo ayuda esto a tratar el cambio climático? Diseña tu propia actividad de ecoturismo y pruébala con tus amigos y familia.
+Investigá sobre algunos ejemplos de ecoturismo en tu país. ¿Cómo ayuda esto a tratar el cambio climático? Diseñá tu propia actividad de ecoturismo y probala con tus amigos y familia.
 
 ## Preparación
-1. Investiga sobre ecoturismo en tu país.
-2. Identifica un área natural local.
-3. Prepara información sobre el área y su importancia.
+1. Investigá sobre ecoturismo en tu país.
+2. Identificá un área natural local.
+3. Prepará información sobre el área y su importancia.
 
 ## Desarrollo
-1. Investiga ejemplos de ecoturismo en tu país.
-2. Investiga: ¿Cómo ayuda esto a tratar el cambio climático?
-3. Diseña tu propia actividad de ecoturismo.
-4. Haz una caminata en tu área local y explora tu medio ambiente natural.
-5. Explica por qué proteger al medio ambiente es crucial para afrontar el cambio climático.
+1. Investigá ejemplos de ecoturismo en tu país.
+2. Investigá: ¿Cómo ayuda esto a tratar el cambio climático?
+3. Diseñá tu propia actividad de ecoturismo.
+4. Hacé una caminata en tu área local y explorá tu medio ambiente natural.
+5. Explicá por qué proteger al medio ambiente es crucial para afrontar el cambio climático.
 
 ## Cierre
-1. Prueba tu actividad con tus amigos y familia.
-2. Reflexiona: ¿Cómo se sintió explorar la naturaleza de forma sostenible?
-3. Pregunta final: ¿Cómo puedes seguir promoviendo el ecoturismo?
+1. Probá tu actividad con tus amigos y familia.
+2. Reflexioná: ¿Cómo se sintió explorar la naturaleza de forma sostenible?
+3. Pregunta final: ¿Cómo podés seguir promoviendo el ecoturismo?
 
 ## Texto original completo de la actividad
 E.21 SÉ UN ECOTURISTA. Investiga sobre algunos ejemplos de ecoturismo en tu país. ¿Cómo ayuda esto a tratar el cambio climático? Diseña tu propia actividad de ecoturismo y pruébala con tus amigos y familia. Por ejemplo, podrías hacer una caminata en tu área local y explorar tu medio ambiente natural. Explica por qué proteger al medio ambiente es crucial para afrontar el cambio climático, por ej. los suelos y los bosques son enormes depósitos de carbono y mientras más sean dañados, serán menos capaces de almacenar el carbono.

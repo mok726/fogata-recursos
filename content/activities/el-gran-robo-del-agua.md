@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-gran-robo-del-agua/"
 description: "Los participantes simulan la distribución de derechos de agua en un río, explorando conflictos por el agua en situaciones de escasez, calidad y uso beneficioso."
-summary: "Simula la distribución de derechos de agua."
+summary: "Simulá la distribución de derechos de agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -39,7 +39,7 @@ materials:
   - Balde o recipiente grande y limpio
   - Taza medidora (dos tazas)
   - 8 tazones o recipientes pequeños
-  - Sal
+  - Salí
   - Pimienta
   - Perejil
 tools: []
@@ -124,7 +124,7 @@ competencies:
   - Conciencia social
 activity_type:
   - Simulación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
 category:
   - Derechos de agua
@@ -173,7 +173,7 @@ translation_notice:
 La cantidad de agua en un río cambia de una temporada a otra y de un año a otro dependiendo de las lluvias, el deshielo, etc. ¿Qué sucede cuando hay muy poca agua en el río para satisfacer los derechos de agua de todos los que los poseen? En esta actividad, los participantes simulan la distribución de derechos de agua en un río, explorando conflictos por el agua en situaciones de escasez, calidad y uso beneficioso.
 
 ## Preparación
-1. Escribe los siguientes intereses sobre el agua en ocho trozos de papel:
+1. Escribí los siguientes intereses sobre el agua en ocho trozos de papel:
    - Ciudad - 15 maf
    - Mina - 10 maf
    - Rancho - 15 maf
@@ -185,35 +185,35 @@ La cantidad de agua en un río cambia de una temporada a otra y de un año a otr
 
 *Nota: Los fondos de conservación ambiental compran derechos de agua para mantener el agua en su cuenca, en beneficio de peces y vida silvestre. "maf" es la abreviatura de millones de acres-pie por año, una de las formas en que se miden los derechos de agua.*
 
-2. Coloca un trozo de cinta adhesiva en el suelo, de aproximadamente 3 metros de largo. La cinta representa un río ficticio. Ocho participantes se colocarán a lo largo de la cinta.
-3. Prepara el balde con agua.
+2. Colocá un trozo de cinta adhesiva en el suelo, de aproximadamente 3 metros de largo. La cinta representa un río ficticio. Ocho participantes se colocarán a lo largo de la cinta.
+3. Prepará el balde con agua.
 
 ## Desarrollo
 
 ### Paso 1: Asignación de roles
-1. Pide a cada uno de los ocho participantes que saque un papel doblado del sombrero. El papel que elijan especificará a quién representan y cuántos millones de acres-pie (maf) de agua se les ha asignado del río.
-2. Vuelve a llenar el sombrero con ocho nuevos trozos de papel, numerados del 1 al 8. Pide a cada participante que saque un número del sombrero. Los números dictan la antigüedad de los derechos de agua, siendo el número 1 el derecho más antiguo y el número 8 el más reciente.
+1. Pedí a cada uno de los ocho participantes que saque un papel doblado del sombrero. El papel que elijan especificará a quién representan y cuántos millones de acres-pie (maf) de agua se les ha asignado del río.
+2. Volvé a llenar el sombrero con ocho nuevos trozos de papel, numerados del 1 al 8. Pedí a cada participante que saque un número del sombrero. Los números dictan la antigüedad de los derechos de agua, siendo el número 1 el derecho más antiguo y el número 8 el más reciente.
 
 ### Paso 2: Prueba A - Asignaciones
-3. El río, designado por la cinta, fluye a 100 millones de acres-pie por año. Coloca diez tazas de agua en el balde (1 taza de agua = 10 maf).
-4. Entrega el balde de agua al participante con el derecho de agua más antiguo. Usando una taza medidora, debe tomar del balde la cantidad de acres-pie que su derecho de agua le otorga y ponerla en su tazón.
+3. El río, designado por la cinta, fluye a 100 millones de acres-pie por año. Colocá diez tazas de agua en el balde (1 taza de agua = 10 maf).
+4. Entregá el balde de agua al participante con el derecho de agua más antiguo. Usando una taza medidora, debe tomar del balde la cantidad de acres-pie que su derecho de agua le otorga y ponerla en su tazón.
 5. El participante entrega el balde a la persona con el segundo derecho de agua más antiguo, quien toma del balde la cantidad asignada por su derecho de agua. Este procedimiento continúa hasta que los ocho participantes hayan retirado su asignación de agua del balde.
 
 ### Paso 3: Prueba B - Año de sequía
-6. Repite los pasos 3 al 5 con un nuevo grupo de voluntarios. Esta prueba representa un año de sequía. Solo fluyen 75 millones de acres-pie de agua por el río ese año, así que comienza el ejercicio con solo 7.5 tazas de agua en el balde.
+6. Repetí los pasos 3 al 5 con un nuevo grupo de voluntarios. Esta prueba representa un año de sequía. Solo fluyen 75 millones de acres-pie de agua por el río ese año, así que comienza el ejercicio con solo 7.5 tazas de agua en el balde.
 7. ¿Quién no recibió su asignación? ¿Debería su uso del agua tener prioridad sobre el de otra persona? ¿Por qué?
 
 ### Paso 4: Prueba C - Calidad del agua
-8. Esta prueba trata sobre la calidad del agua. Repite los pasos 3, 4 y 6. Pasa el balde de un extremo al otro de la cinta. Cada participante tomará su asignación, pero devolverá parte de ella al balde mezclada con sal si su uso resulta en un aumento de los niveles de sal, pimienta si su uso conduce a un aumento de los niveles de metales pesados, y perejil si su uso resulta en una disminución de oxígeno.
-9. Pide a cada participante que discuta cómo la calidad del agua que recibe podría afectar su uso. ¿El agua que devuelven al tazón está degradada en calidad? ¿Cómo se sienten los usuarios de aguas abajo acerca de los usuarios de aguas arriba?
+8. Esta prueba trata sobre la calidad del agua. Repetí los pasos 3, 4 y 6. Pasá el balde de un extremo al otro de la cinta. Cada participante tomará su asignación, pero devolverá parte de ella al balde mezclada con sal si su uso resulta en un aumento de los niveles de sal, pimienta si su uso conduce a un aumento de los niveles de metales pesados, y perejil si su uso resulta en una disminución de oxígeno.
+9. Pedí a cada participante que discuta cómo la calidad del agua que recibe podría afectar su uso. ¿El agua que devuelven al tazón está degradada en calidad? ¿Cómo se sienten los usuarios de aguas abajo acerca de los usuarios de aguas arriba?
 
 ### Paso 5: Prueba D - Uso beneficioso
-10. Repite los pasos 3 al 5 con un nuevo grupo de voluntarios. Cada vez que un participante toma su asignación de agua del balde, debe fingir que bebe una vez de su taza y devolver lo que queda al balde. Luego debe responder la pregunta: "¿Estás desperdiciando agua al no consumirla toda?"
+10. Repetí los pasos 3 al 5 con un nuevo grupo de voluntarios. Cada vez que un participante toma su asignación de agua del balde, debe fingir que bebe una vez de su taza y devolver lo que queda al balde. Luego debe responder la pregunta: "¿Estás desperdiciando agua al no consumirla toda?"
 
 ## Cierre
 - ¿Quién tiene derecho a usar el agua? ¿Significa este derecho que el agua puede desperdiciarse o usarse de manera insostenible?
-- ¿Por qué crees que surgen conflictos relacionados con el agua entre personas, comunidades y naciones?
-- ¿Quién crees que debe trabajar junto para decidir sobre el uso y la conservación del agua? ¿Qué puedes hacer tú?
+- ¿Por qué creés que surgen conflictos relacionados con el agua entre personas, comunidades y naciones?
+- ¿Quién creés que debe trabajar junto para decidir sobre el uso y la conservación del agua? ¿Qué podés hacer vos?
 
 ## Texto original completo de la actividad
 

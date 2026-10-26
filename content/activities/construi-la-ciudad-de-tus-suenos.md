@@ -5,7 +5,7 @@ duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/construi-la-ciudad-de-tus-suenos/"
 description: "Los participantes imaginan y diseñan una ciudad sostenible, aplicando conceptos de los ODS y reflexionando sobre cómo vivir de manera más sostenible en su comunidad."
-summary: "Diseña una ciudad sostenible."
+summary: "Diseñá una ciudad sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,14 +170,14 @@ rama_rovers:
 Piensen que son arquitectos y tienen que desarrollar cada uno su ciudad soñada, el único requisito que les piden es que esta sea sostenible. Pueden también elegir un ODS específico como tema para trabajar en la ciudad. Cuando todos hayan terminado de construir y dibujar sus ciudades con muchos materiales, preséntenlas al resto y compartan sus ideas. Luego, debatan cómo todos y todas pueden vivir de manera más sostenible en su propia comunidad.
 
 ## Preparación
-1. Prepara los materiales de arte y dibujo.
+1. Prepará los materiales de arte y dibujo.
 2. Si van a hacer maquetas, reúne materiales reciclados.
-3. Prepara una lista de ODS para que los participantes elijan un tema.
+3. Prepará una lista de ODS para que los participantes elijan un tema.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a los participantes que van a ser arquitectos y que tienen que diseñar su ciudad soñada.
+1. Explicá a los participantes que van a ser arquitectos y que tienen que diseñar su ciudad soñada.
 2. El único requisito es que la ciudad sea **sostenible**.
 
 ### Paso 2: Elección del tema

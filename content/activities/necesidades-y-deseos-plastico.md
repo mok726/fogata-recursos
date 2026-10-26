@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesidades-y-deseos-plastico/"
 description: "Los jóvenes analizan sus patrones de consumo de plásticos y aprenden a diferenciar entre productos necesarios y aquellos que se pueden evitar, promoviendo un consumo más sostenible."
-summary: "Aprende a diferenciar entre lo que necesitas y lo que deseas."
+summary: "Aprendé a diferenciar entre lo que necesitás y lo que deseás."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -194,7 +194,7 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 ## Cierre
 1. ¿Qué productos plásticos podrías dejar de comprar fácilmente?
 2. ¿Qué aprendiste sobre tus hábitos de consumo?
-3. ¿Qué acciones concretas puedes tomar para reducir tu consumo de plásticos?
+3. ¿Qué acciones concretas podés tomar para reducir tu consumo de plásticos?
 
 ## Ficha de observación de consumo doméstico
 
@@ -205,7 +205,7 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 
 ## Hoja de trabajo de reflexión y acción
 
-| Producto | ¿Es necesario o desechable? | ¿Se puede reutilizar? | ¿Cómo se elimina? | ¿Puedes prescindir de esto? | ¿Hay mejor alternativa? |
+| Producto | ¿Es necesario o desechable? | ¿Se puede reutilizar? | ¿Cómo se elimina? | ¿Podés prescindir de esto? | ¿Hay mejor alternativa? |
 |----------|----------------------------|----------------------|-------------------|----------------------------|-------------------------|
 | Agua embotellada | Desechable | No | Residuos secos | Sí | Purificador de agua |
 

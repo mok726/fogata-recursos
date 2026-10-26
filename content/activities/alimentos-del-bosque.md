@@ -4,7 +4,7 @@ title: "Alimentos del Bosque"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-del-bosque/"
-description: "Investiga alimentos silvestres del bosque y prepara una comida con ellos. Aprende sobre la biodiversidad como fuente de alimentos."
+description: "Investigá alimentos silvestres del bosque y prepará una comida con ellos. Aprendé sobre la biodiversidad como fuente de alimentos."
 summary: "Investigación y preparación de alimentos silvestres del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,19 +169,19 @@ rama_rovers:
 # Alimentos del Bosque
 
 ## Resumen
-Investiga alimentos silvestres del bosque y prepara una comida con ellos. Aprende sobre la biodiversidad como fuente de alimentos.
+Investigá alimentos silvestres del bosque y prepará una comida con ellos. Aprendé sobre la biodiversidad como fuente de alimentos.
 
 ## Preparación
-1. Investiga alimentos comestibles disponibles en tu bosque local.
-2. Invita a un recolector de alimentos silvestres si es posible.
-3. Prepara los utensilios de cocina y las guías de identificación.
+1. Investigá alimentos comestibles disponibles en tu bosque local.
+2. Invitá a un recolector de alimentos silvestres si es posible.
+3. Prepará los utensilios de cocina y las guías de identificación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga qué alimentos silvestres son comestibles y seguros.
-2. **Recolección** (30 min): Recolecta alimentos silvestres del bosque (con supervisión).
+1. **Investigación** (20 min): Investigá qué alimentos silvestres son comestibles y seguros.
+2. **Recolección** (30 min): Recolectá alimentos silvestres del bosque (con supervisión).
 3. **Identificación** (15 min): Un adulto experto verifica cada alimento. Solo se consume lo identificado con certeza; nunca hongos silvestres. Ante la duda, no se come.
-4. **Preparación** (30 min): Prepara una comida con los alimentos recolectados.
-5. **Degustación** (15 min): Disfruta de la comida con tu grupo.
+4. **Preparación** (30 min): Prepará una comida con los alimentos recolectados.
+5. **Degustación** (15 min): Disfrutá de la comida con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los alimentos del bosque?

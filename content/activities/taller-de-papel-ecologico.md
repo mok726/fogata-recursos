@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-de-papel-ecologico/"
 description: "Taller donde los participantes aprenden a crear papel ecológico en base a papeles usados, cartón, hojas y otros restos similares."
-summary: "Crea papel ecológico reciclado."
+summary: "Creá papel ecológico reciclado."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -172,8 +172,8 @@ Aprendemos a crear papel ecológico en base a papeles usados, cartón, hojas, y 
 - Fomentar la creatividad a través del reciclaje.
 
 ## Preparación
-1. Reúne papel de diario o revistas, hojas y hierbas secas.
-2. Prepara placas plásticas o metálicas, agua, tijeras, rallador y pesos.
+1. Reuní papel de diario o revistas, hojas y hierbas secas.
+2. Prepará placas plásticas o metálicas, agua, tijeras, rallador y pesos.
 
 ## Desarrollo
 

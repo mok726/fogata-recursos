@@ -4,7 +4,7 @@ title: "Nuestro Océano"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/nuestro-oceano/"
-description: "Investiga datos clave sobre el océano o mar más cercano a tu lugar de residencia y elabora una prueba para tu grupo."
+description: "Investigá datos clave sobre el océano o mar más cercano a tu lugar de residencia y elaborá una prueba para tu grupo."
 summary: "Investigación sobre el océano local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,18 +167,18 @@ rama_rovers:
 # Nuestro Océano
 
 ## Resumen
-Investiga datos clave sobre el océano o mar más cercano a tu lugar de residencia y elabora una prueba para tu grupo.
+Investigá datos clave sobre el océano o mar más cercano a tu lugar de residencia y elaborá una prueba para tu grupo.
 
 ## Preparación
 1. En parejas o individualmente, investiga sobre el océano o mar más cercano.
-2. Reúne datos sobre su tamaño, profundidad, actividades humanas y su influencia en tu vida.
-3. Prepara preguntas para una prueba.
+2. Reuní datos sobre su tamaño, profundidad, actividades humanas y su influencia en tu vida.
+3. Prepará preguntas para una prueba.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga datos clave sobre el océano o mar local.
-2. **Elaboración** (15 min): Crea una prueba con preguntas sobre tus hallazgos.
-3. **Intercambio** (20 min): Intercambia pruebas con otros grupos y responde las preguntas.
-4. **Discusión** (15 min): Compara y discute los hallazgos.
+1. **Investigación** (20 min): Investigá datos clave sobre el océano o mar local.
+2. **Elaboración** (15 min): Creá una prueba con preguntas sobre tus hallazgos.
+3. **Intercambio** (20 min): Intercambiá pruebas con otros grupos y respondé las preguntas.
+4. **Discusión** (15 min): Compará y discutí los hallazgos.
 
 ## Cierre
 - ¿Qué aprendiste sobre el océano o mar más cercano?

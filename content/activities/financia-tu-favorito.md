@@ -4,7 +4,7 @@ title: "Financia tu favorito"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/financia-tu-favorito/"
-description: "Investiga proyectos de acceso a energía en el mundo, elige uno y organiza una recaudación de fondos para apoyarlo."
+description: "Investigá proyectos de acceso a energía en el mundo, elegí uno y organizá una recaudación de fondos para apoyarlo."
 summary: "Recauda fondos para un proyecto energético."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,17 +166,17 @@ translation_notice:
 # ¡Financia tu favorito!
 
 ## Resumen
-Investiga diferentes proyectos de acceso a energía en el mundo. Elige el que más te interese y encuentra formas de recaudar fondos para apoyarlo.
+Investigá diferentes proyectos de acceso a energía en el mundo. Elegí el que más te interese y encontrá formas de recaudar fondos para apoyarlo.
 
 ## Preparación
-1. Investiga proyectos de energía en el mundo.
-2. Elige uno que te guste.
-3. Planifica una recaudación de fondos.
+1. Investigá proyectos de energía en el mundo.
+2. Elegí uno que te guste.
+3. Planificá una recaudación de fondos.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Busca proyectos de acceso a energía:
+Buscá proyectos de acceso a energía:
 
 **Fuentes sugeridas:**
 - https://www.practicalaction.org/energy
@@ -191,7 +191,7 @@ Busca proyectos de acceso a energía:
 ¿Qué proyecto te interesa más?
 
 ### Parte III - Recaudar
-Organiza una actividad para recaudar fondos:
+Organizá una actividad para recaudar fondos:
 
 **Ideas:**
 - Exhibición de arte con materiales reciclados

@@ -161,24 +161,24 @@ rama_rovers:
 # ¡El clima de tu comunidad!
 
 ## Resumen
-Realiza un proyecto de investigación sobre el clima para el lugar donde vives. Investiga qué tipo de área es, cuál es el principal ingreso de tu comunidad, qué fuente de energía usan y cómo es generalmente el clima.
+Realizá un proyecto de investigación sobre el clima para el lugar donde vivís. Investigá qué tipo de área es, cuál es el principal ingreso de tu comunidad, qué fuente de energía usan y cómo es generalmente el clima.
 
 ## Preparación
-1. Prepara una lista de preguntas para entrevistar a diferentes miembros de la comunidad.
-2. Asegúrate de tener los materiales necesarios: cuaderno, lápices, cámara (opcional).
-3. Organiza los grupos de trabajo y asigna diferentes áreas de investigación.
+1. Prepará una lista de preguntas para entrevistar a diferentes miembros de la comunidad.
+2. Asegurate de tener los materiales necesarios: cuaderno, lápices, cámara (opcional).
+3. Organizá los grupos de trabajo y asigná diferentes áreas de investigación.
 
 ## Desarrollo
-1. Investiga sobre tu comunidad: ¿En qué tipo de área vives? ¿Es una ciudad grande o una aldea pequeña?
+1. Investigá sobre tu comunidad: ¿En qué tipo de área vivís? ¿Es una ciudad grande o una aldea pequeña?
 2. ¿Cuál es el principal ingreso de tu comunidad? ¿Qué fuente de energía usa tu ciudad o pueblo?
 3. ¿Cómo es generalmente el clima?
-4. Habla con varios miembros de la comunidad, como agricultores, dueños de almacenes y obreros de la construcción.
-5. Pregúntales cómo creen ellos que el cambio climático podría afectar a la zona y cómo esto les afectará a ellos.
+4. Hablá con varios miembros de la comunidad, como agricultores, dueños de almacenes y obreros de la construcción.
+5. Preguntales cómo creen ellos que el cambio climático podría afectar a la zona y cómo esto les afectará a ellos.
 
 ## Cierre
-1. Organiza tus hallazgos y prepara una presentación.
-2. Comparte tus hallazgos con tu grupo.
-3. Pregunta final: ¿Qué aprendiste sobre tu comunidad que no sabías antes? ¿Cómo puedes ayudar a tu comunidad a prepararse para el cambio climático?
+1. Organizá tus hallazgos y prepará una presentación.
+2. Compartí tus hallazgos con tu grupo.
+3. Pregunta final: ¿Qué aprendiste sobre tu comunidad que no sabías antes? ¿Cómo podés ayudar a tu comunidad a prepararse para el cambio climático?
 
 ## Texto original completo de la actividad
 A.02 EL CLIMA DE TU COMUNIDAD. Haz un proyecto de investigación sobre el clima para el lugar donde vives. ¿En qué tipo de área vives? ¿Es una ciudad grande o una aldea pequeña? ¿Cuál es el principal ingreso de tu comunidad? ¿Qué fuente de energía usa tu ciudad o pueblo? ¿Cómo es generalmente el clima? Habla con varios miembros de la comunidad, como agricultores, dueños de almacenes y obreros de la construcción, y pregúntales cómo creen ellos que el cambio climático podría afectar a la zona y cómo esto les afectará a ellos. Comparte tus hallazgos con tu grupo.

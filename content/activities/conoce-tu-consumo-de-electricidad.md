@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conoce tu consumo de electricidad"
+title: "Conocé tu consumo de electricidad"
 duration: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/conoce-tu-consumo-de-electricidad/"
@@ -154,25 +154,25 @@ rama_rovers:
   - 19 # Tomo decisiones económicas conscientes y responsables
 ---
 
-# ¡Conoce tu consumo de electricidad!
+# ¡Conocé tu consumo de electricidad!
 
 ## Resumen
-Compara y haz una representación gráfica del uso de electricidad, de máximo a mínimo, en tu rutina diaria. Discute sobre las varias maneras de reducir el consumo de energía (GLP, electricidad).
+Compará y hacé una representación gráfica del uso de electricidad, de máximo a mínimo, en tu rutina diaria. Discutí sobre las varias maneras de reducir el consumo de energía (GLP, electricidad).
 
 ## Preparación
-1. Prepara una tabla para registrar el consumo diario.
-2. Revisa los aparatos eléctricos que usas.
-3. Organiza los grupos de trabajo.
+1. Prepará una tabla para registrar el consumo diario.
+2. Revisá los aparatos eléctricos que usás.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Registra tu consumo de electricidad durante un día.
-2. Ordena los usos de máximo a mínimo.
-3. Crea una representación gráfica de tu consumo.
-4. Investiga: ¿Cómo pueden acciones simples ayudar a los aparatos a funcionar más eficientemente?
-5. Investiga: ¿Cómo puede el etiquetado energético ayudar a reducir el consumo?
+1. Registrá tu consumo de electricidad durante un día.
+2. Ordená los usos de máximo a mínimo.
+3. Creá una representación gráfica de tu consumo.
+4. Investigá: ¿Cómo pueden acciones simples ayudar a los aparatos a funcionar más eficientemente?
+5. Investigá: ¿Cómo puede el etiquetado energético ayudar a reducir el consumo?
 
 ## Cierre
-1. Comparte tu gráfico con el grupo.
+1. Compartí tu gráfico con el grupo.
 2. Discutan: ¿Qué cambios pueden reducir el consumo?
 3. Pregunta final: ¿Qué aprendiste sobre tu consumo de electricidad?
 

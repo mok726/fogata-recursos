@@ -3,7 +3,7 @@ title: "Ideas Descabelladas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-descabelladas/"
-description: "Diseña una idea innovadora para llevar agua limpia a las personas."
+description: "Diseñá una idea innovadora para llevar agua limpia a las personas."
 summary: "Diseño innovador para acceso al agua."
 
 author:
@@ -155,18 +155,18 @@ rama_rovers:
 # ¡Ideas Descabelladas!
 
 ## Resumen
-Diseña una idea innovadora para llevar agua limpia a las personas, inspirado en ejemplos como PlayPumps.
+Diseñá una idea innovadora para llevar agua limpia a las personas, inspirado en ejemplos como PlayPumps.
 
 ## Preparación
-1. Investiga sobre soluciones innovadoras para el agua.
-2. Reúne materiales de arte y manualidades.
-3. Deja volar tu imaginación.
+1. Investigá sobre soluciones innovadoras para el agua.
+2. Reuní materiales de arte y manualidades.
+3. Dejá volar tu imaginación.
 
 ## Desarrollo
-1. **Inspiración** (15 min): Investiga ejemplos como PlayPumps.
-2. **Diseño** (15 min): Dibuja tu idea para llevar agua limpia.
-3. **Construcción** (25 min): Construye un modelo de tu diseño.
-4. **Presentación** (5 min): Explica tu idea al grupo.
+1. **Inspiración** (15 min): Investigá ejemplos como PlayPumps.
+2. **Diseño** (15 min): Dibujá tu idea para llevar agua limpia.
+3. **Construcción** (25 min): Construí un modelo de tu diseño.
+4. **Presentación** (5 min): Explicá tu idea al grupo.
 
 ## Cierre
 - ¿Qué te inspiró para tu diseño?

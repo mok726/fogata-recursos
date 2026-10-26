@@ -4,7 +4,7 @@ title: "Intercambios"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/intercambios/"
-description: "Organiza un intercambio o campamento de verano con otro grupo que trabaje en temas de malnutrición."
+description: "Organizá un intercambio o campamento de verano con otro grupo que trabaje en temas de malnutrición."
 summary: "Intercambio juvenil sobre nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,18 +165,18 @@ rama_rovers:
 # Intercambios
 
 ## Resumen
-Organiza un intercambio o campamento de verano con otro grupo que trabaje en temas de malnutrición.
+Organizá un intercambio o campamento de verano con otro grupo que trabaje en temas de malnutrición.
 
 ## Preparación
-1. Contacta a otro grupo interesado en nutrición.
+1. Contactá a otro grupo interesado en nutrición.
 2. Planea el intercambio o campamento.
-3. Prepara actividades sobre malnutrición.
+3. Prepará actividades sobre malnutrición.
 
 ## Desarrollo
 1. **Planificación** (20 min): Planea el intercambio.
-2. **Actividades** (30 min): Realiza actividades compartidas.
-3. **Intercambio** (30 min): Comparte experiencias y opiniones.
-4. **Reflexión** (15 min): Reflexiona sobre lo aprendido.
+2. **Actividades** (30 min): Realizá actividades compartidas.
+3. **Intercambio** (30 min): Compartí experiencias y opiniones.
+4. **Reflexión** (15 min): Reflexioná sobre lo aprendido.
 
 ## Cierre
 - ¿Qué aprendiste de otros grupos?

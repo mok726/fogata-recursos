@@ -4,7 +4,7 @@ title: "Comida Sedienta"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-sedienta/"
-description: "Investiga cuánta agua se necesita para producir diferentes alimentos y busca alternativas sostenibles."
+description: "Investigá cuánta agua se necesita para producir diferentes alimentos y buscá alternativas sostenibles."
 summary: "Investigación sobre el agua en los alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,22 +164,22 @@ rama_rovers:
 # Comida Sedienta
 
 ## Resumen
-Investiga cuánta agua se necesita para producir diferentes alimentos y busca alternativas sostenibles.
+Investigá cuánta agua se necesita para producir diferentes alimentos y buscá alternativas sostenibles.
 
 ## Preparación
-1. Examina tu cocina y los alimentos que consumes.
-2. Investiga la huella hídrica de cada alimento.
-3. Prepara una tabla para organizar la información.
+1. Examiná tu cocina y los alimentos que consumís.
+2. Investigá la huella hídrica de cada alimento.
+3. Prepará una tabla para organizar la información.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga el agua necesaria para cada alimento.
-2. **Tabla** (15 min): Crea una tabla con los alimentos y su consumo de agua.
-3. **Análisis** (15 min): Identifica los alimentos más "sedientos".
-4. **Debate** (15 min): Comparte la información con tu familia.
+1. **Investigación** (20 min): Investigá el agua necesaria para cada alimento.
+2. **Tabla** (15 min): Creá una tabla con los alimentos y su consumo de agua.
+3. **Análisis** (15 min): Identificá los alimentos más "sedientos".
+4. **Debate** (15 min): Compartí la información con tu familia.
 
 ## Cierre
 - ¿Qué alimentos necesitan más agua?
-- ¿Cómo puedes reducir el impacto del agua en tu dieta?
+- ¿Cómo podés reducir el impacto del agua en tu dieta?
 - ¿Qué compromiso adquieres para elegir alimentos con menor huella hídrica?
 
 ---

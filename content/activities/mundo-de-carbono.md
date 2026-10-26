@@ -4,8 +4,8 @@ title: "Mundo de carbono"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/mundo-de-carbono/"
-description: "Explora un área natural local y observa plantas, animales, agua y suelo para entender cómo se mueve el carbono en la naturaleza."
-summary: "Descubre el ciclo del carbono en tu entorno."
+description: "Explorá un área natural local y observá plantas, animales, agua y suelo para entender cómo se mueve el carbono en la naturaleza."
+summary: "Descubrí el ciclo del carbono en tu entorno."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,17 +167,17 @@ translation_notice:
 # ¡Mundo de carbono!
 
 ## Resumen
-Aprende sobre el ciclo del carbono y visita un área natural local (bosque, reserva, playa, granja o parque). Observa plantas, animales, agua y plantas muertas para entender cómo el carbono circula en la naturaleza.
+Aprendé sobre el ciclo del carbono y visita un área natural local (bosque, reserva, playa, granja o parque). Observá plantas, animales, agua y plantas muertas para entender cómo el carbono circula en la naturaleza.
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono en la sección de información de fondo.
-2. Elige un lugar natural para visitar.
-3. Prepara materiales para tomar notas y dibujar.
+1. Leé la información sobre el ciclo del carbono en la sección de información de fondo.
+2. Elegí un lugar natural para visitar.
+3. Prepará materiales para tomar notas y dibujar.
 
 ## Desarrollo
 
 ### Parte I - Aprender
-Aprende sobre el ciclo del carbono:
+Aprendé sobre el ciclo del carbono:
 
 - **El carbono está en todas partes**: en el aire (CO₂), en plantas, animales, agua y suelo
 - **Las plantas** absorben carbono del aire
@@ -186,7 +186,7 @@ Aprende sobre el ciclo del carbono:
 - **El carbono** viaja constantemente entre el aire, la tierra y los seres vivos
 
 ### Parte II - Explorar
-Visita un área natural y observa:
+Visitá un área natural y observá:
 
 **Preguntas guía:**
 - ¿Qué plantas ves? ¿Cómo obtienen carbono?
@@ -195,7 +195,7 @@ Visita un área natural y observa:
 - ¿Ves plantas muertas u hojas caídas? ¿Qué les pasa?
 
 ### Parte III - Crear un póster
-Crea un póster que explique cómo cada animal y planta obtiene carbono y cómo lo libera de vuelta a la naturaleza.
+Creá un póster que explique cómo cada animal y planta obtiene carbono y cómo lo libera de vuelta a la naturaleza.
 
 ## Cierre
 1. ¿Qué parte del ciclo del carbono pudiste ver en tu salida?

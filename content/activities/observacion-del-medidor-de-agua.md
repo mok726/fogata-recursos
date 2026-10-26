@@ -3,7 +3,7 @@ title: "Observación del medidor de agua"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-del-medidor-de-agua/"
-description: "Observa el medidor de agua y reduce tu consumo."
+description: "Observá el medidor de agua y reducí tu consumo."
 summary: "Monitoreo de consumo de agua."
 
 author:
@@ -141,17 +141,17 @@ rama_rovers:
 # ¡Observación del medidor de agua!
 
 ## Resumen
-Observa el medidor de agua y determina cuánto puedes reducir tu consumo.
+Observá el medidor de agua y determiná cuánto podés reducir tu consumo.
 
 ## Preparación
-1. Pregunta a tus padres dónde está el medidor.
-2. Prepara papel y lapiceras para registrar.
-3. Asegura supervisión adulta.
+1. Preguntá a tus padres dónde está el medidor.
+2. Prepará papel y lapiceras para registrar.
+3. Asegurá supervisión adulta.
 
 ## Desarrollo
-1. **Observación** (1 semana): Registra las unidades consumidas.
-2. **Plan** (15 min): Haz un plan para reducir el consumo.
-3. **Acción** (continua): Implementa el plan.
+1. **Observación** (1 semana): Registrá las unidades consumidas.
+2. **Plan** (15 min): Hacé un plan para reducir el consumo.
+3. **Acción** (continua): Implementá el plan.
 4. **Análisis** (15 min): ¿Cuánto lograste reducir?
 
 ## Cierre

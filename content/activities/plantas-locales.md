@@ -3,7 +3,7 @@ title: "Plantas locales"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-locales/"
-description: "Investiga y planta especies locales que requieren menos agua."
+description: "Investigá y planta especies locales que requieren menos agua."
 summary: "Plantación de especies locales."
 
 author:
@@ -147,23 +147,23 @@ rama_rovers:
 # ¡Plantas locales!
 
 ## Resumen
-Investiga plantas locales que requieren menos agua y plántalas en un jardín o maceta.
+Investigá plantas locales que requieren menos agua y plantalas en un jardín o maceta.
 
 ## Preparación
-1. Investiga plantas locales de bajo consumo de agua.
-2. Consigue plantas o semillas.
-3. Prepara el jardín o maceta.
+1. Investigá plantas locales de bajo consumo de agua.
+2. Conseguí plantas o semillas.
+3. Prepará el jardín o maceta.
 
 ## Desarrollo
 1. **Investigación** (15 min): ¿Qué plantas requieren menos agua?
-2. **Plantación** (20 min): Planta las especies locales.
-3. **Cuidado** (continua): Riega y cuida las plantas.
+2. **Plantación** (20 min): Plantá las especies locales.
+3. **Cuidado** (continua): Regá y cuidá las plantas.
 4. **Reflexión** (10 min): ¿Cómo beneficia esto al medio ambiente?
 
 ## Cierre
 - ¿Qué plantas locales plantaste?
 - ¿Por qué requieren menos agua?
-- ¿Cómo te sientes al cuidar plantas locales?
+- ¿Cómo te sentís al cuidar plantas locales?
 
 ---
 ## Texto original completo de la actividad

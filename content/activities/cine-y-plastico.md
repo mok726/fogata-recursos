@@ -4,8 +4,8 @@ title: "Cine y plástico: aprendiendo con películas"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-y-plastico/"
-description: "Ve un documental sobre contaminación plástica y organiza un debate para inspirar a otros a reducir el uso de plásticos de un solo uso."
-summary: "Aprende sobre plásticos viendo documentales."
+description: "Andá un documental sobre contaminación plástica y organizá un debate para inspirar a otros a reducir el uso de plásticos de un solo uso."
+summary: "Aprendé sobre plásticos viendo documentales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -126,7 +126,7 @@ competencies:
   - Comunicación
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 category:
   - Educación ambiental
@@ -170,12 +170,12 @@ translation_notice:
 # ¡Cine y plástico: aprendiendo con películas!
 
 ## Resumen
-Ver documentales sobre contaminación plástica es una forma entretenida de aprender más sobre el problema. Mira uno de estos videos y organiza un debate con tu grupo para inspirar a otros a reducir su uso de plásticos.
+Ver documentales sobre contaminación plástica es una forma entretenida de aprender más sobre el problema. Mirá uno de estos videos y organizá un debate con tu grupo para inspirar a otros a reducir su uso de plásticos.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Elige uno o ambos videos recomendados.
-3. Prepara el espacio para la proyección.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Elegí uno o ambos videos recomendados.
+3. Prepará el espacio para la proyección.
 
 ## Desarrollo
 

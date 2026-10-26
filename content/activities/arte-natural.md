@@ -159,21 +159,21 @@ rama_rovers:
 # ¡Arte natural!
 
 ## Resumen
-Elabora un objeto de arte con materiales naturales. Anima a otros miembros de tu grupo a que ellos también lo hagan. Presenten y expongan sus creaciones en una exhibición de arte natural, incluyan historias sobre los materiales y el mensaje que quiere transmitir su arte.
+Elaborá un objeto de arte con materiales naturales. Animá a otros miembros de tu grupo a que ellos también lo hagan. Presenten y expongan sus creaciones en una exhibición de arte natural, incluyan historias sobre los materiales y el mensaje que quiere transmitir su arte.
 
 ## Preparación
-1. Recoge materiales naturales.
-2. Prepara espacio para crear.
-3. Organiza la exhibición.
+1. Recogé materiales naturales.
+2. Prepará espacio para crear.
+3. Organizá la exhibición.
 
 ## Desarrollo
-1. Crea una obra de arte con materiales naturales.
-2. Escribe una historia sobre los materiales usados.
-3. Define el mensaje de tu arte.
+1. Creá una obra de arte con materiales naturales.
+2. Escribí una historia sobre los materiales usados.
+3. Definí el mensaje de tu arte.
 
 ## Cierre
-1. Participa en la exhibición de arte natural.
-2. Reflexiona: ¿Qué mensaje transmite tu obra?
+1. Participá en la exhibición de arte natural.
+2. Reflexioná: ¿Qué mensaje transmite tu obra?
 3. Pregunta final: ¿Cómo puede el arte inspirar la conservación?
 
 ## Texto original completo de la actividad

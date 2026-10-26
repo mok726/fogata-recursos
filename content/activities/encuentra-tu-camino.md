@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Encuentra tu Camino"
+title: "Encontrá tu Camino"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/encuentra-tu-camino/"
-description: "Participa en un evento de orientación forestal usando un mapa para navegar por el bosque."
+description: "Participá en un evento de orientación forestal usando un mapa para navegar por el bosque."
 summary: "Evento de orientación y navegación en el bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -161,25 +161,25 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Encuentra tu Camino
+# Encontrá tu Camino
 
 ## Resumen
-Participa en un evento de orientación forestal usando un mapa para navegar por el bosque. Si vives en un lugar con nieve, realiza la actividad en diferentes estaciones.
+Participá en un evento de orientación forestal usando un mapa para navegar por el bosque. Si vivís en un lugar con nieve, realizá la actividad en diferentes estaciones.
 
 ## Preparación
-1. Consigue un mapa del bosque donde se realizará la actividad.
-2. Prepara una brújula si es necesario.
-3. Define la ruta y los puntos de control.
+1. Conseguí un mapa del bosque donde se realizará la actividad.
+2. Prepará una brújula si es necesario.
+3. Definí la ruta y los puntos de control.
 
 ## Desarrollo
-1. **Aprendizaje** (15 min): Aprende a leer un mapa y usar una brújula.
-2. **Planificación** (10 min): Planifica la ruta con tu grupo.
+1. **Aprendizaje** (15 min): Aprendé a leer un mapa y usar una brújula.
+2. **Planificación** (10 min): Planificá la ruta con tu grupo.
 3. **Navegación** (30-45 min): Navega por el bosque usando el mapa.
-4. **Reflexión** (15 min): Comparte tu experiencia con el grupo.
+4. **Reflexión** (15 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la orientación en el bosque?
 - ¿Qué desafíos encontraste durante la navegación?
-- ¿Cómo puedes mejorar tus habilidades de orientación?
+- ¿Cómo podés mejorar tus habilidades de orientación?
 
 ---

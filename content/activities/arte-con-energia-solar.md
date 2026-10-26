@@ -4,8 +4,8 @@ title: "Arte con energía solar"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-con-energia-solar/"
-description: "Realiza un experimento solar para crear arte usando la energía del Sol y descubre cuánta energía contiene la luz solar."
-summary: "Crea arte usando el poder del Sol."
+description: "Realizá un experimento solar para crear arte usando la energía del Sol y descubrí cuánta energía contiene la luz solar."
+summary: "Creá arte usando el poder del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -162,20 +162,20 @@ translation_notice:
 # ¡Arte con energía solar!
 
 ## Resumen
-Realiza un experimento solar simple para tener una idea de cuánta energía contiene una cantidad relativamente pequeña de luz solar, ¡y crea arte al mismo tiempo!
+Realizá un experimento solar simple para tener una idea de cuánta energía contiene una cantidad relativamente pequeña de luz solar, ¡y creá arte al mismo tiempo!
 
 ## Preparación
-1. Lee la información sobre energía solar.
-2. Busca un lugar soleado.
-3. Prepara papel y objetos para hacer sombras.
+1. Leé la información sobre energía solar.
+2. Buscá un lugar soleado.
+3. Prepará papel y objetos para hacer sombras.
 
 ## Desarrollo
 
 ### Parte I - Preparar
-Coloca un papel en un lugar soleado.
+Colocá un papel en un lugar soleado.
 
 ### Parte II - Crear arte
-Usa diferentes objetos (hojas, piedras, juguetes) para crear sombras sobre el papel.
+Usá diferentes objetos (hojas, piedras, juguetes) para crear sombras sobre el papel.
 
 **Experimenta con:**
 - Diferentes formas y tamaños
@@ -183,7 +183,7 @@ Usa diferentes objetos (hojas, piedras, juguetes) para crear sombras sobre el pa
 - Diferentes momentos del día
 
 ### Parte III - Observar
-Observa cómo la luz del sol crea sombras y cómo cambian a medida que el sol se mueve.
+Observá cómo la luz del sol crea sombras y cómo cambian a medida que el sol se mueve.
 
 ### Parte IV - Reflexionar
 ¿Cuánta energía tiene la luz solar? ¿Cómo podemos usarla mejor?

@@ -160,24 +160,24 @@ rama_rovers:
 # ¡Lugares favoritos!
 
 ## Resumen
-¿Qué tipo de paisaje es tu favorito: playas, montañas, desiertos o bosques? Haz una investigación sobre tu lugar favorito.
+¿Qué tipo de paisaje es tu favorito: playas, montañas, desiertos o bosques? Hacé una investigación sobre tu lugar favorito.
 
 ## Preparación
-1. Investiga sobre diferentes tipos de paisajes.
-2. Prepara ejemplos de paisajes y sus ecosistemas.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre diferentes tipos de paisajes.
+2. Prepará ejemplos de paisajes y sus ecosistemas.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige tu tipo de paisaje favorito: playas, montañas, desiertos o bosques.
-2. Investiga: ¿Ya está siendo afectado por el cambio climático? y, si es así, ¿cómo?
-3. Investiga: ¿Qué pasa con las plantas y los animales que viven ahí?
-4. Si vives cerca de ese tipo de paisaje, visítalo y toma fotografías o haz un dibujo.
-5. Junta tus notas y tus fotos.
+1. Elegí tu tipo de paisaje favorito: playas, montañas, desiertos o bosques.
+2. Investigá: ¿Ya está siendo afectado por el cambio climático? y, si es así, ¿cómo?
+3. Investigá: ¿Qué pasa con las plantas y los animales que viven ahí?
+4. Si vivís cerca de ese tipo de paisaje, visitalo y toma fotografías o haz un dibujo.
+5. Juntá tus notas y tus fotos.
 
 ## Cierre
-1. Presenta tu investigación a tu grupo o clase.
+1. Presentá tu investigación a tu grupo o clase.
 2. Discutan: ¿Qué paisajes están más amenazados por el cambio climático?
-3. Pregunta final: ¿Cómo puedes ayudar a proteger tu paisaje favorito?
+3. Pregunta final: ¿Cómo podés ayudar a proteger tu paisaje favorito?
 
 ## Texto original completo de la actividad
 C.06 Lugares favoritos. ¿Qué tipo de paisaje es tu favorito: ¿playas, montañas, desiertos o bosques? Haz una investigación sobre tu lugar favorito. ¿Ya está siendo afectado por el cambio climático? y, si es así, ¿cómo? ¿Y qué pasa con las plantas y los animales que viven ahí? Si vives en el tipo de paisaje que escogiste o cerca de este, visítalo y saca algunas fotografías o haz un dibujo. Junta tus notas y tus fotos y preséntalas a tu grupo o clase.

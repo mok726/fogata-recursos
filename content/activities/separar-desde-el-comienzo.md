@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/separar-desde-el-comienzo/"
 description: "Los jóvenes aprenden la importancia de la segregación de residuos a través de una dinámica práctica donde clasifican diferentes tipos de desechos en contenedores de colores, comprendiendo el reciclaje y la gestión de residuos."
-summary: "Aprende a separar los residuos correctamente."
+summary: "Aprendé a separar los residuos correctamente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -182,8 +182,8 @@ La separación de los residuos debe comenzar en el hogar, ya que es fundamental 
 
 ### Parte I - Introducción (5 minutos)
 1. El facilitador presenta el tema de la segregación de residuos.
-2. Muestra los tres contenedores y explica qué tipo de residuo va en cada uno.
-3. Explica la importancia de separar los residuos para el reciclaje.
+2. Mostrá los tres contenedores y explicá qué tipo de residuo va en cada uno.
+3. Explicá la importancia de separar los residuos para el reciclaje.
 
 ### Parte II - Clasificación (10-15 minutos)
 1. Cada participante recibe una hoja con el nombre de un residuo.
@@ -198,7 +198,7 @@ La separación de los residuos debe comenzar en el hogar, ya que es fundamental 
 ## Cierre
 1. ¿Qué aprendiste sobre la separación de residuos?
 2. ¿Qué residuos te resultaron más difíciles de clasificar?
-3. ¿Cómo puedes aplicar lo aprendido en tu hogar?
+3. ¿Cómo podés aplicar lo aprendido en tu hogar?
 
 ## Texto original completo de la actividad
 

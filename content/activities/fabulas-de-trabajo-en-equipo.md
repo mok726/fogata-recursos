@@ -3,7 +3,7 @@ title: "Fábulas de Trabajo en Equipo"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/fabulas-de-trabajo-en-equipo/"
-description: "Crea una historia colaborativa sobre la formación del suelo."
+description: "Creá una historia colaborativa sobre la formación del suelo."
 summary: "Historia colaborativa sobre el suelo."
 
 author:
@@ -113,7 +113,7 @@ category:
 skills:
   - Creatividad
   - Trabajo en equipo
-  - Escucha activa
+  - Escuchá activa
 
 scout_values:
   - Creatividad e ingenio
@@ -141,14 +141,14 @@ rama_rovers: []
 # ¡Fábulas de Trabajo en Equipo!
 
 ## Resumen
-Crea una historia colaborativa sobre cómo se forma el suelo, incorporando los factores que contribuyen a su creación.
+Creá una historia colaborativa sobre cómo se forma el suelo, incorporando los factores que contribuyen a su creación.
 
 ## Preparación
-- Aprende sobre los factores que forman el suelo.
+- Aprendé sobre los factores que forman el suelo.
 - Siéntate en círculo con tu grupo.
 
 ## Desarrollo
-1. **Aprendizaje** (10 min): Revisa los factores de formación del suelo.
+1. **Aprendizaje** (10 min): Revisá los factores de formación del suelo.
 2. **Historia** (15 min): Cuenten una historia colectiva, cada persona dice una oración incorporando un factor.
 3. **Reflexión** (5 min): ¿Qué factores aparecieron en la historia?
 

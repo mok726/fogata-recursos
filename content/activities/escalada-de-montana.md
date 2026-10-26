@@ -164,19 +164,19 @@ rama_rovers:
 Escalen una montaña. Observen la vida vegetal y animal durante su caminata. ¿Qué tipo de cambios pueden ver a diferentes altitudes? ¿Cómo cambia la temperatura, la humedad y el viento? ¿Se pueden encontrar las mismas especies en la base y en la cima de la montaña? ¿Por qué sí o por qué no?
 
 ## Preparación
-1. Identifica una montaña o colina para escalar.
-2. Prepara materiales para registrar.
-3. Organiza la salida.
+1. Identificá una montaña o colina para escalar.
+2. Prepará materiales para registrar.
+3. Organizá la salida.
 
 ## Desarrollo
 1. Asciende la montaña.
-2. Observa la vida vegetal y animal en diferentes altitudes.
-3. Registra los cambios en temperatura, humedad y viento.
-4. Compara las especies de la base y la cima.
+2. Observá la vida vegetal y animal en diferentes altitudes.
+3. Registrá los cambios en temperatura, humedad y viento.
+4. Compará las especies de la base y la cima.
 
 ## Cierre
 1. Discutan sus hallazgos en grupo.
-2. Reflexiona: ¿Cómo cambia la biodiversidad con la altitud?
+2. Reflexioná: ¿Cómo cambia la biodiversidad con la altitud?
 3. Pregunta final: ¿Qué factores influyen en la distribución de especies en la montaña?
 
 ## Texto original completo de la actividad

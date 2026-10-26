@@ -4,7 +4,7 @@ title: "El Trabajo del Agua"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-trabajo-del-agua/"
-description: "Cuenta los usos del agua, analiza qué pasaría sin ella e investiga la situación del agua en diferentes regiones."
+description: "Contá los usos del agua, analizá qué pasaría sin ella e investigá la situación del agua en diferentes regiones."
 summary: "Investigación sobre el uso y escasez de agua."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,18 +165,18 @@ rama_rovers:
 # El Trabajo del Agua
 
 ## Resumen
-Cuenta los usos del agua, analiza qué pasaría sin ella e investiga la situación del agua en diferentes regiones.
+Contá los usos del agua, analizá qué pasaría sin ella e investigá la situación del agua en diferentes regiones.
 
 ## Preparación
-1. Cuenta todas las veces que usas agua en un día.
-2. Forma equipos y elige una región del mundo para investigar.
-3. Prepara material para la presentación.
+1. Contá todas las veces que usás agua en un día.
+2. Formá equipos y elegí una región del mundo para investigar.
+3. Prepará material para la presentación.
 
 ## Desarrollo
-1. **Conteo** (10 min): Cuenta los usos del agua en tu día.
+1. **Conteo** (10 min): Contá los usos del agua en tu día.
 2. **Reflexión** (15 min): ¿Qué pasaría si no tuvieras agua para una actividad específica?
-3. **Investigación** (25 min): Investiga la situación del agua en tu región elegida (escasez, problemas de salud, etc.).
-4. **Presentación** (20 min): Comparte tus hallazgos con el grupo.
+3. **Investigación** (25 min): Investigá la situación del agua en tu región elegida (escasez, problemas de salud, etc.).
+4. **Presentación** (20 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Cómo sería tu vida sin acceso a agua potable?

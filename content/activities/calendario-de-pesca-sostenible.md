@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Calendario de pesca sostenible!
 
 ## Resumen
-¿Sabías que en el caso del pescado fresco que se atrapa en su hábitat natural es mejor comprar ciertas especies en ciertos meses? Esto asegura que los peces no sean atrapados durante su etapa de desove. Prepara un calendario que indique cuándo es correcto comer las diferentes especies de peces.
+¿Sabías que en el caso del pescado fresco que se atrapa en su hábitat natural es mejor comprar ciertas especies en ciertos meses? Esto asegura que los peces no sean atrapados durante su etapa de desove. Prepará un calendario que indique cuándo es correcto comer las diferentes especies de peces.
 
 ## Preparación
-1. Investiga sobre temporadas de pesca sostenible.
-2. Prepara materiales para el calendario.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre temporadas de pesca sostenible.
+2. Prepará materiales para el calendario.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga qué especies de pescado se pueden comer en qué meses.
+1. Investigá qué especies de pescado se pueden comer en qué meses.
 2. Para cada mes, dibuja imágenes de esas especies de pez.
-3. Asegúrate de que sean especies que pueden comerse sin lastimar a las poblaciones salvajes.
-4. Cuelga el calendario en tu escuela o centro comunitario.
+3. Asegurate de que sean especies que pueden comerse sin lastimar a las poblaciones salvajes.
+4. Colgá el calendario en tu escuela o centro comunitario.
 
 ## Cierre
-1. Comparte tu calendario con el grupo.
-2. Reflexiona: ¿Cómo ayuda la pesca sostenible a la biodiversidad?
+1. Compartí tu calendario con el grupo.
+2. Reflexioná: ¿Cómo ayuda la pesca sostenible a la biodiversidad?
 3. Pregunta final: ¿Qué especies de pescado son más sostenibles?
 
 ## Texto original completo de la actividad

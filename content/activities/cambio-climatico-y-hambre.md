@@ -3,7 +3,7 @@ title: "Cambio climático y hambre"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-y-hambre/"
-description: "Investiga cómo el cambio climático afecta el hambre y la nutrición."
+description: "Investigá cómo el cambio climático afecta el hambre y la nutrición."
 summary: "Impacto del cambio climático en el hambre."
 
 author:
@@ -144,22 +144,22 @@ rama_rovers:
 # ¡Cambio climático y hambre!
 
 ## Resumen
-Investiga cómo el cambio climático afecta los alimentos, el agua y la nutrición.
+Investigá cómo el cambio climático afecta los alimentos, el agua y la nutrición.
 
 ## Preparación
-1. Accede a recursos sobre cambio climático y alimentos.
-2. Prepara materiales para compartir.
+1. Accedé a recursos sobre cambio climático y alimentos.
+2. Prepará materiales para compartir.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre impactos del cambio climático.
+1. **Investigación** (25 min): Aprendé sobre impactos del cambio climático.
 2. **Análisis** (15 min): ¿Cómo afecta a los alimentos y el agua?
-3. **Compartir** (10 min): Comparte la información con tu grupo.
-4. **Reflexión** (10 min): ¿Qué puedes hacer?
+3. **Compartir** (10 min): Compartí la información con tu grupo.
+4. **Reflexión** (10 min): ¿Qué podés hacer?
 
 ## Cierre
 - ¿Cómo afecta el cambio climático a los alimentos?
 - ¿Cómo puede un cambio en los patrones del clima llevar al hambre?
-- ¿Qué puedes hacer para ayudar?
+- ¿Qué podés hacer para ayudar?
 
 ---
 ## Texto original completo de la actividad

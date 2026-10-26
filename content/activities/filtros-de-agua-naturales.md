@@ -166,22 +166,22 @@ rama_rovers:
 # ¡Filtros de agua naturales!
 
 ## Resumen
-Algunas especies son importantes para limpiar el agua y hacerla disponible para otras especies que viven en el ecosistema. Estas especies filtradoras pueden remover bacterias, virus, metales pesados, toxinas y/o desperdicios. Compara los métodos para filtrar el agua que utilizan las diferentes especies, como las ostras, los musgos y los árboles. Haz tu propio filtro de agua empleando materiales naturales o reciclados.
+Algunas especies son importantes para limpiar el agua y hacerla disponible para otras especies que viven en el ecosistema. Estas especies filtradoras pueden remover bacterias, virus, metales pesados, toxinas y/o desperdicios. Compará los métodos para filtrar el agua que utilizan las diferentes especies, como las ostras, los musgos y los árboles. Hacé tu propio filtro de agua empleando materiales naturales o reciclados.
 
 ## Preparación
-1. Reúne materiales para el filtro.
-2. Investiga sobre especies filtradoras.
-3. Organiza el espacio de trabajo.
+1. Reuní materiales para el filtro.
+2. Investigá sobre especies filtradoras.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Compara los métodos de filtración de diferentes especies.
-2. Construye tu propio filtro de agua.
-3. Prueba el filtro con agua sucia.
-4. Observa los resultados. El agua filtrada **no es potable**: no la tomes.
+1. Compará los métodos de filtración de diferentes especies.
+2. Construí tu propio filtro de agua.
+3. Probá el filtro con agua sucia.
+4. Observá los resultados. El agua filtrada **no es potable**: no la tomes.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Cómo filtran el agua las especies naturales?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Cómo filtran el agua las especies naturales?
 3. Pregunta final: ¿Por qué son importantes las especies filtradoras?
 
 ## Texto original completo de la actividad

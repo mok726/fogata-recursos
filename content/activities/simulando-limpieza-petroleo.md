@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/simulando-limpieza-petroleo/"
 description: "Los participantes simulan la limpieza de un derrame de petróleo utilizando diferentes materiales absorbentes y dispersantes, comprendiendo la dificultad de esta tarea."
-summary: "Simula la limpieza de un derrame de petróleo."
+summary: "Simulá la limpieza de un derrame de petróleo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -180,40 +180,40 @@ translation_notice:
 En esta actividad, los participantes simulan la limpieza de un derrame de petróleo utilizando diferentes materiales absorbentes y dispersantes, comprendiendo por qué es tan difícil limpiar un derrame de petróleo.
 
 ## Preparación
-1. Prepara los materiales: bandeja de vidrio, agua, colorante, aceite, cacao, sal, materiales absorbentes.
-2. Prepara la solución de agua dulce y la simulación de petróleo crudo.
+1. Prepará los materiales: bandeja de vidrio, agua, colorante, aceite, cacao, salí, materiales absorbentes.
+2. Prepará la solución de agua dulce y la simulación de petróleo crudo.
 
 ## Desarrollo
 
 ### Paso 1: Preparación del agua dulce
-1. Explica a tu grupo que van a intentar limpiar un derrame de petróleo.
-2. Para preparar el agua dulce, llena la bandeja de vidrio con agua fría de la canilla hasta 1 cm del borde, añade de cinco a seis gotas de colorante alimenticio y mezcla bien. Deja reposar la solución.
+1. Explicá a tu grupo que van a intentar limpiar un derrame de petróleo.
+2. Para preparar el agua dulce, llena la bandeja de vidrio con agua fría de la canilla hasta 1 cm del borde, añade de cinco a seis gotas de colorante alimenticio y mezcla bien. Dejá reposar la solución.
 
 ### Paso 2: Preparación del petróleo crudo simulado
 3. Para simular el petróleo crudo, coloca tres cucharadas de aceite vegetal en la taza, añade dos cucharadas de cacao en polvo y mezcla bien con un palito de madera.
 
 ### Paso 3: Contaminación del agua
-4. Para contaminar el agua dulce, vierte muy lentamente el petróleo crudo simulado desde una altura de 1 cm sobre la superficie del agua dulce. Si viertes el aceite demasiado rápido, el experimento no funcionará. Espera tres minutos para ver qué sucede.
+4. Para contaminar el agua dulce, vierte muy lentamente el petróleo crudo simulado desde una altura de 1 cm sobre la superficie del agua dulce. Si vertés el aceite demasiado rápido, el experimento no funcionará. Esperá tres minutos para ver qué sucede.
 
 ### Paso 4: Prueba de absorbentes
 5. Para probar los absorbentes, coloca una pequeña muestra de absorbente en el centro de la superficie del agua dulce contaminada:
    - ¿Cuánto petróleo limpió el absorbente?
    - ¿Qué tan rápido?
-   - ¿El absorbente también recoge agua? Si es así, ¿cómo puedes saberlo?
+   - ¿El absorbente también recoge agua? Si es así, ¿cómo podés saberlo?
    - ¿El absorbente se hunde o flota?
 
 ### Paso 5: Comparación de absorbentes
-6. Retira el absorbente usando las pinzas y repite el paso 1 con otras muestras de absorbente. Limpia el agua dulce contaminada. Lleva un registro del tiempo que lleva limpiar el derrame de petróleo usando los diferentes métodos.
+6. Retirá el absorbente usando las pinzas y repetí el paso 1 con otras muestras de absorbente. Limpiá el agua dulce contaminada. Llevá un registro del tiempo que lleva limpiar el derrame de petróleo usando los diferentes métodos.
 7. De los absorbentes que probaste, ¿cuál funcionó más rápido? ¿El mejor? ¿Qué otros materiales podrías usar como absorbentes?
 
 ### Paso 6: Prueba con detergente
-8. Prepara nueva agua dulce simulada siguiendo las instrucciones anteriores y añade petróleo para contaminarla.
-9. Añade detergente al agua contaminada con petróleo: ¿Qué sucedió cuando se añadió el detergente al agua contaminada?
+8. Prepará nueva agua dulce simulada siguiendo las instrucciones anteriores y añadí petróleo para contaminarla.
+9. Añadí detergente al agua contaminada con petróleo: ¿Qué sucedió cuando se añadió el detergente al agua contaminada?
    - ¿A dónde iría el petróleo en el agua dulce 'real' después de usar un dispersante (como el detergente para lavar platos)?
    - ¿Qué tan limpia está el agua dulce ahora que tiene detergente líquido?
 
 ### Paso 7: Agua de océano
-10. Repite todos los procedimientos anteriores sustituyendo el agua dulce por agua de océano. Para preparar el agua de océano, sigue los procedimientos de agua dulce, añade una cucharadita de sal y mézclala con el agua antes de añadir el petróleo crudo.
+10. Repetí todos los procedimientos anteriores sustituyendo el agua dulce por agua de océano. Para preparar el agua de océano, sigue los procedimientos de agua dulce, añadí una cucharadita de sal y mézclala con el agua antes de añadir el petróleo crudo.
 
 ## Cierre
 - ¿Qué le pasó al petróleo cuando lo dejaste caer en el agua dulce/agua de océano? ¿Se hundió? ¿Flotó? ¿Se mezcló?

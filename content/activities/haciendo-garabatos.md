@@ -158,21 +158,21 @@ rama_rovers:
 # ¡Haciendo garabatos!
 
 ## Resumen
-Imagina que el cambio climático afectará grandemente al lugar donde vives en el futuro, por ejemplo, habrán muchas más tormentas o el tiempo se hará mucho más cálido.
+Imaginá que el cambio climático afectará grandemente al lugar donde vivís en el futuro, por ejemplo, habrán muchas más tormentas o el tiempo se hará mucho más cálido.
 
 ## Preparación
-1. Investiga sobre impactos climáticos proyectados para tu región.
-2. Prepara ejemplos de soluciones de adaptación.
-3. Organiza el espacio de trabajo.
+1. Investigá sobre impactos climáticos proyectados para tu región.
+2. Prepará ejemplos de soluciones de adaptación.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cuáles impactos del cambio climático han proyectado los científicos para tu país/región?
-2. Piensa: ¿Cuáles son tus ideas sobre cómo te puedes adaptar y preparar para estos cambios?
-3. Haz una caricatura para compartir tus ideas.
+1. Investigá: ¿Cuáles impactos del cambio climático han proyectado los científicos para tu país/región?
+2. Pensá: ¿Cuáles son tus ideas sobre cómo te podés adaptar y preparar para estos cambios?
+3. Hacé una caricatura para compartir tus ideas.
 4. Por ejemplo: en algunas partes del mundo, las personas están construyendo casas sobre pilotes para protegerlas contra las inundaciones.
 
 ## Cierre
-1. Comparte tu caricatura con el grupo.
+1. Compartí tu caricatura con el grupo.
 2. Discutan las diferentes ideas de adaptación.
 3. Pregunta final: ¿Qué idea de adaptación te pareció más creativa?
 

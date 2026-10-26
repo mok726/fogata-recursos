@@ -4,7 +4,7 @@ title: "Análisis de Suelo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/analisis-de-suelo/"
-description: "Cava un hoyo de 30 cm en el bosque y observa la estructura del suelo. Dibuja y etiqueta las capas."
+description: "Cavá un hoyo de 30 cm en el bosque y observá la estructura del suelo. Dibujá y etiqueta las capas."
 summary: "Análisis de capas de suelo forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,18 +169,18 @@ rama_rovers:
 # Análisis de Suelo
 
 ## Resumen
-Cava un hoyo de 30 cm en el bosque y observa la estructura del suelo. Dibuja y etiqueta las capas.
+Cavá un hoyo de 30 cm en el bosque y observá la estructura del suelo. Dibujá y etiqueta las capas.
 
 ## Preparación
-1. Consigue una pala y una regla para medir.
-2. Encuentra un lugar adecuado en el bosque para cavar.
-3. Asegura la supervisión de un adulto.
+1. Conseguí una pala y una regla para medir.
+2. Encontrá un lugar adecuado en el bosque para cavar.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Excavación** (15 min): Cava un hoyo de al menos 30 cm de profundidad.
-2. **Observación** (15 min): Observa la estructura, capas, textura, humedad y vida.
-3. **Dibujo** (15 min): Haz un boceto y etiqueta las capas del suelo.
-4. **Cierre** (10 min): Vuelve a llenar el hoyo antes de irte.
+1. **Excavación** (15 min): Cavá un hoyo de al menos 30 cm de profundidad.
+2. **Observación** (15 min): Observá la estructura, capas, textura, humedad y vida.
+3. **Dibujo** (15 min): Hacé un boceto y etiqueta las capas del suelo.
+4. **Cierre** (10 min): Volvé a llenar el hoyo antes de irte.
 
 ## Cierre
 - ¿Qué capas de suelo observaste?

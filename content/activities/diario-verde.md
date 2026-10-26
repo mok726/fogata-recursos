@@ -3,7 +3,7 @@ title: "Diario verde"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-verde/"
-description: "Comienza un diario para registrar tus esfuerzos por una vida más sostenible."
+description: "Comenzá un diario para registrar tus esfuerzos por una vida más sostenible."
 summary: "Diario de vida sostenible."
 
 author:
@@ -142,22 +142,22 @@ rama_rovers:
 # ¡Diario verde!
 
 ## Resumen
-Comienza un diario para registrar todos tus esfuerzos por una vida más amigable con el clima.
+Comenzá un diario para registrar todos tus esfuerzos por una vida más amigable con el clima.
 
 ## Preparación
-- Consigue un cuaderno.
-- Prepara lapiceras.
+- Conseguí un cuaderno.
+- Prepará lapiceras.
 
 ## Desarrollo
-1. **Comienzo** (10 min): Inicia tu diario verde.
-2. **Registro** (5 min/día): Anota tus esfuerzos diarios.
-3. **Reflexión** (15 min): Discute tus avances con otros.
-4. **Revisión** (10 min): Revisa tu progreso regularmente.
+1. **Comienzo** (10 min): Iniciá tu diario verde.
+2. **Registro** (5 min/día): Anotá tus esfuerzos diarios.
+3. **Reflexión** (15 min): Discutí tus avances con otros.
+4. **Revisión** (10 min): Revisá tu progreso regularmente.
 
 ## Cierre
 - ¿Qué esfuerzos has registrado?
 - ¿Qué has logrado?
-- ¿Cómo te sientes al llevar un diario verde?
+- ¿Cómo te sentís al llevar un diario verde?
 
 ---
 ## Texto original completo de la actividad

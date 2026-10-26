@@ -4,8 +4,8 @@ title: "La Seguridad Alimentaria en Acción"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-seguridad-alimentaria-en-accion/"
-description: "Visita una granja, planta de alimentos, restaurante o tienda para aprender cómo se manipulan los alimentos de manera segura."
-summary: "Visita para aprender sobre seguridad alimentaria."
+description: "Visitá una granja, planta de alimentos, restaurante o tienda para aprender cómo se manipulan los alimentos de manera segura."
+summary: "Visitá para aprender sobre seguridad alimentaria."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -169,23 +169,23 @@ rama_rovers:
 # La Seguridad Alimentaria en Acción
 
 ## Resumen
-Visita una granja, planta de alimentos, restaurante o tienda para aprender cómo se manipulan los alimentos de manera segura.
+Visitá una granja, planta de alimentos, restaurante o tienda para aprender cómo se manipulan los alimentos de manera segura.
 
 ## Preparación
-1. Organiza una visita a una granja, planta de alimentos, restaurante o tienda.
-2. Prepara preguntas sobre la manipulación de alimentos.
-3. Lleva cámara para documentar.
+1. Organizá una visita a una granja, planta de alimentos, restaurante o tienda.
+2. Prepará preguntas sobre la manipulación de alimentos.
+3. Llevá cámara para documentar.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre el lugar y observa cómo se manipulan los alimentos.
-2. **Preguntas** (15 min): Pregunta sobre conservación, manipulación, preparación y eliminación de desechos.
-3. **Documentación** (15 min): Toma fotos o haz dibujos.
-4. **Comparación** (15 min): Compara las prácticas con las de tu casa.
-5. **Reflexión** (15 min): Discute cómo estas acciones afectan a tu comunidad.
+1. **Visita** (30 min): Recorré el lugar y observá cómo se manipulan los alimentos.
+2. **Preguntas** (15 min): Preguntá sobre conservación, manipulación, preparación y eliminación de desechos.
+3. **Documentación** (15 min): Tomá fotos o hacé dibujos.
+4. **Comparación** (15 min): Compará las prácticas con las de tu casa.
+5. **Reflexión** (15 min): Discutí cómo estas acciones afectan a tu comunidad.
 
 ## Cierre
 - ¿Qué medidas de seguridad alimentaria viste?
-- ¿En qué se parece a cómo preparas la comida en casa?
+- ¿En qué se parece a cómo preparás la comida en casa?
 - ¿Qué compromiso adquieres para mejorar la seguridad alimentaria?
 
 ---

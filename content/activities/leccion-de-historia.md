@@ -162,7 +162,7 @@ rama_rovers:
 # ¡Lección de historia!
 
 ## Resumen
-¿Cuánto se ha expandido tu ciudad en las últimas décadas? ¿Cuál es la historia de tu ciudad? ¿Quiénes fueron los primeros pobladores, cuándo llegaron y para qué se usaba la tierra antes? ¿Ha sido tu ciudad inclusiva con todas las personas de diferentes orígenes que se han establecido allí? ¿Cómo se espera que siga expandiéndose tu ciudad? ¿Ves señales de su continua expansión? ¿Qué cambios crees que traerá una mayor expansión y cómo puede prepararse tu ciudad?
+¿Cuánto se ha expandido tu ciudad en las últimas décadas? ¿Cuál es la historia de tu ciudad? ¿Quiénes fueron los primeros pobladores, cuándo llegaron y para qué se usaba la tierra antes? ¿Ha sido tu ciudad inclusiva con todas las personas de diferentes orígenes que se han establecido allí? ¿Cómo se espera que siga expandiéndose tu ciudad? ¿Ves señales de su continua expansión? ¿Qué cambios creés que traerá una mayor expansión y cómo puede prepararse tu ciudad?
 
 ## Preparación
 1. Investigá la historia de tu ciudad.
@@ -178,7 +178,7 @@ rama_rovers:
 ## Cierre
 1. Compartí tus hallazgos con el grupo.
 2. Reflexioná sobre el futuro de tu ciudad.
-3. Pregunta final: ¿Cómo crees que debería expandirse tu ciudad de manera sostenible?
+3. Pregunta final: ¿Cómo creés que debería expandirse tu ciudad de manera sostenible?
 
 ## Texto original completo de la actividad
 

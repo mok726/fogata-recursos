@@ -4,8 +4,8 @@ title: "Historias solares"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/historias-solares/"
-description: "Investiga el rol del Sol en una cultura o religión específica y crea una exhibición estilo museo con dibujos y explicaciones."
-summary: "Descubre la importancia cultural del Sol."
+description: "Investigá el rol del Sol en una cultura o religión específica y creá una exhibición estilo museo con dibujos y explicaciones."
+summary: "Descubrí la importancia cultural del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,14 +170,14 @@ translation_notice:
 Desde que los humanos existen en el planeta, hemos usado la energía del Sol. Pero la influencia del Sol en la vida humana va mucho más allá de nuestra necesidad de energía. A lo largo de la historia, los pueblos "adoraron" al Sol y tuvieron dioses solares.
 
 ## Preparación
-1. Visita tu biblioteca escolar o local para investigar.
-2. Investiga el rol del Sol en una cultura o religión específica.
-3. Reúne materiales para crear tu exhibición.
+1. Visitá tu biblioteca escolar o local para investigar.
+2. Investigá el rol del Sol en una cultura o religión específica.
+3. Reuní materiales para crear tu exhibición.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga sobre el rol del Sol en una cultura o religión de tu elección.
+Investigá sobre el rol del Sol en una cultura o religión de tu elección.
 
 **Preguntas guía:**
 - ¿Cómo era representado el Sol en esa cultura?
@@ -187,17 +187,17 @@ Investiga sobre el rol del Sol en una cultura o religión de tu elección.
 - ¿Qué simbolismo tenía el Sol para esa cultura?
 
 ### Parte II - Creación de la exhibición
-Prepara una exhibición estilo museo con:
+Prepará una exhibición estilo museo con:
 - Dibujos y explicaciones
 - Información sobre la cultura o religión elegida
 - Representaciones del Sol en esa cultura
 
 ### Parte III - Presentación
-Presenta tu exhibición en tu próxima reunión o clase.
+Presentá tu exhibición en tu próxima reunión o clase.
 
 ## Cierre
 1. ¿Qué descubrimiento sobre el Sol en esa cultura te sorprendió más?
-2. ¿Por qué crees que el Sol ha sido tan importante para tantas culturas?
+2. ¿Por qué creés que el Sol ha sido tan importante para tantas culturas?
 3. ¿Cómo se relaciona esa importancia cultural con la importancia real del Sol para nuestra vida?
 
 ## Texto original completo de la actividad

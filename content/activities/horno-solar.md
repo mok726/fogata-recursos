@@ -3,7 +3,7 @@ title: "Horno solar"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/horno-solar/"
-description: "Aprende a construir un horno solar."
+description: "Aprendé a construir un horno solar."
 summary: "Construcción de horno solar."
 
 author:
@@ -141,22 +141,22 @@ rama_rovers:
 # ¡Horno solar!
 
 ## Resumen
-Aprende a construir un horno solar y a cocinar usando energía renovable.
+Aprendé a construir un horno solar y a cocinar usando energía renovable.
 
 ## Preparación
-1. Reúne los materiales necesarios.
-2. Encuentra un lugar soleado.
-3. Sigue las instrucciones del enlace.
+1. Reuní los materiales necesarios.
+2. Encontrá un lugar soleado.
+3. Seguí las instrucciones del enlace.
 
 ## Desarrollo
-1. **Construcción** (30 min): Construye el horno solar.
-2. **Prueba** (20 min): Cocina algo con energía solar.
+1. **Construcción** (30 min): Construí el horno solar.
+2. **Prueba** (20 min): Cociná algo con energía solar.
 3. **Reflexión** (10 min): ¿Cómo funciona la energía solar?
 
 ## Cierre
 - ¿Cómo funciona un horno solar?
 - ¿Qué ventajas tiene sobre un horno convencional?
-- ¿Cómo te sientes al cocinar con energía solar?
+- ¿Cómo te sentís al cocinar con energía solar?
 
 ---
 ## Texto original completo de la actividad

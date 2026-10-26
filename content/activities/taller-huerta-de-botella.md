@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-huerta-de-botella/"
 description: "Taller donde los participantes aprenden a reutilizar botellas plásticas convirtiéndolas en macetas para cultivar plantas, hierbas y flores."
-summary: "Convierte botellas en macetas."
+summary: "Convertí botellas en macetas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -171,9 +171,9 @@ Aprendemos a reutilizar botellas plásticas convirtiéndolas en macetas donde cu
 - Promover la conciencia ambiental a través del reciclaje creativo.
 
 ## Preparación
-1. Reúne botellas plásticas limpias y secas.
-2. Prepara plantines o semillas, tierra y humus.
-3. Prepara palitas, guantes, marcadores indelebles y tijeras o cortantes.
+1. Reuní botellas plásticas limpias y secas.
+2. Prepará plantines o semillas, tierra y humus.
+3. Prepará palitas, guantes, marcadores indelebles y tijeras o cortantes.
 
 ## Desarrollo
 

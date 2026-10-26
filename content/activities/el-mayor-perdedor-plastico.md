@@ -163,18 +163,18 @@ translation_notice:
 # ¡El mayor perdedor de plástico!
 
 ## Resumen
-Organiza una competencia entre clases o grupos para ver quién puede reducir más su consumo de plásticos de un solo uso durante una semana. ¡El grupo que produzca menos residuos plásticos gana!
+Organizá una competencia entre clases o grupos para ver quién puede reducir más su consumo de plásticos de un solo uso durante una semana. ¡El grupo que produzca menos residuos plásticos gana!
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Organiza dos espacios en la escuela para que cada grupo acumule sus residuos plásticos de la semana.
-3. Prepara planillas de registro para cada participante.
-4. Define un premio para el grupo ganador.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Organizá dos espacios en la escuela para que cada grupo acumule sus residuos plásticos de la semana.
+3. Prepará planillas de registro para cada participante.
+4. Definí un premio para el grupo ganador.
 
 ## Desarrollo
 
 ### Parte I - Recoger
-Organiza un "enfrentamiento plástico" entre tu clase y otra clase de la escuela.
+Organizá un "enfrentamiento plástico" entre tu clase y otra clase de la escuela.
 
 **Instrucciones:**
 - Todos los participantes guardan todos los plásticos que usan durante la semana
@@ -218,9 +218,9 @@ Organicen una segunda ronda para ver qué clase puede "perder" más plástico.
 - Rechazar: decir no a plásticos innecesarios
 
 ## Cierre
-1. ¿Qué fue lo que más te sorprendió de la cantidad de plástico que generas?
+1. ¿Qué fue lo que más te sorprendió de la cantidad de plástico que generás?
 2. ¿Qué cambio fue más fácil de hacer? ¿Cuál fue más difícil?
-3. ¿Crees que puedes mantener estos cambios a largo plazo?
+3. ¿Creés que podés mantener estos cambios a largo plazo?
 
 ## Texto original completo de la actividad
 

@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-energia-quimica/"
 description: "Experimento con bicarbonato y vinagre para ver la energía potencial convertirse en cinética: ¡burbujas de CO₂ en acción!"
-summary: "Crea una reacción química y observa la energía."
+summary: "Creá una reacción química y observá la energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,18 +164,18 @@ translation_notice:
 # ¡Experimento de energía química!
 
 ## Resumen
-¿Cómo cambia la energía de una forma a otra? Una forma es a través de una reacción química. ¡Haz este experimento con bicarbonato y vinagre para ver la energía potencial convertirse en energía cinética!
+¿Cómo cambia la energía de una forma a otra? Una forma es a través de una reacción química. ¡Hacé este experimento con bicarbonato y vinagre para ver la energía potencial convertirse en energía cinética!
 
 ## Preparación
-1. Lee la información sobre formas de energía.
-2. Reúne los materiales: bicarbonato, vinagre y un recipiente grande.
-3. Busca una superficie fácil de limpiar.
+1. Leé la información sobre formas de energía.
+2. Reuní los materiales: bicarbonato, vinagre y un recipiente grande.
+3. Buscá una superficie fácil de limpiar.
 
 ## Desarrollo
 
 ### Parte I - Preparar
-1. Coloca una cucharada de bicarbonato en un recipiente grande.
-2. Añade un poco de vinagre.
+1. Colocá una cucharada de bicarbonato en un recipiente grande.
+2. Añadí un poco de vinagre.
 
 ### Parte II - Observar
 ¿Qué pasa? ¿Qué ves?

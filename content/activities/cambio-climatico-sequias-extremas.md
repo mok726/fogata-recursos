@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-sequias-extremas/"
 description: "Los participantes profundizan en la relación entre el cambio climático y las sequías extremas, analizando sus impactos en los ecosistemas y las comunidades humanas."
-summary: "Analiza el impacto de las sequías extremas."
+summary: "Analizá el impacto de las sequías extremas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -117,7 +117,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Cambio climático
   - Sequías
@@ -165,18 +165,18 @@ translation_notice:
 El cambio climático está provocando un aumento en la frecuencia e intensidad de las sequías en todo el mundo. Estas sequías extremas tienen impactos devastadores en los ecosistemas, la agricultura, la disponibilidad de agua y las comunidades humanas. En esta actividad, los participantes profundizan en la relación entre el cambio climático y las sequías extremas, analizando sus impactos.
 
 ## Preparación
-1. Prepara materiales de investigación (acceso a Internet o artículos impresos).
-2. Prepara la pizarra para la discusión.
+1. Prepará materiales de investigación (acceso a Internet o artículos impresos).
+2. Prepará la pizarra para la discusión.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que el cambio climático está provocando sequías más frecuentes e intensas en muchas partes del mundo.
+1. Explicá a tu grupo que el cambio climático está provocando sequías más frecuentes e intensas en muchas partes del mundo.
 2. Pregunta: ¿Qué saben sobre las sequías? ¿Qué impactos tienen en las personas y el medio ambiente?
 
 ### Paso 2: Investigación
-3. Divide a los participantes en pequeños grupos.
-4. Pide a cada grupo que investigue sobre una sequía extrema reciente en alguna parte del mundo. Pueden buscar información sobre:
+3. Dividí a los participantes en pequeños grupos.
+4. Pedí a cada grupo que investigue sobre una sequía extrema reciente en alguna parte del mundo. Pueden buscar información sobre:
    - ¿Dónde ocurrió?
    - ¿Cuándo ocurrió?
    - ¿Cuánto duró?
@@ -184,11 +184,11 @@ El cambio climático está provocando un aumento en la frecuencia e intensidad d
    - ¿Cómo se relaciona con el cambio climático?
 
 ### Paso 3: Discusión
-5. Reúne a todos los grupos para compartir sus hallazgos.
-6. Guía una discusión sobre los patrones y las causas de las sequías extremas.
+5. Reuní a todos los grupos para compartir sus hallazgos.
+6. Guiá una discusión sobre los patrones y las causas de las sequías extremas.
 
 ### Paso 4: Reflexión
-7. Pregunta a los participantes: ¿Qué podemos hacer para reducir los impactos de las sequías? ¿Cómo podemos adaptarnos a un clima cambiante?
+7. Preguntá a los participantes: ¿Qué podemos hacer para reducir los impactos de las sequías? ¿Cómo podemos adaptarnos a un clima cambiante?
 
 ## Cierre
 - ¿Qué causa las sequías extremas?

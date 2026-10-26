@@ -4,8 +4,8 @@ title: "Ahorrando energía en casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/ahorrando-energia/"
-description: "Haz una lista de cómo se usa la energía en tu hogar y aplica consejos para ahorrar energía."
-summary: "Reduce el consumo energético en tu hogar."
+description: "Hacé una lista de cómo se usa la energía en tu hogar y aplicá consejos para ahorrar energía."
+summary: "Reducí el consumo energético en tu hogar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,17 +164,17 @@ translation_notice:
 # ¡Ahorrando energía en casa!
 
 ## Resumen
-Haz una lista de todas las formas en que se usa la energía en tu hogar. ¿Usas energía eficientemente? Hay muchas formas de mejorar: electrodomésticos eficientes, luces LED, control de corrientes de aire en ventanas y puertas.
+Hacé una lista de todas las formas en que se usa la energía en tu hogar. ¿Usás energía eficientemente? Hay muchas formas de mejorar: electrodomésticos eficientes, luces LED, control de corrientes de aire en ventanas y puertas.
 
 ## Preparación
-1. Recorre tu casa y observa cómo se usa la energía.
-2. Busca información sobre consejos de ahorro.
-3. Prepara materiales para tomar notas.
+1. Recorré tu casa y observá cómo se usa la energía.
+2. Buscá información sobre consejos de ahorro.
+3. Prepará materiales para tomar notas.
 
 ## Desarrollo
 
 ### Parte I - Lista
-Haz una lista de cómo se usa la energía en tu hogar:
+Hacé una lista de cómo se usa la energía en tu hogar:
 
 **Ejemplos:**
 - Luces
@@ -191,19 +191,19 @@ Haz una lista de cómo se usa la energía en tu hogar:
 - Reducir el termostato 1 grado (10% de ahorro)
 
 ### Parte III - Implementar
-Prueba algunos consejos de ahorro:
+Probá algunos consejos de ahorro:
 
 **Fuente:** www.energysavers.gov/tips
 
 ### Parte IV - Compartir
-Habla con tu familia sobre lo que pueden hacer para reducir el consumo de energía.
+Hablá con tu familia sobre lo que pueden hacer para reducir el consumo de energía.
 
 **Extra:** ¡Quizás puedas obtener dinero extra por el ahorro en las facturas!
 
 ## Cierre
 1. ¿Qué cambio de ahorro fue más fácil?
 2. ¿Qué cambio fue más difícil?
-3. ¿Cuánto crees que puedes ahorrar?
+3. ¿Cuánto creés que podés ahorrar?
 
 ## Texto original completo de la actividad
 

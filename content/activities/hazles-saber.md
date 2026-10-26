@@ -3,7 +3,7 @@ title: "¡Hazles Saber!"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hazles-saber/"
-description: "Comparte tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad después de un desastre."
+description: "Compartí tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad después de un desastre."
 summary: "Compartiendo ideas para reconstruir mejor."
 
 author:
@@ -104,7 +104,7 @@ competencies:
 activity_type:
   - Reflexión
   - Creatividad / Arte
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Reconstrucción
@@ -142,14 +142,14 @@ rama_rovers: []
 # ¡Hazles Saber!
 
 ## Resumen
-Comparte tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad entera después de un desastre.
+Compartí tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad entera después de un desastre.
 
 ## Preparación
-- Piensa en los lugares donde vives, estudias y juegas.
-- Reflexiona sobre cómo se podrían mejorar.
+- Pensá en los lugares donde vivís, estudias y jugás.
+- Reflexioná sobre cómo se podrían mejorar.
 
 ## Desarrollo
-1. **Reflexión** (10 min): Piensa en cómo reconstruirías mejor.
+1. **Reflexión** (10 min): Pensá en cómo reconstruirías mejor.
 2. **Compartir** (15 min): Cada persona comparte sus ideas.
 3. **Discusión** (5 min): Hablen sobre las ideas que surgieron.
 

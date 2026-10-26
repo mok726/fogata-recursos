@@ -4,8 +4,8 @@ title: "¡Biopiratas!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/biopiratas/"
-description: "Organiza un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas."
-summary: "Debate sobre bioprospección y biopiratería."
+description: "Organizá un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas."
+summary: "Debatí sobre bioprospección y biopiratería."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -116,7 +116,7 @@ competencies:
   - Debate
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Sensibilización
 
@@ -159,18 +159,18 @@ rama_rovers:
 # ¡Biopiratas!
 
 ## Resumen
-Organiza un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas.
+Organizá un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas.
 
 ## Preparación
-1. Investiga sobre bioprospección y biopiratería, y sus implicaciones éticas.
-2. Divide el grupo en dos equipos.
-3. Prepara argumentos para cada posición.
+1. Investigá sobre bioprospección y biopiratería, y sus implicaciones éticas.
+2. Dividí el grupo en dos equipos.
+3. Prepará argumentos para cada posición.
 
 ## Desarrollo
 1. **Investigación** (20 min): Cada equipo investiga su posición.
 2. **Preparación** (15 min): Preparen argumentos y contraargumentos.
-3. **Debate** (30 min): Realiza el debate estructurado.
-4. **Reflexión** (15 min): Reflexiona sobre los argumentos presentados.
+3. **Debate** (30 min): Realizá el debate estructurado.
+4. **Reflexión** (15 min): Reflexioná sobre los argumentos presentados.
 
 ## Cierre
 - ¿Qué aprendiste sobre la bioprospección y la biopiratería?

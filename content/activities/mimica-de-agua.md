@@ -136,15 +136,15 @@ rama_rovers: []
 # ¡Mímica de Agua!
 
 ## Resumen
-Crea un set de cartas con palabras relacionadas con el agua y juega a la mímica con tu grupo.
+Creá un set de cartas con palabras relacionadas con el agua y jugá a la mímica con tu grupo.
 
 ## Preparación
-1. Piensa en palabras relacionadas con el agua.
-2. Escribe cada palabra en una carta.
+1. Pensá en palabras relacionadas con el agua.
+2. Escribí cada palabra en una carta.
 
 ## Desarrollo
-1. **Creación** (15 min): Crea las cartas con palabras sobre el agua.
-2. **Juego** (15 min): Mezcla las cartas y divide en equipos.
+1. **Creación** (15 min): Creá las cartas con palabras sobre el agua.
+2. **Juego** (15 min): Mezclá las cartas y dividí en equipos.
 3. **Actuación**: Cada persona actúa la palabra mientras su equipo adivina.
 
 ## Cierre

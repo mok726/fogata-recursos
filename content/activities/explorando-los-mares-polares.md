@@ -3,7 +3,7 @@ title: "Explorando los Mares Polares"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-los-mares-polares/"
-description: "Imagina que te unes a una expedición al Ártico y escribe un diario sobre la experiencia."
+description: "Imaginá que te unís a una expedición al Ártico y escribí un diario sobre la experiencia."
 summary: "Diario de una expedición al Ártico."
 
 author:
@@ -155,18 +155,18 @@ rama_rovers:
 # ¡Explorando los Mares Polares!
 
 ## Resumen
-Imagina que te unes a una expedición al Ártico para investigar cómo las actividades humanas afectan al océano en las regiones polares. Escribe un diario sobre tu experiencia.
+Imaginá que te unís a una expedición al Ártico para investigar cómo las actividades humanas afectan al océano en las regiones polares. Escribí un diario sobre tu experiencia.
 
 ## Preparación
-1. Investiga sobre el Ártico y las expediciones polares.
-2. Piensa en qué pregunta de investigación te gustaría responder.
-3. Prepara un cuaderno para escribir tu diario.
+1. Investigá sobre el Ártico y las expediciones polares.
+2. Pensá en qué pregunta de investigación te gustaría responder.
+3. Prepará un cuaderno para escribir tu diario.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga sobre el Ártico y las expediciones polares.
-2. **Planificación** (15 min): Decide tu pregunta de investigación y qué experimentos harías.
-3. **Escritura** (25 min): Escribe un diario sobre la expedición.
-4. **Compartir** (5 min): Lee tu diario en voz alta.
+1. **Investigación** (15 min): Investigá sobre el Ártico y las expediciones polares.
+2. **Planificación** (15 min): Decidí tu pregunta de investigación y qué experimentos harías.
+3. **Escritura** (25 min): Escribí un diario sobre la expedición.
+4. **Compartir** (5 min): Leé tu diario en voz alta.
 
 ## Cierre
 - ¿Qué lecciones aprendiste sobre el Ártico?

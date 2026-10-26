@@ -3,7 +3,7 @@ title: "Concurso de Preguntas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-de-preguntas-agua/"
-description: "Prepara un concurso de preguntas sobre agua y saneamiento entre dos equipos."
+description: "Prepará un concurso de preguntas sobre agua y saneamiento entre dos equipos."
 summary: "Concurso sobre agua y saneamiento."
 
 author:
@@ -104,7 +104,7 @@ competencies:
 activity_type:
   - Juego
   - Aprender jugando
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Agua
@@ -145,12 +145,12 @@ rama_rovers:
 # ¡Concurso de Preguntas!
 
 ## Resumen
-Prepara un concurso de preguntas sobre agua y saneamiento entre dos equipos.
+Prepará un concurso de preguntas sobre agua y saneamiento entre dos equipos.
 
 ## Preparación
 1. Divídanse en dos equipos.
 2. Un equipo prepara preguntas sobre el agua, el otro sobre saneamiento.
-3. Revisa que las preguntas sean correctas.
+3. Revisá que las preguntas sean correctas.
 
 ## Desarrollo
 1. **Preparación** (15 min): Cada equipo elabora sus preguntas.

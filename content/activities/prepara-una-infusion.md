@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Prepara una Infusión"
+title: "Prepará una Infusión"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/prepara-una-infusion/"
-description: "Experimenta creando bebidas saludables bajas en azúcar usando hierbas, raíces y frutas."
+description: "Experimentá creando bebidas saludables bajas en azúcar usando hierbas, raíces y frutas."
 summary: "Preparación de infusiones saludables."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,21 +164,21 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías de la información disponibles.
 ---
 
-# Prepara una Infusión
+# Prepará una Infusión
 
 ## Resumen
-Experimenta creando bebidas saludables bajas en azúcar usando hierbas, raíces y frutas.
+Experimentá creando bebidas saludables bajas en azúcar usando hierbas, raíces y frutas.
 
 ## Preparación
-1. Averigua qué hierbas crecen en tu zona.
-2. Recolecta hierbas (menta, manzanilla, albahaca, tomillo, jengibre, limón, etc.). Solo plantas que un adulto identifique con certeza, o compradas: algunas plantas silvestres parecidas son tóxicas.
-3. Asegura la supervisión de un adulto para usar agua caliente.
+1. Averiguá qué hierbas crecen en tu zona.
+2. Recolectá hierbas (menta, manzanilla, albahaca, tomillo, jengibre, limón, etc.). Solo plantas que un adulto identifique con certeza, o compradas: algunas plantas silvestres parecidas son tóxicas.
+3. Asegurá la supervisión de un adulto para usar agua caliente.
 
 ## Desarrollo
-1. **Recolección** (15 min): Recolecta hierbas y plantas.
-2. **Preparación** (20 min): Prepara infusiones con diferentes hierbas.
-3. **Experimentación** (15 min): Prueba combinaciones y sabores.
-4. **Reflexión** (15 min): Comparte tus ideas para bebidas saludables.
+1. **Recolección** (15 min): Recolectá hierbas y plantas.
+2. **Preparación** (20 min): Prepará infusiones con diferentes hierbas.
+3. **Experimentación** (15 min): Probá combinaciones y sabores.
+4. **Reflexión** (15 min): Compartí tus ideas para bebidas saludables.
 
 ## Cierre
 - ¿Qué hierbas utilizaste y para qué sirven?

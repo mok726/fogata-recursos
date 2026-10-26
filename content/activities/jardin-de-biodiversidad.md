@@ -171,19 +171,19 @@ rama_rovers:
 Cultiven un jardín de vegetales, hierbas, frutas, nueces o especias. Desarrollen su habilidad para la jardinería en un jardín de macetas, un jardín comunitario, un jardín de terraza o un jardín en el patio trasero.
 
 ## Preparación
-1. Elige el tipo de jardín.
-2. Selecciona qué plantar.
-3. Prepara la tierra y los materiales.
+1. Elegí el tipo de jardín.
+2. Seleccioná qué plantar.
+3. Prepará la tierra y los materiales.
 
 ## Desarrollo
-1. Planta las semillas o plantines.
-2. Monitorea cuánta agua y luz solar necesitan las diferentes plantas.
-3. Observa: ¿Qué clases de animales visitan el jardín?
-4. Reflexiona: ¿Qué animales ayudan a polinizar o dispersar semillas?
+1. Plantá las semillas o plantines.
+2. Monitoreá cuánta agua y luz solar necesitan las diferentes plantas.
+3. Observá: ¿Qué clases de animales visitan el jardín?
+4. Reflexioná: ¿Qué animales ayudan a polinizar o dispersar semillas?
 
 ## Cierre
-1. Discute tus observaciones en grupo.
-2. Reflexiona sobre la importancia de los jardines para la biodiversidad.
+1. Discutí tus observaciones en grupo.
+2. Reflexioná sobre la importancia de los jardines para la biodiversidad.
 3. Pregunta final: ¿Cómo puede tu jardín ayudar a la biodiversidad local?
 
 ## Texto original completo de la actividad

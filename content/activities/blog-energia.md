@@ -4,8 +4,8 @@ title: "Blog sobre energía"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/blog-energia/"
-description: "Crea un blog grupal sobre energía con consejos, poesía, historias y noticias para compartir con amigos y familiares."
-summary: "Comparte ideas sobre energía en un blog."
+description: "Creá un blog grupal sobre energía con consejos, poesía, historias y noticias para compartir con amigos y familiares."
+summary: "Compartí ideas sobre energía en un blog."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -159,17 +159,17 @@ translation_notice:
 # ¡Blog sobre energía!
 
 ## Resumen
-Crea un blog grupal sobre energía. Puedes escribir sobre la importancia de la energía sostenible, ideas para usarla eficientemente, poesía, ensayos e historias sobre energía.
+Creá un blog grupal sobre energía. Podés escribir sobre la importancia de la energía sostenible, ideas para usarla eficientemente, poesía, ensayos e historias sobre energía.
 
 ## Preparación
-1. Elige una plataforma para el blog.
-2. Asigna temas a cada miembro.
-3. Prepara materiales para escribir.
+1. Elegí una plataforma para el blog.
+2. Asigná temas a cada miembro.
+3. Prepará materiales para escribir.
 
 ## Desarrollo
 
 ### Parte I - Planificar
-Elige temas para el blog:
+Elegí temas para el blog:
 
 **Ideas:**
 - Consejos diarios para ahorrar energía
@@ -182,15 +182,15 @@ Elige temas para el blog:
 Cada miembro escribe una entrada para el blog.
 
 ### Parte III - Publicar
-Actualiza el blog diariamente con un nuevo consejo o noticia.
+Actualizá el blog diariamente con un nuevo consejo o noticia.
 
 ### Parte IV - Compartir
-Comparte el enlace con amigos y familiares. Invítalos a seguir y comentar.
+Compartí el enlace con amigos y familiares. Invitalos a seguir y comentar.
 
 ## Cierre
 1. ¿Qué tema del blog fue más popular?
 2. ¿Qué aprendiste al escribir sobre energía?
-3. ¿Cómo puedes mantener el blog actualizado?
+3. ¿Cómo podés mantener el blog actualizado?
 
 ## Texto original completo de la actividad
 

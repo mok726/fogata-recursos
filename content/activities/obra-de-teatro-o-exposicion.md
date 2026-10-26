@@ -3,7 +3,7 @@ title: "Obra de teatro o exposición sobre vida sostenible"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-o-exposicion/"
-description: "Presenta una obra de teatro o exposición sobre una vida amigable con el medio ambiente."
+description: "Presentá una obra de teatro o exposición sobre una vida amigable con el medio ambiente."
 summary: "Teatro o exposición sobre sostenibilidad."
 
 author:
@@ -145,17 +145,17 @@ rama_rovers:
 # ¡Obra de teatro o exposición!
 
 ## Resumen
-Presenta una obra de teatro o una exposición en tu escuela sobre cómo llevar una vida amigable con el medio ambiente.
+Presentá una obra de teatro o una exposición en tu escuela sobre cómo llevar una vida amigable con el medio ambiente.
 
 ## Preparación
-1. Decide el formato: teatro o exposición.
-2. Prepara el contenido.
-3. Reúne materiales.
+1. Decidí el formato: teatro o exposición.
+2. Prepará el contenido.
+3. Reuní materiales.
 
 ## Desarrollo
-1. **Planificación** (20 min): Diseña la presentación.
-2. **Preparación** (30 min): Ensaya o prepara la exposición.
-3. **Presentación** (30 min): Presenta en tu escuela.
+1. **Planificación** (20 min): Diseñá la presentación.
+2. **Preparación** (30 min): Ensayá o prepará la exposición.
+3. **Presentación** (30 min): Presentá en tu escuela.
 4. **Reflexión** (10 min): ¿Cómo fue la experiencia?
 
 ## Cierre

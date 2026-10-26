@@ -4,8 +4,8 @@ title: "Sin plástico es fantástico"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/sin-plastico-es-fantastico/"
-description: "Organiza un evento comunitario para crear conciencia sobre la contaminación plástica y proporcionar soluciones prácticas."
-summary: "Organiza un evento para mostrar que vivir sin plástico es posible."
+description: "Organizá un evento comunitario para crear conciencia sobre la contaminación plástica y proporcionar soluciones prácticas."
+summary: "Organizá un evento para mostrar que vivir sin plástico es posible."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,44 +167,44 @@ translation_notice:
 # ¡Sin plástico es fantástico!
 
 ## Resumen
-Organiza un evento comunitario para crear conciencia sobre la contaminación plástica y proporcionar soluciones prácticas. Muestra a tu comunidad que vivir sin plástico es posible y ¡fantástico!
+Organizá un evento comunitario para crear conciencia sobre la contaminación plástica y proporcionar soluciones prácticas. Mostrá a tu comunidad que vivir sin plástico es posible y ¡fantástico!
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Elige un lugar y fecha para el evento.
-3. Prepara materiales y consigue oradores.
-4. Crea volantes y publicaciones en redes sociales.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Elegí un lugar y fecha para el evento.
+3. Prepará materiales y conseguí oradores.
+4. Creá volantes y publicaciones en redes sociales.
 
 ## Desarrollo
 
 ### Parte I - Planificación
-Organiza el evento con tu grupo:
+Organizá el evento con tu grupo:
 
 **Elementos del evento:**
 - **Concientización**: Información sobre contaminación plástica
 - **Soluciones prácticas**: Cómo reducir plásticos en la vida diaria
 - **Regalos**: Bolsas reutilizables y botellas (si es posible)
-- **Orador**: Invita a un orador carismático (¿algún líder local?)
-- **Compromiso**: Pide a los asistentes que se comprometan
+- **Orador**: Invitá a un orador carismático (¿algún líder local?)
+- **Compromiso**: Pedí a los asistentes que se comprometan
 
 ### Parte II - Difusión
-- Crea un hashtag para el evento
-- Comparte en redes sociales
-- Coloca volantes en lugares populares
-- Invita a líderes comunitarios
+- Creá un hashtag para el evento
+- Compartí en redes sociales
+- Colocá volantes en lugares populares
+- Invitá a líderes comunitarios
 
 ### Parte III - El evento
 Durante el evento:
-1. Presenta información sobre el problema
-2. Muestra soluciones prácticas
-3. Invita a los asistentes a compartir ideas
-4. Pide compromisos (ej. 3 semanas reduciendo plástico)
-5. Ofrece regalos sostenibles
+1. Presentá información sobre el problema
+2. Mostrá soluciones prácticas
+3. Invitá a los asistentes a compartir ideas
+4. Pedí compromisos (ej. 3 semanas reduciendo plástico)
+5. Ofrecé regalos sostenibles
 
 ### Parte IV - Seguimiento
-- Crea un grupo online para mantener el momentum
-- Comparte fotos y testimonios
-- Reconoce a quienes se comprometieron
+- Creá un grupo online para mantener el momentum
+- Compartí fotos y testimonios
+- Reconocé a quienes se comprometieron
 
 ## Cierre
 1. ¿Qué parte del evento fue más exitosa?

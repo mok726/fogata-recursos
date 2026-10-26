@@ -5,7 +5,7 @@ duration: "1 hora 10 min (40 min organización + 30 min discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-de-azul/"
 description: "Los participantes organizan un 'Día de Azul' en su escuela o lugar de reunión para concienciar sobre la importancia del agua y el saneamiento, vistiendo de azul y compartiendo mensajes."
-summary: "Organiza un Día de Azul para concienciar sobre el agua."
+summary: "Organizá un Día de Azul para concienciar sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,36 +167,36 @@ translation_notice:
 El agua es vida y el azul es el color que la representa. En esta actividad, los participantes organizan un **Día de Azul** en su escuela o lugar de reunión para concienciar sobre la importancia del agua y el saneamiento. Todos visten de azul y comparten mensajes sobre el cuidado del agua.
 
 ## Preparación
-1. Prepara los materiales para los pósters.
-2. Coordina la fecha del evento.
+1. Prepará los materiales para los pósters.
+2. Coordiná la fecha del evento.
 
 ## Desarrollo
 
 ### Paso 1: Organización
-1. Explica a tu grupo que van a organizar un **Día de Azul** para recordar a todos la importancia del agua y el saneamiento.
+1. Explicá a tu grupo que van a organizar un **Día de Azul** para recordar a todos la importancia del agua y el saneamiento.
 2. El día del evento, todos en la escuela o lugar de reunión vestirán de azul, el color que simboliza el agua.
 
 ### Paso 2: Publicidad
-3. Pide a tu grupo que haga pósters creativos para publicitar la actividad. Asegúrate de incluir toda la información necesaria:
+3. Pedí a tu grupo que haga pósters creativos para publicitar la actividad. Asegurate de incluir toda la información necesaria:
    - **Tema:** Día de Azul
    - **Fecha del evento**
    - **Objetivo:** Concienciar sobre el agua
    - **Quién puede participar:** ¡Todos!
 
 ### Paso 3: Preparación del mensaje
-4. Pide a tu grupo que prepare un mensaje sobre la importancia de usar el agua sabiamente y promover el saneamiento para todos.
+4. Pedí a tu grupo que prepare un mensaje sobre la importancia de usar el agua sabiamente y promover el saneamiento para todos.
 5. El mensaje se leerá el día del evento, idealmente por el micrófono o durante el almuerzo, cuando toda la escuela o lugar de reunión esté reunida.
 
 ### Paso 4: Celebración
 6. El día del evento, todos visten de azul y se comparten los mensajes preparados.
 
 ### Paso 5: Reflexión
-7. Discute sobre los resultados de la actividad.
+7. Discutí sobre los resultados de la actividad.
 
 ## Cierre
 - ¿Qué comentarios recibiste sobre la actividad?
-- ¿Cómo crees que esta actividad ayudó a tu escuela o lugar de reunión a reflexionar sobre la necesidad de actuar?
-- ¿Qué significa el agua para ti? ¿Y qué crees que significa para tu escuela o lugar de reunión en su conjunto?
+- ¿Cómo creés que esta actividad ayudó a tu escuela o lugar de reunión a reflexionar sobre la necesidad de actuar?
+- ¿Qué significa el agua para vos? ¿Y qué creés que significa para tu escuela o lugar de reunión en su conjunto?
 - ¿Cómo contribuyen estas actividades a la protección y conservación del agua?
 - ¿Hiciste alguna actividad propia? ¿Cómo resultó?
 

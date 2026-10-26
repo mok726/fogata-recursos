@@ -159,24 +159,24 @@ rama_rovers:
 # ¡Paseo en el bosque!
 
 ## Resumen
-Toma un paseo en el bosque. Registra lo que ves, escuchas, hueles y sientes. NO PRUEBES NADA, PODRÍA SER VENENOSO. Observa desde diferentes puntos de vista. Por ejemplo, mira hacia abajo, mira debajo de un tronco caído, cierra tus ojos y escucha, frota la corteza, siente la textura de la tierra, etc.
+Tomá un paseo en el bosque. Registrá lo que ves, escuchás, olés y sentís. NO PRUEBES NADA, PODRÍA SER VENENOSO. Observá desde diferentes puntos de vista. Por ejemplo, mirá hacia abajo, mirá debajo de un tronco caído, cerrá tus ojos y escuchá, frota la corteza, siente la textura de la tierra, etc.
 
 ## Preparación
-1. Identifica un bosque o área natural.
-2. Prepara cuadernos para registrar.
-3. Organiza la visita.
+1. Identificá un bosque o área natural.
+2. Prepará cuadernos para registrar.
+3. Organizá la visita.
 
 ## Desarrollo
-1. Camina por el bosque lentamente.
-2. Registra lo que ves.
-3. Registra lo que escuchas.
-4. Registra lo que hueles.
-5. Registra lo que sientes.
-6. Observa desde diferentes perspectivas.
+1. Caminá por el bosque lentamente.
+2. Registrá lo que ves.
+3. Registrá lo que escuchás.
+4. Registrá lo que olés.
+5. Registrá lo que sentís.
+6. Observá desde diferentes perspectivas.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona sobre la experiencia sensorial.
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná sobre la experiencia sensorial.
 3. Pregunta final: ¿Qué fue lo que más te llamó la atención del bosque?
 
 ## Texto original completo de la actividad

@@ -3,7 +3,7 @@ title: "Jardinería Verde - Suelos"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardineria-verde-suelos/"
-description: "Prepara un recipiente de compost y observa cómo mejora el suelo."
+description: "Prepará un recipiente de compost y observá cómo mejora el suelo."
 summary: "Compostaje y cuidado del suelo."
 
 author:
@@ -150,18 +150,18 @@ rama_rovers:
 # ¡Jardinería Verde!
 
 ## Resumen
-Prepara un recipiente de compost para mejorar el suelo de tu jardín, escuela o parque local.
+Prepará un recipiente de compost para mejorar el suelo de tu jardín, escuela o parque local.
 
 ## Preparación
-1. Investiga cómo hacer compost.
-2. Consigue un recipiente y materiales orgánicos.
-3. Prepara el área de trabajo.
+1. Investigá cómo hacer compost.
+2. Conseguí un recipiente y materiales orgánicos.
+3. Prepará el área de trabajo.
 
 ## Desarrollo
-1. **Preparación** (20 min): Arma el recipiente de compost.
-2. **Registro** (5 min/día): Lleva un diario de lo que pones.
-3. **Observación** (continuo): Vigila las plantas para ver la diferencia.
-4. **Póster** (20 min): Si no tienes jardín, crea un póster sobre compostaje.
+1. **Preparación** (20 min): Armá el recipiente de compost.
+2. **Registro** (5 min/día): Llevá un diario de lo que ponés.
+3. **Observación** (continuo): Vigilá las plantas para ver la diferencia.
+4. **Póster** (20 min): Si no tenés jardín, crea un póster sobre compostaje.
 
 ## Cierre
 - ¿Qué materiales usaste para el compost?

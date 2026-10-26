@@ -5,7 +5,7 @@ duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/noche-de-cine-plastico/"
 description: "Una actividad audiovisual para sensibilizar a los jóvenes sobre la contaminación plástica, mediante la proyección de cortometrajes educativos que muestran el impacto del plástico en los océanos y ecosistemas."
-summary: "Aprende sobre la contaminación plástica viendo cortometrajes."
+summary: "Aprendé sobre la contaminación plástica viendo cortometrajes."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -194,7 +194,7 @@ Una forma divertida y educativa para que los participantes aprendan más sobre e
 ### Parte II - Discusión (15-20 minutos)
 1. Preguntar a los participantes:
    - ¿Qué fue lo que más te impactó de los videos?
-   - ¿Cómo crees que el plástico afecta a los animales marinos?
+   - ¿Cómo creés que el plástico afecta a los animales marinos?
    - ¿Qué podemos hacer para reducir el uso de plásticos?
 2. Anotar las ideas principales en un pizarrón o papelógrafo.
 
@@ -204,8 +204,8 @@ Una forma divertida y educativa para que los participantes aprendan más sobre e
 
 ## Cierre
 1. ¿Qué aprendiste hoy sobre la contaminación plástica?
-2. ¿Cómo te sientes después de ver estas imágenes?
-3. ¿Qué cambios puedes hacer en tu vida para ayudar a reducir el plástico?
+2. ¿Cómo te sentís después de ver estas imágenes?
+3. ¿Qué cambios podés hacer en tu vida para ayudar a reducir el plástico?
 
 ## Texto original completo de la actividad
 

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Observa los anuncios"
+title: "Observá los anuncios"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/observa-los-anuncios/"
@@ -120,7 +120,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Medios
   - Consumo
@@ -154,30 +154,30 @@ rama_rovers:
   - 16 # Analizo actitudes y estereotipos culturales
 ---
 
-# ¡Observa los anuncios!
+# ¡Observá los anuncios!
 
 ## Resumen
-Cuando estés viendo tu show de TV favorito para niños, presta atención a los comerciales. Elige un comercial determinado que te esté influenciando a comprar un producto aunque sientas que es innecesario.
+Cuando estés viendo tu show de TV favorito para niños, presta atención a los comerciales. Elegí un comercial determinado que te esté influenciando a comprar un producto aunque sientas que es innecesario.
 
 ## Preparación
-1. Prepara una tabla para registrar observaciones.
-2. Elige un programa de TV para observar.
-3. Organiza los grupos de trabajo.
+1. Prepará una tabla para registrar observaciones.
+2. Elegí un programa de TV para observar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Observa los comerciales durante un programa de TV.
-2. Toma en cuenta:
+1. Observá los comerciales durante un programa de TV.
+2. Tomá en cuenta:
    - ¿Cuántas veces salió al aire durante el programa?
-   - ¿Lo puedes entender?
+   - ¿Lo podés entender?
    - ¿Sentiste que el comercial es imparcial, veraz y preciso?
-   - ¿Vas a comprar el producto porque lo dice la publicidad o porque tú crees que es bueno?
+   - ¿Vas a comprar el producto porque lo dice la publicidad o porque vos creés que es bueno?
    - ¿Tus padres están en contra de comprar el producto? ¿Por qué?
-3. Compara tus notas con tus amigos.
+3. Compará tus notas con tus amigos.
 
 ## Cierre
 1. Discutan: ¿Creen que los comerciales deberían ser prohibidos durante los programas para niños?
-2. Reflexiona sobre cómo la publicidad influye en nuestras decisiones.
-3. Pregunta final: ¿Cómo puedes tomar decisiones de compra más conscientes?
+2. Reflexioná sobre cómo la publicidad influye en nuestras decisiones.
+3. Pregunta final: ¿Cómo podés tomar decisiones de compra más conscientes?
 
 ## Texto original completo de la actividad
 E.07 OBSERVA LOS ANUNCIOS. Cuando estés viendo tu show de TV favorito para niños, presta atención a los comerciales. Elige un comercial determinado que te esté influenciando a comprar un producto aunque sientas que es innecesario y podrías estar bien sin comprar. Toma en cuenta lo siguiente: a. Cuántas veces el comercial salió al aire durante el programa. b. ¿Lo puedes entender? c. ¿Sentiste que el comercial es imparcial, veraz y preciso? d. ¿Vas a comprar el producto porque lo dice la publicidad o porque tú crees que es bueno? e. ¿Tus padres están en contra de comprar el producto? ¿Por qué? f. Compara tus notas con tus amigos. En general, ¿creen que los comerciales deberían ser prohibidos durante los programas para niños?

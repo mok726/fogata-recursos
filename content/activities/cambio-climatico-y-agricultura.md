@@ -123,7 +123,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Agricultura
   - Alimentación
@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Cambio climático y agricultura!
 
 ## Resumen
-La agricultura, la pesca y la silvicultura son fundamentales para proporcionarnos alimentos y otros recursos. Discute con tu grupo cómo el cambio climático podría afectar a la producción de alimentos en tu país y tu región.
+La agricultura, la pesca y la silvicultura son fundamentales para proporcionarnos alimentos y otros recursos. Discutí con tu grupo cómo el cambio climático podría afectar a la producción de alimentos en tu país y tu región.
 
 ## Preparación
-1. Investiga sobre la agricultura, pesca y silvicultura en tu país.
-2. Prepara información sobre impactos del cambio climático en estos sectores.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre la agricultura, pesca y silvicultura en tu país.
+2. Prepará información sobre impactos del cambio climático en estos sectores.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cómo afecta el cambio climático a la producción de alimentos?
-2. Investiga: ¿Qué opciones existen para garantizar la seguridad alimentaria?
-3. Reflexiona: ¿Qué desafíos enfrentan los trabajadores rurales?
-4. Prepárate para la discusión grupal.
+1. Investigá: ¿Cómo afecta el cambio climático a la producción de alimentos?
+2. Investigá: ¿Qué opciones existen para garantizar la seguridad alimentaria?
+3. Reflexioná: ¿Qué desafíos enfrentan los trabajadores rurales?
+4. Preparate para la discusión grupal.
 
 ## Cierre
-1. Participa en la discusión grupal.
-2. Comparte tus hallazgos y reflexiones.
+1. Participá en la discusión grupal.
+2. Compartí tus hallazgos y reflexiones.
 3. Pregunta final: ¿Qué podemos hacer para garantizar la seguridad alimentaria en un clima cambiante?
 
 ## Texto original completo de la actividad

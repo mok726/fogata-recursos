@@ -1,9 +1,9 @@
 ---
-title: "Sigue el Flujo"
+title: "Seguí el Flujo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sigue-el-flujo/"
-description: "Crea diagramas de flujo mostrando el impacto del agua en la vida de las personas."
+description: "Creá diagramas de flujo mostrando el impacto del agua en la vida de las personas."
 summary: "Diagramas de flujo sobre el impacto del agua."
 
 author:
@@ -146,20 +146,20 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Sigue el Flujo!
+# ¡Seguí el Flujo!
 
 ## Resumen
-Crea un diagrama de flujo mostrando cómo el agua limpia y el saneamiento impactan la vida de las personas, y la alternativa cuando no están disponibles.
+Creá un diagrama de flujo mostrando cómo el agua limpia y el saneamiento impactan la vida de las personas, y la alternativa cuando no están disponibles.
 
 ## Preparación
-- Piensa en cómo el agua afecta diferentes aspectos de la vida.
-- Prepara papel y lápices.
+- Pensá en cómo el agua afecta diferentes aspectos de la vida.
+- Prepará papel y lápices.
 
 ## Desarrollo
-1. **Diagrama positivo** (20 min): Dibuja cómo el agua limpia y el saneamiento mejoran la vida.
-2. **Diagrama negativo** (15 min): Dibuja el impacto de la falta de agua y saneamiento.
-3. **Comparación** (5 min): Discute las diferencias entre ambos diagramas.
-4. **Presentación** (5 min): Comparte tus diagramas con el grupo.
+1. **Diagrama positivo** (20 min): Dibujá cómo el agua limpia y el saneamiento mejoran la vida.
+2. **Diagrama negativo** (15 min): Dibujá el impacto de la falta de agua y saneamiento.
+3. **Comparación** (5 min): Discutí las diferencias entre ambos diagramas.
+4. **Presentación** (5 min): Compartí tus diagramas con el grupo.
 
 ## Cierre
 - ¿Qué aspectos de la vida dependen del agua y el saneamiento?

@@ -3,7 +3,7 @@ title: "Jardín comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-comunitario/"
-description: "Empieza un jardín comunitario en tu escuela o terraza."
+description: "Empezá un jardín comunitario en tu escuela o terraza."
 summary: "Jardín comunitario."
 
 author:
@@ -147,18 +147,18 @@ rama_rovers:
 # ¡Jardín comunitario!
 
 ## Resumen
-Empieza un jardín comunitario en tu escuela, terraza o únete a uno existente.
+Empezá un jardín comunitario en tu escuela, terraza o únete a uno existente.
 
 ## Preparación
-1. Encuentra un espacio para el jardín.
-2. Prepara la tierra y herramientas.
-3. Consigue semillas o plantas.
+1. Encontrá un espacio para el jardín.
+2. Prepará la tierra y herramientas.
+3. Conseguí semillas o plantas.
 
 ## Desarrollo
-1. **Preparación** (20 min): Prepara el terreno.
-2. **Siembra** (20 min): Planta las semillas.
-3. **Cuidado** (continua): Riega y cuida el jardín.
-4. **Monitoreo** (continua): Toma fotos y dibuja el progreso.
+1. **Preparación** (20 min): Prepará el terreno.
+2. **Siembra** (20 min): Plantá las semillas.
+3. **Cuidado** (continua): Regá y cuidá el jardín.
+4. **Monitoreo** (continua): Tomá fotos y dibujá el progreso.
 
 ## Cierre
 - ¿Qué plantaste?

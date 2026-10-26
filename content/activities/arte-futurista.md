@@ -159,21 +159,21 @@ rama_rovers:
 # ¡Arte futurista!
 
 ## Resumen
-¿Cómo te imaginas que se verá tu ciudad o pueblo dentro de 100 años? ¿Cómo crees que pueda ser afectado por el cambio climático? ¿Qué soluciones se idearán las personas para lidiar con los efectos del cambio climático?
+¿Cómo te imaginás que se verá tu ciudad o pueblo dentro de 100 años? ¿Cómo creés que pueda ser afectado por el cambio climático? ¿Qué soluciones se idearán las personas para lidiar con los efectos del cambio climático?
 
 ## Preparación
-1. Reúne los materiales de dibujo.
-2. Busca ejemplos de arte futurista o ciudades imaginadas.
-3. Prepara preguntas para estimular la imaginación.
+1. Reuní los materiales de dibujo.
+2. Buscá ejemplos de arte futurista o ciudades imaginadas.
+3. Prepará preguntas para estimular la imaginación.
 
 ## Desarrollo
-1. Piensa en cómo será tu ciudad o pueblo dentro de 100 años.
-2. Imagina cómo el cambio climático podría afectarlo.
-3. Piensa en soluciones creativas que las personas podrían idear.
-4. Deja volar tu imaginación y haz un dibujo sobre cómo crees que serán las cosas.
+1. Pensá en cómo será tu ciudad o pueblo dentro de 100 años.
+2. Imaginá cómo el cambio climático podría afectarlo.
+3. Pensá en soluciones creativas que las personas podrían idear.
+4. Dejá volar tu imaginación y hacé un dibujo sobre cómo creés que serán las cosas.
 
 ## Cierre
-1. Comparte tu dibujo con el grupo y explica tu visión.
+1. Compartí tu dibujo con el grupo y explicá tu visión.
 2. Discutan las diferentes ideas y soluciones imaginadas.
 3. Pregunta final: ¿Qué soluciones de las que dibujaste te gustaría ver en la vida real?
 

@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desarmando-canciones-y-danzas/"
 description: "Los participantes identifican mensajes machistas o discriminatorios en canciones y danzas scouts, y las transforman en versiones con mensajes positivos e inclusivos."
-summary: "Transforma canciones con mensajes positivos."
+summary: "Transformá canciones con mensajes positivos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,7 +164,7 @@ rama_rovers:
 En grupos de entre 3 a 6 personas piensen en canciones y danzas scouts, que usualmente hagan en fogones, caminatas y tardes en el grupo, las cuales tengan algún mensaje machista, de violencia de género u otra forma de discriminación. Escríbanlas y piensen qué partes deberían cambiar para que pasen a tener mensajes positivos. Luego hagan las canciones y danzas cambiadas en voz alta y compártanlas con scouts de su grupo y rama.
 
 ## Preparación
-1. Prepara los materiales de escritura.
+1. Prepará los materiales de escritura.
 2. Si es posible, prepara instrumentos musicales o una pista de música.
 
 ## Desarrollo

@@ -160,19 +160,19 @@ rama_rovers:
 Los animales se mueven de muchas formas diferentes. Participen en una clase de yoga animal, donde todos los ejercicios imiten los movimientos de diferentes animales del mundo. Tomen turnos para liderar los movimientos. Los participantes de mayor edad pueden diseñar y dirigir la clase para los niños más pequeños.
 
 ## Preparación
-1. Investiga movimientos de animales.
-2. Prepara el espacio para la clase.
-3. Organiza los grupos de trabajo.
+1. Investigá movimientos de animales.
+2. Prepará el espacio para la clase.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Participa en la clase de yoga animal.
-2. Imita los movimientos de diferentes animales.
-3. Toma turnos para liderar los movimientos.
+1. Participá en la clase de yoga animal.
+2. Imitá los movimientos de diferentes animales.
+3. Tomá turnos para liderar los movimientos.
 4. Los mayores pueden diseñar y dirigir la clase.
 
 ## Cierre
-1. Reflexiona: ¿Qué animal fue más fácil de imitar?
-2. Comparte tu experiencia con el grupo.
+1. Reflexioná: ¿Qué animal fue más fácil de imitar?
+2. Compartí tu experiencia con el grupo.
 3. Pregunta final: ¿Qué aprendiste sobre el movimiento animal?
 
 ## Texto original completo de la actividad

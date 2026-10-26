@@ -164,24 +164,24 @@ rama_rovers:
 # ¡Exploración de arroyo o estanque!
 
 ## Resumen
-Explora un arroyo o un estanque. Examina la vida que existe dentro de estos. Toma una muestra de agua y examínala debajo de una lupa o de un microscopio. Registra lo que ves. Regresa el agua y las criaturas a la corriente o al estanque.
+Explorá un arroyo o un estanque. Examiná la vida que existe dentro de estos. Tomá una muestra de agua y examinala debajo de una lupa o de un microscopio. Registrá lo que ves. Regresá el agua y las criaturas a la corriente o al estanque.
 
 ## Preparación
-1. Identifica un arroyo o estanque seguro.
-2. Reúne materiales para la exploración.
-3. Asegura supervisión adulta.
+1. Identificá un arroyo o estanque seguro.
+2. Reuní materiales para la exploración.
+3. Asegurá supervisión adulta.
 
 ## Desarrollo
-1. Explora el arroyo o estanque.
-2. Examina la vida acuática.
-3. Toma una muestra de agua.
-4. Examina la muestra bajo una lupa o microscopio.
-5. Registra lo que ves.
-6. Regresa el agua y las criaturas a su hábitat.
+1. Explorá el arroyo o estanque.
+2. Examiná la vida acuática.
+3. Tomá una muestra de agua.
+4. Examiná la muestra bajo una lupa o microscopio.
+5. Registrá lo que ves.
+6. Regresá el agua y las criaturas a su hábitat.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Qué tan contaminado está tu arroyo o estanque?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Qué tan contaminado está tu arroyo o estanque?
 3. Pregunta final: ¿Qué especies indican agua limpia?
 
 ## Texto original completo de la actividad

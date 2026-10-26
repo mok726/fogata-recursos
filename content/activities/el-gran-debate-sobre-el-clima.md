@@ -116,7 +116,7 @@ competencies:
   - Argumentación
   - Comunicación
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Investigación
 category:
@@ -159,18 +159,18 @@ rama_rovers:
 Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.
 
 ## Preparación
-1. Investiga los argumentos de los escépticos del clima.
-2. Prepara información científica que responda a esos argumentos.
-3. Organiza el debate en equipos.
+1. Investigá los argumentos de los escépticos del clima.
+2. Prepará información científica que responda a esos argumentos.
+3. Organizá el debate en equipos.
 
 ## Desarrollo
-1. Investiga: ¿Cuáles son los argumentos de los escépticos del clima?
-2. Investiga: ¿Cuál es la evidencia científica que responde a esos argumentos?
-3. Prepara tus argumentos y contraargumentos.
-4. Participa en un debate formal sobre el tema.
+1. Investigá: ¿Cuáles son los argumentos de los escépticos del clima?
+2. Investigá: ¿Cuál es la evidencia científica que responde a esos argumentos?
+3. Prepará tus argumentos y contraargumentos.
+4. Participá en un debate formal sobre el tema.
 
 ## Cierre
-1. Reflexiona sobre la experiencia del debate.
+1. Reflexioná sobre la experiencia del debate.
 2. Discutan: ¿Cómo se puede dialogar respetuosamente con personas que tienen opiniones diferentes?
 3. Pregunta final: ¿Por qué es importante entender los argumentos de quienes cuestionan el cambio climático?
 

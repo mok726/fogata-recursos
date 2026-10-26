@@ -160,17 +160,17 @@ translation_notice:
 # ¡Danza de vientos y olas!
 
 ## Resumen
-Aprende cómo el Sol calienta la Tierra de forma desigual, creando vientos y olas. ¡Inspírate y coreografía una danza sobre esto! Puedes incluso hacer una danza sobre cómo el carbono viaja a través de la naturaleza.
+Aprendé cómo el Sol calienta la Tierra de forma desigual, creando vientos y olas. ¡Inspírate y coreografía una danza sobre esto! Podés incluso hacer una danza sobre cómo el carbono viaja a través de la naturaleza.
 
 ## Preparación
-1. Lee la información sobre vientos, olas y el ciclo del carbono en la sección de información de fondo.
-2. Busca un espacio amplio para bailar.
-3. Piensa en movimientos que representen vientos, olas y carbono.
+1. Leé la información sobre vientos, olas y el ciclo del carbono en la sección de información de fondo.
+2. Buscá un espacio amplio para bailar.
+3. Pensá en movimientos que representen vientos, olas y carbono.
 
 ## Desarrollo
 
 ### Parte I - Aprender
-Aprende cómo el Sol crea vientos y olas:
+Aprendé cómo el Sol crea vientos y olas:
 
 - El Sol calienta la superficie de la Tierra
 - Diferentes superficies (tierra, agua) se calientan de forma desigual
@@ -178,14 +178,14 @@ Aprende cómo el Sol crea vientos y olas:
 - Los vientos empujan el agua → ¡esto crea olas!
 
 ### Parte II - Coreografía
-Crea una danza en grupo que represente:
+Creá una danza en grupo que represente:
 
 1. **Vientos**: Movimientos fluidos y giratorios
 2. **Olas**: Movimientos ondulantes y rítmicos
 3. **Carbono**: Viajando a través del aire, plantas y animales
 
 ### Parte III - Presentación
-Presenta tu danza frente a tu familia o amigos.
+Presentá tu danza frente a tu familia o amigos.
 
 ## Cierre
 1. ¿Qué movimiento representaba mejor el viento?

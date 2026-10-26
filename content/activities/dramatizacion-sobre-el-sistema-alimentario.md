@@ -4,7 +4,7 @@ title: "Dramatización sobre el Sistema Alimentario"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/dramatizacion-sobre-el-sistema-alimentario/"
-description: "Asigna roles de personas en el sistema alimentario y dramatiza situaciones donde se ven afectadas por diferentes desafíos."
+description: "Asigná roles de personas en el sistema alimentario y dramatiza situaciones donde se ven afectadas por diferentes desafíos."
 summary: "Dramatización sobre el sistema alimentario."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -119,7 +119,7 @@ competencies:
 
 activity_type:
   - Simulación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Aprender haciendo
 
 category:
@@ -165,17 +165,17 @@ rama_rovers:
 # Dramatización sobre el Sistema Alimentario
 
 ## Resumen
-Asigna roles de personas en el sistema alimentario y dramatiza situaciones donde se ven afectadas por diferentes desafíos.
+Asigná roles de personas en el sistema alimentario y dramatiza situaciones donde se ven afectadas por diferentes desafíos.
 
 ## Preparación
-1. Piensa en todas las personas que participan en el sistema alimentario.
-2. Asigna un rol a cada persona del grupo.
-3. Prepara algunas situaciones diferentes para dramatizar.
+1. Pensá en todas las personas que participan en el sistema alimentario.
+2. Asigná un rol a cada persona del grupo.
+3. Prepará algunas situaciones diferentes para dramatizar.
 
 ## Desarrollo
-1. **Asignación** (10 min): Asigna roles (agricultor, conductor, trabajador de planta, etc.).
+1. **Asignación** (10 min): Asigná roles (agricultor, conductor, trabajador de planta, etc.).
 2. **Preparación** (10 min): Cada persona conoce su rol y requerimientos.
-3. **Dramatización** (20 min): Representa situaciones como inundaciones o terremotos.
+3. **Dramatización** (20 min): Representá situaciones como inundaciones o terremotos.
 4. **Reflexión** (15 min): Cada persona expresa cómo se sintió.
 
 ## Cierre

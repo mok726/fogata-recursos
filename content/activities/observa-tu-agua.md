@@ -1,9 +1,9 @@
 ---
-title: "Observa tu Agua"
+title: "Observá tu Agua"
 duration: "Proyecto de 1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observa-tu-agua/"
-description: "Monitorea y reduce el uso de agua en tu hogar durante una semana."
+description: "Monitoreá y reducí el uso de agua en tu hogar durante una semana."
 summary: "Monitoreo de consumo de agua en el hogar."
 
 author:
@@ -157,26 +157,26 @@ rama_rovers:
   - 19  # Tomo decisiones económicas que acompañen mi proyecto de vida.
 ---
 
-# ¡Observa tu Agua!
+# ¡Observá tu Agua!
 
 ## Resumen
-Monitorea el uso del agua en tu hogar durante una semana, identifica formas de ahorrar y haz un compromiso para reducir el consumo.
+Monitoreá el uso del agua en tu hogar durante una semana, identificá formas de ahorrar y hacé un compromiso para reducir el consumo.
 
 ## Preparación
-1. Consigue un cuaderno para el diario.
-2. Prepara una lista de posibles formas de ahorrar agua.
-3. Revisa los recursos sobre ahorro de agua.
+1. Conseguí un cuaderno para el diario.
+2. Prepará una lista de posibles formas de ahorrar agua.
+3. Revisá los recursos sobre ahorro de agua.
 
 ## Desarrollo
 **Semana 1 - Observación**
-1. **Registro diario** (5 min/día): Escribe todas las formas de uso del agua.
-2. **Inspección** (15 min): Busca canillas que gotean.
-3. **Análisis** (10 min): Identifica áreas de mejora.
+1. **Registro diario** (5 min/día): Escribí todas las formas de uso del agua.
+2. **Inspección** (15 min): Buscá canillas que gotean.
+3. **Análisis** (10 min): Identificá áreas de mejora.
 
 **Semana 2 - Acción**
-4. **Implementación** (semana): Aplica cambios para ahorrar agua.
-5. **Comparación** (15 min): Compara tus notas con las de tus amigos.
-6. **Compromiso** (10 min): Haz un compromiso a largo plazo.
+4. **Implementación** (semana): Aplicá cambios para ahorrar agua.
+5. **Comparación** (15 min): Compará tus notas con las de tus amigos.
+6. **Compromiso** (10 min): Hacé un compromiso a largo plazo.
 
 ## Cierre
 - ¿Cuánta agua lograste ahorrar?

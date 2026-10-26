@@ -124,7 +124,7 @@ competencies:
   - Conciencia social
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
 category:
   - Salud

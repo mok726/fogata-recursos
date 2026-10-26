@@ -4,7 +4,7 @@ title: "Profundicen en las Diferencias"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/profundicen-en-las-diferencias/"
-description: "Investiga los problemas de salud causados por deficiencias de vitaminas y minerales en diferentes regiones."
+description: "Investigá los problemas de salud causados por deficiencias de vitaminas y minerales en diferentes regiones."
 summary: "Investigación sobre deficiencias nutricionales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,15 +164,15 @@ rama_rovers:
 # Profundicen en las Diferencias
 
 ## Resumen
-Investiga los problemas de salud causados por deficiencias de vitaminas y minerales en diferentes regiones.
+Investigá los problemas de salud causados por deficiencias de vitaminas y minerales en diferentes regiones.
 
 ## Preparación
 1. Divídanse en grupos y elijan un tipo de deficiencia alimenticia.
-2. Prepara material de investigación.
-3. Prepara material para la presentación.
+2. Prepará material de investigación.
+3. Prepará material para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga una deficiencia de vitaminas o minerales.
+1. **Investigación** (20 min): Investigá una deficiencia de vitaminas o minerales.
 2. **Análisis** (15 min): ¿Por qué causa estos problemas? ¿Dónde es más común?
 3. **Soluciones** (15 min): ¿Se puede curar y cómo?
 4. **Presentación** (15 min): Expón tu investigación al grupo.

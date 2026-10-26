@@ -133,7 +133,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Política Ambiental
   - Economía
@@ -171,23 +171,23 @@ rama_rovers:
 # ¡Comercio de emisiones y REDD!
 
 ## Resumen
-El comercio de emisiones (o sistema de canje, como se denomina algunas veces) es un instrumento para reducir las emisiones de gases de efecto invernadero. Esto también afecta a la biodiversidad. Aprende sobre el canje de emisiones y programas relacionados, como la iniciativa 'Reducción de Emisiones de la Deforestación y Degradación en Países en Desarrollo' (REDD).
+El comercio de emisiones (o sistema de canje, como se denomina algunas veces) es un instrumento para reducir las emisiones de gases de efecto invernadero. Esto también afecta a la biodiversidad. Aprendé sobre el canje de emisiones y programas relacionados, como la iniciativa 'Reducción de Emisiones de la Deforestación y Degradación en Países en Desarrollo' (REDD).
 
 ## Preparación
-1. Investiga sobre comercio de emisiones y REDD.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre comercio de emisiones y REDD.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Qué es el comercio de emisiones?
-2. Investiga: ¿Qué es REDD?
-3. Investiga: ¿Qué programas se han implementado en tu comunidad?
-4. Reflexiona: ¿Quién se ha visto afectado por estos?
-5. Reflexiona: ¿De qué forma afecta el canje de emisiones a los pobres del mundo?
+1. Investigá: ¿Qué es el comercio de emisiones?
+2. Investigá: ¿Qué es REDD?
+3. Investigá: ¿Qué programas se han implementado en tu comunidad?
+4. Reflexioná: ¿Quién se ha visto afectado por estos?
+5. Reflexioná: ¿De qué forma afecta el canje de emisiones a los pobres del mundo?
 
 ## Cierre
-1. Presenta tus hallazgos a tu grupo.
-2. Discute los impactos de estos programas.
+1. Presentá tus hallazgos a tu grupo.
+2. Discutí los impactos de estos programas.
 3. Pregunta final: ¿Cómo pueden estos programas proteger la biodiversidad?
 
 ## Texto original completo de la actividad

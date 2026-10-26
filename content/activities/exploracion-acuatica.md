@@ -3,7 +3,7 @@ title: "Exploración Acuática"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-acuatica/"
-description: "Investiga tu cuenca hidrográfica local y crea una exhibición informativa."
+description: "Investigá tu cuenca hidrográfica local y creá una exhibición informativa."
 summary: "Investigación de la cuenca hidrográfica local."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Exploración Acuática!
 
 ## Resumen
-Investiga tu cuenca hidrográfica local y crea una exhibición que muestre las interacciones entre plantas, animales y agua.
+Investigá tu cuenca hidrográfica local y creá una exhibición que muestre las interacciones entre plantas, animales y agua.
 
 ## Preparación
-1. Investiga tu cuenca hidrográfica local.
-2. Prepara cámara y materiales.
-3. Planifica la visita al área.
+1. Investigá tu cuenca hidrográfica local.
+2. Prepará cámara y materiales.
+3. Planificá la visita al área.
 
 ## Desarrollo
-1. **Investigación** (30 min): Reúne información sobre la cuenca.
-2. **Visita** (30 min): Toma fotos y observa el área.
-3. **Exhibición** (25 min): Crea una exhibición con ilustraciones.
-4. **Presentación** (5 min): Invita a familia y amigos a verla.
+1. **Investigación** (30 min): Reuní información sobre la cuenca.
+2. **Visita** (30 min): Tomá fotos y observá el área.
+3. **Exhibición** (25 min): Creá una exhibición con ilustraciones.
+4. **Presentación** (5 min): Invitá a familia y amigos a verla.
 
 ## Cierre
 - ¿Qué aprendiste sobre tu cuenca hidrográfica?

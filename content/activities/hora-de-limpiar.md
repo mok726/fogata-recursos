@@ -3,7 +3,7 @@ title: "Hora de Limpiar"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hora-de-limpiar/"
-description: "Limpia un río, estanque, lago o playa en tu área y convierte la basura en arte."
+description: "Limpiá un río, estanque, lago o playa en tu área y convertí la basura en arte."
 summary: "Limpieza de fuentes de agua y arte con basura."
 
 author:
@@ -155,24 +155,24 @@ rama_rovers:
 # ¡Hora de Limpiar!
 
 ## Resumen
-Limpia un río, estanque, lago o playa en tu área y convierte la basura recolectada en arte para concienciar.
+Limpiá un río, estanque, lago o playa en tu área y convertí la basura recolectada en arte para concienciar.
 
 ## Preparación
-1. Identifica un lugar acuático contaminado.
-2. Reúne materiales: guantes, redes, bolsas.
-3. Asegura supervisión adulta: un adulto explica cómo trabajar seguro (guantes, no tocar vidrios, jeringas ni objetos cortantes, no meterse al agua) y sin molestar a la fauna local.
+1. Identificá un lugar acuático contaminado.
+2. Reuní materiales: guantes, redes, bolsas.
+3. Asegurá supervisión adulta: un adulto explica cómo trabajar seguro (guantes, no tocar vidrios, jeringas ni objetos cortantes, no meterse al agua) y sin molestar a la fauna local.
 
 ## Desarrollo
-1. **Limpieza** (40 min): Recolecta basura del agua y sus orillas.
-2. **Fotos** (10 min): Toma fotos antes y después.
-3. **Arte** (30 min): Crea una escultura o collage con la basura.
+1. **Limpieza** (40 min): Recolectá basura del agua y sus orillas.
+2. **Fotos** (10 min): Tomá fotos antes y después.
+3. **Arte** (30 min): Creá una escultura o collage con la basura.
 4. **Exhibición** (10 min): Expón el arte con las fotos para concienciar.
-5. **Medios** (10 min): Contacta a medios locales.
+5. **Medios** (10 min): Contactá a medios locales.
 
 ## Cierre
 - ¿Qué encontraste en la limpieza?
 - ¿Cómo te sentiste al ver el antes y después?
-- ¿Qué mensaje quieres transmitir con tu arte?
+- ¿Qué mensaje querés transmitir con tu arte?
 
 ---
 ## Texto original completo de la actividad

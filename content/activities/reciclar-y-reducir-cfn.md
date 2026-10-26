@@ -5,7 +5,7 @@ duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclar-y-reducir-cfn/"
 description: "Los participantes aprenden la diferencia entre reciclar y reducir residuos, y cómo hacer su consumo más responsable y respetuoso con el medio ambiente."
-summary: "Aprende a reciclar y reducir residuos."
+summary: "Aprendé a reciclar y reducir residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -159,9 +159,9 @@ rama_rovers: []
 Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable y respetuoso con el medio ambiente.
 
 ## Preparación
-1. Prepara una superficie o 4 cajas en las que se indican cuatro categorías: aluminio, compost, papel o plástico.
-2. Prepara bolsas con juegos de cartas para cada grupo.
-3. Divide a los participantes en cuatro grupos.
+1. Prepará una superficie o 4 cajas en las que se indican cuatro categorías: aluminio, compost, papel o plástico.
+2. Prepará bolsas con juegos de cartas para cada grupo.
+3. Dividí a los participantes en cuatro grupos.
 
 ## Desarrollo
 
@@ -181,18 +181,18 @@ El facilitador explica la diferencia entre reciclar y reducir:
 Pregunta: ¿Cómo podemos reducir nuestro consumo?
 
 **Ideas:**
-- Trae tu propia bolsa de compras
-- Deja de comprar agua embotellada, en cambio, carga tu propia botella
-- Trae tu propio termo a la cafetería
-- Elige cartón sobre bolsas de plástico
-- Di no a las pajitas
+- Traé tu propia bolsa de compras
+- Dejá de comprar agua embotellada, en cambio, carga tu propia botella
+- Traé tu propio termo a la cafetería
+- Elegí cartón sobre bolsas de plástico
+- Decí no a las pajitas
 - No compres afeitadoras descartables desechables
-- Repiensa tu almacenamiento de alimentos
+- Repensá tu almacenamiento de alimentos
 
 ## Cierre
 1. ¿Cuál es la diferencia entre reciclar y reducir?
 2. ¿Qué idea para reducir el consumo te parece más fácil de implementar?
-3. ¿Cómo puedes motivar a otros a reducir su consumo?
+3. ¿Cómo podés motivar a otros a reducir su consumo?
 
 ## Texto original completo de la actividad
 

@@ -3,7 +3,7 @@ title: "Riesgo Calculado"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/riesgo-calculado/"
-description: "Investiga la fórmula para calcular el riesgo de desastre y aplícala a casos de estudio."
+description: "Investigá la fórmula para calcular el riesgo de desastre y aplicala a casos de estudio."
 summary: "Fórmula de cálculo de riesgo de desastres."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Riesgo Calculado!
 
 ## Resumen
-Investiga la fórmula para calcular el riesgo de desastre: **riesgo = amenaza x exposición x vulnerabilidad**, y aplícala a casos de estudio reales.
+Investigá la fórmula para calcular el riesgo de desastre: **riesgo = amenaza x exposición x vulnerabilidad**, y aplicala a casos de estudio reales.
 
 ## Preparación
-1. Revisa la fórmula y entiende cada componente.
-2. Busca casos de estudio de desastres.
-3. Prepara materiales para la presentación.
+1. Revisá la fórmula y entiende cada componente.
+2. Buscá casos de estudio de desastres.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre la fórmula del riesgo.
-2. **Análisis** (20 min): Aplica la fórmula a casos de estudio.
-3. **Creación** (15 min): Prepara una presentación sobre tu investigación.
-4. **Presentación** (5 min): Comparte tus hallazgos.
+1. **Investigación** (20 min): Aprendé sobre la fórmula del riesgo.
+2. **Análisis** (20 min): Aplicá la fórmula a casos de estudio.
+3. **Creación** (15 min): Prepará una presentación sobre tu investigación.
+4. **Presentación** (5 min): Compartí tus hallazgos.
 
 ## Cierre
 - ¿Qué significa cada componente de la fórmula?

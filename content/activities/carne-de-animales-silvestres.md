@@ -4,7 +4,7 @@ title: "Carne de Animales Silvestres"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/carne-de-animales-silvestres/"
-description: "Encuentra tres países donde las personas coman carne de animales silvestres. Investiga el impacto de la caza en los bosques y comparte tus hallazgos."
+description: "Encontrá tres países donde las personas coman carne de animales silvestres. Investigá el impacto de la caza en los bosques y compartí tus hallazgos."
 summary: "Investigación sobre la caza de carne de animales silvestres."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -117,7 +117,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
 
 category:
@@ -161,18 +161,18 @@ rama_rovers:
 # Carne de Animales Silvestres
 
 ## Resumen
-Encuentra tres países donde las personas coman carne de animales silvestres. Investiga el impacto de la caza en los bosques y comparte tus hallazgos.
+Encontrá tres países donde las personas coman carne de animales silvestres. Investigá el impacto de la caza en los bosques y compartí tus hallazgos.
 
 ## Preparación
-1. Investiga sobre el consumo de carne de animales silvestres en diferentes países.
-2. Prepara un cuaderno para tomar notas.
+1. Investigá sobre el consumo de carne de animales silvestres en diferentes países.
+2. Prepará un cuaderno para tomar notas.
 
 ## Desarrollo
-1. **Investigación** (30 min): Encuentra tres países donde las personas coman carne de animales silvestres.
-2. **Análisis** (15 min): Investiga qué especies de animales comen y cómo se las caza.
-3. **Reflexión** (15 min): Analiza el impacto de la caza en los bosques.
-4. **Propuesta** (15 min): Piensa en soluciones para la 'crisis de la carne de animales silvestres'.
-5. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
+1. **Investigación** (30 min): Encontrá tres países donde las personas coman carne de animales silvestres.
+2. **Análisis** (15 min): Investigá qué especies de animales comen y cómo se las caza.
+3. **Reflexión** (15 min): Analizá el impacto de la caza en los bosques.
+4. **Propuesta** (15 min): Pensá en soluciones para la 'crisis de la carne de animales silvestres'.
+5. **Presentación** (15 min): Compartí tus hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el consumo de carne de animales silvestres?

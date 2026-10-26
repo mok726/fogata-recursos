@@ -1,9 +1,9 @@
 ---
-title: "Conéctate con tu Comunidad"
+title: "Conectate con tu Comunidad"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/conectate-con-tu-comunidad/"
-description: "Crea un blog, red social o boletín informativo sobre RRD para tu comunidad."
+description: "Creá un blog, red social o boletín informativo sobre RRD para tu comunidad."
 summary: "Medios comunitarios sobre RRD."
 
 author:
@@ -147,26 +147,26 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# ¡Conéctate con tu Comunidad!
+# ¡Conectate con tu Comunidad!
 
 ## Resumen
-Crea un blog comunitario, una red social grupal o un boletín informativo sobre RRD para tu comunidad.
+Creá un blog comunitario, una red social grupal o un boletín informativo sobre RRD para tu comunidad.
 
 ## Preparación
-1. Elige el formato (blog, red social, boletín).
-2. Define el contenido que compartirás.
-3. Invita a amigos, familia y compañeros a unirse.
+1. Elegí el formato (blog, red social, boletín).
+2. Definí el contenido que compartirás.
+3. Invitá a amigos, familia y compañeros a unirse.
 
 ## Desarrollo
-1. **Planificación** (20 min): Define la estructura y el contenido.
-2. **Creación** (30 min): Crea el blog/boletín y publica contenido.
-3. **Promoción** (15 min): Invita a la comunidad a unirse.
-4. **Mantenimiento** (15 min/semana): Actualiza regularmente.
+1. **Planificación** (20 min): Definí la estructura y el contenido.
+2. **Creación** (30 min): Creá el blog/boletín y publicá contenido.
+3. **Promoción** (15 min): Invitá a la comunidad a unirse.
+4. **Mantenimiento** (15 min/semana): Actualizá regularmente.
 
 ## Cierre
 - ¿Qué formato elegiste y por qué?
 - ¿Qué contenido fue más útil para la comunidad?
-- ¿Cómo puedes mantener el proyecto a largo plazo?
+- ¿Cómo podés mantener el proyecto a largo plazo?
 
 ---
 ## Texto original completo de la actividad

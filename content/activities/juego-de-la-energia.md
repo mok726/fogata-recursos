@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-la-energia/"
 description: "Juego de movimiento donde los participantes imitan diferentes fuentes de energía mediante acciones divertidas."
-summary: "Aprende sobre energía jugando."
+summary: "Aprendé sobre energía jugando."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,12 +160,12 @@ translation_notice:
 # ¡Juego de la energía!
 
 ## Resumen
-Este juego es una variante del "Juego de los porotos" usando diferentes movimientos para diferentes fuentes de energía. ¡Aprende sobre energía mientras te mueves y te diviertes!
+Este juego es una variante del "Juego de los porotos" usando diferentes movimientos para diferentes fuentes de energía. ¡Aprendé sobre energía mientras te movés y te divertís!
 
 ## Preparación
-1. Encuentra un espacio grande (interior o exterior).
-2. Designa a una persona como "animador".
-3. Aprende los movimientos de cada fuente de energía.
+1. Encontrá un espacio grande (interior o exterior).
+2. Designá a una persona como "animador".
+3. Aprendé los movimientos de cada fuente de energía.
 
 ## Desarrollo
 

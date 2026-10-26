@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita a un apiario"
+title: "Visitá a un apiario"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-un-apiario/"
-description: "Visita a una operación apícola local para aprender sobre el trabajo de los apicultores y el comportamiento de las abejas."
+description: "Visitá a una operación apícola local para aprender sobre el trabajo de los apicultores y el comportamiento de las abejas."
 summary: "Visitar un apiario local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -161,7 +161,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Visita a un apiario!
+# ¡Visitá a un apiario!
 
 ## Resumen
 Visitá una operación apícola local para aprender más sobre su trabajo. ¿Qué tipo de abejas crían? ¿Qué implica? ¿Cuáles son las partes más difíciles de la apicultura? ¿Cuál es la mejor parte? ¿Cuáles son los beneficios de la apicultura? ¿Cuáles son cinco cosas nuevas que aprendiste sobre el comportamiento de las abejas?

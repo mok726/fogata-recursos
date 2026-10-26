@@ -4,7 +4,7 @@ title: "Plántulas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/plantulas/"
-description: "Planta plántulas de árboles forestales con tu grupo. Discute sobre el proceso de plantación y el cuidado necesario."
+description: "Plantá plántulas de árboles forestales con tu grupo. Discutí sobre el proceso de plantación y el cuidado necesario."
 summary: "Plantación y cuidado de plántulas forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -168,18 +168,18 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Plántulas
 
 ## Resumen
-Planta plántulas de árboles forestales con tu grupo. Discute sobre el proceso de plantación y el cuidado necesario.
+Plantá plántulas de árboles forestales con tu grupo. Discutí sobre el proceso de plantación y el cuidado necesario.
 
 ## Preparación
-1. Consigue plántulas de árboles forestales.
-2. Prepara herramientas de jardinería (pala, guantes, etc.).
-3. Encuentra un lugar adecuado para plantar.
+1. Conseguí plántulas de árboles forestales.
+2. Prepará herramientas de jardinería (pala, guantes, etc.).
+3. Encontrá un lugar adecuado para plantar.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara el hoyo y el suelo.
-2. **Plantación** (15 min): Planta las plántulas con cuidado.
-3. **Discusión** (15 min): Discute cómo las plantaron y los cuidados necesarios.
-4. **Planificación** (10 min): Planifica cómo continuarán cuidando las plántulas.
+1. **Preparación** (15 min): Prepará el hoyo y el suelo.
+2. **Plantación** (15 min): Plantá las plántulas con cuidado.
+3. **Discusión** (15 min): Discutí cómo las plantaron y los cuidados necesarios.
+4. **Planificación** (10 min): Planificá cómo continuarán cuidando las plántulas.
 
 ## Cierre
 - ¿Qué aprendiste sobre la plantación de árboles?

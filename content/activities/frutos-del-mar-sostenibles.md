@@ -3,7 +3,7 @@ title: "Frutos del Mar Sostenibles"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/frutos-del-mar-sostenibles/"
-description: "Aprende sobre productos del mar sostenibles y anima a tu familia a comprarlos."
+description: "Aprendé sobre productos del mar sostenibles y animá a tu familia a comprarlos."
 summary: "Consumo responsable de productos del mar."
 
 author:
@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Frutos del Mar Sostenibles!
 
 ## Resumen
-Investiga qué productos del mar son más sostenibles y anima a tu familia y amigos a elegirlos.
+Investigá qué productos del mar son más sostenibles y animá a tu familia y amigos a elegirlos.
 
 ## Preparación
-1. Investiga sobre productos del mar sostenibles.
-2. Revisa las guías de Seafood Watch y MSC.
-3. Prepara materiales para la campaña.
+1. Investigá sobre productos del mar sostenibles.
+2. Revisá las guías de Seafood Watch y MSC.
+3. Prepará materiales para la campaña.
 
 ## Desarrollo
-1. **Investigación** (20 min): Lee sobre productos del mar sostenibles.
+1. **Investigación** (20 min): Leé sobre productos del mar sostenibles.
 2. **Discusión** (15 min): ¿Qué especies son más sostenibles? ¿Por qué?
-3. **Planificación** (15 min): Diseña cómo animar a otros a elegir opciones sostenibles.
-4. **Acción** (10 min): Comparte lo aprendido con familia y amigos.
+3. **Planificación** (15 min): Diseñá cómo animar a otros a elegir opciones sostenibles.
+4. **Acción** (10 min): Compartí lo aprendido con familia y amigos.
 
 ## Cierre
 - ¿Qué productos del mar son más sostenibles?
-- ¿Cómo puedes identificar pescado sostenible en el supermercado?
+- ¿Cómo podés identificar pescado sostenible en el supermercado?
 - ¿Qué impacto tienen tus elecciones de alimentos en el océano?
 
 ---

@@ -4,7 +4,7 @@ title: "Diversidad en el mercado"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversidad-en-el-mercado/"
-description: "Visita a un mercado para identificar ejemplos de diversidad de especies y diversidad genética en alimentos."
+description: "Visitá a un mercado para identificar ejemplos de diversidad de especies y diversidad genética en alimentos."
 summary: "Explorar diversidad biológica en el mercado."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -160,22 +160,22 @@ rama_rovers:
 # ¡Diversidad en el mercado!
 
 ## Resumen
-Visita un mercado o una tienda de comestibles. Busca ejemplos de diversidad de especies y diversidad genética, dos niveles de biodiversidad (el tercer nivel es la diversidad de ecosistemas).
+Visitá un mercado o una tienda de comestibles. Buscá ejemplos de diversidad de especies y diversidad genética, dos niveles de biodiversidad (el tercer nivel es la diversidad de ecosistemas).
 
 ## Preparación
-1. Organiza la visita al mercado.
-2. Prepara una tabla para registrar observaciones.
-3. Explica los conceptos de diversidad de especies y genética.
+1. Organizá la visita al mercado.
+2. Prepará una tabla para registrar observaciones.
+3. Explicá los conceptos de diversidad de especies y genética.
 
 ## Desarrollo
-1. Cuenta el número de especies vegetales (zanahorias, pepinos, lechugas, etc.).
-2. Encuentra una especie con diversas variedades (ej. papas).
-3. Registra: ¿Cuántas variedades hay? ¿En qué se asemejan? ¿En qué se diferencian?
-4. Investiga: ¿Por qué es importante tener diversidad genética en las plantas para cultivos?
+1. Contá el número de especies vegetales (zanahorias, pepinos, lechugas, etc.).
+2. Encontrá una especie con diversas variedades (ej. papas).
+3. Registrá: ¿Cuántas variedades hay? ¿En qué se asemejan? ¿En qué se diferencian?
+4. Investigá: ¿Por qué es importante tener diversidad genética en las plantas para cultivos?
 
 ## Cierre
-1. Comparte tus hallazgos con tu clase o grupo.
-2. Reflexiona sobre la importancia de la diversidad.
+1. Compartí tus hallazgos con tu clase o grupo.
+2. Reflexioná sobre la importancia de la diversidad.
 3. Pregunta final: ¿Cómo podemos apoyar la diversidad genética en la agricultura?
 
 ## Texto original completo de la actividad

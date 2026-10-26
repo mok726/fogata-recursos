@@ -159,23 +159,23 @@ rama_rovers:
 # ¡Aves migratorias!
 
 ## Resumen
-Durante el otoño y/o la primavera visita un parque o área protegida donde sea posible observar aves. ¿Qué especies de aves migratorias pasan por ahí? Trata de verlas y escucha sus canciones.
+Durante el otoño y/o la primavera visita un parque o área protegida donde sea posible observar aves. ¿Qué especies de aves migratorias pasan por ahí? Tratá de verlas y escuchá sus canciones.
 
 ## Preparación
-1. Investiga sobre aves migratorias en tu área.
-2. Identifica un parque o área protegida para visitar.
-3. Prepara binoculares y materiales para registrar observaciones.
+1. Investigá sobre aves migratorias en tu área.
+2. Identificá un parque o área protegida para visitar.
+3. Prepará binoculares y materiales para registrar observaciones.
 
 ## Desarrollo
-1. Visita el parque o área protegida.
-2. Observa las aves migratorias que pasan por ahí.
-3. Escucha sus cantos y trata de identificarlas.
-4. Crea pósters o dibujos, o saca fotografías para tu escuela o tu casa.
+1. Visitá el parque o área protegida.
+2. Observá las aves migratorias que pasan por ahí.
+3. Escuchá sus cantos y tratá de identificarlas.
+4. Creá pósters o dibujos, o sacá fotografías para tu escuela o tu casa.
 
 ## Cierre
-1. Comparte tus observaciones y creaciones con el grupo.
-2. Reflexiona: ¿Qué aves migratorias viste?
-3. Pregunta final: ¿Por qué crees que las aves migran?
+1. Compartí tus observaciones y creaciones con el grupo.
+2. Reflexioná: ¿Qué aves migratorias viste?
+3. Pregunta final: ¿Por qué creés que las aves migran?
 
 ## Texto original completo de la actividad
 A.04 Durante el otoño y/o la primavera visita un parque o área protegida donde sea posible observar aves. ¿Qué especies de aves migratorias pasan por ahí? Trata de verlas y escucha sus canciones. Crea pósters o dibujos, o saca fotografías para tu escuela o tu casa.

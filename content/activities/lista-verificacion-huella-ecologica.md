@@ -5,7 +5,7 @@ duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lista-verificacion-huella-ecologica/"
 description: "Los participantes calculan su huella de carbono y reflexionan sobre cómo reducir su impacto personal en el medio ambiente."
-summary: "Calcula y reduce tu huella de carbono."
+summary: "Calculá y reducí tu huella de carbono."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,28 +168,28 @@ rama_rovers: []
 Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos.
 
 ## Preparación
-1. Revisa tu formato de huella ecológica: versión online o versión para imprimir.
-2. Prepara los materiales de lectura previa y recursos educativos.
-3. Organiza el espacio para el trabajo en grupos pequeños.
+1. Revisá tu formato de huella ecológica: versión online o versión para imprimir.
+2. Prepará los materiales de lectura previa y recursos educativos.
+3. Organizá el espacio para el trabajo en grupos pequeños.
 
 ## Desarrollo
 
 ### Parte I - Calcular la huella
-1. Haz un mapa de tu huella de carbono. Puedes hacerlo de forma online a través de una calculadora de huella de carbono o usando la versión impresa creada por el Centro Internacional Scout Kandersteg (ver anexos).
+1. Hacé un mapa de tu huella de carbono. Podés hacerlo de forma online a través de una calculadora de huella de carbono o usando la versión impresa creada por el Centro Internacional Scout Kandersteg (ver anexos).
 
 ### Parte II - Compartir en grupos
 2. En grupos pequeños, los participantes hablan y comparten los resultados de su cálculo de la huella.
 
 ### Parte III - Reflexión guiada
-3. El facilitador explica por qué es importante que las personas reduzcan su huella de carbono: al reducirla también reducimos la liberación de gases de efecto invernadero a la atmósfera. Esta reducción puede ayudar a disminuir la gravedad del futuro cambio climático. Imagínate si cada persona se ocupara de su consumo de una manera respetuosa con el medio ambiente, tendríamos un mundo mejor y saludable para nosotros y los demás hábitats.
+3. El facilitador explica por qué es importante que las personas reduzcan su huella de carbono: al reducirla también reducimos la liberación de gases de efecto invernadero a la atmósfera. Esta reducción puede ayudar a disminuir la gravedad del futuro cambio climático. Imaginate si cada persona se ocupara de su consumo de una manera respetuosa con el medio ambiente, tendríamos un mundo mejor y saludable para nosotros y los demás hábitats.
 
 ### Parte IV - Profundización (opcional)
-4. Puedes usar los materiales de lectura previa y recursos educativos para profundizar en el viaje de aprendizaje y exploración del cálculo de la huella de carbono.
+4. Podés usar los materiales de lectura previa y recursos educativos para profundizar en el viaje de aprendizaje y exploración del cálculo de la huella de carbono.
 
 ## Cierre
 1. ¿Cuál es tu huella de carbono actual?
 2. ¿Qué hábitos podrías cambiar para reducir tu impacto?
-3. ¿Cómo te sientes al saber el impacto de tus acciones?
+3. ¿Cómo te sentís al saber el impacto de tus acciones?
 
 ## Texto original completo de la actividad
 

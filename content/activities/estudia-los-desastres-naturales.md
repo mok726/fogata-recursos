@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudia los desastres naturales"
+title: "Estudiá los desastres naturales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudia-los-desastres-naturales/"
@@ -123,7 +123,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Desastres
   - Resiliencia
@@ -158,22 +158,22 @@ rama_rovers:
   - 29 # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Estudia los desastres naturales!
+# ¡Estudiá los desastres naturales!
 
 ## Resumen
 Divídanse en grupos para estudiar diferentes desastres relacionados con el clima que han sucedido recientemente, por ejemplo, una inundación o un huracán.
 
 ## Preparación
-1. Investiga sobre desastres naturales recientes.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre desastres naturales recientes.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige un desastre relacionado con el clima.
-2. Investiga: ¿Qué daño causó el desastre?
-3. Investiga: ¿Cómo se unieron las personas para recuperarse y reestablecerse?
-4. Investiga: ¿Se están dando pasos para prevenir o prepararse para futuros desastres?
-5. Piensa: ¿Cuáles son tus ideas sobre cómo prepararse para la próxima vez?
+1. Elegí un desastre relacionado con el clima.
+2. Investigá: ¿Qué daño causó el desastre?
+3. Investigá: ¿Cómo se unieron las personas para recuperarse y reestablecerse?
+4. Investigá: ¿Se están dando pasos para prevenir o prepararse para futuros desastres?
+5. Pensá: ¿Cuáles son tus ideas sobre cómo prepararse para la próxima vez?
 
 ## Cierre
 1. Discutan sus hallazgos e ideas en grupo.

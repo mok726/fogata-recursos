@@ -4,7 +4,7 @@ title: "Modelo Submarino"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-submarino/"
-description: "Construye un modelo del profundo lecho marino con sus características geológicas."
+description: "Construí un modelo del profundo lecho marino con sus características geológicas."
 summary: "Modelo del lecho marino."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,23 +170,23 @@ rama_rovers:
 # Modelo Submarino
 
 ## Resumen
-Construye un modelo del profundo lecho marino con sus características geológicas.
+Construí un modelo del profundo lecho marino con sus características geológicas.
 
 ## Preparación
-1. Investiga sobre el profundo lecho marino (cadenas montañosas, volcanes, fosas).
-2. Busca fotografías de referencia (ej. www.mbari.org).
-3. Reúne materiales reciclados para el modelo.
+1. Investigá sobre el profundo lecho marino (cadenas montañosas, volcanes, fosas).
+2. Buscá fotografías de referencia (ej. www.mbari.org).
+3. Reuní materiales reciclados para el modelo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca fotografías del lecho marino.
-2. **Diseño** (10 min): Decide qué características incluir.
-3. **Construcción** (30 min): Crea el modelo del lecho marino.
-4. **Adición** (15 min): Incluye animales marinos en el modelo.
-5. **Presentación** (15 min): Comparte el modelo con el grupo.
+1. **Investigación** (15 min): Buscá fotografías del lecho marino.
+2. **Diseño** (10 min): Decidí qué características incluir.
+3. **Construcción** (30 min): Creá el modelo del lecho marino.
+4. **Adición** (15 min): Incluí animales marinos en el modelo.
+5. **Presentación** (15 min): Compartí el modelo con el grupo.
 
 ## Cierre
 - ¿Qué características del lecho marino incluiste?
-- ¿Cómo crees que es la vida en el fondo del océano?
+- ¿Cómo creés que es la vida en el fondo del océano?
 - ¿Qué compromiso adquieres para aprender más sobre el océano profundo?
 
 ---

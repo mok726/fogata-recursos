@@ -4,8 +4,8 @@ title: "Reducir, reutilizar, reciclar"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-reutilizar-reciclar-energia/"
-description: "Crea un sistema visual con cajas para entender el orden correcto: reducir, reutilizar y reciclar, y comprométete a un cambio personal."
-summary: "Aprende el orden correcto para cuidar el planeta."
+description: "Creá un sistema visual con cajas para entender el orden correcto: reducir, reutilizar y reciclar, y comprométete a un cambio personal."
+summary: "Aprendé el orden correcto para cuidar el planeta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -162,17 +162,17 @@ translation_notice:
 # ¡Reducir, reutilizar, reciclar!
 
 ## Resumen
-Reducir, reutilizar y reciclar es un proceso que está en este orden por una razón. Reciclar todavía necesita mucha energía, por lo que es mejor reducir y reutilizar lo que ya tenemos. Aprende el orden correcto con esta actividad práctica.
+Reducir, reutilizar y reciclar es un proceso que está en este orden por una razón. Reciclar todavía necesita mucha energía, por lo que es mejor reducir y reutilizar lo que ya tenemos. Aprendé el orden correcto con esta actividad práctica.
 
 ## Preparación
-1. Consigue tres cajas de cartón: una grande, una mediana y una pequeña.
-2. Etiqueta las cajas: REDUCIR, REUTILIZAR, RECICLAR.
-3. Prepara marcadores.
+1. Conseguí tres cajas de cartón: una grande, una mediana y una pequeña.
+2. Etiquetá las cajas: REDUCIR, REUTILIZAR, RECICLAR.
+3. Prepará marcadores.
 
 ## Desarrollo
 
 ### Parte I - Etiquetar
-Etiqueta las cajas:
+Etiquetá las cajas:
 - **Caja GRANDE**: REDUCIR (lo más importante)
 - **Caja MEDIANA**: REUTILIZAR (lo segundo más importante)
 - **Caja PEQUEÑA**: RECICLAR (lo menos importante)
@@ -183,15 +183,15 @@ Apila las cajas de diferentes maneras para ver cuál es la estructura más estab
 **Pregunta:** ¿Por qué la estructura es más estable y efectiva cuando se sigue el orden REDUCIR → REUTILIZAR → RECICLAR?
 
 ### Parte III - Escribir
-Escribe en cada caja lo que puedes:
-- **REDUCIR**: ¿qué puedes dejar de usar?
-- **REUTILIZAR**: ¿qué puedes usar de nuevo?
-- **RECICLAR**: ¿qué puedes reciclar?
+Escribí en cada caja lo que podés:
+- **REDUCIR**: ¿qué podés dejar de usar?
+- **REUTILIZAR**: ¿qué podés usar de nuevo?
+- **RECICLAR**: ¿qué podés reciclar?
 
 ### Parte IV - Compromiso
 Cada persona identifica UN cambio que puede hacer:
 - Ejemplo: usar una botella reutilizable en lugar de comprar botellas de agua
-- ¡Ponlo en práctica!
+- ¡Ponelo en práctica!
 
 ## Cierre
 1. ¿Cuál de las 3R es más importante? ¿Por qué?

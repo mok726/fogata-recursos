@@ -4,8 +4,8 @@ title: "Colectando agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/colectando-agua/"
-description: "Construye un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua."
-summary: "Recoge agua del suelo usando energía solar."
+description: "Construí un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua."
+summary: "Recogé agua del suelo usando energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

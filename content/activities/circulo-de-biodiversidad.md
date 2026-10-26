@@ -160,23 +160,23 @@ rama_rovers:
 # ¡Círculo de biodiversidad!
 
 ## Resumen
-Elige un árbol de un bosque o de un área natural y traza un círculo de un metro de radio alrededor de su base. En un papel, dibuja todas las formas de vida que encuentres dentro de esa área (por ejemplo, hierbas, musgos, líquenes, insectos, hongos, sapos, etc.). Trata de identificar los nombres de las especies. Si es posible, invita a un biólogo o naturalista para que te ayude con la actividad.
+Elegí un árbol de un bosque o de un área natural y trazá un círculo de un metro de radio alrededor de su base. En un papel, dibujá todas las formas de vida que encuentres dentro de esa área (por ejemplo, hierbas, musgos, líquenes, insectos, hongos, sapos, etc.). Tratá de identificar los nombres de las especies. Si es posible, invitá a un biólogo o naturalista para que te ayude con la actividad.
 
 ## Preparación
-1. Identifica un árbol en un área natural.
-2. Prepara materiales para dibujar.
+1. Identificá un árbol en un área natural.
+2. Prepará materiales para dibujar.
 3. Si es posible, invita a un biólogo.
 
 ## Desarrollo
-1. Traza un círculo de un metro alrededor del árbol.
-2. Observa todas las formas de vida dentro del círculo.
-3. Dibuja lo que encuentres.
-4. Trata de identificar los nombres de las especies.
-5. Registra tus hallazgos.
+1. Trazá un círculo de un metro alrededor del árbol.
+2. Observá todas las formas de vida dentro del círculo.
+3. Dibujá lo que encuentres.
+4. Tratá de identificar los nombres de las especies.
+5. Registrá tus hallazgos.
 
 ## Cierre
-1. Comparte tu dibujo con el grupo.
-2. Reflexiona sobre la biodiversidad alrededor del árbol.
+1. Compartí tu dibujo con el grupo.
+2. Reflexioná sobre la biodiversidad alrededor del árbol.
 3. Pregunta final: ¿Qué te sorprendió de la vida alrededor del árbol?
 
 ## Texto original completo de la actividad

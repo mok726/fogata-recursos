@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inaturalist-siguiente-nivel/"
 description: "Los participantes utilizan la aplicación iNaturalist para identificar especies, aprender sobre biodiversidad y contribuir a la ciencia ciudadana."
-summary: "Identifica especies con iNaturalist."
+summary: "Identificá especies con iNaturalist."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -159,27 +159,27 @@ rama_rovers:
 El facilitador presentará a los jóvenes la aplicación iNaturalist y la biodiversidad, con la ayuda de videos tutoriales, que también ayudarán a los participantes a utilizar sus propios dispositivos móviles para acceder a la aplicación. Esta será una introducción que será seguida por actividades donde pueden utilizar esta aplicación, por ejemplo, caminatas u otras actividades al aire libre.
 
 ## Preparación
-1. Instala la aplicación iNaturalist en los dispositivos móviles.
-2. Prepara un video tutorial de la aplicación.
-3. Organiza una actividad al aire libre donde puedan usar la aplicación.
+1. Instalá la aplicación iNaturalist en los dispositivos móviles.
+2. Prepará un video tutorial de la aplicación.
+3. Organizá una actividad al aire libre donde puedan usar la aplicación.
 
 ## Desarrollo
 
 ### Parte I - Introducción
-Puedes usar algunas de las actividades del kit de herramientas Our Planet Lab y tomarlas como guía. El facilitador presentará iNaturalist con la ayuda de videos tutoriales.
+Podés usar algunas de las actividades del kit de herramientas Our Planet Lab y tomarlas como guía. El facilitador presentará iNaturalist con la ayuda de videos tutoriales.
 
 ### Parte II - Exploración
 Se invitará a los participantes a utilizar la aplicación durante otras actividades al aire libre en el evento/reunión para descubrir el entorno natural que los rodea.
 
 ### Parte III - Gestión de proyecto (opcional)
-Puedes continuar tu viaje de exploración con iNaturalist a través de la gestión de un proyecto. Puedes visitar el sitio web de iNaturalist para obtener más recursos.
+Podés continuar tu viaje de exploración con iNaturalist a través de la gestión de un proyecto. Podés visitar el sitio web de iNaturalist para obtener más recursos.
 
 ### Parte IV - Reflexión
 Los participantes deben aprender sobre al menos tres especies de vida silvestre o plantas durante la actividad y al completarla, discutirán lo que han aprendido sobre estas especies.
 
 ## Cierre
-1. ¿Crees que esta aplicación puede ser útil para desarrollar actividades en tu grupo local?
-2. ¿En qué tipo de actividades puedes utilizar esta aplicación?
+1. ¿Creés que esta aplicación puede ser útil para desarrollar actividades en tu grupo local?
+2. ¿En qué tipo de actividades podés utilizar esta aplicación?
 3. ¿Cómo puede ayudarte esta aplicación a proteger la biodiversidad del planeta?
 
 ## Texto original completo de la actividad

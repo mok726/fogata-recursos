@@ -4,7 +4,7 @@ title: "Transmisión sobre Tsunamis"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/transmision-sobre-tsunamis/"
-description: "Crea una transmisión de radio sobre tsunamis y consejos para sobrevivir."
+description: "Creá una transmisión de radio sobre tsunamis y consejos para sobrevivir."
 summary: "Transmisión de radio sobre tsunamis."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,23 +167,23 @@ rama_rovers:
 # Transmisión sobre Tsunamis
 
 ## Resumen
-Crea una transmisión de radio sobre tsunamis y consejos para sobrevivir.
+Creá una transmisión de radio sobre tsunamis y consejos para sobrevivir.
 
 ## Preparación
-1. Lee el artículo sobre el terremoto de Samoa.
-2. Forma pequeños grupos.
-3. Prepara un guión para la transmisión.
+1. Leé el artículo sobre el terremoto de Samoa.
+2. Formá pequeños grupos.
+3. Prepará un guión para la transmisión.
 
 ## Desarrollo
-1. **Investigación** (15 min): Lee y comprende el artículo sobre tsunamis.
-2. **Guión** (20 min): Escribe un guión para la transmisión de radio.
-3. **Grabación** (20 min): Graba la transmisión (o actúen en vivo).
-4. **Presentación** (15 min): Comparte la transmisión con el grupo.
-5. **Extensión** (opcional): Investiga el tsunami asiático de 2004.
+1. **Investigación** (15 min): Leé y comprende el artículo sobre tsunamis.
+2. **Guión** (20 min): Escribí un guión para la transmisión de radio.
+3. **Grabación** (20 min): Grabá la transmisión (o actúen en vivo).
+4. **Presentación** (15 min): Compartí la transmisión con el grupo.
+5. **Extensión** (opcional): Investigá el tsunami asiático de 2004.
 
 ## Cierre
 - ¿Qué aprendiste sobre los tsunamis?
-- ¿Cómo puedes mantenerte a salvo?
+- ¿Cómo podés mantenerte a salvo?
 - ¿Qué compromiso adquieres para estar preparado ante desastres?
 
 ---

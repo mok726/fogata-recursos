@@ -3,7 +3,7 @@ title: "Trabajando como Alfarero"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/trabajando-como-alfarero/"
-description: "Visita un taller de alfarería y crea tus propias piezas con arcilla."
+description: "Visitá un taller de alfarería y creá tus propias piezas con arcilla."
 summary: "Taller de alfarería."
 
 author:
@@ -148,18 +148,18 @@ rama_rovers:
 # ¡Trabajando como Alfarero!
 
 ## Resumen
-Visita un taller de alfarería y crea tus propias piezas de arcilla mientras aprendes sobre el uso del suelo.
+Visitá un taller de alfarería y creá tus propias piezas de arcilla mientras aprendés sobre el uso del suelo.
 
 ## Preparación
-1. Organiza una visita a un taller de alfarería.
-2. Prepara preguntas para el instructor.
-3. Lleva ropa adecuada para trabajar con arcilla.
+1. Organizá una visita a un taller de alfarería.
+2. Prepará preguntas para el instructor.
+3. Llevá ropa adecuada para trabajar con arcilla.
 
 ## Desarrollo
-1. **Visita** (20 min): Aprende sobre los materiales y el proceso.
-2. **Creación** (40 min): Crea tus propias piezas de arcilla.
+1. **Visita** (20 min): Aprendé sobre los materiales y el proceso.
+2. **Creación** (40 min): Creá tus propias piezas de arcilla.
 3. **Aprendizaje** (15 min): ¿Qué materiales se usan? ¿Dónde entra la tierra?
-4. **Presentación** (15 min): Muestra tus creaciones al grupo.
+4. **Presentación** (15 min): Mostrá tus creaciones al grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la alfarería?

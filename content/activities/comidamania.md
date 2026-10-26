@@ -4,7 +4,7 @@ title: "Comidamanía"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/comidamania/"
-description: "Reflexiona sobre tus elecciones de alimentos y planifica una comida sostenible con tu grupo."
+description: "Reflexioná sobre tus elecciones de alimentos y planificá una comida sostenible con tu grupo."
 summary: "Planificación de una comida sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,23 +169,23 @@ rama_rovers:
 # Comidamanía
 
 ## Resumen
-Reflexiona sobre tus elecciones de alimentos y planifica una comida sostenible con tu grupo.
+Reflexioná sobre tus elecciones de alimentos y planificá una comida sostenible con tu grupo.
 
 ## Preparación
-1. Reflexiona sobre tus elecciones de alimentos y hábitos alimenticios.
-2. Pide permiso para usar la cocina en el colegio o en casa.
+1. Reflexioná sobre tus elecciones de alimentos y hábitos alimenticios.
+2. Pedí permiso para usar la cocina en el colegio o en casa.
 3. Planea un menú en grupo y haz una lista de ingredientes.
 
 ## Desarrollo
-1. **Debate** (15 min): Discute sobre tus elecciones de alimentos.
+1. **Debate** (15 min): Discutí sobre tus elecciones de alimentos.
 2. **Planificación** (20 min): Planea un menú sostenible y nutritivo.
-3. **Compra** (30 min): Ve al supermercado o mercado agrícola.
-4. **Cocina** (30 min): Prepara la comida con el grupo.
-5. **Reflexión** (15 min): Habla sobre la importancia de hábitos sostenibles.
+3. **Compra** (30 min): Andá al supermercado o mercado agrícola.
+4. **Cocina** (30 min): Prepará la comida con el grupo.
+5. **Reflexión** (15 min): Hablá sobre la importancia de hábitos sostenibles.
 
 ## Cierre
 - ¿Qué alimentos elegiste y por qué?
-- ¿Cómo puedes hacer elecciones más sostenibles en el futuro?
+- ¿Cómo podés hacer elecciones más sostenibles en el futuro?
 - ¿Qué compromiso adquieres para seguir una dieta sostenible?
 
 ---

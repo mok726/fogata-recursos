@@ -4,7 +4,7 @@ title: "Tu Bosque Favorito"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-bosque-favorito/"
-description: "Busca diferentes bosques alrededor del mundo y elige uno que te parezca especialmente bonito. Crea un póster y preséntalo a tu grupo."
+description: "Buscá diferentes bosques alrededor del mundo y elegí uno que te parezca especialmente bonito. Creá un póster y presentalo a tu grupo."
 summary: "Investigación sobre un bosque favorito y presentación."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,23 +167,23 @@ rama_rovers:
 # Tu Bosque Favorito
 
 ## Resumen
-Busca diferentes bosques alrededor del mundo y elige uno que te parezca especialmente bonito. Crea un póster sobre este bosque e indica por qué es importante cuidarlo. Luego presenta tu póster a tu grupo.
+Buscá diferentes bosques alrededor del mundo y elegí uno que te parezca especialmente bonito. Creá un póster sobre este bosque e indica por qué es importante cuidarlo. Luego presenta tu póster a tu grupo.
 
 ## Preparación
-1. Busca diferentes bosques alrededor del mundo en libros, revistas o internet.
-2. Elige uno que te parezca especialmente bonito o interesante.
-3. Reúne los materiales para crear el póster.
+1. Buscá diferentes bosques alrededor del mundo en libros, revistas o internet.
+2. Elegí uno que te parezca especialmente bonito o interesante.
+3. Reuní los materiales para crear el póster.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre el bosque elegido, sus características, ubicación y biodiversidad.
-2. **Análisis** (15 min): Identifica los riesgos que enfrenta y qué están haciendo las personas para protegerlo.
-3. **Propuestas** (15 min): Piensa en tus propias sugerencias para protegerlo.
-4. **Creación** (30 min): Crea un póster sobre el bosque.
-5. **Presentación** (15 min): Presenta tu póster a tu grupo.
+1. **Investigación** (20 min): Investigá sobre el bosque elegido, sus características, ubicación y biodiversidad.
+2. **Análisis** (15 min): Identificá los riesgos que enfrenta y qué están haciendo las personas para protegerlo.
+3. **Propuestas** (15 min): Pensá en tus propias sugerencias para protegerlo.
+4. **Creación** (30 min): Creá un póster sobre el bosque.
+5. **Presentación** (15 min): Presentá tu póster a tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el bosque que elegiste?
 - ¿Por qué es importante cuidar los bosques alrededor del mundo?
-- ¿Qué acciones puedes tomar para proteger los bosques?
+- ¿Qué acciones podés tomar para proteger los bosques?
 
 ---

@@ -4,7 +4,7 @@ title: "El Cuerpo Humano y la Comida"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-cuerpo-humano-y-la-comida/"
-description: "Crea un póster del cuerpo humano etiquetando qué alimentos son buenos para cada parte del cuerpo."
+description: "Creá un póster del cuerpo humano etiquetando qué alimentos son buenos para cada parte del cuerpo."
 summary: "Póster sobre alimentos y partes del cuerpo."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,22 +166,22 @@ rama_rovers:
 # El Cuerpo Humano y la Comida
 
 ## Resumen
-Crea un póster del cuerpo humano etiquetando qué alimentos son buenos para cada parte del cuerpo.
+Creá un póster del cuerpo humano etiquetando qué alimentos son buenos para cada parte del cuerpo.
 
 ## Preparación
-1. Prepara papel grande y marcadores.
-2. Dibuja el contorno de un cuerpo humano.
-3. Investiga qué alimentos son buenos para cada parte del cuerpo.
+1. Prepará papel grande y marcadores.
+2. Dibujá el contorno de un cuerpo humano.
+3. Investigá qué alimentos son buenos para cada parte del cuerpo.
 
 ## Desarrollo
-1. **Diseño** (10 min): Dibuja el contorno del cuerpo en el póster.
-2. **Detalles** (15 min): Añade ojos, dientes, pelo, uñas, etc.
-3. **Etiquetas** (20 min): Etiqueta cada parte con los alimentos que son buenos para ella (ej. leche para huesos y dientes, zanahorias para la vista).
-4. **Exhibición** (15 min): Exhibe los pósteres en grupo.
+1. **Diseño** (10 min): Dibujá el contorno del cuerpo en el póster.
+2. **Detalles** (15 min): Añadí ojos, dientes, pelo, uñas, etc.
+3. **Etiquetas** (20 min): Etiquetá cada parte con los alimentos que son buenos para ella (ej. leche para huesos y dientes, zanahorias para la vista).
+4. **Exhibición** (15 min): Exhibí los pósteres en grupo.
 
 ## Cierre
 - ¿Qué alimentos son buenos para cada parte del cuerpo?
-- ¿Cómo puedes asegurarte de obtener los nutrientes que necesitas?
+- ¿Cómo podés asegurarte de obtener los nutrientes que necesitás?
 - ¿Qué compromiso adquieres para cuidar tu cuerpo?
 
 ---

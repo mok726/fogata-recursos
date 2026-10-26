@@ -3,7 +3,7 @@ title: "Sed Continental"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sed-continental/"
-description: "Investiga la situación hídrica de diferentes continentes y países."
+description: "Investigá la situación hídrica de diferentes continentes y países."
 summary: "Investigación sobre situación hídrica por continentes."
 
 author:
@@ -149,18 +149,18 @@ rama_rovers:
 # ¡Sed Continental!
 
 ## Resumen
-Investiga la situación hídrica de diferentes continentes y países, y crea pósters informativos.
+Investigá la situación hídrica de diferentes continentes y países, y creá pósters informativos.
 
 ## Preparación
 1. Divídanse en grupos, cada uno con un continente.
 2. Cada miembro del grupo investiga un país diferente.
-3. Reúne materiales para los pósters.
+3. Reuní materiales para los pósters.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga datos sobre agua, escasez y pobreza en tu país/continente.
+1. **Investigación** (25 min): Investigá datos sobre agua, escasez y pobreza en tu país/continente.
 2. **Análisis** (15 min): ¿Cuáles son los factores detrás de los problemas?
-3. **Creación** (15 min): Haz un póster con los datos.
-4. **Presentación** (5 min): Comparte tus hallazgos con el grupo.
+3. **Creación** (15 min): Hacé un póster con los datos.
+4. **Presentación** (5 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué continente tiene mayores problemas de agua?

@@ -4,7 +4,7 @@ title: "El Maestro del Menú"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-maestro-del-menu/"
-description: "Prepara un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias."
+description: "Prepará un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias."
 summary: "Creación de menú semanal saludable."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,18 +166,18 @@ rama_rovers:
 # El Maestro del Menú
 
 ## Resumen
-Prepara un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias.
+Prepará un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias.
 
 ## Preparación
-1. Divide los alimentos que comes en diferentes categorías.
-2. Busca recetas que incorporen estos grupos.
-3. Piensa en un tema diferente para cada cena (comida india, china, marroquí, griega, etc.).
+1. Dividí los alimentos que comés en diferentes categorías.
+2. Buscá recetas que incorporen estos grupos.
+3. Pensá en un tema diferente para cada cena (comida india, china, marroquí, griega, etc.).
 
 ## Desarrollo
-1. **Categorización** (15 min): Divide los alimentos en grupos.
-2. **Investigación** (20 min): Busca recetas variadas.
-3. **Planificación** (20 min): Crea un menú semanal.
-4. **Presentación** (15 min): Comparte el menú con el grupo.
+1. **Categorización** (15 min): Dividí los alimentos en grupos.
+2. **Investigación** (20 min): Buscá recetas variadas.
+3. **Planificación** (20 min): Creá un menú semanal.
+4. **Presentación** (15 min): Compartí el menú con el grupo.
 
 ## Cierre
 - ¿Cómo variaste los grupos de alimentos en tu menú?

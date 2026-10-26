@@ -3,7 +3,7 @@ title: "Descubriendo Desastres"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubriendo-desastres/"
-description: "Investiga un desastre reciente y analiza sus labores de recuperación."
+description: "Investigá un desastre reciente y analizá sus labores de recuperación."
 summary: "Análisis de un desastre reciente."
 
 author:
@@ -147,18 +147,18 @@ rama_rovers:
 # ¡Descubriendo Desastres!
 
 ## Resumen
-Investiga un desastre reciente de cualquier parte del mundo y analiza sus labores de recuperación.
+Investigá un desastre reciente de cualquier parte del mundo y analizá sus labores de recuperación.
 
 ## Preparación
-1. Elige un desastre reciente para investigar.
-2. Busca información sobre el desastre y su recuperación.
-3. Prepara materiales para el artículo.
+1. Elegí un desastre reciente para investigar.
+2. Buscá información sobre el desastre y su recuperación.
+3. Prepará materiales para el artículo.
 
 ## Desarrollo
-1. **Investigación** (30 min): Reúne información sobre el desastre.
-2. **Análisis** (25 min): Analiza las labores de recuperación.
-3. **Escritura** (25 min): Escribe un artículo detallado.
-4. **Publicación** (10 min): Envía el artículo para su publicación.
+1. **Investigación** (30 min): Reuní información sobre el desastre.
+2. **Análisis** (25 min): Analizá las labores de recuperación.
+3. **Escritura** (25 min): Escribí un artículo detallado.
+4. **Publicación** (10 min): Enviá el artículo para su publicación.
 
 ## Cierre
 - ¿El lugar se recuperó rápido o fue un proceso largo?

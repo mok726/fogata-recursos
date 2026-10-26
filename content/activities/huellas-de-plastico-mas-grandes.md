@@ -5,7 +5,7 @@ duration: "20-25 minutos (más seguimiento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/huellas-de-plastico-mas-grandes/"
 description: "Los jóvenes compiten en equipos para recolectar y comparar la cantidad de plástico que usan durante un período, reflexionando sobre su consumo y buscando formas de reducirlo."
-summary: "Compara tu huella de plástico con otros equipos."
+summary: "Compará tu huella de plástico con otros equipos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -165,7 +165,7 @@ rama_rovers:
 # ¡Las huellas de plástico más grandes!
 
 ## Resumen
-Organiza un "enfrentamiento plástico" entre dos equipos durante un campamento o reunión. Todos los participantes guardarán el plástico que usen durante la duración del evento, desde bolsas de plástico hasta botellas de agua y envases de alimentos. Cada equipo crea una "montaña" de todo lo recogido y al final comparan. Esta actividad ayuda a reflexionar sobre la cantidad de plástico que consumimos y cómo reducirla.
+Organizá un "enfrentamiento plástico" entre dos equipos durante un campamento o reunión. Todos los participantes guardarán el plástico que usen durante la duración del evento, desde bolsas de plástico hasta botellas de agua y envases de alimentos. Cada equipo crea una "montaña" de todo lo recogido y al final comparan. Esta actividad ayuda a reflexionar sobre la cantidad de plástico que consumimos y cómo reducirla.
 
 ## Preparación
 1. Dividir a los participantes en dos equipos.
@@ -193,7 +193,7 @@ Organiza un "enfrentamiento plástico" entre dos equipos durante un campamento o
 ## Cierre
 1. ¿Qué te sorprendió de la cantidad de plástico que usaste?
 2. ¿Qué plásticos fueron los más comunes en tu montaña?
-3. ¿Qué cambios puedes hacer para reducir tu huella de plástico?
+3. ¿Qué cambios podés hacer para reducir tu huella de plástico?
 
 ## Texto original completo de la actividad
 

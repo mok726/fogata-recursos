@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduciendo-mi-huella-carbono/"
 description: "Juego en círculo para compartir ideas simples sobre cómo cada persona puede reducir su huella de carbono en la vida diaria."
-summary: "Comparte ideas para reducir tu huella de carbono."
+summary: "Compartí ideas para reducir tu huella de carbono."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,9 +164,9 @@ translation_notice:
 En este juego en círculo, pasamos una pelota mientras suena música. Cuando la música se detiene, quien tiene la pelota comparte una idea simple para reducir su huella de carbono.
 
 ## Preparación
-1. Forma un círculo con el grupo.
-2. Prepara música (opcional).
-3. Consigue una pelota para pasar.
+1. Formá un círculo con el grupo.
+2. Prepará música (opcional).
+3. Conseguí una pelota para pasar.
 
 ## Desarrollo
 
@@ -184,12 +184,12 @@ En este juego en círculo, pasamos una pelota mientras suena música. Cuando la 
 - Usar una botella reutilizable
 
 ### Parte III - Continuar
-Continúa el juego hasta que todos hayan compartido al menos una idea.
+Continuá el juego hasta que todos hayan compartido al menos una idea.
 
 ## Cierre
 1. ¿Qué idea te pareció más fácil de implementar?
 2. ¿Qué idea te pareció más difícil?
-3. ¿Cuántas de estas ideas puedes poner en práctica hoy?
+3. ¿Cuántas de estas ideas podés poner en práctica hoy?
 
 ## Texto original completo de la actividad
 

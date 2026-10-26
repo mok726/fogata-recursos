@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Reciclaje de aguas grises!
 
 ## Resumen
-Investiga sobre el reciclaje de aguas grises. Invita a un representante del departamento de agua de las autoridades locales para que converse con tu grupo. ¿Qué es el reciclaje de aguas grises? ¿Cuándo y dónde es apropiado? ¿Qué leyes existen en tu área para el reciclaje de aguas grises?
+Investigá sobre el reciclaje de aguas grises. Invitá a un representante del departamento de agua de las autoridades locales para que converse con tu grupo. ¿Qué es el reciclaje de aguas grises? ¿Cuándo y dónde es apropiado? ¿Qué leyes existen en tu área para el reciclaje de aguas grises?
 
 ## Preparación
-1. Investiga sobre aguas grises.
-2. Contacta a un representante local.
-3. Prepara preguntas para la visita.
+1. Investigá sobre aguas grises.
+2. Contactá a un representante local.
+3. Prepará preguntas para la visita.
 
 ## Desarrollo
-1. Invita a un representante del departamento de agua.
-2. Aprende sobre el reciclaje de aguas grises.
-3. Investiga las leyes locales.
-4. Diseña el sistema de reciclaje de aguas grises ideal para tu casa o escuela.
+1. Invitá a un representante del departamento de agua.
+2. Aprendé sobre el reciclaje de aguas grises.
+3. Investigá las leyes locales.
+4. Diseñá el sistema de reciclaje de aguas grises ideal para tu casa o escuela.
 
 ## Cierre
-1. Presenta tus hallazgos a tus amigos, clase o grupo.
-2. Reflexiona: ¿Cómo ayuda el reciclaje de aguas grises a la biodiversidad?
+1. Presentá tus hallazgos a tus amigos, clase o grupo.
+2. Reflexioná: ¿Cómo ayuda el reciclaje de aguas grises a la biodiversidad?
 3. Pregunta final: ¿Qué leyes existen en tu área sobre aguas grises?
 
 ## Texto original completo de la actividad

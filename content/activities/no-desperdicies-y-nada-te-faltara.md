@@ -168,19 +168,19 @@ rama_rovers:
 ¿Sabías que aproximadamente un tercio de los alimentos producidos para que las personas coman se pierden o se desechan? ¿Alguna vez has pensado sobre cuánta energía se desperdicia junto con estos?
 
 ## Preparación
-1. Prepara un diario para registrar observaciones.
-2. Explica la actividad al grupo.
-3. Organiza el seguimiento semanal.
+1. Prepará un diario para registrar observaciones.
+2. Explicá la actividad al grupo.
+3. Organizá el seguimiento semanal.
 
 ## Desarrollo
-1. Empieza a notar cuánta comida, si es que así sucede, se desperdicia en tu casa.
-2. Mantén un diario de tus observaciones.
-3. Habla con tu familia sobre cómo pueden reducir los desperdicios.
+1. Empezá a notar cuánta comida, si es que así sucede, se desperdicia en tu casa.
+2. Mantené un diario de tus observaciones.
+3. Hablá con tu familia sobre cómo pueden reducir los desperdicios.
 4. Después de una semana, compara tus notas con tus amigos.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Qué ideas para ahorrar alimentos funcionaron?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Qué ideas para ahorrar alimentos funcionaron?
 3. Pregunta final: ¿Qué cambios harás para reducir el desperdicio de alimentos?
 
 ## Texto original completo de la actividad

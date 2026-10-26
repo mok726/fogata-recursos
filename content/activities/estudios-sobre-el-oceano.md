@@ -3,7 +3,7 @@ title: "Estudios sobre el Océano"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-sobre-el-oceano/"
-description: "Diseña un plan de investigación para estudiar un ecosistema marino de tu interés."
+description: "Diseñá un plan de investigación para estudiar un ecosistema marino de tu interés."
 summary: "Plan de investigación de un ecosistema marino."
 
 author:
@@ -151,23 +151,23 @@ rama_rovers:
 # ¡Estudios sobre el Océano!
 
 ## Resumen
-Elige un ecosistema marino que te interese y diseña un plan de investigación para estudiarlo.
+Elegí un ecosistema marino que te interese y diseñá un plan de investigación para estudiarlo.
 
 ## Preparación
-1. Investiga diferentes ecosistemas marinos.
-2. Elige uno que te interese particularmente.
-3. Reúne materiales de referencia.
+1. Investigá diferentes ecosistemas marinos.
+2. Elegí uno que te interese particularmente.
+3. Reuní materiales de referencia.
 
 ## Desarrollo
-1. **Elección del ecosistema** (10 min): Elige un ecosistema marino.
+1. **Elección del ecosistema** (10 min): Elegí un ecosistema marino.
 2. **Preguntas de investigación** (15 min): Formula preguntas que te gustaría responder.
-3. **Diseño del plan** (25 min): Escribe un plan de investigación detallado.
-4. **Compartir** (10 min): Presenta tu plan al grupo.
+3. **Diseño del plan** (25 min): Escribí un plan de investigación detallado.
+4. **Compartir** (10 min): Presentá tu plan al grupo.
 
 ## Cierre
 - ¿Qué ecosistema elegiste y por qué?
 - ¿Qué métodos usarías para recolectar datos?
-- ¿Qué desafíos crees que enfrentarías en tu investigación?
+- ¿Qué desafíos creés que enfrentarías en tu investigación?
 
 ---
 ## Texto original completo de la actividad

@@ -166,23 +166,23 @@ rama_rovers:
 # ¡Programa Global Escuelas Seguras!
 
 ## Resumen
-Averigua qué desastres o amenazas naturales es más probable que sucedan en el lugar donde vives y haz un plan sobre cómo podrías adaptarte a estos.
+Averiguá qué desastres o amenazas naturales es más probable que sucedan en el lugar donde vivís y hacé un plan sobre cómo podrías adaptarte a estos.
 
 ## Preparación
-1. Investiga sobre desastres naturales en tu área.
-2. Prepara recursos de organizaciones como Plan Internacional, Cruz Roja y UNICEF.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre desastres naturales en tu área.
+2. Prepará recursos de organizaciones como Plan Internacional, Cruz Roja y UNICEF.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Averigua qué desastres o amenazas naturales son más probables en tu área.
+1. Averiguá qué desastres o amenazas naturales son más probables en tu área.
 2. Si ya ocurrió un evento, observa qué tan bien reaccionó tu comunidad.
-3. Piensa cómo podría mejorar esta respuesta en el futuro.
-4. Piensa cómo podrían adaptarse mejor en caso de que ocurriera nuevamente.
-5. Desarrolla un plan de preparación y adaptación.
+3. Pensá cómo podría mejorar esta respuesta en el futuro.
+4. Pensá cómo podrían adaptarse mejor en caso de que ocurriera nuevamente.
+5. Desarrollá un plan de preparación y adaptación.
 
 ## Cierre
-1. Comparte tu plan con el grupo.
-2. Reflexiona: ¿Cómo puedes ayudar a tu comunidad a estar más preparada?
+1. Compartí tu plan con el grupo.
+2. Reflexioná: ¿Cómo podés ayudar a tu comunidad a estar más preparada?
 3. Pregunta final: ¿Qué aprendiste sobre la preparación para desastres?
 
 ## Texto original completo de la actividad

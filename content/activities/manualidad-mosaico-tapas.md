@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/manualidad-mosaico-tapas/"
 description: "Una actividad creativa que fomenta la reutilización de tapas de botellas de plástico para crear mosaicos artísticos, promoviendo la conciencia sobre el reciclaje y la reducción de residuos."
-summary: "Crea mosaicos con tapas de botellas de plástico reutilizadas."
+summary: "Creá mosaicos con tapas de botellas de plástico reutilizadas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

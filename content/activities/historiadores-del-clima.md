@@ -163,23 +163,23 @@ rama_rovers:
 # ¡Historiadores del clima!
 
 ## Resumen
-Estudia la historia del clima de la Tierra, investiga sobre eventos como las edades de hielo y otros periodos más cálidos (como los periodos interglaciales).
+Estudiá la historia del clima de la Tierra, investigá sobre eventos como las edades de hielo y otros periodos más cálidos (como los periodos interglaciales).
 
 ## Preparación
-1. Investiga sobre la historia climática de la Tierra.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre la historia climática de la Tierra.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Estudia la historia del clima de la Tierra.
-2. Investiga sobre eventos como las edades de hielo y otros periodos más cálidos.
-3. Busca información sobre los volcanes del pasado y el efecto que pueden haber tenido en el clima.
-4. Reflexiona: ¿Aprendiste algo nuevo? ¿Qué te pareció interesante o sorprendente?
-5. Prepara notas o haz dibujos para ilustrar tus hallazgos.
+1. Estudiá la historia del clima de la Tierra.
+2. Investigá sobre eventos como las edades de hielo y otros periodos más cálidos.
+3. Buscá información sobre los volcanes del pasado y el efecto que pueden haber tenido en el clima.
+4. Reflexioná: ¿Aprendiste algo nuevo? ¿Qué te pareció interesante o sorprendente?
+5. Prepará notas o hacé dibujos para ilustrar tus hallazgos.
 
 ## Cierre
-1. Coloca tus trabajos en tu clase, alrededor de tu escuela o el lugar de reunión de tu grupo.
-2. Comparte con el grupo lo que aprendiste.
+1. Colocá tus trabajos en tu clase, alrededor de tu escuela o el lugar de reunión de tu grupo.
+2. Compartí con el grupo lo que aprendiste.
 3. Pregunta final: ¿Cómo el estudio del clima pasado nos ayuda a entender el cambio climático actual?
 
 ## Texto original completo de la actividad

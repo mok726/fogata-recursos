@@ -177,24 +177,24 @@ rama_rovers:
 # ¡Reciclaje de papel!
 
 ## Resumen
-Reducir, reusar y reciclar es bueno para la biodiversidad. Una tonelada de papel reciclado salva 17 árboles. Más reciclaje significa que más hábitats se salvan para otras plantas y animales. Recicla papel al hacer tu propio papel. Utilízalo para hacer una manualidad, o escribe una carta a alguien especial y envíasela. ¡No olvides mencionar que el papel es hecho en casa!
+Reducir, reusar y reciclar es bueno para la biodiversidad. Una tonelada de papel reciclado salva 17 árboles. Más reciclaje significa que más hábitats se salvan para otras plantas y animales. Reciclá papel al hacer tu propio papel. Utilizalo para hacer una manualidad, o escribí una carta a alguien especial y enviásela. ¡No olvides mencionar que el papel es hecho en casa!
 
 ## Preparación
-1. Reúne papel usado.
-2. Prepara recipientes y material para secar.
-3. Organiza el espacio de trabajo.
+1. Reuní papel usado.
+2. Prepará recipientes y material para secar.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Rompe el papel en pedazos pequeños.
-2. Remoja en agua durante varias horas.
-3. Licúa o tritura hasta formar pulpa.
-4. Coloca la pulpa en un marco con malla.
-5. Presiona y deja secar.
-6. Decora o escribe en tu papel reciclado.
+1. Rompé el papel en pedazos pequeños.
+2. Remojá en agua durante varias horas.
+3. Licuá o tritura hasta formar pulpa.
+4. Colocá la pulpa en un marco con malla.
+5. Presioná y dejá secar.
+6. Decorá o escribí en tu papel reciclado.
 
 ## Cierre
-1. Comparte tu papel reciclado con el grupo.
-2. Reflexiona sobre el impacto del reciclaje.
+1. Compartí tu papel reciclado con el grupo.
+2. Reflexioná sobre el impacto del reciclaje.
 3. Pregunta final: ¿Cómo ayuda el reciclaje de papel a salvar árboles?
 
 ## Texto original completo de la actividad

@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Explicación multisensorial!
 
 ## Resumen
-Inventa una forma de explicar la biodiversidad y sus tres componentes usando por lo menos dos sentidos. Por ejemplo, haz un video con fotografías y sonido o crea un juego donde los participantes aprendan acerca de la biodiversidad a través del gusto y el tacto.
+Inventá una forma de explicar la biodiversidad y sus tres componentes usando por lo menos dos sentidos. Por ejemplo, hacé un video con fotografías y sonido o creá un juego donde los participantes aprendan acerca de la biodiversidad a través del gusto y el tacto.
 
 ## Preparación
-1. Investiga sobre los tres componentes de la biodiversidad.
-2. Prepara materiales para la actividad multisensorial.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre los tres componentes de la biodiversidad.
+2. Prepará materiales para la actividad multisensorial.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Piensa en cómo explicar la biodiversidad usando al menos dos sentidos.
-2. Crea un video, juego o actividad que involucre múltiples sentidos.
-3. Explica la biodiversidad a tus profesores, dirigentes o grupo.
-4. Responde preguntas sobre la interacción de los componentes.
+1. Pensá en cómo explicar la biodiversidad usando al menos dos sentidos.
+2. Creá un video, juego o actividad que involucre múltiples sentidos.
+3. Explicá la biodiversidad a tus profesores, dirigentes o grupo.
+4. Respondé preguntas sobre la interacción de los componentes.
 
 ## Cierre
-1. Presenta tu creación al grupo.
-2. Reflexiona sobre el aprendizaje multisensorial.
+1. Presentá tu creación al grupo.
+2. Reflexioná sobre el aprendizaje multisensorial.
 3. Pregunta final: ¿Qué sentido fue más útil para entender la biodiversidad?
 
 ## Texto original completo de la actividad

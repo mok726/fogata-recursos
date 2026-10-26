@@ -161,23 +161,23 @@ rama_rovers:
 # ¡Experimento de descomposición!
 
 ## Resumen
-¿Cuánto tardan las cosas en descomponerse? Llena una caja con tierra. Entierra diez muestras y marca la ubicación de cada una. Añade un poco de agua para mantener la tierra ligeramente húmeda. Desentierra cada muestra una vez a la semana y observa qué tan descompuesta está. Registra tus observaciones durante seis a ocho semanas.
+¿Cuánto tardan las cosas en descomponerse? Llená una caja con tierra. Enterrá diez muestras y marca la ubicación de cada una. Añadí un poco de agua para mantener la tierra ligeramente húmeda. Desenterrá cada muestra una vez a la semana y observá qué tan descompuesta está. Registrá tus observaciones durante seis a ocho semanas.
 
 ## Preparación
-1. Prepara una caja con tierra.
-2. Reúne las muestras.
-3. Marca la ubicación de cada muestra.
+1. Prepará una caja con tierra.
+2. Reuní las muestras.
+3. Marcá la ubicación de cada muestra.
 
 ## Desarrollo
-1. Entierra las diez muestras en la caja.
-2. Mantén la tierra ligeramente húmeda.
-3. Desentierra cada muestra una vez a la semana.
-4. Observa y registra qué tan descompuesta está.
-5. Reflexiona: ¿Cuánto tiempo crees que tardará tu basura en descomponerse?
+1. Enterrá las diez muestras en la caja.
+2. Mantené la tierra ligeramente húmeda.
+3. Desenterrá cada muestra una vez a la semana.
+4. Observá y registrá qué tan descompuesta está.
+5. Reflexioná: ¿Cuánto tiempo creés que tardará tu basura en descomponerse?
 
 ## Cierre
-1. Comparte tus resultados con el grupo.
-2. Discute: ¿Qué materiales se descomponen más rápido?
+1. Compartí tus resultados con el grupo.
+2. Discutí: ¿Qué materiales se descomponen más rápido?
 3. Pregunta final: ¿Cómo afecta la descomposición a la biodiversidad del suelo?
 
 ## Texto original completo de la actividad

@@ -3,7 +3,7 @@ title: "Celebración por el Suelo"
 duration: "Evento de 1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/celebracion-por-el-suelo/"
-description: "Organiza un día dedicado al suelo con actividades y juegos para tu comunidad."
+description: "Organizá un día dedicado al suelo con actividades y juegos para tu comunidad."
 summary: "Celebración del Día del Suelo."
 
 author:
@@ -147,19 +147,19 @@ rama_rovers:
 # ¡Celebración por el Suelo!
 
 ## Resumen
-Organiza un día divertido dedicado al suelo con actividades, juegos y concienciación para tu comunidad.
+Organizá un día divertido dedicado al suelo con actividades, juegos y concienciación para tu comunidad.
 
 ## Preparación
-1. Elige una fecha (idealmente 5 de diciembre, Día Mundial del Suelo).
-2. Prepara carteles, volantes y materiales.
-3. Organiza juegos y actividades.
-4. Prepara bocadillos con etiquetas sobre el rol del suelo.
+1. Elegí una fecha (idealmente 5 de diciembre, Día Mundial del Suelo).
+2. Prepará carteles, volantes y materiales.
+3. Organizá juegos y actividades.
+4. Prepará bocadillos con etiquetas sobre el rol del suelo.
 
 ## Desarrollo
-1. **Planificación** (30 min): Diseña el evento.
-2. **Promoción** (20 min): Coloca volantes y publica en redes.
-3. **Evento** (2-4 horas): Lleva a cabo la celebración.
-4. **Evaluación** (15 min): Reflexiona sobre lo que funcionó.
+1. **Planificación** (30 min): Diseñá el evento.
+2. **Promoción** (20 min): Colocá volantes y publicá en redes.
+3. **Evento** (2-4 horas): Llevá a cabo la celebración.
+4. **Evaluación** (15 min): Reflexioná sobre lo que funcionó.
 
 ## Cierre
 - ¿Cómo respondió la comunidad?

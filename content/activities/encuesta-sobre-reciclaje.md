@@ -4,8 +4,8 @@ title: "Encuesta sobre reciclaje en tu comunidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/encuesta-sobre-reciclaje/"
-description: "Realiza una encuesta a al menos 100 personas sobre sus hábitos de reciclaje y presenta tus hallazgos a las autoridades locales."
-summary: "Investiga los hábitos de reciclaje de tu comunidad."
+description: "Realizá una encuesta a al menos 100 personas sobre sus hábitos de reciclaje y presentá tus hallazgos a las autoridades locales."
+summary: "Investigá los hábitos de reciclaje de tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,24 +164,24 @@ translation_notice:
 # ¡Encuesta sobre reciclaje en tu comunidad!
 
 ## Resumen
-Realiza una encuesta a al menos 100 personas en tu vecindario sobre sus hábitos de reciclaje. Compila y analiza los resultados, y luego presenta tus hallazgos a las autoridades locales.
+Realizá una encuesta a al menos 100 personas en tu vecindario sobre sus hábitos de reciclaje. Compilá y analizá los resultados, y luego presenta tus hallazgos a las autoridades locales.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Diseña el cuestionario con las preguntas.
-3. Prepara los materiales para registrar respuestas.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Diseñá el cuestionario con las preguntas.
+3. Prepará los materiales para registrar respuestas.
 
 ## Desarrollo
 
 ### Parte I - Diseñar la encuesta
-Crea un cuestionario con preguntas como:
+Creá un cuestionario con preguntas como:
 
-1. ¿Reciclas residuos plásticos?
+1. ¿Reciclás residuos plásticos?
    - [ ] Sí
    - [ ] No
    - [ ] A veces
 
-2. Si no reciclas, ¿por qué no?
+2. Si no reciclás, ¿por qué no?
    - [ ] No sé cómo hacerlo
    - [ ] No creo que realmente se recicle
    - [ ] Me da pereza
@@ -193,24 +193,24 @@ Crea un cuestionario con preguntas como:
    - [ ] Otro (explicar): ________________
 
 ### Parte II - Realizar la encuesta
-Encuesta a al menos 100 personas. Puedes hacerlo:
+Encuesta a al menos 100 personas. Podés hacerlo:
 - En persona (calle, centro comercial, parque)
 - Por teléfono
 - En redes sociales
 
 ### Parte III - Analizar los resultados
-Compila y analiza los datos:
+Compilá y analizá los datos:
 - ¿Cuántas personas reciclan?
 - ¿Qué las detiene?
 - ¿Qué ayudaría a más personas a reciclar?
 
 ### Parte IV - Presentar hallazgos
-Contacta a las autoridades municipales con tus resultados y sugerencias para mejorar el reciclaje en tu comunidad.
+Contactá a las autoridades municipales con tus resultados y sugerencias para mejorar el reciclaje en tu comunidad.
 
 ## Cierre
 1. ¿Qué fue lo que más te sorprendió de los resultados?
-2. ¿Qué cambio crees que ayudaría más a aumentar el reciclaje?
-3. ¿Cómo puedes seguir involucrándote en este tema?
+2. ¿Qué cambio creés que ayudaría más a aumentar el reciclaje?
+3. ¿Cómo podés seguir involucrándote en este tema?
 
 ## Texto original completo de la actividad
 

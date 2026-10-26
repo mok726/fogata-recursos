@@ -4,7 +4,7 @@ title: "Mensaje de Video"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/mensaje-de-video/"
-description: "Graba un video para difundir un mensaje sobre la importancia de acabar con el hambre."
+description: "Grabá un video para difundir un mensaje sobre la importancia de acabar con el hambre."
 summary: "Creación de video sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -173,23 +173,23 @@ rama_rovers:
 # Mensaje de Video
 
 ## Resumen
-Graba un video para difundir un mensaje sobre la importancia de acabar con el hambre.
+Grabá un video para difundir un mensaje sobre la importancia de acabar con el hambre.
 
 ## Preparación
-1. Piensa en el mensaje que quieres compartir.
-2. Escribe un guión para tu video.
-3. Prepara la cámara o teléfono.
+1. Pensá en el mensaje que querés compartir.
+2. Escribí un guión para tu video.
+3. Prepará la cámara o teléfono.
 
 ## Desarrollo
-1. **Guión** (15 min): Escribe el guión de tu video.
-2. **Grabación** (20 min): Graba tu video.
-3. **Edición** (15 min): Edita el video si es posible.
-4. **Difusión** (10 min): Comparte el video con tu comunidad.
-5. **Envío** (5 min): Envía el video a YUNGA y a 1BillionHungry.
+1. **Guión** (15 min): Escribí el guión de tu video.
+2. **Grabación** (20 min): Grabá tu video.
+3. **Edición** (15 min): Editá el video si es posible.
+4. **Difusión** (10 min): Compartí el video con tu comunidad.
+5. **Envío** (5 min): Enviá el video a YUNGA y a 1BillionHungry.
 
 ## Cierre
 - ¿Qué mensaje quisiste transmitir?
-- ¿Cómo crees que tu video puede ayudar a crear conciencia?
+- ¿Cómo creés que tu video puede ayudar a crear conciencia?
 - ¿Qué compromiso adquieres para seguir difundiendo mensajes importantes?
 
 ---

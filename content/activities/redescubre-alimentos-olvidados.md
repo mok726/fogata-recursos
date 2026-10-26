@@ -4,7 +4,7 @@ title: "Redescubre Alimentos Olvidados"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/redescubre-alimentos-olvidados/"
-description: "Descubre alimentos tradicionales que tus abuelos comían y que hoy están olvidados."
+description: "Descubrí alimentos tradicionales que tus abuelos comían y que hoy están olvidados."
 summary: "Redescubrimiento de alimentos tradicionales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,18 +164,18 @@ rama_rovers:
 # Redescubre Alimentos Olvidados
 
 ## Resumen
-Descubre alimentos tradicionales que tus abuelos comían y que hoy están olvidados.
+Descubrí alimentos tradicionales que tus abuelos comían y que hoy están olvidados.
 
 ## Preparación
-1. Pregunta a tus padres o abuelos qué comían cuando eran jóvenes.
-2. Averigua dónde conseguían esos alimentos.
-3. Prepara material para registrar la información.
+1. Preguntá a tus padres o abuelos qué comían cuando eran jóvenes.
+2. Averiguá dónde conseguían esos alimentos.
+3. Prepará material para registrar la información.
 
 ## Desarrollo
-1. **Entrevista** (20 min): Habla con tus padres o abuelos.
-2. **Investigación** (15 min): Investiga sobre los alimentos mencionados.
-3. **Comparación** (15 min): Compara con los alimentos actuales.
-4. **Presentación** (15 min): Comparte lo aprendido con el grupo.
+1. **Entrevista** (20 min): Hablá con tus padres o abuelos.
+2. **Investigación** (15 min): Investigá sobre los alimentos mencionados.
+3. **Comparación** (15 min): Compará con los alimentos actuales.
+4. **Presentación** (15 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué alimentos olvidados descubriste?

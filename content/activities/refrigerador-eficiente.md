@@ -3,7 +3,7 @@ title: "Heladera eficiente"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/refrigerador-eficiente/"
-description: "Aprende a instalar y mantener tu heladera para ahorrar energía."
+description: "Aprendé a instalar y mantener tu heladera para ahorrar energía."
 summary: "Eficiencia energética de la heladera."
 
 author:
@@ -99,7 +99,7 @@ accessibility: []
 competencies:
   - Eficiencia energética
   - Responsabilidad
-  - Ayuda doméstica
+  - Ayudá doméstica
 
 activity_type:
   - Servicio a los demás
@@ -114,7 +114,7 @@ category:
 skills:
   - Eficiencia energética
   - Responsabilidad
-  - Ayuda doméstica
+  - Ayudá doméstica
 
 scout_values:
   - Sencillez y Austeridad
@@ -143,21 +143,21 @@ rama_rovers:
 # ¡Heladera eficiente!
 
 ## Resumen
-Ayuda a tus padres a instalar y mantener la heladera para ahorrar energía.
+Ayudá a tus padres a instalar y mantener la heladera para ahorrar energía.
 
 ## Preparación
-- Habla con tus padres sobre el proyecto.
-- Aprende sobre la temperatura correcta de la heladera.
+- Hablá con tus padres sobre el proyecto.
+- Aprendé sobre la temperatura correcta de la heladera.
 
 ## Desarrollo
-1. **Instalación** (15 min): Asegúrate de que esté bien instalado.
+1. **Instalación** (15 min): Asegurate de que esté bien instalado.
 2. **Descongelación** (15 min): Descongela regularmente.
-3. **Temperatura** (10 min): Mantén la temperatura a 5°C.
+3. **Temperatura** (10 min): Mantené la temperatura a 5°C.
 4. **Reflexión** (5 min): ¿Cómo ahorra energía?
 
 ## Cierre
 - ¿Por qué es importante la temperatura de la heladera?
-- ¿Cómo ahorras energía con una heladera eficiente?
+- ¿Cómo ahorrás energía con una heladera eficiente?
 
 ---
 ## Texto original completo de la actividad

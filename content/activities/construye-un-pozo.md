@@ -1,9 +1,9 @@
 ---
-title: "Construye un Pozo"
+title: "Construí un Pozo"
 duration: "Proyecto de recaudación"
 layout: "layouts/activity.njk"
 permalink: "/activities/construye-un-pozo/"
-description: "Investiga organizaciones benéficas de agua y organiza una recaudación de fondos para un proyecto."
+description: "Investigá organizaciones benéficas de agua y organizá una recaudación de fondos para un proyecto."
 summary: "Recaudación de fondos para proyectos de agua."
 
 author:
@@ -146,22 +146,22 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Construye un Pozo!
+# ¡Construí un Pozo!
 
 ## Resumen
-Investiga organizaciones benéficas que trabajan por el agua y organiza un evento para recaudar fondos para un proyecto.
+Investigá organizaciones benéficas que trabajan por el agua y organizá un evento para recaudar fondos para un proyecto.
 
 ## Preparación
-1. Investiga organizaciones benéficas de agua.
-2. Elige un proyecto que te emocione.
-3. Planifica un evento de recaudación.
+1. Investigá organizaciones benéficas de agua.
+2. Elegí un proyecto que te emocione.
+3. Planificá un evento de recaudación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Conoce organizaciones y proyectos.
-2. **Selección** (10 min): Elige un proyecto.
-3. **Organización** (30 min): Planifica el evento.
-4. **Evento** (2-3 horas): Lleva a cabo la recaudación.
-5. **Donación** (15 min): Envía los fondos recaudados.
+1. **Investigación** (20 min): Conocé organizaciones y proyectos.
+2. **Selección** (10 min): Elegí un proyecto.
+3. **Organización** (30 min): Planificá el evento.
+4. **Evento** (2-3 horas): Llevá a cabo la recaudación.
+5. **Donación** (15 min): Enviá los fondos recaudados.
 
 ## Cierre
 - ¿Qué proyecto elegiste y por qué?

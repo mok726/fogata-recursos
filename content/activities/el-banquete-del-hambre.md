@@ -4,7 +4,7 @@ title: "El Banquete del Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-banquete-del-hambre/"
-description: "Organiza un 'Banquete del Hambre' donde los participantes reciben comidas según diferentes niveles de ingreso para reflexionar sobre la desigualdad."
+description: "Organizá un 'Banquete del Hambre' donde los participantes reciben comidas según diferentes niveles de ingreso para reflexionar sobre la desigualdad."
 summary: "Simulación de la desigualdad alimentaria."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,23 +170,23 @@ rama_rovers:
 # El Banquete del Hambre
 
 ## Resumen
-Organiza un 'Banquete del Hambre' donde los participantes reciben comidas según diferentes niveles de ingreso para reflexionar sobre la desigualdad.
+Organizá un 'Banquete del Hambre' donde los participantes reciben comidas según diferentes niveles de ingreso para reflexionar sobre la desigualdad.
 
 ## Preparación
-1. Invita a los miembros de tu grupo asegurándote de que los detalles sean una sorpresa.
-2. Prepara boletos para asignar roles (ingresos altos, medios, bajos).
-3. Calcula cuántos boletos de cada tipo necesitas usando las fórmulas: 15% para ingresos altos, 35% para ingresos medios, 50% para ingresos bajos.
-4. Prepara las comidas: comida rica para el 15%, arroz con fréjoles para el 35%, arroz blanco y agua para el 50%.
+1. Invitá a los miembros de tu grupo asegurándote de que los detalles sean una sorpresa.
+2. Prepará boletos para asignar roles (ingresos altos, medios, bajos).
+3. Calculá cuántos boletos de cada tipo necesitás usando las fórmulas: 15% para ingresos altos, 35% para ingresos medios, 50% para ingresos bajos.
+4. Prepará las comidas: comida rica para el 15%, arroz con fréjoles para el 35%, arroz blanco y agua para el 50%.
 
 ## Desarrollo
 1. **Llegada** (5 min): Los invitados llegan y eligen un boleto al azar.
 2. **Comida** (15 min): Cada invitado recibe la comida correspondiente a su nivel de ingreso.
 3. **Reflexión** (20 min): Cada invitado habla sobre su experiencia.
-4. **Discusión** (15 min): Usa la experiencia como punto de partida para hablar sobre por qué existe el hambre y qué podemos hacer para cambiar las cosas.
+4. **Discusión** (15 min): Usá la experiencia como punto de partida para hablar sobre por qué existe el hambre y qué podemos hacer para cambiar las cosas.
 
 ## Cierre
 - ¿Cómo te sentiste al recibir la comida que te tocó?
 - ¿Qué aprendiste sobre la desigualdad en el acceso a los alimentos?
-- ¿Qué acciones puedes tomar para ayudar a reducir el hambre en el mundo?
+- ¿Qué acciones podés tomar para ayudar a reducir el hambre en el mundo?
 
 ---

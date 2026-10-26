@@ -159,23 +159,23 @@ rama_rovers:
 # ¡Fibras naturales y sintéticas!
 
 ## Resumen
-Mira las etiquetas de tu ropa. Haz una lista de todos los diferentes materiales que has encontrado en tu ropa. Divídelos en dos categorías, natural y sintético. ¿Cuáles son las características de las fibras naturales y las de las fibras sintéticas? ¿Dónde se cultivan las fibras naturales? ¿Cuál dura más, la tela natural o sintética? ¿Por qué los fabricantes de ropa combinan diferentes tipos de fibras?
+Mirá las etiquetas de tu ropa. Hacé una lista de todos los diferentes materiales que has encontrado en tu ropa. Dividilos en dos categorías, natural y sintético. ¿Cuáles son las características de las fibras naturales y las de las fibras sintéticas? ¿Dónde se cultivan las fibras naturales? ¿Cuál dura más, la tela natural o sintética? ¿Por qué los fabricantes de ropa combinan diferentes tipos de fibras?
 
 ## Preparación
-1. Reúne diferentes prendas de ropa.
-2. Prepara papel y lápices para registrar.
-3. Organiza los grupos de trabajo.
+1. Reuní diferentes prendas de ropa.
+2. Prepará papel y lápices para registrar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Revisa las etiquetas de tu ropa.
-2. Haz una lista de los materiales encontrados.
-3. Clasifica en naturales y sintéticos.
-4. Investiga: ¿Cuáles son las características de cada tipo?
-5. Investiga: ¿Dónde se cultivan las fibras naturales?
+1. Revisá las etiquetas de tu ropa.
+2. Hacé una lista de los materiales encontrados.
+3. Clasificá en naturales y sintéticos.
+4. Investigá: ¿Cuáles son las características de cada tipo?
+5. Investigá: ¿Dónde se cultivan las fibras naturales?
 
 ## Cierre
-1. Escribe un relato breve o cuéntale a tus profesores o dirigentes tus hallazgos.
-2. Reflexiona sobre el impacto ambiental de la ropa.
+1. Escribí un relato breve o contale a tus profesores o dirigentes tus hallazgos.
+2. Reflexioná sobre el impacto ambiental de la ropa.
 3. Pregunta final: ¿Qué tipo de fibra es más sostenible y por qué?
 
 ## Texto original completo de la actividad

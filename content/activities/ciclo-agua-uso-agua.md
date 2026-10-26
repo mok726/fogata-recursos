@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciclo-agua-uso-agua/"
 description: "Los participantes crean una historia creativa sobre el viaje de una gota de agua a través del ciclo del agua, mostrando cómo se mueve entre diferentes estados y lugares."
-summary: "Crea la historia de una gota de agua."
+summary: "Creá la historia de una gota de agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -169,22 +169,22 @@ translation_notice:
 El agua que encontramos en nuestro mundo siempre está siendo reciclada a través de nuestro medio ambiente. Se mueve constantemente a través del aire, animales, plantas y suelo. Este movimiento del agua se llama el ciclo del agua. En esta actividad, los participantes exploran cómo el ciclo del agua y el uso del agua están interconectados, creando una historia creativa sobre el viaje de una gota de agua.
 
 ## Preparación
-1. Prepara los materiales de escritura y dibujo.
-2. Repasa el ciclo del agua y el sistema de distribución de agua con tu grupo antes de la actividad.
+1. Prepará los materiales de escritura y dibujo.
+2. Repasá el ciclo del agua y el sistema de distribución de agua con tu grupo antes de la actividad.
 
 ## Desarrollo
 
 ### Paso 1: Repaso del ciclo del agua y uso del agua
-1. Recuerda a tu grupo el ciclo del agua y también las formas en que el agua llega a sus hogares para que puedan usarla en sus actividades cotidianas.
+1. Recordá a tu grupo el ciclo del agua y también las formas en que el agua llega a sus hogares para que puedan usarla en sus actividades cotidianas.
 2. Pregunta: ¿Cómo se relacionan estos dos conceptos? ¿Cómo ayuda el ciclo del agua a limpiar el agua que usamos?
 
 ### Paso 2: Creación de la historia
-3. Divide a los participantes en grupos pequeños. Explica que crearán una historia de "Las Aventuras de una Gota de Agua" que muestre sus propias ideas sobre lo que podría ser una buena aventura para una gota de agua.
-4. Asegúrate de que los participantes muestren cómo el agua pasa de un lugar a otro y en qué fases (líquido, gas, sólido). Por ejemplo, podrían comenzar su historia cuando comienza a llover, o podrían preferir comenzar cuando abren la canilla de agua en casa.
-5. Pídeles que incluyan un dibujo de su gota de agua.
+3. Dividí a los participantes en grupos pequeños. Explicá que crearán una historia de "Las Aventuras de una Gota de Agua" que muestre sus propias ideas sobre lo que podría ser una buena aventura para una gota de agua.
+4. Asegurate de que los participantes muestren cómo el agua pasa de un lugar a otro y en qué fases (líquido, gas, sólido). Por ejemplo, podrían comenzar su historia cuando comienza a llover, o podrían preferir comenzar cuando abren la canilla de agua en casa.
+5. Pediles que incluyan un dibujo de su gota de agua.
 
 ### Paso 3: Presentación
-6. Pide a cada grupo que lea su historia en voz alta.
+6. Pedí a cada grupo que lea su historia en voz alta.
 
 ## Cierre
 - ¿Cuál fue tu historia favorita? ¿Por qué?

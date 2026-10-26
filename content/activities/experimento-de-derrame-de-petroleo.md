@@ -162,23 +162,23 @@ rama_rovers:
 # ¡Experimento de derrame de petróleo!
 
 ## Resumen
-La contaminación puede afectar a la biodiversidad. Haz un experimento para averiguar cómo un derrame de petróleo puede dañar las plumas de un ave.
+La contaminación puede afectar a la biodiversidad. Hacé un experimento para averiguar cómo un derrame de petróleo puede dañar las plumas de un ave.
 
 ## Preparación
-1. Reúne dos plumas naturales.
-2. Prepara aceite y agua.
-3. Organiza el espacio de trabajo.
+1. Reuní dos plumas naturales.
+2. Prepará aceite y agua.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Toma dos plumas.
-2. Utiliza una bola de algodón para frotar una de ellas con aceite.
-3. Riega un poco de agua encima de cada pluma.
-4. Observa: ¿Qué sucede?
-5. Reflexiona: ¿Cómo crees que un derrame de petróleo afecte a las aves?
+1. Tomá dos plumas.
+2. Utilizá una bola de algodón para frotar una de ellas con aceite.
+3. Regá un poco de agua encima de cada pluma.
+4. Observá: ¿Qué sucede?
+5. Reflexioná: ¿Cómo creés que un derrame de petróleo afecte a las aves?
 
 ## Cierre
-1. Comparte tus respuestas con tu grupo.
-2. Reflexiona sobre el impacto de la contaminación en la biodiversidad.
+1. Compartí tus respuestas con tu grupo.
+2. Reflexioná sobre el impacto de la contaminación en la biodiversidad.
 3. Pregunta final: ¿Cómo podemos prevenir los derrames de petróleo?
 
 ## Texto original completo de la actividad

@@ -4,8 +4,8 @@ title: "Manualidades con plástico reciclado"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/manualidades-con-plastico/"
-description: "Organiza una feria de manualidades en tu escuela donde crees nuevos productos a partir de artículos plásticos que normalmente tirarías."
-summary: "Transforma plástico en arte y objetos útiles."
+description: "Organizá una feria de manualidades en tu escuela donde creés nuevos productos a partir de artículos plásticos que normalmente tirarías."
+summary: "Transformá plástico en arte y objetos útiles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -162,17 +162,17 @@ translation_notice:
 # ¡Manualidades con plástico reciclado!
 
 ## Resumen
-Organiza una feria de manualidades en tu escuela donde crees nuevos productos a partir de artículos plásticos que normalmente tirarías. ¡Transforma basura en tesoros!
+Organizá una feria de manualidades en tu escuela donde creés nuevos productos a partir de artículos plásticos que normalmente tirarías. ¡Transformá basura en tesoros!
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Reúne artículos plásticos para reutilizar.
-3. Prepara materiales de manualidades.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Reuní artículos plásticos para reutilizar.
+3. Prepará materiales de manualidades.
 
 ## Desarrollo
 
 ### Parte I - Recolectar
-Pide a los participantes que traigan artículos plásticos que normalmente tirarían:
+Pedí a los participantes que traigan artículos plásticos que normalmente tirarían:
 - Botellas de plástico
 - Envases de alimentos
 - Tapas

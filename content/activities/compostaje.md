@@ -163,23 +163,23 @@ rama_rovers:
 # ¡Compostaje!
 
 ## Resumen
-Aprende acerca del compost (elaboración de abono orgánico). ¿Qué es? ¿Cuáles criaturas son las trabajadoras en el compost? ¿Qué puedes y qué no puedes poner en un compostador? ¿Cuáles son los beneficios del compostaje?
+Aprendé acerca del compost (elaboración de abono orgánico). ¿Qué es? ¿Cuáles criaturas son las trabajadoras en el compost? ¿Qué podés y qué no podés poner en un compostador? ¿Cuáles son los beneficios del compostaje?
 
 ## Preparación
-1. Investiga sobre compostaje.
-2. Elige el tipo de compostador.
-3. Reúne materiales.
+1. Investigá sobre compostaje.
+2. Elegí el tipo de compostador.
+3. Reuní materiales.
 
 ## Desarrollo
-1. Aprende sobre el compostaje.
-2. Identifica las criaturas que trabajan en el compost.
-3. Construye tu compostador.
-4. Añade materiales orgánicos.
-5. Mantén el compost.
+1. Aprendé sobre el compostaje.
+2. Identificá las criaturas que trabajan en el compost.
+3. Construí tu compostador.
+4. Añadí materiales orgánicos.
+5. Mantené el compost.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona sobre los beneficios del compostaje.
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná sobre los beneficios del compostaje.
 3. Pregunta final: ¿Cómo ayuda el compostaje a la biodiversidad?
 
 ## Texto original completo de la actividad

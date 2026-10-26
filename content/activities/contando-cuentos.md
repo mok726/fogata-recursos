@@ -162,19 +162,19 @@ rama_rovers:
 En la p. 62 de esta insignia aprendiste sobre Omar Faruk, un hombre pobre de Bangladesh que tuvo que dejar su hogar y mudarse a la ciudad porque las inundaciones arruinaron sus cultivos.
 
 ## Preparación
-1. Lee la historia de Omar Faruk en la insignia.
-2. Prepara ejemplos de personas afectadas por el cambio climático.
-3. Organiza los grupos de trabajo.
+1. Leé la historia de Omar Faruk en la insignia.
+2. Prepará ejemplos de personas afectadas por el cambio climático.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Inventa tu propia historia sobre una persona o una familia que ha sido afectada por una situación extrema causada por el cambio climático.
-2. Piensa: ¿Qué les pasó y cómo lidiaron con esa situación?
-3. Ilustra tu historia con dibujos.
-4. Comparte tu historia con tus padres y otros miembros de tu familia.
+1. Inventá tu propia historia sobre una persona o una familia que ha sido afectada por una situación extrema causada por el cambio climático.
+2. Pensá: ¿Qué les pasó y cómo lidiaron con esa situación?
+3. Ilustrá tu historia con dibujos.
+4. Compartí tu historia con tus padres y otros miembros de tu familia.
 
 ## Cierre
-1. Comparte tu historia con el grupo.
-2. Reflexiona: ¿Cómo podemos ayudar a las personas afectadas por el cambio climático?
+1. Compartí tu historia con el grupo.
+2. Reflexioná: ¿Cómo podemos ayudar a las personas afectadas por el cambio climático?
 3. Pregunta final: ¿Qué aprendiste al ponerte en el lugar de alguien afectado por el cambio climático?
 
 ## Texto original completo de la actividad

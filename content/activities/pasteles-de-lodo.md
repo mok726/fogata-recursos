@@ -3,7 +3,7 @@ title: "Tortas de Barro"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasteles-de-lodo/"
-description: "Experimenta creando tortas de barro y ladrillos de barro."
+description: "Experimentá creando tortas de barro y ladrillos de barro."
 summary: "Creación de tortas de barro."
 
 author:
@@ -139,18 +139,18 @@ rama_rovers: []
 # ¡Tortas de Barro!
 
 ## Resumen
-Experimenta con tierra y agua para hacer tortas de barro y ladrillos.
+Experimentá con tierra y agua para hacer tortas de barro y ladrillos.
 
 ## Preparación
-1. Prepara tierra sin piedras ni ramas.
-2. Prepara agua y un área para trabajar.
-3. Consigue bolsas para la tierra (opcional).
+1. Prepará tierra sin piedras ni ramas.
+2. Prepará agua y un área para trabajar.
+3. Conseguí bolsas para la tierra (opcional).
 
 ## Desarrollo
-1. **Exploración** (10 min): Experimenta añadiendo diferentes cantidades de agua.
-2. **Creación** (15 min): Haz tortas de barro y ladrillos.
-3. **Secado** (10 min): Deja secar al sol por unas horas.
-4. **Prueba** (10 min): Construye algo con los ladrillos.
+1. **Exploración** (10 min): Experimentá añadiendo diferentes cantidades de agua.
+2. **Creación** (15 min): Hacé tortas de barro y ladrillos.
+3. **Secado** (10 min): Dejá secar al sol por unas horas.
+4. **Prueba** (10 min): Construí algo con los ladrillos.
 
 ## Cierre
 - ¿Qué pasó cuando añadiste más agua?

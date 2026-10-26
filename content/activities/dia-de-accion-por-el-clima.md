@@ -167,26 +167,26 @@ rama_rovers:
 # ¡Día de acción por el clima!
 
 ## Resumen
-Organiza un Día de Acción por el Clima en tu comunidad. Obtén autorización para usar un espacio en un parque público o en una plaza para el evento.
+Organizá un Día de Acción por el Clima en tu comunidad. Obtené autorización para usar un espacio en un parque público o en una plaza para el evento.
 
 ## Preparación
-1. Obtén autorización para usar un espacio público.
-2. Prepara carteles con datos y cifras sobre el clima.
-3. Prepara materiales para la pared de 'promesas'.
-4. Prepara una prueba sobre el clima y un premio.
-5. Organiza una ceremonia para plantar árboles (opcional).
+1. Obtené autorización para usar un espacio público.
+2. Prepará carteles con datos y cifras sobre el clima.
+3. Prepará materiales para la pared de 'promesas'.
+4. Prepará una prueba sobre el clima y un premio.
+5. Organizá una ceremonia para plantar árboles (opcional).
 
 ## Desarrollo
-1. Coloca carteles que ilustren datos y cifras relacionados con el clima.
-2. Incluye acciones tangibles que las personas pueden tomar.
-3. Designa una pared de 'promesas' con notas adhesivas.
-4. Haz una prueba sobre el clima y premia al participante más entendido.
-5. Incluye una ceremonia para plantar árboles si es posible.
+1. Colocá carteles que ilustren datos y cifras relacionados con el clima.
+2. Incluí acciones tangibles que las personas pueden tomar.
+3. Designá una pared de 'promesas' con notas adhesivas.
+4. Hacé una prueba sobre el clima y premia al participante más entendido.
+5. Incluí una ceremonia para plantar árboles si es posible.
 
 ## Cierre
-1. Toma muchas fotografías y vídeos.
-2. Comparte lo que hiciste con otros en tu escuela o biblioteca.
-3. Envía un correo electrónico a yunga@fao.org.
+1. Tomá muchas fotografías y vídeos.
+2. Compartí lo que hiciste con otros en tu escuela o biblioteca.
+3. Enviá un correo electrónico a yunga@fao.org.
 4. Pregunta final: ¿Qué impacto tuvo tu evento en la comunidad?
 
 ## Texto original completo de la actividad

@@ -173,21 +173,21 @@ rama_rovers:
 # ¡Juegos en línea!
 
 ## Resumen
-Explora una página web de biodiversidad como www.biodiversity911.org o www.eol.org. Juega dos juegos en línea. Por ejemplo, aprende cómo se llaman las especies al jugar un juego de emparejamiento en www.eol.org/games/identify_the_image. Visita un mapa interactivo. Toma un concurso en línea.
+Explorá una página web de biodiversidad como www.biodiversity911.org o www.eol.org. Jugá dos juegos en línea. Por ejemplo, aprendé cómo se llaman las especies al jugar un juego de emparejamiento en www.eol.org/games/identify_the_image. Visitá un mapa interactivo. Tomá un concurso en línea.
 
 ## Preparación
-1. Identifica páginas web con juegos de biodiversidad.
-2. Prepara computadoras con acceso a internet.
-3. Organiza los grupos de trabajo.
+1. Identificá páginas web con juegos de biodiversidad.
+2. Prepará computadoras con acceso a internet.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Explora páginas web de biodiversidad.
-2. Juega dos juegos en línea.
-3. Toma un concurso en línea si está disponible.
+1. Explorá páginas web de biodiversidad.
+2. Jugá dos juegos en línea.
+3. Tomá un concurso en línea si está disponible.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué aprendiste jugando?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué aprendiste jugando?
 3. Pregunta final: ¿Qué juego te gustó más y por qué?
 
 ## Texto original completo de la actividad

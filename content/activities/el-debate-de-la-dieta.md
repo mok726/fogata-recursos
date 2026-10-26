@@ -4,8 +4,8 @@ title: "El Debate de la Dieta"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-debate-de-la-dieta/"
-description: "Debate sobre la influencia de los medios de comunicación en los trastornos alimenticios y la imagen corporal."
-summary: "Debate sobre imagen corporal y medios."
+description: "Debatí sobre la influencia de los medios de comunicación en los trastornos alimenticios y la imagen corporal."
+summary: "Debatí sobre imagen corporal y medios."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -115,7 +115,7 @@ competencies:
   - Debate
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Sensibilización
 
@@ -162,17 +162,17 @@ rama_rovers:
 # El Debate de la Dieta
 
 ## Resumen
-Debate sobre la influencia de los medios de comunicación en los trastornos alimenticios y la imagen corporal.
+Debatí sobre la influencia de los medios de comunicación en los trastornos alimenticios y la imagen corporal.
 
 ## Preparación
-1. Investiga sobre la influencia de los medios en la imagen corporal.
-2. Piensa en argumentos a favor y en contra.
-3. Prepara el espacio para el debate.
+1. Investigá sobre la influencia de los medios en la imagen corporal.
+2. Pensá en argumentos a favor y en contra.
+3. Prepará el espacio para el debate.
 
 ## Desarrollo
-1. **Introducción** (10 min): Presenta el tema del debate.
-2. **Debate** (30 min): Divide el grupo en dos lados y debate.
-3. **Reflexión** (15 min): Reflexiona sobre los argumentos presentados.
+1. **Introducción** (10 min): Presentá el tema del debate.
+2. **Debate** (30 min): Dividí el grupo en dos lados y debate.
+3. **Reflexión** (15 min): Reflexioná sobre los argumentos presentados.
 4. **Conclusiones** (10 min): Resume las ideas principales.
 
 ## Cierre

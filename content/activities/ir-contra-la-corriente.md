@@ -4,8 +4,8 @@ title: "Ir contra la corriente"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/ir-contra-la-corriente/"
-description: "Reflexiona sobre cómo sería tu vida sin tres actividades que dependen de la energía y pruébalo por un día."
-summary: "Experimenta un día con menos energía."
+description: "Reflexioná sobre cómo sería tu vida sin tres actividades que dependen de la energía y probalo por un día."
+summary: "Experimentá un día con menos energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,12 +160,12 @@ translation_notice:
 # ¡Ir contra la corriente!
 
 ## Resumen
-Piensa en todas las formas en que usas energía cada día. Si tuvieras que sacrificar solo tres actividades que dependen de la energía, ¿cómo afectaría tu vida? Pruébalo por un día.
+Pensá en todas las formas en que usás energía cada día. Si tuvieras que sacrificar solo tres actividades que dependen de la energía, ¿cómo afectaría tu vida? Probalo por un día.
 
 ## Preparación
-1. Piensa en todas las actividades que haces en un día que dependen de la energía.
-2. Elige tres que dejarías de hacer.
-3. Prepara un diario para registrar tu experiencia.
+1. Pensá en todas las actividades que hacés en un día que dependen de la energía.
+2. Elegí tres que dejarías de hacer.
+3. Prepará un diario para registrar tu experiencia.
 
 ## Desarrollo
 
@@ -183,14 +183,14 @@ Piensa en todas las formas en que usas energía cada día. Si tuvieras que sacri
 Durante un día, evita esas tres actividades.
 
 ### Parte III - Diario
-Lleva un diario de cómo te afectó:
+Llevá un diario de cómo te afectó:
 
 - ¿Qué extrañaste más?
 - ¿Qué extrañaste menos?
 - ¿Qué hiciste en su lugar?
 
 ### Parte IV - Compartir
-Compara tus respuestas con las de tus amigos.
+Compará tus respuestas con las de tus amigos.
 
 ## Cierre
 1. ¿Qué actividad fue más difícil de dejar?

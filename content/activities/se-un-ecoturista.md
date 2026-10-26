@@ -3,7 +3,7 @@ title: "Sé un Ecoturista"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-ecoturista/"
-description: "Investiga el ecoturismo y diseña tu propia actividad de ecoturismo."
+description: "Investigá el ecoturismo y diseñá tu propia actividad de ecoturismo."
 summary: "Diseño de actividad de ecoturismo."
 
 author:
@@ -144,18 +144,18 @@ rama_rovers:
 # ¡Sé un Ecoturista!
 
 ## Resumen
-Investiga ejemplos de ecoturismo y diseña tu propia actividad para explorar la naturaleza.
+Investigá ejemplos de ecoturismo y diseñá tu propia actividad para explorar la naturaleza.
 
 ## Preparación
-1. Investiga sobre el ecoturismo en tu país.
-2. Diseña una actividad de ecoturismo.
-3. Prepara el equipo necesario.
+1. Investigá sobre el ecoturismo en tu país.
+2. Diseñá una actividad de ecoturismo.
+3. Prepará el equipo necesario.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre ecoturismo local.
-2. **Diseño** (15 min): Crea tu propia actividad.
-3. **Prueba** (20 min): Realiza la actividad con amigos y familia.
-4. **Reflexión** (5 min): Explica cómo los suelos son esenciales.
+1. **Investigación** (20 min): Aprendé sobre ecoturismo local.
+2. **Diseño** (15 min): Creá tu propia actividad.
+3. **Prueba** (20 min): Realizá la actividad con amigos y familia.
+4. **Reflexión** (5 min): Explicá cómo los suelos son esenciales.
 
 ## Cierre
 - ¿Cómo ayuda el ecoturismo a proteger los suelos?

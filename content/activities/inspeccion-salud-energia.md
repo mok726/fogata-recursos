@@ -4,8 +4,8 @@ title: "Inspección de salud y contaminación"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-salud-energia/"
-description: "Prepara un cuestionario sobre contaminación y salud, y si es posible, invita a un experto a hablar sobre el tema."
-summary: "Aprende sobre contaminación y salud."
+description: "Prepará un cuestionario sobre contaminación y salud, y si es posible, invitá a un experto a hablar sobre el tema."
+summary: "Aprendé sobre contaminación y salud."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,17 +166,17 @@ translation_notice:
 # ¡Inspección de salud y contaminación!
 
 ## Resumen
-Prepara un cuestionario sobre contaminación y salud para tu familia o amigos. ¡Quizás se sorprendan con las respuestas! Si es posible, invita a un experto para que hable sobre el tema.
+Prepará un cuestionario sobre contaminación y salud para tu familia o amigos. ¡Quizás se sorprendan con las respuestas! Si es posible, invitá a un experto para que hable sobre el tema.
 
 ## Preparación
-1. Lee la información sobre contaminación y salud.
-2. Investiga datos sobre contaminación en tu área.
-3. Prepara preguntas para el cuestionario.
+1. Leé la información sobre contaminación y salud.
+2. Investigá datos sobre contaminación en tu área.
+3. Prepará preguntas para el cuestionario.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga datos sobre contaminación y salud:
+Investigá datos sobre contaminación y salud:
 
 **Preguntas guía:**
 - ¿Dónde está la peor contaminación del aire?
@@ -186,7 +186,7 @@ Investiga datos sobre contaminación y salud:
 **Fuente sugerida:** www.who.int/mediacentre/factsheets/fs292/en/index.html
 
 ### Parte II - Cuestionario
-Crea un cuestionario para tu familia o amigos:
+Creá un cuestionario para tu familia o amigos:
 
 **Ejemplos de preguntas:**
 1. ¿Cuál es la principal causa de contaminación del aire?
@@ -194,12 +194,12 @@ Crea un cuestionario para tu familia o amigos:
 3. ¿Qué es la lluvia ácida?
 
 ### Parte III - Experto (opcional)
-Invita a un experto en salud o medio ambiente para que hable con tu grupo.
+Invitá a un experto en salud o medio ambiente para que hable con tu grupo.
 
 ## Cierre
 1. ¿Qué dato te sorprendió más?
 2. ¿Cómo afecta la contaminación a tu comunidad?
-3. ¿Cómo puedes protegerte de la contaminación?
+3. ¿Cómo podés protegerte de la contaminación?
 
 ## Texto original completo de la actividad
 

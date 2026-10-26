@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz un Collage"
+title: "Hacé un Collage"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-un-collage/"
-description: "Crea un collage de una dieta sana y respetuosa con el medio ambiente usando revistas viejas."
+description: "Creá un collage de una dieta sana y respetuosa con el medio ambiente usando revistas viejas."
 summary: "Collage de dieta sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,21 +164,21 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva y comprensible.
 ---
 
-# Haz un Collage
+# Hacé un Collage
 
 ## Resumen
-Crea un collage de una dieta sana y respetuosa con el medio ambiente usando revistas viejas.
+Creá un collage de una dieta sana y respetuosa con el medio ambiente usando revistas viejas.
 
 ## Preparación
-1. Consigue revistas viejas.
-2. Prepara tijeras, pegamento y papel.
-3. Piensa en alimentos saludables y sostenibles.
+1. Conseguí revistas viejas.
+2. Prepará tijeras, pegamento y papel.
+3. Pensá en alimentos saludables y sostenibles.
 
 ## Desarrollo
-1. **Recolección** (15 min): Busca imágenes de alimentos en las revistas.
-2. **Creación** (20 min): Pega las imágenes en un collage.
-3. **Explicación** (10 min): Explica por qué elegiste esos alimentos.
-4. **Presentación** (10 min): Comparte tu collage con el grupo.
+1. **Recolección** (15 min): Buscá imágenes de alimentos en las revistas.
+2. **Creación** (20 min): Pegá las imágenes en un collage.
+3. **Explicación** (10 min): Explicá por qué elegiste esos alimentos.
+4. **Presentación** (10 min): Compartí tu collage con el grupo.
 
 ## Cierre
 - ¿Qué alimentos elegiste para tu collage?

@@ -3,7 +3,7 @@ title: "Observación del medidor de electricidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-del-medidor-de-electricidad/"
-description: "Observa el medidor de electricidad y reduce tu consumo."
+description: "Observá el medidor de electricidad y reducí tu consumo."
 summary: "Monitoreo de consumo eléctrico."
 
 author:
@@ -145,18 +145,18 @@ rama_rovers:
 # ¡Observación del medidor de electricidad!
 
 ## Resumen
-Observa el medidor de electricidad y determina cuánto puedes reducir tu consumo.
+Observá el medidor de electricidad y determiná cuánto podés reducir tu consumo.
 
 ## Preparación
-1. Pregunta a tus padres dónde está el medidor.
-2. Prepara papel y lapiceras para registrar.
-3. Asegura supervisión adulta: la electricidad es peligrosa, solo se mira el medidor, sin tocarlo ni abrir el tablero.
+1. Preguntá a tus padres dónde está el medidor.
+2. Prepará papel y lapiceras para registrar.
+3. Asegurá supervisión adulta: la electricidad es peligrosa, solo se mira el medidor, sin tocarlo ni abrir el tablero.
 
 ## Desarrollo
-1. **Observación** (1 semana): Registra las unidades consumidas.
-2. **Análisis** (15 min): ¿Cuánto consumes? ¿Cuánto puedes reducir?
-3. **Acción** (continua): Apaga aparatos en espera, desenchufa.
-4. **Compartir** (10 min): Habla con amigos para que cambien hábitos.
+1. **Observación** (1 semana): Registrá las unidades consumidas.
+2. **Análisis** (15 min): ¿Cuánto consumís? ¿Cuánto podés reducir?
+3. **Acción** (continua): Apagá aparatos en espera, desenchufa.
+4. **Compartir** (10 min): Hablá con amigos para que cambien hábitos.
 
 ## Cierre
 - ¿Cuántas unidades consumiste?

@@ -4,8 +4,8 @@ title: "Aventuras al Aire Libre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-al-aire-libre/"
-description: "Investiga actividades recreativas en el bosque. Elige tres actividades y crea una guía ilustrada. Lleva a cabo al menos una."
-summary: "Guía ilustrada de actividades recreativas forestales."
+description: "Investigá actividades recreativas en el bosque. Elegí tres actividades y creá una guía ilustrada. Llevá a cabo al menos una."
+summary: "Guiá ilustrada de actividades recreativas forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,18 +166,18 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Aventuras al Aire Libre
 
 ## Resumen
-Investiga actividades recreativas en el bosque. Elige tres actividades y crea una guía ilustrada. Lleva a cabo al menos una de estas actividades.
+Investigá actividades recreativas en el bosque. Elegí tres actividades y creá una guía ilustrada. Llevá a cabo al menos una de estas actividades.
 
 ## Preparación
-1. Escribe todas las ideas de actividades recreativas en el bosque (acampar, caminatas, escalar, cocinar, etc.).
-2. Elige tres actividades para tu guía.
-3. Prepara el material para la guía ilustrada.
+1. Escribí todas las ideas de actividades recreativas en el bosque (acampar, caminatas, escalar, cocinar, etc.).
+2. Elegí tres actividades para tu guía.
+3. Prepará el material para la guía ilustrada.
 
 ## Desarrollo
-1. **Investigación** (15 min): Anota todas las actividades recreativas posibles en el bosque.
-2. **Selección** (10 min): Elige tres actividades para tu guía.
-3. **Creación** (30 min): Crea una guía ilustrada con las cosas necesarias para cada actividad.
-4. **Ejecución** (variable): Lleva a cabo al menos una de las actividades.
+1. **Investigación** (15 min): Anotá todas las actividades recreativas posibles en el bosque.
+2. **Selección** (10 min): Elegí tres actividades para tu guía.
+3. **Creación** (30 min): Creá una guía ilustrada con las cosas necesarias para cada actividad.
+4. **Ejecución** (variable): Llevá a cabo al menos una de las actividades.
 
 ## Cierre
 - ¿Qué actividades recreativas te gustaron más?

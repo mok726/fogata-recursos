@@ -3,7 +3,7 @@ title: "Productos reciclables"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/productos-reciclables/"
-description: "Averigua qué productos son reciclables en tu vecindario."
+description: "Averiguá qué productos son reciclables en tu vecindario."
 summary: "Investigación de reciclaje local."
 
 author:
@@ -142,18 +142,18 @@ rama_rovers:
 # ¡Productos reciclables!
 
 ## Resumen
-Averigua qué productos son reciclables en tu vecindario y crea letreros para tu casa y escuela.
+Averiguá qué productos son reciclables en tu vecindario y creá letreros para tu casa y escuela.
 
 ## Preparación
-1. Investiga sobre productos reciclables.
-2. Prepara materiales para letreros.
-3. Identifica contenedores de reciclaje.
+1. Investigá sobre productos reciclables.
+2. Prepará materiales para letreros.
+3. Identificá contenedores de reciclaje.
 
 ## Desarrollo
-1. **Investigación** (20 min): Averigua qué se puede reciclar.
-2. **Letreros** (20 min): Crea dibujos o letreros.
-3. **Acción** (10 min): Coloca los letreros en casa y escuela.
-4. **Compartir** (10 min): Comparte lo aprendido con el grupo.
+1. **Investigación** (20 min): Averiguá qué se puede reciclar.
+2. **Letreros** (20 min): Creá dibujos o letreros.
+3. **Acción** (10 min): Colocá los letreros en casa y escuela.
+4. **Compartir** (10 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué productos son reciclables en tu vecindario?

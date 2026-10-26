@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-fuentes-contaminacion/"
 description: "Los participantes exploran el entorno de su escuela o lugar de reunión para identificar posibles fuentes de contaminación puntuales y no puntuales que afectan su cuenca."
-summary: "Identifica fuentes de contaminación en tu entorno."
+summary: "Identificá fuentes de contaminación en tu entorno."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,27 +170,27 @@ translation_notice:
 Las cuencas pueden ser afectadas por dos tipos de contaminación: fuente puntual y fuente no puntual. La contaminación de **fuente puntual** es fácil de identificar, ya que se puede rastrear directamente hasta su origen. La contaminación de **fuente no puntual** es mucho más difícil de identificar. La contaminación por escorrentía de aguas pluviales es un tipo de contaminación de fuente no puntual. En esta actividad, los participantes exploran el entorno de su escuela o lugar de reunión para identificar posibles fuentes de contaminación.
 
 ## Preparación
-1. Prepara bolsas y guantes para la recolección.
-2. Explica las precauciones de seguridad antes de salir.
+1. Prepará bolsas y guantes para la recolección.
+2. Explicá las precauciones de seguridad antes de salir.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a buscar posibles fuentes de contaminación alrededor de los terrenos de su escuela o lugar de reunión.
-2. Recuerda a tu grupo que la basura puede llegar a un cuerpo de agua a veces por error y otras veces debido al descuido de las personas.
+1. Explicá a tu grupo que van a buscar posibles fuentes de contaminación alrededor de los terrenos de su escuela o lugar de reunión.
+2. Recordá a tu grupo que la basura puede llegar a un cuerpo de agua a veces por error y otras veces debido al descuido de las personas.
 
 ### Paso 2: Exploración
-3. Lleva a los participantes al exterior y pídeles que identifiquen posibles fuentes de contaminación, puntuales y no puntuales.
-4. Puedes pedir a los participantes que recolecten muestras de basura o contaminantes que encuentren alrededor de la escuela o lugar de reunión.
+3. Llevá a los participantes al exterior y pediles que identifiquen posibles fuentes de contaminación, puntuales y no puntuales.
+4. Podés pedir a los participantes que recolecten muestras de basura o contaminantes que encuentren alrededor de la escuela o lugar de reunión.
 
 ### Paso 3: Análisis
-5. Lleva las muestras de vuelta al salón y pregunta a los participantes cómo la introducción de esos elementos en la cuenca local podría afectar negativamente al cuerpo de agua donde terminarán.
+5. Llevá las muestras de vuelta al salón y pregunta a los participantes cómo la introducción de esos elementos en la cuenca local podría afectar negativamente al cuerpo de agua donde terminarán.
 6. ¿Cómo podría esta situación afectar a la vida silvestre o a las personas allí?
 
-## ¡Toma las precauciones de seguridad necesarias y supervisa a tu grupo para asegurarte de que nadie recoja artículos peligrosos!
+## ¡Tomá las precauciones de seguridad necesarias y supervisa a tu grupo para asegurarte de que nadie recoja artículos peligrosos!
 
 ## Cierre
-- ¿Cuál fue la peor fuente de contaminación que encontraste? Explica por qué.
+- ¿Cuál fue la peor fuente de contaminación que encontraste? Explicá por qué.
 - ¿Cómo podría la contaminación de la cuenca afectar a la vida acuática?
 - ¿Hay alguna fuente de contaminación en tu vecindario? ¿Cuál podría ser una posible solución?
 

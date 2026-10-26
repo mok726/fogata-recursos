@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz una Nube"
+title: "Hacé una Nube"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-una-nube/"
-description: "Crea una nube dentro de una botella para entender el ciclo del agua y la condensación."
+description: "Creá una nube dentro de una botella para entender el ciclo del agua y la condensación."
 summary: "Experimento para crear una nube."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,25 +164,25 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Haz una Nube
+# Hacé una Nube
 
 ## Resumen
-Crea una nube dentro de una botella para entender el ciclo del agua y la condensación.
+Creá una nube dentro de una botella para entender el ciclo del agua y la condensación.
 
 ## Preparación
-1. Añade agua tibia a la botella hasta que se llene cerca de un tercio, luego cierra la tapa.
-2. Prepara los fósforos.
-3. Asegura la supervisión de un adulto.
+1. Añadí agua tibia a la botella hasta que se llene cerca de un tercio, luego cerrá la tapa.
+2. Prepará los fósforos.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Paso 1 - Evaporación** (5 min): Añade agua tibia a la botella hasta que se llene cerca de un tercio, luego cierra la tapa. Esta agua tibia empezará a evaporarse (especialmente si colocas la botella en el Sol). Esto añadirá vapor de agua al aire en la botella, el primer ingrediente para hacer nubes.
+1. **Paso 1 - Evaporación** (5 min): Añadí agua tibia a la botella hasta que se llene cerca de un tercio, luego cerrá la tapa. Esta agua tibia empezará a evaporarse (especialmente si colocás la botella en el Sol). Esto añadirá vapor de agua al aire en la botella, el primer ingrediente para hacer nubes.
 2. **Paso 2 - Calentamiento y enfriamiento** (5 min): Aprieta la botella y luego libérala. El apretón representa la atmósfera calentándose y liberarla representa la atmósfera que se enfría. Si aparecen gotitas de agua en la botella (esto se llama condensación), sacúdela para deshacerte de ellas.
-3. **Paso 3 - Partículas** (5 min): Quita la tapa de la botella. Con mucho cuidado enciende un fósforo y sostenlo cerca de la abertura de la botella durante unos segundos. Luego bota el fósforo dentro de la botella y rápidamente vuelve a colocar la tapa para atrapar el humo dentro. El humo está hecho de muchas partículas pequeñas, como polvo. Estas partículas son el segundo ingrediente para hacer nubes.
-4. **Paso 4 - Formación de la nube** (5 min): Una vez más, lentamente aprieta con fuerza la botella y luego libérala. ¿Qué sucede esta vez? Deberías de ver una nube formándose dentro cuando la aprietas, pero cuando la sueltas, ¡la nube desaparece!
-5. **Registro** (10 min): Dibuja y describe lo que observaste.
+3. **Paso 3 - Partículas** (5 min): Quitá la tapa de la botella. Con mucho cuidado enciende un fósforo y sostenlo cerca de la abertura de la botella durante unos segundos. Luego bota el fósforo dentro de la botella y rápidamente vuelve a colocar la tapa para atrapar el humo dentro. El humo está hecho de muchas partículas pequeñas, como polvo. Estas partículas son el segundo ingrediente para hacer nubes.
+4. **Paso 4 - Formación de la nube** (5 min): Una vez más, lentamente aprieta con fuerza la botella y luego libérala. ¿Qué sucede esta vez? Deberías de ver una nube formándose dentro cuando la apretás, pero cuando la soltás, ¡la nube desaparece!
+5. **Registro** (10 min): Dibujá y describí lo que observaste.
 
 ## Cierre
-- ¿Qué ingredientes necesitas para hacer una nube?
+- ¿Qué ingredientes necesitás para hacer una nube?
 - ¿Cómo se relaciona este experimento con el ciclo del agua?
 - ¿Qué compromiso adquieres para cuidar el agua?
 

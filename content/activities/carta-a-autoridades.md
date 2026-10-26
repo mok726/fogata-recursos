@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Carta a autoridades!
 
 ## Resumen
-Escribe a las autoridades locales acerca de un asunto sobre la biodiversidad que te preocupe. No olvides ofrecer algunas soluciones.
+Escribí a las autoridades locales acerca de un asunto sobre la biodiversidad que te preocupe. No olvides ofrecer algunas soluciones.
 
 ## Preparación
-1. Identifica un asunto de biodiversidad en tu comunidad.
-2. Prepara posibles soluciones.
-3. Organiza los grupos de trabajo.
+1. Identificá un asunto de biodiversidad en tu comunidad.
+2. Prepará posibles soluciones.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Escribe una carta a las autoridades locales.
-2. Explica el problema que te preocupa.
-3. Ofrece soluciones concretas.
-4. Envía la carta.
+1. Escribí una carta a las autoridades locales.
+2. Explicá el problema que te preocupa.
+3. Ofrecé soluciones concretas.
+4. Enviá la carta.
 
 ## Cierre
-1. Comparte tu carta con el grupo.
-2. Reflexiona sobre la importancia de la participación ciudadana.
+1. Compartí tu carta con el grupo.
+2. Reflexioná sobre la importancia de la participación ciudadana.
 3. Pregunta final: ¿Cómo podemos involucrar a otros en la defensa de la biodiversidad?
 
 ## Texto original completo de la actividad

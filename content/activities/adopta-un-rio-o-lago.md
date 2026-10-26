@@ -1,9 +1,9 @@
 ---
-title: "Adopta un río o lago"
+title: "Adoptá un río o lago"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopta-un-rio-o-lago/"
-description: "Adopta un río, lago u otra área, límpialo y monitorea su recuperación."
+description: "Adoptá un río, lago u otra área, limpialo y monitoreá su recuperación."
 summary: "Adopción de área natural."
 
 author:
@@ -141,20 +141,20 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# ¡Adopta un río o lago!
+# ¡Adoptá un río o lago!
 
 ## Resumen
-Adopta un río, lago u otra área, límpialo y monitorea su recuperación.
+Adoptá un río, lago u otra área, limpialo y monitoreá su recuperación.
 
 ## Preparación
-1. Identifica un área para adoptar.
-2. Organiza la limpieza.
-3. Prepara materiales para monitoreo.
+1. Identificá un área para adoptar.
+2. Organizá la limpieza.
+3. Prepará materiales para monitoreo.
 
 ## Desarrollo
-1. **Limpieza** (1-2 horas): Limpia el área.
-2. **Monitoreo** (continua): Observa el progreso de recuperación.
-3. **Registro** (continua): Documenta los cambios.
+1. **Limpieza** (1-2 horas): Limpiá el área.
+2. **Monitoreo** (continua): Observá el progreso de recuperación.
+3. **Registro** (continua): Documentá los cambios.
 4. **Reflexión** (20 min): ¿Qué aprendiste?
 
 ## Cierre

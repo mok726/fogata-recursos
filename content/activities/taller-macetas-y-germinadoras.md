@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-macetas-y-germinadoras/"
 description: "Taller donde los participantes aprenden a reutilizar vasos descartables y tachitos plásticos como macetas germinadoras para cultivar hierbas y flores."
-summary: "Convierte descartables en macetas."
+summary: "Convertí descartables en macetas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -173,9 +173,9 @@ Aprendemos a reutilizar vasos descartables y tachitos plásticos como macetas ge
 - Promover la conciencia ambiental a través del reciclaje creativo.
 
 ## Preparación
-1. Reúne vasos descartables y tachitos plásticos limpios y secos.
-2. Prepara semillas, tierra, humus y piedritas.
-3. Prepara palitas, guantes, marcadores indelebles y tijeras o cortantes.
+1. Reuní vasos descartables y tachitos plásticos limpios y secos.
+2. Prepará semillas, tierra, humus y piedritas.
+3. Prepará palitas, guantes, marcadores indelebles y tijeras o cortantes.
 
 ## Desarrollo
 

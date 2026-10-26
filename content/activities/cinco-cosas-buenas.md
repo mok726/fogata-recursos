@@ -4,7 +4,7 @@ title: "Cinco Cosas Buenas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cinco-cosas-buenas/"
-description: "Enumera cinco razones por las cuales los bosques son importantes para la naturaleza. Haz un dibujo sobre la importancia de los bosques."
+description: "Enumerá cinco razones por las cuales los bosques son importantes para la naturaleza. Hacé un dibujo sobre la importancia de los bosques."
 summary: "Reflexión y dibujo sobre la importancia de los bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -156,17 +156,17 @@ rama_rovers: []  # No aplica (actividad nivel 1)
 # Cinco Cosas Buenas
 
 ## Resumen
-Enumera cinco razones por las cuales los bosques son importantes para la naturaleza. Haz un dibujo sobre la importancia de los bosques.
+Enumerá cinco razones por las cuales los bosques son importantes para la naturaleza. Hacé un dibujo sobre la importancia de los bosques.
 
 ## Preparación
-1. Reflexiona sobre la importancia de los bosques.
-2. Prepara material para dibujo.
+1. Reflexioná sobre la importancia de los bosques.
+2. Prepará material para dibujo.
 
 ## Desarrollo
-1. **Reflexión** (15 min): Piensa en cinco razones por las que los bosques son importantes.
-2. **Escritura** (10 min): Escribe tus cinco razones.
-3. **Dibujo** (20 min): Haz un dibujo que muestre la importancia de los bosques.
-4. **Compartir** (10 min): Comparte tu dibujo y razones con el grupo.
+1. **Reflexión** (15 min): Pensá en cinco razones por las que los bosques son importantes.
+2. **Escritura** (10 min): Escribí tus cinco razones.
+3. **Dibujo** (20 min): Hacé un dibujo que muestre la importancia de los bosques.
+4. **Compartir** (10 min): Compartí tu dibujo y razones con el grupo.
 
 ## Cierre
 - ¿Qué razones te parecieron más importantes?

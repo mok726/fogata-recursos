@@ -170,7 +170,7 @@ Aprendemos a reusar papel de diarios o revistas para hacer tejidos (canastos, et
 - Fomentar la creatividad a través del reciclaje.
 
 ## Preparación
-1. Reúne papel de diario o revistas, plasticola, tijeras, regla y broches.
+1. Reuní papel de diario o revistas, plasticola, tijeras, regla y broches.
 
 ## Desarrollo
 

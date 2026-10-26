@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-de-humedal/"
 description: "Los participantes construyen un modelo de humedal para aprender sus funciones: control de inundaciones, purificación de agua y hábitat para la vida silvestre."
-summary: "Construye un modelo de humedal."
+summary: "Construí un modelo de humedal."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -183,48 +183,48 @@ translation_notice:
 Los humedales son hábitats únicos que se encuentran en la interfase entre los hábitats terrestres y acuáticos. Presentan una increíble mezcla de especies, condiciones e interacciones. Los suelos de los humedales, conocidos como suelos hídricos, están saturados o incluso sumergidos total o parcialmente durante el año. Los humedales ayudan a filtrar el sedimento y los contaminantes del agua, ayudan a prevenir la erosión del suelo y a menudo reducen los daños por inundaciones. En esta actividad, los participantes construyen un modelo de humedal para aprender sobre sus funciones.
 
 ## Preparación
-1. Reúne todos los materiales necesarios.
-2. Prepara imágenes de diferentes tipos de humedales (pantanos de agua dulce y salada, ciénagas, manglares y turberas).
-3. Prepara un frasco con agua turbia para el experimento de purificación.
+1. Reuní todos los materiales necesarios.
+2. Prepará imágenes de diferentes tipos de humedales (pantanos de agua dulce y salada, ciénagas, manglares y turberas).
+3. Prepará un frasco con agua turbia para el experimento de purificación.
 
 ## Desarrollo
 
 ### Parte 1: Construcción del modelo base
-1. Extiende una capa de arcilla para modelar en la mitad de la bandeja para asar para representar la tierra. Deja la otra mitad de la bandeja vacía para representar un lago u otro cuerpo de agua, como un río o el océano. Dale forma a la arcilla para que descienda gradualmente hacia el cuerpo de agua.
-2. Alisa la arcilla a lo largo de los lados de la bandeja para sellar los bordes. También puedes formar arroyos sinuosos en la arcilla que desemboquen en el cuerpo de agua.
-3. Corta un trozo de alfombra para interior/exterior que quepa completamente a lo largo del borde de la arcilla. La alfombra representa el **amortiguador del humedal** entre la tierra seca y el agua abierta.
+1. Extendé una capa de arcilla para modelar en la mitad de la bandeja para asar para representar la tierra. Dejá la otra mitad de la bandeja vacía para representar un lago u otro cuerpo de agua, como un río o el océano. Dale forma a la arcilla para que descienda gradualmente hacia el cuerpo de agua.
+2. Alisá la arcilla a lo largo de los lados de la bandeja para sellar los bordes. También podés formar arroyos sinuosos en la arcilla que desemboquen en el cuerpo de agua.
+3. Cortá un trozo de alfombra para interior/exterior que quepa completamente a lo largo del borde de la arcilla. La alfombra representa el **amortiguador del humedal** entre la tierra seca y el agua abierta.
 
 ### Parte 2: Características de los humedales
-4. Pide a tu grupo que enumere las características de un humedal. Escribe sus respuestas en la pizarra y realiza una encuesta grupal para decidir qué características podrían aplicarse a todos los humedales.
-5. Muestra a tu grupo imágenes de diferentes tipos de humedales. Pídeles que piensen en los animales que podrían vivir en los diferentes tipos de humedales.
+4. Pedí a tu grupo que enumere las características de un humedal. Escribí sus respuestas en la pizarra y realizá una encuesta grupal para decidir qué características podrían aplicarse a todos los humedales.
+5. Mostrá a tu grupo imágenes de diferentes tipos de humedales. Pediles que piensen en los animales que podrían vivir en los diferentes tipos de humedales.
 
 ### Parte 3: Demostración de funciones del humedal
 
 **Control de inundaciones:**
-6. Coloca el trozo de alfombra en el área del humedal. Vierte agua lentamente sobre la tierra. ¿Qué sucede? Parte del agua es frenada por el humedal (alfombra) y el exceso fluye lentamente hacia el cuerpo de agua.
-7. Retira la alfombra y vierte la misma cantidad de agua en el mismo lugar y a la misma velocidad. Pide a tu grupo que note la diferencia. El agua debería llenar el cuerpo de agua mucho más rápido que antes. Esto sucede porque ya no está siendo amortiguada por el humedal.
-8. Explica que la mayoría de los humedales son cuencas poco profundas que recolectan agua y reducen su velocidad. Este proceso de desaceleración ayuda a reducir las inundaciones y también ayuda a prevenir la erosión del suelo.
+6. Colocá el trozo de alfombra en el área del humedal. Verté agua lentamente sobre la tierra. ¿Qué sucede? Parte del agua es frenada por el humedal (alfombra) y el exceso fluye lentamente hacia el cuerpo de agua.
+7. Retirá la alfombra y verté la misma cantidad de agua en el mismo lugar y a la misma velocidad. Pedí a tu grupo que note la diferencia. El agua debería llenar el cuerpo de agua mucho más rápido que antes. Esto sucede porque ya no está siendo amortiguada por el humedal.
+8. Explicá que la mayoría de los humedales son cuencas poco profundas que recolectan agua y reducen su velocidad. Este proceso de desaceleración ayuda a reducir las inundaciones y también ayuda a prevenir la erosión del suelo.
 
 **Purificación del agua:**
-9. Vacía el agua del modelo y vuelve a colocar el trozo de alfombra en el humedal. Vierte un poco de agua turbia del frasco sobre la tierra. Pide a tu grupo que compare el agua que llega al cuerpo de agua con el agua del frasco.
-10. Explica que las partículas de tierra quedan atrapadas por la alfombra, haciendo que el agua en el cuerpo de agua sea mucho más limpia.
-11. Retira la alfombra, vacía el agua y repite el experimento. ¿Qué sucede sin el humedal? La densa red de raíces de las plantas en un humedal ayuda a atrapar el sedimento y algunos tipos de contaminantes. Sin un humedal, cantidades excesivas de sedimento y contaminantes pueden terminar en lagos, ríos y otros cuerpos de agua.
+9. Vaciá el agua del modelo y vuelve a colocar el trozo de alfombra en el humedal. Verté un poco de agua turbia del frasco sobre la tierra. Pedí a tu grupo que compare el agua que llega al cuerpo de agua con el agua del frasco.
+10. Explicá que las partículas de tierra quedan atrapadas por la alfombra, haciendo que el agua en el cuerpo de agua sea mucho más limpia.
+11. Retirá la alfombra, vaciá el agua y repetí el experimento. ¿Qué sucede sin el humedal? La densa red de raíces de las plantas en un humedal ayuda a atrapar el sedimento y algunos tipos de contaminantes. Sin un humedal, cantidades excesivas de sedimento y contaminantes pueden terminar en lagos, ríos y otros cuerpos de agua.
 
 ### Parte 4: Modelo de humedal completo
-12. Explica a tu grupo que ahora van a hacer un modelo de humedal completo. En lugar de usar alfombra para representar el humedal, usarán espuma floral (o esponjas). Los participantes pueden colocar plantas y animales en el modelo usando palillos.
+12. Explicá a tu grupo que ahora van a hacer un modelo de humedal completo. En lugar de usar alfombra para representar el humedal, usarán espuma floral (o esponjas). Los participantes pueden colocar plantas y animales en el modelo usando palillos.
 13. Pueden hacer un pantano de agua dulce, un pantano salado, una ciénaga de agua dulce, un manglar o una turbera. Decoren el modelo según el tipo de humedal que elijan.
 
 **Ideas para la decoración:**
 - Para las espadañas, usa hisopos de algodón pintados de marrón, trozos de pasto o palillos pintados de verde con pequeños trozos de arcilla marrón pegados en la parte superior.
-- Usa agujas de pino largas para los juncos.
-- Moldea criaturas del humedal con arcilla o recórtalas de papel y pégalas a palillos.
-- Haz árboles pegando trozos de esponja verde en ramitas.
+- Usá agujas de pino largas para los juncos.
+- Moldeá criaturas del humedal con arcilla o recortalas de papel y pegalas a palillos.
+- Hacé árboles pegando trozos de esponja verde en ramitas.
 
-14. ¡Ahora puedes repetir los experimentos para verlos en acción nuevamente!
+14. ¡Ahora podés repetir los experimentos para verlos en acción nuevamente!
 
 ## Cierre
 - ¿Alguna vez has estado en un humedal? ¿Qué te gustó de él?
-- ¿Qué otras funciones de los humedales puedes mencionar?
+- ¿Qué otras funciones de los humedales podés mencionar?
 - ¿Por qué es importante preservar estos hábitats?
 
 ## Texto original completo de la actividad

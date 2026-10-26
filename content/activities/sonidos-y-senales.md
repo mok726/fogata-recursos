@@ -4,7 +4,7 @@ title: "Sonidos y Señales"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/sonidos-y-senales/"
-description: "Realiza una misión de observación temprano en la mañana en un bosque. Escucha sonidos de animales, busca huellas y pistas."
+description: "Realizá una misión de observación temprano en la mañana en un bosque. Escuchá sonidos de animales, buscá huellas y pistas."
 summary: "Observación de animales del bosque a través de sonidos y rastros."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -115,7 +115,7 @@ accessibility:
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
   - Observación
-  - Escucha activa
+  - Escuchá activa
   - Identificación de rastros
 
 activity_type:
@@ -130,7 +130,7 @@ category:
 
 skills:
   - Observación
-  - Escucha
+  - Escuchá
   - Conciencia ambiental
 
 # ========== VALORES SCOUT Y MÉTODO SCOUT ==========
@@ -160,18 +160,18 @@ rama_rovers: []  # No aplica (actividad nivel 1)
 # Sonidos y Señales
 
 ## Resumen
-Realiza una misión de observación temprano en la mañana en un bosque. Escucha sonidos de animales, busca huellas y pistas.
+Realizá una misión de observación temprano en la mañana en un bosque. Escuchá sonidos de animales, buscá huellas y pistas.
 
 ## Preparación
-1. Visita un bosque muy temprano en la mañana.
-2. Prepara cuaderno para notas.
-3. Asegura la supervisión de un adulto.
+1. Visitá un bosque muy temprano en la mañana.
+2. Prepará cuaderno para notas.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Escucha** (15 min): Escucha los sonidos de los animales y trata de imitarlos.
-2. **Observación** (15 min): Busca huellas de animales en el piso.
-3. **Pistas** (15 min): Busca pelo, plumas, heces y otras pistas.
-4. **Registro** (10 min): Observa el hábitat y registra tus hallazgos.
+1. **Escucha** (15 min): Escuchá los sonidos de los animales y tratá de imitarlos.
+2. **Observación** (15 min): Buscá huellas de animales en el piso.
+3. **Pistas** (15 min): Buscá pelo, plumas, heces y otras pistas.
+4. **Registro** (10 min): Observá el hábitat y registrá tus hallazgos.
 
 ## Cierre
 - ¿Qué sonidos de animales escuchaste?

@@ -4,7 +4,7 @@ title: "Choque de Culturas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/choque-de-culturas/"
-description: "Investiga los hábitos alimenticios de otros países y culturas, y compáralos con los tuyos."
+description: "Investigá los hábitos alimenticios de otros países y culturas, y comparalos con los tuyos."
 summary: "Comparación de hábitos alimenticios entre culturas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -118,7 +118,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -164,18 +164,18 @@ rama_rovers:
 # Choque de Culturas
 
 ## Resumen
-Investiga los hábitos alimenticios de otros países y culturas, y compáralos con los tuyos.
+Investigá los hábitos alimenticios de otros países y culturas, y comparalos con los tuyos.
 
 ## Preparación
-1. Investiga hábitos alimenticios en otros países y culturas.
-2. Habla con amigos de diferentes culturas para descubrir sus hábitos.
-3. Prepara material para compartir.
+1. Investigá hábitos alimenticios en otros países y culturas.
+2. Hablá con amigos de diferentes culturas para descubrir sus hábitos.
+3. Prepará material para compartir.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga hábitos alimenticios en otros países.
-2. **Comparación** (15 min): Compara horarios de comidas, tradiciones y preferencias.
-3. **Conversación** (20 min): Habla con amigos de diferentes culturas sobre sus hábitos.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (20 min): Investigá hábitos alimenticios en otros países.
+2. **Comparación** (15 min): Compará horarios de comidas, tradiciones y preferencias.
+3. **Conversación** (20 min): Hablá con amigos de diferentes culturas sobre sus hábitos.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué diferencias encontraste en los hábitos alimenticios?

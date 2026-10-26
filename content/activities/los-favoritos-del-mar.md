@@ -4,7 +4,7 @@ title: "Los Favoritos del Mar"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-favoritos-del-mar/"
-description: "Prepara una presentación sobre tu animal o criatura marina favorita."
+description: "Prepará una presentación sobre tu animal o criatura marina favorita."
 summary: "Presentación sobre un animal marino."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,18 +163,18 @@ rama_rovers:
 # Los Favoritos del Mar
 
 ## Resumen
-Prepara una presentación sobre tu animal o criatura marina favorita.
+Prepará una presentación sobre tu animal o criatura marina favorita.
 
 ## Preparación
-1. Elige un animal o criatura marina favorita.
-2. Investiga sobre el organismo (aspecto, distribución, abundancia, impacto humano).
-3. Prepara una presentación.
+1. Elegí un animal o criatura marina favorita.
+2. Investigá sobre el organismo (aspecto, distribución, abundancia, impacto humano).
+3. Prepará una presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga sobre tu animal marino favorito.
-2. **Preparación** (20 min): Crea una presentación con los datos.
-3. **Presentación** (15 min): Comparte tu presentación con el grupo.
-4. **Extensión** (opcional): Prepara un póster sobre especies marinas amenazadas.
+1. **Investigación** (25 min): Investigá sobre tu animal marino favorito.
+2. **Preparación** (20 min): Creá una presentación con los datos.
+3. **Presentación** (15 min): Compartí tu presentación con el grupo.
+4. **Extensión** (opcional): Prepará un póster sobre especies marinas amenazadas.
 
 ## Cierre
 - ¿Qué aprendiste sobre tu animal marino favorito?

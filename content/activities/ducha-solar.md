@@ -4,8 +4,8 @@ title: "Ducha solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/ducha-solar/"
-description: "Descubre el funcionamiento de una ducha solar y construye una propia siguiendo las instrucciones para tener agua caliente con energía solar."
-summary: "Construye una ducha de agua caliente solar."
+description: "Descubrí el funcionamiento de una ducha solar y construí una propia siguiendo las instrucciones para tener agua caliente con energía solar."
+summary: "Construí una ducha de agua caliente solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

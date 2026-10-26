@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-del-globo/"
 description: "Juego con un globo terráqueo para conectar productos cotidianos con los países de donde provienen."
-summary: "Conecta productos con sus países de origen."
+summary: "Conectá productos con sus países de origen."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,23 +160,23 @@ translation_notice:
 # ¡El juego del globo!
 
 ## Resumen
-Piensa en cómo estás conectado a otros países. ¿Dónde se hizo tu ropa? ¿De dónde viene tu comida? ¿De dónde viene tu energía? Juega y descúbrelo.
+Pensá en cómo estás conectado a otros países. ¿Dónde se hizo tu ropa? ¿De dónde viene tu comida? ¿De dónde viene tu energía? Jugá y descubrilo.
 
 ## Preparación
-1. Consigue un globo terráqueo inflable.
-2. Forma un círculo con el grupo.
-3. Piensa en tus conexiones con otros países.
+1. Conseguí un globo terráqueo inflable.
+2. Formá un círculo con el grupo.
+3. Pensá en tus conexiones con otros países.
 
 ## Desarrollo
 
 ### Parte I - Pensar
-Piensa en tus conexiones con otros países:
+Pensá en tus conexiones con otros países:
 
 **Preguntas guía:**
 - ¿Dónde se hizo tu ropa?
 - ¿De dónde viene tu comida?
 - ¿De dónde viene tu energía?
-- ¿De qué países vienen los productos que usas?
+- ¿De qué países vienen los productos que usás?
 
 ### Parte II - Jugar
 1. Párense en círculo.

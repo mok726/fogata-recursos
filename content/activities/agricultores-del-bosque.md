@@ -4,7 +4,7 @@ title: "Agricultores del Bosque"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/agricultores-del-bosque/"
-description: "Aprende sobre un grupo que cultive en los bosques. Comparte tus hallazgos de forma creativa."
+description: "Aprendé sobre un grupo que cultive en los bosques. Compartí tus hallazgos de forma creativa."
 summary: "Investigación sobre pueblos que cultivan en los bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -162,18 +162,18 @@ rama_rovers:
 # Agricultores del Bosque
 
 ## Resumen
-Aprende sobre un grupo que cultive en los bosques. Comparte tus hallazgos de forma creativa.
+Aprendé sobre un grupo que cultive en los bosques. Compartí tus hallazgos de forma creativa.
 
 ## Preparación
-1. Investiga sobre pueblos basados en el bosque que cultivan alimentos y crían animales.
-2. Elige un grupo para investigar en profundidad.
-3. Define el formato de presentación (modelo, tira cómica, novela ilustrada, etc.).
+1. Investigá sobre pueblos basados en el bosque que cultivan alimentos y crían animales.
+2. Elegí un grupo para investigar en profundidad.
+3. Definí el formato de presentación (modelo, tirá cómica, novela ilustrada, etc.).
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre el grupo elegido y su relación con el bosque.
-2. **Análisis** (15 min): Analiza cómo gestionan la biodiversidad y cultivan alimentos.
-3. **Creación** (25 min): Prepara tu presentación creativa.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Aprendé sobre el grupo elegido y su relación con el bosque.
+2. **Análisis** (15 min): Analizá cómo gestionan la biodiversidad y cultivan alimentos.
+3. **Creación** (25 min): Prepará tu presentación creativa.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los agricultores del bosque?

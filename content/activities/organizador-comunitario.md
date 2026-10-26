@@ -3,7 +3,7 @@ title: "Organizador comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizador-comunitario/"
-description: "Organiza un evento para elevar la conciencia pública sobre un aspecto local."
+description: "Organizá un evento para elevar la conciencia pública sobre un aspecto local."
 summary: "Organización comunitaria."
 
 author:
@@ -148,17 +148,17 @@ rama_rovers:
 # ¡Organizador comunitario!
 
 ## Resumen
-Organiza un evento para elevar la conciencia pública sobre un aspecto local determinado.
+Organizá un evento para elevar la conciencia pública sobre un aspecto local determinado.
 
 ## Preparación
-1. Define el objetivo específico.
-2. Haz pancartas y pósters.
-3. Contacta a medios locales.
+1. Definí el objetivo específico.
+2. Hacé pancartas y pósters.
+3. Contactá a medios locales.
 
 ## Desarrollo
-1. **Planificación** (30 min): Diseña el evento.
+1. **Planificación** (30 min): Diseñá el evento.
 2. **Promoción** (20 min): Publicita el evento.
-3. **Evento** (2-3 horas): Lleva a cabo el evento.
+3. **Evento** (2-3 horas): Llevá a cabo el evento.
 4. **Reflexión** (15 min): ¿Qué lograste?
 
 ## Cierre

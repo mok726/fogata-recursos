@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-gravedad/"
 description: "Demostración de energía potencial y cinética usando un carrito de juguete y una rampa para ver cómo la gravedad convierte una en otra."
-summary: "Descubre la energía potencial y cinética con un carrito."
+summary: "Descubrí la energía potencial y cinética con un carrito."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,14 +166,14 @@ translation_notice:
 Esta demostración te mostrará la diferencia entre energía potencial y energía cinética. Con un carrito de juguete y una rampa, verás cómo la gravedad convierte la energía almacenada en energía de movimiento.
 
 ## Preparación
-1. Coloca una rampa (tabla, cartón o superficie inclinada).
-2. Consigue un carrito de juguete pequeño (o una bola).
-3. Asegura la rampa para que no se mueva.
+1. Colocá una rampa (tabla, cartón o superficie inclinada).
+2. Conseguí un carrito de juguete pequeño (o una bola).
+3. Asegurá la rampa para que no se mueva.
 
 ## Desarrollo
 
 ### Parte I - Energía potencial
-Coloca el carrito en la parte superior de la rampa.
+Colocá el carrito en la parte superior de la rampa.
 
 En la cima de la rampa, el objeto tiene **energía potencial** (energía almacenada).
 
@@ -183,12 +183,12 @@ Dale un pequeño empujón al carrito para que ruede por la rampa.
 La fuerza del empujón y la gravedad convierten la energía potencial en **energía cinética** (energía de movimiento).
 
 ### Parte III - Experimentar
-Prueba con diferentes alturas:
+Probá con diferentes alturas:
 - ¿Qué pasa si la rampa es más alta?
 - ¿Qué pasa si el carrito es más pesado?
 
 ### Parte IV - Reflexionar
-Piensa en otros ejemplos de energía potencial y cinética en la vida cotidiana.
+Pensá en otros ejemplos de energía potencial y cinética en la vida cotidiana.
 
 **Ejemplos:**
 - Una pelota en la cima de una colina → energía potencial
@@ -199,7 +199,7 @@ Piensa en otros ejemplos de energía potencial y cinética en la vida cotidiana.
 ## Cierre
 1. ¿Dónde tenía el carrito energía potencial?
 2. ¿Dónde tenía energía cinética?
-3. ¿Qué otros ejemplos de energía potencial y cinética conoces?
+3. ¿Qué otros ejemplos de energía potencial y cinética conocés?
 
 ## Texto original completo de la actividad
 

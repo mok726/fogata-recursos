@@ -4,7 +4,7 @@ title: "Compras Sostenibles"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/compras-sostenibles/"
-description: "Evalúa las prácticas sostenibles en tu cocina y crea una lista de acciones para mejorar."
+description: "Evaluá las prácticas sostenibles en tu cocina y creá una lista de acciones para mejorar."
 summary: "Evaluación de prácticas sostenibles en la cocina."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Compras Sostenibles
 
 ## Resumen
-Evalúa las prácticas sostenibles en tu cocina y crea una lista de acciones para mejorar.
+Evaluá las prácticas sostenibles en tu cocina y creá una lista de acciones para mejorar.
 
 ## Preparación
-1. Revisa las costumbres de tu familia en la cocina.
-2. Observa el uso de energía, agua y envases.
-3. Prepara material para la lista.
+1. Revisá las costumbres de tu familia en la cocina.
+2. Observá el uso de energía, agua y envases.
+3. Prepará material para la lista.
 
 ## Desarrollo
-1. **Observación** (15 min): Observa las prácticas en la cocina.
-2. **Evaluación** (15 min): Identifica prácticas insostenibles (uso ineficiente de energía, lavar verduras bajo la canilla, etc.).
-3. **Lista** (15 min): Prepara una lista de acciones sostenibles.
-4. **Seguimiento** (10 min): Coloca la lista en un lugar vistoso.
-5. **Comparación** (15 min): Comparte tus resultados con el grupo.
+1. **Observación** (15 min): Observá las prácticas en la cocina.
+2. **Evaluación** (15 min): Identificá prácticas insostenibles (uso ineficiente de energía, lavar verduras bajo la canilla, etc.).
+3. **Lista** (15 min): Prepará una lista de acciones sostenibles.
+4. **Seguimiento** (10 min): Colocá la lista en un lugar vistoso.
+5. **Comparación** (15 min): Compartí tus resultados con el grupo.
 
 ## Cierre
 - ¿Cuáles son las prácticas menos sostenibles que observaste?

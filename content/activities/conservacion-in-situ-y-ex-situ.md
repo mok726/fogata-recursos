@@ -159,24 +159,24 @@ rama_rovers:
 # ¡Conservación in-situ y ex-situ!
 
 ## Resumen
-Aprende acerca las metas y los desafíos de la conservación in-situ y ex-situ. ¿Cuándo utilizarías cada tipo de conservación? Encuentra algunos ejemplos de cada tipo en tu área y/o país. Presenta tus hallazgos a tu grupo.
+Aprendé acerca las metas y los desafíos de la conservación in-situ y ex-situ. ¿Cuándo utilizarías cada tipo de conservación? Encontrá algunos ejemplos de cada tipo en tu área y/o país. Presentá tus hallazgos a tu grupo.
 
 ## Preparación
-1. Investiga sobre conservación in-situ y ex-situ.
-2. Prepara recursos y ejemplos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre conservación in-situ y ex-situ.
+2. Prepará recursos y ejemplos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga qué es la conservación in-situ.
-2. Investiga qué es la conservación ex-situ.
-3. Compara los dos enfoques.
-4. Encuentra ejemplos en tu área.
-5. Presenta tus hallazgos al grupo.
+1. Investigá qué es la conservación in-situ.
+2. Investigá qué es la conservación ex-situ.
+3. Compará los dos enfoques.
+4. Encontrá ejemplos en tu área.
+5. Presentá tus hallazgos al grupo.
 
 ## Cierre
-1. Reflexiona: ¿Cuándo es mejor cada tipo de conservación?
-2. Discute sobre los desafíos de cada método.
-3. Pregunta final: ¿Qué tipo de conservación crees que es más efectiva?
+1. Reflexioná: ¿Cuándo es mejor cada tipo de conservación?
+2. Discutí sobre los desafíos de cada método.
+3. Pregunta final: ¿Qué tipo de conservación creés que es más efectiva?
 
 ## Texto original completo de la actividad
 D.13 Aprende acerca las metas y los desafíos de la conservación in-situ y ex-situ. ¿Cuándo utilizarías cada tipo de conservación? Encuentra algunos ejemplos de cada tipo en tu área y/o país. Presenta tus hallazgos a tu grupo.

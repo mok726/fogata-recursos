@@ -164,18 +164,18 @@ rama_rovers:
 Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.
 
 ## Preparación
-1. Investiga sobre acuerdos internacionales de biodiversidad.
-2. Prepara recursos y ejemplos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre acuerdos internacionales de biodiversidad.
+2. Prepará recursos y ejemplos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga acuerdos internacionales como el CBD.
-2. Investiga tratados específicos sobre especies o hábitats.
-3. Crea una obra de teatro o póster para compartir.
+1. Investigá acuerdos internacionales como el CBD.
+2. Investigá tratados específicos sobre especies o hábitats.
+3. Creá una obra de teatro o póster para compartir.
 
 ## Cierre
-1. Presenta tu obra o póster al grupo.
-2. Reflexiona sobre la importancia de la cooperación internacional.
+1. Presentá tu obra o póster al grupo.
+2. Reflexioná sobre la importancia de la cooperación internacional.
 3. Pregunta final: ¿Cómo pueden los acuerdos internacionales proteger la biodiversidad?
 
 ## Texto original completo de la actividad

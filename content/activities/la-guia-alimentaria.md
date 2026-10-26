@@ -4,7 +4,7 @@ title: "La Guía Alimentaria"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-guia-alimentaria/"
-description: "Averigua si tu país tiene una guía alimentaria y crea pósteres para difundirla en tu comunidad."
+description: "Averiguá si tu país tiene una guía alimentaria y creá pósteres para difundirla en tu comunidad."
 summary: "Investigación y difusión de guías alimentarias."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -123,7 +123,7 @@ activity_type:
   - Sensibilización
 
 category:
-  - Guía alimentaria
+  - Guiá alimentaria
   - Educación
   - Nutrición
 
@@ -165,22 +165,22 @@ rama_rovers:
 # La Guía Alimentaria
 
 ## Resumen
-Averigua si tu país tiene una guía alimentaria y crea pósteres para difundirla en tu comunidad.
+Averiguá si tu país tiene una guía alimentaria y creá pósteres para difundirla en tu comunidad.
 
 ## Preparación
-1. Investiga si tu país tiene su propia guía alimentaria.
-2. Prepara material para crear pósteres.
-3. Piensa en los mensajes clave de la guía.
+1. Investigá si tu país tiene su propia guía alimentaria.
+2. Prepará material para crear pósteres.
+3. Pensá en los mensajes clave de la guía.
 
 ## Desarrollo
-1. **Investigación** (15 min): Averigua si tu país tiene una guía alimentaria.
-2. **Análisis** (15 min): Estudia las recomendaciones de la guía.
-3. **Creación** (25 min): Diseña pósteres con la información.
+1. **Investigación** (15 min): Averiguá si tu país tiene una guía alimentaria.
+2. **Análisis** (15 min): Estudiá las recomendaciones de la guía.
+3. **Creación** (25 min): Diseñá pósteres con la información.
 4. **Distribución** (15 min): Reparte los pósteres en tu comunidad.
 
 ## Cierre
 - ¿Qué recomienda la guía alimentaria de tu país?
-- ¿Cómo puedes ayudar a difundirla?
+- ¿Cómo podés ayudar a difundirla?
 - ¿Qué compromiso adquieres para seguir una dieta saludable?
 
 ---

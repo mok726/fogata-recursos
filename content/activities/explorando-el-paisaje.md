@@ -3,7 +3,7 @@ title: "Explorando el Paisaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-el-paisaje/"
-description: "Visita un lugar natural y analiza su vulnerabilidad ante amenazas."
+description: "Visitá un lugar natural y analizá su vulnerabilidad ante amenazas."
 summary: "Análisis de vulnerabilidad del paisaje."
 
 author:
@@ -152,19 +152,19 @@ rama_rovers:
 # ¡Explorando el Paisaje!
 
 ## Resumen
-Visita un lugar natural favorito cerca de donde vives y analiza cómo podría ser vulnerable ante una amenaza.
+Visitá un lugar natural favorito cerca de donde vivís y analizá cómo podría ser vulnerable ante una amenaza.
 
 ## Preparación
-1. Identifica un lugar natural para visitar (ribera, bosque, sendero).
-2. Prepara cuaderno, lapiceras y cámara.
-3. Organiza el transporte y la supervisión.
+1. Identificá un lugar natural para visitar (ribera, bosque, sendero).
+2. Prepará cuaderno, lapiceras y cámara.
+3. Organizá el transporte y la supervisión.
 
 ## Desarrollo
-1. **Salida** (40 min): Visita el lugar y observa el entorno.
-2. **Registro** (20 min): Toma notas y fotografías.
+1. **Salida** (40 min): Visitá el lugar y observá el entorno.
+2. **Registro** (20 min): Tomá notas y fotografías.
 3. **Análisis** (15 min): ¿Se han talado árboles? ¿El suelo está dañado? ¿Hay señales de inundaciones?
-4. **Creación** (15 min): Prepara un afiche con tus hallazgos.
-5. **Exhibición** (10 min): Coloca el afiche en un lugar público.
+4. **Creación** (15 min): Prepará un afiche con tus hallazgos.
+5. **Exhibición** (10 min): Colocá el afiche en un lugar público.
 
 ## Cierre
 - ¿Qué señales de vulnerabilidad encontraste?

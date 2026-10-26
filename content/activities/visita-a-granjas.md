@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita a granjas"
+title: "Visitá a granjas"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-granjas/"
-description: "Visita a diferentes tipos de granjas para aprender sobre técnicas de cultivo y cómo la biodiversidad ayuda a enfrentar desafíos."
+description: "Visitá a diferentes tipos de granjas para aprender sobre técnicas de cultivo y cómo la biodiversidad ayuda a enfrentar desafíos."
 summary: "Visitar granjas para aprender sobre biodiversidad agrícola."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -158,25 +158,25 @@ rama_rovers:
   - 29  # Indago causas de problemáticas sociales
 ---
 
-# ¡Visita a granjas!
+# ¡Visitá a granjas!
 
 ## Resumen
-Visita tres granjas de tu área que utilicen diferentes técnicas de cultivo y/o que produzcan diferentes productos agrícolas. Por ejemplo, podrías visitar una granja lechera, una huerta orgánica, un viñedo o una granja de cereales convencional. Pregunta a los agricultores qué clase de desafíos se les presentan y cómo la biodiversidad les ayuda a enfrentar esos desafíos.
+Visitá tres granjas de tu área que utilicen diferentes técnicas de cultivo y/o que produzcan diferentes productos agrícolas. Por ejemplo, podrías visitar una granja lechera, una huerta orgánica, un viñedo o una granja de cereales convencional. Preguntá a los agricultores qué clase de desafíos se les presentan y cómo la biodiversidad les ayuda a enfrentar esos desafíos.
 
 ## Preparación
-1. Identifica tres granjas diferentes para visitar.
-2. Contacta a los agricultores y organiza las visitas.
-3. Prepara preguntas para los agricultores.
+1. Identificá tres granjas diferentes para visitar.
+2. Contactá a los agricultores y organizá las visitas.
+3. Prepará preguntas para los agricultores.
 
 ## Desarrollo
-1. Visita cada granja.
-2. Pregunta sobre desafíos y soluciones.
-3. Pregunta cómo la biodiversidad ayuda.
-4. Toma notas y fotos.
+1. Visitá cada granja.
+2. Preguntá sobre desafíos y soluciones.
+3. Preguntá cómo la biodiversidad ayuda.
+4. Tomá notas y fotos.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Compara las diferentes técnicas agrícolas.
+1. Compartí tus hallazgos con el grupo.
+2. Compará las diferentes técnicas agrícolas.
 3. Pregunta final: ¿Qué técnica agrícola te pareció más sostenible?
 
 ## Texto original completo de la actividad

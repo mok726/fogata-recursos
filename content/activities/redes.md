@@ -4,7 +4,7 @@ title: "Redes"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/redes/"
-description: "Crea una red de jóvenes para luchar contra la malnutrición e intercambiar ideas."
+description: "Creá una red de jóvenes para luchar contra la malnutrición e intercambiar ideas."
 summary: "Red juvenil contra la malnutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Redes
 
 ## Resumen
-Crea una red de jóvenes para luchar contra la malnutrición e intercambiar ideas.
+Creá una red de jóvenes para luchar contra la malnutrición e intercambiar ideas.
 
 ## Preparación
-1. Contacta a otros grupos juveniles en tu país o en el extranjero.
-2. Elige un medio de comunicación (correo, chat, Skype, redes sociales).
+1. Contactá a otros grupos juveniles en tu país o en el extranjero.
+2. Elegí un medio de comunicación (correo, chat, Skype, redes sociales).
 3. Planea un proyecto de nutrición conjunto.
 
 ## Desarrollo
-1. **Contacto** (15 min): Contacta a otros grupos juveniles.
+1. **Contacto** (15 min): Contactá a otros grupos juveniles.
 2. **Intercambio** (20 min): Compartan ideas y experiencias.
 3. **Planificación** (20 min): Planeen un proyecto de nutrición conjunto.
 4. **Comunicación** (tiempo continuo): Manténganse en contacto.
-5. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste al trabajar en red con otros jóvenes?

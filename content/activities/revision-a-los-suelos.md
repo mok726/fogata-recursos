@@ -3,7 +3,7 @@ title: "Revisión a los Suelos"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/revision-a-los-suelos/"
-description: "Investiga los problemas del suelo en tu área hablando con expertos y vecinos."
+description: "Investigá los problemas del suelo en tu área hablando con expertos y vecinos."
 summary: "Investigación local sobre problemas del suelo."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Revisión a los Suelos!
 
 ## Resumen
-Investiga los problemas del suelo en tu área hablando con expertos y vecinos.
+Investigá los problemas del suelo en tu área hablando con expertos y vecinos.
 
 ## Preparación
-1. Identifica expertos en suelos (agricultores, geólogos, departamento de agricultura).
-2. Prepara preguntas para las entrevistas.
-3. Reúne materiales para tomar notas.
+1. Identificá expertos en suelos (agricultores, geólogos, departamento de agricultura).
+2. Prepará preguntas para las entrevistas.
+3. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Investigación** (30 min): Habla con expertos y vecinos.
+1. **Investigación** (30 min): Hablá con expertos y vecinos.
 2. **Análisis** (20 min): ¿Cuáles son los riesgos? ¿Hay contaminación?
 3. **Reflexión** (20 min): ¿Cómo afecta esto a la agricultura y la calidad del agua?
-4. **Presentación** (20 min): Comparte tus hallazgos con el grupo.
+4. **Presentación** (20 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué problemas enfrenta el suelo en tu área?

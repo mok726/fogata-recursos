@@ -4,8 +4,8 @@ title: "Edificios energéticamente eficientes"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/edificios-eficientes-energeticamente/"
-description: "Visita un edificio que produzca su propia energía o sea energéticamente eficiente, y crea un modelo o dibujo etiquetado."
-summary: "Descubre cómo construir eficientemente."
+description: "Visitá un edificio que produzca su propia energía o sea energéticamente eficiente, y creá un modelo o dibujo etiquetado."
+summary: "Descubrí cómo construir eficientemente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Edificios energéticamente eficientes!
 
 ## Resumen
-Visita un edificio que produzca su propia energía usando paneles solares u otras tecnologías que lo hagan más eficiente. Descubre qué materiales se usaron y cómo ahorra energía.
+Visitá un edificio que produzca su propia energía usando paneles solares u otras tecnologías que lo hagan más eficiente. Descubrí qué materiales se usaron y cómo ahorra energía.
 
 ## Preparación
-1. Lee la información sobre eficiencia energética.
-2. Busca un edificio eficiente en tu área.
-3. Prepara materiales para tomar notas y dibujar.
+1. Leé la información sobre eficiencia energética.
+2. Buscá un edificio eficiente en tu área.
+3. Prepará materiales para tomar notas y dibujar.
 
 ## Desarrollo
 
 ### Parte I - Visita
-Visita un edificio energéticamente eficiente con tu grupo.
+Visitá un edificio energéticamente eficiente con tu grupo.
 
 **Preguntas guía:**
 - ¿Qué materiales se usaron en la construcción?
@@ -181,10 +181,10 @@ Visita un edificio energéticamente eficiente con tu grupo.
 - ¿Qué desafíos tiene este sistema?
 
 ### Parte II - Documentar
-Toma fotos (con permiso) y escribe notas sobre lo que ves.
+Tomá fotos (con permiso) y escribí notas sobre lo que ves.
 
 ### Parte III - Modelo o dibujo
-Crea un modelo o dibujo del edificio.
+Creá un modelo o dibujo del edificio.
 
 **Elementos a etiquetar:**
 - Paneles solares
@@ -194,7 +194,7 @@ Crea un modelo o dibujo del edificio.
 - Iluminación natural
 
 ### Parte IV - Exhibición
-Muestra tu modelo o dibujo en el aula o área de reunión.
+Mostrá tu modelo o dibujo en el aula o área de reunión.
 
 ## Cierre
 1. ¿Qué característica te pareció más interesante?

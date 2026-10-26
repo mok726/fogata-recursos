@@ -173,8 +173,8 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 - Fomentar la creatividad a través del reciclaje.
 
 ## Preparación
-1. Reúne botellas PET limpias y secas.
-2. Prepara tijeras, cortante de botella, regla, marcador, pegamento y broches.
+1. Reuní botellas PET limpias y secas.
+2. Prepará tijeras, cortante de botella, regla, marcador, pegamento y broches.
 
 ## Desarrollo
 

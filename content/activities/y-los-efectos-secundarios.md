@@ -128,7 +128,7 @@ category:
   - Comunidad
 skills:
   - Comunicación
-  - Escucha activa
+  - Escuchá activa
   - Análisis
 
 # ========== VALORES SCOUT ==========
@@ -159,7 +159,7 @@ rama_rovers:
 # ¿Y los efectos secundarios?
 
 ## Resumen
-Habla con una amplia variedad de personas: agricultores, trabajadores, docentes, planificadores urbanos o funcionarios municipales. Preguntales sobre los efectos negativos de la urbanización que ocurrieron en tu ciudad. ¿Son notables? ¿Cuáles creen que son los principales efectos secundarios de la urbanización en tu área?
+Hablá con una amplia variedad de personas: agricultores, trabajadores, docentes, planificadores urbanos o funcionarios municipales. Preguntales sobre los efectos negativos de la urbanización que ocurrieron en tu ciudad. ¿Son notables? ¿Cuáles creen que son los principales efectos secundarios de la urbanización en tu área?
 
 ## Preparación
 1. Identificá personas para entrevistar de diferentes sectores.

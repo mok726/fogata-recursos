@@ -5,7 +5,7 @@ duration: "20 minutos (más investigación previa)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cartel-contaminacion-marina/"
 description: "Los jóvenes investigan la contaminación por plásticos en los océanos y diseñan carteles para concienciar sobre este problema, desarrollando su creatividad y habilidades de comunicación ambiental."
-summary: "Crea un cartel para concienciar sobre la contaminación marina."
+summary: "Creá un cartel para concienciar sobre la contaminación marina."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -197,8 +197,8 @@ Si bien la contaminación por plásticos afecta a toda la vida en el planeta, la
 
 ## Cierre
 1. ¿Qué aprendiste sobre la contaminación marina?
-2. ¿Qué mensaje fue más impactante para ti?
-3. ¿Cómo puedes seguir ayudando a combatir la contaminación en los océanos?
+2. ¿Qué mensaje fue más impactante para vos?
+3. ¿Cómo podés seguir ayudando a combatir la contaminación en los océanos?
 
 ## Texto original completo de la actividad
 

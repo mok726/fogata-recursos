@@ -161,19 +161,19 @@ rama_rovers:
 Organicen y dirijan un taller de trabajo sobre un tema del medio ambiente. Inviten a sus familias y a sus amigos a participar.
 
 ## Preparación
-1. Elige un tema ambiental.
-2. Prepara material para el taller.
-3. Invita a participantes.
+1. Elegí un tema ambiental.
+2. Prepará material para el taller.
+3. Invitá a participantes.
 
 ## Desarrollo
-1. Organiza el taller.
-2. Dirige las actividades.
-3. Comparte información sobre el tema.
-4. Anima a la participación.
+1. Organizá el taller.
+2. Dirigí las actividades.
+3. Compartí información sobre el tema.
+4. Animá a la participación.
 
 ## Cierre
-1. Reflexiona sobre la experiencia.
-2. Comparte lo aprendido con el grupo.
+1. Reflexioná sobre la experiencia.
+2. Compartí lo aprendido con el grupo.
 3. Pregunta final: ¿Cómo podemos seguir educando sobre el medio ambiente?
 
 ## Texto original completo de la actividad

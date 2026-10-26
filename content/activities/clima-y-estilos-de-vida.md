@@ -121,7 +121,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Sociedad
   - Bienestar
@@ -159,17 +159,17 @@ rama_rovers:
 # ¡Clima y estilos de vida!
 
 ## Resumen
-Examina todas las maneras en que el clima afecta nuestra calidad de vida, sea relacionado con los viajes, la recreación o con el bienestar general.
+Examiná todas las maneras en que el clima afecta nuestra calidad de vida, sea relacionado con los viajes, la recreación o con el bienestar general.
 
 ## Preparación
-1. Investiga cómo el clima afecta diferentes aspectos de la vida.
-2. Prepara ejemplos de diferentes climas y sus efectos en la calidad de vida.
-3. Organiza los grupos de trabajo.
+1. Investigá cómo el clima afecta diferentes aspectos de la vida.
+2. Prepará ejemplos de diferentes climas y sus efectos en la calidad de vida.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo el clima afecta nuestra calidad de vida.
-2. Reflexiona: ¿Crees que algunos lugares tienen una mejor calidad de vida debido a su clima? ¿Por qué?
-3. Prepara un cartel para indicar los hallazgos de tu investigación.
+1. Investigá cómo el clima afecta nuestra calidad de vida.
+2. Reflexioná: ¿Creés que algunos lugares tienen una mejor calidad de vida debido a su clima? ¿Por qué?
+3. Prepará un cartel para indicar los hallazgos de tu investigación.
 
 ## Cierre
 1. Júntense en grupo y observen los carteles de cada uno.

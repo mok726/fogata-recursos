@@ -151,19 +151,19 @@ rama_rovers:
 Únete a jóvenes de todo el mundo para crear un mundo libre de hambre y malnutrición.
 
 ## Preparación
-1. Accede a la plataforma en línea.
-2. Prepara materiales para participar.
+1. Accedé a la plataforma en línea.
+2. Prepará materiales para participar.
 
 ## Desarrollo
 1. **Registro** (10 min): Únete a la comunidad.
-2. **Aprendizaje** (20 min): Aprende sobre el hambre en el mundo.
-3. **Acción** (20 min): Participa en iniciativas.
-4. **Reflexión** (10 min): ¿Cómo puedes contribuir?
+2. **Aprendizaje** (20 min): Aprendé sobre el hambre en el mundo.
+3. **Acción** (20 min): Participá en iniciativas.
+4. **Reflexión** (10 min): ¿Cómo podés contribuir?
 
 ## Cierre
 - ¿Qué aprendiste sobre el hambre?
-- ¿Cómo puedes ayudar?
-- ¿Cómo te sientes al formar parte de esta comunidad?
+- ¿Cómo podés ayudar?
+- ¿Cómo te sentís al formar parte de esta comunidad?
 
 ---
 ## Texto original completo de la actividad

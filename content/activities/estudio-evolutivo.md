@@ -158,22 +158,22 @@ rama_rovers:
 # ¡Estudio evolutivo!
 
 ## Resumen
-Elige una especie de planta o animal e investiga cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
+Elegí una especie de planta o animal e investigá cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
 
 ## Preparación
-1. Investiga ejemplos de adaptaciones evolutivas en plantas y animales.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá ejemplos de adaptaciones evolutivas en plantas y animales.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige una especie de planta o animal.
-2. Investiga cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
-3. Descubre qué características específicas desarrolló para sobrevivir.
-4. Reúne tantos detalles como puedas.
-5. Prepara un informe o haz un dibujo/presentación sobre la especie que escogiste.
+1. Elegí una especie de planta o animal.
+2. Investigá cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
+3. Descubrí qué características específicas desarrolló para sobrevivir.
+4. Reuní tantos detalles como puedas.
+5. Prepará un informe o hacé un dibujo/presentación sobre la especie que escogiste.
 
 ## Cierre
-1. Comparte tu investigación con el grupo.
+1. Compartí tu investigación con el grupo.
 2. Discutan: ¿Qué pasaría con estas especies si el clima cambia rápidamente?
 3. Pregunta final: ¿Cómo el cambio climático actual amenaza las adaptaciones evolutivas de las especies?
 

@@ -1,9 +1,9 @@
 ---
-title: "Revisa las etiquetas"
+title: "Revisá las etiquetas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/revisa-las-etiquetas/"
-description: "Investiga de dónde viene tu comida y cuánta energía y agua necesita para crecer."
+description: "Investigá de dónde viene tu comida y cuánta energía y agua necesita para crecer."
 summary: "Investigación de origen y huella de alimentos."
 
 author:
@@ -111,7 +111,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Alimentos
@@ -147,25 +147,25 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Revisa las etiquetas!
+# ¡Revisá las etiquetas!
 
 ## Resumen
-Investiga de dónde viene tu comida, cuánto viaja y cuánta energía y agua necesita para crecer.
+Investigá de dónde viene tu comida, cuánto viaja y cuánta energía y agua necesita para crecer.
 
 ## Preparación
-1. Reúne alimentos con etiquetas.
-2. Prepara materiales para tomar notas.
-3. Accede a internet para investigar.
+1. Reuní alimentos con etiquetas.
+2. Prepará materiales para tomar notas.
+3. Accedé a internet para investigar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Lee las etiquetas de los alimentos.
+1. **Investigación** (20 min): Leé las etiquetas de los alimentos.
 2. **Análisis** (15 min): ¿Qué alimentos viajan más lejos?
 3. **Discusión** (15 min): ¿Cómo reducir el impacto de los alimentos en el clima?
-4. **Acción** (10 min): Compra alimentos locales y sin envolturas.
+4. **Acción** (10 min): Comprá alimentos locales y sin envolturas.
 
 ## Cierre
 - ¿Qué alimentos viajan distancias más largas?
-- ¿Cómo puedes reducir el impacto de tu alimentación?
+- ¿Cómo podés reducir el impacto de tu alimentación?
 - ¿Qué alimentos son de temporada en tu área?
 
 ---

@@ -3,7 +3,7 @@ title: "Todo sobre la Acuicultura"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/todo-sobre-la-acuicultura/"
-description: "Investiga y presenta información sobre la acuicultura, sus beneficios y desventajas."
+description: "Investigá y presentá información sobre la acuicultura, sus beneficios y desventajas."
 summary: "Investigación y presentación sobre acuicultura."
 
 author:
@@ -151,18 +151,18 @@ rama_rovers:
 # ¡Todo sobre la Acuicultura!
 
 ## Resumen
-Investiga todo lo que puedas sobre la acuicultura y los tipos que se practican en tu país. Prepara una presentación explicando qué es, por qué la necesitamos, sus beneficios y desventajas.
+Investigá todo lo que puedas sobre la acuicultura y los tipos que se practican en tu país. Prepará una presentación explicando qué es, por qué la necesitamos, sus beneficios y desventajas.
 
 ## Preparación
-1. Investiga sobre la acuicultura usando el enlace proporcionado u otras fuentes.
+1. Investigá sobre la acuicultura usando el enlace proporcionado u otras fuentes.
 2. Si es posible, invita a alguien que trabaje en acuicultura para que hable con tu grupo.
-3. Prepara una presentación clara y bien estructurada.
+3. Prepará una presentación clara y bien estructurada.
 
 ## Desarrollo
 1. **Investigación** (30 min): Individualmente o en pequeños grupos, investiga sobre la acuicultura.
-2. **Preparación** (20 min): Organiza la información para tu presentación.
+2. **Preparación** (20 min): Organizá la información para tu presentación.
 3. **Presentación** (30 min): Cada grupo presenta sus hallazgos.
-4. **Discusión** (10 min): Debate sobre los beneficios y desventajas de la acuicultura.
+4. **Discusión** (10 min): Debatí sobre los beneficios y desventajas de la acuicultura.
 
 ## Cierre
 - ¿Cuáles son los principales beneficios de la acuicultura?
@@ -170,7 +170,7 @@ Investiga todo lo que puedas sobre la acuicultura y los tipos que se practican e
 - ¿Cómo puede la acuicultura ser más sostenible?
 
 ## Extensión
-Investiga sobre nuevos enfoques para reducir el impacto ambiental de la acuicultura, como la acuicultura combinada que produce algas marinas, bivalvos y peces al mismo tiempo. ¿Por qué crees que estos métodos no han sido adoptados más rápidamente? ¿Cómo se podría promover este tipo de acuicultura?
+Investigá sobre nuevos enfoques para reducir el impacto ambiental de la acuicultura, como la acuicultura combinada que produce algas marinas, bivalvos y peces al mismo tiempo. ¿Por qué creés que estos métodos no han sido adoptados más rápidamente? ¿Cómo se podría promover este tipo de acuicultura?
 
 ---
 ## Texto original completo de la actividad

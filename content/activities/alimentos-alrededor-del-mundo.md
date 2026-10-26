@@ -38,7 +38,7 @@ materials:
   - Ingredientes para cocinar
   - Acceso a internet (opcional)
 tools:
-  - Cocina o espacio para cocinar
+  - Cociná o espacio para cocinar
 responsible:
   - Docente o Scouter
 prep_time: "30 min"
@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Alimentos alrededor del mundo!
 
 ## Resumen
-Elige un producto alimenticio que se coma en varios países del mundo, como bananas, porotos, tomates o maíz. ¿Dónde se originó este alimento? ¿Existen diferentes variedades en los distintos países? ¿Cómo se cocina este alimento en los varios países? Prueba tres recetas de tres países diferentes.
+Elegí un producto alimenticio que se coma en varios países del mundo, como bananas, porotos, tomates o maíz. ¿Dónde se originó este alimento? ¿Existen diferentes variedades en los distintos países? ¿Cómo se cocina este alimento en los varios países? Probá tres recetas de tres países diferentes.
 
 ## Preparación
-1. Elige un alimento para investigar.
-2. Investiga sus orígenes y variedades.
-3. Selecciona tres recetas de diferentes países.
+1. Elegí un alimento para investigar.
+2. Investigá sus orígenes y variedades.
+3. Seleccioná tres recetas de diferentes países.
 
 ## Desarrollo
-1. Investiga el origen del alimento.
-2. Investiga las variedades en diferentes países.
-3. Prepara tres recetas de tres países diferentes.
-4. Comparte tus creaciones culinarias con tu familia y amigos.
+1. Investigá el origen del alimento.
+2. Investigá las variedades en diferentes países.
+3. Prepará tres recetas de tres países diferentes.
+4. Compartí tus creaciones culinarias con tu familia y amigos.
 
 ## Cierre
 1. Durante la comida, discute: ¿Cómo se relaciona la diversidad biológica con la diversidad cultural?
-2. Reflexiona sobre la conexión entre comida y cultura.
+2. Reflexioná sobre la conexión entre comida y cultura.
 3. Pregunta final: ¿Qué aprendiste sobre la biodiversidad a través de la comida?
 
 ## Texto original completo de la actividad

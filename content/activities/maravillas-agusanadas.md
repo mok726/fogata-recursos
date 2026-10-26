@@ -3,7 +3,7 @@ title: "Maravillas Agusanadas"
 duration: "3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/maravillas-agusanadas/"
-description: "Crea una lombricera para observar cómo las lombrices mejoran el suelo."
+description: "Creá una lombricera para observar cómo las lombrices mejoran el suelo."
 summary: "Observación de lombrices en el suelo."
 
 author:
@@ -149,17 +149,17 @@ rama_rovers: []
 # ¡Maravillas Agusanadas!
 
 ## Resumen
-Crea una lombricera para observar cómo las lombrices se mueven a través del suelo y mejoran su calidad.
+Creá una lombricera para observar cómo las lombrices se mueven a través del suelo y mejoran su calidad.
 
 ## Preparación
-1. Consigue un contenedor transparente.
-2. Prepara tierra y arena fina en capas.
-3. Reúne lombrices.
+1. Conseguí un contenedor transparente.
+2. Prepará tierra y arena fina en capas.
+3. Reuní lombrices.
 
 ## Desarrollo
-1. **Montaje** (15 min): Coloca tierra y arena en capas en el contenedor.
-2. **Introducción** (5 min): Agrega las lombrices.
-3. **Observación** (2-3 días): Observa cómo se mueven entre las capas.
+1. **Montaje** (15 min): Colocá tierra y arena en capas en el contenedor.
+2. **Introducción** (5 min): Agregá las lombrices.
+3. **Observación** (2-3 días): Observá cómo se mueven entre las capas.
 4. **Discusión** (20 min): ¿Cómo usan las lombrices el suelo? ¿Cómo lo mantienen saludable?
 
 ## Cierre

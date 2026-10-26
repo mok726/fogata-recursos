@@ -5,7 +5,7 @@ duration: "Flexible (1-2 horas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/basura-por-que-es-importante/"
 description: "Los jóvenes investigan y reflexionan sobre el impacto de tirar basura, observando comportamientos en su comunidad y estableciendo la correlación entre la contaminación por plástico y el hábito de desechar residuos inadecuadamente."
-summary: "Investiga el impacto de la basura en el medio ambiente."
+summary: "Investigá el impacto de la basura en el medio ambiente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juega a salvar el océano"
+title: "Jugá a salvar el océano"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juega-a-salvar-el-oceano/"
 description: "Un minijuego interactivo en línea que muestra los desafíos que enfrentan los océanos y cómo pequeños cambios en nuestra vida pueden ayudar a protegerlos."
-summary: "Aprende sobre la contaminación oceánica jugando un minijuego."
+summary: "Aprendé sobre la contaminación oceánica jugando un minijuego."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,7 +161,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies
 ---
 
-# ¡Juega a salvar el océano!
+# ¡Jugá a salvar el océano!
 
 ## Resumen
 "Maneras tontas de matar al océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.
@@ -183,7 +183,7 @@ rama_rovers:
 1. Preguntar a los participantes:
    - ¿Qué fue lo que más te impactó del juego?
    - ¿Qué aprendiste sobre la contaminación plástica?
-   - ¿Qué pequeños cambios puedes hacer en tu vida para ayudar a los océanos?
+   - ¿Qué pequeños cambios podés hacer en tu vida para ayudar a los océanos?
 2. Anotar las ideas principales en un pizarrón o papelógrafo.
 
 ### Parte III - Acción (opcional)
@@ -192,8 +192,8 @@ rama_rovers:
 
 ## Cierre
 1. ¿Qué aprendiste hoy sobre la contaminación de los océanos?
-2. ¿Cómo te sientes después de jugar?
-3. ¿Qué cambios puedes hacer en tu vida para ayudar a reducir el plástico?
+2. ¿Cómo te sentís después de jugar?
+3. ¿Qué cambios podés hacer en tu vida para ayudar a reducir el plástico?
 
 ## Texto original completo de la actividad
 

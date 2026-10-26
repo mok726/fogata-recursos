@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/lunes-sin-carne/"
 description: "Los participantes reflexionan sobre la huella hídrica de los alimentos y proponen un 'Lunes Sin Carne' en su escuela para reducir el consumo de agua y promover hábitos alimenticios sostenibles."
-summary: "Propón un Lunes Sin Carne."
+summary: "Proponé un Lunes Sin Carne."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -120,7 +120,7 @@ competencies:
   - Comunicación
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Servicio a los demás
 category:
   - Alimentación
@@ -169,14 +169,14 @@ translation_notice:
 Del agua utilizada en todo el mundo, hasta el 70 por ciento se usa en la agricultura. Diferentes tipos de alimentos requieren diferentes cantidades de agua para ser producidos. Por ejemplo, se necesitan 560 litros de agua para producir un kilogramo de naranjas, 15.415 litros para un kilogramo de carne de res, y 4.325 litros para un kilogramo de pollo. Los productos cárnicos tienen una huella hídrica más alta, por lo que elegir una comida sin carne de vez en cuando puede ser una idea muy sabia. En esta actividad, los participantes proponen un "Lunes Sin Carne" en su escuela para reducir el consumo de agua.
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Revisa el menú escolar de una semana (si es posible).
+1. Prepará los materiales de escritura.
+2. Revisá el menú escolar de una semana (si es posible).
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Recuerda a tu grupo el concepto de huella hídrica y cómo diferentes tipos de alimentos requieren cantidades variables de agua para ser producidos.
-2. Explica que una forma de usar el agua de manera sostenible es comiendo alimentos menos intensivos en agua.
+1. Recordá a tu grupo el concepto de huella hídrica y cómo diferentes tipos de alimentos requieren cantidades variables de agua para ser producidos.
+2. Explicá que una forma de usar el agua de manera sostenible es comiendo alimentos menos intensivos en agua.
 
 ### Paso 2: Análisis del menú escolar
 3. Si es posible, revisa el menú de la escuela o lugar de reunión durante una semana y discute las siguientes preguntas:
@@ -184,11 +184,11 @@ Del agua utilizada en todo el mundo, hasta el 70 por ciento se usa en la agricul
    - ¿Hay opciones basadas en plantas disponibles? ¿En cada comida? ¿Como plato principal? ¿Solo como guarnición?
 
 ### Paso 3: Propuesta del Lunes Sin Carne
-4. Explica a tu grupo que van a proponer un **Lunes Sin Carne** a la dirección de la escuela o lugar de reunión.
+4. Explicá a tu grupo que van a proponer un **Lunes Sin Carne** a la dirección de la escuela o lugar de reunión.
 5. Van a escribir una carta para convencer a la dirección de que acepte la propuesta.
 
 ### Paso 4: Redacción de la carta
-6. Pide a tu grupo que haga una lluvia de ideas sobre los argumentos que podrían incluir.
+6. Pedí a tu grupo que haga una lluvia de ideas sobre los argumentos que podrían incluir.
 7. Decidan juntos cómo sería una buena introducción, desarrollo y cierre.
 8. Pueden incluir un ejemplo de un menú sin carne que les gustaría disfrutar.
 

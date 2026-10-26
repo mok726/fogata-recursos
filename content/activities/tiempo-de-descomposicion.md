@@ -3,7 +3,7 @@ title: "Tiempo de descomposición"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/tiempo-de-descomposicion/"
-description: "Averigua cuánto tiempo tarda la basura en descomponerse."
+description: "Averiguá cuánto tiempo tarda la basura en descomponerse."
 summary: "Investigación sobre descomposición de basura."
 
 author:
@@ -146,22 +146,22 @@ rama_rovers:
 # ¡Tiempo de descomposición!
 
 ## Resumen
-Investiga cuánto tiempo tardan diferentes elementos de basura en descomponerse.
+Investigá cuánto tiempo tardan diferentes elementos de basura en descomponerse.
 
 ## Preparación
-- Accede a recursos sobre descomposición.
-- Prepara materiales para presentar.
+- Accedé a recursos sobre descomposición.
+- Prepará materiales para presentar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Averigua el tiempo de descomposición de diferentes elementos.
+1. **Investigación** (20 min): Averiguá el tiempo de descomposición de diferentes elementos.
 2. **Análisis** (15 min): ¿Qué elementos tardan más?
-3. **Compartir** (15 min): Comparte esta información con tu familia y amigos.
+3. **Compartir** (15 min): Compartí esta información con tu familia y amigos.
 4. **Reflexión** (10 min): ¿Cómo afecta esto tus hábitos?
 
 ## Cierre
 - ¿Qué elemento tarda más en descomponerse?
 - ¿Qué te sorprendió?
-- ¿Cómo puedes cambiar tus hábitos para reducir la basura?
+- ¿Cómo podés cambiar tus hábitos para reducir la basura?
 
 ---
 ## Texto original completo de la actividad

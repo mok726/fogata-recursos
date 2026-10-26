@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inicio-de-los-plasticos/"
 description: "Una actividad que ayuda a los jóvenes a comprender que el uso masivo del plástico es un fenómeno relativamente reciente, comparando el consumo actual con el de generaciones pasadas y reflexionando sobre alternativas."
-summary: "Investiga cómo el plástico reemplazó a los productos naturales en la vida cotidiana."
+summary: "Investigá cómo el plástico reemplazó a los productos naturales en la vida cotidiana."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -198,7 +198,7 @@ Esta actividad ayuda a los jóvenes a comprender que gran parte del uso del plá
 2. El facilitador anota en la pizarra los cambios generacionales identificados.
 3. Discuten:
    - ¿Qué productos plásticos reemplazaron a los naturales?
-   - ¿Por qué crees que el plástico reemplazó a esos productos?
+   - ¿Por qué creés que el plástico reemplazó a esos productos?
    - ¿Es posible volver a usar algunas de esas alternativas hoy?
 4. Conclusión: El uso del plástico es relativamente nuevo; muchas alternativas naturales y biodegradables todavía pueden usarse.
 

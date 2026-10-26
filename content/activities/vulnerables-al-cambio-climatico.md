@@ -3,7 +3,7 @@ title: "Vulnerables al cambio climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vulnerables-al-cambio-climatico/"
-description: "Investiga quiénes son especialmente vulnerables al cambio climático."
+description: "Investigá quiénes son especialmente vulnerables al cambio climático."
 summary: "Investigación de grupos vulnerables."
 
 author:
@@ -147,22 +147,22 @@ rama_rovers:
 # ¡Vulnerables al cambio climático!
 
 ## Resumen
-Investiga quiénes son especialmente vulnerables al cambio climático y qué puedes hacer para ayudarlos.
+Investigá quiénes son especialmente vulnerables al cambio climático y qué podés hacer para ayudarlos.
 
 ## Preparación
-1. Accede a recursos sobre vulnerabilidad climática.
-2. Prepara materiales para la investigación.
+1. Accedé a recursos sobre vulnerabilidad climática.
+2. Prepará materiales para la investigación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre grupos vulnerables.
+1. **Investigación** (25 min): Aprendé sobre grupos vulnerables.
 2. **Análisis** (15 min): ¿Dónde viven? ¿Por qué son vulnerables?
-3. **Acción** (10 min): ¿Qué puedes hacer para ayudarlos?
-4. **Reflexión** (10 min): Comparte lo aprendido.
+3. **Acción** (10 min): ¿Qué podés hacer para ayudarlos?
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Quiénes son más vulnerables al cambio climático?
 - ¿Dónde viven?
-- ¿Qué puedes hacer para ayudarlos?
+- ¿Qué podés hacer para ayudarlos?
 
 ---
 ## Texto original completo de la actividad

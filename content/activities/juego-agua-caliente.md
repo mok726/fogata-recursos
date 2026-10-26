@@ -168,14 +168,14 @@ translation_notice:
 En este juego, los participantes exploran términos clave relacionados con los problemas que enfrentan las personas debido a la falta de acceso a agua limpia y saneamiento adecuado. El objetivo del juego es mantenerse fuera del "agua caliente" (es decir, no quedarse sin oportunidades para responder).
 
 ## Preparación
-1. Recorta gotas de agua de papel rojo de construcción.
-2. Escribe cada término y su definición en papeles separados.
-3. Coloca los términos y definiciones en una cesta.
+1. Recortá gotas de agua de papel rojo de construcción.
+2. Escribí cada término y su definición en papeles separados.
+3. Colocá los términos y definiciones en una cesta.
 
 ## Desarrollo
 
 ### Paso 1: Explicación del juego
-1. Explica a tu grupo que van a jugar un juego que les ayudará a explorar algunos términos relacionados con los problemas que enfrentan las personas debido a la falta de acceso a agua limpia y saneamiento adecuado.
+1. Explicá a tu grupo que van a jugar un juego que les ayudará a explorar algunos términos relacionados con los problemas que enfrentan las personas debido a la falta de acceso a agua limpia y saneamiento adecuado.
 2. El objetivo del juego es mantenerse fuera del "agua caliente".
 
 ### Paso 2: Desarrollo del juego
@@ -211,7 +211,7 @@ En este juego, los participantes exploran términos clave relacionados con los p
 
 ## Cierre
 - ¿Por qué los países consumen más agua cada vez?
-- ¿Para qué necesitas agua? ¿Necesita esta agua estar limpia?
+- ¿Para qué necesitás agua? ¿Necesita esta agua estar limpia?
 - ¿Por qué es difícil para muchas personas encontrar agua potable limpia? ¿Cómo afecta esto a la vida de las personas?
 
 ## Texto original completo de la actividad

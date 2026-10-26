@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/acuifero-comestible/"
 description: "Los participantes construyen un acuífero comestible para aprender sobre las formaciones geológicas, cómo la contaminación llega al agua subterránea y cómo el bombeo afecta el nivel freático."
-summary: "Construye y come un acuífero."
+summary: "Construí y come un acuífero."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -176,36 +176,36 @@ translation_notice:
 Cuando llueve, parte del agua se filtra en el suelo y se almacena en los espacios entre la arena, la grava y las rocas. Esta agua se llama agua subterránea y se almacena en capas llamadas acuíferos. En esta actividad, los participantes construyen un acuífero comestible para aprender sobre las formaciones geológicas, cómo la contaminación puede llegar al agua subterránea y cómo el bombeo puede causar una disminución del nivel freático.
 
 ## Preparación
-1. Prepara todos los ingredientes en una mesa accesible.
-2. Asegúrate de que los participantes no tengan alergias a los ingredientes (lácteos, gluten, etc.) y ofrece alternativas si es necesario.
-3. Explica brevemente qué es un acuífero antes de comenzar.
+1. Prepará todos los ingredientes en una mesa accesible.
+2. Asegurate de que los participantes no tengan alergias a los ingredientes (lácteos, gluten, etc.) y ofrece alternativas si es necesario.
+3. Explicá brevemente qué es un acuífero antes de comenzar.
 
 ## Desarrollo
 
 ### Paso 1: Construir el acuífero
-1. Pide a los participantes que llenen un vaso plástico transparente 1/3 con ositos de goma, chispas de chocolate y hielo picado. Estos representan la grava, la arena y las rocas.
-2. Añade suficiente gaseosa clara para cubrir apenas los caramelos y el hielo. Esta es el **agua subterránea**. Observa cómo el "agua" llena los espacios alrededor de la grava, la arena y las rocas.
+1. Pedí a los participantes que llenen un vaso plástico transparente 1/3 con ositos de goma, chispas de chocolate y hielo picado. Estos representan la grava, la arena y las rocas.
+2. Añadí suficiente gaseosa clara para cubrir apenas los caramelos y el hielo. Esta es el **agua subterránea**. Observá cómo el "agua" llena los espacios alrededor de la grava, la arena y las rocas.
 
 ### Paso 2: Capa confinante
-3. Agrega una capa de helado de vainilla sobre el agua. Esta representa una **capa confinante** (generalmente hecha de arcilla o roca densa). El agua queda confinada debajo de esta capa.
+3. Agregá una capa de helado de vainilla sobre el agua. Esta representa una **capa confinante** (generalmente hecha de arcilla o roca densa). El agua queda confinada debajo de esta capa.
 
 ### Paso 3: Capa superior
-4. Añade más grava y arena encima de la capa confinante (usa galletas trituradas, cereales o más chispas de chocolate).
-5. Decora con granillo de colores y azúcar de colores para representar la capa superior porosa del suelo.
+4. Añadí más grava y arena encima de la capa confinante (usa galletas trituradas, cereales o más chispas de chocolate).
+5. Decorá con granillo de colores y azúcar de colores para representar la capa superior porosa del suelo.
 
 ### Paso 4: Contaminación
-6. Pide a un participante que añada colorante alimenticio (rojo o azul) o jugo de uva/naranja sobre la parte superior del "acuífero". El colorante representa la **contaminación**.
-7. Observa lo que sucede cuando se vierte sobre la superficie. Señala que lo mismo ocurre cuando los contaminantes se derraman en la superficie de la tierra.
+6. Pedí a un participante que añada colorante alimenticio (rojo o azul) o jugo de uva/naranja sobre la parte superior del "acuífero". El colorante representa la **contaminación**.
+7. Observá lo que sucede cuando se vierte sobre la superficie. Señalá que lo mismo ocurre cuando los contaminantes se derraman en la superficie de la tierra.
 
 ### Paso 5: Bombeo
 8. Usando una pajita, pide a los participantes que "perforen un pozo" en el centro de sus acuíferos.
-9. Diles que comiencen a bombear lentamente el pozo succionando con la bombilla. Observa la disminución del nivel freático. Nota cómo los contaminantes pueden ser succionados hacia el área del pozo y terminar en el agua subterránea al filtrarse a través de la capa confinante.
+9. Deciles que comiencen a bombear lentamente el pozo succionando con la bombilla. Observá la disminución del nivel freático. Nota cómo los contaminantes pueden ser succionados hacia el área del pozo y terminar en el agua subterránea al filtrarse a través de la capa confinante.
 
 ### Paso 6: Recarga
 10. Finalmente, "recarga" los acuíferos añadiendo más gaseosa, lo que representa una lluvia.
 
 ### Paso 7: ¡A comer!
-11. Revisa lo que aprendiste mientras disfrutan comiendo sus acuíferos comestibles.
+11. Revisá lo que aprendiste mientras disfrutan comiendo sus acuíferos comestibles.
 
 ## Cierre
 - ¿La gente de tu país usa pozos para obtener agua subterránea? ¿Alguna vez viste uno?

@@ -172,25 +172,25 @@ translation_notice:
 En esta actividad, los participantes leen una divertida historia de detectives que destaca la importancia de monitorear la calidad del agua para proteger y conservar los hábitats acuáticos.
 
 ## Preparación
-1. Prepara acceso a Internet para leer la historia.
-2. Prepara los materiales de dibujo.
+1. Prepará acceso a Internet para leer la historia.
+2. Prepará los materiales de dibujo.
 
 ## Desarrollo
 
 ### Paso 1: Lectura de la historia
-1. Explica a tu grupo que van a leer una divertida historia de detectives que destaca la importancia de monitorear la calidad del agua para proteger y conservar los hábitats acuáticos.
-2. Encuentra la historia en la página web del Día Mundial del Monitoreo del Agua:
+1. Explicá a tu grupo que van a leer una divertida historia de detectives que destaca la importancia de monitorear la calidad del agua para proteger y conservar los hábitats acuáticos.
+2. Encontrá la historia en la página web del Día Mundial del Monitoreo del Agua:
 
 **"The Water Down Under" por Deborah Rodney**  
 https://www.worldwatermonitoringday.org/The_Water_Down_Under.aspx
 
 ### Paso 2: Lectura en grupo
-3. Lee la historia con tu grupo. Puedes pedirles que te ayuden a leerla.
-4. Pide a los participantes que tomen notas sobre pistas importantes y que escriban cualquier pregunta que puedan tener.
+3. Leé la historia con tu grupo. Podés pedirles que te ayuden a leerla.
+4. Pedí a los participantes que tomen notas sobre pistas importantes y que escriban cualquier pregunta que puedan tener.
 
 ### Paso 3: Discusión y dibujo
 5. Una vez que terminen de leer, anima la discusión.
-6. Puedes pedirles que hagan un dibujo sobre cómo creen que se veía el lago una vez que el misterio fue resuelto.
+6. Podés pedirles que hagan un dibujo sobre cómo creen que se veía el lago una vez que el misterio fue resuelto.
 
 ## Cierre
 - ¿Cómo afectan las personas a los cuerpos de agua?

@@ -4,7 +4,7 @@ title: "Fiesta de la Salud"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/fiesta-de-la-salud/"
-description: "Organiza un Día de la Salud en tu comunidad con actividades divertidas, juegos olímpicos, concursos y profesionales sanitarios."
+description: "Organizá un Día de la Salud en tu comunidad con actividades divertidas, juegos olímpicos, concursos y profesionales sanitarios."
 summary: "Evento comunitario sobre salud y nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,22 +169,22 @@ rama_rovers:
 # Fiesta de la Salud
 
 ## Resumen
-Organiza un Día de la Salud en tu comunidad con actividades divertidas, juegos olímpicos, concursos y profesionales sanitarios.
+Organizá un Día de la Salud en tu comunidad con actividades divertidas, juegos olímpicos, concursos y profesionales sanitarios.
 
 ## Preparación
-1. Elige una fecha para el Día de la Salud.
-2. Invita a residentes, amigos y familia.
-3. Organiza las actividades (mini Juegos Olímpicos, concursos, etc.).
-4. Prepara folletos, pósteres y panfletos sobre nutrición, higiene y actividad física.
-5. Invita a profesionales sanitarios para que asistan y respondan preguntas.
+1. Elegí una fecha para el Día de la Salud.
+2. Invitá a residentes, amigos y familia.
+3. Organizá las actividades (mini Juegos Olímpicos, concursos, etc.).
+4. Prepará folletos, pósteres y panfletos sobre nutrición, higiene y actividad física.
+5. Invitá a profesionales sanitarios para que asistan y respondan preguntas.
 
 ## Desarrollo
-1. **Inauguración** (15 min): Presenta el evento y explica su propósito.
-2. **Juegos** (45-60 min): Realiza actividades deportivas y juegos.
-3. **Concursos** (20 min): Organiza concursos con preguntas sobre salud y nutrición.
-4. **Información** (15 min): Distribuye materiales educativos.
-5. **Charla** (20 min): Invita a profesionales sanitarios a responder preguntas.
-6. **Cierre** (10 min): Reflexiona sobre lo aprendido y agradece a los participantes.
+1. **Inauguración** (15 min): Presentá el evento y explicá su propósito.
+2. **Juegos** (45-60 min): Realizá actividades deportivas y juegos.
+3. **Concursos** (20 min): Organizá concursos con preguntas sobre salud y nutrición.
+4. **Información** (15 min): Distribuí materiales educativos.
+5. **Charla** (20 min): Invitá a profesionales sanitarios a responder preguntas.
+6. **Cierre** (10 min): Reflexioná sobre lo aprendido y agradece a los participantes.
 
 ## Cierre
 - ¿Qué aprendiste sobre la salud y la nutrición?

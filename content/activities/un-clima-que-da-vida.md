@@ -159,21 +159,21 @@ rama_rovers:
 # ¡Un clima que da vida!
 
 ## Resumen
-El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agua y permite que las personas obtengan los recursos que necesitan para construir sus casas. Entrevista a miembros de tu comunidad sobre la importancia del clima.
+El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agua y permite que las personas obtengan los recursos que necesitan para construir sus casas. Entrevistá a miembros de tu comunidad sobre la importancia del clima.
 
 ## Preparación
-1. Prepara preguntas para la entrevista sobre la importancia del clima.
-2. Investiga algunos hechos sobre el clima para compartir.
-3. Organiza los grupos para las entrevistas.
+1. Prepará preguntas para la entrevista sobre la importancia del clima.
+2. Investigá algunos hechos sobre el clima para compartir.
+3. Organizá los grupos para las entrevistas.
 
 ## Desarrollo
-1. Prepara algunas preguntas sobre cómo el clima contribuye a la salud y al bienestar.
-2. Entrevista a un miembro de tu familia, un amigo o un miembro de tu comunidad.
-3. Puedes compartir algunos hechos sobre el tema para enriquecer la conversación.
-4. Toma notas durante la entrevista.
+1. Prepará algunas preguntas sobre cómo el clima contribuye a la salud y al bienestar.
+2. Entrevistá a un miembro de tu familia, un amigo o un miembro de tu comunidad.
+3. Podés compartir algunos hechos sobre el tema para enriquecer la conversación.
+4. Tomá notas durante la entrevista.
 
 ## Cierre
-1. Comparte tus entrevistas con tu clase o grupo.
+1. Compartí tus entrevistas con tu clase o grupo.
 2. Discutan: ¿Las personas sabían realmente sobre la importancia del clima para nuestra vida?
 3. Pregunta final: ¿Qué aprendiste de las personas que entrevistaste?
 

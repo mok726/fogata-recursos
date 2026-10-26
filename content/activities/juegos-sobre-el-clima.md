@@ -162,12 +162,12 @@ rama_rovers:
 # ¡Juegos sobre el clima!
 
 ## Resumen
-Usa el glosario al final de esta insignia para jugar un juego de 'Pictionary de Cambio Climático'.
+Usá el glosario al final de esta insignia para jugar un juego de 'Pictionary de Cambio Climático'.
 
 ## Preparación
-1. Prepara las tarjetas con palabras del glosario.
-2. Forma dos o más equipos.
-3. Revisa las reglas del juego.
+1. Prepará las tarjetas con palabras del glosario.
+2. Formá dos o más equipos.
+3. Revisá las reglas del juego.
 
 ## Desarrollo
 1. Dividan las palabras entre los equipos.
@@ -176,8 +176,8 @@ Usa el glosario al final de esta insignia para jugar un juego de 'Pictionary de 
 4. Si no saben las reglas, pueden encontrarlas en el sitio Web proporcionado.
 
 ## Cierre
-1. Reflexiona: ¿Qué palabras fueron más fáciles o difíciles de dibujar?
-2. Repasa el significado de las palabras que aparecieron.
+1. Reflexioná: ¿Qué palabras fueron más fáciles o difíciles de dibujar?
+2. Repasá el significado de las palabras que aparecieron.
 3. Pregunta final: ¿Qué palabra nueva aprendiste hoy?
 
 ## Texto original completo de la actividad

@@ -3,7 +3,7 @@ title: "Lavar ropa de manera eficiente"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/lavar-ropa-de-manera-eficiente/"
-description: "Llena la lavadora y cuelga la ropa para secarla."
+description: "Llená la lavadora y colgá la ropa para secarla."
 summary: "Eficiencia en el lavado de ropa."
 
 author:
@@ -141,21 +141,21 @@ rama_rovers: []
 # ¡Lavar ropa de manera eficiente!
 
 ## Resumen
-Llena la lavadora con una carga completa y cuelga la ropa para secarla en lugar de usar la secadora.
+Llená la lavadora con una carga completa y colgá la ropa para secarla en lugar de usar la secadora.
 
 ## Preparación
-- Habla con tus padres sobre el proyecto.
-- Identifica un lugar para colgar la ropa.
+- Hablá con tus padres sobre el proyecto.
+- Identificá un lugar para colgar la ropa.
 
 ## Desarrollo
-1. **Acción** (continua): Llena la lavadora completamente.
-2. **Secado** (continua): Cuelga la ropa para secar.
-3. **Convencimiento** (10 min): Habla con tu clase o grupo para que hagan lo mismo.
+1. **Acción** (continua): Llená la lavadora completamente.
+2. **Secado** (continua): Colgá la ropa para secar.
+3. **Convencimiento** (10 min): Hablá con tu clase o grupo para que hagan lo mismo.
 
 ## Cierre
-- ¿Cuánta agua y energía crees que ahorraste?
-- ¿Cómo te sientes al secar la ropa al aire?
-- ¿Qué más puedes hacer para ahorrar en casa?
+- ¿Cuánta agua y energía creés que ahorraste?
+- ¿Cómo te sentís al secar la ropa al aire?
+- ¿Qué más podés hacer para ahorrar en casa?
 
 ---
 ## Texto original completo de la actividad

@@ -4,8 +4,8 @@ title: "Fiesta energéticamente eficiente"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/fiesta-eficiente/"
-description: "Organiza una fiesta en tu comunidad que demuestre formas de ahorrar energía, desde la comida hasta los platos reutilizables."
-summary: "Celebra con eficiencia energética."
+description: "Organizá una fiesta en tu comunidad que demuestre formas de ahorrar energía, desde la comida hasta los platos reutilizables."
+summary: "Celebrá con eficiencia energética."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -162,17 +162,17 @@ translation_notice:
 # ¡Fiesta energéticamente eficiente!
 
 ## Resumen
-Organiza una fiesta en tu comunidad que demuestre formas de ahorrar energía. Desde usar alimentos que consumen menos energía hasta platos y vasos reutilizables y bombillas eficientes. ¡Haz la fiesta más amigable con la energía posible!
+Organizá una fiesta en tu comunidad que demuestre formas de ahorrar energía. Desde usar alimentos que consumen menos energía hasta platos y vasos reutilizables y bombillas eficientes. ¡Hacé la fiesta más amigable con la energía posible!
 
 ## Preparación
-1. Planifica una fiesta energéticamente eficiente.
-2. Elige alimentos de bajo consumo energético.
-3. Prepara platos y vasos reutilizables.
+1. Planificá una fiesta energéticamente eficiente.
+2. Elegí alimentos de bajo consumo energético.
+3. Prepará platos y vasos reutilizables.
 
 ## Desarrollo
 
 ### Parte I - Planificar
-Elige elementos sostenibles:
+Elegí elementos sostenibles:
 
 - **Comida**: local, de temporada, vegetariana
 - **Vajilla**: reutilizable (no descartable)
@@ -180,10 +180,10 @@ Elige elementos sostenibles:
 - **Decoración**: materiales naturales o reciclados
 
 ### Parte II - Crear tarjetas
-Crea tarjetas que expliquen cómo cada elemento de la fiesta contribuye a la sostenibilidad energética.
+Creá tarjetas que expliquen cómo cada elemento de la fiesta contribuye a la sostenibilidad energética.
 
 ### Parte III - Celebrar
-¡Disfruta de tu fiesta energéticamente eficiente!
+¡Disfrutá de tu fiesta energéticamente eficiente!
 
 ## Cierre
 1. ¿Qué elemento de la fiesta fue más fácil de implementar?

@@ -4,7 +4,7 @@ title: "Tus ODS"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/tus-ods/"
-description: "Propón tus propios Objetivos de Desarrollo Sostenible para abordar el hambre después del 2015."
+description: "Proponé tus propios Objetivos de Desarrollo Sostenible para abordar el hambre después del 2015."
 summary: "Propuesta de nuevos Objetivos de Desarrollo Sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -122,7 +122,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -166,18 +166,18 @@ rama_rovers:
 # Tus ODS
 
 ## Resumen
-Propón tus propios Objetivos de Desarrollo Sostenible para abordar el hambre después del 2015.
+Proponé tus propios Objetivos de Desarrollo Sostenible para abordar el hambre después del 2015.
 
 ## Preparación
-1. Revisa los ODM actuales.
-2. Prepara papel y lápices.
-3. Piensa en cómo abordar el hambre en el futuro.
+1. Revisá los ODM actuales.
+2. Prepará papel y lápices.
+3. Pensá en cómo abordar el hambre en el futuro.
 
 ## Desarrollo
-1. **Lluvia de ideas** (15 min): Piensa en objetivos para abordar el hambre.
-2. **Propuestas** (20 min): Escribe tus propuestas de ODS.
-3. **Discusión** (15 min): Comparte y discute ideas con el grupo.
-4. **Publicación** (10 min): Sube sugerencias al Ciberbús Escolar de la ONU.
+1. **Lluvia de ideas** (15 min): Pensá en objetivos para abordar el hambre.
+2. **Propuestas** (20 min): Escribí tus propuestas de ODS.
+3. **Discusión** (15 min): Compartí y discutí ideas con el grupo.
+4. **Publicación** (10 min): Subí sugerencias al Ciberbús Escolar de la ONU.
 
 ## Cierre
 - ¿Qué objetivos propondrías para combatir el hambre?

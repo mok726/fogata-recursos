@@ -3,7 +3,7 @@ title: "Superhéroes"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/superheroes-rrd/"
-description: "Crea una historieta sobre un superhéroe que ayuda a las personas después de un desastre."
+description: "Creá una historieta sobre un superhéroe que ayuda a las personas después de un desastre."
 summary: "Historieta sobre un superhéroe de rescate."
 
 author:
@@ -140,16 +140,16 @@ rama_rovers: []
 # ¡Superhéroes!
 
 ## Resumen
-Escribe una historia y crea una historieta sobre un superhéroe que ayuda a las personas después de un desastre.
+Escribí una historia y creá una historieta sobre un superhéroe que ayuda a las personas después de un desastre.
 
 ## Preparación
-- Piensa en los superhéroes que conoces.
-- Recuerda qué desastres has aprendido.
+- Pensá en los superhéroes que conocés.
+- Recordá qué desastres has aprendido.
 
 ## Desarrollo
-1. **Creación** (30 min): Diseña tu superhéroe y su historia.
-2. **Dibujo** (10 min): Crea la historieta.
-3. **Compartir** (5 min): Muestra tu historieta al grupo.
+1. **Creación** (30 min): Diseñá tu superhéroe y su historia.
+2. **Dibujo** (10 min): Creá la historieta.
+3. **Compartir** (5 min): Mostrá tu historieta al grupo.
 
 ## Cierre
 - ¿Qué poderes especiales tiene tu superhéroe?

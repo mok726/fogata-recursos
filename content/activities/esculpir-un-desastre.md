@@ -4,7 +4,7 @@ title: "Esculpir un Desastre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/esculpir-un-desastre/"
-description: "Talla una escultura en un pedazo de madera usando como inspiración un desastre. Usa madera recuperada de desastres o de fuentes sostenibles."
+description: "Talla una escultura en un pedazo de madera usando como inspiración un desastre. Usá madera recuperada de desastres o de fuentes sostenibles."
 summary: "Creación de una escultura inspirada en un desastre natural."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,19 +165,19 @@ rama_rovers:
 # Esculpir un Desastre
 
 ## Resumen
-Talla una escultura en un pedazo de madera usando como inspiración un desastre. Usa madera recuperada de desastres o de fuentes sostenibles.
+Talla una escultura en un pedazo de madera usando como inspiración un desastre. Usá madera recuperada de desastres o de fuentes sostenibles.
 
 ## Preparación
-1. Elige un desastre natural como inspiración (inundación, tifón, huracán, ciclón, terremoto, etc.).
-2. Reúne la madera (recuperada de desastres, de fuentes sostenibles o de la costa).
-3. Prepara las herramientas de tallado y asegura la supervisión de un adulto.
+1. Elegí un desastre natural como inspiración (inundación, tifón, huracán, ciclón, terremoto, etc.).
+2. Reuní la madera (recuperada de desastres, de fuentes sostenibles o de la costa).
+3. Prepará las herramientas de tallado y asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre el desastre elegido y cómo afectó a las personas y los bosques.
-2. **Diseño** (15 min): Diseña la escultura que vas a tallar.
+1. **Investigación** (20 min): Aprendé sobre el desastre elegido y cómo afectó a las personas y los bosques.
+2. **Diseño** (15 min): Diseñá la escultura que vas a tallar.
 3. **Tallado** (30-45 min): Talla la escultura en la madera.
 4. **Acabado** (15 min): Lija y barniza la escultura si es necesario.
-5. **Presentación** (15 min): Comparte tu obra con el grupo.
+5. **Presentación** (15 min): Compartí tu obra con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los desastres naturales y su impacto?

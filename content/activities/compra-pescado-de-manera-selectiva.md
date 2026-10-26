@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Compra Pescado de Manera Selectiva"
+title: "Comprá Pescado de Manera Selectiva"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/compra-pescado-de-manera-selectiva/"
-description: "Investiga qué pescado puedes comprar de manera sostenible y crea una guía de bolsillo."
+description: "Investigá qué pescado podés comprar de manera sostenible y creá una guía de bolsillo."
 summary: "Guía de compra sostenible de pescado."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,25 +165,25 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Compra Pescado de Manera Selectiva
+# Comprá Pescado de Manera Selectiva
 
 ## Resumen
-Investiga qué pescado puedes comprar de manera sostenible y crea una guía de bolsillo.
+Investigá qué pescado podés comprar de manera sostenible y creá una guía de bolsillo.
 
 ## Preparación
-1. Investiga las piscifactorías y pesquerías de tu zona.
-2. Averigua cómo se pescan las diferentes especies.
-3. Prepara material para la guía.
+1. Investigá las piscifactorías y pesquerías de tu zona.
+2. Averiguá cómo se pescan las diferentes especies.
+3. Prepará material para la guía.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga qué pescado es sostenible.
-2. **Guía** (20 min): Crea una guía de bolsillo.
-3. **Collage** (15 min): Prepara un collage creativo.
-4. **Compartir** (15 min): Comparte la guía con tu familia.
+1. **Investigación** (20 min): Investigá qué pescado es sostenible.
+2. **Guía** (20 min): Creá una guía de bolsillo.
+3. **Collage** (15 min): Prepará un collage creativo.
+4. **Compartir** (15 min): Compartí la guía con tu familia.
 
 ## Cierre
-- ¿Qué pescado puedes comprar de manera sostenible?
-- ¿Cuál debes evitar?
+- ¿Qué pescado podés comprar de manera sostenible?
+- ¿Cuál debés evitar?
 - ¿Qué compromiso adquieres para comprar pescado de manera responsable?
 
 ---

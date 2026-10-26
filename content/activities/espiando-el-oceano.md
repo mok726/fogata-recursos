@@ -166,18 +166,18 @@ rama_rovers:
 Es hora de crear unas increíbles 'cajas para espiar' sobre el océano. Todos los participantes deben llevar una caja para reutilizar (de cereal, de zapatos o cualquier caja que tengan que pueda ser reciclada).
 
 ## Preparación
-1. Prepara materiales para manualidades.
-2. Organiza el espacio de trabajo.
-3. Explica la actividad al grupo.
+1. Prepará materiales para manualidades.
+2. Organizá el espacio de trabajo.
+3. Explicá la actividad al grupo.
 
 ## Desarrollo
 1. Cada participante decora su caja con materiales de manualidades.
-2. Crea una imagen submarina dentro de la caja.
+2. Creá una imagen submarina dentro de la caja.
 3. Con la ayuda de tu profesor o dirigente, cubre las imágenes con papel o cartulina negra.
-4. Pide a todos los participantes que espíen dentro de cada caja.
+4. Pedí a todos los participantes que espíen dentro de cada caja.
 
 ## Cierre
-1. Reflexiona: ¿Cómo se sintieron cuando no vieron 'nada'?
+1. Reflexioná: ¿Cómo se sintieron cuando no vieron 'nada'?
 2. Discutan: ¿En qué se parece esto a lo que está sucediendo con los ecosistemas y los animales marinos a causa del cambio climático?
 3. Pregunta final: ¿Qué podemos hacer para evitar que se pierdan nuestros preciosos recursos y animales marinos?
 

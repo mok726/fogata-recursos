@@ -157,22 +157,22 @@ rama_rovers:
 # ¡Conservación práctica!
 
 ## Resumen
-Comprométete en la conservación de la biodiversidad. Únete a una organización de conservación. Visita un centro de rescate de animales salvajes y ofrécete a ayudar en el centro durante un periodo de tiempo. Informa a tu grupo acerca de tus actividades, sobre lo que te interesa y cómo tus esfuerzos están ayudando a la biodiversidad.
+Comprométete en la conservación de la biodiversidad. Únete a una organización de conservación. Visitá un centro de rescate de animales salvajes y ofrecete a ayudar en el centro durante un periodo de tiempo. Informá a tu grupo acerca de tus actividades, sobre lo que te interesa y cómo tus esfuerzos están ayudando a la biodiversidad.
 
 ## Preparación
-1. Identifica una organización de conservación local.
-2. Contacta a la organización para ofrecer tu ayuda.
-3. Organiza los horarios de voluntariado.
+1. Identificá una organización de conservación local.
+2. Contactá a la organización para ofrecer tu ayuda.
+3. Organizá los horarios de voluntariado.
 
 ## Desarrollo
 1. Únete a la organización de conservación.
-2. Visita el centro de rescate de animales.
-3. Ofrece tu ayuda durante un periodo de tiempo.
-4. Aprende sobre las actividades de conservación.
+2. Visitá el centro de rescate de animales.
+3. Ofrecé tu ayuda durante un periodo de tiempo.
+4. Aprendé sobre las actividades de conservación.
 
 ## Cierre
-1. Informa a tu grupo sobre tus actividades.
-2. Reflexiona: ¿Cómo están ayudando tus esfuerzos?
+1. Informá a tu grupo sobre tus actividades.
+2. Reflexioná: ¿Cómo están ayudando tus esfuerzos?
 3. Pregunta final: ¿Qué aprendiste trabajando en conservación?
 
 ## Texto original completo de la actividad

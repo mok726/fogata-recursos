@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/pesquerias-utiles/"
 description: "Los participantes exploran los múltiples beneficios que los seres humanos reciben de las pesquerías, desde alimentos hasta empleos, medicinas y recreación."
-summary: "Explora los beneficios de las pesquerías."
+summary: "Explorá los beneficios de las pesquerías."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -172,23 +172,23 @@ translation_notice:
 Las pesquerías proporcionan innumerables beneficios a los seres humanos: alimentos, empleos, decoración, medicinas, recreación y mucho más. En esta actividad, los participantes exploran los múltiples beneficios que reciben de las pesquerías y crean un mural para mostrar lo que han aprendido.
 
 ## Preparación
-1. Prepara los materiales: pizarra, revistas, periódicos, cartulina, pegamento.
-2. Pide a los participantes que traigan etiquetas de alimentos acuáticos (pescado, mariscos, etc.) de sus casas.
+1. Prepará los materiales: pizarra, revistas, periódicos, cartulina, pegamento.
+2. Pedí a los participantes que traigan etiquetas de alimentos acuáticos (pescado, mariscos, etc.) de sus casas.
 
 ## Desarrollo
 
 ### Paso 1: Discusión inicial
-1. Comienza preguntando a los participantes quién disfruta comer pescado, langosta o camarones. ¿Cuándo fue la última vez que comieron pescado o mariscos?
-2. Discute con tu grupo de dónde provienen los alimentos acuáticos y los muchos tipos de alimentos que obtenemos del agua.
+1. Comenzá preguntando a los participantes quién disfruta comer pescado, langosta o camarones. ¿Cuándo fue la última vez que comieron pescado o mariscos?
+2. Discutí con tu grupo de dónde provienen los alimentos acuáticos y los muchos tipos de alimentos que obtenemos del agua.
 
 ### Paso 2: ¿Qué es una pesquería?
-3. Pide a los participantes que discutan qué creen que es una pesquería. Usa la siguiente información para explicar que hay tres componentes que interactúan en una pesquería:
+3. Pedí a los participantes que discutan qué creen que es una pesquería. Usá la siguiente información para explicar que hay tres componentes que interactúan en una pesquería:
 
 - **Hábitat**: el entorno, incluyendo componentes vivos y no vivos en el que vive el organismo.
 - **Biota**: los organismos vivos en un ecosistema, incluyendo peces, plancton, insectos acuáticos, aves y mamíferos.
 - **Personas**: usuarios de la pesquería y competidores por el agua de las pesquerías.
 
-4. Una pesquería puede encontrarse tanto en aguas saladas como dulces. Pide a los participantes que discutan cómo estos tres componentes interactúan entre sí:
+4. Una pesquería puede encontrarse tanto en aguas saladas como dulces. Pedí a los participantes que discutan cómo estos tres componentes interactúan entre sí:
 
 **Organismos < > Hábitat < > Personas**
 
@@ -196,7 +196,7 @@ Las pesquerías proporcionan innumerables beneficios a los seres humanos: alimen
 5. Usando las etiquetas de alimentos, pide a tu grupo que clasifique los productos acuáticos según los tipos de hábitats acuáticos en los que se encuentran: agua salada (océano, estuario, marisma) y agua dulce (lago, estanque, río, arroyo).
 
 ### Paso 4: Usos de las pesquerías
-6. Los participantes saben que usamos las pesquerías para alimentos (el 70 por ciento de la cosecha es consumida por personas). Pregúntales qué otros usos les damos:
+6. Los participantes saben que usamos las pesquerías para alimentos (el 70 por ciento de la cosecha es consumida por personas). Preguntales qué otros usos les damos:
 
 - **Empleo**: 200 millones de empleos dependen de la industria pesquera en todo el mundo.
 - **Decoración y joyería**: conchas, perlas, corales, moluscos.
@@ -210,14 +210,14 @@ Las pesquerías proporcionan innumerables beneficios a los seres humanos: alimen
 - **Valor estético**.
 
 ### Paso 5: Creación del mural
-7. Pide a los participantes que usen periódicos y revistas para recortar imágenes de todos los alimentos derivados de ambientes acuáticos, así como los diferentes usos que las personas dan a las pesquerías.
-8. Pide a tu grupo que construya un mural o tablón de anuncios sobre **"Nuestras Pesquerías Útiles"**.
+7. Pedí a los participantes que usen periódicos y revistas para recortar imágenes de todos los alimentos derivados de ambientes acuáticos, así como los diferentes usos que las personas dan a las pesquerías.
+8. Pedí a tu grupo que construya un mural o tablón de anuncios sobre **"Nuestras Pesquerías Útiles"**.
 
 ## Cierre
-- ¿Cómo usas tú una pesquería?
+- ¿Cómo usás vos una pesquería?
 - ¿Te sorprenden algunos de los usos de una pesquería?
 - ¿Qué requisitos ambientales deben cumplirse para mantener una pesquería?
-- ¿Qué pasaría si las fuentes de agua se contaminaran? ¿Quién es responsable de proteger estas fuentes de agua? ¿Qué puedes hacer tú?
+- ¿Qué pasaría si las fuentes de agua se contaminaran? ¿Quién es responsable de proteger estas fuentes de agua? ¿Qué podés hacer vos?
 
 ## Texto original completo de la actividad
 

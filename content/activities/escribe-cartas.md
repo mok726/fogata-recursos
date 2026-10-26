@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Escribe Cartas"
+title: "Escribí Cartas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/escribe-cartas/"
-description: "Escribe cartas a líderes gubernamentales para presionar sobre temas de nutrición y hambre."
+description: "Escribí cartas a líderes gubernamentales para presionar sobre temas de nutrición y hambre."
 summary: "Cartas a líderes sobre nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -162,25 +162,25 @@ rama_rovers:
   - 23  # Ejercito plena y responsablemente mis derechos como ciudadano/a.
 ---
 
-# Escribe Cartas
+# Escribí Cartas
 
 ## Resumen
-Escribe cartas a líderes gubernamentales para presionar sobre temas de nutrición y hambre.
+Escribí cartas a líderes gubernamentales para presionar sobre temas de nutrición y hambre.
 
 ## Preparación
-1. Investiga sobre temas de nutrición y hambre.
-2. Identifica a los líderes gubernamentales o políticos a quienes escribir.
-3. Prepara argumentos claros.
+1. Investigá sobre temas de nutrición y hambre.
+2. Identificá a los líderes gubernamentales o políticos a quienes escribir.
+3. Prepará argumentos claros.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre los temas.
-2. **Redacción** (20 min): Escribe la carta con mensajes claros.
-3. **Firma** (10 min): Intenta conseguir más firmas.
-4. **Envío** (10 min): Envía las cartas.
+1. **Investigación** (20 min): Investigá sobre los temas.
+2. **Redacción** (20 min): Escribí la carta con mensajes claros.
+3. **Firma** (10 min): Intentá conseguir más firmas.
+4. **Envío** (10 min): Enviá las cartas.
 
 ## Cierre
 - ¿Qué temas de nutrición abordaste en tu carta?
-- ¿Cómo puedes continuar presionando para lograr cambios?
+- ¿Cómo podés continuar presionando para lograr cambios?
 - ¿Qué compromiso adquieres para involucrarte en temas políticos?
 
 ---

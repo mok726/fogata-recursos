@@ -4,8 +4,8 @@ title: "Una comida solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-solar/"
-description: "Utiliza la cocina/horno solar para cocinar en tu grupo, aprendiendo métodos de cocción más sustentables mientras preparas alimentos."
-summary: "Cocina una comida con energía solar."
+description: "Utilizá la cocina/horno solar para cocinar en tu grupo, aprendiendo métodos de cocción más sustentables mientras preparás alimentos."
+summary: "Cociná una comida con energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -35,7 +35,7 @@ materials:
   - Ingredientes para cocinar
   - Utensilios de cocina
 tools:
-  - Cocina solar u horno solar (construido en actividad C.02)
+  - Cociná solar u horno solar (construido en actividad C.02)
 responsible:
   - Docente o Scouter
 prep_time: "1 hora"

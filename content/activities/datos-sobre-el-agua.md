@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/datos-sobre-el-agua/"
 description: "Los participantes exploran datos impactantes sobre el agua a través de juegos de roles y pequeñas obras de teatro, reflexionando sobre la crisis mundial del agua."
-summary: "Representa datos sobre el agua."
+summary: "Representá datos sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,23 +168,23 @@ translation_notice:
 Ningún ser vivo en la Tierra puede sobrevivir sin agua. El agua es esencial para la salud y el bienestar humanos. El agua es uno de los recursos más valiosos del mundo, pero también uno de los más escasos. En esta actividad, los participantes exploran datos impactantes sobre el agua a través de juegos de roles y pequeñas obras de teatro, reflexionando sobre la crisis mundial del agua.
 
 ## Preparación
-1. Escribe cada uno de los siguientes datos sobre el agua en pequeños trozos de papel.
-2. Divide a los participantes en equipos pequeños.
+1. Escribí cada uno de los siguientes datos sobre el agua en pequeños trozos de papel.
+2. Dividí a los participantes en equipos pequeños.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a revisar diferentes datos relacionados con la crisis mundial del agua.
+1. Explicá a tu grupo que van a revisar diferentes datos relacionados con la crisis mundial del agua.
 
 ### Paso 2: Asignación de datos
-2. Divide a los participantes en equipos pequeños y pide a cada equipo que elija un dato al azar.
+2. Dividí a los participantes en equipos pequeños y pedí a cada equipo que elija un dato al azar.
 
 ### Paso 3: Preparación de la obra
-3. Explica que cada equipo tendrá que preparar una pequeña obra de teatro para presentar su dato al resto del grupo.
+3. Explicá que cada equipo tendrá que preparar una pequeña obra de teatro para presentar su dato al resto del grupo.
 4. Da a los equipos tiempo para preparar sus obras.
 
 ### Paso 4: Presentación
-5. Pide a cada grupo que presente su obra y fomenta la discusión.
+5. Pedí a cada grupo que presente su obra y fomentá la discusión.
 
 ## Datos sobre el Agua
 
@@ -213,7 +213,7 @@ Ningún ser vivo en la Tierra puede sobrevivir sin agua. El agua es esencial par
 ## Cierre
 - ¿Qué dato relacionado con el agua te sorprendió más? ¿Por qué?
 - ¿Por qué podemos decir que el agua impacta todo?
-- ¿Puedes tú y tu grupo hacer algo para ayudar a combatir la crisis del agua?
+- ¿Podés vos y tu grupo hacer algo para ayudar a combatir la crisis del agua?
 
 ## Texto original completo de la actividad
 

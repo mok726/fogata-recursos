@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos"
+title: "Auditá tus hábitos de uso de plásticos y averiguá a dónde van tus residuos"
 duration: "Flexible (seguimiento de 1 mes)"
 layout: "layouts/activity.njk"
 permalink: "/activities/audita-residuos-plastico/"
 description: "Los jóvenes auditan su uso de plásticos durante un mes, identifican dónde van sus residuos y se comprometen a reducir su consumo de plásticos en un 50%, documentando su progreso en redes sociales o blogs."
-summary: "Audita tu plástico y reduce su uso."
+summary: "Auditá tu plástico y reducí su uso."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,10 +170,10 @@ rama_rovers:
 
 ---
 
-# ¡Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos!
+# ¡Auditá tus hábitos de uso de plásticos y averiguá a dónde van tus residuos!
 
 ## Resumen
-Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de Mares Limpios para revisar tus hábitos de uso de plásticos y tomar medidas para poder reducirlos. El desafío es reducir el uso de plásticos en un 50%, ya sea de forma individual o colectiva. Esto significará reducir, reutilizar o reemplazar tus productos plásticos. Crea un blog o una campaña de Instagram para mostrar tu progreso y compártelo con la comunidad en general.
+Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de Mares Limpios para revisar tus hábitos de uso de plásticos y tomar medidas para poder reducirlos. El desafío es reducir el uso de plásticos en un 50%, ya sea de forma individual o colectiva. Esto significará reducir, reutilizar o reemplazar tus productos plásticos. Creá un blog o una campaña de Instagram para mostrar tu progreso y compártelo con la comunidad en general.
 
 ## Preparación
 1. Obtener la Guía de Mares Limpios (Clean Seas Guide).
@@ -206,7 +206,7 @@ Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de
 ## Cierre
 1. ¿Cuánto lograste reducir tu uso de plásticos?
 2. ¿Qué desafíos encontraste en el camino?
-3. ¿Cómo puedes mantener estos cambios a largo plazo?
+3. ¿Cómo podés mantener estos cambios a largo plazo?
 
 ## Texto original completo de la actividad
 

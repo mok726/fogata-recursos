@@ -3,7 +3,7 @@ title: "Derecho a la alimentación"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/derecho-a-la-alimentacion/"
-description: "Aprende sobre el derecho humano a la alimentación."
+description: "Aprendé sobre el derecho humano a la alimentación."
 summary: "Derecho humano a la alimentación."
 
 author:
@@ -149,17 +149,17 @@ rama_rovers:
 # ¡Derecho a la alimentación!
 
 ## Resumen
-Aprende sobre el derecho humano a la alimentación usando el libro de dibujos.
+Aprendé sobre el derecho humano a la alimentación usando el libro de dibujos.
 
 ## Preparación
-1. Accede al libro de dibujos en línea.
-2. Prepara materiales para dibujar.
+1. Accedé al libro de dibujos en línea.
+2. Prepará materiales para dibujar.
 
 ## Desarrollo
-1. **Lectura** (20 min): Lee el libro de dibujos.
+1. **Lectura** (20 min): Leé el libro de dibujos.
 2. **Reflexión** (15 min): ¿Qué es el derecho a la alimentación?
 3. **Discusión** (15 min): ¿Cómo podemos garantizar este derecho?
-4. **Acción** (10 min): Comparte lo aprendido.
+4. **Acción** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué es el derecho a la alimentación?

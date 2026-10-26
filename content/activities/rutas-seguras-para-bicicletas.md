@@ -3,7 +3,7 @@ title: "Rutas seguras para bicicletas"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/rutas-seguras-para-bicicletas/"
-description: "Empieza una campaña para la creación de carriles para bicicletas en tu vecindario."
+description: "Empezá una campaña para la creación de carriles para bicicletas en tu vecindario."
 summary: "Campaña de ciclovías seguras."
 
 author:
@@ -143,18 +143,18 @@ rama_rovers:
 # ¡Rutas seguras para bicicletas!
 
 ## Resumen
-Empieza una campaña para la creación de rutas seguras (carriles) para andar en bicicleta en tu vecindario.
+Empezá una campaña para la creación de rutas seguras (carriles) para andar en bicicleta en tu vecindario.
 
 ## Preparación
-1. Identifica la necesidad de ciclovías.
-2. Prepara materiales para la campaña.
-3. Reúne apoyo de la comunidad.
+1. Identificá la necesidad de ciclovías.
+2. Prepará materiales para la campaña.
+3. Reuní apoyo de la comunidad.
 
 ## Desarrollo
 1. **Investigación** (15 min): ¿Dónde se necesitan carriles?
-2. **Campaña** (30 min): Promociona la iniciativa.
-3. **Acción** (continua): Trabaja para lograr las rutas seguras.
-4. **Reflexión** (15 min): Comparte lo aprendido.
+2. **Campaña** (30 min): Promocioná la iniciativa.
+3. **Acción** (continua): Trabajá para lograr las rutas seguras.
+4. **Reflexión** (15 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Por qué son importantes las rutas seguras?

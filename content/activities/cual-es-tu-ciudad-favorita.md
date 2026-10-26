@@ -163,24 +163,24 @@ rama_rovers:
 # ¿Cuál es tu ciudad favorita?
 
 ## Resumen
-Hemos aprendido sobre muchas ciudades diferentes en el capítulo anterior. ¿Cuál te gusta más y por qué? Elige una ciudad mencionada antes e investiga más sobre ella. Puedes leer un libro, ver un documental o ver algunos videos relacionados en YouTube.
+Hemos aprendido sobre muchas ciudades diferentes en el capítulo anterior. ¿Cuál te gusta más y por qué? Elegí una ciudad mencionada antes e investigá más sobre ella. Podés leer un libro, ver un documental o ver algunos videos relacionados en YouTube.
 
 ## Preparación
-1. Elige una ciudad para investigar.
-2. Prepara materiales para tu presentación.
-3. Organiza los grupos de trabajo.
+1. Elegí una ciudad para investigar.
+2. Prepará materiales para tu presentación.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga sobre la ciudad elegida.
-2. Aprende sobre su contexto social, económico y cultural.
-3. Investiga sobre su medio ambiente y estilos de construcción.
-4. Prepara una presentación sistemática frente a tus compañeros.
-5. Reflexiona: ¿Crees que es una ciudad verde o no?
+1. Investigá sobre la ciudad elegida.
+2. Aprendé sobre su contexto social, económico y cultural.
+3. Investigá sobre su medio ambiente y estilos de construcción.
+4. Prepará una presentación sistemática frente a tus compañeros.
+5. Reflexioná: ¿Creés que es una ciudad verde o no?
 6. Para participantes mayores: Propón 5 ideas para que tu ciudad elegida sea más verde.
 
 ## Cierre
-1. Comparte tu presentación con el grupo.
-2. Compara las diferentes ciudades investigadas.
+1. Compartí tu presentación con el grupo.
+2. Compará las diferentes ciudades investigadas.
 3. Pregunta final: ¿Qué ciudad te gustaría visitar y por qué?
 
 ## Texto original completo de la actividad

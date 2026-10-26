@@ -3,7 +3,7 @@ title: "Grupo de investigación"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/grupo-de-investigacion/"
-description: "Diseña y lleva a cabo tu propio grupo de investigación sobre el cambio climático."
+description: "Diseñá y lleva a cabo tu propio grupo de investigación sobre el cambio climático."
 summary: "Grupo de investigación climática."
 
 author:
@@ -144,18 +144,18 @@ rama_rovers:
 # ¡Grupo de investigación!
 
 ## Resumen
-Diseña y lleva a cabo tu propio grupo de investigación sobre el cambio climático.
+Diseñá y lleva a cabo tu propio grupo de investigación sobre el cambio climático.
 
 ## Preparación
-1. Define el tema de investigación.
-2. Prepara instrumentos de medición.
-3. Organiza el grupo.
+1. Definí el tema de investigación.
+2. Prepará instrumentos de medición.
+3. Organizá el grupo.
 
 ## Desarrollo
-1. **Planificación** (20 min): Diseña la investigación.
-2. **Medición** (tiempo variable): Realiza mediciones.
-3. **Análisis** (20 min): Analiza los datos.
-4. **Compartir** (15 min): Comparte los resultados.
+1. **Planificación** (20 min): Diseñá la investigación.
+2. **Medición** (tiempo variable): Realizá mediciones.
+3. **Análisis** (20 min): Analizá los datos.
+4. **Compartir** (15 min): Compartí los resultados.
 
 ## Cierre
 - ¿Qué investigaste?

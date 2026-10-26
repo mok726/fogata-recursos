@@ -3,7 +3,7 @@ title: "Protección contra la Contaminación"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/proteccion-contra-la-contaminacion/"
-description: "Crea un póster sobre los efectos de la contaminación en el suelo."
+description: "Creá un póster sobre los efectos de la contaminación en el suelo."
 summary: "Póster sobre contaminación del suelo."
 
 author:
@@ -146,23 +146,23 @@ rama_rovers:
 # ¡Protección contra la Contaminación!
 
 ## Resumen
-Crea un póster sobre los efectos de la contaminación en el suelo y cómo prevenirla.
+Creá un póster sobre los efectos de la contaminación en el suelo y cómo prevenirla.
 
 ## Preparación
-1. Investiga sobre los efectos de la contaminación en el suelo.
-2. Reúne materiales para el póster.
-3. Piensa en mensajes preventivos.
+1. Investigá sobre los efectos de la contaminación en el suelo.
+2. Reuní materiales para el póster.
+3. Pensá en mensajes preventivos.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre la contaminación del suelo.
-2. **Creación** (30 min): Diseña y dibuja tu póster.
-3. **Exhibición** (10 min): Coloca el póster en lugares públicos.
-4. **Acción** (5 min): Convence a tu familia de usar productos eco-amigables.
+1. **Investigación** (15 min): Aprendé sobre la contaminación del suelo.
+2. **Creación** (30 min): Diseñá y dibujá tu póster.
+3. **Exhibición** (10 min): Colocá el póster en lugares públicos.
+4. **Acción** (5 min): Convencé a tu familia de usar productos eco-amigables.
 
 ## Cierre
 - ¿Cómo afecta la contaminación al suelo?
 - ¿Qué podemos hacer para prevenirla?
-- ¿Qué productos eco-amigables puedes recomendar?
+- ¿Qué productos eco-amigables podés recomendar?
 
 ---
 ## Texto original completo de la actividad

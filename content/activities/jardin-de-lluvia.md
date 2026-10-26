@@ -5,7 +5,7 @@ duration: "3 horas (1h organización + 2h construcción)"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-de-lluvia/"
 description: "Los participantes construyen un jardín de lluvia en su escuela o lugar de reunión para filtrar el agua de lluvia, reducir la escorrentía y mejorar el medio ambiente local."
-summary: "Construye un jardín de lluvia."
+summary: "Construí un jardín de lluvia."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -173,31 +173,31 @@ translation_notice:
 Durante un evento de lluvia, el agua es recolectada por superficies impermeables como techos, patios, entradas y estacionamientos. Esto se convierte en escorrentía de aguas pluviales, que recoge contaminantes y fluye sin tratamiento hacia los desagües pluviales y zanjas, eventualmente entrando en los arroyos, embalses y acuíferos de la ciudad. Un **jardín de lluvia** captura esta escorrentía antes de que entre en estos sistemas. El agua se infiltra fácilmente en el suelo gracias a las raíces profundas de las plantas nativas, permitiendo la filtración de contaminantes y la recarga del agua subterránea. En esta actividad, los participantes construyen un jardín de lluvia en su escuela o lugar de reunión.
 
 ## Preparación
-1. Habla con las autoridades de la escuela antes de desarrollar esta actividad. Asegúrate de obtener su permiso.
-2. Pide ayuda al jardinero de la escuela (o a un jardinero profesional) para elegir el lugar adecuado y las plantas nativas apropiadas.
+1. Hablá con las autoridades de la escuela antes de desarrollar esta actividad. Asegurate de obtener su permiso.
+2. Pedí ayuda al jardinero de la escuela (o a un jardinero profesional) para elegir el lugar adecuado y las plantas nativas apropiadas.
 
 ## Desarrollo
 
 ### Paso 1: Explicación
-1. Explica a tu grupo que van a construir un **jardín de lluvia** para la escuela o lugar de reunión.
-2. Define qué es un jardín de lluvia:
+1. Explicá a tu grupo que van a construir un **jardín de lluvia** para la escuela o lugar de reunión.
+2. Definí qué es un jardín de lluvia:
    - Un jardín plantado en una depresión poco profunda que captura y trata el agua de lluvia.
    - Un proceso natural que mejora la calidad del agua filtrando contaminantes y reduciendo la cantidad de escorrentía de aguas pluviales.
    - Una mejora visual para la escuela o lugar de reunión que crea un paisaje atractivo con plantas nativas y atrae aves, abejas y mariposas.
 
 ### Paso 2: Planificación
 3. Tengan en cuenta las siguientes ideas al construir un jardín de lluvia:
-   - Observa el patrón de drenaje existente del patio.
-   - Encuentra un área cuesta abajo desde los bajantes de agua de lluvia o superficies impermeables, como entradas de vehículos, donde puedan cavar una depresión poco profunda.
-   - Evita ubicaciones directamente bajo la copa de los árboles o aquellas propensas a tener agua estancada.
+   - Observá el patrón de drenaje existente del patio.
+   - Encontrá un área cuesta abajo desde los bajantes de agua de lluvia o superficies impermeables, como entradas de vehículos, donde puedan cavar una depresión poco profunda.
+   - Evitá ubicaciones directamente bajo la copa de los árboles o aquellas propensas a tener agua estancada.
    - Las áreas soleadas o parcialmente soleadas son mejores para los jardines de lluvia, pero también son posibles las ubicaciones sombreadas.
-   - Asegúrate de que el jardín de lluvia esté al menos a 3 metros de cualquier edificio para evitar que el agua se filtre en los cimientos.
+   - Asegurate de que el jardín de lluvia esté al menos a 3 metros de cualquier edificio para evitar que el agua se filtre en los cimientos.
    - Los jardines de lluvia no deben colocarse sobre o cerca del campo de drenaje de un sistema séptico.
-   - Considera dónde entrará el agua al jardín y dónde podría desbordarse.
-   - Evita que el exceso de escorrentía vaya a la propiedad de un vecino.
+   - Considerá dónde entrará el agua al jardín y dónde podría desbordarse.
+   - Evitá que el exceso de escorrentía vaya a la propiedad de un vecino.
    - Si capturas agua de lluvia de un bajante, usa formas creativas, como un canal abierto de rocas de río, para dirigir el agua hacia el jardín de lluvia.
-   - Añade un terraplén en el contorno cuesta abajo del paisaje para fomentar que el agua de lluvia se recolecte y se infiltre en el suelo.
-   - Considera incluir un vertedero, o muesca, en el terraplén para proporcionar un camino de desbordamiento para el agua durante eventos de lluvia más grandes.
+   - Añadí un terraplén en el contorno cuesta abajo del paisaje para fomentar que el agua de lluvia se recolecte y se infiltre en el suelo.
+   - Considerá incluir un vertedero, o muesca, en el terraplén para proporcionar un camino de desbordamiento para el agua durante eventos de lluvia más grandes.
    - Se recomiendan especies de plantas nativas para los jardines de lluvia por sus extensos sistemas radiculares y su tolerancia a las condiciones climáticas locales. Sus estructuras radiculares profundas aflojan el suelo y ayudan a que más agua se infiltre en el suelo.
    - Se puede usar una variedad de flores nativas, helechos, pastos, juncos y arbustos para personalizar el aspecto del jardín de lluvia.
 
@@ -205,11 +205,11 @@ Durante un evento de lluvia, el agua es recolectada por superficies impermeables
 4. Una vez que estén listos, pide a tu grupo que te ayude a construir el jardín de lluvia.
 
 ### Paso 4: Seguridad
-**Asegúrate de tomar las precauciones de seguridad necesarias.**
+**Asegurate de tomar las precauciones de seguridad necesarias.**
 
 ## Cierre
 - ¿Cómo resultó tu jardín de lluvia?
-- ¿Por qué crees que los jardines de lluvia se consideran "una práctica de gestión óptima"?
+- ¿Por qué creés que los jardines de lluvia se consideran "una práctica de gestión óptima"?
 - ¿Qué beneficios traerá tu jardín de lluvia?
 
 ## Texto original completo de la actividad

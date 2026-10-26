@@ -172,29 +172,29 @@ translation_notice:
 Muchas personas no se dan cuenta de que las plantas son esenciales para la salud de nuestro suministro de agua. Los humedales y sus plantas son una alternativa cada vez más popular para filtrar aguas residuales de hogares, fábricas, escuelas y negocios. Las plantas que crecen en un humedal filtran contaminantes de la escorrentía, el agua de lluvia y las aguas residuales antes de que entren en los cuerpos de agua. En esta actividad, los participantes realizan un experimento con apio y colorante para demostrar cómo las plantas absorben contaminantes del agua.
 
 ## Preparación
-1. Prepara los materiales: recipiente transparente, apio, colorante, agua, cuchillo.
-2. Prepara la solución de agua con colorante.
+1. Prepará los materiales: recipiente transparente, apio, colorante, agua, cuchillo.
+2. Prepará la solución de agua con colorante.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a realizar un pequeño experimento sobre la calidad del agua y las plantas. Los científicos e ingenieros prueban el agua de la comunidad para garantizar su seguridad.
-2. Pide a un participante que vierta una taza de agua en un recipiente transparente grande y explica que esta es agua limpia apta para uso humano.
-3. Pide a otro participante que añada una gota de colorante alimenticio y explica que esto representa la contaminación. Todos pueden ver el color que adquiere el agua. ¿Pueden ver la contaminación?
-4. Pide a otro participante que añada más y más agua y pregunta en diferentes momentos si todavía pueden ver la contaminación. A medida que el recipiente se llena, el color se diluye y no es muy intenso. ¿Todavía está ahí la contaminación (colorante)?
+1. Explicá a tu grupo que van a realizar un pequeño experimento sobre la calidad del agua y las plantas. Los científicos e ingenieros prueban el agua de la comunidad para garantizar su seguridad.
+2. Pedí a un participante que vierta una taza de agua en un recipiente transparente grande y explicá que esta es agua limpia apta para uso humano.
+3. Pedí a otro participante que añada una gota de colorante alimenticio y explicá que esto representa la contaminación. Todos pueden ver el color que adquiere el agua. ¿Pueden ver la contaminación?
+4. Pedí a otro participante que añada más y más agua y pregunta en diferentes momentos si todavía pueden ver la contaminación. A medida que el recipiente se llena, el color se diluye y no es muy intenso. ¿Todavía está ahí la contaminación (colorante)?
 
 ### Paso 2: Preparación del experimento
-5. A continuación, prepara una solución en un vaso de precipitados añadiendo varias gotas de colorante alimenticio al agua. Una vez más, esto representará la contaminación por una sustancia tóxica (un pesticida, por ejemplo). Pide a tu grupo que proponga otros ejemplos.
-6. Pide a los participantes que imaginen el agua fluyendo a través de un humedal que tiene muchas plantas. Explica a tu grupo que los tallos de apio son similares a las plantas que crecen en un humedal, como juncos, espadañas y pastos.
+5. A continuación, prepara una solución en un vaso de precipitados añadiendo varias gotas de colorante alimenticio al agua. Una vez más, esto representará la contaminación por una sustancia tóxica (un pesticida, por ejemplo). Pedí a tu grupo que proponga otros ejemplos.
+6. Pedí a los participantes que imaginen el agua fluyendo a través de un humedal que tiene muchas plantas. Explicá a tu grupo que los tallos de apio son similares a las plantas que crecen en un humedal, como juncos, espadañas y pastos.
 
 ### Paso 3: Configuración del experimento
-7. Corta el centímetro inferior de los tallos de apio y colócalos en el agua coloreada durante la noche. Debes continuar con la actividad al día siguiente (o puedes preparar la demostración un día antes de la lección).
+7. Cortá el centímetro inferior de los tallos de apio y colocalos en el agua coloreada durante la noche. Debés continuar con la actividad al día siguiente (o podés preparar la demostración un día antes de la lección).
 8. Con el tiempo, el agua coloreada viajará por acción capilar hacia arriba del tallo. Esta será una demostración visible de cómo las plantas pueden absorber contaminantes con el agua que "beben".
-9. Guía a los participantes para que formulen hipótesis sobre lo que creen que sucederá y registra sus respuestas en una tabla de la clase.
+9. Guiá a los participantes para que formulen hipótesis sobre lo que creen que sucederá y registrá sus respuestas en una tabla de la clase.
 
 ### Paso 4: Observación y discusión
-10. Al día siguiente, el agua coloreada puede o no ser visible en el exterior del tallo. Corta trozos de 3 cm de apio y entrégalos a los participantes para que los estudien de cerca. Verán puntos de colores en las secciones transversales, que son canales llenos de agua en el apio.
-11. Pide a los participantes que respondan las siguientes preguntas:
+10. Al día siguiente, el agua coloreada puede o no ser visible en el exterior del tallo. Cortá trozos de 3 cm de apio y entregalos a los participantes para que los estudien de cerca. Verán puntos de colores en las secciones transversales, que son canales llenos de agua en el apio.
+11. Pedí a los participantes que respondan las siguientes preguntas:
 
 - ¿Cómo ayudan las plantas de los humedales a purificar el agua? (Purifican el agua absorbiendo contaminantes).
 - ¿Por qué el agua que queda en el vaso de precipitados todavía está contaminada? (Las plantas solo pueden hacer hasta cierto punto. A medida que el agua nueva, esperemos que limpia, fluye hacia el sistema, los contaminantes se diluirán un poco y el agua estará menos contaminada).
@@ -204,8 +204,8 @@ Muchas personas no se dan cuenta de que las plantas son esenciales para la salud
 
 ## Cierre
 - ¿Cómo afecta la contaminación del agua a las plantas? ¿Cómo podría esta contaminación afectar a los animales, incluidos los seres humanos?
-- ¿Qué cambio crees que se necesita hacer en tu comunidad para evitar contaminar los cuerpos de agua?
-- ¿Puedes hacer algo para ayudar?
+- ¿Qué cambio creés que se necesita hacer en tu comunidad para evitar contaminar los cuerpos de agua?
+- ¿Podés hacer algo para ayudar?
 
 ## Texto original completo de la actividad
 

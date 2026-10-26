@@ -4,7 +4,7 @@ title: "Hambre en el Hogar"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/hambre-en-el-hogar/"
-description: "Investiga cómo el hambre afecta a las personas en tu región o país. Elabora un reporte o póster sobre tus hallazgos."
+description: "Investigá cómo el hambre afecta a las personas en tu región o país. Elaborá un reporte o póster sobre tus hallazgos."
 summary: "Investigación sobre el hambre en tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,19 +163,19 @@ rama_rovers:
 # Hambre en el Hogar
 
 ## Resumen
-Investiga cómo el hambre afecta a las personas en tu región o país. Elabora un reporte o póster sobre tus hallazgos.
+Investigá cómo el hambre afecta a las personas en tu región o país. Elaborá un reporte o póster sobre tus hallazgos.
 
 ## Preparación
-1. Investiga el hambre en tu región o país.
-2. Identifica los principales factores que causan el hambre o malnutrición local.
-3. Busca organizaciones locales que trabajen contra el hambre.
+1. Investigá el hambre en tu región o país.
+2. Identificá los principales factores que causan el hambre o malnutrición local.
+3. Buscá organizaciones locales que trabajen contra el hambre.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga cómo el hambre afecta a las personas en tu región o país.
-2. **Análisis** (15 min): Identifica los principales factores que causan el hambre o malnutrición local.
-3. **Creación** (20 min): Elabora un reporte o póster con tus hallazgos.
-4. **Presentación** (15 min): Comparte tu reporte con tus amigos, familia y comunidad.
-5. **Extensión - 16+ (Caminantes y Rovers)** (tiempo continuo): Encuentra un banco de alimentos u ONG local que trabaje en estas cuestiones. Trabaja como voluntario una tarde cada semana durante un período de tiempo. Haz lo que puedas para despertar conciencia sobre el hambre en tu área local.
+1. **Investigación** (20 min): Investigá cómo el hambre afecta a las personas en tu región o país.
+2. **Análisis** (15 min): Identificá los principales factores que causan el hambre o malnutrición local.
+3. **Creación** (20 min): Elaborá un reporte o póster con tus hallazgos.
+4. **Presentación** (15 min): Compartí tu reporte con tus amigos, familia y comunidad.
+5. **Extensión - 16+ (Caminantes y Rovers)** (tiempo continuo): Encontrá un banco de alimentos u ONG local que trabaje en estas cuestiones. Trabajá como voluntario una tarde cada semana durante un período de tiempo. Hacé lo que puedas para despertar conciencia sobre el hambre en tu área local.
 
 ## Cierre
 - ¿Cuáles son las principales causas del hambre en tu área?

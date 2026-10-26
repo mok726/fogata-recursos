@@ -3,7 +3,7 @@ title: "Mantenerla Limpia"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/mantenerla-limpia/"
-description: "Visita una fábrica, granja o industria local para aprender sobre el tratamiento de aguas residuales."
+description: "Visitá una fábrica, granja o industria local para aprender sobre el tratamiento de aguas residuales."
 summary: "Investigación sobre tratamiento de aguas residuales."
 
 author:
@@ -149,18 +149,18 @@ rama_rovers:
 # ¡Mantenerla Limpia!
 
 ## Resumen
-Visita una fábrica, granja u otra industria local que use mucha agua para aprender sobre el tratamiento de aguas residuales.
+Visitá una fábrica, granja u otra industria local que use mucha agua para aprender sobre el tratamiento de aguas residuales.
 
 ## Preparación
-1. Identifica una industria local que use mucha agua.
-2. Organiza la visita.
-3. Prepara preguntas para hacer.
+1. Identificá una industria local que use mucha agua.
+2. Organizá la visita.
+3. Prepará preguntas para hacer.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para la visita.
-2. **Visita** (30 min): Recorre las instalaciones y aprende sobre el tratamiento.
+1. **Preparación** (15 min): Prepará preguntas para la visita.
+2. **Visita** (30 min): Recorré las instalaciones y aprendé sobre el tratamiento.
 3. **Análisis** (10 min): ¿Qué cambios harías si fuera tu negocio?
-4. **Discusión** (5 min): Comparte tus ideas con el grupo.
+4. **Discusión** (5 min): Compartí tus ideas con el grupo.
 
 ## Cierre
 - ¿Cómo trata la industria sus aguas residuales?

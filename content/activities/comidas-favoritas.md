@@ -4,7 +4,7 @@ title: "Comidas Favoritas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/comidas-favoritas/"
-description: "Explora los nutrientes de tus comidas favoritas y busca formas de hacerlas más saludables y sostenibles."
+description: "Explorá los nutrientes de tus comidas favoritas y buscá formas de hacerlas más saludables y sostenibles."
 summary: "Análisis y mejora de comidas favoritas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -125,7 +125,7 @@ activity_type:
 category:
   - Comidas
   - Nutrición
-  - Mejora
+  - Mejorá
 
 skills:
   - Pensamiento crítico
@@ -163,22 +163,22 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Comidas Favoritas
 
 ## Resumen
-Explora los nutrientes de tus comidas favoritas y busca formas de hacerlas más saludables y sostenibles.
+Explorá los nutrientes de tus comidas favoritas y buscá formas de hacerlas más saludables y sostenibles.
 
 ## Preparación
-1. Haz una lista de tus comidas favoritas.
-2. Investiga los nutrientes que contienen.
-3. Piensa en formas de hacerlas más saludables.
+1. Hacé una lista de tus comidas favoritas.
+2. Investigá los nutrientes que contienen.
+3. Pensá en formas de hacerlas más saludables.
 
 ## Desarrollo
-1. **Lista** (10 min): Escribe tus comidas favoritas.
-2. **Análisis** (15 min): Investiga los nutrientes que contienen.
-3. **Mejora** (15 min): Busca formas de hacerlas más saludables (ej. pizza casera en lugar de comprada).
-4. **Propuesta** (15 min): Haz una lista con cinco formas de mejorar tus comidas favoritas, haciéndolas más nutritivas y sostenibles.
+1. **Lista** (10 min): Escribí tus comidas favoritas.
+2. **Análisis** (15 min): Investigá los nutrientes que contienen.
+3. **Mejora** (15 min): Buscá formas de hacerlas más saludables (ej. pizza casera en lugar de comprada).
+4. **Propuesta** (15 min): Hacé una lista con cinco formas de mejorar tus comidas favoritas, haciéndolas más nutritivas y sostenibles.
 
 ## Cierre
 - ¿Qué nutrientes encontraste en tus comidas favoritas?
-- ¿Cómo puedes hacerlas más saludables?
+- ¿Cómo podés hacerlas más saludables?
 - ¿Qué compromiso adquieres para mejorar tu alimentación?
 
 ---

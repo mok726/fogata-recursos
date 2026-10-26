@@ -3,7 +3,7 @@ title: "Cuidemos nuestro medio ambiente"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuidemos-nuestro-medio-ambiente/"
-description: "Discute cómo consumes energía y haz un plan para reducirla."
+description: "Discutí cómo consumís energía y hacé un plan para reducirla."
 summary: "Plan de reducción de energía."
 
 author:
@@ -145,23 +145,23 @@ rama_rovers: []
 # ¡Cuidemos nuestro medio ambiente!
 
 ## Resumen
-Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria y haz un plan para reducirla.
+Discutí con tu familia, maestro o guía sobre cómo consumís energía en tu vida diaria y hacé un plan para reducirla.
 
 ## Preparación
-1. Reflexiona sobre tu consumo de energía diario.
-2. Prepara papel y lapiceras para tomar notas.
-3. Habla con tu familia sobre el proyecto.
+1. Reflexioná sobre tu consumo de energía diario.
+2. Prepará papel y lapiceras para tomar notas.
+3. Hablá con tu familia sobre el proyecto.
 
 ## Desarrollo
-1. **Discusión** (20 min): Habla sobre cómo usas energía.
-2. **Lista** (15 min): Haz una lista de formas de reducir energía.
-3. **Plan** (15 min): Crea un plan y síguelo durante un mes.
-4. **Compartir** (10 min): Comparte tu experiencia con amigos.
+1. **Discusión** (20 min): Hablá sobre cómo usás energía.
+2. **Lista** (15 min): Hacé una lista de formas de reducir energía.
+3. **Plan** (15 min): Creá un plan y seguilo durante un mes.
+4. **Compartir** (10 min): Compartí tu experiencia con amigos.
 
 ## Cierre
 - ¿Qué cambios lograste hacer?
 - ¿Qué fue lo más fácil y lo más difícil?
-- ¿Cómo te sientes al haber reducido tu consumo?
+- ¿Cómo te sentís al haber reducido tu consumo?
 
 ---
 ## Texto original completo de la actividad

@@ -4,7 +4,7 @@ title: "Charlas sobre Salud"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/charlas-sobre-salud/"
-description: "Investiga los problemas de salud más extendidos en tu país y organiza un informe grupal."
+description: "Investigá los problemas de salud más extendidos en tu país y organizá un informe grupal."
 summary: "Investigación sobre salud pública."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -116,7 +116,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -158,18 +158,18 @@ rama_rovers:
 # Charlas sobre Salud
 
 ## Resumen
-Investiga los problemas de salud más extendidos en tu país y organiza un informe grupal.
+Investigá los problemas de salud más extendidos en tu país y organizá un informe grupal.
 
 ## Preparación
-1. Investiga problemas de salud y enfermedades comunes en tu país.
-2. Averigua cuánto dinero público se invierte en atención sanitaria.
-3. Prepara una presentación.
+1. Investigá problemas de salud y enfermedades comunes en tu país.
+2. Averiguá cuánto dinero público se invierte en atención sanitaria.
+3. Prepará una presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga problemas de salud y enfermedades comunes.
+1. **Investigación** (25 min): Investigá problemas de salud y enfermedades comunes.
 2. **Análisis** (15 min): ¿Cuántas se pueden prevenir? ¿Cuánto dinero se podría ahorrar con la prevención?
-3. **Propuestas** (15 min): Piensa en ideas para una mejor prevención.
-4. **Informe** (20 min): Organiza un informe grupal y responde preguntas.
+3. **Propuestas** (15 min): Pensá en ideas para una mejor prevención.
+4. **Informe** (20 min): Organizá un informe grupal y respondé preguntas.
 
 ## Cierre
 - ¿Qué problemas de salud son los más comunes en tu país?

@@ -1,10 +1,10 @@
 ---
-title: "Debate AMP"
+title: "Debatí AMP"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-amp/"
-description: "Debate sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles."
-summary: "Debate sobre Áreas Marinas Protegidas."
+description: "Debatí sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles."
+summary: "Debatí sobre Áreas Marinas Protegidas."
 
 author:
   - FAO
@@ -109,7 +109,7 @@ competencies:
   - Negociación
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Sensibilización
 
@@ -151,19 +151,19 @@ rama_rovers:
   - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
 ---
 
-# ¡Debate AMP!
+# ¡Debatí AMP!
 
 ## Resumen
-Debate sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles y perspectivas.
+Debatí sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles y perspectivas.
 
 ## Preparación
-1. Lee el artículo de National Geographic sobre Áreas Marinas Protegidas.
-2. Asigna roles a cada participante.
-3. Prepara argumentos para tu rol.
+1. Leé el artículo de National Geographic sobre Áreas Marinas Protegidas.
+2. Asigná roles a cada participante.
+3. Prepará argumentos para tu rol.
 
 ## Desarrollo
 1. **Investigación** (15 min): Cada persona investiga su rol y prepara argumentos.
-2. **Debate** (30 min): Debate a favor o en contra del AMP.
+2. **Debate** (30 min): Debatí a favor o en contra del AMP.
 3. **Preguntas** (10 min): El público hace preguntas.
 4. **Votación** (5 min): El público vota si debería haber un AMP.
 

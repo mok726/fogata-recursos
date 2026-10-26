@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/para-que-nos-alcanza/"
 description: "Los participantes simulan la compra de alimentos para una familia con el valor de una canasta básica alimentaria, reflexionando sobre la pobreza y la inseguridad alimentaria."
-summary: "Simula la compra de alimentos con recursos limitados."
+summary: "Simulá la compra de alimentos con recursos limitados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -117,7 +117,7 @@ competencies:
 activity_type:
   - Reflexión
   - Simulación
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Pobreza
   - Alimentación
@@ -166,8 +166,8 @@ rama_rovers:
 Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan con el valor de una canasta básica alimentaria (investiguen su valor) y tienen que comprar los alimentos para vivir un mes con ese dinero. Confeccionen una lista con todos los elementos que comprarían y sus precios. Luego piensen e intercambien opiniones sobre si lo que podrían comprar es suficiente, y si realmente el valor de la canasta básica alimentaria es acorde a las necesidades de la población. Siendo conscientes de que gran cantidad de personas y familias en el país no cuentan ni siquiera con ese ingreso para cubrir sus necesidades.
 
 ## Preparación
-1. Investiga el valor actual de la canasta básica alimentaria en tu país.
-2. Prepara los materiales de escritura.
+1. Investigá el valor actual de la canasta básica alimentaria en tu país.
+2. Prepará los materiales de escritura.
 3. Si es posible, ten a mano folletos de supermercado o acceso a Internet para consultar precios.
 
 ## Desarrollo

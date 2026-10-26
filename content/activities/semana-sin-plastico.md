@@ -162,12 +162,12 @@ translation_notice:
 # ¡Semana sin plástico!
 
 ## Resumen
-Reúne a un grupo de amigos y comprométanse a pasar una semana completa sin usar plásticos de un solo uso. ¡Compartan ideas, anímense mutuamente y vean quién logra el desafío!
+Reuní a un grupo de amigos y comprométanse a pasar una semana completa sin usar plásticos de un solo uso. ¡Compartan ideas, anímense mutuamente y vean quién logra el desafío!
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Reúne un grupo de amigos interesados.
-3. Crea un grupo de WhatsApp para compartir ideas.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Reuní un grupo de amigos interesados.
+3. Creá un grupo de WhatsApp para compartir ideas.
 
 ## Desarrollo
 

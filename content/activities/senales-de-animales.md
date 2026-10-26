@@ -162,22 +162,22 @@ rama_rovers:
 # ¡Señales de animales!
 
 ## Resumen
-Toma un paseo en un área natural, como un bosque o un parque. Busca señales de animales, como hojas o cortezas pastadas, rastros de animales, huecos en los árboles o en el suelo, nidos, pelaje, plumas y excrementos. Investiga las pistas que los animales dejan al pasar (cerdas, plumas, excrementos o huellas).
+Tomá un paseo en un área natural, como un bosque o un parque. Buscá señales de animales, como hojas o cortezas pastadas, rastros de animales, huecos en los árboles o en el suelo, nidos, pelaje, plumas y excrementos. Investigá las pistas que los animales dejan al pasar (cerdas, plumas, excrementos o huellas).
 
 ## Preparación
-1. Identifica un área natural para explorar.
-2. Prepara materiales para registrar.
+1. Identificá un área natural para explorar.
+2. Prepará materiales para registrar.
 3. Si es posible, invita a un biólogo.
 
 ## Desarrollo
-1. Camina por el área natural.
-2. Busca señales de animales.
-3. Registra lo que encuentras.
-4. Dibuja tres cosas que hayas descubierto.
+1. Caminá por el área natural.
+2. Buscá señales de animales.
+3. Registrá lo que encontrás.
+4. Dibujá tres cosas que hayas descubierto.
 
 ## Cierre
-1. Preséntalas a tu grupo.
-2. Reflexiona: ¿Qué animales viven en el área?
+1. Presentalas a tu grupo.
+2. Reflexioná: ¿Qué animales viven en el área?
 3. Pregunta final: ¿Qué señales te parecieron más interesantes?
 
 ## Texto original completo de la actividad

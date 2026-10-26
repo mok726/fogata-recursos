@@ -169,16 +169,16 @@ rama_rovers:
 Juego de adivinanzas sobre animales y plantas marinas.
 
 ## Preparación
-1. Reúne fotografías de animales y plantas marinas comunes de tu área.
-2. Observa las fotografías con el grupo.
-3. Piensa en cómo describir los animales y plantas.
+1. Reuní fotografías de animales y plantas marinas comunes de tu área.
+2. Observá las fotografías con el grupo.
+3. Pensá en cómo describir los animales y plantas.
 
 ## Desarrollo
-1. **Observación** (10 min): Observa las fotografías y discute las características.
-2. **Clasificación** (10 min): Clasifica los animales y plantas en grupos.
-3. **Descripción** (10 min): Escribe las características comunes de los grupos.
-4. **Juego** (20 min): Mezcla las fotos. Una persona describe una foto sin mencionar el nombre. El grupo adivina.
-5. **Extensión** (opcional): Crea tu propio juego sobre la vida marina.
+1. **Observación** (10 min): Observá las fotografías y discutí las características.
+2. **Clasificación** (10 min): Clasificá los animales y plantas en grupos.
+3. **Descripción** (10 min): Escribí las características comunes de los grupos.
+4. **Juego** (20 min): Mezclá las fotos. Una persona describe una foto sin mencionar el nombre. El grupo adivina.
+5. **Extensión** (opcional): Creá tu propio juego sobre la vida marina.
 
 ## Cierre
 - ¿Qué animal o planta fue más difícil de adivinar?

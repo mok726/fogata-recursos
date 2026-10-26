@@ -3,7 +3,7 @@ title: "Recursos para producir alimentos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/recursos-para-producir-alimentos/"
-description: "Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos."
+description: "Investigá cuánta energía, agua y recursos se necesitan para producir diferentes alimentos."
 summary: "Huella de recursos de los alimentos."
 
 author:
@@ -149,22 +149,22 @@ rama_rovers:
 # ¡Recursos para producir alimentos!
 
 ## Resumen
-Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
+Investigá cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
 
 ## Preparación
-1. Accede a recursos sobre el uso de agua en alimentos.
-2. Prepara papel y lapiceras.
-3. Selecciona alimentos para investigar.
+1. Accedé a recursos sobre el uso de agua en alimentos.
+2. Prepará papel y lapiceras.
+3. Seleccioná alimentos para investigar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca datos sobre recursos necesarios.
-2. **Tablas** (20 min): Crea tablas comparativas.
+1. **Investigación** (20 min): Buscá datos sobre recursos necesarios.
+2. **Tablas** (20 min): Creá tablas comparativas.
 3. **Análisis** (10 min): ¿Cómo cambiar tu dieta para reducir el impacto?
-4. **Reflexión** (10 min): Comparte lo aprendido.
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué alimentos necesitan más recursos?
-- ¿Cómo puedes cambiar tu dieta para ser más sostenible?
+- ¿Cómo podés cambiar tu dieta para ser más sostenible?
 - ¿Qué aprendiste sobre el impacto de los alimentos?
 
 ---

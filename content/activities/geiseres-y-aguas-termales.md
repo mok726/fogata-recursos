@@ -4,8 +4,8 @@ title: "Géiseres y aguas termales"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/geiseres-y-aguas-termales/"
-description: "Investiga fuentes de energía geotérmica en tu área (géiseres, aguas termales) o estudia un ejemplo famoso como el géiser Old Faithful."
-summary: "Explora la energía geotérmica."
+description: "Investigá fuentes de energía geotérmica en tu área (géiseres, aguas termales) o estudiá un ejemplo famoso como el géiser Old Faithful."
+summary: "Explorá la energía geotérmica."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Géiseres y aguas termales!
 
 ## Resumen
-Los géiseres son una fuente de energía geotérmica. Un famoso géiser es "Old Faithful" en el Parque Yellowstone (EE.UU.), llamado así porque erupciona a intervalos regulares. Investiga fuentes de energía geotérmica en tu área o estudia un ejemplo famoso.
+Los géiseres son una fuente de energía geotérmica. Un famoso géiser es "Old Faithful" en el Parque Yellowstone (EE.UU.), llamado así porque erupciona a intervalos regulares. Investigá fuentes de energía geotérmica en tu área o estudiá un ejemplo famoso.
 
 ## Preparación
-1. Lee la información sobre energía geotérmica.
-2. Investiga si hay fuentes geotérmicas en tu área.
-3. Prepara materiales para documentar.
+1. Leé la información sobre energía geotérmica.
+2. Investigá si hay fuentes geotérmicas en tu área.
+3. Prepará materiales para documentar.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga fuentes de energía geotérmica:
+Investigá fuentes de energía geotérmica:
 
 **Preguntas guía:**
 - ¿Hay fuentes naturales de energía geotérmica en tu área?
@@ -182,19 +182,19 @@ Investiga fuentes de energía geotérmica:
 
 ### Parte II - Visita (opcional)
 Si hay fuentes geotérmicas en tu área:
-- Visita el lugar como grupo
-- Toma fotos y escribe observaciones
-- Presenta tus hallazgos
+- Visitá el lugar como grupo
+- Tomá fotos y escribí observaciones
+- Presentá tus hallazgos
 
 ### Parte III - Collage (alternativa)
 Si no hay fuentes locales:
-- Elige un ejemplo famoso en el mundo
-- Prepara un collage con fotos, información y datos
+- Elegí un ejemplo famoso en el mundo
+- Prepará un collage con fotos, información y datos
 
 ## Cierre
 1. ¿Qué fuente geotérmica te pareció más interesante?
 2. ¿Cómo se usa la energía geotérmica para producir electricidad?
-3. ¿Crees que tu comunidad podría usar energía geotérmica?
+3. ¿Creés que tu comunidad podría usar energía geotérmica?
 
 ## Texto original completo de la actividad
 

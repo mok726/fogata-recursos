@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tira Cómica sobre el Carbón"
+title: "Tirá Cómica sobre el Carbón"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/tira-comica-sobre-el-carbon/"
-description: "Descubre cómo partes de un bosque se transformaron en carbón. Crea una tira cómica o novela gráfica explicando el proceso."
-summary: "Tira cómica sobre la formación del carbón."
+description: "Descubrí cómo partes de un bosque se transformaron en carbón. Creá una tira cómica o novela gráfica explicando el proceso."
+summary: "Tirá cómica sobre la formación del carbón."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,20 +160,20 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías de la información.
 ---
 
-# Tira Cómica sobre el Carbón
+# Tirá Cómica sobre el Carbón
 
 ## Resumen
-Descubre cómo partes de un bosque se transformaron en carbón. Crea una tira cómica o novela gráfica explicando el proceso.
+Descubrí cómo partes de un bosque se transformaron en carbón. Creá una tira cómica o novela gráfica explicando el proceso.
 
 ## Preparación
-1. Investiga el proceso de formación del carbón a partir de bosques.
-2. Prepara el material para la tira cómica.
+1. Investigá el proceso de formación del carbón a partir de bosques.
+2. Prepará el material para la tira cómica.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende cómo los bosques se transforman en carbón.
-2. **Planificación** (15 min): Diseña la historia de tu tira cómica.
-3. **Creación** (25 min): Crea la tira cómica o novela gráfica.
-4. **Presentación** (15 min): Comparte tu trabajo con el grupo.
+1. **Investigación** (20 min): Aprendé cómo los bosques se transforman en carbón.
+2. **Planificación** (15 min): Diseñá la historia de tu tira cómica.
+3. **Creación** (25 min): Creá la tira cómica o novela gráfica.
+4. **Presentación** (15 min): Compartí tu trabajo con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la formación del carbón?

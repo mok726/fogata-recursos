@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Necesito Agua y Tú También"
+title: "Necesito Agua y Vos También"
 duration: "2 horas (dos sesiones de 1h)"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesito-agua-y-tu-tambien/"
 description: "Los participantes exploran la dependencia del agua desde la perspectiva de un animal local, creando un anuncio publicitario para concienciar sobre la importancia de proteger las fuentes de agua."
-summary: "Crea un anuncio desde la perspectiva de un animal."
+summary: "Creá un anuncio desde la perspectiva de un animal."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -162,23 +162,23 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Necesito Agua y Tú También!
+# ¡Necesito Agua y Vos También!
 
 ## Resumen
 Todos los seres vivos dependen del agua para sobrevivir. En esta actividad, los participantes exploran esta relación desde la perspectiva de un animal local, creando un anuncio publicitario para concienciar sobre la importancia de proteger las fuentes de agua.
 
 ## Preparación
-1. Prepara materiales de investigación (acceso a Internet o libros).
-2. Divide a los participantes en equipos pequeños.
+1. Prepará materiales de investigación (acceso a Internet o libros).
+2. Dividí a los participantes en equipos pequeños.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Recuerda a tu grupo cómo todo ser vivo depende del agua para sobrevivir.
-2. Explica que el propósito de la actividad es explorar esta relación desde la perspectiva de un animal encontrado en su cuenca.
+1. Recordá a tu grupo cómo todo ser vivo depende del agua para sobrevivir.
+2. Explicá que el propósito de la actividad es explorar esta relación desde la perspectiva de un animal encontrado en su cuenca.
 
 ### Paso 2: Investigación
-3. Divide a tu grupo en equipos pequeños y pídeles que elijan un animal de su cuenca.
+3. Dividí a tu grupo en equipos pequeños y pediles que elijan un animal de su cuenca.
 4. Da a los equipos tiempo para investigar sobre su animal usando Internet o libros.
 5. Cada grupo debe discutir sobre su animal:
    - ¿Cómo es el hábitat del animal?
@@ -186,11 +186,11 @@ Todos los seres vivos dependen del agua para sobrevivir. En esta actividad, los 
    - ¿Qué usos del agua podrían afectar la salud del animal y su hábitat?
 
 ### Paso 3: Creación del anuncio
-6. Pide a cada grupo que use una cartulina para crear un anuncio desde el punto de vista de su animal, explicando por qué el agua es importante para ellos.
+6. Pedí a cada grupo que use una cartulina para crear un anuncio desde el punto de vista de su animal, explicando por qué el agua es importante para ellos.
 7. A través de su anuncio, deben intentar convencer a los espectadores de que actúen sobre el tema: conservar el agua, prevenir la contaminación, proteger hábitats, etc.
 
 ### Paso 4: Exposición
-8. Pide a cada grupo que presente su anuncio al resto de los participantes.
+8. Pedí a cada grupo que presente su anuncio al resto de los participantes.
 9. Luego, coloca los anuncios alrededor de la escuela o lugar de reunión para animar a otros a actuar.
 
 ## Cierre

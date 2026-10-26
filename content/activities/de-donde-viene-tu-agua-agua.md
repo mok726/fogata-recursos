@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-agua-agua/"
 description: "Los participantes aprenden que el agua proviene de diferentes fuentes y siguen un laberinto para descubrir el camino desde su hogar hasta las fuentes de agua."
-summary: "Sigue el camino del agua hasta su fuente."
+summary: "Seguí el camino del agua hasta su fuente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,25 +160,25 @@ Cuando una persona abre una canilla para beber un vaso de agua, puede estar obte
 
 ## Preparación
 1. Antes de la actividad, investiga de dónde proviene el agua en tu localidad (río, lago, acuífero, etc.) para que los participantes puedan entender mejor el tema.
-2. Prepara una breve explicación sobre el sistema de agua de tu comunidad.
-3. Haz copias del laberinto para cada participante.
+2. Prepará una breve explicación sobre el sistema de agua de tu comunidad.
+3. Hacé copias del laberinto para cada participante.
 
 ## Desarrollo
 
 ### Paso 1: Investigación previa
 1. Antes de la actividad, investiga de dónde proviene el agua en tu localidad para que los participantes puedan entender mejor el tema.
-2. Explica a los participantes cómo llega el agua a sus hogares.
+2. Explicá a los participantes cómo llega el agua a sus hogares.
 
 ### Paso 2: El laberinto
 3. Da a cada participante una copia del laberinto.
-4. Explica que, usando el laberinto, deben encontrar el camino desde su hogar hasta las diferentes fuentes de agua.
+4. Explicá que, usando el laberinto, deben encontrar el camino desde su hogar hasta las diferentes fuentes de agua.
 5. Los participantes pueden trabajar individualmente o en parejas.
 
 ### Paso 3: Discusión
 6. Una vez que todos hayan completado el laberinto, reúne al grupo para discutir:
-   - ¿Qué fuente de agua crees que es la más común en tu comunidad?
-   - ¿De dónde crees que viene el agua que usas en tu casa?
-   - ¿El agua que usas necesita ser tratada antes de beberla?
+   - ¿Qué fuente de agua creés que es la más común en tu comunidad?
+   - ¿De dónde creés que viene el agua que usás en tu casa?
+   - ¿El agua que usás necesita ser tratada antes de beberla?
 
 ## Laberinto: ¿De dónde viene tu agua?
 
@@ -186,7 +186,7 @@ Cuando una persona abre una canilla para beber un vaso de agua, puede estar obte
 
 ![Laberinto - ¿De dónde viene tu agua?](/imagenes/actividades/de-donde-viene-tu-agua-agua-laberinto.png)
 
-**Instrucciones:** Encuentra el camino desde tu casa hasta cada una de las fuentes de agua. Puedes usar diferentes colores para cada camino.
+**Instrucciones:** Encuentra el camino desde tu casa hasta cada una de las fuentes de agua. Podés usar diferentes colores para cada camino.
 
 **Fuentes de agua:**
 1. Lago
@@ -197,7 +197,7 @@ Cuando una persona abre una canilla para beber un vaso de agua, puede estar obte
 ## Cierre
 - ¿Cuál es la conexión entre el agua y el medio ambiente?
 - ¿Por qué es importante tratar el agua antes de ponerla a disposición para el uso humano?
-- ¿Qué puedes hacer para prevenir la contaminación del agua?
+- ¿Qué podés hacer para prevenir la contaminación del agua?
 
 ## Texto original completo de la actividad
 

@@ -4,7 +4,7 @@ title: "¡Al Blog por los Bosques!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/al-blog-bosques/"
-description: "Empieza un blog en tu grupo sobre tu bosque local y sobre las diferentes formas cómo los miembros de la comunidad pueden ayudar a protegerlo."
+description: "Empezá un blog en tu grupo sobre tu bosque local y sobre las diferentes formas cómo los miembros de la comunidad pueden ayudar a protegerlo."
 summary: "Creación de un blog sobre el bosque local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -161,21 +161,21 @@ rama_rovers:
 # ¡Al Blog!
 
 ## Resumen
-Empieza un blog en tu grupo sobre tu bosque local y sobre las diferentes formas cómo los miembros de la comunidad pueden ayudar a protegerlo. Incluye fotos, comparte en redes y fomenta la participación.
+Empezá un blog en tu grupo sobre tu bosque local y sobre las diferentes formas cómo los miembros de la comunidad pueden ayudar a protegerlo. Incluí fotos, compartí en redes y fomentá la participación.
 
 ## Preparación
-1. Elige una plataforma de blogs (WordPress, Blogger, etc.).
-2. Define el nombre y el objetivo del blog.
-3. Planifica el contenido inicial (presentación, temas, etc.).
-4. Prepara una cámara para la expedición fotográfica.
+1. Elegí una plataforma de blogs (WordPress, Blogger, etc.).
+2. Definí el nombre y el objetivo del blog.
+3. Planificá el contenido inicial (presentación, temas, etc.).
+4. Prepará una cámara para la expedición fotográfica.
 
 ## Desarrollo
-1. **Creación del blog** (30 min): Configura el blog y crea las primeras entradas.
-2. **Expedición fotográfica** (1 hora): Visita el bosque local y toma fotografías.
-3. **Publicación** (30 min): Sube las imágenes y escribe contenido educativo.
-4. **Difusión** (15 min): Envía el blog por correo electrónico a familiares y amigos.
-5. **Interacción** (continua): Invita a comentar y a contribuir con contenido.
-6. **Votación** (10 min): Pide a las personas que voten por su foto favorita.
+1. **Creación del blog** (30 min): Configurá el blog y creá las primeras entradas.
+2. **Expedición fotográfica** (1 hora): Visitá el bosque local y toma fotografías.
+3. **Publicación** (30 min): Subí las imágenes y escribí contenido educativo.
+4. **Difusión** (15 min): Enviá el blog por correo electrónico a familiares y amigos.
+5. **Interacción** (continua): Invitá a comentar y a contribuir con contenido.
+6. **Votación** (10 min): Pedí a las personas que voten por su foto favorita.
 
 ## Cierre
 - ¿Qué aprendiste al crear y mantener el blog?

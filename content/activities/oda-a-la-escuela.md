@@ -3,7 +3,7 @@ title: "Oda a la Escuela"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/oda-a-la-escuela/"
-description: "Reflexiona sobre qué extrañarías si tu escuela fuera dañada por un desastre."
+description: "Reflexioná sobre qué extrañarías si tu escuela fuera dañada por un desastre."
 summary: "Reflexión sobre la importancia de la escuela."
 
 author:
@@ -137,16 +137,16 @@ rama_rovers: []
 # ¡Oda a la Escuela!
 
 ## Resumen
-Escribe un ensayo sobre cómo te sentirías si un desastre interrumpiera tu educación y no pudieras ir a la escuela.
+Escribí un ensayo sobre cómo te sentirías si un desastre interrumpiera tu educación y no pudieras ir a la escuela.
 
 ## Preparación
-- Piensa en qué te gusta de la escuela.
-- Imagina cómo sería no poder ir.
+- Pensá en qué te gusta de la escuela.
+- Imaginá cómo sería no poder ir.
 
 ## Desarrollo
-1. **Reflexión** (10 min): Piensa en qué extrañarías más.
-2. **Escritura** (15 min): Escribe tu ensayo.
-3. **Compartir** (5 min): Lee tu ensayo a tus maestros y padres.
+1. **Reflexión** (10 min): Pensá en qué extrañarías más.
+2. **Escritura** (15 min): Escribí tu ensayo.
+3. **Compartir** (5 min): Leé tu ensayo a tus maestros y padres.
 
 ## Cierre
 - ¿Qué es lo que más te gusta de la escuela?

@@ -4,7 +4,7 @@ title: "Hora del Concurso"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/hora-del-concurso/"
-description: "Organiza un concurso sobre nutrición en tu colegio con diferentes categorías y premios saludables."
+description: "Organizá un concurso sobre nutrición en tu colegio con diferentes categorías y premios saludables."
 summary: "Concurso educativo sobre nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,18 +167,18 @@ rama_rovers:
 # Hora del Concurso
 
 ## Resumen
-Organiza un concurso sobre nutrición en tu colegio con diferentes categorías y premios saludables.
+Organizá un concurso sobre nutrición en tu colegio con diferentes categorías y premios saludables.
 
 ## Preparación
-1. Prepara preguntas y respuestas con tu profesor o responsable.
-2. Organiza diferentes categorías para diferentes edades.
-3. Prepara aperitivos saludables como premio.
+1. Prepará preguntas y respuestas con tu profesor o responsable.
+2. Organizá diferentes categorías para diferentes edades.
+3. Prepará aperitivos saludables como premio.
 
 ## Desarrollo
-1. **Organización** (15 min): Prepara las categorías y preguntas.
-2. **Concurso** (30 min): Realiza el concurso con diferentes rondas.
-3. **Premios** (10 min): Entrega premios saludables a los ganadores.
-4. **Reflexión** (15 min): Discute sobre lo aprendido.
+1. **Organización** (15 min): Prepará las categorías y preguntas.
+2. **Concurso** (30 min): Realizá el concurso con diferentes rondas.
+3. **Premios** (10 min): Entregá premios saludables a los ganadores.
+4. **Reflexión** (15 min): Discutí sobre lo aprendido.
 
 ## Cierre
 - ¿Qué preguntas te resultaron más difíciles?

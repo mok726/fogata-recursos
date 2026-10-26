@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juega a las Adivinanzas"
+title: "Jugá a las Adivinanzas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/juega-a-las-adivinanzas/"
@@ -163,18 +163,18 @@ rama_rovers:
   - 2   # Disfruto de las actividades recreativas.
 ---
 
-# Juega a las Adivinanzas
+# Jugá a las Adivinanzas
 
 ## Resumen
 Juego de adivinanzas con alimentos para aprender sobre la importancia de una dieta variada.
 
 ## Preparación
-1. Prepara muestras de varios alimentos (cereales, legumbres, frutas, verduras).
-2. Coloca las muestras en recipientes.
-3. Asegura la supervisión de un adulto.
+1. Prepará muestras de varios alimentos (cereales, legumbres, frutas, verduras).
+2. Colocá las muestras en recipientes.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Preparación** (10 min): Organiza las muestras de alimentos.
+1. **Preparación** (10 min): Organizá las muestras de alimentos.
 2. **Juego** (20 min): Los participantes cierran los ojos, tocan, huelen y prueban.
 3. **Identificación** (10 min): Adivinan qué alimentos son.
 4. **Reflexión** (15 min): Hablan sobre la importancia de una dieta variada.

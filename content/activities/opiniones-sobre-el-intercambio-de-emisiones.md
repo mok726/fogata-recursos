@@ -118,7 +118,7 @@ competencies:
   - Investigación
   - Argumentación
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
   - Reflexión
 category:
@@ -158,18 +158,18 @@ rama_rovers:
 # ¡Opiniones sobre el intercambio de emisiones!
 
 ## Resumen
-¿Cómo funciona el intercambio de emisiones? Investiga y prepara una presentación con diapositivas sobre el tema. ¿Crees que ofrece una solución plausible hacia la mitigación del cambio climático? ¿Por qué o por qué no?
+¿Cómo funciona el intercambio de emisiones? Investigá y prepará una presentación con diapositivas sobre el tema. ¿Creés que ofrece una solución plausible hacia la mitigación del cambio climático? ¿Por qué o por qué no?
 
 ## Preparación
-1. Investiga sobre el intercambio de emisiones.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre el intercambio de emisiones.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cómo funciona el intercambio de emisiones?
-2. Analiza: ¿Ofrece una solución plausible para la mitigación?
-3. Prepara argumentos a favor y en contra.
-4. Prepara una presentación con diapositivas.
+1. Investigá: ¿Cómo funciona el intercambio de emisiones?
+2. Analizá: ¿Ofrece una solución plausible para la mitigación?
+3. Prepará argumentos a favor y en contra.
+4. Prepará una presentación con diapositivas.
 
 ## Cierre
 1. Compartan sus presentaciones en grupo.

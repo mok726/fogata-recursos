@@ -4,7 +4,7 @@ title: "Bichos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bichos/"
-description: "Investiga los principales problemas de microorganismos en tu zona y su relación con la seguridad alimentaria."
+description: "Investigá los principales problemas de microorganismos en tu zona y su relación con la seguridad alimentaria."
 summary: "Investigación sobre microorganismos y enfermedades."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,17 +163,17 @@ rama_rovers:
 # Bichos
 
 ## Resumen
-Investiga los principales problemas de microorganismos en tu zona y su relación con la seguridad alimentaria.
+Investigá los principales problemas de microorganismos en tu zona y su relación con la seguridad alimentaria.
 
 ## Preparación
-1. Investiga los problemas de microorganismos en tu zona.
-2. Averigua sobre intoxicaciones alimentarias y su relación con el clima.
-3. Prepara una presentación con diapositivas.
+1. Investigá los problemas de microorganismos en tu zona.
+2. Averiguá sobre intoxicaciones alimentarias y su relación con el clima.
+3. Prepará una presentación con diapositivas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga microorganismos y enfermedades en tu zona.
+1. **Investigación** (20 min): Investigá microorganismos y enfermedades en tu zona.
 2. **Análisis** (15 min): ¿Es común la intoxicación por alimentos? ¿Contribuye el clima?
-3. **Estadísticas** (15 min): Reúne gráficos y estadísticas.
+3. **Estadísticas** (15 min): Reuní gráficos y estadísticas.
 4. **Presentación** (15 min): Expón tus hallazgos al grupo.
 
 ## Cierre

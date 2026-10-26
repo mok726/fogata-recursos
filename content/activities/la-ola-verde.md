@@ -169,19 +169,19 @@ rama_rovers:
 Alienten a sus amigos y al grupo a que participen en La Ola Verde. Obtengan más información en http://greenwave.cbd.int/es/node/602
 
 ## Preparación
-1. Investiga sobre La Ola Verde.
-2. Organiza la participación.
-3. Prepara árboles para plantar.
+1. Investigá sobre La Ola Verde.
+2. Organizá la participación.
+3. Prepará árboles para plantar.
 
 ## Desarrollo
-1. Aprende sobre La Ola Verde.
-2. Participa en las celebraciones.
-3. Planta árboles el 22 de mayo.
-4. Comparte tu experiencia con otros.
+1. Aprendé sobre La Ola Verde.
+2. Participá en las celebraciones.
+3. Plantá árboles el 22 de mayo.
+4. Compartí tu experiencia con otros.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona sobre el impacto global de la campaña.
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná sobre el impacto global de la campaña.
 3. Pregunta final: ¿Cómo se sintió ser parte de un evento mundial?
 
 ## Texto original completo de la actividad

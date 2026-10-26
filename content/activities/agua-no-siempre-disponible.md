@@ -166,18 +166,18 @@ translation_notice:
 Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas. Aproximadamente 780 millones de personas carecen de acceso a agua limpia. En algunas comunidades, incluso si tienen tuberías y canillas, el agua se suministra solo durante unas horas al día. En otros lugares, las personas tienen que almacenar su agua de un pozo comunitario, y en otros casos, mujeres y niños caminan varios kilómetros cada día para transportar agua. En esta actividad, los participantes experimentan los desafíos de obtener agua limpia y transportarla a través de un juego de relevos.
 
 ## Preparación
-1. Prepara las hojas de papel para cada grupo.
-2. Marca el área de juego con un punto de inicio ("la aldea") y un punto final ("el río").
+1. Prepará las hojas de papel para cada grupo.
+2. Marcá el área de juego con un punto de inicio ("la aldea") y un punto final ("el río").
 
 ## Desarrollo
 
 ### Paso 1: Explicación
-1. Explica a tu grupo que van a enfrentar el desafío de encontrar agua limpia y transportarla a un lugar donde pueda ser utilizada.
-2. Agrupa a los participantes en equipos de al menos seis personas.
-3. Coloca a un miembro de cada equipo, el **Líder de la Tribu**, en el lado opuesto del área de actividad, lejos de su equipo. El Líder de la Tribu debe conseguir agua limpia para su familia. El resto de los miembros del equipo son gotas de agua potable de un río local.
+1. Explicá a tu grupo que van a enfrentar el desafío de encontrar agua limpia y transportarla a un lugar donde pueda ser utilizada.
+2. Agrupá a los participantes en equipos de al menos seis personas.
+3. Colocá a un miembro de cada equipo, el **Líder de la Tribu**, en el lado opuesto del área de actividad, lejos de su equipo. El Líder de la Tribu debe conseguir agua limpia para su familia. El resto de los miembros del equipo son gotas de agua potable de un río local.
 
 ### Paso 2: Reglas del juego
-4. Proporciona tres hojas de papel al Líder de la Tribu; estas son piedras para transportar las gotas de agua. Coloca cada una a un metro de distancia.
+4. Proporcioná tres hojas de papel al Líder de la Tribu; estas son piedras para transportar las gotas de agua. Colocá cada una a un metro de distancia.
 5. Tanto las "gotas" como el "líder" deben pisar estas hojas para ir del río a la aldea. En ningún momento ningún miembro del equipo puede tocar el suelo sin estar en contacto con el papel. Si lo hacen, "el agua se ha derramado" y el miembro/gota debe ir al final de la fila y volver a intentarlo, retrasando el proceso de transportar un "recipiente" lleno de agua a través del área.
 
 ### Paso 3: Desafío adicional

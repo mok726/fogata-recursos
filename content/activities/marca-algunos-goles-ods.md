@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Marca algunos goles con los ODS"
+title: "Marcá algunos goles con los ODS"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/marca-algunos-goles-ods/"
-description: "Explora cómo la contaminación plástica se conecta con los 17 Objetivos de Desarrollo Sostenible y crea un póster para tu escuela."
-summary: "Conecta los plásticos con los ODS."
+description: "Explorá cómo la contaminación plástica se conecta con los 17 Objetivos de Desarrollo Sostenible y creá un póster para tu escuela."
+summary: "Conectá los plásticos con los ODS."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -134,7 +134,7 @@ competencies:
 activity_type:
   - Reflexión
   - Creatividad / Arte
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - ODS
   - Plásticos
@@ -175,15 +175,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Marca algunos goles con los ODS!
+# ¡Marcá algunos goles con los ODS!
 
 ## Resumen
-Crea un póster de los 17 Objetivos de Desarrollo Sostenible y explora cómo la contaminación plástica se conecta con cada uno de ellos. Descubre que los plásticos afectan a todos los ODS de alguna manera.
+Creá un póster de los 17 Objetivos de Desarrollo Sostenible y explorá cómo la contaminación plástica se conecta con cada uno de ellos. Descubrí que los plásticos afectan a todos los ODS de alguna manera.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Revisa las conexiones entre plásticos y ODS en las páginas 12-19.
-3. Prepara materiales para crear el póster.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Revisá las conexiones entre plásticos y ODS en las páginas 12-19.
+3. Prepará materiales para crear el póster.
 
 ## Desarrollo
 
@@ -211,7 +211,7 @@ Investiguen las conexiones entre la contaminación plástica y los ODS en su com
 
 ## Cierre
 1. ¿Qué conexión entre plásticos y ODS te pareció más interesante?
-2. ¿Qué ODS crees que se ve más afectado por los plásticos en tu comunidad?
+2. ¿Qué ODS creés que se ve más afectado por los plásticos en tu comunidad?
 3. ¿Qué acción pueden tomar para contribuir a estos ODS?
 
 ## Texto original completo de la actividad

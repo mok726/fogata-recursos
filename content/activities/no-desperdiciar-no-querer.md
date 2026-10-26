@@ -4,8 +4,8 @@ title: "No desperdiciar, no querer"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/no-desperdiciar-no-querer/"
-description: "Observa y reduce el desperdicio de alimentos en tu hogar, y aprende cómo la energía se desperdicia junto con la comida."
-summary: "Reduce el desperdicio de alimentos y energía."
+description: "Observá y reducí el desperdicio de alimentos en tu hogar, y aprendé cómo la energía se desperdicia junto con la comida."
+summary: "Reducí el desperdicio de alimentos y energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,9 +168,9 @@ translation_notice:
 ¿Sabías que aproximadamente un tercio de los alimentos producidos para consumo humano se pierde o desperdicia? ¿Has pensado en cuánta energía se desperdicia junto con esa comida? En Estados Unidos, el equivalente energético de unos 350 millones de barriles de petróleo al año podría ahorrarse reduciendo el desperdicio de alimentos.
 
 ## Preparación
-1. Prepara un diario para observar el desperdicio de alimentos.
-2. Busca consejos para reducir el desperdicio.
-3. Prepara materiales para anotar.
+1. Prepará un diario para observar el desperdicio de alimentos.
+2. Buscá consejos para reducir el desperdicio.
+3. Prepará materiales para anotar.
 
 ## Desarrollo
 
@@ -183,15 +183,15 @@ Durante una semana, anota cuánta comida (si es que hay) se desperdicia en tu ca
 - ¿Por qué se tira?
 
 ### Parte II - Reflexionar
-¿Cuánta energía crees que se desperdicia con la comida que tiras?
+¿Cuánta energía creés que se desperdicia con la comida que tiras?
 
 ### Parte III - Actuar
-Habla con tu familia sobre cómo reducir el desperdicio.
+Hablá con tu familia sobre cómo reducir el desperdicio.
 
 **Consejos:**
-- Compra solo lo que necesitas
-- Usa las sobras
-- Congela lo que no vas a comer pronto
+- Comprá solo lo que necesitás
+- Usá las sobras
+- Congelá lo que no vas a comer pronto
 
 **Más ideas:** www.thedailygreen.com/going-green/community-tips/reduce-food-waste-460708
 

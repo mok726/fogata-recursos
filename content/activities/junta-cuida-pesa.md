@@ -5,7 +5,7 @@ duration: "Recurrente (durante todo el campamento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/junta-cuida-pesa/"
 description: "Actividad recurrente de recolección de residuos para campamentos de Manada. Cada seisena acumula basura real en una bolsa durante varios días, se pesa diariamente y se totaliza al final."
-summary: "Recolecta y pesa residuos durante el campamento."
+summary: "Recolectá y pesá residuos durante el campamento."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -208,12 +208,12 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 
 **Pesaje diario (15 minutos, misma hora todos los días):**
 1. Un adulto retira las bolsas del punto de acopio.
-2. Revisa cada bolsa y retira elementos prohibidos (piedras, ramas, tierra, hojas).
-3. Pesa cada bolsa llena y anota el peso.
+2. Revisá cada bolsa y retirá elementos prohibidos (piedras, ramas, tierra, hojas).
+3. Pesá cada bolsa llena y anotá el peso.
 4. Anuncia los pesos y declara la ganadora del día.
-5. Entrega el premio diario.
-6. Vacía la bolsa en un tacho de basura común.
-7. Actualiza el acumulado en la planilla.
+5. Entregá el premio diario.
+6. Vaciá la bolsa en un tacho de basura común.
+7. Actualizá el acumulado en la planilla.
 
 ### Sistema de doble premiación
 - **Premio diario:** Cada día, pequeño e inmediato (Elegir canción del fogón, repartir merienda, salir primero, etc.)

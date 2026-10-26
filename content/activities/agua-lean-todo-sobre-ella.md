@@ -5,7 +5,7 @@ duration: "3 horas 45 min (5 sesiones de 45 min)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-lean-todo-sobre-ella/"
 description: "Los participantes crean su propio periódico centrado en el tema del agua, investigando y escribiendo artículos sobre diversos temas relacionados con el agua."
-summary: "Crea un periódico sobre el agua."
+summary: "Creá un periódico sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -174,18 +174,18 @@ translation_notice:
 El agua es un tema frecuente e importante en las noticias. En esta actividad, los participantes crean su propio periódico centrado en el tema del agua, investigando y escribiendo artículos sobre diversos temas relacionados con el agua, desde derechos hídricos hasta recreación, contaminación, usos y conservación.
 
 ## Preparación
-1. Reúne periódicos locales y nacionales para mostrar a los participantes.
-2. Prepara materiales de arte y escritura.
+1. Reuní periódicos locales y nacionales para mostrar a los participantes.
+2. Prepará materiales de arte y escritura.
 
 ## Desarrollo
 
 ### Paso 1: Discusión sobre periódicos
-1. Pregunta a los participantes por qué la gente lee periódicos. ¿Por qué son importantes para nuestra sociedad?
-2. Discute por qué el agua es un tema "digno de ser noticia". ¿Pueden recordar algún tema relacionado con el agua que haya estado en las noticias?
+1. Preguntá a los participantes por qué la gente lee periódicos. ¿Por qué son importantes para nuestra sociedad?
+2. Discutí por qué el agua es un tema "digno de ser noticia". ¿Pueden recordar algún tema relacionado con el agua que haya estado en las noticias?
 3. Los participantes pueden recortar artículos relacionados con el agua de diferentes periódicos (locales o nacionales).
 
 ### Paso 2: Partes de un periódico
-4. Discute las diferentes partes de un periódico y haz un gráfico de ellas. Habla sobre lo que contiene cada sección. El gráfico podría incluir:
+4. Discutí las diferentes partes de un periódico y hacé un gráfico de ellas. Hablá sobre lo que contiene cada sección. El gráfico podría incluir:
    - Noticias / Reportajes
    - Entretenimiento
    - Clima
@@ -193,11 +193,11 @@ El agua es un tema frecuente e importante en las noticias. En esta actividad, lo
    - Editoriales
    - Publicidad
    - Clasificados
-5. Luego, entrega diferentes periódicos a los participantes para que puedan ver y discutir cada parte. Añade al gráfico si es necesario.
+5. Luego, entrega diferentes periódicos a los participantes para que puedan ver y discutir cada parte. Añadí al gráfico si es necesario.
 
 ### Paso 3: Creación del periódico
-6. Explica a tu grupo que van a desarrollar su propio periódico centrado en el tema del agua. Los temas podrían incluir: derechos de agua, recreación, contaminación, usos del agua, conservación, etc.
-7. Divide al grupo en equipos. Los equipos deben hacer una lluvia de ideas sobre temas de interés para reportar.
+6. Explicá a tu grupo que van a desarrollar su propio periódico centrado en el tema del agua. Los temas podrían incluir: derechos de agua, recreación, contaminación, usos del agua, conservación, etc.
+7. Dividí al grupo en equipos. Los equipos deben hacer una lluvia de ideas sobre temas de interés para reportar.
 8. *(Opcional: para obtener más detalle, los grupos pueden tener editores, fotógrafos, procesadores de texto, investigadores, etc.)*
 
 ### Paso 4: Investigación y escritura

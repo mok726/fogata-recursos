@@ -5,7 +5,7 @@ duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-haciendo-bolsa-camiseta/"
 description: "Los jóvenes transforman una remera vieja en una bolsa de compras reutilizable, aprendiendo sobre la reutilización de materiales y reduciendo el uso de bolsas plásticas de un solo uso."
-summary: "Crea una bolsa reutilizable con una remera vieja."
+summary: "Creá una bolsa reutilizable con una remera vieja."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,7 +168,7 @@ rama_rovers:
 # ¡Aprender haciendo - Bolsa reutilizable con remera!
 
 ## Resumen
-¿Quién hace las compras de supermercado en tu casa? Coloca un cartel, junto con bolsas reutilizables, en el automóvil o justo al lado de la puerta, para que quien haga las compras los tenga a mano. En esta actividad, aprenderás a transformar una remera vieja en una bolsa de compras reutilizable, sin necesidad de coser.
+¿Quién hace las compras de supermercado en tu casa? Colocá un cartel, junto con bolsas reutilizables, en el automóvil o justo al lado de la puerta, para que quien haga las compras los tenga a mano. En esta actividad, aprenderás a transformar una remera vieja en una bolsa de compras reutilizable, sin necesidad de coser.
 
 ## Preparación
 1. Pedir a los participantes que traigan una remera vieja que ya no usen.

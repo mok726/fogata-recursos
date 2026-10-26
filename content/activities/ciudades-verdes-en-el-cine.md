@@ -127,7 +127,7 @@ competencies:
   - Comunicación
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Aprender haciendo
 category:
   - Cine

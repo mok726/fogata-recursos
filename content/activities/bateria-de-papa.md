@@ -4,8 +4,8 @@ title: "Batería de papa"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/bateria-de-papa/"
-description: "Construye una batería casera usando papas, clavos galvanizados, trozos de cobre y cables para aprender cómo funciona la electricidad."
-summary: "Crea electricidad con una papa."
+description: "Construí una batería casera usando papas, clavos galvanizados, trozos de cobre y cables para aprender cómo funciona la electricidad."
+summary: "Creá electricidad con una papa."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,23 +163,23 @@ translation_notice:
 # ¡Batería de papa!
 
 ## Resumen
-¿Tienes curiosidad sobre la electricidad? Construye tu propia batería casera usando papas, clavos galvanizados, trozos de cobre y cables. ¡Aprende cómo funciona la electricidad mientras te diviertes!
+¿Tenés curiosidad sobre la electricidad? Construí tu propia batería casera usando papas, clavos galvanizados, trozos de cobre y cables. ¡Aprendé cómo funciona la electricidad mientras te divertís!
 
 ## Preparación
-1. Reúne los materiales: papas, clavos galvanizados, trozos de cobre, cables y un LED.
-2. Busca un adulto para que te ayude con objetos punzantes.
-3. Sigue las instrucciones cuidadosamente.
+1. Reuní los materiales: papas, clavos galvanizados, trozos de cobre, cables y un LED.
+2. Buscá un adulto para que te ayude con objetos punzantes.
+3. Seguí las instrucciones cuidadosamente.
 
 ## Desarrollo
 
 ### Parte I - Preparar la papa
-1. Introduce el clavo en un lado de la papa.
-2. Introduce el cobre en el otro lado de la papa.
-3. Asegúrate de que no se toquen.
+1. Introducí el clavo en un lado de la papa.
+2. Introducí el cobre en el otro lado de la papa.
+3. Asegurate de que no se toquen.
 
 ### Parte II - Conectar los cables
-1. Conecta un cable al clavo.
-2. Conecta otro cable al cobre.
+1. Conectá un cable al clavo.
+2. Conectá otro cable al cobre.
 3. Con una sola papa la corriente es muy baja: conecta 2 o 3 papas en serie (el clavo de una con el cobre de la siguiente) y los extremos a un LED (la pata larga al cobre).
 
 ### Parte III - Probar
@@ -193,7 +193,7 @@ El zinc del clavo y el cobre reaccionan a través del jugo de la papa, que hace 
 
 ## Cierre
 1. ¿Qué pasó cuando conectaste los cables?
-2. ¿Por qué crees que funcionó?
+2. ¿Por qué creés que funcionó?
 3. ¿Qué otras cosas podrías usar para hacer una batería?
 
 ## Texto original completo de la actividad

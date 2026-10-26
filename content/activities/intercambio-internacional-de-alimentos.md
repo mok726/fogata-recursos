@@ -166,15 +166,15 @@ rama_rovers:
 Juego de cartas que simula el comercio internacional de alimentos, mostrando las desigualdades entre países ricos y pobres.
 
 ## Preparación
-1. Investiga países y sus alimentos característicos.
-2. Dibuja cartas de recursos según la riqueza del país.
-3. Prepara cartas de necesidades.
+1. Investigá países y sus alimentos característicos.
+2. Dibujá cartas de recursos según la riqueza del país.
+3. Prepará cartas de necesidades.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga países y sus alimentos.
-2. **Preparación** (20 min): Crea cartas de recursos y necesidades.
-3. **Juego** (20 min): Intercambia cartas para satisfacer necesidades.
-4. **Reflexión** (15 min): Discute sobre las desigualdades del comercio global.
+1. **Investigación** (15 min): Investigá países y sus alimentos.
+2. **Preparación** (20 min): Creá cartas de recursos y necesidades.
+3. **Juego** (20 min): Intercambiá cartas para satisfacer necesidades.
+4. **Reflexión** (15 min): Discutí sobre las desigualdades del comercio global.
 
 ## Cierre
 - ¿Qué países tuvieron más dificultades para obtener alimentos?

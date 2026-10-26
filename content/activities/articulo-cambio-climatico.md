@@ -4,8 +4,8 @@ title: "Artículo sobre el cambio climático"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/articulo-cambio-climatico/"
-description: "Lee artículos sobre el cambio climático y escribe tu propio artículo periodístico sobre cómo afecta a tu comunidad."
-summary: "Escribe un artículo sobre el cambio climático."
+description: "Leé artículos sobre el cambio climático y escribí tu propio artículo periodístico sobre cómo afecta a tu comunidad."
+summary: "Escribí un artículo sobre el cambio climático."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,17 +160,17 @@ translation_notice:
 # ¡Artículo sobre el cambio climático!
 
 ## Resumen
-Lee artículos periodísticos sobre el cambio climático en tu área. Luego escribe tu propio artículo sobre por qué está ocurriendo el cambio climático y cómo afecta a tu comunidad y a las fuentes de energía.
+Leé artículos periodísticos sobre el cambio climático en tu área. Luego escribe tu propio artículo sobre por qué está ocurriendo el cambio climático y cómo afecta a tu comunidad y a las fuentes de energía.
 
 ## Preparación
-1. Lee la información sobre el cambio climático.
-2. Busca artículos periodísticos sobre cambio climático en tu área.
-3. Prepara materiales para escribir.
+1. Leé la información sobre el cambio climático.
+2. Buscá artículos periodísticos sobre cambio climático en tu área.
+3. Prepará materiales para escribir.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Lee artículos periodísticos sobre cambio climático en tu comunidad.
+Leé artículos periodísticos sobre cambio climático en tu comunidad.
 
 **Preguntas guía:**
 - ¿Cómo afecta el cambio climático a tu comunidad?
@@ -178,7 +178,7 @@ Lee artículos periodísticos sobre cambio climático en tu comunidad.
 - ¿Cómo influye el cambio climático en las fuentes de energía?
 
 ### Parte II - Escribir
-Escribe tu propio artículo periodístico incluyendo:
+Escribí tu propio artículo periodístico incluyendo:
 1. **Título** llamativo
 2. **Introducción**: qué es el cambio climático
 3. **Causas**: por qué ocurre
@@ -186,12 +186,12 @@ Escribe tu propio artículo periodístico incluyendo:
 5. **Soluciones**: qué se puede hacer
 
 ### Parte III - Compartir
-Comparte tu artículo con tu grupo.
+Compartí tu artículo con tu grupo.
 
 ## Cierre
 1. ¿Qué impacto del cambio climático te preocupa más?
 2. ¿Cómo podemos informar mejor a la comunidad?
-3. ¿Qué acción personal puedes tomar?
+3. ¿Qué acción personal podés tomar?
 
 ## Texto original completo de la actividad
 

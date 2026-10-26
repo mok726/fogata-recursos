@@ -4,8 +4,8 @@ title: "Modelo de generación de energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-generacion-energia/"
-description: "Investiga los tipos de energía que se usan en tu país, marca en un mapa las regiones y construye un modelo de una fuente de energía renovable."
-summary: "Construye un modelo de energía renovable."
+description: "Investigá los tipos de energía que se usan en tu país, marca en un mapa las regiones y construí un modelo de una fuente de energía renovable."
+summary: "Construí un modelo de energía renovable."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Modelo de generación de energía!
 
 ## Resumen
-Investiga qué tipos de energía se usan en tu país. Dibuja un mapa marcando las diferentes regiones y los tipos de energía que se producen en cada una. Luego, elige una fuente de energía renovable y construye un modelo con materiales reciclados.
+Investigá qué tipos de energía se usan en tu país. Dibujá un mapa marcando las diferentes regiones y los tipos de energía que se producen en cada una. Luego, elegí una fuente de energía renovable y construí un modelo con materiales reciclados.
 
 ## Preparación
-1. Lee la sección de información de fondo sobre fuentes de energía.
-2. Investiga qué tipos de energía se producen en tu país.
-3. Reúne materiales reciclados para construir tu modelo.
+1. Leé la sección de información de fondo sobre fuentes de energía.
+2. Investigá qué tipos de energía se producen en tu país.
+3. Reuní materiales reciclados para construir tu modelo.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga qué tipos de energía se usan en tu país:
+Investigá qué tipos de energía se usan en tu país:
 
 **Preguntas guía:**
 - ¿Hay plantas hidroeléctricas?
@@ -183,13 +183,13 @@ Investiga qué tipos de energía se usan en tu país:
 - ¿Qué tipo de energía se usa en cada región?
 
 ### Parte II - Mapa
-Dibuja un mapa de tu país y marca:
+Dibujá un mapa de tu país y marca:
 - Las diferentes regiones
 - Los tipos de energía en cada región
 - Los recursos energéticos que se extraen
 
 ### Parte III - Modelo
-Elige una fuente de energía renovable y construye un modelo con materiales reciclados (ej. cartón, botellas, papel).
+Elegí una fuente de energía renovable y construí un modelo con materiales reciclados (ej. cartón, botellas, papel).
 
 **Ideas:**
 - Turbina eólica de cartón
@@ -197,7 +197,7 @@ Elige una fuente de energía renovable y construye un modelo con materiales reci
 - Presa hidroeléctrica con botellas
 
 ### Parte IV - Presentación
-Presenta tu modelo explicando:
+Presentá tu modelo explicando:
 - Cómo funciona esta forma de energía
 - Cómo impacta al medio ambiente
 

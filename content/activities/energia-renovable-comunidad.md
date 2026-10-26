@@ -4,8 +4,8 @@ title: "Energía renovable en mi comunidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-renovable-comunidad/"
-description: "Investiga qué tipo de energía usa tu hogar y tu escuela, y explora qué opciones de energía renovable están disponibles en tu comunidad."
-summary: "Descubre cómo usar energía renovable en tu comunidad."
+description: "Investigá qué tipo de energía usa tu hogar y tu escuela, y explorá qué opciones de energía renovable están disponibles en tu comunidad."
+summary: "Descubrí cómo usar energía renovable en tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -155,36 +155,36 @@ translation_notice:
 # ¡Energía renovable en mi comunidad!
 
 ## Resumen
-Investiga qué tipo de energía usa tu hogar y tu escuela. Si no es energía renovable, averigua qué opciones de energía renovable están disponibles en tu comunidad.
+Investigá qué tipo de energía usa tu hogar y tu escuela. Si no es energía renovable, averiguá qué opciones de energía renovable están disponibles en tu comunidad.
 
 ## Preparación
-1. Lee la información sobre energía renovable.
-2. Prepara materiales para tomar notas.
-3. Habla con tus padres sobre la energía en tu hogar.
+1. Leé la información sobre energía renovable.
+2. Prepará materiales para tomar notas.
+3. Hablá con tus padres sobre la energía en tu hogar.
 
 ## Desarrollo
 
 ### Parte I - Investigación en casa
-Investiga qué energía usa tu hogar:
+Investigá qué energía usa tu hogar:
 - ¿De dónde viene tu electricidad?
-- ¿Usas energía renovable?
-- ¿Qué tipo de calefacción tienes?
+- ¿Usás energía renovable?
+- ¿Qué tipo de calefacción tenés?
 
 ### Parte II - Investigación en la escuela
-Investiga qué energía usa tu escuela:
+Investigá qué energía usa tu escuela:
 - ¿De dónde viene la electricidad?
 - ¿Hay paneles solares?
 - ¿Qué sistemas de calefacción y refrigeración usan?
 
 ### Parte III - Opciones renovables
-Investiga qué opciones de energía renovable están disponibles:
+Investigá qué opciones de energía renovable están disponibles:
 - ¿Hay proveedores de energía renovable?
 - ¿Hay instalaciones solares o eólicas en tu área?
 - ¿Qué opciones existen para cambiar?
 
 ### Parte IV - Acción
-Habla con tus padres sobre cambiar a energía renovable si es posible.
-Habla con tu profesor sobre cómo usar la energía de manera más eficiente.
+Hablá con tus padres sobre cambiar a energía renovable si es posible.
+Hablá con tu profesor sobre cómo usar la energía de manera más eficiente.
 
 ## Cierre
 1. ¿Qué tipo de energía usa tu hogar?

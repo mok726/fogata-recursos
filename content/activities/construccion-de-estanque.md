@@ -165,20 +165,20 @@ rama_rovers:
 Construyan un estanque para crear un nuevo hábitat para insectos, anfibios, plantas y otros. Asegúrense de plantar sólo especies nativas.
 
 ## Preparación
-1. Elige un lugar adecuado para el estanque.
-2. Reúne materiales de construcción.
-3. Identifica plantas nativas acuáticas.
+1. Elegí un lugar adecuado para el estanque.
+2. Reuní materiales de construcción.
+3. Identificá plantas nativas acuáticas.
 
 ## Desarrollo
-1. Construye el estanque siguiendo las instrucciones.
-2. Planta especies nativas acuáticas.
-3. Observa cómo se establece el ecosistema.
-4. Mantén el estanque limpio.
+1. Construí el estanque siguiendo las instrucciones.
+2. Plantá especies nativas acuáticas.
+3. Observá cómo se establece el ecosistema.
+4. Mantené el estanque limpio.
 5. **Mosquitos**: un estanque puede ser criadero de mosquitos (en Argentina, dengue). Incorporen peces nativos que coman larvas y no dejen agua estancada en recipientes cercanos.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué especies visitaron el estanque?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué especies visitaron el estanque?
 3. Pregunta final: ¿Cómo ayuda un estanque a la biodiversidad?
 
 ## Texto original completo de la actividad

@@ -4,7 +4,7 @@ title: "El Diario de Comidas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-diario-de-comidas/"
-description: "Lleva un registro detallado de tu alimentación durante una semana para evaluar y mejorar tu dieta."
+description: "Llevá un registro detallado de tu alimentación durante una semana para evaluar y mejorar tu dieta."
 summary: "Registro y análisis de hábitos alimenticios."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -173,22 +173,22 @@ rama_rovers:
 # El Diario de Comidas
 
 ## Resumen
-Lleva un registro detallado de tu alimentación durante una semana para evaluar y mejorar tu dieta.
+Llevá un registro detallado de tu alimentación durante una semana para evaluar y mejorar tu dieta.
 
 ## Preparación
-1. Prepara un cuaderno para el diario de comidas.
-2. Si tienes smartphone, descarga una aplicación para seguir tu dieta.
-3. Revisa los puntos clave para evaluar tu dieta.
+1. Prepará un cuaderno para el diario de comidas.
+2. Si tenés smartphone, descarga una aplicación para seguir tu dieta.
+3. Revisá los puntos clave para evaluar tu dieta.
 
 ## Desarrollo
-1. **Registro** (durante una semana): Anota todas las comidas y aperitivos.
+1. **Registro** (durante una semana): Anotá todas las comidas y aperitivos.
 2. **Evaluación** (20 min): Al final de la semana, evalúa tu dieta.
-3. **Análisis** (15 min): ¿Sigues una dieta equilibrada? ¿Qué puedes mejorar?
-4. **Acción** (15 min): Habla con tus padres sobre los cambios que deberías hacer.
+3. **Análisis** (15 min): ¿Seguís una dieta equilibrada? ¿Qué podés mejorar?
+4. **Acción** (15 min): Hablá con tus padres sobre los cambios que deberías hacer.
 
 ## Cierre
 - ¿Qué aspectos de tu dieta te sorprendieron?
-- ¿Qué cambios puedes implementar?
+- ¿Qué cambios podés implementar?
 - ¿Qué compromiso adquieres para mejorar tu alimentación?
 
 ---

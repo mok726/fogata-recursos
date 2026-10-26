@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contacta a los Tomadores de Decisiones"
+title: "Contactá a los Tomadores de Decisiones"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/contacta-a-los-tomadores-de-decisiones/"
-description: "Aprende sobre actores y tomadores de decisiones en temas forestales. Comparte tu opinión sobre una política forestal específica con tu gobierno o con tu oficial elegido."
+description: "Aprendé sobre actores y tomadores de decisiones en temas forestales. Compartí tu opinión sobre una política forestal específica con tu gobierno o con tu oficial elegido."
 summary: "Incidencia política para la protección de bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -121,7 +121,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -163,26 +163,26 @@ rama_rovers:
   - 23  # Ejercito plena y responsablemente mis derechos como ciudadano/a.
 ---
 
-# Contacta a los Tomadores de Decisiones
+# Contactá a los Tomadores de Decisiones
 
 ## Resumen
-Aprende sobre actores y tomadores de decisiones en temas forestales. Comparte tu opinión sobre una política forestal específica con tu gobierno o con tu oficial elegido.
+Aprendé sobre actores y tomadores de decisiones en temas forestales. Compartí tu opinión sobre una política forestal específica con tu gobierno o con tu oficial elegido.
 
 ## Preparación
-1. Investiga actores y tomadores de decisiones en temas forestales (gobierno, ONGs, etc.).
-2. Identifica una cuestión forestal que te interese.
-3. Define a quién vas a contactar (oficial electo, autoridad, etc.).
-4. Prepara tu mensaje o carta.
+1. Investigá actores y tomadores de decisiones en temas forestales (gobierno, ONGs, etc.).
+2. Identificá una cuestión forestal que te interese.
+3. Definí a quién vas a contactar (oficial electo, autoridad, etc.).
+4. Prepará tu mensaje o carta.
 
 ## Desarrollo
-1. **Investigación** (30 min): Aprende sobre los tomadores de decisiones y sus roles.
-2. **Análisis** (20 min): Define una cuestión forestal específica y por qué es importante para ti.
-3. **Propuesta** (20 min): Piensa en una posible solución para esa cuestión.
-4. **Contacto** (15 min): Envía tu opinión por carta, teléfono o visita personal.
+1. **Investigación** (30 min): Aprendé sobre los tomadores de decisiones y sus roles.
+2. **Análisis** (20 min): Definí una cuestión forestal específica y por qué es importante para vos.
+3. **Propuesta** (20 min): Pensá en una posible solución para esa cuestión.
+4. **Contacto** (15 min): Enviá tu opinión por carta, teléfono o visita personal.
 
 ## Cierre
 - ¿Qué aprendiste sobre el proceso de toma de decisiones?
 - ¿Cómo te sentiste al compartir tu opinión?
-- ¿Qué otras acciones puedes tomar para influir en las políticas forestales?
+- ¿Qué otras acciones podés tomar para influir en las políticas forestales?
 
 ---

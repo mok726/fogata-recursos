@@ -4,8 +4,8 @@ title: "Tarjetas de puntuación para empaques"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-puntuacion/"
-description: "Crea un sistema de puntuación para evaluar qué tan ecológicos son los empaques de productos en tu supermercado local."
-summary: "Evalúa la sostenibilidad de los empaques de productos."
+description: "Creá un sistema de puntuación para evaluar qué tan ecológicos son los empaques de productos en tu supermercado local."
+summary: "Evaluá la sostenibilidad de los empaques de productos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,12 +163,12 @@ translation_notice:
 # ¡Tarjetas de puntuación para empaques!
 
 ## Resumen
-Crea un sistema de puntuación para evaluar qué tan ecológicos son los empaques de los productos en tu supermercado local. Usa colores o números para calificar qué tan fácil es reutilizar o reciclar cada empaque.
+Creá un sistema de puntuación para evaluar qué tan ecológicos son los empaques de los productos en tu supermercado local. Usá colores o números para calificar qué tan fácil es reutilizar o reciclar cada empaque.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Consulta la ilustración "Tipos de plástico" para reconocer los materiales plásticos.
-3. Prepara tarjetas o papel para crear el sistema de puntuación.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Consultá la ilustración "Tipos de plástico" para reconocer los materiales plásticos.
+3. Prepará tarjetas o papel para crear el sistema de puntuación.
 
 ## Desarrollo
 

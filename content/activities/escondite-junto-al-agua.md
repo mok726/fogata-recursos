@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Escondite junto al agua!
 
 ## Resumen
-Construye un escondite (un refugio camuflado desde donde puedes observar a los animales sin molestarlos) cerca de un lago, un estanque o un arroyo. El escondite te mantendrá oculto de la vida silvestre.
+Construí un escondite (un refugio camuflado desde donde podés observar a los animales sin molestarlos) cerca de un lago, un estanque o un arroyo. El escondite te mantendrá oculto de la vida silvestre.
 
 ## Preparación
-1. Identifica un lugar adecuado cerca del agua.
-2. Reúne materiales para el escondite.
-3. Organiza la construcción.
+1. Identificá un lugar adecuado cerca del agua.
+2. Reuní materiales para el escondite.
+3. Organizá la construcción.
 
 ## Desarrollo
-1. Construye el escondite con ramas, hojas y tela.
-2. Asegúrate de que esté bien camuflado.
-3. Pasa un día en tu escondite.
-4. Registra los insectos, mamíferos, aves, reptiles y anfibios que llegan al agua.
+1. Construí el escondite con ramas, hojas y tela.
+2. Asegurate de que esté bien camuflado.
+3. Pasá un día en tu escondite.
+4. Registrá los insectos, mamíferos, aves, reptiles y anfibios que llegan al agua.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué animales observaste?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué animales observaste?
 3. Pregunta final: ¿Cómo ayuda un escondite a observar la naturaleza?
 
 ## Texto original completo de la actividad

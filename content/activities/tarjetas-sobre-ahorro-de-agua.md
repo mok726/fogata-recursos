@@ -3,7 +3,7 @@ title: "Tarjetas sobre ahorro de agua"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-sobre-ahorro-de-agua/"
-description: "Crea tarjetas con datos sobre el ahorro de agua."
+description: "Creá tarjetas con datos sobre el ahorro de agua."
 summary: "Tarjetas educativas sobre agua."
 
 author:
@@ -141,21 +141,21 @@ rama_rovers: []
 # ¡Tarjetas sobre ahorro de agua!
 
 ## Resumen
-Crea tarjetas con datos sobre el ahorro de agua y úsalas para hacer una prueba.
+Creá tarjetas con datos sobre el ahorro de agua y usalas para hacer una prueba.
 
 ## Preparación
-1. Investiga datos sobre el ahorro de agua.
-2. Prepara tarjetas y lápices de colores.
+1. Investigá datos sobre el ahorro de agua.
+2. Prepará tarjetas y lápices de colores.
 
 ## Desarrollo
-1. **Creación** (20 min): Haz las tarjetas con datos.
-2. **Prueba** (15 min): Usa las tarjetas para hacer una prueba.
-3. **Presentación** (10 min): Presenta las tarjetas en tu escuela.
+1. **Creación** (20 min): Hacé las tarjetas con datos.
+2. **Prueba** (15 min): Usá las tarjetas para hacer una prueba.
+3. **Presentación** (10 min): Presentá las tarjetas en tu escuela.
 
 ## Cierre
 - ¿Qué datos te sorprendieron más?
 - ¿Qué tarjeta fue la más interesante?
-- ¿Cómo puedes usar estos datos para ahorrar agua?
+- ¿Cómo podés usar estos datos para ahorrar agua?
 
 ---
 ## Texto original completo de la actividad

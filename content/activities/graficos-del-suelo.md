@@ -3,8 +3,8 @@ title: "Gráficos del Suelo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/graficos-del-suelo/"
-description: "Crea una tira cómica sobre un superhéroe que salva al suelo."
-summary: "Tira cómica sobre protección del suelo."
+description: "Creá una tira cómica sobre un superhéroe que salva al suelo."
+summary: "Tirá cómica sobre protección del suelo."
 
 author:
   - FAO
@@ -140,21 +140,21 @@ rama_rovers: []
 # ¡Gráficos del Suelo!
 
 ## Resumen
-Crea una tira cómica sobre un superhéroe que salva al suelo de una amenaza.
+Creá una tira cómica sobre un superhéroe que salva al suelo de una amenaza.
 
 ## Preparación
-- Piensa en una amenaza para el suelo (cambio climático, construcción, contaminación).
-- Elige un superhéroe (puede ser una bacteria o un hongo).
+- Pensá en una amenaza para el suelo (cambio climático, construcción, contaminación).
+- Elegí un superhéroe (puede ser una bacteria o un hongo).
 
 ## Desarrollo
-1. **Creación** (35 min): Dibuja tu tira cómica.
-2. **Compartir** (15 min): Muestra tu cómic al grupo.
-3. **Envío** (10 min): Envía tu cómic a yunga@fao.org.
+1. **Creación** (35 min): Dibujá tu tira cómica.
+2. **Compartir** (15 min): Mostrá tu cómic al grupo.
+3. **Envío** (10 min): Enviá tu cómic a yunga@fao.org.
 
 ## Cierre
 - ¿Qué amenaza elegiste?
 - ¿Cómo salva el superhéroe al suelo?
-- ¿Qué mensaje quieres transmitir?
+- ¿Qué mensaje querés transmitir?
 
 ---
 ## Texto original completo de la actividad

@@ -120,7 +120,7 @@ competencies:
   - Habilidades de debate y negociación
   - Participación ciudadana
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Simulación
   - Aprender haciendo
 category:
@@ -196,7 +196,7 @@ Las leyes cumplen un papel importante en la regulación del uso y eliminación d
 ## Cierre
 1. ¿Fue fácil llegar a un acuerdo? ¿Por qué?
 2. ¿Qué aprendiste sobre el proceso de crear leyes?
-3. ¿Cómo puedes involucrarte en la creación de normas en tu comunidad?
+3. ¿Cómo podés involucrarte en la creación de normas en tu comunidad?
 
 ## Texto original completo de la actividad
 

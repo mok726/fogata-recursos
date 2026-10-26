@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-agua/"
 description: "Los participantes realizan diferentes actividades divertidas con agua para aprender que el agua es esencial para todos los seres vivos."
-summary: "Aprende sobre la importancia del agua jugando."
+summary: "Aprendé sobre la importancia del agua jugando."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -175,34 +175,34 @@ translation_notice:
 ¿Qué tienen en común las plantas, los animales y los humanos? ¡Todos necesitan agua para vivir! Las plantas y los árboles absorben agua del suelo a través de sus raíces. Los elefantes beben agua de los estanques y también la usan para mantenerse frescos. Las personas beben agua y la usan para bañarse y lavarse los dientes. El agua es una parte esencial de todos los seres vivos.
 
 ## Preparación
-1. Busca un espacio al aire libre para realizar las actividades.
-2. Prepara los materiales según las actividades que elijas.
-3. Asegúrate de tener suficiente agua para todas las actividades.
+1. Buscá un espacio al aire libre para realizar las actividades.
+2. Prepará los materiales según las actividades que elijas.
+3. Asegurate de tener suficiente agua para todas las actividades.
 
 ## Desarrollo
 
-¡Realiza algunas de estas ideas divertidas con tu grupo!
+¡Realizá algunas de estas ideas divertidas con tu grupo!
 
 ### Actividad 1 - Plantar una flor
-Planta una flor y riégala con agua. Observa cómo la planta absorbe el agua.
+Plantá una flor y regala con agua. Observá cómo la planta absorbe el agua.
 
 ### Actividad 2 - Agua para los pájaros
-Coloca agua en un recipiente pequeño para que los pájaros beban y limpien sus plumas.
+Colocá agua en un recipiente pequeño para que los pájaros beban y limpien sus plumas.
 
 ### Actividad 3 - Lavar fruta
-Lava algunas frutas con agua y compártelas con todo el grupo.
+Lavá algunas frutas con agua y compártelas con todo el grupo.
 
 ### Actividad 4 - Jugar con una mascota
-Si tienes una mascota, juega con ella y después de jugar dale agua para beber.
+Si tenés una mascota, juega con ella y después de jugar dale agua para beber.
 
 ### Actividad 5 - Jugar y beber agua
-Juega un juego, como la mancha o saltar la cuerda, y luego comparte un vaso de agua.
+Jugá un juego, como la mancha o saltar la cuerda, y luego comparte un vaso de agua.
 
 ### Actividad 6 - Dibujo con acuarelas
-Haz un dibujo con pinturas de acuarela, quizás un lago o un acuario con peces.
+Hacé un dibujo con pinturas de acuarela, quizás un lago o un acuario con peces.
 
 ### Actividad 7 - Globos de agua
-Juega a atrapar con globos de agua.
+Jugá a atrapar con globos de agua.
 
 ### Actividad 8 - Lavarse las manos
 ¡No olvides lavarte las manos cada vez que termines una actividad!

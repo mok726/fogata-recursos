@@ -4,7 +4,7 @@ title: "Anillos Anuales"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/anillos-anuales/"
-description: "Examina un tocón o tronco cortado para contar sus anillos de crecimiento. Determina la edad del árbol y su historia."
+description: "Examiná un tocón o tronco cortado para contar sus anillos de crecimiento. Determiná la edad del árbol y su historia."
 summary: "Investigación de anillos de crecimiento en árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,19 +165,19 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Anillos Anuales
 
 ## Resumen
-Examina un tocón o tronco cortado para contar sus anillos de crecimiento. Determina la edad del árbol y su historia.
+Examiná un tocón o tronco cortado para contar sus anillos de crecimiento. Determiná la edad del árbol y su historia.
 
 ## Preparación
-1. Encuentra un tocón de árbol o tronco cortado.
-2. Prepara una lupa si es posible.
-3. Prepara material para el póster.
+1. Encontrá un tocón de árbol o tronco cortado.
+2. Prepará una lupa si es posible.
+3. Prepará material para el póster.
 
 ## Desarrollo
-1. **Examen** (15 min): Examina los anillos de crecimiento del tocón.
-2. **Conteo** (10 min): Cuenta los anillos para determinar la edad del árbol.
-3. **Análisis** (10 min): Observa si los anillos están espaciados uniformemente y reflexiona sobre qué indica el espaciado.
-4. **Reflexión** (10 min): Piensa qué indica esto sobre la historia del árbol y del bosque.
-5. **Creación** (20 min): Haz un póster mostrando los anillos de crecimiento.
+1. **Examen** (15 min): Examiná los anillos de crecimiento del tocón.
+2. **Conteo** (10 min): Contá los anillos para determinar la edad del árbol.
+3. **Análisis** (10 min): Observá si los anillos están espaciados uniformemente y reflexioná sobre qué indica el espaciado.
+4. **Reflexión** (10 min): Pensá qué indica esto sobre la historia del árbol y del bosque.
+5. **Creación** (20 min): Hacé un póster mostrando los anillos de crecimiento.
 
 ## Cierre
 - ¿Qué edad tiene tu árbol?

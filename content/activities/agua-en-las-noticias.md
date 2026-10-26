@@ -5,7 +5,7 @@ duration: "1 hora (15 min explicación + 40 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-en-las-noticias/"
 description: "Los participantes crean un álbum de recortes con artículos y fotografías sobre el agua, reflexionando sobre su importancia y presencia en los medios."
-summary: "Crea un álbum de recortes sobre el agua."
+summary: "Creá un álbum de recortes sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,30 +170,30 @@ translation_notice:
 El agua está en todas partes y es un tema constante en las noticias. En esta actividad, los participantes crean su propio álbum de recortes sobre el agua, recolectando artículos y fotografías de periódicos y revistas relacionados con la disponibilidad y los usos del agua.
 
 ## Preparación
-1. Reúne periódicos y revistas para que los participantes puedan buscar artículos.
-2. Prepara los materiales de arte (tijeras, pegamento, lápices de colores).
+1. Reuní periódicos y revistas para que los participantes puedan buscar artículos.
+2. Prepará los materiales de arte (tijeras, pegamento, lápices de colores).
 
 ## Desarrollo
 
 ### Paso 1: Explicación de la tarea
-1. Explica a los participantes que van a hacer su propio álbum de recortes sobre el agua, para que siempre puedan recordar por qué el agua es tan importante para los seres humanos.
+1. Explicá a los participantes que van a hacer su propio álbum de recortes sobre el agua, para que siempre puedan recordar por qué el agua es tan importante para los seres humanos.
 2. Los participantes pueden hacer esto como tarea para casa o durante la reunión.
 
 ### Paso 2: Búsqueda de artículos
-3. Pídeles que busquen artículos y fotografías relacionados con el agua en periódicos y revistas. Deben estar relacionados con la disponibilidad y los usos del agua.
-4. Anima a los participantes a buscar diferentes temas: conservación, contaminación, acceso al agua, eventos relacionados con el agua, etc.
+3. Pediles que busquen artículos y fotografías relacionados con el agua en periódicos y revistas. Deben estar relacionados con la disponibilidad y los usos del agua.
+4. Animá a los participantes a buscar diferentes temas: conservación, contaminación, acceso al agua, eventos relacionados con el agua, etc.
 
 ### Paso 3: Creación del álbum
-5. Pide a los participantes que peguen los artículos y fotografías en su cuaderno o en hojas de papel, creando un álbum temático.
+5. Pedí a los participantes que peguen los artículos y fotografías en su cuaderno o en hojas de papel, creando un álbum temático.
 6. Pueden agregar dibujos, títulos y comentarios sobre cada artículo.
 
 ### Paso 4: Presentación
-7. Pide a cada participante que presente su álbum al resto del grupo.
+7. Pedí a cada participante que presente su álbum al resto del grupo.
 
 ## Cierre
 - ¿Cuál fue tu artículo favorito? ¿Por qué?
 - ¿Había algunos temas comunes? ¿De qué trataban?
-- ¿Por qué crees que el agua está siempre en las noticias?
+- ¿Por qué creés que el agua está siempre en las noticias?
 
 ## Texto original completo de la actividad
 

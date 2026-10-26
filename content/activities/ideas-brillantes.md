@@ -165,19 +165,19 @@ rama_rovers:
 Hay un montón de ideas y proyectos geniales sobre la eficiencia energética allá afuera. Por ejemplo, la irrigación por goteo con energía solar está ayudando a los agricultores de Benín, y una planta hidráulica a pequeña escala sirve para llevar electricidad a los hogares y escuelas de Tayikistán.
 
 ## Preparación
-1. Investiga sobre proyectos de energía renovable.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre proyectos de energía renovable.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga proyectos innovadores de energía renovable.
-2. Elige uno de los proyectos que te interese.
-3. Investiga: ¿Cómo funciona? ¿Dónde está?
-4. Investiga: ¿Podría implementarse en tu propia área?
-5. Prepara una presentación sobre el proyecto.
+1. Investigá proyectos innovadores de energía renovable.
+2. Elegí uno de los proyectos que te interese.
+3. Investigá: ¿Cómo funciona? ¿Dónde está?
+4. Investigá: ¿Podría implementarse en tu propia área?
+5. Prepará una presentación sobre el proyecto.
 
 ## Cierre
-1. Comparte tu presentación con el grupo.
+1. Compartí tu presentación con el grupo.
 2. Discutan: ¿Qué proyectos serían más útiles en tu comunidad?
 3. Pregunta final: ¿Qué proyecto te pareció más inspirador?
 

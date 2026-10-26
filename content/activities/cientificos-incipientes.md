@@ -157,23 +157,23 @@ rama_rovers:
 # ¡Científicos incipientes!
 
 ## Resumen
-Imagina que eres un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo?
+Imaginá que sos un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo?
 
 ## Preparación
-1. Prepara información sobre diferentes tipos de científicos del clima.
-2. Busca videos o artículos cortos sobre carreras científicas.
-3. Prepara una lista de preguntas guía para la reflexión.
+1. Prepará información sobre diferentes tipos de científicos del clima.
+2. Buscá videos o artículos cortos sobre carreras científicas.
+3. Prepará una lista de preguntas guía para la reflexión.
 
 ## Desarrollo
-1. Aprende más sobre aquello que hacen diferentes científicos del clima.
-2. Decide qué tipo de científico te gustaría ser.
-3. Investiga qué estudios o habilidades se necesitan para esa carrera.
-4. Haz una lista de puntos que expliquen por qué elegiste esa especialidad.
+1. Aprendé más sobre aquello que hacen diferentes científicos del clima.
+2. Decidí qué tipo de científico te gustaría ser.
+3. Investigá qué estudios o habilidades se necesitan para esa carrera.
+4. Hacé una lista de puntos que expliquen por qué elegiste esa especialidad.
 
 ## Cierre
-1. Comparte tu elección con el grupo y explica tus razones.
+1. Compartí tu elección con el grupo y explicá tus razones.
 2. Discutan cómo los científicos del clima contribuyen a proteger el planeta.
-3. Pregunta final: ¿Cómo crees que la ciencia puede ayudar a resolver el cambio climático?
+3. Pregunta final: ¿Cómo creés que la ciencia puede ayudar a resolver el cambio climático?
 
 ## Texto original completo de la actividad
 A.06 CIENTÍFICOS INCIPIENTES. Imagina que eres un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo y cavando en las profundidades de los lagos para entender cómo ha cambiado el clima de la Tierra durante los años? ¿Tal vez preferirías estar estudiando ciertas plantas y animales para ver cómo estos se verán afectados por el cambio climático? Aprende más sobre aquello que hacen diferentes científicos del clima y decide qué tipo de científico te gustaría ser. Luego haz una lista de puntos que expliquen por qué.

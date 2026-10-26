@@ -167,15 +167,15 @@ rama_rovers:
 Juego de mímica con palabras relacionadas con la seguridad alimentaria y la nutrición.
 
 ## Preparación
-1. Prepara un mazo de cartas con palabras relacionadas con seguridad alimentaria y nutrición.
-2. Divide el grupo en equipos.
-3. Prepara el espacio para el juego.
+1. Prepará un mazo de cartas con palabras relacionadas con seguridad alimentaria y nutrición.
+2. Dividí el grupo en equipos.
+3. Prepará el espacio para el juego.
 
 ## Desarrollo
-1. **Creación** (15 min): Crea las cartas con palabras.
-2. **Mezcla** (5 min): Mezcla todas las cartas.
-3. **Juego** (20 min): Juega a la mímica en equipos.
-4. **Puntuación** (5 min): Cuenta los puntos y celebra.
+1. **Creación** (15 min): Creá las cartas con palabras.
+2. **Mezcla** (5 min): Mezclá todas las cartas.
+3. **Juego** (20 min): Jugá a la mímica en equipos.
+4. **Puntuación** (5 min): Contá los puntos y celebrá.
 
 ## Cierre
 - ¿Qué palabras te resultaron más difíciles de representar?

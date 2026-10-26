@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-derechos-humanos/"
 description: "Los participantes imaginan una nueva sociedad desde cero, definen los derechos humanos más importantes y los comparan con la Declaración Universal de los Derechos Humanos."
-summary: "Define los derechos de una nueva sociedad."
+summary: "Definí los derechos de una nueva sociedad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -118,7 +118,7 @@ competencies:
   - Conciencia de derechos
   - Debate
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Juego
 category:
@@ -169,13 +169,13 @@ rama_rovers:
 Imaginen crear una nueva sociedad desde cero. ¿Cuáles son los derechos humanos más importantes y fundamentales y valores para su comunidad? Debatan y definan los cinco más importantes derechos para su comunidad. Justifiquen por qué creen que esos son los más importantes. Busquen la Declaración Universal de los Derechos Humanos y vean si sus derechos se mencionan en la Declaración. ¿Encontraron algún otro derecho que no habían mencionado para sumarlo a su sociedad?
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Ten a mano la Declaración Universal de los Derechos Humanos (puedes imprimirla o tener acceso a Internet).
+1. Prepará los materiales de escritura.
+2. Tené a mano la Declaración Universal de los Derechos Humanos (podés imprimirla o tener acceso a Internet).
 
 ## Desarrollo
 
 ### Paso 1: Creación de la nueva sociedad
-1. Pide a los participantes que imaginen que están creando una nueva sociedad desde cero.
+1. Pedí a los participantes que imaginen que están creando una nueva sociedad desde cero.
 2. Pregunta: ¿Cuáles son los derechos humanos más importantes y fundamentales y valores para su comunidad?
 
 ### Paso 2: Selección de derechos

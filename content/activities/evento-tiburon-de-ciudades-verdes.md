@@ -144,7 +144,7 @@ competencies:
 activity_type:
   - Creatividad / Arte
   - Planificación
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Innovación
   - Urbanismo
@@ -182,7 +182,7 @@ rama_rovers:
 # ¡Evento Tiburón de ciudades verdes!
 
 ## Resumen
-¿Cuál crees que es el mayor desafío de tu ciudad? ¿Tenés ideas para resolverlo? ¡Ahora es tu momento de proponer nuevas ideas, soluciones y productos! Profundizá para llegar al corazón del problema. Luego, pasá una semana elaborando una idea para solucionarlo. Organizá un evento tipo "Shark Tank" donde presentes tus ideas frente a jueces.
+¿Cuál creés que es el mayor desafío de tu ciudad? ¿Tenés ideas para resolverlo? ¡Ahora es tu momento de proponer nuevas ideas, soluciones y productos! Profundizá para llegar al corazón del problema. Luego, pasá una semana elaborando una idea para solucionarlo. Organizá un evento tipo "Shark Tank" donde presentes tus ideas frente a jueces.
 
 ## Preparación
 1. Investigá el problema que querés resolver.

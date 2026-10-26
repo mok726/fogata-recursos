@@ -4,7 +4,7 @@ title: "Soluciones que Empoderan"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/soluciones-que-empoderan/"
-description: "Haz una lluvia de ideas sobre cómo empoderar a las personas para salir de la trampa del hambre y lograr autosuficiencia."
+description: "Hacé una lluvia de ideas sobre cómo empoderar a las personas para salir de la trampa del hambre y lograr autosuficiencia."
 summary: "Lluvia de ideas sobre soluciones para el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -123,7 +123,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -169,18 +169,18 @@ rama_rovers:
 # Soluciones que Empoderan
 
 ## Resumen
-Haz una lluvia de ideas sobre cómo empoderar a las personas para salir de la trampa del hambre y lograr autosuficiencia.
+Hacé una lluvia de ideas sobre cómo empoderar a las personas para salir de la trampa del hambre y lograr autosuficiencia.
 
 ## Preparación
-1. Prepara papel grande y marcadores.
-2. Reflexiona sobre lo que significa el empoderamiento.
-3. Piensa en cómo las personas pueden alcanzar la autosuficiencia.
+1. Prepará papel grande y marcadores.
+2. Reflexioná sobre lo que significa el empoderamiento.
+3. Pensá en cómo las personas pueden alcanzar la autosuficiencia.
 
 ## Desarrollo
-1. **Lluvia de ideas** (15 min): Piensa en formas de empoderar a las personas.
-2. **Conexiones** (15 min): Conecta las ideas con la autosuficiencia y seguridad alimentaria.
-3. **Creación** (20 min): Prepara una presentación divertida y creativa.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Lluvia de ideas** (15 min): Pensá en formas de empoderar a las personas.
+2. **Conexiones** (15 min): Conectá las ideas con la autosuficiencia y seguridad alimentaria.
+3. **Creación** (20 min): Prepará una presentación divertida y creativa.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué significa empoderar a una persona?

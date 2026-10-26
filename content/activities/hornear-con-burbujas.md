@@ -166,17 +166,17 @@ translation_notice:
 # ¡Hornear con burbujas!
 
 ## Resumen
-Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, tortas y otros dulces! Usa levadura o bicarbonato para hacer algo delicioso mientras aprendes sobre el CO₂.
+Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, tortas y otros dulces! Usá levadura o bicarbonato para hacer algo delicioso mientras aprendés sobre el CO₂.
 
 ## Preparación
-1. Reúne los ingredientes para tu receta.
-2. Si usas levadura, deja tiempo para que la masa leve antes de hornear.
-3. ¡Lávate las manos antes de comenzar!
+1. Reuní los ingredientes para tu receta.
+2. Si usás levadura, deja tiempo para que la masa leve antes de hornear.
+3. ¡Lavate las manos antes de comenzar!
 
 ## Desarrollo
 
 ### Parte I - Elegir receta
-Elige una receta que incluya levadura o bicarbonato:
+Elegí una receta que incluya levadura o bicarbonato:
 
 **Con levadura:**
 - Pan
@@ -189,15 +189,15 @@ Elige una receta que incluya levadura o bicarbonato:
 - Magdalenas
 
 ### Parte II - Preparar
-Sigue la receta paso a paso.
+Seguí la receta paso a paso.
 
-**Observa:** ¿Qué pasa con la masa cuando agregas levadura o bicarbonato?
+**Observa:** ¿Qué pasa con la masa cuando agregás levadura o bicarbonato?
 
 ### Parte III - Hornear
 Hornea según las instrucciones de la receta.
 
 ### Parte IV - Disfrutar
-¡Comparte tu creación con tu grupo o familia!
+¡Compartí tu creación con tu grupo o familia!
 
 ## Cierre
 1. ¿Qué pasó con la masa después de agregar levadura/bicarbonato?

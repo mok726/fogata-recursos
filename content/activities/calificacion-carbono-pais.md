@@ -4,8 +4,8 @@ title: "Calificación de carbono por país"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/calificacion-carbono-pais/"
-description: "Investiga las emisiones de CO₂ por país, compara la posición de tu país y crea un póster creativo con tus hallazgos."
-summary: "Compara las emisiones de CO₂ entre países."
+description: "Investigá las emisiones de CO₂ por país, compará la posición de tu país y creá un póster creativo con tus hallazgos."
+summary: "Compará las emisiones de CO₂ entre países."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,17 +167,17 @@ translation_notice:
 # ¡Calificación de carbono por país!
 
 ## Resumen
-Investiga las emisiones de CO₂ por país. ¿Dónde se encuentra tu país en comparación con otros? Crea un póster creativo con tus hallazgos, ¡incluye un mapa!
+Investigá las emisiones de CO₂ por país. ¿Dónde se encuentra tu país en comparación con otros? Creá un póster creativo con tus hallazgos, ¡incluye un mapa!
 
 ## Preparación
-1. Lee la información sobre emisiones de CO₂.
-2. Accede a la calculadora de huella de carbono de WWF.
-3. Prepara materiales para crear el póster.
+1. Leé la información sobre emisiones de CO₂.
+2. Accedé a la calculadora de huella de carbono de WWF.
+3. Prepará materiales para crear el póster.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga las emisiones de CO₂ por país:
+Investigá las emisiones de CO₂ por país:
 
 **Preguntas guía:**
 - ¿Cuáles son los países que más CO₂ emiten?
@@ -188,7 +188,7 @@ Investiga las emisiones de CO₂ por país:
 **Fuente sugerida:** https://footprint.wwf.org.uk/#/
 
 ### Parte II - Póster
-Crea un póster con tus hallazgos:
+Creá un póster con tus hallazgos:
 
 **Elementos sugeridos:**
 - Mapa mundial con colores por niveles de emisión
@@ -197,11 +197,11 @@ Crea un póster con tus hallazgos:
 - Razones de las diferencias
 
 ### Parte III - Compartir
-Comparte tu póster con el grupo.
+Compartí tu póster con el grupo.
 
 ## Cierre
 1. ¿Qué país tiene las emisiones más altas?
-2. ¿Por qué crees que algunos países emiten más?
+2. ¿Por qué creés que algunos países emiten más?
 3. ¿Qué puede hacer tu país para reducir emisiones?
 
 ## Texto original completo de la actividad

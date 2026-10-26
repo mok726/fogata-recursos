@@ -119,7 +119,7 @@ competencies:
   - Pensamiento crítico
 activity_type:
   - Simulación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Aprender haciendo
 category:
   - Diplomacia
@@ -159,21 +159,21 @@ rama_rovers:
 # ¡Negociación por el clima!
 
 ## Resumen
-Haz que todos en tu grupo representen a un país, asegúrate de tener una amplia mezcla de países en desarrollo, países ricos, países menos desarrollados, pequeños estados insulares, etc.
+Hacé que todos en tu grupo representen a un país, asegurate de tener una amplia mezcla de países en desarrollo, países ricos, países menos desarrollados, pequeños estados insulares, etc.
 
 ## Preparación
-1. Asigna países a cada participante.
-2. Investiga las posiciones de cada país en negociaciones climáticas.
-3. Prepara las reglas de la simulación.
+1. Asigná países a cada participante.
+2. Investigá las posiciones de cada país en negociaciones climáticas.
+3. Prepará las reglas de la simulación.
 
 ## Desarrollo
 1. Cada uno debe investigar sobre su país con relación a los problemas particulares que pueda estar enfrentando debido al cambio climático.
 2. Vuelvan a reunirse en grupo y lleven a cabo su propia 'negociación de NN.UU.'.
 3. Cada país argumenta por una acción determinada en base a sus necesidades.
-4. Observa: ¿Algunos de ustedes están en lados opuestos? ¿Cómo pueden llegar a un acuerdo?
+4. Observá: ¿Algunos de ustedes están en lados opuestos? ¿Cómo pueden llegar a un acuerdo?
 
 ## Cierre
-1. Reflexiona sobre el resultado de la negociación.
+1. Reflexioná sobre el resultado de la negociación.
 2. Discutan: ¿Qué fue lo más difícil de la negociación?
 3. Pregunta final: ¿Cómo se pueden equilibrar los intereses de diferentes países?
 

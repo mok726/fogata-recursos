@@ -3,7 +3,7 @@ title: "¿Dónde está el agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-el-agua/"
-description: "Dibuja un mapa mundial mostrando la distribución del agua dulce en el mundo."
+description: "Dibujá un mapa mundial mostrando la distribución del agua dulce en el mundo."
 summary: "Mapa de distribución mundial del agua."
 
 author:
@@ -145,18 +145,18 @@ rama_rovers:
 # ¿Dónde está el agua?
 
 ## Resumen
-Dibuja un mapa del mundo mostrando la distribución del agua dulce y analiza las desigualdades en el acceso al agua.
+Dibujá un mapa del mundo mostrando la distribución del agua dulce y analizá las desigualdades en el acceso al agua.
 
 ## Preparación
-1. Consigue un mapa del mundo.
-2. Investiga sobre la distribución del agua dulce.
-3. Prepara lápices de colores.
+1. Conseguí un mapa del mundo.
+2. Investigá sobre la distribución del agua dulce.
+3. Prepará lápices de colores.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga qué países tienen más agua dulce.
-2. **Dibujo** (25 min): Dibuja el mapa mostrando la distribución del agua.
+1. **Investigación** (20 min): Investigá qué países tienen más agua dulce.
+2. **Dibujo** (25 min): Dibujá el mapa mostrando la distribución del agua.
 3. **Análisis** (10 min): ¿Existen grandes variaciones? ¿Por qué?
-4. **Presentación** (5 min): Comparte tus hallazgos con el grupo.
+4. **Presentación** (5 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué países tienen más agua dulce?

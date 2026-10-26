@@ -162,21 +162,21 @@ rama_rovers:
 La 'energía verde' es energía producida a partir de fuentes renovables como el sol, el viento, el agua y la biomasa.
 
 ## Preparación
-1. Investiga sobre fuentes de energía renovable.
-2. Prepara recursos y ejemplos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre fuentes de energía renovable.
+2. Prepará recursos y ejemplos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Qué son las energías renovables?
-2. Investiga: ¿Qué tipos existen en tu país?
-3. Investiga: ¿Cómo se produce energía verde?
-4. Reflexiona: ¿Cómo podemos reducir el consumo de energía en el hogar?
-5. Prepara un plan de acción para tu hogar.
+1. Investigá: ¿Qué son las energías renovables?
+2. Investigá: ¿Qué tipos existen en tu país?
+3. Investigá: ¿Cómo se produce energía verde?
+4. Reflexioná: ¿Cómo podemos reducir el consumo de energía en el hogar?
+5. Prepará un plan de acción para tu hogar.
 
 ## Cierre
-1. Comparte tu plan de acción con el grupo.
+1. Compartí tu plan de acción con el grupo.
 2. Discutan: ¿Qué barreras existen para usar más energía verde?
-3. Pregunta final: ¿Qué puedes hacer para promover la energía verde?
+3. Pregunta final: ¿Qué podés hacer para promover la energía verde?
 
 ## Texto original completo de la actividad
 D.11 HORA DE LA ENERGÍA VERDE. La 'energía verde' es energía producida a partir de fuentes renovables como el sol, el viento, el agua y la biomasa.

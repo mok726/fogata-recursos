@@ -1,9 +1,9 @@
 ---
-title: "Estudia una Amenaza"
+title: "Estudiá una Amenaza"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudia-una-amenaza/"
-description: "Investiga un tipo de amenaza natural y aprende todo sobre ella: causas, frecuencia, daños y cómo las personas se preparan."
+description: "Investigá un tipo de amenaza natural y aprendé todo sobre ella: causas, frecuencia, daños y cómo las personas se preparan."
 summary: "Investigación sobre amenazas naturales."
 
 author:
@@ -154,15 +154,15 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¡Estudia una Amenaza!
+# ¡Estudiá una Amenaza!
 
 ## Resumen
-Forma un equipo con un compañero y elijan un tipo de amenaza natural para estudiar. Aprendan todo sobre ella: qué la causa, dónde y con qué frecuencia ocurre, qué daños puede causar y cómo las personas se preparan para reducir su impacto.
+Formá un equipo con un compañero y elijan un tipo de amenaza natural para estudiar. Aprendan todo sobre ella: qué la causa, dónde y con qué frecuencia ocurre, qué daños puede causar y cómo las personas se preparan para reducir su impacto.
 
 ## Preparación
-1. Reúnete con tu compañero y elijan una amenaza.
-2. Prepara materiales para tomar notas.
-3. Accede a recursos en línea.
+1. Reunite con tu compañero y elijan una amenaza.
+2. Prepará materiales para tomar notas.
+3. Accedé a recursos en línea.
 
 ## Desarrollo
 1. **Selección** (5 min): Elijan una amenaza (inundaciones, terremotos, tsunamis, volcanes u otra).

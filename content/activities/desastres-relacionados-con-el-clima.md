@@ -3,7 +3,7 @@ title: "Desastres relacionados con el clima"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desastres-relacionados-con-el-clima/"
-description: "Investiga desastres relacionados con el cambio climático y cómo afectan a las personas."
+description: "Investigá desastres relacionados con el cambio climático y cómo afectan a las personas."
 summary: "Desastres climáticos y su impacto."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Desastres relacionados con el clima!
 
 ## Resumen
-Investiga desastres relacionados con el cambio climático y cómo afectan a las personas.
+Investigá desastres relacionados con el cambio climático y cómo afectan a las personas.
 
 ## Preparación
-1. Accede a recursos sobre desastres climáticos.
-2. Prepara un mapa del mundo.
-3. Reúne materiales para la presentación.
+1. Accedé a recursos sobre desastres climáticos.
+2. Prepará un mapa del mundo.
+3. Reuní materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne información sobre desastres climáticos.
-2. **Mapa** (15 min): Marca los desastres en el mapa.
+1. **Investigación** (20 min): Reuní información sobre desastres climáticos.
+2. **Mapa** (15 min): Marcá los desastres en el mapa.
 3. **Análisis** (15 min): ¿Cómo afectan la vida y la alimentación?
-4. **Presentación** (10 min): Comparte lo aprendido.
+4. **Presentación** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué desastres relacionados con el clima ocurren?

@@ -4,7 +4,7 @@ title: "Un Mundo sin Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/un-mundo-sin-hambre/"
-description: "Organiza una obra de teatro o musical corto imaginando un mundo sin hambre."
+description: "Organizá una obra de teatro o musical corto imaginando un mundo sin hambre."
 summary: "Teatro sobre un mundo sin hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,18 +167,18 @@ rama_rovers:
 # Un Mundo sin Hambre
 
 ## Resumen
-Organiza una obra de teatro o musical corto imaginando un mundo sin hambre.
+Organizá una obra de teatro o musical corto imaginando un mundo sin hambre.
 
 ## Preparación
-1. Piensa en cómo sería un mundo sin hambre.
-2. Escribe un guión corto para la obra de teatro.
-3. Prepara escenografía y vestuario.
+1. Pensá en cómo sería un mundo sin hambre.
+2. Escribí un guión corto para la obra de teatro.
+3. Prepará escenografía y vestuario.
 
 ## Desarrollo
-1. **Guión** (20 min): Escribe el guión de la obra.
-2. **Ensayo** (20 min): Ensaya la obra con tu grupo.
-3. **Presentación** (15 min): Presenta la obra al público.
-4. **Reflexión** (10 min): Discute cómo la realidad es diferente a tu mundo imaginario.
+1. **Guión** (20 min): Escribí el guión de la obra.
+2. **Ensayo** (20 min): Ensayá la obra con tu grupo.
+3. **Presentación** (15 min): Presentá la obra al público.
+4. **Reflexión** (10 min): Discutí cómo la realidad es diferente a tu mundo imaginario.
 
 ## Cierre
 - ¿Cómo imaginaste el mundo sin hambre?

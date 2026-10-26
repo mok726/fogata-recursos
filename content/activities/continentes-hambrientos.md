@@ -4,7 +4,7 @@ title: "Continentes Hambrientos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/continentes-hambrientos/"
-description: "Investiga las estadísticas de hambre por continente y país. Crea pósters y comparte los hallazgos."
+description: "Investigá las estadísticas de hambre por continente y país. Creá pósters y compartí los hallazgos."
 summary: "Investigación sobre el hambre en diferentes continentes."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,7 +166,7 @@ rama_rovers:
 # Continentes Hambrientos
 
 ## Resumen
-Investiga las estadísticas de hambre por continente y país. Crea pósters y comparte los hallazgos.
+Investigá las estadísticas de hambre por continente y país. Creá pósters y compartí los hallazgos.
 
 ## Preparación
 1. Divídanse en siete grupos pequeños (uno por continente).

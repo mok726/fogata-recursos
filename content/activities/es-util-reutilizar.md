@@ -168,15 +168,15 @@ rama_rovers:
 # ¡Es útil reutilizar!
 
 ## Resumen
-Existen muchas maneras de convertir objetos aparentemente inservibles en cosas útiles. Por ejemplo, puedes usar un rollo de papel higiénico vacío para ordenar tus pulseras o podrías usar una botella de salsa para pasta para guardar lápices y lapiceras.
+Existen muchas maneras de convertir objetos aparentemente inservibles en cosas útiles. Por ejemplo, podés usar un rollo de papel higiénico vacío para ordenar tus pulseras o podrías usar una botella de salsa para pasta para guardar lápices y lapiceras.
 
 ## Preparación
-1. Reúne objetos que serían desechados.
-2. Prepara materiales para manualidades.
-3. Busca ideas de proyectos en línea.
+1. Reuní objetos que serían desechados.
+2. Prepará materiales para manualidades.
+3. Buscá ideas de proyectos en línea.
 
 ## Desarrollo
-1. Haz una lista de todas tus ideas para reutilizar objetos.
+1. Hacé una lista de todas tus ideas para reutilizar objetos.
 2. Reúnanse en grupo para compartirlas.
 3. Hagan un proyecto juntos donde conviertan cosas inservibles en cosas útiles.
 4. Decórenlas para que se vean agradables.

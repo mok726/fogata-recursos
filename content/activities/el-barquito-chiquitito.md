@@ -149,18 +149,18 @@ rama_rovers:
 # ¡El Barquito Chiquitito!
 
 ## Resumen
-Reescribe la letra de una canción para difundir un mensaje sobre el agua y preséntala en grupo.
+Reescribe la letra de una canción para difundir un mensaje sobre el agua y presentala en grupo.
 
 ## Preparación
-1. Elige una canción que te guste.
-2. Piensa en un mensaje sobre el agua.
-3. Prepara materiales para escribir.
+1. Elegí una canción que te guste.
+2. Pensá en un mensaje sobre el agua.
+3. Prepará materiales para escribir.
 
 ## Desarrollo
-1. **Elección** (5 min): Elige la canción que vas a reescribir.
+1. **Elección** (5 min): Elegí la canción que vas a reescribir.
 2. **Creación** (20 min): Reescribe la letra con un mensaje sobre el agua.
-3. **Ensayo** (10 min): Ensaya la canción en grupo.
-4. **Concierto** (10 min): Presenta la canción a la comunidad.
+3. **Ensayo** (10 min): Ensayá la canción en grupo.
+4. **Concierto** (10 min): Presentá la canción a la comunidad.
 
 ## Cierre
 - ¿Qué mensaje sobre el agua incluiste?

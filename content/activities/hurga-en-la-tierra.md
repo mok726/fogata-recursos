@@ -3,7 +3,7 @@ title: "Hurga en la Tierra"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hurga-en-la-tierra/"
-description: "Experimenta con la erosión del suelo al agregar agua sobre diferentes tipos de suelo."
+description: "Experimentá con la erosión del suelo al agregar agua sobre diferentes tipos de suelo."
 summary: "Experimento sobre erosión del suelo."
 
 author:
@@ -145,23 +145,23 @@ rama_rovers: []
 # ¡Hurga en la Tierra!
 
 ## Resumen
-Experimenta con diferentes tipos de suelo para observar cómo el agua causa erosión y cómo algunos suelos se erosionan más fácilmente que otros.
+Experimentá con diferentes tipos de suelo para observar cómo el agua causa erosión y cómo algunos suelos se erosionan más fácilmente que otros.
 
 ## Preparación
-1. Reúne diferentes tipos de suelo (arena, tierra, arcilla).
-2. Prepara agua en jarra y regadera.
-3. Prepara el área de trabajo.
+1. Reuní diferentes tipos de suelo (arena, tierra, arcilla).
+2. Prepará agua en jarra y regadera.
+3. Prepará el área de trabajo.
 
 ## Desarrollo
-1. **Preparación** (10 min): Coloca cada tipo de suelo en una bandeja.
-2. **Experimento 1** (10 min): Vierte agua de una jarra (río) sobre cada suelo.
-3. **Experimento 2** (10 min): Usa la regadera (lluvia) sobre cada suelo.
-4. **Observación** (10 min): Compara los efectos y discute.
-5. **Registro** (5 min): Dibuja o describe lo que observaste.
+1. **Preparación** (10 min): Colocá cada tipo de suelo en una bandeja.
+2. **Experimento 1** (10 min): Verté agua de una jarra (río) sobre cada suelo.
+3. **Experimento 2** (10 min): Usá la regadera (lluvia) sobre cada suelo.
+4. **Observación** (10 min): Compará los efectos y discutí.
+5. **Registro** (5 min): Dibujá o describí lo que observaste.
 
 ## Cierre
 - ¿Qué suelo se erosionó más fácilmente?
-- ¿Por qué crees que sucede esto?
+- ¿Por qué creés que sucede esto?
 - ¿Cómo puede la erosión afectar a las personas y a la naturaleza?
 
 ---

@@ -4,7 +4,7 @@ title: "Acampada de bajo impacto"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/acampada-bajo-impacto/"
-description: "Planifica y realiza una acampada con conciencia energética, minimizando tu huella de carbono y siendo eficiente."
+description: "Planificá y realizá una acampada con conciencia energética, minimizando tu huella de carbono y siendo eficiente."
 summary: "Acampa cuidando el medio ambiente."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -160,28 +160,28 @@ translation_notice:
 # ¡Acampada de bajo impacto!
 
 ## Resumen
-Planifica una acampada con conciencia energética para tu grupo. Minimiza las emisiones de gases de efecto invernadero en tu salida: piensa en cómo llegar, qué comer, cómo desechar residuos y qué actividades hacer.
+Planificá una acampada con conciencia energética para tu grupo. Minimiza las emisiones de gases de efecto invernadero en tu salida: piensa en cómo llegar, qué comer, cómo desechar residuos y qué actividades hacer.
 
 ## Preparación
-1. Lee la información sobre acampada sostenible.
-2. Planifica el viaje con bajo impacto.
-3. Prepara materiales.
+1. Leé la información sobre acampada sostenible.
+2. Planificá el viaje con bajo impacto.
+3. Prepará materiales.
 
 ## Desarrollo
 
 ### Parte I - Planificar
-Planifica cada aspecto:
+Planificá cada aspecto:
 
 **Transporte:** ¿Cómo llegarán? ¿Usarán transporte público o compartirán autos?
 
-**Comida:** ¿Qué comerán? Elige alimentos locales y de bajo impacto.
+**Comida:** ¿Qué comerán? Elegí alimentos locales y de bajo impacto.
 
-**Residuos:** ¿Cómo desecharán la basura? Lleva bolsas para reciclaje.
+**Residuos:** ¿Cómo desecharán la basura? Llevá bolsas para reciclaje.
 
 **Actividades:** Elige actividades que no requieran energía.
 
 ### Parte II - Ejecutar
-Ve a la acampada y pon en práctica tu plan.
+Andá a la acampada y poné en práctica tu plan.
 
 ### Parte III - Reflexionar
 Después de la acampada:

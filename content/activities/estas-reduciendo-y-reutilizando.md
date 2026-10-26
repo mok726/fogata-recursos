@@ -4,8 +4,8 @@ title: "¿Estás reduciendo y reutilizando?"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estas-reduciendo-y-reutilizando/"
-description: "Aprende a reducir los plásticos de un solo uso y a reutilizar plásticos tanto como sea posible durante dos semanas."
-summary: "Reduce y reutiliza plásticos en tu vida diaria."
+description: "Aprendé a reducir los plásticos de un solo uso y a reutilizar plásticos tanto como sea posible durante dos semanas."
+summary: "Reducí y reutilizá plásticos en tu vida diaria."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -154,12 +154,12 @@ translation_notice:
 # ¿Estás reduciendo y reutilizando?
 
 ## Resumen
-Aprende a reducir los plásticos de un solo uso y a reutilizar plásticos tanto como sea posible durante dos semanas. Descubre formas creativas de darle nueva vida a los plásticos que ya tienes.
+Aprendé a reducir los plásticos de un solo uso y a reutilizar plásticos tanto como sea posible durante dos semanas. Descubrí formas creativas de darle nueva vida a los plásticos que ya tenés.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Prepara un pizarrón para anotar las ideas del grupo.
-3. Ten papel y lápices para que cada participante escriba su plan.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Prepará un pizarrón para anotar las ideas del grupo.
+3. Tené papel y lápices para que cada participante escriba su plan.
 
 ## Desarrollo
 
@@ -178,20 +178,20 @@ Hagan una lista de todas las ideas que se les ocurran.
 ### Parte II - Plan de acción
 Cada participante elige **3 ideas** de la lista para poner en práctica durante las próximas dos semanas.
 
-Escribe tu plan:
+Escribí tu plan:
 1. _________________________________
 2. _________________________________
 3. _________________________________
 
 ### Parte III - Puesta en práctica
-Durante dos semanas, pon en práctica tus ideas. Lleva un registro de lo que hiciste cada día.
+Durante dos semanas, pon en práctica tus ideas. Llevá un registro de lo que hiciste cada día.
 
 ### Parte IV - Reflexión
 Al final de las dos semanas, crea un dibujo, informe o póster sobre lo que lograste.
 
 **Preguntas para reflexionar:**
-- ¿Sientes que hiciste una diferencia para reducir la contaminación plástica?
-- ¿Crees que podrías seguir dando estos pasos?
+- ¿Sentís que hiciste una diferencia para reducir la contaminación plástica?
+- ¿Creés que podrías seguir dando estos pasos?
 - ¿Se vuelve más fácil a medida que se convierte en un hábito?
 - ¿Podrías pedirle a tus padres que le cuenten a sus amigos y familiares sobre estos pasos?
 

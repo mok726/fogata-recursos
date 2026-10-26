@@ -4,7 +4,7 @@ title: "Los Lunes sin Carne"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-lunes-sin-carne/"
-description: "Reduce el impacto ambiental de tu dieta con un día sin carne a la semana."
+description: "Reducí el impacto ambiental de tu dieta con un día sin carne a la semana."
 summary: "Día sin carne para una dieta sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Los Lunes sin Carne
 
 ## Resumen
-Reduce el impacto ambiental de tu dieta con un día sin carne a la semana.
+Reducí el impacto ambiental de tu dieta con un día sin carne a la semana.
 
 ## Preparación
-1. Busca recetas vegetarianas.
-2. Prueba nuevas verduras, cereales y legumbres.
-3. Prepara los ingredientes necesarios.
+1. Buscá recetas vegetarianas.
+2. Probá nuevas verduras, cereales y legumbres.
+3. Prepará los ingredientes necesarios.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca recetas vegetarianas.
+1. **Investigación** (15 min): Buscá recetas vegetarianas.
 2. **Planificación** (15 min): Planea el menú sin carne.
-3. **Cocina** (30 min): Prepara la comida.
-4. **Compartir** (15 min): Organiza un intercambio de recetas.
-5. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+3. **Cocina** (30 min): Prepará la comida.
+4. **Compartir** (15 min): Organizá un intercambio de recetas.
+5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Qué platos vegetarianos probaste?

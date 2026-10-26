@@ -5,7 +5,7 @@ duration: "Semana 1: investigación, Semana 2: 1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-esta-en-riesgo/"
 description: "Los participantes experimentan los efectos del impacto de las especies invasoras en un ecosistema a través de un juego de Piedra-Papel-Tijera adaptado."
-summary: "Descubre el impacto de las especies invasoras."
+summary: "Descubrí el impacto de las especies invasoras."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,9 +163,9 @@ rama_rovers: []
 Esta actividad se basa en el juego Piedra-Papel-Tijera (PPT) y permitirá a los jóvenes experimentar los efectos del impacto de las especies invasoras, tanto en un ecosistema como en las especies nativas dentro del mismo. El juego es adaptable y los adultos pueden incluir algunas especies en riesgo de su propia localidad que los jóvenes pueden representar.
 
 ## Preparación
-1. Prepara tarjetas verdes (especies nativas) y rojas (especies invasoras).
-2. Prepara 2 clips de papel para cada participante.
-3. Prepara una hoja con especies locales amenazadas o en peligro.
+1. Prepará tarjetas verdes (especies nativas) y rojas (especies invasoras).
+2. Prepará 2 clips de papel para cada participante.
+3. Prepará una hoja con especies locales amenazadas o en peligro.
 
 ## Desarrollo
 
@@ -184,14 +184,14 @@ c. Invasivo vs. Invasivo: los ganadores solo reciben un clip de papel.
 Si una Especie Invasora pierde todos sus clips de papel, pueden seguir jugando, pero solo pueden ir tras los jugadores de Especies Nativas hasta que ganen un clip.
 
 ### Parte IV - Fin del juego
-El juego termina cuando todos los jugadores se convierten en Especies Invasoras (el facilitador debe realizar un seguimiento del número de participantes y el número de cartas de Especies Invasoras que han entregado). Los jugadores pueden contar sus clips de papel para averiguar cuáles especies invasoras tuvieron el mayor impacto en el ecosistema. Incluye rondas adicionales para permitir a los participantes experimentar la rapidez con la que los ecosistemas pueden verse afectados por las Especies Invasoras si no son ayudados por nosotros.
+El juego termina cuando todos los jugadores se convierten en Especies Invasoras (el facilitador debe realizar un seguimiento del número de participantes y el número de cartas de Especies Invasoras que han entregado). Los jugadores pueden contar sus clips de papel para averiguar cuáles especies invasoras tuvieron el mayor impacto en el ecosistema. Incluí rondas adicionales para permitir a los participantes experimentar la rapidez con la que los ecosistemas pueden verse afectados por las Especies Invasoras si no son ayudados por nosotros.
 
 ### Parte V - Investigación adicional (Semana 3)
 Los participantes pueden realizar investigaciones sobre cómo evitar propagar la Especie Invasora que representaron en el juego. La investigación y los proyectos grupales pueden resultar en presentaciones sobre hallazgos obtenidos.
 
 ## Cierre
-1. ¿Cómo crees que las Especies Invasoras afectan al ecosistema nativo?
-2. ¿Cómo crees que estas Especies Invasoras llegaron aquí?
+1. ¿Cómo creés que las Especies Invasoras afectan al ecosistema nativo?
+2. ¿Cómo creés que estas Especies Invasoras llegaron aquí?
 3. ¿Quién sufriría si se permitiera que las Especies Invasoras no se controlaran?
 4. ¿Qué podemos hacer contra la propagación de especies no nativas?
 5. ¿Cómo podemos detener la propagación e introducción de especies no nativas de plantas y otros organismos vivos?

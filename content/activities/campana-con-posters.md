@@ -3,7 +3,7 @@ title: "Campaña con pósters"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-con-posters/"
-description: "Desarrolla una campaña con pósters para promover cambios en la vida diaria."
+description: "Desarrollá una campaña con pósters para promover cambios en la vida diaria."
 summary: "Campaña de concienciación con pósters."
 
 author:
@@ -147,17 +147,17 @@ rama_rovers:
 # ¡Campaña con pósters!
 
 ## Resumen
-Desarrolla una campaña con pósters que anime a las personas a hacer pequeños cambios en su vida diaria.
+Desarrollá una campaña con pósters que anime a las personas a hacer pequeños cambios en su vida diaria.
 
 ## Preparación
-1. Piensa en los mensajes clave.
-2. Reúne materiales para los pósters.
-3. Identifica lugares para colocarlos.
+1. Pensá en los mensajes clave.
+2. Reuní materiales para los pósters.
+3. Identificá lugares para colocarlos.
 
 ## Desarrollo
-1. **Diseño** (25 min): Crea los pósters.
-2. **Colocación** (20 min): Colócalos en lugares visibles.
-3. **Reflexión** (15 min): ¿Cómo crees que afectará a las personas?
+1. **Diseño** (25 min): Creá los pósters.
+2. **Colocación** (20 min): Colocalos en lugares visibles.
+3. **Reflexión** (15 min): ¿Cómo creés que afectará a las personas?
 
 ## Cierre
 - ¿Qué mensajes incluiste?

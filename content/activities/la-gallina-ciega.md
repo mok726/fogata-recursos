@@ -100,7 +100,7 @@ accessibility: []
 competencies:
   - Conocimiento corporal
   - Creatividad
-  - Escucha
+  - Escuchá
 
 activity_type:
   - Juego
@@ -143,17 +143,17 @@ rama_rovers: []
 # ¡La Gallina Ciega!
 
 ## Resumen
-Juega a la gallina ciega y aprende sobre la importancia del agua para cada parte de tu cuerpo.
+Jugá a la gallina ciega y aprendé sobre la importancia del agua para cada parte de tu cuerpo.
 
 ## Preparación
-1. Coloca un dibujo del cuerpo humano en la pared.
-2. Prepara una venda y un alfiler o lápiz.
-3. Piensa en historias sobre el agua y el cuerpo.
+1. Colocá un dibujo del cuerpo humano en la pared.
+2. Prepará una venda y un alfiler o lápiz.
+3. Pensá en historias sobre el agua y el cuerpo.
 
 ## Desarrollo
-1. **Instrucciones** (5 min): Explica las reglas del juego.
+1. **Instrucciones** (5 min): Explicá las reglas del juego.
 2. **Juego** (20 min): En turnos, con los ojos vendados, elige una parte del cuerpo.
-3. **Historia** (5 min): Cuenta una historia sobre el agua y esa parte del cuerpo.
+3. **Historia** (5 min): Contá una historia sobre el agua y esa parte del cuerpo.
 
 ## Cierre
 - ¿Por qué es importante el agua para cada parte del cuerpo?

@@ -3,7 +3,7 @@ title: "Ciudadano del Agua"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciudadano-del-agua/"
-description: "Escribe a tu representante de gobierno sobre un tema del agua que te preocupa."
+description: "Escribí a tu representante de gobierno sobre un tema del agua que te preocupa."
 summary: "Carta a representante sobre temas del agua."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Ciudadano del Agua!
 
 ## Resumen
-Escribe a tu representante de gobierno sobre un tema del agua que te preocupa, incluyendo sugerencias de soluciones.
+Escribí a tu representante de gobierno sobre un tema del agua que te preocupa, incluyendo sugerencias de soluciones.
 
 ## Preparación
-1. Identifica un tema del agua que te preocupe.
-2. Investiga sobre el tema.
-3. Prepara un borrador de la carta.
+1. Identificá un tema del agua que te preocupe.
+2. Investigá sobre el tema.
+3. Prepará un borrador de la carta.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne información sobre el tema.
-2. **Borrador** (20 min): Escribe un borrador de la carta.
-3. **Revisión** (10 min): Revisa y mejora la carta.
-4. **Envío** (10 min): Envía la carta a tu representante.
+1. **Investigación** (20 min): Reuní información sobre el tema.
+2. **Borrador** (20 min): Escribí un borrador de la carta.
+3. **Revisión** (10 min): Revisá y mejorá la carta.
+4. **Envío** (10 min): Enviá la carta a tu representante.
 
 ## Cierre
 - ¿Qué tema te preocupa más?

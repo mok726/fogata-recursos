@@ -170,25 +170,25 @@ translation_notice:
 En esta actividad, los participantes investigan los efectos de diferentes contaminantes en el crecimiento de las plantas a través de un experimento con semillas de poroto. Simulan cómo la contaminación del agua afecta los cultivos y reflexionan sobre sus consecuencias.
 
 ## Preparación
-1. Prepara 30 ml de cada solución: agua limpia (control), vinagre, agua con sal y agua con jabón líquido.
-2. Prepara las semillas de poroto pallar remojándolas previamente.
+1. Prepará 30 ml de cada solución: agua limpia (control), vinagre, agua con sal y agua con jabón líquido.
+2. Prepará las semillas de poroto pallar remojándolas previamente.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Pregunta a tu grupo de dónde obtienen las plantas el agua que usan para crecer (lluvia, agua subterránea, riego) y cómo se vería afectado el crecimiento de las plantas por el agua contaminada.
+1. Preguntá a tu grupo de dónde obtienen las plantas el agua que usan para crecer (lluvia, agua subterránea, riego) y cómo se vería afectado el crecimiento de las plantas por el agua contaminada.
 
 ### Paso 2: Contexto del experimento
-2. Explica el contexto del experimento: una empresa química local ha estado vertiendo desechos en sus campos traseros y se han filtrado a una fuente de agua subterránea local. Los científicos locales (tu grupo) han sido contratados para estudiar los efectos a largo plazo de esta contaminación en los cultivos locales (porotos pallares).
+2. Explicá el contexto del experimento: una empresa química local ha estado vertiendo desechos en sus campos traseros y se han filtrado a una fuente de agua subterránea local. Los científicos locales (tu grupo) han sido contratados para estudiar los efectos a largo plazo de esta contaminación en los cultivos locales (porotos pallares).
 3. Los participantes compararán el crecimiento de las semillas en cuatro soluciones diferentes: agua (agua dulce), vinagre (lluvia ácida), solución salina (agua salada) y jabón (derrames químicos en agua dulce).
 
 ### Paso 3: Configuración del experimento
-4. Divide a los participantes en grupos de laboratorio (preferiblemente grupos de cuatro).
+4. Dividí a los participantes en grupos de laboratorio (preferiblemente grupos de cuatro).
 5. Cada grupo debe recibir cuatro semillas de poroto pallar, cuatro bolsas para sándwich y cuatro trozos de toalla de papel.
-6. Pide a cada grupo que etiquete cada bolsa, una para cada líquido. Los participantes deben remojar una toalla de papel en cada líquido y colocarla en la bolsa correspondiente. Luego deben añadir 10 ml del líquido correspondiente en cada bolsa.
-7. Coloca una semilla de poroto en la parte superior de cada toalla de papel y sella la bolsa.
-8. Pide a cada grupo que haga un pequeño agujero en la parte superior de cada bolsa, ya que las semillas necesitarán oxígeno para crecer.
-9. Pide a los grupos que coloquen todos sus experimentos en el mismo lugar del salón para observarlos durante los próximos siete días.
+6. Pedí a cada grupo que etiquete cada bolsa, una para cada líquido. Los participantes deben remojar una toalla de papel en cada líquido y colocarla en la bolsa correspondiente. Luego deben añadir 10 ml del líquido correspondiente en cada bolsa.
+7. Colocá una semilla de poroto en la parte superior de cada toalla de papel y sella la bolsa.
+8. Pedí a cada grupo que haga un pequeño agujero en la parte superior de cada bolsa, ya que las semillas necesitarán oxígeno para crecer.
+9. Pedí a los grupos que coloquen todos sus experimentos en el mismo lugar del salón para observarlos durante los próximos siete días.
 
 ### Paso 4: Registro de observaciones
 10. Durante el período de observación, pide a cada grupo que organice sus "notas científicas":
@@ -203,13 +203,13 @@ En esta actividad, los participantes investigan los efectos de diferentes contam
 11. Diariamente, pide a cada grupo que registre sus observaciones a través de dibujos, descripciones y mediciones del crecimiento de las semillas o raíces.
 
 ### Paso 6: Conclusiones
-12. Cada grupo debe completar su informe científico describiendo el mejor ambiente para el crecimiento de las plantas según sus hallazgos. En sus conclusiones, deben hacer recomendaciones a la industria para salvar los cultivos locales; asegúrate de que respalden sus declaraciones con sus resultados.
+12. Cada grupo debe completar su informe científico describiendo el mejor ambiente para el crecimiento de las plantas según sus hallazgos. En sus conclusiones, deben hacer recomendaciones a la industria para salvar los cultivos locales; asegurate de que respalden sus declaraciones con sus resultados.
 
 ### Paso 7: Extensión (grupos mayores)
-13. Como actividad de extensión, puedes pedir a los grupos mayores que redacten una ley para el órgano legislativo de su país (Congreso, Asamblea Nacional) que penalice a las empresas que introducen desechos tóxicos en cualquier agua superficial o subterránea. Los participantes deben incluir justificaciones, disposiciones y sanciones.
+13. Como actividad de extensión, podés pedir a los grupos mayores que redacten una ley para el órgano legislativo de su país (Congreso, Asamblea Nacional) que penalice a las empresas que introducen desechos tóxicos en cualquier agua superficial o subterránea. Los participantes deben incluir justificaciones, disposiciones y sanciones.
 
 ### Paso 8: Presentación
-14. Pide a cada grupo que presente sus resultados y conclusiones al resto de los participantes.
+14. Pedí a cada grupo que presente sus resultados y conclusiones al resto de los participantes.
 
 ## Hoja de Observaciones
 

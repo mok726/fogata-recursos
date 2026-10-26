@@ -4,7 +4,7 @@ title: "Clases de Animales"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/clases-de-animales/"
-description: "Busca un ejemplo de cada clase de animal que viva en el bosque y juega un juego de adivinanzas con tu grupo."
+description: "Buscá un ejemplo de cada clase de animal que viva en el bosque y jugá un juego de adivinanzas con tu grupo."
 summary: "Juego de adivinanzas sobre clases de animales del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,18 +166,18 @@ rama_rovers:
 # Clases de Animales
 
 ## Resumen
-Busca un ejemplo de cada clase de animal que viva en el bosque y juega un juego de adivinanzas con tu grupo.
+Buscá un ejemplo de cada clase de animal que viva en el bosque y jugá un juego de adivinanzas con tu grupo.
 
 ## Preparación
-1. Investiga seis clases principales de animales: mamíferos, reptiles, aves, anfibios, insectos y peces.
-2. Encuentra un ejemplo de cada clase que viva en el bosque.
-3. Prepara papel, lápices y un sombrero.
+1. Investigá seis clases principales de animales: mamíferos, reptiles, aves, anfibios, insectos y peces.
+2. Encontrá un ejemplo de cada clase que viva en el bosque.
+3. Prepará papel, lápices y un sombrero.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca ejemplos de cada clase de animal del bosque.
-2. **Escritura** (10 min): Escribe cada ejemplo en un papel (uno por papel).
-3. **Juego** (20 min): Saca papeles del sombrero y adivina con preguntas de sí/no.
-4. **Reflexión** (10 min): Comparte lo aprendido con el grupo.
+1. **Investigación** (15 min): Buscá ejemplos de cada clase de animal del bosque.
+2. **Escritura** (10 min): Escribí cada ejemplo en un papel (uno por papel).
+3. **Juego** (20 min): Sacá papeles del sombrero y adiviná con preguntas de sí/no.
+4. **Reflexión** (10 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué clase de animal te resultó más difícil de adivinar?

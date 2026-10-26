@@ -3,7 +3,7 @@ title: "Evento benéfico"
 duration: "Proyecto de organización"
 layout: "layouts/activity.njk"
 permalink: "/activities/evento-benefico/"
-description: "Organiza una carrera, concierto o bazar para recaudar fondos ambientales."
+description: "Organizá una carrera, concierto o bazar para recaudar fondos ambientales."
 summary: "Evento benéfico ambiental."
 
 author:
@@ -145,17 +145,17 @@ rama_rovers:
 # ¡Evento benéfico!
 
 ## Resumen
-Organiza una carrera, concierto o bazar para recaudar fondos para proyectos ambientales.
+Organizá una carrera, concierto o bazar para recaudar fondos para proyectos ambientales.
 
 ## Preparación
-1. Elige el tipo de evento.
-2. Planifica la logística.
-3. Promociona el evento.
+1. Elegí el tipo de evento.
+2. Planificá la logística.
+3. Promocioná el evento.
 
 ## Desarrollo
-1. **Planificación** (30 min): Diseña el evento.
-2. **Preparación** (30 min): Prepara todo.
-3. **Evento** (2-4 horas): Lleva a cabo el evento.
+1. **Planificación** (30 min): Diseñá el evento.
+2. **Preparación** (30 min): Prepará todo.
+3. **Evento** (2-4 horas): Llevá a cabo el evento.
 4. **Donación** (20 min): Destina los fondos.
 
 ## Cierre

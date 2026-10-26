@@ -5,7 +5,7 @@ duration: "2 semanas (4 horas cada semana)"
 layout: "layouts/activity.njk"
 permalink: "/activities/monitoreo-de-residuos/"
 description: "Los participantes registran y pesan sus residuos domésticos durante una semana, visitan una instalación de gestión de residuos y desarrollan ideas para reducir el desperdicio."
-summary: "Sigue y reduce tus residuos."
+summary: "Seguí y reducí tus residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -157,17 +157,17 @@ rama_rovers: []
 Esta actividad dará una idea de la cantidad de residuos que se producen y cuánto agrega la gente a la acumulación de residuos. Durante la actividad, los participantes desarrollarán ideas sobre cómo reducir el desperdicio.
 
 ## Preparación
-1. Prepara un cuaderno y pluma para registrar datos.
-2. Organiza una visita a una instalación local de gestión de residuos (semana 3).
-3. Busca estadísticas de residuos de tu ciudad.
+1. Prepará un cuaderno y pluma para registrar datos.
+2. Organizá una visita a una instalación local de gestión de residuos (semana 3).
+3. Buscá estadísticas de residuos de tu ciudad.
 
 ## Desarrollo
 
 ### Semana 1 - Seguimiento de residuos
-Pide a los participantes que tomen registro de sus residuos domésticos pesando la cantidad producida y clasificando el tipo de residuos que están produciendo en el hogar. Sugiéreles que comprueben en línea las estadísticas de residuos de su ciudad.
+Pedí a los participantes que tomen registro de sus residuos domésticos pesando la cantidad producida y clasificando el tipo de residuos que están produciendo en el hogar. Sugiéreles que comprueben en línea las estadísticas de residuos de su ciudad.
 
 ### Semana 2 - Comparar y descubrir
-Pide a los participantes que comparen sus estadísticas y que discutan las razones de una mayor o menor producción de residuos. También permíteles discutir otros temas relacionados con la gestión de residuos, tales como:
+Pedí a los participantes que comparen sus estadísticas y que discutan las razones de una mayor o menor producción de residuos. También permíteles discutir otros temas relacionados con la gestión de residuos, tales como:
 - ¿Adónde va tu residuo?
 - ¿Cómo se gestionan los desechos orgánicos, se recolectan o se utilizan para el compost?
 - ¿Cómo se clasifican los diferentes tipos de residuos?
@@ -178,12 +178,12 @@ Pre-organiza una visita a una instalación local de gestión de residuos en tu �
 
 **Preguntas informativas y aportaciones:**
 - ¿Qué viste y experimentaste en las instalaciones locales de gestión de residuos?
-- ¿Crees que todos los residuos que están ahí necesitan ser producidos en primer lugar?
+- ¿Creés que todos los residuos que están ahí necesitan ser producidos en primer lugar?
 - ¿Existen alternativas para evitar tanto desperdicio?
-- ¿Dónde puedes empezar a reducir tus propios residuos?
+- ¿Dónde podés empezar a reducir tus propios residuos?
 
 ## Cierre
-1. ¿Cuánto residuo produces en una semana?
+1. ¿Cuánto residuo producís en una semana?
 2. ¿Qué aprendiste sobre la gestión de residuos en tu ciudad?
 3. ¿Qué cambios harás para reducir tus residuos?
 

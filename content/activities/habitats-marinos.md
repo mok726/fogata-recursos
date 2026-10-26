@@ -4,7 +4,7 @@ title: "Hábitats Marinos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/habitats-marinos/"
-description: "Investiga un hábitat marino diferente a tu playa local y presenta tus hallazgos."
+description: "Investigá un hábitat marino diferente a tu playa local y presentá tus hallazgos."
 summary: "Investigación sobre hábitats marinos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -162,7 +162,7 @@ rama_rovers:
 # Hábitats Marinos
 
 ## Resumen
-Investiga un hábitat marino diferente a tu playa local y presenta tus hallazgos.
+Investigá un hábitat marino diferente a tu playa local y presentá tus hallazgos.
 
 ## Preparación
 1. Divídanse en grupos más pequeños.
@@ -170,10 +170,10 @@ Investiga un hábitat marino diferente a tu playa local y presenta tus hallazgos
 3. Preparen material de investigación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga el hábitat elegido (ubicación, adaptaciones de la vida marina, actividades humanas).
+1. **Investigación** (25 min): Investigá el hábitat elegido (ubicación, adaptaciones de la vida marina, actividades humanas).
 2. **Análisis** (15 min): ¿El hábitat está en peligro? ¿Qué se puede hacer?
 3. **Presentación** (20 min): Túrnense para presentar los hallazgos.
-4. **Comparación** (10 min): Discute similitudes y diferencias entre los hábitats.
+4. **Comparación** (10 min): Discutí similitudes y diferencias entre los hábitats.
 
 ## Cierre
 - ¿Qué hábitat marino te pareció más interesante?

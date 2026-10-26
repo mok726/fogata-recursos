@@ -4,8 +4,8 @@ title: "Carta por las energías renovables"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-energias-renovables/"
-description: "Investiga el porcentaje de energía renovable en tu país y escribe una carta al gobierno pidiendo más inversión en energías limpias."
-summary: "Escribe al gobierno sobre energías renovables."
+description: "Investigá el porcentaje de energía renovable en tu país y escribí una carta al gobierno pidiendo más inversión en energías limpias."
+summary: "Escribí al gobierno sobre energías renovables."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -158,17 +158,17 @@ translation_notice:
 # ¡Carta por las energías renovables!
 
 ## Resumen
-Investiga qué porcentaje de la energía en tu país proviene de fuentes renovables. Si crees que debería ser más, escribe una carta a tu gobierno pidiendo más inversión en energías renovables y medidas de eficiencia energética.
+Investigá qué porcentaje de la energía en tu país proviene de fuentes renovables. Si creés que debería ser más, escribí una carta a tu gobierno pidiendo más inversión en energías renovables y medidas de eficiencia energética.
 
 ## Preparación
-1. Lee la información sobre energías renovables.
-2. Investiga el porcentaje de energía renovable en tu país.
-3. Identifica a quién dirigir tu carta.
+1. Leé la información sobre energías renovables.
+2. Investigá el porcentaje de energía renovable en tu país.
+3. Identificá a quién dirigir tu carta.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga la situación energética de tu país:
+Investigá la situación energética de tu país:
 
 **Preguntas guía:**
 - ¿Qué porcentaje de energía proviene de fuentes renovables?
@@ -176,16 +176,16 @@ Investiga la situación energética de tu país:
 - ¿Qué políticas existen para promover energías limpias?
 
 ### Parte II - Escribir la carta
-Escribe una carta formal al gobierno incluyendo:
+Escribí una carta formal al gobierno incluyendo:
 
-1. **Presentación**: quién eres y por qué te importa
+1. **Presentación**: quién sos y por qué te importa
 2. **Datos**: porcentaje actual de energía renovable
 3. **Razones**: por qué es importante invertir en renovables
-4. **Solicitud**: qué acciones quieres que tomen
+4. **Solicitud**: qué acciones querés que tomen
 
 ### Parte III - Compartir
-Comparte tu carta con amigos y familiares.
-Anímalos a escribir también.
+Compartí tu carta con amigos y familiares.
+Animalos a escribir también.
 
 ## Cierre
 1. ¿Qué porcentaje de energía renovable tiene tu país?

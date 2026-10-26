@@ -164,21 +164,21 @@ rama_rovers:
 # ¡Desfile de modas!
 
 ## Resumen
-La biodiversidad inspira a la moda: los diseñadores crean telas que se ven cómo las pieles de los animales, los joyeros elaboran piezas utilizando conchas, cortezas y otros materiales naturales, y las compañías de confección de ropa utilizan fibras naturales como algodón, cáñamo, lana y seda. Crea un artículo de ropa o una joya que utilice o esté inspirado en la biodiversidad. Presenta un desfile de modas de biodiversidad con tu grupo.
+La biodiversidad inspira a la moda: los diseñadores crean telas que se ven cómo las pieles de los animales, los joyeros elaboran piezas utilizando conchas, cortezas y otros materiales naturales, y las compañías de confección de ropa utilizan fibras naturales como algodón, cáñamo, lana y seda. Creá un artículo de ropa o una joya que utilice o esté inspirado en la biodiversidad. Presentá un desfile de modas de biodiversidad con tu grupo.
 
 ## Preparación
-1. Reúne materiales para la creación.
-2. Investiga sobre moda inspirada en la naturaleza.
-3. Organiza el desfile.
+1. Reuní materiales para la creación.
+2. Investigá sobre moda inspirada en la naturaleza.
+3. Organizá el desfile.
 
 ## Desarrollo
-1. Diseña y crea un artículo de ropa o joya.
+1. Diseñá y creá un artículo de ropa o joya.
 2. Inspírate en la biodiversidad.
-3. Prepara tu presentación para el desfile.
+3. Prepará tu presentación para el desfile.
 
 ## Cierre
-1. Participa en el desfile de modas.
-2. Reflexiona: ¿Cómo puede la moda ser más sostenible?
+1. Participá en el desfile de modas.
+2. Reflexioná: ¿Cómo puede la moda ser más sostenible?
 3. Pregunta final: ¿Qué materiales naturales usaste?
 
 ## Texto original completo de la actividad

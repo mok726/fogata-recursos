@@ -173,41 +173,41 @@ translation_notice:
 El agua llega a nuestras ciudades desde una fuente y la accedemos a través de diferentes sistemas de distribución como canillas, pozos, camiones y botellas. Luego usamos el agua para todas nuestras necesidades: bañarnos, cocinar, limpiar, beber y usar el inodoro. Pero, ¿a dónde va el agua después de desaparecer por el desagüe? Cuando se elimina correctamente, el agua que usamos pasa por tuberías hacia los sistemas de gestión de aguas residuales donde se limpia antes de reingresar a los sistemas de agua naturales. En esta actividad, los participantes crean y juegan un juego de mesa para aprender cómo las acciones cotidianas pueden ayudar o dañar un cuerpo de agua.
 
 ## Preparación
-1. Reúne los materiales: cartulina, marcadores, tapitas, moneda, piedritas.
-2. Prepara la cartulina y los materiales de arte.
+1. Reuní los materiales: cartulina, marcadores, tapitas, moneda, piedritas.
+2. Prepará la cartulina y los materiales de arte.
 
 ## Desarrollo
 
 ### Paso 1: Diseño del juego
-1. Explica a tu grupo que van a jugar al juego "¿A Dónde Va el Agua?" pero que primero deben ayudar a diseñarlo.
-2. Dibuja un río largo y sinuoso en la cartulina y pide a los participantes que dibujen siete peces grandes a lo largo del río, asegurándose de que uno esté ubicado al principio del río y otro al final.
-3. Escribe "Inicio" en el primer pez, numera los siguientes cinco peces del "1" al "5", y escribe "Meta" en el último pez.
-4. Luego, explica que cada estación (del uno al cinco) tendrá dos instrucciones, una ubicada en el lado derecho del pez y la otra en el lado izquierdo. Pide a los participantes que te ayuden a escribir las instrucciones de la siguiente manera:
+1. Explicá a tu grupo que van a jugar al juego "¿A Dónde Va el Agua?" pero que primero deben ayudar a diseñarlo.
+2. Dibujá un río largo y sinuoso en la cartulina y pedí a los participantes que dibujen siete peces grandes a lo largo del río, asegurándose de que uno esté ubicado al principio del río y otro al final.
+3. Escribí "Inicio" en el primer pez, numerá los siguientes cinco peces del "1" al "5", y escribí "Meta" en el último pez.
+4. Luego, explica que cada estación (del uno al cinco) tendrá dos instrucciones, una ubicada en el lado derecho del pez y la otra en el lado izquierdo. Pedí a los participantes que te ayuden a escribir las instrucciones de la siguiente manera:
 
 **Estación 1**
-- 1A: Tiraste tu basura en el contenedor para que no se lavara por un desagüe o al río. Quita una piedrita del río.
-- 1B: Un colectivo urbano filtró aceite en la carretera y el aceite fue arrastrado al río. Agrega una piedrita al río.
+- 1A: Tiraste tu basura en el contenedor para que no se lavara por un desagüe o al río. Quitá una piedrita del río.
+- 1B: Un colectivo urbano filtró aceite en la carretera y el aceite fue arrastrado al río. Agregá una piedrita al río.
 
 **Estación 2**
-- 2A: Vertiste tu pintura sobrante por un desagüe que va al río. Agrega dos piedritas al río.
-- 2B: Recogiste basura de la calle y la desechaste correctamente para que no fuera arrastrada al río. Quita una piedrita del río.
+- 2A: Vertiste tu pintura sobrante por un desagüe que va al río. Agregá dos piedritas al río.
+- 2B: Recogiste basura de la calle y la desechaste correctamente para que no fuera arrastrada al río. Quitá una piedrita del río.
 
 **Estación 3**
-- 3A: Enviaste tu aceite usado a un sitio de eliminación de residuos peligrosos. Quita dos piedritas del río.
-- 3B: Recogiste las heces de tu mascota y las desechaste en un contenedor de basura. Quita dos piedritas del río.
+- 3A: Enviaste tu aceite usado a un sitio de eliminación de residuos peligrosos. Quitá dos piedritas del río.
+- 3B: Recogiste las heces de tu mascota y las desechaste en un contenedor de basura. Quitá dos piedritas del río.
 
 **Estación 4**
-- 4A: La tubería de alcantarillado de tu edificio de apartamentos no estaba conectada correctamente y filtró aguas residuales a la calle y al río. Agrega dos piedritas al río.
-- 4B: Reciclaste tu papel, plástico y latas en los contenedores de reciclaje correctos. Quita dos piedritas del río.
+- 4A: La tubería de alcantarillado de tu edificio de apartamentos no estaba conectada correctamente y filtró aguas residuales a la calle y al río. Agregá dos piedritas al río.
+- 4B: Reciclaste tu papel, plástico y latas en los contenedores de reciclaje correctos. Quitá dos piedritas del río.
 
 **Estación 5**
-- 5A: Participaste en un evento de limpieza comunitaria. Quita dos piedritas del río.
-- 5B: Desechaste el pañal sucio de tu hermana en el contenedor de basura para que no contaminara el río. Quita una piedrita del río.
+- 5A: Participaste en un evento de limpieza comunitaria. Quitá dos piedritas del río.
+- 5B: Desechaste el pañal sucio de tu hermana en el contenedor de basura para que no contaminara el río. Quitá una piedrita del río.
 
-5. También puedes pedir a los participantes que te ayuden a hacer dibujos geniales para representar cada instrucción.
+5. También podés pedir a los participantes que te ayuden a hacer dibujos geniales para representar cada instrucción.
 
 ### Paso 2: Preparación del juego
-6. Una vez que el tablero esté listo, coloca unas 20 piedritas a lo largo del río para representar la contaminación.
+6. Una vez que el tablero esté listo, colocá unas 20 piedritas a lo largo del río para representar la contaminación.
 
 ### Paso 3: Instrucciones del juego
 7. Para jugar, sigue estas instrucciones:
@@ -220,7 +220,7 @@ El agua llega a nuestras ciudades desde una fuente y la accedemos a través de d
 ## Cierre
 - ¿Por qué necesitamos agua limpia y segura?
 - ¿Cómo te sentirías si la única agua disponible no fuera tan limpia? ¿Cómo cambiaría eso tu vida?
-- ¿Crees que tu vecindario necesita cambiar algunos hábitos negativos para prevenir la contaminación del agua? Si es así, ¿cómo puedes ayudar?
+- ¿Creés que tu vecindario necesita cambiar algunos hábitos negativos para prevenir la contaminación del agua? Si es así, ¿cómo podés ayudar?
 
 ## Texto original completo de la actividad
 

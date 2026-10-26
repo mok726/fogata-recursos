@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuida la energía"
+title: "Cuidá la energía"
 duration: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuida-la-energia/"
@@ -158,27 +158,27 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Cuida la energía!
+# ¡Cuidá la energía!
 
 ## Resumen
-Mantén un diario de todas las maneras en que se usa la energía diariamente en tu hogar. Busca maneras de reducir el uso de energía.
+Mantené un diario de todas las maneras en que se usa la energía diariamente en tu hogar. Buscá maneras de reducir el uso de energía.
 
 ## Preparación
-1. Prepara un diario para registrar observaciones.
-2. Revisa los consejos para ahorrar energía.
-3. Explica la actividad al grupo.
+1. Prepará un diario para registrar observaciones.
+2. Revisá los consejos para ahorrar energía.
+3. Explicá la actividad al grupo.
 
 ## Desarrollo
-1. Observa todas las maneras en que se usa la energía en tu hogar.
-2. Busca maneras de reducir el uso de energía.
-3. Comparte consejos para ahorrar energía con tu familia.
-4. Recopila algunos datos para convencerlos (ej. ENERGY STAR reduce cuentas).
+1. Observá todas las maneras en que se usa la energía en tu hogar.
+2. Buscá maneras de reducir el uso de energía.
+3. Compartí consejos para ahorrar energía con tu familia.
+4. Recopilá algunos datos para convencerlos (ej. ENERGY STAR reduce cuentas).
 5. Después de una semana, compara tus notas con tus amigos.
 
 ## Cierre
-1. Haz un compromiso de mantener estos cambios durante un mes.
-2. Analiza tus esfuerzos después de un mes.
-3. Pregunta final: ¿Puedes seguir haciéndolo para siempre?
+1. Hacé un compromiso de mantener estos cambios durante un mes.
+2. Analizá tus esfuerzos después de un mes.
+3. Pregunta final: ¿Podés seguir haciéndolo para siempre?
 
 ## Texto original completo de la actividad
 E.13 CUIDA LA ENERGÍA. Mantén un diario de todas las maneras en que se usa la energía diariamente en tu hogar. Busca maneras de reducir el uso de energía. Por ejemplo, ¿tus hermanos y hermanas u otros miembros de la familia dejan las luces prendidas en las habitaciones vacías? ¿O dejan los aparatos eléctricos conectados cuando no están en uso? Comparte consejos para ahorrar energía con tu familia y recopila algunos datos para convencerlos. Por ejemplo, ¿usar productos que han obtenido la etiqueta de ENERGY STAR puede reducir cerca de EUA 600 de las cuentas anuales de energía de una familia promedio! Echa un vistazo a estos consejos para ahorrar energía y trata de implementarlos en tu hogar: https://www.energystar.gov/index.cfm?c=kids.kids_index. Después de una semana, compara tus notas con tus amigos. ¿Qué cambiaste en casa? ¿Qué lograron cambiar ellos? ¿Quién fue más exitoso? Haz un compromiso de mantener estos cambios durante un mes y luego analiza tus esfuerzos. ¿Puedes seguir haciéndolo durante seis meses? ¿Un año? ¿Para siempre?

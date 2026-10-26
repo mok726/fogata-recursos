@@ -5,7 +5,7 @@ duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanta-agua-hay-en-tu-cuerpo/"
 description: "Los participantes calculan cuánta agua hay en su cuerpo y aprenden que el cuerpo humano está compuesto principalmente por agua."
-summary: "Calcula cuánta agua tienes en tu cuerpo."
+summary: "Calculá cuánta agua tenés en tu cuerpo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -156,22 +156,22 @@ rama_rovers: []
 El agua constituye aproximadamente el 70 por ciento del peso de un ser humano. Una persona no podría vivir sin agua. En esta actividad, los participantes calculan cuánta agua hay en su propio cuerpo.
 
 ## Preparación
-1. Consigue una báscula para pesar a los participantes.
-2. Prepara cuadernos y lápices para los cálculos.
-3. Ten una calculadora disponible (opcional).
+1. Conseguí una báscula para pesar a los participantes.
+2. Prepará cuadernos y lápices para los cálculos.
+3. Tené una calculadora disponible (opcional).
 
 ## Desarrollo
 
 ### Parte I - Explicación
-Recuerda a tu grupo que el agua constituye aproximadamente el 70 por ciento del peso de un ser humano y que una persona no podría vivir sin agua.
+Recordá a tu grupo que el agua constituye aproximadamente el 70 por ciento del peso de un ser humano y que una persona no podría vivir sin agua.
 
 ### Parte II - Cálculo
-Explica que van a calcular cuánta agua hay en sus cuerpos. Para no exponer el peso de nadie, usen un peso de ejemplo (o el del dirigente) y completen el siguiente formulario:
+Explicá que van a calcular cuánta agua hay en sus cuerpos. Para no exponer el peso de nadie, usen un peso de ejemplo (o el del dirigente) y completen el siguiente formulario:
 
 **Tu peso:** (kilogramos)
 
-1. Multiplica tu peso por 2: (kilogramos)
-2. Divide tu respuesta al paso 1 entre 3. Este es el número de kilogramos de agua en ti: (kilogramos de agua)
+1. Multiplicá tu peso por 2: (kilogramos)
+2. Dividí tu respuesta al paso 1 entre 3. Este es el número de kilogramos de agua en vos: (kilogramos de agua)
 3. Como 1 kg de agua ocupa aproximadamente 1 litro, el resultado del paso 2 es también, aproximadamente, el número de litros de agua en el cuerpo: (litros de agua)
 
 ### Parte III - Compartir

@@ -3,7 +3,7 @@ title: "Hora de la Prueba"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hora-de-la-prueba-rrd/"
-description: "Prepara un concurso de preguntas sobre desastres y RRD entre dos equipos."
+description: "Prepará un concurso de preguntas sobre desastres y RRD entre dos equipos."
 summary: "Concurso de preguntas sobre desastres y RRD."
 
 author:
@@ -106,7 +106,7 @@ competencies:
 activity_type:
   - Juego
   - Aprender jugando
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Concurso

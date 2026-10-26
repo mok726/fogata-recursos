@@ -4,8 +4,8 @@ title: "Aventuras lingüísticas con la energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-linguisticas-energia/"
-description: "Investiga la palabra 'energía' en diferentes idiomas y crea trabalenguas divertidos mezclando las palabras."
-summary: "Descubre cómo se dice 'energía' en el mundo."
+description: "Investigá la palabra 'energía' en diferentes idiomas y creá trabalenguas divertidos mezclando las palabras."
+summary: "Descubrí cómo se dice 'energía' en el mundo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,12 +166,12 @@ translation_notice:
 # ¡Aventuras lingüísticas con la energía!
 
 ## Resumen
-Asigna a cada miembro del grupo un país diferente. Investiga cómo se dice "energía" en el idioma principal de ese país. ¡Compartan sus hallazgos y creen trabalenguas divertidos!
+Asigná a cada miembro del grupo un país diferente. Investigá cómo se dice "energía" en el idioma principal de ese país. ¡Compartan sus hallazgos y creen trabalenguas divertidos!
 
 ## Preparación
-1. Obtén una lista de países (puedes usar www.un.org/en/members).
-2. Asigna un país a cada miembro del grupo.
-3. Prepara materiales para anotar.
+1. Obtené una lista de países (podés usar www.un.org/en/members).
+2. Asigná un país a cada miembro del grupo.
+3. Prepará materiales para anotar.
 
 ## Desarrollo
 

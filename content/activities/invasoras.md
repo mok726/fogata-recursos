@@ -4,7 +4,7 @@ title: "¡Invasoras!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/invasoras/"
-description: "Investiga qué tipo de especies invasoras viven actualmente en los bosques de tu área. Comparte tus hallazgos con tu grupo."
+description: "Investigá qué tipo de especies invasoras viven actualmente en los bosques de tu área. Compartí tus hallazgos con tu grupo."
 summary: "Investigación sobre especies invasoras locales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -120,7 +120,7 @@ competencies:
 activity_type:
   - Investigación
   - Sensibilización
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Especies invasoras
@@ -165,21 +165,21 @@ rama_rovers:
 # ¡Invasoras!
 
 ## Resumen
-Investiga qué tipo de especies invasoras viven actualmente en los bosques de tu área. Comparte tus hallazgos con tu grupo.
+Investigá qué tipo de especies invasoras viven actualmente en los bosques de tu área. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Investiga sobre especies invasoras en tu área.
-2. Prepara material para tomar notas y registrar hallazgos.
+1. Investigá sobre especies invasoras en tu área.
+2. Prepará material para tomar notas y registrar hallazgos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Identifica qué especies invasoras viven en tu área (insectos, mamíferos, virus, árboles, pastos, etc.).
-2. **Análisis** (15 min): Investiga de dónde vinieron, cómo llegaron y cómo están afectando al bosque.
-3. **Propuesta** (15 min): Piensa en medidas para prevenir futuros incidentes.
-4. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
+1. **Investigación** (20 min): Identificá qué especies invasoras viven en tu área (insectos, mamíferos, virus, árboles, pastos, etc.).
+2. **Análisis** (15 min): Investigá de dónde vinieron, cómo llegaron y cómo están afectando al bosque.
+3. **Propuesta** (15 min): Pensá en medidas para prevenir futuros incidentes.
+4. **Presentación** (15 min): Compartí tus hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué especies invasoras encontraste en tu área?
 - ¿Cómo afectan estas especies a los bosques y la biodiversidad?
-- ¿Qué acciones puedes tomar para prevenir la propagación de especies invasoras?
+- ¿Qué acciones podés tomar para prevenir la propagación de especies invasoras?
 
 ---

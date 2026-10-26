@@ -3,7 +3,7 @@ title: "Carboschools"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/carboschools/"
-description: "Investiga si tu escuela puede unirse a la red de Carboschools."
+description: "Investigá si tu escuela puede unirse a la red de Carboschools."
 summary: "Red Carboschools."
 
 author:
@@ -143,17 +143,17 @@ rama_rovers:
 # ¡Carboschools!
 
 ## Resumen
-Investiga si tu escuela puede unirse a la red Carboschools para medir CO2 atmosférico.
+Investigá si tu escuela puede unirse a la red Carboschools para medir CO2 atmosférico.
 
 ## Preparación
-1. Investiga sobre Carboschools.
-2. Habla con la dirección de tu escuela.
-3. Prepara materiales para la propuesta.
+1. Investigá sobre Carboschools.
+2. Hablá con la dirección de tu escuela.
+3. Prepará materiales para la propuesta.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre Carboschools.
-2. **Propuesta** (20 min): Prepara una propuesta para la escuela.
-3. **Presentación** (15 min): Presenta la idea a la dirección.
+1. **Investigación** (20 min): Aprendé sobre Carboschools.
+2. **Propuesta** (20 min): Prepará una propuesta para la escuela.
+3. **Presentación** (15 min): Presentá la idea a la dirección.
 4. **Reflexión** (5 min): ¿Qué aprendiste?
 
 ## Cierre

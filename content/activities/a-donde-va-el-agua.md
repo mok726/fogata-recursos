@@ -3,7 +3,7 @@ title: "¿A dónde va el agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-donde-va-el-agua/"
-description: "Investiga el uso del agua en tu país por sectores y propón formas de ahorrar."
+description: "Investigá el uso del agua en tu país por sectores y proponé formas de ahorrar."
 summary: "Investigación del uso de agua por sectores."
 
 author:
@@ -146,22 +146,22 @@ rama_rovers:
 # ¿A dónde va el agua?
 
 ## Resumen
-Investiga cómo se utiliza el agua en tu país por sectores y propón formas de ahorrar.
+Investigá cómo se utiliza el agua en tu país por sectores y proponé formas de ahorrar.
 
 ## Preparación
-1. Investiga sobre el uso del agua en tu país.
-2. Identifica los principales sectores que usan agua.
-3. Prepara materiales para presentar.
+1. Investigá sobre el uso del agua en tu país.
+2. Identificá los principales sectores que usan agua.
+3. Prepará materiales para presentar.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga el uso del agua por sector en tu país.
+1. **Investigación** (25 min): Investigá el uso del agua por sector en tu país.
 2. **Análisis** (15 min): ¿Para qué se utiliza la mayor cantidad de agua?
 3. **Propuestas** (15 min): ¿Dónde se podría ahorrar?
-4. **Presentación** (5 min): Comparte tus hallazgos.
+4. **Presentación** (5 min): Compartí tus hallazgos.
 
 ## Cierre
 - ¿Qué sector usa más agua en tu país?
-- ¿Dónde crees que se podría ahorrar más?
+- ¿Dónde creés que se podría ahorrar más?
 - ¿Cómo se compara tu país con otros?
 
 ---

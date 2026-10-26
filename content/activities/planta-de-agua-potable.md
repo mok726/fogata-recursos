@@ -3,7 +3,7 @@ title: "Planta de Agua Potable"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/planta-de-agua-potable/"
-description: "Visita o investiga sobre la compañía local de suministro de agua potable."
+description: "Visitá o investigá sobre la compañía local de suministro de agua potable."
 summary: "Investigación sobre el suministro de agua potable local."
 
 author:
@@ -149,17 +149,17 @@ rama_rovers:
 # ¡Planta de Agua Potable!
 
 ## Resumen
-Identifica la compañía local de suministro de agua potable y aprende sobre su trabajo.
+Identificá la compañía local de suministro de agua potable y aprendé sobre su trabajo.
 
 ## Preparación
-1. Investiga cuál es la compañía local de agua.
-2. Organiza una visita o reunión.
-3. Prepara preguntas para hacer.
+1. Investigá cuál es la compañía local de agua.
+2. Organizá una visita o reunión.
+3. Prepará preguntas para hacer.
 
 ## Desarrollo
-1. **Investigación** (15 min): Identifica la compañía de agua local.
-2. **Visita** (30 min): Visita la planta o habla con un miembro del personal.
-3. **Reflexión** (10 min): Comparte lo que aprendiste con el grupo.
+1. **Investigación** (15 min): Identificá la compañía de agua local.
+2. **Visita** (30 min): Visitá la planta o hablá con un miembro del personal.
+3. **Reflexión** (10 min): Compartí lo que aprendiste con el grupo.
 4. **Discusión** (5 min): ¿Cómo afecta este trabajo a tu vida diaria?
 
 ## Cierre

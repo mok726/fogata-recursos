@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz un Libro de Recetas"
+title: "Hacé un Libro de Recetas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-un-libro-de-recetas/"
-description: "Crea tu propio libro de recetas con ingredientes de temporada y consejos de sostenibilidad."
+description: "Creá tu propio libro de recetas con ingredientes de temporada y consejos de sostenibilidad."
 summary: "Creación de libro de recetas sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,25 +164,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# Haz un Libro de Recetas
+# Hacé un Libro de Recetas
 
 ## Resumen
-Crea tu propio libro de recetas con ingredientes de temporada y consejos de sostenibilidad.
+Creá tu propio libro de recetas con ingredientes de temporada y consejos de sostenibilidad.
 
 ## Preparación
-1. Investiga frutas, verduras y alimentos de temporada en tu zona.
-2. Pide recetas a tu familia y amigos.
-3. Prepara material para el libro.
+1. Investigá frutas, verduras y alimentos de temporada en tu zona.
+2. Pedí recetas a tu familia y amigos.
+3. Prepará material para el libro.
 
 ## Desarrollo
-1. **Recolección** (15 min): Reúne recetas de familiares y amigos.
-2. **Creación** (25 min): Escribe las recetas con ingredientes y nutrientes.
-3. **Consejos** (15 min): Incluye consejos de compra, cocina y conservación.
-4. **Copia** (10 min): Haz varias copias para compartir.
+1. **Recolección** (15 min): Reuní recetas de familiares y amigos.
+2. **Creación** (25 min): Escribí las recetas con ingredientes y nutrientes.
+3. **Consejos** (15 min): Incluí consejos de compra, cocina y conservación.
+4. **Copia** (10 min): Hacé varias copias para compartir.
 
 ## Cierre
 - ¿Qué recetas incluiste en tu libro?
-- ¿Cómo puedes hacer que tus comidas sean más sostenibles?
+- ¿Cómo podés hacer que tus comidas sean más sostenibles?
 - ¿Qué compromiso adquieres para cocinar de manera más saludable?
 
 ---

@@ -4,7 +4,7 @@ title: "Los Bosques y el Fuego"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-el-fuego/"
-description: "Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura. Investiga sobre diferentes tipos de madera y prevención de incendios."
+description: "Aprendé cómo construir y disfrutar de una fogata al aire libre de manera segura. Investigá sobre diferentes tipos de madera y prevención de incendios."
 summary: "Aprendizaje seguro sobre fogatas y prevención de incendios forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,26 +170,26 @@ rama_rovers:
 # Los Bosques y el Fuego
 
 ## Resumen
-Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura. Investiga sobre diferentes tipos de madera y prevención de incendios.
+Aprendé cómo construir y disfrutar de una fogata al aire libre de manera segura. Investigá sobre diferentes tipos de madera y prevención de incendios.
 
 ## Preparación
-1. Asegura la supervisión de un adulto responsable.
-2. Recolecta leña y fajina (hojas secas, palos pequeños).
-3. Prepara alimentos para asar (castañas, manzanas, papas, pochoclo).
-4. Ten agua y equipo de seguridad cerca.
+1. Asegurá la supervisión de un adulto responsable.
+2. Recolectá leña y fajina (hojas secas, palos pequeños).
+3. Prepará alimentos para asar (castañas, manzanas, papas, pochoclo).
+4. Tené agua y equipo de seguridad cerca.
 
 ## Desarrollo
-1. **Construcción** (20 min): Construye la fogata con la supervisión de un adulto.
+1. **Construcción** (20 min): Construí la fogata con la supervisión de un adulto.
 2. **Encendido** (10 min): Enciende la fogata con precaución.
 3. **Asado** (20 min): Asa alimentos sobre el fuego cuidadosamente.
-4. **Investigación** (15 min): Crea una lista de por qué el fuego es esencial para la supervivencia.
-5. **Investigación** (15 min): Investiga sobre diferentes tipos de madera y su velocidad de combustión.
-6. **Reflexión** (20 min): Discute cuándo el fuego es peligroso, incendios forestales y precauciones.
-7. **Celebración** (20 min): Disfruta de la fogata cantando o leyendo.
+4. **Investigación** (15 min): Creá una lista de por qué el fuego es esencial para la supervivencia.
+5. **Investigación** (15 min): Investigá sobre diferentes tipos de madera y su velocidad de combustión.
+6. **Reflexión** (20 min): Discutí cuándo el fuego es peligroso, incendios forestales y precauciones.
+7. **Celebración** (20 min): Disfrutá de la fogata cantando o leyendo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la construcción segura de fogatas?
-- ¿Cómo puedes prevenir incendios forestales?
+- ¿Cómo podés prevenir incendios forestales?
 - ¿Qué compromiso adquieres para usar el fuego de manera responsable?
 
 ---

@@ -5,7 +5,7 @@ duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-solar/"
 description: "Juego de preguntas sobre energía solar para aprender de forma creativa y divertida, en forma de debate o competencia entre equipos."
-summary: "Aprende sobre energía solar jugando."
+summary: "Aprendé sobre energía solar jugando."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

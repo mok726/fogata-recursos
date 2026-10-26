@@ -159,23 +159,23 @@ rama_rovers:
 # ¡Bancos de semillas!
 
 ## Resumen
-¿Qué es un banco de semillas? Averigua dónde se encuentran ubicados los bancos de semillas en tu área y en tu país. Si es posible, visita uno. Pregunta cómo puedes involucrarte en sus actividades.
+¿Qué es un banco de semillas? Averiguá dónde se encuentran ubicados los bancos de semillas en tu área y en tu país. Si es posible, visita uno. Preguntá cómo podés involucrarte en sus actividades.
 
 ## Preparación
-1. Investiga sobre bancos de semillas.
-2. Identifica bancos de semillas en tu área.
-3. Organiza una visita si es posible.
+1. Investigá sobre bancos de semillas.
+2. Identificá bancos de semillas en tu área.
+3. Organizá una visita si es posible.
 
 ## Desarrollo
-1. Investiga qué es un banco de semillas.
-2. Averigua dónde están ubicados en tu área y país.
+1. Investigá qué es un banco de semillas.
+2. Averiguá dónde están ubicados en tu área y país.
 3. Si es posible, visita uno.
-4. Pregunta cómo puedes involucrarte.
+4. Preguntá cómo podés involucrarte.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre la importancia de los bancos de semillas.
-3. Pregunta final: ¿Cómo puedes ayudar a conservar semillas?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre la importancia de los bancos de semillas.
+3. Pregunta final: ¿Cómo podés ayudar a conservar semillas?
 
 ## Texto original completo de la actividad
 C.30 ¿Qué es un banco de semillas? Averigua dónde se encuentran ubicados los bancos de semillas en tu área y en tu país. Si es posible, visita uno. Pregunta cómo puedes involucrarte en sus actividades.

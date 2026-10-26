@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/contaminacion-fuente-no-puntual/"
 description: "Los participantes simulan cómo un desagüe pluvial recolecta contaminantes durante una tormenta y cómo esto impacta la calidad del agua en cuerpos de agua locales."
-summary: "Simula la contaminación de un desagüe pluvial."
+summary: "Simulá la contaminación de un desagüe pluvial."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -182,33 +182,33 @@ translation_notice:
 Los desagües pluviales son una medida de control de inundaciones, pero también pueden transportar contaminación a los cuerpos de agua. La escorrentía de aguas pluviales puede recolectar diferentes tipos de contaminación de diferentes fuentes antes de llegar a un cuerpo de agua. En esta actividad, los participantes simulan cómo un desagüe pluvial recolecta contaminantes durante una tormenta y cómo esto impacta la calidad del agua.
 
 ## Preparación
-1. Llena el acuario hasta la mitad con agua y colócalo en un lugar accesible donde pueda ser visto fácilmente por los participantes. Esta agua representa el río en el que drena el agua de la tormenta después de haber llovido.
-2. Corta un agujero en el fondo de la caja y coloca la caja encima del acuario. La caja representa el desagüe pluvial.
-3. Prepara los ocho escenarios de contaminación.
+1. Llená el acuario hasta la mitad con agua y colocalo en un lugar accesible donde pueda ser visto fácilmente por los participantes. Esta agua representa el río en el que drena el agua de la tormenta después de haber llovido.
+2. Cortá un agujero en el fondo de la caja y colocá la caja encima del acuario. La caja representa el desagüe pluvial.
+3. Prepará los ocho escenarios de contaminación.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Introduce esta actividad con una discusión sobre los desagües pluviales y su propósito.
+1. Introducí esta actividad con una discusión sobre los desagües pluviales y su propósito.
 2. Pregunta: ¿Dónde se encuentran típicamente los desagües pluviales? (Junto a los bordillos, en estacionamientos, puentes, etc.) ¿Qué cosas podrían entrar en un desagüe pluvial?
-3. Explica el término "agua de escorrentía" al grupo. ¿Qué otros materiales pueden entrar en los desagües pluviales con el agua de escorrentía? (Basura, fertilizante, sal de carretera, aceite, etc.)
+3. Explicá el término "agua de escorrentía" al grupo. ¿Qué otros materiales pueden entrar en los desagües pluviales con el agua de escorrentía? (Basura, fertilizante, salí de carretera, aceite, etc.)
 
 ### Paso 2: Escenarios de contaminación
-4. Los ocho escenarios descritos a continuación proporcionan ejemplos realistas de los tipos de contaminación del agua que entran en los desagües pluviales en vecindarios y comunidades. Divide a los participantes en ocho grupos y asigna un escenario a cada uno.
+4. Los ocho escenarios descritos a continuación proporcionan ejemplos realistas de los tipos de contaminación del agua que entran en los desagües pluviales en vecindarios y comunidades. Dividí a los participantes en ocho grupos y asigná un escenario a cada uno.
 5. Los materiales simulados deben colocarse en una mesa y numerarse apropiadamente para los escenarios.
 
 ### Paso 3: Simulación
-6. Invita a cada grupo a presentar su escenario: primero deben leerlo y luego colocar su contaminante en el desagüe pluvial (la abertura de la caja en la parte superior del acuario). Usa la regadera para crear lluvia y lavar el contaminante hacia el cuerpo de agua.
+6. Invitá a cada grupo a presentar su escenario: primero deben leerlo y luego colocar su contaminante en el desagüe pluvial (la abertura de la caja en la parte superior del acuario). Usá la regadera para crear lluvia y lavar el contaminante hacia el cuerpo de agua.
 7. Después de cada escenario, pide a los participantes que saquen conclusiones sobre las preocupaciones o problemas que presenta el escenario. También es beneficioso preguntar si las personas en el escenario tenían la intención de hacer lo que hicieron y cuántos de ellos conocen a alguien que también hace esto.
 
 ### Paso 4: Reflexión final
-8. Después de agregar todos los contaminantes, examina el contenido del cuerpo de agua. Discute cómo ha cambiado el cuerpo de agua y cómo ver este cambio hace sentir a los participantes.
+8. Después de agregar todos los contaminantes, examina el contenido del cuerpo de agua. Discutí cómo ha cambiado el cuerpo de agua y cómo ver este cambio hace sentir a los participantes.
 
 ## Escenarios de Contaminación
 
 **Escenario #1:** La Sra. Howard tiene dos árboles pequeños junto al porche de la casa. Los árboles atraen avispas, mosquitos y orugas. Roció los árboles con un químico para matar o ahuyentar a los insectos. Una tormenta ocurre poco después de rociar y la mayor parte del químico se lava de las hojas y llega a la vereda y al camino de entrada. Desde allí es arrastrado con el agua de lluvia hacia el desagüe pluvial.
 
-**Contaminación simulada:** Mezcla dos o tres gotas de colorante alimenticio verde con el agua en uno de los vasos. Vacía esta agua verde en la abertura en la parte superior del acuario.
+**Contaminación simulada:** Mezcla dos o tres gotas de colorante alimenticio verde con el agua en uno de los vasos. Vaciá esta agua verde en la abertura en la parte superior del acuario.
 
 **Escenario #2:** Un pequeño arroyo serpentea a través de un campo de golf popular. Durante una lluvia intensa, el arroyo se llena de agua que fluye rápidamente. En ciertos lugares, los lados del arroyo se están desgastando y las raíces de los árboles están expuestas. Durante y después de cada lluvia, la tierra, arena, hojas, piedritas y otros desechos naturales son arrastrados por el fuerte flujo de agua mientras las orillas del arroyo se derrumban lentamente. Este material es finalmente arrastrado por el arroyo hacia el río en el que desemboca.
 
@@ -222,7 +222,7 @@ Los desagües pluviales son una medida de control de inundaciones, pero también
 
 **Contaminación simulada:** Agrega los residuos de papel a través de la abertura en la parte superior del acuario.
 
-**Escenario #5:** Uno de los trabajos de Mateo en casa es cortar el césped cada semana después de la escuela. Cuando el recolector de césped está lleno, vacía los recortes de césped en la zanja o alcantarilla cercana, la que esté más cerca de la cortadora de césped en ese momento. Mientras están en la zanja o desagüe, los recortes se vuelven amarillos y comienzan a pudrirse y oler hasta que el agua de la próxima tormenta los arrastra.
+**Escenario #5:** Uno de los trabajos de Mateo en casa es cortar el césped cada semana después de la escuela. Cuando el recolector de césped está lleno, vaciá los recortes de césped en la zanja o alcantarilla cercana, la que esté más cerca de la cortadora de césped en ese momento. Mientras están en la zanja o desagüe, los recortes se vuelven amarillos y comienzan a pudrirse y oler hasta que el agua de la próxima tormenta los arrastra.
 
 **Contaminación simulada:** Agrega recortes de césped a través de la abertura en la parte superior del acuario.
 
@@ -236,7 +236,7 @@ Los desagües pluviales son una medida de control de inundaciones, pero también
 
 **Escenario #8:** Un trabajador de mantenimiento empleado por una asociación de residentes para algunas casas adosadas debe asumir nuevas tareas de verano para el paisajista mientras está enfermo. Estas tareas incluyen el cuidado del césped para cada una de las residencias. El procedimiento de esparcir herbicida toma unos tres días para completar y dos días después de comenzar, una tormenta de lluvia que duró todo el día lo mantuvo en el interior. El trabajador de mantenimiento no se dio cuenta de que el aguacero lavaría la mayor parte del herbicida que ya se había aplicado en los céspedes. De hecho, los productos químicos probablemente serían arrastrados por las plantas y el pavimento hacia los desagües pluviales cercanos.
 
-**Contaminación simulada:** Mezcla dos o tres gotas de colorante alimenticio rojo con el agua en uno de los vasos. Vacía esta agua roja en la abertura en la parte superior del acuario.
+**Contaminación simulada:** Mezcla dos o tres gotas de colorante alimenticio rojo con el agua en uno de los vasos. Vaciá esta agua roja en la abertura en la parte superior del acuario.
 
 ## Cierre
 - ¿Qué tipos de contaminación son naturales?

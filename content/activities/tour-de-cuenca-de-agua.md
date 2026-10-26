@@ -162,20 +162,20 @@ rama_rovers:
 Aprendan acerca de su cuenca de agua local - un área de tierra que captura lluvia y nieve y luego las drena hacia un cuerpo de agua mayor. Organicen un tour guiado de su cuenca.
 
 ## Preparación
-1. Investiga sobre tu cuenca de agua local.
-2. Planifica la ruta del tour.
-3. Prepara información para compartir con los visitantes.
+1. Investigá sobre tu cuenca de agua local.
+2. Planificá la ruta del tour.
+3. Prepará información para compartir con los visitantes.
 
 ## Desarrollo
-1. Organiza un tour guiado de tu cuenca de agua.
-2. Invita a tus familias, amigos o grupo a participar.
-3. Resalta todos los aportes que recibe el agua (corrientes naturales, escorrentía de granjas o áreas industriales).
-4. Explica cómo participan las plantas y los árboles en la cuenca.
-5. Explica cómo participan los animales acuáticos y terrestres.
+1. Organizá un tour guiado de tu cuenca de agua.
+2. Invitá a tus familias, amigos o grupo a participar.
+3. Resaltá todos los aportes que recibe el agua (corrientes naturales, escorrentía de granjas o áreas industriales).
+4. Explicá cómo participan las plantas y los árboles en la cuenca.
+5. Explicá cómo participan los animales acuáticos y terrestres.
 
 ## Cierre
-1. Reflexiona sobre la experiencia del tour.
-2. Comparte lo que aprendiste.
+1. Reflexioná sobre la experiencia del tour.
+2. Compartí lo que aprendiste.
 3. Pregunta final: ¿Cómo podemos proteger mejor nuestra cuenca de agua?
 
 ## Texto original completo de la actividad

@@ -4,8 +4,8 @@ title: "Energía en el pasado"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-el-pasado/"
-description: "Entrevista a un abuelo o persona mayor sobre cómo usaban la energía en el pasado: ¿qué tecnologías usaban? ¿cómo se calentaban y cocinaban?"
-summary: "Descubre cómo se usaba la energía antes."
+description: "Entrevistá a un abuelo o persona mayor sobre cómo usaban la energía en el pasado: ¿qué tecnologías usaban? ¿cómo se calentaban y cocinaban?"
+summary: "Descubrí cómo se usaba la energía antes."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -113,7 +113,7 @@ image_prompt: "Ultra-wide cinematic website hero banner, professional educationa
 
 # ========== CLASIFICACIONES ADICIONALES ==========
 competencies:
-  - Escucha activa
+  - Escuchá activa
   - Comprensión histórica
   - Comparación generacional
 activity_type:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Energía en el pasado!
 
 ## Resumen
-Las personas en el pasado vivían con diferentes tecnologías y usaban diferentes fuentes de energía. Entrevista a un abuelo o persona mayor sobre cómo usaban la energía cuando eran niños.
+Las personas en el pasado vivían con diferentes tecnologías y usaban diferentes fuentes de energía. Entrevistá a un abuelo o persona mayor sobre cómo usaban la energía cuando eran niños.
 
 ## Preparación
-1. Prepara preguntas para tu entrevista.
-2. Busca un familiar o persona mayor para entrevistar.
-3. Lleva cuaderno y lápiz para tomar notas.
+1. Prepará preguntas para tu entrevista.
+2. Buscá un familiar o persona mayor para entrevistar.
+3. Llevá cuaderno y lápiz para tomar notas.
 
 ## Desarrollo
 
 ### Parte I - Preparar preguntas
-Prepara preguntas como:
+Prepará preguntas como:
 
 - ¿Tenían acceso a electricidad?
 - ¿Tenían televisor o computadora en casa?
@@ -183,10 +183,10 @@ Prepara preguntas como:
 - ¿Cómo se divertían sin electrónicos?
 
 ### Parte II - Entrevista
-Entrevista a un abuelo o persona mayor. Toma notas de sus respuestas.
+Entrevistá a un abuelo o persona mayor. Tomá notas de sus respuestas.
 
 ### Parte III - Comparar
-Crea una tabla comparando las respuestas de la persona mayor con las tuyas:
+Creá una tabla comparando las respuestas de la persona mayor con las tuyas:
 
 | Pregunta | Ellos antes | Yo ahora |
 |----------|-------------|----------|
@@ -197,7 +197,7 @@ Crea una tabla comparando las respuestas de la persona mayor con las tuyas:
 | Entretenimiento | | |
 
 ### Parte IV - Compartir
-Discute las diferencias con el resto del grupo.
+Discutí las diferencias con el resto del grupo.
 
 ## Cierre
 1. ¿Qué fue lo que más te sorprendió?

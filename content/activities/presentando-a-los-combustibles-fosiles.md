@@ -160,22 +160,22 @@ rama_rovers:
 # ¡Presentando a los combustibles fósiles!
 
 ## Resumen
-Investiga qué son los combustibles fósiles y cómo se utilizan. Elige uno de los combustibles fósiles (carbón, petróleo o gas natural) para investigar más a fondo.
+Investigá qué son los combustibles fósiles y cómo se utilizan. Elegí uno de los combustibles fósiles (carbón, petróleo o gas natural) para investigar más a fondo.
 
 ## Preparación
-1. Investiga sobre los combustibles fósiles.
-2. Prepara ejemplos visuales o diagramas.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre los combustibles fósiles.
+2. Prepará ejemplos visuales o diagramas.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga qué son los combustibles fósiles.
-2. Elige un tipo para investigar más a fondo: carbón, petróleo o gas natural.
-3. Descubre cómo se forman, cómo se extraen y para qué se utilizan.
-4. Investiga cómo su uso contribuye al cambio climático.
-5. Prepara una presentación o cartel con tus hallazgos.
+1. Investigá qué son los combustibles fósiles.
+2. Elegí un tipo para investigar más a fondo: carbón, petróleo o gas natural.
+3. Descubrí cómo se forman, cómo se extraen y para qué se utilizan.
+4. Investigá cómo su uso contribuye al cambio climático.
+5. Prepará una presentación o cartel con tus hallazgos.
 
 ## Cierre
-1. Comparte tu presentación con el grupo.
+1. Compartí tu presentación con el grupo.
 2. Discutan: ¿Qué alternativas existen a los combustibles fósiles?
 3. Pregunta final: ¿Cómo podemos reducir nuestra dependencia de los combustibles fósiles?
 

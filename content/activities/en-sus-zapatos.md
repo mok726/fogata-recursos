@@ -168,20 +168,20 @@ rama_rovers:
 Ayuna durante un día completo para experimentar el hambre y reflexionar sobre la experiencia de quienes no tienen certeza de cuándo volverán a comer.
 
 ## Preparación
-1. Prepara suficiente agua para mantenerte hidratado.
-2. Prepara un diario para registrar cómo te sientes.
-3. Asegura la supervisión de un adulto y la **autorización escrita de la familia**. **Seguridad**: no es apto para quien tenga diabetes, trastornos alimentarios u otra condición médica; ante mareos o malestar se suspende. Alternativa para menores de 16 años: saltear una sola comida o comer solo arroz y agua durante un día.
+1. Prepará suficiente agua para mantenerte hidratado.
+2. Prepará un diario para registrar cómo te sentís.
+3. Asegurá la supervisión de un adulto y la **autorización escrita de la familia**. **Seguridad**: no es apto para quien tenga diabetes, trastornos alimentarios u otra condición médica; ante mareos o malestar se suspende. Alternativa para menores de 16 años: saltear una sola comida o comer solo arroz y agua durante un día.
 
 ## Desarrollo
 1. **Ayuno** (24 horas): No comas durante un día completo (pero toma suficiente agua para hidratarte).
-2. **Registro** (durante el día): Escribe cómo te sientes a lo largo del día.
-3. **Reflexión** (15 min): Reflexiona sobre la experiencia y cómo sería vivir sin certeza de la próxima comida.
-4. **Discusión** (15 min): Discute tus sentimientos y reflexiones con tu grupo.
-5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Realiza un ayuno solidario patrocinado de 24 horas y dona el dinero recaudado a una organización benéfica que luche contra el hambre.
+2. **Registro** (durante el día): Escribí cómo te sentís a lo largo del día.
+3. **Reflexión** (15 min): Reflexioná sobre la experiencia y cómo sería vivir sin certeza de la próxima comida.
+4. **Discusión** (15 min): Discutí tus sentimientos y reflexiones con tu grupo.
+5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Realizá un ayuno solidario patrocinado de 24 horas y doná el dinero recaudado a una organización benéfica que luche contra el hambre.
 
 ## Cierre
 - ¿Cómo te sentiste al no poder comer durante un día?
-- ¿Qué crees que sienten las personas que viven con hambre crónica?
+- ¿Qué creés que sienten las personas que viven con hambre crónica?
 - ¿Qué compromiso adquieres para ayudar a quienes padecen hambre?
 
 ---

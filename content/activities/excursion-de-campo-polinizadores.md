@@ -4,7 +4,7 @@ title: "Excursión de campo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo-polinizadores/"
-description: "Visita a una granja local para aprender sobre agricultura sostenible y el papel de los polinizadores."
+description: "Visitá a una granja local para aprender sobre agricultura sostenible y el papel de los polinizadores."
 summary: "Visitar una granja para aprender sobre agricultura sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========

@@ -3,7 +3,7 @@ title: "Verso Acuático"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/verso-acuatico/"
-description: "Escribe un poema humorístico sobre el uso del agua."
+description: "Escribí un poema humorístico sobre el uso del agua."
 summary: "Poesía sobre el agua."
 
 author:
@@ -148,17 +148,17 @@ rama_rovers: []
 # ¡Verso Acuático!
 
 ## Resumen
-Escribe un limerick o poema humorístico sobre el uso del agua en la agricultura, la industria o en tu casa.
+Escribí un limerick o poema humorístico sobre el uso del agua en la agricultura, la industria o en tu casa.
 
 ## Preparación
-- Piensa en cómo se usa el agua en diferentes áreas.
-- Lee ejemplos de limericks para inspirarte.
+- Pensá en cómo se usa el agua en diferentes áreas.
+- Leé ejemplos de limericks para inspirarte.
 
 ## Desarrollo
-1. **Inspiración** (10 min): Lee ejemplos y discute ideas.
-2. **Escritura** (25 min): Escribe tu poema.
-3. **Ilustración** (10 min): Haz un póster con tu poema y un dibujo.
-4. **Presentación** (5 min): Comparte tu poema con la clase.
+1. **Inspiración** (10 min): Leé ejemplos y discutí ideas.
+2. **Escritura** (25 min): Escribí tu poema.
+3. **Ilustración** (10 min): Hacé un póster con tu poema y un dibujo.
+4. **Presentación** (5 min): Compartí tu poema con la clase.
 
 ## Cierre
 - ¿Qué tema elegiste para tu poema?

@@ -4,7 +4,7 @@ title: "Especies que Usan el Agua Inteligentemente"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-que-usan-el-agua-inteligentemente/"
-description: "Aprende cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin agua durante períodos de escasez."
+description: "Aprendé cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin agua durante períodos de escasez."
 summary: "Investigación sobre adaptaciones de especies a la escasez de agua."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -119,7 +119,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Agua
@@ -162,17 +162,17 @@ rama_rovers:
 # Especies que Usan el Agua Inteligentemente
 
 ## Resumen
-Aprende cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin agua durante períodos de escasez. Reflexiona sobre cómo el cambio climático podría afectar estas estrategias.
+Aprendé cómo cuatro especies diferentes logran encontrar agua o sobrevivir sin agua durante períodos de escasez. Reflexioná sobre cómo el cambio climático podría afectar estas estrategias.
 
 ## Preparación
-1. Investiga especies que han desarrollado adaptaciones para sobrevivir sin agua.
-2. Elige cuatro especies diferentes (ej. un árbol conífero, un ave, un champiñón, una flor silvestre).
+1. Investigá especies que han desarrollado adaptaciones para sobrevivir sin agua.
+2. Elegí cuatro especies diferentes (ej. un árbol conífero, un ave, un champiñón, una flor silvestre).
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga cómo cada especie logra encontrar agua o sobrevivir sin agua.
-2. **Análisis** (15 min): Reflexiona sobre la efectividad de estas estrategias.
-3. **Reflexión** (15 min): Piensa si estas estrategias seguirán funcionando con el cambio climático.
-4. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
+1. **Investigación** (30 min): Investigá cómo cada especie logra encontrar agua o sobrevivir sin agua.
+2. **Análisis** (15 min): Reflexioná sobre la efectividad de estas estrategias.
+3. **Reflexión** (15 min): Pensá si estas estrategias seguirán funcionando con el cambio climático.
+4. **Presentación** (15 min): Compartí tus hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué estrategias de supervivencia te parecieron más sorprendentes?

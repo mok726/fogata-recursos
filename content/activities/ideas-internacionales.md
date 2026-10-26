@@ -121,7 +121,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Cultura
   - Sostenibilidad
@@ -159,21 +159,21 @@ rama_rovers:
 # ¡Ideas internacionales!
 
 ## Resumen
-¿Tienes amigos de otros países? Habla con ellos sobre los hábitos medio ambientales del lugar donde viven. ¿Qué es más 'verde' sobre su estilo de vida? ¿Qué es más 'verde' sobre el tuyo?
+¿Tenés amigos de otros países? Hablá con ellos sobre los hábitos medio ambientales del lugar donde viven. ¿Qué es más 'verde' sobre su estilo de vida? ¿Qué es más 'verde' sobre el tuyo?
 
 ## Preparación
-1. Identifica contactos en otros países (amigos, familia, grupos).
-2. Prepara preguntas para la conversación.
-3. Organiza los grupos de trabajo.
+1. Identificá contactos en otros países (amigos, familia, grupos).
+2. Prepará preguntas para la conversación.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Habla con amigos de otros países sobre sus hábitos ambientales.
-2. Investiga: ¿Qué prácticas verdes se siguen en los países de tus amigos?
-3. Reflexiona: ¿Qué pueden aprender el uno del otro?
-4. Registra y comparte los hallazgos.
+1. Hablá con amigos de otros países sobre sus hábitos ambientales.
+2. Investigá: ¿Qué prácticas verdes se siguen en los países de tus amigos?
+3. Reflexioná: ¿Qué pueden aprender el uno del otro?
+4. Registrá y compartí los hallazgos.
 
 ## Cierre
-1. Comparte las prácticas verdes que aprendiste con el grupo.
+1. Compartí las prácticas verdes que aprendiste con el grupo.
 2. Discutan: ¿Qué prácticas podrían implementarse en tu comunidad?
 3. Pregunta final: ¿Qué hábito de otro país te gustaría adoptar?
 

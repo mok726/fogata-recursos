@@ -165,23 +165,23 @@ rama_rovers:
 # ¡Diario de alimentos!
 
 ## Resumen
-Registra lo que comes durante cinco días. ¿Cuántas cosas diferentes comiste? ¿De qué animales y plantas obtuviste tu comida? Al final de la semana, ayuda a preparar una comida que use mucha biodiversidad. Compártela con tu familia y tus amigos. Durante la comida, hablen sobre la biodiversidad en cada plato.
+Registrá lo que comés durante cinco días. ¿Cuántas cosas diferentes comiste? ¿De qué animales y plantas obtuviste tu comida? Al final de la semana, ayuda a preparar una comida que use mucha biodiversidad. Compártela con tu familia y tus amigos. Durante la comida, hablen sobre la biodiversidad en cada plato.
 
 ## Preparación
-1. Prepara un cuaderno para el diario.
-2. Explica la actividad al grupo.
-3. Organiza la comida final.
+1. Prepará un cuaderno para el diario.
+2. Explicá la actividad al grupo.
+3. Organizá la comida final.
 
 ## Desarrollo
-1. Registra todo lo que comes durante cinco días.
-2. Cuenta cuántas cosas diferentes comiste.
-3. Identifica de qué animales y plantas proviene tu comida.
-4. Prepara una comida que use mucha biodiversidad.
+1. Registrá todo lo que comés durante cinco días.
+2. Contá cuántas cosas diferentes comiste.
+3. Identificá de qué animales y plantas proviene tu comida.
+4. Prepará una comida que use mucha biodiversidad.
 5. Compártela con tu familia y amigos.
 
 ## Cierre
 1. Durante la comida, hablen sobre la biodiversidad en cada plato.
-2. Reflexiona: ¿Qué alimentos consumiste que provienen de la biodiversidad?
+2. Reflexioná: ¿Qué alimentos consumiste que provienen de la biodiversidad?
 3. Pregunta final: ¿Cómo podemos aumentar la biodiversidad en nuestra dieta?
 
 ## Texto original completo de la actividad

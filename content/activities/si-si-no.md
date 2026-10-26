@@ -4,7 +4,7 @@ title: "Sí, Sí No"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/si-si-no/"
-description: "Analiza cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicación del hambre."
+description: "Analizá cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicación del hambre."
 summary: "Análisis de los ODM y su impacto en el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -120,7 +120,7 @@ competencies:
 
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
 
 category:
@@ -164,18 +164,18 @@ rama_rovers:
 # Sí, Sí No
 
 ## Resumen
-Analiza cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicación del hambre.
+Analizá cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicación del hambre.
 
 ## Preparación
-1. Crea una tabla con ocho filas y dos columnas.
-2. Escribe los encabezados 'Sí...' y 'Si no...'.
-3. Enumera los ocho Objetivos de Desarrollo del Milenio.
+1. Creá una tabla con ocho filas y dos columnas.
+2. Escribí los encabezados 'Sí...' y 'Si no...'.
+3. Enumerá los ocho Objetivos de Desarrollo del Milenio.
 
 ## Desarrollo
-1. **Preparación** (10 min): Crea la tabla con los ODM.
-2. **Análisis** (20 min): Piensa en los efectos del cumplimiento o incumplimiento de cada ODM.
-3. **Completar** (15 min): Llena la tabla con tus análisis.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Preparación** (10 min): Creá la tabla con los ODM.
+2. **Análisis** (20 min): Pensá en los efectos del cumplimiento o incumplimiento de cada ODM.
+3. **Completar** (15 min): Llená la tabla con tus análisis.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué ODM tiene el mayor impacto en la erradicación del hambre?

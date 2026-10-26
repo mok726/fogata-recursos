@@ -169,19 +169,19 @@ rama_rovers:
 Existen muchas ocasiones para enviar tarjetas de felicitación a tus amigos y a tu familia - cumpleaños, festividades, el año nuevo o sólo para decir 'hola'. Este año, haz tus propias tarjetas de felicitación en lugar de comprarlas.
 
 ## Preparación
-1. Reúne papel reciclado y materiales de manualidades.
-2. Busca ejemplos de tarjetas hechas a mano.
-3. Organiza el espacio de trabajo.
+1. Reuní papel reciclado y materiales de manualidades.
+2. Buscá ejemplos de tarjetas hechas a mano.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Usa papel reciclado para crear tus tarjetas.
-2. Decora tus tarjetas con materiales reciclados.
-3. Escribe un mensaje personal dentro de cada tarjeta.
-4. Explica en la parte trasera de la tarjeta que usaste papel reciclado y por qué es importante para el cambio climático.
+1. Usá papel reciclado para crear tus tarjetas.
+2. Decorá tus tarjetas con materiales reciclados.
+3. Escribí un mensaje personal dentro de cada tarjeta.
+4. Explicá en la parte trasera de la tarjeta que usaste papel reciclado y por qué es importante para el cambio climático.
 
 ## Cierre
-1. Comparte tus tarjetas con el grupo.
-2. Envía tus tarjetas a amigos y familiares.
+1. Compartí tus tarjetas con el grupo.
+2. Enviá tus tarjetas a amigos y familiares.
 3. Pregunta final: ¿Cómo podemos reducir el uso de papel en nuestra vida diaria?
 
 ## Texto original completo de la actividad

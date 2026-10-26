@@ -4,7 +4,7 @@ title: "Activismo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/activismo/"
-description: "Firma la petición para acabar con el hambre y difunde el mensaje a través de redes sociales."
+description: "Firmá la petición para acabar con el hambre y difundí el mensaje a través de redes sociales."
 summary: "Activismo en redes contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,22 +170,22 @@ rama_rovers:
 # Activismo
 
 ## Resumen
-Firma la petición para acabar con el hambre y difunde el mensaje a través de redes sociales.
+Firmá la petición para acabar con el hambre y difundí el mensaje a través de redes sociales.
 
 ## Preparación
-1. Accede a la petición en: www.endinghunger.org/es/act-petition.html.
-2. Prepara tus dispositivos para compartir en redes.
-3. Piensa en formas creativas de difundir el mensaje.
+1. Accedé a la petición en: www.endinghunger.org/es/act-petition.html.
+2. Prepará tus dispositivos para compartir en redes.
+3. Pensá en formas creativas de difundir el mensaje.
 
 ## Desarrollo
-1. **Petición** (10 min): Firma la petición para acabar con el hambre.
-2. **Difusión** (15 min): Comparte la petición en redes sociales.
-3. **Movilización** (15 min): Anima a amigos y familia a firmar.
-4. **Ideas** (15 min): Piensa en otras formas de activismo.
+1. **Petición** (10 min): Firmá la petición para acabar con el hambre.
+2. **Difusión** (15 min): Compartí la petición en redes sociales.
+3. **Movilización** (15 min): Animá a amigos y familia a firmar.
+4. **Ideas** (15 min): Pensá en otras formas de activismo.
 
 ## Cierre
 - ¿Por qué es importante firmar peticiones?
-- ¿Cómo puedes seguir siendo un activista?
+- ¿Cómo podés seguir siendo un activista?
 - ¿Qué compromiso adquieres para seguir apoyando la lucha contra el hambre?
 
 ---

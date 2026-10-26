@@ -4,8 +4,8 @@ title: "Canción de viento o sol"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-viento-o-sol/"
-description: "Crea una canción sobre energía eólica usando la melodía de 'Blowing in the Wind' o sobre energía solar con 'Here Comes the Sun'."
-summary: "Canta sobre energías renovables."
+description: "Creá una canción sobre energía eólica usando la melodía de 'Blowing in the Wind' o sobre energía solar con 'Here Comés the Sun'."
+summary: "Cantá sobre energías renovables."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,22 +161,22 @@ translation_notice:
 # ¡Canción de viento o sol!
 
 ## Resumen
-¡Usa la música para aprender sobre energías renovables! Crea una canción sobre energía eólica usando el estribillo de "Blowing in the Wind" de Bob Dylan, o sobre energía solar con "Here Comes the Sun" de The Beatles.
+¡Usá la música para aprender sobre energías renovables! Creá una canción sobre energía eólica usando el estribillo de "Blowing in the Wind" de Bob Dylan, o sobre energía solar con "Here Comés the Sun" de The Beatles.
 
 ## Preparación
-1. Lee la información sobre energía eólica y solar.
-2. Escucha las canciones originales para conocer la melodía.
-3. Prepara papel y lápiz para escribir la letra.
+1. Leé la información sobre energía eólica y solar.
+2. Escuchá las canciones originales para conocer la melodía.
+3. Prepará papel y lápiz para escribir la letra.
 
 ## Desarrollo
 
 ### Parte I - Elegir tema
-Elige una energía renovable:
+Elegí una energía renovable:
 - **Energía eólica**: usa "Blowing in the Wind"
-- **Energía solar**: usa "Here Comes the Sun"
+- **Energía solar**: usa "Here Comés the Sun"
 
 ### Parte II - Escribir la canción
-Escribe una nueva letra sobre la energía elegida.
+Escribí una nueva letra sobre la energía elegida.
 
 **Ideas para la letra:**
 - Cómo funciona la energía
@@ -185,7 +185,7 @@ Escribe una nueva letra sobre la energía elegida.
 - Cómo podemos usarla más
 
 ### Parte III - Compartir
-Canta tu canción con el grupo.
+Cantá tu canción con el grupo.
 
 ## Cierre
 1. ¿Qué energía fue más fácil de escribir?

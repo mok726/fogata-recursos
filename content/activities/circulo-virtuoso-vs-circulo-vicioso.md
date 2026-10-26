@@ -4,7 +4,7 @@ title: "Círculo Virtuoso vs. Círculo Vicioso"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/circulo-virtuoso-vs-circulo-vicioso/"
-description: "Crea una pancarta con dos columnas para comparar el círculo virtuoso y el círculo vicioso de la trampa del hambre."
+description: "Creá una pancarta con dos columnas para comparar el círculo virtuoso y el círculo vicioso de la trampa del hambre."
 summary: "Comparación entre círculo virtuoso y círculo vicioso."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,18 +164,18 @@ rama_rovers:
 # Círculo Virtuoso vs. Círculo Vicioso
 
 ## Resumen
-Crea una pancarta con dos columnas para comparar el círculo virtuoso y el círculo vicioso de la trampa del hambre.
+Creá una pancarta con dos columnas para comparar el círculo virtuoso y el círculo vicioso de la trampa del hambre.
 
 ## Preparación
-1. Prepara una pancarta grande con dos columnas.
-2. Escribe tarjetas con acciones que conducen al círculo virtuoso y al círculo vicioso.
-3. Prepara marcadores.
+1. Prepará una pancarta grande con dos columnas.
+2. Escribí tarjetas con acciones que conducen al círculo virtuoso y al círculo vicioso.
+3. Prepará marcadores.
 
 ## Desarrollo
-1. **Preparación** (10 min): Dibuja dos círculos en la pancarta.
-2. **Clasificación** (20 min): Clasifica las tarjetas en cada círculo.
-3. **Conexión** (15 min): Conecta las acciones con sus consecuencias.
-4. **Presentación** (10 min): Comparte tu pancarta con el grupo.
+1. **Preparación** (10 min): Dibujá dos círculos en la pancarta.
+2. **Clasificación** (20 min): Clasificá las tarjetas en cada círculo.
+3. **Conexión** (15 min): Conectá las acciones con sus consecuencias.
+4. **Presentación** (10 min): Compartí tu pancarta con el grupo.
 
 ## Cierre
 - ¿Qué acciones te llevan al círculo virtuoso?

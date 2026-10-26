@@ -4,8 +4,8 @@ title: "Energía en mi rutina"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-mi-rutina/"
-description: "Explica qué es la energía con tus propias palabras y analiza tus actividades diarias identificando qué formas de energía usas en cada una."
-summary: "Descubre la energía en tu vida cotidiana."
+description: "Explicá qué es la energía con tus propias palabras y analizá tus actividades diarias identificando qué formas de energía usás en cada una."
+summary: "Descubrí la energía en tu vida cotidiana."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,17 +161,17 @@ translation_notice:
 # ¡Energía en mi rutina!
 
 ## Resumen
-¿Qué es la energía? Intenta explicarlo con tus propias palabras. Luego, escribe o dibuja las actividades que haces cada día e identifica qué formas de energía usas en cada una.
+¿Qué es la energía? Intentá explicarlo con tus propias palabras. Luego, escribí o dibujá las actividades que hacés cada día e identificá qué formas de energía usás en cada una.
 
 ## Preparación
-1. Lee la información sobre formas de energía en la sección de información de fondo.
-2. Prepara papel y lápices para escribir y dibujar.
-3. Piensa en tu día típico.
+1. Leé la información sobre formas de energía en la sección de información de fondo.
+2. Prepará papel y lápices para escribir y dibujar.
+3. Pensá en tu día típico.
 
 ## Desarrollo
 
 ### Parte I - Explicar
-¿Qué es la energía? Explica con tus propias palabras.
+¿Qué es la energía? Explicá con tus propias palabras.
 
 **Ideas para empezar:**
 - Energía es la capacidad de hacer trabajo
@@ -193,7 +193,7 @@ En una hoja de papel, escribe o dibuja tus actividades diarias:
 ¿Cómo contribuye la energía del Sol a tus actividades diarias?
 
 ### Parte IV - Presentación
-Elige una actividad diaria y preséntala al grupo explicando qué formas de energía están involucradas y cómo se convierten de una forma a otra.
+Elegí una actividad diaria y presentala al grupo explicando qué formas de energía están involucradas y cómo se convierten de una forma a otra.
 
 ## Cierre
 1. ¿Qué actividad usa más energía en tu día?

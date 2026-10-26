@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-por-todas-partes/"
 description: "Los participantes reflexionan sobre la cantidad de agua dulce disponible en la Tierra y aprenden sobre la distribución del agua en el planeta."
-summary: "Descubre cuánta agua dulce hay realmente en el mundo."
+summary: "Descubrí cuánta agua dulce hay realmente en el mundo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,28 +166,28 @@ translation_notice:
 ¿Has notado que nuestro planeta es azul? ¡Eso es porque el 70 por ciento está cubierto de agua! Sin embargo, del total de agua de la Tierra, el 97.5 por ciento es agua salada y solo el 2.5 por ciento es agua dulce. Además, casi el 70 por ciento de esta agua dulce está congelada en glaciares y casquetes polares; esto significa que menos del 1 por ciento del agua del mundo está disponible para humanos, animales, plantas y todas las demás formas de vida.
 
 ## Preparación
-1. Consigue un globo terráqueo.
-2. Prepara agua, una cuchara y dos vasos medidores.
-3. Asegúrate de tener una superficie para trabajar.
+1. Conseguí un globo terráqueo.
+2. Prepará agua, una cuchara y dos vasos medidores.
+3. Asegurate de tener una superficie para trabajar.
 
 ## Desarrollo
 
 ### Parte I - Observación
-1. Usa el globo terráqueo para identificar todas las fuentes de agua que puedas encontrar: océanos, ríos, lagos, casquetes polares, estanques... Explica que estas se llaman aguas superficiales.
-2. Pregunta a los participantes si creen que hay más agua o más tierra en el globo. ¿Hay agua debajo de la superficie del suelo que no podemos ver en el globo?
-3. Pregunta a tu grupo si saben qué tipos de cuerpos de agua son salados y cuáles son dulces. ¿Alguna vez han probado agua salada? ¿Estaba buena?
+1. Usá el globo terráqueo para identificar todas las fuentes de agua que puedas encontrar: océanos, ríos, lagos, casquetes polares, estanques... Explicá que estas se llaman aguas superficiales.
+2. Preguntá a los participantes si creen que hay más agua o más tierra en el globo. ¿Hay agua debajo de la superficie del suelo que no podemos ver en el globo?
+3. Preguntá a tu grupo si saben qué tipos de cuerpos de agua son salados y cuáles son dulces. ¿Alguna vez han probado agua salada? ¿Estaba buena?
 
 ### Parte II - Demostración
-4. Recuerda que el 97.5 por ciento del agua está en el océano, por lo que no podemos usarla porque es salada. Esto deja solo el 2.5 por ciento de agua dulce potable, pero casi el 70 por ciento de esta agua está congelada en casquetes polares y glaciares, por lo que menos del 1 por ciento es agua dulce que podemos usar.
-5. Explica a tu grupo que tratarás de mostrarles cómo se divide el agua en nuestro mundo. Vierte 2200 ml de agua en un vaso; esto representará el total de agua en la Tierra.
-6. Saca 12 cucharadas de agua de esos 2200 ml; el agua restante representará el agua salada de los océanos y mares.
+4. Recordá que el 97.5 por ciento del agua está en el océano, por lo que no podemos usarla porque es salada. Esto deja solo el 2.5 por ciento de agua dulce potable, pero casi el 70 por ciento de esta agua está congelada en casquetes polares y glaciares, por lo que menos del 1 por ciento es agua dulce que podemos usar.
+5. Explicá a tu grupo que tratarás de mostrarles cómo se divide el agua en nuestro mundo. Verté 2200 ml de agua en un vaso; esto representará el total de agua en la Tierra.
+6. Sacá 12 cucharadas de agua de esos 2200 ml; el agua restante representará el agua salada de los océanos y mares.
 7. Ahora, las 12 cucharadas de agua se dividirán de la siguiente manera: nueve cucharadas representan los casquetes polares y glaciares, dos cucharadas representan el agua subterránea, media cucharada representa el agua dulce de los lagos y una gota de agua representa el agua de los ríos.
 
 ## Cierre
 - ¿Por qué se llama a la Tierra el 'planeta agua'?
-- Ahora que sabes cuánta agua dulce tiene nuestro mundo, ¿crees que necesitas cambiar tus hábitos con el agua? ¿Por qué?
-- ¿Crees que la vida sin agua es posible? ¿Por qué?
-- ¿Puedes nombrar algunos beneficios del agua?
+- Ahora que sabés cuánta agua dulce tiene nuestro mundo, ¿creés que necesitás cambiar tus hábitos con el agua? ¿Por qué?
+- ¿Creés que la vida sin agua es posible? ¿Por qué?
+- ¿Podés nombrar algunos beneficios del agua?
 
 ## Texto original completo de la actividad
 

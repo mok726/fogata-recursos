@@ -4,7 +4,7 @@ title: "¡Menos Basura!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-basura-bosques/"
-description: "Visita un bosque de tu área y busca basura y otros tipos de desechos. Piensa en cómo puedes deshacerte de la basura y ayudar a prevenir que se tire más basura en los bosques."
+description: "Visitá un bosque de tu área y buscá basura y otros tipos de desechos. Pensá en cómo podés deshacerte de la basura y ayudar a prevenir que se tire más basura en los bosques."
 summary: "Recolección de basura en el bosque para concientizar sobre la contaminación."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,19 +169,19 @@ rama_rovers:
 # ¡Menos Basura!
 
 ## Resumen
-Visita un bosque de tu área y busca basura y otros tipos de desechos. Piensa en cómo puedes deshacerte de la basura y ayudar a prevenir que se tire más basura en los bosques.
+Visitá un bosque de tu área y buscá basura y otros tipos de desechos. Pensá en cómo podés deshacerte de la basura y ayudar a prevenir que se tire más basura en los bosques.
 
 ## Preparación
-1. Identifica un bosque o área natural cercana donde haya basura para recolectar.
-2. Consigue los materiales necesarios: guantes, prendas de protección, bolsas para basura.
-3. Asegúrate de contar con la supervisión de un adulto responsable.
+1. Identificá un bosque o área natural cercana donde haya basura para recolectar.
+2. Conseguí los materiales necesarios: guantes, prendas de protección, bolsas para basura.
+3. Asegurate de contar con la supervisión de un adulto responsable.
 4. Si es necesario, obtén permisos para realizar la actividad en el área seleccionada.
 
 ## Desarrollo
-1. **Observación** (10 min): Visita el bosque y observa la basura y desechos presentes. Reflexiona sobre cómo la naturaleza descompone algunos materiales (ej. vasos de papel) mientras otros permanecen (ej. vidrio, plástico).
-2. **Recolección** (30-45 min): Recoge la basura cuidadosamente, usando guantes y protección. Separa los materiales reciclables si es posible.
+1. **Observación** (10 min): Visitá el bosque y observá la basura y desechos presentes. Reflexioná sobre cómo la naturaleza descompone algunos materiales (ej. vasos de papel) mientras otros permanecen (ej. vidrio, plástico).
+2. **Recolección** (30-45 min): Recogé la basura cuidadosamente, usando guantes y protección. Separa los materiales reciclables si es posible.
 3. **Eliminación** (15 min): Deshazte de la basura apropiadamente en un tacho de basura o centro de reciclaje.
-4. **Reflexión** (15 min): Comparte tus ideas con tu familia y amigos sobre cómo prevenir que se tire más basura en los bosques.
+4. **Reflexión** (15 min): Compartí tus ideas con tu familia y amigos sobre cómo prevenir que se tire más basura en los bosques.
 
 ## Cierre
 - ¿Qué tipos de basura encontraste y cuáles te sorprendieron más?

@@ -1,9 +1,9 @@
 ---
-title: "Haz un Modelo de un Volcán"
+title: "Hacé un Modelo de un Volcán"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-un-modelo-de-un-volcan/"
-description: "Construye un modelo de volcán casero y aprende datos interesantes sobre volcanes."
+description: "Construí un modelo de volcán casero y aprendé datos interesantes sobre volcanes."
 summary: "Modelo de volcán casero."
 
 author:
@@ -152,21 +152,21 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles en la vida cotidiana.
 ---
 
-# ¡Haz un Modelo de un Volcán!
+# ¡Hacé un Modelo de un Volcán!
 
 ## Resumen
-Construye un volcán casero y aprende datos interesantes sobre cómo funcionan los volcanes.
+Construí un volcán casero y aprendé datos interesantes sobre cómo funcionan los volcanes.
 
 ## Preparación
-1. Reúne los materiales para el modelo de volcán.
-2. Prepara el área de trabajo.
-3. Busca datos interesantes sobre volcanes.
+1. Reuní los materiales para el modelo de volcán.
+2. Prepará el área de trabajo.
+3. Buscá datos interesantes sobre volcanes.
 
 ## Desarrollo
-1. **Construcción** (30 min): Sigue las instrucciones para hacer el volcán.
-2. **Investigación** (15 min): Busca datos interesantes sobre volcanes.
-3. **Presentación** (10 min): Comparte lo que aprendiste.
-4. **Experimento** (5 min): Haz "erupcionar" tu volcán.
+1. **Construcción** (30 min): Seguí las instrucciones para hacer el volcán.
+2. **Investigación** (15 min): Buscá datos interesantes sobre volcanes.
+3. **Presentación** (10 min): Compartí lo que aprendiste.
+4. **Experimento** (5 min): Hacé "erupcionar" tu volcán.
 
 ## Cierre
 - ¿Qué aprendiste sobre los volcanes?

@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-alrededor-del-mundo-agua/"
 description: "Los participantes exploran la distribución del agua en el mundo y reflexionan sobre las diferencias en el acceso al agua entre países y continentes."
-summary: "Descubre cómo se distribuye el agua en el mundo."
+summary: "Descubrí cómo se distribuye el agua en el mundo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,19 +166,19 @@ translation_notice:
 El agua está distribuida de manera desigual alrededor del mundo. Algunos países tienen abundancia de agua, mientras que otros sufren escasez. En esta actividad, los participantes exploran un mapa mundial y descubren las diferencias en el acceso al agua entre continentes y países.
 
 ## Preparación
-1. Coloca un mapa mundial visible para todo el grupo.
-2. Prepara papel y lápices para tomar notas.
-3. Divide a los participantes en grupos pequeños.
+1. Colocá un mapa mundial visible para todo el grupo.
+2. Prepará papel y lápices para tomar notas.
+3. Dividí a los participantes en grupos pequeños.
 
 ## Desarrollo
 
 ### Parte I - Exploración del mapa
-1. Observa el mapa mundial con tu grupo.
-2. Identifica los principales océanos, mares, ríos y lagos.
+1. Observá el mapa mundial con tu grupo.
+2. Identificá los principales océanos, mares, ríos y lagos.
 3. ¿Qué continentes tienen más agua? ¿Cuáles tienen menos?
 
 ### Parte II - Investigación
-Investiga sobre el acceso al agua en diferentes países:
+Investigá sobre el acceso al agua en diferentes países:
 
 **Preguntas guía:**
 - ¿Qué países tienen abundancia de agua?
@@ -191,7 +191,7 @@ Compartan sus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué país te sorprendió más por su situación con el agua?
-- ¿Por qué crees que el agua no está distribuida de manera igualitaria?
+- ¿Por qué creés que el agua no está distribuida de manera igualitaria?
 - ¿Qué podemos hacer para ayudar a quienes no tienen acceso a agua limpia?
 
 ## Texto original completo de la actividad

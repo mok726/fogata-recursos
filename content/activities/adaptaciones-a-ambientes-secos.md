@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Adaptaciones a ambientes secos!
 
 ## Resumen
-Aprende sobre modificaciones inusuales que las plantas y los animales han desarrollado para adaptarse a ambientes donde es difícil encontrar agua. Encuentra cinco ejemplos de plantas y cinco ejemplos de animales. Presenta estos ejemplos a tu grupo.
+Aprendé sobre modificaciones inusuales que las plantas y los animales han desarrollado para adaptarse a ambientes donde es difícil encontrar agua. Encontrá cinco ejemplos de plantas y cinco ejemplos de animales. Presentá estos ejemplos a tu grupo.
 
 ## Preparación
-1. Investiga sobre adaptaciones a la sequía.
-2. Prepara ejemplos de plantas y animales.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre adaptaciones a la sequía.
+2. Prepará ejemplos de plantas y animales.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga adaptaciones de plantas a ambientes secos.
-2. Investiga adaptaciones de animales a ambientes secos.
-3. Selecciona cinco ejemplos de plantas y cinco de animales.
-4. Prepara tu presentación.
+1. Investigá adaptaciones de plantas a ambientes secos.
+2. Investigá adaptaciones de animales a ambientes secos.
+3. Seleccioná cinco ejemplos de plantas y cinco de animales.
+4. Prepará tu presentación.
 
 ## Cierre
-1. Presenta tus ejemplos al grupo.
-2. Discute: ¿Qué adaptaciones son más sorprendentes?
+1. Presentá tus ejemplos al grupo.
+2. Discutí: ¿Qué adaptaciones son más sorprendentes?
 3. Pregunta final: ¿Cómo pueden estas adaptaciones ayudarnos a enfrentar el cambio climático?
 
 ## Texto original completo de la actividad

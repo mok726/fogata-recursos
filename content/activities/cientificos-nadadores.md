@@ -3,7 +3,7 @@ title: "Científicos Nadadores"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cientificos-nadadores/"
-description: "Observa la vida bajo el agua nadando en un río, lago o mar."
+description: "Observá la vida bajo el agua nadando en un río, lago o mar."
 summary: "Observación subacuática de la vida marina."
 
 author:
@@ -148,15 +148,15 @@ rama_rovers:
 Nada en un río, lago o mar seguro para observar la vida bajo el agua y registrar tus descubrimientos.
 
 ## Preparación
-1. Encuentra un lugar seguro para nadar.
-2. Prepara antiparras.
-3. Asegura supervisión adulta.
+1. Encontrá un lugar seguro para nadar.
+2. Prepará antiparras.
+3. Asegurá supervisión adulta.
 
 ## Desarrollo
-1. **Preparación** (10 min): Solo para quienes saben nadar, con supervisión adulta (idealmente guardavidas) y en un lugar habilitado. Revisa el equipo y las medidas de seguridad.
+1. **Preparación** (10 min): Solo para quienes saben nadar, con supervisión adulta (idealmente guardavidas) y en un lugar habilitado. Revisá el equipo y las medidas de seguridad.
 2. **Observación** (20 min): Nada y observa la vida subacuática.
-3. **Registro** (10 min): Dibuja lo que viste.
-4. **Compartir** (5 min): Comparte tus dibujos con el grupo.
+3. **Registro** (10 min): Dibujá lo que viste.
+4. **Compartir** (5 min): Compartí tus dibujos con el grupo.
 
 ## Cierre
 - ¿Qué viste bajo el agua?

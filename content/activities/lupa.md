@@ -3,7 +3,7 @@ title: "Lupa"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lupa/"
-description: "Observa la vida microscópica en un arroyo o estanque."
+description: "Observá la vida microscópica en un arroyo o estanque."
 summary: "Observación microscópica de agua."
 
 author:
@@ -144,17 +144,17 @@ rama_rovers: []
 # ¡Lupa!
 
 ## Resumen
-Observa la vida microscópica dentro de un arroyo o estanque usando una lupa o microscopio.
+Observá la vida microscópica dentro de un arroyo o estanque usando una lupa o microscopio.
 
 ## Preparación
-1. Encuentra un arroyo o estanque para tomar una muestra.
-2. Prepara la lupa o microscopio.
-3. Prepara papel para dibujar.
+1. Encontrá un arroyo o estanque para tomar una muestra.
+2. Prepará la lupa o microscopio.
+3. Prepará papel para dibujar.
 
 ## Desarrollo
-1. **Muestra** (10 min): Toma una muestra de agua del arroyo.
-2. **Observación** (20 min): Examina la muestra bajo la lupa.
-3. **Dibujo** (10 min): Dibuja lo que ves.
+1. **Muestra** (10 min): Tomá una muestra de agua del arroyo.
+2. **Observación** (20 min): Examiná la muestra bajo la lupa.
+3. **Dibujo** (10 min): Dibujá lo que ves.
 4. **Devolución** (5 min): Devuelve el agua y las criaturas al arroyo.
 
 ## Cierre

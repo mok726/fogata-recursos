@@ -168,22 +168,22 @@ rama_rovers:
 # ¡Alimentador de aves!
 
 ## Resumen
-Prepara un alimentador de aves con materiales reciclados. Averigua qué tipos de alimentos prefieren las diferentes especies de aves (por ejemplo, a algunas les gusta la fruta y a otras las semillas).
+Prepará un alimentador de aves con materiales reciclados. Averiguá qué tipos de alimentos prefieren las diferentes especies de aves (por ejemplo, a algunas les gusta la fruta y a otras las semillas).
 
 ## Preparación
-1. Reúne materiales reciclados para el alimentador.
-2. Investiga qué alimentos prefieren las aves de tu área.
-3. Elige un lugar seguro para colocar el alimentador.
+1. Reuní materiales reciclados para el alimentador.
+2. Investigá qué alimentos prefieren las aves de tu área.
+3. Elegí un lugar seguro para colocar el alimentador.
 
 ## Desarrollo
-1. Construye el alimentador con materiales reciclados.
-2. Coloca el alimento para aves autóctonas (nativas) en tu área.
-3. Coloca el alimentador en un lugar libre de predadores.
-4. Registra el número y el tipo de aves que visitan durante dos semanas.
+1. Construí el alimentador con materiales reciclados.
+2. Colocá el alimento para aves autóctonas (nativas) en tu área.
+3. Colocá el alimentador en un lugar libre de predadores.
+4. Registrá el número y el tipo de aves que visitan durante dos semanas.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué aves visitaron tu alimentador?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué aves visitaron tu alimentador?
 3. Pregunta final: ¿Cómo podemos ayudar a las aves en nuestra comunidad?
 
 ## Texto original completo de la actividad

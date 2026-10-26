@@ -3,7 +3,7 @@ title: "Es Difícil Pasarse del H₂O"
 duration: "1 día + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-dificil-pasarse-del-h2o/"
-description: "Experimenta un día sin usar agua para entender la realidad de quienes no tienen acceso."
+description: "Experimentá un día sin usar agua para entender la realidad de quienes no tienen acceso."
 summary: "Desafío de un día sin usar agua."
 
 author:
@@ -149,24 +149,24 @@ rama_rovers:
 # ¡Es Difícil Pasarse del H₂O!
 
 ## Resumen
-Intenta pasar un día sin usar agua (excepto para beber) para entender lo que millones de personas enfrentan a diario.
+Intentá pasar un día sin usar agua (excepto para beber) para entender lo que millones de personas enfrentan a diario.
 
 ## Preparación
-- Asegúrate de tener agua para beber.
-- Prepara un diario para registrar tu experiencia.
-- Informa a tu familia sobre el desafío.
+- Asegurate de tener agua para beber.
+- Prepará un diario para registrar tu experiencia.
+- Informá a tu familia sobre el desafío.
 
 ## Desarrollo
-1. **Desafío** (1 día): Evita usar agua para todo excepto beber.
-2. **Registro** (durante el día): Anota cómo te afecta no tener agua.
+1. **Desafío** (1 día): Evitá usar agua para todo excepto beber.
+2. **Registro** (durante el día): Anotá cómo te afecta no tener agua.
 3. **Reflexión** (20 min): ¿Qué fue lo más difícil? ¿Qué extrañaste más?
-4. **Compromiso** (10 min): Elige un área clave para reducir tu uso de agua.
-5. **Seguimiento** (1 semana): Revisa tu progreso semanalmente.
+4. **Compromiso** (10 min): Elegí un área clave para reducir tu uso de agua.
+5. **Seguimiento** (1 semana): Revisá tu progreso semanalmente.
 
 ## Cierre
 - ¿Cómo te sentiste al no poder usar agua?
 - ¿Qué fue lo que más extrañaste?
-- ¿Qué puedes hacer para ayudar a quienes no tienen acceso al agua?
+- ¿Qué podés hacer para ayudar a quienes no tienen acceso al agua?
 
 ---
 ## Texto original completo de la actividad

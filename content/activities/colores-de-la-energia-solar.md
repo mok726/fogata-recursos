@@ -4,8 +4,8 @@ title: "Los colores de la energía solar"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/colores-de-la-energia-solar/"
-description: "Experimenta cómo diferentes colores absorben la luz del Sol colocando botellas pintadas de distintos colores al sol y midiendo su temperatura."
-summary: "Descubre cómo los colores absorben el calor del Sol."
+description: "Experimentá cómo diferentes colores absorben la luz del Sol colocando botellas pintadas de distintos colores al sol y midiendo su temperatura."
+summary: "Descubrí cómo los colores absorben el calor del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

@@ -165,19 +165,19 @@ rama_rovers:
 Organicen una fiesta de máscaras. Soliciten a todos que se presenten con un disfraz de un animal que vive en el mar. Pidan a cada persona que presente tres datos sobre la especie que eligió. Jueguen juegos relacionados con el agua.
 
 ## Preparación
-1. Planifica la fiesta.
-2. Prepara materiales para disfraces.
-3. Organiza juegos relacionados con el agua.
+1. Planificá la fiesta.
+2. Prepará materiales para disfraces.
+3. Organizá juegos relacionados con el agua.
 
 ## Desarrollo
 1. Cada participante elige un animal marino.
-2. Crea un disfraz o máscara del animal.
-3. Presenta tres datos sobre tu especie.
-4. Participa en juegos relacionados con el agua.
+2. Creá un disfraz o máscara del animal.
+3. Presentá tres datos sobre tu especie.
+4. Participá en juegos relacionados con el agua.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué aprendiste sobre los animales marinos?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué aprendiste sobre los animales marinos?
 3. Pregunta final: ¿Qué animal marino te gustaría ser y por qué?
 
 ## Texto original completo de la actividad

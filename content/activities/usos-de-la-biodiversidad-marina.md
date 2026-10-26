@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Usos de la biodiversidad marina!
 
 ## Resumen
-La biodiversidad de los océanos ofrece al hombre varios alimentos nutritivos, incluyendo alimentos a base de plantas. Elabora un póster o un dibujo de todos los diferentes usos que los seres humanos le dan a la biodiversidad marina.
+La biodiversidad de los océanos ofrece al hombre varios alimentos nutritivos, incluyendo alimentos a base de plantas. Elaborá un póster o un dibujo de todos los diferentes usos que los seres humanos le dan a la biodiversidad marina.
 
 ## Preparación
-1. Investiga sobre usos de la biodiversidad marina.
-2. Prepara materiales para el póster.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre usos de la biodiversidad marina.
+2. Prepará materiales para el póster.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga los diferentes usos de la biodiversidad marina.
-2. Identifica alimentos, medicinas y otros productos.
-3. Elabora un póster o dibujo mostrando todos los usos.
-4. Incluye ejemplos concretos de cada uso.
+1. Investigá los diferentes usos de la biodiversidad marina.
+2. Identificá alimentos, medicinas y otros productos.
+3. Elaborá un póster o dibujo mostrando todos los usos.
+4. Incluí ejemplos concretos de cada uso.
 
 ## Cierre
-1. Comparte tu póster con el grupo.
-2. Reflexiona: ¿Cómo depende nuestra vida de la biodiversidad marina?
+1. Compartí tu póster con el grupo.
+2. Reflexioná: ¿Cómo depende nuestra vida de la biodiversidad marina?
 3. Pregunta final: ¿Qué podemos hacer para proteger los océanos?
 
 ## Texto original completo de la actividad

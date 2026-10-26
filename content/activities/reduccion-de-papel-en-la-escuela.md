@@ -3,7 +3,7 @@ title: "Reducción de papel en la escuela"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduccion-de-papel-en-la-escuela/"
-description: "Reduce el uso de papel en la escuela."
+description: "Reducí el uso de papel en la escuela."
 summary: "Reducción de papel escolar."
 
 author:
@@ -141,22 +141,22 @@ rama_rovers: []
 # ¡Reducción de papel en la escuela!
 
 ## Resumen
-Reduce el uso de papel en la escuela imprimiendo en ambos lados y usando correo electrónico.
+Reducí el uso de papel en la escuela imprimiendo en ambos lados y usando correo electrónico.
 
 ## Preparación
-- Habla con tus maestros sobre el proyecto.
-- Identifica áreas donde se usa mucho papel.
+- Hablá con tus maestros sobre el proyecto.
+- Identificá áreas donde se usa mucho papel.
 
 ## Desarrollo
-1. **Acción** (continua): Usa tan poco papel como puedas.
-2. **Impresión** (continua): Imprime en ambos lados.
-3. **Digital** (continua): Usa correo electrónico.
-4. **Compartir** (10 min): Comparte tu experiencia con el grupo.
+1. **Acción** (continua): Usá tan poco papel como puedas.
+2. **Impresión** (continua): Imprimí en ambos lados.
+3. **Digital** (continua): Usá correo electrónico.
+4. **Compartir** (10 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Cuánto papel lograste ahorrar?
 - ¿Qué fue lo más fácil y lo más difícil?
-- ¿Cómo te sientes al reducir el consumo de papel?
+- ¿Cómo te sentís al reducir el consumo de papel?
 
 ---
 ## Texto original completo de la actividad

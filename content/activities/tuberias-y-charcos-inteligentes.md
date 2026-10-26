@@ -167,16 +167,16 @@ translation_notice:
 Te preguntarás por qué hay tanta diferencia en la disponibilidad de agua. Algunas razones son naturales: algunas partes del mundo reciben poca o irregular lluvia, lo que significa que no hay agua para llenar los diferentes cuerpos de agua. En otras partes, llueve durante un período corto y el agua se escurre antes de poder ser almacenada. El crecimiento de la población significa que más y más personas necesitan agua. En esta actividad, los participantes crean y juegan un juego de mesa sobre el uso inteligente del agua.
 
 ## Preparación
-1. Toma una cartulina de 100cm x 100cm y divídela en una cuadrícula de 10x10 (100 casillas).
-2. Numera las casillas comenzando desde la esquina inferior izquierda como 1 y continúa en zigzag hasta la esquina superior izquierda.
-3. Dibuja los charcos y tuberías según las instrucciones.
+1. Tomá una cartulina de 100cm x 100cm y dividila en una cuadrícula de 10x10 (100 casillas).
+2. Numerá las casillas comenzando desde la esquina inferior izquierda como 1 y continuá en zigzag hasta la esquina superior izquierda.
+3. Dibujá los charcos y tuberías según las instrucciones.
 
 ## Desarrollo
 
 ### Paso 1: Diseño del juego
-1. Pide a los participantes que te ayuden a crear el tablero de juego.
-2. Dibuja diez charcos de agua en las siguientes casillas: 13, 16, 35, 46, 51, 60, 65, 72, 81, 87.
-3. Escribe una de las siguientes ideas en cada charco (si caes en un charco, debes retroceder):
+1. Pedí a los participantes que te ayuden a crear el tablero de juego.
+2. Dibujá diez charcos de agua en las siguientes casillas: 13, 16, 35, 46, 51, 60, 65, 72, 81, 87.
+3. Escribí una de las siguientes ideas en cada charco (si caés en un charco, debés retroceder):
 
 - **13:** Dejaste la canilla goteando, ¡vuelve al Inicio!
 - **16:** Tomaste un baño largo en lugar de una ducha corta, ¡vuelve a la casilla 9!
@@ -189,34 +189,34 @@ Te preguntarás por qué hay tanta diferencia en la disponibilidad de agua. Algu
 - **81:** Tiraste aceite viejo por el desagüe, ¡vuelve a la casilla 73!
 - **87:** Dejaste la canilla abierta mientras te cepillabas los dientes, ¡vuelve a la casilla 77!
 
-4. Dibuja ocho tuberías que conecten diferentes casillas. Si caes en una tubería, ¡puedes subir por ella!
+4. Dibujá ocho tuberías que conecten diferentes casillas. Si caés en una tubería, ¡podés subir por ella!
 
 5. En las siguientes diez casillas (3, 11, 23, 30, 45, 59, 66, 78, 84, 91) escribe las siguientes instrucciones:
 
-- **3:** Respetas el agua, ¡avanza a la casilla 10!
+- **3:** Respetás el agua, ¡avanza a la casilla 10!
 - **11:** Te lavaste las manos sucias, ¡avanza a la casilla 26!
-- **23:** Reciclas tu basura, ¡avanza a la casilla 38!
+- **23:** Reciclás tu basura, ¡avanza a la casilla 38!
 - **30:** Tu patio trasero está lleno de plantas que ayudan a retener agua, ¡avanza a la casilla 49!
 - **45:** Regaste tu jardín al atardecer, ¡avanza a la casilla 55!
 - **59:** Pediste a tus padres que arreglaran una canilla con fuga, ¡avanza a la casilla 68!
 - **66:** La factura del agua fue pagada por tus padres, ¡avanza a la casilla 79!
-- **78:** Gracias a ti, tu comunidad está usando barriles para recolectar agua de lluvia, ¡avanza a la casilla 85!
+- **78:** Gracias a vos, tu comunidad está usando barriles para recolectar agua de lluvia, ¡avanza a la casilla 85!
 - **84:** Enseñaste a tu hermana pequeña cómo y cuándo lavarse las manos, ¡avanza a la casilla 90!
 - **91:** Convenciste a tu mamá para usar productos de limpieza no tóxicos, ¡avanza a la casilla 97!
 
-6. En la última casilla (100) escribe: "¡Eres el ganador inteligente del agua!"
+6. En la última casilla (100) escribe: "¡Sos el ganador inteligente del agua!"
 
 ### Paso 2: Juego
-7. Explica el juego. Cada jugador necesita una ficha y un dado.
-8. Tira el dado y mueve tu ficha el número de casillas que obtuviste.
-9. Si caes en una tubería, puedes subir si das una razón de cómo el agua contribuye a mantener una buena salud.
-10. Si caes en un charco, debes retroceder.
+7. Explicá el juego. Cada jugador necesita una ficha y un dado.
+8. Tirá el dado y mové tu ficha el número de casillas que obtuviste.
+9. Si caés en una tubería, podés subir si das una razón de cómo el agua contribuye a mantener una buena salud.
+10. Si caés en un charco, debés retroceder.
 11. ¡El primero en llegar a la casilla 100 es el ganador!
 
 ## Cierre
 - ¿Cómo afectan nuestras actividades cotidianas a la calidad del agua?
 - ¿Cuáles podrían ser las consecuencias de no tener suficiente agua para satisfacer nuestras necesidades diarias?
-- Si sabes que todos tienen derecho a disfrutar de agua limpia y fresca, ¿qué puedes hacer para ayudar a las personas que no la tienen?
+- Si sabés que todos tienen derecho a disfrutar de agua limpia y fresca, ¿qué podés hacer para ayudar a las personas que no la tienen?
 
 ## Texto original completo de la actividad
 

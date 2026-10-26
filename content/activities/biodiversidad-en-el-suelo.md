@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Biodiversidad en el suelo!
 
 ## Resumen
-Inspecciona un puñado de tierra y describe la biodiversidad que encuentres. Observa una muestra bajo una lupa o un microscopio. Dibuja las criaturas que ves.
+Inspeccioná un puñado de tierra y describí la biodiversidad que encuentres. Observá una muestra bajo una lupa o un microscopio. Dibujá las criaturas que ves.
 
 ## Preparación
-1. Reúne muestras de tierra.
-2. Prepara lupas o microscopios.
-3. Organiza el espacio de trabajo.
+1. Reuní muestras de tierra.
+2. Prepará lupas o microscopios.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Toma un puñado de tierra.
-2. Inspecciona la biodiversidad visible a simple vista.
-3. Observa la muestra bajo una lupa o microscopio.
-4. Dibuja las criaturas que encuentres.
+1. Tomá un puñado de tierra.
+2. Inspeccioná la biodiversidad visible a simple vista.
+3. Observá la muestra bajo una lupa o microscopio.
+4. Dibujá las criaturas que encuentres.
 
 ## Cierre
-1. Comparte tus dibujos con el grupo.
-2. Reflexiona: ¿Qué organismos viven en el suelo?
+1. Compartí tus dibujos con el grupo.
+2. Reflexioná: ¿Qué organismos viven en el suelo?
 3. Pregunta final: ¿Por qué es importante la biodiversidad del suelo?
 
 ## Texto original completo de la actividad

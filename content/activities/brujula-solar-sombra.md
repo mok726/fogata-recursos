@@ -4,8 +4,8 @@ title: "Brújula solar - Método de la Sombra"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-sombra/"
-description: "Aprende a orientarte usando la sombra de un palo, descubriendo una técnica simple para encontrar los puntos cardinales sin brújula."
-summary: "Encuentra los puntos cardinales con una sombra."
+description: "Aprendé a orientarte usando la sombra de un palo, descubriendo una técnica simple para encontrar los puntos cardinales sin brújula."
+summary: "Encontrá los puntos cardinales con una sombra."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

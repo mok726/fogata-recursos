@@ -3,7 +3,7 @@ title: "Ducha rápida"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/ducha-rapida/"
-description: "Toma duchas rápidas y cierra la llave mientras te jabonas."
+description: "Tomá duchas rápidas y cerrá la llave mientras te jabonás."
 summary: "Ahorro de agua en la ducha."
 
 author:
@@ -141,22 +141,22 @@ rama_rovers: []
 # ¡Ducha rápida!
 
 ## Resumen
-Toma duchas rápidas en lugar de baños, cierra la llave mientras te jabonas y recoge el agua fría.
+Tomá duchas rápidas en lugar de baños, cerrá la llave mientras te jabonás y recogé el agua fría.
 
 ## Preparación
-- Habla con tu familia sobre el proyecto.
-- Prepara un recipiente para recoger el agua fría.
+- Hablá con tu familia sobre el proyecto.
+- Prepará un recipiente para recoger el agua fría.
 
 ## Desarrollo
-1. **Acción** (continua): Toma duchas rápidas.
-2. **Ahorro** (continua): Cierra la llave mientras te jabonas.
-3. **Recolección** (continua): Recoge el agua fría para otros usos.
-4. **Convencimiento** (10 min): Anima a tu familia y amigos a seguir tu ejemplo.
+1. **Acción** (continua): Tomá duchas rápidas.
+2. **Ahorro** (continua): Cerrá la llave mientras te jabonás.
+3. **Recolección** (continua): Recogé el agua fría para otros usos.
+4. **Convencimiento** (10 min): Animá a tu familia y amigos a seguir tu ejemplo.
 
 ## Cierre
-- ¿Cuánta agua crees que ahorraste?
+- ¿Cuánta agua creés que ahorraste?
 - ¿Qué fue lo más fácil y lo más difícil?
-- ¿Cómo te sientes al ahorrar agua?
+- ¿Cómo te sentís al ahorrar agua?
 
 ---
 ## Texto original completo de la actividad

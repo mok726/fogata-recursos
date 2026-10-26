@@ -4,7 +4,7 @@ title: "Exploración Oceánica"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-oceanica/"
-description: "Investiga la expedición del HMS Challenger y escribe cartas desde la perspectiva de un miembro de la tripulación."
+description: "Investigá la expedición del HMS Challenger y escribí cartas desde la perspectiva de un miembro de la tripulación."
 summary: "Investigación sobre la expedición HMS Challenger."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,18 +170,18 @@ rama_rovers:
 # Exploración Oceánica
 
 ## Resumen
-Investiga la expedición del HMS Challenger y escribe cartas desde la perspectiva de un miembro de la tripulación.
+Investigá la expedición del HMS Challenger y escribí cartas desde la perspectiva de un miembro de la tripulación.
 
 ## Preparación
-1. Mira el video sobre la expedición del HMS Challenger.
-2. Reúne información sobre la expedición.
-3. Prepara un mapa del mundo para dibujar la ruta.
+1. Mirá el video sobre la expedición del HMS Challenger.
+2. Reuní información sobre la expedición.
+3. Prepará un mapa del mundo para dibujar la ruta.
 
 ## Desarrollo
-1. **Investigación** (15 min): Reúne información sobre la expedición HMS Challenger.
-2. **Mapa** (15 min): Dibuja la ruta de la expedición en el mapa.
-3. **Escritura** (25 min): Escribe dos cartas a casa (una como miembro de la tripulación, otra como científico).
-4. **Registro** (10 min): Anota los nombres de las nuevas especies descubiertas.
+1. **Investigación** (15 min): Reuní información sobre la expedición HMS Challenger.
+2. **Mapa** (15 min): Dibujá la ruta de la expedición en el mapa.
+3. **Escritura** (25 min): Escribí dos cartas a casa (una como miembro de la tripulación, otra como científico).
+4. **Registro** (10 min): Anotá los nombres de las nuevas especies descubiertas.
 
 ## Cierre
 - ¿Qué aprendiste sobre la expedición HMS Challenger?

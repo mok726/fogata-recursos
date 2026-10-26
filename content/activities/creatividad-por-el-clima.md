@@ -165,9 +165,9 @@ rama_rovers:
 En grupo, dediquen un día para crear sus propios materiales de aprendizaje sobre el cambio climático. Estos pueden ser carteles, folletos, artículos e incluso dibujos y poemas. Expliquen qué es el cambio climático, por qué es importante y por qué está sucediendo.
 
 ## Preparación
-1. Reúne los materiales necesarios: cartulinas, papel, lápices de colores, marcadores, pegamento, tijeras y materiales reciclados.
-2. Organiza el espacio de trabajo con mesas para que todos puedan trabajar cómodamente.
-3. Prepara información de referencia sobre el cambio climático para que los participantes puedan consultarla.
+1. Reuní los materiales necesarios: cartulinas, papel, lápices de colores, marcadores, pegamento, tijeras y materiales reciclados.
+2. Organizá el espacio de trabajo con mesas para que todos puedan trabajar cómodamente.
+3. Prepará información de referencia sobre el cambio climático para que los participantes puedan consultarla.
 
 ## Desarrollo
 1. Como grupo, discutan qué han aprendido sobre el cambio climático y qué mensajes les gustaría compartir.
@@ -178,7 +178,7 @@ En grupo, dediquen un día para crear sus propios materiales de aprendizaje sobr
 ## Cierre
 1. Reflexionen sobre el proceso creativo: ¿qué fue lo más difícil? ¿qué fue lo más divertido?
 2. Distribuyan los materiales a las escuelas o bibliotecas locales o, si es posible, carguen sus materiales en el sitio Web de su grupo juvenil o escuela.
-3. Pregunta final: ¿Cómo te sientes al compartir lo que has aprendido con otras personas?
+3. Pregunta final: ¿Cómo te sentís al compartir lo que has aprendido con otras personas?
 
 ## Texto original completo de la actividad
 A.01 CREATIVIDAD POR EL CLIMA. En grupo, dediquen un día para crear sus propios materiales de aprendizaje sobre el cambio climático. Estos pueden ser carteles, folletos, artículos e incluso dibujos y poemas. Expliquen qué es el cambio climático, por qué es importante y por qué está sucediendo. Luego, distribuyan los materiales a las escuelas o bibliotecas locales o, si es posible, carguen sus materiales en el sitio Web de su grupo juvenil o escuela.

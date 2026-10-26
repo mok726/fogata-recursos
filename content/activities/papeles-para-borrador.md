@@ -3,7 +3,7 @@ title: "Papeles para borrador"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papeles-para-borrador/"
-description: "Reúne papeles para usarlos como borrador."
+description: "Reuní papeles para usarlos como borrador."
 summary: "Reuso de papel."
 
 author:
@@ -140,19 +140,19 @@ rama_rovers: []
 # ¡Papeles para borrador!
 
 ## Resumen
-Reúne papeles usados para usarlos como borrador.
+Reuní papeles usados para usarlos como borrador.
 
 ## Preparación
-- Busca papeles que ya no necesites.
-- Organiza un lugar para guardarlos.
+- Buscá papeles que ya no necesites.
+- Organizá un lugar para guardarlos.
 
 ## Desarrollo
-1. **Recolección** (10 min): Reúne papeles usados.
+1. **Recolección** (10 min): Reuní papeles usados.
 2. **Organización** (5 min): Guárdalos para usarlos como borrador.
 
 ## Cierre
 - ¿Cuánto papel lograste reutilizar?
-- ¿Cómo te sientes al ahorrar papel?
+- ¿Cómo te sentís al ahorrar papel?
 
 ---
 ## Texto original completo de la actividad

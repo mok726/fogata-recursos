@@ -4,7 +4,7 @@ title: "Los Perfiles del Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-perfiles-del-hambre/"
-description: "Investiga la situación del hambre en tu país, identifica regiones con mayor tasa de hambre y analiza las causas."
+description: "Investigá la situación del hambre en tu país, identificá regiones con mayor tasa de hambre y analizá las causas."
 summary: "Investigación sobre el hambre en tu país."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Los Perfiles del Hambre
 
 ## Resumen
-Investiga la situación del hambre en tu país, identifica regiones con mayor tasa de hambre y analiza las causas.
+Investigá la situación del hambre en tu país, identificá regiones con mayor tasa de hambre y analizá las causas.
 
 ## Preparación
-1. Accede al sitio web de la FAO para perfiles de países: www.fao.org/countries/es.
-2. Prepara material para tomar notas.
-3. Busca estadísticas sobre pobreza y hambre en tu país.
+1. Accedé al sitio web de la FAO para perfiles de países: www.fao.org/countries/es.
+2. Prepará material para tomar notas.
+3. Buscá estadísticas sobre pobreza y hambre en tu país.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga la situación del hambre en tu país.
-2. **Análisis** (15 min): Identifica regiones con mayor tasa de hambre.
-3. **Reflexión** (15 min): Analiza las causas de la situación actual.
-4. **Propuesta** (15 min): Piensa en soluciones para cambiar esta situación.
-5. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (20 min): Investigá la situación del hambre en tu país.
+2. **Análisis** (15 min): Identificá regiones con mayor tasa de hambre.
+3. **Reflexión** (15 min): Analizá las causas de la situación actual.
+4. **Propuesta** (15 min): Pensá en soluciones para cambiar esta situación.
+5. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Cuáles son las regiones con mayor hambre en tu país?

@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Letreros para proteger arroyos!
 
 ## Resumen
-Reúnete con un representante de las autoridades locales o de un organismo de conservación local responsable de un arroyo o de un río. Invítalos a que elaboren letreros que alienten a las personas a proteger estas áreas. Ofrécete como voluntario para pintar y para ayudar a colocar dichos letreros.
+Reunite con un representante de las autoridades locales o de un organismo de conservación local responsable de un arroyo o de un río. Invitalos a que elaboren letreros que alienten a las personas a proteger estas áreas. Ofrecete como voluntario para pintar y para ayudar a colocar dichos letreros.
 
 ## Preparación
-1. Contacta a las autoridades locales.
-2. Prepara materiales para los letreros.
-3. Organiza los grupos de trabajo.
+1. Contactá a las autoridades locales.
+2. Prepará materiales para los letreros.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Reúnete con las autoridades locales.
-2. Diseña y pinta letreros.
-3. Coloca los letreros en lugares estratégicos.
-4. Invita a la comunidad a respetar las áreas protegidas.
+1. Reunite con las autoridades locales.
+2. Diseñá y pintá letreros.
+3. Colocá los letreros en lugares estratégicos.
+4. Invitá a la comunidad a respetar las áreas protegidas.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Cómo pueden los letreros ayudar a proteger los arroyos?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Cómo pueden los letreros ayudar a proteger los arroyos?
 3. Pregunta final: ¿Qué más podemos hacer para proteger el agua?
 
 ## Texto original completo de la actividad

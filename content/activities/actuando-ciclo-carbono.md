@@ -4,8 +4,8 @@ title: "Actuando el ciclo del carbono"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/actuando-ciclo-carbono/"
-description: "Aprende sobre el ciclo del carbono y crea un video, sketch o dibujo animado para explicarlo de forma creativa."
-summary: "Representa el ciclo del carbono con creatividad."
+description: "Aprendé sobre el ciclo del carbono y creá un video, sketch o dibujo animado para explicarlo de forma creativa."
+summary: "Representá el ciclo del carbono con creatividad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,17 +168,17 @@ translation_notice:
 # ¡Actuando el ciclo del carbono!
 
 ## Resumen
-Aprende sobre el ciclo del carbono y crea un video, sketch, dibujo animado u otra técnica creativa para explicarlo. ¡Presenta tu creación a tu grupo o familia!
+Aprendé sobre el ciclo del carbono y creá un video, sketch, dibujo animado u otra técnica creativa para explicarlo. ¡Presentá tu creación a tu grupo o familia!
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono en la sección de información de fondo.
-2. Piensa en una forma creativa de representar el ciclo del carbono.
-3. Reúne materiales para tu proyecto.
+1. Leé la información sobre el ciclo del carbono en la sección de información de fondo.
+2. Pensá en una forma creativa de representar el ciclo del carbono.
+3. Reuní materiales para tu proyecto.
 
 ## Desarrollo
 
 ### Parte I - Aprender
-Aprende sobre el ciclo del carbono:
+Aprendé sobre el ciclo del carbono:
 
 1. **Plantas** (productores) absorben CO₂ del aire mediante fotosíntesis
 2. **Animales** (consumidores) comen plantas y obtienen carbono
@@ -188,7 +188,7 @@ Aprende sobre el ciclo del carbono:
 6. **Quema** de combustibles libera CO₂ al aire
 
 ### Parte II - Crear
-Elige un formato creativo:
+Elegí un formato creativo:
 
 - **Sketch teatral**: actúa el ciclo con personajes
 - **Video corto**: filma una explicación creativa
@@ -196,7 +196,7 @@ Elige un formato creativo:
 - **Collage**: representa visualmente el ciclo
 
 ### Parte III - Presentar
-Comparte tu creación con tu grupo, clase o familia.
+Compartí tu creación con tu grupo, clase o familia.
 
 ## Cierre
 1. ¿Qué parte del ciclo del carbono fue más divertida de representar?

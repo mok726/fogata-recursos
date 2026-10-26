@@ -4,7 +4,7 @@ title: "Amenazas Naturales"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-naturales/"
-description: "Investiga sobre un desastre en el cual los bosques jugaron un papel importante. Presenta tus hallazgos como una nota periodística."
+description: "Investigá sobre un desastre en el cual los bosques jugaron un papel importante. Presentá tus hallazgos como una nota periodística."
 summary: "Investigación periodística sobre el rol de los bosques en desastres naturales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -117,7 +117,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -159,17 +159,17 @@ rama_rovers:
 # Amenazas Naturales
 
 ## Resumen
-Investiga sobre un desastre en el cual los bosques jugaron un papel importante. Presenta tus hallazgos como una nota periodística.
+Investigá sobre un desastre en el cual los bosques jugaron un papel importante. Presentá tus hallazgos como una nota periodística.
 
 ## Preparación
-1. Investiga desastres naturales donde los bosques hayan jugado un rol importante.
-2. Prepara el material para la nota periodística.
+1. Investigá desastres naturales donde los bosques hayan jugado un rol importante.
+2. Prepará el material para la nota periodística.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga un desastre natural y el rol de los bosques.
-2. **Análisis** (15 min): Analiza si los bosques empeoraron o ayudaron a mejorar los impactos.
-3. **Creación** (25 min): Escribe un artículo, blog, o graba un programa de radio o videoclip.
-4. **Presentación** (15 min): Comparte tu nota periodística con el grupo.
+1. **Investigación** (25 min): Investigá un desastre natural y el rol de los bosques.
+2. **Análisis** (15 min): Analizá si los bosques empeoraron o ayudaron a mejorar los impactos.
+3. **Creación** (25 min): Escribí un artículo, blog, o grabá un programa de radio o videoclip.
+4. **Presentación** (15 min): Compartí tu nota periodística con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el rol de los bosques en los desastres naturales?

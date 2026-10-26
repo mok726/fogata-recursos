@@ -3,7 +3,7 @@ title: "Perspectiva Femenina"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/perspectiva-femenina/"
-description: "Entrevista a mujeres sobre sus ideas para la recuperación y reconstrucción después de desastres."
+description: "Entrevistá a mujeres sobre sus ideas para la recuperación y reconstrucción después de desastres."
 summary: "Perspectivas de mujeres sobre recuperación."
 
 author:
@@ -151,18 +151,18 @@ rama_rovers:
 # ¡Perspectiva Femenina!
 
 ## Resumen
-Entrevista a mujeres de tu vida (madres, abuelas, tías, hermanas) sobre sus ideas para la recuperación y reconstrucción después de desastres.
+Entrevistá a mujeres de tu vida (madres, abuelas, tías, hermanas) sobre sus ideas para la recuperación y reconstrucción después de desastres.
 
 ## Preparación
-1. Prepara preguntas para las entrevistas.
-2. Reúne materiales para el collage.
-3. Organiza las entrevistas.
+1. Prepará preguntas para las entrevistas.
+2. Reuní materiales para el collage.
+3. Organizá las entrevistas.
 
 ## Desarrollo
-1. **Entrevistas** (25 min): Habla con mujeres sobre sus ideas.
-2. **Recolección** (15 min): Reúne ideas, citas y fotos.
-3. **Creación** (15 min): Crea un colorido collage.
-4. **Exhibición** (5 min): Coloca el collage en un lugar visible.
+1. **Entrevistas** (25 min): Hablá con mujeres sobre sus ideas.
+2. **Recolección** (15 min): Reuní ideas, citas y fotos.
+3. **Creación** (15 min): Creá un colorido collage.
+4. **Exhibición** (5 min): Colocá el collage en un lugar visible.
 
 ## Cierre
 - ¿Qué ideas compartieron las mujeres?

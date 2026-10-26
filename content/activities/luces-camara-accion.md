@@ -4,8 +4,8 @@ title: "Luces, cámara, acción"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/luces-camara-accion/"
-description: "Crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días."
-summary: "Haz un video sobre ahorro de energía."
+description: "Creá un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días."
+summary: "Hacé un video sobre ahorro de energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Luces, cámara, acción!
 
 ## Resumen
-Como grupo, crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días. Usa disfraces, dibujos u otros materiales.
+Como grupo, crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días. Usá disfraces, dibujos u otros materiales.
 
 ## Preparación
-1. Piensa en consejos de ahorro de energía para tu comunidad.
-2. Escribe un guion o plan.
-3. Prepara disfraces y materiales.
+1. Pensá en consejos de ahorro de energía para tu comunidad.
+2. Escribí un guion o plan.
+3. Prepará disfraces y materiales.
 
 ## Desarrollo
 
 ### Parte I - Planificar
-Elige qué consejos de ahorro incluir:
+Elegí qué consejos de ahorro incluir:
 
 **Ideas:**
 - Apagar las luces
@@ -182,12 +182,12 @@ Elige qué consejos de ahorro incluir:
 - Aprovechar la luz natural
 
 ### Parte II - Crear
-Escribe un guion y filma tu video.
+Escribí un guion y filmá tu video.
 
-**Opcional:** En lugar de un video, puedes presentar un sketch en vivo.
+**Opcional:** En lugar de un video, podés presentar un sketch en vivo.
 
 ### Parte III - Compartir
-Comparte tu video con tu comunidad o presenta el sketch en tu escuela.
+Compartí tu video con tu comunidad o presentá el sketch en tu escuela.
 
 ## Cierre
 1. ¿Qué consejo de ahorro fue más fácil de mostrar?

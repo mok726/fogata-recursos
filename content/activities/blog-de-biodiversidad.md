@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Blog de biodiversidad!
 
 ## Resumen
-Inicia un blog sobre la biodiversidad (un diario en línea donde los lectores pueden comentar acerca de las entradas del diario) o un diario. Publica consejos sobre lo que la juventud puede hacer por la biodiversidad. Si prefieres no trabajar en internet, comparte tu blog o tu diario con el periódico de tu escuela o con la estación de radio de tu escuela.
+Iniciá un blog sobre la biodiversidad (un diario en línea donde los lectores pueden comentar acerca de las entradas del diario) o un diario. Publicá consejos sobre lo que la juventud puede hacer por la biodiversidad. Si preferís no trabajar en internet, compartí tu blog o tu diario con el periódico de tu escuela o con la estación de radio de tu escuela.
 
 ## Preparación
-1. Elige una plataforma para el blog.
-2. Prepara contenido inicial.
-3. Organiza los grupos de trabajo.
+1. Elegí una plataforma para el blog.
+2. Prepará contenido inicial.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Crea el blog o diario.
-2. Publica consejos sobre biodiversidad.
-3. Invita a otros a comentar.
-4. Si no usas internet, comparte con el periódico o radio escolar.
+1. Creá el blog o diario.
+2. Publicá consejos sobre biodiversidad.
+3. Invitá a otros a comentar.
+4. Si no usás internet, comparte con el periódico o radio escolar.
 
 ## Cierre
-1. Comparte tu blog con el grupo.
-2. Reflexiona: ¿Cómo puede ayudar un blog a la biodiversidad?
+1. Compartí tu blog con el grupo.
+2. Reflexioná: ¿Cómo puede ayudar un blog a la biodiversidad?
 3. Pregunta final: ¿Qué consejo compartirías en tu blog?
 
 ## Texto original completo de la actividad

@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/seek-inaturalist/"
 description: "Los participantes utilizan la aplicación Seek de iNaturalist para identificar especies de vida silvestre y plantas en su entorno natural."
-summary: "Identifica especies con tu celular."
+summary: "Identificá especies con tu celular."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,9 +161,9 @@ rama_rovers: []
 Los participantes serán invitados a utilizar la aplicación durante otras actividades al aire libre en el evento / reunión para descubrir el entorno natural que los rodea. Al final de la actividad, los participantes deberían entender la importancia de la biodiversidad y cómo los jóvenes pueden tomar medidas para preservarla.
 
 ## Preparación
-1. Instala la aplicación Seek de iNaturalist en los dispositivos móviles.
-2. Prepara un video tutorial de la aplicación.
-3. Organiza una actividad al aire libre donde puedan usar la aplicación.
+1. Instalá la aplicación Seek de iNaturalist en los dispositivos móviles.
+2. Prepará un video tutorial de la aplicación.
+3. Organizá una actividad al aire libre donde puedan usar la aplicación.
 
 ## Desarrollo
 
@@ -177,8 +177,8 @@ Los participantes deben aprender sobre al menos tres especies de vida silvestre 
 Al completar la actividad, discutirán lo que han aprendido sobre estas especies.
 
 ## Cierre
-1. ¿Crees que esta aplicación puede ser útil para desarrollar actividades en tu grupo local?
-2. ¿En qué tipo de actividades puedes utilizar esta aplicación?
+1. ¿Creés que esta aplicación puede ser útil para desarrollar actividades en tu grupo local?
+2. ¿En qué tipo de actividades podés utilizar esta aplicación?
 3. ¿Cómo puede ayudarte esta aplicación a proteger la biodiversidad del planeta?
 
 ## Texto original completo de la actividad

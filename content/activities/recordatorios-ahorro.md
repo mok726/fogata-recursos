@@ -4,7 +4,7 @@ title: "Recordatorios de ahorro de energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/recordatorios-ahorro/"
-description: "Crea recordatorios visuales para ahorrar energía en tu hogar, escuela o lugar de reunión."
+description: "Creá recordatorios visuales para ahorrar energía en tu hogar, escuela o lugar de reunión."
 summary: "Recordatorios para ahorrar energía."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -161,17 +161,17 @@ translation_notice:
 # ¡Recordatorios de ahorro de energía!
 
 ## Resumen
-Crea recordatorios visuales para ahorrar energía que puedas poner en tu hogar, escuela o lugar de reunión. Escribe mensajes como "apaga las luces", "desconecta los electrónicos", "cierra el agua cuando te cepilles".
+Creá recordatorios visuales para ahorrar energía que puedas poner en tu hogar, escuela o lugar de reunión. Escribí mensajes como "apaga las luces", "desconecta los electrónicos", "cierra el agua cuando te cepilles".
 
 ## Preparación
-1. Piensa en formas de ahorrar energía.
-2. Prepara post-its, tarjetas o papel.
-3. Consigue marcadores.
+1. Pensá en formas de ahorrar energía.
+2. Prepará post-its, tarjetas o papel.
+3. Conseguí marcadores.
 
 ## Desarrollo
 
 ### Parte I - Crear
-Escribe recordatorios en post-its o tarjetas:
+Escribí recordatorios en post-its o tarjetas:
 
 **Ejemplos:**
 - "Apaga las luces"
@@ -180,19 +180,19 @@ Escribe recordatorios en post-its o tarjetas:
 - "No dejes la puerta de la heladera abierta"
 
 ### Parte II - Colocar
-Coloca los recordatorios:
+Colocá los recordatorios:
 - Cerca de los interruptores de luz
 - Junto a los electrónicos
 - Cerca de las canillas
 
 ### Parte III - Compartir
-Haz una lista de todas las formas en que se usa la energía en tu hogar, escuela o lugar de reunión.
+Hacé una lista de todas las formas en que se usa la energía en tu hogar, escuela o lugar de reunión.
 
 ### Parte IV - Mostrar
-Muestra a otros cuánto se puede ahorrar siendo cuidadosos.
+Mostrá a otros cuánto se puede ahorrar siendo cuidadosos.
 
 ## Cierre
-1. ¿Qué recordatorio crees que será más efectivo?
+1. ¿Qué recordatorio creés que será más efectivo?
 2. ¿Qué cambio de hábito te gustaría lograr?
 3. ¿Cómo se sintió la gente al ver los recordatorios?
 

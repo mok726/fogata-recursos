@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/como-podemos-solucionarlo/"
 description: "Los participantes identifican problemáticas locales, las relacionan con los ODS y diseñan un proyecto o campaña para abordarlas."
-summary: "Identifica y soluciona problemáticas locales."
+summary: "Identificá y soluciona problemáticas locales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -130,7 +130,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - ODS
   - Problemáticas sociales
@@ -176,19 +176,19 @@ rama_rovers:
 # ¿Cómo podemos solucionarlo?
 
 ## Resumen
-Busca en internet o en el diario noticias que hablen de alguna problemática en tu comunidad local. Mostrale esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática. Piensen una forma de solucionar esa problemática o reducirla a través de un proyecto, servicio, gesto solidario o campaña. Una vez planeado todo, ¿se animan a llevarlo a cabo?
+Buscá en internet o en el diario noticias que hablen de alguna problemática en tu comunidad local. Mostrale esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática. Piensen una forma de solucionar esa problemática o reducirla a través de un proyecto, servicio, gesto solidario o campaña. Una vez planeado todo, ¿se animan a llevarlo a cabo?
 
 ## Preparación
-1. Reúne periódicos o prepara acceso a Internet para buscar noticias locales.
-2. Prepara los materiales de escritura.
+1. Reuní periódicos o prepará acceso a Internet para buscar noticias locales.
+2. Prepará los materiales de escritura.
 
 ## Desarrollo
 
 ### Paso 1: Búsqueda de noticias
-1. Pide a los participantes que busquen en internet o en el diario noticias que hablen de alguna problemática en su comunidad local.
+1. Pedí a los participantes que busquen en internet o en el diario noticias que hablen de alguna problemática en su comunidad local.
 
 ### Paso 2: Identificación de ODS
-2. Muestra esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática.
+2. Mostrá esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática.
 
 ### Paso 3: Diseño de soluciones
 3. Piensen una forma de solucionar esa problemática o reducirla a través de:

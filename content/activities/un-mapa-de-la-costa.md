@@ -4,7 +4,7 @@ title: "Un Mapa de la Costa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/un-mapa-de-la-costa/"
-description: "Investiga y dibuja un mapa detallado de una porción de la costa."
+description: "Investigá y dibujá un mapa detallado de una porción de la costa."
 summary: "Mapa detallado de la costa."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -176,19 +176,19 @@ rama_rovers:
 # Un Mapa de la Costa
 
 ## Resumen
-Investiga y dibuja un mapa detallado de una porción de la costa.
+Investigá y dibujá un mapa detallado de una porción de la costa.
 
 ## Preparación
-1. Lee el código de conducta para la playa antes de la visita.
-2. Prepara el equipo (tabla, papel, lapiceras, cámara).
-3. Asegura la supervisión de un adulto.
+1. Leé el código de conducta para la playa antes de la visita.
+2. Prepará el equipo (tabla, papel, lapiceras, cámara).
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga la costa usando libros, fotos, internet y preguntando a personas locales.
-2. **Visita** (30 min): Visita la playa y toma notas, fotografías y mediciones.
+1. **Investigación** (15 min): Investigá la costa usando libros, fotos, internet y preguntando a personas locales.
+2. **Visita** (30 min): Visitá la playa y toma notas, fotografías y mediciones.
 3. **Dibujo** (25 min): Cada persona dibuja una parte diferente del área.
-4. **Unión** (15 min): Junta todas las piezas para producir un mapa grande y minucioso.
-5. **Análisis** (15 min): Identifica señales de degradación o contaminación.
+4. **Unión** (15 min): Juntá todas las piezas para producir un mapa grande y minucioso.
+5. **Análisis** (15 min): Identificá señales de degradación o contaminación.
 
 ## Cierre
 - ¿Qué características incluyó tu mapa?

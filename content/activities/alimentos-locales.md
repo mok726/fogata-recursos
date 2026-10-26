@@ -4,7 +4,7 @@ title: "Alimentos locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-locales/"
-description: "Investigación sobre los cultivos de tu país, cómo el clima los afecta y de dónde provienen los alimentos que consumes."
+description: "Investigación sobre los cultivos de tu país, cómo el clima los afecta y de dónde provienen los alimentos que consumís."
 summary: "Investigar cultivos locales y su relación con el clima."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -156,22 +156,22 @@ rama_rovers:
 # ¡Alimentos locales!
 
 ## Resumen
-Investiga qué tipo de cultivos se producen en tu país, cómo el clima de tu país afecta a los cultivos y de dónde provienen los alimentos que consumes.
+Investigá qué tipo de cultivos se producen en tu país, cómo el clima de tu país afecta a los cultivos y de dónde provienen los alimentos que consumís.
 
 ## Preparación
-1. Prepara preguntas para guiar la investigación.
-2. Identifica recursos locales como bibliotecas o agricultores para entrevistar.
-3. Organiza los grupos de trabajo.
+1. Prepará preguntas para guiar la investigación.
+2. Identificá recursos locales como bibliotecas o agricultores para entrevistar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Visita tu biblioteca local o busca en línea información sobre cultivos de tu país.
-2. Investiga cómo el clima de tu país afecta a los cultivos.
+1. Visitá tu biblioteca local o buscá en línea información sobre cultivos de tu país.
+2. Investigá cómo el clima de tu país afecta a los cultivos.
 3. Si es posible, habla con agricultores locales para obtener información.
 4. Si el clima de tu país no es apto para producir cultivos, investiga de dónde vienen tus alimentos.
-5. Prepara un informe incluyendo fotos o dibujos.
+5. Prepará un informe incluyendo fotos o dibujos.
 
 ## Cierre
-1. Comparte tu informe con el grupo.
+1. Compartí tu informe con el grupo.
 2. Pregunta final: ¿De qué forma es el clima más apto para producir cultivos en ese lugar?
 
 ## Texto original completo de la actividad

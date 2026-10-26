@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz una Caminata"
+title: "Hacé una Caminata"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-una-caminata/"
-description: "Haz una caminata en el bosque y recolecta elementos que representen partes importantes del bosque. Crea un collage con tus hallazgos."
+description: "Hacé una caminata en el bosque y recolectá elementos que representen partes importantes del bosque. Creá un collage con tus hallazgos."
 summary: "Caminata y collage de elementos del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,21 +167,21 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión conmigo mismo.
 ---
 
-# Haz una Caminata
+# Hacé una Caminata
 
 ## Resumen
-Haz una caminata en el bosque y recolecta elementos que representen partes importantes del bosque. Crea un collage con tus hallazgos.
+Hacé una caminata en el bosque y recolectá elementos que representen partes importantes del bosque. Creá un collage con tus hallazgos.
 
 ## Preparación
-1. Visita un bosque con tu grupo.
-2. Prepara bolsas para recolectar elementos.
-3. Asegura la supervisión de un adulto.
+1. Visitá un bosque con tu grupo.
+2. Prepará bolsas para recolectar elementos.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Caminata** (30 min): Camina por el bosque y recolecta elementos (piedras, tierra, hojas, ramillas, plumas, etc.).
-2. **Selección** (10 min): Selecciona los elementos más representativos.
-3. **Creación** (25 min): Crea un collage del bosque con los elementos recolectados.
-4. **Reflexión** (15 min): Habla sobre qué significa cada elemento y por qué es importante.
+1. **Caminata** (30 min): Caminá por el bosque y recolectá elementos (piedras, tierra, hojas, ramillas, plumas, etc.).
+2. **Selección** (10 min): Seleccioná los elementos más representativos.
+3. **Creación** (25 min): Creá un collage del bosque con los elementos recolectados.
+4. **Reflexión** (15 min): Hablá sobre qué significa cada elemento y por qué es importante.
 
 ## Cierre
 - ¿Qué elementos recolectaste y qué representan?

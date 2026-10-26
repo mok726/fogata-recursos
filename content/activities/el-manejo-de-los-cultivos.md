@@ -4,7 +4,7 @@ title: "El Manejo de los Cultivos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-manejo-de-los-cultivos/"
-description: "Cultiva plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos."
+description: "Cultivá plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos."
 summary: "Experimento sobre el cuidado de cultivos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,19 +170,19 @@ rama_rovers:
 # El Manejo de los Cultivos
 
 ## Resumen
-Cultiva plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos.
+Cultivá plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos.
 
 ## Preparación
-1. Consigue macetas, tierra y semillas.
-2. Prepara al menos cinco macetas de la misma planta.
-3. Asegura la supervisión de un adulto.
+1. Conseguí macetas, tierra y semillas.
+2. Prepará al menos cinco macetas de la misma planta.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Plantación** (15 min): Planta las semillas en las macetas.
-2. **Condiciones** (10 min): Asigna diferentes cantidades de agua y luz a cada maceta.
-3. **Registro** (durante varias semanas): Registra cuánta agua y luz recibe cada planta.
+1. **Plantación** (15 min): Plantá las semillas en las macetas.
+2. **Condiciones** (10 min): Asigná diferentes cantidades de agua y luz a cada maceta.
+3. **Registro** (durante varias semanas): Registrá cuánta agua y luz recibe cada planta.
 4. **Observación** (15 min): Después de algunas semanas, observa cuál creció mejor y por qué.
-5. **Reflexión** (15 min): Reflexiona sobre la importancia del manejo adecuado de cultivos.
+5. **Reflexión** (15 min): Reflexioná sobre la importancia del manejo adecuado de cultivos.
 
 ## Cierre
 - ¿Qué planta creció mejor y por qué?

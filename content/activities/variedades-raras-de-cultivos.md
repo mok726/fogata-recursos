@@ -159,24 +159,24 @@ rama_rovers:
 # ¡Variedades raras de cultivos!
 
 ## Resumen
-Identifica cinco variedades raras de cultivos o plantas que crecen en tu comunidad. ¿Cuáles son sus características especiales? ¿Dónde se cultivan estas variedades raras? ¿En qué se asemejan y en qué se diferencian de la variedad común?
+Identificá cinco variedades raras de cultivos o plantas que crecen en tu comunidad. ¿Cuáles son sus características especiales? ¿Dónde se cultivan estas variedades raras? ¿En qué se asemejan y en qué se diferencian de la variedad común?
 
 ## Preparación
-1. Investiga variedades raras en tu área.
-2. Visita granjas o mercados locales.
-3. Prepara materiales para registrar.
+1. Investigá variedades raras en tu área.
+2. Visitá granjas o mercados locales.
+3. Prepará materiales para registrar.
 
 ## Desarrollo
-1. Identifica cinco variedades raras de cultivos.
-2. Investiga sus características especiales.
-3. Registra dónde se cultivan.
-4. Compara con las variedades comunes.
-5. Averigua qué puedes hacer para conservarlas.
+1. Identificá cinco variedades raras de cultivos.
+2. Investigá sus características especiales.
+3. Registrá dónde se cultivan.
+4. Compará con las variedades comunes.
+5. Averiguá qué podés hacer para conservarlas.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre la importancia de conservar variedades.
-3. Pregunta final: ¿Cómo puedes ayudar a conservar variedades raras?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre la importancia de conservar variedades.
+3. Pregunta final: ¿Cómo podés ayudar a conservar variedades raras?
 
 ## Texto original completo de la actividad
 C.18 Identifica cinco variedades raras de cultivos o plantas que crecen en tu comunidad. ¿Cuáles son sus características especiales? ¿Dónde se cultivan estas variedades raras? ¿En qué se asemejan y en qué se diferencian de la variedad común? Averigua qué puedes hacer para ayudar a conservar estas variedades raras, ¡y luego inténtalo! Si es posible, realiza esta actividad como parte de una visita a una granja.

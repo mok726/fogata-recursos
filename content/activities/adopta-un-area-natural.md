@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adopta un área natural"
+title: "Adoptá un área natural"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopta-un-area-natural/"
@@ -158,27 +158,27 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Adopta un área natural!
+# ¡Adoptá un área natural!
 
 ## Resumen
-Adopta y limpia un área natural. Haz un inventario de las plantas y animales que viven en esa área. Describe su ubicación con relación a las otras especies. ¿Cómo dependen las unas de las otras?
+Adoptá y limpiá un área natural. Hacé un inventario de las plantas y animales que viven en esa área. Describí su ubicación con relación a las otras especies. ¿Cómo dependen las unas de las otras?
 
 ## Preparación
-1. Identifica un área natural para adoptar.
-2. Reúne materiales de limpieza.
-3. Prepara materiales para el inventario.
+1. Identificá un área natural para adoptar.
+2. Reuní materiales de limpieza.
+3. Prepará materiales para el inventario.
 
 ## Desarrollo
-1. Adopta un área natural.
-2. Limpia el área.
-3. Haz un inventario de plantas y animales.
-4. Describe la ubicación de las especies.
-5. Reflexiona: ¿Cómo dependen las unas de las otras?
+1. Adoptá un área natural.
+2. Limpiá el área.
+3. Hacé un inventario de plantas y animales.
+4. Describí la ubicación de las especies.
+5. Reflexioná: ¿Cómo dependen las unas de las otras?
 
 ## Cierre
-1. Explica tus hallazgos a tu grupo, oralmente o con dibujos.
-2. Reflexiona sobre las relaciones entre especies.
-3. Pregunta final: ¿Cómo puedes seguir cuidando el área adoptada?
+1. Explicá tus hallazgos a tu grupo, oralmente o con dibujos.
+2. Reflexioná sobre las relaciones entre especies.
+3. Pregunta final: ¿Cómo podés seguir cuidando el área adoptada?
 
 ## Texto original completo de la actividad
 C.29 Adopta y limpia un área natural. Haz un inventario de las plantas y animales que viven en esa área. Describe su ubicación con relación a las otras especies. ¿Cómo dependen las unas de las otras? Explica tus hallazgos a tu grupo, oralmente o con dibujos.

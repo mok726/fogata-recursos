@@ -4,7 +4,7 @@ title: "Campaña por una Dieta Sana y Equilibrada"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-por-una-dieta-sana-y-equilibrada/"
-description: "Organiza un evento para celebrar la Semana de la Nutrición con talleres, charlas y actividades interactivas."
+description: "Organizá un evento para celebrar la Semana de la Nutrición con talleres, charlas y actividades interactivas."
 summary: "Evento comunitario sobre nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,18 +169,18 @@ rama_rovers:
 # Campaña por una Dieta Sana y Equilibrada
 
 ## Resumen
-Organiza un evento para celebrar la Semana de la Nutrición con talleres, charlas y actividades interactivas.
+Organizá un evento para celebrar la Semana de la Nutrición con talleres, charlas y actividades interactivas.
 
 ## Preparación
-1. Elige una fecha para el Día de la Salud o la Semana de la Nutrición.
-2. Invita a un ponente sobre dietas sanas.
-3. Prepara materiales educativos y actividades interactivas.
+1. Elegí una fecha para el Día de la Salud o la Semana de la Nutrición.
+2. Invitá a un ponente sobre dietas sanas.
+3. Prepará materiales educativos y actividades interactivas.
 
 ## Desarrollo
-1. **Planificación** (20 min): Organiza las actividades y talleres.
-2. **Evento** (1-2 horas): Realiza el evento con charlas, talleres y exposiciones.
-3. **Documentación** (15 min): Toma fotos y videos.
-4. **Publicación** (15 min): Publica en redes sociales.
+1. **Planificación** (20 min): Organizá las actividades y talleres.
+2. **Evento** (1-2 horas): Realizá el evento con charlas, talleres y exposiciones.
+3. **Documentación** (15 min): Tomá fotos y videos.
+4. **Publicación** (15 min): Publicá en redes sociales.
 
 ## Cierre
 - ¿Qué aprendiste organizando este evento?

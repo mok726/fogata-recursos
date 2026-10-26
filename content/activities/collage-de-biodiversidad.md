@@ -167,19 +167,19 @@ rama_rovers:
 Creen un collage, un póster o un videoclip con ejemplos de los tres componentes de la biodiversidad: genes, especies y ecosistemas. Presenten su collage en clase o a su grupo y respondan a las siguientes preguntas. ¿Cómo interactúan las diferentes partes entre ellas? ¿Por qué es importante cada componente? ¿Cuáles son algunas de las amenazas a la biodiversidad en el mundo?
 
 ## Preparación
-1. Reúne revistas, cartulinas y materiales para el collage.
-2. Investiga sobre los tres componentes de la biodiversidad.
-3. Organiza los grupos de trabajo.
+1. Reuní revistas, cartulinas y materiales para el collage.
+2. Investigá sobre los tres componentes de la biodiversidad.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Crea un collage, póster o videoclip con ejemplos de genes, especies y ecosistemas.
-2. Asegúrate de incluir cómo interactúan las diferentes partes.
-3. Resalta por qué es importante cada componente.
+1. Creá un collage, póster o videoclip con ejemplos de genes, especies y ecosistemas.
+2. Asegurate de incluir cómo interactúan las diferentes partes.
+3. Resaltá por qué es importante cada componente.
 
 ## Cierre
-1. Presenta tu collage en clase o a tu grupo.
-2. Responde a las preguntas sobre la interacción entre componentes.
-3. Pregunta final: ¿Cuál de los tres componentes de la biodiversidad crees que está más amenazado?
+1. Presentá tu collage en clase o a tu grupo.
+2. Respondé a las preguntas sobre la interacción entre componentes.
+3. Pregunta final: ¿Cuál de los tres componentes de la biodiversidad creés que está más amenazado?
 
 ## Texto original completo de la actividad
 D.01 Creen un collage, un póster o un videoclip con ejemplos de los tres componentes de la biodiversidad: genes, especies y ecosistemas. Presenten su collage en clase o a su grupo y respondan a las siguientes preguntas. ¿Cómo interactúan las diferentes partes entre ellas? ¿Por qué es importante cada componente? ¿Cuáles son algunas de las amenazas a la biodiversidad en el mundo?

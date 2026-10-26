@@ -150,17 +150,17 @@ rama_rovers: []
 # ¡Dibujando el Agua!
 
 ## Resumen
-Usa el glosario para jugar un juego de Pictionary con palabras relacionadas con el agua.
+Usá el glosario para jugar un juego de Pictionary con palabras relacionadas con el agua.
 
 ## Preparación
-1. Revisa el glosario de palabras relacionadas con el agua.
-2. Divide al grupo en dos o más equipos.
-3. Prepara papel y lápices.
+1. Revisá el glosario de palabras relacionadas con el agua.
+2. Dividí al grupo en dos o más equipos.
+3. Prepará papel y lápices.
 
 ## Desarrollo
-1. **Preparación** (5 min): Divide las palabras entre los equipos.
+1. **Preparación** (5 min): Dividí las palabras entre los equipos.
 2. **Juego** (20 min): Un jugador dibuja mientras su equipo adivina.
-3. **Puntuación** (5 min): Cuenta los puntos y anuncia al ganador.
+3. **Puntuación** (5 min): Contá los puntos y anuncia al ganador.
 
 ## Cierre
 - ¿Qué palabra fue la más difícil de dibujar?

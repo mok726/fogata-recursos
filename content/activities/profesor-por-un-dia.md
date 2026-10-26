@@ -157,23 +157,23 @@ rama_rovers:
 # ¡Profesor por un día!
 
 ## Resumen
-¿Tienes hermanos o hermanas, primos o vecinos más jóvenes? Reúnelos para que les dictes una pequeña clase en la cual les enseñes sobre aquello que has aprendido acerca del cambio climático.
+¿Tenés hermanos o hermanas, primos o vecinos más jóvenes? Reunilos para que les dictes una pequeña clase en la cual les enseñes sobre aquello que has aprendido acerca del cambio climático.
 
 ## Preparación
-1. Reúne fotos y datos para hacer la clase interesante.
-2. Prepara actividades apropiadas para la edad.
-3. Organiza el espacio para la clase.
+1. Reuní fotos y datos para hacer la clase interesante.
+2. Prepará actividades apropiadas para la edad.
+3. Organizá el espacio para la clase.
 
 ## Desarrollo
-1. Enseña a niños más jóvenes sobre el cambio climático.
-2. Explica qué es el cambio climático y por qué es importante.
-3. Muestra fotos y datos para hacerla interesante.
-4. Haz actividades interactivas con ellos.
-5. Toma una pequeña prueba después.
+1. Enseñá a niños más jóvenes sobre el cambio climático.
+2. Explicá qué es el cambio climático y por qué es importante.
+3. Mostrá fotos y datos para hacerla interesante.
+4. Hacé actividades interactivas con ellos.
+5. Tomá una pequeña prueba después.
 
 ## Cierre
-1. Reflexiona: ¿Te gustó dar clases? ¿Tus estudiantes se interesaron?
-2. Comparte tu experiencia con el grupo.
+1. Reflexioná: ¿Te gustó dar clases? ¿Tus estudiantes se interesaron?
+2. Compartí tu experiencia con el grupo.
 3. Pregunta final: ¿Qué te enseñaron tus estudiantes?
 
 ## Texto original completo de la actividad

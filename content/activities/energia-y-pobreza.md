@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-pobreza/"
 description: "Tormenta de ideas sobre cómo la pobreza limita el acceso a la electricidad y cómo la electricidad puede ayudar a familias y comunidades a salir de la pobreza."
-summary: "Conecta la energía con la lucha contra la pobreza."
+summary: "Conectá la energía con la lucha contra la pobreza."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -118,7 +118,7 @@ competencies:
   - Empatía
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 category:
   - Pobreza
@@ -163,12 +163,12 @@ translation_notice:
 # ¡Energía y pobreza!
 
 ## Resumen
-Existe una conexión directa entre el acceso a la energía y la pobreza. El acceso a fuentes de energía como la electricidad puede ayudar a familias y comunidades a mejorar sus vidas. Reflexiona sobre esta conexión.
+Existe una conexión directa entre el acceso a la energía y la pobreza. El acceso a fuentes de energía como la electricidad puede ayudar a familias y comunidades a mejorar sus vidas. Reflexioná sobre esta conexión.
 
 ## Preparación
-1. Lee la información sobre energía y pobreza.
-2. Prepara materiales para la tormenta de ideas.
-3. Forma un círculo con el grupo.
+1. Leé la información sobre energía y pobreza.
+2. Prepará materiales para la tormenta de ideas.
+3. Formá un círculo con el grupo.
 
 ## Desarrollo
 
@@ -194,7 +194,7 @@ Compartan sus ideas con el grupo.
 
 ## Cierre
 1. ¿Qué conexión entre energía y pobreza te pareció más importante?
-2. ¿Cómo puedes ayudar a mejorar el acceso a la energía?
+2. ¿Cómo podés ayudar a mejorar el acceso a la energía?
 3. ¿Por qué es importante que todos tengan acceso a energía?
 
 ## Texto original completo de la actividad

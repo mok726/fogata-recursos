@@ -4,7 +4,7 @@ title: "Exhibición de arte energético"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/exhibicion-arte/"
-description: "Crea obras de arte sobre energía usando materiales reciclados y exhibelas en tu comunidad."
+description: "Creá obras de arte sobre energía usando materiales reciclados y exhibelas en tu comunidad."
 summary: "Arte para concientizar sobre energía."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -161,17 +161,17 @@ translation_notice:
 # ¡Exhibición de arte energético!
 
 ## Resumen
-Crea proyectos de arte que puedas exhibir en tu comunidad (escuela, biblioteca, centro recreativo). Elige un tema relacionado con la energía o reutiliza materiales que podrían reciclarse.
+Creá proyectos de arte que puedas exhibir en tu comunidad (escuela, biblioteca, centro recreativo). Elegí un tema relacionado con la energía o reutilizá materiales que podrían reciclarse.
 
 ## Preparación
-1. Lee la información sobre energía.
-2. Elige un tema para tu arte.
-3. Reúne materiales.
+1. Leé la información sobre energía.
+2. Elegí un tema para tu arte.
+3. Reuní materiales.
 
 ## Desarrollo
 
 ### Parte I - Inspiración
-Elige un tema:
+Elegí un tema:
 
 **Ideas:**
 - Energía del futuro
@@ -180,15 +180,15 @@ Elige un tema:
 - Naturaleza y energía
 
 ### Parte II - Crear
-Crea tu obra de arte:
+Creá tu obra de arte:
 
-**Puedes:**
+**Podés:**
 - Pintar un cuadro
 - Hacer un collage con materiales reciclados
 - Crear una escultura
 
 ### Parte III - Exhibir
-Muestra tu obra en un lugar de tu comunidad.
+Mostrá tu obra en un lugar de tu comunidad.
 
 **Incluye información sobre por qué la energía es importante.**
 

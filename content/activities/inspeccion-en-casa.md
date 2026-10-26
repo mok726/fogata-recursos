@@ -3,7 +3,7 @@ title: "Inspección en Casa"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-en-casa/"
-description: "Revisa la preparación de tu hogar ante desastres y crea un plan de mejora."
+description: "Revisá la preparación de tu hogar ante desastres y creá un plan de mejora."
 summary: "Inspección de preparación familiar."
 
 author:
@@ -153,22 +153,22 @@ rama_rovers:
 # ¡Inspección en Casa!
 
 ## Resumen
-Revisa tu hogar para ver si tú y tu familia están preparados para una amenaza, y crea un plan de acción.
+Revisá tu hogar para ver si vos y tu familia están preparados para una amenaza, y creá un plan de acción.
 
 ## Preparación
-1. Prepara una lista de verificación.
-2. Reúne materiales para tomar notas.
+1. Prepará una lista de verificación.
+2. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Inspección** (20 min): Revisa tu hogar con la lista de verificación.
-2. **Lista de mejoras** (15 min): Anota lo que falta o está incompleto.
-3. **Reunión familiar** (20 min): Comparte tus hallazgos y asigna tareas.
+1. **Inspección** (20 min): Revisá tu hogar con la lista de verificación.
+2. **Lista de mejoras** (15 min): Anotá lo que falta o está incompleto.
+3. **Reunión familiar** (20 min): Compartí tus hallazgos y asigná tareas.
 4. **Acción** (5 min): Planea cuándo implementarán las mejoras.
 
 ## Cierre
 - ¿Qué encontraste en la inspección?
 - ¿Qué es lo más importante que deben hacer?
-- ¿Cómo te sientes al saber que estás mejor preparado?
+- ¿Cómo te sentís al saber que estás mejor preparado?
 
 ---
 ## Texto original completo de la actividad

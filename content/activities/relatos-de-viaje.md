@@ -158,24 +158,24 @@ rama_rovers:
 # ¡Relatos de viaje!
 
 ## Resumen
-¿Qué lugar del mundo te encantaría visitar? Búscalo y aprende sobre este. ¿Cómo viven las personas de ese lugar? ¿El cambio climático es un problema allá?
+¿Qué lugar del mundo te encantaría visitar? Buscalo y aprendé sobre este. ¿Cómo viven las personas de ese lugar? ¿El cambio climático es un problema allá?
 
 ## Preparación
-1. Prepara mapas o acceso a internet para investigar.
-2. Busca información sobre diferentes países y culturas.
-3. Prepara preguntas guía para la investigación.
+1. Prepará mapas o acceso a internet para investigar.
+2. Buscá información sobre diferentes países y culturas.
+3. Prepará preguntas guía para la investigación.
 
 ## Desarrollo
-1. Elige un lugar del mundo que te gustaría visitar.
-2. Investiga cómo viven las personas de ese lugar.
-3. Investiga si el cambio climático es un problema en esa región.
-4. Descubre qué fuentes de energía usan y cómo se compara con tu área.
-5. Crea una guía de viaje con información y dibujos.
+1. Elegí un lugar del mundo que te gustaría visitar.
+2. Investigá cómo viven las personas de ese lugar.
+3. Investigá si el cambio climático es un problema en esa región.
+4. Descubrí qué fuentes de energía usan y cómo se compara con tu área.
+5. Creá una guía de viaje con información y dibujos.
 
 ## Cierre
-1. Presenta tus hallazgos a todos en tu grupo.
-2. Compara las diferentes guías de viaje creadas por el grupo.
-3. Pregunta final: ¿Qué lugar te gustaría visitar y cómo crees que el cambio climático lo afectará?
+1. Presentá tus hallazgos a todos en tu grupo.
+2. Compará las diferentes guías de viaje creadas por el grupo.
+3. Pregunta final: ¿Qué lugar te gustaría visitar y cómo creés que el cambio climático lo afectará?
 
 ## Texto original completo de la actividad
 A.07 RELATOS DE VIAJE. ¿Qué lugar del mundo te encantaría visitar? Búscalo y aprende sobre este. ¿Cómo viven las personas de ese lugar? ¿El cambio climático es un problema allá? ¿Las personas usan menos o más, o un tipo diferente, de energía que las personas de tu área? Crea una guía de viaje con información y dibujos y presenta tus hallazgos a todos en tu grupo.

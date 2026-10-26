@@ -4,7 +4,7 @@ title: "La Cometa de la Alimentación"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-cometa-de-la-alimentacion/"
-description: "Construye una cometa decorada con un deseo para acabar con el hambre y hazla volar para difundir tu mensaje."
+description: "Construí una cometa decorada con un deseo para acabar con el hambre y hacela volar para difundir tu mensaje."
 summary: "Construcción de cometa con mensaje contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,18 +167,18 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # La Cometa de la Alimentación
 
 ## Resumen
-Construye una cometa decorada con un deseo para acabar con el hambre y hazla volar para difundir tu mensaje.
+Construí una cometa decorada con un deseo para acabar con el hambre y hacela volar para difundir tu mensaje.
 
 ## Preparación
-1. Reúne dos palos de madera (menos de 50 cm) y papel o tela.
-2. Prepara cuerda y material para decorar.
-3. Asegura la supervisión de un adulto.
+1. Reuní dos palos de madera (menos de 50 cm) y papel o tela.
+2. Prepará cuerda y material para decorar.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
 1. **Construcción** (15 min): Ata los palos en forma de cruz.
-2. **Cubierta** (10 min): Extiende papel o tela sobre la cruz.
-3. **Decoración** (15 min): Decora con un deseo para acabar con el hambre.
-4. **Vuelo** (15 min): Haz volar tu cometa para difundir tu mensaje.
+2. **Cubierta** (10 min): Extendé papel o tela sobre la cruz.
+3. **Decoración** (15 min): Decorá con un deseo para acabar con el hambre.
+4. **Vuelo** (15 min): Hacé volar tu cometa para difundir tu mensaje.
 
 ## Cierre
 - ¿Qué deseo escribiste en tu cometa?

@@ -5,7 +5,7 @@ duration: "2 horas (preparación + presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/rios-mas-largos/"
 description: "Los participantes investigan los ríos más largos del mundo y crean carteles informativos sobre ellos, descubriendo los beneficios que aportan a los seres vivos."
-summary: "Investiga los ríos más largos del mundo."
+summary: "Investigá los ríos más largos del mundo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,9 +166,9 @@ translation_notice:
 Los ríos de todo el mundo llevan agua vital a millones de personas, sustentan sus propios ecosistemas únicos y fluyen a través de una variedad de paisajes. En esta actividad, los participantes investigan los ríos más largos del mundo y crean carteles informativos.
 
 ## Preparación
-1. Divide a los participantes en parejas.
-2. Asigna a cada pareja uno de los ríos más largos del mundo.
-3. Prepara materiales para los carteles.
+1. Dividí a los participantes en parejas.
+2. Asigná a cada pareja uno de los ríos más largos del mundo.
+3. Prepará materiales para los carteles.
 
 ## Desarrollo
 
@@ -198,7 +198,7 @@ Cada pareja crea un cartel que incluye:
 Cada pareja presenta su cartel al grupo.
 
 ## Cierre
-- ¿Puedes nombrar algunos de los beneficios que las personas reciben de estos ríos? (Transporte, desarrollo, agricultura, recreación, etc.)
+- ¿Podés nombrar algunos de los beneficios que las personas reciben de estos ríos? (Transporte, desarrollo, agricultura, recreación, etc.)
 - Las vías fluviales son un recurso compartido. ¿De quién es la responsabilidad de conservarlas?
 - ¿Por qué los países necesitan cooperar para proteger las aguas transfronterizas?
 

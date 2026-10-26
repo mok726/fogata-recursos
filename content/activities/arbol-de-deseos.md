@@ -4,7 +4,7 @@ title: "Árbol de Deseos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/arbol-de-deseos/"
-description: "Recolecta materiales del bosque, escribe deseos sobre ellos y crea un árbol de deseos. Envía fotos a yunga@fao.org."
+description: "Recolectá materiales del bosque, escribí deseos sobre ellos y creá un árbol de deseos. Enviá fotos a yunga@fao.org."
 summary: "Creación de un árbol de deseos con materiales forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,19 +169,19 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Árbol de Deseos
 
 ## Resumen
-Recolecta materiales del bosque que se pueden usar como papel (corteza, hojas, etc.). Escribe deseos sobre ellos y crea un gran collage de un árbol. Envía fotos a yunga@fao.org.
+Recolectá materiales del bosque que se pueden usar como papel (corteza, hojas, etc.). Escribí deseos sobre ellos y creá un gran collage de un árbol. Enviá fotos a yunga@fao.org.
 
 ## Preparación
-1. Recolecta materiales naturales del bosque (corteza, hojas grandes, etc.).
-2. Prepara materiales para escribir y crear el collage.
-3. Piensa en deseos para ti, para otros o para el mundo.
+1. Recolectá materiales naturales del bosque (corteza, hojas grandes, etc.).
+2. Prepará materiales para escribir y crear el collage.
+3. Pensá en deseos para vos, para otros o para el mundo.
 
 ## Desarrollo
-1. **Recolección** (20 min): Recolecta materiales naturales del bosque.
-2. **Escritura** (15 min): Escribe tus deseos en los materiales recolectados.
-3. **Creación** (20 min): Crea un gran collage de un árbol con los deseos.
-4. **Presentación** (10 min): Muestra tu Árbol de Deseos al grupo.
-5. **Compartir** (5 min): Envía fotos a yunga@fao.org.
+1. **Recolección** (20 min): Recolectá materiales naturales del bosque.
+2. **Escritura** (15 min): Escribí tus deseos en los materiales recolectados.
+3. **Creación** (20 min): Creá un gran collage de un árbol con los deseos.
+4. **Presentación** (10 min): Mostrá tu Árbol de Deseos al grupo.
+5. **Compartir** (5 min): Enviá fotos a yunga@fao.org.
 
 ## Cierre
 - ¿Qué deseos escribiste y por qué?

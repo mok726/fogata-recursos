@@ -3,7 +3,7 @@ title: "Compra de segunda mano"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/compra-de-segunda-mano/"
-description: "Compra libros, ropa y otros bienes de segunda mano."
+description: "Comprá libros, ropa y otros bienes de segunda mano."
 summary: "Consumo responsable de segunda mano."
 
 author:
@@ -144,21 +144,21 @@ rama_rovers:
 # ¡Compra de segunda mano!
 
 ## Resumen
-Compra libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero.
+Comprá libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero.
 
 ## Preparación
-- Busca tiendas de segunda mano en tu área.
-- Identifica cosas que ya no necesitas.
+- Buscá tiendas de segunda mano en tu área.
+- Identificá cosas que ya no necesitás.
 
 ## Desarrollo
-1. **Compra** (20 min): Compra artículos de segunda mano.
-2. **Donación** (15 min): Dona lo que ya no necesitas.
-3. **Reflexión** (10 min): ¿Cómo te sientes al reusar?
+1. **Compra** (20 min): Comprá artículos de segunda mano.
+2. **Donación** (15 min): Doná lo que ya no necesitás.
+3. **Reflexión** (10 min): ¿Cómo te sentís al reusar?
 
 ## Cierre
 - ¿Qué compraste de segunda mano?
 - ¿Qué donaste?
-- ¿Cómo te sientes al reusar en lugar de comprar nuevo?
+- ¿Cómo te sentís al reusar en lugar de comprar nuevo?
 
 ---
 ## Texto original completo de la actividad

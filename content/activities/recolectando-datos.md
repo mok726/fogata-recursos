@@ -3,7 +3,7 @@ title: "Recolectando Datos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/recolectando-datos/"
-description: "Investiga de dónde vienen tus alimentos y qué tipo de suelo necesitan."
+description: "Investigá de dónde vienen tus alimentos y qué tipo de suelo necesitan."
 summary: "Investigación de alimentos y suelo."
 
 author:
@@ -141,17 +141,17 @@ rama_rovers:
 # ¡Recolectando Datos!
 
 ## Resumen
-Investiga de dónde vienen tus alimentos y qué tipo de suelo necesitan para crecer.
+Investigá de dónde vienen tus alimentos y qué tipo de suelo necesitan para crecer.
 
 ## Preparación
-1. Haz un inventario de los alimentos en tu hogar.
-2. Prepara materiales para tomar notas.
+1. Hacé un inventario de los alimentos en tu hogar.
+2. Prepará materiales para tomar notas.
 
 ## Desarrollo
-1. **Inventario** (15 min): Anota los alimentos en tu hogar.
+1. **Inventario** (15 min): Anotá los alimentos en tu hogar.
 2. **Investigación** (25 min): ¿Qué tipo de suelo necesita cada alimento?
 3. **Análisis** (10 min): ¿Qué alimentos dependen del suelo?
-4. **Comparación** (10 min): Comparte tus hallazgos con el grupo.
+4. **Comparación** (10 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué alimentos dependen del suelo?

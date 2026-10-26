@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mira las Etiquetas"
+title: "Mirá las Etiquetas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/mira-las-etiquetas/"
-description: "Investiga etiquetas de sostenibilidad en productos y promueve el consumo responsable."
+description: "Investigá etiquetas de sostenibilidad en productos y promové el consumo responsable."
 summary: "Análisis de etiquetas de sostenibilidad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -118,7 +118,7 @@ competencies:
 activity_type:
   - Investigación
   - Sensibilización
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Etiquetas
@@ -160,26 +160,26 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# Mira las Etiquetas
+# Mirá las Etiquetas
 
 ## Resumen
-Investiga etiquetas de sostenibilidad en productos y promueve el consumo responsable.
+Investigá etiquetas de sostenibilidad en productos y promové el consumo responsable.
 
 ## Preparación
-1. Visita mercados locales y supermercados.
-2. Busca etiquetas de sostenibilidad.
-3. Prepara material para notas.
+1. Visitá mercados locales y supermercados.
+2. Buscá etiquetas de sostenibilidad.
+3. Prepará material para notas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca etiquetas de sostenibilidad.
-2. **Comparación** (15 min): Compara precios y significados.
+1. **Investigación** (20 min): Buscá etiquetas de sostenibilidad.
+2. **Comparación** (15 min): Compará precios y significados.
 3. **Análisis** (15 min): ¿Por qué hay diferencias de precio?
-4. **Póster** (20 min): Prepara un póster para el supermercado.
-5. **Debate** (15 min): Discute tus conclusiones con el grupo.
+4. **Póster** (20 min): Prepará un póster para el supermercado.
+5. **Debate** (15 min): Discutí tus conclusiones con el grupo.
 
 ## Cierre
 - ¿Qué etiquetas de sostenibilidad encontraste?
-- ¿Cómo puedes animar a tu familia a elegir estos productos?
+- ¿Cómo podés animar a tu familia a elegir estos productos?
 - ¿Qué compromiso adquieres para consumir de manera más sostenible?
 
 ---

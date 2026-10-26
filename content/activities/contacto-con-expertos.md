@@ -3,7 +3,7 @@ title: "Contacto con expertos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contacto-con-expertos/"
-description: "Contacta a expertos en cambio climático y medio ambiente."
+description: "Contactá a expertos en cambio climático y medio ambiente."
 summary: "Contacto con expertos ambientales."
 
 author:
@@ -144,23 +144,23 @@ rama_rovers:
 # ¡Contacto con expertos!
 
 ## Resumen
-Contacta a científicos, meteorólogos, grupos ambientales y oficinas de la ONU para aprender sobre cambio climático.
+Contactá a científicos, meteorólogos, grupos ambientales y oficinas de la ONU para aprender sobre cambio climático.
 
 ## Preparación
-1. Identifica expertos en tu país.
-2. Prepara preguntas.
-3. Contacta a los expertos.
+1. Identificá expertos en tu país.
+2. Prepará preguntas.
+3. Contactá a los expertos.
 
 ## Desarrollo
-1. **Investigación** (15 min): Identifica expertos.
-2. **Contacto** (20 min): Habla con los expertos.
+1. **Investigación** (15 min): Identificá expertos.
+2. **Contacto** (20 min): Hablá con los expertos.
 3. **Aprendizaje** (15 min): ¿Qué están haciendo?
 4. **Participación** (10 min): Integra sus actividades.
 
 ## Cierre
 - ¿Qué expertos contactaste?
 - ¿Qué aprendiste?
-- ¿Cómo puedes participar?
+- ¿Cómo podés participar?
 
 ---
 ## Texto original completo de la actividad

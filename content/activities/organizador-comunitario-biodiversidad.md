@@ -162,20 +162,20 @@ rama_rovers:
 Transfórmense en organizadores comunitarios. Organicen un evento para despertar la conciencia pública acerca de un aspecto local específico relacionado con la biodiversidad. Tracen un objetivo específico. Hagan una pancarta y pósters para promocionar el evento. Contacten a los medios de comunicación locales (TV, radio y periódicos) y pídanles que cubran el evento. Traten de hacer que un gran número de personas asistan a su evento.
 
 ## Preparación
-1. Elige un aspecto local de biodiversidad.
-2. Establece un objetivo específico.
-3. Prepara pancartas y pósters.
-4. Contacta a los medios de comunicación.
+1. Elegí un aspecto local de biodiversidad.
+2. Establecé un objetivo específico.
+3. Prepará pancartas y pósters.
+4. Contactá a los medios de comunicación.
 
 ## Desarrollo
-1. Promociona el evento en la comunidad.
-2. Organiza el evento.
-3. Asegura la participación de los medios.
+1. Promocioná el evento en la comunidad.
+2. Organizá el evento.
+3. Asegurá la participación de los medios.
 4. Atrae a un gran número de personas.
 
 ## Cierre
-1. Comparte los resultados con el grupo.
-2. Reflexiona sobre el impacto del evento.
+1. Compartí los resultados con el grupo.
+2. Reflexioná sobre el impacto del evento.
 3. Pregunta final: ¿Cómo podemos mantener el impulso de este evento?
 
 ## Texto original completo de la actividad

@@ -4,7 +4,7 @@ title: "El Árbol del Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-arbol-del-hambre/"
-description: "Crea un árbol donde las raíces representan las causas del hambre, el tronco los efectos y las hojas las soluciones."
+description: "Creá un árbol donde las raíces representan las causas del hambre, el tronco los efectos y las hojas las soluciones."
 summary: "Árbol conceptual sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -168,18 +168,18 @@ rama_rovers:
 # El Árbol del Hambre
 
 ## Resumen
-Crea un árbol donde las raíces representan las causas del hambre, el tronco los efectos y las hojas las soluciones.
+Creá un árbol donde las raíces representan las causas del hambre, el tronco los efectos y las hojas las soluciones.
 
 ## Preparación
-1. Prepara un papel grande para dibujar el árbol.
-2. Prepara marcadores o lápices de colores.
-3. Forma grupos de 3-4 personas.
+1. Prepará un papel grande para dibujar el árbol.
+2. Prepará marcadores o lápices de colores.
+3. Formá grupos de 3-4 personas.
 
 ## Desarrollo
-1. **Causas** (15 min): Discute y escribe en las raíces las causas del hambre.
-2. **Efectos** (15 min): Discute y escribe en el tronco los efectos del hambre.
-3. **Soluciones** (15 min): Discute y escribe en las hojas las acciones para combatir el hambre.
-4. **Exhibición** (10 min): Exhibe el árbol en tu clase o centro comunitario.
+1. **Causas** (15 min): Discutí y escribí en las raíces las causas del hambre.
+2. **Efectos** (15 min): Discutí y escribí en el tronco los efectos del hambre.
+3. **Soluciones** (15 min): Discutí y escribí en las hojas las acciones para combatir el hambre.
+4. **Exhibición** (10 min): Exhibí el árbol en tu clase o centro comunitario.
 
 ## Cierre
 - ¿Qué causas del hambre identificaste?

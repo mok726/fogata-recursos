@@ -1,9 +1,9 @@
 ---
-title: "Comparte y reusa"
+title: "Compartí y reusa"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparte-y-reusa/"
-description: "Comparte y reusa tus pertenencias cuando ya no las necesites."
+description: "Compartí y reusa tus pertenencias cuando ya no las necesites."
 summary: "Compartir y reusar pertenencias."
 
 author:
@@ -138,23 +138,23 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Comparte y reusa!
+# ¡Compartí y reusa!
 
 ## Resumen
-Comparte y reusa tus pertenencias cuando ya no las necesites.
+Compartí y reusa tus pertenencias cuando ya no las necesites.
 
 ## Preparación
-- Revisa tus pertenencias.
-- Identifica lo que ya no necesitas.
+- Revisá tus pertenencias.
+- Identificá lo que ya no necesitás.
 
 ## Desarrollo
-1. **Revisión** (15 min): Busca cosas que ya no necesitas.
+1. **Revisión** (15 min): Buscá cosas que ya no necesitás.
 2. **Acción** (15 min): Regala, dona o vende en una venta de garaje.
-3. **Reflexión** (10 min): ¿Cómo te sientes al compartir?
+3. **Reflexión** (10 min): ¿Cómo te sentís al compartir?
 
 ## Cierre
 - ¿Qué cosas compartiste o reusaste?
-- ¿Cómo te sientes al dar una segunda vida a los objetos?
+- ¿Cómo te sentís al dar una segunda vida a los objetos?
 
 ---
 ## Texto original completo de la actividad

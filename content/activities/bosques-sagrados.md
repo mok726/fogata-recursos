@@ -4,7 +4,7 @@ title: "Bosques Sagrados"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-sagrados/"
-description: "Investiga tres comunidades indígenas o religiones que valoren los bosques como lugares sagrados. Comparte tus hallazgos."
+description: "Investigá tres comunidades indígenas o religiones que valoren los bosques como lugares sagrados. Compartí tus hallazgos."
 summary: "Investigación sobre el valor sagrado de los bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -121,7 +121,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Espiritualidad
@@ -166,17 +166,17 @@ rama_rovers:
 # Bosques Sagrados
 
 ## Resumen
-Investiga tres comunidades indígenas o religiones que valoren los bosques como lugares sagrados, espirituales o religiosos. Comparte tus hallazgos con tu grupo.
+Investigá tres comunidades indígenas o religiones que valoren los bosques como lugares sagrados, espirituales o religiosos. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Elige tres comunidades indígenas o religiones que valoren los bosques.
-2. Reúne materiales de investigación sobre sus creencias y prácticas.
+1. Elegí tres comunidades indígenas o religiones que valoren los bosques.
+2. Reuní materiales de investigación sobre sus creencias y prácticas.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga por qué el bosque es importante para cada grupo.
-2. **Análisis** (15 min): Analiza cómo usan el bosque, qué partes usan y cuándo.
-3. **Reflexión** (15 min): Piensa en los tabús del bosque y por qué fue elegido como lugar especial.
-4. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
+1. **Investigación** (30 min): Investigá por qué el bosque es importante para cada grupo.
+2. **Análisis** (15 min): Analizá cómo usan el bosque, qué partes usan y cuándo.
+3. **Reflexión** (15 min): Pensá en los tabús del bosque y por qué fue elegido como lugar especial.
+4. **Presentación** (15 min): Compartí tus hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el valor sagrado de los bosques?

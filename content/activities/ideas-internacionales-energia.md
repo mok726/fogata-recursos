@@ -4,8 +4,8 @@ title: "Ideas internacionales sobre energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-internacionales-energia/"
-description: "Habla con amigos de otros países sobre sus hábitos energéticos. ¿Qué es más 'verde' en su estilo de vida? ¿Qué pueden aprender el uno del otro?"
-summary: "Comparte ideas energéticas internacionales."
+description: "Hablá con amigos de otros países sobre sus hábitos energéticos. ¿Qué es más 'verde' en su estilo de vida? ¿Qué pueden aprender el uno del otro?"
+summary: "Compartí ideas energéticas internacionales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,35 +163,35 @@ translation_notice:
 # ¡Ideas internacionales sobre energía!
 
 ## Resumen
-¿Tienes amigos de otros países? Habla con ellos sobre sus hábitos energéticos. ¿Qué es más "verde" en su estilo de vida? ¿Qué pueden aprender el uno del otro?
+¿Tenés amigos de otros países? Hablá con ellos sobre sus hábitos energéticos. ¿Qué es más "verde" en su estilo de vida? ¿Qué pueden aprender el uno del otro?
 
 ## Preparación
-1. Piensa en amigos o conocidos de otros países.
-2. Prepara preguntas sobre hábitos energéticos.
-3. Prepara materiales para tomar notas.
+1. Pensá en amigos o conocidos de otros países.
+2. Prepará preguntas sobre hábitos energéticos.
+3. Prepará materiales para tomar notas.
 
 ## Desarrollo
 
 ### Parte I - Contactar
-Habla con amigos de otros países (en persona, por mensaje o videollamada).
+Hablá con amigos de otros países (en persona, por mensaje o videollamada).
 
 **Preguntas guía:**
 - ¿Cómo usan la energía en tu país?
-- ¿Qué haces para ahorrar energía?
+- ¿Qué hacés para ahorrar energía?
 - ¿Qué es más "verde" en tu cultura?
 - ¿Hay apagones programados?
 
 ### Parte II - Comparar
-Compara sus hábitos con los tuyos:
+Compará sus hábitos con los tuyos:
 
 **Ejemplo:** En Pakistán, el gobierno aplica "cortes de carga" donde la electricidad se apaga varias horas al día para ahorrar energía.
 
 ### Parte III - Compartir
-Comparte lo que aprendiste con el grupo.
+Compartí lo que aprendiste con el grupo.
 
 ## Cierre
 1. ¿Qué hábito de otro país te pareció interesante?
-2. ¿Qué puedes aprender de otras culturas?
+2. ¿Qué podés aprender de otras culturas?
 3. ¿Qué cambiarías en tus hábitos?
 
 ## Texto original completo de la actividad

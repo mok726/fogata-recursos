@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reduce, Reúsa, Recicla"
+title: "Reducí, Reúsa, Recicla"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/reduce-reusa-recicla/"
-description: "Haz un balance del uso de objetos derivados de árboles en tu hogar. Crea una lista de recordatorios para reducir, reusar y reciclar."
+description: "Hacé un balance del uso de objetos derivados de árboles en tu hogar. Creá una lista de recordatorios para reducir, reusar y reciclar."
 summary: "Auditoría de productos derivados de árboles en el hogar."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,20 +164,20 @@ rama_rovers:
   - 19  # Tomo decisiones económicas que acompañen mi proyecto de vida de manera consciente y responsable.
 ---
 
-# Reduce, Reúsa, Recicla
+# Reducí, Reúsa, Recicla
 
 ## Resumen
-Haz un balance del uso de objetos derivados de árboles en tu hogar. Crea una lista de recordatorios para reducir, reusar y reciclar.
+Hacé un balance del uso de objetos derivados de árboles en tu hogar. Creá una lista de recordatorios para reducir, reusar y reciclar.
 
 ## Preparación
-1. Prepara un cuaderno o papel para hacer el balance.
-2. Busca los materiales para crear la lista de recordatorios.
+1. Prepará un cuaderno o papel para hacer el balance.
+2. Buscá los materiales para crear la lista de recordatorios.
 
 ## Desarrollo
-1. **Auditoría** (variable durante varios días): Revisa tu hogar y anota los objetos derivados de árboles (toallas de papel, cuadernos, etc.).
-2. **Análisis** (15 min): Reflexiona sobre si están usando más de lo necesario, si podrían reusar más cosas y si están reciclando.
-3. **Lista de recordatorios** (15 min): Crea una lista con consejos prácticos.
-4. **Implementación** (tiempo continuo): Coloca la lista donde toda la familia pueda verla fácilmente y revisa su impacto.
+1. **Auditoría** (variable durante varios días): Revisá tu hogar y anotá los objetos derivados de árboles (toallas de papel, cuadernos, etc.).
+2. **Análisis** (15 min): Reflexioná sobre si están usando más de lo necesario, si podrían reusar más cosas y si están reciclando.
+3. **Lista de recordatorios** (15 min): Creá una lista con consejos prácticos.
+4. **Implementación** (tiempo continuo): Colocá la lista donde toda la familia pueda verla fácilmente y revisá su impacto.
 
 ## Cierre
 - ¿Qué aprendiste sobre el consumo de productos derivados de los bosques en tu hogar?

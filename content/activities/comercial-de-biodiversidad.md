@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Comercial de biodiversidad!
 
 ## Resumen
-Realiza un comercial sobre la biodiversidad. Grábalo y publícalo en YouTube. Monitorea el número de reproducciones (el número de personas que miran tu comercial) y los comentarios que aparecen en la página web durante un mes. Presenta un relato a tu grupo.
+Realizá un comercial sobre la biodiversidad. Grabalo y publicalo en YouTube. Monitoreá el número de reproducciones (el número de personas que miran tu comercial) y los comentarios que aparecen en la página web durante un mes. Presentá un relato a tu grupo.
 
 ## Preparación
-1. Escribe un guión para el comercial.
-2. Reúne el equipo y los materiales.
-3. Organiza la grabación.
+1. Escribí un guión para el comercial.
+2. Reuní el equipo y los materiales.
+3. Organizá la grabación.
 
 ## Desarrollo
-1. Graba el comercial.
-2. Edita el video.
-3. Publícalo en YouTube solo con el permiso de todos los que aparecen y de sus padres (en menores, mejor sin caras ni nombres).
-4. Monitorea reproducciones y comentarios durante un mes.
+1. Grabá el comercial.
+2. Editá el video.
+3. Publicalo en YouTube solo con el permiso de todos los que aparecen y de sus padres (en menores, mejor sin caras ni nombres).
+4. Monitoreá reproducciones y comentarios durante un mes.
 
 ## Cierre
-1. Presenta un relato a tu grupo.
-2. Reflexiona sobre el impacto del comercial.
+1. Presentá un relato a tu grupo.
+2. Reflexioná sobre el impacto del comercial.
 3. Pregunta final: ¿Cómo podemos usar los medios para proteger la biodiversidad?
 
 ## Texto original completo de la actividad

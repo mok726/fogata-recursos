@@ -166,23 +166,23 @@ rama_rovers:
 # ¡Casa para murciélagos!
 
 ## Resumen
-Averigua qué especies de murciélagos viven en tu área y qué hábitat y alimentos necesitan. Prepara una casa para murciélagos y colócala en un lugar apropiado.
+Averiguá qué especies de murciélagos viven en tu área y qué hábitat y alimentos necesitan. Prepará una casa para murciélagos y colocala en un lugar apropiado.
 
 ## Preparación
-1. Investiga sobre murciélagos de tu área.
-2. Reúne materiales para construir la casa.
-3. Identifica un lugar apropiado para colocarla.
+1. Investigá sobre murciélagos de tu área.
+2. Reuní materiales para construir la casa.
+3. Identificá un lugar apropiado para colocarla.
 
 ## Desarrollo
-1. Investiga qué especies de murciélagos viven en tu área.
-2. Construye una casa para murciélagos siguiendo las instrucciones.
-3. Coloca la casa en un lugar apropiado.
-4. Obsérvala en la tarde y hacia la noche durante varias semanas.
-5. Registra tus observaciones. **Nunca toques un murciélago** (pueden transmitir rabia); si encuentras uno caído, avisa a un adulto.
+1. Investigá qué especies de murciélagos viven en tu área.
+2. Construí una casa para murciélagos siguiendo las instrucciones.
+3. Colocá la casa en un lugar apropiado.
+4. Observala en la tarde y hacia la noche durante varias semanas.
+5. Registrá tus observaciones. **Nunca toques un murciélago** (pueden transmitir rabia); si encontrás uno caído, avisa a un adulto.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué murciélagos visitaron la casa?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué murciélagos visitaron la casa?
 3. Pregunta final: ¿Cómo ayudan los murciélagos a la biodiversidad?
 
 ## Texto original completo de la actividad

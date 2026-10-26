@@ -161,20 +161,20 @@ rama_rovers:
 ¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.
 
 ## Preparación
-1. Reúne los materiales: una jarra o frasco grande de vidrio, dos termómetros, un recipiente, agua y una lámpara fuerte.
-2. Prepara una tabla para registrar temperaturas.
-3. Explica el experimento al grupo.
+1. Reuní los materiales: una jarra o frasco grande de vidrio, dos termómetros, un recipiente, agua y una lámpara fuerte.
+2. Prepará una tabla para registrar temperaturas.
+3. Explicá el experimento al grupo.
 
 ## Desarrollo
-1. Coloca un termómetro en el recipiente vacío y otro dentro de la jarra.
-2. Coloca el recipiente y la jarra bajo la lámpara.
-3. Registra las temperaturas cada minuto durante diez minutos.
-4. Observa las diferencias de temperatura entre ambos termómetros.
-5. Discute: ¿Qué representa la jarra? ¿Qué representa la lámpara?
+1. Colocá un termómetro en el recipiente vacío y otro dentro de la jarra.
+2. Colocá el recipiente y la jarra bajo la lámpara.
+3. Registrá las temperaturas cada minuto durante diez minutos.
+4. Observá las diferencias de temperatura entre ambos termómetros.
+5. Discutí: ¿Qué representa la jarra? ¿Qué representa la lámpara?
 
 ## Cierre
-1. Compara los resultados y discute el efecto invernadero.
-2. Reflexiona: ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
+1. Compará los resultados y discutí el efecto invernadero.
+2. Reflexioná: ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
 3. Pregunta final: ¿Cómo podemos reducir la cantidad de gases de efecto invernadero en la atmósfera?
 
 ## Texto original completo de la actividad

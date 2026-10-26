@@ -5,7 +5,7 @@ duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-de-carteles-plastico/"
 description: "Los jóvenes diseñan y crean carteles para concienciar sobre el problema de los plásticos de un solo uso, desarrollando su creatividad y habilidades de comunicación para influir en su comunidad."
-summary: "Crea carteles para concienciar sobre el plástico."
+summary: "Creá carteles para concienciar sobre el plástico."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -169,7 +169,7 @@ rama_rovers:
 # ¡Campaña de carteles!
 
 ## Resumen
-Ponte creativo y demuestra tu liderazgo en un cartel. Usa tu obra de arte para que la gente piense en cambiar su hábito de utilizar plástico de un solo uso y mantener el vecindario limpio. Comparte tus carteles en redes sociales usando el hashtag #CleanSeas y, si es legal, colócalos en lugares donde la contaminación causada por el plástico esté en su peor momento.
+Ponete creativo y demuestra tu liderazgo en un cartel. Usá tu obra de arte para que la gente piense en cambiar su hábito de utilizar plástico de un solo uso y mantener el vecindario limpio. Compartí tus carteles en redes sociales usando el hashtag #CleanSeas y, si es legal, colocalos en lugares donde la contaminación causada por el plástico esté en su peor momento.
 
 ## Preparación
 1. Reunir materiales de arte: hojas, lápices, marcadores, pinturas, etc.
@@ -196,7 +196,7 @@ Ponte creativo y demuestra tu liderazgo en un cartel. Usa tu obra de arte para q
 
 ## Cierre
 1. ¿Qué mensaje quisiste transmitir con tu cartel?
-2. ¿Crees que los carteles pueden cambiar el comportamiento de las personas?
+2. ¿Creés que los carteles pueden cambiar el comportamiento de las personas?
 3. ¿Qué otras formas de concienciar sobre el plástico se te ocurren?
 
 ## Texto original completo de la actividad

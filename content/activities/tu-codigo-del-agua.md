@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-codigo-del-agua/"
 description: "Los participantes crean su propio código personal de conducta para el uso responsable del agua, comprometiéndose con acciones concretas para conservar y proteger este recurso."
-summary: "Crea tu código personal para cuidar el agua."
+summary: "Creá tu código personal para cuidar el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -169,23 +169,23 @@ translation_notice:
 En esta actividad, los participantes reflexionan sobre la importancia de cuidar el agua y crean su propio "Código del Agua", un conjunto de compromisos personales para usar el agua de manera responsable. El código puede incluir acciones concretas para ahorrar agua en casa, en la escuela y en la comunidad.
 
 ## Preparación
-1. Prepara los materiales de escritura y arte.
-2. Piensa en ejemplos de acciones para cuidar el agua.
+1. Prepará los materiales de escritura y arte.
+2. Pensá en ejemplos de acciones para cuidar el agua.
 
 ## Desarrollo
 
 ### Paso 1: Reflexión
-1. Pide a los participantes que piensen en la importancia del agua y en cómo pueden contribuir a su cuidado.
-2. Pregunta: ¿Qué acciones puedes tomar para ahorrar agua? ¿Cómo puedes inspirar a otros a hacer lo mismo?
+1. Pedí a los participantes que piensen en la importancia del agua y en cómo pueden contribuir a su cuidado.
+2. Pregunta: ¿Qué acciones podés tomar para ahorrar agua? ¿Cómo podés inspirar a otros a hacer lo mismo?
 
 ### Paso 2: Creación del código
-3. Explica que cada participante creará su propio "Código del Agua", una lista de compromisos personales para el cuidado del agua.
+3. Explicá que cada participante creará su propio "Código del Agua", una lista de compromisos personales para el cuidado del agua.
 4. El código puede incluir entre 5 y 10 acciones concretas.
 5. Los participantes pueden escribir su código en un papel y decorarlo con dibujos.
 
 ### Paso 3: Compartir
-6. Pide a los participantes que compartan su código con el grupo.
-7. Anima a los participantes a firmar su código como un compromiso formal.
+6. Pedí a los participantes que compartan su código con el grupo.
+7. Animá a los participantes a firmar su código como un compromiso formal.
 
 ## Ejemplos de acciones para el Código del Agua
 - Cerrar la canilla mientras me cepillo los dientes.
@@ -201,8 +201,8 @@ En esta actividad, los participantes reflexionan sobre la importancia de cuidar 
 
 ## Cierre
 - ¿Qué acciones incluirás en tu código?
-- ¿Cómo te sientes al comprometerte con el cuidado del agua?
-- ¿Cómo puedes inspirar a otros a crear su propio código?
+- ¿Cómo te sentís al comprometerte con el cuidado del agua?
+- ¿Cómo podés inspirar a otros a crear su propio código?
 
 ## Texto original completo de la actividad
 

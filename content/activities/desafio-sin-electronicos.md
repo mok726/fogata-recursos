@@ -5,7 +5,7 @@ duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/desafio-sin-electronicos/"
 description: "Desafío de un mes para vivir sin dispositivos electrónicos durante ciertas horas al día, descubriendo actividades alternativas."
-summary: "Aprende a vivir sin electrónicos."
+summary: "Aprendé a vivir sin electrónicos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -158,17 +158,17 @@ translation_notice:
 # ¡Desafío sin electrónicos!
 
 ## Resumen
-Cada vez pasamos más tiempo usando electrónicos como celulares, computadoras y televisores. ¿Cuánto tiempo pasas usando electrónicos cada día? Este desafío consiste en vivir sin electrónicos durante ciertas horas al día durante un mes.
+Cada vez pasamos más tiempo usando electrónicos como celulares, computadoras y televisores. ¿Cuánto tiempo pasás usando electrónicos cada día? Este desafío consiste en vivir sin electrónicos durante ciertas horas al día durante un mes.
 
 ## Preparación
-1. Piensa en cuánto tiempo usas electrónicos cada día.
-2. Decide qué horas del día estarán libres de electrónicos.
-3. Prepara una lista de actividades alternativas.
+1. Pensá en cuánto tiempo usás electrónicos cada día.
+2. Decidí qué horas del día estarán libres de electrónicos.
+3. Prepará una lista de actividades alternativas.
 
 ## Desarrollo
 
 ### Parte I - Registrar
-Durante un mes, registra cuántas horas al día logras estar sin electrónicos.
+Durante un mes, registra cuántas horas al día lográs estar sin electrónicos.
 
 | Día | Horas sin electrónicos | Actividades realizadas |
 |-----|-----------------------|----------------------|
@@ -178,7 +178,7 @@ Durante un mes, registra cuántas horas al día logras estar sin electrónicos.
 | ... | | |
 
 ### Parte II - Actividades alternativas
-Durante tus horas sin electrónicos, puedes hacer:
+Durante tus horas sin electrónicos, podés hacer:
 
 - Caminar
 - Practicar un deporte

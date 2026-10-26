@@ -4,8 +4,8 @@ title: "Horno Solar - Cocina Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/horno-solar-cocina-solar/"
-description: "Construye tu propio horno o cocina solar para cocinar alimentos usando la energía del Sol, explorando diferentes diseños y materiales."
-summary: "Cocina con energía solar."
+description: "Construí tu propio horno o cocina solar para cocinar alimentos usando la energía del Sol, explorando diferentes diseños y materiales."
+summary: "Cociná con energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -204,7 +204,7 @@ Coloquen la cocina solar al Sol y prueben a cocinar algo simple (ej. hervir agua
 
 ## Cierre
 1. ¿Qué tan efectiva fue la cocina solar?
-2. ¿Qué otros diseños de hornos solares conoces?
+2. ¿Qué otros diseños de hornos solares conocés?
 3. ¿Cómo se podría mejorar el diseño?
 
 ## Texto original completo de la actividad

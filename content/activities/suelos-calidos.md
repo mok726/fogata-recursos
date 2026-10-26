@@ -163,24 +163,24 @@ rama_rovers:
 # ¡Suelos cálidos!
 
 ## Resumen
-Algunas partes del mundo se calientan más rápidamente que otras debido a los diferentes tipos de superficies, colores y otros factores. Descubre, por medio de un experimento, cómo los suelos de diferentes colores y el agua absorben y retienen el calor.
+Algunas partes del mundo se calientan más rápidamente que otras debido a los diferentes tipos de superficies, colores y otros factores. Descubrí, por medio de un experimento, cómo los suelos de diferentes colores y el agua absorben y retienen el calor.
 
 ## Preparación
-1. Reúne los materiales: tres moldes para tarta (o platos), tierra oscura, arena de color claro, agua, tres termómetros y un reloj.
-2. Llena los moldes hasta el mismo nivel: uno con tierra, uno con arena y uno con agua.
-3. Coloca un termómetro en cada molde.
-4. Busca un área soleada o consigue una lámpara fuerte.
+1. Reuní los materiales: tres moldes para tarta (o platos), tierra oscura, arena de color claro, agua, tres termómetros y un reloj.
+2. Llená los moldes hasta el mismo nivel: uno con tierra, uno con arena y uno con agua.
+3. Colocá un termómetro en cada molde.
+4. Buscá un área soleada o conseguí una lámpara fuerte.
 
 ## Desarrollo
-1. Coloca los moldes bajo una lámpara fuerte o en la luz del Sol.
-2. Registra las temperaturas cada minuto durante diez minutos.
+1. Colocá los moldes bajo una lámpara fuerte o en la luz del Sol.
+2. Registrá las temperaturas cada minuto durante diez minutos.
 3. Luego coloca los moldes en un área con sombra.
-4. Registra las temperaturas cada minuto durante otros diez minutos.
+4. Registrá las temperaturas cada minuto durante otros diez minutos.
 5. Opcional: experimenta con tierra húmeda, tierra seca, restos de césped u otros tipos de cubierta.
 
 ## Cierre
-1. Compara los resultados de las diferentes superficies.
-2. Discute: ¿Cuáles superficies de tu área absorben la mayor cantidad de calor del Sol?
+1. Compará los resultados de las diferentes superficies.
+2. Discutí: ¿Cuáles superficies de tu área absorben la mayor cantidad de calor del Sol?
 3. Pregunta final: ¿Cómo influye el color de las superficies del suelo en la cantidad de calor que es absorbido?
 
 ## Texto original completo de la actividad

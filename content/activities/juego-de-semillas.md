@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Juego de semillas!
 
 ## Resumen
-Inventa un juego sobre semillas y biodiversidad. Por ejemplo, podrías inventar un juego de parejas donde los jugadores deben unir arroz, maíz, trigo u otras semillas reales con pistas o dibujos de las plantas correspondientes. Prueba este juego con tus amigos.
+Inventá un juego sobre semillas y biodiversidad. Por ejemplo, podrías inventar un juego de parejas donde los jugadores deben unir arroz, maíz, trigo u otras semillas reales con pistas o dibujos de las plantas correspondientes. Probá este juego con tus amigos.
 
 ## Preparación
-1. Reúne semillas reales (arroz, maíz, trigo, etc.).
-2. Prepara cartulinas para las tarjetas.
-3. Organiza los grupos de trabajo.
+1. Reuní semillas reales (arroz, maíz, trigo, etc.).
+2. Prepará cartulinas para las tarjetas.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Inventa un juego sobre semillas y biodiversidad.
-2. Crea las tarjetas o materiales necesarios.
-3. Prueba el juego con tus amigos.
-4. Reflexiona: ¿Qué aprendiste sobre las semillas?
+1. Inventá un juego sobre semillas y biodiversidad.
+2. Creá las tarjetas o materiales necesarios.
+3. Probá el juego con tus amigos.
+4. Reflexioná: ¿Qué aprendiste sobre las semillas?
 
 ## Cierre
-1. Comparte tu juego con el grupo.
-2. Juega con otros participantes.
+1. Compartí tu juego con el grupo.
+2. Jugá con otros participantes.
 3. Pregunta final: ¿Por qué es importante la diversidad de semillas?
 
 ## Texto original completo de la actividad

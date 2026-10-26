@@ -1,9 +1,9 @@
 ---
-title: "Inventa un juego o juguete"
+title: "Inventá un juego o juguete"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventa-un-juego-o-juguete/"
-description: "Inventa un juego o juguete con materiales naturales o reciclados."
+description: "Inventá un juego o juguete con materiales naturales o reciclados."
 summary: "Juego o juguete reciclado."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Inventa un juego o juguete!
+# ¡Inventá un juego o juguete!
 
 ## Resumen
-Inventa un juego o juguete con materiales naturales o reciclados y pruébalo con tus amigos.
+Inventá un juego o juguete con materiales naturales o reciclados y probalo con tus amigos.
 
 ## Preparación
-1. Reúne materiales naturales o reciclados.
-2. Piensa en ideas creativas.
+1. Reuní materiales naturales o reciclados.
+2. Pensá en ideas creativas.
 
 ## Desarrollo
-1. **Creación** (30 min): Diseña y construye tu juego o juguete.
-2. **Prueba** (20 min): Prueba el juego con tus amigos.
+1. **Creación** (30 min): Diseñá y construí tu juego o juguete.
+2. **Prueba** (20 min): Probá el juego con tus amigos.
 3. **Reflexión** (10 min): ¿Qué funcionó bien? ¿Qué mejorarías?
 
 ## Cierre

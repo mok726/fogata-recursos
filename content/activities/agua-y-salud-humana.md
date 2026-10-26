@@ -168,19 +168,19 @@ translation_notice:
 780 millones de personas en el mundo no tienen acceso a agua potable segura y 2.500 millones carecen de acceso a saneamiento básico. Más de 3,4 millones de personas mueren cada año por causas relacionadas con el agua, el saneamiento y la higiene. Casi todas las muertes, el 99 por ciento, ocurren en el mundo en desarrollo. Además, cada 20 segundos, un niño muere por una enfermedad relacionada con el agua. En esta actividad, los participantes investigan y escriben un artículo periodístico sobre la relación entre la disponibilidad de agua y la salud humana.
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Proporciona acceso a Internet o material impreso para la investigación.
+1. Prepará los materiales de escritura.
+2. Proporcioná acceso a Internet o material impreso para la investigación.
 
 ## Desarrollo
 
 ### Paso 1: Formación de grupos
-1. Divide a los participantes en dos grupos.
-2. Explica que cada grupo tendrá que escribir un artículo periodístico sobre la disponibilidad de agua y la salud humana.
+1. Dividí a los participantes en dos grupos.
+2. Explicá que cada grupo tendrá que escribir un artículo periodístico sobre la disponibilidad de agua y la salud humana.
 3. Si necesitan más información, pueden buscar en Internet o en la biblioteca.
 
 ### Paso 2: Investigación y escritura
 4. En una sesión futura, da a los grupos tiempo suficiente para escribir sus artículos.
-5. Pide a cada grupo que presente su trabajo al resto de los participantes.
+5. Pedí a cada grupo que presente su trabajo al resto de los participantes.
 
 ### Paso 3: Publicación
 6. Pueden publicar los artículos en la escuela, el lugar de reunión o la biblioteca.

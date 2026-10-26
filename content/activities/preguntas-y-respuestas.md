@@ -160,9 +160,9 @@ rama_rovers:
 Divídanse en parejas, un miembro de cada pareja deberá jugar el papel de un agricultor y el otro de un entrevistador/reportero. Elijan un país para cada pareja.
 
 ## Preparación
-1. Forma parejas.
+1. Formá parejas.
 2. Cada pareja elige un país para investigar.
-3. Prepara recursos para la investigación.
+3. Prepará recursos para la investigación.
 
 ## Desarrollo
 1. Cada agricultor investiga las cuestiones relacionadas con el clima de su país.

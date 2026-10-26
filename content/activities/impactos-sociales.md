@@ -4,8 +4,8 @@ title: "Impactos sociales de la energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/impactos-sociales/"
-description: "Investiga los impactos sociales positivos y negativos de una planta de energía en una comunidad local o de otro país."
-summary: "Descubre cómo la energía afecta a las comunidades."
+description: "Investigá los impactos sociales positivos y negativos de una planta de energía en una comunidad local o de otro país."
+summary: "Descubrí cómo la energía afecta a las comunidades."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -118,7 +118,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Impacto social
   - Energía
@@ -160,17 +160,17 @@ translation_notice:
 # ¡Impactos sociales de la energía!
 
 ## Resumen
-Las plantas de energía pueden tener consecuencias positivas y negativas en las comunidades. Dan acceso a electricidad, pero también pueden dañar el medio ambiente y la salud. Investiga una planta de energía en tu comunidad o en otro lugar.
+Las plantas de energía pueden tener consecuencias positivas y negativas en las comunidades. Dan acceso a electricidad, pero también pueden dañar el medio ambiente y la salud. Investigá una planta de energía en tu comunidad o en otro lugar.
 
 ## Preparación
-1. Lee la información sobre impactos sociales de la energía.
-2. Identifica una planta de energía para investigar.
-3. Prepara preguntas para entrevistas.
+1. Leé la información sobre impactos sociales de la energía.
+2. Identificá una planta de energía para investigar.
+3. Prepará preguntas para entrevistas.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga una planta de energía en tu comunidad o en otro país:
+Investigá una planta de energía en tu comunidad o en otro país:
 
 **Preguntas guía:**
 - ¿Cómo impacta la planta a las personas que viven cerca?
@@ -179,10 +179,10 @@ Investiga una planta de energía en tu comunidad o en otro país:
 - ¿Cómo se siente la comunidad al respecto?
 
 ### Parte II - Entrevista (opcional)
-Si vives cerca de una planta de energía, entrevista a personas de tu comunidad sobre cómo les ha afectado.
+Si vivís cerca de una planta de energía, entrevista a personas de tu comunidad sobre cómo les ha afectado.
 
 ### Parte III - Presentación
-Presenta tus hallazgos al grupo.
+Presentá tus hallazgos al grupo.
 
 ## Cierre
 1. ¿Qué impacto positivo encontraste?

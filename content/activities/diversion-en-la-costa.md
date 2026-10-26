@@ -4,7 +4,7 @@ title: "Diversión en la Costa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-en-la-costa/"
-description: "Investiga las actividades recreativas en la playa y su impacto en el medio ambiente marino."
+description: "Investigá las actividades recreativas en la playa y su impacto en el medio ambiente marino."
 summary: "Investigación sobre actividades costeras."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -172,19 +172,19 @@ rama_rovers:
 # Diversión en la Costa
 
 ## Resumen
-Investiga las actividades recreativas en la playa y su impacto en el medio ambiente marino.
+Investigá las actividades recreativas en la playa y su impacto en el medio ambiente marino.
 
 ## Preparación
-1. Piensa en todas las actividades recreativas que se pueden hacer en la playa.
-2. Prepara una encuesta o visita a la playa.
-3. Asegura la supervisión de un adulto.
+1. Pensá en todas las actividades recreativas que se pueden hacer en la playa.
+2. Prepará una encuesta o visita a la playa.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Lluvia de ideas** (10 min): Enumera actividades recreativas en la playa.
+1. **Lluvia de ideas** (10 min): Enumerá actividades recreativas en la playa.
 2. **Encuesta** (20 min): Conduce una encuesta en tu área o visita la playa y cuenta participantes.
-3. **Gráficas** (15 min): Elabora gráficas con los datos.
-4. **Comparación** (15 min): Compara hallazgos con otras visitas.
-5. **Extensión** (opcional): Lee el artículo sobre turismo y tortugas en Kenia.
+3. **Gráficas** (15 min): Elaborá gráficas con los datos.
+4. **Comparación** (15 min): Compará hallazgos con otras visitas.
+5. **Extensión** (opcional): Leé el artículo sobre turismo y tortugas en Kenia.
 
 ## Cierre
 - ¿Qué actividades son más populares en la playa?

@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-crecimiento-humano/"
 description: "Los participantes reflexionan sobre cómo el crecimiento de la población afecta los recursos hídricos a través de un ejercicio de dibujo que muestra los cambios en un ecosistema lacustre."
-summary: "Dibuja cómo el crecimiento humano afecta el agua."
+summary: "Dibujá cómo el crecimiento humano afecta el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,8 +167,8 @@ translation_notice:
 La escasez de agua está entre los principales problemas que enfrentarán todas las sociedades y países en el siglo XXI. Los factores que ejercen la mayor presión sobre el agua son el crecimiento de la población y el mayor consumo resultante de los ingresos promedio más altos por persona. El uso del agua ha crecido a más del doble de la tasa de crecimiento de la población en el último siglo. En esta actividad, los participantes reflexionan sobre cómo el crecimiento de la población afecta los recursos hídricos a través de un ejercicio de dibujo.
 
 ## Preparación
-1. Prepara cartulina, lápices y reglas.
-2. Explica el concepto de escasez de agua y crecimiento poblacional.
+1. Prepará cartulina, lápices y reglas.
+2. Explicá el concepto de escasez de agua y crecimiento poblacional.
 
 ## Desarrollo
 
@@ -176,8 +176,8 @@ La escasez de agua está entre los principales problemas que enfrentarán todas 
 1. Como grupo, reflexionen sobre el agua y el crecimiento de la población. ¿Cómo podrían verse afectadas las fuentes de agua?
 
 ### Paso 2: Ejercicio de dibujo
-2. Entrega a cada participante una cartulina grande y pídeles que dividan la página en seis secciones iguales usando un lápiz y una regla.
-3. Mientras lees cada uno de los siguientes escenarios, pide a los participantes que dibujen ilustraciones que muestren lo que has indicado en cada una de las seis secciones de su papel. A medida que dibujan las imágenes sucesivas, deben modificar el tamaño y la apariencia del agua y el número de peces en el lago para reflejar los cambios que ocurren.
+2. Entregá a cada participante una cartulina grande y pediles que dividan la página en seis secciones iguales usando un lápiz y una regla.
+3. Mientras leés cada uno de los siguientes escenarios, pide a los participantes que dibujen ilustraciones que muestren lo que has indicado en cada una de las seis secciones de su papel. A medida que dibujan las imágenes sucesivas, deben modificar el tamaño y la apariencia del agua y el número de peces en el lago para reflejar los cambios que ocurren.
 
 **Escenarios:**
 1. Diez peces nadan felices en un lago limpio.
@@ -188,10 +188,10 @@ La escasez de agua está entre los principales problemas que enfrentarán todas 
 6. Todas las casas necesitan más agua para sus actividades cotidianas.
 
 ### Paso 3: Presentación
-4. Pide a cada participante que presente su trabajo y anima la discusión.
+4. Pedí a cada participante que presente su trabajo y animá la discusión.
 
 ## Para participantes mayores
-Pide a los participantes mayores que escriban pies de foto para describir con sus propias palabras lo que está sucediendo en cada una de sus seis escenas.
+Pedí a los participantes mayores que escriban pies de foto para describir con sus propias palabras lo que está sucediendo en cada una de sus seis escenas.
 
 ## Cierre
 - ¿Para qué usan el agua las plantas, los animales y las personas en las imágenes?

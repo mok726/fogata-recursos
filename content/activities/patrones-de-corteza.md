@@ -4,7 +4,7 @@ title: "Patrones de Corteza"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/patrones-de-corteza/"
-description: "Visita un arboreto y calca las cortezas de los tres árboles más inusuales. Etiqueta cada árbol con su nombre y origen."
+description: "Visitá un arboreto y calca las cortezas de los tres árboles más inusuales. Etiquetá cada árbol con su nombre y origen."
 summary: "Calcos de cortezas de árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -162,18 +162,18 @@ rama_rovers: []  # No aplica (actividad nivel 1)
 # Patrones de Corteza
 
 ## Resumen
-Visita un arboreto y calca las cortezas de los tres árboles más inusuales. Etiqueta cada árbol con su nombre y origen.
+Visitá un arboreto y calca las cortezas de los tres árboles más inusuales. Etiquetá cada árbol con su nombre y origen.
 
 ## Preparación
-1. Visita un arboreto o museo al aire libre de árboles.
-2. Prepara papel y lápices de cera o carboncillo.
-3. Asegura la supervisión de un adulto.
+1. Visitá un arboreto o museo al aire libre de árboles.
+2. Prepará papel y lápices de cera o carboncillo.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Observación** (15 min): Busca los tres árboles más inusuales.
+1. **Observación** (15 min): Buscá los tres árboles más inusuales.
 2. **Calco** (20 min): Calca las cortezas de los árboles elegidos.
-3. **Identificación** (15 min): Etiqueta cada árbol con nombre común y científico.
-4. **Registro** (10 min): Anota dónde crece el árbol naturalmente.
+3. **Identificación** (15 min): Etiquetá cada árbol con nombre común y científico.
+4. **Registro** (10 min): Anotá dónde crece el árbol naturalmente.
 
 ## Cierre
 - ¿Qué patrones de corteza encontraste?

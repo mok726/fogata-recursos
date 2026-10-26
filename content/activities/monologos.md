@@ -3,8 +3,8 @@ title: "Monólogos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/monologos/"
-description: "Debate sobre el monocultivo representando diferentes perspectivas."
-summary: "Debate sobre monocultivo."
+description: "Debatí sobre el monocultivo representando diferentes perspectivas."
+summary: "Debatí sobre monocultivo."
 
 author:
   - FAO
@@ -102,7 +102,7 @@ competencies:
   - Trabajo en equipo
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Investigación
 
@@ -141,7 +141,7 @@ rama_rovers:
 # ¡Monólogos!
 
 ## Resumen
-Debate sobre el monocultivo representando diferentes perspectivas.
+Debatí sobre el monocultivo representando diferentes perspectivas.
 
 ## Preparación
 1. Divídanse en dos grupos: a favor y en contra del monocultivo.
@@ -149,8 +149,8 @@ Debate sobre el monocultivo representando diferentes perspectivas.
 3. Preparen argumentos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Prepara tus argumentos.
-2. **Debate** (25 min): Desarrolla un debate apasionado.
+1. **Investigación** (20 min): Prepará tus argumentos.
+2. **Debate** (25 min): Desarrollá un debate apasionado.
 3. **Conclusión** (15 min): Resume las posiciones.
 
 ## Cierre

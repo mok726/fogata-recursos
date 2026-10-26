@@ -1,9 +1,9 @@
 ---
-title: "Reduce tu huella de cambio climático"
+title: "Reducí tu huella de cambio climático"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduce-tu-huella-de-cambio-climatico/"
-description: "Reflexiona sobre tu impacto ambiental y haz un plan para reducirlo."
+description: "Reflexioná sobre tu impacto ambiental y hacé un plan para reducirlo."
 summary: "Plan de reducción de huella de carbono."
 
 author:
@@ -138,20 +138,20 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Reduce tu huella de cambio climático!
+# ¡Reducí tu huella de cambio climático!
 
 ## Resumen
-Reflexiona sobre cómo tu vida diaria impacta el medio ambiente y haz un plan para reducirlo.
+Reflexioná sobre cómo tu vida diaria impacta el medio ambiente y hacé un plan para reducirlo.
 
 ## Preparación
-1. Reflexiona sobre tu consumo de energía, agua y recursos.
-2. Prepara papel y lapiceras.
-3. Accede a calculadores en línea si es posible.
+1. Reflexioná sobre tu consumo de energía, agua y recursos.
+2. Prepará papel y lapiceras.
+3. Accedé a calculadores en línea si es posible.
 
 ## Desarrollo
-1. **Reflexión** (15 min): ¿Cuánta energía, agua y recursos usas?
-2. **Lista** (15 min): Haz una lista de formas de reducir tu impacto.
-3. **Plan** (15 min): Crea un plan y síguelo durante un mes.
+1. **Reflexión** (15 min): ¿Cuánta energía, agua y recursos usás?
+2. **Lista** (15 min): Hacé una lista de formas de reducir tu impacto.
+3. **Plan** (15 min): Creá un plan y seguilo durante un mes.
 4. **Evaluación** (15 min): ¿Cuánto lograste reducir tu impacto?
 
 ## Cierre

@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Prueba Boscosa"
+title: "Probá Boscosa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/prueba-boscosa/"
-description: "Descarga la aplicación de la FAO Forestal o inventa tu propio juego sobre los bosques. Juégalo con tu grupo."
+description: "Descargá la aplicación de la FAO Forestal o inventá tu propio juego sobre los bosques. Jugalo con tu grupo."
 summary: "Juego interactivo sobre bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,21 +166,21 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información.
 ---
 
-# Prueba Boscosa
+# Probá Boscosa
 
 ## Resumen
-Descarga la aplicación de la FAO Forestal o inventa tu propio juego sobre los bosques. Juégalo con tu grupo.
+Descargá la aplicación de la FAO Forestal o inventá tu propio juego sobre los bosques. Jugalo con tu grupo.
 
 ## Preparación
-1. Descarga la aplicación de la FAO Forestal desde https://itunes.apple.com/en/app/fao-forestry/id490653521?mt=8.
+1. Descargá la aplicación de la FAO Forestal desde https://itunes.apple.com/en/app/fao-forestry/id490653521?mt=8.
 2. O inventa tu propio juego sobre bosques.
-3. Prepara los dispositivos o materiales para jugar.
+3. Prepará los dispositivos o materiales para jugar.
 
 ## Desarrollo
-1. **Descarga/Invención** (15 min): Descarga la app o inventa tu juego.
-2. **Prueba** (20 min): Realiza la prueba en tu dispositivo.
-3. **Juego** (20 min): Juega con tu grupo.
-4. **Reflexión** (10 min): Comparte lo que aprendiste.
+1. **Descarga/Invención** (15 min): Descargá la app o inventá tu juego.
+2. **Prueba** (20 min): Realizá la prueba en tu dispositivo.
+3. **Juego** (20 min): Jugá con tu grupo.
+4. **Reflexión** (10 min): Compartí lo que aprendiste.
 
 ## Cierre
 - ¿Qué aprendiste sobre los bosques con el juego?

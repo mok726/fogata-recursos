@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita una Planta de Procesado de Alimentos"
+title: "Visitá una Planta de Procesado de Alimentos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-una-planta-de-procesado-de-alimentos/"
-description: "Visita una granja o planta de procesado de alimentos para aprender sobre la producción de alimentos."
-summary: "Visita a planta de procesado de alimentos."
+description: "Visitá una granja o planta de procesado de alimentos para aprender sobre la producción de alimentos."
+summary: "Visitá a planta de procesado de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,22 +168,22 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral.
 ---
 
-# Visita una Planta de Procesado de Alimentos
+# Visitá una Planta de Procesado de Alimentos
 
 ## Resumen
-Visita una granja o planta de procesado de alimentos para aprender sobre la producción de alimentos.
+Visitá una granja o planta de procesado de alimentos para aprender sobre la producción de alimentos.
 
 ## Preparación
 1. Planea una excursión a una granja o planta de procesado.
-2. Prepara preguntas sobre los cultivos, animales y procesos.
-3. Lleva cámara y cuaderno para documentar.
+2. Prepará preguntas sobre los cultivos, animales y procesos.
+3. Llevá cámara y cuaderno para documentar.
 
 ## Desarrollo
-1. **Visita** (45 min): Recorre la granja o planta de procesado.
-2. **Observación** (15 min): Observa los diferentes cultivos y procesos.
-3. **Preguntas** (15 min): Pregunta sobre la producción y los nutrientes.
-4. **Documentación** (15 min): Toma notas, fotos y videos.
-5. **Compartir** (15 min): Comparte los materiales en redes o exposiciones.
+1. **Visita** (45 min): Recorré la granja o planta de procesado.
+2. **Observación** (15 min): Observá los diferentes cultivos y procesos.
+3. **Preguntas** (15 min): Preguntá sobre la producción y los nutrientes.
+4. **Documentación** (15 min): Tomá notas, fotos y videos.
+5. **Compartir** (15 min): Compartí los materiales en redes o exposiciones.
 
 ## Cierre
 - ¿Qué alimentos se producen en tu zona?

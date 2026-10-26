@@ -3,7 +3,7 @@ title: "Impactos locales del cambio climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/impactos-locales-del-cambio-climatico/"
-description: "Investiga los posibles impactos del cambio climático en tu área."
+description: "Investigá los posibles impactos del cambio climático en tu área."
 summary: "Impactos climáticos locales."
 
 author:
@@ -107,7 +107,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Cambio climático
@@ -146,16 +146,16 @@ rama_rovers:
 # ¡Impactos locales del cambio climático!
 
 ## Resumen
-Investiga los posibles impactos del cambio climático en tu área y comparte los resultados.
+Investigá los posibles impactos del cambio climático en tu área y compartí los resultados.
 
 ## Preparación
-1. Accede a recursos sobre impactos climáticos.
-2. Prepara materiales para la presentación.
+1. Accedé a recursos sobre impactos climáticos.
+2. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre impactos locales.
+1. **Investigación** (25 min): Aprendé sobre impactos locales.
 2. **Análisis** (15 min): ¿Cómo prepararse para estos cambios?
-3. **Discusión** (10 min): Comparte con tu grupo.
+3. **Discusión** (10 min): Compartí con tu grupo.
 4. **Reflexión** (10 min): ¿Qué podemos hacer?
 
 ## Cierre

@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Arte inspirado en el mar!
 
 ## Resumen
-El mar y la vida marina aparecen en muchos cuentos populares, novelas, poemas, canciones y obras de arte. Encuentra algunos ejemplos. ¿Cuáles aspectos son reales y cuáles son de fantasía? ¿De dónde crees que vienen los aspectos de fantasía? Crea tu propia obra de arte sobre el mar o la vida marina.
+El mar y la vida marina aparecen en muchos cuentos populares, novelas, poemas, canciones y obras de arte. Encontrá algunos ejemplos. ¿Cuáles aspectos son reales y cuáles son de fantasía? ¿De dónde creés que vienen los aspectos de fantasía? Creá tu propia obra de arte sobre el mar o la vida marina.
 
 ## Preparación
-1. Investiga ejemplos de arte sobre el mar.
-2. Prepara materiales artísticos.
-3. Organiza el espacio de trabajo.
+1. Investigá ejemplos de arte sobre el mar.
+2. Prepará materiales artísticos.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Encuentra ejemplos de cuentos, poemas o canciones sobre el mar.
-2. Discute: ¿Qué aspectos son reales y cuáles son de fantasía?
-3. Reflexiona: ¿De dónde vienen los aspectos de fantasía?
-4. Crea tu propia obra de arte sobre el mar o la vida marina.
+1. Encontrá ejemplos de cuentos, poemas o canciones sobre el mar.
+2. Discutí: ¿Qué aspectos son reales y cuáles son de fantasía?
+3. Reflexioná: ¿De dónde vienen los aspectos de fantasía?
+4. Creá tu propia obra de arte sobre el mar o la vida marina.
 
 ## Cierre
-1. Comparte tu obra con el grupo.
-2. Discute la relación entre el arte y la naturaleza.
+1. Compartí tu obra con el grupo.
+2. Discutí la relación entre el arte y la naturaleza.
 3. Pregunta final: ¿Qué te inspiró más del mar?
 
 ## Texto original completo de la actividad

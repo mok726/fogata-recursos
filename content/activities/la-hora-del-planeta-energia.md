@@ -4,8 +4,8 @@ title: "La Hora del Planeta - Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-hora-del-planeta-energia/"
-description: "Participa en La Hora del Planeta, un evento global donde millones de personas apagan sus luces por una hora para crear conciencia sobre el cambio climático y el consumo de energía."
-summary: "Apaga las luces por el planeta."
+description: "Participá en La Hora del Planeta, un evento global donde millones de personas apagan sus luces por una hora para crear conciencia sobre el cambio climático y el consumo de energía."
+summary: "Apagá las luces por el planeta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,23 +166,23 @@ translation_notice:
 La Hora del Planeta es un evento global de concientización sobre el cambio climático y el consumo de energía. Se celebra un sábado de marzo cada año. Durante una hora, millones de personas apagan sus luces y participan en actividades que no requieren electricidad.
 
 ## Preparación
-1. Lee la información sobre eventos globales de concientización.
-2. Investiga si ya hay un evento de La Hora del Planeta en tu comunidad.
-3. Prepara actividades para hacer sin electricidad.
+1. Leé la información sobre eventos globales de concientización.
+2. Investigá si ya hay un evento de La Hora del Planeta en tu comunidad.
+3. Prepará actividades para hacer sin electricidad.
 
 ## Desarrollo
 
 ### Parte I - Planificar
 Si ya hay un evento en tu comunidad, únete. Si no, ¡planea el tuyo!
 
-**Puedes celebrarlo:**
+**Podés celebrarlo:**
 - El día oficial de La Hora del Planeta
 - Cualquier día que elijas
 
 ### Parte II - Participar
 Durante una hora:
-- Apaga todas las luces y electrónicos
-- Participa en actividades sin electricidad
+- Apagá todas las luces y electrónicos
+- Participá en actividades sin electricidad
 
 **Ideas de actividades:**
 - Juegos de mesa a la luz de velas

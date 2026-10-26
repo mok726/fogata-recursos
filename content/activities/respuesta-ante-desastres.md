@@ -3,7 +3,7 @@ title: "Respuesta ante desastres"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/respuesta-ante-desastres/"
-description: "Investiga desastres relacionados con el tiempo y cómo responder."
+description: "Investigá desastres relacionados con el tiempo y cómo responder."
 summary: "Preparación ante desastres climáticos."
 
 author:
@@ -104,7 +104,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Desastres
@@ -143,17 +143,17 @@ rama_rovers:
 # ¡Respuesta ante desastres!
 
 ## Resumen
-Reúne información sobre desastres relacionados con el tiempo y habla sobre cómo responder.
+Reuní información sobre desastres relacionados con el tiempo y hablá sobre cómo responder.
 
 ## Preparación
-1. Identifica desastres relacionados con el clima.
-2. Prepara materiales para la discusión.
-3. Invita a especialistas si es posible.
+1. Identificá desastres relacionados con el clima.
+2. Prepará materiales para la discusión.
+3. Invitá a especialistas si es posible.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne información.
-2. **Discusión** (20 min): Habla con amigos y maestros.
-3. **Especialistas** (15 min): Consulta a expertos.
+1. **Investigación** (20 min): Reuní información.
+2. **Discusión** (20 min): Hablá con amigos y maestros.
+3. **Especialistas** (15 min): Consultá a expertos.
 4. **Reflexión** (5 min): ¿Cómo podemos responder mejor?
 
 ## Cierre

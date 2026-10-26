@@ -5,7 +5,7 @@ duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-propio-emprendimiento/"
 description: "Los participantes crean su propia microempresa desarrollando logotipo, slogan, producto, misión y visión, y presentan su proyecto en una feria de empresas."
-summary: "Crea y presenta tu propia microempresa."
+summary: "Creá y presentá tu propia microempresa."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,8 +167,8 @@ rama_rovers:
 Divídanse en equipos de 3 personas y armen su propia microempresa. Usen la creatividad y plasmen el logotipo, slogan, producto, misión y visión en un afiche con ayuda de marcadores y todos los materiales artísticos que tengan a su disposición. Finalmente hagan una feria de empresas y presenten cada uno la suya tratando de vender su producto. Traten de encontrar la "salsa especial" de su producto, eso que lo hace único. Pueden también caracterizarse como empresarios para entrar en personaje.
 
 ## Preparación
-1. Prepara los materiales de arte.
-2. Organiza el espacio para la feria de empresas.
+1. Prepará los materiales de arte.
+2. Organizá el espacio para la feria de empresas.
 
 ## Desarrollo
 

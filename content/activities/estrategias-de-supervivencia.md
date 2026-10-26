@@ -164,19 +164,19 @@ rama_rovers:
 Diferentes especies de animales poseen distintas estrategias para mantenerse calientes o frías (como desarrollar densos abrigos de pelo en el invierno y abrigos más ligeros en el verano) y para mantenerse secas o húmedas (como poseer plumas que repelen el agua y vivir debajo de un tronco en descomposición).
 
 ## Preparación
-1. Investiga ejemplos de adaptaciones animales.
-2. Prepara materiales para el juego.
-3. Organiza los grupos de trabajo.
+1. Investigá ejemplos de adaptaciones animales.
+2. Prepará materiales para el juego.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
 1. Elaboren una lista de algunas especies de aves, mamíferos, anfibios, reptiles, peces e insectos.
-2. Investiga: ¿Qué estrategias utilizan estas especies?
+2. Investigá: ¿Qué estrategias utilizan estas especies?
 3. Jueguen un juego sobre estos animales y sus estrategias.
-4. Reflexiona: ¿Estas estrategias seguirán funcionando mientras cambia el clima del planeta?
+4. Reflexioná: ¿Estas estrategias seguirán funcionando mientras cambia el clima del planeta?
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre el impacto del cambio climático en las adaptaciones.
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre el impacto del cambio climático en las adaptaciones.
 3. Pregunta final: ¿Qué animal tiene la estrategia de supervivencia más sorprendente?
 
 ## Texto original completo de la actividad

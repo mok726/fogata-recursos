@@ -3,7 +3,7 @@ title: "Observando el Tiempo"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/observando-el-tiempo/"
-description: "Observa el efecto del tiempo en el suelo y cómo responde."
+description: "Observá el efecto del tiempo en el suelo y cómo responde."
 summary: "Observación del clima y el suelo."
 
 author:
@@ -145,15 +145,15 @@ rama_rovers:
 # ¡Observando el Tiempo!
 
 ## Resumen
-Observa el efecto del tiempo en el suelo y cómo responde a diferentes condiciones climáticas.
+Observá el efecto del tiempo en el suelo y cómo responde a diferentes condiciones climáticas.
 
 ## Preparación
-- Identifica un jardín o parque para observar.
-- Prepara un cuaderno para registrar observaciones.
+- Identificá un jardín o parque para observar.
+- Prepará un cuaderno para registrar observaciones.
 
 ## Desarrollo
-1. **Observación** (15 min/día): Observa el suelo en diferentes condiciones climáticas.
-2. **Registro** (5 min/día): Anota cómo responde el suelo.
+1. **Observación** (15 min/día): Observá el suelo en diferentes condiciones climáticas.
+2. **Registro** (5 min/día): Anotá cómo responde el suelo.
 3. **Análisis** (15 min): ¿Cómo cambia el suelo con el clima?
 4. **Propuestas** (10 min): ¿Qué se podría hacer para mejorar la respuesta del suelo?
 

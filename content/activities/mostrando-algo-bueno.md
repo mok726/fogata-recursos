@@ -3,7 +3,7 @@ title: "MOStrando Algo Bueno"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/mostrando-algo-bueno/"
-description: "Investiga la importancia de la Materia Orgánica del Suelo (MOS)."
+description: "Investigá la importancia de la Materia Orgánica del Suelo (MOS)."
 summary: "Investigación sobre la MOS."
 
 author:
@@ -138,17 +138,17 @@ rama_rovers:
 # ¡MOStrando Algo Bueno!
 
 ## Resumen
-Investiga la importancia de la Materia Orgánica del Suelo (MOS) y sus amenazas.
+Investigá la importancia de la Materia Orgánica del Suelo (MOS) y sus amenazas.
 
 ## Preparación
-1. Investiga sobre la MOS y su importancia.
-2. Identifica las amenazas a la MOS.
-3. Prepara materiales para la presentación.
+1. Investigá sobre la MOS y su importancia.
+2. Identificá las amenazas a la MOS.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre la MOS.
+1. **Investigación** (25 min): Aprendé sobre la MOS.
 2. **Análisis** (15 min): ¿Cuáles son las mayores amenazas?
-3. **Presentación** (15 min): Crea y presenta tus hallazgos.
+3. **Presentación** (15 min): Creá y presentá tus hallazgos.
 4. **Discusión** (5 min): ¿Cómo prevenir el daño a la MOS?
 
 ## Cierre

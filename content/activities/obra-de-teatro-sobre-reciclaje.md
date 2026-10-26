@@ -3,7 +3,7 @@ title: "Obra de teatro sobre reciclaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-sobre-reciclaje/"
-description: "Presenta una obra de teatro sobre la reducción de desechos."
+description: "Presentá una obra de teatro sobre la reducción de desechos."
 summary: "Obra de teatro sobre reciclaje."
 
 author:
@@ -145,17 +145,17 @@ rama_rovers:
 # ¡Obra de teatro sobre reciclaje!
 
 ## Resumen
-Presenta una obra de teatro para mostrar cómo reducir los desechos en los basurales.
+Presentá una obra de teatro para mostrar cómo reducir los desechos en los basurales.
 
 ## Preparación
-1. Escribe el guión.
-2. Asigna roles.
-3. Prepara materiales para escenografía.
+1. Escribí el guión.
+2. Asigná roles.
+3. Prepará materiales para escenografía.
 
 ## Desarrollo
-1. **Creación** (30 min): Escribe el guión y prepara la escenografía.
-2. **Ensayo** (30 min): Ensaya la obra.
-3. **Presentación** (20 min): Presenta la obra en tu escuela.
+1. **Creación** (30 min): Escribí el guión y prepará la escenografía.
+2. **Ensayo** (30 min): Ensayá la obra.
+3. **Presentación** (20 min): Presentá la obra en tu escuela.
 4. **Reflexión** (10 min): ¿Qué mensaje transmitiste?
 
 ## Cierre

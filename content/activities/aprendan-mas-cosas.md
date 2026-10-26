@@ -4,7 +4,7 @@ title: "Aprendan Más Cosas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/aprendan-mas-cosas/"
-description: "Utiliza los materiales de Alimentarnos bien para estar sanos para aprender sobre macronutrientes y micronutrientes."
+description: "Utilizá los materiales de Alimentarnos bien para estar sanos para aprender sobre macronutrientes y micronutrientes."
 summary: "Estudio sobre macronutrientes y micronutrientes."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,18 +169,18 @@ rama_rovers:
 # Aprendan Más Cosas
 
 ## Resumen
-Utiliza los materiales de Alimentarnos bien para estar sanos para aprender sobre macronutrientes y micronutrientes.
+Utilizá los materiales de Alimentarnos bien para estar sanos para aprender sobre macronutrientes y micronutrientes.
 
 ## Preparación
-1. Accede al material en línea: http://www.fao.org/docrep/019/i3261s/i3261s00.htm.
-2. Revisa el Tema 4 (macronutrientes) y el Tema 5 (micronutrientes).
-3. Prepara material para completar las actividades.
+1. Accedé al material en línea: http://www.fao.org/docrep/019/i3261s/i3261s00.htm.
+2. Revisá el Tema 4 (macronutrientes) y el Tema 5 (micronutrientes).
+3. Prepará material para completar las actividades.
 
 ## Desarrollo
-1. **Estudio** (20 min): Lee los temas sobre macronutrientes y micronutrientes.
-2. **Actividades** (20 min): Completa al menos tres actividades de cada tema.
-3. **Reflexión** (15 min): Comparte lo aprendido con el grupo.
-4. **Aplicación** (10 min): Piensa cómo aplicar este conocimiento en tu dieta.
+1. **Estudio** (20 min): Leé los temas sobre macronutrientes y micronutrientes.
+2. **Actividades** (20 min): Completá al menos tres actividades de cada tema.
+3. **Reflexión** (15 min): Compartí lo aprendido con el grupo.
+4. **Aplicación** (10 min): Pensá cómo aplicar este conocimiento en tu dieta.
 
 ## Cierre
 - ¿Qué aprendiste sobre los macronutrientes y micronutrientes?

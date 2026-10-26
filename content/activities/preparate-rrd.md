@@ -1,9 +1,9 @@
 ---
-title: "Prepárate"
+title: "Preparate"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preparate-rrd/"
-description: "Identifica lugares especiales en tu comunidad que quieras proteger y cómo prepararlos para una amenaza."
+description: "Identificá lugares especiales en tu comunidad que quieras proteger y cómo prepararlos para una amenaza."
 summary: "Identificación de lugares a proteger."
 
 author:
@@ -139,17 +139,17 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Prepárate!
+# ¡Preparate!
 
 ## Resumen
-Piensa en los lugares especiales de tu comunidad que te gustaría proteger si ocurriera una amenaza, y cómo prepararlos.
+Pensá en los lugares especiales de tu comunidad que te gustaría proteger si ocurriera una amenaza, y cómo prepararlos.
 
 ## Preparación
-- Piensa en los lugares que visitas frecuentemente.
-- Considera cómo una amenaza podría afectarlos.
+- Pensá en los lugares que visitas frecuentemente.
+- Considerá cómo una amenaza podría afectarlos.
 
 ## Desarrollo
-1. **Lluvia de ideas** (10 min): Nombra lugares especiales cerca de ti.
+1. **Lluvia de ideas** (10 min): Nombrá lugares especiales cerca de vos.
 2. **Análisis** (10 min): ¿Cómo podrían verse afectados por una amenaza?
 3. **Planificación** (10 min): ¿Qué se podría hacer para protegerlos?
 

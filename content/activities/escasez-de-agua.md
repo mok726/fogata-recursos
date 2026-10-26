@@ -5,7 +5,7 @@ duration: "70 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/escasez-de-agua/"
 description: "Los participantes investigan el uso del agua en diferentes países y simulan la distribución desigual del agua para comprender el problema de la escasez de agua en el mundo."
-summary: "Investiga la escasez de agua en el mundo."
+summary: "Investigá la escasez de agua en el mundo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -173,31 +173,31 @@ translation_notice:
 El agua es uno de los recursos más valiosos de la Tierra, pero también uno de los más escasos. El agua es necesaria para la supervivencia, pero algunas partes del mundo tienen mejor acceso a agua limpia y fácilmente obtenible que otras. En algunos países, obtener agua es tan simple como abrir la canilla, mientras que en otros lugares, las mujeres y los niños deben caminar varios kilómetros cada día para recolectar agua dulce. En esta actividad, los participantes investigan el uso del agua en diferentes países y simulan la distribución desigual del agua.
 
 ## Preparación
-1. Prepara los materiales: mapa mundial, cartulinas, marcadores, acceso a Internet, elementos para contar.
-2. Divide a los participantes en grupos y asígnale un país a cada uno.
+1. Prepará los materiales: mapa mundial, cartulinas, marcadores, acceso a Internet, elementos para contar.
+2. Dividí a los participantes en grupos y asignale un país a cada uno.
 
 ## Desarrollo
 
 ### Paso 1: Discusión inicial
-1. Comienza la lección discutiendo con los participantes para qué se usa el agua y por qué es tan importante. Guía la discusión con las siguientes preguntas:
+1. Comenzá la lección discutiendo con los participantes para qué se usa el agua y por qué es tan importante. Guiá la discusión con las siguientes preguntas:
    - ¿Por qué necesitamos agua?
    - ¿Qué tipo de actividades se usa el agua?
-   - ¿Crees que es posible quedarse sin agua?
+   - ¿Creés que es posible quedarse sin agua?
    - ¿Qué pasaría si nuestro suministro de agua se redujera?
 
 ### Paso 2: Investigación de países
-2. Explica a tu grupo que todos en el mundo tienen que compartir una pequeña cantidad de agua dulce, y que van a investigar sobre el uso del agua en diferentes países.
+2. Explicá a tu grupo que todos en el mundo tienen que compartir una pequeña cantidad de agua dulce, y que van a investigar sobre el uso del agua en diferentes países.
 3. Del total de agua de la Tierra, el 97.5 por ciento es agua salada y solo el 2.5 por ciento es agua dulce. Además, casi el 70 por ciento de esa agua dulce está congelada y atrapada en el Antártico, el Ártico y los glaciares, y no está disponible para los humanos. Esto significa que menos del 1 por ciento del agua dulce del mundo está disponible para los humanos y otros habitantes de la Tierra.
-4. Divide a los participantes en ocho grupos y asigna a cada grupo uno de los siguientes países para investigar: **Estados Unidos, Noruega, India, Australia, Kenia, México, Brasil y Alemania**.
-5. Entrega a cada grupo una copia de la hoja "Descubrir un País" para guiar su investigación. Pueden usar Internet, atlas, enciclopedias, etc.
+4. Dividí a los participantes en ocho grupos y asigná a cada grupo uno de los siguientes países para investigar: **Estados Unidos, Noruega, India, Australia, Kenia, México, Brasil y Alemania**.
+5. Entregá a cada grupo una copia de la hoja "Descubrir un País" para guiar su investigación. Pueden usar Internet, atlas, enciclopedias, etc.
 
 ### Paso 3: Presentaciones
-6. Saca un mapa mundial y pide a cada grupo que presente su país. Pídeles que señalen la ubicación del país, digan en qué continente está, cómo es el clima y cuál es su dato curioso.
+6. Sacá un mapa mundial y pedí a cada grupo que presente su país. Pediles que señalen la ubicación del país, digan en qué continente está, cómo es el clima y cuál es su dato curioso.
 7. Para cada presentación, haz preguntas sobre cómo creen que el acceso al agua en ese país difiere de otras partes del mundo. Sus respuestas deben basarse en su investigación y también en una lluvia de ideas grupal para hacer suposiciones fundamentadas.
 
 ### Paso 4: Juego de simulación
-8. Una vez que terminen las presentaciones, explica a tu grupo que van a jugar un juego. Pide a los participantes que se sienten en grupos según sus países.
-9. Cada grupo recibirá un elemento contable por cada litro de agua que usa una persona promedio por día en su país. Reparte los objetos o pide a los grupos que cuenten cuántos elementos les corresponde según lo siguiente:
+8. Una vez que terminen las presentaciones, explica a tu grupo que van a jugar un juego. Pedí a los participantes que se sienten en grupos según sus países.
+9. Cada grupo recibirá un elemento contable por cada litro de agua que usa una persona promedio por día en su país. Reparte los objetos o pedí a los grupos que cuenten cuántos elementos les corresponde según lo siguiente:
 
 | País | Litros por persona/día |
 |------|----------------------|
@@ -210,11 +210,11 @@ El agua es uno de los recursos más valiosos de la Tierra, pero también uno de 
 | Brasil | 185 |
 | Alemania | 189 |
 
-10. Una vez que los participantes tengan el número correcto de objetos, pídeles que miren a su alrededor y comparen cuántos objetos tienen en comparación con otros países.
+10. Una vez que los participantes tengan el número correcto de objetos, pediles que miren a su alrededor y comparen cuántos objetos tienen en comparación con otros países.
 11. Pregunta: ¿Quién tiene más? ¿Quién tiene menos? ¿Por qué creen que es así?
 
 ### Paso 5: Asignación de agua
-12. Usando las cantidades a continuación, los participantes deben decidir en grupo cómo quieren gastar su asignación diaria de agua. Pídeles que retiren los objetos a medida que los usen para visualizar cuánto les queda. Los grupos deben pensar en para qué realmente necesitan usar su agua, especialmente en países que no tienen mucha agua.
+12. Usando las cantidades a continuación, los participantes deben decidir en grupo cómo quieren gastar su asignación diaria de agua. Pediles que retiren los objetos a medida que los usen para visualizar cuánto les queda. Los grupos deben pensar en para qué realmente necesitan usar su agua, especialmente en países que no tienen mucha agua.
 
 | Actividad | Litros |
 |-----------|--------|
@@ -227,7 +227,7 @@ El agua es uno de los recursos más valiosos de la Tierra, pero también uno de 
 | Descarga de inodoro | 11 |
 | Vasos de agua potable | 0.25 por vaso |
 
-13. Discute con los participantes cuáles creen que son las cosas más importantes para usar su asignación de agua. También pregúntales si hay opciones alternativas a los elementos de esta lista (usar un pozo, lavarse en un balde, lavar la ropa a mano, etc.).
+13. Discutí con los participantes cuáles creen que son las cosas más importantes para usar su asignación de agua. También preguntales si hay opciones alternativas a los elementos de esta lista (usar un pozo, lavarse en un balde, lavar la ropa a mano, etc.).
 
 ## Hoja: Descubrir un País
 
@@ -239,7 +239,7 @@ El agua es uno de los recursos más valiosos de la Tierra, pero también uno de 
 
 ## Cierre
 - ¿Cómo y por qué difiere la disponibilidad de agua en todo el mundo?
-- ¿Crees que el agua debería distribuirse de manera más equitativa? ¿Por qué?
+- ¿Creés que el agua debería distribuirse de manera más equitativa? ¿Por qué?
 - ¿Cómo cambiaría tu vida si no tuvieras acceso a agua suficiente y limpia?
 
 ## Texto original completo de la actividad

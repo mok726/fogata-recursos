@@ -3,7 +3,7 @@ title: "Empatía por los Ecosistemas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/empatia-por-los-ecosistemas/"
-description: "Crea una pintura o afiche que muestre cómo una amenaza afecta a un ecosistema y cómo ayudarlo a recuperarse."
+description: "Creá una pintura o afiche que muestre cómo una amenaza afecta a un ecosistema y cómo ayudarlo a recuperarse."
 summary: "Arte sobre ecosistemas y desastres."
 
 author:
@@ -152,18 +152,18 @@ rama_rovers:
 # ¡Empatía por los Ecosistemas!
 
 ## Resumen
-Crea una pintura o afiche que muestre cómo una amenaza natural afecta a un ecosistema específico y cómo podemos ayudar a su recuperación.
+Creá una pintura o afiche que muestre cómo una amenaza natural afecta a un ecosistema específico y cómo podemos ayudar a su recuperación.
 
 ## Preparación
-1. Elige un ecosistema (arrecife de coral, bosque de manglar, bosque, humedal).
-2. Investiga cómo una amenaza puede dañarlo.
-3. Reúne materiales de arte.
+1. Elegí un ecosistema (arrecife de coral, bosque de manglar, bosque, humedal).
+2. Investigá cómo una amenaza puede dañarlo.
+3. Reuní materiales de arte.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre el ecosistema elegido.
-2. **Diseño** (15 min): Diseña tu pintura o afiche.
-3. **Creación** (25 min): Pinta o dibuja tu obra.
-4. **Presentación** (5 min): Comparte tu obra y explica su mensaje.
+1. **Investigación** (15 min): Aprendé sobre el ecosistema elegido.
+2. **Diseño** (15 min): Diseñá tu pintura o afiche.
+3. **Creación** (25 min): Pintá o dibujá tu obra.
+4. **Presentación** (5 min): Compartí tu obra y explicá su mensaje.
 
 ## Cierre
 - ¿Qué ecosistema elegiste y cómo se ve afectado?

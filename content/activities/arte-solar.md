@@ -5,7 +5,7 @@ duration: "15 minutos - 1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-solar/"
 description: "Enfoca la luz del Sol con una lupa sobre una tabla de madera para marcar dibujos y palabras, aprendiendo sobre la potencia de la energía solar."
-summary: "Crea arte usando la energía del Sol."
+summary: "Creá arte usando la energía del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

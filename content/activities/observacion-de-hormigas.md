@@ -159,24 +159,24 @@ rama_rovers:
 # ¡Observación de hormigas!
 
 ## Resumen
-Los insectos están en todas partes, estudiarlos es una forma divertida de aprender acerca de la naturaleza y sobre cómo las diferentes partes de la biodiversidad están vinculadas entre ellas. Busca una colonia de hormigas y obsérvalas regularmente durante dos estaciones.
+Los insectos están en todas partes, estudiarlos es una forma divertida de aprender acerca de la naturaleza y sobre cómo las diferentes partes de la biodiversidad están vinculadas entre ellas. Buscá una colonia de hormigas y observalas regularmente durante dos estaciones.
 
 ## Preparación
-1. Identifica una colonia de hormigas.
-2. Prepara materiales para registrar.
-3. Organiza el seguimiento.
+1. Identificá una colonia de hormigas.
+2. Prepará materiales para registrar.
+3. Organizá el seguimiento.
 
 ## Desarrollo
-1. Encuentra una colonia de hormigas.
-2. Observa regularmente durante dos estaciones.
-3. Averigua qué llevan a sus colonias.
-4. Sigue y mide su sendero.
-5. Observa: ¿Qué les pasa antes y después de una lluvia?
-6. Observa: ¿Todas las hormigas realizan el mismo trabajo?
+1. Encontrá una colonia de hormigas.
+2. Observá regularmente durante dos estaciones.
+3. Averiguá qué llevan a sus colonias.
+4. Seguí y medí su sendero.
+5. Observá: ¿Qué les pasa antes y después de una lluvia?
+6. Observá: ¿Todas las hormigas realizan el mismo trabajo?
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona sobre la organización social de las hormigas.
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná sobre la organización social de las hormigas.
 3. Pregunta final: ¿Qué aprendiste sobre el trabajo en equipo de las hormigas?
 
 ## Texto original completo de la actividad

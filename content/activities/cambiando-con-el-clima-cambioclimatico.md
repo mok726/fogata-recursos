@@ -165,20 +165,20 @@ rama_rovers:
 El cambio climático afecta a los bosques y, a su vez, es afectado por estos. ¡El funcionamiento y la composición de los bosques pueden cambiar con cambios de temperatura tan pequeños como 1 °C!
 
 ## Preparación
-1. Investiga sobre diferentes tipos de bosques.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre diferentes tipos de bosques.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Compara cómo tres tipos de bosques diferentes serán afectados por el cambio climático:
+1. Compará cómo tres tipos de bosques diferentes serán afectados por el cambio climático:
    - Bosques de manglares
    - Bosques montañosos
    - Bosques boreales
-2. Investiga: ¿Cómo puede cada uno de estos influir en el cambio climático?
-3. Crea un juego de cartas que informe a los jugadores sobre la importancia de los bosques y sus vínculos con el clima.
+2. Investigá: ¿Cómo puede cada uno de estos influir en el cambio climático?
+3. Creá un juego de cartas que informe a los jugadores sobre la importancia de los bosques y sus vínculos con el clima.
 
 ## Cierre
-1. Prueba el juego con el grupo.
+1. Probá el juego con el grupo.
 2. Discutan: ¿Qué bosques están más amenazados y por qué?
 3. Pregunta final: ¿Cómo podemos proteger los bosques para mitigar el cambio climático?
 

@@ -4,8 +4,8 @@ title: "Entender la Obesidad"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/entender-la-obesidad/"
-description: "Debate sobre las principales causas de la obesidad infantil y su prevalencia en tu comunidad."
-summary: "Debate sobre obesidad infantil."
+description: "Debatí sobre las principales causas de la obesidad infantil y su prevalencia en tu comunidad."
+summary: "Debatí sobre obesidad infantil."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -114,7 +114,7 @@ competencies:
   - Debate
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Sensibilización
 
@@ -161,16 +161,16 @@ rama_rovers:
 # Entender la Obesidad
 
 ## Resumen
-Debate sobre las principales causas de la obesidad infantil y su prevalencia en tu comunidad.
+Debatí sobre las principales causas de la obesidad infantil y su prevalencia en tu comunidad.
 
 ## Preparación
-1. Revisa las principales causas de la obesidad infantil.
-2. Investiga sobre los hábitos comunes en tu comunidad.
-3. Prepara argumentos para el debate.
+1. Revisá las principales causas de la obesidad infantil.
+2. Investigá sobre los hábitos comunes en tu comunidad.
+3. Prepará argumentos para el debate.
 
 ## Desarrollo
-1. **Introducción** (10 min): Presenta las causas de la obesidad infantil.
-2. **Debate** (25 min): Discute si estos hábitos son comunes en tu comunidad y por qué.
+1. **Introducción** (10 min): Presentá las causas de la obesidad infantil.
+2. **Debate** (25 min): Discutí si estos hábitos son comunes en tu comunidad y por qué.
 3. **Análisis** (15 min): ¿Por qué hay o no hay un problema de obesidad infantil en tu área?
 4. **Conclusiones** (10 min): Resume las ideas principales.
 

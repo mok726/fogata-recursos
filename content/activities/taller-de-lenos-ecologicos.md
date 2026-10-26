@@ -5,7 +5,7 @@ duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-de-lenos-ecologicos/"
 description: "Taller donde los participantes aprenden a crear leños ecológicos (briquetas) en base a papel, cartón, hojas, aserrín y otros restos similares."
-summary: "Crea leños ecológicos con residuos."
+summary: "Creá leños ecológicos con residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -173,8 +173,8 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 - Reducir el impacto ecológico.
 
 ## Preparación
-1. Reúne papel de diario o revistas, hojas y hierbas secas, y aserrín.
-2. Prepara contenedores (moldes), agua, tijeras, rallador y pesos.
+1. Reuní papel de diario o revistas, hojas y hierbas secas, y aserrín.
+2. Prepará contenedores (moldes), agua, tijeras, rallador y pesos.
 
 ## Desarrollo
 

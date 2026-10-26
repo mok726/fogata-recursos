@@ -4,7 +4,7 @@ title: "Midiendo el clima"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/midiendo-el-clima/"
-description: "Aprende cómo se mide el clima, qué instrumentos se utilizan y cómo los datos se usan para predecir cambios climáticos."
+description: "Aprendé cómo se mide el clima, qué instrumentos se utilizan y cómo los datos se usan para predecir cambios climáticos."
 summary: "Investigar instrumentos y métodos para medir el clima."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,21 +163,21 @@ rama_rovers:
 # ¡Midiendo el clima!
 
 ## Resumen
-Averigua cómo se mide el clima y qué instrumentos se utilizan. ¿Cómo se utilizan posteriormente los datos para predecir los cambios en el clima?
+Averiguá cómo se mide el clima y qué instrumentos se utilizan. ¿Cómo se utilizan posteriormente los datos para predecir los cambios en el clima?
 
 ## Preparación
-1. Investiga sobre los instrumentos meteorológicos básicos.
-2. Reúne los materiales necesarios para montar una estación meteorológica.
-3. Identifica un lugar adecuado para las mediciones.
+1. Investigá sobre los instrumentos meteorológicos básicos.
+2. Reuní los materiales necesarios para montar una estación meteorológica.
+3. Identificá un lugar adecuado para las mediciones.
 
 ## Desarrollo
-1. Aprende cómo se mide el clima y qué instrumentos se utilizan.
-2. Monta una estación meteorológica en tu escuela o espacio de reunión.
-3. Averigua si puedes contribuir con las mediciones locales o nacionales.
-4. Reflexiona: Muchos países no poseen los fondos o recursos para estas mediciones.
+1. Aprendé cómo se mide el clima y qué instrumentos se utilizan.
+2. Montá una estación meteorológica en tu escuela o espacio de reunión.
+3. Averiguá si podés contribuir con las mediciones locales o nacionales.
+4. Reflexioná: Muchos países no poseen los fondos o recursos para estas mediciones.
 
 ## Cierre
-1. Comparte tus observaciones y mediciones con el grupo.
+1. Compartí tus observaciones y mediciones con el grupo.
 2. Discutan: ¿Cómo afecta la falta de mediciones a diferentes personas y comunidades?
 3. Pregunta final: ¿Cómo la falta de datos climáticos hace más vulnerables a las comunidades?
 

@@ -3,7 +3,7 @@ title: "Energía renovable"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-renovable/"
-description: "Averigua sobre energía renovable y construye un modelo de demostración."
+description: "Averiguá sobre energía renovable y construí un modelo de demostración."
 summary: "Modelo de energía renovable."
 
 author:
@@ -144,18 +144,18 @@ rama_rovers:
 # ¡Energía renovable!
 
 ## Resumen
-Averigua sobre energía renovable y construye un modelo de demostración.
+Averiguá sobre energía renovable y construí un modelo de demostración.
 
 ## Preparación
-1. Investiga sobre energía renovable.
-2. Reúne materiales para el modelo.
-3. Diseña el modelo.
+1. Investigá sobre energía renovable.
+2. Reuní materiales para el modelo.
+3. Diseñá el modelo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre energía renovable.
-2. **Diseño** (15 min): Diseña tu modelo.
-3. **Construcción** (25 min): Construye el modelo.
-4. **Presentación** (5 min): Comparte lo aprendido.
+1. **Investigación** (15 min): Aprendé sobre energía renovable.
+2. **Diseño** (15 min): Diseñá tu modelo.
+3. **Construcción** (25 min): Construí el modelo.
+4. **Presentación** (5 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué tipo de energía renovable representaste?

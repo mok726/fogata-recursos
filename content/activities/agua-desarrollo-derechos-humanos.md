@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-desarrollo-derechos-humanos/"
 description: "Los participantes exploran las conexiones entre el agua, el desarrollo y los derechos humanos a través de una actividad de telaraña que visualiza la interdependencia de estos temas."
-summary: "Explora la interdependencia del agua y los derechos humanos."
+summary: "Explorá la interdependencia del agua y los derechos humanos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,23 +170,23 @@ translation_notice:
 El agua, el desarrollo y los derechos humanos están profundamente interconectados. El acceso al agua afecta la salud, la educación, la igualdad de género y el desarrollo económico. Todos estos elementos forman parte de los derechos humanos fundamentales. En esta actividad, los participantes exploran las conexiones entre el agua, el desarrollo y los derechos humanos a través de una actividad de telaraña que visualiza la interdependencia de estos temas.
 
 ## Preparación
-1. Escribe los títulos en trozos de papel.
-2. Prepara el ovillo de lana o hilo.
+1. Escribí los títulos en trozos de papel.
+2. Prepará el ovillo de lana o hilo.
 
 ## Desarrollo
 
 ### Paso 1: Preparación
-1. Lleva a tu grupo a un espacio al aire libre o a un salón amplio. Pídeles que formen un círculo.
-2. Entrega a cada participante uno de los títulos (puedes añadir más títulos según el tamaño del grupo).
+1. Llevá a tu grupo a un espacio al aire libre o a un salón amplio. Pediles que formen un círculo.
+2. Entregá a cada participante uno de los títulos (podés añadir más títulos según el tamaño del grupo).
 
 ### Paso 2: Construcción de la telaraña
-3. Pide a tu grupo que piense en las conexiones entre el agua, el desarrollo y los derechos humanos.
-4. Entrega el ovillo de lana a uno de los participantes. Manteniendo el extremo del hilo, pídele que lo pase a otro participante al otro lado del círculo que esté relacionado con su título. Recuerda a tu grupo que siempre deben sostener su parte del hilo, para formar una telaraña.
-5. Continúa hasta que todos estén sosteniendo una parte de la telaraña.
+3. Pedí a tu grupo que piense en las conexiones entre el agua, el desarrollo y los derechos humanos.
+4. Entregá el ovillo de lana a uno de los participantes. Manteniendo el extremo del hilo, pedile que lo pase a otro participante al otro lado del círculo que esté relacionado con su título. Recordá a tu grupo que siempre deben sostener su parte del hilo, para formar una telaraña.
+5. Continuá hasta que todos estén sosteniendo una parte de la telaraña.
 
 ### Paso 3: Reflexión sobre la interdependencia
-6. Pide al primer participante que tire de su trozo de hilo. ¿Sienten los demás el tirón?
-7. Ayuda a los participantes a entender cómo todo está interconectado.
+6. Pedí al primer participante que tire de su trozo de hilo. ¿Sienten los demás el tirón?
+7. Ayudá a los participantes a entender cómo todo está interconectado.
 
 ## Títulos sugeridos
 
@@ -199,7 +199,7 @@ El agua, el desarrollo y los derechos humanos están profundamente interconectad
 - Cultivo y producción de alimentos
 - Agua subterránea
 - Lavado de manos
-- Mejora de la gestión del agua
+- Mejorá de la gestión del agua
 - Más sequías
 - Mantiene a los niños fuera de la escuela
 - Las actividades humanas afectan la calidad del agua

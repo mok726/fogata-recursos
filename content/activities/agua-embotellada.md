@@ -3,7 +3,7 @@ title: "Agua embotellada"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-embotellada/"
-description: "Investiga si el agua de la canilla es segura y deja de comprar agua embotellada."
+description: "Investigá si el agua de la canilla es segura y dejá de comprar agua embotellada."
 summary: "Reducción del consumo de agua embotellada."
 
 author:
@@ -142,20 +142,20 @@ rama_rovers:
 # ¡Agua embotellada!
 
 ## Resumen
-Averigua si el agua de la canilla es segura y deja de comprar agua embotellada.
+Averiguá si el agua de la canilla es segura y dejá de comprar agua embotellada.
 
 ## Preparación
-- Investiga la calidad del agua local.
-- Habla con tu familia sobre el proyecto.
+- Investigá la calidad del agua local.
+- Hablá con tu familia sobre el proyecto.
 
 ## Desarrollo
 1. **Investigación** (15 min): ¿Es segura el agua de la canilla?
 2. **Reflexión** (15 min): ¿Cuánta energía se usa para hacer botellas?
-3. **Acción** (10 min): Deja de comprar agua embotellada.
+3. **Acción** (10 min): Dejá de comprar agua embotellada.
 4. **Conclusión** (5 min): ¿Qué pasa con el plástico?
 
 ## Cierre
-- ¿Es segura el agua de la canilla donde vives?
+- ¿Es segura el agua de la canilla donde vivís?
 - ¿Cuánta energía se usa para hacer botellas?
 - ¿Qué pasa con todo el plástico?
 

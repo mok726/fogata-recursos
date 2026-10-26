@@ -161,18 +161,18 @@ rama_rovers:
 Organicen y dirijan una actividad para recolectar fondos para una causa relacionada con la biodiversidad.
 
 ## Preparación
-1. Elige una causa relacionada con la biodiversidad.
-2. Planifica la actividad de recaudación.
-3. Prepara materiales y promociona el evento.
+1. Elegí una causa relacionada con la biodiversidad.
+2. Planificá la actividad de recaudación.
+3. Prepará materiales y promocioná el evento.
 
 ## Desarrollo
-1. Organiza la actividad.
-2. Recolecta fondos para la causa.
-3. Comunica los resultados al grupo.
+1. Organizá la actividad.
+2. Recolectá fondos para la causa.
+3. Comunicá los resultados al grupo.
 
 ## Cierre
-1. Comparte los resultados con el grupo.
-2. Reflexiona sobre el impacto de la recaudación.
+1. Compartí los resultados con el grupo.
+2. Reflexioná sobre el impacto de la recaudación.
 3. Pregunta final: ¿Qué causa apoyaste y por qué?
 
 ## Texto original completo de la actividad

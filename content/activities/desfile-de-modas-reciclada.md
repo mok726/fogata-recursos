@@ -3,7 +3,7 @@ title: "Desfile de modas reciclada"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-de-modas-reciclada/"
-description: "Haz un desfile de modas con vestuario de materiales reciclados."
+description: "Hacé un desfile de modas con vestuario de materiales reciclados."
 summary: "Desfile de moda con materiales reciclados."
 
 author:
@@ -142,23 +142,23 @@ rama_rovers:
 # ¡Desfile de modas reciclada!
 
 ## Resumen
-Crea y presenta un desfile de modas con vestuario elaborado con materiales reciclados.
+Creá y presentá un desfile de modas con vestuario elaborado con materiales reciclados.
 
 ## Preparación
-1. Reúne materiales reciclados.
-2. Diseña los vestuarios.
-3. Organiza el espacio para el desfile.
+1. Reuní materiales reciclados.
+2. Diseñá los vestuarios.
+3. Organizá el espacio para el desfile.
 
 ## Desarrollo
-1. **Diseño** (30 min): Crea los vestuarios con materiales reciclados.
-2. **Ensayo** (20 min): Practica el desfile.
-3. **Presentación** (20 min): Realiza el desfile.
-4. **Reflexión** (20 min): Comparte tu experiencia.
+1. **Diseño** (30 min): Creá los vestuarios con materiales reciclados.
+2. **Ensayo** (20 min): Practicá el desfile.
+3. **Presentación** (20 min): Realizá el desfile.
+4. **Reflexión** (20 min): Compartí tu experiencia.
 
 ## Cierre
 - ¿Qué materiales usaste?
 - ¿Cómo te sentiste al crear moda con reciclaje?
-- ¿Qué mensaje quieres transmitir?
+- ¿Qué mensaje querés transmitir?
 
 ---
 ## Texto original completo de la actividad

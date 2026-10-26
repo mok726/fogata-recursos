@@ -1,10 +1,10 @@
 ---
-title: "Visita al mercado local"
+title: "Visitá al mercado local"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-mercado-local/"
-description: "Visita el mercado local para aprender sobre los alimentos que compra la gente."
-summary: "Visita al mercado."
+description: "Visitá el mercado local para aprender sobre los alimentos que compra la gente."
+summary: "Visitá al mercado."
 
 author:
   - FAO
@@ -142,24 +142,24 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Visita al mercado local!
+# ¡Visitá al mercado local!
 
 ## Resumen
-Visita el mercado local con tu familia, maestro o líder para aprender sobre los alimentos que compra la gente.
+Visitá el mercado local con tu familia, maestro o líder para aprender sobre los alimentos que compra la gente.
 
 ## Preparación
-- Identifica un mercado local para visitar.
-- Prepara preguntas para los vendedores.
+- Identificá un mercado local para visitar.
+- Prepará preguntas para los vendedores.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre el mercado.
+1. **Visita** (30 min): Recorré el mercado.
 2. **Observación** (15 min): ¿Qué tipos de comida compra la gente?
 3. **Aprendizaje** (10 min): ¿De dónde vienen los alimentos?
 4. **Reflexión** (5 min): ¿Qué aprendiste?
 
 ## Cierre
 - ¿Qué tipos de alimentos viste?
-- ¿De dónde crees que vienen?
+- ¿De dónde creés que vienen?
 - ¿Qué alimentos son locales?
 
 ---

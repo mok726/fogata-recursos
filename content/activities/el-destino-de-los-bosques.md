@@ -4,7 +4,7 @@ title: "El Destino de los Bosques"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-destino-de-los-bosques/"
-description: "Investiga la cubierta forestal de cada continente y cuánto ha perdido. Crea un póster sobre tus hallazgos."
+description: "Investigá la cubierta forestal de cada continente y cuánto ha perdido. Creá un póster sobre tus hallazgos."
 summary: "Investigación sobre pérdida de bosques por continente."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,16 +166,16 @@ rama_rovers:
 # El Destino de los Bosques
 
 ## Resumen
-Investiga la cubierta forestal de cada continente y cuánto ha perdido. Crea un póster sobre tus hallazgos.
+Investigá la cubierta forestal de cada continente y cuánto ha perdido. Creá un póster sobre tus hallazgos.
 
 ## Preparación
 1. Divídanse en grupos, cada grupo elige un continente.
-2. Reúne materiales de investigación sobre la cubierta forestal.
+2. Reuní materiales de investigación sobre la cubierta forestal.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga la cubierta forestal actual y la pérdida histórica del continente elegido.
-2. **Análisis** (15 min): Analiza las causas y consecuencias de la pérdida de bosques.
-3. **Creación** (30 min): Crea un póster sobre los hallazgos.
+1. **Investigación** (30 min): Investigá la cubierta forestal actual y la pérdida histórica del continente elegido.
+2. **Análisis** (15 min): Analizá las causas y consecuencias de la pérdida de bosques.
+3. **Creación** (30 min): Creá un póster sobre los hallazgos.
 4. **Presentación** (30 min): Vuelvan a juntarse para compartir y observar todos los trabajos.
 
 ## Cierre

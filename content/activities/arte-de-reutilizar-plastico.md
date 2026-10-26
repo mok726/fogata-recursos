@@ -5,7 +5,7 @@ duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-de-reutilizar-plastico/"
 description: "Los jóvenes recolectan plásticos desechados y los transforman en obras de arte, desarrollando su creatividad mientras reflexionan sobre el reciclaje y la reutilización de residuos plásticos."
-summary: "Crea arte con plásticos reutilizados."
+summary: "Creá arte con plásticos reutilizados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -173,7 +173,7 @@ rama_rovers:
 # ¡El Arte de Reutilizar!
 
 ## Resumen
-Descubre tu lado creativo recolectando plásticos desechados y transformándolos en obras de arte. Puedes crear un collage, una escultura, un móvil o cualquier otra obra que se te ocurra. Esta actividad desarrolla la creatividad mientras reflexionas sobre la importancia de reutilizar los residuos plásticos.
+Descubrí tu lado creativo recolectando plásticos desechados y transformándolos en obras de arte. Podés crear un collage, una escultura, un móvil o cualquier otra obra que se te ocurra. Esta actividad desarrolla la creatividad mientras reflexionas sobre la importancia de reutilizar los residuos plásticos.
 
 ## Preparación
 1. Pedir a los participantes que recolecten plásticos descartados en sus hogares (botellas, envases, tapas, pajitas, etc.).

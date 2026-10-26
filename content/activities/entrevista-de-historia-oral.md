@@ -167,19 +167,19 @@ rama_rovers:
 Realicen una entrevista a un abuelo o a un amigo anciano (o aún a un adulto, pidiéndole que pretenda que nació hace muchos años) y pregúntenle sobre los alimentos que cultivaba y comía cuando era niño. ¿Cómo se preparaban y por qué se cultivaban estos alimentos? ¿Esos alimentos son diferentes de los que se cultivan, se cocinan o se comen hoy en día? ¿Por qué sí o por qué no?
 
 ## Preparación
-1. Identifica a una persona mayor para entrevistar.
-2. Prepara preguntas sobre alimentos del pasado.
-3. Organiza la entrevista.
+1. Identificá a una persona mayor para entrevistar.
+2. Prepará preguntas sobre alimentos del pasado.
+3. Organizá la entrevista.
 
 ## Desarrollo
-1. Entrevista a una persona mayor sobre los alimentos de su infancia.
+1. Entrevistá a una persona mayor sobre los alimentos de su infancia.
 2. Pregunta: ¿Cómo se preparaban y por qué se cultivaban?
 3. Pregunta: ¿Son diferentes de los alimentos actuales?
 4. Si es posible, intenta preparar una comida 'al estilo de otra época'.
 
 ## Cierre
-1. Comparte tus hallazgos con tus amigos, grupo o con el 'Proyecto de Historia Oral' de Bioversity International.
-2. Reflexiona sobre los cambios en la alimentación.
+1. Compartí tus hallazgos con tus amigos, grupo o con el 'Proyecto de Historia Oral' de Bioversity International.
+2. Reflexioná sobre los cambios en la alimentación.
 3. Pregunta final: ¿Qué hemos perdido en términos de biodiversidad alimentaria?
 
 ## Texto original completo de la actividad

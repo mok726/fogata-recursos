@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate comunitario sobre energía"
+title: "Debatí comunitario sobre energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-comunitario/"
-description: "Debate donde diferentes grupos de la comunidad (empresas, gobierno, jóvenes) buscan una solución a un problema energético local."
-summary: "Encuentra soluciones energéticas para tu comunidad."
+description: "Debatí donde diferentes grupos de la comunidad (empresas, gobierno, jóvenes) buscan una solución a un problema energético local."
+summary: "Encontrá soluciones energéticas para tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -116,7 +116,7 @@ competencies:
   - Pensamiento sistémico
   - Ciudadanía activa
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Simulación
   - Planificación
 category:
@@ -157,15 +157,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Debate comunitario sobre energía!
+# ¡Debatí comunitario sobre energía!
 
 ## Resumen
-Para reducir nuestra huella de carbono global, diferentes personas en la comunidad deben trabajar juntas. Representa diferentes grupos y busca una solución a un problema energético local.
+Para reducir nuestra huella de carbono global, diferentes personas en la comunidad deben trabajar juntas. Representá diferentes grupos y buscá una solución a un problema energético local.
 
 ## Preparación
-1. Lee la información sobre problemas energéticos comunitarios.
-2. Divide el grupo en 2-3 equipos.
-3. Asigna a cada equipo un rol.
+1. Leé la información sobre problemas energéticos comunitarios.
+2. Dividí el grupo en 2-3 equipos.
+3. Asigná a cada equipo un rol.
 
 ## Desarrollo
 
@@ -178,7 +178,7 @@ Cada equipo representa un grupo diferente:
 - **Jóvenes**: quieren un futuro sostenible
 
 ### Parte II - Problema
-Elige un problema energético específico:
+Elegí un problema energético específico:
 
 **Ejemplos:**
 - Uso de bolsas plásticas

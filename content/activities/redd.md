@@ -4,7 +4,7 @@ title: "REDD+"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/redd/"
-description: "Graba un podcast o escribe un artículo para explicar el REDD+, cómo funciona y su potencial para la biodiversidad forestal. Da tu opinión sobre este."
+description: "Grabá un podcast o escribí un artículo para explicar el REDD+, cómo funciona y su potencial para la biodiversidad forestal. Da tu opinión sobre este."
 summary: "Investigación y comunicación sobre REDD+."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -118,7 +118,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -160,18 +160,18 @@ rama_rovers:
 # REDD+
 
 ## Resumen
-Graba un podcast o escribe un artículo para explicar el REDD+, cómo funciona y su potencial para la biodiversidad forestal. Da tu opinión sobre este.
+Grabá un podcast o escribí un artículo para explicar el REDD+, cómo funciona y su potencial para la biodiversidad forestal. Da tu opinión sobre este.
 
 ## Preparación
-1. Investiga sobre REDD+ (Reducción de Emisiones por Deforestación y Degradación forestal).
-2. Prepara el material para el podcast o artículo.
+1. Investigá sobre REDD+ (Reducción de Emisiones por Deforestación y Degradación forestal).
+2. Prepará el material para el podcast o artículo.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre REDD+, sus objetivos y funcionamiento.
-2. **Análisis** (15 min): Reflexiona sobre el potencial de REDD+ para la biodiversidad.
-3. **Creación** (25 min): Graba un podcast o escribe un artículo explicando REDD+.
-4. **Opinión** (10 min): Incluye tu opinión sobre el programa.
-5. **Presentación** (15 min): Comparte tu trabajo con el grupo.
+1. **Investigación** (25 min): Aprendé sobre REDD+, sus objetivos y funcionamiento.
+2. **Análisis** (15 min): Reflexioná sobre el potencial de REDD+ para la biodiversidad.
+3. **Creación** (25 min): Grabá un podcast o escribí un artículo explicando REDD+.
+4. **Opinión** (10 min): Incluí tu opinión sobre el programa.
+5. **Presentación** (15 min): Compartí tu trabajo con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre REDD+ y su importancia?

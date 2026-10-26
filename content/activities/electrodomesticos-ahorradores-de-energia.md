@@ -3,7 +3,7 @@ title: "Electrodomésticos ahorradores de energía"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/electrodomesticos-ahorradores-de-energia/"
-description: "Investiga y recomienda electrodomésticos ahorradores de energía."
+description: "Investigá y recomienda electrodomésticos ahorradores de energía."
 summary: "Electrodomésticos eficientes."
 
 author:
@@ -142,23 +142,23 @@ rama_rovers:
 # ¡Electrodomésticos ahorradores de energía!
 
 ## Resumen
-Investiga electrodomésticos ahorradores de energía y recomienda opciones a tu familia.
+Investigá electrodomésticos ahorradores de energía y recomienda opciones a tu familia.
 
 ## Preparación
-1. Identifica electrodomésticos que tu familia planea comprar.
-2. Investiga sobre etiquetas de eficiencia energética.
-3. Prepara materiales para la presentación.
+1. Identificá electrodomésticos que tu familia planea comprar.
+2. Investigá sobre etiquetas de eficiencia energética.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga electrodomésticos eficientes.
-2. **Comparación** (15 min): Compara modelos y etiquetas.
-3. **Recomendación** (15 min): Presenta tus hallazgos a tu familia.
-4. **Compartir** (10 min): Comparte con el grupo.
+1. **Investigación** (20 min): Investigá electrodomésticos eficientes.
+2. **Comparación** (15 min): Compará modelos y etiquetas.
+3. **Recomendación** (15 min): Presentá tus hallazgos a tu familia.
+4. **Compartir** (10 min): Compartí con el grupo.
 
 ## Cierre
 - ¿Qué electrodomésticos ahorran más energía?
 - ¿Qué etiquetas de certificación se usan en tu país?
-- ¿Cómo puedes ayudar a tu familia a elegir mejor?
+- ¿Cómo podés ayudar a tu familia a elegir mejor?
 
 ---
 ## Texto original completo de la actividad

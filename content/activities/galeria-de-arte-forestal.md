@@ -4,7 +4,7 @@ title: "Galería de Arte Forestal"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/galeria-de-arte-forestal/"
-description: "Crea una obra de arte inspirada en los bosques, escribe una declaración del artista y exhibe tu trabajo en una Galería de Arte Forestal."
+description: "Creá una obra de arte inspirada en los bosques, escribí una declaración del artista y exhibí tu trabajo en una Galería de Arte Forestal."
 summary: "Creación y exhibición de arte inspirado en bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,17 +167,17 @@ rama_rovers:
 # Galería de Arte Forestal
 
 ## Resumen
-Crea una obra de arte inspirada en los bosques, escribe una declaración del artista y exhibe tu trabajo en una Galería de Arte Forestal.
+Creá una obra de arte inspirada en los bosques, escribí una declaración del artista y exhibí tu trabajo en una Galería de Arte Forestal.
 
 ## Preparación
-1. Prepara materiales artísticos (pinturas, papel, arcilla, etc.).
-2. Encuentra inspiración en el bosque o en imágenes de bosques.
-3. Prepara el espacio para la exhibición.
+1. Prepará materiales artísticos (pinturas, papel, arcilla, etc.).
+2. Encontrá inspiración en el bosque o en imágenes de bosques.
+3. Prepará el espacio para la exhibición.
 
 ## Desarrollo
-1. **Creación** (30 min): Crea una obra de arte inspirada en los bosques.
-2. **Declaración** (10 min): Escribe una declaración del artista describiendo tu obra.
-3. **Motivación** (10 min): Convence a tus amigos de que creen otras obras.
+1. **Creación** (30 min): Creá una obra de arte inspirada en los bosques.
+2. **Declaración** (10 min): Escribí una declaración del artista describiendo tu obra.
+3. **Motivación** (10 min): Convencé a tus amigos de que creen otras obras.
 4. **Exhibición** (20 min): Exhiban sus obras en una Galería de Arte Forestal.
 5. **Tour** (15 min): Inviten a familia y amigos a hacer un tour mientras explican sus exhibiciones.
 

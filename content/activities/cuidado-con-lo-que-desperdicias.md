@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuidado con lo que Desperdicias"
+title: "Cuidado con lo que Desperdiciás"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cuidado-con-lo-que-desperdicias/"
-description: "Vigila el desperdicio de comida en tu casa durante una semana y busca formas de reducirlo."
+description: "Vigilá el desperdicio de comida en tu casa durante una semana y buscá formas de reducirlo."
 summary: "Auditoría de desperdicio de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,22 +170,22 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# Cuidado con lo que Desperdicias
+# Cuidado con lo que Desperdiciás
 
 ## Resumen
-Vigila el desperdicio de comida en tu casa durante una semana y busca formas de reducirlo.
+Vigilá el desperdicio de comida en tu casa durante una semana y buscá formas de reducirlo.
 
 ## Preparación
-1. Prepara un diario para apuntar el desperdicio de comida.
-2. Vigila el tacho de basura durante una o dos semanas.
-3. Observa qué comidas se tiran y por qué.
+1. Prepará un diario para apuntar el desperdicio de comida.
+2. Vigilá el tacho de basura durante una o dos semanas.
+3. Observá qué comidas se tiran y por qué.
 
 ## Desarrollo
-1. **Registro** (durante una semana): Anota qué alimentos se desperdician.
+1. **Registro** (durante una semana): Anotá qué alimentos se desperdician.
 2. **Análisis** (15 min): ¿Qué comidas se tiran? ¿Sigue siendo comestible? ¿Por qué?
 3. **Debate** (15 min): Expón tus conclusiones a tu familia.
 4. **Propuesta** (15 min): Da sugerencias para reducir el desperdicio.
-5. **Acción** (durante las próximas semanas): Implementa los cambios.
+5. **Acción** (durante las próximas semanas): Implementá los cambios.
 
 ## Cierre
 - ¿Cuánta comida desperdiciaste en una semana?

@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesidades-y-deseos/"
 description: "Los participantes reflexionan sobre la diferencia entre necesidades y deseos, y discuten por qué el acceso al agua potable y al saneamiento son considerados derechos humanos fundamentales."
-summary: "Reflexiona sobre necesidades y deseos."
+summary: "Reflexioná sobre necesidades y deseos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -116,7 +116,7 @@ competencies:
   - Toma de decisiones
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Juego
 category:
   - Derechos humanos
@@ -165,29 +165,29 @@ translation_notice:
 Todos los seres humanos tenemos necesidades básicas que deben ser cubiertas para vivir con dignidad. El acceso al agua potable y al saneamiento son considerados derechos humanos fundamentales. En esta actividad, los participantes reflexionan sobre la diferencia entre necesidades y deseos, y discuten por qué el acceso al agua potable y al saneamiento son considerados derechos humanos fundamentales.
 
 ## Preparación
-1. Prepara las tarjetas de "Necesidades y Deseos".
-2. Asegúrate de tener espacio para que los participantes clasifiquen las tarjetas.
+1. Prepará las tarjetas de "Necesidades y Deseos".
+2. Asegurate de tener espacio para que los participantes clasifiquen las tarjetas.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Pregunta a los participantes qué creen que es la diferencia entre una "necesidad" y un "deseo". Escribe definiciones acordadas para cada una.
+1. Preguntá a los participantes qué creen que es la diferencia entre una "necesidad" y un "deseo". Escribí definiciones acordadas para cada una.
 2. Pregunta: ¿Podría considerarse un deseo como un lujo o es diferente?
 
 ### Paso 2: Clasificación
-3. En parejas o grupos pequeños, pide a los participantes que clasifiquen las tarjetas de "Necesidades y Deseos". Haz dos montones: uno que represente necesidades y otro que represente deseos.
+3. En parejas o grupos pequeños, pide a los participantes que clasifiquen las tarjetas de "Necesidades y Deseos". Hacé dos montones: uno que represente necesidades y otro que represente deseos.
 
 ### Paso 3: Discusión
-4. Revisa las tarjetas como grupo y discute cualquier desacuerdo.
-5. Pregunta si las necesidades y los deseos podrían cambiar dependiendo de dónde vivas. ¿Por qué podría ser este el caso? Pide a los participantes que den ejemplos.
+4. Revisá las tarjetas como grupo y discutí cualquier desacuerdo.
+5. Preguntá si las necesidades y los deseos podrían cambiar dependiendo de dónde vivas. ¿Por qué podría ser este el caso? Pedí a los participantes que den ejemplos.
 
 ### Paso 4: Prioridades
-6. Pide a los participantes que miren sus tarjetas de necesidades y deseos. En parejas o grupos, deben acordar sus cinco principales necesidades y las razones de su elección.
+6. Pedí a los participantes que miren sus tarjetas de necesidades y deseos. En parejas o grupos, deben acordar sus cinco principales necesidades y las razones de su elección.
 7. Como grupo, discutan las cinco principales opciones. ¿Alguien ha cambiado de opinión? ¿Cuáles son las cinco principales necesidades del grupo? ¿Por qué son tan importantes estas cosas?
 
 ### Paso 5: Derechos humanos
-8. Explica que muchas de estas necesidades son consideradas tan importantes que se consideran "derechos".
-9. Discute qué significa un derecho. ¿Por qué las personas necesitan derechos? ¿Son los derechos de los niños diferentes a los de los adultos? ¿Por qué podría ser así? ¿Qué derechos podrían ser diferentes para un niño?
+8. Explicá que muchas de estas necesidades son consideradas tan importantes que se consideran "derechos".
+9. Discutí qué significa un derecho. ¿Por qué las personas necesitan derechos? ¿Son los derechos de los niños diferentes a los de los adultos? ¿Por qué podría ser así? ¿Qué derechos podrían ser diferentes para un niño?
 
 ## Tarjetas de Necesidades y Deseos
 
@@ -207,8 +207,8 @@ Todos los seres humanos tenemos necesidades básicas que deben ser cubiertas par
 
 ## Cierre
 - ¿En qué países sería más probable que satisfagas tus "deseos"? ¿Por qué podría ser así?
-- ¿Por qué crees que las Naciones Unidas declararon el agua potable y el saneamiento como un derecho humano?
-- ¿Qué les pasa a las personas que no tienen acceso a agua limpia y servicios de saneamiento? ¿Cómo crees que su vida es diferente a la tuya?
+- ¿Por qué creés que las Naciones Unidas declararon el agua potable y el saneamiento como un derecho humano?
+- ¿Qué les pasa a las personas que no tienen acceso a agua limpia y servicios de saneamiento? ¿Cómo creés que su vida es diferente a la tuya?
 
 ## Texto original completo de la actividad
 

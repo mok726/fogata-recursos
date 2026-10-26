@@ -5,7 +5,7 @@ duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-basura-en-su-lugar/"
 description: "Juego de clasificación de residuos donde los participantes aprenden a separar correctamente los diferentes tipos de basura."
-summary: "Clasifica correctamente los residuos."
+summary: "Clasificá correctamente los residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -178,7 +178,7 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 
 ### Paso 2: Relevo
 2. A la señal de inicio, un participante de cada equipo toma una tarjeta del contenedor y cruza el campo de juego.
-3. Coloca la tarjeta en el contenedor correspondiente al tipo de residuo.
+3. Colocá la tarjeta en el contenedor correspondiente al tipo de residuo.
 
 ### Paso 3: Evaluación
 4. Los dirigentes evalúan si está correcto. Si no lo está, el participante recoge la tarjeta y la coloca en otro contenedor.

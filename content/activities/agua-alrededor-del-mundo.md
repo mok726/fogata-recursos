@@ -3,7 +3,7 @@ title: "Agua Alrededor del Mundo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-alrededor-del-mundo/"
-description: "Entrevista a amigos de otros países o representa un país para aprender sobre hábitos de agua globales."
+description: "Entrevistá a amigos de otros países o representá un país para aprender sobre hábitos de agua globales."
 summary: "Investigación sobre hábitos de agua en otros países."
 
 author:
@@ -107,7 +107,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Agua
@@ -150,22 +150,22 @@ rama_rovers:
 # ¡Agua Alrededor del Mundo!
 
 ## Resumen
-Entrevista a amigos de otros países o representa un país en una "Organización de las Naciones Unidas del Agua" para aprender sobre hábitos de agua globales.
+Entrevistá a amigos de otros países o representá un país en una "Organización de las Naciones Unidas del Agua" para aprender sobre hábitos de agua globales.
 
 ## Preparación
-1. Identifica amigos de otros países o elige un país para representar.
-2. Prepara preguntas sobre hábitos de agua.
-3. Reúne materiales para la investigación.
+1. Identificá amigos de otros países o elegí un país para representar.
+2. Prepará preguntas sobre hábitos de agua.
+3. Reuní materiales para la investigación.
 
 ## Desarrollo
-1. **Entrevistas** (25 min): Entrevista a amigos o investiga sobre tu país asignado.
-2. **Comparación** (20 min): Compara los hábitos y las ideas de conservación.
+1. **Entrevistas** (25 min): Entrevistá a amigos o investigá sobre tu país asignado.
+2. **Comparación** (20 min): Compará los hábitos y las ideas de conservación.
 3. **Discusión** (10 min): ¿Qué aprende cada país de los demás?
-4. **Reflexión** (5 min): ¿Qué cambios puedes adoptar?
+4. **Reflexión** (5 min): ¿Qué cambios podés adoptar?
 
 ## Cierre
 - ¿Qué hábitos de otros países te sorprendieron?
-- ¿Qué ideas de ahorro de agua puedes adoptar?
+- ¿Qué ideas de ahorro de agua podés adoptar?
 - ¿Por qué es importante compartir conocimientos?
 
 ---

@@ -3,7 +3,7 @@ title: "Persuade y Prepara"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/persuade-y-prepara/"
-description: "Analiza las Prioridades del Marco de Sendai y presenta cómo implementarlas en tu región."
+description: "Analizá las Prioridades del Marco de Sendai y presentá cómo implementarlas en tu región."
 summary: "Implementación del Marco de Sendai local."
 
 author:
@@ -148,23 +148,23 @@ rama_rovers:
 # ¡Persuade y Prepara!
 
 ## Resumen
-Analiza las Cuatro Prioridades de Acción del Marco de Sendai y crea una propuesta para implementarlas en tu región.
+Analizá las Cuatro Prioridades de Acción del Marco de Sendai y creá una propuesta para implementarlas en tu región.
 
 ## Preparación
-1. Investiga las Cuatro Prioridades del Marco de Sendai.
-2. Analiza la situación de tu región.
-3. Prepara materiales para la presentación.
+1. Investigá las Cuatro Prioridades del Marco de Sendai.
+2. Analizá la situación de tu región.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre el Marco de Sendai.
+1. **Investigación** (20 min): Aprendé sobre el Marco de Sendai.
 2. **Análisis** (15 min): ¿Qué está haciendo bien tu región? ¿Qué necesita mejorar?
-3. **Creación** (20 min): Prepara tu propuesta de implementación.
-4. **Presentación** (5 min): Presenta tu propuesta al grupo.
+3. **Creación** (20 min): Prepará tu propuesta de implementación.
+4. **Presentación** (5 min): Presentá tu propuesta al grupo.
 
 ## Cierre
 - ¿Qué prioridades son más relevantes para tu región?
 - ¿Qué cambios propones?
-- ¿Cómo puedes involucrar a otros en esta iniciativa?
+- ¿Cómo podés involucrar a otros en esta iniciativa?
 
 ---
 ## Texto original completo de la actividad

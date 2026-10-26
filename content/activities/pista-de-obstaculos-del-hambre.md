@@ -4,7 +4,7 @@ title: "Pista de Obstáculos del Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/pista-de-obstaculos-del-hambre/"
-description: "Crea estaciones con diferentes problemas de hambre y busca soluciones en grupo."
+description: "Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo."
 summary: "Simulación de problemas y soluciones del hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -119,7 +119,7 @@ competencies:
 
 activity_type:
   - Simulación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Aprender haciendo
 
 category:
@@ -163,17 +163,17 @@ rama_rovers:
 # Pista de Obstáculos del Hambre
 
 ## Resumen
-Crea estaciones con diferentes problemas de hambre y busca soluciones en grupo.
+Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo.
 
 ## Preparación
-1. Divide el grupo en cuatro o cinco grupos pequeños.
-2. Crea estaciones con diferentes problemas de hambre.
-3. Prepara carteles con descripciones.
+1. Dividí el grupo en cuatro o cinco grupos pequeños.
+2. Creá estaciones con diferentes problemas de hambre.
+3. Prepará carteles con descripciones.
 
 ## Desarrollo
 1. **Rotación** (5 min por estación): Cada grupo visita una estación y busca soluciones.
 2. **Lluvia de ideas** (15 min): Cada grupo propone soluciones para su problema.
-3. **Discusión** (15 min): Comparte soluciones con todo el grupo.
+3. **Discusión** (15 min): Compartí soluciones con todo el grupo.
 
 ## Cierre
 - ¿Qué problema te pareció más difícil de resolver?

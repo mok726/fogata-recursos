@@ -161,19 +161,19 @@ rama_rovers:
 Organicen o participen en una limpieza de playa. Monitoreen el progreso de recuperación. ¿Qué se puede hacer para asegurarse de que el área se mantenga limpia?
 
 ## Preparación
-1. Obtén permiso para realizar la limpieza.
-2. Reúne bolsas de basura y guantes. Cuidado con objetos filosos o tóxicos (vidrios, jeringas, latas): no los toques sin guantes y avisa a un adulto.
-3. Organiza los grupos de trabajo.
+1. Obtené permiso para realizar la limpieza.
+2. Reuní bolsas de basura y guantes. Cuidado con objetos filosos o tóxicos (vidrios, jeringas, latas): no los toques sin guantes y avisa a un adulto.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Realiza la limpieza de la playa.
+1. Realizá la limpieza de la playa.
 2. Si las playas ya están limpias, visita después de una tormenta y luego de que se haya 'limpiado' sola.
-3. Observa: ¿Cuáles son los cambios en la diversidad de vida a lo largo de la playa y la orilla?
-4. Monitorea el progreso de recuperación.
+3. Observá: ¿Cuáles son los cambios en la diversidad de vida a lo largo de la playa y la orilla?
+4. Monitoreá el progreso de recuperación.
 
 ## Cierre
-1. Discute tus hallazgos en grupo.
-2. Reflexiona sobre la importancia de las playas limpias.
+1. Discutí tus hallazgos en grupo.
+2. Reflexioná sobre la importancia de las playas limpias.
 3. Pregunta final: ¿Cómo podemos mantener limpias nuestras playas?
 
 ## Texto original completo de la actividad

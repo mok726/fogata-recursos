@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hazlo fácil: reduce plásticos en casa"
+title: "Hacelo fácil: reduce plásticos en casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/hazlo-facil-sin-plastico/"
-description: "Crea sistemas en tu hogar para facilitar el uso de productos sostenibles en lugar de plásticos de un solo uso."
-summary: "Haz que reducir plásticos sea más fácil."
+description: "Creá sistemas en tu hogar para facilitar el uso de productos sostenibles en lugar de plásticos de un solo uso."
+summary: "Hacé que reducir plásticos sea más fácil."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -159,26 +159,26 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Hazlo fácil: reduce plásticos en casa!
+# ¡Hacelo fácil: reduce plásticos en casa!
 
 ## Resumen
-Piensa en cómo tu hogar usa plásticos de un solo uso. Crea sistemas para que sea más fácil usar productos sostenibles en su lugar.
+Pensá en cómo tu hogar usa plásticos de un solo uso. Creá sistemas para que sea más fácil usar productos sostenibles en su lugar.
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Observa cómo tu familia usa plásticos en casa.
-3. Prepara materiales para crear sistemas.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Observá cómo tu familia usa plásticos en casa.
+3. Prepará materiales para crear sistemas.
 
 ## Desarrollo
 
 ### Parte I - Observar
-Observa cómo tu familia usa plásticos de un solo uso en casa:
+Observá cómo tu familia usa plásticos de un solo uso en casa:
 - ¿Qué plásticos se usan más?
 - ¿Dónde se guardan?
 - ¿Hay alternativas disponibles?
 
 ### Parte II - Planificar
-Crea un plan de acción para tu familia:
+Creá un plan de acción para tu familia:
 
 **Ideas:**
 - Colocar bolsas reutilizables junto a la puerta o en el auto
@@ -187,13 +187,13 @@ Crea un plan de acción para tu familia:
 - Tener botellas reutilizables siempre disponibles
 
 ### Parte III - Implementar
-Pon en práctica tu plan con tu familia.
+Poné en práctica tu plan con tu familia.
 
 ### Parte IV - Evaluar
 Después de una semana, evalúa:
 - ¿Qué funcionó bien?
 - ¿Qué podría mejorar?
-- ¿Qué cambios puedes mantener a largo plazo?
+- ¿Qué cambios podés mantener a largo plazo?
 
 ## Cierre
 1. ¿Qué fue más fácil de implementar?

@@ -1,9 +1,9 @@
 ---
-title: "Saca el Bardo que Hay en Ti"
+title: "Sacá el Bardo que Hay en Ti"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/saca-el-bardo-que-hay-en-ti/"
-description: "Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua."
+description: "Creá una obra de teatro sobre una comunidad que enfrenta escasez de agua."
 summary: "Obra de teatro sobre escasez de agua."
 
 author:
@@ -142,10 +142,10 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Saca el Bardo que Hay en Ti!
+# ¡Sacá el Bardo que Hay en Ti!
 
 ## Resumen
-Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostrando sus desafíos y soluciones.
+Creá una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostrando sus desafíos y soluciones.
 
 ## Preparación
 1. Divídanse en grupos pequeños.
@@ -153,10 +153,10 @@ Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostra
 3. Ensayen la obra.
 
 ## Desarrollo
-1. **Creación** (25 min): Escribe un guión y asigna roles.
-2. **Ensayo** (30 min): Ensaya la obra.
-3. **Presentación** (20 min): Presenta la obra a la comunidad.
-4. **Discusión** (15 min): Habla sobre las soluciones mostradas.
+1. **Creación** (25 min): Escribí un guión y asigná roles.
+2. **Ensayo** (30 min): Ensayá la obra.
+3. **Presentación** (20 min): Presentá la obra a la comunidad.
+4. **Discusión** (15 min): Hablá sobre las soluciones mostradas.
 
 ## Cierre
 - ¿Qué desafíos enfrenta la comunidad?

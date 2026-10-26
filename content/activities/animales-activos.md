@@ -166,15 +166,15 @@ rama_rovers:
 Juego divertido para moverse más asignando movimientos de animales a cada participante.
 
 ## Preparación
-1. Forma un círculo con tu grupo.
+1. Formá un círculo con tu grupo.
 2. Cada persona elige un animal que le guste.
-3. Asigna un movimiento a cada animal (mono anda, rana salta, gusano se mueve lentamente, etc.).
+3. Asigná un movimiento a cada animal (mono anda, rana salta, gusano se mueve lentamente, etc.).
 
 ## Desarrollo
 1. **Asignación** (5 min): Cada persona elige su animal y su movimiento.
 2. **Juego** (15 min): Una persona dice el nombre de su animal y realiza su movimiento, seguido del nombre y movimiento de otro animal.
 3. **Velocidad** (10 min): Aumenta la velocidad gradualmente.
-4. **Sonidos** (5 min): Añade sonidos de animales para más diversión.
+4. **Sonidos** (5 min): Añadí sonidos de animales para más diversión.
 
 ## Cierre
 - ¿Qué animal te resultó más divertido de imitar?

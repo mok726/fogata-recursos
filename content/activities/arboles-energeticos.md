@@ -4,7 +4,7 @@ title: "Árboles Energéticos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/arboles-energeticos/"
-description: "Investiga de qué formas se usan los recursos forestales como fuentes de energía. Crea un mini-modelo de tu invención energética."
+description: "Investigá de qué formas se usan los recursos forestales como fuentes de energía. Creá un mini-modelo de tu invención energética."
 summary: "Investigación sobre energía forestal y creación de un modelo."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,18 +163,18 @@ rama_rovers:
 # Árboles Energéticos
 
 ## Resumen
-Investiga de qué formas se usan los recursos forestales como fuentes de energía. Crea un mini-modelo de tu invención energética.
+Investigá de qué formas se usan los recursos forestales como fuentes de energía. Creá un mini-modelo de tu invención energética.
 
 ## Preparación
-1. Investiga cómo los recursos forestales son usados como fuentes de energía.
-2. Reúne materiales para crear un mini-modelo.
+1. Investigá cómo los recursos forestales son usados como fuentes de energía.
+2. Reuní materiales para crear un mini-modelo.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre usos energéticos de recursos forestales (biomasa, carbón, etc.).
-2. **Análisis** (15 min): Investiga posibilidades exploradas por compañías de energía.
-3. **Invención** (20 min): Piensa en una idea nueva y original.
-4. **Creación** (25 min): Crea un mini-modelo de tu invención.
-5. **Presentación** (15 min): Comparte tu invención con el grupo.
+1. **Investigación** (20 min): Aprendé sobre usos energéticos de recursos forestales (biomasa, carbón, etc.).
+2. **Análisis** (15 min): Investigá posibilidades exploradas por compañías de energía.
+3. **Invención** (20 min): Pensá en una idea nueva y original.
+4. **Creación** (25 min): Creá un mini-modelo de tu invención.
+5. **Presentación** (15 min): Compartí tu invención con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la energía de los bosques?

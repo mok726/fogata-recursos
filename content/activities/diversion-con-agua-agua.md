@@ -5,7 +5,7 @@ duration: "1 hora (más tiempo para la tarea)"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-agua-agua/"
 description: "Los participantes planifican y realizan una actividad divertida que involucra el uso del agua con sus familias, reflexionando sobre la importancia del agua en la recreación."
-summary: "Planifica una actividad divertida con agua en familia."
+summary: "Planificá una actividad divertida con agua en familia."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,27 +167,27 @@ translation_notice:
 Cada día hacemos muchas cosas maravillosas que involucran el uso del agua y el agua hace felices a personas de todo el mundo. En esta actividad, los participantes planifican y realizan una actividad divertida con agua junto a sus familias, reflexionando sobre la importancia del agua en la recreación.
 
 ## Preparación
-1. Prepara los materiales necesarios.
-2. Piensa en ejemplos de actividades divertidas con agua para inspirar a los participantes.
+1. Prepará los materiales necesarios.
+2. Pensá en ejemplos de actividades divertidas con agua para inspirar a los participantes.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Recuerda a tu grupo cuántas cosas maravillosas hacemos cada día que involucran el uso del agua y lo feliz que el agua hace a las personas en todo el mundo.
+1. Recordá a tu grupo cuántas cosas maravillosas hacemos cada día que involucran el uso del agua y lo feliz que el agua hace a las personas en todo el mundo.
 
 ### Paso 2: Tarea para casa
-2. Explica a tu grupo que tendrán una tarea muy divertida para hacer en casa: planificar una actividad que involucre el uso del agua y que puedan desarrollar con su familia durante el fin de semana. Puede ser cualquier cosa, ¡desde ir a la pileta hasta pescar en una laguna cercana!
+2. Explicá a tu grupo que tendrán una tarea muy divertida para hacer en casa: planificar una actividad que involucre el uso del agua y que puedan desarrollar con su familia durante el fin de semana. Puede ser cualquier cosa, ¡desde ir a la pileta hasta pescar en una laguna cercana!
 3. Da a los participantes tiempo para pensar y planificar su actividad. Pueden tomar notas o hacer un dibujo de lo que planean hacer.
 
 ### Paso 3: Compartir experiencias
 4. En la próxima reunión, después de que ya hayan disfrutado de su actividad, pide a cada participante que hable sobre ella.
 5. Los participantes más jóvenes también pueden hacer un dibujo bonito sobre su experiencia.
-6. Anima a todos a compartir lo que más disfrutaron.
+6. Animá a todos a compartir lo que más disfrutaron.
 
 ## Cierre
-- ¿Cuál actividad crees que fue la más ingeniosa? ¿Por qué?
-- ¿Crees que algunas actividades podrían tener un impacto negativo en el agua? ¿Qué puedes hacer para evitarlo?
-- ¿Crees que todos tienen derecho a disfrutar del agua? ¿Por qué?
+- ¿Cuál actividad creés que fue la más ingeniosa? ¿Por qué?
+- ¿Creés que algunas actividades podrían tener un impacto negativo en el agua? ¿Qué podés hacer para evitarlo?
+- ¿Creés que todos tienen derecho a disfrutar del agua? ¿Por qué?
 
 ## Texto original completo de la actividad
 

@@ -5,7 +5,7 @@ duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-nuestro-entorno/"
 description: "Los participantes salen al aire libre a explorar su entorno, buscando elementos naturales y evidencias de la intervención humana, reflexionando sobre el impacto en el medio ambiente."
-summary: "Explora y analiza tu entorno natural."
+summary: "Explorá y analizá tu entorno natural."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,9 +170,9 @@ rama_rovers:
 Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pasa a nuestro alrededor. En esta actividad, los participantes salen al aire libre a explorar su entorno, buscando elementos naturales y evidencias de la intervención humana, reflexionando sobre el impacto en el medio ambiente.
 
 ## Preparación
-1. Identifica un espacio al aire libre seguro para la exploración.
-2. Prepara los materiales para la recolección.
-3. Establece las normas de seguridad y cuidado del entorno.
+1. Identificá un espacio al aire libre seguro para la exploración.
+2. Prepará los materiales para la recolección.
+3. Establecé las normas de seguridad y cuidado del entorno.
 
 ## Desarrollo
 

@@ -4,7 +4,7 @@ title: "Manténganse Limpios"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/mantenganse-limpios/"
-description: "Evalúa tus hábitos de higiene personal y en casa, y busca formas de mejorarlos."
+description: "Evaluá tus hábitos de higiene personal y en casa, y buscá formas de mejorarlos."
 summary: "Evaluación y mejora de hábitos de higiene."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,21 +165,21 @@ rama_rovers:
 # Manténganse Limpios
 
 ## Resumen
-Evalúa tus hábitos de higiene personal y en casa, y busca formas de mejorarlos.
+Evaluá tus hábitos de higiene personal y en casa, y buscá formas de mejorarlos.
 
 ## Preparación
-1. Reflexiona sobre tus hábitos de higiene diarios.
-2. Observa la higiene en tu casa y escuela.
-3. Prepara un cuaderno para anotar observaciones.
+1. Reflexioná sobre tus hábitos de higiene diarios.
+2. Observá la higiene en tu casa y escuela.
+3. Prepará un cuaderno para anotar observaciones.
 
 ## Desarrollo
-1. **Evaluación personal** (15 min): ¿Te bañas todos los días? ¿Te lavas las manos después de ir al baño, antes de comer o después de hacer deporte?
-2. **Evaluación del entorno** (15 min): Observa la higiene en casa y en la escuela.
-3. **Propuestas** (15 min): Piensa cómo puedes mejorar la higiene.
-4. **Acción** (10 min): Habla con tu familia o profesores sobre las mejoras necesarias.
+1. **Evaluación personal** (15 min): ¿Te bañás todos los días? ¿Te lavás las manos después de ir al baño, antes de comer o después de hacer deporte?
+2. **Evaluación del entorno** (15 min): Observá la higiene en casa y en la escuela.
+3. **Propuestas** (15 min): Pensá cómo podés mejorar la higiene.
+4. **Acción** (10 min): Hablá con tu familia o profesores sobre las mejoras necesarias.
 
 ## Cierre
-- ¿Qué hábitos de higiene puedes mejorar?
+- ¿Qué hábitos de higiene podés mejorar?
 - ¿Cómo afectaría a tu vida una mejor higiene?
 - ¿Qué compromiso adquieres para mantenerte limpio?
 

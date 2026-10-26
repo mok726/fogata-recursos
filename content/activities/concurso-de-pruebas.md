@@ -3,7 +3,7 @@ title: "Concurso de Pruebas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-de-pruebas/"
-description: "Prepara un concurso de preguntas sobre el suelo y sus amenazas."
+description: "Prepará un concurso de preguntas sobre el suelo y sus amenazas."
 summary: "Concurso sobre el suelo."
 
 author:
@@ -106,7 +106,7 @@ competencies:
 activity_type:
   - Juego
   - Aprender jugando
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Suelo
@@ -149,7 +149,7 @@ rama_rovers:
 # ¡Concurso de Pruebas!
 
 ## Resumen
-Prepara un concurso de preguntas sobre el suelo y sus amenazas entre dos equipos.
+Prepará un concurso de preguntas sobre el suelo y sus amenazas entre dos equipos.
 
 ## Preparación
 1. Divídanse en dos equipos.

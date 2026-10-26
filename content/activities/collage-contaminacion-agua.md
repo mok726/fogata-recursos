@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/collage-contaminacion-agua/"
 description: "Los participantes identifican fuentes de contaminación del agua y crean un collage para representar cómo diferentes actividades humanas afectan los cuerpos de agua."
-summary: "Crea un collage sobre la contaminación del agua."
+summary: "Creá un collage sobre la contaminación del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -172,18 +172,18 @@ translation_notice:
 La contaminación del agua es la contaminación de cuerpos de agua como lagos, ríos, océanos, acuíferos y aguas subterráneas, muy a menudo por actividades humanas. La contaminación del agua ocurre cuando los contaminantes son descargados directa o indirectamente en los cuerpos de agua sin el tratamiento adecuado para eliminar compuestos o sustancias nocivas. En esta actividad, los participantes identifican fuentes de contaminación del agua y crean un collage para representarlas.
 
 ## Preparación
-1. Reúne periódicos y revistas para recortar imágenes.
-2. Prepara los materiales de arte (cartulina, tijeras, pegamento, marcadores).
+1. Reuní periódicos y revistas para recortar imágenes.
+2. Prepará los materiales de arte (cartulina, tijeras, pegamento, marcadores).
 
 ## Desarrollo
 
 ### Paso 1: Introducción al concepto de cuenca
-1. Comienza recordando a tu grupo qué es una cuenca: toda el área de tierra que envía agua de lluvia o deshielo a un cuerpo de agua común, como un río, un arroyo, un lago o el océano.
+1. Comenzá recordando a tu grupo qué es una cuenca: toda el área de tierra que envía agua de lluvia o deshielo a un cuerpo de agua común, como un río, un arroyo, un lago o el océano.
 2. Para explicar mejor este concepto, pide a los participantes que imaginen: si un gigante vertiera una jarra imaginaria de agua sobre su paisaje, ¿cómo fluiría el agua? ¿Qué áreas atravesaría y dónde drenaría?
-3. Anima a tu grupo a pensar en qué podría incluir su cuenca. ¿El agua de tu área proviene del deshielo de glaciares? ¿De la lluvia? ¿De ríos? ¿De arroyos?
+3. Animá a tu grupo a pensar en qué podría incluir su cuenca. ¿El agua de tu área proviene del deshielo de glaciares? ¿De la lluvia? ¿De ríos? ¿De arroyos?
 
 ### Paso 2: Identificación de fuentes de contaminación
-4. Pide a los participantes que te ayuden a definir qué es la contaminación y considera las siguientes causas de contaminación del agua:
+4. Pedí a los participantes que te ayuden a definir qué es la contaminación y considerá las siguientes causas de contaminación del agua:
 
 - Aguas residuales y cloacas
 - Tanques sépticos
@@ -193,20 +193,20 @@ La contaminación del agua es la contaminación de cuerpos de agua como lagos, r
 - Fugas de almacenamiento subterráneo y tuberías
 - Depósito atmosférico (contaminación de cuerpos de agua causada por lluvia ácida)
 
-5. Pregunta a tu grupo: ¿Qué otras personas, animales, pueblos, industrias, granjas, etc., podrían compartir tu fuente de agua? ¿Cómo podría cada uno de ellos contribuir a la contaminación de la cuenca? Recuerda que el agua corre de zonas más altas a zonas más bajas.
+5. Preguntá a tu grupo: ¿Qué otras personas, animales, pueblos, industrias, granjas, etc., podrían compartir tu fuente de agua? ¿Cómo podría cada uno de ellos contribuir a la contaminación de la cuenca? Recordá que el agua corre de zonas más altas a zonas más bajas.
 
 ### Paso 3: Creación del collage
-6. Divide a los participantes en dos grupos y pide a cada uno que haga un **Collage de Contaminación del Agua**.
-7. Pide a los participantes que dibujen la fuente de agua cerca de su escuela o lugar de reunión. Usando imágenes de revistas o dibujando, pídeles que agreguen las cosas que podrían estar en el agua.
-8. Diles que piensen en plantas y vida silvestre, usos humanos (paseos en bote, pesca, etc.) y fuentes cercanas de contaminación (casas, carreteras, fábricas, granjas, vertederos, escorrentía, basura, etc.).
-9. Explica que no necesita estar dibujado a escala, y que también deben pensar en cosas pequeñas o invisibles en el agua (bacterias, petróleo, productos químicos, etc.). ¡Anima la creatividad!
+6. Dividí a los participantes en dos grupos y pedí a cada uno que haga un **Collage de Contaminación del Agua**.
+7. Pedí a los participantes que dibujen la fuente de agua cerca de su escuela o lugar de reunión. Usando imágenes de revistas o dibujando, pediles que agreguen las cosas que podrían estar en el agua.
+8. Deciles que piensen en plantas y vida silvestre, usos humanos (paseos en bote, pesca, etc.) y fuentes cercanas de contaminación (casas, carreteras, fábricas, granjas, vertederos, escorrentía, basura, etc.).
+9. Explicá que no necesita estar dibujado a escala, y que también deben pensar en cosas pequeñas o invisibles en el agua (bacterias, petróleo, productos químicos, etc.). ¡Animá la creatividad!
 
 ### Paso 4: Presentación
-10. Pide a los grupos que compartan y discutan sus collages.
+10. Pedí a los grupos que compartan y discutan sus collages.
 
 ## Cierre
 - ¿Por qué la contaminación afecta negativamente a nuestro medio ambiente? ¿Cuáles son algunas de las consecuencias?
-- ¿Cómo crees que tu vecindario está contribuyendo a la contaminación del agua?
+- ¿Cómo creés que tu vecindario está contribuyendo a la contaminación del agua?
 - ¿Cómo podría afectar el agua contaminada a tu vida y a tus actividades cotidianas?
 
 ## Texto original completo de la actividad

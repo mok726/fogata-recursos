@@ -162,22 +162,22 @@ rama_rovers:
 # ¡Paseo en bote!
 
 ## Resumen
-Toma un paseo en bote. Observa todas las plantas (algas marinas) y animales (aves, peces, crustáceos, etc.) que encuentres, escuches y huelas. Crea un pequeño relato para resumir tus hallazgos.
+Tomá un paseo en bote. Observá todas las plantas (algas marinas) y animales (aves, peces, crustáceos, etc.) que encuentres, escuches y huelas. Creá un pequeño relato para resumir tus hallazgos.
 
 ## Preparación
-1. Organiza el paseo en bote con supervisión calificada.
-2. Prepara chalecos salvavidas.
-3. Prepara materiales para registrar observaciones.
+1. Organizá el paseo en bote con supervisión calificada.
+2. Prepará chalecos salvavidas.
+3. Prepará materiales para registrar observaciones.
 
 ## Desarrollo
-1. Realiza el paseo en bote de forma segura.
-2. Observa plantas y animales marinos.
-3. Registra lo que ves, escuchas y hueles.
-4. Crea un pequeño relato para resumir tus hallazgos.
+1. Realizá el paseo en bote de forma segura.
+2. Observá plantas y animales marinos.
+3. Registrá lo que ves, escuchás y olés.
+4. Creá un pequeño relato para resumir tus hallazgos.
 
 ## Cierre
-1. Comparte tu relato con el grupo.
-2. Reflexiona: ¿Qué te sorprendió de la biodiversidad marina?
+1. Compartí tu relato con el grupo.
+2. Reflexioná: ¿Qué te sorprendió de la biodiversidad marina?
 3. Pregunta final: ¿Por qué es importante proteger los ecosistemas marinos?
 
 ## Texto original completo de la actividad

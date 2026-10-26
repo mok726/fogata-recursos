@@ -5,7 +5,7 @@ duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-botella-de-amor/"
 description: "Taller donde los participantes aprenden a reciclar plásticos de un solo uso mediante la creación de una 'Botella de Amor'."
-summary: "Crea una botella de amor con plásticos."
+summary: "Creá una botella de amor con plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,9 +168,9 @@ Aprendemos a reciclar plásticos de un solo uso mediante la creación de una "Bo
 - Fomentar el compromiso con el cuidado del medio ambiente.
 
 ## Preparación
-1. Reúne botellas plásticas limpias y secas.
-2. Reúne residuos plásticos de un solo uso limpios y secos (envoltorios, bolsas, pajitas, etc.).
-3. Prepara palitos o cucharas de madera para empujar.
+1. Reuní botellas plásticas limpias y secas.
+2. Reuní residuos plásticos de un solo uso limpios y secos (envoltorios, bolsas, pajitas, etc.).
+3. Prepará palitos o cucharas de madera para empujar.
 
 ## Desarrollo
 

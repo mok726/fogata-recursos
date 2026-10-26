@@ -3,7 +3,7 @@ title: "Collage de las tres R"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/collage-de-las-tres-r/"
-description: "Haz un collage sobre Reduce - Reusa - Recicla."
+description: "Hacé un collage sobre Reduce - Reusa - Recicla."
 summary: "Collage sobre las tres R."
 
 author:
@@ -149,20 +149,20 @@ rama_rovers:
 # ¡Collage de las tres R!
 
 ## Resumen
-Crea un collage explicando cómo reducir, reusar y reciclar.
+Creá un collage explicando cómo reducir, reusar y reciclar.
 
 ## Preparación
-- Reúne materiales para el collage.
-- Piensa en ejemplos de cada R.
+- Reuní materiales para el collage.
+- Pensá en ejemplos de cada R.
 
 ## Desarrollo
-1. **Creación** (30 min): Haz un collage con las tres R.
+1. **Creación** (30 min): Hacé un collage con las tres R.
 2. **Exposición** (15 min): Expónlo en tu escuela o comunidad.
 
 ## Cierre
 - ¿Qué significa cada R?
 - ¿Qué ejemplos incluiste?
-- ¿Cómo te sientes al promover las tres R?
+- ¿Cómo te sentís al promover las tres R?
 
 ---
 ## Texto original completo de la actividad

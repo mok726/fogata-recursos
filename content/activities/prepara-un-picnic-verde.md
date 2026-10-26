@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Prepara un Picnic Verde"
+title: "Prepará un Picnic Verde"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/prepara-un-picnic-verde/"
-description: "Organiza un picnic saludable y sostenible con envases reutilizables, ingredientes locales y actividad física."
+description: "Organizá un picnic saludable y sostenible con envases reutilizables, ingredientes locales y actividad física."
 summary: "Picnic sostenible y saludable."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,26 +164,26 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# Prepara un Picnic Verde
+# Prepará un Picnic Verde
 
 ## Resumen
-Organiza un picnic saludable y sostenible con envases reutilizables, ingredientes locales y actividad física.
+Organizá un picnic saludable y sostenible con envases reutilizables, ingredientes locales y actividad física.
 
 ## Preparación
-1. Elige un lugar al aire libre para el picnic.
-2. Prepara envases reutilizables.
-3. Elige ingredientes locales y sostenibles.
+1. Elegí un lugar al aire libre para el picnic.
+2. Prepará envases reutilizables.
+3. Elegí ingredientes locales y sostenibles.
 
 ## Desarrollo
 1. **Planificación** (15 min): Planea el menú y los juegos.
-2. **Preparación** (30 min): Prepara la comida.
-3. **Picnic** (45 min): Disfruta de la comida al aire libre.
-4. **Juegos** (30 min): Juega a juegos y haz deporte.
-5. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+2. **Preparación** (30 min): Prepará la comida.
+3. **Picnic** (45 min): Disfrutá de la comida al aire libre.
+4. **Juegos** (30 min): Jugá a juegos y hacé deporte.
+5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Qué alimentos elegiste para el picnic?
-- ¿Cómo puedes hacer que tus picnics sean más sostenibles?
+- ¿Cómo podés hacer que tus picnics sean más sostenibles?
 - ¿Qué compromiso adquieres para disfrutar de la naturaleza de forma responsable?
 
 ---

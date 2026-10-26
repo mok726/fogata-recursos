@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/estas-de-acuerdo-o-en-desacuerdo/"
 description: "Los participantes reflexionan sobre afirmaciones relacionadas con la vulnerabilidad al agua y discuten diferentes perspectivas sobre el acceso al agua, el género, el cambio climático y la justicia social."
-summary: "Debate sobre vulnerabilidad al agua."
+summary: "Debatí sobre vulnerabilidad al agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -122,7 +122,7 @@ competencies:
   - Comunicación
   - Conciencia social
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Dinámica de grupos
 category:
@@ -172,15 +172,15 @@ translation_notice:
 En esta actividad, los participantes reflexionan sobre afirmaciones relacionadas con la vulnerabilidad al agua y discuten diferentes perspectivas sobre el acceso al agua, el género, el cambio climático y la justicia social. A través de un debate interactivo, exploran cómo diferentes factores afectan el acceso al agua.
 
 ## Preparación
-1. Dibuja una línea horizontal en la pizarra.
+1. Dibujá una línea horizontal en la pizarra.
 2. En el lado izquierdo pega el cartel de "En desacuerdo" y en el lado derecho el cartel de "De acuerdo".
 
 ## Desarrollo
 
 ### Paso 1: Explicación de la dinámica
-1. Explica a tu grupo que van a participar en un debate sobre afirmaciones relacionadas con la vulnerabilidad al agua.
-2. Lee una afirmación en voz alta y pide a los participantes que se coloquen en la línea según su opinión: más a la izquierda si están en desacuerdo, más a la derecha si están de acuerdo, o en el medio si no están seguros.
-3. Pide a algunos participantes que expliquen por qué eligieron esa posición.
+1. Explicá a tu grupo que van a participar en un debate sobre afirmaciones relacionadas con la vulnerabilidad al agua.
+2. Leé una afirmación en voz alta y pedí a los participantes que se coloquen en la línea según su opinión: más a la izquierda si están en desacuerdo, más a la derecha si están de acuerdo, o en el medio si no están seguros.
+3. Pedí a algunos participantes que expliquen por qué eligieron esa posición.
 4. Después de escuchar diferentes puntos de vista, los participantes pueden cambiar de posición si lo desean.
 
 ### Paso 2: Afirmaciones para debatir
@@ -195,7 +195,7 @@ En esta actividad, los participantes reflexionan sobre afirmaciones relacionadas
 
 **3. Vivir en una ciudad significa que no experimentarás ningún problema relacionado con el agua.**
 
-*Nota: Esta es una afirmación difícil de hacer comentarios definitivos, aunque el lugar donde vives obviamente afecta a tu vulnerabilidad al agua. Las personas que viven en áreas rurales tienen menos probabilidades de beneficiarse de una buena infraestructura hídrica, aunque no siempre es así. En las ciudades también puede haber grandes problemas en términos de falta de acceso a agua y saneamiento adecuados, particularmente en áreas superpobladas. Una posible diferencia entre lo urbano y lo rural es que las personas que viven en áreas rurales tienen más probabilidades de depender del agua para cultivar alimentos, por lo que la falta de agua afectará su suministro de alimentos.*
+*Nota: Esta es una afirmación difícil de hacer comentarios definitivos, aunque el lugar donde vivís obviamente afecta a tu vulnerabilidad al agua. Las personas que viven en áreas rurales tienen menos probabilidades de beneficiarse de una buena infraestructura hídrica, aunque no siempre es así. En las ciudades también puede haber grandes problemas en términos de falta de acceso a agua y saneamiento adecuados, particularmente en áreas superpobladas. Una posible diferencia entre lo urbano y lo rural es que las personas que viven en áreas rurales tienen más probabilidades de depender del agua para cultivar alimentos, por lo que la falta de agua afectará su suministro de alimentos.*
 
 **4. Los gobiernos tienen el poder de detener los problemas relacionados con el agua.**
 
@@ -205,17 +205,17 @@ En esta actividad, los participantes reflexionan sobre afirmaciones relacionadas
 
 *Nota: A menudo, el conflicto puede tener efectos negativos en la vulnerabilidad al agua. Si los enfrentamientos obligan a las personas a huir de sus hogares, puede ser difícil para ellas acceder al agua. Las personas pueden tener que vivir en un campamento de desplazados, lo que significa que su acceso al agua y al saneamiento depende de lo que esté disponible en el campamento. La infraestructura hídrica de un país puede ser destruida, lo que retrasa aún más al país, incluso mucho después del fin de un conflicto (por ejemplo, Liberia).*
 
-**6. Cuanto más joven eres, más probabilidades tienes de tener problemas relacionados con el agua.**
+**6. Cuanto más joven sos, más probabilidades tenés de tener problemas relacionados con el agua.**
 
 *Nota: Los jóvenes y los ancianos son especialmente vulnerables a las enfermedades transmitidas por el agua. En países donde la infraestructura hídrica no es buena, a menudo los niños (especialmente las niñas) tienen que faltar a la escuela para ir a recolectar agua.*
 
 ### Paso 3: Creación de nuevas afirmaciones
-7. Invita a los participantes a crear sus propias afirmaciones relacionadas con problemas locales.
+7. Invitá a los participantes a crear sus propias afirmaciones relacionadas con problemas locales.
 
 ## Cierre
 - ¿Por qué el agua es un tema tan importante?
 - ¿Cómo afecta la vulnerabilidad al agua las oportunidades de las personas para tener un futuro exitoso?
-- ¿Qué regiones tienen la mayor falta de agua potable e instalaciones de saneamiento mejoradas? ¿Puedes hacer algo al respecto?
+- ¿Qué regiones tienen la mayor falta de agua potable e instalaciones de saneamiento mejoradas? ¿Podés hacer algo al respecto?
 
 ## Texto original completo de la actividad
 

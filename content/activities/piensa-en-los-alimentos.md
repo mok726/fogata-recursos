@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Piensa en los alimentos"
+title: "Pensá en los alimentos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/piensa-en-los-alimentos/"
@@ -159,25 +159,25 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Piensa en los alimentos!
+# ¡Pensá en los alimentos!
 
 ## Resumen
-En esta insignia aprendiste sobre alimentos que podrían ya no estar disponibles para ti debido al cambio climático. ¿Cuál de esos alimentos extrañarías más?
+En esta insignia aprendiste sobre alimentos que podrían ya no estar disponibles para vos debido al cambio climático. ¿Cuál de esos alimentos extrañarías más?
 
 ## Preparación
-1. Investiga sobre alimentos amenazados por el cambio climático.
-2. Prepara recursos y ejemplos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre alimentos amenazados por el cambio climático.
+2. Prepará recursos y ejemplos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige un alimento que podría desaparecer por el cambio climático.
-2. Investiga cómo el cambio climático podría afectarlo.
-3. Investiga si aún puede ser salvado y cómo.
-4. Prepara un cartel sobre este alimento.
+1. Elegí un alimento que podría desaparecer por el cambio climático.
+2. Investigá cómo el cambio climático podría afectarlo.
+3. Investigá si aún puede ser salvado y cómo.
+4. Prepará un cartel sobre este alimento.
 
 ## Cierre
-1. Coloca tu cartel en tu escuela o biblioteca local.
-2. Comparte tu investigación en línea en el sitio Web de tu grupo o escuela.
+1. Colocá tu cartel en tu escuela o biblioteca local.
+2. Compartí tu investigación en línea en el sitio Web de tu grupo o escuela.
 3. Pregunta final: ¿Cómo podemos ayudar a salvar los alimentos que están en peligro?
 
 ## Texto original completo de la actividad

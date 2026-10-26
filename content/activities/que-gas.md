@@ -158,9 +158,9 @@ rama_rovers:
 Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, escriban sus propiedades en el otro lado de la carta. Por ejemplo, la carta del dióxido de carbono podría enumerar las siguientes propiedades: un gas incoloro que forma cerca de 0,3 por ciento del aire; las plantas fabrican su alimento a partir de este.
 
 ## Preparación
-1. Investiga sobre los gases de efecto invernadero.
-2. Prepara tarjetas con los nombres y propiedades.
-3. Organiza los equipos.
+1. Investigá sobre los gases de efecto invernadero.
+2. Prepará tarjetas con los nombres y propiedades.
+3. Organizá los equipos.
 
 ## Desarrollo
 1. Cada carta debe tener el nombre de un gas de efecto invernadero en un lado y sus propiedades en el otro.
@@ -169,7 +169,7 @@ Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, es
 
 ## Cierre
 1. Discutan la importancia de cada gas de efecto invernadero.
-2. Reflexiona sobre cómo las actividades humanas afectan los niveles de estos gases.
+2. Reflexioná sobre cómo las actividades humanas afectan los niveles de estos gases.
 3. Pregunta final: ¿Qué gas de efecto invernadero te sorprendió más y por qué?
 
 ## Texto original completo de la actividad

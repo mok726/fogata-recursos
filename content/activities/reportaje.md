@@ -4,7 +4,7 @@ title: "Reportaje"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/reportaje/"
-description: "Entrevista a una persona indígena sobre adaptación al cambio climático y creación de un artículo o programa de radio."
+description: "Entrevistá a una persona indígena sobre adaptación al cambio climático y creación de un artículo o programa de radio."
 summary: "Entrevistar a una persona indígena sobre adaptación."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -158,24 +158,24 @@ rama_rovers:
 # ¡Reportaje!
 
 ## Resumen
-Haz una entrevista a una persona indígena sobre cómo su comunidad se está adaptando al cambio climático. Escribe un artículo de periódico o invéntate un show de radio en base a tu entrevista.
+Hacé una entrevista a una persona indígena sobre cómo su comunidad se está adaptando al cambio climático. Escribí un artículo de periódico o inventate un show de radio en base a tu entrevista.
 
 ## Preparación
-1. Identifica a una persona indígena para entrevistar.
-2. Prepara preguntas sobre adaptación al cambio climático.
-3. Pide autorización para compartir la información.
-4. Organiza la entrevista.
+1. Identificá a una persona indígena para entrevistar.
+2. Prepará preguntas sobre adaptación al cambio climático.
+3. Pedí autorización para compartir la información.
+4. Organizá la entrevista.
 
 ## Desarrollo
-1. Realiza la entrevista con respeto y sensibilidad.
-2. Toma notas o graba la entrevista (con autorización).
-3. Pide a la persona que revise el artículo antes de publicarlo.
-4. Escribe un artículo o prepara un show de radio.
-5. Si tienes autorización, compártelo con tu periódico o estación de radio local.
+1. Realizá la entrevista con respeto y sensibilidad.
+2. Tomá notas o grabá la entrevista (con autorización).
+3. Pedí a la persona que revise el artículo antes de publicarlo.
+4. Escribí un artículo o prepará un show de radio.
+5. Si tenés autorización, compártelo con tu periódico o estación de radio local.
 
 ## Cierre
-1. Comparte tu reportaje con el grupo.
-2. Reflexiona: ¿Qué aprendiste de la sabiduría indígena?
+1. Compartí tu reportaje con el grupo.
+2. Reflexioná: ¿Qué aprendiste de la sabiduría indígena?
 3. Pregunta final: ¿Cómo podemos aprender de las comunidades indígenas para adaptarnos al cambio climático?
 
 ## Texto original completo de la actividad

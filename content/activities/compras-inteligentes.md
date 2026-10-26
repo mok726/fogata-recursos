@@ -157,25 +157,25 @@ rama_rovers:
 # ¡Compras inteligentes!
 
 ## Resumen
-La próxima vez que tus padres vayan al mercado, acompáñalos. Observa si llevan bolsas de tela/yute y qué están comprando.
+La próxima vez que tus padres vayan al mercado, acompañalos. Observá si llevan bolsas de tela/yute y qué están comprando.
 
 ## Preparación
-1. Prepara una lista de observación.
-2. Organiza la visita al mercado con el grupo.
-3. Explica la actividad a los participantes.
+1. Prepará una lista de observación.
+2. Organizá la visita al mercado con el grupo.
+3. Explicá la actividad a los participantes.
 
 ## Desarrollo
-1. Acompaña a tus padres al mercado.
-2. Observa: ¿Llevan bolsas de tela/yute?
-3. Observa: ¿Qué están comprando?
-4. Haz una lista de productos:
+1. Acompañá a tus padres al mercado.
+2. Observá: ¿Llevan bolsas de tela/yute?
+3. Observá: ¿Qué están comprando?
+4. Hacé una lista de productos:
    - Que podrían haber comprado en contenedores reutilizables
    - Que tienen empaques innecesarios
    - Que podrían haber sido evitados
 
 ## Cierre
-1. Explica a tus padres cómo pueden ayudar al medio ambiente cuando compran productos en contenedores reutilizables y al evitar empaques innecesarios.
-2. Comparte tus hallazgos con el grupo.
+1. Explicá a tus padres cómo pueden ayudar al medio ambiente cuando compran productos en contenedores reutilizables y al evitar empaques innecesarios.
+2. Compartí tus hallazgos con el grupo.
 3. Pregunta final: ¿Qué cambios harás en tus compras?
 
 ## Texto original completo de la actividad

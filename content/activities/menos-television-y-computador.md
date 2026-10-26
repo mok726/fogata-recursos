@@ -139,18 +139,18 @@ rama_rovers: []
 Comprométete a usar tu televisión o computadora menos tiempo cada día.
 
 ## Preparación
-- Reflexiona sobre cuánto tiempo pasas frente a pantallas.
-- Decide cuánto tiempo vas a reducir.
+- Reflexioná sobre cuánto tiempo pasás frente a pantallas.
+- Decidí cuánto tiempo vas a reducir.
 
 ## Desarrollo
-1. **Compromiso** (5 min): Decide reducir el tiempo frente a pantallas.
+1. **Compromiso** (5 min): Decidí reducir el tiempo frente a pantallas.
 2. **Acción** (diaria): Cumple tu compromiso.
-3. **Convencimiento** (10 min): ¿A cuántos amigos puedes convencer?
+3. **Convencimiento** (10 min): ¿A cuántos amigos podés convencer?
 
 ## Cierre
 - ¿Cuánto tiempo lograste reducir?
 - ¿Qué hiciste con el tiempo extra?
-- ¿Cómo te sientes al usar menos energía?
+- ¿Cómo te sentís al usar menos energía?
 
 ---
 ## Texto original completo de la actividad

@@ -4,8 +4,8 @@ title: "Política energética"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/politica-energetica/"
-description: "Investiga las políticas energéticas de tu país y propón mejoras para promover energías renovables y reducir emisiones."
-summary: "Analiza y propón políticas energéticas."
+description: "Investigá las políticas energéticas de tu país y proponé mejoras para promover energías renovables y reducir emisiones."
+summary: "Analizá y proponé políticas energéticas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -117,7 +117,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Política
   - Energía
@@ -157,17 +157,17 @@ translation_notice:
 # ¡Política energética!
 
 ## Resumen
-¿Qué políticas tiene tu país para promover energías renovables y reducir emisiones? Investiga y analiza las políticas energéticas de tu país.
+¿Qué políticas tiene tu país para promover energías renovables y reducir emisiones? Investigá y analizá las políticas energéticas de tu país.
 
 ## Preparación
-1. Lee la información sobre políticas energéticas.
-2. Investiga qué políticas existen en tu país.
-3. Prepara materiales para analizar.
+1. Leé la información sobre políticas energéticas.
+2. Investigá qué políticas existen en tu país.
+3. Prepará materiales para analizar.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga las políticas energéticas de tu país:
+Investigá las políticas energéticas de tu país:
 
 **Preguntas guía:**
 - ¿Qué políticas existen para promover energías renovables?
@@ -183,7 +183,7 @@ Si es posible, mira el texto de las políticas para entender mejor:
 - ¿Afecta la política tu vida personal?
 
 ### Parte III - Debate
-Discute con tu grupo:
+Discutí con tu grupo:
 
 - ¿Son importantes las políticas energéticas?
 - ¿Qué cambios propondrían?

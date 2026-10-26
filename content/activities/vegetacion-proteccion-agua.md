@@ -174,28 +174,28 @@ translation_notice:
 Las raíces de los árboles y la vegetación ayudan a anclar el suelo. Cuando los árboles son talados y la vegetación es eliminada, ya no hay nada que proteja el suelo, y los suelos son rápidamente arrastrados por la lluvia. Cuando el suelo es arrastrado hacia ríos, lagos y arroyos, causa problemas para la vida acuática y para las personas. En esta actividad, los participantes realizan un experimento para comprobar cómo la vegetación ayuda a prevenir la erosión del suelo y la sedimentación.
 
 ## Preparación
-1. Corta una muesca en forma de V en un extremo de cada caja, de modo que la punta de la V llegue hasta el fondo de la caja.
-2. Forra cada caja con una bolsa de plástico que se extienda sobre los lados de la caja y sobre la V.
-3. Coloca el césped, con el lado de la hierba hacia arriba, en una caja. Coloca la tierra suelta en la otra caja en una capa ligeramente compactada, de aproximadamente el mismo grosor que el césped. La tierra no debe tener hierba u otra vegetación.
+1. Cortá una muesca en forma de V en un extremo de cada caja, de modo que la punta de la V llegue hasta el fondo de la caja.
+2. Forrá cada caja con una bolsa de plástico que se extienda sobre los lados de la caja y sobre la V.
+3. Colocá el césped, con el lado de la hierba hacia arriba, en una caja. Colocá la tierra suelta en la otra caja en una capa ligeramente compactada, de aproximadamente el mismo grosor que el césped. La tierra no debe tener hierba u otra vegetación.
 
 ## Desarrollo
 
 ### Paso 1: Preparación del experimento
-1. Explica a tu grupo que van a realizar un experimento para determinar cómo la vegetación ayuda a prevenir la erosión y la sedimentación.
-2. Coloca las cajas sobre la mesa y coloca un bloque de madera u otro objeto bajo el extremo sin cortar de cada caja para que estén ligeramente inclinadas hacia abajo, hacia el extremo con la muesca. Coloca cada caja de modo que el extremo con la muesca esté ligeramente sobre el borde de la mesa.
-3. Coloca un frasco bajo cada muesca para recoger el agua.
+1. Explicá a tu grupo que van a realizar un experimento para determinar cómo la vegetación ayuda a prevenir la erosión y la sedimentación.
+2. Colocá las cajas sobre la mesa y colocá un bloque de madera u otro objeto bajo el extremo sin cortar de cada caja para que estén ligeramente inclinadas hacia abajo, hacia el extremo con la muesca. Colocá cada caja de modo que el extremo con la muesca esté ligeramente sobre el borde de la mesa.
+3. Colocá un frasco bajo cada muesca para recoger el agua.
 
 ### Paso 2: Simulación de lluvia
-4. Llena la regadera con tres tazas de agua. Vierte agua cerca de la parte trasera de una caja (la más alejada de la V). Cronometra cuánto tarda esta agua en llegar al frasco.
-5. Ahora repite el proceso con la otra caja y el otro frasco. Vierte nuevamente desde la misma altura y aproximadamente a la misma velocidad.
-6. Observa lo que sucede con el agua en cada caja y la apariencia del agua recolectada en los frascos.
+4. Llená la regadera con tres tazas de agua. Verté agua cerca de la parte trasera de una caja (la más alejada de la V). Cronometra cuánto tarda esta agua en llegar al frasco.
+5. Ahora repite el proceso con la otra caja y el otro frasco. Verté nuevamente desde la misma altura y aproximadamente a la misma velocidad.
+6. Observá lo que sucede con el agua en cada caja y la apariencia del agua recolectada en los frascos.
 
 ### Paso 3: Comparación y análisis
-7. Compara el agua recolectada en ambos frascos:
+7. Compará el agua recolectada en ambos frascos:
    - ¿Cuánta agua salió de la tierra desnuda en comparación con la tierra con césped?
    - ¿Cuál era más clara?
    - ¿El agua salió de cada caja a la misma velocidad? ¿Cuál fue más rápida?
-   - ¿Puedes explicar por qué?
+   - ¿Podés explicar por qué?
 
 ## Cierre
 - ¿Cuál es el papel de la vegetación en el ciclo del agua?

@@ -1,9 +1,9 @@
 ---
-title: "Notas recordatorias Apágame"
+title: "Notas recordatorias Apagame"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/notas-recordatorias-apagame/"
-description: "Diseña notas para ahorrar energía y agua en casa y escuela."
+description: "Diseñá notas para ahorrar energía y agua en casa y escuela."
 summary: "Notas recordatorias de ahorro."
 
 author:
@@ -140,18 +140,18 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Notas recordatorias "Apágame"!
+# ¡Notas recordatorias "Apagame"!
 
 ## Resumen
-Diseña notas recordatorias para colocar en interruptores, aparatos eléctricos y llaves de agua.
+Diseñá notas recordatorias para colocar en interruptores, aparatos eléctricos y llaves de agua.
 
 ## Preparación
-1. Reúne cartulina y marcadores.
-2. Piensa en diseños creativos.
+1. Reuní cartulina y marcadores.
+2. Pensá en diseños creativos.
 
 ## Desarrollo
-1. **Diseño** (15 min): Crea las notas.
-2. **Colocación** (10 min): Pega las notas en casa y escuela.
+1. **Diseño** (15 min): Creá las notas.
+2. **Colocación** (10 min): Pegá las notas en casa y escuela.
 3. **Reflexión** (5 min): ¿Cómo ayudan a ahorrar?
 
 ## Cierre

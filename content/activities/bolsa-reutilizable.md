@@ -3,7 +3,7 @@ title: "Bolsa reutilizable"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/bolsa-reutilizable/"
-description: "Usa una bolsa reutilizable en lugar de fundas plásticas."
+description: "Usá una bolsa reutilizable en lugar de fundas plásticas."
 summary: "Uso de bolsa reutilizable."
 
 author:
@@ -141,20 +141,20 @@ rama_rovers: []
 # ¡Bolsa reutilizable!
 
 ## Resumen
-Usa una bolsa reutilizable en lugar de fundas plásticas cuando vayas de compras.
+Usá una bolsa reutilizable en lugar de fundas plásticas cuando vayas de compras.
 
 ## Preparación
-- Consigue una bolsa reutilizable.
-- Habla con tu familia sobre el cambio.
+- Conseguí una bolsa reutilizable.
+- Hablá con tu familia sobre el cambio.
 
 ## Desarrollo
-1. **Acción** (continua): Usa la bolsa reutilizable.
-2. **Convencimiento** (10 min): Anima a tu familia y amigos a hacer lo mismo.
+1. **Acción** (continua): Usá la bolsa reutilizable.
+2. **Convencimiento** (10 min): Animá a tu familia y amigos a hacer lo mismo.
 
 ## Cierre
-- ¿Cuántas bolsas plásticas crees que ahorraste?
-- ¿Cómo te sientes al usar una bolsa reutilizable?
-- ¿Qué más puedes hacer para reducir el plástico?
+- ¿Cuántas bolsas plásticas creés que ahorraste?
+- ¿Cómo te sentís al usar una bolsa reutilizable?
+- ¿Qué más podés hacer para reducir el plástico?
 
 ---
 ## Texto original completo de la actividad

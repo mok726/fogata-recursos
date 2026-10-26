@@ -4,7 +4,7 @@ title: "Experimentos con Agua Marina"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/experimentos-con-agua-marina/"
-description: "Realiza experimentos para entender la salinidad, densidad y el ciclo del agua marina."
+description: "Realizá experimentos para entender la salinidad, densidad y el ciclo del agua marina."
 summary: "Experimentos sobre salinidad y densidad del agua marina."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -35,7 +35,7 @@ materials:
   - Vasos de precipitado de plástico grandes o contenedores (de al menos 1 litro de tamaño)
   - Jarras medidoras
   - Básculas
-  - Sal
+  - Salí
   - Colorante de alimentos
   - Agua de la llave
   - Agua marina (si es posible)
@@ -177,22 +177,22 @@ rama_rovers:
 # Experimentos con Agua Marina
 
 ## Resumen
-Realiza experimentos para entender la salinidad, densidad y el ciclo del agua marina.
+Realizá experimentos para entender la salinidad, densidad y el ciclo del agua marina.
 
 ## Preparación
-1. Reúne los materiales necesarios.
-2. Prepara las soluciones de sal para los diferentes ambientes marinos (estuario alto, estuario bajo, océano abierto, pozas rocosas, Mar Muerto).
-3. Asegura la supervisión de un adulto.
+1. Reuní los materiales necesarios.
+2. Prepará las soluciones de sal para los diferentes ambientes marinos (estuario alto, estuario bajo, océano abierto, pozas rocosas, Mar Muerto).
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
 
-**Salinidad y densidad:** La sal hace al agua marina más densa (más pesada) que el agua dulce. Toma 500 ml de agua dulce y 500 ml de agua marina (¡real o hecha en casa!) y añade algo de colorante para alimentos a una de estas (recuerda a cuál le agregaste el colorante). Coloca el agua dulce en el contenedor grande de plástico. Luego, con cuidado y lentamente, coloca el agua marina en el mismo contenedor. ¿Qué sucede? ¿Por qué crees que sucede esto? ¿Qué crees que sucede cuando cae el agua de la lluvia en el mar?
+**Salinidad y densidad:** La sal hace al agua marina más densa (más pesada) que el agua dulce. Tomá 500 ml de agua dulce y 500 ml de agua marina (¡real o hecha en casa!) y añadí algo de colorante para alimentos a una de estas (recuerda a cuál le agregaste el colorante). Colocá el agua dulce en el contenedor grande de plástico. Luego, con cuidado y lentamente, colocá el agua marina en el mismo contenedor. ¿Qué sucede? ¿Por qué creés que sucede esto? ¿Qué creés que sucede cuando cae el agua de la lluvia en el mar?
 
-**Temperatura y densidad:** También puedes hacer este experimento con agua caliente y agua fría (pide a un adulto que te ayude con el agua caliente). ¿Cuál es más densa? Haz un dibujo de tu experimento y escribe una pequeña descripción de lo que hiciste, lo que sucedió y por qué crees que sucedió eso.
+**Temperatura y densidad:** También podés hacer este experimento con agua caliente y agua fría (pide a un adulto que te ayude con el agua caliente). ¿Cuál es más densa? Hacé un dibujo de tu experimento y escribí una pequeña descripción de lo que hiciste, lo que sucedió y por qué creés que sucedió eso.
 
-**Aguas que se encuentran:** Ahora puedes experimentar de muchas formas diferentes, con diferentes tipos de agua y bajo diferentes condiciones. Por ejemplo, toma unos cubos de hielo y derrítelos en la receta de 'océano abierto'. ¿Qué representa esto en el océano real? Simula una lluvia que cae o un río fluyendo hacia tu agua del océano y repite el experimento. Discute también por qué el agua es más salada en algunos lugares que en otros. ¿Puedes encontrar al Mar Muerto en un mapa? ¿Por qué es tan salado? ¿Cuál es el mar menos salado del mundo y por qué crees que es así?
+**Aguas que se encuentran:** Ahora podés experimentar de muchas formas diferentes, con diferentes tipos de agua y bajo diferentes condiciones. Por ejemplo, toma unos cubos de hielo y derrítelos en la receta de 'océano abierto'. ¿Qué representa esto en el océano real? Simulá una lluvia que cae o un río fluyendo hacia tu agua del océano y repetí el experimento. Discutí también por qué el agua es más salada en algunos lugares que en otros. ¿Podés encontrar al Mar Muerto en un mapa? ¿Por qué es tan salado? ¿Cuál es el mar menos salado del mundo y por qué creés que es así?
 
-**El ciclo de la sal:** Finalmente, ¿qué tal si tomas la receta para 'océano abierto' y la dejas afuera en el Sol o en un lugar cálido durante un par de horas? ¿Por qué sucede esto? Dibuja un boceto del ciclo del agua. Incluye elementos como lagos, ríos, aguas costeras, el océano abierto y lluvia - ¡pon tantos detalles como puedas! Identifica con colores el agua de los diferentes lugares de acuerdo con su salinidad y muestra también dónde se lleva a cabo la mezcla entre las aguas.
+**El ciclo de la sal:** Finalmente, ¿qué tal si tomas la receta para 'océano abierto' y la dejás afuera en el Sol o en un lugar cálido durante un par de horas? ¿Por qué sucede esto? Dibujá un boceto del ciclo del agua. Incluí elementos como lagos, ríos, aguas costeras, el océano abierto y lluvia - ¡pon tantos detalles como puedas! Identificá con colores el agua de los diferentes lugares de acuerdo con su salinidad y muestra también dónde se lleva a cabo la mezcla entre las aguas.
 
 **Recetas para los experimentos:** Estuario alto: Disuelve ½ cucharadita de sal en 250 ml de agua tibia. Estuario bajo: Disuelve 1 cucharadita de sal en 250 ml de agua tibia. Océano abierto: Disuelve 1½ cucharaditas de sal en 250 ml de agua tibia. Pozas rocosas: Disuelve 2½ cucharaditas de sal en 250 ml de agua tibia. Mar Muerto: Disuelve 13 cucharaditas de sal en 250 ml de agua tibia.
 

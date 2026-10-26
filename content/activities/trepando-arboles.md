@@ -4,7 +4,7 @@ title: "Trepando Árboles"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/trepando-arboles/"
-description: "Investiga trabajos donde las personas necesitan trepar árboles. Comparte tus hallazgos y, con supervisión, intenta trepar un árbol."
+description: "Investigá trabajos donde las personas necesitan trepar árboles. Compartí tus hallazgos y, con supervisión, intentá trepar un árbol."
 summary: "Investigación sobre trabajos que requieren trepar árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -168,18 +168,18 @@ rama_rovers:
 # Trepando Árboles
 
 ## Resumen
-Investiga trabajos donde las personas necesitan trepar árboles. Comparte tus hallazgos y, con supervisión, intenta trepar un árbol.
+Investigá trabajos donde las personas necesitan trepar árboles. Compartí tus hallazgos y, con supervisión, intentá trepar un árbol.
 
 ## Preparación
-1. Investiga trabajos que requieren trepar árboles.
-2. Asegura la supervisión de un adulto para la extensión.
-3. Elige un árbol adecuado para trepar.
+1. Investigá trabajos que requieren trepar árboles.
+2. Asegurá la supervisión de un adulto para la extensión.
+3. Elegí un árbol adecuado para trepar.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga cinco trabajos donde se trepan árboles.
-2. **Análisis** (10 min): Analiza por qué trepar es importante, equipo y medidas de seguridad.
-3. **Comparación** (10 min): Compara cómo trepan diferentes trabajadores.
-4. **Presentación** (10 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (15 min): Investigá cinco trabajos donde se trepan árboles.
+2. **Análisis** (10 min): Analizá por qué trepar es importante, equipo y medidas de seguridad.
+3. **Comparación** (10 min): Compará cómo trepan diferentes trabajadores.
+4. **Presentación** (10 min): Compartí tus hallazgos con el grupo.
 5. **Extensión** (15 min): Con supervisión, intenta trepar un árbol.
 
 ## Cierre

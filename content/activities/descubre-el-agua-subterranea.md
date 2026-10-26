@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubre el agua subterránea"
+title: "Descubrí el agua subterránea"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubre-el-agua-subterranea/"
 description: "Los participantes construyen modelos para entender cómo el agua se mueve a través del suelo y cómo se forma el agua subterránea."
-summary: "Construye un modelo de agua subterránea."
+summary: "Construí un modelo de agua subterránea."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,36 +164,36 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Descubre el agua subterránea!
+# ¡Descubrí el agua subterránea!
 
 ## Resumen
 Cuando llueve, parte del agua se filtra en el suelo y se mueve a través de los espacios entre las partículas. A medida que el agua fluye a través del suelo, eventualmente alcanza una capa impermeable de roca o arcilla y comienza a llenar los espacios porosos del suelo. En esta actividad, los participantes construyen modelos para entender el agua subterránea.
 
 ## Preparación
-1. Lleva a tu grupo al exterior, al patio de la escuela.
-2. Pregúntales cuándo fue la última vez que llovió. ¿A dónde fue el agua cuando cayó sobre el pavimento? ¿Sobre los techos? ¿Sobre el suelo?
-3. Prepara los materiales para los modelos.
+1. Llevá a tu grupo al exterior, al patio de la escuela.
+2. Preguntales cuándo fue la última vez que llovió. ¿A dónde fue el agua cuando cayó sobre el pavimento? ¿Sobre los techos? ¿Sobre el suelo?
+3. Prepará los materiales para los modelos.
 
 ## Desarrollo
 
 ### Experimento 1 - Poros en el suelo
-1. Pide a un participante que llene un vaso transparente 3/4 con grava y otro con arena.
-2. Pide al grupo que describa los espacios (poros) entre la grava y entre la arena.
-3. Pide a otro participante que vierta agua lentamente en cada uno de los vasos hasta que llegue a la parte superior de la grava o arena (no a la parte superior del vaso). ¿Dónde está el agua? Explica que cuando hablamos de agua subterránea, nos referimos a la parte del suelo donde todos los espacios porosos están llenos, o saturados, de agua.
+1. Pedí a un participante que llene un vaso transparente 3/4 con grava y otro con arena.
+2. Pedí al grupo que describa los espacios (poros) entre la grava y entre la arena.
+3. Pedí a otro participante que vierta agua lentamente en cada uno de los vasos hasta que llegue a la parte superior de la grava o arena (no a la parte superior del vaso). ¿Dónde está el agua? Explicá que cuando hablamos de agua subterránea, nos referimos a la parte del suelo donde todos los espacios porosos están llenos, o saturados, de agua.
 
 ### Experimento 2 - Nivel freático
-4. Para demostrar dónde comienza el agua subterránea (la zona saturada), pide a un participante que llene otro vaso casi hasta arriba con grava. Pídele que vierta suavemente el agua hasta que el vaso esté medio lleno de agua.
-5. Explica que el nivel freático es el lugar donde el suelo se satura y termina la arena o grava seca. El agua que se encuentra debajo del nivel freático se llama agua subterránea.
+4. Para demostrar dónde comienza el agua subterránea (la zona saturada), pide a un participante que llene otro vaso casi hasta arriba con grava. Pedile que vierta suavemente el agua hasta que el vaso esté medio lleno de agua.
+5. Explicá que el nivel freático es el lugar donde el suelo se satura y termina la arena o grava seca. El agua que se encuentra debajo del nivel freático se llama agua subterránea.
 
 ### Experimento 3 - Pozo
-6. Pide a un participante que cubra el fondo del tubo de una boquilla de spray con un trozo de media de nylon. Asegura la media con una banda elástica.
-7. Pide a otro participante que ponga la boquilla de spray en un vaso vacío y que llene el vaso 3/4 con grava. Vierte agua en el vaso hasta que llegue a la parte superior de la grava.
-8. Pide a un participante que bombee agua a través de la boquilla de spray hacia otro vaso o hacia el fregadero. ¿Por qué usamos la media en la base de la boquilla de spray? Para evitar que la arena y la grava sean bombeadas hacia el tubo. Los pozos reales también tienen filtros.
+6. Pedí a un participante que cubra el fondo del tubo de una boquilla de spray con un trozo de media de nylon. Asegurá la media con una banda elástica.
+7. Pedí a otro participante que ponga la boquilla de spray en un vaso vacío y que llene el vaso 3/4 con grava. Verté agua en el vaso hasta que llegue a la parte superior de la grava.
+8. Pedí a un participante que bombee agua a través de la boquilla de spray hacia otro vaso o hacia el fregadero. ¿Por qué usamos la media en la base de la boquilla de spray? Para evitar que la arena y la grava sean bombeadas hacia el tubo. Los pozos reales también tienen filtros.
 
 ### Experimento 4 - Conexión agua subterránea/agua superficial
-9. Pide a un participante que ponga una capa de grava (sin color) en una ensalada transparente (unos 8 cm de profundidad) y que cave un agujero (depresión) en la grava.
-10. Pide a un participante que añada colorante azul a una jarra de agua y que vierta suavemente el agua en el recipiente por un borde hasta que sature 3 cm de la grava en todo el recipiente. ¿Qué pasa? El agua se filtrará en el agujero.
-11. Explica a tu grupo que cuando las personas cavan un gran agujero en el suelo, se llena lentamente de agua y se convierte en un estanque o lago artificial. ¿De dónde viene el agua? El agua subterránea fluye hacia el agujero.
+9. Pedí a un participante que ponga una capa de grava (sin color) en una ensalada transparente (unos 8 cm de profundidad) y que cave un agujero (depresión) en la grava.
+10. Pedí a un participante que añada colorante azul a una jarra de agua y que vierta suavemente el agua en el recipiente por un borde hasta que sature 3 cm de la grava en todo el recipiente. ¿Qué pasa? El agua se filtrará en el agujero.
+11. Explicá a tu grupo que cuando las personas cavan un gran agujero en el suelo, se llena lentamente de agua y se convierte en un estanque o lago artificial. ¿De dónde viene el agua? El agua subterránea fluye hacia el agujero.
 
 ## Cierre
 - ¿Cuál es el papel del agua subterránea en el ciclo del agua de la naturaleza?

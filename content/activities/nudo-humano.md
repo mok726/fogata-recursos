@@ -165,7 +165,7 @@ rama_rovers:
 Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los participantes tienen que estirar el brazo derecho y tomar la mano de alguien de enfrente. A continuación, deben hacer lo mismo con el brazo izquierdo. El grupo tendrá que desenredarse los brazos sin soltar las manos, volviendo a conformar un círculo. Al finalizar deben reflexionar sobre la importancia de trabajar en conjunto con los demás para lograr los objetivos y cómo todos y todas necesitamos de los y las demás.
 
 ## Preparación
-1. Asegura un espacio amplio y seguro.
+1. Asegurá un espacio amplio y seguro.
 2. No se requieren materiales.
 
 ## Desarrollo

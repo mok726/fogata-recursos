@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/bioevaluacion-macroinvertebrados/"
 description: "Los participantes simulan una bioevaluación de un arroyo usando objetos para representar macroinvertebrados y determinar la calidad del agua."
-summary: "Simula una evaluación de la calidad del agua."
+summary: "Simulá una evaluación de la calidad del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -174,9 +174,9 @@ translation_notice:
 La calidad del agua de un arroyo puede determinarse de varias maneras. Una forma importante es a través de la evaluación biológica (bioevaluación). Los macroinvertebrados acuáticos son comúnmente monitoreados porque son indicadores valiosos de la salud de los ambientes acuáticos. En esta actividad, los participantes simulan una bioevaluación usando objetos para representar macroinvertebrados.
 
 ## Preparación
-1. Configura tres estaciones de recolección, cada una conteniendo: sitio de muestreo del arroyo (llena tres tinas de plástico grandes con 10 cm de agua y etiquétalas como Arroyo 1, 2 y 3), balde de recolección y bandejas de clasificación.
-2. Coloca los objetos que representan macroinvertebrados en las tres tinas según la tabla.
-3. Divide a los participantes en tres grupos. Asigna roles dentro de cada grupo.
+1. Configurá tres estaciones de recolección, cada una conteniendo: sitio de muestreo del arroyo (llena tres tinas de plástico grandes con 10 cm de agua y etiquetalas como Arroyo 1, 2 y 3), balde de recolección y bandejas de clasificación.
+2. Colocá los objetos que representan macroinvertebrados en las tres tinas según la tabla.
+3. Dividí a los participantes en tres grupos. Asigná roles dentro de cada grupo.
 
 ## Desarrollo
 

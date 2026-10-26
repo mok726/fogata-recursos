@@ -1,9 +1,9 @@
 ---
-title: "Haz una Colecta de Dinero"
+title: "Hacé una Colecta de Dinero"
 duration: "Proyecto de recaudación"
 layout: "layouts/activity.njk"
 permalink: "/activities/colecta-de-dinero/"
-description: "Organiza un evento para recaudar fondos para niños afectados por desastres."
+description: "Organizá un evento para recaudar fondos para niños afectados por desastres."
 summary: "Recaudación de fondos para niños en desastres."
 
 author:
@@ -117,7 +117,7 @@ activity_type:
 category:
   - Recaudación
   - Solidaridad
-  - Ayuda humanitaria
+  - Ayudá humanitaria
 
 skills:
   - Organización
@@ -153,21 +153,21 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# ¡Haz una Colecta de Dinero!
+# ¡Hacé una Colecta de Dinero!
 
 ## Resumen
-Organiza un evento para recaudar fondos para niños afectados por desastres, como una venta de tortas, una rifa o una noche de cine.
+Organizá un evento para recaudar fondos para niños afectados por desastres, como una venta de tortas, una rifa o una noche de cine.
 
 ## Preparación
-1. Elige el tipo de evento.
-2. Consigue los materiales necesarios.
-3. Promociona el evento en tu comunidad.
+1. Elegí el tipo de evento.
+2. Conseguí los materiales necesarios.
+3. Promocioná el evento en tu comunidad.
 
 ## Desarrollo
-1. **Planificación** (30 min): Define el evento y los detalles.
-2. **Preparación** (30 min): Prepara todo lo necesario.
-3. **Evento** (2-3 horas): Lleva a cabo la recaudación.
-4. **Donación** (15 min): Envía las ganancias a una organización benéfica.
+1. **Planificación** (30 min): Definí el evento y los detalles.
+2. **Preparación** (30 min): Prepará todo lo necesario.
+3. **Evento** (2-3 horas): Llevá a cabo la recaudación.
+4. **Donación** (15 min): Enviá las ganancias a una organización benéfica.
 
 ## Cierre
 - ¿Cuánto dinero lograste recaudar?

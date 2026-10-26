@@ -4,8 +4,8 @@ title: "Comida y energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-y-energia/"
-description: "Investiga cuánta energía se necesita para producir diferentes alimentos y planifica una comida de bajo consumo energético."
-summary: "Elige alimentos con bajo consumo energético."
+description: "Investigá cuánta energía se necesita para producir diferentes alimentos y planificá una comida de bajo consumo energético."
+summary: "Elegí alimentos con bajo consumo energético."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,17 +161,17 @@ translation_notice:
 # ¡Comida y energía!
 
 ## Resumen
-Diferentes alimentos requieren diferentes cantidades de energía para producirse. Por ejemplo, se necesita 25 veces más energía para producir una caloría de carne que para producir una caloría de maíz. Investiga tu comida favorita y descubre cuánta energía se necesita para producirla.
+Diferentes alimentos requieren diferentes cantidades de energía para producirse. Por ejemplo, se necesita 25 veces más energía para producir una caloría de carne que para producir una caloría de maíz. Investigá tu comida favorita y descubrí cuánta energía se necesita para producirla.
 
 ## Preparación
-1. Lee la información sobre energía en la producción de alimentos.
-2. Elige tu comida favorita para investigar.
-3. Prepara materiales para cocinar (opcional).
+1. Leé la información sobre energía en la producción de alimentos.
+2. Elegí tu comida favorita para investigar.
+3. Prepará materiales para cocinar (opcional).
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga cuánta energía se usa en la producción de tu comida favorita:
+Investigá cuánta energía se usa en la producción de tu comida favorita:
 
 **Preguntas guía:**
 - ¿Qué tipo de energía se usa típicamente?
@@ -180,17 +180,17 @@ Investiga cuánta energía se usa en la producción de tu comida favorita:
 - ¿Qué alimentos requieren menos?
 
 ### Parte II - Comparar
-Compara tus hallazgos con el resto del grupo.
+Compará tus hallazgos con el resto del grupo.
 ¿Qué comida es la más "hambrienta de energía"?
 
 ### Parte III - Clasificar
-Crea una lista de alimentos en orden creciente de consumo energético.
+Creá una lista de alimentos en orden creciente de consumo energético.
 
 ### Parte IV - Cocinar (opcional)
-Planifica y cocina una comida que no requiera mucha energía:
-- Usa alimentos locales
-- Cocina vegetariano
-- Usa pocos productos envasados
+Planificá y cocina una comida que no requiera mucha energía:
+- Usá alimentos locales
+- Cociná vegetariano
+- Usá pocos productos envasados
 
 ## Cierre
 1. ¿Qué comida requiere más energía para producirse?

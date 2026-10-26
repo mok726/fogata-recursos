@@ -5,7 +5,7 @@ duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/identificando-alternativas-plastico/"
 description: "Los jóvenes identifican productos plásticos de un solo uso y buscan alternativas sostenibles, aprendiendo a reducir su consumo de plásticos en la vida cotidiana."
-summary: "Encuentra alternativas sostenibles a los plásticos."
+summary: "Encontrá alternativas sostenibles a los plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

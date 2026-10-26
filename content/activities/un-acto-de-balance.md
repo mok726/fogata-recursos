@@ -3,7 +3,7 @@ title: "Un Acto de Balance"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-acto-de-balance/"
-description: "Experimenta caminar con un peso en la cabeza para entender lo que enfrentan muchas mujeres y niños al recolectar agua."
+description: "Experimentá caminar con un peso en la cabeza para entender lo que enfrentan muchas mujeres y niños al recolectar agua."
 summary: "Simulación del peso de recolectar agua."
 
 author:
@@ -137,20 +137,20 @@ rama_rovers: []
 # ¡Un Acto de Balance!
 
 ## Resumen
-Camina con un libro balanceado sobre tu cabeza para sentir lo que enfrentan muchas mujeres y niños al recolectar agua.
+Caminá con un libro balanceado sobre tu cabeza para sentir lo que enfrentan muchas mujeres y niños al recolectar agua.
 
 ## Preparación
-- Consigue un libro que no sea demasiado pesado.
-- Encuentra un espacio para caminar.
+- Conseguí un libro que no sea demasiado pesado.
+- Encontrá un espacio para caminar.
 
 ## Desarrollo
-1. **Simulación** (15 min): Camina con un libro sobre tu cabeza.
+1. **Simulación** (15 min): Caminá con un libro sobre tu cabeza.
 2. **Reflexión** (10 min): ¿Cómo te sentiste?
-3. **Discusión** (5 min): Imagina hacer esto con un contenedor de 20 litros por una larga distancia.
+3. **Discusión** (5 min): Imaginá hacer esto con un contenedor de 20 litros por una larga distancia.
 
 ## Cierre
 - ¿Cómo te sentiste al caminar con peso?
-- Imagina hacer esto todos los días.
+- Imaginá hacer esto todos los días.
 - ¿Cómo podemos ayudar a quienes recolectan agua?
 
 ---

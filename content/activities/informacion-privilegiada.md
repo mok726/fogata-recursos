@@ -159,15 +159,15 @@ rama_rovers:
 # ¡Información privilegiada!
 
 ## Resumen
-Organiza una reunión con un oficial local del ministerio o de la agencia de medio ambiente de tu país. Pregúntale acerca del rol de tu país en las negociaciones del clima de las NN.UU.
+Organizá una reunión con un oficial local del ministerio o de la agencia de medio ambiente de tu país. Preguntale acerca del rol de tu país en las negociaciones del clima de las NN.UU.
 
 ## Preparación
-1. Identifica un funcionario ambiental para contactar.
-2. Prepara preguntas para la reunión.
-3. Organiza la logística de la reunión.
+1. Identificá un funcionario ambiental para contactar.
+2. Prepará preguntas para la reunión.
+3. Organizá la logística de la reunión.
 
 ## Desarrollo
-1. Reúnete con el funcionario ambiental.
+1. Reunite con el funcionario ambiental.
 2. Pregunta: ¿Cuáles son las razones detrás de la posición de tu país?
 3. Pregunta: ¿Qué otros países están de acuerdo con esta posición?
 4. Pregunta: ¿Están considerando cómo los jóvenes se sienten en relación con el cambio climático?
@@ -175,7 +175,7 @@ Organiza una reunión con un oficial local del ministerio o de la agencia de med
 6. Propone soluciones - hay muchas cosas que los jóvenes pueden enseñar a los adultos.
 
 ## Cierre
-1. Comparte lo que aprendiste con el grupo.
+1. Compartí lo que aprendiste con el grupo.
 2. Discutan: ¿Cómo pueden los jóvenes influir en las políticas climáticas?
 3. Pregunta final: ¿Qué te sorprendió de la reunión?
 

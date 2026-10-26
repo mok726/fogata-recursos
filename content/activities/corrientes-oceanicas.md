@@ -4,7 +4,7 @@ title: "Corrientes Oceánicas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/corrientes-oceanicas/"
-description: "Investiga cómo funcionan las corrientes oceánicas y su importancia para el clima y la vida marina."
+description: "Investigá cómo funcionan las corrientes oceánicas y su importancia para el clima y la vida marina."
 summary: "Investigación sobre corrientes oceánicas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,20 +167,20 @@ rama_rovers:
 # Corrientes Oceánicas
 
 ## Resumen
-Investiga cómo funcionan las corrientes oceánicas y su importancia para el clima y la vida marina.
+Investigá cómo funcionan las corrientes oceánicas y su importancia para el clima y la vida marina.
 
 ## Preparación
-1. Revisa el video sobre corrientes oceánicas.
-2. Prepara material para tomar notas.
+1. Revisá el video sobre corrientes oceánicas.
+2. Prepará material para tomar notas.
 3. Familiarízate con el concepto de densidad del agua.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga los tipos de corrientes y giros oceánicos.
-2. **Análisis** (15 min): Explica cómo funcionan las corrientes de aguas profundas.
+1. **Investigación** (20 min): Investigá los tipos de corrientes y giros oceánicos.
+2. **Análisis** (15 min): Explicá cómo funcionan las corrientes de aguas profundas.
 3. **Reflexión** (10 min): ¿Por qué son importantes las corrientes?
-4. **Creación** (15 min): Escribe diez datos sobre las corrientes.
-5. **Presentación** (10 min): Coloca los datos en una exposición.
-6. **Extensión** (opcional): Investiga El Niño Oscilación del Sur.
+4. **Creación** (15 min): Escribí diez datos sobre las corrientes.
+5. **Presentación** (10 min): Colocá los datos en una exposición.
+6. **Extensión** (opcional): Investigá El Niño Oscilación del Sur.
 
 ## Cierre
 - ¿Cómo funcionan las corrientes oceánicas?

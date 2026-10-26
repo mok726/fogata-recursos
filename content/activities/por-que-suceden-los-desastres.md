@@ -3,7 +3,7 @@ title: "Por Qué Suceden los Desastres"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/por-que-suceden-los-desastres/"
-description: "Investiga una causa de los desastres y realiza entrevistas para crear un video educativo."
+description: "Investigá una causa de los desastres y realizá entrevistas para crear un video educativo."
 summary: "Investigación de causas de desastres."
 
 author:
@@ -152,18 +152,18 @@ rama_rovers:
 # ¡Por Qué Suceden los Desastres!
 
 ## Resumen
-Investiga una causa de los desastres (pobreza, degradación ambiental, falta de concientización) y realiza entrevistas sobre el tema.
+Investigá una causa de los desastres (pobreza, degradación ambiental, falta de concientización) y realizá entrevistas sobre el tema.
 
 ## Preparación
-1. Elige una causa de los desastres para investigar.
-2. Prepara preguntas para las entrevistas.
-3. Reúne materiales para grabar (opcional).
+1. Elegí una causa de los desastres para investigar.
+2. Prepará preguntas para las entrevistas.
+3. Reuní materiales para grabar (opcional).
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre la causa elegida.
-2. **Entrevistas** (20 min): Entrevista a otros miembros del grupo.
-3. **Producción** (15 min): Junta las entrevistas en una película.
-4. **Compartir** (5 min): Muestra tu trabajo al grupo.
+1. **Investigación** (20 min): Aprendé sobre la causa elegida.
+2. **Entrevistas** (20 min): Entrevistá a otros miembros del grupo.
+3. **Producción** (15 min): Juntá las entrevistas en una película.
+4. **Compartir** (5 min): Mostrá tu trabajo al grupo.
 
 ## Cierre
 - ¿Qué causa de desastres investigaste?

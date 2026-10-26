@@ -164,26 +164,26 @@ translation_notice:
 Jugar bajo la lluvia puede ser muy divertido, siempre que no sea demasiado fuerte, no haya relámpagos y no haga demasiado frío. En esta actividad, los participantes salen a jugar bajo la lluvia y realizan diferentes actividades.
 
 ## Preparación
-1. Asegúrate de que no haya tormentas eléctricas.
-2. Anima a los participantes a usar ropa de lluvia y botas de goma (o pueden mojarse, ¡es más divertido!).
-3. Prepara un lugar para secarse y cambiarse después.
+1. Asegurate de que no haya tormentas eléctricas.
+2. Animá a los participantes a usar ropa de lluvia y botas de goma (o pueden mojarse, ¡es más divertido!).
+3. Prepará un lugar para secarse y cambiarse después.
 
 ## Desarrollo
 
 ### Parte I - Jugar bajo la lluvia
 Salgan a jugar afuera. Prueben diferentes juegos y actividades:
 
-- **Carrera bajo la lluvia**: ¡Asegúrate de no resbalarte!
+- **Carrera bajo la lluvia**: ¡Asegurate de no resbalarte!
 - **Saltar en un charco**: ¿Quién puede hacer la salpicadura más grande?
-- **Escuchar la lluvia**: Cierra los ojos y escucha el sonido de las gotas de lluvia. Pueden inventar una canción para imitar ese maravilloso sonido de la naturaleza.
-- **Instrumento musical**: Coloca latas o ollas en fila para que el agua juegue.
-- **Dibujo con tierra mojada**: Usa tierra mojada para hacer un dibujo en papel grueso.
-- **Arte con lluvia**: Haz un dibujo con marcadores o acuarelas y llévalo afuera para que la lluvia lo transforme en una nueva obra de arte.
-- **Construir un canal**: Coloca rocas, palos o barro para desviar el agua.
-- **Torta de chocolate**: Usa tierra mojada para hacer una "torta de chocolate".
+- **Escuchar la lluvia**: Cerrá los ojos y escuchá el sonido de las gotas de lluvia. Pueden inventar una canción para imitar ese maravilloso sonido de la naturaleza.
+- **Instrumento musical**: Colocá latas o ollas en fila para que el agua juegue.
+- **Dibujo con tierra mojada**: Usá tierra mojada para hacer un dibujo en papel grueso.
+- **Arte con lluvia**: Hacé un dibujo con marcadores o acuarelas y llevalo afuera para que la lluvia lo transforme en una nueva obra de arte.
+- **Construir un canal**: Colocá rocas, palos o barro para desviar el agua.
+- **Torta de chocolate**: Usá tierra mojada para hacer una "torta de chocolate".
 
 ### Parte II - Secarse
-Asegúrate de secarse y cambiarse de ropa cuando terminen.
+Asegurate de secarse y cambiarse de ropa cuando terminen.
 
 ## Cierre
 - ¿Cómo cambia la naturaleza cuando llueve? ¿Se ve o huele diferente?

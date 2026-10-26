@@ -4,8 +4,8 @@ title: "Brújula solar - Método del Reloj"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-reloj/"
-description: "Aprende a orientarte usando un reloj de agujas y el Sol, descubriendo cómo encontrar el Norte a partir de la posición del Sol."
-summary: "Encuentra el Norte con tu reloj y el Sol."
+description: "Aprendé a orientarte usando un reloj de agujas y el Sol, descubriendo cómo encontrar el Norte a partir de la posición del Sol."
+summary: "Encontrá el Norte con tu reloj y el Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

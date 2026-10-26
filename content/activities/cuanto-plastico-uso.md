@@ -165,8 +165,8 @@ Vamos a pensar y descubrir cuánto plástico usamos, y después vamos a pensar c
 - Generar compromisos para reducir el uso de plástico.
 
 ## Preparación
-1. Divide el área de juego en 2, 3 o 4 sectores según la pregunta.
-2. Coloca carteles que indiquen a qué respuesta/afirmación corresponde cada sector.
+1. Dividí el área de juego en 2, 3 o 4 sectores según la pregunta.
+2. Colocá carteles que indiquen a qué respuesta/afirmación corresponde cada sector.
 3. Los participantes se encuentran juntos en el centro del área de juego.
 
 ## Desarrollo

@@ -3,7 +3,7 @@ title: "Haciendo los Cálculos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/haciendo-los-calculos/"
-description: "Calcula el ahorro de agua que puedes lograr con electrodomésticos eficientes."
+description: "Calculá el ahorro de agua que podés lograr con electrodomésticos eficientes."
 summary: "Cálculo de ahorro de agua en el hogar."
 
 author:
@@ -145,22 +145,22 @@ rama_rovers:
 # ¡Haciendo los Cálculos!
 
 ## Resumen
-Calcula cuánta agua puedes ahorrar en casa usando electrodomésticos más eficientes.
+Calculá cuánta agua podés ahorrar en casa usando electrodomésticos más eficientes.
 
 ## Preparación
-1. Haz una lista de los aparatos que usan agua en tu hogar.
-2. Investiga cuánta agua usan los modelos antiguos vs. nuevos.
-3. Prepara una calculadora y materiales para presentar.
+1. Hacé una lista de los aparatos que usan agua en tu hogar.
+2. Investigá cuánta agua usan los modelos antiguos vs. nuevos.
+3. Prepará una calculadora y materiales para presentar.
 
 ## Desarrollo
-1. **Lista** (10 min): Identifica todos los aparatos que usan agua en tu hogar.
-2. **Investigación** (20 min): Averigua cuánta agua usan los modelos actuales vs. eficientes.
-3. **Cálculo** (15 min): Calcula el ahorro potencial.
-4. **Presentación** (10 min): Crea un póster o presentación sobre tus hallazgos.
-5. **Convencimiento** (5 min): Prepara un argumento para convencer a otros.
+1. **Lista** (10 min): Identificá todos los aparatos que usan agua en tu hogar.
+2. **Investigación** (20 min): Averiguá cuánta agua usan los modelos actuales vs. eficientes.
+3. **Cálculo** (15 min): Calculá el ahorro potencial.
+4. **Presentación** (10 min): Creá un póster o presentación sobre tus hallazgos.
+5. **Convencimiento** (5 min): Prepará un argumento para convencer a otros.
 
 ## Cierre
-- ¿Cuánta agua puedes ahorrar con electrodomésticos eficientes?
+- ¿Cuánta agua podés ahorrar con electrodomésticos eficientes?
 - ¿Qué aparato ofrece el mayor ahorro?
 - ¿Por qué es importante elegir aparatos eficientes?
 

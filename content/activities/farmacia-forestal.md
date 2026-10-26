@@ -4,7 +4,7 @@ title: "Farmacia Forestal"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/farmacia-forestal/"
-description: "Aprende sobre dos plantas medicinales y dos plantas venenosas del bosque. Comparte tus hallazgos."
+description: "Aprendé sobre dos plantas medicinales y dos plantas venenosas del bosque. Compartí tus hallazgos."
 summary: "Investigación sobre plantas medicinales y venenosas del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,18 +165,18 @@ rama_rovers:
 # Farmacia Forestal
 
 ## Resumen
-Aprende sobre dos plantas medicinales y dos plantas venenosas del bosque. Comparte tus hallazgos con tu grupo.
+Aprendé sobre dos plantas medicinales y dos plantas venenosas del bosque. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Investiga plantas medicinales que crecen en el bosque.
-2. Investiga plantas venenosas para los humanos.
-3. Prepara material para presentar.
+1. Investigá plantas medicinales que crecen en el bosque.
+2. Investigá plantas venenosas para los humanos.
+3. Prepará material para presentar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga dos plantas medicinales y dos venenosas.
-2. **Análisis** (15 min): Analiza sus usos y riesgos.
-3. **Preparación** (15 min): Prepara tu presentación.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (20 min): Investigá dos plantas medicinales y dos venenosas.
+2. **Análisis** (15 min): Analizá sus usos y riesgos.
+3. **Preparación** (15 min): Prepará tu presentación.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué plantas medicinales te parecieron más interesantes?

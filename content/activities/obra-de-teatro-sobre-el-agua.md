@@ -162,21 +162,21 @@ rama_rovers:
 Divídanse en pequeños grupos y hagan una pequeña obra de teatro sobre una comunidad cuyos miembros dependen grandemente del agua para su subsistencia.
 
 ## Preparación
-1. Forma grupos pequeños.
-2. Investiga sobre comunidades que dependen del agua.
-3. Prepara materiales para vestuario y escenografía (opcional).
+1. Formá grupos pequeños.
+2. Investigá sobre comunidades que dependen del agua.
+3. Prepará materiales para vestuario y escenografía (opcional).
 
 ## Desarrollo
-1. Imagina una comunidad donde algunos crían aves y otros cultivan vegetales.
+1. Imaginá una comunidad donde algunos crían aves y otros cultivan vegetales.
 2. Últimamente, su aldea ha estado enfrentando una escasez de agua debido al cambio climático.
-3. Escribe un guion respondiendo:
+3. Escribí un guion respondiendo:
    - ¿Cómo está afectando esto sus vidas?
    - ¿Cuáles son algunas de las soluciones?
-4. Ensaya la obra con tu grupo.
+4. Ensayá la obra con tu grupo.
 
 ## Cierre
-1. Invita a tu familia y a tus amigos para una presentación de la obra de cada grupo.
-2. Reflexiona: ¿Qué soluciones se propusieron en las obras?
+1. Invitá a tu familia y a tus amigos para una presentación de la obra de cada grupo.
+2. Reflexioná: ¿Qué soluciones se propusieron en las obras?
 3. Pregunta final: ¿Cómo podemos ayudar a las comunidades que enfrentan escasez de agua?
 
 ## Texto original completo de la actividad

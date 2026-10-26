@@ -4,8 +4,8 @@ title: "Investigación de microplásticos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-microplasticos/"
-description: "Investiga qué productos cotidianos contienen microplásticos y aprende a evitarlos."
-summary: "Descubre los microplásticos ocultos en tu hogar."
+description: "Investigá qué productos cotidianos contienen microplásticos y aprendé a evitarlos."
+summary: "Descubrí los microplásticos ocultos en tu hogar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,17 +161,17 @@ translation_notice:
 # ¡Investigación de microplásticos!
 
 ## Resumen
-Investiga qué productos cotidianos contienen microplásticos: pelotas de tenis, bolsitas de té, toallitas húmedas, purpurina, cremas faciales y pastillas para lavavajillas. Aprende a identificarlos y a evitarlos.
+Investigá qué productos cotidianos contienen microplásticos: pelotas de tenis, bolsitas de té, toallitas húmedas, purpurina, cremas faciales y pastillas para lavavajillas. Aprendé a identificarlos y a evitarlos.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Visita beatthemicrobead.org para conocer la guía de productos.
-3. Prepara tu cuaderno y cámara para documentar.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Visitá beatthemicrobead.org para conocer la guía de productos.
+3. Prepará tu cuaderno y cámara para documentar.
 
 ## Desarrollo
 
 ### Parte I - Inventario
-Haz un inventario en tu casa para descubrir qué productos contienen microplásticos:
+Hacé un inventario en tu casa para descubrir qué productos contienen microplásticos:
 
 **Busca palabras en las etiquetas como:**
 - "Polypropylene" (polipropileno)
@@ -189,7 +189,7 @@ Haz un inventario en tu casa para descubrir qué productos contienen microplást
 - Pastillas para lavar ropa
 
 ### Parte II - Documentación
-Crea un collage de fotos de todos los productos que encuentres.
+Creá un collage de fotos de todos los productos que encuentres.
 
 ### Parte III - Comparación
 Compartan sus hallazgos con el grupo. ¿Qué productos encontraron?

@@ -161,22 +161,22 @@ rama_rovers:
 # ¡Clima y salud!
 
 ## Resumen
-Estudia un problema de salud o una enfermedad que se presente o se propague más fácilmente en ciertos climas, como la malaria, la fiebre del dengue, la insolación, los problemas respiratorios, la contaminación por alimentos o las alergias.
+Estudiá un problema de salud o una enfermedad que se presente o se propague más fácilmente en ciertos climas, como la malaria, la fiebre del dengue, la insolación, los problemas respiratorios, la contaminación por alimentos o las alergias.
 
 ## Preparación
-1. Investiga sobre diferentes enfermedades relacionadas con el clima.
-2. Prepara recursos y fuentes de información confiables.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre diferentes enfermedades relacionadas con el clima.
+2. Prepará recursos y fuentes de información confiables.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige un problema de salud relacionado con el clima.
-2. Investiga: ¿Cuál es la conexión entre el clima y el problema?
-3. Investiga: ¿A cuántas personas afecta alrededor del mundo?
-4. Investiga: ¿Cómo se puede prevenir?
-5. Prepara una presentación con diapositivas o carteles.
+1. Elegí un problema de salud relacionado con el clima.
+2. Investigá: ¿Cuál es la conexión entre el clima y el problema?
+3. Investigá: ¿A cuántas personas afecta alrededor del mundo?
+4. Investigá: ¿Cómo se puede prevenir?
+5. Prepará una presentación con diapositivas o carteles.
 
 ## Cierre
-1. Presenta tus hallazgos a tu clase o grupo.
+1. Presentá tus hallazgos a tu clase o grupo.
 2. Discutan cómo el cambio climático puede empeorar estos problemas de salud.
 3. Pregunta final: ¿Qué podemos hacer para proteger nuestra salud frente al cambio climático?
 

@@ -4,8 +4,8 @@ title: "Canción del ciclo del carbono"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-ciclo-carbono/"
-description: "Escribe una canción sobre el ciclo del carbono para recordar fácilmente cómo el carbono se mueve a través del aire, el agua, las plantas y los animales."
-summary: "Crea una canción para aprender el ciclo del carbono."
+description: "Escribí una canción sobre el ciclo del carbono para recordar fácilmente cómo el carbono se mueve a través del aire, el agua, las plantas y los animales."
+summary: "Creá una canción para aprender el ciclo del carbono."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -160,14 +160,14 @@ translation_notice:
 # ¡Canción del ciclo del carbono!
 
 ## Resumen
-Escribe una canción sobre el ciclo del carbono para que sea fácil de recordar. ¡Comparte tu canción con el resto del grupo o con amigos!
+Escribí una canción sobre el ciclo del carbono para que sea fácil de recordar. ¡Compartí tu canción con el resto del grupo o con amigos!
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono en la sección de información de fondo.
-2. Piensa en una melodía conocida que puedas usar (ej. "Cumpleaños feliz", "Estrellita", etc.).
+1. Leé la información sobre el ciclo del carbono en la sección de información de fondo.
+2. Pensá en una melodía conocida que puedas usar (ej. "Cumpleaños feliz", "Estrellita", etc.).
 
 ## Desarrollo### Parte I - Aprender
-Aprende sobre el ciclo del carbono:
+Aprendé sobre el ciclo del carbono:
 
 **Pasos del ciclo del carbono:**
 1. Las plantas absorben CO₂ del aire (fotosíntesis)
@@ -178,15 +178,15 @@ Aprende sobre el ciclo del carbono:
 6. Al quemar combustibles, se libera CO₂
 
 ### Parte II - Escribir la canción
-Escribe una canción que explique el ciclo del carbono de forma simple y divertida.
+Escribí una canción que explique el ciclo del carbono de forma simple y divertida.
 
 **Consejos:**
-- Usa una melodía conocida
-- Incluye los pasos principales
-- Hazla pegadiza y fácil de recordar
+- Usá una melodía conocida
+- Incluí los pasos principales
+- Hacela pegadiza y fácil de recordar
 
 ### Parte III - Compartir
-Comparte tu canción con el resto del grupo o con amigos.
+Compartí tu canción con el resto del grupo o con amigos.
 
 ## Cierre
 1. ¿Qué parte del ciclo del carbono fue más fácil de recordar con la canción?

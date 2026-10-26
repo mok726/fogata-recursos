@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/animales-de-la-cuenca/"
 description: "Los participantes investigan animales que viven en su cuenca hidrográfica y crean pósters informativos sobre ellos."
-summary: "Descubre los animales que viven en tu cuenca."
+summary: "Descubrí los animales que viven en tu cuenca."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -162,9 +162,9 @@ translation_notice:
 Las cuencas hidrográficas no solo permiten que el agua drene y se filtre en el suelo, sino que también proporcionan un hábitat importante para la vida silvestre acuática y terrestre. En esta actividad, los participantes investigan animales que viven en su cuenca hidrográfica y crean pósters informativos.
 
 ## Preparación
-1. Divide a los participantes en cinco grupos.
-2. Prepara cartulinas para pósters y materiales de dibujo.
-3. Asegura acceso a internet o libros para la investigación.
+1. Dividí a los participantes en cinco grupos.
+2. Prepará cartulinas para pósters y materiales de dibujo.
+3. Asegurá acceso a internet o libros para la investigación.
 
 ## Desarrollo
 
@@ -185,7 +185,7 @@ Cada grupo presenta su trabajo al resto de los participantes.
 ## Cierre
 - ¿Por qué podemos decir que todos los seres vivos en una cuenca hidrográfica son parte de una comunidad?
 - ¿Cuál es tu papel en esta comunidad?
-- ¿Qué cambios puedes hacer para proteger los hábitats de tu cuenca hidrográfica?
+- ¿Qué cambios podés hacer para proteger los hábitats de tu cuenca hidrográfica?
 
 ## Texto original completo de la actividad
 

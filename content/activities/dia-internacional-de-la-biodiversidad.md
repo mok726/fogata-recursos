@@ -166,17 +166,17 @@ rama_rovers:
 En el Día Internacional de la Biodiversidad (22 de mayo) organicen actividades y celebraciones para promover una mayor conciencia entre las personas sobre la importancia de la biodiversidad.
 
 ## Preparación
-1. Investiga sobre el Día Internacional de la Biodiversidad.
-2. Planifica actividades para la celebración.
-3. Organiza los recursos necesarios.
+1. Investigá sobre el Día Internacional de la Biodiversidad.
+2. Planificá actividades para la celebración.
+3. Organizá los recursos necesarios.
 
 ## Desarrollo
-1. Usa pósters, canciones, poemas, obras de arte, conciertos, obras de teatro, deportes, concursos, fotografías, eslóganes, talleres de trabajo, boletines informativos, tarjetas electrónicas, degustaciones, videos, etc.
+1. Usá pósters, canciones, poemas, obras de arte, conciertos, obras de teatro, deportes, concursos, fotografías, eslóganes, talleres de trabajo, boletines informativos, tarjetas electrónicas, degustaciones, videos, etc.
 2. También pueden unirse a eventos organizados por otras personas en su país.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona sobre el impacto de la celebración.
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná sobre el impacto de la celebración.
 3. Pregunta final: ¿Cómo podemos mantener la conciencia sobre la biodiversidad todo el año?
 
 ## Texto original completo de la actividad

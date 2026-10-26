@@ -4,7 +4,7 @@ title: "Platos para Compartir"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/platos-para-compartir/"
-description: "Organiza una comida compartida donde cada persona trae un plato y todos adivinan los nutrientes que contiene."
+description: "Organizá una comida compartida donde cada persona trae un plato y todos adivinan los nutrientes que contiene."
 summary: "Comida compartida educativa sobre nutrientes."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,20 +169,20 @@ rama_rovers:
 # Platos para Compartir
 
 ## Resumen
-Organiza una comida compartida donde cada persona trae un plato y todos adivinan los nutrientes que contiene.
+Organizá una comida compartida donde cada persona trae un plato y todos adivinan los nutrientes que contiene.
 
 ## Preparación
-1. Haz una lista con todos los nutrientes esenciales (vitaminas, minerales, proteínas, etc.).
-2. Pide a cada participante que prepare un plato.
-3. Invita a familia y amigos al evento.
-4. Prepara el espacio para la comida.
+1. Hacé una lista con todos los nutrientes esenciales (vitaminas, minerales, proteínas, etc.).
+2. Pedí a cada participante que prepare un plato.
+3. Invitá a familia y amigos al evento.
+4. Prepará el espacio para la comida.
 
 ## Desarrollo
 1. **Preparación** (30 min): Cada participante prepara su plato.
-2. **Llegada** (10 min): Organiza los platos en la mesa.
+2. **Llegada** (10 min): Organizá los platos en la mesa.
 3. **Tour de nutrientes** (20 min): Los invitados adivinan qué nutrientes contiene cada plato.
-4. **Degustación** (20 min): Disfruta de la comida compartida.
-5. **Reflexión** (15 min): Comparte lo aprendido con el grupo.
+4. **Degustación** (20 min): Disfrutá de la comida compartida.
+5. **Reflexión** (15 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué nutrientes encontraste en los platos?

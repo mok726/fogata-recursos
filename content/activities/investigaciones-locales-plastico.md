@@ -4,8 +4,8 @@ title: "Investigaciones locales sobre plásticos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-locales-plastico/"
-description: "Observa y documenta la situación del plástico en tu barrio, pueblo o ciudad. ¿Hay mucho plástico en las calles, parques o ríos?"
-summary: "Investiga la situación del plástico en tu comunidad."
+description: "Observá y documentá la situación del plástico en tu barrio, pueblo o ciudad. ¿Hay mucho plástico en las calles, parques o ríos?"
+summary: "Investigá la situación del plástico en tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Investigaciones locales sobre plásticos!
 
 ## Resumen
-Explora tu barrio, pueblo o ciudad con una nueva perspectiva. Observa y documenta la situación del plástico en tu comunidad. ¿Hay mucha basura plástica en las calles, parques o ríos? ¿Hay sistemas de reciclaje?
+Explorá tu barrio, pueblo o ciudad con una nueva perspectiva. Observá y documentá la situación del plástico en tu comunidad. ¿Hay mucha basura plástica en las calles, parques o ríos? ¿Hay sistemas de reciclaje?
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Prepara tu cuaderno y cámara para documentar.
-3. Planifica la ruta de exploración.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Prepará tu cuaderno y cámara para documentar.
+3. Planificá la ruta de exploración.
 
 ## Desarrollo
 
 ### Parte I - Exploración
-Recorre tu barrio, pueblo o ciudad y observa:
+Recorré tu barrio, pueblo o ciudad y observá:
 
 **Preguntas guía:**
 - ¿Hay mucha basura plástica en las calles, parques, ríos, etc.?
@@ -184,17 +184,17 @@ Recorre tu barrio, pueblo o ciudad y observa:
 - ¿Qué podría mejorar?
 
 ### Parte II - Documentación
-Toma fotos y notas de lo que encuentres. Crea un informe o presentación con tus hallazgos.
+Tomá fotos y notas de lo que encuentres. Creá un informe o presentación con tus hallazgos.
 
 ### Parte III - Compartir
-Comparte tus hallazgos con el grupo. ¿Qué similitudes y diferencias encontraron en diferentes áreas?
+Compartí tus hallazgos con el grupo. ¿Qué similitudes y diferencias encontraron en diferentes áreas?
 
 ### Parte IV - Acción (opcional)
 Basado en tus hallazgos, identifica una acción que podrías tomar para mejorar la situación del plástico en tu comunidad.
 
 ## Cierre
 1. ¿Qué fue lo que más te llamó la atención de tu comunidad?
-2. ¿Qué crees que funciona bien en tu comunidad respecto al plástico?
+2. ¿Qué creés que funciona bien en tu comunidad respecto al plástico?
 3. ¿Qué cambiarías si pudieras?
 
 ## Texto original completo de la actividad

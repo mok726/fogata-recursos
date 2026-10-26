@@ -4,7 +4,7 @@ title: "¡Que Empiece el Juego!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/que-empiece-el-juego/"
-description: "Registra tu actividad física diaria, compárala con tu grupo y planifica nuevos deportes de equipo."
+description: "Registrá tu actividad física diaria, comparala con tu grupo y planificá nuevos deportes de equipo."
 summary: "Seguimiento de actividad física y planificación deportiva."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,23 +166,23 @@ rama_rovers:
 # ¡Que Empiece el Juego!
 
 ## Resumen
-Registra tu actividad física diaria, compárala con tu grupo y planifica nuevos deportes de equipo.
+Registrá tu actividad física diaria, comparala con tu grupo y planificá nuevos deportes de equipo.
 
 ## Preparación
-1. Prepara un cuaderno para el registro.
-2. Observa tu actividad física durante un día cualquiera.
-3. Piensa en deportes de equipo que te gustaría probar.
+1. Prepará un cuaderno para el registro.
+2. Observá tu actividad física durante un día cualquiera.
+3. Pensá en deportes de equipo que te gustaría probar.
 
 ## Desarrollo
-1. **Registro** (durante un día): Anota tu actividad física (caminar, estudiar, jugar, correr, tareas del hogar, etc.).
-2. **Comparación** (15 min): Compara tus notas con las de tu grupo.
-3. **Reflexión** (10 min): Piensa cuánto tiempo pasas sentado y cómo eres de activo comparado con tus amigos.
-4. **Planificación** (15 min): Haz una lista de deportes de equipo que les gustaría probar.
-5. **Acción** (15 min): Realiza un plan de actividades para los primeros 15 minutos de tus próximas reuniones.
+1. **Registro** (durante un día): Anotá tu actividad física (caminar, estudiar, jugar, correr, tareas del hogar, etc.).
+2. **Comparación** (15 min): Compará tus notas con las de tu grupo.
+3. **Reflexión** (10 min): Pensá cuánto tiempo pasás sentado y cómo sos de activo comparado con tus amigos.
+4. **Planificación** (15 min): Hacé una lista de deportes de equipo que les gustaría probar.
+5. **Acción** (15 min): Realizá un plan de actividades para los primeros 15 minutos de tus próximas reuniones.
 
 ## Cierre
-- ¿Cuánto tiempo pasas sentado cada día?
-- ¿Cómo puedes ser más activo?
+- ¿Cuánto tiempo pasás sentado cada día?
+- ¿Cómo podés ser más activo?
 - ¿Qué deportes de equipo te gustaría probar?
 
 ---

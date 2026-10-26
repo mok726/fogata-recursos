@@ -4,7 +4,7 @@ title: "Manglares Poderosos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/manglares-poderosos/"
-description: "Aprende cómo los bosques de manglar protegen las áreas costeras contra mareas tormentosas y tsunamis. Visita un manglar si es posible."
+description: "Aprendé cómo los bosques de manglar protegen las áreas costeras contra mareas tormentosas y tsunamis. Visitá un manglar si es posible."
 summary: "Investigación sobre la protección costera de los manglares."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Manglares Poderosos
 
 ## Resumen
-Aprende cómo los bosques de manglar protegen las áreas costeras contra mareas tormentosas y tsunamis. Visita un manglar si es posible.
+Aprendé cómo los bosques de manglar protegen las áreas costeras contra mareas tormentosas y tsunamis. Visitá un manglar si es posible.
 
 ## Preparación
-1. Investiga sobre los bosques de manglar y su rol protector.
+1. Investigá sobre los bosques de manglar y su rol protector.
 2. Si es posible, planea una visita a un manglar.
-3. Prepara cuaderno para observaciones.
+3. Prepará cuaderno para observaciones.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende cómo los manglares protegen las costas.
+1. **Investigación** (20 min): Aprendé cómo los manglares protegen las costas.
 2. **Visita** (30 min): Si es posible, visita un bosque de manglar.
-3. **Observación** (20 min): Observa el sistema de raíces y las especies presentes.
-4. **Reflexión** (15 min): Piensa qué rol juegan los manglares como estructura para otras especies.
-5. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+3. **Observación** (20 min): Observá el sistema de raíces y las especies presentes.
+4. **Reflexión** (15 min): Pensá qué rol juegan los manglares como estructura para otras especies.
+5. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Cómo protegen los manglares las áreas costeras?

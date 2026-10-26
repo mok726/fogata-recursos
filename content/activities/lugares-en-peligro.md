@@ -160,22 +160,22 @@ rama_rovers:
 # ¡Lugares en peligro!
 
 ## Resumen
-Descubre cuáles sitios de Patrimonio Mundial de la UNESCO están siendo amenazados por el cambio climático y cómo.
+Descubrí cuáles sitios de Patrimonio Mundial de la UNESCO están siendo amenazados por el cambio climático y cómo.
 
 ## Preparación
-1. Investiga sobre sitios de Patrimonio Mundial de la UNESCO.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre sitios de Patrimonio Mundial de la UNESCO.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cuáles sitios de Patrimonio Mundial de la UNESCO están amenazados por el cambio climático.
-2. Elige algunos que te interesen.
-3. Investiga: ¿Dónde están ubicados, cuál es su historia y de qué manera están en riesgo?
-4. Crea un collage, historia o presentación con fotos e información.
+1. Investigá cuáles sitios de Patrimonio Mundial de la UNESCO están amenazados por el cambio climático.
+2. Elegí algunos que te interesen.
+3. Investigá: ¿Dónde están ubicados, cuál es su historia y de qué manera están en riesgo?
+4. Creá un collage, historia o presentación con fotos e información.
 
 ## Cierre
-1. Exhibe tu trabajo en un lugar prominente de tu escuela o comunidad.
-2. Comparte tu investigación con el grupo.
+1. Exhibí tu trabajo en un lugar prominente de tu escuela o comunidad.
+2. Compartí tu investigación con el grupo.
 3. Pregunta final: ¿Por qué es importante proteger estos sitios culturales?
 
 ## Texto original completo de la actividad

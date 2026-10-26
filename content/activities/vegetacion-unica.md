@@ -172,16 +172,16 @@ rama_rovers:
 Durante una caminata por el bosque, dibuja cinco tipos diferentes de vegetación y señala sus rasgos únicos.
 
 ## Preparación
-1. Prepara cuaderno de dibujo y lápices.
+1. Prepará cuaderno de dibujo y lápices.
 2. Si es posible, consigue una guía de identificación de plantas.
-3. Asegura la supervisión de un adulto.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Caminata** (20 min): Camina por el bosque y busca vegetación diversa.
-2. **Selección** (10 min): Elige cinco tipos diferentes de vegetación.
-3. **Dibujo** (25 min): Dibuja cada tipo y señala sus rasgos únicos.
-4. **Identificación** (15 min): Busca nombres comunes y científicos.
-5. **Presentación** (15 min): Comparte tus dibujos con el grupo.
+1. **Caminata** (20 min): Caminá por el bosque y buscá vegetación diversa.
+2. **Selección** (10 min): Elegí cinco tipos diferentes de vegetación.
+3. **Dibujo** (25 min): Dibujá cada tipo y señalá sus rasgos únicos.
+4. **Identificación** (15 min): Buscá nombres comunes y científicos.
+5. **Presentación** (15 min): Compartí tus dibujos con el grupo.
 
 ## Cierre
 - ¿Qué tipos de vegetación encontraste?

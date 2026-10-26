@@ -3,7 +3,7 @@ title: "Análisis de Suelos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/analisis-de-suelos/"
-description: "Investiga los diferentes tipos de suelo del mundo y sus características."
+description: "Investigá los diferentes tipos de suelo del mundo y sus características."
 summary: "Investigación de tipos de suelo globales."
 
 author:
@@ -153,18 +153,18 @@ rama_rovers:
 # ¡Análisis de Suelos!
 
 ## Resumen
-Investiga los diferentes tipos de suelo del mundo, sus características y dónde se encuentran.
+Investigá los diferentes tipos de suelo del mundo, sus características y dónde se encuentran.
 
 ## Preparación
 1. Divídanse en grupos, cada uno con un tipo de suelo.
-2. Accede a recursos en línea.
-3. Prepara materiales para la presentación.
+2. Accedé a recursos en línea.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga tu tipo de suelo.
-2. **Organización** (15 min): Prepara la presentación.
+1. **Investigación** (25 min): Investigá tu tipo de suelo.
+2. **Organización** (15 min): Prepará la presentación.
 3. **Presentación** (15 min): Cada grupo presenta su tipo de suelo.
-4. **Discusión** (5 min): Compara los diferentes tipos.
+4. **Discusión** (5 min): Compará los diferentes tipos.
 
 ## Cierre
 - ¿Qué tipos de suelo existen?

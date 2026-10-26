@@ -5,7 +5,7 @@ duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/piramide-de-alimentos/"
 description: "Los participantes reflexionan sobre su dieta, comparan su consumo con la pirámide alimentaria recomendada y analizan el impacto ambiental de sus elecciones alimentarias."
-summary: "Analiza tu dieta y su impacto ambiental."
+summary: "Analizá tu dieta y su impacto ambiental."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -159,30 +159,30 @@ rama_rovers:
 Esta actividad se trata de comprender el impacto que tiene tu elección de alimentos diarios en el medio ambiente, y cómo una dieta equilibrada es buena para tu salud, así como el equilibrio del planeta. Los participantes reflexionarán sobre su dieta y la pirámide alimentaria recomendada para la nutrición.
 
 ## Preparación
-1. Prepara la tabla para comida semanal.
-2. Prepara una pirámide de alimentos (puede ser la mediterránea u otra de tu país/región).
-3. Investiga la pirámide de impacto ambiental de tu país/región.
+1. Prepará la tabla para comida semanal.
+2. Prepará una pirámide de alimentos (puede ser la mediterránea u otra de tu país/región).
+3. Investigá la pirámide de impacto ambiental de tu país/región.
 
 ## Desarrollo
 
 ### Parte I - Registrar consumo
-Pide a los participantes que se sienten juntos como un grupo e intercambien cuáles son sus comidas y bebidas favoritas. ¿Con qué frecuencia consumes cada uno? Presenta la tabla para la alimentación semanal y pídeles que marquen la frecuencia de consumo en ella. Una vez terminado, pídeles que sumen todas las marcas para cada categoría de alimentos al final de la tabla.
+Pedí a los participantes que se sienten juntos como un grupo e intercambien cuáles son sus comidas y bebidas favoritas. ¿Con qué frecuencia consumís cada uno? Presentá la tabla para la alimentación semanal y pediles que marquen la frecuencia de consumo en ella. Una vez terminado, pediles que sumen todas las marcas para cada categoría de alimentos al final de la tabla.
 
 ### Parte II - Construir pirámide
-Completa los pasos de la pirámide vacía de acuerdo con la sucesión de la comida: la cantidad más grande es la base de la pirámide, la más pequeña es la parte superior. En caso de que no hayas consumido todos los tipos de alimentos durante la semana, deja de lado, en la parte inferior de la pirámide, tantos pasos de la pirámide como los tipos de alimentos que no consumiste.
+Completá los pasos de la pirámide vacía de acuerdo con la sucesión de la comida: la cantidad más grande es la base de la pirámide, la más pequeña es la parte superior. En caso de que no hayas consumido todos los tipos de alimentos durante la semana, dejá de lado, en la parte inferior de la pirámide, tantos pasos de la pirámide como los tipos de alimentos que no consumiste.
 
 ### Parte III - Comparar
-Preséntales la Pirámide alimentaria. Pide a los participantes que la comparen con la que ellos tienen. Haz las siguientes preguntas: ¿ves alguna diferencia? ¿Estás comiendo demasiado o muy poco de algún tipo de alimento?
+Presentales la Pirámide alimentaria. Pedí a los participantes que la comparen con la que ellos tienen. Hacé las siguientes preguntas: ¿ves alguna diferencia? ¿Estás comiendo demasiado o muy poco de algún tipo de alimento?
 
 ### Parte IV - Impacto ambiental
-Compara tu pirámide alimentaria con la Pirámide de impacto ambiental. Haz las siguientes preguntas: ¿Puedes detectar algún alimento que estés comiendo que tenga un alto impacto ambiental? En caso afirmativo, ¿estás comiendo demasiado de esta comida? ¿Podrías comer algo más en lugar, que sea mejor para tu salud y el medio ambiente?
+Compará tu pirámide alimentaria con la Pirámide de impacto ambiental. Hacé las siguientes preguntas: ¿Podés detectar algún alimento que estés comiendo que tenga un alto impacto ambiental? En caso afirmativo, ¿estás comiendo demasiado de esta comida? ¿Podrías comer algo más en lugar, que sea mejor para tu salud y el medio ambiente?
 
 ### Parte V - Compartir
-Pide al grupo que intercambien los datos que descubrieron.
+Pedí al grupo que intercambien los datos que descubrieron.
 
 ## Cierre
 1. ¿Tu dieta es equilibrada según la pirámide alimentaria?
-2. ¿Qué alimentos consumes que tienen un alto impacto ambiental?
+2. ¿Qué alimentos consumís que tienen un alto impacto ambiental?
 3. ¿Qué cambios harías para mejorar tu salud y el medio ambiente?
 
 ## Texto original completo de la actividad

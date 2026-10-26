@@ -3,7 +3,7 @@ title: "Probando, Probando"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/probando-probando/"
-description: "Prepara un examen de 10 preguntas sobre preparación frente a desastres."
+description: "Prepará un examen de 10 preguntas sobre preparación frente a desastres."
 summary: "Examen sobre preparación para desastres."
 
 author:
@@ -143,17 +143,17 @@ rama_rovers: []
 # ¡Probando, Probando!
 
 ## Resumen
-Prepara un set de 10 preguntas de examen sobre preparación frente a desastres y compártelo con tu familia.
+Prepará un set de 10 preguntas de examen sobre preparación frente a desastres y compártelo con tu familia.
 
 ## Preparación
-- Piensa en preguntas sobre preparación para desastres.
-- Incluye preguntas sobre terremotos, incendios, inundaciones.
+- Pensá en preguntas sobre preparación para desastres.
+- Incluí preguntas sobre terremotos, incendios, inundaciones.
 
 ## Desarrollo
-1. **Creación** (20 min): Escribe tus 10 preguntas.
-2. **Revisión** (10 min): Verifica que las respuestas sean correctas.
-3. **Examen** (10 min): Comparte el examen con tu familia.
-4. **Resultados** (5 min): Revisa quién obtuvo la mejor nota.
+1. **Creación** (20 min): Escribí tus 10 preguntas.
+2. **Revisión** (10 min): Verificá que las respuestas sean correctas.
+3. **Examen** (10 min): Compartí el examen con tu familia.
+4. **Resultados** (5 min): Revisá quién obtuvo la mejor nota.
 
 ## Cierre
 - ¿Qué preguntas fueron las más difíciles?

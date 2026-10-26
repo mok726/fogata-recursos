@@ -168,19 +168,19 @@ rama_rovers:
 Únete como voluntario a una organización comunitaria que trabaje en temas de nutrición.
 
 ## Preparación
-1. Busca una ONG o asociación que trabaje con nutrición.
-2. Contacta la organización y pregunta sobre oportunidades de voluntariado.
-3. Elige un proyecto o actividad para unirte.
+1. Buscá una ONG o asociación que trabaje con nutrición.
+2. Contactá la organización y pregunta sobre oportunidades de voluntariado.
+3. Elegí un proyecto o actividad para unirte.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca organizaciones locales.
-2. **Contacto** (10 min): Contacta la organización.
-3. **Voluntariado** (tiempo continuo): Participa en proyectos y actividades.
-4. **Reflexión** (15 min): Comparte tu experiencia con el grupo.
+1. **Investigación** (15 min): Buscá organizaciones locales.
+2. **Contacto** (10 min): Contactá la organización.
+3. **Voluntariado** (tiempo continuo): Participá en proyectos y actividades.
+4. **Reflexión** (15 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste como voluntario?
-- ¿Cómo contribuyes a mejorar la nutrición en tu comunidad?
+- ¿Cómo contribuís a mejorar la nutrición en tu comunidad?
 - ¿Qué compromiso adquieres para seguir sirviendo a tu comunidad?
 
 ---

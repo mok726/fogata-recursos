@@ -3,7 +3,7 @@ title: "Aliados Terrestres"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aliados-terrestres/"
-description: "Investiga un aliado del suelo y su importancia para la salud del suelo."
+description: "Investigá un aliado del suelo y su importancia para la salud del suelo."
 summary: "Investigación de aliados del suelo."
 
 author:
@@ -146,15 +146,15 @@ rama_rovers:
 # ¡Aliados Terrestres!
 
 ## Resumen
-Investiga un aliado del suelo (lombriz, árbol, hongo) y enumera todas las formas en que ayuda al suelo.
+Investigá un aliado del suelo (lombriz, árbol, hongo) y enumerá todas las formas en que ayuda al suelo.
 
 ## Preparación
-- Elige un aliado del suelo.
-- Prepara materiales para dibujar y escribir.
+- Elegí un aliado del suelo.
+- Prepará materiales para dibujar y escribir.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre tu aliado.
-2. **Lista** (15 min): Enumera cómo ayuda al suelo.
+1. **Investigación** (20 min): Aprendé sobre tu aliado.
+2. **Lista** (15 min): Enumerá cómo ayuda al suelo.
 3. **Análisis** (10 min): ¿Qué amenazas enfrenta?
 4. **Reflexión** (10 min): ¿Qué pasaría si desapareciera?
 

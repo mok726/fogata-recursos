@@ -155,22 +155,22 @@ rama_rovers:
 # ¡Diario de alimentos!
 
 ## Resumen
-¿Has notado qué tipo de alimentos comen cada día? Bueno, ¡es hora de que tú y tu grupo lleven un diario de sus alimentos! Todos ustedes deberán escribir aquello que comen durante una semana.
+¿Has notado qué tipo de alimentos comen cada día? Bueno, ¡es hora de que vos y tu grupo lleven un diario de sus alimentos! Todos ustedes deberán escribir aquello que comen durante una semana.
 
 ## Preparación
-1. Prepara una tabla o plantilla para el diario de alimentos.
-2. Explica la actividad y el objetivo al grupo.
-3. Organiza el seguimiento semanal.
+1. Prepará una tabla o plantilla para el diario de alimentos.
+2. Explicá la actividad y el objetivo al grupo.
+3. Organizá el seguimiento semanal.
 
 ## Desarrollo
-1. Lleva un diario de alimentos durante una semana.
+1. Llevá un diario de alimentos durante una semana.
 2. Sumen toda la carne que han consumido.
 3. Investiguen y expliquen cómo criar ganado y comer su carne está contribuyendo al cambio climático.
 4. Identifiquen qué tipos de carne se consumen más.
 
 ## Cierre
 1. Con tu profesor o dirigente, elaboren una comida de bajas emisiones.
-2. Reflexiona: ¿Cómo comer sabiamente ayuda a reducir el calentamiento global?
+2. Reflexioná: ¿Cómo comer sabiamente ayuda a reducir el calentamiento global?
 3. Pregunta final: ¿Qué cambios podrías hacer en tu dieta para reducir tu impacto climático?
 
 ## Texto original completo de la actividad

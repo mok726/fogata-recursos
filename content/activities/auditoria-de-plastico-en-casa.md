@@ -4,8 +4,8 @@ title: "Auditoría de plástico en casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-plastico-en-casa/"
-description: "Haz un inventario detallado de los plásticos de un solo uso que usas en tu vida diaria durante una semana y aprende a reducirlos."
-summary: "Registra y analiza tu consumo de plásticos de un solo uso."
+description: "Hacé un inventario detallado de los plásticos de un solo uso que usás en tu vida diaria durante una semana y aprendé a reducirlos."
+summary: "Registrá y analizá tu consumo de plásticos de un solo uso."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Auditoría de plástico en casa!
 
 ## Resumen
-Haz un inventario detallado de los plásticos de un solo uso que usas en tu vida diaria durante una semana. Registra qué plásticos usas, con qué frecuencia y qué pasa con ellos después de usarlos.
+Hacé un inventario detallado de los plásticos de un solo uso que usás en tu vida diaria durante una semana. Registrá qué plásticos usás, con qué frecuencia y qué pasa con ellos después de usarlos.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Consulta la ilustración "Tipos de plástico" para ayudar a reconocer los materiales plásticos que puedas encontrar.
-3. Prepara varias bolsas de basura etiquetadas para Reutilizar, Reciclar y Desechar.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Consultá la ilustración "Tipos de plástico" para ayudar a reconocer los materiales plásticos que puedas encontrar.
+3. Prepará varias bolsas de basura etiquetadas para Reutilizar, Reciclar y Desechar.
 
 ## Desarrollo
 
 ### Parte I
-Completa la siguiente tabla para registrar los plásticos que usas:
+Completá la siguiente tabla para registrar los plásticos que usás:
 
 | Plástico | Frecuencia de uso | ¿Qué pasa después de usarlo? |
 |----------|-------------------|------------------------------|
@@ -189,27 +189,27 @@ Completa la siguiente tabla para registrar los plásticos que usas:
 Durante una semana, separa los plásticos en las bolsas etiquetadas: Reutilizar, Reciclar o Desechar.
 
 ### Parte II
-Evalúa tus hábitos con el plástico. Crea una serie de dibujos o un infográfico respondiendo:
+Evaluá tus hábitos con el plástico. Creá una serie de dibujos o un infográfico respondiendo:
 
-1. ¿Qué plásticos de un solo uso usas más? ¿Cuántos has usado en los últimos dos meses?
-2. ¿Cuáles usas casi nunca? ¿Cuántos has usado en los últimos dos meses?
+1. ¿Qué plásticos de un solo uso usás más? ¿Cuántos has usado en los últimos dos meses?
+2. ¿Cuáles usás casi nunca? ¿Cuántos has usado en los últimos dos meses?
 3. ¿Cuántas bolsas de plástico tiraste a la basura en una semana?
 4. ¿Cuántas bolsas de plástico reciclaste en una semana?
 5. ¿Cuántas bolsas de plástico guardaste para reutilizar en una semana?
 6. ¿Qué artículos podrías dejar de usar?
-7. ¿Qué artículos realmente necesitas?
-8. ¿Se te ocurren formas de reemplazar los plásticos de un solo uso que más necesitas con artículos hechos de otros materiales?
+7. ¿Qué artículos realmente necesitás?
+8. ¿Se te ocurren formas de reemplazar los plásticos de un solo uso que más necesitás con artículos hechos de otros materiales?
 
 ### Parte III
 Compartan sus hallazgos con el grupo. ¿Cuáles fueron los plásticos de un solo uso más comunes? ¿Qué artículos se reutilizaron más y cuáles se reciclaron o tiraron más?
 
 ### Parte IV
-Cada miembro del grupo se compromete a eliminar un plástico de un solo uso durante 21 días. Después de 21 días, ve si puedes seguir sin usar ese artículo.
+Cada miembro del grupo se compromete a eliminar un plástico de un solo uso durante 21 días. Después de 21 días, ve si podés seguir sin usar ese artículo.
 
 ## Cierre
 1. ¿Qué fue lo que más te sorprendió de tu consumo de plásticos?
-2. ¿Qué cambio crees que sería más fácil de mantener a largo plazo?
-3. ¿Cómo te sentiste al ver la cantidad de plástico que generas en una semana?
+2. ¿Qué cambio creés que sería más fácil de mantener a largo plazo?
+3. ¿Cómo te sentiste al ver la cantidad de plástico que generás en una semana?
 
 ## Texto original completo de la actividad
 

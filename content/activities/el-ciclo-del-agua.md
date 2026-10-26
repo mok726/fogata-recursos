@@ -5,7 +5,7 @@ duration: "1 hora + tiempo de exposición al sol"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-ciclo-del-agua/"
 description: "Los participantes realizan un experimento para demostrar cómo funciona el ciclo del agua, incluyendo evaporación, condensación y precipitación."
-summary: "Construye un modelo del ciclo del agua."
+summary: "Construí un modelo del ciclo del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,23 +168,23 @@ translation_notice:
 Nuestro mundo tiene una cantidad limitada de agua, ¡y la cantidad de agua que tenemos ahora es la misma que tenía la Tierra cuando existían los dinosaurios! El ciclo del agua se refiere a cómo el agua de la Tierra se recicla a sí misma, y está compuesto por diferentes partes: evaporación, condensación, transpiración, precipitación, infiltración y escorrentía.
 
 ## Preparación
-1. Coloca el frasco en el centro del recipiente grande.
-2. Añade agua al recipiente, asegurándote de que el frasco no flote.
-3. Añade unas gotas de tinta al agua para colorearla y mézclala suavemente.
-4. Cubre la parte superior del recipiente con el film plástico de forma segura pero ligeramente suelta.
-5. Coloca la piedra directamente sobre el frasco (el peso de la piedra debe hacer una pequeña depresión en el film plástico) centrado sobre la boca abierta del frasco.
-6. Coloca todo al sol, espera y observa.
+1. Colocá el frasco en el centro del recipiente grande.
+2. Añadí agua al recipiente, asegurándote de que el frasco no flote.
+3. Añadí unas gotas de tinta al agua para colorearla y mézclala suavemente.
+4. Cubrí la parte superior del recipiente con el film plástico de forma segura pero ligeramente suelta.
+5. Colocá la piedra directamente sobre el frasco (el peso de la piedra debe hacer una pequeña depresión en el film plástico) centrado sobre la boca abierta del frasco.
+6. Colocá todo al sol, espera y observá.
 
 ## Desarrollo
 
 ### Parte I - Explicación
-Explica a tu grupo que van a hacer un experimento para ayudarles a entender cómo el sol hace que el ciclo del agua funcione, y cómo el ciclo del agua ayuda a purificar el agua.
+Explicá a tu grupo que van a hacer un experimento para ayudarles a entender cómo el sol hace que el ciclo del agua funcione, y cómo el ciclo del agua ayuda a purificar el agua.
 
 ### Parte II - Observación
 A medida que el sol calienta el recipiente, el agua en su interior comienza a calentarse y, a medida que su temperatura aumenta, comienza a evaporarse. El vapor de agua producido se condensa en la superficie interna del film plástico, formando pequeñas gotas, y una vez que son lo suficientemente grandes, corren por la parte inferior del film hacia el punto bajo creado por el peso de la piedra. A medida que se acumulan más y más, eventualmente las gotas se vuelven demasiado pesadas para adherirse al film y "llueven" dentro de la boca abierta del frasco.
 
 ### Parte III - Análisis
-Observa que el agua que se recoge en el frasco es clara, no coloreada. La tinta se queda atrás, al igual que la sal se queda atrás en el agua de mar. Los minerales como la sal y otras sustancias disueltas en el agua se quedan atrás durante la evaporación; como resultado, cuando el vapor de agua se condensa para convertirse nuevamente en agua, es relativamente pura.
+Observá que el agua que se recoge en el frasco es clara, no coloreada. La tinta se queda atrás, al igual que la sal se queda atrás en el agua de mar. Los minerales como la sal y otras sustancias disueltas en el agua se quedan atrás durante la evaporación; como resultado, cuando el vapor de agua se condensa para convertirse nuevamente en agua, es relativamente pura.
 
 ## Cierre
 - ¿Cuáles son los dos procesos responsables de purificar el agua? (Evaporación y condensación).

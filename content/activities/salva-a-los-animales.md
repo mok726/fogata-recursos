@@ -164,24 +164,24 @@ rama_rovers:
 # ¡Salva a los animales!
 
 ## Resumen
-Averigua qué animales están siendo afectados por el cambio climático. Puedes aprender sobre ellos en el sitio Web de WWF.
+Averiguá qué animales están siendo afectados por el cambio climático. Podés aprender sobre ellos en el sitio Web de WWF.
 
 ## Preparación
-1. Investiga sobre animales afectados por el cambio climático.
-2. Prepara ejemplos y recursos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre animales afectados por el cambio climático.
+2. Prepará ejemplos y recursos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga qué animales están siendo afectados por el cambio climático.
-2. Elige un animal favorito y descubre:
+1. Investigá qué animales están siendo afectados por el cambio climático.
+2. Elegí un animal favorito y descubrí:
    - ¿Dónde vive?
    - ¿Cómo le está amenazando el cambio climático?
    - ¿Qué se puede hacer para ayudarlo?
-3. Haz un dibujo del animal que elegiste.
-4. Escribe al lado una explicación de lo que aprendiste sobre este.
+3. Hacé un dibujo del animal que elegiste.
+4. Escribí al lado una explicación de lo que aprendiste sobre este.
 
 ## Cierre
-1. Comparte tu dibujo e investigación con el grupo.
+1. Compartí tu dibujo e investigación con el grupo.
 2. Discutan: ¿Qué animales están más amenazados y por qué?
 3. Pregunta final: ¿Qué podemos hacer para ayudar a los animales afectados por el cambio climático?
 

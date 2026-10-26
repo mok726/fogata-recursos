@@ -170,28 +170,28 @@ translation_notice:
 Cualquier agua que corre por un desagüe pluvial fluye directamente hacia nuestros cursos de agua. No pasa por el sistema de alcantarillado sanitario y no recibe ningún tipo de tratamiento. Esto significa que todo lo que arrojamos por estos desagües termina en los lagos y arroyos donde pescamos, navegamos y nadamos. En esta actividad, los participantes crean una campaña de concienciación para animar a todos a no verter contaminantes en los desagües pluviales.
 
 ## Preparación
-1. Prepara los materiales de arte.
-2. Investiga sobre los desagües pluviales en tu comunidad.
+1. Prepará los materiales de arte.
+2. Investigá sobre los desagües pluviales en tu comunidad.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Recuerda a tu grupo cómo las ciudades han identificado y limpiado la mayoría de las grandes fuentes de contaminación del agua, como las industrias y las plantas de tratamiento de aguas residuales, y que ahora gran parte de la contaminación en nuestros lagos y arroyos proviene de fuentes pequeñas y dispersas.
-2. Explica que enseñar a la gente la importancia de evitar que los contaminantes lleguen a los desagües pluviales es una gran forma de ayudar.
+1. Recordá a tu grupo cómo las ciudades han identificado y limpiado la mayoría de las grandes fuentes de contaminación del agua, como las industrias y las plantas de tratamiento de aguas residuales, y que ahora gran parte de la contaminación en nuestros lagos y arroyos proviene de fuentes pequeñas y dispersas.
+2. Explicá que enseñar a la gente la importancia de evitar que los contaminantes lleguen a los desagües pluviales es una gran forma de ayudar.
 
 ### Paso 2: Campaña
-3. Explica a los participantes que van a llevar a cabo una campaña de concienciación llamada **"Solo Lluvia por el Desagüe Pluvial"** para animar a todos a evitar los contaminantes no puntuales (hojas, tierra, basura, fertilizantes, pesticidas, residuos de la calle, etc.) y no verter productos químicos ni barrer residuos directamente a los desagües pluviales.
+3. Explicá a los participantes que van a llevar a cabo una campaña de concienciación llamada **"Solo Lluvia por el Desagüe Pluvial"** para animar a todos a evitar los contaminantes no puntuales (hojas, tierra, basura, fertilizantes, pesticidas, residuos de la calle, etc.) y no verter productos químicos ni barrer residuos directamente a los desagües pluviales.
 
 ### Paso 3: Creación de carteles
-4. Divide a los participantes en grupos pequeños y pide a cada grupo que prepare un cartel atractivo sobre este tema.
+4. Dividí a los participantes en grupos pequeños y pedí a cada grupo que prepare un cartel atractivo sobre este tema.
 
 ### Paso 4: Exposición
-5. Coloca los carteles por toda la escuela o lugar de reunión. También pueden colocar algunos carteles en la biblioteca local o en el supermercado para enseñar a los vecinos.
+5. Colocá los carteles por toda la escuela o lugar de reunión. También pueden colocar algunos carteles en la biblioteca local o en el supermercado para enseñar a los vecinos.
 
 ## Cierre
 - ¿Cómo se sintió tu escuela o lugar de reunión con la información que les diste?
 - ¿Cómo ayudan las cosas pequeñas/actividades a promover el agua limpia?
-- ¿De qué otras formas puedes proteger tu agua?
+- ¿De qué otras formas podés proteger tu agua?
 
 ## Texto original completo de la actividad
 

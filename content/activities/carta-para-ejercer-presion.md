@@ -4,7 +4,7 @@ title: "Carta para Ejercer Presión"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-para-ejercer-presion/"
-description: "Escribe una carta a tus líderes gubernamentales pidiendo que tomen acción contra el hambre."
+description: "Escribí una carta a tus líderes gubernamentales pidiendo que tomen acción contra el hambre."
 summary: "Carta a líderes gubernamentales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,22 +164,22 @@ rama_rovers:
 # Carta para Ejercer Presión
 
 ## Resumen
-Escribe una carta a tus líderes gubernamentales pidiendo que tomen acción contra el hambre.
+Escribí una carta a tus líderes gubernamentales pidiendo que tomen acción contra el hambre.
 
 ## Preparación
-1. Investiga a quién debes escribir (gobierno nacional o local).
-2. Reflexiona sobre el mensaje que quieres transmitir.
-3. Prepara papel y lápices o computadora.
+1. Investigá a quién debés escribir (gobierno nacional o local).
+2. Reflexioná sobre el mensaje que querés transmitir.
+3. Prepará papel y lápices o computadora.
 
 ## Desarrollo
-1. **Investigación** (15 min): Identifica a los líderes gubernamentales adecuados.
-2. **Redacción** (20 min): Escribe una carta clara y convincente.
-3. **Envío** (10 min): Envía la carta por correo.
-4. **Extensión** (15 min): Organiza una campaña de cartas en tu escuela o grupo.
+1. **Investigación** (15 min): Identificá a los líderes gubernamentales adecuados.
+2. **Redacción** (20 min): Escribí una carta clara y convincente.
+3. **Envío** (10 min): Enviá la carta por correo.
+4. **Extensión** (15 min): Organizá una campaña de cartas en tu escuela o grupo.
 
 ## Cierre
 - ¿Qué mensaje quisiste transmitir?
-- ¿Cómo crees que tu carta puede hacer una diferencia?
+- ¿Cómo creés que tu carta puede hacer una diferencia?
 - ¿Qué compromiso adquieres para seguir involucrándote en temas políticos?
 
 ---

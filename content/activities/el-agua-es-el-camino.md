@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-es-el-camino/"
 description: "Los participantes aprenden por qué el agua es vital para el bienestar de todas las formas de vida a través de un juego de búsqueda de ideas."
-summary: "Descubre por qué el agua es esencial para la vida."
+summary: "Descubrí por qué el agua es esencial para la vida."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -155,20 +155,20 @@ rama_rovers:
 El agua es vital para el bienestar de todas las formas de vida. En esta actividad, los participantes aprenden sobre la importancia del agua a través de un juego de búsqueda de ideas.
 
 ## Preparación
-1. Usa papel de colores para escribir ideas sobre por qué el agua es importante.
-2. Corta y dobla cada idea.
-3. Esconde cada idea alrededor del jardín o patio.
+1. Usá papel de colores para escribir ideas sobre por qué el agua es importante.
+2. Cortá y dobla cada idea.
+3. Escondé cada idea alrededor del jardín o patio.
 
 ## Desarrollo
 
 ### Parte I - Búsqueda
-Explica a los participantes que deben buscar los papeles que escondiste. La persona que encuentre más papeles es la ganadora.
+Explicá a los participantes que deben buscar los papeles que escondiste. La persona que encuentre más papeles es la ganadora.
 
 ### Parte II - Lectura
 Cada participante lee en voz alta las ideas que encontró.
 
 ### Parte III - Discusión
-Discute con ellos lo que piensan sobre esas afirmaciones.
+Discutí con ellos lo que piensan sobre esas afirmaciones.
 
 **Ideas para incluir:**
 - Alrededor del 70 por ciento de nuestro cuerpo está hecho de agua.
@@ -190,8 +190,8 @@ Discute con ellos lo que piensan sobre esas afirmaciones.
 
 ## Cierre
 - ¿Sabías que el agua te da tantos beneficios?
-- ¿Puedes nombrar otros beneficios que todos los seres vivos obtienen del agua?
-- ¿Puedes contarnos sobre una experiencia divertida que hayas tenido con el agua?
+- ¿Podés nombrar otros beneficios que todos los seres vivos obtienen del agua?
+- ¿Podés contarnos sobre una experiencia divertida que hayas tenido con el agua?
 
 ## Texto original completo de la actividad
 

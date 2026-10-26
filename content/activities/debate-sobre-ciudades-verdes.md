@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate sobre ciudades verdes"
+title: "Debatí sobre ciudades verdes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-sobre-ciudades-verdes/"
-description: "Debate estructurado sobre los pros y contras de la urbanización para desarrollar habilidades de argumentación."
+description: "Debatí estructurado sobre los pros y contras de la urbanización para desarrollar habilidades de argumentación."
 summary: "Debatir sobre los pros y contras de la urbanización."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -119,7 +119,7 @@ competencies:
   - Pensamiento crítico
   - Trabajo en equipo
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Dinámica de grupos
 category:
@@ -156,7 +156,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Debate sobre ciudades verdes!
+# ¡Debatí sobre ciudades verdes!
 
 ## Resumen
 Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Divídanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.

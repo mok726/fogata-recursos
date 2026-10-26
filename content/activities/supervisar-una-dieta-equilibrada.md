@@ -169,15 +169,15 @@ rama_rovers:
 Supervisa los alimentos del comedor escolar y haz recomendaciones para mejorarlos.
 
 ## Preparación
-1. Observa el comedor escolar durante dos semanas.
-2. Anota lo que incluye el almuerzo.
-3. Piensa en cómo mejorar la variedad y la salud de las comidas.
+1. Observá el comedor escolar durante dos semanas.
+2. Anotá lo que incluye el almuerzo.
+3. Pensá en cómo mejorar la variedad y la salud de las comidas.
 
 ## Desarrollo
-1. **Supervisión** (dos semanas): Observa el almuerzo escolar.
+1. **Supervisión** (dos semanas): Observá el almuerzo escolar.
 2. **Análisis** (15 min): ¿Son sanas y variadas las comidas?
-3. **Recomendaciones** (15 min): Haz propuestas para mejorar.
-4. **Presentación** (15 min): Presenta las recomendaciones al director.
+3. **Recomendaciones** (15 min): Hacé propuestas para mejorar.
+4. **Presentación** (15 min): Presentá las recomendaciones al director.
 
 ## Cierre
 - ¿Qué cambiarías en el comedor escolar?

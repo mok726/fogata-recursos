@@ -3,7 +3,7 @@ title: "Animal Favorito"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/animal-favorito-rrd/"
-description: "Escribe una historia creativa sobre cómo tu animal favorito sobrevive a una amenaza natural."
+description: "Escribí una historia creativa sobre cómo tu animal favorito sobrevive a una amenaza natural."
 summary: "Historia creativa sobre un animal y una amenaza."
 
 author:
@@ -138,16 +138,16 @@ rama_rovers: []
 # ¡Animal Favorito!
 
 ## Resumen
-Escribe una historia corta sobre cómo tu animal favorito se quedó atrapado en una amenaza natural y cómo hizo para protegerse.
+Escribí una historia corta sobre cómo tu animal favorito se quedó atrapado en una amenaza natural y cómo hizo para protegerse.
 
 ## Preparación
-- Piensa en tu animal favorito.
-- Recuerda qué amenazas naturales has aprendido.
+- Pensá en tu animal favorito.
+- Recordá qué amenazas naturales has aprendido.
 
 ## Desarrollo
-1. **Elección** (5 min): Elige tu animal favorito.
-2. **Escritura** (20 min): Escribe una historia sobre el animal y una amenaza.
-3. **Compartir** (5 min): Lee tu historia al grupo.
+1. **Elección** (5 min): Elegí tu animal favorito.
+2. **Escritura** (20 min): Escribí una historia sobre el animal y una amenaza.
+3. **Compartir** (5 min): Leé tu historia al grupo.
 
 ## Cierre
 - ¿Qué animal elegiste y por qué?

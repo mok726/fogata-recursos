@@ -166,20 +166,20 @@ rama_rovers:
 Participen en un proyecto científico popular en el cual personas sin un entrenamiento científico especial salen a la naturaleza y recolectan información científica, la cual, posteriormente, será utilizada por los expertos. BirdLife International dirige un fantástico proyecto de este tipo sobre aves llamado 'WorldBirds' (Aves del Mundo).
 
 ## Preparación
-1. Visita el sitio web de WorldBirds.
-2. Descarga la guía para jóvenes.
-3. Prepara binoculares y materiales para tomar notas.
+1. Visitá el sitio web de WorldBirds.
+2. Descargá la guía para jóvenes.
+3. Prepará binoculares y materiales para tomar notas.
 
 ## Desarrollo
-1. Visita el sitio web de WorldBirds.
-2. Aprende cómo participar en el proyecto.
-3. Observa aves en tu área.
-4. Registra tus observaciones científicamente.
-5. Contribuye con tus datos al proyecto.
+1. Visitá el sitio web de WorldBirds.
+2. Aprendé cómo participar en el proyecto.
+3. Observá aves en tu área.
+4. Registrá tus observaciones científicamente.
+5. Contribuí con tus datos al proyecto.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Cómo ayuda la ciencia ciudadana a los expertos?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Cómo ayuda la ciencia ciudadana a los expertos?
 3. Pregunta final: ¿Qué te gustó de participar en ciencia ciudadana?
 
 ## Texto original completo de la actividad

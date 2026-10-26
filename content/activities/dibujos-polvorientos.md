@@ -3,7 +3,7 @@ title: "Dibujos Polvorientos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-polvorientos/"
-description: "Crea pinturas con suelo y haz dibujos con diferentes colores y texturas."
+description: "Creá pinturas con suelo y hacé dibujos con diferentes colores y texturas."
 summary: "Pintura con suelo."
 
 author:
@@ -149,18 +149,18 @@ rama_rovers: []
 # ¡Dibujos Polvorientos!
 
 ## Resumen
-Recolecta suelos de diferentes colores, aplástalos y mézclalos con agua para crear pinturas naturales.
+Recolectá suelos de diferentes colores, aplástalos y mézclalos con agua para crear pinturas naturales.
 
 ## Preparación
-1. Recolecta suelos de diferentes colores.
-2. Prepara agua, pinceles y papel.
+1. Recolectá suelos de diferentes colores.
+2. Prepará agua, pinceles y papel.
 3. Aplasta el suelo hasta hacerlo polvo.
 
 ## Desarrollo
 1. **Preparación** (15 min): Aplasta el suelo hasta hacerlo polvo.
-2. **Mezcla** (10 min): Mezcla el polvo con agua y pinturas (opcional).
-3. **Creación** (25 min): Pinta dibujos con tus pinturas de suelo.
-4. **Exhibición** (10 min): Muestra tus obras al grupo.
+2. **Mezcla** (10 min): Mezclá el polvo con agua y pinturas (opcional).
+3. **Creación** (25 min): Pintá dibujos con tus pinturas de suelo.
+4. **Exhibición** (10 min): Mostrá tus obras al grupo.
 
 ## Cierre
 - ¿Qué colores de suelo encontraste?

@@ -3,8 +3,8 @@ title: "El Debate sobre la MG"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-debate-sobre-la-mg/"
-description: "Investiga y debate sobre la modificación genética en la agricultura."
-summary: "Debate sobre modificación genética."
+description: "Investigá y debate sobre la modificación genética en la agricultura."
+summary: "Debatí sobre modificación genética."
 
 author:
   - FAO
@@ -101,7 +101,7 @@ competencies:
   - Comunicación
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
   - Reflexión
 
@@ -138,17 +138,17 @@ rama_rovers:
 # ¡El Debate sobre la MG!
 
 ## Resumen
-Investiga y debate sobre la modificación genética en la agricultura y su impacto en el suelo.
+Investigá y debate sobre la modificación genética en la agricultura y su impacto en el suelo.
 
 ## Preparación
-1. Investiga sobre la modificación genética en la agricultura.
-2. Prepara argumentos para el debate.
-3. Reúne materiales para el reportaje.
+1. Investigá sobre la modificación genética en la agricultura.
+2. Prepará argumentos para el debate.
+3. Reuní materiales para el reportaje.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga sobre la MG.
-2. **Debate** (20 min): Debate sobre la MG.
-3. **Reportaje** (10 min): Presenta tus hallazgos.
+1. **Investigación** (25 min): Investigá sobre la MG.
+2. **Debate** (20 min): Debatí sobre la MG.
+3. **Reportaje** (10 min): Presentá tus hallazgos.
 4. **Conclusión** (5 min): Resume las posiciones.
 
 ## Cierre

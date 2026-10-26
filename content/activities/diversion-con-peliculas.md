@@ -123,7 +123,7 @@ competencies:
   - Comunicación
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 category:
   - Cine
@@ -165,9 +165,9 @@ rama_rovers:
 En grupo, vean un documental sobre el cambio climático, por ejemplo, "Una Verdad Incómoda" o "Persiguiendo el Hielo". Luego, discutan sobre sus impresiones con relación al documental.
 
 ## Preparación
-1. Selecciona un documental apropiado para el grupo.
-2. Prepara el equipo audiovisual.
-3. Prepara preguntas para guiar la discusión posterior.
+1. Seleccioná un documental apropiado para el grupo.
+2. Prepará el equipo audiovisual.
+3. Prepará preguntas para guiar la discusión posterior.
 
 ## Desarrollo
 1. Vean el documental en grupo.

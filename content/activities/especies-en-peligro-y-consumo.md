@@ -163,21 +163,21 @@ rama_rovers:
 # ¡Especies en peligro y consumo!
 
 ## Resumen
-Aprende acerca de las especies en peligro de extinción y cómo las decisiones de los consumidores les afectan directa e indirectamente. Por ejemplo, comer sopa de aleta de tiburón afecta directamente a los tiburones porque ellos son cazados por esta razón. Comer mucha carne puede afectar indirectamente a las especies de los bosques pluviales en peligro de extinción porque sus hábitats son destruidos para crear prados para el pastoreo de ganado.
+Aprendé acerca de las especies en peligro de extinción y cómo las decisiones de los consumidores les afectan directa e indirectamente. Por ejemplo, comer sopa de aleta de tiburón afecta directamente a los tiburones porque ellos son cazados por esta razón. Comer mucha carne puede afectar indirectamente a las especies de los bosques pluviales en peligro de extinción porque sus hábitats son destruidos para crear prados para el pastoreo de ganado.
 
 ## Preparación
-1. Investiga sobre especies en peligro y su relación con el consumo.
-2. Prepara materiales para el póster.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre especies en peligro y su relación con el consumo.
+2. Prepará materiales para el póster.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo las decisiones de consumo afectan a especies en peligro.
-2. Identifica ejemplos de impacto directo e indirecto.
-3. Prepara un póster indicando especies en mayor peligro en tu país, región o continente.
+1. Investigá cómo las decisiones de consumo afectan a especies en peligro.
+2. Identificá ejemplos de impacto directo e indirecto.
+3. Prepará un póster indicando especies en mayor peligro en tu país, región o continente.
 
 ## Cierre
-1. Comparte tu póster con el grupo.
-2. Reflexiona: ¿Cómo pueden los consumidores ayudar a proteger especies?
+1. Compartí tu póster con el grupo.
+2. Reflexioná: ¿Cómo pueden los consumidores ayudar a proteger especies?
 3. Pregunta final: ¿Qué cambios en tu consumo ayudarían a las especies en peligro?
 
 ## Texto original completo de la actividad

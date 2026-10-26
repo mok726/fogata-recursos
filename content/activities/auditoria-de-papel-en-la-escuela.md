@@ -3,7 +3,7 @@ title: "Auditoría de papel en la escuela"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-papel-en-la-escuela/"
-description: "Averigua cuánto papel se usa en tu escuela y reduce su consumo."
+description: "Averiguá cuánto papel se usa en tu escuela y reducí su consumo."
 summary: "Auditoría de papel escolar."
 
 author:
@@ -139,17 +139,17 @@ rama_rovers:
 # ¡Auditoría de papel en la escuela!
 
 ## Resumen
-Averigua cuánto papel se usa en tu escuela y toma medidas para reducirlo.
+Averiguá cuánto papel se usa en tu escuela y toma medidas para reducirlo.
 
 ## Preparación
-1. Habla con la administración de la escuela.
-2. Prepara materiales para el estudio.
-3. Identifica áreas de uso de papel.
+1. Hablá con la administración de la escuela.
+2. Prepará materiales para el estudio.
+3. Identificá áreas de uso de papel.
 
 ## Desarrollo
-1. **Auditoría** (20 min): Investiga el uso de papel.
+1. **Auditoría** (20 min): Investigá el uso de papel.
 2. **Análisis** (15 min): ¿Cuánto se recicla? ¿Cuánto termina en la basura?
-3. **Acción** (15 min): Toma medidas para reducir el consumo.
+3. **Acción** (15 min): Tomá medidas para reducir el consumo.
 4. **Evaluación** (10 min): ¿Qué porcentaje lograste reducir?
 
 ## Cierre

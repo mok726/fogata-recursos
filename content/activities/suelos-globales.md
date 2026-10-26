@@ -3,7 +3,7 @@ title: "Suelos Globales"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/suelos-globales/"
-description: "Investiga dónde se encuentran los suelos más degradados del mundo."
+description: "Investigá dónde se encuentran los suelos más degradados del mundo."
 summary: "Investigación de degradación de suelos global."
 
 author:
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Suelos Globales!
 
 ## Resumen
-Investiga dónde se encuentran los suelos más degradados del mundo y crea un mapa.
+Investigá dónde se encuentran los suelos más degradados del mundo y creá un mapa.
 
 ## Preparación
-1. Investiga sobre la degradación del suelo en el mundo.
-2. Elige una región para estudiar.
-3. Prepara materiales para el mapa.
+1. Investigá sobre la degradación del suelo en el mundo.
+2. Elegí una región para estudiar.
+3. Prepará materiales para el mapa.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre suelos degradados.
-2. **Mapa** (20 min): Dibuja un mapa de la región elegida.
+1. **Investigación** (20 min): Investigá sobre suelos degradados.
+2. **Mapa** (20 min): Dibujá un mapa de la región elegida.
 3. **Análisis** (15 min): ¿Qué causó la degradación? ¿Qué problemas ocurren?
-4. **Exhibición** (5 min): Exhibe los mapas en grupo.
+4. **Exhibición** (5 min): Exhibí los mapas en grupo.
 
 ## Cierre
 - ¿Dónde se encuentran los suelos más degradados?

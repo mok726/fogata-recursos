@@ -1,9 +1,9 @@
 ---
-title: "Construye una abonera"
+title: "Construí una abonera"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/construye-una-abonera/"
-description: "Construye una abonera para transformar desechos biodegradables en abono."
+description: "Construí una abonera para transformar desechos biodegradables en abono."
 summary: "Construcción de abonera casera."
 
 author:
@@ -142,21 +142,21 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Construye una abonera!
+# ¡Construí una abonera!
 
 ## Resumen
-Construye una abonera para transformar desechos biodegradables en abono para tus plantas.
+Construí una abonera para transformar desechos biodegradables en abono para tus plantas.
 
 ## Preparación
-1. Reúne madera vieja y clavos.
-2. Prepara el área del jardín.
-3. Identifica desechos biodegradables.
+1. Reuní madera vieja y clavos.
+2. Prepará el área del jardín.
+3. Identificá desechos biodegradables.
 
 ## Desarrollo
-1. **Construcción** (30 min): Arma la estructura de la abonera.
-2. **Llenado** (10 min): Agrega desechos biodegradables.
-3. **Cuidado** (continua): Mantén la abonera.
-4. **Uso** (continua): Usa el abono para cultivar vegetales y frutas.
+1. **Construcción** (30 min): Armá la estructura de la abonera.
+2. **Llenado** (10 min): Agregá desechos biodegradables.
+3. **Cuidado** (continua): Mantené la abonera.
+4. **Uso** (continua): Usá el abono para cultivar vegetales y frutas.
 
 ## Cierre
 - ¿Qué materiales usaste para la abonera?

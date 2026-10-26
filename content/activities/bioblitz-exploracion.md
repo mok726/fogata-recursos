@@ -166,30 +166,30 @@ rama_rovers: []
 Los participantes colaborarán en la organización y ejecución de un BioBlitz, encontrando e identificando tantas especies como sea posible en un área específica durante un corto período de tiempo. En un BioBlitz, científicos, familias, estudiantes, profesores y otros miembros de la comunidad trabajan unidos para tener una noción de la biodiversidad de un área.
 
 ## Preparación
-1. Elige un área natural para explorar.
-2. Organiza la actividad en tres semanas.
-3. Prepara los materiales necesarios para cada semana.
+1. Elegí un área natural para explorar.
+2. Organizá la actividad en tres semanas.
+3. Prepará los materiales necesarios para cada semana.
 
 ## Desarrollo
 
 ### Semana 1 - Preparación
 1. El facilitador le explica al grupo que participarán en un BioBlitz. Con los participantes eligen un área natural para explorarla y aprender sobre ella. Puede ser una reserva natural, un parque nacional o podrían encontrar biodiversidad en su entorno local.
-2. El facilitador introduce los conceptos de biodiversidad y BioBlitz. Haz que los jóvenes realicen un video virtual del BioBlitz mientras ven un clip de Alec en WILDerland y los Boy Scouts of America, la Tropa 20 de Tulsa o muéstrales fotografías. Pídeles que levanten la mano cuando vean una nueva especie desconocida para ellos.
-3. Hablen sobre lo que vieron en el video o en las imágenes y pregúntales: ¿Por qué sería útil hacer un inventario de todas las especies en un área natural?
-4. Invítalos a usar Map Maker Interactive o Google Maps para que exploren el área de estudio. Pídele a los participantes que encuentren y creen un mapa del área seleccionada donde el grupo llevará a cabo el BioBlitz.
-5. Prepara la actividad de campo con anticipación. Discute con los participantes cómo pueden trabajar de manera eficiente con el tiempo que tendrán para llevar a cabo el BioBlitz. Los participantes se deben dividir en grupos pequeños. Marca el mapa en los lugares donde probablemente estarán los participantes. Pide a cada participante que traiga un cuaderno y un lápiz.
+2. El facilitador introduce los conceptos de biodiversidad y BioBlitz. Hacé que los jóvenes realicen un video virtual del BioBlitz mientras ven un clip de Alec en WILDerland y los Boy Scouts of America, la Tropa 20 de Tulsa o mostrales fotografías. Pediles que levanten la mano cuando vean una nueva especie desconocida para ellos.
+3. Hablen sobre lo que vieron en el video o en las imágenes y preguntales: ¿Por qué sería útil hacer un inventario de todas las especies en un área natural?
+4. Invitalos a usar Map Maker Interactive o Google Maps para que exploren el área de estudio. Pedile a los participantes que encuentren y creen un mapa del área seleccionada donde el grupo llevará a cabo el BioBlitz.
+5. Prepará la actividad de campo con anticipación. Discutí con los participantes cómo pueden trabajar de manera eficiente con el tiempo que tendrán para llevar a cabo el BioBlitz. Los participantes se deben dividir en grupos pequeños. Marcá el mapa en los lugares donde probablemente estarán los participantes. Pedí a cada participante que traiga un cuaderno y un lápiz.
 6. ¿Dónde viste una variedad de plantas? ¿Dónde viste una variedad de animales? ¿Qué hábitats y qué condiciones permiten que los animales y las plantas sobrevivan?
 
 ### Semana 2 - Llevar a cabo el BioBlitz
 1. Una vez que se encuentren en el sitio seleccionado para la exploración, explica a los participantes que primero tendrán tiempo para la observación en silencio y luego para la observación en equipo, durante la cual podrán comunicarse entre sí.
-2. Primero, durante unos cinco minutos, haz que los participantes se sienten en silencio y observen su entorno. En sus cuadernos, pídeles que dibujen o describan con palabras a cualquier ser vivo que vean, escuchen o huelan. Si se encuentran con algún animal, pídeles que lo anoten en sus hojas de datos o que le tomen una fotografía si es posible.
+2. Primero, durante unos cinco minutos, haz que los participantes se sienten en silencio y observen su entorno. En sus cuadernos, pediles que dibujen o describan con palabras a cualquier ser vivo que vean, escuchen o huelan. Si se encuentran con algún animal, pediles que lo anoten en sus hojas de datos o que le tomen una fotografía si es posible.
 3. Antes o después de la observación en silencio, haz que los jóvenes elijan un área para estudiar. Indícales que usen el aro de hula hula o la cuerda para marcar su área de estudio.
 4. Mientras llevan a cabo el BioBlitz, los participantes deben marcar sus hallazgos en un mapa del área de estudio y también deben añadir tanta información como sea posible sobre las especies encontradas en la hoja de trabajo de las Tarjetas de identificación de especies.
 5. Cuando los participantes hayan terminado de identificar las especies con el inventario, regresen al lugar de reunión de la unidad.
 6. Antes de irse a casa, analicen cualquier desafío encontrado, como la toma de muestras de organismos muy pequeños o de organismos voladores o que se arrastran, o factores físicos como la lluvia y el viento —y analicen los posibles efectos en los datos.
 
 ### Semana 3 - Investigación
-1. Haz que los jóvenes consulten recursos de expertos, como guías de campo, para identificar los organismos observados en el BioBlitz y agreguen más información a sus tarjetas de identificación de especies, creando un inventario que represente la diversidad del área estudiada.
+1. Hacé que los jóvenes consulten recursos de expertos, como guías de campo, para identificar los organismos observados en el BioBlitz y agreguen más información a sus tarjetas de identificación de especies, creando un inventario que represente la diversidad del área estudiada.
 2. Junten los resultados en un mapa y compartan la información:
    a. ¿Cuántas especies se encontraron?
    b. ¿Qué especies y dónde se encontraron?
@@ -198,13 +198,13 @@ Los participantes colaborarán en la organización y ejecución de un BioBlitz, 
    e. ¿Qué factores abióticos pueden haber tenido un efecto en las especies encontradas?
    f. ¿Cómo podrían los métodos de investigación del grupo haber impactado a las especies encontradas?
    g. ¿Qué harías de manera diferente si tuvieras que llevar a cabo otro BioBlitz en tu barrio?
-3. Solicita a los participantes que creen un mapa que muestre la distribución de varias especies dentro del área de estudio. Pídeles que recorten y adjunten las tarjetas de identificación de especies al mapa para mostrarle visualmente el concepto de biodiversidad a otros amigos y otras personas.
+3. Solicitá a los participantes que creen un mapa que muestre la distribución de varias especies dentro del área de estudio. Pediles que recorten y adjunten las tarjetas de identificación de especies al mapa para mostrarle visualmente el concepto de biodiversidad a otros amigos y otras personas.
 4. Analicen los hallazgos. Analicen la biodiversidad dentro de las áreas que los participantes inventariaron.
 
 ## Cierre
 1. ¿Cuántas especies encontraste?
 2. ¿Qué especie te sorprendió más?
-3. ¿Cómo puedes usar lo que aprendiste para proteger la biodiversidad?
+3. ¿Cómo podés usar lo que aprendiste para proteger la biodiversidad?
 
 ## Texto original completo de la actividad
 

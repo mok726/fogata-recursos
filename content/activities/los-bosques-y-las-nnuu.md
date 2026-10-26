@@ -4,7 +4,7 @@ title: "Los Bosques y las NN.UU."
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-las-nnuu/"
-description: "Aprende sobre dos agencias de las Naciones Unidas que trabajan por los bosques. Comparte tus hallazgos con tu grupo."
+description: "Aprendé sobre dos agencias de las Naciones Unidas que trabajan por los bosques. Compartí tus hallazgos con tu grupo."
 summary: "Investigación sobre agencias de la ONU relacionadas con bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -118,7 +118,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -162,17 +162,17 @@ rama_rovers:
 # Los Bosques y las NN.UU.
 
 ## Resumen
-Aprende sobre dos agencias de las Naciones Unidas que trabajan por los bosques. Comparte tus hallazgos con tu grupo.
+Aprendé sobre dos agencias de las Naciones Unidas que trabajan por los bosques. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Investiga agencias de la ONU relacionadas con bosques (FAO, PNUMA, CDB, etc.).
-2. Elige dos agencias para investigar en profundidad.
+1. Investigá agencias de la ONU relacionadas con bosques (FAO, PNUMA, CDB, etc.).
+2. Elegí dos agencias para investigar en profundidad.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre dos agencias de la ONU.
-2. **Análisis** (15 min): Analiza sus cuestiones específicas, desafíos, enfoque, ubicación y proyectos.
-3. **Comparación** (10 min): Compara las dos agencias.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Aprendé sobre dos agencias de la ONU.
+2. **Análisis** (15 min): Analizá sus cuestiones específicas, desafíos, enfoque, ubicación y proyectos.
+3. **Comparación** (10 min): Compará las dos agencias.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de la ONU en temas forestales?

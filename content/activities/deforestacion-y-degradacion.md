@@ -4,7 +4,7 @@ title: "Deforestación y Degradación"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/deforestacion-y-degradacion/"
-description: "Investiga qué porción de tu país está cubierta por bosques y cuál es la tasa de deforestación. Comparte tus hallazgos de forma creativa."
+description: "Investigá qué porción de tu país está cubierta por bosques y cuál es la tasa de deforestación. Compartí tus hallazgos de forma creativa."
 summary: "Investigación sobre deforestación y degradación forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -162,17 +162,17 @@ rama_rovers:
 # Deforestación y Degradación
 
 ## Resumen
-Investiga qué porción de tu país está cubierta por bosques y cuál es la tasa de deforestación. Comparte tus hallazgos de forma creativa con tu grupo.
+Investigá qué porción de tu país está cubierta por bosques y cuál es la tasa de deforestación. Compartí tus hallazgos de forma creativa con tu grupo.
 
 ## Preparación
-1. Reúne fuentes de información sobre bosques y deforestación en tu país.
-2. Prepara material para una presentación creativa.
+1. Reuní fuentes de información sobre bosques y deforestación en tu país.
+2. Prepará material para una presentación creativa.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga qué porción de tu país está cubierta por bosques primarios y otros tipos de bosque.
-2. **Análisis** (15 min): Analiza la tasa de deforestación actual y compárala con el promedio mundial y años anteriores.
-3. **Reflexión** (15 min): Reflexiona sobre las causas de la deforestación en tu país.
-4. **Presentación creativa** (30 min): Inventa una forma creativa de compartir tus hallazgos.
+1. **Investigación** (30 min): Investigá qué porción de tu país está cubierta por bosques primarios y otros tipos de bosque.
+2. **Análisis** (15 min): Analizá la tasa de deforestación actual y comparala con el promedio mundial y años anteriores.
+3. **Reflexión** (15 min): Reflexioná sobre las causas de la deforestación en tu país.
+4. **Presentación creativa** (30 min): Inventá una forma creativa de compartir tus hallazgos.
 
 ## Cierre
 - ¿Qué aprendiste sobre la deforestación en tu país?

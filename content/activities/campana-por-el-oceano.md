@@ -3,7 +3,7 @@ title: "Campaña por el Océano"
 duration: "90 minutos + tiempo de campaña"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-por-el-oceano/"
-description: "Organiza una campaña de concienciación sobre un problema del océano en tu comunidad."
+description: "Organizá una campaña de concienciación sobre un problema del océano en tu comunidad."
 summary: "Campaña de concienciación sobre el océano."
 
 author:
@@ -107,7 +107,7 @@ competencies:
 activity_type:
   - Servicio a los demás
   - Sensibilización
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Activismo
@@ -151,19 +151,19 @@ rama_rovers:
 # ¡Campaña por el Océano!
 
 ## Resumen
-Organiza una campaña de concienciación sobre un problema que afecta al océano en tu área local o a nivel global.
+Organizá una campaña de concienciación sobre un problema que afecta al océano en tu área local o a nivel global.
 
 ## Preparación
-1. Identifica un problema del océano que quieras abordar.
-2. Define tu público objetivo.
-3. Planifica cómo vas a llegar a ellos.
+1. Identificá un problema del océano que quieras abordar.
+2. Definí tu público objetivo.
+3. Planificá cómo vas a llegar a ellos.
 
 ## Desarrollo
-1. **Discusión** (15 min): Identifica el problema y define los objetivos.
-2. **Planificación** (30 min): Diseña la campaña (carteles, evento, cartas, etc.).
-3. **Creación** (30 min): Prepara los materiales de la campaña.
-4. **Ejecución** (15 min): Lleva a cabo la campaña (cronograma según disponibilidad).
-5. **Evaluación** (10 min): Evalúa los resultados y el impacto.
+1. **Discusión** (15 min): Identificá el problema y definí los objetivos.
+2. **Planificación** (30 min): Diseñá la campaña (carteles, evento, cartas, etc.).
+3. **Creación** (30 min): Prepará los materiales de la campaña.
+4. **Ejecución** (15 min): Llevá a cabo la campaña (cronograma según disponibilidad).
+5. **Evaluación** (10 min): Evaluá los resultados y el impacto.
 
 ## Cierre
 - ¿Qué aprendiste al organizar la campaña?

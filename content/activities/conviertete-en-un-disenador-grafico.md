@@ -4,7 +4,7 @@ title: "Conviértete en un Diseñador Gráfico"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/conviertete-en-un-disenador-grafico/"
-description: "Diseña una representación gráfica de una dieta equilibrada (pirámide, plato, arcoíris, etc.)."
+description: "Diseñá una representación gráfica de una dieta equilibrada (pirámide, plato, arcoíris, etc.)."
 summary: "Diseño gráfico de dieta equilibrada."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,18 +165,18 @@ rama_rovers:
 # Conviértete en un Diseñador Gráfico
 
 ## Resumen
-Diseña una representación gráfica de una dieta equilibrada (pirámide, plato, arcoíris, etc.).
+Diseñá una representación gráfica de una dieta equilibrada (pirámide, plato, arcoíris, etc.).
 
 ## Preparación
-1. Investiga diferentes diseños de dietas equilibradas.
-2. Elige un formato (pirámide, plato, cesta, arcoíris, etc.).
-3. Prepara material de diseño.
+1. Investigá diferentes diseños de dietas equilibradas.
+2. Elegí un formato (pirámide, plato, cesta, arcoíris, etc.).
+3. Prepará material de diseño.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga diferentes representaciones.
-2. **Diseño** (25 min): Crea tu propio diseño gráfico.
-3. **Mensajes** (15 min): Añade mensajes explicativos.
-4. **Presentación** (15 min): Comparte tu diseño con el grupo.
+1. **Investigación** (15 min): Investigá diferentes representaciones.
+2. **Diseño** (25 min): Creá tu propio diseño gráfico.
+3. **Mensajes** (15 min): Añadí mensajes explicativos.
+4. **Presentación** (15 min): Compartí tu diseño con el grupo.
 
 ## Cierre
 - ¿Qué formato elegiste y por qué?

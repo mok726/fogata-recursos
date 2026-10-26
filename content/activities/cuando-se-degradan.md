@@ -5,7 +5,7 @@ duration: "12 semanas (experimento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuando-se-degradan/"
 description: "Un experimento a largo plazo donde los jóvenes entierran diferentes materiales y observan su proceso de degradación, aprendiendo sobre biodegradabilidad y el impacto ambiental de los plásticos."
-summary: "Descubre cuánto tardan en degradarse los plásticos."
+summary: "Descubrí cuánto tardan en degradarse los plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

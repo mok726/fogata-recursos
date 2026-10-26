@@ -3,7 +3,7 @@ title: "Vigilancia en Casa"
 duration: "Proyecto de 1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/vigilancia-en-casa/"
-description: "Monitorea las actividades de tu hogar que afectan al suelo y crea una lista de control."
+description: "Monitoreá las actividades de tu hogar que afectan al suelo y creá una lista de control."
 summary: "Monitoreo de impacto ambiental en el hogar."
 
 author:
@@ -145,22 +145,22 @@ rama_rovers:
 # ¡Vigilancia en Casa!
 
 ## Resumen
-Monitorea las actividades de tu hogar que pueden tener repercusiones ambientales y crea una lista de control.
+Monitoreá las actividades de tu hogar que pueden tener repercusiones ambientales y creá una lista de control.
 
 ## Preparación
-- Prepara un cuaderno para tomar notas.
-- Revisa las actividades diarias de tu hogar.
+- Prepará un cuaderno para tomar notas.
+- Revisá las actividades diarias de tu hogar.
 
 ## Desarrollo
-1. **Monitoreo** (1 semana): Observa y anota actividades con impacto ambiental.
+1. **Monitoreo** (1 semana): Observá y anotá actividades con impacto ambiental.
 2. **Análisis** (15 min): ¿Cómo afectan al suelo?
-3. **Lista de control** (20 min): Crea recordatorios para la familia.
-4. **Reunión** (15 min): Comparte tus hallazgos con tu familia.
+3. **Lista de control** (20 min): Creá recordatorios para la familia.
+4. **Reunión** (15 min): Compartí tus hallazgos con tu familia.
 
 ## Cierre
 - ¿Qué actividades afectan al suelo?
-- ¿Qué cambios puedes hacer en tu hogar?
-- ¿Cómo te sientes al saber que estás ayudando?
+- ¿Qué cambios podés hacer en tu hogar?
+- ¿Cómo te sentís al saber que estás ayudando?
 
 ---
 ## Texto original completo de la actividad

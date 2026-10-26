@@ -4,7 +4,7 @@ title: "Paisajes en Peligro"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/paisajes-en-peligro/"
-description: "Crea un modelo de un paisaje agrícola con desastres naturales y soluciones para proteger los cultivos."
+description: "Creá un modelo de un paisaje agrícola con desastres naturales y soluciones para proteger los cultivos."
 summary: "Modelo de paisaje agrícola con desastres naturales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,18 +164,18 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Paisajes en Peligro
 
 ## Resumen
-Crea un modelo de un paisaje agrícola con desastres naturales y soluciones para proteger los cultivos.
+Creá un modelo de un paisaje agrícola con desastres naturales y soluciones para proteger los cultivos.
 
 ## Preparación
-1. Reúne plastilina o masilla para el modelo.
-2. Prepara palitos y papel para etiquetas.
-3. Piensa en desastres naturales que podrían dañar los cultivos.
+1. Reuní plastilina o masilla para el modelo.
+2. Prepará palitos y papel para etiquetas.
+3. Pensá en desastres naturales que podrían dañar los cultivos.
 
 ## Desarrollo
-1. **Diseño** (10 min): Diseña tu paisaje agrícola.
-2. **Modelado** (20 min): Construye el modelo con plastilina.
-3. **Desastres** (15 min): Agrega etiquetas con desastres naturales (inundaciones, sequías, etc.).
-4. **Soluciones** (15 min): Agrega soluciones creativas (riberas, sistemas de irrigación, etc.).
+1. **Diseño** (10 min): Diseñá tu paisaje agrícola.
+2. **Modelado** (20 min): Construí el modelo con plastilina.
+3. **Desastres** (15 min): Agregá etiquetas con desastres naturales (inundaciones, sequías, etc.).
+4. **Soluciones** (15 min): Agregá soluciones creativas (riberas, sistemas de irrigación, etc.).
 
 ## Cierre
 - ¿Qué desastres naturales afectan más a la agricultura?

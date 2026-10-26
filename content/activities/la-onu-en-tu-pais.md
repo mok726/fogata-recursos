@@ -5,7 +5,7 @@ duration: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-onu-en-tu-pais/"
 description: "Los participantes investigan proyectos relacionados con el agua apoyados por agencias de las Naciones Unidas en diferentes países y presentan sus hallazgos."
-summary: "Investiga proyectos de la ONU sobre agua."
+summary: "Investigá proyectos de la ONU sobre agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,20 +167,20 @@ translation_notice:
 Diferentes agencias de las Naciones Unidas apoyan proyectos relacionados con el agua en todo el mundo, abordando temas como la escasez de agua, las aguas transfronterizas y el desarrollo de capacidades. En esta actividad, los participantes investigan proyectos relacionados con el agua apoyados por agencias de la ONU en diferentes países y presentan sus hallazgos.
 
 ## Preparación
-1. Prepara acceso a Internet para la investigación.
-2. Divide a los participantes en equipos pequeños.
-3. Prepara los materiales para los pósters.
+1. Prepará acceso a Internet para la investigación.
+2. Dividí a los participantes en equipos pequeños.
+3. Prepará los materiales para los pósters.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a investigar diferentes proyectos relacionados con el agua que están siendo apoyados por diversas agencias de las Naciones Unidas.
+1. Explicá a tu grupo que van a investigar diferentes proyectos relacionados con el agua que están siendo apoyados por diversas agencias de las Naciones Unidas.
 2. Los proyectos van desde la escasez de agua, hasta las aguas transfronterizas y el desarrollo de capacidades.
 3. Pueden encontrar información en el Sistema de Información de Actividades de UN-Water (UNW-AIS): https://www.ais.unwater.org/ais/aiscm/activity.php
 
 ### Paso 2: Investigación
-4. Divide a los participantes en equipos pequeños y pide a cada equipo que seleccione un país.
-5. Explica que cada equipo tendrá que hacer una pequeña presentación sobre un proyecto de su elección.
+4. Dividí a los participantes en equipos pequeños y pedí a cada equipo que seleccione un país.
+5. Explicá que cada equipo tendrá que hacer una pequeña presentación sobre un proyecto de su elección.
 
 ### Paso 3: Preparación
 6. Da a los equipos tiempo suficiente para prepararse.
@@ -191,8 +191,8 @@ Diferentes agencias de las Naciones Unidas apoyan proyectos relacionados con el 
 ## Cierre
 - ¿Qué proyecto te gustó más? ¿Por qué?
 - ¿Qué beneficios traerá el proyecto a la comunidad?
-- ¿Qué tan importante crees que es el apoyo que estas agencias dan al país beneficiario?
-- ¿Puedes pensar en algún proyecto relacionado con el agua del que tu comunidad o país podría beneficiarse?
+- ¿Qué tan importante creés que es el apoyo que estas agencias dan al país beneficiario?
+- ¿Podés pensar en algún proyecto relacionado con el agua del que tu comunidad o país podría beneficiarse?
 
 ## Texto original completo de la actividad
 

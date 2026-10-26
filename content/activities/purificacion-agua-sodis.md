@@ -161,7 +161,7 @@ El método SODIS (Solar Water Disinfection) utiliza la energía del Sol para pur
 ## Seguridad
 - No tomes agua de fuentes naturales a menos que sepas que es seguro.
 - No bebas el agua hasta que haya completado el proceso de purificación.
-- Asegúrate de que la botella esté limpia.
+- Asegurate de que la botella esté limpia.
 
 ## Preparación
 1. Consigan una botella de PET transparente o de vidrio limpia.

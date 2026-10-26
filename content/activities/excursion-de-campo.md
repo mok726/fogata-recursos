@@ -4,7 +4,7 @@ title: "Excursión de campo"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo/"
-description: "Visita a una zona rural para explorar los vínculos entre las áreas urbanas y rurales y comprender su interdependencia."
+description: "Visitá a una zona rural para explorar los vínculos entre las áreas urbanas y rurales y comprender su interdependencia."
 summary: "Visitar una zona rural para entender los vínculos urbano-rurales."
 
 # ========== AUTORÍA Y FUENTES ==========

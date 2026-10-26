@@ -4,7 +4,7 @@ title: "Hablar sobre Tabús"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/hablar-sobre-tabus/"
-description: "Investiga alimentos prohibidos en diferentes religiones y culturas, y su impacto nutricional."
+description: "Investigá alimentos prohibidos en diferentes religiones y culturas, y su impacto nutricional."
 summary: "Investigación sobre tabús alimenticios."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -117,7 +117,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -163,18 +163,18 @@ rama_rovers:
 # Hablar sobre Tabús
 
 ## Resumen
-Investiga alimentos prohibidos en diferentes religiones y culturas, y su impacto nutricional.
+Investigá alimentos prohibidos en diferentes religiones y culturas, y su impacto nutricional.
 
 ## Preparación
-1. Investiga alimentos prohibidos en diferentes religiones y culturas.
-2. Averigua por qué están prohibidos.
-3. Investiga si causan deficiencias nutricionales.
+1. Investigá alimentos prohibidos en diferentes religiones y culturas.
+2. Averiguá por qué están prohibidos.
+3. Investigá si causan deficiencias nutricionales.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga alimentos prohibidos y sus razones.
+1. **Investigación** (20 min): Investigá alimentos prohibidos y sus razones.
 2. **Análisis** (15 min): ¿Qué alimentos comen en su lugar?
 3. **Reflexión** (15 min): ¿Qué echarías más de menos si estuvieran prohibidos en tu cultura?
-4. **Debate** (15 min): Discute en grupo tus hallazgos.
+4. **Debate** (15 min): Discutí en grupo tus hallazgos.
 
 ## Cierre
 - ¿Qué alimentos están prohibidos en otras culturas?

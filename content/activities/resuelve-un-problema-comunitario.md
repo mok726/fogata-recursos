@@ -3,7 +3,7 @@ title: "Resuelve un problema comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/resuelve-un-problema-comunitario/"
-description: "Elige un problema en tu comunidad y haz algo para resolverlo."
+description: "Elegí un problema en tu comunidad y hacé algo para resolverlo."
 summary: "Acción comunitaria."
 
 author:
@@ -143,17 +143,17 @@ rama_rovers:
 # ¡Resuelve un problema comunitario!
 
 ## Resumen
-Elige un problema que consideres inaceptable en tu comunidad y haz algo para resolverlo.
+Elegí un problema que consideres inaceptable en tu comunidad y hacé algo para resolverlo.
 
 ## Preparación
-1. Identifica un problema en tu comunidad.
-2. Piensa en posibles soluciones.
-3. Reúne apoyo.
+1. Identificá un problema en tu comunidad.
+2. Pensá en posibles soluciones.
+3. Reuní apoyo.
 
 ## Desarrollo
 1. **Identificación** (15 min): ¿Qué problema elegir?
-2. **Planificación** (20 min): Diseña una solución.
-3. **Acción** (tiempo variable): Implementa la solución.
+2. **Planificación** (20 min): Diseñá una solución.
+3. **Acción** (tiempo variable): Implementá la solución.
 4. **Reflexión** (15 min): ¿Qué lograste?
 
 ## Cierre

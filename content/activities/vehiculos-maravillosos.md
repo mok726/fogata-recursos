@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Vehículos maravillosos!
 
 ## Resumen
-Como probablemente sabes, hoy en día tenemos autos que funcionan con electricidad, los cuales son mucho mejores para nuestro medio ambiente. Imagina tu propio auto que no daña o protege al medio ambiente.
+Como probablemente sabés, hoy en día tenemos autos que funcionan con electricidad, los cuales son mucho mejores para nuestro medio ambiente. Imaginá tu propio auto que no daña o protege al medio ambiente.
 
 ## Preparación
-1. Investiga sobre vehículos eléctricos y sostenibles.
-2. Prepara ejemplos de diseños innovadores.
-3. Organiza el espacio de trabajo.
+1. Investigá sobre vehículos eléctricos y sostenibles.
+2. Prepará ejemplos de diseños innovadores.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Imagina tu propio vehículo ecológico.
-2. Piensa: ¿Con qué tipo de combustible funciona?
-3. Piensa: ¿Dónde obtienes ese combustible?
-4. Piensa: ¿Qué otras características especiales tiene tu auto?
-5. Haz un dibujo de tu vehículo.
+1. Imaginá tu propio vehículo ecológico.
+2. Pensá: ¿Con qué tipo de combustible funciona?
+3. Pensá: ¿Dónde obtienes ese combustible?
+4. Pensá: ¿Qué otras características especiales tiene tu auto?
+5. Hacé un dibujo de tu vehículo.
 
 ## Cierre
-1. Comparte tus ideas con tu clase o grupo.
+1. Compartí tus ideas con tu clase o grupo.
 2. Discutan: ¿Qué vehículos son más amigables con el medio ambiente?
 3. Pregunta final: ¿Qué te gustaría ver en los vehículos del futuro?
 

@@ -39,7 +39,7 @@ materials:
   - Agua
   - Tela blanca o remera
   - Olla (para cocinar)
-  - Sal o vinagre (fijador)
+  - Salí o vinagre (fijador)
 tools:
   - Cuchillo
   - Tabla de cortar
@@ -172,24 +172,24 @@ rama_rovers:
 # ¡Tintes naturales!
 
 ## Resumen
-Antes de la invención de los colorantes químicos artificiales, la ropa y otras telas se teñían con tintes provenientes de raíces, nueces, bayas, flores y otras cosas que se encuentran en la naturaleza. Elabora tus propios colorantes naturales de materiales que encuentres en tu vecindario, tienda de comestibles o mercado.
+Antes de la invención de los colorantes químicos artificiales, la ropa y otras telas se teñían con tintes provenientes de raíces, nueces, bayas, flores y otras cosas que se encuentran en la naturaleza. Elaborá tus propios colorantes naturales de materiales que encuentres en tu vecindario, tienda de comestibles o mercado.
 
 ## Preparación
-1. Reúne materiales vegetales para los tintes.
-2. Prepara la tela o remera para teñir.
-3. Organiza el espacio de trabajo.
+1. Reuní materiales vegetales para los tintes.
+2. Prepará la tela o remera para teñir.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Recolecta materiales naturales para los tintes.
-2. Prepara los tintes cociendo los materiales en agua.
-3. Añade un fijador (sal o vinagre).
-4. Tiñe la remera o pañuelo.
-5. Deja secar.
+1. Recolectá materiales naturales para los tintes.
+2. Prepará los tintes cociendo los materiales en agua.
+3. Añadí un fijador (sal o vinagre).
+4. Teñí la remera o pañuelo.
+5. Dejá secar.
 6. **Seguridad**: evita cualquier planta venenosa y no pruebes los tintes. La olla caliente la maneja un adulto.
 
 ## Cierre
-1. Comparte tu trabajo con el grupo.
-2. Reflexiona: ¿Qué plantas usaste?
+1. Compartí tu trabajo con el grupo.
+2. Reflexioná: ¿Qué plantas usaste?
 3. Pregunta final: ¿Cómo podemos usar tintes naturales hoy?
 
 ## Texto original completo de la actividad

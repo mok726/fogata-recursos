@@ -5,7 +5,7 @@ duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodegradable-o-no/"
 description: "Experimento práctico para descubrir qué objetos son biodegradables y cuáles no, enterrándolos en el suelo durante dos semanas."
-summary: "Descubre qué materiales se descomponen naturalmente."
+summary: "Descubrí qué materiales se descomponen naturalmente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -170,17 +170,17 @@ translation_notice:
 # ¡Biodegradable o no!
 
 ## Resumen
-Realiza un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Entierra diferentes materiales en el suelo durante dos semanas y observa qué sucede con cada uno.
+Realizá un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Enterrá diferentes materiales en el suelo durante dos semanas y observá qué sucede con cada uno.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Reúne los objetos para el experimento.
-3. Elige un lugar en el jardín o patio donde puedas enterrar los objetos.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Reuní los objetos para el experimento.
+3. Elegí un lugar en el jardín o patio donde puedas enterrar los objetos.
 
 ## Desarrollo
 
 ### Parte I
-Reúne varios objetos como:
+Reuní varios objetos como:
 - Plato o envase de telgopor (Styrofoam)
 - Bolsa de plástico de supermercado
 - Cartón
@@ -190,13 +190,13 @@ Reúne varios objetos como:
 - Corazón de manzana
 
 ### Parte II
-Cava pequeños agujeros en la tierra (con supervisión de un adulto). Entierra cada objeto por separado y etiqueta cada lugar para saber qué hay enterrado ahí.
+Cavá pequeños agujeros en la tierra (con supervisión de un adulto). Enterrá cada objeto por separado y etiqueta cada lugar para saber qué hay enterrado ahí.
 
 ### Parte III
-Espera **dos semanas**. Durante este tiempo, revisa el área periódicamente.
+Esperá **dos semanas**. Durante este tiempo, revisá el área periódicamente.
 
 ### Parte IV
-Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examínalas.
+Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examinalas.
 
 **Preguntas para reflexionar:**
 - ¿Qué objetos se descompusieron más?
@@ -207,7 +207,7 @@ Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examínalas.
 ## Cierre
 1. ¿Qué material te sorprendió más por su capacidad de descomposición?
 2. ¿Por qué es un problema que los plásticos no sean biodegradables?
-3. ¿Qué alternativas a los plásticos no biodegradables conoces?
+3. ¿Qué alternativas a los plásticos no biodegradables conocés?
 
 ## Texto original completo de la actividad
 

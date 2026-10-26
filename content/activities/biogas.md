@@ -168,23 +168,23 @@ rama_rovers:
 # ¡Biogás!
 
 ## Resumen
-Luego de morir, las plantas y los animales proveen alimento para criaturas minúsculas llamadas microorganismos. Aunque los microorganismos son muy pequeños para poder observarlos directamente, puedes obtener pistas sobre su presencia cuando elaboras biogás.
+Luego de morir, las plantas y los animales proveen alimento para criaturas minúsculas llamadas microorganismos. Aunque los microorganismos son muy pequeños para poder observarlos directamente, podés obtener pistas sobre su presencia cuando elaborás biogás.
 
 ## Preparación
-1. Reúne materiales: botella plástica, globo, materia orgánica.
-2. Coloca la materia orgánica dentro de la botella.
-3. Extiende un globo desinflado sobre la apertura de la botella.
+1. Reuní materiales: botella plástica, globo, materia orgánica.
+2. Colocá la materia orgánica dentro de la botella.
+3. Extendé un globo desinflado sobre la apertura de la botella.
 
 ## Desarrollo
 1. Con la ayuda de un adulto, coloca la materia orgánica en descomposición dentro de la botella.
-2. Coloca el globo sobre la apertura.
-3. Ubica la botella cerca a una fuente de calor o bajo el sol.
-4. Observa el globo durante los próximos cinco a diez días.
-5. Registra lo que sucede.
+2. Colocá el globo sobre la apertura.
+3. Ubicá la botella cerca a una fuente de calor o bajo el sol.
+4. Observá el globo durante los próximos cinco a diez días.
+5. Registrá lo que sucede.
 
 ## Cierre
-1. Reflexiona: ¿Por qué sucede esto?
-2. Piensa: ¿Qué pasaría si los microorganismos no existiesen?
+1. Reflexioná: ¿Por qué sucede esto?
+2. Pensá: ¿Qué pasaría si los microorganismos no existiesen?
 3. Pregunta final: ¿Cómo pueden los microorganismos ayudar a resolver problemas energéticos?
 
 ## Texto original completo de la actividad

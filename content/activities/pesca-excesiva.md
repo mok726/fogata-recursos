@@ -3,7 +3,7 @@ title: "Pesca Excesiva"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pesca-excesiva/"
-description: "Investiga cómo ha cambiado la pesca a lo largo de los años y escribe un artículo periodístico."
+description: "Investigá cómo ha cambiado la pesca a lo largo de los años y escribí un artículo periodístico."
 summary: "Investigación sobre la pesca excesiva."
 
 author:
@@ -149,18 +149,18 @@ rama_rovers:
 # ¡Pesca Excesiva!
 
 ## Resumen
-Investiga cómo ha cambiado la pesca a lo largo de los años, entrevista a pescadores y escribe un artículo periodístico sobre tus hallazgos.
+Investigá cómo ha cambiado la pesca a lo largo de los años, entrevista a pescadores y escribí un artículo periodístico sobre tus hallazgos.
 
 ## Preparación
-1. Identifica pescadores para entrevistar.
-2. Prepara preguntas sobre cambios en la pesca.
-3. Reúne materiales para tomar notas.
+1. Identificá pescadores para entrevistar.
+2. Prepará preguntas sobre cambios en la pesca.
+3. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca datos y cifras sobre cambios en la pesca.
-2. **Entrevista** (20 min): Realiza una entrevista a un pescador (o varios).
-3. **Análisis** (10 min): Compara lo que te contaron con la investigación.
-4. **Escritura** (15 min): Escribe un artículo periodístico.
+1. **Investigación** (15 min): Buscá datos y cifras sobre cambios en la pesca.
+2. **Entrevista** (20 min): Realizá una entrevista a un pescador (o varios).
+3. **Análisis** (10 min): Compará lo que te contaron con la investigación.
+4. **Escritura** (15 min): Escribí un artículo periodístico.
 
 ## Cierre
 - ¿Cómo ha cambiado la pesca a lo largo de los años?

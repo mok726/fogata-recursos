@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprende a Comprar"
+title: "Aprendé a Comprar"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/aprende-a-comprar/"
-description: "Ayuda a tu familia con la compra eligiendo alimentos frescos, de temporada y sostenibles."
-summary: "Compra sostenible y saludable."
+description: "Ayudá a tu familia con la compra eligiendo alimentos frescos, de temporada y sostenibles."
+summary: "Comprá sostenible y saludable."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -164,25 +164,25 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# Aprende a Comprar
+# Aprendé a Comprar
 
 ## Resumen
-Ayuda a tu familia con la compra eligiendo alimentos frescos, de temporada y sostenibles.
+Ayudá a tu familia con la compra eligiendo alimentos frescos, de temporada y sostenibles.
 
 ## Preparación
-1. Prepara una lista de la compra con tu familia.
-2. Piensa en qué alimentos son de temporada.
-3. Asegura la supervisión de un adulto.
+1. Prepará una lista de la compra con tu familia.
+2. Pensá en qué alimentos son de temporada.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
 1. **Planificación** (15 min): Planea la compra con tu familia.
-2. **Visita** (30 min): Ve al supermercado o mercado.
-3. **Elección** (15 min): Elige alimentos frescos, de temporada y con menos envases.
-4. **Reflexión** (10 min): Comparte lo aprendido con el grupo.
+2. **Visita** (30 min): Andá al supermercado o mercado.
+3. **Elección** (15 min): Elegí alimentos frescos, de temporada y con menos envases.
+4. **Reflexión** (10 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué alimentos de temporada encontraste?
-- ¿Cómo puedes reducir el impacto ambiental de tu compra?
+- ¿Cómo podés reducir el impacto ambiental de tu compra?
 - ¿Qué compromiso adquieres para comprar de manera más sostenible?
 
 ---

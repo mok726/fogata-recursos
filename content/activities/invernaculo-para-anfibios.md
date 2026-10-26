@@ -166,22 +166,22 @@ rama_rovers:
 # ¡Invernáculo para anfibios!
 
 ## Resumen
-Construye un invernáculo para anfibios (un cobijo donde los animales hibernan). No te olvides de que los anfibios requieren ambientes húmedos, así que el invernáculo debe estar situado cerca del agua. Observa los animales que llegan.
+Construí un invernáculo para anfibios (un cobijo donde los animales hibernan). No te olvides de que los anfibios requieren ambientes húmedos, así que el invernáculo debe estar situado cerca del agua. Observá los animales que llegan.
 
 ## Preparación
-1. Identifica un lugar adecuado cerca del agua.
-2. Reúne materiales de construcción.
-3. Investiga sobre anfibios locales.
+1. Identificá un lugar adecuado cerca del agua.
+2. Reuní materiales de construcción.
+3. Investigá sobre anfibios locales.
 
 ## Desarrollo
-1. Construye el invernáculo siguiendo las instrucciones.
-2. Asegúrate de que esté cerca del agua.
-3. Observa los animales que llegan.
-4. Registra tus observaciones.
+1. Construí el invernáculo siguiendo las instrucciones.
+2. Asegurate de que esté cerca del agua.
+3. Observá los animales que llegan.
+4. Registrá tus observaciones.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué anfibios visitaron el invernáculo?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué anfibios visitaron el invernáculo?
 3. Pregunta final: ¿Cómo podemos proteger a los anfibios?
 
 ## Texto original completo de la actividad

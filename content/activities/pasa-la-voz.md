@@ -1,9 +1,9 @@
 ---
-title: "Pasa la Voz"
+title: "Pasá la Voz"
 duration: "Proyecto de evento"
 layout: "layouts/activity.njk"
 permalink: "/activities/pasa-la-voz/"
-description: "Organiza un evento para concienciar sobre el agua o recaudar fondos para proyectos hídricos."
+description: "Organizá un evento para concienciar sobre el agua o recaudar fondos para proyectos hídricos."
 summary: "Evento de concienciación sobre el agua."
 
 author:
@@ -149,21 +149,21 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Pasa la Voz!
+# ¡Pasá la Voz!
 
 ## Resumen
-Organiza un evento para concienciar sobre el agua o recaudar fondos para proyectos de acceso al agua limpia.
+Organizá un evento para concienciar sobre el agua o recaudar fondos para proyectos de acceso al agua limpia.
 
 ## Preparación
-1. Busca acciones internacionales como el Día Mundial del Agua o el Proyecto Grifo de UNICEF.
-2. Elige un tipo de evento.
-3. Consigue materiales y promociona el evento.
+1. Buscá acciones internacionales como el Día Mundial del Agua o el Proyecto Grifo de UNICEF.
+2. Elegí un tipo de evento.
+3. Conseguí materiales y promocioná el evento.
 
 ## Desarrollo
-1. **Planificación** (30 min): Define el evento y sus actividades.
-2. **Preparación** (30 min): Prepara materiales y promociona.
-3. **Evento** (2-4 horas): Lleva a cabo el evento.
-4. **Evaluación** (15 min): Reflexiona sobre lo que funcionó.
+1. **Planificación** (30 min): Definí el evento y sus actividades.
+2. **Preparación** (30 min): Prepará materiales y promocioná.
+3. **Evento** (2-4 horas): Llevá a cabo el evento.
+4. **Evaluación** (15 min): Reflexioná sobre lo que funcionó.
 
 ## Cierre
 - ¿Cómo respondió la comunidad?

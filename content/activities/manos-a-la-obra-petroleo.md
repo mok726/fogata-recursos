@@ -5,7 +5,7 @@ duration: "50 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/manos-a-la-obra-petroleo/"
 description: "Los participantes experimentan los efectos del petróleo en el agua y en diferentes materiales, comprendiendo el impacto de los derrames de petróleo en el medio ambiente."
-summary: "Experimenta los efectos del petróleo en el agua."
+summary: "Experimentá los efectos del petróleo en el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -177,25 +177,25 @@ translation_notice:
 En los últimos años, nuestro mundo ha enfrentado la destrucción de hábitats y la contaminación ambiental. Cada vez más criaturas están siendo amenazadas por diferentes actividades que los humanos desarrollan cada día. En el pasado reciente, los derrames de petróleo han causado grandes problemas a diferentes animales y plantas. Un hecho preocupante es que actualmente casi el 90 por ciento del petróleo en el océano proviene de descargas más pequeñas de petroleros, especialmente cuando se limpian. Se estima que más de un millón de toneladas de petróleo se derraman en el océano cada año. En esta actividad, los participantes experimentan los efectos del petróleo en el agua y en diferentes materiales.
 
 ## Preparación
-1. Mezcla témpera negra con aceite vegetal para hacer petróleo crudo simulado.
-2. Coloca agua en dos recipientes y vierte el aceite en uno de ellos.
-3. Prepara los materiales para sumergir: piel, plumas, hojas, arena, piedritas, conchas, madera.
+1. Mezclá témpera negra con aceite vegetal para hacer petróleo crudo simulado.
+2. Colocá agua en dos recipientes y verté el aceite en uno de ellos.
+3. Prepará los materiales para sumergir: piel, plumas, hojas, arena, piedritas, conchas, madera.
 
 ## Desarrollo
 
 ### Paso 1: Experiencia sensorial
-1. Explica a tu grupo que van a observar y describir el aceite y el agua, y diferentes materiales introducidos en ellos.
-2. Usa témpera negra y aceite vegetal para hacer petróleo crudo simulado.
-3. Coloca agua en los dos recipientes y vierte el aceite en uno de los recipientes.
-4. Pide a los participantes que coloquen su mano derecha solo dentro del recipiente con agua y su mano izquierda solo dentro del recipiente con agua y aceite. Pide a cada participante que coloque una mano en cada recipiente y que las mueva para ver cómo se siente.
-5. Pídeles que describan cada recipiente usando solo palabras; enuméralos bajo los encabezados apropiados: "aceite y agua" o "agua".
+1. Explicá a tu grupo que van a observar y describir el aceite y el agua, y diferentes materiales introducidos en ellos.
+2. Usá témpera negra y aceite vegetal para hacer petróleo crudo simulado.
+3. Colocá agua en los dos recipientes y verté el aceite en uno de los recipientes.
+4. Pedí a los participantes que coloquen su mano derecha solo dentro del recipiente con agua y su mano izquierda solo dentro del recipiente con agua y aceite. Pedí a cada participante que coloque una mano en cada recipiente y que las mueva para ver cómo se siente.
+5. Pediles que describan cada recipiente usando solo palabras; enumeralos bajo los encabezados apropiados: "aceite y agua" o "agua".
 
 ### Paso 2: Prueba de materiales
-6. Divide a los participantes en grupos pequeños y entrega a cada uno algunos de los siguientes elementos para sumergir en ambos recipientes: primero en el recipiente con agua y luego en el recipiente con agua y aceite: piel, plumas, hojas, arena, piedritas, conchas y trozos de madera.
+6. Dividí a los participantes en grupos pequeños y entregá a cada uno algunos de los siguientes elementos para sumergir en ambos recipientes: primero en el recipiente con agua y luego en el recipiente con agua y aceite: piel, plumas, hojas, arena, piedritas, conchas y trozos de madera.
 7. Permite que los participantes investiguen los cambios que ocurren en la textura de estos materiales.
-8. Pide a cada equipo que describa, compare y contraste cómo se sienten los elementos en los dos recipientes usando la lista de palabras que crearon anteriormente.
+8. Pedí a cada equipo que describa, compare y contraste cómo se sienten los elementos en los dos recipientes usando la lista de palabras que crearon anteriormente.
 
-## ¡Asegúrate de limpiar cuando hayas terminado!
+## ¡Asegurate de limpiar cuando hayas terminado!
 
 ## Cierre
 - ¿Cómo cambió el agua después de añadir el aceite?

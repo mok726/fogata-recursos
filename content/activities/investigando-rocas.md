@@ -3,7 +3,7 @@ title: "Investigando Rocas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigando-rocas/"
-description: "Recolecta y estudia rocas para aprender sobre el material parental del suelo."
+description: "Recolectá y estudiá rocas para aprender sobre el material parental del suelo."
 summary: "Investigación de rocas y suelos."
 
 author:
@@ -150,17 +150,17 @@ rama_rovers:
 # ¡Investigando Rocas!
 
 ## Resumen
-Recolecta y estudia rocas de diferentes lugares para aprender sobre el material parental del suelo.
+Recolectá y estudiá rocas de diferentes lugares para aprender sobre el material parental del suelo.
 
 ## Preparación
-1. Recolecta rocas de tu jardín, parque o áreas cercanas.
-2. Prepara materiales para estudiar las rocas.
+1. Recolectá rocas de tu jardín, parque o áreas cercanas.
+2. Prepará materiales para estudiar las rocas.
 3. Si es posible, invita a un geólogo o experto.
 
 ## Desarrollo
-1. **Recolección** (15 min): Recolecta rocas de diferentes lugares.
-2. **Estudio** (20 min): Examina formas, colores y tamaños.
-3. **Investigación** (15 min): Identifica las rocas con recursos en línea.
+1. **Recolección** (15 min): Recolectá rocas de diferentes lugares.
+2. **Estudio** (20 min): Examiná formas, colores y tamaños.
+3. **Investigación** (15 min): Identificá las rocas con recursos en línea.
 4. **Discusión** (10 min): ¿Cómo se formaron? ¿Qué suelos forman?
 
 ## Cierre

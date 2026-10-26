@@ -163,16 +163,16 @@ rama_rovers:
 Caminen por medio de un campo con hierbas altas usando pantalones que recolecten muchas semillas. Al final de su paseo, cámbiense los pantalones e inspeccionen las semillas que recolectaron en los que llevaban antes.
 
 ## Preparación
-1. Identifica un campo con hierbas altas.
-2. Prepara diferentes tipos de pantalones o telas.
-3. Pide autorización al agricultor si es necesario.
+1. Identificá un campo con hierbas altas.
+2. Prepará diferentes tipos de pantalones o telas.
+3. Pedí autorización al agricultor si es necesario.
 
 ## Desarrollo
 1. Caminen con pantalones que recolecten semillas.
 2. Al final, inspeccionen las semillas recolectadas.
-3. Registra: ¿Qué tan grandes son las semillas?
-4. Registra: ¿Algunas semillas se encuentran sólo a ciertas alturas?
-5. Reflexiona: ¿Cómo se dispersan estas semillas en la naturaleza?
+3. Registrá: ¿Qué tan grandes son las semillas?
+4. Registrá: ¿Algunas semillas se encuentran sólo a ciertas alturas?
+5. Reflexioná: ¿Cómo se dispersan estas semillas en la naturaleza?
 6. Opcional: usen diferentes telas para imitar a diferentes mamíferos.
 
 ## Cierre

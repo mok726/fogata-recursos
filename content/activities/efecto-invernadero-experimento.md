@@ -4,8 +4,8 @@ title: "Efecto invernadero"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/efecto-invernadero-experimento/"
-description: "Realiza un experimento simple con termómetros y un frasco para ver cómo funciona el efecto invernadero."
-summary: "Experimenta el efecto invernadero con tus propias manos."
+description: "Realizá un experimento simple con termómetros y un frasco para ver cómo funciona el efecto invernadero."
+summary: "Experimentá el efecto invernadero con tus propias manos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -168,18 +168,18 @@ translation_notice:
 # ¡Efecto invernadero!
 
 ## Resumen
-¿Tienes curiosidad sobre cómo funciona realmente el efecto invernadero? Puedes hacer un experimento simple para ver sus efectos con dos termómetros y un frasco.
+¿Tenés curiosidad sobre cómo funciona realmente el efecto invernadero? Podés hacer un experimento simple para ver sus efectos con dos termómetros y un frasco.
 
 ## Preparación
-1. Lee la información sobre el efecto invernadero.
-2. Reúne los materiales: 2 termómetros, 1 frasco transparente, un reloj.
-3. Busca un lugar soleado o una lámpara de calor.
+1. Leé la información sobre el efecto invernadero.
+2. Reuní los materiales: 2 termómetros, 1 frasco transparente, un reloj.
+3. Buscá un lugar soleado o una lámpara de calor.
 
 ## Desarrollo
 
 ### Parte I - Preparar
-1. Coloca ambos termómetros en un área soleada.
-2. Cubre uno de los termómetros con el frasco boca abajo.
+1. Colocá ambos termómetros en un área soleada.
+2. Cubrí uno de los termómetros con el frasco boca abajo.
 
 ### Parte II - Observar
 Durante 10 minutos, registra la temperatura de ambos termómetros cada minuto:

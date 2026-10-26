@@ -4,7 +4,7 @@ title: "El Paisaje Sonoro del Bosque"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-paisaje-sonoro-del-bosque/"
-description: "Visita un bosque y graba sonidos bióticos y abióticos. Crea una mezcla y compártela con tu grupo."
+description: "Visitá un bosque y grabá sonidos bióticos y abióticos. Creá una mezcla y compártela con tu grupo."
 summary: "Grabación y mezcla de sonidos del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,18 +163,18 @@ rama_rovers:
 # El Paisaje Sonoro del Bosque
 
 ## Resumen
-Visita un bosque y graba sonidos bióticos (aves, insectos) y abióticos (agua, viento). Crea una mezcla y compártela con tu grupo.
+Visitá un bosque y grabá sonidos bióticos (aves, insectos) y abióticos (agua, viento). Creá una mezcla y compártela con tu grupo.
 
 ## Preparación
-1. Consigue una grabadora de audio o teléfono.
-2. Asegura la supervisión de un adulto.
-3. Visita un bosque para grabar sonidos.
+1. Conseguí una grabadora de audio o teléfono.
+2. Asegurá la supervisión de un adulto.
+3. Visitá un bosque para grabar sonidos.
 
 ## Desarrollo
-1. **Grabación** (30 min): Graba sonidos del bosque (aves, insectos, agua, viento, pasos).
-2. **Selección** (15 min): Selecciona los mejores sonidos grabados.
-3. **Mezcla** (20 min): Crea una mezcla de los sonidos.
-4. **Presentación** (15 min): Comparte la mezcla con tu grupo y pide que identifiquen los sonidos.
+1. **Grabación** (30 min): Grabá sonidos del bosque (aves, insectos, agua, viento, pasos).
+2. **Selección** (15 min): Seleccioná los mejores sonidos grabados.
+3. **Mezcla** (20 min): Creá una mezcla de los sonidos.
+4. **Presentación** (15 min): Compartí la mezcla con tu grupo y pedí que identifiquen los sonidos.
 
 ## Cierre
 - ¿Qué sonidos del bosque te sorprendieron más?

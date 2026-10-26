@@ -3,7 +3,7 @@ title: "Almuerzo libre de basura"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/almuerzo-libre-de-basura/"
-description: "Lleva un almuerzo sin generar basura a la escuela."
+description: "Llevá un almuerzo sin generar basura a la escuela."
 summary: "Almuerzo sin residuos."
 
 author:
@@ -147,22 +147,22 @@ rama_rovers:
 # ¡Almuerzo libre de basura!
 
 ## Resumen
-Lleva un almuerzo sin generar basura a la escuela.
+Llevá un almuerzo sin generar basura a la escuela.
 
 ## Preparación
-- Consigue una lonchera reusable.
-- Prepara recipientes reutilizables.
-- Lleva tu propio jarro y cubiertos.
+- Conseguí una lonchera reusable.
+- Prepará recipientes reutilizables.
+- Llevá tu propio jarro y cubiertos.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara el almuerzo sin residuos.
-2. **Acción** (continua): Usa la lonchera y recipientes reutilizables.
+1. **Preparación** (15 min): Prepará el almuerzo sin residuos.
+2. **Acción** (continua): Usá la lonchera y recipientes reutilizables.
 3. **Reflexión** (10 min): ¿Cuánta basura ahorraste?
 
 ## Cierre
 - ¿Cuánta basura lograste evitar?
-- ¿Cómo te sientes al usar recipientes reutilizables?
-- ¿Qué más puedes hacer para reducir residuos?
+- ¿Cómo te sentís al usar recipientes reutilizables?
+- ¿Qué más podés hacer para reducir residuos?
 
 ---
 ## Texto original completo de la actividad

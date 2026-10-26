@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-propia-cuenca/"
 description: "Los participantes crean un modelo de cuenca hidrográfica para entender el movimiento natural del agua a través de ella."
-summary: "Construye tu propia cuenca hidrográfica."
+summary: "Construí tu propia cuenca hidrográfica."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -165,28 +165,28 @@ translation_notice:
 Una cuenca hidrográfica es toda el área de tierra que envía agua de lluvia a un cuerpo de agua común, como un río, un arroyo, un lago o el océano. Una cuenca puede ser tan pequeña como el agua que drena en un charco en el patio trasero o tan grande como la cuenca del Océano Pacífico. En esta actividad, los participantes crean un modelo de cuenca hidrográfica para entender el movimiento natural del agua.
 
 ## Preparación
-1. Consigue un recipiente grande (metal o plástico).
-2. Reúne rocas de diferentes tamaños.
-3. Prepara papel aluminio, agua y colorante alimentario.
+1. Conseguí un recipiente grande (metal o plástico).
+2. Reuní rocas de diferentes tamaños.
+3. Prepará papel aluminio, agua y colorante alimentario.
 
 ## Desarrollo
 
 ### Parte I - Construcción
-1. Pide a los participantes que usen el recipiente para crear el modelo de cuenca. Diles que hagan colinas y montañas usando las rocas y el papel aluminio; pueden simular dos cadenas montañosas paralelas.
-2. Cubre todo el recipiente con papel aluminio para representar la tierra. Debe moldearse para que algunas partes sean planas mientras que otras tengan protuberancias y partes irregulares. El papel aluminio debe inclinarse hacia abajo para que haya un área al final del recipiente donde el agua pueda acumularse.
+1. Pedí a los participantes que usen el recipiente para crear el modelo de cuenca. Deciles que hagan colinas y montañas usando las rocas y el papel aluminio; pueden simular dos cadenas montañosas paralelas.
+2. Cubrí todo el recipiente con papel aluminio para representar la tierra. Debe moldearse para que algunas partes sean planas mientras que otras tengan protuberancias y partes irregulares. El papel aluminio debe inclinarse hacia abajo para que haya un área al final del recipiente donde el agua pueda acumularse.
 
 ### Parte II - Simulación de lluvia
-3. Pide a los participantes que se turnen para crear lluvia vertiendo suavemente agua cerca de la pendiente superior de la tierra. Observen cómo el agua avanza a través de la tierra y se acumula en la parte inferior para mostrar cómo el agua se filtra hasta el nivel más bajo. Pueden aumentar la pendiente del recipiente colocando un libro debajo del extremo superior.
+3. Pedí a los participantes que se turnen para crear lluvia vertiendo suavemente agua cerca de la pendiente superior de la tierra. Observen cómo el agua avanza a través de la tierra y se acumula en la parte inferior para mostrar cómo el agua se filtra hasta el nivel más bajo. Pueden aumentar la pendiente del recipiente colocando un libro debajo del extremo superior.
 
 ### Parte III - Contaminación
-4. Explica que van a considerar cómo un cuerpo de agua puede ser contaminado por diferentes materiales que se encuentran en la tierra. El colorante alimentario representa la contaminación. Coloca un poco en diferentes lugares de la tierra y pide a los participantes que adivinen qué pasará si vuelve a llover.
-5. Pide a un participante que vierta agua nuevamente para que el grupo observe el flujo. Explica que esto se llama escorrentía: el agua que fluye de la tierra a un cuerpo de agua y puede llevar contaminantes con ella. Señala que el colorante alimentario puede fluir hasta el cuerpo de agua al final.
+4. Explicá que van a considerar cómo un cuerpo de agua puede ser contaminado por diferentes materiales que se encuentran en la tierra. El colorante alimentario representa la contaminación. Colocá un poco en diferentes lugares de la tierra y pedí a los participantes que adivinen qué pasará si vuelve a llover.
+5. Pedí a un participante que vierta agua nuevamente para que el grupo observe el flujo. Explicá que esto se llama escorrentía: el agua que fluye de la tierra a un cuerpo de agua y puede llevar contaminantes con ella. Señalá que el colorante alimentario puede fluir hasta el cuerpo de agua al final.
 
 ## Cierre
 - ¿Cómo apoya una cuenca hidrográfica a las personas, animales y plantas?
 - ¿Cuáles son los efectos de la contaminación en una cuenca hidrográfica?
 - ¿Cómo podría esta contaminación afectar el medio ambiente?
-- ¿Puedes nombrar algunas formas de reducir los efectos negativos de las personas en su cuenca hidrográfica local?
+- ¿Podés nombrar algunas formas de reducir los efectos negativos de las personas en su cuenca hidrográfica local?
 
 ## Texto original completo de la actividad
 

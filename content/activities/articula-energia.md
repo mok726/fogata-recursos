@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/articula-energia/"
 description: "Juego de definiciones donde explicas una palabra relacionada con energía sin decirla, o la actúas con mímica."
-summary: "Adivina palabras de energía."
+summary: "Adiviná palabras de energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -159,21 +159,21 @@ translation_notice:
 # ¡Articula la energía!
 
 ## Resumen
-Crea un juego de definiciones con palabras relacionadas con la energía: "renovable", "limpia", "sostenible". Explica la palabra sin decirla, o actúa con mímica.
+Creá un juego de definiciones con palabras relacionadas con la energía: "renovable", "limpia", "sostenible". Explicá la palabra sin decirla, o actuá con mímica.
 
 ## Preparación
-1. Crea tarjetas con palabras de energía.
-2. Mezcla las tarjetas.
-3. Divide el grupo en equipos.
+1. Creá tarjetas con palabras de energía.
+2. Mezclá las tarjetas.
+3. Dividí el grupo en equipos.
 
 ## Desarrollo
 
 ### Parte I - Crear tarjetas
-Crea tarjetas con palabras relacionadas con la energía:
+Creá tarjetas con palabras relacionadas con la energía:
 
 **Ejemplos:**
 - Renovable
-- Limpia
+- Limpiá
 - Sostenible
 - Solar
 - Eólica
@@ -183,7 +183,7 @@ Crea tarjetas con palabras relacionadas con la energía:
 
 ### Parte II - Jugar
 1. Un jugador toma una tarjeta.
-2. Explica la palabra sin decirla ni decir "empieza con...".
+2. Explicá la palabra sin decirla ni decir "empieza con...".
 3. El resto del grupo adivina.
 
 ### Parte III - Mímica (opcional)

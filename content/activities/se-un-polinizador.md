@@ -178,7 +178,7 @@ Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ah
 ## Cierre
 1. Compartí tus resultados con el grupo.
 2. Reflexioná: ¿Te ayuda esto a apreciar el trabajo de los polinizadores?
-3. Pregunta final: ¿Qué aprendiste sobre la polinización al hacerlo tú mismo?
+3. Pregunta final: ¿Qué aprendiste sobre la polinización al hacerlo vos mismo?
 
 ## Texto original completo de la actividad
 

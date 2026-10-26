@@ -3,7 +3,7 @@ title: "Campamento amigable con el medio ambiente"
 duration: "Proyecto de campamento"
 layout: "layouts/activity.njk"
 permalink: "/activities/campamento-amigable-con-el-medio-ambiente/"
-description: "Organiza un campamento de verano amigable con el medio ambiente."
+description: "Organizá un campamento de verano amigable con el medio ambiente."
 summary: "Campamento ecológico."
 
 author:
@@ -143,17 +143,17 @@ rama_rovers:
 # ¡Campamento amigable con el medio ambiente!
 
 ## Resumen
-Organiza un campamento de verano amigable con el medio ambiente con comida local, reciclaje y limpieza de áreas naturales.
+Organizá un campamento de verano amigable con el medio ambiente con comida local, reciclaje y limpieza de áreas naturales.
 
 ## Preparación
-1. Elige la ubicación del campamento.
-2. Planifica actividades sostenibles.
-3. Prepara materiales.
+1. Elegí la ubicación del campamento.
+2. Planificá actividades sostenibles.
+3. Prepará materiales.
 
 ## Desarrollo
-1. **Planificación** (30 min): Diseña el campamento.
-2. **Preparación** (30 min): Prepara todo.
-3. **Campamento** (varios días): Lleva a cabo las actividades.
+1. **Planificación** (30 min): Diseñá el campamento.
+2. **Preparación** (30 min): Prepará todo.
+3. **Campamento** (varios días): Llevá a cabo las actividades.
 4. **Reflexión** (20 min): ¿Qué aprendiste?
 
 ## Cierre

@@ -3,7 +3,7 @@ title: "Hábitos Animales"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/habitos-animales/"
-description: "Observa cómo los animales interactúan con el suelo y presenta tus hallazgos."
+description: "Observá cómo los animales interactúan con el suelo y presentá tus hallazgos."
 summary: "Observación de animales y suelo."
 
 author:
@@ -149,18 +149,18 @@ rama_rovers:
 # ¡Hábitos Animales!
 
 ## Resumen
-Visita un zoológico, parque o granja para observar cómo los animales interactúan con el suelo.
+Visitá un zoológico, parque o granja para observar cómo los animales interactúan con el suelo.
 
 ## Preparación
-1. Organiza una visita a un zoológico, parque o granja.
-2. Prepara materiales para tomar notas.
-3. Prepara una cámara o video (opcional).
+1. Organizá una visita a un zoológico, parque o granja.
+2. Prepará materiales para tomar notas.
+3. Prepará una cámara o video (opcional).
 
 ## Desarrollo
-1. **Observación** (40 min): Observa a los animales y su interacción con el suelo.
-2. **Registro** (20 min): Toma notas y fotos o graba video.
+1. **Observación** (40 min): Observá a los animales y su interacción con el suelo.
+2. **Registro** (20 min): Tomá notas y fotos o grabá video.
 3. **Análisis** (15 min): ¿Cómo interactúan con el suelo?
-4. **Presentación** (15 min): Crea un documental o presenta dibujos.
+4. **Presentación** (15 min): Creá un documental o presentá dibujos.
 
 ## Cierre
 - ¿Cómo interactúan los animales con el suelo?

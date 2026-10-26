@@ -4,8 +4,8 @@ title: "Empuje del viento"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/empuje-del-viento/"
-description: "Observa cómo el viento ayuda a diferentes organismos, vuela una cometa y haz un molinillo para entender la energía del viento."
-summary: "Explora la fuerza del viento en la naturaleza."
+description: "Observá cómo el viento ayuda a diferentes organismos, volá una cometa y hacé un molinillo para entender la energía del viento."
+summary: "Explorá la fuerza del viento en la naturaleza."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,17 +166,17 @@ translation_notice:
 # ¡Empuje del viento!
 
 ## Resumen
-El viento es una forma de energía que ayuda a muchos organismos en la naturaleza. Observa cómo el viento mueve plantas, polen y animales, vuela una cometa y haz un molinillo para entender mejor la energía del viento.
+El viento es una forma de energía que ayuda a muchos organismos en la naturaleza. Observá cómo el viento mueve plantas, polen y animales, volá una cometa y hacé un molinillo para entender mejor la energía del viento.
 
 ## Preparación
-1. Lee la información sobre el viento en la sección de información de fondo.
-2. Prepara materiales para hacer un molinillo (si no tienes cometa).
-3. Busca un espacio abierto, lejos de cables eléctricos y personas.
+1. Leé la información sobre el viento en la sección de información de fondo.
+2. Prepará materiales para hacer un molinillo (si no tenés cometa).
+3. Buscá un espacio abierto, lejos de cables eléctricos y personas.
 
 ## Desarrollo
 
 ### Parte I - Observación
-Observa cómo el viento afecta a la naturaleza:
+Observá cómo el viento afecta a la naturaleza:
 
 **Preguntas para observar:**
 - ¿Ves polen u hojas moviéndose con el viento?
@@ -187,18 +187,18 @@ Observa cómo el viento afecta a la naturaleza:
 Si es posible, vuela una cometa con tu grupo en un día ventoso.
 
 **¡Seguridad primero!**
-- Vuela la cometa en un espacio abierto
+- Volá la cometa en un espacio abierto
 - Lejos de personas y cables eléctricos
 - Con supervisión de un adulto
 
 ### Parte III - Hacer un molinillo
-Haz un molinillo y observa cómo gira a diferentes velocidades según la fuerza del viento.
+Hacé un molinillo y observá cómo gira a diferentes velocidades según la fuerza del viento.
 
 **Instrucciones:** www.firstpalette.com/Craft_themes/Nature/pinwheel/pinwheel.html
 
 ### Parte IV - Experimentar con el viento
-- Corre en la misma dirección del viento
-- Corre contra el viento
+- Corré en la misma dirección del viento
+- Corré contra el viento
 - ¿Sentiste diferencia?
 
 ## Cierre

@@ -3,7 +3,7 @@ title: "Compartiendo Historias"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/compartiendo-historias/"
-description: "Comparte experiencias personales sobre desastres o lee historias sobre niños que los vivieron."
+description: "Compartí experiencias personales sobre desastres o leé historias sobre niños que los vivieron."
 summary: "Intercambio de experiencias sobre desastres."
 
 author:
@@ -115,7 +115,7 @@ category:
 skills:
   - Empatía
   - Comunicación
-  - Escucha activa
+  - Escuchá activa
 
 scout_values:
   - Hermandad
@@ -148,21 +148,21 @@ rama_rovers:
 # ¡Compartiendo Historias!
 
 ## Resumen
-Comparte tus experiencias personales con amenazas o desastres, o lee una historia sobre niños que los vivieron.
+Compartí tus experiencias personales con amenazas o desastres, o leé una historia sobre niños que los vivieron.
 
 ## Preparación
-- Piensa si has experimentado alguna amenaza o desastre.
-- Busca un libro sobre el tema si es necesario.
+- Pensá si has experimentado alguna amenaza o desastre.
+- Buscá un libro sobre el tema si es necesario.
 
 ## Desarrollo
-1. **Preparación** (5 min): Reflexiona sobre tu experiencia o lee la historia.
+1. **Preparación** (5 min): Reflexioná sobre tu experiencia o leé la historia.
 2. **Compartir** (30 min): Cada persona comparte su historia.
 3. **Reflexión** (10 min): Hablen sobre cómo se sintieron y cómo se recuperaron.
 
 ## Cierre
 - ¿Qué aprendiste al escuchar las historias?
 - ¿Cómo te sentiste al compartir tu experiencia?
-- ¿Qué puedes hacer para ayudar a otros en situaciones similares?
+- ¿Qué podés hacer para ayudar a otros en situaciones similares?
 
 ---
 ## Texto original completo de la actividad

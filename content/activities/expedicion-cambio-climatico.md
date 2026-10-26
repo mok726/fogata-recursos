@@ -5,7 +5,7 @@ duration: "1 hora 40 minutos (1h lectura + 40 min discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/expedicion-cambio-climatico/"
 description: "Los participantes exploran cómo el cambio climático afecta la disponibilidad de agua en todo el mundo a través de la lectura y discusión de un texto sobre sequías extremas."
-summary: "Explora el impacto del cambio climático en el agua."
+summary: "Explorá el impacto del cambio climático en el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -122,7 +122,7 @@ competencies:
   - Análisis de impacto
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
 category:
   - Cambio climático
@@ -171,23 +171,23 @@ translation_notice:
 Las temperaturas globales promedio han aumentado y las concentraciones de CO₂ han alcanzado niveles sin precedentes. El aumento de las temperaturas y las concentraciones de CO₂ traerán cambios disruptivos al clima. Los aumentos en la frecuencia y severidad de inundaciones y sequías ya están afectando a nuestro mundo. En esta actividad, los participantes exploran cómo el cambio climático afecta la disponibilidad de agua en todo el mundo a través de la lectura y discusión de un texto sobre sequías extremas en el Amazonas.
 
 ## Preparación
-1. Prepara copias del texto sobre sequías extremas para cada participante.
-2. Prepara la pizarra para la discusión.
+1. Prepará copias del texto sobre sequías extremas para cada participante.
+2. Prepará la pizarra para la discusión.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Comienza recordando a tu grupo qué es el cambio climático y cómo está afectando a nuestro medio ambiente y a sus personas debido al aumento de eventos climáticos extremos.
+1. Comenzá recordando a tu grupo qué es el cambio climático y cómo está afectando a nuestro medio ambiente y a sus personas debido al aumento de eventos climáticos extremos.
 
 ### Paso 2: Lectura del texto
-2. Pide a los participantes que lean el texto sobre **"Sequías Extremas en el Amazonas"** del Informe Planeta Vivo 2012 del World Wildlife Fund.
+2. Pedí a los participantes que lean el texto sobre **"Sequías Extremas en el Amazonas"** del Informe Planeta Vivo 2012 del World Wildlife Fund.
 3. El texto dará a los participantes una idea clara sobre las consecuencias del cambio climático y cómo se relaciona con el agua.
 
 ### Paso 3: Discusión grupal
-4. Anima una discusión grupal para que los participantes obtengan más ideas y opiniones sobre el tema.
+4. Animá una discusión grupal para que los participantes obtengan más ideas y opiniones sobre el tema.
 
 ### Paso 4: Ensayo (tarea)
-5. Explica que, como tarea, los participantes escribirán un ensayo basado en la siguiente afirmación: **"Los principales impactos del cambio climático en los humanos y el medio ambiente ocurren a través del agua."**
+5. Explicá que, como tarea, los participantes escribirán un ensayo basado en la siguiente afirmación: **"Los principales impactos del cambio climático en los humanos y el medio ambiente ocurren a través del agua."**
 6. En la próxima reunión, pide a cada participante que presente un resumen de las ideas principales que incluyó en su ensayo.
 
 ## Texto: Sequías Extremas en el Amazonas

@@ -117,7 +117,7 @@ competencies:
   - Investigación
   - Pensamiento crítico
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
   - Reflexión
 category:
@@ -160,20 +160,20 @@ rama_rovers:
 Se espera que el cambio climático aumente la propagación de varias enfermedades, incluyendo la malaria, la diarrea y la fiebre del dengue.
 
 ## Preparación
-1. Investiga sobre enfermedades relacionadas con el cambio climático.
-2. Prepara recursos y fuentes de información.
-3. Organiza el panel de discusión.
+1. Investigá sobre enfermedades relacionadas con el cambio climático.
+2. Prepará recursos y fuentes de información.
+3. Organizá el panel de discusión.
 
 ## Desarrollo
-1. Lee sobre las enfermedades que podrían propagarse debido al cambio climático y por qué.
-2. Investiga: ¿Qué sucede en estas enfermedades, cómo se propagan y quién se ve más afectado?
-3. Investiga: ¿En qué áreas prevalecen más?
-4. Investiga: ¿Estas enfermedades ya están en aumento en ciertos lugares?
-5. Investiga: ¿Cómo se puede afrontar este problema?
+1. Leé sobre las enfermedades que podrían propagarse debido al cambio climático y por qué.
+2. Investigá: ¿Qué sucede en estas enfermedades, cómo se propagan y quién se ve más afectado?
+3. Investigá: ¿En qué áreas prevalecen más?
+4. Investigá: ¿Estas enfermedades ya están en aumento en ciertos lugares?
+5. Investigá: ¿Cómo se puede afrontar este problema?
 
 ## Cierre
-1. Invita a tus amigos, familia y compañeros de clase a una noche de preguntas & respuestas.
-2. Tú y tu grupo formarán un panel y contestarán preguntas.
+1. Invitá a tus amigos, familia y compañeros de clase a una noche de preguntas & respuestas.
+2. Vos y tu grupo formarán un panel y contestarán preguntas.
 3. Pregunta final: ¿Cómo podemos protegernos de las enfermedades relacionadas con el clima?
 
 ## Texto original completo de la actividad

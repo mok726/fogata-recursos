@@ -4,8 +4,8 @@ title: "Cómo Pescan los Pescadores"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/como-pescan-los-pescadores/"
-description: "Organiza un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca."
-summary: "Debate sobre sostenibilidad pesquera."
+description: "Organizá un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca."
+summary: "Debatí sobre sostenibilidad pesquera."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -122,7 +122,7 @@ competencies:
   - Comunicación
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
   - Sensibilización
 
@@ -169,12 +169,12 @@ rama_rovers:
 # Cómo Pescan los Pescadores
 
 ## Resumen
-Organiza un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca.
+Organizá un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca.
 
 ## Preparación
-1. Investiga diferentes equipos y prácticas de pesca.
-2. Asigna a cada persona un tipo de equipo de pesca para investigar.
-3. Prepara argumentos para el debate.
+1. Investigá diferentes equipos y prácticas de pesca.
+2. Asigná a cada persona un tipo de equipo de pesca para investigar.
+3. Prepará argumentos para el debate.
 
 ## Desarrollo
 1. **Investigación** (20 min): Cada persona investiga su tipo de equipo de pesca.

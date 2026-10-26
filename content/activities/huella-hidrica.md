@@ -165,19 +165,19 @@ rama_rovers:
 El agua limpia es vital para nuestra salud; dependemos del agua para muchas, si no todas, nuestras actividades diarias. Los patrones cambiantes del clima ya están amenazando a nuestros lagos y ríos.
 
 ## Preparación
-1. Investiga sobre el concepto de huella hídrica.
-2. Prepara una tabla para registrar el consumo de agua.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre el concepto de huella hídrica.
+2. Prepará una tabla para registrar el consumo de agua.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Usa una calculadora de agua para descubrir cuánta agua usan tú y tu familia en tu hogar.
-2. Registra los resultados.
-3. Reflexiona: ¿Crees que están gastando mucha agua?
-4. Piensa: ¿Qué puedes hacer para disminuir tu consumo de agua?
+1. Usá una calculadora de agua para descubrir cuánta agua usan vos y tu familia en tu hogar.
+2. Registrá los resultados.
+3. Reflexioná: ¿Creés que están gastando mucha agua?
+4. Pensá: ¿Qué podés hacer para disminuir tu consumo de agua?
 
 ## Cierre
-1. Comparte con tu familia las ventajas de ahorrar agua.
-2. Presenta tus hallazgos al grupo.
+1. Compartí con tu familia las ventajas de ahorrar agua.
+2. Presentá tus hallazgos al grupo.
 3. Pregunta final: ¿Qué cambios harás para reducir tu huella hídrica?
 
 ## Texto original completo de la actividad

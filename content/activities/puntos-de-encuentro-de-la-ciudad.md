@@ -119,7 +119,7 @@ competencies:
   - Pensamiento crítico
   - Comunicación
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Dinámica de grupos
 category:

@@ -177,26 +177,26 @@ rama_rovers:
 # ¡Invierte en soluciones!
 
 ## Resumen
-Investiga algunas iniciativas que se han puesto en marcha para combatir el cambio climático y elige una que te inspire.
+Investigá algunas iniciativas que se han puesto en marcha para combatir el cambio climático y elegí una que te inspire.
 
 ## Preparación
-1. Investiga iniciativas climáticas en los sitios Web proporcionados.
-2. Elige una iniciativa que te inspire.
-3. Identifica un objetivo de recaudación de fondos.
+1. Investigá iniciativas climáticas en los sitios Web proporcionados.
+2. Elegí una iniciativa que te inspire.
+3. Identificá un objetivo de recaudación de fondos.
 
 ## Desarrollo
-1. Investiga diferentes iniciativas climáticas.
-2. Elige una que te inspire.
-3. Identifica un objetivo de recaudación de fondos.
-4. Establece un plan para recaudar dinero en tu comunidad local:
+1. Investigá diferentes iniciativas climáticas.
+2. Elegí una que te inspire.
+3. Identificá un objetivo de recaudación de fondos.
+4. Establecé un plan para recaudar dinero en tu comunidad local:
    - Venta de pasteles
    - 'Carrera por el clima'
    - Feria con tema climático
-5. Explica a las personas que estás alentando a donar qué es lo que su dinero ayudará a alcanzar.
+5. Explicá a las personas que estás alentando a donar qué es lo que su dinero ayudará a alcanzar.
 
 ## Cierre
-1. Reflexiona sobre el proceso de recaudación.
-2. Comparte tu experiencia con el grupo.
+1. Reflexioná sobre el proceso de recaudación.
+2. Compartí tu experiencia con el grupo.
 3. Pregunta final: ¿Cómo te sentiste al contribuir a una solución climática?
 
 ## Texto original completo de la actividad

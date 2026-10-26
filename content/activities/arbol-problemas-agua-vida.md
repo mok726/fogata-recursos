@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/arbol-problemas-agua-vida/"
 description: "Los participantes identifican las causas y consecuencias de un problema relacionado con el agua a través de la creación de un árbol de problemas, visualizando las interconexiones entre causas y efectos."
-summary: "Crea un árbol de problemas del agua."
+summary: "Creá un árbol de problemas del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -121,7 +121,7 @@ competencies:
   - Conciencia social
 activity_type:
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 category:
   - Problemas del agua
   - Pensamiento sistémico
@@ -169,33 +169,33 @@ translation_notice:
 Los problemas relacionados con el agua tienen múltiples causas y consecuencias que se interconectan. Para entender un problema en profundidad, es útil visualizar sus causas (las raíces) y sus consecuencias (las ramas). En esta actividad, los participantes identifican las causas y consecuencias de un problema relacionado con el agua a través de la creación de un árbol de problemas.
 
 ## Preparación
-1. Prepara la pizarra o un papel grande para dibujar el árbol.
-2. Piensa en un problema relacionado con el agua que sea relevante para tu comunidad.
+1. Prepará la pizarra o un papel grande para dibujar el árbol.
+2. Pensá en un problema relacionado con el agua que sea relevante para tu comunidad.
 
 ## Desarrollo
 
 ### Paso 1: Dibujo del árbol
-1. Explica a tu grupo que van a crear un **Árbol de Problemas del Agua y la Vida**.
-2. Comienza dibujando un árbol, con sus raíces y ramas, en la pizarra.
+1. Explicá a tu grupo que van a crear un **Árbol de Problemas del Agua y la Vida**.
+2. Comenzá dibujando un árbol, con sus raíces y ramas, en la pizarra.
 
 ### Paso 2: Identificación del problema
-3. Escribe el problema en el tronco del árbol.
+3. Escribí el problema en el tronco del árbol.
 
 *Ejemplo: "Nuestros humedales fueron destruidos y ahora estamos siendo afectados por inundaciones".*
 
 ### Paso 3: Identificación de causas (raíces)
-4. Identifica las principales causas del problema y escríbelas en las raíces del árbol, debajo del problema.
-5. Pregunta a los participantes: ¿Qué factores contribuyeron a este problema?
+4. Identificá las principales causas del problema y escribilas en las raíces del árbol, debajo del problema.
+5. Preguntá a los participantes: ¿Qué factores contribuyeron a este problema?
 
 ### Paso 4: Identificación de consecuencias (ramas)
-6. Piensa en las consecuencias del problema y escríbelas en las ramas del árbol, encima del problema.
-7. Pregunta a los participantes: ¿Qué efectos tiene este problema en las personas y el medio ambiente?
+6. Pensá en las consecuencias del problema y escribilas en las ramas del árbol, encima del problema.
+7. Preguntá a los participantes: ¿Qué efectos tiene este problema en las personas y el medio ambiente?
 
 ### Paso 5: Profundización
 8. Pueden añadir capas adicionales (raíces más pequeñas y ramas más pequeñas, u hojas) identificando las cuestiones subyacentes que crean las causas, y los efectos indirectos o "en cadena".
 
 ### Paso 6: Ampliación (opcional)
-9. Tu grupo podría añadir árboles vecinos, edificios o animales viviendo en el árbol para representar otros problemas o cuestiones relacionadas. Asegúrate de indicar la interdependencia entre todas las cosas.
+9. Tu grupo podría añadir árboles vecinos, edificios o animales viviendo en el árbol para representar otros problemas o cuestiones relacionadas. Asegurate de indicar la interdependencia entre todas las cosas.
 
 ## Ejemplo de Árbol de Problemas
 
@@ -227,7 +227,7 @@ Los problemas relacionados con el agua tienen múltiples causas y consecuencias 
 - ¿Cuáles son las principales causas de estos problemas?
 - ¿Cuáles son las consecuencias más graves?
 - ¿Qué soluciones se podrían implementar para abordar las causas?
-- ¿Cómo puedes contribuir a resolver estos problemas?
+- ¿Cómo podés contribuir a resolver estos problemas?
 
 ## Texto original completo de la actividad
 

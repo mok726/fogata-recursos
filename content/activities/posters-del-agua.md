@@ -5,7 +5,7 @@ duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/posters-del-agua/"
 description: "Los participantes crean pósters educativos sobre el agua para compartir con su escuela, grupo o comunidad, inspirándose en los pósters educativos del Servicio Geológico de Estados Unidos."
-summary: "Crea un póster educativo sobre el agua."
+summary: "Creá un póster educativo sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -174,20 +174,20 @@ translation_notice:
 En esta actividad, los participantes crean pósters educativos sobre el agua para compartir con su escuela, grupo o comunidad, inspirándose en los pósters educativos del Servicio Geológico de Estados Unidos (USGS). Los pósters pueden cubrir temas como cuencas hidrográficas, aguas subterráneas, uso del agua, contaminación y conservación.
 
 ## Preparación
-1. Prepara los materiales de arte.
-2. Prepara acceso a Internet para ver ejemplos de pósters educativos.
+1. Prepará los materiales de arte.
+2. Prepará acceso a Internet para ver ejemplos de pósters educativos.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Recuerda a tu grupo todos los diferentes temas relacionados con el agua que han aprendido: cuencas hidrográficas, aguas residuales, aguas subterráneas, uso del agua, etc.
-2. Muestra algunos ejemplos de pósters educativos sobre el agua del Servicio Geológico de Estados Unidos: https://water.usgs.gov/outreach/OutReach.html
+1. Recordá a tu grupo todos los diferentes temas relacionados con el agua que han aprendido: cuencas hidrográficas, aguas residuales, aguas subterráneas, uso del agua, etc.
+2. Mostrá algunos ejemplos de pósters educativos sobre el agua del Servicio Geológico de Estados Unidos: https://water.usgs.gov/outreach/OutReach.html
 
 ### Paso 2: Elección del tema
-3. Pide a los participantes que elijan un tema para su póster, o pueden combinar varios temas para hacer un póster completo.
+3. Pedí a los participantes que elijan un tema para su póster, o pueden combinar varios temas para hacer un póster completo.
 
 ### Paso 3: Creación del póster
-4. Pide a los participantes que diseñen su póster de manera atractiva y educativa, incluyendo ilustraciones, gráficos y texto informativo.
+4. Pedí a los participantes que diseñen su póster de manera atractiva y educativa, incluyendo ilustraciones, gráficos y texto informativo.
 
 ### Paso 4: Exposición
 5. Una vez que terminen, pueden colocar el póster en la biblioteca de la escuela o lugar de reunión, o en la biblioteca local, para compartir información con los miembros de la comunidad.
@@ -208,7 +208,7 @@ En esta actividad, los participantes crean pósters educativos sobre el agua par
 ## Cierre
 - ¿Por qué es importante aprender sobre el agua y los beneficios que brinda a todos los seres vivos?
 - ¿Cuáles son algunos de los problemas que enfrentan hoy nuestros cuerpos de agua? ¿Por qué ha sucedido esto?
-- ¿Qué puedes hacer para contrarrestar los efectos negativos de la escasez de agua?
+- ¿Qué podés hacer para contrarrestar los efectos negativos de la escasez de agua?
 
 ## Texto original completo de la actividad
 

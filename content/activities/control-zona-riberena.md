@@ -5,7 +5,7 @@ duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/control-zona-riberena/"
 description: "Los participantes aprenden sobre las zonas ribereñas y su función en el mantenimiento de ecosistemas acuáticos saludables a través de juegos y actividades prácticas."
-summary: "Aprende sobre las zonas ribereñas."
+summary: "Aprendé sobre las zonas ribereñas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Visita a un arroyo o río con zona ribereña (si es posible)
+  - Visitá a un arroyo o río con zona ribereña (si es posible)
   - 4 conos de tráfico naranjas
   - 1 bandera marrón por participante
   - Cartulinas
@@ -175,15 +175,15 @@ translation_notice:
 La zona ribereña es el terreno adyacente a un arroyo o río. Una zona ribereña saludable y funcional se caracteriza por una diversidad de plantas, incluyendo árboles, vegetación del sotobosque y especies herbáceas. La presencia de una zona ribereña amplia asegura un ecosistema de arroyo vigoroso de varias maneras y es el mejor método conocido para reducir la amenaza de la contaminación no puntual. En esta actividad, los participantes aprenden sobre las zonas ribereñas a través de juegos y actividades prácticas.
 
 ## Preparación
-1. Organiza una visita a un arroyo o río con zona ribereña (si es posible).
-2. Prepara los materiales para los juegos.
-3. Escribe las tarjetas de escenarios para el juego de funciones.
+1. Organizá una visita a un arroyo o río con zona ribereña (si es posible).
+2. Prepará los materiales para los juegos.
+3. Escribí las tarjetas de escenarios para el juego de funciones.
 
 ## Desarrollo
 
 ### Paso 1: Visita a la zona ribereña
-1. Explica a tu grupo que van a visitar un arroyo que tiene una zona de amortiguamiento ribereño bien vegetada y amplia.
-2. Pide a los participantes que señalen ejemplos de componentes saludables de la zona ribereña:
+1. Explicá a tu grupo que van a visitar un arroyo que tiene una zona de amortiguamiento ribereño bien vegetada y amplia.
+2. Pedí a los participantes que señalen ejemplos de componentes saludables de la zona ribereña:
    - Hábitat para animales
    - Raíces de árboles que mantienen unidas las orillas del arroyo
    - Pastos nativos con sistemas radiculares profundos para absorber la escorrentía
@@ -191,25 +191,25 @@ La zona ribereña es el terreno adyacente a un arroyo o río. Una zona ribereña
    - Árboles y otras plantas que han caído al agua para proporcionar alimento a las criaturas acuáticas
 
 ### Paso 2: Juego de la lluvia
-3. Pide a los participantes que imaginen el área durante una fuerte tormenta. Haz las siguientes preguntas para probar y reforzar su conocimiento:
+3. Pedí a los participantes que imaginen el área durante una fuerte tormenta. Hacé las siguientes preguntas para probar y reforzar su conocimiento:
    - ¿De qué dirección vendría el agua? (cuesta arriba)
    - ¿Cuál es la palabra que describe la tierra que drena hacia este arroyo? (Cuenca)
-4. Prepara el juego "Control de la Zona Ribereña". Coloca dos conos de tráfico naranjas aproximadamente a 5 metros de distancia en un campo de juego (representan el borde del arroyo). Coloca otros dos conos a unos 8 metros de distancia, ubicados aproximadamente a 10 metros más abajo del campo (representan un sitio de construcción con tierra suelta y sin dispositivos de control de erosión).
+4. Prepará el juego "Control de la Zona Ribereña". Colocá dos conos de tráfico naranjas aproximadamente a 5 metros de distancia en un campo de juego (representan el borde del arroyo). Colocá otros dos conos a unos 8 metros de distancia, ubicados aproximadamente a 10 metros más abajo del campo (representan un sitio de construcción con tierra suelta y sin dispositivos de control de erosión).
 
 ### Paso 3: Juego de "Gotas de lluvia"
-5. Explica a los participantes que se van a convertir en una zona de amortiguamiento ribereño recién plantada en un día lluvioso.
-6. Selecciona a dos participantes para que sean plantones de árboles. Se colocarán en algún lugar cerca de la orilla del arroyo, entre los dos conos. Su trabajo será detener las gotas de lluvia antes de que puedan transportar contaminación no puntual al arroyo.
-7. El resto de los participantes serán gotas de lluvia que transportan sedimentos hacia el arroyo. Entrega a cada uno una bandera marrón para que la meta en su ropa y los marque como gotas de lluvia/partículas de suelo.
+5. Explicá a los participantes que se van a convertir en una zona de amortiguamiento ribereño recién plantada en un día lluvioso.
+6. Seleccioná a dos participantes para que sean plantones de árboles. Se colocarán en algún lugar cerca de la orilla del arroyo, entre los dos conos. Su trabajo será detener las gotas de lluvia antes de que puedan transportar contaminación no puntual al arroyo.
+7. El resto de los participantes serán gotas de lluvia que transportan sedimentos hacia el arroyo. Entregá a cada uno una bandera marrón para que la meta en su ropa y los marque como gotas de lluvia/partículas de suelo.
 8. Las gotas de lluvia/partículas de suelo deben alinearse en el sitio de construcción. Cuando el líder grite "¡Ya!", las gotas de lluvia deben correr hacia la orilla del arroyo e intentar cruzar la línea (deben correr entre los conos). Los árboles deben intentar tocar a tantas gotas de lluvia como sea posible manteniendo un pie "plantado" en el suelo en todo momento. Cuando capturen una gota de lluvia, los árboles deben tomar las banderas marrones. Cronometra esta "tormenta" durante diez segundos (ajusta el tiempo según la edad y capacidad del grupo). Grita "¡Stop!" cuando se acabe el tiempo.
-9. Cuenta y registra el número de gotas de lluvia que fueron interceptadas por los árboles durante el período de diez segundos. Explica que los nutrientes transportados por las gotas de lluvia han sido capturados por los sistemas radiculares de los árboles, y ahora estos han sido utilizados para ayudar a los árboles a crecer y reproducirse. Los participantes que fueron tocados ahora se convertirán en árboles (a medida que la zona ribereña se vuelve más amplia y más vegetada).
-10. Repite el ejercicio con los árboles adicionales protegiendo el arroyo. Cuenta las gotas de lluvia capturadas nuevamente. ¿Hubo más capturas? (Más contaminantes no puntuales pueden filtrarse con zonas de amortiguamiento ribereño más amplias y más vegetadas).
+9. Contá y registrá el número de gotas de lluvia que fueron interceptadas por los árboles durante el período de diez segundos. Explicá que los nutrientes transportados por las gotas de lluvia han sido capturados por los sistemas radiculares de los árboles, y ahora estos han sido utilizados para ayudar a los árboles a crecer y reproducirse. Los participantes que fueron tocados ahora se convertirán en árboles (a medida que la zona ribereña se vuelve más amplia y más vegetada).
+10. Repetí el ejercicio con los árboles adicionales protegiendo el arroyo. Contá las gotas de lluvia capturadas nuevamente. ¿Hubo más capturas? (Más contaminantes no puntuales pueden filtrarse con zonas de amortiguamiento ribereño más amplias y más vegetadas).
 11. Variación: pide a los árboles que se enlacen y se paren directamente frente a la orilla del arroyo para protegerla. Esto simula el entrelazamiento de raíces en la orilla del arroyo.
 12. Al final del juego, explica que la zona de amortiguamiento ribereño tiene diferentes funciones que ayudan a mantener un medio ambiente saludable, por ejemplo, filtrar contaminantes no puntuales como sedimentos. Cuanto más amplia y más vegetada sea la zona de amortiguamiento, más efectiva será.
 
 ### Paso 4: Juego de funciones de la zona ribereña
-13. Explica a tu grupo que van a jugar otro juego, el "Juego de Funciones de la Zona Ribereña". Para ello, coloca cuatro cajas de zapatos etiquetadas con los letreros "Alimento", "Filtro", "Almacenamiento de Nutrientes" y "Hábitat".
-14. Divide al grupo en dos equipos iguales. Entrega a cada participante una tarjeta de escenario y dales unos minutos para que las lean.
-15. Pide a los participantes que formen dos filas a unos 10 metros de distancia de las cajas. A la señal, el primer jugador de cada fila correrá hacia la caja de zapatos etiquetada con la función de la zona ribereña que coincida con el escenario en su tarjeta. Después de depositar la tarjeta en la caja correspondiente, deben regresar para tocar a la siguiente persona en la fila.
+13. Explicá a tu grupo que van a jugar otro juego, el "Juego de Funciones de la Zona Ribereña". Para ello, colocá cuatro cajas de zapatos etiquetadas con los letreros "Alimento", "Filtro", "Almacenamiento de Nutrientes" y "Hábitat".
+14. Dividí al grupo en dos equipos iguales. Entregá a cada participante una tarjeta de escenario y dales unos minutos para que las lean.
+15. Pedí a los participantes que formen dos filas a unos 10 metros de distancia de las cajas. A la señal, el primer jugador de cada fila correrá hacia la caja de zapatos etiquetada con la función de la zona ribereña que coincida con el escenario en su tarjeta. Después de depositar la tarjeta en la caja correspondiente, deben regresar para tocar a la siguiente persona en la fila.
 16. Después de que se hayan depositado todas las tarjetas, vacía una caja de zapatos a la vez, lee cada tarjeta en voz alta y discute con el grupo. Si se cometió un error, simplemente discute la respuesta correcta, pero mantén anónimo al que cometió el error.
 
 ## Funciones de la Zona Ribereña
@@ -232,8 +232,8 @@ La zona ribereña es el terreno adyacente a un arroyo o río. Una zona ribereña
 | Muchas especies de aves encuentran hogares en el bosque ribereño. | **Hábitat** |
 
 ## Cierre
-- ¿Puedes describir formas en que la actividad humana puede cambiar la condición del arroyo? Asegúrate de mencionar actividades positivas (plantar zonas de amortiguamiento ribereño) así como perjudiciales (fertilizar en exceso el césped, perturbar el suelo y dejarlo desprotegido).
-- ¿Qué puedes hacer (o no hacer) en tu vida cotidiana para ayudar a proteger tus arroyos y ríos?
+- ¿Podés describir formas en que la actividad humana puede cambiar la condición del arroyo? Asegurate de mencionar actividades positivas (plantar zonas de amortiguamiento ribereño) así como perjudiciales (fertilizar en exceso el césped, perturbar el suelo y dejarlo desprotegido).
+- ¿Qué podés hacer (o no hacer) en tu vida cotidiana para ayudar a proteger tus arroyos y ríos?
 
 ## Texto original completo de la actividad
 

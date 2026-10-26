@@ -3,7 +3,7 @@ title: "Sobre-embalaje"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sobre-embalaje/"
-description: "Identifica productos con envolturas innecesarias en tu cocina."
+description: "Identificá productos con envolturas innecesarias en tu cocina."
 summary: "Reducción de embalajes innecesarios."
 
 author:
@@ -145,22 +145,22 @@ rama_rovers:
 # ¡Sobre-embalaje!
 
 ## Resumen
-Identifica productos con envolturas innecesarias y encuentra alternativas con menos embalaje.
+Identificá productos con envolturas innecesarias y encontrá alternativas con menos embalaje.
 
 ## Preparación
-- Revisa los productos en tu cocina.
-- Prepara papel y lapiceras para anotar.
+- Revisá los productos en tu cocina.
+- Prepará papel y lapiceras para anotar.
 
 ## Desarrollo
-1. **Identificación** (15 min): Busca productos sobre-embalados.
-2. **Alternativas** (15 min): Encuentra productos con menos envoltura.
+1. **Identificación** (15 min): Buscá productos sobre-embalados.
+2. **Alternativas** (15 min): Encontrá productos con menos envoltura.
 3. **Reflexión** (10 min): ¿Cómo reducir la basura de embalajes?
-4. **Acción** (5 min): Compra productos con menos envoltura.
+4. **Acción** (5 min): Comprá productos con menos envoltura.
 
 ## Cierre
 - ¿Qué productos estaban sobre-embalados?
 - ¿Qué alternativas encontraste?
-- ¿Cómo te sientes al reducir el embalaje?
+- ¿Cómo te sentís al reducir el embalaje?
 
 ---
 ## Texto original completo de la actividad

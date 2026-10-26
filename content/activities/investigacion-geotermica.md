@@ -4,8 +4,8 @@ title: "Investigación geotérmica"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-geotermica/"
-description: "Investiga la energía geotérmica y evalúa su viabilidad en tu comunidad: ¿podría usarse para calefacción o electricidad?"
-summary: "Descubre si tu comunidad podría usar energía geotérmica."
+description: "Investigá la energía geotérmica y evaluá su viabilidad en tu comunidad: ¿podría usarse para calefacción o electricidad?"
+summary: "Descubrí si tu comunidad podría usar energía geotérmica."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -157,17 +157,17 @@ translation_notice:
 # ¡Investigación geotérmica!
 
 ## Resumen
-La energía geotérmica es el calor que está debajo de la Tierra. Puede usarse para calentar hogares y producir electricidad. Investiga si tu comunidad podría usar energía geotérmica.
+La energía geotérmica es el calor que está debajo de la Tierra. Puede usarse para calentar hogares y producir electricidad. Investigá si tu comunidad podría usar energía geotérmica.
 
 ## Preparación
-1. Lee la información sobre energía geotérmica.
-2. Investiga si hay fuentes geotérmicas en tu área.
-3. Prepara materiales para tu informe.
+1. Leé la información sobre energía geotérmica.
+2. Investigá si hay fuentes geotérmicas en tu área.
+3. Prepará materiales para tu informe.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga sobre la energía geotérmica:
+Investigá sobre la energía geotérmica:
 
 **Preguntas guía:**
 - ¿Qué es la energía geotérmica?
@@ -176,7 +176,7 @@ Investiga sobre la energía geotérmica:
 - ¿Hay fuentes geotérmicas en tu comunidad?
 
 ### Parte II - Evaluación
-Evalúa si tu comunidad podría usar energía geotérmica:
+Evaluá si tu comunidad podría usar energía geotérmica:
 - ¿Hay aguas termales o géiseres?
 - ¿Hay actividad volcánica?
 - ¿Qué tan profundo habría que perforar?
@@ -185,7 +185,7 @@ Evalúa si tu comunidad podría usar energía geotérmica:
 ¿Podría tu comunidad ahorrar electricidad y dinero usando un sistema geotérmico?
 
 ### Parte IV - Presentación
-Presenta tus hallazgos al grupo.
+Presentá tus hallazgos al grupo.
 
 ## Cierre
 1. ¿Es viable la energía geotérmica en tu comunidad?

@@ -159,22 +159,22 @@ rama_rovers:
 # ¡Plantas medicinales!
 
 ## Resumen
-Durante miles de años la biodiversidad ha provisto a los seres humanos de medicinas y remedios naturales. Averigua cuáles plantas de tu comunidad tienen efectos medicinales.
+Durante miles de años la biodiversidad ha provisto a los seres humanos de medicinas y remedios naturales. Averiguá cuáles plantas de tu comunidad tienen efectos medicinales.
 
 ## Preparación
-1. Investiga sobre plantas medicinales.
-2. Identifica expertos locales.
-3. Prepara materiales para registrar.
+1. Investigá sobre plantas medicinales.
+2. Identificá expertos locales.
+3. Prepará materiales para registrar.
 
 ## Desarrollo
-1. Investiga plantas medicinales en tu comunidad.
-2. Aprende sobre sus usos tradicionales.
-3. Registra nombres y propiedades.
+1. Investigá plantas medicinales en tu comunidad.
+2. Aprendé sobre sus usos tradicionales.
+3. Registrá nombres y propiedades.
 4. Precauciones: no tomes ni consumas ninguna planta. Algunas venenosas se parecen a las medicinales, y también puede ser la parte equivocada de la planta.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre la importancia de las plantas medicinales.
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre la importancia de las plantas medicinales.
 3. Pregunta final: ¿Cómo podemos preservar el conocimiento sobre plantas medicinales?
 
 ## Texto original completo de la actividad

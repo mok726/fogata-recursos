@@ -4,7 +4,7 @@ title: "Alzar el Vuelo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alzar-el-vuelo/"
-description: "Investiga una especie de ave forestal que migra a través de continentes. Compara su vida en diferentes bosques y comparte tus hallazgos."
+description: "Investigá una especie de ave forestal que migra a través de continentes. Compará su vida en diferentes bosques y compartí tus hallazgos."
 summary: "Investigación sobre aves migratorias forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -119,7 +119,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Aves
@@ -162,18 +162,18 @@ rama_rovers:
 # Alzar el Vuelo
 
 ## Resumen
-Investiga una especie de ave forestal que migra a través de continentes. Compara su vida en diferentes bosques y comparte tus hallazgos.
+Investigá una especie de ave forestal que migra a través de continentes. Compará su vida en diferentes bosques y compartí tus hallazgos.
 
 ## Preparación
-1. Elige una especie de ave forestal migratoria.
-2. Investiga sus hábitats, alimentación, depredadores y comportamiento social.
-3. Busca fotografías para mostrar.
+1. Elegí una especie de ave forestal migratoria.
+2. Investigá sus hábitats, alimentación, depredadores y comportamiento social.
+3. Buscá fotografías para mostrar.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga la especie elegida y su migración.
-2. **Análisis** (15 min): Compara alimentación, depredadores, patógenos y comportamiento social en cada bosque.
-3. **Reflexión** (10 min): Piensa cómo las aves lidian con esta variedad.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Investigá la especie elegida y su migración.
+2. **Análisis** (15 min): Compará alimentación, depredadores, patógenos y comportamiento social en cada bosque.
+3. **Reflexión** (10 min): Pensá cómo las aves lidian con esta variedad.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre las aves migratorias?

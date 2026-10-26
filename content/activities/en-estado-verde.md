@@ -161,23 +161,23 @@ rama_rovers:
 # ¡En estado verde!
 
 ## Resumen
-Haz una Fiesta de Energía Eficiente en tu comunidad que demuestre formas de ahorrar energía.
+Hacé una Fiesta de Energía Eficiente en tu comunidad que demuestre formas de ahorrar energía.
 
 ## Preparación
-1. Planifica la fiesta con antelación.
-2. Reúne materiales reutilizables.
-3. Prepara alimentos de bajo consumo energético.
-4. Prepara tarjetas explicativas.
+1. Planificá la fiesta con antelación.
+2. Reuní materiales reutilizables.
+3. Prepará alimentos de bajo consumo energético.
+4. Prepará tarjetas explicativas.
 
 ## Desarrollo
-1. Usa alimentos que consumen menos energía.
-2. Usa vasos y platos que se pueden lavar y ser reutilizados.
-3. Usa bombillas de luz eficientes energéticamente.
-4. Crea tarjetas que expliquen cómo cada elemento contribuye a mantener los objetivos de energía sostenible.
+1. Usá alimentos que consumen menos energía.
+2. Usá vasos y platos que se pueden lavar y ser reutilizados.
+3. Usá bombillas de luz eficientes energéticamente.
+4. Creá tarjetas que expliquen cómo cada elemento contribuye a mantener los objetivos de energía sostenible.
 
 ## Cierre
-1. Disfruta de la fiesta con tu comunidad.
-2. Reflexiona: ¿Cómo se sintió tener una fiesta sostenible?
+1. Disfrutá de la fiesta con tu comunidad.
+2. Reflexioná: ¿Cómo se sintió tener una fiesta sostenible?
 3. Pregunta final: ¿Qué cambiarías para futuras fiestas sostenibles?
 
 ## Texto original completo de la actividad

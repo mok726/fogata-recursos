@@ -179,7 +179,7 @@ rama_rovers:
 ## Cierre
 1. Compartí tu diseño con el grupo.
 2. Reflexioná sobre el impacto potencial.
-3. Pregunta final: ¿Cómo crees que tu iniciativa podría beneficiar a tu ciudad?
+3. Pregunta final: ¿Cómo creés que tu iniciativa podría beneficiar a tu ciudad?
 
 ## Texto original completo de la actividad
 

@@ -5,7 +5,7 @@ duration: "1 hora (más tiempo para la tarea)"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-personal-del-agua/"
 description: "Los participantes realizan una auditoría personal de su uso diario del agua, calculando cuántos litros consumen y reflexionando sobre la importancia de conservar este recurso."
-summary: "Calcula tu consumo personal de agua."
+summary: "Calculá tu consumo personal de agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,49 +166,49 @@ translation_notice:
 Usamos agua de diversas maneras todos los días. La vida sin agua no solo sería inconveniente, sería imposible. A pesar del papel del agua como el recurso más importante, a menudo no está disponible en muchas áreas del mundo y se desperdicia en lugares donde existe. La distribución del agua, especialmente el agua dulce o potable, es muy desigual en nuestro planeta, e incluso dentro de cada país. En esta actividad, los participantes realizan una auditoría personal de su uso diario del agua.
 
 ## Preparación
-1. Haz copias de la Auditoría de Agua para cada participante.
-2. Prepara la pizarra para registrar los resultados.
+1. Hacé copias de la Auditoría de Agua para cada participante.
+2. Prepará la pizarra para registrar los resultados.
 
 ## Desarrollo
 
 ### Paso 1: Explicación de la tarea
-1. Explica a tu grupo que realizarán una Auditoría Personal del Agua que les dará una idea de su propio uso diario de agua y será una indicación de cuánta agua se usa diariamente.
-2. Diles que completen la auditoría como tarea para casa y que la traigan a la próxima reunión.
+1. Explicá a tu grupo que realizarán una Auditoría Personal del Agua que les dará una idea de su propio uso diario de agua y será una indicación de cuánta agua se usa diariamente.
+2. Deciles que completen la auditoría como tarea para casa y que la traigan a la próxima reunión.
 
 ### Paso 2: Análisis de resultados
 3. En la próxima reunión, comienza enumerando los totales de uso de agua de cada participante (según lo calculado en su tarea previa de Auditoría Personal del Agua) en la pizarra. Honrar a aquellos que usaron la menor cantidad de agua es una excelente manera de alentar a otros a comenzar a ahorrar agua.
-4. Guía a tu grupo para determinar el promedio de uso diario de agua de la clase (uso doméstico personal y uso diario total de agua).
+4. Guiá a tu grupo para determinar el promedio de uso diario de agua de la clase (uso doméstico personal y uso diario total de agua).
 
 ### Paso 3: Discusión guiada
-5. Luego, guía una discusión sobre los resultados de la Auditoría Personal del Agua, el uso del agua y la disponibilidad. Usa las siguientes preguntas como guía:
+5. Luego, guía una discusión sobre los resultados de la Auditoría Personal del Agua, el uso del agua y la disponibilidad. Usá las siguientes preguntas como guía:
 
 a) ¿Te sorprendió tu uso personal diario de agua? ¿Imaginaste que usabas más o menos agua cada día? ¿Cómo difiere tu total personal del promedio de la clase?
 b) ¿Cuánta de tu agua total fue realmente usada y cuánta fue desperdiciada?
-c) ¿Cuánta más agua usas de la que realmente sale de la canilla? ¿Cómo crees que se usa esta agua? (Recuerda a los participantes que una gran mayoría del agua se usa en la agricultura y la industria. Por ejemplo, se necesitan casi 9 500 litros de agua para producir una libra de carne de res y 2 660 litros para una camisa de algodón, y casi todos sus alimentos y bebidas requirieron agua para procesarse).
+c) ¿Cuánta más agua usás de la que realmente sale de la canilla? ¿Cómo creés que se usa esta agua? (Recuerda a los participantes que una gran mayoría del agua se usa en la agricultura y la industria. Por ejemplo, se necesitan casi 9 500 litros de agua para producir una libra de carne de res y 2 660 litros para una camisa de algodón, y casi todos sus alimentos y bebidas requirieron agua para procesarse).
 d) ¿Qué factores afectan los totales calculados hoy?
 e) ¿Cómo se vería tu auditoría si la hicieras un día de semana versus un día de fin de semana?
-f) ¿Qué tal en verano versus invierno? (Pídeles que piensen en jugar con un aspersor o llenar una pileta, regar un jardín o patio, etc.)
-g) ¿Cómo crees que se compara tu uso de agua con otras personas en tu país? (Considera urbano vs. rural, niveles de pobreza, etc.)
-h) ¿Cómo crees que se compara tu uso de agua con personas en otros países?
+f) ¿Qué tal en verano versus invierno? (Pediles que piensen en jugar con un aspersor o llenar una pileta, regar un jardín o patio, etc.)
+g) ¿Cómo creés que se compara tu uso de agua con otras personas en tu país? (Considera urbano vs. rural, niveles de pobreza, etc.)
+h) ¿Cómo creés que se compara tu uso de agua con personas en otros países?
 i) Condiciones como sequía, contaminación, aumento de población y distribución desigual de los recursos naturales amenazan nuestro suministro de agua. ¿Qué podría pasar si nos enfrentáramos a una escasez extrema de agua? (El costo aumentaría, nuestro uso tendría que disminuir, el acceso sería menos confiable, las prácticas de conservación serían más comunes, etc.)
 
 ### Paso 4: Compromiso familiar
-6. Finalmente, pide a cada participante que escriba un breve boletín para sus padres informando sobre los resultados de sus auditorías. Con la ayuda de sus familiares, pídeles que piensen en formas de conservar agua en casa. En una próxima reunión, puedes pedir a cada participante que comparta las soluciones que encontraron.
+6. Finalmente, pide a cada participante que escriba un breve boletín para sus padres informando sobre los resultados de sus auditorías. Con la ayuda de sus familiares, pediles que piensen en formas de conservar agua en casa. En una próxima reunión, podés pedir a cada participante que comparta las soluciones que encontraron.
 
 ## Auditoría Personal del Agua
 
 **Nombre:** _________________ **Fecha:** _________________
 
-Responde las siguientes preguntas sobre tu uso de agua hoy. Si no sabes los números exactos, por favor estima lo mejor que puedas.
+Respondé las siguientes preguntas sobre tu uso de agua hoy. Si no sabés los números exactos, por favor estima lo mejor que puedas.
 
 | Pregunta | Respuesta | Cálculo | Total |
 |----------|-----------|---------|-------|
 | 1. ¿Cuántas veces hoy has tirado de la cadena del inodoro? | | Multiplica este número por 3. El inodoro promedio usa 11.4 litros de agua por descarga. | ____ L |
-| 2. ¿Te duchaste o bañaste? | | Escribe 150 litros si te bañaste. Escribe 30 litros por cada minuto que estuviste en la ducha. | ____ L |
+| 2. ¿Te duchaste o bañaste? | | Escribe 150 litros si te bañaste. Escribí 30 litros por cada minuto que estuviste en la ducha. | ____ L |
 | 3. ¿Cuántas veces funcionó el lavavajillas hoy en tu casa? | | Aproximadamente 40 litros por carga. | ____ L |
-| 4. ¿Cuántas cargas de lavadora hiciste hoy en tu casa? | | Multiplica por 150 (o 90 si tienes lavadora de carga frontal). | ____ L |
+| 4. ¿Cuántas cargas de lavadora hiciste hoy en tu casa? | | Multiplica por 150 (o 90 si tenés lavadora de carga frontal). | ____ L |
 | 5. ¿Cuántos minutos hoy dejaste correr la canilla? | | Piensa en lavarte los dientes, las manos, lavar platos, etc. (Aproximadamente 6 litros por minuto). | ____ L |
-| 6. Revisa las canillas de tu casa para ver si hay fugas. Cuenta las gotas por minuto. | | Una gota por minuto = aproximadamente 3 litros por día. | ____ L |
+| 6. Revisá las canillas de tu casa para ver si hay fugas. Contá las gotas por minuto. | | Una gota por minuto = aproximadamente 3 litros por día. | ____ L |
 | 7. ¿Cuántos vasos de agua bebiste hoy? | | Multiplica por 0.25 litros por vaso. | ____ L |
 | 8. ¿Usaste una manguera hoy? (regar jardín, lavar auto, bañar mascota) | | Aproximadamente 15 litros por minuto. | ____ L |
 
@@ -219,7 +219,7 @@ Responde las siguientes preguntas sobre tu uso de agua hoy. Si no sabes los núm
 - **Uso anual:** Total mensual x 12 = ___________ litros
 
 ## Cierre
-- ¿Qué cambios tendrías que hacer si tú y tu familia no tuvieran agua corriente en casa?
+- ¿Qué cambios tendrías que hacer si vos y tu familia no tuvieran agua corriente en casa?
 - ¿Qué tan catastrófico sería si el agua dulce y accesible ya no estuviera disponible para nosotros y para otros seres vivos?
 - ¿Cómo pueden los humanos garantizar que habrá suficiente agua para ellos y para otros organismos en el futuro?
 

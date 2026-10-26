@@ -1,9 +1,9 @@
 ---
-title: "Guía Turística"
+title: "Guiá Turística"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/guia-turistica/"
-description: "Lleva a un amigo en un tour guiado sobre el suelo de tu jardín o parque local."
+description: "Llevá a un amigo en un tour guiado sobre el suelo de tu jardín o parque local."
 summary: "Tour guiado sobre el suelo."
 
 author:
@@ -131,19 +131,19 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Guía Turística!
+# ¡Guiá Turística!
 
 ## Resumen
-Lleva a un amigo en un tour guiado por tu jardín o parque local, mostrándole la importancia del suelo.
+Llevá a un amigo en un tour guiado por tu jardín o parque local, mostrándole la importancia del suelo.
 
 ## Preparación
-- Elige un lugar para el tour.
-- Prepara datos sobre el suelo para compartir.
+- Elegí un lugar para el tour.
+- Prepará datos sobre el suelo para compartir.
 
 ## Desarrollo
-1. **Tour** (25 min): Guía a tu amigo por el lugar.
+1. **Tour** (25 min): Guiá a tu amigo por el lugar.
 2. **Observación** (10 min): Busquen lombrices, líquenes y otros organismos.
-3. **Explicación** (10 min): Explica cómo las plantas, animales y humanos dependen del suelo.
+3. **Explicación** (10 min): Explicá cómo las plantas, animales y humanos dependen del suelo.
 
 ## Cierre
 - ¿Qué descubriste durante el tour?

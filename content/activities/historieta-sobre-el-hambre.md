@@ -4,7 +4,7 @@ title: "Historieta sobre el Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/historieta-sobre-el-hambre/"
-description: "Crea una historieta sobre un aventurero que descubre las diferencias entre la vida de ricos y pobres."
+description: "Creá una historieta sobre un aventurero que descubre las diferencias entre la vida de ricos y pobres."
 summary: "Creación de una historieta sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Historieta sobre el Hambre
 
 ## Resumen
-Crea una historieta sobre un aventurero que descubre las diferencias entre la vida de ricos y pobres.
+Creá una historieta sobre un aventurero que descubre las diferencias entre la vida de ricos y pobres.
 
 ## Preparación
-1. Piensa en una historia sobre un aventurero que viaja por el mundo.
-2. Reflexiona sobre las diferencias entre ricos y pobres.
-3. Prepara papel y lápices para dibujar.
+1. Pensá en una historia sobre un aventurero que viaja por el mundo.
+2. Reflexioná sobre las diferencias entre ricos y pobres.
+3. Prepará papel y lápices para dibujar.
 
 ## Desarrollo
-1. **Idea** (10 min): Desarrolla la historia de tu aventurero.
-2. **Guión** (15 min): Escribe el guión de la historieta.
-3. **Dibujo** (25 min): Dibuja la historieta sobre el hambre.
-4. **Compartir** (15 min): Comparte tu historieta con amigos y familia.
-5. **Enviar** (5 min): Envía tu historieta a yunga@fao.org.
+1. **Idea** (10 min): Desarrollá la historia de tu aventurero.
+2. **Guión** (15 min): Escribí el guión de la historieta.
+3. **Dibujo** (25 min): Dibujá la historieta sobre el hambre.
+4. **Compartir** (15 min): Compartí tu historieta con amigos y familia.
+5. **Enviar** (5 min): Enviá tu historieta a yunga@fao.org.
 
 ## Cierre
 - ¿Cómo explicarías el hambre a los niños más pequeños?

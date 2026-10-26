@@ -3,7 +3,7 @@ title: "Aguas en Literatura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aguas-en-literatura/"
-description: "Lee una novela donde el agua sea importante y escribe una reseña."
+description: "Leé una novela donde el agua sea importante y escribí una reseña."
 summary: "Reseña literaria sobre el agua."
 
 author:
@@ -149,18 +149,18 @@ rama_rovers:
 # ¡Aguas en Literatura!
 
 ## Resumen
-Lee una novela donde el agua sea una característica importante y escribe una reseña enfocándote en el papel del agua en la historia.
+Leé una novela donde el agua sea una característica importante y escribí una reseña enfocándote en el papel del agua en la historia.
 
 ## Preparación
-1. Visita la biblioteca de tu escuela o local.
-2. Pide al bibliotecario una recomendación.
-3. Consigue el libro y comienza a leer.
+1. Visitá la biblioteca de tu escuela o local.
+2. Pedí al bibliotecario una recomendación.
+3. Conseguí el libro y comenzá a leer.
 
 ## Desarrollo
-1. **Lectura** (tiempo según el libro): Lee la novela elegida.
-2. **Reflexión** (20 min): Piensa en el papel del agua en la historia.
-3. **Escritura** (30 min): Escribe una reseña del libro.
-4. **Compartir** (10 min): Comparte tu reseña con el grupo.
+1. **Lectura** (tiempo según el libro): Leé la novela elegida.
+2. **Reflexión** (20 min): Pensá en el papel del agua en la historia.
+3. **Escritura** (30 min): Escribí una reseña del libro.
+4. **Compartir** (10 min): Compartí tu reseña con el grupo.
 
 ## Cierre
 - ¿Qué papel juega el agua en la historia?

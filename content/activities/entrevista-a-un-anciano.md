@@ -1,10 +1,10 @@
 ---
-title: "Entrevista a un anciano"
+title: "Entrevistá a un anciano"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-a-un-anciano/"
-description: "Entrevista a un abuelo o anciano para aprender cómo vivían en el pasado."
-summary: "Entrevista intergeneracional sobre estilos de vida."
+description: "Entrevistá a un abuelo o anciano para aprender cómo vivían en el pasado."
+summary: "Entrevistá intergeneracional sobre estilos de vida."
 
 author:
   - FAO
@@ -141,21 +141,21 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Entrevista a un anciano!
+# ¡Entrevistá a un anciano!
 
 ## Resumen
-Entrevista a tu abuelo o a un amigo anciano para aprender cómo vivían cuando eran niños.
+Entrevistá a tu abuelo o a un amigo anciano para aprender cómo vivían cuando eran niños.
 
 ## Preparación
-1. Identifica a una persona mayor para entrevistar.
-2. Prepara preguntas sobre su vida pasada.
-3. Prepara papel y lápices para dibujar.
+1. Identificá a una persona mayor para entrevistar.
+2. Prepará preguntas sobre su vida pasada.
+3. Prepará papel y lápices para dibujar.
 
 ## Desarrollo
-1. **Entrevista** (20 min): Pregunta sobre su vida de niño.
+1. **Entrevista** (20 min): Preguntá sobre su vida de niño.
 2. **Comparación** (10 min): ¿Cómo es tu vida diferente?
-3. **Dibujo** (10 min): Dibuja las cosas que son diferentes y las que son iguales.
-4. **Compartir** (5 min): Comparte tus dibujos con el grupo.
+3. **Dibujo** (10 min): Dibujá las cosas que son diferentes y las que son iguales.
+4. **Compartir** (5 min): Compartí tus dibujos con el grupo.
 
 ## Cierre
 - ¿Cómo era la vida de los ancianos cuando eran niños?

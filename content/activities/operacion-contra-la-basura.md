@@ -5,7 +5,7 @@ duration: "3 días (encuesta) + 40 minutos (discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/operacion-contra-la-basura/"
 description: "Los jóvenes realizan una encuesta comunitaria para identificar las causas del comportamiento de tirar basura, entrevistando a personas de diferentes edades y analizando los factores que contribuyen a este problema ambiental."
-summary: "Investiga las causas del comportamiento de tirar basura."
+summary: "Investigá las causas del comportamiento de tirar basura."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:

@@ -1,9 +1,9 @@
 ---
-title: "Visita al mercado local - fibras"
+title: "Visitá al mercado local - fibras"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-mercado-local-fibras/"
-description: "Visita un mercado local para aprender sobre productos y textiles locales e importados."
+description: "Visitá un mercado local para aprender sobre productos y textiles locales e importados."
 summary: "Investigación de productos locales e importados."
 
 author:
@@ -142,18 +142,18 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Visita al mercado local!
+# ¡Visitá al mercado local!
 
 ## Resumen
-Visita un mercado local para aprender sobre productos y textiles locales e importados.
+Visitá un mercado local para aprender sobre productos y textiles locales e importados.
 
 ## Preparación
-1. Identifica un mercado local para visitar.
-2. Prepara preguntas para los vendedores.
-3. Reúne materiales para tomar notas.
+1. Identificá un mercado local para visitar.
+2. Prepará preguntas para los vendedores.
+3. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre el mercado.
+1. **Visita** (30 min): Recorré el mercado.
 2. **Observación** (15 min): ¿Qué productos son locales e importados?
 3. **Aprendizaje** (10 min): ¿De dónde vienen las fibras?
 4. **Reflexión** (5 min): ¿Qué aprendiste?

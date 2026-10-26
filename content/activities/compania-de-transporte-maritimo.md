@@ -3,7 +3,7 @@ title: "Compañía de Transporte Marítimo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/compania-de-transporte-maritimo/"
-description: "Construye y prueba diferentes botes para aprender sobre el transporte marítimo."
+description: "Construí y prueba diferentes botes para aprender sobre el transporte marítimo."
 summary: "Construcción de botes y transporte marítimo."
 
 author:
@@ -154,16 +154,16 @@ rama_rovers:
 # ¡Compañía de Transporte Marítimo!
 
 ## Resumen
-Construye diferentes botes con diversos materiales, pruébalos en el agua y descubre cuáles son los mejores para el transporte marítimo.
+Construí diferentes botes con diversos materiales, probalos en el agua y descubrí cuáles son los mejores para el transporte marítimo.
 
 ## Preparación
-1. Reúne diferentes materiales (madera, papel, cartulina, plástico, aluminio).
-2. Prepara el área de trabajo y el lugar para probar los botes.
+1. Reuní diferentes materiales (madera, papel, cartulina, plástico, aluminio).
+2. Prepará el área de trabajo y el lugar para probar los botes.
 
 ## Desarrollo
-1. **Construcción** (30 min): Construye botes con diferentes materiales.
+1. **Construcción** (30 min): Construí botes con diferentes materiales.
 2. **Prueba de flotación** (10 min): ¿Cuáles flotan mejor?
-3. **Prueba de velas** (10 min): Agrega una vela y observa la diferencia.
+3. **Prueba de velas** (10 min): Agregá una vela y observá la diferencia.
 4. **Carrera** (5 min): ¿Cuál barco es más veloz?
 5. **Carga** (5 min): ¿Cuánto peso pueden soportar?
 

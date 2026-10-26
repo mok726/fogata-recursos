@@ -1,9 +1,9 @@
 ---
-title: "Investiga iniciativas locales"
+title: "Investigá iniciativas locales"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/investiga-iniciativas-locales/"
-description: "Investiga lo que tu pueblo o ciudad está haciendo para proteger el medio ambiente."
+description: "Investigá lo que tu pueblo o ciudad está haciendo para proteger el medio ambiente."
 summary: "Investigación de iniciativas locales."
 
 author:
@@ -142,25 +142,25 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Investiga iniciativas locales!
+# ¡Investigá iniciativas locales!
 
 ## Resumen
-Investiga lo que tu pueblo o ciudad está haciendo para proteger el medio ambiente y prevenir el cambio climático.
+Investigá lo que tu pueblo o ciudad está haciendo para proteger el medio ambiente y prevenir el cambio climático.
 
 ## Preparación
-1. Busca información sobre iniciativas locales.
-2. Identifica proyectos en tu área.
-3. Prepara materiales para la investigación.
+1. Buscá información sobre iniciativas locales.
+2. Identificá proyectos en tu área.
+3. Prepará materiales para la investigación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre iniciativas locales.
+1. **Investigación** (25 min): Aprendé sobre iniciativas locales.
 2. **Análisis** (15 min): ¿Qué están haciendo?
 3. **Unión** (10 min): Únete a algunas iniciativas.
-4. **Reflexión** (10 min): Comparte lo aprendido.
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué está haciendo tu comunidad?
-- ¿Cómo puedes unirte?
+- ¿Cómo podés unirte?
 - ¿Qué aprendiste sobre las iniciativas locales?
 
 ---

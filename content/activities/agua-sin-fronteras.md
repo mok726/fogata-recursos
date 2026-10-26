@@ -3,7 +3,7 @@ title: "Agua sin Fronteras"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-sin-fronteras/"
-description: "Aprende sobre las aguas transfronterizas y juega a ser mediador en un conflicto por el agua."
+description: "Aprendé sobre las aguas transfronterizas y jugá a ser mediador en un conflicto por el agua."
 summary: "Simulación de conflictos por aguas transfronterizas."
 
 author:
@@ -101,7 +101,7 @@ competencies:
   - Conciencia global
 
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Reflexión
   - Sensibilización
 
@@ -142,22 +142,22 @@ rama_rovers:
 # ¡Agua sin Fronteras!
 
 ## Resumen
-Aprende sobre las aguas transfronterizas y participa en una simulación sobre conflictos y cooperación por el agua.
+Aprendé sobre las aguas transfronterizas y participá en una simulación sobre conflictos y cooperación por el agua.
 
 ## Preparación
-1. Investiga sobre aguas transfronterizas.
-2. Divide al grupo en roles (países y mediadores).
-3. Prepara argumentos para tu rol.
+1. Investigá sobre aguas transfronterizas.
+2. Dividí al grupo en roles (países y mediadores).
+3. Prepará argumentos para tu rol.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre aguas compartidas y conflictos.
-2. **Simulación** (25 min): Representa una negociación entre países.
+1. **Investigación** (20 min): Aprendé sobre aguas compartidas y conflictos.
+2. **Simulación** (25 min): Representá una negociación entre países.
 3. **Análisis** (10 min): ¿Fue fácil encontrar una solución?
 4. **Reflexión** (5 min): ¿Qué ejemplos reales existen de cooperación?
 
 ## Cierre
 - ¿Qué desafíos presentan las aguas transfronterizas?
-- ¿Qué ejemplos de cooperación conoces?
+- ¿Qué ejemplos de cooperación conocés?
 - ¿Cómo podemos promover la cooperación?
 
 ---

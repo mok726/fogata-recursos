@@ -4,8 +4,8 @@ title: "Midiendo la energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/midiendo-la-energia/"
-description: "Investiga las unidades de medición de energía (julio, kilovatio-hora, caloría) y analiza cómo se aplican en tu vida diaria."
-summary: "Aprende a medir la energía."
+description: "Investigá las unidades de medición de energía (julio, kilovatio-hora, caloría) y analizá cómo se aplican en tu vida diaria."
+summary: "Aprendé a medir la energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,17 +163,17 @@ translation_notice:
 # ¡Midiendo la energía!
 
 ## Resumen
-Investiga las diferentes unidades para medir energía: julio, kilovatio-hora, caloría y caballo de fuerza (este último mide potencia, no energía: ¿cuál es la diferencia?). Aprende para qué se usa cada una y cómo se aplican en tu vida diaria.
+Investigá las diferentes unidades para medir energía: julio, kilovatio-hora, caloría y caballo de fuerza (este último mide potencia, no energía: ¿cuál es la diferencia?). Aprendé para qué se usa cada una y cómo se aplican en tu vida diaria.
 
 ## Preparación
-1. Lee la información sobre medición de energía.
-2. Busca facturas de electricidad o gas en tu casa (opcional).
-3. Prepara materiales para tomar notas.
+1. Leé la información sobre medición de energía.
+2. Buscá facturas de electricidad o gas en tu casa (opcional).
+3. Prepará materiales para tomar notas.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga las unidades de medición de energía:
+Investigá las unidades de medición de energía:
 
 | Unidad | ¿Para qué se usa? |
 |--------|-------------------|
@@ -183,7 +183,7 @@ Investiga las unidades de medición de energía:
 | Caballo de fuerza (HP) | Potencia de motores |
 
 ### Parte II - Aplicación diaria
-Piensa en todas las cosas que haces en un día que requieren energía y qué unidad usarías para medirla.
+Pensá en todas las cosas que hacés en un día que requieren energía y qué unidad usarías para medirla.
 
 **Ejemplos:**
 - Cargar el celular → kWh
@@ -191,17 +191,17 @@ Piensa en todas las cosas que haces en un día que requieren energía y qué uni
 - Usar la computadora → kWh
 
 ### Parte III - Facturas (opcional)
-Mira una factura de electricidad o gas:
+Mirá una factura de electricidad o gas:
 - ¿Cuánto pagas por la energía?
-- ¿Cuánto consumes?
-- ¿Cómo puedes reducir tu consumo?
+- ¿Cuánto consumís?
+- ¿Cómo podés reducir tu consumo?
 
 ### Parte IV - Compartir
-Comparte tus hallazgos con el grupo.
+Compartí tus hallazgos con el grupo.
 
 ## Cierre
-1. ¿Qué unidad de energía usas más en tu vida diaria?
-2. ¿Cómo puedes reducir tu consumo de energía?
+1. ¿Qué unidad de energía usás más en tu vida diaria?
+2. ¿Cómo podés reducir tu consumo de energía?
 3. ¿Qué aprendiste sobre el costo de la energía?
 
 ## Texto original completo de la actividad

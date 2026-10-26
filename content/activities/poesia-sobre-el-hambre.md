@@ -4,7 +4,7 @@ title: "Poesía sobre el Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/poesia-sobre-el-hambre/"
-description: "Escribe un poema acróstico sobre la lucha contra el hambre usando palabras clave como EDUCACIÓN, AGRICULTURA o MICROFINANCIACIÓN."
+description: "Escribí un poema acróstico sobre la lucha contra el hambre usando palabras clave como EDUCACIÓN, AGRICULTURA o MICROFINANCIACIÓN."
 summary: "Creación de poesía sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -170,18 +170,18 @@ rama_rovers:
 # Poesía sobre el Hambre
 
 ## Resumen
-Escribe un poema acróstico sobre la lucha contra el hambre usando palabras clave como EDUCACIÓN, AGRICULTURA o MICROFINANCIACIÓN.
+Escribí un poema acróstico sobre la lucha contra el hambre usando palabras clave como EDUCACIÓN, AGRICULTURA o MICROFINANCIACIÓN.
 
 ## Preparación
-1. Elige una palabra clave para tu poema acróstico.
-2. Reflexiona sobre la lucha contra el hambre.
-3. Prepara papel y lápices.
+1. Elegí una palabra clave para tu poema acróstico.
+2. Reflexioná sobre la lucha contra el hambre.
+3. Prepará papel y lápices.
 
 ## Desarrollo
-1. **Elección** (5 min): Elige una palabra clave (EMPODERAR, EDUCACIÓN, ALIMENTOS, etc.).
-2. **Escritura** (20 min): Escribe un poema acróstico sobre la lucha contra el hambre.
-3. **Compartir** (15 min): Comparte tu poema con el grupo.
-4. **Póster** (10 min): Convierte tu poema en un póster.
+1. **Elección** (5 min): Elegí una palabra clave (EMPODERAR, EDUCACIÓN, ALIMENTOS, etc.).
+2. **Escritura** (20 min): Escribí un poema acróstico sobre la lucha contra el hambre.
+3. **Compartir** (15 min): Compartí tu poema con el grupo.
+4. **Póster** (10 min): Convertí tu poema en un póster.
 
 ## Cierre
 - ¿Qué palabra clave elegiste y por qué?

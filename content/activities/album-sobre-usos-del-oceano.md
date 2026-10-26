@@ -4,7 +4,7 @@ title: "Álbum sobre Usos del Océano"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/album-sobre-usos-del-oceano/"
-description: "Crea un álbum sobre los diferentes usos del océano y los productos que provienen de él."
+description: "Creá un álbum sobre los diferentes usos del océano y los productos que provienen de él."
 summary: "Álbum sobre usos del océano."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,22 +164,22 @@ rama_rovers:
 # Álbum sobre Usos del Océano
 
 ## Resumen
-Crea un álbum sobre los diferentes usos del océano y los productos que provienen de él.
+Creá un álbum sobre los diferentes usos del océano y los productos que provienen de él.
 
 ## Preparación
-1. Reúne fotografías de actividades en la costa y productos del océano.
-2. Prepara papel, pegamento y otros materiales.
-3. Piensa en todos los usos del océano.
+1. Reuní fotografías de actividades en la costa y productos del océano.
+2. Prepará papel, pegamento y otros materiales.
+3. Pensá en todos los usos del océano.
 
 ## Desarrollo
-1. **Lluvia de ideas** (15 min): Piensa en actividades en la costa, playa, puertos, mar abierto y lecho marino.
-2. **Investigación** (15 min): Investiga productos del océano (alimentos, medicinas, materiales).
-3. **Creación** (20 min): Crea un álbum con imágenes y descripciones.
-4. **Extensión** (opcional): Investiga cómo se usan las algas marinas en productos cotidianos.
+1. **Lluvia de ideas** (15 min): Pensá en actividades en la costa, playa, puertos, mar abierto y lecho marino.
+2. **Investigación** (15 min): Investigá productos del océano (alimentos, medicinas, materiales).
+3. **Creación** (20 min): Creá un álbum con imágenes y descripciones.
+4. **Extensión** (opcional): Investigá cómo se usan las algas marinas en productos cotidianos.
 
 ## Cierre
 - ¿Qué usos del océano descubriste?
-- ¿Qué productos del océano usas a diario?
+- ¿Qué productos del océano usás a diario?
 - ¿Qué compromiso adquieres para usar los recursos del océano de manera responsable?
 
 ---

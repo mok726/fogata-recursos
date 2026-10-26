@@ -157,22 +157,22 @@ rama_rovers:
 # ¡Especie amenazada!
 
 ## Resumen
-Elige una especie amenazada de tu área. ¿Dónde vive? ¿Qué come? ¿Qué animales se la comen? ¿Cuáles son sus costumbres? ¿Por qué está en peligro de extinción? ¿Quién es el responsable de eso? Escribe una historia o presenta una obra de teatro sobre cómo sería el medio ambiente si esa especie se extinguiese.
+Elegí una especie amenazada de tu área. ¿Dónde vive? ¿Qué come? ¿Qué animales se la comen? ¿Cuáles son sus costumbres? ¿Por qué está en peligro de extinción? ¿Quién es el responsable de eso? Escribí una historia o presentá una obra de teatro sobre cómo sería el medio ambiente si esa especie se extinguiese.
 
 ## Preparación
-1. Investiga sobre especies amenazadas en tu área.
-2. Elige una especie para estudiar.
-3. Prepara materiales para escribir o actuar.
+1. Investigá sobre especies amenazadas en tu área.
+2. Elegí una especie para estudiar.
+3. Prepará materiales para escribir o actuar.
 
 ## Desarrollo
-1. Elige una especie amenazada de tu área.
-2. Investiga: ¿Dónde vive? ¿Qué come? ¿Qué animales se la comen?
-3. Investiga: ¿Cuáles son sus costumbres? ¿Por qué está en peligro?
-4. Escribe una historia o presenta una obra de teatro sobre cómo sería el medio ambiente si esa especie se extinguiese.
+1. Elegí una especie amenazada de tu área.
+2. Investigá: ¿Dónde vive? ¿Qué come? ¿Qué animales se la comen?
+3. Investigá: ¿Cuáles son sus costumbres? ¿Por qué está en peligro?
+4. Escribí una historia o presentá una obra de teatro sobre cómo sería el medio ambiente si esa especie se extinguiese.
 
 ## Cierre
-1. Comparte tu historia o representación con el grupo.
-2. Reflexiona sobre el impacto de la extinción.
+1. Compartí tu historia o representación con el grupo.
+2. Reflexioná sobre el impacto de la extinción.
 3. Pregunta final: ¿Qué podemos hacer para salvar a esta especie?
 
 ## Texto original completo de la actividad

@@ -5,7 +5,7 @@ duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-vida-ecologica/"
 description: "Los participantes reflexionan sobre sus hábitos diarios de gestión de residuos y sugieren formas de mejorar sus prácticas para una vida más sostenible."
-summary: "Descubre hábitos sostenibles para tu hogar."
+summary: "Descubrí hábitos sostenibles para tu hogar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -165,9 +165,9 @@ rama_rovers: []
 Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos personales diarios. Los participantes comienzan a reflexionar sobre sus hábitos diarios de gestión de residuos y sugieren formas de mejorar sus prácticas. El objetivo de la actividad es descubrir hábitos diarios más sostenibles y cómo adoptarlos.
 
 ## Preparación
-1. Prepara el gráfico de la casa sostenible (ver anexo).
-2. Reúne marcadores, papel y post-its.
-3. Organiza el espacio para el trabajo en equipos.
+1. Prepará el gráfico de la casa sostenible (ver anexo).
+2. Reuní marcadores, papel y post-its.
+3. Organizá el espacio para el trabajo en equipos.
 
 ## Desarrollo
 
@@ -188,7 +188,7 @@ Después de acordar las mejores prácticas, los participantes comparten sus refl
 
 ## Cierre
 1. ¿Qué acción tomarás para mejorar tus hábitos en tu hogar, reuniones de amigos, campamentos, escuela, etc.?
-2. ¿Cómo puedes crear conciencia sobre la sostenibilidad y dar ejemplo hacia una vida ecológica en tu comunidad?
+2. ¿Cómo podés crear conciencia sobre la sostenibilidad y dar ejemplo hacia una vida ecológica en tu comunidad?
 
 ## Texto original completo de la actividad
 

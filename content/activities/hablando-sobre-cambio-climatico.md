@@ -4,8 +4,8 @@ title: "Hablando sobre el cambio climático"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/hablando-sobre-cambio-climatico/"
-description: "Investiga el ciclo del carbono y el cambio climático, y debate sobre sus causas, impactos y soluciones con tu grupo."
-summary: "Debate sobre el cambio climático y el carbono."
+description: "Investigá el ciclo del carbono y el cambio climático, y debate sobre sus causas, impactos y soluciones con tu grupo."
+summary: "Debatí sobre el cambio climático y el carbono."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -117,7 +117,7 @@ competencies:
   - Investigación
   - Comunicación
 activity_type:
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Investigación
   - Reflexión
 category:
@@ -161,17 +161,17 @@ translation_notice:
 # ¡Hablando sobre el cambio climático!
 
 ## Resumen
-Investiga sobre el ciclo del carbono y el cambio climático. ¿Cómo afectan los humanos al ciclo del carbono? ¿Crees que el consumo de combustibles fósiles está afectando el clima? Debate con tu grupo sobre las causas, impactos y soluciones.
+Investigá sobre el ciclo del carbono y el cambio climático. ¿Cómo afectan los humanos al ciclo del carbono? ¿Creés que el consumo de combustibles fósiles está afectando el clima? Debatí con tu grupo sobre las causas, impactos y soluciones.
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono y el cambio climático.
-2. Busca datos para apoyar tus argumentos.
-3. Prepara notas para el debate.
+1. Leé la información sobre el ciclo del carbono y el cambio climático.
+2. Buscá datos para apoyar tus argumentos.
+3. Prepará notas para el debate.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga estas preguntas:
+Investigá estas preguntas:
 - ¿Cómo afectan los humanos al ciclo del carbono?
 - ¿El consumo de combustibles fósiles afecta el clima?
 - ¿Qué está causando el cambio climático?
@@ -179,7 +179,7 @@ Investiga estas preguntas:
 - ¿Cuáles son los impactos potenciales del cambio climático?
 
 ### Parte II - Debate
-Divide el grupo en dos equipos y debate:
+Dividí el grupo en dos equipos y debate:
 - ¿Los humanos son la principal causa del cambio climático?
 - ¿Qué acciones son más efectivas para combatirlo?
 
@@ -188,8 +188,8 @@ Compartan sus conclusiones.
 
 ## Cierre
 1. ¿Qué argumento te pareció más convincente?
-2. ¿Qué acción crees que es más urgente?
-3. ¿Cómo puedes contribuir a solucionar el problema?
+2. ¿Qué acción creés que es más urgente?
+3. ¿Cómo podés contribuir a solucionar el problema?
 
 ## Texto original completo de la actividad
 

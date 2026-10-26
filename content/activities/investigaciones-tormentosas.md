@@ -161,18 +161,18 @@ rama_rovers:
 El Niño y La Niña son fenómenos naturales que ocurren cuando las aguas del Pacífico se tornan inusualmente más cálidas o más frías. Hagan una investigación sobre los dos eventos.
 
 ## Preparación
-1. Investiga sobre El Niño y La Niña.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre El Niño y La Niña.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cuándo ocurrieron por última vez El Niño y La Niña?
-2. Investiga: ¿Qué tipo de eventos del tiempo están vinculando las personas a estos fenómenos?
-3. Investiga: ¿Cómo afectó esto a las personas alrededor del mundo?
-4. Crea un cartel para ilustrar tus hallazgos.
+1. Investigá: ¿Cuándo ocurrieron por última vez El Niño y La Niña?
+2. Investigá: ¿Qué tipo de eventos del tiempo están vinculando las personas a estos fenómenos?
+3. Investigá: ¿Cómo afectó esto a las personas alrededor del mundo?
+4. Creá un cartel para ilustrar tus hallazgos.
 
 ## Cierre
-1. Comparte tu cartel con el grupo.
+1. Compartí tu cartel con el grupo.
 2. Discutan: ¿Cómo afectan estos fenómenos a diferentes regiones del mundo?
 3. Pregunta final: ¿Cómo podría el cambio climático afectar la frecuencia e intensidad de El Niño y La Niña?
 

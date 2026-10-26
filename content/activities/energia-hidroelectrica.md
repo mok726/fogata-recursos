@@ -3,7 +3,7 @@ title: "Energía Hidroeléctrica"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-hidroelectrica/"
-description: "Construye un molino de agua para entender cómo funciona la energía hidroeléctrica."
+description: "Construí un molino de agua para entender cómo funciona la energía hidroeléctrica."
 summary: "Construcción de molino de agua."
 
 author:
@@ -157,18 +157,18 @@ rama_rovers:
 # ¡Energía Hidroeléctrica!
 
 ## Resumen
-Construye un molino de agua para comprender cómo las turbinas generan energía y cómo los antiguos molinos usaban la energía del agua.
+Construí un molino de agua para comprender cómo las turbinas generan energía y cómo los antiguos molinos usaban la energía del agua.
 
 ## Preparación
-1. Reúne materiales para el molino de agua.
-2. Prepara el área de trabajo.
-3. Busca instrucciones en los enlaces proporcionados.
+1. Reuní materiales para el molino de agua.
+2. Prepará el área de trabajo.
+3. Buscá instrucciones en los enlaces proporcionados.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre la energía hidroeléctrica.
-2. **Construcción** (30 min): Construye tu molino de agua.
-3. **Prueba** (10 min): Prueba tu molino con agua.
-4. **Presentación** (5 min): Explica cómo funciona.
+1. **Investigación** (15 min): Aprendé sobre la energía hidroeléctrica.
+2. **Construcción** (30 min): Construí tu molino de agua.
+3. **Prueba** (10 min): Probá tu molino con agua.
+4. **Presentación** (5 min): Explicá cómo funciona.
 
 ## Cierre
 - ¿Cómo funciona la energía hidroeléctrica?

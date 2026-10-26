@@ -1,9 +1,9 @@
 ---
-title: "Deja la Botella"
+title: "Dejá la Botella"
 duration: "Proyecto de campaña"
 layout: "layouts/activity.njk"
 permalink: "/activities/deja-la-botella/"
-description: "Investiga si el agua de la canilla es segura y haz una campaña para cambiar del agua embotellada al agua de la canilla."
+description: "Investigá si el agua de la canilla es segura y hacé una campaña para cambiar del agua embotellada al agua de la canilla."
 summary: "Campaña contra el agua embotellada."
 
 author:
@@ -148,21 +148,21 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Deja la Botella!
+# ¡Dejá la Botella!
 
 ## Resumen
-Investiga si el agua de la canilla es segura en tu área y lanza una campaña para convencer a la comunidad de cambiar del agua embotellada al agua de la canilla.
+Investigá si el agua de la canilla es segura en tu área y lanzá una campaña para convencer a la comunidad de cambiar del agua embotellada al agua de la canilla.
 
 ## Preparación
-1. Investiga la calidad del agua de la canilla local.
-2. Identifica las razones para cambiar al agua de la canilla.
-3. Prepara materiales para la campaña.
+1. Investigá la calidad del agua de la canilla local.
+2. Identificá las razones para cambiar al agua de la canilla.
+3. Prepará materiales para la campaña.
 
 ## Desarrollo
-1. **Investigación** (20 min): Averigua si el agua de la canilla es segura.
-2. **Análisis** (15 min): Compara el impacto ambiental del agua embotellada vs. de la canilla.
-3. **Campaña** (25 min): Crea materiales para la campaña.
-4. **Difusión** (tiempo variable): Comparte la campaña con la comunidad.
+1. **Investigación** (20 min): Averiguá si el agua de la canilla es segura.
+2. **Análisis** (15 min): Compará el impacto ambiental del agua embotellada vs. de la canilla.
+3. **Campaña** (25 min): Creá materiales para la campaña.
+4. **Difusión** (tiempo variable): Compartí la campaña con la comunidad.
 
 ## Cierre
 - ¿Es segura el agua de la canilla en tu área?

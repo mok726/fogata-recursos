@@ -4,8 +4,8 @@ title: "Obras de teatro sobre energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/obras-de-teatro-energia/"
-description: "Escribe y representa una obra de teatro que demuestre las diferencias entre las formas de energía: cinética, potencial, mecánica, etc."
-summary: "Actúa las formas de energía."
+description: "Escribí y representá una obra de teatro que demuestre las diferencias entre las formas de energía: cinética, potencial, mecánica, etc."
+summary: "Actuá las formas de energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -161,12 +161,12 @@ translation_notice:
 # ¡Obras de teatro sobre energía!
 
 ## Resumen
-Aprende sobre las diferentes formas de energía (cinética, potencial, mecánica, etc.) y escribe una obra de teatro corta que demuestre claramente las diferencias entre ellas.
+Aprendé sobre las diferentes formas de energía (cinética, potencial, mecánica, etc.) y escribí una obra de teatro corta que demuestre claramente las diferencias entre ellas.
 
 ## Preparación
-1. Lee la información sobre formas de energía en la sección de información de fondo.
-2. Divide el grupo en equipos de 4-5 participantes.
-3. Asigna una forma de energía a cada persona o equipo.
+1. Leé la información sobre formas de energía en la sección de información de fondo.
+2. Dividí el grupo en equipos de 4-5 participantes.
+3. Asigná una forma de energía a cada persona o equipo.
 
 ## Desarrollo
 
@@ -183,7 +183,7 @@ Cada equipo investiga su forma de energía asignada:
 - Energía radiante (luz)
 
 ### Parte II - Crear la obra
-Escribe una obra corta donde cada persona represente una forma de energía.
+Escribí una obra corta donde cada persona represente una forma de energía.
 
 **Características para representar:**
 - Energía potencial → siempre esperando
@@ -191,7 +191,7 @@ Escribe una obra corta donde cada persona represente una forma de energía.
 - Energía mecánica → como un robot
 
 ### Parte III - Actuar
-Presenta tu obra al grupo.
+Presentá tu obra al grupo.
 
 ### Parte IV - Adivinar
 El resto del grupo debe adivinar qué forma de energía representa cada persona.

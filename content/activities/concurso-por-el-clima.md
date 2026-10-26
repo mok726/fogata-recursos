@@ -160,13 +160,13 @@ rama_rovers:
 # ¡Concurso por el clima!
 
 ## Resumen
-Organiza un concurso para ver quién puede hacer la mayor cantidad de cambios en sus vidas diarias para ser más verdes y más eficientes energéticamente.
+Organizá un concurso para ver quién puede hacer la mayor cantidad de cambios en sus vidas diarias para ser más verdes y más eficientes energéticamente.
 
 ## Preparación
-1. Lee la sección de Toma Acción (p. 88) para obtener ideas.
-2. Prepara una lista de control para cada participante.
-3. Define las reglas del concurso.
-4. Prepara un premio para el ganador.
+1. Leé la sección de Toma Acción (p. 88) para obtener ideas.
+2. Prepará una lista de control para cada participante.
+3. Definí las reglas del concurso.
+4. Prepará un premio para el ganador.
 
 ## Desarrollo
 1. Cada participante elige acciones sostenibles para implementar.
@@ -175,8 +175,8 @@ Organiza un concurso para ver quién puede hacer la mayor cantidad de cambios en
 4. Identifiquen quién es el ganador.
 
 ## Cierre
-1. Celebra al ganador con un premio.
-2. Reflexiona: ¿Qué cambios fueron más fáciles y cuáles más difíciles?
+1. Celebrá al ganador con un premio.
+2. Reflexioná: ¿Qué cambios fueron más fáciles y cuáles más difíciles?
 3. Pregunta final: ¿Qué cambios vas a mantener a largo plazo?
 
 ## Texto original completo de la actividad

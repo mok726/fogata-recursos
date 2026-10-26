@@ -4,8 +4,8 @@ title: "Ozono y quemaduras de sol"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ozono-y-quemaduras-de-sol/"
-description: "Investiga sobre el ozono y los riesgos de la exposición solar, y aprende a identificar tu tipo de piel para protegerte adecuadamente."
-summary: "Aprende a protegerte del Sol."
+description: "Investigá sobre el ozono y los riesgos de la exposición solar, y aprendé a identificar tu tipo de piel para protegerte adecuadamente."
+summary: "Aprendé a protegerte del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -32,7 +32,7 @@ age_group:
 materials: []
 tools:
   - Acceso a biblioteca/internet
-  - Consulta con especialistas en salud (opcional)
+  - Consultá con especialistas en salud (opcional)
 responsible:
   - Docente o Scouter
 prep_time: "15 min"

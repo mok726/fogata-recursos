@@ -3,7 +3,7 @@ title: "¡Al Blog!"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/al-blog/"
-description: "Crea un blog sobre temas relacionados con el agua para tu clase o grupo."
+description: "Creá un blog sobre temas relacionados con el agua para tu clase o grupo."
 summary: "Blog sobre temas del agua."
 
 author:
@@ -144,23 +144,23 @@ rama_rovers:
 # ¡Al Blog!
 
 ## Resumen
-Crea un blog para tu clase o grupo sobre temas relacionados con el agua, incluyendo poesía, ensayos, historias o videos.
+Creá un blog para tu clase o grupo sobre temas relacionados con el agua, incluyendo poesía, ensayos, historias o videos.
 
 ## Preparación
-1. Elige una plataforma para el blog.
-2. Define el contenido y estilo del blog.
-3. Invita a amigos y familia a seguir el blog.
+1. Elegí una plataforma para el blog.
+2. Definí el contenido y estilo del blog.
+3. Invitá a amigos y familia a seguir el blog.
 
 ## Desarrollo
-1. **Creación** (30 min): Configura el blog y publica contenido inicial.
-2. **Actualización** (mensual): Publica contenido nuevo regularmente.
-3. **Promoción** (10 min): Comparte el enlace con la comunidad.
-4. **Mantenimiento** (10 min/mes): Mantén el blog actualizado.
+1. **Creación** (30 min): Configurá el blog y publicá contenido inicial.
+2. **Actualización** (mensual): Publicá contenido nuevo regularmente.
+3. **Promoción** (10 min): Compartí el enlace con la comunidad.
+4. **Mantenimiento** (10 min/mes): Mantené el blog actualizado.
 
 ## Cierre
 - ¿Qué tipo de contenido incluiste en el blog?
 - ¿Cómo respondió la comunidad al blog?
-- ¿Cómo puedes mantenerlo a largo plazo?
+- ¿Cómo podés mantenerlo a largo plazo?
 
 ---
 ## Texto original completo de la actividad

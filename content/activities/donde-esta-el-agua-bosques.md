@@ -4,7 +4,7 @@ title: "¿Dónde está el Agua? - Bosques"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-el-agua-bosques/"
-description: "Investiga en qué lugar es posible encontrar agua en un bosque. Dibuja un mapa o crea un modelo de los sitios con agua."
+description: "Investigá en qué lugar es posible encontrar agua en un bosque. Dibujá un mapa o creá un modelo de los sitios con agua."
 summary: "Investigación de fuentes de agua en el bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,17 +167,17 @@ rama_rovers:
 # ¿Dónde está el Agua?
 
 ## Resumen
-Investiga en qué lugar es posible encontrar agua en un bosque. Dibuja un mapa o crea un modelo de los sitios con agua.
+Investigá en qué lugar es posible encontrar agua en un bosque. Dibujá un mapa o creá un modelo de los sitios con agua.
 
 ## Preparación
-1. Investiga los lugares donde se encuentra agua en el bosque.
-2. Prepara material para el mapa o modelo.
+1. Investigá los lugares donde se encuentra agua en el bosque.
+2. Prepará material para el mapa o modelo.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sitios de agua en el bosque (subterránea, lagos, arroyos, gotas en hojas, etc.).
-2. **Análisis** (10 min): Piensa qué plantas y animales usan cada sitio.
-3. **Creación** (25 min): Dibuja un mapa o crea un modelo de los sitios con agua.
-4. **Presentación** (15 min): Comparte tu mapa o modelo con el grupo.
+1. **Investigación** (20 min): Investigá sitios de agua en el bosque (subterránea, lagos, arroyos, gotas en hojas, etc.).
+2. **Análisis** (10 min): Pensá qué plantas y animales usan cada sitio.
+3. **Creación** (25 min): Dibujá un mapa o creá un modelo de los sitios con agua.
+4. **Presentación** (15 min): Compartí tu mapa o modelo con el grupo.
 
 ## Cierre
 - ¿Qué sitios con agua encontraste en el bosque?

@@ -158,21 +158,21 @@ rama_rovers:
 # ¡Bacterias y mamíferos marinos!
 
 ## Resumen
-Aprende cómo las bacterias que existen en el agua marina y los mamíferos marinos ayudan a descomponer y a remover desperdicios y contaminación. Comparte tus hallazgos con tu grupo.
+Aprendé cómo las bacterias que existen en el agua marina y los mamíferos marinos ayudan a descomponer y a remover desperdicios y contaminación. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Investiga sobre bacterias y mamíferos marinos.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre bacterias y mamíferos marinos.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo las bacterias marinas ayudan a descomponer desperdicios.
-2. Investiga cómo los mamíferos marinos contribuyen a la limpieza del océano.
-3. Prepara tus hallazgos para compartir con el grupo.
+1. Investigá cómo las bacterias marinas ayudan a descomponer desperdicios.
+2. Investigá cómo los mamíferos marinos contribuyen a la limpieza del océano.
+3. Prepará tus hallazgos para compartir con el grupo.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Cómo mantienen limpio el océano estos organismos?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Cómo mantienen limpio el océano estos organismos?
 3. Pregunta final: ¿Cómo podemos apoyar a los organismos que limpian el océano?
 
 ## Texto original completo de la actividad

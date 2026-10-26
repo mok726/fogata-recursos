@@ -3,7 +3,7 @@ title: "De dónde viene tu agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-agua/"
-description: "Investiga el origen de tu agua y cómo es tratada antes y después de usarla."
+description: "Investigá el origen de tu agua y cómo es tratada antes y después de usarla."
 summary: "Investigación sobre el suministro de agua local."
 
 author:
@@ -150,21 +150,21 @@ rama_rovers:
 # ¿De dónde viene tu agua?
 
 ## Resumen
-Investiga el origen del agua que usas en tu hogar, cómo es tratada antes de llegar a ti y cómo es tratada después de usarla.
+Investigá el origen del agua que usás en tu hogar, cómo es tratada antes de llegar a vos y cómo es tratada después de usarla.
 
 ## Preparación
-1. Piensa en preguntas sobre el suministro de agua local.
-2. Investiga en internet o pregunta a las autoridades locales.
-3. Prepara materiales para tomar notas.
+1. Pensá en preguntas sobre el suministro de agua local.
+2. Investigá en internet o pregunta a las autoridades locales.
+3. Prepará materiales para tomar notas.
 
 ## Desarrollo
-1. **Investigación** (25 min): Averigua de dónde viene tu agua.
-2. **Tratamiento** (15 min): Investiga cómo es tratada antes y después de usarla.
-3. **Comparación** (15 min): Compara tus hallazgos con otra ciudad o país.
-4. **Presentación** (5 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Averiguá de dónde viene tu agua.
+2. **Tratamiento** (15 min): Investigá cómo es tratada antes y después de usarla.
+3. **Comparación** (15 min): Compará tus hallazgos con otra ciudad o país.
+4. **Presentación** (5 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
-- ¿De dónde viene el agua que usas?
+- ¿De dónde viene el agua que usás?
 - ¿Cómo es tratada antes de llegar a tu hogar?
 - ¿Qué sucede con el agua después de usarla?
 

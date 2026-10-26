@@ -3,7 +3,7 @@ title: "Papel reciclado casero"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papel-reciclado-casero/"
-description: "Aprende a hacer tu propio papel reciclado."
+description: "Aprendé a hacer tu propio papel reciclado."
 summary: "Fabricación de papel reciclado casero."
 
 author:
@@ -157,23 +157,23 @@ rama_rovers:
 # ¡Papel reciclado casero!
 
 ## Resumen
-Aprende a hacer tu propio papel reciclado con la ayuda de un adulto.
+Aprendé a hacer tu propio papel reciclado con la ayuda de un adulto.
 
 ## Preparación
-1. Reúne papel usado.
-2. Prepara los materiales necesarios.
-3. Pide ayuda a un adulto.
+1. Reuní papel usado.
+2. Prepará los materiales necesarios.
+3. Pedí ayuda a un adulto.
 
 ## Desarrollo
-1. **Preparación** (10 min): Corta el papel en trozos pequeños.
-2. **Mezcla** (15 min): Remoja y mezcla el papel con agua.
-3. **Formado** (20 min): Usa el marco para formar las hojas.
-4. **Secado** (15 min): Deja secar el papel.
+1. **Preparación** (10 min): Cortá el papel en trozos pequeños.
+2. **Mezcla** (15 min): Remojá y mezcla el papel con agua.
+3. **Formado** (20 min): Usá el marco para formar las hojas.
+4. **Secado** (15 min): Dejá secar el papel.
 
 ## Cierre
 - ¿Cómo te sentiste al hacer tu propio papel?
 - ¿Qué aprendiste sobre el reciclaje?
-- ¿Cómo puedes usar el papel que hiciste?
+- ¿Cómo podés usar el papel que hiciste?
 
 ---
 ## Texto original completo de la actividad

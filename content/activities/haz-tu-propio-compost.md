@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz tu propio compost"
+title: "Hacé tu propio compost"
 duration: "1 hora + seguimiento de 3-4 meses"
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-tu-propio-compost/"
@@ -160,29 +160,29 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Haz tu propio compost!
+# ¡Hacé tu propio compost!
 
 ## Resumen
-Haz compost - ¡una forma amigable con el medio ambiente de mantener saludable a tu jardín!
+Hacé compost - ¡una forma amigable con el medio ambiente de mantener saludable a tu jardín!
 
 ## Preparación
-1. Elige un lugar para el compost (jardín o balcón con caja/tina).
-2. Reúne materiales: hierba seca, desechos biodegradables, tierra.
-3. Prepara las herramientas necesarias.
+1. Elegí un lugar para el compost (jardín o balcón con caja/tina).
+2. Reuní materiales: hierba seca, desechos biodegradables, tierra.
+3. Prepará las herramientas necesarias.
 
 ## Desarrollo
-1. Cava un hoyo en una esquina de tu jardín o utiliza una caja/tina grande.
-2. Fórrala con hierba seca o paja.
-3. Coloca dentro desechos biodegradables (restos de alimentos sin sal o azúcar, cáscaras, papel, hojas secas).
-4. Cubre con una fina capa de tierra.
-5. Riégala una o dos veces a la semana para mantenerla húmeda.
+1. Cavá un hoyo en una esquina de tu jardín o utilizá una caja/tina grande.
+2. Forrala con hierba seca o paja.
+3. Colocá dentro desechos biodegradables (restos de alimentos sin sal o azúcar, cáscaras, papel, hojas secas).
+4. Cubrí con una fina capa de tierra.
+5. Regala una o dos veces a la semana para mantenerla húmeda.
 6. Cada 15 días mezcla el contenido.
 7. Después de 3 o 4 meses, el compost estará listo.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Cómo ayuda el compost a reducir el cambio climático?
-3. Pregunta final: ¿Qué más puedes hacer para reducir tus residuos?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Cómo ayuda el compost a reducir el cambio climático?
+3. Pregunta final: ¿Qué más podés hacer para reducir tus residuos?
 
 ## Texto original completo de la actividad
 E.09 HAZ TU PROPIO COMPOST. Haz compost -¡una forma amigable con el medio ambiente de mantener saludable a tu jardín! a. Cava un hoyo en una esquina de tu jardín o utiliza una caja o una tina grande y colócala en tu balcón. b. Fórrala con hierba seca o paja. c. Coloca dentro desechos biodegradables como restos de alimentos (asegúrate de que no tengan sal o azúcar en estos), cáscaras de vegetales, papel, hojas secas, etc. d. Cubre con una fina capa de tierra. e. Riégala una o dos veces a la semana para mantenerla húmeda. f. Cada 15 días más o menos mezcla el contenido del hoyo. Añade más desechos a medida que se generan. g. Después de 3 o 4 meses el abono de compost estará listo para ser usado.

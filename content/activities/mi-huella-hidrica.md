@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/mi-huella-hidrica/"
 description: "Los participantes calculan su huella hídrica utilizando una calculadora en línea, reflexionando sobre su consumo directo e indirecto de agua."
-summary: "Calcula tu huella hídrica."
+summary: "Calculá tu huella hídrica."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,27 +167,27 @@ translation_notice:
 ¿Por qué preocuparse por tu huella hídrica? La huella hídrica proporciona un indicador del uso de agua dulce tanto directo como indirecto. El enfoque en el agua dulce es importante porque es escasa; su disponibilidad anual es limitada y la demanda crece cada día. La huella hídrica de la humanidad ha superado los niveles sostenibles en varios lugares y está distribuida de manera desigual entre las personas. En esta actividad, los participantes calculan su huella hídrica utilizando una calculadora en línea.
 
 ## Preparación
-1. Asegúrate de que los participantes tengan acceso a Internet.
-2. Prepara la dirección web: https://www.waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/
-3. Revisa las preguntas de la calculadora antes de la actividad para que los participantes sepan si necesitan obtener información de sus padres.
+1. Asegurate de que los participantes tengan acceso a Internet.
+2. Prepará la dirección web: https://www.waterfootprint.org/en/resources/interactive-tools/personal-water-footprint-calculator/
+3. Revisá las preguntas de la calculadora antes de la actividad para que los participantes sepan si necesitan obtener información de sus padres.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo qué es la huella hídrica y diles que cada uno usará una calculadora en línea para descubrir su propia huella hídrica.
+1. Explicá a tu grupo qué es la huella hídrica y deciles que cada uno usará una calculadora en línea para descubrir su propia huella hídrica.
 
 ### Paso 2: Cálculo
-2. Pide a cada participante que calcule su huella hídrica usando la calculadora del Water Footprint Network.
-3. Para los participantes más jóvenes, puedes calcular una huella hídrica para todo el grupo.
+2. Pedí a cada participante que calcule su huella hídrica usando la calculadora del Water Footprint Network.
+3. Para los participantes más jóvenes, podés calcular una huella hídrica para todo el grupo.
 
 ### Paso 3: Comparación y discusión
-3. Pide a tu grupo que forme pequeños equipos y que comparen y discutan sus resultados.
-4. Finalmente, puedes tener una discusión grupal sobre el tema.
+3. Pedí a tu grupo que forme pequeños equipos y que comparen y discutan sus resultados.
+4. Finalmente, podés tener una discusión grupal sobre el tema.
 
 ## Cierre
 - ¿Cómo te ayuda una calculadora, como la que usaste hoy, a tomar conciencia de tu responsabilidad de proteger nuestros recursos naturales?
-- Ahora que sabes qué es la huella hídrica, ¿crees que necesitas hacer algunos cambios con respecto a tu uso del agua?
-- ¿En qué actividad gastas más agua? ¿Puedes hacer algo al respecto?
+- Ahora que sabés qué es la huella hídrica, ¿creés que necesitás hacer algunos cambios con respecto a tu uso del agua?
+- ¿En qué actividad gastás más agua? ¿Podés hacer algo al respecto?
 
 ## Texto original completo de la actividad
 

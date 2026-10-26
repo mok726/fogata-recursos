@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz Abono con la Basura Orgánica"
+title: "Hacé Abono con la Basura Orgánica"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-abono-con-la-basura-organica/"
-description: "Instala un sistema de compostaje para convertir residuos orgánicos en abono natural."
+description: "Instalá un sistema de compostaje para convertir residuos orgánicos en abono natural."
 summary: "Sistema de compostaje casero."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,24 +165,24 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Haz Abono con la Basura Orgánica
+# Hacé Abono con la Basura Orgánica
 
 ## Resumen
-Instala un sistema de compostaje para convertir residuos orgánicos en abono natural.
+Instalá un sistema de compostaje para convertir residuos orgánicos en abono natural.
 
 ## Preparación
-1. Consigue madera para hacer una caja simple.
-2. Asegura espacio para que circule el aire.
-3. Reúne residuos biodegradables (pieles de frutas, cáscaras de huevo, hojas de té, etc.).
+1. Conseguí madera para hacer una caja simple.
+2. Asegurá espacio para que circule el aire.
+3. Reuní residuos biodegradables (pieles de frutas, cáscaras de huevo, hojas de té, etc.).
 
 ## Desarrollo
-1. **Construcción** (20 min): Construye la caja de compost.
-2. **Llenado** (15 min): Agrega los residuos orgánicos.
+1. **Construcción** (20 min): Construí la caja de compost.
+2. **Llenado** (15 min): Agregá los residuos orgánicos.
 3. **Mantenimiento** (tiempo continuo): Remueve y cuida el compost.
-4. **Uso** (tiempo continuo): Cuando esté listo, úsalo para tus plantas.
+4. **Uso** (tiempo continuo): Cuando esté listo, usalo para tus plantas.
 
 ## Cierre
-- ¿Qué residuos puedes convertir en abono?
+- ¿Qué residuos podés convertir en abono?
 - ¿Cómo contribuye el compostaje al medio ambiente?
 - ¿Qué compromiso adquieres para seguir haciendo compost?
 

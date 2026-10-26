@@ -4,7 +4,7 @@ title: "Los Bosques Bajo Amenaza"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-bajo-amenaza/"
-description: "Crea un collage, modelo o póster educativo sobre las amenazas a los bosques. Escribe una declaración del artista y exhibe tu obra en un espacio público."
+description: "Creá un collage, modelo o póster educativo sobre las amenazas a los bosques. Escribí una declaración del artista y exhibí tu obra en un espacio público."
 summary: "Creación artística sobre amenazas a los bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,17 +166,17 @@ rama_rovers:
 # Los Bosques Bajo Amenaza
 
 ## Resumen
-Crea un collage, modelo o póster educativo sobre las amenazas a los bosques en tu área y alrededor del mundo. Escribe una declaración del artista y exhibe tu obra en un espacio público.
+Creá un collage, modelo o póster educativo sobre las amenazas a los bosques en tu área y alrededor del mundo. Escribí una declaración del artista y exhibí tu obra en un espacio público.
 
 ## Preparación
-1. Investiga las amenazas a los bosques (deforestación, incendios, cambio climático, especies invasoras, etc.).
-2. Reúne los materiales para tu obra (cartulina, revistas, pegamento, etc.).
-3. Define el formato de tu obra (collage, modelo o póster).
+1. Investigá las amenazas a los bosques (deforestación, incendios, cambio climático, especies invasoras, etc.).
+2. Reuní los materiales para tu obra (cartulina, revistas, pegamento, etc.).
+3. Definí el formato de tu obra (collage, modelo o póster).
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre las amenazas a los bosques en tu área y en el mundo.
-2. **Creación** (30-45 min): Crea tu collage, modelo o póster educativo.
-3. **Declaración** (15 min): Escribe una pequeña declaración del artista explicando los impactos y qué podemos hacer para crear una diferencia.
+1. **Investigación** (20 min): Aprendé sobre las amenazas a los bosques en tu área y en el mundo.
+2. **Creación** (30-45 min): Creá tu collage, modelo o póster educativo.
+3. **Declaración** (15 min): Escribí una pequeña declaración del artista explicando los impactos y qué podemos hacer para crear una diferencia.
 4. **Exhibición** (variable): Si es posible, exhibe tu obra en un espacio público (escuela, centro de visitantes, etc.).
 
 ## Cierre

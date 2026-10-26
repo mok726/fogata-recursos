@@ -3,7 +3,7 @@ title: "Proyecto de plantación de árboles"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-de-plantacion-de-arboles/"
-description: "Forma parte de un proyecto para plantar árboles."
+description: "Formá parte de un proyecto para plantar árboles."
 summary: "Plantación de árboles."
 
 author:
@@ -146,23 +146,23 @@ rama_rovers:
 # ¡Proyecto de plantación de árboles!
 
 ## Resumen
-Forma parte de un proyecto para plantar árboles y ayudar al medio ambiente.
+Formá parte de un proyecto para plantar árboles y ayudar al medio ambiente.
 
 ## Preparación
-1. Identifica un proyecto de plantación.
-2. Consigue árboles y herramientas.
-3. Prepara el terreno.
+1. Identificá un proyecto de plantación.
+2. Conseguí árboles y herramientas.
+3. Prepará el terreno.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara el área.
-2. **Plantación** (30 min): Planta los árboles.
-3. **Cuidado** (continua): Cuida los árboles.
-4. **Reflexión** (15 min): ¿Cómo te sientes?
+1. **Preparación** (15 min): Prepará el área.
+2. **Plantación** (30 min): Plantá los árboles.
+3. **Cuidado** (continua): Cuidá los árboles.
+4. **Reflexión** (15 min): ¿Cómo te sentís?
 
 ## Cierre
 - ¿Cuántos árboles plantaste?
 - ¿Por qué es importante plantar árboles?
-- ¿Cómo te sientes al contribuir?
+- ¿Cómo te sentís al contribuir?
 
 ---
 ## Texto original completo de la actividad

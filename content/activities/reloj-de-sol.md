@@ -4,8 +4,8 @@ title: "Reloj de Sol"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/reloj-de-sol/"
-description: "Construye tu propio reloj de Sol utilizando una plantilla y aprende cómo la posición del Sol cambia durante el día y en diferentes lugares del mundo."
-summary: "Construye un reloj que marca la hora con el Sol."
+description: "Construí tu propio reloj de Sol utilizando una plantilla y aprendé cómo la posición del Sol cambia durante el día y en diferentes lugares del mundo."
+summary: "Construí un reloj que marca la hora con el Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -165,7 +165,7 @@ rama_rovers:
 # ¡Reloj de Sol!
 
 ## Resumen
-Construye tu propio reloj de Sol utilizando la plantilla y el paso a paso que se encuentran en el apéndice "Reloj de Sol" o construye el modelo que más les guste. Investiguen y respondan las siguientes preguntas: ¿Se puede viajar con tu reloj de Sol y usarlo en otro país?
+Construí tu propio reloj de Sol utilizando la plantilla y el paso a paso que se encuentran en el apéndice "Reloj de Sol" o construí el modelo que más les guste. Investiguen y respondan las siguientes preguntas: ¿Se puede viajar con tu reloj de Sol y usarlo en otro país?
 
 ## Preparación
 1. Descargá e imprimí la plantilla del reloj de sol (ver Anexo).
@@ -184,7 +184,7 @@ Construye tu propio reloj de Sol utilizando la plantilla y el paso a paso que se
 Colocá tu reloj de sol al aire libre con luz solar directa y observá cómo la sombra indica la hora.
 
 ### Parte III - Investigación
-Investiga y respondé:
+Investigá y respondé:
 
 - ¿Se puede viajar con tu reloj de Sol y usarlo en otro país?
 - ¿Por qué un reloj de sol funciona solo en una ubicación específica?

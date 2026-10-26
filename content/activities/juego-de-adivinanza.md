@@ -3,7 +3,7 @@ title: "Juego de Adivinanza"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-adivinanza/"
-description: "Adivina qué servicios ecosistémicos provee cada tipo de suelo."
+description: "Adiviná qué servicios ecosistémicos provee cada tipo de suelo."
 summary: "Juego sobre servicios del suelo."
 
 author:
@@ -141,15 +141,15 @@ rama_rovers:
 # ¡Juego de Adivinanza!
 
 ## Resumen
-Adivina qué servicios ecosistémicos provee cada tipo de suelo y discute tus respuestas.
+Adiviná qué servicios ecosistémicos provee cada tipo de suelo y discutí tus respuestas.
 
 ## Preparación
-1. Elabora un póster con diferentes tipos de suelo.
-2. Investiga sobre los servicios de los ecosistemas.
+1. Elaborá un póster con diferentes tipos de suelo.
+2. Investigá sobre los servicios de los ecosistemas.
 
 ## Desarrollo
-1. **Preparación** (15 min): Crea el póster con tipos de suelo.
-2. **Juego** (20 min): Adivina qué servicios provee cada tipo.
+1. **Preparación** (15 min): Creá el póster con tipos de suelo.
+2. **Juego** (20 min): Adiviná qué servicios provee cada tipo.
 3. **Discusión** (10 min): ¿Están de acuerdo o en desacuerdo?
 
 ## Cierre

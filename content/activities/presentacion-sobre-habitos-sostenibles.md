@@ -3,7 +3,7 @@ title: "Presentación sobre hábitos sostenibles"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentacion-sobre-habitos-sostenibles/"
-description: "Haz una presentación sobre hábitos amigables con el medio ambiente."
+description: "Hacé una presentación sobre hábitos amigables con el medio ambiente."
 summary: "Presentación sobre sostenibilidad."
 
 author:
@@ -146,17 +146,17 @@ rama_rovers:
 # ¡Presentación sobre hábitos sostenibles!
 
 ## Resumen
-Haz una presentación sobre hábitos amigables con el medio ambiente para tu escuela o grupo juvenil.
+Hacé una presentación sobre hábitos amigables con el medio ambiente para tu escuela o grupo juvenil.
 
 ## Preparación
-1. Investiga sobre hábitos sostenibles.
-2. Prepara la presentación.
-3. Reúne materiales visuales.
+1. Investigá sobre hábitos sostenibles.
+2. Prepará la presentación.
+3. Reuní materiales visuales.
 
 ## Desarrollo
-1. **Investigación** (20 min): Recopila información.
-2. **Preparación** (20 min): Diseña la presentación.
-3. **Presentación** (15 min): Presenta a tu audiencia.
+1. **Investigación** (20 min): Recopilá información.
+2. **Preparación** (20 min): Diseñá la presentación.
+3. **Presentación** (15 min): Presentá a tu audiencia.
 4. **Reflexión** (5 min): ¿Cómo fue la experiencia?
 
 ## Cierre

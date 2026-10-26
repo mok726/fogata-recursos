@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Corre que te cazo"
+title: "Corré que te cazo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/corre-que-te-cazo/"
@@ -152,15 +152,15 @@ rama_rovers:
   - 4  # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Corre que te cazo!
+# ¡Corré que te cazo!
 
 ## Resumen
 Este juego es similar al 'corre que te alcanzo' tradicional. Escojan unos participantes para que sean osos polares y todos los demás serán focas.
 
 ## Preparación
-1. Prepara el espacio exterior.
-2. Explica las reglas del juego.
-3. Designa a los "osos polares" y las "focas".
+1. Prepará el espacio exterior.
+2. Explicá las reglas del juego.
+3. Designá a los "osos polares" y las "focas".
 
 ## Desarrollo
 1. Empiecen el juego sin zonas seguras para que escapen las focas.

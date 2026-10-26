@@ -3,7 +3,7 @@ title: "Campaña de energía renovable"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-de-energia-renovable/"
-description: "Aprende sobre energía renovable y promueve su uso en tu área."
+description: "Aprendé sobre energía renovable y promové su uso en tu área."
 summary: "Campaña de energía renovable."
 
 author:
@@ -142,18 +142,18 @@ rama_rovers:
 # ¡Campaña de energía renovable!
 
 ## Resumen
-Aprende sobre energía renovable y empieza una campaña para promover su uso en tu área.
+Aprendé sobre energía renovable y empezá una campaña para promover su uso en tu área.
 
 ## Preparación
-1. Investiga sobre energía renovable.
-2. Planifica la campaña.
-3. Prepara materiales.
+1. Investigá sobre energía renovable.
+2. Planificá la campaña.
+3. Prepará materiales.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre energía renovable.
-2. **Planificación** (20 min): Diseña la campaña.
-3. **Acción** (continua): Promueve el uso de energía renovable.
-4. **Reflexión** (10 min): Comparte lo aprendido.
+1. **Investigación** (20 min): Aprendé sobre energía renovable.
+2. **Planificación** (20 min): Diseñá la campaña.
+3. **Acción** (continua): Promové el uso de energía renovable.
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué tipos de energía renovable aprendiste?

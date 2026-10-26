@@ -3,7 +3,7 @@ title: "Medios de Comunicación Marinos"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/medios-de-comunicacion-marinos/"
-description: "Crea un video, historia fotográfica, obra de teatro o podcast sobre cómo los humanos afectan al océano local."
+description: "Creá un video, historia fotográfica, obra de teatro o podcast sobre cómo los humanos afectan al océano local."
 summary: "Creación de contenido sobre impactos humanos en el océano."
 
 author:
@@ -154,18 +154,18 @@ rama_rovers:
 # ¡Medios de Comunicación Marinos!
 
 ## Resumen
-Crea un video corto, una historia fotográfica, una obra de teatro o un podcast que explique cómo los humanos afectan al océano cercano a ti y cómo esto afecta a la comunidad local.
+Creá un video corto, una historia fotográfica, una obra de teatro o un podcast que explique cómo los humanos afectan al océano cercano a vos y cómo esto afecta a la comunidad local.
 
 ## Preparación
-1. Investiga cómo las actividades humanas están afectando tu costa local.
-2. Define tu mensaje: ¿sobre qué quieres hablarle a la gente?
-3. Elige el formato: video, historia fotográfica, obra de teatro o podcast.
+1. Investigá cómo las actividades humanas están afectando tu costa local.
+2. Definí tu mensaje: ¿sobre qué querés hablarle a la gente?
+3. Elegí el formato: video, historia fotográfica, obra de teatro o podcast.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne información sobre el área costera.
-2. **Planificación** (20 min): Escribe un guión o plan para tu proyecto.
-3. **Producción** (30 min): Crea tu proyecto (filma, graba, ensaya).
-4. **Presentación** (20 min): Comparte tu proyecto con la comunidad.
+1. **Investigación** (20 min): Reuní información sobre el área costera.
+2. **Planificación** (20 min): Escribí un guión o plan para tu proyecto.
+3. **Producción** (30 min): Creá tu proyecto (filma, grabá, ensayá).
+4. **Presentación** (20 min): Compartí tu proyecto con la comunidad.
 
 ## Cierre
 - ¿Cuál fue el mensaje principal que quisiste transmitir?

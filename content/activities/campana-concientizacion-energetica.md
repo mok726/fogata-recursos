@@ -4,7 +4,7 @@ title: "Campaña de concientización energética"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-concientizacion-energetica/"
-description: "Planifica y lleva a cabo una campaña de concientización sobre energía en tu comunidad para educar a otros sobre el uso sostenible de la energía."
+description: "Planificá y lleva a cabo una campaña de concientización sobre energía en tu comunidad para educar a otros sobre el uso sostenible de la energía."
 summary: "Educa a tu comunidad sobre energía."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,17 +164,17 @@ translation_notice:
 # ¡Campaña de concientización energética!
 
 ## Resumen
-Una campaña es cuando las personas trabajan juntas para alcanzar un objetivo común. Piensa en una campaña energética que puedas hacer en tu comunidad para promover el uso sostenible de la energía.
+Una campaña es cuando las personas trabajan juntas para alcanzar un objetivo común. Pensá en una campaña energética que puedas hacer en tu comunidad para promover el uso sostenible de la energía.
 
 ## Preparación
-1. Lee la sección de información de fondo sobre acción energética.
-2. Identifica un objetivo para tu campaña.
-3. Reúne materiales para carteles y folletos.
+1. Leé la sección de información de fondo sobre acción energética.
+2. Identificá un objetivo para tu campaña.
+3. Reuní materiales para carteles y folletos.
 
 ## Desarrollo
 
 ### Parte I - Planificación
-Elige un objetivo para tu campaña:
+Elegí un objetivo para tu campaña:
 
 **Ideas:**
 - Aumentar el uso de botellas reutilizables en la escuela
@@ -182,14 +182,14 @@ Elige un objetivo para tu campaña:
 - Promover el ahorro de energía en la escuela o centro comunitario
 
 ### Parte II - Creatividad
-Crea un plan creativo para lograr tu objetivo:
+Creá un plan creativo para lograr tu objetivo:
 - Carteles
 - Folletos
 - Publicaciones en redes sociales
 - Charlas o presentaciones
 
 ### Parte III - Ejecución
-Lleva a cabo tu campaña en la comunidad.
+Llevá a cabo tu campaña en la comunidad.
 
 ### Parte IV - Evaluación
 ¿Lograste tu objetivo? ¿Qué funcionó? ¿Qué podrías mejorar?

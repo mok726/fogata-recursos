@@ -5,7 +5,7 @@ duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/vida-saludable/"
 description: "Los participantes preparan un plan de ejercicios para su grupo scout y reflexionan sobre la importancia de una vida saludable durante un mes."
-summary: "Implementa un plan de ejercicios mensual."
+summary: "Implementá un plan de ejercicios mensual."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -167,8 +167,8 @@ rama_rovers:
 Junto a otros y otras jóvenes preparen un plan de ejercicios (10 minutos máximo) para que con todo tu grupo scout en la apertura o cierre de actividades lo lleven a cabo durante un mes. Con la supervisión de un adulto, armen una reflexión sobre la importancia de una vida saludable, tips y ventajas de esta para poder darle cierre a la actividad frente a todo el grupo. De esta forma podrás inspirar a otros scouts a llevar una vida más sana.
 
 ## Preparación
-1. Prepara el espacio para realizar ejercicios.
-2. Reúne a los participantes para planificar la rutina.
+1. Prepará el espacio para realizar ejercicios.
+2. Reuní a los participantes para planificar la rutina.
 
 ## Desarrollo
 

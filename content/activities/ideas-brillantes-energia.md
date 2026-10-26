@@ -4,8 +4,8 @@ title: "Ideas brillantes para la energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-brillantes-energia/"
-description: "Investiga proyectos de energía sostenible en el mundo (solar, hidroeléctrica) y prepara una presentación para el grupo."
-summary: "Descubre proyectos energéticos innovadores."
+description: "Investigá proyectos de energía sostenible en el mundo (solar, hidroeléctrica) y prepará una presentación para el grupo."
+summary: "Descubrí proyectos energéticos innovadores."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -163,27 +163,27 @@ translation_notice:
 # ¡Ideas brillantes para la energía!
 
 ## Resumen
-Hay muchas ideas y proyectos geniales para la eficiencia energética. Por ejemplo, el riego por goteo solar en Benin o una planta hidroeléctrica en Tayikistán que lleva electricidad a hogares y escuelas. Investiga un proyecto y preséntalo.
+Hay muchas ideas y proyectos geniales para la eficiencia energética. Por ejemplo, el riego por goteo solar en Benin o una planta hidroeléctrica en Tayikistán que lleva electricidad a hogares y escuelas. Investigá un proyecto y presentalo.
 
 ## Preparación
-1. Lee la información sobre proyectos energéticos.
-2. Visita el sitio de historias de éxito de SE4ALL.
-3. Elige un proyecto para investigar.
+1. Leé la información sobre proyectos energéticos.
+2. Visitá el sitio de historias de éxito de SE4ALL.
+3. Elegí un proyecto para investigar.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga un proyecto de energía sostenible:
+Investigá un proyecto de energía sostenible:
 
 **Fuente sugerida:** www.sustainableenergyforall.org/about/success-stories
 
 **Ejemplos de proyectos:**
 - Riego por goteo solar en Benin
-- Planta hidroeléctrica comunitaria en Tayikistán
+- Plantá hidroeléctrica comunitaria en Tayikistán
 - Paneles solares en escuelas de África
 
 ### Parte II - Preparar presentación
-Crea una presentación sobre el proyecto:
+Creá una presentación sobre el proyecto:
 
 **Elementos sugeridos:**
 - ¿Dónde está?
@@ -192,7 +192,7 @@ Crea una presentación sobre el proyecto:
 - ¿Podría implementarse en tu área?
 
 ### Parte III - Compartir
-Presenta tu proyecto al grupo.
+Presentá tu proyecto al grupo.
 
 ## Cierre
 1. ¿Qué proyecto te pareció más inspirador?

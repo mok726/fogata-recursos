@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/macetas-de-botellas/"
 description: "Los jóvenes transforman botellas de plástico en macetas colgantes para plantas, aprendiendo sobre la reutilización de residuos plásticos y la importancia de reducir el consumo de plásticos de un solo uso."
-summary: "Transforma botellas de plástico en macetas colgantes."
+summary: "Transformá botellas de plástico en macetas colgantes."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -193,7 +193,7 @@ Las botellas PET de gaseosa vienen en diferentes formas y tamaños. Estas botell
 ## Cierre
 1. ¿Qué aprendiste sobre la reutilización del plástico?
 2. ¿Qué otras ideas se te ocurren para reutilizar botellas de plástico?
-3. ¿Cómo crees que el cultivo de plantas puede ayudar al medio ambiente?
+3. ¿Cómo creés que el cultivo de plantas puede ayudar al medio ambiente?
 
 ## Texto original completo de la actividad
 

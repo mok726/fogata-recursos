@@ -3,7 +3,7 @@ title: "Canción por el Suelo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-por-el-suelo/"
-description: "Inventa una canción sobre el suelo y los factores que lo dañan."
+description: "Inventá una canción sobre el suelo y los factores que lo dañan."
 summary: "Canción sobre la protección del suelo."
 
 author:
@@ -134,20 +134,20 @@ rama_rovers: []
 # ¡Canción por el Suelo!
 
 ## Resumen
-Inventa una canción sobre el suelo y los factores que pueden dañarlo.
+Inventá una canción sobre el suelo y los factores que pueden dañarlo.
 
 ## Preparación
-- Piensa en una canción popular que te guste.
-- Reflexiona sobre los factores que dañan el suelo.
+- Pensá en una canción popular que te guste.
+- Reflexioná sobre los factores que dañan el suelo.
 
 ## Desarrollo
-1. **Creación** (25 min): Escribe la letra sobre el suelo.
-2. **Ensayo** (10 min): Practica la canción en grupo.
+1. **Creación** (25 min): Escribí la letra sobre el suelo.
+2. **Ensayo** (10 min): Practicá la canción en grupo.
 3. **Presentación** (10 min): Interpreten la canción juntos.
 
 ## Cierre
 - ¿Qué factores de daño al suelo incluiste?
-- ¿Qué mensaje quieres transmitir?
+- ¿Qué mensaje querés transmitir?
 
 ---
 ## Texto original completo de la actividad

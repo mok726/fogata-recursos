@@ -3,7 +3,7 @@ title: "Aguas Más Cálidas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aguas-mas-calidas/"
-description: "Construye modelos de arrecifes de coral sanos y blanqueados para entender el impacto del calentamiento del océano."
+description: "Construí modelos de arrecifes de coral sanos y blanqueados para entender el impacto del calentamiento del océano."
 summary: "Modelo de arrecife de coral y blanqueamiento."
 
 author:
@@ -152,18 +152,18 @@ rama_rovers:
 # ¡Aguas Más Cálidas!
 
 ## Resumen
-Construye modelos de arrecifes de coral sanos y blanqueados para entender cómo el calentamiento del océano afecta a estos ecosistemas.
+Construí modelos de arrecifes de coral sanos y blanqueados para entender cómo el calentamiento del océano afecta a estos ecosistemas.
 
 ## Preparación
-1. Reúne materiales para la construcción.
-2. Lee sobre el blanqueamiento de corales.
-3. Prepara espacio de trabajo.
+1. Reuní materiales para la construcción.
+2. Leé sobre el blanqueamiento de corales.
+3. Prepará espacio de trabajo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre los corales y el blanqueamiento.
-2. **Planificación** (10 min): Diseña ambos modelos.
-3. **Construcción** (30 min): Construye un arrecife sano y uno blanqueado.
-4. **Presentación** (5 min): Muestra y explica tus modelos.
+1. **Investigación** (15 min): Aprendé sobre los corales y el blanqueamiento.
+2. **Planificación** (10 min): Diseñá ambos modelos.
+3. **Construcción** (30 min): Construí un arrecife sano y uno blanqueado.
+4. **Presentación** (5 min): Mostrá y explicá tus modelos.
 
 ## Cierre
 - ¿Qué causa el blanqueamiento de los corales?

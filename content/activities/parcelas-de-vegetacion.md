@@ -4,7 +4,7 @@ title: "Parcelas de Vegetación"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/parcelas-de-vegetacion/"
-description: "Investiga una parcela de vegetación de 1m² en el bosque. Cuenta plantas, identifica especies y crea un dibujo a escala."
+description: "Investigá una parcela de vegetación de 1m² en el bosque. Contá plantas, identificá especies y creá un dibujo a escala."
 summary: "Muestreo científico de vegetación forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -166,19 +166,19 @@ rama_rovers:
 # Parcelas de Vegetación
 
 ## Resumen
-Investiga una parcela de vegetación de 1m² en el bosque. Cuenta plantas, identifica especies y crea un dibujo a escala.
+Investigá una parcela de vegetación de 1m² en el bosque. Contá plantas, identificá especies y creá un dibujo a escala.
 
 ## Preparación
-1. Consigue cinta métrica o cuerda para marcar 1m².
-2. Prepara cuaderno para notas y material para dibujo.
+1. Conseguí cinta métrica o cuerda para marcar 1m².
+2. Prepará cuaderno para notas y material para dibujo.
 3. Si es posible, invita a un botánico para ayudar con identificación.
 
 ## Desarrollo
-1. **Marcado** (10 min): Marca un cuadrado de 1m x 1m en el suelo forestal.
-2. **Conteo** (15 min): Cuenta el número de plantas en tu parcela.
-3. **Identificación** (15 min): Identifica especies, tamaño y otras cosas (rocas, insectos, basura).
-4. **Dibujo** (20 min): Dibuja a escala tu parcela (ej. 1:10).
-5. **Comparación** (15 min): Compara resultados con otros equipos.
+1. **Marcado** (10 min): Marcá un cuadrado de 1m x 1m en el suelo forestal.
+2. **Conteo** (15 min): Contá el número de plantas en tu parcela.
+3. **Identificación** (15 min): Identificá especies, tamaño y otras cosas (rocas, insectos, basura).
+4. **Dibujo** (20 min): Dibujá a escala tu parcela (ej. 1:10).
+5. **Comparación** (15 min): Compará resultados con otros equipos.
 
 ## Cierre
 - ¿Qué similitudes y diferencias encontraste entre parcelas?

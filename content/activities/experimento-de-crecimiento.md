@@ -4,8 +4,8 @@ title: "Experimento de crecimiento"
 duration: "1-2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-crecimiento/"
-description: "Planta semillas y experimenta con luz solar vs. oscuridad para aprender sobre fotosíntesis y la importancia del Sol para las plantas."
-summary: "Descubre cómo el Sol ayuda a las plantas a crecer."
+description: "Plantá semillas y experimentá con luz solar vs. oscuridad para aprender sobre fotosíntesis y la importancia del Sol para las plantas."
+summary: "Descubrí cómo el Sol ayuda a las plantas a crecer."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,29 +166,29 @@ translation_notice:
 # ¡Experimento de crecimiento!
 
 ## Resumen
-Aprende cómo el Sol ayuda a las plantas a crecer a través de la fotosíntesis. Planta semillas y realiza un experimento para ver la diferencia entre una planta que recibe luz solar y una que está en la oscuridad.
+Aprendé cómo el Sol ayuda a las plantas a crecer a través de la fotosíntesis. Plantá semillas y realizá un experimento para ver la diferencia entre una planta que recibe luz solar y una que está en la oscuridad.
 
 ## Preparación
-1. Reúne semillas, macetas y tierra.
-2. Prepara dos macetas iguales.
-3. Elige un lugar con sol y un lugar oscuro.
+1. Reuní semillas, macetas y tierra.
+2. Prepará dos macetas iguales.
+3. Elegí un lugar con sol y un lugar oscuro.
 
 ## Desarrollo
 
 ### Parte I - Plantar
-Planta semillas en dos macetas iguales:
+Plantá semillas en dos macetas iguales:
 - Misma tierra
 - Misma cantidad de agua
 - Mismo tipo de semillas
 
 ### Parte II - El experimento
-Coloca una maceta en un lugar con mucha luz solar.
-Coloca la otra maceta en un lugar oscuro.
+Colocá una maceta en un lugar con mucha luz solar.
+Colocá la otra maceta en un lugar oscuro.
 
-Riega ambas plantas un poco cada día durante 1-2 semanas.
+Regá ambas plantas un poco cada día durante 1-2 semanas.
 
 ### Parte III - Observación
-Registra tus observaciones diarias:
+Registrá tus observaciones diarias:
 
 | Día | Planta con sol | Planta en oscuridad |
 |-----|----------------|---------------------|
@@ -198,7 +198,7 @@ Registra tus observaciones diarias:
 | ... | | |
 
 ### Parte IV - Conclusiones
-¿Notaste diferencia en las plantas? ¿Por qué crees que ocurrió esto?
+¿Notaste diferencia en las plantas? ¿Por qué creés que ocurrió esto?
 
 ## Cierre
 1. ¿Qué le pasó a la planta que no recibió luz solar?

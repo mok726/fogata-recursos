@@ -4,7 +4,7 @@ title: "Los Biomas son Hogares"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-biomas-son-hogares/"
-description: "Aprende sobre diferentes biomas forestales, sus características y ubicación. Comparte tus respuestas con tu grupo."
+description: "Aprendé sobre diferentes biomas forestales, sus características y ubicación. Compartí tus respuestas con tu grupo."
 summary: "Investigación sobre biomas forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,18 +167,18 @@ rama_rovers:
 # Los Biomas son Hogares
 
 ## Resumen
-Aprende sobre diferentes biomas forestales, sus características y ubicación. Comparte tus respuestas con tu grupo.
+Aprendé sobre diferentes biomas forestales, sus características y ubicación. Compartí tus respuestas con tu grupo.
 
 ## Preparación
-1. Investiga qué es un bioma forestal.
-2. Prepara material para responder preguntas.
+1. Investigá qué es un bioma forestal.
+2. Prepará material para responder preguntas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende qué es un bioma forestal y sus ejemplos.
-2. **Análisis** (15 min): Nombra cuatro ejemplos con sus características y ubicación.
-3. **Reflexión** (10 min): Identifica qué biomas forestales se encuentran en tu área o país.
-4. **Presentación** (15 min): Comparte tus respuestas con el grupo.
-5. **Extensión** (20 min): Recolecta o dibuja biomas forestales y crea un juego de buscar parejas.
+1. **Investigación** (20 min): Aprendé qué es un bioma forestal y sus ejemplos.
+2. **Análisis** (15 min): Nombrá cuatro ejemplos con sus características y ubicación.
+3. **Reflexión** (10 min): Identificá qué biomas forestales se encuentran en tu área o país.
+4. **Presentación** (15 min): Compartí tus respuestas con el grupo.
+5. **Extensión** (20 min): Recolectá o dibujá biomas forestales y creá un juego de buscar parejas.
 
 ## Cierre
 - ¿Qué biomas forestales te parecieron más interesantes?

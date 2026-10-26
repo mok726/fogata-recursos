@@ -169,20 +169,20 @@ translation_notice:
 Lavarse las manos con jabón es la forma más efectiva y económica de prevenir enfermedades diarreicas e infecciones respiratorias agudas. El Día Mundial del Lavado de Manos se celebra cada año el 15 de octubre. En esta actividad, los participantes organizan una campaña educativa sobre el lavado de manos utilizando títeres para enseñar a otros sobre la importancia de este hábito.
 
 ## Preparación
-1. Prepara los materiales para los títeres.
-2. Investiga sobre el Día Mundial del Lavado de Manos.
+1. Prepará los materiales para los títeres.
+2. Investigá sobre el Día Mundial del Lavado de Manos.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Recuerda a tu grupo cómo lavarse las manos les ayuda a mantener una buena salud.
+1. Recordá a tu grupo cómo lavarse las manos les ayuda a mantener una buena salud.
 2. Pregunta: ¿Qué enfermedades se pueden prevenir gracias al lavado de manos con jabón?
-3. Explica a tu grupo sobre el **Día Mundial del Lavado de Manos** y diles que van a organizar su propio Día del Lavado de Manos en la escuela o lugar de reunión.
+3. Explicá a tu grupo sobre el **Día Mundial del Lavado de Manos** y deciles que van a organizar su propio Día del Lavado de Manos en la escuela o lugar de reunión.
 
 ### Paso 2: Campaña educativa
-4. Explica a tu grupo que van a crear una campaña educativa sobre el lavado de manos para la escuela, el lugar de reunión o la comunidad.
+4. Explicá a tu grupo que van a crear una campaña educativa sobre el lavado de manos para la escuela, el lugar de reunión o la comunidad.
 5. Van a preparar un **espectáculo de títeres** para enseñar a otros sobre el lavado de manos adecuado.
-6. Anima a los participantes a ser creativos: pueden incluir canciones, pósters y poemas para hacer el espectáculo aún más divertido.
+6. Animá a los participantes a ser creativos: pueden incluir canciones, pósters y poemas para hacer el espectáculo aún más divertido.
 
 ### Paso 3: Preparación
 7. Da a tu grupo tiempo suficiente para prepararse.

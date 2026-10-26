@@ -3,7 +3,7 @@ title: "Proyecto Comunitario sobre el Agua"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-comunitario-sobre-el-agua/"
-description: "Crea un proyecto comunitario para conservar el agua en tu escuela o comunidad."
+description: "Creá un proyecto comunitario para conservar el agua en tu escuela o comunidad."
 summary: "Proyecto comunitario de conservación del agua."
 
 author:
@@ -148,23 +148,23 @@ rama_rovers:
 # ¡Proyecto Comunitario sobre el Agua!
 
 ## Resumen
-Crea un proyecto comunitario para conservar el agua en tu escuela o comunidad, como un huerto escolar eficiente o un sistema de captación de agua de lluvia.
+Creá un proyecto comunitario para conservar el agua en tu escuela o comunidad, como un huerto escolar eficiente o un sistema de captación de agua de lluvia.
 
 ## Preparación
-1. Identifica una necesidad de conservación de agua en tu comunidad.
-2. Planifica el proyecto.
-3. Consigue materiales y permisos.
+1. Identificá una necesidad de conservación de agua en tu comunidad.
+2. Planificá el proyecto.
+3. Conseguí materiales y permisos.
 
 ## Desarrollo
 1. **Identificación** (15 min): ¿Qué proyecto sería más útil?
-2. **Planificación** (30 min): Diseña el proyecto paso a paso.
-3. **Implementación** (tiempo variable): Lleva a cabo el proyecto.
-4. **Mantenimiento** (continuo): Asegura la sostenibilidad del proyecto.
+2. **Planificación** (30 min): Diseñá el proyecto paso a paso.
+3. **Implementación** (tiempo variable): Llevá a cabo el proyecto.
+4. **Mantenimiento** (continuo): Asegurá la sostenibilidad del proyecto.
 
 ## Cierre
 - ¿Qué proyecto realizaste?
 - ¿Qué desafíos enfrentaste?
-- ¿Cómo puedes mantener el proyecto a largo plazo?
+- ¿Cómo podés mantener el proyecto a largo plazo?
 
 ---
 ## Texto original completo de la actividad

@@ -3,7 +3,7 @@ title: "Reciclaje de agua"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-agua/"
-description: "Recicla agua de cocina, baño y recoge agua lluvia."
+description: "Reciclá agua de cocina, baño y recogé agua lluvia."
 summary: "Reciclaje de agua en el hogar."
 
 author:
@@ -144,22 +144,22 @@ rama_rovers:
 # ¡Reciclaje de agua!
 
 ## Resumen
-Recicla el agua de cocina, baño y limpieza, y recoge agua lluvia para regar plantas.
+Reciclá el agua de cocina, baño y limpieza, y recogé agua lluvia para regar plantas.
 
 ## Preparación
-- Identifica fuentes de agua reciclable.
-- Prepara recipientes para recolectar agua.
+- Identificá fuentes de agua reciclable.
+- Prepará recipientes para recolectar agua.
 
 ## Desarrollo
-1. **Recolección** (continua): Recoge agua de cocina y baño.
-2. **Lluvia** (continua): Recoge agua de lluvia.
-3. **Uso** (continua): Usa el agua para regar plantas.
-4. **Compartir** (10 min): Comparte tu experiencia con el grupo.
+1. **Recolección** (continua): Recogé agua de cocina y baño.
+2. **Lluvia** (continua): Recogé agua de lluvia.
+3. **Uso** (continua): Usá el agua para regar plantas.
+4. **Compartir** (10 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Cuánta agua lograste reciclar?
-- ¿Cómo te sientes al reutilizar el agua?
-- ¿Qué otros usos puedes dar al agua reciclada?
+- ¿Cómo te sentís al reutilizar el agua?
+- ¿Qué otros usos podés dar al agua reciclada?
 
 ---
 ## Texto original completo de la actividad

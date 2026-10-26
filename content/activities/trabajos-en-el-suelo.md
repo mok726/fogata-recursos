@@ -3,7 +3,7 @@ title: "Trabajos en el Suelo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/trabajos-en-el-suelo/"
-description: "Enumera trabajos relacionados con el suelo y juega a adivinarlos."
+description: "Enumerá trabajos relacionados con el suelo y jugá a adivinarlos."
 summary: "Juego sobre trabajos relacionados con el suelo."
 
 author:
@@ -145,15 +145,15 @@ rama_rovers:
 # ¡Trabajos en el Suelo!
 
 ## Resumen
-Enumera trabajos que dependen del suelo y juega a adivinarlos con tu grupo.
+Enumerá trabajos que dependen del suelo y jugá a adivinarlos con tu grupo.
 
 ## Preparación
-- Piensa en trabajos relacionados con el suelo.
-- Prepara papel y lapiceras.
+- Pensá en trabajos relacionados con el suelo.
+- Prepará papel y lapiceras.
 
 ## Desarrollo
-1. **Lista** (10 min): Enumera tantos trabajos como puedas.
-2. **Juego** (20 min): Actúa un trabajo mientras otros adivinan.
+1. **Lista** (10 min): Enumerá tantos trabajos como puedas.
+2. **Juego** (20 min): Actuá un trabajo mientras otros adivinan.
 3. **Discusión** (15 min): ¿Cómo podría afectar la degradación del suelo a estos trabajos?
 
 ## Cierre

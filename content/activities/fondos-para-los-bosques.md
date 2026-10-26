@@ -4,7 +4,7 @@ title: "Fondos para los Bosques"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/fondos-para-los-bosques/"
-description: "Organiza un evento para recaudar fondos para proteger a un bosque (o parte de un bosque). Dona el dinero a un grupo local de conservación forestal o a una organización que trabaje por la protección forestal en otro país."
+description: "Organizá un evento para recaudar fondos para proteger a un bosque (o parte de un bosque). Doná el dinero a un grupo local de conservación forestal o a una organización que trabaje por la protección forestal en otro país."
 summary: "Recaudación de fondos para la conservación de bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -165,20 +165,20 @@ rama_rovers:
 # Fondos para los Bosques
 
 ## Resumen
-Organiza un evento para recaudar fondos para proteger a un bosque (o parte de un bosque). Dona el dinero a un grupo local de conservación forestal o a una organización que trabaje por la protección forestal en otro país. ¡No olvides que tu evento para recaudar fondos es también una oportunidad para ayudar a educar a otras personas!
+Organizá un evento para recaudar fondos para proteger a un bosque (o parte de un bosque). Doná el dinero a un grupo local de conservación forestal o a una organización que trabaje por la protección forestal en otro país. ¡No olvides que tu evento para recaudar fondos es también una oportunidad para ayudar a educar a otras personas!
 
 ## Preparación
-1. Investiga una organización de conservación forestal local o internacional a la que quieras donar los fondos.
-2. Define el tipo de evento (venta de tortas, rifa, espectáculo, etc.).
-3. Consigue los materiales y permisos necesarios.
-4. Prepara material educativo sobre los bosques para compartir durante el evento.
+1. Investigá una organización de conservación forestal local o internacional a la que quieras donar los fondos.
+2. Definí el tipo de evento (venta de tortas, rifa, espectáculo, etc.).
+3. Conseguí los materiales y permisos necesarios.
+4. Prepará material educativo sobre los bosques para compartir durante el evento.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga la organización que vas a ayudar y aprende sobre su trabajo.
-2. **Planificación** (30 min): Organiza la logística del evento y asigna roles.
-3. **Ejecución** (1-2 horas): Realiza el evento de recaudación de fondos.
-4. **Educación** (durante el evento): Comparte información sobre los beneficios de los bosques y las amenazas que enfrentan.
-5. **Donación** (15 min): Realiza la donación a la organización elegida.
+1. **Investigación** (30 min): Investigá la organización que vas a ayudar y aprendé sobre su trabajo.
+2. **Planificación** (30 min): Organizá la logística del evento y asigná roles.
+3. **Ejecución** (1-2 horas): Realizá el evento de recaudación de fondos.
+4. **Educación** (durante el evento): Compartí información sobre los beneficios de los bosques y las amenazas que enfrentan.
+5. **Donación** (15 min): Realizá la donación a la organización elegida.
 
 ## Cierre
 - ¿Qué aprendiste sobre la organización que apoyaste?

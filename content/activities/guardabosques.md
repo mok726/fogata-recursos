@@ -4,8 +4,8 @@ title: "Guardabosques"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/guardabosques/"
-description: "Haz una entrevista a un guardabosques o guarda parques. Comparte los hallazgos con tu grupo."
-summary: "Entrevista a un guardabosques."
+description: "Hacé una entrevista a un guardabosques o guarda parques. Compartí los hallazgos con tu grupo."
+summary: "Entrevistá a un guardabosques."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -120,7 +120,7 @@ competencies:
 
 activity_type:
   - Investigación
-  - Debate / Diálogo
+  - Debatí / Diálogo
   - Sensibilización
 
 category:
@@ -166,18 +166,18 @@ rama_rovers:
 # Guardabosques
 
 ## Resumen
-Haz una entrevista a un guardabosques o guarda parques. Comparte los hallazgos con tu grupo.
+Hacé una entrevista a un guardabosques o guarda parques. Compartí los hallazgos con tu grupo.
 
 ## Preparación
-1. Identifica un guardabosques o guarda parques para entrevistar.
-2. Prepara una lista de preguntas sobre su trabajo.
-3. Consigue equipo para registrar la entrevista.
+1. Identificá un guardabosques o guarda parques para entrevistar.
+2. Prepará una lista de preguntas sobre su trabajo.
+3. Conseguí equipo para registrar la entrevista.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para el guardabosques.
-2. **Entrevista** (20 min): Realiza la entrevista y registra las respuestas.
-3. **Análisis** (10 min): Analiza los hallazgos de la entrevista.
-4. **Presentación** (15 min): Comparte los hallazgos con el grupo.
+1. **Preparación** (15 min): Prepará preguntas para el guardabosques.
+2. **Entrevista** (20 min): Realizá la entrevista y registrá las respuestas.
+3. **Análisis** (10 min): Analizá los hallazgos de la entrevista.
+4. **Presentación** (15 min): Compartí los hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de los guardabosques?

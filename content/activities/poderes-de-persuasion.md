@@ -4,7 +4,7 @@ title: "Poderes de persuasión"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/poderes-de-persuasion/"
-description: "Crea una campaña de concientización sobre plásticos en un área comercial local usando carteles y redes sociales."
+description: "Creá una campaña de concientización sobre plásticos en un área comercial local usando carteles y redes sociales."
 summary: "Concientiza a tu comunidad sobre los plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,13 +164,13 @@ translation_notice:
 # ¡Poderes de persuasión!
 
 ## Resumen
-Crea una campaña de concientización sobre plásticos en un área comercial local. Usa carteles y redes sociales para informar, motivar y dar alternativas concretas para reducir el uso de plásticos.
+Creá una campaña de concientización sobre plásticos en un área comercial local. Usá carteles y redes sociales para informar, motivar y dar alternativas concretas para reducir el uso de plásticos.
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Identifica un área comercial cercana donde se usen muchos plásticos de un solo uso.
-3. Consigue permiso para colocar carteles.
-4. Prepara materiales para crear carteles.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Identificá un área comercial cercana donde se usen muchos plásticos de un solo uso.
+3. Conseguí permiso para colocar carteles.
+4. Prepará materiales para crear carteles.
 
 ## Desarrollo
 
@@ -202,7 +202,7 @@ Lancen un hashtag y creen una comunidad online:
 - Ofrezcan premios como bolsas reutilizables
 
 ## Cierre
-1. ¿Qué mensaje crees que fue más efectivo?
+1. ¿Qué mensaje creés que fue más efectivo?
 2. ¿Cómo respondió la gente a tu campaña?
 3. ¿Qué aprendiste sobre cómo persuadir a otros?
 

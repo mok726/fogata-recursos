@@ -4,7 +4,7 @@ title: "Comer Alimentos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/comer-alimentos/"
-description: "Registra tus hábitos alimenticios durante una semana y compáralos con lo que come una persona que vive con 1 USD al día."
+description: "Registrá tus hábitos alimenticios durante una semana y comparalos con lo que come una persona que vive con 1 USD al día."
 summary: "Registro y reflexión sobre hábitos alimenticios."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -169,23 +169,23 @@ rama_rovers:
 # Comer Alimentos
 
 ## Resumen
-Registra tus hábitos alimenticios durante una semana y compáralos con lo que come una persona que vive con 1 USD al día.
+Registrá tus hábitos alimenticios durante una semana y comparalos con lo que come una persona que vive con 1 USD al día.
 
 ## Preparación
-1. Consigue un póster grande y marcadores.
-2. Dibuja una tabla con los días de la semana en la primera columna y 'desayuno', 'almuerzo', 'cena' y 'refrigerios' en la primera fila.
-3. Prepara un cuaderno para tomar notas adicionales.
+1. Conseguí un póster grande y marcadores.
+2. Dibujá una tabla con los días de la semana en la primera columna y 'desayuno', 'almuerzo', 'cena' y 'refrigerios' en la primera fila.
+3. Prepará un cuaderno para tomar notas adicionales.
 
 ## Desarrollo
-1. **Registro** (durante una semana): Anota todo lo que comes cada día en la tabla.
+1. **Registro** (durante una semana): Anotá todo lo que comés cada día en la tabla.
 2. **Análisis** (15 min): Al final de la semana, revisa lo que has enumerado.
-3. **Comparación** (15 min): Compara tus hábitos con lo que come una persona que vive con 1 USD al día.
-4. **Reflexión** (15 min): Discute y reflexiona sobre tus hallazgos con tu grupo.
-5. **Extensión** (opcional): Registra cuánto pagaron por los alimentos y calcula cuánto podrías comprar con 1 o 2 USD al día.
+3. **Comparación** (15 min): Compará tus hábitos con lo que come una persona que vive con 1 USD al día.
+4. **Reflexión** (15 min): Discutí y reflexioná sobre tus hallazgos con tu grupo.
+5. **Extensión** (opcional): Registrá cuánto pagaron por los alimentos y calculá cuánto podrías comprar con 1 o 2 USD al día.
 
 ## Cierre
 - ¿Qué te sorprendió al comparar tus hábitos alimenticios con los de una persona que vive con 1 USD al día?
 - ¿Cómo te hace sentir saber que hay personas que viven con tan poco dinero?
-- ¿Qué acciones puedes tomar para ser más consciente de tus hábitos de consumo?
+- ¿Qué acciones podés tomar para ser más consciente de tus hábitos de consumo?
 
 ---

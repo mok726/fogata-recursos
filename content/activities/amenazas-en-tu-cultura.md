@@ -3,7 +3,7 @@ title: "Amenazas en tu Cultura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-en-tu-cultura/"
-description: "Investiga creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales."
+description: "Investigá creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales."
 summary: "Creencias culturales sobre amenazas naturales."
 
 author:
@@ -151,18 +151,18 @@ rama_rovers: []
 # ¡Amenazas en tu Cultura!
 
 ## Resumen
-Investiga las creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales en tu cultura.
+Investigá las creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales en tu cultura.
 
 ## Preparación
-1. Pide ayuda a padres, abuelos, maestros o bibliotecarios.
-2. Prepara preguntas para entrevistas.
-3. Reúne materiales para el libro de fotos.
+1. Pedí ayuda a padres, abuelos, maestros o bibliotecarios.
+2. Prepará preguntas para entrevistas.
+3. Reuní materiales para el libro de fotos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga creencias locales sobre amenazas.
-2. **Entrevistas** (20 min): Habla con familiares y ancianos.
-3. **Creación** (15 min): Haz un libro de fotos explicando lo que encontraste.
-4. **Compartir** (5 min): Muestra tu libro al grupo.
+1. **Investigación** (20 min): Investigá creencias locales sobre amenazas.
+2. **Entrevistas** (20 min): Hablá con familiares y ancianos.
+3. **Creación** (15 min): Hacé un libro de fotos explicando lo que encontraste.
+4. **Compartir** (5 min): Mostrá tu libro al grupo.
 
 ## Cierre
 - ¿Qué creencias encontraste sobre las amenazas?

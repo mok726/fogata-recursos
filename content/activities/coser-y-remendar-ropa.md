@@ -3,7 +3,7 @@ title: "Coser y remendar ropa"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/coser-y-remendar-ropa/"
-description: "Aprende a coser, remendar y adaptar la ropa."
+description: "Aprendé a coser, remendar y adaptar la ropa."
 summary: "Aprendizaje de costura y remiendo."
 
 author:
@@ -143,21 +143,21 @@ rama_rovers:
 # ¡Coser y remendar ropa!
 
 ## Resumen
-Aprende a coser, remendar y adaptar la ropa para darle una segunda vida.
+Aprendé a coser, remendar y adaptar la ropa para darle una segunda vida.
 
 ## Preparación
-- Consigue aguja, hilo y ropa para remendar.
-- Busca ayuda de un adulto si es necesario.
+- Conseguí aguja, hilo y ropa para remendar.
+- Buscá ayuda de un adulto si es necesario.
 
 ## Desarrollo
-1. **Aprendizaje** (20 min): Aprende técnicas básicas de costura.
+1. **Aprendizaje** (20 min): Aprendé técnicas básicas de costura.
 2. **Práctica** (25 min): Remienda o adapta una prenda.
-3. **Reflexión** (10 min): ¿Cómo te sientes al reparar en lugar de comprar?
-4. **Compartir** (5 min): Comparte lo aprendido con el grupo.
+3. **Reflexión** (10 min): ¿Cómo te sentís al reparar en lugar de comprar?
+4. **Compartir** (5 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la costura?
-- ¿Cómo te sientes al reparar ropa en lugar de comprar nueva?
+- ¿Cómo te sentís al reparar ropa en lugar de comprar nueva?
 
 ---
 ## Texto original completo de la actividad

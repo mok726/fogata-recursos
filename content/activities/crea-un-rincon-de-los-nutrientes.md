@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Crea un Rincón de los Nutrientes"
+title: "Creá un Rincón de los Nutrientes"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/crea-un-rincon-de-los-nutrientes/"
-description: "Crea un espacio educativo sobre nutrientes en tu escuela con pósteres y materiales informativos."
+description: "Creá un espacio educativo sobre nutrientes en tu escuela con pósteres y materiales informativos."
 summary: "Rincón educativo sobre nutrientes."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -164,21 +164,21 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# Crea un Rincón de los Nutrientes
+# Creá un Rincón de los Nutrientes
 
 ## Resumen
-Crea un espacio educativo sobre nutrientes en tu escuela con pósteres y materiales informativos.
+Creá un espacio educativo sobre nutrientes en tu escuela con pósteres y materiales informativos.
 
 ## Preparación
-1. Elige un espacio en la cantina o biblioteca de la escuela.
-2. Prepara pósteres y materiales informativos.
-3. Reúne libros y folletos sobre nutrición.
+1. Elegí un espacio en la cantina o biblioteca de la escuela.
+2. Prepará pósteres y materiales informativos.
+3. Reuní libros y folletos sobre nutrición.
 
 ## Desarrollo
-1. **Diseño** (15 min): Diseña el rincón y los pósteres.
-2. **Instalación** (25 min): Instala el rincón con los materiales.
-3. **Inauguración** (15 min): Organiza una ceremonia de inauguración.
-4. **Tour** (15 min): Invita a la gente a descubrir el rincón.
+1. **Diseño** (15 min): Diseñá el rincón y los pósteres.
+2. **Instalación** (25 min): Instalá el rincón con los materiales.
+3. **Inauguración** (15 min): Organizá una ceremonia de inauguración.
+4. **Tour** (15 min): Invitá a la gente a descubrir el rincón.
 
 ## Cierre
 - ¿Qué nutrientes destacaste en el rincón?

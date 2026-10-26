@@ -4,7 +4,7 @@ title: "Rastreadores de Senderos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/rastreadores-de-senderos/"
-description: "Aprende cómo hacer símbolos de senderos y crea un sendero en el bosque para que otro grupo lo siga."
+description: "Aprendé cómo hacer símbolos de senderos y creá un sendero en el bosque para que otro grupo lo siga."
 summary: "Creación de un sendero con símbolos de orientación."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -163,22 +163,22 @@ rama_rovers:
 # Rastreadores de Senderos
 
 ## Resumen
-Aprende cómo hacer símbolos de senderos y crea un sendero en el bosque para que otro grupo lo siga.
+Aprendé cómo hacer símbolos de senderos y creá un sendero en el bosque para que otro grupo lo siga.
 
 ## Preparación
-1. Aprende los símbolos básicos de senderos ('sigue derecho', 'curva a la derecha', 'para', 'volví a casa').
-2. Reúne el material para marcar el sendero (piedras, palos, tiza, etc.).
-3. Define la ruta del sendero con tu grupo.
+1. Aprendé los símbolos básicos de senderos ('sigue derecho', 'curva a la derecha', 'para', 'volví a casa').
+2. Reuní el material para marcar el sendero (piedras, palos, tiza, etc.).
+3. Definí la ruta del sendero con tu grupo.
 
 ## Desarrollo
-1. **Aprendizaje** (15 min): Aprende y practica los símbolos de senderos.
-2. **Planificación** (15 min): Diseña la ruta del sendero con tu grupo.
-3. **Marcado** (20 min): Marca el sendero usando los símbolos aprendidos.
-4. **Desafío** (20 min): Invita a otro grupo a seguir el sendero.
+1. **Aprendizaje** (15 min): Aprendé y practicá los símbolos de senderos.
+2. **Planificación** (15 min): Diseñá la ruta del sendero con tu grupo.
+3. **Marcado** (20 min): Marcá el sendero usando los símbolos aprendidos.
+4. **Desafío** (20 min): Invitá a otro grupo a seguir el sendero.
 
 ## Cierre
 - ¿Qué aprendiste sobre la orientación en los bosques?
 - ¿Cómo te sentiste al crear y seguir el sendero?
-- ¿Qué habilidades crees que se necesitan para navegar en el bosque?
+- ¿Qué habilidades creés que se necesitan para navegar en el bosque?
 
 ---

@@ -4,7 +4,7 @@ title: "La vida en el pasado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-vida-en-el-pasado/"
-description: "Entrevista a una persona mayor para conocer cómo era la vida antes de la urbanización y cómo cambió su ciudad."
+description: "Entrevistá a una persona mayor para conocer cómo era la vida antes de la urbanización y cómo cambió su ciudad."
 summary: "Entrevistar a alguien sobre la vida pasada en la ciudad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -129,7 +129,7 @@ category:
   - Comunidad
 skills:
   - Comunicación
-  - Escucha activa
+  - Escuchá activa
   - Pensamiento crítico
 
 # ========== VALORES SCOUT ==========

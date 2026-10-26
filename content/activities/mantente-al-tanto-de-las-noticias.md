@@ -162,21 +162,21 @@ rama_rovers:
 # ¡Mantente al tanto de las noticias!
 
 ## Resumen
-Revisa la sección de ciencia y tecnología de tu periódico local durante las próximas semanas. ¿Hay alguna noticia sobre el clima, sobre productos que ahorren energía, sobre energía renovable o sobre la eficiencia energética en general?
+Revisá la sección de ciencia y tecnología de tu periódico local durante las próximas semanas. ¿Hay alguna noticia sobre el clima, sobre productos que ahorren energía, sobre energía renovable o sobre la eficiencia energética en general?
 
 ## Preparación
-1. Reúne periódicos o acceso a noticias en línea.
-2. Prepara una tabla para registrar los artículos.
-3. Organiza los grupos de trabajo.
+1. Reuní periódicos o acceso a noticias en línea.
+2. Prepará una tabla para registrar los artículos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Busca noticias sobre el clima y eficiencia energética.
-2. Si el artículo está difícil, pide a tus padres o a un profesor que te lo expliquen.
-3. Escribe tu propio resumen del reportaje.
-4. Comparte tu resumen con tu grupo o clase.
+1. Buscá noticias sobre el clima y eficiencia energética.
+2. Si el artículo está difícil, pedí a tus padres o a un profesor que te lo expliquen.
+3. Escribí tu propio resumen del reportaje.
+4. Compartí tu resumen con tu grupo o clase.
 
 ## Cierre
-1. Comparte los resúmenes con el grupo.
+1. Compartí los resúmenes con el grupo.
 2. Discutan: ¿Qué historias te inspiraron?
 3. Pregunta final: ¿Qué ideas te gustaría implementar en tu comunidad?
 

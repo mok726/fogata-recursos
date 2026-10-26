@@ -1,9 +1,9 @@
 ---
-title: "Ahorra agua en casa y escuela"
+title: "Ahorrá agua en casa y escuela"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ahorra-agua-en-casa-y-escuela/"
-description: "Piensa y dibuja formas de ahorrar agua en tu casa y escuela."
+description: "Pensá y dibujá formas de ahorrar agua en tu casa y escuela."
 summary: "Ideas para ahorrar agua."
 
 author:
@@ -134,24 +134,24 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Ahorra agua en casa y escuela!
+# ¡Ahorrá agua en casa y escuela!
 
 ## Resumen
-Piensa en formas de ahorrar agua y haz dibujos para exponerlos.
+Pensá en formas de ahorrar agua y hacé dibujos para exponerlos.
 
 ## Preparación
-- Reflexiona sobre cómo usas el agua.
-- Prepara papel y lápices de colores.
+- Reflexioná sobre cómo usás el agua.
+- Prepará papel y lápices de colores.
 
 ## Desarrollo
-1. **Lluvia de ideas** (10 min): Piensa en formas de ahorrar agua.
-2. **Dibujo** (25 min): Dibuja las ideas.
+1. **Lluvia de ideas** (10 min): Pensá en formas de ahorrar agua.
+2. **Dibujo** (25 min): Dibujá las ideas.
 3. **Exposición** (10 min): Expón los dibujos en casa, escuela o centro juvenil.
 
 ## Cierre
 - ¿Qué ideas para ahorrar agua se te ocurrieron?
 - ¿Qué dibujo te gustó más?
-- ¿Cómo puedes implementar estas ideas?
+- ¿Cómo podés implementar estas ideas?
 
 ---
 ## Texto original completo de la actividad

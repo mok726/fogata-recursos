@@ -4,7 +4,7 @@ title: "Bosques en Llamas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-en-llamas/"
-description: "Averigua cómo tu municipalidad y/o tu país maneja los incendios forestales. Comparte tus ideas con tu grupo."
+description: "Averiguá cómo tu municipalidad y/o tu país maneja los incendios forestales. Compartí tus ideas con tu grupo."
 summary: "Investigación sobre el manejo de incendios forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -117,7 +117,7 @@ competencies:
 activity_type:
   - Investigación
   - Reflexión
-  - Debate / Diálogo
+  - Debatí / Diálogo
 
 category:
   - Incendios forestales
@@ -158,21 +158,21 @@ rama_rovers:
 # Bosques en Llamas
 
 ## Resumen
-Averigua cómo tu municipalidad y/o tu país maneja los incendios forestales. Comparte tus ideas con tu grupo.
+Averiguá cómo tu municipalidad y/o tu país maneja los incendios forestales. Compartí tus ideas con tu grupo.
 
 ## Preparación
-1. Investiga cómo tu municipalidad o país maneja los incendios forestales.
-2. Prepara preguntas para investigar (incendios controlados, prevención, etc.).
+1. Investigá cómo tu municipalidad o país maneja los incendios forestales.
+2. Prepará preguntas para investigar (incendios controlados, prevención, etc.).
 
 ## Desarrollo
-1. **Investigación** (30 min): Averigua cómo se manejan los incendios forestales en tu área.
-2. **Análisis** (15 min): Reflexiona sobre si se llevan a cabo incendios controlados, se permiten incendios naturales, y si se educa a los residentes.
-3. **Reflexión** (15 min): Piensa sobre la importancia del fuego para los ecosistemas forestales.
-4. **Presentación** (15 min): Comparte tus ideas y hallazgos con tu grupo.
+1. **Investigación** (30 min): Averiguá cómo se manejan los incendios forestales en tu área.
+2. **Análisis** (15 min): Reflexioná sobre si se llevan a cabo incendios controlados, se permiten incendios naturales, y si se educa a los residentes.
+3. **Reflexión** (15 min): Pensá sobre la importancia del fuego para los ecosistemas forestales.
+4. **Presentación** (15 min): Compartí tus ideas y hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el manejo de incendios forestales en tu área?
-- ¿Cómo puedes ayudar a prevenir incendios accidentales y descontrolados?
+- ¿Cómo podés ayudar a prevenir incendios accidentales y descontrolados?
 - ¿Qué compromiso adquieres para contribuir a la prevención de incendios?
 
 ---

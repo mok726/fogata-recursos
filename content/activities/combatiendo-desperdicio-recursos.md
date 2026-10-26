@@ -5,7 +5,7 @@ duration: "2-4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/combatiendo-desperdicio-recursos/"
 description: "Los participantes construyen un sistema de clasificación de residuos para su grupo scout o su hogar, aprendiendo sobre reciclaje y gestión sostenible de recursos."
-summary: "Construye un sistema de clasificación de residuos."
+summary: "Construí un sistema de clasificación de residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -173,9 +173,9 @@ rama_rovers:
 Construí un sistema de clasificación de residuos para tu grupo scout o tu casa. Podés clasificar tus residuos en: vidrio, metal, papel, cartón, pilas y plásticos. Para hacer cada uno de los contenedores podés usar cajas, tachos de pintura vacíos, cajones de gaseosa y hasta bolsas. ¡No te olvides de usar tu imaginación para crear el sistema de clasificación de residuos más óptimo para vos y tu comunidad!
 
 ## Preparación
-1. Reúne los materiales reciclados para construir los contenedores.
-2. Investiga cómo se clasifican los residuos en tu localidad (puedes consultar con tu centro de reciclaje local).
-3. Prepara los materiales de arte para decorar.
+1. Reuní los materiales reciclados para construir los contenedores.
+2. Investigá cómo se clasifican los residuos en tu localidad (podés consultar con tu centro de reciclaje local).
+3. Prepará los materiales de arte para decorar.
 
 ## Desarrollo
 

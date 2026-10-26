@@ -158,22 +158,22 @@ rama_rovers:
 # ¡Guión radiofónico!
 
 ## Resumen
-Escribe un guión radiofónico sobre un aspecto de la biodiversidad que sea importante en tu comunidad. Alienta a tu estación de radio local a grabarlo y transmitirlo. ¡Puedes ofrecer tu participación y la de tus amigos para que sean los actores de voz!
+Escribí un guión radiofónico sobre un aspecto de la biodiversidad que sea importante en tu comunidad. Alentá a tu estación de radio local a grabarlo y transmitirlo. ¡Podés ofrecer tu participación y la de tus amigos para que sean los actores de voz!
 
 ## Preparación
-1. Investiga sobre un tema de biodiversidad local.
-2. Prepara material para el guión.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre un tema de biodiversidad local.
+2. Prepará material para el guión.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige un aspecto de la biodiversidad local.
-2. Escribe un guión radiofónico.
-3. Alienta a la estación de radio local a transmitirlo.
-4. Ofrece tu participación como actor de voz.
+1. Elegí un aspecto de la biodiversidad local.
+2. Escribí un guión radiofónico.
+3. Alentá a la estación de radio local a transmitirlo.
+4. Ofrecé tu participación como actor de voz.
 
 ## Cierre
-1. Comparte tu guión con el grupo.
-2. Reflexiona: ¿Cómo puede la radio ayudar a concienciar sobre la biodiversidad?
+1. Compartí tu guión con el grupo.
+2. Reflexioná: ¿Cómo puede la radio ayudar a concienciar sobre la biodiversidad?
 3. Pregunta final: ¿Qué mensaje esperas transmitir con tu guión?
 
 ## Texto original completo de la actividad

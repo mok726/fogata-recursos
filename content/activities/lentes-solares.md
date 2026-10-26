@@ -4,7 +4,7 @@ title: "Lentes solares"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lentes-solares/"
-description: "Construye tus propios lentes de Sol para proteger tus ojos de los rayos ultravioleta mientras realizas actividades solares."
+description: "Construí tus propios lentes de Sol para proteger tus ojos de los rayos ultravioleta mientras realizas actividades solares."
 summary: "Protege tus ojos del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========

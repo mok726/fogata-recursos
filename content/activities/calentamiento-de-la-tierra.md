@@ -5,7 +5,7 @@ duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/calentamiento-de-la-tierra/"
 description: "Experimento para ver cómo diferentes superficies (suelo, arena, agua) absorben y retienen el calor del Sol."
-summary: "Descubre qué superficies se calientan más con el Sol."
+summary: "Descubrí qué superficies se calientan más con el Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -166,30 +166,30 @@ translation_notice:
 # ¡Calentamiento de la Tierra!
 
 ## Resumen
-Algunas partes de la Tierra se calientan más rápido que otras debido a diferentes superficies, colores y factores. Realiza un experimento para ver cómo diferentes superficies absorben y retienen el calor.
+Algunas partes de la Tierra se calientan más rápido que otras debido a diferentes superficies, colores y factores. Realizá un experimento para ver cómo diferentes superficies absorben y retienen el calor.
 
 ## Preparación
-1. Lee la información sobre el calentamiento de la Tierra.
-2. Reúne los materiales: 3 recipientes, tierra, arena, agua y 3 termómetros.
-3. Busca un lugar soleado o una lámpara fuerte.
+1. Leé la información sobre el calentamiento de la Tierra.
+2. Reuní los materiales: 3 recipientes, tierra, arena, agua y 3 termómetros.
+3. Buscá un lugar soleado o una lámpara fuerte.
 
 ## Desarrollo
 
 ### Parte I - Preparar
-Llena los tres recipientes al mismo nivel:
+Llená los tres recipientes al mismo nivel:
 1. Tierra oscura
 2. Arena de color claro
 3. Agua
 
-Coloca un termómetro en cada uno.
+Colocá un termómetro en cada uno.
 
 ### Parte II - Calentar
-Coloca los recipientes bajo una lámpara fuerte o al Sol.
-Registra la temperatura cada minuto durante 10 minutos.
+Colocá los recipientes bajo una lámpara fuerte o al Sol.
+Registrá la temperatura cada minuto durante 10 minutos.
 
 ### Parte III - Enfriar
 Luego coloca los recipientes en un lugar con sombra.
-Registra la temperatura cada minuto durante otros 10 minutos.
+Registrá la temperatura cada minuto durante otros 10 minutos.
 
 ### Parte IV - Analizar
 ¿Qué superficie absorbió más calor?

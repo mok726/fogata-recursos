@@ -4,7 +4,7 @@ title: "Filmando la Costa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/filmando-la-costa/"
-description: "Crea un video corto sobre el área costera, sus características, plantas, animales y desafíos de conservación."
+description: "Creá un video corto sobre el área costera, sus características, plantas, animales y desafíos de conservación."
 summary: "Video sobre la costa."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -167,24 +167,24 @@ rama_rovers:
 # Filmando la Costa
 
 ## Resumen
-Crea un video corto sobre el área costera, sus características, plantas, animales y desafíos de conservación.
+Creá un video corto sobre el área costera, sus características, plantas, animales y desafíos de conservación.
 
 ## Preparación
-1. Investiga sobre el área costera donde quieres filmar.
-2. Escribe un guión antes de filmar.
-3. Prepara el equipo de filmación.
-4. Asegura la supervisión de un adulto.
+1. Investigá sobre el área costera donde querés filmar.
+2. Escribí un guión antes de filmar.
+3. Prepará el equipo de filmación.
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre la costa (características, plantas, animales, amenazas).
-2. **Guión** (20 min): Escribe un guión y consigue retroalimentación.
-3. **Filmación** (30 min): Graba el video.
-4. **Edición** (25 min): Edita el video si es posible.
-5. **Presentación** (15 min): Comparte el video con tu comunidad.
+1. **Investigación** (20 min): Investigá sobre la costa (características, plantas, animales, amenazas).
+2. **Guión** (20 min): Escribí un guión y conseguí retroalimentación.
+3. **Filmación** (30 min): Grabá el video.
+4. **Edición** (25 min): Editá el video si es posible.
+5. **Presentación** (15 min): Compartí el video con tu comunidad.
 
 ## Cierre
 - ¿Qué mensaje quisiste transmitir en tu video?
-- ¿Cómo puedes ayudar a proteger la costa?
+- ¿Cómo podés ayudar a proteger la costa?
 - ¿Qué compromiso adquieres para seguir creando conciencia?
 
 ---

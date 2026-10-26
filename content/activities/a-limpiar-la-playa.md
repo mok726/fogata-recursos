@@ -3,7 +3,7 @@ title: "A Limpiar la Playa"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-limpiar-la-playa/"
-description: "Organiza una limpieza de playa, clasifica y pesa la basura encontrada, y crea una exposición educativa."
+description: "Organizá una limpieza de playa, clasificá y pesá la basura encontrada, y creá una exposición educativa."
 summary: "Limpieza de playa y exposición sobre basura marina."
 
 author:
@@ -159,29 +159,29 @@ rama_rovers:
 # ¡A Limpiar la Playa!
 
 ## Resumen
-Organiza una limpieza de playa, clasifica y pesa la basura encontrada, y crea una exposición educativa con los resultados.
+Organizá una limpieza de playa, clasificá y pesá la basura encontrada, y creá una exposición educativa con los resultados.
 
 ## Preparación
-1. Identifica una playa o costa local para limpiar.
-2. Reúne materiales: bolsas, guantes, básculas.
-3. Obtén permiso si es necesario.
+1. Identificá una playa o costa local para limpiar.
+2. Reuní materiales: bolsas, guantes, básculas.
+3. Obtené permiso si es necesario.
 4. Seguridad: supervisión adulta; si aparecen objetos filosos (vidrios, jeringas, anzuelos) o algo dudoso, no se tocan: un adulto decide si se recogen.
 
 ## Desarrollo
-1. **Limpieza** (45 min): Recolecta basura de la playa con guantes.
-2. **Clasificación** (20 min): Clasifica la basura por tipo (plástico, vidrio, latas, etc.).
-3. **Registro** (15 min): Cuenta y pesa cada tipo de basura.
-4. **Exposición** (10 min): Crea una exposición con ejemplos de basura y etiquetas informativas.
+1. **Limpieza** (45 min): Recolectá basura de la playa con guantes.
+2. **Clasificación** (20 min): Clasificá la basura por tipo (plástico, vidrio, latas, etc.).
+3. **Registro** (15 min): Contá y pesá cada tipo de basura.
+4. **Exposición** (10 min): Creá una exposición con ejemplos de basura y etiquetas informativas.
 
 ## Extensión
-- Averigua cuánto tiempo tardan en descomponerse diferentes productos en el medio ambiente marino.
-- Investiga sobre los peligros de la basura para la vida marina.
-- Involucra a los medios de comunicación locales.
+- Averiguá cuánto tiempo tardan en descomponerse diferentes productos en el medio ambiente marino.
+- Investigá sobre los peligros de la basura para la vida marina.
+- Involucrá a los medios de comunicación locales.
 
 ## Cierre
 - ¿Qué tipo de basura encontraste más?
 - ¿Cómo afecta la basura a la vida marina?
-- ¿Qué puedes hacer para reducir la basura en el océano?
+- ¿Qué podés hacer para reducir la basura en el océano?
 
 ---
 ## Texto original completo de la actividad

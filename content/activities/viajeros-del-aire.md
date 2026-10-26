@@ -160,21 +160,21 @@ rama_rovers:
 # ¡Viajeros del aire!
 
 ## Resumen
-Mira alrededor de tu casa, escuela, jardín o parque. ¿Qué viaja por el aire? ¿Qué métodos utilizan los animales para volar o para planear? ¿Cómo viajan las plantas (sus semillas y su polen) por el aire?
+Mirá alrededor de tu casa, escuela, jardín o parque. ¿Qué viaja por el aire? ¿Qué métodos utilizan los animales para volar o para planear? ¿Cómo viajan las plantas (sus semillas y su polen) por el aire?
 
 ## Preparación
-1. Prepara papel y lápices para dibujar.
-2. Identifica un área al aire libre para la observación.
-3. Organiza los grupos de trabajo.
+1. Prepará papel y lápices para dibujar.
+2. Identificá un área al aire libre para la observación.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Observa el aire a tu alrededor.
-2. Identifica animales que vuelan o planean.
-3. Observa cómo viajan las semillas y el polen de las plantas.
-4. Dibuja o saca una fotografía de dos rasgos que permiten a los animales y a las plantas moverse a través del aire.
+1. Observá el aire a tu alrededor.
+2. Identificá animales que vuelan o planean.
+3. Observá cómo viajan las semillas y el polen de las plantas.
+4. Dibujá o sacá una fotografía de dos rasgos que permiten a los animales y a las plantas moverse a través del aire.
 
 ## Cierre
-1. Comparte tus dibujos con el grupo.
+1. Compartí tus dibujos con el grupo.
 2. Discutan los diferentes métodos de viaje aéreo.
 3. Pregunta final: ¿Qué adaptación para volar te pareció más sorprendente?
 

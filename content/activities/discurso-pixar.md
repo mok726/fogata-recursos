@@ -5,7 +5,7 @@ duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/discurso-pixar/"
 description: "Los participantes crean un discurso de abogacía sobre biodiversidad usando la estructura narrativa de seis frases de las películas Pixar."
-summary: "Cuenta una historia para proteger la biodiversidad."
+summary: "Contá una historia para proteger la biodiversidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -156,9 +156,9 @@ rama_rovers:
 La abogacía ofrece a las personas jóvenes la oportunidad de expresar sus puntos de vista y sus propuestas para crear un mundo mejor. Esto abarca el uso de la educación, la comunicación, las habilidades de liderazgo y la evidencia para presentar un caso convincente a favor del cambio. Contar historias es una herramienta poderosa para hacer de tu causa más atractiva, creativa y convincente. Empecemos abogando por la biodiversidad usando el Pixar Pitch.
 
 ## Preparación
-1. Lee sobre el modelo de historia Pixar.
-2. Prepara ejemplos de temas de biodiversidad.
-3. Reúne papel y lápices para los participantes.
+1. Leé sobre el modelo de historia Pixar.
+2. Prepará ejemplos de temas de biodiversidad.
+3. Reuní papel y lápices para los participantes.
 
 ## Desarrollo
 
@@ -166,7 +166,7 @@ La abogacía ofrece a las personas jóvenes la oportunidad de expresar sus punto
 Los participantes deciden sobre un tema por el que quieren abogar, por ejemplo: pérdida de biodiversidad, una amenaza particular para una especie, incendios forestales que destruyen el hábitat.
 
 ### Parte II - Introducir modelo Pixar
-Presenta el modelo de historia Pixar. Las películas Pixar usan la misma estructura narrativa con seis frases consecutivas:
+Presentá el modelo de historia Pixar. Las películas Pixar usan la misma estructura narrativa con seis frases consecutivas:
 1. Había una vez...
 2. Todos los días...
 3. Un día...
@@ -175,13 +175,13 @@ Presenta el modelo de historia Pixar. Las películas Pixar usan la misma estruct
 6. Hasta que...
 
 ### Parte III - Crear discurso
-Asigna tiempo para que los participantes trabajen en crear sus discursos considerando:
+Asigná tiempo para que los participantes trabajen en crear sus discursos considerando:
 a. Rellenar los espacios en blanco usando la historia Pixar
 b. Una vez completado, permíteles reescribir y ampliar sus historias.
 c. Por último, si queda tiempo, reescriban y amplíen la historia de nuevo.
 
 ### Parte IV - Compartir
-Invítalos a compartir sus historias contigo.
+Invitalos a compartir sus historias con vos.
 
 **Ejemplo - Problemas de Biodiversidad:**
 1. Érase una vez...un hermoso bosque que proporcionaba comida, aire limpio y agua a todas las plantas y animales que vivían en él.

@@ -3,7 +3,7 @@ title: "Viaje amigable con el medio ambiente"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/viaje-amigable-con-el-medio-ambiente/"
-description: "Planifica un viaje turístico amigable con el medio ambiente."
+description: "Planificá un viaje turístico amigable con el medio ambiente."
 summary: "Planificación de turismo sostenible."
 
 author:
@@ -140,17 +140,17 @@ rama_rovers:
 # ¡Viaje amigable con el medio ambiente!
 
 ## Resumen
-Planifica un viaje turístico amigable con el medio ambiente y comparte cómo puede ayudar a prevenir el cambio climático.
+Planificá un viaje turístico amigable con el medio ambiente y compartí cómo puede ayudar a prevenir el cambio climático.
 
 ## Preparación
-1. Investiga destinos turísticos sostenibles.
-2. Prepara materiales para la presentación.
-3. Diseña la actividad de ecoturismo.
+1. Investigá destinos turísticos sostenibles.
+2. Prepará materiales para la presentación.
+3. Diseñá la actividad de ecoturismo.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca ejemplos de ecoturismo.
-2. **Planificación** (20 min): Diseña tu viaje sostenible.
-3. **Presentación** (15 min): Comparte con otros.
+1. **Investigación** (20 min): Buscá ejemplos de ecoturismo.
+2. **Planificación** (20 min): Diseñá tu viaje sostenible.
+3. **Presentación** (15 min): Compartí con otros.
 4. **Reflexión** (5 min): ¿Cómo ayuda al medio ambiente?
 
 ## Cierre
