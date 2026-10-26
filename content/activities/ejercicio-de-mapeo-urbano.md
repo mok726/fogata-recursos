@@ -161,7 +161,7 @@ rama_rovers:
 # ¡Ejercicio de mapeo urbano!
 
 ## Resumen
-Dividanse en grupos de cuatro a cinco miembros y traten de que haya equilibrio de género en lo posible. Como equipo, creen un mapa 2D que represente su vecindario o su ciudad. Pueden decidir libremente qué enfatizar o qué incluir. Recuerden que se los alienta a reflejar sus pensamientos sobre los componentes del entorno físico, por ejemplo, los caminos, los bordes, los distritos, los nodos y los puntos de referencia de su ciudad.
+Divídanse en grupos de cuatro a cinco miembros y traten de que haya equilibrio de género en lo posible. Como equipo, creen un mapa 2D que represente su vecindario o su ciudad. Pueden decidir libremente qué enfatizar o qué incluir. Recuerden que se los alienta a reflejar sus pensamientos sobre los componentes del entorno físico, por ejemplo, los caminos, los bordes, los distritos, los nodos y los puntos de referencia de su ciudad.
 
 ## Preparación
 1. Formen grupos de 4 a 5 personas.

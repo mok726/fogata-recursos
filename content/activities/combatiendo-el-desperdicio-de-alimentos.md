@@ -183,7 +183,7 @@ Ya sabés que un tercio (1.300 millones de toneladas) de los alimentos producido
 3. Identificá qué alimentos tendés a desperdiciar más y por qué.
 4. Elegí una de las siguientes acciones:
    - Creá un grupo de WhatsApp para intercambiar recetas saludables e ideas para prevenir el desperdicio.
-   - Hacé cargo de la lista de compras en casa, comprando solo lo necesario.
+   - Hacete cargo de la lista de compras en casa, comprando solo lo necesario.
    - Otra acción que prefieras.
 
 ## Cierre

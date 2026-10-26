@@ -175,7 +175,7 @@ Sabemos que los autos son un gran culpable de las emisiones de gases de efecto i
 2. Organizá una reunión de lanzamiento.
 3. Planificá cuándo y dónde se reunirán, cuántos días a la semana.
 4. Establecé un sistema de comunicación (WhatsApp, email).
-5. Empezar a caminar o andar en bicicleta juntos.
+5. Empiecen a caminar o andar en bicicleta juntos.
 6. Establecé metas geniales (ej. dar la vuelta al mundo en distancia acumulada).
 
 ## Cierre

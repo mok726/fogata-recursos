@@ -180,7 +180,7 @@ En esta actividad, vas a iniciar un jardín en la escuela, cuidarlo y disfrutar 
 
 ## Desarrollo
 1. Conseguí un contenedor para compost (balde viejo o caja de madera).
-2. Juntá restos de comida para el compost. Capas de "verdes" (restos de comida) y "marrones" (cáscaras, cartones, periódicos, hojas secas).
+2. Juntá restos de comida para el compost. Capas de "verdes" (restos de comida) y "marrones" (cáscaras de huevo, cartones, periódicos, hojas secas).
 3. Esperá que el compost se descomponga (puede tomar meses).
 4. Agregá el compost a la tierra del jardín.
 5. Plantá vegetales nativos de tu área.

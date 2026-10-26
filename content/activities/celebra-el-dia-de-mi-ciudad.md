@@ -174,7 +174,7 @@ Organizá un evento para celebrar tu ciudad e inspirar a los residentes a hacerl
 1. Promové el evento con volantes y carteles.
 2. Organizá el evento con actividades inclusivas y culturalmente sensibles.
 3. Asegurate de incluir apoyo lingüístico y características de accesibilidad.
-4. Creá un hashtag para tu evento y promovélo en redes sociales.
+4. Creá un hashtag para tu evento y promovelo en redes sociales.
 
 ## Cierre
 1. Reflexioná sobre el éxito del evento.

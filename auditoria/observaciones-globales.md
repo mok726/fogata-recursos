@@ -59,3 +59,7 @@ Fuente verificada: OMMS, *Champions for Nature Challenge – Action Kit*, junio 
 - **No es CC BY-NC-SA 3.0 IGO**: está mal.
 - La reproducción solo está autorizada para organizaciones miembro (SAAC sí; un sitio personal no). **Opciones**: pedir permiso a OMMS (o a SAAC, que es miembro y podría avalarlo) o usar texto propio y enlazar al kit.
 - `badges.js` → `cfn`: `attribution.organization: "FAO"` y `sources: []`, también mal.
+
+## G14. Letras acentuadas perdidas ("secci  n") en textos visibles (P1)
+
+En `content/_data/badges.js` (gosolar y ciudadesverdes) y en `activity.njk` ("Tiempo preparaci  n") había letras acentuadas reemplazadas por dos espacios: "Exploraci  n", "Desaf  io", "acci  n". Se ven así en el sitio. Corregido en el PR (12 líneas + 1). Probablemente vino de copiar desde un editor con otra codificación; conviene revisar ese flujo.

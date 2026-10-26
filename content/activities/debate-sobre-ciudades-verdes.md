@@ -159,7 +159,7 @@ rama_rovers:
 # ¡Debate sobre ciudades verdes!
 
 ## Resumen
-Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Dividanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.
+Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Divídanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.
 
 ## Preparación
 1. Investigá sobre pros y contras de la urbanización.

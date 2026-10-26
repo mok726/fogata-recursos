@@ -166,7 +166,7 @@ Explorá cualquier monumento famoso o sitio de patrimonio cultural o natural en 
 
 ## Preparación
 1. Identificá un monumento o sitio patrimonial local.
-2. Prepara materiales para registrar.
+2. Prepará materiales para registrar.
 3. Organizá la visita.
 
 ## Desarrollo

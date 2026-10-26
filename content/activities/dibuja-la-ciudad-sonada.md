@@ -166,7 +166,7 @@ rama_rovers:
 
 ## Preparación
 1. Pensá en una mejora verde para tu ciudad.
-2. Prepara materiales de dibujo.
+2. Prepará materiales de dibujo.
 3. Organizá un concurso de dibujo.
 
 ## Desarrollo
