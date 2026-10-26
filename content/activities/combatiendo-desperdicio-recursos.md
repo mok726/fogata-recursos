@@ -88,7 +88,9 @@ license:
   name: "© Scouts de Argentina Asociación Civil – Todos los derechos reservados"
   url: "https://www.scouts.org.ar"
   image: ""
-  note: "Permiso para publicar esta adaptación: pendiente de solicitud."
+  note: "Titular de los derechos: Scouts de Argentina Asociación Civil."
+  allowed: "Nada publicado."
+  pending: "Publicar esta adaptación: autorización solicitada a Scouts de Argentina el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========

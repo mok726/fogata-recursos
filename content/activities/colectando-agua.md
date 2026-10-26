@@ -81,10 +81,12 @@ references:
 
 # ========== LICENCIA ==========
 license:
-  name: "© Scouts de Argentina Asociación Civil – Todos los derechos reservados"
-  url: "https://www.scouts.org.ar"
+  name: "© Solafrica – Sin licencia publicada"
+  url: "https://www.solafrica.ch/scout-badge"
   image: ""
-  note: "Permiso para publicar esta adaptación: pendiente de solicitud."
+  note: "Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar."
+  allowed: "Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales."
+  pending: "Publicar esta adaptación en un sitio web: autorización solicitada a Scouts de Argentina el 26/10/2026; falta pedirla a Solafrica."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========

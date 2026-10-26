@@ -22,8 +22,25 @@ Gran parte de las actividades se basa en materiales de otras organizaciones. Ese
 
 La licencia que corresponde a cada actividad y a cada insignia aparece en su ficha, en la sección **Créditos**. Esa indicación prevalece sobre este aviso general.
 
-Fogata de Recursos no está afiliada a la FAO, la Organización Mundial del Movimiento Scout ni Scouts de Argentina, y ninguna de esas organizaciones respalda este sitio. Los logotipos y las marcas pertenecen a sus titulares.
+Fogata de Recursos no está afiliada a la FAO, la Organización Mundial del Movimiento Scout, Solafrica ni Scouts de Argentina, y ninguna de esas organizaciones respalda este sitio. Los logotipos y las marcas pertenecen a sus titulares.
 
 ## Contacto
 
 Si sos titular de derechos de algún material publicado aquí y querés que se corrija la atribución o se retire, escribí a través de [GitHub](https://github.com/mok726/fogata-recursos/issues).
+
+## Estado de las autorizaciones
+
+Actualizado el 26/10/2026. "Autorizado" es lo que la fuente permite por escrito; "en espera" significa que pedí permiso y todavía no tengo respuesta.
+
+| Fuente | Titular | Qué está autorizado | Estado |
+|---|---|---|---|
+| Actividades propias | Mariano S. Cosentino | Todo, bajo CC BY-NC-SA 4.0 | Autorizado |
+| Insignias de Energía (2019) y Plásticos (2024) de la FAO | FAO | Adaptar y publicar con fines no comerciales (CC BY-NC-SA 3.0 IGO) | Autorizado |
+| Insignias de la FAO anteriores a 2019: Agua, Biodiversidad, Bosques, Cambio Climático, Seguridad Alimentaria, Nutrición, Océano, Hambre y Suelos | FAO | Copiar y usar el original con fines no comerciales, citando a la FAO. **No** traducir ni adaptar sin permiso | En espera: solicitado a la FAO el 26/10/2026 |
+| Insignias de Polinizadores, Reducción del Riesgo de Desastres y Ciudades Verdes | FAO | Licencia sin confirmar | En espera: solicitado a la FAO el 26/10/2026 |
+| Imágenes de las insignias YUNGA | FAO | Sin confirmar (las licencias de la FAO excluyen su logo) | En espera: solicitado a la FAO el 26/10/2026 |
+| Kits Tide Turners Plastic Challenge y Champions for Nature | OMMS (World Scout Bureau Inc.) | Reproducción solo por organizaciones scouts nacionales miembro | En espera: solicitado a la OMMS el 26/10/2026 |
+| Manual Scouts Go Solar | Solafrica (adaptación al español: A. Castillo Rosas) | La OMMS respalda que guías y scouts lo usen y adapten; no hay licencia para republicarlo | En espera: solicitado a Scouts de Argentina el 26/10/2026; falta pedirlo a Solafrica |
+| Scouts por los ODS – Mundo Mejor | Scouts de Argentina | No hay licencia publicada | En espera: solicitado a Scouts de Argentina el 26/10/2026 |
+
+Si un titular rechaza el pedido, retiro el material afectado.

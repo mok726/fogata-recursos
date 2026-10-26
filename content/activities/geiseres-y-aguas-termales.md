@@ -85,6 +85,7 @@ license:
   url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
   image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
   note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
+  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
 
 # ========== ATRIBUCIONES ==========
 attributions:

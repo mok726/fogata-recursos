@@ -85,7 +85,7 @@ arte-futurista,cambioclimatico,fao_arr,Arte futurista
 arte-inspirado-en-el-mar,biodiversidad,fao_arr,Arte inspirado en el mar
 arte-natural,biodiversidad,fao_arr,Arte natural
 arte-reciclado,cambioclimatico,fao_arr,Arte reciclado
-arte-solar,gosolar,saac,Arte Solar
+arte-solar,gosolar,solafrica,Arte Solar
 articula-energia,energia,fao_cc,Articula la energía
 articulo-cambio-climatico,energia,fao_cc,Artículo sobre el cambio climático
 audita-residuos-plastico,plastics,wosm,Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos
@@ -134,8 +134,8 @@ bosques-justos,bosques,fao_arr,Bosques Justos
 bosques-llenos-de-vida,bosques,fao_arr,Bosques Llenos de Vida
 bosques-politicos,bosques,fao_arr,Bosques Políticos
 bosques-sagrados,bosques,fao_arr,Bosques Sagrados
-brujula-solar-reloj,gosolar,saac,Brújula solar - Método del Reloj
-brujula-solar-sombra,gosolar,saac,Brújula solar - Método de la Sombra
+brujula-solar-reloj,gosolar,solafrica,Brújula solar - Método del Reloj
+brujula-solar-sombra,gosolar,solafrica,Brújula solar - Método de la Sombra
 buen-plastico-mal-plastico,plastics,fao_cc,"Buen plástico, mal plástico"
 buscando-la-suciedad,suelos,fao_arr,Buscando la Suciedad
 cadenas-alimentarias,hambre,fao_arr,Cadenas Alimentarias
@@ -215,11 +215,11 @@ cocina-saludable-y-sostenible,sacc,fao_arr,Cocina saludable y sostenible
 cocina-solar,energia,fao_cc,Cocina solar
 colecta-de-dinero,rrd,fao_sinverificar,Haz una Colecta de Dinero
 colecta-puerta-a-puerta,sacc,fao_arr,Colecta puerta a puerta
-colectando-agua,gosolar,saac,Colectando agua
+colectando-agua,gosolar,solafrica,Colectando agua
 collage-contaminacion-agua,agua,fao_arr,Collage de Contaminación del Agua
 collage-de-biodiversidad,biodiversidad,fao_arr,Collage de biodiversidad
 collage-de-las-tres-r,sacc,fao_arr,Collage de las tres R
-colores-de-la-energia-solar,gosolar,saac,Los colores de la energía solar
+colores-de-la-energia-solar,gosolar,solafrica,Los colores de la energía solar
 combatiendo-desperdicio-recursos,mundomejor,saac,Combatiendo el desperdicio de recursos
 combatiendo-el-desperdicio-de-alimentos,"cambioclimatico,nutricion,ciudadesverdes",fao_sinverificar,Combatiendo el desperdicio de alimentos
 comer-alimentos,hambre,fao_arr,Comer Alimentos
@@ -229,7 +229,7 @@ comestibles-energetico,cambioclimatico,fao_arr,Comestibles energéticos
 comida-internacional-a-la-suerte-de-la-olla,hambre,fao_arr,Comida Internacional 'A la Suerte de la Olla'
 comida-sedienta,nutricion,fao_arr,Comida Sedienta
 comida-sin-polinizadores,polinizadores,fao_sinverificar,Comida sin polinizadores
-comida-solar,gosolar,saac,Una comida solar
+comida-solar,gosolar,solafrica,Una comida solar
 comida-y-energia,energia,fao_cc,Comida y energía
 comidamania,nutricion,fao_arr,Comidamanía
 comidas-favoritas,nutricion,fao_arr,Comidas Favoritas
@@ -252,7 +252,7 @@ comunicate-rrd,rrd,fao_sinverificar,Comunícate
 concurso-de-preguntas-agua,agua,fao_arr,Concurso de Preguntas
 concurso-de-pruebas,suelos,fao_arr,Concurso de Pruebas
 concurso-por-el-clima,cambioclimatico,fao_arr,Concurso por el clima
-concurso-solar,gosolar,saac,Concurso solar
+concurso-solar,gosolar,solafrica,Concurso solar
 conectate-con-tu-comunidad,rrd,fao_sinverificar,Conéctate con tu Comunidad
 confesiones-de-los-consumidores,bosques,fao_arr,Confesiones de los Consumidores
 conoce-a-los-expertos,rrd,fao_sinverificar,Conoce a los Expertos
@@ -371,7 +371,7 @@ donde-esta-el-agua-bosques,bosques,fao_arr,¿Dónde está el Agua? - Bosques
 donde-esta-el-agua,agua,fao_arr,¿Dónde está el agua?
 dramatizacion-sobre-el-sistema-alimentario,hambre,fao_arr,Dramatización sobre el Sistema Alimentario
 ducha-rapida,sacc,fao_arr,Ducha rápida
-ducha-solar,gosolar,saac,Ducha solar
+ducha-solar,gosolar,solafrica,Ducha solar
 dulces-suenos,nutricion,fao_arr,Dulces Sueños
 echa-una-mirada-al-suelo,suelos,fao_arr,Echa una Mirada al Suelo
 echando-raices,suelos,fao_arr,Echando Raíces
@@ -571,7 +571,7 @@ hora-de-la-prueba-rrd,rrd,fao_sinverificar,Hora de la Prueba
 hora-de-limpiar,agua,fao_arr,Hora de Limpiar
 hora-del-concurso,nutricion,fao_arr,Hora del Concurso
 hornear-con-burbujas,energia,fao_cc,Hornear con burbujas
-horno-solar-cocina-solar,gosolar,saac,Horno Solar - Cocina Solar
+horno-solar-cocina-solar,gosolar,solafrica,Horno Solar - Cocina Solar
 horno-solar,sacc,fao_arr,Horno solar
 huella-hidrica,cambioclimatico,fao_arr,Huella hídrica
 huellas-de-plastico-mas-grandes,plastics,wosm,Las huellas de plástico más grandes
@@ -666,7 +666,7 @@ las-capas-del-bosque,bosques,fao_arr,Las Capas del Bosque
 lavando-la-tierra,suelos,fao_arr,Lavando la Tierra
 lavar-ropa-de-manera-eficiente,sacc,fao_arr,Lavar ropa de manera eficiente
 leccion-de-historia,ciudadesverdes,fao_sinverificar,Lección de historia
-lentes-solares,gosolar,saac,Lentes solares
+lentes-solares,gosolar,solafrica,Lentes solares
 letrero-no-propagandas,sacc,fao_arr,Letrero No Propagandas
 letreros-para-proteger-arroyos,biodiversidad,fao_arr,Letreros para proteger arroyos
 lideres-jovenes,cambioclimatico,fao_arr,Líderes jóvenes
@@ -775,7 +775,7 @@ organiza-un-evento-de-narracion-de-historias,nutricion,fao_arr,Organiza un Event
 organizador-comunitario-biodiversidad,biodiversidad,fao_arr,Organizador comunitario - biodiversidad
 organizador-comunitario,sacc,fao_arr,Organizador comunitario
 organizandose,suelos,fao_arr,Organizándose
-ozono-y-quemaduras-de-sol,gosolar,saac,Ozono y quemaduras de sol
+ozono-y-quemaduras-de-sol,gosolar,solafrica,Ozono y quemaduras de sol
 p-y-r,rrd,fao_sinverificar,P & R
 paisaje-local,polinizadores,fao_sinverificar,Paisaje local
 paisajes-en-peligro,hambre,fao_arr,Paisajes en Peligro
@@ -864,7 +864,7 @@ prueba-boscosa,bosques,fao_arr,Prueba Boscosa
 prueba-de-densidad,agua,fao_arr,Prueba de densidad
 puntos-calientes-de-biodiversidad,biodiversidad,fao_arr,Puntos calientes de biodiversidad
 puntos-de-encuentro-de-la-ciudad,ciudadesverdes,fao_sinverificar,Puntos de encuentro de la ciudad
-purificacion-agua-sodis,gosolar,saac,Purificación de agua (SODIS)
+purificacion-agua-sodis,gosolar,solafrica,Purificación de agua (SODIS)
 que-animal-soy-yo,oceano,fao_arr,¿Qué Animal Soy Yo?
 que-empiece-el-juego,nutricion,fao_arr,¡Que Empiece el Juego!
 que-esta-en-riesgo,cfn,wosm,¿Qué está en riesgo?
@@ -902,7 +902,7 @@ refugiados-por-el-clima,cambioclimatico,fao_arr,Refugiados por el clima
 regular-uso-plasticos,plastics,wosm,Regular el uso de plásticos
 relatos-de-viaje,cambioclimatico,fao_arr,Relatos de viaje
 relevamiento-de-polinizadores,polinizadores,fao_sinverificar,Relevamiento de polinizadores
-reloj-de-sol,gosolar,saac,Reloj de Sol
+reloj-de-sol,gosolar,solafrica,Reloj de Sol
 reportaje-sobre-el-carbono,bosques,fao_arr,Reportaje sobre el Carbono
 reportaje,cambioclimatico,fao_arr,Reportaje
 resena-de-libro-polinizadores,polinizadores,fao_sinverificar,Reseña de libro

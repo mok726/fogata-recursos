@@ -19,7 +19,7 @@ module.exports = function () {
   license: {
     type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Sin actividades publicadas; licencia de la edición original sin verificar."
+    note: "Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -56,7 +56,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -129,7 +129,7 @@ sections: {
   license: {
     type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Sin actividades publicadas; licencia de la edición original sin verificar."
+    note: "Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -166,7 +166,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -235,7 +235,7 @@ sections: {
   license: {
     type: "CC BY-NC-SA 4.0",
     url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
-    note: "Las actividades de la FAO usan CC BY-NC-SA 4.0; las del kit Tide Turners (© World Scout Bureau) tienen permiso pendiente. Ver la licencia de cada actividad."
+    note: "Las actividades de la FAO usan CC BY-NC-SA 4.0. Las del kit Tide Turners (© World Scout Bureau) esperan autorización, solicitada a la OMMS el 26/10/2026. Ver la licencia de cada actividad."
   },
   attribution: {
     organization: "FAO",
@@ -303,7 +303,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -607,9 +607,9 @@ sections: {
       hero_image: "/imagenes/insignias/gosolar-hero.png",
       sources: [],
   license: {
-    type: "© Scouts de Argentina A.C. – Todos los derechos reservados",
-    url: "https://www.scouts.org.ar",
-    note: "Permiso pendiente de solicitud."
+    type: "© Solafrica – Sin licencia publicada",
+    url: "https://www.solafrica.ch/scout-badge",
+    note: "Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Scouts de Argentina el 26/10/2026; falta pedirla a Solafrica."
   },
   attribution: {
     organization: "Scouts de Argentina www.scouts.org.ar",
@@ -696,7 +696,7 @@ sections: {
   license: {
     type: "© Scouts de Argentina A.C. – Todos los derechos reservados",
     url: "https://www.scouts.org.ar",
-    note: "Permiso pendiente de solicitud."
+    note: "Pendiente: autorización solicitada a Scouts de Argentina el 26/10/2026."
   },
   attribution: {
     organization: "Scouts de Argentina www.scouts.org.ar",
@@ -766,7 +766,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -909,7 +909,7 @@ sections: {
   license: {
     type: "© World Scout Bureau Inc. – Todos los derechos reservados",
     url: "https://www.scout.org",
-    note: "Reproducción autorizada solo a organizaciones miembro de la OMMS. Permiso pendiente de solicitud."
+    note: "Autorizado: reproducción por organizaciones miembro de la OMMS. Pendiente: publicación en este sitio, autorización solicitada a la OMMS el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -977,7 +977,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1098,7 +1098,7 @@ sections: {
   license: {
     type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Sin actividades publicadas; licencia de la edición original sin verificar."
+    note: "Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1135,7 +1135,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1207,7 +1207,7 @@ sections: {
   license: {
     type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Permiso pendiente de solicitud."
+    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1278,7 +1278,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1491,7 +1491,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1562,7 +1562,7 @@ sections: {
   license: {
     type: "© FAO – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Uso no comercial permitido citando a la FAO. Traducción y adaptación: permiso pendiente de solicitud."
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1744,7 +1744,7 @@ sections: {
   license: {
     type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Permiso pendiente de solicitud."
+    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1956,7 +1956,7 @@ sections: {
   license: {
     type: "© FAO – Licencia sin confirmar",
     url: "https://www.fao.org/yunga/resources/yunga-publications/en",
-    note: "Licencia de la edición original sin confirmar. Permiso pendiente de solicitud."
+    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",

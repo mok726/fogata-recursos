@@ -83,6 +83,7 @@ license:
   name: "Creative Commons BY-NC-SA 4.0"
   url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
   image: "https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png"
+  allowed: "Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
 
 # ========== ATRIBUCIONES ==========
 attributions:

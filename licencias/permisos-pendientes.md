@@ -19,7 +19,10 @@ Cuando llegue un permiso, se cambia la clase en `licencias/scripts/aplicar_licen
 | `fao_arr` (ediciones FAO anteriores a CC) | © FAO, todos los derechos reservados | 757 |
 | `fao_sinverificar` (Polinizadores, RRD, Ciudades Verdes) | © FAO, licencia sin confirmar | 113 |
 | `wosm` (Tide Turners, Champions for Nature) | © World Scout Bureau Inc. | 40 |
-| `saac` (Go Solar, Mundo Mejor) | © Scouts de Argentina | 23 |
+| `saac` (Mundo Mejor) | © Scouts de Argentina | 10 |
+| `solafrica` (Go Solar) | © Solafrica, sin licencia publicada | 13 |
+
+Emails a la FAO, la OMMS y Scouts de Argentina enviados el 26/10/2026. Falta Solafrica.
 
 **Con permiso pendiente: 933 de 1041 actividades (90 %).** Si algún titular se niega, hay que retirar esas actividades.
 
@@ -51,7 +54,12 @@ Además, en el mismo email:
 - **Contacto:** worldbureau@scout.org. Alternativa: pedirlo a través de Scouts de Argentina, que es organización miembro.
 - **Motivo:** *Tide Turners Plastic Challenge* (2020, 20 actividades) y *Champions for Nature* (2020, con WWF, 20 actividades). Ambos dicen: "© World Scout Bureau Inc. Reproduction is authorised for NSOs and NSAs, which are members of the World Organization of the Scout Movement". Formato de crédito que piden: "© 2020. World Organization of the Scout Movement. Reprinted with permission."
 
-## 3. Scouts de Argentina: 23 actividades
+## 3. Solafrica: 13 actividades (Go Solar)
+
+- **Contacto:** scoutsgosolar@solafrica.ch (figura en el manual). Para la versión en español: centros.scouts@scouts.org.mx.
+- **Motivo:** las actividades de Go Solar salen del manual *Scouts Go Solar – Manual de Energía Solar* (Solafrica, junio de 2015; adaptación al español de Abelardo Castillo Rosas). Lo desarrollaron con YUNGA y la OMMS. El manual no trae aviso de copyright ni licencia; solo dice que "la OMMS respalda el uso de este manual […] por Guías y Scouts […], quienes lo pueden adaptar en lo necesario para sus necesidades y requerimientos locales". Eso es un respaldo de la OMMS para usarlo en el programa, no una licencia del autor para republicarlo en la web.
+
+## 4. Scouts de Argentina: 10 actividades (Mundo Mejor). Email enviado el 26/10/2026
 
 - **Contacto:** no encontré uno publicado. Probablemente el Equipo Nacional de Programa (www.scouts.org.ar).
 - **Motivo:** *Desafío Scouts Go Solar – Manual de Energía Solar* (2021, 13 actividades) y *Scouts por los ODS – Mundo Mejor* (2021, 10 actividades). No tienen ninguna licencia abierta publicada.

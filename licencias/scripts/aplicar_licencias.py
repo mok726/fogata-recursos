@@ -1,18 +1,27 @@
 # Uso (desde la raíz del repo): python3 licencias/scripts/aplicar_licencias.py licencias/licencias-por-actividad.csv
 import yaml,glob,os,re,json,collections,sys
 NCSA4=("Creative Commons BY-NC-SA 4.0","https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es","https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png")
+CC_OK="Copiar, distribuir y adaptar con fines no comerciales, citando la fuente y compartiendo las adaptaciones bajo la misma licencia."
+SOL="26/10/2026"
 L={
- 'propio':dict(lic=NCSA4,note=None,status=None),
- 'fao_cc':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None),
- 'fao_sinverificar':dict(lic=("© FAO – Licencia sin confirmar","https://www.fao.org/contact-us/terms/en/",""),note="No se pudo confirmar la licencia de la edición original. Permiso de la FAO para publicar esta adaptación: pendiente de solicitud.",status="permiso-pendiente"),
- 'fao_arr':dict(lic=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/",""),note="La FAO autoriza el uso no comercial citándola como fuente y titular de los derechos. La traducción y la adaptación requieren su permiso: pendiente de solicitud.",status="permiso-pendiente"),
- 'wosm':dict(lic=("© World Scout Bureau Inc. – Todos los derechos reservados","https://www.scout.org",""),note="La reproducción está autorizada solo a las organizaciones miembro de la OMMS. Permiso para publicar esta adaptación: pendiente de solicitud.",status="permiso-pendiente"),
- 'saac':dict(lic=("© Scouts de Argentina Asociación Civil – Todos los derechos reservados","https://www.scouts.org.ar",""),note="Permiso para publicar esta adaptación: pendiente de solicitud.",status="permiso-pendiente"),
+ 'propio':dict(lic=NCSA4,note=None,status=None,allowed=CC_OK,pending=None),
+ 'fao_cc':dict(lic=NCSA4,note="Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio.",status=None,allowed=CC_OK,pending=None),
+ 'fao_sinverificar':dict(lic=("© FAO – Licencia sin confirmar","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO. No se pudo confirmar la licencia de la edición original.",status="permiso-pendiente",
+    allowed="Nada confirmado.",pending=f"Publicar esta traducción o adaptación: autorización solicitada a la FAO el {SOL}, en espera de respuesta."),
+ 'fao_arr':dict(lic=("© FAO – Todos los derechos reservados","https://www.fao.org/contact-us/terms/en/",""),note="Titular de los derechos: FAO.",status="permiso-pendiente",
+    allowed="Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular.",pending=f"Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el {SOL}, en espera de respuesta."),
+ 'wosm':dict(lic=("© World Scout Bureau Inc. – Todos los derechos reservados","https://www.scout.org",""),note="Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.).",status="permiso-pendiente",
+    allowed="Reproducción por las organizaciones scouts nacionales miembro de la OMMS.",pending=f"Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el {SOL}, en espera de respuesta."),
+ 'saac':dict(lic=("© Scouts de Argentina Asociación Civil – Todos los derechos reservados","https://www.scouts.org.ar",""),note="Titular de los derechos: Scouts de Argentina Asociación Civil.",status="permiso-pendiente",
+    allowed="Nada publicado.",pending=f"Publicar esta adaptación: autorización solicitada a Scouts de Argentina el {SOL}, en espera de respuesta."),
+ 'solafrica':dict(lic=("© Solafrica – Sin licencia publicada","https://www.solafrica.ch/scout-badge",""),note="Titular de los derechos: Solafrica (manual Scouts Go Solar, 2015; adaptación al español de Abelardo Castillo Rosas), desarrollado con YUNGA y la OMMS. Scouts de Argentina lo usa en su desafío Go Solar.",status="permiso-pendiente",
+    allowed="Según el manual, la OMMS respalda que guías y scouts lo usen y adapten a sus necesidades locales.",pending=f"Publicar esta adaptación en un sitio web: autorización solicitada a Scouts de Argentina el {SOL}; falta pedirla a Solafrica."),
 }
-RANK=['propio','fao_cc','fao_sinverificar','fao_arr','saac','wosm']
+RANK=['propio','fao_cc','fao_sinverificar','fao_arr','solafrica','saac','wosm']
 def classify_ref(r):
     t=(r.get('title') or '').lower(); u=(r.get('url') or '').lower(); y=r.get('year')
     if 'tide turners' in t or 'champions for nature' in t: return 'wosm'
+    if 'go solar' in t: return 'solafrica'
     if 'scouts.org.ar' in u: return 'saac'
     # Verificadas en el PDF: Energy 2019 y Plastics 2024 (CC BY-NC-SA 3.0 IGO).
     if any(k in t for k in ['energy','plastics']): return 'fao_cc'
@@ -39,6 +48,8 @@ for f in sorted(glob.glob('content/activities/*.md')):
     spec=L[c]; n,u,i=spec['lic']
     lines=["license:",f"  name: {q(n)}",f"  url: {q(u)}",f"  image: {q(i)}"]
     if spec['note']: lines.append(f"  note: {q(spec['note'])}")
+    if spec['allowed']: lines.append(f"  allowed: {q(spec['allowed'])}")
+    if spec['pending']: lines.append(f"  pending: {q(spec['pending'])}")
     if spec['status']: lines.append(f"  status: {q(spec['status'])}")
     block=nl.join(lines)+nl
     start=raw.index('---')+3; end=raw.index('\n---',start)

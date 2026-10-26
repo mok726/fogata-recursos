@@ -97,3 +97,26 @@ Completá lo que está entre corchetes antes de enviarlos. Adjuntá o enlazá [l
 >
 > Mariano S. Cosentino
 > [email] · https://mscosentino.com
+
+---
+
+## 4. Solafrica (en inglés): Go Solar
+
+**Para:** scoutsgosolar@solafrica.ch
+**CC (opcional):** centros.scouts@scouts.org.mx (autores de la adaptación al español)
+**Asunto:** Permission request – Spanish adaptations of "Scouts Go Solar" activities on a non-commercial Scout website
+
+> Dear Solafrica team,
+>
+> My name is Mariano S. Cosentino. I am a Scout volunteer in Argentina [rol/grupo]. I run "Fogata de Recursos" (https://mok726.github.io/fogata-recursos/), a free, non-commercial website that organises Scout and educational activities so leaders can search them by age group, SDG and badge.
+>
+> The site includes 13 activities based on the Spanish edition of your "Scouts Go Solar – Manual de Energía Solar" (2015, Spanish adaptation by Abelardo Castillo Rosas). Scouts de Argentina uses it in its Go Solar challenge. The activities are solar art, solar clock, solar compass, solar cooker, solar shower, SODIS water purification, sunglasses, colours of solar energy, ozone and sunburn, water collection, solar food and the solar competition. Each one credits Solafrica, YUNGA and WOSM and links to www.solafrica.ch/scout-badge.
+>
+> The manual says WOSM endorses its use and adaptation by Guides and Scouts, but I found no licence covering publication on a website. I would therefore like to ask for permission to keep publishing these adaptations, ideally under a Creative Commons BY-NC-SA 4.0 licence, or under whatever conditions you prefer.
+>
+> If you prefer that I remove the content, I will do so promptly.
+>
+> Kind regards,
+>
+> Mariano S. Cosentino
+> [email] · https://mscosentino.com

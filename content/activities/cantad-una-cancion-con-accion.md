@@ -73,7 +73,9 @@ license:
   name: "© FAO – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "La FAO autoriza el uso no comercial citándola como fuente y titular de los derechos. La traducción y la adaptación requieren su permiso: pendiente de solicitud."
+  note: "Titular de los derechos: FAO."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ADICIONALES ==========

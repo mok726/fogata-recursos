@@ -89,7 +89,9 @@ license:
   name: "© World Scout Bureau Inc. – Todos los derechos reservados"
   url: "https://www.scout.org"
   image: ""
-  note: "La reproducción está autorizada solo a las organizaciones miembro de la OMMS. Permiso para publicar esta adaptación: pendiente de solicitud."
+  note: "Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)."
+  allowed: "Reproducción por las organizaciones scouts nacionales miembro de la OMMS."
+  pending: "Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
