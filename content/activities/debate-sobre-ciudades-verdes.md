@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debatí sobre ciudades verdes"
+title: "Debate sobre ciudades verdes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-sobre-ciudades-verdes/"
-description: "Debatí estructurado sobre los pros y contras de la urbanización para desarrollar habilidades de argumentación."
+description: "Debate estructurado sobre los pros y contras de la urbanización para desarrollar habilidades de argumentación."
 summary: "Debatir sobre los pros y contras de la urbanización."
 
 # ========== AUTORÍA Y FUENTES ==========

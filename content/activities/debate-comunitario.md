@@ -4,7 +4,7 @@ title: "Debate comunitario sobre energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-comunitario/"
-description: "Debatí donde diferentes grupos de la comunidad (empresas, gobierno, jóvenes) buscan una solución a un problema energético local."
+description: "Debate donde diferentes grupos de la comunidad (empresas, gobierno, jóvenes) buscan una solución a un problema energético local."
 summary: "Encontrá soluciones energéticas para tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
