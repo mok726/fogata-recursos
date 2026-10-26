@@ -180,7 +180,7 @@ Visita un bosque de tu área y busca basura y otros tipos de desechos. Piensa en
 ## Desarrollo
 1. **Observación** (10 min): Visita el bosque y observa la basura y desechos presentes. Reflexiona sobre cómo la naturaleza descompone algunos materiales (ej. vasos de papel) mientras otros permanecen (ej. vidrio, plástico).
 2. **Recolección** (30-45 min): Recoge la basura cuidadosamente, usando guantes y protección. Separa los materiales reciclables si es posible.
-3. **Eliminación** (15 min): Deshazte de la basura apropiadamente en un bote de basura o centro de reciclaje.
+3. **Eliminación** (15 min): Deshazte de la basura apropiadamente en un tacho de basura o centro de reciclaje.
 4. **Reflexión** (15 min): Comparte tus ideas con tu familia y amigos sobre cómo prevenir que se tire más basura en los bosques.
 
 ## Cierre

@@ -18,3 +18,4 @@
 | 13 | nutricion (77, sin original) | hecho | `tanda-13-nutricion.md` |
 | 14 | sacc (88) | hecho | `tanda-14-sacc.md` |
 | 15 | cambioclimatico (86) | hecho | `tanda-15-cambioclimatico.md` |
+| 16 | bosques (89, sin original) | hecho | `tanda-16-bosques.md` |

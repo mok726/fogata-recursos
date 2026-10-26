@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Leña y fajina (hojas secas, palos pequeños)
-  - Alimentos para asar (castañas, manzanas, patatas, palomitas)
+  - Alimentos para asar (castañas, manzanas, papas, pochoclo)
   - Equipo de seguridad (agua, extintor, etc.)
 tools: []
 responsible:
@@ -175,7 +175,7 @@ Aprende cómo construir y disfrutar de una fogata al aire libre de manera segura
 ## Preparación
 1. Asegura la supervisión de un adulto responsable.
 2. Recolecta leña y fajina (hojas secas, palos pequeños).
-3. Prepara alimentos para asar (castañas, manzanas, patatas, palomitas).
+3. Prepara alimentos para asar (castañas, manzanas, papas, pochoclo).
 4. Ten agua y equipo de seguridad cerca.
 
 ## Desarrollo

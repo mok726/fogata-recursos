@@ -166,7 +166,7 @@ rama_rovers:
 Aprende cómo hacer símbolos de senderos y crea un sendero en el bosque para que otro grupo lo siga.
 
 ## Preparación
-1. Aprende los símbolos básicos de senderos ('sigue derecho', 'curva a la derecha', 'para', 'me he ido a casa').
+1. Aprende los símbolos básicos de senderos ('sigue derecho', 'curva a la derecha', 'para', 'volví a casa').
 2. Reúne el material para marcar el sendero (piedras, palos, tiza, etc.).
 3. Define la ruta del sendero con tu grupo.
 

@@ -179,7 +179,7 @@ Investiga alimentos silvestres del bosque y prepara una comida con ellos. Aprend
 ## Desarrollo
 1. **Investigación** (20 min): Investiga qué alimentos silvestres son comestibles y seguros.
 2. **Recolección** (30 min): Recolecta alimentos silvestres del bosque (con supervisión).
-3. **Identificación** (15 min): Verifica que todos los alimentos sean seguros para consumir.
+3. **Identificación** (15 min): Un adulto experto verifica cada alimento. Solo se consume lo identificado con certeza; nunca hongos silvestres. Ante la duda, no se come.
 4. **Preparación** (30 min): Prepara una comida con los alimentos recolectados.
 5. **Degustación** (15 min): Disfruta de la comida con tu grupo.
 
