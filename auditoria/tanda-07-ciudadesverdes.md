@@ -1,6 +1,6 @@
 # Tanda 07: insignia "ciudadesverdes" (40)
 
-**Fuente**: FAO/YUNGA (2023), *Green Cities Challenge Badge*, https://doi.org/10.4060/cd6459en (en). Licencia CC BY-NC-SA 3.0 IGO: **bien declarada**. Igual que polinizadores, el original embebido es el inglés de FAO más tu traducción, con el descargo de FAO. No pude abrir el PDF; **c)** es contra el texto embebido.
+**Fuente**: FAO/YUNGA, *Green Cities Challenge Badge*, https://doi.org/10.4060/cd6459en (en). Licencia CC BY-NC-SA 3.0 IGO: **bien declarada**. Igual que polinizadores, el original embebido es el inglés de FAO más tu traducción, con el descargo de FAO. No pude abrir el PDF; **c)** es contra el texto embebido.
 
 Nota de conteo: hay 40 actividades con código `ciudadesverdes-*`. `no-desperdicies-y-nada-te-faltara` (cambioclimatico-E12) también figura en `activity_badges` de esta insignia; la reviso en su tanda.
 
