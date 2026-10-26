@@ -67,7 +67,7 @@ tags:
 # ========== ENLACES Y ARCHIVOS ==========
 link:
   - url: "https://dumbwaystokilltheocean.com"
-    caption: "Maneras simples de salvar el océano - Dumb Ways to Kill the Ocean"
+    caption: "Maneras tontas de matar al océano - Dumb Ways to Kill the Ocean"
     icon: "link"
 files: []
 
@@ -164,7 +164,7 @@ rama_rovers:
 # ¡Juega a salvar el océano!
 
 ## Resumen
-"Maneras simples de salvar el océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.
+"Maneras tontas de matar al océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.
 
 ## Preparación
 1. Acceder al juego en línea: https://dumbwaystokilltheocean.com

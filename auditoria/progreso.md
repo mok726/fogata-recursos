@@ -10,3 +10,4 @@
 | 05 | rrd (36) | hecho | `tanda-05-rrd.md` |
 | 06 | polinizadores (37) | hecho | `tanda-06-polinizadores.md` |
 | 07 | ciudadesverdes (40) | hecho | `tanda-07-ciudadesverdes.md` |
+| 08 | plastics (44: 24 FAO + 20 Tide Turners) | hecho | `tanda-08-plastics.md` |

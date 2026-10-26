@@ -170,7 +170,7 @@ translation_notice:
 # ¡Biodegradable o no!
 
 ## Resumen
-Conducto un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Entierra diferentes materiales en el suelo durante dos semanas y observa qué sucede con cada uno.
+Realiza un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Entierra diferentes materiales en el suelo durante dos semanas y observa qué sucede con cada uno.
 
 ## Preparación
 1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
@@ -206,7 +206,7 @@ Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examínalas.
 
 ## Cierre
 1. ¿Qué material te sorprendió más por su capacidad de descomposición?
-2. ¿Por qué es importante que los plásticos no sean biodegradables?
+2. ¿Por qué es un problema que los plásticos no sean biodegradables?
 3. ¿Qué alternativas a los plásticos no biodegradables conoces?
 
 ## Texto original completo de la actividad

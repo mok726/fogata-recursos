@@ -4,7 +4,7 @@ title: "Limpiando el entorno"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpiando-el-entorno/"
-description: "Selecciona un área con problema de basura en tu comunidad y manténla limpia durante un mes."
+description: "Selecciona un área con problema de basura en tu comunidad y mantenla limpia durante un mes."
 summary: "Limpia y mantén un espacio de tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -168,7 +168,7 @@ translation_notice:
 # ¡Limpiando el entorno!
 
 ## Resumen
-Selecciona un área con problema de basura en tu comunidad (parque, playa, río o campo) y manténla limpia durante un mes. Invita a amigos, familiares y autoridades locales a unirse.
+Selecciona un área con problema de basura en tu comunidad (parque, playa, río o campo) y mantenla limpia durante un mes. Invita a amigos, familiares y autoridades locales a unirse.
 
 ## Preparación
 1. Lee la Sección B de la información de fondo: "Plástico y el planeta".

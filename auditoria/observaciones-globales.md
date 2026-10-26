@@ -63,3 +63,7 @@ Fuente verificada: OMMS, *Champions for Nature Challenge – Action Kit*, junio 
 ## G14. Letras acentuadas perdidas ("secci  n") en textos visibles (P1)
 
 En `content/_data/badges.js` (gosolar y ciudadesverdes) y en `activity.njk` ("Tiempo preparaci  n") había letras acentuadas reemplazadas por dos espacios: "Exploraci  n", "Desaf  io", "acci  n". Se ven así en el sitio. Corregido en el PR (12 líneas + 1). Probablemente vino de copiar desde un editor con otra codificación; conviene revisar ese flujo.
+
+## G15. Tide Turners (plastics P01–P21): mismo problema que cfn (P1, legal)
+
+Verificado en el *Tide Turners Plastic Challenge – Implementation Manual* (OMMS, junio 2020): "© World Scout Bureau Inc. Reproduction is authorised for NSOs and NSAs, which are members of WOSM". Las 20 actividades P declaran CC BY-NC-SA 3.0 IGO: está mal. Las opciones son las mismas que en G13. Conviene un **único pedido de permiso a OMMS** que cubra cfn, Tide Turners y cualquier otro material OMMS que aparezca en las próximas tandas.

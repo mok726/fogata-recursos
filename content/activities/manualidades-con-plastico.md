@@ -187,7 +187,7 @@ Cada participante o grupo crea algo nuevo con los plásticos:
 - Portalápices con envases
 - Joyas con tapas
 - Mosaicos con tapas de colores
-- Bolsas reutilizables con bolsas plásticas (fusionadas)
+- Bolsas reutilizables tejidas o cosidas con tiras de bolsas plásticas (no fundirlas con plancha: desprende humos irritantes)
 
 ### Parte III - Feria
 Organicen una feria de manualidades donde cada uno muestre su creación.
