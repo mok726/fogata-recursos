@@ -159,7 +159,7 @@ rama_rovers:
 # ¡Obra de teatro sobre el agua!
 
 ## Resumen
-Dividanse en pequeños grupos y hagan una pequeña obra de teatro sobre una comunidad cuyos miembros dependen grandemente del agua para su subsistencia.
+Divídanse en pequeños grupos y hagan una pequeña obra de teatro sobre una comunidad cuyos miembros dependen grandemente del agua para su subsistencia.
 
 ## Preparación
 1. Forma grupos pequeños.

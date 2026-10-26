@@ -157,7 +157,7 @@ rama_rovers:
 # ¡Preguntas & Respuestas!
 
 ## Resumen
-Dividanse en parejas, un miembro de cada pareja deberá jugar el papel de un agricultor y el otro de un entrevistador/reportero. Elijan un país para cada pareja.
+Divídanse en parejas, un miembro de cada pareja deberá jugar el papel de un agricultor y el otro de un entrevistador/reportero. Elijan un país para cada pareja.
 
 ## Preparación
 1. Forma parejas.

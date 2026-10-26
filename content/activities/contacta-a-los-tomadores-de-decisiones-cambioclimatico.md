@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contacta a los tomadores de decisiones sobre el cambio climatico"
+title: "Contacta a los tomadores de decisiones sobre el cambio climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/contacta-a-los-tomadores-de-decisiones-cambioclimatico/"

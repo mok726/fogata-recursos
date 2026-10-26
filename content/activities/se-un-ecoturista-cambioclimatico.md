@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sé un ecoturista del cambio climatico"
+title: "Sé un ecoturista del cambio climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-ecoturista-cambioclimatico/"

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tarjetas de felicitación - cambioclimatico"
+title: "Tarjetas de felicitación con papel reciclado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-felicitacion-recicladas-cambioclimatico/"

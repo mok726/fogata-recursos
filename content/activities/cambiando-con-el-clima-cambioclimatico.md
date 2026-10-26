@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cambiando con el clima cambioclimatico"
+title: "Cambiando con el clima: los bosques"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambiando-con-el-clima-cambioclimatico/"
