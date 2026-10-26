@@ -219,18 +219,3 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 **Cierre:** Discutimos sobre la actividad, que otros objetos podrían crearse con esta técnica y materiales. Que materiales alternativos podríamos usar y objetos podríamos crear en un campamento u emergencia.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

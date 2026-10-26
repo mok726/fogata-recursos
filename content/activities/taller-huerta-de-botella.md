@@ -236,18 +236,3 @@ Aprendemos a reutilizar botellas plásticas convirtiéndolas en macetas donde cu
 **Cierre:** Discutimos sobre la actividad y que les pareció. Pensamos ¿Qué hubiera pasado con esas botellas? ¿Qué otras cosas podemos usar así? Realizamos seguimiento periódico del estado de los cultivos botellas, y los invitamos a traer la suya para mostrarla en la jornada de ecología.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

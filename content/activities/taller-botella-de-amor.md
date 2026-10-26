@@ -219,18 +219,3 @@ Aprendemos a reciclar plásticos de un solo uso mediante la creación de una "Bo
 **Cierre:** Realizamos seguimiento periódico del estado de las botellas, y los invitamos a traer la suya para mostrarla en la jornada de ecología. Mostramos productos realizados con este insumo (ej. Madera plástica de 4E).
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

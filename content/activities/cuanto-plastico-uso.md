@@ -238,18 +238,3 @@ Vamos a pensar y descubrir cuánto plástico usamos, y después vamos a pensar c
 **Cierre:** Discutimos sobre la actividad, ¿qué alternativas tenemos al uso de plástico? Cada participante se compromete a reducir el uso (o eliminar) un elemento contaminante de su vida.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

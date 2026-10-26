@@ -180,16 +180,3 @@ ALERTA DE OBJETIVO - Esta actividad contribuye al ODS sobre Alianzas para Lograr
 **Los participantes no deben tratar con extraños en línea sin supervisión parental.**
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

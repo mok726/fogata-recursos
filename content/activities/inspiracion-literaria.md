@@ -184,16 +184,3 @@ Lee poemas, historias u obras de teatro sobre los bosques. Comparte tus respuest
 - ¿Qué compromiso adquieres para seguir explorando la literatura y la naturaleza?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -224,18 +224,3 @@ Aprendemos a crear papel ecológico en base a papeles usados, cartón, hojas, y 
 **Cierre:** Discutimos sobre la actividad, ¿que podemos hacer con este papel? ¿Tarjetas, dibujos, adornos? La discusión se continúa al momento de usar el papel, donde cada uno expresa lo que siente al respecto.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

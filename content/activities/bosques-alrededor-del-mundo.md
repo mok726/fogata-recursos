@@ -185,16 +185,3 @@ Aprende cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa d
 - ¿Qué aprendiste sobre la diversidad cultural y lingüística?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

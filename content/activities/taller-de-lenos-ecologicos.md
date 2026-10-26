@@ -230,18 +230,3 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 **Cierre:** Discutimos sobre la actividad, como permite reducir el uso de leña, evitamos enviar estos materiales al basurero municipal, reduciendo nuestro impacto ecológico.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

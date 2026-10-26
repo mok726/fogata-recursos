@@ -185,16 +185,3 @@ Realiza una encuesta sobre hábitos alimenticios en tu comunidad y analiza los r
 - ¿Qué compromiso adquieres para promover mejores hábitos alimenticios?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

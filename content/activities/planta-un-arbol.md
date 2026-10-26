@@ -202,16 +202,3 @@ Trabaja con un maestro, dirigente o padre para buscar un espacio en la comunidad
 - ¿Qué compromiso adquieres para cuidar de este árbol y de otros árboles en el futuro?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

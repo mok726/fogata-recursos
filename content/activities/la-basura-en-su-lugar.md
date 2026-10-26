@@ -216,18 +216,3 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 **Cierre:** Discutimos sobre la actividad. Preguntas guías: ¿Qué pasa si mezclamos los residuos? ¿Qué hacemos con los residuos especiales o peligrosos? ¿Podemos tirarlos con el resto de la basura? Si es un grupo artístico invitar a realizar un dibujo relacionado.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

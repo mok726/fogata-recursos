@@ -189,16 +189,3 @@ Visita un bosque de tu área y busca basura y otros tipos de desechos. Piensa en
 - ¿Qué compromiso adquieres para ayudar a mantener limpios los espacios naturales?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
