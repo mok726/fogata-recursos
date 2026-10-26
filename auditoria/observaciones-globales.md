@@ -47,3 +47,15 @@ Ver `chequeo-automatico.md`: 248 actividades sin `duration` (vacío o ausente), 
 ## G11. Referencias que apuntan a la portada del sitio (P2)
 
 Las 10 de `mundomejor` tienen `references.url: https://www.scouts.org.ar` (la portada). El PDF concreto ya está en `badges.js`; conviene apuntar directo a él.
+
+## G12. Imágenes con parches de otros países (P3)
+
+El `image_prompt` pide uniformes de Scouts de Argentina, pero varias imágenes muestran parches con la **bandera de EE. UU.** u otras (vistas en cfn: `lista-verificacion-huella-ecologica`, `cual-es-tu-posicion`, `minimo-impacto-naturaleza`; en `general`: ninguna). Muchas otras son genéricas: un grupo parado mirando un paisaje, sin relación con la actividad. Lo marco por actividad como "genérica".
+
+## G13. cfn: titularidad y licencia (P1, legal). Detalle de G10
+
+Fuente verificada: OMMS, *Champions for Nature Challenge – Action Kit*, junio 2020 (versión en inglés: https://scouts.mt/wp-content/uploads/2025/08/CFN-ActionKit.pdf). Dice "© 2020 World Organization of the Scout Movement" y "Reproduction is authorised for NSOs and NSAs, which are members of WOSM". O sea:
+- El titular es **OMMS**, no WWF (WWF y PNUMA son socios). Las 20 actividades dicen "© WWF 2020": está mal.
+- **No es CC BY-NC-SA 3.0 IGO**: está mal.
+- La reproducción solo está autorizada para organizaciones miembro (SAAC sí; un sitio personal no). **Opciones**: pedir permiso a OMMS (o a SAAC, que es miembro y podría avalarlo) o usar texto propio y enlazar al kit.
+- `badges.js` → `cfn`: `attribution.organization: "FAO"` y `sources: []`, también mal.

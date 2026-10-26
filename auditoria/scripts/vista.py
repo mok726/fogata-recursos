@@ -24,20 +24,25 @@ def show(slug):
             print("ref:", r.get("title"), "|", r.get("url"))
     print(body)
 
-args = sys.argv[1:]
-if args and args[0] == "--badge":
-    b = args[1]
-    lo = int(args[args.index("--from") + 1]) if "--from" in args else 0
-    hi = int(args[args.index("--to") + 1]) if "--to" in args else 10**6
-    slugs = []
-    for p in sorted(glob.glob(os.path.join(ACT, "*.md"))):
-        slug = os.path.basename(p)[:-3]
-        fm, _ = load(slug)
-        if b in [str(x).strip() for x in fm.get("activity_badges") or []]:
-            slugs.append((str(fm.get("activity_code")), slug))
-    slugs.sort()
-    for _, s in slugs[lo:hi]:
-        show(s)
-else:
-    for s in args:
-        show(s)
+def main():
+    args = sys.argv[1:]
+    if args and args[0] == "--badge":
+        b = args[1]
+        lo = int(args[args.index("--from") + 1]) if "--from" in args else 0
+        hi = int(args[args.index("--to") + 1]) if "--to" in args else 10**6
+        slugs = []
+        for p in sorted(glob.glob(os.path.join(ACT, "*.md"))):
+            slug = os.path.basename(p)[:-3]
+            fm, _ = load(slug)
+            if b in [str(x).strip() for x in fm.get("activity_badges") or []]:
+                slugs.append((str(fm.get("activity_code")), slug))
+        slugs.sort()
+        for _, s in slugs[lo:hi]:
+            show(s)
+    else:
+        for s in args:
+            show(s)
+
+
+if __name__ == "__main__":
+    main()

@@ -170,7 +170,7 @@ e. Árboles que se replantan donde fueron cortados
 f. Árboles que se procesan en un aserradero
 g. Diferentes productos de madera en tu vida diaria que proceden de los árboles
 h. Alguien que conoces que está trabajando en silvicultura/carpintería
-i. Hay varias razones para talar árboles: simplemente estén en el camino, se usan para material de construcción, se usan para fogatas
+i. Hay varias razones para talar árboles: simplemente porque están en el camino, se usan para material de construcción, se usan para fogatas
 
 ### Parte II - Visita
 Visiten un invernadero/vivero de árboles. El líder pre-organiza una visita a un vivero de árboles, invernadero o jardín dentro del área. Allí los participantes aprenden sobre el cultivo y la plantación de árboles y pueden hacer sus preguntas.

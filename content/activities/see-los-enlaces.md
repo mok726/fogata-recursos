@@ -187,7 +187,7 @@ Permite que los participantes se sienten en pequeños grupos. Uno de los partici
 6. Urbanización
 
 ### Parte II - Crear historia
-Se le da unos minutos a cada grupo para discutir y componer una breve historia. Los términos se pueden usar en cualquier orden. El grupo escribe la historia. Cuando la historia está terminada, lancen los dados nuevamente para crear una nueva historia.
+Se les dan unos minutos a cada grupo para discutir y componer una breve historia. Los términos se pueden usar en cualquier orden. El grupo escribe la historia. Cuando la historia está terminada, lancen los dados nuevamente para crear una nueva historia.
 
 ### Parte III - Compartir
 Cuando todos los grupos hayan completado al menos una historia, pide a algunos grupos que la compartan y luego discutan las historias.

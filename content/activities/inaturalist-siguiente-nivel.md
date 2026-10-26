@@ -166,7 +166,7 @@ El facilitador presentará a los jóvenes la aplicación iNaturalist y la biodiv
 ## Desarrollo
 
 ### Parte I - Introducción
-Puedes usar algunas de las actividades del kit de herramientas Our Planet Lab y tomarlos como guía. El facilitador presentará iNaturalist con la ayuda de videos tutoriales.
+Puedes usar algunas de las actividades del kit de herramientas Our Planet Lab y tomarlas como guía. El facilitador presentará iNaturalist con la ayuda de videos tutoriales.
 
 ### Parte II - Exploración
 Se invitará a los participantes a utilizar la aplicación durante otras actividades al aire libre en el evento/reunión para descubrir el entorno natural que los rodea.

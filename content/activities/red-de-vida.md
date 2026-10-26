@@ -154,7 +154,7 @@ rama_rovers: []
 # ¡Red de vida!
 
 ## Resumen
-Explorar lo que sucederá a nivel local y global si seguimos talando la selva tropical al mismo ritmo que lo hacemos en la actualidad.
+Con una bola de cuerda, los participantes representan plantas y animales de un ecosistema y descubren cómo todos están conectados y qué pasa cuando uno de ellos desaparece.
 
 ## Preparación
 1. Divide a los participantes en grupos. El tamaño máximo del grupo es de 15. La cantidad ideal sería de 8 a 12.

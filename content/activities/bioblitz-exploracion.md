@@ -178,7 +178,7 @@ Los participantes colaborarán en la organización y ejecución de un BioBlitz, 
 3. Hablen sobre lo que vieron en el video o en las imágenes y pregúntales: ¿Por qué sería útil hacer un inventario de todas las especies en un área natural?
 4. Invítalos a usar Map Maker Interactive o Google Maps para que exploren el área de estudio. Pídele a los participantes que encuentren y creen un mapa del área seleccionada donde el grupo llevará a cabo el BioBlitz.
 5. Prepara la actividad de campo con anticipación. Discute con los participantes cómo pueden trabajar de manera eficiente con el tiempo que tendrán para llevar a cabo el BioBlitz. Los participantes se deben dividir en grupos pequeños. Marca el mapa en los lugares donde probablemente estarán los participantes. Pide a cada participante que traiga un cuaderno y un lápiz.
-6. ¿Adónde viste una variedad de plantas? ¿Adónde viste una variedad de animales? ¿Qué hábitats y qué condiciones permiten que los animales y las plantas sobrevivan?
+6. ¿Dónde viste una variedad de plantas? ¿Dónde viste una variedad de animales? ¿Qué hábitats y qué condiciones permiten que los animales y las plantas sobrevivan?
 
 ### Semana 2 - Llevar a cabo el BioBlitz
 1. Una vez que se encuentren en el sitio seleccionado para la exploración, explica a los participantes que primero tendrán tiempo para la observación en silencio y luego para la observación en equipo, durante la cual podrán comunicarse entre sí.
