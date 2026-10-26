@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Auditoría de desperdicios"
+title: "Auditoría de Desperdicios"
 duration: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-desperdicios/"
@@ -167,7 +167,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Auditoría de desperdicios!
+# ¡Auditoría de Desperdicios!
 
 ## Resumen
 Conduce una auditoría de desperdicios en tu casa, tu escuela o algún otro lugar. Creá un plan de acción para reducir la cantidad de desechos que producís y para desviarlos fuera de los basurales. Llevá a cabo tu plan.

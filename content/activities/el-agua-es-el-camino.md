@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El agua es el camino"
+title: "El Agua Es el Camino"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-es-el-camino/"
@@ -149,7 +149,7 @@ rama_rovers:
   - 37
 ---
 
-# ¡El agua es el camino!
+# ¡El Agua Es el Camino!
 
 ## Resumen
 El agua es vital para el bienestar de todas las formas de vida. En esta actividad, los participantes aprenden sobre la importancia del agua a través de un juego de búsqueda de ideas.

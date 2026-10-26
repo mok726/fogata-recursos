@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Títeres de cuenca de agua"
+title: "Títeres de Cuenca de Agua"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/titeres-de-cuenca-de-agua/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Títeres de cuenca de agua!
+# ¡Títeres de Cuenca de Agua!
 
 ## Resumen
 Elaboren unos títeres. Inventen un espectáculo de títeres que enseñe a otras personas acerca de la importancia de mantener una cuenca de agua saludable y lo que pueden hacer.

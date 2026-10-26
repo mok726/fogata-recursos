@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién se Come a Quién?"
+title: "¿Quién Se Come a Quién?"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-se-come-a-quien/"
@@ -159,7 +159,7 @@ rama_caminantes:
 rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# ¿Quién se Come a Quién?
+# ¿Quién Se Come a Quién?
 
 ## Resumen
 Dibujá, hacé un collage o creá un modelo de una red alimentaria que conecte a muchas especies del bosque.

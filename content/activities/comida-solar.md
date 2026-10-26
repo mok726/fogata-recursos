@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Una comida solar"
+title: "Una Comida Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-solar/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 6   # Exploro mis intereses vocacionales, descubro mis posibilidades
 ---
 
-# ¡Una comida solar!
+# ¡Una Comida Solar!
 
 ## Resumen
 Los y las invitamos a utilizar la cocina/horno solar para cocinar en su grupo, en un campamento o salida. Comiencen con pasos sencillos, como hervir agua para preparar un mate cocido y prueben hacer cada vez recetas más complejas. Algunos básicos de pochoclos o arroz son fáciles para los principiantes.

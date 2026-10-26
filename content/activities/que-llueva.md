@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Que llueva!"
+title: "¡Que Llueva!"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-llueva/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Que llueva!
+# ¡Que Llueva!
 
 ## Resumen
 Jugar bajo la lluvia puede ser muy divertido, siempre que no sea demasiado fuerte, no haya relámpagos y no haga demasiado frío. En esta actividad, los participantes salen a jugar bajo la lluvia y realizan diferentes actividades.

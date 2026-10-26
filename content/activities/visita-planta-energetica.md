@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visitá a una planta de energía"
+title: "Visitá a una Planta de Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-planta-energetica/"
@@ -162,7 +162,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Visitá a una planta de energía!
+# ¡Visitá a una Planta de Energía!
 
 ## Resumen
 Hacé una excursión a un lugar donde se produce energía: un parque eólico, una presa hidroeléctrica, una planta solar, una planta nuclear o una central térmica. Aprendé cómo se produce la energía y escribí un artículo sobre tu experiencia.

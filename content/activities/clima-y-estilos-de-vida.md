@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Clima y estilos de vida"
+title: "Clima y Estilos de Vida"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-estilos-de-vida/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades que brinda la vida en la naturaleza
 ---
 
-# ¡Clima y estilos de vida!
+# ¡Clima y Estilos de Vida!
 
 ## Resumen
 Examiná todas las maneras en que el clima afecta nuestra calidad de vida, sea relacionado con los viajes, la recreación o con el bienestar general.

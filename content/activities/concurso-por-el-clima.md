@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Concurso por el clima"
+title: "Concurso por el Clima"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-por-el-clima/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y recursos
 ---
 
-# ¡Concurso por el clima!
+# ¡Concurso por el Clima!
 
 ## Resumen
 Organizá un concurso para ver quién puede hacer la mayor cantidad de cambios en sus vidas diarias para ser más verdes y más eficientes energéticamente.

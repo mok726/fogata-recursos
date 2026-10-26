@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entendiendo los pesticidas"
+title: "Entendiendo los Pesticidas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/entendiendo-los-pesticidas/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Entendiendo los pesticidas!
+# ¡Entendiendo los Pesticidas!
 
 ## Resumen
 Neonicotinoides, organoclorados, carbamatos. Existe una amplia gama de pesticidas, algunos tóxicos para los polinizadores, otros no tanto. Hacé un estudio de escritorio para aprender cuáles son los peores infractores. ¿Qué polinizadores dañan? ¿Qué efecto tienen sobre los polinizadores?

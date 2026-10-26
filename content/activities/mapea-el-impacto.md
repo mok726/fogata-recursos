@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mapeá el impacto"
+title: "Mapeá el Impacto"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mapea-el-impacto/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 32 # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Mapeá el impacto!
+# ¡Mapeá el Impacto!
 
 ## Resumen
 Con tu clase o grupo, dibuja un mapa geográfico de la Tierra que muestre los océanos, los mares, las montañas, los desiertos, los bosques, los casquetes polares, etc. Etiqueten cada área con una lista de las formas en que el cambio climático las impactará.

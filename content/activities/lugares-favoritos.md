@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lugares favoritos"
+title: "Lugares Favoritos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/lugares-favoritos/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 37 # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Lugares favoritos!
+# ¡Lugares Favoritos!
 
 ## Resumen
 ¿Qué tipo de paisaje es tu favorito: playas, montañas, desiertos o bosques? Hacé una investigación sobre tu lugar favorito.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Viajeros del aire"
+title: "Viajeros del Aire"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/viajeros-del-aire/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Viajeros del aire!
+# ¡Viajeros del Aire!
 
 ## Resumen
 Mirá alrededor de tu casa, escuela, jardín o parque. ¿Qué viaja por el aire? ¿Qué métodos utilizan los animales para volar o para planear? ¿Cómo viajan las plantas (sus semillas y su polen) por el aire?

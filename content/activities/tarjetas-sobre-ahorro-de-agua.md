@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas sobre ahorro de agua"
+title: "Tarjetas sobre Ahorro de Agua"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-sobre-ahorro-de-agua/"
@@ -138,7 +138,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Tarjetas sobre ahorro de agua!
+# ¡Tarjetas sobre Ahorro de Agua!
 
 ## Resumen
 Creá tarjetas con datos sobre el ahorro de agua y usalas para hacer una prueba.

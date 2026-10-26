@@ -1,5 +1,5 @@
 ---
-title: "Papeles para borrador"
+title: "Papeles para Borrador"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papeles-para-borrador/"
@@ -137,7 +137,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Papeles para borrador!
+# ¡Papeles para Borrador!
 
 ## Resumen
 Reuní papeles usados para usarlos como borrador.

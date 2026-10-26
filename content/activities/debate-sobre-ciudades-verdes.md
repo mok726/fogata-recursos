@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate sobre ciudades verdes"
+title: "Debate sobre Ciudades Verdes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-sobre-ciudades-verdes/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Debate sobre ciudades verdes!
+# ¡Debate sobre Ciudades Verdes!
 
 ## Resumen
 Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Divídanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.

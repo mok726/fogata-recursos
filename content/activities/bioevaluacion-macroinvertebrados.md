@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Bioevaluación de macroinvertebrados"
+title: "Bioevaluación de Macroinvertebrados"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/bioevaluacion-macroinvertebrados/"
@@ -168,7 +168,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Bioevaluación de macroinvertebrados!
+# ¡Bioevaluación de Macroinvertebrados!
 
 ## Resumen
 La calidad del agua de un arroyo puede determinarse de varias maneras. Una forma importante es a través de la evaluación biológica (bioevaluación). Los macroinvertebrados acuáticos son comúnmente monitoreados porque son indicadores valiosos de la salud de los ambientes acuáticos. En esta actividad, los participantes simulan una bioevaluación usando objetos para representar macroinvertebrados.

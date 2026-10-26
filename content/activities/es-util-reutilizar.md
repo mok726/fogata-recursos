@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Es útil reutilizar"
+title: "Es Útil Reutilizar"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-util-reutilizar/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Es útil reutilizar!
+# ¡Es Útil Reutilizar!
 
 ## Resumen
 Existen muchas maneras de convertir objetos aparentemente inservibles en cosas útiles. Por ejemplo, podés usar un rollo de papel higiénico vacío para ordenar tus pulseras o podrías usar una botella de salsa para pasta para guardar lápices y lapiceras.

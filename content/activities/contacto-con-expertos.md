@@ -1,5 +1,5 @@
 ---
-title: "Contacto con expertos"
+title: "Contacto con Expertos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contacto-con-expertos/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¡Contacto con expertos!
+# ¡Contacto con Expertos!
 
 ## Resumen
 Contactá a científicos, meteorólogos, grupos ambientales y oficinas de la ONU para aprender sobre cambio climático.

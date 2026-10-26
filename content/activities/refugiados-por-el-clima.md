@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Refugiados por el clima"
+title: "Refugiados por el Clima"
 duration: "2.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/refugiados-por-el-clima/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 29 # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Refugiados por el clima!
+# ¡Refugiados por el Clima!
 
 ## Resumen
 Los científicos predicen que para el año 2050, 50 millones de personas podrían verse forzadas a dejar sus hogares y comunidades debido a los efectos del cambio climático.

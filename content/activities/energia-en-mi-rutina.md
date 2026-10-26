@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en mi rutina"
+title: "Energía en Mi Rutina"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-mi-rutina/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en mi rutina!
+# ¡Energía en Mi Rutina!
 
 ## Resumen
 ¿Qué es la energía? Intentá explicarlo con tus propias palabras. Luego, escribí o dibujá las actividades que hacés cada día e identificá qué formas de energía usás en cada una.

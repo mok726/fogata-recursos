@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fibras naturales y sintéticas"
+title: "Fibras Naturales y Sintéticas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fibras-naturales-y-sinteticas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Fibras naturales y sintéticas!
+# ¡Fibras Naturales y Sintéticas!
 
 ## Resumen
 Mirá las etiquetas de tu ropa. Hacé una lista de todos los diferentes materiales que has encontrado en tu ropa. Dividilos en dos categorías, natural y sintético. ¿Cuáles son las características de las fibras naturales y las de las fibras sintéticas? ¿Dónde se cultivan las fibras naturales? ¿Cuál dura más, la tela natural o sintética? ¿Por qué los fabricantes de ropa combinan diferentes tipos de fibras?

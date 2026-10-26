@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Biodiversidad y cambio climático"
+title: "Biodiversidad y Cambio Climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-y-cambio-climatico/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Biodiversidad y cambio climático!
+# ¡Biodiversidad y Cambio Climático!
 
 ## Resumen
 La biodiversidad puede ayudar a reducir los efectos del cambio climático. Hacé un video o un póster muy original que indique, por ejemplo, cómo los árboles capturan dióxido de carbono del aire y lo almacenan.

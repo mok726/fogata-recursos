@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Paisaje local"
+title: "Paisaje Local"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/paisaje-local/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 29  # Indago causas de problemáticas sociales
 ---
 
-# ¡Paisaje local!
+# ¡Paisaje Local!
 
 ## Resumen
 ¿Qué tipos de ecosistemas existen donde vivís? ¿Es desértico, o tenés bosques o montañas? ¿Vivís en un área urbana que tiene parques o terrenos baldíos? Investigá para descubrir qué polinizadores reinan en tus ecosistemas locales y creá un póster sobre esto.

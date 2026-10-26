@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Organizador comunitario - biodiversidad"
+title: "Organizador Comunitario - Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizador-comunitario-biodiversidad/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Organizador comunitario!
+# ¡Organizador Comunitario!
 
 ## Resumen
 Transfórmense en organizadores comunitarios. Organicen un evento para despertar la conciencia pública acerca de un aspecto local específico relacionado con la biodiversidad. Tracen un objetivo específico. Hagan una pancarta y pósters para promocionar el evento. Contacten a los medios de comunicación locales (TV, radio y periódicos) y pídanles que cubran el evento. Traten de hacer que un gran número de personas asistan a su evento.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Biodiversidad en el suelo"
+title: "Biodiversidad en el Suelo"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-en-el-suelo/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Biodiversidad en el suelo!
+# ¡Biodiversidad en el Suelo!
 
 ## Resumen
 Inspeccioná un puñado de tierra y describí la biodiversidad que encuentres. Observá una muestra bajo una lupa o un microscopio. Dibujá las criaturas que ves.

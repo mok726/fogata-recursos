@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reduciendo mi huella de carbono"
+title: "Reduciendo Mi Huella de Carbono"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduciendo-mi-huella-carbono/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Reduciendo mi huella de carbono!
+# ¡Reduciendo Mi Huella de Carbono!
 
 ## Resumen
 En este juego en círculo, pasamos una pelota mientras suena música. Cuando la música se detiene, quien tiene la pelota comparte una idea simple para reducir su huella de carbono.

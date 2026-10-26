@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El factor nutricional"
+title: "El Factor Nutricional"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-factor-nutricional/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 14  # Reconozco, acepto y valoro mi cuerpo
 ---
 
-# ¡El factor nutricional!
+# ¡El Factor Nutricional!
 
 ## Resumen
 La disminución de los polinizadores significa una disminución de la nutrición global. Hacé un estudio para entender por qué ocurre esto. ¿Cuáles son los principales nutrientes que desaparecerán? ¿Por qué son importantes para nuestra salud? ¿Cuáles son los principales problemas que traerá la malnutrición? ¿Qué partes del mundo probablemente sufrirán más?

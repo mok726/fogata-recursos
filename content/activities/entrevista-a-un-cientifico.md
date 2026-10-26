@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entrevistá a un científico"
+title: "Entrevistá a un Científico"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-a-un-cientifico/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Entrevistá a un científico!
+# ¡Entrevistá a un Científico!
 
 ## Resumen
 Realizá una entrevista a un científico acerca de un asunto relacionado con la biodiversidad. Registrala y compártela con tu grupo.

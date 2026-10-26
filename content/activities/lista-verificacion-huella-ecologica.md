@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lista de verificación de la huella ecológica"
+title: "Lista de Verificación de la Huella Ecológica"
 duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lista-verificacion-huella-ecologica/"
@@ -162,7 +162,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Lista de verificación de la huella ecológica!
+# ¡Lista de Verificación de la Huella Ecológica!
 
 ## Resumen
 Esta actividad ayuda a los participantes a comprender cómo pueden mejorar su seguimiento de la huella de carbono y reducirlo con un cambio de hábitos.

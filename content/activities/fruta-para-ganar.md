@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fruta para ganar"
+title: "Fruta para Ganar"
 duration: "3 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fruta-para-ganar/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Fruta para ganar!
+# ¡Fruta para Ganar!
 
 ## Resumen
 Cambiar tus hábitos de snack puede ayudar a combatir el problema de los residuos plásticos. Muchos snacks vienen en empaques de plástico que se tiran. Comer fruta en lugar de papas fritas o golosinas no solo es bueno para tu salud, sino también para la salud del planeta.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especie amenazada"
+title: "Especie Amenazada"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/especie-amenazada/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Especie amenazada!
+# ¡Especie Amenazada!
 
 ## Resumen
 Elegí una especie amenazada de tu área. ¿Dónde vive? ¿Qué come? ¿Qué animales se la comen? ¿Cuáles son sus costumbres? ¿Por qué está en peligro de extinción? ¿Quién es el responsable de eso? Escribí una historia o presentá una obra de teatro sobre cómo sería el medio ambiente si esa especie se extinguiese.

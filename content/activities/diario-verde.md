@@ -1,5 +1,5 @@
 ---
-title: "Diario verde"
+title: "Diario Verde"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-verde/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# ¡Diario verde!
+# ¡Diario Verde!
 
 ## Resumen
 Comenzá un diario para registrar todos tus esfuerzos por una vida más amigable con el clima.

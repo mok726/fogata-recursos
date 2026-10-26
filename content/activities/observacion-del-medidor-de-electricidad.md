@@ -1,5 +1,5 @@
 ---
-title: "Observación del medidor de electricidad"
+title: "Observación del Medidor de Electricidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-del-medidor-de-electricidad/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Observación del medidor de electricidad!
+# ¡Observación del Medidor de Electricidad!
 
 ## Resumen
 Observá el medidor de electricidad y determiná cuánto podés reducir tu consumo.

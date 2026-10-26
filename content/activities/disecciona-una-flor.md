@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diseccioná una flor"
+title: "Diseccioná una Flor"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/disecciona-una-flor/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Diseccioná una flor!
+# ¡Diseccioná una Flor!
 
 ## Resumen
 Obtené permiso para arrancar algunas flores para esta actividad. Tratá de elegir flores de diferentes tamaños y colores. Después de arrancarlas, separalas suavemente y examiná las diferentes partes.

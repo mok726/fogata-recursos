@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El clima de tu comunidad"
+title: "El Clima de Tu Comunidad"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-clima-de-tu-comunidad/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡El clima de tu comunidad!
+# ¡El Clima de Tu Comunidad!
 
 ## Resumen
 Realizá un proyecto de investigación sobre el clima para el lugar donde vivís. Investigá qué tipo de área es, cuál es el principal ingreso de tu comunidad, qué fuente de energía usan y cómo es generalmente el clima.

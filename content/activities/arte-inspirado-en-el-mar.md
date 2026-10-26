@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte inspirado en el mar"
+title: "Arte Inspirado en el Mar"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-inspirado-en-el-mar/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Arte inspirado en el mar!
+# ¡Arte Inspirado en el Mar!
 
 ## Resumen
 El mar y la vida marina aparecen en muchos cuentos populares, novelas, poemas, canciones y obras de arte. Encontrá algunos ejemplos. ¿Cuáles aspectos son reales y cuáles son de fantasía? ¿De dónde creés que vienen los aspectos de fantasía? Creá tu propia obra de arte sobre el mar o la vida marina.

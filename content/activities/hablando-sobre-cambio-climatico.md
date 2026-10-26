@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hablando sobre el cambio climático"
+title: "Hablando sobre el Cambio Climático"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/hablando-sobre-cambio-climatico/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Hablando sobre el cambio climático!
+# ¡Hablando sobre el Cambio Climático!
 
 ## Resumen
 Investigá sobre el ciclo del carbono y el cambio climático. ¿Cómo afectan los humanos al ciclo del carbono? ¿Creés que el consumo de combustibles fósiles está afectando el clima? Debatí con tu grupo sobre las causas, impactos y soluciones.

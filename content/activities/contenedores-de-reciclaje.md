@@ -1,5 +1,5 @@
 ---
-title: "Contenedores de reciclaje"
+title: "Contenedores de Reciclaje"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contenedores-de-reciclaje/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Contenedores de reciclaje!
+# ¡Contenedores de Reciclaje!
 
 ## Resumen
 Asegurá contenedores separados para reciclaje en tu casa y escuela, y hacé letreros para cada uno.

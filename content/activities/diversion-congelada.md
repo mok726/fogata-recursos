@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversión congelada"
+title: "Diversión Congelada"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-congelada/"
@@ -167,7 +167,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Diversión congelada!
+# ¡Diversión Congelada!
 
 ## Resumen
 El agua tiene propiedades únicas que la hacen especial. En esta actividad, los participantes realizan experimentos con agua y hielo para descubrir cómo se comporta el agua al congelarse y cómo esto afecta a nuestro planeta.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentador de aves"
+title: "Alimentador de Aves"
 duration: "2 horas + 2 semanas de observación"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentador-de-aves/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Alimentador de aves!
+# ¡Alimentador de Aves!
 
 ## Resumen
 Prepará un alimentador de aves con materiales reciclados. Averiguá qué tipos de alimentos prefieren las diferentes especies de aves (por ejemplo, a algunas les gusta la fruta y a otras las semillas).

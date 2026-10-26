@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dibujos de la cadena alimentaria"
+title: "Dibujos de la Cadena Alimentaria"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-cadena-alimentaria/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Dibujos de la cadena alimentaria!
+# ¡Dibujos de la Cadena Alimentaria!
 
 ## Resumen
 Investigá los animales y plantas que viven en tu comunidad. Descubrí las cadenas alimentarias de tu área local y dibujalas. Luego, conectá tu comida favorita con la cadena alimentaria y el ciclo del carbono.

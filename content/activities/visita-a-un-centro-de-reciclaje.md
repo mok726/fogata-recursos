@@ -1,5 +1,5 @@
 ---
-title: "Visitá a un centro de reciclaje"
+title: "Visitá a un Centro de Reciclaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-un-centro-de-reciclaje/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Visitá a un centro de reciclaje!
+# ¡Visitá a un Centro de Reciclaje!
 
 ## Resumen
 Visitá un centro de reciclaje o una planta de energía renovable con tu líder o maestro.

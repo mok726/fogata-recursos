@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de crecimiento"
+title: "Experimento de Crecimiento"
 duration: "1-2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-crecimiento/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Experimento de crecimiento!
+# ¡Experimento de Crecimiento!
 
 ## Resumen
 Aprendé cómo el Sol ayuda a las plantas a crecer a través de la fotosíntesis. Plantá semillas y realizá un experimento para ver la diferencia entre una planta que recibe luz solar y una que está en la oscuridad.

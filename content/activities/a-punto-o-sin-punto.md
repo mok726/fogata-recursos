@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "A Punto o Sin Punto"
+title: "A Punto o sin Punto"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-punto-o-sin-punto/"
@@ -165,7 +165,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡A Punto o Sin Punto!
+# ¡A Punto o sin Punto!
 
 ## Resumen
 La contaminación que ingresa a un cuerpo de agua se puede clasificar en dos categorías: fuente puntual y fuente no puntual. La contaminación de **fuente puntual** es fácil de identificar, ya que se puede rastrear directamente hasta su origen. Por ejemplo, si hay un derrame de petróleo causado por un petrolero, podés "señalar" con el dedo la fuente exacta de la contaminación. La contaminación de **fuente no puntual** es mucho más difícil de identificar. La contaminación por escorrentía de aguas pluviales es un tipo de contaminación de fuente no puntual. Esto significa que la contaminación no se puede rastrear hasta una fuente específica porque proviene de muchas fuentes diferentes en todo el medio ambiente. En esta actividad, los participantes aprenden a distinguir entre fuentes de contaminación puntuales y no puntuales a través de un juego interactivo.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Dónde está el Agua? - Bosques"
+title: "¿Dónde Está el Agua? - Bosques"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-el-agua-bosques/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¿Dónde está el Agua?
+# ¿Dónde Está el Agua?
 
 ## Resumen
 Investigá en qué lugar es posible encontrar agua en un bosque. Dibujá un mapa o creá un modelo de los sitios con agua.

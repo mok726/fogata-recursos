@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Amenazas locales"
+title: "Amenazas Locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-locales/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Amenazas locales!
+# ¡Amenazas Locales!
 
 ## Resumen
 ¿Cuáles son las amenazas para los polinizadores locales? Hacé una lista de los posibles factores. ¿Hay mucha construcción? ¿Hay mucha deforestación para fines agrícolas? Hacé una encuesta comunitaria para saber qué tipos de pesticidas se usan más en tu área. ¿Son dañinos para los polinizadores? ¿Qué pasa con la contaminación? ¿Es un problema en tu región?

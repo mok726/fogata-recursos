@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Colectando agua"
+title: "Colectando Agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/colectando-agua/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 32
 ---
 
-# ¡Colectando agua!
+# ¡Colectando Agua!
 
 ## Resumen
 Construyan un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua y cómo obtener agua en situaciones de supervivencia.

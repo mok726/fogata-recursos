@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Observación de hormigas"
+title: "Observación de Hormigas"
 duration: "2 estaciones"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-de-hormigas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Observación de hormigas!
+# ¡Observación de Hormigas!
 
 ## Resumen
 Los insectos están en todas partes, estudiarlos es una forma divertida de aprender acerca de la naturaleza y sobre cómo las diferentes partes de la biodiversidad están vinculadas entre ellas. Buscá una colonia de hormigas y observalas regularmente durante dos estaciones.

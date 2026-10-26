@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Guión radiofónico"
+title: "Guión Radiofónico"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/guion-radiofonico/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Guión radiofónico!
+# ¡Guión Radiofónico!
 
 ## Resumen
 Escribí un guión radiofónico sobre un aspecto de la biodiversidad que sea importante en tu comunidad. Alentá a tu estación de radio local a grabarlo y transmitirlo. ¡Podés ofrecer tu participación y la de tus amigos para que sean los actores de voz!

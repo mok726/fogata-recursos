@@ -1,5 +1,5 @@
 ---
-title: "Impactos locales del cambio climático"
+title: "Impactos Locales del Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/impactos-locales-del-cambio-climatico/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Impactos locales del cambio climático!
+# ¡Impactos Locales del Cambio Climático!
 
 ## Resumen
 Investigá los posibles impactos del cambio climático en tu área y compartí los resultados.

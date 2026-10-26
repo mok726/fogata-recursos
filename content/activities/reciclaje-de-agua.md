@@ -1,5 +1,5 @@
 ---
-title: "Reciclaje de agua"
+title: "Reciclaje de Agua"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-agua/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¡Reciclaje de agua!
+# ¡Reciclaje de Agua!
 
 ## Resumen
 Reciclá el agua de cocina, baño y limpieza, y recogé agua lluvia para regar plantas.

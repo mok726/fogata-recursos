@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Agua es Poesía"
+title: "El Agua Es Poesía"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-es-poesia/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡El Agua es Poesía!
+# ¡El Agua Es Poesía!
 
 ## Resumen
 El agua es una cosa hermosa. Oscura y ondulada en un manantial, oscura y tranquila en una pileta, en un charco marrón y fresco... En esta actividad, los participantes reflexionan sobre el agua y su conexión con la salud y la felicidad a través de la creación de poemas inspirados en este elemento vital.

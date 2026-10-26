@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contando historias - El discurso Pixar"
+title: "Contando Historias - el Discurso Pixar"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/discurso-pixar/"
@@ -150,7 +150,7 @@ rama_rovers:
   - 28
 ---
 
-# ¡Contando historias - El discurso Pixar!
+# ¡Contando Historias - el Discurso Pixar!
 
 ## Resumen
 La abogacía ofrece a las personas jóvenes la oportunidad de expresar sus puntos de vista y sus propuestas para crear un mundo mejor. Esto abarca el uso de la educación, la comunicación, las habilidades de liderazgo y la evidencia para presentar un caso convincente a favor del cambio. Contar historias es una herramienta poderosa para hacer de tu causa más atractiva, creativa y convincente. Empecemos abogando por la biodiversidad usando el Pixar Pitch.

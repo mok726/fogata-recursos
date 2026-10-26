@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Modelo de generación de energía"
+title: "Modelo de Generación de Energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-generacion-energia/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Modelo de generación de energía!
+# ¡Modelo de Generación de Energía!
 
 ## Resumen
 Investigá qué tipos de energía se usan en tu país. Dibujá un mapa marcando las diferentes regiones y los tipos de energía que se producen en cada una. Luego, elegí una fuente de energía renovable y construí un modelo con materiales reciclados.

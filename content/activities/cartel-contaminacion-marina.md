@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Confeccionar un cartel sobre contaminación marina"
+title: "Confeccionar un Cartel sobre Contaminación Marina"
 duration: "20 minutos (más investigación previa)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cartel-contaminacion-marina/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Confeccionar un cartel sobre contaminación marina!
+# ¡Confeccionar un Cartel sobre Contaminación Marina!
 
 ## Resumen
 Si bien la contaminación por plásticos afecta a toda la vida en el planeta, la situación en el océano es particularmente grave, ya que es el destino final de todos los plásticos que desembocan en los ríos y, finalmente, en el mar. Esta actividad tiene como objetivo lograr que los jóvenes creen un cartel sobre la contaminación marina, desarrollando su creatividad y habilidades de comunicación para concienciar sobre este problema.

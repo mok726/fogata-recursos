@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cambio climático y agricultura"
+title: "Cambio Climático y Agricultura"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-y-agricultura/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Cambio climático y agricultura!
+# ¡Cambio Climático y Agricultura!
 
 ## Resumen
 La agricultura, la pesca y la silvicultura son fundamentales para proporcionarnos alimentos y otros recursos. Discutí con tu grupo cómo el cambio climático podría afectar a la producción de alimentos en tu país y tu región.

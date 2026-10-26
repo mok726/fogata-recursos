@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dispersión de semillas"
+title: "Dispersión de Semillas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dispersion-de-semillas/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Dispersión de semillas!
+# ¡Dispersión de Semillas!
 
 ## Resumen
 Caminen por medio de un campo con hierbas altas usando pantalones que recolecten muchas semillas. Al final de su paseo, cámbiense los pantalones e inspeccionen las semillas que recolectaron en los que llevaban antes.

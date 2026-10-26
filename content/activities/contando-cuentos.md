@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contando cuentos"
+title: "Contando Cuentos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/contando-cuentos/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Contando cuentos!
+# ¡Contando Cuentos!
 
 ## Resumen
 En la p. 62 de esta insignia aprendiste sobre Omar Faruk, un hombre pobre de Bangladesh que tuvo que dejar su hogar y mudarse a la ciudad porque las inundaciones arruinaron sus cultivos.

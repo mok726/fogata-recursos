@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plataformas en línea"
+title: "Plataformas en Línea"
 duration: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/platformas-en-linea/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Plataformas en línea!
+# ¡Plataformas en Línea!
 
 ## Resumen
 Visitá tres plataformas en línea donde los jóvenes comparten información y se apoyan mutuamente en acciones relacionadas con aspectos de la biodiversidad y del medio ambiente. Únete y contribuí con una de ellas.

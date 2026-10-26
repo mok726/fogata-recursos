@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Jardín amigo de la biodiversidad"
+title: "Jardín Amigo de la Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-amigo-de-la-biodiversidad/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Jardín amigo de la biodiversidad!
+# ¡Jardín Amigo de la Biodiversidad!
 
 ## Resumen
 Creá un jardín amigo de la biodiversidad que ofrezca muchos hogares para las especies. Utilizá objetos reciclados o materiales que de otra forma terminarían en la basura. Podés preparar casas para abejas con paja de bambú atada, las casas para sapos se pueden hacer con una vieja tetera enterrada hasta la mitad. ¡Usá tu imaginación!

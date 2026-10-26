@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Recuerdos acuáticos"
+title: "Recuerdos Acuáticos"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/recuerdos-acuaticos/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural
 ---
 
-# ¡Recuerdos acuáticos!
+# ¡Recuerdos Acuáticos!
 
 ## Resumen
 El agua juega un papel importante en la recreación y la diversión. Millones de personas en todo el mundo ven el agua como una fuente de salud, relajación y felicidad. En esta actividad, los participantes reflexionan sobre una experiencia memorable que hayan tenido con el agua y la comparten con el grupo.

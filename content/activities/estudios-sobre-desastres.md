@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudios sobre desastres"
+title: "Estudios sobre Desastres"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-sobre-desastres/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 10  # Contribuyo a la resolución de conflictos
 ---
 
-# ¡Estudios sobre desastres!
+# ¡Estudios sobre Desastres!
 
 ## Resumen
 ¿Tu ciudad es susceptible a algún tipo de desastre, como terremotos o inundaciones? Evaluá qué tan resiliente es tu ciudad frente al desastre al que es más vulnerable. Por ejemplo, ¿hay sistemas de alerta temprana efectivos? ¿Los edificios son sismorresistentes? ¿Hay mecanismos de prevención de inundaciones?

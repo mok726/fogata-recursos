@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Casa para murciélagos"
+title: "Casa para Murciélagos"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/casa-para-murcielagos/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Casa para murciélagos!
+# ¡Casa para Murciélagos!
 
 ## Resumen
 Averiguá qué especies de murciélagos viven en tu área y qué hábitat y alimentos necesitan. Prepará una casa para murciélagos y colocala en un lugar apropiado.

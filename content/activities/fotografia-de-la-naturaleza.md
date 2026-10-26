@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fotografía de la naturaleza"
+title: "Fotografía de la Naturaleza"
 duration: "2 horas + exposición"
 layout: "layouts/activity.njk"
 permalink: "/activities/fotografia-de-la-naturaleza/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Fotografía de la naturaleza!
+# ¡Fotografía de la Naturaleza!
 
 ## Resumen
 ¿Sabías que hay diferentes tipos de espacios verdes que contribuyen a una ciudad verde? Por ejemplo, techos verdes, jardines escolares, jardines comunitarios, parques, y más. Formá grupos y visitá un tipo específico de espacio verde para hacer fotografía de la naturaleza.

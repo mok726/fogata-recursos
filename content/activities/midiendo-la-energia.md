@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Midiendo la energía"
+title: "Midiendo la Energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/midiendo-la-energia/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Midiendo la energía!
+# ¡Midiendo la Energía!
 
 ## Resumen
 Investigá las diferentes unidades para medir energía: julio, kilovatio-hora, caloría y caballo de fuerza (este último mide potencia, no energía: ¿cuál es la diferencia?). Aprendé para qué se usa cada una y cómo se aplican en tu vida diaria.

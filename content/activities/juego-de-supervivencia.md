@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de supervivencia"
+title: "Juego de Supervivencia"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-supervivencia/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Juego de supervivencia!
+# ¡Juego de Supervivencia!
 
 ## Resumen
 Las dinámicas de predador-presa son importantes para un funcionamiento saludable del ecosistema. Jugá el juego de supervivencia con tu grupo.

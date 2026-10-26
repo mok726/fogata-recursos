@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Usos de la biodiversidad marina"
+title: "Usos de la Biodiversidad Marina"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/usos-de-la-biodiversidad-marina/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Usos de la biodiversidad marina!
+# ¡Usos de la Biodiversidad Marina!
 
 ## Resumen
 La biodiversidad de los océanos ofrece al hombre varios alimentos nutritivos, incluyendo alimentos a base de plantas. Elaborá un póster o un dibujo de todos los diferentes usos que los seres humanos le dan a la biodiversidad marina.

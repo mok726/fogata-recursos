@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Iniciá un jardín escolar o comunitario"
+title: "Iniciá un Jardín Escolar o Comunitario"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/inicia-un-jardin-escolar-o-comunitario/"
@@ -168,7 +168,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Iniciá un jardín escolar o comunitario!
+# ¡Iniciá un Jardín Escolar o Comunitario!
 
 ## Resumen
 En esta actividad, vas a iniciar un jardín en la escuela, cuidarlo y disfrutar viendo crecer tus verduras. Empezá formando un comité y trabajando con las autoridades escolares para conseguir un lugar para el jardín.

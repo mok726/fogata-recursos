@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Prueba de densidad"
+title: "Prueba de Densidad"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/prueba-de-densidad/"
@@ -164,7 +164,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Prueba de densidad!
+# ¡Prueba de Densidad!
 
 ## Resumen
 El agua dulce y el agua de mar tienen dos diferencias importantes: la salinidad y la densidad. En esta actividad, los participantes realizan experimentos para comparar soluciones con diferentes niveles de salinidad y observar cómo afecta a la densidad y la flotabilidad.

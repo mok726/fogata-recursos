@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tu vida ecológica"
+title: "Tu Vida Ecológica"
 duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-vida-ecologica/"
@@ -159,7 +159,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Tu vida ecológica!
+# ¡Tu Vida Ecológica!
 
 ## Resumen
 Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos personales diarios. Los participantes comienzan a reflexionar sobre sus hábitos diarios de gestión de residuos y sugieren formas de mejorar sus prácticas. El objetivo de la actividad es descubrir hábitos diarios más sostenibles y cómo adoptarlos.

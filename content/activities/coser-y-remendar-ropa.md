@@ -1,5 +1,5 @@
 ---
-title: "Coser y remendar ropa"
+title: "Coser y Remendar Ropa"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/coser-y-remendar-ropa/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Coser y remendar ropa!
+# ¡Coser y Remendar Ropa!
 
 ## Resumen
 Aprendé a coser, remendar y adaptar la ropa para darle una segunda vida.

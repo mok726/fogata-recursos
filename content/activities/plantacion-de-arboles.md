@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprendamos sobre la plantación de árboles"
+title: "Aprendamos sobre la Plantación de Árboles"
 duration: "4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantacion-de-arboles/"
@@ -146,7 +146,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Aprendamos sobre la plantación de árboles!
+# ¡Aprendamos sobre la Plantación de Árboles!
 
 ## Resumen
 Para entender el proceso de reforestación/revegetación: saber de dónde vienen los árboles y las plantas para la reforestación y revegetación a través de una visita a un vivero de árboles, invernadero o jardín.

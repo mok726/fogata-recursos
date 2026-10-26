@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los colores de la energía solar"
+title: "Los Colores de la Energía Solar"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/colores-de-la-energia-solar/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información
 ---
 
-# ¡Los colores de la energía solar!
+# ¡Los Colores de la Energía Solar!
 
 ## Resumen
 ¿Sabías que los colores absorben el calor de manera diferente? En esta actividad pintarán botellas de distintos colores, las llenarán con agua y medirán cómo cambia su temperatura al exponerlas al Sol.

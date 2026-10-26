@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dale una oportunidad a las abejas"
+title: "Dale una Oportunidad a las Abejas"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/dale-una-oportunidad-a-las-abejas/"
@@ -170,7 +170,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Dale una oportunidad a las abejas!
+# ¡Dale una Oportunidad a las Abejas!
 
 ## Resumen
 Hacé que tu jardín escolar o del hogar sea más amigable para los polinizadores. Esto ayudará a los polinizadores a encontrar néctar y polen para alimentarse durante toda la temporada. Muchos árboles y arbustos con flores son fuentes importantes de alimento para los polinizadores al comienzo de la temporada.

@@ -1,5 +1,5 @@
 ---
-title: "Grupo de investigación"
+title: "Grupo de Investigación"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/grupo-de-investigacion/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¡Grupo de investigación!
+# ¡Grupo de Investigación!
 
 ## Resumen
 Diseñá y lleva a cabo tu propio grupo de investigación sobre el cambio climático.

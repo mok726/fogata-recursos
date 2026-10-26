@@ -1,5 +1,5 @@
 ---
-title: "Investigá iniciativas locales"
+title: "Investigá Iniciativas Locales"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/investiga-iniciativas-locales/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Investigá iniciativas locales!
+# ¡Investigá Iniciativas Locales!
 
 ## Resumen
 Investigá lo que tu pueblo o ciudad está haciendo para proteger el medio ambiente y prevenir el cambio climático.

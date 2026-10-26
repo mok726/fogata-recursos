@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigaciones urbanas"
+title: "Investigaciones Urbanas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-urbanas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Investigaciones urbanas!
+# ¡Investigaciones Urbanas!
 
 ## Resumen
 ¿En qué ciudades del mundo se encuentran los niveles más altos de CO2 atmosférico? Investigá para encontrar la respuesta.

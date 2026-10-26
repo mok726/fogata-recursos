@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aves migratorias"
+title: "Aves Migratorias"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/aves-migratorias/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Aves migratorias!
+# ¡Aves Migratorias!
 
 ## Resumen
 Durante el otoño y/o la primavera visita un parque o área protegida donde sea posible observar aves. ¿Qué especies de aves migratorias pasan por ahí? Tratá de verlas y escuchá sus canciones.

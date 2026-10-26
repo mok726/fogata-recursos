@@ -1,5 +1,5 @@
 ---
-title: "Campamento amigable con el medio ambiente"
+title: "Campamento Amigable con el Medio Ambiente"
 duration: "Proyecto de campamento"
 layout: "layouts/activity.njk"
 permalink: "/activities/campamento-amigable-con-el-medio-ambiente/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# ¡Campamento amigable con el medio ambiente!
+# ¡Campamento Amigable con el Medio Ambiente!
 
 ## Resumen
 Organizá un campamento de verano amigable con el medio ambiente con comida local, reciclaje y limpieza de áreas naturales.

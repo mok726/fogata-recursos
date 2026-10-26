@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El mayor perdedor de plástico"
+title: "El Mayor Perdedor de Plástico"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-mayor-perdedor-plastico/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡El mayor perdedor de plástico!
+# ¡El Mayor Perdedor de Plástico!
 
 ## Resumen
 Organizá una competencia entre clases o grupos para ver quién puede reducir más su consumo de plásticos de un solo uso durante una semana. ¡El grupo que produzca menos residuos plásticos gana!

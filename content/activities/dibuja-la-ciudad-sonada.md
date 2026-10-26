@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dibujá la ciudad soñada"
+title: "Dibujá la Ciudad Soñada"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibuja-la-ciudad-sonada/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Dibujá la ciudad soñada!
+# ¡Dibujá la Ciudad Soñada!
 
 ## Resumen
 ¿Cuál es un elemento de la ciudad que te gustaría que tuviera tu ciudad? ¿Jardines en las azoteas? ¿Más carriles para bicicletas? ¿Cómo cambiaría tu vida si tu ciudad tuviera ese elemento de ciudad verde? ¿Qué tan fácil o difícil sería traerlo a tu ciudad?

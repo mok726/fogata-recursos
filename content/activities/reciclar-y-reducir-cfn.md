@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reciclar y reducir"
+title: "Reciclar y Reducir"
 duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclar-y-reducir-cfn/"
@@ -153,7 +153,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Reciclar y reducir!
+# ¡Reciclar y Reducir!
 
 ## Resumen
 Esta actividad ayuda a los participantes a comprender la diferencia entre el reciclaje y la reducción de residuos, y cómo pueden hacer que su consumo sea más responsable y respetuoso con el medio ambiente.

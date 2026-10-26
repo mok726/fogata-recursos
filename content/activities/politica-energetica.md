@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Política energética"
+title: "Política Energética"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/politica-energetica/"
@@ -154,7 +154,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Política energética!
+# ¡Política Energética!
 
 ## Resumen
 ¿Qué políticas tiene tu país para promover energías renovables y reducir emisiones? Investigá y analizá las políticas energéticas de tu país.

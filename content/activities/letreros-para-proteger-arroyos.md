@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Letreros para proteger arroyos"
+title: "Letreros para Proteger Arroyos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/letreros-para-proteger-arroyos/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Letreros para proteger arroyos!
+# ¡Letreros para Proteger Arroyos!
 
 ## Resumen
 Reunite con un representante de las autoridades locales o de un organismo de conservación local responsable de un arroyo o de un río. Invitalos a que elaboren letreros que alienten a las personas a proteger estas áreas. Ofrecete como voluntario para pintar y para ayudar a colocar dichos letreros.

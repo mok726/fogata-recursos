@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Midiendo el clima"
+title: "Midiendo el Clima"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/midiendo-el-clima/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 8  # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Midiendo el clima!
+# ¡Midiendo el Clima!
 
 ## Resumen
 Averiguá cómo se mide el clima y qué instrumentos se utilizan. ¿Cómo se utilizan posteriormente los datos para predecir los cambios en el clima?

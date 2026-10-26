@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudio evolutivo"
+title: "Estudio Evolutivo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudio-evolutivo/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 37 # Valoro la naturaleza como oportunidad de conexión conmigo mismo
 ---
 
-# ¡Estudio evolutivo!
+# ¡Estudio Evolutivo!
 
 ## Resumen
 Elegí una especie de planta o animal e investigá cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.

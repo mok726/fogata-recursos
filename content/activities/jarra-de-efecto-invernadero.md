@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Jarra de efecto invernadero"
+title: "Jarra de Efecto Invernadero"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/jarra-de-efecto-invernadero/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 8  # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Jarra de efecto invernadero!
+# ¡Jarra de Efecto Invernadero!
 
 ## Resumen
 ¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.

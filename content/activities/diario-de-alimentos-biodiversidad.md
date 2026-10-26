@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diario de alimentos"
+title: "Diario de Alimentos"
 duration: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-biodiversidad/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Diario de alimentos!
+# ¡Diario de Alimentos!
 
 ## Resumen
 Registrá lo que comés durante cinco días. ¿Cuántas cosas diferentes comiste? ¿De qué animales y plantas obtuviste tu comida? Al final de la semana, ayuda a preparar una comida que use mucha biodiversidad. Compártela con tu familia y tus amigos. Durante la comida, hablen sobre la biodiversidad en cada plato.

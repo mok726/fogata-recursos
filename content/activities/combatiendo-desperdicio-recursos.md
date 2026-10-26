@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Combatiendo el desperdicio de recursos"
+title: "Combatiendo el Desperdicio de Recursos"
 duration: "2-4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/combatiendo-desperdicio-recursos/"
@@ -167,7 +167,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Combatiendo el desperdicio de recursos
+# Combatiendo el Desperdicio de Recursos
 
 ## Resumen
 Construí un sistema de clasificación de residuos para tu grupo scout o tu casa. Podés clasificar tus residuos en: vidrio, metal, papel, cartón, pilas y plásticos. Para hacer cada uno de los contenedores podés usar cajas, tachos de pintura vacíos, cajones de gaseosa y hasta bolsas. ¡No te olvides de usar tu imaginación para crear el sistema de clasificación de residuos más óptimo para vos y tu comunidad!

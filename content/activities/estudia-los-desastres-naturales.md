@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudiá los desastres naturales"
+title: "Estudiá los Desastres Naturales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudia-los-desastres-naturales/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 29 # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Estudiá los desastres naturales!
+# ¡Estudiá los Desastres Naturales!
 
 ## Resumen
 Divídanse en grupos para estudiar diferentes desastres relacionados con el clima que han sucedido recientemente, por ejemplo, una inundación o un huracán.

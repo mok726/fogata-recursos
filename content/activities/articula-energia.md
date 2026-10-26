@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Articula la energía"
+title: "Articula la Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/articula-energia/"
@@ -156,7 +156,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Articula la energía!
+# ¡Articula la Energía!
 
 ## Resumen
 Creá un juego de definiciones con palabras relacionadas con la energía: "renovable", "limpia", "sostenible". Explicá la palabra sin decirla, o actuá con mímica.

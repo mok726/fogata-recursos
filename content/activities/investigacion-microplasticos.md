@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigación de microplásticos"
+title: "Investigación de Microplásticos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-microplasticos/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigación de microplásticos!
+# ¡Investigación de Microplásticos!
 
 ## Resumen
 Investigá qué productos cotidianos contienen microplásticos: pelotas de tenis, bolsitas de té, toallitas húmedas, purpurina, cremas faciales y pastillas para lavavajillas. Aprendé a identificarlos y a evitarlos.

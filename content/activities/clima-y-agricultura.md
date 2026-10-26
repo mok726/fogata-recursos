@@ -1,5 +1,5 @@
 ---
-title: "Clima y agricultura"
+title: "Clima y Agricultura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-agricultura/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación y protección ambiental.
 ---
 
-# ¡Clima y agricultura!
+# ¡Clima y Agricultura!
 
 ## Resumen
 Investigá cómo el cambio climático afecta la agricultura, la silvicultura, la ganadería y la pesca.

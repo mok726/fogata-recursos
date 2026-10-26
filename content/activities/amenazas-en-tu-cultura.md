@@ -1,5 +1,5 @@
 ---
-title: "Amenazas en tu Cultura"
+title: "Amenazas en Tu Cultura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-en-tu-cultura/"
@@ -148,7 +148,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Amenazas en tu Cultura!
+# ¡Amenazas en Tu Cultura!
 
 ## Resumen
 Investigá las creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales en tu cultura.

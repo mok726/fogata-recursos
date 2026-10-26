@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Yoga animal"
+title: "Yoga Animal"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/yoga-animal/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Yoga animal!
+# ¡Yoga Animal!
 
 ## Resumen
 Los animales se mueven de muchas formas diferentes. Participen en una clase de yoga animal, donde todos los ejercicios imiten los movimientos de diferentes animales del mundo. Tomen turnos para liderar los movimientos. Los participantes de mayor edad pueden diseñar y dirigir la clase para los niños más pequeños.

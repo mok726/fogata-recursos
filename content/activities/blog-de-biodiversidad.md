@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Blog de biodiversidad"
+title: "Blog de Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/blog-de-biodiversidad/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Blog de biodiversidad!
+# ¡Blog de Biodiversidad!
 
 ## Resumen
 Iniciá un blog sobre la biodiversidad (un diario en línea donde los lectores pueden comentar acerca de las entradas del diario) o un diario. Publicá consejos sobre lo que la juventud puede hacer por la biodiversidad. Si preferís no trabajar en internet, compartí tu blog o tu diario con el periódico de tu escuela o con la estación de radio de tu escuela.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mariposas y polillas"
+title: "Mariposas y Polillas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mariposas-y-polillas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Mariposas y polillas!
+# ¡Mariposas y Polillas!
 
 ## Resumen
 La biodiversidad está llena de cambios: sólo piensa en una oruga que empieza su vida reptando y comiendo hojas, ¡y luego se transforma en una mariposa! Buscá mariposas y polillas en un campo, un bosque o un jardín.

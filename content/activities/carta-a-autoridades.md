@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carta a autoridades"
+title: "Carta a Autoridades"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-a-autoridades/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 24  # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Carta a autoridades!
+# ¡Carta a Autoridades!
 
 ## Resumen
 Escribí a las autoridades locales acerca de un asunto sobre la biodiversidad que te preocupe. No olvides ofrecer algunas soluciones.

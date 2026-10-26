@@ -1,5 +1,5 @@
 ---
-title: "Visitá a una hacienda"
+title: "Visitá a una Hacienda"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-una-hacienda/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Visitá a una hacienda!
+# ¡Visitá a una Hacienda!
 
 ## Resumen
 Visitá una hacienda tradicional y una orgánica para aprender sobre productos que se cultivan y animales que se crían en tu área.

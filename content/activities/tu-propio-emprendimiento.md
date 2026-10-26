@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tu propio emprendimiento"
+title: "Tu Propio Emprendimiento"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-propio-emprendimiento/"
@@ -161,7 +161,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Tu propio emprendimiento
+# Tu Propio Emprendimiento
 
 ## Resumen
 Divídanse en equipos de 3 personas y armen su propia microempresa. Usen la creatividad y plasmen el logotipo, slogan, producto, misión y visión en un afiche con ayuda de marcadores y todos los materiales artísticos que tengan a su disposición. Finalmente hagan una feria de empresas y presenten cada uno la suya tratando de vender su producto. Traten de encontrar la "salsa especial" de su producto, eso que lo hace único. Pueden también caracterizarse como empresarios para entrar en personaje.

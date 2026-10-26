@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Inicio de los plásticos (Plásticos - Antes y ahora)"
+title: "Inicio de los Plásticos (Plásticos - Antes y Ahora)"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inicio-de-los-plasticos/"
@@ -168,7 +168,7 @@ rama_rovers:
   - 29  # Indago en las causas y consecuencias de las injusticias sociales
 ---
 
-# ¡Inicio de los plásticos (Plásticos - Antes y ahora)!
+# ¡Inicio de los Plásticos (Plásticos - Antes y Ahora)!
 
 ## Resumen
 Esta actividad ayuda a los jóvenes a comprender que gran parte del uso del plástico que se trata como algo esencial es un fenómeno relativamente reciente. A través de entrevistas familiares y discusiones grupales, descubrirán cómo era la vida antes de la popularización del plástico y qué alternativas se utilizaban.

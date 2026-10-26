@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Variedades raras de cultivos"
+title: "Variedades Raras de Cultivos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/variedades-raras-de-cultivos/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Variedades raras de cultivos!
+# ¡Variedades Raras de Cultivos!
 
 ## Resumen
 Identificá cinco variedades raras de cultivos o plantas que crecen en tu comunidad. ¿Cuáles son sus características especiales? ¿Dónde se cultivan estas variedades raras? ¿En qué se asemejan y en qué se diferencian de la variedad común?

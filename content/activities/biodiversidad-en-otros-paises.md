@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Biodiversidad en otros países"
+title: "Biodiversidad en Otros Países"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-en-otros-paises/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Biodiversidad en otros países!
+# ¡Biodiversidad en Otros Países!
 
 ## Resumen
 Elegí tres países que te gustaría visitar algún día. ¿Qué tipos de ecosistemas podés encontrar en cada uno de estos países? ¿Cuál es el árbol, la flor, el ave y el animal nacional de cada país? ¿Cuáles son las mayores amenazas para la biodiversidad en cada nación? Tratá de encontrar algunas fotografías que muestren la naturaleza de estos países.

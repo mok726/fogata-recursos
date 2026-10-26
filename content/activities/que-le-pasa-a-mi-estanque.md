@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué le Pasa a Mi Estanque?"
+title: "¿Qué Le Pasa a Mi Estanque?"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-le-pasa-a-mi-estanque/"
@@ -166,7 +166,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¿Qué le Pasa a Mi Estanque?
+# ¿Qué Le Pasa a Mi Estanque?
 
 ## Resumen
 La calidad del agua jugará un papel importante en cualquier uso que se le dé a un estanque. Parámetros como nitratos, amoníaco, pH, dureza y alcalinidad pueden afectar la calidad del estanque. En esta actividad, los participantes realizan pruebas de calidad del agua en muestras de agua de estanque para determinar su salud.

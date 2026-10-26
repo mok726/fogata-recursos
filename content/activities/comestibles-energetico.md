@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comestibles energéticos"
+title: "Comestibles Energéticos"
 duration: "2 horas + tiempo de cocina"
 layout: "layouts/activity.njk"
 permalink: "/activities/comestibles-energeticos/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Comestibles energéticos!
+# ¡Comestibles Energéticos!
 
 ## Resumen
 ¿Sabías que diferentes alimentos requieren diferentes cantidades de energía para ser producidos? Por ejemplo, se requiere 25 veces más energía para producir una caloría de carne que para producir una caloría de maíz para el consumo humano.

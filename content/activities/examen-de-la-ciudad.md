@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Examen de la ciudad"
+title: "Examen de la Ciudad"
 duration: "2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/examen-de-la-ciudad/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Examen de la ciudad!
+# ¡Examen de la Ciudad!
 
 ## Resumen
 ¿Creés que tu ciudad es una ciudad verde? ¿Por qué sí o por qué no? ¿Cuáles son los principales problemas? Como grupo, dediquen un día a explorar diferentes partes de tu ciudad. El recorrido debería incluir parques, paradas o estaciones de transporte público, barrios residenciales y el centro de la ciudad.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Campaña de carteles"
+title: "Campaña de Carteles"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-de-carteles-plastico/"
@@ -166,7 +166,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Campaña de carteles!
+# ¡Campaña de Carteles!
 
 ## Resumen
 Ponete creativo y demuestra tu liderazgo en un cartel. Usá tu obra de arte para que la gente piense en cambiar su hábito de utilizar plástico de un solo uso y mantener el vecindario limpio. Compartí tus carteles en redes sociales usando el hashtag #CleanSeas y, si es legal, colocalos en lugares donde la contaminación causada por el plástico esté en su peor momento.

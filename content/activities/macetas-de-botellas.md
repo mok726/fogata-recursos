@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Macetas de botellas"
+title: "Macetas de Botellas"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/macetas-de-botellas/"
@@ -164,7 +164,7 @@ rama_rovers:
 
 ---
 
-# ¡Macetas de botellas!
+# ¡Macetas de Botellas!
 
 ## Resumen
 Las botellas PET de gaseosa vienen en diferentes formas y tamaños. Estas botellas se pueden utilizar creativamente para crear macetas colgantes como una actividad de manualidades. Esta actividad anima a los jóvenes a reutilizar residuos plásticos y a cultivar sus propias plantas.

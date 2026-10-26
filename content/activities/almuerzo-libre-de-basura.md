@@ -1,5 +1,5 @@
 ---
-title: "Almuerzo libre de basura"
+title: "Almuerzo Libre de Basura"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/almuerzo-libre-de-basura/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Almuerzo libre de basura!
+# ¡Almuerzo Libre de Basura!
 
 ## Resumen
 Llevá un almuerzo sin generar basura a la escuela.

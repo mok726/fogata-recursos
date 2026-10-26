@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reciclaje de aguas grises"
+title: "Reciclaje de Aguas Grises"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-aguas-grises/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Reciclaje de aguas grises!
+# ¡Reciclaje de Aguas Grises!
 
 ## Resumen
 Investigá sobre el reciclaje de aguas grises. Invitá a un representante del departamento de agua de las autoridades locales para que converse con tu grupo. ¿Qué es el reciclaje de aguas grises? ¿Cuándo y dónde es apropiado? ¿Qué leyes existen en tu área para el reciclaje de aguas grises?

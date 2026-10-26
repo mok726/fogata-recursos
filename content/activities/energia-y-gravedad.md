@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía y gravedad"
+title: "Energía y Gravedad"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-gravedad/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía y gravedad!
+# ¡Energía y Gravedad!
 
 ## Resumen
 Esta demostración te mostrará la diferencia entre energía potencial y energía cinética. Con un carrito de juguete y una rampa, verás cómo la gravedad convierte la energía almacenada en energía de movimiento.

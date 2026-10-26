@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cultivá tu propia comida"
+title: "Cultivá Tu Propia Comida"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/cultiva-tu-propia-comida/"
@@ -166,7 +166,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Cultivá tu propia comida!
+# ¡Cultivá Tu Propia Comida!
 
 ## Resumen
 Aprendé a cultivar tus propias frutas y verduras en casa. Es una forma divertida y gratificante de acercarte a la naturaleza y contribuir a una ciudad más verde.

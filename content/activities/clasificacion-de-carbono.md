@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Clasificación de carbono"
+title: "Clasificación de Carbono"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/clasificacion-de-carbono/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Clasificación de carbono!
+# ¡Clasificación de Carbono!
 
 ## Resumen
 Buscá las emisiones totales de CO2 por país y per cápita. ¿Cómo se encuentra tu país? ¿Cuáles creés que son las razones para su posición en comparación con otros países del mundo?

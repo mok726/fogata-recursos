@@ -1,5 +1,5 @@
 ---
-title: "Compensación de carbono para viajes"
+title: "Compensación de Carbono para Viajes"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/compensacion-de-carbono-para-viajes/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Compensación de carbono para viajes!
+# ¡Compensación de Carbono para Viajes!
 
 ## Resumen
 Investigá la compensación de carbono para viajes aéreos y alternativas sostenibles.

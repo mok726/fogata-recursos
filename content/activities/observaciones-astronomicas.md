@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Observaciones astronómicas"
+title: "Observaciones Astronómicas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/observaciones-astronomicas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 37 # Valoro la naturaleza como oportunidad de conexión conmigo mismo
 ---
 
-# ¡Observaciones astronómicas!
+# ¡Observaciones Astronómicas!
 
 ## Resumen
 ¿Sabías que las variaciones en la órbita de la Tierra y su inclinación en su eje pueden también causar variaciones en el clima? Estas variaciones no ocurren en un espacio de tiempo predecible - ¡la inclinación del eje de la Tierra cambia entre 22°C y 25°C en un ciclo de cerca de 41.000 años!

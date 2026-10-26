@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Campaña escolar"
+title: "Campaña Escolar"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-escolar-polinizadores/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Campaña escolar!
+# ¡Campaña Escolar!
 
 ## Resumen
 Con permiso de las autoridades escolares, lanzá una campaña de un mes en la escuela para crear conciencia sobre los polinizadores. Colocá carteles en los pasillos y trabajá con los jardineros escolares para implementar cambios en los jardines.

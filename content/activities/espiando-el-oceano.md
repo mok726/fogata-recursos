@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Espiando el océano"
+title: "Espiando el Océano"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/espiando-el-oceano/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Espiando el océano!
+# ¡Espiando el Océano!
 
 ## Resumen
 Es hora de crear unas increíbles 'cajas para espiar' sobre el océano. Todos los participantes deben llevar una caja para reutilizar (de cereal, de zapatos o cualquier caja que tengan que pueda ser reciclada).

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lugares en peligro"
+title: "Lugares en Peligro"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/lugares-en-peligro/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 26 # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Lugares en peligro!
+# ¡Lugares en Peligro!
 
 ## Resumen
 Descubrí cuáles sitios de Patrimonio Mundial de la UNESCO están siendo amenazados por el cambio climático y cómo.

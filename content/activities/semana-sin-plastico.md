@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Semana sin plástico"
+title: "Semana sin Plástico"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/semana-sin-plastico/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Semana sin plástico!
+# ¡Semana sin Plástico!
 
 ## Resumen
 Reuní a un grupo de amigos y comprométanse a pasar una semana completa sin usar plásticos de un solo uso. ¡Compartan ideas, anímense mutuamente y vean quién logra el desafío!

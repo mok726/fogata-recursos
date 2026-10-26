@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Separar desde el comienzo"
+title: "Separar desde el Comienzo"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/separar-desde-el-comienzo/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Separar desde el comienzo!
+# ¡Separar desde el Comienzo!
 
 ## Resumen
 La separación de los residuos debe comenzar en el hogar, ya que es fundamental para su reciclaje y eliminación. Esta actividad ayuda a los jóvenes a comprender la importancia de la segregación de residuos y a aprender a clasificar y eliminar los residuos correctamente, utilizando contenedores de colores según el tipo de residuo.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pensar en voz alta"
+title: "Pensar en Voz Alta"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pensar-en-voz-alta/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 34  # Me cuestiono sobre las grandes preguntas
 ---
 
-# ¡Pensar en voz alta!
+# ¡Pensar en Voz Alta!
 
 ## Resumen
 ¿Cómo te sentís vos en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo podés hacer una diferencia o sólo no te interesa? Escribí un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos.

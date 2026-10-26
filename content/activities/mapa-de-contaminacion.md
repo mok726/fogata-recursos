@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mapa de contaminación"
+title: "Mapa de Contaminación"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mapa-de-contaminacion/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Mapa de contaminación!
+# ¡Mapa de Contaminación!
 
 ## Resumen
 Dibujá un mapa de tu comunidad. Incluí características naturales, como bosques y ríos, así como características humanas, como edificios y carreteras. Identificá en tu mapa las posibles fuentes de contaminación.

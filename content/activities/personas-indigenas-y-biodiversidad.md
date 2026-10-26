@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Personas indígenas y biodiversidad"
+title: "Personas Indígenas y Biodiversidad"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/personas-indigenas-y-biodiversidad/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Personas indígenas y biodiversidad!
+# ¡Personas Indígenas y Biodiversidad!
 
 ## Resumen
 Aprendé cómo las personas indígenas utilizan la biodiversidad para su supervivencia y en sus culturas (las personas indígenas son llamadas también aborígenes, nativos o miembros de las naciones originarias en diferentes partes del mundo). Si es posible, invitá a una persona indígena a hablar sobre la biodiversidad con tu grupo. Identificá un ejemplo por cada continente sobre cómo estas comunidades utilizan la biodiversidad.

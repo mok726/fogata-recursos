@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Poderes de persuasión"
+title: "Poderes de Persuasión"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/poderes-de-persuasion/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Poderes de persuasión!
+# ¡Poderes de Persuasión!
 
 ## Resumen
 Creá una campaña de concientización sobre plásticos en un área comercial local. Usá carteles y redes sociales para informar, motivar y dar alternativas concretas para reducir el uso de plásticos.

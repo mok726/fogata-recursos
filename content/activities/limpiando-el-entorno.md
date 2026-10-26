@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Limpiando el entorno"
+title: "Limpiando el Entorno"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpiando-el-entorno/"
@@ -165,7 +165,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Limpiando el entorno!
+# ¡Limpiando el Entorno!
 
 ## Resumen
 Seleccioná un área con problema de basura en tu comunidad (parque, playa, río o campo) y mantenla limpia durante un mes. Invitá a amigos, familiares y autoridades locales a unirse.

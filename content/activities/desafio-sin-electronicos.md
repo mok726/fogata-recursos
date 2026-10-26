@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desafío sin electrónicos"
+title: "Desafío sin Electrónicos"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/desafio-sin-electronicos/"
@@ -155,7 +155,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Desafío sin electrónicos!
+# ¡Desafío sin Electrónicos!
 
 ## Resumen
 Cada vez pasamos más tiempo usando electrónicos como celulares, computadoras y televisores. ¿Cuánto tiempo pasás usando electrónicos cada día? Este desafío consiste en vivir sin electrónicos durante ciertas horas al día durante un mes.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Invernáculo para anfibios"
+title: "Invernáculo para Anfibios"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/invernaculo-para-anfibios/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles
 ---
 
-# ¡Invernáculo para anfibios!
+# ¡Invernáculo para Anfibios!
 
 ## Resumen
 Construí un invernáculo para anfibios (un cobijo donde los animales hibernan). No te olvides de que los anfibios requieren ambientes húmedos, así que el invernáculo debe estar situado cerca del agua. Observá los animales que llegan.

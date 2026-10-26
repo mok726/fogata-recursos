@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Impresiones de esporas"
+title: "Impresiones de Esporas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/impresiones-de-esporas/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Impresiones de esporas!
+# ¡Impresiones de Esporas!
 
 ## Resumen
 Las semillas de los hongos se llaman esporas y el viento las dispersa constantemente. Cada especie de hongo tiene una impresión de espora única (como una huella digital). Recolectá tres especies de hongos diferentes y hacé una impresión de esporas de cada uno.

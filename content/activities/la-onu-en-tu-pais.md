@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La ONU en tu País"
+title: "La ONU en Tu País"
 duration: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-onu-en-tu-pais/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡La ONU en tu País!
+# ¡La ONU en Tu País!
 
 ## Resumen
 Diferentes agencias de las Naciones Unidas apoyan proyectos relacionados con el agua en todo el mundo, abordando temas como la escasez de agua, las aguas transfronterizas y el desarrollo de capacidades. En esta actividad, los participantes investigan proyectos relacionados con el agua apoyados por agencias de la ONU en diferentes países y presentan sus hallazgos.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Objetos y sus orígenes"
+title: "Objetos y Sus Orígenes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/objetos-y-sus-origenes/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Objetos y sus orígenes!
+# ¡Objetos y Sus Orígenes!
 
 ## Resumen
 Elegí una habitación. Identificá los objetos que se originan en la biodiversidad, por ejemplo, una mesa de madera fue alguna vez un árbol de roble. Elaborá un collage que muestre los vínculos entre los objetos en la habitación y sus orígenes en la biodiversidad.

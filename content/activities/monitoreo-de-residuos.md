@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Monitoreo de mis residuos"
+title: "Monitoreo de Mis Residuos"
 duration: "2 semanas (4 horas cada semana)"
 layout: "layouts/activity.njk"
 permalink: "/activities/monitoreo-de-residuos/"
@@ -151,7 +151,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Monitoreo de mis residuos!
+# ¡Monitoreo de Mis Residuos!
 
 ## Resumen
 Esta actividad dará una idea de la cantidad de residuos que se producen y cuánto agrega la gente a la acumulación de residuos. Durante la actividad, los participantes desarrollarán ideas sobre cómo reducir el desperdicio.

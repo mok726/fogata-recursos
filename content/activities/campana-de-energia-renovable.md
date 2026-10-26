@@ -1,5 +1,5 @@
 ---
-title: "Campaña de energía renovable"
+title: "Campaña de Energía Renovable"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-de-energia-renovable/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Campaña de energía renovable!
+# ¡Campaña de Energía Renovable!
 
 ## Resumen
 Aprendé sobre energía renovable y empezá una campaña para promover su uso en tu área.

@@ -1,5 +1,5 @@
 ---
-title: "Productos reciclables"
+title: "Productos Reciclables"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/productos-reciclables/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Productos reciclables!
+# ¡Productos Reciclables!
 
 ## Resumen
 Averiguá qué productos son reciclables en tu vecindario y creá letreros para tu casa y escuela.

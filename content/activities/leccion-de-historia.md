@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lección de historia"
+title: "Lección de Historia"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/leccion-de-historia/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Lección de historia!
+# ¡Lección de Historia!
 
 ## Resumen
 ¿Cuánto se ha expandido tu ciudad en las últimas décadas? ¿Cuál es la historia de tu ciudad? ¿Quiénes fueron los primeros pobladores, cuándo llegaron y para qué se usaba la tierra antes? ¿Ha sido tu ciudad inclusiva con todas las personas de diferentes orígenes que se han establecido allí? ¿Cómo se espera que siga expandiéndose tu ciudad? ¿Ves señales de su continua expansión? ¿Qué cambios creés que traerá una mayor expansión y cómo puede prepararse tu ciudad?

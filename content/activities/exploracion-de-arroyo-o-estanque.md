@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exploración de arroyo o estanque"
+title: "Exploración de Arroyo o Estanque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-arroyo-o-estanque/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Exploración de arroyo o estanque!
+# ¡Exploración de Arroyo o Estanque!
 
 ## Resumen
 Explorá un arroyo o un estanque. Examiná la vida que existe dentro de estos. Tomá una muestra de agua y examinala debajo de una lupa o de un microscopio. Registrá lo que ves. Regresá el agua y las criaturas a la corriente o al estanque.

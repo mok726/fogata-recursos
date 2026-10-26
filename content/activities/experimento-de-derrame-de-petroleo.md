@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de derrame de petróleo"
+title: "Experimento de Derrame de Petróleo"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-derrame-de-petroleo/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Experimento de derrame de petróleo!
+# ¡Experimento de Derrame de Petróleo!
 
 ## Resumen
 La contaminación puede afectar a la biodiversidad. Hacé un experimento para averiguar cómo un derrame de petróleo puede dañar las plumas de un ave.

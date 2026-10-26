@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sin sobras"
+title: "Sin Sobras"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/sin-sobras/"
@@ -178,7 +178,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Sin sobras!
+# ¡Sin Sobras!
 
 ## Resumen
 Encontrar formas creativas de usar las sobras es una excelente manera de evitar el desperdicio de alimentos. Involucrá a los adultos de tu hogar para que te ayuden a usar las sobras de forma creativa.

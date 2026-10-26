@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hornear con burbujas"
+title: "Hornear con Burbujas"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/hornear-con-burbujas/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Hornear con burbujas!
+# ¡Hornear con Burbujas!
 
 ## Resumen
 Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, tortas y otros dulces! Usá levadura o bicarbonato para hacer algo delicioso mientras aprendés sobre el CO₂.

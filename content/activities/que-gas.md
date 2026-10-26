@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Qué gas!"
+title: "¡Qué Gas!"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-gas/"
@@ -152,7 +152,7 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades
 ---
 
-# ¡Qué gas!
+# ¡Qué Gas!
 
 ## Resumen
 Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, escriban sus propiedades en el otro lado de la carta. Por ejemplo, la carta del dióxido de carbono podría enumerar las siguientes propiedades: un gas incoloro que forma cerca de 0,3 por ciento del aire; las plantas fabrican su alimento a partir de este.

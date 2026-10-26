@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Productos de las abejas"
+title: "Productos de las Abejas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/productos-de-las-abejas/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Productos de las abejas!
+# ¡Productos de las Abejas!
 
 ## Resumen
 Miel, cera de abejas, jalea real, polen de abejas, propóleo... las abejas melíferas nos proporcionan una variedad de productos útiles. Elegí uno que no conozcas bien y aprendé todo sobre él. ¿Para qué se usa? ¿Cómo y por qué lo hacen las abejas?

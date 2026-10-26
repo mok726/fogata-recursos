@@ -1,5 +1,5 @@
 ---
-title: "Proyecto de plantación de árboles"
+title: "Proyecto de Plantación de Árboles"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-de-plantacion-de-arboles/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Proyecto de plantación de árboles!
+# ¡Proyecto de Plantación de Árboles!
 
 ## Resumen
 Formá parte de un proyecto para plantar árboles y ayudar al medio ambiente.

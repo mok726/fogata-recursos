@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tintes naturales"
+title: "Tintes Naturales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tintes-naturales/"
@@ -169,7 +169,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Tintes naturales!
+# ¡Tintes Naturales!
 
 ## Resumen
 Antes de la invención de los colorantes químicos artificiales, la ropa y otras telas se teñían con tintes provenientes de raíces, nueces, bayas, flores y otras cosas que se encuentran en la naturaleza. Elaborá tus propios colorantes naturales de materiales que encuentres en tu vecindario, tienda de comestibles o mercado.

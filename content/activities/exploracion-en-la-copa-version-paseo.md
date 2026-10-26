@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exploración en la copa - versión paseo"
+title: "Exploración en la Copa - Versión Paseo"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-en-la-copa-version-paseo/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Exploración en la copa - versión paseo!
+# ¡Exploración en la Copa - Versión Paseo!
 
 ## Resumen
 Exploren la biodiversidad que vive fuera del suelo. Caminen por el vecindario con un par de binoculares si es posible. ¿Qué ven justo arriba del suelo en los arbustos? ¿Qué habita en el aire entre los árboles y la yerba? ¿Qué existe en la copa (parte superior del árbol)?

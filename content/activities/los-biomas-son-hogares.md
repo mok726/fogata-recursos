@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los Biomas son Hogares"
+title: "Los Biomas Son Hogares"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-biomas-son-hogares/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información.
 ---
 
-# Los Biomas son Hogares
+# Los Biomas Son Hogares
 
 ## Resumen
 Aprendé sobre diferentes biomas forestales, sus características y ubicación. Compartí tus respuestas con tu grupo.

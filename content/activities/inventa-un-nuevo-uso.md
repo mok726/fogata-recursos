@@ -1,5 +1,5 @@
 ---
-title: "Inventá un nuevo uso"
+title: "Inventá un Nuevo Uso"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventa-un-nuevo-uso/"
@@ -138,7 +138,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Inventá un nuevo uso!
+# ¡Inventá un Nuevo Uso!
 
 ## Resumen
 Inventá un nuevo uso para un residuo doméstico que normalmente sería botado.

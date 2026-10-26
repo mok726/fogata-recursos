@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Puntos calientes de biodiversidad"
+title: "Puntos Calientes de Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/puntos-calientes-de-biodiversidad/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural
 ---
 
-# ¡Puntos calientes de biodiversidad!
+# ¡Puntos Calientes de Biodiversidad!
 
 ## Resumen
 ¿Qué es un punto caliente (o hotspot) de la biodiversidad? ¿Por qué creés que existen? ¿Dónde se encuentran los puntos calientes de la biodiversidad alrededor del mundo? Tomá la prueba de Puntos Calientes de la Biodiversidad en http://planetgreen.discovery.com/games-quizzes/biodiversity-hotspots-quiz

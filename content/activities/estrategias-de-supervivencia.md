@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estrategias de supervivencia"
+title: "Estrategias de Supervivencia"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estrategias-de-supervivencia/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Estrategias de supervivencia!
+# ¡Estrategias de Supervivencia!
 
 ## Resumen
 Diferentes especies de animales poseen distintas estrategias para mantenerse calientes o frías (como desarrollar densos abrigos de pelo en el invierno y abrigos más ligeros en el verano) y para mantenerse secas o húmedas (como poseer plumas que repelen el agua y vivir debajo de un tronco en descomposición).

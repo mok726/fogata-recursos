@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Historias solares"
+title: "Historias Solares"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/historias-solares/"
@@ -164,7 +164,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Historias solares!
+# ¡Historias Solares!
 
 ## Resumen
 Desde que los humanos existen en el planeta, hemos usado la energía del Sol. Pero la influencia del Sol en la vida humana va mucho más allá de nuestra necesidad de energía. A lo largo de la historia, los pueblos "adoraron" al Sol y tuvieron dioses solares.

@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de felicitación recicladas"
+title: "Tarjetas de Felicitación Recicladas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-felicitacion-recicladas/"
@@ -148,7 +148,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# ¡Tarjetas de felicitación recicladas!
+# ¡Tarjetas de Felicitación Recicladas!
 
 ## Resumen
 Hacé tarjetas de felicitación con materiales reutilizados y explicales a tus familiares la importancia del reciclaje.

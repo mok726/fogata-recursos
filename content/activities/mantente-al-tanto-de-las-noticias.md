@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mantente al tanto de las noticias"
+title: "Mantente al Tanto de las Noticias"
 duration: "1.5 horas (semanal)"
 layout: "layouts/activity.njk"
 permalink: "/activities/mantente-al-tanto-de-las-noticias/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Mantente al tanto de las noticias!
+# ¡Mantente al Tanto de las Noticias!
 
 ## Resumen
 Revisá la sección de ciencia y tecnología de tu periódico local durante las próximas semanas. ¿Hay alguna noticia sobre el clima, sobre productos que ahorren energía, sobre energía renovable o sobre la eficiencia energética en general?

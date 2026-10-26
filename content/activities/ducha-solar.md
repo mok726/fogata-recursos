@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ducha solar"
+title: "Ducha Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/ducha-solar/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías disponibles en la vida cotidiana
 ---
 
-# ¡Ducha solar!
+# ¡Ducha Solar!
 
 ## Resumen
 Ducha de Sol es un proyecto que busca proveer de agua caliente a todo tipo de hogares aprovechando la energía del Sol. Descubran el funcionamiento de la ducha solar y armen una propia siguiendo las instrucciones.

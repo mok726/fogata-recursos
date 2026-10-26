@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Compras inteligentes"
+title: "Compras Inteligentes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/compras-inteligentes/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Compras inteligentes!
+# ¡Compras Inteligentes!
 
 ## Resumen
 La próxima vez que tus padres vayan al mercado, acompañalos. Observá si llevan bolsas de tela/yute y qué están comprando.

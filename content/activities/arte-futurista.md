@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte futurista"
+title: "Arte Futurista"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-futurista/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Arte futurista!
+# ¡Arte Futurista!
 
 ## Resumen
 ¿Cómo te imaginás que se verá tu ciudad o pueblo dentro de 100 años? ¿Cómo creés que pueda ser afectado por el cambio climático? ¿Qué soluciones se idearán las personas para lidiar con los efectos del cambio climático?

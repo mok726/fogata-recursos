@@ -1,5 +1,5 @@
 ---
-title: "Ducha rápida"
+title: "Ducha Rápida"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/ducha-rapida/"
@@ -138,7 +138,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Ducha rápida!
+# ¡Ducha Rápida!
 
 ## Resumen
 Tomá duchas rápidas en lugar de baños, cerrá la llave mientras te jabonás y recogé el agua fría.

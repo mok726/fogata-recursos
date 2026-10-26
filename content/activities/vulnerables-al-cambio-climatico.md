@@ -1,5 +1,5 @@
 ---
-title: "Vulnerables al cambio climático"
+title: "Vulnerables al Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vulnerables-al-cambio-climatico/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 29  # Indago en las causas de las injusticias.
 ---
 
-# ¡Vulnerables al cambio climático!
+# ¡Vulnerables al Cambio Climático!
 
 ## Resumen
 Investigá quiénes son especialmente vulnerables al cambio climático y qué podés hacer para ayudarlos.

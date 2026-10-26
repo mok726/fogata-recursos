@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hacé tu propio compost"
+title: "Hacé Tu Propio Compost"
 duration: "1 hora + seguimiento de 3-4 meses"
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-tu-propio-compost/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Hacé tu propio compost!
+# ¡Hacé Tu Propio Compost!
 
 ## Resumen
 Hacé compost - ¡una forma amigable con el medio ambiente de mantener saludable a tu jardín!

@@ -1,5 +1,5 @@
 ---
-title: "Heladera eficiente"
+title: "Heladera Eficiente"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/refrigerador-eficiente/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Heladera eficiente!
+# ¡Heladera Eficiente!
 
 ## Resumen
 Ayudá a tus padres a instalar y mantener la heladera para ahorrar energía.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Política climática"
+title: "Política Climática"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/politica-climatica/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Política climática!
+# ¡Política Climática!
 
 ## Resumen
 ¿Qué tipo de políticas de gobierno existen en tu país que buscan promover la energía renovable o disminuir las emisiones de gases de efecto invernadero?

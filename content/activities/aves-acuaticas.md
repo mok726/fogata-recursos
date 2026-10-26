@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aves acuáticas"
+title: "Aves Acuáticas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/aves-acuaticas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Aves acuáticas!
+# ¡Aves Acuáticas!
 
 ## Resumen
 Visitá un pantano cercano a tu hogar. Observá diferentes especies de aves que atrapan su comida en el agua. ¿Cómo cazan estas aves, caminando por el agua, clavándose desde el aire, nadando debajo del agua?

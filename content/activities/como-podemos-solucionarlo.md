@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cómo podemos solucionarlo?"
+title: "¿Cómo Podemos Solucionarlo?"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/como-podemos-solucionarlo/"
@@ -173,7 +173,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# ¿Cómo podemos solucionarlo?
+# ¿Cómo Podemos Solucionarlo?
 
 ## Resumen
 Buscá en internet o en el diario noticias que hablen de alguna problemática en tu comunidad local. Mostrale esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática. Piensen una forma de solucionar esa problemática o reducirla a través de un proyecto, servicio, gesto solidario o campaña. Una vez planeado todo, ¿se animan a llevarlo a cabo?

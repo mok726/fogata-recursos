@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La vida en el pasado"
+title: "La Vida en el Pasado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-vida-en-el-pasado/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡La vida en el pasado!
+# ¡La Vida en el Pasado!
 
 ## Resumen
 ¿Sabés cómo era tu ciudad antes de que ocurriera la urbanización? Hablá con una persona mayor de tu familia o del vecindario y preguntale cómo era la vida en el pasado. ¿Había más animales? ¿Había más espacios verdes? ¿En qué tipo de casas vivía la gente y cómo se transportaban? La urbanización debe haber traído grandes cambios a sus vidas.

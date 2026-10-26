@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "BioBlitz - Exploración del área natural"
+title: "BioBlitz - Exploración del Área Natural"
 duration: "Semana 1: 2 horas, Semana 2: 4 horas, Semana 3: trabajo en grupos"
 layout: "layouts/activity.njk"
 permalink: "/activities/bioblitz-exploracion/"
@@ -160,7 +160,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡BioBlitz - Exploración del área natural!
+# ¡BioBlitz - Exploración del Área Natural!
 
 ## Resumen
 Los participantes colaborarán en la organización y ejecución de un BioBlitz, encontrando e identificando tantas especies como sea posible en un área específica durante un corto período de tiempo. En un BioBlitz, científicos, familias, estudiantes, profesores y otros miembros de la comunidad trabajan unidos para tener una noción de la biodiversidad de un área.

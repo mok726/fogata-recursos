@@ -1,5 +1,5 @@
 ---
-title: "Lavar ropa de manera eficiente"
+title: "Lavar Ropa de Manera Eficiente"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/lavar-ropa-de-manera-eficiente/"
@@ -138,7 +138,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Lavar ropa de manera eficiente!
+# ¡Lavar Ropa de Manera Eficiente!
 
 ## Resumen
 Llená la lavadora con una carga completa y colgá la ropa para secarla en lugar de usar la secadora.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Construí un hotel para abejas"
+title: "Construí un Hotel para Abejas"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/construi-un-hotel-para-abejas/"
@@ -174,7 +174,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Construí un hotel para abejas!
+# ¡Construí un Hotel para Abejas!
 
 ## Resumen
 Seguí los pasos para construir un hotel para abejas en tu hogar, escuela o jardín comunitario. Luego, monitorealo durante los próximos días. ¿Está atrayendo abejas? ¿Podés reconocer qué tipos de abejas están llegando?

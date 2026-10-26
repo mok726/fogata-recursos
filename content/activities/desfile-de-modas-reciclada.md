@@ -1,5 +1,5 @@
 ---
-title: "Desfile de modas reciclada"
+title: "Desfile de Modas Reciclada"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-de-modas-reciclada/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Desfile de modas reciclada!
+# ¡Desfile de Modas Reciclada!
 
 ## Resumen
 Creá y presentá un desfile de modas con vestuario elaborado con materiales reciclados.

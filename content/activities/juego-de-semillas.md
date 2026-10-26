@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de semillas"
+title: "Juego de Semillas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-semillas/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Juego de semillas!
+# ¡Juego de Semillas!
 
 ## Resumen
 Inventá un juego sobre semillas y biodiversidad. Por ejemplo, podrías inventar un juego de parejas donde los jugadores deben unir arroz, maíz, trigo u otras semillas reales con pistas o dibujos de las plantas correspondientes. Probá este juego con tus amigos.

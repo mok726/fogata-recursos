@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tus frutas y verduras favoritas"
+title: "Tus Frutas y Verduras Favoritas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tus-frutas-y-verduras-favoritas/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Tus frutas y verduras favoritas!
+# ¡Tus Frutas y Verduras Favoritas!
 
 ## Resumen
 ¿Cuáles son tus cinco frutas y verduras favoritas? Averiguá si dependen de los polinizadores para crecer. ¿Qué polinizadores ayudan a estas frutas y verduras, y cómo? ¿Estas plantas corren peligro de desaparecer si sus polinizadores desaparecen? Prepará un fotorreportaje sobre tus cinco frutas y verduras favoritas y su relación con los polinizadores.

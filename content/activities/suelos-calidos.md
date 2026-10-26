@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Suelos cálidos"
+title: "Suelos Cálidos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/suelos-calidos/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación y protección ambiental
 ---
 
-# ¡Suelos cálidos!
+# ¡Suelos Cálidos!
 
 ## Resumen
 Algunas partes del mundo se calientan más rápidamente que otras debido a los diferentes tipos de superficies, colores y otros factores. Descubrí, por medio de un experimento, cómo los suelos de diferentes colores y el agua absorben y retienen el calor.

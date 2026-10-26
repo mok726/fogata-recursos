@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Historiadores del clima"
+title: "Historiadores del Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/historiadores-del-clima/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación y protección ambiental
 ---
 
-# ¡Historiadores del clima!
+# ¡Historiadores del Clima!
 
 ## Resumen
 Estudiá la historia del clima de la Tierra, investigá sobre eventos como las edades de hielo y otros periodos más cálidos (como los periodos interglaciales).

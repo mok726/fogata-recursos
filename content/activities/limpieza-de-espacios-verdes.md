@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Limpieza de espacios verdes"
+title: "Limpieza de Espacios Verdes"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-espacios-verdes/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Limpieza de espacios verdes!
+# ¡Limpieza de Espacios Verdes!
 
 ## Resumen
 Elegí un parque, patio de juegos u otro espacio verde que tenga un problema de basura. Junto con tus compañeros, elegí un día para limpiar el parque. Contactá a las autoridades del parque y pediles que te ayuden a difundir la noticia y brindar apoyo.

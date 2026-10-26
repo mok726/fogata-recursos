@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Promoviendo la diversidad"
+title: "Promoviendo la Diversidad"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/promoviendo-la-diversidad/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Promoviendo la diversidad!
+# ¡Promoviendo la Diversidad!
 
 ## Resumen
 Investigá sobre la demografía de tu ciudad. ¿Tu ciudad tiene muchas razas y etnias diferentes? ¿Estas comunidades se integran entre sí o permanecen mayormente separadas? ¿Cómo podría tu ciudad ayudar a integrarlas mejor, para que diferentes culturas y grupos puedan socializar, aprender unos de otros y celebrar la diversidad?

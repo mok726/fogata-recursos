@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comercio de emisiones y REDD"
+title: "Comercio de Emisiones y REDD"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/comercio-de-emisiones-y-redd/"
@@ -168,7 +168,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Comercio de emisiones y REDD!
+# ¡Comercio de Emisiones y REDD!
 
 ## Resumen
 El comercio de emisiones (o sistema de canje, como se denomina algunas veces) es un instrumento para reducir las emisiones de gases de efecto invernadero. Esto también afecta a la biodiversidad. Aprendé sobre el canje de emisiones y programas relacionados, como la iniciativa 'Reducción de Emisiones de la Deforestación y Degradación en Países en Desarrollo' (REDD).

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Construí un modelo"
+title: "Construí un Modelo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/construi-un-modelo/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Construí un modelo!
+# ¡Construí un Modelo!
 
 ## Resumen
 Mirá a tu alrededor en tu vecindario. ¿Hay calles, casas, jardines o parques cerca? Ahora podés ser el arquitecto y mostrarle tu vecindario a tu grupo. Usá crayones, plastilina o bloques de construcción para hacer tu propia obra maestra.

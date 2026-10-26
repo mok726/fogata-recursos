@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mejorá tu Dieta con la Biodiversidad"
+title: "Mejorá Tu Dieta con la Biodiversidad"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/mejora-tu-dieta-con-la-biodiversidad/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies.
 ---
 
-# Mejorá tu Dieta con la Biodiversidad
+# Mejorá Tu Dieta con la Biodiversidad
 
 ## Resumen
 Descubrí y prueba diferentes variedades de frutas y verduras para diversificar tu dieta.

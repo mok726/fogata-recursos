@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sé una mariposa social"
+title: "Sé una Mariposa Social"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-una-mariposa-social/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 11  # Me comunicado de manera asertiva
 ---
 
-# ¡Sé una mariposa social!
+# ¡Sé una Mariposa Social!
 
 ## Resumen
 Lanzá una campaña en redes sociales para informar y movilizar a tus amigos y familiares para ayudar a salvar a los polinizadores. Esto podría implicar pedirles que realicen una acción por día. También proporcionales instrucciones sencillas sobre cómo hacer que sus jardines y estilos de vida sean más amigables con los polinizadores.

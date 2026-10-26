@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "En estado verde"
+title: "En Estado Verde"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/en-estado-verde/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡En estado verde!
+# ¡En Estado Verde!
 
 ## Resumen
 Hacé una Fiesta de Energía Eficiente en tu comunidad que demuestre formas de ahorrar energía.

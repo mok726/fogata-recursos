@@ -1,5 +1,5 @@
 ---
-title: "Evento benéfico"
+title: "Evento Benéfico"
 duration: "Proyecto de organización"
 layout: "layouts/activity.njk"
 permalink: "/activities/evento-benefico/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Evento benéfico!
+# ¡Evento Benéfico!
 
 ## Resumen
 Organizá una carrera, concierto o bazar para recaudar fondos para proyectos ambientales.

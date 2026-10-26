@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ahorrando energía en casa"
+title: "Ahorrando Energía en Casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/ahorrando-energia/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ahorrando energía en casa!
+# ¡Ahorrando Energía en Casa!
 
 ## Resumen
 Hacé una lista de todas las formas en que se usa la energía en tu hogar. ¿Usás energía eficientemente? Hay muchas formas de mejorar: electrodomésticos eficientes, luces LED, control de corrientes de aire en ventanas y puertas.

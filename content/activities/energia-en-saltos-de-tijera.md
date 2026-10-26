@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en saltos de tijera"
+title: "Energía en Saltos de Tijera"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-saltos-de-tijera/"
@@ -156,7 +156,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en saltos de tijera!
+# ¡Energía en Saltos de Tijera!
 
 ## Resumen
 ¿Cuál es la diferencia entre energía potencial y energía cinética? La energía cinética es energía en movimiento, mientras que la energía potencial es energía que está lista para moverse. ¡Descubrilo con saltos de tijera!

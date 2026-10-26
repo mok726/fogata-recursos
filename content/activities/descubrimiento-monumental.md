@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubrimiento monumental"
+title: "Descubrimiento Monumental"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubrimiento-monumental/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Descubrimiento monumental!
+# ¡Descubrimiento Monumental!
 
 ## Resumen
 Explorá cualquier monumento famoso o sitio de patrimonio cultural o natural en tu ciudad. Dibujalo o sacale fotos y aprendé sobre su historia. ¿Por qué es importante este sitio? ¿Por qué es importante preservarlo? ¿Se está manteniendo bien, en tu opinión? ¿Qué te enseña este sitio sobre tu cultura, historia o medio ambiente?

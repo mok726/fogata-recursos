@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reciclaje de papel"
+title: "Reciclaje de Papel"
 duration: "2 horas + secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-papel-biodiversidad/"
@@ -174,7 +174,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Reciclaje de papel!
+# ¡Reciclaje de Papel!
 
 ## Resumen
 Reducir, reusar y reciclar es bueno para la biodiversidad. Una tonelada de papel reciclado salva 17 árboles. Más reciclaje significa que más hábitats se salvan para otras plantas y animales. Reciclá papel al hacer tu propio papel. Utilizalo para hacer una manualidad, o escribí una carta a alguien especial y enviásela. ¡No olvides mencionar que el papel es hecho en casa!

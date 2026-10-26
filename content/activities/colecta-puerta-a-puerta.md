@@ -1,5 +1,5 @@
 ---
-title: "Colecta puerta a puerta"
+title: "Colecta Puerta a Puerta"
 duration: "Proyecto de organización"
 layout: "layouts/activity.njk"
 permalink: "/activities/colecta-puerta-a-puerta/"
@@ -145,7 +145,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Colecta puerta a puerta!
+# ¡Colecta Puerta a Puerta!
 
 ## Resumen
 Organizá una colecta de ropa, muebles, libros, juguetes y bienes enlatados para donar o vender.

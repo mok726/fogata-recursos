@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diario de alimentos"
+title: "Diario de Alimentos"
 duration: "1 día + investigación"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-polinizadores/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Diario de alimentos!
+# ¡Diario de Alimentos!
 
 ## Resumen
 Registrá todo lo que comés en un día. Luego investigá cómo fue producido. ¿Fue por agricultura convencional? ¿Agricultura amigable con los polinizadores? ¿Local? ¿O depende de polinizadores que sobreviven en otra parte del mundo?

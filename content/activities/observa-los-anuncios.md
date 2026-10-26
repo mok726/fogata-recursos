@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Observá los anuncios"
+title: "Observá los Anuncios"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/observa-los-anuncios/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 16 # Analizo actitudes y estereotipos culturales
 ---
 
-# ¡Observá los anuncios!
+# ¡Observá los Anuncios!
 
 ## Resumen
 Cuando estés viendo tu show de TV favorito para niños, presta atención a los comerciales. Elegí un comercial determinado que te esté influenciando a comprar un producto aunque sientas que es innecesario.

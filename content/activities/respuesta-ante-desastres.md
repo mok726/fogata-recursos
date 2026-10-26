@@ -1,5 +1,5 @@
 ---
-title: "Respuesta ante desastres"
+title: "Respuesta ante Desastres"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/respuesta-ante-desastres/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Respuesta ante desastres!
+# ¡Respuesta ante Desastres!
 
 ## Resumen
 Reuní información sobre desastres relacionados con el tiempo y hablá sobre cómo responder.

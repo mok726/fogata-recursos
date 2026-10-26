@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Concurso solar"
+title: "Concurso Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-solar/"
@@ -146,7 +146,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Concurso solar!
+# ¡Concurso Solar!
 
 ## Resumen
 Este es un juego de preguntas, en el cual se pueden armar dos o más grupos, para que internamente se piensen las respuestas. Se puede desarrollar a modo de debate, o más bien en forma de competencia entre los equipos, la forma de aplicación es libre.

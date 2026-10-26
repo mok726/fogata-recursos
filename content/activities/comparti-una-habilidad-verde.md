@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Día 'Compartí una habilidad verde'"
+title: "Día 'Compartí una Habilidad Verde'"
 duration: "2 horas + planificación"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparti-una-habilidad-verde/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Día 'Compartí una habilidad verde'!
+# ¡Día 'Compartí una Habilidad Verde'!
 
 ## Resumen
 ¿Qué habilidades verdes tenés? ¿Qué habilidades verdes te gustaría aprender? Una forma de promover la EDS en tu ciudad es organizar un día de "Compartí una habilidad verde". Establecé una fecha y hora específicas para el día especial, eligiendo un lugar adecuado.

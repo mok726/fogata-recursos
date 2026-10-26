@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plantá tus Propias Verduras"
+title: "Plantá Tus Propias Verduras"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/planta-tus-propias-verduras/"
@@ -172,7 +172,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Plantá tus Propias Verduras
+# Plantá Tus Propias Verduras
 
 ## Resumen
 Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto comunitario.

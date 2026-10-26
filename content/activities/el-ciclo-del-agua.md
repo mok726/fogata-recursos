@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El ciclo del agua"
+title: "El Ciclo del Agua"
 duration: "1 hora + tiempo de exposición al sol"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-ciclo-del-agua/"
@@ -162,7 +162,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡El ciclo del agua!
+# ¡El Ciclo del Agua!
 
 ## Resumen
 Nuestro mundo tiene una cantidad limitada de agua, ¡y la cantidad de agua que tenemos ahora es la misma que tenía la Tierra cuando existían los dinosaurios! El ciclo del agua se refiere a cómo el agua de la Tierra se recicla a sí misma, y está compuesto por diferentes partes: evaporación, condensación, transpiración, precipitación, infiltración y escorrentía.

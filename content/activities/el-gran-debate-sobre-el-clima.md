@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El gran debate sobre el clima"
+title: "El Gran Debate sobre el Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-gran-debate-sobre-el-clima/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 35 # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡El gran debate sobre el clima!
+# ¡El Gran Debate sobre el Clima!
 
 ## Resumen
 Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.

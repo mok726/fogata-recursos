@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Brújula solar - Método del Reloj"
+title: "Brújula Solar - Método del Reloj"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-reloj/"
@@ -148,7 +148,7 @@ rama_rovers:
   - 37
 ---
 
-# ¡Brújula solar - Método del Reloj!
+# ¡Brújula Solar - Método del Reloj!
 
 ## Resumen
 En ocasiones puede llegar a ser necesario tener que orientarse con ayuda del Sol. Este método se basa en la utilización de un reloj de agujas para encontrar los puntos cardinales.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua: ¡Lean Todo Sobre Ella!"
+title: "Agua: ¡Lean Todo sobre Ella!"
 duration: "3 horas 45 min (5 sesiones de 45 min)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-lean-todo-sobre-ella/"
@@ -168,7 +168,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Agua: Lean Todo Sobre Ella!
+# ¡Agua: Lean Todo sobre Ella!
 
 ## Resumen
 El agua es un tema frecuente e importante en las noticias. En esta actividad, los participantes crean su propio periódico centrado en el tema del agua, investigando y escribiendo artículos sobre diversos temas relacionados con el agua, desde derechos hídricos hasta recreación, contaminación, usos y conservación.

@@ -1,5 +1,5 @@
 ---
-title: "Compra de segunda mano"
+title: "Compra de Segunda Mano"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/compra-de-segunda-mano/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Compra de segunda mano!
+# ¡Compra de Segunda Mano!
 
 ## Resumen
 Comprá libros, ropa y otros bienes de segunda mano para ahorrar energía y dinero.

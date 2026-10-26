@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Corré que te cazo"
+title: "Corré que Te Cazo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/corre-que-te-cazo/"
@@ -152,7 +152,7 @@ rama_rovers:
   - 4  # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Corré que te cazo!
+# ¡Corré que Te Cazo!
 
 ## Resumen
 Este juego es similar al 'corre que te alcanzo' tradicional. Escojan unos participantes para que sean osos polares y todos los demás serán focas.

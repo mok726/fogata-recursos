@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pensá en los alimentos"
+title: "Pensá en los Alimentos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/piensa-en-los-alimentos/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Pensá en los alimentos!
+# ¡Pensá en los Alimentos!
 
 ## Resumen
 En esta insignia aprendiste sobre alimentos que podrían ya no estar disponibles para vos debido al cambio climático. ¿Cuál de esos alimentos extrañarías más?

@@ -1,5 +1,5 @@
 ---
-title: "Jardín comunitario"
+title: "Jardín Comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-comunitario/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades que brinda la vida en la naturaleza.
 ---
 
-# ¡Jardín comunitario!
+# ¡Jardín Comunitario!
 
 ## Resumen
 Empezá un jardín comunitario en tu escuela, terraza o únete a uno existente.

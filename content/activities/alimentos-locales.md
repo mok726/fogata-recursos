@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentos locales"
+title: "Alimentos Locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-locales/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Alimentos locales!
+# ¡Alimentos Locales!
 
 ## Resumen
 Investigá qué tipo de cultivos se producen en tu país, cómo el clima de tu país afecta a los cultivos y de dónde provienen los alimentos que consumís.

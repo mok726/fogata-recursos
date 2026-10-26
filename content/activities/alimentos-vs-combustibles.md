@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentos vs combustibles"
+title: "Alimentos vs Combustibles"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-vs-combustibles/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Alimentos vs combustibles!
+# ¡Alimentos vs Combustibles!
 
 ## Resumen
 Los biocombustibles son controvertidos. Algunas personas creen que usar cultivos para producir biocombustibles daña el suministro mundial de alimentos. Investigá el tema y debate con tu grupo sobre los pros y contras.

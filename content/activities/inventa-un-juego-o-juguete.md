@@ -1,5 +1,5 @@
 ---
-title: "Inventá un juego o juguete"
+title: "Inventá un Juego o Juguete"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventa-un-juego-o-juguete/"
@@ -146,7 +146,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Inventá un juego o juguete!
+# ¡Inventá un Juego o Juguete!
 
 ## Resumen
 Inventá un juego o juguete con materiales naturales o reciclados y probalo con tus amigos.

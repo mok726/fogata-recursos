@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Participá en el plan de tu ciudad"
+title: "Participá en el Plan de Tu Ciudad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/participa-en-el-plan-de-tu-ciudad/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 24  # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Participá en el plan de tu ciudad!
+# ¡Participá en el Plan de Tu Ciudad!
 
 ## Resumen
 Tenés un papel muy importante en hacer que tu ciudad o comunidad sea más verde. Tenés derecho a que se escuche tu voz, a compartir tus esperanzas para el lugar donde vivís, así como tus preocupaciones. Y tenés derecho a influir en las decisiones que afectan tu vida.

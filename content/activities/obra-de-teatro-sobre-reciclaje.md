@@ -1,5 +1,5 @@
 ---
-title: "Obra de teatro sobre reciclaje"
+title: "Obra de Teatro sobre Reciclaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-sobre-reciclaje/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Obra de teatro sobre reciclaje!
+# ¡Obra de Teatro sobre Reciclaje!
 
 ## Resumen
 Presentá una obra de teatro para mostrar cómo reducir los desechos en los basurales.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Resolución de plástico"
+title: "Resolución de Plástico"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/resolucion-de-plastico/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Resolución de plástico!
+# ¡Resolución de Plástico!
 
 ## Resumen
 Los jóvenes toman una resolución colectiva para reducir sus hábitos de uso de plásticos y proponen tres acciones concretas que pueden realizar en grupo para marcar la diferencia. Luego, hacen un seguimiento de su progreso.

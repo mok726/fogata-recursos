@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Estás reduciendo y reutilizando?"
+title: "¿Estás Reduciendo y Reutilizando?"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estas-reduciendo-y-reutilizando/"
@@ -151,7 +151,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¿Estás reduciendo y reutilizando?
+# ¿Estás Reduciendo y Reutilizando?
 
 ## Resumen
 Aprendé a reducir los plásticos de un solo uso y a reutilizar plásticos tanto como sea posible durante dos semanas. Descubrí formas creativas de darle nueva vida a los plásticos que ya tenés.

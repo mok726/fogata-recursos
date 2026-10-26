@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fiesta energéticamente eficiente"
+title: "Fiesta Energéticamente Eficiente"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/fiesta-eficiente/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Fiesta energéticamente eficiente!
+# ¡Fiesta Energéticamente Eficiente!
 
 ## Resumen
 Organizá una fiesta en tu comunidad que demuestre formas de ahorrar energía. Desde usar alimentos que consumen menos energía hasta platos y vasos reutilizables y bombillas eficientes. ¡Hacé la fiesta más amigable con la energía posible!

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuidá la energía"
+title: "Cuidá la Energía"
 duration: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuida-la-energia/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Cuidá la energía!
+# ¡Cuidá la Energía!
 
 ## Resumen
 Mantené un diario de todas las maneras en que se usa la energía diariamente en tu hogar. Buscá maneras de reducir el uso de energía.

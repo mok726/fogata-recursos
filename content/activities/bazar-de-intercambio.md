@@ -1,5 +1,5 @@
 ---
-title: "Bazar de intercambio"
+title: "Bazar de Intercambio"
 duration: "Proyecto de organización"
 layout: "layouts/activity.njk"
 permalink: "/activities/bazar-de-intercambio/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Bazar de intercambio!
+# ¡Bazar de Intercambio!
 
 ## Resumen
 Organizá un bazar para que las personas intercambien cosas que ya no necesitan.

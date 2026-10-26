@@ -1,5 +1,5 @@
 ---
-title: "Tiempo de descomposición"
+title: "Tiempo de Descomposición"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/tiempo-de-descomposicion/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# ¡Tiempo de descomposición!
+# ¡Tiempo de Descomposición!
 
 ## Resumen
 Investigá cuánto tiempo tardan diferentes elementos de basura en descomponerse.

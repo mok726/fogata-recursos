@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Obra de teatro sobre el agua"
+title: "Obra de Teatro sobre el Agua"
 duration: "2 horas + presentación"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-sobre-el-agua/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Obra de teatro sobre el agua!
+# ¡Obra de Teatro sobre el Agua!
 
 ## Resumen
 Divídanse en pequeños grupos y hagan una pequeña obra de teatro sobre una comunidad cuyos miembros dependen grandemente del agua para su subsistencia.

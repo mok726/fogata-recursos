@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Blog sobre energía"
+title: "Blog sobre Energía"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/blog-energia/"
@@ -156,7 +156,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Blog sobre energía!
+# ¡Blog sobre Energía!
 
 ## Resumen
 Creá un blog grupal sobre energía. Podés escribir sobre la importancia de la energía sostenible, ideas para usarla eficientemente, poesía, ensayos e historias sobre energía.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Opiniones sobre el intercambio de emisiones"
+title: "Opiniones sobre el Intercambio de Emisiones"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/opiniones-sobre-el-intercambio-de-emisiones/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Opiniones sobre el intercambio de emisiones!
+# ¡Opiniones sobre el Intercambio de Emisiones!
 
 ## Resumen
 ¿Cómo funciona el intercambio de emisiones? Investigá y prepará una presentación con diapositivas sobre el tema. ¿Creés que ofrece una solución plausible hacia la mitigación del cambio climático? ¿Por qué o por qué no?

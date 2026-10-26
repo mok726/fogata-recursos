@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿De Dónde Viene tu Comida?"
+title: "¿De Dónde Viene Tu Comida?"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-comida/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¿De Dónde Viene tu Comida?
+# ¿De Dónde Viene Tu Comida?
 
 ## Resumen
 Investigá el origen de los alimentos que comés y su impacto medioambiental.

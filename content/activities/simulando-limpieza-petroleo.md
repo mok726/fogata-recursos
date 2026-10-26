@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Simulando Limpieza de Petroleo"
+title: "Simulando Limpieza de Petróleo"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/simulando-limpieza-petroleo/"

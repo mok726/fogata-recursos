@@ -1,5 +1,5 @@
 ---
-title: "Observá tu Agua"
+title: "Observá Tu Agua"
 duration: "Proyecto de 1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observa-tu-agua/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas que acompañen mi proyecto de vida.
 ---
 
-# ¡Observá tu Agua!
+# ¡Observá Tu Agua!
 
 ## Resumen
 Monitoreá el uso del agua en tu hogar durante una semana, identificá formas de ahorrar y hacé un compromiso para reducir el consumo.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Manteniéndose frescos o calientes en el pasado"
+title: "Manteniéndose Frescos o Calientes en el Pasado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/manteniendose-frescos-o-calientes-en-el-pasado/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías
 ---
 
-# ¡Manteniéndose frescos o calientes en el pasado!
+# ¡Manteniéndose Frescos o Calientes en el Pasado!
 
 ## Resumen
 Estudiá cómo las personas de alrededor del mundo solían mantenerse, ellos mismos y sus hogares, frescos o calientes antes de que empezáramos a usar métodos que usan mucha energía. ¡Si investigás, te darás cuenta de que usaban unas formas muy ingeniosas!

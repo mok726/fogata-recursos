@@ -1,5 +1,5 @@
 ---
-title: "Conectate con tu Comunidad"
+title: "Conectate con Tu Comunidad"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/conectate-con-tu-comunidad/"
@@ -147,7 +147,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# ¡Conectate con tu Comunidad!
+# ¡Conectate con Tu Comunidad!
 
 ## Resumen
 Creá un blog comunitario, una red social grupal o un boletín informativo sobre RRD para tu comunidad.

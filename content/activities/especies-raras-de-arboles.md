@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies raras de árboles"
+title: "Especies Raras de Árboles"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-raras-de-arboles/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Especies raras de árboles!
+# ¡Especies Raras de Árboles!
 
 ## Resumen
 Buscá especies raras de árboles nativos en tu área. ¿Por qué son raras? ¿Qué especies de animales usan estos árboles para obtener alimento y refugio? Elegí una de estas especies de árboles y planta una en un lugar apropiado.

@@ -1,5 +1,5 @@
 ---
-title: "Plantas locales"
+title: "Plantas Locales"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-locales/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Plantas locales!
+# ¡Plantas Locales!
 
 ## Resumen
 Investigá plantas locales que requieren menos agua y plantalas en un jardín o maceta.

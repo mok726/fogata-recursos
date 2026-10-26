@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Día de acción por el clima"
+title: "Día de Acción por el Clima"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-de-accion-por-el-clima/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 28 # Valoro y promuevo la solidaridad
 ---
 
-# ¡Día de acción por el clima!
+# ¡Día de Acción por el Clima!
 
 ## Resumen
 Organizá un Día de Acción por el Clima en tu comunidad. Obtené autorización para usar un espacio en un parque público o en una plaza para el evento.

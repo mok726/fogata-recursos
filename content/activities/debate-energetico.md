@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate energético"
+title: "Debate Energético"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-energetico/"
@@ -155,7 +155,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Debate energético!
+# ¡Debate Energético!
 
 ## Resumen
 Investigá y debate sobre la mejor manera de proporcionar energía sostenible para todos. Considerá diferentes perspectivas y soluciones para el futuro energético.

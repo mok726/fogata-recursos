@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Buen plástico, mal plástico"
+title: "Buen Plástico, Mal Plástico"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/buen-plastico-mal-plastico/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Buen plástico, mal plástico!
+# ¡Buen Plástico, Mal Plástico!
 
 ## Resumen
 Aprendé a identificar los diferentes tipos de plásticos y a entender por qué los plásticos de un solo uso son los que realmente causan problemas ambientales. No todos los plásticos son malos: algunos son esenciales en la medicina, la seguridad y la tecnología.

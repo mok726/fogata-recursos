@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tour de cuenca de agua"
+title: "Tour de Cuenca de Agua"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tour-de-cuenca-de-agua/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Tour de cuenca de agua!
+# ¡Tour de Cuenca de Agua!
 
 ## Resumen
 Aprendan acerca de su cuenca de agua local - un área de tierra que captura lluvia y nieve y luego las drena hacia un cuerpo de agua mayor. Organicen un tour guiado de su cuenca.

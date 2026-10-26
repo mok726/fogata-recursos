@@ -1,5 +1,5 @@
 ---
-title: "Tacho vacío"
+title: "Tacho Vacío"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/basurero-vacio/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Tacho vacío!
+# ¡Tacho Vacío!
 
 ## Resumen
 Reducí, reusa y reciclá todo lo que puedas para vaciar el tacho de basura durante una semana.

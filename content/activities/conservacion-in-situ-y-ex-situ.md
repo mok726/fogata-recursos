@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conservación in-situ y ex-situ"
+title: "Conservación In-Situ y Ex-Situ"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/conservacion-in-situ-y-ex-situ/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Conservación in-situ y ex-situ!
+# ¡Conservación In-Situ y Ex-Situ!
 
 ## Resumen
 Aprendé acerca las metas y los desafíos de la conservación in-situ y ex-situ. ¿Cuándo utilizarías cada tipo de conservación? Encontrá algunos ejemplos de cada tipo en tu área y/o país. Presentá tus hallazgos a tu grupo.

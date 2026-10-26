@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Proyecto de servicio comunitario"
+title: "Proyecto de Servicio Comunitario"
 duration: "Variable (proyecto)"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-servicio-comunitario-cfn/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 28
 ---
 
-# ¡Proyecto de servicio comunitario!
+# ¡Proyecto de Servicio Comunitario!
 
 ## Resumen
 Una vez que estés informado sobre el tema y cómo afecta a tu comunidad y ecosistemas, entonces es un buen momento para planificar tu proyecto de servicio comunitario. Esta guía te ayudará a planificar, ejecutar y evaluar tu proyecto.

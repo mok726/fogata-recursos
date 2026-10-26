@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cocina solar"
+title: "Cocina Solar"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cocina-solar/"
@@ -169,7 +169,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Cocina solar!
+# ¡Cocina Solar!
 
 ## Resumen
 ¡Probá a cocinar al aire libre usando la energía del Sol! Construí tu propio horno solar y cocina algo delicioso sin usar electricidad ni gas.

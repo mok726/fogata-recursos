@@ -1,5 +1,5 @@
 ---
-title: "Obra de teatro o exposición sobre vida sostenible"
+title: "Obra de Teatro o Exposición sobre Vida Sostenible"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-o-exposicion/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Obra de teatro o exposición!
+# ¡Obra de Teatro o Exposición!
 
 ## Resumen
 Presentá una obra de teatro o una exposición en tu escuela sobre cómo llevar una vida amigable con el medio ambiente.

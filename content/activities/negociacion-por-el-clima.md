@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Negociación por el clima"
+title: "Negociación por el Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/negociacion-por-el-clima/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Negociación por el clima!
+# ¡Negociación por el Clima!
 
 ## Resumen
 Hacé que todos en tu grupo representen a un país, asegurate de tener una amplia mezcla de países en desarrollo, países ricos, países menos desarrollados, pequeños estados insulares, etc.

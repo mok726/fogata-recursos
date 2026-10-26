@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversidad en el mercado"
+title: "Diversidad en el Mercado"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversidad-en-el-mercado/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Diversidad en el mercado!
+# ¡Diversidad en el Mercado!
 
 ## Resumen
 Visitá un mercado o una tienda de comestibles. Buscá ejemplos de diversidad de especies y diversidad genética, dos niveles de biodiversidad (el tercer nivel es la diversidad de ecosistemas).

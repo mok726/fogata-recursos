@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Encuesta sobre reciclaje en tu comunidad"
+title: "Encuesta sobre Reciclaje en Tu Comunidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/encuesta-sobre-reciclaje/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Encuesta sobre reciclaje en tu comunidad!
+# ¡Encuesta sobre Reciclaje en Tu Comunidad!
 
 ## Resumen
 Realizá una encuesta a al menos 100 personas en tu vecindario sobre sus hábitos de reciclaje. Compilá y analizá los resultados, y luego presenta tus hallazgos a las autoridades locales.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Barril de lluvia"
+title: "Barril de Lluvia"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/barril-de-lluvia/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Barril de lluvia!
+# ¡Barril de Lluvia!
 
 ## Resumen
 Hacé un barril de lluvia empleando material reciclado limpio. Enumerá todos los posibles usos para el agua recolectada. Utilizá el agua para algunos de los ejemplos en tu lista.

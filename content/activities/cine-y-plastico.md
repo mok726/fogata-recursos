@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cine y plástico: aprendiendo con películas"
+title: "Cine y Plástico: Aprendiendo con Películas"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-y-plastico/"
@@ -167,7 +167,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Cine y plástico: aprendiendo con películas!
+# ¡Cine y Plástico: Aprendiendo con Películas!
 
 ## Resumen
 Ver documentales sobre contaminación plástica es una forma entretenida de aprender más sobre el problema. Mirá uno de estos videos y organizá un debate con tu grupo para inspirar a otros a reducir su uso de plásticos.

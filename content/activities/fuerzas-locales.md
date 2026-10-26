@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fuerzas locales"
+title: "Fuerzas Locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fuerzas-locales/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 24  # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Fuerzas locales!
+# ¡Fuerzas Locales!
 
 ## Resumen
 Contactá a tu autoridad ambiental local para averiguar qué están haciendo para proteger a los polinizadores. ¿Hay una prohibición de ciertos pesticidas, al menos en ciertas épocas del año? ¿Se aseguran de que los parques y jardines locales incluyan una amplia variedad de plantas con flores nativas? ¿Algunas leyes locales fomentan y apoyan la apicultura que también asegura el bienestar de los polinizadores silvestres?

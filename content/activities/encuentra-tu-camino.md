@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Encontrá tu Camino"
+title: "Encontrá Tu Camino"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/encuentra-tu-camino/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 4   # Disfruto de las oportunidades y experiencias que brinda la vida en la naturaleza.
 ---
 
-# Encontrá tu Camino
+# Encontrá Tu Camino
 
 ## Resumen
 Participá en un evento de orientación forestal usando un mapa para navegar por el bosque. Si vivís en un lugar con nieve, realizá la actividad en diferentes estaciones.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Basura en su Lugar"
+title: "La Basura en Su Lugar"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-basura-en-su-lugar/"
@@ -155,7 +155,7 @@ rama_rovers:
 # Actividad original de Mariano S. Cosentino
 ---
 
-# La Basura en su Lugar
+# La Basura en Su Lugar
 
 ## Resumen
 Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos, y promover la clasificación y separación en origen.

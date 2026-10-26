@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Operación contra la basura"
+title: "Operación contra la Basura"
 duration: "3 días (encuesta) + 40 minutos (discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/operacion-contra-la-basura/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Operación contra la basura!
+# ¡Operación contra la Basura!
 
 ## Resumen
 Tirar basura es un desafío tanto para el ambiente como para la sociedad. Esta actividad ayuda a los participantes a identificar las causas de este comportamiento y a comprender la perspectiva de las personas en torno a la basura. A través de encuestas y entrevistas, los jóvenes obtendrán una visión clara de los factores que provocan que las personas tiren basura.

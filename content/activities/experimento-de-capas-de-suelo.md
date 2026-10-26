@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de capas de suelo"
+title: "Experimento de Capas de Suelo"
 duration: "6-8 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-capas-de-suelo/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Experimento de capas de suelo!
+# ¡Experimento de Capas de Suelo!
 
 ## Resumen
 Averiguá qué tipo de tierra prefieren las plantas con un experimento. Cavá un hoyo de 50cm de profundidad. Llená una maceta con la primera capa de la tierra, tomada de los primeros 2cm. Llená una segunda maceta con tierra del subsuelo recogida a unos 15cm por debajo de la superficie. Llená una tercera maceta con tierra del subsuelo tomada 50cm por debajo de la superficie. Cultivá una planta en cada una de las macetas y trazá su crecimiento durante 6 a 8 semanas.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía renovable en mi comunidad"
+title: "Energía Renovable en Mi Comunidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-renovable-comunidad/"
@@ -152,7 +152,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía renovable en mi comunidad!
+# ¡Energía Renovable en Mi Comunidad!
 
 ## Resumen
 Investigá qué tipo de energía usa tu hogar y tu escuela. Si no es energía renovable, averiguá qué opciones de energía renovable están disponibles en tu comunidad.

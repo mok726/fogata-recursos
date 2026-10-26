@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pintando el panorama general"
+title: "Pintando el Panorama General"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pintando-el-panorama-general/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Pintando el panorama general!
+# ¡Pintando el Panorama General!
 
 ## Resumen
 No se trata solo de perder nuestros alimentos favoritos. El mundo se vería muy diferente sin polinizadores. Hacé una pintura de cómo se ve el mundo ahora, gracias a los polinizadores. ¿Está lleno de árboles y flores y lleno de vida? Ahora pintá cómo podría verse el mundo si los polinizadores desaparecieran.

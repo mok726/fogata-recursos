@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Red de vida"
+title: "Red de Vida"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/red-de-vida/"
@@ -151,7 +151,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Red de vida!
+# ¡Red de Vida!
 
 ## Resumen
 Con una bola de cuerda, los participantes representan plantas y animales de un ecosistema y descubren cómo todos están conectados y qué pasa cuando uno de ellos desaparece.

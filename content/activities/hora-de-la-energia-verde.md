@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hora de la energía verde"
+title: "Hora de la Energía Verde"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/hora-de-la-energia-verde/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Hora de la energía verde!
+# ¡Hora de la Energía Verde!
 
 ## Resumen
 La 'energía verde' es energía producida a partir de fuentes renovables como el sol, el viento, el agua y la biomasa.

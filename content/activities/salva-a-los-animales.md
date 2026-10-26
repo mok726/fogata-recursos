@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Salva a los animales"
+title: "Salva a los Animales"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/salva-a-los-animales/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 37 # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Salva a los animales!
+# ¡Salva a los Animales!
 
 ## Resumen
 Averiguá qué animales están siendo afectados por el cambio climático. Podés aprender sobre ellos en el sitio Web de WWF.

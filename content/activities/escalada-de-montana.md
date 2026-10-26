@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Escalada de montaña"
+title: "Escalada de Montaña"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/escalada-de-montana/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Escalada de montaña!
+# ¡Escalada de Montaña!
 
 ## Resumen
 Escalen una montaña. Observen la vida vegetal y animal durante su caminata. ¿Qué tipo de cambios pueden ver a diferentes altitudes? ¿Cómo cambia la temperatura, la humedad y el viento? ¿Se pueden encontrar las mismas especies en la base y en la cima de la montaña? ¿Por qué sí o por qué no?

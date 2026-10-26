@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de descomposición"
+title: "Experimento de Descomposición"
 duration: "6-8 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-descomposicion/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Experimento de descomposición!
+# ¡Experimento de Descomposición!
 
 ## Resumen
 ¿Cuánto tardan las cosas en descomponerse? Llená una caja con tierra. Enterrá diez muestras y marca la ubicación de cada una. Añadí un poco de agua para mantener la tierra ligeramente húmeda. Desenterrá cada muestra una vez a la semana y observá qué tan descompuesta está. Registrá tus observaciones durante seis a ocho semanas.

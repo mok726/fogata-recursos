@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Señales de animales"
+title: "Señales de Animales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/senales-de-animales/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Señales de animales!
+# ¡Señales de Animales!
 
 ## Resumen
 Tomá un paseo en un área natural, como un bosque o un parque. Buscá señales de animales, como hojas o cortezas pastadas, rastros de animales, huecos en los árboles o en el suelo, nidos, pelaje, plumas y excrementos. Investigá las pistas que los animales dejan al pasar (cerdas, plumas, excrementos o huellas).

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Profesor por un día"
+title: "Profesor por un Día"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/profesor-por-un-dia/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Profesor por un día!
+# ¡Profesor por un Día!
 
 ## Resumen
 ¿Tenés hermanos o hermanas, primos o vecinos más jóvenes? Reunilos para que les dictes una pequeña clase en la cual les enseñes sobre aquello que has aprendido acerca del cambio climático.

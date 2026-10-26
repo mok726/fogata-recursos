@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Auditá tus hábitos de uso de plásticos y averiguá a dónde van tus residuos"
+title: "Auditá Tus Hábitos de Uso de Plásticos y Averiguá a Dónde Van Tus Residuos"
 duration: "Flexible (seguimiento de 1 mes)"
 layout: "layouts/activity.njk"
 permalink: "/activities/audita-residuos-plastico/"
@@ -170,7 +170,7 @@ rama_rovers:
 
 ---
 
-# ¡Auditá tus hábitos de uso de plásticos y averiguá a dónde van tus residuos!
+# ¡Auditá Tus Hábitos de Uso de Plásticos y Averiguá a Dónde Van Tus Residuos!
 
 ## Resumen
 Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de Mares Limpios para revisar tus hábitos de uso de plásticos y tomar medidas para poder reducirlos. El desafío es reducir el uso de plásticos en un 50%, ya sea de forma individual o colectiva. Esto significará reducir, reutilizar o reemplazar tus productos plásticos. Creá un blog o una campaña de Instagram para mostrar tu progreso y compártelo con la comunidad en general.

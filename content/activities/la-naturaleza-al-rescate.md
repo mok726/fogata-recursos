@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La naturaleza al rescate"
+title: "La Naturaleza al Rescate"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-naturaleza-al-rescate/"
@@ -168,7 +168,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡La naturaleza al rescate!
+# ¡La Naturaleza al Rescate!
 
 ## Resumen
 Somos muy afortunados en el planeta Tierra de que muchas de las soluciones a nuestros desafíos existen a nuestro alrededor en la naturaleza. Se llaman soluciones basadas en la naturaleza e incluyen plantar árboles para combatir el cambio climático o canalizar agua de lluvia para regar jardines y vegetación.

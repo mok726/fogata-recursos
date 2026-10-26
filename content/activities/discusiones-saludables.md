@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Discusiones saludables"
+title: "Discusiones Saludables"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/discusiones-saludables/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 22 # Promuevo y defiendo Derechos Humanos
 ---
 
-# ¡Discusiones saludables!
+# ¡Discusiones Saludables!
 
 ## Resumen
 Se espera que el cambio climático aumente la propagación de varias enfermedades, incluyendo la malaria, la diarrea y la fiebre del dengue.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entrevista de historia oral"
+title: "Entrevista de Historia Oral"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-de-historia-oral/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Entrevista de historia oral!
+# ¡Entrevista de Historia Oral!
 
 ## Resumen
 Realicen una entrevista a un abuelo o a un amigo anciano (o aún a un adulto, pidiéndole que pretenda que nació hace muchos años) y pregúntenle sobre los alimentos que cultivaba y comía cuando era niño. ¿Cómo se preparaban y por qué se cultivaban estos alimentos? ¿Esos alimentos son diferentes de los que se cultivan, se cocinan o se comen hoy en día? ¿Por qué sí o por qué no?

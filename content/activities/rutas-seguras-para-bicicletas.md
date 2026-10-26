@@ -1,5 +1,5 @@
 ---
-title: "Rutas seguras para bicicletas"
+title: "Rutas Seguras para Bicicletas"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/rutas-seguras-para-bicicletas/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Rutas seguras para bicicletas!
+# ¡Rutas Seguras para Bicicletas!
 
 ## Resumen
 Empezá una campaña para la creación de rutas seguras (carriles) para andar en bicicleta en tu vecindario.

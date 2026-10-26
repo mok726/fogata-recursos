@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Siendo buenos para el bien global"
+title: "Siendo Buenos para el Bien Global"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/siendo-buenos-para-el-bien-global/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Siendo buenos para el bien global!
+# ¡Siendo Buenos para el Bien Global!
 
 ## Resumen
 Tomá acción diaria para ayudar a los polinizadores y al planeta. Pequeños cambios en tu vida cotidiana pueden tener un gran impacto cuando todos participamos. Elegí una acción que puedas mantener a largo plazo.

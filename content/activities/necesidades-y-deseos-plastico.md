@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Necesidades y deseos"
+title: "Necesidades y Deseos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesidades-y-deseos-plastico/"
@@ -164,7 +164,7 @@ rama_rovers:
 
 ---
 
-# ¡Necesidades y deseos!
+# ¡Necesidades y Deseos!
 
 ## Resumen
 La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente, lo que genera un rápido crecimiento en el consumo de recursos. Esta actividad ayuda a los jóvenes a diferenciar entre el nivel de necesidad de los productos de plástico desechables, algunos de los cuales pueden no ser necesarios pero se compran de todos modos, promoviendo un consumo más consciente y sostenible.

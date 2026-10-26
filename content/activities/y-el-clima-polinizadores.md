@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Y el clima?"
+title: "¿Y el Clima?"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/y-el-clima-polinizadores/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡¿Y el clima?!
+# ¡¿Y el Clima?!
 
 ## Resumen
 Hablá con una amplia variedad de personas: agricultores, apicultores, ancianos de la comunidad, ambientalistas, funcionarios del gobierno local y expertos en vida silvestre. Preguntales sobre los impactos del cambio climático donde vivís. ¿Es notable el cambio climático y está afectando a las poblaciones de polinizadores?

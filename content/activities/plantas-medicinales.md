@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plantas medicinales"
+title: "Plantas Medicinales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-medicinales/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Plantas medicinales!
+# ¡Plantas Medicinales!
 
 ## Resumen
 Durante miles de años la biodiversidad ha provisto a los seres humanos de medicinas y remedios naturales. Averiguá cuáles plantas de tu comunidad tienen efectos medicinales.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Bancos de semillas"
+title: "Bancos de Semillas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/bancos-de-semillas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Bancos de semillas!
+# ¡Bancos de Semillas!
 
 ## Resumen
 ¿Qué es un banco de semillas? Averiguá dónde se encuentran ubicados los bancos de semillas en tu área y en tu país. Si es posible, visita uno. Preguntá cómo podés involucrarte en sus actividades.

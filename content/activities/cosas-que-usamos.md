@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cosas que usamos"
+title: "Cosas que Usamos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cosas-que-usamos/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Cosas que usamos!
+# ¡Cosas que Usamos!
 
 ## Resumen
 Los polinizadores son enormemente importantes para nuestros cultivos alimentarios, pero ¿qué pasa con otros productos derivados de plantas, como aceites, semillas, nueces, fibras y medicinas? Averiguá cuáles de estos productos son populares en tu área. ¿Su producción depende de los polinizadores? ¿Se producen localmente? ¿Para qué usa la gente estos productos?

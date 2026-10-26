@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pirámide de alimentos"
+title: "Pirámide de Alimentos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/piramide-de-alimentos/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 30
 ---
 
-# ¡Pirámide de alimentos!
+# ¡Pirámide de Alimentos!
 
 ## Resumen
 Esta actividad se trata de comprender el impacto que tiene tu elección de alimentos diarios en el medio ambiente, y cómo una dieta equilibrada es buena para tu salud, así como el equilibrio del planeta. Los participantes reflexionarán sobre su dieta y la pirámide alimentaria recomendada para la nutrición.

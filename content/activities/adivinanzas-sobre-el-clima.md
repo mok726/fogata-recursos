@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adivinanzas sobre el clima"
+title: "Adivinanzas sobre el Clima"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/adivinanzas-sobre-el-clima/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Adivinanzas sobre el clima!
+# ¡Adivinanzas sobre el Clima!
 
 ## Resumen
 En grupo, creen un conjunto de cartas y escriban una palabra relacionada con el clima en cada una, como 'gas de efecto invernadero', 'calentamiento global' y 'sequía'. ¡Sean tan creativos como puedan!

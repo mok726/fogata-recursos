@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conocé tu consumo de electricidad"
+title: "Conocé Tu Consumo de Electricidad"
 duration: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/conoce-tu-consumo-de-electricidad/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 19 # Tomo decisiones económicas conscientes y responsables
 ---
 
-# ¡Conocé tu consumo de electricidad!
+# ¡Conocé Tu Consumo de Electricidad!
 
 ## Resumen
 Compará y hacé una representación gráfica del uso de electricidad, de máximo a mínimo, en tu rutina diaria. Discutí sobre las varias maneras de reducir el consumo de energía (GLP, electricidad).

@@ -1,5 +1,5 @@
 ---
-title: "Cambio climático y hambre"
+title: "Cambio Climático y Hambre"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-y-hambre/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación.
 ---
 
-# ¡Cambio climático y hambre!
+# ¡Cambio Climático y Hambre!
 
 ## Resumen
 Investigá cómo el cambio climático afecta los alimentos, el agua y la nutrición.

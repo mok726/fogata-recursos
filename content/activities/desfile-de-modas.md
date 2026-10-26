@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desfile de modas"
+title: "Desfile de Modas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-de-modas/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Desfile de modas!
+# ¡Desfile de Modas!
 
 ## Resumen
 La biodiversidad inspira a la moda: los diseñadores crean telas que se ven cómo las pieles de los animales, los joyeros elaboran piezas utilizando conchas, cortezas y otros materiales naturales, y las compañías de confección de ropa utilizan fibras naturales como algodón, cáñamo, lana y seda. Creá un artículo de ropa o una joya que utilice o esté inspirado en la biodiversidad. Presentá un desfile de modas de biodiversidad con tu grupo.

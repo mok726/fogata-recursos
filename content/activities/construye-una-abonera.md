@@ -1,5 +1,5 @@
 ---
-title: "Construí una abonera"
+title: "Construí una Abonera"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/construye-una-abonera/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Construí una abonera!
+# ¡Construí una Abonera!
 
 ## Resumen
 Construí una abonera para transformar desechos biodegradables en abono para tus plantas.

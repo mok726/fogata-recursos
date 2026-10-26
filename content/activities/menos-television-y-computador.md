@@ -1,5 +1,5 @@
 ---
-title: "Menos televisión y computadora"
+title: "Menos Televisión y Computadora"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-television-y-computador/"
@@ -133,7 +133,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Menos televisión y computadora!
+# ¡Menos Televisión y Computadora!
 
 ## Resumen
 Comprométete a usar tu televisión o computadora menos tiempo cada día.

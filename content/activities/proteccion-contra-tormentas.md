@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Protección contra tormentas"
+title: "Protección contra Tormentas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/proteccion-contra-tormentas/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Protección contra tormentas!
+# ¡Protección contra Tormentas!
 
 ## Resumen
 Los ecosistemas marinos pueden ayudar a proteger a las regiones costeras contra daños provocados por las tormentas. ¿Qué les pasaría a estas regiones si los ecosistemas marinos que les protegen fuesen destruidos?

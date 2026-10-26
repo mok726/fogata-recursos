@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigaciones tormentosas"
+title: "Investigaciones Tormentosas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-tormentosas/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Investigaciones tormentosas!
+# ¡Investigaciones Tormentosas!
 
 ## Resumen
 El Niño y La Niña son fenómenos naturales que ocurren cuando las aguas del Pacífico se tornan inusualmente más cálidas o más frías. Hagan una investigación sobre los dos eventos.

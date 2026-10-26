@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pétalos y polinizadores"
+title: "Pétalos y Polinizadores"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/petalos-y-polinizadores/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Pétalos y polinizadores!
+# ¡Pétalos y Polinizadores!
 
 ## Resumen
 ¿Cuál es tu flor favorita? ¿Sabés qué polinizadores ayudan a que crezca? ¿Es polinizada por más de un animal o insecto? Hablá con un jardinero o experto en plantas para averiguar qué polinizadores ayudan a tu flor favorita.

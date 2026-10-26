@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desarmando canciones y danzas"
+title: "Desarmando Canciones y Danzas"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desarmando-canciones-y-danzas/"
@@ -158,7 +158,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Desarmando canciones y danzas
+# Desarmando Canciones y Danzas
 
 ## Resumen
 En grupos de entre 3 a 6 personas piensen en canciones y danzas scouts, que usualmente hagan en fogones, caminatas y tardes en el grupo, las cuales tengan algún mensaje machista, de violencia de género u otra forma de discriminación. Escríbanlas y piensen qué partes deberían cambiar para que pasen a tener mensajes positivos. Luego hagan las canciones y danzas cambiadas en voz alta y compártanlas con scouts de su grupo y rama.

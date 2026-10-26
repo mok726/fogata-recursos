@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies en movimiento"
+title: "Especies en Movimiento"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-en-movimiento/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Especies en movimiento!
+# ¡Especies en Movimiento!
 
 ## Resumen
 Mientras el clima cambia algunas especies tendrán que trasladarse hacia arriba (literalmente hacia la cumbre de las montañas) o hacia los polos para mantenerse en el mismo tipo de clima.

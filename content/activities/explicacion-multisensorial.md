@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Explicación multisensorial"
+title: "Explicación Multisensorial"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/explicacion-multisensorial/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Explicación multisensorial!
+# ¡Explicación Multisensorial!
 
 ## Resumen
 Inventá una forma de explicar la biodiversidad y sus tres componentes usando por lo menos dos sentidos. Por ejemplo, hacé un video con fotografías y sonido o creá un juego donde los participantes aprendan acerca de la biodiversidad a través del gusto y el tacto.

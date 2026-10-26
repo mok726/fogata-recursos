@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "No desperdiciar, no querer"
+title: "No Desperdiciar, No Querer"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/no-desperdiciar-no-querer/"
@@ -162,7 +162,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡No desperdiciar, no querer!
+# ¡No Desperdiciar, No Querer!
 
 ## Resumen
 ¿Sabías que aproximadamente un tercio de los alimentos producidos para consumo humano se pierde o desperdicia? ¿Has pensado en cuánta energía se desperdicia junto con esa comida? En Estados Unidos, el equivalente energético de unos 350 millones de barriles de petróleo al año podría ahorrarse reduciendo el desperdicio de alimentos.

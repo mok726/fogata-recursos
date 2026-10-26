@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carta al editor"
+title: "Carta al Editor"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-al-editor/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Carta al editor!
+# ¡Carta al Editor!
 
 ## Resumen
 Tomá un periódico y leé todos los artículos acerca de la biodiversidad. Usá uno de los artículos como punto de partida para escribir una carta al editor. Enviala al periódico. Si no tenés acceso a periódicos, podés modificar esta actividad y responder a historias de la radio o de otros medios.

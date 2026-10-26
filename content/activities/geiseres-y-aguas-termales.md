@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Géiseres y aguas termales"
+title: "Géiseres y Aguas Termales"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/geiseres-y-aguas-termales/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Géiseres y aguas termales!
+# ¡Géiseres y Aguas Termales!
 
 ## Resumen
 Los géiseres son una fuente de energía geotérmica. Un famoso géiser es "Old Faithful" en el Parque Yellowstone (EE.UU.), llamado así porque erupciona a intervalos regulares. Investigá fuentes de energía geotérmica en tu área o estudiá un ejemplo famoso.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Acuerdos internacionales"
+title: "Acuerdos Internacionales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/acuerdos-internacionales/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Acuerdos internacionales!
+# ¡Acuerdos Internacionales!
 
 ## Resumen
 Investiguen sobre los acuerdos internacionales que buscan proteger la biodiversidad, ya sea en su conjunto o a una parte específica de la misma. Compartan sus hallazgos en grupo al realizar una obra de teatro o un póster.

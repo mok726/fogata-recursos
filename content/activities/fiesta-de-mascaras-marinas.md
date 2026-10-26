@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fiesta de máscaras marinas"
+title: "Fiesta de Máscaras Marinas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fiesta-de-mascaras-marinas/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Fiesta de máscaras marinas!
+# ¡Fiesta de Máscaras Marinas!
 
 ## Resumen
 Organicen una fiesta de máscaras. Soliciten a todos que se presenten con un disfraz de un animal que vive en el mar. Pidan a cada persona que presente tres datos sobre la especie que eligió. Jueguen juegos relacionados con el agua.

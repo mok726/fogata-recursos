@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dieta saludable y biodiversidad"
+title: "Dieta Saludable y Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dieta-saludable-y-biodiversidad/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 14  # Reconozco, acepto y valoro mi cuerpo
 ---
 
-# ¡Dieta saludable y biodiversidad!
+# ¡Dieta Saludable y Biodiversidad!
 
 ## Resumen
 ¿Qué necesitás para tener una dieta saludable? Averiguá cómo la biodiversidad contribuye a mantener una buena nutrición al imaginar qué pasaría si existiese sólo un tipo de fruta, un tipo de verdura y un tipo de carne disponibles.

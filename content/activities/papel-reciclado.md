@@ -1,5 +1,5 @@
 ---
-title: "Papel reciclado"
+title: "Papel Reciclado"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papel-reciclado/"
@@ -135,7 +135,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Papel reciclado!
+# ¡Papel Reciclado!
 
 ## Resumen
 Comprá y usá papel reciclado para reducir el consumo de recursos.

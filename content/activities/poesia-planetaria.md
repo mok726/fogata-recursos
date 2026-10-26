@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Poesía planetaria"
+title: "Poesía Planetaria"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/poesia-planetaria/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 34 # Me cuestiono sobre las grandes preguntas
 ---
 
-# ¡Poesía planetaria!
+# ¡Poesía Planetaria!
 
 ## Resumen
 Escribí un poema desde el punto de vista de la Tierra. ¿La Tierra está preocupada por su futuro? ¿Es optimista al pensar que todo va a estar bien? ¿Piensa que los humanos necesitan cambiar sus estilos de vida?

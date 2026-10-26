@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los ríos más largos del mundo"
+title: "Los Ríos Más Largos del Mundo"
 duration: "2 horas (preparación + presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/rios-mas-largos/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Los ríos más largos del mundo!
+# ¡Los Ríos Más Largos del Mundo!
 
 ## Resumen
 Los ríos de todo el mundo llevan agua vital a millones de personas, sustentan sus propios ecosistemas únicos y fluyen a través de una variedad de paisajes. En esta actividad, los participantes investigan los ríos más largos del mundo y crean carteles informativos.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía creativa"
+title: "Energía Creativa"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-creativa/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía creativa!
+# ¡Energía Creativa!
 
 ## Resumen
 Dejá volar tu imaginación y escribí una historia corta sobre una forma innovadora de generar electricidad. Por ejemplo, una bicicleta que genera energía para un reproductor de música y una bombilla. Luego dibuja o construí un modelo de tu idea.

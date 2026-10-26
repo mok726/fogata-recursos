@@ -1,5 +1,5 @@
 ---
-title: "Entrevistá a un anciano"
+title: "Entrevistá a un Anciano"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-a-un-anciano/"
@@ -141,7 +141,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Entrevistá a un anciano!
+# ¡Entrevistá a un Anciano!
 
 ## Resumen
 Entrevistá a tu abuelo o a un amigo anciano para aprender cómo vivían cuando eran niños.

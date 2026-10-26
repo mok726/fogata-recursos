@@ -1,5 +1,5 @@
 ---
-title: "Papel reciclado casero"
+title: "Papel Reciclado Casero"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papel-reciclado-casero/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# ¡Papel reciclado casero!
+# ¡Papel Reciclado Casero!
 
 ## Resumen
 Aprendé a hacer tu propio papel reciclado con la ayuda de un adulto.

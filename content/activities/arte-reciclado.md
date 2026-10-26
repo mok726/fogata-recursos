@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte reciclado"
+title: "Arte Reciclado"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-reciclado/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Arte reciclado!
+# ¡Arte Reciclado!
 
 ## Resumen
 Ya conocés la importancia de reciclar y cómo puede ayudar a nuestro planeta a conservar sus recursos. ¡Es hora de pasar la voz!

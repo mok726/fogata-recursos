@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Acampada de bajo impacto"
+title: "Acampada de Bajo Impacto"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/acampada-bajo-impacto/"
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Acampada de bajo impacto!
+# ¡Acampada de Bajo Impacto!
 
 ## Resumen
 Planificá una acampada con conciencia energética para tu grupo. Minimiza las emisiones de gases de efecto invernadero en tu salida: piensa en cómo llegar, qué comer, cómo desechar residuos y qué actividades hacer.

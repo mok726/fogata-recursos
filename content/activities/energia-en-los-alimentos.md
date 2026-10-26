@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en los alimentos"
+title: "Energía en los Alimentos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-los-alimentos/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en los alimentos!
+# ¡Energía en los Alimentos!
 
 ## Resumen
 Dividí el grupo en dos equipos. Investiguen y preparen tarjetas con alimentos y tarjetas correspondientes con la energía usada en su producción. ¡El equipo que primero empareje correctamente todas las tarjetas gana!

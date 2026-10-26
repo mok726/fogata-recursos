@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversión con agua"
+title: "Diversión con Agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-agua/"
@@ -169,7 +169,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Diversión con agua!
+# ¡Diversión con Agua!
 
 ## Resumen
 ¿Qué tienen en común las plantas, los animales y los humanos? ¡Todos necesitan agua para vivir! Las plantas y los árboles absorben agua del suelo a través de sus raíces. Los elefantes beben agua de los estanques y también la usan para mantenerse frescos. Las personas beben agua y la usan para bañarse y lavarse los dientes. El agua es una parte esencial de todos los seres vivos.

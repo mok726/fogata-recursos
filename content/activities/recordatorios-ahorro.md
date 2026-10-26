@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Recordatorios de ahorro de energía"
+title: "Recordatorios de Ahorro de Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/recordatorios-ahorro/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Recordatorios de ahorro de energía!
+# ¡Recordatorios de Ahorro de Energía!
 
 ## Resumen
 Creá recordatorios visuales para ahorrar energía que puedas poner en tu hogar, escuela o lugar de reunión. Escribí mensajes como "apaga las luces", "desconecta los electrónicos", "cierra el agua cuando te cepilles".

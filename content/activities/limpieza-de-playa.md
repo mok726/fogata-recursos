@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Limpieza de playa"
+title: "Limpieza de Playa"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-playa/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Limpieza de playa!
+# ¡Limpieza de Playa!
 
 ## Resumen
 Organicen o participen en una limpieza de playa. Monitoreen el progreso de recuperación. ¿Qué se puede hacer para asegurarse de que el área se mantenga limpia?

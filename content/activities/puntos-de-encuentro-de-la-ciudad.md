@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Puntos de encuentro de la ciudad"
+title: "Puntos de Encuentro de la Ciudad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/puntos-de-encuentro-de-la-ciudad/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Puntos de encuentro de la ciudad!
+# ¡Puntos de Encuentro de la Ciudad!
 
 ## Resumen
 En algunas ciudades, la gente hace ejercicio junta en espacios públicos. En otras, la gente se reúne en círculos de tambores, en parques para perros o simplemente para jugar al ajedrez. ¿Cuáles son algunos espacios en tu ciudad que reúnen a la gente? ¿Qué tipo de espacios debería agregar tu ciudad que crearían un sentido de comunidad? ¿Qué tipo de espacio te animaría a pasar tiempo con otros y disfrutar más de tu ciudad?

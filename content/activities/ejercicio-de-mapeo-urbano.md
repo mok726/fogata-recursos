@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ejercicio de mapeo urbano"
+title: "Ejercicio de Mapeo Urbano"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ejercicio-de-mapeo-urbano/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Ejercicio de mapeo urbano!
+# ¡Ejercicio de Mapeo Urbano!
 
 ## Resumen
 Divídanse en grupos de cuatro a cinco miembros y traten de que haya equilibrio de género en lo posible. Como equipo, creen un mapa 2D que represente su vecindario o su ciudad. Pueden decidir libremente qué enfatizar o qué incluir. Recuerden que se los alienta a reflejar sus pensamientos sobre los componentes del entorno físico, por ejemplo, los caminos, los bordes, los distritos, los nodos y los puntos de referencia de su ciudad.

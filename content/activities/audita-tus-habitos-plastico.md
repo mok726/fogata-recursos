@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Auditá tus hábitos de uso de plástico"
+title: "Auditá Tus Hábitos de Uso de Plástico"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/audita-tus-habitos-plastico/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental
 ---
 
-# ¡Auditá tus hábitos de uso de plástico!
+# ¡Auditá Tus Hábitos de Uso de Plástico!
 
 ## Resumen
 Esta actividad te hará pensar cómo podés disminuir el uso de plástico en tu vida cotidiana y cómo contagiar a los demás a que hagan lo mismo. Es una actividad obligatoria para comenzar el Desafío Tide Turners Plastic.

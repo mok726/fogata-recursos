@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Misión reciclaje"
+title: "Misión Reciclaje"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mision-reciclaje/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Misión reciclaje!
+# ¡Misión Reciclaje!
 
 ## Resumen
 Aprendé sobre cómo reciclar diferentes tipos de plásticos. Investigá qué plásticos se reciclan en tu área, cuáles no, y creá un sistema de reciclaje en casa y en la escuela.

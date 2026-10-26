@@ -1,5 +1,5 @@
 ---
-title: "Bombillas ahorradoras de energía"
+title: "Bombillas Ahorradoras de Energía"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/bombillas-ahorradoras-de-energia/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Bombillas ahorradoras de energía!
+# ¡Bombillas Ahorradoras de Energía!
 
 ## Resumen
 Reemplazá las bombillas comunes por bombillas ahorradoras de energía.

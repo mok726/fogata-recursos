@@ -1,5 +1,5 @@
 ---
-title: "El Agua en tu Armario"
+title: "El Agua en Tu Armario"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-en-tu-armario/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡El Agua en tu Armario!
+# ¡El Agua en Tu Armario!
 
 ## Resumen
 Investigá cuánta agua se utilizó para fabricar tus 5 posesiones favoritas y compartí tus hallazgos.

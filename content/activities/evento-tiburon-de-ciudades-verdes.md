@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Evento Tiburón de ciudades verdes"
+title: "Evento Tiburón de Ciudades Verdes"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/evento-tiburon-de-ciudades-verdes/"
@@ -179,7 +179,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Evento Tiburón de ciudades verdes!
+# ¡Evento Tiburón de Ciudades Verdes!
 
 ## Resumen
 ¿Cuál creés que es el mayor desafío de tu ciudad? ¿Tenés ideas para resolverlo? ¡Ahora es tu momento de proponer nuevas ideas, soluciones y productos! Profundizá para llegar al corazón del problema. Luego, pasá una semana elaborando una idea para solucionarlo. Organizá un evento tipo "Shark Tank" donde presentes tus ideas frente a jueces.

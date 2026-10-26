@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua alrededor del mundo"
+title: "Agua Alrededor del Mundo"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-alrededor-del-mundo-agua/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Agua alrededor del mundo!
+# ¡Agua Alrededor del Mundo!
 
 ## Resumen
 El agua está distribuida de manera desigual alrededor del mundo. Algunos países tienen abundancia de agua, mientras que otros sufren escasez. En esta actividad, los participantes exploran un mapa mundial y descubren las diferencias en el acceso al agua entre continentes y países.

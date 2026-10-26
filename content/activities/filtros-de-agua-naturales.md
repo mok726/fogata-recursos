@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Filtros de agua naturales"
+title: "Filtros de Agua Naturales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/filtros-de-agua-naturales/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Filtros de agua naturales!
+# ¡Filtros de Agua Naturales!
 
 ## Resumen
 Algunas especies son importantes para limpiar el agua y hacerla disponible para otras especies que viven en el ecosistema. Estas especies filtradoras pueden remover bacterias, virus, metales pesados, toxinas y/o desperdicios. Compará los métodos para filtrar el agua que utilizan las diferentes especies, como las ostras, los musgos y los árboles. Hacé tu propio filtro de agua empleando materiales naturales o reciclados.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate comunitario sobre energía"
+title: "Debate Comunitario sobre Energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-comunitario/"
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Debate comunitario sobre energía!
+# ¡Debate Comunitario sobre Energía!
 
 ## Resumen
 Para reducir nuestra huella de carbono global, diferentes personas en la comunidad deben trabajar juntas. Representá diferentes grupos y buscá una solución a un problema energético local.

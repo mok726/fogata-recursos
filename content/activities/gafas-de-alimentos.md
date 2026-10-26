@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Caminando con gafas de alimentos puestas!"
+title: "¡Caminando con Gafas de Alimentos Puestas!"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/gafas-de-alimentos/"
@@ -155,7 +155,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Caminando con gafas de alimentos puestas!
+# ¡Caminando con Gafas de Alimentos Puestas!
 
 ## Resumen
 Prestar atención a los objetos en tu vecindario asociados con el consumo y la producción de alimentos. Caminá con tus amigos por el barrio y buscá cosas relacionadas con la comida, su producción, consumo y almacenamiento.

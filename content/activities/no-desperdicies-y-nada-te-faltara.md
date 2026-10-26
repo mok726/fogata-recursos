@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "No desperdicies y nada te faltará"
+title: "No Desperdicies y Nada Te Faltará"
 duration: "1 semana + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/no-desperdicies-y-nada-te-faltara/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡No desperdicies y nada te faltará!
+# ¡No Desperdicies y Nada Te Faltará!
 
 ## Resumen
 ¿Sabías que aproximadamente un tercio de los alimentos producidos para que las personas coman se pierden o se desechan? ¿Alguna vez has pensado sobre cuánta energía se desperdicia junto con estos?

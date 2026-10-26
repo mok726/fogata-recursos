@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plantas silvestres comestibles"
+title: "Plantas Silvestres Comestibles"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-silvestres-comestibles/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Plantas silvestres comestibles!
+# ¡Plantas Silvestres Comestibles!
 
 ## Resumen
 Pedí a una persona indígena (llamada algunas veces aborigen, nativa o miembro de las naciones originarias en diferentes partes del mundo), a tus padres, a tus abuelos o a amigos ancianos que te enseñen cómo reconocer hierbas y plantas silvestres comestibles. Hacé un collage que indique las hierbas y las plantas y sus usos.

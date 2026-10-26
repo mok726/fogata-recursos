@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Luces, cámara, acción"
+title: "Luces, Cámara, Acción"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/luces-camara-accion/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Luces, cámara, acción!
+# ¡Luces, Cámara, Acción!
 
 ## Resumen
 Como grupo, crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días. Usá disfraces, dibujos u otros materiales.

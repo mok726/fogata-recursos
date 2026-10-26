@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Modelo de cuenca de agua"
+title: "Modelo de Cuenca de Agua"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-de-cuenca-de-agua/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Modelo de cuenca de agua!
+# ¡Modelo de Cuenca de Agua!
 
 ## Resumen
 Aprendan acerca de su cuenca de agua local - un área de tierra que captura lluvia y nieve y luego las drena hacia un cuerpo de agua mayor - como por ejemplo un pantano, un arroyo, un río, un lago, un océano o agua subterránea. Construyan un modelo utilizando tierra, corteza de árbol, piedras, papel maché o materiales reciclados de su cuenca.

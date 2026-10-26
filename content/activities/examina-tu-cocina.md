@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Examiná tu Cocina"
+title: "Examiná Tu Cocina"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/examina-tu-cocina/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros.
 ---
 
-# Examiná tu Cocina
+# Examiná Tu Cocina
 
 ## Resumen
 Inspeccioná tu cocina y los lugares donde guardás la comida para mejorar la seguridad alimentaria en casa.

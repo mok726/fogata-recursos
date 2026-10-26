@@ -1,5 +1,5 @@
 ---
-title: "Compartí y reusá"
+title: "Compartí y Reusá"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparte-y-reusa/"
@@ -138,7 +138,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Compartí y reusá!
+# ¡Compartí y Reusá!
 
 ## Resumen
 Compartí y reusá tus pertenencias cuando ya no las necesites.

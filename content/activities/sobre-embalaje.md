@@ -1,5 +1,5 @@
 ---
-title: "Sobre-embalaje"
+title: "Sobre-Embalaje"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sobre-embalaje/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Sobre-embalaje!
+# ¡Sobre-Embalaje!
 
 ## Resumen
 Identificá productos con envolturas innecesarias y encontrá alternativas con menos embalaje.

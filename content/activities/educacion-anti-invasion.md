@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Educación Anti-invasión"
+title: "Educación Anti-Invasión"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/educacion-anti-invasion/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
 ---
 
-# Educación Anti-invasión
+# Educación Anti-Invasión
 
 ## Resumen
 Hacé un póster que indique aquello que las personas pueden hacer para prevenir la transferencia de especies invasoras entre los bosques. Exhibí tu obra de arte en un espacio público, como por ejemplo en el comienzo de un sendero natural, en una escuela o en el centro de visitantes de un parque.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Presentando a los combustibles fósiles"
+title: "Presentando a los Combustibles Fósiles"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentando-a-los-combustibles-fosiles/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 19 # Tomo decisiones económicas conscientes
 ---
 
-# ¡Presentando a los combustibles fósiles!
+# ¡Presentando a los Combustibles Fósiles!
 
 ## Resumen
 Investigá qué son los combustibles fósiles y cómo se utilizan. Elegí uno de los combustibles fósiles (carbón, petróleo o gas natural) para investigar más a fondo.

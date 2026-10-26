@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dieta energética"
+title: "Dieta Energética"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dieta-energetica/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Dieta energética!
+# ¡Dieta Energética!
 
 ## Resumen
 Hacé una 'dieta energética' durante dos semanas. Creá un plan para reducir tu consumo de energía en tu hogar, cuando te trasladás de un lugar a otro y a la escuela. Llevalo a cabo.

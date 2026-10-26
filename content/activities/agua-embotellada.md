@@ -1,5 +1,5 @@
 ---
-title: "Agua embotellada"
+title: "Agua Embotellada"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-embotellada/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¡Agua embotellada!
+# ¡Agua Embotellada!
 
 ## Resumen
 Averiguá si el agua de la canilla es segura y dejá de comprar agua embotellada.

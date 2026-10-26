@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Combatiendo el desperdicio de alimentos"
+title: "Combatiendo el Desperdicio de Alimentos"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/combatiendo-el-desperdicio-de-alimentos/"
@@ -167,7 +167,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Combatiendo el desperdicio de alimentos!
+# ¡Combatiendo el Desperdicio de Alimentos!
 
 ## Resumen
 Ya sabés que un tercio (1.300 millones de toneladas) de los alimentos producidos globalmente cada año se pierden o desperdician. Todos podemos hacer nuestra parte para reducir el desperdicio de alimentos en nuestra vida diaria, y esto ayudará a que nuestras ciudades sean más verdes.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua invisible"
+title: "Agua Invisible"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-invisible/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Agua invisible!
+# ¡Agua Invisible!
 
 ## Resumen
 Todos usamos agua todos los días, por ejemplo, para lavarnos los dientes o para preparar una sopa. Pero, ¿cuánta agua has usado hoy que no podés ver?

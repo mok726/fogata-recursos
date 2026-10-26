@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuánto Plástico uso?"
+title: "¿Cuánto Plástico Uso?"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanto-plastico-uso/"
@@ -154,7 +154,7 @@ rama_rovers:
 # Actividad original de Mariano S. Cosentino
 ---
 
-# ¿Cuánto Plástico uso?
+# ¿Cuánto Plástico Uso?
 
 ## Resumen
 Vamos a pensar y descubrir cuánto plástico usamos, y después vamos a pensar cómo disminuir su uso.

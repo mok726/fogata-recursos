@@ -1,5 +1,5 @@
 ---
-title: "Jabón natural"
+title: "Jabón Natural"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/jabon-natural/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Jabón natural!
+# ¡Jabón Natural!
 
 ## Resumen
 Aprendé a hacer jabón natural con la ayuda de un artesano y véndelo para una campaña contra la contaminación.

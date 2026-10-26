@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visitá a una granja urbana"
+title: "Visitá a una Granja Urbana"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-una-granja-urbana/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Visitá a una granja urbana!
+# ¡Visitá a una Granja Urbana!
 
 ## Resumen
 Aprendé que hay diferentes formas de granjas urbanas, como huertos caseros, jardines comunitarios, granjas en azoteas, instituciones agrícolas, etc. Visitá una granja urbana local para aprender cómo contribuye a una ciudad verde.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién es un polinizador?"
+title: "¿Quién Es un Polinizador?"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-es-un-polinizador/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡¿Quién es un polinizador?!
+# ¡¿Quién Es un Polinizador?!
 
 ## Resumen
 Divídanse en dos equipos. Cada equipo hace una lista de animales, aves e insectos, incluyendo especies polinizadoras y no polinizadoras. Luego, hagan un juego de preguntas donde cada equipo adivine de la lista del equipo contrario qué especie es polinizadora y cuál no.

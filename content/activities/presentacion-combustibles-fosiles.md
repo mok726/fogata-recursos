@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Presentando los combustibles fósiles"
+title: "Presentando los Combustibles Fósiles"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentacion-combustibles-fosiles/"
@@ -162,7 +162,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Presentando los combustibles fósiles!
+# ¡Presentando los Combustibles Fósiles!
 
 ## Resumen
 Dividí el grupo en equipos y elegí un combustible fósil (carbón, petróleo, gas natural). Investigá y creá una presentación sobre sus ventajas, desventajas y uso mundial.

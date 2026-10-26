@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reciclá tu propio papel"
+title: "Reciclá Tu Propio Papel"
 duration: "2 horas + tiempo de secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/recicla-tu-propio-papel/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Reciclá tu propio papel!
+# ¡Reciclá Tu Propio Papel!
 
 ## Resumen
 Para esta actividad necesitarás: papel de desecho de cuadernos viejos/periódicos viejos/revistas viejas, almidón, un balde o tazón viejo, un mortero y mano de mortero, un colador con malla metálica o un plato perforado.

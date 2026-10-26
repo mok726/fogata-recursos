@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Para qué nos alcanza?"
+title: "¿Para Qué Nos Alcanza?"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/para-que-nos-alcanza/"
@@ -160,7 +160,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# ¿Para qué nos alcanza?
+# ¿Para Qué Nos Alcanza?
 
 ## Resumen
 Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan con el valor de una canasta básica alimentaria (investiguen su valor) y tienen que comprar los alimentos para vivir un mes con ese dinero. Confeccionen una lista con todos los elementos que comprarían y sus precios. Luego piensen e intercambien opiniones sobre si lo que podrían comprar es suficiente, y si realmente el valor de la canasta básica alimentaria es acorde a las necesidades de la población. Siendo conscientes de que gran cantidad de personas y familias en el país no cuentan ni siquiera con ese ingreso para cubrir sus necesidades.

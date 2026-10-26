@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Efecto invernadero"
+title: "Efecto Invernadero"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/efecto-invernadero-experimento/"
@@ -165,7 +165,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Efecto invernadero!
+# ¡Efecto Invernadero!
 
 ## Resumen
 ¿Tenés curiosidad sobre cómo funciona realmente el efecto invernadero? Podés hacer un experimento simple para ver sus efectos con dos termómetros y un frasco.

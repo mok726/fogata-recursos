@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pesca los hechos"
+title: "Pesca los Hechos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pesca-los-hechos/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 32 # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Pesca los hechos!
+# ¡Pesca los Hechos!
 
 ## Resumen
 Los alimentos saludables y renovables provenientes de la pesca se harán más importantes a medida que la agricultura se vea afectada a causa de sequías y otros impactos del cambio climático. Pero muchas especies de peces están siendo capturadas más rápidamente que su capacidad de reproducirse.

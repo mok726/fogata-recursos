@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte natural"
+title: "Arte Natural"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-natural/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Arte natural!
+# ¡Arte Natural!
 
 ## Resumen
 Elaborá un objeto de arte con materiales naturales. Animá a otros miembros de tu grupo a que ellos también lo hagan. Presenten y expongan sus creaciones en una exhibición de arte natural, incluyan historias sobre los materiales y el mensaje que quiere transmitir su arte.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Jardín de biodiversidad"
+title: "Jardín de Biodiversidad"
 duration: "3 meses"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-de-biodiversidad/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Jardín de biodiversidad!
+# ¡Jardín de Biodiversidad!
 
 ## Resumen
 Cultiven un jardín de vegetales, hierbas, frutas, nueces o especias. Desarrollen su habilidad para la jardinería en un jardín de macetas, un jardín comunitario, un jardín de terraza o un jardín en el patio trasero.

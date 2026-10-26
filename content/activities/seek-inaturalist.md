@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubriendo la naturaleza con Seek de iNaturalist"
+title: "Descubriendo la Naturaleza con Seek de iNaturalist"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/seek-inaturalist/"
@@ -155,7 +155,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Descubriendo la naturaleza con Seek de iNaturalist!
+# ¡Descubriendo la Naturaleza con Seek de iNaturalist!
 
 ## Resumen
 Los participantes serán invitados a utilizar la aplicación durante otras actividades al aire libre en el evento / reunión para descubrir el entorno natural que los rodea. Al final de la actividad, los participantes deberían entender la importancia de la biodiversidad y cómo los jóvenes pueden tomar medidas para preservarla.

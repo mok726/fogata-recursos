@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Club verde"
+title: "Club Verde"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/club-verde/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Club verde!
+# ¡Club Verde!
 
 ## Resumen
 Sabemos que los autos son un gran culpable de las emisiones de gases de efecto invernadero en las ciudades. ¿Por qué no dejar el auto por una opción más saludable y ecológica como caminar o andar en bicicleta? Mejor aún, animá a otros a sumarse.

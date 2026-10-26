@@ -1,5 +1,5 @@
 ---
-title: "De dónde viene tu agua?"
+title: "De Dónde Viene Tu Agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-agua/"
@@ -147,7 +147,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¿De dónde viene tu agua?
+# ¿De Dónde Viene Tu Agua?
 
 ## Resumen
 Investigá el origen del agua que usás en tu hogar, cómo es tratada antes de llegar a vos y cómo es tratada después de usarla.

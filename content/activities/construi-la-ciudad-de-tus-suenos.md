@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Construí la ciudad de tus sueños"
+title: "Construí la Ciudad de Tus Sueños"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/construi-la-ciudad-de-tus-suenos/"
@@ -164,7 +164,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Construí la ciudad de tus sueños
+# Construí la Ciudad de Tus Sueños
 
 ## Resumen
 Piensen que son arquitectos y tienen que desarrollar cada uno su ciudad soñada, el único requisito que les piden es que esta sea sostenible. Pueden también elegir un ODS específico como tema para trabajar en la ciudad. Cuando todos hayan terminado de construir y dibujar sus ciudades con muchos materiales, preséntenlas al resto y compartan sus ideas. Luego, debatan cómo todos y todas pueden vivir de manera más sostenible en su propia comunidad.

@@ -1,5 +1,5 @@
 ---
-title: "Inspección en la cocina"
+title: "Inspección en la Cocina"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-en-la-cocina/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Inspección en la cocina!
+# ¡Inspección en la Cocina!
 
 ## Resumen
 Realizá una inspección en tu cocina y reemplazá elementos innecesarios por alternativas reutilizables.

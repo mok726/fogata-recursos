@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Invierte en soluciones"
+title: "Invierte en Soluciones"
 duration: "2 horas + recaudación"
 layout: "layouts/activity.njk"
 permalink: "/activities/invierte-en-soluciones/"
@@ -174,7 +174,7 @@ rama_rovers:
   - 28 # Valoro y promuevo la solidaridad
 ---
 
-# ¡Invierte en soluciones!
+# ¡Invierte en Soluciones!
 
 ## Resumen
 Investigá algunas iniciativas que se han puesto en marcha para combatir el cambio climático y elegí una que te inspire.

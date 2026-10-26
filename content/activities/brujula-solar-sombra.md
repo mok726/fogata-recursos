@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Brújula solar - Método de la Sombra"
+title: "Brújula Solar - Método de la Sombra"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-sombra/"
@@ -152,7 +152,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión
 ---
 
-# ¡Brújula solar - Método de la Sombra!
+# ¡Brújula Solar - Método de la Sombra!
 
 ## Resumen
 Este método es simple y consiste en 4 pasos. Usando un palo y su sombra, podrás encontrar los puntos cardinales sin necesidad de una brújula.

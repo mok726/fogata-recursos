@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién se Come a Quién?"
+title: "¿Quién Se Come a Quién?"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-se-come-a-quien-oceano/"
@@ -167,7 +167,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies.
 ---
 
-# ¿Quién se Come a Quién?
+# ¿Quién Se Come a Quién?
 
 ## Resumen
 Creá un móvil sobre una cadena alimentaria marina con fotografías de animales y plantas del mar.

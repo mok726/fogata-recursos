@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Purificación de agua (SODIS)"
+title: "Purificación de Agua (SODIS)"
 duration: "15 minutos + 6 horas de exposición"
 layout: "layouts/activity.njk"
 permalink: "/activities/purificacion-agua-sodis/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información
 ---
 
-# ¡Purificación de agua (SODIS)!
+# ¡Purificación de Agua (SODIS)!
 
 ## Resumen
 El método SODIS (Solar Water Disinfection) utiliza la energía del Sol para purificar agua. Es una técnica simple y efectiva que puede salvar vidas en situaciones de emergencia.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Campaña comunitaria de energía"
+title: "Campaña Comunitaria de Energía"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-comunitaria/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Campaña comunitaria de energía!
+# ¡Campaña Comunitaria de Energía!
 
 ## Resumen
 Una campaña es cuando las personas trabajan juntas para alcanzar un objetivo común. Pensá en una campaña de energía que puedas hacer en tu comunidad.

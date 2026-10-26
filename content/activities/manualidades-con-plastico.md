@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Manualidades con plástico reciclado"
+title: "Manualidades con Plástico Reciclado"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/manualidades-con-plastico/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Manualidades con plástico reciclado!
+# ¡Manualidades con Plástico Reciclado!
 
 ## Resumen
 Organizá una feria de manualidades en tu escuela donde creés nuevos productos a partir de artículos plásticos que normalmente tirarías. ¡Transformá basura en tesoros!

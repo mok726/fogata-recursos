@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Identificando alternativas a los plásticos"
+title: "Identificando Alternativas a los Plásticos"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/identificando-alternativas-plastico/"
@@ -164,7 +164,7 @@ rama_rovers:
 
 ---
 
-# ¡Identificando alternativas a los plásticos!
+# ¡Identificando Alternativas a los Plásticos!
 
 ## Resumen
 Esta actividad ayuda a los jóvenes a reducir el uso de productos plásticos mediante la identificación de mejores alternativas para los plásticos de un solo uso. A través de una dinámica grupal, aprenderán que es posible encontrar opciones más sostenibles para la mayoría de los productos plásticos.

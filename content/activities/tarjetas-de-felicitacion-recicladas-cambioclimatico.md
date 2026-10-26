@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tarjetas de felicitación con papel reciclado"
+title: "Tarjetas de Felicitación con Papel Reciclado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-felicitacion-recicladas-cambioclimatico/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Tarjetas de felicitación!
+# ¡Tarjetas de Felicitación!
 
 ## Resumen
 Existen muchas ocasiones para enviar tarjetas de felicitación a tus amigos y a tu familia - cumpleaños, festividades, el año nuevo o sólo para decir 'hola'. Este año, haz tus propias tarjetas de felicitación en lugar de comprarlas.

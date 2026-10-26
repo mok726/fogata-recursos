@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lunes Sin Carne"
+title: "Lunes sin Carne"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/lunes-sin-carne/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Lunes Sin Carne!
+# ¡Lunes sin Carne!
 
 ## Resumen
 Del agua utilizada en todo el mundo, hasta el 70 por ciento se usa en la agricultura. Diferentes tipos de alimentos requieren diferentes cantidades de agua para ser producidos. Por ejemplo, se necesitan 560 litros de agua para producir un kilogramo de naranjas, 15.415 litros para un kilogramo de carne de res, y 4.325 litros para un kilogramo de pollo. Los productos cárnicos tienen una huella hídrica más alta, por lo que elegir una comida sin carne de vez en cuando puede ser una idea muy sabia. En esta actividad, los participantes proponen un "Lunes Sin Carne" en su escuela para reducir el consumo de agua.

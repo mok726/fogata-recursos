@@ -1,5 +1,5 @@
 ---
-title: "¿A dónde va el agua?"
+title: "¿A Dónde Va el Agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-donde-va-el-agua/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental.
 ---
 
-# ¿A dónde va el agua?
+# ¿A Dónde Va el Agua?
 
 ## Resumen
 Investigá cómo se utiliza el agua en tu país por sectores y proponé formas de ahorrar.

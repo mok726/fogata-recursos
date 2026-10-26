@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía y pobreza"
+title: "Energía y Pobreza"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-pobreza/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía y pobreza!
+# ¡Energía y Pobreza!
 
 ## Resumen
 Existe una conexión directa entre el acceso a la energía y la pobreza. El acceso a fuentes de energía como la electricidad puede ayudar a familias y comunidades a mejorar sus vidas. Reflexioná sobre esta conexión.

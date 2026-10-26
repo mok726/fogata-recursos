@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Rayos de sol"
+title: "Rayos de Sol"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/rayos-de-sol-movil/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Rayos de sol!
+# ¡Rayos de Sol!
 
 ## Resumen
 Hacé un móvil del Sol para recordar todas las formas en que la energía solar influye en la vida en nuestro planeta. ¡Colgá tus rayos de sol y aprendé mientras creás!

@@ -1,5 +1,5 @@
 ---
-title: "Elegí un país"
+title: "Elegí un País"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/elige-un-pais/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión.
 ---
 
-# ¡Elegí un país!
+# ¡Elegí un País!
 
 ## Resumen
 Elegí un país y aprendé todo lo posible sobre los alimentos que producen y consumen.

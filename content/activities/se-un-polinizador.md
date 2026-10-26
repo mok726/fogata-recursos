@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sé un polinizador"
+title: "Sé un Polinizador"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-polinizador/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Sé un polinizador!
+# ¡Sé un Polinizador!
 
 ## Resumen
 Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ahora podés declararte un polinizador oficial. Podés divertirte polinizando el mismo tipo de flor pero de diferentes colores y esperar a ver el resultado.

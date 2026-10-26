@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plantas de agua y tierra"
+title: "Plantas de Agua y Tierra"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-de-agua-y-tierra/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Plantas de agua y tierra!
+# ¡Plantas de Agua y Tierra!
 
 ## Resumen
 Hacé un dibujo o sacá fotografías de dos plantas: una que viva en la tierra y otra que viva en el agua. Etiquetá las diferentes partes de cada planta (por ejemplo, flor, tallo, lámina, zarcillo, etc.).

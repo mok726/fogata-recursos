@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tarjetas de puntuación para empaques"
+title: "Tarjetas de Puntuación para Empaques"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-puntuacion/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Tarjetas de puntuación para empaques!
+# ¡Tarjetas de Puntuación para Empaques!
 
 ## Resumen
 Creá un sistema de puntuación para evaluar qué tan ecológicos son los empaques de los productos en tu supermercado local. Usá colores o números para calificar qué tan fácil es reutilizar o reciclar cada empaque.

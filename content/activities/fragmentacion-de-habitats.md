@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fragmentación de hábitats"
+title: "Fragmentación de Hábitats"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fragmentacion-de-habitats/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 10  # Contribuyo a la resolución de conflictos
 ---
 
-# ¡Fragmentación de hábitats!
+# ¡Fragmentación de Hábitats!
 
 ## Resumen
 Investiguen cómo la fragmentación de los hábitats puede afectar a la diversidad genética dentro de una especie. Debatan en grupo sobre un caso de este tipo relevante para su área. Asignen un papel a cada persona (como alcalde, biólogo, persona indígena, animal afectado por la fragmentación del hábitat, desarrollador inmobiliario, etc.).

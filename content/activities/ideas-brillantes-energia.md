@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas brillantes para la energía"
+title: "Ideas Brillantes para la Energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-brillantes-energia/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ideas brillantes para la energía!
+# ¡Ideas Brillantes para la Energía!
 
 ## Resumen
 Hay muchas ideas y proyectos geniales para la eficiencia energética. Por ejemplo, el riego por goteo solar en Benin o una planta hidroeléctrica en Tayikistán que lleva electricidad a hogares y escuelas. Investigá un proyecto y presentalo.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de la energía"
+title: "Juego de la Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-la-energia/"
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Juego de la energía!
+# ¡Juego de la Energía!
 
 ## Resumen
 Este juego es una variante del "Juego de los porotos" usando diferentes movimientos para diferentes fuentes de energía. ¡Aprendé sobre energía mientras te movés y te divertís!

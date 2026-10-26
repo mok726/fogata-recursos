@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Biodegradable o no?"
+title: "¿Biodegradable o No?"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodegradable-o-no/"
@@ -167,7 +167,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Biodegradable o no!
+# ¡Biodegradable o No!
 
 ## Resumen
 Realizá un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Enterrá diferentes materiales en el suelo durante dos semanas y observá qué sucede con cada uno.

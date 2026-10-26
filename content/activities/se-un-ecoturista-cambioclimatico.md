@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sé un ecoturista del cambio climático"
+title: "Sé un Ecoturista del Cambio Climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-ecoturista-cambioclimatico/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 37 # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Sé un ecoturista!
+# ¡Sé un Ecoturista!
 
 ## Resumen
 Investigá sobre algunos ejemplos de ecoturismo en tu país. ¿Cómo ayuda esto a tratar el cambio climático? Diseñá tu propia actividad de ecoturismo y probala con tus amigos y familia.

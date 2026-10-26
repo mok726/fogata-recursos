@@ -1,5 +1,5 @@
 ---
-title: "Calefacción y aire acondicionado"
+title: "Calefacción y Aire Acondicionado"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/calefaccion-y-aire-acondicionado/"
@@ -138,7 +138,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Calefacción y aire acondicionado!
+# ¡Calefacción y Aire Acondicionado!
 
 ## Resumen
 Usá menos calefacción y aire acondicionado, y aprendé cómo las personas se mantenían cómodas en el pasado.

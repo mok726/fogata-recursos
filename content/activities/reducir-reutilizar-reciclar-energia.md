@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reducir, reutilizar, reciclar"
+title: "Reducir, Reutilizar, Reciclar"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/reducir-reutilizar-reciclar-energia/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Reducir, reutilizar, reciclar!
+# ¡Reducir, Reutilizar, Reciclar!
 
 ## Resumen
 Reducir, reutilizar y reciclar es un proceso que está en este orden por una razón. Reciclar todavía necesita mucha energía, por lo que es mejor reducir y reutilizar lo que ya tenemos. Aprendé el orden correcto con esta actividad práctica.

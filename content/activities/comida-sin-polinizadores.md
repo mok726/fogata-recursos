@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comida sin polinizadores"
+title: "Comida sin Polinizadores"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-sin-polinizadores/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Comida sin polinizadores!
+# ¡Comida sin Polinizadores!
 
 ## Resumen
 Creá un menú de una semana para vos mismo compuesto solo por alimentos que no necesitan polinizadores para ser producidos. ¿Cómo se ve tu menú? ¿Es tentador? ¿Qué te gustaría agregar? ¿Qué alimentos derivados de polinizadores extrañás más?

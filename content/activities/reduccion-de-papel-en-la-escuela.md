@@ -1,5 +1,5 @@
 ---
-title: "Reducción de papel en la escuela"
+title: "Reducción de Papel en la Escuela"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduccion-de-papel-en-la-escuela/"
@@ -138,7 +138,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Reducción de papel en la escuela!
+# ¡Reducción de Papel en la Escuela!
 
 ## Resumen
 Reducí el uso de papel en la escuela imprimiendo en ambos lados y usando correo electrónico.

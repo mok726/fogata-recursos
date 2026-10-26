@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contaminación local"
+title: "Contaminación Local"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/contaminacion-local/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Contaminación local!
+# ¡Contaminación Local!
 
 ## Resumen
 ¿Qué impacto tiene la contaminación en tu ciudad? ¿Vivís cerca de una playa o un río? ¿Es la contaminación marina o del aire un problema importante? Investigá para aprender sobre tus ecosistemas locales, el impacto de los diferentes tipos de contaminación y el efecto en las especies en peligro que puedan vivir en tu área. Creá un documental corto con tus hallazgos.

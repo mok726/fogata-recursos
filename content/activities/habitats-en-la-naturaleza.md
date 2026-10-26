@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hábitats en la naturaleza"
+title: "Hábitats en la Naturaleza"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/habitats-en-la-naturaleza/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Hábitats en la naturaleza!
+# ¡Hábitats en la Naturaleza!
 
 ## Resumen
 Andá de excursión y tratá de identificar hábitats de polinizadores. ¿Ves alguna colmena, madriguera o nido que pueda albergar polinizadores? Ahora que sabés dónde viven, ¿cómo podés ser más cuidadoso para protegerlos?

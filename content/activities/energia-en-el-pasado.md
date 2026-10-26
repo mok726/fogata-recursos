@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en el pasado"
+title: "Energía en el Pasado"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-el-pasado/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en el pasado!
+# ¡Energía en el Pasado!
 
 ## Resumen
 Las personas en el pasado vivían con diferentes tecnologías y usaban diferentes fuentes de energía. Entrevistá a un abuelo o persona mayor sobre cómo usaban la energía cuando eran niños.

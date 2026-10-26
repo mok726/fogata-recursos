@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Es verde tu casa?"
+title: "¿Es Verde Tu Casa?"
 duration: "2 horas + seguimiento de 21 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-verde-tu-casa/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¿Es verde tu casa?
+# ¿Es Verde Tu Casa?
 
 ## Resumen
 Evaluá qué tan verde es tu casa. ¿Tu familia compra cosas innecesarias? ¿Usan mucho empaque y plástico innecesario? ¿Desperdician comida? ¿Reciclan? ¿Usan el auto para todo, incluso cuando se puede caminar o andar en bicicleta? ¿Llevan bolsas reutilizables al supermercado?

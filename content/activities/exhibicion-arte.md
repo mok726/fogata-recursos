@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exhibición de arte energético"
+title: "Exhibición de Arte Energético"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/exhibicion-arte/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Exhibición de arte energético!
+# ¡Exhibición de Arte Energético!
 
 ## Resumen
 Creá proyectos de arte que puedas exhibir en tu comunidad (escuela, biblioteca, centro recreativo). Elegí un tema relacionado con la energía o reutilizá materiales que podrían reciclarse.

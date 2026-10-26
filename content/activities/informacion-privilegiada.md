@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Información privilegiada"
+title: "Información Privilegiada"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/informacion-privilegiada/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Información privilegiada!
+# ¡Información Privilegiada!
 
 ## Resumen
 Organizá una reunión con un oficial local del ministerio o de la agencia de medio ambiente de tu país. Preguntale acerca del rol de tu país en las negociaciones del clima de las NN.UU.

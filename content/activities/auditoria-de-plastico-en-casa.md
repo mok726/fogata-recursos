@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Auditoría de plástico en casa"
+title: "Auditoría de Plástico en Casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-plastico-en-casa/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Auditoría de plástico en casa!
+# ¡Auditoría de Plástico en Casa!
 
 ## Resumen
 Hacé un inventario detallado de los plásticos de un solo uso que usás en tu vida diaria durante una semana. Registrá qué plásticos usás, con qué frecuencia y qué pasa con ellos después de usarlos.

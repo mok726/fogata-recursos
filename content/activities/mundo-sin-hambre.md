@@ -1,5 +1,5 @@
 ---
-title: "Mundo sin hambre"
+title: "Mundo sin Hambre"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/mundo-sin-hambre/"
@@ -145,7 +145,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Mundo sin hambre!
+# ¡Mundo sin Hambre!
 
 ## Resumen
 Únete a jóvenes de todo el mundo para crear un mundo libre de hambre y malnutrición.

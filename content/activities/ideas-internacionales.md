@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas internacionales"
+title: "Ideas Internacionales"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-internacionales/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 26 # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Ideas internacionales!
+# ¡Ideas Internacionales!
 
 ## Resumen
 ¿Tenés amigos de otros países? Hablá con ellos sobre los hábitos medio ambientales del lugar donde viven. ¿Qué es más 'verde' sobre su estilo de vida? ¿Qué es más 'verde' sobre el tuyo?

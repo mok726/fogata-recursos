@@ -1,5 +1,5 @@
 ---
-title: "A todos nos gusta el agua"
+title: "A Todos Nos Gusta el Agua"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-todos-nos-gusta-el-agua/"
@@ -150,7 +150,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# ¡A todos nos gusta el agua!
+# ¡A Todos Nos Gusta el Agua!
 
 ## Resumen
 Visitá un área natural cerca de tu comunidad y observá cómo las diferentes especies usan el agua en su hábitat.

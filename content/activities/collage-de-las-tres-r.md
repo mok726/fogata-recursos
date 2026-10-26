@@ -1,5 +1,5 @@
 ---
-title: "Collage de las tres R"
+title: "Collage de las Tres R"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/collage-de-las-tres-r/"
@@ -146,7 +146,7 @@ rama_rovers:
   - 11  # Me comunicuo de manera asertiva.
 ---
 
-# ¡Collage de las tres R!
+# ¡Collage de las Tres R!
 
 ## Resumen
 Creá un collage explicando cómo reducir, reusar y reciclar.

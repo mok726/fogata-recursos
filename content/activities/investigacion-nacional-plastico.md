@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigación nacional sobre plásticos"
+title: "Investigación Nacional sobre Plásticos"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-nacional-plastico/"
@@ -162,7 +162,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigación nacional sobre plásticos!
+# ¡Investigación Nacional sobre Plásticos!
 
 ## Resumen
 Investigá la situación de la contaminación plástica en tu país. Analizá cuánto plástico se produce, qué pasa con los residuos y qué políticas existen. Creá un informe con recomendaciones para mejorar la situación.

@@ -1,5 +1,5 @@
 ---
-title: "Género y cambio climático"
+title: "Género y Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/genero-y-cambio-climatico/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 29  # Indago en las causas de las injusticias.
 ---
 
-# ¡Género y cambio climático!
+# ¡Género y Cambio Climático!
 
 ## Resumen
 Investigá cómo el cambio climático afecta de manera diferente a hombres y mujeres.

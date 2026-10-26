@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hacelo fácil: reducí plásticos en casa"
+title: "Hacelo Fácil: Reducí Plásticos en Casa"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/hazlo-facil-sin-plastico/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Hacelo fácil: reducí plásticos en casa!
+# ¡Hacelo Fácil: Reducí Plásticos en Casa!
 
 ## Resumen
 Pensá en cómo tu hogar usa plásticos de un solo uso. Creá sistemas para que sea más fácil usar productos sostenibles en su lugar.

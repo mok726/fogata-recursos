@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pescado sostenible"
+title: "Pescado Sostenible"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pescado-sostenible/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Pescado sostenible!
+# ¡Pescado Sostenible!
 
 ## Resumen
 Visitá un supermercado e inspeccioná el mostrador del pescado y el pasillo del pescado enlatado. Registrá las marcas y las especies de peces que poseen un logo que indica que han sido recolectados o criados sosteniblemente (como el Marine Stewardship Council o Pesca Sostenible Certificada).

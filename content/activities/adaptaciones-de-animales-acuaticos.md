@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adaptaciones de animales acuáticos"
+title: "Adaptaciones de Animales Acuáticos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/adaptaciones-de-animales-acuaticos/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Adaptaciones de animales acuáticos!
+# ¡Adaptaciones de Animales Acuáticos!
 
 ## Resumen
 Los animales que viven en el agua han desarrollado diferentes adaptaciones corporales (rasgos que ayudan a un animal a sobrevivir y/o reproducirse) para ayudarles a desenvolverse en su medio ambiente.

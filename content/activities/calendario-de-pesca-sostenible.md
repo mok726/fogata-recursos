@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Calendario de pesca sostenible"
+title: "Calendario de Pesca Sostenible"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/calendario-de-pesca-sostenible/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Calendario de pesca sostenible!
+# ¡Calendario de Pesca Sostenible!
 
 ## Resumen
 ¿Sabías que en el caso del pescado fresco que se atrapa en su hábitat natural es mejor comprar ciertas especies en ciertos meses? Esto asegura que los peces no sean atrapados durante su etapa de desove. Prepará un calendario que indique cuándo es correcto comer las diferentes especies de peces.

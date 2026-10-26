@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Vehículos maravillosos"
+title: "Vehículos Maravillosos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/vehiculos-maravillosos/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Vehículos maravillosos!
+# ¡Vehículos Maravillosos!
 
 ## Resumen
 Como probablemente sabés, hoy en día tenemos autos que funcionan con electricidad, los cuales son mucho mejores para nuestro medio ambiente. Imaginá tu propio auto que no daña o protege al medio ambiente.

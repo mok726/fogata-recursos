@@ -1,5 +1,5 @@
 ---
-title: "Observación del medidor de agua"
+title: "Observación del Medidor de Agua"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-del-medidor-de-agua/"
@@ -138,7 +138,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Observación del medidor de agua!
+# ¡Observación del Medidor de Agua!
 
 ## Resumen
 Observá el medidor de agua y determiná cuánto podés reducir tu consumo.

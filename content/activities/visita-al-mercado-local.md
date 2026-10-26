@@ -1,5 +1,5 @@
 ---
-title: "Visitá al mercado local"
+title: "Visitá al Mercado Local"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-mercado-local/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Visitá al mercado local!
+# ¡Visitá al Mercado Local!
 
 ## Resumen
 Visitá el mercado local con tu familia, maestro o líder para aprender sobre los alimentos que compra la gente.

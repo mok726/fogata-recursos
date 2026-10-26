@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de energía química"
+title: "Experimento de Energía Química"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-energia-quimica/"
@@ -161,7 +161,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Experimento de energía química!
+# ¡Experimento de Energía Química!
 
 ## Resumen
 ¿Cómo cambia la energía de una forma a otra? Una forma es a través de una reacción química. ¡Hacé este experimento con bicarbonato y vinagre para ver la energía potencial convertirse en energía cinética!

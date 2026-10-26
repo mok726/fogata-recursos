@@ -1,5 +1,5 @@
 ---
-title: "Electrodomésticos ahorradores de energía"
+title: "Electrodomésticos Ahorradores de Energía"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/electrodomesticos-ahorradores-de-energia/"
@@ -139,7 +139,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Electrodomésticos ahorradores de energía!
+# ¡Electrodomésticos Ahorradores de Energía!
 
 ## Resumen
 Investigá electrodomésticos ahorradores de energía y recomienda opciones a tu familia.

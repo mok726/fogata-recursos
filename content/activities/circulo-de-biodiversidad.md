@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Círculo de biodiversidad"
+title: "Círculo de Biodiversidad"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/circulo-de-biodiversidad/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Círculo de biodiversidad!
+# ¡Círculo de Biodiversidad!
 
 ## Resumen
 Elegí un árbol de un bosque o de un área natural y trazá un círculo de un metro de radio alrededor de su base. En un papel, dibujá todas las formas de vida que encuentres dentro de esa área (por ejemplo, hierbas, musgos, líquenes, insectos, hongos, sapos, etc.). Tratá de identificar los nombres de las especies. Si es posible, invitá a un biólogo o naturalista para que te ayude con la actividad.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aventuras lingüísticas con la energía"
+title: "Aventuras Lingüísticas con la Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-linguisticas-energia/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Aventuras lingüísticas con la energía!
+# ¡Aventuras Lingüísticas con la Energía!
 
 ## Resumen
 Asigná a cada miembro del grupo un país diferente. Investigá cómo se dice "energía" en el idioma principal de ese país. ¡Compartan sus hallazgos y creen trabalenguas divertidos!

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hábito verde"
+title: "Hábito Verde"
 duration: "21 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/habito-verde/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Hábito verde!
+# ¡Hábito Verde!
 
 ## Resumen
 Mirá la lista de consejos y sugerencias para estilos de vida verdes mencionados en el capítulo anterior. Elegí uno de ellos y comprometete a mantenerlo durante al menos 21 días. Puede ser andar en bicicleta a la escuela o comprar menos productos envasados.

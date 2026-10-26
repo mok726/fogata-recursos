@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Obras de teatro sobre energía"
+title: "Obras de Teatro sobre Energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/obras-de-teatro-energia/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Obras de teatro sobre energía!
+# ¡Obras de Teatro sobre Energía!
 
 ## Resumen
 Aprendé sobre las diferentes formas de energía (cinética, potencial, mecánica, etc.) y escribí una obra de teatro corta que demuestre claramente las diferencias entre ellas.

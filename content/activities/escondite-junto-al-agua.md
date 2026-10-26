@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Escondite junto al agua"
+title: "Escondite Junto al Agua"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/escondite-junto-al-agua/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Escondite junto al agua!
+# ¡Escondite Junto al Agua!
 
 ## Resumen
 Construí un escondite (un refugio camuflado desde donde podés observar a los animales sin molestarlos) cerca de un lago, un estanque o un arroyo. El escondite te mantendrá oculto de la vida silvestre.

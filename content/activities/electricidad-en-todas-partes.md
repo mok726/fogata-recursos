@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Electricidad en todas partes"
+title: "Electricidad en Todas Partes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/electricidad-en-todas-partes/"
@@ -153,7 +153,7 @@ rama_rovers:
   - 19 # Tomo decisiones económicas conscientes y responsables
 ---
 
-# ¡Electricidad en todas partes!
+# ¡Electricidad en Todas Partes!
 
 ## Resumen
 ¿Has pensado en cuántos interruptores de luz y tomas eléctricas tenés en casa? ¡Bueno, seguro te sorprenderás! Contá todos los interruptores de luz y tomas eléctricas que encuentres en casa y luego haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y en los hospitales.

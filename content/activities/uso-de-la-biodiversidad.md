@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Uso de la biodiversidad"
+title: "Uso de la Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/uso-de-la-biodiversidad/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Uso de la biodiversidad!
+# ¡Uso de la Biodiversidad!
 
 ## Resumen
 Diferentes grupos de personas utilizan y conservan la biodiversidad de formas diferentes. Encontrá tres ejemplos de cómo hombres y mujeres o personas que viven en la ciudad y otras que viven en el campo utilizan la biodiversidad de distintas maneras.

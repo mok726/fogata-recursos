@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Excursión de campo"
+title: "Excursión de Campo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo-polinizadores/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 29  # Indago causas de problemáticas sociales
 ---
 
-# ¡Excursión de campo!
+# ¡Excursión de Campo!
 
 ## Resumen
 Visitá una granja local para aprender más sobre agricultura sostenible. ¿Cómo ayuda la granja a proteger el ecosistema en general? ¿Cuáles son los desafíos de este tipo de agricultura? ¿Cuáles son los beneficios? ¿Dónde encajan los polinizadores?

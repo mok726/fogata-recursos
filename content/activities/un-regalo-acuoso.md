@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Un regalo acuoso"
+title: "Un Regalo Acuoso"
 duration: "1.5 horas + mantenimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-regalo-acuoso/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Un regalo acuoso!
+# ¡Un Regalo Acuoso!
 
 ## Resumen
 Creá una fuente de agua para los polinizadores en tu jardín escolar o del hogar. Cambiá el agua regularmente para que los polinizadores tengan agua limpia en todo momento y para evitar crear un lugar de cría de insectos, como mosquitos.

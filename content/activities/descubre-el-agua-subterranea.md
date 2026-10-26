@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubrí el agua subterránea"
+title: "Descubrí el Agua Subterránea"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubre-el-agua-subterranea/"
@@ -164,7 +164,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Descubrí el agua subterránea!
+# ¡Descubrí el Agua Subterránea!
 
 ## Resumen
 Cuando llueve, parte del agua se filtra en el suelo y se mueve a través de los espacios entre las partículas. A medida que el agua fluye a través del suelo, eventualmente alcanza una capa impermeable de roca o arcilla y comienza a llenar los espacios porosos del suelo. En esta actividad, los participantes construyen modelos para entender el agua subterránea.

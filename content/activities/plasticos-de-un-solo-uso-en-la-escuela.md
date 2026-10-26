@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plásticos de un solo uso en la escuela"
+title: "Plásticos de un Solo Uso en la Escuela"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/plasticos-de-un-solo-uso-en-la-escuela/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Plásticos de un solo uso en la escuela!
+# ¡Plásticos de un Solo Uso en la Escuela!
 
 ## Resumen
 Realizá una auditoría completa de los plásticos de un solo uso que se usan en tu escuela. Identificá qué plásticos se usan más, cuánto se recicla y cómo podrían reemplazarse con opciones más sostenibles.

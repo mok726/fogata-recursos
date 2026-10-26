@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contactá a los tomadores de decisiones sobre el cambio climático"
+title: "Contactá a los Tomadores de Decisiones sobre el Cambio Climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/contacta-a-los-tomadores-de-decisiones-cambioclimatico/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Contactá a los tomadores de decisiones!
+# ¡Contactá a los Tomadores de Decisiones!
 
 ## Resumen
 Además de las agencias de las Naciones Unidas, existen otras organizaciones que también trabajan para afrontar el cambio climático. Desde agencias de investigación hasta empresas privadas, todo tipo de organizaciones están ocupadas buscando soluciones.

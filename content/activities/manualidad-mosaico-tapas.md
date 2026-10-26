@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Manualidad de mosaico de tapas de botella"
+title: "Manualidad de Mosaico de Tapas de Botella"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/manualidad-mosaico-tapas/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Manualidad de mosaico de tapas de botella!
+# ¡Manualidad de Mosaico de Tapas de Botella!
 
 ## Resumen
 Las tapas de botellas de plástico vienen en una gran variedad de colores y tamaños. Esta actividad anima a los jóvenes a aprender sobre la reutilización y el reciclaje a través de una actividad artística y creativa. Los participantes recolectarán tapas y crearán mosaicos coloridos, reflexionando sobre la importancia de dar una segunda vida a los residuos plásticos.

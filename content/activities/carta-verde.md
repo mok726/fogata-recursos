@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carta verde"
+title: "Carta Verde"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-verde/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Carta verde!
+# ¡Carta Verde!
 
 ## Resumen
 Observá qué tan verde es tu comunidad. Por ejemplo, ¿se podría mejorar la recolección de residuos? ¿Los supermercados locales aceptan bolsas y envoltorios de plástico para reciclar? ¿Los carriles para bicicletas son seguros para los ciclistas? Identificá un político local o autoridad ambiental que haya expresado preocupación por temas ambientales. Escribiles una carta educada para llamar su atención sobre los desafíos que impiden a los miembros de la comunidad vivir de manera sostenible.

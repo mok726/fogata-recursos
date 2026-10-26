@@ -1,5 +1,5 @@
 ---
-title: "Horno solar"
+title: "Horno Solar"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/horno-solar/"
@@ -138,7 +138,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Horno solar!
+# ¡Horno Solar!
 
 ## Resumen
 Aprendé a construir un horno solar y a cocinar usando energía renovable.

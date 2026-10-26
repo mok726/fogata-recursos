@@ -1,5 +1,5 @@
 ---
-title: "Campaña con pósters"
+title: "Campaña con Pósters"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-con-posters/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# ¡Campaña con pósters!
+# ¡Campaña con Pósters!
 
 ## Resumen
 Desarrollá una campaña con pósters que anime a las personas a hacer pequeños cambios en su vida diaria.

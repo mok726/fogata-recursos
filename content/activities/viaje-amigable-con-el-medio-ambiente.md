@@ -1,5 +1,5 @@
 ---
-title: "Viaje amigable con el medio ambiente"
+title: "Viaje Amigable con el Medio Ambiente"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/viaje-amigable-con-el-medio-ambiente/"
@@ -137,7 +137,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Viaje amigable con el medio ambiente!
+# ¡Viaje Amigable con el Medio Ambiente!
 
 ## Resumen
 Planificá un viaje turístico amigable con el medio ambiente y compartí cómo puede ayudar a prevenir el cambio climático.

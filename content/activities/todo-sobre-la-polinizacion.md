@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Todo sobre la polinización"
+title: "Todo sobre la Polinización"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/todo-sobre-la-polinizacion/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Todo sobre la polinización!
+# ¡Todo sobre la Polinización!
 
 ## Resumen
 Mirá un video para aprender más sobre los diferentes pasos de la polinización. Creá una presentación, usando videos y animaciones, sobre los diferentes tipos de polinización y polinizadores. Por ejemplo, el viento y el agua también pueden ser polinizadores, y algunas plantas pueden autopolinizarse.

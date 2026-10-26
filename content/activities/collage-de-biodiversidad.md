@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Collage de biodiversidad"
+title: "Collage de Biodiversidad"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/collage-de-biodiversidad/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Collage de biodiversidad!
+# ¡Collage de Biodiversidad!
 
 ## Resumen
 Creen un collage, un póster o un videoclip con ejemplos de los tres componentes de la biodiversidad: genes, especies y ecosistemas. Presenten su collage en clase o a su grupo y respondan a las siguientes preguntas. ¿Cómo interactúan las diferentes partes entre ellas? ¿Por qué es importante cada componente? ¿Cuáles son algunas de las amenazas a la biodiversidad en el mundo?

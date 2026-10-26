@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adoptá un área natural"
+title: "Adoptá un Área Natural"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopta-un-area-natural/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Adoptá un área natural!
+# ¡Adoptá un Área Natural!
 
 ## Resumen
 Adoptá y limpiá un área natural. Hacé un inventario de las plantas y animales que viven en esa área. Describí su ubicación con relación a las otras especies. ¿Cómo dependen las unas de las otras?

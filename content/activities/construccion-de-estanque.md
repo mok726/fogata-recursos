@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Construcción de estanque"
+title: "Construcción de Estanque"
 duration: "3 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/construccion-de-estanque/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Construcción de estanque!
+# ¡Construcción de Estanque!
 
 ## Resumen
 Construyan un estanque para crear un nuevo hábitat para insectos, anfibios, plantas y otros. Asegúrense de plantar sólo especies nativas.

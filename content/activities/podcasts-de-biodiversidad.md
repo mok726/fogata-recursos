@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Podcasts de biodiversidad"
+title: "Podcasts de Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/podcasts-de-biodiversidad/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Podcasts de biodiversidad!
+# ¡Podcasts de Biodiversidad!
 
 ## Resumen
 Escuchá podcasts o documentales, ya sea de audio o video, sobre especies interesantes con tu grupo. Enviá respuestas a las preguntas, ¡incluyendo una grabación de cómo creés vos que suena un pepino de mar cuando lanza un chorro de agua!

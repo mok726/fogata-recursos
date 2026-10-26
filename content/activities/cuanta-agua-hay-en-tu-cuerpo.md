@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuánta agua hay en tu cuerpo?"
+title: "¿Cuánta Agua Hay en Tu Cuerpo?"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanta-agua-hay-en-tu-cuerpo/"
@@ -150,7 +150,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¿Cuánta agua hay en tu cuerpo?
+# ¿Cuánta Agua Hay en Tu Cuerpo?
 
 ## Resumen
 El agua constituye aproximadamente el 70 por ciento del peso de un ser humano. Una persona no podría vivir sin agua. En esta actividad, los participantes calculan cuánta agua hay en su propio cuerpo.

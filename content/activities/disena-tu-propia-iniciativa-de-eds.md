@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diseñá tu propia iniciativa de EDS al aire libre"
+title: "Diseñá Tu Propia Iniciativa de EDS al Aire Libre"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/disena-tu-propia-iniciativa-de-eds/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Diseñá tu propia iniciativa de EDS al aire libre!
+# ¡Diseñá Tu Propia Iniciativa de EDS al Aire Libre!
 
 ## Resumen
 ¿Cómo se podría mejorar la EDS en tu ciudad? ¡Ahora es el momento de averiguarlo! Las actividades de EDS que se realizan al aire libre son una excelente manera de conectar con la naturaleza y aprender más sobre el mundo en el que vivimos.

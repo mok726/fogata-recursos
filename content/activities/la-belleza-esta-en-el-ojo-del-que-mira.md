@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La belleza está en el ojo del que mira"
+title: "La Belleza Está en el Ojo del que Mira"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-belleza-esta-en-el-ojo-del-que-mira/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡La belleza está en el ojo del que mira!
+# ¡La Belleza Está en el Ojo del que Mira!
 
 ## Resumen
 ¿Tu supermercado o feria local vende frutas y verduras "feas" que la gente parece no querer comer? Convencé a tus padres para que empiecen a comprarlas para que no se desperdicien. Vas a descubrir que saben igual de bien que sus contrapartes de buen aspecto.

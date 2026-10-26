@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuál es tu ciudad favorita?"
+title: "¿Cuál Es Tu Ciudad Favorita?"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-es-tu-ciudad-favorita/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¿Cuál es tu ciudad favorita?
+# ¿Cuál Es Tu Ciudad Favorita?
 
 ## Resumen
 Hemos aprendido sobre muchas ciudades diferentes en el capítulo anterior. ¿Cuál te gusta más y por qué? Elegí una ciudad mencionada antes e investigá más sobre ella. Podés leer un libro, ver un documental o ver algunos videos relacionados en YouTube.

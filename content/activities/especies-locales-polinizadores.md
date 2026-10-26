@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies locales"
+title: "Especies Locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-locales-polinizadores/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Especies locales!
+# ¡Especies Locales!
 
 ## Resumen
 Preguntá o investigá para determinar cuáles son los principales polinizadores en tu región. Elegí una especie e investigala a fondo para descubrir todo sobre ella. ¿Qué flores poliniza? ¿Cómo lo hace? ¿Cuál es su hábitat?

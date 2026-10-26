@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lista de seguridad eléctrica"
+title: "Lista de Seguridad Eléctrica"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/lista-seguridad-electrica/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Lista de seguridad eléctrica!
+# ¡Lista de Seguridad Eléctrica!
 
 ## Resumen
 La electricidad es una forma de energía importante, pero puede ser muy peligrosa. Creá una lista de verificación para mantenerte seguro en casa y en la escuela.

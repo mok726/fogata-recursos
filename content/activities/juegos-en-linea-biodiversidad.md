@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juegos en línea"
+title: "Juegos en Línea"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juegos-en-linea-biodiversidad/"
@@ -170,7 +170,7 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías
 ---
 
-# ¡Juegos en línea!
+# ¡Juegos en Línea!
 
 ## Resumen
 Explorá una página web de biodiversidad como www.biodiversity911.org o www.eol.org. Jugá dos juegos en línea. Por ejemplo, aprendé cómo se llaman las especies al jugar un juego de emparejamiento en www.eol.org/games/identify_the_image. Visitá un mapa interactivo. Tomá un concurso en línea.

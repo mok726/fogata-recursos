@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Batería de papa"
+title: "Batería de Papa"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/bateria-de-papa/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Batería de papa!
+# ¡Batería de Papa!
 
 ## Resumen
 ¿Tenés curiosidad sobre la electricidad? Construí tu propia batería casera usando papas, clavos galvanizados, trozos de cobre y cables. ¡Aprendé cómo funciona la electricidad mientras te divertís!

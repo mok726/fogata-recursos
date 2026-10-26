@@ -1,5 +1,5 @@
 ---
-title: "¿Dónde está el agua?"
+title: "¿Dónde Está el Agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/donde-esta-el-agua/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¿Dónde está el agua?
+# ¿Dónde Está el Agua?
 
 ## Resumen
 Dibujá un mapa del mundo mostrando la distribución del agua dulce y analizá las desigualdades en el acceso al agua.

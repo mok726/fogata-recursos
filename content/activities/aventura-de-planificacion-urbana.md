@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aventura de planificación urbana"
+title: "Aventura de Planificación Urbana"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/aventura-de-planificacion-urbana/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Aventura de planificación urbana!
+# ¡Aventura de Planificación Urbana!
 
 ## Resumen
 Mirá un documental o leé un libro sobre planificación urbana. Tratá de entender qué pueden hacer los planificadores urbanos para mejorar la vida en la ciudad. Prestá atención al diseño de tráfico, diseño de espacios verdes y diseño de edificios verdes, y averiguá cómo contribuyen a un futuro resiliente.

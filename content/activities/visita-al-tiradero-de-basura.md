@@ -1,5 +1,5 @@
 ---
-title: "Visitá al basural"
+title: "Visitá al Basural"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-tiradero-de-basura/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental.
 ---
 
-# ¡Visitá al basural!
+# ¡Visitá al Basural!
 
 ## Resumen
 Visitá el basural local, analizá su sostenibilidad y hablá con las autoridades.

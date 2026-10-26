@@ -1,5 +1,5 @@
 ---
-title: "Ahorrá agua en casa y escuela"
+title: "Ahorrá Agua en Casa y Escuela"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ahorra-agua-en-casa-y-escuela/"
@@ -134,7 +134,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Ahorrá agua en casa y escuela!
+# ¡Ahorrá Agua en Casa y Escuela!
 
 ## Resumen
 Pensá en formas de ahorrar agua y hacé dibujos para exponerlos.

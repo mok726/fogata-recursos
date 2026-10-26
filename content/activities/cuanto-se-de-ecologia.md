@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuánto sé de Ecología?"
+title: "¿Cuánto Sé de Ecología?"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanto-se-de-ecologia/"
@@ -154,7 +154,7 @@ rama_rovers:
 # Actividad original de Mariano S. Cosentino
 ---
 
-# ¿Cuánto sé de Ecología?
+# ¿Cuánto Sé de Ecología?
 
 ## Resumen
 Vamos a pensar y descubrir cuánto es nuestro impacto en la ecología y el medio ambiente, y después vamos a pensar cómo disminuir ese impacto.

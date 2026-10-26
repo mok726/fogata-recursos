@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentos genéticamente modificados"
+title: "Alimentos Genéticamente Modificados"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-geneticamente-modificados/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Alimentos genéticamente modificados!
+# ¡Alimentos Genéticamente Modificados!
 
 ## Resumen
 En una tienda de comestibles encuentra cinco tipos de alimentos que hayan sido genéticamente modificados. ¿Es fácil o difícil encontrarlos? ¿En qué se diferencian de sus parientes que no han sido genéticamente modificados? ¿En qué aspectos son iguales? Encontrá tres argumentos a favor y tres argumentos en contra de la modificación genética de alimentos.

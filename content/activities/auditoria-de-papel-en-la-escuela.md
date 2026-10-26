@@ -1,5 +1,5 @@
 ---
-title: "Auditoría de papel en la escuela"
+title: "Auditoría de Papel en la Escuela"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-papel-en-la-escuela/"
@@ -136,7 +136,7 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Auditoría de papel en la escuela!
+# ¡Auditoría de Papel en la Escuela!
 
 ## Resumen
 Averiguá cuánto papel se usa en tu escuela y toma medidas para reducirlo.

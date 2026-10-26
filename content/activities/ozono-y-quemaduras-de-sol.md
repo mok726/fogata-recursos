@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ozono y quemaduras de sol"
+title: "Ozono y Quemaduras de Sol"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ozono-y-quemaduras-de-sol/"
@@ -147,7 +147,7 @@ rama_rovers:
   - 33
 ---
 
-# ¡Ozono y quemaduras de sol!
+# ¡Ozono y Quemaduras de Sol!
 
 ## Resumen
 1. Identifiquen si su país o región se encuentra bajo riesgos por ozono y cómo esto afecta su vida.

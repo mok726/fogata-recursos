@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Las tres formas del agua"
+title: "Las Tres Formas del Agua"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tres-formas-del-agua/"
@@ -155,7 +155,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Las tres formas del agua!
+# ¡Las Tres Formas del Agua!
 
 ## Resumen
 El agua es la única sustancia que se encuentra naturalmente en la Tierra como sólido, líquido y gas. En esta actividad, los participantes realizan un experimento para observar el agua en sus tres estados.

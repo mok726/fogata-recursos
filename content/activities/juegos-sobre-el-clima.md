@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juegos sobre el clima"
+title: "Juegos sobre el Clima"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/juegos-sobre-el-clima/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Juegos sobre el clima!
+# ¡Juegos sobre el Clima!
 
 ## Resumen
 Usá el glosario al final de esta insignia para jugar un juego de 'Pictionary de Cambio Climático'.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comida y energía"
+title: "Comida y Energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-y-energia/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Comida y energía!
+# ¡Comida y Energía!
 
 ## Resumen
 Diferentes alimentos requieren diferentes cantidades de energía para producirse. Por ejemplo, se necesita 25 veces más energía para producir una caloría de carne que para producir una caloría de maíz. Investigá tu comida favorita y descubrí cuánta energía se necesita para producirla.

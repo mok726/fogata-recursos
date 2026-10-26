@@ -1,5 +1,5 @@
 ---
-title: "¿Cuál es la Más Aterradora de Todas?"
+title: "¿Cuál Es la Más Aterradora de Todas?"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-es-la-mas-aterradora/"
@@ -133,7 +133,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¿Cuál es la Más Aterradora de Todas?
+# ¿Cuál Es la Más Aterradora de Todas?
 
 ## Resumen
 Compartí tus ideas sobre cuál amenaza natural considerás más aterradora, explicá por qué y diseñá un superpoder que te mantendría a salvo.

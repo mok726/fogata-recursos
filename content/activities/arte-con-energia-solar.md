@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte con energía solar"
+title: "Arte con Energía Solar"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-con-energia-solar/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Arte con energía solar!
+# ¡Arte con Energía Solar!
 
 ## Resumen
 Realizá un experimento solar simple para tener una idea de cuánta energía contiene una cantidad relativamente pequeña de luz solar, ¡y creá arte al mismo tiempo!

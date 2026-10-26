@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visitá a granjas"
+title: "Visitá a Granjas"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-granjas/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 29  # Indago causas de problemáticas sociales
 ---
 
-# ¡Visitá a granjas!
+# ¡Visitá a Granjas!
 
 ## Resumen
 Visitá tres granjas de tu área que utilicen diferentes técnicas de cultivo y/o que produzcan diferentes productos agrícolas. Por ejemplo, podrías visitar una granja lechera, una huerta orgánica, un viñedo o una granja de cereales convencional. Preguntá a los agricultores qué clase de desafíos se les presentan y cómo la biodiversidad les ayuda a enfrentar esos desafíos.

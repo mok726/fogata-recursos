@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuenca en las estaciones"
+title: "Cuenca en las Estaciones"
 duration: "1 año (4 visitas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuenca-en-las-estaciones/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Cuenca en las estaciones!
+# ¡Cuenca en las Estaciones!
 
 ## Resumen
 Visiten una cuenca de agua al menos una vez en cada estación del año. Saquen fotografías o hagan un dibujo de la vida animal y vegetal presente en cada estación. Registren la temperatura y describan las condiciones del tiempo atmosférico.

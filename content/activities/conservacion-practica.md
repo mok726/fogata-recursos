@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conservación práctica"
+title: "Conservación Práctica"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/conservacion-practica/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Conservación práctica!
+# ¡Conservación Práctica!
 
 ## Resumen
 Comprométete en la conservación de la biodiversidad. Únete a una organización de conservación. Visitá un centro de rescate de animales salvajes y ofrecete a ayudar en el centro durante un periodo de tiempo. Informá a tu grupo acerca de tus actividades, sobre lo que te interesa y cómo tus esfuerzos están ayudando a la biodiversidad.

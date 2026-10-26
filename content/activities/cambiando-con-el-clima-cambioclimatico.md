@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cambiando con el clima: los bosques"
+title: "Cambiando con el Clima: Los Bosques"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambiando-con-el-clima-cambioclimatico/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 32 # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Cambiando con el clima!
+# ¡Cambiando con el Clima!
 
 ## Resumen
 El cambio climático afecta a los bosques y, a su vez, es afectado por estos. ¡El funcionamiento y la composición de los bosques pueden cambiar con cambios de temperatura tan pequeños como 1 °C!

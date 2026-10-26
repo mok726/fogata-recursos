@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Increíbles animales que se adaptan"
+title: "Increíbles Animales que Se Adaptan"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/increibles-animales-que-se-adaptan/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Increíbles animales que se adaptan!
+# ¡Increíbles Animales que Se Adaptan!
 
 ## Resumen
 Diferentes animales han evolucionado durante generaciones para adaptarse al medio ambiente en el cual viven. Inventá tu propio animal y describí cómo se ha adaptado durante los años para sobrevivir a su medio ambiente.

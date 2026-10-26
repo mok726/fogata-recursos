@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exploración en la copa de los árboles"
+title: "Exploración en la Copa de los Árboles"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-en-la-copa-de-los-arboles/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Exploración en la copa de los árboles!
+# ¡Exploración en la Copa de los Árboles!
 
 ## Resumen
 Exploren la biodiversidad que vive fuera del suelo. Coloquen un papel grande o una sábana debajo de una rama cercana al suelo. Sacudan la rama. Observen qué sale volando cuando sacuden la rama. Examinen lo que cae de la rama, como hojas, insectos, hongos y plantas.

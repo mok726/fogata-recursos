@@ -1,5 +1,5 @@
 ---
-title: "Desastres relacionados con el clima"
+title: "Desastres Relacionados con el Clima"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desastres-relacionados-con-el-clima/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Desastres relacionados con el clima!
+# ¡Desastres Relacionados con el Clima!
 
 ## Resumen
 Investigá desastres relacionados con el cambio climático y cómo afectan a las personas.

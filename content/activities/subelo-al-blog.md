@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Subilo al blog!"
+title: "¡Subilo al Blog!"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/subelo-al-blog/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 8  # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Subilo al blog!
+# ¡Subilo al Blog!
 
 ## Resumen
 Creen un blog de su grupo sobre el cambio climático. Pueden escribir sobre la forma en que los humanos están causando el cambio climático y sobre la importancia de tener unos estilos de vida más verdes.

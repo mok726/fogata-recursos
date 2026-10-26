@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Recaudación de fondos"
+title: "Recaudación de Fondos"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/recaudacion-de-fondos-biodiversidad/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Recaudación de fondos!
+# ¡Recaudación de Fondos!
 
 ## Resumen
 Organicen y dirijan una actividad para recolectar fondos para una causa relacionada con la biodiversidad.

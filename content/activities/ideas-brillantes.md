@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas brillantes"
+title: "Ideas Brillantes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-brillantes/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 18 # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Ideas brillantes!
+# ¡Ideas Brillantes!
 
 ## Resumen
 Hay un montón de ideas y proyectos geniales sobre la eficiencia energética allá afuera. Por ejemplo, la irrigación por goteo con energía solar está ayudando a los agricultores de Benín, y una planta hidráulica a pequeña escala sirve para llevar electricidad a los hogares y escuelas de Tayikistán.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Clima y salud"
+title: "Clima y Salud"
 duration: "2.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-salud/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 22 # Promuevo y defiendo los Derechos Humanos
 ---
 
-# ¡Clima y salud!
+# ¡Clima y Salud!
 
 ## Resumen
 Estudiá un problema de salud o una enfermedad que se presente o se propague más fácilmente en ciertos climas, como la malaria, la fiebre del dengue, la insolación, los problemas respiratorios, la contaminación por alimentos o las alergias.

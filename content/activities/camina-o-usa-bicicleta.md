@@ -1,5 +1,5 @@
 ---
-title: "Caminá o usá bicicleta"
+title: "Caminá o Usá Bicicleta"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/camina-o-usa-bicicleta/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades que brinda la vida en la naturaleza.
 ---
 
-# ¡Caminá o usá bicicleta!
+# ¡Caminá o Usá Bicicleta!
 
 ## Resumen
 Caminá o usá tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.

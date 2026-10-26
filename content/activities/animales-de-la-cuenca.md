@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Animales de la cuenca hidrográfica"
+title: "Animales de la Cuenca Hidrográfica"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/animales-de-la-cuenca/"
@@ -156,7 +156,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Animales de la cuenca hidrográfica!
+# ¡Animales de la Cuenca Hidrográfica!
 
 ## Resumen
 Las cuencas hidrográficas no solo permiten que el agua drene y se filtre en el suelo, sino que también proporcionan un hábitat importante para la vida silvestre acuática y terrestre. En esta actividad, los participantes investigan animales que viven en su cuenca hidrográfica y crean pósters informativos.

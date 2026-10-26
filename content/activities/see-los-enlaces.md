@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "S.E.E los enlaces"
+title: "S.E.E los Enlaces"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/see-los-enlaces/"
@@ -147,7 +147,7 @@ rama_rovers:
   - 33
 ---
 
-# ¡S.E.E los enlaces!
+# ¡S.E.E los Enlaces!
 
 ## Resumen
 Explorar los vínculos entre Sociedad, Medio Ambiente y Economía (= S.E.E. por su sigla en inglés) al observar la función de cada ecosistema, los componentes y los posibles impactos en otro.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Apoyá a las abejas!"
+title: "¡Apoyá a las Abejas!"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/apoya-a-las-abejas/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Apoyá a las abejas!
+# ¡Apoyá a las Abejas!
 
 ## Resumen
 Al cuidar y proteger a las abejas, los apicultores dedican su tiempo a hacer que nuestro planeta sea saludable y hermoso. ¿Qué mejor manera de mostrar tu agradecimiento que apoyando su trabajo? Organizá un día en tu escuela o centro comunitario donde los apicultores locales puedan mostrar y vender sus productos.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contaminación local por plásticos"
+title: "Contaminación Local por Plásticos"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/contaminacion-local-plastico/"
@@ -162,7 +162,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Contaminación local por plásticos!
+# ¡Contaminación Local por Plásticos!
 
 ## Resumen
 Investigá el impacto de la contaminación plástica en tu ecosistema local. Si vivís cerca de una playa o río, investigá la contaminación marina. Creá un breve documental con tus hallazgos.

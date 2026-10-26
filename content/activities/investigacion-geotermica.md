@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigación geotérmica"
+title: "Investigación Geotérmica"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-geotermica/"
@@ -154,7 +154,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigación geotérmica!
+# ¡Investigación Geotérmica!
 
 ## Resumen
 La energía geotérmica es el calor que está debajo de la Tierra. Puede usarse para calentar hogares y producir electricidad. Investigá si tu comunidad podría usar energía geotérmica.

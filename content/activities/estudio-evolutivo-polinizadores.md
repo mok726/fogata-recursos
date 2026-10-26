@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudio evolutivo"
+title: "Estudio Evolutivo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudio-evolutivo-polinizadores/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Estudio evolutivo!
+# ¡Estudio Evolutivo!
 
 ## Resumen
 Los polinizadores prefieren las flores nativas de su área porque han evolucionado junto con estas plantas y son los más adecuados para alimentarse de ellas. Investigá qué flores son nativas de tu área y qué polinizadores evolucionaron junto con ellas.

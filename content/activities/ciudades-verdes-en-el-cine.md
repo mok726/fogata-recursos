@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ciudades verdes en el cine"
+title: "Ciudades Verdes en el Cine"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciudades-verdes-en-el-cine/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Ciudades verdes en el cine!
+# ¡Ciudades Verdes en el Cine!
 
 ## Resumen
 ¿Cómo se ve una ciudad verde? ¡Intentá encontrar la respuesta en el cine! Organizá una proyección grupal. Después de verla, discutí la película: ¿Cómo la describirías? ¿Cómo se convirtió en una ciudad verde?

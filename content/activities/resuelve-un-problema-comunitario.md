@@ -1,5 +1,5 @@
 ---
-title: "Resuelve un problema comunitario"
+title: "Resuelve un Problema Comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/resuelve-un-problema-comunitario/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Resuelve un problema comunitario!
+# ¡Resuelve un Problema Comunitario!
 
 ## Resumen
 Elegí un problema que consideres inaceptable en tu comunidad y hacé algo para resolverlo.

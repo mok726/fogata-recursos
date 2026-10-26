@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pozas de marea"
+title: "Pozas de Marea"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pozas-de-marea/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Pozas de marea!
+# ¡Pozas de Marea!
 
 ## Resumen
 Observá la flora y la fauna en pozas de marea. Construí un visor subacuático para obtener una vista como la del ojo de un pez (o un cangrejo, o un pepino de mar o…). Hacé un dibujo de la playa y de los lugares donde podés encontrar las diferentes especies.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Del Campo a tu Plato"
+title: "Del Campo a Tu Plato"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/del-campo-a-tu-plato/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Del Campo a tu Plato
+# Del Campo a Tu Plato
 
 ## Resumen
 Investigá el ciclo de vida de un alimento desde su producción hasta tu plato, evaluando su impacto ambiental.

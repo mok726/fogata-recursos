@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversión con películas"
+title: "Diversión con Películas"
 duration: "2.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-peliculas/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 36 # Asumo un estilo de vida en coherencia con mis creencias
 ---
 
-# ¡Diversión con películas!
+# ¡Diversión con Películas!
 
 ## Resumen
 En grupo, vean un documental sobre el cambio climático, por ejemplo, "Una Verdad Incómoda" o "Persiguiendo el Hielo". Luego, discutan sobre sus impresiones con relación al documental.

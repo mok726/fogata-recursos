@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Actuando el ciclo del carbono"
+title: "Actuando el Ciclo del Carbono"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/actuando-ciclo-carbono/"
@@ -165,7 +165,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Actuando el ciclo del carbono!
+# ¡Actuando el Ciclo del Carbono!
 
 ## Resumen
 Aprendé sobre el ciclo del carbono y creá un video, sketch, dibujo animado u otra técnica creativa para explicarlo. ¡Presentá tu creación a tu grupo o familia!

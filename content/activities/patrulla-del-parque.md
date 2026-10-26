@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Patrulla del parque"
+title: "Patrulla del Parque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/patrulla-del-parque/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Patrulla del parque!
+# ¡Patrulla del Parque!
 
 ## Resumen
 Explorá tus parques locales y áreas naturales con una mirada hacia qué tan amigables son con los polinizadores. ¿Hay diversidad de plantas con flores nativas? ¿Hay fuentes de agua o lugares de anidación? ¿Usan pesticidas? ¿Hay carteles informativos para crear conciencia pública sobre la importancia de los polinizadores?

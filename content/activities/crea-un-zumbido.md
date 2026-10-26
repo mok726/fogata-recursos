@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Creá un zumbido"
+title: "Creá un Zumbido"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/crea-un-zumbido/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Creá un zumbido!
+# ¡Creá un Zumbido!
 
 ## Resumen
 Organizá un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad. Traé ideas tangibles y organizá demostraciones para que la gente pueda usar estas ideas en casa. Estas podrían incluir pasos para construir hoteles para abejas, plantar flores nativas, usar alternativas a los pesticidas o agregar fuentes de agua a los jardines.

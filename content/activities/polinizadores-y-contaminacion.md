@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Polinizadores y contaminación"
+title: "Polinizadores y Contaminación"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/polinizadores-y-contaminacion/"
@@ -157,7 +157,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Polinizadores y contaminación!
+# ¡Polinizadores y Contaminación!
 
 ## Resumen
 Polinizadores y contaminación - uno malo, uno genial, ambos vinculados. ¿Cuál es la situación de la contaminación del aire en tu región? Invitá a un experto local en calidad del aire para que hable sobre esto con tu escuela. ¿La contaminación del aire está afectando a la vida silvestre local, incluidos los polinizadores? ¿Cuáles son las principales causas de la contaminación del aire? ¿Qué recomienda el experto?

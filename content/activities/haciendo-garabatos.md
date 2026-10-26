@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haciendo garabatos"
+title: "Haciendo Garabatos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/haciendo-garabatos/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Haciendo garabatos!
+# ¡Haciendo Garabatos!
 
 ## Resumen
 Imaginá que el cambio climático afectará grandemente al lugar donde vivís en el futuro, por ejemplo, habrán muchas más tormentas o el tiempo se hará mucho más cálido.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carta por las energías renovables"
+title: "Carta por las Energías Renovables"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-energias-renovables/"
@@ -155,7 +155,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Carta por las energías renovables!
+# ¡Carta por las Energías Renovables!
 
 ## Resumen
 Investigá qué porcentaje de la energía en tu país proviene de fuentes renovables. Si creés que debería ser más, escribí una carta a tu gobierno pidiendo más inversión en energías renovables y medidas de eficiencia energética.

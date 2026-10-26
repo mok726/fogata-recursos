@@ -1,5 +1,5 @@
 ---
-title: "Visitá al mercado local - fibras"
+title: "Visitá al Mercado Local - Fibras"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-mercado-local-fibras/"
@@ -142,7 +142,7 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Visitá al mercado local!
+# ¡Visitá al Mercado Local!
 
 ## Resumen
 Visitá un mercado local para aprender sobre productos y textiles locales e importados.

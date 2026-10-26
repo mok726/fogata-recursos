@@ -1,5 +1,5 @@
 ---
-title: "Recursos para producir alimentos"
+title: "Recursos para Producir Alimentos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/recursos-para-producir-alimentos/"
@@ -146,7 +146,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Recursos para producir alimentos!
+# ¡Recursos para Producir Alimentos!
 
 ## Resumen
 Investigá cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.

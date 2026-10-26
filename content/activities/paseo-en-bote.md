@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Paseo en bote"
+title: "Paseo en Bote"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/paseo-en-bote/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Paseo en bote!
+# ¡Paseo en Bote!
 
 ## Resumen
 Tomá un paseo en bote. Observá todas las plantas (algas marinas) y animales (aves, peces, crustáceos, etc.) que encuentres, escuches y huelas. Creá un pequeño relato para resumir tus hallazgos.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ciencia ciudadana - aves"
+title: "Ciencia Ciudadana - Aves"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciencia-ciudadana-aves/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Ciencia ciudadana - aves!
+# ¡Ciencia Ciudadana - Aves!
 
 ## Resumen
 Participen en un proyecto científico popular en el cual personas sin un entrenamiento científico especial salen a la naturaleza y recolectan información científica, la cual, posteriormente, será utilizada por los expertos. BirdLife International dirige un fantástico proyecto de este tipo sobre aves llamado 'WorldBirds' (Aves del Mundo).

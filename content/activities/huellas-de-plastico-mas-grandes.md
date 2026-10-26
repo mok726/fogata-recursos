@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Las huellas de plástico más grandes"
+title: "Las Huellas de Plástico Más Grandes"
 duration: "20-25 minutos (más seguimiento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/huellas-de-plastico-mas-grandes/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 27  # Planifico y desarrollo acciones comunitarias sostenibles
 ---
 
-# ¡Las huellas de plástico más grandes!
+# ¡Las Huellas de Plástico Más Grandes!
 
 ## Resumen
 Organizá un "enfrentamiento plástico" entre dos equipos durante un campamento o reunión. Todos los participantes guardarán el plástico que usen durante la duración del evento, desde bolsas de plástico hasta botellas de agua y envases de alimentos. Cada equipo crea una "montaña" de todo lo recogido y al final comparan. Esta actividad ayuda a reflexionar sobre la cantidad de plástico que consumimos y cómo reducirla.

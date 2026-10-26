@@ -1,5 +1,5 @@
 ---
-title: "Energía renovable"
+title: "Energía Renovable"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-renovable/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Energía renovable!
+# ¡Energía Renovable!
 
 ## Resumen
 Averiguá sobre energía renovable y construí un modelo de demostración.

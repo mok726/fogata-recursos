@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diario de alimentos - Semanal"
+title: "Diario de Alimentos - Semanal"
 duration: "1 semana (seguimiento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-semanal/"
@@ -152,7 +152,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Diario de alimentos!
+# ¡Diario de Alimentos!
 
 ## Resumen
 ¿Has notado qué tipo de alimentos comen cada día? Bueno, ¡es hora de que vos y tu grupo lleven un diario de sus alimentos! Todos ustedes deberán escribir aquello que comen durante una semana.

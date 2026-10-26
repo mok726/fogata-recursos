@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Autobiografía de un cultivo bioenergético"
+title: "Autobiografía de un Cultivo Bioenergético"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/autobiografia-bioenergetica/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Autobiografía de un cultivo bioenergético!
+# ¡Autobiografía de un Cultivo Bioenergético!
 
 ## Resumen
 La agricultura consume y proporciona energía. Cada miembro del grupo elige un cultivo bioenergético (caña de azúcar, maíz, soja, algas, etc.) y escribe su "autobiografía", explicando cuánta energía consume y produce.

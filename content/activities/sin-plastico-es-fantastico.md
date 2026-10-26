@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sin plástico es fantástico"
+title: "Sin Plástico Es Fantástico"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/sin-plastico-es-fantastico/"
@@ -164,7 +164,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Sin plástico es fantástico!
+# ¡Sin Plástico Es Fantástico!
 
 ## Resumen
 Organizá un evento comunitario para crear conciencia sobre la contaminación plástica y proporcionar soluciones prácticas. Mostrá a tu comunidad que vivir sin plástico es posible y ¡fantástico!

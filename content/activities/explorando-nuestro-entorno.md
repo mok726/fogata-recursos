@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Explorando nuestro entorno"
+title: "Explorando Nuestro Entorno"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-nuestro-entorno/"
@@ -164,7 +164,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Explorando nuestro entorno
+# Explorando Nuestro Entorno
 
 ## Resumen
 Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pasa a nuestro alrededor. En esta actividad, los participantes salen al aire libre a explorar su entorno, buscando elementos naturales y evidencias de la intervención humana, reflexionando sobre el impacto en el medio ambiente.

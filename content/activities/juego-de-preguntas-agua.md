@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de preguntas sobre el agua"
+title: "Juego de Preguntas sobre el Agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-preguntas-agua/"
@@ -150,7 +150,7 @@ rama_rovers:
   - 4
 ---
 
-# ¡Juego de preguntas sobre el agua!
+# ¡Juego de Preguntas sobre el Agua!
 
 ## Resumen
 El agua es un recurso vital que es la base de la vida. En esta actividad, los participantes aprenden datos interesantes sobre el agua a través de un juego de emparejamiento de preguntas y respuestas.

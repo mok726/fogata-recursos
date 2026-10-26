@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies en peligro y consumo"
+title: "Especies en Peligro y Consumo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-en-peligro-y-consumo/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Especies en peligro y consumo!
+# ¡Especies en Peligro y Consumo!
 
 ## Resumen
 Aprendé acerca de las especies en peligro de extinción y cómo las decisiones de los consumidores les afectan directa e indirectamente. Por ejemplo, comer sopa de aleta de tiburón afecta directamente a los tiburones porque ellos son cazados por esta razón. Comer mucha carne puede afectar indirectamente a las especies de los bosques pluviales en peligro de extinción porque sus hábitats son destruidos para crear prados para el pastoreo de ganado.

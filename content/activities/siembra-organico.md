@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Siembra orgánico"
+title: "Siembra Orgánico"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/siembra-organico/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Siembra orgánico!
+# ¡Siembra Orgánico!
 
 ## Resumen
 La agricultura orgánica ayuda a nuestro suelo a mantenerse saludable y a conservar su habilidad de almacenar carbono, lo cual ayuda a reducir el cambio climático. Buscá productos orgánicos y de comercio justo que estén disponibles en tus supermercados o mercados de agricultores locales.

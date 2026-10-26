@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Bacterias y mamíferos marinos"
+title: "Bacterias y Mamíferos Marinos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/bacterias-y-mamiferos-marinos/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Bacterias y mamíferos marinos!
+# ¡Bacterias y Mamíferos Marinos!
 
 ## Resumen
 Aprendé cómo las bacterias que existen en el agua marina y los mamíferos marinos ayudan a descomponer y a remover desperdicios y contaminación. Compartí tus hallazgos con tu grupo.

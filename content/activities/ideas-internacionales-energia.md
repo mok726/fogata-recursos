@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas internacionales sobre energía"
+title: "Ideas Internacionales sobre Energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-internacionales-energia/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ideas internacionales sobre energía!
+# ¡Ideas Internacionales sobre Energía!
 
 ## Resumen
 ¿Tenés amigos de otros países? Hablá con ellos sobre sus hábitos energéticos. ¿Qué es más "verde" en su estilo de vida? ¿Qué pueden aprender el uno del otro?

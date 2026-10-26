@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mínimo impacto a la naturaleza"
+title: "Mínimo Impacto a la Naturaleza"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/minimo-impacto-naturaleza/"
@@ -154,7 +154,7 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Mínimo impacto a la naturaleza!
+# ¡Mínimo Impacto a la Naturaleza!
 
 ## Resumen
 Explorar lo que sucederá a nivel local y global si seguimos talando la selva tropical al mismo ritmo que lo hacemos en la actualidad.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué está en riesgo?"
+title: "¿Qué Está en Riesgo?"
 duration: "Semana 1: investigación, Semana 2: 1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-esta-en-riesgo/"
@@ -157,7 +157,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¿Qué está en riesgo?
+# ¿Qué Está en Riesgo?
 
 ## Resumen
 Esta actividad se basa en el juego Piedra-Papel-Tijera (PPT) y permitirá a los jóvenes experimentar los efectos del impacto de las especies invasoras, tanto en un ecosistema como en las especies nativas dentro del mismo. El juego es adaptable y los adultos pueden incluir algunas especies en riesgo de su propia localidad que los jóvenes pueden representar.

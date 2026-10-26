@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Polinizadores y la economía"
+title: "Polinizadores y la Economía"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/polinizadores-y-la-economia/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Polinizadores y la economía!
+# ¡Polinizadores y la Economía!
 
 ## Resumen
 Investigá para determinar cuánto depende la economía de tu país de los polinizadores. ¿Una gran parte de la economía de tu país depende de la agricultura? ¿Cuál es el papel de los polinizadores en el cultivo de estos productos? Hablá con expertos locales en agricultura y vida silvestre para determinar el papel de los polinizadores en la economía.

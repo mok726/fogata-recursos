@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Es verde tu escuela?"
+title: "¿Es Verde Tu Escuela?"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-verde-tu-escuela/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¿Es verde tu escuela?
+# ¿Es Verde Tu Escuela?
 
 ## Resumen
 Evaluá qué tan verde es tu escuela. ¿Cuál es la huella de carbono de tu escuela? ¿Cuánto papel se desperdicia? ¿Qué tan efectivos son los acuerdos de reciclaje? ¿Cuánta comida se desperdicia en el comedor?

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Canción de viento o sol"
+title: "Canción de Viento o Sol"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-viento-o-sol/"
@@ -158,7 +158,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Canción de viento o sol!
+# ¡Canción de Viento o Sol!
 
 ## Resumen
 ¡Usá la música para aprender sobre energías renovables! Creá una canción sobre energía eólica usando el estribillo de "Blowing in the Wind" de Bob Dylan, o sobre energía solar con "Here Comés the Sun" de The Beatles.

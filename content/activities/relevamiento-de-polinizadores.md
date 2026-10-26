@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Relevamiento de polinizadores"
+title: "Relevamiento de Polinizadores"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/relevamiento-de-polinizadores/"
@@ -165,7 +165,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Relevamiento de polinizadores!
+# ¡Relevamiento de Polinizadores!
 
 ## Resumen
 Salí al aire libre, ya sea en tu jardín, un parque local, el jardín de tu escuela o un jardín comunitario. Seguí los pasos para realizar un relevamiento de polinizadores. Identificá tantos polinizadores como puedas: abejas, pájaros, mariposas, mosquitos o ardillas.

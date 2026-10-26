@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Jugá a salvar el océano"
+title: "Jugá a Salvar el Océano"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juega-a-salvar-el-oceano/"
@@ -161,7 +161,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies
 ---
 
-# ¡Jugá a salvar el océano!
+# ¡Jugá a Salvar el Océano!
 
 ## Resumen
 "Maneras tontas de matar al océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.

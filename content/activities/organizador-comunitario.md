@@ -1,5 +1,5 @@
 ---
-title: "Organizador comunitario"
+title: "Organizador Comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizador-comunitario/"
@@ -145,7 +145,7 @@ rama_rovers:
   - 27  # Me involucro, planifico y desarrollo acciones comunitarias sostenibles.
 ---
 
-# ¡Organizador comunitario!
+# ¡Organizador Comunitario!
 
 ## Resumen
 Organizá un evento para elevar la conciencia pública sobre un aspecto local determinado.

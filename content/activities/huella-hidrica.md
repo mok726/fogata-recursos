@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Huella hídrica"
+title: "Huella Hídrica"
 duration: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/huella-hidrica/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Huella hídrica!
+# ¡Huella Hídrica!
 
 ## Resumen
 El agua limpia es vital para nuestra salud; dependemos del agua para muchas, si no todas, nuestras actividades diarias. Los patrones cambiantes del clima ya están amenazando a nuestros lagos y ríos.

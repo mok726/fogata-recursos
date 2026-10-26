@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Excursión de campo"
+title: "Excursión de Campo"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Excursión de campo!
+# ¡Excursión de Campo!
 
 ## Resumen
 Organizá un viaje de un día con tu grupo a una zona rural cercana. Puede ser una granja, un pueblo o cualquier comunidad rural. Llevá cámaras, lapiceras y papel para registrar observaciones. Prestá atención a las diferencias ambientales con tu vecindario. Durante el viaje, hablá con los agricultores locales sobre su relación con el área urbana (alimentos, transporte, servicios, educación, etc.).

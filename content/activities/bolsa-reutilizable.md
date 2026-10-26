@@ -1,5 +1,5 @@
 ---
-title: "Bolsa reutilizable"
+title: "Bolsa Reutilizable"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/bolsa-reutilizable/"
@@ -138,7 +138,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Bolsa reutilizable!
+# ¡Bolsa Reutilizable!
 
 ## Resumen
 Usá una bolsa reutilizable en lugar de fundas plásticas cuando vayas de compras.

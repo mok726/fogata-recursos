@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Y los efectos secundarios?"
+title: "¿Y los Efectos Secundarios?"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/y-los-efectos-secundarios/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¿Y los efectos secundarios?
+# ¿Y los Efectos Secundarios?
 
 ## Resumen
 Hablá con una amplia variedad de personas: agricultores, trabajadores, docentes, planificadores urbanos o funcionarios municipales. Preguntales sobre los efectos negativos de la urbanización que ocurrieron en tu ciudad. ¿Son notables? ¿Cuáles creen que son los principales efectos secundarios de la urbanización en tu área?

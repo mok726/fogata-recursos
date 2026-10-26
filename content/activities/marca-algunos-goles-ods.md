@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Marcá algunos goles con los ODS"
+title: "Marcá Algunos Goles con los ODS"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/marca-algunos-goles-ods/"
@@ -175,7 +175,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Marcá algunos goles con los ODS!
+# ¡Marcá Algunos Goles con los ODS!
 
 ## Resumen
 Creá un póster de los 17 Objetivos de Desarrollo Sostenible y explorá cómo la contaminación plástica se conecta con cada uno de ellos. Descubrí que los plásticos afectan a todos los ODS de alguna manera.

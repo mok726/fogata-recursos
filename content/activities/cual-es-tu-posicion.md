@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuál es tu posición sobre...?"
+title: "¿Cuál Es Tu Posición Sobre...?"
 duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-es-tu-posicion/"
@@ -151,7 +151,7 @@ rama_rovers:
   - 29
 ---
 
-# ¿Cuál es tu posición sobre...?
+# ¿Cuál Es Tu Posición Sobre...?
 
 ## Resumen
 Esta actividad busca explorar las actitudes, valores y perspectivas de las personas sobre la sostenibilidad y la naturaleza. También permite a los y las jóvenes desafiar respetuosamente diferentes posiciones y animarlos a comunicar positivamente sus opiniones.

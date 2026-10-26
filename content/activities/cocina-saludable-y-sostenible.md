@@ -1,5 +1,5 @@
 ---
-title: "Cociná saludable y sostenible"
+title: "Cociná Saludable y Sostenible"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cocina-saludable-y-sostenible/"
@@ -144,7 +144,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Cociná saludable y sostenible!
+# ¡Cociná Saludable y Sostenible!
 
 ## Resumen
 Aprendé a cocinar una comida sana y balanceada para tu familia, usando productos locales.

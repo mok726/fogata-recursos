@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Educa a tu Comunidad"
+title: "Educa a Tu Comunidad"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/educa-a-tu-comunidad/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 28  # Promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# Educa a tu Comunidad
+# Educa a Tu Comunidad
 
 ## Resumen
 Iniciá un programa educativo sobre dietas sanas para tu comunidad con talleres y charlas.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de lluvia ácida"
+title: "Experimento de Lluvia Ácida"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-lluvia-acida/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías
 ---
 
-# ¡Experimento de lluvia ácida!
+# ¡Experimento de Lluvia Ácida!
 
 ## Resumen
 Hacé un experimento para comprobar los efectos de la lluvia ácida en las plantas. Cultivá tres plantas en tres macetas diferentes bajo condiciones idénticas, excepto por el agua.

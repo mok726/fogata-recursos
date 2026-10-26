@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentos alrededor del mundo"
+title: "Alimentos Alrededor del Mundo"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-alrededor-del-mundo/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Alimentos alrededor del mundo!
+# ¡Alimentos Alrededor del Mundo!
 
 ## Resumen
 Elegí un producto alimenticio que se coma en varios países del mundo, como bananas, porotos, tomates o maíz. ¿Dónde se originó este alimento? ¿Existen diferentes variedades en los distintos países? ¿Cómo se cocina este alimento en los varios países? Probá tres recetas de tres países diferentes.

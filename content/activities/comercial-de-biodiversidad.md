@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comercial de biodiversidad"
+title: "Comercial de Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/comercial-de-biodiversidad/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Comercial de biodiversidad!
+# ¡Comercial de Biodiversidad!
 
 ## Resumen
 Realizá un comercial sobre la biodiversidad. Grabalo y publicalo en YouTube. Monitoreá el número de reproducciones (el número de personas que miran tu comercial) y los comentarios que aparecen en la página web durante un mes. Presentá un relato a tu grupo.

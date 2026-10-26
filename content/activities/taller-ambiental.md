@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Taller ambiental"
+title: "Taller Ambiental"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-ambiental/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Taller ambiental!
+# ¡Taller Ambiental!
 
 ## Resumen
 Organicen y dirijan un taller de trabajo sobre un tema del medio ambiente. Inviten a sus familias y a sus amigos a participar.

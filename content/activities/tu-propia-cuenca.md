@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tu propia cuenca hidrográfica"
+title: "Tu Propia Cuenca Hidrográfica"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-propia-cuenca/"
@@ -159,7 +159,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Tu propia cuenca hidrográfica!
+# ¡Tu Propia Cuenca Hidrográfica!
 
 ## Resumen
 Una cuenca hidrográfica es toda el área de tierra que envía agua de lluvia a un cuerpo de agua común, como un río, un arroyo, un lago o el océano. Una cuenca puede ser tan pequeña como el agua que drena en un charco en el patio trasero o tan grande como la cuenca del Océano Pacífico. En esta actividad, los participantes crean un modelo de cuenca hidrográfica para entender el movimiento natural del agua.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuándo se degradan?"
+title: "¿Cuándo Se Degradan?"
 duration: "12 semanas (experimento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuando-se-degradan/"
@@ -166,7 +166,7 @@ rama_rovers:
 
 ---
 
-# ¿Cuándo se degradan?
+# ¿Cuándo Se Degradan?
 
 ## Resumen
 Diferentes materiales en el medio ambiente tardan diferentes períodos de tiempo en degradarse. Materiales como el plástico no se biodegradan y permanecen en el ambiente durante cientos de años. Esta actividad ayuda a los jóvenes a comprender el proceso de degradación y el tiempo que tienen diferentes materiales para descomponerse, mediante un experimento a largo plazo.

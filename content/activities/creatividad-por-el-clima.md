@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Creatividad por el clima"
+title: "Creatividad por el Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/creatividad-por-el-clima/"
@@ -159,7 +159,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Creatividad por el clima!
+# ¡Creatividad por el Clima!
 
 ## Resumen
 En grupo, dediquen un día para crear sus propios materiales de aprendizaje sobre el cambio climático. Estos pueden ser carteles, folletos, artículos e incluso dibujos y poemas. Expliquen qué es el cambio climático, por qué es importante y por qué está sucediendo.

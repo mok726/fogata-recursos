@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reseña de libro"
+title: "Reseña de Libro"
 duration: "2 horas + lectura"
 layout: "layouts/activity.njk"
 permalink: "/activities/resena-de-libro-polinizadores/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Reseña de libro!
+# ¡Reseña de Libro!
 
 ## Resumen
 Leé un libro sobre cualquier polinizador, como The Flight of the Honey Bee o Bat Citizens: Defending the Ninjas of the Night. ¿Aprendiste algo nuevo? ¿Qué fue lo más interesante o sorprendente que aprendiste?

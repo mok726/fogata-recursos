@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Barra de néctar"
+title: "Barra de Néctar"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/barra-de-nectar/"
@@ -160,7 +160,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Barra de néctar!
+# ¡Barra de Néctar!
 
 ## Resumen
 Prepará una 'barra de néctar' para abejas, avispas y moscas hambrientas. Cultivá un jardín con una mezcla de plantas que florecen y arbustos.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Un clima que da vida"
+title: "Un Clima que Da Vida"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-clima-que-da-vida/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y especies
 ---
 
-# ¡Un clima que da vida!
+# ¡Un Clima que Da Vida!
 
 ## Resumen
 El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agua y permite que las personas obtengan los recursos que necesitan para construir sus casas. Entrevistá a miembros de tu comunidad sobre la importancia del clima.

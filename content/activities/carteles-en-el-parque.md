@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carteles en el parque"
+title: "Carteles en el Parque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/carteles-en-el-parque/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Carteles en el parque!
+# ¡Carteles en el Parque!
 
 ## Resumen
 Ya sabés mucho sobre polinizadores, pero podés asegurarte de que otros también lo sepan. Obtené permiso de las autoridades para crear y colocar carteles en un parque local. Los carteles pueden explicar qué polinizadores suelen vivir en esta área, por qué son importantes y qué puede hacer cada uno para ayudar.

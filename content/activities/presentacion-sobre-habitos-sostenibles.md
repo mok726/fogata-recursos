@@ -1,5 +1,5 @@
 ---
-title: "Presentación sobre hábitos sostenibles"
+title: "Presentación sobre Hábitos Sostenibles"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentacion-sobre-habitos-sostenibles/"
@@ -143,7 +143,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# ¡Presentación sobre hábitos sostenibles!
+# ¡Presentación sobre Hábitos Sostenibles!
 
 ## Resumen
 Hacé una presentación sobre hábitos amigables con el medio ambiente para tu escuela o grupo juvenil.

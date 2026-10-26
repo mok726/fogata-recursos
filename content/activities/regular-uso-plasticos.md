@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Regular el uso de plásticos"
+title: "Regular el Uso de Plásticos"
 duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/regular-uso-plasticos/"
@@ -162,7 +162,7 @@ rama_rovers:
   - 29  # Indago en las causas y consecuencias de las injusticias
 ---
 
-# ¡Regular el uso de plásticos!
+# ¡Regular el Uso de Plásticos!
 
 ## Resumen
 Las leyes cumplen un papel importante en la regulación del uso y eliminación de plásticos. Esta actividad está diseñada para generar un debate sobre el desarrollo de un conjunto de normas para la escuela o comunidad que ayuden a reducir el uso de plásticos y su eliminación adecuada. Los jóvenes simulan un proceso parlamentario para redactar y debatir normas sobre el uso y eliminación de plásticos.

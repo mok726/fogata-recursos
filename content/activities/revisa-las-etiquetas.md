@@ -1,5 +1,5 @@
 ---
-title: "Revisá las etiquetas"
+title: "Revisá las Etiquetas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/revisa-las-etiquetas/"
@@ -147,7 +147,7 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Revisá las etiquetas!
+# ¡Revisá las Etiquetas!
 
 ## Resumen
 Investigá de dónde viene tu comida, cuánto viaja y cuánta energía y agua necesita para crecer.

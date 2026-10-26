@@ -1,5 +1,5 @@
 ---
-title: "Reducí tu huella de cambio climático"
+title: "Reducí Tu Huella de Cambio Climático"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduce-tu-huella-de-cambio-climatico/"
@@ -138,7 +138,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Reducí tu huella de cambio climático!
+# ¡Reducí Tu Huella de Cambio Climático!
 
 ## Resumen
 Reflexioná sobre cómo tu vida diaria impacta el medio ambiente y hacé un plan para reducirlo.

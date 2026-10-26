@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La escala de pH"
+title: "La Escala de pH"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/escala-de-ph/"
@@ -165,7 +165,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡La escala de pH!
+# ¡La Escala de pH!
 
 ## Resumen
 Todos los líquidos tienen un nivel de pH. El pH (potencial de Hidrógeno) es un indicador de la acidez o alcalinidad del agua. El agua que es ácida puede tener varios efectos negativos. En esta actividad, los participantes prueban el pH de diferentes sustancias.

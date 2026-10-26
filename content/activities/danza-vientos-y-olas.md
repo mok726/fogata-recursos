@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Danza de vientos y olas"
+title: "Danza de Vientos y Olas"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/danza-vientos-y-olas/"
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Danza de vientos y olas!
+# ¡Danza de Vientos y Olas!
 
 ## Resumen
 Aprendé cómo el Sol calienta la Tierra de forma desigual, creando vientos y olas. ¡Inspírate y coreografía una danza sobre esto! Podés incluso hacer una danza sobre cómo el carbono viaja a través de la naturaleza.

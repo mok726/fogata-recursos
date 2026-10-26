@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desafío libre de electrónicos"
+title: "Desafío Libre de Electrónicos"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/desafio-libre-de-electronicos/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Desafío libre de electrónicos!
+# ¡Desafío Libre de Electrónicos!
 
 ## Resumen
 Muchos jóvenes alrededor del mundo pasan una cantidad de tiempo cada vez mayor usando electrónicos cada día, incluyendo celulares, computadoras y televisores. ¿Cuánto tiempo pasás usando electrónicos cada día?

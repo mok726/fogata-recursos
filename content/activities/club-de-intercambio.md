@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Club de intercambio"
+title: "Club de Intercambio"
 duration: "En curso (cada 6 meses)"
 layout: "layouts/activity.njk"
 permalink: "/activities/club-de-intercambio/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Club de intercambio!
+# ¡Club de Intercambio!
 
 ## Resumen
 Reutilizar objetos en casa en lugar de tirarlos es una excelente manera de ser más verde. Involucrá a tu comunidad para hacer la reutilización divertida y efectiva.

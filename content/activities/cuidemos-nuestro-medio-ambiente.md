@@ -1,5 +1,5 @@
 ---
-title: "Cuidemos nuestro medio ambiente"
+title: "Cuidemos Nuestro Medio Ambiente"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuidemos-nuestro-medio-ambiente/"
@@ -142,7 +142,7 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Cuidemos nuestro medio ambiente!
+# ¡Cuidemos Nuestro Medio Ambiente!
 
 ## Resumen
 Discutí con tu familia, maestro o guía sobre cómo consumís energía en tu vida diaria y hacé un plan para reducirla.

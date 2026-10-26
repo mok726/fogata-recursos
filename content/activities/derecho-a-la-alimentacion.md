@@ -1,5 +1,5 @@
 ---
-title: "Derecho a la alimentación"
+title: "Derecho a la Alimentación"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/derecho-a-la-alimentacion/"
@@ -146,7 +146,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Derecho a la alimentación!
+# ¡Derecho a la Alimentación!
 
 ## Resumen
 Aprendé sobre el derecho humano a la alimentación usando el libro de dibujos.

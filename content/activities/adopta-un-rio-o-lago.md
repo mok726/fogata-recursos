@@ -1,5 +1,5 @@
 ---
-title: "Adoptá un río o lago"
+title: "Adoptá un Río o Lago"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopta-un-rio-o-lago/"
@@ -141,7 +141,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# ¡Adoptá un río o lago!
+# ¡Adoptá un Río o Lago!
 
 ## Resumen
 Adoptá un río, lago u otra área, limpialo y monitoreá su recuperación.

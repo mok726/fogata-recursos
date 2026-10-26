@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Basura... ¿por qué es importante?"
+title: "Basura... ¿Por Qué Es Importante?"
 duration: "Flexible (1-2 horas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/basura-por-que-es-importante/"
@@ -163,7 +163,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre especies
 ---
 
-# ¡Basura... por qué es importante!
+# ¡Basura... Por Qué Es Importante!
 
 ## Resumen
 Tirar basura es uno de los mayores desafíos tanto ambientales como sociales que se enfrentan hoy en día. Esta actividad ayuda a los jóvenes a comprender el impacto de tirar basura y la correlación entre la contaminación por plástico y este comportamiento. A través de la observación y el análisis, los participantes reflexionan sobre las causas y consecuencias de la basura en su entorno.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carrera Contra el Hambre"
+title: "Carrera contra el Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-contra-el-hambre/"
@@ -169,7 +169,7 @@ rama_rovers:
   - 27  # Desarrollo acciones comunitarias sostenibles.
 ---
 
-# Carrera Contra el Hambre
+# Carrera contra el Hambre
 
 ## Resumen
 Organizá una versión local de la Carrera Contra el Hambre de la FAO cerca del Día Mundial de la Alimentación.

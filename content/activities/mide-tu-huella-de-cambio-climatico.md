@@ -1,5 +1,5 @@
 ---
-title: "Medí tu huella de cambio climático"
+title: "Medí Tu Huella de Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/mide-tu-huella-de-cambio-climatico/"
@@ -149,7 +149,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Medí tu huella de cambio climático!
+# ¡Medí Tu Huella de Cambio Climático!
 
 ## Resumen
 Medí tu huella de carbono usando calculadoras en línea y hacé un plan para reducirla.

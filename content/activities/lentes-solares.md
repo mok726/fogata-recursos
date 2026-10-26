@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lentes solares"
+title: "Lentes Solares"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lentes-solares/"
@@ -152,7 +152,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Lentes solares!
+# ¡Lentes Solares!
 
 ## Resumen
 Creen sus propios lentes de Sol. Es muy importante que protejan sus ojos del Sol en todo momento. Por esto es que es necesario el uso de lentes. Estos nos ayudan a proteger nuestra visión.

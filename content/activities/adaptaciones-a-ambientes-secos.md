@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adaptaciones a ambientes secos"
+title: "Adaptaciones a Ambientes Secos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/adaptaciones-a-ambientes-secos/"
@@ -158,7 +158,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Adaptaciones a ambientes secos!
+# ¡Adaptaciones a Ambientes Secos!
 
 ## Resumen
 Aprendé sobre modificaciones inusuales que las plantas y los animales han desarrollado para adaptarse a ambientes donde es difícil encontrar agua. Encontrá cinco ejemplos de plantas y cinco ejemplos de animales. Presentá estos ejemplos a tu grupo.

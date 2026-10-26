@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Empuje del viento"
+title: "Empuje del Viento"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/empuje-del-viento/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Empuje del viento!
+# ¡Empuje del Viento!
 
 ## Resumen
 El viento es una forma de energía que ayuda a muchos organismos en la naturaleza. Observá cómo el viento mueve plantas, polen y animales, volá una cometa y hacé un molinillo para entender mejor la energía del viento.

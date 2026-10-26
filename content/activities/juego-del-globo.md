@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El juego del globo"
+title: "El Juego del Globo"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-del-globo/"
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡El juego del globo!
+# ¡El Juego del Globo!
 
 ## Resumen
 Pensá en cómo estás conectado a otros países. ¿Dónde se hizo tu ropa? ¿De dónde viene tu comida? ¿De dónde viene tu energía? Jugá y descubrilo.

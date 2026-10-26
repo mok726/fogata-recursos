@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de biodiversidad"
+title: "Juego de Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-biodiversidad/"
@@ -168,7 +168,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Juego de biodiversidad!
+# ¡Juego de Biodiversidad!
 
 ## Resumen
 Inventen un juego que ayude a las personas a aprender acerca de la importancia de la biodiversidad. Juéguenlo en grupo. Los participantes de mayor edad pueden diseñar y dirigir el juego para los niños más pequeños.

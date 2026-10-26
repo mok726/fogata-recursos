@@ -1,5 +1,5 @@
 ---
-title: "Notas recordatorias Apagame"
+title: "Notas Recordatorias Apagame"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/notas-recordatorias-apagame/"
@@ -140,7 +140,7 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Notas recordatorias "Apagame"!
+# ¡Notas Recordatorias "Apagame"!
 
 ## Resumen
 Diseñá notas recordatorias para colocar en interruptores, aparatos eléctricos y llaves de agua.

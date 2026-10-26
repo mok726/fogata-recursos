@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Relatos de viaje"
+title: "Relatos de Viaje"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/relatos-de-viaje/"
@@ -155,7 +155,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Relatos de viaje!
+# ¡Relatos de Viaje!
 
 ## Resumen
 ¿Qué lugar del mundo te encantaría visitar? Buscalo y aprendé sobre este. ¿Cómo viven las personas de ese lugar? ¿El cambio climático es un problema allá?

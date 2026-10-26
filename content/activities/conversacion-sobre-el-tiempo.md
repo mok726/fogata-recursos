@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conversación sobre el tiempo"
+title: "Conversación sobre el Tiempo"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/conversacion-sobre-el-tiempo/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Conversación sobre el tiempo!
+# ¡Conversación sobre el Tiempo!
 
 ## Resumen
 Hablá con una persona mayor que conozcas, como un abuelo o vecino. ¿Crecieron en tu área? ¿Han visto algún cambio en el clima del área desde que eran jóvenes?

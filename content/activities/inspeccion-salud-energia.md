@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Inspección de salud y contaminación"
+title: "Inspección de Salud y Contaminación"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-salud-energia/"
@@ -163,7 +163,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Inspección de salud y contaminación!
+# ¡Inspección de Salud y Contaminación!
 
 ## Resumen
 Prepará un cuestionario sobre contaminación y salud para tu familia o amigos. ¡Quizás se sorprendan con las respuestas! Si es posible, invitá a un experto para que hable sobre el tema.

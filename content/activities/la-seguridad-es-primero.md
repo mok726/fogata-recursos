@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Seguridad es Primero"
+title: "La Seguridad Es Primero"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-seguridad-es-primero/"
@@ -160,7 +160,7 @@ rama_caminantes:
 rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# La Seguridad es Primero
+# La Seguridad Es Primero
 
 ## Resumen
 Aprendé sobre normas de seguridad y protección para trabajadores forestales. Creá una lista de control de seguridad para el bosque.

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Líderes jóvenes"
+title: "Líderes Jóvenes"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/lideres-jovenes/"
@@ -170,7 +170,7 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Líderes jóvenes!
+# ¡Líderes Jóvenes!
 
 ## Resumen
 Averiguá cómo los niños y los jóvenes están haciendo escuchar su voz en las negociaciones sobre el cambio climático. Los jóvenes tienen una larga historia de participación en las reuniones sobre el clima de las NN.UU., donde desafían a los gobiernos a crear políticas más fuertes.

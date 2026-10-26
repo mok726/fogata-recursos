@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ir contra la corriente"
+title: "Ir contra la Corriente"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/ir-contra-la-corriente/"
@@ -157,7 +157,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ir contra la corriente!
+# ¡Ir contra la Corriente!
 
 ## Resumen
 Pensá en todas las formas en que usás energía cada día. Si tuvieras que sacrificar solo tres actividades que dependen de la energía, ¿cómo afectaría tu vida? Probalo por un día.

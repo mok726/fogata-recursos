@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El juego de los Derechos Humanos"
+title: "El Juego de los Derechos Humanos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-derechos-humanos/"
@@ -163,7 +163,7 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# El juego de los Derechos Humanos
+# El Juego de los Derechos Humanos
 
 ## Resumen
 Imaginen crear una nueva sociedad desde cero. ¿Cuáles son los derechos humanos más importantes y fundamentales y valores para su comunidad? Debatan y definan los cinco más importantes derechos para su comunidad. Justifiquen por qué creen que esos son los más importantes. Busquen la Declaración Universal de los Derechos Humanos y vean si sus derechos se mencionan en la Declaración. ¿Encontraron algún otro derecho que no habían mencionado para sumarlo a su sociedad?

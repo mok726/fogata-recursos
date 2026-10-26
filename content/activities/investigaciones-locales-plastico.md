@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigaciones locales sobre plásticos"
+title: "Investigaciones Locales sobre Plásticos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-locales-plastico/"
@@ -160,7 +160,7 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigaciones locales sobre plásticos!
+# ¡Investigaciones Locales sobre Plásticos!
 
 ## Resumen
 Explorá tu barrio, pueblo o ciudad con una nueva perspectiva. Observá y documentá la situación del plástico en tu comunidad. ¿Hay mucha basura plástica en las calles, parques o ríos? ¿Hay sistemas de reciclaje?

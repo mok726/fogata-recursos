@@ -1,5 +1,5 @@
 ---
-title: "Energía verde"
+title: "Energía Verde"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-verde/"
@@ -136,7 +136,7 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Energía verde!
+# ¡Energía Verde!
 
 ## Resumen
 Organizá la instalación de paneles solares u otros sistemas de energía verde en tu casa, escuela o lugar de encuentro.

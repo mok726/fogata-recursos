@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Científicos incipientes"
+title: "Científicos Incipientes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cientificos-incipientes/"
@@ -154,7 +154,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Científicos incipientes!
+# ¡Científicos Incipientes!
 
 ## Resumen
 Imaginá que sos un adulto que está estudiando el cambio climático. ¿Qué te gustaría estar haciendo? ¿Te gustaría ser un meteorólogo que predice el tiempo o te gustaría estar estudiando los núcleos del hielo?

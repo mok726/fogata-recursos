@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Noche de cine"
+title: "Noche de Cine"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/noche-de-cine-plastico/"
@@ -164,7 +164,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies
 ---
 
-# ¡Noche de cine!
+# ¡Noche de Cine!
 
 ## Resumen
 Una forma divertida y educativa para que los participantes aprendan más sobre el problema de la contaminación plástica. A través de cortometrajes impactantes, los jóvenes descubrirán cómo el plástico está afectando a los océanos y a la vida marina, y reflexionarán sobre su propio consumo de plásticos.

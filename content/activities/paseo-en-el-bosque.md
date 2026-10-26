@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Paseo en el bosque"
+title: "Paseo en el Bosque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/paseo-en-el-bosque/"
@@ -156,7 +156,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Paseo en el bosque!
+# ¡Paseo en el Bosque!
 
 ## Resumen
 Tomá un paseo en el bosque. Registrá lo que ves, escuchás, olés y sentís. NO PRUEBES NADA, PODRÍA SER VENENOSO. Observá desde diferentes puntos de vista. Por ejemplo, mirá hacia abajo, mirá debajo de un tronco caído, cerrá tus ojos y escuchá, frota la corteza, siente la textura de la tierra, etc.
