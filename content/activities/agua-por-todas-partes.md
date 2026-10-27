@@ -53,7 +53,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - agua
-activity_code: "agua-A32"
+activity_code: "agua-A51"
 required: false
 required_for: []
 required_comment: ""

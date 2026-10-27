@@ -54,7 +54,7 @@ Talleres que enseñan a reducir plásticos de un solo uso piden guantes descarta
 
 Ver `chequeo-automatico.md`: 248 actividades sin `duration` (vacío o ausente), 12 con `references` vacío (las 11 originales + 1), 1 sin `branch`, 18 títulos duplicados, 2 `activity_code` duplicados (`agua-A32`, `agua-B41`), 5 valores en portugués ("Investigação"), 3 `original` como texto en vez de booleano. Los de portugués y booleanos van corregidos en el PR.
 
-**Estado (2026-10-26):** Aclarado. Que una actividad tenga varias insignias es intencional, y la duración vacía es aceptable cuando la fuente no la da. Siguen pendientes los dos `activity_code` duplicados (agua-A32 y agua-B41; ver tanda 18).
+**Estado (2026-10-26):** Aclarado. Que una actividad tenga varias insignias es intencional, y la duración vacía es aceptable cuando la fuente no la da. Los dos `activity_code` duplicados se renumeraron el 2026-10-27, con OK de Mariano: agua-por-todas-partes pasa de A32 a **A51** y tratamiento-del-agua pasa de B41 a **B38**. Hay que verificar contra el PDF cuál es el código real de cada una.
 
 ## G10. Licencia declarada que no es la de la fuente (P1, legal)
 

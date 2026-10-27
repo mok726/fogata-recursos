@@ -51,7 +51,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - agua
-activity_code: "agua-B41"
+activity_code: "agua-B38"
 required: false
 required_for: []
 required_comment: ""

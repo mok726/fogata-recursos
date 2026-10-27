@@ -72,7 +72,7 @@
 | hogar-dulce-hogar (A22) | fiel | — | — | genérica (paisaje sin relación) | P3 |
 | diversion-con-agua (A31) | fiel (trad. EN) | — | Probable duplicado de A55. | ok (franjas) | P3 |
 | agua-alrededor-del-mundo-agua (A32) | fiel (trad. EN) | Código A32 repetido con agua-por-todas-partes; texto muy corto sin Background: verificar en el PDF. | — | **mala (mapa con Argentina sobre EE. UU.)** | P2 |
-| agua-por-todas-partes (A32) | fiel (trad. EN) | Código A32 repetido; verificar existencia en el PDF. | — | floja (globo con texto ilegible) | P2 |
+| agua-por-todas-partes (A51, antes A32) | fiel (trad. EN) | Código A32 repetido; verificar existencia en el PDF. | — | floja (globo con texto ilegible) | P2 |
 | recuerdos-acuaticos (A33) | fiel (trad. EN) | — | — | ok | P3 |
 | cuanta-agua-hay-en-tu-cuerpo (A34) | fiel (trad. EN) | — | **Error del original** (dividía por 2). Corregido en el PR: 1 kg agua ≈ 1 l, peso de ejemplo para no exponer el de nadie. | ok | P1 |
 | el-agua-es-el-camino (A35) | fiel (trad. EN) | — | "8 vasos" es un mito; sangre 90 % agua acá vs 95 % en A36 (inconsistente). | ok (franjas) | P2 |
@@ -114,7 +114,7 @@
 | crucigrama-uso-agua (B39) | fiel (trad. EN) | Faltan las copias del crucigrama. | — | floja (marca de agua "Letint") | P2 |
 | portal-indicadores-agua (B40) | fiel (trad. EN) | — | — | ok | P3 |
 | agua-en-las-noticias (B41) | fiel (trad. EN) | Código B41 repetido con tratamiento-del-agua; texto muy corto: verificar en el PDF. | — | ok | P2 |
-| tratamiento-del-agua (B41) | fiel (trad. EN) | Código B41 repetido. | — | ok | P2 |
+| tratamiento-del-agua (B38, antes B41) | fiel (trad. EN) | Código B41 repetido. | — | ok | P2 |
 | aventuras-gota-agua (B42) | fiel (trad. EN) | Probable duplicado de B45. | — | ok (ilustración) | P3 |
 | mi-huella-hidrica (B43) | fiel (trad. EN) | — | — | ok | P3 |
 | inventos-inteligentes-agua (B44) | fiel (trad. EN) | Enlace halogentv (viejo). | — | ok (bandera EE. UU.) | P3 |
