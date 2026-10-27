@@ -1,0 +1,400 @@
+prioridad,insignia,codigo,slug,imagen,motivo
+P1,agua,A08,el-baile-del-agua,/imagenes/actividades/el-baile-del-agua.jpg,mala (chicos saltando hacia una ola sobre rocas)
+P1,agua,A21,la-ciencia-del-agua,/imagenes/actividades/la-ciencia-del-agua.jpg,mala (medio blanqueada)
+P1,agua,A32,agua-alrededor-del-mundo-agua,/imagenes/actividades/agua-alrededor-del-mundo-agua.jpg,mala (mapa con Argentina sobre EE. UU.)
+P1,agua,A41,animales-de-la-cuenca,/imagenes/actividades/animales-de-la-cuenca.jpg,mala (medio blanqueada)
+P1,agua,A47,bioevaluacion-macroinvertebrados,/imagenes/actividades/bioevaluacion-macroinvertebrados.jpg,mala (medio blanqueada)
+P1,agua,B31,promesa-del-agua-agua,/imagenes/actividades/promesa-del-agua-agua.jpg,mala (medio blanqueada)
+P1,agua,B35,ahorra-agua-agua,/imagenes/actividades/ahorra-agua-agua.jpg,mala (medio blanqueada)
+P1,agua,C33,juego-a-donde-va-el-agua,/imagenes/actividades/juego-a-donde-va-el-agua.jpg,mala (medio blanqueada)
+P1,agua,C39,nuestro-agua-tambien-enfermarse,/imagenes/actividades/nuestro-agua-tambien-enfermarse.jpg,mala (medio blanqueada)
+P1,agua,C42,el-agua-subterranea,/imagenes/actividades/el-agua-subterranea.jpg,mala (medio blanqueada)
+P1,agua,C44,manos-a-la-obra-petroleo,/imagenes/actividades/manos-a-la-obra-petroleo.jpg,mala (medio blanqueada)
+P1,agua,C48,cambio-climatico-sequias-extremas,/imagenes/actividades/cambio-climatico-sequias-extremas.jpg,mala (medio blanqueada)
+P1,agua,C50,juego-agua-caliente,/imagenes/actividades/juego-agua-caliente.jpg,mala (medio blanqueada)
+P1,agua,C51,escribamos-por-saneamiento,/imagenes/actividades/escribamos-por-saneamiento.jpg,mala (medio blanqueada)
+P1,agua,D05,sigue-el-flujo,/imagenes/actividades/sigue-el-flujo.jpg,mala (diagrama con texto ilegible)
+P1,agua,D32,agua-no-siempre-disponible,/imagenes/actividades/agua-no-siempre-disponible.jpg,mala (medio blanqueada)
+P1,agua,D33,que-ha-cambiado-agua,/imagenes/actividades/que-ha-cambiado-agua.jpg,mala (medio blanqueada)
+P1,agua,D38,vegetacion-proteccion-agua,/imagenes/actividades/vegetacion-proteccion-agua.jpg,mala (medio blanqueada)
+P1,agua,D42,habitos-saludables-personas-saludables,/imagenes/actividades/habitos-saludables-personas-saludables.jpg,mala (medio blanqueada)
+P1,agua,D44,estas-de-acuerdo-o-en-desacuerdo,/imagenes/actividades/estas-de-acuerdo-o-en-desacuerdo.jpg,mala (medio blanqueada)
+P1,agua,D45,datos-sobre-el-agua,/imagenes/actividades/datos-sobre-el-agua.jpg,mala (medio blanqueada)
+P1,agua,E31,tu-codigo-del-agua,/imagenes/actividades/tu-codigo-del-agua.jpg,mala (medio blanqueada)
+P1,biodiversidad,A13,estrategias-de-supervivencia,/imagenes/actividades/estrategias-de-supervivencia.jpg,"mala (león al lado de chicos, bandera EE. UU.)"
+P1,biodiversidad,A14,biogas,/imagenes/actividades/biogas.jpg,"mala (medio blanqueada, marca de agua ""LALANEZA"")"
+P1,biodiversidad,A20,comercio-de-emisiones-y-redd,/imagenes/actividades/comercio-de-emisiones-y-redd.jpg,"mala (medio blanqueada, texto inventado)"
+P1,biodiversidad,B13,experimento-de-derrame-de-petroleo,/imagenes/actividades/experimento-de-derrame-de-petroleo.jpg,mala (medio blanqueada)
+P1,biodiversidad,B17,bacterias-y-mamiferos-marinos,/imagenes/actividades/bacterias-y-mamiferos-marinos.jpg,mala (chicos metidos en mar abierto con delfines)
+P1,biodiversidad,B27,escondite-junto-al-agua,/imagenes/actividades/escondite-junto-al-agua.jpg,mala (medio blanqueada)
+P1,biodiversidad,C04,plantas-silvestres-comestibles,/imagenes/actividades/plantas-silvestres-comestibles.jpg,mala (estereotipo de persona indígena)
+P1,biodiversidad,C27,especies-raras-de-arboles,/imagenes/actividades/especies-raras-de-arboles.jpg,mala (medio blanqueada)
+P1,biodiversidad,D17,arte-natural,/imagenes/actividades/arte-natural.jpg,mala (medio blanqueada)
+P1,biodiversidad,D18,desfile-de-modas,/imagenes/actividades/desfile-de-modas.jpg,mala (medio blanqueada)
+P1,biodiversidad,D31,conservacion-practica,/imagenes/actividades/conservacion-practica.jpg,"mala (chica abrazando un animal silvestre: zoonosis, mal ejemplo)"
+P1,bosques,C11,alimentos-del-bosque,/imagenes/actividades/alimentos-del-bosque.jpg,mala (chicos recolectando hongos silvestres)
+P1,bosques,C16,agricultores-del-bosque,/imagenes/actividades/agricultores-del-bosque.jpg,mala (medio blanqueada)
+P1,bosques,D11,no-madereros-y-no-son-buenos,/imagenes/actividades/no-madereros-y-no-son-buenos.jpg,mala (parece un chico fumando)
+P1,bosques,E08,olas-verdes,/imagenes/actividades/olas-verdes.jpg,mala (medio blanqueada)
+P1,cambioclimatico,A10,alimentos-locales,/imagenes/actividades/alimentos-locales.jpg,mala (medio blanqueada)
+P1,cambioclimatico,C11,huella-hidrica,/imagenes/actividades/huella-hidrica.jpg,mala (medio blanqueada)
+P1,cambioclimatico,D07,ideas-internacionales,/imagenes/actividades/ideas-internacionales.jpg,mala (medio blanqueada)
+P1,cambioclimatico,D10,informacion-privilegiada,/imagenes/actividades/informacion-privilegiada.jpg,mala (medio blanqueada)
+P1,cambioclimatico,E04,tarjetas-de-felicitacion-recicladas-cambioclimatico,/imagenes/actividades/tarjetas-de-felicitacion-recicladas-cambioclimatico.jpg,"mala (medio blanqueada, bandera de EE. UU.)"
+P1,cambioclimatico,E06,compras-inteligentes,/imagenes/actividades/compras-inteligentes.jpg,mala (medio blanqueada)
+P1,cambioclimatico,E08,recicla-tu-propio-papel,/imagenes/actividades/recicla-tu-propio-papel.jpg,mala (medio blanqueada)
+P1,cambioclimatico,E09,haz-tu-propio-compost,/imagenes/actividades/haz-tu-propio-compost.jpg,mala (compost con latas y metal: enseña lo contrario)
+P1,cambioclimatico,E22,invierte-en-soluciones,/imagenes/actividades/invierte-en-soluciones.jpg,mala (medio blanqueada)
+P1,ciudadesverdes,D02,celebra-el-dia-de-mi-ciudad,/imagenes/actividades/celebra-el-dia-de-mi-ciudad.jpg,"mala: texto ""My City Da"" sobre la imagen"
+P1,comunidad,M01,patitas-limpias,/imagenes/actividades/patitas-limpias.jpg,mala: pantera/oso gigante; no muestra limpieza (hay 9 variantes patitas-limpias_1..9 sin usar)
+P1,energia,A06,cancion-ciclo-carbono,/imagenes/actividades/cancion-ciclo-carbono.jpg,mala (media imagen en blanco)
+P1,energia,A12,hornear-con-burbujas,/imagenes/actividades/hornear-con-burbujas.jpg,"mala (texto gigante ""Yest"")"
+P1,energia,C01,energia-en-mi-rutina,/imagenes/actividades/energia-en-mi-rutina.jpg,mala (media imagen en blanco)
+P1,energia,C05,reduciendo-mi-huella-carbono,/imagenes/actividades/reduciendo-mi-huella-carbono.jpg,mala (media imagen en blanco)
+P1,energia,D07,inspeccion-salud-energia,/imagenes/actividades/inspeccion-salud-energia.jpg,mala (media imagen en blanco)
+P1,energia,D08,ideas-internacionales-energia,/imagenes/actividades/ideas-internacionales-energia.jpg,mala (franja en blanco)
+P1,energia,E02,debate-energetico,/imagenes/actividades/debate-energetico.jpg,mala (media imagen en blanco)
+P1,energia,E16,acampada-bajo-impacto,/imagenes/actividades/acampada-bajo-impacto.jpg,mala (media imagen en blanco)
+P1,general,E06,cuanto-plastico-uso,/imagenes/actividades/cuanto-plastico-uso.jpg,"mala: chicos sin uniforme, texto ""PLASTIC"" en inglés y destello blanco"
+P1,general,E11,taller-de-lenos-ecologicos,/imagenes/actividades/taller-de-lenos-ecologicos.jpg,"mala: muestra leña de verdad (lo opuesto) y un ""210"" pintado"
+P1,gosolar,A03,reloj-de-sol,/imagenes/actividades/reloj-de-sol.jpg,mala: no hay reloj de sol
+P1,gosolar,C01,colectando-agua,/imagenes/actividades/colectando-agua.jpg,mala: no se ven el plástico ni el frasco
+P1,gosolar,D01,comida-solar,/imagenes/actividades/comida-solar.jpg,mala: horno con llamas (lo opuesto a cocina solar)
+P1,hambre,A11,hambre-en-el-hogar,/imagenes/actividades/hambre-en-el-hogar.jpg,sensible: chicos scouts mirando una villa como si fuera una excursión. Reemplazar.
+P1,hambre,D07,circulo-virtuoso-vs-circulo-vicioso,/imagenes/actividades/circulo-virtuoso-vs-circulo-vicioso.jpg,"mala: pancarta con texto inventado (""VIRTOUSTOUS CIRCLE"")"
+P1,hambre,D08,si-si-no,/imagenes/actividades/si-si-no.jpg,mala (tabla falsa)
+P1,hambre,E02,comunicacion-alternativa,/imagenes/actividades/comunicacion-alternativa.jpg,mala (carteles con texto inventado)
+P1,nutricion,A06,dulces-suenos,/imagenes/actividades/dulces-suenos.jpg,"mala (surrealista: cama al aire libre, dos lunas)"
+P1,nutricion,B20,hablar-sobre-tabus,/imagenes/actividades/hablar-sobre-tabus.jpg,mala (estereotipos religiosos)
+P1,nutricion,D18,compra-pescado-de-manera-selectiva,/imagenes/actividades/compra-pescado-de-manera-selectiva.jpg,"mala (cartel ""Sustainable Seabod"")"
+P1,oceano,A03,haciendo-olas,/imagenes/actividades/haciendo-olas.jpg,mala: scout dentro de una ola (mensaje de seguridad opuesto)
+P1,oceano,A09,construyendo-un-hidrofono,/imagenes/actividades/construyendo-un-hidrofono.jpg,mala: los micrófonos parecen fusiles
+P1,oceano,B04,censo-de-vida-marina,/imagenes/actividades/censo-de-vida-marina.jpg,mala: monstruo rojo y scouts con algo parecido a un arma
+P1,oceano,C06,barcos-y-marineros,/imagenes/actividades/barcos-y-marineros.jpg,"mala: chicos en un bote de juguete en mar abierto, sin chaleco"
+P1,oceano,D04,contaminacion-y-accidentes,/imagenes/actividades/contaminacion-y-accidentes.jpg,mala: pulpo en llamas explotando
+P1,plastics,C03,investigacion-nacional-plastico,/imagenes/actividades/investigacion-nacional-plastico.jpg,absurda: computadoras en un desierto
+P1,polinizadores,A09,estudio-evolutivo-polinizadores,/imagenes/actividades/estudio-evolutivo-polinizadores.jpg,texto inventado en pantalla
+P1,polinizadores,B04,diario-de-alimentos-polinizadores,/imagenes/actividades/diario-de-alimentos-polinizadores.jpg,"mala: es una página web falsa (""Ultra-wide wide Storvy""); reemplazar"
+P1,polinizadores,C01,amenazas-locales,/imagenes/actividades/amenazas-locales.jpg,texto inventado
+P1,rrd,B06,hora-de-la-prueba-rrd,/imagenes/actividades/hora-de-la-prueba-rrd.jpg,texto en inglés sin sentido en la pantalla
+P1,rrd,B08,riesgo-calculado,/imagenes/actividades/riesgo-calculado.jpg,"muestra una fórmula falsa (""Risk f = x3+0r"")"
+P1,rrd,D05,treinta-dias-por-el-ambiente,/imagenes/actividades/treinta-dias-por-el-ambiente.jpg,calendario con texto en inglés sin sentido
+P1,sacc,A07,bombillas-ahorradoras-de-energia,/imagenes/actividades/bombillas-ahorradoras-de-energia.jpg,mala (chicos tocando una lamparita incandescente encendida)
+P1,sacc,A11,electrodomesticos-ahorradores-de-energia,/imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg,"mala (scouts en un campo, nada que ver)"
+P1,sacc,A15,ducha-rapida,/imagenes/actividades/ducha-rapida.jpg,mala (menor en la ducha: no apta para un sitio con chicos)
+P1,sacc,B10,recursos-para-producir-alimentos,/imagenes/actividades/recursos-para-producir-alimentos.jpg,mala (adulto con un rifle al fondo)
+P1,sacc,B12,horno-solar,/imagenes/actividades/horno-solar.jpg,"mala (chico metido en un horno de barro, que no es solar)"
+P1,sacc,B17,clima-y-agricultura,/imagenes/actividades/clima-y-agricultura.jpg,mala (adulto con un rifle)
+P1,sacc,C28,colecta-puerta-a-puerta,/imagenes/actividades/colecta-puerta-a-puerta.jpg,mala (persona encapuchada)
+P2,agua,A05,la-gallina-ciega,/imagenes/actividades/la-gallina-ciega.jpg,floja (afiche con texto ilegible)
+P2,agua,A17,donde-esta-el-agua,/imagenes/actividades/donde-esta-el-agua.jpg,floja (marca de agua + franjas)
+P2,agua,A18,cientificos-nadadores,/imagenes/actividades/cientificos-nadadores.jpg,floja (nadan con uniforme y mochila)
+P2,agua,A43,rios-mas-largos,/imagenes/actividades/rios-mas-largos.jpg,floja (estilo anime sin relación)
+P2,agua,"A51, antes A32",agua-por-todas-partes,/imagenes/actividades/agua-por-todas-partes.jpg,floja (globo con texto ilegible)
+P2,agua,B39,crucigrama-uso-agua,/imagenes/actividades/crucigrama-uso-agua.jpg,"floja (marca de agua ""Letint"")"
+P2,agua,C07,cambio-climatico-agua,/imagenes/actividades/cambio-climatico-agua.jpg,floja (fuego sobre olas)
+P2,agua,C45,simulando-limpieza-petroleo,/imagenes/actividades/simulando-limpieza-petroleo.jpg,floja (chicos dentro del mar)
+P2,agua,D06,salud-agua,/imagenes/actividades/salud-agua.jpg,floja (carteles con texto ilegible)
+P2,agua,D09,el-agua-como-un-derecho-humano,/imagenes/actividades/el-agua-como-un-derecho-humano.jpg,floja (pizarra con texto ilegible)
+P2,agua,D31,el-agua-es-poesia,/imagenes/actividades/el-agua-es-poesia.jpg,floja (chicos dentro del agua)
+P2,agua,D49,algunos-objetivos-azules,/imagenes/actividades/algunos-objetivos-azules.jpg,floja
+P2,agua,E32,carteles-para-la-playa,/imagenes/actividades/carteles-para-la-playa.jpg,floja (carteles con texto en inglés inventado)
+P2,agua,E34,necesito-agua-y-tu-tambien,/imagenes/actividades/necesito-agua-y-tu-tambien.jpg,floja (animales de dibujo genéricos)
+P2,agua,E43,se-hidrologico,/imagenes/actividades/se-hidrologico.jpg,floja (gotas con texto en inglés inventado)
+P2,biodiversidad,A08,impresiones-de-esporas,/imagenes/actividades/impresiones-de-esporas.jpg,floja (hongos de fantasía)
+P2,biodiversidad,A12,casa-para-murcielagos,/imagenes/actividades/casa-para-murcielagos.jpg,floja (muestra una casita de pájaros)
+P2,biodiversidad,A17,mapa-de-contaminacion,/imagenes/actividades/mapa-de-contaminacion.jpg,floja (texto inventado)
+P2,biodiversidad,A19,biodiversidad-y-cambio-climatico,/imagenes/actividades/biodiversidad-y-cambio-climatico.jpg,"floja (marca de agua ""ULTEREL"")"
+P2,biodiversidad,B04,adaptaciones-de-animales-acuaticos,/imagenes/actividades/adaptaciones-de-animales-acuaticos.jpg,floja (chicos bajo el agua sin equipo)
+P2,biodiversidad,B05,titeres-de-cuenca-de-agua,/imagenes/actividades/titeres-de-cuenca-de-agua.jpg,floja (medio blanqueada)
+P2,biodiversidad,B08,invernaculo-para-anfibios,/imagenes/actividades/invernaculo-para-anfibios.jpg,floja (pila de ramas tipo fogata)
+P2,biodiversidad,B10,filtros-de-agua-naturales,/imagenes/actividades/filtros-de-agua-naturales.jpg,floja (no muestra un filtro)
+P2,biodiversidad,B11,letreros-para-proteger-arroyos,/imagenes/actividades/letreros-para-proteger-arroyos.jpg,floja (carteles en inglés inventados)
+P2,biodiversidad,B18,calendario-de-pesca-sostenible,/imagenes/actividades/calendario-de-pesca-sostenible.jpg,floja (texto inventado)
+P2,biodiversidad,B19,pescado-sostenible,/imagenes/actividades/pescado-sostenible.jpg,floja (texto en inglés inventado)
+P2,biodiversidad,B21,aves-acuaticas,/imagenes/actividades/aves-acuaticas.jpg,"floja (cigüeñas en un pastizal, no en el agua)"
+P2,biodiversidad,B24,fiesta-de-mascaras-marinas,/imagenes/actividades/fiesta-de-mascaras-marinas.jpg,floja (no hay máscaras)
+P2,biodiversidad,C15,experimento-de-capas-de-suelo,/imagenes/actividades/experimento-de-capas-de-suelo.jpg,floja (marca de agua)
+P2,biodiversidad,C20,observacion-de-hormigas,/imagenes/actividades/observacion-de-hormigas.jpg,"floja (hormigas gigantes, chicos con palos)"
+P2,biodiversidad,D06,especies-en-peligro-y-consumo,/imagenes/actividades/especies-en-peligro-y-consumo.jpg,floja (texto inventado)
+P2,biodiversidad,D11,puntos-calientes-de-biodiversidad,/imagenes/actividades/puntos-calientes-de-biodiversidad.jpg,"floja (texto inventado ""404"")"
+P2,biodiversidad,D20,guion-radiofonico,/imagenes/actividades/guion-radiofonico.jpg,floja (adulto con un objeto que parece un arma)
+P2,biodiversidad,D28,carta-al-editor,/imagenes/actividades/carta-al-editor.jpg,floja (texto en inglés)
+P2,biodiversidad,D34,organizador-comunitario-biodiversidad,/imagenes/actividades/organizador-comunitario-biodiversidad.jpg,floja (texto inventado)
+P2,bosques,A03,sonidos-y-senales,/imagenes/actividades/sonidos-y-senales.jpg,floja (adultos con aspecto militar)
+P2,bosques,A11,farmacia-forestal,/imagenes/actividades/farmacia-forestal.jpg,floja (un adulto con lo que parece un rifle)
+P2,bosques,A19,clases-de-animales,/imagenes/actividades/clases-de-animales.jpg,floja (animales de fantasía)
+P2,bosques,A23,el-paisaje-sonoro-del-bosque,/imagenes/actividades/el-paisaje-sonoro-del-bosque.jpg,floja (adulto)
+P2,bosques,B14,linea-de-tiempo-internacional,/imagenes/actividades/linea-de-tiempo-internacional.jpg,"floja (uniforme militar, texto inventado)"
+P2,bosques,D01,los-bosques-bajo-amenaza,/imagenes/actividades/los-bosques-bajo-amenaza.jpg,floja (chico con objeto que parece un arma)
+P2,bosques,D13,bosques-en-llamas,/imagenes/actividades/bosques-en-llamas.jpg,floja (chicos cerca de un incendio activo)
+P2,bosques,E05,educacion-anti-invasion,/imagenes/actividades/educacion-anti-invasion.jpg,floja (texto inventado)
+P2,bosques,E09,jardineria-verde,/imagenes/actividades/jardineria-verde.jpg,floja (piezas de metal en el compost)
+P2,bosques,E12,confesiones-de-los-consumidores,/imagenes/actividades/confesiones-de-los-consumidores.jpg,floja (texto inventado)
+P2,bosques,E14,reportaje-sobre-el-carbono,/imagenes/actividades/reportaje-sobre-el-carbono.jpg,"floja (texto inventado ""Carbon Market Climals"")"
+P2,cambioclimatico,B06,agua-invisible,/imagenes/actividades/agua-invisible.jpg,floja (texto inventado)
+P2,cambioclimatico,C01,mapea-el-impacto,/imagenes/actividades/mapea-el-impacto.jpg,floja (texto inventado)
+P2,cambioclimatico,C05,espiando-el-oceano,/imagenes/actividades/espiando-el-oceano.jpg,floja (pecera en una caja en el desierto)
+P2,cambioclimatico,C07,salva-a-los-animales,/imagenes/actividades/salva-a-los-animales.jpg,"floja (oso polar con perros, texto inventado)"
+P2,cambioclimatico,C14,preguntas-y-respuestas,/imagenes/actividades/preguntas-y-respuestas.jpg,floja (adulto protagonista)
+P2,cambioclimatico,C15,refugiados-por-el-clima,/imagenes/actividades/refugiados-por-el-clima.jpg,floja (un scout filma a refugiados)
+P2,cambioclimatico,C16,discusiones-saludables,/imagenes/actividades/discusiones-saludables.jpg,floja (adultos con barbijo)
+P2,cambioclimatico,D03,haciendo-garabatos,/imagenes/actividades/haciendo-garabatos.jpg,floja (no muestra dibujo)
+P2,cambioclimatico,D06,mantente-al-tanto-de-las-noticias,/imagenes/actividades/mantente-al-tanto-de-las-noticias.jpg,floja (texto inventado)
+P2,cambioclimatico,D08,manteniendose-frescos-o-calientes-en-el-pasado,/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.jpg,floja (texto inventado)
+P2,cambioclimatico,D14,conoce-tu-consumo-de-electricidad,/imagenes/actividades/conoce-tu-consumo-de-electricidad.jpg,"floja (adultos, texto inventado)"
+P2,cambioclimatico,D15,opiniones-sobre-el-intercambio-de-emisiones,/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.jpg,floja (texto inventado)
+P2,cambioclimatico,D16,negociacion-por-el-clima,/imagenes/actividades/negociacion-por-el-clima.jpg,"floja (logo de la ONU y texto ""NEWALLING""; el uso del emblema de la ONU está restringido)"
+P2,cambioclimatico,E01,dia-de-accion-por-el-clima,/imagenes/actividades/dia-de-accion-por-el-clima.jpg,floja (texto inventado)
+P2,cambioclimatico,E02,concurso-por-el-clima,/imagenes/actividades/concurso-por-el-clima.jpg,floja (texto inventado)
+P2,cambioclimatico,E05,siembra-organico,/imagenes/actividades/siembra-organico.jpg,"floja (verdulería, no huerta)"
+P2,cambioclimatico,E12,no-desperdicies-y-nada-te-faltara,/imagenes/actividades/no-desperdicies-y-nada-te-faltara.jpg,floja (adulto)
+P2,cambioclimatico,E13,cuida-la-energia,/imagenes/actividades/cuida-la-energia.jpg,floja (texto inventado)
+P2,cambioclimatico,E14,en-estado-verde,/imagenes/actividades/en-estado-verde.jpg,"floja (botellas y copas que parecen de alcohol, bandera de EE. UU.)"
+P2,ciudadesverdes,B06,es-verde-tu-escuela,/imagenes/actividades/es-verde-tu-escuela.jpg,"floja (dibujo animado, otro estilo)"
+P2,ciudadesverdes,B09,debate-sobre-ciudades-verdes,/imagenes/actividades/debate-sobre-ciudades-verdes.jpg,floja (adultos de traje)
+P2,ciudadesverdes,C04,es-verde-tu-casa,/imagenes/actividades/es-verde-tu-casa.jpg,"floja (casa suburbana de EE. UU., estilo dibujo)"
+P2,energia,A13,actuando-ciclo-carbono,/imagenes/actividades/actuando-ciclo-carbono.jpg,floja
+P2,energia,B04,cancion-viento-o-sol,/imagenes/actividades/cancion-viento-o-sol.jpg,floja (bandera de EE. UU.)
+P2,energia,B05,geiseres-y-aguas-termales,/imagenes/actividades/geiseres-y-aguas-termales.jpg,floja (scouts sobre suelo termal)
+P2,energia,C06,energia-en-saltos-de-tijera,/imagenes/actividades/energia-en-saltos-de-tijera.jpg,floja (chicos corriendo)
+P2,energia,C07,energia-en-el-pasado,/imagenes/actividades/energia-en-el-pasado.jpg,floja (no hay personas mayores)
+P2,energia,C11,obras-de-teatro-energia,/imagenes/actividades/obras-de-teatro-energia.jpg,floja (bandera de EE. UU.)
+P2,energia,C13,edificios-eficientes-energeticamente,/imagenes/actividades/edificios-eficientes-energeticamente.jpg,floja (bandera de EE. UU.)
+P2,energia,E03,la-hora-del-planeta-energia,/imagenes/actividades/la-hora-del-planeta-energia.jpg,floja (muchas velas con chicos)
+P2,energia,E15,politica-energetica,/imagenes/actividades/politica-energetica.jpg,floja (bandera de EE. UU.)
+P2,general,E05,cuanto-se-de-ecologia,/imagenes/actividades/cuanto-se-de-ecologia.jpg,floja: no se ven sectores ni carteles de respuesta
+P2,general,E08,taller-botella-de-amor,/imagenes/actividades/taller-botella-de-amor.jpg,floja: no se ve el llenado de la botella
+P2,general,E09,taller-huerta-de-botella,/imagenes/actividades/taller-huerta-de-botella.jpg,"floja: plantas en macetas de barro, no en botellas"
+P2,gosolar,A01,arte-solar,/imagenes/actividades/arte-solar.jpg,"floja: texto ""Sun"", no se ve la lupa"
+P2,gosolar,B02,ozono-y-quemaduras-de-sol,/imagenes/actividades/ozono-y-quemaduras-de-sol.jpg,floja: nada de protección solar
+P2,gosolar,C02,horno-solar-cocina-solar,/imagenes/actividades/horno-solar-cocina-solar.jpg,"floja: caja-horno, no la cocina ""flor"" de paneles"
+P2,gosolar,C04,concurso-solar,/imagenes/actividades/concurso-solar.jpg,floja: grupo con un pizarrón
+P2,gosolar,D02,ducha-solar,/imagenes/actividades/ducha-solar.jpg,floja: una manguera negra en un poste
+P2,hambre,B04,cadenas-alimentarias,/imagenes/actividades/cadenas-alimentarias.jpg,floja
+P2,hambre,C02,guion-grafico-sobre-la-trampa-del-hambre,/imagenes/actividades/guion-grafico-sobre-la-trampa-del-hambre.jpg,floja (hombre gritando)
+P2,hambre,C08,presentaciones-sobre-desastres-naturales,/imagenes/actividades/presentaciones-sobre-desastres-naturales.jpg,floja (policías frente a un incendio)
+P2,mundomejor,E10,nudo-humano,/imagenes/actividades/nudo-humano.jpg,"floja: chicos caminando en fila de la mano, no hay nudo"
+P2,nutricion,A02,que-empiece-el-juego,/imagenes/actividades/que-empiece-el-juego.jpg,floja (fútbol americano)
+P2,nutricion,A05,mantenganse-limpios,/imagenes/actividades/mantenganse-limpios.jpg,floja (adulto lavándose)
+P2,nutricion,A10,el-trabajo-del-agua,/imagenes/actividades/el-trabajo-del-agua.jpg,floja
+P2,nutricion,A12,la-verdad-sobre-los-germenes,/imagenes/actividades/la-verdad-sobre-los-germenes.jpg,"floja (tabla inventada, bandera de EE. UU.)"
+P2,nutricion,B02,el-diario-de-comidas,/imagenes/actividades/el-diario-de-comidas.jpg,floja
+P2,nutricion,B03,comidas-favoritas,/imagenes/actividades/comidas-favoritas.jpg,floja (adulto comiendo papas fritas)
+P2,nutricion,B04,choque-de-culturas,/imagenes/actividades/choque-de-culturas.jpg,floja (disfraces estereotipados)
+P2,nutricion,B08,el-cuerpo-humano-y-la-comida,/imagenes/actividades/el-cuerpo-humano-y-la-comida.jpg,floja (texto inventado)
+P2,nutricion,B10,hora-del-concurso,/imagenes/actividades/hora-del-concurso.jpg,floja (chicos en un campo)
+P2,nutricion,B12,investigacion-sobre-la-malnutricion,/imagenes/actividades/investigacion-sobre-la-malnutricion.jpg,floja (adultos)
+P2,nutricion,B13,entender-la-obesidad,/imagenes/actividades/entender-la-obesidad.jpg,floja (bandera de EE. UU.)
+P2,nutricion,B16,el-maestro-del-menu,/imagenes/actividades/el-maestro-del-menu.jpg,floja (media imagen con niebla)
+P2,nutricion,C09,bichos,/imagenes/actividades/bichos.jpg,floja (gráfico inventado)
+P2,nutricion,D06,compras-sostenibles,/imagenes/actividades/compras-sostenibles.jpg,floja (adulto)
+P2,nutricion,D14,comida-sedienta,/imagenes/actividades/comida-sedienta.jpg,floja (tabla inventada)
+P2,nutricion,D17,del-campo-a-tu-plato,/imagenes/actividades/del-campo-a-tu-plato.jpg,floja (infografía inventada)
+P2,nutricion,E06,exhibicion-de-posteres,/imagenes/actividades/exhibicion-de-posteres.jpg,floja (texto inventado)
+P2,nutricion,E08,supervisar-una-dieta-equilibrada,/imagenes/actividades/supervisar-una-dieta-equilibrada.jpg,floja (adulto comiendo)
+P2,oceano,A01,nuestro-oceano,/imagenes/actividades/nuestro-oceano.jpg,floja (scouts en cubierta sin chaleco)
+P2,oceano,B11,los-favoritos-del-mar,/imagenes/actividades/los-favoritos-del-mar.jpg,floja (ballena flotando en el aire)
+P2,oceano,C07,como-pescan-los-pescadores,/imagenes/actividades/como-pescan-los-pescadores.jpg,"floja (cañas como fusiles, bandera de EE. UU.)"
+P2,oceano,C11,explorando-los-mares-polares,/imagenes/actividades/explorando-los-mares-polares.jpg,floja (oso polar cerca de personas)
+P2,oceano,E02,campana-por-el-oceano,/imagenes/actividades/campana-por-el-oceano.jpg,floja (carteles con texto inventado)
+P2,plastics,A01,buen-plastico-mal-plastico,/imagenes/actividades/buen-plastico-mal-plastico.jpg,floja: chicos parados en un basural
+P2,plastics,P11,cuando-se-degradan,/imagenes/actividades/cuando-se-degradan.jpg,"floja: frascos sobre la tierra, no enterrados"
+P2,plastics,P12,macetas-de-botellas,/imagenes/actividades/macetas-de-botellas.jpg,"floja: frascos colgantes, no botellas cortadas"
+P2,polinizadores,A08,todo-sobre-la-polinizacion,/imagenes/actividades/todo-sobre-la-polinizacion.jpg,floja (chicos mirando TV)
+P2,rrd,A05,haz-un-modelo-de-un-volcan,/imagenes/actividades/haz-un-modelo-de-un-volcan.jpg,"floja: un volcán ""real"" con lava y un chico sentado al lado"
+P2,rrd,A08,de-prisa-rrd,/imagenes/actividades/de-prisa-rrd.jpg,floja (adultos frente a computadoras)
+P2,sacc,A04,calefaccion-y-aire-acondicionado,/imagenes/actividades/calefaccion-y-aire-acondicionado.jpg,floja (termostato en °F)
+P2,sacc,A20,letrero-no-propagandas,/imagenes/actividades/letrero-no-propagandas.jpg,floja (cartel vacío)
+P2,sacc,A26,bolsa-reutilizable,/imagenes/actividades/bolsa-reutilizable.jpg,floja (bolsa de plástico)
+P2,sacc,A33,productos-reciclables,/imagenes/actividades/productos-reciclables.jpg,"floja (carteles ""Recycl"")"
+P2,sacc,B05,refrigerador-eficiente,/imagenes/actividades/refrigerador-eficiente.jpg,floja (media imagen en blanco)
+P2,sacc,B15,desastres-relacionados-con-el-clima,/imagenes/actividades/desastres-relacionados-con-el-clima.jpg,floja (mapa inventado)
+P2,sacc,C06,elige-un-pais,/imagenes/actividades/elige-un-pais.jpg,floja (media imagen en verde)
+P2,sacc,C09,notas-recordatorias-apagame,/imagenes/actividades/notas-recordatorias-apagame.jpg,floja (ilustración vacía)
+P2,sacc,C14,obra-de-teatro-sobre-reciclaje,/imagenes/actividades/obra-de-teatro-sobre-reciclaje.jpg,floja (media imagen negra)
+P2,sacc,C15,tarjetas-de-felicitacion-recicladas,/imagenes/actividades/tarjetas-de-felicitacion-recicladas.jpg,floja (media imagen en blanco)
+P2,sacc,C19,campana-con-posters,/imagenes/actividades/campana-con-posters.jpg,floja (carteles con texto inventado)
+P2,sacc,C25,resuelve-un-problema-comunitario,/imagenes/actividades/resuelve-un-problema-comunitario.jpg,floja (chico junto a vías de tren)
+P2,suelos,A02,analisis-de-suelos,/imagenes/actividades/analisis-de-suelos.jpg,floja (adultos en sala)
+P2,suelos,B07,habitos-animales,/imagenes/actividades/habitos-animales.jpg,floja: elefantes en una sabana
+P3,agua,B44,inventos-inteligentes-agua,/imagenes/actividades/inventos-inteligentes-agua.jpg,ok (bandera EE. UU.)
+P3,agua,E37,dia-de-azul,/imagenes/actividades/dia-de-azul.jpg,ok (texto en inglés)
+P3,biodiversidad,A04,aves-migratorias,/imagenes/actividades/aves-migratorias.jpg,ok (bandera EE. UU.)
+P3,biodiversidad,A06,alimentador-de-aves,/imagenes/actividades/alimentador-de-aves.jpg,ok (bandera EE. UU.)
+P3,biodiversidad,C17,plantas-medicinales,/imagenes/actividades/plantas-medicinales.jpg,ok (bandera EE. UU.)
+P3,biodiversidad,C24,paseo-en-el-bosque,/imagenes/actividades/paseo-en-el-bosque.jpg,ok (bandera EE. UU.)
+P3,biodiversidad,D27,blog-de-biodiversidad,/imagenes/actividades/blog-de-biodiversidad.jpg,ok (texto inventado)
+P3,bosques,E04,fondos-para-los-bosques,/imagenes/actividades/fondos-para-los-bosques.jpg,ok (texto inventado)
+P3,cambioclimatico,D05,juegos-sobre-el-clima,/imagenes/actividades/juegos-sobre-el-clima.jpg,ok (texto inventado)
+P3,ciudadesverdes,A10,leccion-de-historia,/imagenes/actividades/leccion-de-historia.jpg,ok (texto inventado en la línea de tiempo)
+P3,ciudadesverdes,C05,edificios-verdes-a-mi-alrededor,/imagenes/actividades/edificios-verdes-a-mi-alrededor.jpg,ok (marca de agua abajo a la derecha)
+P3,ciudadesverdes,D05,habito-verde,/imagenes/actividades/habito-verde.jpg,ok (texto inventado)
+P3,energia,D06,articula-energia,/imagenes/actividades/articula-energia.jpg,ok (bandera de EE. UU.)
+P3,energia,E07,ahorrando-energia,/imagenes/actividades/ahorrando-energia.jpg,ok (bandera del Reino Unido)
+P3,energia,E13,financia-tu-favorito,/imagenes/actividades/financia-tu-favorito.jpg,ok (bandera de EE. UU.)
+P3,gosolar,C03,purificacion-agua-sodis,/imagenes/actividades/purificacion-agua-sodis.jpg,"retocar: texto ""SODIS 3"" en la botella"
+P3,hambre,A10,el-genero-y-el-hambre,/imagenes/actividades/el-genero-y-el-hambre.jpg,ok (bandera de EE. UU.)
+P3,hambre,B08,flash-informativo,/imagenes/actividades/flash-informativo.jpg,ok (diario con texto inventado)
+P3,hambre,E05,haz-ruido,/imagenes/actividades/haz-ruido.jpg,ok (bandera de EE. UU.)
+P3,nutricion,B17,visita-una-planta-de-procesado-de-alimentos,/imagenes/actividades/visita-una-planta-de-procesado-de-alimentos.jpg,ok (bandera de EE. UU.)
+P3,oceano,A10,ubicacion-del-oceano,/imagenes/actividades/ubicacion-del-oceano.jpg,"ok (texto inventado ""OGENNA"")"
+P3,oceano,B08,un-mapa-de-la-costa,/imagenes/actividades/un-mapa-de-la-costa.jpg,ok (mapa con texto inventado)
+P3,plastics,A02,auditoria-de-plastico-en-casa,/imagenes/actividades/auditoria-de-plastico-en-casa.jpg,ok (texto inventado)
+P3,plastics,B04,marca-algunos-goles-ods,/imagenes/actividades/marca-algunos-goles-ods.jpg,ok (texto inventado)
+P3,plastics,P09,identificando-alternativas-plastico,/imagenes/actividades/identificando-alternativas-plastico.jpg,ok (texto inventado)
+P3,polinizadores,B02,ayudantes-de-los-ods,/imagenes/actividades/ayudantes-de-los-ods.jpg,ok (texto inventado en la pizarra)
+P3,polinizadores,D05,carteles-en-el-parque,/imagenes/actividades/carteles-en-el-parque.jpg,ok (texto inventado en los carteles)
+P3,polinizadores,D06,apoya-a-las-abejas,/imagenes/actividades/apoya-a-las-abejas.jpg,"ok (texto inventado ""HONEY POLLAN"")"
+P3,rrd,A02,amenazas-y-desastres-cerca-de-casa,/imagenes/actividades/amenazas-y-desastres-cerca-de-casa.jpg,ok (texto en inglés en el afiche)
+P3,sacc,A05,entrevista-a-un-anciano,/imagenes/actividades/entrevista-a-un-anciano.jpg,ok (bandera de EE. UU.)
+P3,sacc,A30,basurero-vacio,/imagenes/actividades/basurero-vacio.jpg,ok (bandera de EE. UU.)
+P3,sacc,C21,dia-mundial-de-la-alimentacion,/imagenes/actividades/dia-mundial-de-la-alimentacion.jpg,ok (carteles con texto inventado)
+P4,agua,A04,mimica-de-agua,/imagenes/actividades/mimica-de-agua.jpg,genérica (paisaje sin relación)
+P4,agua,A06,el-juego-del-ciclo-del-agua,/imagenes/actividades/el-juego-del-ciclo-del-agua.jpg,genérica (paisaje sin relación)
+P4,agua,A07,aventuras-linguisticas,/imagenes/actividades/aventuras-linguisticas.jpg,genérica (paisaje sin relación)
+P4,agua,A09,verso-acuatico,/imagenes/actividades/verso-acuatico.jpg,genérica (paisaje sin relación)
+P4,agua,A11,dibujando-el-agua,/imagenes/actividades/dibujando-el-agua.jpg,genérica (paisaje sin relación)
+P4,agua,A12,los-colores-del-agua,/imagenes/actividades/los-colores-del-agua.jpg,genérica (paisaje sin relación)
+P4,agua,A13,lupa,/imagenes/actividades/lupa.jpg,genérica (paisaje sin relación)
+P4,agua,A14,aguas-en-literatura,/imagenes/actividades/aguas-en-literatura.jpg,genérica (paisaje sin relación)
+P4,agua,A16,el-futuro-del-agua,/imagenes/actividades/el-futuro-del-agua.jpg,genérica (paisaje sin relación)
+P4,agua,A22,hogar-dulce-hogar,/imagenes/actividades/hogar-dulce-hogar.jpg,genérica (paisaje sin relación)
+P4,agua,B01,observa-tu-agua,/imagenes/actividades/observa-tu-agua.jpg,genérica (paisaje sin relación)
+P4,agua,B02,es-dificil-pasarse-del-h2o,/imagenes/actividades/es-dificil-pasarse-del-h2o.jpg,genérica (paisaje sin relación)
+P4,agua,B03,mantenerla-limpia,/imagenes/actividades/mantenerla-limpia.jpg,genérica (paisaje sin relación)
+P4,agua,B04,alimentos-sedientos,/imagenes/actividades/alimentos-sedientos.jpg,genérica (paisaje sin relación)
+P4,agua,B05,planta-de-agua-potable,/imagenes/actividades/planta-de-agua-potable.jpg,genérica (paisaje sin relación)
+P4,agua,B09,a-donde-va-el-agua,/imagenes/actividades/a-donde-va-el-agua.jpg,genérica (paisaje sin relación)
+P4,agua,B10,haciendo-los-calculos,/imagenes/actividades/haciendo-los-calculos.jpg,genérica (paisaje sin relación)
+P4,agua,B11,el-agua-en-tu-armario,/imagenes/actividades/el-agua-en-tu-armario.jpg,genérica (paisaje sin relación)
+P4,agua,C03,aguas-sucias,/imagenes/actividades/aguas-sucias.jpg,genérica (paisaje sin relación)
+P4,agua,C04,presiones-pintadas,/imagenes/actividades/presiones-pintadas.jpg,genérica (paisaje sin relación)
+P4,agua,C05,saca-el-bardo-que-hay-en-ti,/imagenes/actividades/saca-el-bardo-que-hay-en-ti.jpg,genérica (paisaje sin relación) (franjas)
+P4,agua,C06,sed-continental,/imagenes/actividades/sed-continental.jpg,genérica (paisaje sin relación)
+P4,agua,C08,agua-sin-fronteras,/imagenes/actividades/agua-sin-fronteras.jpg,genérica (paisaje sin relación)
+P4,agua,D01,agua-alrededor-del-mundo,/imagenes/actividades/agua-alrededor-del-mundo.jpg,genérica (paisaje sin relación) (franjas)
+P4,agua,D02,ideas-descabelladas,/imagenes/actividades/ideas-descabelladas.jpg,genérica (paisaje sin relación)
+P4,agua,D10,el-precio-del-agua,/imagenes/actividades/el-precio-del-agua.jpg,genérica (paisaje sin relación)
+P4,agua,E01,pasa-la-voz,/imagenes/actividades/pasa-la-voz.jpg,genérica (paisaje sin relación)
+P4,agua,E04,construye-un-pozo,/imagenes/actividades/construye-un-pozo.jpg,genérica (paisaje sin relación)
+P4,agua,E06,deja-la-botella,/imagenes/actividades/deja-la-botella.jpg,genérica (paisaje sin relación) (franjas)
+P4,agua,E07,ciudadano-del-agua,/imagenes/actividades/ciudadano-del-agua.jpg,genérica (paisaje sin relación)
+P4,agua,E08,al-blog,/imagenes/actividades/al-blog.jpg,genérica (paisaje sin relación)
+P4,biodiversidad,A15,dieta-energetica,/imagenes/actividades/dieta-energetica.jpg,genérica
+P4,biodiversidad,A16,especies-en-movimiento,/imagenes/actividades/especies-en-movimiento.jpg,genérica
+P4,biodiversidad,B14,arte-inspirado-en-el-mar,/imagenes/actividades/arte-inspirado-en-el-mar.jpg,genérica
+P4,biodiversidad,B20,reciclaje-de-aguas-grises,/imagenes/actividades/reciclaje-de-aguas-grises.jpg,genérica
+P4,biodiversidad,C03,juego-de-semillas,/imagenes/actividades/juego-de-semillas.jpg,genérica
+P4,biodiversidad,C18,variedades-raras-de-cultivos,/imagenes/actividades/variedades-raras-de-cultivos.jpg,genérica
+P4,biodiversidad,D01,collage-de-biodiversidad,/imagenes/actividades/collage-de-biodiversidad.jpg,genérica
+P4,biodiversidad,D03,podcasts-de-biodiversidad,/imagenes/actividades/podcasts-de-biodiversidad.jpg,genérica
+P4,biodiversidad,D05,biodiversidad-en-otros-paises,/imagenes/actividades/biodiversidad-en-otros-paises.jpg,genérica
+P4,biodiversidad,D08,uso-de-la-biodiversidad,/imagenes/actividades/uso-de-la-biodiversidad.jpg,genérica
+P4,biodiversidad,D12,explicacion-multisensorial,/imagenes/actividades/explicacion-multisensorial.jpg,genérica
+P4,biodiversidad,D13,conservacion-in-situ-y-ex-situ,/imagenes/actividades/conservacion-in-situ-y-ex-situ.jpg,genérica
+P4,biodiversidad,D14,fragmentacion-de-habitats,/imagenes/actividades/fragmentacion-de-habitats.jpg,genérica
+P4,biodiversidad,D15,acuerdos-internacionales,/imagenes/actividades/acuerdos-internacionales.jpg,genérica
+P4,biodiversidad,D21,biomimesis,/imagenes/actividades/biomimesis.jpg,genérica
+P4,biodiversidad,D22,comercial-de-biodiversidad,/imagenes/actividades/comercial-de-biodiversidad.jpg,genérica
+P4,biodiversidad,D23,dia-internacional-de-la-biodiversidad,/imagenes/actividades/dia-internacional-de-la-biodiversidad.jpg,genérica
+P4,biodiversidad,D25,taller-ambiental,/imagenes/actividades/taller-ambiental.jpg,genérica
+P4,biodiversidad,D32,la-ola-verde,/imagenes/actividades/la-ola-verde.jpg,genérica
+P4,bosques,A02,los-biomas-son-hogares,/imagenes/actividades/los-biomas-son-hogares.jpg,genérica
+P4,bosques,A04,cinco-cosas-buenas,/imagenes/actividades/cinco-cosas-buenas.jpg,genérica
+P4,bosques,A06,las-capas-del-bosque,/imagenes/actividades/las-capas-del-bosque.jpg,genérica
+P4,bosques,A25,tira-comica-sobre-el-carbon,/imagenes/actividades/tira-comica-sobre-el-carbon.jpg,genérica
+P4,bosques,B01,bosques-llenos-de-vida,/imagenes/actividades/bosques-llenos-de-vida.jpg,genérica
+P4,bosques,B02,medios-de-subsistencia-alternativos,/imagenes/actividades/medios-de-subsistencia-alternativos.jpg,genérica
+P4,bosques,B04,empleos-forestales,/imagenes/actividades/empleos-forestales.jpg,genérica
+P4,bosques,B07,usando-la-madera,/imagenes/actividades/usando-la-madera.jpg,genérica
+P4,bosques,B08,cambiando-con-el-clima,/imagenes/actividades/cambiando-con-el-clima.jpg,genérica
+P4,bosques,B09,ecoturismo,/imagenes/actividades/ecoturismo.jpg,genérica
+P4,bosques,B10,arboles-energeticos,/imagenes/actividades/arboles-energeticos.jpg,genérica
+P4,bosques,B12,bosques-justos,/imagenes/actividades/bosques-justos.jpg,genérica
+P4,bosques,B13,biopiratas,/imagenes/actividades/biopiratas.jpg,genérica
+P4,bosques,B15,amenazas-naturales,/imagenes/actividades/amenazas-naturales.jpg,genérica
+P4,bosques,C01,habitantes-indigenas,/imagenes/actividades/habitantes-indigenas.jpg,genérica
+P4,bosques,C03,aprender-jugando,/imagenes/actividades/aprender-jugando.jpg,genérica
+P4,bosques,C06,bosques-alrededor-del-mundo,/imagenes/actividades/bosques-alrededor-del-mundo.jpg,genérica
+P4,bosques,C09,canta-con-el-bosque,/imagenes/actividades/canta-con-el-bosque.jpg,genérica
+P4,bosques,C12,bosques-sagrados,/imagenes/actividades/bosques-sagrados.jpg,genérica
+P4,bosques,C18,informe-de-prensa,/imagenes/actividades/informe-de-prensa.jpg,genérica
+P4,bosques,C19,bosques-politicos,/imagenes/actividades/bosques-politicos.jpg,genérica
+P4,bosques,D02,perdiendo-biodiversidad,/imagenes/actividades/perdiendo-biodiversidad.jpg,genérica
+P4,bosques,D03,tala-de-arboles,/imagenes/actividades/tala-de-arboles.jpg,genérica
+P4,bosques,D04,invasoras,/imagenes/actividades/invasoras.jpg,genérica
+P4,bosques,D05,el-destino-de-los-bosques,/imagenes/actividades/el-destino-de-los-bosques.jpg,genérica
+P4,bosques,D06,los-bosques-y-tu,/imagenes/actividades/los-bosques-y-tu.jpg,genérica
+P4,bosques,D08,carne-de-animales-silvestres,/imagenes/actividades/carne-de-animales-silvestres.jpg,genérica
+P4,bosques,D10,especies-que-usan-el-agua-inteligentemente,/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.jpg,genérica
+P4,bosques,D12,los-bosques-y-el-cambio-climatico,/imagenes/actividades/los-bosques-y-el-cambio-climatico.jpg,genérica
+P4,bosques,D14,desenterrando-la-suciedad,/imagenes/actividades/desenterrando-la-suciedad.jpg,genérica
+P4,cambioclimatico,A01,creatividad-por-el-clima,/imagenes/actividades/creatividad-por-el-clima.jpg,genérica
+P4,cambioclimatico,A02,el-clima-de-tu-comunidad,/imagenes/actividades/el-clima-de-tu-comunidad.jpg,genérica
+P4,cambioclimatico,A04,clima-vs-tiempo,/imagenes/actividades/clima-vs-tiempo.jpg,genérica
+P4,cambioclimatico,A05,pensar-en-voz-alta,/imagenes/actividades/pensar-en-voz-alta.jpg,genérica
+P4,cambioclimatico,A07,relatos-de-viaje,/imagenes/actividades/relatos-de-viaje.jpg,genérica
+P4,cambioclimatico,A08,un-clima-que-da-vida,/imagenes/actividades/un-clima-que-da-vida.jpg,genérica
+P4,cambioclimatico,A11,clima-y-salud,/imagenes/actividades/clima-y-salud.jpg,genérica
+P4,cambioclimatico,A13,suelos-calidos,/imagenes/actividades/suelos-calidos.jpg,genérica
+P4,cambioclimatico,A14,clima-y-estilos-de-vida,/imagenes/actividades/clima-y-estilos-de-vida.jpg,genérica
+P4,cambioclimatico,A15,estudio-evolutivo,/imagenes/actividades/estudio-evolutivo.jpg,genérica
+P4,cambioclimatico,B01,historiadores-del-clima,/imagenes/actividades/historiadores-del-clima.jpg,genérica
+P4,cambioclimatico,B03,arte-futurista,/imagenes/actividades/arte-futurista.jpg,genérica
+P4,cambioclimatico,B04,electricidad-en-todas-partes,/imagenes/actividades/electricidad-en-todas-partes.jpg,genérica
+P4,cambioclimatico,B07,adivinanzas-sobre-el-clima,/imagenes/actividades/adivinanzas-sobre-el-clima.jpg,genérica
+P4,cambioclimatico,B08,que-gas,/imagenes/actividades/que-gas.jpg,genérica
+P4,cambioclimatico,B09,presentando-a-los-combustibles-fosiles,/imagenes/actividades/presentando-a-los-combustibles-fosiles.jpg,genérica
+P4,cambioclimatico,B11,el-gran-debate-sobre-el-clima,/imagenes/actividades/el-gran-debate-sobre-el-clima.jpg,genérica
+P4,cambioclimatico,B12,comestibles-energetico,/imagenes/actividades/comestibles-energeticos.jpg,genérica
+P4,cambioclimatico,B13,investigaciones-urbanas,/imagenes/actividades/investigaciones-urbanas.jpg,genérica
+P4,cambioclimatico,B14,clasificacion-de-carbono,/imagenes/actividades/clasificacion-de-carbono.jpg,genérica
+P4,cambioclimatico,B15,investigaciones-tormentosas,/imagenes/actividades/investigaciones-tormentosas.jpg,genérica
+P4,cambioclimatico,D12,ideas-brillantes,/imagenes/actividades/ideas-brillantes.jpg,genérica
+P4,cfn,A04,gafas-de-alimentos,/imagenes/actividades/gafas-de-alimentos.jpg,genérica (un chico caminando)
+P4,cfn,A07,cual-es-tu-posicion,/imagenes/actividades/cual-es-tu-posicion.jpg,"genérica, parche de EE. UU."
+P4,cfn,A08,cuatro-esquinas,/imagenes/actividades/cuatro-esquinas.jpg,genérica
+P4,cfn,A09,piramide-de-alimentos,/imagenes/actividades/piramide-de-alimentos.jpg,genérica
+P4,cfn,B01,que-esta-en-riesgo,/imagenes/actividades/que-esta-en-riesgo.jpg,genérica
+P4,cfn,B09,see-los-enlaces,/imagenes/actividades/see-los-enlaces.jpg,genérica
+P4,cfn,B10,discurso-pixar,/imagenes/actividades/discurso-pixar.jpg,genérica
+P4,cfn,C01,proyecto-servicio-comunitario-cfn,/imagenes/actividades/proyecto-servicio-comunitario-cfn.jpg,genérica
+P4,energia,A09,mundo-de-carbono,/imagenes/actividades/mundo-de-carbono.jpg,genérica
+P4,energia,B10,investigacion-geotermica,/imagenes/actividades/investigacion-geotermica.jpg,genérica
+P4,energia,C02,desafio-sin-electronicos,/imagenes/actividades/desafio-sin-electronicos.jpg,genérica
+P4,energia,D02,adivina-el-ods,/imagenes/actividades/adivina-el-ods.jpg,genérica
+P4,energia,D03,energia-creativa,/imagenes/actividades/energia-creativa.jpg,genérica
+P4,energia,D09,ideas-brillantes-energia,/imagenes/actividades/ideas-brillantes-energia.jpg,genérica
+P4,energia,D10,impactos-sociales,/imagenes/actividades/impactos-sociales.jpg,genérica
+P4,energia,D12,energia-y-pobreza,/imagenes/actividades/energia-y-pobreza.jpg,genérica
+P4,energia,E04,ir-contra-la-corriente,/imagenes/actividades/ir-contra-la-corriente.jpg,genérica
+P4,energia,E12,campana-comunitaria,/imagenes/actividades/campana-comunitaria.jpg,genérica
+P4,energia,E14,iluminando-y-empoderando,/imagenes/actividades/iluminando-y-empoderando.jpg,genérica
+P4,nutricion,A13,charlas-sobre-salud,/imagenes/actividades/charlas-sobre-salud.jpg,genérica
+P4,nutricion,B19,profundicen-en-las-diferencias,/imagenes/actividades/profundicen-en-las-diferencias.jpg,genérica (adultos)
+P4,nutricion,E09,educa-a-tu-comunidad,/imagenes/actividades/educa-a-tu-comunidad.jpg,genérica
+P4,polinizadores,A05,quien-es-un-polinizador,/imagenes/actividades/quien-es-un-polinizador.jpg,genérica
+P4,polinizadores,B07,cosas-que-usamos,/imagenes/actividades/cosas-que-usamos.jpg,genérica
+P4,polinizadores,B09,polinizadores-y-la-economia,/imagenes/actividades/polinizadores-y-la-economia.jpg,genérica
+P4,polinizadores,C04,habitats-en-la-naturaleza,/imagenes/actividades/habitats-en-la-naturaleza.jpg,genérica
+P4,polinizadores,C09,polinizadores-y-contaminacion,/imagenes/actividades/polinizadores-y-contaminacion.jpg,genérica
+P4,polinizadores,D07,fuerzas-locales,/imagenes/actividades/fuerzas-locales.jpg,genérica
+P4,polinizadores,D10,patrulla-del-parque,/imagenes/actividades/patrulla-del-parque.jpg,genérica
+P4,rrd,C04,hazles-saber,/imagenes/actividades/hazles-saber.jpg,genérica
+P4,rrd,C08,a-ayudar,/imagenes/actividades/a-ayudar.jpg,genérica
+P4,rrd,D04,probando-probando,/imagenes/actividades/probando-probando.jpg,genérica
+P4,rrd,D08,persuade-y-prepara,/imagenes/actividades/persuade-y-prepara.jpg,genérica
+P4,sacc,A31,tiempo-de-descomposicion,/imagenes/actividades/tiempo-de-descomposicion.jpg,genérica
+P4,sacc,C30,campamento-amigable-con-el-medio-ambiente,/imagenes/actividades/campamento-amigable-con-el-medio-ambiente.jpg,genérica
+P4,sacc,C32,organizador-comunitario,/imagenes/actividades/organizador-comunitario.jpg,genérica
+P4,suelos,A06,concurso-de-pruebas,/imagenes/actividades/concurso-de-pruebas.jpg,genérica
+P4,suelos,B05,camisetas-sucias,/imagenes/actividades/camisetas-sucias.jpg,genérica
+P4,suelos,B13,recolectando-datos,/imagenes/actividades/recolectando-datos.jpg,genérica
+P4,suelos,B14,climas-cambiantes,/imagenes/actividades/climas-cambiantes.jpg,genérica
+P4,suelos,C01,revision-a-los-suelos,/imagenes/actividades/revision-a-los-suelos.jpg,genérica
+P4,suelos,C05,graficos-del-suelo,/imagenes/actividades/graficos-del-suelo.jpg,genérica
+P4,suelos,C08,trabajos-en-el-suelo,/imagenes/actividades/trabajos-en-el-suelo.jpg,genérica
+P4,suelos,C10,monologos,/imagenes/actividades/monologos.jpg,genérica
+P4,suelos,C13,el-debate-sobre-la-mg,/imagenes/actividades/el-debate-sobre-la-mg.jpg,genérica
+P4,suelos,D01,celebracion-por-el-suelo,/imagenes/actividades/celebracion-por-el-suelo.jpg,genérica
