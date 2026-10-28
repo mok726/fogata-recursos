@@ -76,7 +76,7 @@ Fuente verificada: OMMS, *Champions for Nature Challenge – Action Kit*, junio 
 - El titular es **OMMS**, no WWF (WWF y PNUMA son socios). Las 20 actividades dicen "© WWF 2020": está mal.
 - **No es CC BY-NC-SA 3.0 IGO**: está mal.
 - La reproducción solo está autorizada para organizaciones miembro (SAAC sí; un sitio personal no). **Opciones**: pedir permiso a OMMS (o a SAAC, que es miembro y podría avalarlo) o usar texto propio y enlazar al kit.
-- `badges.js` → `cfn`: `attribution.organization: "FAO"` y `sources: []`, también mal.
+- `badges.js` → `cfn`: `attribution.organization: "FAO"` y `sources: []`, también mal. **Resuelto (2026-10-28)**: OMMS 2020 y fuente Action Kit.
 
 ## G14. Letras acentuadas perdidas ("secci  n") en textos visibles (P1)
 
