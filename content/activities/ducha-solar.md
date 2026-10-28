@@ -190,6 +190,8 @@ Sigan el paso a paso del instructivo para construir su propia ducha solar.
 ### Paso 3 - Probar
 Instalen la ducha y prueben su funcionamiento.
 
+> **Nota de seguridad:** en verano, el agua de una ducha solar puede pasar los 50–60 °C y quemar. Antes de usarla, un adulto prueba la temperatura con la mano. Si está muy caliente, mezclen con agua fría o esperen.
+
 ## Cierre
 1. ¿Qué tan efectiva fue la ducha solar?
 2. ¿Cuánto tiempo tardó en calentarse el agua?

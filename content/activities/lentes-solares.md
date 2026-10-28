@@ -186,6 +186,8 @@ Peguen la lámina oscura en los dos orificios y luego unan las dos caras.
 ### Paso 3 - Secar y decorar
 Dejen secar unos minutos y ya tendrán tus lentes listos. Pueden decorarlos como quieran.
 
+> **Nota de seguridad para el educador:** estos lentes son un ejercicio didáctico. Una lámina oscura no garantiza filtro UV, y un lente oscuro sin filtro dilata la pupila y deja entrar **más** radiación UV. No reemplazan a los anteojos de sol certificados (norma ISO 12312-1) y **nunca** sirven para mirar el Sol ni un eclipse.
+
 ## Cierre
 1. ¿Por qué es importante proteger los ojos del Sol?
 2. ¿Qué son los rayos UV y cómo nos afectan?

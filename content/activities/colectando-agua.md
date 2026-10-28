@@ -197,6 +197,10 @@ Pongan una piedra pequeña en el centro de la lámina, sobre el frasco, para pro
 ### Paso 6 - Esperar
 Dejen que el sol llegue directo sobre el hueco y observen qué sucede al pasar el tiempo (15 min o más).
 
+> **Nota para el educador:** cuánta agua se junta en 15 minutos depende mucho del sol, la temperatura, la humedad del suelo y de la vegetación. A veces se ven solo unas gotas en el plástico. **Opción:** armen el colector al comenzar la jornada y vuelvan a revisarlo más tarde o al final del día; ahí el resultado se nota mucho más.
+>
+> Al terminar, rellenen el pozo y dejen el lugar como estaba (No Dejar Rastro). No corten vegetación en áreas protegidas ni usen plantas que no conozcan, porque pueden ser tóxicas.
+
 ## Cierre
 1. ¿Qué sucedió en el frasco?
 2. ¿Cómo se relaciona esto con el ciclo del agua?

@@ -181,6 +181,8 @@ Enfoquen la luz del Sol con una lupa sobre una tabla de madera para que ésta se
 - Cuando hayan terminado, coloquen las lupas en un lugar donde no estén expuestas a la luz solar.
 - No miren directamente al Sol.
 
+> **Nota para el educador:** con castores y manada, la supervisión del adulto tiene que ser de cerca. Los anteojos de sol comunes reducen el brillo, pero no conviene mirar fijo el punto de luz mucho rato. Para evitar incendios, trabajen sobre tierra, arena o piso, nunca sobre pasto seco ni hojas.
+
 ## Preparación
 1. Consigan tablas o pedazos de madera (pueden ser reciclados).
 2. Consigan lupas y anteojos de Sol oscuros con protección UV.

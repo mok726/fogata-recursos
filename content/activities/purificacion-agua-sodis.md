@@ -198,6 +198,12 @@ Pongan la botella con agua al sol durante 6 horas sobre una superficie reflectan
 
 El agua quedará perfectamente purificada y puede ser utilizada como agua potable.
 
+> **Nota de seguridad para el educador:** SODIS **desinfecta** (elimina bacterias, virus y parásitos), pero no elimina químicos como arsénico, agroquímicos o combustibles. Para que funcione:
+> - El agua tiene que ser poco turbia. Si está turbia, filtrala antes con una tela o dejala decantar.
+> - Usá botellas de PET o vidrio **transparentes**, de 1 a 2 litros, sin rayones ni etiquetas. No sirven las de color.
+> - 6 horas con sol pleno. Si está nublado, **2 días seguidos**.
+> - Con chicos, conviene hacerlo como experimento demostrativo y no tomar el agua, salvo que sepas que la fuente no tiene contaminación química.
+
 ## Cierre
 1. ¿Cómo funciona el método SODIS?
 2. ¿Por qué es importante purificar el agua?

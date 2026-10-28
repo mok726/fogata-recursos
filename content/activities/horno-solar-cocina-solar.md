@@ -212,6 +212,10 @@ Sigan las instrucciones del anexo para construir la cocina solar.
 
 **Paso 6:** Unan las piezas y sujétenlas con tanza o hilo a través de los huecos. Usen 4 clips para darle forma de flor a la cocina.
 
+> **Nota para el educador:** los pasos hablan de dos piezas de madera (una grande y una pequeña), pero la lista de materiales da la medida de una sola. **Opción:** usen una segunda pieza más chica, por ejemplo de 12 x 12 cm, que va arriba y aprieta los cartones contra la de 20 x 20 cm.
+>
+> Para cocinar en una cocina de panel como esta hace falta además una **olla o lata oscura con tapa** (lo oscuro absorbe el calor) y, si se puede, una bolsa para horno o un recipiente transparente que envuelva la olla para que no pierda calor.
+
 ### Parte II - Cocinar
 Coloquen la cocina solar al Sol y prueben a cocinar algo simple (ej. hervir agua para mate cocido, hacer pochoclos o arroz).
 

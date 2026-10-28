@@ -182,6 +182,11 @@ Apunten la marca de las 12 en punto en dirección al Sol. Si tienen dificultades
 ### Paso 3 - Encontrar el Norte
 Para hallar el Norte, diríjanse a la mitad entre la aguja de la hora y las 12 en punto. Este medio exacto marca el Norte, mientras que el punto opuesto lo marca el Sur y los demás por defecto.
 
+> **Nota para el educador:**
+> - Este método (las 12 hacia el Sol) es el del **hemisferio sur**. En internet circula mucho la versión del hemisferio norte, donde se apunta la aguja de la hora al Sol y se encuentra el Sur: no las mezclen.
+> - El método supone la hora **solar**. En Argentina, la hora oficial suele estar adelantada una hora o más respecto de la solar, según la provincia. Antes de usarlo, atrasen el reloj una hora; si no, el error puede ser de 15° a 30°.
+> - Es un método aproximado: funciona mejor a media mañana o a media tarde que cerca del mediodía.
+
 ## Cierre
 1. ¿Qué tan fácil fue encontrar el Norte?
 2. ¿Cómo se mueve el Sol durante el día?

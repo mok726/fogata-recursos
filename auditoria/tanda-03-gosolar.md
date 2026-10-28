@@ -73,3 +73,10 @@ Licencia: aplica G10 (está bien declarada como propiedad de SAAC; falta el perm
 - **b)** El enlace https://duchadesol5.webnode.com/proyectos/ redirige a `webnode.page` y es un **índice** de proyectos (calefón solar, calefactor de aire, bomba manual, casa solar "en construcción"), no un instructivo. Apuntar directo a la página "Calefón de agua solar".
 - **f)** **P2 seguridad**: el agua de una ducha solar en verano supera fácilmente los 50–60 °C: advertir riesgo de quemaduras y probar la temperatura antes. `duration` y `prep_time` "Variable".
 - **g)** Floja: una manguera negra en un poste.
+
+## Estado (2026-10-28)
+
+**Corrección a esta auditoría:** en SODIS dije que el vidrio no sirve. Es falso: sirven las botellas de PET o vidrio **transparentes** y finas, no las de color.
+
+Criterio de Mariano: no se contradice la fuente (Solafrica/SAAC). Se agregan notas y opciones. Aplicado como "Nota para el educador" o "Nota de seguridad":
+- SODIS (desinfecta, no saca químicos; agua poco turbia; 6 h o 2 días nublado), lentes solares (didácticos, no protegen de UV, ISO 12312-1), arte solar (supervisión de cerca, nunca sobre pasto seco), ducha solar (quemaduras), colectando agua (el resultado depende del ambiente; opción de volver más tarde; No Dejar Rastro), cocina solar (segunda madera como opción, olla oscura con tapa), comida solar (no carnes al principio), reloj de sol (los dos modelos del anexo y sus materiales; estaciones), brújula del reloj (hemisferio sur, hora oficial vs. solar), concurso solar (banco de 24 preguntas con respuestas; 30–45 min).

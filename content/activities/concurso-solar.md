@@ -1,7 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Concurso Solar"
-duration: "Variable"
+duration: "30-45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-solar/"
 description: "Juego de preguntas sobre energía solar para aprender de forma creativa y divertida, en forma de debate o competencia entre equipos."
@@ -178,6 +178,44 @@ Preparen preguntas sobre energía solar. Pueden ser sobre:
 - Usos de la energía solar
 - Beneficios ambientales
 - Curiosidades solares
+
+### Banco de preguntas (opcional)
+
+Si no tienen tiempo de prepararlas, pueden usar estas. Elijan según la rama.
+
+**Datos básicos del Sol**
+1. ¿Qué es el Sol? — Una estrella.
+2. ¿Cuánto tarda la luz del Sol en llegar a la Tierra? — Unos 8 minutos.
+3. ¿A qué distancia está el Sol de la Tierra? — A unos 150 millones de km.
+4. ¿Cómo produce el Sol su energía? — Por fusión nuclear: une átomos de hidrógeno y forma helio.
+5. ¿Qué temperatura tiene la superficie del Sol? — Unos 5500 °C.
+6. ¿Cuántas Tierras entrarían dentro del Sol? — Alrededor de 1,3 millones.
+
+**Cómo funciona la energía solar**
+7. ¿En qué convierte la luz un panel fotovoltaico? — En electricidad.
+8. ¿Y un colector o termotanque solar? — En calor, para calentar agua.
+9. ¿De qué material están hechas la mayoría de las celdas solares? — De silicio.
+10. En Argentina, ¿hacia qué punto cardinal conviene orientar un panel solar? — Hacia el Norte.
+11. ¿Por qué una olla negra se calienta más al sol que una blanca? — Porque los colores oscuros absorben más luz y la transforman en calor.
+12. ¿Los paneles solares funcionan en días nublados? — Sí, pero producen bastante menos.
+13. ¿Para qué sirve una batería en un sistema solar? — Para guardar energía y usarla de noche.
+
+**Usos de la energía solar**
+14. Nombren tres cosas que se pueden hacer con energía solar. — Por ejemplo: electricidad, agua caliente, cocinar, secar ropa o alimentos, desinfectar agua (SODIS).
+15. ¿Qué es SODIS? — Un método para desinfectar agua dejándola al sol en botellas transparentes.
+16. ¿En qué provincia argentina está uno de los parques solares más grandes de Sudamérica? — En Jujuy (Cauchari).
+
+**Beneficios ambientales**
+17. ¿La energía solar es renovable? ¿Por qué? — Sí, porque el Sol no se agota en tiempos humanos.
+18. ¿Un panel solar emite dióxido de carbono mientras funciona? — No. Sí se emite al fabricarlo y transportarlo.
+19. ¿Qué otras energías vienen, indirectamente, del Sol? — La eólica (el sol calienta el aire y genera viento), la hidráulica (el ciclo del agua), la biomasa e incluso el petróleo y el carbón.
+
+**Curiosidades solares**
+20. ¿Qué hacen las plantas con la luz del Sol? — Fotosíntesis: fabrican su alimento y liberan oxígeno.
+21. ¿Qué capa de la atmósfera nos protege de los rayos UV? — La capa de ozono.
+22. ¿Por qué hay estaciones? — Porque el eje de la Tierra está inclinado (unos 23,5°).
+23. ¿Cuándo es el día más largo del año en el hemisferio sur? — Alrededor del 21 de diciembre (solsticio de verano).
+24. ¿A qué hora del día la sombra es más corta? — Al mediodía solar.
 
 ### Parte II - Jugar
 Cada equipo responde las preguntas. Pueden hacerlo:

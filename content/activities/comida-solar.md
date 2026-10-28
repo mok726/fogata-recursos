@@ -186,6 +186,8 @@ Empiecen con algo sencillo como hervir agua para mate cocido o preparar pochoclo
 ### Paso 2 - Probar recetas
 A medida que ganen confianza, prueben recetas más complejas como arroz, verduras o incluso pan.
 
+> **Nota para el educador:** una cocina solar casera muchas veces no llega a una temperatura segura para carnes, pollo o pescado. Empiecen con verduras, arroz, huevos o pochoclos, y usen una olla oscura con tapa.
+
 ### Paso 3 - Compartir
 Disfruten de la comida preparada con energía solar.
 

@@ -193,6 +193,12 @@ Construí tu propio reloj de Sol utilizando la plantilla y el paso a paso que se
 3. Armá el reloj siguiendo las instrucciones de la plantilla.
 4. Decorá tu reloj como quieras.
 
+> **Nota para el educador:** la lista de materiales corresponde al modelo de plantilla del manual. El anexo propone además dos modelos con otros materiales:
+> - **Modelo 1, básico:** tabla de madera plana o cartón fuerte, un clavo largo, martillo, lápiz y regla. Se clava el clavo en el centro y se marca la sombra cada hora, desde la mañana hasta el atardecer.
+> - **Modelo 2, plantilla personalizada:** se genera en https://www.sundialzone.com/es/relojdesol con tu ubicación y huso horario. Hace falta una hoja A4, impresora, tijeras y pegamento.
+>
+> En el Modelo 1, las marcas valen solo para unas semanas cerca del día en que se hicieron, porque la sombra cambia con las estaciones. Es un buen tema para la pregunta de la Parte III.
+
 ### Parte II - Prueba
 Colocá tu reloj de sol al aire libre con luz solar directa y observá cómo la sombra indica la hora.
 
