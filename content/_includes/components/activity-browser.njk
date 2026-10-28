@@ -1,0 +1,436 @@
+{# Buscador y filtros de actividades, compartido por /activities/
+   y las páginas de detalle (ODS, rama, competencia, etc.).
+   Espera:
+   - browserItems: las actividades a listar.
+   - pageSize (opcional, 24 por defecto).
+   - fixed (opcional): { filter, label, text } para el filtro que
+     la página deja fijo. filter es "rama", "tipo", "ods" u "otro"
+     (competencia, valor, método: no tiene filtro propio).
+   El buscador (#acts-q dentro de .acts-search) lo pone la
+   página, en su encabezado. #}
+{% set pageSize = pageSize or 24 %}
+{% set activityTypeOptions = collections.activitiesSorted | activityTypeOptions %}
+{% set badgeOptions = badges | badgeOptions(collections.activitiesSorted) %}
+
+{% macro fixedSelect(fixed, name, label) %}
+  {% if fixed and fixed.filter == name %}
+    <label class="acts-fixed" title="Fijo en esta página">
+      <span>{{ label }} <span class="material-symbols-outlined" aria-hidden="true">lock</span></span>
+      <select data-filter="{{ name }}" disabled aria-label="{{ label }} (fijo en esta página)">
+        <option selected>{{ fixed.text }}</option>
+      </select>
+    </label>
+  {% endif %}
+{% endmacro %}
+
+
+
+<details class="acts-filters">
+
+  <summary>
+    <span class="material-symbols-outlined" aria-hidden="true">tune</span>
+    Filtros
+    <span class="acts-filters-badge" hidden></span>
+  </summary>
+
+  <div class="acts-filters-grid">
+
+    <label>
+      <span>Edad</span>
+      <select data-filter="edad" data-attr="agespan" data-range>
+        <option value="">Cualquiera</option>
+        {% for n in range(5, 18) %}
+          <option value="{{ n }}">{{ n }} años</option>
+        {% endfor %}
+        <option value="18">18 años o más</option>
+      </select>
+    </label>
+
+    {{ fixedSelect(fixed, "rama", "Rama") }}
+    {% if not (fixed and fixed.filter == "rama") %}
+    <label>
+      <span>Rama</span>
+      <select data-filter="rama" data-attr="age" data-multi>
+        <option value="">Todas</option>
+        {% for age in ageGroups %}
+          <option value="{{ age.id | lower }}">{{ age.name }} ({{ age.agefrom }}–{{ age.ageto }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% endif %}
+
+    {{ fixedSelect(fixed, "tipo", "Tipo") }}
+    {% if not (fixed and fixed.filter == "tipo") %}
+    <label>
+      <span>Tipo</span>
+      <select data-filter="tipo" data-attr="type">
+        <option value="">Todos</option>
+        {% for t in activityTypeOptions %}
+          <option value="{{ t.id }}">{{ t.name }} ({{ t.count }})</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% endif %}
+
+    <label>
+      <span>Duración</span>
+      <select data-filter="duracion" data-attr="dur">
+        <option value="">Cualquiera</option>
+        <option value="corta">Hasta 45 min</option>
+        <option value="media">Hasta 2 horas</option>
+        <option value="larga">Más larga / proyectos</option>
+      </select>
+    </label>
+
+    <label>
+      <span>Insignia</span>
+      <select data-filter="insignia" data-attr="badges" data-multi>
+        <option value="">Todas</option>
+        {% for b in badgeOptions %}
+          <option value="{{ b.id }}">{{ (b.name | smartTitle) if b.name == (b.name | upper) else b.name }} ({{ b.count }})</option>
+        {% endfor %}
+      </select>
+    </label>
+
+    {{ fixedSelect(fixed, "ods", "ODS") }}
+    {% if not (fixed and fixed.filter == "ods") %}
+    <label>
+      <span>ODS</span>
+      <select data-filter="ods" data-attr="sdgs" data-multi>
+        <option value="">Todos</option>
+        {% for sdg in allSdgs %}
+          <option value="{{ sdg.id }}">{{ sdg.id }} · {{ sdg.name }}</option>
+        {% endfor %}
+      </select>
+    </label>
+    {% endif %}
+
+    {% if fixed and fixed.filter == "otro" %}{{ fixedSelect(fixed, "otro", fixed.label) }}{% endif %}
+
+    <label>
+      <span>Orden</span>
+      <select id="acts-sort">
+        <option value="">Relevancia</option>
+        <option value="az">A → Z</option>
+        <option value="za">Z → A</option>
+      </select>
+    </label>
+
+  </div>
+
+</details>
+
+
+<div class="acts-bar">
+
+  <p class="acts-count" id="acts-count" aria-live="polite">
+    {{ browserItems | length }} actividades
+  </p>
+
+  <div class="acts-chips" id="acts-chips"></div>
+
+</div>
+
+
+<div class="grid acts-grid" id="acts-grid">
+  {% for activity in browserItems %}
+    {% if loop.index <= pageSize %}{% include "components/activity-listing-item.njk" %}{% endif %}
+  {% endfor %}
+</div>
+
+<template id="acts-pool">
+  {% for activity in browserItems %}
+    {% if loop.index > pageSize %}{% include "components/activity-listing-item.njk" %}{% endif %}
+  {% endfor %}
+</template>
+
+
+<div class="acts-empty" id="acts-empty" hidden>
+  <svg viewBox="0 0 120 80" aria-hidden="true">
+    <path d="M10 70h100M60 10 25 70M60 10l35 60M60 10v60M48 70l12-22 12 22" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+  <h2>No encontramos actividades</h2>
+  <p>Probá con otra palabra o sacá algún filtro.</p>
+  <button type="button" class="acts-btn" data-reset>Limpiar búsqueda y filtros</button>
+</div>
+
+
+<div class="acts-more">
+  <button type="button" class="acts-btn" id="acts-more" hidden>Mostrar más</button>
+</div>
+
+<noscript>
+  <p class="acts-noscript">
+    Se muestran las primeras {{ pageSize }} actividades. Para buscar y ver
+    todas, activá JavaScript o recorrelas por
+    <a href="{{ '/badges/' | url }}">insignia</a>,
+    <a href="{{ '/edades/' | url }}">rama</a> u
+    <a href="{{ '/ods/' | url }}">ODS</a>.
+  </p>
+</noscript>
+
+</div>
+
+
+<script>
+(() => {
+
+const PAGE = {{ pageSize }};
+
+const $ = s => document.querySelector(s);
+
+const grid = $("#acts-grid");
+const input = $("#acts-q");
+const clearBtn = $(".acts-search-clear");
+const sortSel = $("#acts-sort");
+const moreBtn = $("#acts-more");
+const countEl = $("#acts-count");
+const chipsEl = $("#acts-chips");
+const emptyEl = $("#acts-empty");
+const filtersEl = $(".acts-filters");
+const filtersBadge = $(".acts-filters-badge");
+// Los filtros fijos de la página (deshabilitados) no cuentan:
+// la lista ya viene filtrada.
+const selects = [...document.querySelectorAll("select[data-filter]:not([disabled])")];
+
+// Todas las tarjetas, en orden alfabético: las visibles del
+// HTML y las que esperan en el <template>.
+const items = [
+  ...grid.children,
+  ...$("#acts-pool").content.children
+].map((el, index) => ({
+  el,
+  index,
+  title: el.dataset.title,
+  text: el.dataset.text
+}));
+
+// Igual que normalizeText en eleventy.config.js.
+const normalize = s => String(s || "")
+  .toLowerCase()
+  .normalize("NFD")
+  .replace(/[̀-ͯ]/g, "")
+  .replace(/\s+/g, " ")
+  .trim();
+
+// Plural -> singular simple para que "juegos" encuentre "juego"
+// y "árboles" encuentre "árbol".
+const stem = w =>
+  w.length > 5 && w.endsWith("es") ? w.slice(0, -2) :
+  w.length > 3 && w.endsWith("s") ? w.slice(0, -1) :
+  w;
+
+const STOP = new Set(["de", "del", "la", "las", "el", "los", "y", "o", "en", "con", "para", "por", "un", "una", "a", "al"]);
+
+function parseQuery(q) {
+  return normalize(q)
+    // "ODS 13" / "ods13" -> "ods13" (así está en data-text)
+    .replace(/\bods\s+(\d{1,2})\b/g, "ods$1")
+    .split(/[^a-z0-9ñ]+/)
+    .filter(w => w && !STOP.has(w))
+    .map(stem);
+}
+
+// Puntaje de una tarjeta para la consulta; 0 = no coincide.
+// Tienen que aparecer todas las palabras; las que están en
+// el título pesan mucho más.
+function score(item, terms) {
+  let total = 1;
+  for (const t of terms) {
+    if (item.title.includes(t)) {
+      total += item.title.startsWith(t) ? 15 : 10;
+    } else if (item.text.includes(t)) {
+      total += 1;
+    } else {
+      return 0;
+    }
+  }
+  return total;
+}
+
+let shown = PAGE;
+let matches = items;
+
+function readState() {
+  const state = { search: input.value, orden: sortSel.value };
+  for (const s of selects) state[s.dataset.filter] = s.value;
+  return state;
+}
+
+function writeUrl(state) {
+  const params = new URLSearchParams();
+  for (const [k, v] of Object.entries(state)) {
+    if (v && v.trim()) params.set(k, v.trim());
+  }
+  const qs = params.toString();
+  history.replaceState(null, "", qs ? "?" + qs : location.pathname);
+}
+
+function run({ keepShown = false } = {}) {
+
+  const state = readState();
+  const terms = parseQuery(state.search);
+
+  const active = selects.filter(s => s.value);
+
+  matches = [];
+
+  for (const item of items) {
+
+    const ok = active.every(s => {
+      const value = item.el.dataset[s.dataset.attr];
+      if ("range" in s.dataset) {
+        // "min max" de la actividad; vale si la edad elegida entra.
+        const [min, max] = value.split(" ").map(Number);
+        const v = Number(s.value);
+        return value !== "" && min <= v && v <= max;
+      }
+      return "multi" in s.dataset
+        ? value.split(" ").includes(s.value)
+        : value === s.value;
+    });
+
+    if (!ok) continue;
+
+    item.score = terms.length ? score(item, terms) : 1;
+
+    if (item.score) matches.push(item);
+
+  }
+
+  if (state.orden === "za") {
+    matches.reverse();
+  } else if (state.orden !== "az" && terms.length) {
+    matches.sort((a, b) => b.score - a.score || a.index - b.index);
+  }
+
+  if (!keepShown) shown = PAGE;
+
+  render(state, active);
+  writeUrl(state);
+
+}
+
+function render(state, active) {
+
+  grid.replaceChildren(...matches.slice(0, shown).map(m => m.el));
+
+  const n = matches.length;
+  const q = state.search.trim();
+
+  countEl.textContent =
+    n === items.length && !q ? `${n} actividades` :
+    `${n} ${n === 1 ? "actividad" : "actividades"}` +
+    (q ? ` para «${q}»` : "") +
+    (n < items.length ? ` de ${items.length}` : "");
+
+  emptyEl.hidden = n > 0;
+  grid.hidden = n === 0;
+
+  const rest = n - shown;
+  moreBtn.hidden = rest <= 0;
+  moreBtn.textContent = `Mostrar ${Math.min(rest, PAGE)} más (quedan ${rest})`;
+
+  clearBtn.hidden = !q;
+
+  // Chips de lo que está aplicado, cada uno se saca con un clic.
+  chipsEl.replaceChildren(...active.map(s => {
+    const chip = document.createElement("button");
+    chip.type = "button";
+    chip.className = "acts-chip";
+    chip.innerHTML = `<span></span><span class="material-symbols-outlined" aria-hidden="true">close</span>`;
+    chip.firstChild.textContent =
+      s.closest("label").querySelector("span").textContent + ": " +
+      s.selectedOptions[0].textContent.replace(/\s*\(\d+\)$/, "");
+    chip.setAttribute("aria-label", "Quitar filtro " + chip.firstChild.textContent);
+    chip.addEventListener("click", () => { s.value = ""; run(); });
+    return chip;
+  }));
+
+  if (active.length > 1 || (active.length && q)) {
+    const reset = document.createElement("button");
+    reset.type = "button";
+    reset.className = "acts-chip acts-chip-reset";
+    reset.textContent = "Limpiar todo";
+    reset.addEventListener("click", resetAll);
+    chipsEl.append(reset);
+  }
+
+  filtersBadge.hidden = !active.length;
+  filtersBadge.textContent = active.length;
+
+}
+
+function resetAll() {
+  input.value = "";
+  sortSel.value = "";
+  for (const s of selects) s.value = "";
+  run();
+}
+
+// Estado inicial desde la URL (/activities/?search=agua&rama=manada)
+const params = new URLSearchParams(location.search);
+input.value = params.get("search") || "";
+sortSel.value = params.get("orden") || "";
+for (const s of selects) {
+  const v = params.get(s.dataset.filter);
+  if (v && [...s.options].some(o => o.value === v)) s.value = v;
+}
+
+// Los filtros arrancan cerrados, salvo que vengan aplicados
+// desde un enlace.
+if (selects.some(s => s.value)) {
+  filtersEl.open = true;
+}
+
+let timer;
+input.addEventListener("input", () => {
+  clearTimeout(timer);
+  timer = setTimeout(run, 150);
+});
+
+$(".acts-search").addEventListener("submit", e => {
+  e.preventDefault();
+  clearTimeout(timer);
+  run();
+  input.blur();
+});
+
+clearBtn.addEventListener("click", () => {
+  input.value = "";
+  run();
+  input.focus();
+});
+
+for (const s of [...selects, sortSel]) s.addEventListener("change", () => run());
+
+document.querySelectorAll(".acts-suggest a").forEach(a =>
+  a.addEventListener("click", e => {
+    e.preventDefault();
+    input.value = a.dataset.q;
+    run();
+  }));
+
+$("[data-reset]").addEventListener("click", resetAll);
+
+moreBtn.addEventListener("click", () => {
+  const first = shown;
+  shown += PAGE;
+  run({ keepShown: true });
+  // Pasar el foco a la primera tarjeta nueva para quien navega
+  // con teclado.
+  matches[first]?.el.querySelector("a")?.focus({ preventScroll: true });
+});
+
+// "/" enfoca el buscador, como en muchos sitios.
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && !/input|select|textarea/i.test(document.activeElement.tagName)) {
+    e.preventDefault();
+    input.focus();
+  }
+});
+
+run({ keepShown: false });
+
+})();
+</script>

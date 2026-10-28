@@ -1,60 +1,14 @@
 ---
 layout: layouts/base.njk
-
 styles:
-
-
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-{% set activityCount = 0 %}
-
-{% for activity in collections.activitiesSorted %}
-
-  {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
-
-    {% set activityCount = activityCount + 1 %}
-
-  {% endif %}
-
-{% endfor %}
-
-<section class="page-header sdg-page-header">
-
-  <img
-    src="{{ ('/imagenes/ods/ods-' + sdg.id + '.png') | url }}"
-    alt="ODS {{ sdg.id }}">
-
-  <div>
-
-    <h1>
-      ODS {{ sdg.id }}
-    </h1>
-
-    <p>
-      {{ sdg.name }}
-    </p>
-
-    <p class="sdg-count">
-      {{ activityCount }} actividades relacionadas
-    </p>
-
-  </div>
-
-</section>
-
-<div class="grid">
-
-  {% for activity in collections.activitiesSorted %}
-
-    {% if activity.data.sdgs and (sdg.id in activity.data.sdgs) %}
-
-      {% set item = activity.data %}
-      {% set activityUrl = activity.url %}
-
-      {% include "components/activity-card.njk" %}
-
-    {% endif %}
-
-  {% endfor %}
-
-</div>
-
+{% set heroKicker = "Objetivo de Desarrollo Sostenible" %}
+{% set heroTitle = "ODS " + sdg.id %}
+{% set heroText = sdg.name %}
+{% set heroImage = '/imagenes/ods/ods-' + sdg.id + '.png' %}
+{% set browserItems = collections.activitiesSorted | activitiesFor("sdg", sdg.id) %}
+{% set fixed = { filter: "ods", text: sdg.id + " · " + sdg.name } %}
+{% include "components/browse-page.njk" %}

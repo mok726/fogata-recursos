@@ -1,0 +1,35 @@
+{# Página de detalle (ODS, rama, competencia, valor, método, tipo)
+   con el mismo aspecto y los mismos filtros que /activities/.
+   Espera heroTitle, heroKicker (opcional), heroText (opcional),
+   heroImage (opcional), browserItems y fixed (ver
+   components/activity-browser.njk). #}
+<div class="acts acts-detail" data-pagefind-ignore="all">
+
+<section class="acts-hero">
+  <div class="acts-hero-content">
+    {% if heroImage %}
+      <img class="acts-hero-icon" src="{{ heroImage | url }}" alt="" width="96" height="96">
+    {% endif %}
+    {% if heroKicker %}<p class="acts-hero-kicker">{{ heroKicker }}</p>{% endif %}
+    <h1>{{ heroTitle }}</h1>
+    {% if heroText %}<p>{{ heroText }}</p>{% endif %}
+    <form class="acts-search" role="search" action="" method="get">
+      <span class="material-symbols-outlined" aria-hidden="true">search</span>
+      <input
+        id="acts-q"
+        name="search"
+        type="search"
+        autocomplete="off"
+        enterkeyhint="search"
+        aria-label="Buscar en estas actividades"
+        placeholder="Buscar en estas actividades…">
+      <button type="button" class="acts-search-clear" hidden aria-label="Borrar búsqueda">
+        <span class="material-symbols-outlined" aria-hidden="true">close</span>
+      </button>
+    </form>
+  </div>
+</section>
+
+{% include "components/activity-browser.njk" %}
+
+</div>

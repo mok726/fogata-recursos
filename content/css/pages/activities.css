@@ -385,3 +385,39 @@ body:has(.acts) {
 @media (prefers-reduced-motion: reduce) {
   .acts-filters summary::after { transition: none; }
 }
+
+
+/* ---------- PÁGINAS DE DETALLE (ODS, rama, competencia…) ---------- */
+
+.acts-hero-icon {
+  display: block;
+  width: 96px;
+  height: 96px;
+  margin: 0 auto .8rem;
+  object-fit: contain;
+}
+
+.acts-hero-kicker {
+  margin: 0 0 .4rem;
+  font-family: var(--fogata-slab);
+  font-weight: 600;
+  font-size: .85rem;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--fogata-fire);
+}
+
+.acts-detail .acts-hero h1 {
+  font-size: 2.6rem;
+}
+
+/* Filtro fijo de la página: se ve, pero no se puede cambiar. */
+.acts-fixed select {
+  opacity: .75;
+  cursor: not-allowed;
+}
+
+.acts-fixed .material-symbols-outlined {
+  font-size: 1em;
+  vertical-align: -2px;
+}

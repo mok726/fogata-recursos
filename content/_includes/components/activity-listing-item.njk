@@ -7,6 +7,7 @@
   class="acts-item"
   data-title="{{ item.title | normalizeText }}"
   data-text="{{ item | searchText(badges, ageGroups) }}"
+  data-agespan="{{ item.age | ageSpan }}"
   data-age="{% for g in (item.age_group or []) %}{{ (g | normalizeAge(ageGroups)).id }} {% endfor %}"
   data-type="{{ (item.main_type or '') | string | trim | slugify }}"
   data-badges="{% for b in (item.activity_badges or []) %}{{ (b.id or b) | string | lower }} {% endfor %}"

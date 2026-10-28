@@ -1,62 +1,13 @@
 ---
 layout: layouts/base.njk
-
 styles:
-
-
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-
-<div class="taxonomy-page">
-{% set activityCount = 0 %}
-
-{% for activity in collections.activitiesSorted %}
-
-  {% if activity.data.scout_method %}
-
-    {% if metodoScout.name in activity.data.scout_method %}
-      {% set activityCount = activityCount + 1 %}
-    {% endif %}
-
-  {% endif %}
-
-{% endfor %}
-
-<section class="page-header">
-
-  <div>
-
-    <h1>
-      {{ metodoScout.name }}
-    </h1>
-
-    <p>
-      {{ activityCount }} actividades relacionadas.
-    </p>
-
-  </div>
-
-</section>
-
-<div class="grid">
-
-  {% for activity in collections.activitiesSorted %}
-
-    {% if activity.data.scout_method %}
-
-      {% if metodoScout.name in activity.data.scout_method %}
-
-        {% set item = activity.data %}
-        {% set activityUrl = activity.url %}
-
-        {% include "components/activity-card.njk" %}
-
-      {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-</div>
-
-</div>
+{% set heroKicker = "Método scout" %}
+{% set heroTitle = metodoScout.name %}
+{% set heroText = metodoScout.description or "" %}
+{% set browserItems = collections.activitiesSorted | activitiesFor("method", metodoScout.name) %}
+{% set fixed = { filter: "otro", label: "Método scout", text: metodoScout.name } %}
+{% include "components/browse-page.njk" %}
