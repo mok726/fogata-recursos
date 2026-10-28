@@ -178,6 +178,8 @@ Visitá una operación apícola local para aprender más sobre su trabajo. ¿Qu�
 ## Desarrollo
 1. Visitá el apiario.
 2. Entrevistá al apicultor.
+
+> **Nota de seguridad:** antes de la visita, preguntá a las familias por alergias a picaduras y llevá botiquín (y la medicación de quien la tenga indicada). Sigan siempre las indicaciones del apicultor: usen el equipo de protección que les dé y mantengan la distancia de las colmenas que les indique.
 3. Aprendé sobre el comportamiento de las abejas.
 4. Con permiso, creá un video o podcast de tu entrevista.
 5. Si no hay un apiario, visitá un huerto, granja o vivero.

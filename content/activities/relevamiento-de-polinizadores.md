@@ -179,6 +179,8 @@ Salí al aire libre, ya sea en tu jardín, un parque local, el jardín de tu esc
 2. Descargá o imprimí la plantilla de relevamiento.
 3. Asegurate de tener agua y protección solar.
 
+> **Nota para el educador:** los pasos del relevamiento están en la p. 111 del cuadernillo de FAO (en inglés): https://doi.org/10.4060/cb4803en. Las ardillas que nombra el original no son polinizadoras típicas; como ejemplos de vertebrados polinizadores sirven mejor los picaflores y algunos murciélagos.
+
 ## Desarrollo
 1. Elegí un área para tu relevamiento.
 2. Observá durante 15 minutos caminando a paso constante.

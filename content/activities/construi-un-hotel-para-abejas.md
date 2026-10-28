@@ -192,6 +192,8 @@ Seguí los pasos para construir un hotel para abejas en tu hogar, escuela o jard
 1. Taladrá agujeros en bloques de madera de diferentes diámetros (0,25 a 0,6 cm).
 2. Insertá los bloques de madera en el contenedor.
 3. Agregá pajitas o tallos naturales como bambú.
+
+> **Nota para el educador:** conviene usar tubos de papel o tallos naturales (bambú, caña, junco) en lugar de pajitas de plástico: el plástico junta humedad y favorece los hongos. La hoja de actividad del hotel está en la p. 117 del cuadernillo de FAO (en inglés): https://doi.org/10.4060/cb4803en
 4. Colgá el hotel al aire libre, orientado hacia el sol de la mañana (norte o noreste en el hemisferio sur; sur o sureste en el hemisferio norte).
 5. Observá el hotel durante los próximos días.
 

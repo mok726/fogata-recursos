@@ -179,6 +179,20 @@ Explorá tus parques locales y áreas naturales con una mirada hacia qué tan am
 6. Puntuá cada parque en una escala.
 7. Enviá una carta a cada parque con sugerencias.
 
+### Tabla de evaluación (modelo)
+
+Puntuá cada punto de 1 (nada) a 5 (excelente).
+
+| Aspecto | Puntaje (1–5) | Observaciones |
+|---|---|---|
+| Diversidad de plantas nativas con flor | | |
+| Flores durante distintas épocas del año | | |
+| Fuentes de agua para polinizadores | | |
+| Lugares de anidación (suelo sin cubrir, troncos, tallos huecos) | | |
+| Uso de pesticidas (5 = no se usan) | | |
+| Carteles informativos sobre polinizadores | | |
+| **Total** | | |
+
 ## Cierre
 1. Compartí tus evaluaciones con el grupo.
 2. Reflexioná sobre cómo mejorar los parques.

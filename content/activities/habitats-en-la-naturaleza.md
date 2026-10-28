@@ -174,7 +174,7 @@ Andá de excursión y tratá de identificar hábitats de polinizadores. ¿Ves al
 
 ## Desarrollo
 1. Caminá por el área natural.
-2. Buscá colmenas, madrigueras y nidos.
+2. Buscá colmenas, madrigueras y nidos. Observalos de lejos: no los toquen ni se acerquen, para no dañarlos y evitar picaduras.
 3. Observá los hábitats de polinizadores.
 4. Registrá lo que encontrás.
 5. Hacé una lista de cinco formas de protegerlos.

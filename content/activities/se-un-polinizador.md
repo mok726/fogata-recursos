@@ -1,7 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Sé un Polinizador"
-duration: "1.5 horas"
+duration: "1.5 horas + seguimiento de varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-polinizador/"
 description: "Experimentá la polinización en primera persona, realizando el trabajo de un polinizador para comprender su importancia."
@@ -176,7 +176,9 @@ Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ah
 1. Usá el pincel o hisopo para recolectar polen de una flor.
 2. Transferí el polen a otra flor del mismo tipo pero de diferente color.
 3. Esperá y observá los resultados.
-4. Reflexioná: ¿Sabías que Mendel cruzó plantas de arvejas altas y bajas?
+4. Reflexioná: ¿Sabías que Mendel cruzó plantas de arvejas altas y bajas? ¿Qué creés que obtuvo? Si adivinaste "medianas", Mendel también lo pensó, ¡pero se equivocaron! Obtuvo plantas altas, porque ese era el rasgo dominante.
+
+> **Nota para el educador:** las instrucciones de polinización están en la p. 47 del cuadernillo de FAO (en inglés): https://doi.org/10.4060/cb4803en. Los resultados (semillas, plantas nuevas) tardan semanas en verse, así que planeen un seguimiento.
 5. Cronometrá cuánto te lleva hacer 20 viajes de polinización.
 
 ## Cierre

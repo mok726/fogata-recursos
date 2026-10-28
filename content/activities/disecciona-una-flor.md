@@ -175,7 +175,7 @@ Obtené permiso para arrancar algunas flores para esta actividad. Tratá de eleg
 ## Desarrollo
 1. Arrancá las flores con cuidado.
 2. Separá las partes suavemente.
-3. Compará con el diagrama de la página 33 del libro.
+3. Compará con el diagrama de la página 33 del libro (cuadernillo de FAO, en inglés: https://doi.org/10.4060/cb4803en).
 4. Identificá las diferentes partes.
 5. Dibujá lo que ves y etiquetá las partes.
 

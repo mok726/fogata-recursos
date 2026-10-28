@@ -54,3 +54,7 @@
 
 - Cuadernillo FAO completo (en): https://doi.org/10.4060/cb4803en. Sirve como `references` en todas y para enlazar páginas (p. 33, 47, 111, 117).
 - No encontré una versión oficial en español de esta insignia. Tu traducción es la única que hay: vale la pena mantenerla.
+
+## Estado (2026-10-28)
+
+Aplicado con OK de Mariano: enlaces al cuadernillo FAO (DOI) con número de página (hotel p. 117, relevamiento p. 111, flor p. 33, polinización p. 47); Mendel recuperado y duración con seguimiento; notas de seguridad (apiario, hábitats); tubos de papel o tallos en vez de pajitas; ardillas → picaflores/murciélagos (nota); tabla de evaluación en patrulla-del-parque.
