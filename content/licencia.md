@@ -13,6 +13,10 @@ Salvo que se indique otra cosa en cada actividad, el contenido creado por Marian
 
 Podés copiar, compartir y adaptar el material con fines no comerciales, citando la fuente y publicando tus adaptaciones bajo la misma licencia.
 
+## Código del sitio
+
+El código fuente del sitio (plantillas, JavaScript, CSS, configuración y scripts) se publica bajo la [licencia MIT](https://github.com/mok726/fogata-recursos/blob/main/LICENSE). La licencia MIT cubre solo el código; el contenido se rige por esta página.
+
 ## Contenido de terceros
 
 Gran parte de las actividades se basa en materiales de otras organizaciones. Ese contenido conserva la licencia de su fuente original:
