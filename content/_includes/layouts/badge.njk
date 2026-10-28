@@ -72,6 +72,9 @@ src="{{ ('/imagenes/insignias/' + (badge_id | lower) + '.png') | url }}"
         {{ badge.license.type }}
       </a>
     </p>
+    {% if badge.license.note %}
+      <p class="license-note">{{ badge.license.note }}</p>
+    {% endif %}
   {% endif %}
 
   {% if badge.attribution %}

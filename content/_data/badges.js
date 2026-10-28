@@ -17,8 +17,9 @@ module.exports = function () {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -53,8 +54,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -125,8 +127,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -161,8 +164,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -229,8 +233,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Las actividades de la FAO usan CC BY-NC-SA 4.0. Las del kit Tide Turners (© World Scout Bureau) esperan autorización, solicitada a la OMMS el 26/10/2026. Ver la licencia de cada actividad."
   },
   attribution: {
     organization: "FAO",
@@ -296,8 +301,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -601,8 +607,9 @@ sections: {
       hero_image: "/imagenes/insignias/gosolar-hero.png",
       sources: [],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© Solafrica – Sin licencia publicada",
+    url: "https://www.solafrica.ch/scout-badge",
+    note: "Titular: Solafrica (manual Scouts Go Solar, 2015). Pendiente: autorización solicitada a Solafrica y a Scouts de Argentina el 26/10/2026."
   },
   attribution: {
     organization: "Scouts de Argentina www.scouts.org.ar",
@@ -687,8 +694,9 @@ sections: {
       hero_image: "/imagenes/insignias/mundomejor-hero.png",
       sources: [],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© Scouts de Argentina A.C. – Todos los derechos reservados",
+    url: "https://www.scouts.org.ar",
+    note: "Pendiente: autorización solicitada a Scouts de Argentina el 26/10/2026."
   },
   attribution: {
     organization: "Scouts de Argentina www.scouts.org.ar",
@@ -756,8 +764,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -898,8 +907,9 @@ sections: {
       hero_image: "/imagenes/insignias/cfn-hero.png",
       sources: [],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© World Scout Bureau Inc. – Todos los derechos reservados",
+    url: "https://www.scout.org",
+    note: "Autorizado: reproducción por organizaciones miembro de la OMMS. Pendiente: publicación en este sitio, autorización solicitada a la OMMS el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -965,8 +975,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1085,8 +1096,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Sin actividades publicadas. Licencia de la edición original sin confirmar; autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1121,8 +1133,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1192,8 +1205,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1262,8 +1276,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1401,8 +1416,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es",
+    note: "Adaptación de una obra de la FAO publicada bajo CC BY-NC-SA 3.0 IGO."
   },
   attribution: {
     organization: "FAO",
@@ -1473,8 +1489,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1543,8 +1560,9 @@ sections: {
     }
   ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Todos los derechos reservados",
+    url: "https://www.fao.org/contact-us/terms/en/",
+    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1724,8 +1742,9 @@ sections: {
     }
   ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -1935,8 +1954,9 @@ sections: {
         }
       ],
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "© FAO – Licencia sin confirmar",
+    url: "https://www.fao.org/yunga/resources/yunga-publications/en",
+    note: "Licencia de la edición original sin confirmar. Pendiente: autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",
@@ -2097,8 +2117,8 @@ sections: {
   hero_image: "/imagenes/insignias/general-hero.png",
    generic: true,
   license: {
-    type: "CC BY-NC-SA 3.0 IGO",
-    url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
+    type: "CC BY-NC-SA 4.0",
+    url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es"
   },
   attribution: {
     organization: "MSC",

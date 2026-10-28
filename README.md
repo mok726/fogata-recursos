@@ -27,3 +27,8 @@ A todos los educadores que comparten su trabajo, a YUNGA, scout.org y programas 
 
 **¡Siempre Mejor! ¡Siempre Listo!**  
 Mariano (Kotick) - Argentina
+
+## Licencia
+
+- Código: [MIT](LICENSE).
+- Contenido: CC BY-NC-SA 4.0 para el contenido propio; el material de terceros conserva la licencia de su fuente. Ver [content/licencia.md](content/licencia.md) y [licencias/](licencias/).

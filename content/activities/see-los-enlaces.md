@@ -72,20 +72,24 @@ references:
     author: "Organización Mundial del Movimiento Scout"
     year: 2020
     series: "Earth Tribe / Tribu de la Tierra"
-    url: "https://www.scout.org"
+    url: "https://sdgs.scout.org/challenges/champions-nature/nso"
 
 # ========== LICENCIA ==========
 license:
-  name: "Creative Commons BY-NC-SA 3.0 IGO"
-  url: "https://creativecommons.org/licenses/by-nc-sa/3.0/igo/"
-  image: "https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png"
+  name: "© World Scout Bureau Inc. – Todos los derechos reservados"
+  url: "https://www.scout.org"
+  image: ""
+  note: "Titular de los derechos: Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)."
+  allowed: "Reproducción por las organizaciones scouts nacionales miembro de la OMMS."
+  pending: "Publicar esta adaptación en este sitio: autorización solicitada a la OMMS el 26/10/2026, en espera de respuesta."
+  status: "permiso-pendiente"
 
 # ========== ATRIBUCIONES ==========
 attributions:
   - entity: "© WWF 2020"
     role: "fuente y colaborador del contenido"
     year: 2020
-  - entity: "© 2020. Organización Mundial del Movimiento Scout."
+  - entity: "© 2020. Organización Mundial del Movimiento Scout (World Scout Bureau Inc.)"
     role: "fuente y titular de los derechos de autor"
     year: 2020
   - entity: "Mariano S. Cosentino"

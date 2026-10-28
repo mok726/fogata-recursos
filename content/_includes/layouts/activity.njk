@@ -860,6 +860,15 @@ Ruta: {{ comp.ruta }}
                  alt="{{ license.name }}"
                  class="license-image">
             {% endif %}
+            {% if license.note %}
+              <p class="license-note">{{ license.note }}</p>
+            {% endif %}
+            {% if license.allowed %}
+              <p class="license-allowed"><strong>Autorizado:</strong> {{ license.allowed }}</p>
+            {% endif %}
+            {% if license.pending %}
+              <p class="license-pending"><strong>Sin autorización todavía:</strong> {{ license.pending }}</p>
+            {% endif %}
           </div>
         {% endif %}
 
