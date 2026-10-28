@@ -44,3 +44,14 @@
 | colecta-de-dinero (D07) | fiel | Sugerir organizaciones locales (UNICEF Argentina, Cruz Roja Argentina, Cáritas). | **P2 legal**: las rifas en Argentina requieren autorización (lotería provincial). El manejo de dinero por menores debe seguir las normas de SAAC. Mencionarlo. | ok | P2 |
 | persuade-y-prepara (D08) | fiel | Enlace al Marco de Sendai en español (UNDRR); no lo verifiqué. | — | genérica | P3 |
 | comunicate-rrd (D09) | fiel | — | Privacidad: "incluir tu dirección": para menores, usar la del grupo scout. | ok | P3 |
+
+## Estado (2026-10-28)
+
+Aplicado con OK de Mariano. Criterio: público internacional ("tu organización scout nacional"; los ejemplos argentinos van marcados como ejemplo).
+- Ejemplos del original restaurados en p-y-r, hora-de-la-prueba-rrd, probando-probando ("gradas" → "escaleras") y preparate-rrd.
+- conectate-con-tu-comunidad: vuelve la advertencia del original + nota (castores/manada gestionado por adulto, normas de protección).
+- perspectiva-femenina: vuelve el consentimiento de las fotos. p-y-r: nota de autorización de imagen.
+- compartiendo-historias: nota de participación voluntaria y contención.
+- colecta-de-dinero: nota sobre rifas (autorización), manejo de dinero y organizaciones locales de ejemplo.
+- inspeccion-en-casa: lista de verificación modelo (con números de emergencia de Argentina como ejemplo).
+- dia-de-concientizacion-rrd: ow.ly → página de los ODS de la ONU en español.

@@ -161,7 +161,7 @@ Divídanse en dos equipos. Uno prepara preguntas sobre cómo los desastres afect
 3. Revisen las preguntas para asegurar que sean correctas.
 
 ## Desarrollo
-1. **Preparación** (15 min): Cada equipo elabora sus preguntas.
+1. **Preparación** (15 min): Cada equipo elabora sus preguntas. Algunos ejemplos: ¿Cuántas personas son afectadas por desastres cada año? ¿Cuáles son tres factores que incrementan el riesgo de desastres?
 2. **Prueba** (20 min): Los equipos se preguntan entre sí.
 3. **Resultado** (10 min): Cuenten las respuestas correctas y anuncien al ganador.
 

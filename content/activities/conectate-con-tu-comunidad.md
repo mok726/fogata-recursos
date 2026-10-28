@@ -167,6 +167,10 @@ Creá un blog comunitario, una red social grupal o un boletín informativo sobre
 3. **Promoción** (15 min): Invitá a la comunidad a unirse.
 4. **Mantenimiento** (15 min/semana): Actualizá regularmente.
 
+**Los participantes no deben tratar con extraños en línea sin supervisión parental.**
+
+> **Nota para el educador:** con castores y manada, el blog, la red social o el boletín lo crea y lo administra un adulto; los chicos aportan contenidos. En todos los casos, seguí las normas de protección y de uso de redes de tu organización scout nacional: no publicar datos personales, ubicaciones ni fotos de menores sin autorización de las familias.
+
 ## Cierre
 - ¿Qué formato elegiste y por qué?
 - ¿Qué contenido fue más útil para la comunidad?

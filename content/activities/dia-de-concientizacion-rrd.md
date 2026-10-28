@@ -58,8 +58,8 @@ tags:
   - accion
 
 link:
-  - url: "http://ow.ly/DupR30fKgmA"
-    caption: "Materiales de los ODS"
+  - url: "https://www.un.org/sustainabledevelopment/es/"
+    caption: "Objetivos de Desarrollo Sostenible (ONU, en español)"
     icon: "read_more"
 
 files: []

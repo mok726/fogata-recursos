@@ -167,7 +167,22 @@ Revisá tu hogar para ver si vos y tu familia están preparados para una amenaza
 1. **Inspección** (20 min): Revisá tu hogar con la lista de verificación.
 2. **Lista de mejoras** (15 min): Anotá lo que falta o está incompleto.
 3. **Reunión familiar** (20 min): Compartí tus hallazgos y asigná tareas.
-4. **Acción** (5 min): Planea cuándo implementarán las mejoras.
+4. **Acción** (5 min): Planeá cuándo implementarán las mejoras.
+
+### Lista de verificación (modelo)
+
+Adaptala a las amenazas de tu zona.
+
+- ☐ Tenemos un **plan familiar de emergencia**: qué hacer, por dónde salir y un punto de encuentro fuera de casa.
+- ☐ Todos conocen los **números de emergencia** y están anotados en un lugar visible. En Argentina, por ejemplo: 911 (emergencias), 100 (bomberos), 107 (emergencias médicas), 103 (Defensa Civil).
+- ☐ Tenemos un **kit de emergencia**: agua, comida no perecedera, linterna, radio a pilas, pilas, botiquín, medicamentos, copias de documentos, cargador portátil.
+- ☐ Sabemos dónde están y cómo se cierran la **llave de gas**, la **llave de luz** y la **llave de agua**.
+- ☐ Hay **detector de humo** y, si hay artefactos a gas, **detector de monóxido de carbono**, y funcionan.
+- ☐ Hay un **matafuegos** cargado y vigente, y sabemos usarlo.
+- ☐ Los muebles altos y pesados están **fijados** a la pared (en zonas sísmicas).
+- ☐ Las salidas y pasillos están **libres** de obstáculos.
+- ☐ Los productos tóxicos y los medicamentos están **fuera del alcance** de los chicos.
+- ☐ Sabemos qué hacer con las **mascotas** en una emergencia.
 
 ## Cierre
 - ¿Qué encontraste en la inspección?

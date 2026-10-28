@@ -164,7 +164,7 @@ Entrevistá a mujeres de tu vida (madres, abuelas, tías, hermanas) sobre sus id
 
 ## Desarrollo
 1. **Entrevistas** (25 min): Hablá con mujeres sobre sus ideas.
-2. **Recolección** (15 min): Reuní ideas, citas y fotos.
+2. **Recolección** (15 min): Reuní ideas, citas y fotos (de aquellas que desean ser fotografiadas).
 3. **Creación** (15 min): Creá un colorido collage.
 4. **Exhibición** (5 min): Colocá el collage en un lugar visible.
 

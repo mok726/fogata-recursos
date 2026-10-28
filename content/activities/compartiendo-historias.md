@@ -155,13 +155,15 @@ rama_rovers:
 Compartí tus experiencias personales con amenazas o desastres, o leé una historia sobre niños que los vivieron.
 
 ## Preparación
-- Pensá si has experimentado alguna amenaza o desastre.
+- Pensá si viviste alguna amenaza o desastre.
 - Buscá un libro sobre el tema si es necesario.
 
 ## Desarrollo
 1. **Preparación** (5 min): Reflexioná sobre tu experiencia o leé la historia.
 2. **Compartir** (30 min): Cada persona comparte su historia.
 3. **Reflexión** (10 min): Hablen sobre cómo se sintieron y cómo se recuperaron.
+
+> **Nota para el educador:** contar una experiencia de desastre puede remover emociones fuertes. La participación es voluntaria: nadie está obligado a contar nada, y leer una historia es una alternativa válida. Si alguien se angustia, pará, acompañalo y, si hace falta, hablá con la familia y derivá a un profesional.
 
 ## Cierre
 - ¿Qué aprendiste al escuchar las historias?

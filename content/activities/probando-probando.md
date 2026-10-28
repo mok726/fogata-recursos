@@ -154,10 +154,10 @@ Prepará un set de 10 preguntas de examen sobre preparación frente a desastres 
 - Incluí preguntas sobre terremotos, incendios, inundaciones.
 
 ## Desarrollo
-1. **Creación** (20 min): Escribí tus 10 preguntas.
+1. **Creación** (20 min): Escribí tus 10 preguntas. Algunos ejemplos: ¿Por qué nos dicen que usemos las escaleras en lugar de los ascensores en caso de incendio? ¿Por qué hay que permanecer lejos de las ventanas durante un terremoto?
 2. **Revisión** (10 min): Verificá que las respuestas sean correctas.
 3. **Examen** (10 min): Compartí el examen con tu familia.
-4. **Resultados** (5 min): Revisá quién obtuvo la mejor nota.
+4. **Resultados** (5 min): Revisá quién obtuvo la mejor nota. Tal vez el que tenga la nota más alta pueda recibir un premio.
 
 ## Cierre
 - ¿Qué preguntas fueron las más difíciles?

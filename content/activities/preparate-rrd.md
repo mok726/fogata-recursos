@@ -149,11 +149,11 @@ rama_rovers: []
 Pensá en los lugares especiales de tu comunidad que te gustaría proteger si ocurriera una amenaza, y cómo prepararlos.
 
 ## Preparación
-- Pensá en los lugares que visitas frecuentemente.
+- Pensá en los lugares que visitás frecuentemente.
 - Considerá cómo una amenaza podría afectarlos.
 
 ## Desarrollo
-1. **Lluvia de ideas** (10 min): Nombrá lugares especiales cerca de vos.
+1. **Lluvia de ideas** (10 min): Nombrá lugares especiales cerca de vos, además de tu casa y tu escuela. ¿Hay algún lugar donde te gusta pasar el rato con amigos y familia? ¿Un parque? ¿Una biblioteca? ¿La plaza del barrio o del pueblo?
 2. **Análisis** (10 min): ¿Cómo podrían verse afectados por una amenaza?
 3. **Planificación** (10 min): ¿Qué se podría hacer para protegerlos?
 

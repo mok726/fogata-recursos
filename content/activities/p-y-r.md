@@ -162,10 +162,12 @@ Prepará todas las preguntas que tengas sobre amenazas y reducción del riesgo d
 3. Invitá a un experto en amenazas naturales.
 
 ## Desarrollo
-1. **Preparación** (15 min): Escribí tus preguntas.
+1. **Preparación** (15 min): Escribí tus preguntas. Por ejemplo: si las placas de la Tierra se están moviendo, ¿por qué los terremotos tienden a repetirse en los mismos lugares? ¿Cómo pueden los rayos causar un incendio forestal?
 2. **Visita del experto** (30 min): El experto responde las preguntas.
 3. **Video** (10 min): Grabá el evento (opcional).
-4. **Compartir** (5 min): Compartí el video con otros.
+4. **Compartir** (5 min): Compartí el video con tu familia, tus amigos y tus compañeros de escuela.
+
+> **Nota para el educador:** antes de grabar o publicar un video con menores, pedí la autorización de las familias y seguí las normas de protección de tu organización scout nacional. Si alguien no quiere aparecer, grabá de forma que no se lo vea.
 
 ## Cierre
 - ¿Qué aprendiste en la sesión de preguntas?

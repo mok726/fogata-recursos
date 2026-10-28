@@ -173,6 +173,11 @@ Organizá un evento para recaudar fondos para niños afectados por desastres, co
 3. **Evento** (2-3 horas): Llevá a cabo la recaudación.
 4. **Donación** (15 min): Enviá las ganancias a una organización benéfica.
 
+> **Nota para el educador:**
+> - Las rifas y sorteos suelen necesitar autorización oficial. En Argentina, por ejemplo, la otorga la lotería de cada provincia. Averiguá qué se pide en tu país.
+> - El manejo de dinero con menores tiene que seguir las normas de tu organización scout nacional: siempre con un adulto responsable, con registro de lo recaudado y rendición de cuentas.
+> - Además de las organizaciones internacionales, pueden elegir una local. En Argentina, por ejemplo: Cruz Roja Argentina, Cáritas o UNICEF Argentina.
+
 ## Cierre
 - ¿Cuánto dinero lograste recaudar?
 - ¿Cómo te sentiste al ayudar?
