@@ -178,7 +178,9 @@ Junto a otros y otras jóvenes preparen un plan de ejercicios (10 minutos máxim
 
 ### Paso 1: Preparación del plan
 1. Junto a otros jóvenes, preparen un **plan de ejercicios** de 10 minutos máximo.
-2. La rutina debe ser adecuada para todo el grupo scout.
+2. La rutina debe ser adecuada para todo el grupo scout (edades, capacidades y espacio disponible).
+
+> **Con castores y manada:** el plan lo arma un adulto junto con los chicos (por ejemplo, eligiendo entre juegos y movimientos que el adulto propone). Los más grandes pueden diseñarlo solos, con revisión de un adulto.
 
 ### Paso 2: Implementación
 3. Realicen la rutina de ejercicios en la apertura o cierre de las actividades durante **un mes**.

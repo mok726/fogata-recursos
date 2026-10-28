@@ -73,7 +73,7 @@ sugerencias:
 </section>
 
 
-<details class="acts-filters" open>
+<details class="acts-filters">
 
   <summary>
     <span class="material-symbols-outlined" aria-hidden="true">tune</span>
@@ -395,10 +395,10 @@ for (const s of selects) {
   if (v && [...s.options].some(o => o.value === v)) s.value = v;
 }
 
-// En el celular los filtros arrancan cerrados, salvo que vengan
-// aplicados desde un enlace.
-if (matchMedia("(max-width: 760px)").matches && !selects.some(s => s.value)) {
-  filtersEl.open = false;
+// Los filtros arrancan cerrados, salvo que vengan aplicados
+// desde un enlace.
+if (selects.some(s => s.value)) {
+  filtersEl.open = true;
 }
 
 let timer;

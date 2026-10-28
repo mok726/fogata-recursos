@@ -207,6 +207,8 @@ Buscá en internet o en el diario noticias que hablen de alguna problemática en
 ### Paso 5: ¡Acción!
 5. Una vez planeado todo, ¿se animan a llevarlo a cabo?
 
+> **Nota:** el tiempo de la actividad alcanza para buscar, elegir y planificar. La acción en sí se hace después, en otras reuniones, como un proyecto de la unidad.
+
 ## ODS involucrados
 - Depende de la problemática identificada por los participantes.
 - Puede involucrar cualquiera de los 17 ODS.

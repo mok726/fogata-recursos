@@ -172,13 +172,15 @@ Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan
 ## Preparación
 1. Investigá el valor actual de la canasta básica alimentaria en tu país.
 2. Prepará los materiales de escritura.
-3. Si es posible, ten a mano folletos de supermercado o acceso a Internet para consultar precios.
+3. Si es posible, tené a mano folletos de supermercado o acceso a Internet para consultar precios.
 
 ## Desarrollo
 
 ### Paso 1: Investigación
 1. Investiguen el valor actual de la **canasta básica alimentaria** en su país.
 2. Pueden buscar en internet o consultar fuentes oficiales (INDEC, etc.).
+
+> **Nota para el educador:** en muchos países la canasta básica se publica **por persona** (o por "adulto equivalente"), no por familia. Revisá cómo la publica tu país antes de la actividad, porque cambia la conclusión. En Argentina, INDEC la publica por adulto equivalente: para una familia de 4 (2 adultos y 2 chicos) se multiplica por unos 3,09 (es el "hogar 2" del informe mensual *Valorización de la Canasta Básica Alimentaria y Total*, https://www.indec.gob.ar). Pueden hacer la actividad con el valor de una sola canasta (lo que deja ver lo poco que alcanza) o con el valor de la familia, pero aclarándolo.
 
 ### Paso 2: Simulación
 3. Supongan que son una familia de 4 personas (2 adultos y 2 niños).

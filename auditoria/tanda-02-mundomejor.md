@@ -22,3 +22,7 @@ Aplican G3 (los resúmenes copian el voseo del original y el desarrollo usa tute
 ## Para la búsqueda final de actividades nuevas
 
 La bibliografía del PDF de SAAC lleva a materiales que pueden servir; los anoto en `candidatas.md`.
+
+## Estado (2026-10-28)
+
+Aplicado con OK de Mariano: `explorando-nuestro-entorno` (residuos en vez de "desechos humanos", observar/fotografiar/dibujar en vez de recolectar, guantes); `para-que-nos-alcanza` (nota para el educador sobre canasta por persona o adulto equivalente, con el caso de INDEC como ejemplo, porque el sitio se usa en otros países); `nudo-humano` (grupos de 8–12, no forzar articulaciones, soltar una vez si no hay solución); `vida-saludable` (castores y manada guiados por un adulto); `como-podemos-solucionarlo` (la acción va después).

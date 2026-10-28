@@ -175,8 +175,10 @@ Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pa
 
 ## Preparación
 1. Identificá un espacio al aire libre seguro para la exploración.
-2. Prepará los materiales para la recolección.
-3. Establecé las normas de seguridad y cuidado del entorno.
+2. Prepará cuadernos o planillas, lápices y, si hay, celulares o cámaras para registrar los hallazgos.
+3. Establecé las normas de seguridad y cuidado del entorno:
+   - Se observa, se fotografía o se dibuja: no se arrancan hojas ni se llevan semillas, plumas o restos de animales (No Dejar Rastro; en áreas protegidas, además, está prohibido).
+   - Los residuos y los restos de animales no se tocan sin guantes. Lo que pincha, corta o es sanitario no se toca: se avisa a un adulto.
 
 ## Desarrollo
 
@@ -187,7 +189,7 @@ Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pa
 2. Busquen en su alrededor los siguientes elementos:
    - Tres tipos distintos de hojas
    - Algún resto animal (pluma, huella, etc.)
-   - Algo que no pertenezca al entorno (muestras de desechos humanos)
+   - Algo que no pertenezca al entorno (residuos que dejaron las personas)
    - Algo que sirva para transportar agua
    - Algo que huela bien
    - Algo suave
@@ -198,7 +200,7 @@ Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pa
 4. Reflexionen sobre cómo el lugar donde se encuentran ha sido intervenido por los seres humanos.
 
 ### Paso 4: Registro
-5. Pueden registrar sus hallazgos en un cuaderno de campo con dibujos y descripciones.
+5. Registren cada hallazgo en el cuaderno de campo, con una foto, un dibujo o una descripción, y dejen todo donde lo encontraron. Si encontraron residuos, pueden juntarlos con guantes al final, para dejar el lugar mejor de lo que estaba.
 
 ## ODS involucrados
 - **ODS 4:** Educación de calidad
