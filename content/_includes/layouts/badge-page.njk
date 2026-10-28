@@ -51,11 +51,13 @@ styles:
       {% else %}
         {% set validCount = 0 %}
         {%- for item in activityBadges -%}
-          {% if (item | slugify) in validBadges %}
+          {% if (item | slugify) == "general" %}
+            {% set validCount = -1000 %}
+          {% elif (item | slugify) in validBadges %}
             {% set validCount = validCount + 1 %}
           {% endif %}
         {%- endfor -%}
-        {% set showActivity = (validCount == 0) %}
+        {% set showActivity = (validCount <= 0) %}
       {% endif %}
     {% else %}
       {% set showActivity = false %}

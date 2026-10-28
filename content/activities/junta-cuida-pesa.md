@@ -85,7 +85,7 @@ license:
 
 # ========== ATRIBUCIONES ==========
 attributions:
-  - entity: "Autor"
+  - entity: "Mariano S. Cosentino"
     role: "creador original"
     year: 2024
   - entity: "Mariano S. Cosentino"
@@ -158,7 +158,7 @@ rama_rovers:
 # No aplica (documento original en español)
 
 # ========== NOTA ==========
-# Actividad original de Scouts de Argentina - Grupo Scout-Guía "San Pablo" Nro. 521
+# Actividad original de Mariano S. Cosentino
 ---
 
 # Juntá, Cuidá, Pesá
