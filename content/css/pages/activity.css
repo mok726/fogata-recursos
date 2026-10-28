@@ -46,6 +46,16 @@
   margin-bottom: 1rem;
 }
 
+a.hero-category {
+  text-decoration: none;
+}
+
+a.hero-category:hover,
+a.hero-category:focus-visible {
+  background: #3d8a50;
+  color: white;
+}
+
 .hero-title {
   font-size: 3.5rem;
   font-weight: 800;
@@ -766,4 +776,66 @@
   color: #6b7280;
   text-transform: uppercase;
   letter-spacing: .04em;
+}
+
+/* ---------- ESPACIO DE LAS CAJAS CENTRALES ----------
+   Menos padding y el texto más cerca de la línea de tiempo. */
+.content-card {
+  padding: 20px;
+}
+
+.content-card.timeline-card {
+  padding: 0;
+}
+
+.timeline-card {
+  grid-template-columns: 58px 1fr;
+}
+
+.timeline-line {
+  left: 28px;
+}
+
+.timeline-circle {
+  top: 16px;
+  left: 6px;
+  width: 46px;
+  height: 46px;
+}
+
+.timeline-content {
+  padding: 20px 16px 4px 0;
+}
+
+.content-card .markdown-content {
+  padding: 0 0 8px 0;
+}
+
+.timeline-content ol,
+.timeline-content ul {
+  padding-left: 1.3rem;
+}
+
+@media (max-width: 768px) {
+  .content-card {
+    padding: 16px;
+  }
+
+  .content-card.timeline-card {
+    padding: 0;
+  }
+
+  .timeline-card {
+    grid-template-columns: 44px 1fr;
+  }
+
+  .timeline-line {
+    left: 21px;
+  }
+
+  .timeline-circle {
+    left: 4px;
+    width: 36px;
+    height: 36px;
+  }
 }
