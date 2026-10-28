@@ -32,6 +32,8 @@ Aunque gran parte del material tiene origen scout, el contenido está pensado pa
 
 La intención es que las actividades puedan utilizarse en contextos educativos muy diversos.
 
+Hecho en Argentina 🇦🇷 para el mundo 🌎. Un espacio con acento Argentino para todos los scouts de habla hispana.
+
 ## ¿Por qué existe?
 
 A lo largo de los años fui encontrando materiales extraordinarios distribuidos en cientos de documentos, sitios web y programas educativos.
