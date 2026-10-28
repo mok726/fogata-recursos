@@ -40,8 +40,19 @@ Muchos eran difíciles de localizar, estaban en formatos incompatibles o simplem
 
 Fogata de Recursos nació para ayudar a preservar ese conocimiento y hacerlo más accesible para quienes trabajan educando.
 
-## Más información
 
+## Aclaración Importante
+Fogata de Recursos es una iniciativa personal y sin fines de lucro.
+En otras palabras, soy un simple colaborador scout y educador compartiendo algo que para mí es útil.
+
+Este sitio no esta afiliado, patrocinado, ni representa oficialmente a la Organización Mundial del Movimiento Scout (OMMS/WOSM), ni a Scouts de Argentina (SAAC), ni a la Alianza Mundial de la Juventud y las Naciones Unidas (YUNGA), ni a la  Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), ni a las Naciones Unidas, ni a la Organización Mundial por la Salud, ni a ninguna otra organización nacional o internacional.
+De hecho la mayoría no saben que existo, mucho menos que hice este sitio.
+
+En el sito utilizo sus marcos de referencia (como el Método Scout o las insignias) como guía de motivación pedagógica, pero las actividades, opiniones y recursos aquí compartidos son de creación propia o de autores y fuentes citadas, y no reflejan necesariamente la postura oficial de dichas organizaciones.
+
+
+
+## Más información
 - [Historia del proyecto](../historia-del-proyecto/)
 - [Estado del proyecto y colaboración](../colaborar/)
 
