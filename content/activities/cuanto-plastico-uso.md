@@ -1,7 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "¿Cuánto Plástico Uso?"
-duration: "15-20 minutos"
+duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanto-plastico-uso/"
 description: "Juego de autoevaluación donde los participantes reflexionan sobre su consumo de plástico y descubren cómo pueden reducirlo."
@@ -186,30 +186,28 @@ Vamos a pensar y descubrir cuánto plástico usamos, y después vamos a pensar c
 
 ## Lista de Preguntas
 
-### Concientización general
-1. Quiero ayudar a disminuir el impacto humano en la naturaleza. (SÍ / NO / MÁS O MENOS)
-2. Sé cómo disminuir el impacto humano en la naturaleza. (SÍ / NO / MÁS O MENOS)
-3. Yo contamino. (MUCHO / POQUITO / NADA)
-4. Tiro basura en la calle. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+### Lo que sé
+1. Sé qué objetos de plástico uso todos los días. (SÍ / NO / MÁS O MENOS)
+2. Sé qué es un plástico "de un solo uso". (SÍ / NO / MÁS O MENOS)
+3. Sé adónde va el plástico cuando lo tiro a la basura. (SÍ / NO / MÁS O MENOS)
 
-### Conocimiento sobre plásticos
-5. Sé qué plásticos contaminan. (SÍ / NO / MÁS O MENOS)
-6. Uso pajitas de plástico para tomar gaseosas. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-7. Tiro las botellas plásticas a la basura. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+### Comer y tomar
+4. Uso pajitas de plástico para tomar gaseosas. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+5. Compro agua o gaseosas en botellas descartables. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+6. Llevo mi propia botella o cantimplora reutilizable. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+7. Uso vasos, platos o cubiertos descartables. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+8. Cuando pedimos delivery, pedimos que no manden cubiertos ni sobrecitos de plástico. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+9. Llevo la merienda en un táper o en una bolsa reutilizable, no en bolsitas o film. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
-### Hábitos de reciclaje
-8. Separo la basura antes de tirarla. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-9. Cuando hago las compras llevo una bolsa. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-10. Tiro las pilas usadas a la basura. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+### Comprar
+10. Cuando hago las compras llevo una bolsa reutilizable. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+11. Elijo productos con menos envoltorio de plástico. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
-### Ahorro de recursos
-11. Apago la luz al salir de la habitación. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-12. Cierro bien la canilla cuando no la uso. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-13. Cierro bien la canilla mientras me lavo los dientes. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-
-### Conocimiento e impacto
-14. Sé qué impacto tiene la contaminación en los ecosistemas, en la salud de las personas y en las comunidades. (SÍ / NO / MÁS O MENOS)
-15. Participo de eventos que abordan la contaminación de los ecosistemas acuáticos y terrestres. (SÍ / NO / MÁS O MENOS)
+### Después de usarlo
+12. Separo el plástico del resto de la basura. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+13. Lleno botellas de amor con los plásticos que no se reciclan. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+14. Reutilizo envases de plástico antes de tirarlos (macetas, lapiceros, organizadores). (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
+15. Tiro papelitos o envoltorios de plástico al piso. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
 ## Cierre
 

@@ -189,3 +189,13 @@ No es de la categoría `general`, pero es tuya (`source: Propio`, insignia `comu
   - G1 (licencia IGO).
 - **g)** **No corresponde bien (P2)**: una cueva de Manada con una pantera/oso gigante y dos chicos parados; no muestra limpieza ni inspección. Hay 9 variantes `patitas-limpias_1..9.png` en el repo sin usar: quizá alguna sirva (no las revisé todas).
 - **h)** La dinámica es buena: rota roles, los jueces son pares y no los adultos, y el cierre tiene buenas preguntas.
+
+## Estado (2026-10-28)
+
+Aplicado en el PR #10, con OK de Mariano:
+- `taller-macetas-y-germinadoras`: profundidad de siembra de 2 a 3 veces el tamaño de la semilla (no 2 cm), riego con rociador, capa de tierra hasta 1–2 cm del borde.
+- `taller-de-papel-ecologico`: técnica con bastidor y malla (cómo armarlo), remojo previo, licuadora manejada por un adulto, prensado entre paños, secado en 1–2 días. Se sacó el "Arte" duplicado.
+- `junta-cuida-pesa`: guantes reutilizables y bolsita por lobato (no el bolsillo), regla "lo que pincha, corta o es sanitario no se toca", lavado de manos.
+- `cuanto-plastico-uso`: 15 preguntas, todas sobre plástico ("bolsa reutilizable" en la de compras); duración de 30 minutos.
+
+Pendiente: material imprimible (carteles, tarjetas, hoja del facilitador), atribución de `junta-cuida-pesa`, criterio de peso (premia lo pesado) y separación en el pesaje.

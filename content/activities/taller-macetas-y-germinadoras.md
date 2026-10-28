@@ -190,16 +190,16 @@ Aprendemos a reutilizar vasos descartables y tachitos plásticos como macetas ge
 3. En el fondo de nuestro tachito/maceta colocamos una pequeña capa de piedras lavadas (y/o arena) que cubra toda la superficie y al menos 1 cm de profundidad (esto es para facilitar drenaje y/o conservar humedad).
 
 ### Paso 4: Capa de tierra
-4. Colocamos una capa de tierra fértil que cubra toda la superficie y hasta la mitad de la maceta (al menos 2 cm) de profundidad.
+4. Colocamos una capa de tierra fértil que cubra toda la superficie, hasta dejar 1 o 2 cm libres debajo del borde.
 
 ### Paso 5: Siembra
 5. Seleccionamos las semillas y las distribuimos en forma pareja sobre la cama de tierra.
 
 ### Paso 6: Cubierta
-6. Cubrimos con una capa de tierra fértil que cubra toda la superficie y al menos 2 cm de profundidad.
+6. Cubrimos las semillas con una capa fina de tierra: como regla, de 2 a 3 veces el tamaño de la semilla. Las semillas chicas (albahaca, perejil, lechuga, la mayoría de las flores) llevan apenas unos milímetros, o solo se espolvorean con tierra; las grandes (porotos, zapallo, girasol) van a 1–2 cm. Si se entierran de más, no llegan a brotar.
 
 ### Paso 7: Riego
-7. Regamos la maceta para humedecer bien la tierra y dejamos que drene el exceso de agua.
+7. Regamos con cuidado (mejor con rociador o en lluvia fina, para no destapar las semillas) hasta humedecer bien la tierra, y dejamos que drene el exceso de agua.
 
 ### Paso 8: Cuidado
 8. Mantenemos las plantitas regadas y con buena luz.

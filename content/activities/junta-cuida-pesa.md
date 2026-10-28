@@ -35,6 +35,9 @@ materials:
   - 1 punto de acopio (mesa, estante o caja)
   - Marcadores
   - 1 balanza de mano (hasta 5-10 kg)
+  - 1 par de guantes de jardinería (reutilizables) por lobato
+  - 1 bolsita chica (de tela o reutilizada) por lobato
+  - Agua y jabón para lavarse las manos
 tools: []
 responsible:
   - Docente o Scouter
@@ -174,7 +177,7 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 ## Preparación (antes del campamento)
 
 ### Materiales
-1. Preparar una bolsa resistente por seisena.
+1. Preparar una bolsa resistente por seisena, y una bolsita chica y un par de guantes por lobato.
 2. Identificar cada bolsa con el nombre y color de la seisena.
 3. Imprimir la planilla de registro y el cartel de reglas.
 4. Designar el punto de acopio (mesa, estante o caja visible).
@@ -186,7 +189,10 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 | Solo basura real (plásticos, papeles, latas) | Nada de piedras, ramas, hojas, tierra o arena |
 | No vaciar tachos existentes | Solo lo que está en el suelo, pasto o senderos |
 | No generar basura a propósito | No tirar cosas limpias al suelo |
-| La bolsa vive en el punto de acopio | El bolsillo es el mensajero |
+| La bolsa vive en el punto de acopio | La bolsita de cada lobato es la mensajera |
+| Siempre con guantes | Nunca se junta basura con la mano desnuda |
+| Lo que pincha, corta o es sanitario NO se toca | Vidrio roto, latas abiertas, jeringas, pañales, preservativos, colillas: se avisa a un adulto, que lo retira con pinza o guantes |
+| Después de juntar, lavarse las manos | Siempre, con agua y jabón |
 | Revisión diaria por un adulto | Antes de cada pesaje |
 | Peso neto = peso lleno menos peso vacío | Anotado al inicio |
 | Si hay trampa, la seisena queda fuera de la competencia | Pierde opción a premios |
@@ -196,15 +202,15 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 ### Inicio del campamento (10 minutos)
 1. Presentar la actividad a la Manada.
 2. Mostrar las bolsas y asignar cada una a su seisena.
-3. Leer las reglas en voz alta.
+3. Leer las reglas en voz alta. Insistir en la de seguridad: lo que pincha, corta o es sanitario no se toca, se avisa a un adulto.
 4. Mostrar el punto de acopio y explicar su uso.
 5. Explicar el sistema de doble premiación.
 
 ### Durante el campamento (recolección continua + pesaje diario)
 
 **Recolección (todo el día):**
-- Cada lobato guarda la basura que encuentra en su bolsillo.
-- Al volver al punto de acopio, vacía su bolsillo en la bolsa de su seisena.
+- Cada lobato junta, con guantes, la basura que encuentra y la guarda en su bolsita (nunca en el bolsillo).
+- Al volver al punto de acopio, vacía su bolsita en la bolsa de su seisena y se lava las manos.
 - La bolsa no se lleva a todas partes.
 
 **Pesaje diario (15 minutos, misma hora todos los días):**
@@ -243,7 +249,8 @@ Proponga a la Manada elegir una acción para reducir la basura en futuros campam
 - "Recuerden: solo lo que está en el suelo. Nada de sacar del tacho."
 - "Esa rama no cuenta. Busquen plásticos o papeles."
 - "Bien hecho, juntaron una lata. Eso pesa."
-- "Tu bolsillo es el mensajero. La bolsa es el tesoro."
+- "Tu bolsita es la mensajera. La bolsa es el tesoro."
+- "¿Vidrio o algo que pincha? No lo toques: avisame y lo saco yo."
 - "No importa quién gana hoy. Mañana empieza de nuevo."
 
 ## Planilla de registro de pesos
