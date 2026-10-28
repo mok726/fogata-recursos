@@ -4,7 +4,7 @@ title: "Local vs. Importado"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/local-vs-importado/"
-description: "Compara alimentos locales e importados y su impacto ambiental, y elige opciones sostenibles."
+description: "Compará alimentos locales e importados y su impacto ambiental, y elegí opciones sostenibles."
 summary: "Comparación de alimentos locales e importados."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/local-vs-importado.png"
+image: "/imagenes/actividades/local-vs-importado.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,36 +169,23 @@ rama_rovers:
 # Local vs. Importado
 
 ## Resumen
-Compara alimentos locales e importados y su impacto ambiental, y elige opciones sostenibles.
+Compará alimentos locales e importados y su impacto ambiental, y elegí opciones sostenibles.
 
 ## Preparación
-1. Visita el mercado o supermercado local.
-2. Investiga el origen de los alimentos.
-3. Prepara material para el póster.
+1. Visitá el mercado o supermercado local.
+2. Investigá el origen de los alimentos.
+3. Prepará material para el póster.
 
 ## Desarrollo
-1. **Visita** (20 min): Visita el mercado y observa el origen de los alimentos.
-2. **Investigación** (15 min): Investiga el transporte y su impacto ambiental.
-3. **Comparación** (15 min): Compara productos locales e importados.
-4. **Póster** (20 min): Prepara un póster con tus hallazgos.
-5. **Presentación** (15 min): Comparte con tu grupo y familia.
+1. **Visita** (20 min): Visitá el mercado y observá el origen de los alimentos.
+2. **Investigación** (15 min): Investigá el transporte y su impacto ambiental.
+3. **Comparación** (15 min): Compará productos locales e importados.
+4. **Póster** (20 min): Prepará un póster con tus hallazgos.
+5. **Presentación** (15 min): Compartí con tu grupo y familia.
 
 ## Cierre
 - ¿Qué alimentos son locales y cuáles importados?
-- ¿Cómo puedes elegir mejor la comida en el futuro?
+- ¿Cómo podés elegir mejor la comida en el futuro?
 - ¿Qué compromiso adquieres para consumir productos locales?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

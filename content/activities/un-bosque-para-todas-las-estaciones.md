@@ -4,7 +4,7 @@ title: "Un Bosque para Todas las Estaciones"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/un-bosque-para-todas-las-estaciones/"
-description: "Visita un bosque local en al menos dos estaciones diferentes. Registra tus observaciones y compártelas creativamente."
+description: "Visitá un bosque local en al menos dos estaciones diferentes. Registrá tus observaciones y compártelas creativamente."
 summary: "Observación estacional del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.png"
+image: "/imagenes/actividades/un-bosque-para-todas-las-estaciones.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -172,19 +172,19 @@ rama_rovers:
 # Un Bosque para Todas las Estaciones
 
 ## Resumen
-Visita un bosque local en al menos dos estaciones diferentes. Registra tus observaciones y compártelas creativamente.
+Visitá un bosque local en al menos dos estaciones diferentes. Registrá tus observaciones y compártelas creativamente.
 
 ## Preparación
-1. Elige un bosque local para visitar.
-2. Prepara cuaderno para observaciones.
-3. Planifica visitas en diferentes estaciones.
+1. Elegí un bosque local para visitar.
+2. Prepará cuaderno para observaciones.
+3. Planificá visitas en diferentes estaciones.
 
 ## Desarrollo
-1. **Visita 1** (30 min): Visita el bosque en una estación y registra lo que ves, hueles, escuchas y sientes.
-2. **Visita 2** (30 min): Visita el bosque en otra estación y registra observaciones.
-3. **Comparación** (20 min): Compara las observaciones en cada estación.
-4. **Creación** (25 min): Crea un collage, video o notas de diario.
-5. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Visita 1** (30 min): Visitá el bosque en una estación y registrá lo que ves, olés, escuchás y sentís.
+2. **Visita 2** (30 min): Visitá el bosque en otra estación y registrá observaciones.
+3. **Comparación** (20 min): Compará las observaciones en cada estación.
+4. **Creación** (25 min): Creá un collage, video o notas de diario.
+5. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué cambios observaste entre estaciones?
@@ -192,16 +192,3 @@ Visita un bosque local en al menos dos estaciones diferentes. Registra tus obser
 - ¿Qué compromiso adquieres para observar la naturaleza?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

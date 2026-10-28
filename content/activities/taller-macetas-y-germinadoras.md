@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-macetas-y-germinadoras/"
 description: "Taller donde los participantes aprenden a reutilizar vasos descartables y tachitos plásticos como macetas germinadoras para cultivar hierbas y flores."
-summary: "Convierte descartables en macetas."
+summary: "Convertí descartables en macetas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-macetas-y-germinadoras.png"
+image: "/imagenes/actividades/taller-macetas-y-germinadoras.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -36,7 +36,7 @@ materials:
   - Tierra, humus
   - Piedritas
   - Palita
-  - Guantes descartables
+  - Guantes de jardinería reutilizables (o lavarse bien las manos al terminar)
   - Marcador indeleble
   - Tijera o cortante
 tools: []
@@ -174,9 +174,9 @@ Aprendemos a reutilizar vasos descartables y tachitos plásticos como macetas ge
 - Promover la conciencia ambiental a través del reciclaje creativo.
 
 ## Preparación
-1. Reúne vasos descartables y tachitos plásticos limpios y secos.
-2. Prepara semillas, tierra, humus y piedritas.
-3. Prepara palitas, guantes, marcadores indelebles y tijeras o cortantes.
+1. Reuní vasos descartables y tachitos plásticos limpios y secos.
+2. Prepará semillas, tierra, humus y piedritas.
+3. Prepará palitas, guantes, marcadores indelebles y tijeras o cortantes.
 
 ## Desarrollo
 
@@ -190,16 +190,16 @@ Aprendemos a reutilizar vasos descartables y tachitos plásticos como macetas ge
 3. En el fondo de nuestro tachito/maceta colocamos una pequeña capa de piedras lavadas (y/o arena) que cubra toda la superficie y al menos 1 cm de profundidad (esto es para facilitar drenaje y/o conservar humedad).
 
 ### Paso 4: Capa de tierra
-4. Colocamos una capa de tierra fértil que cubra toda la superficie y hasta la mitad de la maceta (al menos 2 cm) de profundidad.
+4. Colocamos una capa de tierra fértil que cubra toda la superficie, hasta dejar 1 o 2 cm libres debajo del borde.
 
 ### Paso 5: Siembra
 5. Seleccionamos las semillas y las distribuimos en forma pareja sobre la cama de tierra.
 
 ### Paso 6: Cubierta
-6. Cubrimos con una capa de tierra fértil que cubra toda la superficie y al menos 2 cm de profundidad.
+6. Cubrimos las semillas con una capa fina de tierra: como regla, de 2 a 3 veces el tamaño de la semilla. Las semillas chicas (albahaca, perejil, lechuga, la mayoría de las flores) llevan apenas unos milímetros, o solo se espolvorean con tierra; las grandes (porotos, zapallo, girasol) van a 1–2 cm. Si se entierran de más, no llegan a brotar.
 
 ### Paso 7: Riego
-7. Regamos la maceta para humedecer bien la tierra y dejamos que drene el exceso de agua.
+7. Regamos con cuidado (mejor con rociador o en lluvia fina, para no destapar las semillas) hasta humedecer bien la tierra, y dejamos que drene el exceso de agua.
 
 ### Paso 8: Cuidado
 8. Mantenemos las plantitas regadas y con buena luz.
@@ -235,18 +235,3 @@ Aprendemos a reutilizar vasos descartables y tachitos plásticos como macetas ge
 **Cierre:** Discutimos sobre la actividad y que les pareció. Pensamos ¿Qué hubiera pasado con esos vasos o envases descartables? ¿Qué otras cosas podemos usar así? Realizamos seguimiento periódico del estado de los cultivos y su germinacion, y los invitamos a traer la suya para mostrarla en la jornada de ecología.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

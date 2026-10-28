@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Educación Anti-invasión"
+title: "Educación Anti-Invasión"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/educacion-anti-invasion/"
-description: "Haz un póster que indique aquello que las personas pueden hacer para prevenir la transferencia de especies invasoras entre los bosques."
+description: "Hacé un póster que indique aquello que las personas pueden hacer para prevenir la transferencia de especies invasoras entre los bosques."
 summary: "Creación de un póster educativo sobre especies invasoras."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/educacion-anti-invasion.png"
+image: "/imagenes/actividades/educacion-anti-invasion.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,38 +167,25 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental a partir de una conciencia crítica y responsable de las causas y consecuencias del impacto ambiental.
 ---
 
-# Educación Anti-invasión
+# Educación Anti-Invasión
 
 ## Resumen
-Haz un póster que indique aquello que las personas pueden hacer para prevenir la transferencia de especies invasoras entre los bosques. Exhibe tu obra de arte en un espacio público, como por ejemplo en el comienzo de un sendero natural, en una escuela o en el centro de visitantes de un parque.
+Hacé un póster que indique aquello que las personas pueden hacer para prevenir la transferencia de especies invasoras entre los bosques. Exhibí tu obra de arte en un espacio público, como por ejemplo en el comienzo de un sendero natural, en una escuela o en el centro de visitantes de un parque.
 
 ## Preparación
-1. Investiga sobre especies invasoras en tu área o en general.
-2. Reúne los materiales para el póster (cartulina, marcadores, etc.).
-3. Define el mensaje clave que quieres comunicar.
+1. Investigá sobre especies invasoras en tu área o en general.
+2. Reuní los materiales para el póster (cartulina, marcadores, etc.).
+3. Definí el mensaje clave que querés comunicar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga qué son las especies invasoras, cómo se transfieren y qué daños causan.
-2. **Diseño del póster** (30 min): Crea un póster claro y atractivo con recomendaciones prácticas.
-3. **Presentación** (15 min): Prepara una breve charla o presentación sobre el tema.
-4. **Exhibición** (variable): Coloca el póster en un espacio público y comparte tu mensaje.
+1. **Investigación** (20 min): Investigá qué son las especies invasoras, cómo se transfieren y qué daños causan.
+2. **Diseño del póster** (30 min): Creá un póster claro y atractivo con recomendaciones prácticas.
+3. **Presentación** (15 min): Prepará una breve charla o presentación sobre el tema.
+4. **Exhibición** (variable): Colocá el póster en un espacio público y compartí tu mensaje.
 
 ## Cierre
 - ¿Qué aprendiste sobre las especies invasoras y su impacto en los bosques?
 - ¿Qué acciones concretas podemos tomar para prevenir su propagación?
-- ¿Cómo crees que tu póster puede influir en otras personas?
+- ¿Cómo creés que tu póster puede influir en otras personas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

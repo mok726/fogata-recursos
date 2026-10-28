@@ -3,7 +3,7 @@ title: "Hora de la Prueba"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hora-de-la-prueba-rrd/"
-description: "Prepara un concurso de preguntas sobre desastres y RRD entre dos equipos."
+description: "Prepará un concurso de preguntas sobre desastres y RRD entre dos equipos."
 summary: "Concurso de preguntas sobre desastres y RRD."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/hora-de-la-prueba-rrd.png"
+image: "/imagenes/actividades/hora-de-la-prueba-rrd.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -161,7 +161,7 @@ Divídanse en dos equipos. Uno prepara preguntas sobre cómo los desastres afect
 3. Revisen las preguntas para asegurar que sean correctas.
 
 ## Desarrollo
-1. **Preparación** (15 min): Cada equipo elabora sus preguntas.
+1. **Preparación** (15 min): Cada equipo elabora sus preguntas. Algunos ejemplos: ¿Cuántas personas son afectadas por desastres cada año? ¿Cuáles son tres factores que incrementan el riesgo de desastres?
 2. **Prueba** (20 min): Los equipos se preguntan entre sí.
 3. **Resultado** (10 min): Cuenten las respuestas correctas y anuncien al ganador.
 
@@ -178,16 +178,3 @@ Divídanse en dos equipos. Uno prepara preguntas sobre cómo los desastres afect
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

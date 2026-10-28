@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Modelo de cuenca de agua"
+title: "Modelo de Cuenca de Agua"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/modelo-de-cuenca-de-agua/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/modelo-de-cuenca-de-agua.png"
+image: "/imagenes/actividades/modelo-de-cuenca-de-agua.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -168,25 +168,25 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Modelo de cuenca de agua!
+# ¡Modelo de Cuenca de Agua!
 
 ## Resumen
 Aprendan acerca de su cuenca de agua local - un área de tierra que captura lluvia y nieve y luego las drena hacia un cuerpo de agua mayor - como por ejemplo un pantano, un arroyo, un río, un lago, un océano o agua subterránea. Construyan un modelo utilizando tierra, corteza de árbol, piedras, papel maché o materiales reciclados de su cuenca.
 
 ## Preparación
-1. Investiga sobre tu cuenca de agua local.
-2. Reúne materiales para la construcción.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre tu cuenca de agua local.
+2. Reuní materiales para la construcción.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Construye un modelo de tu cuenca de agua.
-2. Añade todos los elementos al agua, incluyendo corrientes naturales y escorrentía de granjas o áreas industriales.
-3. Reflexiona: ¿Cómo participan en la cuenca las plantas y los árboles?
-4. Reflexiona: ¿Cómo participan los animales acuáticos y terrestres?
+1. Construí un modelo de tu cuenca de agua.
+2. Añadí todos los elementos al agua, incluyendo corrientes naturales y escorrentía de granjas o áreas industriales.
+3. Reflexioná: ¿Cómo participan en la cuenca las plantas y los árboles?
+4. Reflexioná: ¿Cómo participan los animales acuáticos y terrestres?
 
 ## Cierre
-1. Explica a tus dirigentes, familias o grupo cómo funciona tu modelo.
-2. Comparte tus hallazgos.
+1. Explicá a tus dirigentes, familias o grupo cómo funciona tu modelo.
+2. Compartí tus hallazgos.
 3. Pregunta final: ¿Por qué es importante proteger las cuencas de agua?
 
 ## Texto original completo de la actividad
@@ -195,16 +195,3 @@ B.01 Aprendan acerca de su cuenca de agua local - un área de tierra que captura
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

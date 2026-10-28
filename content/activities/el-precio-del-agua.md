@@ -3,8 +3,8 @@ title: "El Precio del Agua"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-precio-del-agua/"
-description: "Debate sobre si el agua debería ser gratis o si las personas deberían pagar por ella."
-summary: "Debate sobre el precio del agua."
+description: "Debatí sobre si el agua debería ser gratis o si las personas deberían pagar por ella."
+summary: "Debatí sobre el precio del agua."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-precio-del-agua.png"
+image: "/imagenes/actividades/el-precio-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -149,7 +149,7 @@ rama_rovers:
 # ¡El Precio del Agua!
 
 ## Resumen
-Debate sobre si el agua debería ser gratis o si las personas deberían pagar por ella, explorando diferentes perspectivas.
+Debatí sobre si el agua debería ser gratis o si las personas deberían pagar por ella, explorando diferentes perspectivas.
 
 ## Preparación
 1. Divídanse en grupos a favor y en contra.
@@ -157,9 +157,9 @@ Debate sobre si el agua debería ser gratis o si las personas deberían pagar po
 3. Preparen argumentos para el debate.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre el precio del agua.
-2. **Preparación** (15 min): Prepara tus argumentos.
-3. **Debate** (20 min): Debate sobre el tema.
+1. **Investigación** (20 min): Investigá sobre el precio del agua.
+2. **Preparación** (15 min): Prepará tus argumentos.
+3. **Debate** (20 min): Debatí sobre el tema.
 4. **Conclusión** (5 min): Resume las ideas clave.
 
 ## Cierre
@@ -175,16 +175,3 @@ Debate sobre si el agua debería ser gratis o si las personas deberían pagar po
 nivel 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

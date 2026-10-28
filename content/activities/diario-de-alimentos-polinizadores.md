@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diario de alimentos"
+title: "Diario de Alimentos"
 duration: "1 día + investigación"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-de-alimentos-polinizadores/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/diario-de-alimentos-polinizadores.png"
+image: "/imagenes/actividades/diario-de-alimentos-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Diario de alimentos!
+# ¡Diario de Alimentos!
 
 ## Resumen
 Registrá todo lo que comés en un día. Luego investigá cómo fue producido. ¿Fue por agricultura convencional? ¿Agricultura amigable con los polinizadores? ¿Local? ¿O depende de polinizadores que sobreviven en otra parte del mundo?
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

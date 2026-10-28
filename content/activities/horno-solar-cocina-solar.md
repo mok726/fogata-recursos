@@ -4,8 +4,8 @@ title: "Horno Solar - Cocina Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/horno-solar-cocina-solar/"
-description: "Construye tu propio horno o cocina solar para cocinar alimentos usando la energía del Sol, explorando diferentes diseños y materiales."
-summary: "Cocina con energía solar."
+description: "Construí tu propio horno o cocina solar para cocinar alimentos usando la energía del Sol, explorando diferentes diseños y materiales."
+summary: "Cociná con energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/horno-solar-cocina-solar.png"
+image: "/imagenes/actividades/horno-solar-cocina-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -210,14 +210,18 @@ Sigan las instrucciones del anexo para construir la cocina solar.
 
 **Paso 5:** Sostengan ambas piezas alineadas (con la ayuda de alguien o con una prensa) y hagan un agujero del lado derecho y otro del lado izquierdo en cada esquina de la madera más pequeña.
 
-**Paso 6:** Unan las piezas y sujetenlas con tanza o hilo a través de los huecos. Usen 4 clips para darle forma de flor a la cocina.
+**Paso 6:** Unan las piezas y sujétenlas con tanza o hilo a través de los huecos. Usen 4 clips para darle forma de flor a la cocina.
+
+> **Nota para el educador:** los pasos hablan de dos piezas de madera (una grande y una pequeña), pero la lista de materiales da la medida de una sola. **Opción:** usen una segunda pieza más chica, por ejemplo de 12 x 12 cm, que va arriba y aprieta los cartones contra la de 20 x 20 cm.
+>
+> Para cocinar en una cocina de panel como esta hace falta además una **olla o lata oscura con tapa** (lo oscuro absorbe el calor) y, si se puede, una bolsa para horno o un recipiente transparente que envuelva la olla para que no pierda calor.
 
 ### Parte II - Cocinar
 Coloquen la cocina solar al Sol y prueben a cocinar algo simple (ej. hervir agua para mate cocido, hacer pochoclos o arroz).
 
 ## Cierre
 1. ¿Qué tan efectiva fue la cocina solar?
-2. ¿Qué otros diseños de hornos solares conoces?
+2. ¿Qué otros diseños de hornos solares conocés?
 3. ¿Cómo se podría mejorar el diseño?
 
 ## Texto original completo de la actividad
@@ -255,18 +259,3 @@ Construyan su propio Horno o Cocina Solar. Además de todos los beneficios que n
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Anexos incluidos

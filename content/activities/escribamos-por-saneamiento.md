@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/escribamos-por-saneamiento/"
 description: "Los participantes reflexionan sobre el saneamiento y su relación con los derechos humanos, y escriben una carta a sus representantes locales para promover mejoras en el acceso a agua y saneamiento."
-summary: "Escribe una carta por el saneamiento."
+summary: "Escribí una carta por el saneamiento."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/escribamos-por-saneamiento.png"
+image: "/imagenes/actividades/escribamos-por-saneamiento.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -173,15 +173,15 @@ translation_notice:
 Tener acceso a agua potable y saneamiento es central para vivir una vida con dignidad y defender los derechos humanos. Sin embargo, miles de millones de personas aún no disfrutan de estos derechos fundamentales. En esta actividad, los participantes reflexionan sobre el saneamiento y su relación con los derechos humanos, y escriben una carta a sus representantes locales para promover mejoras en el acceso a agua y saneamiento.
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Investiga sobre las necesidades de saneamiento en tu comunidad.
+1. Prepará los materiales de escritura.
+2. Investigá sobre las necesidades de saneamiento en tu comunidad.
 
 ## Desarrollo
 
 ### Paso 1: Reflexión sobre el saneamiento
-1. Pide a tu grupo que reflexione sobre el saneamiento y su capacidad para llevar una vida saludable y feliz.
+1. Pedí a tu grupo que reflexione sobre el saneamiento y su capacidad para llevar una vida saludable y feliz.
 2. Pregunta: ¿Cómo cambiaría tu vida si no tuvieras acceso a instalaciones de saneamiento adecuadas?
-3. Discute los siguientes hechos:
+3. Discutí los siguientes hechos:
    - Cada día, 7,500 personas mueren por falta de saneamiento, de las cuales 5,000 son menores de cinco años.
    - Cada año, se pierden 272 millones de días escolares debido a enfermedades relacionadas con el agua y el saneamiento.
    - Una de cada tres personas no tiene acceso a instalaciones de saneamiento mejoradas.
@@ -190,16 +190,16 @@ Tener acceso a agua potable y saneamiento es central para vivir una vida con dig
 4. Como grupo, piensen en alguna necesidad específica que su comunidad, o incluso su ciudad, pueda tener con respecto al saneamiento.
 
 ### Paso 3: Escritura de la carta
-5. Explica que van a escribir una carta a su representante del gobierno local para alentarlo a abordar este tema.
-6. Anima a tu grupo a usar un lenguaje persuasivo e incluir hechos útiles.
+5. Explicá que van a escribir una carta a su representante del gobierno local para alentarlo a abordar este tema.
+6. Animá a tu grupo a usar un lenguaje persuasivo e incluir hechos útiles.
 
 ### Paso 4: Envío
-7. Pide a todos que firmen la carta y envíenla.
+7. Pedí a todos que firmen la carta y envíenla.
 
 ## Cierre
 - ¿Por qué es importante que los miembros de la comunidad participen en la mejora y construcción de una sociedad mejor?
 - ¿Alguna vez has estado en un lugar donde no había instalaciones de saneamiento limpias o suficientes? ¿Cómo te sentiste?
-- ¿Cómo crees que esto afecta la vida de las personas que deben sufrir por esto todos los días?
+- ¿Cómo creés que esto afecta la vida de las personas que deben sufrir por esto todos los días?
 - ¿Por qué dirías que el derecho al agua limpia y al saneamiento son esenciales para la realización de todos los derechos humanos?
 
 ## Información sobre el derecho humano al agua y saneamiento
@@ -284,21 +284,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[15,19], scouts[18,21], caminantes[17,18], rovers[22,23])

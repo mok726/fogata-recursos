@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Club de intercambio"
+title: "Club de Intercambio"
 duration: "En curso (cada 6 meses)"
 layout: "layouts/activity.njk"
 permalink: "/activities/club-de-intercambio/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/club-de-intercambio.png"
+image: "/imagenes/actividades/club-de-intercambio.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Club de intercambio!
+# ¡Club de Intercambio!
 
 ## Resumen
 Reutilizar objetos en casa en lugar de tirarlos es una excelente manera de ser más verde. Involucrá a tu comunidad para hacer la reutilización divertida y efectiva.
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -3,8 +3,8 @@ title: "Monólogos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/monologos/"
-description: "Debate sobre el monocultivo representando diferentes perspectivas."
-summary: "Debate sobre monocultivo."
+description: "Debatí sobre el monocultivo representando diferentes perspectivas."
+summary: "Debatí sobre monocultivo."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/monologos.png"
+image: "/imagenes/actividades/monologos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,7 +145,7 @@ rama_rovers:
 # ¡Monólogos!
 
 ## Resumen
-Debate sobre el monocultivo representando diferentes perspectivas.
+Debatí sobre el monocultivo representando diferentes perspectivas.
 
 ## Preparación
 1. Divídanse en dos grupos: a favor y en contra del monocultivo.
@@ -153,8 +153,8 @@ Debate sobre el monocultivo representando diferentes perspectivas.
 3. Preparen argumentos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Prepara tus argumentos.
-2. **Debate** (25 min): Desarrolla un debate apasionado.
+1. **Investigación** (20 min): Prepará tus argumentos.
+2. **Debate** (25 min): Desarrollá un debate apasionado.
 3. **Conclusión** (15 min): Resume las posiciones.
 
 ## Cierre
@@ -170,16 +170,3 @@ Debate sobre el monocultivo representando diferentes perspectivas.
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

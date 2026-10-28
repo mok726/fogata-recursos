@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cine y plástico: aprendiendo con películas"
+title: "Cine y Plástico: Aprendiendo con Películas"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-y-plastico/"
-description: "Ve un documental sobre contaminación plástica y organiza un debate para inspirar a otros a reducir el uso de plásticos de un solo uso."
-summary: "Aprende sobre plásticos viendo documentales."
+description: "Andá un documental sobre contaminación plástica y organizá un debate para inspirar a otros a reducir el uso de plásticos de un solo uso."
+summary: "Aprendé sobre plásticos viendo documentales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cine-y-plastico.png"
+image: "/imagenes/actividades/cine-y-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -169,15 +169,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Cine y plástico: aprendiendo con películas!
+# ¡Cine y Plástico: Aprendiendo con Películas!
 
 ## Resumen
-Ver documentales sobre contaminación plástica es una forma entretenida de aprender más sobre el problema. Mira uno de estos videos y organiza un debate con tu grupo para inspirar a otros a reducir su uso de plásticos.
+Ver documentales sobre contaminación plástica es una forma entretenida de aprender más sobre el problema. Mirá uno de estos videos y organizá un debate con tu grupo para inspirar a otros a reducir su uso de plásticos.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Elige uno o ambos videos recomendados.
-3. Prepara el espacio para la proyección.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Elegí uno o ambos videos recomendados.
+3. Prepará el espacio para la proyección.
 
 ## Desarrollo
 
@@ -247,20 +247,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Increíbles animales que se adaptan"
+title: "Increíbles Animales que Se Adaptan"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/increibles-animales-que-se-adaptan/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/increibles-animales-que-se-adaptan.png"
+image: "/imagenes/actividades/increibles-animales-que-se-adaptan.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -162,26 +162,26 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Increíbles animales que se adaptan!
+# ¡Increíbles Animales que Se Adaptan!
 
 ## Resumen
-Diferentes animales han evolucionado durante generaciones para adaptarse al medio ambiente en el cual viven. Inventa tu propio animal y describe cómo se ha adaptado durante los años para sobrevivir a su medio ambiente.
+Diferentes animales han evolucionado durante generaciones para adaptarse al medio ambiente en el cual viven. Inventá tu propio animal y describí cómo se ha adaptado durante los años para sobrevivir a su medio ambiente.
 
 ## Preparación
-1. Prepara los materiales de dibujo y manualidades.
-2. Busca ejemplos de animales reales y cómo se han adaptado a sus entornos (camellos, osos polares, lagartijas, etc.).
-3. Prepara una breve explicación sobre el concepto de adaptación y evolución.
+1. Prepará los materiales de dibujo y manualidades.
+2. Buscá ejemplos de animales reales y cómo se han adaptado a sus entornos (camellos, osos polares, lagartijas, etc.).
+3. Prepará una breve explicación sobre el concepto de adaptación y evolución.
 
 ## Desarrollo
-1. Piensa en un entorno o clima específico: ¿Vive en un lugar frío o caliente? ¿Lluvioso o polvoriento?
-2. Inventa un animal que viva en ese entorno.
-3. Describe qué características particulares ha desarrollado para sobrevivir: ¿piel gruesa? ¿pelaje denso? ¿capacidad de almacenar agua?
-4. Haz un dibujo detallado de tu criatura inventada.
-5. Escribe una breve descripción de sus adaptaciones.
+1. Pensá en un entorno o clima específico: ¿Vive en un lugar frío o caliente? ¿Lluvioso o polvoriento?
+2. Inventá un animal que viva en ese entorno.
+3. Describí qué características particulares ha desarrollado para sobrevivir: ¿piel gruesa? ¿pelaje denso? ¿capacidad de almacenar agua?
+4. Hacé un dibujo detallado de tu criatura inventada.
+5. Escribí una breve descripción de sus adaptaciones.
 
 ## Cierre
-1. Decora tu clase o espacio de reunión con las criaturas inventadas.
-2. Comparte tu creación con el grupo y explica por qué tu animal tiene esas características.
+1. Decorá tu clase o espacio de reunión con las criaturas inventadas.
+2. Compartí tu creación con el grupo y explicá por qué tu animal tiene esas características.
 3. Pregunta final: ¿Qué pasaría si el clima de tu animal cambiara rápidamente? ¿Podría sobrevivir?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ A.03 INCREÍBLES ANIMALES QUE SE ADAPTAN. Diferentes animales han evolucionado d
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

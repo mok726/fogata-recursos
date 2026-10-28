@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita a un apiario"
+title: "Visitá a un Apiario"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-un-apiario/"
-description: "Visita a una operación apícola local para aprender sobre el trabajo de los apicultores y el comportamiento de las abejas."
+description: "Visitá a una operación apícola local para aprender sobre el trabajo de los apicultores y el comportamiento de las abejas."
 summary: "Visitar un apiario local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-a-un-apiario.png"
+image: "/imagenes/actividades/visita-a-un-apiario.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -165,7 +165,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Visita a un apiario!
+# ¡Visitá a un Apiario!
 
 ## Resumen
 Visitá una operación apícola local para aprender más sobre su trabajo. ¿Qué tipo de abejas crían? ¿Qué implica? ¿Cuáles son las partes más difíciles de la apicultura? ¿Cuál es la mejor parte? ¿Cuáles son los beneficios de la apicultura? ¿Cuáles son cinco cosas nuevas que aprendiste sobre el comportamiento de las abejas?
@@ -178,6 +178,8 @@ Visitá una operación apícola local para aprender más sobre su trabajo. ¿Qu�
 ## Desarrollo
 1. Visitá el apiario.
 2. Entrevistá al apicultor.
+
+> **Nota de seguridad:** antes de la visita, preguntá a las familias por alergias a picaduras y llevá botiquín (y la medicación de quien la tenga indicada). Sigan siempre las indicaciones del apicultor: usen el equipo de protección que les dé y mantengan la distancia de las colmenas que les indique.
 3. Aprendé sobre el comportamiento de las abejas.
 4. Con permiso, creá un video o podcast de tu entrevista.
 5. Si no hay un apiario, visitá un huerto, granja o vivero.
@@ -213,20 +215,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

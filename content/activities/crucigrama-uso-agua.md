@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/crucigrama-uso-agua.png"
+image: "/imagenes/actividades/crucigrama-uso-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -172,21 +172,21 @@ translation_notice:
 Consumimos más agua de la que imaginamos. El agua está oculta en todo lo que vemos a nuestro alrededor: nuestra ropa, nuestra comida, nuestros teléfonos celulares. El "agua oculta" o "agua virtual" es simplemente el agua utilizada para producir un bien. Cada producto usa agua en algún momento durante su proceso de fabricación; algunos productos requieren mucha agua y otros no tanto. En esta actividad, los participantes resuelven un crucigrama para descubrir datos interesantes sobre el uso del agua.
 
 ## Preparación
-1. Haz copias del crucigrama para cada participante.
+1. Hacé copias del crucigrama para cada participante.
 2. Los participantes más jóvenes pueden trabajar en parejas.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a resolver un Crucigrama del Uso del Agua, que contiene muchos datos interesantes sobre el uso del agua.
-2. Habla sobre el concepto de "agua oculta" o "agua virtual": el agua que se usa para producir los bienes que consumimos.
+1. Explicá a tu grupo que van a resolver un Crucigrama del Uso del Agua, que contiene muchos datos interesantes sobre el uso del agua.
+2. Hablá sobre el concepto de "agua oculta" o "agua virtual": el agua que se usa para producir los bienes que consumimos.
 
 ### Paso 2: Resolver el crucigrama
-3. Entrega una copia del crucigrama a cada participante y dales tiempo suficiente para resolverlo.
+3. Entregá una copia del crucigrama a cada participante y dales tiempo suficiente para resolverlo.
 4. Los participantes más jóvenes pueden trabajar en parejas.
 
 ### Paso 3: Revisión
-5. Revisa las respuestas con todo el grupo.
+5. Revisá las respuestas con todo el grupo.
 
 ## Crucigrama del Uso del Agua
 
@@ -225,7 +225,7 @@ Consumimos más agua de la que imaginamos. El agua está oculta en todo lo que v
 6. BANANA
 
 ## Cierre
-- ¿Sabías que hay "agua oculta" en todo lo que usas? ¿Qué opinas de eso?
+- ¿Sabías que hay "agua oculta" en todo lo que usás? ¿Qué opinas de eso?
 - ¿Cómo puede ayudar a reducir el uso del agua ser un consumidor inteligente?
 - ¿De quién es la responsabilidad de proteger la calidad y disponibilidad del agua?
 
@@ -289,21 +289,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[24,32], scouts[31,40], caminantes[29,37], rovers[3,30])

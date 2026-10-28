@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Planta un Árbol"
+title: "Plantá un Árbol"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/planta-un-arbol/"
-description: "Trabaja con un maestro, dirigente o padre para buscar un espacio en la comunidad donde tu grupo tenga la autorización para plantar un árbol."
-summary: "Planta un árbol en tu comunidad y organiza una ceremonia para celebrarlo."
+description: "Trabajá con un maestro, dirigente o padre para buscar un espacio en la comunidad donde tu grupo tenga la autorización para plantar un árbol."
+summary: "Plantá un árbol en tu comunidad y organizá una ceremonia para celebrarlo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/planta-un-arbol.png"
+image: "/imagenes/actividades/planta-un-arbol.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -180,25 +180,25 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común y promuevo la armonía con la naturaleza.
 ---
 
-# ¡Planta un Árbol!
+# ¡Plantá un Árbol!
 
 ## Resumen
-Trabaja con un maestro, dirigente o padre para buscar un espacio en la comunidad donde tu grupo tenga la autorización para plantar un árbol. Investiga qué tipo de árbol plantar y organiza una ceremonia oficial para plantar tu árbol.
+Trabajá con un maestro, dirigente o padre para buscar un espacio en la comunidad donde tu grupo tenga la autorización para plantar un árbol. Investigá qué tipo de árbol plantar y organizá una ceremonia oficial para plantar tu árbol.
 
 ## Preparación
-1. Busca un espacio en la comunidad donde tengan autorización para plantar un árbol.
-2. Investiga qué tipo de árbol es adecuado para tu área (clima, suelo, espacio disponible).
-3. Visita el sitio web con instrucciones: http://greenwave.cbd.int/resources/how-to-plant
-4. Consigue los materiales necesarios: árbol/plántula, pala, tierra/compost, agua, guantes.
-5. Coordina con un maestro, dirigente o padre para la supervisión.
-6. Invita a amigos y familiares a la ceremonia.
+1. Buscá un espacio en la comunidad donde tengan autorización para plantar un árbol.
+2. Investigá qué tipo de árbol es adecuado para tu área (clima, suelo, espacio disponible).
+3. Visitá el sitio web con instrucciones: http://greenwave.cbd.int/resources/how-to-plant
+4. Conseguí los materiales necesarios: árbol/plántula, pala, tierra/compost, agua, guantes.
+5. Coordiná con un maestro, dirigente o padre para la supervisión.
+6. Invitá a amigos y familiares a la ceremonia.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga qué especie de árbol es adecuada para tu área y dónde plantarlo.
-2. **Preparación del terreno** (20 min): Prepara el hoyo y el suelo.
-3. **Plantación** (15 min): Planta el árbol siguiendo las instrucciones adecuadas.
-4. **Ceremonia** (15 min): Organiza una ceremonia oficial para plantar el árbol, con invitados.
-5. **Cuidado** (tiempo continuo): Planifica cómo cuidarán del árbol a medida que crece y cómo compartirán la responsabilidad.
+1. **Investigación** (30 min): Investigá qué especie de árbol es adecuada para tu área y dónde plantarlo.
+2. **Preparación del terreno** (20 min): Prepará el hoyo y el suelo.
+3. **Plantación** (15 min): Plantá el árbol siguiendo las instrucciones adecuadas.
+4. **Ceremonia** (15 min): Organizá una ceremonia oficial para plantar el árbol, con invitados.
+5. **Cuidado** (tiempo continuo): Planificá cómo cuidarán del árbol a medida que crece y cómo compartirán la responsabilidad.
 
 ## Cierre
 - ¿Qué aprendiste sobre la importancia de plantar árboles?
@@ -206,16 +206,3 @@ Trabaja con un maestro, dirigente o padre para buscar un espacio en la comunidad
 - ¿Qué compromiso adquieres para cuidar de este árbol y de otros árboles en el futuro?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

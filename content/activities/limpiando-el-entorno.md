@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Limpiando el entorno"
+title: "Limpiando el Entorno"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpiando-el-entorno/"
-description: "Selecciona un área con problema de basura en tu comunidad y manténla limpia durante un mes."
-summary: "Limpia y mantén un espacio de tu comunidad."
+description: "Seleccioná un área con problema de basura en tu comunidad y mantenla limpia durante un mes."
+summary: "Limpiá y mantené un espacio de tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/limpiando-el-entorno.png"
+image: "/imagenes/actividades/limpiando-el-entorno.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -167,15 +167,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Limpiando el entorno!
+# ¡Limpiando el Entorno!
 
 ## Resumen
-Selecciona un área con problema de basura en tu comunidad (parque, playa, río o campo) y manténla limpia durante un mes. Invita a amigos, familiares y autoridades locales a unirse.
+Seleccioná un área con problema de basura en tu comunidad (parque, playa, río o campo) y mantenla limpia durante un mes. Invitá a amigos, familiares y autoridades locales a unirse.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Identifica un lugar en tu comunidad que necesite limpieza.
-3. Consigue guantes protectores y bolsas biodegradables.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Identificá un lugar en tu comunidad que necesite limpieza.
+3. Conseguí guantes protectores y bolsas biodegradables.
 4. Si es posible, contacta a un político local o a los medios para que cubran el evento.
 
 ## Desarrollo
@@ -209,7 +209,7 @@ Al final del mes, compilen sus hallazgos y envíenlos a su municipio local con s
 
 ## Cierre
 1. ¿Qué fue lo que más te sorprendió de lo que encontraste?
-2. ¿Crees que esta actividad puede inspirar a otros a cuidar el ambiente?
+2. ¿Creés que esta actividad puede inspirar a otros a cuidar el ambiente?
 3. ¿Qué más podrían hacer para mantener su comunidad limpia?
 
 ## Texto original completo de la actividad
@@ -270,20 +270,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

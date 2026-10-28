@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entrevista de historia oral"
+title: "Entrevista de Historia Oral"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-de-historia-oral/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/entrevista-de-historia-oral.png"
+image: "/imagenes/actividades/entrevista-de-historia-oral.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,25 +165,25 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Entrevista de historia oral!
+# ¡Entrevista de Historia Oral!
 
 ## Resumen
 Realicen una entrevista a un abuelo o a un amigo anciano (o aún a un adulto, pidiéndole que pretenda que nació hace muchos años) y pregúntenle sobre los alimentos que cultivaba y comía cuando era niño. ¿Cómo se preparaban y por qué se cultivaban estos alimentos? ¿Esos alimentos son diferentes de los que se cultivan, se cocinan o se comen hoy en día? ¿Por qué sí o por qué no?
 
 ## Preparación
-1. Identifica a una persona mayor para entrevistar.
-2. Prepara preguntas sobre alimentos del pasado.
-3. Organiza la entrevista.
+1. Identificá a una persona mayor para entrevistar.
+2. Prepará preguntas sobre alimentos del pasado.
+3. Organizá la entrevista.
 
 ## Desarrollo
-1. Entrevista a una persona mayor sobre los alimentos de su infancia.
+1. Entrevistá a una persona mayor sobre los alimentos de su infancia.
 2. Pregunta: ¿Cómo se preparaban y por qué se cultivaban?
 3. Pregunta: ¿Son diferentes de los alimentos actuales?
 4. Si es posible, intenta preparar una comida 'al estilo de otra época'.
 
 ## Cierre
-1. Comparte tus hallazgos con tus amigos, grupo o con el 'Proyecto de Historia Oral' de Bioversity International.
-2. Reflexiona sobre los cambios en la alimentación.
+1. Compartí tus hallazgos con tus amigos, grupo o con el 'Proyecto de Historia Oral' de Bioversity International.
+2. Reflexioná sobre los cambios en la alimentación.
 3. Pregunta final: ¿Qué hemos perdido en términos de biodiversidad alimentaria?
 
 ## Texto original completo de la actividad
@@ -192,16 +192,3 @@ C.01 Realicen una entrevista a un abuelo o a un amigo anciano (o aún a un adult
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

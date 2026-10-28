@@ -3,7 +3,7 @@ title: "Aliados Terrestres"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aliados-terrestres/"
-description: "Investiga un aliado del suelo y su importancia para la salud del suelo."
+description: "Investigá un aliado del suelo y su importancia para la salud del suelo."
 summary: "Investigación de aliados del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/aliados-terrestres.png"
+image: "/imagenes/actividades/aliados-terrestres.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -109,7 +109,7 @@ competencies:
   - Pensamiento sistémico
 
 activity_type:
-  - Investigação
+  - Investigación
   - Reflexión
   - Creatividad / Arte
 
@@ -150,15 +150,15 @@ rama_rovers:
 # ¡Aliados Terrestres!
 
 ## Resumen
-Investiga un aliado del suelo (lombriz, árbol, hongo) y enumera todas las formas en que ayuda al suelo.
+Investigá un aliado del suelo (lombriz, árbol, hongo) y enumerá todas las formas en que ayuda al suelo.
 
 ## Preparación
-- Elige un aliado del suelo.
-- Prepara materiales para dibujar y escribir.
+- Elegí un aliado del suelo.
+- Prepará materiales para dibujar y escribir.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre tu aliado.
-2. **Lista** (15 min): Enumera cómo ayuda al suelo.
+1. **Investigación** (20 min): Aprendé sobre tu aliado.
+2. **Lista** (15 min): Enumerá cómo ayuda al suelo.
 3. **Análisis** (10 min): ¿Qué amenazas enfrenta?
 4. **Reflexión** (10 min): ¿Qué pasaría si desapareciera?
 
@@ -175,16 +175,3 @@ Investiga un aliado del suelo (lombriz, árbol, hongo) y enumera todas las forma
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

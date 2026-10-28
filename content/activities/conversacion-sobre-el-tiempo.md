@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conversación sobre el tiempo"
+title: "Conversación sobre el Tiempo"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/conversacion-sobre-el-tiempo/"
-description: "Entrevista a personas mayores para conocer cómo ha cambiado el clima en tu área a lo largo del tiempo."
+description: "Entrevistá a personas mayores para conocer cómo ha cambiado el clima en tu área a lo largo del tiempo."
 summary: "Entrevistar a personas mayores sobre cambios climáticos locales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/conversacion-sobre-el-tiempo.png"
+image: "/imagenes/actividades/conversacion-sobre-el-tiempo.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -34,7 +34,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Cuaderno de notas
-  - Lápiz o bolígrafo
+  - Lápiz o lapicera
   - Grabador de audio (opcional)
 tools: []
 responsible:
@@ -158,24 +158,24 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Conversación sobre el tiempo!
+# ¡Conversación sobre el Tiempo!
 
 ## Resumen
-Habla con una persona mayor que conozcas, como un abuelo o vecino. ¿Crecieron en tu área? ¿Han visto algún cambio en el clima del área desde que eran jóvenes?
+Hablá con una persona mayor que conozcas, como un abuelo o vecino. ¿Crecieron en tu área? ¿Han visto algún cambio en el clima del área desde que eran jóvenes?
 
 ## Preparación
-1. Prepara preguntas para la entrevista sobre cambios climáticos locales.
-2. Identifica a personas mayores que puedas entrevistar.
-3. Organiza los grupos para las entrevistas.
+1. Prepará preguntas para la entrevista sobre cambios climáticos locales.
+2. Identificá a personas mayores que puedas entrevistar.
+3. Organizá los grupos para las entrevistas.
 
 ## Desarrollo
-1. Habla con una persona mayor que conozcas.
-2. Pregúntales si crecieron en tu área.
-3. Pregunta si han visto algún cambio en el clima del área desde que eran jóvenes.
-4. Pregunta qué tipo de cambios han visto y cómo ha afectado esto a sus vidas.
+1. Hablá con una persona mayor que conozcas.
+2. Preguntales si crecieron en tu área.
+3. Preguntá si han visto algún cambio en el clima del área desde que eran jóvenes.
+4. Preguntá qué tipo de cambios han visto y cómo ha afectado esto a sus vidas.
 
 ## Cierre
-1. Comparte tus hallazgos con tu grupo.
+1. Compartí tus hallazgos con tu grupo.
 2. Discutan sobre las similitudes y diferencias en las experiencias de las personas mayores.
 3. Pregunta final: ¿Qué podemos aprender de las experiencias de las personas mayores sobre el cambio climático?
 
@@ -185,16 +185,3 @@ A.09 CONVERSACIÓN SOBRE EL TIEMPO. Habla con una persona mayor que conozcas, co
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

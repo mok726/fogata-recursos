@@ -1,9 +1,9 @@
 ---
-title: "Desfile de modas reciclada"
+title: "Desfile de Modas Reciclada"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-de-modas-reciclada/"
-description: "Haz un desfile de modas con vestuario de materiales reciclados."
+description: "Hacé un desfile de modas con vestuario de materiales reciclados."
 summary: "Desfile de moda con materiales reciclados."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/desfile-de-modas-reciclada.png"
+image: "/imagenes/actividades/desfile-de-modas-reciclada.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -143,26 +143,26 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Desfile de modas reciclada!
+# ¡Desfile de Modas Reciclada!
 
 ## Resumen
-Crea y presenta un desfile de modas con vestuario elaborado con materiales reciclados.
+Creá y presentá un desfile de modas con vestuario elaborado con materiales reciclados.
 
 ## Preparación
-1. Reúne materiales reciclados.
-2. Diseña los vestuarios.
-3. Organiza el espacio para el desfile.
+1. Reuní materiales reciclados.
+2. Diseñá los vestuarios.
+3. Organizá el espacio para el desfile.
 
 ## Desarrollo
-1. **Diseño** (30 min): Crea los vestuarios con materiales reciclados.
-2. **Ensayo** (20 min): Practica el desfile.
-3. **Presentación** (20 min): Realiza el desfile.
-4. **Reflexión** (20 min): Comparte tu experiencia.
+1. **Diseño** (30 min): Creá los vestuarios con materiales reciclados.
+2. **Ensayo** (20 min): Practicá el desfile.
+3. **Presentación** (20 min): Realizá el desfile.
+4. **Reflexión** (20 min): Compartí tu experiencia.
 
 ## Cierre
 - ¿Qué materiales usaste?
 - ¿Cómo te sentiste al crear moda con reciclaje?
-- ¿Qué mensaje quieres transmitir?
+- ¿Qué mensaje querés transmitir?
 
 ---
 ## Texto original completo de la actividad
@@ -172,16 +172,3 @@ Crea y presenta un desfile de modas con vestuario elaborado con materiales recic
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

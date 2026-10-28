@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mas-alla-de-los-documentales.png"
+image: "/imagenes/actividades/mas-alla-de-los-documentales.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -176,36 +176,23 @@ rama_rovers:
 Con tu grupo, mira un documental sobre un bosque. Después, discutan sobre las cuestiones que el video presenta y creen un plan de acción para seguir las recomendaciones.
 
 ## Preparación
-1. Selecciona un documental sobre bosques, biodiversidad o conservación ambiental.
-2. Asegúrate de contar con el equipo necesario para la proyección.
-3. Prepara preguntas guía para la discusión posterior.
+1. Seleccioná un documental sobre bosques, biodiversidad o conservación ambiental.
+2. Asegurate de contar con el equipo necesario para la proyección.
+3. Prepará preguntas guía para la discusión posterior.
 
 ## Desarrollo
-1. **Visualización** (45-90 min): Mira el documental con tu grupo.
-2. **Discusión guiada** (30 min): Reflexiona sobre las siguientes preguntas:
+1. **Visualización** (45-90 min): Mirá el documental con tu grupo.
+2. **Discusión guiada** (30 min): Reflexioná sobre las siguientes preguntas:
    - ¿A quién representan los puntos de vista que se presentan en el video?
    - ¿A quién no representan?
    - ¿Cuáles son los mensajes más importantes?
    - ¿Qué acciones se recomiendan?
-3. **Plan de acción** (20 min): Define qué hará tu grupo para seguir estas recomendaciones.
+3. **Plan de acción** (20 min): Definí qué hará tu grupo para seguir estas recomendaciones.
 4. **Implementación** (variable): Lleven a cabo el plan de acción.
 
 ## Cierre
 - ¿Qué aprendiste sobre los bosques que no sabías antes?
-- ¿Cómo puedes aplicar lo aprendido en tu vida cotidiana?
+- ¿Cómo podés aplicar lo aprendido en tu vida cotidiana?
 - ¿Qué compromiso adquieres para actuar en favor de los bosques?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,9 +1,9 @@
 ---
-title: "Papel reciclado casero"
+title: "Papel Reciclado Casero"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papel-reciclado-casero/"
-description: "Aprende a hacer tu propio papel reciclado."
+description: "Aprendé a hacer tu propio papel reciclado."
 summary: "Fabricación de papel reciclado casero."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/papel-reciclado-casero.png"
+image: "/imagenes/actividades/papel-reciclado-casero.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -158,26 +158,26 @@ rama_rovers:
   - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# ¡Papel reciclado casero!
+# ¡Papel Reciclado Casero!
 
 ## Resumen
-Aprende a hacer tu propio papel reciclado con la ayuda de un adulto.
+Aprendé a hacer tu propio papel reciclado con la ayuda de un adulto.
 
 ## Preparación
-1. Reúne papel usado.
-2. Prepara los materiales necesarios.
-3. Pide ayuda a un adulto.
+1. Reuní papel usado.
+2. Prepará los materiales necesarios.
+3. Pedí ayuda a un adulto.
 
 ## Desarrollo
-1. **Preparación** (10 min): Corta el papel en trozos pequeños.
-2. **Mezcla** (15 min): Remoja y mezcla el papel con agua.
-3. **Formado** (20 min): Usa el marco para formar las hojas.
-4. **Secado** (15 min): Deja secar el papel.
+1. **Preparación** (10 min): Cortá el papel en trozos pequeños.
+2. **Mezcla** (15 min): Remojá y mezcla el papel con agua.
+3. **Formado** (20 min): Usá el marco para formar las hojas.
+4. **Secado** (15 min): Dejá secar el papel.
 
 ## Cierre
 - ¿Cómo te sentiste al hacer tu propio papel?
 - ¿Qué aprendiste sobre el reciclaje?
-- ¿Cómo puedes usar el papel que hiciste?
+- ¿Cómo podés usar el papel que hiciste?
 
 ---
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ Aprende a hacer tu propio papel reciclado con la ayuda de un adulto.
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

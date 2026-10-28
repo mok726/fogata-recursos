@@ -3,8 +3,8 @@ title: "Debate AMP"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-amp/"
-description: "Debate sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles."
-summary: "Debate sobre Áreas Marinas Protegidas."
+description: "Debatí sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles."
+summary: "Debatí sobre Áreas Marinas Protegidas."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/debate-amp.png"
+image: "/imagenes/actividades/debate-amp.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos para tomar notas
+  - Papel y lapiceras para tomar notas
 tools: []
 responsible:
   - Docente o Scouter
@@ -158,16 +158,16 @@ rama_rovers:
 # ¡Debate AMP!
 
 ## Resumen
-Debate sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles y perspectivas.
+Debatí sobre la creación de un Área Marina Protegida en tu playa local, representando diferentes roles y perspectivas.
 
 ## Preparación
-1. Lee el artículo de National Geographic sobre Áreas Marinas Protegidas.
-2. Asigna roles a cada participante.
-3. Prepara argumentos para tu rol.
+1. Leé el artículo de National Geographic sobre Áreas Marinas Protegidas.
+2. Asigná roles a cada participante.
+3. Prepará argumentos para tu rol.
 
 ## Desarrollo
 1. **Investigación** (15 min): Cada persona investiga su rol y prepara argumentos.
-2. **Debate** (30 min): Debate a favor o en contra del AMP.
+2. **Debate** (30 min): Debatí a favor o en contra del AMP.
 3. **Preguntas** (10 min): El público hace preguntas.
 4. **Votación** (5 min): El público vota si debería haber un AMP.
 
@@ -190,16 +190,3 @@ Esta actividad está basada en aquella que fue desarrollada por el Fideicomiso d
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

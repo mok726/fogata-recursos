@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Electricidad en todas partes"
+title: "Electricidad en Todas Partes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/electricidad-en-todas-partes/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/electricidad-en-todas-partes.png"
+image: "/imagenes/actividades/electricidad-en-todas-partes.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -157,25 +157,25 @@ rama_rovers:
   - 19 # Tomo decisiones económicas conscientes y responsables
 ---
 
-# ¡Electricidad en todas partes!
+# ¡Electricidad en Todas Partes!
 
 ## Resumen
-¿Has pensado en cuántos interruptores de luz y tomas eléctricas tienes en casa? ¡Bueno, seguro te sorprenderás! Cuenta todos los interruptores de luz y tomas eléctricas que encuentres en casa y luego haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y en los hospitales.
+¿Has pensado en cuántos interruptores de luz y tomas eléctricas tenés en casa? ¡Bueno, seguro te sorprenderás! Contá todos los interruptores de luz y tomas eléctricas que encuentres en casa y luego haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y en los hospitales.
 
 ## Preparación
-1. Prepara papel y lápices para dibujar.
-2. Prepara materiales para decorar cobertores de interruptores.
-3. Explica la actividad al grupo.
+1. Prepará papel y lápices para dibujar.
+2. Prepará materiales para decorar cobertores de interruptores.
+3. Explicá la actividad al grupo.
 
 ## Desarrollo
-1. Cuenta todos los interruptores de luz y tomas eléctricas en casa.
-2. Haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y los hospitales.
-3. Discute con tu grupo: ¿Pensaban que tanta electricidad se usaba cada día?
+1. Contá todos los interruptores de luz y tomas eléctricas en casa.
+2. Hacé dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y los hospitales.
+3. Discutí con tu grupo: ¿Pensaban que tanta electricidad se usaba cada día?
 
 ## Cierre
 1. Para alentar a todos en casa a ahorrar electricidad, haz unos geniales cobertores para los interruptores de luz.
-2. Colócalos alrededor de toda tu casa.
-3. Pregunta final: ¿Qué otros cambios puedes hacer en tu hogar para ahorrar electricidad?
+2. Colocalos alrededor de toda tu casa.
+3. Pregunta final: ¿Qué otros cambios podés hacer en tu hogar para ahorrar electricidad?
 
 ## Texto original completo de la actividad
 B.04 Electricidad en todas partes. ¿Has pensado en cuántos interruptores de luz y tomas eléctricas tienes en casa? ¡Bueno, seguro te sorprenderás! Cuenta todos los interruptores de luz y tomas eléctricas que encuentres en casa y luego haz dibujos sobre cómo se usa la electricidad en tu hogar, tu escuela y en los hospitales. Discute con tu grupo. ¿Pensaban que tanta electricidad se usaba cada día? Ahora, para alentar a todos en casa a ahorrar electricidad, haz unos geniales cobertores para los interruptores de luz y ¡colócalos alrededor de toda tu casa!
@@ -183,16 +183,3 @@ B.04 Electricidad en todas partes. ¿Has pensado en cuántos interruptores de lu
 NIVELES: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

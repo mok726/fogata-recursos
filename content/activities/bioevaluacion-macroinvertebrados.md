@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Bioevaluación de macroinvertebrados"
+title: "Bioevaluación de Macroinvertebrados"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/bioevaluacion-macroinvertebrados/"
 description: "Los participantes simulan una bioevaluación de un arroyo usando objetos para representar macroinvertebrados y determinar la calidad del agua."
-summary: "Simula una evaluación de la calidad del agua."
+summary: "Simulá una evaluación de la calidad del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bioevaluacion-macroinvertebrados.png"
+image: "/imagenes/actividades/bioevaluacion-macroinvertebrados.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -172,15 +172,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Bioevaluación de macroinvertebrados!
+# ¡Bioevaluación de Macroinvertebrados!
 
 ## Resumen
 La calidad del agua de un arroyo puede determinarse de varias maneras. Una forma importante es a través de la evaluación biológica (bioevaluación). Los macroinvertebrados acuáticos son comúnmente monitoreados porque son indicadores valiosos de la salud de los ambientes acuáticos. En esta actividad, los participantes simulan una bioevaluación usando objetos para representar macroinvertebrados.
 
 ## Preparación
-1. Configura tres estaciones de recolección, cada una conteniendo: sitio de muestreo del arroyo (llena tres tinas de plástico grandes con 10 cm de agua y etiquétalas como Arroyo 1, 2 y 3), balde de recolección y bandejas de clasificación.
-2. Coloca los objetos que representan macroinvertebrados en las tres tinas según la tabla.
-3. Divide a los participantes en tres grupos. Asigna roles dentro de cada grupo.
+1. Configurá tres estaciones de recolección, cada una conteniendo: sitio de muestreo del arroyo (llena tres tinas de plástico grandes con 10 cm de agua y etiquetalas como Arroyo 1, 2 y 3), balde de recolección y bandejas de clasificación.
+2. Colocá los objetos que representan macroinvertebrados en las tres tinas según la tabla.
+3. Dividí a los participantes en tres grupos. Asigná roles dentro de cada grupo.
 
 ## Desarrollo
 
@@ -268,20 +268,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

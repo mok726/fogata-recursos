@@ -3,7 +3,7 @@ title: "Aguas Sucias"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aguas-sucias/"
-description: "Investiga accidentes graves relacionados con el agua en tu área o país."
+description: "Investigá accidentes graves relacionados con el agua en tu área o país."
 summary: "Estudio de caso de accidentes relacionados con el agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/aguas-sucias.png"
+image: "/imagenes/actividades/aguas-sucias.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -154,18 +154,18 @@ rama_rovers:
 # ¡Aguas Sucias!
 
 ## Resumen
-Investiga un accidente grave relacionado con el agua (contaminación, sequía o inundación) en tu área o país.
+Investigá un accidente grave relacionado con el agua (contaminación, sequía o inundación) en tu área o país.
 
 ## Preparación
-1. Investiga sobre accidentes relacionados con el agua en tu área.
+1. Investigá sobre accidentes relacionados con el agua en tu área.
 2. Si es posible, visita el lugar y habla con las personas.
-3. Prepara materiales para el estudio de caso.
+3. Prepará materiales para el estudio de caso.
 
 ## Desarrollo
-1. **Investigación** (25 min): Reúne información sobre el incidente.
+1. **Investigación** (25 min): Reuní información sobre el incidente.
 2. **Visita** (20 min): Si es posible, visita el lugar.
 3. **Análisis** (10 min): ¿Cómo sucedió? ¿Cuánto daño causó?
-4. **Creación** (5 min): Prepara un álbum o estudio de caso.
+4. **Creación** (5 min): Prepará un álbum o estudio de caso.
 
 ## Cierre
 - ¿Qué causó el accidente?
@@ -180,16 +180,3 @@ Investiga un accidente grave relacionado con el agua (contaminación, sequía o 
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

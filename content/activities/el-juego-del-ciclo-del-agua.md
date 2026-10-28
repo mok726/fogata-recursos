@@ -3,7 +3,7 @@ title: "El Juego del Ciclo del Agua"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-juego-del-ciclo-del-agua/"
-description: "Aprende el ciclo del agua a través de un juego de cartas y un experimento."
+description: "Aprendé el ciclo del agua a través de un juego de cartas y un experimento."
 summary: "Juego y experimento sobre el ciclo del agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-juego-del-ciclo-del-agua.png"
+image: "/imagenes/actividades/el-juego-del-ciclo-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -154,18 +154,18 @@ rama_rovers: []
 # ¡El Juego del Ciclo del Agua!
 
 ## Resumen
-Aprende sobre el ciclo del agua a través de un juego de cartas y realiza un experimento para verlo en acción.
+Aprendé sobre el ciclo del agua a través de un juego de cartas y realizá un experimento para verlo en acción.
 
 ## Preparación
-1. Prepara cartas para cada parte del ciclo del agua.
-2. Haz un dibujo en cada carta explicando qué es.
-3. Reúne materiales para el experimento.
+1. Prepará cartas para cada parte del ciclo del agua.
+2. Hacé un dibujo en cada carta explicando qué es.
+3. Reuní materiales para el experimento.
 
 ## Desarrollo
-1. **Creación** (15 min): Prepara las cartas del ciclo del agua.
-2. **Juego** (15 min): Mezcla y reparte las cartas entre el grupo.
+1. **Creación** (15 min): Prepará las cartas del ciclo del agua.
+2. **Juego** (15 min): Mezclá y reparte las cartas entre el grupo.
 3. **Actuación** (10 min): Cada persona describe su rol en el ciclo.
-4. **Experimento** (5 min): Realiza un experimento del ciclo del agua.
+4. **Experimento** (5 min): Realizá un experimento del ciclo del agua.
 
 ## Cierre
 - ¿Cuáles son las partes del ciclo del agua?
@@ -180,16 +180,3 @@ Aprende sobre el ciclo del agua a través de un juego de cartas y realiza un exp
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

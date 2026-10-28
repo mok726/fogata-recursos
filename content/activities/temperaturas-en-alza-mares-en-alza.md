@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/temperaturas-en-alza-mares-en-alza.png"
+image: "/imagenes/actividades/temperaturas-en-alza-mares-en-alza.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -156,24 +156,24 @@ rama_rovers:
 # ¡Temperaturas en Alza, Mares en Alza!
 
 ## Resumen
-Realiza un experimento para entender la diferencia entre el derretimiento del hielo marino y el de los glaciares, y cómo cada uno afecta el nivel del mar.
+Realizá un experimento para entender la diferencia entre el derretimiento del hielo marino y el de los glaciares, y cómo cada uno afecta el nivel del mar.
 
 ## Preparación
-1. Prepara una "isla" con una roca o ladrillo.
-2. Decora la isla con árboles, casas y personas (opcional).
-3. Prepara cubos de hielo y agua.
+1. Prepará una "isla" con una roca o ladrillo.
+2. Decorá la isla con árboles, casas y personas (opcional).
+3. Prepará cubos de hielo y agua.
 
 ## Desarrollo
 **Parte 1: Hielo marino**
-1. Coloca tu isla en el tazón.
-2. Añade agua fría hasta cubrir la base de la isla.
-3. Coloca los cubos de hielo en el agua (representan el hielo marino).
-4. Marca el nivel del agua en la isla.
-5. Espera hasta que el hielo se derrita y marca nuevamente el nivel.
+1. Colocá tu isla en el tazón.
+2. Añadí agua fría hasta cubrir la base de la isla.
+3. Colocá los cubos de hielo en el agua (representan el hielo marino).
+4. Marcá el nivel del agua en la isla.
+5. Esperá hasta que el hielo se derrita y marca nuevamente el nivel.
 
 **Parte 2: Glaciares**
-1. Repite el experimento, pero esta vez coloca el hielo SOBRE la isla.
-2. Marca el nivel del agua antes y después del derretimiento.
+1. Repetí el experimento, pero esta vez coloca el hielo SOBRE la isla.
+2. Marcá el nivel del agua antes y después del derretimiento.
 
 ## Cierre
 - ¿Qué diferencia observaste entre ambos experimentos?
@@ -194,16 +194,3 @@ Materiales: una bandeja o tazón grande (de al menos 10 cm de profundidad), una 
 nivel 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

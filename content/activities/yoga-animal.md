@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Yoga animal"
+title: "Yoga Animal"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/yoga-animal/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/yoga-animal.png"
+image: "/imagenes/actividades/yoga-animal.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -158,25 +158,25 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Yoga animal!
+# ¡Yoga Animal!
 
 ## Resumen
 Los animales se mueven de muchas formas diferentes. Participen en una clase de yoga animal, donde todos los ejercicios imiten los movimientos de diferentes animales del mundo. Tomen turnos para liderar los movimientos. Los participantes de mayor edad pueden diseñar y dirigir la clase para los niños más pequeños.
 
 ## Preparación
-1. Investiga movimientos de animales.
-2. Prepara el espacio para la clase.
-3. Organiza los grupos de trabajo.
+1. Investigá movimientos de animales.
+2. Prepará el espacio para la clase.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Participa en la clase de yoga animal.
-2. Imita los movimientos de diferentes animales.
-3. Toma turnos para liderar los movimientos.
+1. Participá en la clase de yoga animal.
+2. Imitá los movimientos de diferentes animales.
+3. Tomá turnos para liderar los movimientos.
 4. Los mayores pueden diseñar y dirigir la clase.
 
 ## Cierre
-1. Reflexiona: ¿Qué animal fue más fácil de imitar?
-2. Comparte tu experiencia con el grupo.
+1. Reflexioná: ¿Qué animal fue más fácil de imitar?
+2. Compartí tu experiencia con el grupo.
 3. Pregunta final: ¿Qué aprendiste sobre el movimiento animal?
 
 ## Texto original completo de la actividad
@@ -185,16 +185,3 @@ D.19 Los animales se mueven de muchas formas diferentes. Participen en una clase
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

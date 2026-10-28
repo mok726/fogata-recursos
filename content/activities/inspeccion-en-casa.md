@@ -3,7 +3,7 @@ title: "Inspección en Casa"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-en-casa/"
-description: "Revisa la preparación de tu hogar ante desastres y crea un plan de mejora."
+description: "Revisá la preparación de tu hogar ante desastres y creá un plan de mejora."
 summary: "Inspección de preparación familiar."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/inspeccion-en-casa.png"
+image: "/imagenes/actividades/inspeccion-en-casa.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Lista de verificación
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -157,22 +157,37 @@ rama_rovers:
 # ¡Inspección en Casa!
 
 ## Resumen
-Revisa tu hogar para ver si tú y tu familia están preparados para una amenaza, y crea un plan de acción.
+Revisá tu hogar para ver si vos y tu familia están preparados para una amenaza, y creá un plan de acción.
 
 ## Preparación
-1. Prepara una lista de verificación.
-2. Reúne materiales para tomar notas.
+1. Prepará una lista de verificación.
+2. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Inspección** (20 min): Revisa tu hogar con la lista de verificación.
-2. **Lista de mejoras** (15 min): Anota lo que falta o está incompleto.
-3. **Reunión familiar** (20 min): Comparte tus hallazgos y asigna tareas.
-4. **Acción** (5 min): Planea cuándo implementarán las mejoras.
+1. **Inspección** (20 min): Revisá tu hogar con la lista de verificación.
+2. **Lista de mejoras** (15 min): Anotá lo que falta o está incompleto.
+3. **Reunión familiar** (20 min): Compartí tus hallazgos y asigná tareas.
+4. **Acción** (5 min): Planeá cuándo implementarán las mejoras.
+
+### Lista de verificación (modelo)
+
+Adaptala a las amenazas de tu zona.
+
+- ☐ Tenemos un **plan familiar de emergencia**: qué hacer, por dónde salir y un punto de encuentro fuera de casa.
+- ☐ Todos conocen los **números de emergencia** y están anotados en un lugar visible. En Argentina, por ejemplo: 911 (emergencias), 100 (bomberos), 107 (emergencias médicas), 103 (Defensa Civil).
+- ☐ Tenemos un **kit de emergencia**: agua, comida no perecedera, linterna, radio a pilas, pilas, botiquín, medicamentos, copias de documentos, cargador portátil.
+- ☐ Sabemos dónde están y cómo se cierran la **llave de gas**, la **llave de luz** y la **llave de agua**.
+- ☐ Hay **detector de humo** y, si hay artefactos a gas, **detector de monóxido de carbono**, y funcionan.
+- ☐ Hay un **matafuegos** cargado y vigente, y sabemos usarlo.
+- ☐ Los muebles altos y pesados están **fijados** a la pared (en zonas sísmicas).
+- ☐ Las salidas y pasillos están **libres** de obstáculos.
+- ☐ Los productos tóxicos y los medicamentos están **fuera del alcance** de los chicos.
+- ☐ Sabemos qué hacer con las **mascotas** en una emergencia.
 
 ## Cierre
 - ¿Qué encontraste en la inspección?
 - ¿Qué es lo más importante que deben hacer?
-- ¿Cómo te sientes al saber que estás mejor preparado?
+- ¿Cómo te sentís al saber que estás mejor preparado?
 
 ---
 ## Texto original completo de la actividad
@@ -184,16 +199,3 @@ nivel 3 2 1
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Consumo y Producción Responsables, Acción por el Clima, Vida Submarina y Vida de Ecosistemas Terrestres.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/sillas-hambrientas.png"
+image: "/imagenes/actividades/sillas-hambrientas.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -167,34 +167,21 @@ rama_rovers: []  # No aplica (actividad nivel 1)
 Juego para pensar en la escasez de alimentos usando sillas y frutas.
 
 ## Preparación
-1. Dibuja diferentes tipos de frutas (ej. manzanas, papayas, bananas).
-2. Haz varias copias de cada tipo (una por participante).
-3. Coloca una silla para cada participante y pega un dibujo en cada silla.
-4. Asegura la supervisión de un adulto.
+1. Dibujá diferentes tipos de frutas (ej. manzanas, papayas, bananas).
+2. Hacé varias copias de cada tipo (una por participante).
+3. Colocá una silla para cada participante y pegá un dibujo en cada silla.
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
 1. **Asignación** (5 min): Cada participante se sienta en una silla y recuerda qué fruta es.
 2. **Juego** (10-15 min): El adulto menciona una fruta y los jugadores en esas sillas deben correr a otra silla vacía.
-3. **Eliminación** (5 min): Retira una silla; quien no llegue a una silla queda eliminado.
+3. **Eliminación** (5 min): Retirá una silla; quien no llegue a una silla queda eliminado.
 4. **Final** (5 min): El juego continúa hasta que queda una silla.
 5. **Reflexión** (10 min): Hablen sobre por qué a veces no hay suficiente comida para todos.
 
 ## Cierre
 - ¿Cómo te sentiste cuando no había suficiente sillas para todos?
-- ¿Qué crees que podemos hacer para que haya suficiente comida para todos?
+- ¿Qué creés que podemos hacer para que haya suficiente comida para todos?
 - ¿Qué compromiso adquieres para ayudar a reducir el desperdicio de alimentos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

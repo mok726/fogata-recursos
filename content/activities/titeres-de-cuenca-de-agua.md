@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Títeres de cuenca de agua"
+title: "Títeres de Cuenca de Agua"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/titeres-de-cuenca-de-agua/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/titeres-de-cuenca-de-agua.png"
+image: "/imagenes/actividades/titeres-de-cuenca-de-agua.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,25 +165,25 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Títeres de cuenca de agua!
+# ¡Títeres de Cuenca de Agua!
 
 ## Resumen
 Elaboren unos títeres. Inventen un espectáculo de títeres que enseñe a otras personas acerca de la importancia de mantener una cuenca de agua saludable y lo que pueden hacer.
 
 ## Preparación
-1. Reúne materiales para hacer títeres.
-2. Investiga sobre cuencas de agua.
-3. Organiza los grupos de trabajo.
+1. Reuní materiales para hacer títeres.
+2. Investigá sobre cuencas de agua.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elabora títeres con materiales reciclados.
-2. Mira afuera para observar cómo corre el agua en tu medio ambiente.
-3. Inventa un espectáculo de títeres que explique la diferencia entre el agua que corre en un ambiente construido y en el medio ambiente.
-4. Asegúrate de observar las diferencias durante la lluvia y algunas horas después.
+1. Elaborá títeres con materiales reciclados.
+2. Mirá afuera para observar cómo corre el agua en tu medio ambiente.
+3. Inventá un espectáculo de títeres que explique la diferencia entre el agua que corre en un ambiente construido y en el medio ambiente.
+4. Asegurate de observar las diferencias durante la lluvia y algunas horas después.
 
 ## Cierre
-1. Invita a tus familias y amigos a ver tu espectáculo.
-2. Comparte tu trabajo con el grupo.
+1. Invitá a tus familias y amigos a ver tu espectáculo.
+2. Compartí tu trabajo con el grupo.
 3. Pregunta final: ¿Qué aprendiste sobre las cuencas de agua?
 
 ## Texto original completo de la actividad
@@ -192,16 +192,3 @@ B.05 Elaboren unos títeres. Inventen un espectáculo de títeres que enseñe a 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

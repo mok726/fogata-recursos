@@ -3,7 +3,7 @@ title: "Día Mundial de los Océanos"
 duration: "Varias horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-mundial-de-los-oceanos/"
-description: "Organiza una celebración del Día Mundial de los Océanos en tu escuela o comunidad."
+description: "Organizá una celebración del Día Mundial de los Océanos en tu escuela o comunidad."
 summary: "Celebración del Día Mundial de los Océanos."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/dia-mundial-de-los-oceanos.png"
+image: "/imagenes/actividades/dia-mundial-de-los-oceanos.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -161,23 +161,23 @@ rama_rovers:
 # ¡Día Mundial de los Océanos!
 
 ## Resumen
-Organiza una celebración del Día Mundial de los Océanos (8 de junio) en tu escuela o comunidad.
+Organizá una celebración del Día Mundial de los Océanos (8 de junio) en tu escuela o comunidad.
 
 ## Preparación
-1. Visita el sitio web del Día Mundial de los Océanos para ideas.
-2. Planifica las actividades para el evento.
-3. Organiza los materiales necesarios.
+1. Visitá el sitio web del Día Mundial de los Océanos para ideas.
+2. Planificá las actividades para el evento.
+3. Organizá los materiales necesarios.
 
 ## Desarrollo
-1. **Planificación** (30 min): Elige actividades para el día.
-2. **Preparación** (30 min): Prepara materiales y organiza el espacio.
-3. **Celebración** (2-4 horas): Lleva a cabo el evento.
-4. **Evaluación** (15 min): Reflexiona sobre lo que funcionó bien.
+1. **Planificación** (30 min): Elegí actividades para el día.
+2. **Preparación** (30 min): Prepará materiales y organizá el espacio.
+3. **Celebración** (2-4 horas): Llevá a cabo el evento.
+4. **Evaluación** (15 min): Reflexioná sobre lo que funcionó bien.
 
 ## Cierre
 - ¿Qué actividad fue la más exitosa?
 - ¿Cómo respondió la comunidad?
-- ¿Qué planes tienes para el próximo año?
+- ¿Qué planes tenés para el próximo año?
 
 ---
 ## Texto original completo de la actividad
@@ -193,15 +193,3 @@ Extensión: el Día Mundial de los Océanos ha sido oficialmente reconocido por 
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

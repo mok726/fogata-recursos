@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Patrulla del parque"
+title: "Patrulla del Parque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/patrulla-del-parque/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/patrulla-del-parque.png"
+image: "/imagenes/actividades/patrulla-del-parque.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -160,7 +160,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Patrulla del parque!
+# ¡Patrulla del Parque!
 
 ## Resumen
 Explorá tus parques locales y áreas naturales con una mirada hacia qué tan amigables son con los polinizadores. ¿Hay diversidad de plantas con flores nativas? ¿Hay fuentes de agua o lugares de anidación? ¿Usan pesticidas? ¿Hay carteles informativos para crear conciencia pública sobre la importancia de los polinizadores?
@@ -178,6 +178,20 @@ Explorá tus parques locales y áreas naturales con una mirada hacia qué tan am
 5. Buscá carteles informativos.
 6. Puntuá cada parque en una escala.
 7. Enviá una carta a cada parque con sugerencias.
+
+### Tabla de evaluación (modelo)
+
+Puntuá cada punto de 1 (nada) a 5 (excelente).
+
+| Aspecto | Puntaje (1–5) | Observaciones |
+|---|---|---|
+| Diversidad de plantas nativas con flor | | |
+| Flores durante distintas épocas del año | | |
+| Fuentes de agua para polinizadores | | |
+| Lugares de anidación (suelo sin cubrir, troncos, tallos huecos) | | |
+| Uso de pesticidas (5 = no se usan) | | |
+| Carteles informativos sobre polinizadores | | |
+| **Total** | | |
 
 ## Cierre
 1. Compartí tus evaluaciones con el grupo.
@@ -210,20 +224,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

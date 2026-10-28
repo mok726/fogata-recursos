@@ -3,7 +3,7 @@ title: "Transporte y Comercio"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/transporte-y-comercio-oceano/"
-description: "Investiga el puerto o muelle más cercano y elabora un folleto sobre sus actividades."
+description: "Investigá el puerto o muelle más cercano y elaborá un folleto sobre sus actividades."
 summary: "Investigación sobre transporte marítimo local."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/transporte-y-comercio-oceano.png"
+image: "/imagenes/actividades/transporte-y-comercio-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ materials:
   - Visita al puerto o muelle local
   - Cámara (opcional)
   - Materiales de información sobre el puerto o muelle más cercano
-  - Papel y bolígrafos para tomar notas
+  - Papel y lapiceras para tomar notas
 tools: []
 responsible:
   - Docente o Scouter
@@ -155,18 +155,18 @@ rama_rovers:
 # ¡Transporte y Comercio!
 
 ## Resumen
-Visita el puerto o muelle más cercano, investiga sus actividades y elabora un folleto o póster informativo.
+Visitá el puerto o muelle más cercano, investigá sus actividades y elaborá un folleto o póster informativo.
 
 ## Preparación
-1. Organiza una visita al puerto o muelle local.
-2. Prepara preguntas para investigar durante la visita.
-3. Reúne materiales para tomar notas y fotografías.
+1. Organizá una visita al puerto o muelle local.
+2. Prepará preguntas para investigar durante la visita.
+3. Reuní materiales para tomar notas y fotografías.
 
 ## Desarrollo
-1. **Visita al puerto** (40 min): Observa y toma notas sobre las actividades.
-2. **Investigación** (20 min): Investiga datos sobre el puerto (carga anual, cantidad de barcos, etc.).
-3. **Elaboración** (25 min): Crea un folleto o póster informativo.
-4. **Presentación** (5 min): Comparte tu trabajo con el grupo.
+1. **Visita al puerto** (40 min): Observá y toma notas sobre las actividades.
+2. **Investigación** (20 min): Investigá datos sobre el puerto (carga anual, cantidad de barcos, etc.).
+3. **Elaboración** (25 min): Creá un folleto o póster informativo.
+4. **Presentación** (5 min): Compartí tu trabajo con el grupo.
 
 ## Cierre
 - ¿Qué tipo de carga pasa por el puerto?
@@ -185,16 +185,3 @@ Realicen una visita grupal al puerto o muelle más cercano. Si no es posible, re
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

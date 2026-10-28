@@ -1,9 +1,9 @@
 ---
-title: "Jabón natural"
+title: "Jabón Natural"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/jabon-natural/"
-description: "Aprende a hacer jabón natural y vende para una campaña ambiental."
+description: "Aprendé a hacer jabón natural y vende para una campaña ambiental."
 summary: "Elaboración de jabón natural."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/jabon-natural.png"
+image: "/imagenes/actividades/jabon-natural.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -148,19 +148,20 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Jabón natural!
+# ¡Jabón Natural!
 
 ## Resumen
-Aprende a hacer jabón natural con la ayuda de un artesano y véndelo para una campaña contra la contaminación.
+Aprendé a hacer jabón natural con la ayuda de un artesano y véndelo para una campaña contra la contaminación.
 
 ## Preparación
-1. Encuentra un artesano que enseñe a hacer jabón.
-2. Reúne los ingredientes y materiales.
-3. Organiza la venta.
+1. Encontrá un artesano que enseñe a hacer jabón.
+   - Seguridad: el jabón artesanal se hace con soda cáustica, que quema la piel y los ojos. Solo la manipula un adulto, con guantes y antiparras. Los más chicos pueden usar base de glicerina para fundir (sin soda) o solo observar.
+2. Reuní los ingredientes y materiales.
+3. Organizá la venta.
 
 ## Desarrollo
-1. **Aprendizaje** (30 min): Aprende a hacer jabón natural.
-2. **Elaboración** (30 min): Haz el jabón.
+1. **Aprendizaje** (30 min): Aprendé a hacer jabón natural.
+2. **Elaboración** (30 min): Hacé el jabón.
 3. **Venta** (20 min): Vende el jabón para la campaña.
 4. **Reflexión** (10 min): ¿Cómo ayuda esto al medio ambiente?
 
@@ -177,16 +178,3 @@ Aprende a hacer jabón natural con la ayuda de un artesano y véndelo para una c
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

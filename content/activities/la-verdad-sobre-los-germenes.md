@@ -4,7 +4,7 @@ title: "La Verdad sobre los Gérmenes"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-verdad-sobre-los-germenes/"
-description: "Investiga qué son los gérmenes, cómo se propagan y cómo protegernos de enfermedades infecciosas."
+description: "Investigá qué son los gérmenes, cómo se propagan y cómo protegernos de enfermedades infecciosas."
 summary: "Investigación sobre gérmenes y enfermedades."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-verdad-sobre-los-germenes.png"
+image: "/imagenes/actividades/la-verdad-sobre-los-germenes.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -165,16 +165,16 @@ rama_rovers:
 # La Verdad sobre los Gérmenes
 
 ## Resumen
-Investiga qué son los gérmenes, cómo se propagan y cómo protegernos de enfermedades infecciosas.
+Investigá qué son los gérmenes, cómo se propagan y cómo protegernos de enfermedades infecciosas.
 
 ## Preparación
-1. Investiga sobre gérmenes y enfermedades infecciosas comunes.
-2. Prepara material para la tabla.
+1. Investigá sobre gérmenes y enfermedades infecciosas comunes.
+2. Prepará material para la tabla.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende qué son los gérmenes, dónde están y cómo se propagan.
-2. **Tabla** (20 min): Crea una tabla con enfermedades infecciosas comunes (malaria, sarampión, tuberculosis, gripe, diarrea, cólera), sus causas y cómo se contagian.
-3. **Protección** (15 min): Investiga cómo protegernos contra gérmenes perjudiciales.
+1. **Investigación** (20 min): Aprendé qué son los gérmenes, dónde están y cómo se propagan.
+2. **Tabla** (20 min): Creá una tabla con enfermedades infecciosas comunes (malaria, sarampión, tuberculosis, gripe, diarrea, cólera), sus causas y cómo se contagian.
+3. **Protección** (15 min): Investigá cómo protegernos contra gérmenes perjudiciales.
 4. **Presentación** (15 min): Expón tu tabla al grupo.
 
 ## Cierre
@@ -183,16 +183,3 @@ Investiga qué son los gérmenes, cómo se propagan y cómo protegernos de enfer
 - ¿Qué compromiso adquieres para protegerte de los gérmenes?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "Investiguen las Etiquetas de los Alimentos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/investiguen-las-etiquetas-de-los-alimentos/"
-description: "Investiga la información nutricional de diferentes alimentos y crea una tabla para compartir."
+description: "Investigá la información nutricional de diferentes alimentos y creá una tabla para compartir."
 summary: "Análisis de etiquetas nutricionales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investiguen-las-etiquetas-de-los-alimentos.png"
+image: "/imagenes/actividades/investiguen-las-etiquetas-de-los-alimentos.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -171,18 +171,18 @@ rama_rovers:
 # Investiguen las Etiquetas de los Alimentos
 
 ## Resumen
-Investiga la información nutricional de diferentes alimentos y crea una tabla para compartir.
+Investigá la información nutricional de diferentes alimentos y creá una tabla para compartir.
 
 ## Preparación
-1. Reúne etiquetas de alimentos de diferentes productos.
-2. Prepara una tabla con columnas para alimentos y nutrientes.
-3. Investiga qué nutrientes aporta cada alimento.
+1. Reuní etiquetas de alimentos de diferentes productos.
+2. Prepará una tabla con columnas para alimentos y nutrientes.
+3. Investigá qué nutrientes aporta cada alimento.
 
 ## Desarrollo
-1. **Recolección** (15 min): Reúne etiquetas de alimentos.
+1. **Recolección** (15 min): Reuní etiquetas de alimentos.
 2. **Análisis** (20 min): Copia la información nutricional de las etiquetas.
-3. **Tabla** (15 min): Crea una tabla con alimentos y sus nutrientes.
-4. **Exhibición** (15 min): Pone la tabla en un lugar visible (cocina, cafetería, tablón).
+3. **Tabla** (15 min): Creá una tabla con alimentos y sus nutrientes.
+4. **Exhibición** (15 min): Colocá la tabla en un lugar visible (cocina, cafetería, tablón).
 
 ## Cierre
 - ¿Qué nutrientes encontraste en los alimentos?
@@ -190,16 +190,3 @@ Investiga la información nutricional de diferentes alimentos y crea una tabla p
 - ¿Qué compromiso adquieres para leer las etiquetas de los alimentos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

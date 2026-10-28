@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comercio de emisiones y REDD"
+title: "Comercio de Emisiones y REDD"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/comercio-de-emisiones-y-redd/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comercio-de-emisiones-y-redd.png"
+image: "/imagenes/actividades/comercio-de-emisiones-y-redd.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -172,26 +172,26 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Comercio de emisiones y REDD!
+# ¡Comercio de Emisiones y REDD!
 
 ## Resumen
-El comercio de emisiones (o sistema de canje, como se denomina algunas veces) es un instrumento para reducir las emisiones de gases de efecto invernadero. Esto también afecta a la biodiversidad. Aprende sobre el canje de emisiones y programas relacionados, como la iniciativa 'Reducción de Emisiones de la Deforestación y Degradación en Países en Desarrollo' (REDD).
+El comercio de emisiones (o sistema de canje, como se denomina algunas veces) es un instrumento para reducir las emisiones de gases de efecto invernadero. Esto también afecta a la biodiversidad. Aprendé sobre el canje de emisiones y programas relacionados, como la iniciativa 'Reducción de Emisiones de la Deforestación y Degradación en Países en Desarrollo' (REDD).
 
 ## Preparación
-1. Investiga sobre comercio de emisiones y REDD.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre comercio de emisiones y REDD.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Qué es el comercio de emisiones?
-2. Investiga: ¿Qué es REDD?
-3. Investiga: ¿Qué programas se han implementado en tu comunidad?
-4. Reflexiona: ¿Quién se ha visto afectado por estos?
-5. Reflexiona: ¿De qué forma afecta el canje de emisiones a los pobres del mundo?
+1. Investigá: ¿Qué es el comercio de emisiones?
+2. Investigá: ¿Qué es REDD?
+3. Investigá: ¿Qué programas se han implementado en tu comunidad?
+4. Reflexioná: ¿Quién se ha visto afectado por estos?
+5. Reflexioná: ¿De qué forma afecta el canje de emisiones a los pobres del mundo?
 
 ## Cierre
-1. Presenta tus hallazgos a tu grupo.
-2. Discute los impactos de estos programas.
+1. Presentá tus hallazgos a tu grupo.
+2. Discutí los impactos de estos programas.
 3. Pregunta final: ¿Cómo pueden estos programas proteger la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -200,16 +200,3 @@ A.20 El comercio de emisiones (o sistema de canje, como se denomina algunas vece
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

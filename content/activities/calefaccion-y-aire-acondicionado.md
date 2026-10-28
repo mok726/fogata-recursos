@@ -1,9 +1,9 @@
 ---
-title: "Calefacción y aire acondicionado"
+title: "Calefacción y Aire Acondicionado"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/calefaccion-y-aire-acondicionado/"
-description: "Usa menos calefacción y aire acondicionado en tu hogar."
+description: "Usá menos calefacción y aire acondicionado en tu hogar."
 summary: "Reducción de calefacción y aire acondicionado."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/calefaccion-y-aire-acondicionado.png"
+image: "/imagenes/actividades/calefaccion-y-aire-acondicionado.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -142,24 +142,24 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Calefacción y aire acondicionado!
+# ¡Calefacción y Aire Acondicionado!
 
 ## Resumen
-Usa menos calefacción y aire acondicionado, y aprende cómo las personas se mantenían cómodas en el pasado.
+Usá menos calefacción y aire acondicionado, y aprendé cómo las personas se mantenían cómodas en el pasado.
 
 ## Preparación
-- Habla con tu familia sobre el proyecto.
-- Aprende sobre métodos tradicionales de calefacción y enfriamiento.
+- Hablá con tu familia sobre el proyecto.
+- Aprendé sobre métodos tradicionales de calefacción y enfriamiento.
 
 ## Desarrollo
-1. **Acción** (continua): Baja la calefacción 1-2°C y usa una chaqueta extra.
-2. **Aprendizaje** (20 min): Investiga cómo se calentaban y enfriaban las casas en el pasado.
-3. **Compartir** (10 min): Comparte lo aprendido con tu familia.
+1. **Acción** (continua): Bajá la calefacción 1-2°C y usá una campera extra.
+2. **Aprendizaje** (20 min): Investigá cómo se calentaban y enfriaban las casas en el pasado.
+3. **Compartir** (10 min): Compartí lo aprendido con tu familia.
 
 ## Cierre
 - ¿Cómo te sentiste al bajar la temperatura?
 - ¿Qué aprendiste sobre las personas de antes?
-- ¿Qué puedes hacer para usar menos energía?
+- ¿Qué podés hacer para usar menos energía?
 
 ---
 ## Texto original completo de la actividad
@@ -169,16 +169,3 @@ Usa menos calefacción y aire acondicionado, y aprende cómo las personas se man
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

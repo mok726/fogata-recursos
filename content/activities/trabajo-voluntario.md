@@ -4,7 +4,7 @@ title: "Trabajo Voluntario"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/trabajo-voluntario/"
-description: "Investiga organizaciones que trabajan contra el hambre en tu comunidad y trabaja como voluntario."
+description: "Investigá organizaciones que trabajan contra el hambre en tu comunidad y trabajá como voluntario."
 summary: "Voluntariado contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/trabajo-voluntario.png"
+image: "/imagenes/actividades/trabajo-voluntario.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -167,19 +167,19 @@ rama_rovers:
 # Trabajo Voluntario
 
 ## Resumen
-Investiga organizaciones que trabajan contra el hambre en tu comunidad y trabaja como voluntario.
+Investigá organizaciones que trabajan contra el hambre en tu comunidad y trabajá como voluntario.
 
 ## Preparación
-1. Investiga organizaciones locales (bancos de alimentos, ONGs, lugares de adoración, etc.).
-2. Contacta a una organización y pregunta sobre oportunidades de voluntariado.
-3. Organiza una visita de campo.
+1. Investigá organizaciones locales (bancos de alimentos, ONGs, lugares de adoración, etc.).
+2. Contactá a una organización y pregunta sobre oportunidades de voluntariado.
+3. Organizá una visita de campo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Identifica organizaciones que trabajan contra el hambre.
-2. **Contacto** (10 min): Contacta a una organización y programa una visita.
-3. **Visita** (30 min): Visita la organización y aprende sobre su trabajo.
-4. **Voluntariado** (tiempo continuo): Trabaja como voluntario una vez a la semana durante un par de meses.
-5. **Reflexión** (15 min): Comparte tu experiencia con el grupo.
+1. **Investigación** (15 min): Identificá organizaciones que trabajan contra el hambre.
+2. **Contacto** (10 min): Contactá a una organización y programa una visita.
+3. **Visita** (30 min): Visitá la organización y aprendé sobre su trabajo.
+4. **Voluntariado** (tiempo continuo): Trabajá como voluntario una vez a la semana durante un par de meses.
+5. **Reflexión** (15 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de estas organizaciones?
@@ -187,16 +187,3 @@ Investiga organizaciones que trabajan contra el hambre en tu comunidad y trabaja
 - ¿Qué compromiso adquieres para seguir ayudando a tu comunidad?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

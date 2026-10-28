@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fruta para ganar"
+title: "Fruta para Ganar"
 duration: "3 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fruta-para-ganar/"
-description: "Reemplaza tus snacks envasados en plástico por frutas frescas durante tres semanas. Una forma saludable y ecológica de cambiar tus hábitos."
+description: "Reemplazá tus snacks envasados en plástico por frutas frescas durante tres semanas. Una forma saludable y ecológica de cambiar tus hábitos."
 summary: "Cambia snacks plásticos por frutas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/fruta-para-ganar.png"
+image: "/imagenes/actividades/fruta-para-ganar.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -162,15 +162,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Fruta para ganar!
+# ¡Fruta para Ganar!
 
 ## Resumen
 Cambiar tus hábitos de snack puede ayudar a combatir el problema de los residuos plásticos. Muchos snacks vienen en empaques de plástico que se tiran. Comer fruta en lugar de papas fritas o golosinas no solo es bueno para tu salud, sino también para la salud del planeta.
 
 ## Preparación
-1. Planifica tu snack de fruta la noche anterior para estar preparado.
-2. Busca un envase reutilizable para llevar tu fruta.
-3. Si quieres, prueba frutas nuevas o prepara ensaladas creativas.
+1. Planificá tu snack de fruta la noche anterior para estar preparado.
+2. Buscá un envase reutilizable para llevar tu fruta.
+3. Si querés, prueba frutas nuevas o prepara ensaladas creativas.
 
 ## Desarrollo
 
@@ -178,13 +178,13 @@ Cambiar tus hábitos de snack puede ayudar a combatir el problema de los residuo
 Durante **tres semanas**, reemplaza tus snacks envasados en plástico por frutas frescas.
 
 **Ideas para hacerlo divertido:**
-- Prueba una fruta nueva cada semana
-- Prepara una ensalada de frutas creativa
-- Comparte tu experiencia con amigos
-- Compara notas con otros participantes
+- Probá una fruta nueva cada semana
+- Prepará una ensalada de frutas creativa
+- Compartí tu experiencia con amigos
+- Compará notas con otros participantes
 
 ### Parte II
-Lleva un registro diario de tus snacks:
+Llevá un registro diario de tus snacks:
 
 | Día | Snack habitual (con plástico) | Snack reemplazo (fruta) |
 |-----|-------------------------------|------------------------|
@@ -236,20 +236,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

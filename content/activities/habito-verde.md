@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hábito verde"
+title: "Hábito Verde"
 duration: "21 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/habito-verde/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/habito-verde.png"
+image: "/imagenes/actividades/habito-verde.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -164,7 +164,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Hábito verde!
+# ¡Hábito Verde!
 
 ## Resumen
 Mirá la lista de consejos y sugerencias para estilos de vida verdes mencionados en el capítulo anterior. Elegí uno de ellos y comprometete a mantenerlo durante al menos 21 días. Puede ser andar en bicicleta a la escuela o comprar menos productos envasados.
@@ -217,20 +217,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

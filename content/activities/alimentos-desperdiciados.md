@@ -4,7 +4,7 @@ title: "Alimentos Desperdiciados"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-desperdiciados/"
-description: "Anota cuánta comida desecha tu familia durante una semana y busca formas de reducir el desperdicio."
+description: "Anotá cuánta comida desecha tu familia durante una semana y buscá formas de reducir el desperdicio."
 summary: "Auditoría de desperdicios de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-desperdiciados.png"
+image: "/imagenes/actividades/alimentos-desperdiciados.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -173,19 +173,19 @@ rama_rovers:
 # Alimentos Desperdiciados
 
 ## Resumen
-Anota cuánta comida desecha tu familia durante una semana y busca formas de reducir el desperdicio.
+Anotá cuánta comida desecha tu familia durante una semana y buscá formas de reducir el desperdicio.
 
 ## Preparación
-1. Prepara un cuaderno para anotar los desperdicios diarios.
-2. Explica a tu familia por qué es importante reducir el desperdicio de alimentos.
-3. Asegura la supervisión de un adulto.
+1. Prepará un cuaderno para anotar los desperdicios diarios.
+2. Explicá a tu familia por qué es importante reducir el desperdicio de alimentos.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Registro** (durante una semana): Anota cuánta comida desecha tu familia cada día.
+1. **Registro** (durante una semana): Anotá cuánta comida desecha tu familia cada día.
 2. **Cálculo** (15 min): Al final de la semana, calcula el total de alimentos desperdiciados.
-3. **Discusión** (15 min): Habla con tu familia sobre cómo reducir estos desperdicios.
+3. **Discusión** (15 min): Hablá con tu familia sobre cómo reducir estos desperdicios.
 4. **Acción** (durante las próximas semanas): Pongan en práctica las sugerencias.
-5. **Extensión - 16+ (Caminantes y Rovers)** (20 min): Investiga sobre pérdidas de alimentos en otras etapas del sistema alimentario (producción, transporte). ¿Qué se puede hacer para reducirlas? ¿Qué puedes hacer como consumidor? Haz una presentación para tu grupo.
+5. **Extensión - 16+ (Caminantes y Rovers)** (20 min): Investigá sobre pérdidas de alimentos en otras etapas del sistema alimentario (producción, transporte). ¿Qué se puede hacer para reducirlas? ¿Qué podés hacer como consumidor? Hacé una presentación para tu grupo.
 
 ## Cierre
 - ¿Cuánta comida desperdiciaste en una semana?
@@ -193,16 +193,3 @@ Anota cuánta comida desecha tu familia durante una semana y busca formas de red
 - ¿Qué compromiso adquieres para reducir el desperdicio de alimentos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -3,7 +3,7 @@ title: "Intercambio Internacional de Recetas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/intercambio-internacional-de-recetas/"
-description: "Calcula la huella hídrica de tu plato favorito y comparte recetas con otros."
+description: "Calculá la huella hídrica de tu plato favorito y compartí recetas con otros."
 summary: "Huella hídrica de recetas."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/intercambio-internacional-de-recetas.png"
+image: "/imagenes/actividades/intercambio-internacional-de-recetas.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -150,16 +150,16 @@ rama_rovers:
 # ¡Intercambio Internacional de Recetas!
 
 ## Resumen
-Calcula la huella hídrica de tu plato favorito y comparte recetas con otros para descubrir cuáles son más amigables con el agua.
+Calculá la huella hídrica de tu plato favorito y compartí recetas con otros para descubrir cuáles son más amigables con el agua.
 
 ## Preparación
-1. Escribe la receta de tu plato favorito.
-2. Investiga la huella hídrica de cada ingrediente.
-3. Prepara materiales para compartir.
+1. Escribí la receta de tu plato favorito.
+2. Investigá la huella hídrica de cada ingrediente.
+3. Prepará materiales para compartir.
 
 ## Desarrollo
-1. **Investigación** (20 min): Calcula el agua 'escondida' en cada ingrediente.
-2. **Comparación** (15 min): Compara recetas y descubre cuáles usan más agua.
+1. **Investigación** (20 min): Calculá el agua 'escondida' en cada ingrediente.
+2. **Comparación** (15 min): Compará recetas y descubrí cuáles usan más agua.
 3. **Votación** (10 min): Voten por una receta para cocinar juntos.
 4. **Cocina** (15 min): Cocinen la receta ganadora (opcional).
 
@@ -176,16 +176,3 @@ Calcula la huella hídrica de tu plato favorito y comparte recetas con otros par
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

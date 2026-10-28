@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/fiesta-por-los-bosques.png"
+image: "/imagenes/actividades/fiesta-por-los-bosques.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -169,21 +169,21 @@ rama_rovers:
 # ¡Fiesta por los Bosques!
 
 ## Resumen
-Planea y/o participa en una celebración por los bosques, con juegos, música, deportes, entretenimiento, alimentos y otras cosas divertidas. Invita a tu familia y a tus amigos a que se unan a las festividades.
+Planea y/o participa en una celebración por los bosques, con juegos, música, deportes, entretenimiento, alimentos y otras cosas divertidas. Invitá a tu familia y a tus amigos a que se unan a las festividades.
 
 ## Preparación
-1. Elige una fecha para la celebración. Puede ser el **Día Internacional de los Bosques** (21 de marzo), el **Día Internacional de la Diversidad Biológica** (22 de mayo) o el día nacional de los bosques de tu país.
-2. Define el lugar donde se realizará la fiesta (puede ser al aire libre, en un parque, en el bosque o en un salón).
-3. Organiza los juegos, actividades y entretenimiento.
-4. Prepara los alimentos y decoraciones.
-5. Invita a tu familia, amigos y miembros de la comunidad.
+1. Elegí una fecha para la celebración. Puede ser el **Día Internacional de los Bosques** (21 de marzo), el **Día Internacional de la Diversidad Biológica** (22 de mayo) o el día nacional de los bosques de tu país.
+2. Definí el lugar donde se realizará la fiesta (puede ser al aire libre, en un parque, en el bosque o en un salón).
+3. Organizá los juegos, actividades y entretenimiento.
+4. Prepará los alimentos y decoraciones.
+5. Invitá a tu familia, amigos y miembros de la comunidad.
 
 ## Desarrollo
 1. **Inauguración** (10 min): Da la bienvenida a los invitados y explica el motivo de la celebración.
-2. **Actividades lúdicas** (45-60 min): Organiza juegos, deportes y actividades relacionadas con los bosques.
+2. **Actividades lúdicas** (45-60 min): Organizá juegos, deportes y actividades relacionadas con los bosques.
 3. **Presentaciones** (30 min): Si has preparado exhibiciones, presentaciones o representaciones a lo largo de la insignia, este es el momento de mostrarlas.
-4. **Comida y música** (30 min): Comparte alimentos y disfruta de música y bailes.
-5. **Cierre** (10 min): Reflexiona sobre la importancia de los bosques y agradece a los participantes.
+4. **Comida y música** (30 min): Compartí alimentos y disfrutá de música y bailes.
+5. **Cierre** (10 min): Reflexioná sobre la importancia de los bosques y agradece a los participantes.
 
 ## Cierre
 - ¿Qué aprendiste sobre los bosques mientras organizabas y disfrutabas de esta celebración?
@@ -191,16 +191,3 @@ Planea y/o participa en una celebración por los bosques, con juegos, música, d
 - ¿Qué fue lo que más te gustó de compartir esta experiencia con tu familia y amigos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

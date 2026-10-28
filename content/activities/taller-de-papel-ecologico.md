@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-de-papel-ecologico/"
 description: "Taller donde los participantes aprenden a crear papel ecológico en base a papeles usados, cartón, hojas y otros restos similares."
-summary: "Crea papel ecológico reciclado."
+summary: "Creá papel ecológico reciclado."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-papel-ecologico.png"
+image: "/imagenes/actividades/taller-de-papel-ecologico.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -33,10 +33,12 @@ age_group:
 materials:
   - Papel de diario o revistas
   - Hojas y hierbas secas
-  - Placa plástica o metálica
+  - Bastidor con malla (marco de madera o percha con tela mosquitera o media de nylon)
+  - Batea o fuente más grande que el bastidor
+  - Paños, telas viejas o papel de diario para prensar
   - Agua
   - Tijeras
-  - Rallador
+  - Licuadora (la usa un adulto) o balde para deshacer a mano
   - Pesos
 tools: []
 responsible:
@@ -118,7 +120,6 @@ competencies:
   - Conciencia ambiental
 activity_type:
   - Aprender haciendo
-  - Arte
   - Creatividad / Arte
 category:
   - Reciclaje
@@ -173,8 +174,10 @@ Aprendemos a crear papel ecológico en base a papeles usados, cartón, hojas, y 
 - Fomentar la creatividad a través del reciclaje.
 
 ## Preparación
-1. Reúne papel de diario o revistas, hojas y hierbas secas.
-2. Prepara placas plásticas o metálicas, agua, tijeras, rallador y pesos.
+1. Reuní papel de diario o revistas, hojas y hierbas secas.
+2. Prepará bastidores con malla, una batea con agua, paños o diarios para prensar, tijeras y pesos (libros, tablas).
+3. El día anterior, dejá los papeles trozados en remojo: así la pasta sale mucho más fácil.
+4. Para armar un bastidor: estirá tela mosquitera (o una media de nylon) sobre un marco de madera o una percha de alambre doblada en cuadrado, y sujetala con chinches, abrochadora o cinta.
 
 ## Desarrollo
 
@@ -182,17 +185,17 @@ Aprendemos a crear papel ecológico en base a papeles usados, cartón, hojas, y 
 1. El sinodal describe la actividad y los pasos de la misma.
 
 ### Paso 2: Preparación del material
-2. Trozar los papeles y otros elementos (rallarlos / molerlos).
+2. Trozar los papeles en pedacitos (si no quedaron en remojo desde el día anterior, remojarlos ahora al menos 30 minutos).
 
 ### Paso 3: Formación de pasta
-3. Humedecerlos hasta formar pasta.
+3. Deshacerlos con agua hasta formar una pasta: con licuadora (la maneja un adulto) o a mano en un balde. Echar la pasta en la batea con bastante agua y agregar las hojas y hierbas secas para decorar.
 
 ### Paso 4: Moldeado
-4. Distribuirlo en la placa y aplastar (colocar peso arriba).
+4. Sumergir el bastidor en la batea, con la malla hacia arriba, y levantarlo despacio y bien horizontal: la pasta queda como una capa pareja sobre la malla. Si queda muy gruesa o con huecos, volver a sumergirlo.
 
 ### Paso 5: Secado
-5. Escurrir el agua.
-6. Dejarlos secar donde no molesten (rotarlos semanalmente).
+5. Dejar escurrir el agua y dar vuelta la hoja sobre un paño o un diario. Tapar con otro paño y prensar con peso (o pasar un rodillo) para sacar el agua que queda.
+6. Dejar secar las hojas sobre los paños, a la sombra y en un lugar ventilado. Secan en 1 o 2 días.
 
 ### Paso 6: Almacenamiento
 7. Almacenarlos hasta su uso.
@@ -225,18 +228,3 @@ Aprendemos a crear papel ecológico en base a papeles usados, cartón, hojas, y 
 **Cierre:** Discutimos sobre la actividad, ¿que podemos hacer con este papel? ¿Tarjetas, dibujos, adornos? La discusión se continúa al momento de usar el papel, donde cada uno expresa lo que siente al respecto.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

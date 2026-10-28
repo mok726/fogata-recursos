@@ -4,7 +4,7 @@ title: "Oiga, Doctor"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/oiga-doctor/"
-description: "Invita a un doctor o nutricionista para que responda preguntas sobre salud, dieta y ejercicio."
+description: "Invitá a un doctor o nutricionista para que responda preguntas sobre salud, dieta y ejercicio."
 summary: "Charla con profesional de la salud."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/oiga-doctor.png"
+image: "/imagenes/actividades/oiga-doctor.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,18 +169,18 @@ rama_rovers:
 # Oiga, Doctor
 
 ## Resumen
-Invita a un doctor o nutricionista para que responda preguntas sobre salud, dieta y ejercicio.
+Invitá a un doctor o nutricionista para que responda preguntas sobre salud, dieta y ejercicio.
 
 ## Preparación
-1. Invita a un doctor o nutricionista a tu reunión.
-2. Prepara preguntas sobre salud, dieta y ejercicio.
-3. Piensa en los principales retos de nutrición en tu región.
+1. Invitá a un doctor o nutricionista a tu reunión.
+2. Prepará preguntas sobre salud, dieta y ejercicio.
+3. Pensá en los principales retos de nutrición en tu región.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para el invitado.
-2. **Charla** (30 min): Escucha al profesional y haz preguntas.
-3. **Notas** (10 min): Compara tus notas con las del grupo.
-4. **Reflexión** (15 min): Habla con tu familia sobre lo aprendido.
+1. **Preparación** (15 min): Prepará preguntas para el invitado.
+2. **Charla** (30 min): Escuchá al profesional y hacé preguntas.
+3. **Notas** (10 min): Compará tus notas con las del grupo.
+4. **Reflexión** (15 min): Hablá con tu familia sobre lo aprendido.
 
 ## Cierre
 - ¿Qué dato te sorprendió más?
@@ -188,16 +188,3 @@ Invita a un doctor o nutricionista para que responda preguntas sobre salud, diet
 - ¿Qué compromiso adquieres para aplicar lo aprendido?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ducha solar"
+title: "Ducha Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/ducha-solar/"
-description: "Descubre el funcionamiento de una ducha solar y construye una propia siguiendo las instrucciones para tener agua caliente con energía solar."
-summary: "Construye una ducha de agua caliente solar."
+description: "Descubrí el funcionamiento de una ducha solar y construí una propia siguiendo las instrucciones para tener agua caliente con energía solar."
+summary: "Construí una ducha de agua caliente solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ducha-solar.png"
+image: "/imagenes/actividades/ducha-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -169,7 +169,7 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías disponibles en la vida cotidiana
 ---
 
-# ¡Ducha solar!
+# ¡Ducha Solar!
 
 ## Resumen
 Ducha de Sol es un proyecto que busca proveer de agua caliente a todo tipo de hogares aprovechando la energía del Sol. Descubran el funcionamiento de la ducha solar y armen una propia siguiendo las instrucciones.
@@ -189,6 +189,8 @@ Sigan el paso a paso del instructivo para construir su propia ducha solar.
 
 ### Paso 3 - Probar
 Instalen la ducha y prueben su funcionamiento.
+
+> **Nota de seguridad:** en verano, el agua de una ducha solar puede pasar los 50–60 °C y quemar. Antes de usarla, un adulto prueba la temperatura con la mano. Si está muy caliente, mezclen con agua fría o esperen.
 
 ## Cierre
 1. ¿Qué tan efectiva fue la ducha solar?
@@ -217,17 +219,3 @@ Ducha de Sol es un proyecto que busca proveer de agua caliente a todo tipo de ho
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

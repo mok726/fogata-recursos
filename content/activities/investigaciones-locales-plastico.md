@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigaciones locales sobre plásticos"
+title: "Investigaciones Locales sobre Plásticos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-locales-plastico/"
-description: "Observa y documenta la situación del plástico en tu barrio, pueblo o ciudad. ¿Hay mucho plástico en las calles, parques o ríos?"
-summary: "Investiga la situación del plástico en tu comunidad."
+description: "Observá y documentá la situación del plástico en tu barrio, pueblo o ciudad. ¿Hay mucho plástico en las calles, parques o ríos?"
+summary: "Investigá la situación del plástico en tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigaciones-locales-plastico.png"
+image: "/imagenes/actividades/investigaciones-locales-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -162,20 +162,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigaciones locales sobre plásticos!
+# ¡Investigaciones Locales sobre Plásticos!
 
 ## Resumen
-Explora tu barrio, pueblo o ciudad con una nueva perspectiva. Observa y documenta la situación del plástico en tu comunidad. ¿Hay mucha basura plástica en las calles, parques o ríos? ¿Hay sistemas de reciclaje?
+Explorá tu barrio, pueblo o ciudad con una nueva perspectiva. Observá y documentá la situación del plástico en tu comunidad. ¿Hay mucha basura plástica en las calles, parques o ríos? ¿Hay sistemas de reciclaje?
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Prepara tu cuaderno y cámara para documentar.
-3. Planifica la ruta de exploración.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Prepará tu cuaderno y cámara para documentar.
+3. Planificá la ruta de exploración.
 
 ## Desarrollo
 
 ### Parte I - Exploración
-Recorre tu barrio, pueblo o ciudad y observa:
+Recorré tu barrio, pueblo o ciudad y observá:
 
 **Preguntas guía:**
 - ¿Hay mucha basura plástica en las calles, parques, ríos, etc.?
@@ -186,17 +186,17 @@ Recorre tu barrio, pueblo o ciudad y observa:
 - ¿Qué podría mejorar?
 
 ### Parte II - Documentación
-Toma fotos y notas de lo que encuentres. Crea un informe o presentación con tus hallazgos.
+Tomá fotos y notas de lo que encuentres. Creá un informe o presentación con tus hallazgos.
 
 ### Parte III - Compartir
-Comparte tus hallazgos con el grupo. ¿Qué similitudes y diferencias encontraron en diferentes áreas?
+Compartí tus hallazgos con el grupo. ¿Qué similitudes y diferencias encontraron en diferentes áreas?
 
 ### Parte IV - Acción (opcional)
 Basado en tus hallazgos, identifica una acción que podrías tomar para mejorar la situación del plástico en tu comunidad.
 
 ## Cierre
 1. ¿Qué fue lo que más te llamó la atención de tu comunidad?
-2. ¿Qué crees que funciona bien en tu comunidad respecto al plástico?
+2. ¿Qué creés que funciona bien en tu comunidad respecto al plástico?
 3. ¿Qué cambiarías si pudieras?
 
 ## Texto original completo de la actividad
@@ -227,20 +227,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

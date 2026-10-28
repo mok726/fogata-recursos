@@ -4,7 +4,7 @@ title: "Bosques Políticos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-politicos/"
-description: "Elige un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política. Presenta tus resultados en un formato creativo."
+description: "Elegí un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política. Presentá tus resultados en un formato creativo."
 summary: "Investigación sobre movimientos de resistencia política en bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bosques-politicos.png"
+image: "/imagenes/actividades/bosques-politicos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -164,18 +164,18 @@ rama_rovers:
 # Bosques Políticos
 
 ## Resumen
-Elige un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política. Presenta tus resultados en un formato creativo.
+Elegí un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia política. Presentá tus resultados en un formato creativo.
 
 ## Preparación
-1. Investiga movimientos de resistencia política en bosques (ej. Movimiento Chipko en India, Movimiento Cinturón Verde en Kenia).
-2. Elige un ejemplo para investigar en profundidad.
-3. Define el formato de presentación (podcast, poema, baile, informe de prensa, etc.).
+1. Investigá movimientos de resistencia política en bosques (ej. Movimiento Chipko en India, Movimiento Cinturón Verde en Kenia).
+2. Elegí un ejemplo para investigar en profundidad.
+3. Definí el formato de presentación (podcast, poema, baile, informe de prensa, etc.).
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga qué pasó, dónde y cuándo, quién participó, cuál fue la causa y los resultados.
-2. **Análisis** (15 min): Reflexiona sobre por qué fue importante el bosque para el movimiento.
-3. **Creación** (30 min): Prepara tu presentación creativa.
-4. **Presentación** (15 min): Presenta tus resultados al grupo.
+1. **Investigación** (30 min): Investigá qué pasó, dónde y cuándo, quién participó, cuál fue la causa y los resultados.
+2. **Análisis** (15 min): Reflexioná sobre por qué fue importante el bosque para el movimiento.
+3. **Creación** (30 min): Prepará tu presentación creativa.
+4. **Presentación** (15 min): Presentá tus resultados al grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los movimientos de resistencia en los bosques?
@@ -183,16 +183,3 @@ Elige un ejemplo de cómo ha sido usado el bosque como un sitio de resistencia p
 - ¿Qué compromiso adquieres para apoyar movimientos de justicia ambiental?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

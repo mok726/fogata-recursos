@@ -4,7 +4,7 @@ title: "Guión Gráfico sobre la Trampa del Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/guion-grafico-sobre-la-trampa-del-hambre/"
-description: "Crea un personaje atrapado en la trampa del hambre y dibuja un guión gráfico con tres caminos hacia el círculo virtuoso."
+description: "Creá un personaje atrapado en la trampa del hambre y dibujá un guión gráfico con tres caminos hacia el círculo virtuoso."
 summary: "Creación de un guión gráfico sobre la trampa del hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/guion-grafico-sobre-la-trampa-del-hambre.png"
+image: "/imagenes/actividades/guion-grafico-sobre-la-trampa-del-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -172,18 +172,18 @@ rama_rovers:
 # Guión Gráfico sobre la Trampa del Hambre
 
 ## Resumen
-Crea un personaje atrapado en la trampa del hambre y dibuja un guión gráfico con tres caminos hacia el círculo virtuoso.
+Creá un personaje atrapado en la trampa del hambre y dibujá un guión gráfico con tres caminos hacia el círculo virtuoso.
 
 ## Preparación
-1. Revisa el concepto de la trampa del hambre y el círculo virtuoso.
-2. Prepara papel y lápices para dibujar.
-3. Piensa en un personaje para tu historia.
+1. Revisá el concepto de la trampa del hambre y el círculo virtuoso.
+2. Prepará papel y lápices para dibujar.
+3. Pensá en un personaje para tu historia.
 
 ## Desarrollo
-1. **Creación** (15 min): Crea tu personaje atrapado en la trampa del hambre.
-2. **Dibujo** (25 min): Dibuja un guión gráfico mostrando su vida.
+1. **Creación** (15 min): Creá tu personaje atrapado en la trampa del hambre.
+2. **Dibujo** (25 min): Dibujá un guión gráfico mostrando su vida.
 3. **Alternativas** (20 min): Da a tu guión tres caminos diferentes hacia el círculo virtuoso.
-4. **Exhibición** (15 min): Comparte y exhibe tu guión gráfico con el grupo.
+4. **Exhibición** (15 min): Compartí y exhibí tu guión gráfico con el grupo.
 
 ## Cierre
 - ¿Cómo se siente tu personaje en la trampa del hambre?
@@ -191,16 +191,3 @@ Crea un personaje atrapado en la trampa del hambre y dibuja un guión gráfico c
 - ¿Qué aprendiste sobre la trampa del hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -3,7 +3,7 @@ title: "El Suelo y la Salud"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-suelo-y-la-salud/"
-description: "Investiga y crea un póster sobre la conexión entre el suelo y la salud humana."
+description: "Investigá y creá un póster sobre la conexión entre el suelo y la salud humana."
 summary: "Conexión entre suelo y salud humana."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/el-suelo-y-la-salud.png"
+image: "/imagenes/actividades/el-suelo-y-la-salud.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -155,17 +155,17 @@ rama_rovers:
 # ¡El Suelo y la Salud!
 
 ## Resumen
-Investiga la conexión entre el suelo y la salud humana, y crea un póster informativo.
+Investigá la conexión entre el suelo y la salud humana, y creá un póster informativo.
 
 ## Preparación
-1. Investiga sobre la conexión entre suelo y salud.
-2. Reúne materiales para el póster.
-3. Prepara datos adicionales sobre nutrientes.
+1. Investigá sobre la conexión entre suelo y salud.
+2. Reuní materiales para el póster.
+3. Prepará datos adicionales sobre nutrientes.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre la conexión suelo-salud.
-2. **Creación** (25 min): Haz un póster con todas las conexiones.
-3. **Presentación** (10 min): Comparte tu póster con el grupo.
+1. **Investigación** (20 min): Aprendé sobre la conexión suelo-salud.
+2. **Creación** (25 min): Hacé un póster con todas las conexiones.
+3. **Presentación** (10 min): Compartí tu póster con el grupo.
 4. **Discusión** (5 min): ¿Son los mismos nutrientes que necesitamos como humanos?
 
 ## Cierre
@@ -181,16 +181,3 @@ Investiga la conexión entre el suelo y la salud humana, y crea un póster infor
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

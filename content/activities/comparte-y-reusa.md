@@ -1,9 +1,9 @@
 ---
-title: "Comparte y reusa"
+title: "Compartí y Reusá"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparte-y-reusa/"
-description: "Comparte y reusa tus pertenencias cuando ya no las necesites."
+description: "Compartí y reusá tus pertenencias cuando ya no las necesites."
 summary: "Compartir y reusar pertenencias."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/comparte-y-reusa.png"
+image: "/imagenes/actividades/comparte-y-reusa.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -142,23 +142,23 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Comparte y reusa!
+# ¡Compartí y Reusá!
 
 ## Resumen
-Comparte y reusa tus pertenencias cuando ya no las necesites.
+Compartí y reusá tus pertenencias cuando ya no las necesites.
 
 ## Preparación
-- Revisa tus pertenencias.
-- Identifica lo que ya no necesitas.
+- Revisá tus pertenencias.
+- Identificá lo que ya no necesitás.
 
 ## Desarrollo
-1. **Revisión** (15 min): Busca cosas que ya no necesitas.
+1. **Revisión** (15 min): Buscá cosas que ya no necesitás.
 2. **Acción** (15 min): Regala, dona o vende en una venta de garaje.
-3. **Reflexión** (10 min): ¿Cómo te sientes al compartir?
+3. **Reflexión** (10 min): ¿Cómo te sentís al compartir?
 
 ## Cierre
 - ¿Qué cosas compartiste o reusaste?
-- ¿Cómo te sientes al dar una segunda vida a los objetos?
+- ¿Cómo te sentís al dar una segunda vida a los objetos?
 
 ---
 ## Texto original completo de la actividad
@@ -168,16 +168,3 @@ Comparte y reusa tus pertenencias cuando ya no las necesites.
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

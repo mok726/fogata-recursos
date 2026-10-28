@@ -1,9 +1,9 @@
 ---
-title: "Derecho a la alimentación"
+title: "Derecho a la Alimentación"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/derecho-a-la-alimentacion/"
-description: "Aprende sobre el derecho humano a la alimentación."
+description: "Aprendé sobre el derecho humano a la alimentación."
 summary: "Derecho humano a la alimentación."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/derecho-a-la-alimentacion.png"
+image: "/imagenes/actividades/derecho-a-la-alimentacion.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -150,20 +150,20 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Derecho a la alimentación!
+# ¡Derecho a la Alimentación!
 
 ## Resumen
-Aprende sobre el derecho humano a la alimentación usando el libro de dibujos.
+Aprendé sobre el derecho humano a la alimentación usando el libro de dibujos.
 
 ## Preparación
-1. Accede al libro de dibujos en línea.
-2. Prepara materiales para dibujar.
+1. Accedé al libro de dibujos en línea.
+2. Prepará materiales para dibujar.
 
 ## Desarrollo
-1. **Lectura** (20 min): Lee el libro de dibujos.
+1. **Lectura** (20 min): Leé el libro de dibujos.
 2. **Reflexión** (15 min): ¿Qué es el derecho a la alimentación?
 3. **Discusión** (15 min): ¿Cómo podemos garantizar este derecho?
-4. **Acción** (10 min): Comparte lo aprendido.
+4. **Acción** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué es el derecho a la alimentación?
@@ -178,16 +178,3 @@ Aprende sobre el derecho humano a la alimentación usando el libro de dibujos.
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

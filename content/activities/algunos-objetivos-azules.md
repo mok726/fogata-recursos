@@ -5,7 +5,7 @@ duration: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/algunos-objetivos-azules/"
 description: "Los participantes investigan los Objetivos de Desarrollo del Milenio (ODM) y su relación con el agua y el saneamiento, presentando sus hallazgos al grupo."
-summary: "Investiga los ODM y el agua."
+summary: "Investigá los ODM y el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/algunos-objetivos-azules.png"
+image: "/imagenes/actividades/algunos-objetivos-azules.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -186,22 +186,22 @@ translation_notice:
 Los Objetivos de Desarrollo del Milenio (ODM) son ocho objetivos internacionales de desarrollo que fueron acordados por todos los países del mundo y por todas las principales instituciones de desarrollo. Van desde erradicar la pobreza extrema hasta combatir epidemias de enfermedades, proporcionar educación primaria universal y desarrollar una alianza global para el desarrollo. El acceso al agua potable y al saneamiento está directamente relacionado con varios de estos objetivos. En esta actividad, los participantes investigan los ODM y su relación con el agua y el saneamiento.
 
 ## Preparación
-1. Prepara acceso a Internet para la investigación.
-2. Divide a los participantes en grupos pequeños y asigna un ODM a cada grupo.
+1. Prepará acceso a Internet para la investigación.
+2. Dividí a los participantes en grupos pequeños y asigná un ODM a cada grupo.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a discutir los Objetivos de Desarrollo del Milenio y su relación con la escasez de agua.
+1. Explicá a tu grupo que van a discutir los Objetivos de Desarrollo del Milenio y su relación con la escasez de agua.
 
 ### Paso 2: Investigación
-2. Divide a los participantes en grupos pequeños y asigna uno de los ODM a cada grupo.
-3. Explica que cada grupo tendrá que preparar un informe que incluya información y datos sobre su ODM para presentarlo al resto del grupo y ayudar a todos a ser más conscientes sobre el tema de la escasez de agua.
+2. Dividí a los participantes en grupos pequeños y asigná uno de los ODM a cada grupo.
+3. Explicá que cada grupo tendrá que preparar un informe que incluya información y datos sobre su ODM para presentarlo al resto del grupo y ayudar a todos a ser más conscientes sobre el tema de la escasez de agua.
 4. Los grupos pueden encontrar información útil en la página web de los Objetivos de Desarrollo del Milenio de la ONU: https://www.un.org/millenniumgoals/
 
 ### Paso 3: Presentación
 5. Da a los grupos tiempo suficiente para preparar su trabajo.
-6. Pide a cada grupo que presente su informe al resto de los participantes.
+6. Pedí a cada grupo que presente su informe al resto de los participantes.
 
 ### Paso 4: Difusión (opcional)
 7. ¿Por qué no leer el informe a toda la escuela o lugar de reunión? ¡Todos necesitan estar informados!
@@ -285,21 +285,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[15,19], scouts[18,25], caminantes[17,24], rovers[22,27])

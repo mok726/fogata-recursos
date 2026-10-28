@@ -4,7 +4,7 @@ title: "El Tiempo y la Marea"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-tiempo-y-la-marea/"
-description: "Aprende cómo la gravedad de la Luna y el Sol afectan las mareas con una simulación práctica."
+description: "Aprendé cómo la gravedad de la Luna y el Sol afectan las mareas con una simulación práctica."
 summary: "Simulación de las mareas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-tiempo-y-la-marea.png"
+image: "/imagenes/actividades/el-tiempo-y-la-marea.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -172,19 +172,19 @@ rama_rovers:
 # El Tiempo y la Marea
 
 ## Resumen
-Aprende cómo la gravedad de la Luna y el Sol afectan las mareas con una simulación práctica.
+Aprendé cómo la gravedad de la Luna y el Sol afectan las mareas con una simulación práctica.
 
 ## Preparación
-1. Reúne tres pelotas de diferentes tamaños (Luna, Tierra, Sol).
-2. Prepara un aro para representar el océano.
-3. Revisa el video sobre mareas.
+1. Reuní tres pelotas de diferentes tamaños (Luna, Tierra, Sol).
+2. Prepará un aro para representar el océano.
+3. Revisá el video sobre mareas.
 
 ## Desarrollo
-1. **Discusión** (10 min): ¿Qué sabes sobre las mareas?
-2. **Simulación 1** (10 min): Coloca Tierra, Luna y Sol en línea recta (marea viva).
-3. **Simulación 2** (10 min): Coloca la Tierra entre la Luna y el Sol.
-4. **Simulación 3** (10 min): Coloca a la Luna y la Tierra en línea y al Sol en ángulo recto.
-5. **Registro** (15 min): Dibuja diagramas explicando el movimiento de las mareas.
+1. **Discusión** (10 min): ¿Qué sabés sobre las mareas?
+2. **Simulación 1** (10 min): Colocá Tierra, Luna y Sol en línea recta (marea viva).
+3. **Simulación 2** (10 min): Colocá la Tierra entre la Luna y el Sol.
+4. **Simulación 3** (10 min): Colocá a la Luna y la Tierra en línea y al Sol en ángulo recto.
+5. **Registro** (15 min): Dibujá diagramas explicando el movimiento de las mareas.
 
 ## Cierre
 - ¿Cómo afectan la Luna y el Sol a las mareas?
@@ -215,16 +215,3 @@ Discute con tu grupo acerca de lo que ya sabes sobre las mareas. Pide a tu maest
 nivel: 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

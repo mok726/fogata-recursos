@@ -3,7 +3,7 @@ title: "Organizándose"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizandose/"
-description: "Investiga organizaciones de conservación del suelo y únete a ellas."
+description: "Investigá organizaciones de conservación del suelo y únete a ellas."
 summary: "Investigación de organizaciones del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/organizandose.png"
+image: "/imagenes/actividades/organizandose.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,23 +145,23 @@ rama_rovers:
 # ¡Organizándose!
 
 ## Resumen
-Investiga organizaciones que trabajan en la conservación del suelo y encuentra formas de involucrarte.
+Investigá organizaciones que trabajan en la conservación del suelo y encontrá formas de involucrarte.
 
 ## Preparación
-1. Investiga sobre organizaciones de conservación del suelo.
-2. Identifica proyectos y actividades.
-3. Busca oportunidades para jóvenes.
+1. Investigá sobre organizaciones de conservación del suelo.
+2. Identificá proyectos y actividades.
+3. Buscá oportunidades para jóvenes.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre organizaciones.
-2. **Selección** (10 min): Elige una forma de involucrarte.
-3. **Planificación** (15 min): Planifica la participación de tu grupo.
-4. **Acción** (10 min): ¡Empieza a involucrarte!
+1. **Investigación** (25 min): Aprendé sobre organizaciones.
+2. **Selección** (10 min): Elegí una forma de involucrarte.
+3. **Planificación** (15 min): Planificá la participación de tu grupo.
+4. **Acción** (10 min): ¡Empezá a involucrarte!
 
 ## Cierre
 - ¿Qué organizaciones encontraste?
 - ¿Qué proyectos te interesaron?
-- ¿Cómo puedes involucrar a tu grupo?
+- ¿Cómo podés involucrar a tu grupo?
 
 ---
 ## Texto original completo de la actividad
@@ -171,16 +171,3 @@ Investiga organizaciones que trabajan en la conservación del suelo y encuentra 
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

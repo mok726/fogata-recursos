@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién se Come a Quién?"
+title: "¿Quién Se Come a Quién?"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-se-come-a-quien/"
-description: "Dibuja, haz un collage o crea un modelo de una red alimentaria que conecte a muchas especies del bosque."
+description: "Dibujá, hacé un collage o creá un modelo de una red alimentaria que conecte a muchas especies del bosque."
 summary: "Creación de una red alimentaria forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/quien-se-come-a-quien.png"
+image: "/imagenes/actividades/quien-se-come-a-quien.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -163,20 +163,20 @@ rama_caminantes:
 rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# ¿Quién se Come a Quién?
+# ¿Quién Se Come a Quién?
 
 ## Resumen
-Dibuja, haz un collage o crea un modelo de una red alimentaria que conecte a muchas especies del bosque.
+Dibujá, hacé un collage o creá un modelo de una red alimentaria que conecte a muchas especies del bosque.
 
 ## Preparación
-1. Investiga especies del bosque y sus relaciones alimentarias.
-2. Reúne materiales para dibujo, collage o modelo.
+1. Investigá especies del bosque y sus relaciones alimentarias.
+2. Reuní materiales para dibujo, collage o modelo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga especies del bosque y qué comen.
-2. **Diseño** (10 min): Diseña la red alimentaria.
-3. **Creación** (25 min): Crea el dibujo, collage o modelo.
-4. **Presentación** (15 min): Comparte tu trabajo con el grupo.
+1. **Investigación** (15 min): Investigá especies del bosque y qué comen.
+2. **Diseño** (10 min): Diseñá la red alimentaria.
+3. **Creación** (25 min): Creá el dibujo, collage o modelo.
+4. **Presentación** (15 min): Compartí tu trabajo con el grupo.
 
 ## Cierre
 - ¿Qué conexiones encontraste en la red alimentaria?
@@ -184,16 +184,3 @@ Dibuja, haz un collage o crea un modelo de una red alimentaria que conecte a muc
 - ¿Qué compromiso adquieres para proteger la biodiversidad?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

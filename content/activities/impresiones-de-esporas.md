@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Impresiones de esporas"
+title: "Impresiones de Esporas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/impresiones-de-esporas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/impresiones-de-esporas.png"
+image: "/imagenes/actividades/impresiones-de-esporas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,27 +163,28 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Impresiones de esporas!
+# ¡Impresiones de Esporas!
 
 ## Resumen
-Las semillas de los hongos se llaman esporas y el viento las dispersa constantemente. Cada especie de hongo tiene una impresión de espora única (como una huella digital). Recolecta tres especies de hongos diferentes y haz una impresión de esporas de cada uno.
+Las semillas de los hongos se llaman esporas y el viento las dispersa constantemente. Cada especie de hongo tiene una impresión de espora única (como una huella digital). Recolectá tres especies de hongos diferentes y hacé una impresión de esporas de cada uno.
 
 ## Preparación
-1. Reúne tres especies diferentes de hongos (con ayuda de un adulto).
-2. Prepara papel blanco o cartulina para las impresiones.
-3. Organiza el espacio de trabajo con vasos o tazas.
+1. Reuní tres especies diferentes de hongos (con ayuda de un adulto).
+2. Prepará papel blanco o cartulina para las impresiones.
+3. Organizá el espacio de trabajo con vasos o tazas.
 
 ## Desarrollo
-1. Recolecta tres especies de hongos diferentes (con ayuda de un adulto).
-2. Coloca cada hongo sobre un papel con el sombrero hacia abajo.
-3. Cubre con un vaso o taza y espera varias horas.
-4. Retira el hongo con cuidado.
-5. Observa la impresión de esporas única de cada especie.
+1. Recolectá tres especies de hongos diferentes (con ayuda de un adulto).
+2. Colocá cada hongo sobre un papel con el sombrero hacia abajo.
+3. Cubrí con un vaso o taza y espera varias horas.
+4. Retirá el hongo con cuidado.
+5. Observá la impresión de esporas única de cada especie.
+6. **Seguridad**: no uses hongos venenosos; pide ayuda a un experto para identificarlos. Nunca los pruebes y lavate las manos al terminar.
 
 ## Cierre
-1. Compara las impresiones de esporas de las diferentes especies.
-2. Discute: ¿Qué diferencias ves en colores y patrones?
-3. Pregunta final: ¿Cómo crees que la diversidad de hongos beneficia al ecosistema?
+1. Compará las impresiones de esporas de las diferentes especies.
+2. Discutí: ¿Qué diferencias ves en colores y patrones?
+3. Pregunta final: ¿Cómo creés que la diversidad de hongos beneficia al ecosistema?
 
 ## Texto original completo de la actividad
 A.08 Las semillas de los hongos se llaman esporas y el viento las dispersa constantemente. Cada especie de hongo tiene una impresión de espora única (como una huella digital). Recolecta tres especies de hongos diferentes y haz una impresión de esporas de cada uno. Para obtener mayor información sobre cómo hacer impresiones de esporas visita: www.unpocodetodo.info/setas_js/agar4.html. SÉ MUY CUIDADOSO, NO USES HONGOS VENENOSOS, PIDE AYUDA A UN EXPERTO. NO OLVIDES LAVAR TUS MANOS CUANDO HAYAS TERMINADO.
@@ -191,16 +192,3 @@ A.08 Las semillas de los hongos se llaman esporas y el viento las dispersa const
 NIVELES: 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

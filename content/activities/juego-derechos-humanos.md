@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El juego de los Derechos Humanos"
+title: "El Juego de los Derechos Humanos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-derechos-humanos/"
 description: "Los participantes imaginan una nueva sociedad desde cero, definen los derechos humanos más importantes y los comparan con la Declaración Universal de los Derechos Humanos."
-summary: "Define los derechos de una nueva sociedad."
+summary: "Definí los derechos de una nueva sociedad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-derechos-humanos.png"
+image: "/imagenes/actividades/juego-derechos-humanos.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -167,19 +167,19 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# El juego de los Derechos Humanos
+# El Juego de los Derechos Humanos
 
 ## Resumen
 Imaginen crear una nueva sociedad desde cero. ¿Cuáles son los derechos humanos más importantes y fundamentales y valores para su comunidad? Debatan y definan los cinco más importantes derechos para su comunidad. Justifiquen por qué creen que esos son los más importantes. Busquen la Declaración Universal de los Derechos Humanos y vean si sus derechos se mencionan en la Declaración. ¿Encontraron algún otro derecho que no habían mencionado para sumarlo a su sociedad?
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Ten a mano la Declaración Universal de los Derechos Humanos (puedes imprimirla o tener acceso a Internet).
+1. Prepará los materiales de escritura.
+2. Tené a mano la Declaración Universal de los Derechos Humanos (podés imprimirla o tener acceso a Internet).
 
 ## Desarrollo
 
 ### Paso 1: Creación de la nueva sociedad
-1. Pide a los participantes que imaginen que están creando una nueva sociedad desde cero.
+1. Pedí a los participantes que imaginen que están creando una nueva sociedad desde cero.
 2. Pregunta: ¿Cuáles son los derechos humanos más importantes y fundamentales y valores para su comunidad?
 
 ### Paso 2: Selección de derechos
@@ -217,17 +217,3 @@ Imaginen crear una nueva sociedad desde cero. ¿Cuáles son los derechos humanos
 **ODS involucrados:** 4, 16, 17
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

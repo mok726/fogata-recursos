@@ -3,8 +3,8 @@ title: "Listo para un Terremoto"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/listo-para-un-terremoto/"
-description: "Visita un edificio a prueba de terremotos y aprende sobre sus características de seguridad."
-summary: "Visita a un edificio resistente a terremotos."
+description: "Visitá un edificio a prueba de terremotos y aprendé sobre sus características de seguridad."
+summary: "Visitá a un edificio resistente a terremotos."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/listo-para-un-terremoto.png"
+image: "/imagenes/actividades/listo-para-un-terremoto.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -154,17 +154,17 @@ rama_rovers:
 # ¡Listo para un Terremoto!
 
 ## Resumen
-Visita un edificio a prueba de terremotos o estructuras resistentes a inundaciones/tormentas en tu área, y aprende sobre sus características de seguridad.
+Visitá un edificio a prueba de terremotos o estructuras resistentes a inundaciones/tormentas en tu área, y aprendé sobre sus características de seguridad.
 
 ## Preparación
-1. Investiga si hay edificios resistentes a terremotos en tu área.
-2. Coordina una visita con el guía o administrador.
-3. Prepara preguntas para hacer durante la visita.
+1. Investigá si hay edificios resistentes a terremotos en tu área.
+2. Coordiná una visita con el guía o administrador.
+3. Prepará preguntas para hacer durante la visita.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre el edificio con el guía.
-2. **Preguntas** (15 min): Pregunta sobre las características de seguridad.
-3. **Fotos** (10 min): Toma fotografías para documentar.
+1. **Visita** (30 min): Recorré el edificio con el guía.
+2. **Preguntas** (15 min): Preguntá sobre las características de seguridad.
+3. **Fotos** (10 min): Tomá fotografías para documentar.
 4. **Publicación** (5 min): Postea los hallazgos en un blog o red social.
 
 ## Cierre
@@ -180,16 +180,3 @@ Visita un edificio a prueba de terremotos o estructuras resistentes a inundacion
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita un Centro de Salud"
+title: "Visitá un Centro de Salud"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-un-centro-de-salud/"
-description: "Visita un centro de salud o invita a un profesional sanitario para aprender sobre los retos de la salud."
-summary: "Visita a centro de salud."
+description: "Visitá un centro de salud o invitá a un profesional sanitario para aprender sobre los retos de la salud."
+summary: "Visitá a centro de salud."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-un-centro-de-salud.png"
+image: "/imagenes/actividades/visita-un-centro-de-salud.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -161,21 +161,21 @@ rama_rovers:
   - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros.
 ---
 
-# Visita un Centro de Salud
+# Visitá un Centro de Salud
 
 ## Resumen
-Visita un centro de salud o invita a un profesional sanitario para aprender sobre los retos de la salud.
+Visitá un centro de salud o invitá a un profesional sanitario para aprender sobre los retos de la salud.
 
 ## Preparación
-1. Organiza una visita a un centro de salud local.
-2. Prepara preguntas para los profesionales sanitarios.
-3. Asegura la supervisión de un adulto.
+1. Organizá una visita a un centro de salud local.
+2. Prepará preguntas para los profesionales sanitarios.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Visita** (30 min): Visita el centro de salud y observa sus servicios.
-2. **Preguntas** (20 min): Pregunta sobre los retos del trabajo y los servicios para personas con malnutrición.
-3. **Voluntariado** (10 min): Investiga cómo puedes ofrecerte como voluntario.
-4. **Reflexión** (15 min): Comparte lo aprendido con el grupo.
+1. **Visita** (30 min): Visitá el centro de salud y observá sus servicios.
+2. **Preguntas** (20 min): Preguntá sobre los retos del trabajo y los servicios para personas con malnutrición.
+3. **Voluntariado** (10 min): Investigá cómo podés ofrecerte como voluntario.
+4. **Reflexión** (15 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué servicios ofrece el centro de salud?
@@ -183,16 +183,3 @@ Visita un centro de salud o invita a un profesional sanitario para aprender sobr
 - ¿Qué compromiso adquieres para apoyar la salud en tu comunidad?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,10 +1,10 @@
 ---
-title: "Visita al tiradero de basura"
+title: "Visitá al Basural"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-tiradero-de-basura/"
-description: "Visita el tiradero de basura local y analiza su sostenibilidad."
-summary: "Visita a tiradero de basura."
+description: "Visitá el basural local y analizá su sostenibilidad."
+summary: "Visitá a basural."
 
 author:
   - FAO
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/visita-al-tiradero-de-basura.png"
+image: "/imagenes/actividades/visita-al-tiradero-de-basura.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -49,7 +49,7 @@ required_category: ""
 tags:
   - sacc
   - basura
-  - tiradero
+  - basural
   - sostenibilidad
   - visita
 
@@ -118,7 +118,7 @@ category:
   - Visita
 
 skills:
-  - Investigação
+  - Investigación
   - Análisis
   - Comunicación
 
@@ -146,24 +146,24 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental.
 ---
 
-# ¡Visita al tiradero de basura!
+# ¡Visitá al Basural!
 
 ## Resumen
-Visita el tiradero de basura local, analiza su sostenibilidad y habla con las autoridades.
+Visitá el basural local, analizá su sostenibilidad y hablá con las autoridades.
 
 ## Preparación
-1. Identifica el tiradero local.
-2. Organiza la visita.
-3. Prepara preguntas.
+1. Identificá el basural local.
+2. Organizá la visita.
+3. Prepará preguntas.
 
 ## Desarrollo
-1. **Visita** (40 min): Recorre las instalaciones.
+1. **Visita** (40 min): Recorré las instalaciones.
 2. **Análisis** (20 min): ¿Es sostenible?
-3. **Diálogo** (15 min): Habla con autoridades sobre soluciones.
-4. **Reflexión** (15 min): Comparte lo aprendido.
+3. **Diálogo** (15 min): Hablá con autoridades sobre soluciones.
+4. **Reflexión** (15 min): Compartí lo aprendido.
 
 ## Cierre
-- ¿Qué viste en el tiradero?
+- ¿Qué viste en el basural?
 - ¿Es sostenible?
 - ¿Qué soluciones se han propuesto?
 
@@ -175,16 +175,3 @@ Visita el tiradero de basura local, analiza su sostenibilidad y habla con las au
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

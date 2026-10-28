@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Inicio de los plásticos (Plásticos - Antes y ahora)"
+title: "Inicio de los Plásticos (Plásticos - Antes y Ahora)"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inicio-de-los-plasticos/"
 description: "Una actividad que ayuda a los jóvenes a comprender que el uso masivo del plástico es un fenómeno relativamente reciente, comparando el consumo actual con el de generaciones pasadas y reflexionando sobre alternativas."
-summary: "Investiga cómo el plástico reemplazó a los productos naturales en la vida cotidiana."
+summary: "Investigá cómo el plástico reemplazó a los productos naturales en la vida cotidiana."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -16,7 +16,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/inicio-de-los-plasticos.png"
+image: "/imagenes/actividades/inicio-de-los-plasticos.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -172,7 +172,7 @@ rama_rovers:
   - 29  # Indago en las causas y consecuencias de las injusticias sociales
 ---
 
-# ¡Inicio de los plásticos (Plásticos - Antes y ahora)!
+# ¡Inicio de los Plásticos (Plásticos - Antes y Ahora)!
 
 ## Resumen
 Esta actividad ayuda a los jóvenes a comprender que gran parte del uso del plástico que se trata como algo esencial es un fenómeno relativamente reciente. A través de entrevistas familiares y discusiones grupales, descubrirán cómo era la vida antes de la popularización del plástico y qué alternativas se utilizaban.
@@ -202,7 +202,7 @@ Esta actividad ayuda a los jóvenes a comprender que gran parte del uso del plá
 2. El facilitador anota en la pizarra los cambios generacionales identificados.
 3. Discuten:
    - ¿Qué productos plásticos reemplazaron a los naturales?
-   - ¿Por qué crees que el plástico reemplazó a esos productos?
+   - ¿Por qué creés que el plástico reemplazó a esos productos?
    - ¿Es posible volver a usar algunas de esas alternativas hoy?
 4. Conclusión: El uso del plástico es relativamente nuevo; muchas alternativas naturales y biodegradables todavía pueden usarse.
 
@@ -217,7 +217,7 @@ Esta actividad ayuda a los jóvenes a comprender que gran parte del uso del plá
 |----------------------|------------------------|---------------------|-------------------------|---------------------|
 | Bolsas de plástico | | | | |
 | Botella de agua de plástico | | | | |
-| Pajilla/popote de plástico | | | | |
+| Pajita de plástico | | | | |
 | Bolígrafo desechable | | | | |
 | Vasos y platos desechables | | | | |
 | Cepillo de dientes de plástico | | | | |
@@ -254,18 +254,3 @@ Los plásticos, debido a su propia naturaleza, se han convertido en una parte in
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

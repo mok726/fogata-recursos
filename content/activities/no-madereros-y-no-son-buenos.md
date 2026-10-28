@@ -4,7 +4,7 @@ title: "No Madereros y No Son Buenos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/no-madereros-y-no-son-buenos/"
-description: "Investiga productos forestales no madereros (PFNM) y su producción sostenible. Analiza el aceite de palma y otros PFNM en tu hogar."
+description: "Investigá productos forestales no madereros (PFNM) y su producción sostenible. Analizá el aceite de palma y otros PFNM en tu hogar."
 summary: "Investigación sobre productos forestales no madereros y consumo sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/no-madereros-y-no-son-buenos.png"
+image: "/imagenes/actividades/no-madereros-y-no-son-buenos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,35 +167,22 @@ rama_rovers:
 # No Madereros y No Son Buenos
 
 ## Resumen
-Investiga productos forestales no madereros (PFNM) y su producción sostenible. Analiza el aceite de palma y otros PFNM en tu hogar.
+Investigá productos forestales no madereros (PFNM) y su producción sostenible. Analizá el aceite de palma y otros PFNM en tu hogar.
 
 ## Preparación
-1. Prepara un cuaderno para anotar tus hallazgos.
-2. Revisa los productos de tu hogar para identificar aceite de palma y otros PFNM.
+1. Prepará un cuaderno para anotar tus hallazgos.
+2. Revisá los productos de tu hogar para identificar aceite de palma y otros PFNM.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre los PFNM y su producción.
-2. **Auditoría** (30 min): Revisa tu hogar y anota cuántos productos contienen aceite de palma y otros PFNM.
-3. **Análisis** (15 min): Investiga si estos productos fueron producidos sosteniblemente.
-4. **Propuesta** (15 min): Piensa en alternativas sostenibles.
-5. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
+1. **Investigación** (15 min): Aprendé sobre los PFNM y su producción.
+2. **Auditoría** (30 min): Revisá tu hogar y anotá cuántos productos contienen aceite de palma y otros PFNM.
+3. **Análisis** (15 min): Investigá si estos productos fueron producidos sosteniblemente.
+4. **Propuesta** (15 min): Pensá en alternativas sostenibles.
+5. **Presentación** (15 min): Compartí tus hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los productos forestales no madereros en tu hogar?
-- ¿Cómo puedes cambiar tus hábitos de consumo para apoyar la sostenibilidad?
+- ¿Cómo podés cambiar tus hábitos de consumo para apoyar la sostenibilidad?
 - ¿Qué compromiso adquieres para consumir de manera más responsable?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

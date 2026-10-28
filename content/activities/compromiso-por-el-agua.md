@@ -3,7 +3,7 @@ title: "Compromiso por el Agua"
 duration: "Proyecto de seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/compromiso-por-el-agua/"
-description: "Convence a amigos y familia a comprometerse a ahorrar agua y haz un seguimiento."
+description: "Convencé a amigos y familia a comprometerse a ahorrar agua y hacé un seguimiento."
 summary: "Certificados de compromiso para ahorrar agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/compromiso-por-el-agua.png"
+image: "/imagenes/actividades/compromiso-por-el-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -157,17 +157,17 @@ rama_rovers:
 # ¡Compromiso por el Agua!
 
 ## Resumen
-Convence a tus amigos y familia de ahorrar agua mediante certificados de compromiso, y haz un seguimiento de su progreso.
+Convencé a tus amigos y familia de ahorrar agua mediante certificados de compromiso, y hacé un seguimiento de su progreso.
 
 ## Preparación
-1. Diseña certificados de compromiso.
-2. Prepara una lista de acciones de ahorro de agua.
-3. Reúne materiales.
+1. Diseñá certificados de compromiso.
+2. Prepará una lista de acciones de ahorro de agua.
+3. Reuní materiales.
 
 ## Desarrollo
-1. **Diseño** (15 min): Crea los certificados de compromiso.
-2. **Presentación** (20 min): Explica la importancia de ahorrar agua y entrega certificados.
-3. **Seguimiento** (2 semanas): Revisa el progreso de cada persona.
+1. **Diseño** (15 min): Creá los certificados de compromiso.
+2. **Presentación** (20 min): Explicá la importancia de ahorrar agua y entregá certificados.
+3. **Seguimiento** (2 semanas): Revisá el progreso de cada persona.
 4. **Reconocimiento** (10 min): Premia las soluciones más creativas.
 
 ## Cierre
@@ -183,16 +183,3 @@ Convence a tus amigos y familia de ahorrar agua mediante certificados de comprom
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

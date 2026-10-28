@@ -1,9 +1,9 @@
 ---
-title: "Coser y remendar ropa"
+title: "Coser y Remendar Ropa"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/coser-y-remendar-ropa/"
-description: "Aprende a coser, remendar y adaptar la ropa."
+description: "Aprendé a coser, remendar y adaptar la ropa."
 summary: "Aprendizaje de costura y remiendo."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/coser-y-remendar-ropa.png"
+image: "/imagenes/actividades/coser-y-remendar-ropa.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -144,24 +144,24 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Coser y remendar ropa!
+# ¡Coser y Remendar Ropa!
 
 ## Resumen
-Aprende a coser, remendar y adaptar la ropa para darle una segunda vida.
+Aprendé a coser, remendar y adaptar la ropa para darle una segunda vida.
 
 ## Preparación
-- Consigue aguja, hilo y ropa para remendar.
-- Busca ayuda de un adulto si es necesario.
+- Conseguí aguja, hilo y ropa para remendar.
+- Buscá ayuda de un adulto si es necesario.
 
 ## Desarrollo
-1. **Aprendizaje** (20 min): Aprende técnicas básicas de costura.
+1. **Aprendizaje** (20 min): Aprendé técnicas básicas de costura.
 2. **Práctica** (25 min): Remienda o adapta una prenda.
-3. **Reflexión** (10 min): ¿Cómo te sientes al reparar en lugar de comprar?
-4. **Compartir** (5 min): Comparte lo aprendido con el grupo.
+3. **Reflexión** (10 min): ¿Cómo te sentís al reparar en lugar de comprar?
+4. **Compartir** (5 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la costura?
-- ¿Cómo te sientes al reparar ropa en lugar de comprar nueva?
+- ¿Cómo te sentís al reparar ropa en lugar de comprar nueva?
 
 ---
 ## Texto original completo de la actividad
@@ -171,16 +171,3 @@ Aprende a coser, remendar y adaptar la ropa para darle una segunda vida.
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

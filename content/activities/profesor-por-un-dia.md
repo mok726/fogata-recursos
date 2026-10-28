@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Profesor por un día"
+title: "Profesor por un Día"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/profesor-por-un-dia/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/profesor-por-un-dia.png"
+image: "/imagenes/actividades/profesor-por-un-dia.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -158,26 +158,26 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Profesor por un día!
+# ¡Profesor por un Día!
 
 ## Resumen
-¿Tienes hermanos o hermanas, primos o vecinos más jóvenes? Reúnelos para que les dictes una pequeña clase en la cual les enseñes sobre aquello que has aprendido acerca del cambio climático.
+¿Tenés hermanos o hermanas, primos o vecinos más jóvenes? Reunilos para que les dictes una pequeña clase en la cual les enseñes sobre aquello que has aprendido acerca del cambio climático.
 
 ## Preparación
-1. Reúne fotos y datos para hacer la clase interesante.
-2. Prepara actividades apropiadas para la edad.
-3. Organiza el espacio para la clase.
+1. Reuní fotos y datos para hacer la clase interesante.
+2. Prepará actividades apropiadas para la edad.
+3. Organizá el espacio para la clase.
 
 ## Desarrollo
-1. Enseña a niños más jóvenes sobre el cambio climático.
-2. Explica qué es el cambio climático y por qué es importante.
-3. Muestra fotos y datos para hacerla interesante.
-4. Haz actividades interactivas con ellos.
-5. Toma una pequeña prueba después.
+1. Enseñá a niños más jóvenes sobre el cambio climático.
+2. Explicá qué es el cambio climático y por qué es importante.
+3. Mostrá fotos y datos para hacerla interesante.
+4. Hacé actividades interactivas con ellos.
+5. Tomá una pequeña prueba después.
 
 ## Cierre
-1. Reflexiona: ¿Te gustó dar clases? ¿Tus estudiantes se interesaron?
-2. Comparte tu experiencia con el grupo.
+1. Reflexioná: ¿Te gustó dar clases? ¿Tus estudiantes se interesaron?
+2. Compartí tu experiencia con el grupo.
 3. Pregunta final: ¿Qué te enseñaron tus estudiantes?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ E.16 Profesor por un día. ¿Tienes hermanos o hermanas, primos o vecinos más j
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

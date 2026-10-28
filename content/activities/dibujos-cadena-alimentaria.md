@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dibujos de la cadena alimentaria"
+title: "Dibujos de la Cadena Alimentaria"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-cadena-alimentaria/"
-description: "Investiga las cadenas y redes alimentarias de tu área local y dibújalas. Conecta tu comida favorita con los productores y el ciclo del carbono."
-summary: "Explora las cadenas alimentarias locales."
+description: "Investigá las cadenas y redes alimentarias de tu área local y dibujalas. Conectá tu comida favorita con los productores y el ciclo del carbono."
+summary: "Explorá las cadenas alimentarias locales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dibujos-cadena-alimentaria.png"
+image: "/imagenes/actividades/dibujos-cadena-alimentaria.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -165,20 +165,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Dibujos de la cadena alimentaria!
+# ¡Dibujos de la Cadena Alimentaria!
 
 ## Resumen
-Investiga los animales y plantas que viven en tu comunidad. Descubre las cadenas alimentarias de tu área local y dibújalas. Luego, conecta tu comida favorita con la cadena alimentaria y el ciclo del carbono.
+Investigá los animales y plantas que viven en tu comunidad. Descubrí las cadenas alimentarias de tu área local y dibujalas. Luego, conectá tu comida favorita con la cadena alimentaria y el ciclo del carbono.
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono y las cadenas alimentarias en la sección de información de fondo.
-2. Piensa en los animales y plantas que viven en tu comunidad.
-3. Reúne materiales para dibujar.
+1. Leé la información sobre el ciclo del carbono y las cadenas alimentarias en la sección de información de fondo.
+2. Pensá en los animales y plantas que viven en tu comunidad.
+3. Reuní materiales para dibujar.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga algunos animales y plantas que viven en tu comunidad.
+Investigá algunos animales y plantas que viven en tu comunidad.
 
 **Preguntas guía:**
 - ¿Qué animales y plantas hay en tu área?
@@ -186,26 +186,26 @@ Investiga algunos animales y plantas que viven en tu comunidad.
 - ¿Qué cadena alimentaria se forma?
 
 ### Parte II - Dibujo
-Dibuja una cadena alimentaria de tu área local.
+Dibujá una cadena alimentaria de tu área local.
 
 **Ejemplo:** Pasto → Conejo → Zorro
 
-Si puedes, intenta dibujar una red alimentaria que muestre las conexiones entre varias cadenas alimentarias.
+Si podés, intenta dibujar una red alimentaria que muestre las conexiones entre varias cadenas alimentarias.
 
 ### Parte III - Tu comida favorita
-Piensa en tu comida favorita.
+Pensá en tu comida favorita.
 
 - ¿Incluye solo productores (vegetales, granos, frutas)?
 - ¿Incluye animales (carne, pescado)?
 
-Dibuja la cadena alimentaria desde los ingredientes de tu comida hasta los productores.
+Dibujá la cadena alimentaria desde los ingredientes de tu comida hasta los productores.
 
 ### Parte IV - Conexión con el carbono
 ¿Cómo se conecta la cadena alimentaria con el ciclo del carbono en tu comunidad?
 
 ## Cierre
 1. ¿Qué cadena alimentaria te pareció más interesante?
-2. ¿Dónde encajas tú en la cadena alimentaria?
+2. ¿Dónde encajas vos en la cadena alimentaria?
 3. ¿Cómo afecta el carbono a todos los seres vivos?
 
 ## Texto original completo de la actividad
@@ -236,20 +236,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

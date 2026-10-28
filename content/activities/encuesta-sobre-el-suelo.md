@@ -3,7 +3,7 @@ title: "Encuesta sobre el Suelo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/encuesta-sobre-el-suelo/"
-description: "Pregunta a las personas sobre el rol del suelo en sus vidas y crea una exposición."
+description: "Preguntá a las personas sobre el rol del suelo en sus vidas y creá una exposición."
 summary: "Encuesta sobre la importancia del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/encuesta-sobre-el-suelo.png"
+image: "/imagenes/actividades/encuesta-sobre-el-suelo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Materiales para exposición
 tools: []
 responsible:
@@ -154,18 +154,18 @@ rama_rovers:
 # ¡Encuesta sobre el Suelo!
 
 ## Resumen
-Pregunta a amigos, familia, maestros y vecinos sobre el rol del suelo en sus vidas y crea una exposición.
+Preguntá a amigos, familia, maestros y vecinos sobre el rol del suelo en sus vidas y creá una exposición.
 
 ## Preparación
-1. Prepara preguntas para la encuesta.
-2. Reúne datos sobre la importancia del suelo.
-3. Prepara materiales para la exposición.
+1. Prepará preguntas para la encuesta.
+2. Reuní datos sobre la importancia del suelo.
+3. Prepará materiales para la exposición.
 
 ## Desarrollo
-1. **Encuesta** (25 min): Entrevista a tantas personas como puedas.
+1. **Encuesta** (25 min): Entrevistá a tantas personas como puedas.
 2. **Análisis** (15 min): ¿Qué respuestas obtuviste?
-3. **Exposición** (15 min): Crea una exposición creativa con los resultados.
-4. **Casa abierta** (5 min): Invita a familia y amigos a verla.
+3. **Exposición** (15 min): Creá una exposición creativa con los resultados.
+4. **Casa abierta** (5 min): Invitá a familia y amigos a verla.
 
 ## Cierre
 - ¿Qué rol juega el suelo en la vida de las personas?
@@ -180,16 +180,3 @@ Pregunta a amigos, familia, maestros y vecinos sobre el rol del suelo en sus vid
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

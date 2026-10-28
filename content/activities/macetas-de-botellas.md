@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Macetas de botellas"
+title: "Macetas de Botellas"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/macetas-de-botellas/"
 description: "Los jóvenes transforman botellas de plástico en macetas colgantes para plantas, aprendiendo sobre la reutilización de residuos plásticos y la importancia de reducir el consumo de plásticos de un solo uso."
-summary: "Transforma botellas de plástico en macetas colgantes."
+summary: "Transformá botellas de plástico en macetas colgantes."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/macetas-de-botellas.png"
+image: "/imagenes/actividades/macetas-de-botellas.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -168,13 +168,13 @@ rama_rovers:
 
 ---
 
-# ¡Macetas de botellas!
+# ¡Macetas de Botellas!
 
 ## Resumen
-Las botellas PET de refrescos vienen en diferentes formas y tamaños. Estas botellas se pueden utilizar creativamente para crear macetas colgantes como una actividad de manualidades. Esta actividad anima a los jóvenes a reutilizar residuos plásticos y a cultivar sus propias plantas.
+Las botellas PET de gaseosa vienen en diferentes formas y tamaños. Estas botellas se pueden utilizar creativamente para crear macetas colgantes como una actividad de manualidades. Esta actividad anima a los jóvenes a reutilizar residuos plásticos y a cultivar sus propias plantas.
 
 ## Preparación
-1. Pedir a los participantes que traigan una botella de plástico de 1 litro (pueden ser de refresco o agua).
+1. Pedir a los participantes que traigan una botella de plástico de 1 litro (pueden ser de gaseosa o agua).
 2. Reunir tierra, semillas y cuerda.
 3. Tener tijeras disponibles para todos.
 4. Buscar un lugar apropiado para colgar las macetas.
@@ -197,7 +197,7 @@ Las botellas PET de refrescos vienen en diferentes formas y tamaños. Estas bote
 ## Cierre
 1. ¿Qué aprendiste sobre la reutilización del plástico?
 2. ¿Qué otras ideas se te ocurren para reutilizar botellas de plástico?
-3. ¿Cómo crees que el cultivo de plantas puede ayudar al medio ambiente?
+3. ¿Cómo creés que el cultivo de plantas puede ayudar al medio ambiente?
 
 ## Texto original completo de la actividad
 
@@ -228,18 +228,3 @@ Las botellas PET de refrescos vienen en diferentes formas y tamaños. Estas bote
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Es verde tu casa?"
+title: "¿Es Verde Tu Casa?"
 duration: "2 horas + seguimiento de 21 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-verde-tu-casa/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/es-verde-tu-casa.png"
+image: "/imagenes/actividades/es-verde-tu-casa.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¿Es verde tu casa?
+# ¿Es Verde Tu Casa?
 
 ## Resumen
 Evaluá qué tan verde es tu casa. ¿Tu familia compra cosas innecesarias? ¿Usan mucho empaque y plástico innecesario? ¿Desperdician comida? ¿Reciclan? ¿Usan el auto para todo, incluso cuando se puede caminar o andar en bicicleta? ¿Llevan bolsas reutilizables al supermercado?
@@ -213,20 +213,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

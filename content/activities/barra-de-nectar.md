@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Barra de néctar"
+title: "Barra de Néctar"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/barra-de-nectar/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/barra-de-nectar.png"
+image: "/imagenes/actividades/barra-de-nectar.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -164,25 +164,25 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Barra de néctar!
+# ¡Barra de Néctar!
 
 ## Resumen
-Prepara una 'barra de néctar' para abejas, avispas y moscas hambrientas. Cultiva un jardín con una mezcla de plantas que florecen y arbustos.
+Prepará una 'barra de néctar' para abejas, avispas y moscas hambrientas. Cultivá un jardín con una mezcla de plantas que florecen y arbustos.
 
 ## Preparación
-1. Elige un lugar adecuado lejos de entradas a edificios.
-2. Investiga plantas nativas que atraigan polinizadores.
-3. Reúne semillas o plantas.
+1. Elegí un lugar adecuado lejos de entradas a edificios.
+2. Investigá plantas nativas que atraigan polinizadores.
+3. Reuní semillas o plantas.
 
 ## Desarrollo
-1. Cultiva un jardín con una mezcla de plantas que florecen.
-2. Elige especies que florecen en épocas diferentes del año.
-3. Asegura un suministro de alimentos constante para los insectos.
-4. Coloca el jardín lejos de entradas a edificios y pasajes congestionados.
+1. Cultivá un jardín con una mezcla de plantas que florecen.
+2. Elegí especies que florecen en épocas diferentes del año.
+3. Asegurá un suministro de alimentos constante para los insectos.
+4. Colocá el jardín lejos de entradas a edificios y pasajes congestionados.
 
 ## Cierre
-1. Observa los insectos que visitan tu jardín.
-2. Registra las especies que ves.
+1. Observá los insectos que visitan tu jardín.
+2. Registrá las especies que ves.
 3. Pregunta final: ¿Qué insectos polinizadores visitaron tu jardín?
 
 ## Texto original completo de la actividad
@@ -191,16 +191,3 @@ A.07 Prepara una 'barra de néctar' para abejas, avispas y moscas hambrientas. C
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fibras naturales y sintéticas"
+title: "Fibras Naturales y Sintéticas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fibras-naturales-y-sinteticas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/fibras-naturales-y-sinteticas.png"
+image: "/imagenes/actividades/fibras-naturales-y-sinteticas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,26 +160,26 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Fibras naturales y sintéticas!
+# ¡Fibras Naturales y Sintéticas!
 
 ## Resumen
-Mira las etiquetas de tu ropa. Haz una lista de todos los diferentes materiales que has encontrado en tu ropa. Divídelos en dos categorías, natural y sintético. ¿Cuáles son las características de las fibras naturales y las de las fibras sintéticas? ¿Dónde se cultivan las fibras naturales? ¿Cuál dura más, la tela natural o sintética? ¿Por qué los fabricantes de ropa combinan diferentes tipos de fibras?
+Mirá las etiquetas de tu ropa. Hacé una lista de todos los diferentes materiales que has encontrado en tu ropa. Dividilos en dos categorías, natural y sintético. ¿Cuáles son las características de las fibras naturales y las de las fibras sintéticas? ¿Dónde se cultivan las fibras naturales? ¿Cuál dura más, la tela natural o sintética? ¿Por qué los fabricantes de ropa combinan diferentes tipos de fibras?
 
 ## Preparación
-1. Reúne diferentes prendas de ropa.
-2. Prepara papel y lápices para registrar.
-3. Organiza los grupos de trabajo.
+1. Reuní diferentes prendas de ropa.
+2. Prepará papel y lápices para registrar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Revisa las etiquetas de tu ropa.
-2. Haz una lista de los materiales encontrados.
-3. Clasifica en naturales y sintéticos.
-4. Investiga: ¿Cuáles son las características de cada tipo?
-5. Investiga: ¿Dónde se cultivan las fibras naturales?
+1. Revisá las etiquetas de tu ropa.
+2. Hacé una lista de los materiales encontrados.
+3. Clasificá en naturales y sintéticos.
+4. Investigá: ¿Cuáles son las características de cada tipo?
+5. Investigá: ¿Dónde se cultivan las fibras naturales?
 
 ## Cierre
-1. Escribe un relato breve o cuéntale a tus profesores o dirigentes tus hallazgos.
-2. Reflexiona sobre el impacto ambiental de la ropa.
+1. Escribí un relato breve o contale a tus profesores o dirigentes tus hallazgos.
+2. Reflexioná sobre el impacto ambiental de la ropa.
 3. Pregunta final: ¿Qué tipo de fibra es más sostenible y por qué?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ C.19 Mira las etiquetas de tu ropa. Haz una lista de todos los diferentes materi
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

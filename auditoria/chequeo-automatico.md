@@ -1,0 +1,301 @@
+# Chequeo automático de actividades
+
+Generado por `auditoria/scripts/chequeo_automatico.py`. 1041 archivos, 280 con observaciones.
+
+## Resumen por tipo
+
+| Tipo | Cantidad |
+|---|---|
+| campo vacío/faltante | 261 |
+| título duplicado con | 18 |
+| `original` no es booleano | 2 |
+| activity_code `agua-A32` duplicado con | 2 |
+| activity_code `agua-B41` duplicado con | 2 |
+| permalink `/activities/comestibles-energeticos/` no coincide con el nombre de archivo | 1 |
+| referencia sin url | 1 |
+| falta sección `## Cierre` | 1 |
+| sin `image_prompt` | 1 |
+| falta sección `## Preparación` | 1 |
+
+## Detalle
+
+- **acampada-saludable**: campo vacío/faltante: `duration`
+- **activismo**: campo vacío/faltante: `duration`
+- **agricultores-del-bosque**: campo vacío/faltante: `duration`
+- **agua-alrededor-del-mundo**: título duplicado con: agua-alrededor-del-mundo-agua
+- **agua-alrededor-del-mundo-agua**: título duplicado con: agua-alrededor-del-mundo; activity_code `agua-A32` duplicado con: agua-por-todas-partes
+- **agua-en-las-noticias**: título duplicado con: agua-por-todas-partes; activity_code `agua-B41` duplicado con: tratamiento-del-agua
+- **agua-por-todas-partes**: título duplicado con: agua-en-las-noticias; activity_code `agua-A32` duplicado con: agua-alrededor-del-mundo-agua
+- **al-blog-bosques**: campo vacío/faltante: `duration`
+- **album-sobre-usos-del-oceano**: campo vacío/faltante: `duration`
+- **alimentos-de-la-realeza**: campo vacío/faltante: `duration`
+- **alimentos-del-bosque**: campo vacío/faltante: `duration`
+- **alimentos-desperdiciados**: campo vacío/faltante: `duration`
+- **alimentos-extranjeros**: campo vacío/faltante: `duration`
+- **alimentos-justos**: campo vacío/faltante: `duration`
+- **alza-tu-voz**: campo vacío/faltante: `duration`
+- **alzar-el-vuelo**: campo vacío/faltante: `duration`
+- **amenazas-naturales**: campo vacío/faltante: `duration`
+- **analisis-de-suelo**: campo vacío/faltante: `duration`
+- **anillos-anuales**: campo vacío/faltante: `duration`
+- **animales-activos**: campo vacío/faltante: `duration`
+- **aprendan-mas-cosas**: campo vacío/faltante: `duration`
+- **aprende-a-comprar**: campo vacío/faltante: `duration`
+- **aprende-a-conseguir-agua-potable**: campo vacío/faltante: `duration`
+- **aprender-jugando**: campo vacío/faltante: `duration`
+- **arbol-de-deseos**: campo vacío/faltante: `duration`
+- **arboles-energeticos**: campo vacío/faltante: `duration`
+- **aventuras-al-aire-libre**: campo vacío/faltante: `duration`
+- **barcos-y-marineros**: campo vacío/faltante: `duration`
+- **bichos**: campo vacío/faltante: `duration`
+- **biopiratas**: campo vacío/faltante: `duration`
+- **bolsas-de-arroz**: campo vacío/faltante: `duration`
+- **bosques-alrededor-del-mundo**: campo vacío/faltante: `duration`
+- **bosques-en-llamas**: campo vacío/faltante: `duration`
+- **bosques-justos**: campo vacío/faltante: `duration`
+- **bosques-llenos-de-vida**: campo vacío/faltante: `duration`
+- **bosques-politicos**: campo vacío/faltante: `duration`
+- **bosques-sagrados**: campo vacío/faltante: `duration`
+- **cadenas-alimentarias**: campo vacío/faltante: `duration`
+- **cambiando-con-el-clima**: campo vacío/faltante: `duration`
+- **campana-por-una-dieta-sana-y-equilibrada**: campo vacío/faltante: `duration`
+- **canta-con-el-bosque**: campo vacío/faltante: `duration`
+- **canta-para-la-cena**: campo vacío/faltante: `duration`
+- **cantad-una-cancion-con-accion**: campo vacío/faltante: `duration`
+- **carne-de-animales-silvestres**: campo vacío/faltante: `duration`
+- **carrera-contra-el-hambre**: campo vacío/faltante: `duration`
+- **carta-para-ejercer-presion**: campo vacío/faltante: `duration`
+- **cazadores-de-mitos**: campo vacío/faltante: `duration`
+- **censo-de-vida-marina**: campo vacío/faltante: `duration`
+- **charla-sobre-los-arboles**: campo vacío/faltante: `duration`
+- **charlas-sobre-salud**: campo vacío/faltante: `duration`
+- **choque-de-culturas**: campo vacío/faltante: `duration`
+- **cinco-cosas-buenas**: campo vacío/faltante: `duration`
+- **circulo-virtuoso-vs-circulo-vicioso**: campo vacío/faltante: `duration`
+- **clases-de-animales**: campo vacío/faltante: `duration`
+- **comer-alimentos**: campo vacío/faltante: `duration`
+- **comestibles-energetico**: permalink `/activities/comestibles-energeticos/` no coincide con el nombre de archivo
+- **comida-internacional-a-la-suerte-de-la-olla**: campo vacío/faltante: `duration`
+- **comida-sedienta**: campo vacío/faltante: `duration`
+- **comidamania**: campo vacío/faltante: `duration`
+- **comidas-favoritas**: campo vacío/faltante: `duration`
+- **como-pescan-los-pescadores**: campo vacío/faltante: `duration`
+- **compra-pescado-de-manera-selectiva**: campo vacío/faltante: `duration`
+- **compras-sostenibles**: campo vacío/faltante: `duration`
+- **comunicacion-alternativa**: campo vacío/faltante: `duration`
+- **confesiones-de-los-consumidores**: campo vacío/faltante: `duration`
+- **construyendo-un-hidrofono**: campo vacío/faltante: `duration`
+- **construyendo-un-telescopio-submarino**: campo vacío/faltante: `duration`
+- **contacta-a-los-tomadores-de-decisiones**: campo vacío/faltante: `duration`; `original` no es booleano: 'False'
+- **continentes-hambrientos**: campo vacío/faltante: `duration`
+- **conviertete-en-un-disenador-grafico**: campo vacío/faltante: `duration`
+- **corrientes-de-resaca**: campo vacío/faltante: `duration`
+- **corrientes-oceanicas**: campo vacío/faltante: `duration`
+- **crea-un-rincon-de-los-nutrientes**: campo vacío/faltante: `duration`
+- **cuanto-plastico-uso**: campo vacío/faltante: `references`
+- **cuanto-se-de-ecologia**: campo vacío/faltante: `references`
+- **cuidado-con-lo-que-desperdicias**: campo vacío/faltante: `duration`
+- **de-donde-viene-tu-comida**: campo vacío/faltante: `duration`
+- **deforestacion-y-degradacion**: campo vacío/faltante: `duration`
+- **del-campo-a-tu-plato**: campo vacío/faltante: `duration`
+- **delicias-del-mar**: campo vacío/faltante: `duration`
+- **descubre-los-alimentos-enriquecidos**: campo vacío/faltante: `duration`
+- **desenterrando-la-suciedad**: campo vacío/faltante: `duration`
+- **detectives-de-infracciones-contra-el-marketing**: campo vacío/faltante: `duration`
+- **diario-de-alimentos-biodiversidad**: título duplicado con: diario-de-alimentos-polinizadores
+- **diario-de-alimentos-polinizadores**: título duplicado con: diario-de-alimentos-biodiversidad
+- **diversion-con-agua**: título duplicado con: diversion-con-agua-agua
+- **diversion-con-agua-agua**: título duplicado con: diversion-con-agua
+- **diversion-en-la-costa**: campo vacío/faltante: `duration`
+- **dj-por-un-dia**: campo vacío/faltante: `duration`
+- **donde-esta-el-agua-bosques**: campo vacío/faltante: `duration`
+- **dramatizacion-sobre-el-sistema-alimentario**: campo vacío/faltante: `duration`
+- **dulces-suenos**: campo vacío/faltante: `duration`
+- **ecoturismo**: campo vacío/faltante: `duration`
+- **educa-a-tu-comunidad**: campo vacío/faltante: `duration`
+- **educacion-anti-invasion**: campo vacío/faltante: `duration`
+- **el-arbol-del-hambre**: campo vacío/faltante: `duration`
+- **el-banquete-del-hambre**: campo vacío/faltante: `duration`
+- **el-cuerpo-humano-y-la-comida**: campo vacío/faltante: `duration`
+- **el-debate-de-la-dieta**: campo vacío/faltante: `duration`
+- **el-derecho-a-la-alimentacion**: campo vacío/faltante: `duration`
+- **el-destino-de-los-bosques**: campo vacío/faltante: `duration`
+- **el-diario-de-comidas**: campo vacío/faltante: `duration`
+- **el-genero-y-el-hambre**: campo vacío/faltante: `duration`
+- **el-maestro-del-menu**: campo vacío/faltante: `duration`
+- **el-manejo-de-los-cultivos**: campo vacío/faltante: `duration`
+- **el-paisaje-sonoro-del-bosque**: campo vacío/faltante: `duration`
+- **el-tiempo-y-la-marea**: campo vacío/faltante: `duration`
+- **el-trabajo-del-agua**: campo vacío/faltante: `duration`
+- **empleos-forestales**: campo vacío/faltante: `duration`
+- **en-la-cima-del-mundo**: campo vacío/faltante: `duration`
+- **en-movimiento**: campo vacío/faltante: `duration`
+- **en-sus-zapatos**: campo vacío/faltante: `duration`
+- **encuentra-tu-camino**: campo vacío/faltante: `duration`
+- **entender-la-obesidad**: campo vacío/faltante: `duration`
+- **entrenamiento-cerebral**: campo vacío/faltante: `duration`
+- **entrevista-con-un-experto**: campo vacío/faltante: `duration`
+- **escribe-cartas**: campo vacío/faltante: `duration`
+- **esculpir-un-desastre**: campo vacío/faltante: `duration`
+- **especies-que-usan-el-agua-inteligentemente**: campo vacío/faltante: `duration`
+- **estudio-evolutivo**: título duplicado con: estudio-evolutivo-polinizadores
+- **estudio-evolutivo-polinizadores**: título duplicado con: estudio-evolutivo
+- **estudio-sobre-el-cambio-climatico**: campo vacío/faltante: `duration`
+- **examina-tu-cocina**: campo vacío/faltante: `duration`
+- **excursion-de-campo**: título duplicado con: excursion-de-campo-polinizadores
+- **excursion-de-campo-polinizadores**: título duplicado con: excursion-de-campo
+- **exhibicion-de-posteres**: campo vacío/faltante: `duration`
+- **experimentos-con-agua-marina**: campo vacío/faltante: `duration`
+- **exploracion-oceanica**: campo vacío/faltante: `duration`
+- **extrayendo-el-agua-dulce**: campo vacío/faltante: `duration`
+- **extrayendo-la-sal**: campo vacío/faltante: `duration`
+- **farmacia-forestal**: campo vacío/faltante: `duration`
+- **fiesta-de-la-salud**: campo vacío/faltante: `duration`
+- **fiesta-por-los-bosques**: campo vacío/faltante: `duration`
+- **filmando-la-costa**: campo vacío/faltante: `duration`
+- **flash-informativo**: campo vacío/faltante: `duration`
+- **fondos-para-los-bosques**: campo vacío/faltante: `duration`
+- **galeria-de-arte-forestal**: campo vacío/faltante: `duration`
+- **guardabosques**: campo vacío/faltante: `duration`
+- **guia-rapida-de-cocina-facil**: campo vacío/faltante: `duration`
+- **guion-grafico-sobre-la-trampa-del-hambre**: campo vacío/faltante: `duration`
+- **habitantes-indigenas**: campo vacío/faltante: `duration`
+- **habitats-marinos**: campo vacío/faltante: `duration`
+- **hablar-sobre-tabus**: campo vacío/faltante: `duration`
+- **hacer-para-aprender**: campo vacío/faltante: `duration`
+- **haciendo-niebla**: campo vacío/faltante: `duration`
+- **haciendo-olas**: campo vacío/faltante: `duration`
+- **hambre-en-el-hogar**: campo vacío/faltante: `duration`
+- **haz-abono-con-la-basura-organica**: campo vacío/faltante: `duration`
+- **haz-ruido**: campo vacío/faltante: `duration`
+- **haz-un-collage**: campo vacío/faltante: `duration`
+- **haz-un-libro-de-recetas**: campo vacío/faltante: `duration`
+- **haz-una-caminata**: campo vacío/faltante: `duration`
+- **haz-una-conserva**: campo vacío/faltante: `duration`
+- **haz-una-nube**: campo vacío/faltante: `duration`
+- **historieta-sobre-el-hambre**: campo vacío/faltante: `duration`
+- **hora-del-concurso**: campo vacío/faltante: `duration`
+- **informe-de-prensa**: campo vacío/faltante: `duration`
+- **inicio-de-los-plasticos**: referencia sin url: 'Hacia el uso responsable de los plásticos: Reducir, reutilizar, reciclar'
+- **inspiracion-literaria**: campo vacío/faltante: `duration`
+- **intercambio-internacional-de-alimentos**: campo vacío/faltante: `duration`
+- **intercambios**: campo vacío/faltante: `duration`
+- **invasoras**: campo vacío/faltante: `duration`
+- **inventen-un-juego**: campo vacío/faltante: `duration`
+- **investigacion-sobre-la-malnutricion**: campo vacío/faltante: `duration`
+- **investiguen-las-etiquetas-de-los-alimentos**: campo vacío/faltante: `duration`
+- **jardineria-verde**: campo vacío/faltante: `duration`
+- **juega-a-las-adivinanzas**: campo vacío/faltante: `duration`
+- **juega-por-la-alimentacion**: campo vacío/faltante: `duration`
+- **junta-cuida-pesa**: campo vacío/faltante: `references`
+- **la-basura-en-su-lugar**: campo vacío/faltante: `references`
+- **la-cometa-de-la-alimentacion**: campo vacío/faltante: `duration`
+- **la-encuesta-de-los-habitos-alimenticios**: campo vacío/faltante: `duration`
+- **la-guia-alimentaria**: campo vacío/faltante: `duration`
+- **la-juerga-de-las-compras**: campo vacío/faltante: `duration`
+- **la-seguridad-alimentaria-en-accion**: campo vacío/faltante: `duration`
+- **la-seguridad-es-primero**: campo vacío/faltante: `duration`
+- **la-verdad-sobre-los-germenes**: campo vacío/faltante: `duration`
+- **la-vida-en-los-arboles**: campo vacío/faltante: `duration`
+- **las-capas-del-bosque**: campo vacío/faltante: `duration`
+- **linea-de-tiempo-internacional**: campo vacío/faltante: `duration`
+- **local-vs-importado**: campo vacío/faltante: `duration`
+- **los-biomas-son-hogares**: campo vacío/faltante: `duration`
+- **los-bosques-a-traves-de-las-eras**: campo vacío/faltante: `duration`
+- **los-bosques-bajo-amenaza**: campo vacío/faltante: `duration`
+- **los-bosques-y-el-cambio-climatico**: campo vacío/faltante: `duration`
+- **los-bosques-y-el-fuego**: campo vacío/faltante: `duration`
+- **los-bosques-y-las-nnuu**: campo vacío/faltante: `duration`
+- **los-bosques-y-tu**: campo vacío/faltante: `duration`
+- **los-centinelas-de-la-salud**: campo vacío/faltante: `duration`
+- **los-favoritos-del-mar**: campo vacío/faltante: `duration`
+- **los-lunes-sin-carne**: campo vacío/faltante: `duration`
+- **los-perfiles-del-hambre**: campo vacío/faltante: `duration`
+- **los-precios-de-los-alimentos**: campo vacío/faltante: `duration`
+- **manglares-poderosos**: campo vacío/faltante: `duration`
+- **mantenganse-limpios**: campo vacío/faltante: `duration`
+- **mas-alla-de-los-documentales**: campo vacío/faltante: `duration`
+- **medios-de-subsistencia-alternativos**: campo vacío/faltante: `duration`
+- **mejora-tu-dieta-con-la-biodiversidad**: campo vacío/faltante: `duration`
+- **menos-basura**: título duplicado con: menos-basura-bosques
+- **menos-basura-bosques**: campo vacío/faltante: `duration`; título duplicado con: menos-basura
+- **mensaje-de-video**: campo vacío/faltante: `duration`
+- **mimica**: campo vacío/faltante: `duration`
+- **mira-las-etiquetas**: campo vacío/faltante: `duration`
+- **modelo-submarino**: campo vacío/faltante: `duration`
+- **necesidades-y-deseos**: título duplicado con: necesidades-y-deseos-plastico
+- **necesidades-y-deseos-plastico**: título duplicado con: necesidades-y-deseos
+- **negocios-sospechosos**: campo vacío/faltante: `duration`
+- **no-madereros-y-no-son-buenos**: campo vacío/faltante: `duration`
+- **nuestro-agua-tambien-enfermarse**: falta sección `## Cierre`
+- **nuestro-oceano**: campo vacío/faltante: `duration`
+- **oiga-doctor**: campo vacío/faltante: `duration`
+- **olas-verdes**: campo vacío/faltante: `duration`
+- **organiza-un-evento-de-narracion-de-historias**: campo vacío/faltante: `duration`
+- **paisajes-en-peligro**: campo vacío/faltante: `duration`
+- **parcelas-de-vegetacion**: campo vacío/faltante: `duration`
+- **patitas-limpias**: campo vacío/faltante: `branch`; campo vacío/faltante: `references`; `original` no es booleano: 'true'; sin `image_prompt`
+- **patitos-de-hule**: campo vacío/faltante: `duration`
+- **patrones-de-corteza**: campo vacío/faltante: `duration`
+- **perdiendo-biodiversidad**: campo vacío/faltante: `duration`
+- **pinta-un-bodegon-de-comida-de-temporada**: campo vacío/faltante: `duration`
+- **pista-de-obstaculos-del-hambre**: campo vacío/faltante: `duration`
+- **planificador-de-comidas**: campo vacío/faltante: `duration`
+- **planta-tus-propias-verduras**: campo vacío/faltante: `duration`
+- **planta-un-arbol**: campo vacío/faltante: `duration`
+- **plantulas**: campo vacío/faltante: `duration`
+- **platos-para-compartir**: campo vacío/faltante: `duration`
+- **poesia-sobre-el-hambre**: campo vacío/faltante: `duration`
+- **prepara-un-picnic-verde**: campo vacío/faltante: `duration`
+- **prepara-una-infusion**: campo vacío/faltante: `duration`
+- **presentaciones-sobre-desastres-naturales**: campo vacío/faltante: `duration`
+- **profundicen-en-las-diferencias**: campo vacío/faltante: `duration`
+- **prueba-boscosa**: campo vacío/faltante: `duration`
+- **que-animal-soy-yo**: campo vacío/faltante: `duration`
+- **que-empiece-el-juego**: campo vacío/faltante: `duration`
+- **quien-se-come-a-quien**: campo vacío/faltante: `duration`; título duplicado con: quien-se-come-a-quien-oceano
+- **quien-se-come-a-quien-oceano**: campo vacío/faltante: `duration`; título duplicado con: quien-se-come-a-quien
+- **rastreadores-de-senderos**: campo vacío/faltante: `duration`
+- **recaudar-fondos**: campo vacío/faltante: `duration`
+- **redd**: campo vacío/faltante: `duration`
+- **redes**: campo vacío/faltante: `duration`
+- **redescubre-alimentos-olvidados**: campo vacío/faltante: `duration`
+- **reduce-reusa-recicla**: campo vacío/faltante: `duration`
+- **reportaje-sobre-el-carbono**: campo vacío/faltante: `duration`
+- **resolucion-de-plastico**: falta sección `## Preparación`
+- **rockea-el-bosque**: campo vacío/faltante: `duration`
+- **se-voluntario-en-una-organizacion-comunitaria**: campo vacío/faltante: `duration`
+- **si-si-no**: campo vacío/faltante: `duration`
+- **sillas-hambrientas**: campo vacío/faltante: `duration`
+- **soluciones-que-empoderan**: campo vacío/faltante: `duration`
+- **sonidos-y-senales**: campo vacío/faltante: `duration`
+- **supervisar-una-dieta-equilibrada**: campo vacío/faltante: `duration`
+- **tala-de-arboles**: campo vacío/faltante: `duration`
+- **taller-botella-de-amor**: campo vacío/faltante: `references`
+- **taller-de-lenos-ecologicos**: campo vacío/faltante: `references`
+- **taller-de-papel-ecologico**: campo vacío/faltante: `references`
+- **taller-de-tejido-papel**: campo vacío/faltante: `references`
+- **taller-de-tejido-plastico**: campo vacío/faltante: `references`
+- **taller-huerta-de-botella**: campo vacío/faltante: `references`
+- **taller-macetas-y-germinadoras**: campo vacío/faltante: `references`
+- **tira-comica-sobre-el-carbon**: campo vacío/faltante: `duration`
+- **trabajo-voluntario**: campo vacío/faltante: `duration`
+- **transmision-sobre-tsunamis**: campo vacío/faltante: `duration`
+- **tratamiento-del-agua**: activity_code `agua-B41` duplicado con: agua-en-las-noticias
+- **trepando-arboles**: campo vacío/faltante: `duration`
+- **tu-bosque-favorito**: campo vacío/faltante: `duration`
+- **tu-deporte**: campo vacío/faltante: `duration`
+- **tus-ods**: campo vacío/faltante: `duration`
+- **ubicacion-del-oceano**: campo vacío/faltante: `duration`
+- **un-bosque-para-todas-las-estaciones**: campo vacío/faltante: `duration`
+- **un-dia-en-la-vida-de-un-pescador**: campo vacío/faltante: `duration`
+- **un-dolar-al-dia**: campo vacío/faltante: `duration`
+- **un-mapa-de-la-costa**: campo vacío/faltante: `duration`
+- **un-mundo-sin-hambre**: campo vacío/faltante: `duration`
+- **usando-la-madera**: campo vacío/faltante: `duration`
+- **vegetacion-unica**: campo vacío/faltante: `duration`
+- **vida-marina**: campo vacío/faltante: `duration`
+- **visita-a-la-costa**: campo vacío/faltante: `duration`
+- **visita-un-centro-de-salud**: campo vacío/faltante: `duration`
+- **visita-una-planta-de-procesado-de-alimentos**: campo vacío/faltante: `duration`
+- **voluntario-por-los-bosques**: campo vacío/faltante: `duration`

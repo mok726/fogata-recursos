@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contacta a los tomadores de decisiones sobre el cambio climatico"
+title: "Contactá a los Tomadores de Decisiones sobre el Cambio Climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/contacta-a-los-tomadores-de-decisiones-cambioclimatico/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/contacta-a-los-tomadores-de-decisiones-cambioclimatico.png"
+image: "/imagenes/actividades/contacta-a-los-tomadores-de-decisiones-cambioclimatico.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -163,28 +163,28 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Contacta a los tomadores de decisiones!
+# ¡Contactá a los Tomadores de Decisiones!
 
 ## Resumen
 Además de las agencias de las Naciones Unidas, existen otras organizaciones que también trabajan para afrontar el cambio climático. Desde agencias de investigación hasta empresas privadas, todo tipo de organizaciones están ocupadas buscando soluciones.
 
 ## Preparación
-1. Investiga sobre organizaciones que trabajan en cambio climático.
-2. Identifica un tema que te interese.
-3. Prepara tu argumento o carta.
+1. Investigá sobre organizaciones que trabajan en cambio climático.
+2. Identificá un tema que te interese.
+3. Prepará tu argumento o carta.
 
 ## Desarrollo
-1. Aprende sobre algunos actores y tomadores de decisiones.
-2. Identifica una cuestión en la cual están trabajando y que realmente te interesa.
-3. Piensa: ¿Por qué es esta cuestión importante para ti?
-4. Piensa: ¿Cuál podría ser una posible solución?
-5. Comparte tu opinión sobre una política de cambio climático específica con tu gobierno o funcionario electo.
-6. Puedes escribir, llamar por teléfono o visitarlo personalmente.
+1. Aprendé sobre algunos actores y tomadores de decisiones.
+2. Identificá una cuestión en la cual están trabajando y que realmente te interesa.
+3. Pensá: ¿Por qué es esta cuestión importante para vos?
+4. Pensá: ¿Cuál podría ser una posible solución?
+5. Compartí tu opinión sobre una política de cambio climático específica con tu gobierno o funcionario electo.
+6. Podés escribir, llamar por teléfono o visitarlo personalmente.
 
 ## Cierre
 1. Para un mayor impacto, envía una copia de tu carta a un periódico local/nacional.
-2. Reflexiona sobre la experiencia.
-3. Pregunta final: ¿Cómo te sientes al hacer escuchar tu voz?
+2. Reflexioná sobre la experiencia.
+3. Pregunta final: ¿Cómo te sentís al hacer escuchar tu voz?
 
 ## Texto original completo de la actividad
 E.20 Contacta a los tomadores de decisiones. Además de las agencias de las Naciones Unidas, existen otras organizaciones que también trabajan para afrontar el cambio climático. Desde agencias de investigación hasta empresas privadas, todo tipo de organizaciones están ocupadas buscando soluciones. Aprende sobre algunos de estos actores y tomadores de decisiones. ¿Cuál es una cuestión en la cual están trabajando y que realmente te interesa? ¿Por qué es esta cuestión importante para ti? ¿Cuál podría ser una posible solución? Comparte tu opinión sobre una política de cambio climático específica con tu gobierno o funcionario electo. Puedes escribir, llamar por teléfono o visitarlo personalmente para contactarlo. Escribe a algunos políticos y muestra tu preocupación por el cambio climático (mira un posible ejemplo en la próxima página). Para un mayor impacto, podrías enviar también una copia de tu carta a un periódico local/nacional. Recuerda incluir tu dirección y la fecha en la parte superior de la carta. Es una buena idea hacer personal a la carta al incluir cuestiones locales.
@@ -192,16 +192,3 @@ E.20 Contacta a los tomadores de decisiones. Además de las agencias de las Naci
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pensar en voz alta"
+title: "Pensar en Voz Alta"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pensar-en-voz-alta/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pensar-en-voz-alta.png"
+image: "/imagenes/actividades/pensar-en-voz-alta.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -34,7 +34,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Papel
-  - Lápices o bolígrafos
+  - Lápices o lapiceras
   - Colores (opcional)
 tools: []
 responsible:
@@ -159,26 +159,26 @@ rama_rovers:
   - 34  # Me cuestiono sobre las grandes preguntas
 ---
 
-# ¡Pensar en voz alta!
+# ¡Pensar en Voz Alta!
 
 ## Resumen
-¿Cómo te sientes tú en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo puedes hacer una diferencia o sólo no te interesa? Escribe un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos.
+¿Cómo te sentís vos en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo podés hacer una diferencia o sólo no te interesa? Escribí un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos.
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Crea un ambiente tranquilo para la reflexión.
-3. Lee en voz alta algunas preguntas guía para inspirar la escritura.
+1. Prepará los materiales de escritura.
+2. Creá un ambiente tranquilo para la reflexión.
+3. Leé en voz alta algunas preguntas guía para inspirar la escritura.
 
 ## Desarrollo
-1. Piensa en cómo te sientes sobre el cambio climático.
-2. Elige un formato para expresar tus pensamientos: ensayo, historia, tira cómica o poema.
-3. Escribe sobre por qué te sientes de la manera que lo haces.
-4. Comparte tus ideas y sentimientos con tus amigos, familia, comunidad e incluso tu gobierno.
+1. Pensá en cómo te sentís sobre el cambio climático.
+2. Elegí un formato para expresar tus pensamientos: ensayo, historia, tirá cómica o poema.
+3. Escribí sobre por qué te sentís de la manera que lo hacés.
+4. Compartí tus ideas y sentimientos con tus amigos, familia, comunidad e incluso tu gobierno.
 
 ## Cierre
-1. Comparte tu creación con el grupo si te sientes cómodo haciéndolo.
-2. Reflexiona sobre cómo expresar tus sentimientos te ayuda a procesar el tema.
-3. Pregunta final: ¿Qué aprendiste sobre ti mismo al escribir sobre tus sentimientos?
+1. Compartí tu creación con el grupo si te sentís cómodo haciéndolo.
+2. Reflexioná sobre cómo expresar tus sentimientos te ayuda a procesar el tema.
+3. Pregunta final: ¿Qué aprendiste sobre vos mismo al escribir sobre tus sentimientos?
 
 ## Texto original completo de la actividad
 A.05 PENSAR EN VOZ ALTA. ¿Cómo te sientes tú en relación con el cambio climático? ¿Estás preocupado, emocionado sobre cómo puedes hacer una diferencia o sólo no te interesa? Escribe un ensayo corto, una historia, una tira cómica o un poema acerca de tus pensamientos y sentimientos sobre el cambio climático y explica por qué te sientes de la manera que lo haces. Comparte tus ideas y sentimientos con tus amigos, familia, comunidad e incluso tu gobierno.
@@ -186,16 +186,3 @@ A.05 PENSAR EN VOZ ALTA. ¿Cómo te sientes tú en relación con el cambio clim�
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/celebra-el-dia-de-mi-ciudad.png"
+image: "/imagenes/actividades/celebra-el-dia-de-mi-ciudad.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -178,7 +178,7 @@ Organizá un evento para celebrar tu ciudad e inspirar a los residentes a hacerl
 1. Promové el evento con volantes y carteles.
 2. Organizá el evento con actividades inclusivas y culturalmente sensibles.
 3. Asegurate de incluir apoyo lingüístico y características de accesibilidad.
-4. Creá un hashtag para tu evento y promovélo en redes sociales.
+4. Creá un hashtag para tu evento y promovelo en redes sociales.
 
 ## Cierre
 1. Reflexioná sobre el éxito del evento.
@@ -237,20 +237,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

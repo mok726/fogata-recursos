@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Blog de biodiversidad"
+title: "Blog de Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/blog-de-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/blog-de-biodiversidad.png"
+image: "/imagenes/actividades/blog-de-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,25 +160,25 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Blog de biodiversidad!
+# ¡Blog de Biodiversidad!
 
 ## Resumen
-Inicia un blog sobre la biodiversidad (un diario en línea donde los lectores pueden comentar acerca de las entradas del diario) o un diario. Publica consejos sobre lo que la juventud puede hacer por la biodiversidad. Si prefieres no trabajar en internet, comparte tu blog o tu diario con el periódico de tu escuela o con la estación de radio de tu escuela.
+Iniciá un blog sobre la biodiversidad (un diario en línea donde los lectores pueden comentar acerca de las entradas del diario) o un diario. Publicá consejos sobre lo que la juventud puede hacer por la biodiversidad. Si preferís no trabajar en internet, compartí tu blog o tu diario con el periódico de tu escuela o con la estación de radio de tu escuela.
 
 ## Preparación
-1. Elige una plataforma para el blog.
-2. Prepara contenido inicial.
-3. Organiza los grupos de trabajo.
+1. Elegí una plataforma para el blog.
+2. Prepará contenido inicial.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Crea el blog o diario.
-2. Publica consejos sobre biodiversidad.
-3. Invita a otros a comentar.
-4. Si no usas internet, comparte con el periódico o radio escolar.
+1. Creá el blog o diario.
+2. Publicá consejos sobre biodiversidad.
+3. Invitá a otros a comentar.
+4. Si no usás internet, comparte con el periódico o radio escolar.
 
 ## Cierre
-1. Comparte tu blog con el grupo.
-2. Reflexiona: ¿Cómo puede ayudar un blog a la biodiversidad?
+1. Compartí tu blog con el grupo.
+2. Reflexioná: ¿Cómo puede ayudar un blog a la biodiversidad?
 3. Pregunta final: ¿Qué consejo compartirías en tu blog?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ D.27 Inicia un blog sobre la biodiversidad (un diario en línea donde los lector
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

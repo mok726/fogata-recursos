@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Día 'Compartí una habilidad verde'"
+title: "Día 'Compartí una Habilidad Verde'"
 duration: "2 horas + planificación"
 layout: "layouts/activity.njk"
 permalink: "/activities/comparti-una-habilidad-verde/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comparti-una-habilidad-verde.png"
+image: "/imagenes/actividades/comparti-una-habilidad-verde.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -160,7 +160,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Día 'Compartí una habilidad verde'!
+# ¡Día 'Compartí una Habilidad Verde'!
 
 ## Resumen
 ¿Qué habilidades verdes tenés? ¿Qué habilidades verdes te gustaría aprender? Una forma de promover la EDS en tu ciudad es organizar un día de "Compartí una habilidad verde". Establecé una fecha y hora específicas para el día especial, eligiendo un lugar adecuado.
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los Biomas son Hogares"
+title: "Los Biomas Son Hogares"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-biomas-son-hogares/"
-description: "Aprende sobre diferentes biomas forestales, sus características y ubicación. Comparte tus respuestas con tu grupo."
+description: "Aprendé sobre diferentes biomas forestales, sus características y ubicación. Compartí tus respuestas con tu grupo."
 summary: "Investigación sobre biomas forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-biomas-son-hogares.png"
+image: "/imagenes/actividades/los-biomas-son-hogares.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -168,21 +168,21 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información.
 ---
 
-# Los Biomas son Hogares
+# Los Biomas Son Hogares
 
 ## Resumen
-Aprende sobre diferentes biomas forestales, sus características y ubicación. Comparte tus respuestas con tu grupo.
+Aprendé sobre diferentes biomas forestales, sus características y ubicación. Compartí tus respuestas con tu grupo.
 
 ## Preparación
-1. Investiga qué es un bioma forestal.
-2. Prepara material para responder preguntas.
+1. Investigá qué es un bioma forestal.
+2. Prepará material para responder preguntas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende qué es un bioma forestal y sus ejemplos.
-2. **Análisis** (15 min): Nombra cuatro ejemplos con sus características y ubicación.
-3. **Reflexión** (10 min): Identifica qué biomas forestales se encuentran en tu área o país.
-4. **Presentación** (15 min): Comparte tus respuestas con el grupo.
-5. **Extensión** (20 min): Recolecta o dibuja biomas forestales y crea un juego de buscar parejas.
+1. **Investigación** (20 min): Aprendé qué es un bioma forestal y sus ejemplos.
+2. **Análisis** (15 min): Nombrá cuatro ejemplos con sus características y ubicación.
+3. **Reflexión** (10 min): Identificá qué biomas forestales se encuentran en tu área o país.
+4. **Presentación** (15 min): Compartí tus respuestas con el grupo.
+5. **Extensión** (20 min): Recolectá o dibujá biomas forestales y creá un juego de buscar parejas.
 
 ## Cierre
 - ¿Qué biomas forestales te parecieron más interesantes?
@@ -190,16 +190,3 @@ Aprende sobre diferentes biomas forestales, sus características y ubicación. C
 - ¿Qué compromiso adquieres para aprender más sobre los bosques del mundo?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

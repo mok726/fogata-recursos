@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Construcción de estanque"
+title: "Construcción de Estanque"
 duration: "3 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/construccion-de-estanque/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/construccion-de-estanque.png"
+image: "/imagenes/actividades/construccion-de-estanque.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,25 +163,26 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Construcción de estanque!
+# ¡Construcción de Estanque!
 
 ## Resumen
 Construyan un estanque para crear un nuevo hábitat para insectos, anfibios, plantas y otros. Asegúrense de plantar sólo especies nativas.
 
 ## Preparación
-1. Elige un lugar adecuado para el estanque.
-2. Reúne materiales de construcción.
-3. Identifica plantas nativas acuáticas.
+1. Elegí un lugar adecuado para el estanque.
+2. Reuní materiales de construcción.
+3. Identificá plantas nativas acuáticas.
 
 ## Desarrollo
-1. Construye el estanque siguiendo las instrucciones.
-2. Planta especies nativas acuáticas.
-3. Observa cómo se establece el ecosistema.
-4. Mantén el estanque limpio.
+1. Construí el estanque siguiendo las instrucciones.
+2. Plantá especies nativas acuáticas.
+3. Observá cómo se establece el ecosistema.
+4. Mantené el estanque limpio.
+5. **Mosquitos**: un estanque puede ser criadero de mosquitos (en Argentina, dengue). Incorporen peces nativos que coman larvas y no dejen agua estancada en recipientes cercanos.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué especies visitaron el estanque?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué especies visitaron el estanque?
 3. Pregunta final: ¿Cómo ayuda un estanque a la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -190,16 +191,3 @@ B.09 Construyan un estanque para crear un nuevo hábitat para insectos, anfibios
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

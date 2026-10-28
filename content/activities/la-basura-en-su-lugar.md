@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Basura en su Lugar"
+title: "La Basura en Su Lugar"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-basura-en-su-lugar/"
 description: "Juego de clasificación de residuos donde los participantes aprenden a separar correctamente los diferentes tipos de basura."
-summary: "Clasifica correctamente los residuos."
+summary: "Clasificá correctamente los residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-basura-en-su-lugar.png"
+image: "/imagenes/actividades/la-basura-en-su-lugar.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -156,7 +156,7 @@ rama_rovers:
 # Actividad original de Mariano S. Cosentino
 ---
 
-# La Basura en su Lugar
+# La Basura en Su Lugar
 
 ## Resumen
 Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos, y promover la clasificación y separación en origen.
@@ -169,7 +169,7 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 ## Preparación
 1. En una tarjeta se escribe, dibuja o imprime un residuo (restos de vegetales, carnes, residuos hogareños varios, contenedores plásticos, metálicos, pilas y objetos diversos).
 2. Las tarjetas se colocan en una caja o bolsa que permita sacarlas sin ver el contenido.
-3. Los participantes se separan en equipos pares y forman una fila detrás de la línea de largada.
+3. Los participantes se separan en equipos parejos y forman una fila detrás de la línea de largada.
 4. En el otro extremo del campo de juego se colocan contenedores etiquetados con el tipo de residuos: generales, reciclables (papel y cartón, plásticos, vidrios, metales), composta, especiales (electrónica, pilas, etc.).
 
 ## Desarrollo
@@ -179,7 +179,7 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 
 ### Paso 2: Relevo
 2. A la señal de inicio, un participante de cada equipo toma una tarjeta del contenedor y cruza el campo de juego.
-3. Coloca la tarjeta en el contenedor correspondiente al tipo de residuo.
+3. Colocá la tarjeta en el contenedor correspondiente al tipo de residuo.
 
 ### Paso 3: Evaluación
 4. Los dirigentes evalúan si está correcto. Si no lo está, el participante recoge la tarjeta y la coloca en otro contenedor.
@@ -217,18 +217,3 @@ Esta actividad ayuda a los jóvenes a reconocer los distintos tipos de residuos,
 **Cierre:** Discutimos sobre la actividad. Preguntas guías: ¿Qué pasa si mezclamos los residuos? ¿Qué hacemos con los residuos especiales o peligrosos? ¿Podemos tirarlos con el resto de la basura? Si es un grupo artístico invitar a realizar un dibujo relacionado.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

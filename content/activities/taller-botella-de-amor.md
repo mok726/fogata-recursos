@@ -5,7 +5,7 @@ duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-botella-de-amor/"
 description: "Taller donde los participantes aprenden a reciclar plásticos de un solo uso mediante la creación de una 'Botella de Amor'."
-summary: "Crea una botella de amor con plásticos."
+summary: "Creá una botella de amor con plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-botella-de-amor.png"
+image: "/imagenes/actividades/taller-botella-de-amor.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -169,9 +169,9 @@ Aprendemos a reciclar plásticos de un solo uso mediante la creación de una "Bo
 - Fomentar el compromiso con el cuidado del medio ambiente.
 
 ## Preparación
-1. Reúne botellas plásticas limpias y secas.
-2. Reúne residuos plásticos de un solo uso limpios y secos (envoltorios, bolsas, pajitas, etc.).
-3. Prepara palitos o cucharas de madera para empujar.
+1. Reuní botellas plásticas limpias y secas.
+2. Reuní residuos plásticos de un solo uso limpios y secos (envoltorios, bolsas, pajitas, etc.).
+3. Prepará palitos o cucharas de madera para empujar.
 
 ## Desarrollo
 
@@ -213,25 +213,10 @@ Aprendemos a reciclar plásticos de un solo uso mediante la creación de una "Bo
 1) Describimos que son los plásticos de un solo uso.
 2) Describimos que se puede hacer con los mismos si podemos reciclarlos.
 3) Sinodal describe la actividad y los pasos de la misma.
-4) Los beneficiarios se comprometen a crear su propia botella de amor.
+4) Los protagonistas se comprometen a crear su propia botella de amor.
 5) Realizamos dibujos y carteles para difundir la creación de Botellas de amor.
 6) Recolectamos las botellas y coordinamos con el municipio o 4E para que las recojan.
 
 **Cierre:** Realizamos seguimiento periódico del estado de las botellas, y los invitamos a traer la suya para mostrarla en la jornada de ecología. Mostramos productos realizados con este insumo (ej. Madera plástica de 4E).
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

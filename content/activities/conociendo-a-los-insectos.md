@@ -3,7 +3,7 @@ title: "Conociendo a los Insectos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/conociendo-a-los-insectos/"
-description: "Investiga un organismo del suelo y crea un póster sobre su rol en el ecosistema."
+description: "Investigá un organismo del suelo y creá un póster sobre su rol en el ecosistema."
 summary: "Investigación de organismos del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/conociendo-a-los-insectos.png"
+image: "/imagenes/actividades/conociendo-a-los-insectos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -148,17 +148,17 @@ rama_rovers: []
 # ¡Conociendo a los Insectos!
 
 ## Resumen
-Investiga un insecto, molusco o artrópodo que vive en el suelo y crea un póster sobre su rol en el ecosistema.
+Investigá un insecto, molusco o artrópodo que vive en el suelo y creá un póster sobre su rol en el ecosistema.
 
 ## Preparación
-1. Elige un organismo del suelo para estudiar.
-2. Prepara materiales para el póster.
-3. Investiga sobre el organismo.
+1. Elegí un organismo del suelo para estudiar.
+2. Prepará materiales para el póster.
+3. Investigá sobre el organismo.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre tu organismo elegido.
-2. **Creación** (25 min): Haz un póster sobre el organismo.
-3. **Presentación** (10 min): Comparte tu póster con el grupo.
+1. **Investigación** (20 min): Aprendé sobre tu organismo elegido.
+2. **Creación** (25 min): Hacé un póster sobre el organismo.
+3. **Presentación** (10 min): Compartí tu póster con el grupo.
 4. **Discusión** (5 min): ¿Cómo contribuye cada organismo al suelo?
 
 ## Cierre
@@ -174,16 +174,3 @@ Investiga un insecto, molusco o artrópodo que vive en el suelo y crea un póste
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

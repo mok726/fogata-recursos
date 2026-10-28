@@ -3,7 +3,7 @@ title: "Saneamiento en el Suelo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/saneamiento-en-el-suelo/"
-description: "Experimenta con el suelo como filtro de agua."
+description: "Experimentá con el suelo como filtro de agua."
 summary: "Experimento de filtrado de agua con suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/saneamiento-en-el-suelo.png"
+image: "/imagenes/actividades/saneamiento-en-el-suelo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -153,17 +153,17 @@ rama_rovers:
 # ¡Saneamiento en el Suelo!
 
 ## Resumen
-Experimenta con el suelo como filtro de agua para entender su función purificadora.
+Experimentá con el suelo como filtro de agua para entender su función purificadora.
 
 ## Preparación
-1. Recolecta muestras de suelo.
-2. Prepara materiales para el experimento.
-3. Accede a las instrucciones del enlace.
+1. Recolectá muestras de suelo.
+2. Prepará materiales para el experimento.
+3. Accedé a las instrucciones del enlace.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara las muestras y los filtros.
-2. **Experimento** (20 min): Vierte agua a través de diferentes suelos.
-3. **Observación** (15 min): Compara los resultados.
+1. **Preparación** (15 min): Prepará las muestras y los filtros.
+2. **Experimento** (20 min): Verté agua a través de diferentes suelos.
+3. **Observación** (15 min): Compará los resultados.
 4. **Discusión** (10 min): ¿Funcionó mejor con unos suelos que con otros?
 
 ## Cierre
@@ -179,16 +179,3 @@ Experimenta con el suelo como filtro de agua para entender su función purificad
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

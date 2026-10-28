@@ -1,9 +1,9 @@
 ---
-title: "Campaña de energía renovable"
+title: "Campaña de Energía Renovable"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-de-energia-renovable/"
-description: "Aprende sobre energía renovable y promueve su uso en tu área."
+description: "Aprendé sobre energía renovable y promové su uso en tu área."
 summary: "Campaña de energía renovable."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/campana-de-energia-renovable.png"
+image: "/imagenes/actividades/campana-de-energia-renovable.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -143,21 +143,21 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Campaña de energía renovable!
+# ¡Campaña de Energía Renovable!
 
 ## Resumen
-Aprende sobre energía renovable y empieza una campaña para promover su uso en tu área.
+Aprendé sobre energía renovable y empezá una campaña para promover su uso en tu área.
 
 ## Preparación
-1. Investiga sobre energía renovable.
-2. Planifica la campaña.
-3. Prepara materiales.
+1. Investigá sobre energía renovable.
+2. Planificá la campaña.
+3. Prepará materiales.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre energía renovable.
-2. **Planificación** (20 min): Diseña la campaña.
-3. **Acción** (continua): Promueve el uso de energía renovable.
-4. **Reflexión** (10 min): Comparte lo aprendido.
+1. **Investigación** (20 min): Aprendé sobre energía renovable.
+2. **Planificación** (20 min): Diseñá la campaña.
+3. **Acción** (continua): Promové el uso de energía renovable.
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué tipos de energía renovable aprendiste?
@@ -172,16 +172,3 @@ Aprende sobre energía renovable y empieza una campaña para promover su uso en 
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

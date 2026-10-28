@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Proyecto de servicio comunitario"
+title: "Proyecto de Servicio Comunitario"
 duration: "Variable (proyecto)"
 layout: "layouts/activity.njk"
 permalink: "/activities/proyecto-servicio-comunitario-cfn/"
-description: "Planifica, ejecuta y evalúa un proyecto de servicio comunitario para abordar problemas ambientales relacionados con el consumo responsable o la biodiversidad."
-summary: "Actúa para proteger el medio ambiente en tu comunidad."
+description: "Planificá, ejecuta y evaluá un proyecto de servicio comunitario para abordar problemas ambientales relacionados con el consumo responsable o la biodiversidad."
+summary: "Actuá para proteger el medio ambiente en tu comunidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/proyecto-servicio-comunitario-cfn.png"
+image: "/imagenes/actividades/proyecto-servicio-comunitario-cfn.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -168,22 +168,22 @@ rama_rovers:
   - 28
 ---
 
-# ¡Proyecto de servicio comunitario!
+# ¡Proyecto de Servicio Comunitario!
 
 ## Resumen
 Una vez que estés informado sobre el tema y cómo afecta a tu comunidad y ecosistemas, entonces es un buen momento para planificar tu proyecto de servicio comunitario. Esta guía te ayudará a planificar, ejecutar y evaluar tu proyecto.
 
 ## Preparación
-1. Identifica necesidades o problemáticas que afectan a tu comunidad.
-2. Visualiza la nueva realidad que tú y los miembros de la comunidad desean ver.
-3. Define qué pasos debes tomar para resolver las necesidades identificadas.
+1. Identificá necesidades o problemáticas que afectan a tu comunidad.
+2. Visualizá la nueva realidad que vos y los miembros de la comunidad desean ver.
+3. Definí qué pasos debés tomar para resolver las necesidades identificadas.
 
 ## Desarrollo
 
 ### Parte I - Identificar la problemática
 **Preguntas guía:**
 - ¿Cuáles necesidades o problemáticas que afectan a la comunidad te inspiran a tomar acción?
-- ¿Cómo es la nueva realidad que tú y las personas miembros de la comunidad desean ver?
+- ¿Cómo es la nueva realidad que vos y las personas miembros de la comunidad desean ver?
 
 ### Parte II - Planificación
 **Desglosando el plan de acción:**
@@ -192,21 +192,21 @@ Una vez que estés informado sobre el tema y cómo afecta a tu comunidad y ecosi
 - ¿Cuáles serán los beneficios para la comunidad?
 
 **Ejemplo:**
-- Identifica las fuentes de desechos en la comunidad y cómo los eliminan.
-- Mapea los "puntos calientes" de residuos y centros o áreas de gestión de residuos por tipo en la comunidad.
+- Identificá las fuentes de desechos en la comunidad y cómo los eliminan.
+- Mapeá los "puntos calientes" de residuos y centros o áreas de gestión de residuos por tipo en la comunidad.
 - Los ciudadanos aprenden dónde y cómo pueden eliminar y gestionar correctamente los residuos domésticos para evitar la contaminación.
 
 **Recomendaciones:**
 - Elijan una solución para llevarla a cabo.
 - Diseñen un plan de acción para ejecutar el proyecto, comunicarlo y reunir los fondos y recursos necesarios.
 - Definan objetivos SMART: Específico - Medible - Alcanzable - Realista - Acotado en el tiempo.
-- Aplica los principios de sostenibilidad en tus planes y ten en cuenta el mejor uso de los recursos.
+- Aplicá los principios de sostenibilidad en tus planes y tené en cuenta el mejor uso de los recursos.
 
 ### Parte III - Ejecución (Actúa)
 **Pon en marcha tu proyecto:**
 - Ejecutar los planes acordados para el proyecto de servicio.
-- Pon en marcha tus planes con la ayuda de los miembros de la comunidad y socios.
-- Acompaña los planes y el avance de las acciones.
+- Poné en marcha tus planes con la ayuda de los miembros de la comunidad y socios.
+- Acompañá los planes y el avance de las acciones.
 
 ### Parte IV - Monitoreo
 **Durante el proyecto:**
@@ -223,8 +223,8 @@ Una vez que estés informado sobre el tema y cómo afecta a tu comunidad y ecosi
 - ¿Qué hemos aprendido de este proyecto?
 
 ### Parte VI - Compartir
-- Informa y comparte en Scout.org y en el Hub de los ODS.
-- Celebra y reconoce el trabajo realizado con tus compañeros, beneficiarios y aliados.
+- Informá y compartí en Scout.org y en el Hub de los ODS.
+- Celebrá y reconocé el trabajo realizado con tus compañeros, beneficiarios y aliados.
 
 ## Cierre
 1. ¿Qué aprendiste al liderar este proyecto?
@@ -279,17 +279,3 @@ Una vez que estés informado sobre el tema y cómo afecta a tu comunidad y ecosi
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

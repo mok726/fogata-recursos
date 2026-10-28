@@ -1,9 +1,9 @@
 ---
-title: "Viaje amigable con el medio ambiente"
+title: "Viaje Amigable con el Medio Ambiente"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/viaje-amigable-con-el-medio-ambiente/"
-description: "Planifica un viaje turístico amigable con el medio ambiente."
+description: "Planificá un viaje turístico amigable con el medio ambiente."
 summary: "Planificación de turismo sostenible."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/viaje-amigable-con-el-medio-ambiente.png"
+image: "/imagenes/actividades/viaje-amigable-con-el-medio-ambiente.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -141,20 +141,20 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Viaje amigable con el medio ambiente!
+# ¡Viaje Amigable con el Medio Ambiente!
 
 ## Resumen
-Planifica un viaje turístico amigable con el medio ambiente y comparte cómo puede ayudar a prevenir el cambio climático.
+Planificá un viaje turístico amigable con el medio ambiente y compartí cómo puede ayudar a prevenir el cambio climático.
 
 ## Preparación
-1. Investiga destinos turísticos sostenibles.
-2. Prepara materiales para la presentación.
-3. Diseña la actividad de ecoturismo.
+1. Investigá destinos turísticos sostenibles.
+2. Prepará materiales para la presentación.
+3. Diseñá la actividad de ecoturismo.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca ejemplos de ecoturismo.
-2. **Planificación** (20 min): Diseña tu viaje sostenible.
-3. **Presentación** (15 min): Comparte con otros.
+1. **Investigación** (20 min): Buscá ejemplos de ecoturismo.
+2. **Planificación** (20 min): Diseñá tu viaje sostenible.
+3. **Presentación** (15 min): Compartí con otros.
 4. **Reflexión** (5 min): ¿Cómo ayuda al medio ambiente?
 
 ## Cierre
@@ -170,16 +170,3 @@ Planifica un viaje turístico amigable con el medio ambiente y comparte cómo pu
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

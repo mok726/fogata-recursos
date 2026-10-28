@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/los-colores-del-agua.png"
+image: "/imagenes/actividades/los-colores-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -150,14 +150,14 @@ rama_rovers: []
 Fotografía diferentes tipos de agua en diferentes condiciones de luz para capturar los distintos colores y texturas que puede tener.
 
 ## Preparación
-1. Prepara una cámara.
-2. Busca diferentes lugares con agua (río, lago, mar, charcos).
-3. Observa cómo cambia el agua con la luz.
+1. Prepará una cámara.
+2. Buscá diferentes lugares con agua (río, lago, mar, charcos).
+3. Observá cómo cambia el agua con la luz.
 
 ## Desarrollo
-1. **Fotografía** (20 min): Toma fotos de diferentes tipos de agua.
-2. **Selección** (5 min): Elige tus fotos favoritas.
-3. **Exhibición** (5 min): Organiza una exhibición fotográfica.
+1. **Fotografía** (20 min): Tomá fotos de diferentes tipos de agua.
+2. **Selección** (5 min): Elegí tus fotos favoritas.
+3. **Exhibición** (5 min): Organizá una exhibición fotográfica.
 
 ## Cierre
 - ¿Qué colores diferentes viste en el agua?
@@ -172,16 +172,3 @@ Fotografía diferentes tipos de agua en diferentes condiciones de luz para captu
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

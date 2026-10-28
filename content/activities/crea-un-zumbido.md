@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Creá un zumbido"
+title: "Creá un Zumbido"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/crea-un-zumbido/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/crea-un-zumbido.png"
+image: "/imagenes/actividades/crea-un-zumbido.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -167,7 +167,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Creá un zumbido!
+# ¡Creá un Zumbido!
 
 ## Resumen
 Organizá un evento para el Día Mundial de las Abejas (20 de mayo) en tu comunidad. Traé ideas tangibles y organizá demostraciones para que la gente pueda usar estas ideas en casa. Estas podrían incluir pasos para construir hoteles para abejas, plantar flores nativas, usar alternativas a los pesticidas o agregar fuentes de agua a los jardines.
@@ -217,20 +217,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

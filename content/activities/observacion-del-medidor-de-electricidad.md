@@ -1,9 +1,9 @@
 ---
-title: "Observación del medidor de electricidad"
+title: "Observación del Medidor de Electricidad"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-del-medidor-de-electricidad/"
-description: "Observa el medidor de electricidad y reduce tu consumo."
+description: "Observá el medidor de electricidad y reducí tu consumo."
 summary: "Monitoreo de consumo eléctrico."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/observacion-del-medidor-de-electricidad.png"
+image: "/imagenes/actividades/observacion-del-medidor-de-electricidad.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter (supervisión)
@@ -146,21 +146,21 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Observación del medidor de electricidad!
+# ¡Observación del Medidor de Electricidad!
 
 ## Resumen
-Observa el medidor de electricidad y determina cuánto puedes reducir tu consumo.
+Observá el medidor de electricidad y determiná cuánto podés reducir tu consumo.
 
 ## Preparación
-1. Pregunta a tus padres dónde está el medidor.
-2. Prepara papel y bolígrafos para registrar.
-3. Asegura supervisión adulta.
+1. Preguntá a tus padres dónde está el medidor.
+2. Prepará papel y lapiceras para registrar.
+3. Asegurá supervisión adulta: la electricidad es peligrosa, solo se mira el medidor, sin tocarlo ni abrir el tablero.
 
 ## Desarrollo
-1. **Observación** (1 semana): Registra las unidades consumidas.
-2. **Análisis** (15 min): ¿Cuánto consumes? ¿Cuánto puedes reducir?
-3. **Acción** (continua): Apaga aparatos en espera, desenchufa.
-4. **Compartir** (10 min): Habla con amigos para que cambien hábitos.
+1. **Observación** (1 semana): Registrá las unidades consumidas.
+2. **Análisis** (15 min): ¿Cuánto consumís? ¿Cuánto podés reducir?
+3. **Acción** (continua): Apagá aparatos en espera, desenchufa.
+4. **Compartir** (10 min): Hablá con amigos para que cambien hábitos.
 
 ## Cierre
 - ¿Cuántas unidades consumiste?
@@ -175,16 +175,3 @@ Observa el medidor de electricidad y determina cuánto puedes reducir tu consumo
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

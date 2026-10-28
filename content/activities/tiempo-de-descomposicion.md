@@ -1,9 +1,9 @@
 ---
-title: "Tiempo de descomposición"
+title: "Tiempo de Descomposición"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/tiempo-de-descomposicion/"
-description: "Averigua cuánto tiempo tarda la basura en descomponerse."
+description: "Averiguá cuánto tiempo tarda la basura en descomponerse."
 summary: "Investigación sobre descomposición de basura."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/tiempo-de-descomposicion.png"
+image: "/imagenes/actividades/tiempo-de-descomposicion.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -147,25 +147,25 @@ rama_rovers:
   - 8  # Busco y evalúo el valor de diversas fuentes.
 ---
 
-# ¡Tiempo de descomposición!
+# ¡Tiempo de Descomposición!
 
 ## Resumen
-Investiga cuánto tiempo tardan diferentes elementos de basura en descomponerse.
+Investigá cuánto tiempo tardan diferentes elementos de basura en descomponerse.
 
 ## Preparación
-- Accede a recursos sobre descomposición.
-- Prepara materiales para presentar.
+- Accedé a recursos sobre descomposición.
+- Prepará materiales para presentar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Averigua el tiempo de descomposición de diferentes elementos.
+1. **Investigación** (20 min): Averiguá el tiempo de descomposición de diferentes elementos.
 2. **Análisis** (15 min): ¿Qué elementos tardan más?
-3. **Compartir** (15 min): Comparte esta información con tu familia y amigos.
+3. **Compartir** (15 min): Compartí esta información con tu familia y amigos.
 4. **Reflexión** (10 min): ¿Cómo afecta esto tus hábitos?
 
 ## Cierre
 - ¿Qué elemento tarda más en descomponerse?
 - ¿Qué te sorprendió?
-- ¿Cómo puedes cambiar tus hábitos para reducir la basura?
+- ¿Cómo podés cambiar tus hábitos para reducir la basura?
 
 ---
 ## Texto original completo de la actividad
@@ -175,16 +175,3 @@ Investiga cuánto tiempo tardan diferentes elementos de basura en descomponerse.
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

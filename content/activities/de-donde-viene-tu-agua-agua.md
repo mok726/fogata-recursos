@@ -5,7 +5,7 @@ duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-agua-agua/"
 description: "Los participantes aprenden que el agua proviene de diferentes fuentes y siguen un laberinto para descubrir el camino desde su hogar hasta las fuentes de agua."
-summary: "Sigue el camino del agua hasta su fuente."
+summary: "Seguí el camino del agua hasta su fuente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/de-donde-viene-tu-agua-agua.png"
+image: "/imagenes/actividades/de-donde-viene-tu-agua-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -160,37 +160,37 @@ translation_notice:
 # ¿De Dónde Viene Tu Agua?
 
 ## Resumen
-Cuando una persona abre un grifo para beber un vaso de agua, puede estar obteniendo agua de una fuente cercana o de cientos de kilómetros de distancia. El hecho de que el agua caiga del cielo hace que muchos de nosotros pensemos que siempre habrá suficiente para satisfacer todas nuestras necesidades. Pero antes de que la lluvia y el deshielo puedan llegar a nuestros grifos, esta agua primero fluye sobre la tierra hacia ríos, lagos y acuíferos. Luego, el agua se dirige a tuberías y sistemas de filtración para que la administración local de agua pueda proporcionarla a su jurisdicción. En esta actividad, los participantes siguen un laberinto para descubrir el camino desde su hogar hasta las fuentes de agua.
+Cuando una persona abre una canilla para beber un vaso de agua, puede estar obteniendo agua de una fuente cercana o de cientos de kilómetros de distancia. El hecho de que el agua caiga del cielo hace que muchos de nosotros pensemos que siempre habrá suficiente para satisfacer todas nuestras necesidades. Pero antes de que la lluvia y el deshielo puedan llegar a nuestros canillas, esta agua primero fluye sobre la tierra hacia ríos, lagos y acuíferos. Luego, el agua se dirige a tuberías y sistemas de filtración para que la administración local de agua pueda proporcionarla a su jurisdicción. En esta actividad, los participantes siguen un laberinto para descubrir el camino desde su hogar hasta las fuentes de agua.
 
 ## Preparación
 1. Antes de la actividad, investiga de dónde proviene el agua en tu localidad (río, lago, acuífero, etc.) para que los participantes puedan entender mejor el tema.
-2. Prepara una breve explicación sobre el sistema de agua de tu comunidad.
-3. Haz copias del laberinto para cada participante.
+2. Prepará una breve explicación sobre el sistema de agua de tu comunidad.
+3. Hacé copias del laberinto para cada participante.
 
 ## Desarrollo
 
 ### Paso 1: Investigación previa
 1. Antes de la actividad, investiga de dónde proviene el agua en tu localidad para que los participantes puedan entender mejor el tema.
-2. Explica a los participantes cómo llega el agua a sus hogares.
+2. Explicá a los participantes cómo llega el agua a sus hogares.
 
 ### Paso 2: El laberinto
 3. Da a cada participante una copia del laberinto.
-4. Explica que, usando el laberinto, deben encontrar el camino desde su hogar hasta las diferentes fuentes de agua.
+4. Explicá que, usando el laberinto, deben encontrar el camino desde su hogar hasta las diferentes fuentes de agua.
 5. Los participantes pueden trabajar individualmente o en parejas.
 
 ### Paso 3: Discusión
 6. Una vez que todos hayan completado el laberinto, reúne al grupo para discutir:
-   - ¿Qué fuente de agua crees que es la más común en tu comunidad?
-   - ¿De dónde crees que viene el agua que usas en tu casa?
-   - ¿El agua que usas necesita ser tratada antes de beberla?
+   - ¿Qué fuente de agua creés que es la más común en tu comunidad?
+   - ¿De dónde creés que viene el agua que usás en tu casa?
+   - ¿El agua que usás necesita ser tratada antes de beberla?
 
 ## Laberinto: ¿De dónde viene tu agua?
 
-*[El laberinto original del PDF muestra un dibujo con caminos que conectan una casa con diferentes fuentes de agua: un lago, un río, un pozo y un grifo. Los participantes deben trazar el camino correcto desde su hogar hasta cada fuente de agua.]*
+*[El laberinto original del PDF muestra un dibujo con caminos que conectan una casa con diferentes fuentes de agua: un lago, un río, un pozo y una canilla. Los participantes deben trazar el camino correcto desde su hogar hasta cada fuente de agua.]*
 
 ![Laberinto - ¿De dónde viene tu agua?](/imagenes/actividades/de-donde-viene-tu-agua-agua-laberinto.png)
 
-**Instrucciones:** Encuentra el camino desde tu casa hasta cada una de las fuentes de agua. Puedes usar diferentes colores para cada camino.
+**Instrucciones:** Encuentra el camino desde tu casa hasta cada una de las fuentes de agua. Podés usar diferentes colores para cada camino.
 
 **Fuentes de agua:**
 1. Lago
@@ -201,7 +201,7 @@ Cuando una persona abre un grifo para beber un vaso de agua, puede estar obtenie
 ## Cierre
 - ¿Cuál es la conexión entre el agua y el medio ambiente?
 - ¿Por qué es importante tratar el agua antes de ponerla a disposición para el uso humano?
-- ¿Qué puedes hacer para prevenir la contaminación del agua?
+- ¿Qué podés hacer para prevenir la contaminación del agua?
 
 ## Texto original completo de la actividad
 
@@ -271,21 +271,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-10 años, nivel 1)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,32], scouts[26,40], caminantes[25,36], rovers[3,8])

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Líderes jóvenes"
+title: "Líderes Jóvenes"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/lideres-jovenes/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/lideres-jovenes.png"
+image: "/imagenes/actividades/lideres-jovenes.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -174,26 +174,26 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Líderes jóvenes!
+# ¡Líderes Jóvenes!
 
 ## Resumen
-Averigua cómo los niños y los jóvenes están haciendo escuchar su voz en las negociaciones sobre el cambio climático. Los jóvenes tienen una larga historia de participación en las reuniones sobre el clima de las NN.UU., donde desafían a los gobiernos a crear políticas más fuertes.
+Averiguá cómo los niños y los jóvenes están haciendo escuchar su voz en las negociaciones sobre el cambio climático. Los jóvenes tienen una larga historia de participación en las reuniones sobre el clima de las NN.UU., donde desafían a los gobiernos a crear políticas más fuertes.
 
 ## Preparación
-1. Investiga sobre el activismo juvenil climático.
-2. Prepara recursos y enlaces para explorar.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre el activismo juvenil climático.
+2. Prepará recursos y enlaces para explorar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Visita los sitios Web proporcionados para conocer el activismo juvenil.
-2. Investiga: ¿Cómo están participando los jóvenes en las negociaciones climáticas?
-3. Reflexiona: ¿Su trabajo te inspira a unirte?
+1. Visitá los sitios Web proporcionados para conocer el activismo juvenil.
+2. Investigá: ¿Cómo están participando los jóvenes en las negociaciones climáticas?
+3. Reflexioná: ¿Su trabajo te inspira a unirte?
 4. En grupo, formen un plan de acción sobre cómo pueden unir sus fuerzas con otros grupos juveniles.
 
 ## Cierre
-1. Comparte tu plan de acción con el grupo.
+1. Compartí tu plan de acción con el grupo.
 2. Discutan: ¿Qué acciones pueden tomar como grupo?
-3. Pregunta final: ¿Cómo puedes hacer escuchar tu voz sobre el cambio climático?
+3. Pregunta final: ¿Cómo podés hacer escuchar tu voz sobre el cambio climático?
 
 ## Texto original completo de la actividad
 D.09 Líderes Jóvenes. Averigua cómo los niños y los jóvenes están haciendo escuchar su voz en las negociaciones sobre el cambio climático. Aquí hay algunos sitios Web para que puedas empezar:
@@ -207,16 +207,3 @@ D.09 Líderes Jóvenes. Averigua cómo los niños y los jóvenes están haciendo
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

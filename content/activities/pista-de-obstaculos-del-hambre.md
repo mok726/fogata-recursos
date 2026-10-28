@@ -4,7 +4,7 @@ title: "Pista de Obstáculos del Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/pista-de-obstaculos-del-hambre/"
-description: "Crea estaciones con diferentes problemas de hambre y busca soluciones en grupo."
+description: "Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo."
 summary: "Simulación de problemas y soluciones del hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pista-de-obstaculos-del-hambre.png"
+image: "/imagenes/actividades/pista-de-obstaculos-del-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -167,17 +167,17 @@ rama_rovers:
 # Pista de Obstáculos del Hambre
 
 ## Resumen
-Crea estaciones con diferentes problemas de hambre y busca soluciones en grupo.
+Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo.
 
 ## Preparación
-1. Divide el grupo en cuatro o cinco grupos pequeños.
-2. Crea estaciones con diferentes problemas de hambre.
-3. Prepara carteles con descripciones.
+1. Dividí el grupo en cuatro o cinco grupos pequeños.
+2. Creá estaciones con diferentes problemas de hambre.
+3. Prepará carteles con descripciones.
 
 ## Desarrollo
 1. **Rotación** (5 min por estación): Cada grupo visita una estación y busca soluciones.
 2. **Lluvia de ideas** (15 min): Cada grupo propone soluciones para su problema.
-3. **Discusión** (15 min): Comparte soluciones con todo el grupo.
+3. **Discusión** (15 min): Compartí soluciones con todo el grupo.
 
 ## Cierre
 - ¿Qué problema te pareció más difícil de resolver?
@@ -185,16 +185,3 @@ Crea estaciones con diferentes problemas de hambre y busca soluciones en grupo.
 - ¿Qué compromiso adquieres para ayudar a resolver problemas de hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

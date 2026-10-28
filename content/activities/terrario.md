@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/terrario.png"
+image: "/imagenes/actividades/terrario.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -170,24 +170,24 @@ rama_rovers:
 # ¡Terrario!
 
 ## Resumen
-Recolecta semillas y pequeñas plantas (incluyendo las raíces) de una zanja o a lo largo de una carretera. Plántalas en un terrario abierto o cerrado y crearás así un ecosistema miniatura. Cuídalas mientras crecen.
+Recolectá semillas y pequeñas plantas (incluyendo las raíces) de una zanja o a lo largo de una carretera. Plantalas en un terrario abierto o cerrado y crearás así un ecosistema miniatura. Cuidalas mientras crecen.
 
 ## Preparación
-1. Reúne un recipiente de vidrio transparente.
-2. Recolecta semillas y pequeñas plantas.
-3. Prepara tierra, piedras y musgo.
+1. Reuní un recipiente de vidrio transparente.
+2. Recolectá semillas y pequeñas plantas.
+3. Prepará tierra, piedras y musgo.
 
 ## Desarrollo
-1. Coloca una capa de piedras en el fondo.
-2. Añade una capa de tierra.
-3. Planta las semillas y pequeñas plantas.
-4. Coloca musgo si lo deseas.
-5. Riega ligeramente.
-6. Cuida el terrario mientras crece.
+1. Colocá una capa de piedras en el fondo.
+2. Añadí una capa de tierra.
+3. Plantá las semillas y pequeñas plantas.
+4. Colocá musgo si lo deseás.
+5. Regá ligeramente.
+6. Cuidá el terrario mientras crece. Si decidís deshacerte de las plantas, devuélvelas al lugar donde las encontraste. Recolectá lejos del tránsito y siempre con un adulto.
 
 ## Cierre
-1. Comparte tu terrario con el grupo.
-2. Reflexiona: ¿Cómo funciona este pequeño ecosistema?
+1. Compartí tu terrario con el grupo.
+2. Reflexioná: ¿Cómo funciona este pequeño ecosistema?
 3. Pregunta final: ¿Qué aprendiste observando tu terrario?
 
 ## Texto original completo de la actividad
@@ -196,16 +196,3 @@ C.28 Recolecta semillas y pequeñas plantas (incluyendo las raíces) de una zanj
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

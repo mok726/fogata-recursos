@@ -5,7 +5,7 @@ duration: "Recurrente (durante todo el campamento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/junta-cuida-pesa/"
 description: "Actividad recurrente de recolección de residuos para campamentos de Manada. Cada seisena acumula basura real en una bolsa durante varios días, se pesa diariamente y se totaliza al final."
-summary: "Recolecta y pesa residuos durante el campamento."
+summary: "Recolectá y pesá residuos durante el campamento."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/junta-cuida-pesa.png"
+image: "/imagenes/actividades/junta-cuida-pesa.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -35,6 +35,9 @@ materials:
   - 1 punto de acopio (mesa, estante o caja)
   - Marcadores
   - 1 balanza de mano (hasta 5-10 kg)
+  - 1 par de guantes de jardinería (reutilizables) por lobato
+  - 1 bolsita chica (de tela o reutilizada) por lobato
+  - Agua y jabón para lavarse las manos
 tools: []
 responsible:
   - Docente o Scouter
@@ -82,7 +85,7 @@ license:
 
 # ========== ATRIBUCIONES ==========
 attributions:
-  - entity: "Autor"
+  - entity: "Mariano S. Cosentino"
     role: "creador original"
     year: 2024
   - entity: "Mariano S. Cosentino"
@@ -93,7 +96,7 @@ attributions:
     year: 2026
 
 # ========== COMPONENTES (escala 1-5) ==========
-ludic_component: 4  # Competencia entre seisénas
+ludic_component: 4  # Competencia entre seisenas
 reflective_component: 4  # Reflexión sobre residuos
 active_component: 4  # Recolección física
 
@@ -155,7 +158,7 @@ rama_rovers:
 # No aplica (documento original en español)
 
 # ========== NOTA ==========
-# Actividad original de Scouts de Argentina - Grupo Scout-Guía "San Pablo" Nro. 521
+# Actividad original de Mariano S. Cosentino
 ---
 
 # Juntá, Cuidá, Pesá
@@ -174,7 +177,7 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 ## Preparación (antes del campamento)
 
 ### Materiales
-1. Preparar una bolsa resistente por seisena.
+1. Preparar una bolsa resistente por seisena, y una bolsita chica y un par de guantes por lobato.
 2. Identificar cada bolsa con el nombre y color de la seisena.
 3. Imprimir la planilla de registro y el cartel de reglas.
 4. Designar el punto de acopio (mesa, estante o caja visible).
@@ -186,7 +189,10 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 | Solo basura real (plásticos, papeles, latas) | Nada de piedras, ramas, hojas, tierra o arena |
 | No vaciar tachos existentes | Solo lo que está en el suelo, pasto o senderos |
 | No generar basura a propósito | No tirar cosas limpias al suelo |
-| La bolsa vive en el punto de acopio | El bolsillo es el mensajero |
+| La bolsa vive en el punto de acopio | La bolsita de cada lobato es la mensajera |
+| Siempre con guantes | Nunca se junta basura con la mano desnuda |
+| Lo que pincha, corta o es sanitario NO se toca | Vidrio roto, latas abiertas, jeringas, pañales, preservativos, colillas: se avisa a un adulto, que lo retira con pinza o guantes |
+| Después de juntar, lavarse las manos | Siempre, con agua y jabón |
 | Revisión diaria por un adulto | Antes de cada pesaje |
 | Peso neto = peso lleno menos peso vacío | Anotado al inicio |
 | Si hay trampa, la seisena queda fuera de la competencia | Pierde opción a premios |
@@ -196,25 +202,25 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 ### Inicio del campamento (10 minutos)
 1. Presentar la actividad a la Manada.
 2. Mostrar las bolsas y asignar cada una a su seisena.
-3. Leer las reglas en voz alta.
+3. Leer las reglas en voz alta. Insistir en la de seguridad: lo que pincha, corta o es sanitario no se toca, se avisa a un adulto.
 4. Mostrar el punto de acopio y explicar su uso.
 5. Explicar el sistema de doble premiación.
 
 ### Durante el campamento (recolección continua + pesaje diario)
 
 **Recolección (todo el día):**
-- Cada lobato guarda la basura que encuentra en su bolsillo.
-- Al volver al punto de acopio, vacía su bolsillo en la bolsa de su seisena.
+- Cada lobato junta, con guantes, la basura que encuentra y la guarda en su bolsita (nunca en el bolsillo).
+- Al volver al punto de acopio, vacía su bolsita en la bolsa de su seisena y se lava las manos.
 - La bolsa no se lleva a todas partes.
 
 **Pesaje diario (15 minutos, misma hora todos los días):**
 1. Un adulto retira las bolsas del punto de acopio.
-2. Revisa cada bolsa y retira elementos prohibidos (piedras, ramas, tierra, hojas).
-3. Pesa cada bolsa llena y anota el peso.
+2. Revisá cada bolsa y retirá elementos prohibidos (piedras, ramas, tierra, hojas).
+3. Pesá cada bolsa llena y anotá el peso.
 4. Anuncia los pesos y declara la ganadora del día.
-5. Entrega el premio diario.
-6. Vacía la bolsa en un tacho de basura común.
-7. Actualiza el acumulado en la planilla.
+5. Entregá el premio diario.
+6. Vaciá la bolsa en un tacho de basura común.
+7. Actualizá el acumulado en la planilla.
 
 ### Sistema de doble premiación
 - **Premio diario:** Cada día, pequeño e inmediato (Elegir canción del fogón, repartir merienda, salir primero, etc.)
@@ -224,7 +230,7 @@ Actividad recurrente de recolección de residuos para campamentos de Manada. Cad
 1. Anunciar los pesos acumulados de cada seisena.
 2. Declarar la ganadora acumulada.
 3. Entregar el premio final.
-4. Aplaudir a todas las seisénas.
+4. Aplaudir a todas las seisenas.
 
 ## Cierre
 
@@ -243,7 +249,8 @@ Proponga a la Manada elegir una acción para reducir la basura en futuros campam
 - "Recuerden: solo lo que está en el suelo. Nada de sacar del tacho."
 - "Esa rama no cuenta. Busquen plásticos o papeles."
 - "Bien hecho, juntaron una lata. Eso pesa."
-- "Tu bolsillo es el mensajero. La bolsa es el tesoro."
+- "Tu bolsita es la mensajera. La bolsa es el tesoro."
+- "¿Vidrio o algo que pincha? No lo toques: avisame y lo saco yo."
 - "No importa quién gana hoy. Mañana empieza de nuevo."
 
 ## Planilla de registro de pesos
@@ -256,17 +263,3 @@ Proponga a la Manada elegir una acción para reducir la basura en futuros campam
 | | | | | |
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

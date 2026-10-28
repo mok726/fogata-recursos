@@ -4,7 +4,7 @@ title: "Haciendo Niebla"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haciendo-niebla/"
-description: "Crea niebla en una jarra usando agua caliente y cubos de hielo para entender la condensación."
+description: "Creá niebla en una jarra usando agua caliente y cubos de hielo para entender la condensación."
 summary: "Experimento para crear niebla."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haciendo-niebla.png"
+image: "/imagenes/actividades/haciendo-niebla.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -170,20 +170,20 @@ rama_rovers:
 # Haciendo Niebla
 
 ## Resumen
-Crea niebla en una jarra usando agua caliente y cubos de hielo para entender la condensación.
+Creá niebla en una jarra usando agua caliente y cubos de hielo para entender la condensación.
 
 ## Preparación
-1. Llena la jarra de vidrio con agua caliente.
-2. Saca la mayoría del agua, dejando solo 3 cm en el fondo.
-3. Prepara los cubos de hielo.
-4. Asegura la supervisión de un adulto.
+1. Llená la jarra de vidrio con agua caliente.
+2. Sacá la mayoría del agua, dejando solo 3 cm en el fondo.
+3. Prepará los cubos de hielo.
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Preparación** (5 min): Llena la jarra con agua caliente y luego deja solo 3 cm.
-2. **Experimento** (10 min): Coloca el colador sobre la jarra y pon los cubos de hielo dentro.
+1. **Preparación** (5 min): Llená la jarra con agua caliente y luego deja solo 3 cm.
+2. **Experimento** (10 min): Colocá el colador sobre la jarra y poné los cubos de hielo dentro.
 3. **Observación** (5 min): ¿Qué sucede? El aire frío de los cubos de hielo se encuentra con el aire cálido y húmedo de la jarra.
-4. **Reflexión** (10 min): Discute por qué se forma la niebla.
-5. **Registro** (10 min): Dibuja y describe lo que observaste.
+4. **Reflexión** (10 min): Discutí por qué se forma la niebla.
+5. **Registro** (10 min): Dibujá y describí lo que observaste.
 
 ## Cierre
 - ¿Qué sucede cuando el aire frío se encuentra con el aire cálido?
@@ -202,16 +202,3 @@ Con cuidado, llena la jarra de vidrio con agua caliente. Luego cuidadosamente sa
 nivel: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

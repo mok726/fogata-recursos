@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mariposas y polillas"
+title: "Mariposas y Polillas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mariposas-y-polillas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mariposas-y-polillas.png"
+image: "/imagenes/actividades/mariposas-y-polillas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,25 +160,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Mariposas y polillas!
+# ¡Mariposas y Polillas!
 
 ## Resumen
-La biodiversidad está llena de cambios: sólo piensa en una oruga que empieza su vida reptando y comiendo hojas, ¡y luego se transforma en una mariposa! Busca mariposas y polillas en un campo, un bosque o un jardín.
+La biodiversidad está llena de cambios: sólo piensa en una oruga que empieza su vida reptando y comiendo hojas, ¡y luego se transforma en una mariposa! Buscá mariposas y polillas en un campo, un bosque o un jardín.
 
 ## Preparación
-1. Identifica un área con flores para buscar mariposas.
-2. Prepara materiales para dibujar y tomar notas.
-3. Organiza los grupos de trabajo.
+1. Identificá un área con flores para buscar mariposas.
+2. Prepará materiales para dibujar y tomar notas.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Busca mariposas y polillas en un campo, bosque o jardín.
-2. Dibuja tres tipos (o especies) que viven cerca de ti.
-3. Registra: ¿Dónde los viste? (en una flor, cerca de agua, etc.)
-4. Registra: ¿Qué tan grandes eran? ¿Qué colores y diseños tenían?
-5. Registra: ¿Fueron fáciles o difíciles de encontrar?
+1. Buscá mariposas y polillas en un campo, bosque o jardín.
+2. Dibujá tres tipos (o especies) que viven cerca de vos.
+3. Registrá: ¿Dónde los viste? (en una flor, cerca de agua, etc.)
+4. Registrá: ¿Qué tan grandes eran? ¿Qué colores y diseños tenían?
+5. Registrá: ¿Fueron fáciles o difíciles de encontrar?
 
 ## Cierre
-1. Comparte tus respuestas con tus profesores, dirigentes o grupo.
+1. Compartí tus respuestas con tus profesores, dirigentes o grupo.
 2. Discutan las diferentes especies encontradas.
 3. Pregunta final: ¿Qué colores y diseños de mariposas te gustaron más?
 
@@ -188,16 +188,3 @@ A.05 La biodiversidad está llena de cambios: sólo piensa en una oruga que empi
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

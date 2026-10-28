@@ -5,7 +5,7 @@ duration: "1 hora 10 min (30 min explicación + 40 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-ha-cambiado-agua/"
 description: "Los participantes entrevistan a un familiar o miembro de la comunidad mayor para descubrir cómo han cambiado las fuentes y el uso del agua a lo largo del tiempo."
-summary: "Entrevista a un mayor sobre el agua."
+summary: "Entrevistá a un mayor sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/que-ha-cambiado-agua.png"
+image: "/imagenes/actividades/que-ha-cambiado-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -171,17 +171,17 @@ translation_notice:
 En esta actividad, los participantes se convierten en detectives del agua y descubren cómo diferentes cuerpos de agua o fuentes de agua han cambiado con el tiempo. Entrevistan a un familiar o miembro de la comunidad mayor para aprender sobre su perspectiva y los cambios que han visto a lo largo de sus vidas con respecto a la disponibilidad, el uso y el consumo de agua.
 
 ## Preparación
-1. Prepara las preguntas para la entrevista con la ayuda del grupo.
-2. Explica el objetivo de la actividad.
+1. Prepará las preguntas para la entrevista con la ayuda del grupo.
+2. Explicá el objetivo de la actividad.
 
 ## Desarrollo
 
 ### Paso 1: Explicación
-1. Explica a tu grupo que se transformarán en detectives del agua y que estarán a cargo de descubrir cómo diferentes cuerpos de agua o fuentes de agua han cambiado con el tiempo.
-2. Diles que su tarea consistirá en entrevistar a un familiar o miembro de la comunidad mayor para aprender sobre su perspectiva y los cambios que han visto a lo largo de sus vidas con respecto a la disponibilidad, el uso y el consumo de agua.
+1. Explicá a tu grupo que se transformarán en detectives del agua y que estarán a cargo de descubrir cómo diferentes cuerpos de agua o fuentes de agua han cambiado con el tiempo.
+2. Deciles que su tarea consistirá en entrevistar a un familiar o miembro de la comunidad mayor para aprender sobre su perspectiva y los cambios que han visto a lo largo de sus vidas con respecto a la disponibilidad, el uso y el consumo de agua.
 
 ### Paso 2: Preparación de preguntas
-3. Ayuda a tu grupo a desarrollar un conjunto de preguntas para las entrevistas. Considere todos los aspectos de la vida comunitaria que podrían verse afectados por la falta de agua segura y suficiente.
+3. Ayudá a tu grupo a desarrollar un conjunto de preguntas para las entrevistas. Considere todos los aspectos de la vida comunitaria que podrían verse afectados por la falta de agua segura y suficiente.
 
 **Preguntas sugeridas:**
 - ¿Cómo obtenía agua cuando era joven?
@@ -195,18 +195,18 @@ En esta actividad, los participantes se convierten en detectives del agua y desc
 
 ### Paso 3: Realización de entrevistas
 4. Los participantes realizan las entrevistas como tarea.
-5. Pídeles que tomen notas durante la entrevista.
+5. Pediles que tomen notas durante la entrevista.
 
 ### Paso 4: Presentación
-6. Pide a los participantes que presenten sus entrevistas de una manera divertida: un diario, una carta o un cuento corto.
-7. Pide a cada participante que comparta su trabajo.
+6. Pedí a los participantes que presenten sus entrevistas de una manera divertida: un diario, una carta o un cuento corto.
+7. Pedí a cada participante que comparta su trabajo.
 
 ## Cierre
-- ¿Cuál crees que es el cambio más serio que ha experimentado tu comunidad?
+- ¿Cuál creés que es el cambio más serio que ha experimentado tu comunidad?
 - ¿Cómo han afectado los cambios la demanda y la calidad del agua?
 - ¿Cómo pueden las decisiones que se toman hoy tener un impacto en el medio ambiente en el futuro?
 - ¿Cuáles son los principales desafíos de la conservación del agua?
-- ¿Qué puedes hacer o evitar para ayudar a proteger el agua en tu vecindario?
+- ¿Qué podés hacer o evitar para ayudar a proteger el agua en tu vecindario?
 
 ## Texto original completo de la actividad
 
@@ -272,21 +272,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[14,20], scouts[16,26], caminantes[16,25], rovers[8,21])

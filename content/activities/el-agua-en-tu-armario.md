@@ -1,9 +1,9 @@
 ---
-title: "El Agua en tu Armario"
+title: "El Agua en Tu Armario"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-en-tu-armario/"
-description: "Descubre cuánta agua se utilizó para fabricar tus posesiones favoritas."
+description: "Descubrí cuánta agua se utilizó para fabricar tus posesiones favoritas."
 summary: "Huella hídrica de posesiones."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-agua-en-tu-armario.png"
+image: "/imagenes/actividades/el-agua-en-tu-armario.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -147,27 +147,27 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡El Agua en tu Armario!
+# ¡El Agua en Tu Armario!
 
 ## Resumen
-Investiga cuánta agua se utilizó para fabricar tus 5 posesiones favoritas y comparte tus hallazgos.
+Investigá cuánta agua se utilizó para fabricar tus 5 posesiones favoritas y compartí tus hallazgos.
 
 ## Preparación
-1. Haz una lista de tus 5 posesiones favoritas.
-2. Investiga cuánta agua se necesita para fabricar cada una.
-3. Prepara materiales para comparar.
+1. Hacé una lista de tus 5 posesiones favoritas.
+2. Investigá cuánta agua se necesita para fabricar cada una.
+3. Prepará materiales para comparar.
 
 ## Desarrollo
-1. **Lista** (5 min): Escribe tus 5 posesiones favoritas.
-2. **Investigación** (25 min): Averigua la huella hídrica de cada objeto.
-3. **Comparación** (15 min): Comparte tus hallazgos con otros.
+1. **Lista** (5 min): Escribí tus 5 posesiones favoritas.
+2. **Investigación** (25 min): Averiguá la huella hídrica de cada objeto.
+3. **Comparación** (15 min): Compartí tus hallazgos con otros.
 4. **Reflexión** (10 min): ¿Te sorprendieron los resultados?
-5. **Presentación** (5 min): Presenta tus hallazgos al grupo.
+5. **Presentación** (5 min): Presentá tus hallazgos al grupo.
 
 ## Cierre
 - ¿Qué posesión tiene la mayor huella hídrica?
 - ¿Qué te sorprendió más de esta actividad?
-- ¿Cómo puedes reducir tu huella hídrica personal?
+- ¿Cómo podés reducir tu huella hídrica personal?
 
 ---
 ## Texto original completo de la actividad
@@ -177,16 +177,3 @@ Investiga cuánta agua se utilizó para fabricar tus 5 posesiones favoritas y co
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

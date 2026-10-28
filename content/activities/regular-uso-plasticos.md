@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Regular el uso de plásticos"
+title: "Regular el Uso de Plásticos"
 duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/regular-uso-plasticos/"
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/regular-uso-plasticos.png"
+image: "/imagenes/actividades/regular-uso-plasticos.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -166,7 +166,7 @@ rama_rovers:
   - 29  # Indago en las causas y consecuencias de las injusticias
 ---
 
-# ¡Regular el uso de plásticos!
+# ¡Regular el Uso de Plásticos!
 
 ## Resumen
 Las leyes cumplen un papel importante en la regulación del uso y eliminación de plásticos. Esta actividad está diseñada para generar un debate sobre el desarrollo de un conjunto de normas para la escuela o comunidad que ayuden a reducir el uso de plásticos y su eliminación adecuada. Los jóvenes simulan un proceso parlamentario para redactar y debatir normas sobre el uso y eliminación de plásticos.
@@ -200,7 +200,7 @@ Las leyes cumplen un papel importante en la regulación del uso y eliminación d
 ## Cierre
 1. ¿Fue fácil llegar a un acuerdo? ¿Por qué?
 2. ¿Qué aprendiste sobre el proceso de crear leyes?
-3. ¿Cómo puedes involucrarte en la creación de normas en tu comunidad?
+3. ¿Cómo podés involucrarte en la creación de normas en tu comunidad?
 
 ## Texto original completo de la actividad
 
@@ -237,18 +237,3 @@ Las leyes cumplen un papel importante en la regulación del uso y eliminación d
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

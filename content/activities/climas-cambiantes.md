@@ -3,7 +3,7 @@ title: "Climas Cambiantes"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/climas-cambiantes/"
-description: "Investiga la conexión entre el suelo y el cambio climático."
+description: "Investigá la conexión entre el suelo y el cambio climático."
 summary: "Suelo y cambio climático."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/climas-cambiantes.png"
+image: "/imagenes/actividades/climas-cambiantes.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -142,17 +142,17 @@ rama_rovers:
 # ¡Climas Cambiantes!
 
 ## Resumen
-Investiga la conexión entre el suelo y el cambio climático, y presenta tus hallazgos en un panel.
+Investigá la conexión entre el suelo y el cambio climático, y presentá tus hallazgos en un panel.
 
 ## Preparación
-1. Investiga sobre el rol del suelo en el secuestro de carbono.
-2. Prepara materiales para el panel.
+1. Investigá sobre el rol del suelo en el secuestro de carbono.
+2. Prepará materiales para el panel.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga sobre suelo y cambio climático.
-2. **Preparación** (15 min): Prepara la presentación.
-3. **Panel** (15 min): Presenta tus hallazgos en un panel de discusión.
-4. **Discusión** (5 min): Responde preguntas y debate.
+1. **Investigación** (25 min): Investigá sobre suelo y cambio climático.
+2. **Preparación** (15 min): Prepará la presentación.
+3. **Panel** (15 min): Presentá tus hallazgos en un panel de discusión.
+4. **Discusión** (5 min): Respondé preguntas y debate.
 
 ## Cierre
 - ¿Cómo se conectan el suelo y el cambio climático?
@@ -167,16 +167,3 @@ Investiga la conexión entre el suelo y el cambio climático, y presenta tus hal
 nivel 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

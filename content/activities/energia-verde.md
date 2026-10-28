@@ -1,9 +1,9 @@
 ---
-title: "Energía verde"
+title: "Energía Verde"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-verde/"
-description: "Investiga y promueve la instalación de paneles solares u otros sistemas de energía verde."
+description: "Investigá y promové la instalación de paneles solares u otros sistemas de energía verde."
 summary: "Promoción de energía renovable."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/energia-verde.png"
+image: "/imagenes/actividades/energia-verde.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -140,26 +140,26 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Energía verde!
+# ¡Energía Verde!
 
 ## Resumen
-Organiza la instalación de paneles solares u otros sistemas de energía verde en tu casa, escuela o lugar de encuentro.
+Organizá la instalación de paneles solares u otros sistemas de energía verde en tu casa, escuela o lugar de encuentro.
 
 ## Preparación
-1. Investiga sobre sistemas de energía renovable.
-2. Busca donaciones o iniciativas gubernamentales.
-3. Planifica la instalación.
+1. Investigá sobre sistemas de energía renovable.
+2. Buscá donaciones o iniciativas gubernamentales.
+3. Planificá la instalación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre energía verde.
-2. **Planificación** (20 min): Organiza la instalación.
-3. **Acción** (tiempo variable): Instala el sistema.
-4. **Promoción** (15 min): Comparte tu experiencia.
+1. **Investigación** (20 min): Aprendé sobre energía verde.
+2. **Planificación** (20 min): Organizá la instalación.
+3. **Acción** (tiempo variable): Instalá el sistema.
+4. **Promoción** (15 min): Compartí tu experiencia.
 
 ## Cierre
 - ¿Qué sistema de energía verde instalaste?
 - ¿Qué desafíos enfrentaste?
-- ¿Cómo te sientes al usar energía renovable?
+- ¿Cómo te sentís al usar energía renovable?
 
 ---
 ## Texto original completo de la actividad
@@ -169,16 +169,3 @@ Organiza la instalación de paneles solares u otros sistemas de energía verde e
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

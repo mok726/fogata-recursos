@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El Agua es Poesía"
+title: "El Agua Es Poesía"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-es-poesia/"
 description: "Los participantes reflexionan sobre el agua y su conexión con la salud y la felicidad a través de la creación de poemas inspirados en este elemento vital."
-summary: "Escribe un poema sobre el agua."
+summary: "Escribí un poema sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-agua-es-poesia.png"
+image: "/imagenes/actividades/el-agua-es-poesia.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -163,30 +163,30 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡El Agua es Poesía!
+# ¡El Agua Es Poesía!
 
 ## Resumen
-El agua es una cosa hermosa. Oscura y ondulada en un manantial, oscura y tranquila en una piscina, en un charco marrón y fresco... En esta actividad, los participantes reflexionan sobre el agua y su conexión con la salud y la felicidad a través de la creación de poemas inspirados en este elemento vital.
+El agua es una cosa hermosa. Oscura y ondulada en un manantial, oscura y tranquila en una pileta, en un charco marrón y fresco... En esta actividad, los participantes reflexionan sobre el agua y su conexión con la salud y la felicidad a través de la creación de poemas inspirados en este elemento vital.
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Prepara la pizarra para la lluvia de ideas.
+1. Prepará los materiales de escritura.
+2. Prepará la pizarra para la lluvia de ideas.
 
 ## Desarrollo
 
 ### Paso 1: Reflexión inicial
-1. Pide a tu grupo que piense en el agua y lo increíble que es: necesitamos agua para casi todo lo que hacemos cada día.
-2. Pídeles que piensen en adjetivos para calificar el agua y escríbelos en la pizarra.
+1. Pedí a tu grupo que piense en el agua y lo increíble que es: necesitamos agua para casi todo lo que hacemos cada día.
+2. Pediles que piensen en adjetivos para calificar el agua y escribilos en la pizarra.
 
 ### Paso 2: Lectura del poema inspirador
-3. Lee el siguiente poema inspirado en el agua con tu grupo:
+3. Leé el siguiente poema inspirado en el agua con tu grupo:
 
 **El agua es una cosa hermosa**  
 *Julia W. Wolfe*
 
 El agua es una cosa hermosa,  
 oscura y ondulada en un manantial,  
-oscura y tranquila en una piscina,  
+oscura y tranquila en una pileta,  
 en un charco marrón y fresco;  
 en el río azul y gris,  
 en una gota de lluvia plateada,  
@@ -201,16 +201,16 @@ todo el año, de primavera a primavera,
 el agua es una cosa hermosa.
 
 ### Paso 3: Creación del poema
-4. Explica que cada participante creará un poema sobre el agua. Haz algunas preguntas que puedan ayudarles a reflexionar:
+4. Explicá que cada participante creará un poema sobre el agua. Hacé algunas preguntas que puedan ayudarles a reflexionar:
    - ¿Cómo usamos el agua?
    - ¿Todos tienen acceso a agua limpia?
    - ¿Cómo sería tu vida diferente si no tuvieras agua?
    - ¿Por qué necesitamos cuidar el agua?
-5. Da a los participantes tiempo suficiente para escribir sus poemas. Diles que lean las palabras en la pizarra para inspirarse.
+5. Da a los participantes tiempo suficiente para escribir sus poemas. Deciles que lean las palabras en la pizarra para inspirarse.
 6. Si los participantes tienen dificultades para crear un poema, pueden intentar escribir la palabra "AGUA" y asignar un adjetivo para cada letra de la palabra.
 
 ### Paso 4: Compartir
-7. Pide a cada participante que comparta su poema con el grupo.
+7. Pedí a cada participante que comparta su poema con el grupo.
 
 ## Cierre
 - ¿Qué quisiste transmitir a través de tu poema?
@@ -317,21 +317,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[31,47], scouts[39,53], caminantes[33,49], rovers[4,37])

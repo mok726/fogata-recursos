@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Salva a los animales"
+title: "Salva a los Animales"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/salva-a-los-animales/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/salva-a-los-animales.png"
+image: "/imagenes/actividades/salva-a-los-animales.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -165,27 +165,27 @@ rama_rovers:
   - 37 # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Salva a los animales!
+# ¡Salva a los Animales!
 
 ## Resumen
-Averigua qué animales están siendo afectados por el cambio climático. Puedes aprender sobre ellos en el sitio Web de WWF.
+Averiguá qué animales están siendo afectados por el cambio climático. Podés aprender sobre ellos en el sitio Web de WWF.
 
 ## Preparación
-1. Investiga sobre animales afectados por el cambio climático.
-2. Prepara ejemplos y recursos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre animales afectados por el cambio climático.
+2. Prepará ejemplos y recursos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga qué animales están siendo afectados por el cambio climático.
-2. Elige un animal favorito y descubre:
+1. Investigá qué animales están siendo afectados por el cambio climático.
+2. Elegí un animal favorito y descubrí:
    - ¿Dónde vive?
    - ¿Cómo le está amenazando el cambio climático?
    - ¿Qué se puede hacer para ayudarlo?
-3. Haz un dibujo del animal que elegiste.
-4. Escribe al lado una explicación de lo que aprendiste sobre este.
+3. Hacé un dibujo del animal que elegiste.
+4. Escribí al lado una explicación de lo que aprendiste sobre este.
 
 ## Cierre
-1. Comparte tu dibujo e investigación con el grupo.
+1. Compartí tu dibujo e investigación con el grupo.
 2. Discutan: ¿Qué animales están más amenazados y por qué?
 3. Pregunta final: ¿Qué podemos hacer para ayudar a los animales afectados por el cambio climático?
 
@@ -195,16 +195,3 @@ C.07 Salva a los animales. Averigua qué animales están siendo afectados por el
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

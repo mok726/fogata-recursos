@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Recaudación de fondos"
+title: "Recaudación de Fondos"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/recaudacion-de-fondos-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/recaudacion-de-fondos-biodiversidad.png"
+image: "/imagenes/actividades/recaudacion-de-fondos-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -159,24 +159,24 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Recaudación de fondos!
+# ¡Recaudación de Fondos!
 
 ## Resumen
 Organicen y dirijan una actividad para recolectar fondos para una causa relacionada con la biodiversidad.
 
 ## Preparación
-1. Elige una causa relacionada con la biodiversidad.
-2. Planifica la actividad de recaudación.
-3. Prepara materiales y promociona el evento.
+1. Elegí una causa relacionada con la biodiversidad.
+2. Planificá la actividad de recaudación.
+3. Prepará materiales y promocioná el evento.
 
 ## Desarrollo
-1. Organiza la actividad.
-2. Recolecta fondos para la causa.
-3. Comunica los resultados al grupo.
+1. Organizá la actividad.
+2. Recolectá fondos para la causa.
+3. Comunicá los resultados al grupo.
 
 ## Cierre
-1. Comparte los resultados con el grupo.
-2. Reflexiona sobre el impacto de la recaudación.
+1. Compartí los resultados con el grupo.
+2. Reflexioná sobre el impacto de la recaudación.
 3. Pregunta final: ¿Qué causa apoyaste y por qué?
 
 ## Texto original completo de la actividad
@@ -185,16 +185,3 @@ D.33 Organicen y dirijan una actividad para recolectar fondos para una causa rel
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

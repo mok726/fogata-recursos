@@ -1,9 +1,9 @@
 ---
-title: "Visita al mercado local - fibras"
+title: "Visitá al Mercado Local - Fibras"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-mercado-local-fibras/"
-description: "Visita un mercado local para aprender sobre productos y textiles locales e importados."
+description: "Visitá un mercado local para aprender sobre productos y textiles locales e importados."
 summary: "Investigación de productos locales e importados."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/visita-al-mercado-local-fibras.png"
+image: "/imagenes/actividades/visita-al-mercado-local-fibras.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,18 +146,18 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Visita al mercado local!
+# ¡Visitá al Mercado Local!
 
 ## Resumen
-Visita un mercado local para aprender sobre productos y textiles locales e importados.
+Visitá un mercado local para aprender sobre productos y textiles locales e importados.
 
 ## Preparación
-1. Identifica un mercado local para visitar.
-2. Prepara preguntas para los vendedores.
-3. Reúne materiales para tomar notas.
+1. Identificá un mercado local para visitar.
+2. Prepará preguntas para los vendedores.
+3. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre el mercado.
+1. **Visita** (30 min): Recorré el mercado.
 2. **Observación** (15 min): ¿Qué productos son locales e importados?
 3. **Aprendizaje** (10 min): ¿De dónde vienen las fibras?
 4. **Reflexión** (5 min): ¿Qué aprendiste?
@@ -175,16 +175,3 @@ Visita un mercado local para aprender sobre productos y textiles locales e impor
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

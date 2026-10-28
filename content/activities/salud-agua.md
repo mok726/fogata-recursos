@@ -3,7 +3,7 @@ title: "Salud"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/salud-agua/"
-description: "Invita a un experto para aprender sobre enfermedades relacionadas con el agua."
+description: "Invitá a un experto para aprender sobre enfermedades relacionadas con el agua."
 summary: "Prevención de enfermedades relacionadas con el agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/salud-agua.png"
+image: "/imagenes/actividades/salud-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -153,23 +153,23 @@ rama_rovers:
 # ¡Salud!
 
 ## Resumen
-Invita a un experto para hablar sobre enfermedades relacionadas con el agua y crea un póster preventivo.
+Invitá a un experto para hablar sobre enfermedades relacionadas con el agua y creá un póster preventivo.
 
 ## Preparación
-1. Identifica un experto en salud o enfermedades relacionadas con el agua.
-2. Prepara preguntas para el experto.
-3. Reúne materiales para el póster.
+1. Identificá un experto en salud o enfermedades relacionadas con el agua.
+2. Prepará preguntas para el experto.
+3. Reuní materiales para el póster.
 
 ## Desarrollo
-1. **Investigación** (15 min): Prepara preguntas sobre enfermedades del agua.
+1. **Investigación** (15 min): Prepará preguntas sobre enfermedades del agua.
 2. **Charlas** (25 min): El experto habla sobre enfermedades relacionadas con el agua.
-3. **Creación** (15 min): Haz un póster o folleto preventivo.
-4. **Presentación** (5 min): Comparte tu póster con el grupo.
+3. **Creación** (15 min): Hacé un póster o folleto preventivo.
+4. **Presentación** (5 min): Compartí tu póster con el grupo.
 
 ## Cierre
 - ¿Qué enfermedades están relacionadas con el agua?
 - ¿Qué tan comunes son en tu área?
-- ¿Cómo puedes protegerte y proteger a otros?
+- ¿Cómo podés protegerte y proteger a otros?
 
 ---
 ## Texto original completo de la actividad
@@ -179,16 +179,3 @@ Invita a un experto para hablar sobre enfermedades relacionadas con el agua y cr
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

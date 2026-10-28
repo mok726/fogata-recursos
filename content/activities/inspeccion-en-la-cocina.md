@@ -1,9 +1,9 @@
 ---
-title: "Inspección en la cocina"
+title: "Inspección en la Cocina"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inspeccion-en-la-cocina/"
-description: "Realiza una inspección en tu cocina y reemplaza elementos innecesarios."
+description: "Realizá una inspección en tu cocina y reemplazá elementos innecesarios."
 summary: "Reducción de residuos en la cocina."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/inspeccion-en-la-cocina.png"
+image: "/imagenes/actividades/inspeccion-en-la-cocina.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -145,25 +145,25 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Inspección en la cocina!
+# ¡Inspección en la Cocina!
 
 ## Resumen
-Realiza una inspección en tu cocina y reemplaza elementos innecesarios por alternativas reutilizables.
+Realizá una inspección en tu cocina y reemplazá elementos innecesarios por alternativas reutilizables.
 
 ## Preparación
-- Revisa los elementos de tu cocina.
-- Prepara alternativas reutilizables.
+- Revisá los elementos de tu cocina.
+- Prepará alternativas reutilizables.
 
 ## Desarrollo
-1. **Inspección** (15 min): Identifica elementos innecesarios.
+1. **Inspección** (15 min): Identificá elementos innecesarios.
 2. **Reemplazo** (15 min): Sustituye por alternativas reutilizables.
 3. **Reflexión** (10 min): ¿Cómo reducir el desperdicio?
-4. **Acción** (5 min): Comparte lo aprendido con tu familia.
+4. **Acción** (5 min): Compartí lo aprendido con tu familia.
 
 ## Cierre
 - ¿Qué elementos reemplazaste?
-- ¿Cómo te sientes al usar alternativas reutilizables?
-- ¿Qué más puedes hacer para reducir residuos en la cocina?
+- ¿Cómo te sentís al usar alternativas reutilizables?
+- ¿Qué más podés hacer para reducir residuos en la cocina?
 
 ---
 ## Texto original completo de la actividad
@@ -173,16 +173,3 @@ Realiza una inspección en tu cocina y reemplaza elementos innecesarios por alte
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

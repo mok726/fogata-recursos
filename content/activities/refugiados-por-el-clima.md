@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Refugiados por el clima"
+title: "Refugiados por el Clima"
 duration: "2.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/refugiados-por-el-clima/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/refugiados-por-el-clima.png"
+image: "/imagenes/actividades/refugiados-por-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -169,25 +169,25 @@ rama_rovers:
   - 29 # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Refugiados por el clima!
+# ¡Refugiados por el Clima!
 
 ## Resumen
 Los científicos predicen que para el año 2050, 50 millones de personas podrían verse forzadas a dejar sus hogares y comunidades debido a los efectos del cambio climático.
 
 ## Preparación
-1. Investiga sobre refugiados climáticos.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre refugiados climáticos.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿De dónde serán la mayoría de estos refugiados y a dónde irán?
-2. Investiga: ¿Qué tipo de eventos del tiempo les obligarán a dejar sus hogares?
-3. Aprende más sobre los refugiados del clima en los recursos proporcionados.
-4. Prepara un documental corto sobre el tema.
+1. Investigá: ¿De dónde serán la mayoría de estos refugiados y a dónde irán?
+2. Investigá: ¿Qué tipo de eventos del tiempo les obligarán a dejar sus hogares?
+3. Aprendé más sobre los refugiados del clima en los recursos proporcionados.
+4. Prepará un documental corto sobre el tema.
 
 ## Cierre
-1. Proyecta tu documental en tu escuela.
-2. Comparte tu trabajo con el grupo.
+1. Proyectá tu documental en tu escuela.
+2. Compartí tu trabajo con el grupo.
 3. Pregunta final: ¿Cómo podemos apoyar a las personas desplazadas por el cambio climático?
 
 ## Texto original completo de la actividad
@@ -196,16 +196,3 @@ C.15 REFUGIADOS POR EL CLIMA. Los científicos predicen que para el año 2050, 5
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

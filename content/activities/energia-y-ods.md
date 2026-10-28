@@ -4,8 +4,8 @@ title: "Energía y los ODS"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-y-ods/"
-description: "Explora cómo la energía afecta el logro de los Objetivos de Desarrollo Sostenible. Cada grupo investiga un ODS y encuentra conexiones con la energía."
-summary: "Descubre cómo la energía impulsa los ODS."
+description: "Explorá cómo la energía afecta el logro de los Objetivos de Desarrollo Sostenible. Cada grupo investiga un ODS y encontrá conexiones con la energía."
+summary: "Descubrí cómo la energía impulsa los ODS."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/energia-y-ods.png"
+image: "/imagenes/actividades/energia-y-ods.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -174,9 +174,9 @@ translation_notice:
 Los Objetivos de Desarrollo Sostenible (ODS) están interconectados. La energía juega un papel crucial en el logro de muchos de ellos. Cada grupo investiga un ODS y descubre cómo la energía afecta su logro.
 
 ## Preparación
-1. Lee la información sobre los ODS y la energía en la sección de información de fondo.
-2. Divide el grupo en equipos.
-3. Asigna un ODS a cada equipo.
+1. Leé la información sobre los ODS y la energía en la sección de información de fondo.
+2. Dividí el grupo en equipos.
+3. Asigná un ODS a cada equipo.
 
 ## Desarrollo
 
@@ -210,7 +210,7 @@ El equipo con más conexiones identificadas gana.
 ## Cierre
 1. ¿Qué conexión entre energía y ODS te sorprendió más?
 2. ¿Por qué es importante entender estas conexiones?
-3. ¿Qué puedes hacer para contribuir a estos ODS?
+3. ¿Qué podés hacer para contribuir a estos ODS?
 
 ## Texto original completo de la actividad
 
@@ -240,20 +240,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

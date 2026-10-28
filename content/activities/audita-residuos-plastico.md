@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos"
+title: "Auditá Tus Hábitos de Uso de Plásticos y Averiguá a Dónde Van Tus Residuos"
 duration: "Flexible (seguimiento de 1 mes)"
 layout: "layouts/activity.njk"
 permalink: "/activities/audita-residuos-plastico/"
 description: "Los jóvenes auditan su uso de plásticos durante un mes, identifican dónde van sus residuos y se comprometen a reducir su consumo de plásticos en un 50%, documentando su progreso en redes sociales o blogs."
-summary: "Audita tu plástico y reduce su uso."
+summary: "Auditá tu plástico y reducí su uso."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/audita-residuos-plastico.png"
+image: "/imagenes/actividades/audita-residuos-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -174,10 +174,10 @@ rama_rovers:
 
 ---
 
-# ¡Audita tus hábitos de uso de plásticos y averigua a dónde van tus residuos!
+# ¡Auditá Tus Hábitos de Uso de Plásticos y Averiguá a Dónde Van Tus Residuos!
 
 ## Resumen
-Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de Mares Limpios para revisar tus hábitos de uso de plásticos y tomar medidas para poder reducirlos. El desafío es reducir el uso de plásticos en un 50%, ya sea de forma individual o colectiva. Esto significará reducir, reutilizar o reemplazar tus productos plásticos. Crea un blog o una campaña de Instagram para mostrar tu progreso y compártelo con la comunidad en general.
+Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de Mares Limpios para revisar tus hábitos de uso de plásticos y tomar medidas para poder reducirlos. El desafío es reducir el uso de plásticos en un 50%, ya sea de forma individual o colectiva. Esto significará reducir, reutilizar o reemplazar tus productos plásticos. Creá un blog o una campaña de Instagram para mostrar tu progreso y compártelo con la comunidad en general.
 
 ## Preparación
 1. Obtener la Guía de Mares Limpios (Clean Seas Guide).
@@ -210,7 +210,7 @@ Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de
 ## Cierre
 1. ¿Cuánto lograste reducir tu uso de plásticos?
 2. ¿Qué desafíos encontraste en el camino?
-3. ¿Cómo puedes mantener estos cambios a largo plazo?
+3. ¿Cómo podés mantener estos cambios a largo plazo?
 
 ## Texto original completo de la actividad
 
@@ -235,18 +235,3 @@ Como grupo, con tus amigos o con tus compañeros de escuela, utiliza la Guía de
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

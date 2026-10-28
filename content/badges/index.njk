@@ -44,7 +44,9 @@ title: Insignias
 
     {% for itemBadge in activityBadges %}
 
-      {% if
+      {% if (itemBadge | slugify) == "general" %}
+        {% set shouldCount = true %}
+      {% elif
         (itemBadge | slugify)
         in validBadges
       %}

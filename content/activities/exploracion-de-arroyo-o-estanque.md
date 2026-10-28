@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exploración de arroyo o estanque"
+title: "Exploración de Arroyo o Estanque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-de-arroyo-o-estanque/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/exploracion-de-arroyo-o-estanque.png"
+image: "/imagenes/actividades/exploracion-de-arroyo-o-estanque.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,27 +165,27 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Exploración de arroyo o estanque!
+# ¡Exploración de Arroyo o Estanque!
 
 ## Resumen
-Explora un arroyo o un estanque. Examina la vida que existe dentro de estos. Toma una muestra de agua y examínala debajo de una lupa o de un microscopio. Registra lo que ves. Regresa el agua y las criaturas a la corriente o al estanque.
+Explorá un arroyo o un estanque. Examiná la vida que existe dentro de estos. Tomá una muestra de agua y examinala debajo de una lupa o de un microscopio. Registrá lo que ves. Regresá el agua y las criaturas a la corriente o al estanque.
 
 ## Preparación
-1. Identifica un arroyo o estanque seguro.
-2. Reúne materiales para la exploración.
-3. Asegura supervisión adulta.
+1. Identificá un arroyo o estanque seguro.
+2. Reuní materiales para la exploración.
+3. Asegurá supervisión adulta.
 
 ## Desarrollo
-1. Explora el arroyo o estanque.
-2. Examina la vida acuática.
-3. Toma una muestra de agua.
-4. Examina la muestra bajo una lupa o microscopio.
-5. Registra lo que ves.
-6. Regresa el agua y las criaturas a su hábitat.
+1. Explorá el arroyo o estanque.
+2. Examiná la vida acuática.
+3. Tomá una muestra de agua.
+4. Examiná la muestra bajo una lupa o microscopio.
+5. Registrá lo que ves.
+6. Regresá el agua y las criaturas a su hábitat.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Qué tan contaminado está tu arroyo o estanque?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Qué tan contaminado está tu arroyo o estanque?
 3. Pregunta final: ¿Qué especies indican agua limpia?
 
 ## Texto original completo de la actividad
@@ -194,16 +194,3 @@ B.07 Explora un arroyo o un estanque. Examina la vida que existe dentro de estos
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

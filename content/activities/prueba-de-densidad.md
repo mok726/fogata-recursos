@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Prueba de densidad"
+title: "Prueba de Densidad"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/prueba-de-densidad/"
 description: "Los participantes realizan experimentos para aprender sobre la salinidad y la densidad del agua, y cómo estas propiedades afectan a los océanos y estuarios."
-summary: "Experimenta con la densidad del agua."
+summary: "Experimentá con la densidad del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/prueba-de-densidad.png"
+image: "/imagenes/actividades/prueba-de-densidad.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -168,35 +168,35 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Prueba de densidad!
+# ¡Prueba de Densidad!
 
 ## Resumen
 El agua dulce y el agua de mar tienen dos diferencias importantes: la salinidad y la densidad. En esta actividad, los participantes realizan experimentos para comparar soluciones con diferentes niveles de salinidad y observar cómo afecta a la densidad y la flotabilidad.
 
 ## Preparación
-1. Prepara todos los materiales.
-2. Explica los conceptos de salinidad y densidad.
-3. Asegura la supervisión de un adulto.
+1. Prepará todos los materiales.
+2. Explicá los conceptos de salinidad y densidad.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
 
 ### Experimento 1 - Salinidad y densidad
-1. Llena la jarra hasta la mitad con agua tibia. Añade una cucharada de sal, revuelve bien y espera hasta que el agua esté quieta. ¿Ves sal en el fondo de la jarra? Si es así, pasa al siguiente paso. Si no, sigue añadiendo sal lentamente hasta que la sal comience a acumularse en el fondo. El agua ahora está saturada de sal.
-2. Llena dos vasos hasta la mitad con la solución. Cada vaso debe tener la misma cantidad. Deja un vaso a un lado y añade suficiente colorante azul al otro vaso para que el líquido se vuelva azul oscuro y revuelve bien. Este vaso de solución azul representa el agua salada del océano.
-3. Llena un tercer vaso hasta la mitad con agua tibia. Este vaso representa el agua dulce del río.
-4. Vierte LENTAMENTE la solución azul (agua del océano) en el vaso de agua tibia (agua del río). La solución se verterá como jarabe. El truco es verterla gradualmente en el borde del vaso, sin mezclar la solución, solo déjala reposar. ¿Qué pasa? ¿Qué líquido es más denso, el azul (agua salada) o el transparente (agua dulce)?
+1. Llená la jarra hasta la mitad con agua tibia. Añadí una cucharada de sal, revuelve bien y espera hasta que el agua esté quieta. ¿Ves sal en el fondo de la jarra? Si es así, pasa al siguiente paso. Si no, sigue añadiendo sal lentamente hasta que la sal comience a acumularse en el fondo. El agua ahora está saturada de sal.
+2. Llená dos vasos hasta la mitad con la solución. Cada vaso debe tener la misma cantidad. Dejá un vaso a un lado y añadí suficiente colorante azul al otro vaso para que el líquido se vuelva azul oscuro y revuelve bien. Este vaso de solución azul representa el agua salada del océano.
+3. Llená un tercer vaso hasta la mitad con agua tibia. Este vaso representa el agua dulce del río.
+4. Verté LENTAMENTE la solución azul (agua del océano) en el vaso de agua tibia (agua del río). La solución se verterá como jarabe. El truco es verterla gradualmente en el borde del vaso, sin mezclar la solución, solo dejala reposar. ¿Qué pasa? ¿Qué líquido es más denso, el azul (agua salada) o el transparente (agua dulce)?
 
 ### Experimento 2 - Densidad media
-5. Toma el otro vaso que dejaste a un lado, lleno hasta la mitad con la solución saturada. Añade un poco de agua tibia hasta que el vaso esté lleno. Luego, añade suficiente colorante rojo para que la solución se vuelva rojo oscuro y mezcla bien. Este vaso contiene un líquido de salinidad media, menos salado que el agua azul, pero más salado que el agua dulce.
-6. ¿Qué crees que pasará si viertes LENTAMENTE una pequeña cantidad de esta solución roja en el vaso con el agua azul y transparente? Haz una predicción y luego pruébalo. ¿Qué pasó?
+5. Tomá el otro vaso que dejaste a un lado, lleno hasta la mitad con la solución saturada. Añadí un poco de agua tibia hasta que el vaso esté lleno. Luego, añadí suficiente colorante rojo para que la solución se vuelva rojo oscuro y mezcla bien. Este vaso contiene un líquido de salinidad media, menos salado que el agua azul, pero más salado que el agua dulce.
+6. ¿Qué creés que pasará si vertés LENTAMENTE una pequeña cantidad de esta solución roja en el vaso con el agua azul y transparente? Hacé una predicción y luego probalo. ¿Qué pasó?
 
 ### Experimento 3 - Flotabilidad
-7. Prepara más solución saturada y usa el embudo para verterla en una botella de soda. Llena una botella de soda idéntica con agua tibia (sin sal).
-8. Coloca un lápiz sin punta (con la goma hacia abajo) en cada botella. ¿Qué pasó? Usa una regla para medir la diferencia. ¿En qué condición el lápiz está más alto en la columna de agua? ¿En qué tipo de agua el lápiz tuvo mayor flotabilidad, en agua dulce o salada?
+7. Prepará más solución saturada y usá el embudo para verterla en una botella de soda. Llená una botella de soda idéntica con agua tibia (sin sal).
+8. Colocá un lápiz sin punta (con la goma hacia abajo) en cada botella. ¿Qué pasó? Usá una regla para medir la diferencia. ¿En qué condición el lápiz está más alto en la columna de agua? ¿En qué tipo de agua el lápiz tuvo mayor flotabilidad, en agua dulce o salada?
 
 ## Cierre
 - ¿Qué pasó cuando mezclaste el agua dulce con el agua salada? ¿Flotó el agua dulce sobre la salada? ¿O la salada flotó sobre la dulce?
-- ¿En qué crees que es más fácil flotar, en una piscina o en el océano?
+- ¿En qué creés que es más fácil flotar, en una pileta o en el océano?
 
 ## Texto original completo de la actividad
 
@@ -272,20 +272,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

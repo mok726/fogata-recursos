@@ -4,7 +4,7 @@ title: "Jardinería Verde"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/jardineria-verde/"
-description: "Prepara un recipiente para compost y aprende cómo la naturaleza recicla los materiales orgánicos. Mantén un diario de tu experiencia."
+description: "Prepará un recipiente para compost y aprendé cómo la naturaleza recicla los materiales orgánicos. Mantené un diario de tu experiencia."
 summary: "Compostaje y cuidado del suelo."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/jardineria-verde.png"
+image: "/imagenes/actividades/jardineria-verde.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -175,19 +175,19 @@ rama_rovers:
 # Jardinería Verde
 
 ## Resumen
-Prepara un recipiente para compost y aprende cómo la naturaleza recicla los materiales orgánicos. Mantén un diario de tu experiencia y observa cómo el compostaje mejora la salud del suelo.
+Prepará un recipiente para compost y aprendé cómo la naturaleza recicla los materiales orgánicos. Mantené un diario de tu experiencia y observá cómo el compostaje mejora la salud del suelo.
 
 ## Preparación
-1. Revisa las instrucciones para hacer compost en www2.epa.gov/recycle/composting-home.
-2. Consigue un recipiente para compost.
-3. Prepara un diario para registrar tus observaciones.
+1. Revisá las instrucciones para hacer compost en www2.epa.gov/recycle/composting-home.
+2. Conseguí un recipiente para compost.
+3. Prepará un diario para registrar tus observaciones.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre el compostaje y su importancia.
-2. **Preparación** (30 min): Prepara el recipiente para compost con materiales orgánicos.
-3. **Seguimiento** (varias semanas): Mantén un diario de lo que colocas en el compost.
-4. **Observación** (continua): Observa cómo las plantas responden al compost.
-5. **Alternativa** (si no tienes jardín): Crea un póster sobre el compostaje y compártelo con amigos y familiares.
+1. **Investigación** (20 min): Aprendé sobre el compostaje y su importancia.
+2. **Preparación** (30 min): Prepará el recipiente para compost con materiales orgánicos.
+3. **Seguimiento** (varias semanas): Mantené un diario de lo que colocás en el compost.
+4. **Observación** (continua): Observá cómo las plantas responden al compost.
+5. **Alternativa** (si no tenés jardín): Creá un póster sobre el compostaje y compártelo con amigos y familiares.
 
 ## Cierre
 - ¿Qué aprendiste sobre el ciclo de la vida y el compostaje?
@@ -195,16 +195,3 @@ Prepara un recipiente para compost y aprende cómo la naturaleza recicla los mat
 - ¿Qué compromiso adquieres para seguir cuidando el suelo?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

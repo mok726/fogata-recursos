@@ -5,7 +5,7 @@ duration: "40 minutos (10 min explicación + 30 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/sin-agua-corriente-casa/"
 description: "Los participantes reflexionan sobre cómo sería la vida sin agua corriente, planificando con su familia cómo recolectar y usar agua de manera limitada."
-summary: "Reflexiona sobre la vida sin agua corriente."
+summary: "Reflexioná sobre la vida sin agua corriente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/sin-agua-corriente-casa.png"
+image: "/imagenes/actividades/sin-agua-corriente-casa.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -170,24 +170,24 @@ translation_notice:
 Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas. Aproximadamente 780 millones de personas carecen de acceso a agua limpia. En esta actividad, los participantes reflexionan sobre cómo sería la vida sin agua corriente, planificando con su familia cómo recolectar y usar agua de manera limitada.
 
 ## Preparación
-1. Prepara los materiales de escritura.
-2. Explica el objetivo de la actividad.
+1. Prepará los materiales de escritura.
+2. Explicá el objetivo de la actividad.
 
 ## Desarrollo
 
 ### Paso 1: Explicación
-1. Explica a tu grupo que van a recibir una tarea que les ayudará a ellos y a sus familias a darse cuenta de lo afortunados que son de tener acceso a agua suficiente y limpia, y de lo importante que es ahorrar este recurso precioso.
+1. Explicá a tu grupo que van a recibir una tarea que les ayudará a ellos y a sus familias a darse cuenta de lo afortunados que son de tener acceso a agua suficiente y limpiá, y de lo importante que es ahorrar este recurso precioso.
 
 ### Paso 2: Lista de usos del agua
-2. Pide a los participantes que enumeren tantos usos del agua como puedan junto con sus familias. Pídeles que decidan cuáles son los cinco usos principales del agua para su familia.
+2. Pedí a los participantes que enumeren tantos usos del agua como puedan junto con sus familias. Pediles que decidan cuáles son los cinco usos principales del agua para su familia.
 
 ### Paso 3: Discusión familiar
-3. Pide a los participantes que hablen con sus familias sobre las personas que viven en países en desarrollo que no tienen inodoros, lavadoras, lavavajillas ni agua corriente en sus hogares.
-4. Pídeles que discutan con sus familias cómo creen que las personas sin acceso a agua corriente usan el agua de manera diferente a sus familias.
+3. Pedí a los participantes que hablen con sus familias sobre las personas que viven en países en desarrollo que no tienen inodoros, lavadoras, lavavajillas ni agua corriente en sus hogares.
+4. Pediles que discutan con sus familias cómo creen que las personas sin acceso a agua corriente usan el agua de manera diferente a sus familias.
 
 ### Paso 4: Simulación
 5. Luego, pide a los participantes que imaginen con sus familias que a partir del día siguiente ya no tendrán agua corriente en casa. Solo podrán obtener agua de un pozo que está a unos 3 kilómetros de su casa.
-6. Pídeles que planifiquen cómo trabajarán juntos para llevar la cantidad de agua necesaria a sus hogares. Asignen un rol a cada miembro de la familia:
+6. Pediles que planifiquen cómo trabajarán juntos para llevar la cantidad de agua necesaria a sus hogares. Asignen un rol a cada miembro de la familia:
 
 | Miembro de la familia | Responsabilidades |
 |----------------------|-------------------|
@@ -196,7 +196,7 @@ Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las p
 | | |
 
 ### Paso 5: Consideraciones
-7. Pide a los participantes que consideren lo siguiente:
+7. Pedí a los participantes que consideren lo siguiente:
    - La familia necesitará 57 litros de agua cada día.
    - ¿Qué tamaño de recipiente debería usar la familia?
    - ¿Cuánto pesarán estos recipientes?
@@ -204,13 +204,13 @@ Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las p
    - ¿Todos los miembros de la familia son capaces de hacer el viaje?
 
 ### Paso 6: Conclusiones
-8. Asegúrate de que los participantes lleguen a algunas conclusiones generales con sus familias para que puedan compartir algunas ideas en la escuela o en el lugar de reunión.
+8. Asegurate de que los participantes lleguen a algunas conclusiones generales con sus familias para que puedan compartir algunas ideas en la escuela o en el lugar de reunión.
 
 ## Cierre
-- ¿Cuáles son los principales usos del agua en tu familia? ¿Dónde y cuándo usas más agua?
-- ¿Crees que tú y tu familia necesitan ser más conscientes del agua?
-- ¿Cómo se sentirían tú y tu familia si tuvieran que caminar todos los días para buscar agua? ¿Quién estaría a cargo de recolectar el agua?
-- ¿Cómo afectaría esto a tus actividades cotidianas actuales? ¿Crees que esto afectaría tu futuro?
+- ¿Cuáles son los principales usos del agua en tu familia? ¿Dónde y cuándo usás más agua?
+- ¿Creés que vos y tu familia necesitan ser más conscientes del agua?
+- ¿Cómo se sentirían vos y tu familia si tuvieran que caminar todos los días para buscar agua? ¿Quién estaría a cargo de recolectar el agua?
+- ¿Cómo afectaría esto a tus actividades cotidianas actuales? ¿Creés que esto afectaría tu futuro?
 
 ## Texto original completo de la actividad
 
@@ -284,21 +284,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[15,19], scouts[24,26], caminantes[23,24], rovers[27,28])

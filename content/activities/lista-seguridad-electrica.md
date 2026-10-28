@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lista de seguridad eléctrica"
+title: "Lista de Seguridad Eléctrica"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/lista-seguridad-electrica/"
-description: "Crea una lista de verificación de seguridad eléctrica para tu hogar y escuela, y aprende a mantenerte seguro alrededor de la electricidad."
-summary: "Aprende a estar seguro con la electricidad."
+description: "Creá una lista de verificación de seguridad eléctrica para tu hogar y escuela, y aprendé a mantenerte seguro alrededor de la electricidad."
+summary: "Aprendé a estar seguro con la electricidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/lista-seguridad-electrica.png"
+image: "/imagenes/actividades/lista-seguridad-electrica.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -161,20 +161,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Lista de seguridad eléctrica!
+# ¡Lista de Seguridad Eléctrica!
 
 ## Resumen
-La electricidad es una forma de energía importante, pero puede ser muy peligrosa. Crea una lista de verificación para mantenerte seguro en casa y en la escuela.
+La electricidad es una forma de energía importante, pero puede ser muy peligrosa. Creá una lista de verificación para mantenerte seguro en casa y en la escuela.
 
 ## Preparación
-1. Revisa la sección "Seguros y protegidos" al inicio del badge.
-2. Prepara papel y lápiz para tu lista.
-3. Busca un adulto para acompañarte en la inspección.
+1. Revisá la sección "Seguros y protegidos" al inicio del badge.
+2. Prepará papel y lápiz para tu lista.
+3. Buscá un adulto para acompañarte en la inspección.
 
 ## Desarrollo
 
 ### Parte I - Crear la lista
-Crea una lista de verificación de seguridad eléctrica:
+Creá una lista de verificación de seguridad eléctrica:
 
 **Ideas para incluir:**
 - ¿Los cables eléctricos están guardados para que nadie se tropiece?
@@ -184,19 +184,19 @@ Crea una lista de verificación de seguridad eléctrica:
 - ¿Hay detectores de humo?
 
 ### Parte II - Inspeccionar en casa
-Recorre tu casa con un adulto y revisa los puntos de tu lista.
+Recorré tu casa con un adulto y revisá los puntos de tu lista.
 
 ### Parte III - Inspeccionar en la escuela
-También puedes hacer una lista para la escuela.
+También podés hacer una lista para la escuela.
 
 ### Parte IV - Prepararse
-¿Cómo puedes prepararte para cortes de energía en casa?
-- Ten linternas y baterías listas
-- Conoce dónde están los interruptores
+¿Cómo podés prepararte para cortes de energía en casa?
+- Tené linternas y baterías listas
+- Conocé dónde están los interruptores
 
 ## Cierre
 1. ¿Qué problema de seguridad encontraste en tu casa?
-2. ¿Qué puedes hacer para mejorar la seguridad?
+2. ¿Qué podés hacer para mejorar la seguridad?
 3. ¿Qué aprendiste sobre la electricidad?
 
 ## Texto original completo de la actividad
@@ -227,20 +227,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

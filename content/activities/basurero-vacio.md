@@ -1,10 +1,10 @@
 ---
-title: "Basurero vacío"
+title: "Tacho Vacío"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/basurero-vacio/"
-description: "Reduce, reusa y recicla todo lo que puedas para vaciar el basurero."
-summary: "Desafío de basurero vacío."
+description: "Reducí, reusa y reciclá todo lo que puedas para vaciar el tacho de basura."
+summary: "Desafío de tacho vacío."
 
 author:
   - FAO
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/basurero-vacio.png"
+image: "/imagenes/actividades/basurero-vacio.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -145,24 +145,24 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Basurero vacío!
+# ¡Tacho Vacío!
 
 ## Resumen
-Reduce, reusa y recicla todo lo que puedas para vaciar el basurero durante una semana.
+Reducí, reusa y reciclá todo lo que puedas para vaciar el tacho de basura durante una semana.
 
 ## Preparación
-- Habla con tu familia sobre el desafío.
-- Prepara contenedores para reciclaje.
+- Hablá con tu familia sobre el desafío.
+- Prepará contenedores para reciclaje.
 
 ## Desarrollo
-1. **Planificación** (15 min): Piensa en cómo reducir residuos.
-2. **Acción** (1 semana): Reduce, reusa y recicla.
-3. **Evaluación** (15 min): ¿Lograste vaciar el basurero?
+1. **Planificación** (15 min): Pensá en cómo reducir residuos.
+2. **Acción** (1 semana): Reducí, reusa y reciclá.
+3. **Evaluación** (15 min): ¿Lograste vaciar el tacho de basura?
 
 ## Cierre
 - ¿Qué fue lo más fácil y lo más difícil?
 - ¿Cuánta basura lograste reducir?
-- ¿Cómo te sientes al producir menos residuos?
+- ¿Cómo te sentís al producir menos residuos?
 
 ---
 ## Texto original completo de la actividad
@@ -172,16 +172,3 @@ Reduce, reusa y recicla todo lo que puedas para vaciar el basurero durante una s
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

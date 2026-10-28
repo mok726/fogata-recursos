@@ -3,7 +3,7 @@ title: "Curso Intensivo Cultural"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/curso-intensivo-cultural/"
-description: "Investiga el significado cultural del agua en diferentes regiones del mundo."
+description: "Investigá el significado cultural del agua en diferentes regiones del mundo."
 summary: "Significado cultural del agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/curso-intensivo-cultural.png"
+image: "/imagenes/actividades/curso-intensivo-cultural.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -150,7 +150,7 @@ rama_rovers:
 # ¡Curso Intensivo Cultural!
 
 ## Resumen
-Investiga el significado cultural del agua en diferentes regiones del mundo y comparte tus hallazgos.
+Investigá el significado cultural del agua en diferentes regiones del mundo y compartí tus hallazgos.
 
 ## Preparación
 1. Divídanse en grupos, cada uno con una región diferente.
@@ -158,9 +158,9 @@ Investiga el significado cultural del agua en diferentes regiones del mundo y co
 3. Preparen materiales para compartir.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga el significado del agua en tu región.
+1. **Investigación** (25 min): Investigá el significado del agua en tu región.
 2. **Análisis** (15 min): ¿El agua tiene un rol importante en la cultura o religión local?
-3. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+3. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 4. **Discusión** (5 min): Comparen las diferentes perspectivas.
 
 ## Cierre
@@ -176,16 +176,3 @@ Investiga el significado cultural del agua en diferentes regiones del mundo y co
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Buen plástico, mal plástico"
+title: "Buen Plástico, Mal Plástico"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/buen-plastico-mal-plastico/"
-description: "Aprende a identificar los diferentes tipos de plásticos y por qué los plásticos de un solo uso son los que realmente causan problemas ambientales."
-summary: "Identifica qué plásticos son problemáticos y cuáles no."
+description: "Aprendé a identificar los diferentes tipos de plásticos y por qué los plásticos de un solo uso son los que realmente causan problemas ambientales."
+summary: "Identificá qué plásticos son problemáticos y cuáles no."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/buen-plastico-mal-plastico.png"
+image: "/imagenes/actividades/buen-plastico-mal-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Ejemplos de plásticos "buenos" (casco, bolígrafo, gafas con montura de plástico, mando a distancia, imágenes de dispositivos médicos y juguetes de polipropileno)
+  - Ejemplos de plásticos "buenos" (casco, lapicera, anteojos con armazón de plástico, control remoto, imágenes de dispositivos médicos y juguetes de polipropileno)
   - Ejemplos de plásticos "malos" de un solo uso (pajitas, cubiertos desechables, bolsa de plástico, botella de agua, envase de comida para llevar)
   - Papel
   - Lápices
@@ -165,15 +165,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Buen plástico, mal plástico!
+# ¡Buen Plástico, Mal Plástico!
 
 ## Resumen
-Aprende a identificar los diferentes tipos de plásticos y a entender por qué los plásticos de un solo uso son los que realmente causan problemas ambientales. No todos los plásticos son malos: algunos son esenciales en la medicina, la seguridad y la tecnología.
+Aprendé a identificar los diferentes tipos de plásticos y a entender por qué los plásticos de un solo uso son los que realmente causan problemas ambientales. No todos los plásticos son malos: algunos son esenciales en la medicina, la seguridad y la tecnología.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Revisa la ilustración "Tipos de plástico" para reconocer los materiales plásticos que puedas encontrar.
-3. Reúne ejemplos de plásticos "buenos" (casco, bolígrafo, gafas, mando a distancia, imágenes de dispositivos médicos) y "malos" de un solo uso (pajitas, cubiertos desechables, bolsas, botellas, envases de comida para llevar).
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Revisá la ilustración "Tipos de plástico" para reconocer los materiales plásticos que puedas encontrar.
+3. Reuní ejemplos de plásticos "buenos" (casco, lapicera, anteojos, control remoto, imágenes de dispositivos médicos) y "malos" de un solo uso (pajitas, cubiertos desechables, bolsas, botellas, envases de comida para llevar).
 
 ## Desarrollo
 
@@ -183,8 +183,8 @@ Como grupo, piensen y escriban en un pizarrón los diferentes tipos de plástico
 - ¿Alguna parte de tu auto está hecha de plástico?
 - ¿Alguno de tus juguetes es de plástico?
 - ¿Tus dispositivos electrónicos incluyen piezas de plástico?
-- ¿Usas bolsas plásticas cuando vas de compras?
-- ¿Usas pajitas, cubiertos o envases de plástico?
+- ¿Usás bolsas plásticas cuando vas de compras?
+- ¿Usás pajitas, cubiertos o envases de plástico?
 
 Miren la lista que hicieron. ¿Pueden dividirla en dos grupos principales?
 
@@ -192,13 +192,13 @@ Miren la lista que hicieron. ¿Pueden dividirla en dos grupos principales?
 2. Los que son duraderos.
 
 ### Parte II
-Individualmente, haz listas con dibujos de todos los artículos de plástico de un solo uso que usas regularmente.
+Individualmente, haz listas con dibujos de todos los artículos de plástico de un solo uso que usás regularmente.
 
 - ¿Cuáles serían los más fáciles de dejar de usar?
 - ¿Cuáles serían los más difíciles?
 - ¿Podrías intentar pasar tres semanas sin usar uno de estos productos?
 
-### Debate en grupo
+### Debatí en grupo
 Lean y discutan los "Tipos de plástico" con el grupo. Hagan preguntas como:
 
 - ¿Qué plásticos creen que están bien usar y por qué?
@@ -209,7 +209,7 @@ Lean y discutan los "Tipos de plástico" con el grupo. Hagan preguntas como:
 ## Cierre
 1. ¿Qué descubrimiento te sorprendió más sobre los plásticos?
 2. ¿Cambiarías algún hábito después de esta actividad?
-3. ¿Qué plástico de un solo uso crees que sería más fácil eliminar de tu vida?
+3. ¿Qué plástico de un solo uso creés que sería más fácil eliminar de tu vida?
 
 ## Texto original completo de la actividad
 
@@ -307,20 +307,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El factor nutricional"
+title: "El Factor Nutricional"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-factor-nutricional/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-factor-nutricional.png"
+image: "/imagenes/actividades/el-factor-nutricional.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 14  # Reconozco, acepto y valoro mi cuerpo
 ---
 
-# ¡El factor nutricional!
+# ¡El Factor Nutricional!
 
 ## Resumen
 La disminución de los polinizadores significa una disminución de la nutrición global. Hacé un estudio para entender por qué ocurre esto. ¿Cuáles son los principales nutrientes que desaparecerán? ¿Por qué son importantes para nuestra salud? ¿Cuáles son los principales problemas que traerá la malnutrición? ¿Qué partes del mundo probablemente sufrirán más?
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Educa a tu Comunidad"
+title: "Educa a Tu Comunidad"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/educa-a-tu-comunidad/"
-description: "Inicia un programa educativo sobre dietas sanas para tu comunidad con talleres y charlas."
+description: "Iniciá un programa educativo sobre dietas sanas para tu comunidad con talleres y charlas."
 summary: "Programa educativo sobre nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/educa-a-tu-comunidad.png"
+image: "/imagenes/actividades/educa-a-tu-comunidad.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -167,22 +167,22 @@ rama_rovers:
   - 28  # Promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# Educa a tu Comunidad
+# Educa a Tu Comunidad
 
 ## Resumen
-Inicia un programa educativo sobre dietas sanas para tu comunidad con talleres y charlas.
+Iniciá un programa educativo sobre dietas sanas para tu comunidad con talleres y charlas.
 
 ## Preparación
-1. Organiza una serie de reuniones, talleres y charlas.
-2. Diseña pósteres y presentaciones.
-3. Invita a un ponente (nutricionista, médico, profesor de ciencia).
+1. Organizá una serie de reuniones, talleres y charlas.
+2. Diseñá pósteres y presentaciones.
+3. Invitá a un ponente (nutricionista, médico, profesor de ciencia).
 
 ## Desarrollo
-1. **Planificación** (20 min): Organiza el programa y las actividades.
-2. **Demostración** (20 min): Prepara una sesión con alimentos nutritivos.
-3. **Evento** (1 hora): Realiza talleres y charlas.
-4. **Documentación** (15 min): Toma fotos y videos.
-5. **Publicación** (15 min): Publica y distribuye materiales educativos.
+1. **Planificación** (20 min): Organizá el programa y las actividades.
+2. **Demostración** (20 min): Prepará una sesión con alimentos nutritivos.
+3. **Evento** (1 hora): Realizá talleres y charlas.
+4. **Documentación** (15 min): Tomá fotos y videos.
+5. **Publicación** (15 min): Publicá y distribuí materiales educativos.
 
 ## Cierre
 - ¿Cómo reaccionó la comunidad al programa?
@@ -190,16 +190,3 @@ Inicia un programa educativo sobre dietas sanas para tu comunidad con talleres y
 - ¿Qué compromiso adquieres para seguir educando sobre nutrición?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

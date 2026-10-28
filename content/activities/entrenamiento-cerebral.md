@@ -4,7 +4,7 @@ title: "Entrenamiento Cerebral"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/entrenamiento-cerebral/"
-description: "Crea un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambre para compartir con tu grupo."
+description: "Creá un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambre para compartir con tu grupo."
 summary: "Creación de juegos de vocabulario sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/entrenamiento-cerebral.png"
+image: "/imagenes/actividades/entrenamiento-cerebral.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -166,17 +166,17 @@ rama_rovers:
 # Entrenamiento Cerebral
 
 ## Resumen
-Crea un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambre para compartir con tu grupo.
+Creá un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambre para compartir con tu grupo.
 
 ## Preparación
-1. Revisa el glosario del folleto para identificar palabras clave sobre el hambre.
-2. Prepara el material para crear el juego.
-3. Decide qué tipo de prueba vas a crear (crucigrama, sopa de letras, etc.).
+1. Revisá el glosario del folleto para identificar palabras clave sobre el hambre.
+2. Prepará el material para crear el juego.
+3. Decidí qué tipo de prueba vas a crear (crucigrama, sopa de letras, etc.).
 
 ## Desarrollo
-1. **Investigación** (15 min): Identifica palabras clave del vocabulario sobre el hambre.
-2. **Creación** (20 min): Crea tu crucigrama, sopa de letras u otra prueba.
-3. **Juego** (15 min): Comparte tu prueba con tu grupo y jueguen.
+1. **Investigación** (15 min): Identificá palabras clave del vocabulario sobre el hambre.
+2. **Creación** (20 min): Creá tu crucigrama, sopa de letras u otra prueba.
+3. **Juego** (15 min): Compartí tu prueba con tu grupo y jueguen.
 4. **Explicación** (10 min): Cada participante explica las palabras que encuentra.
 
 ## Cierre
@@ -185,16 +185,3 @@ Crea un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambre
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre el hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

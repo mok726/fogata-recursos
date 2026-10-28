@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pinta un Bodegón de Comida de Temporada"
+title: "Pintá un Bodegón de Comida de Temporada"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/pinta-un-bodegon-de-comida-de-temporada/"
-description: "Crea un dibujo con frutas y verduras de temporada para usar como guía de compras."
+description: "Creá un dibujo con frutas y verduras de temporada para usar como guía de compras."
 summary: "Dibujo de alimentos de temporada."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pinta-un-bodegon-de-comida-de-temporada.png"
+image: "/imagenes/actividades/pinta-un-bodegon-de-comida-de-temporada.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -166,20 +166,20 @@ rama_rovers:
   - 6   # Exploro mis intereses vocacionales, descubro mis posibilidades.
 ---
 
-# Pinta un Bodegón de Comida de Temporada
+# Pintá un Bodegón de Comida de Temporada
 
 ## Resumen
-Crea un dibujo con frutas y verduras de temporada para usar como guía de compras.
+Creá un dibujo con frutas y verduras de temporada para usar como guía de compras.
 
 ## Preparación
-1. Haz una lista de frutas y verduras que se venden en los mercados.
-2. Averigua cuándo estarán maduras.
-3. Prepara material de dibujo.
+1. Hacé una lista de frutas y verduras que se venden en los mercados.
+2. Averiguá cuándo estarán maduras.
+3. Prepará material de dibujo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Averigua qué frutas y verduras son de temporada.
-2. **Dibujo** (25 min): Dibuja todas las frutas y verduras de temporada.
-3. **Exhibición** (10 min): Cuelga los dibujos en la cocina o en la clase.
+1. **Investigación** (15 min): Averiguá qué frutas y verduras son de temporada.
+2. **Dibujo** (25 min): Dibujá todas las frutas y verduras de temporada.
+3. **Exhibición** (10 min): Colgá los dibujos en la cocina o en la clase.
 
 ## Cierre
 - ¿Qué frutas y verduras son de temporada en tu zona?
@@ -187,16 +187,3 @@ Crea un dibujo con frutas y verduras de temporada para usar como guía de compra
 - ¿Qué compromiso adquieres para consumir alimentos de temporada?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

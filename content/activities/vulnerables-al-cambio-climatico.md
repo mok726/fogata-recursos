@@ -1,9 +1,9 @@
 ---
-title: "Vulnerables al cambio climático"
+title: "Vulnerables al Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/vulnerables-al-cambio-climatico/"
-description: "Investiga quiénes son especialmente vulnerables al cambio climático."
+description: "Investigá quiénes son especialmente vulnerables al cambio climático."
 summary: "Investigación de grupos vulnerables."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/vulnerables-al-cambio-climatico.png"
+image: "/imagenes/actividades/vulnerables-al-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -148,25 +148,25 @@ rama_rovers:
   - 29  # Indago en las causas de las injusticias.
 ---
 
-# ¡Vulnerables al cambio climático!
+# ¡Vulnerables al Cambio Climático!
 
 ## Resumen
-Investiga quiénes son especialmente vulnerables al cambio climático y qué puedes hacer para ayudarlos.
+Investigá quiénes son especialmente vulnerables al cambio climático y qué podés hacer para ayudarlos.
 
 ## Preparación
-1. Accede a recursos sobre vulnerabilidad climática.
-2. Prepara materiales para la investigación.
+1. Accedé a recursos sobre vulnerabilidad climática.
+2. Prepará materiales para la investigación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre grupos vulnerables.
+1. **Investigación** (25 min): Aprendé sobre grupos vulnerables.
 2. **Análisis** (15 min): ¿Dónde viven? ¿Por qué son vulnerables?
-3. **Acción** (10 min): ¿Qué puedes hacer para ayudarlos?
-4. **Reflexión** (10 min): Comparte lo aprendido.
+3. **Acción** (10 min): ¿Qué podés hacer para ayudarlos?
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Quiénes son más vulnerables al cambio climático?
 - ¿Dónde viven?
-- ¿Qué puedes hacer para ayudarlos?
+- ¿Qué podés hacer para ayudarlos?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Investiga quiénes son especialmente vulnerables al cambio climático y qué pue
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

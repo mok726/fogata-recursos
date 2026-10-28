@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La Seguridad es Primero"
+title: "La Seguridad Es Primero"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-seguridad-es-primero/"
-description: "Aprende sobre normas de seguridad y protección para trabajadores forestales. Crea una lista de control de seguridad para el bosque."
+description: "Aprendé sobre normas de seguridad y protección para trabajadores forestales. Creá una lista de control de seguridad para el bosque."
 summary: "Lista de control de seguridad forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-seguridad-es-primero.png"
+image: "/imagenes/actividades/la-seguridad-es-primero.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -164,36 +164,23 @@ rama_caminantes:
 rama_rovers: []  # No aplica (actividad nivel 1-2)
 ---
 
-# La Seguridad es Primero
+# La Seguridad Es Primero
 
 ## Resumen
-Aprende sobre normas de seguridad y protección para trabajadores forestales. Crea una lista de control de seguridad para el bosque.
+Aprendé sobre normas de seguridad y protección para trabajadores forestales. Creá una lista de control de seguridad para el bosque.
 
 ## Preparación
-1. Investiga normas de seguridad para trabajadores forestales.
-2. Prepara el material para la lista de control.
+1. Investigá normas de seguridad para trabajadores forestales.
+2. Prepará el material para la lista de control.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga normas de seguridad y vestimenta adecuada.
-2. **Análisis** (10 min): Analiza ejemplos de normas que los trabajadores deben seguir.
-3. **Creación** (15 min): Crea una lista de control de seguridad para el bosque.
+1. **Investigación** (15 min): Investigá normas de seguridad y vestimenta adecuada.
+2. **Análisis** (10 min): Analizá ejemplos de normas que los trabajadores deben seguir.
+3. **Creación** (15 min): Creá una lista de control de seguridad para el bosque.
 
 ## Cierre
 - ¿Qué normas de seguridad te parecieron más importantes?
-- ¿Cómo puedes mantenerte seguro en el bosque?
+- ¿Cómo podés mantenerte seguro en el bosque?
 - ¿Qué compromiso adquieres para priorizar la seguridad?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

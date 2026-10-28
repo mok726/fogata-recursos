@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de lluvia ácida"
+title: "Experimento de Lluvia Ácida"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-lluvia-acida/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/experimento-de-lluvia-acida.png"
+image: "/imagenes/actividades/experimento-de-lluvia-acida.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,26 +162,26 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías
 ---
 
-# ¡Experimento de lluvia ácida!
+# ¡Experimento de Lluvia Ácida!
 
 ## Resumen
-Haz un experimento para comprobar los efectos de la lluvia ácida en las plantas. Cultiva tres plantas en tres macetas diferentes bajo condiciones idénticas, excepto por el agua.
+Hacé un experimento para comprobar los efectos de la lluvia ácida en las plantas. Cultivá tres plantas en tres macetas diferentes bajo condiciones idénticas, excepto por el agua.
 
 ## Preparación
-1. Reúne tres plantas en macetas.
-2. Prepara agua, jugo de limón o vinagre.
-3. Prepara una tabla para registrar resultados.
+1. Reuní tres plantas en macetas.
+2. Prepará agua, jugo de limón o vinagre.
+3. Prepará una tabla para registrar resultados.
 
 ## Desarrollo
-1. Cultiva tres plantas en condiciones idénticas.
-2. Riega la primera planta con agua pura (100%).
-3. Riega la segunda con 90% agua y 10% jugo de limón o vinagre.
-4. Riega la tercera con 50% agua y 50% jugo de limón o vinagre.
-5. Observa y registra los cambios durante varias semanas.
+1. Cultivá tres plantas en condiciones idénticas.
+2. Regá la primera planta con agua pura (100%).
+3. Regá la segunda con 90% agua y 10% jugo de limón o vinagre.
+4. Regá la tercera con 50% agua y 50% jugo de limón o vinagre.
+5. Observá y registrá los cambios durante varias semanas.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Cómo afecta la lluvia ácida a las plantas?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Cómo afecta la lluvia ácida a las plantas?
 3. Pregunta final: ¿Qué podemos hacer para reducir la lluvia ácida?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ B.23 Haz un experimento para comprobar los efectos de la lluvia ácida en las pl
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

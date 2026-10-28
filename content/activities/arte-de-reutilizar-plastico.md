@@ -5,7 +5,7 @@ duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-de-reutilizar-plastico/"
 description: "Los jóvenes recolectan plásticos desechados y los transforman en obras de arte, desarrollando su creatividad mientras reflexionan sobre el reciclaje y la reutilización de residuos plásticos."
-summary: "Crea arte con plásticos reutilizados."
+summary: "Creá arte con plásticos reutilizados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arte-de-reutilizar-plastico.png"
+image: "/imagenes/actividades/arte-de-reutilizar-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Plásticos descartados (botellas, envases, tapas, pajillas, etc.)
+  - Plásticos descartados (botellas, envases, tapas, pajitas, etc.)
   - Recipientes para clasificar residuos
   - Pegamento
   - Tijeras
@@ -177,10 +177,10 @@ rama_rovers:
 # ¡El Arte de Reutilizar!
 
 ## Resumen
-Descubre tu lado creativo recolectando plásticos desechados y transformándolos en obras de arte. Puedes crear un collage, una escultura, un móvil o cualquier otra obra que se te ocurra. Esta actividad desarrolla la creatividad mientras reflexionas sobre la importancia de reutilizar los residuos plásticos.
+Descubrí tu lado creativo recolectando plásticos desechados y transformándolos en obras de arte. Podés crear un collage, una escultura, un móvil o cualquier otra obra que se te ocurra. Esta actividad desarrolla la creatividad mientras reflexionas sobre la importancia de reutilizar los residuos plásticos.
 
 ## Preparación
-1. Pedir a los participantes que recolecten plásticos descartados en sus hogares (botellas, envases, tapas, pajillas, etc.).
+1. Pedir a los participantes que recolecten plásticos descartados en sus hogares (botellas, envases, tapas, pajitas, etc.).
 2. Colocar recipientes separados para clasificar los residuos.
 3. Preparar el espacio con mesas y materiales.
 4. Mostrar ejemplos de arte con plástico reciclado para inspirar.
@@ -229,18 +229,3 @@ Descubre tu lado creativo recolectando plásticos desechados y transformándolos
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

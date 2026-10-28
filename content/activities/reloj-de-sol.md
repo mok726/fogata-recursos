@@ -4,8 +4,8 @@ title: "Reloj de Sol"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/reloj-de-sol/"
-description: "Construye tu propio reloj de Sol utilizando una plantilla y aprende cómo la posición del Sol cambia durante el día y en diferentes lugares del mundo."
-summary: "Construye un reloj que marca la hora con el Sol."
+description: "Construí tu propio reloj de Sol utilizando una plantilla y aprendé cómo la posición del Sol cambia durante el día y en diferentes lugares del mundo."
+summary: "Construí un reloj que marca la hora con el Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/reloj-de-sol.png"
+image: "/imagenes/actividades/reloj-de-sol.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -178,7 +178,7 @@ rama_rovers:
 # ¡Reloj de Sol!
 
 ## Resumen
-Construye tu propio reloj de Sol utilizando la plantilla y el paso a paso que se encuentran en el apéndice "Reloj de Sol" o construye el modelo que más les guste. Investiguen y respondan las siguientes preguntas: ¿Se puede viajar con tu reloj de Sol y usarlo en otro país?
+Construí tu propio reloj de Sol utilizando la plantilla y el paso a paso que se encuentran en el apéndice "Reloj de Sol" o construí el modelo que más les guste. Investiguen y respondan las siguientes preguntas: ¿Se puede viajar con tu reloj de Sol y usarlo en otro país?
 
 ## Preparación
 1. Descargá e imprimí la plantilla del reloj de sol (ver Anexo).
@@ -193,11 +193,17 @@ Construye tu propio reloj de Sol utilizando la plantilla y el paso a paso que se
 3. Armá el reloj siguiendo las instrucciones de la plantilla.
 4. Decorá tu reloj como quieras.
 
+> **Nota para el educador:** la lista de materiales corresponde al modelo de plantilla del manual. El anexo propone además dos modelos con otros materiales:
+> - **Modelo 1, básico:** tabla de madera plana o cartón fuerte, un clavo largo, martillo, lápiz y regla. Se clava el clavo en el centro y se marca la sombra cada hora, desde la mañana hasta el atardecer.
+> - **Modelo 2, plantilla personalizada:** se genera en https://www.sundialzone.com/es/relojdesol con tu ubicación y huso horario. Hace falta una hoja A4, impresora, tijeras y pegamento.
+>
+> En el Modelo 1, las marcas valen solo para unas semanas cerca del día en que se hicieron, porque la sombra cambia con las estaciones. Es un buen tema para la pregunta de la Parte III.
+
 ### Parte II - Prueba
 Colocá tu reloj de sol al aire libre con luz solar directa y observá cómo la sombra indica la hora.
 
 ### Parte III - Investigación
-Investiga y respondé:
+Investigá y respondé:
 
 - ¿Se puede viajar con tu reloj de Sol y usarlo en otro país?
 - ¿Por qué un reloj de sol funciona solo en una ubicación específica?
@@ -256,18 +262,3 @@ Link: https://www.sundialzone.com/es/relojdesol
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Anexos incluidos

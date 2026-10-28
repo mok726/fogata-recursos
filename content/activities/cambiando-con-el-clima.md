@@ -4,7 +4,7 @@ title: "Cambiando con el Clima"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cambiando-con-el-clima/"
-description: "Compara cómo tres diferentes tipos de bosques se verán afectados por el cambio climático. Crea un juego de cartas para compartir tus hallazgos."
+description: "Compará cómo tres diferentes tipos de bosques se verán afectados por el cambio climático. Creá un juego de cartas para compartir tus hallazgos."
 summary: "Juego de cartas sobre el impacto del cambio climático en bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,8 +14,8 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cambiando-con-el-clima.png"
-original: "False"
+image: "/imagenes/actividades/cambiando-con-el-clima.jpg"
+original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
 
@@ -169,34 +169,21 @@ rama_rovers:
 # Cambiando con el Clima
 
 ## Resumen
-Compara cómo tres diferentes tipos de bosques se verán afectados por el cambio climático. Crea un juego de cartas para compartir tus hallazgos.
+Compará cómo tres diferentes tipos de bosques se verán afectados por el cambio climático. Creá un juego de cartas para compartir tus hallazgos.
 
 ## Preparación
-1. Investiga cómo el cambio climático afecta a tres tipos de bosques (ej. manglar, montaña, boreal).
-2. Prepara el material para el juego de cartas.
+1. Investigá cómo el cambio climático afecta a tres tipos de bosques (ej. manglar, montaña, boreal).
+2. Prepará el material para el juego de cartas.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende cómo cada tipo de bosque es afectado por el cambio climático.
-2. **Análisis** (15 min): Analiza cómo cada bosque puede influir sobre el cambio climático.
-3. **Creación** (25 min): Diseña y crea un juego de cartas de emparejamiento.
-4. **Juego** (20 min): Juega y comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Aprendé cómo cada tipo de bosque es afectado por el cambio climático.
+2. **Análisis** (15 min): Analizá cómo cada bosque puede influir sobre el cambio climático.
+3. **Creación** (25 min): Diseñá y creá un juego de cartas de emparejamiento.
+4. **Juego** (20 min): Jugá y compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los diferentes tipos de bosques y su relación con el clima?
-- ¿Cómo puedes contribuir a combatir el cambio climático?
+- ¿Cómo podés contribuir a combatir el cambio climático?
 - ¿Qué compromiso adquieres para actuar frente al cambio climático?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

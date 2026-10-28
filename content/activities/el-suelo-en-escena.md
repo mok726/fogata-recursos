@@ -3,7 +3,7 @@ title: "El Suelo en Escena"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-suelo-en-escena/"
-description: "Crea una obra de teatro sobre una comunidad que enfrenta daños al suelo."
+description: "Creá una obra de teatro sobre una comunidad que enfrenta daños al suelo."
 summary: "Obra de teatro sobre la protección del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/el-suelo-en-escena.png"
+image: "/imagenes/actividades/el-suelo-en-escena.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Materiales para escenografía
 tools: []
 responsible:
@@ -145,18 +145,18 @@ rama_rovers:
 # ¡El Suelo en Escena!
 
 ## Resumen
-Crea una obra de teatro sobre una comunidad que depende del suelo y enfrenta su degradación.
+Creá una obra de teatro sobre una comunidad que depende del suelo y enfrenta su degradación.
 
 ## Preparación
-1. Escribe un guión sobre una comunidad y su suelo.
-2. Asigna roles a los participantes.
-3. Reúne materiales para la escenografía.
+1. Escribí un guión sobre una comunidad y su suelo.
+2. Asigná roles a los participantes.
+3. Reuní materiales para la escenografía.
 
 ## Desarrollo
-1. **Escritura** (25 min): Escribe el guión.
-2. **Ensayo** (30 min): Practica la obra.
-3. **Presentación** (20 min): Presenta la obra a la comunidad.
-4. **Discusión** (15 min): Habla sobre las soluciones.
+1. **Escritura** (25 min): Escribí el guión.
+2. **Ensayo** (30 min): Practicá la obra.
+3. **Presentación** (20 min): Presentá la obra a la comunidad.
+4. **Discusión** (15 min): Hablá sobre las soluciones.
 
 ## Cierre
 - ¿Qué problemas enfrenta la comunidad?
@@ -171,16 +171,3 @@ Crea una obra de teatro sobre una comunidad que depende del suelo y enfrenta su 
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

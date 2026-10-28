@@ -1,9 +1,9 @@
 ---
-title: "Prepárate"
+title: "Preparate"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preparate-rrd/"
-description: "Identifica lugares especiales en tu comunidad que quieras proteger y cómo prepararlos para una amenaza."
+description: "Identificá lugares especiales en tu comunidad que quieras proteger y cómo prepararlos para una amenaza."
 summary: "Identificación de lugares a proteger."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/preparate-rrd.png"
+image: "/imagenes/actividades/preparate-rrd.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
   - caminantes
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -143,17 +143,17 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Prepárate!
+# ¡Preparate!
 
 ## Resumen
-Piensa en los lugares especiales de tu comunidad que te gustaría proteger si ocurriera una amenaza, y cómo prepararlos.
+Pensá en los lugares especiales de tu comunidad que te gustaría proteger si ocurriera una amenaza, y cómo prepararlos.
 
 ## Preparación
-- Piensa en los lugares que visitas frecuentemente.
-- Considera cómo una amenaza podría afectarlos.
+- Pensá en los lugares que visitás frecuentemente.
+- Considerá cómo una amenaza podría afectarlos.
 
 ## Desarrollo
-1. **Lluvia de ideas** (10 min): Nombra lugares especiales cerca de ti.
+1. **Lluvia de ideas** (10 min): Nombrá lugares especiales cerca de vos, además de tu casa y tu escuela. ¿Hay algún lugar donde te gusta pasar el rato con amigos y familia? ¿Un parque? ¿Una biblioteca? ¿La plaza del barrio o del pueblo?
 2. **Análisis** (10 min): ¿Cómo podrían verse afectados por una amenaza?
 3. **Planificación** (10 min): ¿Qué se podría hacer para protegerlos?
 
@@ -171,16 +171,3 @@ nivel 2 1
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Ciudades y Comunidades Sostenibles y Vida de Ecosistemas Terrestres.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

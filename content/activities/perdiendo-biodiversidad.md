@@ -4,7 +4,7 @@ title: "Perdiendo Biodiversidad"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/perdiendo-biodiversidad/"
-description: "Elige tu animal favorito del bosque entre aquellos que están enfrentando la extinción y haz un póster para describir su situación actual y cómo podría ser protegido."
+description: "Elegí tu animal favorito del bosque entre aquellos que están enfrentando la extinción y hacé un póster para describir su situación actual y cómo podría ser protegido."
 summary: "Investigación sobre un animal en peligro de extinción."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/perdiendo-biodiversidad.png"
+image: "/imagenes/actividades/perdiendo-biodiversidad.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ rama_rovers:
 # Perdiendo Biodiversidad
 
 ## Resumen
-Elige tu animal favorito del bosque entre aquellos que están enfrentando la extinción y haz un póster para describir su situación actual y cómo podría ser protegido.
+Elegí tu animal favorito del bosque entre aquellos que están enfrentando la extinción y hacé un póster para describir su situación actual y cómo podría ser protegido.
 
 ## Preparación
-1. Investiga sobre animales del bosque en peligro de extinción (pandas, rinocerontes, tigres, orangutanes, gorilas, etc.).
-2. Elige tu animal favorito.
-3. Reúne los materiales para el póster.
+1. Investigá sobre animales del bosque en peligro de extinción (pandas, rinocerontes, tigres, orangutanes, gorilas, etc.).
+2. Elegí tu animal favorito.
+3. Reuní los materiales para el póster.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre tu animal elegido, su situación actual y las causas de su peligro.
-2. **Análisis** (15 min): Piensa en cómo este animal podría ser protegido contra la extinción.
-3. **Creación** (30 min): Crea un póster que describa la situación del animal y las soluciones propuestas.
-4. **Presentación** (15 min): Comparte tu póster con tu grupo.
+1. **Investigación** (20 min): Investigá sobre tu animal elegido, su situación actual y las causas de su peligro.
+2. **Análisis** (15 min): Pensá en cómo este animal podría ser protegido contra la extinción.
+3. **Creación** (30 min): Creá un póster que describa la situación del animal y las soluciones propuestas.
+4. **Presentación** (15 min): Compartí tu póster con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los animales del bosque en peligro de extinción?
@@ -189,16 +189,3 @@ Elige tu animal favorito del bosque entre aquellos que están enfrentando la ext
 - ¿Qué compromiso adquieres para ayudar a conservar la biodiversidad?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

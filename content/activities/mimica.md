@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mimica.png"
+image: "/imagenes/actividades/mimica.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -171,15 +171,15 @@ rama_rovers:
 Juego de mímica con palabras relacionadas con la seguridad alimentaria y la nutrición.
 
 ## Preparación
-1. Prepara un mazo de cartas con palabras relacionadas con seguridad alimentaria y nutrición.
-2. Divide el grupo en equipos.
-3. Prepara el espacio para el juego.
+1. Prepará un mazo de cartas con palabras relacionadas con seguridad alimentaria y nutrición.
+2. Dividí el grupo en equipos.
+3. Prepará el espacio para el juego.
 
 ## Desarrollo
-1. **Creación** (15 min): Crea las cartas con palabras.
-2. **Mezcla** (5 min): Mezcla todas las cartas.
-3. **Juego** (20 min): Juega a la mímica en equipos.
-4. **Puntuación** (5 min): Cuenta los puntos y celebra.
+1. **Creación** (15 min): Creá las cartas con palabras.
+2. **Mezcla** (5 min): Mezclá todas las cartas.
+3. **Juego** (20 min): Jugá a la mímica en equipos.
+4. **Puntuación** (5 min): Contá los puntos y celebrá.
 
 ## Cierre
 - ¿Qué palabras te resultaron más difíciles de representar?
@@ -187,16 +187,3 @@ Juego de mímica con palabras relacionadas con la seguridad alimentaria y la nut
 - ¿Qué compromiso adquieres para seguir aprendiendo?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

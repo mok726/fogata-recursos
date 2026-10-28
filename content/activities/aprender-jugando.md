@@ -4,7 +4,7 @@ title: "Aprender Jugando"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/aprender-jugando/"
-description: "Investiga diferentes tipos de juegos tradicionales de culturas basadas en los bosques. Juega tres de estos juegos y descubre su enseñanza."
+description: "Investigá diferentes tipos de juegos tradicionales de culturas basadas en los bosques. Jugá tres de estos juegos y descubrí su enseñanza."
 summary: "Investigación y práctica de juegos tradicionales forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/aprender-jugando.png"
+image: "/imagenes/actividades/aprender-jugando.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -169,36 +169,23 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Aprender Jugando
 
 ## Resumen
-Investiga diferentes tipos de juegos tradicionales de culturas basadas en los bosques. Juega tres de estos juegos y descubre su enseñanza.
+Investigá diferentes tipos de juegos tradicionales de culturas basadas en los bosques. Jugá tres de estos juegos y descubrí su enseñanza.
 
 ## Preparación
-1. Investiga juegos tradicionales de culturas basadas en bosques.
-2. Elige tres juegos (uno de tu país y dos de otros países).
-3. Reúne los materiales necesarios para cada juego.
+1. Investigá juegos tradicionales de culturas basadas en bosques.
+2. Elegí tres juegos (uno de tu país y dos de otros países).
+3. Reuní los materiales necesarios para cada juego.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre juegos tradicionales de culturas forestales.
-2. **Juego 1** (15 min): Juega el juego de tu país.
-3. **Juego 2** (15 min): Juega el primer juego de otro país.
-4. **Juego 3** (15 min): Juega el segundo juego de otro país.
-5. **Reflexión** (15 min): Discute la enseñanza de cada juego.
+1. **Investigación** (15 min): Aprendé sobre juegos tradicionales de culturas forestales.
+2. **Juego 1** (15 min): Jugá el juego de tu país.
+3. **Juego 2** (15 min): Jugá el primer juego de otro país.
+4. **Juego 3** (15 min): Jugá el segundo juego de otro país.
+5. **Reflexión** (15 min): Discutí la enseñanza de cada juego.
 
 ## Cierre
 - ¿Qué aprendiste sobre los juegos tradicionales de diferentes culturas?
 - ¿Cuál fue la enseñanza de cada juego?
-- ¿Cómo puedes incorporar estos juegos en tu vida diaria?
+- ¿Cómo podés incorporar estos juegos en tu vida diaria?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

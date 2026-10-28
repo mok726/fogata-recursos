@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/giro-del-agua.png"
+image: "/imagenes/actividades/giro-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -170,35 +170,35 @@ translation_notice:
 # ¡Giro del Agua!
 
 ## Resumen
-Puedes encontrar agua a tu alrededor, en el cielo y en el suelo. Usamos agua todos los días, por ejemplo, cuando nos cepillamos los dientes, cuando cocinamos una sopa o cuando regamos nuestras plantas. El agua es un recurso precioso, por lo que aprender a cuidarla es muy importante. Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas, el resto es agua salada (de los océanos) o está permanentemente congelada y no podemos usarla. A medida que la población crece, más y más personas necesitan usar este recurso limitado. Por lo tanto, es importante no desperdiciarla. En esta actividad, los participantes exploran las conexiones entre ser un ciudadano responsable y el uso del agua a través de un juego musical.
+Podés encontrar agua a tu alrededor, en el cielo y en el suelo. Usamos agua todos los días, por ejemplo, cuando nos cepillamos los dientes, cuando cocinamos una sopa o cuando regamos nuestras plantas. El agua es un recurso precioso, por lo que aprender a cuidarla es muy importante. Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas, el resto es agua salada (de los océanos) o está permanentemente congelada y no podemos usarla. A medida que la población crece, más y más personas necesitan usar este recurso limitado. Por lo tanto, es importante no desperdiciarla. En esta actividad, los participantes exploran las conexiones entre ser un ciudadano responsable y el uso del agua a través de un juego musical.
 
 ## Preparación
-1. Elige ocho marcadores de colores y usa cada uno para hacer una cara feliz en cada hoja de papel.
-2. Asigna una de las preguntas proporcionadas abajo a cada color (puedes repetir los colores si tienes más de ocho participantes o puedes crear más preguntas).
-3. Pega los papeles en el suelo formando un círculo con espacio entre cada uno.
+1. Elegí ocho marcadores de colores y usá cada uno para hacer una cara feliz en cada hoja de papel.
+2. Asigná una de las preguntas proporcionadas abajo a cada color (podés repetir los colores si tenés más de ocho participantes o podés crear más preguntas).
+3. Pegá los papeles en el suelo formando un círculo con espacio entre cada uno.
 
 ## Desarrollo
 
 ### Paso 1: Preparación del juego
-1. Explica el juego. Cada participante se para sobre un papel y cuando la música comienza a sonar, cada uno pasa al siguiente cuadrado. Esto continúa hasta que la música se detiene. Cuando esto sucede, cada participante se queda en el cuadrado donde está y tú sacas un marcador al azar de la bolsa para determinar quién debe responder una pregunta.
+1. Explicá el juego. Cada participante se para sobre un papel y cuando la música comienza a sonar, cada uno pasa al siguiente cuadrado. Esto continúa hasta que la música se detiene. Cuando esto sucede, cada participante se queda en el cuadrado donde está y vos sacás un marcador al azar de la bolsa para determinar quién debe responder una pregunta.
 2. Dale al participante (o participantes) un tiempo breve para responder y continúa jugando.
 3. Antes de comenzar de nuevo, retira el papel (o papeles) que correspondan al color que ya sacaste de la bolsa.
-4. Continúa este patrón hasta que quede un ganador.
+4. Continuá este patrón hasta que quede un ganador.
 
 ### Paso 2: Preguntas
-- ¿Cómo puedes ahorrar agua en casa?
+- ¿Cómo podés ahorrar agua en casa?
 - ¿Por qué es importante no desperdiciar agua?
-- ¿Qué pasa si dejas el grifo abierto mientras te cepillas los dientes?
+- ¿Qué pasa si dejás la canilla abierta mientras te cepillás los dientes?
 - ¿Cómo afecta el cambio climático al agua?
-- ¿Qué puedes hacer para involucrar a tu familia en el cuidado del agua?
+- ¿Qué podés hacer para involucrar a tu familia en el cuidado del agua?
 - ¿Por qué el agua es un recurso limitado?
 - ¿Qué significa "consumo responsable"?
-- ¿Cómo puedes reutilizar el agua en casa?
+- ¿Cómo podés reutilizar el agua en casa?
 
 ## Cierre
 - ¿Qué aprendiste sobre el cuidado del agua?
-- ¿Qué cambios puedes hacer en tu vida diaria para ahorrar agua?
-- ¿Cómo puedes ayudar a otros a cuidar el agua?
+- ¿Qué cambios podés hacer en tu vida diaria para ahorrar agua?
+- ¿Cómo podés ayudar a otros a cuidar el agua?
 
 ## Texto original completo de la actividad
 
@@ -300,21 +300,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[16,24], scouts[20,31], caminantes[19,29], rovers[10,27])

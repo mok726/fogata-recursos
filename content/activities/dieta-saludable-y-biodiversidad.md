@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dieta saludable y biodiversidad"
+title: "Dieta Saludable y Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dieta-saludable-y-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dieta-saludable-y-biodiversidad.png"
+image: "/imagenes/actividades/dieta-saludable-y-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -159,25 +159,25 @@ rama_rovers:
   - 14  # Reconozco, acepto y valoro mi cuerpo
 ---
 
-# ¡Dieta saludable y biodiversidad!
+# ¡Dieta Saludable y Biodiversidad!
 
 ## Resumen
-¿Qué necesitas para tener una dieta saludable? Averigua cómo la biodiversidad contribuye a mantener una buena nutrición al imaginar qué pasaría si existiese sólo un tipo de fruta, un tipo de verdura y un tipo de carne disponibles.
+¿Qué necesitás para tener una dieta saludable? Averiguá cómo la biodiversidad contribuye a mantener una buena nutrición al imaginar qué pasaría si existiese sólo un tipo de fruta, un tipo de verdura y un tipo de carne disponibles.
 
 ## Preparación
-1. Reflexiona sobre tu propia dieta.
-2. Prepara ejemplos de alimentos diversos.
-3. Organiza la discusión grupal.
+1. Reflexioná sobre tu propia dieta.
+2. Prepará ejemplos de alimentos diversos.
+3. Organizá la discusión grupal.
 
 ## Desarrollo
-1. Piensa: ¿Qué necesitas para tener una dieta saludable?
-2. Reflexiona: ¿Cómo contribuye la biodiversidad a la nutrición?
-3. Imagina: ¿Qué pasaría si solo existiera un tipo de fruta, una verdura y una carne?
-4. Comparte tus hallazgos con tus profesores, dirigentes o grupo.
+1. Pensá: ¿Qué necesitás para tener una dieta saludable?
+2. Reflexioná: ¿Cómo contribuye la biodiversidad a la nutrición?
+3. Imaginá: ¿Qué pasaría si solo existiera un tipo de fruta, una verdura y una carne?
+4. Compartí tus hallazgos con tus profesores, dirigentes o grupo.
 
 ## Cierre
-1. Discute la importancia de la diversidad alimentaria.
-2. Reflexiona sobre cómo la pérdida de biodiversidad afecta la nutrición.
+1. Discutí la importancia de la diversidad alimentaria.
+2. Reflexioná sobre cómo la pérdida de biodiversidad afecta la nutrición.
 3. Pregunta final: ¿Cómo podemos mantener una dieta diversa y saludable?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ C.02 ¿Qué necesitas para tener una dieta saludable? Averigua cómo la biodiver
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

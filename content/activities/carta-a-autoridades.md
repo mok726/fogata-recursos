@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carta a autoridades"
+title: "Carta a Autoridades"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/carta-a-autoridades/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/carta-a-autoridades.png"
+image: "/imagenes/actividades/carta-a-autoridades.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 24  # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Carta a autoridades!
+# ¡Carta a Autoridades!
 
 ## Resumen
-Escribe a las autoridades locales acerca de un asunto sobre la biodiversidad que te preocupe. No olvides ofrecer algunas soluciones.
+Escribí a las autoridades locales acerca de un asunto sobre la biodiversidad que te preocupe. No olvides ofrecer algunas soluciones.
 
 ## Preparación
-1. Identifica un asunto de biodiversidad en tu comunidad.
-2. Prepara posibles soluciones.
-3. Organiza los grupos de trabajo.
+1. Identificá un asunto de biodiversidad en tu comunidad.
+2. Prepará posibles soluciones.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Escribe una carta a las autoridades locales.
-2. Explica el problema que te preocupa.
-3. Ofrece soluciones concretas.
-4. Envía la carta.
+1. Escribí una carta a las autoridades locales.
+2. Explicá el problema que te preocupa.
+3. Ofrecé soluciones concretas.
+4. Enviá la carta.
 
 ## Cierre
-1. Comparte tu carta con el grupo.
-2. Reflexiona sobre la importancia de la participación ciudadana.
+1. Compartí tu carta con el grupo.
+2. Reflexioná sobre la importancia de la participación ciudadana.
 3. Pregunta final: ¿Cómo podemos involucrar a otros en la defensa de la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ D.30 Escribe a las autoridades locales acerca de un asunto sobre la biodiversida
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

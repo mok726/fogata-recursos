@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pintando el panorama general"
+title: "Pintando el Panorama General"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pintando-el-panorama-general/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pintando-el-panorama-general.png"
+image: "/imagenes/actividades/pintando-el-panorama-general.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Pintando el panorama general!
+# ¡Pintando el Panorama General!
 
 ## Resumen
 No se trata solo de perder nuestros alimentos favoritos. El mundo se vería muy diferente sin polinizadores. Hacé una pintura de cómo se ve el mundo ahora, gracias a los polinizadores. ¿Está lleno de árboles y flores y lleno de vida? Ahora pintá cómo podría verse el mundo si los polinizadores desaparecieran.
@@ -208,20 +208,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

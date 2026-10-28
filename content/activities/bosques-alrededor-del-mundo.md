@@ -4,7 +4,7 @@ title: "Bosques Alrededor del Mundo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-alrededor-del-mundo/"
-description: "Aprende cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa del mundo, escribe las palabras en cada país."
+description: "Aprendé cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa del mundo, escribí las palabras en cada país."
 summary: "Investigación lingüística sobre palabras para bosque y árbol."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bosques-alrededor-del-mundo.png"
+image: "/imagenes/actividades/bosques-alrededor-del-mundo.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -169,19 +169,19 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Bosques Alrededor del Mundo
 
 ## Resumen
-Aprende cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa del mundo, escribe las palabras en cada país en el idioma correspondiente.
+Aprendé cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa del mundo, escribí las palabras en cada país en el idioma correspondiente.
 
 ## Preparación
-1. Investiga cómo se dice 'bosque' y 'árbol' en diez idiomas diferentes.
-2. Consigue un mapa del mundo.
-3. Prepara materiales para escribir.
+1. Investigá cómo se dice 'bosque' y 'árbol' en diez idiomas diferentes.
+2. Conseguí un mapa del mundo.
+3. Prepará materiales para escribir.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga las palabras para 'bosque' y 'árbol' en diez idiomas.
-2. **Mapa** (20 min): Escribe las palabras en el mapa en los países correspondientes.
-3. **Análisis** (15 min): Observa similitudes entre las palabras y su ubicación geográfica.
-4. **Reflexión** (10 min): Discute por qué las palabras similares están cerca en el mapa.
-5. **Presentación** (10 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (20 min): Investigá las palabras para 'bosque' y 'árbol' en diez idiomas.
+2. **Mapa** (20 min): Escribí las palabras en el mapa en los países correspondientes.
+3. **Análisis** (15 min): Observá similitudes entre las palabras y su ubicación geográfica.
+4. **Reflexión** (10 min): Discutí por qué las palabras similares están cerca en el mapa.
+5. **Presentación** (10 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué similitudes encontraste entre las palabras para 'bosque' en diferentes idiomas?
@@ -189,16 +189,3 @@ Aprende cómo decir 'bosque' y 'árbol' en diez idiomas diferentes. En un mapa d
 - ¿Qué aprendiste sobre la diversidad cultural y lingüística?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas brillantes"
+title: "Ideas Brillantes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-brillantes/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ideas-brillantes.png"
+image: "/imagenes/actividades/ideas-brillantes.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -163,25 +163,25 @@ rama_rovers:
   - 18 # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Ideas brillantes!
+# ¡Ideas Brillantes!
 
 ## Resumen
 Hay un montón de ideas y proyectos geniales sobre la eficiencia energética allá afuera. Por ejemplo, la irrigación por goteo con energía solar está ayudando a los agricultores de Benín, y una planta hidráulica a pequeña escala sirve para llevar electricidad a los hogares y escuelas de Tayikistán.
 
 ## Preparación
-1. Investiga sobre proyectos de energía renovable.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre proyectos de energía renovable.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga proyectos innovadores de energía renovable.
-2. Elige uno de los proyectos que te interese.
-3. Investiga: ¿Cómo funciona? ¿Dónde está?
-4. Investiga: ¿Podría implementarse en tu propia área?
-5. Prepara una presentación sobre el proyecto.
+1. Investigá proyectos innovadores de energía renovable.
+2. Elegí uno de los proyectos que te interese.
+3. Investigá: ¿Cómo funciona? ¿Dónde está?
+4. Investigá: ¿Podría implementarse en tu propia área?
+5. Prepará una presentación sobre el proyecto.
 
 ## Cierre
-1. Comparte tu presentación con el grupo.
+1. Compartí tu presentación con el grupo.
 2. Discutan: ¿Qué proyectos serían más útiles en tu comunidad?
 3. Pregunta final: ¿Qué proyecto te pareció más inspirador?
 
@@ -191,16 +191,3 @@ D.12 IDEAS BRILLANTES. Hay un montón de ideas y proyectos geniales sobre la efi
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

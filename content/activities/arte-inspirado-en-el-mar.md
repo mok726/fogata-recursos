@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte inspirado en el mar"
+title: "Arte Inspirado en el Mar"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-inspirado-en-el-mar/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arte-inspirado-en-el-mar.png"
+image: "/imagenes/actividades/arte-inspirado-en-el-mar.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Arte inspirado en el mar!
+# ¡Arte Inspirado en el Mar!
 
 ## Resumen
-El mar y la vida marina aparecen en muchos cuentos populares, novelas, poemas, canciones y obras de arte. Encuentra algunos ejemplos. ¿Cuáles aspectos son reales y cuáles son de fantasía? ¿De dónde crees que vienen los aspectos de fantasía? Crea tu propia obra de arte sobre el mar o la vida marina.
+El mar y la vida marina aparecen en muchos cuentos populares, novelas, poemas, canciones y obras de arte. Encontrá algunos ejemplos. ¿Cuáles aspectos son reales y cuáles son de fantasía? ¿De dónde creés que vienen los aspectos de fantasía? Creá tu propia obra de arte sobre el mar o la vida marina.
 
 ## Preparación
-1. Investiga ejemplos de arte sobre el mar.
-2. Prepara materiales artísticos.
-3. Organiza el espacio de trabajo.
+1. Investigá ejemplos de arte sobre el mar.
+2. Prepará materiales artísticos.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Encuentra ejemplos de cuentos, poemas o canciones sobre el mar.
-2. Discute: ¿Qué aspectos son reales y cuáles son de fantasía?
-3. Reflexiona: ¿De dónde vienen los aspectos de fantasía?
-4. Crea tu propia obra de arte sobre el mar o la vida marina.
+1. Encontrá ejemplos de cuentos, poemas o canciones sobre el mar.
+2. Discutí: ¿Qué aspectos son reales y cuáles son de fantasía?
+3. Reflexioná: ¿De dónde vienen los aspectos de fantasía?
+4. Creá tu propia obra de arte sobre el mar o la vida marina.
 
 ## Cierre
-1. Comparte tu obra con el grupo.
-2. Discute la relación entre el arte y la naturaleza.
+1. Compartí tu obra con el grupo.
+2. Discutí la relación entre el arte y la naturaleza.
 3. Pregunta final: ¿Qué te inspiró más del mar?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ B.14 El mar y la vida marina aparecen en muchos cuentos populares, novelas, poem
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "Detectives de Infracciones contra el Marketing"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/detectives-de-infracciones-contra-el-marketing/"
-description: "Investiga si se violan las recomendaciones de marketing de alimentos no saludables dirigidos a niños."
+description: "Investigá si se violan las recomendaciones de marketing de alimentos no saludables dirigidos a niños."
 summary: "Auditoría de marketing de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/detectives-de-infracciones-contra-el-marketing.png"
+image: "/imagenes/actividades/detectives-de-infracciones-contra-el-marketing.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -172,19 +172,19 @@ rama_rovers:
 # Detectives de Infracciones contra el Marketing
 
 ## Resumen
-Investiga si se violan las recomendaciones de marketing de alimentos no saludables dirigidos a niños.
+Investigá si se violan las recomendaciones de marketing de alimentos no saludables dirigidos a niños.
 
 ## Preparación
-1. Lee las recomendaciones de la OMS sobre marketing de alimentos.
-2. Prepara un cuaderno para tomar notas.
-3. Piensa en lugares donde buscar anuncios (redes sociales, carteles, escuela, etc.).
+1. Leé las recomendaciones de la OMS sobre marketing de alimentos.
+2. Prepará un cuaderno para tomar notas.
+3. Pensá en lugares donde buscar anuncios (redes sociales, carteles, escuela, etc.).
 
 ## Desarrollo
-1. **Investigación** (30 min): Busca anuncios de comida basura dirigidos a niños.
-2. **Observación** (15 min): Observa el marketing en la escuela.
-3. **Análisis** (15 min): Analiza si se violan las recomendaciones.
-4. **Informe** (20 min): Escribe un informe con recomendaciones.
-5. **Presentación** (15 min): Comparte el informe con el grupo y la escuela.
+1. **Investigación** (30 min): Buscá anuncios de comida basura dirigidos a niños.
+2. **Observación** (15 min): Observá el marketing en la escuela.
+3. **Análisis** (15 min): Analizá si se violan las recomendaciones.
+4. **Informe** (20 min): Escribí un informe con recomendaciones.
+5. **Presentación** (15 min): Compartí el informe con el grupo y la escuela.
 
 ## Cierre
 - ¿Qué violaciones de marketing encontraste?
@@ -192,16 +192,3 @@ Investiga si se violan las recomendaciones de marketing de alimentos no saludabl
 - ¿Qué compromiso adquieres para proteger a los niños de la publicidad no saludable?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

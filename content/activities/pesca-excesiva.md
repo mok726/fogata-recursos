@@ -3,7 +3,7 @@ title: "Pesca Excesiva"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/pesca-excesiva/"
-description: "Investiga cómo ha cambiado la pesca a lo largo de los años y escribe un artículo periodístico."
+description: "Investigá cómo ha cambiado la pesca a lo largo de los años y escribí un artículo periodístico."
 summary: "Investigación sobre la pesca excesiva."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/pesca-excesiva.png"
+image: "/imagenes/actividades/pesca-excesiva.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a internet o libros de referencia
   - Pescador(es) para entrevistar
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -153,18 +153,18 @@ rama_rovers:
 # ¡Pesca Excesiva!
 
 ## Resumen
-Investiga cómo ha cambiado la pesca a lo largo de los años, entrevista a pescadores y escribe un artículo periodístico sobre tus hallazgos.
+Investigá cómo ha cambiado la pesca a lo largo de los años, entrevista a pescadores y escribí un artículo periodístico sobre tus hallazgos.
 
 ## Preparación
-1. Identifica pescadores para entrevistar.
-2. Prepara preguntas sobre cambios en la pesca.
-3. Reúne materiales para tomar notas.
+1. Identificá pescadores para entrevistar.
+2. Prepará preguntas sobre cambios en la pesca.
+3. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca datos y cifras sobre cambios en la pesca.
-2. **Entrevista** (20 min): Realiza una entrevista a un pescador (o varios).
-3. **Análisis** (10 min): Compara lo que te contaron con la investigación.
-4. **Escritura** (15 min): Escribe un artículo periodístico.
+1. **Investigación** (15 min): Buscá datos y cifras sobre cambios en la pesca.
+2. **Entrevista** (20 min): Realizá una entrevista a un pescador (o varios).
+3. **Análisis** (10 min): Compará lo que te contaron con la investigación.
+4. **Escritura** (15 min): Escribí un artículo periodístico.
 
 ## Cierre
 - ¿Cómo ha cambiado la pesca a lo largo de los años?
@@ -185,16 +185,3 @@ Extensión: la gestión de las pesquerías es extremadamente complicada. Su obje
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

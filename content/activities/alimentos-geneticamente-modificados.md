@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentos genéticamente modificados"
+title: "Alimentos Genéticamente Modificados"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-geneticamente-modificados/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-geneticamente-modificados.png"
+image: "/imagenes/actividades/alimentos-geneticamente-modificados.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,26 +160,26 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Alimentos genéticamente modificados!
+# ¡Alimentos Genéticamente Modificados!
 
 ## Resumen
-En una tienda de comestibles encuentra cinco tipos de alimentos que hayan sido genéticamente modificados. ¿Es fácil o difícil encontrarlos? ¿En qué se diferencian de sus parientes que no han sido genéticamente modificados? ¿En qué aspectos son iguales? Encuentra tres argumentos a favor y tres argumentos en contra de la modificación genética de alimentos.
+En una tienda de comestibles encuentra cinco tipos de alimentos que hayan sido genéticamente modificados. ¿Es fácil o difícil encontrarlos? ¿En qué se diferencian de sus parientes que no han sido genéticamente modificados? ¿En qué aspectos son iguales? Encontrá tres argumentos a favor y tres argumentos en contra de la modificación genética de alimentos.
 
 ## Preparación
-1. Investiga sobre alimentos genéticamente modificados.
-2. Visita una tienda de comestibles.
-3. Prepara argumentos para el debate.
+1. Investigá sobre alimentos genéticamente modificados.
+2. Visitá una tienda de comestibles.
+3. Prepará argumentos para el debate.
 
 ## Desarrollo
-1. Visita una tienda de comestibles.
-2. Encuentra cinco alimentos genéticamente modificados.
-3. Compara con sus equivalentes no modificados.
-4. Investiga: ¿Cuáles son las diferencias y similitudes?
-5. Encuentra tres argumentos a favor y tres en contra.
+1. Visitá una tienda de comestibles.
+2. Encontrá cinco alimentos genéticamente modificados.
+3. Compará con sus equivalentes no modificados.
+4. Investigá: ¿Cuáles son las diferencias y similitudes?
+5. Encontrá tres argumentos a favor y tres en contra.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Realiza un debate sobre el tema.
+1. Compartí tus hallazgos con el grupo.
+2. Realizá un debate sobre el tema.
 3. Pregunta final: ¿Qué posición tomas sobre los alimentos transgénicos?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ C.09 En una tienda de comestibles encuentra cinco tipos de alimentos que hayan s
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

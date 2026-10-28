@@ -1,9 +1,9 @@
 ---
-title: "A todos nos gusta el agua"
+title: "A Todos Nos Gusta el Agua"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-todos-nos-gusta-el-agua/"
-description: "Visita un ecosistema natural y observa cómo las diferentes especies usan el agua."
+description: "Visitá un ecosistema natural y observá cómo las diferentes especies usan el agua."
 summary: "Observación del uso del agua en la naturaleza."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/a-todos-nos-gusta-el-agua.png"
+image: "/imagenes/actividades/a-todos-nos-gusta-el-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafos para tomar notas
+  - Cuaderno y lapiceras para tomar notas
   - Cámara (opcional)
   - Materiales para póster
 tools: []
@@ -154,21 +154,21 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# ¡A todos nos gusta el agua!
+# ¡A Todos Nos Gusta el Agua!
 
 ## Resumen
-Visita un área natural cerca de tu comunidad y observa cómo las diferentes especies usan el agua en su hábitat.
+Visitá un área natural cerca de tu comunidad y observá cómo las diferentes especies usan el agua en su hábitat.
 
 ## Preparación
-1. Identifica un área natural para visitar (bosque, playa, humedal, granja, parque).
-2. Prepara cuaderno, bolígrafos y cámara.
-3. Organiza el transporte y la supervisión.
+1. Identificá un área natural para visitar (bosque, playa, humedal, granja, parque).
+2. Prepará cuaderno, lapiceras y cámara.
+3. Organizá el transporte y la supervisión.
 
 ## Desarrollo
-1. **Salida** (40 min): Visita el área natural y observa el uso del agua.
-2. **Registro** (20 min): Toma notas y fotografías de lo que observas.
+1. **Salida** (40 min): Visitá el área natural y observá el uso del agua.
+2. **Registro** (20 min): Tomá notas y fotografías de lo que observás.
 3. **Análisis** (15 min): ¿Cómo usa cada especie el agua?
-4. **Creación** (15 min): Prepara un póster explicando la importancia del agua en el ecosistema.
+4. **Creación** (15 min): Prepará un póster explicando la importancia del agua en el ecosistema.
 
 ## Cierre
 - ¿Qué animales y plantas observaste usando agua?
@@ -183,16 +183,3 @@ Visita un área natural cerca de tu comunidad y observa cómo las diferentes esp
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudia los desastres naturales"
+title: "Estudiá los Desastres Naturales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudia-los-desastres-naturales/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/estudia-los-desastres-naturales.png"
+image: "/imagenes/actividades/estudia-los-desastres-naturales.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -162,22 +162,22 @@ rama_rovers:
   - 29 # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Estudia los desastres naturales!
+# ¡Estudiá los Desastres Naturales!
 
 ## Resumen
 Divídanse en grupos para estudiar diferentes desastres relacionados con el clima que han sucedido recientemente, por ejemplo, una inundación o un huracán.
 
 ## Preparación
-1. Investiga sobre desastres naturales recientes.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre desastres naturales recientes.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige un desastre relacionado con el clima.
-2. Investiga: ¿Qué daño causó el desastre?
-3. Investiga: ¿Cómo se unieron las personas para recuperarse y reestablecerse?
-4. Investiga: ¿Se están dando pasos para prevenir o prepararse para futuros desastres?
-5. Piensa: ¿Cuáles son tus ideas sobre cómo prepararse para la próxima vez?
+1. Elegí un desastre relacionado con el clima.
+2. Investigá: ¿Qué daño causó el desastre?
+3. Investigá: ¿Cómo se unieron las personas para recuperarse y reestablecerse?
+4. Investigá: ¿Se están dando pasos para prevenir o prepararse para futuros desastres?
+5. Pensá: ¿Cuáles son tus ideas sobre cómo prepararse para la próxima vez?
 
 ## Cierre
 1. Discutan sus hallazgos e ideas en grupo.
@@ -189,16 +189,3 @@ D.02 ESTUDIA LOS DESASTRES NATURALES. Divídanse en grupos para estudiar diferen
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

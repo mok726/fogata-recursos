@@ -1,9 +1,9 @@
 ---
-title: "Inventa un nuevo uso"
+title: "Inventá un Nuevo Uso"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventa-un-nuevo-uso/"
-description: "Inventa un nuevo uso para un residuo doméstico."
+description: "Inventá un nuevo uso para un residuo doméstico."
 summary: "Reuso creativo de residuos."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/inventa-un-nuevo-uso.png"
+image: "/imagenes/actividades/inventa-un-nuevo-uso.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -142,24 +142,24 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Inventa un nuevo uso!
+# ¡Inventá un Nuevo Uso!
 
 ## Resumen
-Inventa un nuevo uso para un residuo doméstico que normalmente sería botado.
+Inventá un nuevo uso para un residuo doméstico que normalmente sería botado.
 
 ## Preparación
-- Reúne residuos domésticos.
-- Prepara materiales de manualidades.
+- Reuní residuos domésticos.
+- Prepará materiales de manualidades.
 
 ## Desarrollo
-1. **Lluvia de ideas** (10 min): Piensa en posibles usos.
-2. **Creación** (25 min): Crea una obra de arte o un juguete.
-3. **Presentación** (10 min): Muestra tu creación al grupo.
+1. **Lluvia de ideas** (10 min): Pensá en posibles usos.
+2. **Creación** (25 min): Creá una obra de arte o un juguete.
+3. **Presentación** (10 min): Mostrá tu creación al grupo.
 
 ## Cierre
 - ¿Qué residuo reutilizaste?
 - ¿Qué creaste con él?
-- ¿Cómo te sientes al darle una nueva vida a los objetos?
+- ¿Cómo te sentís al darle una nueva vida a los objetos?
 
 ---
 ## Texto original completo de la actividad
@@ -169,16 +169,3 @@ Inventa un nuevo uso para un residuo doméstico que normalmente sería botado.
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

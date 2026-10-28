@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-hidrologico/"
 description: "Los participantes crean carteles con forma de gota de agua con ideas para ahorrar agua, y los colocan en lugares estratégicos para educar a otros sobre el uso responsable del agua."
-summary: "Crea carteles para ahorrar agua."
+summary: "Creá carteles para ahorrar agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/se-hidrologico.png"
+image: "/imagenes/actividades/se-hidrologico.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -170,39 +170,39 @@ translation_notice:
 Muchas personas no son conscientes de la importancia de ahorrar y proteger nuestros recursos hídricos. En esta actividad, los participantes crean carteles con forma de gota de agua con ideas para ahorrar agua, y los colocan en lugares estratégicos para educar a otros sobre el uso responsable del agua.
 
 ## Preparación
-1. Prepara los materiales de arte.
-2. Prepara una lista de ideas para ahorrar agua (puedes usar la lista proporcionada).
+1. Prepará los materiales de arte.
+2. Prepará una lista de ideas para ahorrar agua (podés usar la lista proporcionada).
 
 ## Desarrollo
 
 ### Paso 1: Discusión
-1. Discute con los participantes sobre los muchos usos del agua. ¿Cómo usaron el agua esta mañana? ¿Cómo podemos ahorrar agua a través de nuestras acciones cotidianas?
+1. Discutí con los participantes sobre los muchos usos del agua. ¿Cómo usaron el agua esta mañana? ¿Cómo podemos ahorrar agua a través de nuestras acciones cotidianas?
 
 ### Paso 2: Lluvia de ideas
-2. Pide a los participantes que hagan una lluvia de ideas sobre ideas para ahorrar agua.
+2. Pedí a los participantes que hagan una lluvia de ideas sobre ideas para ahorrar agua.
 
 ### Paso 3: Creación de carteles
-3. Pide a los participantes que recorten trozos de cartulina con forma de gota de agua. Usarán estos para escribir sus ideas para ahorrar agua.
+3. Pedí a los participantes que recorten trozos de cartulina con forma de gota de agua. Usarán estos para escribir sus ideas para ahorrar agua.
 4. Los participantes pueden trabajar solos o en grupos pequeños.
 
 ### Paso 4: Exposición
 5. Una vez que terminen, pueden elegir colocarlos alrededor de la escuela o lugar de reunión, o llevarlos a casa o a la biblioteca local para compartir ideas con sus familias y vecinos.
 
 ## Ideas para ahorrar agua
-- Lava el coche usando un balde.
-- Cierra el grifo mientras te enjabonas las manos o te cepillas los dientes.
-- Lávate las manos antes de comer.
-- Toma una ducha de cinco minutos.
-- Lávate las manos después de ir al baño.
-- Usa una escoba para limpiar tu entrada en lugar de una manguera.
-- Tira la basura en el contenedor.
-- Revisa tu casa en busca de fugas y repara o reemplaza las que goteen.
-- Limpia tu calle para evitar que la basura llegue a los desagües pluviales.
-- Cierra el grifo mientras enjabonas los platos.
-- Lava la fruta antes de comerla.
-- Riega el césped por la mañana o por la tarde, en lugar de en medio del día, para reducir la pérdida de agua por evaporación.
-- Si tu agua no es segura para beber, asegúrate de hervirla o filtrarla antes de beberla.
-- Reduce el uso de fertilizantes y pesticidas, ya que pueden terminar en arroyos y ríos debido a la escorrentía de aguas pluviales.
+- Lavá el auto usando un balde.
+- Cerrá la canilla mientras te enjabonás las manos o te cepillás los dientes.
+- Lavate las manos antes de comer.
+- Tomá una ducha de cinco minutos.
+- Lavate las manos después de ir al baño.
+- Usá una escoba para limpiar tu entrada en lugar de una manguera.
+- Tirá la basura en el contenedor.
+- Revisá tu casa en busca de fugas y repara o reemplazá las que goteen.
+- Limpiá tu calle para evitar que la basura llegue a los desagües pluviales.
+- Cerrá la canilla mientras enjabonás los platos.
+- Lavá la fruta antes de comerla.
+- Regá el césped por la mañana o por la tarde, en lugar de en medio del día, para reducir la pérdida de agua por evaporación.
+- Si tu agua no es segura para beber, asegurate de hervirla o filtrarla antes de beberla.
+- Reducí el uso de fertilizantes y pesticidas, ya que pueden terminar en arroyos y ríos debido a la escorrentía de aguas pluviales.
 
 ## Cierre
 - ¿Cómo contribuyen tus prácticas de uso del agua a los recursos hídricos locales, positiva o negativamente?
@@ -297,21 +297,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[24,46], scouts[31,52], caminantes[29,48], rovers[30,11])

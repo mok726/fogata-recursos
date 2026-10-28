@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los colores de la energía solar"
+title: "Los Colores de la Energía Solar"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/colores-de-la-energia-solar/"
-description: "Experimenta cómo diferentes colores absorben la luz del Sol colocando botellas pintadas de distintos colores al sol y midiendo su temperatura."
-summary: "Descubre cómo los colores absorben el calor del Sol."
+description: "Experimentá cómo diferentes colores absorben la luz del Sol colocando botellas pintadas de distintos colores al sol y midiendo su temperatura."
+summary: "Descubrí cómo los colores absorben el calor del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/colores-de-la-energia-solar.png"
+image: "/imagenes/actividades/colores-de-la-energia-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -166,7 +166,7 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información
 ---
 
-# ¡Los colores de la energía solar!
+# ¡Los Colores de la Energía Solar!
 
 ## Resumen
 ¿Sabías que los colores absorben el calor de manera diferente? En esta actividad pintarán botellas de distintos colores, las llenarán con agua y medirán cómo cambia su temperatura al exponerlas al Sol.
@@ -221,17 +221,3 @@ Para esta actividad necesitarán varias botellas plásticas pintadas en diferent
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/habitos-saludables-personas-saludables.png"
+image: "/imagenes/actividades/habitos-saludables-personas-saludables.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -170,15 +170,15 @@ translation_notice:
 Los gérmenes son agentes infecciosos que pueden enfermarte. Se pueden encontrar en cualquier parte del mundo. Para prevenir el contagio de una enfermedad, primero debemos entender cómo se propaga. En esta actividad, los participantes aprenden sobre la transmisión de enfermedades y la importancia de los hábitos de higiene a través de un juego interactivo que simula cómo se propagan los gérmenes.
 
 ## Preparación
-1. Prepara la pizarra para la discusión.
-2. Designa un área como "hospital" para el juego.
+1. Prepará la pizarra para la discusión.
+2. Designá un área como "hospital" para el juego.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Pide a los participantes que nombren enfermedades que conocen y enuméralas en la pizarra.
-2. Pregunta a los participantes qué causa las enfermedades (los gérmenes). Enfatiza que hay gérmenes tanto dañinos como beneficiosos.
-3. Discute el hecho de que un germen que causa enfermedades probablemente no te enfermará, pero una vez que estos gérmenes se multiplican en tu cuerpo, puedes experimentar síntomas de la enfermedad.
+1. Pedí a los participantes que nombren enfermedades que conocen y enumeralas en la pizarra.
+2. Preguntá a los participantes qué causa las enfermedades (los gérmenes). Enfatiza que hay gérmenes tanto dañinos como beneficiosos.
+3. Discutí el hecho de que un germen que causa enfermedades probablemente no te enfermará, pero una vez que estos gérmenes se multiplican en tu cuerpo, podés experimentar síntomas de la enfermedad.
 
 ### Paso 2: Formas de propagación
 4. Para hacer pensar a los participantes sobre cómo se propagan los gérmenes, representa cada acción en la lista de abajo y pide al grupo que adivine cómo se propagan los gérmenes:
@@ -193,7 +193,7 @@ Los gérmenes son agentes infecciosos que pueden enfermarte. Se pueden encontrar
 5. Después de cada acción, escribe el método en la pizarra y explica el proceso detrás de la transmisión de los gérmenes.
 
 ### Paso 3: Hechos sobre enfermedades
-6. Pide a los participantes que piensen en quiénes se ven más afectados por las enfermedades: personas pobres, niños, ancianos. ¿Por qué? Considera los siguientes hechos:
+6. Pedí a los participantes que piensen en quiénes se ven más afectados por las enfermedades: personas pobres, niños, ancianos. ¿Por qué? Considerá los siguientes hechos:
 - Cada 20 segundos, un niño muere por una enfermedad relacionada con el agua.
 - La mitad de las camas de hospital en el mundo están ocupadas por pacientes que sufren enfermedades asociadas con la falta de acceso a agua potable, saneamiento inadecuado y mala higiene.
 - Se estima que casi el 10 por ciento de la carga mundial de enfermedades podría reducirse mediante un mejor suministro de agua, saneamiento, higiene y gestión de los recursos hídricos.
@@ -201,20 +201,20 @@ Los gérmenes son agentes infecciosos que pueden enfermarte. Se pueden encontrar
 - El 90 por ciento de las muertes por enfermedades diarreicas son niños menores de cinco años, principalmente en países en desarrollo.
 
 ### Paso 4: Juego de "Hábitos Saludables"
-7. Explica que van a jugar un juego de "Hábitos Saludables" para simular cómo se transmite una enfermedad a través de una comunidad y cómo el uso de hábitos saludables puede prevenir la transmisión.
-8. Pide a dos voluntarios que sean "ellos" (gérmenes que causan enfermedades).
-9. Pide a tres voluntarios más que representen "hábitos saludables" que previenen la infección. Cada uno tendrá un rol diferente:
+7. Explicá que van a jugar un juego de "Hábitos Saludables" para simular cómo se transmite una enfermedad a través de una comunidad y cómo el uso de hábitos saludables puede prevenir la transmisión.
+8. Pedí a dos voluntarios que sean "ellos" (gérmenes que causan enfermedades).
+9. Pedí a tres voluntarios más que representen "hábitos saludables" que previenen la infección. Cada uno tendrá un rol diferente:
    - **Rol 1:** te lavaste las manos con agua y jabón después de usar el baño.
    - **Rol 2:** tu familia almacenó toda el agua en recipientes limpios y tapados.
    - **Rol 3:** tu familia purificó toda el agua que consume en casa.
-10. Explica que si alguien es tocado por un participante que representa "ello" (un germen que causa enfermedades), debe salir del área de juego e ir al hospital.
+10. Explicá que si alguien es tocado por un participante que representa "ello" (un germen que causa enfermedades), debe salir del área de juego e ir al hospital.
 11. Si un participante toca a un voluntario de hábitos saludables antes de ser tocado por un "germen que causa enfermedades", tiene inmunidad por un toque. Si un participante ha tocado a los tres "hábitos saludables", tiene inmunidad contra los "gérmenes que causan enfermedades" por tres toques (el mismo nivel de inmunidad que los propios hábitos saludables).
 
 *Nota: Este juego se puede jugar con pegatinas de diferentes colores. "La enfermedad" lleva pegatinas rojas e infecta a los estudiantes colocándoles pegatinas rojas. Los "hábitos saludables" llevan pegatinas amarillas, azules y verdes y dan inmunidad a los estudiantes con sus pegatinas de hábitos saludables. Esto permite a los estudiantes y a las enfermedades llevar un registro del número de toques e inmunidades.*
 
 ### Paso 5: Reflexión
-12. Pregunta a los participantes que levanten la mano si no se enfermaron después de la primera vez que fueron tocados. Repite la pregunta pidiendo a los estudiantes que levanten la mano si no se enfermaron después de la segunda y tercera vez que fueron tocados.
-13. Pregunta a los estudiantes que fueron al hospital cómo se sintieron al sentarse mientras sus amigos continuaban jugando. (Probablemente responderán que no fue divertido. Recuérdales que estar enfermo tampoco es divertido).
+12. Preguntá a los participantes que levanten la mano si no se enfermaron después de la primera vez que fueron tocados. Repetí la pregunta pidiendo a los estudiantes que levanten la mano si no se enfermaron después de la segunda y tercera vez que fueron tocados.
+13. Preguntá a los estudiantes que fueron al hospital cómo se sintieron al sentarse mientras sus amigos continuaban jugando. (Probablemente responderán que no fue divertido. Recordales que estar enfermo tampoco es divertido).
 
 ### Paso 6: Conclusión
 14. Finalmente, pide a los estudiantes que identifiquen hábitos saludables que ayudan a mantener el sistema inmunológico del cuerpo.
@@ -222,7 +222,7 @@ Los gérmenes son agentes infecciosos que pueden enfermarte. Se pueden encontrar
 ## Cierre
 - ¿Cómo te ayuda a mantenerte saludable tener agua limpia e instalaciones de saneamiento?
 - ¿Por qué las enfermedades transmitidas por el agua son más comunes en las zonas pobres?
-- ¿Qué significa esta frase? "Lo que haces por fuera puede mantenerte saludable por dentro."
+- ¿Qué significa esta frase? "Lo que hacés por fuera puede mantenerte saludable por dentro."
 
 ## Texto original completo de la actividad
 
@@ -358,21 +358,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[2,7], scouts[1,13], caminantes[1,12], rovers[1,5])

@@ -4,7 +4,7 @@ title: "Empleos Forestales"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/empleos-forestales/"
-description: "Enumera empleos que dependen de los bosques. Juega un juego de adivinanzas imitando los empleos."
+description: "Enumerá empleos que dependen de los bosques. Jugá un juego de adivinanzas imitando los empleos."
 summary: "Juego de adivinanzas sobre empleos forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/empleos-forestales.png"
+image: "/imagenes/actividades/empleos-forestales.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -169,17 +169,17 @@ rama_rovers:
 # Empleos Forestales
 
 ## Resumen
-Enumera empleos que dependen de los bosques. Juega un juego de adivinanzas imitando los empleos.
+Enumerá empleos que dependen de los bosques. Jugá un juego de adivinanzas imitando los empleos.
 
 ## Preparación
-1. Enumera todos los empleos que dependen de los bosques.
-2. Prepara una lista de empleos para el juego.
+1. Enumerá todos los empleos que dependen de los bosques.
+2. Prepará una lista de empleos para el juego.
 
 ## Desarrollo
-1. **Investigación** (10 min): Enumera empleos forestales directos e indirectos.
-2. **Preparación** (5 min): Selecciona empleos para el juego.
+1. **Investigación** (10 min): Enumerá empleos forestales directos e indirectos.
+2. **Preparación** (5 min): Seleccioná empleos para el juego.
 3. **Juego** (20 min): Una persona imita un empleo y las demás adivinan.
-4. **Reflexión** (10 min): Discute sobre la diversidad de empleos forestales.
+4. **Reflexión** (10 min): Discutí sobre la diversidad de empleos forestales.
 
 ## Cierre
 - ¿Qué empleos forestales te parecieron más interesantes?
@@ -187,16 +187,3 @@ Enumera empleos que dependen de los bosques. Juega un juego de adivinanzas imita
 - ¿Qué compromiso adquieres para valorar el trabajo forestal?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

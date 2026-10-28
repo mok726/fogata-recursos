@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contaminación local"
+title: "Contaminación Local"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/contaminacion-local/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/contaminacion-local.png"
+image: "/imagenes/actividades/contaminacion-local.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Contaminación local!
+# ¡Contaminación Local!
 
 ## Resumen
 ¿Qué impacto tiene la contaminación en tu ciudad? ¿Vivís cerca de una playa o un río? ¿Es la contaminación marina o del aire un problema importante? Investigá para aprender sobre tus ecosistemas locales, el impacto de los diferentes tipos de contaminación y el efecto en las especies en peligro que puedan vivir en tu área. Creá un documental corto con tus hallazgos.
@@ -212,20 +212,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

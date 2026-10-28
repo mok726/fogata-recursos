@@ -4,7 +4,7 @@ title: "Dulces Sueños"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/dulces-suenos/"
-description: "Registra tu patrón de sueño y analiza la calidad de tu descanso para mejorarlo."
+description: "Registrá tu patrón de sueño y analizá la calidad de tu descanso para mejorarlo."
 summary: "Análisis de hábitos de sueño."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dulces-suenos.png"
+image: "/imagenes/actividades/dulces-suenos.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -172,35 +172,22 @@ rama_rovers:
 # Dulces Sueños
 
 ## Resumen
-Registra tu patrón de sueño y analiza la calidad de tu descanso para mejorarlo.
+Registrá tu patrón de sueño y analizá la calidad de tu descanso para mejorarlo.
 
 ## Preparación
-1. Prepara un cuaderno para registrar tu sueño.
-2. Si tienes smartphone, descarga una aplicación para anotar tu patrón de sueño.
-3. Lee el enlace con consejos para dormir mejor.
+1. Prepará un cuaderno para registrar tu sueño.
+2. Si tenés smartphone, descarga una aplicación para anotar tu patrón de sueño.
+3. Leé el enlace con consejos para dormir mejor.
 
 ## Desarrollo
-1. **Registro** (varias noches): Anota las horas de sueño y la calidad del descanso.
-2. **Análisis** (15 min): ¿Cuántas veces te despiertas? ¿Te cuesta dormir? ¿Te levantas descansado?
-3. **Reflexión** (15 min): Identifica razones (comer antes de dormir, ver televisión, etc.).
-4. **Propuesta** (10 min): Planifica cambios para mejorar tu sueño.
+1. **Registro** (varias noches): Anotá las horas de sueño y la calidad del descanso.
+2. **Análisis** (15 min): ¿Cuántas veces te despertás? ¿Te cuesta dormir? ¿Te levantás descansado?
+3. **Reflexión** (15 min): Identificá razones (comer antes de dormir, ver televisión, etc.).
+4. **Propuesta** (10 min): Planificá cambios para mejorar tu sueño.
 
 ## Cierre
-- ¿Duermes la cantidad recomendada?
+- ¿Dormís la cantidad recomendada?
 - ¿Qué factores afectan tu calidad de sueño?
 - ¿Qué compromiso adquieres para dormir mejor?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

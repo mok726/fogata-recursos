@@ -1,9 +1,9 @@
 ---
-title: "Papel reciclado"
+title: "Papel Reciclado"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papel-reciclado/"
-description: "Compra y usa papel reciclado."
+description: "Comprá y usá papel reciclado."
 summary: "Uso de papel reciclado."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/papel-reciclado.png"
+image: "/imagenes/actividades/papel-reciclado.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -139,22 +139,22 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Papel reciclado!
+# ¡Papel Reciclado!
 
 ## Resumen
-Compra y usa papel reciclado para reducir el consumo de recursos.
+Comprá y usá papel reciclado para reducir el consumo de recursos.
 
 ## Preparación
-- Busca papel reciclado en tiendas.
-- Habla con tu familia sobre el cambio.
+- Buscá papel reciclado en tiendas.
+- Hablá con tu familia sobre el cambio.
 
 ## Desarrollo
 1. **Compra** (10 min): Adquiere papel reciclado.
-2. **Uso** (5 min): Usa papel reciclado en tus actividades.
+2. **Uso** (5 min): Usá papel reciclado en tus actividades.
 
 ## Cierre
 - ¿Dónde conseguiste papel reciclado?
-- ¿Cómo te sientes al usar papel reciclado?
+- ¿Cómo te sentís al usar papel reciclado?
 
 ---
 ## Texto original completo de la actividad
@@ -164,16 +164,3 @@ Compra y usa papel reciclado para reducir el consumo de recursos.
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "Recaudar Fondos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/recaudar-fondos/"
-description: "Organiza una rifa para recaudar fondos para un proyecto de nutrición en tu comunidad o en el mundo."
+description: "Organizá una rifa para recaudar fondos para un proyecto de nutrición en tu comunidad o en el mundo."
 summary: "Recaudación de fondos para nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/recaudar-fondos.png"
+image: "/imagenes/actividades/recaudar-fondos.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -170,20 +170,20 @@ rama_rovers:
 # Recaudar Fondos
 
 ## Resumen
-Organiza una rifa para recaudar fondos para un proyecto de nutrición en tu comunidad o en el mundo.
+Organizá una rifa para recaudar fondos para un proyecto de nutrición en tu comunidad o en el mundo.
 
 ## Preparación
-1. Elige un proyecto de nutrición para apoyar.
-2. Prepara los boletos para la rifa.
-3. Consigue premios.
-4. Promociona el evento.
+1. Elegí un proyecto de nutrición para apoyar.
+2. Prepará los boletos para la rifa.
+3. Conseguí premios.
+4. Promocioná el evento.
 
 ## Desarrollo
-1. **Planificación** (20 min): Organiza la rifa.
+1. **Planificación** (20 min): Organizá la rifa.
 2. **Venta** (30 min): Vende boletos.
-3. **Sorteo** (15 min): Realiza el sorteo.
-4. **Donación** (10 min): Dona los fondos al proyecto.
-5. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+3. **Sorteo** (15 min): Realizá el sorteo.
+4. **Donación** (10 min): Doná los fondos al proyecto.
+5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Cómo te sentiste al contribuir a un proyecto de nutrición?
@@ -191,16 +191,3 @@ Organiza una rifa para recaudar fondos para un proyecto de nutrición en tu comu
 - ¿Qué compromiso adquieres para seguir apoyando causas sociales?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

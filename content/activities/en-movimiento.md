@@ -4,7 +4,7 @@ title: "En Movimiento"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/en-movimiento/"
-description: "Investiga un animal del bosque de tu área y dónde vive en diferentes épocas del año. Crea un calendario anual."
+description: "Investigá un animal del bosque de tu área y dónde vive en diferentes épocas del año. Creá un calendario anual."
 summary: "Calendario anual de los movimientos de un animal del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/en-movimiento.png"
+image: "/imagenes/actividades/en-movimiento.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,18 +167,18 @@ rama_rovers: []  # No aplica (actividad nivel 2)
 # En Movimiento
 
 ## Resumen
-Investiga un animal del bosque de tu área y dónde vive en diferentes épocas del año. Crea un calendario anual.
+Investigá un animal del bosque de tu área y dónde vive en diferentes épocas del año. Creá un calendario anual.
 
 ## Preparación
-1. Elige un animal del bosque de tu área.
-2. Investiga dónde vive en diferentes épocas del año.
-3. Prepara material para el calendario.
+1. Elegí un animal del bosque de tu área.
+2. Investigá dónde vive en diferentes épocas del año.
+3. Prepará material para el calendario.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga el animal y sus hábitats estacionales.
-2. **Planificación** (10 min): Diseña el calendario anual.
-3. **Creación** (20 min): Dibuja los lugares donde se encuentra el animal cada mes.
-4. **Presentación** (15 min): Muestra tu calendario al grupo.
+1. **Investigación** (20 min): Investigá el animal y sus hábitats estacionales.
+2. **Planificación** (10 min): Diseñá el calendario anual.
+3. **Creación** (20 min): Dibujá los lugares donde se encuentra el animal cada mes.
+4. **Presentación** (15 min): Mostrá tu calendario al grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los movimientos estacionales del animal?
@@ -186,16 +186,3 @@ Investiga un animal del bosque de tu área y dónde vive en diferentes épocas d
 - ¿Qué compromiso adquieres para proteger su hábitat?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

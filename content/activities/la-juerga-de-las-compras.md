@@ -4,7 +4,7 @@ title: "La Juerga de las Compras"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-juerga-de-las-compras/"
-description: "Visita supermercados y mercados agrícolas para evaluar las medidas de seguridad alimentaria."
+description: "Visitá supermercados y mercados agrícolas para evaluar las medidas de seguridad alimentaria."
 summary: "Evaluación de seguridad alimentaria en tiendas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-juerga-de-las-compras.png"
+image: "/imagenes/actividades/la-juerga-de-las-compras.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ rama_rovers:
 # La Juerga de las Compras
 
 ## Resumen
-Visita supermercados y mercados agrícolas para evaluar las medidas de seguridad alimentaria.
+Visitá supermercados y mercados agrícolas para evaluar las medidas de seguridad alimentaria.
 
 ## Preparación
-1. Visita varios supermercados y mercados agrícolas de la zona.
-2. Lleva un cuaderno para anotar observaciones.
-3. Asegura la supervisión de un adulto.
+1. Visitá varios supermercados y mercados agrícolas de la zona.
+2. Llevá un cuaderno para anotar observaciones.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre las tiendas observando las medidas de seguridad.
+1. **Visita** (30 min): Recorré las tiendas observando las medidas de seguridad.
 2. **Observación** (15 min): ¿Han visto algún problema? ¿Qué están haciendo bien?
-3. **Registro** (10 min): Anota tus observaciones.
-4. **Comparación** (15 min): Compara tus notas en grupo.
+3. **Registro** (10 min): Anotá tus observaciones.
+4. **Comparación** (15 min): Compará tus notas en grupo.
 
 ## Cierre
 - ¿Qué medidas de seguridad alimentaria viste en las tiendas?
@@ -189,16 +189,3 @@ Visita supermercados y mercados agrícolas para evaluar las medidas de seguridad
 - ¿Qué compromiso adquieres para elegir tiendas con buenas prácticas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "'DJ' por un Día"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/dj-por-un-dia/"
-description: "Prepárate para ser DJ de una estación de radio por un día y promueve la lucha contra el hambre."
+description: "Preparate para ser DJ de una estación de radio por un día y promueve la lucha contra el hambre."
 summary: "Radio comunitaria contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dj-por-un-dia.png"
+image: "/imagenes/actividades/dj-por-un-dia.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -173,18 +173,18 @@ rama_rovers:
 # 'DJ' por un Día
 
 ## Resumen
-Prepárate para ser DJ de una estación de radio por un día y promueve la lucha contra el hambre.
+Preparate para ser DJ de una estación de radio por un día y promueve la lucha contra el hambre.
 
 ## Preparación
-1. Elige una lista de canciones que te gustaría tocar.
-2. Prepara noticias importantes sobre el hambre.
-3. Contacta a una estación de radio local.
+1. Elegí una lista de canciones que te gustaría tocar.
+2. Prepará noticias importantes sobre el hambre.
+3. Contactá a una estación de radio local.
 
 ## Desarrollo
-1. **Preparación** (20 min): Prepara el guión y la lista de canciones.
-2. **Contacto** (10 min): Contacta a una estación de radio local.
+1. **Preparación** (20 min): Prepará el guión y la lista de canciones.
+2. **Contacto** (10 min): Contactá a una estación de radio local.
 3. **Grabación/Transmisión** (30 min): Conduce tu programa de radio.
-4. **Reflexión** (15 min): Comparte tu experiencia con el grupo.
+4. **Reflexión** (15 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Qué fue lo más desafiante de ser DJ?
@@ -192,16 +192,3 @@ Prepárate para ser DJ de una estación de radio por un día y promueve la lucha
 - ¿Qué compromiso adquieres para seguir usando los medios para crear conciencia?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

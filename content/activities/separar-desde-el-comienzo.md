@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Separar desde el comienzo"
+title: "Separar desde el Comienzo"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/separar-desde-el-comienzo/"
 description: "Los jóvenes aprenden la importancia de la segregación de residuos a través de una dinámica práctica donde clasifican diferentes tipos de desechos en contenedores de colores, comprendiendo el reciclaje y la gestión de residuos."
-summary: "Aprende a separar los residuos correctamente."
+summary: "Aprendé a separar los residuos correctamente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/separar-desde-el-comienzo.png"
+image: "/imagenes/actividades/separar-desde-el-comienzo.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -165,7 +165,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Separar desde el comienzo!
+# ¡Separar desde el Comienzo!
 
 ## Resumen
 La separación de los residuos debe comenzar en el hogar, ya que es fundamental para su reciclaje y eliminación. Esta actividad ayuda a los jóvenes a comprender la importancia de la segregación de residuos y a aprender a clasificar y eliminar los residuos correctamente, utilizando contenedores de colores según el tipo de residuo.
@@ -186,8 +186,8 @@ La separación de los residuos debe comenzar en el hogar, ya que es fundamental 
 
 ### Parte I - Introducción (5 minutos)
 1. El facilitador presenta el tema de la segregación de residuos.
-2. Muestra los tres contenedores y explica qué tipo de residuo va en cada uno.
-3. Explica la importancia de separar los residuos para el reciclaje.
+2. Mostrá los tres contenedores y explicá qué tipo de residuo va en cada uno.
+3. Explicá la importancia de separar los residuos para el reciclaje.
 
 ### Parte II - Clasificación (10-15 minutos)
 1. Cada participante recibe una hoja con el nombre de un residuo.
@@ -202,7 +202,7 @@ La separación de los residuos debe comenzar en el hogar, ya que es fundamental 
 ## Cierre
 1. ¿Qué aprendiste sobre la separación de residuos?
 2. ¿Qué residuos te resultaron más difíciles de clasificar?
-3. ¿Cómo puedes aplicar lo aprendido en tu hogar?
+3. ¿Cómo podés aplicar lo aprendido en tu hogar?
 
 ## Texto original completo de la actividad
 
@@ -232,18 +232,3 @@ La separación de los residuos debe comenzar en el hogar, ya que es fundamental 
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

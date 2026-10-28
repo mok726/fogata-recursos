@@ -3,7 +3,7 @@ title: "Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-agua/"
-description: "Investiga la relación entre el cambio climático y los desastres naturales relacionados con el agua."
+description: "Investigá la relación entre el cambio climático y los desastres naturales relacionados con el agua."
 summary: "Cambio climático y desastres relacionados con el agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/cambio-climatico-agua.png"
+image: "/imagenes/actividades/cambio-climatico-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -152,18 +152,18 @@ rama_rovers:
 # ¡Cambio Climático!
 
 ## Resumen
-Investiga la relación entre el cambio climático y los desastres naturales relacionados con el agua.
+Investigá la relación entre el cambio climático y los desastres naturales relacionados con el agua.
 
 ## Preparación
-1. Prepara una lista de 10 desastres naturales recientes.
-2. Identifica cuáles están relacionados con el clima.
-3. Investiga sobre adaptación al cambio climático.
+1. Prepará una lista de 10 desastres naturales recientes.
+2. Identificá cuáles están relacionados con el clima.
+3. Investigá sobre adaptación al cambio climático.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca desastres naturales recientes.
+1. **Investigación** (20 min): Buscá desastres naturales recientes.
 2. **Análisis** (15 min): ¿Cuántos están relacionados con el clima?
 3. **Conexión** (15 min): ¿Cómo encaja el agua en todo esto?
-4. **Presentación** (10 min): Prepara una presentación sobre adaptación.
+4. **Presentación** (10 min): Prepará una presentación sobre adaptación.
 
 ## Cierre
 - ¿Qué desastres están relacionados con el cambio climático?
@@ -178,16 +178,3 @@ Investiga la relación entre el cambio climático y los desastres naturales rela
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

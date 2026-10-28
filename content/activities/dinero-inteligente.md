@@ -3,7 +3,7 @@ title: "Dinero Inteligente"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/dinero-inteligente/"
-description: "Investiga soluciones innovadoras para el financiamiento del riesgo de desastres."
+description: "Investigá soluciones innovadoras para el financiamiento del riesgo de desastres."
 summary: "Financiamiento innovador para riesgo de desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/dinero-inteligente.png"
+image: "/imagenes/actividades/dinero-inteligente.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -147,18 +147,18 @@ rama_rovers:
 # ¡Dinero Inteligente!
 
 ## Resumen
-Investiga soluciones innovadoras para el financiamiento y la cobertura del riesgo de desastres, y presenta tus ideas.
+Investigá soluciones innovadoras para el financiamiento y la cobertura del riesgo de desastres, y presentá tus ideas.
 
 ## Preparación
-1. Investiga sobre esquemas existentes de financiamiento.
-2. Piensa en ideas innovadoras para la financiación.
-3. Prepara materiales para la presentación.
+1. Investigá sobre esquemas existentes de financiamiento.
+2. Pensá en ideas innovadoras para la financiación.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga esquemas de financiamiento.
-2. **Análisis** (15 min): Evalúa las soluciones existentes.
-3. **Creatividad** (15 min): Piensa en nuevas ideas.
-4. **Presentación** (5 min): Comparte tus ideas con el grupo.
+1. **Investigación** (25 min): Investigá esquemas de financiamiento.
+2. **Análisis** (15 min): Evaluá las soluciones existentes.
+3. **Creatividad** (15 min): Pensá en nuevas ideas.
+4. **Presentación** (5 min): Compartí tus ideas con el grupo.
 
 ## Cierre
 - ¿Qué esquemas de financiamiento existen?
@@ -173,16 +173,3 @@ Investiga soluciones innovadoras para el financiamiento y la cobertura del riesg
 nivel 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tintes naturales"
+title: "Tintes Naturales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tintes-naturales/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tintes-naturales.png"
+image: "/imagenes/actividades/tintes-naturales.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -37,7 +37,7 @@ age_group:
 materials:
   - Raíces, nueces, bayas, flores
   - Agua
-  - Tela blanca o camiseta
+  - Tela blanca o remera
   - Olla (para cocinar)
   - Sal o vinagre (fijador)
 tools:
@@ -173,26 +173,27 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Tintes naturales!
+# ¡Tintes Naturales!
 
 ## Resumen
-Antes de la invención de los colorantes químicos artificiales, la ropa y otras telas se teñían con tintes provenientes de raíces, nueces, bayas, flores y otras cosas que se encuentran en la naturaleza. Elabora tus propios colorantes naturales de materiales que encuentres en tu vecindario, tienda de comestibles o mercado.
+Antes de la invención de los colorantes químicos artificiales, la ropa y otras telas se teñían con tintes provenientes de raíces, nueces, bayas, flores y otras cosas que se encuentran en la naturaleza. Elaborá tus propios colorantes naturales de materiales que encuentres en tu vecindario, tienda de comestibles o mercado.
 
 ## Preparación
-1. Reúne materiales vegetales para los tintes.
-2. Prepara la tela o camiseta para teñir.
-3. Organiza el espacio de trabajo.
+1. Reuní materiales vegetales para los tintes.
+2. Prepará la tela o remera para teñir.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Recolecta materiales naturales para los tintes.
-2. Prepara los tintes cociendo los materiales en agua.
-3. Añade un fijador (sal o vinagre).
-4. Tiñe la camiseta o pañuelo.
-5. Deja secar.
+1. Recolectá materiales naturales para los tintes.
+2. Prepará los tintes cociendo los materiales en agua.
+3. Añadí un fijador (sal o vinagre).
+4. Teñí la remera o pañuelo.
+5. Dejá secar.
+6. **Seguridad**: evita cualquier planta venenosa y no pruebes los tintes. La olla caliente la maneja un adulto.
 
 ## Cierre
-1. Comparte tu trabajo con el grupo.
-2. Reflexiona: ¿Qué plantas usaste?
+1. Compartí tu trabajo con el grupo.
+2. Reflexioná: ¿Qué plantas usaste?
 3. Pregunta final: ¿Cómo podemos usar tintes naturales hoy?
 
 ## Texto original completo de la actividad
@@ -201,16 +202,3 @@ C.13 Antes de la invención de los colorantes químicos artificiales, la ropa y 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

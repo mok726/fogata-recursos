@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Examen de la ciudad"
+title: "Examen de la Ciudad"
 duration: "2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/examen-de-la-ciudad/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/examen-de-la-ciudad.png"
+image: "/imagenes/actividades/examen-de-la-ciudad.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -165,28 +165,28 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Examen de la ciudad!
+# ¡Examen de la Ciudad!
 
 ## Resumen
-¿Crees que tu ciudad es una ciudad verde? ¿Por qué sí o por qué no? ¿Cuáles son los principales problemas? Como grupo, dediquen un día a explorar diferentes partes de tu ciudad. El recorrido debería incluir parques, paradas o estaciones de transporte público, barrios residenciales y el centro de la ciudad.
+¿Creés que tu ciudad es una ciudad verde? ¿Por qué sí o por qué no? ¿Cuáles son los principales problemas? Como grupo, dediquen un día a explorar diferentes partes de tu ciudad. El recorrido debería incluir parques, paradas o estaciones de transporte público, barrios residenciales y el centro de la ciudad.
 
 ## Preparación
-1. Planifica la ruta del recorrido.
-2. Prepara una tabla de verificación para registrar observaciones.
-3. Organiza los grupos y asigna roles.
+1. Planificá la ruta del recorrido.
+2. Prepará una tabla de verificación para registrar observaciones.
+3. Organizá los grupos y asigná roles.
 
 ## Desarrollo
-1. Recorre distintos puntos de la ciudad.
-2. Registra tus observaciones en los siguientes temas:
+1. Recorré distintos puntos de la ciudad.
+2. Registrá tus observaciones en los siguientes temas:
    - **Servicios sociales**: ¿Hay suficientes contenedores de basura y reciclaje? ¿Tu escuela tiene currículos sobre ciudades verdes?
    - **Alimentación y salud**: ¿Hay programas de intercambio de alimentos? ¿Es fácil para los agricultores locales vender en ferias?
    - **Medio ambiente**: ¿Hay espacios verdes a menos de 15 minutos de tu casa? ¿Hay techos verdes o edificios ecológicos?
    - **Seguridad y resiliencia**: ¿Son comunes las inundaciones? ¿Hay mucha delincuencia?
    - **Transporte**: ¿Es fácil caminar o andar en bicicleta? ¿El transporte público es accesible?
-3. Reúnete con el grupo y compartan observaciones.
+3. Reunite con el grupo y compartan observaciones.
 
 ## Cierre
-1. Reflexiona: ¿Qué aspectos son verdes y cuáles necesitan mejorar?
+1. Reflexioná: ¿Qué aspectos son verdes y cuáles necesitan mejorar?
 2. Para participantes de Nivel 2 y 3: Crea una presentación de tus hallazgos y compártela con las autoridades urbanas locales.
 3. Pregunta final: ¿Qué descubrimiento te sorprendió más de tu ciudad?
 
@@ -286,20 +286,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

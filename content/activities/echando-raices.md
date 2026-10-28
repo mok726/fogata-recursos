@@ -3,7 +3,7 @@ title: "Echando Raíces"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/echando-raices/"
-description: "Planta y cuida plantas para descubrir la importancia de un suelo saludable."
+description: "Plantá y cuidá plantas para descubrir la importancia de un suelo saludable."
 summary: "Plantación y cuidado de plantas."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/echando-raices.png"
+image: "/imagenes/actividades/echando-raices.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -158,23 +158,23 @@ rama_rovers:
 # ¡Echando Raíces!
 
 ## Resumen
-Planta y cuida plantas para descubrir la importancia de un suelo saludable para el crecimiento.
+Plantá y cuidá plantas para descubrir la importancia de un suelo saludable para el crecimiento.
 
 ## Preparación
-1. Investiga sobre los suelos disponibles en tu área.
-2. Obtén permiso para plantar en un jardín o macetas.
-3. Prepara compost orgánico y herramientas.
+1. Investigá sobre los suelos disponibles en tu área.
+2. Obtené permiso para plantar en un jardín o macetas.
+3. Prepará compost orgánico y herramientas.
 
 ## Desarrollo
-1. **Preparación** (20 min): Prepara el suelo con compost.
-2. **Plantación** (20 min): Planta tus plantas o semillas.
-3. **Cuidado** (tiempo variable): Riega y cuida las plantas regularmente.
-4. **Observación** (5 min/semana): Monitorea el crecimiento.
+1. **Preparación** (20 min): Prepará el suelo con compost.
+2. **Plantación** (20 min): Plantá tus plantas o semillas.
+3. **Cuidado** (tiempo variable): Regá y cuidá las plantas regularmente.
+4. **Observación** (5 min/semana): Monitoreá el crecimiento.
 
 ## Cierre
 - ¿Cómo afecta el suelo al crecimiento de las plantas?
 - ¿Qué aprendiste sobre la importancia del suelo?
-- ¿Qué puedes hacer para mantener el suelo saludable?
+- ¿Qué podés hacer para mantener el suelo saludable?
 
 ---
 ## Texto original completo de la actividad
@@ -184,16 +184,3 @@ Planta y cuida plantas para descubrir la importancia de un suelo saludable para 
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

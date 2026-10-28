@@ -1,10 +1,10 @@
 ---
-title: "Visita a un centro de reciclaje"
+title: "Visitá a un Centro de Reciclaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-un-centro-de-reciclaje/"
-description: "Visita un centro de reciclaje o una planta de energía renovable."
-summary: "Visita a centro de reciclaje o energía renovable."
+description: "Visitá un centro de reciclaje o una planta de energía renovable."
+summary: "Visitá a centro de reciclaje o energía renovable."
 
 author:
   - FAO
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/visita-a-un-centro-de-reciclaje.png"
+image: "/imagenes/actividades/visita-a-un-centro-de-reciclaje.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -147,26 +147,26 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Visita a un centro de reciclaje!
+# ¡Visitá a un Centro de Reciclaje!
 
 ## Resumen
-Visita un centro de reciclaje o una planta de energía renovable con tu líder o maestro.
+Visitá un centro de reciclaje o una planta de energía renovable con tu líder o maestro.
 
 ## Preparación
-1. Identifica un centro de reciclaje o planta de energía renovable.
-2. Organiza la visita.
-3. Prepara preguntas para el guía.
+1. Identificá un centro de reciclaje o planta de energía renovable.
+2. Organizá la visita.
+3. Prepará preguntas para el guía.
 
 ## Desarrollo
-1. **Visita** (40 min): Recorre las instalaciones.
+1. **Visita** (40 min): Recorré las instalaciones.
 2. **Observación** (20 min): ¿Cómo funciona?
 3. **Aprendizaje** (15 min): ¿Qué procesos se realizan?
-4. **Reflexión** (15 min): Comparte lo aprendido.
+4. **Reflexión** (15 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Cómo funciona el reciclaje?
 - ¿Qué aprendiste sobre la energía renovable?
-- ¿Cómo puedes contribuir?
+- ¿Cómo podés contribuir?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Visita un centro de reciclaje o una planta de energía renovable con tu líder o
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -3,7 +3,7 @@ title: "P & R"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/p-y-r/"
-description: "Prepara preguntas sobre amenazas y RRD, e invita a un experto para responderlas."
+description: "Prepará preguntas sobre amenazas y RRD, e invitá a un experto para responderlas."
 summary: "Preguntas y respuestas con experto en amenazas."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/p-y-r.png"
+image: "/imagenes/actividades/p-y-r.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Equipo de video (opcional)
 tools: []
 responsible:
@@ -154,23 +154,25 @@ rama_rovers:
 # ¡P & R!
 
 ## Resumen
-Prepara todas las preguntas que tengas sobre amenazas y reducción del riesgo de desastres, e invita a un experto para que las responda.
+Prepará todas las preguntas que tengas sobre amenazas y reducción del riesgo de desastres, e invitá a un experto para que las responda.
 
 ## Preparación
-1. Piensa en preguntas sobre amenazas y RRD.
-2. Escribe las preguntas.
-3. Invita a un experto en amenazas naturales.
+1. Pensá en preguntas sobre amenazas y RRD.
+2. Escribí las preguntas.
+3. Invitá a un experto en amenazas naturales.
 
 ## Desarrollo
-1. **Preparación** (15 min): Escribe tus preguntas.
+1. **Preparación** (15 min): Escribí tus preguntas. Por ejemplo: si las placas de la Tierra se están moviendo, ¿por qué los terremotos tienden a repetirse en los mismos lugares? ¿Cómo pueden los rayos causar un incendio forestal?
 2. **Visita del experto** (30 min): El experto responde las preguntas.
-3. **Video** (10 min): Graba el evento (opcional).
-4. **Compartir** (5 min): Comparte el video con otros.
+3. **Video** (10 min): Grabá el evento (opcional).
+4. **Compartir** (5 min): Compartí el video con tu familia, tus amigos y tus compañeros de escuela.
+
+> **Nota para el educador:** antes de grabar o publicar un video con menores, pedí la autorización de las familias y seguí las normas de protección de tu organización scout nacional. Si alguien no quiere aparecer, grabá de forma que no se lo vea.
 
 ## Cierre
 - ¿Qué aprendiste en la sesión de preguntas?
 - ¿Qué pregunta te pareció más interesante?
-- ¿Cómo puedes usar lo aprendido?
+- ¿Cómo podés usar lo aprendido?
 
 ---
 ## Texto original completo de la actividad
@@ -180,16 +182,3 @@ Prepara todas las preguntas que tengas sobre amenazas y reducción del riesgo de
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

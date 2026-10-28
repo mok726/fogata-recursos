@@ -1,7 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sé un polinizador"
-duration: "1.5 horas"
+title: "Sé un Polinizador"
+duration: "1.5 horas + seguimiento de varias semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-un-polinizador/"
 description: "Experimentá la polinización en primera persona, realizando el trabajo de un polinizador para comprender su importancia."
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/se-un-polinizador.png"
+image: "/imagenes/actividades/se-un-polinizador.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Sé un polinizador!
+# ¡Sé un Polinizador!
 
 ## Resumen
 Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ahora podés declararte un polinizador oficial. Podés divertirte polinizando el mismo tipo de flor pero de diferentes colores y esperar a ver el resultado.
@@ -176,13 +176,15 @@ Seguí las instrucciones para polinizar manualmente algunas flores. ¡Voilà! Ah
 1. Usá el pincel o hisopo para recolectar polen de una flor.
 2. Transferí el polen a otra flor del mismo tipo pero de diferente color.
 3. Esperá y observá los resultados.
-4. Reflexioná: ¿Sabías que Mendel cruzó plantas de guisantes altas y bajas?
+4. Reflexioná: ¿Sabías que Mendel cruzó plantas de arvejas altas y bajas? ¿Qué creés que obtuvo? Si adivinaste "medianas", Mendel también lo pensó, ¡pero se equivocaron! Obtuvo plantas altas, porque ese era el rasgo dominante.
+
+> **Nota para el educador:** las instrucciones de polinización están en la p. 47 del cuadernillo de FAO (en inglés): https://doi.org/10.4060/cb4803en. Los resultados (semillas, plantas nuevas) tardan semanas en verse, así que planeen un seguimiento.
 5. Cronometrá cuánto te lleva hacer 20 viajes de polinización.
 
 ## Cierre
 1. Compartí tus resultados con el grupo.
 2. Reflexioná: ¿Te ayuda esto a apreciar el trabajo de los polinizadores?
-3. Pregunta final: ¿Qué aprendiste sobre la polinización al hacerlo tú mismo?
+3. Pregunta final: ¿Qué aprendiste sobre la polinización al hacerlo vos mismo?
 
 ## Texto original completo de la actividad
 
@@ -210,20 +212,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

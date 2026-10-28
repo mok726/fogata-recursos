@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en los alimentos"
+title: "Energía en los Alimentos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-los-alimentos/"
-description: "Crea un juego de cartas para relacionar alimentos con la energía usada en su producción, desde la pesca hasta los fertilizantes."
-summary: "Descubre la energía oculta en tu comida."
+description: "Creá un juego de cartas para relacionar alimentos con la energía usada en su producción, desde la pesca hasta los fertilizantes."
+summary: "Descubrí la energía oculta en tu comida."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/energia-en-los-alimentos.png"
+image: "/imagenes/actividades/energia-en-los-alimentos.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -163,20 +163,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en los alimentos!
+# ¡Energía en los Alimentos!
 
 ## Resumen
-Divide el grupo en dos equipos. Investiguen y preparen tarjetas con alimentos y tarjetas correspondientes con la energía usada en su producción. ¡El equipo que primero empareje correctamente todas las tarjetas gana!
+Dividí el grupo en dos equipos. Investiguen y preparen tarjetas con alimentos y tarjetas correspondientes con la energía usada en su producción. ¡El equipo que primero empareje correctamente todas las tarjetas gana!
 
 ## Preparación
-1. Lee la información sobre energía en la producción de alimentos.
-2. Prepara tarjetas en blanco.
-3. Investiga el consumo energético de diferentes alimentos.
+1. Leé la información sobre energía en la producción de alimentos.
+2. Prepará tarjetas en blanco.
+3. Investigá el consumo energético de diferentes alimentos.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga la energía usada en la producción de alimentos:
+Investigá la energía usada en la producción de alimentos:
 
 **Ejemplos:**
 - Un barco pesquero consume energía
@@ -185,14 +185,14 @@ Investiga la energía usada en la producción de alimentos:
 - El transporte de alimentos consume energía
 
 ### Parte II - Crear tarjetas
-Crea dos tipos de tarjetas:
+Creá dos tipos de tarjetas:
 
 **Tarjetas de alimentos:** pan, carne, pescado, verduras, frutas
 **Tarjetas de energía:** energía usada en la producción
 
 ### Parte III - Jugar
-1. Mezcla las tarjetas
-2. Intercambia tarjetas con el otro equipo
+1. Mezclá las tarjetas
+2. Intercambiá tarjetas con el otro equipo
 3. El equipo que primero empareje correctamente todos los alimentos con su energía correspondiente gana
 
 ### Parte IV - Reflexionar
@@ -201,7 +201,7 @@ Crea dos tipos de tarjetas:
 ## Cierre
 1. ¿Qué alimento requiere más energía para producirse?
 2. ¿Qué alimento requiere menos energía?
-3. ¿Cómo puedes elegir alimentos que usen menos energía?
+3. ¿Cómo podés elegir alimentos que usen menos energía?
 
 ## Texto original completo de la actividad
 
@@ -231,20 +231,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

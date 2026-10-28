@@ -5,7 +5,7 @@ duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuatro-esquinas/"
 description: "Los participantes comparten opiniones sobre producción sostenible moviéndose a una de cuatro esquinas según su respuesta a preguntas."
-summary: "Comparte tu opinión moviéndote."
+summary: "Compartí tu opinión moviéndote."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuatro-esquinas.png"
+image: "/imagenes/actividades/cuatro-esquinas.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -155,8 +155,8 @@ rama_rovers:
 El objetivo de esta actividad es ayudar a los participantes a compartir opiniones relacionadas con la producción sostenible y a considerar las opiniones, perspectivas y valores de otros sobre el tema.
 
 ## Preparación
-1. Prepara un área o espacio donde se pueden marcar fácilmente 4 esquinas, puede ser una sala de reuniones o un área abierta con un cuadrado marcado en el piso.
-2. Prepara preguntas y asigna cada opción de respuesta a una esquina.
+1. Prepará un área o espacio donde se pueden marcar fácilmente 4 esquinas, puede ser una sala de reuniones o un área abierta con un cuadrado marcado en el piso.
+2. Prepará preguntas y asigná cada opción de respuesta a una esquina.
 
 ## Desarrollo
 
@@ -170,7 +170,7 @@ Los participantes se reúnen en el centro del espacio, listos para escuchar las 
 Una vez que todos los participantes están en su rincón preferido, el facilitador invita a que algunos de ellos compartan por qué lo eligieron. Él ofrece la oportunidad a diferentes participantes en diferentes rincones. Los participantes pueden cambiar de esquina si cambian de opinión.
 
 **Ejemplos de preguntas:**
-- ¿Qué es más importante para ti cuando compras una prenda de vestir nueva? El precio / Qué tan de moda está / Cómo se produjo / Ninguna de las anteriores
+- ¿Qué es más importante para vos cuando compras una prenda de vestir nueva? El precio / Qué tan de moda está / Cómo se produjo / Ninguna de las anteriores
 - ¿Quién es responsable de asegurarse de la sostenibilidad de los productos? Gente común / Los países industrializados / El gobierno / Ninguna de las anteriores
 
 ## Cierre
@@ -218,17 +218,3 @@ Una vez que todos los participantes están en su rincón preferido, el facilitad
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

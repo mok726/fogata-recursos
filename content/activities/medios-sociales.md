@@ -3,7 +3,7 @@ title: "Medios Sociales"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/medios-sociales/"
-description: "Usa las redes sociales para crear conciencia sobre los suelos."
+description: "Usá las redes sociales para crear conciencia sobre los suelos."
 summary: "Campaña en redes sociales sobre el suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/medios-sociales.png"
+image: "/imagenes/actividades/medios-sociales.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -145,23 +145,23 @@ rama_rovers:
 # ¡Medios Sociales!
 
 ## Resumen
-Usa las redes sociales para crear conciencia sobre los suelos y su conservación.
+Usá las redes sociales para crear conciencia sobre los suelos y su conservación.
 
 ## Preparación
-1. Elige una plataforma para tu campaña.
-2. Prepara fotos y contenido.
-3. Define un calendario de publicaciones.
+1. Elegí una plataforma para tu campaña.
+2. Prepará fotos y contenido.
+3. Definí un calendario de publicaciones.
 
 ## Desarrollo
-1. **Preparación** (20 min): Crea contenido interesante.
-2. **Publicación** (15 min): Publica datos y noticias.
-3. **Interacción** (15 min): Invita a otros a compartir fotos.
-4. **Monitoreo** (10 min): Mide el alcance de tu campaña.
+1. **Preparación** (20 min): Creá contenido interesante.
+2. **Publicación** (15 min): Publicá datos y noticias.
+3. **Interacción** (15 min): Invitá a otros a compartir fotos.
+4. **Monitoreo** (10 min): Medí el alcance de tu campaña.
 
 ## Cierre
 - ¿Cuántos seguidores lograste?
 - ¿Qué tipo de contenido fue más popular?
-- ¿Cómo puedes mantener la campaña?
+- ¿Cómo podés mantener la campaña?
 
 ---
 ## Texto original completo de la actividad
@@ -171,16 +171,3 @@ Usa las redes sociales para crear conciencia sobre los suelos y su conservación
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

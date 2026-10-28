@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juegos en línea"
+title: "Juegos en Línea"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juegos-en-linea-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juegos-en-linea-biodiversidad.png"
+image: "/imagenes/actividades/juegos-en-linea-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -174,24 +174,24 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías
 ---
 
-# ¡Juegos en línea!
+# ¡Juegos en Línea!
 
 ## Resumen
-Explora una página web de biodiversidad como www.biodiversity911.org o www.eol.org. Juega dos juegos en línea. Por ejemplo, aprende cómo se llaman las especies al jugar un juego de emparejamiento en www.eol.org/games/identify_the_image. Visita un mapa interactivo. Toma un concurso en línea.
+Explorá una página web de biodiversidad como www.biodiversity911.org o www.eol.org. Jugá dos juegos en línea. Por ejemplo, aprendé cómo se llaman las especies al jugar un juego de emparejamiento en www.eol.org/games/identify_the_image. Visitá un mapa interactivo. Tomá un concurso en línea.
 
 ## Preparación
-1. Identifica páginas web con juegos de biodiversidad.
-2. Prepara computadoras con acceso a internet.
-3. Organiza los grupos de trabajo.
+1. Identificá páginas web con juegos de biodiversidad.
+2. Prepará computadoras con acceso a internet.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Explora páginas web de biodiversidad.
-2. Juega dos juegos en línea.
-3. Toma un concurso en línea si está disponible.
+1. Explorá páginas web de biodiversidad.
+2. Jugá dos juegos en línea.
+3. Tomá un concurso en línea si está disponible.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué aprendiste jugando?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué aprendiste jugando?
 3. Pregunta final: ¿Qué juego te gustó más y por qué?
 
 ## Texto original completo de la actividad
@@ -200,16 +200,3 @@ D.04 Explora una página web de biodiversidad como www.biodiversity911.org o www
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

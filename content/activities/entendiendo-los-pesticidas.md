@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entendiendo los pesticidas"
+title: "Entendiendo los Pesticidas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/entendiendo-los-pesticidas/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/entendiendo-los-pesticidas.png"
+image: "/imagenes/actividades/entendiendo-los-pesticidas.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -164,7 +164,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Entendiendo los pesticidas!
+# ¡Entendiendo los Pesticidas!
 
 ## Resumen
 Neonicotinoides, organoclorados, carbamatos. Existe una amplia gama de pesticidas, algunos tóxicos para los polinizadores, otros no tanto. Hacé un estudio de escritorio para aprender cuáles son los peores infractores. ¿Qué polinizadores dañan? ¿Qué efecto tienen sobre los polinizadores?
@@ -213,20 +213,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

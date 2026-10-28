@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/polinizadores.png"
+image: "/imagenes/actividades/polinizadores.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,20 +165,20 @@ rama_rovers:
 Investiguen los vínculos que existen entre las criaturas que viven en el aire y los alimentos que comemos. Visiten un colmenar o inviten a un apicultor a hablar con su grupo.
 
 ## Preparación
-1. Organiza una visita a un colmenar o invita a un apicultor.
-2. Prepara preguntas para el apicultor.
-3. Organiza los grupos de trabajo.
+1. Organizá una visita a un colmenar o invitá a un apicultor.
+2. Prepará preguntas para el apicultor.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Visita un colmenar o invita a un apicultor.
-2. Elabora una lista de frutas, bayas y vegetales polinizados por insectos.
-3. Identifica: ¿Qué especies de insectos son polinizadores?
-4. Reflexiona: ¿Qué tan saludables son las poblaciones de polinizadores en tu comunidad?
-5. Identifica amenazas para los polinizadores en tu área.
+1. Visitá un colmenar o invitá a un apicultor.
+2. Elaborá una lista de frutas, bayas y vegetales polinizados por insectos.
+3. Identificá: ¿Qué especies de insectos son polinizadores?
+4. Reflexioná: ¿Qué tan saludables son las poblaciones de polinizadores en tu comunidad?
+5. Identificá amenazas para los polinizadores en tu área.
 
 ## Cierre
-1. Identifica una cosa que pueden hacer para ayudar a los insectos polinizadores… ¡y luego háganlo!
-2. Comparte tus hallazgos con el grupo.
+1. Identificá una cosa que pueden hacer para ayudar a los insectos polinizadores… ¡y luego háganlo!
+2. Compartí tus hallazgos con el grupo.
 3. Pregunta final: ¿Cómo podemos proteger a los polinizadores?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ A.18 Investiguen los vínculos que existen entre las criaturas que viven en el a
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

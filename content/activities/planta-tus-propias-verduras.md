@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Planta tus Propias Verduras"
+title: "Plantá Tus Propias Verduras"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/planta-tus-propias-verduras/"
-description: "Cultiva tus propias frutas, verduras y especias en el jardín, balcón o huerto comunitario."
+description: "Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto comunitario."
 summary: "Cultivo de verduras y especias."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/planta-tus-propias-verduras.png"
+image: "/imagenes/actividades/planta-tus-propias-verduras.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -176,22 +176,22 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Planta tus Propias Verduras
+# Plantá Tus Propias Verduras
 
 ## Resumen
-Cultiva tus propias frutas, verduras y especias en el jardín, balcón o huerto comunitario.
+Cultivá tus propias frutas, verduras y especias en el jardín, balcón o huerto comunitario.
 
 ## Preparación
-1. Decide dónde plantar (jardín, balcón, huerto comunitario).
-2. Elige plantas locales y apropiadas para el clima.
-3. Prepara las herramientas y materiales.
+1. Decidí dónde plantar (jardín, balcón, huerto comunitario).
+2. Elegí plantas locales y apropiadas para el clima.
+3. Prepará las herramientas y materiales.
 
 ## Desarrollo
-1. **Preparación** (20 min): Prepara la tierra y las macetas.
-2. **Plantación** (20 min): Planta las semillas o plántulas.
-3. **Cuidado** (tiempo continuo): Riega y cuida las plantas regularmente.
-4. **Registro** (durante el crecimiento): Toma fotos, videos o escribe un blog.
-5. **Tour** (15 min): Invita a la gente a visitar tu jardín.
+1. **Preparación** (20 min): Prepará la tierra y las macetas.
+2. **Plantación** (20 min): Plantá las semillas o plántulas.
+3. **Cuidado** (tiempo continuo): Regá y cuidá las plantas regularmente.
+4. **Registro** (durante el crecimiento): Tomá fotos, videos o escribí un blog.
+5. **Tour** (15 min): Invitá a la gente a visitar tu jardín.
 
 ## Cierre
 - ¿Qué plantas elegiste y por qué?
@@ -199,16 +199,3 @@ Cultiva tus propias frutas, verduras y especias en el jardín, balcón o huerto 
 - ¿Qué compromiso adquieres para seguir cultivando alimentos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

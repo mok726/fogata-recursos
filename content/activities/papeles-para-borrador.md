@@ -1,9 +1,9 @@
 ---
-title: "Papeles para borrador"
+title: "Papeles para Borrador"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/papeles-para-borrador/"
-description: "Reúne papeles para usarlos como borrador."
+description: "Reuní papeles para usarlos como borrador."
 summary: "Reuso de papel."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/papeles-para-borrador.png"
+image: "/imagenes/actividades/papeles-para-borrador.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -141,22 +141,22 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Papeles para borrador!
+# ¡Papeles para Borrador!
 
 ## Resumen
-Reúne papeles usados para usarlos como borrador.
+Reuní papeles usados para usarlos como borrador.
 
 ## Preparación
-- Busca papeles que ya no necesites.
-- Organiza un lugar para guardarlos.
+- Buscá papeles que ya no necesites.
+- Organizá un lugar para guardarlos.
 
 ## Desarrollo
-1. **Recolección** (10 min): Reúne papeles usados.
+1. **Recolección** (10 min): Reuní papeles usados.
 2. **Organización** (5 min): Guárdalos para usarlos como borrador.
 
 ## Cierre
 - ¿Cuánto papel lograste reutilizar?
-- ¿Cómo te sientes al ahorrar papel?
+- ¿Cómo te sentís al ahorrar papel?
 
 ---
 ## Texto original completo de la actividad
@@ -166,16 +166,3 @@ Reúne papeles usados para usarlos como borrador.
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

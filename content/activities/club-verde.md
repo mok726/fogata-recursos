@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Club verde"
+title: "Club Verde"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/club-verde/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/club-verde.png"
+image: "/imagenes/actividades/club-verde.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -164,7 +164,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Club verde!
+# ¡Club Verde!
 
 ## Resumen
 Sabemos que los autos son un gran culpable de las emisiones de gases de efecto invernadero en las ciudades. ¿Por qué no dejar el auto por una opción más saludable y ecológica como caminar o andar en bicicleta? Mejor aún, animá a otros a sumarse.
@@ -179,7 +179,7 @@ Sabemos que los autos son un gran culpable de las emisiones de gases de efecto i
 2. Organizá una reunión de lanzamiento.
 3. Planificá cuándo y dónde se reunirán, cuántos días a la semana.
 4. Establecé un sistema de comunicación (WhatsApp, email).
-5. Empezar a caminar o andar en bicicleta juntos.
+5. Empiecen a caminar o andar en bicicleta juntos.
 6. Establecé metas geniales (ej. dar la vuelta al mundo en distancia acumulada).
 
 ## Cierre
@@ -235,20 +235,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

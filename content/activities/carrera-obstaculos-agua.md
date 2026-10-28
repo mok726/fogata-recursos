@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/carrera-obstaculos-agua.png"
+image: "/imagenes/actividades/carrera-obstaculos-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -177,20 +177,20 @@ translation_notice:
 Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las personas, el resto es agua salada (de los océanos) o está permanentemente congelada y no podemos usarla. Usamos agua todos los días, pero desafortunadamente el agua no está fácilmente disponible en muchas partes del mundo. Hoy en día, alrededor de 700 millones de personas en 43 países sufren falta de agua. Todos los días, mujeres y niños tienen que caminar largas distancias para recolectar agua para sus familias. En esta actividad, los participantes experimentan cómo las personas que no tienen acceso al agua deben esforzarse para obtener este recurso a través de una carrera de obstáculos.
 
 ## Preparación
-1. Prepara el espacio al aire libre para la carrera de obstáculos.
-2. Organiza las estaciones con los materiales.
-3. Llena los baldes con agua y mézclala con un poco de tierra para que esté turbia.
+1. Prepará el espacio al aire libre para la carrera de obstáculos.
+2. Organizá las estaciones con los materiales.
+3. Llená los baldes con agua y mézclala con un poco de tierra para que esté turbia.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Pide a los participantes que imaginen que no tienen agua corriente y que deben recolectar agua de fuentes cercanas a sus hogares. ¿Cómo podría verse, saber u oler esa agua? ¿Les gustaría usar esa agua para beber, limpiar, cocinar, etc.?
-2. Explica que esta es la situación de millones de personas en todo el mundo. ¿Cómo cambiaría tu vida si tuvieras que hacer eso todos los días?
+1. Pedí a los participantes que imaginen que no tienen agua corriente y que deben recolectar agua de fuentes cercanas a sus hogares. ¿Cómo podría verse, saber u oler esa agua? ¿Les gustaría usar esa agua para beber, limpiar, cocinar, etc.?
+2. Explicá que esta es la situación de millones de personas en todo el mundo. ¿Cómo cambiaría tu vida si tuvieras que hacer eso todos los días?
 
 ### Paso 2: Preparación de la carrera
-3. Explica a tu grupo que van a participar en una **Carrera de Obstáculos del Agua** para tener una pequeña idea de cómo esas personas tienen que recolectar su propia agua antes de poder usarla.
+3. Explicá a tu grupo que van a participar en una **Carrera de Obstáculos del Agua** para tener una pequeña idea de cómo esas personas tienen que recolectar su propia agua antes de poder usarla.
 4. La carrera de obstáculos representará el camino que las personas pobres tienen que recorrer para obtener este recurso precioso.
-5. Puedes pedir a tu grupo que te ayude a organizar la carrera y tal vez podrían contribuir con algunas ideas divertidas. De seis a ocho estaciones son suficientes para tener un circuito de obstáculos divertido.
+5. Podés pedir a tu grupo que te ayude a organizar la carrera y tal vez podrían contribuir con algunas ideas divertidas. De seis a ocho estaciones son suficientes para tener un circuito de obstáculos divertido.
 
 ### Paso 3: Estaciones del circuito
 **Aquí hay algunas ideas para las estaciones:**
@@ -199,29 +199,29 @@ Menos del 1 por ciento de toda el agua del planeta puede ser utilizada por las p
 
 2. **Carrera de escalera:** Coloca una escalera de mano en el suelo y pide a los participantes que corran a través de sus peldaños lo más rápido que puedan.
 
-3. **Salto de ladrillos:** Coloca bloques de ladrillos a poca distancia entre sí para que los participantes puedan saltar de un ladrillo a otro. Haz el recorrido en zigzag.
+3. **Salto de ladrillos:** Coloca bloques de ladrillos a poca distancia entre sí para que los participantes puedan saltar de un ladrillo a otro. Hacé el recorrido en zigzag.
 
 4. **Carrera de sacos:** Coloca un saco de arpillera como siguiente desafío. Los participantes deben meterse dentro del saco, sostener las esquinas y saltar hasta el siguiente desafío.
 
 5. **Palanca y neumático:** Coloca dos neumáticos pequeños. Los participantes deben colocar el neumático en posición vertical y luego, usando una vara, hacer rodar el neumático hasta el siguiente desafío.
 
-6. **Recolección de pelotas:** Proporciona a cada participante una pequeña bolsa de tela. Coloca pelotas de golf en el suelo en línea o en zigzag. Los participantes deben ponerse en cuclillas en la línea de salida y saltar como una rana hacia las pelotas. Cuando lleguen a la pelota, pueden levantarse y ponerla en su bolsa.
+6. **Recolección de pelotas:** Proporciona a cada participante una pequeña bolsa de tela. Colocá pelotas de golf en el suelo en línea o en zigzag. Los participantes deben ponerse en cuclillas en la línea de salida y saltar como una rana hacia las pelotas. Cuando lleguen a la pelota, pueden levantarse y ponerla en su bolsa.
 
 7. **Carrera de mandarinas:** Coloca mandarinas en el suelo. Los participantes deben arrodillarse en el suelo y mantener las manos detrás de la espalda. Deben mover la mandarina solo con la nariz hasta la línea de meta.
 
 ### Paso 4: Competencia
-8. Divide a tu grupo en dos equipos. Explica que competirán contra un miembro del equipo contrario.
-9. A tu señal, ambos participantes deben comenzar la carrera de obstáculos y, una vez que lleguen a la estación final y completen el desafío, deben recoger el balde de agua (asegúrate de que no sea demasiado pesado) y correr hasta la línea de salida sin derramar el agua. El primero en terminar obtiene un punto. ¡El equipo que obtenga más puntos es el ganador!
+8. Dividí a tu grupo en dos equipos. Explicá que competirán contra un miembro del equipo contrario.
+9. A tu señal, ambos participantes deben comenzar la carrera de obstáculos y, una vez que lleguen a la estación final y completen el desafío, deben recoger el balde de agua (asegurate de que no sea demasiado pesado) y correr hasta la línea de salida sin derramar el agua. El primero en terminar obtiene un punto. ¡El equipo que obtenga más puntos es el ganador!
 
 **El agua del balde debe estar un poco turbia, mézclala con un poco de tierra.**
 
-## ¡Asegúrate de tomar las precauciones de seguridad necesarias para evitar que alguien se lastime!
+## ¡Asegurate de tomar las precauciones de seguridad necesarias para evitar que alguien se lastime!
 
 ## Cierre
-- ¿Crees que podrías hacer esto todos los días solo para obtener un poco de agua?
+- ¿Creés que podrías hacer esto todos los días solo para obtener un poco de agua?
 - ¿Qué actividades tendrías que abandonar si tuvieras que pasar varias horas cada día recolectando agua?
 - ¿Beberías el agua del balde? ¿Qué harías si no tuvieras otra opción?
-- ¿Qué puedes hacer diferente en tu vida para proteger nuestros recursos hídricos?
+- ¿Qué podés hacer diferente en tu vida para proteger nuestros recursos hídricos?
 
 ## Texto original completo de la actividad
 
@@ -311,21 +311,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[9,19], scouts[12,24], caminantes[11,23], rovers[2,28])

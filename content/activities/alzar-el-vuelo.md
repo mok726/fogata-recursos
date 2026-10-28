@@ -4,7 +4,7 @@ title: "Alzar el Vuelo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alzar-el-vuelo/"
-description: "Investiga una especie de ave forestal que migra a través de continentes. Compara su vida en diferentes bosques y comparte tus hallazgos."
+description: "Investigá una especie de ave forestal que migra a través de continentes. Compará su vida en diferentes bosques y compartí tus hallazgos."
 summary: "Investigación sobre aves migratorias forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alzar-el-vuelo.png"
+image: "/imagenes/actividades/alzar-el-vuelo.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -166,18 +166,18 @@ rama_rovers:
 # Alzar el Vuelo
 
 ## Resumen
-Investiga una especie de ave forestal que migra a través de continentes. Compara su vida en diferentes bosques y comparte tus hallazgos.
+Investigá una especie de ave forestal que migra a través de continentes. Compará su vida en diferentes bosques y compartí tus hallazgos.
 
 ## Preparación
-1. Elige una especie de ave forestal migratoria.
-2. Investiga sus hábitats, alimentación, depredadores y comportamiento social.
-3. Busca fotografías para mostrar.
+1. Elegí una especie de ave forestal migratoria.
+2. Investigá sus hábitats, alimentación, depredadores y comportamiento social.
+3. Buscá fotografías para mostrar.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga la especie elegida y su migración.
-2. **Análisis** (15 min): Compara alimentación, depredadores, patógenos y comportamiento social en cada bosque.
-3. **Reflexión** (10 min): Piensa cómo las aves lidian con esta variedad.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Investigá la especie elegida y su migración.
+2. **Análisis** (15 min): Compará alimentación, depredadores, patógenos y comportamiento social en cada bosque.
+3. **Reflexión** (10 min): Pensá cómo las aves lidian con esta variedad.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre las aves migratorias?
@@ -185,16 +185,3 @@ Investiga una especie de ave forestal que migra a través de continentes. Compar
 - ¿Qué compromiso adquieres para proteger las rutas migratorias?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

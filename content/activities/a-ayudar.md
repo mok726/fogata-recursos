@@ -3,7 +3,7 @@ title: "¡A Ayudar!"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-ayudar/"
-description: "Analiza la asistencia internacional para la recuperación de desastres en países en desarrollo."
+description: "Analizá la asistencia internacional para la recuperación de desastres en países en desarrollo."
 summary: "Análisis de asistencia internacional en desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/a-ayudar.png"
+image: "/imagenes/actividades/a-ayudar.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -117,7 +117,7 @@ category:
   - Solidaridad
 
 skills:
-  - Investigação
+  - Investigación
   - Pensamiento crítico
   - Empatía global
 
@@ -150,22 +150,22 @@ rama_rovers:
 # ¡A Ayudar!
 
 ## Resumen
-Analiza el tipo de asistencia que los países en desarrollo necesitan para la recuperación, o cómo los países desarrollados pueden ayudar.
+Analizá el tipo de asistencia que los países en desarrollo necesitan para la recuperación, o cómo los países desarrollados pueden ayudar.
 
 ## Preparación
-1. Investiga sobre asistencia internacional en desastres.
-2. Prepara materiales para escribir tu reporte.
+1. Investigá sobre asistencia internacional en desastres.
+2. Prepará materiales para escribir tu reporte.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga sobre asistencia para recuperación.
+1. **Investigación** (25 min): Investigá sobre asistencia para recuperación.
 2. **Análisis** (15 min): ¿Qué tipo de ayuda es más necesaria?
-3. **Escritura** (15 min): Escribe un reporte sobre tus hallazgos.
-4. **Compartir** (5 min): Comparte tu reporte con el grupo.
+3. **Escritura** (15 min): Escribí un reporte sobre tus hallazgos.
+4. **Compartir** (5 min): Compartí tu reporte con el grupo.
 
 ## Cierre
 - ¿Qué tipo de asistencia es más necesaria en los países en desarrollo?
 - ¿Cómo pueden los países desarrollados ayudar?
-- ¿Qué puedes hacer tú para apoyar?
+- ¿Qué podés hacer vos para apoyar?
 
 ---
 ## Texto original completo de la actividad
@@ -177,16 +177,3 @@ nivel 3 2
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Alianzas para Lograr Objetivos.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

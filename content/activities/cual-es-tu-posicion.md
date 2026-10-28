@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuál es tu posición sobre...?"
+title: "¿Cuál Es Tu Posición Sobre...?"
 duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-es-tu-posicion/"
 description: "Los participantes exploran sus actitudes, valores y perspectivas sobre sostenibilidad y naturaleza, posicionándose en una línea según su nivel de acuerdo con afirmaciones."
-summary: "Explora tus valores sobre sostenibilidad."
+summary: "Explorá tus valores sobre sostenibilidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cual-es-tu-posicion.png"
+image: "/imagenes/actividades/cual-es-tu-posicion.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -155,16 +155,16 @@ rama_rovers:
   - 29
 ---
 
-# ¿Cuál es tu posición sobre...?
+# ¿Cuál Es Tu Posición Sobre...?
 
 ## Resumen
 Esta actividad busca explorar las actitudes, valores y perspectivas de las personas sobre la sostenibilidad y la naturaleza. También permite a los y las jóvenes desafiar respetuosamente diferentes posiciones y animarlos a comunicar positivamente sus opiniones.
 
 ## Preparación
-1. Haz una línea larga en el piso/tierra con cinta adhesiva o una cuerda.
+1. Hacé una línea larga en el piso/tierra con cinta adhesiva o una cuerda.
 2. Indica a lo largo de la línea los números del 1 al 6.
-3. Prepara afirmaciones o imágenes para presentar.
-4. Entrega papel A4 y marcadores de diferentes colores a cada participante.
+3. Prepará afirmaciones o imágenes para presentar.
+4. Entregá papel A4 y marcadores de diferentes colores a cada participante.
 
 ## Desarrollo
 
@@ -184,7 +184,7 @@ g. Quemar arbustos
 h. Comprar productos o reciclar, reutilizar y reparar
 
 ### Parte III - Variante con imágenes
-Variante de la actividad: usa imágenes de periódicos. Pide a los participantes que indiquen en la línea cuánto están de acuerdo / en desacuerdo o piensan que es sostenible o no. Luego pregúntales cómo piensan que una acción no sostenible puede convertirse en una sostenible.
+Variante de la actividad: usa imágenes de periódicos. Pedí a los participantes que indiquen en la línea cuánto están de acuerdo / en desacuerdo o piensan que es sostenible o no. Luego preguntales cómo piensan que una acción no sostenible puede convertirse en una sostenible.
 
 ## Cierre
 1. ¿Qué afirmación generó más debate?
@@ -243,17 +243,3 @@ Variante de la actividad: usa imágenes de periódicos. Pide a los participantes
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

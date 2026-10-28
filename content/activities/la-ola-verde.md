@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-ola-verde.png"
+image: "/imagenes/actividades/la-ola-verde.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -173,19 +173,19 @@ rama_rovers:
 Alienten a sus amigos y al grupo a que participen en La Ola Verde. Obtengan más información en http://greenwave.cbd.int/es/node/602
 
 ## Preparación
-1. Investiga sobre La Ola Verde.
-2. Organiza la participación.
-3. Prepara árboles para plantar.
+1. Investigá sobre La Ola Verde.
+2. Organizá la participación.
+3. Prepará árboles para plantar.
 
 ## Desarrollo
-1. Aprende sobre La Ola Verde.
-2. Participa en las celebraciones.
-3. Planta árboles el 22 de mayo.
-4. Comparte tu experiencia con otros.
+1. Aprendé sobre La Ola Verde.
+2. Participá en las celebraciones.
+3. Plantá árboles el 22 de mayo.
+4. Compartí tu experiencia con otros.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona sobre el impacto global de la campaña.
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná sobre el impacto global de la campaña.
 3. Pregunta final: ¿Cómo se sintió ser parte de un evento mundial?
 
 ## Texto original completo de la actividad
@@ -194,16 +194,3 @@ D.32 Alienten a sus amigos y al grupo a que participen en La Ola Verde. Obtengan
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

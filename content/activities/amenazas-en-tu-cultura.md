@@ -1,9 +1,9 @@
 ---
-title: "Amenazas en tu Cultura"
+title: "Amenazas en Tu Cultura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-en-tu-cultura/"
-description: "Investiga creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales."
+description: "Investigá creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales."
 summary: "Creencias culturales sobre amenazas naturales."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/amenazas-en-tu-cultura.png"
+image: "/imagenes/actividades/amenazas-en-tu-cultura.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -152,21 +152,21 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Amenazas en tu Cultura!
+# ¡Amenazas en Tu Cultura!
 
 ## Resumen
-Investiga las creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales en tu cultura.
+Investigá las creencias, leyendas y tradiciones locales relacionadas con amenazas y desastres naturales en tu cultura.
 
 ## Preparación
-1. Pide ayuda a padres, abuelos, maestros o bibliotecarios.
-2. Prepara preguntas para entrevistas.
-3. Reúne materiales para el libro de fotos.
+1. Pedí ayuda a padres, abuelos, maestros o bibliotecarios.
+2. Prepará preguntas para entrevistas.
+3. Reuní materiales para el libro de fotos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga creencias locales sobre amenazas.
-2. **Entrevistas** (20 min): Habla con familiares y ancianos.
-3. **Creación** (15 min): Haz un libro de fotos explicando lo que encontraste.
-4. **Compartir** (5 min): Muestra tu libro al grupo.
+1. **Investigación** (20 min): Investigá creencias locales sobre amenazas.
+2. **Entrevistas** (20 min): Hablá con familiares y ancianos.
+3. **Creación** (15 min): Hacé un libro de fotos explicando lo que encontraste.
+4. **Compartir** (5 min): Mostrá tu libro al grupo.
 
 ## Cierre
 - ¿Qué creencias encontraste sobre las amenazas?
@@ -180,16 +180,3 @@ Investiga las creencias, leyendas y tradiciones locales relacionadas con amenaza
 nivel 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

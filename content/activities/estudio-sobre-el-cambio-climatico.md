@@ -4,7 +4,7 @@ title: "Estudio sobre el Cambio Climático"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/estudio-sobre-el-cambio-climatico/"
-description: "Investiga los cambios climáticos en tu área durante los últimos 50 años y sus efectos en la producción de alimentos."
+description: "Investigá los cambios climáticos en tu área durante los últimos 50 años y sus efectos en la producción de alimentos."
 summary: "Investigación sobre cambio climático y agricultura."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/estudio-sobre-el-cambio-climatico.png"
+image: "/imagenes/actividades/estudio-sobre-el-cambio-climatico.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -166,19 +166,19 @@ rama_rovers:
 # Estudio sobre el Cambio Climático
 
 ## Resumen
-Investiga los cambios climáticos en tu área durante los últimos 50 años y sus efectos en la producción de alimentos.
+Investigá los cambios climáticos en tu área durante los últimos 50 años y sus efectos en la producción de alimentos.
 
 ## Preparación
-1. Investiga el clima de tu área local.
-2. Busca información sobre cambios climáticos en los últimos 50 años.
-3. Averigua las proyecciones climáticas para tu región.
+1. Investigá el clima de tu área local.
+2. Buscá información sobre cambios climáticos en los últimos 50 años.
+3. Averiguá las proyecciones climáticas para tu región.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga los cambios climáticos en tu área.
-2. **Análisis** (15 min): Identifica efectos del cambio climático que se están sintiendo.
+1. **Investigación** (20 min): Investigá los cambios climáticos en tu área.
+2. **Análisis** (15 min): Identificá efectos del cambio climático que se están sintiendo.
 3. **Proyección** (15 min): Predice efectos futuros en la producción de alimentos.
-4. **Creación** (20 min): Crea un póster con tus hallazgos.
-5. **Presentación** (15 min): Comparte tu póster con el grupo.
+4. **Creación** (20 min): Creá un póster con tus hallazgos.
+5. **Presentación** (15 min): Compartí tu póster con el grupo.
 
 ## Cierre
 - ¿Qué cambios climáticos has observado en tu área?
@@ -186,16 +186,3 @@ Investiga los cambios climáticos en tu área durante los últimos 50 años y su
 - ¿Qué compromiso adquieres para actuar frente al cambio climático?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

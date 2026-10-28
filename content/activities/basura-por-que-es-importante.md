@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Basura... ¿por qué es importante?"
+title: "Basura... ¿Por Qué Es Importante?"
 duration: "Flexible (1-2 horas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/basura-por-que-es-importante/"
 description: "Los jóvenes investigan y reflexionan sobre el impacto de tirar basura, observando comportamientos en su comunidad y estableciendo la correlación entre la contaminación por plástico y el hábito de desechar residuos inadecuadamente."
-summary: "Investiga el impacto de la basura en el medio ambiente."
+summary: "Investigá el impacto de la basura en el medio ambiente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/basura-por-que-es-importante.png"
+image: "/imagenes/actividades/basura-por-que-es-importante.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -167,13 +167,13 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre especies
 ---
 
-# ¡Basura... por qué es importante!
+# ¡Basura... Por Qué Es Importante!
 
 ## Resumen
 Tirar basura es uno de los mayores desafíos tanto ambientales como sociales que se enfrentan hoy en día. Esta actividad ayuda a los jóvenes a comprender el impacto de tirar basura y la correlación entre la contaminación por plástico y este comportamiento. A través de la observación y el análisis, los participantes reflexionan sobre las causas y consecuencias de la basura en su entorno.
 
 ## Preparación
-1. Preparar materiales de observación (cuadernos, bolígrafos, cámara).
+1. Preparar materiales de observación (cuadernos, lapiceras, cámara).
 2. Identificar lugares para la observación (calles, parques, escuelas).
 3. Explicar el propósito de la actividad.
 4. Establecer medidas de seguridad (guantes, no recoger objetos peligrosos).
@@ -232,18 +232,3 @@ Tirar basura es uno de los mayores desafíos tanto ambientales como sociales que
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

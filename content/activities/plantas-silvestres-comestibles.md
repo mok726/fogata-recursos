@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plantas silvestres comestibles"
+title: "Plantas Silvestres Comestibles"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-silvestres-comestibles/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/plantas-silvestres-comestibles.png"
+image: "/imagenes/actividades/plantas-silvestres-comestibles.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,26 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Plantas silvestres comestibles!
+# ¡Plantas Silvestres Comestibles!
 
 ## Resumen
-Pide a una persona indígena (llamada algunas veces aborigen, nativa o miembro de las naciones originarias en diferentes partes del mundo), a tus padres, a tus abuelos o a amigos ancianos que te enseñen cómo reconocer hierbas y plantas silvestres comestibles. Haz un collage que indique las hierbas y las plantas y sus usos.
+Pedí a una persona indígena (llamada algunas veces aborigen, nativa o miembro de las naciones originarias en diferentes partes del mundo), a tus padres, a tus abuelos o a amigos ancianos que te enseñen cómo reconocer hierbas y plantas silvestres comestibles. Hacé un collage que indique las hierbas y las plantas y sus usos.
 
 ## Preparación
-1. Identifica a una persona con conocimiento de plantas silvestres.
-2. Organiza una salida o visita.
-3. Prepara materiales para el collage.
+1. Identificá a una persona con conocimiento de plantas silvestres.
+2. Organizá una salida o visita.
+3. Prepará materiales para el collage.
 
 ## Desarrollo
-1. Aprende con una persona indígena o anciana sobre plantas silvestres comestibles.
-2. Reconoce e identifica las plantas y sus usos.
-3. Haz un collage con las hierbas y plantas.
-4. Registra sus nombres y usos.
+1. Aprendé con una persona indígena o anciana sobre plantas silvestres comestibles.
+2. Reconocé e identificá las plantas y sus usos.
+3. Hacé un collage con las hierbas y plantas.
+4. Registrá sus nombres y usos.
+5. **Seguridad**: no tomes ni comas ninguna planta por tu cuenta; algunas venenosas se parecen mucho a las comestibles.
 
 ## Cierre
-1. Comparte tu collage con el grupo.
-2. Reflexiona: ¿Qué aprendiste de las personas mayores?
+1. Compartí tu collage con el grupo.
+2. Reflexioná: ¿Qué aprendiste de las personas mayores?
 3. Pregunta final: ¿Cómo podemos preservar este conocimiento tradicional?
 
 ## Texto original completo de la actividad
@@ -189,16 +190,3 @@ C.04 Pide a una persona indígena (llamada algunas veces aborigen, nativa o miem
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

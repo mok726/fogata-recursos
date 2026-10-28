@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plataformas en línea"
+title: "Plataformas en Línea"
 duration: "1.5 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/platformas-en-linea/"
-description: "Visita y participación en plataformas en línea donde jóvenes comparten acciones sobre biodiversidad."
+description: "Visitá y participación en plataformas en línea donde jóvenes comparten acciones sobre biodiversidad."
 summary: "Unirse a plataformas en línea sobre biodiversidad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/platformas-en-linea.png"
+image: "/imagenes/actividades/platformas-en-linea.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -168,25 +168,25 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Plataformas en línea!
+# ¡Plataformas en Línea!
 
 ## Resumen
-Visita tres plataformas en línea donde los jóvenes comparten información y se apoyan mutuamente en acciones relacionadas con aspectos de la biodiversidad y del medio ambiente. Únete y contribuye con una de ellas.
+Visitá tres plataformas en línea donde los jóvenes comparten información y se apoyan mutuamente en acciones relacionadas con aspectos de la biodiversidad y del medio ambiente. Únete y contribuí con una de ellas.
 
 ## Preparación
-1. Identifica plataformas en línea para visitar.
-2. Prepara computadoras con acceso a internet.
-3. Organiza los grupos de trabajo.
+1. Identificá plataformas en línea para visitar.
+2. Prepará computadoras con acceso a internet.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Visita las plataformas en línea.
-2. Explora cómo los jóvenes comparten información.
+1. Visitá las plataformas en línea.
+2. Explorá cómo los jóvenes comparten información.
 3. Únete a una de ellas.
-4. Contribuye con una acción o comentario.
+4. Contribuí con una acción o comentario.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Cómo ayudan estas plataformas?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Cómo ayudan estas plataformas?
 3. Pregunta final: ¿Qué plataforma te gustó más y por qué?
 
 ## Texto original completo de la actividad
@@ -195,16 +195,3 @@ D.26 Visita tres plataformas en línea donde los jóvenes comparten información
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

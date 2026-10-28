@@ -1,9 +1,9 @@
 ---
-title: "Haz una Colecta de Dinero"
+title: "Hacé una Colecta de Dinero"
 duration: "Proyecto de recaudación"
 layout: "layouts/activity.njk"
 permalink: "/activities/colecta-de-dinero/"
-description: "Organiza un evento para recaudar fondos para niños afectados por desastres."
+description: "Organizá un evento para recaudar fondos para niños afectados por desastres."
 summary: "Recaudación de fondos para niños en desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/colecta-de-dinero.png"
+image: "/imagenes/actividades/colecta-de-dinero.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -157,21 +157,26 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# ¡Haz una Colecta de Dinero!
+# ¡Hacé una Colecta de Dinero!
 
 ## Resumen
-Organiza un evento para recaudar fondos para niños afectados por desastres, como una venta de pasteles, una rifa o una noche de cine.
+Organizá un evento para recaudar fondos para niños afectados por desastres, como una venta de tortas, una rifa o una noche de cine.
 
 ## Preparación
-1. Elige el tipo de evento.
-2. Consigue los materiales necesarios.
-3. Promociona el evento en tu comunidad.
+1. Elegí el tipo de evento.
+2. Conseguí los materiales necesarios.
+3. Promocioná el evento en tu comunidad.
 
 ## Desarrollo
-1. **Planificación** (30 min): Define el evento y los detalles.
-2. **Preparación** (30 min): Prepara todo lo necesario.
-3. **Evento** (2-3 horas): Lleva a cabo la recaudación.
-4. **Donación** (15 min): Envía las ganancias a una organización benéfica.
+1. **Planificación** (30 min): Definí el evento y los detalles.
+2. **Preparación** (30 min): Prepará todo lo necesario.
+3. **Evento** (2-3 horas): Llevá a cabo la recaudación.
+4. **Donación** (15 min): Enviá las ganancias a una organización benéfica.
+
+> **Nota para el educador:**
+> - Las rifas y sorteos suelen necesitar autorización oficial. En Argentina, por ejemplo, la otorga la lotería de cada provincia. Averiguá qué se pide en tu país.
+> - El manejo de dinero con menores tiene que seguir las normas de tu organización scout nacional: siempre con un adulto responsable, con registro de lo recaudado y rendición de cuentas.
+> - Además de las organizaciones internacionales, pueden elegir una local. En Argentina, por ejemplo: Cruz Roja Argentina, Cáritas o UNICEF Argentina.
 
 ## Cierre
 - ¿Cuánto dinero lograste recaudar?
@@ -186,16 +191,3 @@ Organiza un evento para recaudar fondos para niños afectados por desastres, com
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

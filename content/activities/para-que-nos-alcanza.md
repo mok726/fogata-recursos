@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Para qué nos alcanza?"
+title: "¿Para Qué Nos Alcanza?"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/para-que-nos-alcanza/"
 description: "Los participantes simulan la compra de alimentos para una familia con el valor de una canasta básica alimentaria, reflexionando sobre la pobreza y la inseguridad alimentaria."
-summary: "Simula la compra de alimentos con recursos limitados."
+summary: "Simulá la compra de alimentos con recursos limitados."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/para-que-nos-alcanza.png"
+image: "/imagenes/actividades/para-que-nos-alcanza.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -164,21 +164,23 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# ¿Para qué nos alcanza?
+# ¿Para Qué Nos Alcanza?
 
 ## Resumen
-Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan con el valor de una canasta básica alimentaria (investiguen su valor) y tienen que comprar los alimentos para vivir un mes con ese dinero. Confeccionen una lista con todos los elementos que comprarían y sus precios. Luego piensen e intercambien opiniones sobre si lo que podrían comprar es suficiente, y si realmente el valor de la canasta básica alimentaria es acorde a las necesidades de la población. Siendo conscientes que gran cantidad de personas y familias en el país no cuentan ni siquiera con ese ingreso para cubrir sus necesidades.
+Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan con el valor de una canasta básica alimentaria (investiguen su valor) y tienen que comprar los alimentos para vivir un mes con ese dinero. Confeccionen una lista con todos los elementos que comprarían y sus precios. Luego piensen e intercambien opiniones sobre si lo que podrían comprar es suficiente, y si realmente el valor de la canasta básica alimentaria es acorde a las necesidades de la población. Siendo conscientes de que gran cantidad de personas y familias en el país no cuentan ni siquiera con ese ingreso para cubrir sus necesidades.
 
 ## Preparación
-1. Investiga el valor actual de la canasta básica alimentaria en tu país.
-2. Prepara los materiales de escritura.
-3. Si es posible, ten a mano folletos de supermercado o acceso a Internet para consultar precios.
+1. Investigá el valor actual de la canasta básica alimentaria en tu país.
+2. Prepará los materiales de escritura.
+3. Si es posible, tené a mano folletos de supermercado o acceso a Internet para consultar precios.
 
 ## Desarrollo
 
 ### Paso 1: Investigación
 1. Investiguen el valor actual de la **canasta básica alimentaria** en su país.
 2. Pueden buscar en internet o consultar fuentes oficiales (INDEC, etc.).
+
+> **Nota para el educador:** en muchos países la canasta básica se publica **por persona** (o por "adulto equivalente"), no por familia. Revisá cómo la publica tu país antes de la actividad, porque cambia la conclusión. En Argentina, INDEC la publica por adulto equivalente: para una familia de 4 (2 adultos y 2 chicos) se multiplica por unos 3,09 (es el "hogar 2" del informe mensual *Valorización de la Canasta Básica Alimentaria y Total*, https://www.indec.gob.ar). Pueden hacer la actividad con el valor de una sola canasta (lo que deja ver lo poco que alcanza) o con el valor de la familia, pero aclarándolo.
 
 ### Paso 2: Simulación
 3. Supongan que son una familia de 4 personas (2 adultos y 2 niños).
@@ -219,17 +221,3 @@ Supongamos que son una familia de 4 personas (2 adultos y 2 niños), que cuentan
 **ODS involucrados:** 1, 2, 4, 10
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

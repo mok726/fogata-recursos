@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lección de historia"
+title: "Lección de Historia"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/leccion-de-historia/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/leccion-de-historia.png"
+image: "/imagenes/actividades/leccion-de-historia.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,10 +163,10 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Lección de historia!
+# ¡Lección de Historia!
 
 ## Resumen
-¿Cuánto se ha expandido tu ciudad en las últimas décadas? ¿Cuál es la historia de tu ciudad? ¿Quiénes fueron los primeros pobladores, cuándo llegaron y para qué se usaba la tierra antes? ¿Ha sido tu ciudad inclusiva con todas las personas de diferentes orígenes que se han establecido allí? ¿Cómo se espera que siga expandiéndose tu ciudad? ¿Ves señales de su continua expansión? ¿Qué cambios crees que traerá una mayor expansión y cómo puede prepararse tu ciudad?
+¿Cuánto se ha expandido tu ciudad en las últimas décadas? ¿Cuál es la historia de tu ciudad? ¿Quiénes fueron los primeros pobladores, cuándo llegaron y para qué se usaba la tierra antes? ¿Ha sido tu ciudad inclusiva con todas las personas de diferentes orígenes que se han establecido allí? ¿Cómo se espera que siga expandiéndose tu ciudad? ¿Ves señales de su continua expansión? ¿Qué cambios creés que traerá una mayor expansión y cómo puede prepararse tu ciudad?
 
 ## Preparación
 1. Investigá la historia de tu ciudad.
@@ -182,7 +182,7 @@ rama_rovers:
 ## Cierre
 1. Compartí tus hallazgos con el grupo.
 2. Reflexioná sobre el futuro de tu ciudad.
-3. Pregunta final: ¿Cómo crees que debería expandirse tu ciudad de manera sostenible?
+3. Pregunta final: ¿Cómo creés que debería expandirse tu ciudad de manera sostenible?
 
 ## Texto original completo de la actividad
 
@@ -212,20 +212,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Articula la energía"
+title: "Articula la Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/articula-energia/"
 description: "Juego de definiciones donde explicas una palabra relacionada con energía sin decirla, o la actúas con mímica."
-summary: "Adivina palabras de energía."
+summary: "Adiviná palabras de energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/articula-energia.png"
+image: "/imagenes/actividades/articula-energia.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -158,24 +158,24 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Articula la energía!
+# ¡Articula la Energía!
 
 ## Resumen
-Crea un juego de definiciones con palabras relacionadas con la energía: "renovable", "limpia", "sostenible". Explica la palabra sin decirla, o actúa con mímica.
+Creá un juego de definiciones con palabras relacionadas con la energía: "renovable", "limpia", "sostenible". Explicá la palabra sin decirla, o actuá con mímica.
 
 ## Preparación
-1. Crea tarjetas con palabras de energía.
-2. Mezcla las tarjetas.
-3. Divide el grupo en equipos.
+1. Creá tarjetas con palabras de energía.
+2. Mezclá las tarjetas.
+3. Dividí el grupo en equipos.
 
 ## Desarrollo
 
 ### Parte I - Crear tarjetas
-Crea tarjetas con palabras relacionadas con la energía:
+Creá tarjetas con palabras relacionadas con la energía:
 
 **Ejemplos:**
 - Renovable
-- Limpia
+- Limpiá
 - Sostenible
 - Solar
 - Eólica
@@ -185,7 +185,7 @@ Crea tarjetas con palabras relacionadas con la energía:
 
 ### Parte II - Jugar
 1. Un jugador toma una tarjeta.
-2. Explica la palabra sin decirla ni decir "empieza con...".
+2. Explicá la palabra sin decirla ni decir "empieza con...".
 3. El resto del grupo adivina.
 
 ### Parte III - Mímica (opcional)
@@ -224,20 +224,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

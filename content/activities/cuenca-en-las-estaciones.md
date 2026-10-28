@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cuenca en las estaciones"
+title: "Cuenca en las Estaciones"
 duration: "1 año (4 visitas)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuenca-en-las-estaciones/"
-description: "Visita estacional a una cuenca de agua para observar los cambios en la vida animal y vegetal a lo largo del año."
+description: "Visitá estacional a una cuenca de agua para observar los cambios en la vida animal y vegetal a lo largo del año."
 summary: "Observar cambios estacionales en una cuenca."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuenca-en-las-estaciones.png"
+image: "/imagenes/actividades/cuenca-en-las-estaciones.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,26 +162,26 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Cuenca en las estaciones!
+# ¡Cuenca en las Estaciones!
 
 ## Resumen
 Visiten una cuenca de agua al menos una vez en cada estación del año. Saquen fotografías o hagan un dibujo de la vida animal y vegetal presente en cada estación. Registren la temperatura y describan las condiciones del tiempo atmosférico.
 
 ## Preparación
-1. Identifica una cuenca de agua local.
-2. Planifica las visitas estacionales.
-3. Prepara materiales para registrar observaciones.
+1. Identificá una cuenca de agua local.
+2. Planificá las visitas estacionales.
+3. Prepará materiales para registrar observaciones.
 
 ## Desarrollo
-1. Visita la cuenca en cada estación del año.
-2. Toma fotografías o haz dibujos de la vida animal y vegetal.
-3. Registra la temperatura en cada visita.
-4. Describe las condiciones del tiempo atmosférico.
-5. Reflexiona: ¿Cómo afectan las condiciones estacionales a la vida animal y vegetal?
+1. Visitá la cuenca en cada estación del año.
+2. Tomá fotografías o hacé dibujos de la vida animal y vegetal.
+3. Registrá la temperatura en cada visita.
+4. Describí las condiciones del tiempo atmosférico.
+5. Reflexioná: ¿Cómo afectan las condiciones estacionales a la vida animal y vegetal?
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona sobre los cambios estacionales.
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná sobre los cambios estacionales.
 3. Pregunta final: ¿Cómo afecta el cambio climático a las estaciones?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ B.28 Visiten una cuenca de agua al menos una vez en cada estación del año. Saq
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

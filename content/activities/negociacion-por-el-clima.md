@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Negociación por el clima"
+title: "Negociación por el Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/negociacion-por-el-clima/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/negociacion-por-el-clima.png"
+image: "/imagenes/actividades/negociacion-por-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,24 +160,24 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Negociación por el clima!
+# ¡Negociación por el Clima!
 
 ## Resumen
-Haz que todos en tu grupo representen a un país, asegúrate de tener una amplia mezcla de países en desarrollo, países ricos, países menos desarrollados, pequeños estados insulares, etc.
+Hacé que todos en tu grupo representen a un país, asegurate de tener una amplia mezcla de países en desarrollo, países ricos, países menos desarrollados, pequeños estados insulares, etc.
 
 ## Preparación
-1. Asigna países a cada participante.
-2. Investiga las posiciones de cada país en negociaciones climáticas.
-3. Prepara las reglas de la simulación.
+1. Asigná países a cada participante.
+2. Investigá las posiciones de cada país en negociaciones climáticas.
+3. Prepará las reglas de la simulación.
 
 ## Desarrollo
 1. Cada uno debe investigar sobre su país con relación a los problemas particulares que pueda estar enfrentando debido al cambio climático.
 2. Vuelvan a reunirse en grupo y lleven a cabo su propia 'negociación de NN.UU.'.
 3. Cada país argumenta por una acción determinada en base a sus necesidades.
-4. Observa: ¿Algunos de ustedes están en lados opuestos? ¿Cómo pueden llegar a un acuerdo?
+4. Observá: ¿Algunos de ustedes están en lados opuestos? ¿Cómo pueden llegar a un acuerdo?
 
 ## Cierre
-1. Reflexiona sobre el resultado de la negociación.
+1. Reflexioná sobre el resultado de la negociación.
 2. Discutan: ¿Qué fue lo más difícil de la negociación?
 3. Pregunta final: ¿Cómo se pueden equilibrar los intereses de diferentes países?
 
@@ -187,16 +187,3 @@ D.16 Negociación por el clima. Haz que todos en tu grupo representen a un país
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

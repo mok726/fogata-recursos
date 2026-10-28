@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Invernáculo para anfibios"
+title: "Invernáculo para Anfibios"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/invernaculo-para-anfibios/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/invernaculo-para-anfibios.png"
+image: "/imagenes/actividades/invernaculo-para-anfibios.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -167,25 +167,25 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles
 ---
 
-# ¡Invernáculo para anfibios!
+# ¡Invernáculo para Anfibios!
 
 ## Resumen
-Construye un invernáculo para anfibios (un cobijo donde los animales hibernan). No te olvides de que los anfibios requieren ambientes húmedos, así que el invernáculo debe estar situado cerca del agua. Observa los animales que llegan.
+Construí un invernáculo para anfibios (un cobijo donde los animales hibernan). No te olvides de que los anfibios requieren ambientes húmedos, así que el invernáculo debe estar situado cerca del agua. Observá los animales que llegan.
 
 ## Preparación
-1. Identifica un lugar adecuado cerca del agua.
-2. Reúne materiales de construcción.
-3. Investiga sobre anfibios locales.
+1. Identificá un lugar adecuado cerca del agua.
+2. Reuní materiales de construcción.
+3. Investigá sobre anfibios locales.
 
 ## Desarrollo
-1. Construye el invernáculo siguiendo las instrucciones.
-2. Asegúrate de que esté cerca del agua.
-3. Observa los animales que llegan.
-4. Registra tus observaciones.
+1. Construí el invernáculo siguiendo las instrucciones.
+2. Asegurate de que esté cerca del agua.
+3. Observá los animales que llegan.
+4. Registrá tus observaciones.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué anfibios visitaron el invernáculo?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué anfibios visitaron el invernáculo?
 3. Pregunta final: ¿Cómo podemos proteger a los anfibios?
 
 ## Texto original completo de la actividad
@@ -194,16 +194,3 @@ B.08 Construye un invernáculo para anfibios (un cobijo donde los animales hiber
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

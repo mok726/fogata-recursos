@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Combatiendo el desperdicio de alimentos"
+title: "Combatiendo el Desperdicio de Alimentos"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/combatiendo-el-desperdicio-de-alimentos/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/combatiendo-el-desperdicio-de-alimentos.png"
+image: "/imagenes/actividades/combatiendo-el-desperdicio-de-alimentos.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -171,7 +171,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Combatiendo el desperdicio de alimentos!
+# ¡Combatiendo el Desperdicio de Alimentos!
 
 ## Resumen
 Ya sabés que un tercio (1.300 millones de toneladas) de los alimentos producidos globalmente cada año se pierden o desperdician. Todos podemos hacer nuestra parte para reducir el desperdicio de alimentos en nuestra vida diaria, y esto ayudará a que nuestras ciudades sean más verdes.
@@ -187,7 +187,7 @@ Ya sabés que un tercio (1.300 millones de toneladas) de los alimentos producido
 3. Identificá qué alimentos tendés a desperdiciar más y por qué.
 4. Elegí una de las siguientes acciones:
    - Creá un grupo de WhatsApp para intercambiar recetas saludables e ideas para prevenir el desperdicio.
-   - Hacé cargo de la lista de compras en casa, comprando solo lo necesario.
+   - Hacete cargo de la lista de compras en casa, comprando solo lo necesario.
    - Otra acción que prefieras.
 
 ## Cierre
@@ -243,20 +243,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

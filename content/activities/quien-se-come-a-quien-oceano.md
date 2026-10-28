@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Quién se Come a Quién?"
+title: "¿Quién Se Come a Quién?"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/quien-se-come-a-quien-oceano/"
-description: "Crea un móvil sobre una cadena alimentaria marina con fotografías de animales y plantas del mar."
+description: "Creá un móvil sobre una cadena alimentaria marina con fotografías de animales y plantas del mar."
 summary: "Móvil de cadena alimentaria marina."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/quien-se-come-a-quien-oceano.png"
+image: "/imagenes/actividades/quien-se-come-a-quien-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -171,22 +171,22 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies.
 ---
 
-# ¿Quién se Come a Quién?
+# ¿Quién Se Come a Quién?
 
 ## Resumen
-Crea un móvil sobre una cadena alimentaria marina con fotografías de animales y plantas del mar.
+Creá un móvil sobre una cadena alimentaria marina con fotografías de animales y plantas del mar.
 
 ## Preparación
-1. Reúne fotografías de animales y plantas marinas (desde los más pequeños a los más grandes).
-2. Discute sobre cadenas alimentarias marinas.
-3. Prepara los materiales (palos, cuerda, tijeras).
+1. Reuní fotografías de animales y plantas marinas (desde los más pequeños a los más grandes).
+2. Discutí sobre cadenas alimentarias marinas.
+3. Prepará los materiales (palos, cuerda, tijeras).
 
 ## Desarrollo
 1. **Discusión** (15 min): ¿Cuáles son predadores y cuáles presas? ¿Qué son herbívoros, carnívoros y omnívoros?
 2. **Diseño** (10 min): Planea el móvil de la cadena alimentaria.
-3. **Creación** (25 min): Construye el móvil con fotografías y cuerda.
-4. **Presentación** (15 min): Comparte el móvil con el grupo.
-5. **Extensión** (opcional): Dibuja un diagrama de una red alimentaria más compleja.
+3. **Creación** (25 min): Construí el móvil con fotografías y cuerda.
+4. **Presentación** (15 min): Compartí el móvil con el grupo.
+5. **Extensión** (opcional): Dibujá un diagrama de una red alimentaria más compleja.
 
 ## Cierre
 - ¿Cómo funciona una cadena alimentaria marina?
@@ -211,16 +211,3 @@ Usa fotografías o dibujos de animales y plantas del mar para crear un móvil so
 nivel: 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,9 +1,9 @@
 ---
-title: "Recursos para producir alimentos"
+title: "Recursos para Producir Alimentos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/recursos-para-producir-alimentos/"
-description: "Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos."
+description: "Investigá cuánta energía, agua y recursos se necesitan para producir diferentes alimentos."
 summary: "Huella de recursos de los alimentos."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/recursos-para-producir-alimentos.png"
+image: "/imagenes/actividades/recursos-para-producir-alimentos.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -150,25 +150,25 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Recursos para producir alimentos!
+# ¡Recursos para Producir Alimentos!
 
 ## Resumen
-Investiga cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
+Investigá cuánta energía, agua y recursos se necesitan para producir diferentes alimentos.
 
 ## Preparación
-1. Accede a recursos sobre el uso de agua en alimentos.
-2. Prepara papel y bolígrafos.
-3. Selecciona alimentos para investigar.
+1. Accedé a recursos sobre el uso de agua en alimentos.
+2. Prepará papel y lapiceras.
+3. Seleccioná alimentos para investigar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca datos sobre recursos necesarios.
-2. **Tablas** (20 min): Crea tablas comparativas.
+1. **Investigación** (20 min): Buscá datos sobre recursos necesarios.
+2. **Tablas** (20 min): Creá tablas comparativas.
 3. **Análisis** (10 min): ¿Cómo cambiar tu dieta para reducir el impacto?
-4. **Reflexión** (10 min): Comparte lo aprendido.
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué alimentos necesitan más recursos?
-- ¿Cómo puedes cambiar tu dieta para ser más sostenible?
+- ¿Cómo podés cambiar tu dieta para ser más sostenible?
 - ¿Qué aprendiste sobre el impacto de los alimentos?
 
 ---
@@ -179,16 +179,3 @@ Investiga cuánta energía, agua y recursos se necesitan para producir diferente
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

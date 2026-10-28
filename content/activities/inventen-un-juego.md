@@ -4,7 +4,7 @@ title: "Inventen un Juego"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/inventen-un-juego/"
-description: "Crea un juego educativo sobre nutrientes y grupos alimenticios para compartir con tu familia y amigos."
+description: "Creá un juego educativo sobre nutrientes y grupos alimenticios para compartir con tu familia y amigos."
 summary: "Creación de juego educativo sobre nutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/inventen-un-juego.png"
+image: "/imagenes/actividades/inventen-un-juego.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -173,18 +173,18 @@ rama_rovers:
 # Inventen un Juego
 
 ## Resumen
-Crea un juego educativo sobre nutrientes y grupos alimenticios para compartir con tu familia y amigos.
+Creá un juego educativo sobre nutrientes y grupos alimenticios para compartir con tu familia y amigos.
 
 ## Preparación
-1. Piensa en el tipo de juego (test, puzle, verdadero/falso, crucigrama, juego de mesa, memoria o bingo).
-2. Reúne el material necesario.
-3. Investiga sobre nutrientes y grupos alimenticios.
+1. Pensá en el tipo de juego (test, puzle, verdadero/falso, crucigrama, juego de mesa, memoria o bingo).
+2. Reuní el material necesario.
+3. Investigá sobre nutrientes y grupos alimenticios.
 
 ## Desarrollo
-1. **Lluvia de ideas** (15 min): Piensa en ideas para el juego.
-2. **Creación** (25 min): Crea el juego con tu grupo.
-3. **Prueba** (15 min): Juega al juego con tu grupo.
-4. **Compartir** (15 min): Juega con tu familia y amigos.
+1. **Lluvia de ideas** (15 min): Pensá en ideas para el juego.
+2. **Creación** (25 min): Creá el juego con tu grupo.
+3. **Prueba** (15 min): Jugá al juego con tu grupo.
+4. **Compartir** (15 min): Jugá con tu familia y amigos.
 
 ## Cierre
 - ¿Qué parte del juego te resultó más divertida?
@@ -192,16 +192,3 @@ Crea un juego educativo sobre nutrientes y grupos alimenticios para compartir co
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre nutrición?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

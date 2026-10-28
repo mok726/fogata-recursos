@@ -1,9 +1,9 @@
 ---
-title: "Género y cambio climático"
+title: "Género y Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/genero-y-cambio-climatico/"
-description: "Investiga cómo el cambio climático afecta de manera diferente a hombres y mujeres."
+description: "Investigá cómo el cambio climático afecta de manera diferente a hombres y mujeres."
 summary: "Género y vulnerabilidad climática."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/genero-y-cambio-climatico.png"
+image: "/imagenes/actividades/genero-y-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -146,25 +146,25 @@ rama_rovers:
   - 29  # Indago en las causas de las injusticias.
 ---
 
-# ¡Género y cambio climático!
+# ¡Género y Cambio Climático!
 
 ## Resumen
-Investiga cómo el cambio climático afecta de manera diferente a hombres y mujeres.
+Investigá cómo el cambio climático afecta de manera diferente a hombres y mujeres.
 
 ## Preparación
-1. Accede a recursos sobre género y cambio climático.
-2. Prepara materiales para la investigación.
+1. Accedé a recursos sobre género y cambio climático.
+2. Prepará materiales para la investigación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre los impactos diferenciados.
+1. **Investigación** (25 min): Aprendé sobre los impactos diferenciados.
 2. **Análisis** (15 min): ¿Por qué las mujeres son más afectadas?
 3. **Reflexión** (10 min): ¿Cómo empeora la inseguridad alimentaria?
-4. **Compartir** (10 min): Comparte lo aprendido.
+4. **Compartir** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Cómo afecta el cambio climático a mujeres y hombres?
 - ¿Por qué las mujeres rurales son más vulnerables?
-- ¿Qué puedes hacer para apoyar la igualdad?
+- ¿Qué podés hacer para apoyar la igualdad?
 
 ---
 ## Texto original completo de la actividad
@@ -174,16 +174,3 @@ Investiga cómo el cambio climático afecta de manera diferente a hombres y muje
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

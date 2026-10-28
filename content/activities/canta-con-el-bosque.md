@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Canta con el Bosque"
+title: "Cantá con el Bosque"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/canta-con-el-bosque/"
-description: "Crea y presenta una canción sobre un bosque. Recolecta elementos del bosque para hacer instrumentos musicales."
+description: "Creá y presentá una canción sobre un bosque. Recolectá elementos del bosque para hacer instrumentos musicales."
 summary: "Creación musical inspirada en el bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/canta-con-el-bosque.png"
+image: "/imagenes/actividades/canta-con-el-bosque.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -168,37 +168,24 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva utilizando diferentes formatos y medios.
 ---
 
-# Canta con el Bosque
+# Cantá con el Bosque
 
 ## Resumen
-Crea y presenta una canción sobre un bosque. Recolecta elementos del bosque para hacer instrumentos musicales y acompaña tu canción.
+Creá y presentá una canción sobre un bosque. Recolectá elementos del bosque para hacer instrumentos musicales y acompañá tu canción.
 
 ## Preparación
-1. Reúne elementos naturales del bosque para instrumentos (palos, hojas, etc.).
-2. Prepara material para escribir la canción.
+1. Reuní elementos naturales del bosque para instrumentos (palos, hojas, etc.).
+2. Prepará material para escribir la canción.
 
 ## Desarrollo
-1. **Exploración** (15 min): Recolecta elementos naturales para hacer instrumentos.
-2. **Creación musical** (20 min): Crea instrumentos con los elementos recolectados.
-3. **Composición** (20 min): Escribe una canción sobre el bosque.
-4. **Presentación** (15 min): Presenta tu canción con los instrumentos.
+1. **Exploración** (15 min): Recolectá elementos naturales para hacer instrumentos.
+2. **Creación musical** (20 min): Creá instrumentos con los elementos recolectados.
+3. **Composición** (20 min): Escribí una canción sobre el bosque.
+4. **Presentación** (15 min): Presentá tu canción con los instrumentos.
 
 ## Cierre
 - ¿Qué aprendiste sobre la música y el bosque?
-- ¿Cómo puedes expresar tu amor por la naturaleza a través del arte?
+- ¿Cómo podés expresar tu amor por la naturaleza a través del arte?
 - ¿Qué compromiso adquieres para seguir creando arte inspirado en la naturaleza?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

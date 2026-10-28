@@ -3,7 +3,7 @@ title: "Un Acto de Balance"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-acto-de-balance/"
-description: "Experimenta caminar con un peso en la cabeza para entender lo que enfrentan muchas mujeres y niños al recolectar agua."
+description: "Experimentá caminar con un peso en la cabeza para entender lo que enfrentan muchas mujeres y niños al recolectar agua."
 summary: "Simulación del peso de recolectar agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/un-acto-de-balance.png"
+image: "/imagenes/actividades/un-acto-de-balance.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -141,20 +141,20 @@ rama_rovers: []
 # ¡Un Acto de Balance!
 
 ## Resumen
-Camina con un libro balanceado sobre tu cabeza para sentir lo que enfrentan muchas mujeres y niños al recolectar agua.
+Caminá con un libro balanceado sobre tu cabeza para sentir lo que enfrentan muchas mujeres y niños al recolectar agua.
 
 ## Preparación
-- Consigue un libro que no sea demasiado pesado.
-- Encuentra un espacio para caminar.
+- Conseguí un libro que no sea demasiado pesado.
+- Encontrá un espacio para caminar.
 
 ## Desarrollo
-1. **Simulación** (15 min): Camina con un libro sobre tu cabeza.
+1. **Simulación** (15 min): Caminá con un libro sobre tu cabeza.
 2. **Reflexión** (10 min): ¿Cómo te sentiste?
-3. **Discusión** (5 min): Imagina hacer esto con un contenedor de 20 litros por una larga distancia.
+3. **Discusión** (5 min): Imaginá hacer esto con un contenedor de 20 litros por una larga distancia.
 
 ## Cierre
 - ¿Cómo te sentiste al caminar con peso?
-- Imagina hacer esto todos los días.
+- Imaginá hacer esto todos los días.
 - ¿Cómo podemos ayudar a quienes recolectan agua?
 
 ---
@@ -165,16 +165,3 @@ Camina con un libro balanceado sobre tu cabeza para sentir lo que enfrentan much
 nivel 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

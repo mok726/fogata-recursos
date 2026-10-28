@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pétalos y polinizadores"
+title: "Pétalos y Polinizadores"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/petalos-y-polinizadores/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/petalos-y-polinizadores.png"
+image: "/imagenes/actividades/petalos-y-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Pétalos y polinizadores!
+# ¡Pétalos y Polinizadores!
 
 ## Resumen
 ¿Cuál es tu flor favorita? ¿Sabés qué polinizadores ayudan a que crezca? ¿Es polinizada por más de un animal o insecto? Hablá con un jardinero o experto en plantas para averiguar qué polinizadores ayudan a tu flor favorita.
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

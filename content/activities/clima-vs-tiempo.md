@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/clima-vs-tiempo.png"
+image: "/imagenes/actividades/clima-vs-tiempo.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -158,9 +158,9 @@ rama_rovers:
 ¿Estás listo para poner a prueba tu conocimiento sobre la diferencia entre el clima y el tiempo? Con tu profesor o dirigente, prepara unas tarjetas con diferentes frases relacionadas con el clima y el tiempo.
 
 ## Preparación
-1. Prepara las tarjetas con frases como "Hace calor en Florida" o "El 1 de diciembre estaba a menos 2 grados".
-2. Marca dos lados opuestos del salón: un lado para "Clima" y el otro para "Tiempo".
-3. Designa un área central para quienes no estén seguros.
+1. Prepará las tarjetas con frases como "Hace calor en Florida" o "El 1 de diciembre estaba a menos 2 grados".
+2. Marcá dos lados opuestos del salón: un lado para "Clima" y el otro para "Tiempo".
+3. Designá un área central para quienes no estén seguros.
 
 ## Desarrollo
 1. El profesor o dirigente lee una tarjeta en voz alta.
@@ -172,7 +172,7 @@ rama_rovers:
 
 ## Cierre
 1. Continúen jugando hasta que todos tengan claro lo que es el clima y el tiempo.
-2. Pregunta final: ¿Puedes dar un ejemplo de clima y otro de tiempo en tu ciudad?
+2. Pregunta final: ¿Podés dar un ejemplo de clima y otro de tiempo en tu ciudad?
 
 ## Texto original completo de la actividad
 A.04 CLIMA VS. TIEMPO. ¿Estás listo para poner a prueba tu conocimiento sobre la diferencia entre el clima y el tiempo? Con tu profesor o dirigente, prepara unas tarjetas que contengan diferentes frases relacionadas con el clima y el tiempo, por ejemplo, "Hace calor en Florida" o "El 1 de diciembre estaba a menos 2 grados". Tu profesor o dirigente luego debe leer una tarjeta y todos los participantes deben correr a un lado de la sala si se refiere al clima y correr al otro lado de la sala si se refiere al tiempo. Puedes permanecer en el centro si no estás seguro. Continúen jugando hasta que todos tengan claro lo que es el clima y el tiempo.
@@ -180,16 +180,3 @@ A.04 CLIMA VS. TIEMPO. ¿Estás listo para poner a prueba tu conocimiento sobre 
 NIVELES: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

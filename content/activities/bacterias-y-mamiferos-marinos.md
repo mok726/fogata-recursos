@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Bacterias y mamíferos marinos"
+title: "Bacterias y Mamíferos Marinos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/bacterias-y-mamiferos-marinos/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bacterias-y-mamiferos-marinos.png"
+image: "/imagenes/actividades/bacterias-y-mamiferos-marinos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -159,24 +159,24 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Bacterias y mamíferos marinos!
+# ¡Bacterias y Mamíferos Marinos!
 
 ## Resumen
-Aprende cómo las bacterias que existen en el agua marina y los mamíferos marinos ayudan a descomponer y a remover desperdicios y contaminación. Comparte tus hallazgos con tu grupo.
+Aprendé cómo las bacterias que existen en el agua marina y los mamíferos marinos ayudan a descomponer y a remover desperdicios y contaminación. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Investiga sobre bacterias y mamíferos marinos.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre bacterias y mamíferos marinos.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo las bacterias marinas ayudan a descomponer desperdicios.
-2. Investiga cómo los mamíferos marinos contribuyen a la limpieza del océano.
-3. Prepara tus hallazgos para compartir con el grupo.
+1. Investigá cómo las bacterias marinas ayudan a descomponer desperdicios.
+2. Investigá cómo los mamíferos marinos contribuyen a la limpieza del océano.
+3. Prepará tus hallazgos para compartir con el grupo.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona: ¿Cómo mantienen limpio el océano estos organismos?
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná: ¿Cómo mantienen limpio el océano estos organismos?
 3. Pregunta final: ¿Cómo podemos apoyar a los organismos que limpian el océano?
 
 ## Texto original completo de la actividad
@@ -185,16 +185,3 @@ B.17 Aprende cómo las bacterias que existen en el agua marina y los mamíferos 
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

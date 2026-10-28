@@ -1,9 +1,9 @@
 ---
-title: "Collage de las tres R"
+title: "Collage de las Tres R"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/collage-de-las-tres-r/"
-description: "Haz un collage sobre Reduce - Reusa - Recicla."
+description: "Hacé un collage sobre Reduce - Reusa - Recicla."
 summary: "Collage sobre las tres R."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/collage-de-las-tres-r.png"
+image: "/imagenes/actividades/collage-de-las-tres-r.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -150,23 +150,23 @@ rama_rovers:
   - 11  # Me comunicuo de manera asertiva.
 ---
 
-# ¡Collage de las tres R!
+# ¡Collage de las Tres R!
 
 ## Resumen
-Crea un collage explicando cómo reducir, reusar y reciclar.
+Creá un collage explicando cómo reducir, reusar y reciclar.
 
 ## Preparación
-- Reúne materiales para el collage.
-- Piensa en ejemplos de cada R.
+- Reuní materiales para el collage.
+- Pensá en ejemplos de cada R.
 
 ## Desarrollo
-1. **Creación** (30 min): Haz un collage con las tres R.
+1. **Creación** (30 min): Hacé un collage con las tres R.
 2. **Exposición** (15 min): Expónlo en tu escuela o comunidad.
 
 ## Cierre
 - ¿Qué significa cada R?
 - ¿Qué ejemplos incluiste?
-- ¿Cómo te sientes al promover las tres R?
+- ¿Cómo te sentís al promover las tres R?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Crea un collage explicando cómo reducir, reusar y reciclar.
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

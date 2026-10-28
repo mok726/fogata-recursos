@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-y-poblacion/"
 description: "Los participantes investigan la relación entre el crecimiento de la población y la disponibilidad de agua, analizando datos y participando en una simulación sobre el consumo de agua."
-summary: "Investiga la relación entre población y agua."
+summary: "Investigá la relación entre población y agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/agua-y-poblacion.png"
+image: "/imagenes/actividades/agua-y-poblacion.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -174,34 +174,34 @@ translation_notice:
 A medida que la población mundial crece, el acceso al agua dulce disminuye. Esta relación es evidente tanto en países industrializados como en desarrollo, y tanto en climas áridos como húmedos. La cantidad de agua en el mundo siempre ha sido la misma y no puede aumentar; a medida que la población crece, más y más personas tienen que compartir este recurso limitado. En esta actividad, los participantes investigan la relación entre el crecimiento de la población y la disponibilidad de agua.
 
 ## Preparación
-1. Prepara los materiales: acceso a Internet, copias de la hoja "Agua, Agua por Todas Partes", frascos con agua.
-2. Divide a los participantes en equipos pequeños.
+1. Prepará los materiales: acceso a Internet, copias de la hoja "Agua, Agua por Todas Partes", frascos con agua.
+2. Dividí a los participantes en equipos pequeños.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Introduce la actividad definiendo la palabra "escasez" y pidiendo a los participantes que proporcionen ejemplos de escaseces con las que estén familiarizados.
-2. Luego pregunta a los participantes si alguna vez han experimentado escasez de agua, como una sequía. Si es así, ¿cómo fue? ¿Qué tuvieron que hacer para conservar agua? ¿Cuál fue la causa de la escasez? Si ningún participante ha pasado por una escasez de agua, pregúntales cómo creen que sería y qué creen que tendrían que hacer en tal situación.
+1. Introducí la actividad definiendo la palabra "escasez" y pidiendo a los participantes que proporcionen ejemplos de escaseces con las que estén familiarizados.
+2. Luego pregunta a los participantes si alguna vez han experimentado escasez de agua, como una sequía. Si es así, ¿cómo fue? ¿Qué tuvieron que hacer para conservar agua? ¿Cuál fue la causa de la escasez? Si ningún participante ha pasado por una escasez de agua, preguntales cómo creen que sería y qué creen que tendrían que hacer en tal situación.
 
 ### Paso 2: Discusión sobre disponibilidad de agua
-3. Explica a la clase que en algunos lugares del mundo, la escasez de agua es una forma de vida. ¿Por qué podría ser este el caso? ¿Siempre se asientan las personas en lugares que tienen abundantes suministros de agua, o algunas personas viven en climas secos y desérticos?
-4. Sugiere que incluso en lugares donde la escasez de agua no es un problema hoy, podría convertirse en un problema en el futuro. Pregunta qué podría pasar si la población de un país aumentara. ¿Podría haber cambios en la disponibilidad de agua? Pide a los participantes que formulen hipótesis y discutan sus ideas.
+3. Explicá a la clase que en algunos lugares del mundo, la escasez de agua es una forma de vida. ¿Por qué podría ser este el caso? ¿Siempre se asientan las personas en lugares que tienen abundantes suministros de agua, o algunas personas viven en climas secos y desérticos?
+4. Sugiere que incluso en lugares donde la escasez de agua no es un problema hoy, podría convertirse en un problema en el futuro. Preguntá qué podría pasar si la población de un país aumentara. ¿Podría haber cambios en la disponibilidad de agua? Pedí a los participantes que formulen hipótesis y discutan sus ideas.
 
 ### Paso 3: Investigación en equipos
-5. Divide a tu grupo en equipos pequeños y entrega a cada uno una copia de la hoja "Agua, Agua por Todas Partes".
-6. Pide a los equipos que manipulen el módulo de datos para que muestre diferentes datos de población mundial y agua para los cuatro años diferentes. Pídeles que examinen los datos y luego respondan las preguntas en la hoja.
+5. Dividí a tu grupo en equipos pequeños y entregá a cada uno una copia de la hoja "Agua, Agua por Todas Partes".
+6. Pedí a los equipos que manipulen el módulo de datos para que muestre diferentes datos de población mundial y agua para los cuatro años diferentes. Pediles que examinen los datos y luego respondan las preguntas en la hoja.
 
 ### Paso 4: Discusión de resultados
-7. Discute las respuestas de los equipos como grupo.
+7. Discutí las respuestas de los equipos como grupo.
 
 ### Paso 5: Simulación (para grupos más jóvenes)
-8. Con grupos más jóvenes, puedes revisar la información del módulo de datos como grupo y luego jugar un juego para mostrar cómo el crecimiento de la población afecta la disponibilidad y el uso del agua:
+8. Con grupos más jóvenes, podés revisar la información del módulo de datos como grupo y luego jugar un juego para mostrar cómo el crecimiento de la población afecta la disponibilidad y el uso del agua:
 
-- Divide a tu grupo en dos equipos. Explica que cada uno recibirá un frasco con agua que compartirán en partes iguales.
-- Vierte la misma cantidad de agua en los vasos y entrega uno a cada participante. ¡Pídeles que no beban todavía! Vierte toda el agua de vuelta a los frascos.
+- Dividí a tu grupo en dos equipos. Explicá que cada uno recibirá un frasco con agua que compartirán en partes iguales.
+- Verté la misma cantidad de agua en los vasos y entregá uno a cada participante. ¡Pediles que no beban todavía! Verté toda el agua de vuelta a los frascos.
 - Ahora explica que la población ha crecido en el equipo n.1 y pide a la mitad de los participantes del equipo n.2 que se unan al equipo n.1. La cantidad de agua disponible no ha cambiado, así que ahora cada participante del equipo n.1 recibirá menos agua.
-- Vierte el agua en los vasos y entrega uno a cada participante.
-- Discute con los participantes cómo se sienten. ¿Qué pasaría si tuvieras menos agua para tus actividades cotidianas? ¿Qué cambios tendrías que hacer?
+- Verté el agua en los vasos y entregá uno a cada participante.
+- Discutí con los participantes cómo se sienten. ¿Qué pasaría si tuvieras menos agua para tus actividades cotidianas? ¿Qué cambios tendrías que hacer?
 
 ## Hoja: Agua, Agua por Todas Partes
 
@@ -211,18 +211,18 @@ A medida que la población mundial crece, el acceso al agua dulce disminuye. Est
 
 3. ¿Cuál es la relación entre la población y la disponibilidad de agua per cápita? En otras palabras, a medida que aumenta la población, ¿qué sucede con la disponibilidad de agua?
 
-4. ¿Por qué crees que es así? ¿Por qué ves esta relación entre la población y la disponibilidad de agua?
+4. ¿Por qué creés que es así? ¿Por qué ves esta relación entre la población y la disponibilidad de agua?
 
 5. Si las predicciones para el crecimiento de la población mundial y la disponibilidad de agua per cápita se cumplen, ¿en qué aspectos podría ser diferente el mundo en 2050 en comparación con hoy?
 
-6. ¿Qué partes del mundo crees que podrían enfrentar las escaseces de agua más graves? ¿Por qué?
+6. ¿Qué partes del mundo creés que podrían enfrentar las escaseces de agua más graves? ¿Por qué?
 
-7. ¿Estás al tanto de algún problema de escasez de agua en tu región o comunidad? Si es así, ¿qué se está haciendo al respecto? Si no, ¿crees que podrías ver escasez de agua en tu región en el futuro? ¿Por qué sí o por qué no?
+7. ¿Estás al tanto de algún problema de escasez de agua en tu región o comunidad? Si es así, ¿qué se está haciendo al respecto? Si no, ¿creés que podrías ver escasez de agua en tu región en el futuro? ¿Por qué sí o por qué no?
 
 ## Cierre
-- ¿Qué puedes hacer tú mismo para aliviar las escaseces de agua en todo el mundo?
+- ¿Qué podés hacer vos mismo para aliviar las escaseces de agua en todo el mundo?
 - ¿Cómo podría afectar la falta de agua a la forma en que viven los humanos?
-- ¿Qué crees que se debe hacer para prevenir problemas relacionados con el crecimiento de la población y la escasez de agua? (individuos, empresas, gobiernos)
+- ¿Qué creés que se debe hacer para prevenir problemas relacionados con el crecimiento de la población y la escasez de agua? (individuos, empresas, gobiernos)
 
 ## Texto original completo de la actividad
 
@@ -296,21 +296,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,24], scouts[26,31], caminantes[25,29], rovers[3,29])

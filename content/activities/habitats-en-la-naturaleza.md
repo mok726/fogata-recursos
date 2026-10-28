@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hábitats en la naturaleza"
+title: "Hábitats en la Naturaleza"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/habitats-en-la-naturaleza/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/habitats-en-la-naturaleza.png"
+image: "/imagenes/actividades/habitats-en-la-naturaleza.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Hábitats en la naturaleza!
+# ¡Hábitats en la Naturaleza!
 
 ## Resumen
 Andá de excursión y tratá de identificar hábitats de polinizadores. ¿Ves alguna colmena, madriguera o nido que pueda albergar polinizadores? Ahora que sabés dónde viven, ¿cómo podés ser más cuidadoso para protegerlos?
@@ -174,7 +174,7 @@ Andá de excursión y tratá de identificar hábitats de polinizadores. ¿Ves al
 
 ## Desarrollo
 1. Caminá por el área natural.
-2. Buscá colmenas, madrigueras y nidos.
+2. Buscá colmenas, madrigueras y nidos. Observalos de lejos: no los toquen ni se acerquen, para no dañarlos y evitar picaduras.
 3. Observá los hábitats de polinizadores.
 4. Registrá lo que encontrás.
 5. Hacé una lista de cinco formas de protegerlos.
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

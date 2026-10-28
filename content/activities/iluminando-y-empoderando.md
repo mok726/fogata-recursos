@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Iluminando y empoderando"
+title: "Iluminando y Empoderando"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/iluminando-y-empoderando/"
-description: "Organiza un Día de Concientización Energética en tu comunidad con carteles y volantes para educar sobre el ahorro de energía."
+description: "Organizá un Día de Concientización Energética en tu comunidad con carteles y volantes para educar sobre el ahorro de energía."
 summary: "Ilumina a tu comunidad sobre energía."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/iluminando-y-empoderando.png"
+image: "/imagenes/actividades/iluminando-y-empoderando.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -168,38 +168,38 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Iluminando y empoderando!
+# ¡Iluminando y Empoderando!
 
 ## Resumen
-Organiza un "Día de Concientización Energética" en tu comunidad. Crea carteles y volantes con consejos para ahorrar energía y educa a las personas.
+Organizá un "Día de Concientización Energética" en tu comunidad. Creá carteles y volantes con consejos para ahorrar energía y educa a las personas.
 
 ## Preparación
-1. Investiga consejos de ahorro de energía.
-2. Prepara carteles y volantes.
-3. Elige un lugar para el evento.
+1. Investigá consejos de ahorro de energía.
+2. Prepará carteles y volantes.
+3. Elegí un lugar para el evento.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Busca consejos de ahorro de energía:
+Buscá consejos de ahorro de energía:
 
 **Fuentes sugeridas:**
 - https://www.alliantenergykids.com/EnergyandTheEnvironment/SavingEnergy/022391
 - https://www.tvakids.com/electricity/conservation.htm
 
 ### Parte II - Crear materiales
-Diseña carteles y volantes con:
+Diseñá carteles y volantes con:
 
 - Consejos de ahorro
 - Datos sobre consumo energético
 - Beneficios de ahorrar energía
 
 ### Parte III - Evento
-Organiza el Día de Concientización Energética:
+Organizá el Día de Concientización Energética:
 
-- Coloca carteles
-- Distribuye volantes
-- Conversa con la gente sobre cómo ahorrar energía
+- Colocá carteles
+- Distribuí volantes
+- Conversá con la gente sobre cómo ahorrar energía
 
 ## Cierre
 1. ¿Cómo respondió la comunidad al evento?
@@ -234,20 +234,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Poesía planetaria"
+title: "Poesía Planetaria"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/poesia-planetaria/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/poesia-planetaria.png"
+image: "/imagenes/actividades/poesia-planetaria.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,25 +159,25 @@ rama_rovers:
   - 34 # Me cuestiono sobre las grandes preguntas
 ---
 
-# ¡Poesía planetaria!
+# ¡Poesía Planetaria!
 
 ## Resumen
-Escribe un poema desde el punto de vista de la Tierra. ¿La Tierra está preocupada por su futuro? ¿Es optimista al pensar que todo va a estar bien? ¿Piensa que los humanos necesitan cambiar sus estilos de vida?
+Escribí un poema desde el punto de vista de la Tierra. ¿La Tierra está preocupada por su futuro? ¿Es optimista al pensar que todo va a estar bien? ¿Piensa que los humanos necesitan cambiar sus estilos de vida?
 
 ## Preparación
-1. Prepara ejemplos de poesía sobre la naturaleza.
-2. Crea un ambiente tranquilo para la escritura.
-3. Organiza el espacio de trabajo.
+1. Prepará ejemplos de poesía sobre la naturaleza.
+2. Creá un ambiente tranquilo para la escritura.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Imagina que eres la Tierra y escribe un poema desde su perspectiva.
-2. Piensa: ¿Cómo se siente la Tierra sobre su futuro?
-3. Piensa: ¿Qué mensaje quiere transmitir a los humanos?
-4. Escribe tu poema con creatividad y emoción.
+1. Imaginá que sos la Tierra y escribí un poema desde su perspectiva.
+2. Pensá: ¿Cómo se siente la Tierra sobre su futuro?
+3. Pensá: ¿Qué mensaje quiere transmitir a los humanos?
+4. Escribí tu poema con creatividad y emoción.
 
 ## Cierre
-1. Comparte los poemas entre ustedes y con sus profesores, dirigentes y padres.
-2. Reflexiona sobre los diferentes mensajes y perspectivas.
+1. Compartí los poemas entre ustedes y con sus profesores, dirigentes y padres.
+2. Reflexioná sobre los diferentes mensajes y perspectivas.
 3. Pregunta final: ¿Qué mensaje te gustaría darle a la Tierra?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ E.03 POESÍA PLANETARIA. Escribe un poema desde el punto de vista de la Tierra. 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

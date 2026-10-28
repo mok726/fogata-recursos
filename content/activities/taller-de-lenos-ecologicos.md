@@ -5,7 +5,7 @@ duration: "30-40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-de-lenos-ecologicos/"
 description: "Taller donde los participantes aprenden a crear leños ecológicos (briquetas) en base a papel, cartón, hojas, aserrín y otros restos similares."
-summary: "Crea leños ecológicos con residuos."
+summary: "Creá leños ecológicos con residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-lenos-ecologicos.png"
+image: "/imagenes/actividades/taller-de-lenos-ecologicos.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -170,12 +170,12 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 ## Objetivos
 - Aprender a crear leños ecológicos a partir de residuos.
 - Reducir el uso de leña convencional.
-- Evitar enviar estos materiales al basurero municipal.
+- Evitar enviar estos materiales al basural municipal.
 - Reducir el impacto ecológico.
 
 ## Preparación
-1. Reúne papel de diario o revistas, hojas y hierbas secas, y aserrín.
-2. Prepara contenedores (moldes), agua, tijeras, rallador y pesos.
+1. Reuní papel de diario o revistas, hojas y hierbas secas, y aserrín.
+2. Prepará contenedores (moldes), agua, tijeras, rallador y pesos.
 
 ## Desarrollo
 
@@ -205,7 +205,7 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 
 ### Discusión grupal
 - ¿Cómo permite esto reducir el uso de leña?
-- ¿Qué impacto tiene evitar enviar estos materiales al basurero municipal?
+- ¿Qué impacto tiene evitar enviar estos materiales al basural municipal?
 
 ### Compromiso
 - Los participantes pueden comprometerse a seguir creando leños ecológicos en sus hogares.
@@ -231,18 +231,3 @@ Aprendemos a crear leños ecológicos en base a papel, cartón, hojas, aserrín,
 **Cierre:** Discutimos sobre la actividad, como permite reducir el uso de leña, evitamos enviar estos materiales al basurero municipal, reduciendo nuestro impacto ecológico.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

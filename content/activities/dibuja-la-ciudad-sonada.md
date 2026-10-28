@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dibujá la ciudad soñada"
+title: "Dibujá la Ciudad Soñada"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibuja-la-ciudad-sonada/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dibuja-la-ciudad-sonada.png"
+image: "/imagenes/actividades/dibuja-la-ciudad-sonada.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,14 +163,14 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Dibujá la ciudad soñada!
+# ¡Dibujá la Ciudad Soñada!
 
 ## Resumen
 ¿Cuál es un elemento de la ciudad que te gustaría que tuviera tu ciudad? ¿Jardines en las azoteas? ¿Más carriles para bicicletas? ¿Cómo cambiaría tu vida si tu ciudad tuviera ese elemento de ciudad verde? ¿Qué tan fácil o difícil sería traerlo a tu ciudad?
 
 ## Preparación
 1. Pensá en una mejora verde para tu ciudad.
-2. Prepara materiales de dibujo.
+2. Prepará materiales de dibujo.
 3. Organizá un concurso de dibujo.
 
 ## Desarrollo
@@ -212,20 +212,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

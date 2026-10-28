@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Personas indígenas y biodiversidad"
+title: "Personas Indígenas y Biodiversidad"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/personas-indigenas-y-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/personas-indigenas-y-biodiversidad.png"
+image: "/imagenes/actividades/personas-indigenas-y-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Personas indígenas y biodiversidad!
+# ¡Personas Indígenas y Biodiversidad!
 
 ## Resumen
-Aprende cómo las personas indígenas utilizan la biodiversidad para su supervivencia y en sus culturas (las personas indígenas son llamadas también aborígenes, nativos o miembros de las naciones originarias en diferentes partes del mundo). Si es posible, invita a una persona indígena a hablar sobre la biodiversidad con tu grupo. Identifica un ejemplo por cada continente sobre cómo estas comunidades utilizan la biodiversidad.
+Aprendé cómo las personas indígenas utilizan la biodiversidad para su supervivencia y en sus culturas (las personas indígenas son llamadas también aborígenes, nativos o miembros de las naciones originarias en diferentes partes del mundo). Si es posible, invitá a una persona indígena a hablar sobre la biodiversidad con tu grupo. Identificá un ejemplo por cada continente sobre cómo estas comunidades utilizan la biodiversidad.
 
 ## Preparación
-1. Investiga sobre pueblos indígenas y biodiversidad.
+1. Investigá sobre pueblos indígenas y biodiversidad.
 2. Si es posible, contacta a una persona indígena para hablar.
-3. Prepara materiales para registrar.
+3. Prepará materiales para registrar.
 
 ## Desarrollo
-1. Aprende cómo las personas indígenas usan la biodiversidad.
+1. Aprendé cómo las personas indígenas usan la biodiversidad.
 2. Si es posible, invita a una persona indígena a hablar.
-3. Identifica un ejemplo por continente.
-4. Comparte tus hallazgos con tu grupo.
+3. Identificá un ejemplo por continente.
+4. Compartí tus hallazgos con tu grupo.
 
 ## Cierre
-1. Reflexiona sobre el conocimiento indígena.
-2. Discute cómo podemos aprender de estas comunidades.
+1. Reflexioná sobre el conocimiento indígena.
+2. Discutí cómo podemos aprender de estas comunidades.
 3. Pregunta final: ¿Cómo podemos respetar y apoyar el conocimiento indígena?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ D.07 Aprende cómo las personas indígenas utilizan la biodiversidad para su sup
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

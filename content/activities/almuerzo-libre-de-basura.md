@@ -1,9 +1,9 @@
 ---
-title: "Almuerzo libre de basura"
+title: "Almuerzo Libre de Basura"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/almuerzo-libre-de-basura/"
-description: "Lleva un almuerzo sin generar basura a la escuela."
+description: "Llevá un almuerzo sin generar basura a la escuela."
 summary: "Almuerzo sin residuos."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/almuerzo-libre-de-basura.png"
+image: "/imagenes/actividades/almuerzo-libre-de-basura.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -148,25 +148,25 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Almuerzo libre de basura!
+# ¡Almuerzo Libre de Basura!
 
 ## Resumen
-Lleva un almuerzo sin generar basura a la escuela.
+Llevá un almuerzo sin generar basura a la escuela.
 
 ## Preparación
-- Consigue una lonchera reusable.
-- Prepara recipientes reutilizables.
-- Lleva tu propio jarro y cubiertos.
+- Conseguí una lonchera reusable.
+- Prepará recipientes reutilizables.
+- Llevá tu propio jarro y cubiertos.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara el almuerzo sin residuos.
-2. **Acción** (continua): Usa la lonchera y recipientes reutilizables.
+1. **Preparación** (15 min): Prepará el almuerzo sin residuos.
+2. **Acción** (continua): Usá la lonchera y recipientes reutilizables.
 3. **Reflexión** (10 min): ¿Cuánta basura ahorraste?
 
 ## Cierre
 - ¿Cuánta basura lograste evitar?
-- ¿Cómo te sientes al usar recipientes reutilizables?
-- ¿Qué más puedes hacer para reducir residuos?
+- ¿Cómo te sentís al usar recipientes reutilizables?
+- ¿Qué más podés hacer para reducir residuos?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Lleva un almuerzo sin generar basura a la escuela.
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

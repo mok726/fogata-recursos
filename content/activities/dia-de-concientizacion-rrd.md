@@ -3,7 +3,7 @@ title: "Día de Concientización por la Comunidad"
 duration: "Varias horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-de-concientizacion-rrd/"
-description: "Organiza un evento comunitario sobre reducción del riesgo de desastres."
+description: "Organizá un evento comunitario sobre reducción del riesgo de desastres."
 summary: "Evento comunitario de concientización sobre RRD."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/dia-de-concientizacion-rrd.png"
+image: "/imagenes/actividades/dia-de-concientizacion-rrd.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -58,8 +58,8 @@ tags:
   - accion
 
 link:
-  - url: "http://ow.ly/DupR30fKgmA"
-    caption: "Materiales de los ODS"
+  - url: "https://www.un.org/sustainabledevelopment/es/"
+    caption: "Objetivos de Desarrollo Sostenible (ONU, en español)"
     icon: "read_more"
 
 files: []
@@ -161,19 +161,19 @@ rama_rovers:
 # ¡Día de Concientización por la Comunidad!
 
 ## Resumen
-Organiza un día de concientización sobre la reducción del riesgo de desastres en tu comunidad.
+Organizá un día de concientización sobre la reducción del riesgo de desastres en tu comunidad.
 
 ## Preparación
-1. Identifica el mensaje principal de tu evento.
-2. Prepara afiches, volantes y folletos.
-3. Invita a bomberos, guardias forestales o personal médico.
-4. Organiza el espacio y los materiales.
+1. Identificá el mensaje principal de tu evento.
+2. Prepará afiches, volantes y folletos.
+3. Invitá a bomberos, guardias forestales o personal médico.
+4. Organizá el espacio y los materiales.
 
 ## Desarrollo
-1. **Planificación** (30 min): Define las actividades del evento.
-2. **Preparación** (30 min): Prepara todos los materiales.
-3. **Evento** (2-4 horas): Lleva a cabo el día de concientización.
-4. **Evaluación** (15 min): Reflexiona sobre lo que funcionó.
+1. **Planificación** (30 min): Definí las actividades del evento.
+2. **Preparación** (30 min): Prepará todos los materiales.
+3. **Evento** (2-4 horas): Llevá a cabo el día de concientización.
+4. **Evaluación** (15 min): Reflexioná sobre lo que funcionó.
 
 ## Cierre
 - ¿Cómo respondió la comunidad al evento?
@@ -190,16 +190,3 @@ nivel 3 2 1
 ALERTA DE OBJETIVO - Esta actividad contribuye a todos los ODS.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

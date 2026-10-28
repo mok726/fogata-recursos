@@ -4,7 +4,7 @@ title: "La Vida en los Árboles"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-vida-en-los-arboles/"
-description: "Aprende sobre dos poblaciones indígenas que construyen casas en el bosque. Construye una réplica en miniatura de una de estas casas."
+description: "Aprendé sobre dos poblaciones indígenas que construyen casas en el bosque. Construí una réplica en miniatura de una de estas casas."
 summary: "Investigación sobre pueblos indígenas que construyen casas en los árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-vida-en-los-arboles.png"
+image: "/imagenes/actividades/la-vida-en-los-arboles.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,18 +167,18 @@ rama_rovers:
 # La Vida en los Árboles
 
 ## Resumen
-Aprende sobre dos poblaciones indígenas que construyen casas en el bosque. Construye una réplica en miniatura de una de estas casas.
+Aprendé sobre dos poblaciones indígenas que construyen casas en el bosque. Construí una réplica en miniatura de una de estas casas.
 
 ## Preparación
-1. Investiga sobre pueblos indígenas que construyen casas en los árboles (ej. Korowai en Papúa Occidental).
-2. Elige dos poblaciones para investigar.
-3. Reúne los materiales para la réplica (palos, hojas, cuerdas, etc.).
+1. Investigá sobre pueblos indígenas que construyen casas en los árboles (ej. Korowai en Papúa Occidental).
+2. Elegí dos poblaciones para investigar.
+3. Reuní los materiales para la réplica (palos, hojas, cuerdas, etc.).
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre dos poblaciones indígenas y sus construcciones.
-2. **Análisis** (10 min): Compara las técnicas y materiales de construcción.
-3. **Creación** (30-45 min): Construye una réplica en miniatura de una de las casas.
-4. **Presentación** (15 min): Comparte tu trabajo con el grupo.
+1. **Investigación** (20 min): Aprendé sobre dos poblaciones indígenas y sus construcciones.
+2. **Análisis** (10 min): Compará las técnicas y materiales de construcción.
+3. **Creación** (30-45 min): Construí una réplica en miniatura de una de las casas.
+4. **Presentación** (15 min): Compartí tu trabajo con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los pueblos indígenas que viven en los árboles?
@@ -186,16 +186,3 @@ Aprende sobre dos poblaciones indígenas que construyen casas en el bosque. Cons
 - ¿Qué compromiso adquieres para respetar y valorar las culturas indígenas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

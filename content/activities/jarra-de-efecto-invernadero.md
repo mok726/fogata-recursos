@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Jarra de efecto invernadero"
+title: "Jarra de Efecto Invernadero"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/jarra-de-efecto-invernadero/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/jarra-de-efecto-invernadero.png"
+image: "/imagenes/actividades/jarra-de-efecto-invernadero.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,26 +159,26 @@ rama_rovers:
   - 8  # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Jarra de efecto invernadero!
+# ¡Jarra de Efecto Invernadero!
 
 ## Resumen
 ¿Estás curioso por saber cómo funciona el efecto invernadero? Con este experimento podrás verlo con tus propios ojos.
 
 ## Preparación
-1. Reúne los materiales: una jarra o frasco grande de vidrio, dos termómetros, un recipiente, agua y una lámpara fuerte.
-2. Prepara una tabla para registrar temperaturas.
-3. Explica el experimento al grupo.
+1. Reuní los materiales: una jarra o frasco grande de vidrio, dos termómetros, un recipiente, agua y una lámpara fuerte.
+2. Prepará una tabla para registrar temperaturas.
+3. Explicá el experimento al grupo.
 
 ## Desarrollo
-1. Coloca un termómetro en el recipiente vacío y otro dentro de la jarra.
-2. Coloca el recipiente y la jarra bajo la lámpara.
-3. Registra las temperaturas cada minuto durante diez minutos.
-4. Observa las diferencias de temperatura entre ambos termómetros.
-5. Discute: ¿Qué representa la jarra? ¿Qué representa la lámpara?
+1. Colocá un termómetro en el recipiente vacío y otro dentro de la jarra.
+2. Colocá el recipiente y la jarra bajo la lámpara.
+3. Registrá las temperaturas cada minuto durante diez minutos.
+4. Observá las diferencias de temperatura entre ambos termómetros.
+5. Discutí: ¿Qué representa la jarra? ¿Qué representa la lámpara?
 
 ## Cierre
-1. Compara los resultados y discute el efecto invernadero.
-2. Reflexiona: ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
+1. Compará los resultados y discutí el efecto invernadero.
+2. Reflexioná: ¿Qué pasaría si la atmósfera tuviera más gases de efecto invernadero?
 3. Pregunta final: ¿Cómo podemos reducir la cantidad de gases de efecto invernadero en la atmósfera?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ B.10 JARRA DE EFECTO INVERNADERO. ¿Estás curioso por saber cómo funciona el e
 NIVELES: 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

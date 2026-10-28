@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diseccioná una flor"
+title: "Diseccioná una Flor"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/disecciona-una-flor/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/disecciona-una-flor.png"
+image: "/imagenes/actividades/disecciona-una-flor.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Diseccioná una flor!
+# ¡Diseccioná una Flor!
 
 ## Resumen
 Obtené permiso para arrancar algunas flores para esta actividad. Tratá de elegir flores de diferentes tamaños y colores. Después de arrancarlas, separalas suavemente y examiná las diferentes partes.
@@ -175,7 +175,7 @@ Obtené permiso para arrancar algunas flores para esta actividad. Tratá de eleg
 ## Desarrollo
 1. Arrancá las flores con cuidado.
 2. Separá las partes suavemente.
-3. Compará con el diagrama de la página 33 del libro.
+3. Compará con el diagrama de la página 33 del libro (cuadernillo de FAO, en inglés: https://doi.org/10.4060/cb4803en).
 4. Identificá las diferentes partes.
 5. Dibujá lo que ves y etiquetá las partes.
 
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

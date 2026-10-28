@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adaptaciones de animales acuáticos"
+title: "Adaptaciones de Animales Acuáticos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/adaptaciones-de-animales-acuaticos/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/adaptaciones-de-animales-acuaticos.png"
+image: "/imagenes/actividades/adaptaciones-de-animales-acuaticos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -161,25 +161,25 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Adaptaciones de animales acuáticos!
+# ¡Adaptaciones de Animales Acuáticos!
 
 ## Resumen
 Los animales que viven en el agua han desarrollado diferentes adaptaciones corporales (rasgos que ayudan a un animal a sobrevivir y/o reproducirse) para ayudarles a desenvolverse en su medio ambiente.
 
 ## Preparación
-1. Reúne información sobre animales acuáticos.
-2. Prepara ejemplos de adaptaciones.
-3. Organiza los grupos de trabajo.
+1. Reuní información sobre animales acuáticos.
+2. Prepará ejemplos de adaptaciones.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Compara diferentes animales: corales, zooplancton, peces voladores, atunes, tiburones, focas, orcas, caballitos de mar, manatíes, medusas y estrellas de mar.
-2. Investiga: ¿Cuáles son algunas de sus adaptaciones?
-3. Investiga: ¿Cómo se mueven estos animales?
-4. Investiga: ¿Cuáles son ejemplos de inventos humanos que copian el movimiento de los animales marinos?
+1. Compará diferentes animales: corales, zooplancton, peces voladores, atunes, tiburones, focas, orcas, caballitos de mar, manatíes, medusas y estrellas de mar.
+2. Investigá: ¿Cuáles son algunas de sus adaptaciones?
+3. Investigá: ¿Cómo se mueven estos animales?
+4. Investigá: ¿Cuáles son ejemplos de inventos humanos que copian el movimiento de los animales marinos?
 
 ## Cierre
 1. Si es posible, visita un acuario.
-2. Comparte tus hallazgos con tu grupo.
+2. Compartí tus hallazgos con tu grupo.
 3. Pregunta final: ¿Qué adaptación marina te parece más sorprendente?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ B.04 Los animales que viven en el agua han desarrollado diferentes adaptaciones 
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

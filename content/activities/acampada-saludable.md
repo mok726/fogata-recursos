@@ -4,7 +4,7 @@ title: "Acampada Saludable"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/acampada-saludable/"
-description: "Organiza una acampada o excursión saludable con menús nutritivos y actividad física."
+description: "Organizá una acampada o excursión saludable con menús nutritivos y actividad física."
 summary: "Acampada saludable con nutrición y ejercicio."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/acampada-saludable.png"
+image: "/imagenes/actividades/acampada-saludable.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,19 +169,19 @@ rama_rovers:
 # Acampada Saludable
 
 ## Resumen
-Organiza una acampada o excursión saludable con menús nutritivos y actividad física.
+Organizá una acampada o excursión saludable con menús nutritivos y actividad física.
 
 ## Preparación
-1. Elige una fecha y lugar para la acampada o excursión.
+1. Elegí una fecha y lugar para la acampada o excursión.
 2. Cada participante prepara un menú para un día.
-3. Compila todos los menús en un libro de menús.
-4. Prepara el equipo necesario.
+3. Compilá todos los menús en un libro de menús.
+4. Prepará el equipo necesario.
 
 ## Desarrollo
-1. **Planificación** (20 min): Revisa los menús y asigna tareas de cocina.
-2. **Acampada** (variable): Realiza la acampada con actividades físicas (senderismo, escalada, baile, yoga, deportes).
-3. **Cocina** (45 min): Prepara las comidas en equipo.
-4. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+1. **Planificación** (20 min): Revisá los menús y asigná tareas de cocina.
+2. **Acampada** (variable): Realizá la acampada con actividades físicas (senderismo, escalada, baile, yoga, deportes).
+3. **Cocina** (45 min): Prepará las comidas en equipo.
+4. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Qué actividad física disfrutaste más?
@@ -189,16 +189,3 @@ Organiza una acampada o excursión saludable con menús nutritivos y actividad f
 - ¿Qué compromiso adquieres para seguir practicando actividades saludables?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

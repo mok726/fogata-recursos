@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "S.E.E los enlaces"
+title: "S.E.E los Enlaces"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/see-los-enlaces/"
 description: "Los participantes exploran los vínculos entre Sociedad, Medio Ambiente y Economía (S.E.E.) lanzando dados y creando historias sobre la función de cada ecosistema."
-summary: "Conecta sociedad, medio ambiente y economía."
+summary: "Conectá sociedad, medio ambiente y economía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/see-los-enlaces.png"
+image: "/imagenes/actividades/see-los-enlaces.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -151,20 +151,20 @@ rama_rovers:
   - 33
 ---
 
-# ¡S.E.E los enlaces!
+# ¡S.E.E los Enlaces!
 
 ## Resumen
 Explorar los vínculos entre Sociedad, Medio Ambiente y Economía (= S.E.E. por su sigla en inglés) al observar la función de cada ecosistema, los componentes y los posibles impactos en otro.
 
 ## Preparación
-1. Prepara un set de dados de tres colores diferentes.
-2. Define el significado de cada dado (rojo, verde, azul).
-3. Divide a los participantes en grupos pequeños.
+1. Prepará un set de dados de tres colores diferentes.
+2. Definí el significado de cada dado (rojo, verde, azul).
+3. Dividí a los participantes en grupos pequeños.
 
 ## Desarrollo
 
 ### Parte I - Preparación
-Permite que los participantes se sienten en pequeños grupos. Uno de los participantes lanza el set de dados. Se escogen tres números, uno de cada dado (rojo, verde y azul). Usa los números para elegir un tema de cada categoría para crear una historia.
+Permite que los participantes se sienten en pequeños grupos. Uno de los participantes lanza el set de dados. Se escogen tres números, uno de cada dado (rojo, verde y azul). Usá los números para elegir un tema de cada categoría para crear una historia.
 
 **Dado rojo - Función del Ecosistema:**
 1. Regular el ciclo del agua
@@ -191,7 +191,7 @@ Permite que los participantes se sienten en pequeños grupos. Uno de los partici
 6. Urbanización
 
 ### Parte II - Crear historia
-Se le da unos minutos a cada grupo para discutir y componer una breve historia. Los términos se pueden usar en cualquier orden. El grupo escribe la historia. Cuando la historia está terminada, lancen los dados nuevamente para crear una nueva historia.
+Se les dan unos minutos a cada grupo para discutir y componer una breve historia. Los términos se pueden usar en cualquier orden. El grupo escribe la historia. Cuando la historia está terminada, lancen los dados nuevamente para crear una nueva historia.
 
 ### Parte III - Compartir
 Cuando todos los grupos hayan completado al menos una historia, pide a algunos grupos que la compartan y luego discutan las historias.
@@ -200,7 +200,7 @@ Cuando todos los grupos hayan completado al menos una historia, pide a algunos g
 Una ciudad a orillas de un río necesita más electricidad debido al aumento de la población y la industria en la zona. Un río cercano es lo suficientemente grande como para proporcionar toda la energía necesaria, una vez que se coloca en un embalse. El río represado rompe el ciclo natural de diferentes descargas a través del río y reduce el agua promedio en el río. Los peces ya no pueden continuar migrando río arriba para procrearse. Todo el sedimento rico en nutrientes que anteriormente se transportaba a través del río y se depositaba en las orillas del río en la temporada alta de agua, ahora está atrapado detrás de la presa. El ciclo natural/regular del agua se rompe a causa de la presa y el ecosistema río abajo cambia debido a la falta de suelo rico en nutrientes.
 
 ### Parte IV - Variación (opcional)
-Puedes ir más allá agregando un juego adicional de dados; dados personales. Estos dados mostrarán emociones: alegría, tristeza, felicidad, decepción, satisfacción y emoción.
+Podés ir más allá agregando un juego adicional de dados; dados personales. Estos dados mostrarán emociones: alegría, tristeza, felicidad, decepción, satisfacción y emoción.
 
 ## Cierre
 1. ¿Qué historia te pareció más interesante?
@@ -249,17 +249,3 @@ Puedes ir más allá agregando un juego adicional de dados; dados personales. Es
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

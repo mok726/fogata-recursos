@@ -4,8 +4,8 @@ title: "Bosques Justos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-justos/"
-description: "Discute cómo se puede proteger el derecho de acceso y distribución de beneficios para las personas locales en las políticas de gestión forestal."
-summary: "Debate sobre acceso justo a los bosques y distribución de beneficios."
+description: "Discutí cómo se puede proteger el derecho de acceso y distribución de beneficios para las personas locales en las políticas de gestión forestal."
+summary: "Debatí sobre acceso justo a los bosques y distribución de beneficios."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bosques-justos.png"
+image: "/imagenes/actividades/bosques-justos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -162,16 +162,16 @@ rama_rovers:
 # Bosques Justos
 
 ## Resumen
-Discute cómo se puede proteger el derecho de acceso y distribución de beneficios para las personas locales en las políticas de gestión forestal.
+Discutí cómo se puede proteger el derecho de acceso y distribución de beneficios para las personas locales en las políticas de gestión forestal.
 
 ## Preparación
-1. Investiga sobre derechos de acceso y distribución de beneficios en la gestión forestal.
-2. Prepara argumentos para la discusión.
+1. Investigá sobre derechos de acceso y distribución de beneficios en la gestión forestal.
+2. Prepará argumentos para la discusión.
 
 ## Desarrollo
-1. **Introducción** (10 min): Presenta el tema y los conceptos clave.
-2. **Discusión guiada** (30 min): Discute cómo proteger los derechos de las personas locales.
-3. **Propuestas** (15 min): Propón ideas para políticas de gestión forestal justas.
+1. **Introducción** (10 min): Presentá el tema y los conceptos clave.
+2. **Discusión guiada** (30 min): Discutí cómo proteger los derechos de las personas locales.
+3. **Propuestas** (15 min): Proponé ideas para políticas de gestión forestal justas.
 4. **Conclusiones** (10 min): Resume las ideas principales y compromisos.
 
 ## Cierre
@@ -180,16 +180,3 @@ Discute cómo se puede proteger el derecho de acceso y distribución de benefici
 - ¿Qué compromiso adquieres para promover la justicia social?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

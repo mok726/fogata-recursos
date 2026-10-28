@@ -1,9 +1,9 @@
 ---
-title: "Contacto con expertos"
+title: "Contacto con Expertos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contacto-con-expertos/"
-description: "Contacta a expertos en cambio climático y medio ambiente."
+description: "Contactá a expertos en cambio climático y medio ambiente."
 summary: "Contacto con expertos ambientales."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/contacto-con-expertos.png"
+image: "/imagenes/actividades/contacto-con-expertos.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a internet
   - Teléfono
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,26 +145,26 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¡Contacto con expertos!
+# ¡Contacto con Expertos!
 
 ## Resumen
-Contacta a científicos, meteorólogos, grupos ambientales y oficinas de la ONU para aprender sobre cambio climático.
+Contactá a científicos, meteorólogos, grupos ambientales y oficinas de la ONU para aprender sobre cambio climático.
 
 ## Preparación
-1. Identifica expertos en tu país.
-2. Prepara preguntas.
-3. Contacta a los expertos.
+1. Identificá expertos en tu país.
+2. Prepará preguntas.
+3. Contactá a los expertos.
 
 ## Desarrollo
-1. **Investigación** (15 min): Identifica expertos.
-2. **Contacto** (20 min): Habla con los expertos.
+1. **Investigación** (15 min): Identificá expertos.
+2. **Contacto** (20 min): Hablá con los expertos.
 3. **Aprendizaje** (15 min): ¿Qué están haciendo?
 4. **Participación** (10 min): Integra sus actividades.
 
 ## Cierre
 - ¿Qué expertos contactaste?
 - ¿Qué aprendiste?
-- ¿Cómo puedes participar?
+- ¿Cómo podés participar?
 
 ---
 ## Texto original completo de la actividad
@@ -174,16 +174,3 @@ Contacta a científicos, meteorólogos, grupos ambientales y oficinas de la ONU 
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

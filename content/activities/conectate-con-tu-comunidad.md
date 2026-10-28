@@ -1,9 +1,9 @@
 ---
-title: "Conéctate con tu Comunidad"
+title: "Conectate con Tu Comunidad"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/conectate-con-tu-comunidad/"
-description: "Crea un blog, red social o boletín informativo sobre RRD para tu comunidad."
+description: "Creá un blog, red social o boletín informativo sobre RRD para tu comunidad."
 summary: "Medios comunitarios sobre RRD."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/conectate-con-tu-comunidad.png"
+image: "/imagenes/actividades/conectate-con-tu-comunidad.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -151,26 +151,30 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad, la empatía y el compromiso social.
 ---
 
-# ¡Conéctate con tu Comunidad!
+# ¡Conectate con Tu Comunidad!
 
 ## Resumen
-Crea un blog comunitario, una red social grupal o un boletín informativo sobre RRD para tu comunidad.
+Creá un blog comunitario, una red social grupal o un boletín informativo sobre RRD para tu comunidad.
 
 ## Preparación
-1. Elige el formato (blog, red social, boletín).
-2. Define el contenido que compartirás.
-3. Invita a amigos, familia y compañeros a unirse.
+1. Elegí el formato (blog, red social, boletín).
+2. Definí el contenido que compartirás.
+3. Invitá a amigos, familia y compañeros a unirse.
 
 ## Desarrollo
-1. **Planificación** (20 min): Define la estructura y el contenido.
-2. **Creación** (30 min): Crea el blog/boletín y publica contenido.
-3. **Promoción** (15 min): Invita a la comunidad a unirse.
-4. **Mantenimiento** (15 min/semana): Actualiza regularmente.
+1. **Planificación** (20 min): Definí la estructura y el contenido.
+2. **Creación** (30 min): Creá el blog/boletín y publicá contenido.
+3. **Promoción** (15 min): Invitá a la comunidad a unirse.
+4. **Mantenimiento** (15 min/semana): Actualizá regularmente.
+
+**Los participantes no deben tratar con extraños en línea sin supervisión parental.**
+
+> **Nota para el educador:** con castores y manada, el blog, la red social o el boletín lo crea y lo administra un adulto; los chicos aportan contenidos. En todos los casos, seguí las normas de protección y de uso de redes de tu organización scout nacional: no publicar datos personales, ubicaciones ni fotos de menores sin autorización de las familias.
 
 ## Cierre
 - ¿Qué formato elegiste y por qué?
 - ¿Qué contenido fue más útil para la comunidad?
-- ¿Cómo puedes mantener el proyecto a largo plazo?
+- ¿Cómo podés mantener el proyecto a largo plazo?
 
 ---
 ## Texto original completo de la actividad
@@ -184,16 +188,3 @@ ALERTA DE OBJETIVO - Esta actividad contribuye al ODS sobre Alianzas para Lograr
 **Los participantes no deben tratar con extraños en línea sin supervisión parental.**
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

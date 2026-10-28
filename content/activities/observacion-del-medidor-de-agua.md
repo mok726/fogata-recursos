@@ -1,9 +1,9 @@
 ---
-title: "Observación del medidor de agua"
+title: "Observación del Medidor de Agua"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-del-medidor-de-agua/"
-description: "Observa el medidor de agua y reduce tu consumo."
+description: "Observá el medidor de agua y reducí tu consumo."
 summary: "Monitoreo de consumo de agua."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/observacion-del-medidor-de-agua.png"
+image: "/imagenes/actividades/observacion-del-medidor-de-agua.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -142,20 +142,20 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Observación del medidor de agua!
+# ¡Observación del Medidor de Agua!
 
 ## Resumen
-Observa el medidor de agua y determina cuánto puedes reducir tu consumo.
+Observá el medidor de agua y determiná cuánto podés reducir tu consumo.
 
 ## Preparación
-1. Pregunta a tus padres dónde está el medidor.
-2. Prepara papel y bolígrafos para registrar.
-3. Asegura supervisión adulta.
+1. Preguntá a tus padres dónde está el medidor.
+2. Prepará papel y lapiceras para registrar.
+3. Asegurá supervisión adulta.
 
 ## Desarrollo
-1. **Observación** (1 semana): Registra las unidades consumidas.
-2. **Plan** (15 min): Haz un plan para reducir el consumo.
-3. **Acción** (continua): Implementa el plan.
+1. **Observación** (1 semana): Registrá las unidades consumidas.
+2. **Plan** (15 min): Hacé un plan para reducir el consumo.
+3. **Acción** (continua): Implementá el plan.
 4. **Análisis** (15 min): ¿Cuánto lograste reducir?
 
 ## Cierre
@@ -171,16 +171,3 @@ Observa el medidor de agua y determina cuánto puedes reducir tu consumo.
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

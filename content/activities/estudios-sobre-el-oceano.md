@@ -3,7 +3,7 @@ title: "Estudios sobre el Océano"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-sobre-el-oceano/"
-description: "Diseña un plan de investigación para estudiar un ecosistema marino de tu interés."
+description: "Diseñá un plan de investigación para estudiar un ecosistema marino de tu interés."
 summary: "Plan de investigación de un ecosistema marino."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/estudios-sobre-el-oceano.png"
+image: "/imagenes/actividades/estudios-sobre-el-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a internet
   - Materiales de referencia sobre expediciones marinas
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -155,23 +155,23 @@ rama_rovers:
 # ¡Estudios sobre el Océano!
 
 ## Resumen
-Elige un ecosistema marino que te interese y diseña un plan de investigación para estudiarlo.
+Elegí un ecosistema marino que te interese y diseñá un plan de investigación para estudiarlo.
 
 ## Preparación
-1. Investiga diferentes ecosistemas marinos.
-2. Elige uno que te interese particularmente.
-3. Reúne materiales de referencia.
+1. Investigá diferentes ecosistemas marinos.
+2. Elegí uno que te interese particularmente.
+3. Reuní materiales de referencia.
 
 ## Desarrollo
-1. **Elección del ecosistema** (10 min): Elige un ecosistema marino.
+1. **Elección del ecosistema** (10 min): Elegí un ecosistema marino.
 2. **Preguntas de investigación** (15 min): Formula preguntas que te gustaría responder.
-3. **Diseño del plan** (25 min): Escribe un plan de investigación detallado.
-4. **Compartir** (10 min): Presenta tu plan al grupo.
+3. **Diseño del plan** (25 min): Escribí un plan de investigación detallado.
+4. **Compartir** (10 min): Presentá tu plan al grupo.
 
 ## Cierre
 - ¿Qué ecosistema elegiste y por qué?
 - ¿Qué métodos usarías para recolectar datos?
-- ¿Qué desafíos crees que enfrentarías en tu investigación?
+- ¿Qué desafíos creés que enfrentarías en tu investigación?
 
 ---
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ Extensión: ¿hay un laboratorio marino cerca del lugar donde vives o existe alg
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

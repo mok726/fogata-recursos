@@ -3,7 +3,7 @@ title: "Explorando el Paisaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-el-paisaje/"
-description: "Visita un lugar natural y analiza su vulnerabilidad ante amenazas."
+description: "Visitá un lugar natural y analizá su vulnerabilidad ante amenazas."
 summary: "Análisis de vulnerabilidad del paisaje."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/explorando-el-paisaje.png"
+image: "/imagenes/actividades/explorando-el-paisaje.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafos para tomar notas
+  - Cuaderno y lapiceras para tomar notas
   - Cámara (opcional)
   - Materiales para afiche
 tools: []
@@ -156,19 +156,19 @@ rama_rovers:
 # ¡Explorando el Paisaje!
 
 ## Resumen
-Visita un lugar natural favorito cerca de donde vives y analiza cómo podría ser vulnerable ante una amenaza.
+Visitá un lugar natural favorito cerca de donde vivís y analizá cómo podría ser vulnerable ante una amenaza.
 
 ## Preparación
-1. Identifica un lugar natural para visitar (ribera, bosque, sendero).
-2. Prepara cuaderno, bolígrafos y cámara.
-3. Organiza el transporte y la supervisión.
+1. Identificá un lugar natural para visitar (ribera, bosque, sendero).
+2. Prepará cuaderno, lapiceras y cámara.
+3. Organizá el transporte y la supervisión.
 
 ## Desarrollo
-1. **Salida** (40 min): Visita el lugar y observa el entorno.
-2. **Registro** (20 min): Toma notas y fotografías.
+1. **Salida** (40 min): Visitá el lugar y observá el entorno.
+2. **Registro** (20 min): Tomá notas y fotografías.
 3. **Análisis** (15 min): ¿Se han talado árboles? ¿El suelo está dañado? ¿Hay señales de inundaciones?
-4. **Creación** (15 min): Prepara un afiche con tus hallazgos.
-5. **Exhibición** (10 min): Coloca el afiche en un lugar público.
+4. **Creación** (15 min): Prepará un afiche con tus hallazgos.
+5. **Exhibición** (10 min): Colocá el afiche en un lugar público.
 
 ## Cierre
 - ¿Qué señales de vulnerabilidad encontraste?
@@ -185,16 +185,3 @@ nivel 3 2 1
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Cambio Climático y Vida de Ecosistemas Terrestres.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

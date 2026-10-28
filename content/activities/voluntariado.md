@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/voluntariado.png"
+image: "/imagenes/actividades/voluntariado.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,23 +159,23 @@ rama_rovers:
 # ¡Voluntariado!
 
 ## Resumen
-Pasa unas pocas horas cada semana durante un par de meses ayudando a una organización local de conservación, sea para bosques, el océano, la biodiversidad o cualquier otra causa por la cual te intereses y que esté siendo afectada por el cambio climático.
+Pasá unas pocas horas cada semana durante un par de meses ayudando a una organización local de conservación, sea para bosques, el océano, la biodiversidad o cualquier otra causa por la cual te intereses y que esté siendo afectada por el cambio climático.
 
 ## Preparación
-1. Identifica una organización de conservación local.
-2. Contacta a la organización para ofrecer tu ayuda.
-3. Organiza los horarios de voluntariado.
+1. Identificá una organización de conservación local.
+2. Contactá a la organización para ofrecer tu ayuda.
+3. Organizá los horarios de voluntariado.
 
 ## Desarrollo
-1. Participa como voluntario en una organización de conservación.
-2. Contribuye a actividades de protección ambiental.
-3. Aprende sobre el trabajo de conservación.
-4. Reflexiona sobre tu experiencia.
+1. Participá como voluntario en una organización de conservación.
+2. Contribuí a actividades de protección ambiental.
+3. Aprendé sobre el trabajo de conservación.
+4. Reflexioná sobre tu experiencia.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué aprendiste sobre la conservación?
-3. Pregunta final: ¿Cómo puedes seguir ayudando?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué aprendiste sobre la conservación?
+3. Pregunta final: ¿Cómo podés seguir ayudando?
 
 ## Texto original completo de la actividad
 E.18 VOLUNTARIADO. Pasa unas pocas horas cada semana durante un par de meses ayudando a una organización local de conservación, sea para bosques, el océano, la biodiversidad o cualquier otra causa por la cual te intereses y que esté siendo afectada por el cambio climático.
@@ -183,16 +183,3 @@ E.18 VOLUNTARIADO. Pasa unas pocas horas cada semana durante un par de meses ayu
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

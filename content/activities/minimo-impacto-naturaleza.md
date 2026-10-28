@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mínimo impacto a la naturaleza"
+title: "Mínimo Impacto a la Naturaleza"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/minimo-impacto-naturaleza/"
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/minimo-impacto-naturaleza.png"
+image: "/imagenes/actividades/minimo-impacto-naturaleza.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -158,23 +158,25 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Mínimo impacto a la naturaleza!
+# ¡Mínimo Impacto a la Naturaleza!
 
 ## Resumen
 Explorar lo que sucederá a nivel local y global si seguimos talando la selva tropical al mismo ritmo que lo hacemos en la actualidad.
 
 ## Preparación
-1. Prepara conjuntos de tarjetas "Un mundo sin selva" para cada grupo.
-2. Divide a los participantes en grupos de 4 o 5.
-3. Prepara espacio para la discusión.
+1. Prepará conjuntos de tarjetas "Un mundo sin selva" para cada grupo.
+2. Dividí a los participantes en grupos de 4 o 5.
+3. Prepará espacio para la discusión.
 
 ## Desarrollo
 
 ### Parte I - Explicación
-El facilitador explica que, si bien se están tomando muchas medidas para proteger la selva tropical, todavía esta se encuentra bajo amenaza de ser destruida. Cada minuto se destruye un área equivalente a 25 campos de fútbol. Esta actividad muestra lo que sucederá si continuamos destruyendo la selva tropical a este ritmo.
+El facilitador explica que, si bien se están tomando muchas medidas para proteger la selva tropical, todavía esta se encuentra bajo amenaza de ser destruida. Cada minuto se destruye un área equivalente a 25 campos de fútbol.
+
+> **Nota para el educador:** la cifra de los "25 campos de fútbol" no tiene fuente ni año en el kit. Para dar un dato actualizado, consulten Global Forest Watch (https://www.globalforestwatch.org), que tiene datos por país y por año. Para acercarlo a la Argentina, pueden hablar del Gran Chaco, las Yungas o la Selva Paranaense, que tienen altas tasas de desmonte. Esta actividad muestra lo que sucederá si continuamos destruyendo la selva tropical a este ritmo.
 
 ### Parte II - Clasificación
-Organiza a los participantes en grupos de 4 o 5 y entrégales un conjunto de tarjetas "Un mundo sin selva". Deben clasificar las tarjetas en 2 categorías: "Cómo afecta la tala de bosques a las personas, las plantas y los animales que viven en la selva tropical" y "Cómo afecta la tala de bosques a todos nosotros". Deben tener 7 cartas en el montón "Cómo afecta la tala de bosques a todos nosotros".
+Organizá a los participantes en grupos de 4 o 5 y entregales un conjunto de tarjetas "Un mundo sin selva". Deben clasificar las tarjetas en 2 categorías: "Cómo afecta la tala de bosques a las personas, las plantas y los animales que viven en la selva tropical" y "Cómo afecta la tala de bosques a todos nosotros". Deben tener 7 cartas en el montón "Cómo afecta la tala de bosques a todos nosotros".
 
 ### Parte III - Priorización
 A continuación deben clasificar las 7 cartas de acuerdo con los temas que consideran más importantes y los menos importantes. Pueden clasificar las cartas con las 2 más importantes en la parte superior y las 2 menos importantes en la parte inferior.
@@ -183,12 +185,12 @@ A continuación deben clasificar las 7 cartas de acuerdo con los temas que consi
 Los grupos pueden compartir sus asuntos más importantes y menos importantes y discutir sus opciones.
 
 ### Parte V - Reflexión
-Utilice la información recopilada de las tarjetas para hablar sobre los impactos en los bosques, las personas, la biodiversidad y el cambio climático tanto a nivel local como global. Anímalos a explorar las formas en que están conectados con el problema, por ejemplo, mediante el uso de alimentos y cosméticos que contengan aceite de palma, artículos de cuero y productos de madera.
+Usá la información recopilada de las tarjetas para hablar sobre los impactos en los bosques, las personas, la biodiversidad y el cambio climático tanto a nivel local como global. Animalos a explorar las formas en que están conectados con el problema, por ejemplo, mediante el uso de alimentos y cosméticos que contengan aceite de palma, artículos de cuero y productos de madera.
 
 ## Cierre
 1. ¿Qué impacto de la deforestación te parece más grave?
 2. ¿Cómo estás conectado con la deforestación?
-3. ¿Qué puedes hacer para reducir tu impacto en los bosques?
+3. ¿Qué podés hacer para reducir tu impacto en los bosques?
 
 ## Texto original completo de la actividad
 
@@ -228,17 +230,3 @@ Utilice la información recopilada de las tarjetas para hablar sobre los impacto
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

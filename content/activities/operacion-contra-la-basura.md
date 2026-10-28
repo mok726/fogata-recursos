@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Operación contra la basura"
+title: "Operación contra la Basura"
 duration: "3 días (encuesta) + 40 minutos (discusión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/operacion-contra-la-basura/"
 description: "Los jóvenes realizan una encuesta comunitaria para identificar las causas del comportamiento de tirar basura, entrevistando a personas de diferentes edades y analizando los factores que contribuyen a este problema ambiental."
-summary: "Investiga las causas del comportamiento de tirar basura."
+summary: "Investigá las causas del comportamiento de tirar basura."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/operacion-contra-la-basura.png"
+image: "/imagenes/actividades/operacion-contra-la-basura.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -167,7 +167,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Operación contra la basura!
+# ¡Operación contra la Basura!
 
 ## Resumen
 Tirar basura es un desafío tanto para el ambiente como para la sociedad. Esta actividad ayuda a los participantes a identificar las causas de este comportamiento y a comprender la perspectiva de las personas en torno a la basura. A través de encuestas y entrevistas, los jóvenes obtendrán una visión clara de los factores que provocan que las personas tiren basura.
@@ -282,18 +282,3 @@ Tirar basura es un desafío tanto para el ambiente como para la sociedad. Esta a
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

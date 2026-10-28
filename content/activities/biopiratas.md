@@ -4,8 +4,8 @@ title: "¡Biopiratas!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/biopiratas/"
-description: "Organiza un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas."
-summary: "Debate sobre bioprospección y biopiratería."
+description: "Organizá un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas."
+summary: "Debatí sobre bioprospección y biopiratería."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/biopiratas.png"
+image: "/imagenes/actividades/biopiratas.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -163,18 +163,18 @@ rama_rovers:
 # ¡Biopiratas!
 
 ## Resumen
-Organiza un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas.
+Organizá un debate sobre bioprospección versus biopiratería. Un lado representa a los investigadores y compañías, el otro a las comunidades indígenas.
 
 ## Preparación
-1. Investiga sobre bioprospección y biopiratería, y sus implicaciones éticas.
-2. Divide el grupo en dos equipos.
-3. Prepara argumentos para cada posición.
+1. Investigá sobre bioprospección y biopiratería, y sus implicaciones éticas.
+2. Dividí el grupo en dos equipos.
+3. Prepará argumentos para cada posición.
 
 ## Desarrollo
 1. **Investigación** (20 min): Cada equipo investiga su posición.
 2. **Preparación** (15 min): Preparen argumentos y contraargumentos.
-3. **Debate** (30 min): Realiza el debate estructurado.
-4. **Reflexión** (15 min): Reflexiona sobre los argumentos presentados.
+3. **Debate** (30 min): Realizá el debate estructurado.
+4. **Reflexión** (15 min): Reflexioná sobre los argumentos presentados.
 
 ## Cierre
 - ¿Qué aprendiste sobre la bioprospección y la biopiratería?
@@ -182,16 +182,3 @@ Organiza un debate sobre bioprospección versus biopiratería. Un lado represent
 - ¿Qué compromiso adquieres para promover prácticas éticas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

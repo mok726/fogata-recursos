@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita a la Costa"
+title: "Visitá a la Costa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-la-costa/"
-description: "Visita una playa con marea baja y observa animales y plantas que viven en la orilla."
+description: "Visitá una playa con marea baja y observá animales y plantas que viven en la orilla."
 summary: "Visita de exploración costera."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-a-la-costa.png"
+image: "/imagenes/actividades/visita-a-la-costa.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -33,7 +33,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Vestimenta y zapatos apropiados para caminar
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Tablas sujetapapeles
   - Una copia del código de conducta para la playa
   - Una guía para la playa (si está disponible)
@@ -176,24 +176,24 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# Visita a la Costa
+# Visitá a la Costa
 
 ## Resumen
-Visita una playa con marea baja y observa animales y plantas que viven en la orilla.
+Visitá una playa con marea baja y observá animales y plantas que viven en la orilla.
 
 ## Preparación
-1. Organiza una visita grupal a una playa con marea baja.
-2. Lee el código de conducta para la playa antes de ir.
-3. Prepara el equipo necesario (tabla sujetapapeles, guía, cámara).
-4. Asegura la supervisión de un adulto.
+1. Organizá una visita grupal a una playa con marea baja.
+2. Leé el código de conducta para la playa antes de ir.
+3. Prepará el equipo necesario (tabla sujetapapeles, guía, cámara).
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Exploración** (30 min): Busca animales y plantas en la orilla, bajo rocas y en pozas rocosas.
-2. **Observación** (20 min): Observa hoyos en la arena y descubre qué vive dentro.
-3. **Registro** (15 min): Haz dibujos o toma fotografías.
-4. **Identificación** (15 min): Usa una guía para identificar las especies.
-5. **Reflexión** (15 min): Discute cómo los animales sobreviven en ese hábitat.
-6. **Extensión** (opcional): Elabora una exposición o guía de tu playa local.
+1. **Exploración** (30 min): Buscá animales y plantas en la orilla, bajo rocas y en pozas rocosas.
+2. **Observación** (20 min): Observá hoyos en la arena y descubrí qué vive dentro.
+3. **Registro** (15 min): Hacé dibujos o toma fotografías.
+4. **Identificación** (15 min): Usá una guía para identificar las especies.
+5. **Reflexión** (15 min): Discutí cómo los animales sobreviven en ese hábitat.
+6. **Extensión** (opcional): Elaborá una exposición o guía de tu playa local.
 
 ## Cierre
 - ¿Qué animales y plantas encontraste en la playa?
@@ -224,16 +224,3 @@ Haz dibujos o toma fotografías de los animales y las plantas que encuentres. ¿
 nivel: 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

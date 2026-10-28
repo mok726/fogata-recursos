@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Presentando los combustibles fósiles"
+title: "Presentando los Combustibles Fósiles"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/presentacion-combustibles-fosiles/"
-description: "Investiga un combustible fósil (carbón, petróleo, gas natural) y crea una presentación sobre sus ventajas, desventajas y uso mundial."
-summary: "Explica los pros y contras de los combustibles fósiles."
+description: "Investigá un combustible fósil (carbón, petróleo, gas natural) y creá una presentación sobre sus ventajas, desventajas y uso mundial."
+summary: "Explicá los pros y contras de los combustibles fósiles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/presentacion-combustibles-fosiles.png"
+image: "/imagenes/actividades/presentacion-combustibles-fosiles.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -164,20 +164,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Presentando los combustibles fósiles!
+# ¡Presentando los Combustibles Fósiles!
 
 ## Resumen
-Divide el grupo en equipos y elige un combustible fósil (carbón, petróleo, gas natural). Investiga y crea una presentación sobre sus ventajas, desventajas y uso mundial.
+Dividí el grupo en equipos y elegí un combustible fósil (carbón, petróleo, gas natural). Investigá y creá una presentación sobre sus ventajas, desventajas y uso mundial.
 
 ## Preparación
-1. Lee la información sobre combustibles fósiles.
-2. Asigna un combustible fósil a cada grupo.
-3. Prepara materiales para la presentación.
+1. Leé la información sobre combustibles fósiles.
+2. Asigná un combustible fósil a cada grupo.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga tu combustible fósil:
+Investigá tu combustible fósil:
 
 **Preguntas guía:**
 - ¿Qué es y cómo se forma?
@@ -187,7 +187,7 @@ Investiga tu combustible fósil:
 - ¿Cuál es su impacto ambiental?
 
 ### Parte II - Crear la presentación
-Crea una presentación (diapositivas, póster o modelo):
+Creá una presentación (diapositivas, póster o modelo):
 
 **Elementos sugeridos:**
 - **Colorido e interesante**
@@ -231,20 +231,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

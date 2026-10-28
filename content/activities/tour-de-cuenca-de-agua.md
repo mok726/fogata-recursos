@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tour de cuenca de agua"
+title: "Tour de Cuenca de Agua"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/tour-de-cuenca-de-agua/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tour-de-cuenca-de-agua.png"
+image: "/imagenes/actividades/tour-de-cuenca-de-agua.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,26 +160,26 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Tour de cuenca de agua!
+# ¡Tour de Cuenca de Agua!
 
 ## Resumen
 Aprendan acerca de su cuenca de agua local - un área de tierra que captura lluvia y nieve y luego las drena hacia un cuerpo de agua mayor. Organicen un tour guiado de su cuenca.
 
 ## Preparación
-1. Investiga sobre tu cuenca de agua local.
-2. Planifica la ruta del tour.
-3. Prepara información para compartir con los visitantes.
+1. Investigá sobre tu cuenca de agua local.
+2. Planificá la ruta del tour.
+3. Prepará información para compartir con los visitantes.
 
 ## Desarrollo
-1. Organiza un tour guiado de tu cuenca de agua.
-2. Invita a tus familias, amigos o grupo a participar.
-3. Resalta todos los aportes que recibe el agua (corrientes naturales, escorrentía de granjas o áreas industriales).
-4. Explica cómo participan las plantas y los árboles en la cuenca.
-5. Explica cómo participan los animales acuáticos y terrestres.
+1. Organizá un tour guiado de tu cuenca de agua.
+2. Invitá a tus familias, amigos o grupo a participar.
+3. Resaltá todos los aportes que recibe el agua (corrientes naturales, escorrentía de granjas o áreas industriales).
+4. Explicá cómo participan las plantas y los árboles en la cuenca.
+5. Explicá cómo participan los animales acuáticos y terrestres.
 
 ## Cierre
-1. Reflexiona sobre la experiencia del tour.
-2. Comparte lo que aprendiste.
+1. Reflexioná sobre la experiencia del tour.
+2. Compartí lo que aprendiste.
 3. Pregunta final: ¿Cómo podemos proteger mejor nuestra cuenca de agua?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ B.02 Aprendan acerca de su cuenca de agua local - un área de tierra que captura
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

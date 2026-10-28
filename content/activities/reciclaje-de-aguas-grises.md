@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reciclaje de aguas grises"
+title: "Reciclaje de Aguas Grises"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-aguas-grises/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/reciclaje-de-aguas-grises.png"
+image: "/imagenes/actividades/reciclaje-de-aguas-grises.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,25 +160,25 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Reciclaje de aguas grises!
+# ¡Reciclaje de Aguas Grises!
 
 ## Resumen
-Investiga sobre el reciclaje de aguas grises. Invita a un representante del departamento de agua de las autoridades locales para que converse con tu grupo. ¿Qué es el reciclaje de aguas grises? ¿Cuándo y dónde es apropiado? ¿Qué leyes existen en tu área para el reciclaje de aguas grises?
+Investigá sobre el reciclaje de aguas grises. Invitá a un representante del departamento de agua de las autoridades locales para que converse con tu grupo. ¿Qué es el reciclaje de aguas grises? ¿Cuándo y dónde es apropiado? ¿Qué leyes existen en tu área para el reciclaje de aguas grises?
 
 ## Preparación
-1. Investiga sobre aguas grises.
-2. Contacta a un representante local.
-3. Prepara preguntas para la visita.
+1. Investigá sobre aguas grises.
+2. Contactá a un representante local.
+3. Prepará preguntas para la visita.
 
 ## Desarrollo
-1. Invita a un representante del departamento de agua.
-2. Aprende sobre el reciclaje de aguas grises.
-3. Investiga las leyes locales.
-4. Diseña el sistema de reciclaje de aguas grises ideal para tu casa o escuela.
+1. Invitá a un representante del departamento de agua.
+2. Aprendé sobre el reciclaje de aguas grises.
+3. Investigá las leyes locales.
+4. Diseñá el sistema de reciclaje de aguas grises ideal para tu casa o escuela.
 
 ## Cierre
-1. Presenta tus hallazgos a tus amigos, clase o grupo.
-2. Reflexiona: ¿Cómo ayuda el reciclaje de aguas grises a la biodiversidad?
+1. Presentá tus hallazgos a tus amigos, clase o grupo.
+2. Reflexioná: ¿Cómo ayuda el reciclaje de aguas grises a la biodiversidad?
 3. Pregunta final: ¿Qué leyes existen en tu área sobre aguas grises?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ B.20 Investiga sobre el reciclaje de aguas grises. Invita a un representante del
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

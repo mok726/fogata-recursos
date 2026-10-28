@@ -4,7 +4,7 @@ title: "Alimentos Extranjeros"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-extranjeros/"
-description: "Investiga recetas de otros países y cocina una comida. Compara los ingredientes y la nutrición con los platos típicos de tu país."
+description: "Investigá recetas de otros países y cocina una comida. Compará los ingredientes y la nutrición con los platos típicos de tu país."
 summary: "Investigación y cocina de recetas internacionales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-extranjeros.png"
+image: "/imagenes/actividades/alimentos-extranjeros.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -175,19 +175,19 @@ rama_rovers:
 # Alimentos Extranjeros
 
 ## Resumen
-Investiga recetas de otros países y cocina una comida. Compara los ingredientes y la nutrición con los platos típicos de tu país.
+Investigá recetas de otros países y cocina una comida. Compará los ingredientes y la nutrición con los platos típicos de tu país.
 
 ## Preparación
-1. Investiga recetas de otros países o culturas.
-2. Elige una receta que puedas cocinar sin habilidades especiales.
-3. Compra los ingredientes necesarios.
-4. Asegura la supervisión de un adulto.
+1. Investigá recetas de otros países o culturas.
+2. Elegí una receta que puedas cocinar sin habilidades especiales.
+3. Comprá los ingredientes necesarios.
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga recetas de otros países.
-2. **Cocina** (30-45 min): Prepara una comida basada en la receta elegida.
-3. **Observación** (15 min): Compara la comida con platos típicos de tu país en términos de nutrientes, frescura, origen e costo.
-4. **Reflexión** (15 min): Comparte tus observaciones con el grupo.
+1. **Investigación** (15 min): Investigá recetas de otros países.
+2. **Cocina** (30-45 min): Prepará una comida basada en la receta elegida.
+3. **Observación** (15 min): Compará la comida con platos típicos de tu país en términos de nutrientes, frescura, origen y costo.
+4. **Reflexión** (15 min): Compartí tus observaciones con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los alimentos de otros países?
@@ -195,16 +195,3 @@ Investiga recetas de otros países y cocina una comida. Compara los ingredientes
 - ¿Qué compromiso adquieres para explorar más sobre la diversidad alimentaria?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

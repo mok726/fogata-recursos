@@ -1,9 +1,9 @@
 ---
-title: "Agua embotellada"
+title: "Agua Embotellada"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-embotellada/"
-description: "Investiga si el agua del grifo es segura y deja de comprar agua embotellada."
+description: "Investigá si el agua de la canilla es segura y dejá de comprar agua embotellada."
 summary: "Reducción del consumo de agua embotellada."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/agua-embotellada.png"
+image: "/imagenes/actividades/agua-embotellada.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -47,7 +47,7 @@ tags:
   - sacc
   - agua
   - embotellada
-  - grifo
+  - canilla
   - plastico
 
 link: []
@@ -143,23 +143,23 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¡Agua embotellada!
+# ¡Agua Embotellada!
 
 ## Resumen
-Averigua si el agua del grifo es segura y deja de comprar agua embotellada.
+Averiguá si el agua de la canilla es segura y dejá de comprar agua embotellada.
 
 ## Preparación
-- Investiga la calidad del agua local.
-- Habla con tu familia sobre el proyecto.
+- Investigá la calidad del agua local.
+- Hablá con tu familia sobre el proyecto.
 
 ## Desarrollo
-1. **Investigación** (15 min): ¿Es segura el agua del grifo?
+1. **Investigación** (15 min): ¿Es segura el agua de la canilla?
 2. **Reflexión** (15 min): ¿Cuánta energía se usa para hacer botellas?
-3. **Acción** (10 min): Deja de comprar agua embotellada.
+3. **Acción** (10 min): Dejá de comprar agua embotellada.
 4. **Conclusión** (5 min): ¿Qué pasa con el plástico?
 
 ## Cierre
-- ¿Es segura el agua del grifo donde vives?
+- ¿Es segura el agua de la canilla donde vivís?
 - ¿Cuánta energía se usa para hacer botellas?
 - ¿Qué pasa con todo el plástico?
 
@@ -171,16 +171,3 @@ Averigua si el agua del grifo es segura y deja de comprar agua embotellada.
 NIVEL 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

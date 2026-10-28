@@ -3,7 +3,7 @@ title: "Probando, Probando"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/probando-probando/"
-description: "Prepara un examen de 10 preguntas sobre preparación frente a desastres."
+description: "Prepará un examen de 10 preguntas sobre preparación frente a desastres."
 summary: "Examen sobre preparación para desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/probando-probando.png"
+image: "/imagenes/actividades/probando-probando.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
   - caminantes
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -147,17 +147,17 @@ rama_rovers: []
 # ¡Probando, Probando!
 
 ## Resumen
-Prepara un set de 10 preguntas de examen sobre preparación frente a desastres y compártelo con tu familia.
+Prepará un set de 10 preguntas de examen sobre preparación frente a desastres y compártelo con tu familia.
 
 ## Preparación
-- Piensa en preguntas sobre preparación para desastres.
-- Incluye preguntas sobre terremotos, incendios, inundaciones.
+- Pensá en preguntas sobre preparación para desastres.
+- Incluí preguntas sobre terremotos, incendios, inundaciones.
 
 ## Desarrollo
-1. **Creación** (20 min): Escribe tus 10 preguntas.
-2. **Revisión** (10 min): Verifica que las respuestas sean correctas.
-3. **Examen** (10 min): Comparte el examen con tu familia.
-4. **Resultados** (5 min): Revisa quién obtuvo la mejor nota.
+1. **Creación** (20 min): Escribí tus 10 preguntas. Algunos ejemplos: ¿Por qué nos dicen que usemos las escaleras en lugar de los ascensores en caso de incendio? ¿Por qué hay que permanecer lejos de las ventanas durante un terremoto?
+2. **Revisión** (10 min): Verificá que las respuestas sean correctas.
+3. **Examen** (10 min): Compartí el examen con tu familia.
+4. **Resultados** (5 min): Revisá quién obtuvo la mejor nota. Tal vez el que tenga la nota más alta pueda recibir un premio.
 
 ## Cierre
 - ¿Qué preguntas fueron las más difíciles?
@@ -172,16 +172,3 @@ Prepara un set de 10 preguntas de examen sobre preparación frente a desastres y
 nivel 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

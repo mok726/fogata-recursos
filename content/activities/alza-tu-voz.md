@@ -4,7 +4,7 @@ title: "Alza Tu Voz"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alza-tu-voz/"
-description: "Escribe una canción sobre el hambre y la desigualdad para compartir con tu grupo."
+description: "Escribí una canción sobre el hambre y la desigualdad para compartir con tu grupo."
 summary: "Creación musical sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alza-tu-voz.png"
+image: "/imagenes/actividades/alza-tu-voz.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ rama_rovers:
 # Alza Tu Voz
 
 ## Resumen
-Escribe una canción sobre el hambre y la desigualdad para compartir con tu grupo.
+Escribí una canción sobre el hambre y la desigualdad para compartir con tu grupo.
 
 ## Preparación
-1. Reflexiona sobre el hambre y la desigualdad en el mundo.
-2. Prepara material para escribir la canción.
-3. Piensa en qué temas quieres abordar.
+1. Reflexioná sobre el hambre y la desigualdad en el mundo.
+2. Prepará material para escribir la canción.
+3. Pensá en qué temas querés abordar.
 
 ## Desarrollo
-1. **Reflexión** (10 min): Piensa en lo que quieres expresar.
-2. **Composición** (25 min): Escribe la letra y la música de tu canción.
-3. **Ensayo** (10 min): Practica tu canción.
-4. **Presentación** (15 min): Comparte tu canción con el grupo.
+1. **Reflexión** (10 min): Pensá en lo que querés expresar.
+2. **Composición** (25 min): Escribí la letra y la música de tu canción.
+3. **Ensayo** (10 min): Practicá tu canción.
+4. **Presentación** (15 min): Compartí tu canción con el grupo.
 
 ## Cierre
 - ¿Qué mensaje querías transmitir con tu canción?
@@ -189,16 +189,3 @@ Escribe una canción sobre el hambre y la desigualdad para compartir con tu grup
 - ¿Qué compromiso adquieres para seguir alzando tu voz contra el hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

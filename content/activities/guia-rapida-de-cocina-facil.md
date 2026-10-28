@@ -4,7 +4,7 @@ title: "Guía Rápida de Cocina Fácil"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/guia-rapida-de-cocina-facil/"
-description: "Investiga métodos y tiempos de cocción para diferentes alimentos nutritivos y crea una tabla guía."
+description: "Investigá métodos y tiempos de cocción para diferentes alimentos nutritivos y creá una tabla guía."
 summary: "Guía de tiempos de cocción de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/guia-rapida-de-cocina-facil.png"
+image: "/imagenes/actividades/guia-rapida-de-cocina-facil.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -171,18 +171,18 @@ rama_rovers:
 # Guía Rápida de Cocina Fácil
 
 ## Resumen
-Investiga métodos y tiempos de cocción para diferentes alimentos nutritivos y crea una tabla guía.
+Investigá métodos y tiempos de cocción para diferentes alimentos nutritivos y creá una tabla guía.
 
 ## Preparación
-1. Investiga diferentes métodos de cocción (hervir, hornear, asar, guisar, freír).
-2. Prepara una tabla con columnas: alimentos, métodos de cocción y tiempos.
-3. Asegura la supervisión de un adulto.
+1. Investigá diferentes métodos de cocción (hervir, hornear, asar, guisar, freír).
+2. Prepará una tabla con columnas: alimentos, métodos de cocción y tiempos.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga métodos y tiempos de cocción.
-2. **Tabla** (20 min): Crea una tabla con los alimentos y sus tiempos.
-3. **Compartir** (10 min): Pon la tabla en un lugar visible de la cocina.
-4. **Reflexión** (10 min): Comparte lo aprendido con el grupo.
+1. **Investigación** (20 min): Investigá métodos y tiempos de cocción.
+2. **Tabla** (20 min): Creá una tabla con los alimentos y sus tiempos.
+3. **Compartir** (10 min): Poné la tabla en un lugar visible de la cocina.
+4. **Reflexión** (10 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué métodos de cocción son más saludables?
@@ -190,16 +190,3 @@ Investiga métodos y tiempos de cocción para diferentes alimentos nutritivos y 
 - ¿Qué compromiso adquieres para cocinar de manera más saludable?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

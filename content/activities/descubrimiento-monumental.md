@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubrimiento monumental"
+title: "Descubrimiento Monumental"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubrimiento-monumental/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/descubrimiento-monumental.png"
+image: "/imagenes/actividades/descubrimiento-monumental.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,14 +163,14 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Descubrimiento monumental!
+# ¡Descubrimiento Monumental!
 
 ## Resumen
 Explorá cualquier monumento famoso o sitio de patrimonio cultural o natural en tu ciudad. Dibujalo o sacale fotos y aprendé sobre su historia. ¿Por qué es importante este sitio? ¿Por qué es importante preservarlo? ¿Se está manteniendo bien, en tu opinión? ¿Qué te enseña este sitio sobre tu cultura, historia o medio ambiente?
 
 ## Preparación
 1. Identificá un monumento o sitio patrimonial local.
-2. Prepara materiales para registrar.
+2. Prepará materiales para registrar.
 3. Organizá la visita.
 
 ## Desarrollo
@@ -213,20 +213,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

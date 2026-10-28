@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Podcasts de biodiversidad"
+title: "Podcasts de Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/podcasts-de-biodiversidad/"
-description: "Escucha de podcasts o documentales sobre especies interesantes para aprender sobre biodiversidad."
+description: "Escuchá de podcasts o documentales sobre especies interesantes para aprender sobre biodiversidad."
 summary: "Escuchar podcasts sobre especies."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/podcasts-de-biodiversidad.png"
+image: "/imagenes/actividades/podcasts-de-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,24 +163,24 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Podcasts de biodiversidad!
+# ¡Podcasts de Biodiversidad!
 
 ## Resumen
-Escucha podcasts o documentales, ya sea de audio o video, sobre especies interesantes con tu grupo. Envía respuestas a las preguntas, ¡incluyendo una grabación de cómo crees tú que suena un pepino de mar cuando lanza un chorro de agua!
+Escuchá podcasts o documentales, ya sea de audio o video, sobre especies interesantes con tu grupo. Enviá respuestas a las preguntas, ¡incluyendo una grabación de cómo creés vos que suena un pepino de mar cuando lanza un chorro de agua!
 
 ## Preparación
-1. Selecciona podcasts o documentales sobre biodiversidad.
-2. Prepara el equipo para escuchar.
-3. Organiza los grupos de trabajo.
+1. Seleccioná podcasts o documentales sobre biodiversidad.
+2. Prepará el equipo para escuchar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Escucha los podcasts o documentales con tu grupo.
-2. Responde a las preguntas planteadas.
-3. Incluye una grabación creativa (ej. sonido de un pepino de mar).
+1. Escuchá los podcasts o documentales con tu grupo.
+2. Respondé a las preguntas planteadas.
+3. Incluí una grabación creativa (ej. sonido de un pepino de mar).
 
 ## Cierre
-1. Comparte tus respuestas con el grupo.
-2. Reflexiona sobre lo aprendido.
+1. Compartí tus respuestas con el grupo.
+2. Reflexioná sobre lo aprendido.
 3. Pregunta final: ¿Qué especie te pareció más interesante?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ D.03 Escucha podcasts o documentales, ya sea de audio o video, sobre especies in
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

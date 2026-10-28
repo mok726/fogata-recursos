@@ -3,7 +3,7 @@ title: "Transmitiendo Datos sobre el Suelo"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/transmitiendo-datos-sobre-el-suelo/"
-description: "Crea una exhibición pública sobre el suelo y su degradación."
+description: "Creá una exhibición pública sobre el suelo y su degradación."
 summary: "Exhibición pública sobre el suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png"
+image: "/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -151,23 +151,23 @@ rama_rovers:
 # ¡Transmitiendo Datos sobre el Suelo!
 
 ## Resumen
-Crea una exhibición pública sobre el suelo, su degradación y los cambios que las personas pueden hacer.
+Creá una exhibición pública sobre el suelo, su degradación y los cambios que las personas pueden hacer.
 
 ## Preparación
-1. Obtén autorización para exhibir en un lugar público.
-2. Prepara carteles y mapas.
-3. Crea listas de control de acciones amigables con el suelo.
+1. Obtené autorización para exhibir en un lugar público.
+2. Prepará carteles y mapas.
+3. Creá listas de control de acciones amigables con el suelo.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne datos sobre degradación del suelo.
-2. **Creación** (30 min): Diseña carteles y materiales.
-3. **Montaje** (20 min): Instala la exhibición.
-4. **Promoción** (20 min): Invita a la comunidad a visitarla.
+1. **Investigación** (20 min): Reuní datos sobre degradación del suelo.
+2. **Creación** (30 min): Diseñá carteles y materiales.
+3. **Montaje** (20 min): Instalá la exhibición.
+4. **Promoción** (20 min): Invitá a la comunidad a visitarla.
 
 ## Cierre
 - ¿Cómo respondió la comunidad?
 - ¿Qué carteles fueron más efectivos?
-- ¿Qué cambios puedes inspirar en tu comunidad?
+- ¿Qué cambios podés inspirar en tu comunidad?
 
 ---
 ## Texto original completo de la actividad
@@ -177,16 +177,3 @@ Crea una exhibición pública sobre el suelo, su degradación y los cambios que 
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

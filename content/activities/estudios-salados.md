@@ -3,7 +3,7 @@ title: "Estudios Salados"
 duration: "45 minutos + observación"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-salados/"
-description: "Experimenta con la desalinización del agua salada."
+description: "Experimentá con la desalinización del agua salada."
 summary: "Experimento de desalinización."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/estudios-salados.png"
+image: "/imagenes/actividades/estudios-salados.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -155,17 +155,17 @@ rama_rovers:
 # ¡Estudios Salados!
 
 ## Resumen
-Experimenta con agua salada para entender cómo puede separarse la sal del agua (desalinización).
+Experimentá con agua salada para entender cómo puede separarse la sal del agua (desalinización).
 
 ## Preparación
 1. Disuelve bastante sal en un vaso con agua.
-2. Prepara un lugar cálido para dejar el vaso.
+2. Prepará un lugar cálido para dejar el vaso.
 
 ## Desarrollo
-1. **Preparación** (10 min): Prepara el agua salada.
-2. **Observación** (5 min): Deja el vaso en un lugar cálido.
-3. **Registro** (5 min): Observa y registra los cambios durante varios días.
-4. **Investigación** (25 min): Investiga el proceso de desalinización.
+1. **Preparación** (10 min): Prepará el agua salada.
+2. **Observación** (5 min): Dejá el vaso en un lugar cálido.
+3. **Registro** (5 min): Observá y registrá los cambios durante varios días.
+4. **Investigación** (25 min): Investigá el proceso de desalinización.
 
 ## Cierre
 - ¿Qué sucedió con el agua y la sal?
@@ -180,16 +180,3 @@ Experimenta con agua salada para entender cómo puede separarse la sal del agua 
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,10 +1,10 @@
 ---
-title: "Conoce a los Expertos"
+title: "Conocé a los Expertos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/conoce-a-los-expertos/"
-description: "Visita a un equipo de respuesta a emergencias y entrevista a sus miembros sobre su trabajo."
-summary: "Entrevista a expertos en emergencias."
+description: "Visitá a un equipo de respuesta a emergencias y entrevista a sus miembros sobre su trabajo."
+summary: "Entrevistá a expertos en emergencias."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/conoce-a-los-expertos.png"
+image: "/imagenes/actividades/conoce-a-los-expertos.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Equipo de video o cámara
-  - Cuaderno y bolígrafos
+  - Cuaderno y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -152,21 +152,21 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Conoce a los Expertos!
+# ¡Conocé a los Expertos!
 
 ## Resumen
-Visita a un equipo de respuesta a emergencias (bomberos, policía, personal médico) y entrevístalos sobre su trabajo.
+Visitá a un equipo de respuesta a emergencias (bomberos, policía, personal médico) y entrevistalos sobre su trabajo.
 
 ## Preparación
-1. Contacta a un equipo de respuesta a emergencias local.
-2. Prepara preguntas para la entrevista.
-3. Organiza el transporte y la supervisión.
+1. Contactá a un equipo de respuesta a emergencias local.
+2. Prepará preguntas para la entrevista.
+3. Organizá el transporte y la supervisión.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para los expertos.
-2. **Visita** (30 min): Entrevista a los trabajadores de emergencia.
-3. **Reflexión** (10 min): Comparte lo que aprendiste.
-4. **Creación** (5 min): Prepara un video o blog de fotos sobre la visita.
+1. **Preparación** (15 min): Prepará preguntas para los expertos.
+2. **Visita** (30 min): Entrevistá a los trabajadores de emergencia.
+3. **Reflexión** (10 min): Compartí lo que aprendiste.
+4. **Creación** (5 min): Prepará un video o blog de fotos sobre la visita.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de los equipos de emergencia?
@@ -181,16 +181,3 @@ Visita a un equipo de respuesta a emergencias (bomberos, policía, personal méd
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Manualidades con plástico reciclado"
+title: "Manualidades con Plástico Reciclado"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/manualidades-con-plastico/"
-description: "Organiza una feria de manualidades en tu escuela donde crees nuevos productos a partir de artículos plásticos que normalmente tirarías."
-summary: "Transforma plástico en arte y objetos útiles."
+description: "Organizá una feria de manualidades en tu escuela donde creés nuevos productos a partir de artículos plásticos que normalmente tirarías."
+summary: "Transformá plástico en arte y objetos útiles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/manualidades-con-plastico.png"
+image: "/imagenes/actividades/manualidades-con-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -161,20 +161,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Manualidades con plástico reciclado!
+# ¡Manualidades con Plástico Reciclado!
 
 ## Resumen
-Organiza una feria de manualidades en tu escuela donde crees nuevos productos a partir de artículos plásticos que normalmente tirarías. ¡Transforma basura en tesoros!
+Organizá una feria de manualidades en tu escuela donde creés nuevos productos a partir de artículos plásticos que normalmente tirarías. ¡Transformá basura en tesoros!
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Reúne artículos plásticos para reutilizar.
-3. Prepara materiales de manualidades.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Reuní artículos plásticos para reutilizar.
+3. Prepará materiales de manualidades.
 
 ## Desarrollo
 
 ### Parte I - Recolectar
-Pide a los participantes que traigan artículos plásticos que normalmente tirarían:
+Pedí a los participantes que traigan artículos plásticos que normalmente tirarían:
 - Botellas de plástico
 - Envases de alimentos
 - Tapas
@@ -189,7 +189,7 @@ Cada participante o grupo crea algo nuevo con los plásticos:
 - Portalápices con envases
 - Joyas con tapas
 - Mosaicos con tapas de colores
-- Bolsas reutilizables con bolsas plásticas (fusionadas)
+- Bolsas reutilizables tejidas o cosidas con tiras de bolsas plásticas (no fundirlas con plancha: desprende humos irritantes)
 
 ### Parte III - Feria
 Organicen una feria de manualidades donde cada uno muestre su creación.
@@ -230,20 +230,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

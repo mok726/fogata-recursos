@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Alimentos vs combustibles"
+title: "Alimentos vs Combustibles"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-vs-combustibles/"
-description: "Investiga el debate sobre biocombustibles vs. seguridad alimentaria, y realiza un debate con tu grupo sobre este tema controvertido."
-summary: "Debate sobre biocombustibles y alimentos."
+description: "Investigá el debate sobre biocombustibles vs. seguridad alimentaria, y realizá un debate con tu grupo sobre este tema controvertido."
+summary: "Debatí sobre biocombustibles y alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-vs-combustibles.png"
+image: "/imagenes/actividades/alimentos-vs-combustibles.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -160,20 +160,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Alimentos vs combustibles!
+# ¡Alimentos vs Combustibles!
 
 ## Resumen
-Los biocombustibles son controvertidos. Algunas personas creen que usar cultivos para producir biocombustibles daña el suministro mundial de alimentos. Investiga el tema y debate con tu grupo sobre los pros y contras.
+Los biocombustibles son controvertidos. Algunas personas creen que usar cultivos para producir biocombustibles daña el suministro mundial de alimentos. Investigá el tema y debate con tu grupo sobre los pros y contras.
 
 ## Preparación
-1. Lee la información sobre biocombustibles.
-2. Investiga el debate "alimentos vs combustibles".
-3. Prepara argumentos para ambos lados.
+1. Leé la información sobre biocombustibles.
+2. Investigá el debate "alimentos vs combustibles".
+3. Prepará argumentos para ambos lados.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga el debate sobre biocombustibles:
+Investigá el debate sobre biocombustibles:
 
 **Preguntas guía:**
 - ¿Qué son los biocombustibles?
@@ -183,7 +183,7 @@ Investiga el debate sobre biocombustibles:
 - ¿Cuáles son los pros y contras?
 
 ### Parte II - Debate
-Divide el grupo en dos equipos:
+Dividí el grupo en dos equipos:
 
 **Equipo 1**: A favor de los biocombustibles
 **Equipo 2**: En contra de los biocombustibles
@@ -195,7 +195,7 @@ Cada equipo presenta sus argumentos y contraargumentos.
 
 ## Cierre
 1. ¿Qué argumento te pareció más convincente?
-2. ¿Crees que podemos tener biocombustibles y alimentos para todos?
+2. ¿Creés que podemos tener biocombustibles y alimentos para todos?
 3. ¿Qué solución propondrías?
 
 ## Texto original completo de la actividad
@@ -226,20 +226,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

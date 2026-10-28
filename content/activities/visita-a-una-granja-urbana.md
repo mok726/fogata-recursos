@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita a una granja urbana"
+title: "Visitá a una Granja Urbana"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-una-granja-urbana/"
-description: "Visita a una granja urbana local para conocer cómo contribuye a la ciudad verde y aprender sobre agricultura urbana."
+description: "Visitá a una granja urbana local para conocer cómo contribuye a la ciudad verde y aprender sobre agricultura urbana."
 summary: "Visitar una granja urbana local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-a-una-granja-urbana.png"
+image: "/imagenes/actividades/visita-a-una-granja-urbana.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Visita a una granja urbana!
+# ¡Visitá a una Granja Urbana!
 
 ## Resumen
 Aprendé que hay diferentes formas de granjas urbanas, como huertos caseros, jardines comunitarios, granjas en azoteas, instituciones agrícolas, etc. Visitá una granja urbana local para aprender cómo contribuye a una ciudad verde.
@@ -213,20 +213,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

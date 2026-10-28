@@ -4,8 +4,8 @@ title: "Delicias del Mar"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/delicias-del-mar/"
-description: "Prepara una comida usando ingredientes del océano, asegurándote de que sean de fuentes sostenibles."
-summary: "Cocina con ingredientes marinos sostenibles."
+description: "Prepará una comida usando ingredientes del océano, asegurándote de que sean de fuentes sostenibles."
+summary: "Cociná con ingredientes marinos sostenibles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/delicias-del-mar.png"
+image: "/imagenes/actividades/delicias-del-mar.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -169,24 +169,24 @@ rama_rovers:
 # Delicias del Mar
 
 ## Resumen
-Prepara una comida usando ingredientes del océano, asegurándote de que sean de fuentes sostenibles.
+Prepará una comida usando ingredientes del océano, asegurándote de que sean de fuentes sostenibles.
 
 ## Preparación
-1. Investiga ingredientes del océano (pescado, algas, mariscos).
-2. Aprende cómo crecieron o se desarrollaron los ingredientes.
-3. Asegura la supervisión de un adulto.
+1. Investigá ingredientes del océano (pescado, algas, mariscos).
+2. Aprendé cómo crecieron o se desarrollaron los ingredientes.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga ingredientes y su procedencia.
-2. **Compra** (20 min): Compra ingredientes locales y sostenibles.
-3. **Preparación** (30 min): Prepara una delicia del mar.
-4. **Degustación** (15 min): Comparte la comida con el grupo.
-5. **Reflexión** (10 min): Discute la importancia de fuentes sostenibles.
-6. **Extensión** (opcional): Organiza un banquete del océano.
+1. **Investigación** (15 min): Investigá ingredientes y su procedencia.
+2. **Compra** (20 min): Comprá ingredientes locales y sostenibles.
+3. **Preparación** (30 min): Prepará una delicia del mar.
+4. **Degustación** (15 min): Compartí la comida con el grupo.
+5. **Reflexión** (10 min): Discutí la importancia de fuentes sostenibles.
+6. **Extensión** (opcional): Organizá un banquete del océano.
 
 ## Cierre
 - ¿Qué ingredientes usaste y de dónde vinieron?
-- ¿Cómo puedes asegurarte de que los productos del mar sean sostenibles?
+- ¿Cómo podés asegurarte de que los productos del mar sean sostenibles?
 - ¿Qué compromiso adquieres para consumir productos del mar responsables?
 
 ---
@@ -205,16 +205,3 @@ Nosotros los humanos somos parte de las redes alimentarias marinas, ¡al igual q
 nivel: 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

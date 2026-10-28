@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversión con películas"
+title: "Diversión con Películas"
 duration: "2.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-con-peliculas/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/diversion-con-peliculas.png"
+image: "/imagenes/actividades/diversion-con-peliculas.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -163,15 +163,15 @@ rama_rovers:
   - 36 # Asumo un estilo de vida en coherencia con mis creencias
 ---
 
-# ¡Diversión con películas!
+# ¡Diversión con Películas!
 
 ## Resumen
 En grupo, vean un documental sobre el cambio climático, por ejemplo, "Una Verdad Incómoda" o "Persiguiendo el Hielo". Luego, discutan sobre sus impresiones con relación al documental.
 
 ## Preparación
-1. Selecciona un documental apropiado para el grupo.
-2. Prepara el equipo audiovisual.
-3. Prepara preguntas para guiar la discusión posterior.
+1. Seleccioná un documental apropiado para el grupo.
+2. Prepará el equipo audiovisual.
+3. Prepará preguntas para guiar la discusión posterior.
 
 ## Desarrollo
 1. Vean el documental en grupo.
@@ -191,16 +191,3 @@ B.02 DIVERSIÓN CON PELÍCULAS. En grupo, vean un documental sobre el cambio cli
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

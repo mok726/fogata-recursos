@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Qué gas!"
+title: "¡Qué Gas!"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-gas/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/que-gas.png"
+image: "/imagenes/actividades/que-gas.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -156,15 +156,15 @@ rama_rovers:
   - 20 # Actúo de manera resiliente ante las dificultades
 ---
 
-# ¡Qué gas!
+# ¡Qué Gas!
 
 ## Resumen
 Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, escriban sus propiedades en el otro lado de la carta. Por ejemplo, la carta del dióxido de carbono podría enumerar las siguientes propiedades: un gas incoloro que forma cerca de 0,3 por ciento del aire; las plantas fabrican su alimento a partir de este.
 
 ## Preparación
-1. Investiga sobre los gases de efecto invernadero.
-2. Prepara tarjetas con los nombres y propiedades.
-3. Organiza los equipos.
+1. Investigá sobre los gases de efecto invernadero.
+2. Prepará tarjetas con los nombres y propiedades.
+3. Organizá los equipos.
 
 ## Desarrollo
 1. Cada carta debe tener el nombre de un gas de efecto invernadero en un lado y sus propiedades en el otro.
@@ -173,7 +173,7 @@ Preparen unas cartas, cada una con el nombre de un gas de efecto invernadero, es
 
 ## Cierre
 1. Discutan la importancia de cada gas de efecto invernadero.
-2. Reflexiona sobre cómo las actividades humanas afectan los niveles de estos gases.
+2. Reflexioná sobre cómo las actividades humanas afectan los niveles de estos gases.
 3. Pregunta final: ¿Qué gas de efecto invernadero te sorprendió más y por qué?
 
 ## Texto original completo de la actividad
@@ -182,16 +182,3 @@ B.08 ¡QUÉ GAS! Preparen unas cartas, cada una con el nombre de un gas de efect
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

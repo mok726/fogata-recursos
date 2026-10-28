@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/biomimesis.png"
+image: "/imagenes/actividades/biomimesis.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -167,18 +167,18 @@ rama_rovers:
 Para hacer la vida más fácil y más agradable, se inventaron herramientas, aparatos eléctricos y nuevos materiales. Muchas de estas cosas nos recuerdan a la naturaleza. ¿Cuál es el equivalente en la naturaleza de: una excavadora, un paracaídas, unas aletas para natación, un sonar y un papel? ¿Cuáles son otros cuatro ejemplos de inventos humanos que fueron inspirados en la naturaleza?
 
 ## Preparación
-1. Investiga sobre biomímesis.
-2. Prepara ejemplos de inventos y sus equivalentes naturales.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre biomímesis.
+2. Prepará ejemplos de inventos y sus equivalentes naturales.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Piensa en el equivalente natural de: excavadora, paracaídas, aletas de natación, sonar y papel.
-2. Encuentra otros cuatro ejemplos de inventos inspirados en la naturaleza.
-3. Comparte tus hallazgos con el grupo.
+1. Pensá en el equivalente natural de: excavadora, paracaídas, aletas de natación, sonar y papel.
+2. Encontrá otros cuatro ejemplos de inventos inspirados en la naturaleza.
+3. Compartí tus hallazgos con el grupo.
 
 ## Cierre
-1. Reflexiona sobre la inspiración natural en la tecnología.
-2. Discute: ¿Qué podemos aprender de la naturaleza?
+1. Reflexioná sobre la inspiración natural en la tecnología.
+2. Discutí: ¿Qué podemos aprender de la naturaleza?
 3. Pregunta final: ¿Qué invento te pareció más sorprendente?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ D.21 Para hacer la vida más fácil y más agradable, se inventaron herramientas
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

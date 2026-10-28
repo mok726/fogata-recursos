@@ -3,7 +3,7 @@ title: "Día Mundial de la Alimentación"
 duration: "Proyecto de evento"
 layout: "layouts/activity.njk"
 permalink: "/activities/dia-mundial-de-la-alimentacion/"
-description: "Organiza actividades para el Día Mundial de la Alimentación."
+description: "Organizá actividades para el Día Mundial de la Alimentación."
 summary: "Celebración del Día Mundial de la Alimentación."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/dia-mundial-de-la-alimentacion.png"
+image: "/imagenes/actividades/dia-mundial-de-la-alimentacion.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -151,17 +151,17 @@ rama_rovers:
 # ¡Día Mundial de la Alimentación!
 
 ## Resumen
-Organiza actividades para el Día Mundial de la Alimentación (16 de octubre) para promover dietas balanceadas y decisiones saludables.
+Organizá actividades para el Día Mundial de la Alimentación (16 de octubre) para promover dietas balanceadas y decisiones saludables.
 
 ## Preparación
-1. Elige actividades: posters, canciones, poemas, concursos, etc.
-2. Prepara materiales.
-3. Invita a la comunidad.
+1. Elegí actividades: posters, canciones, poemas, concursos, etc.
+2. Prepará materiales.
+3. Invitá a la comunidad.
 
 ## Desarrollo
-1. **Planificación** (30 min): Diseña las actividades.
-2. **Preparación** (30 min): Prepara todo.
-3. **Celebración** (2-3 horas): Lleva a cabo el evento.
+1. **Planificación** (30 min): Diseñá las actividades.
+2. **Preparación** (30 min): Prepará todo.
+3. **Celebración** (2-3 horas): Llevá a cabo el evento.
 4. **Reflexión** (15 min): ¿Qué funcionó bien?
 
 ## Cierre
@@ -177,16 +177,3 @@ Organiza actividades para el Día Mundial de la Alimentación (16 de octubre) pa
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

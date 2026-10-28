@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Conservación práctica"
+title: "Conservación Práctica"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/conservacion-practica/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/conservacion-practica.png"
+image: "/imagenes/actividades/conservacion-practica.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -158,25 +158,25 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Conservación práctica!
+# ¡Conservación Práctica!
 
 ## Resumen
-Comprométete en la conservación de la biodiversidad. Únete a una organización de conservación. Visita un centro de rescate de animales salvajes y ofrécete a ayudar en el centro durante un periodo de tiempo. Informa a tu grupo acerca de tus actividades, sobre lo que te interesa y cómo tus esfuerzos están ayudando a la biodiversidad.
+Comprométete en la conservación de la biodiversidad. Únete a una organización de conservación. Visitá un centro de rescate de animales salvajes y ofrecete a ayudar en el centro durante un periodo de tiempo. Informá a tu grupo acerca de tus actividades, sobre lo que te interesa y cómo tus esfuerzos están ayudando a la biodiversidad.
 
 ## Preparación
-1. Identifica una organización de conservación local.
-2. Contacta a la organización para ofrecer tu ayuda.
-3. Organiza los horarios de voluntariado.
+1. Identificá una organización de conservación local.
+2. Contactá a la organización para ofrecer tu ayuda.
+3. Organizá los horarios de voluntariado.
 
 ## Desarrollo
 1. Únete a la organización de conservación.
-2. Visita el centro de rescate de animales.
-3. Ofrece tu ayuda durante un periodo de tiempo.
-4. Aprende sobre las actividades de conservación.
+2. Visitá el centro de rescate de animales.
+3. Ofrecé tu ayuda durante un periodo de tiempo.
+4. Aprendé sobre las actividades de conservación.
 
 ## Cierre
-1. Informa a tu grupo sobre tus actividades.
-2. Reflexiona: ¿Cómo están ayudando tus esfuerzos?
+1. Informá a tu grupo sobre tus actividades.
+2. Reflexioná: ¿Cómo están ayudando tus esfuerzos?
 3. Pregunta final: ¿Qué aprendiste trabajando en conservación?
 
 ## Texto original completo de la actividad
@@ -185,16 +185,3 @@ D.31 Comprométete en la conservación de la biodiversidad. Únete a una organiz
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

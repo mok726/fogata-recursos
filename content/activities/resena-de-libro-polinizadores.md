@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Reseña de libro"
+title: "Reseña de Libro"
 duration: "2 horas + lectura"
 layout: "layouts/activity.njk"
 permalink: "/activities/resena-de-libro-polinizadores/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/resena-de-libro-polinizadores.png"
+image: "/imagenes/actividades/resena-de-libro-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Reseña de libro!
+# ¡Reseña de Libro!
 
 ## Resumen
 Leé un libro sobre cualquier polinizador, como The Flight of the Honey Bee o Bat Citizens: Defending the Ninjas of the Night. ¿Aprendiste algo nuevo? ¿Qué fue lo más interesante o sorprendente que aprendiste?
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

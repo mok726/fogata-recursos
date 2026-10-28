@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tu vida ecológica"
+title: "Tu Vida Ecológica"
 duration: "10-15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-vida-ecologica/"
 description: "Los participantes reflexionan sobre sus hábitos diarios de gestión de residuos y sugieren formas de mejorar sus prácticas para una vida más sostenible."
-summary: "Descubre hábitos sostenibles para tu hogar."
+summary: "Descubrí hábitos sostenibles para tu hogar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tu-vida-ecologica.png"
+image: "/imagenes/actividades/tu-vida-ecologica.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -163,15 +163,15 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Tu vida ecológica!
+# ¡Tu Vida Ecológica!
 
 ## Resumen
 Esta actividad se centra en cómo contribuir a la sostenibilidad con hábitos personales diarios. Los participantes comienzan a reflexionar sobre sus hábitos diarios de gestión de residuos y sugieren formas de mejorar sus prácticas. El objetivo de la actividad es descubrir hábitos diarios más sostenibles y cómo adoptarlos.
 
 ## Preparación
-1. Prepara el gráfico de la casa sostenible (ver anexo).
-2. Reúne rotuladores, papel y post-its.
-3. Organiza el espacio para el trabajo en equipos.
+1. Prepará el gráfico de la casa sostenible (ver anexo).
+2. Reuní marcadores, papel y post-its.
+3. Organizá el espacio para el trabajo en equipos.
 
 ## Desarrollo
 
@@ -192,7 +192,7 @@ Después de acordar las mejores prácticas, los participantes comparten sus refl
 
 ## Cierre
 1. ¿Qué acción tomarás para mejorar tus hábitos en tu hogar, reuniones de amigos, campamentos, escuela, etc.?
-2. ¿Cómo puedes crear conciencia sobre la sostenibilidad y dar ejemplo hacia una vida ecológica en tu comunidad?
+2. ¿Cómo podés crear conciencia sobre la sostenibilidad y dar ejemplo hacia una vida ecológica en tu comunidad?
 
 ## Texto original completo de la actividad
 
@@ -245,17 +245,3 @@ Después de acordar las mejores prácticas, los participantes comparten sus refl
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

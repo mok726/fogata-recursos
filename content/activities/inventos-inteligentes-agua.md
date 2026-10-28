@@ -5,7 +5,7 @@ duration: "2 horas (1h preparación + 1h presentación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/inventos-inteligentes-agua/"
 description: "Los participantes investigan y presentan inventos innovadores diseñados para ahorrar y conservar agua, reflexionando sobre cómo la tecnología puede ayudar a proteger nuestros recursos hídricos."
-summary: "Investiga inventos para ahorrar agua."
+summary: "Investigá inventos para ahorrar agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/inventos-inteligentes-agua.png"
+image: "/imagenes/actividades/inventos-inteligentes-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -175,19 +175,19 @@ translation_notice:
 Durante los últimos 50 años, el uso del agua ha aumentado para la producción de alimentos, bienes y energía para satisfacer las demandas de una población creciente y mejorar el bienestar humano. Según UN-Water, para 2025, 1.800 millones de personas vivirán en países o regiones con escasez absoluta de agua. Por esta razón, la preocupación por el consumo y la disponibilidad de agua está creciendo en todo el mundo. Personas de todo el planeta están trabajando en inventos para ahorrar agua que pueden tener un gran impacto en la conservación. En esta actividad, los participantes investigan y presentan inventos innovadores diseñados para ahorrar y conservar agua.
 
 ## Preparación
-1. Recuerda a tu grupo cómo los científicos e inventores trabajan en la creación de productos innovadores que pueden contribuir a los seres humanos.
-2. Divide a los participantes en equipos pequeños.
-3. Prepara acceso a Internet para la investigación.
+1. Recordá a tu grupo cómo los científicos e inventores trabajan en la creación de productos innovadores que pueden contribuir a los seres humanos.
+2. Dividí a los participantes en equipos pequeños.
+3. Prepará acceso a Internet para la investigación.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a investigar inventos geniales diseñados para ahorrar y/o conservar agua.
-2. Proporciona algunos enlaces útiles para comenzar:
+1. Explicá a tu grupo que van a investigar inventos geniales diseñados para ahorrar y/o conservar agua.
+2. Proporcioná algunos enlaces útiles para comenzar:
    - Halogen.tv: https://halogentv.com/articles/4-really-cool-water-inventions
 
 ### Paso 2: Investigación
-3. Divide a los participantes en equipos pequeños y asígnales la tarea de buscar un invento innovador relacionado con el agua.
+3. Dividí a los participantes en equipos pequeños y asignales la tarea de buscar un invento innovador relacionado con el agua.
 4. Cada equipo debe investigar:
    - ¿Qué problema resuelve el invento?
    - ¿Cómo funciona?
@@ -196,14 +196,14 @@ Durante los últimos 50 años, el uso del agua ha aumentado para la producción 
 
 ### Paso 3: Preparación de la presentación
 5. Los equipos pueden preparar su presentación en cartulina, en formato digital o como una presentación oral.
-6. Anima a los participantes a ser creativos en sus presentaciones.
+6. Animá a los participantes a ser creativos en sus presentaciones.
 
 ### Paso 4: Presentación
-7. Pide a cada grupo que presente su trabajo.
+7. Pedí a cada grupo que presente su trabajo.
 
 ## Cierre
-- ¿Cuál crees que fue el invento más ingenioso? ¿Por qué?
-- ¿Puedes pensar en otro invento que podría ayudarnos a usar mejor el agua?
+- ¿Cuál creés que fue el invento más ingenioso? ¿Por qué?
+- ¿Podés pensar en otro invento que podría ayudarnos a usar mejor el agua?
 - ¿Por qué la gente está cada vez más preocupada por el uso y la conservación del agua?
 
 ## Texto original completo de la actividad
@@ -274,21 +274,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[33,34], scouts[41,46], caminantes[37,38], rovers[7,8])

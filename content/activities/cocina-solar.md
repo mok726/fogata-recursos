@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cocina solar"
+title: "Cocina Solar"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cocina-solar/"
-description: "Construye un horno solar o una turbina de agua para cocinar al aire libre usando la energía del Sol o del agua."
-summary: "Cocina usando energía solar."
+description: "Construí un horno solar o una turbina de agua para cocinar al aire libre usando la energía del Sol o del agua."
+summary: "Cociná usando energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cocina-solar.png"
+image: "/imagenes/actividades/cocina-solar.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -171,20 +171,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Cocina solar!
+# ¡Cocina Solar!
 
 ## Resumen
-¡Prueba a cocinar al aire libre usando la energía del Sol! Construye tu propio horno solar y cocina algo delicioso sin usar electricidad ni gas.
+¡Probá a cocinar al aire libre usando la energía del Sol! Construí tu propio horno solar y cocina algo delicioso sin usar electricidad ni gas.
 
 ## Preparación
-1. Lee la información sobre energía solar.
-2. Reúne los materiales para el horno solar.
-3. Busca un lugar soleado para cocinar.
+1. Leé la información sobre energía solar.
+2. Reuní los materiales para el horno solar.
+3. Buscá un lugar soleado para cocinar.
 
 ## Desarrollo
 
 ### Parte I - Construir
-Construye un horno solar con:
+Construí un horno solar con:
 - Una caja de cartón
 - Papel aluminio (para reflejar el sol)
 - Plástico transparente (para atrapar el calor)
@@ -193,15 +193,15 @@ Construye un horno solar con:
 **Instrucciones:** www.hometrainingtools.com/build-a-solar-oven-project/a/1237
 
 ### Parte II - Cocinar
-- Coloca tu horno solar al sol
-- Pon la comida dentro
-- Espera a que se cocine con la energía del Sol
+- Colocá tu horno solar al sol
+- Poné la comida dentro
+- Esperá a que se cocine con la energía del Sol
 
 ### Parte III - Alternativa (si no hay sol)
-Si no puedes depender del clima soleado, puedes construir tu propia turbina de agua: bit.ly/GYifJJ
+Si no podés depender del clima soleado, podés construir tu propia turbina de agua: bit.ly/GYifJJ
 
 ### Parte IV - Disfrutar
-¡Comparte tu comida cocinada con energía solar con tu grupo!
+¡Compartí tu comida cocinada con energía solar con tu grupo!
 
 ## Cierre
 1. ¿Funcionó el horno solar?
@@ -236,20 +236,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

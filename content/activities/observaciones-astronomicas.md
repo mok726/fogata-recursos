@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Observaciones astronómicas"
+title: "Observaciones Astronómicas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/observaciones-astronomicas/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/observaciones-astronomicas.png"
+image: "/imagenes/actividades/observaciones-astronomicas.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,24 +160,24 @@ rama_rovers:
   - 37 # Valoro la naturaleza como oportunidad de conexión conmigo mismo
 ---
 
-# ¡Observaciones astronómicas!
+# ¡Observaciones Astronómicas!
 
 ## Resumen
 ¿Sabías que las variaciones en la órbita de la Tierra y su inclinación en su eje pueden también causar variaciones en el clima? Estas variaciones no ocurren en un espacio de tiempo predecible - ¡la inclinación del eje de la Tierra cambia entre 22°C y 25°C en un ciclo de cerca de 41.000 años!
 
 ## Preparación
-1. Investiga sobre la órbita de la Tierra y su inclinación.
-2. Prepara materiales para construir un modelo.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre la órbita de la Tierra y su inclinación.
+2. Prepará materiales para construir un modelo.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga sobre la posición de la Tierra en el espacio.
-2. Investiga cómo, a lo largo de decenas de miles de años, esto afecta al clima de la Tierra.
-3. Crea un modelo de la Tierra rotando alrededor del Sol.
-4. En tu modelo, puedes alterar la órbita de la Tierra y su inclinación para ver de qué manera esto afecta nuestra proximidad al Sol.
+1. Investigá sobre la posición de la Tierra en el espacio.
+2. Investigá cómo, a lo largo de decenas de miles de años, esto afecta al clima de la Tierra.
+3. Creá un modelo de la Tierra rotando alrededor del Sol.
+4. En tu modelo, podés alterar la órbita de la Tierra y su inclinación para ver de qué manera esto afecta nuestra proximidad al Sol.
 
 ## Cierre
-1. Presenta tu modelo al grupo y explica cómo funciona.
+1. Presentá tu modelo al grupo y explicá cómo funciona.
 2. Discutan: ¿Cómo influyen los cambios astronómicos en el clima a largo plazo?
 3. Pregunta final: ¿Cómo se diferencia el cambio climático actual de estos ciclos astronómicos naturales?
 
@@ -187,16 +187,3 @@ B.16 OBSERVACIONES ASTRONÓMICAS. ¿Sabías que las variaciones en la órbita de
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

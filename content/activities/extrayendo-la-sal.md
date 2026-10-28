@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/extrayendo-la-sal.png"
+image: "/imagenes/actividades/extrayendo-la-sal.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -178,18 +178,18 @@ rama_rovers:
 Extrae sal del agua marina por evaporación y aprende sobre la importancia de la sal.
 
 ## Preparación
-1. Coloca 1-2 cm de agua marina en el plato.
-2. Deja el plato en un lugar soleado y protegido.
-3. Asegura la supervisión de un adulto.
+1. Colocá 1-2 cm de agua marina en el plato.
+2. Dejá el plato en un lugar soleado y protegido.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Preparación** (5 min): Coloca el agua marina en el plato.
+1. **Preparación** (5 min): Colocá el agua marina en el plato.
 2. **Observación** (varias horas/días): El agua se evaporará lentamente y dejará la sal.
-3. **Adivinanza** (5 min): Haz que todos adivinen cuánto tiempo tomará.
+3. **Adivinanza** (5 min): Hacé que todos adivinen cuánto tiempo tomará.
 4. **Recolección** (10 min): Una vez evaporada el agua, recolecta los cristales de sal.
-5. **Pesaje** (10 min): Pesa la sal y calcula cuánta agua necesitarías para obtener 100 g de sal.
+5. **Pesaje** (10 min): Pesá la sal y calculá cuánta agua necesitarías para obtener 100 g de sal.
 6. **Prueba** (5 min): La persona más cercana en la adivinanza prueba los cristales.
-7. **Extensión** (20 min): Investiga datos interesantes sobre la sal y crea un póster.
+7. **Extensión** (20 min): Investigá datos interesantes sobre la sal y creá un póster.
 
 ## Cierre
 - ¿Cuánto tiempo tomó evaporar el agua?
@@ -214,16 +214,3 @@ Aquí hay algunos sitios web para ayudarte a empezar: www.marinebio.net/marinesc
 nivel: 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

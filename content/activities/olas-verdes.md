@@ -4,7 +4,7 @@ title: "Olas Verdes"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/olas-verdes/"
-description: "Organiza una celebración por la Ola Verde en el Día Internacional de la Biodiversidad. Planta árboles y únete a una ola verde global."
+description: "Organizá una celebración por la Ola Verde en el Día Internacional de la Biodiversidad. Plantá árboles y únete a una ola verde global."
 summary: "Celebración de la Ola Verde plantando árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/olas-verdes.png"
+image: "/imagenes/actividades/olas-verdes.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -177,37 +177,24 @@ rama_rovers:
 # Olas Verdes
 
 ## Resumen
-Organiza una celebración por la Ola Verde en el Día Internacional de la Biodiversidad. Planta árboles y únete a una ola verde global que comienza en el lejano oriente y viaja hacia el occidente.
+Organizá una celebración por la Ola Verde en el Día Internacional de la Biodiversidad. Plantá árboles y únete a una ola verde global que comienza en el lejano oriente y viaja hacia el occidente.
 
 ## Preparación
-1. Identifica el Día Internacional de la Diversidad Biológica (22 de mayo).
-2. Consigue árboles/plántulas para plantar.
-3. Prepara las herramientas necesarias.
+1. Identificá el Día Internacional de la Diversidad Biológica (22 de mayo).
+2. Conseguí árboles/plántulas para plantar.
+3. Prepará las herramientas necesarias.
 4. Inscríbete en http://greenwave.cbd.int/es/node/2.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre la Ola Verde y su significado.
-2. **Preparación** (30 min): Organiza el lugar y los materiales.
-3. **Celebración** (1 hora): Planta árboles a las 10 am, hora local.
-4. **Registro** (10 min): Documenta tu participación en el sitio web.
-5. **Reflexión** (15 min): Comparte tu experiencia con el grupo.
+1. **Investigación** (15 min): Aprendé sobre la Ola Verde y su significado.
+2. **Preparación** (30 min): Organizá el lugar y los materiales.
+3. **Celebración** (1 hora): Plantá árboles a las 10 am, hora local.
+4. **Registro** (10 min): Documentá tu participación en el sitio web.
+5. **Reflexión** (15 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Qué significa ser parte de una ola verde global?
 - ¿Cómo te sentiste al participar en esta celebración?
-- ¿Cómo puedes seguir contribuyendo a la biodiversidad en tu comunidad?
+- ¿Cómo podés seguir contribuyendo a la biodiversidad en tu comunidad?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/nudo-humano.png"
+image: "/imagenes/actividades/nudo-humano.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -166,11 +166,12 @@ rama_rovers:
 # Nudo Humano
 
 ## Resumen
-Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los participantes tienen que estirar el brazo derecho y tomar la mano de alguien de enfrente. A continuación, deben hacer lo mismo con el brazo izquierdo. El grupo tendrá que desenredarse los brazos sin soltar las manos, volviendo a conformar un círculo. Al finalizar deben reflexionar sobre la importancia de trabajar en conjunto a los demás para lograr los objetivos y como todos y todas necesitamos de los y las demás.
+Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los participantes tienen que estirar el brazo derecho y tomar la mano de alguien de enfrente. A continuación, deben hacer lo mismo con el brazo izquierdo. El grupo tendrá que desenredarse los brazos sin soltar las manos, volviendo a conformar un círculo. Al finalizar deben reflexionar sobre la importancia de trabajar en conjunto con los demás para lograr los objetivos y cómo todos y todas necesitamos de los y las demás.
 
 ## Preparación
-1. Asegura un espacio amplio y seguro.
-2. No se requieren materiales.
+1. Asegurá un espacio amplio y seguro, sin obstáculos ni piso resbaloso.
+2. Armá grupos de 8 a 12 participantes. Si son más, hacé varios nudos a la vez: con muchos el nudo casi nunca se resuelve.
+3. No se requieren materiales.
 
 ## Desarrollo
 
@@ -183,11 +184,13 @@ Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los p
 
 ### Paso 3: Desenredar el nudo
 4. El grupo tendrá que desenredarse los brazos **sin soltar las manos**, volviendo a conformar un círculo.
+5. Se puede girar el agarre de la mano, pero nunca forzar ni tironear brazos, muñecas u hombros. Con castores y manada, el adulto acompaña de cerca y frena si alguien queda en una posición incómoda.
+6. Si el nudo no tiene solución (pasa a veces), el educador autoriza a soltar y volver a tomar un par de manos una sola vez.
 
 ### Paso 4: Reflexión
-5. Al finalizar deben reflexionar sobre:
+7. Al finalizar deben reflexionar sobre:
    - La importancia de trabajar en conjunto con los demás para lograr los objetivos.
-   - Como todos y todas necesitamos de los y las demás.
+   - Cómo todos y todas necesitamos de los y las demás.
 
 ## ODS involucrados
 - **ODS 4:** Educación de calidad
@@ -214,17 +217,3 @@ Deben formar un círculo mirando hacia el centro, hombro con hombro. Todos los p
 **ODS involucrados:** 4, 16, 17
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Limpieza de espacios verdes"
+title: "Limpieza de Espacios Verdes"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-espacios-verdes/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/limpieza-de-espacios-verdes.png"
+image: "/imagenes/actividades/limpieza-de-espacios-verdes.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Limpieza de espacios verdes!
+# ¡Limpieza de Espacios Verdes!
 
 ## Resumen
 Elegí un parque, patio de juegos u otro espacio verde que tenga un problema de basura. Junto con tus compañeros, elegí un día para limpiar el parque. Contactá a las autoridades del parque y pediles que te ayuden a difundir la noticia y brindar apoyo.
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

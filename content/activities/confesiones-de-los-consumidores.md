@@ -4,7 +4,7 @@ title: "Confesiones de los Consumidores"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/confesiones-de-los-consumidores/"
-description: "Mantén un diario en el cual monitorees tus hábitos de cada día y sus potenciales impactos sobre los bosques. Después de un mes, comparte y discute tus hallazgos."
+description: "Mantené un diario en el cual monitorees tus hábitos de cada día y sus potenciales impactos sobre los bosques. Después de un mes, compartí y discutí tus hallazgos."
 summary: "Monitoreo de hábitos de consumo y su impacto en los bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/confesiones-de-los-consumidores.png"
+image: "/imagenes/actividades/confesiones-de-los-consumidores.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -166,34 +166,21 @@ rama_rovers:
 # Confesiones de los Consumidores
 
 ## Resumen
-Mantén un diario en el cual monitorees tus hábitos de cada día y sus potenciales impactos sobre los bosques. Después de un mes, comparte y discute tus hallazgos con tu grupo.
+Mantené un diario en el cual monitorees tus hábitos de cada día y sus potenciales impactos sobre los bosques. Después de un mes, compartí y discutí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Prepara un diario o cuaderno para el registro diario.
-2. Define qué hábitos vas a monitorear (energía, carne, productos forestales, etc.).
+1. Prepará un diario o cuaderno para el registro diario.
+2. Definí qué hábitos vas a monitorear (energía, carne, productos forestales, etc.).
 
 ## Desarrollo
-1. **Monitoreo** (30 días): Registra diariamente tus hábitos de consumo y su impacto potencial.
-2. **Análisis** (15 min): Reflexiona sobre tus patrones de consumo.
-3. **Reunión grupal** (30 min): Comparte tus notas y discute con el grupo.
-4. **Mejora** (15 min): Identifica acciones para mejorar tus hábitos de consumo.
+1. **Monitoreo** (30 días): Registrá diariamente tus hábitos de consumo y su impacto potencial.
+2. **Análisis** (15 min): Reflexioná sobre tus patrones de consumo.
+3. **Reunión grupal** (30 min): Compartí tus notas y discutí con el grupo.
+4. **Mejora** (15 min): Identificá acciones para mejorar tus hábitos de consumo.
 
 ## Cierre
 - ¿Qué aprendiste sobre tus hábitos de consumo y su impacto en los bosques?
-- ¿Qué cambios puedes implementar en tu vida diaria?
-- ¿Cómo puedes compartir este aprendizaje con tu familia y amigos?
+- ¿Qué cambios podés implementar en tu vida diaria?
+- ¿Cómo podés compartir este aprendizaje con tu familia y amigos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

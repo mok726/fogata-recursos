@@ -1,9 +1,9 @@
 ---
-title: "Menos televisión y computador"
+title: "Menos Televisión y Computadora"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-television-y-computador/"
-description: "Comprométete a usar menos tiempo la televisión y el computador."
+description: "Comprométete a usar menos tiempo la televisión y la computadora."
 summary: "Reducción de tiempo frente a pantallas."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/menos-television-y-computador.png"
+image: "/imagenes/actividades/menos-television-y-computador.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -45,7 +45,7 @@ required_category: ""
 tags:
   - sacc
   - television
-  - computador
+  - computadora
   - energia
   - ahorro
   - pantallas
@@ -137,24 +137,24 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¡Menos televisión y computador!
+# ¡Menos Televisión y Computadora!
 
 ## Resumen
-Comprométete a usar tu televisión o computador menos tiempo cada día.
+Comprométete a usar tu televisión o computadora menos tiempo cada día.
 
 ## Preparación
-- Reflexiona sobre cuánto tiempo pasas frente a pantallas.
-- Decide cuánto tiempo vas a reducir.
+- Reflexioná sobre cuánto tiempo pasás frente a pantallas.
+- Decidí cuánto tiempo vas a reducir.
 
 ## Desarrollo
-1. **Compromiso** (5 min): Decide reducir el tiempo frente a pantallas.
+1. **Compromiso** (5 min): Decidí reducir el tiempo frente a pantallas.
 2. **Acción** (diaria): Cumple tu compromiso.
-3. **Convencimiento** (10 min): ¿A cuántos amigos puedes convencer?
+3. **Convencimiento** (10 min): ¿A cuántos amigos podés convencer?
 
 ## Cierre
 - ¿Cuánto tiempo lograste reducir?
 - ¿Qué hiciste con el tiempo extra?
-- ¿Cómo te sientes al usar menos energía?
+- ¿Cómo te sentís al usar menos energía?
 
 ---
 ## Texto original completo de la actividad
@@ -165,16 +165,3 @@ Comprométete a usar tu televisión o tu computador menos tiempo cada día. ¿A 
 NIVEL 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

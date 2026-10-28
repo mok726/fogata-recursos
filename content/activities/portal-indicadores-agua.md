@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/portal-indicadores-agua/"
 description: "Los participantes exploran el Portal de Indicadores Clave del Agua (KWIP) de UN-Water para descubrir estadísticas sobre los recursos hídricos y sus usos alrededor del mundo."
-summary: "Explora estadísticas mundiales sobre el agua."
+summary: "Explorá estadísticas mundiales sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/portal-indicadores-agua.png"
+image: "/imagenes/actividades/portal-indicadores-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -172,26 +172,26 @@ translation_notice:
 El agua es vida. Durante millones de años, la vida en la Tierra ha dependido de los recursos hídricos para sobrevivir. El 70 por ciento de la superficie de la Tierra está cubierta por agua, pero de esta, aproximadamente el 97,5 por ciento es agua salada, y solo el 2,5 por ciento restante es agua dulce. De este 2,5 por ciento, menos del 1 por ciento está disponible para que lo usen las criaturas de la Tierra, mientras que el resto está en forma de hielo en los polos. La cantidad de agua en la Tierra es constante y no puede aumentar ni disminuir, pero está distribuida de manera desigual en el planeta. En esta actividad, los participantes exploran el Portal de Indicadores Clave del Agua (KWIP) de UN-Water.
 
 ## Preparación
-1. Asegúrate de que los participantes tengan acceso a Internet.
-2. Prepara la dirección web: https://www.unwater.org/statistics_KWIP.html
-3. Divide a los participantes en grupos pequeños.
+1. Asegurate de que los participantes tengan acceso a Internet.
+2. Prepará la dirección web: https://www.unwater.org/statistics_KWIP.html
+3. Dividí a los participantes en grupos pequeños.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que El Portal de Indicadores Clave del Agua (KWIP) fue desarrollado por UN-Water para proporcionar información actualizada y valiosa sobre indicadores del agua que puede ser útil para periodistas, formuladores de políticas, investigadores y el público en general.
+1. Explicá a tu grupo que El Portal de Indicadores Clave del Agua (KWIP) fue desarrollado por UN-Water para proporcionar información actualizada y valiosa sobre indicadores del agua que puede ser útil para periodistas, formuladores de políticas, investigadores y el público en general.
 
 ### Paso 2: Exploración
-2. Divide a los participantes en grupos pequeños y pídeles que exploren la página web del KWIP.
+2. Dividí a los participantes en grupos pequeños y pediles que exploren la página web del KWIP.
 3. Pueden buscar información mundial sobre el porcentaje de recursos de agua dulce extraídos, o pueden ser más específicos y averiguar las extracciones sectoriales dentro de un país.
 
 ### Paso 3: Presentación
-4. Pide a cada grupo que haga una pequeña presentación sobre sus hallazgos. ¿Qué datos interesantes aprendieron?
+4. Pedí a cada grupo que haga una pequeña presentación sobre sus hallazgos. ¿Qué datos interesantes aprendieron?
 
 ## Cierre
 - ¿Por qué es importante tener datos y hechos actualizados sobre el uso del agua?
 - ¿Cómo te ayuda esta información a darte cuenta de la necesidad de usar el agua sabiamente?
-- ¿Qué puedes hacer para ayudar a promover el derecho de todos al acceso a agua limpia y suficiente?
+- ¿Qué podés hacer para ayudar a promover el derecho de todos al acceso a agua limpia y suficiente?
 
 ## Texto original completo de la actividad
 
@@ -255,21 +255,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,40], scouts[26,47], caminantes[25,43], rovers[8,29])

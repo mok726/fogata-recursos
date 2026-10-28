@@ -3,7 +3,7 @@ title: "Compartiendo Historias"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/compartiendo-historias/"
-description: "Comparte experiencias personales sobre desastres o lee historias sobre niños que los vivieron."
+description: "Compartí experiencias personales sobre desastres o leé historias sobre niños que los vivieron."
 summary: "Intercambio de experiencias sobre desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/compartiendo-historias.png"
+image: "/imagenes/actividades/compartiendo-historias.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -152,21 +152,23 @@ rama_rovers:
 # ¡Compartiendo Historias!
 
 ## Resumen
-Comparte tus experiencias personales con amenazas o desastres, o lee una historia sobre niños que los vivieron.
+Compartí tus experiencias personales con amenazas o desastres, o leé una historia sobre niños que los vivieron.
 
 ## Preparación
-- Piensa si has experimentado alguna amenaza o desastre.
-- Busca un libro sobre el tema si es necesario.
+- Pensá si viviste alguna amenaza o desastre.
+- Buscá un libro sobre el tema si es necesario.
 
 ## Desarrollo
-1. **Preparación** (5 min): Reflexiona sobre tu experiencia o lee la historia.
+1. **Preparación** (5 min): Reflexioná sobre tu experiencia o leé la historia.
 2. **Compartir** (30 min): Cada persona comparte su historia.
 3. **Reflexión** (10 min): Hablen sobre cómo se sintieron y cómo se recuperaron.
+
+> **Nota para el educador:** contar una experiencia de desastre puede remover emociones fuertes. La participación es voluntaria: nadie está obligado a contar nada, y leer una historia es una alternativa válida. Si alguien se angustia, pará, acompañalo y, si hace falta, hablá con la familia y derivá a un profesional.
 
 ## Cierre
 - ¿Qué aprendiste al escuchar las historias?
 - ¿Cómo te sentiste al compartir tu experiencia?
-- ¿Qué puedes hacer para ayudar a otros en situaciones similares?
+- ¿Qué podés hacer para ayudar a otros en situaciones similares?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +178,3 @@ Comparte tus experiencias personales con amenazas o desastres, o lee una histori
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

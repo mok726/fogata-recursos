@@ -1,9 +1,9 @@
 ---
-title: "Elige un país"
+title: "Elegí un País"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/elige-un-pais/"
-description: "Investiga los alimentos que produce y consume un país de tu elección."
+description: "Investigá los alimentos que produce y consume un país de tu elección."
 summary: "Investigación alimentaria de un país."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/elige-un-pais.png"
+image: "/imagenes/actividades/elige-un-pais.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,20 +146,20 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión.
 ---
 
-# ¡Elige un país!
+# ¡Elegí un País!
 
 ## Resumen
-Elige un país y aprende todo lo posible sobre los alimentos que producen y consumen.
+Elegí un país y aprendé todo lo posible sobre los alimentos que producen y consumen.
 
 ## Preparación
-1. Elige un país.
-2. Accede a recursos para investigar.
-3. Prepara materiales para la presentación.
+1. Elegí un país.
+2. Accedé a recursos para investigar.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre los alimentos del país.
-2. **Organización** (15 min): Prepara la presentación.
-3. **Presentación** (15 min): Comparte lo aprendido.
+1. **Investigación** (25 min): Aprendé sobre los alimentos del país.
+2. **Organización** (15 min): Prepará la presentación.
+3. **Presentación** (15 min): Compartí lo aprendido.
 4. **Reflexión** (5 min): ¿Qué te sorprendió?
 
 ## Cierre
@@ -175,16 +175,3 @@ Elige un país y aprende todo lo posible sobre los alimentos que producen y cons
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

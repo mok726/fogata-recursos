@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Siembra orgánico"
+title: "Siembra Orgánico"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/siembra-organico/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/siembra-organico.png"
+image: "/imagenes/actividades/siembra-organico.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,27 +159,27 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Siembra orgánico!
+# ¡Siembra Orgánico!
 
 ## Resumen
-La agricultura orgánica ayuda a nuestro suelo a mantenerse saludable y a conservar su habilidad de almacenar carbono, lo cual ayuda a reducir el cambio climático. Busca productos orgánicos y de comercio justo que estén disponibles en tus supermercados o mercados de agricultores locales.
+La agricultura orgánica ayuda a nuestro suelo a mantenerse saludable y a conservar su habilidad de almacenar carbono, lo cual ayuda a reducir el cambio climático. Buscá productos orgánicos y de comercio justo que estén disponibles en tus supermercados o mercados de agricultores locales.
 
 ## Preparación
-1. Investiga sobre agricultura orgánica y comercio justo.
-2. Identifica mercados locales o supermercados para visitar.
-3. Prepara preguntas y una tabla para registrar información.
+1. Investigá sobre agricultura orgánica y comercio justo.
+2. Identificá mercados locales o supermercados para visitar.
+3. Prepará preguntas y una tabla para registrar información.
 
 ## Desarrollo
-1. Visita supermercados o mercados de agricultores locales.
-2. Investiga: ¿De dónde vinieron los productos?
-3. Investiga: ¿Fueron cultivados localmente o importados?
-4. Investiga: ¿Cuáles son los pros y los contras de cada situación?
-5. Investiga: ¿Cómo ayuda al medio ambiente la producción de bienes orgánicos y de comercio justo?
-6. Compara precios entre productos orgánicos y convencionales.
+1. Visitá supermercados o mercados de agricultores locales.
+2. Investigá: ¿De dónde vinieron los productos?
+3. Investigá: ¿Fueron cultivados localmente o importados?
+4. Investigá: ¿Cuáles son los pros y los contras de cada situación?
+5. Investigá: ¿Cómo ayuda al medio ambiente la producción de bienes orgánicos y de comercio justo?
+6. Compará precios entre productos orgánicos y convencionales.
 
 ## Cierre
-1. Reúne tus hallazgos en forma de fotos o gráficos.
-2. Preséntalos a tus compañeros, padres u otros adultos.
+1. Reuní tus hallazgos en forma de fotos o gráficos.
+2. Presentalos a tus compañeros, padres u otros adultos.
 3. Pregunta final: ¿Qué cambios harías en tus hábitos de compra?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ E.05 SIEMBRA ORGÁNICO. La agricultura orgánica ayuda a nuestro suelo a mantene
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

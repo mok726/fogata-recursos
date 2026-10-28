@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ozono y quemaduras de sol"
+title: "Ozono y Quemaduras de Sol"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ozono-y-quemaduras-de-sol/"
-description: "Investiga sobre el ozono y los riesgos de la exposición solar, y aprende a identificar tu tipo de piel para protegerte adecuadamente."
-summary: "Aprende a protegerte del Sol."
+description: "Investigá sobre el ozono y los riesgos de la exposición solar, y aprendé a identificar tu tipo de piel para protegerte adecuadamente."
+summary: "Aprendé a protegerte del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ozono-y-quemaduras-de-sol.png"
+image: "/imagenes/actividades/ozono-y-quemaduras-de-sol.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -133,7 +133,7 @@ category:
   - Ozono
   - Protección solar
 skills:
-  - Investigação
+  - Investigación
   - Conciencia sobre salud
   - Pensamiento crítico
 
@@ -160,7 +160,7 @@ rama_rovers:
   - 33
 ---
 
-# ¡Ozono y quemaduras de sol!
+# ¡Ozono y Quemaduras de Sol!
 
 ## Resumen
 1. Identifiquen si su país o región se encuentra bajo riesgos por ozono y cómo esto afecta su vida.
@@ -217,17 +217,3 @@ Identifiquen su tipo de piel y aprendan cómo protegerla adecuadamente.
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/extrayendo-el-agua-dulce.png"
+image: "/imagenes/actividades/extrayendo-el-agua-dulce.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -181,18 +181,18 @@ rama_rovers:
 Extrae agua dulce del agua salada usando un proceso de evaporación y condensación.
 
 ## Preparación
-1. Coloca la taza en el medio del tazón.
-2. Añade agua marina al tazón hasta que tenga 4 cm de profundidad (sin llenar la taza).
-3. Cubre el tazón con plástico transparente y sella con cinta adhesiva.
-4. Coloca una pesa sobre el plástico para que se hunda sobre la taza, sin tocarla.
-5. Asegura la supervisión de un adulto.
+1. Colocá la taza en el medio del tazón.
+2. Añadí agua marina al tazón hasta que tenga 4 cm de profundidad (sin llenar la taza).
+3. Cubrí el tazón con plástico transparente y sella con cinta adhesiva.
+4. Colocá una pesa sobre el plástico para que se hunda sobre la taza, sin tocarla.
+5. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Montaje** (10 min): Arma el dispositivo de destilación.
-2. **Observación** (varias horas/días): Deja el tazón en un lugar cálido o soleado.
+1. **Montaje** (10 min): Armá el dispositivo de destilación.
+2. **Observación** (varias horas/días): Dejá el tazón en un lugar cálido o soleado.
 3. **Recolección** (10 min): Cuando se haya recolectado suficiente agua, pide a un voluntario que la pruebe.
 4. **Discusión** (10 min): ¿De verdad es agua dulce?
-5. **Extensión** (20 min): Investiga otras formas de extraer agua dulce del agua salada.
+5. **Extensión** (20 min): Investigá otras formas de extraer agua dulce del agua salada.
 
 ## Cierre
 - ¿Cómo funciona el proceso de destilación?
@@ -223,16 +223,3 @@ Materiales: un tazón grande de metal, una taza, un pedazo limpio de plástico t
 nivel: 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

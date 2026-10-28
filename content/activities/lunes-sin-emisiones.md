@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lunes sin emisiones"
+title: "Lunes sin Emisiones"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/lunes-sin-emisiones/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/lunes-sin-emisiones.png"
+image: "/imagenes/actividades/lunes-sin-emisiones.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -165,7 +165,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Lunes sin emisiones!
+# ¡Lunes sin Emisiones!
 
 ## Resumen
 Iniciá una tradición de "Lunes sin emisiones" con tu familia. En esos días, tratá de caminar, andar en bicicleta o usar transporte público en lugar de usar el auto. Después de un mes, consultá con tu familia. ¿Cómo se sienten con los lunes sin emisiones?
@@ -219,20 +219,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

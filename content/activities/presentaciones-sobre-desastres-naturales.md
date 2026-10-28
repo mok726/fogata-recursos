@@ -4,7 +4,7 @@ title: "Presentaciones sobre Desastres Naturales"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/presentaciones-sobre-desastres-naturales/"
-description: "Investiga desastres naturales en diferentes países o regiones y su relación con el hambre."
+description: "Investigá desastres naturales en diferentes países o regiones y su relación con el hambre."
 summary: "Investigación sobre desastres naturales y hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/presentaciones-sobre-desastres-naturales.png"
+image: "/imagenes/actividades/presentaciones-sobre-desastres-naturales.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -167,18 +167,18 @@ rama_rovers:
 # Presentaciones sobre Desastres Naturales
 
 ## Resumen
-Investiga desastres naturales en diferentes países o regiones y su relación con el hambre.
+Investigá desastres naturales en diferentes países o regiones y su relación con el hambre.
 
 ## Preparación
-1. Investiga los principales desastres naturales y sus áreas de ocurrencia.
+1. Investigá los principales desastres naturales y sus áreas de ocurrencia.
 2. Divídanse en grupos y elijan un país o región.
 3. Preparen material para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga desastres naturales en tu región elegida.
-2. **Análisis** (15 min): Analiza la relación entre desastres y hambre.
-3. **Preparación** (15 min): Prepara una presentación corta.
-4. **Presentación** (20 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Investigá desastres naturales en tu región elegida.
+2. **Análisis** (15 min): Analizá la relación entre desastres y hambre.
+3. **Preparación** (15 min): Prepará una presentación corta.
+4. **Presentación** (20 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué desastres naturales afectan más a las personas?
@@ -186,16 +186,3 @@ Investiga desastres naturales en diferentes países o regiones y su relación co
 - ¿Qué compromiso adquieres para ayudar a las comunidades vulnerables?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

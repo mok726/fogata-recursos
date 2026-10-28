@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Hornear con burbujas"
+title: "Hornear con Burbujas"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/hornear-con-burbujas/"
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/hornear-con-burbujas.png"
+image: "/imagenes/actividades/hornear-con-burbujas.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -165,20 +165,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Hornear con burbujas!
+# ¡Hornear con Burbujas!
 
 ## Resumen
-Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, pasteles y otros dulces! Usa levadura o bicarbonato para hacer algo delicioso mientras aprendes sobre el CO₂.
+Las burbujas de dióxido de carbono ayudan a que los productos horneados suban. ¡Hay burbujas de CO₂ en panqueques, panes, tortas y otros dulces! Usá levadura o bicarbonato para hacer algo delicioso mientras aprendés sobre el CO₂.
 
 ## Preparación
-1. Reúne los ingredientes para tu receta.
-2. Si usas levadura, deja tiempo para que la masa leve antes de hornear.
-3. ¡Lávate las manos antes de comenzar!
+1. Reuní los ingredientes para tu receta.
+2. Si usás levadura, deja tiempo para que la masa leve antes de hornear.
+3. ¡Lavate las manos antes de comenzar!
 
 ## Desarrollo
 
 ### Parte I - Elegir receta
-Elige una receta que incluya levadura o bicarbonato:
+Elegí una receta que incluya levadura o bicarbonato:
 
 **Con levadura:**
 - Pan
@@ -186,20 +186,20 @@ Elige una receta que incluya levadura o bicarbonato:
 - Pizza
 
 **Con bicarbonato:**
-- Pasteles
+- Tortas
 - Galletas
 - Magdalenas
 
 ### Parte II - Preparar
-Sigue la receta paso a paso.
+Seguí la receta paso a paso.
 
-**Observa:** ¿Qué pasa con la masa cuando agregas levadura o bicarbonato?
+**Observa:** ¿Qué pasa con la masa cuando agregás levadura o bicarbonato?
 
 ### Parte III - Hornear
 Hornea según las instrucciones de la receta.
 
 ### Parte IV - Disfrutar
-¡Comparte tu creación con tu grupo o familia!
+¡Compartí tu creación con tu grupo o familia!
 
 ## Cierre
 1. ¿Qué pasó con la masa después de agregar levadura/bicarbonato?
@@ -234,20 +234,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

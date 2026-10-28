@@ -3,7 +3,7 @@ title: "Concurso de Preguntas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-de-preguntas-agua/"
-description: "Prepara un concurso de preguntas sobre agua y saneamiento entre dos equipos."
+description: "Prepará un concurso de preguntas sobre agua y saneamiento entre dos equipos."
 summary: "Concurso sobre agua y saneamiento."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/concurso-de-preguntas-agua.png"
+image: "/imagenes/actividades/concurso-de-preguntas-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -149,12 +149,12 @@ rama_rovers:
 # ¡Concurso de Preguntas!
 
 ## Resumen
-Prepara un concurso de preguntas sobre agua y saneamiento entre dos equipos.
+Prepará un concurso de preguntas sobre agua y saneamiento entre dos equipos.
 
 ## Preparación
 1. Divídanse en dos equipos.
 2. Un equipo prepara preguntas sobre el agua, el otro sobre saneamiento.
-3. Revisa que las preguntas sean correctas.
+3. Revisá que las preguntas sean correctas.
 
 ## Desarrollo
 1. **Preparación** (15 min): Cada equipo elabora sus preguntas.
@@ -174,16 +174,3 @@ Prepara un concurso de preguntas sobre agua y saneamiento entre dos equipos.
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Las tres formas del agua"
+title: "Las Tres Formas del Agua"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tres-formas-del-agua/"
 description: "Los participantes realizan un experimento para observar el agua en sus tres estados: sólido, líquido y gaseoso."
-summary: "Experimenta con los tres estados del agua."
+summary: "Experimentá con los tres estados del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tres-formas-del-agua.png"
+image: "/imagenes/actividades/tres-formas-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -159,27 +159,27 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Las tres formas del agua!
+# ¡Las Tres Formas del Agua!
 
 ## Resumen
 El agua es la única sustancia que se encuentra naturalmente en la Tierra como sólido, líquido y gas. En esta actividad, los participantes realizan un experimento para observar el agua en sus tres estados.
 
 ## Preparación
-1. Consigue cubos de hielo, una olla con tapa y acceso a una estufa.
-2. Asegura la supervisión de un adulto para el experimento.
-3. Prepara el espacio de trabajo.
+1. Conseguí cubos de hielo, una olla con tapa y acceso a una estufa.
+2. Asegurá la supervisión de un adulto para el experimento.
+3. Prepará el espacio de trabajo.
 
 ## Desarrollo
 
 ### Parte I - Explicación
-Explica a tu grupo que van a hacer un pequeño experimento que les permitirá ver el agua en sus tres estados: sólido, líquido y gaseoso.
+Explicá a tu grupo que van a hacer un pequeño experimento que les permitirá ver el agua en sus tres estados: sólido, líquido y gaseoso.
 
 ### Parte II - Experimento
-1. Pide a los participantes que te ayuden a colocar algunos cubos de hielo en una olla.
-2. Calienta el agua en la olla hasta que hierva. (El agua hierve a 100°C).
-3. Pide a los participantes que observen el hielo derretirse y convertirse en agua líquida.
+1. Pedí a los participantes que te ayuden a colocar algunos cubos de hielo en una olla.
+2. Un adulto calienta el agua en la olla hasta que hierva (el agua hierve a 100°C). Cuidado: el vapor quema; los participantes observan a distancia.
+3. Pedí a los participantes que observen el hielo derretirse y convertirse en agua líquida.
 4. Luego, pide a tu grupo que observe cómo el agua se evapora en forma de vapor mientras hierve.
-5. Coloca la tapa de la olla sobre la olla. Cuando el vapor de agua entre en contacto con la tapa, que está más fría que la olla, se forman gotas de agua. Esto es condensación.
+5. Colocá la tapa de la olla sobre la olla. Cuando el vapor de agua entre en contacto con la tapa, que está más fría que la olla, se forman gotas de agua. Esto es condensación.
 
 ### Parte III - Reflexión
 Has visto el agua cambiar de sólido a líquido, a gas y de vuelta a líquido.
@@ -255,20 +255,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Y los efectos secundarios?"
+title: "¿Y los Efectos Secundarios?"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/y-los-efectos-secundarios/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/y-los-efectos-secundarios.png"
+image: "/imagenes/actividades/y-los-efectos-secundarios.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -160,10 +160,10 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¿Y los efectos secundarios?
+# ¿Y los Efectos Secundarios?
 
 ## Resumen
-Habla con una amplia variedad de personas: agricultores, trabajadores, docentes, planificadores urbanos o funcionarios municipales. Preguntales sobre los efectos negativos de la urbanización que ocurrieron en tu ciudad. ¿Son notables? ¿Cuáles creen que son los principales efectos secundarios de la urbanización en tu área?
+Hablá con una amplia variedad de personas: agricultores, trabajadores, docentes, planificadores urbanos o funcionarios municipales. Preguntales sobre los efectos negativos de la urbanización que ocurrieron en tu ciudad. ¿Son notables? ¿Cuáles creen que son los principales efectos secundarios de la urbanización en tu área?
 
 ## Preparación
 1. Identificá personas para entrevistar de diferentes sectores.
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

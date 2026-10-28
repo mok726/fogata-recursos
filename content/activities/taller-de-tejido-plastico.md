@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-tejido-plastico.png"
+image: "/imagenes/actividades/taller-de-tejido-plastico.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -174,8 +174,8 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 - Fomentar la creatividad a través del reciclaje.
 
 ## Preparación
-1. Reúne botellas PET limpias y secas.
-2. Prepara tijeras, cortante de botella, regla, marcador, pegamento y broches.
+1. Reuní botellas PET limpias y secas.
+2. Prepará tijeras, cortante de botella, regla, marcador, pegamento y broches.
 
 ## Desarrollo
 
@@ -190,7 +190,7 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 
 ### Paso 4: Tejido
 4. Cuando tenemos cantidad de tiritas, nos separamos en las distintas mesas según el objeto a realizar.
-5. Siguiendo las instrucciones del sinodal, los beneficiarios enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
+5. Siguiendo las instrucciones del sinodal, los protagonistas enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
 
 ### Paso 5: Terminación
 6. Al terminar los objetos, los dejamos secar (si se usó pegamento).
@@ -215,23 +215,8 @@ Aprendemos a reusar botellas PET para hacer tejidos (canastos, etc.) o posavasos
 2) Con la ayuda de los dirigentes, cortamos las botellas PET en tiras del ancho correspondiente.
 3) De ser necesario las tiras se pueden unir con una pequeña cantidad de pegamento.
 4) Cuando tenemos cantidad de tiritas nos separamos en las distintas mesas según el objeto a realizar.
-5) Siguiendo las instrucciones del sinodal los beneficiarios enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
+5) Siguiendo las instrucciones del sinodal los protagonistas enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de plástico.
 
 **Cierre:** Discutimos sobre la actividad, que otros objetos podrían crearse con esta técnica y materiales. Que materiales alternativos podríamos usar y objetos podríamos crear en un campamento u emergencia.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

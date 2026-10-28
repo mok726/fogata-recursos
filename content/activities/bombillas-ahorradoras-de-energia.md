@@ -1,9 +1,9 @@
 ---
-title: "Bombillas ahorradoras de energía"
+title: "Bombillas Ahorradoras de Energía"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/bombillas-ahorradoras-de-energia/"
-description: "Reemplaza bombillas comunes por bombillas ahorradoras de energía."
+description: "Reemplazá bombillas comunes por bombillas ahorradoras de energía."
 summary: "Cambio a bombillas eficientes."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/bombillas-ahorradoras-de-energia.png"
+image: "/imagenes/actividades/bombillas-ahorradoras-de-energia.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,25 +146,25 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Bombillas ahorradoras de energía!
+# ¡Bombillas Ahorradoras de Energía!
 
 ## Resumen
-Reemplaza las bombillas comunes por bombillas ahorradoras de energía.
+Reemplazá las bombillas comunes por bombillas ahorradoras de energía.
 
 ## Preparación
-1. Identifica las bombillas comunes en tu casa o escuela.
-2. Consigue bombillas ahorradoras de energía.
-3. Asegura supervisión adulta para el reemplazo.
+1. Identificá las bombillas comunes en tu casa o escuela.
+2. Conseguí lámparas LED (hoy reemplazan a las "bajo consumo" fluorescentes, que tienen mercurio y no van a la basura común).
+3. Asegurá supervisión adulta para el reemplazo.
 
 ## Desarrollo
 1. **Reemplazo** (20 min): Cambia las bombillas.
-2. **Uso** (continua): Usa luz natural tanto como puedas.
-3. **Convencimiento** (10 min): ¿A cuántas personas puedes convencer?
+2. **Uso** (continua): Usá luz natural tanto como puedas.
+3. **Convencimiento** (10 min): ¿A cuántas personas podés convencer?
 
 ## Cierre
 - ¿Cuántas bombillas reemplazaste?
-- ¿Cuánta energía crees que ahorrarás?
-- ¿Cómo te sientes al hacer este cambio?
+- ¿Cuánta energía creés que ahorrarás?
+- ¿Cómo te sentís al hacer este cambio?
 
 ---
 ## Texto original completo de la actividad
@@ -174,16 +174,3 @@ Reemplaza las bombillas comunes por bombillas ahorradoras de energía.
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

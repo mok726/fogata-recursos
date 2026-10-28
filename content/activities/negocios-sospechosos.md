@@ -4,7 +4,7 @@ title: "Negocios Sospechosos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/negocios-sospechosos/"
-description: "Visita un mercado de pescado local para investigar la procedencia y sostenibilidad de los productos del mar."
+description: "Visitá un mercado de pescado local para investigar la procedencia y sostenibilidad de los productos del mar."
 summary: "Investigación sobre productos del mar."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/negocios-sospechosos.png"
+image: "/imagenes/actividades/negocios-sospechosos.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -173,19 +173,19 @@ rama_rovers:
 # Negocios Sospechosos
 
 ## Resumen
-Visita un mercado de pescado local para investigar la procedencia y sostenibilidad de los productos del mar.
+Visitá un mercado de pescado local para investigar la procedencia y sostenibilidad de los productos del mar.
 
 ## Preparación
-1. Organiza una visita al mercado local de pescado (o a la sección de pescado del supermercado).
-2. Prepara cuadernos y lápices para tomar notas.
-3. Asegura la supervisión de un adulto.
+1. Organizá una visita al mercado local de pescado (o a la sección de pescado del supermercado).
+2. Prepará cuadernos y lápices para tomar notas.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Visita** (30 min): Visita el mercado y observa los diferentes tipos de pescado y mariscos.
+1. **Visita** (30 min): Visitá el mercado y observá los diferentes tipos de pescado y mariscos.
 2. **Investigación** (20 min): ¿De dónde vinieron? ¿Son pescados del mar profundo o de la costa? ¿Cómo fueron capturados?
-3. **Registro** (15 min): Haz dibujos o toma fotografías de los productos.
+3. **Registro** (15 min): Hacé dibujos o toma fotografías de los productos.
 4. **Análisis** (15 min): ¿Hay pescados de acuicultura? ¿Quién los capturó?
-5. **Exhibición** (15 min): Prepara una exhibición con tus hallazgos.
+5. **Exhibición** (15 min): Prepará una exhibición con tus hallazgos.
 
 ## Cierre
 - ¿Qué tipos de pescado encontraste?
@@ -208,16 +208,3 @@ Organiza una visita al mercado local de pescado (si no existe uno cerca, podría
 nivel: 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

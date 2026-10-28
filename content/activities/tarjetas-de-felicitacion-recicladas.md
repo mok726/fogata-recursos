@@ -1,9 +1,9 @@
 ---
-title: "Tarjetas de felicitación recicladas"
+title: "Tarjetas de Felicitación Recicladas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-felicitacion-recicladas/"
-description: "Haz tarjetas con materiales reutilizados y explica la importancia del reciclaje."
+description: "Hacé tarjetas con materiales reutilizados y explicá la importancia del reciclaje."
 summary: "Tarjetas recicladas."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/tarjetas-de-felicitacion-recicladas.png"
+image: "/imagenes/actividades/tarjetas-de-felicitacion-recicladas.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -152,24 +152,24 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# ¡Tarjetas de felicitación recicladas!
+# ¡Tarjetas de Felicitación Recicladas!
 
 ## Resumen
-Haz tarjetas de felicitación con materiales reutilizados y explícales a tus familiares la importancia del reciclaje.
+Hacé tarjetas de felicitación con materiales reutilizados y explicales a tus familiares la importancia del reciclaje.
 
 ## Preparación
-1. Reúne materiales reciclados.
-2. Prepara herramientas de manualidades.
+1. Reuní materiales reciclados.
+2. Prepará herramientas de manualidades.
 
 ## Desarrollo
-1. **Creación** (25 min): Diseña y crea las tarjetas.
-2. **Mensaje** (10 min): Escribe sobre la importancia del reciclaje.
-3. **Envío** (10 min): Envía las tarjetas a familiares y amigos.
+1. **Creación** (25 min): Diseñá y creá las tarjetas.
+2. **Mensaje** (10 min): Escribí sobre la importancia del reciclaje.
+3. **Envío** (10 min): Enviá las tarjetas a familiares y amigos.
 
 ## Cierre
 - ¿Qué materiales reciclados usaste?
 - ¿Qué mensaje escribiste?
-- ¿Cómo te sientes al reciclar para crear algo nuevo?
+- ¿Cómo te sentís al reciclar para crear algo nuevo?
 
 ---
 ## Texto original completo de la actividad
@@ -179,16 +179,3 @@ Haz tarjetas de felicitación con materiales reutilizados y explícales a tus fa
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Canción del ciclo del carbono"
+title: "Canción del Ciclo del Carbono"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/cancion-ciclo-carbono/"
-description: "Escribe una canción sobre el ciclo del carbono para recordar fácilmente cómo el carbono se mueve a través del aire, el agua, las plantas y los animales."
-summary: "Crea una canción para aprender el ciclo del carbono."
+description: "Escribí una canción sobre el ciclo del carbono para recordar fácilmente cómo el carbono se mueve a través del aire, el agua, las plantas y los animales."
+summary: "Creá una canción para aprender el ciclo del carbono."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cancion-ciclo-carbono.png"
+image: "/imagenes/actividades/cancion-ciclo-carbono.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -159,17 +159,17 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Canción del ciclo del carbono!
+# ¡Canción del Ciclo del Carbono!
 
 ## Resumen
-Escribe una canción sobre el ciclo del carbono para que sea fácil de recordar. ¡Comparte tu canción con el resto del grupo o con amigos!
+Escribí una canción sobre el ciclo del carbono para que sea fácil de recordar. ¡Compartí tu canción con el resto del grupo o con amigos!
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono en la sección de información de fondo.
-2. Piensa en una melodía conocida que puedas usar (ej. "Cumpleaños feliz", "Estrellita", etc.).
+1. Leé la información sobre el ciclo del carbono en la sección de información de fondo.
+2. Pensá en una melodía conocida que puedas usar (ej. "Cumpleaños feliz", "Estrellita", etc.).
 
 ## Desarrollo### Parte I - Aprender
-Aprende sobre el ciclo del carbono:
+Aprendé sobre el ciclo del carbono:
 
 **Pasos del ciclo del carbono:**
 1. Las plantas absorben CO₂ del aire (fotosíntesis)
@@ -180,15 +180,15 @@ Aprende sobre el ciclo del carbono:
 6. Al quemar combustibles, se libera CO₂
 
 ### Parte II - Escribir la canción
-Escribe una canción que explique el ciclo del carbono de forma simple y divertida.
+Escribí una canción que explique el ciclo del carbono de forma simple y divertida.
 
 **Consejos:**
-- Usa una melodía conocida
-- Incluye los pasos principales
-- Hazla pegadiza y fácil de recordar
+- Usá una melodía conocida
+- Incluí los pasos principales
+- Hacela pegadiza y fácil de recordar
 
 ### Parte III - Compartir
-Comparte tu canción con el resto del grupo o con amigos.
+Compartí tu canción con el resto del grupo o con amigos.
 
 ## Cierre
 1. ¿Qué parte del ciclo del carbono fue más fácil de recordar con la canción?
@@ -223,20 +223,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

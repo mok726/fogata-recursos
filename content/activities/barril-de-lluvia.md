@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Barril de lluvia"
+title: "Barril de Lluvia"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/barril-de-lluvia/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/barril-de-lluvia.png"
+image: "/imagenes/actividades/barril-de-lluvia.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,26 +163,26 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Barril de lluvia!
+# ¡Barril de Lluvia!
 
 ## Resumen
-Haz un barril de lluvia empleando material reciclado limpio. Enumera todos los posibles usos para el agua recolectada. Utiliza el agua para algunos de los ejemplos en tu lista.
+Hacé un barril de lluvia empleando material reciclado limpio. Enumerá todos los posibles usos para el agua recolectada. Utilizá el agua para algunos de los ejemplos en tu lista.
 
 ## Preparación
-1. Reúne un barril o contenedor de plástico limpio.
-2. Prepara herramientas para la construcción.
-3. Identifica un lugar para colocar el barril.
+1. Reuní un barril o contenedor de plástico limpio.
+2. Prepará herramientas para la construcción.
+3. Identificá un lugar para colocar el barril.
 
 ## Desarrollo
-1. Construye el barril de lluvia.
-2. Coloca un filtro para evitar la entrada de hojas y residuos.
-3. Enumera todos los posibles usos para el agua recolectada.
-4. Utiliza el agua para algunos de esos usos.
+1. Construí el barril de lluvia.
+2. Colocá un filtro para evitar la entrada de hojas y residuos, y mantené el barril **tapado** para que no críen mosquitos (dengue).
+3. Enumerá todos los posibles usos para el agua recolectada.
+4. Utilizá el agua para algunos de esos usos.
 
 ## Cierre
-1. Comparte tu proyecto con el grupo.
-2. Reflexiona: ¿Cómo ayuda el barril de lluvia a conservar agua?
-3. Pregunta final: ¿Qué otros métodos de ahorro de agua conoces?
+1. Compartí tu proyecto con el grupo.
+2. Reflexioná: ¿Cómo ayuda el barril de lluvia a conservar agua?
+3. Pregunta final: ¿Qué otros métodos de ahorro de agua conocés?
 
 ## Texto original completo de la actividad
 B.12 Haz un barril de lluvia empleando material reciclado limpio. Enumera todos los posibles usos para el agua recolectada. Utiliza el agua para algunos de los ejemplos en tu lista.
@@ -190,16 +190,3 @@ B.12 Haz un barril de lluvia empleando material reciclado limpio. Enumera todos 
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

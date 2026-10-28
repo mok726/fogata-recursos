@@ -1,9 +1,9 @@
 ---
-title: "Notas recordatorias Apágame"
+title: "Notas Recordatorias Apagame"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/notas-recordatorias-apagame/"
-description: "Diseña notas para ahorrar energía y agua en casa y escuela."
+description: "Diseñá notas para ahorrar energía y agua en casa y escuela."
 summary: "Notas recordatorias de ahorro."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/notas-recordatorias-apagame.png"
+image: "/imagenes/actividades/notas-recordatorias-apagame.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -144,18 +144,18 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Notas recordatorias "Apágame"!
+# ¡Notas Recordatorias "Apagame"!
 
 ## Resumen
-Diseña notas recordatorias para colocar en interruptores, aparatos eléctricos y llaves de agua.
+Diseñá notas recordatorias para colocar en interruptores, aparatos eléctricos y llaves de agua.
 
 ## Preparación
-1. Reúne cartulina y marcadores.
-2. Piensa en diseños creativos.
+1. Reuní cartulina y marcadores.
+2. Pensá en diseños creativos.
 
 ## Desarrollo
-1. **Diseño** (15 min): Crea las notas.
-2. **Colocación** (10 min): Pega las notas en casa y escuela.
+1. **Diseño** (15 min): Creá las notas.
+2. **Colocación** (10 min): Pegá las notas en casa y escuela.
 3. **Reflexión** (5 min): ¿Cómo ayudan a ahorrar?
 
 ## Cierre
@@ -171,16 +171,3 @@ Diseña notas recordatorias para colocar en interruptores, aparatos eléctricos 
 NIVEL 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

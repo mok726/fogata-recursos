@@ -3,7 +3,7 @@ title: "Hogar Dulce Hogar"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hogar-dulce-hogar/"
-description: "Investiga las adaptaciones de especies de agua dulce y salada, y compáralas."
+description: "Investigá las adaptaciones de especies de agua dulce y salada, y comparalas."
 summary: "Adaptaciones al agua dulce y salada."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/hogar-dulce-hogar.png"
+image: "/imagenes/actividades/hogar-dulce-hogar.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -150,18 +150,18 @@ rama_rovers:
 # ¡Hogar Dulce Hogar!
 
 ## Resumen
-Investiga las adaptaciones especiales de especies que viven en agua dulce y agua salada, y compáralas.
+Investigá las adaptaciones especiales de especies que viven en agua dulce y agua salada, y comparalas.
 
 ## Preparación
-1. Elige especies de agua dulce y salada para investigar.
-2. Accede a recursos sobre adaptaciones acuáticas.
-3. Prepara materiales para el póster.
+1. Elegí especies de agua dulce y salada para investigar.
+2. Accedé a recursos sobre adaptaciones acuáticas.
+3. Prepará materiales para el póster.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga adaptaciones de especies acuáticas.
-2. **Comparación** (15 min): Compara las adaptaciones de agua dulce y salada.
-3. **Creación** (15 min): Haz un póster con etiquetas comparativas.
-4. **Presentación** (5 min): Comparte tu póster con el grupo.
+1. **Investigación** (25 min): Investigá adaptaciones de especies acuáticas.
+2. **Comparación** (15 min): Compará las adaptaciones de agua dulce y salada.
+3. **Creación** (15 min): Hacé un póster con etiquetas comparativas.
+4. **Presentación** (5 min): Compartí tu póster con el grupo.
 
 ## Cierre
 - ¿Qué adaptaciones tienen las especies de agua dulce?
@@ -176,16 +176,3 @@ Investiga las adaptaciones especiales de especies que viven en agua dulce y agua
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

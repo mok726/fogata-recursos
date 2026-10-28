@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fiesta de máscaras marinas"
+title: "Fiesta de Máscaras Marinas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fiesta-de-mascaras-marinas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/fiesta-de-mascaras-marinas.png"
+image: "/imagenes/actividades/fiesta-de-mascaras-marinas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,25 +163,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Fiesta de máscaras marinas!
+# ¡Fiesta de Máscaras Marinas!
 
 ## Resumen
 Organicen una fiesta de máscaras. Soliciten a todos que se presenten con un disfraz de un animal que vive en el mar. Pidan a cada persona que presente tres datos sobre la especie que eligió. Jueguen juegos relacionados con el agua.
 
 ## Preparación
-1. Planifica la fiesta.
-2. Prepara materiales para disfraces.
-3. Organiza juegos relacionados con el agua.
+1. Planificá la fiesta.
+2. Prepará materiales para disfraces.
+3. Organizá juegos relacionados con el agua.
 
 ## Desarrollo
 1. Cada participante elige un animal marino.
-2. Crea un disfraz o máscara del animal.
-3. Presenta tres datos sobre tu especie.
-4. Participa en juegos relacionados con el agua.
+2. Creá un disfraz o máscara del animal.
+3. Presentá tres datos sobre tu especie.
+4. Participá en juegos relacionados con el agua.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Qué aprendiste sobre los animales marinos?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Qué aprendiste sobre los animales marinos?
 3. Pregunta final: ¿Qué animal marino te gustaría ser y por qué?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ B.24 Organicen una fiesta de máscaras. Soliciten a todos que se presenten con u
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

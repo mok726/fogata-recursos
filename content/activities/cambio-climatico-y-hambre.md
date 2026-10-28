@@ -1,9 +1,9 @@
 ---
-title: "Cambio climático y hambre"
+title: "Cambio Climático y Hambre"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-y-hambre/"
-description: "Investiga cómo el cambio climático afecta el hambre y la nutrición."
+description: "Investigá cómo el cambio climático afecta el hambre y la nutrición."
 summary: "Impacto del cambio climático en el hambre."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/cambio-climatico-y-hambre.png"
+image: "/imagenes/actividades/cambio-climatico-y-hambre.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,25 +145,25 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación.
 ---
 
-# ¡Cambio climático y hambre!
+# ¡Cambio Climático y Hambre!
 
 ## Resumen
-Investiga cómo el cambio climático afecta los alimentos, el agua y la nutrición.
+Investigá cómo el cambio climático afecta los alimentos, el agua y la nutrición.
 
 ## Preparación
-1. Accede a recursos sobre cambio climático y alimentos.
-2. Prepara materiales para compartir.
+1. Accedé a recursos sobre cambio climático y alimentos.
+2. Prepará materiales para compartir.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre impactos del cambio climático.
+1. **Investigación** (25 min): Aprendé sobre impactos del cambio climático.
 2. **Análisis** (15 min): ¿Cómo afecta a los alimentos y el agua?
-3. **Compartir** (10 min): Comparte la información con tu grupo.
-4. **Reflexión** (10 min): ¿Qué puedes hacer?
+3. **Compartir** (10 min): Compartí la información con tu grupo.
+4. **Reflexión** (10 min): ¿Qué podés hacer?
 
 ## Cierre
 - ¿Cómo afecta el cambio climático a los alimentos?
 - ¿Cómo puede un cambio en los patrones del clima llevar al hambre?
-- ¿Qué puedes hacer para ayudar?
+- ¿Qué podés hacer para ayudar?
 
 ---
 ## Texto original completo de la actividad
@@ -173,16 +173,3 @@ Investiga cómo el cambio climático afecta los alimentos, el agua y la nutrici�
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

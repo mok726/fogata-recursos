@@ -1,9 +1,9 @@
 ---
-title: "Construye una abonera"
+title: "Construí una Abonera"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/construye-una-abonera/"
-description: "Construye una abonera para transformar desechos biodegradables en abono."
+description: "Construí una abonera para transformar desechos biodegradables en abono."
 summary: "Construcción de abonera casera."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/construye-una-abonera.png"
+image: "/imagenes/actividades/construye-una-abonera.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,21 +146,21 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Construye una abonera!
+# ¡Construí una Abonera!
 
 ## Resumen
-Construye una abonera para transformar desechos biodegradables en abono para tus plantas.
+Construí una abonera para transformar desechos biodegradables en abono para tus plantas.
 
 ## Preparación
-1. Reúne madera vieja y clavos.
-2. Prepara el área del jardín.
-3. Identifica desechos biodegradables.
+1. Reuní madera vieja y clavos.
+2. Prepará el área del jardín.
+3. Identificá desechos biodegradables.
 
 ## Desarrollo
-1. **Construcción** (30 min): Arma la estructura de la abonera.
-2. **Llenado** (10 min): Agrega desechos biodegradables.
-3. **Cuidado** (continua): Mantén la abonera.
-4. **Uso** (continua): Usa el abono para cultivar vegetales y frutas.
+1. **Construcción** (30 min): Armá la estructura de la abonera.
+2. **Llenado** (10 min): Agregá desechos biodegradables.
+3. **Cuidado** (continua): Mantené la abonera.
+4. **Uso** (continua): Usá el abono para cultivar vegetales y frutas.
 
 ## Cierre
 - ¿Qué materiales usaste para la abonera?
@@ -175,16 +175,3 @@ Construye una abonera para transformar desechos biodegradables en abono para tus
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

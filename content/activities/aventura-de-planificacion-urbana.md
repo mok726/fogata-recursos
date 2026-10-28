@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aventura de planificación urbana"
+title: "Aventura de Planificación Urbana"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/aventura-de-planificacion-urbana/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/aventura-de-planificacion-urbana.png"
+image: "/imagenes/actividades/aventura-de-planificacion-urbana.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -164,7 +164,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Aventura de planificación urbana!
+# ¡Aventura de Planificación Urbana!
 
 ## Resumen
 Mirá un documental o leé un libro sobre planificación urbana. Tratá de entender qué pueden hacer los planificadores urbanos para mejorar la vida en la ciudad. Prestá atención al diseño de tráfico, diseño de espacios verdes y diseño de edificios verdes, y averiguá cómo contribuyen a un futuro resiliente.
@@ -228,20 +228,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Promoviendo la diversidad"
+title: "Promoviendo la Diversidad"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/promoviendo-la-diversidad/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/promoviendo-la-diversidad.png"
+image: "/imagenes/actividades/promoviendo-la-diversidad.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Promoviendo la diversidad!
+# ¡Promoviendo la Diversidad!
 
 ## Resumen
 Investigá sobre la demografía de tu ciudad. ¿Tu ciudad tiene muchas razas y etnias diferentes? ¿Estas comunidades se integran entre sí o permanecen mayormente separadas? ¿Cómo podría tu ciudad ayudar a integrarlas mejor, para que diferentes culturas y grupos puedan socializar, aprender unos de otros y celebrar la diversidad?
@@ -212,20 +212,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Observación de hormigas"
+title: "Observación de Hormigas"
 duration: "2 estaciones"
 layout: "layouts/activity.njk"
 permalink: "/activities/observacion-de-hormigas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/observacion-de-hormigas.png"
+image: "/imagenes/actividades/observacion-de-hormigas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,27 +160,27 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Observación de hormigas!
+# ¡Observación de Hormigas!
 
 ## Resumen
-Los insectos están en todas partes, estudiarlos es una forma divertida de aprender acerca de la naturaleza y sobre cómo las diferentes partes de la biodiversidad están vinculadas entre ellas. Busca una colonia de hormigas y obsérvalas regularmente durante dos estaciones.
+Los insectos están en todas partes, estudiarlos es una forma divertida de aprender acerca de la naturaleza y sobre cómo las diferentes partes de la biodiversidad están vinculadas entre ellas. Buscá una colonia de hormigas y observalas regularmente durante dos estaciones.
 
 ## Preparación
-1. Identifica una colonia de hormigas.
-2. Prepara materiales para registrar.
-3. Organiza el seguimiento.
+1. Identificá una colonia de hormigas.
+2. Prepará materiales para registrar.
+3. Organizá el seguimiento.
 
 ## Desarrollo
-1. Encuentra una colonia de hormigas.
-2. Observa regularmente durante dos estaciones.
-3. Averigua qué llevan a sus colonias.
-4. Sigue y mide su sendero.
-5. Observa: ¿Qué les pasa antes y después de una lluvia?
-6. Observa: ¿Todas las hormigas realizan el mismo trabajo?
+1. Encontrá una colonia de hormigas.
+2. Observá regularmente durante dos estaciones.
+3. Averiguá qué llevan a sus colonias.
+4. Seguí y medí su sendero.
+5. Observá: ¿Qué les pasa antes y después de una lluvia?
+6. Observá: ¿Todas las hormigas realizan el mismo trabajo?
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona sobre la organización social de las hormigas.
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná sobre la organización social de las hormigas.
 3. Pregunta final: ¿Qué aprendiste sobre el trabajo en equipo de las hormigas?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ C.20 Los insectos están en todas partes, estudiarlos es una forma divertida de 
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

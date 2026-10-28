@@ -4,7 +4,7 @@ title: "Construyendo un Telescopio Submarino"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/construyendo-un-telescopio-submarino/"
-description: "Construye un telescopio para observar la vida bajo el agua en pozas rocosas o aguas poco profundas."
+description: "Construí un telescopio para observar la vida bajo el agua en pozas rocosas o aguas poco profundas."
 summary: "Construcción de un telescopio submarino."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/construyendo-un-telescopio-submarino.png"
+image: "/imagenes/actividades/construyendo-un-telescopio-submarino.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -170,19 +170,19 @@ rama_rovers:
 # Construyendo un Telescopio Submarino
 
 ## Resumen
-Construye un telescopio para observar la vida bajo el agua en pozas rocosas o aguas poco profundas.
+Construí un telescopio para observar la vida bajo el agua en pozas rocosas o aguas poco profundas.
 
 ## Preparación
-1. Corta el final del recipiente de plástico para convertirlo en un tubo.
-2. Cubre el final del tubo con plástico transparente.
-3. Asegura el plástico con bandas elásticas o cinta adhesiva.
-4. Asegura la supervisión de un adulto.
+1. Cortá el final del recipiente de plástico para convertirlo en un tubo.
+2. Cubrí el final del tubo con plástico transparente.
+3. Asegurá el plástico con bandas elásticas o cinta adhesiva.
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Construcción** (15 min): Construye el telescopio submarino.
-2. **Exploración** (30 min): Ve a la playa y busca un área resguardada, poco profunda y calmada.
-3. **Observación** (20 min): Coloca el lado cubierto de plástico dentro del agua y observa.
-4. **Registro** (15 min): Escribe lo que ves y/o haz dibujos.
+1. **Construcción** (15 min): Construí el telescopio submarino.
+2. **Exploración** (30 min): Andá a la playa y buscá un área resguardada, poco profunda y calmada.
+3. **Observación** (20 min): Colocá el lado cubierto de plástico dentro del agua y observá.
+4. **Registro** (15 min): Escribí lo que ves y/o hacé dibujos.
 
 ## Cierre
 - ¿Qué viste bajo el agua?
@@ -203,16 +203,3 @@ La próxima vez que vayas a la playa, busca una parte del mar que esté resguard
 nivel: 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

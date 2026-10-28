@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La belleza está en el ojo del que mira"
+title: "La Belleza Está en el Ojo del que Mira"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-belleza-esta-en-el-ojo-del-que-mira/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-belleza-esta-en-el-ojo-del-que-mira.png"
+image: "/imagenes/actividades/la-belleza-esta-en-el-ojo-del-que-mira.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -165,7 +165,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡La belleza está en el ojo del que mira!
+# ¡La Belleza Está en el Ojo del que Mira!
 
 ## Resumen
 ¿Tu supermercado o feria local vende frutas y verduras "feas" que la gente parece no querer comer? Convencé a tus padres para que empiecen a comprarlas para que no se desperdicien. Vas a descubrir que saben igual de bien que sus contrapartes de buen aspecto.
@@ -215,20 +215,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

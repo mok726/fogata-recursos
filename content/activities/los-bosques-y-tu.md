@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Los Bosques y Tú"
+title: "Los Bosques y Vos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-tu/"
-description: "Escribe un reporte sobre lo que el bosque significa para ti y para tu comunidad. Lee tu trabajo en voz alta para las demás personas de tu grupo."
+description: "Escribí un reporte sobre lo que el bosque significa para vos y para tu comunidad. Leé tu trabajo en voz alta para las demás personas de tu grupo."
 summary: "Reflexión personal sobre la importancia del bosque local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-bosques-y-tu.png"
+image: "/imagenes/actividades/los-bosques-y-tu.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,19 +167,19 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible y sustentable.
 ---
 
-# Los Bosques y Tú
+# Los Bosques y Vos
 
 ## Resumen
-Escribe un reporte sobre lo que el bosque significa para ti y para tu comunidad. Si no vives cerca de un bosque, escribe por qué te gustaría tener uno cerca. Lee tu trabajo en voz alta para tu grupo.
+Escribí un reporte sobre lo que el bosque significa para vos y para tu comunidad. Si no vivís cerca de un bosque, escribí por qué te gustaría tener uno cerca. Leé tu trabajo en voz alta para tu grupo.
 
 ## Preparación
-1. Reflexiona sobre tu relación con los bosques.
-2. Prepara un cuaderno o papel para escribir.
+1. Reflexioná sobre tu relación con los bosques.
+2. Prepará un cuaderno o papel para escribir.
 
 ## Desarrollo
-1. **Reflexión** (10 min): Piensa sobre la importancia del bosque en tu vida y comunidad.
-2. **Escritura** (20 min): Escribe un reporte sobre lo que el bosque significa para ti.
-3. **Lectura** (5 min por persona): Lee tu trabajo en voz alta para el grupo.
+1. **Reflexión** (10 min): Pensá sobre la importancia del bosque en tu vida y comunidad.
+2. **Escritura** (20 min): Escribí un reporte sobre lo que el bosque significa para vos.
+3. **Lectura** (5 min por persona): Leé tu trabajo en voz alta para el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre la importancia de los bosques en tu vida?
@@ -187,16 +187,3 @@ Escribe un reporte sobre lo que el bosque significa para ti y para tu comunidad.
 - ¿Qué compromiso adquieres para cuidar los bosques?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

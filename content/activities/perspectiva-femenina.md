@@ -3,7 +3,7 @@ title: "Perspectiva Femenina"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/perspectiva-femenina/"
-description: "Entrevista a mujeres sobre sus ideas para la recuperación y reconstrucción después de desastres."
+description: "Entrevistá a mujeres sobre sus ideas para la recuperación y reconstrucción después de desastres."
 summary: "Perspectivas de mujeres sobre recuperación."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/perspectiva-femenina.png"
+image: "/imagenes/actividades/perspectiva-femenina.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Cámara (opcional)
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Materiales para collage
 tools: []
 responsible:
@@ -155,18 +155,18 @@ rama_rovers:
 # ¡Perspectiva Femenina!
 
 ## Resumen
-Entrevista a mujeres de tu vida (madres, abuelas, tías, hermanas) sobre sus ideas para la recuperación y reconstrucción después de desastres.
+Entrevistá a mujeres de tu vida (madres, abuelas, tías, hermanas) sobre sus ideas para la recuperación y reconstrucción después de desastres.
 
 ## Preparación
-1. Prepara preguntas para las entrevistas.
-2. Reúne materiales para el collage.
-3. Organiza las entrevistas.
+1. Prepará preguntas para las entrevistas.
+2. Reuní materiales para el collage.
+3. Organizá las entrevistas.
 
 ## Desarrollo
-1. **Entrevistas** (25 min): Habla con mujeres sobre sus ideas.
-2. **Recolección** (15 min): Reúne ideas, citas y fotos.
-3. **Creación** (15 min): Crea un colorido collage.
-4. **Exhibición** (5 min): Coloca el collage en un lugar visible.
+1. **Entrevistas** (25 min): Hablá con mujeres sobre sus ideas.
+2. **Recolección** (15 min): Reuní ideas, citas y fotos (de aquellas que desean ser fotografiadas).
+3. **Creación** (15 min): Creá un colorido collage.
+4. **Exhibición** (5 min): Colocá el collage en un lugar visible.
 
 ## Cierre
 - ¿Qué ideas compartieron las mujeres?
@@ -183,16 +183,3 @@ nivel 3 2 1
 ALERTA DE OBJETIVO - Esta actividad contribuye al ODS sobre Igualdad de Género.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -3,7 +3,7 @@ title: "De Suelos Orgánicos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-suelos-organicos/"
-description: "Investiga productos orgánicos y de comercio justo, y su impacto en el suelo."
+description: "Investigá productos orgánicos y de comercio justo, y su impacto en el suelo."
 summary: "Investigación de productos orgánicos y comercio justo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/de-suelos-organicos.png"
+image: "/imagenes/actividades/de-suelos-organicos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡De Suelos Orgánicos!
 
 ## Resumen
-Investiga productos orgánicos y de comercio justo, y su impacto positivo en el suelo.
+Investigá productos orgánicos y de comercio justo, y su impacto positivo en el suelo.
 
 ## Preparación
-1. Visita un supermercado o mercado campesino local.
-2. Busca productos orgánicos y de comercio justo.
-3. Prepara materiales para documentar.
+1. Visitá un supermercado o mercado campesino local.
+2. Buscá productos orgánicos y de comercio justo.
+3. Prepará materiales para documentar.
 
 ## Desarrollo
-1. **Visita** (25 min): Identifica productos orgánicos y de comercio justo.
+1. **Visita** (25 min): Identificá productos orgánicos y de comercio justo.
 2. **Análisis** (15 min): ¿De dónde vienen? ¿Son locales?
-3. **Presentación** (15 min): Crea una presentación con fotos y gráficos.
-4. **Acción** (5 min): Anima a otros a comprar productos orgánicos.
+3. **Presentación** (15 min): Creá una presentación con fotos y gráficos.
+4. **Acción** (5 min): Animá a otros a comprar productos orgánicos.
 
 ## Cierre
 - ¿Qué productos orgánicos encontraste?
@@ -172,16 +172,3 @@ Investiga productos orgánicos y de comercio justo, y su impacto positivo en el 
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

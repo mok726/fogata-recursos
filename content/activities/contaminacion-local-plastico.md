@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Contaminación local por plásticos"
+title: "Contaminación Local por Plásticos"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/contaminacion-local-plastico/"
-description: "Investiga el impacto de la contaminación plástica en el ecosistema local y crea un breve documental con tus hallazgos."
-summary: "Documenta la contaminación plástica en tu ecosistema local."
+description: "Investigá el impacto de la contaminación plástica en el ecosistema local y creá un breve documental con tus hallazgos."
+summary: "Documentá la contaminación plástica en tu ecosistema local."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/contaminacion-local-plastico.png"
+image: "/imagenes/actividades/contaminacion-local-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -164,48 +164,48 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Contaminación local por plásticos!
+# ¡Contaminación Local por Plásticos!
 
 ## Resumen
-Investiga el impacto de la contaminación plástica en tu ecosistema local. Si vives cerca de una playa o río, investiga la contaminación marina. Crea un breve documental con tus hallazgos.
+Investigá el impacto de la contaminación plástica en tu ecosistema local. Si vivís cerca de una playa o río, investigá la contaminación marina. Creá un breve documental con tus hallazgos.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Identifica el ecosistema local que vas a investigar.
-3. Prepara tu cámara y cuaderno para documentar.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Identificá el ecosistema local que vas a investigar.
+3. Prepará tu cámara y cuaderno para documentar.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga tu ecosistema local:
+Investigá tu ecosistema local:
 
 **Preguntas guía:**
-- ¿Vives cerca de una playa o río?
+- ¿Vivís cerca de una playa o río?
 - ¿La contaminación marina es un problema importante?
 - ¿Qué especies (incluyendo especies en peligro) viven en tu área?
 - ¿Cómo afecta la contaminación plástica a estas especies?
 
 ### Parte II - Documentación
-Sal a documentar la contaminación plástica en tu ecosistema local:
+Salí a documentar la contaminación plástica en tu ecosistema local:
 
-- Toma fotos de la basura plástica
+- Tomá fotos de la basura plástica
 - Fotografía cualquier impacto visible en la vida silvestre
-- Toma notas de tus observaciones
+- Tomá notas de tus observaciones
 
 ### Parte III - Crear documental
-Crea un breve documental (2-5 minutos) con tus hallazgos:
+Creá un breve documental (2-5 minutos) con tus hallazgos:
 
-- Muestra el problema
-- Explica cómo afecta al ecosistema
-- Propón soluciones
+- Mostrá el problema
+- Explicá cómo afecta al ecosistema
+- Proponé soluciones
 
 ### Parte IV - Compartir
-Comparte tu documental con el grupo y, si quieres, en redes sociales.
+Compartí tu documental con el grupo y, si querés, en redes sociales.
 
 ## Cierre
 1. ¿Qué fue lo que más te impactó de la contaminación en tu ecosistema local?
-2. ¿Qué especie crees que está más afectada?
-3. ¿Qué acción puedes tomar para proteger este ecosistema?
+2. ¿Qué especie creés que está más afectada?
+3. ¿Qué acción podés tomar para proteger este ecosistema?
 
 ## Texto original completo de la actividad
 
@@ -235,20 +235,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

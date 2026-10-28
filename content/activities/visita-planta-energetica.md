@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Visita a una planta de energía"
+title: "Visitá a una Planta de Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-planta-energetica/"
-description: "Visita un lugar donde se produce energía (parque eólico, presa hidroeléctrica, planta solar) y escribe un artículo periodístico sobre tu experiencia."
-summary: "Conoce cómo se produce la energía."
+description: "Visitá un lugar donde se produce energía (parque eólico, presa hidroeléctrica, planta solar) y escribí un artículo periodístico sobre tu experiencia."
+summary: "Conocé cómo se produce la energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/visita-planta-energetica.png"
+image: "/imagenes/actividades/visita-planta-energetica.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -164,20 +164,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Visita a una planta de energía!
+# ¡Visitá a una Planta de Energía!
 
 ## Resumen
-Haz una excursión a un lugar donde se produce energía: un parque eólico, una presa hidroeléctrica, una planta solar, una planta nuclear o una central térmica. Aprende cómo se produce la energía y escribe un artículo sobre tu experiencia.
+Hacé una excursión a un lugar donde se produce energía: un parque eólico, una presa hidroeléctrica, una planta solar, una planta nuclear o una central térmica. Aprendé cómo se produce la energía y escribí un artículo sobre tu experiencia.
 
 ## Preparación
-1. Lee la sección de información de fondo sobre fuentes de energía.
-2. Organiza una visita a una planta de energía local.
-3. Prepara preguntas para hacerle al guía o personal.
+1. Leé la sección de información de fondo sobre fuentes de energía.
+2. Organizá una visita a una planta de energía local.
+3. Prepará preguntas para hacerle al guía o personal.
 
 ## Desarrollo
 
 ### Parte I - Visita
-Visita una planta de energía con tu grupo.
+Visitá una planta de energía con tu grupo.
 
 **Preguntas para investigar:**
 - ¿Cómo se produce la energía?
@@ -186,10 +186,10 @@ Visita una planta de energía con tu grupo.
 - ¿Cuáles son los desafíos de este sistema energético?
 
 ### Parte II - Documentar
-Toma fotos (con permiso) y escribe notas sobre lo que ves y aprendes.
+Tomá fotos (con permiso) y escribí notas sobre lo que ves y aprendés.
 
 ### Parte III - Escribir
-Escribe un artículo periodístico sobre tu visita incluyendo:
+Escribí un artículo periodístico sobre tu visita incluyendo:
 - **Título** llamativo
 - **Qué viste y aprendiste**
 - **Cómo funciona la planta**
@@ -198,7 +198,7 @@ Escribe un artículo periodístico sobre tu visita incluyendo:
 
 ## Cierre
 1. ¿Qué fue lo que más te sorprendió de la visita?
-2. ¿Cómo crees que esta planta afecta a la comunidad?
+2. ¿Cómo creés que esta planta afecta a la comunidad?
 3. ¿Qué otra fuente de energía te gustaría visitar?
 
 ## Texto original completo de la actividad
@@ -229,20 +229,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

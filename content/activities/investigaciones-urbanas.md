@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigaciones urbanas"
+title: "Investigaciones Urbanas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigaciones-urbanas/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigaciones-urbanas.png"
+image: "/imagenes/actividades/investigaciones-urbanas.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,24 +160,24 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Investigaciones urbanas!
+# ¡Investigaciones Urbanas!
 
 ## Resumen
-¿En qué ciudades del mundo se encuentran los niveles más altos de CO2 atmosférico? Investiga para encontrar la respuesta.
+¿En qué ciudades del mundo se encuentran los niveles más altos de CO2 atmosférico? Investigá para encontrar la respuesta.
 
 ## Preparación
-1. Investiga sobre ciudades con altos niveles de CO2.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre ciudades con altos niveles de CO2.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿En qué ciudades del mundo se encuentran los niveles más altos de CO2 atmosférico?
-2. Investiga: ¿Qué está causando estos altos niveles de CO2?
-3. Investiga: ¿Están haciendo algo estas ciudades para tratar este tema?
-4. Prepara una presentación con diapositivas o un mini documental sobre tus hallazgos.
+1. Investigá: ¿En qué ciudades del mundo se encuentran los niveles más altos de CO2 atmosférico?
+2. Investigá: ¿Qué está causando estos altos niveles de CO2?
+3. Investigá: ¿Están haciendo algo estas ciudades para tratar este tema?
+4. Prepará una presentación con diapositivas o un mini documental sobre tus hallazgos.
 
 ## Cierre
-1. Comparte tu presentación con tus profesores y tu grupo.
+1. Compartí tu presentación con tus profesores y tu grupo.
 2. Discutan: ¿Qué lecciones podemos aprender de estas ciudades?
 3. Pregunta final: ¿Qué soluciones podrían aplicarse en tu ciudad para reducir el CO2?
 
@@ -187,16 +187,3 @@ B.13 INVESTIGACIONES URBANAS. ¿En qué ciudades del mundo se encuentran los niv
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

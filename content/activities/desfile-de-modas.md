@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desfile de modas"
+title: "Desfile de Modas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/desfile-de-modas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/desfile-de-modas.png"
+image: "/imagenes/actividades/desfile-de-modas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,24 +165,24 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Desfile de modas!
+# ¡Desfile de Modas!
 
 ## Resumen
-La biodiversidad inspira a la moda: los diseñadores crean telas que se ven cómo las pieles de los animales, los joyeros elaboran piezas utilizando conchas, cortezas y otros materiales naturales, y las compañías de confección de ropa utilizan fibras naturales como algodón, cáñamo, lana y seda. Crea un artículo de ropa o una joya que utilice o esté inspirado en la biodiversidad. Presenta un desfile de modas de biodiversidad con tu grupo.
+La biodiversidad inspira a la moda: los diseñadores crean telas que se ven cómo las pieles de los animales, los joyeros elaboran piezas utilizando conchas, cortezas y otros materiales naturales, y las compañías de confección de ropa utilizan fibras naturales como algodón, cáñamo, lana y seda. Creá un artículo de ropa o una joya que utilice o esté inspirado en la biodiversidad. Presentá un desfile de modas de biodiversidad con tu grupo.
 
 ## Preparación
-1. Reúne materiales para la creación.
-2. Investiga sobre moda inspirada en la naturaleza.
-3. Organiza el desfile.
+1. Reuní materiales para la creación.
+2. Investigá sobre moda inspirada en la naturaleza.
+3. Organizá el desfile.
 
 ## Desarrollo
-1. Diseña y crea un artículo de ropa o joya.
+1. Diseñá y creá un artículo de ropa o joya.
 2. Inspírate en la biodiversidad.
-3. Prepara tu presentación para el desfile.
+3. Prepará tu presentación para el desfile.
 
 ## Cierre
-1. Participa en el desfile de modas.
-2. Reflexiona: ¿Cómo puede la moda ser más sostenible?
+1. Participá en el desfile de modas.
+2. Reflexioná: ¿Cómo puede la moda ser más sostenible?
 3. Pregunta final: ¿Qué materiales naturales usaste?
 
 ## Texto original completo de la actividad
@@ -191,16 +191,3 @@ D.18 La biodiversidad inspira a la moda: los diseñadores crean telas que se ven
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

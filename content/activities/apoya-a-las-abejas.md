@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Apoyá a las abejas!"
+title: "¡Apoyá a las Abejas!"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/apoya-a-las-abejas/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/apoya-a-las-abejas.png"
+image: "/imagenes/actividades/apoya-a-las-abejas.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -160,7 +160,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Apoyá a las abejas!
+# ¡Apoyá a las Abejas!
 
 ## Resumen
 Al cuidar y proteger a las abejas, los apicultores dedican su tiempo a hacer que nuestro planeta sea saludable y hermoso. ¿Qué mejor manera de mostrar tu agradecimiento que apoyando su trabajo? Organizá un día en tu escuela o centro comunitario donde los apicultores locales puedan mostrar y vender sus productos.
@@ -208,20 +208,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

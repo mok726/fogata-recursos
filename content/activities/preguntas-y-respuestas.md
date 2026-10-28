@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/preguntas-y-respuestas.png"
+image: "/imagenes/actividades/preguntas-y-respuestas.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -161,12 +161,12 @@ rama_rovers:
 # ¡Preguntas & Respuestas!
 
 ## Resumen
-Dividanse en parejas, un miembro de cada pareja deberá jugar el papel de un agricultor y el otro de un entrevistador/reportero. Elijan un país para cada pareja.
+Divídanse en parejas, un miembro de cada pareja deberá jugar el papel de un agricultor y el otro de un entrevistador/reportero. Elijan un país para cada pareja.
 
 ## Preparación
-1. Forma parejas.
+1. Formá parejas.
 2. Cada pareja elige un país para investigar.
-3. Prepara recursos para la investigación.
+3. Prepará recursos para la investigación.
 
 ## Desarrollo
 1. Cada agricultor investiga las cuestiones relacionadas con el clima de su país.
@@ -187,16 +187,3 @@ C.14 PREGUNTAS & RESPUESTAS. Dividanse en parejas, un miembro de cada pareja deb
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

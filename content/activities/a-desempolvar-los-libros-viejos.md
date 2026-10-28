@@ -3,7 +3,7 @@ title: "A Desempolvar los Libros Viejos"
 duration: "60 minutos + lectura"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-desempolvar-los-libros-viejos/"
-description: "Lee un libro donde el suelo tenga un rol y reflexiona sobre su importancia."
+description: "Leé un libro donde el suelo tenga un rol y reflexioná sobre su importancia."
 summary: "Reflexión literaria sobre el suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.png"
+image: "/imagenes/actividades/a-desempolvar-los-libros-viejos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -154,18 +154,18 @@ rama_rovers:
 # ¡A Desempolvar los Libros Viejos!
 
 ## Resumen
-Lee un libro donde el suelo tenga un rol importante y reflexiona sobre su significado.
+Leé un libro donde el suelo tenga un rol importante y reflexioná sobre su significado.
 
 ## Preparación
-1. Elige un libro donde el suelo participe (ej. Jack y los Frijoles Mágicos).
-2. Lee el libro.
-3. Prepara materiales para escribir.
+1. Elegí un libro donde el suelo participe (ej. Jack y los Frijoles Mágicos).
+2. Leé el libro.
+3. Prepará materiales para escribir.
 
 ## Desarrollo
-1. **Lectura** (tiempo variable): Lee el libro elegido.
+1. **Lectura** (tiempo variable): Leé el libro elegido.
 2. **Reflexión** (20 min): ¿Qué rol jugó el suelo en la historia?
-3. **Escritura** (25 min): Escribe sobre la relación de los personajes con el suelo.
-4. **Discusión** (15 min): Comparte tus reflexiones con el grupo.
+3. **Escritura** (25 min): Escribí sobre la relación de los personajes con el suelo.
+4. **Discusión** (15 min): Compartí tus reflexiones con el grupo.
 
 ## Cierre
 - ¿Qué rol jugó el suelo en la historia?
@@ -180,16 +180,3 @@ Lee un libro donde el suelo tenga un rol importante y reflexiona sobre su signif
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

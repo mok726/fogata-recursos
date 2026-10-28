@@ -4,8 +4,8 @@ title: "Cómo Pescan los Pescadores"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/como-pescan-los-pescadores/"
-description: "Organiza un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca."
-summary: "Debate sobre sostenibilidad pesquera."
+description: "Organizá un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca."
+summary: "Debatí sobre sostenibilidad pesquera."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/como-pescan-los-pescadores.png"
+image: "/imagenes/actividades/como-pescan-los-pescadores.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -173,12 +173,12 @@ rama_rovers:
 # Cómo Pescan los Pescadores
 
 ## Resumen
-Organiza un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca.
+Organizá un debate sobre la sostenibilidad de diferentes métodos y equipos de pesca.
 
 ## Preparación
-1. Investiga diferentes equipos y prácticas de pesca.
-2. Asigna a cada persona un tipo de equipo de pesca para investigar.
-3. Prepara argumentos para el debate.
+1. Investigá diferentes equipos y prácticas de pesca.
+2. Asigná a cada persona un tipo de equipo de pesca para investigar.
+3. Prepará argumentos para el debate.
 
 ## Desarrollo
 1. **Investigación** (20 min): Cada persona investiga su tipo de equipo de pesca.
@@ -203,16 +203,3 @@ Organiza un debate sobre la sostenibilidad de la pesca y el uso de diferentes eq
 nivel: 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

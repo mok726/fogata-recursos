@@ -3,7 +3,7 @@ title: "¡Hazles Saber!"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/hazles-saber/"
-description: "Comparte tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad después de un desastre."
+description: "Compartí tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad después de un desastre."
 summary: "Compartiendo ideas para reconstruir mejor."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/hazles-saber.png"
+image: "/imagenes/actividades/hazles-saber.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
   - caminantes
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -146,14 +146,14 @@ rama_rovers: []
 # ¡Hazles Saber!
 
 ## Resumen
-Comparte tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad entera después de un desastre.
+Compartí tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad entera después de un desastre.
 
 ## Preparación
-- Piensa en los lugares donde vives, estudias y juegas.
-- Reflexiona sobre cómo se podrían mejorar.
+- Pensá en los lugares donde vivís, estudias y jugás.
+- Reflexioná sobre cómo se podrían mejorar.
 
 ## Desarrollo
-1. **Reflexión** (10 min): Piensa en cómo reconstruirías mejor.
+1. **Reflexión** (10 min): Pensá en cómo reconstruirías mejor.
 2. **Compartir** (15 min): Cada persona comparte sus ideas.
 3. **Discusión** (5 min): Hablen sobre las ideas que surgieron.
 
@@ -170,16 +170,3 @@ Comparte tus ideas sobre cómo reconstruir mejor tu casa, escuela o ciudad enter
 nivel 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

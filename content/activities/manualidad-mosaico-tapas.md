@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Manualidad de mosaico de tapas de botella"
+title: "Manualidad de Mosaico de Tapas de Botella"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/manualidad-mosaico-tapas/"
 description: "Una actividad creativa que fomenta la reutilización de tapas de botellas de plástico para crear mosaicos artísticos, promoviendo la conciencia sobre el reciclaje y la reducción de residuos."
-summary: "Crea mosaicos con tapas de botellas de plástico reutilizadas."
+summary: "Creá mosaicos con tapas de botellas de plástico reutilizadas."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/manualidad-mosaico-tapas.png"
+image: "/imagenes/actividades/manualidad-mosaico-tapas.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -166,7 +166,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Manualidad de mosaico de tapas de botella!
+# ¡Manualidad de Mosaico de Tapas de Botella!
 
 ## Resumen
 Las tapas de botellas de plástico vienen en una gran variedad de colores y tamaños. Esta actividad anima a los jóvenes a aprender sobre la reutilización y el reciclaje a través de una actividad artística y creativa. Los participantes recolectarán tapas y crearán mosaicos coloridos, reflexionando sobre la importancia de dar una segunda vida a los residuos plásticos.
@@ -233,18 +233,3 @@ El adulto pedirá a los jóvenes que recojan tantas tapas de botellas de plásti
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

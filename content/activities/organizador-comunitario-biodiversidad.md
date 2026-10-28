@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Organizador comunitario - biodiversidad"
+title: "Organizador Comunitario - Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/organizador-comunitario-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/organizador-comunitario-biodiversidad.png"
+image: "/imagenes/actividades/organizador-comunitario-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,26 +160,26 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad
 ---
 
-# ¡Organizador comunitario!
+# ¡Organizador Comunitario!
 
 ## Resumen
 Transfórmense en organizadores comunitarios. Organicen un evento para despertar la conciencia pública acerca de un aspecto local específico relacionado con la biodiversidad. Tracen un objetivo específico. Hagan una pancarta y pósters para promocionar el evento. Contacten a los medios de comunicación locales (TV, radio y periódicos) y pídanles que cubran el evento. Traten de hacer que un gran número de personas asistan a su evento.
 
 ## Preparación
-1. Elige un aspecto local de biodiversidad.
-2. Establece un objetivo específico.
-3. Prepara pancartas y pósters.
-4. Contacta a los medios de comunicación.
+1. Elegí un aspecto local de biodiversidad.
+2. Establecé un objetivo específico.
+3. Prepará pancartas y pósters.
+4. Contactá a los medios de comunicación.
 
 ## Desarrollo
-1. Promociona el evento en la comunidad.
-2. Organiza el evento.
-3. Asegura la participación de los medios.
+1. Promocioná el evento en la comunidad.
+2. Organizá el evento.
+3. Asegurá la participación de los medios.
 4. Atrae a un gran número de personas.
 
 ## Cierre
-1. Comparte los resultados con el grupo.
-2. Reflexiona sobre el impacto del evento.
+1. Compartí los resultados con el grupo.
+2. Reflexioná sobre el impacto del evento.
 3. Pregunta final: ¿Cómo podemos mantener el impulso de este evento?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ D.34 Transfórmense en organizadores comunitarios. Organicen un evento para desp
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

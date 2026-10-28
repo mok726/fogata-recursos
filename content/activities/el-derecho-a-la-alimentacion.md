@@ -4,7 +4,7 @@ title: "El Derecho a la Alimentación"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-derecho-a-la-alimentacion/"
-description: "Investiga sobre el derecho a la alimentación y los derechos humanos. Invita a un experto para que hable con tu grupo."
+description: "Investigá sobre el derecho a la alimentación y los derechos humanos. Invitá a un experto para que hable con tu grupo."
 summary: "Investigación sobre el derecho a la alimentación."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-derecho-a-la-alimentacion.png"
+image: "/imagenes/actividades/el-derecho-a-la-alimentacion.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -174,18 +174,18 @@ rama_rovers:
 # El Derecho a la Alimentación
 
 ## Resumen
-Investiga sobre el derecho a la alimentación y los derechos humanos. Invita a un experto para que hable con tu grupo.
+Investigá sobre el derecho a la alimentación y los derechos humanos. Invitá a un experto para que hable con tu grupo.
 
 ## Preparación
-1. Investiga qué es un derecho humano y qué tipos existen.
-2. Investiga por qué es importante el derecho a la alimentación.
-3. Invita a un experto de una organización local de derechos humanos o ayuda a los pobres.
+1. Investigá qué es un derecho humano y qué tipos existen.
+2. Investigá por qué es importante el derecho a la alimentación.
+3. Invitá a un experto de una organización local de derechos humanos o ayuda a los pobres.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga sobre derechos humanos y el derecho a la alimentación.
-2. **Charla** (30 min): Invita a un experto para que hable sobre su trabajo.
-3. **Preguntas** (15 min): Haz preguntas y anota las respuestas.
-4. **Reflexión** (15 min): Reflexiona sobre lo aprendido.
+1. **Investigación** (20 min): Investigá sobre derechos humanos y el derecho a la alimentación.
+2. **Charla** (30 min): Invitá a un experto para que hable sobre su trabajo.
+3. **Preguntas** (15 min): Hacé preguntas y anotá las respuestas.
+4. **Reflexión** (15 min): Reflexioná sobre lo aprendido.
 
 ## Cierre
 - ¿Qué aprendiste sobre el derecho a la alimentación?
@@ -193,16 +193,3 @@ Investiga sobre el derecho a la alimentación y los derechos humanos. Invita a u
 - ¿Qué compromiso adquieres para defender el derecho a la alimentación?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

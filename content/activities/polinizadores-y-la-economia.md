@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Polinizadores y la economía"
+title: "Polinizadores y la Economía"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/polinizadores-y-la-economia/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/polinizadores-y-la-economia.png"
+image: "/imagenes/actividades/polinizadores-y-la-economia.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -164,7 +164,7 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Polinizadores y la economía!
+# ¡Polinizadores y la Economía!
 
 ## Resumen
 Investigá para determinar cuánto depende la economía de tu país de los polinizadores. ¿Una gran parte de la economía de tu país depende de la agricultura? ¿Cuál es el papel de los polinizadores en el cultivo de estos productos? Hablá con expertos locales en agricultura y vida silvestre para determinar el papel de los polinizadores en la economía.
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

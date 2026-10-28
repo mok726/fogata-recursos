@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sedimento-sucio/"
 description: "Los participantes crean un modelo de cuenca para explorar cómo la sedimentación afecta los cuerpos de agua y cómo la erosión del suelo puede impactar negativamente en la vida acuática."
-summary: "Explora cómo la sedimentación afecta el agua."
+summary: "Explorá cómo la sedimentación afecta el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/sedimento-sucio.png"
+image: "/imagenes/actividades/sedimento-sucio.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -173,22 +173,22 @@ translation_notice:
 Una cuenca es toda el área de tierra que envía agua de lluvia a un cuerpo de agua común, como un río, un arroyo, un lago o el océano. Los humanos, los animales y las plantas viven juntos en esta área y dependen unos de otros para sobrevivir, pero las actividades humanas pueden tener efectos negativos o positivos sobre el medio ambiente. Por lo tanto, es esencial reflexionar sobre la calidad del agua y la necesidad de proteger y gestionar mejor la tierra que forma una cuenca. En esta actividad, los participantes crean un modelo de cuenca para entender cómo los sedimentos afectan los cuerpos de agua.
 
 ## Preparación
-1. Prepara la bandeja, las rocas, el papel aluminio y el cacao en polvo.
-2. Asegura la superficie de trabajo para protegerla.
+1. Prepará la bandeja, las rocas, el papel aluminio y el cacao en polvo.
+2. Asegurá la superficie de trabajo para protegerla.
 
 ## Desarrollo
 
 ### Paso 1: Construcción del modelo de cuenca
-1. Explica a tu grupo que van a crear un modelo de cuenca para entender cómo los cuerpos de agua pueden ser afectados por diferentes situaciones que ocurren en la tierra de la cuenca.
-2. Pide a los participantes que usen la bandeja para crear el modelo de cuenca. Diles que hagan algunas colinas y montañas usando las rocas y el papel aluminio, pueden simular dos cadenas montañosas paralelas.
-3. Pídeles que cubran toda la bandeja con el papel aluminio para representar la tierra. Debe ser moldeado para que algunas partes sean planas mientras que otras tengan protuberancias y partes irregulares. El papel aluminio debe inclinarse hacia abajo para que haya un área al final de la bandeja donde el agua pueda acumularse.
+1. Explicá a tu grupo que van a crear un modelo de cuenca para entender cómo los cuerpos de agua pueden ser afectados por diferentes situaciones que ocurren en la tierra de la cuenca.
+2. Pedí a los participantes que usen la bandeja para crear el modelo de cuenca. Deciles que hagan algunas colinas y montañas usando las rocas y el papel aluminio, pueden simular dos cadenas montañosas paralelas.
+3. Pediles que cubran toda la bandeja con el papel aluminio para representar la tierra. Debe ser moldeado para que algunas partes sean planas mientras que otras tengan protuberancias y partes irregulares. El papel aluminio debe inclinarse hacia abajo para que haya un área al final de la bandeja donde el agua pueda acumularse.
 
 ### Paso 2: Simulación de una avalancha
-4. Pide a un participante que espolvoree una cantidad sustancial de cacao en polvo en una de las laderas que el grupo creó. Explica que esto es donde ocurrió una avalancha, arrasando con todos los árboles y otras plantas y dejando solo tierra suelta.
+4. Pedí a un participante que espolvoree una cantidad sustancial de cacao en polvo en una de las laderas que el grupo creó. Explicá que esto es donde ocurrió una avalancha, arrasando con todos los árboles y otras plantas y dejando solo tierra suelta.
 
 ### Paso 3: Simulación de lluvia y erosión
-5. Pide a un participante que vierta un poco de agua sobre el cacao para que el grupo pueda observar el flujo. Explica que cuando el suelo es transportado sobre la superficie de la tierra por el agua, se llama **erosión**.
-6. Pregunta a tu grupo: ¿Qué sucede cuando este suelo termina en arroyos, ríos y otros cuerpos de agua? Esto se llama **sedimento**. Este suelo está flotando en el agua y hundiéndose en el fondo.
+5. Pedí a un participante que vierta un poco de agua sobre el cacao para que el grupo pueda observar el flujo. Explicá que cuando el suelo es transportado sobre la superficie de la tierra por el agua, se llama **erosión**.
+6. Preguntá a tu grupo: ¿Qué sucede cuando este suelo termina en arroyos, ríos y otros cuerpos de agua? Esto se llama **sedimento**. Este suelo está flotando en el agua y hundiéndose en el fondo.
 
 ### Paso 4: Discusión sobre los efectos del sedimento
 7. El sedimento se convierte en un problema en los arroyos, ríos y océanos porque no debería estar allí. Una gran cantidad de sedimento entra en los cuerpos de agua después de fuertes tormentas, especialmente cuando el suelo suelto queda expuesto a la lluvia.
@@ -202,7 +202,7 @@ Una cuenca es toda el área de tierra que envía agua de lluvia a un cuerpo de a
 ## Cierre
 - ¿Cómo puede el sedimento afectar a otras criaturas que forman parte de la cuenca?
 - ¿Cómo ayuda a proteger los cuerpos de agua proteger y gestionar mejor la tierra que forma una cuenca?
-- ¿Hay algún problema específico en tu cuenca que necesite atención? ¿Qué puedes hacer para ayudar a resolverlo?
+- ¿Hay algún problema específico en tu cuenca que necesite atención? ¿Qué podés hacer para ayudar a resolverlo?
 
 ## Texto original completo de la actividad
 
@@ -276,21 +276,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[26,27], scouts[31,35], caminantes[30,31], rovers[31,32])

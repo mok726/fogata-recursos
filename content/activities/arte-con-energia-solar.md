@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte con energía solar"
+title: "Arte con Energía Solar"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-con-energia-solar/"
-description: "Realiza un experimento solar para crear arte usando la energía del Sol y descubre cuánta energía contiene la luz solar."
-summary: "Crea arte usando el poder del Sol."
+description: "Realizá un experimento solar para crear arte usando la energía del Sol y descubrí cuánta energía contiene la luz solar."
+summary: "Creá arte usando el poder del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arte-con-energia-solar.png"
+image: "/imagenes/actividades/arte-con-energia-solar.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -161,23 +161,23 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Arte con energía solar!
+# ¡Arte con Energía Solar!
 
 ## Resumen
-Realiza un experimento solar simple para tener una idea de cuánta energía contiene una cantidad relativamente pequeña de luz solar, ¡y crea arte al mismo tiempo!
+Realizá un experimento solar simple para tener una idea de cuánta energía contiene una cantidad relativamente pequeña de luz solar, ¡y creá arte al mismo tiempo!
 
 ## Preparación
-1. Lee la información sobre energía solar.
-2. Busca un lugar soleado.
-3. Prepara papel y objetos para hacer sombras.
+1. Leé la información sobre energía solar.
+2. Buscá un lugar soleado.
+3. Prepará papel y objetos para hacer sombras.
 
 ## Desarrollo
 
 ### Parte I - Preparar
-Coloca un papel en un lugar soleado.
+Colocá un papel en un lugar soleado.
 
 ### Parte II - Crear arte
-Usa diferentes objetos (hojas, piedras, juguetes) para crear sombras sobre el papel.
+Usá diferentes objetos (hojas, piedras, juguetes) para crear sombras sobre el papel.
 
 **Experimenta con:**
 - Diferentes formas y tamaños
@@ -185,7 +185,7 @@ Usa diferentes objetos (hojas, piedras, juguetes) para crear sombras sobre el pa
 - Diferentes momentos del día
 
 ### Parte III - Observar
-Observa cómo la luz del sol crea sombras y cómo cambian a medida que el sol se mueve.
+Observá cómo la luz del sol crea sombras y cómo cambian a medida que el sol se mueve.
 
 ### Parte IV - Reflexionar
 ¿Cuánta energía tiene la luz solar? ¿Cómo podemos usarla mejor?
@@ -223,20 +223,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

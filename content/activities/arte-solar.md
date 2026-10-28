@@ -5,7 +5,7 @@ duration: "15 minutos - 1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-solar/"
 description: "Enfoca la luz del Sol con una lupa sobre una tabla de madera para marcar dibujos y palabras, aprendiendo sobre la potencia de la energía solar."
-summary: "Crea arte usando la energía del Sol."
+summary: "Creá arte usando la energía del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arte-solar.png"
+image: "/imagenes/actividades/arte-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -181,6 +181,8 @@ Enfoquen la luz del Sol con una lupa sobre una tabla de madera para que ésta se
 - Cuando hayan terminado, coloquen las lupas en un lugar donde no estén expuestas a la luz solar.
 - No miren directamente al Sol.
 
+> **Nota para el educador:** con castores y manada, la supervisión del adulto tiene que ser de cerca. Los anteojos de sol comunes reducen el brillo, pero no conviene mirar fijo el punto de luz mucho rato. Para evitar incendios, trabajen sobre tierra, arena o piso, nunca sobre pasto seco ni hojas.
+
 ## Preparación
 1. Consigan tablas o pedazos de madera (pueden ser reciclados).
 2. Consigan lupas y anteojos de Sol oscuros con protección UV.
@@ -228,17 +230,3 @@ Importante: ¡Siempre usen anteojos de Sol para este experimento! Para esta acti
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

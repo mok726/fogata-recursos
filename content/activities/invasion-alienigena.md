@@ -3,7 +3,7 @@ title: "Invasión Alienígena"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/invasion-alienigena/"
-description: "Investiga sobre especies marinas invasoras y crea un libro de historietas desde la perspectiva de la especie nativa."
+description: "Investigá sobre especies marinas invasoras y creá un libro de historietas desde la perspectiva de la especie nativa."
 summary: "Historieta sobre especies invasoras marinas."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/invasion-alienigena.png"
+image: "/imagenes/actividades/invasion-alienigena.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 materials:
   - Acceso a internet o libros de referencia
   - Cuaderno de dibujo en blanco
-  - Lápices, bolígrafos o pinturas de colores
+  - Lápices, lapiceras o pinturas de colores
 tools: []
 responsible:
   - Docente o Scouter
@@ -154,17 +154,17 @@ rama_rovers:
 # ¡Invasión Alienígena!
 
 ## Resumen
-Investiga sobre especies marinas invasoras y crea un libro de historietas que cuente la historia desde el punto de vista de la especie nativa.
+Investigá sobre especies marinas invasoras y creá un libro de historietas que cuente la historia desde el punto de vista de la especie nativa.
 
 ## Preparación
-1. Investiga sobre especies invasoras marinas en tu área o en el mundo.
-2. Reúne materiales para dibujar.
+1. Investigá sobre especies invasoras marinas en tu área o en el mundo.
+2. Reuní materiales para dibujar.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca información sobre especies invasoras.
-2. **Planificación** (15 min): Decide la historia desde la perspectiva de la especie nativa.
-3. **Creación** (20 min): Dibuja tu libro de historietas.
-4. **Compartir** (5 min): Muestra tu historieta al grupo.
+1. **Investigación** (20 min): Buscá información sobre especies invasoras.
+2. **Planificación** (15 min): Decidí la historia desde la perspectiva de la especie nativa.
+3. **Creación** (20 min): Dibujá tu libro de historietas.
+4. **Compartir** (5 min): Mostrá tu historieta al grupo.
 
 ## Cierre
 - ¿De dónde vinieron las especies invasoras?
@@ -183,16 +183,3 @@ Un problema medio ambiental que se asocia con frecuencia con el transporte marí
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

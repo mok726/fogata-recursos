@@ -4,7 +4,7 @@ title: "El Manejo de los Cultivos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-manejo-de-los-cultivos/"
-description: "Cultiva plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos."
+description: "Cultivá plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos."
 summary: "Experimento sobre el cuidado de cultivos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-manejo-de-los-cultivos.png"
+image: "/imagenes/actividades/el-manejo-de-los-cultivos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -174,19 +174,19 @@ rama_rovers:
 # El Manejo de los Cultivos
 
 ## Resumen
-Cultiva plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos.
+Cultivá plantas en macetas bajo diferentes condiciones de agua y luz para aprender sobre el manejo de cultivos.
 
 ## Preparación
-1. Consigue macetas, tierra y semillas.
-2. Prepara al menos cinco macetas de la misma planta.
-3. Asegura la supervisión de un adulto.
+1. Conseguí macetas, tierra y semillas.
+2. Prepará al menos cinco macetas de la misma planta.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Plantación** (15 min): Planta las semillas en las macetas.
-2. **Condiciones** (10 min): Asigna diferentes cantidades de agua y luz a cada maceta.
-3. **Registro** (durante varias semanas): Registra cuánta agua y luz recibe cada planta.
+1. **Plantación** (15 min): Plantá las semillas en las macetas.
+2. **Condiciones** (10 min): Asigná diferentes cantidades de agua y luz a cada maceta.
+3. **Registro** (durante varias semanas): Registrá cuánta agua y luz recibe cada planta.
 4. **Observación** (15 min): Después de algunas semanas, observa cuál creció mejor y por qué.
-5. **Reflexión** (15 min): Reflexiona sobre la importancia del manejo adecuado de cultivos.
+5. **Reflexión** (15 min): Reflexioná sobre la importancia del manejo adecuado de cultivos.
 
 ## Cierre
 - ¿Qué planta creció mejor y por qué?
@@ -194,16 +194,3 @@ Cultiva plantas en macetas bajo diferentes condiciones de agua y luz para aprend
 - ¿Cómo puede este conocimiento ayudar a combatir el hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

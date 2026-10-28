@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubre los Alimentos Enriquecidos"
+title: "Descubrí los Alimentos Enriquecidos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/descubre-los-alimentos-enriquecidos/"
-description: "Investiga qué alimentos enriquecidos se producen en tu país y para qué sirven."
+description: "Investigá qué alimentos enriquecidos se producen en tu país y para qué sirven."
 summary: "Investigación sobre alimentos enriquecidos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/descubre-los-alimentos-enriquecidos.png"
+image: "/imagenes/actividades/descubre-los-alimentos-enriquecidos.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -165,21 +165,21 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información.
 ---
 
-# Descubre los Alimentos Enriquecidos
+# Descubrí los Alimentos Enriquecidos
 
 ## Resumen
-Investiga qué alimentos enriquecidos se producen en tu país y para qué sirven.
+Investigá qué alimentos enriquecidos se producen en tu país y para qué sirven.
 
 ## Preparación
-1. Investiga qué alimentos enriquecidos existen (vitamina A en leche, yodo en sal, vitaminas B y hierro en harina, etc.).
-2. Prepara una tabla para tus hallazgos.
-3. Reúne ejemplos de alimentos enriquecidos.
+1. Investigá qué alimentos enriquecidos existen (vitamina A en leche, yodo en sal, vitaminas B y hierro en harina, etc.).
+2. Prepará una tabla para tus hallazgos.
+3. Reuní ejemplos de alimentos enriquecidos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga alimentos enriquecidos en tu país.
-2. **Análisis** (15 min): Analiza para qué sirven y qué nutrientes aportan.
-3. **Tabla** (15 min): Crea una tabla con los alimentos y sus beneficios.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (20 min): Investigá alimentos enriquecidos en tu país.
+2. **Análisis** (15 min): Analizá para qué sirven y qué nutrientes aportan.
+3. **Tabla** (15 min): Creá una tabla con los alimentos y sus beneficios.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué alimentos enriquecidos encontraste?
@@ -187,16 +187,3 @@ Investiga qué alimentos enriquecidos se producen en tu país y para qué sirven
 - ¿Qué compromiso adquieres para informarte sobre la nutrición?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

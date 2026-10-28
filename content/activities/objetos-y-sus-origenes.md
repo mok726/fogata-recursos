@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Objetos y sus orígenes"
+title: "Objetos y Sus Orígenes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/objetos-y-sus-origenes/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/objetos-y-sus-origenes.png"
+image: "/imagenes/actividades/objetos-y-sus-origenes.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,25 +163,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Objetos y sus orígenes!
+# ¡Objetos y Sus Orígenes!
 
 ## Resumen
-Elige una habitación. Identifica los objetos que se originan en la biodiversidad, por ejemplo, una mesa de madera fue alguna vez un árbol de roble. Elabora un collage que muestre los vínculos entre los objetos en la habitación y sus orígenes en la biodiversidad.
+Elegí una habitación. Identificá los objetos que se originan en la biodiversidad, por ejemplo, una mesa de madera fue alguna vez un árbol de roble. Elaborá un collage que muestre los vínculos entre los objetos en la habitación y sus orígenes en la biodiversidad.
 
 ## Preparación
-1. Elige una habitación para observar.
-2. Reúne materiales para el collage.
-3. Organiza los grupos de trabajo.
+1. Elegí una habitación para observar.
+2. Reuní materiales para el collage.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Observa los objetos en la habitación.
-2. Identifica cuáles se originan en la biodiversidad.
-3. Crea un collage mostrando los vínculos.
-4. Explica cómo cada objeto está conectado con la naturaleza.
+1. Observá los objetos en la habitación.
+2. Identificá cuáles se originan en la biodiversidad.
+3. Creá un collage mostrando los vínculos.
+4. Explicá cómo cada objeto está conectado con la naturaleza.
 
 ## Cierre
-1. Comparte tu collage con el grupo.
-2. Reflexiona sobre nuestra dependencia de la biodiversidad.
+1. Compartí tu collage con el grupo.
+2. Reflexioná sobre nuestra dependencia de la biodiversidad.
 3. Pregunta final: ¿Qué objetos de tu vida diaria dependen de la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ D.09 Elige una habitación. Identifica los objetos que se originan en la biodive
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

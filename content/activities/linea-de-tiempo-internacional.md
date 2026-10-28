@@ -4,7 +4,7 @@ title: "Línea de Tiempo Internacional"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/linea-de-tiempo-internacional/"
-description: "Aprende sobre importantes conferencias y eventos relacionados con el cambio climático y los bosques de los últimos cincuenta años. Crea una línea de tiempo."
+description: "Aprendé sobre importantes conferencias y eventos relacionados con el cambio climático y los bosques de los últimos cincuenta años. Creá una línea de tiempo."
 summary: "Línea de tiempo de eventos internacionales sobre bosques y clima."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/linea-de-tiempo-internacional.png"
+image: "/imagenes/actividades/linea-de-tiempo-internacional.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -164,17 +164,17 @@ rama_rovers:
 # Línea de Tiempo Internacional
 
 ## Resumen
-Aprende sobre importantes conferencias y eventos relacionados con el cambio climático y los bosques de los últimos cincuenta años. Crea una línea de tiempo que muestre todos estos eventos.
+Aprendé sobre importantes conferencias y eventos relacionados con el cambio climático y los bosques de los últimos cincuenta años. Creá una línea de tiempo que muestre todos estos eventos.
 
 ## Preparación
-1. Investiga conferencias y eventos clave sobre cambio climático y bosques (ej. Cumbre de la Tierra, COP, etc.).
-2. Prepara el material para crear la línea de tiempo.
+1. Investigá conferencias y eventos clave sobre cambio climático y bosques (ej. Cumbre de la Tierra, COP, etc.).
+2. Prepará el material para crear la línea de tiempo.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga eventos importantes de los últimos 50 años.
-2. **Análisis** (15 min): Analiza los roles de gobiernos, agencias de la ONU, pueblos indígenas y ONGs.
-3. **Creación** (25 min): Crea una línea de tiempo visual con todos los eventos.
-4. **Presentación** (15 min): Comparte tu línea de tiempo con el grupo.
+1. **Investigación** (30 min): Investigá eventos importantes de los últimos 50 años.
+2. **Análisis** (15 min): Analizá los roles de gobiernos, agencias de la ONU, pueblos indígenas y ONGs.
+3. **Creación** (25 min): Creá una línea de tiempo visual con todos los eventos.
+4. **Presentación** (15 min): Compartí tu línea de tiempo con el grupo.
 
 ## Cierre
 - ¿Qué eventos te parecieron más importantes y por qué?
@@ -182,16 +182,3 @@ Aprende sobre importantes conferencias y eventos relacionados con el cambio clim
 - ¿Qué compromiso adquieres para involucrarte en acciones climáticas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

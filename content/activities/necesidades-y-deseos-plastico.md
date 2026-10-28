@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Necesidades y deseos"
+title: "Necesidades y Deseos"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/necesidades-y-deseos-plastico/"
 description: "Los jóvenes analizan sus patrones de consumo de plásticos y aprenden a diferenciar entre productos necesarios y aquellos que se pueden evitar, promoviendo un consumo más sostenible."
-summary: "Aprende a diferenciar entre lo que necesitas y lo que deseas."
+summary: "Aprendé a diferenciar entre lo que necesitás y lo que deseás."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/necesidades-y-deseos-plastico.png"
+image: "/imagenes/actividades/necesidades-y-deseos-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -168,7 +168,7 @@ rama_rovers:
 
 ---
 
-# ¡Necesidades y deseos!
+# ¡Necesidades y Deseos!
 
 ## Resumen
 La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente, lo que genera un rápido crecimiento en el consumo de recursos. Esta actividad ayuda a los jóvenes a diferenciar entre el nivel de necesidad de los productos de plástico desechables, algunos de los cuales pueden no ser necesarios pero se compran de todos modos, promoviendo un consumo más consciente y sostenible.
@@ -176,7 +176,7 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 ## Preparación
 1. Preparar fotocopias de la "Ficha de observación de consumo doméstico".
 2. Preparar fotocopias de la "Hoja de trabajo de reflexión y acción".
-3. Tener bolígrafos para todos los participantes.
+3. Tener lapiceras para todos los participantes.
 
 ## Desarrollo
 
@@ -198,18 +198,18 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 ## Cierre
 1. ¿Qué productos plásticos podrías dejar de comprar fácilmente?
 2. ¿Qué aprendiste sobre tus hábitos de consumo?
-3. ¿Qué acciones concretas puedes tomar para reducir tu consumo de plásticos?
+3. ¿Qué acciones concretas podés tomar para reducir tu consumo de plásticos?
 
 ## Ficha de observación de consumo doméstico
 
 | Fecha de compra | Alimentos y bebidas | Juguetes / Juegos | Papelería | Otros |
 |-----------------|---------------------|-------------------|-----------|-------|
-| 11/11/19 (ej.) | Paquete de galletas | Bloques (plástico) | Bolígrafo | Maquinillas de afeitar |
+| 11/11/19 (ej.) | Paquete de galletas | Bloques (plástico) | Bolígrafo | Afeitadoras descartables |
 | | Agua embotellada | Juegos de mesa | Caja de lápices | Marcos de fotos |
 
 ## Hoja de trabajo de reflexión y acción
 
-| Producto | ¿Es necesario o desechable? | ¿Se puede reutilizar? | ¿Cómo se elimina? | ¿Puedes prescindir de esto? | ¿Hay mejor alternativa? |
+| Producto | ¿Es necesario o desechable? | ¿Se puede reutilizar? | ¿Cómo se elimina? | ¿Podés prescindir de esto? | ¿Hay mejor alternativa? |
 |----------|----------------------------|----------------------|-------------------|----------------------------|-------------------------|
 | Agua embotellada | Desechable | No | Residuos secos | Sí | Purificador de agua |
 
@@ -246,18 +246,3 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

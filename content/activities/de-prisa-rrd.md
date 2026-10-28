@@ -3,7 +3,7 @@ title: "¡De Prisa!"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/de-prisa-rrd/"
-description: "Investiga las categorías de huracanes y cómo prepararse para ellos."
+description: "Investigá las categorías de huracanes y cómo prepararse para ellos."
 summary: "Investigación sobre huracanes y su categorización."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/de-prisa-rrd.png"
+image: "/imagenes/actividades/de-prisa-rrd.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -150,23 +150,23 @@ rama_rovers:
 # ¡De Prisa!
 
 ## Resumen
-Investiga las categorías de huracanes, cómo las miden los científicos y cómo puedes prepararte para ellos.
+Investigá las categorías de huracanes, cómo las miden los científicos y cómo podés prepararte para ellos.
 
 ## Preparación
-1. Investiga las categorías de viento de huracanes.
-2. Busca información sobre el peor huracán registrado.
-3. Prepara materiales para tu presentación.
+1. Investigá las categorías de viento de huracanes.
+2. Buscá información sobre el peor huracán registrado.
+3. Prepará materiales para tu presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Averigua las categorías y cómo se miden.
-2. **Análisis** (15 min): Investiga el peor huracán registrado y sus daños.
-3. **Creación** (15 min): Crea una página web o presentación.
-4. **Presentación** (5 min): Comparte tu trabajo con la clase o familia.
+1. **Investigación** (25 min): Averiguá las categorías y cómo se miden.
+2. **Análisis** (15 min): Investigá el peor huracán registrado y sus daños.
+3. **Creación** (15 min): Creá una página web o presentación.
+4. **Presentación** (5 min): Compartí tu trabajo con la clase o familia.
 
 ## Cierre
 - ¿Cuáles son las categorías de huracanes?
 - ¿Qué daños puede causar cada categoría?
-- ¿Cómo puedes prepararte para un huracán?
+- ¿Cómo podés prepararte para un huracán?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Investiga las categorías de huracanes, cómo las miden los científicos y cómo
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

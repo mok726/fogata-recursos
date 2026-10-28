@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de supervivencia"
+title: "Juego de Supervivencia"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-supervivencia/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-de-supervivencia.png"
+image: "/imagenes/actividades/juego-de-supervivencia.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -166,26 +166,26 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Juego de supervivencia!
+# ¡Juego de Supervivencia!
 
 ## Resumen
-Las dinámicas de predador-presa son importantes para un funcionamiento saludable del ecosistema. Juega el juego de supervivencia con tu grupo.
+Las dinámicas de predador-presa son importantes para un funcionamiento saludable del ecosistema. Jugá el juego de supervivencia con tu grupo.
 
 ## Preparación
-1. Revisa las reglas del juego en los enlaces proporcionados.
-2. Organiza el espacio de juego.
-3. Asigna roles a los participantes.
+1. Revisá las reglas del juego en los enlaces proporcionados.
+2. Organizá el espacio de juego.
+3. Asigná roles a los participantes.
 
 ## Desarrollo
-1. Juega el juego de supervivencia.
-2. Reflexiona: ¿Qué pasa cuando una especie se extingue?
-3. Reflexiona: ¿Qué rol juegan las enfermedades?
-4. Reflexiona: ¿Qué efectos tienen los seres humanos?
-5. Reflexiona: ¿Cómo afectaría el cambio climático?
+1. Jugá el juego de supervivencia.
+2. Reflexioná: ¿Qué pasa cuando una especie se extingue?
+3. Reflexioná: ¿Qué rol juegan las enfermedades?
+4. Reflexioná: ¿Qué efectos tienen los seres humanos?
+5. Reflexioná: ¿Cómo afectaría el cambio climático?
 
 ## Cierre
-1. Comparte tus reflexiones con el grupo.
-2. Discute las lecciones aprendidas.
+1. Compartí tus reflexiones con el grupo.
+2. Discutí las lecciones aprendidas.
 3. Pregunta final: ¿Qué podemos aprender de las dinámicas ecológicas?
 
 ## Texto original completo de la actividad
@@ -194,16 +194,3 @@ C.07 Las dinámicas de predador-presa son importantes para un funcionamiento sal
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

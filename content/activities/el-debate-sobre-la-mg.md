@@ -3,8 +3,8 @@ title: "El Debate sobre la MG"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-debate-sobre-la-mg/"
-description: "Investiga y debate sobre la modificación genética en la agricultura."
-summary: "Debate sobre modificación genética."
+description: "Investigá y debate sobre la modificación genética en la agricultura."
+summary: "Debatí sobre modificación genética."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/el-debate-sobre-la-mg.png"
+image: "/imagenes/actividades/el-debate-sobre-la-mg.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -142,17 +142,17 @@ rama_rovers:
 # ¡El Debate sobre la MG!
 
 ## Resumen
-Investiga y debate sobre la modificación genética en la agricultura y su impacto en el suelo.
+Investigá y debate sobre la modificación genética en la agricultura y su impacto en el suelo.
 
 ## Preparación
-1. Investiga sobre la modificación genética en la agricultura.
-2. Prepara argumentos para el debate.
-3. Reúne materiales para el reportaje.
+1. Investigá sobre la modificación genética en la agricultura.
+2. Prepará argumentos para el debate.
+3. Reuní materiales para el reportaje.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga sobre la MG.
-2. **Debate** (20 min): Debate sobre la MG.
-3. **Reportaje** (10 min): Presenta tus hallazgos.
+1. **Investigación** (25 min): Investigá sobre la MG.
+2. **Debate** (20 min): Debatí sobre la MG.
+3. **Reportaje** (10 min): Presentá tus hallazgos.
 4. **Conclusión** (5 min): Resume las posiciones.
 
 ## Cierre
@@ -168,16 +168,3 @@ Investiga y debate sobre la modificación genética en la agricultura y su impac
 nivel 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

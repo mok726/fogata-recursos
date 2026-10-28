@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Uso de la biodiversidad"
+title: "Uso de la Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/uso-de-la-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/uso-de-la-biodiversidad.png"
+image: "/imagenes/actividades/uso-de-la-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -159,24 +159,24 @@ rama_rovers:
   - 29  # Indago causas de injusticias y problemáticas sociales
 ---
 
-# ¡Uso de la biodiversidad!
+# ¡Uso de la Biodiversidad!
 
 ## Resumen
-Diferentes grupos de personas utilizan y conservan la biodiversidad de formas diferentes. Encuentra tres ejemplos de cómo hombres y mujeres o personas que viven en la ciudad y otras que viven en el campo utilizan la biodiversidad de distintas maneras.
+Diferentes grupos de personas utilizan y conservan la biodiversidad de formas diferentes. Encontrá tres ejemplos de cómo hombres y mujeres o personas que viven en la ciudad y otras que viven en el campo utilizan la biodiversidad de distintas maneras.
 
 ## Preparación
-1. Investiga sobre usos de la biodiversidad.
-2. Prepara ejemplos de diferentes grupos.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre usos de la biodiversidad.
+2. Prepará ejemplos de diferentes grupos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo diferentes grupos usan la biodiversidad.
-2. Encuentra ejemplos: hombres vs mujeres, urbanos vs rurales.
-3. Compara las diferencias.
+1. Investigá cómo diferentes grupos usan la biodiversidad.
+2. Encontrá ejemplos: hombres vs mujeres, urbanos vs rurales.
+3. Compará las diferencias.
 
 ## Cierre
-1. Comparte tus ejemplos con el grupo.
-2. Reflexiona: ¿Por qué existen estas diferencias?
+1. Compartí tus ejemplos con el grupo.
+2. Reflexioná: ¿Por qué existen estas diferencias?
 3. Pregunta final: ¿Cómo podemos aprender unos de otros?
 
 ## Texto original completo de la actividad
@@ -185,16 +185,3 @@ D.08 Diferentes grupos de personas utilizan y conservan la biodiversidad de form
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

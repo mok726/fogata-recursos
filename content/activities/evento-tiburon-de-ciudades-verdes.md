@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Evento Tiburón de ciudades verdes"
+title: "Evento Tiburón de Ciudades Verdes"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/evento-tiburon-de-ciudades-verdes/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/evento-tiburon-de-ciudades-verdes.png"
+image: "/imagenes/actividades/evento-tiburon-de-ciudades-verdes.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -183,10 +183,10 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Evento Tiburón de ciudades verdes!
+# ¡Evento Tiburón de Ciudades Verdes!
 
 ## Resumen
-¿Cuál crees que es el mayor desafío de tu ciudad? ¿Tenés ideas para resolverlo? ¡Ahora es tu momento de proponer nuevas ideas, soluciones y productos! Profundizá para llegar al corazón del problema. Luego, pasá una semana elaborando una idea para solucionarlo. Organizá un evento tipo "Shark Tank" donde presentes tus ideas frente a jueces.
+¿Cuál creés que es el mayor desafío de tu ciudad? ¿Tenés ideas para resolverlo? ¡Ahora es tu momento de proponer nuevas ideas, soluciones y productos! Profundizá para llegar al corazón del problema. Luego, pasá una semana elaborando una idea para solucionarlo. Organizá un evento tipo "Shark Tank" donde presentes tus ideas frente a jueces.
 
 ## Preparación
 1. Investigá el problema que querés resolver.
@@ -233,20 +233,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

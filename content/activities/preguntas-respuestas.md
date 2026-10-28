@@ -3,7 +3,7 @@ title: "Preguntas & Respuestas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/preguntas-respuestas/"
-description: "Simula una entrevista entre un agricultor y un reportero sobre el suelo."
+description: "Simulá una entrevista entre un agricultor y un reportero sobre el suelo."
 summary: "Simulación de entrevista sobre el suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/preguntas-respuestas.png"
+image: "/imagenes/actividades/preguntas-respuestas.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Preguntas & Respuestas!
 
 ## Resumen
-Simula una entrevista entre un agricultor y un reportero sobre las condiciones del suelo en un país.
+Simulá una entrevista entre un agricultor y un reportero sobre las condiciones del suelo en un país.
 
 ## Preparación
-1. Forma parejas: un agricultor y un reportero.
+1. Formá parejas: un agricultor y un reportero.
 2. Cada agricultor investiga sobre el suelo en su país.
 3. Cada reportero prepara preguntas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Prepara tu rol.
+1. **Investigación** (20 min): Prepará tu rol.
 2. **Entrevista** (20 min): Conduce la entrevista.
-3. **Artículo** (15 min): Escribe un artículo sobre el suelo del país.
-4. **Periódico** (5 min): Compila los artículos en un periódico.
+3. **Artículo** (15 min): Escribí un artículo sobre el suelo del país.
+4. **Periódico** (5 min): Compilá los artículos en un periódico.
 
 ## Cierre
 - ¿Qué condiciones de suelo encontraste?
@@ -172,16 +172,3 @@ Simula una entrevista entre un agricultor y un reportero sobre las condiciones d
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

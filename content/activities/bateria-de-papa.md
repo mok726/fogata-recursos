@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Batería de papa"
+title: "Batería de Papa"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/bateria-de-papa/"
-description: "Construye una batería casera usando una papa, un clavo, una moneda y cables para aprender cómo funciona la electricidad."
-summary: "Crea electricidad con una papa."
+description: "Construí una batería casera usando papas, clavos galvanizados, trozos de cobre y cables para aprender cómo funciona la electricidad."
+summary: "Creá electricidad con una papa."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bateria-de-papa.png"
+image: "/imagenes/actividades/bateria-de-papa.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -31,11 +31,11 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - 1 papa
-  - 1 clavo
-  - 1 moneda
+  - 2 o 3 papas
+  - Clavos galvanizados (con zinc)
+  - Trozos de cobre (cable de cobre pelado; las monedas argentinas actuales no son de cobre)
   - Cables de metal
-  - Linterna o bombilla pequeña
+  - Un LED pequeño
 tools:
   - Tijeras o pelacables (con supervisión)
 responsible:
@@ -162,40 +162,40 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Batería de papa!
+# ¡Batería de Papa!
 
 ## Resumen
-¿Tienes curiosidad sobre la electricidad? Construye tu propia batería casera usando una papa, un clavo, una moneda y cables. ¡Aprende cómo funciona la electricidad mientras te diviertes!
+¿Tenés curiosidad sobre la electricidad? Construí tu propia batería casera usando papas, clavos galvanizados, trozos de cobre y cables. ¡Aprendé cómo funciona la electricidad mientras te divertís!
 
 ## Preparación
-1. Reúne los materiales: papa, clavo, moneda, cables y linterna.
-2. Busca un adulto para que te ayude con objetos punzantes.
-3. Sigue las instrucciones cuidadosamente.
+1. Reuní los materiales: papas, clavos galvanizados, trozos de cobre, cables y un LED.
+2. Buscá un adulto para que te ayude con objetos punzantes.
+3. Seguí las instrucciones cuidadosamente.
 
 ## Desarrollo
 
 ### Parte I - Preparar la papa
-1. Introduce el clavo en un lado de la papa.
-2. Introduce la moneda en el otro lado de la papa.
-3. Asegúrate de que no se toquen.
+1. Introducí el clavo en un lado de la papa.
+2. Introducí el cobre en el otro lado de la papa.
+3. Asegurate de que no se toquen.
 
 ### Parte II - Conectar los cables
-1. Conecta un cable al clavo.
-2. Conecta otro cable a la moneda.
-3. Conecta los cables a una linterna pequeña.
+1. Conectá un cable al clavo.
+2. Conectá otro cable al cobre.
+3. Con una sola papa la corriente es muy baja: conecta 2 o 3 papas en serie (el clavo de una con el cobre de la siguiente) y los extremos a un LED (la pata larga al cobre).
 
 ### Parte III - Probar
-¡La linterna debería encenderse!
+¡El LED debería encender débilmente! Una linterna o lamparita común no va a encender: necesita mucha más corriente.
 
 **¿Cómo funciona?**
-Los ácidos de la papa reaccionan con el metal del clavo y la moneda, creando una pequeña corriente eléctrica.
+El zinc del clavo y el cobre reaccionan a través del jugo de la papa, que hace de electrolito, y eso genera una pequeña corriente eléctrica. La papa no es la fuente de energía: lo es el zinc que se oxida.
 
 ### Parte IV - Reflexionar
 ¿Qué otros alimentos podrían funcionar como batería?
 
 ## Cierre
 1. ¿Qué pasó cuando conectaste los cables?
-2. ¿Por qué crees que funcionó?
+2. ¿Por qué creés que funcionó?
 3. ¿Qué otras cosas podrías usar para hacer una batería?
 
 ## Texto original completo de la actividad
@@ -230,20 +230,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

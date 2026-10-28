@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ejercicio de mapeo urbano"
+title: "Ejercicio de Mapeo Urbano"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ejercicio-de-mapeo-urbano/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ejercicio-de-mapeo-urbano.png"
+image: "/imagenes/actividades/ejercicio-de-mapeo-urbano.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -162,10 +162,10 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Ejercicio de mapeo urbano!
+# ¡Ejercicio de Mapeo Urbano!
 
 ## Resumen
-Dividanse en grupos de cuatro a cinco miembros y traten de que haya equilibrio de género en lo posible. Como equipo, creen un mapa 2D que represente su vecindario o su ciudad. Pueden decidir libremente qué enfatizar o qué incluir. Recuerden que se los alienta a reflejar sus pensamientos sobre los componentes del entorno físico, por ejemplo, los caminos, los bordes, los distritos, los nodos y los puntos de referencia de su ciudad.
+Divídanse en grupos de cuatro a cinco miembros y traten de que haya equilibrio de género en lo posible. Como equipo, creen un mapa 2D que represente su vecindario o su ciudad. Pueden decidir libremente qué enfatizar o qué incluir. Recuerden que se los alienta a reflejar sus pensamientos sobre los componentes del entorno físico, por ejemplo, los caminos, los bordes, los distritos, los nodos y los puntos de referencia de su ciudad.
 
 ## Preparación
 1. Formen grupos de 4 a 5 personas.
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/documental-acidificacion-oceanos.png"
+image: "/imagenes/actividades/documental-acidificacion-oceanos.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -172,27 +172,27 @@ translation_notice:
 La acidificación de los océanos es uno de los efectos más graves del cambio climático. El CO₂ que emitimos a la atmósfera se disuelve en el océano, haciéndolo más ácido y afectando a organismos marinos como corales, moluscos y plancton. En esta actividad, los participantes ven un documental sobre la acidificación de los océanos y reflexionan sobre sus causas, consecuencias y posibles soluciones.
 
 ## Preparación
-1. Asegúrate de tener acceso a Internet y un proyector.
-2. Prepara la página web del documental.
+1. Asegurate de tener acceso a Internet y un proyector.
+2. Prepará la página web del documental.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a ver un documental sobre la acidificación de los océanos.
+1. Explicá a tu grupo que van a ver un documental sobre la acidificación de los océanos.
 
 ### Paso 2: Visualización
-2. Ve el documental "Acid Test: The Global Challenge of Ocean Acidification" en:
+2. Andá el documental "Acid Test: The Global Challenge of Ocean Acidification" en:
    - https://www.oceanacidification.net/go-deeper/
-3. Pide a los participantes que tomen notas de palabras clave mientras ven el video.
+3. Pedí a los participantes que tomen notas de palabras clave mientras ven el video.
 
 ### Paso 3: Brainstorming y discusión
 4. Una vez finalizado el video, pide a tu grupo que haga una lluvia de ideas sobre los conceptos principales y haz una lista en la pizarra.
-5. Usa la lista para fomentar la discusión.
+5. Usá la lista para fomentar la discusión.
 
 ## Cierre
 - ¿Cuáles son las causas de la acidificación de los océanos?
 - ¿Cuáles podrían ser las consecuencias para el medio ambiente y para los seres humanos?
-- ¿Qué cosas puedes hacer para prevenir esto?
+- ¿Qué cosas podés hacer para prevenir esto?
 
 ## Texto original completo de la actividad
 
@@ -250,21 +250,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[26,28], scouts[34,35], caminantes[30,31], rovers[31,33])

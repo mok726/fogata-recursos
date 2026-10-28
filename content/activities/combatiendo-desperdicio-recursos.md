@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Combatiendo el desperdicio de recursos"
+title: "Combatiendo el Desperdicio de Recursos"
 duration: "2-4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/combatiendo-desperdicio-recursos/"
 description: "Los participantes construyen un sistema de clasificación de residuos para su grupo scout o su hogar, aprendiendo sobre reciclaje y gestión sostenible de recursos."
-summary: "Construye un sistema de clasificación de residuos."
+summary: "Construí un sistema de clasificación de residuos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/combatiendo-desperdicio-recursos.png"
+image: "/imagenes/actividades/combatiendo-desperdicio-recursos.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -171,15 +171,15 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Combatiendo el desperdicio de recursos
+# Combatiendo el Desperdicio de Recursos
 
 ## Resumen
 Construí un sistema de clasificación de residuos para tu grupo scout o tu casa. Podés clasificar tus residuos en: vidrio, metal, papel, cartón, pilas y plásticos. Para hacer cada uno de los contenedores podés usar cajas, tachos de pintura vacíos, cajones de gaseosa y hasta bolsas. ¡No te olvides de usar tu imaginación para crear el sistema de clasificación de residuos más óptimo para vos y tu comunidad!
 
 ## Preparación
-1. Reúne los materiales reciclados para construir los contenedores.
-2. Investiga cómo se clasifican los residuos en tu localidad (puedes consultar con tu centro de reciclaje local).
-3. Prepara los materiales de arte para decorar.
+1. Reuní los materiales reciclados para construir los contenedores.
+2. Investigá cómo se clasifican los residuos en tu localidad (podés consultar con tu centro de reciclaje local).
+3. Prepará los materiales de arte para decorar.
 
 ## Desarrollo
 
@@ -231,17 +231,3 @@ Construí un sistema de clasificación de residuos para tu grupo scout o tu casa
 **ODS involucrados:** 2, 4, 12, 13, 15
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adivinanzas sobre el clima"
+title: "Adivinanzas sobre el Clima"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/adivinanzas-sobre-el-clima/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/adivinanzas-sobre-el-clima.png"
+image: "/imagenes/actividades/adivinanzas-sobre-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -158,15 +158,15 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Adivinanzas sobre el clima!
+# ¡Adivinanzas sobre el Clima!
 
 ## Resumen
 En grupo, creen un conjunto de cartas y escriban una palabra relacionada con el clima en cada una, como 'gas de efecto invernadero', 'calentamiento global' y 'sequía'. ¡Sean tan creativos como puedan!
 
 ## Preparación
-1. Prepara tarjetas en blanco.
-2. Reúne palabras relacionadas con el clima para incluir en el juego.
-3. Organiza los equipos.
+1. Prepará tarjetas en blanco.
+2. Reuní palabras relacionadas con el clima para incluir en el juego.
+3. Organizá los equipos.
 
 ## Desarrollo
 1. Cada participante escribe una palabra relacionada con el clima en una tarjeta.
@@ -174,7 +174,7 @@ En grupo, creen un conjunto de cartas y escriban una palabra relacionada con el 
 3. Jueguen un juego de adivinanzas donde cada persona debe actuar la palabra de su carta, mientras su equipo debe adivinar qué son.
 
 ## Cierre
-1. Reflexiona: ¿Qué palabras fueron más fáciles o difíciles de adivinar?
+1. Reflexioná: ¿Qué palabras fueron más fáciles o difíciles de adivinar?
 2. Discutan el significado de las palabras que aparecieron en el juego.
 3. Pregunta final: ¿Qué palabra nueva sobre el clima aprendiste hoy?
 
@@ -184,16 +184,3 @@ B.07 ADIVINANZAS SOBRE EL CLIMA. En grupo, creen un conjunto de cartas y escriba
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -3,7 +3,7 @@ title: "Campaña por el Océano"
 duration: "90 minutos + tiempo de campaña"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-por-el-oceano/"
-description: "Organiza una campaña de concienciación sobre un problema del océano en tu comunidad."
+description: "Organizá una campaña de concienciación sobre un problema del océano en tu comunidad."
 summary: "Campaña de concienciación sobre el océano."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/campana-por-el-oceano.png"
+image: "/imagenes/actividades/campana-por-el-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -155,19 +155,19 @@ rama_rovers:
 # ¡Campaña por el Océano!
 
 ## Resumen
-Organiza una campaña de concienciación sobre un problema que afecta al océano en tu área local o a nivel global.
+Organizá una campaña de concienciación sobre un problema que afecta al océano en tu área local o a nivel global.
 
 ## Preparación
-1. Identifica un problema del océano que quieras abordar.
-2. Define tu público objetivo.
-3. Planifica cómo vas a llegar a ellos.
+1. Identificá un problema del océano que quieras abordar.
+2. Definí tu público objetivo.
+3. Planificá cómo vas a llegar a ellos.
 
 ## Desarrollo
-1. **Discusión** (15 min): Identifica el problema y define los objetivos.
-2. **Planificación** (30 min): Diseña la campaña (carteles, evento, cartas, etc.).
-3. **Creación** (30 min): Prepara los materiales de la campaña.
-4. **Ejecución** (15 min): Lleva a cabo la campaña (cronograma según disponibilidad).
-5. **Evaluación** (10 min): Evalúa los resultados y el impacto.
+1. **Discusión** (15 min): Identificá el problema y definí los objetivos.
+2. **Planificación** (30 min): Diseñá la campaña (carteles, evento, cartas, etc.).
+3. **Creación** (30 min): Prepará los materiales de la campaña.
+4. **Ejecución** (15 min): Llevá a cabo la campaña (cronograma según disponibilidad).
+5. **Evaluación** (10 min): Evaluá los resultados y el impacto.
 
 ## Cierre
 - ¿Qué aprendiste al organizar la campaña?
@@ -188,16 +188,3 @@ Existen muchas maneras en las cuales puedes llegar a tu público. Puedes empezar
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

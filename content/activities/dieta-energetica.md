@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dieta energética"
+title: "Dieta Energética"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dieta-energetica/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dieta-energetica.png"
+image: "/imagenes/actividades/dieta-energetica.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,27 +162,27 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Dieta energética!
+# ¡Dieta Energética!
 
 ## Resumen
-Haz una 'dieta energética' durante dos semanas. Crea un plan para reducir tu consumo de energía en tu hogar, cuando te trasladas de un lugar a otro y a la escuela. Llévalo a cabo.
+Hacé una 'dieta energética' durante dos semanas. Creá un plan para reducir tu consumo de energía en tu hogar, cuando te trasladás de un lugar a otro y a la escuela. Llevalo a cabo.
 
 ## Preparación
-1. Revisa tu consumo de energía actual.
-2. Crea un plan para reducirlo.
-3. Prepara un cuaderno para registrar los ahorros.
+1. Revisá tu consumo de energía actual.
+2. Creá un plan para reducirlo.
+3. Prepará un cuaderno para registrar los ahorros.
 
 ## Desarrollo
-1. Crea un plan para reducir tu consumo de energía.
-2. Lleva a cabo el plan durante dos semanas.
-3. Registra: ¿Cuánta energía logra ahorrar cada acción?
-4. Reflexiona: ¿Cómo contribuyes a salvar la biodiversidad cuando utilizas menos energía?
-5. Desafía a tus amigos y a tu familia a probar tu plan.
+1. Creá un plan para reducir tu consumo de energía.
+2. Llevá a cabo el plan durante dos semanas.
+3. Registrá: ¿Cuánta energía logra ahorrar cada acción?
+4. Reflexioná: ¿Cómo contribuís a salvar la biodiversidad cuando utilizás menos energía?
+5. Desafiá a tus amigos y a tu familia a probar tu plan.
 
 ## Cierre
-1. Comparte tus resultados con el grupo.
-2. Reflexiona: ¿Qué acción fue más efectiva?
-3. Pregunta final: ¿Cómo puedes mantener estos hábitos a largo plazo?
+1. Compartí tus resultados con el grupo.
+2. Reflexioná: ¿Qué acción fue más efectiva?
+3. Pregunta final: ¿Cómo podés mantener estos hábitos a largo plazo?
 
 ## Texto original completo de la actividad
 A.15 Haz una 'dieta energética' durante dos semanas. Crea un plan para reducir tu consumo de energía en tu hogar, cuando te trasladas de un lugar a otro y a la escuela. Llévalo a cabo. ¿Cuánta energía logra ahorrar cada acción? ¿Cómo contribuyes a salvar la biodiversidad cuando utilizas menos energía y una menor cantidad de recursos? Desafía a tus amigos y a tu familia a probar tu plan.
@@ -190,16 +190,3 @@ A.15 Haz una 'dieta energética' durante dos semanas. Crea un plan para reducir 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

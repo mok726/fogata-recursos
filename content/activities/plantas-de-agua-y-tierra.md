@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plantas de agua y tierra"
+title: "Plantas de Agua y Tierra"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-de-agua-y-tierra/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/plantas-de-agua-y-tierra.png"
+image: "/imagenes/actividades/plantas-de-agua-y-tierra.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -161,25 +161,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Plantas de agua y tierra!
+# ¡Plantas de Agua y Tierra!
 
 ## Resumen
-Haz un dibujo o saca fotografías de dos plantas: una que viva en la tierra y otra que viva en el agua. Etiqueta las diferentes partes de cada planta (por ejemplo, flor, tallo, lámina, zarcillo, etc.).
+Hacé un dibujo o sacá fotografías de dos plantas: una que viva en la tierra y otra que viva en el agua. Etiquetá las diferentes partes de cada planta (por ejemplo, flor, tallo, lámina, zarcillo, etc.).
 
 ## Preparación
-1. Identifica una planta terrestre y una acuática para observar.
-2. Prepara materiales para dibujar.
-3. Organiza los grupos de trabajo.
+1. Identificá una planta terrestre y una acuática para observar.
+2. Prepará materiales para dibujar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Busca una planta terrestre y una planta acuática.
-2. Dibuja o fotografía ambas plantas.
-3. Etiqueta las diferentes partes de cada planta.
-4. Compara: ¿En qué se asemejan las plantas? ¿En qué se diferencian?
+1. Buscá una planta terrestre y una planta acuática.
+2. Dibujá o fotografía ambas plantas.
+3. Etiquetá las diferentes partes de cada planta.
+4. Compará: ¿En qué se asemejan las plantas? ¿En qué se diferencian?
 
 ## Cierre
-1. Comparte tus dibujos con el grupo.
-2. Discute las similitudes y diferencias.
+1. Compartí tus dibujos con el grupo.
+2. Discutí las similitudes y diferencias.
 3. Pregunta final: ¿Qué adaptaciones tienen las plantas acuáticas?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ B.03 Haz un dibujo o saca fotografías de dos plantas: una que viva en la tierra
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

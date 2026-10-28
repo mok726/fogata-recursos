@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Audita tus hábitos de uso de plástico"
+title: "Auditá Tus Hábitos de Uso de Plástico"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/audita-tus-habitos-plastico/"
 description: "Una actividad de reflexión para evaluar y reducir el uso de plásticos de un solo uso en la vida cotidiana, aplicando las 3R: reducir, reutilizar y reemplazar."
-summary: "Evalúa y reduce tu huella de plástico."
+summary: "Evaluá y reducí tu huella de plástico."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/audita-tus-habitos-plastico.png"
+image: "/imagenes/actividades/audita-tus-habitos-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - World Scout Bureau"
 version: "0.99"
@@ -162,10 +162,10 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación y protección ambiental
 ---
 
-# ¡Audita tus hábitos de uso de plástico!
+# ¡Auditá Tus Hábitos de Uso de Plástico!
 
 ## Resumen
-Esta actividad te hará pensar cómo puedes disminuir el uso de plástico en tu vida cotidiana y cómo contagiar a los demás a que hagan lo mismo. Es una actividad obligatoria para comenzar el Desafío Tide Turners Plastic.
+Esta actividad te hará pensar cómo podés disminuir el uso de plástico en tu vida cotidiana y cómo contagiar a los demás a que hagan lo mismo. Es una actividad obligatoria para comenzar el Desafío Tide Turners Plastic.
 
 ## Preparación
 1. El facilitador debe introducir el concepto de las **tres R**: Reducir, Reutilizar y Reemplazar tus artículos de plástico.
@@ -176,14 +176,14 @@ Esta actividad te hará pensar cómo puedes disminuir el uso de plástico en tu 
 ### Paso 1: Reflexión individual (5 minutos)
 Cada participante piensa en:
 - ¿El plástico gobierna tu vida o tu huella de plástico es microscópica?
-- ¿En qué momento del día usas más plástico?
-- ¿Qué objetos de plástico de un solo uso usas con frecuencia?
+- ¿En qué momento del día usás más plástico?
+- ¿Qué objetos de plástico de un solo uso usás con frecuencia?
 
 ### Paso 2: Diálogo grupal (10 minutos)
 El facilitador presenta preguntas para iniciar una conversación:
 - ¿Qué artículos de plástico de un solo uso podrías eliminar de tu vida?
 - ¿Cuáles alternativas al plástico podrías usar?
-- ¿Cómo puedes motivar a otros a reducir su uso de plástico?
+- ¿Cómo podés motivar a otros a reducir su uso de plástico?
 
 ### Paso 3: Compromiso personal (5 minutos)
 Cada participante se compromete a:
@@ -194,7 +194,7 @@ Cada participante se compromete a:
 ## Cierre
 1. ¿Qué aprendiste sobre tus hábitos de consumo de plástico?
 2. ¿Qué fue lo más difícil de identificar?
-3. ¿Cómo te sientes al asumir este compromiso?
+3. ¿Cómo te sentís al asumir este compromiso?
 4. ¿Qué harás para mantener este cambio en el tiempo?
 
 ## Texto original completo de la actividad
@@ -227,18 +227,3 @@ Cada participante se compromete a:
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados (no aplica)
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

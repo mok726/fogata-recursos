@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exploración en la copa - versión paseo"
+title: "Exploración en la Copa - Versión Paseo"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-en-la-copa-version-paseo/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/exploracion-en-la-copa-version-paseo.png"
+image: "/imagenes/actividades/exploracion-en-la-copa-version-paseo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,24 +162,24 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Exploración en la copa - versión paseo!
+# ¡Exploración en la Copa - Versión Paseo!
 
 ## Resumen
 Exploren la biodiversidad que vive fuera del suelo. Caminen por el vecindario con un par de binoculares si es posible. ¿Qué ven justo arriba del suelo en los arbustos? ¿Qué habita en el aire entre los árboles y la yerba? ¿Qué existe en la copa (parte superior del árbol)?
 
 ## Preparación
-1. Prepara binoculares si es posible.
-2. Planifica la ruta del paseo.
-3. Prepara cuadernos para registrar observaciones.
+1. Prepará binoculares si es posible.
+2. Planificá la ruta del paseo.
+3. Prepará cuadernos para registrar observaciones.
 
 ## Desarrollo
-1. Camina por el vecindario observando la biodiversidad aérea.
-2. Observa: ¿Qué hay justo arriba del suelo en los arbustos?
-3. Observa: ¿Qué habita en el aire entre los árboles y la yerba?
-4. Observa: ¿Qué existe en la copa de los árboles?
-5. Reflexiona: ¿Cómo consiguen subir a la rama estas criaturas?
-6. Reflexiona: ¿Por qué estas criaturas viven por encima del suelo?
-7. Reflexiona: ¿Cómo interactúan entre ellas para conseguir comida y refugio?
+1. Caminá por el vecindario observando la biodiversidad aérea.
+2. Observá: ¿Qué hay justo arriba del suelo en los arbustos?
+3. Observá: ¿Qué habita en el aire entre los árboles y la yerba?
+4. Observá: ¿Qué existe en la copa de los árboles?
+5. Reflexioná: ¿Cómo consiguen subir a la rama estas criaturas?
+6. Reflexioná: ¿Por qué estas criaturas viven por encima del suelo?
+7. Reflexioná: ¿Cómo interactúan entre ellas para conseguir comida y refugio?
 
 ## Cierre
 1. Discutan sus respuestas con el grupo.
@@ -192,16 +192,3 @@ A.02 Exploren la biodiversidad que vive fuera del suelo. Caminen por el vecindar
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

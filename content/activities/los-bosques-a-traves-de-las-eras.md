@@ -4,7 +4,7 @@ title: "Los Bosques a Través de las Eras"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-a-traves-de-las-eras/"
-description: "Investiga plantas forestales de un período histórico (Jurásico, Cretáceo, etc.). Compáralas con sus familiares modernos."
+description: "Investigá plantas forestales de un período histórico (Jurásico, Cretáceo, etc.). Comparalas con sus familiares modernos."
 summary: "Investigación sobre plantas forestales a través de la historia."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-bosques-a-traves-de-las-eras.png"
+image: "/imagenes/actividades/los-bosques-a-traves-de-las-eras.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -165,18 +165,18 @@ rama_rovers:
 # Los Bosques a Través de las Eras
 
 ## Resumen
-Investiga plantas forestales de un período histórico (Jurásico, Cretáceo, etc.). Compáralas con sus familiares modernos.
+Investigá plantas forestales de un período histórico (Jurásico, Cretáceo, etc.). Comparalas con sus familiares modernos.
 
 ## Preparación
-1. Elige un período de la historia (Jurásico, Cretáceo, etc.).
-2. Investiga plantas forestales que vivieron en ese tiempo.
-3. Prepara material para comparar con plantas modernas.
+1. Elegí un período de la historia (Jurásico, Cretáceo, etc.).
+2. Investigá plantas forestales que vivieron en ese tiempo.
+3. Prepará material para comparar con plantas modernas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga plantas del período elegido.
-2. **Análisis** (15 min): Compara con plantas modernas (tamaño, características, diversidad).
-3. **Reflexión** (15 min): Piensa por qué han cambiado las plantas.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (20 min): Investigá plantas del período elegido.
+2. **Análisis** (15 min): Compará con plantas modernas (tamaño, características, diversidad).
+3. **Reflexión** (15 min): Pensá por qué han cambiado las plantas.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué diferencias encontraste entre plantas antiguas y modernas?
@@ -184,16 +184,3 @@ Investiga plantas forestales de un período histórico (Jurásico, Cretáceo, et
 - ¿Qué compromiso adquieres para aprender más sobre la historia de los bosques?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

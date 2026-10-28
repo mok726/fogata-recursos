@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Súbelo al blog!"
+title: "¡Subilo al Blog!"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/subelo-al-blog/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/subelo-al-blog.png"
+image: "/imagenes/actividades/subelo-al-blog.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,27 +159,27 @@ rama_rovers:
   - 8  # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Súbelo al blog!
+# ¡Subilo al Blog!
 
 ## Resumen
 Creen un blog de su grupo sobre el cambio climático. Pueden escribir sobre la forma en que los humanos están causando el cambio climático y sobre la importancia de tener unos estilos de vida más verdes.
 
 ## Preparación
-1. Crea un blog en una plataforma gratuita.
-2. Reúne contenido para las primeras publicaciones.
-3. Organiza los roles y tareas.
+1. Creá un blog en una plataforma gratuita.
+2. Reuní contenido para las primeras publicaciones.
+3. Organizá los roles y tareas.
 
 ## Desarrollo
-1. Escribe sobre las causas del cambio climático.
-2. Escribe sobre la importancia de estilos de vida verdes.
-3. Anima el blog con poesía, ensayos e historias.
-4. Actualiza el blog con consejos para ahorrar energía.
-5. Comparte noticias sobre el cambio climático.
+1. Escribí sobre las causas del cambio climático.
+2. Escribí sobre la importancia de estilos de vida verdes.
+3. Animá el blog con poesía, ensayos e historias.
+4. Actualizá el blog con consejos para ahorrar energía.
+5. Compartí noticias sobre el cambio climático.
 
 ## Cierre
-1. Envía el link a tus amigos y familia.
-2. Invítalos a seguir y comentar en el blog.
-3. Pregunta final: ¿Cómo puedes mantener el blog activo?
+1. Enviá el link a tus amigos y familia.
+2. Invitalos a seguir y comentar en el blog.
+3. Pregunta final: ¿Cómo podés mantener el blog activo?
 
 ## Texto original completo de la actividad
 E.17 ¡Súbelo al blog! Creen un blog de su grupo sobre el cambio climático. Pueden escribir sobre la forma en que los humanos están causando el cambio climático y sobre la importancia de tener unos estilos de vida más verdes. Animen un poco el blog con poesía, ensayos e historias acerca del cambio climático que hayan sido escritos por todos los miembros del grupo. Sean creativos -por qué no actualizar el blog cada día con un consejo diferente para ahorrar energía o una noticia sobre el cambio climático. Envíen el link a sus amigos y familia e invítenlos a seguir y a comentar en su blog.
@@ -187,16 +187,3 @@ E.17 ¡Súbelo al blog! Creen un blog de su grupo sobre el cambio climático. Pu
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Discusiones saludables"
+title: "Discusiones Saludables"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/discusiones-saludables/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/discusiones-saludables.png"
+image: "/imagenes/actividades/discusiones-saludables.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -158,26 +158,26 @@ rama_rovers:
   - 22 # Promuevo y defiendo Derechos Humanos
 ---
 
-# ¡Discusiones saludables!
+# ¡Discusiones Saludables!
 
 ## Resumen
 Se espera que el cambio climático aumente la propagación de varias enfermedades, incluyendo la malaria, la diarrea y la fiebre del dengue.
 
 ## Preparación
-1. Investiga sobre enfermedades relacionadas con el cambio climático.
-2. Prepara recursos y fuentes de información.
-3. Organiza el panel de discusión.
+1. Investigá sobre enfermedades relacionadas con el cambio climático.
+2. Prepará recursos y fuentes de información.
+3. Organizá el panel de discusión.
 
 ## Desarrollo
-1. Lee sobre las enfermedades que podrían propagarse debido al cambio climático y por qué.
-2. Investiga: ¿Qué sucede en estas enfermedades, cómo se propagan y quién se ve más afectado?
-3. Investiga: ¿En qué áreas prevalecen más?
-4. Investiga: ¿Estas enfermedades ya están en aumento en ciertos lugares?
-5. Investiga: ¿Cómo se puede afrontar este problema?
+1. Leé sobre las enfermedades que podrían propagarse debido al cambio climático y por qué.
+2. Investigá: ¿Qué sucede en estas enfermedades, cómo se propagan y quién se ve más afectado?
+3. Investigá: ¿En qué áreas prevalecen más?
+4. Investigá: ¿Estas enfermedades ya están en aumento en ciertos lugares?
+5. Investigá: ¿Cómo se puede afrontar este problema?
 
 ## Cierre
-1. Invita a tus amigos, familia y compañeros de clase a una noche de preguntas & respuestas.
-2. Tú y tu grupo formarán un panel y contestarán preguntas.
+1. Invitá a tus amigos, familia y compañeros de clase a una noche de preguntas & respuestas.
+2. Vos y tu grupo formarán un panel y contestarán preguntas.
 3. Pregunta final: ¿Cómo podemos protegernos de las enfermedades relacionadas con el clima?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ C.16 DISCUSIONES SALUDABLES. Se espera que el cambio climático aumente la propa
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

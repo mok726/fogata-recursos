@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mapa de contaminación"
+title: "Mapa de Contaminación"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mapa-de-contaminacion/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mapa-de-contaminacion.png"
+image: "/imagenes/actividades/mapa-de-contaminacion.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -161,25 +161,25 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Mapa de contaminación!
+# ¡Mapa de Contaminación!
 
 ## Resumen
-Dibuja un mapa de tu comunidad. Incluye características naturales, como bosques y ríos, así como características humanas, como edificios y carreteras. Identifica en tu mapa las posibles fuentes de contaminación.
+Dibujá un mapa de tu comunidad. Incluí características naturales, como bosques y ríos, así como características humanas, como edificios y carreteras. Identificá en tu mapa las posibles fuentes de contaminación.
 
 ## Preparación
-1. Prepara papel grande y materiales de dibujo.
-2. Identifica las características principales de tu comunidad.
-3. Organiza los grupos de trabajo.
+1. Prepará papel grande y materiales de dibujo.
+2. Identificá las características principales de tu comunidad.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Dibuja un mapa de tu comunidad.
-2. Incluye características naturales y humanas.
-3. Identifica fuentes de contaminación (puntuales y difusas).
-4. Dibuja flechas para vincular las fuentes de contaminación con la biodiversidad afectada.
-5. Reflexiona: ¿Cómo afecta la contaminación a la biodiversidad?
+1. Dibujá un mapa de tu comunidad.
+2. Incluí características naturales y humanas.
+3. Identificá fuentes de contaminación (puntuales y difusas).
+4. Dibujá flechas para vincular las fuentes de contaminación con la biodiversidad afectada.
+5. Reflexioná: ¿Cómo afecta la contaminación a la biodiversidad?
 
 ## Cierre
-1. Comparte tus descubrimientos con tu grupo.
+1. Compartí tus descubrimientos con tu grupo.
 2. Discutan: ¿Qué se puede hacer para minimizar la contaminación?
 3. Pregunta final: ¿Cómo podemos reducir la contaminación en nuestra comunidad?
 
@@ -189,16 +189,3 @@ A.17 Dibuja un mapa de tu comunidad. Incluye características naturales, como bo
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

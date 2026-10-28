@@ -1,9 +1,9 @@
 ---
-title: "Electrodomésticos ahorradores de energía"
+title: "Electrodomésticos Ahorradores de Energía"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/electrodomesticos-ahorradores-de-energia/"
-description: "Investiga y recomienda electrodomésticos ahorradores de energía."
+description: "Investigá y recomienda electrodomésticos ahorradores de energía."
 summary: "Electrodomésticos eficientes."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/electrodomesticos-ahorradores-de-energia.png"
+image: "/imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -143,26 +143,26 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Electrodomésticos ahorradores de energía!
+# ¡Electrodomésticos Ahorradores de Energía!
 
 ## Resumen
-Investiga electrodomésticos ahorradores de energía y recomienda opciones a tu familia.
+Investigá electrodomésticos ahorradores de energía y recomienda opciones a tu familia.
 
 ## Preparación
-1. Identifica electrodomésticos que tu familia planea comprar.
-2. Investiga sobre etiquetas de eficiencia energética.
-3. Prepara materiales para la presentación.
+1. Identificá electrodomésticos que tu familia planea comprar.
+2. Investigá sobre etiquetas de eficiencia energética.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga electrodomésticos eficientes.
-2. **Comparación** (15 min): Compara modelos y etiquetas.
-3. **Recomendación** (15 min): Presenta tus hallazgos a tu familia.
-4. **Compartir** (10 min): Comparte con el grupo.
+1. **Investigación** (20 min): Investigá electrodomésticos eficientes.
+2. **Comparación** (15 min): Compará modelos y etiquetas.
+3. **Recomendación** (15 min): Presentá tus hallazgos a tu familia.
+4. **Compartir** (10 min): Compartí con el grupo.
 
 ## Cierre
 - ¿Qué electrodomésticos ahorran más energía?
 - ¿Qué etiquetas de certificación se usan en tu país?
-- ¿Cómo puedes ayudar a tu familia a elegir mejor?
+- ¿Cómo podés ayudar a tu familia a elegir mejor?
 
 ---
 ## Texto original completo de la actividad
@@ -172,16 +172,3 @@ Investiga electrodomésticos ahorradores de energía y recomienda opciones a tu 
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

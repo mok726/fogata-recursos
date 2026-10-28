@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Canta para la Cena"
+title: "Cantá para la Cena"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/canta-para-la-cena/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/canta-para-la-cena.png"
+image: "/imagenes/actividades/canta-para-la-cena.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,21 +169,21 @@ rama_rovers:
   - 2   # Disfruto y participo de las actividades recreativas, lúdicas, físicas y deportivas.
 ---
 
-# Canta para la Cena
+# Cantá para la Cena
 
 ## Resumen
 Compón una canción con letra nueva sobre nutrición usando una melodía conocida.
 
 ## Preparación
-1. Escoge una canción conocida como base.
-2. Prepara material para escribir la letra.
-3. Piensa en mensajes sobre nutrición.
+1. Escogé una canción conocida como base.
+2. Prepará material para escribir la letra.
+3. Pensá en mensajes sobre nutrición.
 
 ## Desarrollo
-1. **Inspiración** (10 min): Escucha ejemplos de parodias musicales.
-2. **Composición** (20 min): Escribe una letra nueva centrada en la nutrición.
-3. **Ensayo** (15 min): Ensaya la canción con tu grupo.
-4. **Presentación** (15 min): Canta la canción en la próxima reunión.
+1. **Inspiración** (10 min): Escuchá ejemplos de parodias musicales.
+2. **Composición** (20 min): Escribí una letra nueva centrada en la nutrición.
+3. **Ensayo** (15 min): Ensayá la canción con tu grupo.
+4. **Presentación** (15 min): Cantá la canción en la próxima reunión.
 
 ## Cierre
 - ¿Qué mensaje sobre nutrición incluiste en tu canción?
@@ -191,16 +191,3 @@ Compón una canción con letra nueva sobre nutrición usando una melodía conoci
 - ¿Qué compromiso adquieres para seguir usando el arte para educar?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

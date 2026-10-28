@@ -3,7 +3,7 @@ title: "Letrero No Propagandas"
 duration: "15 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/letrero-no-propagandas/"
-description: "Diseña un letrero para reducir el papel no deseado."
+description: "Diseñá un letrero para reducir el papel no deseado."
 summary: "Reducción de publicidad no deseada."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/letrero-no-propagandas.png"
+image: "/imagenes/actividades/letrero-no-propagandas.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -141,19 +141,19 @@ rama_rovers: []
 # ¡Letrero "No Propagandas"!
 
 ## Resumen
-Diseña un letrero para reducir el papel no deseado y colócalo en tu buzón.
+Diseñá un letrero para reducir el papel no deseado y colocalo en tu buzón.
 
 ## Preparación
-- Consigue cartulina y marcadores.
-- Piensa en el diseño del letrero.
+- Conseguí cartulina y marcadores.
+- Pensá en el diseño del letrero.
 
 ## Desarrollo
-1. **Diseño** (10 min): Crea el letrero.
-2. **Colocación** (5 min): Ponlo en tu buzón.
+1. **Diseño** (10 min): Creá el letrero.
+2. **Colocación** (5 min): Ponelo en tu buzón.
 
 ## Cierre
-- ¿Cómo te sientes al reducir el papel no deseado?
-- ¿Qué más puedes hacer para ahorrar papel?
+- ¿Cómo te sentís al reducir el papel no deseado?
+- ¿Qué más podés hacer para ahorrar papel?
 
 ---
 ## Texto original completo de la actividad
@@ -163,16 +163,3 @@ Diseña un letrero para reducir el papel no deseado y colócalo en tu buzón.
 NIVEL 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

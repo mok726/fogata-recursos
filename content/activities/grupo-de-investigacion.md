@@ -1,9 +1,9 @@
 ---
-title: "Grupo de investigación"
+title: "Grupo de Investigación"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/grupo-de-investigacion/"
-description: "Diseña y lleva a cabo tu propio grupo de investigación sobre el cambio climático."
+description: "Diseñá y lleva a cabo tu propio grupo de investigación sobre el cambio climático."
 summary: "Grupo de investigación climática."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/grupo-de-investigacion.png"
+image: "/imagenes/actividades/grupo-de-investigacion.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 materials:
   - Acceso a internet
   - Instrumentos de medición
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,21 +145,21 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¡Grupo de investigación!
+# ¡Grupo de Investigación!
 
 ## Resumen
-Diseña y lleva a cabo tu propio grupo de investigación sobre el cambio climático.
+Diseñá y lleva a cabo tu propio grupo de investigación sobre el cambio climático.
 
 ## Preparación
-1. Define el tema de investigación.
-2. Prepara instrumentos de medición.
-3. Organiza el grupo.
+1. Definí el tema de investigación.
+2. Prepará instrumentos de medición.
+3. Organizá el grupo.
 
 ## Desarrollo
-1. **Planificación** (20 min): Diseña la investigación.
-2. **Medición** (tiempo variable): Realiza mediciones.
-3. **Análisis** (20 min): Analiza los datos.
-4. **Compartir** (15 min): Comparte los resultados.
+1. **Planificación** (20 min): Diseñá la investigación.
+2. **Medición** (tiempo variable): Realizá mediciones.
+3. **Análisis** (20 min): Analizá los datos.
+4. **Compartir** (15 min): Compartí los resultados.
 
 ## Cierre
 - ¿Qué investigaste?
@@ -174,16 +174,3 @@ Diseña y lleva a cabo tu propio grupo de investigación sobre el cambio climát
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

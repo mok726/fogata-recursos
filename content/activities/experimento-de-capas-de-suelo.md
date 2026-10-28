@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de capas de suelo"
+title: "Experimento de Capas de Suelo"
 duration: "6-8 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-capas-de-suelo/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/experimento-de-capas-de-suelo.png"
+image: "/imagenes/actividades/experimento-de-capas-de-suelo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,26 +165,26 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Experimento de capas de suelo!
+# ¡Experimento de Capas de Suelo!
 
 ## Resumen
-Averigua qué tipo de tierra prefieren las plantas con un experimento. Cava un hoyo de 50cm de profundidad. Llena una maceta con la primera capa de la tierra, tomada de los primeros 2cm. Llena una segunda maceta con tierra del subsuelo recogida a unos 15cm por debajo de la superficie. Llena una tercera maceta con tierra del subsuelo tomada 50cm por debajo de la superficie. Cultiva una planta en cada una de las macetas y traza su crecimiento durante 6 a 8 semanas.
+Averiguá qué tipo de tierra prefieren las plantas con un experimento. Cavá un hoyo de 50cm de profundidad. Llená una maceta con la primera capa de la tierra, tomada de los primeros 2cm. Llená una segunda maceta con tierra del subsuelo recogida a unos 15cm por debajo de la superficie. Llená una tercera maceta con tierra del subsuelo tomada 50cm por debajo de la superficie. Cultivá una planta en cada una de las macetas y trazá su crecimiento durante 6 a 8 semanas.
 
 ## Preparación
-1. Cava un hoyo de 50cm de profundidad.
-2. Recolecta tierra de diferentes profundidades.
-3. Prepara las tres macetas.
+1. Cavá un hoyo de 50cm de profundidad.
+2. Recolectá tierra de diferentes profundidades.
+3. Prepará las tres macetas.
 
 ## Desarrollo
-1. Llena cada maceta con tierra de diferente profundidad.
-2. Planta una semilla o plantín en cada maceta.
-3. Riega y cuida las plantas.
-4. Traza el crecimiento durante 6 a 8 semanas.
+1. Llená cada maceta con tierra de diferente profundidad.
+2. Plantá una semilla o plantín en cada maceta.
+3. Regá y cuidá las plantas.
+4. Trazá el crecimiento durante 6 a 8 semanas.
 
 ## Cierre
-1. Compara el crecimiento de las plantas.
-2. Reflexiona: ¿Por qué hay diferencias?
-3. Reflexiona: ¿Por qué la erosión superficial es una preocupación?
+1. Compará el crecimiento de las plantas.
+2. Reflexioná: ¿Por qué hay diferencias?
+3. Reflexioná: ¿Por qué la erosión superficial es una preocupación?
 4. Pregunta final: ¿Cómo podemos proteger la capa superficial del suelo?
 
 ## Texto original completo de la actividad
@@ -193,16 +193,3 @@ C.15 Averigua qué tipo de tierra prefieren las plantas con un experimento. Cava
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Descubriendo la naturaleza con Seek de iNaturalist"
+title: "Descubriendo la Naturaleza con Seek de iNaturalist"
 duration: "20-30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/seek-inaturalist/"
 description: "Los participantes utilizan la aplicación Seek de iNaturalist para identificar especies de vida silvestre y plantas en su entorno natural."
-summary: "Identifica especies con tu celular."
+summary: "Identificá especies con tu celular."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/seek-inaturalist.png"
+image: "/imagenes/actividades/seek-inaturalist.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -159,15 +159,17 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Descubriendo la naturaleza con Seek de iNaturalist!
+# ¡Descubriendo la Naturaleza con Seek de iNaturalist!
 
 ## Resumen
 Los participantes serán invitados a utilizar la aplicación durante otras actividades al aire libre en el evento / reunión para descubrir el entorno natural que los rodea. Al final de la actividad, los participantes deberían entender la importancia de la biodiversidad y cómo los jóvenes pueden tomar medidas para preservarla.
 
 ## Preparación
-1. Instala la aplicación Seek de iNaturalist en los dispositivos móviles.
-2. Prepara un video tutorial de la aplicación.
-3. Organiza una actividad al aire libre donde puedan usar la aplicación.
+1. Instalá la aplicación Seek de iNaturalist en los dispositivos móviles.
+2. Prepará un video tutorial de la aplicación.
+3. Organizá una actividad al aire libre donde puedan usar la aplicación.
+
+> **Nota para el educador (privacidad):** con menores, configurá la app para que la ubicación de las observaciones se vea oculta o aproximada ("oscurecida"), y que no se suban fotos donde aparezcan caras de los chicos.
 
 ## Desarrollo
 
@@ -181,8 +183,8 @@ Los participantes deben aprender sobre al menos tres especies de vida silvestre 
 Al completar la actividad, discutirán lo que han aprendido sobre estas especies.
 
 ## Cierre
-1. ¿Crees que esta aplicación puede ser útil para desarrollar actividades en tu grupo local?
-2. ¿En qué tipo de actividades puedes utilizar esta aplicación?
+1. ¿Creés que esta aplicación puede ser útil para desarrollar actividades en tu grupo local?
+2. ¿En qué tipo de actividades podés utilizar esta aplicación?
 3. ¿Cómo puede ayudarte esta aplicación a proteger la biodiversidad del planeta?
 
 ## Texto original completo de la actividad
@@ -231,17 +233,3 @@ Se encuentra disponible un kit de herramientas "Ciencia Ciudadana para Nuestro P
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

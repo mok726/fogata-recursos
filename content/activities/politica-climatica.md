@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Política climática"
+title: "Política Climática"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/politica-climatica/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/politica-climatica.png"
+image: "/imagenes/actividades/politica-climatica.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -158,25 +158,25 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Política climática!
+# ¡Política Climática!
 
 ## Resumen
 ¿Qué tipo de políticas de gobierno existen en tu país que buscan promover la energía renovable o disminuir las emisiones de gases de efecto invernadero?
 
 ## Preparación
-1. Investiga sobre políticas climáticas en tu país.
-2. Prepara preguntas para la discusión.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre políticas climáticas en tu país.
+2. Prepará preguntas para la discusión.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Averigua si tienen políticas, incentivos financieros, estándares energéticos o iniciativas de educación financiadas por tu gobierno.
-2. Reflexiona: ¿Cómo se pueden mejorar las políticas?
-3. Propón: ¿Qué tipo de políticas recomendarías?
-4. Discute con tu grupo para ver qué tipo de ideas logran elaborar todos juntos.
+1. Averiguá si tienen políticas, incentivos financieros, estándares energéticos o iniciativas de educación financiadas por tu gobierno.
+2. Reflexioná: ¿Cómo se pueden mejorar las políticas?
+3. Proponé: ¿Qué tipo de políticas recomendarías?
+4. Discutí con tu grupo para ver qué tipo de ideas logran elaborar todos juntos.
 
 ## Cierre
 1. Compartan sus ideas con el grupo.
-2. Reflexiona: ¿Creen que es importante tener políticas que traten el cambio climático?
+2. Reflexioná: ¿Creen que es importante tener políticas que traten el cambio climático?
 3. Pregunta final: ¿Cómo pueden los jóvenes influir en las políticas climáticas?
 
 ## Texto original completo de la actividad
@@ -185,16 +185,3 @@ E.19 Política climática. ¿Qué tipo de políticas de gobierno existen en tu p
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "Planificador de Comidas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/planificador-de-comidas/"
-description: "Planifica un menú del día para un compañero, considerando sus necesidades nutricionales y actividad física."
+description: "Planificá un menú del día para un compañero, considerando sus necesidades nutricionales y actividad física."
 summary: "Planificación de menús personalizados."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/planificador-de-comidas.png"
+image: "/imagenes/actividades/planificador-de-comidas.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ rama_rovers:
 # Planificador de Comidas
 
 ## Resumen
-Planifica un menú del día para un compañero, considerando sus necesidades nutricionales y actividad física.
+Planificá un menú del día para un compañero, considerando sus necesidades nutricionales y actividad física.
 
 ## Preparación
-1. Forma parejas con tu grupo.
-2. Cada persona anota su peso, altura y nivel de actividad física.
-3. Prepara material para planificar el menú.
+1. Formá parejas con tu grupo.
+2. Cada persona anota su edad y su nivel de actividad física. El peso y la altura no se comparten entre compañeros: es un dato sensible (imagen corporal, burlas).
+3. Prepará material para planificar el menú.
 
 ## Desarrollo
-1. **Análisis** (10 min): Analiza las necesidades de tu compañero.
+1. **Análisis** (10 min): Analizá las necesidades de tu compañero.
 2. **Planificación** (20 min): Planea un menú del día (comidas y aperitivos).
-3. **Preparación** (opcional): Prepara las comidas siguiendo el menú.
-4. **Debate** (15 min): Reúnete y discute sobre los menús.
+3. **Preparación** (opcional): Prepará las comidas siguiendo el menú.
+4. **Debate** (15 min): Reunite y discute sobre los menús.
 5. **Reflexión** (10 min): ¿Es algo que podrías seguir con regularidad?
 
 ## Cierre
@@ -190,16 +190,3 @@ Planifica un menú del día para un compañero, considerando sus necesidades nut
 - ¿Qué compromiso adquieres para planificar mejor tus comidas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

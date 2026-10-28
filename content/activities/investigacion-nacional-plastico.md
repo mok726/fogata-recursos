@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigación nacional sobre plásticos"
+title: "Investigación Nacional sobre Plásticos"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-nacional-plastico/"
-description: "Investiga la situación de la contaminación plástica en tu país y crea un informe con recomendaciones para políticas públicas."
-summary: "Analiza la situación de los plásticos en tu país."
+description: "Investigá la situación de la contaminación plástica en tu país y creá un informe con recomendaciones para políticas públicas."
+summary: "Analizá la situación de los plásticos en tu país."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigacion-nacional-plastico.png"
+image: "/imagenes/actividades/investigacion-nacional-plastico.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -164,20 +164,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigación nacional sobre plásticos!
+# ¡Investigación Nacional sobre Plásticos!
 
 ## Resumen
-Investiga la situación de la contaminación plástica en tu país. Analiza cuánto plástico se produce, qué pasa con los residuos y qué políticas existen. Crea un informe con recomendaciones para mejorar la situación.
+Investigá la situación de la contaminación plástica en tu país. Analizá cuánto plástico se produce, qué pasa con los residuos y qué políticas existen. Creá un informe con recomendaciones para mejorar la situación.
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Identifica fuentes confiables para tu investigación.
-3. Prepara herramientas para organizar datos.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Identificá fuentes confiables para tu investigación.
+3. Prepará herramientas para organizar datos.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga la situación de tu país con respecto a la contaminación plástica:
+Investigá la situación de tu país con respecto a la contaminación plástica:
 
 **Preguntas guía:**
 - ¿Cuántos residuos plásticos produce tu país cada año?
@@ -196,21 +196,21 @@ Investiga la situación de tu país con respecto a la contaminación plástica:
 - Sitios web de gobierno local y agencias ambientales
 
 ### Parte II - Análisis
-Analiza tus hallazgos y considera:
+Analizá tus hallazgos y considerá:
 - ¿Qué políticas podrían ser efectivas en tu país?
-- ¿Qué factores culturales, tradiciones y hábitos debes considerar?
+- ¿Qué factores culturales, tradiciones y hábitos debés considerar?
 
 ### Parte III - Crear informe
-Crea un informe, presentación o infográfico con tus hallazgos.
+Creá un informe, presentación o infográfico con tus hallazgos.
 
 ### Parte IV - Compartir
-Comparte tus hallazgos en redes sociales con un llamado a la acción.
-Etiqueta a personas y agencias relevantes.
+Compartí tus hallazgos en redes sociales con un llamado a la acción.
+Etiquetá a personas y agencias relevantes.
 
 ## Cierre
 1. ¿Qué fue lo que más te sorprendió de la situación de tu país?
-2. ¿Qué política crees que tendría más impacto?
-3. ¿Qué puedes hacer como ciudadano para impulsar el cambio?
+2. ¿Qué política creés que tendría más impacto?
+3. ¿Qué podés hacer como ciudadano para impulsar el cambio?
 
 ## Texto original completo de la actividad
 
@@ -268,20 +268,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

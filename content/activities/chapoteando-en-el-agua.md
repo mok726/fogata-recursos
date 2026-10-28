@@ -3,7 +3,7 @@ title: "Chapoteando en el Agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/chapoteando-en-el-agua/"
-description: "Observa los charcos después de la lluvia y descubre la vida que los habita."
+description: "Observá los charcos después de la lluvia y descubrí la vida que los habita."
 summary: "Observación de charcos y vida acuática."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/chapoteando-en-el-agua.png"
+image: "/imagenes/actividades/chapoteando-en-el-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -142,21 +142,21 @@ rama_rovers: []
 # ¡Chapoteando en el Agua!
 
 ## Resumen
-Observa los charcos que se forman después de la lluvia y descubre qué insectos y animales viven dentro o alrededor de ellos.
+Observá los charcos que se forman después de la lluvia y descubrí qué insectos y animales viven dentro o alrededor de ellos.
 
 ## Preparación
-- Espera a que llueva para encontrar charcos.
-- Prepara papel y lápices de colores para dibujar.
+- Esperá a que llueva para encontrar charcos.
+- Prepará papel y lápices de colores para dibujar.
 
 ## Desarrollo
-1. **Observación** (15 min): Busca charcos cerca de tu casa.
-2. **Registro** (10 min): Dibuja la vida dentro y alrededor del charco más interesante.
-3. **Monitoreo** (5 min): Registra cuánto tarda en secarse.
+1. **Observación** (15 min): Buscá charcos cerca de tu casa.
+2. **Registro** (10 min): Dibujá la vida dentro y alrededor del charco más interesante.
+3. **Monitoreo** (5 min): Registrá cuánto tarda en secarse.
 
 ## Cierre
 - ¿Qué animales encontraste en el charco?
-- ¿Qué crees que sucede cuando el charco se seca?
-- ¿A dónde crees que se van los insectos?
+- ¿Qué creés que sucede cuando el charco se seca?
+- ¿A dónde creés que se van los insectos?
 
 ---
 ## Texto original completo de la actividad
@@ -166,16 +166,3 @@ Observa los charcos que se forman después de la lluvia y descubre qué insectos
 nivel 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

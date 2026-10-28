@@ -4,7 +4,7 @@ title: "Bosques Llenos de Vida"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bosques-llenos-de-vida/"
-description: "Prepara un reporte de investigación sobre un bosque de tu área. Presenta tus hallazgos creativamente."
+description: "Prepará un reporte de investigación sobre un bosque de tu área. Presentá tus hallazgos creativamente."
 summary: "Investigación y presentación creativa sobre un bosque local."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bosques-llenos-de-vida.png"
+image: "/imagenes/actividades/bosques-llenos-de-vida.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -171,18 +171,18 @@ rama_rovers:
 # Bosques Llenos de Vida
 
 ## Resumen
-Prepara un reporte de investigación sobre un bosque de tu área. Presenta tus hallazgos creativamente, como una obra de teatro, un noticiero, un sitio web o un póster.
+Prepará un reporte de investigación sobre un bosque de tu área. Presentá tus hallazgos creativamente, como una obra de teatro, un noticiero, un sitio web o un póster.
 
 ## Preparación
-1. Elige un bosque de tu área para investigar.
-2. Prepara el material para la investigación.
-3. Define el formato de presentación creativa.
+1. Elegí un bosque de tu área para investigar.
+2. Prepará el material para la investigación.
+3. Definí el formato de presentación creativa.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga el tipo de bosque, su importancia cultural, medios de subsistencia que sustenta y amenazas.
-2. **Análisis** (15 min): Analiza qué están haciendo las personas para proteger el bosque.
-3. **Creación** (25 min): Prepara tu presentación creativa.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (30 min): Investigá el tipo de bosque, su importancia cultural, medios de subsistencia que sustenta y amenazas.
+2. **Análisis** (15 min): Analizá qué están haciendo las personas para proteger el bosque.
+3. **Creación** (25 min): Prepará tu presentación creativa.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el bosque de tu área?
@@ -190,16 +190,3 @@ Prepara un reporte de investigación sobre un bosque de tu área. Presenta tus h
 - ¿Qué compromiso adquieres para cuidar el bosque local?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

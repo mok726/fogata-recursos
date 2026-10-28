@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mundo de carbono"
+title: "Mundo de Carbono"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/mundo-de-carbono/"
-description: "Explora un área natural local y observa plantas, animales, agua y suelo para entender cómo se mueve el carbono en la naturaleza."
-summary: "Descubre el ciclo del carbono en tu entorno."
+description: "Explorá un área natural local y observá plantas, animales, agua y suelo para entender cómo se mueve el carbono en la naturaleza."
+summary: "Descubrí el ciclo del carbono en tu entorno."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mundo-de-carbono.png"
+image: "/imagenes/actividades/mundo-de-carbono.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -166,20 +166,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Mundo de carbono!
+# ¡Mundo de Carbono!
 
 ## Resumen
-Aprende sobre el ciclo del carbono y visita un área natural local (bosque, reserva, playa, granja o parque). Observa plantas, animales, agua y plantas muertas para entender cómo el carbono circula en la naturaleza.
+Aprendé sobre el ciclo del carbono y visita un área natural local (bosque, reserva, playa, granja o parque). Observá plantas, animales, agua y plantas muertas para entender cómo el carbono circula en la naturaleza.
 
 ## Preparación
-1. Lee la información sobre el ciclo del carbono en la sección de información de fondo.
-2. Elige un lugar natural para visitar.
-3. Prepara materiales para tomar notas y dibujar.
+1. Leé la información sobre el ciclo del carbono en la sección de información de fondo.
+2. Elegí un lugar natural para visitar.
+3. Prepará materiales para tomar notas y dibujar.
 
 ## Desarrollo
 
 ### Parte I - Aprender
-Aprende sobre el ciclo del carbono:
+Aprendé sobre el ciclo del carbono:
 
 - **El carbono está en todas partes**: en el aire (CO₂), en plantas, animales, agua y suelo
 - **Las plantas** absorben carbono del aire
@@ -188,7 +188,7 @@ Aprende sobre el ciclo del carbono:
 - **El carbono** viaja constantemente entre el aire, la tierra y los seres vivos
 
 ### Parte II - Explorar
-Visita un área natural y observa:
+Visitá un área natural y observá:
 
 **Preguntas guía:**
 - ¿Qué plantas ves? ¿Cómo obtienen carbono?
@@ -197,7 +197,7 @@ Visita un área natural y observa:
 - ¿Ves plantas muertas u hojas caídas? ¿Qué les pasa?
 
 ### Parte III - Crear un póster
-Crea un póster que explique cómo cada animal y planta obtiene carbono y cómo lo libera de vuelta a la naturaleza.
+Creá un póster que explique cómo cada animal y planta obtiene carbono y cómo lo libera de vuelta a la naturaleza.
 
 ## Cierre
 1. ¿Qué parte del ciclo del carbono pudiste ver en tu salida?
@@ -232,20 +232,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

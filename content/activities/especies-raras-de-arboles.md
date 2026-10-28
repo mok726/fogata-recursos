@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies raras de árboles"
+title: "Especies Raras de Árboles"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-raras-de-arboles/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/especies-raras-de-arboles.png"
+image: "/imagenes/actividades/especies-raras-de-arboles.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -165,26 +165,26 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Especies raras de árboles!
+# ¡Especies Raras de Árboles!
 
 ## Resumen
-Busca especies raras de árboles nativos en tu área. ¿Por qué son raras? ¿Qué especies de animales usan estos árboles para obtener alimento y refugio? Elige una de estas especies de árboles y planta una en un lugar apropiado.
+Buscá especies raras de árboles nativos en tu área. ¿Por qué son raras? ¿Qué especies de animales usan estos árboles para obtener alimento y refugio? Elegí una de estas especies de árboles y planta una en un lugar apropiado.
 
 ## Preparación
-1. Investiga especies raras de árboles nativos.
-2. Identifica un lugar para plantar.
-3. Obtén un árbol de la especie elegida.
+1. Investigá especies raras de árboles nativos.
+2. Identificá un lugar para plantar.
+3. Obtené un árbol de la especie elegida.
 
 ## Desarrollo
-1. Busca especies raras de árboles nativos.
-2. Investiga por qué son raras.
-3. Investiga qué animales dependen de ellas.
-4. Planta un árbol de la especie elegida.
-5. Cuida el árbol plantado.
+1. Buscá especies raras de árboles nativos.
+2. Investigá por qué son raras.
+3. Investigá qué animales dependen de ellas.
+4. Plantá un árbol de la especie elegida.
+5. Cuidá el árbol plantado.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona sobre la importancia de conservar especies raras.
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná sobre la importancia de conservar especies raras.
 3. Pregunta final: ¿Cómo ayuda la plantación de árboles a la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -193,16 +193,3 @@ C.27 Busca especies raras de árboles nativos en tu área. ¿Por qué son raras?
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

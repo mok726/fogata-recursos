@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ciudades verdes en el cine"
+title: "Ciudades Verdes en el Cine"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciudades-verdes-en-el-cine/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ciudades-verdes-en-el-cine.png"
+image: "/imagenes/actividades/ciudades-verdes-en-el-cine.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -167,7 +167,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Ciudades verdes en el cine!
+# ¡Ciudades Verdes en el Cine!
 
 ## Resumen
 ¿Cómo se ve una ciudad verde? ¡Intentá encontrar la respuesta en el cine! Organizá una proyección grupal. Después de verla, discutí la película: ¿Cómo la describirías? ¿Cómo se convirtió en una ciudad verde?
@@ -230,20 +230,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Jardín amigo de la biodiversidad"
+title: "Jardín Amigo de la Biodiversidad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-amigo-de-la-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/jardin-amigo-de-la-biodiversidad.png"
+image: "/imagenes/actividades/jardin-amigo-de-la-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -166,25 +166,25 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Jardín amigo de la biodiversidad!
+# ¡Jardín Amigo de la Biodiversidad!
 
 ## Resumen
-Crea un jardín amigo de la biodiversidad que ofrezca muchos hogares para las especies. Utiliza objetos reciclados o materiales que de otra forma terminarían en la basura. Puedes preparar casas para abejas con paja de bambú atada, las casas para sapos se pueden hacer con una vieja tetera enterrada hasta la mitad. ¡Usa tu imaginación!
+Creá un jardín amigo de la biodiversidad que ofrezca muchos hogares para las especies. Utilizá objetos reciclados o materiales que de otra forma terminarían en la basura. Podés preparar casas para abejas con paja de bambú atada, las casas para sapos se pueden hacer con una vieja tetera enterrada hasta la mitad. ¡Usá tu imaginación!
 
 ## Preparación
-1. Reúne objetos reciclados.
-2. Identifica un espacio en el jardín.
-3. Planifica los diferentes hábitats.
+1. Reuní objetos reciclados.
+2. Identificá un espacio en el jardín.
+3. Planificá los diferentes hábitats.
 
 ## Desarrollo
-1. Crea casas para abejas con paja de bambú.
-2. Crea casas para sapos con teteras viejas.
-3. Crea otros hábitats con tu imaginación.
-4. Observa la vida salvaje que decide ubicar su residencia.
+1. Creá casas para abejas con paja de bambú.
+2. Creá casas para sapos con teteras viejas.
+3. Creá otros hábitats con tu imaginación.
+4. Observá la vida salvaje que decide ubicar su residencia.
 
 ## Cierre
-1. Comparte tu jardín con el grupo.
-2. Reflexiona: ¿Qué especies visitaron tu jardín?
+1. Compartí tu jardín con el grupo.
+2. Reflexioná: ¿Qué especies visitaron tu jardín?
 3. Pregunta final: ¿Cómo puede tu jardín ayudar a la biodiversidad local?
 
 ## Texto original completo de la actividad
@@ -193,16 +193,3 @@ C.23 Crea un jardín amigo de la biodiversidad que ofrezca muchos hogares para l
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

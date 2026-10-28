@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Identificando alternativas a los plásticos"
+title: "Identificando Alternativas a los Plásticos"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/identificando-alternativas-plastico/"
 description: "Los jóvenes identifican productos plásticos de un solo uso y buscan alternativas sostenibles, aprendiendo a reducir su consumo de plásticos en la vida cotidiana."
-summary: "Encuentra alternativas sostenibles a los plásticos."
+summary: "Encontrá alternativas sostenibles a los plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/identificando-alternativas-plastico.png"
+image: "/imagenes/actividades/identificando-alternativas-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -168,14 +168,14 @@ rama_rovers:
 
 ---
 
-# ¡Identificando alternativas a los plásticos!
+# ¡Identificando Alternativas a los Plásticos!
 
 ## Resumen
 Esta actividad ayuda a los jóvenes a reducir el uso de productos plásticos mediante la identificación de mejores alternativas para los plásticos de un solo uso. A través de una dinámica grupal, aprenderán que es posible encontrar opciones más sostenibles para la mayoría de los productos plásticos.
 
 ## Preparación
 1. Preparar una pizarra o papelógrafo.
-2. Tener listas hojas y bolígrafos para los participantes.
+2. Tener listas hojas y lapiceras para los participantes.
 3. Explicar el concepto de plástico desechable antes de comenzar.
 
 ## Desarrollo
@@ -231,18 +231,3 @@ Esta actividad ayuda a los jóvenes a reducir el uso de productos plásticos med
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

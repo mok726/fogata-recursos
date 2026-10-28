@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juega a salvar el océano"
+title: "Jugá a Salvar el Océano"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juega-a-salvar-el-oceano/"
 description: "Un minijuego interactivo en línea que muestra los desafíos que enfrentan los océanos y cómo pequeños cambios en nuestra vida pueden ayudar a protegerlos."
-summary: "Aprende sobre la contaminación oceánica jugando un minijuego."
+summary: "Aprendé sobre la contaminación oceánica jugando un minijuego."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juega-a-salvar-el-oceano.png"
+image: "/imagenes/actividades/juega-a-salvar-el-oceano.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Computadora o teléfono móvil
+  - Computadora o celular
   - Conexión a internet
 tools: []
 responsible:
@@ -67,7 +67,7 @@ tags:
 # ========== ENLACES Y ARCHIVOS ==========
 link:
   - url: "https://dumbwaystokilltheocean.com"
-    caption: "Maneras simples de salvar el océano - Dumb Ways to Kill the Ocean"
+    caption: "Maneras tontas de matar al océano - Dumb Ways to Kill the Ocean"
     icon: "link"
 files: []
 
@@ -165,10 +165,10 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies
 ---
 
-# ¡Juega a salvar el océano!
+# ¡Jugá a Salvar el Océano!
 
 ## Resumen
-"Maneras simples de salvar el océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.
+"Maneras tontas de matar al océano" (Dumb Ways to Kill the Ocean) es un minijuego interactivo que destaca algunos de los mayores desafíos que enfrentan nuestros océanos. Inspírate en el juego y realiza pequeños cambios en tu propia vida que pueden ayudar a que nuestros océanos y nuestro planeta sean más saludables para todos.
 
 ## Preparación
 1. Acceder al juego en línea: https://dumbwaystokilltheocean.com
@@ -187,7 +187,7 @@ rama_rovers:
 1. Preguntar a los participantes:
    - ¿Qué fue lo que más te impactó del juego?
    - ¿Qué aprendiste sobre la contaminación plástica?
-   - ¿Qué pequeños cambios puedes hacer en tu vida para ayudar a los océanos?
+   - ¿Qué pequeños cambios podés hacer en tu vida para ayudar a los océanos?
 2. Anotar las ideas principales en un pizarrón o papelógrafo.
 
 ### Parte III - Acción (opcional)
@@ -196,8 +196,8 @@ rama_rovers:
 
 ## Cierre
 1. ¿Qué aprendiste hoy sobre la contaminación de los océanos?
-2. ¿Cómo te sientes después de jugar?
-3. ¿Qué cambios puedes hacer en tu vida para ayudar a reducir el plástico?
+2. ¿Cómo te sentís después de jugar?
+3. ¿Qué cambios podés hacer en tu vida para ayudar a reducir el plástico?
 
 ## Texto original completo de la actividad
 
@@ -222,18 +222,3 @@ rama_rovers:
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

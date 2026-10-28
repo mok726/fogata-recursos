@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Clima y estilos de vida"
+title: "Clima y Estilos de Vida"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-estilos-de-vida/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/clima-y-estilos-de-vida.png"
+image: "/imagenes/actividades/clima-y-estilos-de-vida.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,20 +160,20 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades que brinda la vida en la naturaleza
 ---
 
-# ¡Clima y estilos de vida!
+# ¡Clima y Estilos de Vida!
 
 ## Resumen
-Examina todas las maneras en que el clima afecta nuestra calidad de vida, sea relacionado con los viajes, la recreación o con el bienestar general.
+Examiná todas las maneras en que el clima afecta nuestra calidad de vida, sea relacionado con los viajes, la recreación o con el bienestar general.
 
 ## Preparación
-1. Investiga cómo el clima afecta diferentes aspectos de la vida.
-2. Prepara ejemplos de diferentes climas y sus efectos en la calidad de vida.
-3. Organiza los grupos de trabajo.
+1. Investigá cómo el clima afecta diferentes aspectos de la vida.
+2. Prepará ejemplos de diferentes climas y sus efectos en la calidad de vida.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo el clima afecta nuestra calidad de vida.
-2. Reflexiona: ¿Crees que algunos lugares tienen una mejor calidad de vida debido a su clima? ¿Por qué?
-3. Prepara un cartel para indicar los hallazgos de tu investigación.
+1. Investigá cómo el clima afecta nuestra calidad de vida.
+2. Reflexioná: ¿Creés que algunos lugares tienen una mejor calidad de vida debido a su clima? ¿Por qué?
+3. Prepará un cartel para indicar los hallazgos de tu investigación.
 
 ## Cierre
 1. Júntense en grupo y observen los carteles de cada uno.
@@ -186,16 +186,3 @@ A.14 CLIMA Y ESTILOS DE VIDA. Examina todas las maneras en que el clima afecta n
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

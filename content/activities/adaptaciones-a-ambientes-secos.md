@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adaptaciones a ambientes secos"
+title: "Adaptaciones a Ambientes Secos"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/adaptaciones-a-ambientes-secos/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/adaptaciones-a-ambientes-secos.png"
+image: "/imagenes/actividades/adaptaciones-a-ambientes-secos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Adaptaciones a ambientes secos!
+# ¡Adaptaciones a Ambientes Secos!
 
 ## Resumen
-Aprende sobre modificaciones inusuales que las plantas y los animales han desarrollado para adaptarse a ambientes donde es difícil encontrar agua. Encuentra cinco ejemplos de plantas y cinco ejemplos de animales. Presenta estos ejemplos a tu grupo.
+Aprendé sobre modificaciones inusuales que las plantas y los animales han desarrollado para adaptarse a ambientes donde es difícil encontrar agua. Encontrá cinco ejemplos de plantas y cinco ejemplos de animales. Presentá estos ejemplos a tu grupo.
 
 ## Preparación
-1. Investiga sobre adaptaciones a la sequía.
-2. Prepara ejemplos de plantas y animales.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre adaptaciones a la sequía.
+2. Prepará ejemplos de plantas y animales.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga adaptaciones de plantas a ambientes secos.
-2. Investiga adaptaciones de animales a ambientes secos.
-3. Selecciona cinco ejemplos de plantas y cinco de animales.
-4. Prepara tu presentación.
+1. Investigá adaptaciones de plantas a ambientes secos.
+2. Investigá adaptaciones de animales a ambientes secos.
+3. Seleccioná cinco ejemplos de plantas y cinco de animales.
+4. Prepará tu presentación.
 
 ## Cierre
-1. Presenta tus ejemplos al grupo.
-2. Discute: ¿Qué adaptaciones son más sorprendentes?
+1. Presentá tus ejemplos al grupo.
+2. Discutí: ¿Qué adaptaciones son más sorprendentes?
 3. Pregunta final: ¿Cómo pueden estas adaptaciones ayudarnos a enfrentar el cambio climático?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ B.22 Aprende sobre modificaciones inusuales que las plantas y los animales han d
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

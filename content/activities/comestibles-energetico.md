@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Comestibles energéticos"
+title: "Comestibles Energéticos"
 duration: "2 horas + tiempo de cocina"
 layout: "layouts/activity.njk"
 permalink: "/activities/comestibles-energeticos/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comestibles-energeticos.png"
+image: "/imagenes/actividades/comestibles-energeticos.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -161,18 +161,18 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Comestibles energéticos!
+# ¡Comestibles Energéticos!
 
 ## Resumen
 ¿Sabías que diferentes alimentos requieren diferentes cantidades de energía para ser producidos? Por ejemplo, se requiere 25 veces más energía para producir una caloría de carne que para producir una caloría de maíz para el consumo humano.
 
 ## Preparación
-1. Investiga sobre la energía necesaria para producir diferentes alimentos.
-2. Prepara una tabla para registrar los datos.
-3. Organiza la cocina y los ingredientes.
+1. Investigá sobre la energía necesaria para producir diferentes alimentos.
+2. Prepará una tabla para registrar los datos.
+3. Organizá la cocina y los ingredientes.
 
 ## Desarrollo
-1. Elige tu alimento favorito e investiga cuánta energía se usa en su producción.
+1. Elegí tu alimento favorito e investigá cuánta energía se usa en su producción.
 2. ¿Qué tipo de energía se usa típicamente para su producción?
 3. Comparen sus notas con el resto del grupo.
 4. Preparen una lista de todos los alimentos en orden creciente según su consumo de energía.
@@ -189,16 +189,3 @@ B.12 COMESTIBLES ENERGÉTICOS. ¿Sabías que diferentes alimentos requieren dife
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

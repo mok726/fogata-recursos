@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué le Pasa a Mi Estanque?"
+title: "¿Qué Le Pasa a Mi Estanque?"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-le-pasa-a-mi-estanque/"
 description: "Los participantes realizan pruebas de calidad del agua en muestras de agua de estanque para determinar su salud y aprender sobre parámetros como nitratos, pH, dureza y amoníaco."
-summary: "Prueba la calidad del agua de un estanque."
+summary: "Probá la calidad del agua de un estanque."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/que-le-pasa-a-mi-estanque.png"
+image: "/imagenes/actividades/que-le-pasa-a-mi-estanque.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -170,24 +170,24 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¿Qué le Pasa a Mi Estanque?
+# ¿Qué Le Pasa a Mi Estanque?
 
 ## Resumen
 La calidad del agua jugará un papel importante en cualquier uso que se le dé a un estanque. Parámetros como nitratos, amoníaco, pH, dureza y alcalinidad pueden afectar la calidad del estanque. En esta actividad, los participantes realizan pruebas de calidad del agua en muestras de agua de estanque para determinar su salud.
 
 ## Preparación
-1. Recolecta cuatro muestras de agua de estanque (o pide a los participantes que ayuden a recolectarlas).
-2. Prepara los kits de prueba y las hojas de datos.
-3. Divide a los participantes en grupos de 3-4 personas.
+1. Recolectá cuatro muestras de agua de estanque (o pedí a los participantes que ayuden a recolectarlas).
+2. Prepará los kits de prueba y las hojas de datos.
+3. Dividí a los participantes en grupos de 3-4 personas.
 
 ## Desarrollo
 
 ### Paso 1: Introducción al escenario
-1. Explica a tu grupo que van a realizar algunas pruebas de calidad del agua. Divídelos en grupos de aproximadamente tres o cuatro estudiantes y dales el siguiente escenario: "Eres un nuevo dueño de un estanque. Piensa en al menos tres cosas que quieras de tu estanque."
-2. Ten una discusión grupal basada en las respuestas de los participantes. Guía la discusión sobre la calidad del agua.
+1. Explicá a tu grupo que van a realizar algunas pruebas de calidad del agua. Dividilos en grupos de aproximadamente tres o cuatro estudiantes y dales el siguiente escenario: "Sos un nuevo dueño de un estanque. Pensá en al menos tres cosas que quieras de tu estanque."
+2. Tené una discusión grupal basada en las respuestas de los participantes. Guiá la discusión sobre la calidad del agua.
 
 ### Paso 2: Información sobre parámetros
-3. Pide a los participantes que revisen la siguiente información:
+3. Pedí a los participantes que revisen la siguiente información:
 
 **Nitratos (NO3-):** se encuentran comúnmente en fertilizantes y pueden causar niveles más altos de algas y plantas en el estanque. Buscamos un valor **menor a 20 ppm**. Si los niveles son demasiado altos, es posible que debamos abordar el manejo de la tierra alrededor del estanque. ¿Hay fertilizante que corre hacia el estanque desde las áreas circundantes? ¿Qué podemos hacer para solucionarlo? (Franjas de amortiguamiento alrededor del estanque, limitar la fertilización).
 
@@ -292,21 +292,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,27], scouts[34,35], caminantes[30,31], rovers[31,32])

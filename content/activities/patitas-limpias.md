@@ -7,7 +7,7 @@ permalink: "/activities/patitas-limpias/"
 description: "Sistema permanente de competencia por inspección para fomentar la limpieza y el orden en la Manada, donde las seisenas rotan roles de limpiadores y jueces acumulando 'Patitas Limpias'."
 summary: "Una seisena limpia, las otras juzgan. La que más Patitas Limpias acumula elige premio."
 version: "1.0"
-image: "/imagenes/actividades/patitas-limpias.png"
+image: "/imagenes/actividades/patitas-limpias.jpg"
 # ========== AUTORÍA Y FUENTES ==========
 author:
   - "Mariano S. Cosentino (Kotick)"
@@ -15,7 +15,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-# image: "/imagenes/actividades/patitas-limpias.png"
+# image: "/imagenes/actividades/patitas-limpias.jpg"
 original: "true"
 
 # ========== CLASIFICACIÓN ==========
@@ -37,7 +37,7 @@ materials:
   - Tabla de registro para el Educador Scout
 responsible:
   - Seisena del día (limpieza)
-  - representate de otras seisenas (jueces)
+  - representante de otras seisenas (jueces)
   - Adulto colaborador (para cronometrar)
   - Un lobato voluntario (para actualizar el tablero)
 tools:
@@ -117,7 +117,7 @@ attributions:
 "Patitas Limpias" es un sistema permanente de competencia por inspección para la Manada (7-11 años). Cada reunión o día de campamento, una seisena rota como *seisena Limpiadora* y las otras envían un juez que evalúa las zonas (ej: piso, mesas, pertenencias). La seisena limpiadora acumula de 0 a 1 **Patitas Limpias** por cada zona evaluada en un tablero colectivo. Al final del ciclo, la seisena con más patitas elige un premio (juego especial, canción, distintivo). La actividad convierte la limpieza en un juego con roles rotativos y responsabilidad compartida.
 
 
-## Preparacion
+## Preparación
 ### PREPARACIÓN (antes de la primera reunión)
 
 **Duración:** 30 minutos (una sola vez)
@@ -128,15 +128,15 @@ attributions:
    - Patitas recortables (30-40) o comprar stickers con forma de huella
    - Registro para el Educador Scout
 3. **Definir el calendario rotativo:** Establecer qué seisena limpia cada semana (ej. seisena Blanca → Semana 1, seisena Gris → Semana 2, etc.).
-4. **Definir Zonas de limpieza:** Establecer qué areas se van a limpiar y que se va a evaluar (ej: piso de la cueva, mesas y sillas, ordenar almohadones, etc.) Esto depende de cada Manada y su ambiente.
-5. **Ajustar la planilla de control:** Adaptar la planilla de control a las zonas y cosas a controlar definidas antes
+4. **Definir Zonas de limpieza:** Establecer qué áreas se van a limpiar y qué se va a evaluar (ej: piso de la cueva, mesas y sillas, ordenar almohadones, etc.) Esto depende de cada Manada y su ambiente.
+5. **Ajustar la planilla de control:** Adaptar la planilla de control a las zonas y cosas a controlar definidas antes.
 6. **Explicar la dinámica a los otros adultos:** Asegurarse de que todos los Educadores sepan que **no deben limpiar ni opinar** durante la inspección.
 
 
 ## Desarrollo
 
-### PRESENTACIÓN de la Dinamica EN REUNIÓN 
-	Se Explica la dinamica de juego a la Manada
+### PRESENTACIÓN de la dinámica EN REUNIÓN 
+	Se explica la dinámica de juego a la Manada
 
 
 ### IMPLEMENTACIÓN EN REUNIÓN 
@@ -157,15 +157,15 @@ El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena xxxxx e
 - Si hay desacuerdo entre jueces la mayoría define. El VL solo media si hay empate.
 
 #### Paso 4: Anuncio y acumulación (2 min)
-- El Educador Scout recoge las listas, calcula el puntaje (cuantas "Patitas Limpias") y lo anuncia en voz alta.
+- El Educador Scout recoge las listas, calcula el puntaje (cuántas "Patitas Limpias") y lo anuncia en voz alta.
 - Un lobato voluntario actualiza el tablero acumulador agregando las patitas ganadas.
 - Se registra en la planilla del VL.
-- Si la seisena obtuvo 100% de las patitas del dia gana premio intermedio (ej. elegir proximo juego, elegir primero en la merienda, etc.)
+- Si la seisena obtuvo 100% de las patitas del día gana premio intermedio (ej. elegir próximo juego, elegir primero en la merienda, etc.)
 
 ### FASE 3: VARIANTE PARA CAMPAMENTOS (1 vez por día)
 
 - La inspección se realiza **una vez al día** (preferiblemente antes de la cena o al despertar).
-- Se podrian agregar **zonas extras**: "Carpón" o "Zona de acantonamiento / bolsas de dormir" (aumenta puntaje máximo para esos dias).
+- Se podrían agregar **zonas extras**: "Carpón" o "Zona de acantonamiento / bolsas de dormir" (aumenta puntaje máximo para esos días).
 - Rotar la seisena limpiadora cada día.
 - En campamentos de varios días, hacer un **mini-cierre** anunciando el puntaje del acumulado (ya que no tendremos el afiche).
 
@@ -181,9 +181,9 @@ El Educador Scout anuncia: *"Manada, últimos 15 minutos. Hoy la seisena xxxxx e
 ## Cierre
 Algunas preguntas disparadoras para debatir entre los L&L, a usar según pasa el tiempo:
 - ¿Qué fue lo más fácil de limpiar hoy? ¿Y lo más difícil?
-- ¿Dónde aparece siempre la misma mugre? ¿Por qué será?"
-- ¿Alguien encontró algo perdido por mucho tiempo
-- ¿Si mañana fueran jueces, ¿en qué zona mirarían primero? ¿Por qué?
+- ¿Dónde aparece siempre la misma mugre? ¿Por qué será?
+- ¿Alguien encontró algo perdido por mucho tiempo?
+- Si mañana fueran jueces, ¿en qué zona mirarían primero? ¿Por qué?
 - ¿Qué pasaría si nadie limpiara después de un encuentro?
 - ¿Cómo se siente entrar a un espacio que está limpio y ordenado?
 - ¿Qué aprendió hoy su seisena sobre limpiar en equipo?

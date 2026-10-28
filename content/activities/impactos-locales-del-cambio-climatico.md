@@ -1,9 +1,9 @@
 ---
-title: "Impactos locales del cambio climático"
+title: "Impactos Locales del Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/impactos-locales-del-cambio-climatico/"
-description: "Investiga los posibles impactos del cambio climático en tu área."
+description: "Investigá los posibles impactos del cambio climático en tu área."
 summary: "Impactos climáticos locales."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/impactos-locales-del-cambio-climatico.png"
+image: "/imagenes/actividades/impactos-locales-del-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -147,19 +147,19 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Impactos locales del cambio climático!
+# ¡Impactos Locales del Cambio Climático!
 
 ## Resumen
-Investiga los posibles impactos del cambio climático en tu área y comparte los resultados.
+Investigá los posibles impactos del cambio climático en tu área y compartí los resultados.
 
 ## Preparación
-1. Accede a recursos sobre impactos climáticos.
-2. Prepara materiales para la presentación.
+1. Accedé a recursos sobre impactos climáticos.
+2. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre impactos locales.
+1. **Investigación** (25 min): Aprendé sobre impactos locales.
 2. **Análisis** (15 min): ¿Cómo prepararse para estos cambios?
-3. **Discusión** (10 min): Comparte con tu grupo.
+3. **Discusión** (10 min): Compartí con tu grupo.
 4. **Reflexión** (10 min): ¿Qué podemos hacer?
 
 ## Cierre
@@ -175,16 +175,3 @@ Investiga los posibles impactos del cambio climático en tu área y comparte los
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

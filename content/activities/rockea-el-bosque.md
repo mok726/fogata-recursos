@@ -4,7 +4,7 @@ title: "'Rockea' el Bosque"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/rockea-el-bosque/"
-description: "Invita a un geólogo para hablar sobre las rocas del bosque. Crea una exhibición de rocas como substrato."
+description: "Invitá a un geólogo para hablar sobre las rocas del bosque. Creá una exhibición de rocas como substrato."
 summary: "Investigación sobre rocas y su rol en el bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/rockea-el-bosque.png"
+image: "/imagenes/actividades/rockea-el-bosque.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -169,18 +169,18 @@ rama_rovers:
 # 'Rockea' el Bosque
 
 ## Resumen
-Invita a un geólogo para hablar sobre las rocas del bosque. Crea una exhibición de rocas como substrato.
+Invitá a un geólogo para hablar sobre las rocas del bosque. Creá una exhibición de rocas como substrato.
 
 ## Preparación
-1. Invita a un geólogo a tu reunión.
-2. Prepara preguntas sobre rocas del bosque.
-3. Reúne materiales para la exhibición.
+1. Invitá a un geólogo a tu reunión.
+2. Prepará preguntas sobre rocas del bosque.
+3. Reuní materiales para la exhibición.
 
 ## Desarrollo
-1. **Charla** (30 min): Invita al geólogo para que hable sobre las rocas.
-2. **Investigación** (20 min): Investiga sobre rocas como substrato para musgos, líquenes.
-3. **Creación** (25 min): Crea una exhibición de rocas como substrato.
-4. **Presentación** (15 min): Presenta tu exhibición al grupo.
+1. **Charla** (30 min): Invitá al geólogo para que hable sobre las rocas.
+2. **Investigación** (20 min): Investigá sobre rocas como substrato para musgos, líquenes.
+3. **Creación** (25 min): Creá una exhibición de rocas como substrato.
+4. **Presentación** (15 min): Presentá tu exhibición al grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el rol de las rocas en el bosque?
@@ -188,16 +188,3 @@ Invita a un geólogo para hablar sobre las rocas del bosque. Crea una exhibició
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre geología?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

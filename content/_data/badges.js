@@ -738,7 +738,7 @@ sections: {
       documents: [
         {
           title: "Scouts-Go-Solar-Tribu-Tierra",
-          title_es: "Desaf  io Scouts Go-Solar Tribu Tierra",
+          title_es: "Desafío Scouts Go-Solar Tribu Tierra",
           url: "https://scouts.org.ar/biblioteca/1497/mundo-mejor/28889/scouts-por-los-ods-mundo-mejor.pdf",
           type: "pdf",
           image: "/imagenes/varios/Scouts-Go-Solar-Tribu-Tierra.jpg"
@@ -778,12 +778,12 @@ sections: {
 
     requirements: {
   summary:
-    "Los requerimientos varian, basicamente: Completar una actividad obligatoria de cada secci  n y 3 actividades adicionales por seccion",
+    "Los requerimientos varían, básicamente: Completar una actividad obligatoria de cada sección y 3 actividades adicionales por sección",
 
   rules: [
-    "Completar una actividad obligatoria de cada secci  n A y B",
-    "Completar tres actividades adicionales de cada secci  n A y B",
-    "Realizar (al menos) una actividad de acci  n comunitaria de la Seccion C"
+    "Completar una actividad obligatoria de cada sección A y B",
+    "Completar tres actividades adicionales de cada sección A y B",
+    "Realizar (al menos) una actividad de acción comunitaria de la Sección C"
   ]
 },
 sections: {
@@ -905,15 +905,20 @@ sections: {
         "La insignia promueve el cuidado del planeta. y es parte del programa SCOUT",
       logo: "/imagenes/insignias/cfn.png",
       hero_image: "/imagenes/insignias/cfn-hero.png",
-      sources: [],
+      sources: [
+        {
+          name: "Champions for Nature Challenge – Action Kit (OMMS, 2020)",
+          url: "https://scouts.mt/wp-content/uploads/2025/08/CFN-ActionKit.pdf"
+        }
+      ],
   license: {
     type: "© World Scout Bureau Inc. – Todos los derechos reservados",
     url: "https://www.scout.org",
     note: "Autorizado: reproducción por organizaciones miembro de la OMMS. Pendiente: publicación en este sitio, autorización solicitada a la OMMS el 26/10/2026."
   },
   attribution: {
-    organization: "FAO",
-    year: "2021"
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2020"
   },
       
     requirements: {
@@ -1942,7 +1947,7 @@ sections: {
       id: "ciudadesverdes",
       name: "Ciudades Verdes",
       description:
-        "Exploraci  n, conservaci  n y sustentabilidad en las ciudades.",
+        "Exploración, conservación y sustentabilidad en las ciudades.",
       summary:
         "Con el 50% de la población mundial viviendo actualmente en ciudades, es hora de aprender a convertirlas en lugares más verdes y sostenibles para vivir.<br>La insignia del Desafío Ciudades Verdes está diseñada para educar a niños y jóvenes sobre la importancia de las ciudades verdes para el futuro de nuestro planeta.",
       logo: "/imagenes/insignias/greencities.png",
@@ -1965,13 +1970,13 @@ sections: {
 
     requirements: {
   summary:
-    "Completar una actividad obligatoria de cada secci  n y una actividad adicional por secci  n.",
+    "Completar una actividad obligatoria de cada sección y una actividad adicional por sección.",
 
   rules: [
-    "Completar una actividad obligatoria de cada secci  n",
-    "Completar una actividad adicional de cada secci  n",
+    "Completar una actividad obligatoria de cada sección",
+    "Completar una actividad adicional de cada sección",
 
-    "Realizar actividades de acci  n comunitaria"
+    "Realizar actividades de acción comunitaria"
   ]
 },
 sections: {
@@ -1993,8 +1998,8 @@ sections: {
 
   },
   D: {
-    title: "Toma acci  n",
-    description: "Realiza la actividad D.1 o la D.2 y (al menos) una actividad a tu elección.<br>Tras completar las actividades de  \"Toma acci  n\" podrás:<br>* adoptar hábitos de vida más sostenibles y fomentarlos en tu comunidad.<br>* concienciar sobre la importancia de las ciudades verdes."
+    title: "Toma acción",
+    description: "Realiza la actividad D.1 o la D.2 y (al menos) una actividad a tu elección.<br>Tras completar las actividades de  \"Toma acción\" podrás:<br>* adoptar hábitos de vida más sostenibles y fomentarlos en tu comunidad.<br>* concienciar sobre la importancia de las ciudades verdes."
   }
 },
       documents: [

@@ -1,9 +1,9 @@
 ---
-title: "Compensación de carbono para viajes"
+title: "Compensación de Carbono para Viajes"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/compensacion-de-carbono-para-viajes/"
-description: "Investiga la compensación de carbono para viajes aéreos."
+description: "Investigá la compensación de carbono para viajes aéreos."
 summary: "Compensación de carbono."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/compensacion-de-carbono-para-viajes.png"
+image: "/imagenes/actividades/compensacion-de-carbono-para-viajes.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -144,21 +144,21 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Compensación de carbono para viajes!
+# ¡Compensación de Carbono para Viajes!
 
 ## Resumen
-Investiga la compensación de carbono para viajes aéreos y alternativas sostenibles.
+Investigá la compensación de carbono para viajes aéreos y alternativas sostenibles.
 
 ## Preparación
-1. Investiga sobre las emisiones de los aviones.
-2. Busca información sobre compensación de carbono.
-3. Prepara materiales para la investigación.
+1. Investigá sobre las emisiones de los aviones.
+2. Buscá información sobre compensación de carbono.
+3. Prepará materiales para la investigación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre emisiones y compensación.
+1. **Investigación** (20 min): Aprendé sobre emisiones y compensación.
 2. **Análisis** (15 min): ¿Qué opciones existen?
-3. **Alternativas** (15 min): ¿Puedes evitar viajes aéreos?
-4. **Acción** (10 min): Participa en plantación de árboles u otras campañas.
+3. **Alternativas** (15 min): ¿Podés evitar viajes aéreos?
+4. **Acción** (10 min): Participá en plantación de árboles u otras campañas.
 
 ## Cierre
 - ¿Cuánto CO₂ emite un avión?
@@ -173,16 +173,3 @@ Investiga la compensación de carbono para viajes aéreos y alternativas sosteni
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

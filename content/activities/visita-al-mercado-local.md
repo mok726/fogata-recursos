@@ -1,10 +1,10 @@
 ---
-title: "Visita al mercado local"
+title: "Visitá al Mercado Local"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-al-mercado-local/"
-description: "Visita el mercado local para aprender sobre los alimentos que compra la gente."
-summary: "Visita al mercado."
+description: "Visitá el mercado local para aprender sobre los alimentos que compra la gente."
+summary: "Visitá al mercado."
 
 author:
   - FAO
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/visita-al-mercado-local.png"
+image: "/imagenes/actividades/visita-al-mercado-local.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,24 +146,24 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# ¡Visita al mercado local!
+# ¡Visitá al Mercado Local!
 
 ## Resumen
-Visita el mercado local con tu familia, maestro o líder para aprender sobre los alimentos que compra la gente.
+Visitá el mercado local con tu familia, maestro o líder para aprender sobre los alimentos que compra la gente.
 
 ## Preparación
-- Identifica un mercado local para visitar.
-- Prepara preguntas para los vendedores.
+- Identificá un mercado local para visitar.
+- Prepará preguntas para los vendedores.
 
 ## Desarrollo
-1. **Visita** (30 min): Recorre el mercado.
+1. **Visita** (30 min): Recorré el mercado.
 2. **Observación** (15 min): ¿Qué tipos de comida compra la gente?
 3. **Aprendizaje** (10 min): ¿De dónde vienen los alimentos?
 4. **Reflexión** (5 min): ¿Qué aprendiste?
 
 ## Cierre
 - ¿Qué tipos de alimentos viste?
-- ¿De dónde crees que vienen?
+- ¿De dónde creés que vienen?
 - ¿Qué alimentos son locales?
 
 ---
@@ -174,16 +174,3 @@ Visita el mercado local con tu familia, maestro o líder para aprender sobre los
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

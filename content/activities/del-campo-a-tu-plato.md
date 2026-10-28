@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Del Campo a tu Plato"
+title: "Del Campo a Tu Plato"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/del-campo-a-tu-plato/"
-description: "Investiga el ciclo de vida de un alimento desde su producción hasta tu plato, evaluando su impacto ambiental."
+description: "Investigá el ciclo de vida de un alimento desde su producción hasta tu plato, evaluando su impacto ambiental."
 summary: "Investigación del ciclo de vida de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/del-campo-a-tu-plato.png"
+image: "/imagenes/actividades/del-campo-a-tu-plato.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -165,39 +165,26 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# Del Campo a tu Plato
+# Del Campo a Tu Plato
 
 ## Resumen
-Investiga el ciclo de vida de un alimento desde su producción hasta tu plato, evaluando su impacto ambiental.
+Investigá el ciclo de vida de un alimento desde su producción hasta tu plato, evaluando su impacto ambiental.
 
 ## Preparación
-1. Elige un alimento que consumes a menudo.
-2. Investiga su ciclo de vida.
-3. Prepara material para la presentación.
+1. Elegí un alimento que consumís a menudo.
+2. Investigá su ciclo de vida.
+3. Prepará material para la presentación.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga dónde y cómo se produce el alimento.
-2. **Análisis** (15 min): Analiza los recursos naturales necesarios.
-3. **Impacto** (15 min): Evalúa el impacto ambiental (emisiones, contaminación).
-4. **Presentación** (20 min): Prepara una historia, blog o presentación.
-5. **Reflexión** (10 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Investigá dónde y cómo se produce el alimento.
+2. **Análisis** (15 min): Analizá los recursos naturales necesarios.
+3. **Impacto** (15 min): Evaluá el impacto ambiental (emisiones, contaminación).
+4. **Presentación** (20 min): Prepará una historia, blog o presentación.
+5. **Reflexión** (10 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Cómo afecta este alimento al medio ambiente?
-- ¿Puedes sustituirlo por una alternativa más sostenible?
+- ¿Podés sustituirlo por una alternativa más sostenible?
 - ¿Qué compromiso adquieres para elegir alimentos más sostenibles?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

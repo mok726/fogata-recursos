@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en saltos de tijera"
+title: "Energía en Saltos de Tijera"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-saltos-de-tijera/"
-description: "Usa saltos de tijera para demostrar la diferencia entre energía potencial y energía cinética de forma divertida."
-summary: "¡Muévete y aprende sobre energía!"
+description: "Usá saltos de tijera para demostrar la diferencia entre energía potencial y energía cinética de forma divertida."
+summary: "¡Movete y aprende sobre energía!"
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/energia-en-saltos-de-tijera.png"
+image: "/imagenes/actividades/energia-en-saltos-de-tijera.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -158,14 +158,14 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en saltos de tijera!
+# ¡Energía en Saltos de Tijera!
 
 ## Resumen
-¿Cuál es la diferencia entre energía potencial y energía cinética? La energía cinética es energía en movimiento, mientras que la energía potencial es energía que está lista para moverse. ¡Descúbrelo con saltos de tijera!
+¿Cuál es la diferencia entre energía potencial y energía cinética? La energía cinética es energía en movimiento, mientras que la energía potencial es energía que está lista para moverse. ¡Descubrilo con saltos de tijera!
 
 ## Preparación
-1. Busca un espacio amplio para moverse.
-2. Asegúrate de tener suficiente espacio entre los participantes.
+1. Buscá un espacio amplio para moverse.
+2. Asegurate de tener suficiente espacio entre los participantes.
 
 ## Desarrollo
 
@@ -175,17 +175,17 @@ Párate en posición de "X" con los brazos arriba de los hombros y las piernas s
 En esta posición, estás almacenando **energía potencial** y estás listo para convertir esa energía en energía cinética en movimiento.
 
 ### Parte II - Energía cinética
-¡Haz un salto de tijera!
-- Mueve los brazos hacia los costados
-- Salta y junta las piernas
+¡Hacé un salto de tijera!
+- Mové los brazos hacia los costados
+- Saltá y junta las piernas
 
-Cuando mueves los brazos y las piernas, estás creando **energía cinética**.
+Cuando movés los brazos y las piernas, estás creando **energía cinética**.
 
 ### Parte III - Pausa
-Cuando te detienes, estás sosteniendo energía cinética.
+Cuando te detenés, la energía cinética vuelve a cero: se transformó en calor en tus músculos y en el piso.
 
 ### Parte IV - Reflexionar
-Piensa en otros ejemplos de energía potencial y cinética en la vida cotidiana.
+Pensá en otros ejemplos de energía potencial y cinética en la vida cotidiana.
 
 **Ejemplos:**
 - Una pelota en la cima de una colina → energía potencial
@@ -196,7 +196,7 @@ Piensa en otros ejemplos de energía potencial y cinética en la vida cotidiana.
 ## Cierre
 1. ¿En qué posición tenías energía potencial?
 2. ¿Cuándo tenías energía cinética?
-3. ¿Qué otros ejemplos de energía potencial y cinética conoces?
+3. ¿Qué otros ejemplos de energía potencial y cinética conocés?
 
 ## Texto original completo de la actividad
 
@@ -226,20 +226,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

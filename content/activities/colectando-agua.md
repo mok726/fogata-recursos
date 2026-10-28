@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Colectando agua"
+title: "Colectando Agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/colectando-agua/"
-description: "Construye un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua."
-summary: "Recoge agua del suelo usando energía solar."
+description: "Construí un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua."
+summary: "Recogé agua del suelo usando energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/colectando-agua.png"
+image: "/imagenes/actividades/colectando-agua.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -166,7 +166,7 @@ rama_rovers:
   - 32
 ---
 
-# ¡Colectando agua!
+# ¡Colectando Agua!
 
 ## Resumen
 Construyan un colector solar de agua para recolectar agua de la vegetación a través de la condensación, aprendiendo sobre el ciclo del agua y cómo obtener agua en situaciones de supervivencia.
@@ -186,7 +186,7 @@ Hagan un hoyo de 30 cm de profundidad y 60 cm de diámetro en la tierra.
 Recojan cualquier vegetación verde y llenen el agujero con ella.
 
 ### Paso 3 - Colocar el frasco
-Coloquen un frasco en el centro del hoyo y apoyenlo en el suelo, no en la vegetación.
+Coloquen un frasco en el centro del hoyo y apóyenlo en el suelo, no en la vegetación.
 
 ### Paso 4 - Cubrir
 Tapen el hoyo con una lámina de plástico transparente. Utilicen las piedras para estirar los bordes de la lámina de plástico y sujetarla.
@@ -196,6 +196,10 @@ Pongan una piedra pequeña en el centro de la lámina, sobre el frasco, para pro
 
 ### Paso 6 - Esperar
 Dejen que el sol llegue directo sobre el hueco y observen qué sucede al pasar el tiempo (15 min o más).
+
+> **Nota para el educador:** cuánta agua se junta en 15 minutos depende mucho del sol, la temperatura, la humedad del suelo y de la vegetación. A veces se ven solo unas gotas en el plástico. **Opción:** armen el colector al comenzar la jornada y vuelvan a revisarlo más tarde o al final del día; ahí el resultado se nota mucho más.
+>
+> Al terminar, rellenen el pozo y dejen el lugar como estaba (No Dejar Rastro). No corten vegetación en áreas protegidas ni usen plantas que no conozcan, porque pueden ser tóxicas.
 
 ## Cierre
 1. ¿Qué sucedió en el frasco?
@@ -229,17 +233,3 @@ Dejen que el sol llegue directo sobre el hueco y observen qué sucede al pasar e
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Brújula solar - Método del Reloj"
+title: "Brújula Solar - Método del Reloj"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-reloj/"
-description: "Aprende a orientarte usando un reloj de agujas y el Sol, descubriendo cómo encontrar el Norte a partir de la posición del Sol."
-summary: "Encuentra el Norte con tu reloj y el Sol."
+description: "Aprendé a orientarte usando un reloj de agujas y el Sol, descubriendo cómo encontrar el Norte a partir de la posición del Sol."
+summary: "Encontrá el Norte con tu reloj y el Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/brujula-solar-reloj.png"
+image: "/imagenes/actividades/brujula-solar-reloj.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 37
 ---
 
-# ¡Brújula solar - Método del Reloj!
+# ¡Brújula Solar - Método del Reloj!
 
 ## Resumen
 En ocasiones puede llegar a ser necesario tener que orientarse con ayuda del Sol. Este método se basa en la utilización de un reloj de agujas para encontrar los puntos cardinales.
@@ -181,6 +181,11 @@ Apunten la marca de las 12 en punto en dirección al Sol. Si tienen dificultades
 
 ### Paso 3 - Encontrar el Norte
 Para hallar el Norte, diríjanse a la mitad entre la aguja de la hora y las 12 en punto. Este medio exacto marca el Norte, mientras que el punto opuesto lo marca el Sur y los demás por defecto.
+
+> **Nota para el educador:**
+> - Este método (las 12 hacia el Sol) es el del **hemisferio sur**. En internet circula mucho la versión del hemisferio norte, donde se apunta la aguja de la hora al Sol y se encuentra el Sur: no las mezclen.
+> - El método supone la hora **solar**. En Argentina, la hora oficial suele estar adelantada una hora o más respecto de la solar, según la provincia. Antes de usarlo, atrasen el reloj una hora; si no, el error puede ser de 15° a 30°.
+> - Es un método aproximado: funciona mejor a media mañana o a media tarde que cerca del mediodía.
 
 ## Cierre
 1. ¿Qué tan fácil fue encontrar el Norte?
@@ -213,17 +218,3 @@ Este método se basa en la utilización de un reloj de agujas.
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

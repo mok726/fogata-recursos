@@ -4,7 +4,7 @@ title: "Los Bosques y el Cambio Climático"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-bosques-y-el-cambio-climatico/"
-description: "Investiga qué gases estaban presentes en la atmósfera históricamente y compáralos con los actuales. Comparte tus hallazgos con tu grupo."
+description: "Investigá qué gases estaban presentes en la atmósfera históricamente y comparalos con los actuales. Compartí tus hallazgos con tu grupo."
 summary: "Investigación sobre gases atmosféricos y cambio climático."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-bosques-y-el-cambio-climatico.png"
+image: "/imagenes/actividades/los-bosques-y-el-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -166,36 +166,23 @@ rama_rovers:
 # Los Bosques y el Cambio Climático
 
 ## Resumen
-Investiga qué gases estaban presentes en la atmósfera históricamente y compáralos con los actuales. Comparte tus hallazgos con tu grupo.
+Investigá qué gases estaban presentes en la atmósfera históricamente y comparalos con los actuales. Compartí tus hallazgos con tu grupo.
 
 ## Preparación
-1. Reúne materiales de investigación (libros, internet, enciclopedias).
-2. Prepara un cuaderno para tomar notas.
-3. Define las fuentes de información que vas a utilizar.
+1. Reuní materiales de investigación (libros, internet, enciclopedias).
+2. Prepará un cuaderno para tomar notas.
+3. Definí las fuentes de información que vas a utilizar.
 
 ## Desarrollo
-1. **Investigación histórica** (30 min): Investiga qué gases estaban presentes en la atmósfera históricamente y sus porcentajes.
-2. **Investigación actual** (30 min): Investiga los tipos y niveles actuales de gases en la atmósfera.
-3. **Comparación** (15 min): Compara los hallazgos históricos con los actuales.
-4. **Análisis** (15 min): Reflexiona sobre por qué han cambiado los gases a lo largo del tiempo.
-5. **Presentación** (15 min): Comparte tus hallazgos con tu grupo.
+1. **Investigación histórica** (30 min): Investigá qué gases estaban presentes en la atmósfera históricamente y sus porcentajes.
+2. **Investigación actual** (30 min): Investigá los tipos y niveles actuales de gases en la atmósfera.
+3. **Comparación** (15 min): Compará los hallazgos históricos con los actuales.
+4. **Análisis** (15 min): Reflexioná sobre por qué han cambiado los gases a lo largo del tiempo.
+5. **Presentación** (15 min): Compartí tus hallazgos con tu grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los cambios en la atmósfera a lo largo del tiempo?
 - ¿Cómo afectan los gases atmosféricos a la vida vegetal de los bosques?
-- ¿Qué crees que podría suceder si los niveles de dióxido de carbono continúan incrementando?
+- ¿Qué creés que podría suceder si los niveles de dióxido de carbono continúan incrementando?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

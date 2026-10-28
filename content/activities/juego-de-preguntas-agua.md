@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de preguntas sobre el agua"
+title: "Juego de Preguntas sobre el Agua"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-preguntas-agua/"
 description: "Los participantes aprenden datos interesantes sobre el agua a través de un juego de emparejamiento de preguntas y respuestas."
-summary: "Aprende datos curiosos sobre el agua jugando."
+summary: "Aprendé datos curiosos sobre el agua jugando."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-de-preguntas-agua.png"
+image: "/imagenes/actividades/juego-de-preguntas-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -157,22 +157,22 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Juego de preguntas sobre el agua!
+# ¡Juego de Preguntas sobre el Agua!
 
 ## Resumen
 El agua es un recurso vital que es la base de la vida. En esta actividad, los participantes aprenden datos interesantes sobre el agua a través de un juego de emparejamiento de preguntas y respuestas.
 
 ## Preparación
-1. Haz copias del juego de emparejamiento para cada participante.
-2. Prepara lápices para todos.
-3. Revisa las respuestas antes de la actividad.
+1. Hacé copias del juego de emparejamiento para cada participante.
+2. Prepará lápices para todos.
+3. Revisá las respuestas antes de la actividad.
 
 ## Desarrollo
 
 ### Parte I - Juego
-1. Recuerda a tu grupo que el agua es un recurso vital y esencial para la supervivencia de todas las formas de vida.
-2. Entrega una copia del juego de emparejamiento a cada participante y dales tiempo para completarlo.
-3. Revisa las respuestas con el grupo.
+1. Recordá a tu grupo que el agua es un recurso vital y esencial para la supervivencia de todas las formas de vida.
+2. Entregá una copia del juego de emparejamiento a cada participante y dales tiempo para completarlo.
+3. Revisá las respuestas con el grupo.
 
 **Preguntas:**
 a) ¿Qué porcentaje de la superficie de la Tierra está cubierto por agua?
@@ -201,7 +201,7 @@ j) 1.7 por ciento
 ## Cierre
 - ¿Por qué el agua es indispensable para todos los seres vivos?
 - ¿Cómo cambiaría la vida si no hubiera suficiente agua para todos?
-- ¿Puedes describir algunas cosas que podemos hacer para proteger el agua?
+- ¿Podés describir algunas cosas que podemos hacer para proteger el agua?
 
 ## Texto original completo de la actividad
 
@@ -287,20 +287,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,9 +1,9 @@
 ---
-title: "Resuelve un problema comunitario"
+title: "Resuelve un Problema Comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/resuelve-un-problema-comunitario/"
-description: "Elige un problema en tu comunidad y haz algo para resolverlo."
+description: "Elegí un problema en tu comunidad y hacé algo para resolverlo."
 summary: "Acción comunitaria."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/resuelve-un-problema-comunitario.png"
+image: "/imagenes/actividades/resuelve-un-problema-comunitario.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -144,20 +144,20 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Resuelve un problema comunitario!
+# ¡Resuelve un Problema Comunitario!
 
 ## Resumen
-Elige un problema que consideres inaceptable en tu comunidad y haz algo para resolverlo.
+Elegí un problema que consideres inaceptable en tu comunidad y hacé algo para resolverlo.
 
 ## Preparación
-1. Identifica un problema en tu comunidad.
-2. Piensa en posibles soluciones.
-3. Reúne apoyo.
+1. Identificá un problema en tu comunidad.
+2. Pensá en posibles soluciones.
+3. Reuní apoyo.
 
 ## Desarrollo
 1. **Identificación** (15 min): ¿Qué problema elegir?
-2. **Planificación** (20 min): Diseña una solución.
-3. **Acción** (tiempo variable): Implementa la solución.
+2. **Planificación** (20 min): Diseñá una solución.
+3. **Acción** (tiempo variable): Implementá la solución.
 4. **Reflexión** (15 min): ¿Qué lograste?
 
 ## Cierre
@@ -173,16 +173,3 @@ Elige un problema que consideres inaceptable en tu comunidad y haz algo para res
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

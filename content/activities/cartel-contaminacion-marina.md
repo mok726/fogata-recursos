@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Confeccionar un cartel sobre contaminación marina"
+title: "Confeccionar un Cartel sobre Contaminación Marina"
 duration: "20 minutos (más investigación previa)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cartel-contaminacion-marina/"
 description: "Los jóvenes investigan la contaminación por plásticos en los océanos y diseñan carteles para concienciar sobre este problema, desarrollando su creatividad y habilidades de comunicación ambiental."
-summary: "Crea un cartel para concienciar sobre la contaminación marina."
+summary: "Creá un cartel para concienciar sobre la contaminación marina."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cartel-contaminacion-marina.png"
+image: "/imagenes/actividades/cartel-contaminacion-marina.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -169,7 +169,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Confeccionar un cartel sobre contaminación marina!
+# ¡Confeccionar un Cartel sobre Contaminación Marina!
 
 ## Resumen
 Si bien la contaminación por plásticos afecta a toda la vida en el planeta, la situación en el océano es particularmente grave, ya que es el destino final de todos los plásticos que desembocan en los ríos y, finalmente, en el mar. Esta actividad tiene como objetivo lograr que los jóvenes creen un cartel sobre la contaminación marina, desarrollando su creatividad y habilidades de comunicación para concienciar sobre este problema.
@@ -201,8 +201,8 @@ Si bien la contaminación por plásticos afecta a toda la vida en el planeta, la
 
 ## Cierre
 1. ¿Qué aprendiste sobre la contaminación marina?
-2. ¿Qué mensaje fue más impactante para ti?
-3. ¿Cómo puedes seguir ayudando a combatir la contaminación en los océanos?
+2. ¿Qué mensaje fue más impactante para vos?
+3. ¿Cómo podés seguir ayudando a combatir la contaminación en los océanos?
 
 ## Texto original completo de la actividad
 
@@ -233,18 +233,3 @@ Usa el hashtag #CleanSeas para compartir tus carteles con nosotros en scout.org.
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

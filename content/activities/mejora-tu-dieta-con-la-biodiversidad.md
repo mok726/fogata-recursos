@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mejora tu Dieta con la Biodiversidad"
+title: "Mejorá Tu Dieta con la Biodiversidad"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/mejora-tu-dieta-con-la-biodiversidad/"
-description: "Descubre y prueba diferentes variedades de frutas y verduras para diversificar tu dieta."
+description: "Descubrí y prueba diferentes variedades de frutas y verduras para diversificar tu dieta."
 summary: "Diversificación de la dieta con biodiversidad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mejora-tu-dieta-con-la-biodiversidad.png"
+image: "/imagenes/actividades/mejora-tu-dieta-con-la-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,22 +169,22 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies.
 ---
 
-# Mejora tu Dieta con la Biodiversidad
+# Mejorá Tu Dieta con la Biodiversidad
 
 ## Resumen
-Descubre y prueba diferentes variedades de frutas y verduras para diversificar tu dieta.
+Descubrí y prueba diferentes variedades de frutas y verduras para diversificar tu dieta.
 
 ## Preparación
-1. Visita un mercado agrícola local.
-2. Busca tres variedades diferentes de al menos tres productos.
-3. Prepara material para tomar notas.
+1. Visitá un mercado agrícola local.
+2. Buscá tres variedades diferentes de al menos tres productos.
+3. Prepará material para tomar notas.
 
 ## Desarrollo
-1. **Visita** (20 min): Visita el mercado agrícola.
-2. **Observación** (15 min): Encuentra similitudes y diferencias.
-3. **Registro** (15 min): Anota tus hallazgos.
-4. **Exposición** (15 min): Prepara una exposición.
-5. **Degustación** (15 min): Cocina una comida con los ingredientes.
+1. **Visita** (20 min): Visitá el mercado agrícola.
+2. **Observación** (15 min): Encontrá similitudes y diferencias.
+3. **Registro** (15 min): Anotá tus hallazgos.
+4. **Exposición** (15 min): Prepará una exposición.
+5. **Degustación** (15 min): Cociná una comida con los ingredientes.
 
 ## Cierre
 - ¿Qué variedades de alimentos encontraste?
@@ -192,16 +192,3 @@ Descubre y prueba diferentes variedades de frutas y verduras para diversificar t
 - ¿Qué compromiso adquieres para diversificar tu alimentación?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

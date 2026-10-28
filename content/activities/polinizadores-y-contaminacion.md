@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Polinizadores y contaminación"
+title: "Polinizadores y Contaminación"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/polinizadores-y-contaminacion/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/polinizadores-y-contaminacion.png"
+image: "/imagenes/actividades/polinizadores-y-contaminacion.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Polinizadores y contaminación!
+# ¡Polinizadores y Contaminación!
 
 ## Resumen
 Polinizadores y contaminación - uno malo, uno genial, ambos vinculados. ¿Cuál es la situación de la contaminación del aire en tu región? Invitá a un experto local en calidad del aire para que hable sobre esto con tu escuela. ¿La contaminación del aire está afectando a la vida silvestre local, incluidos los polinizadores? ¿Cuáles son las principales causas de la contaminación del aire? ¿Qué recomienda el experto?
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

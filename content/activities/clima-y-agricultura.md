@@ -1,9 +1,9 @@
 ---
-title: "Clima y agricultura"
+title: "Clima y Agricultura"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/clima-y-agricultura/"
-description: "Investiga cómo el cambio climático afecta la producción de alimentos."
+description: "Investigá cómo el cambio climático afecta la producción de alimentos."
 summary: "Impacto climático en la agricultura."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/clima-y-agricultura.png"
+image: "/imagenes/actividades/clima-y-agricultura.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,19 +145,19 @@ rama_rovers:
   - 31 # Desarrollo acciones de preservación y protección ambiental.
 ---
 
-# ¡Clima y agricultura!
+# ¡Clima y Agricultura!
 
 ## Resumen
-Investiga cómo el cambio climático afecta la agricultura, la silvicultura, la ganadería y la pesca.
+Investigá cómo el cambio climático afecta la agricultura, la silvicultura, la ganadería y la pesca.
 
 ## Preparación
-1. Accede a recursos sobre clima y agricultura.
-2. Prepara materiales para compartir.
+1. Accedé a recursos sobre clima y agricultura.
+2. Prepará materiales para compartir.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre los impactos.
+1. **Investigación** (25 min): Aprendé sobre los impactos.
 2. **Análisis** (15 min): ¿Cómo afecta la producción de alimentos?
-3. **Compartir** (10 min): Comparte los datos con tus amigos.
+3. **Compartir** (10 min): Compartí los datos con tus amigos.
 4. **Reflexión** (10 min): ¿Qué podemos hacer?
 
 ## Cierre
@@ -173,16 +173,3 @@ Investiga cómo el cambio climático afecta la agricultura, la silvicultura, la 
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

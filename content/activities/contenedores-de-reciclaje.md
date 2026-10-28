@@ -1,9 +1,9 @@
 ---
-title: "Contenedores de reciclaje"
+title: "Contenedores de Reciclaje"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contenedores-de-reciclaje/"
-description: "Asegura contenedores separados para reciclaje en casa y escuela."
+description: "Asegurá contenedores separados para reciclaje en casa y escuela."
 summary: "Separación de residuos."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/contenedores-de-reciclaje.png"
+image: "/imagenes/actividades/contenedores-de-reciclaje.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -144,19 +144,19 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Contenedores de reciclaje!
+# ¡Contenedores de Reciclaje!
 
 ## Resumen
-Asegura contenedores separados para reciclaje en tu casa y escuela, y haz letreros para cada uno.
+Asegurá contenedores separados para reciclaje en tu casa y escuela, y hacé letreros para cada uno.
 
 ## Preparación
-1. Consigue contenedores.
-2. Prepara materiales para letreros.
+1. Conseguí contenedores.
+2. Prepará materiales para letreros.
 
 ## Desarrollo
-1. **Organización** (15 min): Prepara los contenedores.
-2. **Letreros** (15 min): Haz letreros para cada contenedor.
-3. **Colocación** (10 min): Coloca los contenedores.
+1. **Organización** (15 min): Prepará los contenedores.
+2. **Letreros** (15 min): Hacé letreros para cada contenedor.
+3. **Colocación** (10 min): Colocá los contenedores.
 4. **Reflexión** (5 min): ¿Cómo ayuda esto al medio ambiente?
 
 ## Cierre
@@ -172,16 +172,3 @@ Asegura contenedores separados para reciclaje en tu casa y escuela, y haz letrer
 NIVEL 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

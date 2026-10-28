@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Es verde tu escuela?"
+title: "¿Es Verde Tu Escuela?"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-verde-tu-escuela/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/es-verde-tu-escuela.png"
+image: "/imagenes/actividades/es-verde-tu-escuela.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -168,7 +168,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¿Es verde tu escuela?
+# ¿Es Verde Tu Escuela?
 
 ## Resumen
 Evaluá qué tan verde es tu escuela. ¿Cuál es la huella de carbono de tu escuela? ¿Cuánto papel se desperdicia? ¿Qué tan efectivos son los acuerdos de reciclaje? ¿Cuánta comida se desperdicia en el comedor?
@@ -223,20 +223,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

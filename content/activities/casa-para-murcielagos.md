@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Casa para murciélagos"
+title: "Casa para Murciélagos"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/casa-para-murcielagos/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/casa-para-murcielagos.png"
+image: "/imagenes/actividades/casa-para-murcielagos.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -167,26 +167,26 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Casa para murciélagos!
+# ¡Casa para Murciélagos!
 
 ## Resumen
-Averigua qué especies de murciélagos viven en tu área y qué hábitat y alimentos necesitan. Prepara una casa para murciélagos y colócala en un lugar apropiado.
+Averiguá qué especies de murciélagos viven en tu área y qué hábitat y alimentos necesitan. Prepará una casa para murciélagos y colocala en un lugar apropiado.
 
 ## Preparación
-1. Investiga sobre murciélagos de tu área.
-2. Reúne materiales para construir la casa.
-3. Identifica un lugar apropiado para colocarla.
+1. Investigá sobre murciélagos de tu área.
+2. Reuní materiales para construir la casa.
+3. Identificá un lugar apropiado para colocarla.
 
 ## Desarrollo
-1. Investiga qué especies de murciélagos viven en tu área.
-2. Construye una casa para murciélagos siguiendo las instrucciones.
-3. Coloca la casa en un lugar apropiado.
-4. Obsérvala en la tarde y hacia la noche durante varias semanas.
-5. Registra tus observaciones.
+1. Investigá qué especies de murciélagos viven en tu área.
+2. Construí una casa para murciélagos siguiendo las instrucciones.
+3. Colocá la casa en un lugar apropiado.
+4. Observala en la tarde y hacia la noche durante varias semanas.
+5. Registrá tus observaciones. **Nunca toques un murciélago** (pueden transmitir rabia); si encontrás uno caído, avisa a un adulto.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué murciélagos visitaron la casa?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué murciélagos visitaron la casa?
 3. Pregunta final: ¿Cómo ayudan los murciélagos a la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -195,16 +195,3 @@ A.12 Averigua qué especies de murciélagos viven en tu área y qué hábitat y 
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,8 +4,8 @@ title: "Informe de Prensa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/informe-de-prensa/"
-description: "Haz una entrevista a una persona indígena sobre un desafío que enfrente su pueblo con relación a los bosques. Escribe un reportaje o crea un show de radio."
-summary: "Entrevista a una persona indígena sobre desafíos forestales."
+description: "Hacé una entrevista a una persona indígena sobre un desafío que enfrente su pueblo con relación a los bosques. Escribí un reportaje o creá un show de radio."
+summary: "Entrevistá a una persona indígena sobre desafíos forestales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/informe-de-prensa.png"
+image: "/imagenes/actividades/informe-de-prensa.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,20 +167,20 @@ rama_rovers:
 # Informe de Prensa
 
 ## Resumen
-Haz una entrevista a una persona indígena sobre un desafío que enfrente su pueblo con relación a los bosques. Escribe un reportaje o crea un show de radio.
+Hacé una entrevista a una persona indígena sobre un desafío que enfrente su pueblo con relación a los bosques. Escribí un reportaje o creá un show de radio.
 
 ## Preparación
-1. Identifica a una persona indígena que pueda ser entrevistada.
-2. Prepara preguntas sobre desafíos relacionados con los bosques.
-3. Consigue el equipo necesario (grabadora, cuaderno, etc.).
-4. Pide autorización para compartir la información.
+1. Identificá a una persona indígena que pueda ser entrevistada.
+2. Prepará preguntas sobre desafíos relacionados con los bosques.
+3. Conseguí el equipo necesario (grabadora, cuaderno, etc.).
+4. Pedí autorización para compartir la información.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara las preguntas para la entrevista.
-2. **Entrevista** (20-30 min): Realiza la entrevista y registra las respuestas.
-3. **Creación** (30 min): Escribe un reportaje o crea un show de radio.
-4. **Revisión** (15 min): Pide a la persona entrevistada que revise el trabajo.
-5. **Publicación** (10 min): Comparte el reportaje con el grupo.
+1. **Preparación** (15 min): Prepará las preguntas para la entrevista.
+2. **Entrevista** (20-30 min): Realizá la entrevista y registrá las respuestas.
+3. **Creación** (30 min): Escribí un reportaje o creá un show de radio.
+4. **Revisión** (15 min): Pedí a la persona entrevistada que revise el trabajo.
+5. **Publicación** (10 min): Compartí el reportaje con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre los desafíos que enfrentan los pueblos indígenas?
@@ -188,16 +188,3 @@ Haz una entrevista a una persona indígena sobre un desafío que enfrente su pue
 - ¿Qué compromiso adquieres para respetar y valorar la diversidad cultural?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "Comunicación Alternativa"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/comunicacion-alternativa/"
-description: "Diseña estrategias de comunicación creativas para difundir el mensaje de acabar con el hambre."
+description: "Diseñá estrategias de comunicación creativas para difundir el mensaje de acabar con el hambre."
 summary: "Estrategias creativas contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comunicacion-alternativa.png"
+image: "/imagenes/actividades/comunicacion-alternativa.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -175,18 +175,18 @@ rama_rovers:
 # Comunicación Alternativa
 
 ## Resumen
-Diseña estrategias de comunicación creativas para difundir el mensaje de acabar con el hambre.
+Diseñá estrategias de comunicación creativas para difundir el mensaje de acabar con el hambre.
 
 ## Preparación
-1. Piensa en lugares estratégicos para colocar mensajes.
-2. Prepara material para carteles o pancartas.
-3. Investiga ejemplos de comunicación alternativa.
+1. Pensá en lugares estratégicos para colocar mensajes.
+2. Prepará material para carteles o pancartas.
+3. Investigá ejemplos de comunicación alternativa.
 
 ## Desarrollo
-1. **Lluvia de ideas** (15 min): Piensa en ideas originales de comunicación.
-2. **Diseño** (20 min): Diseña eslóganes, logos o mensajes.
-3. **Creación** (20 min): Prepara los materiales.
-4. **Acción** (15 min): Lleva a cabo tu estrategia (flash-mob, carteles, etc.).
+1. **Lluvia de ideas** (15 min): Pensá en ideas originales de comunicación.
+2. **Diseño** (20 min): Diseñá eslóganes, logos o mensajes.
+3. **Creación** (20 min): Prepará los materiales.
+4. **Acción** (15 min): Llevá a cabo tu estrategia (flash-mob, carteles, etc.).
 
 ## Cierre
 - ¿Qué estrategia de comunicación te pareció más efectiva?
@@ -194,16 +194,3 @@ Diseña estrategias de comunicación creativas para difundir el mensaje de acaba
 - ¿Qué compromiso adquieres para seguir comunicando este mensaje?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

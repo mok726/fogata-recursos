@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Explorando nuestro entorno"
+title: "Explorando Nuestro Entorno"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/explorando-nuestro-entorno/"
 description: "Los participantes salen al aire libre a explorar su entorno, buscando elementos naturales y evidencias de la intervención humana, reflexionando sobre el impacto en el medio ambiente."
-summary: "Explora y analiza tu entorno natural."
+summary: "Explorá y analizá tu entorno natural."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/explorando-nuestro-entorno.png"
+image: "/imagenes/actividades/explorando-nuestro-entorno.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -168,15 +168,17 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# Explorando nuestro entorno
+# Explorando Nuestro Entorno
 
 ## Resumen
 Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pasa a nuestro alrededor. En esta actividad, los participantes salen al aire libre a explorar su entorno, buscando elementos naturales y evidencias de la intervención humana, reflexionando sobre el impacto en el medio ambiente.
 
 ## Preparación
-1. Identifica un espacio al aire libre seguro para la exploración.
-2. Prepara los materiales para la recolección.
-3. Establece las normas de seguridad y cuidado del entorno.
+1. Identificá un espacio al aire libre seguro para la exploración.
+2. Prepará cuadernos o planillas, lápices y, si hay, celulares o cámaras para registrar los hallazgos.
+3. Establecé las normas de seguridad y cuidado del entorno:
+   - Se observa, se fotografía o se dibuja: no se arrancan hojas ni se llevan semillas, plumas o restos de animales (No Dejar Rastro; en áreas protegidas, además, está prohibido).
+   - Los residuos y los restos de animales no se tocan sin guantes. Lo que pincha, corta o es sanitario no se toca: se avisa a un adulto.
 
 ## Desarrollo
 
@@ -187,7 +189,7 @@ Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pa
 2. Busquen en su alrededor los siguientes elementos:
    - Tres tipos distintos de hojas
    - Algún resto animal (pluma, huella, etc.)
-   - Algo que no pertenezca al entorno (muestras de desechos humanos)
+   - Algo que no pertenezca al entorno (residuos que dejaron las personas)
    - Algo que sirva para transportar agua
    - Algo que huela bien
    - Algo suave
@@ -198,7 +200,7 @@ Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pa
 4. Reflexionen sobre cómo el lugar donde se encuentran ha sido intervenido por los seres humanos.
 
 ### Paso 4: Registro
-5. Pueden registrar sus hallazgos en un cuaderno de campo con dibujos y descripciones.
+5. Registren cada hallazgo en el cuaderno de campo, con una foto, un dibujo o una descripción, y dejen todo donde lo encontraron. Si encontraron residuos, pueden juntarlos con guantes al final, para dejar el lugar mejor de lo que estaba.
 
 ## ODS involucrados
 - **ODS 4:** Educación de calidad
@@ -227,17 +229,3 @@ Muchas veces no somos conscientes del entorno en que vivimos y qué es lo que pa
 **ODS involucrados:** 4, 6, 12, 13, 14, 15
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

@@ -1,9 +1,9 @@
 ---
-title: "Colecta puerta a puerta"
+title: "Colecta Puerta a Puerta"
 duration: "Proyecto de organización"
 layout: "layouts/activity.njk"
 permalink: "/activities/colecta-puerta-a-puerta/"
-description: "Organiza una colecta de ropa, libros y juguetes para donar."
+description: "Organizá una colecta de ropa, libros y juguetes para donar."
 summary: "Colecta de donaciones."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/colecta-puerta-a-puerta.png"
+image: "/imagenes/actividades/colecta-puerta-a-puerta.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -149,21 +149,22 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Colecta puerta a puerta!
+# ¡Colecta Puerta a Puerta!
 
 ## Resumen
-Organiza una colecta de ropa, muebles, libros, juguetes y bienes enlatados para donar o vender.
+Organizá una colecta de ropa, muebles, libros, juguetes y bienes enlatados para donar o vender.
 
 ## Preparación
-1. Define los artículos a recolectar.
-2. Prepara materiales para la colecta.
-3. Promociona la iniciativa.
+1. Definí los artículos a recolectar.
+2. Prepará materiales para la colecta.
+3. Promocioná la iniciativa.
+4. Seguridad: nunca solos; en grupos con un adulto, sin entrar a las casas y de día.
 
 ## Desarrollo
-1. **Planificación** (20 min): Organiza la colecta.
+1. **Planificación** (20 min): Organizá la colecta.
 2. **Promoción** (15 min): Anuncia la colecta.
-3. **Colecta** (2-3 horas): Recolecta puerta a puerta.
-4. **Donación** (20 min): Dona o vende los artículos.
+3. **Colecta** (2-3 horas): Recolectá puerta a puerta.
+4. **Donación** (20 min): Doná o vende los artículos.
 
 ## Cierre
 - ¿Qué artículos recolectaste?
@@ -178,16 +179,3 @@ Organiza una colecta de ropa, muebles, libros, juguetes y bienes enlatados para 
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies en movimiento"
+title: "Especies en Movimiento"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-en-movimiento/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/especies-en-movimiento.png"
+image: "/imagenes/actividades/especies-en-movimiento.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Especies en movimiento!
+# ¡Especies en Movimiento!
 
 ## Resumen
 Mientras el clima cambia algunas especies tendrán que trasladarse hacia arriba (literalmente hacia la cumbre de las montañas) o hacia los polos para mantenerse en el mismo tipo de clima.
 
 ## Preparación
-1. Investiga especies de tu área afectadas por el cambio climático.
-2. Prepara materiales para dibujar.
-3. Organiza los grupos de trabajo.
+1. Investigá especies de tu área afectadas por el cambio climático.
+2. Prepará materiales para dibujar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cuáles son algunas de las especies de tu área que podrían necesitar trasladarse?
-2. Investiga: ¿Qué dificultades podrían enfrentar si necesitasen mudarse?
-3. Reflexiona: ¿Cómo afecta esto a la biodiversidad?
-4. Elabora un dibujo sobre cómo crees que tu medio ambiente se vería si estas especies se trasladasen a otro lugar.
+1. Investigá: ¿Cuáles son algunas de las especies de tu área que podrían necesitar trasladarse?
+2. Investigá: ¿Qué dificultades podrían enfrentar si necesitasen mudarse?
+3. Reflexioná: ¿Cómo afecta esto a la biodiversidad?
+4. Elaborá un dibujo sobre cómo creés que tu medio ambiente se vería si estas especies se trasladasen a otro lugar.
 
 ## Cierre
-1. Comparte tu dibujo con el grupo.
-2. Reflexiona sobre el impacto del cambio climático en la biodiversidad.
+1. Compartí tu dibujo con el grupo.
+2. Reflexioná sobre el impacto del cambio climático en la biodiversidad.
 3. Pregunta final: ¿Cómo podemos ayudar a las especies a adaptarse al cambio climático?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ A.16 Mientras el clima cambia algunas especies tendrán que trasladarse hacia ar
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

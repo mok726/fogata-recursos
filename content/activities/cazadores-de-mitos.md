@@ -4,7 +4,7 @@ title: "¡Cazadores de Mitos!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cazadores-de-mitos/"
-description: "Revisa once mitos sobre el hambre y discute si son verdaderos o falsos. Toma un quiz sobre el hambre."
+description: "Revisá once mitos sobre el hambre y discutí si son verdaderos o falsos. Tomá un quiz sobre el hambre."
 summary: "Investigación y debate sobre mitos del hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cazadores-de-mitos.png"
+image: "/imagenes/actividades/cazadores-de-mitos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -177,18 +177,18 @@ rama_rovers:
 # ¡Cazadores de Mitos!
 
 ## Resumen
-Revisa once mitos sobre el hambre y discute si son verdaderos o falsos. Toma un quiz sobre el hambre.
+Revisá once mitos sobre el hambre y discutí si son verdaderos o falsos. Tomá un quiz sobre el hambre.
 
 ## Preparación
-1. Accede al recurso con los 11 mitos sobre el hambre: http://es.wfp.org/historias/11-mitos-sobre-el-hambre-mundial.
-2. Prepara el quiz sobre el hambre: http://quiz.wfp.org.
-3. Prepara material para póster o folleto (extensión).
+1. Accedé al recurso con los 11 mitos sobre el hambre: http://es.wfp.org/historias/11-mitos-sobre-el-hambre-mundial.
+2. Prepará el quiz sobre el hambre: http://quiz.wfp.org.
+3. Prepará material para póster o folleto (extensión).
 
 ## Desarrollo
-1. **Investigación** (15 min): Lee los 11 mitos sobre el hambre.
-2. **Discusión** (20 min): Revisa cada mito y discute si es verdadero o falso.
-3. **Quiz** (15 min): Toma el quiz sobre el hambre.
-4. **Extensión** (30 min): Crea un póster o folleto explicando por qué estos mitos son incorrectos.
+1. **Investigación** (15 min): Leé los 11 mitos sobre el hambre.
+2. **Discusión** (20 min): Revisá cada mito y discutí si es verdadero o falso.
+3. **Quiz** (15 min): Tomá el quiz sobre el hambre.
+4. **Extensión** (30 min): Creá un póster o folleto explicando por qué estos mitos son incorrectos.
 
 ## Cierre
 - ¿Qué mito te sorprendió más y por qué?
@@ -196,16 +196,3 @@ Revisa once mitos sobre el hambre y discute si son verdaderos o falsos. Toma un 
 - ¿Qué compromiso adquieres para compartir información precisa sobre el hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

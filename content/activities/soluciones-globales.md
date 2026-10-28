@@ -3,7 +3,7 @@ title: "Soluciones Globales"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/soluciones-globales/"
-description: "Experimenta con la desalinización y aprende cómo diferentes países abordan la escasez de agua."
+description: "Experimentá con la desalinización y aprendé cómo diferentes países abordan la escasez de agua."
 summary: "Experimento de desalinización y soluciones globales."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/soluciones-globales.png"
+image: "/imagenes/actividades/soluciones-globales.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -156,17 +156,17 @@ rama_rovers:
 # ¡Soluciones Globales!
 
 ## Resumen
-Experimenta con la desalinización del agua salada y aprende cómo diferentes países abordan la escasez de agua.
+Experimentá con la desalinización del agua salada y aprendé cómo diferentes países abordan la escasez de agua.
 
 ## Preparación
-1. Prepara agua salada.
-2. Reúne materiales para el experimento.
-3. Investiga sobre desalinización en diferentes países.
+1. Prepará agua salada.
+2. Reuní materiales para el experimento.
+3. Investigá sobre desalinización en diferentes países.
 
 ## Desarrollo
-1. **Preparación** (10 min): Prepara el agua salada.
-2. **Experimento** (25 min): Prueba diferentes métodos de desalinización.
-3. **Investigación** (15 min): Investiga soluciones en diferentes países.
+1. **Preparación** (10 min): Prepará el agua salada.
+2. **Experimento** (25 min): Probá diferentes métodos de desalinización.
+3. **Investigación** (15 min): Investigá soluciones en diferentes países.
 4. **Comparación** (10 min): ¿Qué soluciones son más efectivas?
 
 ## Cierre
@@ -182,16 +182,3 @@ Experimenta con la desalinización del agua salada y aprende cómo diferentes pa
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

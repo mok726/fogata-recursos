@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿De Dónde Viene tu Comida?"
+title: "¿De Dónde Viene Tu Comida?"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/de-donde-viene-tu-comida/"
-description: "Investiga el origen de los alimentos que comes y su impacto medioambiental."
+description: "Investigá el origen de los alimentos que comés y su impacto medioambiental."
 summary: "Investigación sobre el origen de los alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/de-donde-viene-tu-comida.png"
+image: "/imagenes/actividades/de-donde-viene-tu-comida.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -167,39 +167,26 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¿De Dónde Viene tu Comida?
+# ¿De Dónde Viene Tu Comida?
 
 ## Resumen
-Investiga el origen de los alimentos que comes y su impacto medioambiental.
+Investigá el origen de los alimentos que comés y su impacto medioambiental.
 
 ## Preparación
-1. Inspecciona tu cocina y los alimentos que consumes.
-2. Pide ayuda a tu familia para identificar el origen de los alimentos.
-3. Prepara un mapa para marcar los lugares.
+1. Inspeccioná tu cocina y los alimentos que consumís.
+2. Pedí ayuda a tu familia para identificar el origen de los alimentos.
+3. Prepará un mapa para marcar los lugares.
 
 ## Desarrollo
-1. **Inspección** (15 min): Revisa los alimentos en tu cocina.
-2. **Investigación** (15 min): Averigua de dónde vienen.
-3. **Mapa** (15 min): Marca los lugares en un mapa.
+1. **Inspección** (15 min): Revisá los alimentos en tu cocina.
+2. **Investigación** (15 min): Averiguá de dónde vienen.
+3. **Mapa** (15 min): Marcá los lugares en un mapa.
 4. **Reflexión** (15 min): ¿Qué alimentos recorren largas distancias?
-5. **Debate** (10 min): Comparte la información con tu familia.
+5. **Debate** (10 min): Compartí la información con tu familia.
 
 ## Cierre
 - ¿Qué alimentos vienen desde más lejos?
-- ¿Cómo puedes reducir el impacto ambiental de tu comida?
+- ¿Cómo podés reducir el impacto ambiental de tu comida?
 - ¿Qué compromiso adquieres para elegir alimentos locales?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

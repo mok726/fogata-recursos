@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprendamos sobre la plantación de árboles"
+title: "Aprendamos sobre la Plantación de Árboles"
 duration: "4 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantacion-de-arboles/"
 description: "Los participantes visitan un vivero de árboles, invernadero o jardín para aprender sobre el cultivo y la plantación de árboles, y el proceso de reforestación."
-summary: "Aprende a plantar árboles."
+summary: "Aprendé a plantar árboles."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/plantacion-de-arboles.png"
+image: "/imagenes/actividades/plantacion-de-arboles.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -150,20 +150,20 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Aprendamos sobre la plantación de árboles!
+# ¡Aprendamos sobre la Plantación de Árboles!
 
 ## Resumen
 Para entender el proceso de reforestación/revegetación: saber de dónde vienen los árboles y las plantas para la reforestación y revegetación a través de una visita a un vivero de árboles, invernadero o jardín.
 
 ## Preparación
-1. Organiza una visita a un vivero de árboles, invernadero o jardín.
-2. Prepara preguntas para hacer durante la visita.
-3. Reflexiona con el grupo sobre el bosque o la vegetación en su entorno/área.
+1. Organizá una visita a un vivero de árboles, invernadero o jardín.
+2. Prepará preguntas para hacer durante la visita.
+3. Reflexioná con el grupo sobre el bosque o la vegetación en su entorno/área.
 
 ## Desarrollo
 
 ### Parte I - Reflexión previa
-Reflexionen con el grupo sobre el bosque o la vegetación en su entorno/área. ¿Dónde encuentras bosques? ¿Hay mucha vegetación o áreas verdes?
+Reflexionen con el grupo sobre el bosque o la vegetación en su entorno/área. ¿Dónde encontrás bosques? ¿Hay mucha vegetación o áreas verdes?
 
 **Posibles hallazgos:**
 a. Vegetación que está cortada en un solo lugar
@@ -173,8 +173,8 @@ d. Árboles que no se replantan donde fueron cortados
 e. Árboles que se replantan donde fueron cortados
 f. Árboles que se procesan en un aserradero
 g. Diferentes productos de madera en tu vida diaria que proceden de los árboles
-h. Alguien que conoces que está trabajando en silvicultura/carpintería
-i. Hay varias razones para talar árboles: simplemente estén en el camino, se usan para material de construcción, se usan para fogatas
+h. Alguien que conocés que está trabajando en silvicultura/carpintería
+i. Hay varias razones para talar árboles: simplemente porque están en el camino, se usan para material de construcción, se usan para fogatas
 
 ### Parte II - Visita
 Visiten un invernadero/vivero de árboles. El líder pre-organiza una visita a un vivero de árboles, invernadero o jardín dentro del área. Allí los participantes aprenden sobre el cultivo y la plantación de árboles y pueden hacer sus preguntas.
@@ -185,7 +185,7 @@ Discutir lo que vieron/experimentaron en el vivero/invernadero. Traten de poner 
 ## Cierre
 1. ¿Qué aprendiste sobre el cultivo de árboles?
 2. ¿Por qué es importante plantar árboles?
-3. ¿Cómo puedes involucrarte en la reforestación?
+3. ¿Cómo podés involucrarte en la reforestación?
 
 ## Texto original completo de la actividad
 
@@ -229,17 +229,3 @@ Discutir lo que vieron/experimentaron en el vivero/invernadero. Traten de poner 
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

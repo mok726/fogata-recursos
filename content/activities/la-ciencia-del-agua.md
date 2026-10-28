@@ -3,7 +3,7 @@ title: "La Ciencia del Agua"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-ciencia-del-agua/"
-description: "Investiga las propiedades científicas de la molécula de agua."
+description: "Investigá las propiedades científicas de la molécula de agua."
 summary: "Propiedades científicas del agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/la-ciencia-del-agua.png"
+image: "/imagenes/actividades/la-ciencia-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -150,16 +150,16 @@ rama_rovers:
 # ¡La Ciencia del Agua!
 
 ## Resumen
-Investiga las propiedades científicas de la molécula de agua y comparte los cinco hechos más importantes con tu grupo.
+Investigá las propiedades científicas de la molécula de agua y compartí los cinco hechos más importantes con tu grupo.
 
 ## Preparación
-1. Reúne materiales para tomar notas.
-2. Accede a recursos sobre la química y física del agua.
+1. Reuní materiales para tomar notas.
+2. Accedé a recursos sobre la química y física del agua.
 
 ## Desarrollo
-1. **Investigación** (30 min): Investiga sobre las propiedades del agua.
-2. **Selección** (15 min): Elige los cinco hechos más importantes.
-3. **Presentación** (10 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (30 min): Investigá sobre las propiedades del agua.
+2. **Selección** (15 min): Elegí los cinco hechos más importantes.
+3. **Presentación** (10 min): Compartí tus hallazgos con el grupo.
 4. **Discusión** (5 min): Hablen sobre cómo estas propiedades afectan la vida.
 
 ## Cierre
@@ -175,16 +175,3 @@ Investiga las propiedades científicas de la molécula de agua y comparte los ci
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

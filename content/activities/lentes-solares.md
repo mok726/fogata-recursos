@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Lentes solares"
+title: "Lentes Solares"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lentes-solares/"
-description: "Construye tus propios lentes de Sol para proteger tus ojos de los rayos ultravioleta mientras realizas actividades solares."
+description: "Construí tus propios lentes de Sol para proteger tus ojos de los rayos ultravioleta mientras realizas actividades solares."
 summary: "Protege tus ojos del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/lentes-solares.png"
+image: "/imagenes/actividades/lentes-solares.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -165,7 +165,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Lentes solares!
+# ¡Lentes Solares!
 
 ## Resumen
 Creen sus propios lentes de Sol. Es muy importante que protejan sus ojos del Sol en todo momento. Por esto es que es necesario el uso de lentes. Estos nos ayudan a proteger nuestra visión.
@@ -185,6 +185,8 @@ Peguen la lámina oscura en los dos orificios y luego unan las dos caras.
 
 ### Paso 3 - Secar y decorar
 Dejen secar unos minutos y ya tendrán tus lentes listos. Pueden decorarlos como quieran.
+
+> **Nota de seguridad para el educador:** estos lentes son un ejercicio didáctico. Una lámina oscura no garantiza filtro UV, y un lente oscuro sin filtro dilata la pupila y deja entrar **más** radiación UV. No reemplazan a los anteojos de sol certificados (norma ISO 12312-1) y **nunca** sirven para mirar el Sol ni un eclipse.
 
 ## Cierre
 1. ¿Por qué es importante proteger los ojos del Sol?
@@ -217,17 +219,3 @@ Creen sus propios lentes de Sol. Es muy importante que protejan sus ojos del Sol
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Calificación de carbono por país"
+title: "Calificación de Carbono por País"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/calificacion-carbono-pais/"
-description: "Investiga las emisiones de CO₂ por país, compara la posición de tu país y crea un póster creativo con tus hallazgos."
-summary: "Compara las emisiones de CO₂ entre países."
+description: "Investigá las emisiones de CO₂ por país, compará la posición de tu país y creá un póster creativo con tus hallazgos."
+summary: "Compará las emisiones de CO₂ entre países."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/calificacion-carbono-pais.png"
+image: "/imagenes/actividades/calificacion-carbono-pais.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -166,20 +166,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Calificación de carbono por país!
+# ¡Calificación de Carbono por País!
 
 ## Resumen
-Investiga las emisiones de CO₂ por país. ¿Dónde se encuentra tu país en comparación con otros? Crea un póster creativo con tus hallazgos, ¡incluye un mapa!
+Investigá las emisiones de CO₂ por país. ¿Dónde se encuentra tu país en comparación con otros? Creá un póster creativo con tus hallazgos, ¡incluye un mapa!
 
 ## Preparación
-1. Lee la información sobre emisiones de CO₂.
-2. Accede a la calculadora de huella de carbono de WWF.
-3. Prepara materiales para crear el póster.
+1. Leé la información sobre emisiones de CO₂.
+2. Accedé a la calculadora de huella de carbono de WWF.
+3. Prepará materiales para crear el póster.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga las emisiones de CO₂ por país:
+Investigá las emisiones de CO₂ por país:
 
 **Preguntas guía:**
 - ¿Cuáles son los países que más CO₂ emiten?
@@ -190,7 +190,7 @@ Investiga las emisiones de CO₂ por país:
 **Fuente sugerida:** https://footprint.wwf.org.uk/#/
 
 ### Parte II - Póster
-Crea un póster con tus hallazgos:
+Creá un póster con tus hallazgos:
 
 **Elementos sugeridos:**
 - Mapa mundial con colores por niveles de emisión
@@ -199,11 +199,11 @@ Crea un póster con tus hallazgos:
 - Razones de las diferencias
 
 ### Parte III - Compartir
-Comparte tu póster con el grupo.
+Compartí tu póster con el grupo.
 
 ## Cierre
 1. ¿Qué país tiene las emisiones más altas?
-2. ¿Por qué crees que algunos países emiten más?
+2. ¿Por qué creés que algunos países emiten más?
 3. ¿Qué puede hacer tu país para reducir emisiones?
 
 ## Texto original completo de la actividad
@@ -234,20 +234,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

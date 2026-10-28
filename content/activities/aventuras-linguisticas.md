@@ -3,7 +3,7 @@ title: "Aventuras Lingüísticas"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/aventuras-linguisticas/"
-description: "Aprende cómo se dice 'agua' en diferentes idiomas y crea trabalenguas divertidos."
+description: "Aprendé cómo se dice 'agua' en diferentes idiomas y creá trabalenguas divertidos."
 summary: "Palabra 'agua' en diferentes idiomas."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/aventuras-linguisticas.png"
+image: "/imagenes/actividades/aventuras-linguisticas.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -150,21 +150,21 @@ rama_rovers: []
 # ¡Aventuras Lingüísticas!
 
 ## Resumen
-Investiga cómo se dice 'agua' en diferentes idiomas y crea trabalenguas divertidos.
+Investigá cómo se dice 'agua' en diferentes idiomas y creá trabalenguas divertidos.
 
 ## Preparación
-1. Asigna un país diferente a cada miembro del grupo.
-2. Prepara materiales para tomar notas.
+1. Asigná un país diferente a cada miembro del grupo.
+2. Prepará materiales para tomar notas.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga cómo se dice 'agua' en el idioma de tu país asignado.
-2. **Compartir** (10 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (15 min): Investigá cómo se dice 'agua' en el idioma de tu país asignado.
+2. **Compartir** (10 min): Compartí tus hallazgos con el grupo.
 3. **Concurso** (3 min): ¿Quién puede recordar más palabras?
-4. **Trabalenguas** (2 min): Inventa un trabalenguas con las palabras.
+4. **Trabalenguas** (2 min): Inventá un trabalenguas con las palabras.
 
 ## Cierre
 - ¿Qué palabra te gustó más?
-- ¿Por qué crees que hay tantas palabras para decir 'agua'?
+- ¿Por qué creés que hay tantas palabras para decir 'agua'?
 - ¿Qué aprendiste sobre otras culturas?
 
 ---
@@ -175,16 +175,3 @@ Investiga cómo se dice 'agua' en diferentes idiomas y crea trabalenguas diverti
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

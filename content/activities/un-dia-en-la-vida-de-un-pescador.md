@@ -4,8 +4,8 @@ title: "Un Día en la Vida de un Pescador"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/un-dia-en-la-vida-de-un-pescador/"
-description: "Entrevista a un pescador y escribe una historia sobre un día en su vida."
-summary: "Entrevista y relato sobre un pescador."
+description: "Entrevistá a un pescador y escribí una historia sobre un día en su vida."
+summary: "Entrevistá y relato sobre un pescador."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-dia-en-la-vida-de-un-pescador.png"
+image: "/imagenes/actividades/un-dia-en-la-vida-de-un-pescador.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -32,7 +32,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Papel y bolígrafos o lápices
+  - Papel y lapiceras o lápices
   - Acceso a internet (opcional)
 tools: []
 responsible:
@@ -171,18 +171,18 @@ rama_rovers:
 # Un Día en la Vida de un Pescador
 
 ## Resumen
-Entrevista a un pescador y escribe una historia sobre un día en su vida.
+Entrevistá a un pescador y escribí una historia sobre un día en su vida.
 
 ## Preparación
-1. Identifica a un pescador que pueda ser entrevistado.
-2. Prepara preguntas sobre su día a día.
-3. Asegura la supervisión de un adulto.
+1. Identificá a un pescador que pueda ser entrevistado.
+2. Prepará preguntas sobre su día a día.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para la entrevista.
-2. **Entrevista** (20 min): Entrevista al pescador y registra sus respuestas.
-3. **Escritura** (25 min): Escribe una historia sobre un día en la vida del pescador.
-4. **Presentación** (15 min): Comparte la historia con el grupo.
+1. **Preparación** (15 min): Prepará preguntas para la entrevista.
+2. **Entrevista** (20 min): Entrevistá al pescador y registrá sus respuestas.
+3. **Escritura** (25 min): Escribí una historia sobre un día en la vida del pescador.
+4. **Presentación** (15 min): Compartí la historia con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de los pescadores?
@@ -201,16 +201,3 @@ Materiales: papel y bolígrafos o lápices, acceso a internet (opcional).
 nivel: 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

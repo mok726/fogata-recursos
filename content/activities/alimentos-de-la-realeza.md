@@ -4,7 +4,7 @@ title: "Alimentos de la Realeza"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-de-la-realeza/"
-description: "Reflexiona sobre el concepto de soberanía alimentaria y cómo se relaciona con el hambre. Escribe una historia o dramatización."
+description: "Reflexioná sobre el concepto de soberanía alimentaria y cómo se relaciona con el hambre. Escribí una historia o dramatización."
 summary: "Reflexión sobre soberanía alimentaria."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-de-la-realeza.png"
+image: "/imagenes/actividades/alimentos-de-la-realeza.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -166,19 +166,19 @@ rama_rovers:
 # Alimentos de la Realeza
 
 ## Resumen
-Reflexiona sobre el concepto de soberanía alimentaria y cómo se relaciona con el hambre. Escribe una historia o dramatización.
+Reflexioná sobre el concepto de soberanía alimentaria y cómo se relaciona con el hambre. Escribí una historia o dramatización.
 
 ## Preparación
-1. Investiga el concepto de soberanía alimentaria.
-2. Reflexiona sobre su relación con el hambre.
-3. Prepara material para escribir.
+1. Investigá el concepto de soberanía alimentaria.
+2. Reflexioná sobre su relación con el hambre.
+3. Prepará material para escribir.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga qué es la soberanía alimentaria.
-2. **Reflexión** (15 min): Piensa por qué es importante que las personas gobiernen sus sistemas alimentarios.
-3. **Creación** (20 min): Escribe una historia o dramatización.
-4. **Presentación** (15 min): Lee o presenta tu trabajo.
-5. **Extensión - 16+ (Caminantes y Rovers)** (20 min): Compara países con y sin soberanía alimentaria.
+1. **Investigación** (15 min): Investigá qué es la soberanía alimentaria.
+2. **Reflexión** (15 min): Pensá por qué es importante que las personas gobiernen sus sistemas alimentarios.
+3. **Creación** (20 min): Escribí una historia o dramatización.
+4. **Presentación** (15 min): Leé o presentá tu trabajo.
+5. **Extensión - 16+ (Caminantes y Rovers)** (20 min): Compará países con y sin soberanía alimentaria.
 
 ## Cierre
 - ¿Qué es la soberanía alimentaria y por qué es importante?
@@ -186,16 +186,3 @@ Reflexiona sobre el concepto de soberanía alimentaria y cómo se relaciona con 
 - ¿Qué compromiso adquieres para apoyar la soberanía alimentaria?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

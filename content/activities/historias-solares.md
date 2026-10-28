@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Historias solares"
+title: "Historias Solares"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/historias-solares/"
-description: "Investiga el rol del Sol en una cultura o religión específica y crea una exhibición estilo museo con dibujos y explicaciones."
-summary: "Descubre la importancia cultural del Sol."
+description: "Investigá el rol del Sol en una cultura o religión específica y creá una exhibición estilo museo con dibujos y explicaciones."
+summary: "Descubrí la importancia cultural del Sol."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/historias-solares.png"
+image: "/imagenes/actividades/historias-solares.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -166,20 +166,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Historias solares!
+# ¡Historias Solares!
 
 ## Resumen
 Desde que los humanos existen en el planeta, hemos usado la energía del Sol. Pero la influencia del Sol en la vida humana va mucho más allá de nuestra necesidad de energía. A lo largo de la historia, los pueblos "adoraron" al Sol y tuvieron dioses solares.
 
 ## Preparación
-1. Visita tu biblioteca escolar o local para investigar.
-2. Investiga el rol del Sol en una cultura o religión específica.
-3. Reúne materiales para crear tu exhibición.
+1. Visitá tu biblioteca escolar o local para investigar.
+2. Investigá el rol del Sol en una cultura o religión específica.
+3. Reuní materiales para crear tu exhibición.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga sobre el rol del Sol en una cultura o religión de tu elección.
+Investigá sobre el rol del Sol en una cultura o religión de tu elección.
 
 **Preguntas guía:**
 - ¿Cómo era representado el Sol en esa cultura?
@@ -189,17 +189,17 @@ Investiga sobre el rol del Sol en una cultura o religión de tu elección.
 - ¿Qué simbolismo tenía el Sol para esa cultura?
 
 ### Parte II - Creación de la exhibición
-Prepara una exhibición estilo museo con:
+Prepará una exhibición estilo museo con:
 - Dibujos y explicaciones
 - Información sobre la cultura o religión elegida
 - Representaciones del Sol en esa cultura
 
 ### Parte III - Presentación
-Presenta tu exhibición en tu próxima reunión o clase.
+Presentá tu exhibición en tu próxima reunión o clase.
 
 ## Cierre
 1. ¿Qué descubrimiento sobre el Sol en esa cultura te sorprendió más?
-2. ¿Por qué crees que el Sol ha sido tan importante para tantas culturas?
+2. ¿Por qué creés que el Sol ha sido tan importante para tantas culturas?
 3. ¿Cómo se relaciona esa importancia cultural con la importancia real del Sol para nuestra vida?
 
 ## Texto original completo de la actividad
@@ -230,20 +230,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

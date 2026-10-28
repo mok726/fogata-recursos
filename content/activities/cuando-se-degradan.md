@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuándo se degradan?"
+title: "¿Cuándo Se Degradan?"
 duration: "12 semanas (experimento)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuando-se-degradan/"
 description: "Un experimento a largo plazo donde los jóvenes entierran diferentes materiales y observan su proceso de degradación, aprendiendo sobre biodegradabilidad y el impacto ambiental de los plásticos."
-summary: "Descubre cuánto tardan en degradarse los plásticos."
+summary: "Descubrí cuánto tardan en degradarse los plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuando-se-degradan.png"
+image: "/imagenes/actividades/cuando-se-degradan.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -170,7 +170,7 @@ rama_rovers:
 
 ---
 
-# ¿Cuándo se degradan?
+# ¿Cuándo Se Degradan?
 
 ## Resumen
 Diferentes materiales en el medio ambiente tardan diferentes períodos de tiempo en degradarse. Materiales como el plástico no se biodegradan y permanecen en el ambiente durante cientos de años. Esta actividad ayuda a los jóvenes a comprender el proceso de degradación y el tiempo que tienen diferentes materiales para descomponerse, mediante un experimento a largo plazo.
@@ -237,18 +237,3 @@ Diferentes materiales en el medio ambiente tardan diferentes períodos de tiempo
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

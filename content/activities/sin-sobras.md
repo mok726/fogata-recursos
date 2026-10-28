@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sin sobras"
+title: "Sin Sobras"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/sin-sobras/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/sin-sobras.png"
+image: "/imagenes/actividades/sin-sobras.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -182,32 +182,32 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Sin sobras!
+# ¡Sin Sobras!
 
 ## Resumen
-Encontrar formas creativas de usar las sobras es una excelente manera de evitar el desperdicio de alimentos. Involucra a los adultos de tu hogar para que te ayuden a usar las sobras de forma creativa.
+Encontrar formas creativas de usar las sobras es una excelente manera de evitar el desperdicio de alimentos. Involucrá a los adultos de tu hogar para que te ayuden a usar las sobras de forma creativa.
 
 ## Preparación
-1. Asegúrate de que los alimentos que vas a usar aún sean seguros para consumir.
-2. Reúne las sobras que tengas en casa.
-3. Busca recetas que puedan usar esos ingredientes.
+1. Asegurate de que los alimentos que vas a usar aún sean seguros para consumir.
+2. Reuní las sobras que tengas en casa.
+3. Buscá recetas que puedan usar esos ingredientes.
 
 ## Desarrollo
-1. Verifica que el alimento que quieres usar aún sea seguro para consumir.
-2. Ponte el delantal y ponte creativo. Algunas ideas para empezar:
-   - Usa verduras sobrantes en una sopa o caldo.
-   - Cocina fruta que ya no esté tan fresca y cómela con yogur y canela como postre.
-   - Usa carne sobrante en una sopa o en un pastel de carne.
-   - Usa arroz sobrante para hacer arroz frito.
-   - Convierte bananas maduras en pan de banana o panqueques.
-   - Convierte pan duro en budín de pan.
-   - Usa pan plano sobrante para hacer pizza.
-   - Cocina espinacas ligeramente marchitas y hierbas en una tortilla.
-   - Convierte tomates viejos en una salsa simple para pasta.
+1. Verificá que el alimento que querés usar aún sea seguro para consumir.
+2. Ponete el delantal y ponete creativo. Algunas ideas para empezar:
+   - Usá verduras sobrantes en una sopa o caldo.
+   - Cociná fruta que ya no esté tan fresca y cómela con yogur y canela como postre.
+   - Usá carne sobrante en una sopa o en un pastel de carne.
+   - Usá arroz sobrante para hacer arroz frito.
+   - Convertí bananas maduras en pan de banana o panqueques.
+   - Convertí pan duro en budín de pan.
+   - Usá pan plano sobrante para hacer pizza.
+   - Cociná espinacas ligeramente marchitas y hierbas en una tortilla.
+   - Convertí tomates viejos en una salsa simple para pasta.
 
 ## Cierre
-1. Comparte tus creaciones con tu familia.
-2. Reflexiona sobre lo que aprendiste.
+1. Compartí tus creaciones con tu familia.
+2. Reflexioná sobre lo que aprendiste.
 3. Pregunta final: ¿Qué receta con sobras te gustó más y por qué?
 
 ## Texto original completo de la actividad
@@ -268,20 +268,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

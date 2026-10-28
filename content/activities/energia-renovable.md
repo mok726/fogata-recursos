@@ -1,9 +1,9 @@
 ---
-title: "Energía renovable"
+title: "Energía Renovable"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-renovable/"
-description: "Averigua sobre energía renovable y construye un modelo de demostración."
+description: "Averiguá sobre energía renovable y construí un modelo de demostración."
 summary: "Modelo de energía renovable."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/energia-renovable.png"
+image: "/imagenes/actividades/energia-renovable.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -145,21 +145,21 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías disponibles.
 ---
 
-# ¡Energía renovable!
+# ¡Energía Renovable!
 
 ## Resumen
-Averigua sobre energía renovable y construye un modelo de demostración.
+Averiguá sobre energía renovable y construí un modelo de demostración.
 
 ## Preparación
-1. Investiga sobre energía renovable.
-2. Reúne materiales para el modelo.
-3. Diseña el modelo.
+1. Investigá sobre energía renovable.
+2. Reuní materiales para el modelo.
+3. Diseñá el modelo.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre energía renovable.
-2. **Diseño** (15 min): Diseña tu modelo.
-3. **Construcción** (25 min): Construye el modelo.
-4. **Presentación** (5 min): Comparte lo aprendido.
+1. **Investigación** (15 min): Aprendé sobre energía renovable.
+2. **Diseño** (15 min): Diseñá tu modelo.
+3. **Construcción** (25 min): Construí el modelo.
+4. **Presentación** (5 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué tipo de energía renovable representaste?
@@ -174,16 +174,3 @@ Averigua sobre energía renovable y construye un modelo de demostración.
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

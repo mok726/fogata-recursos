@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Un regalo acuoso"
+title: "Un Regalo Acuoso"
 duration: "1.5 horas + mantenimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-regalo-acuoso/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-regalo-acuoso.png"
+image: "/imagenes/actividades/un-regalo-acuoso.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Un regalo acuoso!
+# ¡Un Regalo Acuoso!
 
 ## Resumen
 Creá una fuente de agua para los polinizadores en tu jardín escolar o del hogar. Cambiá el agua regularmente para que los polinizadores tengan agua limpia en todo momento y para evitar crear un lugar de cría de insectos, como mosquitos.
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

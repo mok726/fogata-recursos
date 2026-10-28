@@ -3,7 +3,7 @@ title: "Científicos Nadadores"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cientificos-nadadores/"
-description: "Observa la vida bajo el agua nadando en un río, lago o mar."
+description: "Observá la vida bajo el agua nadando en un río, lago o mar."
 summary: "Observación subacuática de la vida marina."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/cientificos-nadadores.png"
+image: "/imagenes/actividades/cientificos-nadadores.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Gafas de buceo
+  - Antiparras
   - Equipo de natación
 tools: []
 responsible:
@@ -152,15 +152,15 @@ rama_rovers:
 Nada en un río, lago o mar seguro para observar la vida bajo el agua y registrar tus descubrimientos.
 
 ## Preparación
-1. Encuentra un lugar seguro para nadar.
-2. Prepara gafas de buceo.
-3. Asegura supervisión adulta.
+1. Encontrá un lugar seguro para nadar.
+2. Prepará antiparras.
+3. Asegurá supervisión adulta.
 
 ## Desarrollo
-1. **Preparación** (10 min): Revisa el equipo y las medidas de seguridad.
+1. **Preparación** (10 min): Solo para quienes saben nadar, con supervisión adulta (idealmente guardavidas) y en un lugar habilitado. Revisá el equipo y las medidas de seguridad.
 2. **Observación** (20 min): Nada y observa la vida subacuática.
-3. **Registro** (10 min): Dibuja lo que viste.
-4. **Compartir** (5 min): Comparte tus dibujos con el grupo.
+3. **Registro** (10 min): Dibujá lo que viste.
+4. **Compartir** (5 min): Compartí tus dibujos con el grupo.
 
 ## Cierre
 - ¿Qué viste bajo el agua?
@@ -175,16 +175,3 @@ Nada en un río, lago o mar seguro para observar la vida bajo el agua y registra
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

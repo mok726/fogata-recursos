@@ -1,10 +1,10 @@
 ---
-title: "Cocina saludable y sostenible"
+title: "Cociná Saludable y Sostenible"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cocina-saludable-y-sostenible/"
-description: "Aprende a cocinar una comida sana y amigable con el medio ambiente."
-summary: "Cocina sostenible."
+description: "Aprendé a cocinar una comida sana y amigable con el medio ambiente."
+summary: "Cociná sostenible."
 
 author:
   - FAO
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/cocina-saludable-y-sostenible.png"
+image: "/imagenes/actividades/cocina-saludable-y-sostenible.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -148,25 +148,25 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Cocina saludable y sostenible!
+# ¡Cociná Saludable y Sostenible!
 
 ## Resumen
-Aprende a cocinar una comida sana y balanceada para tu familia, usando productos locales.
+Aprendé a cocinar una comida sana y balanceada para tu familia, usando productos locales.
 
 ## Preparación
-1. Elige una receta con productos locales.
-2. Haz una lista de compras.
-3. Reúne los ingredientes.
+1. Elegí una receta con productos locales.
+2. Hacé una lista de compras.
+3. Reuní los ingredientes.
 
 ## Desarrollo
-1. **Planificación** (15 min): Elige la receta y haz la lista.
-2. **Cocina** (45 min): Cocina la comida.
+1. **Planificación** (15 min): Elegí la receta y hacé la lista.
+2. **Cocina** (45 min): Cociná la comida.
 3. **Presentación** (15 min): Sirve la comida.
 4. **Reflexión** (15 min): ¿Cómo fue la experiencia?
 
 ## Cierre
 - ¿Qué aprendiste cocinando?
-- ¿Cómo puedes hacer que tu comida sea más sostenible?
+- ¿Cómo podés hacer que tu comida sea más sostenible?
 - ¿Qué productos locales usaste?
 
 ---
@@ -177,16 +177,3 @@ Aprende a cocinar una comida sana y balanceada para tu familia, usando productos
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

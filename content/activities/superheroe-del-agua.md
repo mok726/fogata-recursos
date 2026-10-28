@@ -5,7 +5,7 @@ duration: "2 horas (1h organización + 1h revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/superheroe-del-agua/"
 description: "Los participantes organizan un concurso de dibujo para crear un superhéroe del agua, con poderes especiales para mejorar la calidad y disponibilidad del agua."
-summary: "Crea un superhéroe del agua."
+summary: "Creá un superhéroe del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/superheroe-del-agua.png"
+image: "/imagenes/actividades/superheroe-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -176,18 +176,18 @@ translation_notice:
 En esta actividad, los participantes organizan un concurso de dibujo para crear un superhéroe del agua con poderes especiales para mejorar la calidad y disponibilidad del agua. La creatividad y la conciencia ambiental se combinan para inspirar acciones positivas.
 
 ## Preparación
-1. Prepara los materiales para los pósters y los dibujos.
-2. Planifica la dinámica del concurso.
+1. Prepará los materiales para los pósters y los dibujos.
+2. Planificá la dinámica del concurso.
 
 ## Desarrollo
 
 ### Paso 1: Discusión sobre superhéroes
-1. Pide a tu grupo que identifique y discuta sus superhéroes favoritos.
+1. Pedí a tu grupo que identifique y discuta sus superhéroes favoritos.
 2. Pregunta: ¿Qué los convierte en superhéroes? ¿Qué poderes se necesitarían para mejorar la calidad del agua en todo el mundo?
 
 ### Paso 2: Organización del concurso
-3. Explica a tu grupo que van a organizar un concurso de dibujo para encontrar el "Superhéroe del Agua" de la escuela o lugar de reunión.
-4. Divide a los participantes en grupos pequeños y pide a cada grupo que haga un póster para publicitar el evento.
+3. Explicá a tu grupo que van a organizar un concurso de dibujo para encontrar el "Superhéroe del Agua" de la escuela o lugar de reunión.
+4. Dividí a los participantes en grupos pequeños y pedí a cada grupo que haga un póster para publicitar el evento.
 5. No olviden incluir toda la información necesaria:
    - **Tema:** Un superhéroe con superpoderes que puedan mejorar la calidad y disponibilidad del agua.
    - **Rango de edad** de los participantes.
@@ -197,7 +197,7 @@ En esta actividad, los participantes organizan un concurso de dibujo para crear 
    - El nuevo superhéroe será utilizado en todas las publicaciones, documentos y actividades que la escuela o lugar de reunión organice a favor del agua y el saneamiento.
 
 ### Paso 3: Publicidad
-6. Coloca los pósters por toda la escuela o lugar de reunión. ¡Asegúrate de que todos se enteren!
+6. Colocá los pósters por toda la escuela o lugar de reunión. ¡Asegurate de que todos se enteren!
 
 ### Paso 4: Selección y premiación
 7. Los participantes estarán a cargo de seleccionar al ganador y otorgarle un certificado (o un premio de su elección).
@@ -290,21 +290,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[24,47], scouts[31,53], caminantes[29,49], rovers[6,37])

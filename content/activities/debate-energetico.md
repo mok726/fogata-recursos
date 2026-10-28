@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate energético"
+title: "Debate Energético"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-energetico/"
-description: "Investiga y debate sobre la mejor manera de proporcionar energía sostenible para todos, considerando diferentes perspectivas y soluciones."
-summary: "Debate sobre el futuro de la energía."
+description: "Investigá y debate sobre la mejor manera de proporcionar energía sostenible para todos, considerando diferentes perspectivas y soluciones."
+summary: "Debatí sobre el futuro de la energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/debate-energetico.png"
+image: "/imagenes/actividades/debate-energetico.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -157,20 +157,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Debate energético!
+# ¡Debate Energético!
 
 ## Resumen
-Investiga y debate sobre la mejor manera de proporcionar energía sostenible para todos. Considera diferentes perspectivas y soluciones para el futuro energético.
+Investigá y debate sobre la mejor manera de proporcionar energía sostenible para todos. Considerá diferentes perspectivas y soluciones para el futuro energético.
 
 ## Preparación
-1. Lee la información de fondo sobre energía y desarrollo.
-2. Investiga diferentes perspectivas sobre energía sostenible.
-3. Prepara argumentos para el debate.
+1. Leé la información de fondo sobre energía y desarrollo.
+2. Investigá diferentes perspectivas sobre energía sostenible.
+3. Prepará argumentos para el debate.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga el tema:
+Investigá el tema:
 
 **Preguntas guía:**
 - ¿Cómo podemos proporcionar energía sostenible para todos?
@@ -179,7 +179,7 @@ Investiga el tema:
 - ¿Qué soluciones existen?
 
 ### Parte II - Debate
-Divide el grupo en equipos con diferentes perspectivas:
+Dividí el grupo en equipos con diferentes perspectivas:
 
 **Perspectivas posibles:**
 - Energías renovables (solar, eólica, hidroeléctrica)
@@ -192,8 +192,8 @@ Divide el grupo en equipos con diferentes perspectivas:
 
 ## Cierre
 1. ¿Qué argumento te pareció más convincente?
-2. ¿Qué solución energética crees que es mejor?
-3. ¿Cómo puedes contribuir a la solución?
+2. ¿Qué solución energética creés que es mejor?
+3. ¿Cómo podés contribuir a la solución?
 
 ## Texto original completo de la actividad
 
@@ -223,20 +223,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

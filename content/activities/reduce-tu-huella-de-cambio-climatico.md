@@ -1,9 +1,9 @@
 ---
-title: "Reduce tu huella de cambio climático"
+title: "Reducí Tu Huella de Cambio Climático"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduce-tu-huella-de-cambio-climatico/"
-description: "Reflexiona sobre tu impacto ambiental y haz un plan para reducirlo."
+description: "Reflexioná sobre tu impacto ambiental y hacé un plan para reducirlo."
 summary: "Plan de reducción de huella de carbono."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.png"
+image: "/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Acceso a internet (opcional)
 tools: []
 responsible:
@@ -142,20 +142,20 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Reduce tu huella de cambio climático!
+# ¡Reducí Tu Huella de Cambio Climático!
 
 ## Resumen
-Reflexiona sobre cómo tu vida diaria impacta el medio ambiente y haz un plan para reducirlo.
+Reflexioná sobre cómo tu vida diaria impacta el medio ambiente y hacé un plan para reducirlo.
 
 ## Preparación
-1. Reflexiona sobre tu consumo de energía, agua y recursos.
-2. Prepara papel y bolígrafos.
-3. Accede a calculadores en línea si es posible.
+1. Reflexioná sobre tu consumo de energía, agua y recursos.
+2. Prepará papel y lapiceras.
+3. Accedé a calculadores en línea si es posible.
 
 ## Desarrollo
-1. **Reflexión** (15 min): ¿Cuánta energía, agua y recursos usas?
-2. **Lista** (15 min): Haz una lista de formas de reducir tu impacto.
-3. **Plan** (15 min): Crea un plan y síguelo durante un mes.
+1. **Reflexión** (15 min): ¿Cuánta energía, agua y recursos usás?
+2. **Lista** (15 min): Hacé una lista de formas de reducir tu impacto.
+3. **Plan** (15 min): Creá un plan y seguilo durante un mes.
 4. **Evaluación** (15 min): ¿Cuánto lograste reducir tu impacto?
 
 ## Cierre
@@ -172,16 +172,3 @@ Reflexiona cómo tu vida diaria tiene un impacto en tu medio ambiente. ¿Cuánta
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Clasificación de carbono"
+title: "Clasificación de Carbono"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/clasificacion-de-carbono/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/clasificacion-de-carbono.png"
+image: "/imagenes/actividades/clasificacion-de-carbono.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -163,24 +163,24 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Clasificación de carbono!
+# ¡Clasificación de Carbono!
 
 ## Resumen
-Busca las emisiones totales de CO2 por país y per cápita. ¿Cómo se encuentra tu país? ¿Cuáles crees que son las razones para su posición en comparación con otros países del mundo?
+Buscá las emisiones totales de CO2 por país y per cápita. ¿Cómo se encuentra tu país? ¿Cuáles creés que son las razones para su posición en comparación con otros países del mundo?
 
 ## Preparación
-1. Investiga sobre fuentes de datos de emisiones de CO2.
-2. Prepara un mapa mundial o plantilla para el cartel.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre fuentes de datos de emisiones de CO2.
+2. Prepará un mapa mundial o plantilla para el cartel.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Busca las emisiones totales de CO2 por país y per cápita.
-2. Investiga: ¿Cómo se encuentra tu país en la clasificación?
-3. Reflexiona: ¿Cuáles crees que son las razones para su posición?
-4. Haz un cartel para exponer tus hallazgos - trata de ser tan creativo como puedas.
+1. Buscá las emisiones totales de CO2 por país y per cápita.
+2. Investigá: ¿Cómo se encuentra tu país en la clasificación?
+3. Reflexioná: ¿Cuáles creés que son las razones para su posición?
+4. Hacé un cartel para exponer tus hallazgos - trata de ser tan creativo como puedas.
 
 ## Cierre
-1. Comparte tu cartel con el grupo.
+1. Compartí tu cartel con el grupo.
 2. Discutan: ¿Qué países emiten más CO2 y por qué?
 3. Pregunta final: ¿Qué responsabilidad tienen los países con mayores emisiones?
 
@@ -190,16 +190,3 @@ B.14 Clasificación de carbono. Busca las emisiones totales de CO2 por país y p
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

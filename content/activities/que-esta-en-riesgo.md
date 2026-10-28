@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Qué está en riesgo?"
-duration: "Semana 1: investigación, Semana 2: 1 hora"
+title: "¿Qué Está en Riesgo?"
+duration: "Semana 1: investigación, Semana 2: 1 hora de juego, Semana 3: investigación adicional (opcional)"
 layout: "layouts/activity.njk"
 permalink: "/activities/que-esta-en-riesgo/"
 description: "Los participantes experimentan los efectos del impacto de las especies invasoras en un ecosistema a través de un juego de Piedra-Papel-Tijera adaptado."
-summary: "Descubre el impacto de las especies invasoras."
+summary: "Descubrí el impacto de las especies invasoras."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/que-esta-en-riesgo.png"
+image: "/imagenes/actividades/que-esta-en-riesgo.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -161,20 +161,20 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¿Qué está en riesgo?
+# ¿Qué Está en Riesgo?
 
 ## Resumen
 Esta actividad se basa en el juego Piedra-Papel-Tijera (PPT) y permitirá a los jóvenes experimentar los efectos del impacto de las especies invasoras, tanto en un ecosistema como en las especies nativas dentro del mismo. El juego es adaptable y los adultos pueden incluir algunas especies en riesgo de su propia localidad que los jóvenes pueden representar.
 
 ## Preparación
-1. Prepara tarjetas verdes (especies nativas) y rojas (especies invasoras).
-2. Prepara 2 clips de papel para cada participante.
-3. Prepara una hoja con especies locales amenazadas o en peligro.
+1. Prepará tarjetas verdes (especies nativas) y rojas (especies invasoras).
+2. Prepará 2 clips de papel para cada participante.
+3. Prepará una hoja con especies locales amenazadas o en peligro.
 
 ## Desarrollo
 
 ### Parte I - Preparación
-Todos los participantes comienzan el juego como Especies Nativas en Riesgo. Los participantes tienen una tarjeta y reciben 2 clips de papel que representan su vida y la vida de sus descendientes (el futuro de su especie). Antes de que comience el juego, haz que los participantes miren a su alrededor y visualicen la diversidad de especies nativas. Todos los participantes deben estar familiarizados con Piedra-Papel-Tijera (PPT), pero repasa las reglas de esta actividad (piedra gana sobre tijera, tijera gana sobre papel y papel le gana a piedra).
+Todos los participantes comienzan el juego como Especies Nativas en Riesgo. Los participantes tienen una tarjeta y reciben 2 clips de papel que representan su vida y la vida de sus descendientes (el futuro de su especie). Antes de que comience el juego, hacé que los participantes miren a su alrededor y visualicen la diversidad de especies nativas. Todos los participantes deben estar familiarizados con Piedra-Papel-Tijera (PPT), pero repasa las reglas de esta actividad (piedra gana sobre tijera, tijera gana sobre papel y papel le gana a piedra).
 
 ### Parte II - Juego
 A la señal del facilitador, los participantes encuentran a un oponente y comienzan a jugar PPT. Los ganadores recogen un clip de papel del perdedor. Cuando un jugador pierde todos sus clips, acude al facilitador para pedirle una nueva tarjeta. El facilitador les entrega una nueva tarjeta con una especie invasora (tarjeta roja). Los participantes colocan esta nueva carta sobre su carta de Especies Nativas.
@@ -187,15 +187,28 @@ c. Invasivo vs. Invasivo: los ganadores solo reciben un clip de papel.
 
 Si una Especie Invasora pierde todos sus clips de papel, pueden seguir jugando, pero solo pueden ir tras los jugadores de Especies Nativas hasta que ganen un clip.
 
+> **Nota para el educador:** las reglas avanzadas del original son confusas (por ejemplo, la regla b hace que el que pierde cobre). Una lectura jugable:
+> - **Invasora vs. Nativa:** si gana la Invasora, se lleva **2** clips de la Nativa. Si gana la Nativa, se lleva **1** clip de la Invasora.
+> - **Invasora vs. Invasora:** el que gana se lleva 1 clip.
+> - **Nativa vs. Nativa:** como en la Parte II, el que gana se lleva 1 clip.
+>
+> Así las invasoras avanzan más rápido, que es lo que el juego quiere mostrar.
+>
+> **Especies para las tarjetas (Argentina):**
+> - Invasoras (rojas): castor (Tierra del Fuego), jabalí, ciervo colorado, rana toro, mejillón dorado, ligustro, acacia negra.
+> - Nativas en riesgo (verdes): yaguareté, huemul, venado de las pampas, tatú carreta, cauquén colorado, aguará guazú.
+>
+> Para otras regiones, consulten el Sistema Nacional de Información sobre Especies Exóticas Invasoras (Ministerio de Ambiente) o la lista roja de su país.
+
 ### Parte IV - Fin del juego
-El juego termina cuando todos los jugadores se convierten en Especies Invasoras (el facilitador debe realizar un seguimiento del número de participantes y el número de cartas de Especies Invasoras que han entregado). Los jugadores pueden contar sus clips de papel para averiguar cuáles especies invasoras tuvieron el mayor impacto en el ecosistema. Incluye rondas adicionales para permitir a los participantes experimentar la rapidez con la que los ecosistemas pueden verse afectados por las Especies Invasoras si no son ayudados por nosotros.
+El juego termina cuando todos los jugadores se convierten en Especies Invasoras (el facilitador debe realizar un seguimiento del número de participantes y el número de cartas de Especies Invasoras que han entregado). Los jugadores pueden contar sus clips de papel para averiguar cuáles especies invasoras tuvieron el mayor impacto en el ecosistema. Incluí rondas adicionales para permitir a los participantes experimentar la rapidez con la que los ecosistemas pueden verse afectados por las Especies Invasoras si no son ayudados por nosotros.
 
 ### Parte V - Investigación adicional (Semana 3)
 Los participantes pueden realizar investigaciones sobre cómo evitar propagar la Especie Invasora que representaron en el juego. La investigación y los proyectos grupales pueden resultar en presentaciones sobre hallazgos obtenidos.
 
 ## Cierre
-1. ¿Cómo crees que las Especies Invasoras afectan al ecosistema nativo?
-2. ¿Cómo crees que estas Especies Invasoras llegaron aquí?
+1. ¿Cómo creés que las Especies Invasoras afectan al ecosistema nativo?
+2. ¿Cómo creés que estas Especies Invasoras llegaron aquí?
 3. ¿Quién sufriría si se permitiera que las Especies Invasoras no se controlaran?
 4. ¿Qué podemos hacer contra la propagación de especies no nativas?
 5. ¿Cómo podemos detener la propagación e introducción de especies no nativas de plantas y otros organismos vivos?
@@ -267,17 +280,3 @@ Los participantes pueden realizar investigaciones sobre cómo evitar propagar la
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

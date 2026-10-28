@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Manteniéndose frescos o calientes en el pasado"
+title: "Manteniéndose Frescos o Calientes en el Pasado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/manteniendose-frescos-o-calientes-en-el-pasado/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.png"
+image: "/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -161,24 +161,24 @@ rama_rovers:
   - 7  # Aplico técnicas y tecnologías
 ---
 
-# ¡Manteniéndose frescos o calientes en el pasado!
+# ¡Manteniéndose Frescos o Calientes en el Pasado!
 
 ## Resumen
-Estudia cómo las personas de alrededor del mundo solían mantenerse, ellos mismos y sus hogares, frescos o calientes antes de que empezáramos a usar métodos que usan mucha energía. ¡Si investigas, te darás cuenta de que usaban unas formas muy ingeniosas!
+Estudiá cómo las personas de alrededor del mundo solían mantenerse, ellos mismos y sus hogares, frescos o calientes antes de que empezáramos a usar métodos que usan mucha energía. ¡Si investigás, te darás cuenta de que usaban unas formas muy ingeniosas!
 
 ## Preparación
-1. Investiga sobre métodos tradicionales de climatización.
-2. Prepara preguntas para entrevistar a personas mayores.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre métodos tradicionales de climatización.
+2. Prepará preguntas para entrevistar a personas mayores.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo las personas se mantenían frescas o calientes en el pasado.
-2. Puedes realizar una entrevista a un miembro mayor de tu familia o a un amigo.
-3. Reflexiona: ¿Qué podemos hacer en nuestras casas para replicar lo que se hacía en el pasado?
-4. Investiga: ¿Qué deberían hacer los gobiernos para asegurarse de que nuestras casas sean más eficientes energéticamente?
+1. Investigá cómo las personas se mantenían frescas o calientes en el pasado.
+2. Podés realizar una entrevista a un miembro mayor de tu familia o a un amigo.
+3. Reflexioná: ¿Qué podemos hacer en nuestras casas para replicar lo que se hacía en el pasado?
+4. Investigá: ¿Qué deberían hacer los gobiernos para asegurarse de que nuestras casas sean más eficientes energéticamente?
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
+1. Compartí tus hallazgos con el grupo.
 2. Discutan: ¿Qué métodos tradicionales podrían usarse hoy?
 3. Pregunta final: ¿Cómo podemos combinar la sabiduría tradicional con la tecnología moderna?
 
@@ -188,16 +188,3 @@ D.08 MANTENIÉNDOSE FRESCOS O CALIENTES EN EL PASADO. Estudia cómo las personas
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

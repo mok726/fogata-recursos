@@ -5,7 +5,7 @@ duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/vida-saludable/"
 description: "Los participantes preparan un plan de ejercicios para su grupo scout y reflexionan sobre la importancia de una vida saludable durante un mes."
-summary: "Implementa un plan de ejercicios mensual."
+summary: "Implementá un plan de ejercicios mensual."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/vida-saludable.png"
+image: "/imagenes/actividades/vida-saludable.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -171,14 +171,16 @@ rama_rovers:
 Junto a otros y otras jóvenes preparen un plan de ejercicios (10 minutos máximo) para que con todo tu grupo scout en la apertura o cierre de actividades lo lleven a cabo durante un mes. Con la supervisión de un adulto, armen una reflexión sobre la importancia de una vida saludable, tips y ventajas de esta para poder darle cierre a la actividad frente a todo el grupo. De esta forma podrás inspirar a otros scouts a llevar una vida más sana.
 
 ## Preparación
-1. Prepara el espacio para realizar ejercicios.
-2. Reúne a los participantes para planificar la rutina.
+1. Prepará el espacio para realizar ejercicios.
+2. Reuní a los participantes para planificar la rutina.
 
 ## Desarrollo
 
 ### Paso 1: Preparación del plan
 1. Junto a otros jóvenes, preparen un **plan de ejercicios** de 10 minutos máximo.
-2. La rutina debe ser adecuada para todo el grupo scout.
+2. La rutina debe ser adecuada para todo el grupo scout (edades, capacidades y espacio disponible).
+
+> **Con castores y manada:** el plan lo arma un adulto junto con los chicos (por ejemplo, eligiendo entre juegos y movimientos que el adulto propone). Los más grandes pueden diseñarlo solos, con revisión de un adulto.
 
 ### Paso 2: Implementación
 3. Realicen la rutina de ejercicios en la apertura o cierre de las actividades durante **un mes**.
@@ -216,17 +218,3 @@ Junto a otros y otras jóvenes preparen un plan de ejercicios (10 minutos máxim
 **ODS involucrados:** 3, 4, 12
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

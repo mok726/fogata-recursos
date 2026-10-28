@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversidad en el mercado"
+title: "Diversidad en el Mercado"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversidad-en-el-mercado/"
-description: "Visita a un mercado para identificar ejemplos de diversidad de especies y diversidad genética en alimentos."
+description: "Visitá a un mercado para identificar ejemplos de diversidad de especies y diversidad genética en alimentos."
 summary: "Explorar diversidad biológica en el mercado."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/diversidad-en-el-mercado.png"
+image: "/imagenes/actividades/diversidad-en-el-mercado.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -161,25 +161,25 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Diversidad en el mercado!
+# ¡Diversidad en el Mercado!
 
 ## Resumen
-Visita un mercado o una tienda de comestibles. Busca ejemplos de diversidad de especies y diversidad genética, dos niveles de biodiversidad (el tercer nivel es la diversidad de ecosistemas).
+Visitá un mercado o una tienda de comestibles. Buscá ejemplos de diversidad de especies y diversidad genética, dos niveles de biodiversidad (el tercer nivel es la diversidad de ecosistemas).
 
 ## Preparación
-1. Organiza la visita al mercado.
-2. Prepara una tabla para registrar observaciones.
-3. Explica los conceptos de diversidad de especies y genética.
+1. Organizá la visita al mercado.
+2. Prepará una tabla para registrar observaciones.
+3. Explicá los conceptos de diversidad de especies y genética.
 
 ## Desarrollo
-1. Cuenta el número de especies vegetales (zanahorias, pepinos, lechugas, etc.).
-2. Encuentra una especie con diversas variedades (ej. papas).
-3. Registra: ¿Cuántas variedades hay? ¿En qué se asemejan? ¿En qué se diferencian?
-4. Investiga: ¿Por qué es importante tener diversidad genética en las plantas para cultivos?
+1. Contá el número de especies vegetales (zanahorias, pepinos, lechugas, etc.).
+2. Encontrá una especie con diversas variedades (ej. papas).
+3. Registrá: ¿Cuántas variedades hay? ¿En qué se asemejan? ¿En qué se diferencian?
+4. Investigá: ¿Por qué es importante tener diversidad genética en las plantas para cultivos?
 
 ## Cierre
-1. Comparte tus hallazgos con tu clase o grupo.
-2. Reflexiona sobre la importancia de la diversidad.
+1. Compartí tus hallazgos con tu clase o grupo.
+2. Reflexioná sobre la importancia de la diversidad.
 3. Pregunta final: ¿Cómo podemos apoyar la diversidad genética en la agricultura?
 
 ## Texto original completo de la actividad
@@ -188,16 +188,3 @@ C.05 Visita un mercado o una tienda de comestibles. Busca ejemplos de diversidad
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

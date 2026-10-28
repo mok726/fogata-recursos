@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Resolución de plástico"
+title: "Resolución de Plástico"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/resolucion-de-plastico/"
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/resolucion-de-plastico.png"
+image: "/imagenes/actividades/resolucion-de-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental
 ---
 
-# ¡Resolución de plástico!
+# ¡Resolución de Plástico!
 
 ## Resumen
 Los jóvenes toman una resolución colectiva para reducir sus hábitos de uso de plásticos y proponen tres acciones concretas que pueden realizar en grupo para marcar la diferencia. Luego, hacen un seguimiento de su progreso.
@@ -177,7 +177,7 @@ Los jóvenes toman una resolución colectiva para reducir sus hábitos de uso de
 6. A las 2 semanas, se vuelven a reunir para evaluar su progreso.
 
 **Algunas ideas para empezar:**
-- Evitar las pajillas/popotes de plástico.
+- Evitar las pajitas de plástico.
 - Llevar siempre una bolsa reutilizable.
 - Usar un recipiente reutilizable para la comida para llevar.
 - No comprar agua embotellada.
@@ -206,18 +206,3 @@ Los jóvenes toman una resolución colectiva para reducir sus hábitos de uso de
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados (no aplica)
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

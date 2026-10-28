@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ceremonia-mejor-conservador-agua.png"
+image: "/imagenes/actividades/ceremonia-mejor-conservador-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -171,28 +171,28 @@ translation_notice:
 # ¡Ceremonia del Mejor Conservador del Agua!
 
 ## Resumen
-La naturaleza es la mejor conservadora del agua. Proporciona una de las mejores formas de conservar el agua de lluvia, la fuente de toda el agua dulce de nuestro mundo. Cualquier cubierta vegetal ayuda a frenar el agua que corre por la tierra, evitando la erosión del suelo. En esta actividad, los participantes organizan una ceremonia simbólica para honrar a la naturaleza y reflexionar sobre la importancia de proteger nuestros recursos hídricos.
+La naturaleza es la mejor conservadora del agua. Proporcioná una de las mejores formas de conservar el agua de lluvia, la fuente de toda el agua dulce de nuestro mundo. Cualquier cubierta vegetal ayuda a frenar el agua que corre por la tierra, evitando la erosión del suelo. En esta actividad, los participantes organizan una ceremonia simbólica para honrar a la naturaleza y reflexionar sobre la importancia de proteger nuestros recursos hídricos.
 
 ## Preparación
-1. Prepara los materiales para la ceremonia.
-2. Prepara invitaciones (opcional).
-3. Coordina el espacio al aire libre.
+1. Prepará los materiales para la ceremonia.
+2. Prepará invitaciones (opcional).
+3. Coordiná el espacio al aire libre.
 
 ## Desarrollo
 
 ### Paso 1: Organización
-1. Explica a tu grupo que van a organizar una **Ceremonia del Mejor Conservador del Agua** para honrar a la Madre Naturaleza con un premio por ser la mejor conservadora del agua.
-2. Diles que esta será una ceremonia simbólica para animar a todos a empezar a conservar el agua.
+1. Explicá a tu grupo que van a organizar una **Ceremonia del Mejor Conservador del Agua** para honrar a la Madre Naturaleza con un premio por ser la mejor conservadora del agua.
+2. Deciles que esta será una ceremonia simbólica para animar a todos a empezar a conservar el agua.
 
 ### Paso 2: Invitación
-3. Asegúrate de invitar a todas las clases o grupos de la escuela o lugar de reunión, y a todos los maestros y líderes. ¡Quieres que todos empiecen a hacer un cambio!
+3. Asegurate de invitar a todas las clases o grupos de la escuela o lugar de reunión, y a todos los maestros y líderes. ¡Querés que todos empiecen a hacer un cambio!
 4. Pueden enviar invitaciones; pide a tu grupo que te ayude a hacerlas.
 
 ### Paso 3: Preparación del discurso
-5. Prepara algunas palabras con la ayuda de tu grupo para dar un mensaje a los asistentes.
+5. Prepará algunas palabras con la ayuda de tu grupo para dar un mensaje a los asistentes.
 
 ### Paso 4: Ceremonia
-6. Realiza el evento en un espacio al aire libre donde todos puedan admirar lo grandiosa que es la naturaleza.
+6. Realizá el evento en un espacio al aire libre donde todos puedan admirar lo grandiosa que es la naturaleza.
 7. Pueden elegir uno de los árboles más bonitos que encuentren para colocar el lazo de premiación.
 
 ### Paso 5: Cierre
@@ -206,7 +206,7 @@ La naturaleza es la mejor conservadora del agua. Proporciona una de las mejores 
 
 ## Cierre
 - ¿Cómo fue tu evento? ¿Estaba la gente entusiasmada?
-- ¿Quién en tu salón/grupo crees que merece un premio por ahorrar más agua?
+- ¿Quién en tu salón/grupo creés que merece un premio por ahorrar más agua?
 - ¿Cómo puede tu escuela o lugar de reunión conservar agua?
 
 ## Texto original completo de la actividad
@@ -281,21 +281,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[24,31], scouts[31,39], caminantes[29,35], rovers[31,37])

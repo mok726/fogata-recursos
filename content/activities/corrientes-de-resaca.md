@@ -4,7 +4,7 @@ title: "Corrientes de Resaca"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/corrientes-de-resaca/"
-description: "Investiga las corrientes de resaca, cómo identificarlas y cómo escapar de ellas."
+description: "Investigá las corrientes de resaca, cómo identificarlas y cómo escapar de ellas."
 summary: "Investigación sobre corrientes de resaca."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/corrientes-de-resaca.png"
+image: "/imagenes/actividades/corrientes-de-resaca.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -31,7 +31,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Papel para hacer afiches o folletos
-  - Lápices y bolígrafos de colores o pinturas
+  - Lápices y lapiceras de colores o pinturas
   - Acceso a internet
 tools: []
 responsible: []
@@ -174,23 +174,23 @@ rama_rovers:
 # Corrientes de Resaca
 
 ## Resumen
-Investiga las corrientes de resaca, cómo identificarlas y cómo escapar de ellas.
+Investigá las corrientes de resaca, cómo identificarlas y cómo escapar de ellas.
 
 ## Preparación
-1. Investiga las corrientes de resaca individualmente o en grupos.
-2. Lee el folleto sobre corrientes de resaca.
-3. Prepara material para crear un folleto o póster.
+1. Investigá las corrientes de resaca individualmente o en grupos.
+2. Leé el folleto sobre corrientes de resaca.
+3. Prepará material para crear un folleto o póster.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga qué provoca las corrientes de resaca.
-2. **Identificación** (15 min): Aprende a identificar señales de una corriente de resaca.
-3. **Seguridad** (15 min): Averigua cómo escapar de una corriente de resaca.
-4. **Creación** (25 min): Crea un folleto o póster con tus hallazgos.
+1. **Investigación** (20 min): Investigá qué provoca las corrientes de resaca.
+2. **Identificación** (15 min): Aprendé a identificar señales de una corriente de resaca.
+3. **Seguridad** (15 min): Averiguá cómo escapar de una corriente de resaca.
+4. **Creación** (25 min): Creá un folleto o póster con tus hallazgos.
 5. **Presentación** (15 min): Da una charla corta sobre seguridad.
 
 ## Cierre
 - ¿Qué son las corrientes de resaca?
-- ¿Cómo puedes identificar una corriente de resaca?
+- ¿Cómo podés identificar una corriente de resaca?
 - ¿Qué compromiso adquieres para estar seguro en la playa?
 
 ---
@@ -207,16 +207,3 @@ Individualmente o en grupos, investiga acerca de lo que provoca las corrientes d
 nivel: 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

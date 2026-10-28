@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Edificios energéticamente eficientes"
+title: "Edificios Energéticamente Eficientes"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/edificios-eficientes-energeticamente/"
-description: "Visita un edificio que produzca su propia energía o sea energéticamente eficiente, y crea un modelo o dibujo etiquetado."
-summary: "Descubre cómo construir eficientemente."
+description: "Visitá un edificio que produzca su propia energía o sea energéticamente eficiente, y creá un modelo o dibujo etiquetado."
+summary: "Descubrí cómo construir eficientemente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/edificios-eficientes-energeticamente.png"
+image: "/imagenes/actividades/edificios-eficientes-energeticamente.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -162,20 +162,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Edificios energéticamente eficientes!
+# ¡Edificios Energéticamente Eficientes!
 
 ## Resumen
-Visita un edificio que produzca su propia energía usando paneles solares u otras tecnologías que lo hagan más eficiente. Descubre qué materiales se usaron y cómo ahorra energía.
+Visitá un edificio que produzca su propia energía usando paneles solares u otras tecnologías que lo hagan más eficiente. Descubrí qué materiales se usaron y cómo ahorra energía.
 
 ## Preparación
-1. Lee la información sobre eficiencia energética.
-2. Busca un edificio eficiente en tu área.
-3. Prepara materiales para tomar notas y dibujar.
+1. Leé la información sobre eficiencia energética.
+2. Buscá un edificio eficiente en tu área.
+3. Prepará materiales para tomar notas y dibujar.
 
 ## Desarrollo
 
 ### Parte I - Visita
-Visita un edificio energéticamente eficiente con tu grupo.
+Visitá un edificio energéticamente eficiente con tu grupo.
 
 **Preguntas guía:**
 - ¿Qué materiales se usaron en la construcción?
@@ -183,10 +183,10 @@ Visita un edificio energéticamente eficiente con tu grupo.
 - ¿Qué desafíos tiene este sistema?
 
 ### Parte II - Documentar
-Toma fotos (con permiso) y escribe notas sobre lo que ves.
+Tomá fotos (con permiso) y escribí notas sobre lo que ves.
 
 ### Parte III - Modelo o dibujo
-Crea un modelo o dibujo del edificio.
+Creá un modelo o dibujo del edificio.
 
 **Elementos a etiquetar:**
 - Paneles solares
@@ -196,7 +196,7 @@ Crea un modelo o dibujo del edificio.
 - Iluminación natural
 
 ### Parte IV - Exhibición
-Muestra tu modelo o dibujo en el aula o área de reunión.
+Mostrá tu modelo o dibujo en el aula o área de reunión.
 
 ## Cierre
 1. ¿Qué característica te pareció más interesante?
@@ -231,20 +231,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

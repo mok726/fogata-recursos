@@ -3,7 +3,7 @@ title: "Huellas Más Pequeñas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/huellas-mas-pequenas/"
-description: "Identifica cómo reducir tus emisiones de gases de efecto invernadero y comprométete a hacer cambios."
+description: "Identificá cómo reducir tus emisiones de gases de efecto invernadero y comprométete a hacer cambios."
 summary: "Compromiso para reducir la huella de carbono."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/huellas-mas-pequenas.png"
+image: "/imagenes/actividades/huellas-mas-pequenas.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet o libros de referencia sobre el océano y el cambio climático
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -159,23 +159,23 @@ rama_rovers:
 # ¡Huellas Más Pequeñas!
 
 ## Resumen
-Discute los impactos del cambio climático en el océano, identifica actividades diarias que puedes cambiar para reducir tus emisiones de gases de efecto invernadero, y comprométete a hacer esos cambios.
+Discutí los impactos del cambio climático en el océano, identificá actividades diarias que podés cambiar para reducir tus emisiones de gases de efecto invernadero, y comprométete a hacer esos cambios.
 
 ## Preparación
-1. Investiga sobre el cambio climático y sus impactos en el océano.
-2. Prepara materiales para la discusión y el compromiso.
+1. Investigá sobre el cambio climático y sus impactos en el océano.
+2. Prepará materiales para la discusión y el compromiso.
 
 ## Desarrollo
-1. **Discusión** (15 min): Habla sobre los impactos del cambio climático en el océano y cómo afectan a las personas.
-2. **Lista de acciones** (15 min): Haz una lista de actividades humanas que impactan el cambio climático.
-3. **Selección de compromisos** (15 min): Elige tres formas para reducir tus emisiones.
-4. **Compromiso** (10 min): Comprométete a hacer estos cambios y revísalos después de dos semanas.
+1. **Discusión** (15 min): Hablá sobre los impactos del cambio climático en el océano y cómo afectan a las personas.
+2. **Lista de acciones** (15 min): Hacé una lista de actividades humanas que impactan el cambio climático.
+3. **Selección de compromisos** (15 min): Elegí tres formas para reducir tus emisiones.
+4. **Compromiso** (10 min): Comprométete a hacer estos cambios y revisalos después de dos semanas.
 5. **Renovación** (5 min): Renueva tu promesa y comprométete a seguir adelante.
 
 ## Cierre
-- ¿Qué cambios puedes hacer en tu vida diaria?
+- ¿Qué cambios podés hacer en tu vida diaria?
 - ¿Cómo afectan tus acciones al océano?
-- ¿Qué más puedes hacer para ayudar?
+- ¿Qué más podés hacer para ayudar?
 
 ---
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ Discute acerca de los impactos del cambio climático en el océano y cómo estos
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

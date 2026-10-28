@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Caminando con gafas de alimentos puestas!"
+title: "¡Caminando con Gafas de Alimentos Puestas!"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/gafas-de-alimentos/"
 description: "Los participantes caminan por el barrio buscando objetos relacionados con la producción y consumo de alimentos, y reflexionan sobre la sostenibilidad de las cadenas alimentarias."
-summary: "Descubre el camino de los alimentos."
+summary: "Descubrí el camino de los alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/gafas-de-alimentos.png"
+image: "/imagenes/actividades/gafas-de-alimentos.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -159,20 +159,20 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Caminando con gafas de alimentos puestas!
+# ¡Caminando con Gafas de Alimentos Puestas!
 
 ## Resumen
-Prestar atención a los objetos en tu vecindario asociados con el consumo y la producción de alimentos. Camina con tus amigos por el barrio y busca cosas relacionadas con la comida, su producción, consumo y almacenamiento.
+Prestar atención a los objetos en tu vecindario asociados con el consumo y la producción de alimentos. Caminá con tus amigos por el barrio y buscá cosas relacionadas con la comida, su producción, consumo y almacenamiento.
 
 ## Preparación
-1. Prepara una lista de posibles hallazgos para guiar la observación.
-2. Organiza la salida y define la ruta.
-3. Prepara tarjetas y marcadores para la actividad de mapeo.
+1. Prepará una lista de posibles hallazgos para guiar la observación.
+2. Organizá la salida y definí la ruta.
+3. Prepará tarjetas y marcadores para la actividad de mapeo.
 
 ## Desarrollo
 
 ### Parte I - Caminata
-¡Ponte tus "gafas de alimentos"! Esto significa que estamos caminando tratando de encontrar cosas relacionadas con los alimentos, la producción, el consumo, el almacenamiento de alimentos, etc. Camina con tus amigos por el barrio, ¿qué ves que te hace pensar en comida?
+¡Ponete tus "gafas de alimentos"! Esto significa que estamos caminando tratando de encontrar cosas relacionadas con los alimentos, la producción, el consumo, el almacenamiento de alimentos, etc. Caminá con tus amigos por el barrio, ¿qué ves que te hace pensar en comida?
 
 **Posibles hallazgos:**
 - Campos de maíz o trigo que se pueden usar para hacer pan
@@ -191,17 +191,17 @@ Prestar atención a los objetos en tu vecindario asociados con el consumo y la p
 Díganse unos a otros lo que han visto y experimentado.
 
 ### Parte III - Identificar cadenas alimentarias
-Intenta crear una cadena alimentaria, su camino desde la cuna hasta la tumba.
+Intentá crear una cadena alimentaria, su camino desde la cuna hasta la tumba.
 
 **Ejemplo:** NARANJA: núcleo-árbol-frutos-fábrica-jugo-jugo envasado-supermercado-cocina-residuos
 
 ### Parte IV - Uso sostenible
-Discute con tus amigos e intenta imaginar el recorrido de ese alimento. Haz un dibujo de él o usa algunas tarjetas para imaginarlo. Usa tarjetas para escribir los diferentes pasos, uno en cada tarjeta, e identifica la cadena de conexión. O dibuja diagramas con marcadores. ¿Es sostenible la cadena alimentaria? ¿Cómo se puede cambiar para mejor? Ahora sugiere una nueva cadena de conexión. Agrega más pasos si crees que es necesario o elimina algunos que no sean sostenibles.
+Discutí con tus amigos e intentá imaginar el recorrido de ese alimento. Hacé un dibujo de él o usá algunas tarjetas para imaginarlo. Usá tarjetas para escribir los diferentes pasos, uno en cada tarjeta, e identificá la cadena de conexión. O dibuja diagramas con marcadores. ¿Es sostenible la cadena alimentaria? ¿Cómo se puede cambiar para mejor? Ahora sugiere una nueva cadena de conexión. Agregá más pasos si creés que es necesario o elimina algunos que no sean sostenibles.
 
 ## Cierre
 1. ¿Qué cadena alimentaria te pareció más interesante?
 2. ¿Qué pasos de la cadena podrían ser más sostenibles?
-3. ¿Cómo puedes contribuir a cadenas alimentarias más sostenibles?
+3. ¿Cómo podés contribuir a cadenas alimentarias más sostenibles?
 
 ## Texto original completo de la actividad
 
@@ -266,17 +266,3 @@ Proyecto de la Cadena Alimentaria Sostenible (SUSTAIN - La Alianza para la Mejor
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

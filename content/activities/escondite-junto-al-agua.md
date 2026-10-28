@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Escondite junto al agua"
+title: "Escondite Junto al Agua"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/escondite-junto-al-agua/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/escondite-junto-al-agua.png"
+image: "/imagenes/actividades/escondite-junto-al-agua.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Escondite junto al agua!
+# ¡Escondite Junto al Agua!
 
 ## Resumen
-Construye un escondite (un refugio camuflado desde donde puedes observar a los animales sin molestarlos) cerca de un lago, un estanque o un arroyo. El escondite te mantendrá oculto de la vida silvestre.
+Construí un escondite (un refugio camuflado desde donde podés observar a los animales sin molestarlos) cerca de un lago, un estanque o un arroyo. El escondite te mantendrá oculto de la vida silvestre.
 
 ## Preparación
-1. Identifica un lugar adecuado cerca del agua.
-2. Reúne materiales para el escondite.
-3. Organiza la construcción.
+1. Identificá un lugar adecuado cerca del agua.
+2. Reuní materiales para el escondite.
+3. Organizá la construcción.
 
 ## Desarrollo
-1. Construye el escondite con ramas, hojas y tela.
-2. Asegúrate de que esté bien camuflado.
-3. Pasa un día en tu escondite.
-4. Registra los insectos, mamíferos, aves, reptiles y anfibios que llegan al agua.
+1. Construí el escondite con ramas, hojas y tela.
+2. Asegurate de que esté bien camuflado.
+3. Pasá un día en tu escondite.
+4. Registrá los insectos, mamíferos, aves, reptiles y anfibios que llegan al agua.
 
 ## Cierre
-1. Comparte tus observaciones con el grupo.
-2. Reflexiona: ¿Qué animales observaste?
+1. Compartí tus observaciones con el grupo.
+2. Reflexioná: ¿Qué animales observaste?
 3. Pregunta final: ¿Cómo ayuda un escondite a observar la naturaleza?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ B.27 Construye un escondite (un refugio camuflado desde donde puedes observar a 
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

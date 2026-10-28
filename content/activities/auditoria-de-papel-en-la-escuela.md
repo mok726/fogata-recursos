@@ -1,9 +1,9 @@
 ---
-title: "Auditoría de papel en la escuela"
+title: "Auditoría de Papel en la Escuela"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/auditoria-de-papel-en-la-escuela/"
-description: "Averigua cuánto papel se usa en tu escuela y reduce su consumo."
+description: "Averiguá cuánto papel se usa en tu escuela y reducí su consumo."
 summary: "Auditoría de papel escolar."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/auditoria-de-papel-en-la-escuela.png"
+image: "/imagenes/actividades/auditoria-de-papel-en-la-escuela.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Acceso a datos de la escuela
 tools: []
 responsible:
@@ -140,20 +140,20 @@ rama_rovers:
   - 27  # Me involucro en acciones comunitarias sostenibles.
 ---
 
-# ¡Auditoría de papel en la escuela!
+# ¡Auditoría de Papel en la Escuela!
 
 ## Resumen
-Averigua cuánto papel se usa en tu escuela y toma medidas para reducirlo.
+Averiguá cuánto papel se usa en tu escuela y toma medidas para reducirlo.
 
 ## Preparación
-1. Habla con la administración de la escuela.
-2. Prepara materiales para el estudio.
-3. Identifica áreas de uso de papel.
+1. Hablá con la administración de la escuela.
+2. Prepará materiales para el estudio.
+3. Identificá áreas de uso de papel.
 
 ## Desarrollo
-1. **Auditoría** (20 min): Investiga el uso de papel.
+1. **Auditoría** (20 min): Investigá el uso de papel.
 2. **Análisis** (15 min): ¿Cuánto se recicla? ¿Cuánto termina en la basura?
-3. **Acción** (15 min): Toma medidas para reducir el consumo.
+3. **Acción** (15 min): Tomá medidas para reducir el consumo.
 4. **Evaluación** (10 min): ¿Qué porcentaje lograste reducir?
 
 ## Cierre
@@ -169,16 +169,3 @@ Averigua cuánto papel se usa en tu escuela y toma medidas para reducirlo.
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

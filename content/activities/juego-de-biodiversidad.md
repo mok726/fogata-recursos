@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juego de biodiversidad"
+title: "Juego de Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/juego-de-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juego-de-biodiversidad.png"
+image: "/imagenes/actividades/juego-de-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -172,25 +172,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Juego de biodiversidad!
+# ¡Juego de Biodiversidad!
 
 ## Resumen
 Inventen un juego que ayude a las personas a aprender acerca de la importancia de la biodiversidad. Juéguenlo en grupo. Los participantes de mayor edad pueden diseñar y dirigir el juego para los niños más pequeños.
 
 ## Preparación
-1. Investiga ejemplos de juegos de biodiversidad.
-2. Reúne materiales para crear el juego.
-3. Organiza los grupos de trabajo.
+1. Investigá ejemplos de juegos de biodiversidad.
+2. Reuní materiales para crear el juego.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Piensa en un juego que enseñe sobre biodiversidad.
-2. Crea las reglas y los materiales necesarios.
-3. Juega el juego en grupo.
-4. Reflexiona: ¿Qué aprendiste jugando?
+1. Pensá en un juego que enseñe sobre biodiversidad.
+2. Creá las reglas y los materiales necesarios.
+3. Jugá el juego en grupo.
+4. Reflexioná: ¿Qué aprendiste jugando?
 
 ## Cierre
-1. Comparte tu juego con el grupo.
-2. Juega con otros participantes.
+1. Compartí tu juego con el grupo.
+2. Jugá con otros participantes.
 3. Pregunta final: ¿Qué fue lo más divertido del juego?
 
 ## Texto original completo de la actividad
@@ -199,16 +199,3 @@ D.16 Inventen un juego que ayude a las personas a aprender acerca de la importan
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

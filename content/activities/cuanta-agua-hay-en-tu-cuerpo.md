@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuánta agua hay en tu cuerpo?"
+title: "¿Cuánta Agua Hay en Tu Cuerpo?"
 duration: "20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanta-agua-hay-en-tu-cuerpo/"
 description: "Los participantes calculan cuánta agua hay en su cuerpo y aprenden que el cuerpo humano está compuesto principalmente por agua."
-summary: "Calcula cuánta agua tienes en tu cuerpo."
+summary: "Calculá cuánta agua tenés en tu cuerpo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuanta-agua-hay-en-tu-cuerpo.png"
+image: "/imagenes/actividades/cuanta-agua-hay-en-tu-cuerpo.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -157,32 +157,32 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¿Cuánta agua hay en tu cuerpo?
+# ¿Cuánta Agua Hay en Tu Cuerpo?
 
 ## Resumen
 El agua constituye aproximadamente el 70 por ciento del peso de un ser humano. Una persona no podría vivir sin agua. En esta actividad, los participantes calculan cuánta agua hay en su propio cuerpo.
 
 ## Preparación
-1. Consigue una báscula para pesar a los participantes.
-2. Prepara cuadernos y lápices para los cálculos.
-3. Ten una calculadora disponible (opcional).
+1. Conseguí una báscula para pesar a los participantes.
+2. Prepará cuadernos y lápices para los cálculos.
+3. Tené una calculadora disponible (opcional).
 
 ## Desarrollo
 
 ### Parte I - Explicación
-Recuerda a tu grupo que el agua constituye aproximadamente el 70 por ciento del peso de un ser humano y que una persona no podría vivir sin agua.
+Recordá a tu grupo que el agua constituye aproximadamente el 70 por ciento del peso de un ser humano y que una persona no podría vivir sin agua.
 
 ### Parte II - Cálculo
-Explica que van a calcular cuánta agua hay en sus cuerpos. Cada participante (o puedes elegir dos o tres) debe completar el siguiente formulario:
+Explicá que van a calcular cuánta agua hay en sus cuerpos. Para no exponer el peso de nadie, usen un peso de ejemplo (o el del dirigente) y completen el siguiente formulario:
 
 **Tu peso:** (kilogramos)
 
-1. Multiplica tu peso por 2: (kilogramos)
-2. Divide tu respuesta al paso 1 entre 3. Este es el número de kilogramos de agua en ti: (kilogramos de agua)
-3. Divide tu respuesta al paso 2 entre 2. Este es el número de litros de agua en ti: (litros de agua)
+1. Multiplicá tu peso por 2: (kilogramos)
+2. Dividí tu respuesta al paso 1 entre 3. Este es el número de kilogramos de agua en vos: (kilogramos de agua)
+3. Como 1 kg de agua ocupa aproximadamente 1 litro, el resultado del paso 2 es también, aproximadamente, el número de litros de agua en el cuerpo: (litros de agua)
 
 ### Parte III - Compartir
-Cada participante comparte cuánta agua hay en su cuerpo.
+Comparen los resultados: ¿cuántas botellas de 1 litro serían?
 
 ## Cierre
 - ¿Por qué el cuerpo humano necesita agua?
@@ -259,20 +259,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

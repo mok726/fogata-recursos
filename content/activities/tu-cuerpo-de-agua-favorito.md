@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tu-cuerpo-de-agua-favorito.png"
+image: "/imagenes/actividades/tu-cuerpo-de-agua-favorito.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -176,22 +176,22 @@ translation_notice:
 En esta actividad, los participantes organizan un concurso de fotografía para descubrir el cuerpo de agua favorito de su escuela o grupo. Cada participante presenta una fotografía impresa de un cuerpo de agua local con una breve descripción. La comunidad vota por su favorito.
 
 ## Preparación
-1. Prepara los materiales para los pósters.
-2. Prepara el espacio para la exposición.
-3. Prepara la caja para la votación.
+1. Prepará los materiales para los pósters.
+2. Prepará el espacio para la exposición.
+3. Prepará la caja para la votación.
 
 ## Desarrollo
 
 ### Paso 1: Organización
-1. Recuerda a tu grupo todos los increíbles lagos, ríos, cascadas, playas, etc. que se pueden encontrar en tu país.
-2. Pide a los participantes que te cuenten sobre una experiencia memorable que hayan tenido en uno de estos lugares.
+1. Recordá a tu grupo todos los increíbles lagos, ríos, cascadas, playas, etc. que se pueden encontrar en tu país.
+2. Pedí a los participantes que te cuenten sobre una experiencia memorable que hayan tenido en uno de estos lugares.
 
 ### Paso 2: Concurso de fotografía
-3. Explica a los participantes que van a organizar un concurso de fotografía para descubrir el **Cuerpo de Agua Favorito** de la escuela o lugar de reunión.
+3. Explicá a los participantes que van a organizar un concurso de fotografía para descubrir el **Cuerpo de Agua Favorito** de la escuela o lugar de reunión.
 4. Todos los participantes deben presentar una fotografía impresa de un cuerpo de agua local, incluyendo una breve descripción de ese lugar.
 
 ### Paso 3: Publicidad
-5. Pide a tu grupo que haga pósters para publicitar el evento. Asegúrate de incluir toda la información necesaria:
+5. Pedí a tu grupo que haga pósters para publicitar el evento. Asegurate de incluir toda la información necesaria:
    - Tema del concurso
    - Rango de edad de los participantes
    - Requisitos específicos: tamaño de las fotografías, extensión de la descripción, etc.
@@ -210,10 +210,10 @@ En esta actividad, los participantes organizan un concurso de fotografía para d
 11. Pueden hacer un certificado para el ganador y anunciarlo a toda la escuela o lugar de reunión.
 
 ## Cierre
-- ¿Por qué crees que ese cuerpo de agua fue seleccionado como el ganador?
+- ¿Por qué creés que ese cuerpo de agua fue seleccionado como el ganador?
 - ¿Cuál es tu cuerpo de agua favorito? ¿Por qué?
 - ¿Por qué es necesario proteger y respetar todos los recursos hídricos?
-- ¿Puedes pensar en algunas ideas para proteger tus cuerpos de agua locales?
+- ¿Podés pensar en algunas ideas para proteger tus cuerpos de agua locales?
 
 ## Texto original completo de la actividad
 
@@ -287,21 +287,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[29,47], scouts[37,53], caminantes[33,49], rovers[4,37])

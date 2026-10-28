@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Haz Ruido!"
+title: "¡Hacé Ruido!"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-ruido/"
-description: "Organiza un evento ruidoso (concierto, teatro, musical) para llamar la atención sobre el hambre."
+description: "Organizá un evento ruidoso (concierto, teatro, musical) para llamar la atención sobre el hambre."
 summary: "Evento creativo contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-ruido.png"
+image: "/imagenes/actividades/haz-ruido.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -169,39 +169,26 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Haz Ruido!
+# ¡Hacé Ruido!
 
 ## Resumen
-Organiza un evento ruidoso (concierto, teatro, musical) para llamar la atención sobre el hambre.
+Organizá un evento ruidoso (concierto, teatro, musical) para llamar la atención sobre el hambre.
 
 ## Preparación
-1. Piensa en qué tipo de evento quieres organizar.
-2. Prepara datos e información sobre el hambre.
-3. Asegura el espacio y los permisos necesarios.
+1. Pensá en qué tipo de evento querés organizar.
+2. Prepará datos e información sobre el hambre.
+3. Asegurá el espacio y los permisos necesarios.
 
 ## Desarrollo
-1. **Planificación** (20 min): Define el evento y sus actividades.
-2. **Ensayo** (20 min): Ensaya la presentación.
-3. **Evento** (30 min): Realiza el evento.
-4. **Educación** (15 min): Comparte datos sobre el hambre durante el evento.
-5. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+1. **Planificación** (20 min): Definí el evento y sus actividades.
+2. **Ensayo** (20 min): Ensayá la presentación.
+3. **Evento** (30 min): Realizá el evento.
+4. **Educación** (15 min): Compartí datos sobre el hambre durante el evento.
+5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Cómo reaccionó la gente a tu evento?
-- ¿Qué mensaje crees que recibieron?
+- ¿Qué mensaje creés que recibieron?
 - ¿Qué compromiso adquieres para seguir alzando tu voz?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

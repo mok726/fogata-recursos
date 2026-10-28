@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Es útil reutilizar"
+title: "Es Útil Reutilizar"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/es-util-reutilizar/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/es-util-reutilizar.png"
+image: "/imagenes/actividades/es-util-reutilizar.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -169,18 +169,18 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Es útil reutilizar!
+# ¡Es Útil Reutilizar!
 
 ## Resumen
-Existen muchas maneras de convertir objetos aparentemente inservibles en cosas útiles. Por ejemplo, puedes usar un rollo de papel higiénico vacío para ordenar tus pulseras o podrías usar una botella de salsa para pasta para guardar lápices y bolígrafos.
+Existen muchas maneras de convertir objetos aparentemente inservibles en cosas útiles. Por ejemplo, podés usar un rollo de papel higiénico vacío para ordenar tus pulseras o podrías usar una botella de salsa para pasta para guardar lápices y lapiceras.
 
 ## Preparación
-1. Reúne objetos que serían desechados.
-2. Prepara materiales para manualidades.
-3. Busca ideas de proyectos en línea.
+1. Reuní objetos que serían desechados.
+2. Prepará materiales para manualidades.
+3. Buscá ideas de proyectos en línea.
 
 ## Desarrollo
-1. Haz una lista de todas tus ideas para reutilizar objetos.
+1. Hacé una lista de todas tus ideas para reutilizar objetos.
 2. Reúnanse en grupo para compartirlas.
 3. Hagan un proyecto juntos donde conviertan cosas inservibles en cosas útiles.
 4. Decórenlas para que se vean agradables.
@@ -196,16 +196,3 @@ D.01 ES ÚTIL REUTILIZAR. Existen muchas maneras de convertir objetos aparenteme
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

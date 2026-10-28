@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cantad-una-cancion-con-accion.png"
+image: "/imagenes/actividades/cantad-una-cancion-con-accion.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -172,15 +172,15 @@ rama_rovers:
 Compón y canta una canción con movimientos sobre la importancia de la actividad física y la nutrición.
 
 ## Preparación
-1. Piensa en una melodía pegadiza.
-2. Escribe la letra sobre actividad física y nutrición.
-3. Diseña movimientos divertidos para cada parte.
+1. Pensá en una melodía pegadiza.
+2. Escribí la letra sobre actividad física y nutrición.
+3. Diseñá movimientos divertidos para cada parte.
 
 ## Desarrollo
-1. **Composición** (20 min): Escribe la canción y los movimientos.
-2. **Ensayo** (15 min): Ensaya con el grupo.
-3. **Presentación** (15 min): Canta la canción en el Día de Padres.
-4. **Recaudación** (10 min): Pasa un sombrero para recaudar fondos.
+1. **Composición** (20 min): Escribí la canción y los movimientos.
+2. **Ensayo** (15 min): Ensayá con el grupo.
+3. **Presentación** (15 min): Cantá la canción en el Día de Padres.
+4. **Recaudación** (10 min): Pasá un sombrero para recaudar fondos.
 
 ## Cierre
 - ¿Qué mensaje incluyeron en la canción?
@@ -188,16 +188,3 @@ Compón y canta una canción con movimientos sobre la importancia de la activida
 - ¿Qué compromiso adquieres para seguir promoviendo la salud?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

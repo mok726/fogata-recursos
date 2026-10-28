@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía creativa"
+title: "Energía Creativa"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-creativa/"
-description: "Escribe una historia corta sobre una forma innovadora de generar electricidad, como una bicicleta que genera energía, y dibuja o construye un modelo."
-summary: "Imagina nuevas formas de generar energía."
+description: "Escribí una historia corta sobre una forma innovadora de generar electricidad, como una bicicleta que genera energía, y dibujá o construí un modelo."
+summary: "Imaginá nuevas formas de generar energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/energia-creativa.png"
+image: "/imagenes/actividades/energia-creativa.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -163,27 +163,27 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía creativa!
+# ¡Energía Creativa!
 
 ## Resumen
-Deja volar tu imaginación y escribe una historia corta sobre una forma innovadora de generar electricidad. Por ejemplo, una bicicleta que genera energía para un reproductor de música y una bombilla. Luego dibuja o construye un modelo de tu idea.
+Dejá volar tu imaginación y escribí una historia corta sobre una forma innovadora de generar electricidad. Por ejemplo, una bicicleta que genera energía para un reproductor de música y una bombilla. Luego dibuja o construí un modelo de tu idea.
 
 ## Preparación
-1. Lee la información sobre generación de energía.
-2. Busca ejemplos de innovaciones energéticas (ej. bicicleta de energía).
-3. Prepara materiales para escribir y dibujar.
+1. Leé la información sobre generación de energía.
+2. Buscá ejemplos de innovaciones energéticas (ej. bicicleta de energía).
+3. Prepará materiales para escribir y dibujar.
 
 ## Desarrollo
 
 ### Parte I - Inspiración
-Mira ejemplos de innovaciones energéticas:
+Mirá ejemplos de innovaciones energéticas:
 
 **Ejemplo:** Bicicleta de energía que genera electricidad para un reproductor de música y una bombilla.
 
 **Más información:** https://www.globalactionplan.org.uk/energy-bike
 
 ### Parte II - Escribir
-Escribe una historia corta sobre tu idea innovadora:
+Escribí una historia corta sobre tu idea innovadora:
 
 **Preguntas guía:**
 - ¿Qué invento creaste?
@@ -193,10 +193,10 @@ Escribe una historia corta sobre tu idea innovadora:
 - ¿Cómo ayuda al medio ambiente?
 
 ### Parte III - Diseñar
-Dibuja o construye un modelo de tu invento.
+Dibujá o construí un modelo de tu invento.
 
 ### Parte IV - Compartir
-Comparte tu historia y diseño con el grupo.
+Compartí tu historia y diseño con el grupo.
 
 ## Cierre
 1. ¿Qué invento te pareció más interesante?
@@ -231,20 +231,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

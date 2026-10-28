@@ -4,7 +4,7 @@ title: "La Encuesta de los Hábitos Alimenticios"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/la-encuesta-de-los-habitos-alimenticios/"
-description: "Realiza una encuesta sobre hábitos alimenticios en tu comunidad y analiza los resultados."
+description: "Realizá una encuesta sobre hábitos alimenticios en tu comunidad y analizá los resultados."
 summary: "Encuesta sobre hábitos alimenticios."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-encuesta-de-los-habitos-alimenticios.png"
+image: "/imagenes/actividades/la-encuesta-de-los-habitos-alimenticios.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,19 +169,19 @@ rama_rovers:
 # La Encuesta de los Hábitos Alimenticios
 
 ## Resumen
-Realiza una encuesta sobre hábitos alimenticios en tu comunidad y analiza los resultados.
+Realizá una encuesta sobre hábitos alimenticios en tu comunidad y analizá los resultados.
 
 ## Preparación
-1. Prepara un cuestionario corto y directo.
-2. Define el grupo objetivo (compañeros, comunidad, etc.).
-3. Pide permiso a los participantes.
+1. Prepará un cuestionario corto y directo.
+2. Definí el grupo objetivo (compañeros, comunidad, etc.).
+3. Pedí permiso a los participantes.
 
 ## Desarrollo
-1. **Encuesta** (30 min): Realiza la encuesta a tu comunidad.
-2. **Análisis** (20 min): Analiza y resume las respuestas.
-3. **Informe** (20 min): Crea una tabla, gráfico o informe.
-4. **Publicación** (15 min): Comparte los resultados en la escuela o biblioteca.
-5. **Medios** (10 min): Contacta a medios locales.
+1. **Encuesta** (30 min): Realizá la encuesta a tu comunidad.
+2. **Análisis** (20 min): Analizá y resume las respuestas.
+3. **Informe** (20 min): Creá una tabla, gráfico o informe.
+4. **Publicación** (15 min): Compartí los resultados en la escuela o biblioteca.
+5. **Medios** (10 min): Contactá a medios locales.
 
 ## Cierre
 - ¿Tu comunidad sigue una dieta equilibrada?
@@ -189,16 +189,3 @@ Realiza una encuesta sobre hábitos alimenticios en tu comunidad y analiza los r
 - ¿Qué compromiso adquieres para promover mejores hábitos alimenticios?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

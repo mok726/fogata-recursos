@@ -3,7 +3,7 @@ title: "30 Días por el Ambiente"
 duration: "Proyecto de 30 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/treinta-dias-por-el-ambiente/"
-description: "Realiza una acción por el medio ambiente cada día durante 30 días."
+description: "Realizá una acción por el medio ambiente cada día durante 30 días."
 summary: "Desafío de 30 días de acciones ambientales."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/treinta-dias-por-el-ambiente.png"
+image: "/imagenes/actividades/treinta-dias-por-el-ambiente.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -156,17 +156,17 @@ rama_rovers:
 # ¡30 Días por el Ambiente!
 
 ## Resumen
-Realiza una acción por el medio ambiente cada día durante 30 días, desde pequeñas acciones hasta grandes proyectos.
+Realizá una acción por el medio ambiente cada día durante 30 días, desde pequeñas acciones hasta grandes proyectos.
 
 ## Preparación
-1. Prepara un diario para registrar tus acciones.
-2. Piensa en acciones que puedas hacer.
-3. Prepara una cámara para fotos (opcional).
+1. Prepará un diario para registrar tus acciones.
+2. Pensá en acciones que puedas hacer.
+3. Prepará una cámara para fotos (opcional).
 
 ## Desarrollo
-1. **Planificación** (15 min): Haz una lista de posibles acciones.
-2. **Acción** (30 días): Realiza una acción cada día.
-3. **Registro** (5 min/día): Escribe en tu diario y toma fotos.
+1. **Planificación** (15 min): Hacé una lista de posibles acciones.
+2. **Acción** (30 días): Realizá una acción cada día.
+3. **Registro** (5 min/día): Escribí en tu diario y toma fotos.
 4. **Reflexión** (30 min): Al final, comparte tu experiencia con el grupo.
 
 ## Cierre
@@ -182,16 +182,3 @@ Realiza una acción por el medio ambiente cada día durante 30 días, desde pequ
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

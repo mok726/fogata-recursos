@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-agua-subterranea.png"
+image: "/imagenes/actividades/el-agua-subterranea.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -176,25 +176,25 @@ translation_notice:
 En esta actividad, los participantes leen una divertida historia de detectives que destaca la importancia de monitorear la calidad del agua para proteger y conservar los hábitats acuáticos.
 
 ## Preparación
-1. Prepara acceso a Internet para leer la historia.
-2. Prepara los materiales de dibujo.
+1. Prepará acceso a Internet para leer la historia.
+2. Prepará los materiales de dibujo.
 
 ## Desarrollo
 
 ### Paso 1: Lectura de la historia
-1. Explica a tu grupo que van a leer una divertida historia de detectives que destaca la importancia de monitorear la calidad del agua para proteger y conservar los hábitats acuáticos.
-2. Encuentra la historia en la página web del Día Mundial del Monitoreo del Agua:
+1. Explicá a tu grupo que van a leer una divertida historia de detectives que destaca la importancia de monitorear la calidad del agua para proteger y conservar los hábitats acuáticos.
+2. Encontrá la historia en la página web del Día Mundial del Monitoreo del Agua:
 
 **"The Water Down Under" por Deborah Rodney**  
 https://www.worldwatermonitoringday.org/The_Water_Down_Under.aspx
 
 ### Paso 2: Lectura en grupo
-3. Lee la historia con tu grupo. Puedes pedirles que te ayuden a leerla.
-4. Pide a los participantes que tomen notas sobre pistas importantes y que escriban cualquier pregunta que puedan tener.
+3. Leé la historia con tu grupo. Podés pedirles que te ayuden a leerla.
+4. Pedí a los participantes que tomen notas sobre pistas importantes y que escriban cualquier pregunta que puedan tener.
 
 ### Paso 3: Discusión y dibujo
 5. Una vez que terminen de leer, anima la discusión.
-6. Puedes pedirles que hagan un dibujo sobre cómo creen que se veía el lago una vez que el misterio fue resuelto.
+6. Podés pedirles que hagan un dibujo sobre cómo creen que se veía el lago una vez que el misterio fue resuelto.
 
 ## Cierre
 - ¿Cómo afectan las personas a los cuerpos de agua?
@@ -262,21 +262,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,32], scouts[26,40], caminantes[25,36], rovers[8,29])

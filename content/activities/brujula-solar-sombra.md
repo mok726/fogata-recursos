@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Brújula solar - Método de la Sombra"
+title: "Brújula Solar - Método de la Sombra"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/brujula-solar-sombra/"
-description: "Aprende a orientarte usando la sombra de un palo, descubriendo una técnica simple para encontrar los puntos cardinales sin brújula."
-summary: "Encuentra los puntos cardinales con una sombra."
+description: "Aprendé a orientarte usando la sombra de un palo, descubriendo una técnica simple para encontrar los puntos cardinales sin brújula."
+summary: "Encontrá los puntos cardinales con una sombra."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/brujula-solar-sombra.png"
+image: "/imagenes/actividades/brujula-solar-sombra.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -165,7 +165,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión
 ---
 
-# ¡Brújula solar - Método de la Sombra!
+# ¡Brújula Solar - Método de la Sombra!
 
 ## Resumen
 Este método es simple y consiste en 4 pasos. Usando un palo y su sombra, podrás encontrar los puntos cardinales sin necesidad de una brújula.
@@ -221,17 +221,3 @@ Este método es simple, consiste de 4 pasos.
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

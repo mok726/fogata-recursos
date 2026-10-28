@@ -1,9 +1,9 @@
 ---
-title: "Reciclaje de agua"
+title: "Reciclaje de Agua"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reciclaje-de-agua/"
-description: "Recicla agua de cocina, baño y recoge agua lluvia."
+description: "Reciclá agua de cocina, baño y recogé agua lluvia."
 summary: "Reciclaje de agua en el hogar."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/reciclaje-de-agua.png"
+image: "/imagenes/actividades/reciclaje-de-agua.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -145,25 +145,25 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común.
 ---
 
-# ¡Reciclaje de agua!
+# ¡Reciclaje de Agua!
 
 ## Resumen
-Recicla el agua de cocina, baño y limpieza, y recoge agua lluvia para regar plantas.
+Reciclá el agua de cocina, baño y limpieza, y recogé agua lluvia para regar plantas.
 
 ## Preparación
-- Identifica fuentes de agua reciclable.
-- Prepara recipientes para recolectar agua.
+- Identificá fuentes de agua reciclable.
+- Prepará recipientes para recolectar agua.
 
 ## Desarrollo
-1. **Recolección** (continua): Recoge agua de cocina y baño.
-2. **Lluvia** (continua): Recoge agua de lluvia.
-3. **Uso** (continua): Usa el agua para regar plantas.
-4. **Compartir** (10 min): Comparte tu experiencia con el grupo.
+1. **Recolección** (continua): Recogé agua de cocina y baño.
+2. **Lluvia** (continua): Recogé agua de lluvia.
+3. **Uso** (continua): Usá el agua para regar plantas.
+4. **Compartir** (10 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Cuánta agua lograste reciclar?
-- ¿Cómo te sientes al reutilizar el agua?
-- ¿Qué otros usos puedes dar al agua reciclada?
+- ¿Cómo te sentís al reutilizar el agua?
+- ¿Qué otros usos podés dar al agua reciclada?
 
 ---
 ## Texto original completo de la actividad
@@ -173,16 +173,3 @@ Recicla el agua de cocina, baño y limpieza, y recoge agua lluvia para regar pla
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -3,7 +3,7 @@ title: "Tu Flor Favorita"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-flor-favorita/"
-description: "Escribe un poema sobre tu flor favorita y la importancia del suelo para su crecimiento."
+description: "Escribí un poema sobre tu flor favorita y la importancia del suelo para su crecimiento."
 summary: "Poema sobre una flor y el suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/tu-flor-favorita.png"
+image: "/imagenes/actividades/tu-flor-favorita.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -142,16 +142,16 @@ rama_rovers: []
 # ¡Tu Flor Favorita!
 
 ## Resumen
-Escribe un poema sobre tu flor favorita y reflexiona sobre la importancia del suelo para su crecimiento.
+Escribí un poema sobre tu flor favorita y reflexioná sobre la importancia del suelo para su crecimiento.
 
 ## Preparación
-- Elige tu flor o fruta favorita.
-- Piensa en cómo el suelo es importante para ella.
+- Elegí tu flor o fruta favorita.
+- Pensá en cómo el suelo es importante para ella.
 
 ## Desarrollo
 1. **Investigación** (10 min): ¿Qué condiciones de suelo son mejores para tu flor?
-2. **Escritura** (15 min): Escribe un poema sobre tu flor y el suelo.
-3. **Compartir** (5 min): Lee tu poema en voz alta.
+2. **Escritura** (15 min): Escribí un poema sobre tu flor y el suelo.
+3. **Compartir** (5 min): Leé tu poema en voz alta.
 
 ## Cierre
 - ¿Qué flor elegiste y por qué?
@@ -166,16 +166,3 @@ Escribe un poema sobre tu flor favorita y reflexiona sobre la importancia del su
 nivel 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

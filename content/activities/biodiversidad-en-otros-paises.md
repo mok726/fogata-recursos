@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Biodiversidad en otros países"
+title: "Biodiversidad en Otros Países"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-en-otros-paises/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/biodiversidad-en-otros-paises.png"
+image: "/imagenes/actividades/biodiversidad-en-otros-paises.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 26  # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Biodiversidad en otros países!
+# ¡Biodiversidad en Otros Países!
 
 ## Resumen
-Elige tres países que te gustaría visitar algún día. ¿Qué tipos de ecosistemas puedes encontrar en cada uno de estos países? ¿Cuál es el árbol, la flor, el ave y el animal nacional de cada país? ¿Cuáles son las mayores amenazas para la biodiversidad en cada nación? Trata de encontrar algunas fotografías que muestren la naturaleza de estos países.
+Elegí tres países que te gustaría visitar algún día. ¿Qué tipos de ecosistemas podés encontrar en cada uno de estos países? ¿Cuál es el árbol, la flor, el ave y el animal nacional de cada país? ¿Cuáles son las mayores amenazas para la biodiversidad en cada nación? Tratá de encontrar algunas fotografías que muestren la naturaleza de estos países.
 
 ## Preparación
-1. Elige tres países para investigar.
-2. Prepara materiales para registrar.
-3. Organiza los grupos de trabajo.
+1. Elegí tres países para investigar.
+2. Prepará materiales para registrar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga sobre ecosistemas de cada país.
-2. Encuentra el árbol, flor, ave y animal nacional.
-3. Identifica las amenazas para la biodiversidad.
-4. Busca fotografías de la naturaleza de cada país.
+1. Investigá sobre ecosistemas de cada país.
+2. Encontrá el árbol, flor, ave y animal nacional.
+3. Identificá las amenazas para la biodiversidad.
+4. Buscá fotografías de la naturaleza de cada país.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre la diversidad de ecosistemas.
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre la diversidad de ecosistemas.
 3. Pregunta final: ¿Qué país te gustaría visitar para ver su biodiversidad?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ D.05 Elige tres países que te gustaría visitar algún día. ¿Qué tipos de ec
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

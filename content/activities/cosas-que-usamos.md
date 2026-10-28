@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cosas que usamos"
+title: "Cosas que Usamos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cosas-que-usamos/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cosas-que-usamos.png"
+image: "/imagenes/actividades/cosas-que-usamos.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Cosas que usamos!
+# ¡Cosas que Usamos!
 
 ## Resumen
 Los polinizadores son enormemente importantes para nuestros cultivos alimentarios, pero ¿qué pasa con otros productos derivados de plantas, como aceites, semillas, nueces, fibras y medicinas? Averiguá cuáles de estos productos son populares en tu área. ¿Su producción depende de los polinizadores? ¿Se producen localmente? ¿Para qué usa la gente estos productos?
@@ -178,7 +178,7 @@ Los polinizadores son enormemente importantes para nuestros cultivos alimentario
 2. Investigá si su producción depende de polinizadores.
 3. Investigá si se producen localmente.
 4. Investigá para qué se usan.
-5. Creá una presentación o fotoreportaje con tus hallazgos.
+5. Creá una presentación o fotorreportaje con tus hallazgos.
 
 ## Cierre
 1. Compartí tu presentación con el grupo.
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

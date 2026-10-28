@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Usos de la biodiversidad marina"
+title: "Usos de la Biodiversidad Marina"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/usos-de-la-biodiversidad-marina/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/usos-de-la-biodiversidad-marina.png"
+image: "/imagenes/actividades/usos-de-la-biodiversidad-marina.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 18  # Desarrollo habilidades para el mundo laboral
 ---
 
-# ¡Usos de la biodiversidad marina!
+# ¡Usos de la Biodiversidad Marina!
 
 ## Resumen
-La biodiversidad de los océanos ofrece al hombre varios alimentos nutritivos, incluyendo alimentos a base de plantas. Elabora un póster o un dibujo de todos los diferentes usos que los seres humanos le dan a la biodiversidad marina.
+La biodiversidad de los océanos ofrece al hombre varios alimentos nutritivos, incluyendo alimentos a base de plantas. Elaborá un póster o un dibujo de todos los diferentes usos que los seres humanos le dan a la biodiversidad marina.
 
 ## Preparación
-1. Investiga sobre usos de la biodiversidad marina.
-2. Prepara materiales para el póster.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre usos de la biodiversidad marina.
+2. Prepará materiales para el póster.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga los diferentes usos de la biodiversidad marina.
-2. Identifica alimentos, medicinas y otros productos.
-3. Elabora un póster o dibujo mostrando todos los usos.
-4. Incluye ejemplos concretos de cada uso.
+1. Investigá los diferentes usos de la biodiversidad marina.
+2. Identificá alimentos, medicinas y otros productos.
+3. Elaborá un póster o dibujo mostrando todos los usos.
+4. Incluí ejemplos concretos de cada uso.
 
 ## Cierre
-1. Comparte tu póster con el grupo.
-2. Reflexiona: ¿Cómo depende nuestra vida de la biodiversidad marina?
+1. Compartí tu póster con el grupo.
+2. Reflexioná: ¿Cómo depende nuestra vida de la biodiversidad marina?
 3. Pregunta final: ¿Qué podemos hacer para proteger los océanos?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ B.15 La biodiversidad de los océanos ofrece al hombre varios alimentos nutritiv
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/voluntario-por-los-bosques.png"
+image: "/imagenes/actividades/voluntario-por-los-bosques.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -170,15 +170,15 @@ rama_rovers:
 Emplea algunas horas cada semana, durante un par de meses, para ayudar a una organización local de conservación forestal.
 
 ## Preparación
-1. Investiga organizaciones locales de conservación forestal (ej. parques nacionales, ONGs, viveros forestales).
-2. Contacta a la organización y pregunta cómo puedes ayudar.
-3. Define un horario regular para el voluntariado.
+1. Investigá organizaciones locales de conservación forestal (ej. parques nacionales, ONGs, viveros forestales).
+2. Contactá a la organización y pregunta cómo podés ayudar.
+3. Definí un horario regular para el voluntariado.
 
 ## Desarrollo
-1. **Investigación** (30 min): Identifica organizaciones locales que trabajen en conservación forestal.
-2. **Contacto** (15 min): Comunícate con la organización y acuerda tu participación.
+1. **Investigación** (30 min): Identificá organizaciones locales que trabajen en conservación forestal.
+2. **Contacto** (15 min): Comunicate con la organización y acuerda tu participación.
 3. **Voluntariado** (2-3 meses): Dedica algunas horas cada semana a las tareas asignadas.
-4. **Reflexión** (continua): Reflexiona sobre tu experiencia y el impacto de tu trabajo.
+4. **Reflexión** (continua): Reflexioná sobre tu experiencia y el impacto de tu trabajo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de conservación forestal?
@@ -186,16 +186,3 @@ Emplea algunas horas cada semana, durante un par de meses, para ayudar a una org
 - ¿Qué compromiso adquieres para seguir apoyando la conservación?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

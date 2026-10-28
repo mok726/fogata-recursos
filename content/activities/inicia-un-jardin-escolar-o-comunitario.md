@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Iniciá un jardín escolar o comunitario"
+title: "Iniciá un Jardín Escolar o Comunitario"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/inicia-un-jardin-escolar-o-comunitario/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/inicia-un-jardin-escolar-o-comunitario.png"
+image: "/imagenes/actividades/inicia-un-jardin-escolar-o-comunitario.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -172,7 +172,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Iniciá un jardín escolar o comunitario!
+# ¡Iniciá un Jardín Escolar o Comunitario!
 
 ## Resumen
 En esta actividad, vas a iniciar un jardín en la escuela, cuidarlo y disfrutar viendo crecer tus verduras. Empezá formando un comité y trabajando con las autoridades escolares para conseguir un lugar para el jardín.
@@ -184,7 +184,7 @@ En esta actividad, vas a iniciar un jardín en la escuela, cuidarlo y disfrutar 
 
 ## Desarrollo
 1. Conseguí un contenedor para compost (balde viejo o caja de madera).
-2. Juntá restos de comida para el compost. Capas de "verdes" (restos de comida) y "marrones" (cáscaras, cartones, periódicos, hojas secas).
+2. Juntá restos de comida para el compost. Capas de "verdes" (restos de comida) y "marrones" (cáscaras de huevo, cartones, periódicos, hojas secas).
 3. Esperá que el compost se descomponga (puede tomar meses).
 4. Agregá el compost a la tierra del jardín.
 5. Plantá vegetales nativos de tu área.
@@ -239,20 +239,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

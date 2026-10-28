@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Información privilegiada"
+title: "Información Privilegiada"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/informacion-privilegiada/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/informacion-privilegiada.png"
+image: "/imagenes/actividades/informacion-privilegiada.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,18 +160,18 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Información privilegiada!
+# ¡Información Privilegiada!
 
 ## Resumen
-Organiza una reunión con un oficial local del ministerio o de la agencia de medio ambiente de tu país. Pregúntale acerca del rol de tu país en las negociaciones del clima de las NN.UU.
+Organizá una reunión con un oficial local del ministerio o de la agencia de medio ambiente de tu país. Preguntale acerca del rol de tu país en las negociaciones del clima de las NN.UU.
 
 ## Preparación
-1. Identifica un funcionario ambiental para contactar.
-2. Prepara preguntas para la reunión.
-3. Organiza la logística de la reunión.
+1. Identificá un funcionario ambiental para contactar.
+2. Prepará preguntas para la reunión.
+3. Organizá la logística de la reunión.
 
 ## Desarrollo
-1. Reúnete con el funcionario ambiental.
+1. Reunite con el funcionario ambiental.
 2. Pregunta: ¿Cuáles son las razones detrás de la posición de tu país?
 3. Pregunta: ¿Qué otros países están de acuerdo con esta posición?
 4. Pregunta: ¿Están considerando cómo los jóvenes se sienten en relación con el cambio climático?
@@ -179,7 +179,7 @@ Organiza una reunión con un oficial local del ministerio o de la agencia de med
 6. Propone soluciones - hay muchas cosas que los jóvenes pueden enseñar a los adultos.
 
 ## Cierre
-1. Comparte lo que aprendiste con el grupo.
+1. Compartí lo que aprendiste con el grupo.
 2. Discutan: ¿Cómo pueden los jóvenes influir en las políticas climáticas?
 3. Pregunta final: ¿Qué te sorprendió de la reunión?
 
@@ -189,16 +189,3 @@ D.10 Información privilegiada. Organiza una reunión con un oficial local del m
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

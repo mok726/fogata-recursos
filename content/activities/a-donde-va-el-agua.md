@@ -1,9 +1,9 @@
 ---
-title: "¿A dónde va el agua?"
+title: "¿A Dónde Va el Agua?"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-donde-va-el-agua/"
-description: "Investiga el uso del agua en tu país por sectores y propón formas de ahorrar."
+description: "Investigá el uso del agua en tu país por sectores y proponé formas de ahorrar."
 summary: "Investigación del uso de agua por sectores."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/a-donde-va-el-agua.png"
+image: "/imagenes/actividades/a-donde-va-el-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -147,25 +147,25 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación ambiental.
 ---
 
-# ¿A dónde va el agua?
+# ¿A Dónde Va el Agua?
 
 ## Resumen
-Investiga cómo se utiliza el agua en tu país por sectores y propón formas de ahorrar.
+Investigá cómo se utiliza el agua en tu país por sectores y proponé formas de ahorrar.
 
 ## Preparación
-1. Investiga sobre el uso del agua en tu país.
-2. Identifica los principales sectores que usan agua.
-3. Prepara materiales para presentar.
+1. Investigá sobre el uso del agua en tu país.
+2. Identificá los principales sectores que usan agua.
+3. Prepará materiales para presentar.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga el uso del agua por sector en tu país.
+1. **Investigación** (25 min): Investigá el uso del agua por sector en tu país.
 2. **Análisis** (15 min): ¿Para qué se utiliza la mayor cantidad de agua?
 3. **Propuestas** (15 min): ¿Dónde se podría ahorrar?
-4. **Presentación** (5 min): Comparte tus hallazgos.
+4. **Presentación** (5 min): Compartí tus hallazgos.
 
 ## Cierre
 - ¿Qué sector usa más agua en tu país?
-- ¿Dónde crees que se podría ahorrar más?
+- ¿Dónde creés que se podría ahorrar más?
 - ¿Cómo se compara tu país con otros?
 
 ---
@@ -176,16 +176,3 @@ Investiga cómo se utiliza el agua en tu país por sectores y propón formas de 
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

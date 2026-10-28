@@ -4,7 +4,7 @@ title: "Ubicación del Océano"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/ubicacion-del-oceano/"
-description: "Identifica los cinco océanos principales y los mares en un mapa del mundo."
+description: "Identificá los cinco océanos principales y los mares en un mapa del mundo."
 summary: "Identificación de océanos y mares."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ubicacion-del-oceano.png"
+image: "/imagenes/actividades/ubicacion-del-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -172,22 +172,22 @@ rama_rovers:
 # Ubicación del Océano
 
 ## Resumen
-Identifica los cinco océanos principales y los mares en un mapa del mundo.
+Identificá los cinco océanos principales y los mares en un mapa del mundo.
 
 ## Preparación
-1. Consigue un mapa del mundo o un globo.
-2. Prepara material para dibujar tu propio mapa.
+1. Conseguí un mapa del mundo o un globo.
+2. Prepará material para dibujar tu propio mapa.
 
 ## Desarrollo
-1. **Observación** (10 min): Mira un mapa o globo. ¿Cuál es el color principal que ves? ¿Por qué?
-2. **Identificación** (10 min): Nombra los cinco océanos principales.
-3. **Exploración** (10 min): Encuentra diferentes mares.
-4. **Localización** (5 min): Identifica el mar y océano más cercano.
-5. **Dibujo** (15 min): Dibuja tu propio mapa y etiqueta océanos y mares.
+1. **Observación** (10 min): Mirá un mapa o globo. ¿Cuál es el color principal que ves? ¿Por qué?
+2. **Identificación** (10 min): Nombrá los cinco océanos principales.
+3. **Exploración** (10 min): Encontrá diferentes mares.
+4. **Localización** (5 min): Identificá el mar y océano más cercano.
+5. **Dibujo** (15 min): Dibujá tu propio mapa y etiqueta océanos y mares.
 
 ## Cierre
 - ¿Cuáles son los cinco océanos principales?
-- ¿Qué mar está más cerca de donde vives?
+- ¿Qué mar está más cerca de donde vivís?
 - ¿Qué compromiso adquieres para aprender más sobre los océanos?
 
 ---
@@ -202,16 +202,3 @@ Mira un mapa o un globo de la Tierra. ¿Cuál es el color principal que ves? ¿P
 nivel: 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

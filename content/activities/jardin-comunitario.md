@@ -1,9 +1,9 @@
 ---
-title: "Jardín comunitario"
+title: "Jardín Comunitario"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/jardin-comunitario/"
-description: "Empieza un jardín comunitario en tu escuela o terraza."
+description: "Empezá un jardín comunitario en tu escuela o terraza."
 summary: "Jardín comunitario."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/jardin-comunitario.png"
+image: "/imagenes/actividades/jardin-comunitario.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -148,21 +148,21 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades que brinda la vida en la naturaleza.
 ---
 
-# ¡Jardín comunitario!
+# ¡Jardín Comunitario!
 
 ## Resumen
-Empieza un jardín comunitario en tu escuela, terraza o únete a uno existente.
+Empezá un jardín comunitario en tu escuela, terraza o únete a uno existente.
 
 ## Preparación
-1. Encuentra un espacio para el jardín.
-2. Prepara la tierra y herramientas.
-3. Consigue semillas o plantas.
+1. Encontrá un espacio para el jardín.
+2. Prepará la tierra y herramientas.
+3. Conseguí semillas o plantas.
 
 ## Desarrollo
-1. **Preparación** (20 min): Prepara el terreno.
-2. **Siembra** (20 min): Planta las semillas.
-3. **Cuidado** (continua): Riega y cuida el jardín.
-4. **Monitoreo** (continua): Toma fotos y dibuja el progreso.
+1. **Preparación** (20 min): Prepará el terreno.
+2. **Siembra** (20 min): Plantá las semillas.
+3. **Cuidado** (continua): Regá y cuidá el jardín.
+4. **Monitoreo** (continua): Tomá fotos y dibujá el progreso.
 
 ## Cierre
 - ¿Qué plantaste?
@@ -177,16 +177,3 @@ Empieza un jardín comunitario en tu escuela, terraza o únete a uno existente.
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

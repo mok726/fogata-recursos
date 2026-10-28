@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas internacionales"
+title: "Ideas Internacionales"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-internacionales/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ideas-internacionales.png"
+image: "/imagenes/actividades/ideas-internacionales.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,24 +160,24 @@ rama_rovers:
   - 26 # Valoro la diversidad y promuevo la inclusión
 ---
 
-# ¡Ideas internacionales!
+# ¡Ideas Internacionales!
 
 ## Resumen
-¿Tienes amigos de otros países? Habla con ellos sobre los hábitos medio ambientales del lugar donde viven. ¿Qué es más 'verde' sobre su estilo de vida? ¿Qué es más 'verde' sobre el tuyo?
+¿Tenés amigos de otros países? Hablá con ellos sobre los hábitos medio ambientales del lugar donde viven. ¿Qué es más 'verde' sobre su estilo de vida? ¿Qué es más 'verde' sobre el tuyo?
 
 ## Preparación
-1. Identifica contactos en otros países (amigos, familia, grupos).
-2. Prepara preguntas para la conversación.
-3. Organiza los grupos de trabajo.
+1. Identificá contactos en otros países (amigos, familia, grupos).
+2. Prepará preguntas para la conversación.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Habla con amigos de otros países sobre sus hábitos ambientales.
-2. Investiga: ¿Qué prácticas verdes se siguen en los países de tus amigos?
-3. Reflexiona: ¿Qué pueden aprender el uno del otro?
-4. Registra y comparte los hallazgos.
+1. Hablá con amigos de otros países sobre sus hábitos ambientales.
+2. Investigá: ¿Qué prácticas verdes se siguen en los países de tus amigos?
+3. Reflexioná: ¿Qué pueden aprender el uno del otro?
+4. Registrá y compartí los hallazgos.
 
 ## Cierre
-1. Comparte las prácticas verdes que aprendiste con el grupo.
+1. Compartí las prácticas verdes que aprendiste con el grupo.
 2. Discutan: ¿Qué prácticas podrían implementarse en tu comunidad?
 3. Pregunta final: ¿Qué hábito de otro país te gustaría adoptar?
 
@@ -187,16 +187,3 @@ D.07 IDEAS INTERNACIONALES. ¿Tienes amigos de otros países? Habla con ellos so
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

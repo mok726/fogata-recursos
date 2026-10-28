@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¡Ahorra Agua!"
+title: "¡Ahorrá Agua!"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/ahorra-agua-agua/"
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ahorra-agua-agua.png"
+image: "/imagenes/actividades/ahorra-agua-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -175,26 +175,26 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ahorra Agua!
+# ¡Ahorrá Agua!
 
 ## Resumen
 En esta actividad, los participantes participan en una carrera de relevos para comparar el uso eficiente y no eficiente del agua. Dos equipos compiten: los "Grandes Consumidores de Agua" y los "Ahorradores Inteligentes de Agua". A través del juego, los participantes aprenden qué acciones consumen más agua y cuáles ayudan a conservarla.
 
 ## Preparación
-1. Lleva a tu grupo a un espacio al aire libre.
-2. Etiqueta dos baldes como "Grandes Consumidores de Agua" y los otros dos como "Ahorradores Inteligentes de Agua". De cada par, designa un balde como "Suministro de Agua Limpia" y el otro como "Agua Gastada".
-3. Llena uno de cada par de baldes con 6 litros de agua y colócalos en un extremo del área de actividad. Coloca los tickets de gasto de agua en los contenedores junto a sus respectivos equipos.
+1. Llevá a tu grupo a un espacio al aire libre.
+2. Etiquetá dos baldes como "Grandes Consumidores de Agua" y los otros dos como "Ahorradores Inteligentes de Agua". De cada par, designá un balde como "Suministro de Agua Limpia" y el otro como "Agua Gastada".
+3. Llená uno de cada par de baldes con 6 litros de agua y colocalos en un extremo del área de actividad. Colocá los tickets de gasto de agua en los contenedores junto a sus respectivos equipos.
 
 ## Desarrollo
 
 ### Paso 1: Formación de equipos
-1. Divide a tu grupo en dos equipos y entrega a cada uno un vaso medidor. Indica que participarán en una carrera de relevos que mostrará tanto los usos eficientes como los no eficientes del agua.
+1. Dividí a tu grupo en dos equipos y entregá a cada uno un vaso medidor. Indica que participarán en una carrera de relevos que mostrará tanto los usos eficientes como los no eficientes del agua.
 
 ### Paso 2: Instrucciones de la carrera
-2. Explica las instrucciones: un miembro de cada equipo debe moverse hasta la cesta de tickets, tomar un ticket y seguir las instrucciones. Cada miembro del equipo irá a su respectivo balde, "Grandes Consumidores de Agua" o "Ahorradores Inteligentes de Agua", y con su vaso medidor retirará la cantidad de agua indicada en su ticket del balde de "Suministro de Agua Limpia" y la verterá en el balde de "Agua Gastada". Debe regresar y tocar al siguiente miembro de su equipo, pasarle el vaso medidor y sentarse para que el juego continúe. El equipo que complete todos sus usos de agua (tickets) gana.
+2. Explicá las instrucciones: un miembro de cada equipo debe moverse hasta la cesta de tickets, tomar un ticket y seguir las instrucciones. Cada miembro del equipo irá a su respectivo balde, "Grandes Consumidores de Agua" o "Ahorradores Inteligentes de Agua", y con su vaso medidor retirará la cantidad de agua indicada en su ticket del balde de "Suministro de Agua Limpia" y la verterá en el balde de "Agua Gastada". Debe regresar y tocar al siguiente miembro de su equipo, pasarle el vaso medidor y sentarse para que el juego continúe. El equipo que complete todos sus usos de agua (tickets) gana.
 
 ### Paso 3: Medición y comparación
-3. Compara la cantidad de agua gastada y conservada en los baldes de los "Ahorradores" y los "Desperdiciadores" haciendo que los participantes midan la altura del agua (usando las reglas) o el volumen de agua.
+3. Compará la cantidad de agua gastada y conservada en los baldes de los "Ahorradores" y los "Desperdiciadores" haciendo que los participantes midan la altura del agua (usando las reglas) o el volumen de agua.
 4. Los participantes pueden crear un gráfico para comparar visualmente los diversos tipos de uso de agua entre los "Grandes Consumidores" y los "Ahorradores Inteligentes" usando la información de los tickets.
 
 ## Tickets de Gasto de Agua
@@ -203,20 +203,20 @@ En esta actividad, los participantes participan en una carrera de relevos para c
 |------------------------------|----------------------------------|
 | Tiramos diferentes objetos por el inodoro (insectos, papel). 250 mL | Nunca tiramos objetos extra por el inodoro. Tenemos inodoro de bajo consumo. 125 mL |
 | Tomamos duchas largas y dejamos correr el agua antes de ducharnos. 500 mL | Tomamos duchas muy rápidas. 125 mL |
-| Dejamos correr el agua mientras nos cepillamos los dientes. 250 mL | Cerramos el grifo mientras nos cepillamos y usamos un vaso para enjuagar. 125 mL |
+| Dejamos correr el agua mientras nos cepillamos los dientes. 250 mL | Cerramos la canilla mientras nos cepillamos y usamos un vaso para enjuagar. 125 mL |
 | Regamos el césped todos los días y a menudo dejamos la manguera corriendo. 300 mL | El césped no necesita riego diario y usamos un aspersor con temporizador. 100 mL |
 | Tomamos baños largos y llenamos la bañera hasta el borde. 350 mL | Generalmente tomamos duchas cortas y no llenamos completamente la bañera. 125 mL |
-| Bebemos agua fría del grifo y dejamos correr el agua. 250 mL | Mantenemos agua fría en la nevera para beber. 125 mL |
+| Bebemos agua fría de la canilla y dejamos correr el agua. 250 mL | Mantenemos agua fría en la heladera para beber. 125 mL |
 | Lavamos incluso cargas pequeñas en la lavadora sin ajustar los niveles. 500 mL | Usamos la lavadora principalmente con carga completa y/o ajustamos los niveles. 250 mL |
-| Ignoramos los grifos que gotean. 500 mL | Cerramos los grifos que gotean y reparamos las fugas inmediatamente. 0 mL |
-| Nos lavamos las manos dejando correr el grifo. 250 mL | Cerramos el grifo mientras nos enjabonamos. 125 mL |
+| Ignoramos las canillas que gotean. 500 mL | Cerramos las canillas que gotean y reparamos las fugas inmediatamente. 0 mL |
+| Nos lavamos las manos dejando correr la canilla. 250 mL | Cerramos la canilla mientras nos enjabonamos. 125 mL |
 | Lavamos incluso pequeñas cantidades de platos en el lavavajillas. 500 mL | Usamos el lavavajillas solo con carga completa. 250 mL |
-| Lavamos el coche con manguera y jabón líquido. 500 mL | Lavamos el coche con esponja y balde. 200 mL |
+| Lavamos el auto con manguera y jabón líquido. 500 mL | Lavamos el auto con esponja y balde. 200 mL |
 
 ## Cierre
 - ¿Qué tan diferente fue el uso del agua entre los dos equipos?
-- ¿Dirías que eres un "ahorrador de agua" o un "desperdiciador de agua"?
-- ¿Qué actividades gastan más agua? ¿Puedes pensar en otras ideas que puedan ayudarte a conservar agua?
+- ¿Dirías que sos un "ahorrador de agua" o un "desperdiciador de agua"?
+- ¿Qué actividades gastan más agua? ¿Podés pensar en otras ideas que puedan ayudarte a conservar agua?
 
 ## Texto original completo de la actividad
 
@@ -280,21 +280,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[9,24], scouts[12,31], caminantes[11,29], rovers[2,30])

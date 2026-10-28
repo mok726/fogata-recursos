@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Haz una Conserva"
+title: "Hacé una Conserva"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haz-una-conserva/"
-description: "Investiga técnicas tradicionales de conserva de alimentos de tu cultura y de otras culturas."
+description: "Investigá técnicas tradicionales de conserva de alimentos de tu cultura y de otras culturas."
 summary: "Investigación sobre técnicas de conserva."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-una-conserva.png"
+image: "/imagenes/actividades/haz-una-conserva.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -164,21 +164,21 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural.
 ---
 
-# Haz una Conserva
+# Hacé una Conserva
 
 ## Resumen
-Investiga técnicas tradicionales de conserva de alimentos de tu cultura y de otras culturas.
+Investigá técnicas tradicionales de conserva de alimentos de tu cultura y de otras culturas.
 
 ## Preparación
-1. Habla con tus abuelos o familiares sobre técnicas de conserva.
-2. Investiga técnicas de conserva en tu cultura y otras culturas.
-3. Prepara material para escribir.
+1. Hablá con tus abuelos o familiares sobre técnicas de conserva.
+2. Investigá técnicas de conserva en tu cultura y otras culturas.
+3. Prepará material para escribir.
 
 ## Desarrollo
-1. **Entrevista** (15 min): Habla con familiares sobre técnicas tradicionales.
-2. **Investigación** (20 min): Investiga técnicas de otras culturas.
-3. **Redacción** (20 min): Escribe una redacción sobre las técnicas.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Entrevista** (15 min): Hablá con familiares sobre técnicas tradicionales.
+2. **Investigación** (20 min): Investigá técnicas de otras culturas.
+3. **Redacción** (20 min): Escribí una redacción sobre las técnicas.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué técnicas de conserva encontraste?
@@ -186,16 +186,3 @@ Investiga técnicas tradicionales de conserva de alimentos de tu cultura y de ot
 - ¿Qué compromiso adquieres para mantener vivas las tradiciones culinarias?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

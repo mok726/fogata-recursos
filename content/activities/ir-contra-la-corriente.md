@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ir contra la corriente"
+title: "Ir contra la Corriente"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/ir-contra-la-corriente/"
-description: "Reflexiona sobre cómo sería tu vida sin tres actividades que dependen de la energía y pruébalo por un día."
-summary: "Experimenta un día con menos energía."
+description: "Reflexioná sobre cómo sería tu vida sin tres actividades que dependen de la energía y probalo por un día."
+summary: "Experimentá un día con menos energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ir-contra-la-corriente.png"
+image: "/imagenes/actividades/ir-contra-la-corriente.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -159,15 +159,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ir contra la corriente!
+# ¡Ir contra la Corriente!
 
 ## Resumen
-Piensa en todas las formas en que usas energía cada día. Si tuvieras que sacrificar solo tres actividades que dependen de la energía, ¿cómo afectaría tu vida? Pruébalo por un día.
+Pensá en todas las formas en que usás energía cada día. Si tuvieras que sacrificar solo tres actividades que dependen de la energía, ¿cómo afectaría tu vida? Probalo por un día.
 
 ## Preparación
-1. Piensa en todas las actividades que haces en un día que dependen de la energía.
-2. Elige tres que dejarías de hacer.
-3. Prepara un diario para registrar tu experiencia.
+1. Pensá en todas las actividades que hacés en un día que dependen de la energía.
+2. Elegí tres que dejarías de hacer.
+3. Prepará un diario para registrar tu experiencia.
 
 ## Desarrollo
 
@@ -185,14 +185,14 @@ Piensa en todas las formas en que usas energía cada día. Si tuvieras que sacri
 Durante un día, evita esas tres actividades.
 
 ### Parte III - Diario
-Lleva un diario de cómo te afectó:
+Llevá un diario de cómo te afectó:
 
 - ¿Qué extrañaste más?
 - ¿Qué extrañaste menos?
 - ¿Qué hiciste en su lugar?
 
 ### Parte IV - Compartir
-Compara tus respuestas con las de tus amigos.
+Compará tus respuestas con las de tus amigos.
 
 ## Cierre
 1. ¿Qué actividad fue más difícil de dejar?
@@ -227,20 +227,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

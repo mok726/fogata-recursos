@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mapea el impacto"
+title: "Mapeá el Impacto"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mapea-el-impacto/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mapea-el-impacto.png"
+image: "/imagenes/actividades/mapea-el-impacto.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -168,24 +168,24 @@ rama_rovers:
   - 32 # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Mapea el impacto!
+# ¡Mapeá el Impacto!
 
 ## Resumen
 Con tu clase o grupo, dibuja un mapa geográfico de la Tierra que muestre los océanos, los mares, las montañas, los desiertos, los bosques, los casquetes polares, etc. Etiqueten cada área con una lista de las formas en que el cambio climático las impactará.
 
 ## Preparación
-1. Investiga sobre los impactos del cambio climático en diferentes ecosistemas.
-2. Prepara una cartulina grande para el mapa.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre los impactos del cambio climático en diferentes ecosistemas.
+2. Prepará una cartulina grande para el mapa.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Dibuja un mapa geográfico de la Tierra mostrando diferentes ecosistemas.
-2. Investiga cómo el cambio climático impacta cada área.
-3. Etiqueta cada área con los impactos correspondientes.
-4. Coloca el mapa en un lugar prominente de tu escuela.
+1. Dibujá un mapa geográfico de la Tierra mostrando diferentes ecosistemas.
+2. Investigá cómo el cambio climático impacta cada área.
+3. Etiquetá cada área con los impactos correspondientes.
+4. Colocá el mapa en un lugar prominente de tu escuela.
 
 ## Cierre
-1. Presenta el mapa al grupo y explica los impactos identificados.
+1. Presentá el mapa al grupo y explicá los impactos identificados.
 2. Discutan: ¿Qué ecosistemas están más amenazados?
 3. Pregunta final: ¿Cómo podemos proteger los ecosistemas más vulnerables?
 
@@ -195,16 +195,3 @@ C.01 MAPEA EL IMPACTO. Con tu clase o grupo, dibuja un mapa geográfico de la Ti
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,9 +1,9 @@
 ---
-title: "Cuidemos nuestro medio ambiente"
+title: "Cuidemos Nuestro Medio Ambiente"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuidemos-nuestro-medio-ambiente/"
-description: "Discute cómo consumes energía y haz un plan para reducirla."
+description: "Discutí cómo consumís energía y hacé un plan para reducirla."
 summary: "Plan de reducción de energía."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png"
+image: "/imagenes/actividades/cuidemos-nuestro-medio-ambiente.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,26 +146,26 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Cuidemos nuestro medio ambiente!
+# ¡Cuidemos Nuestro Medio Ambiente!
 
 ## Resumen
-Discute con tu familia, maestro o guía sobre cómo consumes energía en tu vida diaria y haz un plan para reducirla.
+Discutí con tu familia, maestro o guía sobre cómo consumís energía en tu vida diaria y hacé un plan para reducirla.
 
 ## Preparación
-1. Reflexiona sobre tu consumo de energía diario.
-2. Prepara papel y bolígrafos para tomar notas.
-3. Habla con tu familia sobre el proyecto.
+1. Reflexioná sobre tu consumo de energía diario.
+2. Prepará papel y lapiceras para tomar notas.
+3. Hablá con tu familia sobre el proyecto.
 
 ## Desarrollo
-1. **Discusión** (20 min): Habla sobre cómo usas energía.
-2. **Lista** (15 min): Haz una lista de formas de reducir energía.
-3. **Plan** (15 min): Crea un plan y síguelo durante un mes.
-4. **Compartir** (10 min): Comparte tu experiencia con amigos.
+1. **Discusión** (20 min): Hablá sobre cómo usás energía.
+2. **Lista** (15 min): Hacé una lista de formas de reducir energía.
+3. **Plan** (15 min): Creá un plan y seguilo durante un mes.
+4. **Compartir** (10 min): Compartí tu experiencia con amigos.
 
 ## Cierre
 - ¿Qué cambios lograste hacer?
 - ¿Qué fue lo más fácil y lo más difícil?
-- ¿Cómo te sientes al haber reducido tu consumo?
+- ¿Cómo te sentís al haber reducido tu consumo?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Discute con tu familia, con tu maestro o con tu guía sobre la manera cómo cons
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -5,7 +5,7 @@ duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/promesa-del-agua-agua/"
 description: "Los participantes reflexionan sobre el uso del agua y crean un cartel con una promesa grupal para conservar el agua, comprometiéndose a usar este recurso de manera responsable."
-summary: "Crea una promesa grupal para conservar el agua."
+summary: "Creá una promesa grupal para conservar el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/promesa-del-agua-agua.png"
+image: "/imagenes/actividades/promesa-del-agua-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -178,31 +178,31 @@ translation_notice:
 ¿Has pensado cómo se distribuye el agua de nuestro planeta? El 97,5 por ciento es agua salada y solo el 2,5 por ciento es agua dulce. Además, el agua dulce atrapada en glaciares y casquetes polares es del 2,2 por ciento, dejando solo el 0,8 por ciento del agua total de la Tierra disponible para el uso humano diario. El agua disponible para los humanos debe ser compartida por todos en el mundo, y por eso es importante no desperdiciarla. En esta actividad, los participantes reflexionan sobre el uso del agua y crean una promesa grupal para conservarla.
 
 ## Preparación
-1. Prepara el papel grande para el cartel y los materiales de arte.
-2. Piensa en ejemplos de promesas de conservación del agua para inspirar a los participantes.
+1. Prepará el papel grande para el cartel y los materiales de arte.
+2. Pensá en ejemplos de promesas de conservación del agua para inspirar a los participantes.
 
 ## Desarrollo
 
 ### Paso 1: Reflexión sobre el uso del agua
-1. Comienza discutiendo con tu grupo cómo usan el agua en su vida diaria. Pídeles que enumeren las cosas para las que usan agua y escríbelas en la pizarra a medida que las mencionan.
-2. Pregunta también a los participantes que nombren otros lugares además de su hogar donde se usa agua. Pídeles que piensen en cómo están conectados con esos lugares (escuelas, hospitales, granjas, fábricas, plantas de saneamiento, etc.).
-3. Habla con tu grupo sobre la importancia de conservar el agua, ya que todo el mundo necesita compartir nuestros recursos hídricos. Enfatiza que es importante no desperdiciar agua porque hay una cantidad limitada disponible.
+1. Comenzá discutiendo con tu grupo cómo usan el agua en su vida diaria. Pediles que enumeren las cosas para las que usan agua y escribilas en la pizarra a medida que las mencionan.
+2. Preguntá también a los participantes que nombren otros lugares además de su hogar donde se usa agua. Pediles que piensen en cómo están conectados con esos lugares (escuelas, hospitales, granjas, fábricas, plantas de saneamiento, etc.).
+3. Hablá con tu grupo sobre la importancia de conservar el agua, ya que todo el mundo necesita compartir nuestros recursos hídricos. Enfatiza que es importante no desperdiciar agua porque hay una cantidad limitada disponible.
 
 ### Paso 2: Ideas para conservar el agua
-4. Mantén una discusión con tu grupo sobre lo que pueden hacer para conservar el agua. Piensen en general o consulten los usos del agua enumerados previamente en la pizarra y traten de pensar en una forma de reducir el consumo para cada uso.
+4. Mantené una discusión con tu grupo sobre lo que pueden hacer para conservar el agua. Piensen en general o consulten los usos del agua enumerados previamente en la pizarra y traten de pensar en una forma de reducir el consumo para cada uso.
 
 ### Paso 3: Creación del cartel de la promesa
-5. Usando el papel grande para el cartel, pide a los participantes que piensen en una promesa que todos quieran hacer juntos con respecto a su uso del agua. Esta podría ser muy amplia, como "Prometemos usar menos agua en casa", o podría ser específica, como "Prometemos cerrar el grifo cuando nos cepillamos los dientes".
-6. Pide a los participantes que escriban la promesa en el centro del cartel y que lo decoren para que se vea divertido y atractivo.
+5. Usando el papel grande para el cartel, pide a los participantes que piensen en una promesa que todos quieran hacer juntos con respecto a su uso del agua. Esta podría ser muy amplia, como "Prometemos usar menos agua en casa", o podría ser específica, como "Prometemos cerrar la canilla cuando nos cepillamos los dientes".
+6. Pedí a los participantes que escriban la promesa en el centro del cartel y que lo decoren para que se vea divertido y atractivo.
 7. Finalmente, pide a cada participante que trace, pinte o recorte y pegue una copia de su mano y que escriba o firme su nombre en o junto a las huellas de sus manos en el cartel de la promesa.
 
 ### Paso 4: Compartir
-8. Cuelga el cartel en un pasillo para que otros grupos puedan verlo y aprender de él.
+8. Colgá el cartel en un pasillo para que otros grupos puedan verlo y aprender de él.
 
 ## Cierre
 - ¿Por qué el agua es escasa y por qué es importante conservarla?
 - ¿De qué maneras comenzarás a usar menos agua?
-- ¿Cómo puedes involucrar a tus amigos y familiares en este esfuerzo?
+- ¿Cómo podés involucrar a tus amigos y familiares en este esfuerzo?
 
 ## Texto original completo de la actividad
 
@@ -274,21 +274,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[24,28], scouts[31,33], caminantes[29,30], rovers[27,30])

@@ -4,7 +4,7 @@ title: "Censo de Vida Marina"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/censo-de-vida-marina/"
-description: "Explora el Censo de Vida Marina y crea una obra sobre una especie desconocida."
+description: "Explorá el Censo de Vida Marina y creá una obra sobre una especie desconocida."
 summary: "Investigación sobre especies marinas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/censo-de-vida-marina.png"
+image: "/imagenes/actividades/censo-de-vida-marina.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -32,7 +32,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Acceso a internet (www.coml.org)
-  - Materiales de manualidades (papel, bolígrafos, lápices, pinturas)
+  - Materiales de manualidades (papel, lapiceras, lápices, pinturas)
 tools: []
 responsible: []
 
@@ -171,18 +171,18 @@ rama_rovers:
 # Censo de Vida Marina
 
 ## Resumen
-Explora el Censo de Vida Marina y crea una obra sobre una especie desconocida.
+Explorá el Censo de Vida Marina y creá una obra sobre una especie desconocida.
 
 ## Preparación
-1. Visita el sitio web del Censo de Vida Marina (www.coml.org).
-2. Busca una especie de la cual nunca hayas escuchado antes.
-3. Prepara materiales de manualidades.
+1. Visitá el sitio web del Censo de Vida Marina (www.coml.org).
+2. Buscá una especie de la cual nunca hayas escuchado antes.
+3. Prepará materiales de manualidades.
 
 ## Desarrollo
-1. **Investigación** (20 min): Explora el sitio web y encuentra una especie desconocida.
-2. **Creación** (25 min): Crea una obra (dibujo, pintura, modelo) sobre la especie.
+1. **Investigación** (20 min): Explorá el sitio web y encontrá una especie desconocida.
+2. **Creación** (25 min): Creá una obra (dibujo, pintura, modelo) sobre la especie.
 3. **Reflexión** (15 min): ¿Por qué es importante esta criatura? ¿Qué pasaría si se extinguiera?
-4. **Presentación** (15 min): Comparte tu obra y reflexión con el grupo.
+4. **Presentación** (15 min): Compartí tu obra y reflexión con el grupo.
 
 ## Cierre
 - ¿Qué especie desconocida descubriste?
@@ -201,16 +201,3 @@ Visita el sitio web del Censo de Vida Marina y enfócate en particular en los mu
 nivel: 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Adivina el ODS"
+title: "Adiviná el ODS"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/adivina-el-ods/"
-description: "Crea una obra de teatro sobre un Objetivo de Desarrollo Sostenible sin nombrarlo. El resto del grupo debe adivinar de qué objetivo se trata."
-summary: "Representa un ODS sin decir su nombre."
+description: "Creá una obra de teatro sobre un Objetivo de Desarrollo Sostenible sin nombrarlo. El resto del grupo debe adivinar de qué objetivo se trata."
+summary: "Representá un ODS sin decir su nombre."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/adivina-el-ods.png"
+image: "/imagenes/actividades/adivina-el-ods.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -167,15 +167,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Adivina el ODS!
+# ¡Adiviná el ODS!
 
 ## Resumen
-Divide el grupo en equipos. Cada equipo elige un ODS y escribe una obra de teatro sobre él, pero sin decir su nombre. Los otros equipos deben adivinar de qué ODS se trata.
+Dividí el grupo en equipos. Cada equipo elige un ODS y escribí una obra de teatro sobre él, pero sin decir su nombre. Los otros equipos deben adivinar de qué ODS se trata.
 
 ## Preparación
-1. Lee la información sobre los ODS.
-2. Divide el grupo en equipos de 4-5 personas.
-3. Prepara espacio para actuar.
+1. Leé la información sobre los ODS.
+2. Dividí el grupo en equipos de 4-5 personas.
+3. Prepará espacio para actuar.
 
 ## Desarrollo
 
@@ -192,7 +192,7 @@ Cada equipo elige un ODS en secreto.
 7. Energía asequible y no contaminante
 
 ### Parte II - Crear la obra
-Escribe una obra corta que:
+Escribí una obra corta que:
 - Hable sobre el objetivo
 - Muestre por qué es importante
 - NO mencione el nombre del objetivo
@@ -238,20 +238,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

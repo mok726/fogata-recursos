@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Mantente al tanto de las noticias"
+title: "Mantente al Tanto de las Noticias"
 duration: "1.5 horas (semanal)"
 layout: "layouts/activity.njk"
 permalink: "/activities/mantente-al-tanto-de-las-noticias/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mantente-al-tanto-de-las-noticias.png"
+image: "/imagenes/actividades/mantente-al-tanto-de-las-noticias.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -163,24 +163,24 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Mantente al tanto de las noticias!
+# ¡Mantente al Tanto de las Noticias!
 
 ## Resumen
-Revisa la sección de ciencia y tecnología de tu periódico local durante las próximas semanas. ¿Hay alguna noticia sobre el clima, sobre productos que ahorren energía, sobre energía renovable o sobre la eficiencia energética en general?
+Revisá la sección de ciencia y tecnología de tu periódico local durante las próximas semanas. ¿Hay alguna noticia sobre el clima, sobre productos que ahorren energía, sobre energía renovable o sobre la eficiencia energética en general?
 
 ## Preparación
-1. Reúne periódicos o acceso a noticias en línea.
-2. Prepara una tabla para registrar los artículos.
-3. Organiza los grupos de trabajo.
+1. Reuní periódicos o acceso a noticias en línea.
+2. Prepará una tabla para registrar los artículos.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Busca noticias sobre el clima y eficiencia energética.
-2. Si el artículo está difícil, pide a tus padres o a un profesor que te lo expliquen.
-3. Escribe tu propio resumen del reportaje.
-4. Comparte tu resumen con tu grupo o clase.
+1. Buscá noticias sobre el clima y eficiencia energética.
+2. Si el artículo está difícil, pedí a tus padres o a un profesor que te lo expliquen.
+3. Escribí tu propio resumen del reportaje.
+4. Compartí tu resumen con tu grupo o clase.
 
 ## Cierre
-1. Comparte los resúmenes con el grupo.
+1. Compartí los resúmenes con el grupo.
 2. Discutan: ¿Qué historias te inspiraron?
 3. Pregunta final: ¿Qué ideas te gustaría implementar en tu comunidad?
 
@@ -190,16 +190,3 @@ D.06 MANTENTE AL TANTO DE LAS NOTICIAS. Revisa la sección de ciencia y tecnolog
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Examina tu Cocina"
+title: "Examiná Tu Cocina"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/examina-tu-cocina/"
-description: "Inspecciona tu cocina y los lugares donde guardas la comida para mejorar la seguridad alimentaria en casa."
+description: "Inspeccioná tu cocina y los lugares donde guardás la comida para mejorar la seguridad alimentaria en casa."
 summary: "Inspección de seguridad alimentaria en la cocina."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/examina-tu-cocina.png"
+image: "/imagenes/actividades/examina-tu-cocina.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -167,39 +167,26 @@ rama_rovers:
   - 5   # Evalúo situaciones y busco evitar conductas que me expongan a peligros.
 ---
 
-# Examina tu Cocina
+# Examiná Tu Cocina
 
 ## Resumen
-Inspecciona tu cocina y los lugares donde guardas la comida para mejorar la seguridad alimentaria en casa.
+Inspeccioná tu cocina y los lugares donde guardás la comida para mejorar la seguridad alimentaria en casa.
 
 ## Preparación
-1. Prepara un cuaderno para tomar notas.
-2. Revisa las áreas de almacenamiento de comida en tu casa.
-3. Piensa en cómo mejorar la seguridad alimentaria.
+1. Prepará un cuaderno para tomar notas.
+2. Revisá las áreas de almacenamiento de comida en tu casa.
+3. Pensá en cómo mejorar la seguridad alimentaria.
 
 ## Desarrollo
-1. **Inspección** (15 min): Revisa tu cocina y los lugares donde guardas la comida.
+1. **Inspección** (15 min): Revisá tu cocina y los lugares donde guardás la comida.
 2. **Análisis** (10 min): ¿Qué pueden hacer en tu familia para mejorar la forma de guardar la comida?
 3. **Agua** (10 min): ¿Qué pueden hacer para mantener el agua limpia y potable?
-4. **Póster** (25 min): Crea un póster con reglas básicas de higiene para preparar y conservar alimentos.
-5. **Donación** (10 min): Pon el póster en un lugar visible o dona a la cantina de tu escuela.
+4. **Póster** (25 min): Creá un póster con reglas básicas de higiene para preparar y conservar alimentos.
+5. **Donación** (10 min): Poné el póster en un lugar visible o doná a la cantina de tu escuela.
 
 ## Cierre
-- ¿Qué aspectos de seguridad alimentaria puedes mejorar en casa?
-- ¿Cómo puedes asegurar que el agua es potable?
+- ¿Qué aspectos de seguridad alimentaria podés mejorar en casa?
+- ¿Cómo podés asegurar que el agua es potable?
 - ¿Qué compromiso adquieres para mantener la cocina limpia y segura?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

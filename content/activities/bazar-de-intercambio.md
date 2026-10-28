@@ -1,9 +1,9 @@
 ---
-title: "Bazar de intercambio"
+title: "Bazar de Intercambio"
 duration: "Proyecto de organización"
 layout: "layouts/activity.njk"
 permalink: "/activities/bazar-de-intercambio/"
-description: "Organiza un bazar para intercambiar cosas que ya no se necesitan."
+description: "Organizá un bazar para intercambiar cosas que ya no se necesitan."
 summary: "Organización de bazar de intercambio."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/bazar-de-intercambio.png"
+image: "/imagenes/actividades/bazar-de-intercambio.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -143,21 +143,21 @@ rama_rovers:
   - 28  # Valoro y promuevo la solidaridad.
 ---
 
-# ¡Bazar de intercambio!
+# ¡Bazar de Intercambio!
 
 ## Resumen
-Organiza un bazar para que las personas intercambien cosas que ya no necesitan.
+Organizá un bazar para que las personas intercambien cosas que ya no necesitan.
 
 ## Preparación
-1. Consigue un espacio para el evento.
-2. Promociona el bazar en tu escuela y vecindario.
-3. Prepara materiales para el evento.
+1. Conseguí un espacio para el evento.
+2. Promocioná el bazar en tu escuela y vecindario.
+3. Prepará materiales para el evento.
 
 ## Desarrollo
-1. **Planificación** (20 min): Organiza los detalles del bazar.
-2. **Promoción** (15 min): Invita a la comunidad.
-3. **Evento** (2-3 horas): Lleva a cabo el bazar.
-4. **Evaluación** (15 min): Reflexiona sobre lo que funcionó.
+1. **Planificación** (20 min): Organizá los detalles del bazar.
+2. **Promoción** (15 min): Invitá a la comunidad.
+3. **Evento** (2-3 horas): Llevá a cabo el bazar.
+4. **Evaluación** (15 min): Reflexioná sobre lo que funcionó.
 
 ## Cierre
 - ¿Cómo respondió la comunidad?
@@ -172,16 +172,3 @@ Organiza un bazar para que las personas intercambien cosas que ya no necesitan.
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

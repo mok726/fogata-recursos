@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Luces, cámara, acción"
+title: "Luces, Cámara, Acción"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/luces-camara-accion/"
-description: "Crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días."
-summary: "Haz un video sobre ahorro de energía."
+description: "Creá un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días."
+summary: "Hacé un video sobre ahorro de energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/luces-camara-accion.png"
+image: "/imagenes/actividades/luces-camara-accion.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -162,20 +162,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Luces, cámara, acción!
+# ¡Luces, Cámara, Acción!
 
 ## Resumen
-Como grupo, crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días. Usa disfraces, dibujos u otros materiales.
+Como grupo, crea un cortometraje o sketch para educar a tu comunidad sobre cómo ahorrar energía todos los días. Usá disfraces, dibujos u otros materiales.
 
 ## Preparación
-1. Piensa en consejos de ahorro de energía para tu comunidad.
-2. Escribe un guion o plan.
-3. Prepara disfraces y materiales.
+1. Pensá en consejos de ahorro de energía para tu comunidad.
+2. Escribí un guion o plan.
+3. Prepará disfraces y materiales.
 
 ## Desarrollo
 
 ### Parte I - Planificar
-Elige qué consejos de ahorro incluir:
+Elegí qué consejos de ahorro incluir:
 
 **Ideas:**
 - Apagar las luces
@@ -184,12 +184,12 @@ Elige qué consejos de ahorro incluir:
 - Aprovechar la luz natural
 
 ### Parte II - Crear
-Escribe un guion y filma tu video.
+Escribí un guion y filmá tu video.
 
-**Opcional:** En lugar de un video, puedes presentar un sketch en vivo.
+**Opcional:** En lugar de un video, podés presentar un sketch en vivo.
 
 ### Parte III - Compartir
-Comparte tu video con tu comunidad o presenta el sketch en tu escuela.
+Compartí tu video con tu comunidad o presentá el sketch en tu escuela.
 
 ## Cierre
 1. ¿Qué consejo de ahorro fue más fácil de mostrar?
@@ -224,20 +224,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

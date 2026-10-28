@@ -5,7 +5,7 @@ duration: "2-3 horas (40 min organización + 1-2h grabación)"
 layout: "layouts/activity.njk"
 permalink: "/activities/anuncios-del-agua/"
 description: "Los participantes crean anuncios publicitarios en video o audio sobre el agua y el saneamiento para concienciar sobre la importancia de tomar decisiones saludables."
-summary: "Crea un anuncio publicitario sobre el agua."
+summary: "Creá un anuncio publicitario sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/anuncios-del-agua.png"
+image: "/imagenes/actividades/anuncios-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -33,7 +33,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Cámara de video (o cámara digital, teléfono móvil con cámara o grabadora de voz)
+  - Cámara de video (o cámara digital, celular con cámara o grabadora de voz)
   - Materiales adicionales para los videos/grabaciones (según la creatividad de los grupos)
 tools: []
 responsible:
@@ -171,25 +171,25 @@ translation_notice:
 Los anuncios publicitarios son una herramienta poderosa para transmitir mensajes importantes. En esta actividad, los participantes crean anuncios publicitarios en video o audio sobre el agua y el saneamiento para concienciar sobre la importancia de tomar decisiones saludables.
 
 ## Preparación
-1. Prepara los dispositivos de grabación.
-2. Prepara materiales adicionales para los anuncios (opcional).
+1. Prepará los dispositivos de grabación.
+2. Prepará materiales adicionales para los anuncios (opcional).
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a los participantes que van a crear anuncios publicitarios sobre el agua y el saneamiento.
+1. Explicá a los participantes que van a crear anuncios publicitarios sobre el agua y el saneamiento.
 2. Pregunta: ¿Han visto anuncios que usen el agua como tema?
 
 ### Paso 2: Formación de equipos
-3. Divide a tu grupo en equipos pequeños.
-4. Asigna el siguiente tema para los anuncios: **"Decisiones Saludables, Agua Saludable, Personas Saludables"**
-5. Explica que pueden incluir todo tipo de ideas relacionadas con el agua y el saneamiento. ¡Diles que sean creativos!
+3. Dividí a tu grupo en equipos pequeños.
+4. Asigná el siguiente tema para los anuncios: **"Decisiones Saludables, Agua Saludable, Personas Saludables"**
+5. Explicá que pueden incluir todo tipo de ideas relacionadas con el agua y el saneamiento. ¡Deciles que sean creativos!
 
 ### Paso 3: Planificación
 6. En la primera sesión, da a los equipos tiempo para organizar sus ideas y pensar en los materiales adicionales que puedan necesitar.
 
 ### Paso 4: Grabación
-7. En la siguiente sesión, ayúdales a grabar sus videos o grabaciones de audio.
+7. En la siguiente sesión, ayudales a grabar sus videos o grabaciones de audio.
 
 ### Paso 5: Compartir
 8. Compartan los videos/grabaciones con otras clases o grupos.
@@ -262,21 +262,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[46,47], scouts[52,53], caminantes[48,49], rovers[11,37])

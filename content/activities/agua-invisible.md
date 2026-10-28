@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Agua invisible"
+title: "Agua Invisible"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-invisible/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/agua-invisible.png"
+image: "/imagenes/actividades/agua-invisible.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,25 +159,25 @@ rama_rovers:
   - 33 # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Agua invisible!
+# ¡Agua Invisible!
 
 ## Resumen
-Todos usamos agua todos los días, por ejemplo, para lavarnos los dientes o para preparar una sopa. Pero, ¿cuánta agua has usado hoy que no puedes ver?
+Todos usamos agua todos los días, por ejemplo, para lavarnos los dientes o para preparar una sopa. Pero, ¿cuánta agua has usado hoy que no podés ver?
 
 ## Preparación
-1. Prepara una cartulina grande para el cartel del grupo.
-2. Prepara adhesivos o pegatinas.
-3. Prepara ejemplos de "agua invisible" para explicar el concepto.
+1. Prepará una cartulina grande para el cartel del grupo.
+2. Prepará adhesivos o pegatinas.
+3. Prepará ejemplos de "agua invisible" para explicar el concepto.
 
 ## Desarrollo
-1. Prepara un cartel donde incluyas los nombres de todas las personas de tu grupo o clase.
-2. Piensa en ejemplos de agua invisible: camisetas (agua para cultivar algodón, fabricar y transportar), libros, hamburguesas, etc.
+1. Prepará un cartel donde incluyas los nombres de todas las personas de tu grupo o clase.
+2. Pensá en ejemplos de agua invisible: remeras (agua para cultivar algodón, fabricar y transportar), libros, hamburguesas, etc.
 3. Por cada litro de agua que haya sido usado por cada persona ese día, pega un adhesivo en el cartel.
-4. Investiga cuánta agua se requiere para producir diferentes cosas.
+4. Investigá cuánta agua se requiere para producir diferentes cosas.
 
 ## Cierre
-1. Observa el cartel al final de la actividad: ¿cómo se ve?
-2. Comparte los datos sobre agua invisible con el grupo.
+1. Observá el cartel al final de la actividad: ¿cómo se ve?
+2. Compartí los datos sobre agua invisible con el grupo.
 3. Pregunta final: ¿Qué aprendiste sobre la cantidad de agua que usamos sin darnos cuenta?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ B.06 AGUA INVISIBLE. Todos usamos agua todos los días, por ejemplo, para lavarn
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

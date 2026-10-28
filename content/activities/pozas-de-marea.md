@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pozas de marea"
+title: "Pozas de Marea"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pozas-de-marea/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pozas-de-marea.png"
+image: "/imagenes/actividades/pozas-de-marea.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -35,7 +35,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Cubo de plástico
+  - Balde de plástico
   - Plástico transparente
   - Cuerda o cinta adhesiva
   - Papel
@@ -167,26 +167,26 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Pozas de marea!
+# ¡Pozas de Marea!
 
 ## Resumen
-Observa la flora y la fauna en pozas de marea. Construye un visor subacuático para obtener una vista como la del ojo de un pez (o un cangrejo, o un pepino de mar o…). Haz un dibujo de la playa y de los lugares donde puedes encontrar las diferentes especies.
+Observá la flora y la fauna en pozas de marea. Construí un visor subacuático para obtener una vista como la del ojo de un pez (o un cangrejo, o un pepino de mar o…). Hacé un dibujo de la playa y de los lugares donde podés encontrar las diferentes especies.
 
 ## Preparación
-1. Identifica una playa con pozas de marea.
-2. Reúne materiales para el visor.
-3. Prepara materiales para dibujar.
+1. Identificá una playa con pozas de marea.
+2. Reuní materiales para el visor.
+3. Prepará materiales para dibujar.
 
 ## Desarrollo
-1. Construye un visor subacuático con materiales reciclados.
-2. Observa la flora y fauna en las pozas de marea.
-3. Haz un dibujo de la playa y la ubicación de las especies.
-4. Registra: ¿Cuáles especies están más cerca y cuáles más lejos de la orilla?
-5. Reflexiona: ¿Qué rasgos especiales tienen las especies de zonas intermareales?
+1. Construí un visor subacuático con materiales reciclados.
+2. Observá la flora y fauna en las pozas de marea.
+3. Hacé un dibujo de la playa y la ubicación de las especies.
+4. Registrá: ¿Cuáles especies están más cerca y cuáles más lejos de la orilla?
+5. Reflexioná: ¿Qué rasgos especiales tienen las especies de zonas intermareales?
 
 ## Cierre
-1. Comparte tus hallazgos con tu grupo.
-2. Reflexiona sobre la biodiversidad de las pozas de marea.
+1. Compartí tus hallazgos con tu grupo.
+2. Reflexioná sobre la biodiversidad de las pozas de marea.
 3. Pregunta final: ¿Qué adaptaciones tienen los animales de las pozas de marea?
 
 ## Texto original completo de la actividad
@@ -195,16 +195,3 @@ B.26 Observa la flora y la fauna en pozas de marea. Construye un visor subacuát
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

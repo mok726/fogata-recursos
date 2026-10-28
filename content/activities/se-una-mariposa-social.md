@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Sé una mariposa social"
+title: "Sé una Mariposa Social"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/se-una-mariposa-social/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/se-una-mariposa-social.png"
+image: "/imagenes/actividades/se-una-mariposa-social.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -160,7 +160,7 @@ rama_rovers:
   - 11  # Me comunicado de manera asertiva
 ---
 
-# ¡Sé una mariposa social!
+# ¡Sé una Mariposa Social!
 
 ## Resumen
 Lanzá una campaña en redes sociales para informar y movilizar a tus amigos y familiares para ayudar a salvar a los polinizadores. Esto podría implicar pedirles que realicen una acción por día. También proporcionales instrucciones sencillas sobre cómo hacer que sus jardines y estilos de vida sean más amigables con los polinizadores.
@@ -208,20 +208,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

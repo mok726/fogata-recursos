@@ -4,7 +4,7 @@ title: "Alimentos Justos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-justos/"
-description: "Aprende sobre el Comercio Justo, busca productos con el sello y promueve su consumo."
+description: "Aprendé sobre el Comercio Justo, buscá productos con el sello y promové su consumo."
 summary: "Promoción del Comercio Justo."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/alimentos-justos.png"
+image: "/imagenes/actividades/alimentos-justos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -173,19 +173,19 @@ rama_rovers:
 # Alimentos Justos
 
 ## Resumen
-Aprende sobre el Comercio Justo, busca productos con el sello y promueve su consumo.
+Aprendé sobre el Comercio Justo, buscá productos con el sello y promové su consumo.
 
 ## Preparación
-1. Investiga qué es el Comercio Justo y su relación con el hambre.
-2. Prepara un cuaderno para anotar productos.
-3. Planifica una visita al supermercado.
+1. Investigá qué es el Comercio Justo y su relación con el hambre.
+2. Prepará un cuaderno para anotar productos.
+3. Planificá una visita al supermercado.
 
 ## Desarrollo
-1. **Investigación** (15 min): Aprende sobre el Comercio Justo.
-2. **Búsqueda** (20 min): Busca productos con sello de Comercio Justo.
-3. **Lista** (15 min): Reemplaza productos en la lista del supermercado por alternativas de Comercio Justo.
-4. **Explicación** (15 min): Explica a tu familia por qué el Comercio Justo ayuda.
-5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Haz una encuesta sobre Comercio Justo a tu grupo. Discute los hallazgos y organiza una Feria de Alimentos de Comercio Justo.
+1. **Investigación** (15 min): Aprendé sobre el Comercio Justo.
+2. **Búsqueda** (20 min): Buscá productos con sello de Comercio Justo.
+3. **Lista** (15 min): Reemplazá productos en la lista del supermercado por alternativas de Comercio Justo.
+4. **Explicación** (15 min): Explicá a tu familia por qué el Comercio Justo ayuda.
+5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Hacé una encuesta sobre Comercio Justo a tu grupo. Discutí los hallazgos y organizá una Feria de Alimentos de Comercio Justo.
 
 ## Cierre
 - ¿Qué productos de Comercio Justo encontraste?
@@ -193,16 +193,3 @@ Aprende sobre el Comercio Justo, busca productos con el sello y promueve su cons
 - ¿Qué compromiso adquieres para consumir de manera más justa?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

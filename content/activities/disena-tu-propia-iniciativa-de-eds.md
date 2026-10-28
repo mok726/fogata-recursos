@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diseñá tu propia iniciativa de EDS al aire libre"
+title: "Diseñá Tu Propia Iniciativa de EDS al Aire Libre"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/disena-tu-propia-iniciativa-de-eds/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/disena-tu-propia-iniciativa-de-eds.png"
+image: "/imagenes/actividades/disena-tu-propia-iniciativa-de-eds.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Diseñá tu propia iniciativa de EDS al aire libre!
+# ¡Diseñá Tu Propia Iniciativa de EDS al Aire Libre!
 
 ## Resumen
 ¿Cómo se podría mejorar la EDS en tu ciudad? ¡Ahora es el momento de averiguarlo! Las actividades de EDS que se realizan al aire libre son una excelente manera de conectar con la naturaleza y aprender más sobre el mundo en el que vivimos.
@@ -183,7 +183,7 @@ rama_rovers:
 ## Cierre
 1. Compartí tu diseño con el grupo.
 2. Reflexioná sobre el impacto potencial.
-3. Pregunta final: ¿Cómo crees que tu iniciativa podría beneficiar a tu ciudad?
+3. Pregunta final: ¿Cómo creés que tu iniciativa podría beneficiar a tu ciudad?
 
 ## Texto original completo de la actividad
 
@@ -213,20 +213,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

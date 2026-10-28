@@ -4,7 +4,7 @@ title: "Ecoturismo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/ecoturismo/"
-description: "Investiga dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades locales. Presenta tus hallazgos y crea un folleto de viaje."
+description: "Investigá dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades locales. Presentá tus hallazgos y creá un folleto de viaje."
 summary: "Investigación y diseño de ecoturismo forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ecoturismo.png"
+image: "/imagenes/actividades/ecoturismo.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,17 +167,17 @@ rama_rovers:
 # Ecoturismo
 
 ## Resumen
-Investiga dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades locales. Presenta tus hallazgos y crea un folleto de viaje.
+Investigá dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades locales. Presentá tus hallazgos y creá un folleto de viaje.
 
 ## Preparación
-1. Investiga ejemplos de ecoturismo en bosques alrededor del mundo.
-2. Prepara el material para el folleto.
+1. Investigá ejemplos de ecoturismo en bosques alrededor del mundo.
+2. Prepará el material para el folleto.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga dos ejemplos de ecoturismo forestal.
-2. **Análisis** (15 min): Analiza tipo de bosque, actividades, alojamiento, comida, impacto en el ambiente y en personas locales.
-3. **Creación** (25 min): Crea un folleto de viaje para un destino de ecoturismo.
-4. **Presentación** (15 min): Comparte tus hallazgos con el grupo.
+1. **Investigación** (25 min): Investigá dos ejemplos de ecoturismo forestal.
+2. **Análisis** (15 min): Analizá tipo de bosque, actividades, alojamiento, comida, impacto en el ambiente y en personas locales.
+3. **Creación** (25 min): Creá un folleto de viaje para un destino de ecoturismo.
+4. **Presentación** (15 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el ecoturismo y su impacto?
@@ -185,16 +185,3 @@ Investiga dos ejemplos de ecoturismo que ayudan a proteger bosques y comunidades
 - ¿Te gustaría participar en un ecoturismo? ¿Por qué?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

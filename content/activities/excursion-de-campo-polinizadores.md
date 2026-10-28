@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Excursión de campo"
+title: "Excursión de Campo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo-polinizadores/"
-description: "Visita a una granja local para aprender sobre agricultura sostenible y el papel de los polinizadores."
+description: "Visitá a una granja local para aprender sobre agricultura sostenible y el papel de los polinizadores."
 summary: "Visitar una granja para aprender sobre agricultura sostenible."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/excursion-de-campo-polinizadores.png"
+image: "/imagenes/actividades/excursion-de-campo-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -167,7 +167,7 @@ rama_rovers:
   - 29  # Indago causas de problemáticas sociales
 ---
 
-# ¡Excursión de campo!
+# ¡Excursión de Campo!
 
 ## Resumen
 Visitá una granja local para aprender más sobre agricultura sostenible. ¿Cómo ayuda la granja a proteger el ecosistema en general? ¿Cuáles son los desafíos de este tipo de agricultura? ¿Cuáles son los beneficios? ¿Dónde encajan los polinizadores?
@@ -216,20 +216,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

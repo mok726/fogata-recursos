@@ -3,7 +3,7 @@ title: "Camisetas Sucias"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/camisetas-sucias/"
-description: "Investiga de dónde vienen los materiales de tu ropa favorita."
+description: "Investigá de dónde vienen los materiales de tu ropa favorita."
 summary: "Investigación de fibras y suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/camisetas-sucias.png"
+image: "/imagenes/actividades/camisetas-sucias.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -147,21 +147,21 @@ rama_rovers: []
 # ¡Camisetas Sucias!
 
 ## Resumen
-Investiga de dónde vienen los materiales de tu ropa favorita y su conexión con el suelo.
+Investigá de dónde vienen los materiales de tu ropa favorita y su conexión con el suelo.
 
 ## Preparación
-- Elige tu prenda de vestir favorita.
-- Revisa su etiqueta.
+- Elegí tu prenda de vestir favorita.
+- Revisá su etiqueta.
 
 ## Desarrollo
-1. **Investigación** (10 min): Revisa la etiqueta de tu ropa para ver el material.
+1. **Investigación** (10 min): Revisá la etiqueta de tu ropa para ver el material.
 2. **Investigación** (15 min): ¿De dónde viene ese material? ¿Dónde se cultiva la fibra?
-3. **Compartir** (5 min): Comparte tus hallazgos con el grupo.
+3. **Compartir** (5 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿De qué material está hecha tu ropa favorita?
 - ¿Cómo se conecta con el suelo?
-- ¿Qué aprendiste sobre la ropa que usas?
+- ¿Qué aprendiste sobre la ropa que usás?
 
 ---
 ## Texto original completo de la actividad
@@ -171,16 +171,3 @@ Investiga de dónde vienen los materiales de tu ropa favorita y su conexión con
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

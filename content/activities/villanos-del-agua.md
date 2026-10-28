@@ -5,7 +5,7 @@ duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/villanos-del-agua/"
 description: "Los participantes aprenden sobre las diferentes causas de la contaminación del agua a través de la creación y presentación de divertidos 'villanos' que representan cada tipo de contaminante."
-summary: "Crea villanos que contaminan el agua."
+summary: "Creá villanos que contaminan el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/villanos-del-agua.png"
+image: "/imagenes/actividades/villanos-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -175,20 +175,20 @@ translation_notice:
 El agua puede contaminarse fácilmente por diferentes causas. La contaminación del agua es un problema grave porque afecta la calidad del agua y esto afecta a todos los seres vivos que dependen del agua. En esta actividad, los participantes aprenden sobre las diferentes causas de la contaminación del agua a través de la creación y presentación de divertidos "villanos" que representan cada tipo de contaminante.
 
 ## Preparación
-1. Prepara las tarjetas de información de villanos.
-2. Divide a los participantes en seis grupos.
+1. Prepará las tarjetas de información de villanos.
+2. Dividí a los participantes en seis grupos.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que el agua puede contaminarse por diferentes "villanos" famosos y bien conocidos.
+1. Explicá a tu grupo que el agua puede contaminarse por diferentes "villanos" famosos y bien conocidos.
 
 ### Paso 2: Creación de villanos
-2. Divide a tu grupo en seis equipos y entrega una de las tarjetas de villanos a cada uno.
-3. Pídeles que hagan un dibujo de cómo creen que se ve su villano.
+2. Dividí a tu grupo en seis equipos y entregá una de las tarjetas de villanos a cada uno.
+3. Pediles que hagan un dibujo de cómo creen que se ve su villano.
 
 ### Paso 3: Presentación
-4. Pide a cada equipo que presente a su villano al resto del grupo.
+4. Pedí a cada equipo que presente a su villano al resto del grupo.
 
 ## Tarjetas de Villanos del Agua
 
@@ -202,13 +202,13 @@ El agua puede contaminarse fácilmente por diferentes causas. La contaminación 
 "Somos el aceite que no se mezcla con el agua. La gente solo nos recuerda cuando aparecemos en los titulares de las noticias, como cuando hay un accidente con un petrolero y hay un terrible derrame de petróleo. Pero la verdad es que siempre estamos aquí, filtrándonos en los mares y océanos desde los petroleros cuando limpian sus tanques, desde las refinerías de petróleo e incluso desde las calles de la ciudad."
 
 ### 🌿 Nitratos y Fosfatos
-"Llegamos a diferentes cuerpos de agua con toda el agua de los campos que han sido fertilizados, y de toda el agua usada para lavar la ropa con detergentes que contienen fosfato. Ayudamos a que muchas algas prosperen, y cuando estas algas se descomponen, consumen más y más oxígeno. Así que, cuando ves una película verde en el agua, puedes estar seguro de que somos nosotros divirtiéndonos."
+"Llegamos a diferentes cuerpos de agua con toda el agua de los campos que han sido fertilizados, y de toda el agua usada para lavar la ropa con detergentes que contienen fosfato. Ayudamos a que muchas algas prosperen, y cuando estas algas se descomponen, consumen más y más oxígeno. Así que, cuando ves una película verde en el agua, podés estar seguro de que somos nosotros divirtiéndonos."
 
 ### ☁️ Ácidos
 "Somos una pandilla genial, volamos con el aire y nos mezclamos con la lluvia para unirnos al agua de lagos y arroyos, y luego trabajamos duro para acidificar el agua. Nos llamamos lluvia ácida. Cuando llegamos con la lluvia y nos mezclamos con el agua, las plantas y los animales que viven en ella pueden enfermarse bastante. También podemos dañar otros elementos no vivos, como tus estatuas y casas; disfrutamos haciendo que tu ciudad luzca desagradable."
 
 ### 🦠 Bacterias y Virus
-"No puedes vernos, ¡pero podemos dañar seriamente tu salud! Podemos propagar enfermedades transmitidas por el agua como disentería, hepatitis o tifoidea (por nombrar algunas) cuando entramos en el agua que bebes. Entramos en el agua con todas las aguas residuales, con desechos humanos y animales, que no se tratan en una planta de tratamiento. Necesitamos mucho oxígeno y tomamos todo lo que podemos del agua, así que no dejamos que muchas otras cosas vivan en el agua con nosotros."
+"No podés vernos, ¡pero podemos dañar seriamente tu salud! Podemos propagar enfermedades transmitidas por el agua como disentería, hepatitis o tifoidea (por nombrar algunas) cuando entramos en el agua que bebes. Entramos en el agua con todas las aguas residuales, con desechos humanos y animales, que no se tratan en una planta de tratamiento. Necesitamos mucho oxígeno y tomamos todo lo que podemos del agua, así que no dejamos que muchas otras cosas vivan en el agua con nosotros."
 
 ## Cierre
 - ¿De dónde viene cada villano?
@@ -275,21 +275,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[26,47], scouts[31,53], caminantes[30,49], rovers[31,37])

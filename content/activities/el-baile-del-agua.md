@@ -3,7 +3,7 @@ title: "El Baile del Agua"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-baile-del-agua/"
-description: "Crea una coreografía inspirada en los movimientos del agua."
+description: "Creá una coreografía inspirada en los movimientos del agua."
 summary: "Coreografía sobre el movimiento del agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-baile-del-agua.png"
+image: "/imagenes/actividades/el-baile-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -144,17 +144,17 @@ rama_rovers: []
 # ¡El Baile del Agua!
 
 ## Resumen
-Observa el agua en movimiento y crea una coreografía que represente diferentes formas de fluir y moverse.
+Observá el agua en movimiento y creá una coreografía que represente diferentes formas de fluir y moverse.
 
 ## Preparación
-- Observa cómo fluye el agua (calmada, rápida, emocionante).
-- Prepara un espacio para bailar.
+- Observá cómo fluye el agua (calmada, rápida, emocionante).
+- Prepará un espacio para bailar.
 
 ## Desarrollo
 1. **Observación** (10 min): Hablen sobre cómo se mueve el agua.
 2. **Inspiración** (10 min): Discutan ideas para la coreografía.
-3. **Creación** (20 min): Crea la coreografía grupal.
-4. **Presentación** (5 min): Preséntala a amigos y familiares.
+3. **Creación** (20 min): Creá la coreografía grupal.
+4. **Presentación** (5 min): Presentala a amigos y familiares.
 
 ## Cierre
 - ¿Qué movimientos del agua representaste?
@@ -169,16 +169,3 @@ Observa el agua en movimiento y crea una coreografía que represente diferentes 
 nivel 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

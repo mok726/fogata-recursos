@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Diversión congelada"
+title: "Diversión Congelada"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/diversion-congelada/"
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/diversion-congelada.png"
+image: "/imagenes/actividades/diversion-congelada.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -171,37 +171,37 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Diversión congelada!
+# ¡Diversión Congelada!
 
 ## Resumen
 El agua tiene propiedades únicas que la hacen especial. En esta actividad, los participantes realizan experimentos con agua y hielo para descubrir cómo se comporta el agua al congelarse y cómo esto afecta a nuestro planeta.
 
 ## Preparación
-1. Coloca una botella de agua y un vaso con agua salada en el congelador antes de la actividad (para que estén congelados cuando comiences).
-2. Prepara los materiales para los experimentos.
-3. Asegura la supervisión de un adulto.
+1. Colocá una botella de agua y un vaso con agua salada en el congelador antes de la actividad (para que estén congelados cuando comiences).
+2. Prepará los materiales para los experimentos.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
 
 ### Experimento 1 - ¿El agua se expande al congelarse?
-1. Pregunta a tu grupo: ¿Qué le pasa al agua cuando se congela? ¿Las partículas de agua se vuelven más pequeñas y densas? ¿O ocupan más espacio y se expanden?
-2. Llena una botella plástica desechable con agua, ponle la tapa y colócala en el congelador. A medida que el agua se congela, ¿qué le pasa a la forma y tamaño de la botella? El agua ocupa más espacio cuando se congela. ¡Se expande!
+1. Preguntá a tu grupo: ¿Qué le pasa al agua cuando se congela? ¿Las partículas de agua se vuelven más pequeñas y densas? ¿O ocupan más espacio y se expanden?
+2. Llená una botella plástica desechable con agua, ponle la tapa y colocala en el congelador. A medida que el agua se congela, ¿qué le pasa a la forma y tamaño de la botella? El agua ocupa más espacio cuando se congela. ¡Se expande!
 
 ### Experimento 2 - ¿Flota o se hunde?
-3. Llena un recipiente transparente con agua y añade algunos cubos de hielo. ¿Cuánto de cada cubo está por encima y cuánto por debajo del agua? Esto sucede porque el agua es ligeramente más densa como líquido que como sólido.
+3. Llená un recipiente transparente con agua y añadí algunos cubos de hielo. ¿Cuánto de cada cubo está por encima y cuánto por debajo del agua? Esto sucede porque el agua es ligeramente más densa como líquido que como sólido.
 
 ### Experimento 3 - ¿Sube el nivel del mar?
-4. Coloca una banda elástica alrededor del vaso para marcar dónde está el nivel del agua. Luego espera a que los cubos de hielo se derritan. ¿Cambia el nivel del agua?
-5. Pero, ¿qué pasa cuando un glaciar se derrite? Coloca algunos cubos de hielo en un colador y suspéndelo sobre el agua en el vaso. A medida que tu "glaciar" se derrite, ¿qué sucede con el nivel del agua?
+4. Colocá una banda elástica alrededor del vaso para marcar dónde está el nivel del agua. Luego espera a que los cubos de hielo se derritan. ¿Cambia el nivel del agua?
+5. Pero, ¿qué pasa cuando un glaciar se derrite? Colocá algunos cubos de hielo en un colador y suspéndelo sobre el agua en el vaso. A medida que tu "glaciar" se derrite, ¿qué sucede con el nivel del agua?
 
 ### Experimento 4 - Agua salada congelada
-6. Mezcla sal en un vaso de agua potable y ponlo en el congelador. Después de que el agua se congele, saca el hielo del vaso. Enjuaga el hielo con agua del grifo. Ahora prueba el hielo. Cuando el agua salada se congela, forma hielo de agua dulce. Esto sucede porque el hielo se forma solo con moléculas de agua, no con sal.
+6. Mezclá sal en un vaso de agua potable y ponelo en el congelador. Después de que el agua se congele, sacá el hielo del vaso. Enjuaga el hielo con agua de la canilla. Ahora prueba el hielo. Cuando el agua salada se congela, forma hielo de agua dulce. Esto sucede porque el hielo se forma solo con moléculas de agua, no con sal.
 
 ## Cierre
 - ¿Cómo demostró tu experimento con la botella que el agua congelada se expande?
 - ¿Por qué no subió el nivel del agua cuando se derritieron los "icebergs"?
 - ¿Y por qué subió cuando se derritieron los "glaciares"?
-- ¿Qué otras características divertidas del agua puedes mencionar?
+- ¿Qué otras características divertidas del agua podés mencionar?
 
 ## Texto original completo de la actividad
 
@@ -269,20 +269,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

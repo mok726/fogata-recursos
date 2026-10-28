@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Investigación de microplásticos"
+title: "Investigación de Microplásticos"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-microplasticos/"
-description: "Investiga qué productos cotidianos contienen microplásticos y aprende a evitarlos."
-summary: "Descubre los microplásticos ocultos en tu hogar."
+description: "Investigá qué productos cotidianos contienen microplásticos y aprendé a evitarlos."
+summary: "Descubrí los microplásticos ocultos en tu hogar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigacion-microplasticos.png"
+image: "/imagenes/actividades/investigacion-microplasticos.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -160,20 +160,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Investigación de microplásticos!
+# ¡Investigación de Microplásticos!
 
 ## Resumen
-Investiga qué productos cotidianos contienen microplásticos: pelotas de tenis, bolsitas de té, toallitas húmedas, purpurina, cremas faciales y pastillas para lavavajillas. Aprende a identificarlos y a evitarlos.
+Investigá qué productos cotidianos contienen microplásticos: pelotas de tenis, bolsitas de té, toallitas húmedas, purpurina, cremas faciales y pastillas para lavavajillas. Aprendé a identificarlos y a evitarlos.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Visita beatthemicrobead.org para conocer la guía de productos.
-3. Prepara tu cuaderno y cámara para documentar.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Visitá beatthemicrobead.org para conocer la guía de productos.
+3. Prepará tu cuaderno y cámara para documentar.
 
 ## Desarrollo
 
 ### Parte I - Inventario
-Haz un inventario en tu casa para descubrir qué productos contienen microplásticos:
+Hacé un inventario en tu casa para descubrir qué productos contienen microplásticos:
 
 **Busca palabras en las etiquetas como:**
 - "Polypropylene" (polipropileno)
@@ -191,7 +191,7 @@ Haz un inventario en tu casa para descubrir qué productos contienen microplást
 - Pastillas para lavar ropa
 
 ### Parte II - Documentación
-Crea un collage de fotos de todos los productos que encuentres.
+Creá un collage de fotos de todos los productos que encuentres.
 
 ### Parte III - Comparación
 Compartan sus hallazgos con el grupo. ¿Qué productos encontraron?
@@ -236,20 +236,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

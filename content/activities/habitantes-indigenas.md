@@ -4,7 +4,7 @@ title: "Habitantes Indígenas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/habitantes-indigenas/"
-description: "Aprende sobre historias o leyendas tradicionales de poblaciones indígenas que viven en los bosques de tu país. Prepara una obra de teatro."
+description: "Aprendé sobre historias o leyendas tradicionales de poblaciones indígenas que viven en los bosques de tu país. Prepará una obra de teatro."
 summary: "Obra de teatro sobre leyendas indígenas del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/habitantes-indigenas.png"
+image: "/imagenes/actividades/habitantes-indigenas.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -172,19 +172,19 @@ rama_rovers:
 # Habitantes Indígenas
 
 ## Resumen
-Aprende sobre historias o leyendas tradicionales de poblaciones indígenas que viven en los bosques de tu país. Prepara una obra de teatro y preséntala a tus amigos.
+Aprendé sobre historias o leyendas tradicionales de poblaciones indígenas que viven en los bosques de tu país. Prepará una obra de teatro y presentala a tus amigos.
 
 ## Preparación
-1. Investiga leyendas o historias tradicionales de pueblos indígenas de tu país.
-2. Elige una leyenda para representar.
-3. Prepara vestuario y utilería para la obra.
+1. Investigá leyendas o historias tradicionales de pueblos indígenas de tu país.
+2. Elegí una leyenda para representar.
+3. Prepará vestuario y utilería para la obra.
 
 ## Desarrollo
-1. **Investigación** (25 min): Aprende sobre leyendas indígenas relacionadas con los bosques.
+1. **Investigación** (25 min): Aprendé sobre leyendas indígenas relacionadas con los bosques.
 2. **Adaptación** (20 min): Adapta la leyenda a una obra de teatro.
-3. **Ensayo** (20 min): Ensaya la obra con tu grupo.
-4. **Presentación** (15 min): Presenta la obra a tus amigos.
-5. **Reflexión** (15 min): Discute sobre la importancia de las leyendas y la cultura indígena.
+3. **Ensayo** (20 min): Ensayá la obra con tu grupo.
+4. **Presentación** (15 min): Presentá la obra a tus amigos.
+5. **Reflexión** (15 min): Discutí sobre la importancia de las leyendas y la cultura indígena.
 
 ## Cierre
 - ¿Qué aprendiste sobre los pueblos indígenas y sus leyendas?
@@ -192,16 +192,3 @@ Aprende sobre historias o leyendas tradicionales de poblaciones indígenas que v
 - ¿Qué compromiso adquieres para respetar y valorar las culturas indígenas?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

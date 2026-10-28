@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fragmentación de hábitats"
+title: "Fragmentación de Hábitats"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/fragmentacion-de-habitats/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/fragmentacion-de-habitats.png"
+image: "/imagenes/actividades/fragmentacion-de-habitats.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,25 +160,25 @@ rama_rovers:
   - 10  # Contribuyo a la resolución de conflictos
 ---
 
-# ¡Fragmentación de hábitats!
+# ¡Fragmentación de Hábitats!
 
 ## Resumen
 Investiguen cómo la fragmentación de los hábitats puede afectar a la diversidad genética dentro de una especie. Debatan en grupo sobre un caso de este tipo relevante para su área. Asignen un papel a cada persona (como alcalde, biólogo, persona indígena, animal afectado por la fragmentación del hábitat, desarrollador inmobiliario, etc.).
 
 ## Preparación
-1. Investiga sobre fragmentación de hábitats.
-2. Identifica un caso local relevante.
-3. Prepara tarjetas con roles.
+1. Investigá sobre fragmentación de hábitats.
+2. Identificá un caso local relevante.
+3. Prepará tarjetas con roles.
 
 ## Desarrollo
-1. Investiga cómo la fragmentación afecta la diversidad genética.
-2. Asigna roles a cada participante.
-3. Debate sobre el caso local desde diferentes perspectivas.
-4. Busca soluciones y acuerdos.
+1. Investigá cómo la fragmentación afecta la diversidad genética.
+2. Asigná roles a cada participante.
+3. Debatí sobre el caso local desde diferentes perspectivas.
+4. Buscá soluciones y acuerdos.
 
 ## Cierre
-1. Reflexiona sobre el debate.
-2. Discute las diferentes perspectivas.
+1. Reflexioná sobre el debate.
+2. Discutí las diferentes perspectivas.
 3. Pregunta final: ¿Cómo podemos equilibrar el desarrollo y la conservación?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ D.14 Investiguen cómo la fragmentación de los hábitats puede afectar a la div
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

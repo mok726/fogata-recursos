@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Una comida solar"
+title: "Una Comida Solar"
 duration: "Variable"
 layout: "layouts/activity.njk"
 permalink: "/activities/comida-solar/"
-description: "Utiliza la cocina/horno solar para cocinar en tu grupo, aprendiendo métodos de cocción más sustentables mientras preparas alimentos."
-summary: "Cocina una comida con energía solar."
+description: "Utilizá la cocina/horno solar para cocinar en tu grupo, aprendiendo métodos de cocción más sustentables mientras preparás alimentos."
+summary: "Cociná una comida con energía solar."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/comida-solar.png"
+image: "/imagenes/actividades/comida-solar.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -167,10 +167,10 @@ rama_rovers:
   - 6   # Exploro mis intereses vocacionales, descubro mis posibilidades
 ---
 
-# ¡Una comida solar!
+# ¡Una Comida Solar!
 
 ## Resumen
-Los y las invitamos a utilizar la cocina/horno solar para cocinar en su grupo, en un campamento o salida. Comiencen con pasos sencillos, cómo hervir agua para preparar un mate cocido y prueben hacer cada vez recetas más complejas. Algunos básicos de pochoclos o arroz son fáciles para los principiantes.
+Los y las invitamos a utilizar la cocina/horno solar para cocinar en su grupo, en un campamento o salida. Comiencen con pasos sencillos, como hervir agua para preparar un mate cocido y prueben hacer cada vez recetas más complejas. Algunos básicos de pochoclos o arroz son fáciles para los principiantes.
 
 ## Preparación
 1. Construyan una cocina u horno solar (ver actividad C.02).
@@ -185,6 +185,8 @@ Empiecen con algo sencillo como hervir agua para mate cocido o preparar pochoclo
 
 ### Paso 2 - Probar recetas
 A medida que ganen confianza, prueben recetas más complejas como arroz, verduras o incluso pan.
+
+> **Nota para el educador:** una cocina solar casera muchas veces no llega a una temperatura segura para carnes, pollo o pescado. Empiecen con verduras, arroz, huevos o pochoclos, y usen una olla oscura con tapa.
 
 ### Paso 3 - Compartir
 Disfruten de la comida preparada con energía solar.
@@ -213,17 +215,3 @@ Los y las invitamos a utilizar la cocina/horno solar para cocinar en su grupo, e
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

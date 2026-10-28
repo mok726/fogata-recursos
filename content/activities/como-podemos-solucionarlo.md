@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cómo podemos solucionarlo?"
+title: "¿Cómo Podemos Solucionarlo?"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/como-podemos-solucionarlo/"
 description: "Los participantes identifican problemáticas locales, las relacionan con los ODS y diseñan un proyecto o campaña para abordarlas."
-summary: "Identifica y soluciona problemáticas locales."
+summary: "Identificá y soluciona problemáticas locales."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - Scouts de Argentina - Scouts por los ODS
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/como-podemos-solucionarlo.png"
+image: "/imagenes/actividades/como-podemos-solucionarlo.jpg"
 original: false
 Origin: "Scouts por los ODS - Mundo Mejor"
 version: "0.99"
@@ -177,22 +177,22 @@ rama_rovers:
 # Actividad original de Scouts de Argentina - Scouts por los ODS (2021)
 ---
 
-# ¿Cómo podemos solucionarlo?
+# ¿Cómo Podemos Solucionarlo?
 
 ## Resumen
-Busca en internet o en el diario noticias que hablen de alguna problemática en tu comunidad local. Mostrale esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática. Piensen una forma de solucionar esa problemática o reducirla a través de un proyecto, servicio, gesto solidario o campaña. Una vez planeado todo, ¿se animan a llevarlo a cabo?
+Buscá en internet o en el diario noticias que hablen de alguna problemática en tu comunidad local. Mostrale esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática. Piensen una forma de solucionar esa problemática o reducirla a través de un proyecto, servicio, gesto solidario o campaña. Una vez planeado todo, ¿se animan a llevarlo a cabo?
 
 ## Preparación
-1. Reúne periódicos o prepara acceso a Internet para buscar noticias locales.
-2. Prepara los materiales de escritura.
+1. Reuní periódicos o prepará acceso a Internet para buscar noticias locales.
+2. Prepará los materiales de escritura.
 
 ## Desarrollo
 
 ### Paso 1: Búsqueda de noticias
-1. Pide a los participantes que busquen en internet o en el diario noticias que hablen de alguna problemática en su comunidad local.
+1. Pedí a los participantes que busquen en internet o en el diario noticias que hablen de alguna problemática en su comunidad local.
 
 ### Paso 2: Identificación de ODS
-2. Muestra esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática.
+2. Mostrá esas noticias a otros jóvenes y entre todos identifiquen con qué ODS está relacionada esa problemática.
 
 ### Paso 3: Diseño de soluciones
 3. Piensen una forma de solucionar esa problemática o reducirla a través de:
@@ -206,6 +206,8 @@ Busca en internet o en el diario noticias que hablen de alguna problemática en 
 
 ### Paso 5: ¡Acción!
 5. Una vez planeado todo, ¿se animan a llevarlo a cabo?
+
+> **Nota:** el tiempo de la actividad alcanza para buscar, elegir y planificar. La acción en sí se hace después, en otras reuniones, como un proyecto de la unidad.
 
 ## ODS involucrados
 - Depende de la problemática identificada por los participantes.
@@ -230,17 +232,3 @@ Busca en internet o en el diario noticias que hablen de alguna problemática en 
 **ODS involucrados:** Depende de la problemática.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas

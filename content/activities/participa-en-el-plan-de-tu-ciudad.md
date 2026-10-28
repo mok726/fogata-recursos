@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Participá en el plan de tu ciudad"
+title: "Participá en el Plan de Tu Ciudad"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/participa-en-el-plan-de-tu-ciudad/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/participa-en-el-plan-de-tu-ciudad.png"
+image: "/imagenes/actividades/participa-en-el-plan-de-tu-ciudad.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 24  # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Participá en el plan de tu ciudad!
+# ¡Participá en el Plan de Tu Ciudad!
 
 ## Resumen
 Tenés un papel muy importante en hacer que tu ciudad o comunidad sea más verde. Tenés derecho a que se escuche tu voz, a compartir tus esperanzas para el lugar donde vivís, así como tus preocupaciones. Y tenés derecho a influir en las decisiones que afectan tu vida.
@@ -220,20 +220,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

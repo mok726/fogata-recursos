@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Organiza un Evento de Narración de Historias"
+title: "Organizá un Evento de Narración de Historias"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/organiza-un-evento-de-narracion-de-historias/"
-description: "Organiza un evento de narración de historias sobre comida y nutrición con mitos, leyendas y cuentos."
+description: "Organizá un evento de narración de historias sobre comida y nutrición con mitos, leyendas y cuentos."
 summary: "Evento de narración sobre comida."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/organiza-un-evento-de-narracion-de-historias.png"
+image: "/imagenes/actividades/organiza-un-evento-de-narracion-de-historias.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -168,22 +168,22 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# Organiza un Evento de Narración de Historias
+# Organizá un Evento de Narración de Historias
 
 ## Resumen
-Organiza un evento de narración de historias sobre comida y nutrición con mitos, leyendas y cuentos.
+Organizá un evento de narración de historias sobre comida y nutrición con mitos, leyendas y cuentos.
 
 ## Preparación
-1. Habla con tus abuelos y otras personas mayores para recoger historias.
-2. Busca historias en la biblioteca o internet.
-3. Prepara el espacio y la decoración.
+1. Hablá con tus abuelos y otras personas mayores para recoger historias.
+2. Buscá historias en la biblioteca o internet.
+3. Prepará el espacio y la decoración.
 
 ## Desarrollo
-1. **Recolección** (20 min): Reúne historias sobre comida.
-2. **Preparación** (20 min): Prepara la presentación (marionetas, cortos, recitales).
-3. **Evento** (30 min): Realiza el evento de narración.
+1. **Recolección** (20 min): Reuní historias sobre comida.
+2. **Preparación** (20 min): Prepará la presentación (marionetas, cortos, recitales).
+3. **Evento** (30 min): Realizá el evento de narración.
 4. **Premios** (10 min): Da premios a los mejores narradores.
-5. **Publicación** (15 min): Publica fotos y videos en redes.
+5. **Publicación** (15 min): Publicá fotos y videos en redes.
 
 ## Cierre
 - ¿Qué historias sobre comida te gustaron más?
@@ -191,16 +191,3 @@ Organiza un evento de narración de historias sobre comida y nutrición con mito
 - ¿Qué compromiso adquieres para preservar estas tradiciones?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

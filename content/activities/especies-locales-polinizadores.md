@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Especies locales"
+title: "Especies Locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/especies-locales-polinizadores/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/especies-locales-polinizadores.png"
+image: "/imagenes/actividades/especies-locales-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Especies locales!
+# ¡Especies Locales!
 
 ## Resumen
 Preguntá o investigá para determinar cuáles son los principales polinizadores en tu región. Elegí una especie e investigala a fondo para descubrir todo sobre ella. ¿Qué flores poliniza? ¿Cómo lo hace? ¿Cuál es su hábitat?
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

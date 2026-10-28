@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/experto-cuencas-agua.png"
+image: "/imagenes/actividades/experto-cuencas-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ translation_notice:
 En esta actividad, los participantes invitan a un representante del gobierno local (por ejemplo, del Ministerio de Medio Ambiente) para que hable sobre las iniciativas que se están implementando para mantener una cuenca saludable y prevenir la contaminación del agua, garantizando así un suministro de agua limpia y segura para la comunidad.
 
 ## Preparación
-1. Contacta a un representante del gobierno local (Ministerio de Medio Ambiente, autoridad del agua, etc.) y coordina su visita.
-2. Ayuda a tu grupo a preparar preguntas para el experto.
+1. Contactá a un representante del gobierno local (Ministerio de Medio Ambiente, autoridad del agua, etc.) y coordiná su visita.
+2. Ayudá a tu grupo a preparar preguntas para el experto.
 
 ## Desarrollo
 
 ### Paso 1: Preparación
-1. Explica a tu grupo que recibirán la visita de un representante del gobierno local para hablar sobre las iniciativas que se están implementando para mantener una cuenca saludable y prevenir la contaminación del agua.
-2. Ayuda a los participantes a pensar en las cosas que les gustaría saber y a preparar algunas preguntas.
+1. Explicá a tu grupo que recibirán la visita de un representante del gobierno local para hablar sobre las iniciativas que se están implementando para mantener una cuenca saludable y prevenir la contaminación del agua.
+2. Ayudá a los participantes a pensar en las cosas que les gustaría saber y a preparar algunas preguntas.
 
 ### Paso 2: Visita del experto
-3. Recibe al representante y preséntalo al grupo.
-4. Anima a los participantes a tomar notas y hacer preguntas durante la charla.
+3. Recibí al representante y presentalo al grupo.
+4. Animá a los participantes a tomar notas y hacer preguntas durante la charla.
 
 ### Paso 3: Reflexión
 5. Después de la charla, reúne al grupo para reflexionar sobre lo aprendido.
@@ -190,7 +190,7 @@ En esta actividad, los participantes invitan a un representante del gobierno loc
 - ¿Cómo se relacionan la biodiversidad y el agua?
 - ¿Por qué es importante proteger tu cuenca?
 - ¿Cómo podemos equilibrar las necesidades de las personas, proteger el medio ambiente y tener una buena economía?
-- ¿Cómo puedes hacer que tus actividades cotidianas sean más sostenibles?
+- ¿Cómo podés hacer que tus actividades cotidianas sean más sostenibles?
 - ¿Qué está haciendo el gobierno para proteger las fuentes de agua locales?
 - ¿Qué pueden hacer los jóvenes para ayudar?
 
@@ -198,7 +198,7 @@ En esta actividad, los participantes invitan a un representante del gobierno loc
 - ¿Cómo se relacionan la biodiversidad y el agua?
 - ¿Por qué es importante proteger tu cuenca?
 - ¿Cómo podemos equilibrar las necesidades de las personas, proteger el medio ambiente y tener una buena economía?
-- ¿Cómo puedes hacer que tus actividades cotidianas sean más sostenibles?
+- ¿Cómo podés hacer que tus actividades cotidianas sean más sostenibles?
 
 ## Texto original completo de la actividad
 
@@ -256,21 +256,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,25], scouts[26,33], caminantes[25,30], rovers[27,29])

@@ -4,7 +4,7 @@ title: "Construyendo un Hidrófono"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/construyendo-un-hidrofono/"
-description: "Construye un hidrófono para escuchar los sonidos subacuáticos."
+description: "Construí un hidrófono para escuchar los sonidos subacuáticos."
 summary: "Construcción de un hidrófono."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/construyendo-un-hidrofono.png"
+image: "/imagenes/actividades/construyendo-un-hidrofono.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -177,20 +177,20 @@ rama_rovers:
 # Construyendo un Hidrófono
 
 ## Resumen
-Construye un hidrófono para escuchar los sonidos subacuáticos.
+Construí un hidrófono para escuchar los sonidos subacuáticos.
 
 ## Preparación
-1. Coloca el micrófono dentro del globo (usa lubricante si es necesario).
-2. Coloca monedas pequeñas dentro del globo para que se hunda.
-3. Conecta el micrófono a los audífonos.
-4. Prepara los materiales para sellar el globo.
-5. Asegura la supervisión de un adulto.
+1. Colocá el micrófono dentro del globo (usa lubricante si es necesario).
+2. Colocá monedas pequeñas dentro del globo para que se hunda.
+3. Conectá el micrófono a los audífonos.
+4. Prepará los materiales para sellar el globo.
+5. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Montaje** (20 min): Sigue los pasos para construir el hidrófono.
-2. **Prueba** (15 min): Prueba el hidrófono en la playa.
-3. **Observación** (15 min): ¿Qué puedes escuchar?
-4. **Registro** (10 min): Escribe lo que escuchaste.
+1. **Montaje** (20 min): Seguí los pasos para construir el hidrófono.
+2. **Prueba** (15 min): Probá el hidrófono en la playa.
+3. **Observación** (15 min): ¿Qué podés escuchar?
+4. **Registro** (10 min): Escribí lo que escuchaste.
 
 ## Cierre
 - ¿Qué sonidos escuchaste bajo el agua?
@@ -223,16 +223,3 @@ Para escuchar los sonidos subacuáticos, construye un hidrófono (un micrófono 
 nivel: 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

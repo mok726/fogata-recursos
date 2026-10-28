@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/verde-o-rojo.png"
+image: "/imagenes/actividades/verde-o-rojo.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -162,23 +162,23 @@ rama_rovers: []
 El propósito de esta actividad es lograr que los jóvenes consideren diversas afirmaciones y desarrollen sus propios pensamientos sobre el tema del estilo de vida saludable y la sostenibilidad, identificando prácticas relacionadas con hábitos saludables y sostenibles.
 
 ## Preparación
-1. Prepara un juego de tarjetas verdes y rojas para cada participante.
-2. Prepara una lista de afirmaciones para leer.
-3. Organiza el espacio para la votación.
+1. Prepará un juego de tarjetas verdes y rojas para cada participante.
+2. Prepará una lista de afirmaciones para leer.
+3. Organizá el espacio para la votación.
 
 ## Desarrollo
 
 ### Parte I - Explicación
-Explica a los participantes que escucharán diferentes afirmaciones y deben mostrar si están de acuerdo o en desacuerdo utilizando dos tipos diferentes de tarjetas: Estar de acuerdo = VERDE, No estar de acuerdo = ROJO.
+Explicá a los participantes que escucharán diferentes afirmaciones y deben mostrar si están de acuerdo o en desacuerdo utilizando dos tipos diferentes de tarjetas: Estar de acuerdo = VERDE, No estar de acuerdo = ROJO.
 
 ### Parte II - Entrega de tarjetas
-Entrega a cada participante un juego de tarjetas, una verde y otra roja. Muéstrales cómo usarán las tarjetas sosteniendo y levantando la mano con la que expresa lo que piensan acerca de la afirmación que escucharon.
+Entregá a cada participante un juego de tarjetas, una verde y otra roja. Mostrales cómo usarán las tarjetas sosteniendo y levantando la mano con la que expresa lo que piensan acerca de la afirmación que escucharon.
 
 ### Parte III - Práctica
-Practica con un ejemplo simple antes de comenzar con las afirmaciones elegidas. Por ejemplo, "prefiero perros sobre gatos".
+Practicá con un ejemplo simple antes de comenzar con las afirmaciones elegidas. Por ejemplo, "prefiero perros sobre gatos".
 
 ### Parte IV - Votación
-Comienza la actividad leyendo o mostrando las afirmaciones. Puedes usar estos ejemplos y agregar otros:
+Comenzá la actividad leyendo o mostrando las afirmaciones. Podés usar estos ejemplos y agregar otros:
 
 a. La compra de material reutilizable es simplemente costosa y no es necesaria.
 b. Es posible cultivar nuestras propias hierbas. ¡Es saludable y más amigable con el medio ambiente!
@@ -187,11 +187,11 @@ d. Comprar alimentos locales es mejor para nuestra salud y para el medio ambient
 e. ¡El concepto de un estilo de vida sostenible es el futuro!
 
 ### Parte V - Recuento y discusión
-Lleva la cuenta de los votos en un lugar visible, y una vez que termines con la lista de afirmaciones, inicia una discusión con el grupo sobre los votos y el tema.
+Llevá la cuenta de los votos en un lugar visible, y una vez que termines con la lista de afirmaciones, iniciá una discusión con el grupo sobre los votos y el tema.
 
 ## Cierre
 1. ¿Qué afirmación generó más debate?
-2. ¿Cómo te sientes sobre los temas discutidos?
+2. ¿Cómo te sentís sobre los temas discutidos?
 3. ¿Qué cambio harías en tu vida después de esta actividad?
 
 ## Texto original completo de la actividad
@@ -243,17 +243,3 @@ Lleva la cuenta de los votos en un lugar visible, y una vez que termines con la 
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

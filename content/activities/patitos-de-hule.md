@@ -4,7 +4,7 @@ title: "Patitos de Hule"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/patitos-de-hule/"
-description: "Escribe una historia o poema sobre los patitos de hule que siguieron las corrientes oceánicas."
+description: "Escribí una historia o poema sobre los patitos de hule que siguieron las corrientes oceánicas."
 summary: "Historia creativa sobre patitos de hule."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/patitos-de-hule.png"
+image: "/imagenes/actividades/patitos-de-hule.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -172,19 +172,19 @@ rama_rovers:
 # Patitos de Hule
 
 ## Resumen
-Escribe una historia o poema sobre los patitos de hule que siguieron las corrientes oceánicas.
+Escribí una historia o poema sobre los patitos de hule que siguieron las corrientes oceánicas.
 
 ## Preparación
-1. Lee el artículo sobre los patitos de hule.
-2. Prepara material para escribir.
+1. Leé el artículo sobre los patitos de hule.
+2. Prepará material para escribir.
 3. Si es posible, prepara materiales naturales para hacer barcos.
 
 ## Desarrollo
-1. **Investigación** (10 min): Lee el artículo sobre los patitos de hule.
-2. **Creación** (25 min): Escribe una historia o poema sobre la travesía.
-3. **Lanzamiento** (30 min): Haz barcos con materiales naturales y lánzalos desde la playa.
-4. **Seguimiento** (varios días): Revisa otras playas para ver si aparecen.
-5. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+1. **Investigación** (10 min): Leé el artículo sobre los patitos de hule.
+2. **Creación** (25 min): Escribí una historia o poema sobre la travesía.
+3. **Lanzamiento** (30 min): Hacé barcos con materiales naturales y lanzalos desde la playa.
+4. **Seguimiento** (varios días): Revisá otras playas para ver si aparecen.
+5. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre las corrientes oceánicas?
@@ -205,16 +205,3 @@ Lee el artículo sobre los patitos de hule y su viaje alrededor del mundo. 29.00
 nivel: 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

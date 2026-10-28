@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Poderes de persuasión"
+title: "Poderes de Persuasión"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/poderes-de-persuasion/"
-description: "Crea una campaña de concientización sobre plásticos en un área comercial local usando carteles y redes sociales."
+description: "Creá una campaña de concientización sobre plásticos en un área comercial local usando carteles y redes sociales."
 summary: "Concientiza a tu comunidad sobre los plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/poderes-de-persuasion.png"
+image: "/imagenes/actividades/poderes-de-persuasion.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -163,16 +163,16 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Poderes de persuasión!
+# ¡Poderes de Persuasión!
 
 ## Resumen
-Crea una campaña de concientización sobre plásticos en un área comercial local. Usa carteles y redes sociales para informar, motivar y dar alternativas concretas para reducir el uso de plásticos.
+Creá una campaña de concientización sobre plásticos en un área comercial local. Usá carteles y redes sociales para informar, motivar y dar alternativas concretas para reducir el uso de plásticos.
 
 ## Preparación
-1. Lee la Sección C de la información de fondo: "Tomar acción".
-2. Identifica un área comercial cercana donde se usen muchos plásticos de un solo uso.
-3. Consigue permiso para colocar carteles.
-4. Prepara materiales para crear carteles.
+1. Leé la Sección C de la información de fondo: "Tomar acción".
+2. Identificá un área comercial cercana donde se usen muchos plásticos de un solo uso.
+3. Conseguí permiso para colocar carteles.
+4. Prepará materiales para crear carteles.
 
 ## Desarrollo
 
@@ -204,7 +204,7 @@ Lancen un hashtag y creen una comunidad online:
 - Ofrezcan premios como bolsas reutilizables
 
 ## Cierre
-1. ¿Qué mensaje crees que fue más efectivo?
+1. ¿Qué mensaje creés que fue más efectivo?
 2. ¿Cómo respondió la gente a tu campaña?
 3. ¿Qué aprendiste sobre cómo persuadir a otros?
 
@@ -276,20 +276,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -3,7 +3,7 @@ title: "Oda a la Escuela"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/oda-a-la-escuela/"
-description: "Reflexiona sobre qué extrañarías si tu escuela fuera dañada por un desastre."
+description: "Reflexioná sobre qué extrañarías si tu escuela fuera dañada por un desastre."
 summary: "Reflexión sobre la importancia de la escuela."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/oda-a-la-escuela.png"
+image: "/imagenes/actividades/oda-a-la-escuela.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -25,7 +25,7 @@ age_group:
   - manada
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -141,16 +141,16 @@ rama_rovers: []
 # ¡Oda a la Escuela!
 
 ## Resumen
-Escribe un ensayo sobre cómo te sentirías si un desastre interrumpiera tu educación y no pudieras ir a la escuela.
+Escribí un ensayo sobre cómo te sentirías si un desastre interrumpiera tu educación y no pudieras ir a la escuela.
 
 ## Preparación
-- Piensa en qué te gusta de la escuela.
-- Imagina cómo sería no poder ir.
+- Pensá en qué te gusta de la escuela.
+- Imaginá cómo sería no poder ir.
 
 ## Desarrollo
-1. **Reflexión** (10 min): Piensa en qué extrañarías más.
-2. **Escritura** (15 min): Escribe tu ensayo.
-3. **Compartir** (5 min): Lee tu ensayo a tus maestros y padres.
+1. **Reflexión** (10 min): Pensá en qué extrañarías más.
+2. **Escritura** (15 min): Escribí tu ensayo.
+3. **Compartir** (5 min): Leé tu ensayo a tus maestros y padres.
 
 ## Cierre
 - ¿Qué es lo que más te gusta de la escuela?
@@ -165,16 +165,3 @@ Escribe un ensayo sobre cómo te sentirías si un desastre interrumpiera tu educ
 nivel 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

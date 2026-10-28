@@ -3,7 +3,7 @@ title: "Lavando la Tierra"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/lavando-la-tierra/"
-description: "Experimenta con la erosión del suelo al verter agua sobre diferentes tipos."
+description: "Experimentá con la erosión del suelo al verter agua sobre diferentes tipos."
 summary: "Experimento de erosión del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/lavando-la-tierra.png"
+image: "/imagenes/actividades/lavando-la-tierra.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -146,21 +146,21 @@ rama_rovers: []
 # ¡Lavando la Tierra!
 
 ## Resumen
-Experimenta con la erosión del suelo al verter agua sobre diferentes tipos.
+Experimentá con la erosión del suelo al verter agua sobre diferentes tipos.
 
 ## Preparación
-1. Reúne diferentes tipos de suelo (arena, lodo, arcilla).
-2. Prepara agua, jarra y regadera.
+1. Reuní diferentes tipos de suelo (arena, barro, arcilla).
+2. Prepará agua, jarra y regadera.
 
 ## Desarrollo
-1. **Experimento 1** (10 min): Vierte agua de una jarra (río) sobre cada suelo.
-2. **Experimento 2** (10 min): Usa la regadera (lluvia) sobre cada suelo.
+1. **Experimento 1** (10 min): Verté agua de una jarra (río) sobre cada suelo.
+2. **Experimento 2** (10 min): Usá la regadera (lluvia) sobre cada suelo.
 3. **Observación** (15 min): ¿Qué suelo se erosiona más fácilmente?
 4. **Discusión** (10 min): ¿Por qué sucede esto?
 
 ## Cierre
 - ¿Qué suelo se erosionó más?
-- ¿Por qué crees que es así?
+- ¿Por qué creés que es así?
 - ¿Cómo afecta esto al medio ambiente?
 
 ---
@@ -171,16 +171,3 @@ Experimenta con la erosión del suelo al verter agua sobre diferentes tipos.
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

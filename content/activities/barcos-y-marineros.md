@@ -4,7 +4,7 @@ title: "Barcos y Marineros"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/barcos-y-marineros/"
-description: "Construye un barco que flote y que no se voltee, y compite para ver quién carga más peso."
+description: "Construí un barco que flote y que no se voltee, y compite para ver quién carga más peso."
 summary: "Construcción de barcos flotantes."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/barcos-y-marineros.png"
+image: "/imagenes/actividades/barcos-y-marineros.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -169,20 +169,20 @@ rama_rovers:
 # Barcos y Marineros
 
 ## Resumen
-Construye un barco que flote y que no se voltee, y compite para ver quién carga más peso.
+Construí un barco que flote y que no se voltee, y compite para ver quién carga más peso.
 
 ## Preparación
-1. Reúne materiales de manualidades (botellas, tubos, frascos, plástico, madera, papel, cartulina, cuerda).
-2. Diseña tu barco antes de empezar.
-3. Asegura la supervisión de un adulto.
+1. Reuní materiales de manualidades (botellas, tubos, frascos, plástico, madera, papel, cartulina, cuerda).
+2. Diseñá tu barco antes de empezar.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Diseño** (10 min): Haz un diseño de tu barco.
-2. **Construcción** (25 min): Construye el barco con los materiales.
-3. **Prueba** (20 min): Prueba los barcos en una bañera, lavabo o tina.
+1. **Diseño** (10 min): Hacé un diseño de tu barco.
+2. **Construcción** (25 min): Construí el barco con los materiales.
+3. **Prueba** (20 min): Probá los barcos en una bañera, lavabo o tina.
 4. **Competencia** (15 min): Carga los barcos con objetos (monedas, arroz, manzanas).
 5. **Reflexión** (10 min): ¿Qué ayuda a que el barco se mantenga derecho?
-6. **Extensión** (opcional): Escribe una historia sobre una travesía marítima.
+6. **Extensión** (opcional): Escribí una historia sobre una travesía marítima.
 
 ## Cierre
 - ¿Qué diseño funcionó mejor y por qué?
@@ -207,16 +207,3 @@ Una vez que todos hayan hecho su bote, busca un lugar calmado para probarlos. Si
 nivel: 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,8 +4,8 @@ title: "Guardabosques"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/guardabosques/"
-description: "Haz una entrevista a un guardabosques o guarda parques. Comparte los hallazgos con tu grupo."
-summary: "Entrevista a un guardabosques."
+description: "Hacé una entrevista a un guardabosques o guarda parques. Compartí los hallazgos con tu grupo."
+summary: "Entrevistá a un guardabosques."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/guardabosques.png"
+image: "/imagenes/actividades/guardabosques.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ rama_rovers:
 # Guardabosques
 
 ## Resumen
-Haz una entrevista a un guardabosques o guarda parques. Comparte los hallazgos con tu grupo.
+Hacé una entrevista a un guardabosques o guarda parques. Compartí los hallazgos con tu grupo.
 
 ## Preparación
-1. Identifica un guardabosques o guarda parques para entrevistar.
-2. Prepara una lista de preguntas sobre su trabajo.
-3. Consigue equipo para registrar la entrevista.
+1. Identificá un guardabosques o guarda parques para entrevistar.
+2. Prepará una lista de preguntas sobre su trabajo.
+3. Conseguí equipo para registrar la entrevista.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para el guardabosques.
-2. **Entrevista** (20 min): Realiza la entrevista y registra las respuestas.
-3. **Análisis** (10 min): Analiza los hallazgos de la entrevista.
-4. **Presentación** (15 min): Comparte los hallazgos con el grupo.
+1. **Preparación** (15 min): Prepará preguntas para el guardabosques.
+2. **Entrevista** (20 min): Realizá la entrevista y registrá las respuestas.
+3. **Análisis** (10 min): Analizá los hallazgos de la entrevista.
+4. **Presentación** (15 min): Compartí los hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el trabajo de los guardabosques?
@@ -189,16 +189,3 @@ Haz una entrevista a un guardabosques o guarda parques. Comparte los hallazgos c
 - ¿Qué compromiso adquieres para apoyar su trabajo?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

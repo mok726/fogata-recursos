@@ -4,7 +4,7 @@ title: "Exhibición de Pósteres"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/exhibicion-de-posteres/"
-description: "Diseña pósteres para concienciar sobre dietas sanas para niños y adolescentes."
+description: "Diseñá pósteres para concienciar sobre dietas sanas para niños y adolescentes."
 summary: "Pósteres sobre nutrición infantil."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/exhibicion-de-posteres.png"
+image: "/imagenes/actividades/exhibicion-de-posteres.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,18 +169,18 @@ rama_rovers:
 # Exhibición de Pósteres
 
 ## Resumen
-Diseña pósteres para concienciar sobre dietas sanas para niños y adolescentes.
+Diseñá pósteres para concienciar sobre dietas sanas para niños y adolescentes.
 
 ## Preparación
-1. Investiga sobre dietas sanas para niños y adolescentes.
-2. Prepara material para los pósteres.
-3. Piensa en mensajes claros que cambien el comportamiento.
+1. Investigá sobre dietas sanas para niños y adolescentes.
+2. Prepará material para los pósteres.
+3. Pensá en mensajes claros que cambien el comportamiento.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga sobre nutrición infantil.
-2. **Diseño** (25 min): Crea pósteres con mensajes claros.
-3. **Revisión** (10 min): Incluye normas básicas de higiene.
-4. **Exhibición** (15 min): Exhibe los pósteres en lugares públicos.
+1. **Investigación** (15 min): Investigá sobre nutrición infantil.
+2. **Diseño** (25 min): Creá pósteres con mensajes claros.
+3. **Revisión** (10 min): Incluí normas básicas de higiene.
+4. **Exhibición** (15 min): Exhibí los pósteres en lugares públicos.
 
 ## Cierre
 - ¿Qué mensajes incluiste en tus pósteres?
@@ -188,16 +188,3 @@ Diseña pósteres para concienciar sobre dietas sanas para niños y adolescentes
 - ¿Qué compromiso adquieres para seguir educando sobre nutrición?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

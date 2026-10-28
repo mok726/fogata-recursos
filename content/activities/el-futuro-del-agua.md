@@ -3,7 +3,7 @@ title: "El Futuro del Agua"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-futuro-del-agua/"
-description: "Diseña y construye un modelo de una casa o ciudad del futuro que use el agua de manera eficiente."
+description: "Diseñá y construí un modelo de una casa o ciudad del futuro que use el agua de manera eficiente."
 summary: "Modelo de ciudad futurista eficiente en agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-futuro-del-agua.png"
+image: "/imagenes/actividades/el-futuro-del-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -154,18 +154,18 @@ rama_rovers:
 # ¡El Futuro del Agua!
 
 ## Resumen
-Diseña y construye un modelo de una casa o ciudad del futuro que use el agua de manera eficiente.
+Diseñá y construí un modelo de una casa o ciudad del futuro que use el agua de manera eficiente.
 
 ## Preparación
-1. Investiga sobre tecnologías de ahorro de agua.
-2. Reúne materiales de arte y manualidades.
-3. Piensa en diseños innovadores.
+1. Investigá sobre tecnologías de ahorro de agua.
+2. Reuní materiales de arte y manualidades.
+3. Pensá en diseños innovadores.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga sobre tecnologías de ahorro de agua.
-2. **Diseño** (15 min): Dibuja el diseño de tu casa o ciudad.
-3. **Construcción** (25 min): Construye tu modelo.
-4. **Presentación** (5 min): Explica tus ideas innovadoras al grupo.
+1. **Investigación** (15 min): Investigá sobre tecnologías de ahorro de agua.
+2. **Diseño** (15 min): Dibujá el diseño de tu casa o ciudad.
+3. **Construcción** (25 min): Construí tu modelo.
+4. **Presentación** (5 min): Explicá tus ideas innovadoras al grupo.
 
 ## Cierre
 - ¿Qué tecnologías de ahorro de agua incluiste?
@@ -180,16 +180,3 @@ Diseña y construye un modelo de una casa o ciudad del futuro que use el agua de
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

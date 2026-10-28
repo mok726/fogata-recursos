@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entrevista a un científico"
+title: "Entrevistá a un Científico"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-a-un-cientifico/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/entrevista-a-un-cientifico.png"
+image: "/imagenes/actividades/entrevista-a-un-cientifico.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -158,24 +158,24 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Entrevista a un científico!
+# ¡Entrevistá a un Científico!
 
 ## Resumen
-Realiza una entrevista a un científico acerca de un asunto relacionado con la biodiversidad. Regístrala y compártela con tu grupo.
+Realizá una entrevista a un científico acerca de un asunto relacionado con la biodiversidad. Registrala y compártela con tu grupo.
 
 ## Preparación
-1. Identifica un científico para entrevistar.
-2. Prepara preguntas sobre biodiversidad.
-3. Organiza la entrevista.
+1. Identificá un científico para entrevistar.
+2. Prepará preguntas sobre biodiversidad.
+3. Organizá la entrevista.
 
 ## Desarrollo
-1. Entrevista al científico sobre biodiversidad.
-2. Toma notas o graba la entrevista.
-3. Registra las respuestas más importantes.
+1. Entrevistá al científico sobre biodiversidad.
+2. Tomá notas o grabá la entrevista.
+3. Registrá las respuestas más importantes.
 
 ## Cierre
-1. Comparte la entrevista con tu grupo.
-2. Reflexiona sobre lo aprendido.
+1. Compartí la entrevista con tu grupo.
+2. Reflexioná sobre lo aprendido.
 3. Pregunta final: ¿Qué te sorprendió de la entrevista?
 
 ## Texto original completo de la actividad
@@ -184,16 +184,3 @@ D.10 Realiza una entrevista a un científico acerca de un asunto relacionado con
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

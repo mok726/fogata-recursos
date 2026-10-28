@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Obras de teatro sobre energía"
+title: "Obras de Teatro sobre Energía"
 duration: "1-2 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/obras-de-teatro-energia/"
-description: "Escribe y representa una obra de teatro que demuestre las diferencias entre las formas de energía: cinética, potencial, mecánica, etc."
-summary: "Actúa las formas de energía."
+description: "Escribí y representá una obra de teatro que demuestre las diferencias entre las formas de energía: cinética, potencial, mecánica, etc."
+summary: "Actuá las formas de energía."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/obras-de-teatro-energia.png"
+image: "/imagenes/actividades/obras-de-teatro-energia.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -160,15 +160,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Obras de teatro sobre energía!
+# ¡Obras de Teatro sobre Energía!
 
 ## Resumen
-Aprende sobre las diferentes formas de energía (cinética, potencial, mecánica, etc.) y escribe una obra de teatro corta que demuestre claramente las diferencias entre ellas.
+Aprendé sobre las diferentes formas de energía (cinética, potencial, mecánica, etc.) y escribí una obra de teatro corta que demuestre claramente las diferencias entre ellas.
 
 ## Preparación
-1. Lee la información sobre formas de energía en la sección de información de fondo.
-2. Divide el grupo en equipos de 4-5 participantes.
-3. Asigna una forma de energía a cada persona o equipo.
+1. Leé la información sobre formas de energía en la sección de información de fondo.
+2. Dividí el grupo en equipos de 4-5 participantes.
+3. Asigná una forma de energía a cada persona o equipo.
 
 ## Desarrollo
 
@@ -185,7 +185,7 @@ Cada equipo investiga su forma de energía asignada:
 - Energía radiante (luz)
 
 ### Parte II - Crear la obra
-Escribe una obra corta donde cada persona represente una forma de energía.
+Escribí una obra corta donde cada persona represente una forma de energía.
 
 **Características para representar:**
 - Energía potencial → siempre esperando
@@ -193,7 +193,7 @@ Escribe una obra corta donde cada persona represente una forma de energía.
 - Energía mecánica → como un robot
 
 ### Parte III - Actuar
-Presenta tu obra al grupo.
+Presentá tu obra al grupo.
 
 ### Parte IV - Adivinar
 El resto del grupo debe adivinar qué forma de energía representa cada persona.
@@ -231,20 +231,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

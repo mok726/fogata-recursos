@@ -3,7 +3,7 @@ title: "Cambiando por el Cambio Climático"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambiando-por-el-cambio-climatico/"
-description: "Investiga cómo el cambio climático afecta tu área y crea un mapa con acciones de adaptación."
+description: "Investigá cómo el cambio climático afecta tu área y creá un mapa con acciones de adaptación."
 summary: "Mapa de adaptación al cambio climático local."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/cambiando-por-el-cambio-climatico.png"
+image: "/imagenes/actividades/cambiando-por-el-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -150,23 +150,23 @@ rama_rovers:
 # ¡Cambiando por el Cambio Climático!
 
 ## Resumen
-Investiga cómo el cambio climático está afectando tu área y crea un mapa con acciones específicas de adaptación.
+Investigá cómo el cambio climático está afectando tu área y creá un mapa con acciones específicas de adaptación.
 
 ## Preparación
-1. Habla con científicos locales, ancianos de la comunidad.
-2. Observa cambios en los patrones climáticos.
-3. Prepara materiales para el mapa.
+1. Hablá con científicos locales, ancianos de la comunidad.
+2. Observá cambios en los patrones climáticos.
+3. Prepará materiales para el mapa.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne información sobre cambios climáticos locales.
+1. **Investigación** (20 min): Reuní información sobre cambios climáticos locales.
 2. **Discusión** (15 min): ¿Qué pasos está tomando tu comunidad para adaptarse?
-3. **Creación** (20 min): Prepara un mapa de tu pueblo/ciudad con acciones de adaptación.
-4. **Exhibición** (5 min): Coloca el mapa en un lugar visible de la escuela.
+3. **Creación** (20 min): Prepará un mapa de tu pueblo/ciudad con acciones de adaptación.
+4. **Exhibición** (5 min): Colocá el mapa en un lugar visible de la escuela.
 
 ## Cierre
 - ¿Cómo está afectando el cambio climático a tu área?
 - ¿Qué acciones de adaptación son necesarias?
-- ¿Qué puedes hacer para contribuir?
+- ¿Qué podés hacer para contribuir?
 
 ---
 ## Texto original completo de la actividad
@@ -178,16 +178,3 @@ nivel 3 2
 ALERTA DE OBJETIVO - Esta actividad contribuye al ODS sobre Acción por el Clima.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

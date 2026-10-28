@@ -1,9 +1,9 @@
 ---
-title: "Camina o usa bicicleta"
+title: "Caminá o Usá Bicicleta"
 duration: "Proyecto de 1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/camina-o-usa-bicicleta/"
-description: "Camina o usa tu bicicleta para ir a la escuela o al trabajo."
+description: "Caminá o usá tu bicicleta para ir a la escuela o al trabajo."
 summary: "Transporte sostenible."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/camina-o-usa-bicicleta.png"
+image: "/imagenes/actividades/camina-o-usa-bicicleta.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,25 +146,25 @@ rama_rovers:
   - 4  # Disfruto de las oportunidades que brinda la vida en la naturaleza.
 ---
 
-# ¡Camina o usa bicicleta!
+# ¡Caminá o Usá Bicicleta!
 
 ## Resumen
-Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
+Caminá o usá tu bicicleta para ir a la escuela o al trabajo durante al menos un mes.
 
 ## Preparación
-- Planifica una ruta segura.
-- Asegúrate de que el clima lo permita.
-- Habla con tus padres sobre el proyecto.
+- Planificá una ruta segura.
+- Asegurate de que el clima lo permita.
+- Hablá con tus padres sobre el proyecto.
 
 ## Desarrollo
-1. **Compromiso** (5 min): Decide caminar o usar bicicleta.
-2. **Acción** (1 mes): Usa transporte sostenible.
-3. **Alternativas** (continua): Usa transporte público o comparte auto si no es posible.
+1. **Compromiso** (5 min): Decidí caminar o usar bicicleta.
+2. **Acción** (1 mes): Usá transporte sostenible.
+3. **Alternativas** (continua): Usá transporte público o compartí auto si no es posible.
 
 ## Cierre
 - ¿Cómo te sentiste al caminar o andar en bicicleta?
 - ¿Qué cambios notaste en tu día?
-- ¿Cómo te sientes al reducir tu impacto?
+- ¿Cómo te sentís al reducir tu impacto?
 
 ---
 ## Texto original completo de la actividad
@@ -174,16 +174,3 @@ Camina o usa tu bicicleta para ir a la escuela o al trabajo durante al menos un 
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

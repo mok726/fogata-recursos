@@ -3,8 +3,8 @@ title: "Meditaciones en el Museo"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/meditaciones-en-el-museo/"
-description: "Visita un museo para observar esculturas y vasijas de arcilla."
-summary: "Visita a un museo de arte."
+description: "Visitá un museo para observar esculturas y vasijas de arcilla."
+summary: "Visitá a un museo de arte."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/meditaciones-en-el-museo.png"
+image: "/imagenes/actividades/meditaciones-en-el-museo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno, bolígrafos
+  - Cuaderno, lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -145,17 +145,17 @@ rama_rovers:
 # ¡Meditaciones en el Museo!
 
 ## Resumen
-Visita un museo de arte local para observar esculturas y vasijas de arcilla.
+Visitá un museo de arte local para observar esculturas y vasijas de arcilla.
 
 ## Preparación
-1. Organiza una visita a un museo de arte local.
-2. Prepara preguntas para el personal del museo.
+1. Organizá una visita a un museo de arte local.
+2. Prepará preguntas para el personal del museo.
 
 ## Desarrollo
-1. **Visita** (30 min): Observa las esculturas y vasijas.
+1. **Visita** (30 min): Observá las esculturas y vasijas.
 2. **Investigación** (15 min): ¿Qué tipo de suelo se usó?
 3. **Reflexión** (10 min): ¿Qué te dice sobre la civilización que las creó?
-4. **Discusión** (5 min): Comparte tus reflexiones.
+4. **Discusión** (5 min): Compartí tus reflexiones.
 
 ## Cierre
 - ¿Qué pieza te gustó más?
@@ -169,16 +169,3 @@ Visita un museo de arte local para observar esculturas y vasijas de arcilla.
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

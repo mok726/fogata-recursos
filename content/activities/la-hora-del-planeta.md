@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-hora-del-planeta.png"
+image: "/imagenes/actividades/la-hora-del-planeta.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -169,18 +169,18 @@ rama_rovers:
 La Hora del Planeta es un evento mundial de concientización sobre el cambio climático y el consumo de energía. Se lleva a cabo un sábado de marzo cada año. Para la Hora del Planeta, muchas personas apagan sus luces y participan en actividades que no requieren electricidad.
 
 ## Preparación
-1. Investiga si ya existe un evento de la Hora del Planeta en tu comunidad.
+1. Investigá si ya existe un evento de la Hora del Planeta en tu comunidad.
 2. Si no existe, planifica tu propio evento.
-3. Prepara actividades sin electricidad.
+3. Prepará actividades sin electricidad.
 
 ## Desarrollo
 1. Únete al evento de la Hora del Planeta en tu comunidad.
-2. Si eliges planificar tu propio evento, puedes elegir el día que se celebra la Hora del Planeta o un día que tú elijas.
-3. Participa en actividades sin electricidad durante una hora.
+2. Si elegís planificar tu propio evento, podés elegir el día que se celebra la Hora del Planeta o un día que vos elijas.
+3. Participá en actividades sin electricidad durante una hora.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Cómo te sentiste al estar sin electricidad por una hora?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Cómo te sentiste al estar sin electricidad por una hora?
 3. Pregunta final: ¿Qué aprendiste sobre tu consumo de energía?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ E.10 La Hora del Planeta. La Hora del Planeta es un evento mundial de concientiz
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

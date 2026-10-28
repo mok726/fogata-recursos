@@ -3,7 +3,7 @@ title: "Presiones Pintadas"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/presiones-pintadas/"
-description: "Crea arte para mostrar las diferentes presiones que enfrentan los suministros de agua."
+description: "Creá arte para mostrar las diferentes presiones que enfrentan los suministros de agua."
 summary: "Arte sobre las presiones del agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/presiones-pintadas.png"
+image: "/imagenes/actividades/presiones-pintadas.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -155,7 +155,7 @@ rama_rovers:
 # ¡Presiones Pintadas!
 
 ## Resumen
-Crea arte en grupo para mostrar las diferentes presiones que enfrentan los suministros de agua (población, urbanización, contaminación, cambio climático, mala gestión).
+Creá arte en grupo para mostrar las diferentes presiones que enfrentan los suministros de agua (población, urbanización, contaminación, cambio climático, mala gestión).
 
 ## Preparación
 1. Divídanse en pequeños grupos.
@@ -163,10 +163,10 @@ Crea arte en grupo para mostrar las diferentes presiones que enfrentan los sumin
 3. Reúnen materiales de arte.
 
 ## Desarrollo
-1. **Selección** (5 min): Elige el tipo de presión a representar.
-2. **Creación** (30 min): Haz un póster, pintura o collage.
-3. **Exhibición** (20 min): Presenta una exhibición para la comunidad.
-4. **Discusión** (5 min): Habla sobre el impacto de cada presión.
+1. **Selección** (5 min): Elegí el tipo de presión a representar.
+2. **Creación** (30 min): Hacé un póster, pintura o collage.
+3. **Exhibición** (20 min): Presentá una exhibición para la comunidad.
+4. **Discusión** (5 min): Hablá sobre el impacto de cada presión.
 
 ## Cierre
 - ¿Qué presión te parece más grave?
@@ -181,16 +181,3 @@ Crea arte en grupo para mostrar las diferentes presiones que enfrentan los sumin
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

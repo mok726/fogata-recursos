@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La escala de pH"
+title: "La Escala de pH"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/escala-de-ph/"
 description: "Los participantes aprenden sobre la escala de pH y cómo la acidez del agua puede afectar a los seres vivos y al medio ambiente."
-summary: "Descubre cómo medir la acidez del agua."
+summary: "Descubrí cómo medir la acidez del agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/escala-de-ph.png"
+image: "/imagenes/actividades/escala-de-ph.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -169,21 +169,21 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡La escala de pH!
+# ¡La Escala de pH!
 
 ## Resumen
 Todos los líquidos tienen un nivel de pH. El pH (potencial de Hidrógeno) es un indicador de la acidez o alcalinidad del agua. El agua que es ácida puede tener varios efectos negativos. En esta actividad, los participantes prueban el pH de diferentes sustancias.
 
 ## Preparación
-1. Reúne los materiales para el experimento.
-2. Recuerda a los participantes que están realizando pruebas científicas y que nunca deben beber una sustancia desconocida.
-3. Demuestra cómo realizar una prueba de pH y cómo leer los resultados.
+1. Reuní los materiales para el experimento.
+2. Recordá a los participantes que están realizando pruebas científicas y que nunca deben beber una sustancia desconocida.
+3. Demostrá cómo realizar una prueba de pH y cómo leer los resultados.
 
 ## Desarrollo
 
 ### Parte I - Preparación
-1. Divide a los participantes en siete grupos.
-2. Asigna una de las siguientes sustancias a cada grupo: vinagre, jugo de naranja, café, leche, agua, bicarbonato de sodio, leche de magnesia.
+1. Dividí a los participantes en siete grupos.
+2. Asigná una de las siguientes sustancias a cada grupo: vinagre, jugo de naranja, café, leche, agua, bicarbonato de sodio, leche de magnesia.
 3. Cada grupo mide 1 cucharada de su sustancia en un vaso separado.
 
 ### Parte II - Prueba
@@ -205,7 +205,7 @@ Registren los resultados en la tabla:
 **Opcional:** También pueden probar el pH del arroyo más cercano y cómo varía desde su fuente hasta su desembocadura.
 
 ### Parte IV - Reflexión
-Muchas fábricas queman combustibles fósiles como carbón, petróleo y gas, que liberan dióxido de azufre y óxido nitroso al aire. Cuando estos productos químicos se mezclan con la precipitación, caen como lluvia ácida. ¿Cómo creen los participantes que la lluvia ácida afectará a su comunidad?
+Muchas fábricas queman combustibles fósiles como carbón, petróleo y gas, que liberan dióxido de azufre y óxidos de nitrógeno al aire. Cuando estos productos químicos se mezclan con la precipitación, caen como lluvia ácida. ¿Cómo creen los participantes que la lluvia ácida afectará a su comunidad?
 
 ## Cierre
 - ¿Cuánta variabilidad en el pH ves?
@@ -284,20 +284,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Fotografía de la naturaleza"
+title: "Fotografía de la Naturaleza"
 duration: "2 horas + exposición"
 layout: "layouts/activity.njk"
 permalink: "/activities/fotografia-de-la-naturaleza/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/fotografia-de-la-naturaleza.png"
+image: "/imagenes/actividades/fotografia-de-la-naturaleza.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Fotografía de la naturaleza!
+# ¡Fotografía de la Naturaleza!
 
 ## Resumen
 ¿Sabías que hay diferentes tipos de espacios verdes que contribuyen a una ciudad verde? Por ejemplo, techos verdes, jardines escolares, jardines comunitarios, parques, y más. Formá grupos y visitá un tipo específico de espacio verde para hacer fotografía de la naturaleza.
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

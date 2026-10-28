@@ -4,7 +4,7 @@ title: "Tala de Árboles"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/tala-de-arboles/"
-description: "Invita a alguien que trabaje en la industria de la tala de árboles para que hable en tu reunión. Aprende sobre prácticas sostenibles y cómo los consumidores pueden apoyarlas."
+description: "Invitá a alguien que trabaje en la industria de la tala de árboles para que hable en tu reunión. Aprendé sobre prácticas sostenibles y cómo los consumidores pueden apoyarlas."
 summary: "Investigación sobre tala sostenible y consumo responsable."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tala-de-arboles.png"
+image: "/imagenes/actividades/tala-de-arboles.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -168,36 +168,23 @@ rama_rovers:
 # Tala de Árboles
 
 ## Resumen
-Invita a alguien que trabaje en la industria de la tala de árboles para que hable en tu reunión. Aprende sobre prácticas sostenibles y cómo los consumidores pueden apoyarlas.
+Invitá a alguien que trabaje en la industria de la tala de árboles para que hable en tu reunión. Aprendé sobre prácticas sostenibles y cómo los consumidores pueden apoyarlas.
 
 ## Preparación
-1. Investiga sobre la industria de la tala y las prácticas sostenibles.
-2. Identifica a alguien que trabaje en el sector y que pueda ser invitado.
-3. Prepara preguntas para el invitado.
+1. Investigá sobre la industria de la tala y las prácticas sostenibles.
+2. Identificá a alguien que trabaje en el sector y que pueda ser invitado.
+3. Prepará preguntas para el invitado.
 
 ## Desarrollo
-1. **Investigación previa** (15 min): Aprende sobre la tala y su impacto.
-2. **Charla** (30 min): Invita al experto para que hable sobre su trabajo.
-3. **Preguntas** (15 min): Pregunta sobre prácticas sostenibles y cómo los consumidores pueden apoyarlas.
-4. **Reflexión** (15 min): Discute sobre cómo identificar productos de madera sostenibles.
+1. **Investigación previa** (15 min): Aprendé sobre la tala y su impacto.
+2. **Charla** (30 min): Invitá al experto para que hable sobre su trabajo.
+3. **Preguntas** (15 min): Preguntá sobre prácticas sostenibles y cómo los consumidores pueden apoyarlas.
+4. **Reflexión** (15 min): Discutí sobre cómo identificar productos de madera sostenibles.
 5. **Conclusión** (10 min): Resume los aprendizajes y compromisos.
 
 ## Cierre
 - ¿Qué aprendiste sobre la industria de la tala y las prácticas sostenibles?
-- ¿Cómo puedes identificar productos de madera sostenibles?
+- ¿Cómo podés identificar productos de madera sostenibles?
 - ¿Qué compromiso adquieres como consumidor?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

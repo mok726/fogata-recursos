@@ -1,9 +1,9 @@
 ---
-title: "Adopta un río o lago"
+title: "Adoptá un Río o Lago"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/adopta-un-rio-o-lago/"
-description: "Adopta un río, lago u otra área, límpialo y monitorea su recuperación."
+description: "Adoptá un río, lago u otra área, limpialo y monitoreá su recuperación."
 summary: "Adopción de área natural."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/adopta-un-rio-o-lago.png"
+image: "/imagenes/actividades/adopta-un-rio-o-lago.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -145,20 +145,20 @@ rama_rovers:
   - 37  # Valoro la naturaleza como una oportunidad de conexión.
 ---
 
-# ¡Adopta un río o lago!
+# ¡Adoptá un Río o Lago!
 
 ## Resumen
-Adopta un río, lago u otra área, límpialo y monitorea su recuperación.
+Adoptá un río, lago u otra área, limpialo y monitoreá su recuperación.
 
 ## Preparación
-1. Identifica un área para adoptar.
-2. Organiza la limpieza.
-3. Prepara materiales para monitoreo.
+1. Identificá un área para adoptar.
+2. Organizá la limpieza.
+3. Prepará materiales para monitoreo.
 
 ## Desarrollo
-1. **Limpieza** (1-2 horas): Limpia el área.
-2. **Monitoreo** (continua): Observa el progreso de recuperación.
-3. **Registro** (continua): Documenta los cambios.
+1. **Limpieza** (1-2 horas): Limpiá el área.
+2. **Monitoreo** (continua): Observá el progreso de recuperación.
+3. **Registro** (continua): Documentá los cambios.
 4. **Reflexión** (20 min): ¿Qué aprendiste?
 
 ## Cierre
@@ -174,16 +174,3 @@ Adopta un río, lago u otra área, límpialo y monitorea su recuperación.
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

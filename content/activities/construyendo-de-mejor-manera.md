@@ -3,7 +3,7 @@ title: "Construyendo de Mejor Manera"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/construyendo-de-mejor-manera/"
-description: "Diseña y construye un modelo de un edificio resiliente a todo tipo de amenazas."
+description: "Diseñá y construí un modelo de un edificio resiliente a todo tipo de amenazas."
 summary: "Modelo de edificio resiliente a desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/construyendo-de-mejor-manera.png"
+image: "/imagenes/actividades/construyendo-de-mejor-manera.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -157,17 +157,17 @@ rama_rovers:
 # ¡Construyendo de Mejor Manera!
 
 ## Resumen
-Diseña y construye un modelo de un 'súper edificio' que sea resiliente a todo tipo de amenazas.
+Diseñá y construí un modelo de un 'súper edificio' que sea resiliente a todo tipo de amenazas.
 
 ## Preparación
-1. Reúne materiales de manualidades (cartón espuma, arcilla, papel maché, etc.).
-2. Prepara el área de trabajo.
-3. Piensa en las características que harían un edificio resistente.
+1. Reuní materiales de manualidades (cartón espuma, arcilla, papel maché, etc.).
+2. Prepará el área de trabajo.
+3. Pensá en las características que harían un edificio resistente.
 
 ## Desarrollo
-1. **Diseño** (15 min): Dibuja el diseño de tu súper edificio.
-2. **Construcción** (35 min): Construye el modelo con los materiales.
-3. **Presentación** (10 min): Explica las características que lo hacen resiliente.
+1. **Diseño** (15 min): Dibujá el diseño de tu súper edificio.
+2. **Construcción** (35 min): Construí el modelo con los materiales.
+3. **Presentación** (10 min): Explicá las características que lo hacen resiliente.
 
 ## Cierre
 - ¿Qué características especiales tiene tu edificio?
@@ -182,16 +182,3 @@ Diseña y construye un modelo de un 'súper edificio' que sea resiliente a todo 
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

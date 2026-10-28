@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Biodegradable o no?"
+title: "¿Biodegradable o No?"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodegradable-o-no/"
 description: "Experimento práctico para descubrir qué objetos son biodegradables y cuáles no, enterrándolos en el suelo durante dos semanas."
-summary: "Descubre qué materiales se descomponen naturalmente."
+summary: "Descubrí qué materiales se descomponen naturalmente."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/biodegradable-o-no.png"
+image: "/imagenes/actividades/biodegradable-o-no.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -169,20 +169,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Biodegradable o no!
+# ¡Biodegradable o No!
 
 ## Resumen
-Conducto un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Entierra diferentes materiales en el suelo durante dos semanas y observa qué sucede con cada uno.
+Realizá un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Enterrá diferentes materiales en el suelo durante dos semanas y observá qué sucede con cada uno.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Reúne los objetos para el experimento.
-3. Elige un lugar en el jardín o patio donde puedas enterrar los objetos.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Reuní los objetos para el experimento.
+3. Elegí un lugar en el jardín o patio donde puedas enterrar los objetos.
 
 ## Desarrollo
 
 ### Parte I
-Reúne varios objetos como:
+Reuní varios objetos como:
 - Plato o envase de telgopor (Styrofoam)
 - Bolsa de plástico de supermercado
 - Cartón
@@ -192,13 +192,13 @@ Reúne varios objetos como:
 - Corazón de manzana
 
 ### Parte II
-Cava pequeños agujeros en la tierra (con supervisión de un adulto). Entierra cada objeto por separado y etiqueta cada lugar para saber qué hay enterrado ahí.
+Cavá pequeños agujeros en la tierra (con supervisión de un adulto). Enterrá cada objeto por separado y etiqueta cada lugar para saber qué hay enterrado ahí.
 
 ### Parte III
-Espera **dos semanas**. Durante este tiempo, revisa el área periódicamente.
+Esperá **dos semanas**. Durante este tiempo, revisá el área periódicamente.
 
 ### Parte IV
-Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examínalas.
+Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examinalas.
 
 **Preguntas para reflexionar:**
 - ¿Qué objetos se descompusieron más?
@@ -208,8 +208,8 @@ Pasadas las dos semanas, desentierra cuidadosamente cada muestra y examínalas.
 
 ## Cierre
 1. ¿Qué material te sorprendió más por su capacidad de descomposición?
-2. ¿Por qué es importante que los plásticos no sean biodegradables?
-3. ¿Qué alternativas a los plásticos no biodegradables conoces?
+2. ¿Por qué es un problema que los plásticos no sean biodegradables?
+3. ¿Qué alternativas a los plásticos no biodegradables conocés?
 
 ## Texto original completo de la actividad
 
@@ -243,20 +243,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

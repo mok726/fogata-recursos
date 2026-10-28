@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Explicación multisensorial"
+title: "Explicación Multisensorial"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/explicacion-multisensorial/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/explicacion-multisensorial.png"
+image: "/imagenes/actividades/explicacion-multisensorial.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,25 +160,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Explicación multisensorial!
+# ¡Explicación Multisensorial!
 
 ## Resumen
-Inventa una forma de explicar la biodiversidad y sus tres componentes usando por lo menos dos sentidos. Por ejemplo, haz un video con fotografías y sonido o crea un juego donde los participantes aprendan acerca de la biodiversidad a través del gusto y el tacto.
+Inventá una forma de explicar la biodiversidad y sus tres componentes usando por lo menos dos sentidos. Por ejemplo, hacé un video con fotografías y sonido o creá un juego donde los participantes aprendan acerca de la biodiversidad a través del gusto y el tacto.
 
 ## Preparación
-1. Investiga sobre los tres componentes de la biodiversidad.
-2. Prepara materiales para la actividad multisensorial.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre los tres componentes de la biodiversidad.
+2. Prepará materiales para la actividad multisensorial.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Piensa en cómo explicar la biodiversidad usando al menos dos sentidos.
-2. Crea un video, juego o actividad que involucre múltiples sentidos.
-3. Explica la biodiversidad a tus profesores, dirigentes o grupo.
-4. Responde preguntas sobre la interacción de los componentes.
+1. Pensá en cómo explicar la biodiversidad usando al menos dos sentidos.
+2. Creá un video, juego o actividad que involucre múltiples sentidos.
+3. Explicá la biodiversidad a tus profesores, dirigentes o grupo.
+4. Respondé preguntas sobre la interacción de los componentes.
 
 ## Cierre
-1. Presenta tu creación al grupo.
-2. Reflexiona sobre el aprendizaje multisensorial.
+1. Presentá tu creación al grupo.
+2. Reflexioná sobre el aprendizaje multisensorial.
 3. Pregunta final: ¿Qué sentido fue más útil para entender la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ D.12 Inventa una forma de explicar la biodiversidad y sus tres componentes usand
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

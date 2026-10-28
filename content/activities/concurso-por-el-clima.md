@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Concurso por el clima"
+title: "Concurso por el Clima"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-por-el-clima/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/concurso-por-el-clima.png"
+image: "/imagenes/actividades/concurso-por-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -161,16 +161,16 @@ rama_rovers:
   - 3  # Organizo y administro el tiempo y recursos
 ---
 
-# ¡Concurso por el clima!
+# ¡Concurso por el Clima!
 
 ## Resumen
-Organiza un concurso para ver quién puede hacer la mayor cantidad de cambios en sus vidas diarias para ser más verdes y más eficientes energéticamente.
+Organizá un concurso para ver quién puede hacer la mayor cantidad de cambios en sus vidas diarias para ser más verdes y más eficientes energéticamente.
 
 ## Preparación
-1. Lee la sección de Toma Acción (p. 88) para obtener ideas.
-2. Prepara una lista de control para cada participante.
-3. Define las reglas del concurso.
-4. Prepara un premio para el ganador.
+1. Leé la sección de Toma Acción (p. 88) para obtener ideas.
+2. Prepará una lista de control para cada participante.
+3. Definí las reglas del concurso.
+4. Prepará un premio para el ganador.
 
 ## Desarrollo
 1. Cada participante elige acciones sostenibles para implementar.
@@ -179,8 +179,8 @@ Organiza un concurso para ver quién puede hacer la mayor cantidad de cambios en
 4. Identifiquen quién es el ganador.
 
 ## Cierre
-1. Celebra al ganador con un premio.
-2. Reflexiona: ¿Qué cambios fueron más fáciles y cuáles más difíciles?
+1. Celebrá al ganador con un premio.
+2. Reflexioná: ¿Qué cambios fueron más fáciles y cuáles más difíciles?
 3. Pregunta final: ¿Qué cambios vas a mantener a largo plazo?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ E.02 CONCURSO POR EL CLIMA. Organiza un concurso para ver quién puede hacer la 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

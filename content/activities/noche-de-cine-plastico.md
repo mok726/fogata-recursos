@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Noche de cine"
+title: "Noche de Cine"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/noche-de-cine-plastico/"
 description: "Una actividad audiovisual para sensibilizar a los jóvenes sobre la contaminación plástica, mediante la proyección de cortometrajes educativos que muestran el impacto del plástico en los océanos y ecosistemas."
-summary: "Aprende sobre la contaminación plástica viendo cortometrajes."
+summary: "Aprendé sobre la contaminación plástica viendo cortometrajes."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - World Scout Bureau - Tide Turners Plastic Challenge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/noche-de-cine-plastico.png"
+image: "/imagenes/actividades/noche-de-cine-plastico.jpg"
 original: false
 Origin: "Tide Turners Plastic Challenge - WSB/UNEP"
 version: "0.99"
@@ -30,7 +30,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Pantalla de TV o teléfono móvil
+  - Pantalla de TV o celular
   - Conexión a internet
   - Opcional: proyector y equipo de sonido
 tools: []
@@ -168,7 +168,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y todas las especies
 ---
 
-# ¡Noche de cine!
+# ¡Noche de Cine!
 
 ## Resumen
 Una forma divertida y educativa para que los participantes aprendan más sobre el problema de la contaminación plástica. A través de cortometrajes impactantes, los jóvenes descubrirán cómo el plástico está afectando a los océanos y a la vida marina, y reflexionarán sobre su propio consumo de plásticos.
@@ -198,7 +198,7 @@ Una forma divertida y educativa para que los participantes aprendan más sobre e
 ### Parte II - Discusión (15-20 minutos)
 1. Preguntar a los participantes:
    - ¿Qué fue lo que más te impactó de los videos?
-   - ¿Cómo crees que el plástico afecta a los animales marinos?
+   - ¿Cómo creés que el plástico afecta a los animales marinos?
    - ¿Qué podemos hacer para reducir el uso de plásticos?
 2. Anotar las ideas principales en un pizarrón o papelógrafo.
 
@@ -208,8 +208,8 @@ Una forma divertida y educativa para que los participantes aprendan más sobre e
 
 ## Cierre
 1. ¿Qué aprendiste hoy sobre la contaminación plástica?
-2. ¿Cómo te sientes después de ver estas imágenes?
-3. ¿Qué cambios puedes hacer en tu vida para ayudar a reducir el plástico?
+2. ¿Cómo te sentís después de ver estas imágenes?
+3. ¿Qué cambios podés hacer en tu vida para ayudar a reducir el plástico?
 
 ## Texto original completo de la actividad
 
@@ -240,18 +240,3 @@ Los participantes pueden mostrar ambas películas a sus padres y amigos y presen
 World Scout Bureau. 2020. Tide Turners Plastic Challenge - Kit de Acción. scout.org
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido
-- [x] Todas las ramas incluidas

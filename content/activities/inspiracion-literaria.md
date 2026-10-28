@@ -4,7 +4,7 @@ title: "Inspiración Literaria"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/inspiracion-literaria/"
-description: "Lee poemas, historias u obras de teatro sobre los bosques. Comparte tus respuestas y escribe tu propia obra inspirada en el bosque."
+description: "Leé poemas, historias u obras de teatro sobre los bosques. Compartí tus respuestas y escribí tu propia obra inspirada en el bosque."
 summary: "Análisis y creación literaria inspirada en bosques."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/inspiracion-literaria.png"
+image: "/imagenes/actividades/inspiracion-literaria.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -170,17 +170,17 @@ rama_rovers:
 # Inspiración Literaria
 
 ## Resumen
-Lee poemas, historias u obras de teatro sobre los bosques. Comparte tus respuestas y escribe tu propia obra inspirada en el bosque.
+Leé poemas, historias u obras de teatro sobre los bosques. Compartí tus respuestas y escribí tu propia obra inspirada en el bosque.
 
 ## Preparación
-1. Reúne poemas, historias u obras de teatro sobre bosques.
-2. Prepara material para escribir.
+1. Reuní poemas, historias u obras de teatro sobre bosques.
+2. Prepará material para escribir.
 
 ## Desarrollo
-1. **Lectura** (20 min): Lee los textos seleccionados.
-2. **Análisis** (15 min): Reflexiona sobre cómo describe el bosque el autor y qué palabras usa.
-3. **Respuesta** (15 min): Comparte tus respuestas con el grupo.
-4. **Creación** (20 min): Escribe tu propio poema, historia u obra de teatro inspirada en el bosque.
+1. **Lectura** (20 min): Leé los textos seleccionados.
+2. **Análisis** (15 min): Reflexioná sobre cómo describe el bosque el autor y qué palabras usa.
+3. **Respuesta** (15 min): Compartí tus respuestas con el grupo.
+4. **Creación** (20 min): Escribí tu propio poema, historia u obra de teatro inspirada en el bosque.
 
 ## Cierre
 - ¿Qué aprendiste sobre la representación literaria de los bosques?
@@ -188,16 +188,3 @@ Lee poemas, historias u obras de teatro sobre los bosques. Comparte tus respuest
 - ¿Qué compromiso adquieres para seguir explorando la literatura y la naturaleza?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

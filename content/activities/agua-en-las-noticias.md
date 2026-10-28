@@ -5,7 +5,7 @@ duration: "1 hora (15 min explicación + 40 min revisión)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-en-las-noticias/"
 description: "Los participantes crean un álbum de recortes con artículos y fotografías sobre el agua, reflexionando sobre su importancia y presencia en los medios."
-summary: "Crea un álbum de recortes sobre el agua."
+summary: "Creá un álbum de recortes sobre el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/agua-en-las-noticias.png"
+image: "/imagenes/actividades/agua-en-las-noticias.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -174,30 +174,30 @@ translation_notice:
 El agua está en todas partes y es un tema constante en las noticias. En esta actividad, los participantes crean su propio álbum de recortes sobre el agua, recolectando artículos y fotografías de periódicos y revistas relacionados con la disponibilidad y los usos del agua.
 
 ## Preparación
-1. Reúne periódicos y revistas para que los participantes puedan buscar artículos.
-2. Prepara los materiales de arte (tijeras, pegamento, lápices de colores).
+1. Reuní periódicos y revistas para que los participantes puedan buscar artículos.
+2. Prepará los materiales de arte (tijeras, pegamento, lápices de colores).
 
 ## Desarrollo
 
 ### Paso 1: Explicación de la tarea
-1. Explica a los participantes que van a hacer su propio álbum de recortes sobre el agua, para que siempre puedan recordar por qué el agua es tan importante para los seres humanos.
+1. Explicá a los participantes que van a hacer su propio álbum de recortes sobre el agua, para que siempre puedan recordar por qué el agua es tan importante para los seres humanos.
 2. Los participantes pueden hacer esto como tarea para casa o durante la reunión.
 
 ### Paso 2: Búsqueda de artículos
-3. Pídeles que busquen artículos y fotografías relacionados con el agua en periódicos y revistas. Deben estar relacionados con la disponibilidad y los usos del agua.
-4. Anima a los participantes a buscar diferentes temas: conservación, contaminación, acceso al agua, eventos relacionados con el agua, etc.
+3. Pediles que busquen artículos y fotografías relacionados con el agua en periódicos y revistas. Deben estar relacionados con la disponibilidad y los usos del agua.
+4. Animá a los participantes a buscar diferentes temas: conservación, contaminación, acceso al agua, eventos relacionados con el agua, etc.
 
 ### Paso 3: Creación del álbum
-5. Pide a los participantes que peguen los artículos y fotografías en su cuaderno o en hojas de papel, creando un álbum temático.
+5. Pedí a los participantes que peguen los artículos y fotografías en su cuaderno o en hojas de papel, creando un álbum temático.
 6. Pueden agregar dibujos, títulos y comentarios sobre cada artículo.
 
 ### Paso 4: Presentación
-7. Pide a cada participante que presente su álbum al resto del grupo.
+7. Pedí a cada participante que presente su álbum al resto del grupo.
 
 ## Cierre
 - ¿Cuál fue tu artículo favorito? ¿Por qué?
 - ¿Había algunos temas comunes? ¿De qué trataban?
-- ¿Por qué crees que el agua está siempre en las noticias?
+- ¿Por qué creés que el agua está siempre en las noticias?
 
 ## Texto original completo de la actividad
 
@@ -255,21 +255,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-15 años, niveles 1-2)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[20,32], scouts[26,40], caminantes[25,36], rovers[8,23])

@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Campaña de concientización energética"
+title: "Campaña de Concientización Energética"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-concientizacion-energetica/"
-description: "Planifica y lleva a cabo una campaña de concientización sobre energía en tu comunidad para educar a otros sobre el uso sostenible de la energía."
+description: "Planificá y lleva a cabo una campaña de concientización sobre energía en tu comunidad para educar a otros sobre el uso sostenible de la energía."
 summary: "Educa a tu comunidad sobre energía."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/campana-concientizacion-energetica.png"
+image: "/imagenes/actividades/campana-concientizacion-energetica.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -163,20 +163,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Campaña de concientización energética!
+# ¡Campaña de Concientización Energética!
 
 ## Resumen
-Una campaña es cuando las personas trabajan juntas para alcanzar un objetivo común. Piensa en una campaña energética que puedas hacer en tu comunidad para promover el uso sostenible de la energía.
+Una campaña es cuando las personas trabajan juntas para alcanzar un objetivo común. Pensá en una campaña energética que puedas hacer en tu comunidad para promover el uso sostenible de la energía.
 
 ## Preparación
-1. Lee la sección de información de fondo sobre acción energética.
-2. Identifica un objetivo para tu campaña.
-3. Reúne materiales para carteles y folletos.
+1. Leé la sección de información de fondo sobre acción energética.
+2. Identificá un objetivo para tu campaña.
+3. Reuní materiales para carteles y folletos.
 
 ## Desarrollo
 
 ### Parte I - Planificación
-Elige un objetivo para tu campaña:
+Elegí un objetivo para tu campaña:
 
 **Ideas:**
 - Aumentar el uso de botellas reutilizables en la escuela
@@ -184,14 +184,14 @@ Elige un objetivo para tu campaña:
 - Promover el ahorro de energía en la escuela o centro comunitario
 
 ### Parte II - Creatividad
-Crea un plan creativo para lograr tu objetivo:
+Creá un plan creativo para lograr tu objetivo:
 - Carteles
 - Folletos
 - Publicaciones en redes sociales
 - Charlas o presentaciones
 
 ### Parte III - Ejecución
-Lleva a cabo tu campaña en la comunidad.
+Llevá a cabo tu campaña en la comunidad.
 
 ### Parte IV - Evaluación
 ¿Lograste tu objetivo? ¿Qué funcionó? ¿Qué podrías mejorar?
@@ -229,20 +229,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

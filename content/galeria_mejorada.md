@@ -517,7 +517,7 @@
 
 ### a-desempolvar-los-libros-viejos.png
 
-![a-desempolvar-los-libros-viejos.png](/fogata-recursos/imagenes/actividades/a-desempolvar-los-libros-viejos.png)
+![a-desempolvar-los-libros-viejos.png](/fogata-recursos/imagenes/actividades/a-desempolvar-los-libros-viejos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -525,7 +525,7 @@
 - **Nombre del archivo:** `a-desempolvar-los-libros-viejos.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/a-desempolvar-los-libros-viejos.png`
+- **Ruta completa:** `imagenes/actividades/a-desempolvar-los-libros-viejos.jpg`
 - **Tipo:** png
 
 </details>
@@ -538,7 +538,7 @@
 
 ### a-donde-va-el-agua.png
 
-![a-donde-va-el-agua.png](/fogata-recursos/imagenes/actividades/a-donde-va-el-agua.png)
+![a-donde-va-el-agua.png](/fogata-recursos/imagenes/actividades/a-donde-va-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -546,7 +546,7 @@
 - **Nombre del archivo:** `a-donde-va-el-agua.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/a-donde-va-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/a-donde-va-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -559,7 +559,7 @@
 
 ### a-todos-nos-gusta-el-agua.png
 
-![a-todos-nos-gusta-el-agua.png](/fogata-recursos/imagenes/actividades/a-todos-nos-gusta-el-agua.png)
+![a-todos-nos-gusta-el-agua.png](/fogata-recursos/imagenes/actividades/a-todos-nos-gusta-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -567,7 +567,7 @@
 - **Nombre del archivo:** `a-todos-nos-gusta-el-agua.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/a-todos-nos-gusta-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/a-todos-nos-gusta-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -601,7 +601,7 @@
 
 ### acuerdos-internacionales.png
 
-![acuerdos-internacionales.png](/fogata-recursos/imagenes/actividades/acuerdos-internacionales.png)
+![acuerdos-internacionales.png](/fogata-recursos/imagenes/actividades/acuerdos-internacionales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -609,7 +609,7 @@
 - **Nombre del archivo:** `acuerdos-internacionales.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/acuerdos-internacionales.png`
+- **Ruta completa:** `imagenes/actividades/acuerdos-internacionales.jpg`
 - **Tipo:** png
 
 </details>
@@ -622,7 +622,7 @@
 
 ### adaptaciones-acuaticas.png
 
-![adaptaciones-acuaticas.png](/fogata-recursos/imagenes/actividades/adaptaciones-acuaticas.png)
+![adaptaciones-acuaticas.png](/fogata-recursos/imagenes/actividades/adaptaciones-acuaticas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -630,7 +630,7 @@
 - **Nombre del archivo:** `adaptaciones-acuaticas.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/adaptaciones-acuaticas.png`
+- **Ruta completa:** `imagenes/actividades/adaptaciones-acuaticas.jpg`
 - **Tipo:** png
 
 </details>
@@ -643,7 +643,7 @@
 
 ### adivina-el-ods.png
 
-![adivina-el-ods.png](/fogata-recursos/imagenes/actividades/adivina-el-ods.png)
+![adivina-el-ods.png](/fogata-recursos/imagenes/actividades/adivina-el-ods.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -651,7 +651,7 @@
 - **Nombre del archivo:** `adivina-el-ods.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/adivina-el-ods.png`
+- **Ruta completa:** `imagenes/actividades/adivina-el-ods.jpg`
 - **Tipo:** png
 
 </details>
@@ -664,7 +664,7 @@
 
 ### adivinanzas-sobre-el-clima.png
 
-![adivinanzas-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/adivinanzas-sobre-el-clima.png)
+![adivinanzas-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/adivinanzas-sobre-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -672,7 +672,7 @@
 - **Nombre del archivo:** `adivinanzas-sobre-el-clima.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/adivinanzas-sobre-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/adivinanzas-sobre-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -685,7 +685,7 @@
 
 ### adopcion-de-area-natural.png
 
-![adopcion-de-area-natural.png](/fogata-recursos/imagenes/actividades/adopcion-de-area-natural.png)
+![adopcion-de-area-natural.png](/fogata-recursos/imagenes/actividades/adopcion-de-area-natural.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -693,7 +693,7 @@
 - **Nombre del archivo:** `adopcion-de-area-natural.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/adopcion-de-area-natural.png`
+- **Ruta completa:** `imagenes/actividades/adopcion-de-area-natural.jpg`
 - **Tipo:** png
 
 </details>
@@ -706,7 +706,7 @@
 
 ### adoptar-un-rio-o-lago.png
 
-![adoptar-un-rio-o-lago.png](/fogata-recursos/imagenes/actividades/adoptar-un-rio-o-lago.png)
+![adoptar-un-rio-o-lago.png](/fogata-recursos/imagenes/actividades/adoptar-un-rio-o-lago.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -714,7 +714,7 @@
 - **Nombre del archivo:** `adoptar-un-rio-o-lago.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/adoptar-un-rio-o-lago.png`
+- **Ruta completa:** `imagenes/actividades/adoptar-un-rio-o-lago.jpg`
 - **Tipo:** png
 
 </details>
@@ -727,7 +727,7 @@
 
 ### agricultores-del-bosque.png
 
-![agricultores-del-bosque.png](/fogata-recursos/imagenes/actividades/agricultores-del-bosque.png)
+![agricultores-del-bosque.png](/fogata-recursos/imagenes/actividades/agricultores-del-bosque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -735,7 +735,7 @@
 - **Nombre del archivo:** `agricultores-del-bosque.png`
 - **Tamaño:** 102K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/agricultores-del-bosque.png`
+- **Ruta completa:** `imagenes/actividades/agricultores-del-bosque.jpg`
 - **Tipo:** png
 
 </details>
@@ -748,7 +748,7 @@
 
 ### agua-alrededor-del-mundo.png
 
-![agua-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/agua-alrededor-del-mundo.png)
+![agua-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/agua-alrededor-del-mundo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -756,7 +756,7 @@
 - **Nombre del archivo:** `agua-alrededor-del-mundo.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/agua-alrededor-del-mundo.png`
+- **Ruta completa:** `imagenes/actividades/agua-alrededor-del-mundo.jpg`
 - **Tipo:** png
 
 </details>
@@ -769,7 +769,7 @@
 
 ### agua-invisible.png
 
-![agua-invisible.png](/fogata-recursos/imagenes/actividades/agua-invisible.png)
+![agua-invisible.png](/fogata-recursos/imagenes/actividades/agua-invisible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -777,7 +777,7 @@
 - **Nombre del archivo:** `agua-invisible.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/agua-invisible.png`
+- **Ruta completa:** `imagenes/actividades/agua-invisible.jpg`
 - **Tipo:** png
 
 </details>
@@ -790,7 +790,7 @@
 
 ### agua-pura-metodo-sodis.png
 
-![agua-pura-metodo-sodis.png](/fogata-recursos/imagenes/actividades/agua-pura-metodo-sodis.png)
+![agua-pura-metodo-sodis.png](/fogata-recursos/imagenes/actividades/agua-pura-metodo-sodis.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -798,7 +798,7 @@
 - **Nombre del archivo:** `agua-pura-metodo-sodis.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/agua-pura-metodo-sodis.png`
+- **Ruta completa:** `imagenes/actividades/agua-pura-metodo-sodis.jpg`
 - **Tipo:** png
 
 </details>
@@ -811,7 +811,7 @@
 
 ### agua-sin-fronteras.png
 
-![agua-sin-fronteras.png](/fogata-recursos/imagenes/actividades/agua-sin-fronteras.png)
+![agua-sin-fronteras.png](/fogata-recursos/imagenes/actividades/agua-sin-fronteras.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -819,7 +819,7 @@
 - **Nombre del archivo:** `agua-sin-fronteras.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/agua-sin-fronteras.png`
+- **Ruta completa:** `imagenes/actividades/agua-sin-fronteras.jpg`
 - **Tipo:** png
 
 </details>
@@ -832,7 +832,7 @@
 
 ### aguas-en-literatura.png
 
-![aguas-en-literatura.png](/fogata-recursos/imagenes/actividades/aguas-en-literatura.png)
+![aguas-en-literatura.png](/fogata-recursos/imagenes/actividades/aguas-en-literatura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -840,7 +840,7 @@
 - **Nombre del archivo:** `aguas-en-literatura.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aguas-en-literatura.png`
+- **Ruta completa:** `imagenes/actividades/aguas-en-literatura.jpg`
 - **Tipo:** png
 
 </details>
@@ -853,7 +853,7 @@
 
 ### aguas-sucias.png
 
-![aguas-sucias.png](/fogata-recursos/imagenes/actividades/aguas-sucias.png)
+![aguas-sucias.png](/fogata-recursos/imagenes/actividades/aguas-sucias.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -861,7 +861,7 @@
 - **Nombre del archivo:** `aguas-sucias.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aguas-sucias.png`
+- **Ruta completa:** `imagenes/actividades/aguas-sucias.jpg`
 - **Tipo:** png
 
 </details>
@@ -874,7 +874,7 @@
 
 ### ahorrar-agua-caliente-y-energia.png
 
-![ahorrar-agua-caliente-y-energia.png](/fogata-recursos/imagenes/actividades/ahorrar-agua-caliente-y-energia.png)
+![ahorrar-agua-caliente-y-energia.png](/fogata-recursos/imagenes/actividades/ahorrar-agua-caliente-y-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -882,7 +882,7 @@
 - **Nombre del archivo:** `ahorrar-agua-caliente-y-energia.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ahorrar-agua-caliente-y-energia.png`
+- **Ruta completa:** `imagenes/actividades/ahorrar-agua-caliente-y-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -895,7 +895,7 @@
 
 ### al-blog.png
 
-![al-blog.png](/fogata-recursos/imagenes/actividades/al-blog.png)
+![al-blog.png](/fogata-recursos/imagenes/actividades/al-blog.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -903,7 +903,7 @@
 - **Nombre del archivo:** `al-blog.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/al-blog.png`
+- **Ruta completa:** `imagenes/actividades/al-blog.jpg`
 - **Tipo:** png
 
 </details>
@@ -916,7 +916,7 @@
 
 ### aliados-terrestres.png
 
-![aliados-terrestres.png](/fogata-recursos/imagenes/actividades/aliados-terrestres.png)
+![aliados-terrestres.png](/fogata-recursos/imagenes/actividades/aliados-terrestres.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -924,7 +924,7 @@
 - **Nombre del archivo:** `aliados-terrestres.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aliados-terrestres.png`
+- **Ruta completa:** `imagenes/actividades/aliados-terrestres.jpg`
 - **Tipo:** png
 
 </details>
@@ -937,7 +937,7 @@
 
 ### alimentador-de-aves-reciclado.png
 
-![alimentador-de-aves-reciclado.png](/fogata-recursos/imagenes/actividades/alimentador-de-aves-reciclado.png)
+![alimentador-de-aves-reciclado.png](/fogata-recursos/imagenes/actividades/alimentador-de-aves-reciclado.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -945,7 +945,7 @@
 - **Nombre del archivo:** `alimentador-de-aves-reciclado.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/alimentador-de-aves-reciclado.png`
+- **Ruta completa:** `imagenes/actividades/alimentador-de-aves-reciclado.jpg`
 - **Tipo:** png
 
 </details>
@@ -958,7 +958,7 @@
 
 ### alimentos-del-bosque.png
 
-![alimentos-del-bosque.png](/fogata-recursos/imagenes/actividades/alimentos-del-bosque.png)
+![alimentos-del-bosque.png](/fogata-recursos/imagenes/actividades/alimentos-del-bosque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -966,7 +966,7 @@
 - **Nombre del archivo:** `alimentos-del-bosque.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/alimentos-del-bosque.png`
+- **Ruta completa:** `imagenes/actividades/alimentos-del-bosque.jpg`
 - **Tipo:** png
 
 </details>
@@ -979,7 +979,7 @@
 
 ### alimentos-energeticos.png
 
-![alimentos-energeticos.png](/fogata-recursos/imagenes/actividades/alimentos-energeticos.png)
+![alimentos-energeticos.png](/fogata-recursos/imagenes/actividades/alimentos-energeticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -987,7 +987,7 @@
 - **Nombre del archivo:** `alimentos-energeticos.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/alimentos-energeticos.png`
+- **Ruta completa:** `imagenes/actividades/alimentos-energeticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1000,7 +1000,7 @@
 
 ### alimentos-locales.png
 
-![alimentos-locales.png](/fogata-recursos/imagenes/actividades/alimentos-locales.png)
+![alimentos-locales.png](/fogata-recursos/imagenes/actividades/alimentos-locales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1008,7 +1008,7 @@
 - **Nombre del archivo:** `alimentos-locales.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/alimentos-locales.png`
+- **Ruta completa:** `imagenes/actividades/alimentos-locales.jpg`
 - **Tipo:** png
 
 </details>
@@ -1021,7 +1021,7 @@
 
 ### alimentos-sedientos.png
 
-![alimentos-sedientos.png](/fogata-recursos/imagenes/actividades/alimentos-sedientos.png)
+![alimentos-sedientos.png](/fogata-recursos/imagenes/actividades/alimentos-sedientos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1029,7 +1029,7 @@
 - **Nombre del archivo:** `alimentos-sedientos.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/alimentos-sedientos.png`
+- **Ruta completa:** `imagenes/actividades/alimentos-sedientos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1042,7 +1042,7 @@
 
 ### alimentos-vs-combustible.png
 
-![alimentos-vs-combustible.png](/fogata-recursos/imagenes/actividades/alimentos-vs-combustible.png)
+![alimentos-vs-combustible.png](/fogata-recursos/imagenes/actividades/alimentos-vs-combustible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1050,7 +1050,7 @@
 - **Nombre del archivo:** `alimentos-vs-combustible.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/alimentos-vs-combustible.png`
+- **Ruta completa:** `imagenes/actividades/alimentos-vs-combustible.jpg`
 - **Tipo:** png
 
 </details>
@@ -1063,7 +1063,7 @@
 
 ### almuerzo-libre-de-basura.png
 
-![almuerzo-libre-de-basura.png](/fogata-recursos/imagenes/actividades/almuerzo-libre-de-basura.png)
+![almuerzo-libre-de-basura.png](/fogata-recursos/imagenes/actividades/almuerzo-libre-de-basura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1071,7 +1071,7 @@
 - **Nombre del archivo:** `almuerzo-libre-de-basura.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/almuerzo-libre-de-basura.png`
+- **Ruta completa:** `imagenes/actividades/almuerzo-libre-de-basura.jpg`
 - **Tipo:** png
 
 </details>
@@ -1084,7 +1084,7 @@
 
 ### amenazas-locales.png
 
-![amenazas-locales.png](/fogata-recursos/imagenes/actividades/amenazas-locales.png)
+![amenazas-locales.png](/fogata-recursos/imagenes/actividades/amenazas-locales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1092,7 +1092,7 @@
 - **Nombre del archivo:** `amenazas-locales.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/amenazas-locales.png`
+- **Ruta completa:** `imagenes/actividades/amenazas-locales.jpg`
 - **Tipo:** png
 
 </details>
@@ -1105,7 +1105,7 @@
 
 ### amenazas-naturales.png
 
-![amenazas-naturales.png](/fogata-recursos/imagenes/actividades/amenazas-naturales.png)
+![amenazas-naturales.png](/fogata-recursos/imagenes/actividades/amenazas-naturales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1113,7 +1113,7 @@
 - **Nombre del archivo:** `amenazas-naturales.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/amenazas-naturales.png`
+- **Ruta completa:** `imagenes/actividades/amenazas-naturales.jpg`
 - **Tipo:** png
 
 </details>
@@ -1126,7 +1126,7 @@
 
 ### analisis-de-suelos.png
 
-![analisis-de-suelos.png](/fogata-recursos/imagenes/actividades/analisis-de-suelos.png)
+![analisis-de-suelos.png](/fogata-recursos/imagenes/actividades/analisis-de-suelos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1134,7 +1134,7 @@
 - **Nombre del archivo:** `analisis-de-suelos.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/analisis-de-suelos.png`
+- **Ruta completa:** `imagenes/actividades/analisis-de-suelos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1147,7 +1147,7 @@
 
 ### anfibios-y-calidad-del-agua.png
 
-![anfibios-y-calidad-del-agua.png](/fogata-recursos/imagenes/actividades/anfibios-y-calidad-del-agua.png)
+![anfibios-y-calidad-del-agua.png](/fogata-recursos/imagenes/actividades/anfibios-y-calidad-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1155,7 +1155,7 @@
 - **Nombre del archivo:** `anfibios-y-calidad-del-agua.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/anfibios-y-calidad-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/anfibios-y-calidad-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -1168,7 +1168,7 @@
 
 ### anillos-anuales.png
 
-![anillos-anuales.png](/fogata-recursos/imagenes/actividades/anillos-anuales.png)
+![anillos-anuales.png](/fogata-recursos/imagenes/actividades/anillos-anuales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1176,7 +1176,7 @@
 - **Nombre del archivo:** `anillos-anuales.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/anillos-anuales.png`
+- **Ruta completa:** `imagenes/actividades/anillos-anuales.jpg`
 - **Tipo:** png
 
 </details>
@@ -1189,7 +1189,7 @@
 
 ### apoya-a-los-apicultores.png
 
-![apoya-a-los-apicultores.png](/fogata-recursos/imagenes/actividades/apoya-a-los-apicultores.png)
+![apoya-a-los-apicultores.png](/fogata-recursos/imagenes/actividades/apoya-a-los-apicultores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1197,7 +1197,7 @@
 - **Nombre del archivo:** `apoya-a-los-apicultores.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/apoya-a-los-apicultores.png`
+- **Ruta completa:** `imagenes/actividades/apoya-a-los-apicultores.jpg`
 - **Tipo:** png
 
 </details>
@@ -1210,7 +1210,7 @@
 
 ### aprender-a-coser-y-remendar-ropa.png
 
-![aprender-a-coser-y-remendar-ropa.png](/fogata-recursos/imagenes/actividades/aprender-a-coser-y-remendar-ropa.png)
+![aprender-a-coser-y-remendar-ropa.png](/fogata-recursos/imagenes/actividades/aprender-a-coser-y-remendar-ropa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1218,7 +1218,7 @@
 - **Nombre del archivo:** `aprender-a-coser-y-remendar-ropa.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aprender-a-coser-y-remendar-ropa.png`
+- **Ruta completa:** `imagenes/actividades/aprender-a-coser-y-remendar-ropa.jpg`
 - **Tipo:** png
 
 </details>
@@ -1231,7 +1231,7 @@
 
 ### aprender-a-hacer-jabon-natural.png
 
-![aprender-a-hacer-jabon-natural.png](/fogata-recursos/imagenes/actividades/aprender-a-hacer-jabon-natural.png)
+![aprender-a-hacer-jabon-natural.png](/fogata-recursos/imagenes/actividades/aprender-a-hacer-jabon-natural.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1239,7 +1239,7 @@
 - **Nombre del archivo:** `aprender-a-hacer-jabon-natural.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aprender-a-hacer-jabon-natural.png`
+- **Ruta completa:** `imagenes/actividades/aprender-a-hacer-jabon-natural.jpg`
 - **Tipo:** png
 
 </details>
@@ -1252,7 +1252,7 @@
 
 ### aprender-haciendo.png
 
-![aprender-haciendo.png](/fogata-recursos/imagenes/actividades/aprender-haciendo.png)
+![aprender-haciendo.png](/fogata-recursos/imagenes/actividades/aprender-haciendo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1260,7 +1260,7 @@
 - **Nombre del archivo:** `aprender-haciendo.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aprender-haciendo.png`
+- **Ruta completa:** `imagenes/actividades/aprender-haciendo.jpg`
 - **Tipo:** png
 
 </details>
@@ -1273,7 +1273,7 @@
 
 ### aprender-jugando.png
 
-![aprender-jugando.png](/fogata-recursos/imagenes/actividades/aprender-jugando.png)
+![aprender-jugando.png](/fogata-recursos/imagenes/actividades/aprender-jugando.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1281,7 +1281,7 @@
 - **Nombre del archivo:** `aprender-jugando.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aprender-jugando.png`
+- **Ruta completa:** `imagenes/actividades/aprender-jugando.jpg`
 - **Tipo:** png
 
 </details>
@@ -1294,7 +1294,7 @@
 
 ### aprender-sobre-alimentos-de-otro-pais.png
 
-![aprender-sobre-alimentos-de-otro-pais.png](/fogata-recursos/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png)
+![aprender-sobre-alimentos-de-otro-pais.png](/fogata-recursos/imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1302,7 +1302,7 @@
 - **Nombre del archivo:** `aprender-sobre-alimentos-de-otro-pais.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.png`
+- **Ruta completa:** `imagenes/actividades/aprender-sobre-alimentos-de-otro-pais.jpg`
 - **Tipo:** png
 
 </details>
@@ -1315,7 +1315,7 @@
 
 ### aprendiendo-sobre-la-plantacion-de-arboles.png
 
-![aprendiendo-sobre-la-plantacion-de-arboles.png](/fogata-recursos/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.png)
+![aprendiendo-sobre-la-plantacion-de-arboles.png](/fogata-recursos/imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1323,7 +1323,7 @@
 - **Nombre del archivo:** `aprendiendo-sobre-la-plantacion-de-arboles.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.png`
+- **Ruta completa:** `imagenes/actividades/aprendiendo-sobre-la-plantacion-de-arboles.jpg`
 - **Tipo:** png
 
 </details>
@@ -1336,7 +1336,7 @@
 
 ### arbol-de-deseos.png
 
-![arbol-de-deseos.png](/fogata-recursos/imagenes/actividades/arbol-de-deseos.png)
+![arbol-de-deseos.png](/fogata-recursos/imagenes/actividades/arbol-de-deseos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1344,7 +1344,7 @@
 - **Nombre del archivo:** `arbol-de-deseos.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arbol-de-deseos.png`
+- **Ruta completa:** `imagenes/actividades/arbol-de-deseos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1357,7 +1357,7 @@
 
 ### arbol-de-promesas-energeticas.png
 
-![arbol-de-promesas-energeticas.png](/fogata-recursos/imagenes/actividades/arbol-de-promesas-energeticas.png)
+![arbol-de-promesas-energeticas.png](/fogata-recursos/imagenes/actividades/arbol-de-promesas-energeticas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1365,7 +1365,7 @@
 - **Nombre del archivo:** `arbol-de-promesas-energeticas.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arbol-de-promesas-energeticas.png`
+- **Ruta completa:** `imagenes/actividades/arbol-de-promesas-energeticas.jpg`
 - **Tipo:** png
 
 </details>
@@ -1378,7 +1378,7 @@
 
 ### arboles-energeticos.png
 
-![arboles-energeticos.png](/fogata-recursos/imagenes/actividades/arboles-energeticos.png)
+![arboles-energeticos.png](/fogata-recursos/imagenes/actividades/arboles-energeticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1386,7 +1386,7 @@
 - **Nombre del archivo:** `arboles-energeticos.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arboles-energeticos.png`
+- **Ruta completa:** `imagenes/actividades/arboles-energeticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1399,7 +1399,7 @@
 
 ### arboles-nativos-en-peligro.png
 
-![arboles-nativos-en-peligro.png](/fogata-recursos/imagenes/actividades/arboles-nativos-en-peligro.png)
+![arboles-nativos-en-peligro.png](/fogata-recursos/imagenes/actividades/arboles-nativos-en-peligro.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1407,7 +1407,7 @@
 - **Nombre del archivo:** `arboles-nativos-en-peligro.png`
 - **Tamaño:** 342K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arboles-nativos-en-peligro.png`
+- **Ruta completa:** `imagenes/actividades/arboles-nativos-en-peligro.jpg`
 - **Tipo:** png
 
 </details>
@@ -1420,7 +1420,7 @@
 
 ### arriba-en-el-aire-adaptaciones.png
 
-![arriba-en-el-aire-adaptaciones.png](/fogata-recursos/imagenes/actividades/arriba-en-el-aire-adaptaciones.png)
+![arriba-en-el-aire-adaptaciones.png](/fogata-recursos/imagenes/actividades/arriba-en-el-aire-adaptaciones.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1428,7 +1428,7 @@
 - **Nombre del archivo:** `arriba-en-el-aire-adaptaciones.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arriba-en-el-aire-adaptaciones.png`
+- **Ruta completa:** `imagenes/actividades/arriba-en-el-aire-adaptaciones.jpg`
 - **Tipo:** png
 
 </details>
@@ -1441,7 +1441,7 @@
 
 ### arte-con-materiales-naturales.png
 
-![arte-con-materiales-naturales.png](/fogata-recursos/imagenes/actividades/arte-con-materiales-naturales.png)
+![arte-con-materiales-naturales.png](/fogata-recursos/imagenes/actividades/arte-con-materiales-naturales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1449,7 +1449,7 @@
 - **Nombre del archivo:** `arte-con-materiales-naturales.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arte-con-materiales-naturales.png`
+- **Ruta completa:** `imagenes/actividades/arte-con-materiales-naturales.jpg`
 - **Tipo:** png
 
 </details>
@@ -1462,7 +1462,7 @@
 
 ### arte-futurista.png
 
-![arte-futurista.png](/fogata-recursos/imagenes/actividades/arte-futurista.png)
+![arte-futurista.png](/fogata-recursos/imagenes/actividades/arte-futurista.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1470,7 +1470,7 @@
 - **Nombre del archivo:** `arte-futurista.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arte-futurista.png`
+- **Ruta completa:** `imagenes/actividades/arte-futurista.jpg`
 - **Tipo:** png
 
 </details>
@@ -1483,7 +1483,7 @@
 
 ### arte-inspirado-en-el-mar.png
 
-![arte-inspirado-en-el-mar.png](/fogata-recursos/imagenes/actividades/arte-inspirado-en-el-mar.png)
+![arte-inspirado-en-el-mar.png](/fogata-recursos/imagenes/actividades/arte-inspirado-en-el-mar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1491,7 +1491,7 @@
 - **Nombre del archivo:** `arte-inspirado-en-el-mar.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arte-inspirado-en-el-mar.png`
+- **Ruta completa:** `imagenes/actividades/arte-inspirado-en-el-mar.jpg`
 - **Tipo:** png
 
 </details>
@@ -1504,7 +1504,7 @@
 
 ### arte-solar.png
 
-![arte-solar.png](/fogata-recursos/imagenes/actividades/arte-solar.png)
+![arte-solar.png](/fogata-recursos/imagenes/actividades/arte-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1512,7 +1512,7 @@
 - **Nombre del archivo:** `arte-solar.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/arte-solar.png`
+- **Ruta completa:** `imagenes/actividades/arte-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -1525,7 +1525,7 @@
 
 ### articulando-energia.png
 
-![articulando-energia.png](/fogata-recursos/imagenes/actividades/articulando-energia.png)
+![articulando-energia.png](/fogata-recursos/imagenes/actividades/articulando-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1533,7 +1533,7 @@
 - **Nombre del archivo:** `articulando-energia.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/articulando-energia.png`
+- **Ruta completa:** `imagenes/actividades/articulando-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -1546,7 +1546,7 @@
 
 ### articulo-sobre-cambio-climatico.png
 
-![articulo-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/articulo-sobre-cambio-climatico.png)
+![articulo-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/articulo-sobre-cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1554,7 +1554,7 @@
 - **Nombre del archivo:** `articulo-sobre-cambio-climatico.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/articulo-sobre-cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/articulo-sobre-cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -1567,7 +1567,7 @@
 
 ### audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png
 
-![audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png)
+![audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1575,7 +1575,7 @@
 - **Nombre del archivo:** `audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.png`
+- **Ruta completa:** `imagenes/actividades/audita-tus-habitos-de-plasticos-y-averigua-a-donde-van-tus-residuos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1588,7 +1588,7 @@
 
 ### audita-tus-habitos-de-uso-de-plastico.png
 
-![audita-tus-habitos-de-uso-de-plastico.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.png)
+![audita-tus-habitos-de-uso-de-plastico.png](/fogata-recursos/imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1596,7 +1596,7 @@
 - **Nombre del archivo:** `audita-tus-habitos-de-uso-de-plastico.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.png`
+- **Ruta completa:** `imagenes/actividades/audita-tus-habitos-de-uso-de-plastico.jpg`
 - **Tipo:** png
 
 </details>
@@ -1609,7 +1609,7 @@
 
 ### auditoria-de-residuos.png
 
-![auditoria-de-residuos.png](/fogata-recursos/imagenes/actividades/auditoria-de-residuos.png)
+![auditoria-de-residuos.png](/fogata-recursos/imagenes/actividades/auditoria-de-residuos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1617,7 +1617,7 @@
 - **Nombre del archivo:** `auditoria-de-residuos.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/auditoria-de-residuos.png`
+- **Ruta completa:** `imagenes/actividades/auditoria-de-residuos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1630,7 +1630,7 @@
 
 ### aventuras-al-aire-libre.png
 
-![aventuras-al-aire-libre.png](/fogata-recursos/imagenes/actividades/aventuras-al-aire-libre.png)
+![aventuras-al-aire-libre.png](/fogata-recursos/imagenes/actividades/aventuras-al-aire-libre.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1638,7 +1638,7 @@
 - **Nombre del archivo:** `aventuras-al-aire-libre.png`
 - **Tamaño:** 283K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aventuras-al-aire-libre.png`
+- **Ruta completa:** `imagenes/actividades/aventuras-al-aire-libre.jpg`
 - **Tipo:** png
 
 </details>
@@ -1651,7 +1651,7 @@
 
 ### aventuras-linguisticas.png
 
-![aventuras-linguisticas.png](/fogata-recursos/imagenes/actividades/aventuras-linguisticas.png)
+![aventuras-linguisticas.png](/fogata-recursos/imagenes/actividades/aventuras-linguisticas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1659,7 +1659,7 @@
 - **Nombre del archivo:** `aventuras-linguisticas.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/aventuras-linguisticas.png`
+- **Ruta completa:** `imagenes/actividades/aventuras-linguisticas.jpg`
 - **Tipo:** png
 
 </details>
@@ -1672,7 +1672,7 @@
 
 ### ayudantes-de-los-ods.png
 
-![ayudantes-de-los-ods.png](/fogata-recursos/imagenes/actividades/ayudantes-de-los-ods.png)
+![ayudantes-de-los-ods.png](/fogata-recursos/imagenes/actividades/ayudantes-de-los-ods.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1680,7 +1680,7 @@
 - **Nombre del archivo:** `ayudantes-de-los-ods.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ayudantes-de-los-ods.png`
+- **Ruta completa:** `imagenes/actividades/ayudantes-de-los-ods.jpg`
 - **Tipo:** png
 
 </details>
@@ -1693,7 +1693,7 @@
 
 ### banco-de-semillas.png
 
-![banco-de-semillas.png](/fogata-recursos/imagenes/actividades/banco-de-semillas.png)
+![banco-de-semillas.png](/fogata-recursos/imagenes/actividades/banco-de-semillas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1701,7 +1701,7 @@
 - **Nombre del archivo:** `banco-de-semillas.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/banco-de-semillas.png`
+- **Ruta completa:** `imagenes/actividades/banco-de-semillas.jpg`
 - **Tipo:** png
 
 </details>
@@ -1714,7 +1714,7 @@
 
 ### barra-de-nectar-para-polinizadores.png
 
-![barra-de-nectar-para-polinizadores.png](/fogata-recursos/imagenes/actividades/barra-de-nectar-para-polinizadores.png)
+![barra-de-nectar-para-polinizadores.png](/fogata-recursos/imagenes/actividades/barra-de-nectar-para-polinizadores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1722,7 +1722,7 @@
 - **Nombre del archivo:** `barra-de-nectar-para-polinizadores.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/barra-de-nectar-para-polinizadores.png`
+- **Ruta completa:** `imagenes/actividades/barra-de-nectar-para-polinizadores.jpg`
 - **Tipo:** png
 
 </details>
@@ -1735,7 +1735,7 @@
 
 ### barril-de-lluvia.png
 
-![barril-de-lluvia.png](/fogata-recursos/imagenes/actividades/barril-de-lluvia.png)
+![barril-de-lluvia.png](/fogata-recursos/imagenes/actividades/barril-de-lluvia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1743,7 +1743,7 @@
 - **Nombre del archivo:** `barril-de-lluvia.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/barril-de-lluvia.png`
+- **Ruta completa:** `imagenes/actividades/barril-de-lluvia.jpg`
 - **Tipo:** png
 
 </details>
@@ -1756,7 +1756,7 @@
 
 ### basura-por-que-es-importante.png
 
-![basura-por-que-es-importante.png](/fogata-recursos/imagenes/actividades/basura-por-que-es-importante.png)
+![basura-por-que-es-importante.png](/fogata-recursos/imagenes/actividades/basura-por-que-es-importante.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1764,7 +1764,7 @@
 - **Nombre del archivo:** `basura-por-que-es-importante.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/basura-por-que-es-importante.png`
+- **Ruta completa:** `imagenes/actividades/basura-por-que-es-importante.jpg`
 - **Tipo:** png
 
 </details>
@@ -1777,7 +1777,7 @@
 
 ### bateria-casera.png
 
-![bateria-casera.png](/fogata-recursos/imagenes/actividades/bateria-casera.png)
+![bateria-casera.png](/fogata-recursos/imagenes/actividades/bateria-casera.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1785,7 +1785,7 @@
 - **Nombre del archivo:** `bateria-casera.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bateria-casera.png`
+- **Ruta completa:** `imagenes/actividades/bateria-casera.jpg`
 - **Tipo:** png
 
 </details>
@@ -1798,7 +1798,7 @@
 
 ### bioblitz-exploracion-del-area-natural.png
 
-![bioblitz-exploracion-del-area-natural.png](/fogata-recursos/imagenes/actividades/bioblitz-exploracion-del-area-natural.png)
+![bioblitz-exploracion-del-area-natural.png](/fogata-recursos/imagenes/actividades/bioblitz-exploracion-del-area-natural.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1806,7 +1806,7 @@
 - **Nombre del archivo:** `bioblitz-exploracion-del-area-natural.png`
 - **Tamaño:** 299K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bioblitz-exploracion-del-area-natural.png`
+- **Ruta completa:** `imagenes/actividades/bioblitz-exploracion-del-area-natural.jpg`
 - **Tipo:** png
 
 </details>
@@ -1819,7 +1819,7 @@
 
 ### bioblitz.png
 
-![bioblitz.png](/fogata-recursos/imagenes/actividades/bioblitz.png)
+![bioblitz.png](/fogata-recursos/imagenes/actividades/bioblitz.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1827,7 +1827,7 @@
 - **Nombre del archivo:** `bioblitz.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bioblitz.png`
+- **Ruta completa:** `imagenes/actividades/bioblitz.jpg`
 - **Tipo:** png
 
 </details>
@@ -1840,7 +1840,7 @@
 
 ### biodiversidad-en-el-menu.png
 
-![biodiversidad-en-el-menu.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-el-menu.png)
+![biodiversidad-en-el-menu.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-el-menu.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1848,7 +1848,7 @@
 - **Nombre del archivo:** `biodiversidad-en-el-menu.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biodiversidad-en-el-menu.png`
+- **Ruta completa:** `imagenes/actividades/biodiversidad-en-el-menu.jpg`
 - **Tipo:** png
 
 </details>
@@ -1861,7 +1861,7 @@
 
 ### biodiversidad-en-objetos-cotidianos.png
 
-![biodiversidad-en-objetos-cotidianos.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-objetos-cotidianos.png)
+![biodiversidad-en-objetos-cotidianos.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-objetos-cotidianos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1869,7 +1869,7 @@
 - **Nombre del archivo:** `biodiversidad-en-objetos-cotidianos.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biodiversidad-en-objetos-cotidianos.png`
+- **Ruta completa:** `imagenes/actividades/biodiversidad-en-objetos-cotidianos.jpg`
 - **Tipo:** png
 
 </details>
@@ -1882,7 +1882,7 @@
 
 ### biodiversidad-en-otros-paises.png
 
-![biodiversidad-en-otros-paises.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-otros-paises.png)
+![biodiversidad-en-otros-paises.png](/fogata-recursos/imagenes/actividades/biodiversidad-en-otros-paises.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1890,7 +1890,7 @@
 - **Nombre del archivo:** `biodiversidad-en-otros-paises.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biodiversidad-en-otros-paises.png`
+- **Ruta completa:** `imagenes/actividades/biodiversidad-en-otros-paises.jpg`
 - **Tipo:** png
 
 </details>
@@ -1903,7 +1903,7 @@
 
 ### biomimesis.png
 
-![biomimesis.png](/fogata-recursos/imagenes/actividades/biomimesis.png)
+![biomimesis.png](/fogata-recursos/imagenes/actividades/biomimesis.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1911,7 +1911,7 @@
 - **Nombre del archivo:** `biomimesis.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biomimesis.png`
+- **Ruta completa:** `imagenes/actividades/biomimesis.jpg`
 - **Tipo:** png
 
 </details>
@@ -1924,7 +1924,7 @@
 
 ### biopiratas.png
 
-![biopiratas.png](/fogata-recursos/imagenes/actividades/biopiratas.png)
+![biopiratas.png](/fogata-recursos/imagenes/actividades/biopiratas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1932,7 +1932,7 @@
 - **Nombre del archivo:** `biopiratas.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biopiratas.png`
+- **Ruta completa:** `imagenes/actividades/biopiratas.jpg`
 - **Tipo:** png
 
 </details>
@@ -1945,7 +1945,7 @@
 
 ### biopiratas2.png
 
-![biopiratas2.png](/fogata-recursos/imagenes/actividades/biopiratas2.png)
+![biopiratas2.png](/fogata-recursos/imagenes/actividades/biopiratas2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1953,7 +1953,7 @@
 - **Nombre del archivo:** `biopiratas2.png`
 - **Tamaño:** 246K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biopiratas2.png`
+- **Ruta completa:** `imagenes/actividades/biopiratas2.jpg`
 - **Tipo:** png
 
 </details>
@@ -1966,7 +1966,7 @@
 
 ### biopiratas3.png
 
-![biopiratas3.png](/fogata-recursos/imagenes/actividades/biopiratas3.png)
+![biopiratas3.png](/fogata-recursos/imagenes/actividades/biopiratas3.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1974,7 +1974,7 @@
 - **Nombre del archivo:** `biopiratas3.png`
 - **Tamaño:** 283K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/biopiratas3.png`
+- **Ruta completa:** `imagenes/actividades/biopiratas3.jpg`
 - **Tipo:** png
 
 </details>
@@ -1987,7 +1987,7 @@
 
 ### blog-o-diario-de-biodiversidad.png
 
-![blog-o-diario-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/blog-o-diario-de-biodiversidad.png)
+![blog-o-diario-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/blog-o-diario-de-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -1995,7 +1995,7 @@
 - **Nombre del archivo:** `blog-o-diario-de-biodiversidad.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/blog-o-diario-de-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/blog-o-diario-de-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -2008,7 +2008,7 @@
 
 ### blogueando-por-la-energia.png
 
-![blogueando-por-la-energia.png](/fogata-recursos/imagenes/actividades/blogueando-por-la-energia.png)
+![blogueando-por-la-energia.png](/fogata-recursos/imagenes/actividades/blogueando-por-la-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2016,7 +2016,7 @@
 - **Nombre del archivo:** `blogueando-por-la-energia.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/blogueando-por-la-energia.png`
+- **Ruta completa:** `imagenes/actividades/blogueando-por-la-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -2029,7 +2029,7 @@
 
 ### bosques-alrededor-del-mundo.png
 
-![bosques-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/bosques-alrededor-del-mundo.png)
+![bosques-alrededor-del-mundo.png](/fogata-recursos/imagenes/actividades/bosques-alrededor-del-mundo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2037,7 +2037,7 @@
 - **Nombre del archivo:** `bosques-alrededor-del-mundo.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques-alrededor-del-mundo.png`
+- **Ruta completa:** `imagenes/actividades/bosques-alrededor-del-mundo.jpg`
 - **Tipo:** png
 
 </details>
@@ -2050,7 +2050,7 @@
 
 ### bosques-en-llamas.png
 
-![bosques-en-llamas.png](/fogata-recursos/imagenes/actividades/bosques-en-llamas.png)
+![bosques-en-llamas.png](/fogata-recursos/imagenes/actividades/bosques-en-llamas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2058,7 +2058,7 @@
 - **Nombre del archivo:** `bosques-en-llamas.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques-en-llamas.png`
+- **Ruta completa:** `imagenes/actividades/bosques-en-llamas.jpg`
 - **Tipo:** png
 
 </details>
@@ -2071,7 +2071,7 @@
 
 ### bosques-justos.png
 
-![bosques-justos.png](/fogata-recursos/imagenes/actividades/bosques-justos.png)
+![bosques-justos.png](/fogata-recursos/imagenes/actividades/bosques-justos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2079,7 +2079,7 @@
 - **Nombre del archivo:** `bosques-justos.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques-justos.png`
+- **Ruta completa:** `imagenes/actividades/bosques-justos.jpg`
 - **Tipo:** png
 
 </details>
@@ -2092,7 +2092,7 @@
 
 ### bosques-llenos-de-vida.png
 
-![bosques-llenos-de-vida.png](/fogata-recursos/imagenes/actividades/bosques-llenos-de-vida.png)
+![bosques-llenos-de-vida.png](/fogata-recursos/imagenes/actividades/bosques-llenos-de-vida.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2100,7 +2100,7 @@
 - **Nombre del archivo:** `bosques-llenos-de-vida.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques-llenos-de-vida.png`
+- **Ruta completa:** `imagenes/actividades/bosques-llenos-de-vida.jpg`
 - **Tipo:** png
 
 </details>
@@ -2113,7 +2113,7 @@
 
 ### bosques-politicos.png
 
-![bosques-politicos.png](/fogata-recursos/imagenes/actividades/bosques-politicos.png)
+![bosques-politicos.png](/fogata-recursos/imagenes/actividades/bosques-politicos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2121,7 +2121,7 @@
 - **Nombre del archivo:** `bosques-politicos.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques-politicos.png`
+- **Ruta completa:** `imagenes/actividades/bosques-politicos.jpg`
 - **Tipo:** png
 
 </details>
@@ -2134,7 +2134,7 @@
 
 ### bosques-sagrados.png
 
-![bosques-sagrados.png](/fogata-recursos/imagenes/actividades/bosques-sagrados.png)
+![bosques-sagrados.png](/fogata-recursos/imagenes/actividades/bosques-sagrados.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2142,7 +2142,7 @@
 - **Nombre del archivo:** `bosques-sagrados.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques-sagrados.png`
+- **Ruta completa:** `imagenes/actividades/bosques-sagrados.jpg`
 - **Tipo:** png
 
 </details>
@@ -2155,7 +2155,7 @@
 
 ### bosques.png
 
-![bosques.png](/fogata-recursos/imagenes/actividades/bosques.png)
+![bosques.png](/fogata-recursos/imagenes/actividades/bosques.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2163,7 +2163,7 @@
 - **Nombre del archivo:** `bosques.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/bosques.png`
+- **Ruta completa:** `imagenes/actividades/bosques.jpg`
 - **Tipo:** png
 
 </details>
@@ -2176,7 +2176,7 @@
 
 ### brujula-solar-metodo-de-la-sombra.png
 
-![brujula-solar-metodo-de-la-sombra.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-de-la-sombra.png)
+![brujula-solar-metodo-de-la-sombra.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-de-la-sombra.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2184,7 +2184,7 @@
 - **Nombre del archivo:** `brujula-solar-metodo-de-la-sombra.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/brujula-solar-metodo-de-la-sombra.png`
+- **Ruta completa:** `imagenes/actividades/brujula-solar-metodo-de-la-sombra.jpg`
 - **Tipo:** png
 
 </details>
@@ -2197,7 +2197,7 @@
 
 ### brujula-solar-metodo-del-reloj.png
 
-![brujula-solar-metodo-del-reloj.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-del-reloj.png)
+![brujula-solar-metodo-del-reloj.png](/fogata-recursos/imagenes/actividades/brujula-solar-metodo-del-reloj.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2205,7 +2205,7 @@
 - **Nombre del archivo:** `brujula-solar-metodo-del-reloj.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/brujula-solar-metodo-del-reloj.png`
+- **Ruta completa:** `imagenes/actividades/brujula-solar-metodo-del-reloj.jpg`
 - **Tipo:** png
 
 </details>
@@ -2218,7 +2218,7 @@
 
 ### buscando-la-suciedad.png
 
-![buscando-la-suciedad.png](/fogata-recursos/imagenes/actividades/buscando-la-suciedad.png)
+![buscando-la-suciedad.png](/fogata-recursos/imagenes/actividades/buscando-la-suciedad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2226,7 +2226,7 @@
 - **Nombre del archivo:** `buscando-la-suciedad.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/buscando-la-suciedad.png`
+- **Ruta completa:** `imagenes/actividades/buscando-la-suciedad.jpg`
 - **Tipo:** png
 
 </details>
@@ -2239,7 +2239,7 @@
 
 ### calcular-el-impacto-ambiental-de-los-alimentos.png
 
-![calcular-el-impacto-ambiental-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.png)
+![calcular-el-impacto-ambiental-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2247,7 +2247,7 @@
 - **Nombre del archivo:** `calcular-el-impacto-ambiental-de-los-alimentos.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.png`
+- **Ruta completa:** `imagenes/actividades/calcular-el-impacto-ambiental-de-los-alimentos.jpg`
 - **Tipo:** png
 
 </details>
@@ -2260,7 +2260,7 @@
 
 ### calcular-tu-huella-de-carbono.png
 
-![calcular-tu-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/calcular-tu-huella-de-carbono.png)
+![calcular-tu-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/calcular-tu-huella-de-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2268,7 +2268,7 @@
 - **Nombre del archivo:** `calcular-tu-huella-de-carbono.png`
 - **Tamaño:** 91K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/calcular-tu-huella-de-carbono.png`
+- **Ruta completa:** `imagenes/actividades/calcular-tu-huella-de-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -2281,7 +2281,7 @@
 
 ### calendario-de-pesca-sostenible.png
 
-![calendario-de-pesca-sostenible.png](/fogata-recursos/imagenes/actividades/calendario-de-pesca-sostenible.png)
+![calendario-de-pesca-sostenible.png](/fogata-recursos/imagenes/actividades/calendario-de-pesca-sostenible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2289,7 +2289,7 @@
 - **Nombre del archivo:** `calendario-de-pesca-sostenible.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/calendario-de-pesca-sostenible.png`
+- **Ruta completa:** `imagenes/actividades/calendario-de-pesca-sostenible.jpg`
 - **Tipo:** png
 
 </details>
@@ -2302,7 +2302,7 @@
 
 ### calentamiento-desigual.png
 
-![calentamiento-desigual.png](/fogata-recursos/imagenes/actividades/calentamiento-desigual.png)
+![calentamiento-desigual.png](/fogata-recursos/imagenes/actividades/calentamiento-desigual.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2310,7 +2310,7 @@
 - **Nombre del archivo:** `calentamiento-desigual.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/calentamiento-desigual.png`
+- **Ruta completa:** `imagenes/actividades/calentamiento-desigual.jpg`
 - **Tipo:** png
 
 </details>
@@ -2323,7 +2323,7 @@
 
 ### calificacion-de-carbono.png
 
-![calificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/calificacion-de-carbono.png)
+![calificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/calificacion-de-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2331,7 +2331,7 @@
 - **Nombre del archivo:** `calificacion-de-carbono.png`
 - **Tamaño:** 102K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/calificacion-de-carbono.png`
+- **Ruta completa:** `imagenes/actividades/calificacion-de-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -2344,7 +2344,7 @@
 
 ### cambiando-con-el-clima.png
 
-![cambiando-con-el-clima.png](/fogata-recursos/imagenes/actividades/cambiando-con-el-clima.png)
+![cambiando-con-el-clima.png](/fogata-recursos/imagenes/actividades/cambiando-con-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2352,7 +2352,7 @@
 - **Nombre del archivo:** `cambiando-con-el-clima.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cambiando-con-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/cambiando-con-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -2365,7 +2365,7 @@
 
 ### cambiando-mentes.png
 
-![cambiando-mentes.png](/fogata-recursos/imagenes/actividades/cambiando-mentes.png)
+![cambiando-mentes.png](/fogata-recursos/imagenes/actividades/cambiando-mentes.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2373,7 +2373,7 @@
 - **Nombre del archivo:** `cambiando-mentes.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cambiando-mentes.png`
+- **Ruta completa:** `imagenes/actividades/cambiando-mentes.jpg`
 - **Tipo:** png
 
 </details>
@@ -2386,7 +2386,7 @@
 
 ### cambio-climatico-y-agricultura.png
 
-![cambio-climatico-y-agricultura.png](/fogata-recursos/imagenes/actividades/cambio-climatico-y-agricultura.png)
+![cambio-climatico-y-agricultura.png](/fogata-recursos/imagenes/actividades/cambio-climatico-y-agricultura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2394,7 +2394,7 @@
 - **Nombre del archivo:** `cambio-climatico-y-agricultura.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cambio-climatico-y-agricultura.png`
+- **Ruta completa:** `imagenes/actividades/cambio-climatico-y-agricultura.jpg`
 - **Tipo:** png
 
 </details>
@@ -2407,7 +2407,7 @@
 
 ### cambio-climatico.png
 
-![cambio-climatico.png](/fogata-recursos/imagenes/actividades/cambio-climatico.png)
+![cambio-climatico.png](/fogata-recursos/imagenes/actividades/cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2415,7 +2415,7 @@
 - **Nombre del archivo:** `cambio-climatico.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -2428,7 +2428,7 @@
 
 ### caminando-con-gafas-de-alimentos-puestas.png
 
-![caminando-con-gafas-de-alimentos-puestas.png](/fogata-recursos/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.png)
+![caminando-con-gafas-de-alimentos-puestas.png](/fogata-recursos/imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2436,7 +2436,7 @@
 - **Nombre del archivo:** `caminando-con-gafas-de-alimentos-puestas.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.png`
+- **Ruta completa:** `imagenes/actividades/caminando-con-gafas-de-alimentos-puestas.jpg`
 - **Tipo:** png
 
 </details>
@@ -2449,7 +2449,7 @@
 
 ### camisetas-sucias.png
 
-![camisetas-sucias.png](/fogata-recursos/imagenes/actividades/camisetas-sucias.png)
+![camisetas-sucias.png](/fogata-recursos/imagenes/actividades/camisetas-sucias.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2457,7 +2457,7 @@
 - **Nombre del archivo:** `camisetas-sucias.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/camisetas-sucias.png`
+- **Ruta completa:** `imagenes/actividades/camisetas-sucias.jpg`
 - **Tipo:** png
 
 </details>
@@ -2470,7 +2470,7 @@
 
 ### campamento-de-bajo-impacto.png
 
-![campamento-de-bajo-impacto.png](/fogata-recursos/imagenes/actividades/campamento-de-bajo-impacto.png)
+![campamento-de-bajo-impacto.png](/fogata-recursos/imagenes/actividades/campamento-de-bajo-impacto.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2478,7 +2478,7 @@
 - **Nombre del archivo:** `campamento-de-bajo-impacto.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/campamento-de-bajo-impacto.png`
+- **Ruta completa:** `imagenes/actividades/campamento-de-bajo-impacto.jpg`
 - **Tipo:** png
 
 </details>
@@ -2491,7 +2491,7 @@
 
 ### campana-comunitaria.png
 
-![campana-comunitaria.png](/fogata-recursos/imagenes/actividades/campana-comunitaria.png)
+![campana-comunitaria.png](/fogata-recursos/imagenes/actividades/campana-comunitaria.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2499,7 +2499,7 @@
 - **Nombre del archivo:** `campana-comunitaria.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/campana-comunitaria.png`
+- **Ruta completa:** `imagenes/actividades/campana-comunitaria.jpg`
 - **Tipo:** png
 
 </details>
@@ -2512,7 +2512,7 @@
 
 ### campana-de-carteles.png
 
-![campana-de-carteles.png](/fogata-recursos/imagenes/actividades/campana-de-carteles.png)
+![campana-de-carteles.png](/fogata-recursos/imagenes/actividades/campana-de-carteles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2520,7 +2520,7 @@
 - **Nombre del archivo:** `campana-de-carteles.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/campana-de-carteles.png`
+- **Ruta completa:** `imagenes/actividades/campana-de-carteles.jpg`
 - **Tipo:** png
 
 </details>
@@ -2533,7 +2533,7 @@
 
 ### campana-escolar.png
 
-![campana-escolar.png](/fogata-recursos/imagenes/actividades/campana-escolar.png)
+![campana-escolar.png](/fogata-recursos/imagenes/actividades/campana-escolar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2541,7 +2541,7 @@
 - **Nombre del archivo:** `campana-escolar.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/campana-escolar.png`
+- **Ruta completa:** `imagenes/actividades/campana-escolar.jpg`
 - **Tipo:** png
 
 </details>
@@ -2554,7 +2554,7 @@
 
 ### cancion-del-viento-o-el-sol.png
 
-![cancion-del-viento-o-el-sol.png](/fogata-recursos/imagenes/actividades/cancion-del-viento-o-el-sol.png)
+![cancion-del-viento-o-el-sol.png](/fogata-recursos/imagenes/actividades/cancion-del-viento-o-el-sol.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2562,7 +2562,7 @@
 - **Nombre del archivo:** `cancion-del-viento-o-el-sol.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cancion-del-viento-o-el-sol.png`
+- **Ruta completa:** `imagenes/actividades/cancion-del-viento-o-el-sol.jpg`
 - **Tipo:** png
 
 </details>
@@ -2575,7 +2575,7 @@
 
 ### cancion-por-el-suelo.png
 
-![cancion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/cancion-por-el-suelo.png)
+![cancion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/cancion-por-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2583,7 +2583,7 @@
 - **Nombre del archivo:** `cancion-por-el-suelo.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cancion-por-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/cancion-por-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -2596,7 +2596,7 @@
 
 ### cancon-del-ciclo-del-carbono.png
 
-![cancon-del-ciclo-del-carbono.png](/fogata-recursos/imagenes/actividades/cancon-del-ciclo-del-carbono.png)
+![cancon-del-ciclo-del-carbono.png](/fogata-recursos/imagenes/actividades/cancon-del-ciclo-del-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2604,7 +2604,7 @@
 - **Nombre del archivo:** `cancon-del-ciclo-del-carbono.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cancon-del-ciclo-del-carbono.png`
+- **Ruta completa:** `imagenes/actividades/cancon-del-ciclo-del-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -2617,7 +2617,7 @@
 
 ### canta-con-el-bosque.png
 
-![canta-con-el-bosque.png](/fogata-recursos/imagenes/actividades/canta-con-el-bosque.png)
+![canta-con-el-bosque.png](/fogata-recursos/imagenes/actividades/canta-con-el-bosque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2625,7 +2625,7 @@
 - **Nombre del archivo:** `canta-con-el-bosque.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/canta-con-el-bosque.png`
+- **Ruta completa:** `imagenes/actividades/canta-con-el-bosque.jpg`
 - **Tipo:** png
 
 </details>
@@ -2638,7 +2638,7 @@
 
 ### carne-de-animales-silvestres.png
 
-![carne-de-animales-silvestres.png](/fogata-recursos/imagenes/actividades/carne-de-animales-silvestres.png)
+![carne-de-animales-silvestres.png](/fogata-recursos/imagenes/actividades/carne-de-animales-silvestres.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2646,7 +2646,7 @@
 - **Nombre del archivo:** `carne-de-animales-silvestres.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/carne-de-animales-silvestres.png`
+- **Ruta completa:** `imagenes/actividades/carne-de-animales-silvestres.jpg`
 - **Tipo:** png
 
 </details>
@@ -2659,7 +2659,7 @@
 
 ### cartas-a-autoridades.png
 
-![cartas-a-autoridades.png](/fogata-recursos/imagenes/actividades/cartas-a-autoridades.png)
+![cartas-a-autoridades.png](/fogata-recursos/imagenes/actividades/cartas-a-autoridades.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2667,7 +2667,7 @@
 - **Nombre del archivo:** `cartas-a-autoridades.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cartas-a-autoridades.png`
+- **Ruta completa:** `imagenes/actividades/cartas-a-autoridades.jpg`
 - **Tipo:** png
 
 </details>
@@ -2680,7 +2680,7 @@
 
 ### cartas-al-editor.png
 
-![cartas-al-editor.png](/fogata-recursos/imagenes/actividades/cartas-al-editor.png)
+![cartas-al-editor.png](/fogata-recursos/imagenes/actividades/cartas-al-editor.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2688,7 +2688,7 @@
 - **Nombre del archivo:** `cartas-al-editor.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cartas-al-editor.png`
+- **Ruta completa:** `imagenes/actividades/cartas-al-editor.jpg`
 - **Tipo:** png
 
 </details>
@@ -2701,7 +2701,7 @@
 
 ### cartas-por-las-renovables.png
 
-![cartas-por-las-renovables.png](/fogata-recursos/imagenes/actividades/cartas-por-las-renovables.png)
+![cartas-por-las-renovables.png](/fogata-recursos/imagenes/actividades/cartas-por-las-renovables.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2709,7 +2709,7 @@
 - **Nombre del archivo:** `cartas-por-las-renovables.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cartas-por-las-renovables.png`
+- **Ruta completa:** `imagenes/actividades/cartas-por-las-renovables.jpg`
 - **Tipo:** png
 
 </details>
@@ -2722,7 +2722,7 @@
 
 ### casa-para-murcielagos.png
 
-![casa-para-murcielagos.png](/fogata-recursos/imagenes/actividades/casa-para-murcielagos.png)
+![casa-para-murcielagos.png](/fogata-recursos/imagenes/actividades/casa-para-murcielagos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2730,7 +2730,7 @@
 - **Nombre del archivo:** `casa-para-murcielagos.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/casa-para-murcielagos.png`
+- **Ruta completa:** `imagenes/actividades/casa-para-murcielagos.jpg`
 - **Tipo:** png
 
 </details>
@@ -2743,7 +2743,7 @@
 
 ### cava-profundamente.png
 
-![cava-profundamente.png](/fogata-recursos/imagenes/actividades/cava-profundamente.png)
+![cava-profundamente.png](/fogata-recursos/imagenes/actividades/cava-profundamente.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2751,7 +2751,7 @@
 - **Nombre del archivo:** `cava-profundamente.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cava-profundamente.png`
+- **Ruta completa:** `imagenes/actividades/cava-profundamente.jpg`
 - **Tipo:** png
 
 </details>
@@ -2764,7 +2764,7 @@
 
 ### celebracion-por-el-suelo.png
 
-![celebracion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/celebracion-por-el-suelo.png)
+![celebracion-por-el-suelo.png](/fogata-recursos/imagenes/actividades/celebracion-por-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2772,7 +2772,7 @@
 - **Nombre del archivo:** `celebracion-por-el-suelo.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/celebracion-por-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/celebracion-por-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -2785,7 +2785,7 @@
 
 ### chapoteando-en-el-agua.png
 
-![chapoteando-en-el-agua.png](/fogata-recursos/imagenes/actividades/chapoteando-en-el-agua.png)
+![chapoteando-en-el-agua.png](/fogata-recursos/imagenes/actividades/chapoteando-en-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2793,7 +2793,7 @@
 - **Nombre del archivo:** `chapoteando-en-el-agua.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/chapoteando-en-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/chapoteando-en-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -2806,7 +2806,7 @@
 
 ### cientificos-incipientes.png
 
-![cientificos-incipientes.png](/fogata-recursos/imagenes/actividades/cientificos-incipientes.png)
+![cientificos-incipientes.png](/fogata-recursos/imagenes/actividades/cientificos-incipientes.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2814,7 +2814,7 @@
 - **Nombre del archivo:** `cientificos-incipientes.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cientificos-incipientes.png`
+- **Ruta completa:** `imagenes/actividades/cientificos-incipientes.jpg`
 - **Tipo:** png
 
 </details>
@@ -2827,7 +2827,7 @@
 
 ### cientificos-nadadores.png
 
-![cientificos-nadadores.png](/fogata-recursos/imagenes/actividades/cientificos-nadadores.png)
+![cientificos-nadadores.png](/fogata-recursos/imagenes/actividades/cientificos-nadadores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2835,7 +2835,7 @@
 - **Nombre del archivo:** `cientificos-nadadores.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cientificos-nadadores.png`
+- **Ruta completa:** `imagenes/actividades/cientificos-nadadores.jpg`
 - **Tipo:** png
 
 </details>
@@ -2848,7 +2848,7 @@
 
 ### cinco-cosas-buenas.png
 
-![cinco-cosas-buenas.png](/fogata-recursos/imagenes/actividades/cinco-cosas-buenas.png)
+![cinco-cosas-buenas.png](/fogata-recursos/imagenes/actividades/cinco-cosas-buenas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2856,7 +2856,7 @@
 - **Nombre del archivo:** `cinco-cosas-buenas.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cinco-cosas-buenas.png`
+- **Ruta completa:** `imagenes/actividades/cinco-cosas-buenas.jpg`
 - **Tipo:** png
 
 </details>
@@ -2869,7 +2869,7 @@
 
 ### circulo-de-biodiversidad.png
 
-![circulo-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/circulo-de-biodiversidad.png)
+![circulo-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/circulo-de-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2877,7 +2877,7 @@
 - **Nombre del archivo:** `circulo-de-biodiversidad.png`
 - **Tamaño:** 283K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/circulo-de-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/circulo-de-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -2890,7 +2890,7 @@
 
 ### ciudadano-del-agua.png
 
-![ciudadano-del-agua.png](/fogata-recursos/imagenes/actividades/ciudadano-del-agua.png)
+![ciudadano-del-agua.png](/fogata-recursos/imagenes/actividades/ciudadano-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2898,7 +2898,7 @@
 - **Nombre del archivo:** `ciudadano-del-agua.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ciudadano-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/ciudadano-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -2911,7 +2911,7 @@
 
 ### clasificacion-de-carbono.png
 
-![clasificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/clasificacion-de-carbono.png)
+![clasificacion-de-carbono.png](/fogata-recursos/imagenes/actividades/clasificacion-de-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2919,7 +2919,7 @@
 - **Nombre del archivo:** `clasificacion-de-carbono.png`
 - **Tamaño:** 91K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/clasificacion-de-carbono.png`
+- **Ruta completa:** `imagenes/actividades/clasificacion-de-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -2932,7 +2932,7 @@
 
 ### clima-vs-tiempo.png
 
-![clima-vs-tiempo.png](/fogata-recursos/imagenes/actividades/clima-vs-tiempo.png)
+![clima-vs-tiempo.png](/fogata-recursos/imagenes/actividades/clima-vs-tiempo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2940,7 +2940,7 @@
 - **Nombre del archivo:** `clima-vs-tiempo.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/clima-vs-tiempo.png`
+- **Ruta completa:** `imagenes/actividades/clima-vs-tiempo.jpg`
 - **Tipo:** png
 
 </details>
@@ -2953,7 +2953,7 @@
 
 ### clima-y-estilos-de-vida.png
 
-![clima-y-estilos-de-vida.png](/fogata-recursos/imagenes/actividades/clima-y-estilos-de-vida.png)
+![clima-y-estilos-de-vida.png](/fogata-recursos/imagenes/actividades/clima-y-estilos-de-vida.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2961,7 +2961,7 @@
 - **Nombre del archivo:** `clima-y-estilos-de-vida.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/clima-y-estilos-de-vida.png`
+- **Ruta completa:** `imagenes/actividades/clima-y-estilos-de-vida.jpg`
 - **Tipo:** png
 
 </details>
@@ -2974,7 +2974,7 @@
 
 ### clima-y-salud.png
 
-![clima-y-salud.png](/fogata-recursos/imagenes/actividades/clima-y-salud.png)
+![clima-y-salud.png](/fogata-recursos/imagenes/actividades/clima-y-salud.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -2982,7 +2982,7 @@
 - **Nombre del archivo:** `clima-y-salud.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/clima-y-salud.png`
+- **Ruta completa:** `imagenes/actividades/clima-y-salud.jpg`
 - **Tipo:** png
 
 </details>
@@ -2995,7 +2995,7 @@
 
 ### climas-cambiantes.png
 
-![climas-cambiantes.png](/fogata-recursos/imagenes/actividades/climas-cambiantes.png)
+![climas-cambiantes.png](/fogata-recursos/imagenes/actividades/climas-cambiantes.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3003,7 +3003,7 @@
 - **Nombre del archivo:** `climas-cambiantes.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/climas-cambiantes.png`
+- **Ruta completa:** `imagenes/actividades/climas-cambiantes.jpg`
 - **Tipo:** png
 
 </details>
@@ -3016,7 +3016,7 @@
 
 ### cocina-solar.png
 
-![cocina-solar.png](/fogata-recursos/imagenes/actividades/cocina-solar.png)
+![cocina-solar.png](/fogata-recursos/imagenes/actividades/cocina-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3024,7 +3024,7 @@
 - **Nombre del archivo:** `cocina-solar.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cocina-solar.png`
+- **Ruta completa:** `imagenes/actividades/cocina-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -3037,7 +3037,7 @@
 
 ### cocinar-una-comida-sana-y-sostenible.png
 
-![cocinar-una-comida-sana-y-sostenible.png](/fogata-recursos/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png)
+![cocinar-una-comida-sana-y-sostenible.png](/fogata-recursos/imagenes/actividades/cocinar-una-comida-sana-y-sostenible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3045,7 +3045,7 @@
 - **Nombre del archivo:** `cocinar-una-comida-sana-y-sostenible.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cocinar-una-comida-sana-y-sostenible.png`
+- **Ruta completa:** `imagenes/actividades/cocinar-una-comida-sana-y-sostenible.jpg`
 - **Tipo:** png
 
 </details>
@@ -3058,7 +3058,7 @@
 
 ### colectando-agua.png
 
-![colectando-agua.png](/fogata-recursos/imagenes/actividades/colectando-agua.png)
+![colectando-agua.png](/fogata-recursos/imagenes/actividades/colectando-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3066,7 +3066,7 @@
 - **Nombre del archivo:** `colectando-agua.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/colectando-agua.png`
+- **Ruta completa:** `imagenes/actividades/colectando-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -3079,7 +3079,7 @@
 
 ### collage-de-biodiversidad.png
 
-![collage-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/collage-de-biodiversidad.png)
+![collage-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/collage-de-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3087,7 +3087,7 @@
 - **Nombre del archivo:** `collage-de-biodiversidad.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/collage-de-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/collage-de-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -3100,7 +3100,7 @@
 
 ### comercial-de-biodiversidad.png
 
-![comercial-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/comercial-de-biodiversidad.png)
+![comercial-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/comercial-de-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3108,7 +3108,7 @@
 - **Nombre del archivo:** `comercial-de-biodiversidad.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/comercial-de-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/comercial-de-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -3121,7 +3121,7 @@
 
 ### comestibles-energeticos.png
 
-![comestibles-energeticos.png](/fogata-recursos/imagenes/actividades/comestibles-energeticos.png)
+![comestibles-energeticos.png](/fogata-recursos/imagenes/actividades/comestibles-energeticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3129,7 +3129,7 @@
 - **Nombre del archivo:** `comestibles-energeticos.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/comestibles-energeticos.png`
+- **Ruta completa:** `imagenes/actividades/comestibles-energeticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -3142,7 +3142,7 @@
 
 ### compania-de-transporte-maritimo.png
 
-![compania-de-transporte-maritimo.png](/fogata-recursos/imagenes/actividades/compania-de-transporte-maritimo.png)
+![compania-de-transporte-maritimo.png](/fogata-recursos/imagenes/actividades/compania-de-transporte-maritimo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3150,7 +3150,7 @@
 - **Nombre del archivo:** `compania-de-transporte-maritimo.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/compania-de-transporte-maritimo.png`
+- **Ruta completa:** `imagenes/actividades/compania-de-transporte-maritimo.jpg`
 - **Tipo:** png
 
 </details>
@@ -3163,7 +3163,7 @@
 
 ### compartir-y-reusar-pertenencias.png
 
-![compartir-y-reusar-pertenencias.png](/fogata-recursos/imagenes/actividades/compartir-y-reusar-pertenencias.png)
+![compartir-y-reusar-pertenencias.png](/fogata-recursos/imagenes/actividades/compartir-y-reusar-pertenencias.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3171,7 +3171,7 @@
 - **Nombre del archivo:** `compartir-y-reusar-pertenencias.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/compartir-y-reusar-pertenencias.png`
+- **Ruta completa:** `imagenes/actividades/compartir-y-reusar-pertenencias.jpg`
 - **Tipo:** png
 
 </details>
@@ -3184,7 +3184,7 @@
 
 ### compostaje.png
 
-![compostaje.png](/fogata-recursos/imagenes/actividades/compostaje.png)
+![compostaje.png](/fogata-recursos/imagenes/actividades/compostaje.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3192,7 +3192,7 @@
 - **Nombre del archivo:** `compostaje.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/compostaje.png`
+- **Ruta completa:** `imagenes/actividades/compostaje.jpg`
 - **Tipo:** png
 
 </details>
@@ -3205,7 +3205,7 @@
 
 ### comprar-de-segunda-mano.png
 
-![comprar-de-segunda-mano.png](/fogata-recursos/imagenes/actividades/comprar-de-segunda-mano.png)
+![comprar-de-segunda-mano.png](/fogata-recursos/imagenes/actividades/comprar-de-segunda-mano.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3213,7 +3213,7 @@
 - **Nombre del archivo:** `comprar-de-segunda-mano.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/comprar-de-segunda-mano.png`
+- **Ruta completa:** `imagenes/actividades/comprar-de-segunda-mano.jpg`
 - **Tipo:** png
 
 </details>
@@ -3226,7 +3226,7 @@
 
 ### comprar-y-usar-papel-reciclado.png
 
-![comprar-y-usar-papel-reciclado.png](/fogata-recursos/imagenes/actividades/comprar-y-usar-papel-reciclado.png)
+![comprar-y-usar-papel-reciclado.png](/fogata-recursos/imagenes/actividades/comprar-y-usar-papel-reciclado.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3234,7 +3234,7 @@
 - **Nombre del archivo:** `comprar-y-usar-papel-reciclado.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/comprar-y-usar-papel-reciclado.png`
+- **Ruta completa:** `imagenes/actividades/comprar-y-usar-papel-reciclado.jpg`
 - **Tipo:** png
 
 </details>
@@ -3247,7 +3247,7 @@
 
 ### compromiso-por-el-agua.png
 
-![compromiso-por-el-agua.png](/fogata-recursos/imagenes/actividades/compromiso-por-el-agua.png)
+![compromiso-por-el-agua.png](/fogata-recursos/imagenes/actividades/compromiso-por-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3255,7 +3255,7 @@
 - **Nombre del archivo:** `compromiso-por-el-agua.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/compromiso-por-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/compromiso-por-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -3268,7 +3268,7 @@
 
 ### concurso-de-preguntas.png
 
-![concurso-de-preguntas.png](/fogata-recursos/imagenes/actividades/concurso-de-preguntas.png)
+![concurso-de-preguntas.png](/fogata-recursos/imagenes/actividades/concurso-de-preguntas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3276,7 +3276,7 @@
 - **Nombre del archivo:** `concurso-de-preguntas.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/concurso-de-preguntas.png`
+- **Ruta completa:** `imagenes/actividades/concurso-de-preguntas.jpg`
 - **Tipo:** png
 
 </details>
@@ -3289,7 +3289,7 @@
 
 ### concurso-de-pruebas.png
 
-![concurso-de-pruebas.png](/fogata-recursos/imagenes/actividades/concurso-de-pruebas.png)
+![concurso-de-pruebas.png](/fogata-recursos/imagenes/actividades/concurso-de-pruebas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3297,7 +3297,7 @@
 - **Nombre del archivo:** `concurso-de-pruebas.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/concurso-de-pruebas.png`
+- **Ruta completa:** `imagenes/actividades/concurso-de-pruebas.jpg`
 - **Tipo:** png
 
 </details>
@@ -3310,7 +3310,7 @@
 
 ### concurso-solar.png
 
-![concurso-solar.png](/fogata-recursos/imagenes/actividades/concurso-solar.png)
+![concurso-solar.png](/fogata-recursos/imagenes/actividades/concurso-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3318,7 +3318,7 @@
 - **Nombre del archivo:** `concurso-solar.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/concurso-solar.png`
+- **Ruta completa:** `imagenes/actividades/concurso-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -3331,7 +3331,7 @@
 
 ### confeccionar-un-cartel-sobre-contaminacion-marina.png
 
-![confeccionar-un-cartel-sobre-contaminacion-marina.png](/fogata-recursos/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png)
+![confeccionar-un-cartel-sobre-contaminacion-marina.png](/fogata-recursos/imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3339,7 +3339,7 @@
 - **Nombre del archivo:** `confeccionar-un-cartel-sobre-contaminacion-marina.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.png`
+- **Ruta completa:** `imagenes/actividades/confeccionar-un-cartel-sobre-contaminacion-marina.jpg`
 - **Tipo:** png
 
 </details>
@@ -3352,7 +3352,7 @@
 
 ### conociendo-a-los-insectos.png
 
-![conociendo-a-los-insectos.png](/fogata-recursos/imagenes/actividades/conociendo-a-los-insectos.png)
+![conociendo-a-los-insectos.png](/fogata-recursos/imagenes/actividades/conociendo-a-los-insectos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3360,7 +3360,7 @@
 - **Nombre del archivo:** `conociendo-a-los-insectos.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/conociendo-a-los-insectos.png`
+- **Ruta completa:** `imagenes/actividades/conociendo-a-los-insectos.jpg`
 - **Tipo:** png
 
 </details>
@@ -3373,7 +3373,7 @@
 
 ### conservacion-in-situ-vs-ex-situ.png
 
-![conservacion-in-situ-vs-ex-situ.png](/fogata-recursos/imagenes/actividades/conservacion-in-situ-vs-ex-situ.png)
+![conservacion-in-situ-vs-ex-situ.png](/fogata-recursos/imagenes/actividades/conservacion-in-situ-vs-ex-situ.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3381,7 +3381,7 @@
 - **Nombre del archivo:** `conservacion-in-situ-vs-ex-situ.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/conservacion-in-situ-vs-ex-situ.png`
+- **Ruta completa:** `imagenes/actividades/conservacion-in-situ-vs-ex-situ.jpg`
 - **Tipo:** png
 
 </details>
@@ -3394,7 +3394,7 @@
 
 ### construir-un-horno-solar.png
 
-![construir-un-horno-solar.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar.png)
+![construir-un-horno-solar.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3402,7 +3402,7 @@
 - **Nombre del archivo:** `construir-un-horno-solar.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construir-un-horno-solar.png`
+- **Ruta completa:** `imagenes/actividades/construir-un-horno-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -3415,7 +3415,7 @@
 
 ### construir-un-horno-solar2.png
 
-![construir-un-horno-solar2.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar2.png)
+![construir-un-horno-solar2.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3423,7 +3423,7 @@
 - **Nombre del archivo:** `construir-un-horno-solar2.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construir-un-horno-solar2.png`
+- **Ruta completa:** `imagenes/actividades/construir-un-horno-solar2.jpg`
 - **Tipo:** png
 
 </details>
@@ -3436,7 +3436,7 @@
 
 ### construir-un-horno-solar3.png
 
-![construir-un-horno-solar3.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar3.png)
+![construir-un-horno-solar3.png](/fogata-recursos/imagenes/actividades/construir-un-horno-solar3.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3444,7 +3444,7 @@
 - **Nombre del archivo:** `construir-un-horno-solar3.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construir-un-horno-solar3.png`
+- **Ruta completa:** `imagenes/actividades/construir-un-horno-solar3.jpg`
 - **Tipo:** png
 
 </details>
@@ -3457,7 +3457,7 @@
 
 ### construir-un-modelo-de-energia-renovable.png
 
-![construir-un-modelo-de-energia-renovable.png](/fogata-recursos/imagenes/actividades/construir-un-modelo-de-energia-renovable.png)
+![construir-un-modelo-de-energia-renovable.png](/fogata-recursos/imagenes/actividades/construir-un-modelo-de-energia-renovable.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3465,7 +3465,7 @@
 - **Nombre del archivo:** `construir-un-modelo-de-energia-renovable.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construir-un-modelo-de-energia-renovable.png`
+- **Ruta completa:** `imagenes/actividades/construir-un-modelo-de-energia-renovable.jpg`
 - **Tipo:** png
 
 </details>
@@ -3478,7 +3478,7 @@
 
 ### construir-una-abonera.png
 
-![construir-una-abonera.png](/fogata-recursos/imagenes/actividades/construir-una-abonera.png)
+![construir-una-abonera.png](/fogata-recursos/imagenes/actividades/construir-una-abonera.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3486,7 +3486,7 @@
 - **Nombre del archivo:** `construir-una-abonera.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construir-una-abonera.png`
+- **Ruta completa:** `imagenes/actividades/construir-una-abonera.jpg`
 - **Tipo:** png
 
 </details>
@@ -3499,7 +3499,7 @@
 
 ### construye-un-hotel-para-abejas.png
 
-![construye-un-hotel-para-abejas.png](/fogata-recursos/imagenes/actividades/construye-un-hotel-para-abejas.png)
+![construye-un-hotel-para-abejas.png](/fogata-recursos/imagenes/actividades/construye-un-hotel-para-abejas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3507,7 +3507,7 @@
 - **Nombre del archivo:** `construye-un-hotel-para-abejas.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construye-un-hotel-para-abejas.png`
+- **Ruta completa:** `imagenes/actividades/construye-un-hotel-para-abejas.jpg`
 - **Tipo:** png
 
 </details>
@@ -3520,7 +3520,7 @@
 
 ### construye-un-pozo.png
 
-![construye-un-pozo.png](/fogata-recursos/imagenes/actividades/construye-un-pozo.png)
+![construye-un-pozo.png](/fogata-recursos/imagenes/actividades/construye-un-pozo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3528,7 +3528,7 @@
 - **Nombre del archivo:** `construye-un-pozo.png`
 - **Tamaño:** 283K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/construye-un-pozo.png`
+- **Ruta completa:** `imagenes/actividades/construye-un-pozo.jpg`
 - **Tipo:** png
 
 </details>
@@ -3541,7 +3541,7 @@
 
 ### consumo-y-especies-amenazadas.png
 
-![consumo-y-especies-amenazadas.png](/fogata-recursos/imagenes/actividades/consumo-y-especies-amenazadas.png)
+![consumo-y-especies-amenazadas.png](/fogata-recursos/imagenes/actividades/consumo-y-especies-amenazadas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3549,7 +3549,7 @@
 - **Nombre del archivo:** `consumo-y-especies-amenazadas.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/consumo-y-especies-amenazadas.png`
+- **Ruta completa:** `imagenes/actividades/consumo-y-especies-amenazadas.jpg`
 - **Tipo:** png
 
 </details>
@@ -3562,7 +3562,7 @@
 
 ### contactar-con-expertos-en-cambio-climatico.png
 
-![contactar-con-expertos-en-cambio-climatico.png](/fogata-recursos/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.png)
+![contactar-con-expertos-en-cambio-climatico.png](/fogata-recursos/imagenes/actividades/contactar-con-expertos-en-cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3570,7 +3570,7 @@
 - **Nombre del archivo:** `contactar-con-expertos-en-cambio-climatico.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/contactar-con-expertos-en-cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/contactar-con-expertos-en-cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -3583,7 +3583,7 @@
 
 ### contando-historias-el-discurso-pixar.png
 
-![contando-historias-el-discurso-pixar.png](/fogata-recursos/imagenes/actividades/contando-historias-el-discurso-pixar.png)
+![contando-historias-el-discurso-pixar.png](/fogata-recursos/imagenes/actividades/contando-historias-el-discurso-pixar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3591,7 +3591,7 @@
 - **Nombre del archivo:** `contando-historias-el-discurso-pixar.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/contando-historias-el-discurso-pixar.png`
+- **Ruta completa:** `imagenes/actividades/contando-historias-el-discurso-pixar.jpg`
 - **Tipo:** png
 
 </details>
@@ -3604,7 +3604,7 @@
 
 ### conversacion-sobre-el-tiempo.png
 
-![conversacion-sobre-el-tiempo.png](/fogata-recursos/imagenes/actividades/conversacion-sobre-el-tiempo.png)
+![conversacion-sobre-el-tiempo.png](/fogata-recursos/imagenes/actividades/conversacion-sobre-el-tiempo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3612,7 +3612,7 @@
 - **Nombre del archivo:** `conversacion-sobre-el-tiempo.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/conversacion-sobre-el-tiempo.png`
+- **Ruta completa:** `imagenes/actividades/conversacion-sobre-el-tiempo.jpg`
 - **Tipo:** png
 
 </details>
@@ -3625,7 +3625,7 @@
 
 ### convertirse-en-un-cientifico-ciudadano.png
 
-![convertirse-en-un-cientifico-ciudadano.png](/fogata-recursos/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.png)
+![convertirse-en-un-cientifico-ciudadano.png](/fogata-recursos/imagenes/actividades/convertirse-en-un-cientifico-ciudadano.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3633,7 +3633,7 @@
 - **Nombre del archivo:** `convertirse-en-un-cientifico-ciudadano.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/convertirse-en-un-cientifico-ciudadano.png`
+- **Ruta completa:** `imagenes/actividades/convertirse-en-un-cientifico-ciudadano.jpg`
 - **Tipo:** png
 
 </details>
@@ -3646,7 +3646,7 @@
 
 ### corre-que-te-alcanzo.png
 
-![corre-que-te-alcanzo.png](/fogata-recursos/imagenes/actividades/corre-que-te-alcanzo.png)
+![corre-que-te-alcanzo.png](/fogata-recursos/imagenes/actividades/corre-que-te-alcanzo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3654,7 +3654,7 @@
 - **Nombre del archivo:** `corre-que-te-alcanzo.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/corre-que-te-alcanzo.png`
+- **Ruta completa:** `imagenes/actividades/corre-que-te-alcanzo.jpg`
 - **Tipo:** png
 
 </details>
@@ -3667,7 +3667,7 @@
 
 ### cosas-que-usamos.png
 
-![cosas-que-usamos.png](/fogata-recursos/imagenes/actividades/cosas-que-usamos.png)
+![cosas-que-usamos.png](/fogata-recursos/imagenes/actividades/cosas-que-usamos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3675,7 +3675,7 @@
 - **Nombre del archivo:** `cosas-que-usamos.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cosas-que-usamos.png`
+- **Ruta completa:** `imagenes/actividades/cosas-que-usamos.jpg`
 - **Tipo:** png
 
 </details>
@@ -3688,7 +3688,7 @@
 
 ### crear-un-diario-verde.png
 
-![crear-un-diario-verde.png](/fogata-recursos/imagenes/actividades/crear-un-diario-verde.png)
+![crear-un-diario-verde.png](/fogata-recursos/imagenes/actividades/crear-un-diario-verde.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3696,7 +3696,7 @@
 - **Nombre del archivo:** `crear-un-diario-verde.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-diario-verde.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-diario-verde.jpg`
 - **Tipo:** png
 
 </details>
@@ -3709,7 +3709,7 @@
 
 ### crear-un-grupo-de-investigacion-sobre-el-clima.png
 
-![crear-un-grupo-de-investigacion-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.png)
+![crear-un-grupo-de-investigacion-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3717,7 +3717,7 @@
 - **Nombre del archivo:** `crear-un-grupo-de-investigacion-sobre-el-clima.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-grupo-de-investigacion-sobre-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -3730,7 +3730,7 @@
 
 ### crear-un-jardin-comunitario.png
 
-![crear-un-jardin-comunitario.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-comunitario.png)
+![crear-un-jardin-comunitario.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-comunitario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3738,7 +3738,7 @@
 - **Nombre del archivo:** `crear-un-jardin-comunitario.png`
 - **Tamaño:** 241K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-jardin-comunitario.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-jardin-comunitario.jpg`
 - **Tipo:** png
 
 </details>
@@ -3751,7 +3751,7 @@
 
 ### crear-un-jardin-de-flores-y-vegetales.png
 
-![crear-un-jardin-de-flores-y-vegetales.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.png)
+![crear-un-jardin-de-flores-y-vegetales.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3759,7 +3759,7 @@
 - **Nombre del archivo:** `crear-un-jardin-de-flores-y-vegetales.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-jardin-de-flores-y-vegetales.jpg`
 - **Tipo:** png
 
 </details>
@@ -3772,7 +3772,7 @@
 
 ### crear-un-jardin-en-un-balcon.png
 
-![crear-un-jardin-en-un-balcon.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-en-un-balcon.png)
+![crear-un-jardin-en-un-balcon.png](/fogata-recursos/imagenes/actividades/crear-un-jardin-en-un-balcon.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3780,7 +3780,7 @@
 - **Nombre del archivo:** `crear-un-jardin-en-un-balcon.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-jardin-en-un-balcon.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-jardin-en-un-balcon.jpg`
 - **Tipo:** png
 
 </details>
@@ -3793,7 +3793,7 @@
 
 ### crear-un-mini-prado-de-flores-silvestres.png
 
-![crear-un-mini-prado-de-flores-silvestres.png](/fogata-recursos/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.png)
+![crear-un-mini-prado-de-flores-silvestres.png](/fogata-recursos/imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3801,7 +3801,7 @@
 - **Nombre del archivo:** `crear-un-mini-prado-de-flores-silvestres.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-mini-prado-de-flores-silvestres.jpg`
 - **Tipo:** png
 
 </details>
@@ -3814,7 +3814,7 @@
 
 ### crear-un-zumbido.png
 
-![crear-un-zumbido.png](/fogata-recursos/imagenes/actividades/crear-un-zumbido.png)
+![crear-un-zumbido.png](/fogata-recursos/imagenes/actividades/crear-un-zumbido.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3822,7 +3822,7 @@
 - **Nombre del archivo:** `crear-un-zumbido.png`
 - **Tamaño:** 315K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/crear-un-zumbido.png`
+- **Ruta completa:** `imagenes/actividades/crear-un-zumbido.jpg`
 - **Tipo:** png
 
 </details>
@@ -3835,7 +3835,7 @@
 
 ### creatividad-por-el-clima.png
 
-![creatividad-por-el-clima.png](/fogata-recursos/imagenes/actividades/creatividad-por-el-clima.png)
+![creatividad-por-el-clima.png](/fogata-recursos/imagenes/actividades/creatividad-por-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3843,7 +3843,7 @@
 - **Nombre del archivo:** `creatividad-por-el-clima.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/creatividad-por-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/creatividad-por-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -3856,7 +3856,7 @@
 
 ### cual-es-tu-posicion-sobre.png
 
-![cual-es-tu-posicion-sobre.png](/fogata-recursos/imagenes/actividades/cual-es-tu-posicion-sobre.png)
+![cual-es-tu-posicion-sobre.png](/fogata-recursos/imagenes/actividades/cual-es-tu-posicion-sobre.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3864,7 +3864,7 @@
 - **Nombre del archivo:** `cual-es-tu-posicion-sobre.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cual-es-tu-posicion-sobre.png`
+- **Ruta completa:** `imagenes/actividades/cual-es-tu-posicion-sobre.jpg`
 - **Tipo:** png
 
 </details>
@@ -3877,7 +3877,7 @@
 
 ### cuando-se-degradan.png
 
-![cuando-se-degradan.png](/fogata-recursos/imagenes/actividades/cuando-se-degradan.png)
+![cuando-se-degradan.png](/fogata-recursos/imagenes/actividades/cuando-se-degradan.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3885,7 +3885,7 @@
 - **Nombre del archivo:** `cuando-se-degradan.png`
 - **Tamaño:** 251K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cuando-se-degradan.png`
+- **Ruta completa:** `imagenes/actividades/cuando-se-degradan.jpg`
 - **Tipo:** png
 
 </details>
@@ -3898,7 +3898,7 @@
 
 ### cuatro-esquinas.png
 
-![cuatro-esquinas.png](/fogata-recursos/imagenes/actividades/cuatro-esquinas.png)
+![cuatro-esquinas.png](/fogata-recursos/imagenes/actividades/cuatro-esquinas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3906,7 +3906,7 @@
 - **Nombre del archivo:** `cuatro-esquinas.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cuatro-esquinas.png`
+- **Ruta completa:** `imagenes/actividades/cuatro-esquinas.jpg`
 - **Tipo:** png
 
 </details>
@@ -3919,7 +3919,7 @@
 
 ### cuidemos-nuestro-medio-ambiente.png
 
-![cuidemos-nuestro-medio-ambiente.png](/fogata-recursos/imagenes/actividades/cuidemos-nuestro-medio-ambiente.png)
+![cuidemos-nuestro-medio-ambiente.png](/fogata-recursos/imagenes/actividades/cuidemos-nuestro-medio-ambiente.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3927,7 +3927,7 @@
 - **Nombre del archivo:** `cuidemos-nuestro-medio-ambiente.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/cuidemos-nuestro-medio-ambiente.png`
+- **Ruta completa:** `imagenes/actividades/cuidemos-nuestro-medio-ambiente.jpg`
 - **Tipo:** png
 
 </details>
@@ -3940,7 +3940,7 @@
 
 ### curso-intensivo-cultural.png
 
-![curso-intensivo-cultural.png](/fogata-recursos/imagenes/actividades/curso-intensivo-cultural.png)
+![curso-intensivo-cultural.png](/fogata-recursos/imagenes/actividades/curso-intensivo-cultural.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3948,7 +3948,7 @@
 - **Nombre del archivo:** `curso-intensivo-cultural.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/curso-intensivo-cultural.png`
+- **Ruta completa:** `imagenes/actividades/curso-intensivo-cultural.jpg`
 - **Tipo:** png
 
 </details>
@@ -3961,7 +3961,7 @@
 
 ### danza-del-viento-y-las-olas.png
 
-![danza-del-viento-y-las-olas.png](/fogata-recursos/imagenes/actividades/danza-del-viento-y-las-olas.png)
+![danza-del-viento-y-las-olas.png](/fogata-recursos/imagenes/actividades/danza-del-viento-y-las-olas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3969,7 +3969,7 @@
 - **Nombre del archivo:** `danza-del-viento-y-las-olas.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/danza-del-viento-y-las-olas.png`
+- **Ruta completa:** `imagenes/actividades/danza-del-viento-y-las-olas.jpg`
 - **Tipo:** png
 
 </details>
@@ -3982,7 +3982,7 @@
 
 ### darles-una-oportunidad-a-las-abejas.png
 
-![darles-una-oportunidad-a-las-abejas.png](/fogata-recursos/imagenes/actividades/darles-una-oportunidad-a-las-abejas.png)
+![darles-una-oportunidad-a-las-abejas.png](/fogata-recursos/imagenes/actividades/darles-una-oportunidad-a-las-abejas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -3990,7 +3990,7 @@
 - **Nombre del archivo:** `darles-una-oportunidad-a-las-abejas.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/darles-una-oportunidad-a-las-abejas.png`
+- **Ruta completa:** `imagenes/actividades/darles-una-oportunidad-a-las-abejas.jpg`
 - **Tipo:** png
 
 </details>
@@ -4003,7 +4003,7 @@
 
 ### de-donde-viene-tu-agua.png
 
-![de-donde-viene-tu-agua.png](/fogata-recursos/imagenes/actividades/de-donde-viene-tu-agua.png)
+![de-donde-viene-tu-agua.png](/fogata-recursos/imagenes/actividades/de-donde-viene-tu-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4011,7 +4011,7 @@
 - **Nombre del archivo:** `de-donde-viene-tu-agua.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/de-donde-viene-tu-agua.png`
+- **Ruta completa:** `imagenes/actividades/de-donde-viene-tu-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4024,7 +4024,7 @@
 
 ### de-suelos-organicos.png
 
-![de-suelos-organicos.png](/fogata-recursos/imagenes/actividades/de-suelos-organicos.png)
+![de-suelos-organicos.png](/fogata-recursos/imagenes/actividades/de-suelos-organicos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4032,7 +4032,7 @@
 - **Nombre del archivo:** `de-suelos-organicos.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/de-suelos-organicos.png`
+- **Ruta completa:** `imagenes/actividades/de-suelos-organicos.jpg`
 - **Tipo:** png
 
 </details>
@@ -4045,7 +4045,7 @@
 
 ### debate-sobre-cambio-climatico.png
 
-![debate-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/debate-sobre-cambio-climatico.png)
+![debate-sobre-cambio-climatico.png](/fogata-recursos/imagenes/actividades/debate-sobre-cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4053,7 +4053,7 @@
 - **Nombre del archivo:** `debate-sobre-cambio-climatico.png`
 - **Tamaño:** 246K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/debate-sobre-cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/debate-sobre-cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -4066,7 +4066,7 @@
 
 ### deforestacion-y-degradacion.png
 
-![deforestacion-y-degradacion.png](/fogata-recursos/imagenes/actividades/deforestacion-y-degradacion.png)
+![deforestacion-y-degradacion.png](/fogata-recursos/imagenes/actividades/deforestacion-y-degradacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4074,7 +4074,7 @@
 - **Nombre del archivo:** `deforestacion-y-degradacion.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/deforestacion-y-degradacion.png`
+- **Ruta completa:** `imagenes/actividades/deforestacion-y-degradacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -4087,7 +4087,7 @@
 
 ### deja-la-botella.png
 
-![deja-la-botella.png](/fogata-recursos/imagenes/actividades/deja-la-botella.png)
+![deja-la-botella.png](/fogata-recursos/imagenes/actividades/deja-la-botella.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4095,7 +4095,7 @@
 - **Nombre del archivo:** `deja-la-botella.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/deja-la-botella.png`
+- **Ruta completa:** `imagenes/actividades/deja-la-botella.jpg`
 - **Tipo:** png
 
 </details>
@@ -4108,7 +4108,7 @@
 
 ### derrame-de-petroleo-simulado.png
 
-![derrame-de-petroleo-simulado.png](/fogata-recursos/imagenes/actividades/derrame-de-petroleo-simulado.png)
+![derrame-de-petroleo-simulado.png](/fogata-recursos/imagenes/actividades/derrame-de-petroleo-simulado.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4116,7 +4116,7 @@
 - **Nombre del archivo:** `derrame-de-petroleo-simulado.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/derrame-de-petroleo-simulado.png`
+- **Ruta completa:** `imagenes/actividades/derrame-de-petroleo-simulado.jpg`
 - **Tipo:** png
 
 </details>
@@ -4129,7 +4129,7 @@
 
 ### desafio-sin-electronicos.png
 
-![desafio-sin-electronicos.png](/fogata-recursos/imagenes/actividades/desafio-sin-electronicos.png)
+![desafio-sin-electronicos.png](/fogata-recursos/imagenes/actividades/desafio-sin-electronicos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4137,7 +4137,7 @@
 - **Nombre del archivo:** `desafio-sin-electronicos.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/desafio-sin-electronicos.png`
+- **Ruta completa:** `imagenes/actividades/desafio-sin-electronicos.jpg`
 - **Tipo:** png
 
 </details>
@@ -4150,7 +4150,7 @@
 
 ### desarrollar-una-campana-con-posters.png
 
-![desarrollar-una-campana-con-posters.png](/fogata-recursos/imagenes/actividades/desarrollar-una-campana-con-posters.png)
+![desarrollar-una-campana-con-posters.png](/fogata-recursos/imagenes/actividades/desarrollar-una-campana-con-posters.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4158,7 +4158,7 @@
 - **Nombre del archivo:** `desarrollar-una-campana-con-posters.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/desarrollar-una-campana-con-posters.png`
+- **Ruta completa:** `imagenes/actividades/desarrollar-una-campana-con-posters.jpg`
 - **Tipo:** png
 
 </details>
@@ -4171,7 +4171,7 @@
 
 ### descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png
 
-![descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png)
+![descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4179,7 +4179,7 @@
 - **Nombre del archivo:** `descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.png`
+- **Ruta completa:** `imagenes/actividades/descubriendo-la-naturaleza-con-inaturalist-siguiente-nivel.jpg`
 - **Tipo:** png
 
 </details>
@@ -4192,7 +4192,7 @@
 
 ### descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png
 
-![descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png)
+![descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png](/fogata-recursos/imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4200,7 +4200,7 @@
 - **Nombre del archivo:** `descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.png`
+- **Ruta completa:** `imagenes/actividades/descubriendo-la-naturaleza-con-la-aplicacion-seek-de-inaturalist.jpg`
 - **Tipo:** png
 
 </details>
@@ -4213,7 +4213,7 @@
 
 ### desenterrando-la-suciedad.png
 
-![desenterrando-la-suciedad.png](/fogata-recursos/imagenes/actividades/desenterrando-la-suciedad.png)
+![desenterrando-la-suciedad.png](/fogata-recursos/imagenes/actividades/desenterrando-la-suciedad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4221,7 +4221,7 @@
 - **Nombre del archivo:** `desenterrando-la-suciedad.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/desenterrando-la-suciedad.png`
+- **Ruta completa:** `imagenes/actividades/desenterrando-la-suciedad.jpg`
 - **Tipo:** png
 
 </details>
@@ -4234,7 +4234,7 @@
 
 ### desfile-de-modas-con-materiales-reciclados.png
 
-![desfile-de-modas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png)
+![desfile-de-modas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/desfile-de-modas-con-materiales-reciclados.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4242,7 +4242,7 @@
 - **Nombre del archivo:** `desfile-de-modas-con-materiales-reciclados.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/desfile-de-modas-con-materiales-reciclados.png`
+- **Ruta completa:** `imagenes/actividades/desfile-de-modas-con-materiales-reciclados.jpg`
 - **Tipo:** png
 
 </details>
@@ -4255,7 +4255,7 @@
 
 ### dia-internacional-de-la-biodiversidad.png
 
-![dia-internacional-de-la-biodiversidad.png](/fogata-recursos/imagenes/actividades/dia-internacional-de-la-biodiversidad.png)
+![dia-internacional-de-la-biodiversidad.png](/fogata-recursos/imagenes/actividades/dia-internacional-de-la-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4263,7 +4263,7 @@
 - **Nombre del archivo:** `dia-internacional-de-la-biodiversidad.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/dia-internacional-de-la-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/dia-internacional-de-la-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -4276,7 +4276,7 @@
 
 ### diario-de-alimentos.png
 
-![diario-de-alimentos.png](/fogata-recursos/imagenes/actividades/diario-de-alimentos.png)
+![diario-de-alimentos.png](/fogata-recursos/imagenes/actividades/diario-de-alimentos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4284,7 +4284,7 @@
 - **Nombre del archivo:** `diario-de-alimentos.png`
 - **Tamaño:** 139K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/diario-de-alimentos.png`
+- **Ruta completa:** `imagenes/actividades/diario-de-alimentos.jpg`
 - **Tipo:** png
 
 </details>
@@ -4297,7 +4297,7 @@
 
 ### dibujando-el-agua.png
 
-![dibujando-el-agua.png](/fogata-recursos/imagenes/actividades/dibujando-el-agua.png)
+![dibujando-el-agua.png](/fogata-recursos/imagenes/actividades/dibujando-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4305,7 +4305,7 @@
 - **Nombre del archivo:** `dibujando-el-agua.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/dibujando-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/dibujando-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4318,7 +4318,7 @@
 
 ### dibujos-de-cadenas-alimenticias.png
 
-![dibujos-de-cadenas-alimenticias.png](/fogata-recursos/imagenes/actividades/dibujos-de-cadenas-alimenticias.png)
+![dibujos-de-cadenas-alimenticias.png](/fogata-recursos/imagenes/actividades/dibujos-de-cadenas-alimenticias.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4326,7 +4326,7 @@
 - **Nombre del archivo:** `dibujos-de-cadenas-alimenticias.png`
 - **Tamaño:** 251K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/dibujos-de-cadenas-alimenticias.png`
+- **Ruta completa:** `imagenes/actividades/dibujos-de-cadenas-alimenticias.jpg`
 - **Tipo:** png
 
 </details>
@@ -4339,7 +4339,7 @@
 
 ### dibujos-polvorientos.png
 
-![dibujos-polvorientos.png](/fogata-recursos/imagenes/actividades/dibujos-polvorientos.png)
+![dibujos-polvorientos.png](/fogata-recursos/imagenes/actividades/dibujos-polvorientos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4347,7 +4347,7 @@
 - **Nombre del archivo:** `dibujos-polvorientos.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/dibujos-polvorientos.png`
+- **Ruta completa:** `imagenes/actividades/dibujos-polvorientos.jpg`
 - **Tipo:** png
 
 </details>
@@ -4360,7 +4360,7 @@
 
 ### dieta-energetica.png
 
-![dieta-energetica.png](/fogata-recursos/imagenes/actividades/dieta-energetica.png)
+![dieta-energetica.png](/fogata-recursos/imagenes/actividades/dieta-energetica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4368,7 +4368,7 @@
 - **Nombre del archivo:** `dieta-energetica.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/dieta-energetica.png`
+- **Ruta completa:** `imagenes/actividades/dieta-energetica.jpg`
 - **Tipo:** png
 
 </details>
@@ -4381,7 +4381,7 @@
 
 ### disecciona-una-flor.png
 
-![disecciona-una-flor.png](/fogata-recursos/imagenes/actividades/disecciona-una-flor.png)
+![disecciona-una-flor.png](/fogata-recursos/imagenes/actividades/disecciona-una-flor.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4389,7 +4389,7 @@
 - **Nombre del archivo:** `disecciona-una-flor.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/disecciona-una-flor.png`
+- **Ruta completa:** `imagenes/actividades/disecciona-una-flor.jpg`
 - **Tipo:** png
 
 </details>
@@ -4402,7 +4402,7 @@
 
 ### disenar-notas-recordatorias-para-ahorrar-energia.png
 
-![disenar-notas-recordatorias-para-ahorrar-energia.png](/fogata-recursos/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.png)
+![disenar-notas-recordatorias-para-ahorrar-energia.png](/fogata-recursos/imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4410,7 +4410,7 @@
 - **Nombre del archivo:** `disenar-notas-recordatorias-para-ahorrar-energia.png`
 - **Tamaño:** 246K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.png`
+- **Ruta completa:** `imagenes/actividades/disenar-notas-recordatorias-para-ahorrar-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -4423,7 +4423,7 @@
 
 ### diversion-con-peliculas.png
 
-![diversion-con-peliculas.png](/fogata-recursos/imagenes/actividades/diversion-con-peliculas.png)
+![diversion-con-peliculas.png](/fogata-recursos/imagenes/actividades/diversion-con-peliculas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4431,7 +4431,7 @@
 - **Nombre del archivo:** `diversion-con-peliculas.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/diversion-con-peliculas.png`
+- **Ruta completa:** `imagenes/actividades/diversion-con-peliculas.jpg`
 - **Tipo:** png
 
 </details>
@@ -4444,7 +4444,7 @@
 
 ### diversion-solar.png
 
-![diversion-solar.png](/fogata-recursos/imagenes/actividades/diversion-solar.png)
+![diversion-solar.png](/fogata-recursos/imagenes/actividades/diversion-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4452,7 +4452,7 @@
 - **Nombre del archivo:** `diversion-solar.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/diversion-solar.png`
+- **Ruta completa:** `imagenes/actividades/diversion-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -4465,7 +4465,7 @@
 
 ### donde-esta-el-agua.png
 
-![donde-esta-el-agua.png](/fogata-recursos/imagenes/actividades/donde-esta-el-agua.png)
+![donde-esta-el-agua.png](/fogata-recursos/imagenes/actividades/donde-esta-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4473,7 +4473,7 @@
 - **Nombre del archivo:** `donde-esta-el-agua.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/donde-esta-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/donde-esta-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4486,7 +4486,7 @@
 
 ### ducha-solar.png
 
-![ducha-solar.png](/fogata-recursos/imagenes/actividades/ducha-solar.png)
+![ducha-solar.png](/fogata-recursos/imagenes/actividades/ducha-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4494,7 +4494,7 @@
 - **Nombre del archivo:** `ducha-solar.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ducha-solar.png`
+- **Ruta completa:** `imagenes/actividades/ducha-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -4507,7 +4507,7 @@
 
 ### echa-una-mirada-al-suelo.png
 
-![echa-una-mirada-al-suelo.png](/fogata-recursos/imagenes/actividades/echa-una-mirada-al-suelo.png)
+![echa-una-mirada-al-suelo.png](/fogata-recursos/imagenes/actividades/echa-una-mirada-al-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4515,7 +4515,7 @@
 - **Nombre del archivo:** `echa-una-mirada-al-suelo.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/echa-una-mirada-al-suelo.png`
+- **Ruta completa:** `imagenes/actividades/echa-una-mirada-al-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -4528,7 +4528,7 @@
 
 ### echando-raices.png
 
-![echando-raices.png](/fogata-recursos/imagenes/actividades/echando-raices.png)
+![echando-raices.png](/fogata-recursos/imagenes/actividades/echando-raices.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4536,7 +4536,7 @@
 - **Nombre del archivo:** `echando-raices.png`
 - **Tamaño:** 315K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/echando-raices.png`
+- **Ruta completa:** `imagenes/actividades/echando-raices.jpg`
 - **Tipo:** png
 
 </details>
@@ -4549,7 +4549,7 @@
 
 ### ecoturismo.png
 
-![ecoturismo.png](/fogata-recursos/imagenes/actividades/ecoturismo.png)
+![ecoturismo.png](/fogata-recursos/imagenes/actividades/ecoturismo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4557,7 +4557,7 @@
 - **Nombre del archivo:** `ecoturismo.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ecoturismo.png`
+- **Ruta completa:** `imagenes/actividades/ecoturismo.jpg`
 - **Tipo:** png
 
 </details>
@@ -4570,7 +4570,7 @@
 
 ### edificios-eficientes.png
 
-![edificios-eficientes.png](/fogata-recursos/imagenes/actividades/edificios-eficientes.png)
+![edificios-eficientes.png](/fogata-recursos/imagenes/actividades/edificios-eficientes.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4578,7 +4578,7 @@
 - **Nombre del archivo:** `edificios-eficientes.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/edificios-eficientes.png`
+- **Ruta completa:** `imagenes/actividades/edificios-eficientes.jpg`
 - **Tipo:** png
 
 </details>
@@ -4591,7 +4591,7 @@
 
 ### efecto-invernadero.png
 
-![efecto-invernadero.png](/fogata-recursos/imagenes/actividades/efecto-invernadero.png)
+![efecto-invernadero.png](/fogata-recursos/imagenes/actividades/efecto-invernadero.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4599,7 +4599,7 @@
 - **Nombre del archivo:** `efecto-invernadero.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/efecto-invernadero.png`
+- **Ruta completa:** `imagenes/actividades/efecto-invernadero.jpg`
 - **Tipo:** png
 
 </details>
@@ -4612,7 +4612,7 @@
 
 ### el-agua-en-tu-armario.png
 
-![el-agua-en-tu-armario.png](/fogata-recursos/imagenes/actividades/el-agua-en-tu-armario.png)
+![el-agua-en-tu-armario.png](/fogata-recursos/imagenes/actividades/el-agua-en-tu-armario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4620,7 +4620,7 @@
 - **Nombre del archivo:** `el-agua-en-tu-armario.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-agua-en-tu-armario.png`
+- **Ruta completa:** `imagenes/actividades/el-agua-en-tu-armario.jpg`
 - **Tipo:** png
 
 </details>
@@ -4633,7 +4633,7 @@
 
 ### el-arte-de-reutilizar.png
 
-![el-arte-de-reutilizar.png](/fogata-recursos/imagenes/actividades/el-arte-de-reutilizar.png)
+![el-arte-de-reutilizar.png](/fogata-recursos/imagenes/actividades/el-arte-de-reutilizar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4641,7 +4641,7 @@
 - **Nombre del archivo:** `el-arte-de-reutilizar.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-arte-de-reutilizar.png`
+- **Ruta completa:** `imagenes/actividades/el-arte-de-reutilizar.jpg`
 - **Tipo:** png
 
 </details>
@@ -4654,7 +4654,7 @@
 
 ### el-baile-del-agua.png
 
-![el-baile-del-agua.png](/fogata-recursos/imagenes/actividades/el-baile-del-agua.png)
+![el-baile-del-agua.png](/fogata-recursos/imagenes/actividades/el-baile-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4662,7 +4662,7 @@
 - **Nombre del archivo:** `el-baile-del-agua.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-baile-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/el-baile-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4675,7 +4675,7 @@
 
 ### el-barquito-chiquitito.png
 
-![el-barquito-chiquitito.png](/fogata-recursos/imagenes/actividades/el-barquito-chiquitito.png)
+![el-barquito-chiquitito.png](/fogata-recursos/imagenes/actividades/el-barquito-chiquitito.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4683,7 +4683,7 @@
 - **Nombre del archivo:** `el-barquito-chiquitito.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-barquito-chiquitito.png`
+- **Ruta completa:** `imagenes/actividades/el-barquito-chiquitito.jpg`
 - **Tipo:** png
 
 </details>
@@ -4696,7 +4696,7 @@
 
 ### el-debate-sobre-la-mg.png
 
-![el-debate-sobre-la-mg.png](/fogata-recursos/imagenes/actividades/el-debate-sobre-la-mg.png)
+![el-debate-sobre-la-mg.png](/fogata-recursos/imagenes/actividades/el-debate-sobre-la-mg.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4704,7 +4704,7 @@
 - **Nombre del archivo:** `el-debate-sobre-la-mg.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-debate-sobre-la-mg.png`
+- **Ruta completa:** `imagenes/actividades/el-debate-sobre-la-mg.jpg`
 - **Tipo:** png
 
 </details>
@@ -4717,7 +4717,7 @@
 
 ### el-destino-de-los-bosques.png
 
-![el-destino-de-los-bosques.png](/fogata-recursos/imagenes/actividades/el-destino-de-los-bosques.png)
+![el-destino-de-los-bosques.png](/fogata-recursos/imagenes/actividades/el-destino-de-los-bosques.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4725,7 +4725,7 @@
 - **Nombre del archivo:** `el-destino-de-los-bosques.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-destino-de-los-bosques.png`
+- **Ruta completa:** `imagenes/actividades/el-destino-de-los-bosques.jpg`
 - **Tipo:** png
 
 </details>
@@ -4738,7 +4738,7 @@
 
 ### el-factor-nutricional.png
 
-![el-factor-nutricional.png](/fogata-recursos/imagenes/actividades/el-factor-nutricional.png)
+![el-factor-nutricional.png](/fogata-recursos/imagenes/actividades/el-factor-nutricional.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4746,7 +4746,7 @@
 - **Nombre del archivo:** `el-factor-nutricional.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-factor-nutricional.png`
+- **Ruta completa:** `imagenes/actividades/el-factor-nutricional.jpg`
 - **Tipo:** png
 
 </details>
@@ -4759,7 +4759,7 @@
 
 ### el-futuro-del-agua.png
 
-![el-futuro-del-agua.png](/fogata-recursos/imagenes/actividades/el-futuro-del-agua.png)
+![el-futuro-del-agua.png](/fogata-recursos/imagenes/actividades/el-futuro-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4767,7 +4767,7 @@
 - **Nombre del archivo:** `el-futuro-del-agua.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-futuro-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/el-futuro-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4780,7 +4780,7 @@
 
 ### el-gran-debate-sobre-el-clima.png
 
-![el-gran-debate-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/el-gran-debate-sobre-el-clima.png)
+![el-gran-debate-sobre-el-clima.png](/fogata-recursos/imagenes/actividades/el-gran-debate-sobre-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4788,7 +4788,7 @@
 - **Nombre del archivo:** `el-gran-debate-sobre-el-clima.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-gran-debate-sobre-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/el-gran-debate-sobre-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -4801,7 +4801,7 @@
 
 ### el-juego-del-ciclo-del-agua.png
 
-![el-juego-del-ciclo-del-agua.png](/fogata-recursos/imagenes/actividades/el-juego-del-ciclo-del-agua.png)
+![el-juego-del-ciclo-del-agua.png](/fogata-recursos/imagenes/actividades/el-juego-del-ciclo-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4809,7 +4809,7 @@
 - **Nombre del archivo:** `el-juego-del-ciclo-del-agua.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-juego-del-ciclo-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/el-juego-del-ciclo-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4822,7 +4822,7 @@
 
 ### el-juego-del-globo.png
 
-![el-juego-del-globo.png](/fogata-recursos/imagenes/actividades/el-juego-del-globo.png)
+![el-juego-del-globo.png](/fogata-recursos/imagenes/actividades/el-juego-del-globo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4830,7 +4830,7 @@
 - **Nombre del archivo:** `el-juego-del-globo.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-juego-del-globo.png`
+- **Ruta completa:** `imagenes/actividades/el-juego-del-globo.jpg`
 - **Tipo:** png
 
 </details>
@@ -4843,7 +4843,7 @@
 
 ### el-precio-del-agua.png
 
-![el-precio-del-agua.png](/fogata-recursos/imagenes/actividades/el-precio-del-agua.png)
+![el-precio-del-agua.png](/fogata-recursos/imagenes/actividades/el-precio-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4851,7 +4851,7 @@
 - **Nombre del archivo:** `el-precio-del-agua.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-precio-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/el-precio-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -4864,7 +4864,7 @@
 
 ### el-suelo-en-escena.png
 
-![el-suelo-en-escena.png](/fogata-recursos/imagenes/actividades/el-suelo-en-escena.png)
+![el-suelo-en-escena.png](/fogata-recursos/imagenes/actividades/el-suelo-en-escena.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4872,7 +4872,7 @@
 - **Nombre del archivo:** `el-suelo-en-escena.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-suelo-en-escena.png`
+- **Ruta completa:** `imagenes/actividades/el-suelo-en-escena.jpg`
 - **Tipo:** png
 
 </details>
@@ -4885,7 +4885,7 @@
 
 ### el-suelo-y-la-salud.png
 
-![el-suelo-y-la-salud.png](/fogata-recursos/imagenes/actividades/el-suelo-y-la-salud.png)
+![el-suelo-y-la-salud.png](/fogata-recursos/imagenes/actividades/el-suelo-y-la-salud.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4893,7 +4893,7 @@
 - **Nombre del archivo:** `el-suelo-y-la-salud.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-suelo-y-la-salud.png`
+- **Ruta completa:** `imagenes/actividades/el-suelo-y-la-salud.jpg`
 - **Tipo:** png
 
 </details>
@@ -4906,7 +4906,7 @@
 
 ### el-viejo-geiser.png
 
-![el-viejo-geiser.png](/fogata-recursos/imagenes/actividades/el-viejo-geiser.png)
+![el-viejo-geiser.png](/fogata-recursos/imagenes/actividades/el-viejo-geiser.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4914,7 +4914,7 @@
 - **Nombre del archivo:** `el-viejo-geiser.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/el-viejo-geiser.png`
+- **Ruta completa:** `imagenes/actividades/el-viejo-geiser.jpg`
 - **Tipo:** png
 
 </details>
@@ -4927,7 +4927,7 @@
 
 ### electricidad-en-todas-partes.png
 
-![electricidad-en-todas-partes.png](/fogata-recursos/imagenes/actividades/electricidad-en-todas-partes.png)
+![electricidad-en-todas-partes.png](/fogata-recursos/imagenes/actividades/electricidad-en-todas-partes.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4935,7 +4935,7 @@
 - **Nombre del archivo:** `electricidad-en-todas-partes.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/electricidad-en-todas-partes.png`
+- **Ruta completa:** `imagenes/actividades/electricidad-en-todas-partes.jpg`
 - **Tipo:** png
 
 </details>
@@ -4948,7 +4948,7 @@
 
 ### electrodomesticos-ahorradores-de-energia.png
 
-![electrodomesticos-ahorradores-de-energia.png](/fogata-recursos/imagenes/actividades/electrodomesticos-ahorradores-de-energia.png)
+![electrodomesticos-ahorradores-de-energia.png](/fogata-recursos/imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4956,7 +4956,7 @@
 - **Nombre del archivo:** `electrodomesticos-ahorradores-de-energia.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/electrodomesticos-ahorradores-de-energia.png`
+- **Ruta completa:** `imagenes/actividades/electrodomesticos-ahorradores-de-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -4969,7 +4969,7 @@
 
 ### elegir-alimentos-amigables-con-los-polinizadores.png
 
-![elegir-alimentos-amigables-con-los-polinizadores.png](/fogata-recursos/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.png)
+![elegir-alimentos-amigables-con-los-polinizadores.png](/fogata-recursos/imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4977,7 +4977,7 @@
 - **Nombre del archivo:** `elegir-alimentos-amigables-con-los-polinizadores.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.png`
+- **Ruta completa:** `imagenes/actividades/elegir-alimentos-amigables-con-los-polinizadores.jpg`
 - **Tipo:** png
 
 </details>
@@ -4990,7 +4990,7 @@
 
 ### empleos-forestales.png
 
-![empleos-forestales.png](/fogata-recursos/imagenes/actividades/empleos-forestales.png)
+![empleos-forestales.png](/fogata-recursos/imagenes/actividades/empleos-forestales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -4998,7 +4998,7 @@
 - **Nombre del archivo:** `empleos-forestales.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/empleos-forestales.png`
+- **Ruta completa:** `imagenes/actividades/empleos-forestales.jpg`
 - **Tipo:** png
 
 </details>
@@ -5011,7 +5011,7 @@
 
 ### empujon-del-viento.png
 
-![empujon-del-viento.png](/fogata-recursos/imagenes/actividades/empujon-del-viento.png)
+![empujon-del-viento.png](/fogata-recursos/imagenes/actividades/empujon-del-viento.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5019,7 +5019,7 @@
 - **Nombre del archivo:** `empujon-del-viento.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/empujon-del-viento.png`
+- **Ruta completa:** `imagenes/actividades/empujon-del-viento.jpg`
 - **Tipo:** png
 
 </details>
@@ -5032,7 +5032,7 @@
 
 ### encuentra-tu-camino.png
 
-![encuentra-tu-camino.png](/fogata-recursos/imagenes/actividades/encuentra-tu-camino.png)
+![encuentra-tu-camino.png](/fogata-recursos/imagenes/actividades/encuentra-tu-camino.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5040,7 +5040,7 @@
 - **Nombre del archivo:** `encuentra-tu-camino.png`
 - **Tamaño:** 251K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/encuentra-tu-camino.png`
+- **Ruta completa:** `imagenes/actividades/encuentra-tu-camino.jpg`
 - **Tipo:** png
 
 </details>
@@ -5053,7 +5053,7 @@
 
 ### encuesta-de-polinizadores.png
 
-![encuesta-de-polinizadores.png](/fogata-recursos/imagenes/actividades/encuesta-de-polinizadores.png)
+![encuesta-de-polinizadores.png](/fogata-recursos/imagenes/actividades/encuesta-de-polinizadores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5061,7 +5061,7 @@
 - **Nombre del archivo:** `encuesta-de-polinizadores.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/encuesta-de-polinizadores.png`
+- **Ruta completa:** `imagenes/actividades/encuesta-de-polinizadores.jpg`
 - **Tipo:** png
 
 </details>
@@ -5074,7 +5074,7 @@
 
 ### encuesta-sobre-el-suelo.png
 
-![encuesta-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/encuesta-sobre-el-suelo.png)
+![encuesta-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/encuesta-sobre-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5082,7 +5082,7 @@
 - **Nombre del archivo:** `encuesta-sobre-el-suelo.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/encuesta-sobre-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/encuesta-sobre-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -5095,7 +5095,7 @@
 
 ### energia-al-rescate.png
 
-![energia-al-rescate.png](/fogata-recursos/imagenes/actividades/energia-al-rescate.png)
+![energia-al-rescate.png](/fogata-recursos/imagenes/actividades/energia-al-rescate.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5103,7 +5103,7 @@
 - **Nombre del archivo:** `energia-al-rescate.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-al-rescate.png`
+- **Ruta completa:** `imagenes/actividades/energia-al-rescate.jpg`
 - **Tipo:** png
 
 </details>
@@ -5116,7 +5116,7 @@
 
 ### energia-creativa.png
 
-![energia-creativa.png](/fogata-recursos/imagenes/actividades/energia-creativa.png)
+![energia-creativa.png](/fogata-recursos/imagenes/actividades/energia-creativa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5124,7 +5124,7 @@
 - **Nombre del archivo:** `energia-creativa.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-creativa.png`
+- **Ruta completa:** `imagenes/actividades/energia-creativa.jpg`
 - **Tipo:** png
 
 </details>
@@ -5137,7 +5137,7 @@
 
 ### energia-en-el-pasado.png
 
-![energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/energia-en-el-pasado.png)
+![energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/energia-en-el-pasado.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5145,7 +5145,7 @@
 - **Nombre del archivo:** `energia-en-el-pasado.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-en-el-pasado.png`
+- **Ruta completa:** `imagenes/actividades/energia-en-el-pasado.jpg`
 - **Tipo:** png
 
 </details>
@@ -5158,7 +5158,7 @@
 
 ### energia-en-la-rutina.png
 
-![energia-en-la-rutina.png](/fogata-recursos/imagenes/actividades/energia-en-la-rutina.png)
+![energia-en-la-rutina.png](/fogata-recursos/imagenes/actividades/energia-en-la-rutina.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5166,7 +5166,7 @@
 - **Nombre del archivo:** `energia-en-la-rutina.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-en-la-rutina.png`
+- **Ruta completa:** `imagenes/actividades/energia-en-la-rutina.jpg`
 - **Tipo:** png
 
 </details>
@@ -5179,7 +5179,7 @@
 
 ### energia-hidroelectrica.png
 
-![energia-hidroelectrica.png](/fogata-recursos/imagenes/actividades/energia-hidroelectrica.png)
+![energia-hidroelectrica.png](/fogata-recursos/imagenes/actividades/energia-hidroelectrica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5187,7 +5187,7 @@
 - **Nombre del archivo:** `energia-hidroelectrica.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-hidroelectrica.png`
+- **Ruta completa:** `imagenes/actividades/energia-hidroelectrica.jpg`
 - **Tipo:** png
 
 </details>
@@ -5200,7 +5200,7 @@
 
 ### energia-renovable-comunitaria.png
 
-![energia-renovable-comunitaria.png](/fogata-recursos/imagenes/actividades/energia-renovable-comunitaria.png)
+![energia-renovable-comunitaria.png](/fogata-recursos/imagenes/actividades/energia-renovable-comunitaria.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5208,7 +5208,7 @@
 - **Nombre del archivo:** `energia-renovable-comunitaria.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-renovable-comunitaria.png`
+- **Ruta completa:** `imagenes/actividades/energia-renovable-comunitaria.jpg`
 - **Tipo:** png
 
 </details>
@@ -5221,7 +5221,7 @@
 
 ### energia-y-gravedad.png
 
-![energia-y-gravedad.png](/fogata-recursos/imagenes/actividades/energia-y-gravedad.png)
+![energia-y-gravedad.png](/fogata-recursos/imagenes/actividades/energia-y-gravedad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5229,7 +5229,7 @@
 - **Nombre del archivo:** `energia-y-gravedad.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-y-gravedad.png`
+- **Ruta completa:** `imagenes/actividades/energia-y-gravedad.jpg`
 - **Tipo:** png
 
 </details>
@@ -5242,7 +5242,7 @@
 
 ### energia-y-pobreza.png
 
-![energia-y-pobreza.png](/fogata-recursos/imagenes/actividades/energia-y-pobreza.png)
+![energia-y-pobreza.png](/fogata-recursos/imagenes/actividades/energia-y-pobreza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5250,7 +5250,7 @@
 - **Nombre del archivo:** `energia-y-pobreza.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/energia-y-pobreza.png`
+- **Ruta completa:** `imagenes/actividades/energia-y-pobreza.jpg`
 - **Tipo:** png
 
 </details>
@@ -5263,7 +5263,7 @@
 
 ### entendiendo-los-pesticidas.png
 
-![entendiendo-los-pesticidas.png](/fogata-recursos/imagenes/actividades/entendiendo-los-pesticidas.png)
+![entendiendo-los-pesticidas.png](/fogata-recursos/imagenes/actividades/entendiendo-los-pesticidas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5271,7 +5271,7 @@
 - **Nombre del archivo:** `entendiendo-los-pesticidas.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/entendiendo-los-pesticidas.png`
+- **Ruta completa:** `imagenes/actividades/entendiendo-los-pesticidas.jpg`
 - **Tipo:** png
 
 </details>
@@ -5284,7 +5284,7 @@
 
 ### entrevista-a-un-cientifico.png
 
-![entrevista-a-un-cientifico.png](/fogata-recursos/imagenes/actividades/entrevista-a-un-cientifico.png)
+![entrevista-a-un-cientifico.png](/fogata-recursos/imagenes/actividades/entrevista-a-un-cientifico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5292,7 +5292,7 @@
 - **Nombre del archivo:** `entrevista-a-un-cientifico.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/entrevista-a-un-cientifico.png`
+- **Ruta completa:** `imagenes/actividades/entrevista-a-un-cientifico.jpg`
 - **Tipo:** png
 
 </details>
@@ -5305,7 +5305,7 @@
 
 ### entrevista-sobre-alimentos-tradicionales.png
 
-![entrevista-sobre-alimentos-tradicionales.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.png)
+![entrevista-sobre-alimentos-tradicionales.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-alimentos-tradicionales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5313,7 +5313,7 @@
 - **Nombre del archivo:** `entrevista-sobre-alimentos-tradicionales.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/entrevista-sobre-alimentos-tradicionales.png`
+- **Ruta completa:** `imagenes/actividades/entrevista-sobre-alimentos-tradicionales.jpg`
 - **Tipo:** png
 
 </details>
@@ -5326,7 +5326,7 @@
 
 ### entrevista-sobre-el-uso-de-energia-en-el-pasado.png
 
-![entrevista-sobre-el-uso-de-energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.png)
+![entrevista-sobre-el-uso-de-energia-en-el-pasado.png](/fogata-recursos/imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5334,7 +5334,7 @@
 - **Nombre del archivo:** `entrevista-sobre-el-uso-de-energia-en-el-pasado.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.png`
+- **Ruta completa:** `imagenes/actividades/entrevista-sobre-el-uso-de-energia-en-el-pasado.jpg`
 - **Tipo:** png
 
 </details>
@@ -5347,7 +5347,7 @@
 
 ### es-dificil-pasarse-del-h2o.png
 
-![es-dificil-pasarse-del-h2o.png](/fogata-recursos/imagenes/actividades/es-dificil-pasarse-del-h2o.png)
+![es-dificil-pasarse-del-h2o.png](/fogata-recursos/imagenes/actividades/es-dificil-pasarse-del-h2o.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5355,7 +5355,7 @@
 - **Nombre del archivo:** `es-dificil-pasarse-del-h2o.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/es-dificil-pasarse-del-h2o.png`
+- **Ruta completa:** `imagenes/actividades/es-dificil-pasarse-del-h2o.jpg`
 - **Tipo:** png
 
 </details>
@@ -5368,7 +5368,7 @@
 
 ### escalada-ecologica.png
 
-![escalada-ecologica.png](/fogata-recursos/imagenes/actividades/escalada-ecologica.png)
+![escalada-ecologica.png](/fogata-recursos/imagenes/actividades/escalada-ecologica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5376,7 +5376,7 @@
 - **Nombre del archivo:** `escalada-ecologica.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/escalada-ecologica.png`
+- **Ruta completa:** `imagenes/actividades/escalada-ecologica.jpg`
 - **Tipo:** png
 
 </details>
@@ -5389,7 +5389,7 @@
 
 ### esculpir-un-desastre.png
 
-![esculpir-un-desastre.png](/fogata-recursos/imagenes/actividades/esculpir-un-desastre.png)
+![esculpir-un-desastre.png](/fogata-recursos/imagenes/actividades/esculpir-un-desastre.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5397,7 +5397,7 @@
 - **Nombre del archivo:** `esculpir-un-desastre.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/esculpir-un-desastre.png`
+- **Ruta completa:** `imagenes/actividades/esculpir-un-desastre.jpg`
 - **Tipo:** png
 
 </details>
@@ -5410,7 +5410,7 @@
 
 ### especie-amenazada-local.png
 
-![especie-amenazada-local.png](/fogata-recursos/imagenes/actividades/especie-amenazada-local.png)
+![especie-amenazada-local.png](/fogata-recursos/imagenes/actividades/especie-amenazada-local.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5418,7 +5418,7 @@
 - **Nombre del archivo:** `especie-amenazada-local.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/especie-amenazada-local.png`
+- **Ruta completa:** `imagenes/actividades/especie-amenazada-local.jpg`
 - **Tipo:** png
 
 </details>
@@ -5431,7 +5431,7 @@
 
 ### especies-locales.png
 
-![especies-locales.png](/fogata-recursos/imagenes/actividades/especies-locales.png)
+![especies-locales.png](/fogata-recursos/imagenes/actividades/especies-locales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5439,7 +5439,7 @@
 - **Nombre del archivo:** `especies-locales.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/especies-locales.png`
+- **Ruta completa:** `imagenes/actividades/especies-locales.jpg`
 - **Tipo:** png
 
 </details>
@@ -5452,7 +5452,7 @@
 
 ### especies-que-usan-el-agua-inteligentemente.png
 
-![especies-que-usan-el-agua-inteligentemente.png](/fogata-recursos/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png)
+![especies-que-usan-el-agua-inteligentemente.png](/fogata-recursos/imagenes/actividades/especies-que-usan-el-agua-inteligentemente.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5460,7 +5460,7 @@
 - **Nombre del archivo:** `especies-que-usan-el-agua-inteligentemente.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/especies-que-usan-el-agua-inteligentemente.png`
+- **Ruta completa:** `imagenes/actividades/especies-que-usan-el-agua-inteligentemente.jpg`
 - **Tipo:** png
 
 </details>
@@ -5473,7 +5473,7 @@
 
 ### espectaculo-de-titeres-sobre-cuencas.png
 
-![espectaculo-de-titeres-sobre-cuencas.png](/fogata-recursos/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.png)
+![espectaculo-de-titeres-sobre-cuencas.png](/fogata-recursos/imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5481,7 +5481,7 @@
 - **Nombre del archivo:** `espectaculo-de-titeres-sobre-cuencas.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.png`
+- **Ruta completa:** `imagenes/actividades/espectaculo-de-titeres-sobre-cuencas.jpg`
 - **Tipo:** png
 
 </details>
@@ -5494,7 +5494,7 @@
 
 ### espiando-el-oceano.png
 
-![espiando-el-oceano.png](/fogata-recursos/imagenes/actividades/espiando-el-oceano.png)
+![espiando-el-oceano.png](/fogata-recursos/imagenes/actividades/espiando-el-oceano.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5502,7 +5502,7 @@
 - **Nombre del archivo:** `espiando-el-oceano.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/espiando-el-oceano.png`
+- **Ruta completa:** `imagenes/actividades/espiando-el-oceano.jpg`
 - **Tipo:** png
 
 </details>
@@ -5515,7 +5515,7 @@
 
 ### estanque-biodiverso.png
 
-![estanque-biodiverso.png](/fogata-recursos/imagenes/actividades/estanque-biodiverso.png)
+![estanque-biodiverso.png](/fogata-recursos/imagenes/actividades/estanque-biodiverso.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5523,7 +5523,7 @@
 - **Nombre del archivo:** `estanque-biodiverso.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/estanque-biodiverso.png`
+- **Ruta completa:** `imagenes/actividades/estanque-biodiverso.jpg`
 - **Tipo:** png
 
 </details>
@@ -5536,7 +5536,7 @@
 
 ### estrategias-de-termorregulacion.png
 
-![estrategias-de-termorregulacion.png](/fogata-recursos/imagenes/actividades/estrategias-de-termorregulacion.png)
+![estrategias-de-termorregulacion.png](/fogata-recursos/imagenes/actividades/estrategias-de-termorregulacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5544,7 +5544,7 @@
 - **Nombre del archivo:** `estrategias-de-termorregulacion.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/estrategias-de-termorregulacion.png`
+- **Ruta completa:** `imagenes/actividades/estrategias-de-termorregulacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -5557,7 +5557,7 @@
 
 ### estudio-evolutivo.png
 
-![estudio-evolutivo.png](/fogata-recursos/imagenes/actividades/estudio-evolutivo.png)
+![estudio-evolutivo.png](/fogata-recursos/imagenes/actividades/estudio-evolutivo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5565,7 +5565,7 @@
 - **Nombre del archivo:** `estudio-evolutivo.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/estudio-evolutivo.png`
+- **Ruta completa:** `imagenes/actividades/estudio-evolutivo.jpg`
 - **Tipo:** png
 
 </details>
@@ -5578,7 +5578,7 @@
 
 ### estudios-salados.png
 
-![estudios-salados.png](/fogata-recursos/imagenes/actividades/estudios-salados.png)
+![estudios-salados.png](/fogata-recursos/imagenes/actividades/estudios-salados.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5586,7 +5586,7 @@
 - **Nombre del archivo:** `estudios-salados.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/estudios-salados.png`
+- **Ruta completa:** `imagenes/actividades/estudios-salados.jpg`
 - **Tipo:** png
 
 </details>
@@ -5599,7 +5599,7 @@
 
 ### evento-comunitario.png
 
-![evento-comunitario.png](/fogata-recursos/imagenes/actividades/evento-comunitario.png)
+![evento-comunitario.png](/fogata-recursos/imagenes/actividades/evento-comunitario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5607,7 +5607,7 @@
 - **Nombre del archivo:** `evento-comunitario.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/evento-comunitario.png`
+- **Ruta completa:** `imagenes/actividades/evento-comunitario.jpg`
 - **Tipo:** png
 
 </details>
@@ -5620,7 +5620,7 @@
 
 ### evitar-el-agua-embotellada.png
 
-![evitar-el-agua-embotellada.png](/fogata-recursos/imagenes/actividades/evitar-el-agua-embotellada.png)
+![evitar-el-agua-embotellada.png](/fogata-recursos/imagenes/actividades/evitar-el-agua-embotellada.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5628,7 +5628,7 @@
 - **Nombre del archivo:** `evitar-el-agua-embotellada.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/evitar-el-agua-embotellada.png`
+- **Ruta completa:** `imagenes/actividades/evitar-el-agua-embotellada.jpg`
 - **Tipo:** png
 
 </details>
@@ -5641,7 +5641,7 @@
 
 ### evitar-viajes-aereos-innecesarios.png
 
-![evitar-viajes-aereos-innecesarios.png](/fogata-recursos/imagenes/actividades/evitar-viajes-aereos-innecesarios.png)
+![evitar-viajes-aereos-innecesarios.png](/fogata-recursos/imagenes/actividades/evitar-viajes-aereos-innecesarios.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5649,7 +5649,7 @@
 - **Nombre del archivo:** `evitar-viajes-aereos-innecesarios.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/evitar-viajes-aereos-innecesarios.png`
+- **Ruta completa:** `imagenes/actividades/evitar-viajes-aereos-innecesarios.jpg`
 - **Tipo:** png
 
 </details>
@@ -5662,7 +5662,7 @@
 
 ### excursion-a-una-granja.png
 
-![excursion-a-una-granja.png](/fogata-recursos/imagenes/actividades/excursion-a-una-granja.png)
+![excursion-a-una-granja.png](/fogata-recursos/imagenes/actividades/excursion-a-una-granja.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5670,7 +5670,7 @@
 - **Nombre del archivo:** `excursion-a-una-granja.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/excursion-a-una-granja.png`
+- **Ruta completa:** `imagenes/actividades/excursion-a-una-granja.jpg`
 - **Tipo:** png
 
 </details>
@@ -5683,7 +5683,7 @@
 
 ### experimento-con-tipos-de-suelo.png
 
-![experimento-con-tipos-de-suelo.png](/fogata-recursos/imagenes/actividades/experimento-con-tipos-de-suelo.png)
+![experimento-con-tipos-de-suelo.png](/fogata-recursos/imagenes/actividades/experimento-con-tipos-de-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5691,7 +5691,7 @@
 - **Nombre del archivo:** `experimento-con-tipos-de-suelo.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/experimento-con-tipos-de-suelo.png`
+- **Ruta completa:** `imagenes/actividades/experimento-con-tipos-de-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -5704,7 +5704,7 @@
 
 ### experimento-de-biogas.png
 
-![experimento-de-biogas.png](/fogata-recursos/imagenes/actividades/experimento-de-biogas.png)
+![experimento-de-biogas.png](/fogata-recursos/imagenes/actividades/experimento-de-biogas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5712,7 +5712,7 @@
 - **Nombre del archivo:** `experimento-de-biogas.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/experimento-de-biogas.png`
+- **Ruta completa:** `imagenes/actividades/experimento-de-biogas.jpg`
 - **Tipo:** png
 
 </details>
@@ -5725,7 +5725,7 @@
 
 ### experimento-de-crecimiento.png
 
-![experimento-de-crecimiento.png](/fogata-recursos/imagenes/actividades/experimento-de-crecimiento.png)
+![experimento-de-crecimiento.png](/fogata-recursos/imagenes/actividades/experimento-de-crecimiento.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5733,7 +5733,7 @@
 - **Nombre del archivo:** `experimento-de-crecimiento.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/experimento-de-crecimiento.png`
+- **Ruta completa:** `imagenes/actividades/experimento-de-crecimiento.jpg`
 - **Tipo:** png
 
 </details>
@@ -5746,7 +5746,7 @@
 
 ### experimento-energetico.png
 
-![experimento-energetico.png](/fogata-recursos/imagenes/actividades/experimento-energetico.png)
+![experimento-energetico.png](/fogata-recursos/imagenes/actividades/experimento-energetico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5754,7 +5754,7 @@
 - **Nombre del archivo:** `experimento-energetico.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/experimento-energetico.png`
+- **Ruta completa:** `imagenes/actividades/experimento-energetico.jpg`
 - **Tipo:** png
 
 </details>
@@ -5767,7 +5767,7 @@
 
 ### exploracion-acuatica.png
 
-![exploracion-acuatica.png](/fogata-recursos/imagenes/actividades/exploracion-acuatica.png)
+![exploracion-acuatica.png](/fogata-recursos/imagenes/actividades/exploracion-acuatica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5775,7 +5775,7 @@
 - **Nombre del archivo:** `exploracion-acuatica.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-acuatica.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-acuatica.jpg`
 - **Tipo:** png
 
 </details>
@@ -5788,7 +5788,7 @@
 
 ### exploracion-de-biodiversidad-aerea-ramas.png
 
-![exploracion-de-biodiversidad-aerea-ramas.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png)
+![exploracion-de-biodiversidad-aerea-ramas.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5796,7 +5796,7 @@
 - **Nombre del archivo:** `exploracion-de-biodiversidad-aerea-ramas.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-de-biodiversidad-aerea-ramas.jpg`
 - **Tipo:** png
 
 </details>
@@ -5809,7 +5809,7 @@
 
 ### exploracion-de-biodiversidad-aerea-vecindario.png
 
-![exploracion-de-biodiversidad-aerea-vecindario.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png)
+![exploracion-de-biodiversidad-aerea-vecindario.png](/fogata-recursos/imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5817,7 +5817,7 @@
 - **Nombre del archivo:** `exploracion-de-biodiversidad-aerea-vecindario.png`
 - **Tamaño:** 251K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-de-biodiversidad-aerea-vecindario.jpg`
 - **Tipo:** png
 
 </details>
@@ -5830,7 +5830,7 @@
 
 ### exploracion-de-bosque.png
 
-![exploracion-de-bosque.png](/fogata-recursos/imagenes/actividades/exploracion-de-bosque.png)
+![exploracion-de-bosque.png](/fogata-recursos/imagenes/actividades/exploracion-de-bosque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5838,7 +5838,7 @@
 - **Nombre del archivo:** `exploracion-de-bosque.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-de-bosque.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-de-bosque.jpg`
 - **Tipo:** png
 
 </details>
@@ -5851,7 +5851,7 @@
 
 ### exploracion-de-estanque.png
 
-![exploracion-de-estanque.png](/fogata-recursos/imagenes/actividades/exploracion-de-estanque.png)
+![exploracion-de-estanque.png](/fogata-recursos/imagenes/actividades/exploracion-de-estanque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5859,7 +5859,7 @@
 - **Nombre del archivo:** `exploracion-de-estanque.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-de-estanque.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-de-estanque.jpg`
 - **Tipo:** png
 
 </details>
@@ -5872,7 +5872,7 @@
 
 ### exploracion-de-paginas-web.png
 
-![exploracion-de-paginas-web.png](/fogata-recursos/imagenes/actividades/exploracion-de-paginas-web.png)
+![exploracion-de-paginas-web.png](/fogata-recursos/imagenes/actividades/exploracion-de-paginas-web.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5880,7 +5880,7 @@
 - **Nombre del archivo:** `exploracion-de-paginas-web.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-de-paginas-web.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-de-paginas-web.jpg`
 - **Tipo:** png
 
 </details>
@@ -5893,7 +5893,7 @@
 
 ### exploracion-energetica.png
 
-![exploracion-energetica.png](/fogata-recursos/imagenes/actividades/exploracion-energetica.png)
+![exploracion-energetica.png](/fogata-recursos/imagenes/actividades/exploracion-energetica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5901,7 +5901,7 @@
 - **Nombre del archivo:** `exploracion-energetica.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-energetica.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-energetica.jpg`
 - **Tipo:** png
 
 </details>
@@ -5914,7 +5914,7 @@
 
 ### exploracion-multisensorial.png
 
-![exploracion-multisensorial.png](/fogata-recursos/imagenes/actividades/exploracion-multisensorial.png)
+![exploracion-multisensorial.png](/fogata-recursos/imagenes/actividades/exploracion-multisensorial.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5922,7 +5922,7 @@
 - **Nombre del archivo:** `exploracion-multisensorial.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/exploracion-multisensorial.png`
+- **Ruta completa:** `imagenes/actividades/exploracion-multisensorial.jpg`
 - **Tipo:** png
 
 </details>
@@ -5935,7 +5935,7 @@
 
 ### fabulas-de-trabajo-en-equipo.png
 
-![fabulas-de-trabajo-en-equipo.png](/fogata-recursos/imagenes/actividades/fabulas-de-trabajo-en-equipo.png)
+![fabulas-de-trabajo-en-equipo.png](/fogata-recursos/imagenes/actividades/fabulas-de-trabajo-en-equipo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5943,7 +5943,7 @@
 - **Nombre del archivo:** `fabulas-de-trabajo-en-equipo.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/fabulas-de-trabajo-en-equipo.png`
+- **Ruta completa:** `imagenes/actividades/fabulas-de-trabajo-en-equipo.jpg`
 - **Tipo:** png
 
 </details>
@@ -5956,7 +5956,7 @@
 
 ### fiesta-de-mascaras-marinas.png
 
-![fiesta-de-mascaras-marinas.png](/fogata-recursos/imagenes/actividades/fiesta-de-mascaras-marinas.png)
+![fiesta-de-mascaras-marinas.png](/fogata-recursos/imagenes/actividades/fiesta-de-mascaras-marinas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5964,7 +5964,7 @@
 - **Nombre del archivo:** `fiesta-de-mascaras-marinas.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/fiesta-de-mascaras-marinas.png`
+- **Ruta completa:** `imagenes/actividades/fiesta-de-mascaras-marinas.jpg`
 - **Tipo:** png
 
 </details>
@@ -5977,7 +5977,7 @@
 
 ### filtro-de-agua.png
 
-![filtro-de-agua.png](/fogata-recursos/imagenes/actividades/filtro-de-agua.png)
+![filtro-de-agua.png](/fogata-recursos/imagenes/actividades/filtro-de-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -5985,7 +5985,7 @@
 - **Nombre del archivo:** `filtro-de-agua.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/filtro-de-agua.png`
+- **Ruta completa:** `imagenes/actividades/filtro-de-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -5998,7 +5998,7 @@
 
 ### filtros-naturales.png
 
-![filtros-naturales.png](/fogata-recursos/imagenes/actividades/filtros-naturales.png)
+![filtros-naturales.png](/fogata-recursos/imagenes/actividades/filtros-naturales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6006,7 +6006,7 @@
 - **Nombre del archivo:** `filtros-naturales.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/filtros-naturales.png`
+- **Ruta completa:** `imagenes/actividades/filtros-naturales.jpg`
 - **Tipo:** png
 
 </details>
@@ -6019,7 +6019,7 @@
 
 ### fondos-para-tu-favorito.png
 
-![fondos-para-tu-favorito.png](/fogata-recursos/imagenes/actividades/fondos-para-tu-favorito.png)
+![fondos-para-tu-favorito.png](/fogata-recursos/imagenes/actividades/fondos-para-tu-favorito.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6027,7 +6027,7 @@
 - **Nombre del archivo:** `fondos-para-tu-favorito.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/fondos-para-tu-favorito.png`
+- **Ruta completa:** `imagenes/actividades/fondos-para-tu-favorito.jpg`
 - **Tipo:** png
 
 </details>
@@ -6040,7 +6040,7 @@
 
 ### formas-de-energia.png
 
-![formas-de-energia.png](/fogata-recursos/imagenes/actividades/formas-de-energia.png)
+![formas-de-energia.png](/fogata-recursos/imagenes/actividades/formas-de-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6048,7 +6048,7 @@
 - **Nombre del archivo:** `formas-de-energia.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/formas-de-energia.png`
+- **Ruta completa:** `imagenes/actividades/formas-de-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -6061,7 +6061,7 @@
 
 ### fragmentacion-de-habitats.png
 
-![fragmentacion-de-habitats.png](/fogata-recursos/imagenes/actividades/fragmentacion-de-habitats.png)
+![fragmentacion-de-habitats.png](/fogata-recursos/imagenes/actividades/fragmentacion-de-habitats.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6069,7 +6069,7 @@
 - **Nombre del archivo:** `fragmentacion-de-habitats.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/fragmentacion-de-habitats.png`
+- **Ruta completa:** `imagenes/actividades/fragmentacion-de-habitats.jpg`
 - **Tipo:** png
 
 </details>
@@ -6082,7 +6082,7 @@
 
 ### frutas-y-verduras-favoritas.png
 
-![frutas-y-verduras-favoritas.png](/fogata-recursos/imagenes/actividades/frutas-y-verduras-favoritas.png)
+![frutas-y-verduras-favoritas.png](/fogata-recursos/imagenes/actividades/frutas-y-verduras-favoritas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6090,7 +6090,7 @@
 - **Nombre del archivo:** `frutas-y-verduras-favoritas.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/frutas-y-verduras-favoritas.png`
+- **Ruta completa:** `imagenes/actividades/frutas-y-verduras-favoritas.jpg`
 - **Tipo:** png
 
 </details>
@@ -6103,7 +6103,7 @@
 
 ### fuerzas-locales.png
 
-![fuerzas-locales.png](/fogata-recursos/imagenes/actividades/fuerzas-locales.png)
+![fuerzas-locales.png](/fogata-recursos/imagenes/actividades/fuerzas-locales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6111,7 +6111,7 @@
 - **Nombre del archivo:** `fuerzas-locales.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/fuerzas-locales.png`
+- **Ruta completa:** `imagenes/actividades/fuerzas-locales.jpg`
 - **Tipo:** png
 
 </details>
@@ -6124,7 +6124,7 @@
 
 ### galeria-de-arte-forestal.png
 
-![galeria-de-arte-forestal.png](/fogata-recursos/imagenes/actividades/galeria-de-arte-forestal.png)
+![galeria-de-arte-forestal.png](/fogata-recursos/imagenes/actividades/galeria-de-arte-forestal.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6132,7 +6132,7 @@
 - **Nombre del archivo:** `galeria-de-arte-forestal.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/galeria-de-arte-forestal.png`
+- **Ruta completa:** `imagenes/actividades/galeria-de-arte-forestal.jpg`
 - **Tipo:** png
 
 </details>
@@ -6145,7 +6145,7 @@
 
 ### general.png
 
-![general.png](/fogata-recursos/imagenes/actividades/general.png)
+![general.png](/fogata-recursos/imagenes/actividades/general.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6153,7 +6153,7 @@
 - **Nombre del archivo:** `general.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/general.png`
+- **Ruta completa:** `imagenes/actividades/general.jpg`
 - **Tipo:** png
 
 </details>
@@ -6166,7 +6166,7 @@
 
 ### gobernanza.png
 
-![gobernanza.png](/fogata-recursos/imagenes/actividades/gobernanza.png)
+![gobernanza.png](/fogata-recursos/imagenes/actividades/gobernanza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6174,7 +6174,7 @@
 - **Nombre del archivo:** `gobernanza.png`
 - **Tamaño:** 81K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/gobernanza.png`
+- **Ruta completa:** `imagenes/actividades/gobernanza.jpg`
 - **Tipo:** png
 
 </details>
@@ -6187,7 +6187,7 @@
 
 ### gobernanza_1.png
 
-![gobernanza_1.png](/fogata-recursos/imagenes/actividades/gobernanza_1.png)
+![gobernanza_1.png](/fogata-recursos/imagenes/actividades/gobernanza_1.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6195,7 +6195,7 @@
 - **Nombre del archivo:** `gobernanza_1.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/gobernanza_1.png`
+- **Ruta completa:** `imagenes/actividades/gobernanza_1.jpg`
 - **Tipo:** png
 
 </details>
@@ -6208,7 +6208,7 @@
 
 ### gobernanza_2.png
 
-![gobernanza_2.png](/fogata-recursos/imagenes/actividades/gobernanza_2.png)
+![gobernanza_2.png](/fogata-recursos/imagenes/actividades/gobernanza_2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6216,7 +6216,7 @@
 - **Nombre del archivo:** `gobernanza_2.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/gobernanza_2.png`
+- **Ruta completa:** `imagenes/actividades/gobernanza_2.jpg`
 - **Tipo:** png
 
 </details>
@@ -6229,7 +6229,7 @@
 
 ### graficos-del-suelo.png
 
-![graficos-del-suelo.png](/fogata-recursos/imagenes/actividades/graficos-del-suelo.png)
+![graficos-del-suelo.png](/fogata-recursos/imagenes/actividades/graficos-del-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6237,7 +6237,7 @@
 - **Nombre del archivo:** `graficos-del-suelo.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/graficos-del-suelo.png`
+- **Ruta completa:** `imagenes/actividades/graficos-del-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -6250,7 +6250,7 @@
 
 ### guardabosques.png
 
-![guardabosques.png](/fogata-recursos/imagenes/actividades/guardabosques.png)
+![guardabosques.png](/fogata-recursos/imagenes/actividades/guardabosques.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6258,7 +6258,7 @@
 - **Nombre del archivo:** `guardabosques.png`
 - **Tamaño:** 97K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/guardabosques.png`
+- **Ruta completa:** `imagenes/actividades/guardabosques.jpg`
 - **Tipo:** png
 
 </details>
@@ -6271,7 +6271,7 @@
 
 ### guia-de-campo-de-insectos.png
 
-![guia-de-campo-de-insectos.png](/fogata-recursos/imagenes/actividades/guia-de-campo-de-insectos.png)
+![guia-de-campo-de-insectos.png](/fogata-recursos/imagenes/actividades/guia-de-campo-de-insectos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6279,7 +6279,7 @@
 - **Nombre del archivo:** `guia-de-campo-de-insectos.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/guia-de-campo-de-insectos.png`
+- **Ruta completa:** `imagenes/actividades/guia-de-campo-de-insectos.jpg`
 - **Tipo:** png
 
 </details>
@@ -6292,7 +6292,7 @@
 
 ### guia-turistica.png
 
-![guia-turistica.png](/fogata-recursos/imagenes/actividades/guia-turistica.png)
+![guia-turistica.png](/fogata-recursos/imagenes/actividades/guia-turistica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6300,7 +6300,7 @@
 - **Nombre del archivo:** `guia-turistica.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/guia-turistica.png`
+- **Ruta completa:** `imagenes/actividades/guia-turistica.jpg`
 - **Tipo:** png
 
 </details>
@@ -6313,7 +6313,7 @@
 
 ### guion-radiofonico.png
 
-![guion-radiofonico.png](/fogata-recursos/imagenes/actividades/guion-radiofonico.png)
+![guion-radiofonico.png](/fogata-recursos/imagenes/actividades/guion-radiofonico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6321,7 +6321,7 @@
 - **Nombre del archivo:** `guion-radiofonico.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/guion-radiofonico.png`
+- **Ruta completa:** `imagenes/actividades/guion-radiofonico.jpg`
 - **Tipo:** png
 
 </details>
@@ -6334,7 +6334,7 @@
 
 ### habitantes-indigenas.png
 
-![habitantes-indigenas.png](/fogata-recursos/imagenes/actividades/habitantes-indigenas.png)
+![habitantes-indigenas.png](/fogata-recursos/imagenes/actividades/habitantes-indigenas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6342,7 +6342,7 @@
 - **Nombre del archivo:** `habitantes-indigenas.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/habitantes-indigenas.png`
+- **Ruta completa:** `imagenes/actividades/habitantes-indigenas.jpg`
 - **Tipo:** png
 
 </details>
@@ -6355,7 +6355,7 @@
 
 ### habitats-en-la-naturaleza.png
 
-![habitats-en-la-naturaleza.png](/fogata-recursos/imagenes/actividades/habitats-en-la-naturaleza.png)
+![habitats-en-la-naturaleza.png](/fogata-recursos/imagenes/actividades/habitats-en-la-naturaleza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6363,7 +6363,7 @@
 - **Nombre del archivo:** `habitats-en-la-naturaleza.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/habitats-en-la-naturaleza.png`
+- **Ruta completa:** `imagenes/actividades/habitats-en-la-naturaleza.jpg`
 - **Tipo:** png
 
 </details>
@@ -6376,7 +6376,7 @@
 
 ### habitos-animales.png
 
-![habitos-animales.png](/fogata-recursos/imagenes/actividades/habitos-animales.png)
+![habitos-animales.png](/fogata-recursos/imagenes/actividades/habitos-animales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6384,7 +6384,7 @@
 - **Nombre del archivo:** `habitos-animales.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/habitos-animales.png`
+- **Ruta completa:** `imagenes/actividades/habitos-animales.jpg`
 - **Tipo:** png
 
 </details>
@@ -6397,7 +6397,7 @@
 
 ### hacer-papel-reciclado-casero.png
 
-![hacer-papel-reciclado-casero.png](/fogata-recursos/imagenes/actividades/hacer-papel-reciclado-casero.png)
+![hacer-papel-reciclado-casero.png](/fogata-recursos/imagenes/actividades/hacer-papel-reciclado-casero.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6405,7 +6405,7 @@
 - **Nombre del archivo:** `hacer-papel-reciclado-casero.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hacer-papel-reciclado-casero.png`
+- **Ruta completa:** `imagenes/actividades/hacer-papel-reciclado-casero.jpg`
 - **Tipo:** png
 
 </details>
@@ -6418,7 +6418,7 @@
 
 ### hacer-tarjetas-con-materiales-reciclados.png
 
-![hacer-tarjetas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.png)
+![hacer-tarjetas-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6426,7 +6426,7 @@
 - **Nombre del archivo:** `hacer-tarjetas-con-materiales-reciclados.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.png`
+- **Ruta completa:** `imagenes/actividades/hacer-tarjetas-con-materiales-reciclados.jpg`
 - **Tipo:** png
 
 </details>
@@ -6439,7 +6439,7 @@
 
 ### hacer-tarjetas-sobre-el-ahorro-de-agua.png
 
-![hacer-tarjetas-sobre-el-ahorro-de-agua.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.png)
+![hacer-tarjetas-sobre-el-ahorro-de-agua.png](/fogata-recursos/imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6447,7 +6447,7 @@
 - **Nombre del archivo:** `hacer-tarjetas-sobre-el-ahorro-de-agua.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.png`
+- **Ruta completa:** `imagenes/actividades/hacer-tarjetas-sobre-el-ahorro-de-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -6460,7 +6460,7 @@
 
 ### hacer-un-collage-sobre-las-tres-r.png
 
-![hacer-un-collage-sobre-las-tres-r.png](/fogata-recursos/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.png)
+![hacer-un-collage-sobre-las-tres-r.png](/fogata-recursos/imagenes/actividades/hacer-un-collage-sobre-las-tres-r.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6468,7 +6468,7 @@
 - **Nombre del archivo:** `hacer-un-collage-sobre-las-tres-r.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hacer-un-collage-sobre-las-tres-r.png`
+- **Ruta completa:** `imagenes/actividades/hacer-un-collage-sobre-las-tres-r.jpg`
 - **Tipo:** png
 
 </details>
@@ -6481,7 +6481,7 @@
 
 ### hacer-una-presentacion-sobre-habitos-sostenibles.png
 
-![hacer-una-presentacion-sobre-habitos-sostenibles.png](/fogata-recursos/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png)
+![hacer-una-presentacion-sobre-habitos-sostenibles.png](/fogata-recursos/imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6489,7 +6489,7 @@
 - **Nombre del archivo:** `hacer-una-presentacion-sobre-habitos-sostenibles.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.png`
+- **Ruta completa:** `imagenes/actividades/hacer-una-presentacion-sobre-habitos-sostenibles.jpg`
 - **Tipo:** png
 
 </details>
@@ -6502,7 +6502,7 @@
 
 ### haciendo-los-calculos.png
 
-![haciendo-los-calculos.png](/fogata-recursos/imagenes/actividades/haciendo-los-calculos.png)
+![haciendo-los-calculos.png](/fogata-recursos/imagenes/actividades/haciendo-los-calculos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6510,7 +6510,7 @@
 - **Nombre del archivo:** `haciendo-los-calculos.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/haciendo-los-calculos.png`
+- **Ruta completa:** `imagenes/actividades/haciendo-los-calculos.jpg`
 - **Tipo:** png
 
 </details>
@@ -6523,7 +6523,7 @@
 
 ### hambre.png
 
-![hambre.png](/fogata-recursos/imagenes/actividades/hambre.png)
+![hambre.png](/fogata-recursos/imagenes/actividades/hambre.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6531,7 +6531,7 @@
 - **Nombre del archivo:** `hambre.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hambre.png`
+- **Ruta completa:** `imagenes/actividades/hambre.jpg`
 - **Tipo:** png
 
 </details>
@@ -6544,7 +6544,7 @@
 
 ### haz-una-caminata.png
 
-![haz-una-caminata.png](/fogata-recursos/imagenes/actividades/haz-una-caminata.png)
+![haz-una-caminata.png](/fogata-recursos/imagenes/actividades/haz-una-caminata.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6552,7 +6552,7 @@
 - **Nombre del archivo:** `haz-una-caminata.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/haz-una-caminata.png`
+- **Ruta completa:** `imagenes/actividades/haz-una-caminata.jpg`
 - **Tipo:** png
 
 </details>
@@ -6565,7 +6565,7 @@
 
 ### hierbas-comestibles-silvestres.png
 
-![hierbas-comestibles-silvestres.png](/fogata-recursos/imagenes/actividades/hierbas-comestibles-silvestres.png)
+![hierbas-comestibles-silvestres.png](/fogata-recursos/imagenes/actividades/hierbas-comestibles-silvestres.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6573,7 +6573,7 @@
 - **Nombre del archivo:** `hierbas-comestibles-silvestres.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hierbas-comestibles-silvestres.png`
+- **Ruta completa:** `imagenes/actividades/hierbas-comestibles-silvestres.jpg`
 - **Tipo:** png
 
 </details>
@@ -6586,7 +6586,7 @@
 
 ### historiadores-del-clima.png
 
-![historiadores-del-clima.png](/fogata-recursos/imagenes/actividades/historiadores-del-clima.png)
+![historiadores-del-clima.png](/fogata-recursos/imagenes/actividades/historiadores-del-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6594,7 +6594,7 @@
 - **Nombre del archivo:** `historiadores-del-clima.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/historiadores-del-clima.png`
+- **Ruta completa:** `imagenes/actividades/historiadores-del-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -6607,7 +6607,7 @@
 
 ### historias-sobre-el-suelo.png
 
-![historias-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/historias-sobre-el-suelo.png)
+![historias-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/historias-sobre-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6615,7 +6615,7 @@
 - **Nombre del archivo:** `historias-sobre-el-suelo.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/historias-sobre-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/historias-sobre-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -6628,7 +6628,7 @@
 
 ### historias-solares.png
 
-![historias-solares.png](/fogata-recursos/imagenes/actividades/historias-solares.png)
+![historias-solares.png](/fogata-recursos/imagenes/actividades/historias-solares.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6636,7 +6636,7 @@
 - **Nombre del archivo:** `historias-solares.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/historias-solares.png`
+- **Ruta completa:** `imagenes/actividades/historias-solares.jpg`
 - **Tipo:** png
 
 </details>
@@ -6649,7 +6649,7 @@
 
 ### hogar-dulce-hogar.png
 
-![hogar-dulce-hogar.png](/fogata-recursos/imagenes/actividades/hogar-dulce-hogar.png)
+![hogar-dulce-hogar.png](/fogata-recursos/imagenes/actividades/hogar-dulce-hogar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6657,7 +6657,7 @@
 - **Nombre del archivo:** `hogar-dulce-hogar.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hogar-dulce-hogar.png`
+- **Ruta completa:** `imagenes/actividades/hogar-dulce-hogar.jpg`
 - **Tipo:** png
 
 </details>
@@ -6670,7 +6670,7 @@
 
 ### hora-de-limpiar.png
 
-![hora-de-limpiar.png](/fogata-recursos/imagenes/actividades/hora-de-limpiar.png)
+![hora-de-limpiar.png](/fogata-recursos/imagenes/actividades/hora-de-limpiar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6678,7 +6678,7 @@
 - **Nombre del archivo:** `hora-de-limpiar.png`
 - **Tamaño:** 241K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hora-de-limpiar.png`
+- **Ruta completa:** `imagenes/actividades/hora-de-limpiar.jpg`
 - **Tipo:** png
 
 </details>
@@ -6691,7 +6691,7 @@
 
 ### horno-solar-cocina-solar.png
 
-![horno-solar-cocina-solar.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar.png)
+![horno-solar-cocina-solar.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6699,7 +6699,7 @@
 - **Nombre del archivo:** `horno-solar-cocina-solar.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/horno-solar-cocina-solar.png`
+- **Ruta completa:** `imagenes/actividades/horno-solar-cocina-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -6712,7 +6712,7 @@
 
 ### horno-solar-cocina-solar2.png
 
-![horno-solar-cocina-solar2.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar2.png)
+![horno-solar-cocina-solar2.png](/fogata-recursos/imagenes/actividades/horno-solar-cocina-solar2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6720,7 +6720,7 @@
 - **Nombre del archivo:** `horno-solar-cocina-solar2.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/horno-solar-cocina-solar2.png`
+- **Ruta completa:** `imagenes/actividades/horno-solar-cocina-solar2.jpg`
 - **Tipo:** png
 
 </details>
@@ -6733,7 +6733,7 @@
 
 ### hotspots-de-biodiversidad.png
 
-![hotspots-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/hotspots-de-biodiversidad.png)
+![hotspots-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/hotspots-de-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6741,7 +6741,7 @@
 - **Nombre del archivo:** `hotspots-de-biodiversidad.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hotspots-de-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/hotspots-de-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -6754,7 +6754,7 @@
 
 ### huerto-comunitario.png
 
-![huerto-comunitario.png](/fogata-recursos/imagenes/actividades/huerto-comunitario.png)
+![huerto-comunitario.png](/fogata-recursos/imagenes/actividades/huerto-comunitario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6762,7 +6762,7 @@
 - **Nombre del archivo:** `huerto-comunitario.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/huerto-comunitario.png`
+- **Ruta completa:** `imagenes/actividades/huerto-comunitario.jpg`
 - **Tipo:** png
 
 </details>
@@ -6775,7 +6775,7 @@
 
 ### hurga-en-la-tierra.png
 
-![hurga-en-la-tierra.png](/fogata-recursos/imagenes/actividades/hurga-en-la-tierra.png)
+![hurga-en-la-tierra.png](/fogata-recursos/imagenes/actividades/hurga-en-la-tierra.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6783,7 +6783,7 @@
 - **Nombre del archivo:** `hurga-en-la-tierra.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/hurga-en-la-tierra.png`
+- **Ruta completa:** `imagenes/actividades/hurga-en-la-tierra.jpg`
 - **Tipo:** png
 
 </details>
@@ -6796,7 +6796,7 @@
 
 ### ideas-descabelladas.png
 
-![ideas-descabelladas.png](/fogata-recursos/imagenes/actividades/ideas-descabelladas.png)
+![ideas-descabelladas.png](/fogata-recursos/imagenes/actividades/ideas-descabelladas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6804,7 +6804,7 @@
 - **Nombre del archivo:** `ideas-descabelladas.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ideas-descabelladas.png`
+- **Ruta completa:** `imagenes/actividades/ideas-descabelladas.jpg`
 - **Tipo:** png
 
 </details>
@@ -6817,7 +6817,7 @@
 
 ### identificando-alternativas-a-los-plasticos.png
 
-![identificando-alternativas-a-los-plasticos.png](/fogata-recursos/imagenes/actividades/identificando-alternativas-a-los-plasticos.png)
+![identificando-alternativas-a-los-plasticos.png](/fogata-recursos/imagenes/actividades/identificando-alternativas-a-los-plasticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6825,7 +6825,7 @@
 - **Nombre del archivo:** `identificando-alternativas-a-los-plasticos.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/identificando-alternativas-a-los-plasticos.png`
+- **Ruta completa:** `imagenes/actividades/identificando-alternativas-a-los-plasticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -6838,7 +6838,7 @@
 
 ### identificar-productos-sobre-empaquetados.png
 
-![identificar-productos-sobre-empaquetados.png](/fogata-recursos/imagenes/actividades/identificar-productos-sobre-empaquetados.png)
+![identificar-productos-sobre-empaquetados.png](/fogata-recursos/imagenes/actividades/identificar-productos-sobre-empaquetados.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6846,7 +6846,7 @@
 - **Nombre del archivo:** `identificar-productos-sobre-empaquetados.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/identificar-productos-sobre-empaquetados.png`
+- **Ruta completa:** `imagenes/actividades/identificar-productos-sobre-empaquetados.jpg`
 - **Tipo:** png
 
 </details>
@@ -6859,7 +6859,7 @@
 
 ### iluminando-y-empoderando.png
 
-![iluminando-y-empoderando.png](/fogata-recursos/imagenes/actividades/iluminando-y-empoderando.png)
+![iluminando-y-empoderando.png](/fogata-recursos/imagenes/actividades/iluminando-y-empoderando.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6867,7 +6867,7 @@
 - **Nombre del archivo:** `iluminando-y-empoderando.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/iluminando-y-empoderando.png`
+- **Ruta completa:** `imagenes/actividades/iluminando-y-empoderando.jpg`
 - **Tipo:** png
 
 </details>
@@ -6880,7 +6880,7 @@
 
 ### impacto-del-cambio-climatico-en-la-agricultura.png
 
-![impacto-del-cambio-climatico-en-la-agricultura.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.png)
+![impacto-del-cambio-climatico-en-la-agricultura.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6888,7 +6888,7 @@
 - **Nombre del archivo:** `impacto-del-cambio-climatico-en-la-agricultura.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.png`
+- **Ruta completa:** `imagenes/actividades/impacto-del-cambio-climatico-en-la-agricultura.jpg`
 - **Tipo:** png
 
 </details>
@@ -6901,7 +6901,7 @@
 
 ### impacto-del-cambio-climatico-en-la-alimentacion.png
 
-![impacto-del-cambio-climatico-en-la-alimentacion.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.png)
+![impacto-del-cambio-climatico-en-la-alimentacion.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6909,7 +6909,7 @@
 - **Nombre del archivo:** `impacto-del-cambio-climatico-en-la-alimentacion.png`
 - **Tamaño:** 283K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.png`
+- **Ruta completa:** `imagenes/actividades/impacto-del-cambio-climatico-en-la-alimentacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -6922,7 +6922,7 @@
 
 ### impacto-del-cambio-climatico-en-mujeres-rurales.png
 
-![impacto-del-cambio-climatico-en-mujeres-rurales.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.png)
+![impacto-del-cambio-climatico-en-mujeres-rurales.png](/fogata-recursos/imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6930,7 +6930,7 @@
 - **Nombre del archivo:** `impacto-del-cambio-climatico-en-mujeres-rurales.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.png`
+- **Ruta completa:** `imagenes/actividades/impacto-del-cambio-climatico-en-mujeres-rurales.jpg`
 - **Tipo:** png
 
 </details>
@@ -6943,7 +6943,7 @@
 
 ### impactos-sociales.png
 
-![impactos-sociales.png](/fogata-recursos/imagenes/actividades/impactos-sociales.png)
+![impactos-sociales.png](/fogata-recursos/imagenes/actividades/impactos-sociales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6951,7 +6951,7 @@
 - **Nombre del archivo:** `impactos-sociales.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/impactos-sociales.png`
+- **Ruta completa:** `imagenes/actividades/impactos-sociales.jpg`
 - **Tipo:** png
 
 </details>
@@ -6964,7 +6964,7 @@
 
 ### impresiones-de-esporas-de-hongos.png
 
-![impresiones-de-esporas-de-hongos.png](/fogata-recursos/imagenes/actividades/impresiones-de-esporas-de-hongos.png)
+![impresiones-de-esporas-de-hongos.png](/fogata-recursos/imagenes/actividades/impresiones-de-esporas-de-hongos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6972,7 +6972,7 @@
 - **Nombre del archivo:** `impresiones-de-esporas-de-hongos.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/impresiones-de-esporas-de-hongos.png`
+- **Ruta completa:** `imagenes/actividades/impresiones-de-esporas-de-hongos.jpg`
 - **Tipo:** png
 
 </details>
@@ -6985,7 +6985,7 @@
 
 ### increibles-animales-que-se-adaptan.png
 
-![increibles-animales-que-se-adaptan.png](/fogata-recursos/imagenes/actividades/increibles-animales-que-se-adaptan.png)
+![increibles-animales-que-se-adaptan.png](/fogata-recursos/imagenes/actividades/increibles-animales-que-se-adaptan.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -6993,7 +6993,7 @@
 - **Nombre del archivo:** `increibles-animales-que-se-adaptan.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/increibles-animales-que-se-adaptan.png`
+- **Ruta completa:** `imagenes/actividades/increibles-animales-que-se-adaptan.jpg`
 - **Tipo:** png
 
 </details>
@@ -7006,7 +7006,7 @@
 
 ### informe-de-prensa.png
 
-![informe-de-prensa.png](/fogata-recursos/imagenes/actividades/informe-de-prensa.png)
+![informe-de-prensa.png](/fogata-recursos/imagenes/actividades/informe-de-prensa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7014,7 +7014,7 @@
 - **Nombre del archivo:** `informe-de-prensa.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/informe-de-prensa.png`
+- **Ruta completa:** `imagenes/actividades/informe-de-prensa.jpg`
 - **Tipo:** png
 
 </details>
@@ -7027,7 +7027,7 @@
 
 ### inicio-de-los-plasticos.png
 
-![inicio-de-los-plasticos.png](/fogata-recursos/imagenes/actividades/inicio-de-los-plasticos.png)
+![inicio-de-los-plasticos.png](/fogata-recursos/imagenes/actividades/inicio-de-los-plasticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7035,7 +7035,7 @@
 - **Nombre del archivo:** `inicio-de-los-plasticos.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/inicio-de-los-plasticos.png`
+- **Ruta completa:** `imagenes/actividades/inicio-de-los-plasticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -7048,7 +7048,7 @@
 
 ### inspeccion-de-salud.png
 
-![inspeccion-de-salud.png](/fogata-recursos/imagenes/actividades/inspeccion-de-salud.png)
+![inspeccion-de-salud.png](/fogata-recursos/imagenes/actividades/inspeccion-de-salud.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7056,7 +7056,7 @@
 - **Nombre del archivo:** `inspeccion-de-salud.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/inspeccion-de-salud.png`
+- **Ruta completa:** `imagenes/actividades/inspeccion-de-salud.jpg`
 - **Tipo:** png
 
 </details>
@@ -7069,7 +7069,7 @@
 
 ### inspiracion-literaria.png
 
-![inspiracion-literaria.png](/fogata-recursos/imagenes/actividades/inspiracion-literaria.png)
+![inspiracion-literaria.png](/fogata-recursos/imagenes/actividades/inspiracion-literaria.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7077,7 +7077,7 @@
 - **Nombre del archivo:** `inspiracion-literaria.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/inspiracion-literaria.png`
+- **Ruta completa:** `imagenes/actividades/inspiracion-literaria.jpg`
 - **Tipo:** png
 
 </details>
@@ -7090,7 +7090,7 @@
 
 ### instalacion-de-paneles-solares.png
 
-![instalacion-de-paneles-solares.png](/fogata-recursos/imagenes/actividades/instalacion-de-paneles-solares.png)
+![instalacion-de-paneles-solares.png](/fogata-recursos/imagenes/actividades/instalacion-de-paneles-solares.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7098,7 +7098,7 @@
 - **Nombre del archivo:** `instalacion-de-paneles-solares.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/instalacion-de-paneles-solares.png`
+- **Ruta completa:** `imagenes/actividades/instalacion-de-paneles-solares.jpg`
 - **Tipo:** png
 
 </details>
@@ -7111,7 +7111,7 @@
 
 ### intercambio-internacional-de-recetas.png
 
-![intercambio-internacional-de-recetas.png](/fogata-recursos/imagenes/actividades/intercambio-internacional-de-recetas.png)
+![intercambio-internacional-de-recetas.png](/fogata-recursos/imagenes/actividades/intercambio-internacional-de-recetas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7119,7 +7119,7 @@
 - **Nombre del archivo:** `intercambio-internacional-de-recetas.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/intercambio-internacional-de-recetas.png`
+- **Ruta completa:** `imagenes/actividades/intercambio-internacional-de-recetas.jpg`
 - **Tipo:** png
 
 </details>
@@ -7132,7 +7132,7 @@
 
 ### invasoras.png
 
-![invasoras.png](/fogata-recursos/imagenes/actividades/invasoras.png)
+![invasoras.png](/fogata-recursos/imagenes/actividades/invasoras.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7140,7 +7140,7 @@
 - **Nombre del archivo:** `invasoras.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/invasoras.png`
+- **Ruta completa:** `imagenes/actividades/invasoras.jpg`
 - **Tipo:** png
 
 </details>
@@ -7153,7 +7153,7 @@
 
 ### inventar-nuevos-usos-para-residuos.png
 
-![inventar-nuevos-usos-para-residuos.png](/fogata-recursos/imagenes/actividades/inventar-nuevos-usos-para-residuos.png)
+![inventar-nuevos-usos-para-residuos.png](/fogata-recursos/imagenes/actividades/inventar-nuevos-usos-para-residuos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7161,7 +7161,7 @@
 - **Nombre del archivo:** `inventar-nuevos-usos-para-residuos.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/inventar-nuevos-usos-para-residuos.png`
+- **Ruta completa:** `imagenes/actividades/inventar-nuevos-usos-para-residuos.jpg`
 - **Tipo:** png
 
 </details>
@@ -7174,7 +7174,7 @@
 
 ### inventar-un-juego-o-juguete-con-materiales-reciclados.png
 
-![inventar-un-juego-o-juguete-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.png)
+![inventar-un-juego-o-juguete-con-materiales-reciclados.png](/fogata-recursos/imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7182,7 +7182,7 @@
 - **Nombre del archivo:** `inventar-un-juego-o-juguete-con-materiales-reciclados.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.png`
+- **Ruta completa:** `imagenes/actividades/inventar-un-juego-o-juguete-con-materiales-reciclados.jpg`
 - **Tipo:** png
 
 </details>
@@ -7195,7 +7195,7 @@
 
 ### invernaculo-para-anfibios.png
 
-![invernaculo-para-anfibios.png](/fogata-recursos/imagenes/actividades/invernaculo-para-anfibios.png)
+![invernaculo-para-anfibios.png](/fogata-recursos/imagenes/actividades/invernaculo-para-anfibios.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7203,7 +7203,7 @@
 - **Nombre del archivo:** `invernaculo-para-anfibios.png`
 - **Tamaño:** 304K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/invernaculo-para-anfibios.png`
+- **Ruta completa:** `imagenes/actividades/invernaculo-para-anfibios.jpg`
 - **Tipo:** png
 
 </details>
@@ -7216,7 +7216,7 @@
 
 ### investigacion-geotermica.png
 
-![investigacion-geotermica.png](/fogata-recursos/imagenes/actividades/investigacion-geotermica.png)
+![investigacion-geotermica.png](/fogata-recursos/imagenes/actividades/investigacion-geotermica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7224,7 +7224,7 @@
 - **Nombre del archivo:** `investigacion-geotermica.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigacion-geotermica.png`
+- **Ruta completa:** `imagenes/actividades/investigacion-geotermica.jpg`
 - **Tipo:** png
 
 </details>
@@ -7237,7 +7237,7 @@
 
 ### investigaciones-elementales.png
 
-![investigaciones-elementales.png](/fogata-recursos/imagenes/actividades/investigaciones-elementales.png)
+![investigaciones-elementales.png](/fogata-recursos/imagenes/actividades/investigaciones-elementales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7245,7 +7245,7 @@
 - **Nombre del archivo:** `investigaciones-elementales.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigaciones-elementales.png`
+- **Ruta completa:** `imagenes/actividades/investigaciones-elementales.jpg`
 - **Tipo:** png
 
 </details>
@@ -7258,7 +7258,7 @@
 
 ### investigaciones-tormentosas.png
 
-![investigaciones-tormentosas.png](/fogata-recursos/imagenes/actividades/investigaciones-tormentosas.png)
+![investigaciones-tormentosas.png](/fogata-recursos/imagenes/actividades/investigaciones-tormentosas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7266,7 +7266,7 @@
 - **Nombre del archivo:** `investigaciones-tormentosas.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigaciones-tormentosas.png`
+- **Ruta completa:** `imagenes/actividades/investigaciones-tormentosas.jpg`
 - **Tipo:** png
 
 </details>
@@ -7279,7 +7279,7 @@
 
 ### investigaciones-urbanas.png
 
-![investigaciones-urbanas.png](/fogata-recursos/imagenes/actividades/investigaciones-urbanas.png)
+![investigaciones-urbanas.png](/fogata-recursos/imagenes/actividades/investigaciones-urbanas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7287,7 +7287,7 @@
 - **Nombre del archivo:** `investigaciones-urbanas.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigaciones-urbanas.png`
+- **Ruta completa:** `imagenes/actividades/investigaciones-urbanas.jpg`
 - **Tipo:** png
 
 </details>
@@ -7300,7 +7300,7 @@
 
 ### investigando-rocas.png
 
-![investigando-rocas.png](/fogata-recursos/imagenes/actividades/investigando-rocas.png)
+![investigando-rocas.png](/fogata-recursos/imagenes/actividades/investigando-rocas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7308,7 +7308,7 @@
 - **Nombre del archivo:** `investigando-rocas.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigando-rocas.png`
+- **Ruta completa:** `imagenes/actividades/investigando-rocas.jpg`
 - **Tipo:** png
 
 </details>
@@ -7321,7 +7321,7 @@
 
 ### investigar-el-impacto-del-cambio-climatico-en-tu-area.png
 
-![investigar-el-impacto-del-cambio-climatico-en-tu-area.png](/fogata-recursos/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.png)
+![investigar-el-impacto-del-cambio-climatico-en-tu-area.png](/fogata-recursos/imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7329,7 +7329,7 @@
 - **Nombre del archivo:** `investigar-el-impacto-del-cambio-climatico-en-tu-area.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.png`
+- **Ruta completa:** `imagenes/actividades/investigar-el-impacto-del-cambio-climatico-en-tu-area.jpg`
 - **Tipo:** png
 
 </details>
@@ -7342,7 +7342,7 @@
 
 ### investigar-iniciativas-locales.png
 
-![investigar-iniciativas-locales.png](/fogata-recursos/imagenes/actividades/investigar-iniciativas-locales.png)
+![investigar-iniciativas-locales.png](/fogata-recursos/imagenes/actividades/investigar-iniciativas-locales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7350,7 +7350,7 @@
 - **Nombre del archivo:** `investigar-iniciativas-locales.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigar-iniciativas-locales.png`
+- **Ruta completa:** `imagenes/actividades/investigar-iniciativas-locales.jpg`
 - **Tipo:** png
 
 </details>
@@ -7363,7 +7363,7 @@
 
 ### investigar-la-vulnerabilidad-al-cambio-climatico.png
 
-![investigar-la-vulnerabilidad-al-cambio-climatico.png](/fogata-recursos/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png)
+![investigar-la-vulnerabilidad-al-cambio-climatico.png](/fogata-recursos/imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7371,7 +7371,7 @@
 - **Nombre del archivo:** `investigar-la-vulnerabilidad-al-cambio-climatico.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/investigar-la-vulnerabilidad-al-cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -7384,7 +7384,7 @@
 
 ### investigar-productos-locales-y-naturales.png
 
-![investigar-productos-locales-y-naturales.png](/fogata-recursos/imagenes/actividades/investigar-productos-locales-y-naturales.png)
+![investigar-productos-locales-y-naturales.png](/fogata-recursos/imagenes/actividades/investigar-productos-locales-y-naturales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7392,7 +7392,7 @@
 - **Nombre del archivo:** `investigar-productos-locales-y-naturales.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/investigar-productos-locales-y-naturales.png`
+- **Ruta completa:** `imagenes/actividades/investigar-productos-locales-y-naturales.jpg`
 - **Tipo:** png
 
 </details>
@@ -7405,7 +7405,7 @@
 
 ### jardineria-verde.png
 
-![jardineria-verde.png](/fogata-recursos/imagenes/actividades/jardineria-verde.png)
+![jardineria-verde.png](/fogata-recursos/imagenes/actividades/jardineria-verde.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7413,7 +7413,7 @@
 - **Nombre del archivo:** `jardineria-verde.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/jardineria-verde.png`
+- **Ruta completa:** `imagenes/actividades/jardineria-verde.jpg`
 - **Tipo:** png
 
 </details>
@@ -7426,7 +7426,7 @@
 
 ### jarra-de-efecto-invernadero.png
 
-![jarra-de-efecto-invernadero.png](/fogata-recursos/imagenes/actividades/jarra-de-efecto-invernadero.png)
+![jarra-de-efecto-invernadero.png](/fogata-recursos/imagenes/actividades/jarra-de-efecto-invernadero.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7434,7 +7434,7 @@
 - **Nombre del archivo:** `jarra-de-efecto-invernadero.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/jarra-de-efecto-invernadero.png`
+- **Ruta completa:** `imagenes/actividades/jarra-de-efecto-invernadero.jpg`
 - **Tipo:** png
 
 </details>
@@ -7447,7 +7447,7 @@
 
 ### juega-a-salvar-el-oceano.png
 
-![juega-a-salvar-el-oceano.png](/fogata-recursos/imagenes/actividades/juega-a-salvar-el-oceano.png)
+![juega-a-salvar-el-oceano.png](/fogata-recursos/imagenes/actividades/juega-a-salvar-el-oceano.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7455,7 +7455,7 @@
 - **Nombre del archivo:** `juega-a-salvar-el-oceano.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/juega-a-salvar-el-oceano.png`
+- **Ruta completa:** `imagenes/actividades/juega-a-salvar-el-oceano.jpg`
 - **Tipo:** png
 
 </details>
@@ -7468,7 +7468,7 @@
 
 ### juego-de-adivinanza.png
 
-![juego-de-adivinanza.png](/fogata-recursos/imagenes/actividades/juego-de-adivinanza.png)
+![juego-de-adivinanza.png](/fogata-recursos/imagenes/actividades/juego-de-adivinanza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7476,7 +7476,7 @@
 - **Nombre del archivo:** `juego-de-adivinanza.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/juego-de-adivinanza.png`
+- **Ruta completa:** `imagenes/actividades/juego-de-adivinanza.jpg`
 - **Tipo:** png
 
 </details>
@@ -7489,7 +7489,7 @@
 
 ### juego-de-la-energia.png
 
-![juego-de-la-energia.png](/fogata-recursos/imagenes/actividades/juego-de-la-energia.png)
+![juego-de-la-energia.png](/fogata-recursos/imagenes/actividades/juego-de-la-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7497,7 +7497,7 @@
 - **Nombre del archivo:** `juego-de-la-energia.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/juego-de-la-energia.png`
+- **Ruta completa:** `imagenes/actividades/juego-de-la-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -7510,7 +7510,7 @@
 
 ### juego-de-semillas.png
 
-![juego-de-semillas.png](/fogata-recursos/imagenes/actividades/juego-de-semillas.png)
+![juego-de-semillas.png](/fogata-recursos/imagenes/actividades/juego-de-semillas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7518,7 +7518,7 @@
 - **Nombre del archivo:** `juego-de-semillas.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/juego-de-semillas.png`
+- **Ruta completa:** `imagenes/actividades/juego-de-semillas.jpg`
 - **Tipo:** png
 
 </details>
@@ -7531,7 +7531,7 @@
 
 ### juego-sobre-biodiversidad.png
 
-![juego-sobre-biodiversidad.png](/fogata-recursos/imagenes/actividades/juego-sobre-biodiversidad.png)
+![juego-sobre-biodiversidad.png](/fogata-recursos/imagenes/actividades/juego-sobre-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7539,7 +7539,7 @@
 - **Nombre del archivo:** `juego-sobre-biodiversidad.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/juego-sobre-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/juego-sobre-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -7552,7 +7552,7 @@
 
 ### la-ciencia-del-agua.png
 
-![la-ciencia-del-agua.png](/fogata-recursos/imagenes/actividades/la-ciencia-del-agua.png)
+![la-ciencia-del-agua.png](/fogata-recursos/imagenes/actividades/la-ciencia-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7560,7 +7560,7 @@
 - **Nombre del archivo:** `la-ciencia-del-agua.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/la-ciencia-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/la-ciencia-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -7573,7 +7573,7 @@
 
 ### la-hora-del-planeta.png
 
-![la-hora-del-planeta.png](/fogata-recursos/imagenes/actividades/la-hora-del-planeta.png)
+![la-hora-del-planeta.png](/fogata-recursos/imagenes/actividades/la-hora-del-planeta.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7581,7 +7581,7 @@
 - **Nombre del archivo:** `la-hora-del-planeta.png`
 - **Tamaño:** 81K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/la-hora-del-planeta.png`
+- **Ruta completa:** `imagenes/actividades/la-hora-del-planeta.jpg`
 - **Tipo:** png
 
 </details>
@@ -7594,7 +7594,7 @@
 
 ### la-ola-verde.png
 
-![la-ola-verde.png](/fogata-recursos/imagenes/actividades/la-ola-verde.png)
+![la-ola-verde.png](/fogata-recursos/imagenes/actividades/la-ola-verde.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7602,7 +7602,7 @@
 - **Nombre del archivo:** `la-ola-verde.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/la-ola-verde.png`
+- **Ruta completa:** `imagenes/actividades/la-ola-verde.jpg`
 - **Tipo:** png
 
 </details>
@@ -7615,7 +7615,7 @@
 
 ### la-red-de-vida.png
 
-![la-red-de-vida.png](/fogata-recursos/imagenes/actividades/la-red-de-vida.png)
+![la-red-de-vida.png](/fogata-recursos/imagenes/actividades/la-red-de-vida.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7623,7 +7623,7 @@
 - **Nombre del archivo:** `la-red-de-vida.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/la-red-de-vida.png`
+- **Ruta completa:** `imagenes/actividades/la-red-de-vida.jpg`
 - **Tipo:** png
 
 </details>
@@ -7636,7 +7636,7 @@
 
 ### la-seguridad-es-primero.png
 
-![la-seguridad-es-primero.png](/fogata-recursos/imagenes/actividades/la-seguridad-es-primero.png)
+![la-seguridad-es-primero.png](/fogata-recursos/imagenes/actividades/la-seguridad-es-primero.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7644,7 +7644,7 @@
 - **Nombre del archivo:** `la-seguridad-es-primero.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/la-seguridad-es-primero.png`
+- **Ruta completa:** `imagenes/actividades/la-seguridad-es-primero.jpg`
 - **Tipo:** png
 
 </details>
@@ -7657,7 +7657,7 @@
 
 ### la-vida-en-los-arboles.png
 
-![la-vida-en-los-arboles.png](/fogata-recursos/imagenes/actividades/la-vida-en-los-arboles.png)
+![la-vida-en-los-arboles.png](/fogata-recursos/imagenes/actividades/la-vida-en-los-arboles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7665,7 +7665,7 @@
 - **Nombre del archivo:** `la-vida-en-los-arboles.png`
 - **Tamaño:** 235K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/la-vida-en-los-arboles.png`
+- **Ruta completa:** `imagenes/actividades/la-vida-en-los-arboles.jpg`
 - **Tipo:** png
 
 </details>
@@ -7678,7 +7678,7 @@
 
 ### las-capas-del-bosque.png
 
-![las-capas-del-bosque.png](/fogata-recursos/imagenes/actividades/las-capas-del-bosque.png)
+![las-capas-del-bosque.png](/fogata-recursos/imagenes/actividades/las-capas-del-bosque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7686,7 +7686,7 @@
 - **Nombre del archivo:** `las-capas-del-bosque.png`
 - **Tamaño:** 304K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/las-capas-del-bosque.png`
+- **Ruta completa:** `imagenes/actividades/las-capas-del-bosque.jpg`
 - **Tipo:** png
 
 </details>
@@ -7699,7 +7699,7 @@
 
 ### las-huellas-de-plastico-mas-grandes.png
 
-![las-huellas-de-plastico-mas-grandes.png](/fogata-recursos/imagenes/actividades/las-huellas-de-plastico-mas-grandes.png)
+![las-huellas-de-plastico-mas-grandes.png](/fogata-recursos/imagenes/actividades/las-huellas-de-plastico-mas-grandes.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7707,7 +7707,7 @@
 - **Nombre del archivo:** `las-huellas-de-plastico-mas-grandes.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/las-huellas-de-plastico-mas-grandes.png`
+- **Ruta completa:** `imagenes/actividades/las-huellas-de-plastico-mas-grandes.jpg`
 - **Tipo:** png
 
 </details>
@@ -7720,7 +7720,7 @@
 
 ### lavando-la-tierra.png
 
-![lavando-la-tierra.png](/fogata-recursos/imagenes/actividades/lavando-la-tierra.png)
+![lavando-la-tierra.png](/fogata-recursos/imagenes/actividades/lavando-la-tierra.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7728,7 +7728,7 @@
 - **Nombre del archivo:** `lavando-la-tierra.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/lavando-la-tierra.png`
+- **Ruta completa:** `imagenes/actividades/lavando-la-tierra.jpg`
 - **Tipo:** png
 
 </details>
@@ -7741,7 +7741,7 @@
 
 ### lavar-la-ropa-de-manera-eficiente.png
 
-![lavar-la-ropa-de-manera-eficiente.png](/fogata-recursos/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png)
+![lavar-la-ropa-de-manera-eficiente.png](/fogata-recursos/imagenes/actividades/lavar-la-ropa-de-manera-eficiente.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7749,7 +7749,7 @@
 - **Nombre del archivo:** `lavar-la-ropa-de-manera-eficiente.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/lavar-la-ropa-de-manera-eficiente.png`
+- **Ruta completa:** `imagenes/actividades/lavar-la-ropa-de-manera-eficiente.jpg`
 - **Tipo:** png
 
 </details>
@@ -7762,7 +7762,7 @@
 
 ### lentes-solares.png
 
-![lentes-solares.png](/fogata-recursos/imagenes/actividades/lentes-solares.png)
+![lentes-solares.png](/fogata-recursos/imagenes/actividades/lentes-solares.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7770,7 +7770,7 @@
 - **Nombre del archivo:** `lentes-solares.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/lentes-solares.png`
+- **Ruta completa:** `imagenes/actividades/lentes-solares.jpg`
 - **Tipo:** png
 
 </details>
@@ -7783,7 +7783,7 @@
 
 ### letreros-de-conservacion.png
 
-![letreros-de-conservacion.png](/fogata-recursos/imagenes/actividades/letreros-de-conservacion.png)
+![letreros-de-conservacion.png](/fogata-recursos/imagenes/actividades/letreros-de-conservacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7791,7 +7791,7 @@
 - **Nombre del archivo:** `letreros-de-conservacion.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/letreros-de-conservacion.png`
+- **Ruta completa:** `imagenes/actividades/letreros-de-conservacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -7804,7 +7804,7 @@
 
 ### limpieza-de-playa.png
 
-![limpieza-de-playa.png](/fogata-recursos/imagenes/actividades/limpieza-de-playa.png)
+![limpieza-de-playa.png](/fogata-recursos/imagenes/actividades/limpieza-de-playa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7812,7 +7812,7 @@
 - **Nombre del archivo:** `limpieza-de-playa.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/limpieza-de-playa.png`
+- **Ruta completa:** `imagenes/actividades/limpieza-de-playa.jpg`
 - **Tipo:** png
 
 </details>
@@ -7825,7 +7825,7 @@
 
 ### lista-de-seguridad-electrica.png
 
-![lista-de-seguridad-electrica.png](/fogata-recursos/imagenes/actividades/lista-de-seguridad-electrica.png)
+![lista-de-seguridad-electrica.png](/fogata-recursos/imagenes/actividades/lista-de-seguridad-electrica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7833,7 +7833,7 @@
 - **Nombre del archivo:** `lista-de-seguridad-electrica.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/lista-de-seguridad-electrica.png`
+- **Ruta completa:** `imagenes/actividades/lista-de-seguridad-electrica.jpg`
 - **Tipo:** png
 
 </details>
@@ -7846,7 +7846,7 @@
 
 ### lista-de-verificacion-de-la-huella-ecologica.png
 
-![lista-de-verificacion-de-la-huella-ecologica.png](/fogata-recursos/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png)
+![lista-de-verificacion-de-la-huella-ecologica.png](/fogata-recursos/imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7854,7 +7854,7 @@
 - **Nombre del archivo:** `lista-de-verificacion-de-la-huella-ecologica.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.png`
+- **Ruta completa:** `imagenes/actividades/lista-de-verificacion-de-la-huella-ecologica.jpg`
 - **Tipo:** png
 
 </details>
@@ -7867,7 +7867,7 @@
 
 ### logrando-los-ods.png
 
-![logrando-los-ods.png](/fogata-recursos/imagenes/actividades/logrando-los-ods.png)
+![logrando-los-ods.png](/fogata-recursos/imagenes/actividades/logrando-los-ods.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7875,7 +7875,7 @@
 - **Nombre del archivo:** `logrando-los-ods.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/logrando-los-ods.png`
+- **Ruta completa:** `imagenes/actividades/logrando-los-ods.jpg`
 - **Tipo:** png
 
 </details>
@@ -7888,7 +7888,7 @@
 
 ### los-biomas-son-hogares.png
 
-![los-biomas-son-hogares.png](/fogata-recursos/imagenes/actividades/los-biomas-son-hogares.png)
+![los-biomas-son-hogares.png](/fogata-recursos/imagenes/actividades/los-biomas-son-hogares.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7896,7 +7896,7 @@
 - **Nombre del archivo:** `los-biomas-son-hogares.png`
 - **Tamaño:** 251K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-biomas-son-hogares.png`
+- **Ruta completa:** `imagenes/actividades/los-biomas-son-hogares.jpg`
 - **Tipo:** png
 
 </details>
@@ -7909,7 +7909,7 @@
 
 ### los-bosques-bajo-amenaza.png
 
-![los-bosques-bajo-amenaza.png](/fogata-recursos/imagenes/actividades/los-bosques-bajo-amenaza.png)
+![los-bosques-bajo-amenaza.png](/fogata-recursos/imagenes/actividades/los-bosques-bajo-amenaza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7917,7 +7917,7 @@
 - **Nombre del archivo:** `los-bosques-bajo-amenaza.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-bosques-bajo-amenaza.png`
+- **Ruta completa:** `imagenes/actividades/los-bosques-bajo-amenaza.jpg`
 - **Tipo:** png
 
 </details>
@@ -7930,7 +7930,7 @@
 
 ### los-bosques-y-el-cambio-climatico.png
 
-![los-bosques-y-el-cambio-climatico.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-cambio-climatico.png)
+![los-bosques-y-el-cambio-climatico.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7938,7 +7938,7 @@
 - **Nombre del archivo:** `los-bosques-y-el-cambio-climatico.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-bosques-y-el-cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/los-bosques-y-el-cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -7951,7 +7951,7 @@
 
 ### los-bosques-y-el-fuego.png
 
-![los-bosques-y-el-fuego.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-fuego.png)
+![los-bosques-y-el-fuego.png](/fogata-recursos/imagenes/actividades/los-bosques-y-el-fuego.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7959,7 +7959,7 @@
 - **Nombre del archivo:** `los-bosques-y-el-fuego.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-bosques-y-el-fuego.png`
+- **Ruta completa:** `imagenes/actividades/los-bosques-y-el-fuego.jpg`
 - **Tipo:** png
 
 </details>
@@ -7972,7 +7972,7 @@
 
 ### los-bosques-y-las-nn-uu.png
 
-![los-bosques-y-las-nn-uu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-las-nn-uu.png)
+![los-bosques-y-las-nn-uu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-las-nn-uu.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -7980,7 +7980,7 @@
 - **Nombre del archivo:** `los-bosques-y-las-nn-uu.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-bosques-y-las-nn-uu.png`
+- **Ruta completa:** `imagenes/actividades/los-bosques-y-las-nn-uu.jpg`
 - **Tipo:** png
 
 </details>
@@ -7993,7 +7993,7 @@
 
 ### los-bosques-y-tu.png
 
-![los-bosques-y-tu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-tu.png)
+![los-bosques-y-tu.png](/fogata-recursos/imagenes/actividades/los-bosques-y-tu.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8001,7 +8001,7 @@
 - **Nombre del archivo:** `los-bosques-y-tu.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-bosques-y-tu.png`
+- **Ruta completa:** `imagenes/actividades/los-bosques-y-tu.jpg`
 - **Tipo:** png
 
 </details>
@@ -8014,7 +8014,7 @@
 
 ### los-colores-de-la-energia-solar.png
 
-![los-colores-de-la-energia-solar.png](/fogata-recursos/imagenes/actividades/los-colores-de-la-energia-solar.png)
+![los-colores-de-la-energia-solar.png](/fogata-recursos/imagenes/actividades/los-colores-de-la-energia-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8022,7 +8022,7 @@
 - **Nombre del archivo:** `los-colores-de-la-energia-solar.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-colores-de-la-energia-solar.png`
+- **Ruta completa:** `imagenes/actividades/los-colores-de-la-energia-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -8035,7 +8035,7 @@
 
 ### los-colores-del-agua.png
 
-![los-colores-del-agua.png](/fogata-recursos/imagenes/actividades/los-colores-del-agua.png)
+![los-colores-del-agua.png](/fogata-recursos/imagenes/actividades/los-colores-del-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8043,7 +8043,7 @@
 - **Nombre del archivo:** `los-colores-del-agua.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/los-colores-del-agua.png`
+- **Ruta completa:** `imagenes/actividades/los-colores-del-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -8056,7 +8056,7 @@
 
 ### lupa.png
 
-![lupa.png](/fogata-recursos/imagenes/actividades/lupa.png)
+![lupa.png](/fogata-recursos/imagenes/actividades/lupa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8064,7 +8064,7 @@
 - **Nombre del archivo:** `lupa.png`
 - **Tamaño:** 246K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/lupa.png`
+- **Ruta completa:** `imagenes/actividades/lupa.jpg`
 - **Tipo:** png
 
 </details>
@@ -8077,7 +8077,7 @@
 
 ### macetas-de-botellas.png
 
-![macetas-de-botellas.png](/fogata-recursos/imagenes/actividades/macetas-de-botellas.png)
+![macetas-de-botellas.png](/fogata-recursos/imagenes/actividades/macetas-de-botellas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8085,7 +8085,7 @@
 - **Nombre del archivo:** `macetas-de-botellas.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/macetas-de-botellas.png`
+- **Ruta completa:** `imagenes/actividades/macetas-de-botellas.jpg`
 - **Tipo:** png
 
 </details>
@@ -8098,7 +8098,7 @@
 
 ### mantenerla-limpia.png
 
-![mantenerla-limpia.png](/fogata-recursos/imagenes/actividades/mantenerla-limpia.png)
+![mantenerla-limpia.png](/fogata-recursos/imagenes/actividades/mantenerla-limpia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8106,7 +8106,7 @@
 - **Nombre del archivo:** `mantenerla-limpia.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mantenerla-limpia.png`
+- **Ruta completa:** `imagenes/actividades/mantenerla-limpia.jpg`
 - **Tipo:** png
 
 </details>
@@ -8119,7 +8119,7 @@
 
 ### manualidad-de-mosaico-de-tapas-de-botella.png
 
-![manualidad-de-mosaico-de-tapas-de-botella.png](/fogata-recursos/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png)
+![manualidad-de-mosaico-de-tapas-de-botella.png](/fogata-recursos/imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8127,7 +8127,7 @@
 - **Nombre del archivo:** `manualidad-de-mosaico-de-tapas-de-botella.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.png`
+- **Ruta completa:** `imagenes/actividades/manualidad-de-mosaico-de-tapas-de-botella.jpg`
 - **Tipo:** png
 
 </details>
@@ -8140,7 +8140,7 @@
 
 ### mapa-de-contaminacion-local.png
 
-![mapa-de-contaminacion-local.png](/fogata-recursos/imagenes/actividades/mapa-de-contaminacion-local.png)
+![mapa-de-contaminacion-local.png](/fogata-recursos/imagenes/actividades/mapa-de-contaminacion-local.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8148,7 +8148,7 @@
 - **Nombre del archivo:** `mapa-de-contaminacion-local.png`
 - **Tamaño:** 241K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mapa-de-contaminacion-local.png`
+- **Ruta completa:** `imagenes/actividades/mapa-de-contaminacion-local.jpg`
 - **Tipo:** png
 
 </details>
@@ -8161,7 +8161,7 @@
 
 ### mapea-el-impacto.png
 
-![mapea-el-impacto.png](/fogata-recursos/imagenes/actividades/mapea-el-impacto.png)
+![mapea-el-impacto.png](/fogata-recursos/imagenes/actividades/mapea-el-impacto.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8169,7 +8169,7 @@
 - **Nombre del archivo:** `mapea-el-impacto.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mapea-el-impacto.png`
+- **Ruta completa:** `imagenes/actividades/mapea-el-impacto.jpg`
 - **Tipo:** png
 
 </details>
@@ -8182,7 +8182,7 @@
 
 ### maravillas-agusanadas.png
 
-![maravillas-agusanadas.png](/fogata-recursos/imagenes/actividades/maravillas-agusanadas.png)
+![maravillas-agusanadas.png](/fogata-recursos/imagenes/actividades/maravillas-agusanadas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8190,7 +8190,7 @@
 - **Nombre del archivo:** `maravillas-agusanadas.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/maravillas-agusanadas.png`
+- **Ruta completa:** `imagenes/actividades/maravillas-agusanadas.jpg`
 - **Tipo:** png
 
 </details>
@@ -8203,7 +8203,7 @@
 
 ### medios-de-subsistencia-alternativos.png
 
-![medios-de-subsistencia-alternativos.png](/fogata-recursos/imagenes/actividades/medios-de-subsistencia-alternativos.png)
+![medios-de-subsistencia-alternativos.png](/fogata-recursos/imagenes/actividades/medios-de-subsistencia-alternativos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8211,7 +8211,7 @@
 - **Nombre del archivo:** `medios-de-subsistencia-alternativos.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/medios-de-subsistencia-alternativos.png`
+- **Ruta completa:** `imagenes/actividades/medios-de-subsistencia-alternativos.jpg`
 - **Tipo:** png
 
 </details>
@@ -8224,7 +8224,7 @@
 
 ### medios-sociales.png
 
-![medios-sociales.png](/fogata-recursos/imagenes/actividades/medios-sociales.png)
+![medios-sociales.png](/fogata-recursos/imagenes/actividades/medios-sociales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8232,7 +8232,7 @@
 - **Nombre del archivo:** `medios-sociales.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/medios-sociales.png`
+- **Ruta completa:** `imagenes/actividades/medios-sociales.jpg`
 - **Tipo:** png
 
 </details>
@@ -8245,7 +8245,7 @@
 
 ### meditaciones-en-el-museo.png
 
-![meditaciones-en-el-museo.png](/fogata-recursos/imagenes/actividades/meditaciones-en-el-museo.png)
+![meditaciones-en-el-museo.png](/fogata-recursos/imagenes/actividades/meditaciones-en-el-museo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8253,7 +8253,7 @@
 - **Nombre del archivo:** `meditaciones-en-el-museo.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/meditaciones-en-el-museo.png`
+- **Ruta completa:** `imagenes/actividades/meditaciones-en-el-museo.jpg`
 - **Tipo:** png
 
 </details>
@@ -8266,7 +8266,7 @@
 
 ### menos-basura.png
 
-![menos-basura.png](/fogata-recursos/imagenes/actividades/menos-basura.png)
+![menos-basura.png](/fogata-recursos/imagenes/actividades/menos-basura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8274,7 +8274,7 @@
 - **Nombre del archivo:** `menos-basura.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/menos-basura.png`
+- **Ruta completa:** `imagenes/actividades/menos-basura.jpg`
 - **Tipo:** png
 
 </details>
@@ -8287,7 +8287,7 @@
 
 ### menu-sin-polinizadores.png
 
-![menu-sin-polinizadores.png](/fogata-recursos/imagenes/actividades/menu-sin-polinizadores.png)
+![menu-sin-polinizadores.png](/fogata-recursos/imagenes/actividades/menu-sin-polinizadores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8295,7 +8295,7 @@
 - **Nombre del archivo:** `menu-sin-polinizadores.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/menu-sin-polinizadores.png`
+- **Ruta completa:** `imagenes/actividades/menu-sin-polinizadores.jpg`
 - **Tipo:** png
 
 </details>
@@ -8308,7 +8308,7 @@
 
 ### mi-huella-de-carbono.png
 
-![mi-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/mi-huella-de-carbono.png)
+![mi-huella-de-carbono.png](/fogata-recursos/imagenes/actividades/mi-huella-de-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8316,7 +8316,7 @@
 - **Nombre del archivo:** `mi-huella-de-carbono.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mi-huella-de-carbono.png`
+- **Ruta completa:** `imagenes/actividades/mi-huella-de-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -8329,7 +8329,7 @@
 
 ### midamos-la-energia.png
 
-![midamos-la-energia.png](/fogata-recursos/imagenes/actividades/midamos-la-energia.png)
+![midamos-la-energia.png](/fogata-recursos/imagenes/actividades/midamos-la-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8337,7 +8337,7 @@
 - **Nombre del archivo:** `midamos-la-energia.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/midamos-la-energia.png`
+- **Ruta completa:** `imagenes/actividades/midamos-la-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -8350,7 +8350,7 @@
 
 ### midiendo-el-clima.png
 
-![midiendo-el-clima.png](/fogata-recursos/imagenes/actividades/midiendo-el-clima.png)
+![midiendo-el-clima.png](/fogata-recursos/imagenes/actividades/midiendo-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8358,7 +8358,7 @@
 - **Nombre del archivo:** `midiendo-el-clima.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/midiendo-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/midiendo-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -8371,7 +8371,7 @@
 
 ### mimica-de-agua.png
 
-![mimica-de-agua.png](/fogata-recursos/imagenes/actividades/mimica-de-agua.png)
+![mimica-de-agua.png](/fogata-recursos/imagenes/actividades/mimica-de-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8379,7 +8379,7 @@
 - **Nombre del archivo:** `mimica-de-agua.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mimica-de-agua.png`
+- **Ruta completa:** `imagenes/actividades/mimica-de-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -8392,7 +8392,7 @@
 
 ### minimo-impacto-a-la-naturaleza.png
 
-![minimo-impacto-a-la-naturaleza.png](/fogata-recursos/imagenes/actividades/minimo-impacto-a-la-naturaleza.png)
+![minimo-impacto-a-la-naturaleza.png](/fogata-recursos/imagenes/actividades/minimo-impacto-a-la-naturaleza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8400,7 +8400,7 @@
 - **Nombre del archivo:** `minimo-impacto-a-la-naturaleza.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/minimo-impacto-a-la-naturaleza.png`
+- **Ruta completa:** `imagenes/actividades/minimo-impacto-a-la-naturaleza.jpg`
 - **Tipo:** png
 
 </details>
@@ -8413,7 +8413,7 @@
 
 ### moda-sostenible.png
 
-![moda-sostenible.png](/fogata-recursos/imagenes/actividades/moda-sostenible.png)
+![moda-sostenible.png](/fogata-recursos/imagenes/actividades/moda-sostenible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8421,7 +8421,7 @@
 - **Nombre del archivo:** `moda-sostenible.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/moda-sostenible.png`
+- **Ruta completa:** `imagenes/actividades/moda-sostenible.jpg`
 - **Tipo:** png
 
 </details>
@@ -8434,7 +8434,7 @@
 
 ### modelo-de-cuenca-hidrografica.png
 
-![modelo-de-cuenca-hidrografica.png](/fogata-recursos/imagenes/actividades/modelo-de-cuenca-hidrografica.png)
+![modelo-de-cuenca-hidrografica.png](/fogata-recursos/imagenes/actividades/modelo-de-cuenca-hidrografica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8442,7 +8442,7 @@
 - **Nombre del archivo:** `modelo-de-cuenca-hidrografica.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/modelo-de-cuenca-hidrografica.png`
+- **Ruta completa:** `imagenes/actividades/modelo-de-cuenca-hidrografica.jpg`
 - **Tipo:** png
 
 </details>
@@ -8455,7 +8455,7 @@
 
 ### modelo-de-generacion-energetica.png
 
-![modelo-de-generacion-energetica.png](/fogata-recursos/imagenes/actividades/modelo-de-generacion-energetica.png)
+![modelo-de-generacion-energetica.png](/fogata-recursos/imagenes/actividades/modelo-de-generacion-energetica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8463,7 +8463,7 @@
 - **Nombre del archivo:** `modelo-de-generacion-energetica.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/modelo-de-generacion-energetica.png`
+- **Ruta completa:** `imagenes/actividades/modelo-de-generacion-energetica.jpg`
 - **Tipo:** png
 
 </details>
@@ -8476,7 +8476,7 @@
 
 ### monitoreo-de-mis-residuos.png
 
-![monitoreo-de-mis-residuos.png](/fogata-recursos/imagenes/actividades/monitoreo-de-mis-residuos.png)
+![monitoreo-de-mis-residuos.png](/fogata-recursos/imagenes/actividades/monitoreo-de-mis-residuos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8484,7 +8484,7 @@
 - **Nombre del archivo:** `monitoreo-de-mis-residuos.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/monitoreo-de-mis-residuos.png`
+- **Ruta completa:** `imagenes/actividades/monitoreo-de-mis-residuos.jpg`
 - **Tipo:** png
 
 </details>
@@ -8497,7 +8497,7 @@
 
 ### monologos.png
 
-![monologos.png](/fogata-recursos/imagenes/actividades/monologos.png)
+![monologos.png](/fogata-recursos/imagenes/actividades/monologos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8505,7 +8505,7 @@
 - **Nombre del archivo:** `monologos.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/monologos.png`
+- **Ruta completa:** `imagenes/actividades/monologos.jpg`
 - **Tipo:** png
 
 </details>
@@ -8518,7 +8518,7 @@
 
 ### mostrando-algo-bueno.png
 
-![mostrando-algo-bueno.png](/fogata-recursos/imagenes/actividades/mostrando-algo-bueno.png)
+![mostrando-algo-bueno.png](/fogata-recursos/imagenes/actividades/mostrando-algo-bueno.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8526,7 +8526,7 @@
 - **Nombre del archivo:** `mostrando-algo-bueno.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mostrando-algo-bueno.png`
+- **Ruta completa:** `imagenes/actividades/mostrando-algo-bueno.jpg`
 - **Tipo:** png
 
 </details>
@@ -8539,7 +8539,7 @@
 
 ### mundo-de-carbono.png
 
-![mundo-de-carbono.png](/fogata-recursos/imagenes/actividades/mundo-de-carbono.png)
+![mundo-de-carbono.png](/fogata-recursos/imagenes/actividades/mundo-de-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8547,7 +8547,7 @@
 - **Nombre del archivo:** `mundo-de-carbono.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/mundo-de-carbono.png`
+- **Ruta completa:** `imagenes/actividades/mundo-de-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -8560,7 +8560,7 @@
 
 ### necesidades-y-deseos.png
 
-![necesidades-y-deseos.png](/fogata-recursos/imagenes/actividades/necesidades-y-deseos.png)
+![necesidades-y-deseos.png](/fogata-recursos/imagenes/actividades/necesidades-y-deseos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8568,7 +8568,7 @@
 - **Nombre del archivo:** `necesidades-y-deseos.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/necesidades-y-deseos.png`
+- **Ruta completa:** `imagenes/actividades/necesidades-y-deseos.jpg`
 - **Tipo:** png
 
 </details>
@@ -8581,7 +8581,7 @@
 
 ### no-madereros-y-no-son-buenos.png
 
-![no-madereros-y-no-son-buenos.png](/fogata-recursos/imagenes/actividades/no-madereros-y-no-son-buenos.png)
+![no-madereros-y-no-son-buenos.png](/fogata-recursos/imagenes/actividades/no-madereros-y-no-son-buenos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8589,7 +8589,7 @@
 - **Nombre del archivo:** `no-madereros-y-no-son-buenos.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/no-madereros-y-no-son-buenos.png`
+- **Ruta completa:** `imagenes/actividades/no-madereros-y-no-son-buenos.jpg`
 - **Tipo:** png
 
 </details>
@@ -8602,7 +8602,7 @@
 
 ### noche-de-cine.png
 
-![noche-de-cine.png](/fogata-recursos/imagenes/actividades/noche-de-cine.png)
+![noche-de-cine.png](/fogata-recursos/imagenes/actividades/noche-de-cine.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8610,7 +8610,7 @@
 - **Nombre del archivo:** `noche-de-cine.png`
 - **Tamaño:** 49K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/noche-de-cine.png`
+- **Ruta completa:** `imagenes/actividades/noche-de-cine.jpg`
 - **Tipo:** png
 
 </details>
@@ -8623,7 +8623,7 @@
 
 ### noche-de-cine2.png
 
-![noche-de-cine2.png](/fogata-recursos/imagenes/actividades/noche-de-cine2.png)
+![noche-de-cine2.png](/fogata-recursos/imagenes/actividades/noche-de-cine2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8631,7 +8631,7 @@
 - **Nombre del archivo:** `noche-de-cine2.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/noche-de-cine2.png`
+- **Ruta completa:** `imagenes/actividades/noche-de-cine2.jpg`
 - **Tipo:** png
 
 </details>
@@ -8644,7 +8644,7 @@
 
 ### noche-de-cine3.png
 
-![noche-de-cine3.png](/fogata-recursos/imagenes/actividades/noche-de-cine3.png)
+![noche-de-cine3.png](/fogata-recursos/imagenes/actividades/noche-de-cine3.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8652,7 +8652,7 @@
 - **Nombre del archivo:** `noche-de-cine3.png`
 - **Tamaño:** 97K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/noche-de-cine3.png`
+- **Ruta completa:** `imagenes/actividades/noche-de-cine3.jpg`
 - **Tipo:** png
 
 </details>
@@ -8665,7 +8665,7 @@
 
 ### noche-de-cine4.png
 
-![noche-de-cine4.png](/fogata-recursos/imagenes/actividades/noche-de-cine4.png)
+![noche-de-cine4.png](/fogata-recursos/imagenes/actividades/noche-de-cine4.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8673,7 +8673,7 @@
 - **Nombre del archivo:** `noche-de-cine4.png`
 - **Tamaño:** 91K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/noche-de-cine4.png`
+- **Ruta completa:** `imagenes/actividades/noche-de-cine4.jpg`
 - **Tipo:** png
 
 </details>
@@ -8686,7 +8686,7 @@
 
 ### nuestro-planeta.png
 
-![nuestro-planeta.png](/fogata-recursos/imagenes/actividades/nuestro-planeta.png)
+![nuestro-planeta.png](/fogata-recursos/imagenes/actividades/nuestro-planeta.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8694,7 +8694,7 @@
 - **Nombre del archivo:** `nuestro-planeta.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/nuestro-planeta.png`
+- **Ruta completa:** `imagenes/actividades/nuestro-planeta.jpg`
 - **Tipo:** png
 
 </details>
@@ -8707,7 +8707,7 @@
 
 ### nutricion_1.png
 
-![nutricion_1.png](/fogata-recursos/imagenes/actividades/nutricion_1.png)
+![nutricion_1.png](/fogata-recursos/imagenes/actividades/nutricion_1.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8715,7 +8715,7 @@
 - **Nombre del archivo:** `nutricion_1.png`
 - **Tamaño:** 91K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/nutricion_1.png`
+- **Ruta completa:** `imagenes/actividades/nutricion_1.jpg`
 - **Tipo:** png
 
 </details>
@@ -8728,7 +8728,7 @@
 
 ### observa-tu-agua.png
 
-![observa-tu-agua.png](/fogata-recursos/imagenes/actividades/observa-tu-agua.png)
+![observa-tu-agua.png](/fogata-recursos/imagenes/actividades/observa-tu-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8736,7 +8736,7 @@
 - **Nombre del archivo:** `observa-tu-agua.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/observa-tu-agua.png`
+- **Ruta completa:** `imagenes/actividades/observa-tu-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -8749,7 +8749,7 @@
 
 ### observaciones-astronomicas.png
 
-![observaciones-astronomicas.png](/fogata-recursos/imagenes/actividades/observaciones-astronomicas.png)
+![observaciones-astronomicas.png](/fogata-recursos/imagenes/actividades/observaciones-astronomicas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8757,7 +8757,7 @@
 - **Nombre del archivo:** `observaciones-astronomicas.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/observaciones-astronomicas.png`
+- **Ruta completa:** `imagenes/actividades/observaciones-astronomicas.jpg`
 - **Tipo:** png
 
 </details>
@@ -8770,7 +8770,7 @@
 
 ### observando-el-tiempo.png
 
-![observando-el-tiempo.png](/fogata-recursos/imagenes/actividades/observando-el-tiempo.png)
+![observando-el-tiempo.png](/fogata-recursos/imagenes/actividades/observando-el-tiempo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8778,7 +8778,7 @@
 - **Nombre del archivo:** `observando-el-tiempo.png`
 - **Tamaño:** 304K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/observando-el-tiempo.png`
+- **Ruta completa:** `imagenes/actividades/observando-el-tiempo.jpg`
 - **Tipo:** png
 
 </details>
@@ -8791,7 +8791,7 @@
 
 ### observar-el-medidor-de-agua.png
 
-![observar-el-medidor-de-agua.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-agua.png)
+![observar-el-medidor-de-agua.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8799,7 +8799,7 @@
 - **Nombre del archivo:** `observar-el-medidor-de-agua.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/observar-el-medidor-de-agua.png`
+- **Ruta completa:** `imagenes/actividades/observar-el-medidor-de-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -8812,7 +8812,7 @@
 
 ### observar-el-medidor-de-electricidad.png
 
-![observar-el-medidor-de-electricidad.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-electricidad.png)
+![observar-el-medidor-de-electricidad.png](/fogata-recursos/imagenes/actividades/observar-el-medidor-de-electricidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8820,7 +8820,7 @@
 - **Nombre del archivo:** `observar-el-medidor-de-electricidad.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/observar-el-medidor-de-electricidad.png`
+- **Ruta completa:** `imagenes/actividades/observar-el-medidor-de-electricidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -8833,7 +8833,7 @@
 
 ### operacion-contra-la-basura.png
 
-![operacion-contra-la-basura.png](/fogata-recursos/imagenes/actividades/operacion-contra-la-basura.png)
+![operacion-contra-la-basura.png](/fogata-recursos/imagenes/actividades/operacion-contra-la-basura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8841,7 +8841,7 @@
 - **Nombre del archivo:** `operacion-contra-la-basura.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/operacion-contra-la-basura.png`
+- **Ruta completa:** `imagenes/actividades/operacion-contra-la-basura.jpg`
 - **Tipo:** png
 
 </details>
@@ -8854,7 +8854,7 @@
 
 ### optimizar-el-uso-del-refrigerador.png
 
-![optimizar-el-uso-del-refrigerador.png](/fogata-recursos/imagenes/actividades/optimizar-el-uso-del-refrigerador.png)
+![optimizar-el-uso-del-refrigerador.png](/fogata-recursos/imagenes/actividades/optimizar-el-uso-del-refrigerador.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8862,7 +8862,7 @@
 - **Nombre del archivo:** `optimizar-el-uso-del-refrigerador.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/optimizar-el-uso-del-refrigerador.png`
+- **Ruta completa:** `imagenes/actividades/optimizar-el-uso-del-refrigerador.jpg`
 - **Tipo:** png
 
 </details>
@@ -8875,7 +8875,7 @@
 
 ### organizador-comunitario.png
 
-![organizador-comunitario.png](/fogata-recursos/imagenes/actividades/organizador-comunitario.png)
+![organizador-comunitario.png](/fogata-recursos/imagenes/actividades/organizador-comunitario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8883,7 +8883,7 @@
 - **Nombre del archivo:** `organizador-comunitario.png`
 - **Tamaño:** 97K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizador-comunitario.png`
+- **Ruta completa:** `imagenes/actividades/organizador-comunitario.jpg`
 - **Tipo:** png
 
 </details>
@@ -8896,7 +8896,7 @@
 
 ### organizandote.png
 
-![organizandote.png](/fogata-recursos/imagenes/actividades/organizandote.png)
+![organizandote.png](/fogata-recursos/imagenes/actividades/organizandote.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8904,7 +8904,7 @@
 - **Nombre del archivo:** `organizandote.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizandote.png`
+- **Ruta completa:** `imagenes/actividades/organizandote.jpg`
 - **Tipo:** png
 
 </details>
@@ -8917,7 +8917,7 @@
 
 ### organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png
 
-![organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png](/fogata-recursos/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png)
+![organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png](/fogata-recursos/imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8925,7 +8925,7 @@
 - **Nombre del archivo:** `organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.png`
+- **Ruta completa:** `imagenes/actividades/organizar-actividades-para-el-dia-mundial-de-la-alimentacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -8938,7 +8938,7 @@
 
 ### organizar-un-bazar-de-intercambio-de-reciclaje.png
 
-![organizar-un-bazar-de-intercambio-de-reciclaje.png](/fogata-recursos/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png)
+![organizar-un-bazar-de-intercambio-de-reciclaje.png](/fogata-recursos/imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8946,7 +8946,7 @@
 - **Nombre del archivo:** `organizar-un-bazar-de-intercambio-de-reciclaje.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.png`
+- **Ruta completa:** `imagenes/actividades/organizar-un-bazar-de-intercambio-de-reciclaje.jpg`
 - **Tipo:** png
 
 </details>
@@ -8959,7 +8959,7 @@
 
 ### organizar-un-campamento-sostenible.png
 
-![organizar-un-campamento-sostenible.png](/fogata-recursos/imagenes/actividades/organizar-un-campamento-sostenible.png)
+![organizar-un-campamento-sostenible.png](/fogata-recursos/imagenes/actividades/organizar-un-campamento-sostenible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8967,7 +8967,7 @@
 - **Nombre del archivo:** `organizar-un-campamento-sostenible.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizar-un-campamento-sostenible.png`
+- **Ruta completa:** `imagenes/actividades/organizar-un-campamento-sostenible.jpg`
 - **Tipo:** png
 
 </details>
@@ -8980,7 +8980,7 @@
 
 ### organizar-un-evento-benefico.png
 
-![organizar-un-evento-benefico.png](/fogata-recursos/imagenes/actividades/organizar-un-evento-benefico.png)
+![organizar-un-evento-benefico.png](/fogata-recursos/imagenes/actividades/organizar-un-evento-benefico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -8988,7 +8988,7 @@
 - **Nombre del archivo:** `organizar-un-evento-benefico.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizar-un-evento-benefico.png`
+- **Ruta completa:** `imagenes/actividades/organizar-un-evento-benefico.jpg`
 - **Tipo:** png
 
 </details>
@@ -9001,7 +9001,7 @@
 
 ### organizar-una-colecta-de-donaciones.png
 
-![organizar-una-colecta-de-donaciones.png](/fogata-recursos/imagenes/actividades/organizar-una-colecta-de-donaciones.png)
+![organizar-una-colecta-de-donaciones.png](/fogata-recursos/imagenes/actividades/organizar-una-colecta-de-donaciones.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9009,7 +9009,7 @@
 - **Nombre del archivo:** `organizar-una-colecta-de-donaciones.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/organizar-una-colecta-de-donaciones.png`
+- **Ruta completa:** `imagenes/actividades/organizar-una-colecta-de-donaciones.jpg`
 - **Tipo:** png
 
 </details>
@@ -9022,7 +9022,7 @@
 
 ### ozono-y-quemaduras-de-sol.png
 
-![ozono-y-quemaduras-de-sol.png](/fogata-recursos/imagenes/actividades/ozono-y-quemaduras-de-sol.png)
+![ozono-y-quemaduras-de-sol.png](/fogata-recursos/imagenes/actividades/ozono-y-quemaduras-de-sol.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9030,7 +9030,7 @@
 - **Nombre del archivo:** `ozono-y-quemaduras-de-sol.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ozono-y-quemaduras-de-sol.png`
+- **Ruta completa:** `imagenes/actividades/ozono-y-quemaduras-de-sol.jpg`
 - **Tipo:** png
 
 </details>
@@ -9043,7 +9043,7 @@
 
 ### paisaje-local.png
 
-![paisaje-local.png](/fogata-recursos/imagenes/actividades/paisaje-local.png)
+![paisaje-local.png](/fogata-recursos/imagenes/actividades/paisaje-local.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9051,7 +9051,7 @@
 - **Nombre del archivo:** `paisaje-local.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/paisaje-local.png`
+- **Ruta completa:** `imagenes/actividades/paisaje-local.jpg`
 - **Tipo:** png
 
 </details>
@@ -9064,7 +9064,7 @@
 
 ### pan-con-burbujas.png
 
-![pan-con-burbujas.png](/fogata-recursos/imagenes/actividades/pan-con-burbujas.png)
+![pan-con-burbujas.png](/fogata-recursos/imagenes/actividades/pan-con-burbujas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9072,7 +9072,7 @@
 - **Nombre del archivo:** `pan-con-burbujas.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/pan-con-burbujas.png`
+- **Ruta completa:** `imagenes/actividades/pan-con-burbujas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9085,7 +9085,7 @@
 
 ### pasa-la-voz.png
 
-![pasa-la-voz.png](/fogata-recursos/imagenes/actividades/pasa-la-voz.png)
+![pasa-la-voz.png](/fogata-recursos/imagenes/actividades/pasa-la-voz.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9093,7 +9093,7 @@
 - **Nombre del archivo:** `pasa-la-voz.png`
 - **Tamaño:** 102K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/pasa-la-voz.png`
+- **Ruta completa:** `imagenes/actividades/pasa-la-voz.jpg`
 - **Tipo:** png
 
 </details>
@@ -9106,7 +9106,7 @@
 
 ### pasteles-de-lodo.png
 
-![pasteles-de-lodo.png](/fogata-recursos/imagenes/actividades/pasteles-de-lodo.png)
+![pasteles-de-lodo.png](/fogata-recursos/imagenes/actividades/pasteles-de-lodo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9114,7 +9114,7 @@
 - **Nombre del archivo:** `pasteles-de-lodo.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/pasteles-de-lodo.png`
+- **Ruta completa:** `imagenes/actividades/pasteles-de-lodo.jpg`
 - **Tipo:** png
 
 </details>
@@ -9127,7 +9127,7 @@
 
 ### patitas-limpias.png
 
-![patitas-limpias.png](/fogata-recursos/imagenes/actividades/patitas-limpias.png)
+![patitas-limpias.png](/fogata-recursos/imagenes/actividades/patitas-limpias.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9135,7 +9135,7 @@
 - **Nombre del archivo:** `patitas-limpias.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias.jpg`
 - **Tipo:** png
 
 </details>
@@ -9148,7 +9148,7 @@
 
 ### patitas-limpias_1.png
 
-![patitas-limpias_1.png](/fogata-recursos/imagenes/actividades/patitas-limpias_1.png)
+![patitas-limpias_1.png](/fogata-recursos/imagenes/actividades/patitas-limpias_1.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9156,7 +9156,7 @@
 - **Nombre del archivo:** `patitas-limpias_1.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_1.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_1.jpg`
 - **Tipo:** png
 
 </details>
@@ -9169,7 +9169,7 @@
 
 ### patitas-limpias_2.png
 
-![patitas-limpias_2.png](/fogata-recursos/imagenes/actividades/patitas-limpias_2.png)
+![patitas-limpias_2.png](/fogata-recursos/imagenes/actividades/patitas-limpias_2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9177,7 +9177,7 @@
 - **Nombre del archivo:** `patitas-limpias_2.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_2.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_2.jpg`
 - **Tipo:** png
 
 </details>
@@ -9190,7 +9190,7 @@
 
 ### patitas-limpias_3.png
 
-![patitas-limpias_3.png](/fogata-recursos/imagenes/actividades/patitas-limpias_3.png)
+![patitas-limpias_3.png](/fogata-recursos/imagenes/actividades/patitas-limpias_3.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9198,7 +9198,7 @@
 - **Nombre del archivo:** `patitas-limpias_3.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_3.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_3.jpg`
 - **Tipo:** png
 
 </details>
@@ -9211,7 +9211,7 @@
 
 ### patitas-limpias_4.png
 
-![patitas-limpias_4.png](/fogata-recursos/imagenes/actividades/patitas-limpias_4.png)
+![patitas-limpias_4.png](/fogata-recursos/imagenes/actividades/patitas-limpias_4.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9219,7 +9219,7 @@
 - **Nombre del archivo:** `patitas-limpias_4.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_4.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_4.jpg`
 - **Tipo:** png
 
 </details>
@@ -9232,7 +9232,7 @@
 
 ### patitas-limpias_5.png
 
-![patitas-limpias_5.png](/fogata-recursos/imagenes/actividades/patitas-limpias_5.png)
+![patitas-limpias_5.png](/fogata-recursos/imagenes/actividades/patitas-limpias_5.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9240,7 +9240,7 @@
 - **Nombre del archivo:** `patitas-limpias_5.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_5.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_5.jpg`
 - **Tipo:** png
 
 </details>
@@ -9253,7 +9253,7 @@
 
 ### patitas-limpias_6.png
 
-![patitas-limpias_6.png](/fogata-recursos/imagenes/actividades/patitas-limpias_6.png)
+![patitas-limpias_6.png](/fogata-recursos/imagenes/actividades/patitas-limpias_6.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9261,7 +9261,7 @@
 - **Nombre del archivo:** `patitas-limpias_6.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_6.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_6.jpg`
 - **Tipo:** png
 
 </details>
@@ -9274,7 +9274,7 @@
 
 ### patitas-limpias_7.png
 
-![patitas-limpias_7.png](/fogata-recursos/imagenes/actividades/patitas-limpias_7.png)
+![patitas-limpias_7.png](/fogata-recursos/imagenes/actividades/patitas-limpias_7.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9282,7 +9282,7 @@
 - **Nombre del archivo:** `patitas-limpias_7.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_7.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_7.jpg`
 - **Tipo:** png
 
 </details>
@@ -9295,7 +9295,7 @@
 
 ### patitas-limpias_8.png
 
-![patitas-limpias_8.png](/fogata-recursos/imagenes/actividades/patitas-limpias_8.png)
+![patitas-limpias_8.png](/fogata-recursos/imagenes/actividades/patitas-limpias_8.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9303,7 +9303,7 @@
 - **Nombre del archivo:** `patitas-limpias_8.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_8.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_8.jpg`
 - **Tipo:** png
 
 </details>
@@ -9316,7 +9316,7 @@
 
 ### patitas-limpias_9.png
 
-![patitas-limpias_9.png](/fogata-recursos/imagenes/actividades/patitas-limpias_9.png)
+![patitas-limpias_9.png](/fogata-recursos/imagenes/actividades/patitas-limpias_9.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9324,7 +9324,7 @@
 - **Nombre del archivo:** `patitas-limpias_9.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patitas-limpias_9.png`
+- **Ruta completa:** `imagenes/actividades/patitas-limpias_9.jpg`
 - **Tipo:** png
 
 </details>
@@ -9337,7 +9337,7 @@
 
 ### patrones-de-corteza.png
 
-![patrones-de-corteza.png](/fogata-recursos/imagenes/actividades/patrones-de-corteza.png)
+![patrones-de-corteza.png](/fogata-recursos/imagenes/actividades/patrones-de-corteza.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9345,7 +9345,7 @@
 - **Nombre del archivo:** `patrones-de-corteza.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patrones-de-corteza.png`
+- **Ruta completa:** `imagenes/actividades/patrones-de-corteza.jpg`
 - **Tipo:** png
 
 </details>
@@ -9358,7 +9358,7 @@
 
 ### patrulla-del-parque.png
 
-![patrulla-del-parque.png](/fogata-recursos/imagenes/actividades/patrulla-del-parque.png)
+![patrulla-del-parque.png](/fogata-recursos/imagenes/actividades/patrulla-del-parque.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9366,7 +9366,7 @@
 - **Nombre del archivo:** `patrulla-del-parque.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/patrulla-del-parque.png`
+- **Ruta completa:** `imagenes/actividades/patrulla-del-parque.jpg`
 - **Tipo:** png
 
 </details>
@@ -9379,7 +9379,7 @@
 
 ### pensar-en-voz-alta.png
 
-![pensar-en-voz-alta.png](/fogata-recursos/imagenes/actividades/pensar-en-voz-alta.png)
+![pensar-en-voz-alta.png](/fogata-recursos/imagenes/actividades/pensar-en-voz-alta.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9387,7 +9387,7 @@
 - **Nombre del archivo:** `pensar-en-voz-alta.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/pensar-en-voz-alta.png`
+- **Ruta completa:** `imagenes/actividades/pensar-en-voz-alta.jpg`
 - **Tipo:** png
 
 </details>
@@ -9400,7 +9400,7 @@
 
 ### perdidas-y-ganancias-del-cultivo.png
 
-![perdidas-y-ganancias-del-cultivo.png](/fogata-recursos/imagenes/actividades/perdidas-y-ganancias-del-cultivo.png)
+![perdidas-y-ganancias-del-cultivo.png](/fogata-recursos/imagenes/actividades/perdidas-y-ganancias-del-cultivo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9408,7 +9408,7 @@
 - **Nombre del archivo:** `perdidas-y-ganancias-del-cultivo.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/perdidas-y-ganancias-del-cultivo.png`
+- **Ruta completa:** `imagenes/actividades/perdidas-y-ganancias-del-cultivo.jpg`
 - **Tipo:** png
 
 </details>
@@ -9421,7 +9421,7 @@
 
 ### perdiendo-biodiversidad.png
 
-![perdiendo-biodiversidad.png](/fogata-recursos/imagenes/actividades/perdiendo-biodiversidad.png)
+![perdiendo-biodiversidad.png](/fogata-recursos/imagenes/actividades/perdiendo-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9429,7 +9429,7 @@
 - **Nombre del archivo:** `perdiendo-biodiversidad.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/perdiendo-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/perdiendo-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -9442,7 +9442,7 @@
 
 ### petalos-y-polinizadores.png
 
-![petalos-y-polinizadores.png](/fogata-recursos/imagenes/actividades/petalos-y-polinizadores.png)
+![petalos-y-polinizadores.png](/fogata-recursos/imagenes/actividades/petalos-y-polinizadores.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9450,7 +9450,7 @@
 - **Nombre del archivo:** `petalos-y-polinizadores.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/petalos-y-polinizadores.png`
+- **Ruta completa:** `imagenes/actividades/petalos-y-polinizadores.jpg`
 - **Tipo:** png
 
 </details>
@@ -9463,7 +9463,7 @@
 
 ### pintando-el-panorama.png
 
-![pintando-el-panorama.png](/fogata-recursos/imagenes/actividades/pintando-el-panorama.png)
+![pintando-el-panorama.png](/fogata-recursos/imagenes/actividades/pintando-el-panorama.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9471,7 +9471,7 @@
 - **Nombre del archivo:** `pintando-el-panorama.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/pintando-el-panorama.png`
+- **Ruta completa:** `imagenes/actividades/pintando-el-panorama.jpg`
 - **Tipo:** png
 
 </details>
@@ -9484,7 +9484,7 @@
 
 ### piramide-de-alimentos.png
 
-![piramide-de-alimentos.png](/fogata-recursos/imagenes/actividades/piramide-de-alimentos.png)
+![piramide-de-alimentos.png](/fogata-recursos/imagenes/actividades/piramide-de-alimentos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9492,7 +9492,7 @@
 - **Nombre del archivo:** `piramide-de-alimentos.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/piramide-de-alimentos.png`
+- **Ruta completa:** `imagenes/actividades/piramide-de-alimentos.jpg`
 - **Tipo:** png
 
 </details>
@@ -9505,7 +9505,7 @@
 
 ### planifica-tu-proximo-paso.png
 
-![planifica-tu-proximo-paso.png](/fogata-recursos/imagenes/actividades/planifica-tu-proximo-paso.png)
+![planifica-tu-proximo-paso.png](/fogata-recursos/imagenes/actividades/planifica-tu-proximo-paso.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9513,7 +9513,7 @@
 - **Nombre del archivo:** `planifica-tu-proximo-paso.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/planifica-tu-proximo-paso.png`
+- **Ruta completa:** `imagenes/actividades/planifica-tu-proximo-paso.jpg`
 - **Tipo:** png
 
 </details>
@@ -9526,7 +9526,7 @@
 
 ### planificar-un-viaje-turistico-sostenible.png
 
-![planificar-un-viaje-turistico-sostenible.png](/fogata-recursos/imagenes/actividades/planificar-un-viaje-turistico-sostenible.png)
+![planificar-un-viaje-turistico-sostenible.png](/fogata-recursos/imagenes/actividades/planificar-un-viaje-turistico-sostenible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9534,7 +9534,7 @@
 - **Nombre del archivo:** `planificar-un-viaje-turistico-sostenible.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/planificar-un-viaje-turistico-sostenible.png`
+- **Ruta completa:** `imagenes/actividades/planificar-un-viaje-turistico-sostenible.jpg`
 - **Tipo:** png
 
 </details>
@@ -9547,7 +9547,7 @@
 
 ### planta-de-agua-potable.png
 
-![planta-de-agua-potable.png](/fogata-recursos/imagenes/actividades/planta-de-agua-potable.png)
+![planta-de-agua-potable.png](/fogata-recursos/imagenes/actividades/planta-de-agua-potable.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9555,7 +9555,7 @@
 - **Nombre del archivo:** `planta-de-agua-potable.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/planta-de-agua-potable.png`
+- **Ruta completa:** `imagenes/actividades/planta-de-agua-potable.jpg`
 - **Tipo:** png
 
 </details>
@@ -9568,7 +9568,7 @@
 
 ### plantar-arboles.png
 
-![plantar-arboles.png](/fogata-recursos/imagenes/actividades/plantar-arboles.png)
+![plantar-arboles.png](/fogata-recursos/imagenes/actividades/plantar-arboles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9576,7 +9576,7 @@
 - **Nombre del archivo:** `plantar-arboles.png`
 - **Tamaño:** 352K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/plantar-arboles.png`
+- **Ruta completa:** `imagenes/actividades/plantar-arboles.jpg`
 - **Tipo:** png
 
 </details>
@@ -9589,7 +9589,7 @@
 
 ### plantar-hierbas-y-vegetales-locales.png
 
-![plantar-hierbas-y-vegetales-locales.png](/fogata-recursos/imagenes/actividades/plantar-hierbas-y-vegetales-locales.png)
+![plantar-hierbas-y-vegetales-locales.png](/fogata-recursos/imagenes/actividades/plantar-hierbas-y-vegetales-locales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9597,7 +9597,7 @@
 - **Nombre del archivo:** `plantar-hierbas-y-vegetales-locales.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/plantar-hierbas-y-vegetales-locales.png`
+- **Ruta completa:** `imagenes/actividades/plantar-hierbas-y-vegetales-locales.jpg`
 - **Tipo:** png
 
 </details>
@@ -9610,7 +9610,7 @@
 
 ### plantas-de-poder.png
 
-![plantas-de-poder.png](/fogata-recursos/imagenes/actividades/plantas-de-poder.png)
+![plantas-de-poder.png](/fogata-recursos/imagenes/actividades/plantas-de-poder.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9618,7 +9618,7 @@
 - **Nombre del archivo:** `plantas-de-poder.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/plantas-de-poder.png`
+- **Ruta completa:** `imagenes/actividades/plantas-de-poder.jpg`
 - **Tipo:** png
 
 </details>
@@ -9631,7 +9631,7 @@
 
 ### plantas-medicinales.png
 
-![plantas-medicinales.png](/fogata-recursos/imagenes/actividades/plantas-medicinales.png)
+![plantas-medicinales.png](/fogata-recursos/imagenes/actividades/plantas-medicinales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9639,7 +9639,7 @@
 - **Nombre del archivo:** `plantas-medicinales.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/plantas-medicinales.png`
+- **Ruta completa:** `imagenes/actividades/plantas-medicinales.jpg`
 - **Tipo:** png
 
 </details>
@@ -9652,7 +9652,7 @@
 
 ### plantulas.png
 
-![plantulas.png](/fogata-recursos/imagenes/actividades/plantulas.png)
+![plantulas.png](/fogata-recursos/imagenes/actividades/plantulas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9660,7 +9660,7 @@
 - **Nombre del archivo:** `plantulas.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/plantulas.png`
+- **Ruta completa:** `imagenes/actividades/plantulas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9673,7 +9673,7 @@
 
 ### podcasts-de-biodiversidad.png
 
-![podcasts-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/podcasts-de-biodiversidad.png)
+![podcasts-de-biodiversidad.png](/fogata-recursos/imagenes/actividades/podcasts-de-biodiversidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9681,7 +9681,7 @@
 - **Nombre del archivo:** `podcasts-de-biodiversidad.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/podcasts-de-biodiversidad.png`
+- **Ruta completa:** `imagenes/actividades/podcasts-de-biodiversidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -9694,7 +9694,7 @@
 
 ### polinizadores-y-contaminacion.png
 
-![polinizadores-y-contaminacion.png](/fogata-recursos/imagenes/actividades/polinizadores-y-contaminacion.png)
+![polinizadores-y-contaminacion.png](/fogata-recursos/imagenes/actividades/polinizadores-y-contaminacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9702,7 +9702,7 @@
 - **Nombre del archivo:** `polinizadores-y-contaminacion.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/polinizadores-y-contaminacion.png`
+- **Ruta completa:** `imagenes/actividades/polinizadores-y-contaminacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -9715,7 +9715,7 @@
 
 ### polinizadores-y-la-economia.png
 
-![polinizadores-y-la-economia.png](/fogata-recursos/imagenes/actividades/polinizadores-y-la-economia.png)
+![polinizadores-y-la-economia.png](/fogata-recursos/imagenes/actividades/polinizadores-y-la-economia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9723,7 +9723,7 @@
 - **Nombre del archivo:** `polinizadores-y-la-economia.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/polinizadores-y-la-economia.png`
+- **Ruta completa:** `imagenes/actividades/polinizadores-y-la-economia.jpg`
 - **Tipo:** png
 
 </details>
@@ -9736,7 +9736,7 @@
 
 ### politica-energetica.png
 
-![politica-energetica.png](/fogata-recursos/imagenes/actividades/politica-energetica.png)
+![politica-energetica.png](/fogata-recursos/imagenes/actividades/politica-energetica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9744,7 +9744,7 @@
 - **Nombre del archivo:** `politica-energetica.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/politica-energetica.png`
+- **Ruta completa:** `imagenes/actividades/politica-energetica.jpg`
 - **Tipo:** png
 
 </details>
@@ -9757,7 +9757,7 @@
 
 ### preguntas-respuestas.png
 
-![preguntas-respuestas.png](/fogata-recursos/imagenes/actividades/preguntas-respuestas.png)
+![preguntas-respuestas.png](/fogata-recursos/imagenes/actividades/preguntas-respuestas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9765,7 +9765,7 @@
 - **Nombre del archivo:** `preguntas-respuestas.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/preguntas-respuestas.png`
+- **Ruta completa:** `imagenes/actividades/preguntas-respuestas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9778,7 +9778,7 @@
 
 ### presentando-a-los-combustibles-fosiles.png
 
-![presentando-a-los-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-a-los-combustibles-fosiles.png)
+![presentando-a-los-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-a-los-combustibles-fosiles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9786,7 +9786,7 @@
 - **Nombre del archivo:** `presentando-a-los-combustibles-fosiles.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/presentando-a-los-combustibles-fosiles.png`
+- **Ruta completa:** `imagenes/actividades/presentando-a-los-combustibles-fosiles.jpg`
 - **Tipo:** png
 
 </details>
@@ -9799,7 +9799,7 @@
 
 ### presentando-combustibles-fosiles.png
 
-![presentando-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-combustibles-fosiles.png)
+![presentando-combustibles-fosiles.png](/fogata-recursos/imagenes/actividades/presentando-combustibles-fosiles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9807,7 +9807,7 @@
 - **Nombre del archivo:** `presentando-combustibles-fosiles.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/presentando-combustibles-fosiles.png`
+- **Ruta completa:** `imagenes/actividades/presentando-combustibles-fosiles.jpg`
 - **Tipo:** png
 
 </details>
@@ -9820,7 +9820,7 @@
 
 ### presentar-una-exposicion-sobre-vida-sostenible.png
 
-![presentar-una-exposicion-sobre-vida-sostenible.png](/fogata-recursos/imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.png)
+![presentar-una-exposicion-sobre-vida-sostenible.png](/fogata-recursos/imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9828,7 +9828,7 @@
 - **Nombre del archivo:** `presentar-una-exposicion-sobre-vida-sostenible.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.png`
+- **Ruta completa:** `imagenes/actividades/presentar-una-exposicion-sobre-vida-sostenible.jpg`
 - **Tipo:** png
 
 </details>
@@ -9841,7 +9841,7 @@
 
 ### presentar-una-obra-de-teatro-sobre-reciclaje.png
 
-![presentar-una-obra-de-teatro-sobre-reciclaje.png](/fogata-recursos/imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.png)
+![presentar-una-obra-de-teatro-sobre-reciclaje.png](/fogata-recursos/imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9849,7 +9849,7 @@
 - **Nombre del archivo:** `presentar-una-obra-de-teatro-sobre-reciclaje.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.png`
+- **Ruta completa:** `imagenes/actividades/presentar-una-obra-de-teatro-sobre-reciclaje.jpg`
 - **Tipo:** png
 
 </details>
@@ -9862,7 +9862,7 @@
 
 ### presiones-pintadas.png
 
-![presiones-pintadas.png](/fogata-recursos/imagenes/actividades/presiones-pintadas.png)
+![presiones-pintadas.png](/fogata-recursos/imagenes/actividades/presiones-pintadas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9870,7 +9870,7 @@
 - **Nombre del archivo:** `presiones-pintadas.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/presiones-pintadas.png`
+- **Ruta completa:** `imagenes/actividades/presiones-pintadas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9883,7 +9883,7 @@
 
 ### productos-de-las-abejas.png
 
-![productos-de-las-abejas.png](/fogata-recursos/imagenes/actividades/productos-de-las-abejas.png)
+![productos-de-las-abejas.png](/fogata-recursos/imagenes/actividades/productos-de-las-abejas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9891,7 +9891,7 @@
 - **Nombre del archivo:** `productos-de-las-abejas.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/productos-de-las-abejas.png`
+- **Ruta completa:** `imagenes/actividades/productos-de-las-abejas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9904,7 +9904,7 @@
 
 ### promover-la-energia-renovable.png
 
-![promover-la-energia-renovable.png](/fogata-recursos/imagenes/actividades/promover-la-energia-renovable.png)
+![promover-la-energia-renovable.png](/fogata-recursos/imagenes/actividades/promover-la-energia-renovable.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9912,7 +9912,7 @@
 - **Nombre del archivo:** `promover-la-energia-renovable.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/promover-la-energia-renovable.png`
+- **Ruta completa:** `imagenes/actividades/promover-la-energia-renovable.jpg`
 - **Tipo:** png
 
 </details>
@@ -9925,7 +9925,7 @@
 
 ### promover-rutas-seguras-para-bicicletas.png
 
-![promover-rutas-seguras-para-bicicletas.png](/fogata-recursos/imagenes/actividades/promover-rutas-seguras-para-bicicletas.png)
+![promover-rutas-seguras-para-bicicletas.png](/fogata-recursos/imagenes/actividades/promover-rutas-seguras-para-bicicletas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9933,7 +9933,7 @@
 - **Nombre del archivo:** `promover-rutas-seguras-para-bicicletas.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/promover-rutas-seguras-para-bicicletas.png`
+- **Ruta completa:** `imagenes/actividades/promover-rutas-seguras-para-bicicletas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9946,7 +9946,7 @@
 
 ### proteccion-contra-la-contaminacion.png
 
-![proteccion-contra-la-contaminacion.png](/fogata-recursos/imagenes/actividades/proteccion-contra-la-contaminacion.png)
+![proteccion-contra-la-contaminacion.png](/fogata-recursos/imagenes/actividades/proteccion-contra-la-contaminacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9954,7 +9954,7 @@
 - **Nombre del archivo:** `proteccion-contra-la-contaminacion.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/proteccion-contra-la-contaminacion.png`
+- **Ruta completa:** `imagenes/actividades/proteccion-contra-la-contaminacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -9967,7 +9967,7 @@
 
 ### proteger-los-bosques-evitar-propagandas.png
 
-![proteger-los-bosques-evitar-propagandas.png](/fogata-recursos/imagenes/actividades/proteger-los-bosques-evitar-propagandas.png)
+![proteger-los-bosques-evitar-propagandas.png](/fogata-recursos/imagenes/actividades/proteger-los-bosques-evitar-propagandas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9975,7 +9975,7 @@
 - **Nombre del archivo:** `proteger-los-bosques-evitar-propagandas.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/proteger-los-bosques-evitar-propagandas.png`
+- **Ruta completa:** `imagenes/actividades/proteger-los-bosques-evitar-propagandas.jpg`
 - **Tipo:** png
 
 </details>
@@ -9988,7 +9988,7 @@
 
 ### proyecto-cientifico-worldbirds.png
 
-![proyecto-cientifico-worldbirds.png](/fogata-recursos/imagenes/actividades/proyecto-cientifico-worldbirds.png)
+![proyecto-cientifico-worldbirds.png](/fogata-recursos/imagenes/actividades/proyecto-cientifico-worldbirds.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -9996,7 +9996,7 @@
 - **Nombre del archivo:** `proyecto-cientifico-worldbirds.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/proyecto-cientifico-worldbirds.png`
+- **Ruta completa:** `imagenes/actividades/proyecto-cientifico-worldbirds.jpg`
 - **Tipo:** png
 
 </details>
@@ -10009,7 +10009,7 @@
 
 ### proyecto-comunitario-sobre-el-agua.png
 
-![proyecto-comunitario-sobre-el-agua.png](/fogata-recursos/imagenes/actividades/proyecto-comunitario-sobre-el-agua.png)
+![proyecto-comunitario-sobre-el-agua.png](/fogata-recursos/imagenes/actividades/proyecto-comunitario-sobre-el-agua.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -10017,7 +10017,7 @@
 - **Nombre del archivo:** `proyecto-comunitario-sobre-el-agua.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/proyecto-comunitario-sobre-el-agua.png`
+- **Ruta completa:** `imagenes/actividades/proyecto-comunitario-sobre-el-agua.jpg`
 - **Tipo:** png
 
 </details>
@@ -11017,7 +11017,7 @@
 
 ### ptt.png
 
-![ptt.png](/fogata-recursos/imagenes/actividades/ptt.png)
+![ptt.png](/fogata-recursos/imagenes/actividades/ptt.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -11025,7 +11025,7 @@
 - **Nombre del archivo:** `ptt.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ptt.png`
+- **Ruta completa:** `imagenes/actividades/ptt.jpg`
 - **Tipo:** png
 
 </details>
@@ -11038,7 +11038,7 @@
 
 ### ptt_1.png
 
-![ptt_1.png](/fogata-recursos/imagenes/actividades/ptt_1.png)
+![ptt_1.png](/fogata-recursos/imagenes/actividades/ptt_1.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -11046,7 +11046,7 @@
 - **Nombre del archivo:** `ptt_1.png`
 - **Tamaño:** 102K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ptt_1.png`
+- **Ruta completa:** `imagenes/actividades/ptt_1.jpg`
 - **Tipo:** png
 
 </details>
@@ -22357,7 +22357,7 @@
 
 ### que-esta-en-riesgo.png
 
-![que-esta-en-riesgo.png](/fogata-recursos/imagenes/actividades/que-esta-en-riesgo.png)
+![que-esta-en-riesgo.png](/fogata-recursos/imagenes/actividades/que-esta-en-riesgo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22365,7 +22365,7 @@
 - **Nombre del archivo:** `que-esta-en-riesgo.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/que-esta-en-riesgo.png`
+- **Ruta completa:** `imagenes/actividades/que-esta-en-riesgo.jpg`
 - **Tipo:** png
 
 </details>
@@ -22378,7 +22378,7 @@
 
 ### que-gas.png
 
-![que-gas.png](/fogata-recursos/imagenes/actividades/que-gas.png)
+![que-gas.png](/fogata-recursos/imagenes/actividades/que-gas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22386,7 +22386,7 @@
 - **Nombre del archivo:** `que-gas.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/que-gas.png`
+- **Ruta completa:** `imagenes/actividades/que-gas.jpg`
 - **Tipo:** png
 
 </details>
@@ -22399,7 +22399,7 @@
 
 ### que-tan-sediento-esta-tu-pais.png
 
-![que-tan-sediento-esta-tu-pais.png](/fogata-recursos/imagenes/actividades/que-tan-sediento-esta-tu-pais.png)
+![que-tan-sediento-esta-tu-pais.png](/fogata-recursos/imagenes/actividades/que-tan-sediento-esta-tu-pais.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22407,7 +22407,7 @@
 - **Nombre del archivo:** `que-tan-sediento-esta-tu-pais.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/que-tan-sediento-esta-tu-pais.png`
+- **Ruta completa:** `imagenes/actividades/que-tan-sediento-esta-tu-pais.jpg`
 - **Tipo:** png
 
 </details>
@@ -22420,7 +22420,7 @@
 
 ### quien-es-un-polinizador.png
 
-![quien-es-un-polinizador.png](/fogata-recursos/imagenes/actividades/quien-es-un-polinizador.png)
+![quien-es-un-polinizador.png](/fogata-recursos/imagenes/actividades/quien-es-un-polinizador.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22428,7 +22428,7 @@
 - **Nombre del archivo:** `quien-es-un-polinizador.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/quien-es-un-polinizador.png`
+- **Ruta completa:** `imagenes/actividades/quien-es-un-polinizador.jpg`
 - **Tipo:** png
 
 </details>
@@ -22441,7 +22441,7 @@
 
 ### quien-se-come-a-quien.png
 
-![quien-se-come-a-quien.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien.png)
+![quien-se-come-a-quien.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22449,7 +22449,7 @@
 - **Nombre del archivo:** `quien-se-come-a-quien.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien.png`
+- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien.jpg`
 - **Tipo:** png
 
 </details>
@@ -22462,7 +22462,7 @@
 
 ### quien-se-come-a-quien2.png
 
-![quien-se-come-a-quien2.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien2.png)
+![quien-se-come-a-quien2.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22470,7 +22470,7 @@
 - **Nombre del archivo:** `quien-se-come-a-quien2.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien2.png`
+- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien2.jpg`
 - **Tipo:** png
 
 </details>
@@ -22483,7 +22483,7 @@
 
 ### quien-se-come-a-quien3.png
 
-![quien-se-come-a-quien3.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien3.png)
+![quien-se-come-a-quien3.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien3.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22491,7 +22491,7 @@
 - **Nombre del archivo:** `quien-se-come-a-quien3.png`
 - **Tamaño:** 230K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien3.png`
+- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien3.jpg`
 - **Tipo:** png
 
 </details>
@@ -22504,7 +22504,7 @@
 
 ### quien-se-come-a-quien4.png
 
-![quien-se-come-a-quien4.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien4.png)
+![quien-se-come-a-quien4.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien4.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22512,7 +22512,7 @@
 - **Nombre del archivo:** `quien-se-come-a-quien4.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien4.png`
+- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien4.jpg`
 - **Tipo:** png
 
 </details>
@@ -22525,7 +22525,7 @@
 
 ### quien-se-come-a-quien5.png
 
-![quien-se-come-a-quien5.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien5.png)
+![quien-se-come-a-quien5.png](/fogata-recursos/imagenes/actividades/quien-se-come-a-quien5.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22533,7 +22533,7 @@
 - **Nombre del archivo:** `quien-se-come-a-quien5.png`
 - **Tamaño:** 203K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien5.png`
+- **Ruta completa:** `imagenes/actividades/quien-se-come-a-quien5.jpg`
 - **Tipo:** png
 
 </details>
@@ -22546,7 +22546,7 @@
 
 ### rastreadores-de-senderos.png
 
-![rastreadores-de-senderos.png](/fogata-recursos/imagenes/actividades/rastreadores-de-senderos.png)
+![rastreadores-de-senderos.png](/fogata-recursos/imagenes/actividades/rastreadores-de-senderos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22554,7 +22554,7 @@
 - **Nombre del archivo:** `rastreadores-de-senderos.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/rastreadores-de-senderos.png`
+- **Ruta completa:** `imagenes/actividades/rastreadores-de-senderos.jpg`
 - **Tipo:** png
 
 </details>
@@ -22567,7 +22567,7 @@
 
 ### rastreo-de-fauna.png
 
-![rastreo-de-fauna.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna.png)
+![rastreo-de-fauna.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22575,7 +22575,7 @@
 - **Nombre del archivo:** `rastreo-de-fauna.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/rastreo-de-fauna.png`
+- **Ruta completa:** `imagenes/actividades/rastreo-de-fauna.jpg`
 - **Tipo:** png
 
 </details>
@@ -22588,7 +22588,7 @@
 
 ### rastreo-de-fauna2.png
 
-![rastreo-de-fauna2.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna2.png)
+![rastreo-de-fauna2.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna2.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22596,7 +22596,7 @@
 - **Nombre del archivo:** `rastreo-de-fauna2.png`
 - **Tamaño:** 363K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/rastreo-de-fauna2.png`
+- **Ruta completa:** `imagenes/actividades/rastreo-de-fauna2.jpg`
 - **Tipo:** png
 
 </details>
@@ -22609,7 +22609,7 @@
 
 ### rastreo-de-fauna3.png
 
-![rastreo-de-fauna3.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna3.png)
+![rastreo-de-fauna3.png](/fogata-recursos/imagenes/actividades/rastreo-de-fauna3.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22617,7 +22617,7 @@
 - **Nombre del archivo:** `rastreo-de-fauna3.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/rastreo-de-fauna3.png`
+- **Ruta completa:** `imagenes/actividades/rastreo-de-fauna3.jpg`
 - **Tipo:** png
 
 </details>
@@ -22630,7 +22630,7 @@
 
 ### rayos-de-sol-movil.png
 
-![rayos-de-sol-movil.png](/fogata-recursos/imagenes/actividades/rayos-de-sol-movil.png)
+![rayos-de-sol-movil.png](/fogata-recursos/imagenes/actividades/rayos-de-sol-movil.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22638,7 +22638,7 @@
 - **Nombre del archivo:** `rayos-de-sol-movil.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/rayos-de-sol-movil.png`
+- **Ruta completa:** `imagenes/actividades/rayos-de-sol-movil.jpg`
 - **Tipo:** png
 
 </details>
@@ -22651,7 +22651,7 @@
 
 ### recaudacion-de-fondos.png
 
-![recaudacion-de-fondos.png](/fogata-recursos/imagenes/actividades/recaudacion-de-fondos.png)
+![recaudacion-de-fondos.png](/fogata-recursos/imagenes/actividades/recaudacion-de-fondos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22659,7 +22659,7 @@
 - **Nombre del archivo:** `recaudacion-de-fondos.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/recaudacion-de-fondos.png`
+- **Ruta completa:** `imagenes/actividades/recaudacion-de-fondos.jpg`
 - **Tipo:** png
 
 </details>
@@ -22672,7 +22672,7 @@
 
 ### reciclaje-de-aguas-grises.png
 
-![reciclaje-de-aguas-grises.png](/fogata-recursos/imagenes/actividades/reciclaje-de-aguas-grises.png)
+![reciclaje-de-aguas-grises.png](/fogata-recursos/imagenes/actividades/reciclaje-de-aguas-grises.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22680,7 +22680,7 @@
 - **Nombre del archivo:** `reciclaje-de-aguas-grises.png`
 - **Tamaño:** 97K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reciclaje-de-aguas-grises.png`
+- **Ruta completa:** `imagenes/actividades/reciclaje-de-aguas-grises.jpg`
 - **Tipo:** png
 
 </details>
@@ -22693,7 +22693,7 @@
 
 ### reciclar-agua-y-recolectar-agua-de-lluvia.png
 
-![reciclar-agua-y-recolectar-agua-de-lluvia.png](/fogata-recursos/imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.png)
+![reciclar-agua-y-recolectar-agua-de-lluvia.png](/fogata-recursos/imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22701,7 +22701,7 @@
 - **Nombre del archivo:** `reciclar-agua-y-recolectar-agua-de-lluvia.png`
 - **Tamaño:** 241K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.png`
+- **Ruta completa:** `imagenes/actividades/reciclar-agua-y-recolectar-agua-de-lluvia.jpg`
 - **Tipo:** png
 
 </details>
@@ -22714,7 +22714,7 @@
 
 ### reciclar-materiales-peligrosos.png
 
-![reciclar-materiales-peligrosos.png](/fogata-recursos/imagenes/actividades/reciclar-materiales-peligrosos.png)
+![reciclar-materiales-peligrosos.png](/fogata-recursos/imagenes/actividades/reciclar-materiales-peligrosos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22722,7 +22722,7 @@
 - **Nombre del archivo:** `reciclar-materiales-peligrosos.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reciclar-materiales-peligrosos.png`
+- **Ruta completa:** `imagenes/actividades/reciclar-materiales-peligrosos.jpg`
 - **Tipo:** png
 
 </details>
@@ -22735,7 +22735,7 @@
 
 ### reciclar-y-reducir.png
 
-![reciclar-y-reducir.png](/fogata-recursos/imagenes/actividades/reciclar-y-reducir.png)
+![reciclar-y-reducir.png](/fogata-recursos/imagenes/actividades/reciclar-y-reducir.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22743,7 +22743,7 @@
 - **Nombre del archivo:** `reciclar-y-reducir.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reciclar-y-reducir.png`
+- **Ruta completa:** `imagenes/actividades/reciclar-y-reducir.jpg`
 - **Tipo:** png
 
 </details>
@@ -22756,7 +22756,7 @@
 
 ### recolectando-datos.png
 
-![recolectando-datos.png](/fogata-recursos/imagenes/actividades/recolectando-datos.png)
+![recolectando-datos.png](/fogata-recursos/imagenes/actividades/recolectando-datos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22764,7 +22764,7 @@
 - **Nombre del archivo:** `recolectando-datos.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/recolectando-datos.png`
+- **Ruta completa:** `imagenes/actividades/recolectando-datos.jpg`
 - **Tipo:** png
 
 </details>
@@ -22777,7 +22777,7 @@
 
 ### recopilar-informacion-sobre-desastres-climaticos.png
 
-![recopilar-informacion-sobre-desastres-climaticos.png](/fogata-recursos/imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.png)
+![recopilar-informacion-sobre-desastres-climaticos.png](/fogata-recursos/imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22785,7 +22785,7 @@
 - **Nombre del archivo:** `recopilar-informacion-sobre-desastres-climaticos.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.png`
+- **Ruta completa:** `imagenes/actividades/recopilar-informacion-sobre-desastres-climaticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -22798,7 +22798,7 @@
 
 ### redd.png
 
-![redd.png](/fogata-recursos/imagenes/actividades/redd.png)
+![redd.png](/fogata-recursos/imagenes/actividades/redd.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22806,7 +22806,7 @@
 - **Nombre del archivo:** `redd.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/redd.png`
+- **Ruta completa:** `imagenes/actividades/redd.jpg`
 - **Tipo:** png
 
 </details>
@@ -22819,7 +22819,7 @@
 
 ### reduce-tu-huella-de-cambio-climatico.png
 
-![reduce-tu-huella-de-cambio-climatico.png](/fogata-recursos/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.png)
+![reduce-tu-huella-de-cambio-climatico.png](/fogata-recursos/imagenes/actividades/reduce-tu-huella-de-cambio-climatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22827,7 +22827,7 @@
 - **Nombre del archivo:** `reduce-tu-huella-de-cambio-climatico.png`
 - **Tamaño:** 209K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reduce-tu-huella-de-cambio-climatico.png`
+- **Ruta completa:** `imagenes/actividades/reduce-tu-huella-de-cambio-climatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -22840,7 +22840,7 @@
 
 ### reducir-el-consumo-de-productos-innecesarios.png
 
-![reducir-el-consumo-de-productos-innecesarios.png](/fogata-recursos/imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.png)
+![reducir-el-consumo-de-productos-innecesarios.png](/fogata-recursos/imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22848,7 +22848,7 @@
 - **Nombre del archivo:** `reducir-el-consumo-de-productos-innecesarios.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.png`
+- **Ruta completa:** `imagenes/actividades/reducir-el-consumo-de-productos-innecesarios.jpg`
 - **Tipo:** png
 
 </details>
@@ -22861,7 +22861,7 @@
 
 ### reducir-el-uso-de-papel-en-la-escuela.png
 
-![reducir-el-uso-de-papel-en-la-escuela.png](/fogata-recursos/imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.png)
+![reducir-el-uso-de-papel-en-la-escuela.png](/fogata-recursos/imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22869,7 +22869,7 @@
 - **Nombre del archivo:** `reducir-el-uso-de-papel-en-la-escuela.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.png`
+- **Ruta completa:** `imagenes/actividades/reducir-el-uso-de-papel-en-la-escuela.jpg`
 - **Tipo:** png
 
 </details>
@@ -22882,7 +22882,7 @@
 
 ### reducir-la-basura-en-casa.png
 
-![reducir-la-basura-en-casa.png](/fogata-recursos/imagenes/actividades/reducir-la-basura-en-casa.png)
+![reducir-la-basura-en-casa.png](/fogata-recursos/imagenes/actividades/reducir-la-basura-en-casa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22890,7 +22890,7 @@
 - **Nombre del archivo:** `reducir-la-basura-en-casa.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reducir-la-basura-en-casa.png`
+- **Ruta completa:** `imagenes/actividades/reducir-la-basura-en-casa.jpg`
 - **Tipo:** png
 
 </details>
@@ -22903,7 +22903,7 @@
 
 ### reducir-reusar-reciclar.png
 
-![reducir-reusar-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-reciclar.png)
+![reducir-reusar-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-reciclar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22911,7 +22911,7 @@
 - **Nombre del archivo:** `reducir-reusar-reciclar.png`
 - **Tamaño:** 177K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reducir-reusar-reciclar.png`
+- **Ruta completa:** `imagenes/actividades/reducir-reusar-reciclar.jpg`
 - **Tipo:** png
 
 </details>
@@ -22924,7 +22924,7 @@
 
 ### reducir-reusar-y-reciclar.png
 
-![reducir-reusar-y-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-y-reciclar.png)
+![reducir-reusar-y-reciclar.png](/fogata-recursos/imagenes/actividades/reducir-reusar-y-reciclar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22932,7 +22932,7 @@
 - **Nombre del archivo:** `reducir-reusar-y-reciclar.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reducir-reusar-y-reciclar.png`
+- **Ruta completa:** `imagenes/actividades/reducir-reusar-y-reciclar.jpg`
 - **Tipo:** png
 
 </details>
@@ -22945,7 +22945,7 @@
 
 ### reducir-tiempo-frente-a-pantallas.png
 
-![reducir-tiempo-frente-a-pantallas.png](/fogata-recursos/imagenes/actividades/reducir-tiempo-frente-a-pantallas.png)
+![reducir-tiempo-frente-a-pantallas.png](/fogata-recursos/imagenes/actividades/reducir-tiempo-frente-a-pantallas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22953,7 +22953,7 @@
 - **Nombre del archivo:** `reducir-tiempo-frente-a-pantallas.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reducir-tiempo-frente-a-pantallas.png`
+- **Ruta completa:** `imagenes/actividades/reducir-tiempo-frente-a-pantallas.jpg`
 - **Tipo:** png
 
 </details>
@@ -22966,7 +22966,7 @@
 
 ### reemplazar-bombillas-por-ahorradoras-de-energia.png
 
-![reemplazar-bombillas-por-ahorradoras-de-energia.png](/fogata-recursos/imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.png)
+![reemplazar-bombillas-por-ahorradoras-de-energia.png](/fogata-recursos/imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22974,7 +22974,7 @@
 - **Nombre del archivo:** `reemplazar-bombillas-por-ahorradoras-de-energia.png`
 - **Tamaño:** 97K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.png`
+- **Ruta completa:** `imagenes/actividades/reemplazar-bombillas-por-ahorradoras-de-energia.jpg`
 - **Tipo:** png
 
 </details>
@@ -22987,7 +22987,7 @@
 
 ### reemplazar-productos-innecesarios-en-la-cocina.png
 
-![reemplazar-productos-innecesarios-en-la-cocina.png](/fogata-recursos/imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.png)
+![reemplazar-productos-innecesarios-en-la-cocina.png](/fogata-recursos/imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -22995,7 +22995,7 @@
 - **Nombre del archivo:** `reemplazar-productos-innecesarios-en-la-cocina.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.png`
+- **Ruta completa:** `imagenes/actividades/reemplazar-productos-innecesarios-en-la-cocina.jpg`
 - **Tipo:** png
 
 </details>
@@ -23008,7 +23008,7 @@
 
 ### refugio-para-vida-silvestre.png
 
-![refugio-para-vida-silvestre.png](/fogata-recursos/imagenes/actividades/refugio-para-vida-silvestre.png)
+![refugio-para-vida-silvestre.png](/fogata-recursos/imagenes/actividades/refugio-para-vida-silvestre.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23016,7 +23016,7 @@
 - **Nombre del archivo:** `refugio-para-vida-silvestre.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/refugio-para-vida-silvestre.png`
+- **Ruta completa:** `imagenes/actividades/refugio-para-vida-silvestre.jpg`
 - **Tipo:** png
 
 </details>
@@ -23029,7 +23029,7 @@
 
 ### regular-el-uso-de-plasticos.png
 
-![regular-el-uso-de-plasticos.png](/fogata-recursos/imagenes/actividades/regular-el-uso-de-plasticos.png)
+![regular-el-uso-de-plasticos.png](/fogata-recursos/imagenes/actividades/regular-el-uso-de-plasticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23037,7 +23037,7 @@
 - **Nombre del archivo:** `regular-el-uso-de-plasticos.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/regular-el-uso-de-plasticos.png`
+- **Ruta completa:** `imagenes/actividades/regular-el-uso-de-plasticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -23050,7 +23050,7 @@
 
 ### relatos-de-viaje.png
 
-![relatos-de-viaje.png](/fogata-recursos/imagenes/actividades/relatos-de-viaje.png)
+![relatos-de-viaje.png](/fogata-recursos/imagenes/actividades/relatos-de-viaje.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23058,7 +23058,7 @@
 - **Nombre del archivo:** `relatos-de-viaje.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/relatos-de-viaje.png`
+- **Ruta completa:** `imagenes/actividades/relatos-de-viaje.jpg`
 - **Tipo:** png
 
 </details>
@@ -23071,7 +23071,7 @@
 
 ### reloj-de-sol.png
 
-![reloj-de-sol.png](/fogata-recursos/imagenes/actividades/reloj-de-sol.png)
+![reloj-de-sol.png](/fogata-recursos/imagenes/actividades/reloj-de-sol.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23079,7 +23079,7 @@
 - **Nombre del archivo:** `reloj-de-sol.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reloj-de-sol.png`
+- **Ruta completa:** `imagenes/actividades/reloj-de-sol.jpg`
 - **Tipo:** png
 
 </details>
@@ -23092,7 +23092,7 @@
 
 ### resea-de-libro.png
 
-![resea-de-libro.png](/fogata-recursos/imagenes/actividades/resea-de-libro.png)
+![resea-de-libro.png](/fogata-recursos/imagenes/actividades/resea-de-libro.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23100,7 +23100,7 @@
 - **Nombre del archivo:** `resea-de-libro.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/resea-de-libro.png`
+- **Ruta completa:** `imagenes/actividades/resea-de-libro.jpg`
 - **Tipo:** png
 
 </details>
@@ -23113,7 +23113,7 @@
 
 ### resolucion-de-plastico.png
 
-![resolucion-de-plastico.png](/fogata-recursos/imagenes/actividades/resolucion-de-plastico.png)
+![resolucion-de-plastico.png](/fogata-recursos/imagenes/actividades/resolucion-de-plastico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23121,7 +23121,7 @@
 - **Nombre del archivo:** `resolucion-de-plastico.png`
 - **Tamaño:** 241K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/resolucion-de-plastico.png`
+- **Ruta completa:** `imagenes/actividades/resolucion-de-plastico.jpg`
 - **Tipo:** png
 
 </details>
@@ -23134,7 +23134,7 @@
 
 ### resolver-un-problema-comunitario.png
 
-![resolver-un-problema-comunitario.png](/fogata-recursos/imagenes/actividades/resolver-un-problema-comunitario.png)
+![resolver-un-problema-comunitario.png](/fogata-recursos/imagenes/actividades/resolver-un-problema-comunitario.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23142,7 +23142,7 @@
 - **Nombre del archivo:** `resolver-un-problema-comunitario.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/resolver-un-problema-comunitario.png`
+- **Ruta completa:** `imagenes/actividades/resolver-un-problema-comunitario.jpg`
 - **Tipo:** png
 
 </details>
@@ -23155,7 +23155,7 @@
 
 ### reutilizar-papel-para-borrador.png
 
-![reutilizar-papel-para-borrador.png](/fogata-recursos/imagenes/actividades/reutilizar-papel-para-borrador.png)
+![reutilizar-papel-para-borrador.png](/fogata-recursos/imagenes/actividades/reutilizar-papel-para-borrador.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23163,7 +23163,7 @@
 - **Nombre del archivo:** `reutilizar-papel-para-borrador.png`
 - **Tamaño:** 107K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/reutilizar-papel-para-borrador.png`
+- **Ruta completa:** `imagenes/actividades/reutilizar-papel-para-borrador.jpg`
 - **Tipo:** png
 
 </details>
@@ -23176,7 +23176,7 @@
 
 ### revisar-las-etiquetas-de-los-alimentos.png
 
-![revisar-las-etiquetas-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.png)
+![revisar-las-etiquetas-de-los-alimentos.png](/fogata-recursos/imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23184,7 +23184,7 @@
 - **Nombre del archivo:** `revisar-las-etiquetas-de-los-alimentos.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.png`
+- **Ruta completa:** `imagenes/actividades/revisar-las-etiquetas-de-los-alimentos.jpg`
 - **Tipo:** png
 
 </details>
@@ -23197,7 +23197,7 @@
 
 ### revision-a-los-suelos.png
 
-![revision-a-los-suelos.png](/fogata-recursos/imagenes/actividades/revision-a-los-suelos.png)
+![revision-a-los-suelos.png](/fogata-recursos/imagenes/actividades/revision-a-los-suelos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23205,7 +23205,7 @@
 - **Nombre del archivo:** `revision-a-los-suelos.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/revision-a-los-suelos.png`
+- **Ruta completa:** `imagenes/actividades/revision-a-los-suelos.jpg`
 - **Tipo:** png
 
 </details>
@@ -23218,7 +23218,7 @@
 
 ### ropa-y-fibras.png
 
-![ropa-y-fibras.png](/fogata-recursos/imagenes/actividades/ropa-y-fibras.png)
+![ropa-y-fibras.png](/fogata-recursos/imagenes/actividades/ropa-y-fibras.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23226,7 +23226,7 @@
 - **Nombre del archivo:** `ropa-y-fibras.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ropa-y-fibras.png`
+- **Ruta completa:** `imagenes/actividades/ropa-y-fibras.jpg`
 - **Tipo:** png
 
 </details>
@@ -23239,7 +23239,7 @@
 
 ### rutas-de-migracion.png
 
-![rutas-de-migracion.png](/fogata-recursos/imagenes/actividades/rutas-de-migracion.png)
+![rutas-de-migracion.png](/fogata-recursos/imagenes/actividades/rutas-de-migracion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23247,7 +23247,7 @@
 - **Nombre del archivo:** `rutas-de-migracion.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/rutas-de-migracion.png`
+- **Ruta completa:** `imagenes/actividades/rutas-de-migracion.jpg`
 - **Tipo:** png
 
 </details>
@@ -23260,7 +23260,7 @@
 
 ### saberes-indigenas.png
 
-![saberes-indigenas.png](/fogata-recursos/imagenes/actividades/saberes-indigenas.png)
+![saberes-indigenas.png](/fogata-recursos/imagenes/actividades/saberes-indigenas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23268,7 +23268,7 @@
 - **Nombre del archivo:** `saberes-indigenas.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/saberes-indigenas.png`
+- **Ruta completa:** `imagenes/actividades/saberes-indigenas.jpg`
 - **Tipo:** png
 
 </details>
@@ -23281,7 +23281,7 @@
 
 ### saca-el-bardo-que-hay-en-ti.png
 
-![saca-el-bardo-que-hay-en-ti.png](/fogata-recursos/imagenes/actividades/saca-el-bardo-que-hay-en-ti.png)
+![saca-el-bardo-que-hay-en-ti.png](/fogata-recursos/imagenes/actividades/saca-el-bardo-que-hay-en-ti.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23289,7 +23289,7 @@
 - **Nombre del archivo:** `saca-el-bardo-que-hay-en-ti.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/saca-el-bardo-que-hay-en-ti.png`
+- **Ruta completa:** `imagenes/actividades/saca-el-bardo-que-hay-en-ti.jpg`
 - **Tipo:** png
 
 </details>
@@ -23302,7 +23302,7 @@
 
 ### sacc.png
 
-![sacc.png](/fogata-recursos/imagenes/actividades/sacc.png)
+![sacc.png](/fogata-recursos/imagenes/actividades/sacc.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23310,7 +23310,7 @@
 - **Nombre del archivo:** `sacc.png`
 - **Tamaño:** 59K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/sacc.png`
+- **Ruta completa:** `imagenes/actividades/sacc.jpg`
 - **Tipo:** png
 
 </details>
@@ -23323,7 +23323,7 @@
 
 ### saltos-energeticos.png
 
-![saltos-energeticos.png](/fogata-recursos/imagenes/actividades/saltos-energeticos.png)
+![saltos-energeticos.png](/fogata-recursos/imagenes/actividades/saltos-energeticos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23331,7 +23331,7 @@
 - **Nombre del archivo:** `saltos-energeticos.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/saltos-energeticos.png`
+- **Ruta completa:** `imagenes/actividades/saltos-energeticos.jpg`
 - **Tipo:** png
 
 </details>
@@ -23344,7 +23344,7 @@
 
 ### salud.png
 
-![salud.png](/fogata-recursos/imagenes/actividades/salud.png)
+![salud.png](/fogata-recursos/imagenes/actividades/salud.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23352,7 +23352,7 @@
 - **Nombre del archivo:** `salud.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/salud.png`
+- **Ruta completa:** `imagenes/actividades/salud.jpg`
 - **Tipo:** png
 
 </details>
@@ -23365,7 +23365,7 @@
 
 ### saneamiento-en-el-suelo.png
 
-![saneamiento-en-el-suelo.png](/fogata-recursos/imagenes/actividades/saneamiento-en-el-suelo.png)
+![saneamiento-en-el-suelo.png](/fogata-recursos/imagenes/actividades/saneamiento-en-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23373,7 +23373,7 @@
 - **Nombre del archivo:** `saneamiento-en-el-suelo.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/saneamiento-en-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/saneamiento-en-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -23386,7 +23386,7 @@
 
 ### se-un-ecoturista.png
 
-![se-un-ecoturista.png](/fogata-recursos/imagenes/actividades/se-un-ecoturista.png)
+![se-un-ecoturista.png](/fogata-recursos/imagenes/actividades/se-un-ecoturista.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23394,7 +23394,7 @@
 - **Nombre del archivo:** `se-un-ecoturista.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/se-un-ecoturista.png`
+- **Ruta completa:** `imagenes/actividades/se-un-ecoturista.jpg`
 - **Tipo:** png
 
 </details>
@@ -23407,7 +23407,7 @@
 
 ### se-un-polinizador.png
 
-![se-un-polinizador.png](/fogata-recursos/imagenes/actividades/se-un-polinizador.png)
+![se-un-polinizador.png](/fogata-recursos/imagenes/actividades/se-un-polinizador.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23415,7 +23415,7 @@
 - **Nombre del archivo:** `se-un-polinizador.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/se-un-polinizador.png`
+- **Ruta completa:** `imagenes/actividades/se-un-polinizador.jpg`
 - **Tipo:** png
 
 </details>
@@ -23428,7 +23428,7 @@
 
 ### sed-continental.png
 
-![sed-continental.png](/fogata-recursos/imagenes/actividades/sed-continental.png)
+![sed-continental.png](/fogata-recursos/imagenes/actividades/sed-continental.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23436,7 +23436,7 @@
 - **Nombre del archivo:** `sed-continental.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/sed-continental.png`
+- **Ruta completa:** `imagenes/actividades/sed-continental.jpg`
 - **Tipo:** png
 
 </details>
@@ -23449,7 +23449,7 @@
 
 ### sed-de-poder.png
 
-![sed-de-poder.png](/fogata-recursos/imagenes/actividades/sed-de-poder.png)
+![sed-de-poder.png](/fogata-recursos/imagenes/actividades/sed-de-poder.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23457,7 +23457,7 @@
 - **Nombre del archivo:** `sed-de-poder.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/sed-de-poder.png`
+- **Ruta completa:** `imagenes/actividades/sed-de-poder.jpg`
 - **Tipo:** png
 
 </details>
@@ -23470,7 +23470,7 @@
 
 ### see-los-enlaces.png
 
-![see-los-enlaces.png](/fogata-recursos/imagenes/actividades/see-los-enlaces.png)
+![see-los-enlaces.png](/fogata-recursos/imagenes/actividades/see-los-enlaces.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23478,7 +23478,7 @@
 - **Nombre del archivo:** `see-los-enlaces.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/see-los-enlaces.png`
+- **Ruta completa:** `imagenes/actividades/see-los-enlaces.jpg`
 - **Tipo:** png
 
 </details>
@@ -23491,7 +23491,7 @@
 
 ### seleccionar-y-consumir-miel.png
 
-![seleccionar-y-consumir-miel.png](/fogata-recursos/imagenes/actividades/seleccionar-y-consumir-miel.png)
+![seleccionar-y-consumir-miel.png](/fogata-recursos/imagenes/actividades/seleccionar-y-consumir-miel.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23499,7 +23499,7 @@
 - **Nombre del archivo:** `seleccionar-y-consumir-miel.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/seleccionar-y-consumir-miel.png`
+- **Ruta completa:** `imagenes/actividades/seleccionar-y-consumir-miel.jpg`
 - **Tipo:** png
 
 </details>
@@ -23512,7 +23512,7 @@
 
 ### seleccionar-y-cultivar-rboles-frutales.png
 
-![seleccionar-y-cultivar-rboles-frutales.png](/fogata-recursos/imagenes/actividades/seleccionar-y-cultivar-rboles-frutales.png)
+![seleccionar-y-cultivar-rboles-frutales.png](/fogata-recursos/imagenes/actividades/seleccionar-y-cultivar-rboles-frutales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23520,7 +23520,7 @@
 - **Nombre del archivo:** `seleccionar-y-cultivar-rboles-frutales.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/seleccionar-y-cultivar-rboles-frutales.png`
+- **Ruta completa:** `imagenes/actividades/seleccionar-y-cultivar-rboles-frutales.jpg`
 - **Tipo:** png
 
 </details>
@@ -23533,7 +23533,7 @@
 
 ### separar-contenedores-de-reciclaje.png
 
-![separar-contenedores-de-reciclaje.png](/fogata-recursos/imagenes/actividades/separar-contenedores-de-reciclaje.png)
+![separar-contenedores-de-reciclaje.png](/fogata-recursos/imagenes/actividades/separar-contenedores-de-reciclaje.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23541,7 +23541,7 @@
 - **Nombre del archivo:** `separar-contenedores-de-reciclaje.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/separar-contenedores-de-reciclaje.png`
+- **Ruta completa:** `imagenes/actividades/separar-contenedores-de-reciclaje.jpg`
 - **Tipo:** png
 
 </details>
@@ -23554,7 +23554,7 @@
 
 ### separar-desde-el-comienzo.png
 
-![separar-desde-el-comienzo.png](/fogata-recursos/imagenes/actividades/separar-desde-el-comienzo.png)
+![separar-desde-el-comienzo.png](/fogata-recursos/imagenes/actividades/separar-desde-el-comienzo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23562,7 +23562,7 @@
 - **Nombre del archivo:** `separar-desde-el-comienzo.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/separar-desde-el-comienzo.png`
+- **Ruta completa:** `imagenes/actividades/separar-desde-el-comienzo.jpg`
 - **Tipo:** png
 
 </details>
@@ -23575,7 +23575,7 @@
 
 ### ser-bueno-para-el-bien-global.png
 
-![ser-bueno-para-el-bien-global.png](/fogata-recursos/imagenes/actividades/ser-bueno-para-el-bien-global.png)
+![ser-bueno-para-el-bien-global.png](/fogata-recursos/imagenes/actividades/ser-bueno-para-el-bien-global.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23583,7 +23583,7 @@
 - **Nombre del archivo:** `ser-bueno-para-el-bien-global.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ser-bueno-para-el-bien-global.png`
+- **Ruta completa:** `imagenes/actividades/ser-bueno-para-el-bien-global.jpg`
 - **Tipo:** png
 
 </details>
@@ -23596,7 +23596,7 @@
 
 ### ser-una-mariposa-social.png
 
-![ser-una-mariposa-social.png](/fogata-recursos/imagenes/actividades/ser-una-mariposa-social.png)
+![ser-una-mariposa-social.png](/fogata-recursos/imagenes/actividades/ser-una-mariposa-social.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23604,7 +23604,7 @@
 - **Nombre del archivo:** `ser-una-mariposa-social.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/ser-una-mariposa-social.png`
+- **Ruta completa:** `imagenes/actividades/ser-una-mariposa-social.jpg`
 - **Tipo:** png
 
 </details>
@@ -23617,7 +23617,7 @@
 
 ### sigue-el-flujo.png
 
-![sigue-el-flujo.png](/fogata-recursos/imagenes/actividades/sigue-el-flujo.png)
+![sigue-el-flujo.png](/fogata-recursos/imagenes/actividades/sigue-el-flujo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23625,7 +23625,7 @@
 - **Nombre del archivo:** `sigue-el-flujo.png`
 - **Tamaño:** 150K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/sigue-el-flujo.png`
+- **Ruta completa:** `imagenes/actividades/sigue-el-flujo.jpg`
 - **Tipo:** png
 
 </details>
@@ -23638,7 +23638,7 @@
 
 ### soluciones-globales.png
 
-![soluciones-globales.png](/fogata-recursos/imagenes/actividades/soluciones-globales.png)
+![soluciones-globales.png](/fogata-recursos/imagenes/actividades/soluciones-globales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23646,7 +23646,7 @@
 - **Nombre del archivo:** `soluciones-globales.png`
 - **Tamaño:** 241K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/soluciones-globales.png`
+- **Ruta completa:** `imagenes/actividades/soluciones-globales.jpg`
 - **Tipo:** png
 
 </details>
@@ -23680,7 +23680,7 @@
 
 ### suelos-calidos.png
 
-![suelos-calidos.png](/fogata-recursos/imagenes/actividades/suelos-calidos.png)
+![suelos-calidos.png](/fogata-recursos/imagenes/actividades/suelos-calidos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23688,7 +23688,7 @@
 - **Nombre del archivo:** `suelos-calidos.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/suelos-calidos.png`
+- **Ruta completa:** `imagenes/actividades/suelos-calidos.jpg`
 - **Tipo:** png
 
 </details>
@@ -23701,7 +23701,7 @@
 
 ### suelos-globales.png
 
-![suelos-globales.png](/fogata-recursos/imagenes/actividades/suelos-globales.png)
+![suelos-globales.png](/fogata-recursos/imagenes/actividades/suelos-globales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23709,7 +23709,7 @@
 - **Nombre del archivo:** `suelos-globales.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/suelos-globales.png`
+- **Ruta completa:** `imagenes/actividades/suelos-globales.jpg`
 - **Tipo:** png
 
 </details>
@@ -23722,7 +23722,7 @@
 
 ### supermercado-biodiverso.png
 
-![supermercado-biodiverso.png](/fogata-recursos/imagenes/actividades/supermercado-biodiverso.png)
+![supermercado-biodiverso.png](/fogata-recursos/imagenes/actividades/supermercado-biodiverso.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23730,7 +23730,7 @@
 - **Nombre del archivo:** `supermercado-biodiverso.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/supermercado-biodiverso.png`
+- **Ruta completa:** `imagenes/actividades/supermercado-biodiverso.jpg`
 - **Tipo:** png
 
 </details>
@@ -23743,7 +23743,7 @@
 
 ### tala-de-arboles.png
 
-![tala-de-arboles.png](/fogata-recursos/imagenes/actividades/tala-de-arboles.png)
+![tala-de-arboles.png](/fogata-recursos/imagenes/actividades/tala-de-arboles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23751,7 +23751,7 @@
 - **Nombre del archivo:** `tala-de-arboles.png`
 - **Tamaño:** 198K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tala-de-arboles.png`
+- **Ruta completa:** `imagenes/actividades/tala-de-arboles.jpg`
 - **Tipo:** png
 
 </details>
@@ -23764,7 +23764,7 @@
 
 ### taller-ambiental.png
 
-![taller-ambiental.png](/fogata-recursos/imagenes/actividades/taller-ambiental.png)
+![taller-ambiental.png](/fogata-recursos/imagenes/actividades/taller-ambiental.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23772,7 +23772,7 @@
 - **Nombre del archivo:** `taller-ambiental.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/taller-ambiental.png`
+- **Ruta completa:** `imagenes/actividades/taller-ambiental.jpg`
 - **Tipo:** png
 
 </details>
@@ -23890,7 +23890,7 @@
 
 ### teatro-del-carbono.png
 
-![teatro-del-carbono.png](/fogata-recursos/imagenes/actividades/teatro-del-carbono.png)
+![teatro-del-carbono.png](/fogata-recursos/imagenes/actividades/teatro-del-carbono.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23898,7 +23898,7 @@
 - **Nombre del archivo:** `teatro-del-carbono.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/teatro-del-carbono.png`
+- **Ruta completa:** `imagenes/actividades/teatro-del-carbono.jpg`
 - **Tipo:** png
 
 </details>
@@ -23911,7 +23911,7 @@
 
 ### terrario-ecosistemico.png
 
-![terrario-ecosistemico.png](/fogata-recursos/imagenes/actividades/terrario-ecosistemico.png)
+![terrario-ecosistemico.png](/fogata-recursos/imagenes/actividades/terrario-ecosistemico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23919,7 +23919,7 @@
 - **Nombre del archivo:** `terrario-ecosistemico.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/terrario-ecosistemico.png`
+- **Ruta completa:** `imagenes/actividades/terrario-ecosistemico.jpg`
 - **Tipo:** png
 
 </details>
@@ -23932,7 +23932,7 @@
 
 ### tiempo-de-descomposicion-de-la-basura.png
 
-![tiempo-de-descomposicion-de-la-basura.png](/fogata-recursos/imagenes/actividades/tiempo-de-descomposicion-de-la-basura.png)
+![tiempo-de-descomposicion-de-la-basura.png](/fogata-recursos/imagenes/actividades/tiempo-de-descomposicion-de-la-basura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23940,7 +23940,7 @@
 - **Nombre del archivo:** `tiempo-de-descomposicion-de-la-basura.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tiempo-de-descomposicion-de-la-basura.png`
+- **Ruta completa:** `imagenes/actividades/tiempo-de-descomposicion-de-la-basura.jpg`
 - **Tipo:** png
 
 </details>
@@ -23953,7 +23953,7 @@
 
 ### tintes-naturales.png
 
-![tintes-naturales.png](/fogata-recursos/imagenes/actividades/tintes-naturales.png)
+![tintes-naturales.png](/fogata-recursos/imagenes/actividades/tintes-naturales.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23961,7 +23961,7 @@
 - **Nombre del archivo:** `tintes-naturales.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tintes-naturales.png`
+- **Ruta completa:** `imagenes/actividades/tintes-naturales.jpg`
 - **Tipo:** png
 
 </details>
@@ -23974,7 +23974,7 @@
 
 ### todo-sobre-la-polinizacion.png
 
-![todo-sobre-la-polinizacion.png](/fogata-recursos/imagenes/actividades/todo-sobre-la-polinizacion.png)
+![todo-sobre-la-polinizacion.png](/fogata-recursos/imagenes/actividades/todo-sobre-la-polinizacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -23982,7 +23982,7 @@
 - **Nombre del archivo:** `todo-sobre-la-polinizacion.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/todo-sobre-la-polinizacion.png`
+- **Ruta completa:** `imagenes/actividades/todo-sobre-la-polinizacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -23995,7 +23995,7 @@
 
 ### tour-guiado-de-cuenca.png
 
-![tour-guiado-de-cuenca.png](/fogata-recursos/imagenes/actividades/tour-guiado-de-cuenca.png)
+![tour-guiado-de-cuenca.png](/fogata-recursos/imagenes/actividades/tour-guiado-de-cuenca.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24003,7 +24003,7 @@
 - **Nombre del archivo:** `tour-guiado-de-cuenca.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tour-guiado-de-cuenca.png`
+- **Ruta completa:** `imagenes/actividades/tour-guiado-de-cuenca.jpg`
 - **Tipo:** png
 
 </details>
@@ -24016,7 +24016,7 @@
 
 ### trabajando-como-alfarero.png
 
-![trabajando-como-alfarero.png](/fogata-recursos/imagenes/actividades/trabajando-como-alfarero.png)
+![trabajando-como-alfarero.png](/fogata-recursos/imagenes/actividades/trabajando-como-alfarero.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24024,7 +24024,7 @@
 - **Nombre del archivo:** `trabajando-como-alfarero.png`
 - **Tamaño:** 145K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/trabajando-como-alfarero.png`
+- **Ruta completa:** `imagenes/actividades/trabajando-como-alfarero.jpg`
 - **Tipo:** png
 
 </details>
@@ -24037,7 +24037,7 @@
 
 ### trabajos-en-el-suelo.png
 
-![trabajos-en-el-suelo.png](/fogata-recursos/imagenes/actividades/trabajos-en-el-suelo.png)
+![trabajos-en-el-suelo.png](/fogata-recursos/imagenes/actividades/trabajos-en-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24045,7 +24045,7 @@
 - **Nombre del archivo:** `trabajos-en-el-suelo.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/trabajos-en-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/trabajos-en-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -24058,7 +24058,7 @@
 
 ### transmitiendo-datos-sobre-el-suelo.png
 
-![transmitiendo-datos-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png)
+![transmitiendo-datos-sobre-el-suelo.png](/fogata-recursos/imagenes/actividades/transmitiendo-datos-sobre-el-suelo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24066,7 +24066,7 @@
 - **Nombre del archivo:** `transmitiendo-datos-sobre-el-suelo.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/transmitiendo-datos-sobre-el-suelo.png`
+- **Ruta completa:** `imagenes/actividades/transmitiendo-datos-sobre-el-suelo.jpg`
 - **Tipo:** png
 
 </details>
@@ -24079,7 +24079,7 @@
 
 ### transporte-sostenible-caminar-o-usar-bicicleta.png
 
-![transporte-sostenible-caminar-o-usar-bicicleta.png](/fogata-recursos/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.png)
+![transporte-sostenible-caminar-o-usar-bicicleta.png](/fogata-recursos/imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24087,7 +24087,7 @@
 - **Nombre del archivo:** `transporte-sostenible-caminar-o-usar-bicicleta.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.png`
+- **Ruta completa:** `imagenes/actividades/transporte-sostenible-caminar-o-usar-bicicleta.jpg`
 - **Tipo:** png
 
 </details>
@@ -24100,7 +24100,7 @@
 
 ### trepando-arboles.png
 
-![trepando-arboles.png](/fogata-recursos/imagenes/actividades/trepando-arboles.png)
+![trepando-arboles.png](/fogata-recursos/imagenes/actividades/trepando-arboles.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24108,7 +24108,7 @@
 - **Nombre del archivo:** `trepando-arboles.png`
 - **Tamaño:** 225K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/trepando-arboles.png`
+- **Ruta completa:** `imagenes/actividades/trepando-arboles.jpg`
 - **Tipo:** png
 
 </details>
@@ -24121,7 +24121,7 @@
 
 ### tu-bosque-favorito.png
 
-![tu-bosque-favorito.png](/fogata-recursos/imagenes/actividades/tu-bosque-favorito.png)
+![tu-bosque-favorito.png](/fogata-recursos/imagenes/actividades/tu-bosque-favorito.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24129,7 +24129,7 @@
 - **Nombre del archivo:** `tu-bosque-favorito.png`
 - **Tamaño:** 304K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tu-bosque-favorito.png`
+- **Ruta completa:** `imagenes/actividades/tu-bosque-favorito.jpg`
 - **Tipo:** png
 
 </details>
@@ -24142,7 +24142,7 @@
 
 ### tu-deporte.png
 
-![tu-deporte.png](/fogata-recursos/imagenes/actividades/tu-deporte.png)
+![tu-deporte.png](/fogata-recursos/imagenes/actividades/tu-deporte.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24150,7 +24150,7 @@
 - **Nombre del archivo:** `tu-deporte.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tu-deporte.png`
+- **Ruta completa:** `imagenes/actividades/tu-deporte.jpg`
 - **Tipo:** png
 
 </details>
@@ -24163,7 +24163,7 @@
 
 ### tu-flor-favorita.png
 
-![tu-flor-favorita.png](/fogata-recursos/imagenes/actividades/tu-flor-favorita.png)
+![tu-flor-favorita.png](/fogata-recursos/imagenes/actividades/tu-flor-favorita.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24171,7 +24171,7 @@
 - **Nombre del archivo:** `tu-flor-favorita.png`
 - **Tamaño:** 123K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tu-flor-favorita.png`
+- **Ruta completa:** `imagenes/actividades/tu-flor-favorita.jpg`
 - **Tipo:** png
 
 </details>
@@ -24184,7 +24184,7 @@
 
 ### tu-vida-ecologica.png
 
-![tu-vida-ecologica.png](/fogata-recursos/imagenes/actividades/tu-vida-ecologica.png)
+![tu-vida-ecologica.png](/fogata-recursos/imagenes/actividades/tu-vida-ecologica.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24192,7 +24192,7 @@
 - **Nombre del archivo:** `tu-vida-ecologica.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/tu-vida-ecologica.png`
+- **Ruta completa:** `imagenes/actividades/tu-vida-ecologica.jpg`
 - **Tipo:** png
 
 </details>
@@ -24205,7 +24205,7 @@
 
 ### un-acto-de-balance.png
 
-![un-acto-de-balance.png](/fogata-recursos/imagenes/actividades/un-acto-de-balance.png)
+![un-acto-de-balance.png](/fogata-recursos/imagenes/actividades/un-acto-de-balance.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24213,7 +24213,7 @@
 - **Nombre del archivo:** `un-acto-de-balance.png`
 - **Tamaño:** 214K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/un-acto-de-balance.png`
+- **Ruta completa:** `imagenes/actividades/un-acto-de-balance.jpg`
 - **Tipo:** png
 
 </details>
@@ -24226,7 +24226,7 @@
 
 ### un-bosque-para-todas-las-estaciones.png
 
-![un-bosque-para-todas-las-estaciones.png](/fogata-recursos/imagenes/actividades/un-bosque-para-todas-las-estaciones.png)
+![un-bosque-para-todas-las-estaciones.png](/fogata-recursos/imagenes/actividades/un-bosque-para-todas-las-estaciones.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24234,7 +24234,7 @@
 - **Nombre del archivo:** `un-bosque-para-todas-las-estaciones.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/un-bosque-para-todas-las-estaciones.png`
+- **Ruta completa:** `imagenes/actividades/un-bosque-para-todas-las-estaciones.jpg`
 - **Tipo:** png
 
 </details>
@@ -24247,7 +24247,7 @@
 
 ### un-clima-que-da-vida.png
 
-![un-clima-que-da-vida.png](/fogata-recursos/imagenes/actividades/un-clima-que-da-vida.png)
+![un-clima-que-da-vida.png](/fogata-recursos/imagenes/actividades/un-clima-que-da-vida.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24255,7 +24255,7 @@
 - **Nombre del archivo:** `un-clima-que-da-vida.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/un-clima-que-da-vida.png`
+- **Ruta completa:** `imagenes/actividades/un-clima-que-da-vida.jpg`
 - **Tipo:** png
 
 </details>
@@ -24268,7 +24268,7 @@
 
 ### un-estudio-de-ph.png
 
-![un-estudio-de-ph.png](/fogata-recursos/imagenes/actividades/un-estudio-de-ph.png)
+![un-estudio-de-ph.png](/fogata-recursos/imagenes/actividades/un-estudio-de-ph.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24276,7 +24276,7 @@
 - **Nombre del archivo:** `un-estudio-de-ph.png`
 - **Tamaño:** 182K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/un-estudio-de-ph.png`
+- **Ruta completa:** `imagenes/actividades/un-estudio-de-ph.jpg`
 - **Tipo:** png
 
 </details>
@@ -24289,7 +24289,7 @@
 
 ### un-regalo-acuatico.png
 
-![un-regalo-acuatico.png](/fogata-recursos/imagenes/actividades/un-regalo-acuatico.png)
+![un-regalo-acuatico.png](/fogata-recursos/imagenes/actividades/un-regalo-acuatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24297,7 +24297,7 @@
 - **Nombre del archivo:** `un-regalo-acuatico.png`
 - **Tamaño:** 267K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/un-regalo-acuatico.png`
+- **Ruta completa:** `imagenes/actividades/un-regalo-acuatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -24310,7 +24310,7 @@
 
 ### una-comida-solar.png
 
-![una-comida-solar.png](/fogata-recursos/imagenes/actividades/una-comida-solar.png)
+![una-comida-solar.png](/fogata-recursos/imagenes/actividades/una-comida-solar.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24318,7 +24318,7 @@
 - **Nombre del archivo:** `una-comida-solar.png`
 - **Tamaño:** 171K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/una-comida-solar.png`
+- **Ruta completa:** `imagenes/actividades/una-comida-solar.jpg`
 - **Tipo:** png
 
 </details>
@@ -24331,7 +24331,7 @@
 
 ### unirse-a-la-red-carboschools.png
 
-![unirse-a-la-red-carboschools.png](/fogata-recursos/imagenes/actividades/unirse-a-la-red-carboschools.png)
+![unirse-a-la-red-carboschools.png](/fogata-recursos/imagenes/actividades/unirse-a-la-red-carboschools.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24339,7 +24339,7 @@
 - **Nombre del archivo:** `unirse-a-la-red-carboschools.png`
 - **Tamaño:** 97K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/unirse-a-la-red-carboschools.png`
+- **Ruta completa:** `imagenes/actividades/unirse-a-la-red-carboschools.jpg`
 - **Tipo:** png
 
 </details>
@@ -24352,7 +24352,7 @@
 
 ### unirse-a-plataformas-de-sostenibilidad.png
 
-![unirse-a-plataformas-de-sostenibilidad.png](/fogata-recursos/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.png)
+![unirse-a-plataformas-de-sostenibilidad.png](/fogata-recursos/imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24360,7 +24360,7 @@
 - **Nombre del archivo:** `unirse-a-plataformas-de-sostenibilidad.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.png`
+- **Ruta completa:** `imagenes/actividades/unirse-a-plataformas-de-sostenibilidad.jpg`
 - **Tipo:** png
 
 </details>
@@ -24373,7 +24373,7 @@
 
 ### unirse-a-un-club-de-apicultura.png
 
-![unirse-a-un-club-de-apicultura.png](/fogata-recursos/imagenes/actividades/unirse-a-un-club-de-apicultura.png)
+![unirse-a-un-club-de-apicultura.png](/fogata-recursos/imagenes/actividades/unirse-a-un-club-de-apicultura.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24381,7 +24381,7 @@
 - **Nombre del archivo:** `unirse-a-un-club-de-apicultura.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/unirse-a-un-club-de-apicultura.png`
+- **Ruta completa:** `imagenes/actividades/unirse-a-un-club-de-apicultura.jpg`
 - **Tipo:** png
 
 </details>
@@ -24394,7 +24394,7 @@
 
 ### usando-la-madera.png
 
-![usando-la-madera.png](/fogata-recursos/imagenes/actividades/usando-la-madera.png)
+![usando-la-madera.png](/fogata-recursos/imagenes/actividades/usando-la-madera.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24402,7 +24402,7 @@
 - **Nombre del archivo:** `usando-la-madera.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/usando-la-madera.png`
+- **Ruta completa:** `imagenes/actividades/usando-la-madera.jpg`
 - **Tipo:** png
 
 </details>
@@ -24415,7 +24415,7 @@
 
 ### usar-el-agua-sabiamente.png
 
-![usar-el-agua-sabiamente.png](/fogata-recursos/imagenes/actividades/usar-el-agua-sabiamente.png)
+![usar-el-agua-sabiamente.png](/fogata-recursos/imagenes/actividades/usar-el-agua-sabiamente.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24423,7 +24423,7 @@
 - **Nombre del archivo:** `usar-el-agua-sabiamente.png`
 - **Tamaño:** 86K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/usar-el-agua-sabiamente.png`
+- **Ruta completa:** `imagenes/actividades/usar-el-agua-sabiamente.jpg`
 - **Tipo:** png
 
 </details>
@@ -24436,7 +24436,7 @@
 
 ### usar-menos-aire-acondicionado-y-calefaccion.png
 
-![usar-menos-aire-acondicionado-y-calefaccion.png](/fogata-recursos/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.png)
+![usar-menos-aire-acondicionado-y-calefaccion.png](/fogata-recursos/imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24444,7 +24444,7 @@
 - **Nombre del archivo:** `usar-menos-aire-acondicionado-y-calefaccion.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.png`
+- **Ruta completa:** `imagenes/actividades/usar-menos-aire-acondicionado-y-calefaccion.jpg`
 - **Tipo:** png
 
 </details>
@@ -24457,7 +24457,7 @@
 
 ### variedades-raras-de-cultivos.png
 
-![variedades-raras-de-cultivos.png](/fogata-recursos/imagenes/actividades/variedades-raras-de-cultivos.png)
+![variedades-raras-de-cultivos.png](/fogata-recursos/imagenes/actividades/variedades-raras-de-cultivos.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24465,7 +24465,7 @@
 - **Nombre del archivo:** `variedades-raras-de-cultivos.png`
 - **Tamaño:** 193K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/variedades-raras-de-cultivos.png`
+- **Ruta completa:** `imagenes/actividades/variedades-raras-de-cultivos.jpg`
 - **Tipo:** png
 
 </details>
@@ -24478,7 +24478,7 @@
 
 ### verde-o-rojo.png
 
-![verde-o-rojo.png](/fogata-recursos/imagenes/actividades/verde-o-rojo.png)
+![verde-o-rojo.png](/fogata-recursos/imagenes/actividades/verde-o-rojo.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24486,7 +24486,7 @@
 - **Nombre del archivo:** `verde-o-rojo.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/verde-o-rojo.png`
+- **Ruta completa:** `imagenes/actividades/verde-o-rojo.jpg`
 - **Tipo:** png
 
 </details>
@@ -24499,7 +24499,7 @@
 
 ### verso-acuatico.png
 
-![verso-acuatico.png](/fogata-recursos/imagenes/actividades/verso-acuatico.png)
+![verso-acuatico.png](/fogata-recursos/imagenes/actividades/verso-acuatico.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24507,7 +24507,7 @@
 - **Nombre del archivo:** `verso-acuatico.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/verso-acuatico.png`
+- **Ruta completa:** `imagenes/actividades/verso-acuatico.jpg`
 - **Tipo:** png
 
 </details>
@@ -24520,7 +24520,7 @@
 
 ### vigilancia-en-casa.png
 
-![vigilancia-en-casa.png](/fogata-recursos/imagenes/actividades/vigilancia-en-casa.png)
+![vigilancia-en-casa.png](/fogata-recursos/imagenes/actividades/vigilancia-en-casa.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24528,7 +24528,7 @@
 - **Nombre del archivo:** `vigilancia-en-casa.png`
 - **Tamaño:** 113K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/vigilancia-en-casa.png`
+- **Ruta completa:** `imagenes/actividades/vigilancia-en-casa.jpg`
 - **Tipo:** png
 
 </details>
@@ -24541,7 +24541,7 @@
 
 ### visita-a-granjas.png
 
-![visita-a-granjas.png](/fogata-recursos/imagenes/actividades/visita-a-granjas.png)
+![visita-a-granjas.png](/fogata-recursos/imagenes/actividades/visita-a-granjas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24549,7 +24549,7 @@
 - **Nombre del archivo:** `visita-a-granjas.png`
 - **Tamaño:** 219K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visita-a-granjas.png`
+- **Ruta completa:** `imagenes/actividades/visita-a-granjas.jpg`
 - **Tipo:** png
 
 </details>
@@ -24562,7 +24562,7 @@
 
 ### visita-a-una-granja-de-abejas.png
 
-![visita-a-una-granja-de-abejas.png](/fogata-recursos/imagenes/actividades/visita-a-una-granja-de-abejas.png)
+![visita-a-una-granja-de-abejas.png](/fogata-recursos/imagenes/actividades/visita-a-una-granja-de-abejas.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24570,7 +24570,7 @@
 - **Nombre del archivo:** `visita-a-una-granja-de-abejas.png`
 - **Tamaño:** 187K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visita-a-una-granja-de-abejas.png`
+- **Ruta completa:** `imagenes/actividades/visita-a-una-granja-de-abejas.jpg`
 - **Tipo:** png
 
 </details>
@@ -24583,7 +24583,7 @@
 
 ### visitar-el-mercado-local.png
 
-![visitar-el-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-el-mercado-local.png)
+![visitar-el-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-el-mercado-local.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24591,7 +24591,7 @@
 - **Nombre del archivo:** `visitar-el-mercado-local.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visitar-el-mercado-local.png`
+- **Ruta completa:** `imagenes/actividades/visitar-el-mercado-local.jpg`
 - **Tipo:** png
 
 </details>
@@ -24604,7 +24604,7 @@
 
 ### visitar-un-centro-de-reciclaje.png
 
-![visitar-un-centro-de-reciclaje.png](/fogata-recursos/imagenes/actividades/visitar-un-centro-de-reciclaje.png)
+![visitar-un-centro-de-reciclaje.png](/fogata-recursos/imagenes/actividades/visitar-un-centro-de-reciclaje.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24612,7 +24612,7 @@
 - **Nombre del archivo:** `visitar-un-centro-de-reciclaje.png`
 - **Tamaño:** 155K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visitar-un-centro-de-reciclaje.png`
+- **Ruta completa:** `imagenes/actividades/visitar-un-centro-de-reciclaje.jpg`
 - **Tipo:** png
 
 </details>
@@ -24625,7 +24625,7 @@
 
 ### visitar-un-mercado-local.png
 
-![visitar-un-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-un-mercado-local.png)
+![visitar-un-mercado-local.png](/fogata-recursos/imagenes/actividades/visitar-un-mercado-local.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24633,7 +24633,7 @@
 - **Nombre del archivo:** `visitar-un-mercado-local.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visitar-un-mercado-local.png`
+- **Ruta completa:** `imagenes/actividades/visitar-un-mercado-local.jpg`
 - **Tipo:** png
 
 </details>
@@ -24646,7 +24646,7 @@
 
 ### visitar-un-tiradero-de-basura-local.png
 
-![visitar-un-tiradero-de-basura-local.png](/fogata-recursos/imagenes/actividades/visitar-un-tiradero-de-basura-local.png)
+![visitar-un-tiradero-de-basura-local.png](/fogata-recursos/imagenes/actividades/visitar-un-tiradero-de-basura-local.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24654,7 +24654,7 @@
 - **Nombre del archivo:** `visitar-un-tiradero-de-basura-local.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visitar-un-tiradero-de-basura-local.png`
+- **Ruta completa:** `imagenes/actividades/visitar-un-tiradero-de-basura-local.jpg`
 - **Tipo:** png
 
 </details>
@@ -24667,7 +24667,7 @@
 
 ### visitar-una-hacienda-y-un-mercado.png
 
-![visitar-una-hacienda-y-un-mercado.png](/fogata-recursos/imagenes/actividades/visitar-una-hacienda-y-un-mercado.png)
+![visitar-una-hacienda-y-un-mercado.png](/fogata-recursos/imagenes/actividades/visitar-una-hacienda-y-un-mercado.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24675,7 +24675,7 @@
 - **Nombre del archivo:** `visitar-una-hacienda-y-un-mercado.png`
 - **Tamaño:** 166K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/visitar-una-hacienda-y-un-mercado.png`
+- **Ruta completa:** `imagenes/actividades/visitar-una-hacienda-y-un-mercado.jpg`
 - **Tipo:** png
 
 </details>
@@ -24688,7 +24688,7 @@
 
 ### voluntariado-en-conservacion.png
 
-![voluntariado-en-conservacion.png](/fogata-recursos/imagenes/actividades/voluntariado-en-conservacion.png)
+![voluntariado-en-conservacion.png](/fogata-recursos/imagenes/actividades/voluntariado-en-conservacion.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24696,7 +24696,7 @@
 - **Nombre del archivo:** `voluntariado-en-conservacion.png`
 - **Tamaño:** 118K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/voluntariado-en-conservacion.png`
+- **Ruta completa:** `imagenes/actividades/voluntariado-en-conservacion.jpg`
 - **Tipo:** png
 
 </details>
@@ -24709,7 +24709,7 @@
 
 ### y-el-clima.png
 
-![y-el-clima.png](/fogata-recursos/imagenes/actividades/y-el-clima.png)
+![y-el-clima.png](/fogata-recursos/imagenes/actividades/y-el-clima.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24717,7 +24717,7 @@
 - **Nombre del archivo:** `y-el-clima.png`
 - **Tamaño:** 161K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/y-el-clima.png`
+- **Ruta completa:** `imagenes/actividades/y-el-clima.jpg`
 - **Tipo:** png
 
 </details>
@@ -24730,7 +24730,7 @@
 
 ### yoga-animal.png
 
-![yoga-animal.png](/fogata-recursos/imagenes/actividades/yoga-animal.png)
+![yoga-animal.png](/fogata-recursos/imagenes/actividades/yoga-animal.jpg)
 
 <details>
 <summary>📋 Información detallada</summary>
@@ -24738,7 +24738,7 @@
 - **Nombre del archivo:** `yoga-animal.png`
 - **Tamaño:** 129K
 - **Dimensiones:** 1792x768
-- **Ruta completa:** `imagenes/actividades/yoga-animal.png`
+- **Ruta completa:** `imagenes/actividades/yoga-animal.jpg`
 - **Tipo:** png
 
 </details>

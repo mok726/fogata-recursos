@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Debate sobre ciudades verdes"
+title: "Debate sobre Ciudades Verdes"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/debate-sobre-ciudades-verdes/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/debate-sobre-ciudades-verdes.png"
+image: "/imagenes/actividades/debate-sobre-ciudades-verdes.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -160,10 +160,10 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡Debate sobre ciudades verdes!
+# ¡Debate sobre Ciudades Verdes!
 
 ## Resumen
-Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Dividanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.
+Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efectos negativos irreversibles. Por otro lado, puede ser una herramienta poderosa para el desarrollo sostenible. Divídanse en dos equipos, cada uno con tres o cuatro oradores. Un equipo (el afirmativo) apoya la urbanización y el otro (el negativo) se opone.
 
 ## Preparación
 1. Investigá sobre pros y contras de la urbanización.
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

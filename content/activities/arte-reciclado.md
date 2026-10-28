@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte reciclado"
+title: "Arte Reciclado"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-reciclado/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arte-reciclado.png"
+image: "/imagenes/actividades/arte-reciclado.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -165,26 +165,26 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Arte reciclado!
+# ¡Arte Reciclado!
 
 ## Resumen
-Ya conoces la importancia de reciclar y cómo puede ayudar a nuestro planeta a conservar sus recursos. ¡Es hora de pasar la voz!
+Ya conocés la importancia de reciclar y cómo puede ayudar a nuestro planeta a conservar sus recursos. ¡Es hora de pasar la voz!
 
 ## Preparación
-1. Recolecta varios artículos de desecho.
-2. Prepara materiales de manualidades.
-3. Elige un lugar público para exhibir el arte.
+1. Recolectá varios artículos de desecho.
+2. Prepará materiales de manualidades.
+3. Elegí un lugar público para exhibir el arte.
 
 ## Desarrollo
-1. Recolecta artículos de desecho: botellas de vidrio, cajas de cartón, contenedores plásticos, etc.
-2. Usa estos materiales para crear una obra de arte.
+1. Recolectá artículos de desecho: botellas de vidrio, cajas de cartón, contenedores plásticos, etc.
+2. Usá estos materiales para crear una obra de arte.
 3. Pueden hacer un monstruo de basura en 3-D o un fantástico mural.
 4. ¡Sean tan creativos como puedan!
 
 ## Cierre
-1. Exhibe tu obra en un lugar público.
-2. Reflexiona: ¿Cómo se sintió crear arte con materiales reciclados?
-3. Pregunta final: ¿Cómo puedes seguir animando a otros a reciclar?
+1. Exhibí tu obra en un lugar público.
+2. Reflexioná: ¿Cómo se sintió crear arte con materiales reciclados?
+3. Pregunta final: ¿Cómo podés seguir animando a otros a reciclar?
 
 ## Texto original completo de la actividad
 E.15 Arte reciclado. Ya conoces la importancia de reciclar y cómo puede ayudar a nuestro planeta a conservar sus recursos. ¡Es hora de pasar la voz! Con tu clase o grupo, recolecten varios artículos de desecho, por ejemplo, botellas de vidrio, cajas de cartón, contenedores plásticos, etc., y úsenlos para crear una obra de arte. Podrían hacer un monstruo de basura en 3-D o un fantástico mural que muestre una imagen. ¡Sean tan creativos como puedan! Asegúrense de hacerlo en un lugar público para que puedan crear conciencia y animar a su familia, sus amigos y a los miembros de su comunidad a reciclar.
@@ -192,16 +192,3 @@ E.15 Arte reciclado. Ya conoces la importancia de reciclar y cómo puede ayudar 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

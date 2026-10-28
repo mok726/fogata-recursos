@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudios sobre desastres"
+title: "Estudios sobre Desastres"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudios-sobre-desastres/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/estudios-sobre-desastres.png"
+image: "/imagenes/actividades/estudios-sobre-desastres.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -163,7 +163,7 @@ rama_rovers:
   - 10  # Contribuyo a la resolución de conflictos
 ---
 
-# ¡Estudios sobre desastres!
+# ¡Estudios sobre Desastres!
 
 ## Resumen
 ¿Tu ciudad es susceptible a algún tipo de desastre, como terremotos o inundaciones? Evaluá qué tan resiliente es tu ciudad frente al desastre al que es más vulnerable. Por ejemplo, ¿hay sistemas de alerta temprana efectivos? ¿Los edificios son sismorresistentes? ¿Hay mecanismos de prevención de inundaciones?
@@ -212,20 +212,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -4,7 +4,7 @@ title: "Reportaje sobre el Carbono"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/reportaje-sobre-el-carbono/"
-description: "Prepara un noticiario para educar a las personas sobre los mercados de carbono y las compensaciones de carbono. Preséntalo como una transmisión en vivo de radio, televisión o en línea."
+description: "Prepará un noticiario para educar a las personas sobre los mercados de carbono y las compensaciones de carbono. Presentalo como una transmisión en vivo de radio, televisión o en línea."
 summary: "Creación de un noticiario sobre mercados de carbono."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/reportaje-sobre-el-carbono.png"
+image: "/imagenes/actividades/reportaje-sobre-el-carbono.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -165,36 +165,23 @@ rama_rovers:
 # Reportaje sobre el Carbono
 
 ## Resumen
-Prepara un noticiario para educar a las personas sobre los mercados de carbono y las compensaciones de carbono. Preséntalo como una transmisión en vivo de radio, televisión o en línea.
+Prepará un noticiario para educar a las personas sobre los mercados de carbono y las compensaciones de carbono. Presentalo como una transmisión en vivo de radio, televisión o en línea.
 
 ## Preparación
-1. Investiga sobre mercados de carbono y compensaciones de carbono.
-2. Define el formato del noticiario (radio, televisión o en línea).
-3. Prepara un guión con la información clave.
-4. Consigue el equipo necesario para la grabación.
+1. Investigá sobre mercados de carbono y compensaciones de carbono.
+2. Definí el formato del noticiario (radio, televisión o en línea).
+3. Prepará un guión con la información clave.
+4. Conseguí el equipo necesario para la grabación.
 
 ## Desarrollo
-1. **Investigación** (30 min): Aprende sobre mercados de carbono, compensaciones y su relación con los bosques.
-2. **Guión** (30 min): Escribe un guión claro y educativo para el noticiario.
-3. **Producción** (45 min): Graba el noticiario en el formato elegido.
-4. **Presentación** (15 min): Comparte el noticiario con tu grupo o comunidad.
+1. **Investigación** (30 min): Aprendé sobre mercados de carbono, compensaciones y su relación con los bosques.
+2. **Guión** (30 min): Escribí un guión claro y educativo para el noticiario.
+3. **Producción** (45 min): Grabá el noticiario en el formato elegido.
+4. **Presentación** (15 min): Compartí el noticiario con tu grupo o comunidad.
 
 ## Cierre
 - ¿Qué aprendiste sobre los mercados de carbono y su importancia?
 - ¿Cómo pueden las compensaciones de carbono ayudar a proteger los bosques?
-- ¿Qué otras acciones puedes tomar para educar sobre el cambio climático?
+- ¿Qué otras acciones podés tomar para educar sobre el cambio climático?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

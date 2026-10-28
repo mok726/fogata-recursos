@@ -1,9 +1,9 @@
 ---
-title: "Estudia una Amenaza"
+title: "Estudiá una Amenaza"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudia-una-amenaza/"
-description: "Investiga un tipo de amenaza natural y aprende todo sobre ella: causas, frecuencia, daños y cómo las personas se preparan."
+description: "Investigá un tipo de amenaza natural y aprendé todo sobre ella: causas, frecuencia, daños y cómo las personas se preparan."
 summary: "Investigación sobre amenazas naturales."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/estudia-una-amenaza.png"
+image: "/imagenes/actividades/estudia-una-amenaza.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos para tomar notas
+  - Papel y lapiceras para tomar notas
   - Materiales para presentación (opcional)
 tools: []
 responsible:
@@ -158,15 +158,15 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal.
 ---
 
-# ¡Estudia una Amenaza!
+# ¡Estudiá una Amenaza!
 
 ## Resumen
-Forma un equipo con un compañero y elijan un tipo de amenaza natural para estudiar. Aprendan todo sobre ella: qué la causa, dónde y con qué frecuencia ocurre, qué daños puede causar y cómo las personas se preparan para reducir su impacto.
+Formá un equipo con un compañero y elijan un tipo de amenaza natural para estudiar. Aprendan todo sobre ella: qué la causa, dónde y con qué frecuencia ocurre, qué daños puede causar y cómo las personas se preparan para reducir su impacto.
 
 ## Preparación
-1. Reúnete con tu compañero y elijan una amenaza.
-2. Prepara materiales para tomar notas.
-3. Accede a recursos en línea.
+1. Reunite con tu compañero y elijan una amenaza.
+2. Prepará materiales para tomar notas.
+3. Accedé a recursos en línea.
 
 ## Desarrollo
 1. **Selección** (5 min): Elijan una amenaza (inundaciones, terremotos, tsunamis, volcanes u otra).
@@ -187,16 +187,3 @@ Forma un equipo con un compañero y elijan un tipo de amenaza natural para estud
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Construí un hotel para abejas"
+title: "Construí un Hotel para Abejas"
 duration: "2 horas + seguimiento"
 layout: "layouts/activity.njk"
 permalink: "/activities/construi-un-hotel-para-abejas/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/construi-un-hotel-para-abejas.png"
+image: "/imagenes/actividades/construi-un-hotel-para-abejas.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -178,7 +178,7 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Construí un hotel para abejas!
+# ¡Construí un Hotel para Abejas!
 
 ## Resumen
 Seguí los pasos para construir un hotel para abejas en tu hogar, escuela o jardín comunitario. Luego, monitorealo durante los próximos días. ¿Está atrayendo abejas? ¿Podés reconocer qué tipos de abejas están llegando?
@@ -192,7 +192,9 @@ Seguí los pasos para construir un hotel para abejas en tu hogar, escuela o jard
 1. Taladrá agujeros en bloques de madera de diferentes diámetros (0,25 a 0,6 cm).
 2. Insertá los bloques de madera en el contenedor.
 3. Agregá pajitas o tallos naturales como bambú.
-4. Colgá el hotel al aire libre, orientado al sur o sureste.
+
+> **Nota para el educador:** conviene usar tubos de papel o tallos naturales (bambú, caña, junco) en lugar de pajitas de plástico: el plástico junta humedad y favorece los hongos. La hoja de actividad del hotel está en la p. 117 del cuadernillo de FAO (en inglés): https://doi.org/10.4060/cb4803en
+4. Colgá el hotel al aire libre, orientado hacia el sol de la mañana (norte o noreste en el hemisferio sur; sur o sureste en el hemisferio norte).
 5. Observá el hotel durante los próximos días.
 
 ## Cierre
@@ -226,20 +228,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

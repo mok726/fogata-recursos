@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Aprende a Conseguir Agua Potable"
+title: "Aprendé a Conseguir Agua Potable"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/aprende-a-conseguir-agua-potable/"
-description: "Aprende diferentes métodos para potabilizar el agua y hacerla segura para beber."
+description: "Aprendé diferentes métodos para potabilizar el agua y hacerla segura para beber."
 summary: "Métodos para potabilizar agua."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/aprende-a-conseguir-agua-potable.png"
+image: "/imagenes/actividades/aprende-a-conseguir-agua-potable.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -172,21 +172,21 @@ rama_rovers:
   - 7   # Aplico técnicas y tecnologías de la información disponibles.
 ---
 
-# Aprende a Conseguir Agua Potable
+# Aprendé a Conseguir Agua Potable
 
 ## Resumen
-Aprende diferentes métodos para potabilizar el agua y hacerla segura para beber.
+Aprendé diferentes métodos para potabilizar el agua y hacerla segura para beber.
 
 ## Preparación
-1. Investiga cómo potabilizar el agua.
-2. Aprende métodos para destruir gérmenes (filtración, hervir, exposición solar, cloro).
-3. Accede a los recursos sugeridos.
+1. Investigá cómo potabilizar el agua.
+2. Aprendé métodos para destruir gérmenes (filtración, hervir, exposición solar, cloro).
+3. Accedé a los recursos sugeridos.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende diferentes métodos de potabilización.
-2. **Comparación** (15 min): Compara los métodos en efectividad y accesibilidad.
+1. **Investigación** (20 min): Aprendé diferentes métodos de potabilización.
+2. **Comparación** (15 min): Compará los métodos en efectividad y accesibilidad.
 3. **Práctica** (15 min): Si es posible, practica un método seguro.
-4. **Presentación** (15 min): Comparte lo aprendido con el grupo.
+4. **Presentación** (15 min): Compartí lo aprendido con el grupo.
 
 ## Cierre
 - ¿Qué métodos de potabilización son más efectivos?
@@ -194,16 +194,3 @@ Aprende diferentes métodos para potabilizar el agua y hacerla segura para beber
 - ¿Qué compromiso adquieres para asegurar el acceso a agua potable?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

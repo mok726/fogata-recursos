@@ -4,7 +4,7 @@ title: "Cadenas Alimentarias"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/cadenas-alimentarias/"
-description: "Investiga las etapas de producción de un alimento y crea una cadena alimentaria con dibujos."
+description: "Investigá las etapas de producción de un alimento y creá una cadena alimentaria con dibujos."
 summary: "Investigación sobre la producción de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cadenas-alimentarias.png"
+image: "/imagenes/actividades/cadenas-alimentarias.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -173,19 +173,19 @@ rama_rovers:
 # Cadenas Alimentarias
 
 ## Resumen
-Investiga las etapas de producción de un alimento y crea una cadena alimentaria con dibujos.
+Investigá las etapas de producción de un alimento y creá una cadena alimentaria con dibujos.
 
 ## Preparación
-1. Elige un alimento que consumes frecuentemente.
-2. Investiga las etapas de su producción.
-3. Prepara cartulina, marcadores y cuerda.
+1. Elegí un alimento que consumís frecuentemente.
+2. Investigá las etapas de su producción.
+3. Prepará cartulina, marcadores y cuerda.
 
 ## Desarrollo
-1. **Investigación** (15 min): Investiga las etapas de producción del alimento elegido.
-2. **Dibujo** (20 min): Dibuja cada etapa en círculos de cartulina.
+1. **Investigación** (15 min): Investigá las etapas de producción del alimento elegido.
+2. **Dibujo** (20 min): Dibujá cada etapa en círculos de cartulina.
 3. **Creación** (10 min): Une los círculos con cuerda para formar la cadena.
-4. **Presentación** (15 min): Comparte y explica tu cadena alimentaria.
-5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Visita una granja local o una fábrica de procesamiento de alimentos. Describe los procesos que viste.
+4. **Presentación** (15 min): Compartí y explicá tu cadena alimentaria.
+5. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Visitá una granja local o una fábrica de procesamiento de alimentos. Describí los procesos que viste.
 
 ## Cierre
 - ¿Qué aprendiste sobre la producción de alimentos?
@@ -193,16 +193,3 @@ Investiga las etapas de producción de un alimento y crea una cadena alimentaria
 - ¿Qué compromiso adquieres para valorar el sistema alimentario?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

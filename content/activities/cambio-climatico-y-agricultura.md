@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Cambio climático y agricultura"
+title: "Cambio Climático y Agricultura"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/cambio-climatico-y-agricultura/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cambio-climatico-y-agricultura.png"
+image: "/imagenes/actividades/cambio-climatico-y-agricultura.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡Cambio climático y agricultura!
+# ¡Cambio Climático y Agricultura!
 
 ## Resumen
-La agricultura, la pesca y la silvicultura son fundamentales para proporcionarnos alimentos y otros recursos. Discute con tu grupo cómo el cambio climático podría afectar a la producción de alimentos en tu país y tu región.
+La agricultura, la pesca y la silvicultura son fundamentales para proporcionarnos alimentos y otros recursos. Discutí con tu grupo cómo el cambio climático podría afectar a la producción de alimentos en tu país y tu región.
 
 ## Preparación
-1. Investiga sobre la agricultura, pesca y silvicultura en tu país.
-2. Prepara información sobre impactos del cambio climático en estos sectores.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre la agricultura, pesca y silvicultura en tu país.
+2. Prepará información sobre impactos del cambio climático en estos sectores.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cómo afecta el cambio climático a la producción de alimentos?
-2. Investiga: ¿Qué opciones existen para garantizar la seguridad alimentaria?
-3. Reflexiona: ¿Qué desafíos enfrentan los trabajadores rurales?
-4. Prepárate para la discusión grupal.
+1. Investigá: ¿Cómo afecta el cambio climático a la producción de alimentos?
+2. Investigá: ¿Qué opciones existen para garantizar la seguridad alimentaria?
+3. Reflexioná: ¿Qué desafíos enfrentan los trabajadores rurales?
+4. Preparate para la discusión grupal.
 
 ## Cierre
-1. Participa en la discusión grupal.
-2. Comparte tus hallazgos y reflexiones.
+1. Participá en la discusión grupal.
+2. Compartí tus hallazgos y reflexiones.
 3. Pregunta final: ¿Qué podemos hacer para garantizar la seguridad alimentaria en un clima cambiante?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ C.02 CAMBIO CLIMÁTICO Y AGRICULTURA. La agricultura, la pesca y la silvicultura
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

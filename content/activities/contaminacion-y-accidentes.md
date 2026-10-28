@@ -3,7 +3,7 @@ title: "Contaminación y Accidentes"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/contaminacion-y-accidentes/"
-description: "Investiga un incidente de contaminación marina y crea un cartel ilustrando la secuencia de eventos y sus efectos."
+description: "Investigá un incidente de contaminación marina y creá un cartel ilustrando la secuencia de eventos y sus efectos."
 summary: "Investigación sobre contaminación marina."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/contaminacion-y-accidentes.png"
+image: "/imagenes/actividades/contaminacion-y-accidentes.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet o libros de referencia
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Lápices o pinturas de colores
   - Cámara (opcional)
 tools: []
@@ -156,18 +156,18 @@ rama_rovers:
 # ¡Contaminación y Accidentes!
 
 ## Resumen
-Investiga un incidente grave de contaminación marina en tu área o en el mundo, y crea un cartel que ilustre la secuencia de eventos y sus efectos.
+Investigá un incidente grave de contaminación marina en tu área o en el mundo, y creá un cartel que ilustre la secuencia de eventos y sus efectos.
 
 ## Preparación
-1. Investiga incidentes de contaminación marina.
-2. Elige uno que te interese particularmente.
-3. Reúne materiales para el cartel.
+1. Investigá incidentes de contaminación marina.
+2. Elegí uno que te interese particularmente.
+3. Reuní materiales para el cartel.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga el incidente elegido.
-2. **Planificación** (10 min): Organiza la secuencia de eventos.
-3. **Creación** (25 min): Diseña y crea un cartel ilustrado.
-4. **Presentación** (5 min): Comparte tu cartel con el grupo.
+1. **Investigación** (20 min): Investigá el incidente elegido.
+2. **Planificación** (10 min): Organizá la secuencia de eventos.
+3. **Creación** (25 min): Diseñá y creá un cartel ilustrado.
+4. **Presentación** (5 min): Compartí tu cartel con el grupo.
 
 ## Extensión
 Si trabajan en grupos más pequeños, pueden crear carteles para diferentes incidentes y luego compararlos. ¿Cuáles incidentes fueron manejados más satisfactoriamente? ¿Cuáles son todavía un problema?
@@ -191,16 +191,3 @@ Extensión: si trabajan en grupos más pequeños, pueden crear carteles para dif
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

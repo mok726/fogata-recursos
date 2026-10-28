@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Purificación de agua (SODIS)"
+title: "Purificación de Agua (SODIS)"
 duration: "15 minutos + 6 horas de exposición"
 layout: "layouts/activity.njk"
 permalink: "/activities/purificacion-agua-sodis/"
@@ -17,7 +17,7 @@ source:
   - Scouts de Argentina - Desafío Scouts Go Solar
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/purificacion-agua-sodis.png"
+image: "/imagenes/actividades/purificacion-agua-sodis.jpg"
 original: false
 Origin: "Scouts Go Solar - Manual de Energía Solar - Solafrica"
 version: "0.99"
@@ -166,7 +166,7 @@ rama_rovers:
   - 8   # Busco y evalúo el valor de diversas fuentes de información
 ---
 
-# ¡Purificación de agua (SODIS)!
+# ¡Purificación de Agua (SODIS)!
 
 ## Resumen
 El método SODIS (Solar Water Disinfection) utiliza la energía del Sol para purificar agua. Es una técnica simple y efectiva que puede salvar vidas en situaciones de emergencia.
@@ -174,7 +174,7 @@ El método SODIS (Solar Water Disinfection) utiliza la energía del Sol para pur
 ## Seguridad
 - No tomes agua de fuentes naturales a menos que sepas que es seguro.
 - No bebas el agua hasta que haya completado el proceso de purificación.
-- Asegúrate de que la botella esté limpia.
+- Asegurate de que la botella esté limpia.
 
 ## Preparación
 1. Consigan una botella de PET transparente o de vidrio limpia.
@@ -197,6 +197,12 @@ Agiten la botella por 20 segundos y luego completen el agua que falta para llena
 Pongan la botella con agua al sol durante 6 horas sobre una superficie reflectante, puede ser una chapa.
 
 El agua quedará perfectamente purificada y puede ser utilizada como agua potable.
+
+> **Nota de seguridad para el educador:** SODIS **desinfecta** (elimina bacterias, virus y parásitos), pero no elimina químicos como arsénico, agroquímicos o combustibles. Para que funcione:
+> - El agua tiene que ser poco turbia. Si está turbia, filtrala antes con una tela o dejala decantar.
+> - Usá botellas de PET o vidrio **transparentes**, de 1 a 2 litros, sin rayones ni etiquetas. No sirven las de color.
+> - 6 horas con sol pleno. Si está nublado, **2 días seguidos**.
+> - Con chicos, conviene hacerlo como experimento demostrativo y no tomar el agua, salvo que sepas que la fuente no tiene contaminación química.
 
 ## Cierre
 1. ¿Cómo funciona el método SODIS?
@@ -229,17 +235,3 @@ El agua quedará perfectamente purificada y puede ser utilizada como agua potabl
 Scouts de Argentina. 2021. Desafío Scouts Go Solar - Manual de Energía Solar. Tribu Tierra - Mundo Mejor.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

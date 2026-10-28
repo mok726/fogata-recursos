@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/dibujando-el-agua.png"
+image: "/imagenes/actividades/dibujando-el-agua.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -154,17 +154,17 @@ rama_rovers: []
 # ¡Dibujando el Agua!
 
 ## Resumen
-Usa el glosario para jugar un juego de Pictionary con palabras relacionadas con el agua.
+Usá el glosario para jugar un juego de Pictionary con palabras relacionadas con el agua.
 
 ## Preparación
-1. Revisa el glosario de palabras relacionadas con el agua.
-2. Divide al grupo en dos o más equipos.
-3. Prepara papel y lápices.
+1. Revisá el glosario de palabras relacionadas con el agua.
+2. Dividí al grupo en dos o más equipos.
+3. Prepará papel y lápices.
 
 ## Desarrollo
-1. **Preparación** (5 min): Divide las palabras entre los equipos.
+1. **Preparación** (5 min): Dividí las palabras entre los equipos.
 2. **Juego** (20 min): Un jugador dibuja mientras su equipo adivina.
-3. **Puntuación** (5 min): Cuenta los puntos y anuncia al ganador.
+3. **Puntuación** (5 min): Contá los puntos y anuncia al ganador.
 
 ## Cierre
 - ¿Qué palabra fue la más difícil de dibujar?
@@ -179,16 +179,3 @@ Usa el glosario para jugar un juego de Pictionary con palabras relacionadas con 
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

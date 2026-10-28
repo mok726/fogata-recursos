@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Escalada de montaña"
+title: "Escalada de Montaña"
 duration: "3 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/escalada-de-montana/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/escalada-de-montana.png"
+image: "/imagenes/actividades/escalada-de-montana.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -162,25 +162,25 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Escalada de montaña!
+# ¡Escalada de Montaña!
 
 ## Resumen
 Escalen una montaña. Observen la vida vegetal y animal durante su caminata. ¿Qué tipo de cambios pueden ver a diferentes altitudes? ¿Cómo cambia la temperatura, la humedad y el viento? ¿Se pueden encontrar las mismas especies en la base y en la cima de la montaña? ¿Por qué sí o por qué no?
 
 ## Preparación
-1. Identifica una montaña o colina para escalar.
-2. Prepara materiales para registrar.
-3. Organiza la salida.
+1. Identificá una montaña o colina para escalar.
+2. Prepará materiales para registrar.
+3. Organizá la salida.
 
 ## Desarrollo
 1. Asciende la montaña.
-2. Observa la vida vegetal y animal en diferentes altitudes.
-3. Registra los cambios en temperatura, humedad y viento.
-4. Compara las especies de la base y la cima.
+2. Observá la vida vegetal y animal en diferentes altitudes.
+3. Registrá los cambios en temperatura, humedad y viento.
+4. Compará las especies de la base y la cima.
 
 ## Cierre
 1. Discutan sus hallazgos en grupo.
-2. Reflexiona: ¿Cómo cambia la biodiversidad con la altitud?
+2. Reflexioná: ¿Cómo cambia la biodiversidad con la altitud?
 3. Pregunta final: ¿Qué factores influyen en la distribución de especies en la montaña?
 
 ## Texto original completo de la actividad
@@ -189,16 +189,3 @@ C.26 Escalen una montaña. Observen la vida vegetal y animal durante su caminata
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

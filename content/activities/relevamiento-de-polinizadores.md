@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Relevamiento de polinizadores"
+title: "Relevamiento de Polinizadores"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/relevamiento-de-polinizadores/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/relevamiento-de-polinizadores.png"
+image: "/imagenes/actividades/relevamiento-de-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -169,7 +169,7 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Relevamiento de polinizadores!
+# ¡Relevamiento de Polinizadores!
 
 ## Resumen
 Salí al aire libre, ya sea en tu jardín, un parque local, el jardín de tu escuela o un jardín comunitario. Seguí los pasos para realizar un relevamiento de polinizadores. Identificá tantos polinizadores como puedas: abejas, pájaros, mariposas, mosquitos o ardillas.
@@ -178,6 +178,8 @@ Salí al aire libre, ya sea en tu jardín, un parque local, el jardín de tu esc
 1. Prepará tu cuaderno y lápices para registrar observaciones.
 2. Descargá o imprimí la plantilla de relevamiento.
 3. Asegurate de tener agua y protección solar.
+
+> **Nota para el educador:** los pasos del relevamiento están en la p. 111 del cuadernillo de FAO (en inglés): https://doi.org/10.4060/cb4803en. Las ardillas que nombra el original no son polinizadoras típicas; como ejemplos de vertebrados polinizadores sirven mejor los picaflores y algunos murciélagos.
 
 ## Desarrollo
 1. Elegí un área para tu relevamiento.
@@ -219,20 +221,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,9 +1,9 @@
 ---
-title: "¿Cuál es la Más Aterradora de Todas?"
+title: "¿Cuál Es la Más Aterradora de Todas?"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cual-es-la-mas-aterradora/"
-description: "Comparte ideas sobre cuál amenaza natural consideras más aterradora y diseña un superpoder para protegerte de ella."
+description: "Compartí ideas sobre cuál amenaza natural considerás más aterradora y diseñá un superpoder para protegerte de ella."
 summary: "Reflexión sobre amenazas y superpoderes."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/cual-es-la-mas-aterradora.png"
+image: "/imagenes/actividades/cual-es-la-mas-aterradora.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -137,22 +137,22 @@ rama_caminantes: []
 rama_rovers: []
 ---
 
-# ¿Cuál es la Más Aterradora de Todas?
+# ¿Cuál Es la Más Aterradora de Todas?
 
 ## Resumen
-Comparte tus ideas sobre cuál amenaza natural consideras más aterradora, explica por qué y diseña un superpoder que te mantendría a salvo.
+Compartí tus ideas sobre cuál amenaza natural considerás más aterradora, explicá por qué y diseñá un superpoder que te mantendría a salvo.
 
 ## Preparación
 - Siéntate en círculo con tu grupo.
-- Piensa en las diferentes amenazas que has aprendido.
+- Pensá en las diferentes amenazas que has aprendido.
 
 ## Desarrollo
 1. **Compartir** (10 min): Cada persona dice cuál amenaza considera la más aterradora y por qué.
-2. **Crear** (15 min): Inventa un superpoder que te protegería de esa amenaza.
-3. **Presentar** (5 min): Comparte tu superpoder con el grupo.
+2. **Crear** (15 min): Inventá un superpoder que te protegería de esa amenaza.
+3. **Presentar** (5 min): Compartí tu superpoder con el grupo.
 
 ## Cierre
-- ¿Qué amenaza crees que es la más aterradora?
+- ¿Qué amenaza creés que es la más aterradora?
 - ¿Cómo te ayudaría tu superpoder a mantenerte a salvo?
 
 ---
@@ -164,16 +164,3 @@ Comparte tus ideas sobre cuál amenaza natural consideras más aterradora, expli
 nivel 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

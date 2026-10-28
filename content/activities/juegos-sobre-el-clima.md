@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Juegos sobre el clima"
+title: "Juegos sobre el Clima"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/juegos-sobre-el-clima/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/juegos-sobre-el-clima.png"
+image: "/imagenes/actividades/juegos-sobre-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -163,15 +163,15 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Juegos sobre el clima!
+# ¡Juegos sobre el Clima!
 
 ## Resumen
-Usa el glosario al final de esta insignia para jugar un juego de 'Pictionary de Cambio Climático'.
+Usá el glosario al final de esta insignia para jugar un juego de 'Pictionary de Cambio Climático'.
 
 ## Preparación
-1. Prepara las tarjetas con palabras del glosario.
-2. Forma dos o más equipos.
-3. Revisa las reglas del juego.
+1. Prepará las tarjetas con palabras del glosario.
+2. Formá dos o más equipos.
+3. Revisá las reglas del juego.
 
 ## Desarrollo
 1. Dividan las palabras entre los equipos.
@@ -180,8 +180,8 @@ Usa el glosario al final de esta insignia para jugar un juego de 'Pictionary de 
 4. Si no saben las reglas, pueden encontrarlas en el sitio Web proporcionado.
 
 ## Cierre
-1. Reflexiona: ¿Qué palabras fueron más fáciles o difíciles de dibujar?
-2. Repasa el significado de las palabras que aparecieron.
+1. Reflexioná: ¿Qué palabras fueron más fáciles o difíciles de dibujar?
+2. Repasá el significado de las palabras que aparecieron.
 3. Pregunta final: ¿Qué palabra nueva aprendiste hoy?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ D.05 JUEGOS SOBRE EL CLIMA. Usa el glosario al final de esta insignia para jugar
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

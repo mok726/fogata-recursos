@@ -4,7 +4,7 @@ title: "Tu Deporte"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/tu-deporte/"
-description: "Inventa un deporte y juégalo en el bosque. ¿Cómo ayuda el medio ambiente del bosque a tu deporte?"
+description: "Inventá un deporte y jugalo en el bosque. ¿Cómo ayuda el medio ambiente del bosque a tu deporte?"
 summary: "Creación de un deporte forestal."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tu-deporte.png"
+image: "/imagenes/actividades/tu-deporte.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -167,18 +167,18 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Tu Deporte
 
 ## Resumen
-Inventa un deporte y juégalo en el bosque. ¿Cómo ayuda el medio ambiente del bosque a tu deporte?
+Inventá un deporte y jugalo en el bosque. ¿Cómo ayuda el medio ambiente del bosque a tu deporte?
 
 ## Preparación
-1. Reúne tu grupo en un área boscosa.
-2. Piensa en cómo el bosque puede ser parte del deporte.
-3. Define las reglas básicas.
+1. Reuní tu grupo en un área boscosa.
+2. Pensá en cómo el bosque puede ser parte del deporte.
+3. Definí las reglas básicas.
 
 ## Desarrollo
-1. **Invención** (15 min): Inventa un deporte que use el bosque como parte del juego.
-2. **Prueba** (20 min): Juega el deporte con tu grupo.
+1. **Invención** (15 min): Inventá un deporte que use el bosque como parte del juego.
+2. **Prueba** (20 min): Jugá el deporte con tu grupo.
 3. **Ajuste** (10 min): Modifica las reglas según sea necesario.
-4. **Juego final** (20 min): Juega el deporte con las reglas finales.
+4. **Juego final** (20 min): Jugá el deporte con las reglas finales.
 
 ## Cierre
 - ¿Qué deporte inventaste y cómo usó el bosque?
@@ -186,16 +186,3 @@ Inventa un deporte y juégalo en el bosque. ¿Cómo ayuda el medio ambiente del 
 - ¿Qué aprendiste sobre la creatividad y el trabajo en equipo?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

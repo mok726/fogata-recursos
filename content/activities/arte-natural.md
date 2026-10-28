@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Arte natural"
+title: "Arte Natural"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/arte-natural/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/arte-natural.png"
+image: "/imagenes/actividades/arte-natural.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -160,24 +160,24 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Arte natural!
+# ¡Arte Natural!
 
 ## Resumen
-Elabora un objeto de arte con materiales naturales. Anima a otros miembros de tu grupo a que ellos también lo hagan. Presenten y expongan sus creaciones en una exhibición de arte natural, incluyan historias sobre los materiales y el mensaje que quiere transmitir su arte.
+Elaborá un objeto de arte con materiales naturales. Animá a otros miembros de tu grupo a que ellos también lo hagan. Presenten y expongan sus creaciones en una exhibición de arte natural, incluyan historias sobre los materiales y el mensaje que quiere transmitir su arte.
 
 ## Preparación
-1. Recoge materiales naturales.
-2. Prepara espacio para crear.
-3. Organiza la exhibición.
+1. Recogé materiales naturales.
+2. Prepará espacio para crear.
+3. Organizá la exhibición.
 
 ## Desarrollo
-1. Crea una obra de arte con materiales naturales.
-2. Escribe una historia sobre los materiales usados.
-3. Define el mensaje de tu arte.
+1. Creá una obra de arte con materiales naturales.
+2. Escribí una historia sobre los materiales usados.
+3. Definí el mensaje de tu arte.
 
 ## Cierre
-1. Participa en la exhibición de arte natural.
-2. Reflexiona: ¿Qué mensaje transmite tu obra?
+1. Participá en la exhibición de arte natural.
+2. Reflexioná: ¿Qué mensaje transmite tu obra?
 3. Pregunta final: ¿Cómo puede el arte inspirar la conservación?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ D.17 Elabora un objeto de arte con materiales naturales. Anima a otros miembros 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

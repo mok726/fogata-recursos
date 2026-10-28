@@ -1,9 +1,9 @@
 ---
-title: "Comunícate"
+title: "Comunicate"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/comunicate-rrd/"
-description: "Crea una propuesta para mejorar la RRD en tu comunidad y preséntala a las autoridades."
+description: "Creá una propuesta para mejorar la RRD en tu comunidad y presentala a las autoridades."
 summary: "Propuesta comunitaria de RRD para autoridades."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/comunicate-rrd.png"
+image: "/imagenes/actividades/comunicate-rrd.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Acceso a internet
 tools: []
 responsible:
@@ -147,21 +147,21 @@ rama_rovers:
   - 24  # Defiendo y promuevo el respeto a las reglas de la democracia.
 ---
 
-# ¡Comunícate!
+# ¡Comunicate!
 
 ## Resumen
-Crea una propuesta sobre cómo la RRD podría incorporarse mejor en tu comunidad y preséntala a las autoridades locales.
+Creá una propuesta sobre cómo la RRD podría incorporarse mejor en tu comunidad y presentala a las autoridades locales.
 
 ## Preparación
-1. Evalúa si tu comunidad está haciendo lo suficiente en RRD.
-2. Identifica áreas de mejora.
-3. Prepara la propuesta y la carta.
+1. Evaluá si tu comunidad está haciendo lo suficiente en RRD.
+2. Identificá áreas de mejora.
+3. Prepará la propuesta y la carta.
 
 ## Desarrollo
-1. **Investigación** (20 min): Analiza la situación local.
-2. **Propuesta** (20 min): Escribe tu propuesta detallada.
+1. **Investigación** (20 min): Analizá la situación local.
+2. **Propuesta** (20 min): Escribí tu propuesta detallada.
 3. **Carta** (15 min): Redacta una carta a las autoridades.
-4. **Entrega** (5 min): Envía o entrega la carta.
+4. **Entrega** (5 min): Enviá o entregá la carta.
 
 ## Cierre
 - ¿Qué cambios propones para tu comunidad?
@@ -178,16 +178,3 @@ nivel 3 2
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Paz, Justicia e Instituciones Fuertes.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

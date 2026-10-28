@@ -5,7 +5,7 @@ duration: "1 hora (visita o charla)"
 layout: "layouts/activity.njk"
 permalink: "/activities/tratamiento-del-agua/"
 description: "Los participantes aprenden cómo el agua entra y sale de los hogares, y cómo es tratada antes y después de su uso a través de una visita o charla con un experto local."
-summary: "Aprende cómo se trata el agua."
+summary: "Aprendé cómo se trata el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tratamiento-del-agua.png"
+image: "/imagenes/actividades/tratamiento-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -51,7 +51,7 @@ sdgs:
 # ========== INSIGNIAS / CÓDIGO ==========
 activity_badges:
   - agua
-activity_code: "agua-B41"
+activity_code: "agua-B38"
 required: false
 required_for: []
 required_comment: ""
@@ -169,18 +169,18 @@ translation_notice:
 Los ríos y lagos son fuentes de agua para las áreas locales. Las muestras de agua recolectadas de estas fuentes a menudo se ven turbias. Las muestras pueden verse claras y aún contener fuentes invisibles de contaminación. Los ríos y lagos deben ser monitoreados para detectar contaminación. El agua que ingresa al suministro local debe limpiarse antes de poder usarse y también debe limpiarse después de ser utilizada. En esta actividad, los participantes aprenden cómo se trata el agua a través de una visita o charla con un experto local.
 
 ## Preparación
-1. Invita a un representante de tu departamento local de agua a tu escuela o lugar de reunión para que explique cómo se distribuye el agua a la comunidad y cómo se trata una vez que ha sido utilizada.
-2. Antes de ese día, anima a tu grupo a pensar en las cosas que podrían querer saber y ayúdales a preparar algunas preguntas.
+1. Invitá a un representante de tu departamento local de agua a tu escuela o lugar de reunión para que explique cómo se distribuye el agua a la comunidad y cómo se trata una vez que ha sido utilizada.
+2. Antes de ese día, anima a tu grupo a pensar en las cosas que podrían querer saber y ayudales a preparar algunas preguntas.
 
 ## Desarrollo
 
 ### Paso 1: Preparación de preguntas
-1. Explica a tu grupo que recibirán la visita de un experto en tratamiento de agua.
-2. Ayuda a los participantes a preparar preguntas sobre el proceso de tratamiento y distribución del agua.
+1. Explicá a tu grupo que recibirán la visita de un experto en tratamiento de agua.
+2. Ayudá a los participantes a preparar preguntas sobre el proceso de tratamiento y distribución del agua.
 
 ### Paso 2: Charla del experto
-3. Recibe al representante del departamento de agua.
-4. Anima a los participantes a tomar notas y hacer preguntas.
+3. Recibí al representante del departamento de agua.
+4. Animá a los participantes a tomar notas y hacer preguntas.
 
 ### Paso 3: Reflexión
 5. Después de la charla, reúne al grupo para reflexionar sobre lo aprendido.
@@ -208,7 +208,7 @@ Los ríos y lagos son fuentes de agua para las áreas locales. Las muestras de a
 ## Cierre
 - ¿Qué podría pasar si alguno de los pasos involucrados en la purificación del suministro de agua municipal no se incluyera?
 - ¿Todos en tu comunidad tienen acceso a agua limpia y fácilmente disponible? ¿Qué pasa con las personas que no tienen acceso a agua suficiente y de buena calidad?
-- ¿Todos tienen que participar en la protección de nuestros recursos hídricos? ¿Qué cosas puedes hacer en casa?
+- ¿Todos tienen que participar en la protección de nuestros recursos hídricos? ¿Qué cosas podés hacer en casa?
 
 ## Texto original completo de la actividad
 
@@ -272,21 +272,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[15,20], scouts[18,21], caminantes[17,18], rovers[22,23])

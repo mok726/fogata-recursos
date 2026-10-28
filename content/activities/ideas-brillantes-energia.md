@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Ideas brillantes para la energía"
+title: "Ideas Brillantes para la Energía"
 duration: "2-3 días"
 layout: "layouts/activity.njk"
 permalink: "/activities/ideas-brillantes-energia/"
-description: "Investiga proyectos de energía sostenible en el mundo (solar, hidroeléctrica) y prepara una presentación para el grupo."
-summary: "Descubre proyectos energéticos innovadores."
+description: "Investigá proyectos de energía sostenible en el mundo (solar, hidroeléctrica) y prepará una presentación para el grupo."
+summary: "Descubrí proyectos energéticos innovadores."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/ideas-brillantes-energia.png"
+image: "/imagenes/actividades/ideas-brillantes-energia.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -162,30 +162,30 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Ideas brillantes para la energía!
+# ¡Ideas Brillantes para la Energía!
 
 ## Resumen
-Hay muchas ideas y proyectos geniales para la eficiencia energética. Por ejemplo, el riego por goteo solar en Benin o una planta hidroeléctrica en Tayikistán que lleva electricidad a hogares y escuelas. Investiga un proyecto y preséntalo.
+Hay muchas ideas y proyectos geniales para la eficiencia energética. Por ejemplo, el riego por goteo solar en Benin o una planta hidroeléctrica en Tayikistán que lleva electricidad a hogares y escuelas. Investigá un proyecto y presentalo.
 
 ## Preparación
-1. Lee la información sobre proyectos energéticos.
-2. Visita el sitio de historias de éxito de SE4ALL.
-3. Elige un proyecto para investigar.
+1. Leé la información sobre proyectos energéticos.
+2. Visitá el sitio de historias de éxito de SE4ALL.
+3. Elegí un proyecto para investigar.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga un proyecto de energía sostenible:
+Investigá un proyecto de energía sostenible:
 
 **Fuente sugerida:** www.sustainableenergyforall.org/about/success-stories
 
 **Ejemplos de proyectos:**
 - Riego por goteo solar en Benin
-- Planta hidroeléctrica comunitaria en Tayikistán
+- Plantá hidroeléctrica comunitaria en Tayikistán
 - Paneles solares en escuelas de África
 
 ### Parte II - Preparar presentación
-Crea una presentación sobre el proyecto:
+Creá una presentación sobre el proyecto:
 
 **Elementos sugeridos:**
 - ¿Dónde está?
@@ -194,7 +194,7 @@ Crea una presentación sobre el proyecto:
 - ¿Podría implementarse en tu área?
 
 ### Parte III - Compartir
-Presenta tu proyecto al grupo.
+Presentá tu proyecto al grupo.
 
 ## Cierre
 1. ¿Qué proyecto te pareció más inspirador?
@@ -229,20 +229,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

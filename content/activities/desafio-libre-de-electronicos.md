@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Desafío libre de electrónicos"
+title: "Desafío Libre de Electrónicos"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/desafio-libre-de-electronicos/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/desafio-libre-de-electronicos.png"
+image: "/imagenes/actividades/desafio-libre-de-electronicos.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,25 +159,25 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Desafío libre de electrónicos!
+# ¡Desafío Libre de Electrónicos!
 
 ## Resumen
-Muchos jóvenes alrededor del mundo pasan una cantidad de tiempo cada vez mayor usando electrónicos cada día, incluyendo teléfonos móviles, computadores y televisores. ¿Cuánto tiempo pasas usando electrónicos cada día?
+Muchos jóvenes alrededor del mundo pasan una cantidad de tiempo cada vez mayor usando electrónicos cada día, incluyendo celulares, computadoras y televisores. ¿Cuánto tiempo pasás usando electrónicos cada día?
 
 ## Preparación
-1. Prepara una tabla para todo el mes del desafío.
-2. Explica las reglas del desafío al grupo.
-3. Organiza el seguimiento semanal.
+1. Prepará una tabla para todo el mes del desafío.
+2. Explicá las reglas del desafío al grupo.
+3. Organizá el seguimiento semanal.
 
 ## Desarrollo
-1. Aparta una hora cada día (después de la escuela) donde debes prometer realizar actividades que no requieren electricidad.
-2. Elige actividades como: salir a caminar, practicar un deporte, leer un libro, ayudar a tus padres o vecinos, bailar o hacer tus tareas.
-3. Escribe aquello que hiciste durante tu hora libre de electrónicos cada día.
+1. Apartá una hora cada día (después de la escuela) donde debés prometer realizar actividades que no requieren electricidad.
+2. Elegí actividades como: salir a caminar, practicar un deporte, leer un libro, ayudar a tus padres o vecinos, bailar o hacer tus tareas.
+3. Escribí aquello que hiciste durante tu hora libre de electrónicos cada día.
 
 ## Cierre
-1. Comparte tu experiencia con el grupo.
-2. Reflexiona: ¿Cuál fue la parte más difícil? ¿Qué aprendiste?
-3. Pregunta final: ¿Crees que puedes continuar después de que termine el mes?
+1. Compartí tu experiencia con el grupo.
+2. Reflexioná: ¿Cuál fue la parte más difícil? ¿Qué aprendiste?
+3. Pregunta final: ¿Creés que podés continuar después de que termine el mes?
 
 ## Texto original completo de la actividad
 E.11 Desafío libre de electrónicos. Muchos jóvenes alrededor del mundo pasan una cantidad de tiempo cada vez mayor usando electrónicos cada día, incluyendo teléfonos móviles, computadores y televisores. ¿Cuánto tiempo pasas usando electrónicos cada día? Para este desafío, apartarás una hora cada día (esto debe ser después de la escuela) donde debes prometer realizar actividades que no requieren electricidad. Durante esta hora puedes elegir intervenir en actividades como salir a caminar, practicar un deporte, leer un libro, ayudar a tus padres o vecinos, bailar o hacer tus tareas. Haz una tabla para todo el mes de tu desafío y escribe aquello que hiciste durante tu hora libre de electrónicos cada día. ¿Cuál fue la parte más difícil de este desafío? ¿Qué aprendiste de tu desafío libre de electrónicos? ¿Crees que puedes continuar después de que termine el mes de tu desafío o incluso aumentar el tiempo que no utilizas electrónicos cada día?
@@ -185,16 +185,3 @@ E.11 Desafío libre de electrónicos. Muchos jóvenes alrededor del mundo pasan 
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

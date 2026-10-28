@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Puntos calientes de biodiversidad"
+title: "Puntos Calientes de Biodiversidad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/puntos-calientes-de-biodiversidad/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/puntos-calientes-de-biodiversidad.png"
+image: "/imagenes/actividades/puntos-calientes-de-biodiversidad.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,25 +163,25 @@ rama_rovers:
   - 21  # Valoro mi identidad y promuevo la herencia cultural
 ---
 
-# ¡Puntos calientes de biodiversidad!
+# ¡Puntos Calientes de Biodiversidad!
 
 ## Resumen
-¿Qué es un punto caliente (o hotspot) de la biodiversidad? ¿Por qué crees que existen? ¿Dónde se encuentran los puntos calientes de la biodiversidad alrededor del mundo? Toma la prueba de Puntos Calientes de la Biodiversidad en http://planetgreen.discovery.com/games-quizzes/biodiversity-hotspots-quiz
+¿Qué es un punto caliente (o hotspot) de la biodiversidad? ¿Por qué creés que existen? ¿Dónde se encuentran los puntos calientes de la biodiversidad alrededor del mundo? Tomá la prueba de Puntos Calientes de la Biodiversidad en http://planetgreen.discovery.com/games-quizzes/biodiversity-hotspots-quiz
 
 ## Preparación
-1. Investiga sobre puntos calientes de biodiversidad.
-2. Prepara materiales para registrar.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre puntos calientes de biodiversidad.
+2. Prepará materiales para registrar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga qué son los puntos calientes de biodiversidad.
-2. Investiga por qué existen.
-3. Identifica dónde se encuentran alrededor del mundo.
-4. Toma la prueba en línea.
+1. Investigá qué son los puntos calientes de biodiversidad.
+2. Investigá por qué existen.
+3. Identificá dónde se encuentran alrededor del mundo.
+4. Tomá la prueba en línea.
 
 ## Cierre
-1. Comparte tus hallazgos con el grupo.
-2. Reflexiona sobre la importancia de proteger estos lugares.
+1. Compartí tus hallazgos con el grupo.
+2. Reflexioná sobre la importancia de proteger estos lugares.
 3. Pregunta final: ¿Qué punto caliente te gustaría visitar?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ D.11 ¿Qué es un punto caliente (o hotspot) de la biodiversidad? ¿Por qué cre
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

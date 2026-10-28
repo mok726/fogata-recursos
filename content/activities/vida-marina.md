@@ -4,7 +4,7 @@ title: "Vida Marina"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/vida-marina/"
-description: "Investiga la vida marina y crea un dibujo, collage o modelo de la vida bajo el agua."
+description: "Investigá la vida marina y creá un dibujo, collage o modelo de la vida bajo el agua."
 summary: "Investigación y arte sobre vida marina."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/vida-marina.png"
+image: "/imagenes/actividades/vida-marina.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -34,7 +34,7 @@ age_group:
 materials:
   - Fotografías de vida marina
   - Libros de referencia o acceso a internet
-  - Papel, bolígrafos o lápices de colores o pinturas
+  - Papel, lapiceras o lápices de colores o pinturas
   - Materiales de manualidades para hacer un collage o modelo
 tools: []
 responsible:
@@ -173,19 +173,19 @@ rama_rovers:
 # Vida Marina
 
 ## Resumen
-Investiga la vida marina y crea un dibujo, collage o modelo de la vida bajo el agua.
+Investigá la vida marina y creá un dibujo, collage o modelo de la vida bajo el agua.
 
 ## Preparación
-1. Reúne fotografías de vida marina y libros de referencia.
-2. Prepara materiales de manualidades.
-3. Discute sobre la vida en el océano.
+1. Reuní fotografías de vida marina y libros de referencia.
+2. Prepará materiales de manualidades.
+3. Discutí sobre la vida en el océano.
 
 ## Desarrollo
 1. **Discusión** (15 min): ¿Cuál es la criatura marina más grande? ¿La más pequeña? ¿Qué vive en la costa y qué vive en el mar?
-2. **Investigación** (15 min): Observa fotografías y libros de referencia.
-3. **Lista** (10 min): Haz una lista de animales y plantas marinas.
-4. **Creación** (30 min): Haz un dibujo, collage o modelo de la vida bajo el agua.
-5. **Exhibición** (15 min): Instala una exposición sobre el océano en un lugar público.
+2. **Investigación** (15 min): Observá fotografías y libros de referencia.
+3. **Lista** (10 min): Hacé una lista de animales y plantas marinas.
+4. **Creación** (30 min): Hacé un dibujo, collage o modelo de la vida bajo el agua.
+5. **Exhibición** (15 min): Instalá una exposición sobre el océano en un lugar público.
 
 ## Cierre
 - ¿Qué criaturas marinas te parecieron más interesantes?
@@ -206,16 +206,3 @@ Discute sobre la vida en el océano. ¿Cuál es la criatura marina más grande e
 nivel: 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

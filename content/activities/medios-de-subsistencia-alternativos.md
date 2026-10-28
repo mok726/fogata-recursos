@@ -4,7 +4,7 @@ title: "Medios de Subsistencia Alternativos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/medios-de-subsistencia-alternativos/"
-description: "Lista productos forestales que las personas usan para su subsistencia. Inventa un juego educativo sobre productos forestales."
+description: "Lista productos forestales que las personas usan para su subsistencia. Inventá un juego educativo sobre productos forestales."
 summary: "Juego educativo sobre productos forestales para subsistencia."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/medios-de-subsistencia-alternativos.png"
+image: "/imagenes/actividades/medios-de-subsistencia-alternativos.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -172,18 +172,18 @@ rama_rovers:
 # Medios de Subsistencia Alternativos
 
 ## Resumen
-Lista productos forestales que las personas usan para su subsistencia. Inventa un juego educativo sobre productos forestales.
+Lista productos forestales que las personas usan para su subsistencia. Inventá un juego educativo sobre productos forestales.
 
 ## Preparación
-1. Investiga productos forestales que las personas usan para subsistencia.
-2. Prepara material para el juego.
-3. Define las reglas del juego.
+1. Investigá productos forestales que las personas usan para subsistencia.
+2. Prepará material para el juego.
+3. Definí las reglas del juego.
 
 ## Desarrollo
 1. **Investigación** (15 min): Lista productos forestales (alimentos, medicinas, vestimenta, materiales).
-2. **Análisis** (10 min): Reflexiona sobre cómo las personas usan estos productos.
-3. **Creación** (20 min): Inventa un juego para educar sobre estos productos.
-4. **Juego** (20 min): Juega y comparte el aprendizaje con el grupo.
+2. **Análisis** (10 min): Reflexioná sobre cómo las personas usan estos productos.
+3. **Creación** (20 min): Inventá un juego para educar sobre estos productos.
+4. **Juego** (20 min): Jugá y compartí el aprendizaje con el grupo.
 
 ## Cierre
 - ¿Qué productos forestales te parecieron más importantes?
@@ -191,16 +191,3 @@ Lista productos forestales que las personas usan para su subsistencia. Inventa u
 - ¿Qué compromiso adquieres para apoyar medios de subsistencia sostenibles?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

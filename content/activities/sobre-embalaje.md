@@ -1,9 +1,9 @@
 ---
-title: "Sobre-embalaje"
+title: "Sobre-Embalaje"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/sobre-embalaje/"
-description: "Identifica productos con envolturas innecesarias en tu cocina."
+description: "Identificá productos con envolturas innecesarias en tu cocina."
 summary: "Reducción de embalajes innecesarios."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/sobre-embalaje.png"
+image: "/imagenes/actividades/sobre-embalaje.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,25 +146,25 @@ rama_rovers:
   - 19  # Tomo decisiones económicas conscientes.
 ---
 
-# ¡Sobre-embalaje!
+# ¡Sobre-Embalaje!
 
 ## Resumen
-Identifica productos con envolturas innecesarias y encuentra alternativas con menos embalaje.
+Identificá productos con envolturas innecesarias y encontrá alternativas con menos embalaje.
 
 ## Preparación
-- Revisa los productos en tu cocina.
-- Prepara papel y bolígrafos para anotar.
+- Revisá los productos en tu cocina.
+- Prepará papel y lapiceras para anotar.
 
 ## Desarrollo
-1. **Identificación** (15 min): Busca productos sobre-embalados.
-2. **Alternativas** (15 min): Encuentra productos con menos envoltura.
+1. **Identificación** (15 min): Buscá productos sobre-embalados.
+2. **Alternativas** (15 min): Encontrá productos con menos envoltura.
 3. **Reflexión** (10 min): ¿Cómo reducir la basura de embalajes?
-4. **Acción** (5 min): Compra productos con menos envoltura.
+4. **Acción** (5 min): Comprá productos con menos envoltura.
 
 ## Cierre
 - ¿Qué productos estaban sobre-embalados?
 - ¿Qué alternativas encontraste?
-- ¿Cómo te sientes al reducir el embalaje?
+- ¿Cómo te sentís al reducir el embalaje?
 
 ---
 ## Texto original completo de la actividad
@@ -174,16 +174,3 @@ Identifica productos con envolturas innecesarias y encuentra alternativas con me
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

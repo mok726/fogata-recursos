@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Experimento de derrame de petróleo"
+title: "Experimento de Derrame de Petróleo"
 duration: "1 hora"
 layout: "layouts/activity.njk"
 permalink: "/activities/experimento-de-derrame-de-petroleo/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/experimento-de-derrame-de-petroleo.png"
+image: "/imagenes/actividades/experimento-de-derrame-de-petroleo.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,26 +163,26 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Experimento de derrame de petróleo!
+# ¡Experimento de Derrame de Petróleo!
 
 ## Resumen
-La contaminación puede afectar a la biodiversidad. Haz un experimento para averiguar cómo un derrame de petróleo puede dañar las plumas de un ave.
+La contaminación puede afectar a la biodiversidad. Hacé un experimento para averiguar cómo un derrame de petróleo puede dañar las plumas de un ave.
 
 ## Preparación
-1. Reúne dos plumas naturales.
-2. Prepara aceite y agua.
-3. Organiza el espacio de trabajo.
+1. Reuní dos plumas naturales.
+2. Prepará aceite y agua.
+3. Organizá el espacio de trabajo.
 
 ## Desarrollo
-1. Toma dos plumas.
-2. Utiliza una bola de algodón para frotar una de ellas con aceite.
-3. Riega un poco de agua encima de cada pluma.
-4. Observa: ¿Qué sucede?
-5. Reflexiona: ¿Cómo crees que un derrame de petróleo afecte a las aves?
+1. Tomá dos plumas.
+2. Utilizá una bola de algodón para frotar una de ellas con aceite.
+3. Regá un poco de agua encima de cada pluma.
+4. Observá: ¿Qué sucede?
+5. Reflexioná: ¿Cómo creés que un derrame de petróleo afecte a las aves?
 
 ## Cierre
-1. Comparte tus respuestas con tu grupo.
-2. Reflexiona sobre el impacto de la contaminación en la biodiversidad.
+1. Compartí tus respuestas con tu grupo.
+2. Reflexioná sobre el impacto de la contaminación en la biodiversidad.
 3. Pregunta final: ¿Cómo podemos prevenir los derrames de petróleo?
 
 ## Texto original completo de la actividad
@@ -191,16 +191,3 @@ B.13 La contaminación puede afectar a la biodiversidad. Haz un experimento para
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

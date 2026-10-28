@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Plásticos de un solo uso en la escuela"
+title: "Plásticos de un Solo Uso en la Escuela"
 duration: "1 semana"
 layout: "layouts/activity.njk"
 permalink: "/activities/plasticos-de-un-solo-uso-en-la-escuela/"
-description: "Identifica los plásticos de un solo uso que se usan regularmente en la escuela y aprende a reducir, reutilizar y reciclar."
+description: "Identificá los plásticos de un solo uso que se usan regularmente en la escuela y aprendé a reducir, reutilizar y reciclar."
 summary: "Auditoría de plásticos en el entorno escolar."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/plasticos-de-un-solo-uso-en-la-escuela.png"
+image: "/imagenes/actividades/plasticos-de-un-solo-uso-en-la-escuela.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -165,15 +165,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Plásticos de un solo uso en la escuela!
+# ¡Plásticos de un Solo Uso en la Escuela!
 
 ## Resumen
-Realiza una auditoría completa de los plásticos de un solo uso que se usan en tu escuela. Identifica qué plásticos se usan más, cuánto se recicla y cómo podrían reemplazarse con opciones más sostenibles.
+Realizá una auditoría completa de los plásticos de un solo uso que se usan en tu escuela. Identificá qué plásticos se usan más, cuánto se recicla y cómo podrían reemplazarse con opciones más sostenibles.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Consulta la ilustración "Tipos de plástico" para ayudar a reconocer los materiales plásticos que puedas encontrar.
-3. Coordina con las autoridades escolares para realizar la auditoría.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Consultá la ilustración "Tipos de plástico" para ayudar a reconocer los materiales plásticos que puedas encontrar.
+3. Coordiná con las autoridades escolares para realizar la auditoría.
 
 ## Desarrollo
 
@@ -188,7 +188,7 @@ En grupos pequeños, usa la siguiente planilla para realizar una inspección exh
 | **Laboratorios** | ☐ Pipetas ☐ Botellas filtradoras ☐ Placas de Petri ☐ Tubos de ensayo ☐ Bolsas de basura ☐ Otros | ☐ Reciclo ☐ Reutilizo ☐ Basura |
 
 ### Parte II
-Evalúa el uso de plástico en tu escuela. Crea una serie de dibujos o un infográfico respondiendo:
+Evaluá el uso de plástico en tu escuela. Creá una serie de dibujos o un infográfico respondiendo:
 
 1. ¿Qué plásticos de un solo uso usa más tu escuela?
 2. ¿Cuánto plástico tira tu escuela por semana?
@@ -197,13 +197,13 @@ Evalúa el uso de plástico en tu escuela. Crea una serie de dibujos o un infogr
 5. ¿Se te ocurren formas en que tu escuela pueda reemplazar los plásticos de un solo uso que más usa con artículos hechos de otros materiales?
 
 ### Parte III
-Convierte tu infográfico en un cartel y agrega mensajes sobre cómo todos en la escuela pueden ayudar a reducir los plásticos de un solo uso. Coloca el cartel en lugares destacados de la escuela donde se usan más los plásticos de un solo uso.
+Convertí tu infográfico en un cartel y agregá mensajes sobre cómo todos en la escuela pueden ayudar a reducir los plásticos de un solo uso. Colocá el cartel en lugares destacados de la escuela donde se usan más los plásticos de un solo uso.
 
-Comparte los resultados de tu auditoría con las autoridades escolares y bríndales ideas para reducir los plásticos descartables en la escuela.
+Compartí los resultados de tu auditoría con las autoridades escolares y bríndales ideas para reducir los plásticos descartables en la escuela.
 
 ## Cierre
 1. ¿Qué área de la escuela genera más plásticos de un solo uso?
-2. ¿Qué cambio crees que sería más fácil de implementar en tu escuela?
+2. ¿Qué cambio creés que sería más fácil de implementar en tu escuela?
 3. ¿Cómo podrías involucrar a más estudiantes en esta iniciativa?
 
 ## Texto original completo de la actividad
@@ -282,20 +282,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

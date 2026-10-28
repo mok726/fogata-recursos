@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Protección contra tormentas"
+title: "Protección contra Tormentas"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/proteccion-contra-tormentas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/proteccion-contra-tormentas.png"
+image: "/imagenes/actividades/proteccion-contra-tormentas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -161,24 +161,24 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡Protección contra tormentas!
+# ¡Protección contra Tormentas!
 
 ## Resumen
 Los ecosistemas marinos pueden ayudar a proteger a las regiones costeras contra daños provocados por las tormentas. ¿Qué les pasaría a estas regiones si los ecosistemas marinos que les protegen fuesen destruidos?
 
 ## Preparación
-1. Investiga sobre ecosistemas marinos protectores.
-2. Prepara materiales para el póster o cómic.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre ecosistemas marinos protectores.
+2. Prepará materiales para el póster o cómic.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo los ecosistemas marinos protegen las costas.
-2. Reflexiona: ¿Qué pasaría si estos ecosistemas fuesen destruidos?
-3. Crea un póster, cómic, obra de teatro u otro medio para enseñar a las personas acerca del valor de estos ecosistemas marinos.
+1. Investigá cómo los ecosistemas marinos protegen las costas.
+2. Reflexioná: ¿Qué pasaría si estos ecosistemas fuesen destruidos?
+3. Creá un póster, cómic, obra de teatro u otro medio para enseñar a las personas acerca del valor de estos ecosistemas marinos.
 
 ## Cierre
-1. Comparte tu creación con el grupo.
-2. Discute la importancia de proteger los ecosistemas marinos.
+1. Compartí tu creación con el grupo.
+2. Discutí la importancia de proteger los ecosistemas marinos.
 3. Pregunta final: ¿Cómo podemos ayudar a proteger los ecosistemas costeros?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ B.16 Los ecosistemas marinos pueden ayudar a proteger a las regiones costeras co
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

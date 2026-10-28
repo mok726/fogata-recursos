@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Invierte en soluciones"
+title: "Invierte en Soluciones"
 duration: "2 horas + recaudación"
 layout: "layouts/activity.njk"
 permalink: "/activities/invierte-en-soluciones/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/invierte-en-soluciones.png"
+image: "/imagenes/actividades/invierte-en-soluciones.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -178,29 +178,29 @@ rama_rovers:
   - 28 # Valoro y promuevo la solidaridad
 ---
 
-# ¡Invierte en soluciones!
+# ¡Invierte en Soluciones!
 
 ## Resumen
-Investiga algunas iniciativas que se han puesto en marcha para combatir el cambio climático y elige una que te inspire.
+Investigá algunas iniciativas que se han puesto en marcha para combatir el cambio climático y elegí una que te inspire.
 
 ## Preparación
-1. Investiga iniciativas climáticas en los sitios Web proporcionados.
-2. Elige una iniciativa que te inspire.
-3. Identifica un objetivo de recaudación de fondos.
+1. Investigá iniciativas climáticas en los sitios Web proporcionados.
+2. Elegí una iniciativa que te inspire.
+3. Identificá un objetivo de recaudación de fondos.
 
 ## Desarrollo
-1. Investiga diferentes iniciativas climáticas.
-2. Elige una que te inspire.
-3. Identifica un objetivo de recaudación de fondos.
-4. Establece un plan para recaudar dinero en tu comunidad local:
+1. Investigá diferentes iniciativas climáticas.
+2. Elegí una que te inspire.
+3. Identificá un objetivo de recaudación de fondos.
+4. Establecé un plan para recaudar dinero en tu comunidad local:
    - Venta de pasteles
    - 'Carrera por el clima'
    - Feria con tema climático
-5. Explica a las personas que estás alentando a donar qué es lo que su dinero ayudará a alcanzar.
+5. Explicá a las personas que estás alentando a donar qué es lo que su dinero ayudará a alcanzar.
 
 ## Cierre
-1. Reflexiona sobre el proceso de recaudación.
-2. Comparte tu experiencia con el grupo.
+1. Reflexioná sobre el proceso de recaudación.
+2. Compartí tu experiencia con el grupo.
 3. Pregunta final: ¿Cómo te sentiste al contribuir a una solución climática?
 
 ## Texto original completo de la actividad
@@ -209,16 +209,3 @@ E.22 INVIERTE EN SOLUCIONES. Investiga algunas iniciativas que se han puesto en 
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

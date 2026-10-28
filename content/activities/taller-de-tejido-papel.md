@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-de-tejido-papel.png"
+image: "/imagenes/actividades/taller-de-tejido-papel.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -171,7 +171,7 @@ Aprendemos a reusar papel de diarios o revistas para hacer tejidos (canastos, et
 - Fomentar la creatividad a través del reciclaje.
 
 ## Preparación
-1. Reúne papel de diario o revistas, plasticola, tijeras, regla y broches.
+1. Reuní papel de diario o revistas, plasticola, tijeras, regla y broches.
 
 ## Desarrollo
 
@@ -189,7 +189,7 @@ Aprendemos a reusar papel de diarios o revistas para hacer tejidos (canastos, et
 
 ### Paso 5: Tejido
 5. Cuando tenemos cantidad de tiritas, nos separamos en las distintas mesas según el objeto a realizar.
-6. Siguiendo las instrucciones del sinodal, los beneficiarios enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de papel.
+6. Siguiendo las instrucciones del sinodal, los protagonistas enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de papel.
 
 ### Paso 6: Secado
 7. Al terminar los objetos, los dejamos secar.
@@ -215,24 +215,9 @@ Aprendemos a reusar papel de diarios o revistas para hacer tejidos (canastos, et
 3) Con ayuda de la regla, doblamos las tiritas para hacerlas mas reforzadas.
 4) De ser necesario las tiras se pueden unir con una pequeña cantidad de plasticola.
 5) Cuando tenemos cantidad de tiritas nos separamos en las distintas mesas según el objeto a realizar.
-6) Siguiendo las instrucciones del sinodal los beneficiarios enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de papel.
+6) Siguiendo las instrucciones del sinodal los protagonistas enrollan (posavasos, etc.) o entretejen (canastos, etc.) las tiras de papel.
 7) Al terminar los objetos los dejamos secar.
 
 **Cierre:** Discutimos sobre la actividad, que otros objetos podrían crearse con esta técnica y materiales. Que materiales alternativos podríamos usar y objetos podríamos crear en un campamento u emergencia.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

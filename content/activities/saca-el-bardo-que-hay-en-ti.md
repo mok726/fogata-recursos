@@ -1,9 +1,9 @@
 ---
-title: "Saca el Bardo que Hay en Ti"
+title: "Sacá el Bardo que Hay en Vos"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/saca-el-bardo-que-hay-en-ti/"
-description: "Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua."
+description: "Creá una obra de teatro sobre una comunidad que enfrenta escasez de agua."
 summary: "Obra de teatro sobre escasez de agua."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/saca-el-bardo-que-hay-en-ti.png"
+image: "/imagenes/actividades/saca-el-bardo-que-hay-en-ti.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -26,7 +26,7 @@ age_group:
   - rovers
 
 materials:
-  - Papel y bolígrafos
+  - Papel y lapiceras
   - Materiales para presentación
 tools: []
 responsible:
@@ -146,10 +146,10 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Saca el Bardo que Hay en Ti!
+# ¡Sacá el Bardo que Hay en Vos!
 
 ## Resumen
-Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostrando sus desafíos y soluciones.
+Creá una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostrando sus desafíos y soluciones.
 
 ## Preparación
 1. Divídanse en grupos pequeños.
@@ -157,10 +157,10 @@ Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostra
 3. Ensayen la obra.
 
 ## Desarrollo
-1. **Creación** (25 min): Escribe un guión y asigna roles.
-2. **Ensayo** (30 min): Ensaya la obra.
-3. **Presentación** (20 min): Presenta la obra a la comunidad.
-4. **Discusión** (15 min): Habla sobre las soluciones mostradas.
+1. **Creación** (25 min): Escribí un guión y asigná roles.
+2. **Ensayo** (30 min): Ensayá la obra.
+3. **Presentación** (20 min): Presentá la obra a la comunidad.
+4. **Discusión** (15 min): Hablá sobre las soluciones mostradas.
 
 ## Cierre
 - ¿Qué desafíos enfrenta la comunidad?
@@ -175,16 +175,3 @@ Crea una obra de teatro sobre una comunidad que enfrenta escasez de agua, mostra
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

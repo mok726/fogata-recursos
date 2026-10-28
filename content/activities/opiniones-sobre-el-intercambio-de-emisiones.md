@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Opiniones sobre el intercambio de emisiones"
+title: "Opiniones sobre el Intercambio de Emisiones"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/opiniones-sobre-el-intercambio-de-emisiones/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.png"
+image: "/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,21 +159,21 @@ rama_rovers:
   - 24 # Promuevo el respeto a las reglas de la democracia
 ---
 
-# ¡Opiniones sobre el intercambio de emisiones!
+# ¡Opiniones sobre el Intercambio de Emisiones!
 
 ## Resumen
-¿Cómo funciona el intercambio de emisiones? Investiga y prepara una presentación con diapositivas sobre el tema. ¿Crees que ofrece una solución plausible hacia la mitigación del cambio climático? ¿Por qué o por qué no?
+¿Cómo funciona el intercambio de emisiones? Investigá y prepará una presentación con diapositivas sobre el tema. ¿Creés que ofrece una solución plausible hacia la mitigación del cambio climático? ¿Por qué o por qué no?
 
 ## Preparación
-1. Investiga sobre el intercambio de emisiones.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre el intercambio de emisiones.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga: ¿Cómo funciona el intercambio de emisiones?
-2. Analiza: ¿Ofrece una solución plausible para la mitigación?
-3. Prepara argumentos a favor y en contra.
-4. Prepara una presentación con diapositivas.
+1. Investigá: ¿Cómo funciona el intercambio de emisiones?
+2. Analizá: ¿Ofrece una solución plausible para la mitigación?
+3. Prepará argumentos a favor y en contra.
+4. Prepará una presentación con diapositivas.
 
 ## Cierre
 1. Compartan sus presentaciones en grupo.
@@ -186,16 +186,3 @@ D.15 Opiniones sobre el intercambio de emisiones. ¿Cómo funciona el intercambi
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

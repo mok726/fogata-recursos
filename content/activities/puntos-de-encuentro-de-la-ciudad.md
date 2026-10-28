@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Puntos de encuentro de la ciudad"
+title: "Puntos de Encuentro de la Ciudad"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/puntos-de-encuentro-de-la-ciudad/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/puntos-de-encuentro-de-la-ciudad.png"
+image: "/imagenes/actividades/puntos-de-encuentro-de-la-ciudad.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -160,7 +160,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Puntos de encuentro de la ciudad!
+# ¡Puntos de Encuentro de la Ciudad!
 
 ## Resumen
 En algunas ciudades, la gente hace ejercicio junta en espacios públicos. En otras, la gente se reúne en círculos de tambores, en parques para perros o simplemente para jugar al ajedrez. ¿Cuáles son algunos espacios en tu ciudad que reúnen a la gente? ¿Qué tipo de espacios debería agregar tu ciudad que crearían un sentido de comunidad? ¿Qué tipo de espacio te animaría a pasar tiempo con otros y disfrutar más de tu ciudad?
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,9 +1,9 @@
 ---
-title: "Diario verde"
+title: "Diario Verde"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/diario-verde/"
-description: "Comienza un diario para registrar tus esfuerzos por una vida más sostenible."
+description: "Comenzá un diario para registrar tus esfuerzos por una vida más sostenible."
 summary: "Diario de vida sostenible."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/diario-verde.png"
+image: "/imagenes/actividades/diario-verde.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -143,25 +143,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva.
 ---
 
-# ¡Diario verde!
+# ¡Diario Verde!
 
 ## Resumen
-Comienza un diario para registrar todos tus esfuerzos por una vida más amigable con el clima.
+Comenzá un diario para registrar todos tus esfuerzos por una vida más amigable con el clima.
 
 ## Preparación
-- Consigue un cuaderno.
-- Prepara bolígrafos.
+- Conseguí un cuaderno.
+- Prepará lapiceras.
 
 ## Desarrollo
-1. **Comienzo** (10 min): Inicia tu diario verde.
-2. **Registro** (5 min/día): Anota tus esfuerzos diarios.
-3. **Reflexión** (15 min): Discute tus avances con otros.
-4. **Revisión** (10 min): Revisa tu progreso regularmente.
+1. **Comienzo** (10 min): Iniciá tu diario verde.
+2. **Registro** (5 min/día): Anotá tus esfuerzos diarios.
+3. **Reflexión** (15 min): Discutí tus avances con otros.
+4. **Revisión** (10 min): Revisá tu progreso regularmente.
 
 ## Cierre
 - ¿Qué esfuerzos has registrado?
 - ¿Qué has logrado?
-- ¿Cómo te sientes al llevar un diario verde?
+- ¿Cómo te sentís al llevar un diario verde?
 
 ---
 ## Texto original completo de la actividad
@@ -171,16 +171,3 @@ Comienza un diario para registrar todos tus esfuerzos por una vida más amigable
 NIVEL 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

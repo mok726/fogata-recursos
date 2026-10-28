@@ -4,7 +4,7 @@ title: "Bolsas de Arroz"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/bolsas-de-arroz/"
-description: "Mide y divide una bolsa de arroz en porciones de 60 g para entender la cantidad de comida que muchas personas tienen cada día."
+description: "Medí y dividí una bolsa de arroz en porciones de 60 g para entender la cantidad de comida que muchas personas tienen cada día."
 summary: "Experiencia sobre la cantidad diaria de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bolsas-de-arroz.png"
+image: "/imagenes/actividades/bolsas-de-arroz.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -169,35 +169,22 @@ rama_rovers: []  # No aplica (actividad nivel 1-2)
 # Bolsas de Arroz
 
 ## Resumen
-Mide y divide una bolsa de arroz en porciones de 60 g para entender la cantidad de comida que muchas personas tienen cada día.
+Medí y dividí una bolsa de arroz en porciones de 60 g para entender la cantidad de comida que muchas personas tienen cada día.
 
 ## Preparación
-1. Consigue una bolsa de arroz y una balanza.
-2. Prepara bolsitas pequeñas para dividir las porciones.
-3. Asegura la supervisión de un adulto.
+1. Conseguí una bolsa de arroz y una balanza.
+2. Prepará bolsitas pequeñas para dividir las porciones.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Medición** (15 min): Pesa y divide el arroz en porciones de 60 g.
-2. **Observación** (10 min): Observa cuánto es 60 g de arroz.
-3. **Reflexión** (15 min): Discute sobre cómo esto afectaría la vida de una persona.
-4. **Conclusión** (10 min): Piensa en acciones que podrías tomar para cambiar esta situación.
+1. **Medición** (15 min): Pesá y dividí el arroz en porciones de 60 g.
+2. **Observación** (10 min): Observá cuánto es 60 g de arroz.
+3. **Reflexión** (15 min): Discutí sobre cómo esto afectaría la vida de una persona.
+4. **Conclusión** (10 min): Pensá en acciones que podrías tomar para cambiar esta situación.
 
 ## Cierre
 - ¿Cómo te sentiste al ver cuánto es 60 g de arroz?
-- ¿Qué dificultades crees que enfrenta una persona que vive con esta cantidad de comida?
+- ¿Qué dificultades creés que enfrenta una persona que vive con esta cantidad de comida?
 - ¿Qué compromiso adquieres para ayudar a reducir el hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

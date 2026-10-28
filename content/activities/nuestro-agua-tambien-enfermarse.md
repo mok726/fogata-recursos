@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Nuestro Agua También Puede Enfermarse"
+title: "Nuestra Agua También Puede Enfermarse"
 duration: "30 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/nuestro-agua-tambien-enfermarse/"
 description: "Los participantes aprenden sobre las enfermedades transmitidas por el agua a través de un juego de búsqueda de palabras y una reflexión sobre el acceso al agua potable."
-summary: "Aprende sobre enfermedades transmitidas por el agua."
+summary: "Aprendé sobre enfermedades transmitidas por el agua."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/nuestro-agua-tambien-enfermarse.png"
+image: "/imagenes/actividades/nuestro-agua-tambien-enfermarse.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -171,14 +171,14 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Nuestro Agua También Puede Enfermarse!
+# ¡Nuestra Agua También Puede Enfermarse!
 
 ## Resumen
 La contaminación afecta la calidad del agua, y esto puede afectar a todos los seres vivos porque todos dependemos del agua. La calidad del agua potable es una preocupación aún mayor. El agua contaminada puede provocar enfermedades graves como el cólera, el tifus, la ictericia, la diarrea, la disentería y la malaria. Estas enfermedades transmitidas por el agua representan casi un tercio de todas las muertes en el mundo. Se estima que cada 20 segundos muere un niño por una enfermedad relacionada con el agua. En esta actividad, los participantes aprenden sobre las enfermedades transmitidas por el agua a través de un juego de búsqueda de palabras y una reflexión sobre el acceso al agua potable.
 
 ## Preparación
-1. Mezcla agua con chocolate en polvo para que parezca "sucia".
-2. Prepara copias de la sopa de letras para cada participante.
+1. Mezclá agua con chocolate en polvo para que parezca "sucia".
+2. Prepará copias de la sopa de letras para cada participante.
 
 ## Desarrollo
 
@@ -186,15 +186,15 @@ La contaminación afecta la calidad del agua, y esto puede afectar a todos los s
 1. Primero, lleva a tu grupo al exterior y disfruten jugando un juego divertido. Cuando estén un poco cansados, vuelvan al salón.
 
 ### Paso 2: Experiencia sensorial
-2. Mezcla un poco de agua con chocolate en polvo para que parezca "sucia". Ofrece a los participantes un vaso de agua "sucia". Pídeles que la miren: ¿parece cristalina? No. Explica que esta agua podría estar contaminada.
+2. Mezclá un poco de agua con chocolate en polvo para que parezca "sucia". Ofrecé a los participantes un vaso de agua "sucia". Pediles que la miren: ¿parece cristalina? No. Explicá que esta agua podría estar contaminada.
 3. Pregunta: ¿Cómo se sentirían si esta fuera la única agua que tuvieran para beber?
 
 ### Paso 3: Información sobre enfermedades
-4. Explica que el agua contaminada puede provocar enfermedades graves transmitidas por el agua que causan muchas muertes en todo el mundo. No olvides ofrecerles agua potable limpia para beber.
+4. Explicá que el agua contaminada puede provocar enfermedades graves transmitidas por el agua que causan muchas muertes en todo el mundo. No olvides ofrecerles agua potable limpia para beber.
 
 ### Paso 4: Sopa de letras
-5. Entrega una copia de la siguiente sopa de letras a cada participante para que aprendan sobre diferentes enfermedades transmitidas por el agua.
-6. Explica a tu grupo que deben buscar cada una de las siguientes palabras dentro de la sopa de letras:
+5. Entregá una copia de la siguiente sopa de letras a cada participante para que aprendan sobre diferentes enfermedades transmitidas por el agua.
+6. Explicá a tu grupo que deben buscar cada una de las siguientes palabras dentro de la sopa de letras:
 
 **Palabras a buscar:**
 - CÓLERA

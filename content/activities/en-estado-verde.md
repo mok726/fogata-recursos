@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "En estado verde"
+title: "En Estado Verde"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/en-estado-verde/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/en-estado-verde.png"
+image: "/imagenes/actividades/en-estado-verde.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -162,26 +162,26 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible
 ---
 
-# ¡En estado verde!
+# ¡En Estado Verde!
 
 ## Resumen
-Haz una Fiesta de Energía Eficiente en tu comunidad que demuestre formas de ahorrar energía.
+Hacé una Fiesta de Energía Eficiente en tu comunidad que demuestre formas de ahorrar energía.
 
 ## Preparación
-1. Planifica la fiesta con antelación.
-2. Reúne materiales reutilizables.
-3. Prepara alimentos de bajo consumo energético.
-4. Prepara tarjetas explicativas.
+1. Planificá la fiesta con antelación.
+2. Reuní materiales reutilizables.
+3. Prepará alimentos de bajo consumo energético.
+4. Prepará tarjetas explicativas.
 
 ## Desarrollo
-1. Usa alimentos que consumen menos energía.
-2. Usa vasos y platos que se pueden lavar y ser reutilizados.
-3. Usa bombillas de luz eficientes energéticamente.
-4. Crea tarjetas que expliquen cómo cada elemento contribuye a mantener los objetivos de energía sostenible.
+1. Usá alimentos que consumen menos energía.
+2. Usá vasos y platos que se pueden lavar y ser reutilizados.
+3. Usá bombillas de luz eficientes energéticamente.
+4. Creá tarjetas que expliquen cómo cada elemento contribuye a mantener los objetivos de energía sostenible.
 
 ## Cierre
-1. Disfruta de la fiesta con tu comunidad.
-2. Reflexiona: ¿Cómo se sintió tener una fiesta sostenible?
+1. Disfrutá de la fiesta con tu comunidad.
+2. Reflexioná: ¿Cómo se sintió tener una fiesta sostenible?
 3. Pregunta final: ¿Qué cambiarías para futuras fiestas sostenibles?
 
 ## Texto original completo de la actividad
@@ -190,16 +190,3 @@ E.14 EN ESTADO VERDE. Haz una Fiesta de Energía Eficiente en tu comunidad que d
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

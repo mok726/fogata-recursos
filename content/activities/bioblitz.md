@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/bioblitz.png"
+image: "/imagenes/actividades/bioblitz.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -172,22 +172,22 @@ rama_rovers:
 # ¡BioBlitz!
 
 ## Resumen
-Elabora tu propio inventario de las especies de tu patio trasero, esta actividad se denomina 'BioBlitz' (campaña intensiva de muestreo biológico).
+Elaborá tu propio inventario de las especies de tu patio trasero, esta actividad se denomina 'BioBlitz' (campaña intensiva de muestreo biológico).
 
 ## Preparación
-1. Identifica un área para el BioBlitz.
-2. Prepara materiales para registrar.
-3. Organiza los grupos de trabajo.
+1. Identificá un área para el BioBlitz.
+2. Prepará materiales para registrar.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Utiliza las actividades de la página web.
-2. Registra todas las especies que encuentres.
-3. Toma fotografías o haz dibujos.
-4. Comparte tus hallazgos en línea.
+1. Utilizá las actividades de la página web.
+2. Registrá todas las especies que encuentres.
+3. Tomá fotografías o hacé dibujos.
+4. Compartí tus hallazgos en línea.
 
 ## Cierre
-1. Comparte tus resultados con el grupo.
-2. Reflexiona: ¿Cuántas especies encontraste?
+1. Compartí tus resultados con el grupo.
+2. Reflexioná: ¿Cuántas especies encontraste?
 3. Pregunta final: ¿Qué especie te sorprendió más?
 
 ## Texto original completo de la actividad
@@ -196,16 +196,3 @@ D.24 Elabora tu propio inventario de las especies de tu patio trasero, esta acti
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

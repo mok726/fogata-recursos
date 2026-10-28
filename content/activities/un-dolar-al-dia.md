@@ -4,7 +4,7 @@ title: "Un Dólar al Día"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/un-dolar-al-dia/"
-description: "Averigua cuánto es 1 USD en tu moneda y crea una lista de compras para un día con ese presupuesto."
+description: "Averiguá cuánto es 1 USD en tu moneda y creá una lista de compras para un día con ese presupuesto."
 summary: "Experiencia sobre vivir con 1 dólar al día."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-dolar-al-dia.png"
+image: "/imagenes/actividades/un-dolar-al-dia.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -175,19 +175,19 @@ rama_rovers:
 # Un Dólar al Día
 
 ## Resumen
-Averigua cuánto es 1 USD en tu moneda y crea una lista de compras para un día con ese presupuesto.
+Averiguá cuánto es 1 USD en tu moneda y creá una lista de compras para un día con ese presupuesto.
 
 ## Preparación
-1. Averigua cuánto es 1 USD en tu moneda local.
-2. Prepara un cuaderno para la lista de compras.
-3. Visita el supermercado o mercado para investigar precios.
+1. Averiguá cuánto es 1 USD en tu moneda local.
+2. Prepará un cuaderno para la lista de compras.
+3. Visitá el supermercado o mercado para investigar precios.
 
 ## Desarrollo
-1. **Investigación** (15 min): Averigua el valor de 1 USD en tu moneda.
-2. **Lista** (15 min): Escribe una lista de ingredientes para comidas saludables para un día.
-3. **Precios** (30 min): Visita el mercado y revisa los precios.
-4. **Reflexión** (20 min): Piensa en qué elementos deberías sacrificar y cómo sería alimentar a una familia con ese presupuesto.
-5. **Discusión** (15 min): Comparte tus ideas con el grupo.
+1. **Investigación** (15 min): Averiguá el valor de 1 USD en tu moneda.
+2. **Lista** (15 min): Escribí una lista de ingredientes para comidas saludables para un día.
+3. **Precios** (30 min): Visitá el mercado y revisá los precios.
+4. **Reflexión** (20 min): Pensá en qué elementos deberías sacrificar y cómo sería alimentar a una familia con ese presupuesto.
+5. **Discusión** (15 min): Compartí tus ideas con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre vivir con 1 dólar al día?
@@ -195,16 +195,3 @@ Averigua cuánto es 1 USD en tu moneda y crea una lista de compras para un día 
 - ¿Qué compromiso adquieres para ser más consciente del valor de los alimentos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

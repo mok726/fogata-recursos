@@ -4,7 +4,7 @@ title: "Hacer para Aprender"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/hacer-para-aprender/"
-description: "Cultiva vegetales o hierbas con tu grupo o visita una granja local para recolectar frutas. Experimenta de primera mano cómo funciona el sistema alimentario."
+description: "Cultivá vegetales o hierbas con tu grupo o visita una granja local para recolectar frutas. Experimentá de primera mano cómo funciona el sistema alimentario."
 summary: "Experiencia práctica sobre producción de alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/hacer-para-aprender.png"
+image: "/imagenes/actividades/hacer-para-aprender.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -182,19 +182,19 @@ rama_rovers:
 # Hacer para Aprender
 
 ## Resumen
-Cultiva vegetales o hierbas con tu grupo o visita una granja local para recolectar frutas. Experimenta de primera mano cómo funciona el sistema alimentario.
+Cultivá vegetales o hierbas con tu grupo o visita una granja local para recolectar frutas. Experimentá de primera mano cómo funciona el sistema alimentario.
 
 ## Preparación
-1. Si tienes acceso a un huerto, prepara las semillas o plantas y las herramientas.
+1. Si tenés acceso a un huerto, prepara las semillas o plantas y las herramientas.
 2. Si no, organiza una visita a una granja local.
-3. Asegura la supervisión de un adulto.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Preparación** (20 min): Prepara el huerto o viaja a la granja.
-2. **Cultivo/Recolección** (30 min): Planta o recolecta frutas y vegetales.
-3. **Procesamiento** (20 min): Usa los productos para hacer algo para comer (ej. sopa) o vender (ej. mermelada).
-4. **Registro** (15 min): Anota lo que has hecho en cada paso.
-5. **Reflexión** (15 min): Reflexiona sobre cómo funciona el sistema alimentario.
+1. **Preparación** (20 min): Prepará el huerto o viaja a la granja.
+2. **Cultivo/Recolección** (30 min): Plantá o recolectá frutas y vegetales.
+3. **Procesamiento** (20 min): Usá los productos para hacer algo para comer (ej. sopa) o vender (ej. mermelada).
+4. **Registro** (15 min): Anotá lo que has hecho en cada paso.
+5. **Reflexión** (15 min): Reflexioná sobre cómo funciona el sistema alimentario.
 
 ## Cierre
 - ¿Qué aprendiste sobre la producción de alimentos?
@@ -202,16 +202,3 @@ Cultiva vegetales o hierbas con tu grupo o visita una granja local para recolect
 - ¿Qué compromiso adquieres para valorar el trabajo de los agricultores?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

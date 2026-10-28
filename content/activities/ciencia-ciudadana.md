@@ -3,7 +3,7 @@ title: "Ciencia Ciudadana"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/ciencia-ciudadana/"
-description: "Contribuye a proyectos de investigación científica ciudadana sobre el océano."
+description: "Contribuí a proyectos de investigación científica ciudadana sobre el océano."
 summary: "Participación en ciencia ciudadana marina."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/ciencia-ciudadana.png"
+image: "/imagenes/actividades/ciencia-ciudadana.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafo
+  - Cuaderno y lapicera
   - Acceso a internet (para registrarse en proyectos)
 tools: []
 responsible:
@@ -163,19 +163,19 @@ rama_rovers:
 # ¡Ciencia Ciudadana!
 
 ## Resumen
-Contribuye a proyectos de investigación científica ciudadana sobre el océano, como el avistamiento de medusas, ballenas o delfines.
+Contribuí a proyectos de investigación científica ciudadana sobre el océano, como el avistamiento de medusas, ballenas o delfines.
 
 ## Preparación
-1. Investiga proyectos de ciencia ciudadana en tu área.
-2. Registra tu grupo en un proyecto existente.
-3. Prepara cuadernos y bolígrafos para el registro.
+1. Investigá proyectos de ciencia ciudadana en tu área.
+2. Registrá tu grupo en un proyecto existente.
+3. Prepará cuadernos y lapiceras para el registro.
 
 ## Desarrollo
-1. **Investigación** (15 min): Busca oportunidades de ciencia ciudadana en tu área.
-2. **Planificación** (15 min): Define cómo vas a participar.
-3. **Observación** (30 min+): Realiza observaciones en la costa.
-4. **Registro** (15 min): Registra tus datos en la plataforma correspondiente.
-5. **Compartir** (10 min): Comparte tu experiencia con el grupo.
+1. **Investigación** (15 min): Buscá oportunidades de ciencia ciudadana en tu área.
+2. **Planificación** (15 min): Definí cómo vas a participar.
+3. **Observación** (30 min+): Realizá observaciones en la costa.
+4. **Registro** (15 min): Registrá tus datos en la plataforma correspondiente.
+5. **Compartir** (10 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Qué especies observaste?
@@ -198,15 +198,3 @@ Otras organizaciones también están interesadas en cosas como el avistamiento d
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

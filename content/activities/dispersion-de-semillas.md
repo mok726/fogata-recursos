@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Dispersión de semillas"
+title: "Dispersión de Semillas"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/dispersion-de-semillas/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/dispersion-de-semillas.png"
+image: "/imagenes/actividades/dispersion-de-semillas.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -161,22 +161,22 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Dispersión de semillas!
+# ¡Dispersión de Semillas!
 
 ## Resumen
 Caminen por medio de un campo con hierbas altas usando pantalones que recolecten muchas semillas. Al final de su paseo, cámbiense los pantalones e inspeccionen las semillas que recolectaron en los que llevaban antes.
 
 ## Preparación
-1. Identifica un campo con hierbas altas.
-2. Prepara diferentes tipos de pantalones o telas.
-3. Pide autorización al agricultor si es necesario.
+1. Identificá un campo con hierbas altas.
+2. Prepará diferentes tipos de pantalones o telas.
+3. Pedí autorización al agricultor si es necesario.
 
 ## Desarrollo
 1. Caminen con pantalones que recolecten semillas.
 2. Al final, inspeccionen las semillas recolectadas.
-3. Registra: ¿Qué tan grandes son las semillas?
-4. Registra: ¿Algunas semillas se encuentran sólo a ciertas alturas?
-5. Reflexiona: ¿Cómo se dispersan estas semillas en la naturaleza?
+3. Registrá: ¿Qué tan grandes son las semillas?
+4. Registrá: ¿Algunas semillas se encuentran sólo a ciertas alturas?
+5. Reflexioná: ¿Cómo se dispersan estas semillas en la naturaleza?
 6. Opcional: usen diferentes telas para imitar a diferentes mamíferos.
 
 ## Cierre
@@ -190,16 +190,3 @@ C.22 Caminen por medio de un campo con hierbas altas usando pantalones que recol
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

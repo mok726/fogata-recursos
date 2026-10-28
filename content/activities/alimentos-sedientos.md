@@ -3,7 +3,7 @@ title: "Alimentos Sedientos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/alimentos-sedientos/"
-description: "Investiga cuánta agua se necesita para producir diferentes alimentos."
+description: "Investigá cuánta agua se necesita para producir diferentes alimentos."
 summary: "Huella hídrica de los alimentos."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/alimentos-sedientos.png"
+image: "/imagenes/actividades/alimentos-sedientos.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -154,22 +154,22 @@ rama_rovers:
 # ¡Alimentos Sedientos!
 
 ## Resumen
-Investiga cuánta agua se necesita para producir diferentes alimentos y conviértete en un comensal más 'amigo del agua'.
+Investigá cuánta agua se necesita para producir diferentes alimentos y conviértete en un comensal más 'amigo del agua'.
 
 ## Preparación
-1. Investiga sobre la huella hídrica de los alimentos.
-2. Prepara materiales para tomar notas.
-3. Monitorea tus hábitos alimenticios durante una semana.
+1. Investigá sobre la huella hídrica de los alimentos.
+2. Prepará materiales para tomar notas.
+3. Monitoreá tus hábitos alimenticios durante una semana.
 
 ## Desarrollo
-1. **Investigación** (20 min): Averigua cuánta agua requieren diferentes alimentos.
-2. **Comparación** (15 min): Compara alimentos que requieren mucha vs poca agua.
-3. **Monitoreo** (20 min): Monitorea tus hábitos alimenticios.
-4. **Compromiso** (5 min): Haz un compromiso para comer más "amigo del agua".
+1. **Investigación** (20 min): Averiguá cuánta agua requieren diferentes alimentos.
+2. **Comparación** (15 min): Compará alimentos que requieren mucha vs poca agua.
+3. **Monitoreo** (20 min): Monitoreá tus hábitos alimenticios.
+4. **Compromiso** (5 min): Hacé un compromiso para comer más "amigo del agua".
 
 ## Cierre
 - ¿Qué alimentos requieren más agua?
-- ¿Cómo puedes cambiar tu dieta para ahorrar agua?
+- ¿Cómo podés cambiar tu dieta para ahorrar agua?
 - ¿Qué fue lo que más te sorprendió?
 
 ---
@@ -180,16 +180,3 @@ Investiga cuánta agua se necesita para producir diferentes alimentos y conviér
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

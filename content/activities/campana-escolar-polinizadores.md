@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Campaña escolar"
+title: "Campaña Escolar"
 duration: "1 mes"
 layout: "layouts/activity.njk"
 permalink: "/activities/campana-escolar-polinizadores/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/campana-escolar-polinizadores.png"
+image: "/imagenes/actividades/campana-escolar-polinizadores.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Campaña escolar!
+# ¡Campaña Escolar!
 
 ## Resumen
 Con permiso de las autoridades escolares, lanzá una campaña de un mes en la escuela para crear conciencia sobre los polinizadores. Colocá carteles en los pasillos y trabajá con los jardineros escolares para implementar cambios en los jardines.
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

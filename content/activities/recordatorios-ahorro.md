@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Recordatorios de ahorro de energía"
+title: "Recordatorios de Ahorro de Energía"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/recordatorios-ahorro/"
-description: "Crea recordatorios visuales para ahorrar energía en tu hogar, escuela o lugar de reunión."
+description: "Creá recordatorios visuales para ahorrar energía en tu hogar, escuela o lugar de reunión."
 summary: "Recordatorios para ahorrar energía."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/recordatorios-ahorro.png"
+image: "/imagenes/actividades/recordatorios-ahorro.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -160,41 +160,41 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Recordatorios de ahorro de energía!
+# ¡Recordatorios de Ahorro de Energía!
 
 ## Resumen
-Crea recordatorios visuales para ahorrar energía que puedas poner en tu hogar, escuela o lugar de reunión. Escribe mensajes como "apaga las luces", "desconecta los electrónicos", "cierra el agua cuando te cepilles".
+Creá recordatorios visuales para ahorrar energía que puedas poner en tu hogar, escuela o lugar de reunión. Escribí mensajes como "apaga las luces", "desconecta los electrónicos", "cierra el agua cuando te cepilles".
 
 ## Preparación
-1. Piensa en formas de ahorrar energía.
-2. Prepara post-its, tarjetas o papel.
-3. Consigue marcadores.
+1. Pensá en formas de ahorrar energía.
+2. Prepará post-its, tarjetas o papel.
+3. Conseguí marcadores.
 
 ## Desarrollo
 
 ### Parte I - Crear
-Escribe recordatorios en post-its o tarjetas:
+Escribí recordatorios en post-its o tarjetas:
 
 **Ejemplos:**
 - "Apaga las luces"
 - "Desconecta los electrónicos cuando no los uses"
 - "Cierra el agua cuando te cepilles"
-- "No dejes la puerta del refrigerador abierta"
+- "No dejes la puerta de la heladera abierta"
 
 ### Parte II - Colocar
-Coloca los recordatorios:
+Colocá los recordatorios:
 - Cerca de los interruptores de luz
 - Junto a los electrónicos
-- Cerca de los grifos
+- Cerca de las canillas
 
 ### Parte III - Compartir
-Haz una lista de todas las formas en que se usa la energía en tu hogar, escuela o lugar de reunión.
+Hacé una lista de todas las formas en que se usa la energía en tu hogar, escuela o lugar de reunión.
 
 ### Parte IV - Mostrar
-Muestra a otros cuánto se puede ahorrar siendo cuidadosos.
+Mostrá a otros cuánto se puede ahorrar siendo cuidadosos.
 
 ## Cierre
-1. ¿Qué recordatorio crees que será más efectivo?
+1. ¿Qué recordatorio creés que será más efectivo?
 2. ¿Qué cambio de hábito te gustaría lograr?
 3. ¿Cómo se sintió la gente al ver los recordatorios?
 
@@ -226,20 +226,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

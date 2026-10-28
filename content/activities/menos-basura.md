@@ -3,7 +3,7 @@ title: "¡Menos Basura!"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/menos-basura/"
-description: "Identifica la basura en tu ciudad y organiza una recolección."
+description: "Identificá la basura en tu ciudad y organizá una recolección."
 summary: "Recolección de basura."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/menos-basura.png"
+image: "/imagenes/actividades/menos-basura.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -150,23 +150,23 @@ rama_rovers:
 # ¡Menos Basura!
 
 ## Resumen
-Identifica la basura en tu ciudad y organiza una recolección para proteger el suelo.
+Identificá la basura en tu ciudad y organizá una recolección para proteger el suelo.
 
 ## Preparación
-1. Observa la basura en tu área.
-2. Reúne guantes y bolsas.
-3. Organiza un día de recolección.
+1. Observá la basura en tu área.
+2. Reuní guantes y bolsas.
+3. Organizá un día de recolección.
 
 ## Desarrollo
-1. **Observación** (10 min): Identifica áreas con basura.
-2. **Recolección** (30 min): Recolecta basura con cuidado.
+1. **Observación** (10 min): Identificá áreas con basura.
+2. **Recolección** (30 min): Recolectá basura con cuidado.
 3. **Separación** (10 min): Separa lo reciclable.
 4. **Reflexión** (10 min): ¿Cómo prevenir más basura?
 
 ## Cierre
 - ¿Qué tipo de basura encontraste?
 - ¿Cómo afecta la basura al suelo?
-- ¿Qué puedes hacer para prevenir más basura?
+- ¿Qué podés hacer para prevenir más basura?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Identifica la basura en tu ciudad y organiza una recolección para proteger el s
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

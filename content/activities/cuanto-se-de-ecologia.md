@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "¿Cuánto sé de Ecología?"
+title: "¿Cuánto Sé de Ecología?"
 duration: "15-20 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cuanto-se-de-ecologia/"
@@ -14,7 +14,7 @@ source:
   - Propio
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cuanto-se-de-ecologia.png"
+image: "/imagenes/actividades/cuanto-se-de-ecologia.jpg"
 original: true
 Origin: "Actividad original"
 version: "0.99"
@@ -155,7 +155,7 @@ rama_rovers:
 # Actividad original de Mariano S. Cosentino
 ---
 
-# ¿Cuánto sé de Ecología?
+# ¿Cuánto Sé de Ecología?
 
 ## Resumen
 Vamos a pensar y descubrir cuánto es nuestro impacto en la ecología y el medio ambiente, y después vamos a pensar cómo disminuir ese impacto.
@@ -166,8 +166,8 @@ Vamos a pensar y descubrir cuánto es nuestro impacto en la ecología y el medio
 - Generar compromisos para reducir el impacto ecológico.
 
 ## Preparación
-1. Divide el área de juego en 2, 3 o 4 sectores según la pregunta.
-2. Coloca carteles que indiquen a qué respuesta/afirmación corresponde cada sector.
+1. Dividí el área de juego en 2, 3 o 4 sectores según la pregunta.
+2. Colocá carteles que indiquen a qué respuesta/afirmación corresponde cada sector.
 3. Los participantes se encuentran juntos en el centro del área de juego.
 
 ## Desarrollo
@@ -187,18 +187,18 @@ Vamos a pensar y descubrir cuánto es nuestro impacto en la ecología y el medio
 ## Lista de Preguntas
 
 ### Concientización general
-1. Quiero ayudar a disminuir el impacto humano en la naturaleza. (SI / NO / MÁS O MENOS)
-2. Sé cómo disminuir el impacto humano en la naturaleza. (SI / NO / MÁS O MENOS)
+1. Quiero ayudar a disminuir el impacto humano en la naturaleza. (SÍ / NO / MÁS O MENOS)
+2. Sé cómo disminuir el impacto humano en la naturaleza. (SÍ / NO / MÁS O MENOS)
 3. Yo contamino. (MUCHO / POQUITO / NADA)
 4. Tiro basura en la calle. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
 ### Plásticos
-5. Sé qué plásticos contaminan. (SI / NO / MÁS O MENOS)
+5. Sé qué plásticos contaminan. (SÍ / NO / MÁS O MENOS)
 6. Uso pajitas de plástico para tomar gaseosas. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 7. Uso cubiertos descartables para comer. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 8. Uso vasos descartables para tomar bebidas. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 9. Tiro las botellas plásticas a la basura. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
-10. Sé lo que son los plásticos de un solo uso. (SI / NO / MÁS O MENOS)
+10. Sé lo que son los plásticos de un solo uso. (SÍ / NO / MÁS O MENOS)
 
 ### Hábitos de reciclaje
 11. Separo la basura antes de tirarla. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
@@ -211,8 +211,8 @@ Vamos a pensar y descubrir cuánto es nuestro impacto en la ecología y el medio
 16. Cierro bien la canilla mientras me lavo los dientes. (SIEMPRE / CASI SIEMPRE / ALGUNAS VECES / NUNCA)
 
 ### Conocimiento e impacto
-17. Sé qué impacto tiene la contaminación en los ecosistemas, en la salud de las personas y en las comunidades. (SI / NO / MÁS O MENOS)
-18. Participo de eventos que abordan la contaminación de los ecosistemas acuáticos y terrestres. (SI / NO / MÁS O MENOS)
+17. Sé qué impacto tiene la contaminación en los ecosistemas, en la salud de las personas y en las comunidades. (SÍ / NO / MÁS O MENOS)
+18. Participo de eventos que abordan la contaminación de los ecosistemas acuáticos y terrestres. (SÍ / NO / MÁS O MENOS)
 
 ## Cierre
 
@@ -243,18 +243,3 @@ Vamos a pensar y descubrir cuánto es nuestro impacto en la ecología y el medio
 **Cierre:** Discutimos sobre la actividad, que podemos hacer para reducir nuestro impacto ecológico? Cada participante se compromete a mejorar un aspecto ecológico, ej: reducir el uso (o eliminar) un elemento contaminante de su vida.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original incluido
-- [x] Todas las ramas incluidas
-- [x] original: true

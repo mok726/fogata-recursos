@@ -4,7 +4,7 @@ title: "El Maestro del Menú"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-maestro-del-menu/"
-description: "Prepara un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias."
+description: "Prepará un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias."
 summary: "Creación de menú semanal saludable."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-maestro-del-menu.png"
+image: "/imagenes/actividades/el-maestro-del-menu.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -170,18 +170,18 @@ rama_rovers:
 # El Maestro del Menú
 
 ## Resumen
-Prepara un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias.
+Prepará un menú semanal con cenas saludables y equilibradas, variando los grupos de alimentos y las culturas culinarias.
 
 ## Preparación
-1. Divide los alimentos que comes en diferentes categorías.
-2. Busca recetas que incorporen estos grupos.
-3. Piensa en un tema diferente para cada cena (comida india, china, marroquí, griega, etc.).
+1. Dividí los alimentos que comés en diferentes categorías.
+2. Buscá recetas que incorporen estos grupos.
+3. Pensá en un tema diferente para cada cena (comida india, china, marroquí, griega, etc.).
 
 ## Desarrollo
-1. **Categorización** (15 min): Divide los alimentos en grupos.
-2. **Investigación** (20 min): Busca recetas variadas.
-3. **Planificación** (20 min): Crea un menú semanal.
-4. **Presentación** (15 min): Comparte el menú con el grupo.
+1. **Categorización** (15 min): Dividí los alimentos en grupos.
+2. **Investigación** (20 min): Buscá recetas variadas.
+3. **Planificación** (20 min): Creá un menú semanal.
+4. **Presentación** (15 min): Compartí el menú con el grupo.
 
 ## Cierre
 - ¿Cómo variaste los grupos de alimentos en tu menú?
@@ -189,16 +189,3 @@ Prepara un menú semanal con cenas saludables y equilibradas, variando los grupo
 - ¿Qué compromiso adquieres para diversificar tu alimentación?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

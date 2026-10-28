@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Edificios verdes a mi alrededor"
+title: "Edificios Verdes a Mi Alrededor"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/edificios-verdes-a-mi-alrededor/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/edificios-verdes-a-mi-alrededor.png"
+image: "/imagenes/actividades/edificios-verdes-a-mi-alrededor.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 8   # Busco y evalúo diversas fuentes de información
 ---
 
-# ¡Edificios verdes a mi alrededor!
+# ¡Edificios Verdes a Mi Alrededor!
 
 ## Resumen
 ¿Sabías que los edificios verdes están diseñados para reducir el impacto general del entorno construido en la salud humana y el medio ambiente natural? ¿Hay edificios escolares verdes en tu barrio?
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

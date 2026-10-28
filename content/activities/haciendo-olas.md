@@ -4,7 +4,7 @@ title: "Haciendo Olas"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/haciendo-olas/"
-description: "Experimenta cómo se forman las olas usando una bandeja, agua y un abanico."
+description: "Experimentá cómo se forman las olas usando una bandeja, agua y un abanico."
 summary: "Experimento sobre la formación de olas."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia del Océano
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haciendo-olas.png"
+image: "/imagenes/actividades/haciendo-olas.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -169,19 +169,19 @@ rama_rovers:
 # Haciendo Olas
 
 ## Resumen
-Experimenta cómo se forman las olas usando una bandeja, agua y un abanico.
+Experimentá cómo se forman las olas usando una bandeja, agua y un abanico.
 
 ## Preparación
-1. Discute con tu profesor/líder de grupo sobre lo que ya sabes acerca de las olas.
-2. Llena la bandeja/tazón con alrededor de 7-10 cm de agua.
-3. Prepara el abanico de papel.
-4. Asegura la supervisión de un adulto.
+1. Discutí con tu profesor/líder de grupo sobre lo que ya sabés acerca de las olas.
+2. Llená la bandeja/tazón con alrededor de 7-10 cm de agua.
+3. Prepará el abanico de papel.
+4. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Discusión** (10 min): ¿Qué son las olas? ¿Cómo crees que estas se forman? ¿Cómo usan las personas las olas? ¿Cómo afectan las olas la línea costera?
-2. **Experimento** (15 min): Pide a una persona que agite el abanico de arriba hacia abajo desde una distancia de aproximadamente 30 cm de la bandeja/tazón.
-3. **Observación** (10 min): ¿Qué ves? ¿Qué crees que sucederá si el abanico se mueve más rápido? Inténtalo y ve qué sucede.
-4. **Registro** (10 min): Dibuja y describe lo que observaste.
+1. **Discusión** (10 min): ¿Qué son las olas? ¿Cómo creés que estas se forman? ¿Cómo usan las personas las olas? ¿Cómo afectan las olas la línea costera?
+2. **Experimento** (15 min): Pedí a una persona que agite el abanico de arriba hacia abajo desde una distancia de aproximadamente 30 cm de la bandeja/tazón.
+3. **Observación** (10 min): ¿Qué ves? ¿Qué creés que sucederá si el abanico se mueve más rápido? Intentalo y andá qué sucede.
+4. **Registro** (10 min): Dibujá y describí lo que observaste.
 
 ## Cierre
 - ¿Cómo se forman las olas?
@@ -200,16 +200,3 @@ Discute con tu profesor/líder de grupo sobre lo que ya sabes acerca de las olas
 nivel: 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

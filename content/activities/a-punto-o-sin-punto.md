@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "A Punto o Sin Punto"
+title: "A Punto o sin Punto"
 duration: "40 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/a-punto-o-sin-punto/"
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/a-punto-o-sin-punto.png"
+image: "/imagenes/actividades/a-punto-o-sin-punto.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -169,24 +169,24 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡A Punto o Sin Punto!
+# ¡A Punto o sin Punto!
 
 ## Resumen
-La contaminación que ingresa a un cuerpo de agua se puede clasificar en dos categorías: fuente puntual y fuente no puntual. La contaminación de **fuente puntual** es fácil de identificar, ya que se puede rastrear directamente hasta su origen. Por ejemplo, si hay un derrame de petróleo causado por un petrolero, puedes "señalar" con el dedo la fuente exacta de la contaminación. La contaminación de **fuente no puntual** es mucho más difícil de identificar. La contaminación por escorrentía de aguas pluviales es un tipo de contaminación de fuente no puntual. Esto significa que la contaminación no se puede rastrear hasta una fuente específica porque proviene de muchas fuentes diferentes en todo el medio ambiente. En esta actividad, los participantes aprenden a distinguir entre fuentes de contaminación puntuales y no puntuales a través de un juego interactivo.
+La contaminación que ingresa a un cuerpo de agua se puede clasificar en dos categorías: fuente puntual y fuente no puntual. La contaminación de **fuente puntual** es fácil de identificar, ya que se puede rastrear directamente hasta su origen. Por ejemplo, si hay un derrame de petróleo causado por un petrolero, podés "señalar" con el dedo la fuente exacta de la contaminación. La contaminación de **fuente no puntual** es mucho más difícil de identificar. La contaminación por escorrentía de aguas pluviales es un tipo de contaminación de fuente no puntual. Esto significa que la contaminación no se puede rastrear hasta una fuente específica porque proviene de muchas fuentes diferentes en todo el medio ambiente. En esta actividad, los participantes aprenden a distinguir entre fuentes de contaminación puntuales y no puntuales a través de un juego interactivo.
 
 ## Preparación
-1. Prepara las tarjetas de contaminación escribiendo cada fuente en una cartulina.
-2. Perfora la parte superior de las tarjetas y pasa un trozo de hilo o lana, haciendo un lazo lo suficientemente largo para que los participantes puedan colgárselo al cuello.
+1. Prepará las tarjetas de contaminación escribiendo cada fuente en una cartulina.
+2. Perforá la parte superior de las tarjetas y pasa un trozo de hilo o lana, haciendo un lazo lo suficientemente largo para que los participantes puedan colgárselo al cuello.
 
 ## Desarrollo
 
 ### Paso 1: Introducción
-1. Explica a tu grupo que van a explorar las fuentes de contaminación puntuales y no puntuales. Asegúrate de que tengan claros ambos conceptos.
-2. Explica que a menudo la contaminación no es intencional, sino el resultado de un accidente, una sobrecarga del sistema o la falla de parte de un proceso de fabricación.
+1. Explicá a tu grupo que van a explorar las fuentes de contaminación puntuales y no puntuales. Asegurate de que tengan claros ambos conceptos.
+2. Explicá que a menudo la contaminación no es intencional, sino el resultado de un accidente, una sobrecarga del sistema o la falla de parte de un proceso de fabricación.
 
 ### Paso 2: El juego
-3. Explica a tu grupo que van a jugar un juego. Reúne a los participantes en un círculo. Entrega una "tarjeta de contaminación" a cada uno y pídeles que se las coloquen alrededor del cuello para que las palabras sean visibles para el grupo.
-4. Comienza nombrando uno de los tipos de contaminación que se muestra en la tarjeta de un participante. Si es un ejemplo de contaminación de **fuente puntual**, pide al grupo que **señale al participante con su dedo índice**. Si es una fuente **no puntual** de contaminación, no pueden usar el dedo, sino que deben indicar al participante **apuntando con el codo doblado en su dirección**.
+3. Explicá a tu grupo que van a jugar un juego. Reuní a los participantes en un círculo. Entregá una "tarjeta de contaminación" a cada uno y pediles que se las coloquen alrededor del cuello para que las palabras sean visibles para el grupo.
+4. Comenzá nombrando uno de los tipos de contaminación que se muestra en la tarjeta de un participante. Si es un ejemplo de contaminación de **fuente puntual**, pedí al grupo que **señale al participante con su dedo índice**. Si es una fuente **no puntual** de contaminación, no pueden usar el dedo, sino que deben indicar al participante **apuntando con el codo doblado en su dirección**.
 5. El participante indicado debe entonces (lo más rápido posible) elegir a otro participante, decir en voz alta su ejemplo de contaminación y "señalar" o "no señalar" hacia él.
 6. El juego continúa, cada vez más rápido, volviéndose frenético y divertido. Si un participante accidentalmente "señala" ilegalmente (por ejemplo, usa el dedo para una fuente no puntual), debe salir del círculo. El círculo se vuelve cada vez más pequeño hasta que solo quedan unos pocos participantes.
 
@@ -194,7 +194,7 @@ La contaminación que ingresa a un cuerpo de agua se puede clasificar en dos cat
 
 | Fuente de Contaminación | Tipo |
 |-------------------------|------|
-| Un basurero al aire libre | No puntual |
+| Un basural a cielo abierto | No puntual |
 | Pescadores que erosionan la orilla de un arroyo | No puntual |
 | Tierra suelta en un sitio de construcción | No puntual |
 | Una tubería rota que vierte aguas residuales crudas a un río | Puntual |
@@ -211,9 +211,9 @@ La contaminación que ingresa a un cuerpo de agua se puede clasificar en dos cat
 | Agua ácida que se filtra de una mina de carbón | Puntual |
 
 ## Cierre
-- ¿Puedes pensar en otros ejemplos de fuentes de contaminación puntuales y no puntuales?
-- ¿Por qué crees que las fuentes puntuales han disminuido?
-- ¿Cómo contribuyes a contaminar tu cuenca? ¿Qué puedes hacer para cambiar eso?
+- ¿Podés pensar en otros ejemplos de fuentes de contaminación puntuales y no puntuales?
+- ¿Por qué creés que las fuentes puntuales han disminuido?
+- ¿Cómo contribuís a contaminar tu cuenca? ¿Qué podés hacer para cambiar eso?
 
 ## Texto original completo de la actividad
 
@@ -321,21 +321,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (11-22 años, niveles 2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[24,26], scouts[31,34], caminantes[29,30], rovers[30,31])

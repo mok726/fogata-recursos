@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Pesca los hechos"
+title: "Pesca los Hechos"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/pesca-los-hechos/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/pesca-los-hechos.png"
+image: "/imagenes/actividades/pesca-los-hechos.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -160,25 +160,25 @@ rama_rovers:
   - 32 # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Pesca los hechos!
+# ¡Pesca los Hechos!
 
 ## Resumen
 Los alimentos saludables y renovables provenientes de la pesca se harán más importantes a medida que la agricultura se vea afectada a causa de sequías y otros impactos del cambio climático. Pero muchas especies de peces están siendo capturadas más rápidamente que su capacidad de reproducirse.
 
 ## Preparación
-1. Investiga sobre especies de pescado en peligro y sostenibles.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá sobre especies de pescado en peligro y sostenibles.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Averigua cuáles especies de pescado están en riesgo de extinción.
-2. Averigua cuáles especies son producidas con prácticas sostenibles.
-3. Prepara un folleto con fotos y descripciones de estos peces.
-4. Aconseja a tus lectores que prefieran especies sostenibles al planificar su cena.
+1. Averiguá cuáles especies de pescado están en riesgo de extinción.
+2. Averiguá cuáles especies son producidas con prácticas sostenibles.
+3. Prepará un folleto con fotos y descripciones de estos peces.
+4. Aconsejá a tus lectores que prefieran especies sostenibles al planificar su cena.
 
 ## Cierre
-1. Distribuye los folletos en tu comunidad local.
-2. Comparte tu investigación con el grupo.
+1. Distribuí los folletos en tu comunidad local.
+2. Compartí tu investigación con el grupo.
 3. Pregunta final: ¿Cómo podemos ser consumidores responsables de pescado?
 
 ## Texto original completo de la actividad
@@ -187,16 +187,3 @@ C.12 PESCA LOS HECHOS. Los alimentos saludables y renovables provenientes de la 
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

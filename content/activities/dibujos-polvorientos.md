@@ -3,7 +3,7 @@ title: "Dibujos Polvorientos"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/dibujos-polvorientos/"
-description: "Crea pinturas con suelo y haz dibujos con diferentes colores y texturas."
+description: "Creá pinturas con suelo y hacé dibujos con diferentes colores y texturas."
 summary: "Pintura con suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/dibujos-polvorientos.png"
+image: "/imagenes/actividades/dibujos-polvorientos.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -153,18 +153,18 @@ rama_rovers: []
 # ¡Dibujos Polvorientos!
 
 ## Resumen
-Recolecta suelos de diferentes colores, aplástalos y mézclalos con agua para crear pinturas naturales.
+Recolectá suelos de diferentes colores, aplástalos y mézclalos con agua para crear pinturas naturales.
 
 ## Preparación
-1. Recolecta suelos de diferentes colores.
-2. Prepara agua, pinceles y papel.
+1. Recolectá suelos de diferentes colores.
+2. Prepará agua, pinceles y papel.
 3. Aplasta el suelo hasta hacerlo polvo.
 
 ## Desarrollo
 1. **Preparación** (15 min): Aplasta el suelo hasta hacerlo polvo.
-2. **Mezcla** (10 min): Mezcla el polvo con agua y pinturas (opcional).
-3. **Creación** (25 min): Pinta dibujos con tus pinturas de suelo.
-4. **Exhibición** (10 min): Muestra tus obras al grupo.
+2. **Mezcla** (10 min): Mezclá el polvo con agua y pinturas (opcional).
+3. **Creación** (25 min): Pintá dibujos con tus pinturas de suelo.
+4. **Exhibición** (10 min): Mostrá tus obras al grupo.
 
 ## Cierre
 - ¿Qué colores de suelo encontraste?
@@ -179,16 +179,3 @@ Recolecta suelos de diferentes colores, aplástalos y mézclalos con agua para c
 niveles 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

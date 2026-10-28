@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Excursión de campo"
+title: "Excursión de Campo"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/excursion-de-campo/"
-description: "Visita a una zona rural para explorar los vínculos entre las áreas urbanas y rurales y comprender su interdependencia."
+description: "Visitá a una zona rural para explorar los vínculos entre las áreas urbanas y rurales y comprender su interdependencia."
 summary: "Visitar una zona rural para entender los vínculos urbano-rurales."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/excursion-de-campo.png"
+image: "/imagenes/actividades/excursion-de-campo.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -160,7 +160,7 @@ rama_rovers:
   - 4   # Disfruto de la vida en la naturaleza
 ---
 
-# ¡Excursión de campo!
+# ¡Excursión de Campo!
 
 ## Resumen
 Organizá un viaje de un día con tu grupo a una zona rural cercana. Puede ser una granja, un pueblo o cualquier comunidad rural. Llevá cámaras, lapiceras y papel para registrar observaciones. Prestá atención a las diferencias ambientales con tu vecindario. Durante el viaje, hablá con los agricultores locales sobre su relación con el área urbana (alimentos, transporte, servicios, educación, etc.).
@@ -211,20 +211,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

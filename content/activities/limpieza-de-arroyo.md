@@ -5,7 +5,7 @@ duration: "1 hora (organización) + 1 mañana (ejecución)"
 layout: "layouts/activity.njk"
 permalink: "/activities/limpieza-de-arroyo/"
 description: "Los participantes organizan y realizan una limpieza de un arroyo local, aprendiendo cómo acciones simples pueden mejorar el medio ambiente y la calidad del agua."
-summary: "Organiza una limpieza de arroyo."
+summary: "Organizá una limpieza de arroyo."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/limpieza-de-arroyo.png"
+image: "/imagenes/actividades/limpieza-de-arroyo.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -182,16 +182,16 @@ translation_notice:
 En esta actividad, los participantes organizan y realizan una limpieza de un arroyo local, aprendiendo cómo acciones simples pueden mejorar el medio ambiente y la calidad del agua. La actividad promueve el trabajo en equipo, la responsabilidad ambiental y el servicio comunitario.
 
 ## Preparación
-1. Obtén los permisos necesarios para acceder al arroyo.
-2. Coordina el destino final de los desechos recolectados y el medio para transportarlos.
-3. Prepara los materiales de limpieza.
-4. Prepara los materiales para los pósters.
+1. Obtené los permisos necesarios para acceder al arroyo.
+2. Coordiná el destino final de los desechos recolectados y el medio para transportarlos.
+3. Prepará los materiales de limpieza.
+4. Prepará los materiales para los pósters.
 
 ## Desarrollo
 
 ### Paso 1: Organización
-1. Explica a tu grupo que van a organizar una **Limpieza de Arroyo** y que van a invitar a todos en la escuela o lugar de reunión a ayudar. ¡Cuantos más, mejor!
-2. Divide a los participantes en grupos pequeños y pide a cada grupo que haga un póster para publicitar el evento.
+1. Explicá a tu grupo que van a organizar una **Limpieza de Arroyo** y que van a invitar a todos en la escuela o lugar de reunión a ayudar. ¡Cuantos más, mejor!
+2. Dividí a los participantes en grupos pequeños y pedí a cada grupo que haga un póster para publicitar el evento.
 3. No olviden incluir toda la información necesaria:
    - Tema de la actividad
    - Día, lugar y hora del evento
@@ -199,14 +199,14 @@ En esta actividad, los participantes organizan y realizan una limpieza de un arr
    - Medidas de seguridad
 
 ### Paso 2: Publicidad
-4. Coloca los pósters por toda la escuela o lugar de reunión. ¡Asegúrate de que todos se enteren!
+4. Colocá los pósters por toda la escuela o lugar de reunión. ¡Asegurate de que todos se enteren!
 
 ### Paso 3: Ejecución de la limpieza
 5. El día del evento:
-   - Organiza contenedores de basura (también puedes usar bolsas de plástico) en el lugar del evento.
-   - Haz una lista de las tareas a realizar y asígnalas a diferentes personas.
-   - Haz un mapa de dónde trabajará cada persona y mantén un registro de todos.
-   - Asegúrate de que todos conozcan las medidas de seguridad:
+   - Organizá contenedores de basura (también podés usar bolsas de plástico) en el lugar del evento.
+   - Hacé una lista de las tareas a realizar y asignalas a diferentes personas.
+   - Hacé un mapa de dónde trabajará cada persona y mantené un registro de todos.
+   - Asegurate de que todos conozcan las medidas de seguridad:
      - Usar guantes de goma.
      - Usar botas de goma.
      - No recoger nada peligroso.
@@ -215,17 +215,17 @@ En esta actividad, los participantes organizan y realizan una limpieza de un arr
 6. Cuando terminen, registren la cantidad y el tipo de desechos recolectados. ¡Tomen fotos!
 
 ### Paso 4: Cobertura mediática
-7. Proporciona información a los medios locales. Puedes incluso invitarlos a cubrir el evento.
+7. Proporcioná información a los medios locales. Podés incluso invitarlos a cubrir el evento.
 
 ### Paso 5: Seguridad
-**Asegúrate de tomar las precauciones de seguridad necesarias.**
+**Asegurate de tomar las precauciones de seguridad necesarias.**
 
-**Regla simple:** Si un objeto está más de la mitad enterrado, se removería mucho sedimento, así que déjalo ahí. ¡Diviértanse!
+**Regla simple:** Si un objeto está más de la mitad enterrado, se removería mucho sedimento, así que dejalo ahí. ¡Diviértanse!
 
 ## Cierre
-- ¿Hubo mucha gente dispuesta a ayudar? ¿Por qué crees que sucedió esto?
+- ¿Hubo mucha gente dispuesta a ayudar? ¿Por qué creés que sucedió esto?
 - ¿Cómo te sentiste sabiendo que estabas haciendo algo para mejorar tu medio ambiente?
-- ¿Cómo crees que la limpieza del arroyo ayudará al medio ambiente y a la vida que sustenta?
+- ¿Cómo creés que la limpieza del arroyo ayudará al medio ambiente y a la vida que sustenta?
 
 ## Texto original completo de la actividad
 
@@ -319,21 +319,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[19,25], scouts[24,33], caminantes[23,24], rovers[27,31])

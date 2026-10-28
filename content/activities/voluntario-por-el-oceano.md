@@ -3,7 +3,7 @@ title: "Voluntario por el Océano"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/voluntario-por-el-oceano/"
-description: "Trabaja como voluntario en una organización relacionada con la conservación del océano."
+description: "Trabajá como voluntario en una organización relacionada con la conservación del océano."
 summary: "Voluntariado en conservación marina."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/voluntario-por-el-oceano.png"
+image: "/imagenes/actividades/voluntario-por-el-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -152,19 +152,19 @@ rama_rovers:
 # ¡Voluntario por el Océano!
 
 ## Resumen
-Trabaja como voluntario en una organización relacionada con la conservación del océano y comparte tu experiencia.
+Trabajá como voluntario en una organización relacionada con la conservación del océano y compartí tu experiencia.
 
 ## Preparación
-1. Investiga organizaciones de conservación marina en tu área.
-2. Contacta a la organización y pregunta sobre oportunidades de voluntariado.
-3. Define un horario y compromiso para el voluntariado.
+1. Investigá organizaciones de conservación marina en tu área.
+2. Contactá a la organización y pregunta sobre oportunidades de voluntariado.
+3. Definí un horario y compromiso para el voluntariado.
 
 ## Desarrollo
-1. **Investigación** (20 min): Busca oportunidades de voluntariado.
-2. **Contacto** (15 min): Comunícate con la organización.
-3. **Voluntariado** (varias horas/semanas): Participa activamente.
-4. **Blog/Diario** (15 min/sesión): Documenta tu experiencia.
-5. **Compartir** (20 min): Presenta tu experiencia al grupo.
+1. **Investigación** (20 min): Buscá oportunidades de voluntariado.
+2. **Contacto** (15 min): Comunicate con la organización.
+3. **Voluntariado** (varias horas/semanas): Participá activamente.
+4. **Blog/Diario** (15 min/sesión): Documentá tu experiencia.
+5. **Compartir** (20 min): Presentá tu experiencia al grupo.
 
 ## Cierre
 - ¿Qué aprendiste en tu experiencia de voluntariado?
@@ -183,16 +183,3 @@ Trabaja como voluntario unas pocas horas cada semana durante un par de meses en 
 nivel 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

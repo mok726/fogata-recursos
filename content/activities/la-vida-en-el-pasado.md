@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La vida en el pasado"
+title: "La Vida en el Pasado"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-vida-en-el-pasado/"
-description: "Entrevista a una persona mayor para conocer cómo era la vida antes de la urbanización y cómo cambió su ciudad."
+description: "Entrevistá a una persona mayor para conocer cómo era la vida antes de la urbanización y cómo cambió su ciudad."
 summary: "Entrevistar a alguien sobre la vida pasada en la ciudad."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-vida-en-el-pasado.png"
+image: "/imagenes/actividades/la-vida-en-el-pasado.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -161,7 +161,7 @@ rama_rovers:
   - 35  # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡La vida en el pasado!
+# ¡La Vida en el Pasado!
 
 ## Resumen
 ¿Sabés cómo era tu ciudad antes de que ocurriera la urbanización? Hablá con una persona mayor de tu familia o del vecindario y preguntale cómo era la vida en el pasado. ¿Había más animales? ¿Había más espacios verdes? ¿En qué tipo de casas vivía la gente y cómo se transportaban? La urbanización debe haber traído grandes cambios a sus vidas.
@@ -210,20 +210,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

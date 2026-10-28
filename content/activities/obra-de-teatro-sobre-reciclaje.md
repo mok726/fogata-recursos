@@ -1,9 +1,9 @@
 ---
-title: "Obra de teatro sobre reciclaje"
+title: "Obra de Teatro sobre Reciclaje"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/obra-de-teatro-sobre-reciclaje/"
-description: "Presenta una obra de teatro sobre la reducción de desechos."
+description: "Presentá una obra de teatro sobre la reducción de desechos."
 summary: "Obra de teatro sobre reciclaje."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/obra-de-teatro-sobre-reciclaje.png"
+image: "/imagenes/actividades/obra-de-teatro-sobre-reciclaje.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -146,20 +146,20 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Obra de teatro sobre reciclaje!
+# ¡Obra de Teatro sobre Reciclaje!
 
 ## Resumen
-Presenta una obra de teatro para mostrar cómo reducir los desechos en los tiraderos de basura.
+Presentá una obra de teatro para mostrar cómo reducir los desechos en los basurales.
 
 ## Preparación
-1. Escribe el guión.
-2. Asigna roles.
-3. Prepara materiales para escenografía.
+1. Escribí el guión.
+2. Asigná roles.
+3. Prepará materiales para escenografía.
 
 ## Desarrollo
-1. **Creación** (30 min): Escribe el guión y prepara la escenografía.
-2. **Ensayo** (30 min): Ensaya la obra.
-3. **Presentación** (20 min): Presenta la obra en tu escuela.
+1. **Creación** (30 min): Escribí el guión y prepará la escenografía.
+2. **Ensayo** (30 min): Ensayá la obra.
+3. **Presentación** (20 min): Presentá la obra en tu escuela.
 4. **Reflexión** (10 min): ¿Qué mensaje transmitiste?
 
 ## Cierre
@@ -175,16 +175,3 @@ Presenta una obra de teatro para mostrar cómo reducir los desechos en los tirad
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

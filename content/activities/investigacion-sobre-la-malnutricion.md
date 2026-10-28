@@ -4,7 +4,7 @@ title: "Investigación sobre la Malnutrición"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/investigacion-sobre-la-malnutricion/"
-description: "Investiga diferentes formas de malnutrición, sus causas y efectos en diferentes regiones del mundo."
+description: "Investigá diferentes formas de malnutrición, sus causas y efectos en diferentes regiones del mundo."
 summary: "Investigación sobre la malnutrición."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/investigacion-sobre-la-malnutricion.png"
+image: "/imagenes/actividades/investigacion-sobre-la-malnutricion.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,19 +169,19 @@ rama_rovers:
 # Investigación sobre la Malnutrición
 
 ## Resumen
-Investiga diferentes formas de malnutrición, sus causas y efectos en diferentes regiones del mundo.
+Investigá diferentes formas de malnutrición, sus causas y efectos en diferentes regiones del mundo.
 
 ## Preparación
 1. Divídanse en equipos y elijan una forma de malnutrición (deficiencias de micronutrientes, sobrepeso y obesidad, etc.).
-2. Prepara material de investigación.
-3. Prepara material para la exposición.
+2. Prepará material de investigación.
+3. Prepará material para la exposición.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga la forma de malnutrición elegida.
-2. **Análisis** (15 min): Explora las causas y los efectos.
-3. **Prevalencia** (15 min): Investiga dónde es más común.
-4. **Exposición** (20 min): Prepara una exposición sobre los hallazgos.
-5. **Presentación** (15 min): Comparte con el resto de grupos.
+1. **Investigación** (25 min): Investigá la forma de malnutrición elegida.
+2. **Análisis** (15 min): Explorá las causas y los efectos.
+3. **Prevalencia** (15 min): Investigá dónde es más común.
+4. **Exposición** (20 min): Prepará una exposición sobre los hallazgos.
+5. **Presentación** (15 min): Compartí con el resto de grupos.
 
 ## Cierre
 - ¿Qué formas de malnutrición descubriste?
@@ -189,16 +189,3 @@ Investiga diferentes formas de malnutrición, sus causas y efectos en diferentes
 - ¿Qué compromiso adquieres para ayudar a combatir la malnutrición?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

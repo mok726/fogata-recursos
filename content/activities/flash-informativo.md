@@ -4,7 +4,7 @@ title: "Flash Informativo"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/flash-informativo/"
-description: "Diseña un periódico dedicado a cuestiones globales sobre el hambre y la pobreza con noticias y fotografías."
+description: "Diseñá un periódico dedicado a cuestiones globales sobre el hambre y la pobreza con noticias y fotografías."
 summary: "Creación de un periódico sobre el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/flash-informativo.png"
+image: "/imagenes/actividades/flash-informativo.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -168,36 +168,23 @@ rama_rovers:
 # Flash Informativo
 
 ## Resumen
-Diseña un periódico dedicado a cuestiones globales sobre el hambre y la pobreza con noticias y fotografías.
+Diseñá un periódico dedicado a cuestiones globales sobre el hambre y la pobreza con noticias y fotografías.
 
 ## Preparación
-1. Elige los temas relacionados con el hambre que te parezcan más importantes.
-2. Prepara material para diseñar el periódico.
-3. Piensa en el diseño que deseas lograr.
+1. Elegí los temas relacionados con el hambre que te parezcan más importantes.
+2. Prepará material para diseñar el periódico.
+3. Pensá en el diseño que deseás lograr.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga noticias sobre el hambre global.
-2. **Diseño** (15 min): Diseña la portada del periódico.
-3. **Redacción** (20 min): Escribe una noticia principal en profundidad.
-4. **Finalización** (15 min): Agrega fotografías y detalles.
-5. **Presentación** (15 min): Comparte tu periódico con el grupo.
+1. **Investigación** (20 min): Investigá noticias sobre el hambre global.
+2. **Diseño** (15 min): Diseñá la portada del periódico.
+3. **Redacción** (20 min): Escribí una noticia principal en profundidad.
+4. **Finalización** (15 min): Agregá fotografías y detalles.
+5. **Presentación** (15 min): Compartí tu periódico con el grupo.
 
 ## Cierre
 - ¿Qué noticias sobre el hambre te parecieron más importantes?
-- ¿Cómo puedes contribuir a difundir información sobre el hambre?
+- ¿Cómo podés contribuir a difundir información sobre el hambre?
 - ¿Qué compromiso adquieres para mantenerte informado sobre el hambre?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

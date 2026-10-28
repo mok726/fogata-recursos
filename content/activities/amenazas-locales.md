@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Amenazas locales"
+title: "Amenazas Locales"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/amenazas-locales/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/amenazas-locales.png"
+image: "/imagenes/actividades/amenazas-locales.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -166,7 +166,7 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre personas y especies
 ---
 
-# ¡Amenazas locales!
+# ¡Amenazas Locales!
 
 ## Resumen
 ¿Cuáles son las amenazas para los polinizadores locales? Hacé una lista de los posibles factores. ¿Hay mucha construcción? ¿Hay mucha deforestación para fines agrícolas? Hacé una encuesta comunitaria para saber qué tipos de pesticidas se usan más en tu área. ¿Son dañinos para los polinizadores? ¿Qué pasa con la contaminación? ¿Es un problema en tu región?
@@ -214,20 +214,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

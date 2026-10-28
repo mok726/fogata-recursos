@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Un clima que da vida"
+title: "Un Clima que Da Vida"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/un-clima-que-da-vida/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/un-clima-que-da-vida.png"
+image: "/imagenes/actividades/un-clima-que-da-vida.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -34,7 +34,7 @@ age_group:
 # ========== LOGÍSTICA ==========
 materials:
   - Cuaderno de notas
-  - Lápiz o bolígrafo
+  - Lápiz o lapicera
   - Grabador de audio (opcional)
 tools: []
 responsible:
@@ -160,24 +160,24 @@ rama_rovers:
   - 32  # Reconozco la interdependencia entre las personas y especies
 ---
 
-# ¡Un clima que da vida!
+# ¡Un Clima que Da Vida!
 
 ## Resumen
-El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agua y permite que las personas obtengan los recursos que necesitan para construir sus casas. Entrevista a miembros de tu comunidad sobre la importancia del clima.
+El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agua y permite que las personas obtengan los recursos que necesitan para construir sus casas. Entrevistá a miembros de tu comunidad sobre la importancia del clima.
 
 ## Preparación
-1. Prepara preguntas para la entrevista sobre la importancia del clima.
-2. Investiga algunos hechos sobre el clima para compartir.
-3. Organiza los grupos para las entrevistas.
+1. Prepará preguntas para la entrevista sobre la importancia del clima.
+2. Investigá algunos hechos sobre el clima para compartir.
+3. Organizá los grupos para las entrevistas.
 
 ## Desarrollo
-1. Prepara algunas preguntas sobre cómo el clima contribuye a la salud y al bienestar.
-2. Entrevista a un miembro de tu familia, un amigo o un miembro de tu comunidad.
-3. Puedes compartir algunos hechos sobre el tema para enriquecer la conversación.
-4. Toma notas durante la entrevista.
+1. Prepará algunas preguntas sobre cómo el clima contribuye a la salud y al bienestar.
+2. Entrevistá a un miembro de tu familia, un amigo o un miembro de tu comunidad.
+3. Podés compartir algunos hechos sobre el tema para enriquecer la conversación.
+4. Tomá notas durante la entrevista.
 
 ## Cierre
-1. Comparte tus entrevistas con tu clase o grupo.
+1. Compartí tus entrevistas con tu clase o grupo.
 2. Discutan: ¿Las personas sabían realmente sobre la importancia del clima para nuestra vida?
 3. Pregunta final: ¿Qué aprendiste de las personas que entrevistaste?
 
@@ -187,16 +187,3 @@ A.08 UN CLIMA QUE DA VIDA. Tú ya sabes que el clima es un factor clave para man
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

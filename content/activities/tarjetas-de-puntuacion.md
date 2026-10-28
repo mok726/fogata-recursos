@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Tarjetas de puntuación para empaques"
+title: "Tarjetas de Puntuación para Empaques"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/tarjetas-de-puntuacion/"
-description: "Crea un sistema de puntuación para evaluar qué tan ecológicos son los empaques de productos en tu supermercado local."
-summary: "Evalúa la sostenibilidad de los empaques de productos."
+description: "Creá un sistema de puntuación para evaluar qué tan ecológicos son los empaques de productos en tu supermercado local."
+summary: "Evaluá la sostenibilidad de los empaques de productos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/tarjetas-de-puntuacion.png"
+image: "/imagenes/actividades/tarjetas-de-puntuacion.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -162,15 +162,15 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Tarjetas de puntuación para empaques!
+# ¡Tarjetas de Puntuación para Empaques!
 
 ## Resumen
-Crea un sistema de puntuación para evaluar qué tan ecológicos son los empaques de los productos en tu supermercado local. Usa colores o números para calificar qué tan fácil es reutilizar o reciclar cada empaque.
+Creá un sistema de puntuación para evaluar qué tan ecológicos son los empaques de los productos en tu supermercado local. Usá colores o números para calificar qué tan fácil es reutilizar o reciclar cada empaque.
 
 ## Preparación
-1. Lee la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
-2. Consulta la ilustración "Tipos de plástico" para reconocer los materiales plásticos.
-3. Prepara tarjetas o papel para crear el sistema de puntuación.
+1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+2. Consultá la ilustración "Tipos de plástico" para reconocer los materiales plásticos.
+3. Prepará tarjetas o papel para crear el sistema de puntuación.
 
 ## Desarrollo
 
@@ -229,20 +229,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

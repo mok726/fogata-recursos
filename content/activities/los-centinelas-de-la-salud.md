@@ -4,7 +4,7 @@ title: "Los Centinelas de la Salud"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-centinelas-de-la-salud/"
-description: "Crea una lista de hábitos saludables para tu familia y haz un seguimiento mensual."
+description: "Creá una lista de hábitos saludables para tu familia y hacé un seguimiento mensual."
 summary: "Seguimiento de hábitos saludables familiares."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-centinelas-de-la-salud.png"
+image: "/imagenes/actividades/los-centinelas-de-la-salud.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -169,15 +169,15 @@ rama_rovers:
 # Los Centinelas de la Salud
 
 ## Resumen
-Crea una lista de hábitos saludables para tu familia y haz un seguimiento mensual.
+Creá una lista de hábitos saludables para tu familia y hacé un seguimiento mensual.
 
 ## Preparación
-1. Prepara una lista con elementos para una buena salud (dieta, actividad física, sueño, etc.).
-2. Coloca la lista en un lugar destacado de tu casa.
-3. Si tienes smartphone, descarga una aplicación para registrar hábitos.
+1. Prepará una lista con elementos para una buena salud (dieta, actividad física, sueño, etc.).
+2. Colocá la lista en un lugar destacado de tu casa.
+3. Si tenés smartphone, descarga una aplicación para registrar hábitos.
 
 ## Desarrollo
-1. **Lista** (15 min): Crea la lista de hábitos saludables.
+1. **Lista** (15 min): Creá la lista de hábitos saludables.
 2. **Seguimiento** (durante un mes): Cada miembro de la familia tacha lo que ha conseguido.
 3. **Revisión** (15 min): Al final del mes, revisa los logros.
 4. **Celebración** (10 min): El ganador recibe una comida nutritiva preparada por el resto.
@@ -188,16 +188,3 @@ Crea una lista de hábitos saludables para tu familia y haz un seguimiento mensu
 - ¿Qué compromiso adquieres para mantener estos hábitos?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

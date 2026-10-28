@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/acidificacion-del-oceano.png"
+image: "/imagenes/actividades/acidificacion-del-oceano.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -162,18 +162,18 @@ rama_rovers:
 # ¡Acidificación del Océano!
 
 ## Resumen
-Realiza un experimento para entender cómo el aumento de la acidez del océano afecta a la vida marina, especialmente a los organismos que construyen conchas y estructuras duras.
+Realizá un experimento para entender cómo el aumento de la acidez del océano afecta a la vida marina, especialmente a los organismos que construyen conchas y estructuras duras.
 
 ## Preparación
-1. Reúne los materiales: tres jarras, agua, vinagre, agua carbonatada, conchas y tiras de pH.
-2. Ve el video sobre acidificación del océano.
+1. Reuní los materiales: tres jarras, agua, vinagre, agua carbonatada, conchas y tiras de pH.
+2. Andá el video sobre acidificación del océano.
 
 ## Desarrollo
 1. **Discusión** (10 min): ¿Qué es la acidez? ¿Cómo se mide con pH? ¿Por qué se está acidificando el océano?
-2. **Experimento - Parte 1** (10 min): Mide el pH de cada líquido y anótalo.
-3. **Experimento - Parte 2** (10 min): Coloca una concha en cada jarra y observa.
-4. **Observación** (20 min): Revisa las jarras cada hora y luego diariamente durante una semana.
-5. **Conclusión** (10 min): Después de una semana, remueve las conchas, sécalas y pésalas.
+2. **Experimento - Parte 1** (10 min): Medí el pH de cada líquido y anotalo.
+3. **Experimento - Parte 2** (10 min): Colocá una concha en cada jarra y observá.
+4. **Observación** (20 min): Revisá las jarras cada hora y luego diariamente durante una semana.
+5. **Conclusión** (10 min): Después de una semana, remueve las conchas, sécalas y pesalas.
 
 ## Cierre
 - ¿Qué le sucedió a cada concha?
@@ -202,16 +202,3 @@ Extensión: diseñen una información publicitaria para concienciar a las person
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

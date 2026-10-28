@@ -4,7 +4,7 @@ title: "Usando la Madera"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/usando-la-madera/"
-description: "Enumera cosas hechas con madera en tu hogar. Discute pros y contras de cortar árboles."
+description: "Enumerá cosas hechas con madera en tu hogar. Discutí pros y contras de cortar árboles."
 summary: "Inventario de productos de madera y debate sobre su uso."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/usando-la-madera.png"
+image: "/imagenes/actividades/usando-la-madera.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -165,17 +165,17 @@ rama_rovers:
 # Usando la Madera
 
 ## Resumen
-Enumera cosas hechas con madera en tu hogar. Discute pros y contras de cortar árboles.
+Enumerá cosas hechas con madera en tu hogar. Discutí pros y contras de cortar árboles.
 
 ## Preparación
-1. Prepara un cuaderno para el inventario.
-2. Revisa tu hogar en busca de objetos de madera.
+1. Prepará un cuaderno para el inventario.
+2. Revisá tu hogar en busca de objetos de madera.
 
 ## Desarrollo
-1. **Inventario** (15 min): Enumera todas las cosas hechas con madera en tu hogar.
-2. **Reflexión** (10 min): Piensa en qué publicidad o campañas hablan sobre cortar árboles.
+1. **Inventario** (15 min): Enumerá todas las cosas hechas con madera en tu hogar.
+2. **Reflexión** (10 min): Pensá en qué publicidad o campañas hablan sobre cortar árboles.
 3. **Análisis** (15 min): En dos columnas, enumera razones a favor y en contra de cortar árboles.
-4. **Debate** (15 min): Discute tus hallazgos con el grupo.
+4. **Debate** (15 min): Discutí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué aprendiste sobre el uso de la madera en tu hogar?
@@ -183,16 +183,3 @@ Enumera cosas hechas con madera en tu hogar. Discute pros y contras de cortar á
 - ¿Qué compromiso adquieres para consumir madera responsablemente?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

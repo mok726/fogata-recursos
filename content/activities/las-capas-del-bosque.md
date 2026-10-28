@@ -4,7 +4,7 @@ title: "Las Capas del Bosque"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/las-capas-del-bosque/"
-description: "Haz un dibujo de las capas de plantas y árboles de un bosque de tu área. Etiqueta las diferentes capas."
+description: "Hacé un dibujo de las capas de plantas y árboles de un bosque de tu área. Etiquetá las diferentes capas."
 summary: "Dibujo de las capas del bosque."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de los Bosques
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/las-capas-del-bosque.png"
+image: "/imagenes/actividades/las-capas-del-bosque.jpg"
 original: false
 Origin: "Insignia de los Bosques - FAO"
 version: "0.99"
@@ -160,17 +160,17 @@ rama_rovers: []  # No aplica (actividad nivel 1)
 # Las Capas del Bosque
 
 ## Resumen
-Haz un dibujo de las capas de plantas y árboles de un bosque de tu área. Etiqueta las diferentes capas.
+Hacé un dibujo de las capas de plantas y árboles de un bosque de tu área. Etiquetá las diferentes capas.
 
 ## Preparación
-1. Investiga las capas del bosque (suelo forestal, sotobosque, dosel, emergente).
-2. Prepara material para dibujo.
+1. Investigá las capas del bosque (suelo forestal, sotobosque, dosel, emergente).
+2. Prepará material para dibujo.
 
 ## Desarrollo
-1. **Investigación** (10 min): Aprende sobre las capas del bosque.
-2. **Diseño** (10 min): Diseña tu dibujo del bosque.
-3. **Dibujo** (25 min): Dibuja y etiqueta las capas.
-4. **Presentación** (10 min): Comparte tu dibujo con el grupo.
+1. **Investigación** (10 min): Aprendé sobre las capas del bosque.
+2. **Diseño** (10 min): Diseñá tu dibujo del bosque.
+3. **Dibujo** (25 min): Dibujá y etiqueta las capas.
+4. **Presentación** (10 min): Compartí tu dibujo con el grupo.
 
 ## Cierre
 - ¿Qué capas del bosque dibujaste?
@@ -178,16 +178,3 @@ Haz un dibujo de las capas de plantas y árboles de un bosque de tu área. Etiqu
 - ¿Qué aprendiste sobre la estructura del bosque?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

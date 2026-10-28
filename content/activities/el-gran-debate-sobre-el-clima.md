@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "El gran debate sobre el clima"
+title: "El Gran Debate sobre el Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-gran-debate-sobre-el-clima/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.png"
+image: "/imagenes/actividades/el-gran-debate-sobre-el-clima.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -157,24 +157,24 @@ rama_rovers:
   - 35 # Promuevo el diálogo y el entendimiento
 ---
 
-# ¡El gran debate sobre el clima!
+# ¡El Gran Debate sobre el Clima!
 
 ## Resumen
 Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.
 
 ## Preparación
-1. Investiga los argumentos de los escépticos del clima.
-2. Prepara información científica que responda a esos argumentos.
-3. Organiza el debate en equipos.
+1. Investigá los argumentos de los escépticos del clima.
+2. Prepará información científica que responda a esos argumentos.
+3. Organizá el debate en equipos.
 
 ## Desarrollo
-1. Investiga: ¿Cuáles son los argumentos de los escépticos del clima?
-2. Investiga: ¿Cuál es la evidencia científica que responde a esos argumentos?
-3. Prepara tus argumentos y contraargumentos.
-4. Participa en un debate formal sobre el tema.
+1. Investigá: ¿Cuáles son los argumentos de los escépticos del clima?
+2. Investigá: ¿Cuál es la evidencia científica que responde a esos argumentos?
+3. Prepará tus argumentos y contraargumentos.
+4. Participá en un debate formal sobre el tema.
 
 ## Cierre
-1. Reflexiona sobre la experiencia del debate.
+1. Reflexioná sobre la experiencia del debate.
 2. Discutan: ¿Cómo se puede dialogar respetuosamente con personas que tienen opiniones diferentes?
 3. Pregunta final: ¿Por qué es importante entender los argumentos de quienes cuestionan el cambio climático?
 
@@ -184,16 +184,3 @@ B.11 EL GRAN DEBATE SOBRE EL CLIMA. Algunas personas cuestionan o dudan del camb
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

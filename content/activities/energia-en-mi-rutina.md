@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Energía en mi rutina"
+title: "Energía en Mi Rutina"
 duration: "1 día"
 layout: "layouts/activity.njk"
 permalink: "/activities/energia-en-mi-rutina/"
-description: "Explica qué es la energía con tus propias palabras y analiza tus actividades diarias identificando qué formas de energía usas en cada una."
-summary: "Descubre la energía en tu vida cotidiana."
+description: "Explicá qué es la energía con tus propias palabras y analizá tus actividades diarias identificando qué formas de energía usás en cada una."
+summary: "Descubrí la energía en tu vida cotidiana."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Energy Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/energia-en-mi-rutina.png"
+image: "/imagenes/actividades/energia-en-mi-rutina.jpg"
 original: false
 Origin: "Energy Challenge Badge - FAO"
 version: "0.99"
@@ -160,20 +160,20 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Energía en mi rutina!
+# ¡Energía en Mi Rutina!
 
 ## Resumen
-¿Qué es la energía? Intenta explicarlo con tus propias palabras. Luego, escribe o dibuja las actividades que haces cada día e identifica qué formas de energía usas en cada una.
+¿Qué es la energía? Intentá explicarlo con tus propias palabras. Luego, escribí o dibujá las actividades que hacés cada día e identificá qué formas de energía usás en cada una.
 
 ## Preparación
-1. Lee la información sobre formas de energía en la sección de información de fondo.
-2. Prepara papel y lápices para escribir y dibujar.
-3. Piensa en tu día típico.
+1. Leé la información sobre formas de energía en la sección de información de fondo.
+2. Prepará papel y lápices para escribir y dibujar.
+3. Pensá en tu día típico.
 
 ## Desarrollo
 
 ### Parte I - Explicar
-¿Qué es la energía? Explica con tus propias palabras.
+¿Qué es la energía? Explicá con tus propias palabras.
 
 **Ideas para empezar:**
 - Energía es la capacidad de hacer trabajo
@@ -195,7 +195,7 @@ En una hoja de papel, escribe o dibuja tus actividades diarias:
 ¿Cómo contribuye la energía del Sol a tus actividades diarias?
 
 ### Parte IV - Presentación
-Elige una actividad diaria y preséntala al grupo explicando qué formas de energía están involucradas y cómo se convierten de una forma a otra.
+Elegí una actividad diaria y presentala al grupo explicando qué formas de energía están involucradas y cómo se convierten de una forma a otra.
 
 ## Cierre
 1. ¿Qué actividad usa más energía en tu día?
@@ -230,20 +230,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Exploración en la copa de los árboles"
+title: "Exploración en la Copa de los Árboles"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/exploracion-en-la-copa-de-los-arboles/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/exploracion-en-la-copa-de-los-arboles.png"
+image: "/imagenes/actividades/exploracion-en-la-copa-de-los-arboles.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,24 +163,24 @@ rama_rovers:
   - 37  # Valoro la naturaleza como conexión conmigo mismo
 ---
 
-# ¡Exploración en la copa de los árboles!
+# ¡Exploración en la Copa de los Árboles!
 
 ## Resumen
 Exploren la biodiversidad que vive fuera del suelo. Coloquen un papel grande o una sábana debajo de una rama cercana al suelo. Sacudan la rama. Observen qué sale volando cuando sacuden la rama. Examinen lo que cae de la rama, como hojas, insectos, hongos y plantas.
 
 ## Preparación
-1. Busca un árbol con ramas accesibles.
-2. Coloca un papel grande o una sábana debajo de la rama.
-3. Prepara lupas y materiales para registrar observaciones.
+1. Buscá un árbol con ramas accesibles.
+2. Colocá un papel grande o una sábana debajo de la rama.
+3. Prepará lupas y materiales para registrar observaciones.
 
 ## Desarrollo
 1. Sacude la rama suavemente.
-2. Observa qué sale volando.
-3. Examina lo que cae: hojas, insectos, hongos y plantas.
-4. Reflexiona: ¿Cómo logran subir a la rama estas criaturas?
-5. Reflexiona: ¿Por qué estas criaturas viven por encima del suelo?
-6. Reflexiona: ¿Cómo interactúan entre ellas para conseguir comida y refugio?
-7. Piensa: ¿Qué otros animales podrían visitar la rama?
+2. Observá qué sale volando.
+3. Examiná lo que cae: hojas, insectos, hongos y plantas.
+4. Reflexioná: ¿Cómo logran subir a la rama estas criaturas?
+5. Reflexioná: ¿Por qué estas criaturas viven por encima del suelo?
+6. Reflexioná: ¿Cómo interactúan entre ellas para conseguir comida y refugio?
+7. Pensá: ¿Qué otros animales podrían visitar la rama?
 
 ## Cierre
 1. Discutan sus respuestas con el grupo.
@@ -193,16 +193,3 @@ A.01 Exploren la biodiversidad que vive fuera del suelo. Coloquen un papel grand
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

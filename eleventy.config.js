@@ -705,6 +705,7 @@ if (badge.id === "general") {
   // GENERAL contiene actividades:
   //
   //  - sin insignias
+  //  - con la insignia "general"
   //  - con insignias inexistentes
   //
 
@@ -714,8 +715,13 @@ if (badge.id === "general") {
 
   } else {
 
+    // Las que dicen "general" explícitamente también van.
     belongsToBadge =
+      activityBadges.some(id =>
+        String(id).toLowerCase() === "general"
+      ) ||
       !activityBadges.some(id =>
+        String(id).toLowerCase() !== "general" &&
         knownBadgeIds.includes(
           String(id).toLowerCase()
         )

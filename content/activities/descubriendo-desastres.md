@@ -3,7 +3,7 @@ title: "Descubriendo Desastres"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/descubriendo-desastres/"
-description: "Investiga un desastre reciente y analiza sus labores de recuperación."
+description: "Investigá un desastre reciente y analizá sus labores de recuperación."
 summary: "Análisis de un desastre reciente."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/descubriendo-desastres.png"
+image: "/imagenes/actividades/descubriendo-desastres.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -151,18 +151,18 @@ rama_rovers:
 # ¡Descubriendo Desastres!
 
 ## Resumen
-Investiga un desastre reciente de cualquier parte del mundo y analiza sus labores de recuperación.
+Investigá un desastre reciente de cualquier parte del mundo y analizá sus labores de recuperación.
 
 ## Preparación
-1. Elige un desastre reciente para investigar.
-2. Busca información sobre el desastre y su recuperación.
-3. Prepara materiales para el artículo.
+1. Elegí un desastre reciente para investigar.
+2. Buscá información sobre el desastre y su recuperación.
+3. Prepará materiales para el artículo.
 
 ## Desarrollo
-1. **Investigación** (30 min): Reúne información sobre el desastre.
-2. **Análisis** (25 min): Analiza las labores de recuperación.
-3. **Escritura** (25 min): Escribe un artículo detallado.
-4. **Publicación** (10 min): Envía el artículo para su publicación.
+1. **Investigación** (30 min): Reuní información sobre el desastre.
+2. **Análisis** (25 min): Analizá las labores de recuperación.
+3. **Escritura** (25 min): Escribí un artículo detallado.
+4. **Publicación** (10 min): Enviá el artículo para su publicación.
 
 ## Cierre
 - ¿El lugar se recuperó rápido o fue un proceso largo?
@@ -179,16 +179,3 @@ nivel 3 2
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Ciudades y Comunidades Sostenibles, Vida de Ecosistemas Terrestres, y Paz, Justicia e Instituciones Sólidas.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

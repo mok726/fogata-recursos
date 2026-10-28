@@ -5,7 +5,7 @@ duration: "3-4 horas (1h preparación + 2-3h proyección)"
 layout: "layouts/activity.njk"
 permalink: "/activities/cine-del-agua/"
 description: "Los participantes organizan una proyección de cine para recaudar fondos para un proyecto relacionado con el agua, aprendiendo sobre la importancia de la acción colectiva y la solidaridad."
-summary: "Organiza un cine para recaudar fondos."
+summary: "Organizá un cine para recaudar fondos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/cine-del-agua.png"
+image: "/imagenes/actividades/cine-del-agua.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -178,23 +178,23 @@ translation_notice:
 Muchos proyectos que son desarrollados por diferentes organizaciones se llevan a cabo gracias a donaciones generadas a través de actividades de recaudación de fondos. En esta actividad, los participantes organizan una proyección de cine para recaudar fondos para un proyecto relacionado con el agua, aprendiendo sobre la importancia de la acción colectiva y la solidaridad.
 
 ## Preparación
-1. Investiga sobre proyectos relacionados con el agua que se están llevando a cabo en tu país.
-2. Prepara los materiales para los pósters.
-3. Coordina el lugar y el equipo de proyección.
+1. Investigá sobre proyectos relacionados con el agua que se están llevando a cabo en tu país.
+2. Prepará los materiales para los pósters.
+3. Coordiná el lugar y el equipo de proyección.
 
 ## Desarrollo
 
 ### Paso 1: Elección del proyecto
-1. Explica a tu grupo que muchos proyectos que son desarrollados por diferentes organizaciones se llevan a cabo gracias a donaciones generadas a través de actividades de recaudación de fondos.
-2. Pide a tu grupo que se siente en círculo y que piense en algún proyecto relacionado con el agua que hayan escuchado y al que les gustaría contribuir.
+1. Explicá a tu grupo que muchos proyectos que son desarrollados por diferentes organizaciones se llevan a cabo gracias a donaciones generadas a través de actividades de recaudación de fondos.
+2. Pedí a tu grupo que se siente en círculo y que piense en algún proyecto relacionado con el agua que hayan escuchado y al que les gustaría contribuir.
 3. Es buena idea que investigues sobre diferentes proyectos que se están llevando a cabo en tu país o, ¿por qué no?, podrían planificar un proyecto propio. Tal vez conocen una escuela que podría usar un nuevo baño.
 4. Los participantes también pueden investigar sobre proyectos relacionados con el agua usando Internet.
 
 ### Paso 2: Organización del evento
-5. Explica a tu grupo que van a organizar un **Cine del Agua** en el teatro o salón de la escuela, donde proyectarán una película relacionada con algún tema del agua o el saneamiento, para recaudar fondos y contribuir al proyecto de su elección.
+5. Explicá a tu grupo que van a organizar un **Cine del Agua** en el teatro o salón de la escuela, donde proyectarán una película relacionada con algún tema del agua o el saneamiento, para recaudar fondos y contribuir al proyecto de su elección.
 
 ### Paso 3: Publicidad
-6. Pide a los participantes que creen pósters creativos para publicitar el evento. No olviden incluir toda la información necesaria:
+6. Pedí a los participantes que creen pósters creativos para publicitar el evento. No olviden incluir toda la información necesaria:
    - Fecha del evento
    - Objetivo de la recaudación
    - Precio de la entrada
@@ -204,7 +204,7 @@ Muchos proyectos que son desarrollados por diferentes organizaciones se llevan a
 7. No olviden pedir permiso a las autoridades de la escuela o lugar de reunión para desarrollar esta actividad.
 
 ### Paso 5: Reflexión
-8. Discute con tu grupo sobre los resultados del evento.
+8. Discutí con tu grupo sobre los resultados del evento.
 
 ## Cierre
 - ¿Cómo resultó tu evento?
@@ -284,21 +284,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[19,25], scouts[24,33], caminantes[23,24], rovers[27,28])

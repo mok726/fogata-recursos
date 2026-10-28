@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Estudio evolutivo"
+title: "Estudio Evolutivo"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/estudio-evolutivo/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/estudio-evolutivo.png"
+image: "/imagenes/actividades/estudio-evolutivo.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -159,25 +159,25 @@ rama_rovers:
   - 37 # Valoro la naturaleza como oportunidad de conexión conmigo mismo
 ---
 
-# ¡Estudio evolutivo!
+# ¡Estudio Evolutivo!
 
 ## Resumen
-Elige una especie de planta o animal e investiga cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
+Elegí una especie de planta o animal e investigá cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
 
 ## Preparación
-1. Investiga ejemplos de adaptaciones evolutivas en plantas y animales.
-2. Prepara recursos y fuentes de información.
-3. Organiza los grupos de trabajo.
+1. Investigá ejemplos de adaptaciones evolutivas en plantas y animales.
+2. Prepará recursos y fuentes de información.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Elige una especie de planta o animal.
-2. Investiga cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
-3. Descubre qué características específicas desarrolló para sobrevivir.
-4. Reúne tantos detalles como puedas.
-5. Prepara un informe o haz un dibujo/presentación sobre la especie que escogiste.
+1. Elegí una especie de planta o animal.
+2. Investigá cómo ha evolucionado durante las generaciones para adaptarse a las condiciones climáticas.
+3. Descubrí qué características específicas desarrolló para sobrevivir.
+4. Reuní tantos detalles como puedas.
+5. Prepará un informe o hacé un dibujo/presentación sobre la especie que escogiste.
 
 ## Cierre
-1. Comparte tu investigación con el grupo.
+1. Compartí tu investigación con el grupo.
 2. Discutan: ¿Qué pasaría con estas especies si el clima cambia rápidamente?
 3. Pregunta final: ¿Cómo el cambio climático actual amenaza las adaptaciones evolutivas de las especies?
 
@@ -187,16 +187,3 @@ A.15 ESTUDIO EVOLUTIVO. Elige una especie de planta o animal e investiga cómo h
 NIVELES: 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

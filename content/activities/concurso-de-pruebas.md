@@ -3,7 +3,7 @@ title: "Concurso de Pruebas"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/concurso-de-pruebas/"
-description: "Prepara un concurso de preguntas sobre el suelo y sus amenazas."
+description: "Prepará un concurso de preguntas sobre el suelo y sus amenazas."
 summary: "Concurso sobre el suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/concurso-de-pruebas.png"
+image: "/imagenes/actividades/concurso-de-pruebas.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -153,7 +153,7 @@ rama_rovers:
 # ¡Concurso de Pruebas!
 
 ## Resumen
-Prepara un concurso de preguntas sobre el suelo y sus amenazas entre dos equipos.
+Prepará un concurso de preguntas sobre el suelo y sus amenazas entre dos equipos.
 
 ## Preparación
 1. Divídanse en dos equipos.
@@ -178,16 +178,3 @@ Prepara un concurso de preguntas sobre el suelo y sus amenazas entre dos equipos
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

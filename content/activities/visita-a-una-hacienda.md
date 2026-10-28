@@ -1,10 +1,10 @@
 ---
-title: "Visita a una hacienda"
+title: "Visitá a una Hacienda"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/visita-a-una-hacienda/"
-description: "Visita una hacienda tradicional y una orgánica para aprender sobre producción de alimentos."
-summary: "Visita a una hacienda."
+description: "Visitá una hacienda tradicional y una orgánica para aprender sobre producción de alimentos."
+summary: "Visitá a una hacienda."
 
 author:
   - FAO
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/visita-a-una-hacienda.png"
+image: "/imagenes/actividades/visita-a-una-hacienda.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -148,21 +148,21 @@ rama_rovers:
   - 30 # Consumo y produzco de manera sostenible.
 ---
 
-# ¡Visita a una hacienda!
+# ¡Visitá a una Hacienda!
 
 ## Resumen
-Visita una hacienda tradicional y una orgánica para aprender sobre productos que se cultivan y animales que se crían en tu área.
+Visitá una hacienda tradicional y una orgánica para aprender sobre productos que se cultivan y animales que se crían en tu área.
 
 ## Preparación
-1. Identifica haciendas para visitar.
-2. Organiza el transporte y los permisos.
-3. Prepara preguntas para los agricultores.
+1. Identificá haciendas para visitar.
+2. Organizá el transporte y los permisos.
+3. Prepará preguntas para los agricultores.
 
 ## Desarrollo
-1. **Visita** (40 min): Recorre la hacienda tradicional.
-2. **Visita** (30 min): Recorre la hacienda orgánica.
+1. **Visita** (40 min): Recorré la hacienda tradicional.
+2. **Visita** (30 min): Recorré la hacienda orgánica.
 3. **Comparación** (10 min): ¿Cuáles son las diferencias?
-4. **Reflexión** (10 min): Comparte lo aprendido.
+4. **Reflexión** (10 min): Compartí lo aprendido.
 
 ## Cierre
 - ¿Qué productos se cultivan en tu área?
@@ -177,16 +177,3 @@ Visita una hacienda tradicional y una orgánica para aprender sobre productos qu
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

@@ -4,7 +4,7 @@ title: "El Género y el Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/el-genero-y-el-hambre/"
-description: "Investiga en qué países la desigualdad de género es significativa y cómo se relaciona con el hambre. Crea escenas para presentar."
+description: "Investigá en qué países la desigualdad de género es significativa y cómo se relaciona con el hambre. Creá escenas para presentar."
 summary: "Investigación sobre género y hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/el-genero-y-el-hambre.png"
+image: "/imagenes/actividades/el-genero-y-el-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -168,19 +168,19 @@ rama_rovers:
 # El Género y el Hambre
 
 ## Resumen
-Investiga en qué países la desigualdad de género es significativa y cómo se relaciona con el hambre. Crea escenas para presentar.
+Investigá en qué países la desigualdad de género es significativa y cómo se relaciona con el hambre. Creá escenas para presentar.
 
 ## Preparación
-1. Investiga países donde la desigualdad de género es un problema significativo.
-2. Compara la situación con tu propio país.
-3. Prepara el material para las escenas.
+1. Investigá países donde la desigualdad de género es un problema significativo.
+2. Compará la situación con tu propio país.
+3. Prepará el material para las escenas.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga países con desigualdad de género significativa y por qué es un problema.
-2. **Comparación** (15 min): Compara la situación con tu propio país.
-3. **Creación** (25 min): Inventa una serie de escenas que comiencen con la misma situación pero terminen diferente según la comunidad.
-4. **Presentación** (20 min): Presenta las escenas a tus amigos y familia.
-5. **Extensión - 16+ (Caminantes y Rovers)** (25 min): Compara el estado del hambre entre los países investigados y el tuyo. Identifica vínculos entre género y hambre. Presenta tus hallazgos.
+1. **Investigación** (20 min): Investigá países con desigualdad de género significativa y por qué es un problema.
+2. **Comparación** (15 min): Compará la situación con tu propio país.
+3. **Creación** (25 min): Inventá una serie de escenas que comiencen con la misma situación pero terminen diferente según la comunidad.
+4. **Presentación** (20 min): Presentá las escenas a tus amigos y familia.
+5. **Extensión - 16+ (Caminantes y Rovers)** (25 min): Compará el estado del hambre entre los países investigados y el tuyo. Identificá vínculos entre género y hambre. Presentá tus hallazgos.
 
 ## Cierre
 - ¿Cómo afecta la desigualdad de género al hambre?
@@ -188,16 +188,3 @@ Investiga en qué países la desigualdad de género es significativa y cómo se 
 - ¿Qué compromiso adquieres para promover la igualdad de género?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

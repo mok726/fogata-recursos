@@ -3,7 +3,7 @@ title: "Echa una Mirada al Suelo"
 duration: "45 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/echa-una-mirada-al-suelo/"
-description: "Observa muestras de suelo bajo el microscopio para descubrir su composición."
+description: "Observá muestras de suelo bajo el microscopio para descubrir su composición."
 summary: "Observación microscópica del suelo."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/echa-una-mirada-al-suelo.png"
+image: "/imagenes/actividades/echa-una-mirada-al-suelo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -153,23 +153,23 @@ rama_rovers:
 # ¡Echa una Mirada al Suelo!
 
 ## Resumen
-Examina muestras de suelo bajo el microscopio para observar sus partículas y organismos.
+Examiná muestras de suelo bajo el microscopio para observar sus partículas y organismos.
 
 ## Preparación
-1. Recolecta muestras de suelo de diferentes lugares.
-2. Prepara el microscopio o lupa.
-3. Prepara portaobjetos.
+1. Recolectá muestras de suelo de diferentes lugares.
+2. Prepará el microscopio o lupa.
+3. Prepará portaobjetos.
 
 ## Desarrollo
-1. **Preparación** (10 min): Coloca las muestras en portaobjetos.
-2. **Observación** (20 min): Examina las muestras bajo el microscopio.
-3. **Registro** (10 min): Dibuja lo que ves.
+1. **Preparación** (10 min): Colocá las muestras en portaobjetos.
+2. **Observación** (20 min): Examiná las muestras bajo el microscopio.
+3. **Registro** (10 min): Dibujá lo que ves.
 4. **Conclusiones** (5 min): ¿Qué partículas y organismos encontraste?
 
 ## Cierre
 - ¿Qué partículas viste en el suelo?
 - ¿Qué organismos encontraste?
-- ¿Qué conclusiones puedes sacar de tus observaciones?
+- ¿Qué conclusiones podés sacar de tus observaciones?
 
 ---
 ## Texto original completo de la actividad
@@ -179,16 +179,3 @@ Examina muestras de suelo bajo el microscopio para observar sus partículas y or
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

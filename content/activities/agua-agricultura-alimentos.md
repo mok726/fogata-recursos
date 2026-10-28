@@ -5,7 +5,7 @@ duration: "2-3 horas (visita a campo)"
 layout: "layouts/activity.njk"
 permalink: "/activities/agua-agricultura-alimentos/"
 description: "Los participantes visitan una granja para comprender la relación entre el uso del agua, la agricultura y la producción de alimentos, reflexionando sobre los desafíos y la sostenibilidad."
-summary: "Visita a una granja para aprender sobre agua y alimentos."
+summary: "Visitá a una granja para aprender sobre agua y alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/agua-agricultura-alimentos.png"
+image: "/imagenes/actividades/agua-agricultura-alimentos.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -175,15 +175,15 @@ translation_notice:
 La agricultura representa alrededor del 70 por ciento del agua utilizada en el mundo hoy en día y es el principal usuario de agua en la mayoría de los países. La agricultura también enfrenta el enorme desafío de producir casi un 50 por ciento más de alimentos para 2030. El agua juega un papel fundamental en el cultivo de alimentos y la cría de ganado para alimentar a un mundo hambriento y en crecimiento. Sin embargo, la agricultura también contribuye a la contaminación del agua con nutrientes, pesticidas y otros contaminantes. En esta actividad, los participantes visitan una granja para comprender esta relación.
 
 ## Preparación
-1. Organiza una visita a una granja local. Si no es posible, invita a un agricultor o especialista a visitar tu grupo.
-2. Prepara preguntas con tu grupo antes de la visita.
-3. Coordina el transporte y los permisos necesarios.
+1. Organizá una visita a una granja local. Si no es posible, invitá a un agricultor o especialista a visitar tu grupo.
+2. Prepará preguntas con tu grupo antes de la visita.
+3. Coordiná el transporte y los permisos necesarios.
 
 ## Desarrollo
 
 ### Paso 1: Preparación de preguntas
-1. Explica a tu grupo que van a visitar una granja para entender la relación entre el uso del agua, la agricultura y la producción de alimentos.
-2. Ayuda a tu grupo a preparar preguntas para el agricultor. Aquí hay algunas ideas:
+1. Explicá a tu grupo que van a visitar una granja para entender la relación entre el uso del agua, la agricultura y la producción de alimentos.
+2. Ayudá a tu grupo a preparar preguntas para el agricultor. Aquí hay algunas ideas:
 
 - ¿Te describirías como un gestor de tierra y agua? ¿Por qué?
 - ¿Cómo han cambiado el agua y la agricultura a lo largo del tiempo?
@@ -195,17 +195,17 @@ La agricultura representa alrededor del 70 por ciento del agua utilizada en el m
 
 ### Paso 2: Visita a la granja
 3. Durante la visita, anima a tu grupo a prestar atención y tomar notas.
-4. Pide al agricultor que explique cómo usa el agua en sus actividades.
+4. Pedí al agricultor que explique cómo usa el agua en sus actividades.
 5. Si es posible, permite que los participantes participen en algunas actividades agrícolas: dar agua a los animales, lavar materiales de cultivo en un lugar adecuado, regar plantas, etc.
 
 ### Paso 3: Reflexión y presentación (grupos mayores)
-6. Para los grupos mayores, puedes pedirles que investiguen sobre la política agrícola y cómo enfrenta el desafío de abordar problemas de calidad del agua. Pueden presentar un ensayo.
+6. Para los grupos mayores, podés pedirles que investiguen sobre la política agrícola y cómo enfrenta el desafío de abordar problemas de calidad del agua. Pueden presentar un ensayo.
 
 ## Cierre
 - ¿Cuál fue el hecho más interesante que aprendiste durante la visita?
 - ¿Por qué es necesario fomentar prácticas sostenibles de uso del agua?
 - ¿Cómo influye esto en la calidad y disponibilidad del agua en el futuro?
-- ¿Cómo puedes contribuir a proteger el agua a través de tus elecciones alimentarias?
+- ¿Cómo podés contribuir a proteger el agua a través de tus elecciones alimentarias?
 
 ## Texto original completo de la actividad
 
@@ -287,21 +287,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto (5-22 años, niveles 1-2-3)
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida
-- [x] Todas las ramas incluidas (castores[], lobatos[26,29], scouts[31,34], caminantes[29,30], rovers[30,31])

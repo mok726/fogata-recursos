@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Carrera Contra el Hambre"
+title: "Carrera contra el Hambre"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/carrera-contra-el-hambre/"
-description: "Organiza una versión local de la Carrera Contra el Hambre de la FAO cerca del Día Mundial de la Alimentación."
+description: "Organizá una versión local de la Carrera Contra el Hambre de la FAO cerca del Día Mundial de la Alimentación."
 summary: "Carrera comunitaria contra el hambre."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/carrera-contra-el-hambre.png"
+image: "/imagenes/actividades/carrera-contra-el-hambre.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -173,39 +173,26 @@ rama_rovers:
   - 27  # Desarrollo acciones comunitarias sostenibles.
 ---
 
-# Carrera Contra el Hambre
+# Carrera contra el Hambre
 
 ## Resumen
-Organiza una versión local de la Carrera Contra el Hambre de la FAO cerca del Día Mundial de la Alimentación.
+Organizá una versión local de la Carrera Contra el Hambre de la FAO cerca del Día Mundial de la Alimentación.
 
 ## Preparación
-1. Elige una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
-2. Define el recorrido y la logística de la carrera.
-3. Prepara los permisos necesarios.
-4. Diseña material promocional.
+1. Elegí una fecha cercana al Día Mundial de la Alimentación (16 de octubre).
+2. Definí el recorrido y la logística de la carrera.
+3. Prepará los permisos necesarios.
+4. Diseñá material promocional.
 
 ## Desarrollo
-1. **Planificación** (30 min): Organiza la logística de la carrera.
-2. **Promoción** (15 min): Promociona el evento en tu comunidad.
-3. **Carrera** (1 hora): Realiza la carrera.
-4. **Reflexión** (15 min): Comparte la experiencia con el grupo.
+1. **Planificación** (30 min): Organizá la logística de la carrera.
+2. **Promoción** (15 min): Promocioná el evento en tu comunidad.
+3. **Carrera** (1 hora): Realizá la carrera.
+4. **Reflexión** (15 min): Compartí la experiencia con el grupo.
 
 ## Cierre
 - ¿Cómo te sentiste al participar en la carrera?
-- ¿Qué impacto crees que tuvo el evento?
+- ¿Qué impacto creés que tuvo el evento?
 - ¿Qué compromiso adquieres para seguir participando en iniciativas solidarias?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

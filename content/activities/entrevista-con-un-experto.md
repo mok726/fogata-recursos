@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Entrevista con un Experto"
+title: "Entrevistá con un Experto"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/entrevista-con-un-experto/"
-description: "Entrevista a autoridades locales sobre seguridad alimentaria y nutrición en tu comunidad."
-summary: "Entrevista sobre seguridad alimentaria."
+description: "Entrevistá a autoridades locales sobre seguridad alimentaria y nutrición en tu comunidad."
+summary: "Entrevistá sobre seguridad alimentaria."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de la Nutrición
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/entrevista-con-un-experto.png"
+image: "/imagenes/actividades/entrevista-con-un-experto.jpg"
 original: false
 Origin: "Insignia de la Nutrición - FAO"
 version: "0.99"
@@ -165,21 +165,21 @@ rama_rovers:
   - 29  # Indago en las causas y consecuencias de las injusticias.
 ---
 
-# Entrevista con un Experto
+# Entrevistá con un Experto
 
 ## Resumen
-Entrevista a autoridades locales sobre seguridad alimentaria y nutrición en tu comunidad.
+Entrevistá a autoridades locales sobre seguridad alimentaria y nutrición en tu comunidad.
 
 ## Preparación
-1. Contacta a autoridades locales responsables de comida y nutrición.
-2. Prepara preguntas para la entrevista.
-3. Asegura la supervisión de un adulto.
+1. Contactá a autoridades locales responsables de comida y nutrición.
+2. Prepará preguntas para la entrevista.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Preparación** (15 min): Prepara preguntas para el invitado.
-2. **Entrevista** (20 min): Realiza la entrevista.
-3. **Documentación** (15 min): Toma notas y escribe una redacción.
-4. **Publicación** (15 min): Publica en un blog o periódico local.
+1. **Preparación** (15 min): Prepará preguntas para el invitado.
+2. **Entrevista** (20 min): Realizá la entrevista.
+3. **Documentación** (15 min): Tomá notas y escribí una redacción.
+4. **Publicación** (15 min): Publicá en un blog o periódico local.
 
 ## Cierre
 - ¿Qué prácticas de seguridad alimentaria se pueden mejorar en tu comunidad?
@@ -187,16 +187,3 @@ Entrevista a autoridades locales sobre seguridad alimentaria y nutrición en tu 
 - ¿Qué compromiso adquieres para promover la seguridad alimentaria?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

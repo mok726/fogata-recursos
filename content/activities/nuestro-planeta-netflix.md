@@ -5,7 +5,7 @@ duration: "Abierta"
 layout: "layouts/activity.njk"
 permalink: "/activities/nuestro-planeta-netflix/"
 description: "Los participantes ven episodios de la serie Nuestro Planeta de Netflix y WWF para entender los desafíos que enfrenta nuestro planeta y cómo pueden ayudar."
-summary: "Explora y protege nuestro planeta."
+summary: "Explorá y protege nuestro planeta."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - OMMS - Desafío Champions for Nature
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/nuestro-planeta-netflix.png"
+image: "/imagenes/actividades/nuestro-planeta-netflix.jpg"
 original: false
 Origin: "Desafío Champions for Nature - OMMS"
 version: "0.99"
@@ -172,9 +172,9 @@ rama_rovers:
 El objetivo de esta actividad es inspirar a los participantes a entender nuestro planeta, los desafíos que enfrenta y cómo pueden salvarlo y crear un futuro donde la naturaleza y las personas prosperen.
 
 ## Preparación
-1. Prepara los episodios de Nuestro Planeta para ver.
-2. Prepara recursos educativos de One Planet.
-3. Organiza el espacio para la proyección.
+1. Prepará los episodios de Nuestro Planeta para ver.
+2. Prepará recursos educativos de One Planet.
+3. Organizá el espacio para la proyección.
 
 ## Desarrollo
 
@@ -185,15 +185,15 @@ El facilitador muestra episodios de Nuestro Planeta a los participantes. Pueden 
 El grupo revisa los recursos educacionales de Nuestro Planeta e incluye varias actividades que pueden realizar.
 
 ### Parte III - Conexión en vivo (opcional)
-Pueden conectarse en vivo con expertos y aulas de todo el mundo a través de Skype mediante la plataforma Nuestro Planeta en vivo.
+Pueden conectarse en vivo con expertos y aulas de todo el mundo por videollamada (Meet, Zoom o Jitsi) mediante la plataforma Nuestro Planeta en vivo.
 
 ### Parte IV - Acción
-¡Es hora de ir por la meta! Descubre lo que puedes hacer por el planeta, incluida la promesa de Dar Voz al Planeta y aprender más participando de un viaje interactivo a través de un planeta asombroso virtual.
+¡Es hora de ir por la meta! Descubrí lo que podés hacer por el planeta, incluida la promesa de Dar Voz al Planeta y aprender más participando de un viaje interactivo a través de un planeta asombroso virtual.
 
 ## Cierre
 1. ¿Qué parte de Nuestro Planeta te impactó más?
-2. ¿Qué puedes hacer para ayudar a proteger nuestro planeta?
-3. ¿Cómo puedes inspirar a otros a tomar acción?
+2. ¿Qué podés hacer para ayudar a proteger nuestro planeta?
+3. ¿Cómo podés inspirar a otros a tomar acción?
 
 ## Texto original completo de la actividad
 
@@ -234,17 +234,3 @@ Recursos adicionales: Our Planet Classroom resources - UK
 Organización Mundial del Movimiento Scout. 2020. Desafío Champions for Nature - Kit de Acción. Earth Tribe / Tribu de la Tierra.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original completo incluido

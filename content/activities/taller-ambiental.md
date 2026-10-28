@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Taller ambiental"
+title: "Taller Ambiental"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/taller-ambiental/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/taller-ambiental.png"
+image: "/imagenes/actividades/taller-ambiental.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -159,25 +159,25 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Taller ambiental!
+# ¡Taller Ambiental!
 
 ## Resumen
 Organicen y dirijan un taller de trabajo sobre un tema del medio ambiente. Inviten a sus familias y a sus amigos a participar.
 
 ## Preparación
-1. Elige un tema ambiental.
-2. Prepara material para el taller.
-3. Invita a participantes.
+1. Elegí un tema ambiental.
+2. Prepará material para el taller.
+3. Invitá a participantes.
 
 ## Desarrollo
-1. Organiza el taller.
-2. Dirige las actividades.
-3. Comparte información sobre el tema.
-4. Anima a la participación.
+1. Organizá el taller.
+2. Dirigí las actividades.
+3. Compartí información sobre el tema.
+4. Animá a la participación.
 
 ## Cierre
-1. Reflexiona sobre la experiencia.
-2. Comparte lo aprendido con el grupo.
+1. Reflexioná sobre la experiencia.
+2. Compartí lo aprendido con el grupo.
 3. Pregunta final: ¿Cómo podemos seguir educando sobre el medio ambiente?
 
 ## Texto original completo de la actividad
@@ -186,16 +186,3 @@ D.25 Organicen y dirijan un taller de trabajo sobre un tema del medio ambiente. 
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

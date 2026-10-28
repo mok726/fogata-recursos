@@ -4,7 +4,7 @@ title: "Continentes Hambrientos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/continentes-hambrientos/"
-description: "Investiga las estadísticas de hambre por continente y país. Crea pósters y comparte los hallazgos."
+description: "Investigá las estadísticas de hambre por continente y país. Creá pósters y compartí los hallazgos."
 summary: "Investigación sobre el hambre en diferentes continentes."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/continentes-hambrientos.png"
+image: "/imagenes/actividades/continentes-hambrientos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -170,7 +170,7 @@ rama_rovers:
 # Continentes Hambrientos
 
 ## Resumen
-Investiga las estadísticas de hambre por continente y país. Crea pósters y comparte los hallazgos.
+Investigá las estadísticas de hambre por continente y país. Creá pósters y compartí los hallazgos.
 
 ## Preparación
 1. Divídanse en siete grupos pequeños (uno por continente).
@@ -189,16 +189,3 @@ Investiga las estadísticas de hambre por continente y país. Crea pósters y co
 - ¿Qué compromiso adquieres para ayudar a reducir el hambre global?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [ ] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Archivos adjuntos (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

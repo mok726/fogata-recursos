@@ -4,7 +4,7 @@ title: "Los Precios de los Alimentos"
 duration: ""
 layout: "layouts/activity.njk"
 permalink: "/activities/los-precios-de-los-alimentos/"
-description: "Visita el supermercado semanalmente durante un par de meses para anotar los precios de los alimentos y analizar sus cambios."
+description: "Visitá el supermercado semanalmente durante un par de meses para anotar los precios de los alimentos y analizar sus cambios."
 summary: "Investigación sobre los precios de los alimentos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia Acabar con el Hambre
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/los-precios-de-los-alimentos.png"
+image: "/imagenes/actividades/los-precios-de-los-alimentos.jpg"
 original: false
 Origin: "Insignia Acabar con el Hambre - FAO"
 version: "0.99"
@@ -168,18 +168,18 @@ rama_rovers:
 # Los Precios de los Alimentos
 
 ## Resumen
-Visita el supermercado semanalmente durante un par de meses para anotar los precios de los alimentos y analizar sus cambios.
+Visitá el supermercado semanalmente durante un par de meses para anotar los precios de los alimentos y analizar sus cambios.
 
 ## Preparación
-1. Visita el supermercado o mercado una vez a la semana.
-2. Anota los precios de diferentes tipos de alimentos.
-3. Asegura la supervisión de un adulto.
+1. Visitá el supermercado o mercado una vez a la semana.
+2. Anotá los precios de diferentes tipos de alimentos.
+3. Asegurá la supervisión de un adulto.
 
 ## Desarrollo
-1. **Registro** (semanal): Anota los precios de frutas, vegetales, pan, leche, carne, etc.
-2. **Análisis** (15 min): Observa si los precios cambian y por qué.
-3. **Reflexión** (15 min): Piensa en los efectos de estos cambios sobre los pobres.
-4. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Investiga los precios de los alimentos y lo que los afecta. Prepara afiches explicando tus hallazgos y expónlos públicamente.
+1. **Registro** (semanal): Anotá los precios de frutas, vegetales, pan, leche, carne, etc.
+2. **Análisis** (15 min): Observá si los precios cambian y por qué.
+3. **Reflexión** (15 min): Pensá en los efectos de estos cambios sobre los pobres.
+4. **Extensión - 16+ (Caminantes y Rovers)** (30 min): Investigá los precios de los alimentos y lo que los afecta. Prepará afiches explicando tus hallazgos y expónlos públicamente.
 
 ## Cierre
 - ¿Qué alimentos cambiaron más de precio?
@@ -187,16 +187,3 @@ Visita el supermercado semanalmente durante un par de meses para anotar los prec
 - ¿Qué compromiso adquieres para ser un consumidor consciente?
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [ ] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [ ] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

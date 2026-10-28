@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Explora un estanque"
+title: "Explorá un Estanque"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/explora-un-estanque/"
 description: "Los participantes exploran un ecosistema acuático en un estanque, observando y recolectando pequeños organismos para aprender sobre la vida en el agua."
-summary: "Descubre la vida en un estanque."
+summary: "Descubrí la vida en un estanque."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -15,7 +15,7 @@ source:
   - FAO - Water Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/explora-un-estanque.png"
+image: "/imagenes/actividades/explora-un-estanque.jpg"
 original: false
 Origin: "Water Challenge Badge - FAO"
 version: "0.99"
@@ -171,30 +171,30 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Explora un estanque!
+# ¡Explorá un Estanque!
 
 ## Resumen
 Los ecosistemas acuáticos constituyen una gran parte de los ecosistemas del mundo. Los habitantes de estos ecosistemas están especialmente adaptados para vivir en el agua. En esta actividad, los participantes exploran un estanque cercano para descubrir la vida que alberga.
 
 ## Preparación
-1. Visita un estanque cercano.
-2. Asegúrate de que los participantes usen ropa adecuada (zapatillas viejas o botas de goma).
-3. Prepara los materiales para la exploración.
+1. Visitá un estanque cercano.
+2. Asegurate de que los participantes usen ropa adecuada (zapatillas viejas o botas de goma).
+3. Prepará los materiales para la exploración.
 
 ## Desarrollo
 
 ### Parte I - Observación general
-1. Pide a tu grupo que observe el paisaje general. ¿Qué ven? ¿Qué relaciones parecen existir entre los elementos vivos y no vivos?
+1. Pedí a tu grupo que observe el paisaje general. ¿Qué ven? ¿Qué relaciones parecen existir entre los elementos vivos y no vivos?
 2. Acérquense lentamente al estanque para no asustar a las criaturas cerca del agua. ¿Cuántas pueden ver? ¿Qué están haciendo? ¿Hay criaturas volando sobre el agua? ¿Nadando en el agua o moviéndose por el fondo?
 
 ### Parte II - Recolección
-3. Llena la bandeja y los recipientes con agua y colócalos en un lugar con sombra.
-4. Usa la red o colador para atrapar peces pequeños, insectos y otras criaturas diminutas.
-5. Vacía lo que encuentres en la bandeja o recipientes.
-6. Para verlos mejor, llena una bandeja de cubitos de hielo o un envase de huevos con agua clara y transfiere las criaturas de los recipientes colectores a la bandeja. Un cuentagotas o pincel funciona bien para recogerlos, uno a la vez. Coloca cada tipo de criatura en una sección separada de la bandeja.
+3. Llená la bandeja y los recipientes con agua y colocalos en un lugar con sombra.
+4. Usá la red o colador para atrapar peces pequeños, insectos y otras criaturas diminutas.
+5. Vaciá lo que encuentres en la bandeja o recipientes.
+6. Para verlos mejor, llena una bandeja de cubitos de hielo o un envase de huevos con agua clara y transfiere las criaturas de los recipientes colectores a la bandeja. Un cuentagotas o pincel funciona bien para recogerlos, uno a la vez. Colocá cada tipo de criatura en una sección separada de la bandeja.
 
 ### Parte III - Identificación
-Observa si has capturado algo que:
+Observá si has capturado algo que:
 - No tiene patas
 - Tiene seis patas
 - Tiene caparazón
@@ -203,7 +203,7 @@ Observa si has capturado algo que:
 - Se mueve
 
 ### Parte IV - Devolver
-Asegúrate de devolver todo a su lugar. Baja suavemente los recipientes al agua y deja que todas las criaturas naden hacia afuera.
+Asegurate de devolver todo a su lugar. Bajá suavemente los recipientes al agua y dejá que todas las criaturas naden hacia afuera.
 
 ## Cierre
 - ¿Qué relaciones pudiste identificar entre los elementos vivos y no vivos?
@@ -280,20 +280,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

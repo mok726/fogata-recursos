@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Espiando el océano"
+title: "Espiando el Océano"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/espiando-el-oceano/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/espiando-el-oceano.png"
+image: "/imagenes/actividades/espiando-el-oceano.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -164,24 +164,24 @@ rama_rovers:
   - 11 # Me comunico de manera asertiva
 ---
 
-# ¡Espiando el océano!
+# ¡Espiando el Océano!
 
 ## Resumen
 Es hora de crear unas increíbles 'cajas para espiar' sobre el océano. Todos los participantes deben llevar una caja para reutilizar (de cereal, de zapatos o cualquier caja que tengan que pueda ser reciclada).
 
 ## Preparación
-1. Prepara materiales para manualidades.
-2. Organiza el espacio de trabajo.
-3. Explica la actividad al grupo.
+1. Prepará materiales para manualidades.
+2. Organizá el espacio de trabajo.
+3. Explicá la actividad al grupo.
 
 ## Desarrollo
 1. Cada participante decora su caja con materiales de manualidades.
-2. Crea una imagen submarina dentro de la caja.
+2. Creá una imagen submarina dentro de la caja.
 3. Con la ayuda de tu profesor o dirigente, cubre las imágenes con papel o cartulina negra.
-4. Pide a todos los participantes que espíen dentro de cada caja.
+4. Pedí a todos los participantes que espíen dentro de cada caja.
 
 ## Cierre
-1. Reflexiona: ¿Cómo se sintieron cuando no vieron 'nada'?
+1. Reflexioná: ¿Cómo se sintieron cuando no vieron 'nada'?
 2. Discutan: ¿En qué se parece esto a lo que está sucediendo con los ecosistemas y los animales marinos a causa del cambio climático?
 3. Pregunta final: ¿Qué podemos hacer para evitar que se pierdan nuestros preciosos recursos y animales marinos?
 
@@ -191,16 +191,3 @@ C.05 ESPIANDO EL OCÉANO. Es hora de crear unas increíbles 'cajas para espiar' 
 NIVELES: 1, 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

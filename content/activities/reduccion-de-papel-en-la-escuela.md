@@ -1,9 +1,9 @@
 ---
-title: "Reducción de papel en la escuela"
+title: "Reducción de Papel en la Escuela"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/reduccion-de-papel-en-la-escuela/"
-description: "Reduce el uso de papel en la escuela."
+description: "Reducí el uso de papel en la escuela."
 summary: "Reducción de papel escolar."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/reduccion-de-papel-en-la-escuela.png"
+image: "/imagenes/actividades/reduccion-de-papel-en-la-escuela.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -142,25 +142,25 @@ rama_caminantes:
 rama_rovers: []
 ---
 
-# ¡Reducción de papel en la escuela!
+# ¡Reducción de Papel en la Escuela!
 
 ## Resumen
-Reduce el uso de papel en la escuela imprimiendo en ambos lados y usando correo electrónico.
+Reducí el uso de papel en la escuela imprimiendo en ambos lados y usando correo electrónico.
 
 ## Preparación
-- Habla con tus maestros sobre el proyecto.
-- Identifica áreas donde se usa mucho papel.
+- Hablá con tus maestros sobre el proyecto.
+- Identificá áreas donde se usa mucho papel.
 
 ## Desarrollo
-1. **Acción** (continua): Usa tan poco papel como puedas.
-2. **Impresión** (continua): Imprime en ambos lados.
-3. **Digital** (continua): Usa correo electrónico.
-4. **Compartir** (10 min): Comparte tu experiencia con el grupo.
+1. **Acción** (continua): Usá tan poco papel como puedas.
+2. **Impresión** (continua): Imprimí en ambos lados.
+3. **Digital** (continua): Usá correo electrónico.
+4. **Compartir** (10 min): Compartí tu experiencia con el grupo.
 
 ## Cierre
 - ¿Cuánto papel lograste ahorrar?
 - ¿Qué fue lo más fácil y lo más difícil?
-- ¿Cómo te sientes al reducir el consumo de papel?
+- ¿Cómo te sentís al reducir el consumo de papel?
 
 ---
 ## Texto original completo de la actividad
@@ -170,16 +170,3 @@ Reduce el uso de papel en la escuela imprimiendo en ambos lados y usando correo 
 NIVEL 1 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

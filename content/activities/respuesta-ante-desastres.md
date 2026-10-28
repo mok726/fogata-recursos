@@ -1,9 +1,9 @@
 ---
-title: "Respuesta ante desastres"
+title: "Respuesta ante Desastres"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/respuesta-ante-desastres/"
-description: "Investiga desastres relacionados con el tiempo y cómo responder."
+description: "Investigá desastres relacionados con el tiempo y cómo responder."
 summary: "Preparación ante desastres climáticos."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/respuesta-ante-desastres.png"
+image: "/imagenes/actividades/respuesta-ante-desastres.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -144,20 +144,20 @@ rama_rovers:
   - 31  # Desarrollo acciones de preservación.
 ---
 
-# ¡Respuesta ante desastres!
+# ¡Respuesta ante Desastres!
 
 ## Resumen
-Reúne información sobre desastres relacionados con el tiempo y habla sobre cómo responder.
+Reuní información sobre desastres relacionados con el tiempo y hablá sobre cómo responder.
 
 ## Preparación
-1. Identifica desastres relacionados con el clima.
-2. Prepara materiales para la discusión.
-3. Invita a especialistas si es posible.
+1. Identificá desastres relacionados con el clima.
+2. Prepará materiales para la discusión.
+3. Invitá a especialistas si es posible.
 
 ## Desarrollo
-1. **Investigación** (20 min): Reúne información.
-2. **Discusión** (20 min): Habla con amigos y maestros.
-3. **Especialistas** (15 min): Consulta a expertos.
+1. **Investigación** (20 min): Reuní información.
+2. **Discusión** (20 min): Hablá con amigos y maestros.
+3. **Especialistas** (15 min): Consultá a expertos.
 4. **Reflexión** (5 min): ¿Cómo podemos responder mejor?
 
 ## Cierre
@@ -173,16 +173,3 @@ Reúne información sobre desastres relacionados con el tiempo y habla sobre có
 NIVEL 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

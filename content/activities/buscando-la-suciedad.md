@@ -3,7 +3,7 @@ title: "Buscando la Suciedad"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/buscando-la-suciedad/"
-description: "Investiga diferentes tipos de contaminación en tu área."
+description: "Investigá diferentes tipos de contaminación en tu área."
 summary: "Investigación de contaminación local."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/buscando-la-suciedad.png"
+image: "/imagenes/actividades/buscando-la-suciedad.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -146,18 +146,18 @@ rama_rovers:
 # ¡Buscando la Suciedad!
 
 ## Resumen
-Investiga diferentes tipos de contaminación en tu área y presenta tus hallazgos.
+Investigá diferentes tipos de contaminación en tu área y presentá tus hallazgos.
 
 ## Preparación
-1. Forma equipos de investigación.
-2. Prepara materiales para tomar notas.
-3. Identifica áreas para investigar.
+1. Formá equipos de investigación.
+2. Prepará materiales para tomar notas.
+3. Identificá áreas para investigar.
 
 ## Desarrollo
-1. **Investigación** (40 min): Investiga contaminación del agua y del suelo.
+1. **Investigación** (40 min): Investigá contaminación del agua y del suelo.
 2. **Análisis** (20 min): ¿Qué tan grande es el problema?
-3. **Reportaje** (20 min): Crea un reportaje de noticias.
-4. **Presentación** (10 min): Comparte tus hallazgos.
+3. **Reportaje** (20 min): Creá un reportaje de noticias.
+4. **Presentación** (10 min): Compartí tus hallazgos.
 
 ## Cierre
 - ¿Qué tipos de contaminación encontraste?
@@ -172,16 +172,3 @@ Investiga diferentes tipos de contaminación en tu área y presenta tus hallazgo
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

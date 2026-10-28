@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Océano
 
-image: "/imagenes/actividades/embolsate.png"
+image: "/imagenes/actividades/embolsate.jpg"
 original: false
 Origin: "Insignia del Océano - FAO"
 version: "0.99"
@@ -162,21 +162,21 @@ rama_rovers:
 Fabrica tu propia bolsa de tela reutilizable para reducir el uso de plástico y anima a tu familia y comunidad a hacer lo mismo.
 
 ## Preparación
-1. Reúne materiales: ropa vieja, tela, aguja, hilo o máquina de coser.
-2. Elige un patrón para tu bolsa.
-3. Prepara el espacio de trabajo.
+1. Reuní materiales: ropa vieja, tela, aguja, hilo o máquina de coser.
+2. Elegí un patrón para tu bolsa.
+3. Prepará el espacio de trabajo.
 
 ## Desarrollo
-1. **Diseño** (15 min): Elige o diseña tu patrón.
-2. **Corte** (20 min): Corta la tela según el patrón.
-3. **Costura** (40 min): Cose la bolsa (con supervisión si usas máquina).
-4. **Presentación** (10 min): Muestra tu bolsa al grupo y explica cómo la usarás.
-5. **Extensión** (5 min): Planifica cómo animar a otros a usar bolsas reutilizables.
+1. **Diseño** (15 min): Elegí o diseñá tu patrón.
+2. **Corte** (20 min): Cortá la tela según el patrón.
+3. **Costura** (40 min): Cose la bolsa (con supervisión si usás máquina).
+4. **Presentación** (10 min): Mostrá tu bolsa al grupo y explicá cómo la usarás.
+5. **Extensión** (5 min): Planificá cómo animar a otros a usar bolsas reutilizables.
 
 ## Cierre
-- ¿Cuántas bolsas de plástico puedes evitar usar con tu nueva bolsa?
+- ¿Cuántas bolsas de plástico podés evitar usar con tu nueva bolsa?
 - ¿Cómo afectan las bolsas de plástico al océano?
-- ¿Qué otras formas de reducir el plástico puedes implementar?
+- ¿Qué otras formas de reducir el plástico podés implementar?
 
 ---
 ## Texto original completo de la actividad
@@ -192,16 +192,3 @@ Extensión: ¿en cuántas otras maneras de evitar el uso excesivo del plástico 
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

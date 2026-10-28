@@ -3,8 +3,8 @@ title: "Pérdidas y Ganancias del Cultivo"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/perdidas-y-ganancias-del-cultivo/"
-description: "Visita una granja local para aprender sobre el mantenimiento de suelos fértiles."
-summary: "Visita a una granja para aprender sobre el suelo."
+description: "Visitá una granja local para aprender sobre el mantenimiento de suelos fértiles."
+summary: "Visitá a una granja para aprender sobre el suelo."
 
 author:
   - FAO
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/perdidas-y-ganancias-del-cultivo.png"
+image: "/imagenes/actividades/perdidas-y-ganancias-del-cultivo.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -28,7 +28,7 @@ age_group:
   - rovers
 
 materials:
-  - Cuaderno y bolígrafos
+  - Cuaderno y lapiceras
   - Cámara
 tools: []
 responsible:
@@ -153,18 +153,18 @@ rama_rovers:
 # ¡Pérdidas y Ganancias del Cultivo!
 
 ## Resumen
-Visita una granja local para aprender sobre los desafíos de mantener el suelo fértil y productivo.
+Visitá una granja local para aprender sobre los desafíos de mantener el suelo fértil y productivo.
 
 ## Preparación
-1. Organiza una visita a una granja local o jardín comunitario.
-2. Prepara preguntas para los agricultores.
-3. Reúne materiales para tomar notas.
+1. Organizá una visita a una granja local o jardín comunitario.
+2. Prepará preguntas para los agricultores.
+3. Reuní materiales para tomar notas.
 
 ## Desarrollo
-1. **Visita** (40 min): Recorre la granja y habla con los agricultores.
+1. **Visita** (40 min): Recorré la granja y hablá con los agricultores.
 2. **Preguntas** (20 min): ¿Qué desafíos enfrentan? ¿Qué prácticas usan?
 3. **Análisis** (15 min): ¿Qué tipo de agricultura practican?
-4. **Discusión** (15 min): Comparte tus impresiones con el grupo.
+4. **Discusión** (15 min): Compartí tus impresiones con el grupo.
 
 ## Cierre
 - ¿Qué desafíos enfrentan los agricultores?
@@ -179,16 +179,3 @@ Visita una granja local para aprender sobre los desafíos de mantener el suelo f
 niveles 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

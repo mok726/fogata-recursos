@@ -3,7 +3,7 @@ title: "El Agua como un Derecho Humano"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-agua-como-un-derecho-humano/"
-description: "Investiga sobre los derechos humanos y por qué el acceso al agua limpia fue declarado un derecho humano."
+description: "Investigá sobre los derechos humanos y por qué el acceso al agua limpia fue declarado un derecho humano."
 summary: "Investigación sobre el agua como derecho humano."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia del Agua
 
-image: "/imagenes/actividades/el-agua-como-un-derecho-humano.png"
+image: "/imagenes/actividades/el-agua-como-un-derecho-humano.jpg"
 original: false
 Origin: "Insignia del Agua - FAO"
 version: "0.99"
@@ -27,7 +27,7 @@ age_group:
 
 materials:
   - Acceso a internet
-  - Papel y bolígrafos
+  - Papel y lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -150,23 +150,23 @@ rama_rovers:
 # ¡El Agua como un Derecho Humano!
 
 ## Resumen
-Investiga qué son los derechos humanos y por qué la ONU declaró el acceso al agua limpia como un derecho humano.
+Investigá qué son los derechos humanos y por qué la ONU declaró el acceso al agua limpia como un derecho humano.
 
 ## Preparación
-1. Investiga sobre los derechos humanos.
-2. Busca información sobre la declaración del agua como derecho humano.
-3. Prepara argumentos para el debate.
+1. Investigá sobre los derechos humanos.
+2. Buscá información sobre la declaración del agua como derecho humano.
+3. Prepará argumentos para el debate.
 
 ## Desarrollo
-1. **Investigación** (20 min): Aprende sobre derechos humanos y el acceso al agua.
+1. **Investigación** (20 min): Aprendé sobre derechos humanos y el acceso al agua.
 2. **Discusión** (20 min): ¿Estás de acuerdo? ¿Cuál derecho es más importante?
-3. **Debate** (15 min): Discute en grupo y escucha diferentes opiniones.
+3. **Debate** (15 min): Discutí en grupo y escuchá diferentes opiniones.
 4. **Conclusión** (5 min): Resume las ideas principales.
 
 ## Cierre
 - ¿Qué son los derechos humanos?
 - ¿Por qué el agua es un derecho humano?
-- ¿Cuál derecho humano es el más importante para ti?
+- ¿Cuál derecho humano es el más importante para vos?
 
 ---
 ## Texto original completo de la actividad
@@ -176,16 +176,3 @@ Investiga qué son los derechos humanos y por qué la ONU declaró el acceso al 
 niveles 3 2
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

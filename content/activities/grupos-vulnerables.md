@@ -3,7 +3,7 @@ title: "Grupos Vulnerables"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/grupos-vulnerables/"
-description: "Investiga un grupo vulnerable ante desastres y presenta tus hallazgos."
+description: "Investigá un grupo vulnerable ante desastres y presentá tus hallazgos."
 summary: "Investigación sobre grupos vulnerables en desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/grupos-vulnerables.png"
+image: "/imagenes/actividades/grupos-vulnerables.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -149,18 +149,18 @@ rama_rovers:
 # ¡Grupos Vulnerables!
 
 ## Resumen
-Investiga un grupo particular de personas que tiende a ser más vulnerable frente a los desastres (personas pobres, mujeres, niños, ancianos, personas con discapacidad) y presenta tus hallazgos.
+Investigá un grupo particular de personas que tiende a ser más vulnerable frente a los desastres (personas pobres, mujeres, niños, ancianos, personas con discapacidad) y presentá tus hallazgos.
 
 ## Preparación
-1. Elige un grupo vulnerable para investigar.
-2. Busca ejemplos y estadísticas.
-3. Prepara una presentación de diapositivas.
+1. Elegí un grupo vulnerable para investigar.
+2. Buscá ejemplos y estadísticas.
+3. Prepará una presentación de diapositivas.
 
 ## Desarrollo
-1. **Investigación** (25 min): Investiga el grupo elegido.
-2. **Análisis** (15 min): Identifica las causas de su vulnerabilidad.
-3. **Creación** (15 min): Prepara la presentación.
-4. **Presentación** (5 min): Comparte tus hallazgos.
+1. **Investigación** (25 min): Investigá el grupo elegido.
+2. **Análisis** (15 min): Identificá las causas de su vulnerabilidad.
+3. **Creación** (15 min): Prepará la presentación.
+4. **Presentación** (5 min): Compartí tus hallazgos.
 
 ## Cierre
 - ¿Qué grupo investigaste y por qué es vulnerable?
@@ -177,16 +177,3 @@ nivel 3
 ALERTA DE OBJETIVO - Esta actividad contribuye a los ODS sobre Cero Pobreza, Educación de Calidad, Igualdad de Género y Reducción de las Desigualdades.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

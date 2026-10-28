@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Siendo buenos para el bien global"
+title: "Siendo Buenos para el Bien Global"
 duration: "En curso"
 layout: "layouts/activity.njk"
 permalink: "/activities/siendo-buenos-para-el-bien-global/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Polinizadores
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/siendo-buenos-para-el-bien-global.png"
+image: "/imagenes/actividades/siendo-buenos-para-el-bien-global.jpg"
 original: false
 Origin: "Insignia de Polinizadores - FAO"
 version: "0.99"
@@ -162,7 +162,7 @@ rama_rovers:
   - 30  # Consumo y produzco de manera sostenible
 ---
 
-# ¡Siendo buenos para el bien global!
+# ¡Siendo Buenos para el Bien Global!
 
 ## Resumen
 Tomá acción diaria para ayudar a los polinizadores y al planeta. Pequeños cambios en tu vida cotidiana pueden tener un gran impacto cuando todos participamos. Elegí una acción que puedas mantener a largo plazo.
@@ -209,20 +209,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 1, 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

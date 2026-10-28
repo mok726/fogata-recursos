@@ -1,10 +1,10 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Misión reciclaje"
+title: "Misión Reciclaje"
 duration: "2 semanas"
 layout: "layouts/activity.njk"
 permalink: "/activities/mision-reciclaje/"
-description: "Aprende sobre cómo reciclar diferentes tipos de plásticos y crea un sistema de reciclaje en casa y en la escuela."
+description: "Aprendé sobre cómo reciclar diferentes tipos de plásticos y creá un sistema de reciclaje en casa y en la escuela."
 summary: "Conviértete en un experto en reciclaje de plásticos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -15,7 +15,7 @@ source:
   - FAO - Plastics Challenge Badge
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/mision-reciclaje.png"
+image: "/imagenes/actividades/mision-reciclaje.jpg"
 original: false
 Origin: "Plastics Challenge Badge - FAO"
 version: "0.99"
@@ -160,21 +160,21 @@ translation_notice:
   es: "Esta traducción no fue creada por la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO). La FAO no es responsable del contenido ni de la exactitud de esta traducción. La edición original en inglés será la edición que prevalece."
 ---
 
-# ¡Misión reciclaje!
+# ¡Misión Reciclaje!
 
 ## Resumen
-Aprende sobre cómo reciclar diferentes tipos de plásticos. Investiga qué plásticos se reciclan en tu área, cuáles no, y crea un sistema de reciclaje en casa y en la escuela.
+Aprendé sobre cómo reciclar diferentes tipos de plásticos. Investigá qué plásticos se reciclan en tu área, cuáles no, y creá un sistema de reciclaje en casa y en la escuela.
 
 ## Preparación
-1. Lee la Sección B de la información de fondo: "Plástico y el planeta".
-2. Revisa los códigos de reciclaje en las páginas 36-40.
-3. Reúne cajas de cartón y marcadores para crear contenedores de reciclaje.
-4. Busca información de contacto de las autoridades de reciclaje locales.
+1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+2. Revisá los códigos de reciclaje en las páginas 36-40.
+3. Reuní cajas de cartón y marcadores para crear contenedores de reciclaje.
+4. Buscá información de contacto de las autoridades de reciclaje locales.
 
 ## Desarrollo
 
 ### Parte I - Investigación
-Investiga cómo funciona el reciclaje de plásticos en tu área:
+Investigá cómo funciona el reciclaje de plásticos en tu área:
 
 **Preguntas para investigar:**
 - ¿Qué plásticos acepta tu programa de reciclaje local?
@@ -191,11 +191,11 @@ Investiga cómo funciona el reciclaje de plásticos en tu área:
 Basado en la información que recopilaste, crea contenedores de reciclaje con cajas de cartón para tu casa y tu aula:
 
 1. **Plásticos que el programa de reciclaje local acepta** → Reciclar
-2. **Plásticos que el programa local NO acepta** → ¿Puedes llevarlos a otro lugar? ¿Puedes reutilizarlos? ¿Puedes evitarlos?
+2. **Plásticos que el programa local NO acepta** → ¿Podés llevarlos a otro lugar? ¿Podés reutilizarlos? ¿Podés evitarlos?
 3. **Bolsas y envolturas plásticas** → Muchos supermercados las recolectan
 
 ### Parte III - Compartir
-Comparte tu sistema de reciclaje con tu familia y compañeros. Enséñales cómo usarlo correctamente.
+Compartí tu sistema de reciclaje con tu familia y compañeros. Enseñales cómo usarlo correctamente.
 
 ## Cierre
 1. ¿Qué fue lo más interesante que aprendiste sobre el reciclaje en tu área?
@@ -258,20 +258,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

@@ -1,9 +1,9 @@
 ---
-title: "Cava Profundamente"
+title: "Cavá Profundamente"
 duration: "90 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/cava-profundamente/"
-description: "Visita espacios naturales para examinar el suelo, sus capas y la vida que contiene."
+description: "Visitá espacios naturales para examinar el suelo, sus capas y la vida que contiene."
 summary: "Exploración del suelo y sus horizontes."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de los Suelos
 
-image: "/imagenes/actividades/cava-profundamente.png"
+image: "/imagenes/actividades/cava-profundamente.jpg"
 original: false
 Origin: "Insignia de los Suelos - FAO"
 version: "0.99"
@@ -29,7 +29,7 @@ age_group:
 
 materials:
   - Pala pequeña
-  - Cuaderno y bolígrafos
+  - Cuaderno y lapiceras
   - Cámara
   - Cinta métrica
 tools: []
@@ -153,22 +153,22 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Cava Profundamente!
+# ¡Cavá Profundamente!
 
 ## Resumen
-Visita espacios naturales y examina el suelo, sus capas, textura y la vida que contiene.
+Visitá espacios naturales y examiná el suelo, sus capas, textura y la vida que contiene.
 
 ## Preparación
-1. Identifica espacios naturales para visitar (parque, jardín, bosque).
-2. Obtén permiso para cavar.
-3. Prepara materiales: pala, cuaderno, cámara.
+1. Identificá espacios naturales para visitar (parque, jardín, bosque).
+2. Obtené permiso para cavar.
+3. Prepará materiales: pala, cuaderno, cámara.
 
 ## Desarrollo
-1. **Observación** (20 min): Examina la superficie del suelo en diferentes lugares.
-2. **Excavación** (20 min): Cava un hoyo de al menos 30 cm.
-3. **Registro** (25 min): Observa horizontes, textura y vida (lombrices, insectos).
-4. **Análisis** (15 min): Usa el triángulo de textura para clasificar.
-5. **Compartir** (10 min): Prepara un folleto y discute hallazgos con el grupo.
+1. **Observación** (20 min): Examiná la superficie del suelo en diferentes lugares.
+2. **Excavación** (20 min): Cavá un hoyo de al menos 30 cm.
+3. **Registro** (25 min): Observá horizontes, textura y vida (lombrices, insectos).
+4. **Análisis** (15 min): Usá el triángulo de textura para clasificar.
+5. **Compartir** (10 min): Prepará un folleto y discutí hallazgos con el grupo.
 
 ## Cierre
 - ¿Qué horizontes del suelo pudiste observar?
@@ -183,16 +183,3 @@ Visita espacios naturales y examina el suelo, sus capas, textura y la vida que c
 nivel 3 2 1
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

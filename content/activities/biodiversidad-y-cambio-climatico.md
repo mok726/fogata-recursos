@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Biodiversidad y cambio climático"
+title: "Biodiversidad y Cambio Climático"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/biodiversidad-y-cambio-climatico/"
@@ -17,7 +17,7 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/biodiversidad-y-cambio-climatico.png"
+image: "/imagenes/actividades/biodiversidad-y-cambio-climatico.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -163,26 +163,26 @@ rama_rovers:
   - 11  # Me comunico de manera asertiva
 ---
 
-# ¡Biodiversidad y cambio climático!
+# ¡Biodiversidad y Cambio Climático!
 
 ## Resumen
-La biodiversidad puede ayudar a reducir los efectos del cambio climático. Haz un video o un póster muy original que indique, por ejemplo, cómo los árboles capturan dióxido de carbono del aire y lo almacenan.
+La biodiversidad puede ayudar a reducir los efectos del cambio climático. Hacé un video o un póster muy original que indique, por ejemplo, cómo los árboles capturan dióxido de carbono del aire y lo almacenan.
 
 ## Preparación
-1. Investiga cómo la biodiversidad ayuda a reducir el cambio climático.
-2. Prepara materiales para el video o póster.
-3. Organiza los grupos de trabajo.
+1. Investigá cómo la biodiversidad ayuda a reducir el cambio climático.
+2. Prepará materiales para el video o póster.
+3. Organizá los grupos de trabajo.
 
 ## Desarrollo
-1. Investiga cómo la biodiversidad reduce los efectos del cambio climático.
-2. Crea un video o póster original explicando este concepto.
-3. Si haces un video, súbelo a YouTube.
-4. Si haces un póster, preséntalo a tu grupo o clase.
-5. Asegúrate de contar con la autorización de todos en el video.
+1. Investigá cómo la biodiversidad reduce los efectos del cambio climático.
+2. Creá un video o póster original explicando este concepto.
+3. Si hacés un video, subilo a YouTube.
+4. Si hacés un póster, presentalo a tu grupo o clase.
+5. Asegurate de contar con la autorización de todos en el video y de sus padres antes de publicarlo.
 
 ## Cierre
-1. Comparte tu trabajo con el grupo.
-2. Reflexiona: ¿Cómo contribuye la biodiversidad a la lucha contra el cambio climático?
+1. Compartí tu trabajo con el grupo.
+2. Reflexioná: ¿Cómo contribuye la biodiversidad a la lucha contra el cambio climático?
 3. Pregunta final: ¿Qué más podemos hacer para proteger la biodiversidad?
 
 ## Texto original completo de la actividad
@@ -191,16 +191,3 @@ A.19 La biodiversidad puede ayudar a reducir los efectos del cambio climático. 
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

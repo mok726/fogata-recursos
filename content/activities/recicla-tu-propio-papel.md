@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Recicla tu propio papel"
+title: "Reciclá Tu Propio Papel"
 duration: "2 horas + tiempo de secado"
 layout: "layouts/activity.njk"
 permalink: "/activities/recicla-tu-propio-papel/"
@@ -15,7 +15,7 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/recicla-tu-propio-papel.png"
+image: "/imagenes/actividades/recicla-tu-propio-papel.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -167,29 +167,29 @@ rama_rovers:
   - 17 # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Recicla tu propio papel!
+# ¡Reciclá Tu Propio Papel!
 
 ## Resumen
 Para esta actividad necesitarás: papel de desecho de cuadernos viejos/periódicos viejos/revistas viejas, almidón, un balde o tazón viejo, un mortero y mano de mortero, un colador con malla metálica o un plato perforado.
 
 ## Preparación
-1. Reúne todos los materiales necesarios.
-2. Rompe el papel en pequeños pedazos.
-3. Prepara el área de trabajo.
+1. Reuní todos los materiales necesarios.
+2. Rompé el papel en pequeños pedazos.
+3. Prepará el área de trabajo.
 
 ## Desarrollo
-1. Rompe el papel en pequeños pedazos.
-2. En un balde, remójalos en agua tibia con almidón.
-3. Después de unas horas, retíralo del agua y muélelo con el mortero hasta que se haga suave y pulposo.
-4. Añade más almidón para que se haga más espeso.
-5. Coloca esta pulpa en el colador para permitir que gotee el agua.
+1. Rompé el papel en pequeños pedazos.
+2. En un balde, remojalos en agua tibia con almidón.
+3. Después de unas horas, retiralo del agua y muélelo con el mortero hasta que se haga suave y pulposo.
+4. Añadí más almidón para que se haga más espeso.
+5. Colocá esta pulpa en el colador para permitir que gotee el agua.
 6. Aplástalo para eliminar el exceso de agua.
-7. Voltea el colador al revés sobre una superficie lisa y coloca peso sobre el papel.
+7. Volteá el colador al revés sobre una superficie lisa y colocá peso sobre el papel.
 8. Una vez que esté seco, tu papel hecho a mano está listo para usar.
 
 ## Cierre
-1. Comparte tu papel reciclado con el grupo.
-2. Reflexiona: ¿Cómo se sintió hacer tu propio papel?
+1. Compartí tu papel reciclado con el grupo.
+2. Reflexioná: ¿Cómo se sintió hacer tu propio papel?
 3. Pregunta final: ¿Qué otros materiales podrías reciclar?
 
 ## Texto original completo de la actividad
@@ -198,16 +198,3 @@ E.08 RECICLA TU PROPIO PAPEL. Para esta actividad necesitarás: 1. Papel de dese
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

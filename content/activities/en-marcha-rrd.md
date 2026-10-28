@@ -3,7 +3,7 @@ title: "¡En Marcha!"
 duration: "60 minutos"
 layout: "layouts/activity.njk"
 permalink: "/activities/en-marcha-rrd/"
-description: "Investiga el desplazamiento de personas debido a desastres y cambio climático."
+description: "Investigá el desplazamiento de personas debido a desastres y cambio climático."
 summary: "Investigación sobre desplazados por desastres."
 
 author:
@@ -12,7 +12,7 @@ author:
 source:
   - FAO - Insignia de la Reducción del Riesgo de Desastres
 
-image: "/imagenes/actividades/en-marcha-rrd.png"
+image: "/imagenes/actividades/en-marcha-rrd.jpg"
 original: false
 Origin: "Insignia de la Reducción del Riesgo de Desastres - FAO"
 version: "0.99"
@@ -150,18 +150,18 @@ rama_rovers:
 # ¡En Marcha!
 
 ## Resumen
-Investiga cómo los desastres y el cambio climático están forzando a las personas a abandonar sus hogares y crea una presentación sobre tus hallazgos.
+Investigá cómo los desastres y el cambio climático están forzando a las personas a abandonar sus hogares y creá una presentación sobre tus hallazgos.
 
 ## Preparación
-1. Investiga sobre desplazamientos por desastres a nivel global.
-2. Si conoces a alguien desplazado, pide entrevistarlo.
-3. Prepara materiales para la presentación.
+1. Investigá sobre desplazamientos por desastres a nivel global.
+2. Si conocés a alguien desplazado, pide entrevistarlo.
+3. Prepará materiales para la presentación.
 
 ## Desarrollo
-1. **Investigación** (20 min): Investiga el fenómeno de desplazamiento por desastres.
+1. **Investigación** (20 min): Investigá el fenómeno de desplazamiento por desastres.
 2. **Entrevistas** (15 min): Si es posible, entrevista a personas desplazadas.
-3. **Análisis** (15 min): Analiza las causas y consecuencias.
-4. **Presentación** (10 min): Comparte tus hallazgos con el grupo.
+3. **Análisis** (15 min): Analizá las causas y consecuencias.
+4. **Presentación** (10 min): Compartí tus hallazgos con el grupo.
 
 ## Cierre
 - ¿Por qué las personas deben abandonar sus hogares?
@@ -178,16 +178,3 @@ nivel 3 2
 ALERTA DE OBJETIVO - Esta actividad contribuye al ODS sobre Cambio Climático.
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante

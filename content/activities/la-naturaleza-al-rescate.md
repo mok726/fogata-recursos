@@ -1,6 +1,6 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "La naturaleza al rescate"
+title: "La Naturaleza al Rescate"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/la-naturaleza-al-rescate/"
@@ -14,7 +14,7 @@ source:
   - FAO - Insignia de Ciudades Verdes
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/la-naturaleza-al-rescate.png"
+image: "/imagenes/actividades/la-naturaleza-al-rescate.jpg"
 original: false
 Origin: "Insignia de Ciudades Verdes - FAO"
 version: "0.99"
@@ -172,7 +172,7 @@ rama_rovers:
   - 33  # Reconozco que la Tierra es nuestra casa común
 ---
 
-# ¡La naturaleza al rescate!
+# ¡La Naturaleza al Rescate!
 
 ## Resumen
 Somos muy afortunados en el planeta Tierra de que muchas de las soluciones a nuestros desafíos existen a nuestro alrededor en la naturaleza. Se llaman soluciones basadas en la naturaleza e incluyen plantar árboles para combatir el cambio climático o canalizar agua de lluvia para regar jardines y vegetación.
@@ -237,20 +237,3 @@ This translation was not created by the Food and Agriculture Organization of the
 NIVELES: 2, 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
-- [x] Texto original en inglés incluido
-- [x] Traducción al español incluida
-- [x] Nota de traducción incluida
-- [x] Citación requerida incluida

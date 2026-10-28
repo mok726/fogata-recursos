@@ -1,9 +1,9 @@
 ---
-title: "Plantas locales"
+title: "Plantas Locales"
 duration: "Proyecto continuo"
 layout: "layouts/activity.njk"
 permalink: "/activities/plantas-locales/"
-description: "Investiga y planta especies locales que requieren menos agua."
+description: "Investigá y planta especies locales que requieren menos agua."
 summary: "Plantación de especies locales."
 
 author:
@@ -13,7 +13,7 @@ author:
 source:
   - FAO - Insignia de la Seguridad Alimentaria y el Cambio Climático
 
-image: "/imagenes/actividades/plantas-locales.png"
+image: "/imagenes/actividades/plantas-locales.jpg"
 original: false
 Origin: "Insignia de la Seguridad Alimentaria y el Cambio Climático - FAO"
 version: "0.99"
@@ -148,26 +148,26 @@ rama_rovers:
   - 37  # Valoro la naturaleza como oportunidad de conexión.
 ---
 
-# ¡Plantas locales!
+# ¡Plantas Locales!
 
 ## Resumen
-Investiga plantas locales que requieren menos agua y plántalas en un jardín o maceta.
+Investigá plantas locales que requieren menos agua y plantalas en un jardín o maceta.
 
 ## Preparación
-1. Investiga plantas locales de bajo consumo de agua.
-2. Consigue plantas o semillas.
-3. Prepara el jardín o maceta.
+1. Investigá plantas locales de bajo consumo de agua.
+2. Conseguí plantas o semillas.
+3. Prepará el jardín o maceta.
 
 ## Desarrollo
 1. **Investigación** (15 min): ¿Qué plantas requieren menos agua?
-2. **Plantación** (20 min): Planta las especies locales.
-3. **Cuidado** (continua): Riega y cuida las plantas.
+2. **Plantación** (20 min): Plantá las especies locales.
+3. **Cuidado** (continua): Regá y cuidá las plantas.
 4. **Reflexión** (10 min): ¿Cómo beneficia esto al medio ambiente?
 
 ## Cierre
 - ¿Qué plantas locales plantaste?
 - ¿Por qué requieren menos agua?
-- ¿Cómo te sientes al cuidar plantas locales?
+- ¿Cómo te sentís al cuidar plantas locales?
 
 ---
 ## Texto original completo de la actividad
@@ -177,16 +177,3 @@ Investiga plantas locales que requieren menos agua y plántalas en un jardín o 
 NIVEL 1 2 3
 
 ---
-## Checklist de verificación
-- [x] Título llamativo
-- [x] Duración realista
-- [x] Rango de edad correcto
-- [x] Materiales listados
-- [x] Responsable definido
-- [x] ODS numerados
-- [x] Código de insignia (si aplica)
-- [x] Enlaces (si hay)
-- [x] Referencias completas
-- [x] Licencia y atribuciones
-- [x] Desarrollo con pasos claros
-- [x] Pregunta de cierre relevante
