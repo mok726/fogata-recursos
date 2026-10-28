@@ -905,15 +905,20 @@ sections: {
         "La insignia promueve el cuidado del planeta. y es parte del programa SCOUT",
       logo: "/imagenes/insignias/cfn.png",
       hero_image: "/imagenes/insignias/cfn-hero.png",
-      sources: [],
+      sources: [
+        {
+          name: "Champions for Nature Challenge – Action Kit (OMMS, 2020)",
+          url: "https://scouts.mt/wp-content/uploads/2025/08/CFN-ActionKit.pdf"
+        }
+      ],
   license: {
     type: "© World Scout Bureau Inc. – Todos los derechos reservados",
     url: "https://www.scout.org",
     note: "Autorizado: reproducción por organizaciones miembro de la OMMS. Pendiente: publicación en este sitio, autorización solicitada a la OMMS el 26/10/2026."
   },
   attribution: {
-    organization: "FAO",
-    year: "2021"
+    organization: "OMMS (World Organization of the Scout Movement)",
+    year: "2020"
   },
       
     requirements: {
