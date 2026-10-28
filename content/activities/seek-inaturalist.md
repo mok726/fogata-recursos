@@ -169,6 +169,8 @@ Los participantes serán invitados a utilizar la aplicación durante otras activ
 2. Prepará un video tutorial de la aplicación.
 3. Organizá una actividad al aire libre donde puedan usar la aplicación.
 
+> **Nota para el educador (privacidad):** con menores, configurá la app para que la ubicación de las observaciones se vea oculta o aproximada ("oscurecida"), y que no se suban fotos donde aparezcan caras de los chicos.
+
 ## Desarrollo
 
 ### Parte I - Introducción

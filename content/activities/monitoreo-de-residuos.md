@@ -1,7 +1,7 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
 title: "Monitoreo de Mis Residuos"
-duration: "2 semanas (4 horas cada semana)"
+duration: "3 semanas (4 horas cada semana)"
 layout: "layouts/activity.njk"
 permalink: "/activities/monitoreo-de-residuos/"
 description: "Los participantes registran y pesan sus residuos domésticos durante una semana, visitan una instalación de gestión de residuos y desarrollan ideas para reducir el desperdicio."
@@ -161,14 +161,14 @@ rama_rovers: []
 Esta actividad dará una idea de la cantidad de residuos que se producen y cuánto agrega la gente a la acumulación de residuos. Durante la actividad, los participantes desarrollarán ideas sobre cómo reducir el desperdicio.
 
 ## Preparación
-1. Prepará un cuaderno y pluma para registrar datos.
+1. Prepará un cuaderno y lapicera para registrar datos, y guantes para manipular los residuos.
 2. Organizá una visita a una instalación local de gestión de residuos (semana 3).
 3. Buscá estadísticas de residuos de tu ciudad.
 
 ## Desarrollo
 
 ### Semana 1 - Seguimiento de residuos
-Pedí a los participantes que tomen registro de sus residuos domésticos pesando la cantidad producida y clasificando el tipo de residuos que están produciendo en el hogar. Sugiéreles que comprueben en línea las estadísticas de residuos de su ciudad.
+Pedí a los participantes que tomen registro de sus residuos domésticos pesando la cantidad producida y clasificando el tipo de residuos que están produciendo en el hogar (siempre con guantes, y lavándose las manos al terminar). Sugeriles que consulten en línea las estadísticas de residuos de su ciudad.
 
 ### Semana 2 - Comparar y descubrir
 Pedí a los participantes que comparen sus estadísticas y que discutan las razones de una mayor o menor producción de residuos. También permíteles discutir otros temas relacionados con la gestión de residuos, tales como:
@@ -178,7 +178,7 @@ Pedí a los participantes que comparen sus estadísticas y que discutan las razo
 - ¿Cuántos tipos de residuos se separan en tu municipio?
 
 ### Semana 3 - Visita a una instalación local de gestión de residuos
-Pre-organiza una visita a una instalación local de gestión de residuos en tu área. Es un lugar para aprender hacia dónde va el desperdicio y hacer más preguntas sobre cómo manejarlo.
+Organizá con anticipación una visita a una instalación local de gestión de residuos en tu área. Es un lugar para aprender hacia dónde va el desperdicio y hacer más preguntas sobre cómo manejarlo.
 
 **Preguntas informativas y aportaciones:**
 - ¿Qué viste y experimentaste en las instalaciones locales de gestión de residuos?

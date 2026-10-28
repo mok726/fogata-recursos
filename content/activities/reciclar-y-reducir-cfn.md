@@ -170,7 +170,7 @@ Esta actividad ayuda a los participantes a comprender la diferencia entre el rec
 ## Desarrollo
 
 ### Parte I - Clasificación
-El facilitador invita a los participantes a dividirse en cuatro grupos. Dale a cada grupo una bolsa de papel con un juego de cartas. Indícales que se turnen para sacar una carta de juego de la bolsa y que la coloquen en la categoría apropiada en el tapete.
+El facilitador invita a los participantes a dividirse en cuatro grupos. Dale a cada grupo una bolsa de papel con un juego de cartas. Indicales que se turnen para sacar una carta de juego de la bolsa y que la coloquen en la categoría apropiada en el tapete.
 
 ### Parte II - Puntuación
 Cuando todas las cartas se clasifican en las categorías apropiadas, da puntos por las tarjetas que se colocan en la categoría correcta. ¡El equipo con más puntos gana!
@@ -181,16 +181,18 @@ El facilitador explica la diferencia entre reciclar y reducir:
 - ¿El reciclaje deja un impacto negativo, neutral o positivo en la naturaleza? El reciclaje puede parecer positivo, pero en realidad tiene un efecto neutral en el medio ambiente.
 - Entonces, ¿qué pasa con reducir? Reutilizar se define como usar de nuevo el material que ya ha sido consumido para otro propósito. Este es el impacto correcto que necesitamos para crear un mejor entorno y preservar la naturaleza. Si comenzamos a reducir el consumo de la sustancia no amigable con el ambiente, la mayoría de las empresas dejarán de producir estos materiales. Debemos comenzar con nosotros mismos y dar un buen ejemplo para los demás.
 
+> **Nota para el educador:** que el reciclaje tenga un efecto "neutral" es una forma de decir que no compensa el impacto de producir el objeto: reciclar consume energía y agua, y no todo lo que se separa termina reciclado. Aun así, es mucho mejor que tirarlo. La idea central de la actividad es que **reducir** (no comprar o no usar) es lo que más impacto positivo tiene. Ojo: el texto define "reutilizar" al explicar "reducir"; son dos R distintas. Si quieren, sumen una quinta categoría de **vidrio**, que en el original no está.
+
 ### Parte IV - Ideas para reducir
 Pregunta: ¿Cómo podemos reducir nuestro consumo?
 
 **Ideas:**
 - Traé tu propia bolsa de compras
-- Dejá de comprar agua embotellada, en cambio, carga tu propia botella
+- Dejá de comprar agua embotellada, en cambio, cargá tu propia botella
 - Traé tu propio termo a la cafetería
 - Elegí cartón sobre bolsas de plástico
 - Decí no a las pajitas
-- No compres afeitadoras descartables desechables
+- No compres afeitadoras descartables
 - Repensá tu almacenamiento de alimentos
 
 ## Cierre

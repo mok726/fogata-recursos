@@ -185,7 +185,7 @@ El facilitador muestra episodios de Nuestro Planeta a los participantes. Pueden 
 El grupo revisa los recursos educacionales de Nuestro Planeta e incluye varias actividades que pueden realizar.
 
 ### Parte III - Conexión en vivo (opcional)
-Pueden conectarse en vivo con expertos y aulas de todo el mundo a través de Skype mediante la plataforma Nuestro Planeta en vivo.
+Pueden conectarse en vivo con expertos y aulas de todo el mundo por videollamada (Meet, Zoom o Jitsi) mediante la plataforma Nuestro Planeta en vivo.
 
 ### Parte IV - Acción
 ¡Es hora de ir por la meta! Descubrí lo que podés hacer por el planeta, incluida la promesa de Dar Voz al Planeta y aprender más participando de un viaje interactivo a través de un planeta asombroso virtual.

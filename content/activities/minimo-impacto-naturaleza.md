@@ -171,7 +171,9 @@ Explorar lo que sucederá a nivel local y global si seguimos talando la selva tr
 ## Desarrollo
 
 ### Parte I - Explicación
-El facilitador explica que, si bien se están tomando muchas medidas para proteger la selva tropical, todavía esta se encuentra bajo amenaza de ser destruida. Cada minuto se destruye un área equivalente a 25 campos de fútbol. Esta actividad muestra lo que sucederá si continuamos destruyendo la selva tropical a este ritmo.
+El facilitador explica que, si bien se están tomando muchas medidas para proteger la selva tropical, todavía esta se encuentra bajo amenaza de ser destruida. Cada minuto se destruye un área equivalente a 25 campos de fútbol.
+
+> **Nota para el educador:** la cifra de los "25 campos de fútbol" no tiene fuente ni año en el kit. Para dar un dato actualizado, consulten Global Forest Watch (https://www.globalforestwatch.org), que tiene datos por país y por año. Para acercarlo a la Argentina, pueden hablar del Gran Chaco, las Yungas o la Selva Paranaense, que tienen altas tasas de desmonte. Esta actividad muestra lo que sucederá si continuamos destruyendo la selva tropical a este ritmo.
 
 ### Parte II - Clasificación
 Organizá a los participantes en grupos de 4 o 5 y entregales un conjunto de tarjetas "Un mundo sin selva". Deben clasificar las tarjetas en 2 categorías: "Cómo afecta la tala de bosques a las personas, las plantas y los animales que viven en la selva tropical" y "Cómo afecta la tala de bosques a todos nosotros". Deben tener 7 cartas en el montón "Cómo afecta la tala de bosques a todos nosotros".
@@ -183,7 +185,7 @@ A continuación deben clasificar las 7 cartas de acuerdo con los temas que consi
 Los grupos pueden compartir sus asuntos más importantes y menos importantes y discutir sus opciones.
 
 ### Parte V - Reflexión
-Utilice la información recopilada de las tarjetas para hablar sobre los impactos en los bosques, las personas, la biodiversidad y el cambio climático tanto a nivel local como global. Animalos a explorar las formas en que están conectados con el problema, por ejemplo, mediante el uso de alimentos y cosméticos que contengan aceite de palma, artículos de cuero y productos de madera.
+Usá la información recopilada de las tarjetas para hablar sobre los impactos en los bosques, las personas, la biodiversidad y el cambio climático tanto a nivel local como global. Animalos a explorar las formas en que están conectados con el problema, por ejemplo, mediante el uso de alimentos y cosméticos que contengan aceite de palma, artículos de cuero y productos de madera.
 
 ## Cierre
 1. ¿Qué impacto de la deforestación te parece más grave?

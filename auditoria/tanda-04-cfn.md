@@ -30,3 +30,12 @@
 | see-los-enlaces (B09) | fiel | Plantilla imprimible de los 3 dados. | "Se le da" → "Se les dan" (PR). En el ejemplo, "una vez que se coloca en un embalse" es confuso. En los dados de emociones, "alegría" y "felicidad" se repiten. | genérica | P3 |
 | discurso-pixar (B10) | fiel | — | "Abogacía" en Argentina es la profesión de abogado; el término de OMMS en español es "incidencia". El enlace pixar.com/storytelling no lo verifiqué; alternativa conocida: "Pixar in a Box – El arte de contar historias" (Khan Academy, gratis, en español). | genérica | P3 |
 | proyecto-servicio-comunitario-cfn (C01) | fiel | Las "guías para desarrollar un proyecto de servicio comunitario" que cita el kit no están incluidas en la fuente. | — | genérica | P3 |
+
+## Estado (2026-10-28)
+
+Aplicado con OK de Mariano (cambios menores directos; el resto como nota u opción):
+- Enlaces: huella → Global Footprint Network (el que cita el kit); pirámide → Guías Alimentarias para la Población Argentina (en lugar de freepik). Enlaces nuevos sin verificar desde el entorno (la red bloquea esos dominios).
+- Duraciones: monitoreo-de-residuos (3 semanas), que-esta-en-riesgo (semana 3 opcional).
+- que-esta-en-riesgo: nota con reglas jugables y especies argentinas (invasoras / nativas en riesgo).
+- Skype → Meet/Zoom/Jitsi (directo). Notas: reciclaje "neutral" y vidrio, Gráfica de la Alimentación Diaria, cifra de la selva (Global Forest Watch, Chaco/Yungas/Paranaense), especies locales en red-de-vida, privacidad en Seek/iNaturalist (+ ArgentiNat), guantes en monitoreo-de-residuos.
+- Voseo suelto corregido (Sugeriles, Indicales, hacé, Usá, cargá).

@@ -69,11 +69,8 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.inaturalist.org/pages/seek_app"
-    caption: "Aplicación Seek de iNaturalist"
-    icon: "link"
-  - url: "https://www.scout.org"
-    caption: "Scout.org - Organización Mundial del Movimiento Scout"
+  - url: "https://www.footprintnetwork.org/"
+    caption: "Global Footprint Network: calculadora de huella ecológica (la que cita el kit)"
     icon: "link"
 files: []
 

@@ -66,8 +66,8 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www.freepik.com"
-    caption: "Gráficos diseñados por Freepik"
+  - url: "https://www.argentina.gob.ar/salud/alimentacion-saludable/guias-alimentarias"
+    caption: "Guías Alimentarias para la Población Argentina (Ministerio de Salud): Gráfica de la Alimentación Diaria"
     icon: "link"
 files: []
 
@@ -166,6 +166,8 @@ Esta actividad se trata de comprender el impacto que tiene tu elección de alime
 1. Prepará la tabla para comida semanal.
 2. Prepará una pirámide de alimentos (puede ser la mediterránea u otra de tu país/región).
 3. Investigá la pirámide de impacto ambiental de tu país/región.
+
+> **Nota para el educador:** en Argentina, la referencia oficial no es una pirámide sino la **Gráfica de la Alimentación Diaria** de las Guías Alimentarias para la Población Argentina (Ministerio de Salud). Se puede usar en lugar de la pirámide mediterránea: los participantes arman su "plato" de la semana y lo comparan con la gráfica.
 
 ## Desarrollo
 

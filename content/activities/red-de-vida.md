@@ -163,6 +163,8 @@ Con una bola de cuerda, los participantes representan plantas y animales de un e
 ## Preparación
 1. Dividí a los participantes en grupos. El tamaño máximo del grupo es de 15. La cantidad ideal sería de 8 a 12.
 2. Prepará tarjetas con plantas y animales locales.
+
+> **Opción (especies argentinas):** el ejemplo del texto usa especies del hemisferio norte (manzano, ciervo, pájaro carpintero, búho). Pueden reemplazarlas por especies locales, por ejemplo para el monte o el espinal: algarrobo, chañar, hornero, carpintero campestre, lechuza vizcachera, ñandú, zorro gris, vizcacha, hormiga cortadora, hongos y lombrices.
 3. Prepará la bola de cuerda.
 
 ## Desarrollo
