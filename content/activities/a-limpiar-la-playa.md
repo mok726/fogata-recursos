@@ -71,7 +71,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -169,6 +169,8 @@ Organizá una limpieza de playa, clasificá y pesá la basura encontrada, y cre�
 1. Identificá una playa o costa local para limpiar.
 2. Reuní materiales: bolsas, guantes, básculas.
 3. Obtené permiso si es necesario.
+
+> **Nota de seguridad:** en la costa, nunca solos y siempre con adultos; atención a la marea (puede subir rápido y dejarlos aislados) y a las olas. No se metan al agua sin las medidas de seguridad acuática de tu organización; en embarcaciones, chaleco salvavidas siempre.
 4. Seguridad: supervisión adulta; si aparecen objetos filosos (vidrios, jeringas, anzuelos) o algo dudoso, no se tocan: un adulto decide si se recogen.
 
 ## Desarrollo

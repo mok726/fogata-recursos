@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Prepará una comida usando ingredientes del océano, asegurándote de que sean d
 1. Investigá ingredientes del océano (pescado, algas, mariscos).
 2. Aprendé cómo crecieron o se desarrollaron los ingredientes.
 3. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** consulten antes las alergias del grupo; la alergia a mariscos y pescado es común y puede ser grave. Mantengan el pescado y los mariscos refrigerados hasta cocinarlos.
 
 ## Desarrollo
 1. **Investigación** (15 min): Investigá ingredientes y su procedencia.

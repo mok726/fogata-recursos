@@ -73,7 +73,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +186,8 @@ Extrae agua dulce del agua salada usando un proceso de evaporación y condensaci
 3. Cubrí el tazón con plástico transparente y sella con cinta adhesiva.
 4. Colocá una pesa sobre el plástico para que se hunda sobre la taza, sin tocarla.
 5. Asegurá la supervisión de un adulto.
+
+> **Nota de seguridad:** prueben el agua solo si todos los recipientes y el plástico están limpios.
 
 ## Desarrollo
 1. **Montaje** (10 min): Armá el dispositivo de destilación.

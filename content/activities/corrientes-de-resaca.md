@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +185,8 @@ Investigá las corrientes de resaca, cómo identificarlas y cómo escapar de ell
 1. **Investigación** (20 min): Investigá qué provoca las corrientes de resaca.
 2. **Identificación** (15 min): Aprendé a identificar señales de una corriente de resaca.
 3. **Seguridad** (15 min): Averiguá cómo escapar de una corriente de resaca.
+
+> **Nota para el educador:** la regla clave es no nadar contra la corriente: mantener la calma, flotar y nadar **en paralelo a la costa** hasta salir de ella, y recién ahí volver hacia la orilla. Si no se puede, flotar y pedir ayuda levantando un brazo. Bañarse siempre en zonas con guardavidas.
 4. **Creación** (25 min): Creá un folleto o póster con tus hallazgos.
 5. **Presentación** (15 min): Da una charla corta sobre seguridad.
 

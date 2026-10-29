@@ -70,7 +70,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -182,7 +182,7 @@ Aprendé cómo la gravedad de la Luna y el Sol afectan las mareas con una simula
 ## Desarrollo
 1. **Discusión** (10 min): ¿Qué sabés sobre las mareas?
 2. **Simulación 1** (10 min): Colocá Tierra, Luna y Sol en línea recta (marea viva).
-3. **Simulación 2** (10 min): Colocá la Tierra entre la Luna y el Sol.
+3. **Simulación 2** (10 min): Colocá la Tierra entre la Luna y el Sol. (Respuesta para el educador: también es **marea viva**, porque los tres siguen alineados y las fuerzas se suman; pasa en luna llena.)
 4. **Simulación 3** (10 min): Colocá a la Luna y la Tierra en línea y al Sol en ángulo recto.
 5. **Registro** (15 min): Dibujá diagramas explicando el movimiento de las mareas.
 

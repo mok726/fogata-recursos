@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,6 +178,8 @@ Creá un video corto sobre el área costera, sus características, plantas, anim
 2. Escribí un guión antes de filmar.
 3. Prepará el equipo de filmación.
 4. Asegurá la supervisión de un adulto.
+
+> **Nota para el educador:** si en el video aparecen personas, y sobre todo chicos, pidan antes la autorización de imagen, según la política de tu organización scout nacional o de tu escuela.
 
 ## Desarrollo
 1. **Investigación** (20 min): Investigá sobre la costa (características, plantas, animales, amenazas).

@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,10 +178,12 @@ Creá una nube dentro de una botella para entender el ciclo del agua y la conden
 2. Prepará los fósforos.
 3. Asegurá la supervisión de un adulto.
 
+> **Nota de seguridad:** el fósforo lo enciende y lo maneja un adulto, o un chico mayor con supervisión directa.
+
 ## Desarrollo
 1. **Paso 1 - Evaporación** (5 min): Añadí agua tibia a la botella hasta que se llene cerca de un tercio, luego cerrá la tapa. Esta agua tibia empezará a evaporarse (especialmente si colocás la botella en el Sol). Esto añadirá vapor de agua al aire en la botella, el primer ingrediente para hacer nubes.
 2. **Paso 2 - Calentamiento y enfriamiento** (5 min): Aprieta la botella y luego libérala. El apretón representa la atmósfera calentándose y liberarla representa la atmósfera que se enfría. Si aparecen gotitas de agua en la botella (esto se llama condensación), sacúdela para deshacerte de ellas.
-3. **Paso 3 - Partículas** (5 min): Quitá la tapa de la botella. Con mucho cuidado enciende un fósforo y sostenlo cerca de la abertura de la botella durante unos segundos. Luego bota el fósforo dentro de la botella y rápidamente vuelve a colocar la tapa para atrapar el humo dentro. El humo está hecho de muchas partículas pequeñas, como polvo. Estas partículas son el segundo ingrediente para hacer nubes.
+3. **Paso 3 - Partículas** (5 min): Quitá la tapa de la botella. Con mucho cuidado enciende un fósforo y sostenlo cerca de la abertura de la botella durante unos segundos. Luego tirá el fósforo dentro de la botella y rápidamente vuelve a colocar la tapa para atrapar el humo dentro. El humo está hecho de muchas partículas pequeñas, como polvo. Estas partículas son el segundo ingrediente para hacer nubes.
 4. **Paso 4 - Formación de la nube** (5 min): Una vez más, lentamente aprieta con fuerza la botella y luego libérala. ¿Qué sucede esta vez? Deberías de ver una nube formándose dentro cuando la apretás, pero cuando la soltás, ¡la nube desaparece!
 5. **Registro** (10 min): Dibujá y describí lo que observaste.
 

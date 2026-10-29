@@ -63,7 +63,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -158,6 +158,8 @@ Investigá sobre especies marinas invasoras y creá un libro de historietas que 
 
 ## Preparación
 1. Investigá sobre especies invasoras marinas en tu área o en el mundo.
+
+> **Opción:** busquen un caso cercano. En la Patagonia argentina, por ejemplo, el alga *Undaria pinnatifida*, que llegó en el agua de lastre de los barcos.
 2. Reuní materiales para dibujar.
 
 ## Desarrollo

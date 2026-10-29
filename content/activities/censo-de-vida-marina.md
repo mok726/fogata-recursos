@@ -69,7 +69,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -175,6 +175,8 @@ Explorá el Censo de Vida Marina y creá una obra sobre una especie desconocida.
 
 ## Preparación
 1. Visitá el sitio web del Censo de Vida Marina (www.coml.org).
+
+> **Nota para el educador:** el Censo de Vida Marina terminó en 2010 y su sitio puede no estar disponible. **Opción:** busquen especies en OBIS (Sistema de Información sobre la Biodiversidad Oceánica, de la UNESCO) o en iNaturalist.
 2. Buscá una especie de la cual nunca hayas escuchado antes.
 3. Prepará materiales de manualidades.
 

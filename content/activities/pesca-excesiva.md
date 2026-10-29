@@ -62,7 +62,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -158,6 +158,8 @@ Investigá cómo ha cambiado la pesca a lo largo de los años, entrevista a pesc
 ## Preparación
 1. Identificá pescadores para entrevistar.
 2. Prepará preguntas sobre cambios en la pesca.
+
+> **Opción:** para los datos, consulten el instituto de investigación pesquera de tu país. En Argentina, por ejemplo, el INIDEP tiene información sobre la merluza común (*Merluccius hubbsi*), una de las especies más pescadas del Mar Argentino.
 3. Reuní materiales para tomar notas.
 
 ## Desarrollo

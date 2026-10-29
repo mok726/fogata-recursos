@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -168,6 +168,8 @@ Investigá qué productos del mar son más sostenibles y animá a tu familia y a
 ## Preparación
 1. Investigá sobre productos del mar sostenibles.
 2. Revisá las guías de Seafood Watch y MSC.
+
+> **Nota para el educador:** Seafood Watch es una guía de EE. UU. El MSC (*Marine Stewardship Council*, que el original traduce como "Consejo de Vigilancia Marina") es el **Consejo de Administración Marina**: su sello azul certifica pesquerías sostenibles en muchos países, también en Argentina.
 3. Prepará materiales para la campaña.
 
 ## Desarrollo

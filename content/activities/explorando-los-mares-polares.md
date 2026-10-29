@@ -68,7 +68,7 @@ references:
     author: "FAO"
     year: 2013
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3465e"
+    url: "https://www.fao.org/docrep/018/i3465s/i3465s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -163,6 +163,8 @@ Imaginá que te unís a una expedición al Ártico para investigar cómo las act
 
 ## Preparación
 1. Investigá sobre el Ártico y las expediciones polares.
+
+> **Opción:** en el hemisferio sur, la expedición puede ser a la Antártida; en Argentina, por ejemplo, el Instituto Antártico Argentino tiene información sobre las bases y las campañas científicas.
 2. Pensá en qué pregunta de investigación te gustaría responder.
 3. Prepará un cuaderno para escribir tu diario.
 
