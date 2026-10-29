@@ -78,15 +78,15 @@ references:
     author: "FAO, CBD, AMGS, YUNGA"
     year: 2011
     series: "Serie de Insignias de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i1885e"
+    url: "https://www.fao.org/3/i1885s/i1885s.pdf"
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Todos los derechos reservados"
+  name: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  note: "Titulares de los derechos: FAO, AMGS y CBD. Esta adaptación no fue creada por ellos; no respaldan ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO, la AMGS y el CBD como fuente y titulares."
   pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
@@ -169,6 +169,8 @@ En una tienda de comestibles encuentra cinco tipos de alimentos que hayan sido g
 1. Investigá sobre alimentos genéticamente modificados.
 2. Visitá una tienda de comestibles.
 3. Prepará argumentos para el debate.
+
+> **Nota para el educador:** en algunos países (en Argentina, por ejemplo) no es obligatorio indicar en la etiqueta si un alimento es transgénico, así que puede ser difícil encontrarlos en la góndola. Alternativa: investigar qué cultivos transgénicos se siembran en el país (en Argentina, por ejemplo, soja y maíz, aprobados por la CONABIA).
 
 ## Desarrollo
 1. Visitá una tienda de comestibles.

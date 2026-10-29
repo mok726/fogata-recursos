@@ -35,7 +35,7 @@ age_group:
 
 # ========== LOGÍSTICA ==========
 materials:
-  - Guión
+  - Guion
   - Vestuario (opcional)
 tools:
   - Cámara
@@ -80,15 +80,15 @@ references:
     author: "FAO, CBD, AMGS, YUNGA"
     year: 2011
     series: "Serie de Insignias de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i1885e"
+    url: "https://www.fao.org/3/i1885s/i1885s.pdf"
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Todos los derechos reservados"
+  name: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  note: "Titulares de los derechos: FAO, AMGS y CBD. Esta adaptación no fue creada por ellos; no respaldan ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO, la AMGS y el CBD como fuente y titulares."
   pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
@@ -168,7 +168,7 @@ rama_rovers:
 Realizá un comercial sobre la biodiversidad. Grabalo y publicalo en YouTube. Monitoreá el número de reproducciones (el número de personas que miran tu comercial) y los comentarios que aparecen en la página web durante un mes. Presentá un relato a tu grupo.
 
 ## Preparación
-1. Escribí un guión para el comercial.
+1. Escribí un guion para el comercial.
 2. Reuní el equipo y los materiales.
 3. Organizá la grabación.
 

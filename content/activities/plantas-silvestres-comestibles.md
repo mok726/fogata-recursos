@@ -17,7 +17,6 @@ source:
   - FAO - Insignia de la Biodiversidad
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/plantas-silvestres-comestibles.jpg"
 original: false
 Origin: "Insignia de la Biodiversidad - FAO"
 version: "0.99"
@@ -80,15 +79,15 @@ references:
     author: "FAO, CBD, AMGS, YUNGA"
     year: 2011
     series: "Serie de Insignias de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i1885e"
+    url: "https://www.fao.org/3/i1885s/i1885s.pdf"
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Todos los derechos reservados"
+  name: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  note: "Titulares de los derechos: FAO, AMGS y CBD. Esta adaptación no fue creada por ellos; no respaldan ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO, la AMGS y el CBD como fuente y titulares."
   pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
@@ -165,7 +164,7 @@ rama_rovers:
 # ¡Plantas Silvestres Comestibles!
 
 ## Resumen
-Pedí a una persona indígena (llamada algunas veces aborigen, nativa o miembro de las naciones originarias en diferentes partes del mundo), a tus padres, a tus abuelos o a amigos ancianos que te enseñen cómo reconocer hierbas y plantas silvestres comestibles. Hacé un collage que indique las hierbas y las plantas y sus usos.
+Pedí a una persona indígena (llamada algunas veces aborigen, nativa o miembro de las naciones originarias en diferentes partes del mundo), a tus padres, a tus abuelos o a personas mayores amigas que te enseñen cómo reconocer hierbas y plantas silvestres comestibles. Hacé un collage que indique las hierbas y las plantas y sus usos.
 
 ## Preparación
 1. Identificá a una persona con conocimiento de plantas silvestres.
@@ -173,7 +172,7 @@ Pedí a una persona indígena (llamada algunas veces aborigen, nativa o miembro 
 3. Prepará materiales para el collage.
 
 ## Desarrollo
-1. Aprendé con una persona indígena o anciana sobre plantas silvestres comestibles.
+1. Aprendé con una persona indígena o una persona mayor sobre plantas silvestres comestibles.
 2. Reconocé e identificá las plantas y sus usos.
 3. Hacé un collage con las hierbas y plantas.
 4. Registrá sus nombres y usos.

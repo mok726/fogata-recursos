@@ -85,15 +85,15 @@ references:
     author: "FAO, CBD, AMGS, YUNGA"
     year: 2011
     series: "Serie de Insignias de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i1885e"
+    url: "https://www.fao.org/3/i1885s/i1885s.pdf"
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Todos los derechos reservados"
+  name: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  note: "Titulares de los derechos: FAO, AMGS y CBD. Esta adaptación no fue creada por ellos; no respaldan ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO, la AMGS y el CBD como fuente y titulares."
   pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
@@ -176,6 +176,8 @@ Alienten a sus amigos y al grupo a que participen en La Ola Verde. Obtengan más
 1. Investigá sobre La Ola Verde.
 2. Organizá la participación.
 3. Prepará árboles para plantar.
+
+> **Nota para el educador:** la página de La Ola Verde (greenwave.cbd.int) que cita el original es de 2011: verifiquen que siga activa. El Día Internacional de la Diversidad Biológica es el 22 de mayo.
 
 ## Desarrollo
 1. Aprendé sobre La Ola Verde.

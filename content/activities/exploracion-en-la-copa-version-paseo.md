@@ -80,15 +80,15 @@ references:
     author: "FAO, CBD, AMGS, YUNGA"
     year: 2011
     series: "Serie de Insignias de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i1885e"
+    url: "https://www.fao.org/3/i1885s/i1885s.pdf"
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Todos los derechos reservados"
+  name: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  note: "Titulares de los derechos: FAO, AMGS y CBD. Esta adaptación no fue creada por ellos; no respaldan ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO, la AMGS y el CBD como fuente y titulares."
   pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
@@ -165,7 +165,7 @@ rama_rovers:
 # ¡Exploración en la Copa - Versión Paseo!
 
 ## Resumen
-Exploren la biodiversidad que vive fuera del suelo. Caminen por el vecindario con un par de binoculares si es posible. ¿Qué ven justo arriba del suelo en los arbustos? ¿Qué habita en el aire entre los árboles y la yerba? ¿Qué existe en la copa (parte superior del árbol)?
+Exploren la biodiversidad que vive fuera del suelo. Caminen por el vecindario con un par de binoculares si es posible. ¿Qué ven justo arriba del suelo en los arbustos? ¿Qué habita en el aire entre los árboles y el pasto? ¿Qué existe en la copa (parte superior del árbol)?
 
 ## Preparación
 1. Prepará binoculares si es posible.
@@ -175,7 +175,7 @@ Exploren la biodiversidad que vive fuera del suelo. Caminen por el vecindario co
 ## Desarrollo
 1. Caminá por el vecindario observando la biodiversidad aérea.
 2. Observá: ¿Qué hay justo arriba del suelo en los arbustos?
-3. Observá: ¿Qué habita en el aire entre los árboles y la yerba?
+3. Observá: ¿Qué habita en el aire entre los árboles y el pasto?
 4. Observá: ¿Qué existe en la copa de los árboles?
 5. Reflexioná: ¿Cómo consiguen subir a la rama estas criaturas?
 6. Reflexioná: ¿Por qué estas criaturas viven por encima del suelo?

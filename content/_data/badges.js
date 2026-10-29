@@ -1281,13 +1281,13 @@ sections: {
       sources: [
         {
           name: "YUNGA Biodiversity Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/biodiversity/es/"
+          url: "https://www.fao.org/3/i1885s/i1885s.pdf"
         }
       ],
   license: {
-    type: "© FAO – Todos los derechos reservados",
+    type: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados",
     url: "https://www.fao.org/contact-us/terms/en/",
-    note: "Autorizado: uso no comercial del original citando a la FAO. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
+    note: "Autorizado: uso no comercial del original citando a la FAO, la AMGS y el CBD. Pendiente: traducción y adaptación, autorización solicitada a la FAO el 26/10/2026."
   },
   attribution: {
     organization: "FAO",

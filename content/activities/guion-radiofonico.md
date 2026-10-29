@@ -1,11 +1,11 @@
 ---
 # ========== METADATOS OBLIGATORIOS ==========
-title: "Guión Radiofónico"
+title: "Guion Radiofónico"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/guion-radiofonico/"
-description: "Escritura de un guión radiofónico sobre biodiversidad y presentación a una estación de radio local."
-summary: "Escribir un guión radiofónico sobre biodiversidad."
+description: "Escritura de un guion radiofónico sobre biodiversidad y presentación a una estación de radio local."
+summary: "Escribir un guion radiofónico sobre biodiversidad."
 
 # ========== AUTORÍA Y FUENTES ==========
 author:
@@ -77,15 +77,15 @@ references:
     author: "FAO, CBD, AMGS, YUNGA"
     year: 2011
     series: "Serie de Insignias de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i1885e"
+    url: "https://www.fao.org/3/i1885s/i1885s.pdf"
 
 # ========== LICENCIA ==========
 license:
-  name: "© FAO – Todos los derechos reservados"
+  name: "© FAO, AMGS y CBD 2011 – Todos los derechos reservados"
   url: "https://www.fao.org/contact-us/terms/en/"
   image: ""
-  note: "Titular de los derechos: FAO. Esta adaptación no fue creada por la FAO, que no respalda ninguna organización, producto o servicio."
-  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO como fuente y titular."
+  note: "Titulares de los derechos: FAO, AMGS y CBD. Esta adaptación no fue creada por ellos; no respaldan ninguna organización, producto o servicio."
+  allowed: "Copiar, imprimir y usar el material original con fines no comerciales, citando a la FAO, la AMGS y el CBD como fuente y titulares."
   pending: "Traducir, adaptar y publicar esta versión: autorización solicitada a la FAO el 26/10/2026, en espera de respuesta."
   status: "permiso-pendiente"
 
@@ -159,26 +159,26 @@ rama_rovers:
   - 17  # Me responsabilizo por mi desarrollo personal
 ---
 
-# ¡Guión Radiofónico!
+# ¡Guion Radiofónico!
 
 ## Resumen
-Escribí un guión radiofónico sobre un aspecto de la biodiversidad que sea importante en tu comunidad. Alentá a tu estación de radio local a grabarlo y transmitirlo. ¡Podés ofrecer tu participación y la de tus amigos para que sean los actores de voz!
+Escribí un guion radiofónico sobre un aspecto de la biodiversidad que sea importante en tu comunidad. Alentá a tu estación de radio local a grabarlo y transmitirlo. ¡Podés ofrecer tu participación y la de tus amigos para que sean los actores de voz!
 
 ## Preparación
 1. Investigá sobre un tema de biodiversidad local.
-2. Prepará material para el guión.
+2. Prepará material para el guion.
 3. Organizá los grupos de trabajo.
 
 ## Desarrollo
 1. Elegí un aspecto de la biodiversidad local.
-2. Escribí un guión radiofónico.
+2. Escribí un guion radiofónico.
 3. Alentá a la estación de radio local a transmitirlo.
 4. Ofrecé tu participación como actor de voz.
 
 ## Cierre
-1. Compartí tu guión con el grupo.
+1. Compartí tu guion con el grupo.
 2. Reflexioná: ¿Cómo puede la radio ayudar a concienciar sobre la biodiversidad?
-3. Pregunta final: ¿Qué mensaje esperas transmitir con tu guión?
+3. Pregunta final: ¿Qué mensaje esperas transmitir con tu guion?
 
 ## Texto original completo de la actividad
 D.20 Escribe un guión radiofónico sobre un aspecto de la biodiversidad que sea importante en tu comunidad. Alienta a tu estación de radio local a grabarlo y transmitirlo. ¡Puedes ofrecer tu participación y la de tus amigos para que sean los actores de voz!
