@@ -63,7 +63,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -157,7 +157,10 @@ rama_rovers:
 Leé un libro donde el suelo tenga un rol importante y reflexioná sobre su significado.
 
 ## Preparación
-1. Elegí un libro donde el suelo participe (ej. Jack y los Frijoles Mágicos).
+1. Elegí un libro donde el suelo participe. El original sugiere *Jack y los Frijoles Mágicos*, *James y el Durazno Gigante*, *La Colina de Watership*, *Run to Earth*, *La Gran Fuga* o *Las Uvas de la Ira*.
+
+> **Opción:** también sirven cuentos y novelas de autores de tu país o región donde la tierra, el campo o la huerta tengan un papel importante.
+
 2. Leé el libro.
 3. Prepará materiales para escribir.
 

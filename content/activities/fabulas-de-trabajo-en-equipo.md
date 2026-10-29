@@ -59,7 +59,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -148,7 +148,7 @@ rama_rovers: []
 Creá una historia colaborativa sobre cómo se forma el suelo, incorporando los factores que contribuyen a su creación.
 
 ## Preparación
-- Aprendé sobre los factores que forman el suelo.
+- Aprendé sobre los factores que forman el suelo: el clima, la roca o material de origen, el relieve, los seres vivos y el tiempo.
 - Siéntate en círculo con tu grupo.
 
 ## Desarrollo

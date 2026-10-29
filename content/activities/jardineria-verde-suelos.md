@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -157,7 +157,7 @@ rama_rovers:
 Prepará un recipiente de compost para mejorar el suelo de tu jardín, escuela o parque local.
 
 ## Preparación
-1. Investigá cómo hacer compost.
+1. Investigá cómo hacer compost. En español, por ejemplo, el [Manual de compostaje](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/publicaciones/manual_compostaje_tcm30-185063.pdf) (Ministerio de Medio Ambiente de España), o las guías de tu municipio o del organismo agropecuario de tu país (en Argentina, por ejemplo, el INTA y su programa ProHuerta).
 2. Conseguí un recipiente y materiales orgánicos.
 3. Prepará el área de trabajo.
 

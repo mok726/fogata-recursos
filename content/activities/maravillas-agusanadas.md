@@ -67,7 +67,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -165,6 +165,8 @@ Creá una lombricera para observar cómo las lombrices se mueven a través del s
 2. **Introducción** (5 min): Agregá las lombrices.
 3. **Observación** (2-3 días): Observá cómo se mueven entre las capas.
 4. **Discusión** (20 min): ¿Cómo usan las lombrices el suelo? ¿Cómo lo mantienen saludable?
+
+> **Nota para el educador:** mantengan la lombricera tapada de la luz (con papel oscuro) y la tierra húmeda. Al terminar, devuelvan las lombrices al lugar donde las encontraron.
 
 ## Cierre
 - ¿Qué hicieron las lombrices en el suelo?

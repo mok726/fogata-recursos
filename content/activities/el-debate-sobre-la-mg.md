@@ -59,7 +59,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -146,6 +146,9 @@ Investigá y debate sobre la modificación genética en la agricultura y su impa
 
 ## Preparación
 1. Investigá sobre la modificación genética en la agricultura.
+
+> **Nota para el educador:** es un tema con posiciones fuertes. Busquen fuentes de ambos lados (por ejemplo, FAO y OMS, y organizaciones críticas) y distingan datos de opiniones.
+
 2. Prepará argumentos para el debate.
 3. Reuní materiales para el reportaje.
 

@@ -63,7 +63,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -155,6 +155,8 @@ Identificá la basura en tu ciudad y organizá una recolección para proteger el
 ## Preparación
 1. Observá la basura en tu área.
 2. Reuní guantes y bolsas.
+
+> **Nota de seguridad:** no levanten con la mano vidrios rotos, jeringas, agujas ni objetos punzantes: avisen a un adulto, que los retira con pinza o guante grueso y los descarta en un recipiente rígido. Lávense bien las manos al terminar.
 3. Organizá un día de recolección.
 
 ## Desarrollo

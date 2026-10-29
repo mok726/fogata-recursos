@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -148,7 +148,7 @@ rama_rovers:
 Investigá organizaciones que trabajan en la conservación del suelo y encontrá formas de involucrarte.
 
 ## Preparación
-1. Investigá sobre organizaciones de conservación del suelo.
+1. Investigá sobre organizaciones de conservación del suelo. Por ejemplo, la [Alianza Mundial por el Suelo](https://www.fao.org/global-soil-partnership/es/) (FAO) o la asociación de ciencia del suelo de tu país (en Argentina, la Asociación Argentina de la Ciencia del Suelo).
 2. Identificá proyectos y actividades.
 3. Buscá oportunidades para jóvenes.
 

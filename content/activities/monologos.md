@@ -60,7 +60,7 @@ references:
     author: "FAO"
     year: 2017
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i3855e"
+    url: "https://www.fao.org/3/a-i3855s.pdf"
 
 license:
   name: "© FAO – Todos los derechos reservados"
@@ -148,7 +148,7 @@ rama_rovers:
 Debatí sobre el monocultivo representando diferentes perspectivas.
 
 ## Preparación
-1. Divídanse en dos grupos: a favor y en contra del monocultivo.
+1. Divídanse en dos grupos: uno de agricultores y corporaciones que apoyan el monocultivo, y otro de agricultores y otros grupos que lo consideran dañino para la sociedad y el ambiente.
 2. Investiguen sobre el tema.
 3. Preparen argumentos.
 
