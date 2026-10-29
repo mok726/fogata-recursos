@@ -59,3 +59,7 @@ Nota de conteo: hay 40 actividades con código `ciudadesverdes-*`. `no-desperdic
 
 - Cuadernillo FAO completo (en): https://doi.org/10.4060/cd6459en, como `references` y para resolver los "capítulo anterior".
 - No encontré edición oficial en español de esta insignia.
+
+## Estado (2026-10-29)
+
+Aplicado con OK de Mariano (notas, sin contradecir a FAO): instrucciones recuperadas del original (compost, sol, neem en el jardín; títulos de las películas; pregunta de cierre de la limpieza); "capítulo anterior" con enlace al cuadernillo y opciones; tablas modelo (verificación A01, seguimiento B02 y C04); jurado y fichas en el debate; seguridad (bici, limpieza, recorrido por la ciudad); avisos de enlaces rotos del original; sigla EDS explicada.

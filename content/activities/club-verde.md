@@ -180,6 +180,8 @@ Sabemos que los autos son un gran culpable de las emisiones de gases de efecto i
 3. Planificá cuándo y dónde se reunirán, cuántos días a la semana.
 4. Establecé un sistema de comunicación (WhatsApp, email).
 5. Empiecen a caminar o andar en bicicleta juntos.
+
+> **Nota de seguridad:** en bicicleta, casco siempre. Con los más chicos (castores y manada), recorridos cortos por calles tranquilas o ciclovías, chalecos reflectantes y adultos adelante y atrás del grupo.
 6. Establecé metas geniales (ej. dar la vuelta al mundo en distancia acumulada).
 
 ## Cierre

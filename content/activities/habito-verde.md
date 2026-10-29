@@ -171,6 +171,8 @@ Mirá la lista de consejos y sugerencias para estilos de vida verdes mencionados
 
 ## Preparación
 1. Revisá la lista de hábitos sostenibles.
+
+> **Nota para el educador:** la lista "del capítulo anterior" está en el cuadernillo de FAO de la insignia (https://doi.org/10.4060/cd6459en). Si no lo tienen, algunas opciones: ir caminando o en bici a la escuela; llevar botella y bolsa reutilizables; comprar menos productos envasados; apagar luces y aparatos que no se usan; bañarse en menos tiempo; separar los residuos; no desperdiciar comida; comer más frutas y verduras de estación.
 2. Elegí uno para comprometerte.
 3. Prepará un diario de seguimiento.
 

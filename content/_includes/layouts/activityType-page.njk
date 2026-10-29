@@ -1,63 +1,13 @@
 ---
 layout: layouts/base.njk
-
 styles:
-
-
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-
-
-<div class="taxonomy-page">
-{% set activityCount = 0 %}
-
-{% for activity in collections.activitiesSorted %}
-
-  {% if activity.data.activity_type or activity.data.main_type %}
-
-    {% if activityType.name in (activity.data.activity_type or []) or activity.data.main_type == activityType.name %}
-      {% set activityCount = activityCount + 1 %}
-    {% endif %}
-
-  {% endif %}
-
-{% endfor %}
-
-<section class="page-header">
-
-  <div>
-
-    <h1>
-      {{ activityType.name }}
-    </h1>
-
-    <p>
-      {{ activityCount }} actividades relacionadas.
-    </p>
-
-  </div>
-
-</section>
-
-<div class="grid">
-
-  {% for activity in collections.activitiesSorted %}
-
-    {% if activity.data.activity_type or activity.data.main_type %}
-
-      {% if activityType.name in (activity.data.activity_type or []) or activity.data.main_type == activityType.name %}
-
-        {% set item = activity.data %}
-        {% set activityUrl = activity.url %}
-
-        {% include "components/activity-card.njk" %}
-
-      {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-</div>
-
-</div>
+{% set heroKicker = "Tipo de actividad" %}
+{% set heroTitle = activityType.name %}
+{% set heroText = activityType.description or "" %}
+{% set browserItems = collections.activitiesSorted | activitiesFor("type", activityType.name) %}
+{% set fixed = { filter: "tipo", text: activityType.name } %}
+{% include "components/browse-page.njk" %}

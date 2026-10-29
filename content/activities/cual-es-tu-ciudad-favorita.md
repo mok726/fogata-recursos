@@ -171,6 +171,8 @@ Hemos aprendido sobre muchas ciudades diferentes en el capítulo anterior. ¿Cu�
 
 ## Preparación
 1. Elegí una ciudad para investigar.
+
+> **Nota para el educador:** el original habla de las ciudades "del capítulo anterior": se refiere al cuadernillo de FAO de la insignia (https://doi.org/10.4060/cd6459en). Si no lo tienen a mano, pueden elegir cualquier ciudad que se reconozca por sus políticas verdes, por ejemplo Copenhague, Friburgo, Curitiba, Vancouver, Singapur o Medellín, o una ciudad de su propio país.
 2. Prepará materiales para tu presentación.
 3. Organizá los grupos de trabajo.
 
@@ -180,7 +182,7 @@ Hemos aprendido sobre muchas ciudades diferentes en el capítulo anterior. ¿Cu�
 3. Investigá sobre su medio ambiente y estilos de construcción.
 4. Prepará una presentación sistemática frente a tus compañeros.
 5. Reflexioná: ¿Creés que es una ciudad verde o no?
-6. Para participantes mayores: Propón 5 ideas para que tu ciudad elegida sea más verde.
+6. Para participantes mayores: proponé 5 ideas para que tu ciudad elegida sea más verde.
 
 ## Cierre
 1. Compartí tu presentación con el grupo.

@@ -1,77 +1,14 @@
 ---
 layout: layouts/base.njk
 styles:
-  - /css/pages/ages.css
-
-
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-
-{% set activityCount = 0 %}
-
-{% for activity in collections.activitiesSorted %}
-
-  {% if activity.data.age_group %}
-
-    {% for item in activity.data.age_group %}
-
-      {% set ageInfo = item | normalizeAge(ageGroups) %}
-
-      {% if ageInfo.id == age.id %}
-        {% set activityCount = activityCount + 1 %}
-      {% endif %}
-
-    {% endfor %}
-
-  {% endif %}
-
-{% endfor %}
-
-<section class="page-header age-page-header">
-
-  <img
-    src="{{ ('/imagenes/ramas/' + age.icon) | thumb("rama") | url }}"
-    alt="{{ age.name }}">
-
-  <div>
-
-    <h1>
-      {{ age.name }}
-    </h1>
-
-    <p>
-      {{ activityCount }} actividades disponibles para esta rama.
-    </p>
-
-  </div>
-
-</section>
-
-<div class="grid">
-
-  {% for activity in collections.activitiesSorted %}
-
-    {% if activity.data.age_group %}
-
-      {% for item in activity.data.age_group %}
-
-        {% set ageInfo = item | normalizeAge(ageGroups) %}
-
-        {% if ageInfo.id == age.id %}
-
-          {% set item = activity.data %}
-          {% set activityUrl = activity.url %}
-
-          {% include "components/activity-card.njk" %}
-
-        {% endif %}
-
-      {% endfor %}
-
-    {% endif %}
-
-  {% endfor %}
-
-</div>
-
-
+{% set heroKicker = "Rama" %}
+{% set heroTitle = age.name %}
+{% set heroText = "De " + age.agefrom + " a " + age.ageto + " años." if age.agefrom else "" %}
+{% set heroImage = ('/imagenes/ramas/' + age.icon) | thumb("rama") if age.icon else "" %}
+{% set browserItems = collections.activitiesSorted | activitiesFor("age", age.id, ageGroups) %}
+{% set fixed = { filter: "rama", text: age.name } %}
+{% include "components/browse-page.njk" %}

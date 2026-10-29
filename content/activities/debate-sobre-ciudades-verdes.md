@@ -176,6 +176,8 @@ Todos sabemos que la urbanización tiene pros y contras. Por un lado, tiene efec
 3. Los oradores se levantan para ofrecer puntos a favor o en contra.
 4. El equipo ganador se decide por la calidad del debate.
 
+> **Nota para el educador:** el original no dice quién decide. Una opción es un jurado de 3 personas (adultos o jóvenes que no debaten) que puntúa de 1 a 5: argumentos, uso de datos, respuesta a la otra parte y respeto. Para preparar las fichas de argumentos, cada equipo puede anotar en tarjetas un argumento por tarjeta, con un dato o ejemplo que lo respalde.
+
 ## Cierre
 1. Reflexioná sobre el debate.
 2. Compartí lo aprendido.

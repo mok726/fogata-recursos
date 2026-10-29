@@ -1,60 +1,13 @@
 ---
 layout: layouts/base.njk
-
-
 styles:
+  - /css/pages/activities.css
+fonts:
+  - https://fonts.googleapis.com/css2?family=Rubik+Dirt&family=Roboto+Slab:wght@600;800&display=swap
 ---
-
-<div class="taxonomy-page">
-{% set activityCount = 0 %}
-
-{% for activity in collections.activitiesSorted %}
-
-  {% if activity.data.skills %}
-
-    {% if skill.name in activity.data.skills %}
-      {% set activityCount = activityCount + 1 %}
-    {% endif %}
-
-  {% endif %}
-
-{% endfor %}
-
-<section class="page-header">
-
-  <div>
-
-    <h1>
-      {{ skill.name }}
-    </h1>
-
-    <p>
-      {{ activityCount }} actividades relacionadas.
-    </p>
-
-  </div>
-
-</section>
-
-<div class="grid">
-
-  {% for activity in collections.activitiesSorted %}
-
-    {% if activity.data.skills %}
-
-      {% if skill.name in activity.data.skills %}
-
-        {% set item = activity.data %}
-        {% set activityUrl = activity.url %}
-
-        {% include "components/activity-card.njk" %}
-
-      {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-</div>
-
-</div>
+{% set heroKicker = "Competencia" %}
+{% set heroTitle = skill.name %}
+{% set heroText = skill.description or "" %}
+{% set browserItems = collections.activitiesSorted | activitiesFor("skill", skill.name) %}
+{% set fixed = { filter: "otro", label: "Competencia", text: skill.name } %}
+{% include "components/browse-page.njk" %}

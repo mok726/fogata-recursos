@@ -595,6 +595,14 @@
     rgba(0,0,0,.22) 60%,
     rgba(0,0,0,0) 100%
   );
+  /* El overlay deja pasar el click a la imagen (enlace a la
+     actividad); sus propios enlaces e indicadores lo recuperan. */
+  pointer-events: none;
+}
+
+.activity-card-overlay a,
+.activity-card-overlay [title] {
+  pointer-events: auto;
 }
 
 .activity-card-overlay-top {

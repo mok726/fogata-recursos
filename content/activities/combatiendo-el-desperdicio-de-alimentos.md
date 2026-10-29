@@ -181,6 +181,18 @@ Ya sabés que un tercio (1.300 millones de toneladas) de los alimentos producido
 2. Organizá el seguimiento diario.
 3. Prepará ideas para acciones de reducción.
 
+### Tabla de seguimiento (modelo)
+
+| Día | Comidas del día | Qué se desperdició | Cantidad aproximada | Por qué |
+|---|---|---|---|---|
+| Lunes | | | | |
+| Martes | | | | |
+| Miércoles | | | | |
+| Jueves | | | | |
+| Viernes | | | | |
+| Sábado | | | | |
+| Domingo | | | | |
+
 ## Desarrollo
 1. Durante una semana, registrá tu dieta típica y la cantidad de alimentos que desperdiciás.
 2. Al final de la semana, revisá tus notas y comparalas con otros miembros del grupo.

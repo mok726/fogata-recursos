@@ -1106,6 +1106,63 @@ else {
 
 
 
+  // Rango de edad de "age" ("7-17 años", "15 años o más") como
+  // "min max" para el filtro "Edad". Sin dato: "".
+  eleventyConfig.addFilter(
+    "ageSpan",
+    function(age) {
+
+      const nums = String(age || "").match(/\d+/g);
+
+      if (!nums) {
+        return "";
+      }
+
+      const min = parseInt(nums[0], 10);
+      const max = nums.length > 1 ? parseInt(nums[1], 10) : 99;
+
+      return min + " " + max;
+
+    }
+  );
+
+  // Actividades de una página de detalle (ODS, rama, competencia,
+  // valor, método, tipo). Mismo criterio que usaban esas páginas.
+  eleventyConfig.addFilter(
+    "activitiesFor",
+    function(activities, kind, value, ageGroups) {
+
+      const has = (list, v) => (list || []).includes(v);
+
+      return activities.filter(a => {
+
+        const d = a.data;
+
+        switch (kind) {
+          case "sdg":
+            return has(d.sdgs, value) || has((d.sdgs || []).map(String), String(value));
+          case "age":
+            return (d.age_group || []).some(g =>
+              eleventyConfig.getFilter("normalizeAge")(g, ageGroups)?.id === value);
+          case "skill":
+            return has(d.skills, value);
+          case "value":
+            return has(d.scout_values, value);
+          case "method":
+            return has(d.scout_method, value);
+          case "type":
+            return has(d.activity_type, value) || d.main_type === value;
+          default:
+            return false;
+        }
+
+      });
+
+    }
+  );
+
+
+
   return {
 
     pathPrefix:

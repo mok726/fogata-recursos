@@ -163,7 +163,7 @@ rama_rovers:
 # ¡Día 'Compartí una Habilidad Verde'!
 
 ## Resumen
-¿Qué habilidades verdes tenés? ¿Qué habilidades verdes te gustaría aprender? Una forma de promover la EDS en tu ciudad es organizar un día de "Compartí una habilidad verde". Establecé una fecha y hora específicas para el día especial, eligiendo un lugar adecuado.
+¿Qué habilidades verdes tenés? ¿Qué habilidades verdes te gustaría aprender? Una forma de promover la EDS (Educación para el Desarrollo Sostenible) en tu ciudad es organizar un día de "Compartí una habilidad verde". Establecé una fecha y hora específicas para el día especial, eligiendo un lugar adecuado.
 
 ## Preparación
 1. Establecé una fecha y lugar para el evento.

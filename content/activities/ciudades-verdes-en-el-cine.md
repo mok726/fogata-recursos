@@ -173,7 +173,11 @@ rama_rovers:
 ¿Cómo se ve una ciudad verde? ¡Intentá encontrar la respuesta en el cine! Organizá una proyección grupal. Después de verla, discutí la película: ¿Cómo la describirías? ¿Cómo se convirtió en una ciudad verde?
 
 ## Preparación
-1. Elegí una película o documental sobre ciudades verdes.
+1. Elegí una película o documental sobre ciudades verdes. Sugerencias del original (en inglés):
+   - *The Urban Green*, de WWF: explora ideas, tecnologías e iniciativas innovadoras de ciudades actuales.
+   - *Smart Cities – Building for the Cities of Tomorrow*: documental sobre los desafíos y oportunidades de las ciudades.
+
+> **Nota para el educador:** el enlace del segundo video viene incompleto en el original de FAO y no funciona; búsquenlo por su título. Si prefieren material en español, busquen documentales sobre ciudades sostenibles en el canal de su ministerio de ambiente o de organismos como ONU-Hábitat.
 2. Organizá la proyección.
 3. Prepará preguntas para la discusión.
 
