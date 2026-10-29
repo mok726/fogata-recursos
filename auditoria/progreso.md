@@ -27,3 +27,5 @@
 **Pendientes para más adelante (2026-10-29)**, sin fecha:
 - Re-embeber completos los originales en inglés de agua (códigos ≥ 31), que hoy están resumidos. Baja prioridad: lo importante es que la actividad esté bien y la fuente se pueda encontrar (ya apunta al PDF).
 - Link-check (G17), edad 16 para jabón y ayuno, piloto B-P, permiso de WeatherWizKids, regeneración de imágenes, material auxiliar faltante.
+
+**Niveles en gris (2026-10-29)**: revisados por color de los círculos de nivel (pdfplumber) en Suelos (49), Hambre (49), Océano (53) y Nutrición (77). Solo había un error: océano B07 (delicias-del-mar), que es 1 2 3 y figuraba 2 3. Corregido.
