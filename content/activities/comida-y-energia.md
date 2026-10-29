@@ -170,6 +170,8 @@ Diferentes alimentos requieren diferentes cantidades de energía para producirse
 2. Elegí tu comida favorita para investigar.
 3. Prepará materiales para cocinar (opcional).
 
+> **Nota para el educador:** el dato de "25 veces más energía para la carne que para el maíz" no trae fuente en el original y varía mucho según cómo se produzca. Úsenlo como orden de magnitud, no como cifra exacta.
+
 ## Desarrollo
 
 ### Parte I - Investigación

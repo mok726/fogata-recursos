@@ -181,6 +181,8 @@ translation_notice:
 2. Reuní los materiales para el horno solar.
 3. Buscá un lugar soleado para cocinar.
 
+> **Nota de seguridad:** un horno solar casero no siempre llega a una temperatura segura para carnes, pollo o huevos crudos. Usenlo para calentar o cocinar alimentos que también se pueden comer crudos o ya cocidos (frutas, verduras, pan, fideos precocidos). Cuidado: el interior y la tapa se calientan mucho.
+
 ## Desarrollo
 
 ### Parte I - Construir

@@ -173,6 +173,10 @@ translation_notice:
 2. Reuní los materiales: bicarbonato, vinagre y un recipiente grande.
 3. Buscá una superficie fácil de limpiar.
 
+> **Nota para el educador:** la reacción del vinagre con el bicarbonato libera gas (CO₂) que empuja; es un buen ejemplo de transformación química, aunque la reacción en sí absorbe un poco de calor (el frasco se enfría).
+
+> **Nota de seguridad:** usen anteojos o mantengan distancia; si salpica vinagre a los ojos, lávenlos con abundante agua.
+
 ## Desarrollo
 
 ### Parte I - Preparar

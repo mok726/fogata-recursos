@@ -172,6 +172,8 @@ Como grupo, crea un cortometraje o sketch para educar a tu comunidad sobre cómo
 2. Escribí un guion o plan.
 3. Prepará disfraces y materiales.
 
+> **Nota para el educador:** si aparecen personas, y sobre todo chicos, pidan antes la autorización de imagen, según la política de tu organización scout nacional o de tu escuela.
+
 ## Desarrollo
 
 ### Parte I - Planificar

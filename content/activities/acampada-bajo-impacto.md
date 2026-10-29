@@ -169,6 +169,8 @@ Planificá una acampada con conciencia energética para tu grupo. Minimiza las e
 2. Planificá el viaje con bajo impacto.
 3. Prepará materiales.
 
+> **Nota para el educador:** conecten la actividad con los 7 principios de No Dejar Rastro: planificar, acampar en superficies durables, manejar bien los residuos, dejar lo que se encuentra, minimizar el impacto del fuego, respetar la fauna y ser considerados con otros visitantes.
+
 ## Desarrollo
 
 ### Parte I - Planificar

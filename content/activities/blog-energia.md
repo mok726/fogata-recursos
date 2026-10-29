@@ -168,6 +168,8 @@ Creá un blog grupal sobre energía. Podés escribir sobre la importancia de la 
 2. Asigná temas a cada miembro.
 3. Prepará materiales para escribir.
 
+> **Nota para el educador:** con menores, el blog lo administra un adulto responsable; no publiquen datos personales ni fotos de chicos sin autorización.
+
 ## Desarrollo
 
 ### Parte I - Planificar

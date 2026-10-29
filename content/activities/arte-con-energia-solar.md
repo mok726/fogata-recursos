@@ -171,6 +171,8 @@ Realizá un experimento solar simple para tener una idea de cuánta energía con
 2. Buscá un lugar soleado.
 3. Prepará papel y objetos para hacer sombras.
 
+> **Opción:** para ver "cuánta energía" tiene la luz, hagan una **cianotipia** (papel fotosensible que se revela al sol) o dejen papel de color al sol con objetos encima y comparen cuánto se decoloró. Así no hace falta usar lupa.
+
 ## Desarrollo
 
 ### Parte I - Preparar

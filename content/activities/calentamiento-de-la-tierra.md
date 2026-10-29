@@ -175,6 +175,8 @@ Algunas partes de la Tierra se calientan más rápido que otras debido a diferen
 2. Reuní los materiales: 3 recipientes, tierra, arena, agua y 3 termómetros.
 3. Buscá un lugar soleado o una lámpara fuerte.
 
+> **Nota de seguridad:** la lámpara se calienta mucho: no la toquen ni la acerquen a papel o tela.
+
 ## Desarrollo
 
 ### Parte I - Preparar

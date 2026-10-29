@@ -172,6 +172,8 @@ Esta demostración te mostrará la diferencia entre energía potencial y energí
 2. Conseguí un carrito de juguete pequeño (o una bola).
 3. Asegurá la rampa para que no se mueva.
 
+> **Nota para el educador:** la energía guardada en el combustible de un auto es energía **química**; se transforma en movimiento al quemarse en el motor.
+
 ## Desarrollo
 
 ### Parte I - Energía potencial

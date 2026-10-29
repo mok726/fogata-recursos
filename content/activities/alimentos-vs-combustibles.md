@@ -170,6 +170,8 @@ Los biocombustibles son controvertidos. Algunas personas creen que usar cultivos
 2. Investigá el debate "alimentos vs combustibles".
 3. Prepará argumentos para ambos lados.
 
+> **Opción:** averigüen si tu país obliga a mezclar biocombustibles en la nafta y el gasoil; en Argentina, por ejemplo, el corte obligatorio de bioetanol y biodiésel.
+
 ## Desarrollo
 
 ### Parte I - Investigación

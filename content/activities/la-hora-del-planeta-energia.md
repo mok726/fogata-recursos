@@ -172,6 +172,8 @@ La Hora del Planeta es un evento global de concientización sobre el cambio clim
 2. Investigá si ya hay un evento de La Hora del Planeta en tu comunidad.
 3. Prepará actividades para hacer sin electricidad.
 
+> **Nota de seguridad:** en la Hora del Planeta, prefieran linternas o luces a pilas. Si usan velas, siempre con supervisión adulta, sobre base firme y lejos de cortinas, papeles y pelo suelto.
+
 ## Desarrollo
 
 ### Parte I - Planificar

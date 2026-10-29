@@ -166,7 +166,7 @@ translation_notice:
 # ¡Energía Creativa!
 
 ## Resumen
-Dejá volar tu imaginación y escribí una historia corta sobre una forma innovadora de generar electricidad. Por ejemplo, una bicicleta que genera energía para un reproductor de música y una bombilla. Luego dibuja o construí un modelo de tu idea.
+Dejá volar tu imaginación y escribí una historia corta sobre una forma innovadora de generar electricidad. Por ejemplo, una bicicleta que genera energía para un reproductor de música y una lamparita. Luego dibuja o construí un modelo de tu idea.
 
 ## Preparación
 1. Leé la información sobre generación de energía.
@@ -178,7 +178,7 @@ Dejá volar tu imaginación y escribí una historia corta sobre una forma innova
 ### Parte I - Inspiración
 Mirá ejemplos de innovaciones energéticas:
 
-**Ejemplo:** Bicicleta de energía que genera electricidad para un reproductor de música y una bombilla.
+**Ejemplo:** Bicicleta de energía que genera electricidad para un reproductor de música y una lamparita.
 
 **Más información:** https://www.globalactionplan.org.uk/energy-bike
 
