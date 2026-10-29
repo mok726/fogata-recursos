@@ -175,6 +175,23 @@ rama_rovers:
 2. Prepará una tabla de verificación para registrar observaciones.
 3. Organizá los grupos y asigná roles.
 
+> **Nota para el educador:** con los más chicos, definí cuántos adultos acompañan a cada grupo según las normas de tu organización scout nacional, un punto de encuentro y un horario de regreso. Cada grupo lleva un teléfono de contacto.
+
+### Tabla de verificación (modelo)
+
+| Categoría | Pregunta | Sí / No / A medias | Observaciones |
+|---|---|---|---|
+| Servicios sociales | ¿Hay suficientes contenedores de basura y reciclaje? | | |
+| Servicios sociales | ¿Tu escuela trabaja el tema de las ciudades verdes? | | |
+| Alimentación y salud | ¿Hay programas de intercambio de alimentos? | | |
+| Alimentación y salud | ¿Es fácil para los productores locales vender en ferias? | | |
+| Medio ambiente | ¿Hay espacios verdes a menos de 15 minutos de tu casa? | | |
+| Medio ambiente | ¿Hay techos verdes o edificios ecológicos? | | |
+| Seguridad y resiliencia | ¿Son comunes las inundaciones? | | |
+| Seguridad y resiliencia | ¿Te sentís seguro caminando por la zona? | | |
+| Transporte | ¿Es fácil caminar o andar en bicicleta? | | |
+| Transporte | ¿El transporte público es accesible? | | |
+
 ## Desarrollo
 1. Recorré distintos puntos de la ciudad.
 2. Registrá tus observaciones en los siguientes temas:
@@ -187,7 +204,7 @@ rama_rovers:
 
 ## Cierre
 1. Reflexioná: ¿Qué aspectos son verdes y cuáles necesitan mejorar?
-2. Para participantes de Nivel 2 y 3: Crea una presentación de tus hallazgos y compártela con las autoridades urbanas locales.
+2. Para participantes de Nivel 2 y 3: Creá una presentación de tus hallazgos y compartila con las autoridades urbanas locales.
 3. Pregunta final: ¿Qué descubrimiento te sorprendió más de tu ciudad?
 
 ## Texto original completo de la actividad

@@ -166,7 +166,7 @@ rama_rovers:
 # ¡Diseñá Tu Propia Iniciativa de EDS al Aire Libre!
 
 ## Resumen
-¿Cómo se podría mejorar la EDS en tu ciudad? ¡Ahora es el momento de averiguarlo! Las actividades de EDS que se realizan al aire libre son una excelente manera de conectar con la naturaleza y aprender más sobre el mundo en el que vivimos.
+¿Cómo se podría mejorar la EDS (Educación para el Desarrollo Sostenible) en tu ciudad? ¡Ahora es el momento de averiguarlo! Las actividades de EDS que se realizan al aire libre son una excelente manera de conectar con la naturaleza y aprender más sobre el mundo en el que vivimos.
 
 ## Preparación
 1. Investigá qué oportunidades de EDS existen al aire libre en tu área.

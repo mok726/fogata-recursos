@@ -186,6 +186,8 @@ Evaluá qué tan verde es tu escuela. ¿Cuál es la huella de carbono de tu escu
 5. Creá infografías y presentaciones con tus hallazgos.
 6. Incluí sugerencias concretas para mejorar.
 
+> **Nota para el educador:** el enlace a greenschools.net viene mal escrito en el original de FAO y probablemente no funcione. La calculadora de huella de 8billiontrees es de un sitio que vende compensaciones de carbono: tomala como herramienta, no como recomendación.
+
 ## Cierre
 1. Compartí tus hallazgos con las autoridades escolares.
 2. Reflexioná sobre los cambios posibles.

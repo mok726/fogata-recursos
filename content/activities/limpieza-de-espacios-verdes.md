@@ -174,13 +174,15 @@ Elegí un parque, patio de juegos u otro espacio verde que tenga un problema de 
 ## Desarrollo
 1. Reuní a los voluntarios.
 2. Distribuí bolsas de basura y guantes.
+
+> **Nota de seguridad:** los vidrios rotos, las jeringas y los objetos punzantes no se tocan: se avisa a un adulto, que los junta con pinza y guantes gruesos. Al terminar, todos se lavan las manos.
 3. Realizá la limpieza del espacio.
 4. Registrá cuánta basura se recolectó.
 
 ## Cierre
 1. Reflexioná sobre la experiencia.
 2. Discutí cómo mantener el espacio limpio.
-3. Pregunta final: ¿Cómo te sentiste después de limpiar el espacio?
+3. Pregunta final: ¿Cómo te sentiste después de limpiar el espacio? ¿Se siente mejor estar en un espacio verde limpio?
 
 ## Texto original completo de la actividad
 

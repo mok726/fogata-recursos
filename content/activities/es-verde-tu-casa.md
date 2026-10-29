@@ -173,6 +173,15 @@ Evaluá qué tan verde es tu casa. ¿Tu familia compra cosas innecesarias? ¿Usa
 2. Creá una tabla para registrar los hallazgos.
 3. Organizá los grupos de trabajo.
 
+### Tabla de seguimiento (modelo)
+
+| Cambio acordado | Quién se ocupa | Semana 1 | Semana 2 | Semana 3 |
+|---|---|---|---|---|
+| Ejemplo: llevar bolsas reutilizables a las compras | | ☐ | ☐ | ☐ |
+| | | ☐ | ☐ | ☐ |
+| | | ☐ | ☐ | ☐ |
+| | | ☐ | ☐ | ☐ |
+
 ## Desarrollo
 1. Hacé una lista de todas las cosas que se te ocurran.
 2. Compartí los resultados con tu familia.
