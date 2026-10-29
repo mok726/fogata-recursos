@@ -71,4 +71,5 @@ Aplicado (ya estaban de PRs anteriores: licencia, A05, B03, P03, C04):
 - Léxico: bolígrafo → lapicera, "Corporación Municipal" → municipio, botarla → tirarla. "Pajilla/popote" solo estaba en el texto original.
 - B05: sacado "(8 millones de vistas)". A04: `location` Interior.
 - Notas agregadas: A01, A02, A04, A08, B02, B03, B07, B08, C01, C03, C06, P08 (más un tutorial en español), P11, P12, P14, P15.
-- Pendientes: video de B05 vs. P02 (no se pudo verificar desde la red de la sesión); actividades faltantes del manual Tide Turners (esperan el permiso de OMMS); imágenes (en la lista de regeneración).
+- B05 y P02: el link de FAO no funcionaba y el de OMMS lleva a un video de Oceana; ambos apuntan ahora al de Oceana, con nota.
+- Pendientes: actividades faltantes del manual Tide Turners (esperan el permiso de OMMS); imágenes (en la lista de regeneración).
