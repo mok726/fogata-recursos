@@ -70,9 +70,6 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://blackstonestudios.net/post-8"
-    caption: "Bicicleta que genera energía"
-    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -81,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -172,6 +169,8 @@ Revisá la sección de ciencia y tecnología de tu periódico local durante las 
 1. Reuní periódicos o acceso a noticias en línea.
 2. Prepará una tabla para registrar los artículos.
 3. Organizá los grupos de trabajo.
+
+> **Nota para el educador:** el enlace del original sobre la bicicleta que genera energía (blackstonestudios.net) ya no existe. Busquen "bicicleta generadora" para ver ejemplos actuales.
 
 ## Desarrollo
 1. Buscá noticias sobre el clima y eficiencia energética.

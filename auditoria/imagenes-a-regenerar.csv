@@ -43,7 +43,7 @@ P1,cambioclimatico,D10,informacion-privilegiada,/imagenes/actividades/informacio
 P1,cambioclimatico,E04,tarjetas-de-felicitacion-recicladas-cambioclimatico,/imagenes/actividades/tarjetas-de-felicitacion-recicladas-cambioclimatico.jpg,"mala (medio blanqueada, bandera de EE. UU.)"
 P1,cambioclimatico,E06,compras-inteligentes,/imagenes/actividades/compras-inteligentes.jpg,mala (medio blanqueada)
 P1,cambioclimatico,E08,recicla-tu-propio-papel,/imagenes/actividades/recicla-tu-propio-papel.jpg,mala (medio blanqueada)
-P1,cambioclimatico,E09,haz-tu-propio-compost,/imagenes/actividades/haz-tu-propio-compost.jpg,mala (compost con latas y metal: enseña lo contrario)
+P1,cambioclimatico,E09,haz-tu-propio-compost,/imagenes/actividades/haz-tu-propio-compost.jpg,mala (compost con latas y metal: enseña lo contrario) [retirada 2026-10-29]
 P1,cambioclimatico,E22,invierte-en-soluciones,/imagenes/actividades/invierte-en-soluciones.jpg,mala (medio blanqueada)
 P1,ciudadesverdes,D02,celebra-el-dia-de-mi-ciudad,/imagenes/actividades/celebra-el-dia-de-mi-ciudad.jpg,"mala: texto ""My City Da"" sobre la imagen"
 P1,comunidad,M01,patitas-limpias,/imagenes/actividades/patitas-limpias.jpg,mala: pantera/oso gigante; no muestra limpieza (hay 9 variantes patitas-limpias_1..9 sin usar)
@@ -144,7 +144,7 @@ P2,cambioclimatico,D06,mantente-al-tanto-de-las-noticias,/imagenes/actividades/m
 P2,cambioclimatico,D08,manteniendose-frescos-o-calientes-en-el-pasado,/imagenes/actividades/manteniendose-frescos-o-calientes-en-el-pasado.jpg,floja (texto inventado)
 P2,cambioclimatico,D14,conoce-tu-consumo-de-electricidad,/imagenes/actividades/conoce-tu-consumo-de-electricidad.jpg,"floja (adultos, texto inventado)"
 P2,cambioclimatico,D15,opiniones-sobre-el-intercambio-de-emisiones,/imagenes/actividades/opiniones-sobre-el-intercambio-de-emisiones.jpg,floja (texto inventado)
-P2,cambioclimatico,D16,negociacion-por-el-clima,/imagenes/actividades/negociacion-por-el-clima.jpg,"floja (logo de la ONU y texto ""NEWALLING""; el uso del emblema de la ONU está restringido)"
+P2,cambioclimatico,D16,negociacion-por-el-clima,/imagenes/actividades/negociacion-por-el-clima.jpg,"floja (logo de la ONU y texto ""NEWALLING""; el uso del emblema de la ONU está restringido)" [retirada 2026-10-29]
 P2,cambioclimatico,E01,dia-de-accion-por-el-clima,/imagenes/actividades/dia-de-accion-por-el-clima.jpg,floja (texto inventado)
 P2,cambioclimatico,E02,concurso-por-el-clima,/imagenes/actividades/concurso-por-el-clima.jpg,floja (texto inventado)
 P2,cambioclimatico,E05,siembra-organico,/imagenes/actividades/siembra-organico.jpg,"floja (verdulería, no huerta)"

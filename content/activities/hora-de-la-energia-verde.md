@@ -4,7 +4,7 @@ title: "Hora de la Energía Verde"
 duration: "1.5 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/hora-de-la-energia-verde/"
-description: "Investigación sobre fuentes de energía renovable y cómo reducir el consumo de energía en el hogar."
+description: "Investigá una fuente de energía renovable y presentala."
 summary: "Investigar energía renovable y ahorro."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -78,7 +80,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -163,28 +165,25 @@ rama_rovers:
 # ¡Hora de la Energía Verde!
 
 ## Resumen
-La 'energía verde' es energía producida a partir de fuentes renovables como el sol, el viento, el agua y la biomasa.
+La energía verde se produce a partir de recursos renovables (agua, viento, sol, calor de la tierra, biomasa) y tiene menos impacto ambiental que quemar combustibles fósiles. Investigá una fuente renovable y presentala a tu grupo o clase.
 
 ## Preparación
-1. Investigá sobre fuentes de energía renovable.
-2. Prepará recursos y ejemplos.
-3. Organizá los grupos de trabajo.
+1. Elegí una fuente de energía renovable.
+2. Buscá información confiable sobre cómo funciona.
+3. Si querés, juntá materiales para un modelo a pequeña escala.
 
 ## Desarrollo
-1. Investigá: ¿Qué son las energías renovables?
-2. Investigá: ¿Qué tipos existen en tu país?
-3. Investigá: ¿Cómo se produce energía verde?
-4. Reflexioná: ¿Cómo podemos reducir el consumo de energía en el hogar?
-5. Prepará un plan de acción para tu hogar.
+1. **Investigación** (30 min): ¿Cómo funciona? ¿Dónde se usa? ¿Qué ventajas y límites tiene?
+2. **Preparación** (30 min): Armá la presentación. ¡Sé creativo! Podés preparar un modelo que reproduzca tu fuente de energía.
+3. **Presentación** (10 min): Presentala a tu clase o grupo.
 
 ## Cierre
-1. Compartí tu plan de acción con el grupo.
-2. Discutan: ¿Qué barreras existen para usar más energía verde?
-3. Pregunta final: ¿Qué podés hacer para promover la energía verde?
+- ¿Por qué se llama "renovable"?
+- ¿Qué fuentes renovables se usan en tu país?
 
 ## Texto original completo de la actividad
-D.11 HORA DE LA ENERGÍA VERDE. La 'energía verde' es energía producida a partir de fuentes renovables como el sol, el viento, el agua y la biomasa.
+D.11 HORA DE LA ENERGÍA VERDE. La ‘energía verde’ es producida a partir de recursos renovables como el agua, el viento, el Sol, el calor de la tierra y la biomasa. Este tipo de energía es llamada renovable debido a que se puede reponer en un periodo corto de tiempo. Eso significa que proviene de cosas que podemos usar una y otra vez. Tecnologías de producción de energía verde tienen menos impactos medio ambientales que el uso de fuentes de energía no renovables, como la quema de combustibles fósiles, los cuales liberan una gran cantidad de gases de efecto invernadero hacia la atmósfera de la Tierra. Investiga sobre una fuente de energía renovable y preséntala a tu clase o grupo. ¡Sé creativo! Puedes incluso preparar un modelo a pequeña escala que reproduzca tu fuente de energía renovable.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -77,7 +79,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +188,6 @@ Organizá una reunión con un oficial local del ministerio o de la agencia de me
 ## Texto original completo de la actividad
 D.10 Información privilegiada. Organiza una reunión con un oficial local del ministerio o de la agencia de medio ambiente de tu país. Pregúntale acerca del rol de tu país en las negociaciones del clima de las NN.UU. ¿Cuáles son las razones detrás de la posición de tu país y qué otros países están de acuerdo con este? ¿Qué más te pueden decir sobre el proceso de negociación? ¿Están considerando cómo los jóvenes se sienten en relación con el cambio climático y cómo serán afectados por este? Si no es así, podrías ayudarles al investigar y compartir las perspectivas de los jóvenes con ellos. (Asegúrate de preguntar a tantos jóvenes diferentes como sea posible, aunque no todos pensarán exactamente igual a ti). Usa tu imaginación y trata también de proponer algunas soluciones - hay muchas cosas que los jóvenes podrían ayudar/enseñar a los adultos cómo hacer.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

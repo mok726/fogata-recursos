@@ -23,10 +23,8 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "11-22 años"
 age_group:
-  - castores
-  - manada
   - scouts
   - caminantes
   - rovers
@@ -74,7 +72,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -180,6 +178,6 @@ Pasá unas pocas horas cada semana durante un par de meses ayudando a una organi
 ## Texto original completo de la actividad
 E.18 VOLUNTARIADO. Pasa unas pocas horas cada semana durante un par de meses ayudando a una organización local de conservación, sea para bosques, el océano, la biodiversidad o cualquier otra causa por la cual te intereses y que esté siendo afectada por el cambio climático.
 
-NIVELES: 1, 2, 3
+NIVELES: 2, 3
 
 ---

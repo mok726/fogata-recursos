@@ -23,8 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -77,7 +79,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +188,6 @@ Divídanse en pequeños grupos y hagan una pequeña obra de teatro sobre una com
 ## Texto original completo de la actividad
 C.09 OBRA DE TEATRO SOBRE EL AGUA. Dividanse en pequeños grupos y hagan una pequeña obra de teatro sobre una comunidad cuyos miembros dependen grandemente del agua para su subsistencia. Tal vez algunos de ustedes crían aves, mientras otros cultivan vegetales. Últimamente, su aldea ha estado enfrentando una escasez de agua debido al cambio climático. ¿Cómo está afectando esto sus vidas? ¿Cuáles son algunas de las soluciones? Dejen correr a su imaginación y luego inviten a su familia y a sus amigos para una presentación de la obra de cada grupo.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

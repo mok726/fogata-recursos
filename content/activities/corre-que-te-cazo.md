@@ -74,7 +74,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -165,6 +165,8 @@ Este juego es similar al 'corre que te alcanzo' tradicional. Escojan unos partic
 1. Prepará el espacio exterior.
 2. Explicá las reglas del juego.
 3. Designá a los "osos polares" y las "focas".
+
+> **Opción:** con castores y manada, jueguen una variante sin eliminados: el oso que no atrapa focas pasa a ser foca, así nadie queda afuera.
 
 ## Desarrollo
 1. Empiecen el juego sin zonas seguras para que escapen las focas.

@@ -23,12 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +183,6 @@ Como probablemente sabés, hoy en día tenemos autos que funcionan con electrici
 ## Texto original completo de la actividad
 D.04 VEHÍCULOS MARAVILLOSOS. Como probablemente sabes, hoy en día tenemos autos que funcionan con electricidad, los cuales son mucho mejores para nuestro medio ambiente. Imagina tu propio auto que no daña o protege al medio ambiente. ¿Con qué tipo de combustible funciona? ¿Dónde obtienes ese combustible? ¿Qué otras características especiales tiene tu auto? Haz un dibujo de este y comparte tus ideas con tu clase o grupo.
 
-NIVELES: 1, 2
+NIVELES: 1
 
 ---

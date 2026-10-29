@@ -15,7 +15,6 @@ source:
   - FAO - Insignia del Cambio Climático
 
 # ========== IMAGEN Y ESTADO ==========
-image: "/imagenes/actividades/haz-tu-propio-compost.jpg"
 original: false
 Origin: "Insignia del Cambio Climático - FAO"
 version: "0.99"
@@ -23,8 +22,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "11-22 años"
+age: "5-22 años"
 age_group:
+  - castores
+  - manada
   - scouts
   - caminantes
   - rovers
@@ -71,9 +72,9 @@ tags:
 
 # ========== ENLACES Y ARCHIVOS ==========
 link:
-  - url: "https://www2.epa.gov/recycle/composting-home"
-    caption: "Compost en el hogar - EPA"
-    icon: "link"
+  - url: "https://www.epa.gov/recycle/composting-home"
+    caption: "Compostaje en casa - EPA (en inglés)"
+    icon: "read_more"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -82,7 +83,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -191,6 +192,6 @@ Hacé compost - ¡una forma amigable con el medio ambiente de mantener saludable
 ## Texto original completo de la actividad
 E.09 HAZ TU PROPIO COMPOST. Haz compost -¡una forma amigable con el medio ambiente de mantener saludable a tu jardín! a. Cava un hoyo en una esquina de tu jardín o utiliza una caja o una tina grande y colócala en tu balcón. b. Fórrala con hierba seca o paja. c. Coloca dentro desechos biodegradables como restos de alimentos (asegúrate de que no tengan sal o azúcar en estos), cáscaras de vegetales, papel, hojas secas, etc. d. Cubre con una fina capa de tierra. e. Riégala una o dos veces a la semana para mantenerla húmeda. f. Cada 15 días más o menos mezcla el contenido del hoyo. Añade más desechos a medida que se generan. g. Después de 3 o 4 meses el abono de compost estará listo para ser usado.
 
-NIVELES: 2, 3
+NIVELES: 1, 2, 3
 
 ---

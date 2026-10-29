@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -79,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -186,6 +185,6 @@ rama_rovers:
 ## Texto original completo de la actividad
 C.06 Lugares favoritos. ¿Qué tipo de paisaje es tu favorito: ¿playas, montañas, desiertos o bosques? Haz una investigación sobre tu lugar favorito. ¿Ya está siendo afectado por el cambio climático? y, si es así, ¿cómo? ¿Y qué pasa con las plantas y los animales que viven ahí? Si vives en el tipo de paisaje que escogiste o cerca de este, visítalo y saca algunas fotografías o haz un dibujo. Junta tus notas y tus fotos y preséntalas a tu grupo o clase.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

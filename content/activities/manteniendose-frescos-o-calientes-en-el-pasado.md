@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -79,7 +78,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -185,6 +184,6 @@ Estudiá cómo las personas de alrededor del mundo solían mantenerse, ellos mis
 ## Texto original completo de la actividad
 D.08 MANTENIÉNDOSE FRESCOS O CALIENTES EN EL PASADO. Estudia cómo las personas de alrededor del mundo solían mantenerse, ellos mismos y sus hogares, frescos o calientes antes de que empezáramos a usar métodos que usan mucha energía. ¡Si investigas, te darás cuenta de que usaban unas formas muy ingeniosas! Puedes incluso realizar una entrevista a un miembro mayor de tu familia o a un amigo para que aprendas sobre cómo ellos se mantenían frescos o calientes en sus casas. ¿Qué podemos hacer en nuestras casas para replicar lo que se hacía en el pasado? ¿Qué crees que deberían hacer los gobiernos para asegurarse de que nuestras casas y otros edificios sean más eficientes energéticamente?
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

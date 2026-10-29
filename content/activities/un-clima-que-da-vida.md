@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +77,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,6 +183,6 @@ El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agu
 ## Texto original completo de la actividad
 A.08 UN CLIMA QUE DA VIDA. Tú ya sabes que el clima es un factor clave para mantener la vida en la Tierra. El clima de la Tierra nos ayuda a producir cultivos, contribuye al ciclo del agua y permite que las personas obtengan los recursos que necesitan para construir sus casas. Haz una entrevista a un miembro de tu familia, un amigo o un miembro de tu comunidad sobre cómo creen ellos que el clima de la Tierra contribuye a la salud y al bienestar de todas las formas de vida. ¡Puedes preparar algunos hechos sobre el tema para compartirlos con ellos! Comparte tus entrevistas con tu clase o grupo. ¿Las personas sabían realmente sobre la importancia del clima para nuestra vida?
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

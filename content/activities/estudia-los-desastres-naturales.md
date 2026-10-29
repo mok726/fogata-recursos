@@ -80,7 +80,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -171,6 +171,8 @@ Divídanse en grupos para estudiar diferentes desastres relacionados con el clim
 1. Investigá sobre desastres naturales recientes.
 2. Prepará recursos y fuentes de información.
 3. Organizá los grupos de trabajo.
+
+> **Nota para el educador:** consulten el sistema de gestión de riesgo de su país; en Argentina, por ejemplo, el SINAGIR.
 
 ## Desarrollo
 1. Elegí un desastre relacionado con el clima.

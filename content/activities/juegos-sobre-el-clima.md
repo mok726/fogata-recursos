@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -81,7 +80,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -173,6 +172,8 @@ Usá el glosario al final de esta insignia para jugar un juego de 'Pictionary de
 2. Formá dos o más equipos.
 3. Revisá las reglas del juego.
 
+> **Nota para el educador:** el glosario está al final de la insignia original (p. 146): [PDF de la insignia (FAO, en español)](https://www.fao.org/3/i5216s/i5216s.pdf).
+
 ## Desarrollo
 1. Dividan las palabras entre los equipos.
 2. Un jugador de cada equipo dibuja mientras su equipo adivina.
@@ -187,6 +188,6 @@ Usá el glosario al final de esta insignia para jugar un juego de 'Pictionary de
 ## Texto original completo de la actividad
 D.05 JUEGOS SOBRE EL CLIMA. Usa el glosario al final de esta insignia para jugar un juego de 'Pictionary de Cambio Climático'. Creen dos o más equipos y dividan las palabras entre los equipos. Si no saben las reglas, pueden encontrarlas en este sitio Web: www.group-games.com/ice-breakers/homemade-pictionary-game.html.
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---

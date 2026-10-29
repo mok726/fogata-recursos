@@ -23,12 +23,10 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-15 años"
+age: "5-10 años"
 age_group:
   - castores
   - manada
-  - scouts
-  - caminantes
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -82,7 +80,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -188,6 +186,6 @@ Es hora de crear unas increíbles 'cajas para espiar' sobre el océano. Todos lo
 ## Texto original completo de la actividad
 C.05 ESPIANDO EL OCÉANO. Es hora de crear unas increíbles 'cajas para espiar' sobre el océano. Todos los participantes deben llevar una caja para reutilizar (de cereal, de zapatos o cualquier caja que tengan que pueda ser reciclada). Preparen toda clase de divertidos materiales para manualidades para crear una imagen submarina - adhesivos, papel de seda, marcadores, recortes de revistas, etc. Una vez que todos hayan terminado su caja, con la ayuda de su profesor o dirigente, secretamente cubran las imágenes de todos con un papel o cartulina negra. Ahora pidan a todos los participantes que espíen dentro de cada caja. ¿Cómo se sintieron cuando no vieron 'nada'? ¿En qué se parece esto a lo que está sucediendo con los ecosistemas y los animales marinos a causa del cambio climático? Discutan sobre esto en grupo. ¿Qué podemos hacer para evitar que se pierdan nuestros preciosos recursos y animales marinos?
 
-NIVELES: 1, 2
+NIVELES: 1
 
 ---

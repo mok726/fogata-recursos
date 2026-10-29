@@ -76,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -167,6 +167,8 @@ rama_rovers:
 1. Investigá sobre políticas climáticas en tu país.
 2. Prepará preguntas para la discusión.
 3. Organizá los grupos de trabajo.
+
+> **Nota para el educador:** busquen la ley o el plan climático de su país; en Argentina, por ejemplo, la Ley 27.520 de Presupuestos Mínimos de Adaptación y Mitigación al Cambio Climático Global.
 
 ## Desarrollo
 1. Averiguá si tienen políticas, incentivos financieros, estándares energéticos o iniciativas de educación financiadas por tu gobierno.

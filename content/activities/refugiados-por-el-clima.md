@@ -87,7 +87,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -178,6 +178,8 @@ Los científicos predicen que para el año 2050, 50 millones de personas podría
 1. Investigá sobre refugiados climáticos.
 2. Prepará recursos y fuentes de información.
 3. Organizá los grupos de trabajo.
+
+> **Nota para el educador:** la cifra de "50 millones para 2050" es del original (2016). Una estimación más reciente del Banco Mundial (informe Groundswell, 2021) habla de hasta 216 millones de migrantes climáticos internos para 2050. El término jurídico "refugiado" no incluye todavía a quienes se desplazan por el clima.
 
 ## Desarrollo
 1. Investigá: ¿De dónde serán la mayoría de estos refugiados y a dónde irán?

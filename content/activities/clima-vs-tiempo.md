@@ -72,7 +72,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -161,6 +161,8 @@ rama_rovers:
 1. Prepará las tarjetas con frases como "Hace calor en Florida" o "El 1 de diciembre estaba a menos 2 grados".
 2. Marcá dos lados opuestos del salón: un lado para "Clima" y el otro para "Tiempo".
 3. Designá un área central para quienes no estén seguros.
+
+> **Nota para el educador:** en vez del ejemplo de Florida, usen su propia ciudad; en Argentina, por ejemplo, las estadísticas climáticas del SMN (smn.gob.ar).
 
 ## Desarrollo
 1. El profesor o dirigente lee una tarjeta en voz alta.

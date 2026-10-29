@@ -4,7 +4,7 @@ title: "El Gran Debate sobre el Clima"
 duration: "2 horas"
 layout: "layouts/activity.njk"
 permalink: "/activities/el-gran-debate-sobre-el-clima/"
-description: "Actividad de debate para entender y responder a los puntos de vista de los escépticos del clima."
+description: "Debate en equipos ante un panel de jueces sobre las causas del cambio climático."
 summary: "Debatir sobre el cambio climático y los escépticos."
 
 # ========== AUTORÍA Y FUENTES ==========
@@ -23,8 +23,9 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "16-22 años"
+age: "11-22 años"
 age_group:
+  - scouts
   - caminantes
   - rovers
 
@@ -75,7 +76,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -160,27 +161,27 @@ rama_rovers:
 # ¡El Gran Debate sobre el Clima!
 
 ## Resumen
-Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.
+Algunas personas sostienen que el cambio climático es un proceso natural y no causado por los humanos. En grupos, elijan un lado del debate, investiguen los argumentos y debatan ante un panel de jueces.
 
 ## Preparación
-1. Investigá los argumentos de los escépticos del clima.
-2. Prepará información científica que responda a esos argumentos.
-3. Organizá el debate en equipos.
+1. Formen dos (o más) equipos y asignen a cada uno un lado del debate.
+2. Busquen un panel de jueces objetivo: familias, profesores o dirigentes.
+3. Acuerden las reglas del debate (tiempos, turnos, réplica).
+
+> **Nota para el educador:** el consenso científico (IPCC) es que el calentamiento actual es causado principalmente por la actividad humana. El debate es un ejercicio de argumentación: al cierre, revisen juntos qué argumentos tenían respaldo en evidencia científica y cuáles no.
 
 ## Desarrollo
-1. Investigá: ¿Cuáles son los argumentos de los escépticos del clima?
-2. Investigá: ¿Cuál es la evidencia científica que responde a esos argumentos?
-3. Prepará tus argumentos y contraargumentos.
-4. Participá en un debate formal sobre el tema.
+1. **Investigación** (30 min o entre reuniones): Cada equipo investiga los argumentos de su lado.
+2. **Debate** (30 min): Presentación, réplica y conclusiones de cada equipo.
+3. **Veredicto** (10 min): El panel decide qué equipo fue más convincente.
 
 ## Cierre
-1. Reflexioná sobre la experiencia del debate.
-2. Discutan: ¿Cómo se puede dialogar respetuosamente con personas que tienen opiniones diferentes?
-3. Pregunta final: ¿Por qué es importante entender los argumentos de quienes cuestionan el cambio climático?
+- ¿Qué argumentos tenían más evidencia detrás?
+- ¿Cómo se dialoga con respeto con quien piensa distinto?
 
 ## Texto original completo de la actividad
-B.11 EL GRAN DEBATE SOBRE EL CLIMA. Algunas personas cuestionan o dudan del cambio climático. En esta actividad, investigarás sus argumentos y aprenderás a responder con evidencia científica.
+B.11 EL GRAN DEBATE SOBRE EL CLIMA. Algunas personas sostienen que el cambio climático es un proceso natural y no antropogénico, es decir, que no está siendo causado por los humanos. Sepárense en grupos y elijan un lado del debate sobre el clima para que investiguen los varios argumentos. Luego júntense en grupo y hagan un debate sobre el tema. Busquen un panel de jueces que sea objetivo, tal vez con sus padres, profesores y dirigentes, el mismo que decidirá cuál equipo fue más convincente.
 
-NIVELES: 3
+NIVELES: 2, 3
 
 ---

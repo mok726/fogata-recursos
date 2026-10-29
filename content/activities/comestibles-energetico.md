@@ -79,7 +79,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -170,6 +170,8 @@ rama_rovers:
 1. Investigá sobre la energía necesaria para producir diferentes alimentos.
 2. Prepará una tabla para registrar los datos.
 3. Organizá la cocina y los ingredientes.
+
+> **Nota para el educador:** el dato "25 veces" es del original (2016). Las cifras varían según la fuente y el sistema de producción; pueden buscar datos actualizados, por ejemplo en Our World in Data.
 
 ## Desarrollo
 1. Elegí tu alimento favorito e investigá cuánta energía se usa en su producción.

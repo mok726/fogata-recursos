@@ -23,13 +23,12 @@ version: "0.99"
 # ========== CLASIFICACIÓN ==========
 branch:
   - Naturaleza
-age: "5-22 años"
+age: "5-15 años"
 age_group:
   - castores
   - manada
   - scouts
   - caminantes
-  - rovers
 
 # ========== LOGÍSTICA ==========
 materials:
@@ -78,7 +77,7 @@ references:
     author: "FAO"
     year: 2016
     series: "Serie 'Aprender y actuar' de la YUNGA"
-    url: "https://openknowledge.fao.org/handle/20.500.14283/i5216e"
+    url: "https://www.fao.org/3/i5216s/i5216s.pdf"
 
 # ========== LICENCIA ==========
 license:
@@ -184,6 +183,6 @@ rama_rovers:
 ## Texto original completo de la actividad
 D.07 IDEAS INTERNACIONALES. ¿Tienes amigos de otros países? Habla con ellos sobre los hábitos medio ambientales del lugar donde viven. ¿Qué es más 'verde' sobre su estilo de vida? ¿Qué es más 'verde' sobre el tuyo? Por ejemplo, en Pakistán algunas personas van de casa en casa comprando los periódicos viejos de las personas y luego los venden a propietarios de negocios, quienes fabrican bolsas de papel con estos -un esquema de reciclaje donde todos ganan. ¿Qué prácticas verdes se siguen en los países de tus amigos? ¿Qué pueden aprender el uno del otro?
 
-NIVELES: 1, 2, 3
+NIVELES: 1, 2
 
 ---
