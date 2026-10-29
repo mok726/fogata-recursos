@@ -187,3 +187,10 @@ Escribí una carta a tus líderes gubernamentales pidiendo que tomen acción con
 - ¿Qué compromiso adquieres para seguir involucrándote en temas políticos?
 
 ---
+## Texto original completo de la actividad
+
+**E.09 CARTA PARA EJERCER PRESIÓN** Escribe una carta a tus líderes gubernamentales y nacionales para pedirles que se comprometan a tomar un rol activo en los esfuerzos para erradicar el hambre. Asegúrate de entregar un mensaje claro de por qué crees que es importante que ellos actúen ahora y haz algunas sugerencias de aquello que esperas de ellos. Extensión: organiza una campaña para escribir cartas en masa en tu escuela o grupo juvenil - ¡trata de despertar conciencia tanto como puedas y de motivar a tantas personas como puedas a escribir cartas!
+
+niveles 3 2
+
+---

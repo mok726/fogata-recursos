@@ -185,3 +185,10 @@ Creá estaciones con diferentes problemas de hambre y buscá soluciones en grupo
 - ¿Qué compromiso adquieres para ayudar a resolver problemas de hambre?
 
 ---
+## Texto original completo de la actividad
+
+**D.06 PISTA DE OBSTÁCULOS DEL HAMBRE** Divide tu grupo en cuatro o cinco grupos más pequeños. Crea cuatro o cinco estaciones diferentes en tu clase, cada una debe describir un problema diferente del hambre (por ej. una sequía en una región, los alimentos son muy costosos como para alimentar a una familia grande, una pareja de ancianos que no puede viajar hasta el mercado para comprar alimentos, etc.). Cada grupo debe rotar alrededor de la clase y tiene 5 minutos para tratar el problema que se ha colocado en un cartel en cada estación. Cada grupo debe hacer una lluvia de ideas sobre posibles soluciones. Una vez que todas las estaciones hayan sido visitadas por todos los grupos, discutan juntos sobre las soluciones. IDEA
+
+niveles 3 2
+
+---

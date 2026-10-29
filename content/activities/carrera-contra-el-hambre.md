@@ -196,3 +196,10 @@ Organizá una versión local de la Carrera Contra el Hambre de la FAO cerca del 
 - ¿Qué compromiso adquieres para seguir participando en iniciativas solidarias?
 
 ---
+## Texto original completo de la actividad
+
+**E.06 CARRERA CONTRA EL HAMBRE** Organiza una versión de la Carrera Contra el Hambre de la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) con tu grupo. La Carrera Contra el Hambre de la FAO se lleva a cabo cada año en un fin de semana cercano al Día Mundial de la Alimentación (16 de octubre de cada año). Visita el sitio web del evento: www.fao. org/getinvolved/worldfoodday/hunger-run/es y organiza algo similar en tu área local. ¿Qué preparativos debes hacer? ¿Cómo harás que las personas se emocionen y se involucren?
+
+niveles 3 2 1
+
+---

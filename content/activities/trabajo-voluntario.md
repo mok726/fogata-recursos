@@ -187,3 +187,10 @@ Investigá organizaciones que trabajan contra el hambre en tu comunidad y trabaj
 - ¿Qué compromiso adquieres para seguir ayudando a tu comunidad?
 
 ---
+## Texto original completo de la actividad
+
+**E.08 TRABAJO VOLUNTARIO** Mira alrededor para que averigües un poco sobre las organizaciones que trabajan para aliviar el hambre en tu comunidad (como bancos de alimentos, lugares de adoración, organizaciones de socorro, etc.). Organiza una visita de campo y haz una entrevista a algunas de las personas que trabajan ahí. ¿Cómo trabajan? ¿Qué hacen? Aprende sobre su trabajo y sus resultados y pregunta si hay algo que puedes hacer en grupo o individualmente para ayudar. Trabaja como voluntario una vez a la semana durante un par de meses.
+
+niveles 3 2
+
+---

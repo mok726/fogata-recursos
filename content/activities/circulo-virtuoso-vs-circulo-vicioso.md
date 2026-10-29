@@ -187,3 +187,10 @@ Creá una pancarta con dos columnas para comparar el círculo virtuoso y el cír
 - ¿Qué compromiso adquieres para fortalecer el círculo virtuoso?
 
 ---
+## Texto original completo de la actividad
+
+**D.07 CÍRCULO VIRTUOSO VS. CÍRCULO VICIOSO** Haz una pancarta con dos columnas llamadas CÍRCULO VIRTUOSO y CÍRCULO VICIOSO. Usa tarjetas de papel para escribir una serie de acciones que conducen al círculo virtuoso y otras acciones que conducen al círculo vicioso de la trampa del hambre. Puedes dibujar los dos círculos en la pancarta de manera que las tarjetas de papel se puedan pegar sobre los correspondientes círculos.
+
+niveles 3 2
+
+---

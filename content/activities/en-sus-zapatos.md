@@ -189,3 +189,10 @@ Ayuna durante un día completo para experimentar el hambre y reflexionar sobre l
 - ¿Qué compromiso adquieres para ayudar a quienes padecen hambre?
 
 ---
+## Texto original completo de la actividad
+
+**A.12 EN SUS ZAPATOS** Trata de no comer durante un día completo (pero toma suficiente agua para que te mantengas hidratado). ¿Cómo te sientes? Escribe cómo te sientes a lo largo del día. Podrías sentir una fuerte falta de concentración, así que ten cuidado con las actividades que realizas ese día y asegúrate de contar con un adulto que te supervise. Sabes que podrás comer de nuevo mañana, así que podrás recuperarte de un día de ayuno (no comer). Sin embargo, casi mil millones de personas no tienen esa certeza. ¿Cómo crees que se sienten? Discute sobre esto con tu grupo. Extensión: podrías hacer esta actividad como una hambruna patrocinada de 24 horas y donar el dinero que recaudaste a una organización benéfica que esté involucrada en la lucha contra el hambre.
+
+niveles 3 2
+
+---

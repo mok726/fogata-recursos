@@ -193,3 +193,10 @@ Registrá tus hábitos alimenticios durante una semana y comparalos con lo que c
 - ¿Qué acciones podés tomar para ser más consciente de tus hábitos de consumo?
 
 ---
+## Texto original completo de la actividad
+
+**A.01 COMER ALIMENTOS** Hagan un cartel que refleje sus hábitos alimenticios. Dibujen una tabla en un póster grande. En la primera columna escriban los días de la semana y en la primera fila escriban ‘desayuno’, ‘almuerzo’, ‘cena’ y ‘refrigerios’. Ahora todos ustedes pueden mantener un registro de todo lo que comen cada día durante una semana. Al final de la semana, revisen todo lo que han enumerado. Comparen esto con estimados de aquello que comen en promedio cada día las personas que viven con 1 EUA dólar al día. Discutan y reflexionen sobre esto en su próxima reunión de grupo. Extensión: También pueden mantener un registro de cuánto pagaron ustedes o sus padres por los alimentos que comieron. ¿Cuántos de estos alimentos podrían comprar si sólo ganaran 1 o 2 EUA dólares al día?
+
+niveles 3 2 1
+
+---

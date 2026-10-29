@@ -192,3 +192,10 @@ Organizá un evento ruidoso (concierto, teatro, musical) para llamar la atenció
 - ¿Qué compromiso adquieres para seguir alzando tu voz?
 
 ---
+## Texto original completo de la actividad
+
+**E.05 ¡HAZ RUIDO!** Mientras más personas alcen su voz por el hambre, será más probable que los políticos hagan que esta cuestión sea una prioridad en sus políticas. Así que, ¿qué estás esperando? Organiza un evento ruidoso: un concierto, un teatro callejero, un musical - ¡cualquier evento que se te ocurra que atraerá la atención de las personas! Asegúrate de incluir datos cautivadores sobre el hambre (mapas, causas, soluciones…) de modo que eduques y entretengas a las personas al mismo tiempo.
+
+niveles 3 2 1
+
+---

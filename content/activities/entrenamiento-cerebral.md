@@ -185,3 +185,10 @@ Creá un crucigrama, sopa de letras u otra prueba con vocabulario sobre el hambr
 - ¿Qué compromiso adquieres para seguir aprendiendo sobre el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**A.09 ENTRENAMIENTO CEREBRAL** Elabora una pequeña prueba para tus amigos o para los miembros de tu grupo usando el vocabulario relacionado con el hambre que has aprendido. Por ejemplo, podrías crear un crucigrama o una sopa de letras que incluya palabras del glosario de este folleto. Cada vez que un participante encuentre una nueva palabra, este debe explicar la palabra al resto del grupo. BUENA IDEA
+
+niveles 3 2
+
+---

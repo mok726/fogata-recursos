@@ -189,3 +189,10 @@ Investigá las estadísticas de hambre por continente y país. Creá pósters y 
 - ¿Qué compromiso adquieres para ayudar a reducir el hambre global?
 
 ---
+## Texto original completo de la actividad
+
+**A.08 CONTINENTES HAMBRIENTOS** Divídanse en siete grupos pequeños. Cada grupo debe elegir un continente y hacer un póster que muestre sus estadísticas sobre el hambre (cuántas personas padecen hambre, si viven en áreas rurales o en la ciudad, etc.). Adicionalmente, cada miembro del grupo debe elegir un país de ese continente para averiguar más sobre las personas que padecen hambre en ese lugar. Pueden usar este sitio web para empezar: www.fao.org/ countryprofiles/default/es. Presenten sus continentes y sus países individuales a los otros grupos, de modo que al final de la actividad todos los participantes estén conscientes sobre la situación global. Discutan sobre las similitudes y las diferencias entre los continentes.
+
+niveles 3 2
+
+---

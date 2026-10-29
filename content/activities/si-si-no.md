@@ -187,3 +187,10 @@ Analizá cómo el cumplimiento o incumplimiento de cada ODM afecta la erradicaci
 - ¿Qué compromiso adquieres para apoyar el cumplimiento de los ODM?
 
 ---
+## Texto original completo de la actividad
+
+**D.08 SI, SI NO** Trabajen en pares y creen una tabla con ocho filas y dos columnas. En las dos columnas escriban los siguientes encabezados: ‘Si…’ y ‘Si no…’; y en las ocho filas enumeren cada uno de los Objetivos de Desarrollo del Milenio (pp. 51-53). Piensen en cómo el cumplimiento de cada ODM podría ayudar a erradicar el hambre (en la columna ‘Si…’) y en cómo el incumplimiento de estos podría conducir a más problemas y dificultades (en la columna ‘Si no…’). Cada pareja debe compartir sus hallazgos con el resto del grupo. BUENA IDEA
+
+niveles 3 2
+
+---

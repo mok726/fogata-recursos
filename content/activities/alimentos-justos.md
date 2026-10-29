@@ -193,3 +193,10 @@ Aprendé sobre el Comercio Justo, buscá productos con el sello y promové su co
 - ¿Qué compromiso adquieres para consumir de manera más justa?
 
 ---
+## Texto original completo de la actividad
+
+**E.10 ALIMENTOS JUSTOS** Aprende sobre el Comercio Justo y sobre cómo está relacionado con la lucha contra el hambre. La próxima vez que vayas al supermercado busca productos etiquetados con el sello de Comercio Justo. ¿Qué tipo de productos son? ¿De dónde vienen? Luego, explica a tu familia y a tus amigos por qué el Comercio Justo ayuda a combatir la pobreza. Pide a tus padres que te muestren su lista del supermercado y reescríbela con ellos, reemplaza tantos elementos como puedas por alternativas de Comercio Justo.
+
+niveles 3 2 1
+
+---

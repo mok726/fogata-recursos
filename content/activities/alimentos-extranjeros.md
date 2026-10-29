@@ -195,3 +195,10 @@ Investigá recetas de otros países y cocina una comida. Compará los ingredient
 - ¿Qué compromiso adquieres para explorar más sobre la diversidad alimentaria?
 
 ---
+## Texto original completo de la actividad
+
+**A.05 ALIMENTOS EXTRANJEROS** Haz una investigación y aprende recetas de otros países o culturas. Diviértete experimentando con diferentes recetas e ingredientes que sean específicos de la región o país que elijas (por ej. pescado al curry de Tanzania o pescado con berenjenas de Ghana: www.worldcook.net/Cooking/Fish/FI-TanzanianFishCurry.htm). Elije algo que puedas cocinar sin poseer habilidades o herramientas especiales. Prepara una comida basada en una o más de estas recetas y haz algunas observaciones: ¿esta comida es más o menos rica en nutrientes que aquella comida que generalmente consumes? ¿Estas usando productos que son fáciles de mantener frescos o productos frescos que se dañan pronto? ¿Los ingredientes se cultivan o se producen en el país de origen de la receta o son importados? ¿Los ingredientes son costosos? Compara estas observaciones con los platos típicos de tu país.
+
+niveles 3 2 1
+
+---

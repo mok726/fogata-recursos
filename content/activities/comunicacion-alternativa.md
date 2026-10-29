@@ -194,3 +194,10 @@ Diseñá estrategias de comunicación creativas para difundir el mensaje de acab
 - ¿Qué compromiso adquieres para seguir comunicando este mensaje?
 
 ---
+## Texto original completo de la actividad
+
+**E.02 COMUNICACIÓN ALTERNATIVA** Si tú fueras una importante compañía trabajando con anuncios publicitarios, ¿en qué lugares estratégicos colocarías tus pancartas y mensajes para que las personas los pudiesen ver? Haz una lluvia de ideas con tus amigos e identifiquen algunas ideas originales. ¡Luego elijan una y háganla realidad! El mensaje que desean compartir con el mundo es que necesitamos acabar con el hambre urgentemente. ¿Qué eslóganes o logos atractivos podrán escribir o diseñar? Las personas ven anuncios todos los días y leen todo tipo de mensajes sin siquiera darse cuenta, así que piensen también en formas ‘alternativas’ de comunicarse. Por ejemplo, podrían organizar un ‘flash-mob’ en su ciudad con el tema ‘el hambre en el mundo’. Miren un ejemplo aquí: www.youtube.com/ watch?v=SI-_zU-F2d8.
+
+niveles 3 2 1
+
+---

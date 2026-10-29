@@ -192,3 +192,10 @@ Jugá juegos de beneficencia en línea donde cada vez que ganas se dona dinero p
 - ¿Qué compromiso adquieres para seguir apoyando causas solidarias?
 
 ---
+## Texto original completo de la actividad
+
+**B.05 ¡JUEGA POR LA ALIMENTACIÓN!** Si tienes una conexión a Internet en casa o en algún otro lugar, busca algo de tiempo para experimentar unos juegos de beneficencia: www.wfp.org/students-and-teachers/students/fun-and-learn. ¡En estos juegos, cada vez que gansas, donas dinero para las personas que padecen hambre!
+
+niveles 3 2 1
+
+---

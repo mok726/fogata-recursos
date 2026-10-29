@@ -186,3 +186,10 @@ Investigá los cambios climáticos en tu área durante los últimos 50 años y s
 - ¿Qué compromiso adquieres para actuar frente al cambio climático?
 
 ---
+## Texto original completo de la actividad
+
+**C.07 ESTUDIO SOBRE EL CAMBIO CLIMÁTICO** Investiga sobre el clima de tu área o región local. ¿Ha cambiado el clima durante los últimos 50 años? ¿Existen algunos efectos del cambio climático que se están empezando a sentir? Crea un póster para mostrar tus hallazgos. También puedes tratar de predecir cuáles efectos del cambio climático tendrán impactos en tu región en los próximos 50 años. Averigua cuáles son las proyecciones del cambio climático para tu región. ¿Habrá más inundaciones, sequías o pérdidas de tierras debido a un aumento de los niveles del mar? ¿Cómo afectarán estos cambios a la producción y a la disponibilidad de alimentos? Comparte tu póster con tu grupo.
+
+niveles 3 2
+
+---

@@ -193,3 +193,10 @@ Anotá cuánta comida desecha tu familia durante una semana y buscá formas de r
 - ¿Qué compromiso adquieres para reducir el desperdicio de alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**C.01 ALIMENTOS DESPERDICIADOS** Anota cuánta comida desecha tu familia cada día durante una semana. Al final de la semana, calcula el total de alimentos que desperdiciaron. Discute con tu familia sobre cómo podrían tratar de reducir estos desperdicios durante las próximas semanas y pongan estas sugerencias en práctica. Explica a tus padres por qué es importante no desechar los alimentos. Para más información sobre los desperdicios de alimentos visita: www.endinghunger.org/es/educate/cutting_food_waste.html Extensión: busca información sobre las pérdidas de alimentos en otras etapas del sistema alimentario (por ej. durante la producción o el transporte). ¿Qué se puede hacer para reducir estas pérdidas? Como consumidor, ¿qué puedes hacer para minimizar estas pérdidas? Haz una pequeña presentación para el resto de tu grupo.
+
+niveles 3 2 1
+
+---

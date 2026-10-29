@@ -187,3 +187,10 @@ Visitá el supermercado semanalmente durante un par de meses para anotar los pre
 - ¿Qué compromiso adquieres para ser un consumidor consciente?
 
 ---
+## Texto original completo de la actividad
+
+**B.09 LOS PRECIOS DE LOS ALIMENTOS** Visita el supermercado o el mercado con tus padres una vez a la semana durante un par de meses y anota los precios de diferentes tipos de alimentos (por ej. frutas, vegetales, pan, leche, carne). ¿Los precios cambian? Averigua por qué unos precios suben y otros precios bajan y piensa en los efectos que tienen estos cambios sobre los pobres. Extensión: si eres bueno para las matemáticas y estás interesado en aprender por qué los precios de los alimentos cambian cada día, haz una mayor investigación sobre los precios de los alimentos y aquello que los afecta. En grupos pequeños, preparen afiches para explicar aquello que descubrieron. Expónganlos públicamente para que sus amigos y su familia también aprendan sobre este tema.
+
+niveles 3 2
+
+---

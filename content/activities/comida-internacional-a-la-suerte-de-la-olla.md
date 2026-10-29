@@ -201,3 +201,10 @@ Organizá una cena internacional donde cada invitado trae un plato de un país d
 - ¿Qué compromiso adquieres para seguir difundiendo el mensaje contra el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**E.01 COMIDA INTERNACIONAL ‘A LA SUERTE DE LA OLLA’** Organiza una cena internacional ‘a la suerte de la olla’ e involucra a tantas personas como puedas (una comida ‘a la suerte de la olla’ es cuando cada invitado lleva un plato diferente para compartir con todo el grupo y al final terminas con una variedad de platos diferentes para probar y degustar). Cada persona debe cocinar una receta de un país extranjero. Decora el lugar de la cena con banderas internacionales y, si desean, vístanse con diferentes trajes nacionales. Usa la ocasión para difundir el mensaje sobre el hambre y alienta a otros a unirse a los esfuerzos por acabar con el hambre. Puedes combinar este evento con otras actividades que has preparado, por ejemplo, puedes presentar afiches y pancartas que has hecho, exhibir tu arte o tus fotografías y/o presentar tus obras de teatro o canciones. Para obtener más ideas sobre cómo ser la anfitriona de una cena visita: www.endinghunger.org/es/ educate/host_a_dinner_party.html. (Una buena fecha para tener en mente es el Día Mundial de la Alimentación, el cual es celebrado cada año el 16 de octubre. Puedes encontrar más información aquí: www.fao.org/getinvolved/worldfoodday/home/es).
+
+niveles 3 2 1
+
+---

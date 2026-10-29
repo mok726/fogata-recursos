@@ -190,3 +190,10 @@ Creá una historieta sobre un aventurero que descubre las diferencias entre la v
 - ¿Qué compromiso adquieres para ayudar a crear conciencia sobre el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**C.09 HISTORIETA SOBRE EL HAMBRE** Imagina la historia de un aventurero que viaja por todo el mundo y descubre las diferentes condiciones en las cuales viven las personas ricas y pobres. En pequeños grupos de dos o tres participantes, escriban y dibujen una historieta sobre el hambre. ¿Cómo explicarían la cuestión del hambre a los niños más pequeños especialmente? Compartan su historieta con sus familias, sus amigos y con otros grupos de insignias. ¡Asegúrense de enviar su historieta final a yunga@fao.org para que la podamos publicar en línea! IDEA
+
+niveles 3 2
+
+---

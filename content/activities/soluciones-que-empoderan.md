@@ -192,3 +192,10 @@ Hacé una lluvia de ideas sobre cómo empoderar a las personas para salir de la 
 - ¿Qué compromiso adquieres para empoderar a otros?
 
 ---
+## Texto original completo de la actividad
+
+**D.02 SOLUCIONES QUE EMPODERAN** Hagan una lluvia de ideas sobre las formas cómo las personas pueden ser empoderadas para salir de la trampa del hambre. ¿Cómo pueden llegar a ser autosuficientes y contar con seguridad alimentaria? Presenten sus hallazgos de forma divertida y creativa al resto del grupo (por ej. por medio de una canción, un póster, una obra de arte o una cautivadora presentación).
+
+niveles 3 2 1
+
+---

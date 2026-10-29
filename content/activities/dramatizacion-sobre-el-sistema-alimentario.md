@@ -188,3 +188,10 @@ Asigná roles de personas en el sistema alimentario y dramatiza situaciones dond
 - ¿Qué compromiso adquieres para valorar a quienes producen nuestros alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**B.06 DRAMATIZACIÓN SOBRE EL SISTEMA ALIMENTARIO** Piensa en todas las diferentes personas que pasan necesidades en el sistema alimentario. Con tu grupo, asigna un rol a cada persona (por ej. agricultor, conductor de camión, trabajadores de la planta de procesamiento de alimentos, dueños de un puesto en el mercado, clientes comprando alimentos, etc.). Asegúrate de que cada persona conoce los principales roles y requerimientos de su personaje en el sistema alimentario para que esté lista para actuar de acuerdo con estos. Desarrolla algunas situaciones diferentes (por ej. ‘tu área ha sido afectada por lluvias fuertes e inundaciones durante el último mes’ o ‘un terremoto ha dañado las carreteras principales en el área local’) y lleven a cabo una dramatización en la cual todos los personajes improvisen cómo la situación les está afectando a cada uno. Al final cada persona debe tener la oportunidad de expresar cómo se sintió al representar a ese personaje en la situación. Extensión: intercambien los roles entre los miembros de su grupo. ¿Cómo se ve afectado su nuevo personaje por las mismas situaciones?
+
+niveles 3 2 1
+
+---

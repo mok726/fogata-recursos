@@ -190,3 +190,10 @@ Investigá la situación del hambre en tu país, identificá regiones con mayor 
 - ¿Qué compromiso adquieres para ayudar a cambiar esta realidad?
 
 ---
+## Texto original completo de la actividad
+
+**C.06 LOS PERFILES DEL HAMBRE** Haz una investigación sobre la situación del hambre en tu país. ¿Hay regiones donde existe una mayor tasa de hambre que en otras? Si es posible, encuentra estadísticas y datos sobre los niveles de pobreza y hambre en diferentes áreas de tu país. Puedes usar este sitio web para comenzar: www.fao.org/countries/es. Ahora que ya has aprendido sobre las principales causas del hambre, habla sobre los motivos que provocaron la situación actual en tu país (o de unas regiones en particular). ¿Qué se puede hacer para cambiar esta situación?
+
+niveles 3 2
+
+---

@@ -193,3 +193,10 @@ Investigá sobre el derecho a la alimentación y los derechos humanos. Invitá a
 - ¿Qué compromiso adquieres para defender el derecho a la alimentación?
 
 ---
+## Texto original completo de la actividad
+
+**B.02 EL DERECHO A LA ALIMENTACIÓN** Aprende sobre el derecho a la alimentación. Haz una investigación independiente (¿qué es un derecho humano?, ¿qué tipo de derechos humanos existen?, ¿por qué es importante que todos tengamos el derecho a la alimentación?, etc.). También puedes invitar a una persona de una organización o asociación local que esté apoyando a los derechos humanos y/o ayudando a los pobres y hambrientos para que vaya a hablar con tu grupo acerca de su trabajo. ¡Asegúrate de hacerle muchas preguntas y de anotar sus respuestas! ¡Puedes usar estas preguntas y respuestas para que te den una guía e inspiración!: www.fao.org/docrep/016/i0093s/ i0093s.pdf.
+
+niveles 3 2 1
+
+---

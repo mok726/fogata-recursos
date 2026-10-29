@@ -188,3 +188,10 @@ Diseñá un periódico dedicado a cuestiones globales sobre el hambre y la pobre
 - ¿Qué compromiso adquieres para mantenerte informado sobre el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**B.08 FLASH INFORMATIVO** Diseña un periódico dedicado a cuestiones globales sobre el hambre y la pobreza. ¿Cómo deseas que se vea? ¿Qué noticia importante presentarás en la portada? ¿Con qué fotografías? No olvides añadir alguna información general sobre cuestiones clave. Elije los temas relacionados con el hambre que te parezcan más importantes y escribe una noticia principal en profundidad para tu público objetivo.
+
+niveles 3 2
+
+---

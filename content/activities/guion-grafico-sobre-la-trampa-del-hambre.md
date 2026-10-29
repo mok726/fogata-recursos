@@ -191,3 +191,10 @@ Creá un personaje atrapado en la trampa del hambre y dibujá un guión gráfico
 - ¿Qué aprendiste sobre la trampa del hambre?
 
 ---
+## Texto original completo de la actividad
+
+**C.02 GUIÓN GRÁFICO SOBRE LA TRAMPA DEL HAMBRE** Crea tu propio personaje que viva en la trampa del hambre, define los aspectos específicos de su vida que le hacen permanecer en este círculo vicioso. Dibuja un guión gráfico (storyboard) para contarles a otros sobre cómo es su vida. Luego, da a tu guión gráfico tres caminos diferentes hacia el círculo virtuoso, resalta qué cambios provoca cada uno en la vida de tu personaje. Comparte y exhibe tu guión gráfico con tu grupo o clase para explicar claramente qué es la trampa del hambre y el círculo virtuoso.
+
+niveles 3 2 1
+
+---

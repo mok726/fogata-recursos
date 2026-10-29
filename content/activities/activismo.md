@@ -193,3 +193,10 @@ Firmá la petición para acabar con el hambre y difundí el mensaje a través de
 - ¿Qué compromiso adquieres para seguir apoyando la lucha contra el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**E.07 ACTIVISMO** Firma la petición para acabar con el hambre (www.endinghunger.org/es/act-petition.html) y pon ‘Me gusta’ en la página de Facebook de Acabar con el Hambre para unirte al movimiento Acabar con el Hambre. Comparte estas páginas tan ampliamente como puedas en los sitios de los medios sociales e intenta animar a tus amigos y a tu familia a que también firmen la petición. ¿En qué otras formas puedes pensar para ser un activista para poner fin al hambre?
+
+niveles 3 2 1
+
+---

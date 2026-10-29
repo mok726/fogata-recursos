@@ -196,3 +196,10 @@ Revisá once mitos sobre el hambre y discutí si son verdaderos o falsos. Tomá 
 - ¿Qué compromiso adquieres para compartir información precisa sobre el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**A.07 ¡CAZADORES DE MITOS!** ¿Cuánto saben tú y tus amigos sobre el hambre? Usen este recurso (http://es.wfp.org/ historias/11-mitos-sobre-el-hambre-mundial), revisen estos once mitos uno por uno y en grupo discutan si son verdaderos o falsos. Fomenten la discusión sobre POR QUÉ la respuesta podría ser verdadera o falsa. Luego pueden tomar esta prueba sobre el hambre (http://quiz.wfp.org) y ¡ver cuántas respuestas correctas obtienen! Extensión: hagan un póster o un folleto que explique por qué estos mitos son incorrectos - ¡asegúrense de proporcionar los datos reales tan claro como puedan!
+
+niveles 3 2 1
+
+---

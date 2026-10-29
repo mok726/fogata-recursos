@@ -186,3 +186,10 @@ Reflexioná sobre el concepto de soberanía alimentaria y cómo se relaciona con
 - ¿Qué compromiso adquieres para apoyar la soberanía alimentaria?
 
 ---
+## Texto original completo de la actividad
+
+**B.07 ALIMENTOS DE LA REALEZA** Piensa un poco en el concepto de la soberanía alimentaria. ¿Qué exactamente significa para ti? Ser un ‘soberano’ significa regir o gobernar algo. ¿Por qué crees que es importante que las personas tengan la oportunidad de gobernar sus propios sistemas alimentarios? ¿Cómo está relacionada la soberanía alimentaria con el hambre en el mundo? Escribe una historia corta o una dramatización para ilustrar el concepto y aquello que significa para los individuos. Léela o preséntala a tus amigos y a tu familia. Extensión: investiga un poco, compara países que gozan de soberanía alimentaria con otros países que no poseen soberanía alimentaria.
+
+niveles 3 2
+
+---

@@ -190,3 +190,10 @@ Construí una cometa decorada con un deseo para acabar con el hambre y hacela vo
 - ¿Qué compromiso adquieres para seguir difundiendo tu mensaje?
 
 ---
+## Texto original completo de la actividad
+
+**D.03 LA COMETA DE LA ALIMENTACIÓN** Ata dos palos de madera (de menos de 50 cm) juntos para formar una cruz en la mitad. Luego puedes extender papel o tela sobre la cruz para crear la forma de una cometa. Decora tu cometa con un deseo para acabar con el hambre. Luego, ¡puedes hacer volar a tu cometa y difundir tu mensaje a tu grupo, tu escuela o tu comunidad local!
+
+niveles 2 1
+
+---

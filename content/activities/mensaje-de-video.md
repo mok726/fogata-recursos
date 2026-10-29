@@ -197,3 +197,10 @@ Grabá un video para difundir un mensaje sobre la importancia de acabar con el h
 - ¿Qué compromiso adquieres para seguir difundiendo mensajes importantes?
 
 ---
+## Texto original completo de la actividad
+
+**E.03 MENSAJE DE VIDEO** ¡Graba un video para difundir un mensaje a tu comunidad, a tu distrito o incluso a todo el mundo! ¿Qué quieres decir? ¿Cómo mostrarás cuán importante es acabar con el hambre? ¿Qué crees que atraerá la atención de las personas? Asegúrate de enviar tu video a YUNGA (yunga@fao.org) y a 1BillionHungry (The-1billionhungryproject@fao.org), ¡los mejores videos serán subidos a nuestros sitios web!
+
+niveles 3 2 1
+
+---

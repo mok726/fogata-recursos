@@ -192,3 +192,10 @@ Preparate para ser DJ de una estación de radio por un día y promueve la lucha 
 - ¿Qué compromiso adquieres para seguir usando los medios para crear conciencia?
 
 ---
+## Texto original completo de la actividad
+
+**E.04 ‘DJ’ POR UN DÍA** Imagina si pudieses controlar una estación de radio por un día. En grupo, elijan una lista de canciones que les gustaría tocar y preparen algunas noticias importantes que les gustaría compartir con su comunidad. ¡Esta es una ocasión perfecta para promover la lucha contra el hambre! Contacten a una estación de radio local y pregunten si podrían tener un poco de tiempo al aire. ¡Preparen un guión y diviértanse en su día como ‘DJ’ de radio!
+
+niveles 3 2 1
+
+---

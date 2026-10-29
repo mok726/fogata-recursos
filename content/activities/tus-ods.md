@@ -189,3 +189,10 @@ Proponé tus propios Objetivos de Desarrollo Sostenible para abordar el hambre d
 - ¿Qué compromiso adquieres para involucrarte en el desarrollo sostenible?
 
 ---
+## Texto original completo de la actividad
+
+**D.09 TUS ODS** El plazo meta de los ODM termina en el año 2015: ¿cómo crees que los objetivos deberían tratar de abordar el hambre en el futuro? ¿Cuáles crees que deberían ser los nuevos Objetivos de Desarrollo Sostenible? Haz una lluvia de ideas sobre tus propuestas de ODS y comparte tus ideas con tu grupo. ¿Existen ideas que se sobreponen? Suban sus sugerencias al sitio web del Ciberbús Escolar de las Naciones Unidas para que otros las puedan ver: www.un.org/Pubs/CyberSchoolBus.
+
+niveles 3 2
+
+---

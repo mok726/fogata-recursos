@@ -193,3 +193,10 @@ Escribí un poema acróstico sobre la lucha contra el hambre usando palabras cla
 - ¿Qué compromiso adquieres para seguir alzando tu voz?
 
 ---
+## Texto original completo de la actividad
+
+**D.04 POESÍA SOBRE EL HAMBRE** Escribe un poema acróstico sobre la lucha contra el hambre. Si no sabes cómo escribir un poema acróstico, puedes visitar este sitio web para obtener una guía: www.poetry4kids.com/blog/lessons/ how-to-write-an-acrostic-poem. Escribe un poema sobre la lucha contra la pobreza y usa palabras clave como tu palabra vertical, como por ejemplo EMPODERAR, EDUCACIÓN, ALIMENTOS, AGRICULTURA, MICROFINANCIACIÓN, etc. Comparte tu poema con tu grupo; si deseas, lo puedes incluso convertir en un póster. A
+
+niveles 3 2 1
+
+---

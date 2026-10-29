@@ -195,3 +195,10 @@ Averiguá cuánto es 1 USD en tu moneda y creá una lista de compras para un dí
 - ¿Qué compromiso adquieres para ser más consciente del valor de los alimentos?
 
 ---
+## Texto original completo de la actividad
+
+**A.06 UN DÓLAR AL DÍA** Averigua cuánto es 1 EUA dólar en tu moneda. Imagina que ganas este valor cada día; ¿qué puedes comprar con él? Escribe una lista de supermercado con ingredientes que te permitirían preparar comidas saludables y balanceadas para una persona para un día completo - así que son por lo menos tres comidas (más dos refrigerios opcionales). Visita el supermercado o el mercado y revisa los precios; ¿es posible comprar todo lo de tu lista con sólo un dólar? ¿Qué elementos deberás sacrificar? Solo imagina qué pasaría si tuvieras que proveer alimentos para toda una familia si tú todavía continuases ganando sólo un dólar cada día. Escribe una lista de aquello que te gustaría comprar. ¿Cuánto dinero más necesitarías para comprar todos los elementos de tu lista? ¿Cómo podrías conseguir este dinero? ¿O existen otras formas de obtener los alimentos? Piensa en estas preguntas y discute sobre tus observaciones e ideas con tu grupo. También puedes usar este video como un punto de discusión: www.endinghunger.org/es/educate/food_budget_challenge.html. (BUENA IDEA)
+
+niveles 3 2 1
+
+---

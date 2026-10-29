@@ -193,3 +193,10 @@ Investigá las etapas de producción de un alimento y creá una cadena alimentar
 - ¿Qué compromiso adquieres para valorar el sistema alimentario?
 
 ---
+## Texto original completo de la actividad
+
+**B.04 CADENAS ALIMENTARIAS** En grupos pequeños, elijan un tipo de alimento que comen frecuentemente e investiguen sobre las diferentes etapas de su producción (desde el cultivo, hasta la cosecha, el procesamiento, el empacado y la venta. ¡No se olviden del transporte!). En diferentes círculos de cartulina, hagan un dibujo que represente a cada etapa. Luego pueden unirlos con una cuerda y colgar sus cadenas alimentarias en su clase o sala de reunión. Extensión: si es posible, visiten una granja local o una fábrica de procesamiento de alimentos como parte de su investigación. ¿Cómo funciona? Describan los procesos que vieron y las cosas que observaron (por ej. ¿qué máquinas se están usando?, ¿las fábricas estaban muy limpias?, ¿por qué creen que es así?, etc.).
+
+niveles 3 2 1
+
+---

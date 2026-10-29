@@ -190,3 +190,10 @@ Organizá una obra de teatro o musical corto imaginando un mundo sin hambre.
 - ¿Qué compromiso adquieres para actuar contra el hambre?
 
 ---
+## Texto original completo de la actividad
+
+**D.05 UN MUNDO SIN HAMBRE** Organiza una obra de teatro o un musical corto donde imaginas un mundo sin hambre. Piensa en las causas del hambre y crea una situación en la cual estas no existan. Haz que el público piense seriamente en cómo la realidad es muy diferente a tu mundo imaginario. ¿Cómo podemos cada uno de nosotros contribuir para cambiar esta situación?
+
+niveles 3 2 1
+
+---

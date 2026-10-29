@@ -194,3 +194,10 @@ Organizá un 'Banquete del Hambre' donde los participantes reciben comidas segú
 - ¿Qué acciones podés tomar para ayudar a reducir el hambre en el mundo?
 
 ---
+## Texto original completo de la actividad
+
+**A.02 EL BANQUETE DEL HAMBRE** Invita a los miembros de tu grupo a que asistan a un ‘Banquete del Hambre’. Asegúrate de que los detalles sean una sorpresa. Cuando tus invitados lleguen, ellos pueden elegir un boleto al azar que les indicará si son trabajadores de ingresos altos, medios o bajos. Luego cada uno recibirá una comida correspondiente. Para saber cuántos boletos de cada tipo necesitarás (y qué comerá cada grupo): 1. Multiplica el total de tus invitados por 0,15. Ese número representa el 15 por ciento más alto, las personas con el nivel salarial más alto a las cuales se les servirá una comida rica y deliciosa. 2. Multiplica el total de tus invitados por 0,35. Ese número es la sección del medio y representa el 35 por ciento. Estas personas recibirán una comida simple de arroz con fréjoles. 3. El restante 50 por ciento del nivel salarial más bajo deberán servirse pequeñas porciones de arroz blanco y agua. Los invitados también pueden interpretar el personaje de una persona específica dentro del rol que han sido asignados. Obviamente, la mayoría de personas se irán del banquete sin sentirse llenas o completamente satisfechas. Al final de tu comida, permite que cada uno de los invitados hable sobre su experiencia. Úsala como una manera para hablar sobre por qué existe el hambre y sobre aquello que podemos hacer para cambiar las cosas.
+
+niveles 3 2 1
+
+---

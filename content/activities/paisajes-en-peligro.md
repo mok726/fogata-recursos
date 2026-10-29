@@ -187,3 +187,10 @@ Creá un modelo de un paisaje agrícola con desastres naturales y soluciones par
 - ¿Cómo podemos prepararnos mejor para los desastres?
 
 ---
+## Texto original completo de la actividad
+
+**C.03 PAISAJES EN PELIGRO** Haz un modelo de un paisaje agrícola usando plastilina o masilla. Si deseas, puedes hacer un modelo de tu área local o puedes crear un paisaje imaginario. ¡Si trabajan en grupo, pueden hacer un área muy grande y detallada! Piensen en todos los desastres naturales que podrían dañar sus cultivos y sus animales (por ej. inundaciones, sequías, terremotos, derrumbes, erupciones volcánicas, huracanes/tornados/ ciclones…). Inclúyelos en tu modelo - puedes hacer pequeñas etiquetas (por ej. pequeños pedazos de papel con palitos) para ayudarte. Finalmente, ¿en qué formas ingeniosas puedes pensar para proteger a tus cultivos contra estos eventos desastrosos (por ej. riberas de ríos más altas para ayudar a proteger tus cultivos contra las inundaciones, buenos sistemas de irrigación para tiempos de sequía, etc.)? Inclúyelos también en tu modelo. De esta forma, también podrás identificar para cuáles desastres naturales es más difícil prepararse.
+
+niveles 2 1
+
+---

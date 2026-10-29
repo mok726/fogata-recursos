@@ -186,3 +186,10 @@ Investigá desastres naturales en diferentes países o regiones y su relación c
 - ¿Qué compromiso adquieres para ayudar a las comunidades vulnerables?
 
 ---
+## Texto original completo de la actividad
+
+**C.08 PRESENTACIONES SOBRE DESASTRES NATURALES** Hagan una investigación sobre algunos de los principales desastres naturales que existen: ¿en qué áreas ocurren usualmente y por qué? Divídanse en grupos de manera que cada uno pueda elegir un país o una región e investigar sobre los desastres naturales que han afectado a ese lugar. ¿Estos desastres tienen relación con el hambre en la región? Hagan una presentación corta sobre sus hallazgos.
+
+niveles 3 2
+
+---
