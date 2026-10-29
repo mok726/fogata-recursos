@@ -167,7 +167,7 @@ translation_notice:
 Organizá una feria de manualidades en tu escuela donde creés nuevos productos a partir de artículos plásticos que normalmente tirarías. ¡Transformá basura en tesoros!
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Reuní artículos plásticos para reutilizar.
 3. Prepará materiales de manualidades.
 

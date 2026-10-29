@@ -168,7 +168,7 @@ translation_notice:
 Hacé un inventario detallado de los plásticos de un solo uso que usás en tu vida diaria durante una semana. Registrá qué plásticos usás, con qué frecuencia y qué pasa con ellos después de usarlos.
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Consultá la ilustración "Tipos de plástico" para ayudar a reconocer los materiales plásticos que puedas encontrar.
 3. Prepará varias bolsas de basura etiquetadas para Reutilizar, Reciclar y Desechar.
 
@@ -195,6 +195,8 @@ Evaluá tus hábitos con el plástico. Creá una serie de dibujos o un infográf
 
 1. ¿Qué plásticos de un solo uso usás más? ¿Cuántos has usado en los últimos dos meses?
 2. ¿Cuáles usás casi nunca? ¿Cuántos has usado en los últimos dos meses?
+
+> **Nota para el educador:** el original pregunta por "los últimos dos meses", aunque la auditoría dura una semana. Pueden responder con una estimación o usar directamente los datos de la semana registrada.
 3. ¿Cuántas bolsas de plástico tiraste a la basura en una semana?
 4. ¿Cuántas bolsas de plástico reciclaste en una semana?
 5. ¿Cuántas bolsas de plástico guardaste para reutilizar en una semana?

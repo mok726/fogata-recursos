@@ -32,7 +32,7 @@ age_group:
 materials:
   - Pizarra y tiza o marcadores
   - Hojas de papel
-  - Bolígrafos
+  - Lapiceras
 tools: []
 responsible:
   - Docente o Scouter

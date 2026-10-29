@@ -69,6 +69,9 @@ link:
   - url: "https://mommypotamus.com/no-sew-t-shirt-tote-bag-tutorial/"
     caption: "Tutorial: Cómo hacer una bolsa reutilizable con una remera sin coser"
     icon: "link"
+  - url: "https://www.losandes.com.ar/por-las-redes/tus-remeras-viejas-y-rotas-no-las-tires-tenes-un-tesoro-casa-la-forma-aprovecharlas-n5956823"
+    caption: "Tutorial en español (Los Andes, Argentina): bolsa con una remera vieja"
+    icon: "link"
 files: []
 
 # ========== REFERENCIAS ==========
@@ -177,6 +180,8 @@ rama_rovers:
 ## Preparación
 1. Pedir a los participantes que traigan una remera vieja que ya no usen.
 2. Asegurarse de tener tijeras afiladas (preferiblemente de tela).
+
+> **Nota de seguridad:** con los más chicos, usen tijera escolar de punta redonda o corten con supervisión de un adulto.
 3. Buscar un tutorial en video para mostrar como guía (ver enlace).
 4. Preparar el espacio con mesas y materiales.
 

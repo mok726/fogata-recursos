@@ -170,9 +170,11 @@ translation_notice:
 Investigá el impacto de la contaminación plástica en tu ecosistema local. Si vivís cerca de una playa o río, investigá la contaminación marina. Creá un breve documental con tus hallazgos.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
 2. Identificá el ecosistema local que vas a investigar.
 3. Prepará tu cámara y cuaderno para documentar.
+
+> **Nota de seguridad:** en playas, ríos y arroyos, siempre con adultos, lejos de la orilla en zonas de corriente o barrancas, y sin meterse al agua sin las medidas de seguridad acuática de tu organización.
 
 ## Desarrollo
 

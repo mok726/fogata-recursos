@@ -173,9 +173,11 @@ translation_notice:
 Seleccioná un área con problema de basura en tu comunidad (parque, playa, río o campo) y mantenla limpia durante un mes. Invitá a amigos, familiares y autoridades locales a unirse.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
 2. Identificá un lugar en tu comunidad que necesite limpieza.
 3. Conseguí guantes protectores y bolsas biodegradables.
+
+> **Nota de seguridad:** no levanten con la mano vidrios rotos, jeringas, agujas ni objetos punzantes: avisen a un adulto, que los retira con pinza o guante grueso y los descarta en un recipiente rígido. Lávense bien las manos al terminar.
 4. Si es posible, contacta a un político local o a los medios para que cubran el evento.
 
 ## Desarrollo

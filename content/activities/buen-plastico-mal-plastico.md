@@ -171,7 +171,7 @@ translation_notice:
 Aprendé a identificar los diferentes tipos de plásticos y a entender por qué los plásticos de un solo uso son los que realmente causan problemas ambientales. No todos los plásticos son malos: algunos son esenciales en la medicina, la seguridad y la tecnología.
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Revisá la ilustración "Tipos de plástico" para reconocer los materiales plásticos que puedas encontrar.
 3. Reuní ejemplos de plásticos "buenos" (casco, lapicera, anteojos, control remoto, imágenes de dispositivos médicos) y "malos" de un solo uso (pajitas, cubiertos desechables, bolsas, botellas, envases de comida para llevar).
 
@@ -197,6 +197,8 @@ Individualmente, haz listas con dibujos de todos los artículos de plástico de 
 - ¿Cuáles serían los más fáciles de dejar de usar?
 - ¿Cuáles serían los más difíciles?
 - ¿Podrías intentar pasar tres semanas sin usar uno de estos productos?
+
+> **Nota para el educador:** la duración indicada (1 día) cubre la parte I. El desafío de tres semanas es un seguimiento opcional en casa.
 
 ### Debatí en grupo
 Lean y discutan los "Tipos de plástico" con el grupo. Hagan preguntas como:

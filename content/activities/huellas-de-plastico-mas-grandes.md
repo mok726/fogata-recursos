@@ -182,6 +182,8 @@ Organizá un "enfrentamiento plástico" entre dos equipos durante un campamento 
 ### Parte I - Recolección (duración del campamento o semana)
 1. Cada participante guarda todo el plástico de un solo uso que usa (botellas, envoltorios, bolsas, etc.).
 2. Cada equipo almacena su plástico en un contenedor separado.
+
+> **Nota para el educador:** enjuaguen los envases con restos de comida o bebida antes de guardarlos, para evitar olores, insectos y roedores mientras lo acumulan.
 3. Se puede pesar o contar el plástico al final del día.
 
 ### Parte II - Comparación (20-25 minutos)

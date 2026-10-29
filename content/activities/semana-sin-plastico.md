@@ -167,14 +167,17 @@ translation_notice:
 Reuní a un grupo de amigos y comprométanse a pasar una semana completa sin usar plásticos de un solo uso. ¡Compartan ideas, anímense mutuamente y vean quién logra el desafío!
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Reuní un grupo de amigos interesados.
 3. Creá un grupo de WhatsApp para compartir ideas.
+
+> **Nota de seguridad:** con menores, el grupo tiene que estar creado y administrado por adultos responsables, según la política de protección de tu organización scout nacional o de tu escuela.
+
 
 ## Desarrollo
 
 ### Parte I - Preparación
-Como grupo, revisen las ideas para reducir plásticos (página 71 de la información de fondo).
+Como grupo, revisen las ideas para reducir plásticos (página 71 de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae)).
 
 **Ideas clave:**
 - Llevar tu propia botella reutilizable

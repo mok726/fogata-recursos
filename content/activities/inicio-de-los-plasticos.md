@@ -218,7 +218,7 @@ Esta actividad ayuda a los jóvenes a comprender que gran parte del uso del plá
 | Bolsas de plástico | | | | |
 | Botella de agua de plástico | | | | |
 | Pajita de plástico | | | | |
-| Bolígrafo desechable | | | | |
+| Lapicera descartable | | | | |
 | Vasos y platos desechables | | | | |
 | Cepillo de dientes de plástico | | | | |
 | Otros: ____________ | | | | |

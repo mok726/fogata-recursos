@@ -171,7 +171,7 @@ translation_notice:
 Realizá una auditoría completa de los plásticos de un solo uso que se usan en tu escuela. Identificá qué plásticos se usan más, cuánto se recicla y cómo podrían reemplazarse con opciones más sostenibles.
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Consultá la ilustración "Tipos de plástico" para ayudar a reconocer los materiales plásticos que puedas encontrar.
 3. Coordiná con las autoridades escolares para realizar la auditoría.
 

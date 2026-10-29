@@ -32,7 +32,7 @@ age_group:
 materials:
   - Ficha de observación de consumo doméstico (impresa)
   - Hoja de trabajo de reflexión y acción (impresa)
-  - Bolígrafos
+  - Lapiceras
 tools: []
 responsible:
   - Docente o Scouter
@@ -204,7 +204,7 @@ La mayoría de las ciudades y zonas rurales se están desarrollando rápidamente
 
 | Fecha de compra | Alimentos y bebidas | Juguetes / Juegos | Papelería | Otros |
 |-----------------|---------------------|-------------------|-----------|-------|
-| 11/11/19 (ej.) | Paquete de galletas | Bloques (plástico) | Bolígrafo | Afeitadoras descartables |
+| 11/11/19 (ej.) | Paquete de galletas | Bloques (plástico) | Lapicera | Afeitadoras descartables |
 | | Agua embotellada | Juegos de mesa | Caja de lápices | Marcos de fotos |
 
 ## Hoja de trabajo de reflexión y acción

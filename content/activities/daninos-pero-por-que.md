@@ -167,7 +167,7 @@ translation_notice:
 El PVC y el telgopor (Styrofoam) son dos de los plásticos más dañinos para la salud humana y el ambiente. Sin embargo, se usan en objetos cotidianos como envases de alimentos y juguetes infantiles. Investigá por qué son tan dañinos y qué alternativas existen.
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Consultá la ilustración "Tipos de plástico" para entender las características del PVC y el telgopor.
 3. Prepará materiales para tu presentación.
 

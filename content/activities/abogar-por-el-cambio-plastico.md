@@ -166,7 +166,7 @@ translation_notice:
 Observá cómo tu comunidad maneja los plásticos. Identificá un político local o autoridad ambiental que haya mostrado interés en temas ambientales y escribile una carta con sugerencias concretas para reducir los residuos plásticos.
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Observá y documentá la situación del plástico en tu comunidad.
 3. Identificá a quién dirigir la carta.
 

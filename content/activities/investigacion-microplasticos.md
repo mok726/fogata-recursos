@@ -166,7 +166,7 @@ translation_notice:
 Investigá qué productos cotidianos contienen microplásticos: pelotas de tenis, bolsitas de té, toallitas húmedas, purpurina, cremas faciales y pastillas para lavavajillas. Aprendé a identificarlos y a evitarlos.
 
 ## Preparación
-1. Leé la Sección B de la información de fondo: "Plástico y el planeta".
+1. Leé la Sección B de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico y el planeta".
 2. Visitá beatthemicrobead.org para conocer la guía de productos.
 3. Prepará tu cuaderno y cámara para documentar.
 

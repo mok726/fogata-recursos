@@ -175,7 +175,7 @@ translation_notice:
 Realizá un experimento práctico para descubrir qué objetos son biodegradables y cuáles no. Enterrá diferentes materiales en el suelo durante dos semanas y observá qué sucede con cada uno.
 
 ## Preparación
-1. Leé la Sección A de la información de fondo: "Plástico: el mejor amigo-enemigo del mundo".
+1. Leé la Sección A de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Plástico: el mejor amigo-enemigo del mundo".
 2. Reuní los objetos para el experimento.
 3. Elegí un lugar en el jardín o patio donde puedas enterrar los objetos.
 

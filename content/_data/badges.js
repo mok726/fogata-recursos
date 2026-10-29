@@ -228,8 +228,12 @@ sections: {
       hero_image: "/imagenes/insignias/ptt-hero.png",
       sources: [
         {
-          name: "Plastic Tide Turners Challenge Badge",
-          url: "https://www.fao.org/yunga/resources/challengebadges/plastic-tide-turner/es/"
+          name: "FAO/YUNGA: Plastics Challenge Badge (2024), actividades A–C",
+          url: "https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae"
+        },
+        {
+          name: "OMMS: Tide Turners Plastic Challenge – Implementation Manual (2020), actividades P",
+          url: "https://learn.scout.org/node/8523"
         }
       ],
   license: {

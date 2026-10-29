@@ -179,6 +179,8 @@ Diferentes materiales en el medio ambiente tardan diferentes períodos de tiempo
 - Usar guantes al manipular residuos.
 - Lavarse bien las manos después de la actividad.
 - No enterrar materiales peligrosos o tóxicos.
+- Si usan vidrio, que sea un frasco o pieza entera, sin bordes rotos, y que se desentierre con supervisión de un adulto.
+- Marquen y protejan el lugar: los restos de comida atraen animales.
 
 ## Preparación
 1. Presentar el concepto de materiales biodegradables y no biodegradables.

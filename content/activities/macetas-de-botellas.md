@@ -185,6 +185,8 @@ Las botellas PET de gaseosa vienen en diferentes formas y tamaños. Estas botell
 1. Colocar la botella horizontalmente sobre una superficie plana.
 2. Cortar una sección rectangular de un lado de la botella de plástico (dejando la tapa puesta).
 3. Hacer pequeños agujeros en la base de la botella para el drenaje (opcional).
+
+> **Nota para el educador:** recomendamos hacer siempre los agujeros de drenaje. Sin ellos, el agua se acumula y las raíces se pudren.
 4. Llenar la botella con tierra.
 5. Plantar semillas de flores o vegetales / hierbas en la tierra (usar lo que se cultiva localmente en tu área).
 6. Usar la cuerda para colgar la botella en un lugar apropiado con máxima luz solar.

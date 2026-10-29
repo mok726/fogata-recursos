@@ -169,7 +169,7 @@ translation_notice:
 Creá una campaña de concientización sobre plásticos en un área comercial local. Usá carteles y redes sociales para informar, motivar y dar alternativas concretas para reducir el uso de plásticos.
 
 ## Preparación
-1. Leé la Sección C de la información de fondo: "Tomar acción".
+1. Leé la Sección C de la [información de fondo](https://openknowledge.fao.org/items/4d60acc8-36c3-4bfb-bbe5-68f17fd8c2ae) (FAO, PDF en inglés): "Tomar acción".
 2. Identificá un área comercial cercana donde se usen muchos plásticos de un solo uso.
 3. Conseguí permiso para colocar carteles.
 4. Prepará materiales para crear carteles.
